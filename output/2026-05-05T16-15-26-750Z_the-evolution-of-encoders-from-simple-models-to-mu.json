@@ -1,0 +1,10 @@
+{
+  "title": "The evolution of encoders: From simple models to multimodal AI",
+  "slides": [
+    "Encoders started as simple text models",
+    "They turn data into numbers",
+    "Better data means better AI",
+    "Train yours on different inputs",
+    "Multimodal encoders understand text, images, audio"
+  ]
+}
