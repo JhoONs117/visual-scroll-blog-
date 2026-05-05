@@ -15,6 +15,7 @@ Non è necessario capire tutto il codice: ogni sezione indica esattamente quale 
 6. [Come aggiornare i contenuti manualmente](#6-aggiornare-i-contenuti-manualmente)
 7. [Come leggere i log per capire cosa è successo](#7-leggere-i-log)
 8. [Come svuotare la cache](#8-svuotare-la-cache)
+9. [Come funziona l'automazione GitHub Actions](#9-come-funziona-lautomazione-github-actions)
 
 ---
 
@@ -248,3 +249,52 @@ echo "{}" > /home/miki/visual-scroll-blog/cache.json
 La prossima esecuzione di `run.js` rigenererà tutte le slide chiamando DeepSeek.
 
 > Attenzione: svuotare la cache aumenta il numero di chiamate API e quindi il costo. Fallo solo quando necessario.
+
+---
+
+## 9. Come funziona l'automazione GitHub Actions
+
+Il file `.github/workflows/pipeline.yml` fa girare `run.js` automaticamente ogni 2 ore sui server di GitHub, anche con il PC spento.
+
+### Come triggerare la pipeline manualmente (senza aspettare 2 ore)
+
+1. Vai su `https://github.com/JhoONs117/visual-scroll-blog-`
+2. Clicca su **Actions** nel menu in alto
+3. Clicca su **Pipeline automatica** nella lista a sinistra
+4. Clicca **Run workflow** → **Run workflow**
+5. Aspetta ~5-8 minuti — Railway si aggiorna automaticamente dopo
+
+### Come vedere i log di una esecuzione
+
+1. Vai su **Actions** → clicca sull'esecuzione che ti interessa
+2. Clicca su **run-pipeline**
+3. Espandi il passo **Esegui pipeline** per vedere il riepilogo (articoli fetched, slide generate, ecc.)
+
+### Cosa succede se la pipeline fallisce
+
+GitHub manda una email automatica all'indirizzo dell'account. I motivi più comuni:
+- **Credito DeepSeek esaurito** — ricarica su platform.deepseek.com
+- **Feed RSS tutti offline** — temporaneo, riprova più tardi
+- **DEEPSEEK_API_KEY mancante** — vai su GitHub → Settings → Secrets and variables → Actions e verifica che il segreto esista
+
+### Come cambiare la frequenza (es. ogni 6 ore invece di 2)
+
+**File da modificare:** `.github/workflows/pipeline.yml`
+
+Cerca questa riga:
+
+```yaml
+- cron: '0 */2 * * *'
+```
+
+**Esempio — ogni 6 ore:**
+```yaml
+- cron: '0 */6 * * *'
+```
+
+**Esempio — una volta al giorno alle 8:00:**
+```yaml
+- cron: '0 8 * * *'
+```
+
+Dopo la modifica fai `git push` — GitHub applica il nuovo orario automaticamente.

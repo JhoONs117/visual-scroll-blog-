@@ -7,11 +7,11 @@ Stato aggiornato al: 2026-05-05
 ## Cos'è il progetto
 
 Sistema automatico che:
-1. Recupera articoli AI da feed RSS
+1. Recupera articoli AI da feed RSS ogni 2 ore
 2. Li filtra (deduplica → hard filter → AI filter con DeepSeek)
 3. Genera 5 slide per ogni articolo valido
-4. Le salva come JSON in `output/`
-5. Le mostra come pagina scroll-snap su mobile
+4. Le salva come JSON in `output/` e aggiorna `frontend/data.js`
+5. Le mostra come pagina scroll-snap su mobile via Railway
 
 ---
 
@@ -24,6 +24,8 @@ Sistema automatico che:
 - **md5** — hash per cache
 - **dotenv** — variabili d'ambiente
 - **HTML/CSS puro** — frontend scroll-snap, nessuna dipendenza esterna
+- **GitHub Actions** — esecuzione automatica pipeline ogni 2 ore
+- **Railway** — hosting del server Node.js, auto-deploy su push
 
 ---
 
@@ -31,7 +33,8 @@ Sistema automatico che:
 
 | File | Ruolo |
 |---|---|
-| `run.js` | Entry point — orchestra l'intera pipeline |
+| `run.js` | Entry point — orchestra l'intera pipeline + scrive `frontend/data.js` |
+| `server.js` | HTTP server minimale — serve `frontend/` su Railway |
 | `fetch.js` | Legge i feed RSS, restituisce `{ title, link, pubDate }[]` |
 | `filter.js` | `deduplicate`, `hardFilter`, `batchAIFilter` |
 | `deepseek.js` | Wrapper `callDeepSeek(prompt)` → stringa risposta |
@@ -40,7 +43,9 @@ Sistema automatico che:
 | `cache.json` | Cache persistente hash→slides (evita chiamate API duplicate) |
 | `review_queue.json` | Articoli che non hanno superato la validazione dopo 2 tentativi |
 | `output/` | File JSON generati dalla pipeline, uno per articolo |
-| `frontend/index.html` | Pagina scroll-snap con 5 slide hardcoded (prototipo visivo) |
+| `frontend/index.html` | Pagina scroll-snap dinamica |
+| `frontend/data.js` | Generato da `run.js` — contiene `window.ARTICLES = [...]` |
+| `.github/workflows/pipeline.yml` | GitHub Actions — cron ogni 2 ore |
 
 ---
 
@@ -74,7 +79,7 @@ Sistema automatico che:
 
 ### M6 — Generazione slide ✅
 - `generateSlides(title)`: prompt DeepSeek → 5 slide, max 8 parole ciascuna
-- Parse robusto con regex su risposta grezza (gestisce testo extra attorno al JSON)
+- Parse robusto con regex su risposta grezza
 - Restituisce `{ title, slides[5] }`
 
 ### M7 — Validazione e fallback ✅
@@ -89,57 +94,55 @@ Sistema automatico che:
 - Cache aggiornata su disco dopo ogni generazione valida
 
 ### M9 — Pipeline completa in run.js ✅
-- Flusso: fetch → dedup → hardFilter → batchAIFilter → validateWithFallback → salva JSON
+- Flusso: fetch → dedup → hardFilter → batchAIFilter → validateWithFallback → salva JSON → scrive data.js
 - Output: `output/{{timestamp}}_{{slug}}.json`
 - Riepilogo finale a console
-- Risultato primo run: 32 fetched → 16 slide generate, 0 fallback
 
 ### M10 — Frontend scroll-snap ✅
-- `frontend/index.html`: 5 slide hardcoded, CSS puro
+- `frontend/index.html`: CSS scroll-snap puro
 - `scroll-snap-type: y mandatory`, ogni slide `100vh`
 - Palette monocromatica slate (#0f172a → #475569)
-- Testato su telefono via WSL2 port forwarding (`192.168.1.2:3000`)
 
 ### M11 — Frontend dinamico ✅
-- `run.js` al termine legge tutti i file in `output/` e scrive `frontend/data.js` con `window.ARTICLES = [...]`
-- `index.html` importa `data.js` e renderizza le slide reali in JS puro
+- `run.js` scrive `frontend/data.js` con `window.ARTICLES = [...]`
+- `index.html` renderizza le slide reali in JS puro
 - Colori ciclano per gruppo di 5 slide con classi `.slide-color-0..4`
 - Se `ARTICLES` è vuoto mostra "Nessun articolo disponibile"
-- Nessun server richiesto — funziona anche da file locale
 
-### M13 — Deploy ✅
+### M12 — Automazione GitHub Actions ✅
+- `.github/workflows/pipeline.yml`: cron `0 */2 * * *`
+- Esegue `node run.js`, committa `output/` e `frontend/data.js`, pusha
+- `DEEPSEEK_API_KEY` salvata come GitHub Secret
+- Trigger manuale disponibile da GitHub → Actions → Run workflow
+- Log visibili direttamente su GitHub Actions
+
+### M13 — Deploy Railway ✅
 - Deploy su Railway collegando il repo GitHub
-- `npm start` esegue solo `node server.js` (il server parte in 1 secondo)
-- Pipeline separata: `npm run pipeline` (`node run.js`) gira in locale
-- Workflow aggiornamento contenuti: `node run.js` → `git push` → Railway rideploya automaticamente
-- `DEEPSEEK_API_KEY` impostata come variabile d'ambiente in Railway (non nel `.env`)
-- `server.js`: HTTP server minimale con Node built-in, nessuna dipendenza esterna, legge `PORT` da env
+- `npm start` esegue solo `node server.js`
+- Auto-deploy attivo: ogni push di GitHub Actions triggera un nuovo deploy
+- `DEEPSEEK_API_KEY` impostata anche come variabile d'ambiente in Railway
+- `server.js`: HTTP server minimale, legge `PORT` da env
 
 ---
 
-### M12 — Cron + scheduling ✅
-- Cron installato su WSL con `crontab` direttamente da bash (evitato l'editor per problemi di copia)
-- Esecuzione ogni 2 ore agli orari pari: `0 */2 * * * node run.js`
-- Log salvati in `logs/run.log` (cartella esclusa dal `.gitignore`)
-- Comando: `/home/miki/.nvm/versions/node/v22.22.2/bin/node /home/miki/visual-scroll-blog/run.js >> /home/miki/visual-scroll-blog/logs/run.log 2>&1`
+## Flusso autonomo completo
 
----
-
-## Progetto completato
-
-Tutte le milestone M1–M13 sono complete. Il sistema gira in autonomia:
-1. Il cron esegue `run.js` ogni 2 ore
-2. `run.js` fetcha, filtra, genera slide e aggiorna `frontend/data.js`
-3. Fai `git push` → Railway rideploya con i nuovi contenuti
+```
+ogni 2 ore
+  └── GitHub Actions esegue run.js
+        └── fetch RSS → filter → AI filter → generate slides
+              └── salva output/*.json + frontend/data.js
+                    └── git commit + push
+                          └── Railway rideploya automaticamente
+                                └── sito aggiornato online
+```
 
 ---
 
 ## Note operative
 
-- **Feed O'Reilly** (`feeds.feedburner.com/oreilly/radar`) restituisce 404 — ignorato, gli altri due funzionano
-- **WSL2 port forwarding**: l'IP WSL2 cambia ad ogni riavvio; per riesporlo rieseguire:
-  ```powershell
-  netsh interface portproxy add v4tov4 listenport=3000 listenaddress=0.0.0.0 connectport=3000 connectaddress=$(wsl hostname -I)
-  ```
-- **DeepSeek cost**: filtro AI + generazione slide per ~16 articoli consuma pochi centesimi per run
-- **Cache**: dopo il primo run completo, le rigenerazioni sugli stessi titoli non costano nulla
+- **Feed O'Reilly** restituisce 404 — ignorato automaticamente
+- **DeepSeek cost**: ~pochi centesimi per run, la cache azzera il costo sugli articoli già visti
+- **GitHub Actions**: gratuito fino a 2000 min/mese — il progetto ne usa ~30/mese
+- **Token GitHub**: quello con scope `workflow` è necessario per pushare il file `.github/workflows/`
+- **WSL cron**: installato ma non necessario — GitHub Actions è la fonte primaria di automazione
