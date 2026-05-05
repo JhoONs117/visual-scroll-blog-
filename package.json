@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node run.js && node server.js",
+    "start": "node server.js",
+    "pipeline": "node run.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
