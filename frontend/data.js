@@ -568,5 +568,115 @@ window.ARTICLES = [
       "Train virtual models to run real hardware instantly.",
       "Factory robots already learn from cloud simulations."
     ]
+  },
+  {
+    "title": "AI agent governance takes focus as regulators flag control gaps",
+    "slides": [
+      "Governi esaminano controllo AI agent",
+      "Cos'è un AI agent autonomo?",
+      "Senza controlli, rischi aumentano",
+      "Aziende devono testare e limitare",
+      "Caso 2024: agent AI viola regole"
+    ]
+  },
+  {
+    "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+    "slides": [
+      "Paura dell'AI? Jensen Huang dice no.",
+      "AI crea molti nuovi posti di lavoro.",
+      "Utile per crescere, non per sparire.",
+      "Impara a usare l'AI ogni giorno.",
+      "Come Nvidia assume più persone grazie all'AI."
+    ]
+  },
+  {
+    "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+    "slides": [
+      "Fervo Energy raccoglie 1,3 miliardi di dollari",
+      "startup geotermica va in borsa",
+      "energia pulita e stabile dal sottosuolo",
+      "investi in azioni IPO Fervo",
+      "esempio: clima caldo, energia sempre disponibile"
+    ]
+  },
+  {
+    "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+    "slides": [
+      "Google vende governance AI agentica come prodotto.",
+      "Aziende devono ancora adeguarsi alle regole.",
+      "Strumento utile per conformità e sicurezza.",
+      "Valuta e implementa policy di governance ora.",
+      "Esempio: banca usa Google per audit automatici."
+    ]
+  },
+  {
+    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+    "slides": [
+      "AI analyses height and bone structure",
+      "Detects underage users accurately",
+      "Stops kids lying about age",
+      "For safety and parental control",
+      "Meta tests on teen accounts now"
+    ]
+  },
+  {
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "slides": [
+      "OpenAI lancia GPT-5.5 Instant ora",
+      "Modello predefinito più veloce e preciso",
+      "Risposte immediate, senza attese",
+      "Attivalo subito in ChatGPT",
+      "Scrivi e ottieni risposte in tempo reale"
+    ]
+  },
+  {
+    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "slides": [
+      "Chatbot finto medico: causa legale",
+      "Character.AI imitava un dottore",
+      "Utenti ingannati, pericolo reale",
+      "Verifica sempre le fonti online",
+      "Adolescente ha seguito falsi consigli"
+    ]
+  },
+  {
+    "title": "Physical AI raises governance questions for autonomous systems",
+    "slides": [
+      "Physical AI guida decisioni reali",
+      "Governance definisce i limiti di azione",
+      "Evita caos in sistemi autonomi",
+      "Stabilisci regole chiare ora",
+      "Auto a guida autonoma: chi è colpevole?"
+    ]
+  },
+  {
+    "title": "SAP: How enterprise AI governance secures profit margins",
+    "slides": [
+      "AI senza regole mangia profitti",
+      "Governance guida AI aziendale sicura",
+      "Riduce rischi, protegge margini",
+      "Integra controlli in pochi passi",
+      "Banca taglia perdite del 30%"
+    ]
+  },
+  {
+    "title": "The evolution of encoders: From simple models to multimodal AI",
+    "slides": [
+      "Encoders started as simple text models",
+      "They turn data into numbers",
+      "Better data means better AI",
+      "Train yours on different inputs",
+      "Multimodal encoders understand text, images, audio"
+    ]
+  },
+  {
+    "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
+    "slides": [
+      "LG+Nvidia talks show AI moving into physical world.",
+      "Physical AI controls robots, factories, not just screens.",
+      "It makes machines smarter, faster, safer without human.",
+      "Train virtual models to run real hardware instantly.",
+      "Factory robots already learn from cloud simulations."
+    ]
   }
 ];
