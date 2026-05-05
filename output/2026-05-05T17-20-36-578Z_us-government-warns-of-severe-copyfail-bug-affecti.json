@@ -1,0 +1,10 @@
+{
+  "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+  "slides": [
+    "US gov warns: CopyFail bug hits Linux",
+    "CopyFail corrupts data silently",
+    "Patch now to prevent data loss",
+    "Update your Linux kernel immediately",
+    "CVE-2023-3269: real server crashes reported"
+  ]
+}

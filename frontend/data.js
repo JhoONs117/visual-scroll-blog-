@@ -318,5 +318,135 @@ window.ARTICLES = [
       "Train virtual models to run real hardware instantly.",
       "Factory robots already learn from cloud simulations."
     ]
+  },
+  {
+    "title": "AI agent governance takes focus as regulators flag control gaps",
+    "slides": [
+      "Governi esaminano controllo AI agent",
+      "Cos'è un AI agent autonomo?",
+      "Senza controlli, rischi aumentano",
+      "Aziende devono testare e limitare",
+      "Caso 2024: agent AI viola regole"
+    ]
+  },
+  {
+    "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+    "slides": [
+      "Paura dell'AI? Jensen Huang dice no.",
+      "AI crea molti nuovi posti di lavoro.",
+      "Utile per crescere, non per sparire.",
+      "Impara a usare l'AI ogni giorno.",
+      "Come Nvidia assume più persone grazie all'AI."
+    ]
+  },
+  {
+    "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+    "slides": [
+      "CopilotKit raccoglie 27 milioni dollari",
+      "Aiuta sviluppatori a creare agenti AI",
+      "Integra AI direttamente nelle app",
+      "Veloce da implementare e usare",
+      "Esempio: chat AI in app esistenti"
+    ]
+  },
+  {
+    "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+    "slides": [
+      "Google vende governance AI agentica come prodotto.",
+      "Aziende devono ancora adeguarsi alle regole.",
+      "Strumento utile per conformità e sicurezza.",
+      "Valuta e implementa policy di governance ora.",
+      "Esempio: banca usa Google per audit automatici."
+    ]
+  },
+  {
+    "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
+    "slides": [
+      "cPanel bug sfruttato su larga scala",
+      "hacker controllano migliaia di siti",
+      "falla permette accesso admin remoto",
+      "aggiorna subito alla versione sicura",
+      "esempio: backdoor installata su server"
+    ]
+  },
+  {
+    "title": "Image AI models now drive app growth, beating chatbot upgrades",
+    "slides": [
+      "Image AI boosts installs more than chatbots",
+      "Visual content drives user engagement",
+      "Better retention, fewer upgrades needed",
+      "Add image personalization to your app",
+      "Spotify saw 30% lift with AI covers"
+    ]
+  },
+  {
+    "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
+    "slides": [
+      "GenAI unicorn pivots from models to cloud services.",
+      "Building AI models proved too costly and complex.",
+      "Cloud services offer steady revenue and lower risk.",
+      "Now they sell AI tools for businesses.",
+      "Example: custom chatbots for Indian firms."
+    ]
+  },
+  {
+    "title": "Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries",
+    "slides": [
+      "Batterie auto finite elettrizzano le case",
+      "Riuso batterie per accumulare energia",
+      "Risolve carenza di rete elettrica",
+      "Raccolgono batterie usate da fabbriche",
+      "40 milioni per espandere impianti"
+    ]
+  },
+  {
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "slides": [
+      "OpenAI lancia GPT-5.5 Instant",
+      "Modello più veloce e intelligente",
+      "Risposte più rapide e precise",
+      "Usalo subito in ChatGPT",
+      "Esempio: scrive articoli in secondi"
+    ]
+  },
+  {
+    "title": "PayPal says it’s ‘becoming a technology company again.’ That means AI.",
+    "slides": [
+      "PayPal torna tecnologia, usa AI.",
+      "AI migliora pagamenti e sicurezza.",
+      "Più veloce, meno frodi, clienti felici.",
+      "Sviluppa strumenti AI per transazioni.",
+      "Esempio: AI blocca pagamenti sospetti."
+    ]
+  },
+  {
+    "title": "Physical AI raises governance questions for autonomous systems",
+    "slides": [
+      "Physical AI guida decisioni reali",
+      "Governance definisce i limiti di azione",
+      "Evita caos in sistemi autonomi",
+      "Stabilisci regole chiare ora",
+      "Auto a guida autonoma: chi è colpevole?"
+    ]
+  },
+  {
+    "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+    "slides": [
+      "US gov warns: CopyFail bug hits Linux",
+      "CopyFail corrupts data silently",
+      "Patch now to prevent data loss",
+      "Update your Linux kernel immediately",
+      "CVE-2023-3269: real server crashes reported"
+    ]
+  },
+  {
+    "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
+    "slides": [
+      "LG+Nvidia talks show AI moving into physical world.",
+      "Physical AI controls robots, factories, not just screens.",
+      "It makes machines smarter, faster, safer without human.",
+      "Train virtual models to run real hardware instantly.",
+      "Factory robots already learn from cloud simulations."
+    ]
   }
 ];
