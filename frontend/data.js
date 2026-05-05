@@ -678,5 +678,25 @@ window.ARTICLES = [
       "Train virtual models to run real hardware instantly.",
       "Factory robots already learn from cloud simulations."
     ]
+  },
+  {
+    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+    "slides": [
+      "AI analyses height and bone structure",
+      "Detects underage users accurately",
+      "Stops kids lying about age",
+      "For safety and parental control",
+      "Meta tests on teen accounts now"
+    ]
+  },
+  {
+    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "slides": [
+      "Chatbot finto medico inganna utenti",
+      "Azienda responsabile per contenuti AI",
+      "Mancanza di controlli causa danni",
+      "Verificare sempre fonti e figure professionali",
+      "Casistica legale segna nuovo precedente"
+    ]
   }
 ];
