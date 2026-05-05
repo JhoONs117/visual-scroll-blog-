@@ -100,30 +100,31 @@ Sistema automatico che:
 - Palette monocromatica slate (#0f172a → #475569)
 - Testato su telefono via WSL2 port forwarding (`192.168.1.2:3000`)
 
+### M11 — Frontend dinamico ✅
+- `run.js` al termine legge tutti i file in `output/` e scrive `frontend/data.js` con `window.ARTICLES = [...]`
+- `index.html` importa `data.js` e renderizza le slide reali in JS puro
+- Colori ciclano per gruppo di 5 slide con classi `.slide-color-0..4`
+- Se `ARTICLES` è vuoto mostra "Nessun articolo disponibile"
+- Nessun server richiesto — funziona anche da file locale
+
+### M13 — Deploy ✅
+- Deploy su Railway collegando il repo GitHub
+- `npm start` esegue solo `node server.js` (il server parte in 1 secondo)
+- Pipeline separata: `npm run pipeline` (`node run.js`) gira in locale
+- Workflow aggiornamento contenuti: `node run.js` → `git push` → Railway rideploya automaticamente
+- `DEEPSEEK_API_KEY` impostata come variabile d'ambiente in Railway (non nel `.env`)
+- `server.js`: HTTP server minimale con Node built-in, nessuna dipendenza esterna, legge `PORT` da env
+
 ---
 
 ## Milestones da fare
-
-### M11 — Frontend dinamico (priorità assoluta)
-- Leggere `output/*.json` e renderizzare le slide reali nel browser
-- Approccio scelto: `run.js` scrive un file `frontend/data.js` statico (`window.ARTICLES = [...]`) che `index.html` importa con `<script src="data.js">`
-- Nessun server HTTP richiesto — funziona anche da file locale
-- Prerequisito per tutto il resto: il backend non serve a nulla se il formato non è visibile
 
 ### M12 — Cron + lock + logging
 - Esecuzione autonoma di `run.js` ogni N ore
 - Lock file per evitare doppie esecuzioni sovrapposte
 - Log su `logs/run.log` per debug reale
-- Attenzione: su Railway/Render con container che ripartono il lock può restare bloccato — valutare cron di piattaforma invece di lock custom
-- Da fare DOPO il deploy, non prima
-
-### M13 — Deploy
-- Opzioni: Railway (più veloce), Render (cold start rompe cron su piano free), VPS Hetzner ~4$/mese (più controllo, cron di sistema)
-- Deploy iniziale senza cron (solo `run.js` manuale) — aggiungere M12 dopo che gira in prod
-- Obiettivo: endpoint pubblico per servire `frontend/index.html` e i JSON
-
-### Ordine consigliato
-M11 → M13 (deploy statico) → M12 (cron in prod)
+- Opzione consigliata: GitHub Actions con schedule cron (gratuito, zero infrastruttura)
+- Alternativa: cron di Railway (garantisce una sola esecuzione, evita il problema del lock su container)
 
 ---
 

@@ -612,7 +612,7 @@ CSS richiesto:
 
 
 
-\### Milestone 11 — Frontend dinamico (priorità assoluta)
+\### Milestone 11 — Frontend dinamico ✅
 
 
 
@@ -687,7 +687,7 @@ crontab -e
 
 
 
-\### Milestone 13 — Deploy
+\### Milestone 13 — Deploy ✅
 
 
 
