@@ -1,0 +1,250 @@
+# Manuale operativo — Visual AI Scroll Blog
+
+Questo documento spiega come modificare il sistema, con esempi pratici.
+Non è necessario capire tutto il codice: ogni sezione indica esattamente quale file aprire e cosa cambiare.
+
+---
+
+## Indice
+
+1. [Come aggiungere una nuova fonte di notizie](#1-aggiungere-una-nuova-fonte-di-notizie)
+2. [Come cambiare i filtri sulle parole chiave](#2-cambiare-i-filtri-sulle-parole-chiave)
+3. [Come modificare il criterio di qualità AI](#3-modificare-il-criterio-di-qualità-ai)
+4. [Come cambiare il numero di slide o le parole per slide](#4-cambiare-il-numero-di-slide-o-le-parole-per-slide)
+5. [Come cambiare i colori del frontend](#5-cambiare-i-colori-del-frontend)
+6. [Come aggiornare i contenuti manualmente](#6-aggiornare-i-contenuti-manualmente)
+7. [Come leggere i log per capire cosa è successo](#7-leggere-i-log)
+8. [Come svuotare la cache](#8-svuotare-la-cache)
+
+---
+
+## 1. Aggiungere una nuova fonte di notizie
+
+**File da modificare:** `fetch.js`
+
+Cerca questa sezione nel file:
+
+```js
+const FEEDS = [
+  'https://feeds.feedburner.com/oreilly/radar',
+  'https://www.artificialintelligence-news.com/feed/',
+  'https://techcrunch.com/feed/',
+];
+```
+
+Aggiungi l'URL del nuovo feed RSS in fondo all'array, prima della `]`.
+
+**Esempio — aggiungere il feed di The Verge:**
+
+```js
+const FEEDS = [
+  'https://feeds.feedburner.com/oreilly/radar',
+  'https://www.artificialintelligence-news.com/feed/',
+  'https://techcrunch.com/feed/',
+  'https://www.theverge.com/rss/index.xml',
+];
+```
+
+> **Come trovare l'URL RSS di un sito:** cerca su Google `"nome sito" RSS feed`, oppure prova ad aggiungere `/feed/` o `/rss/` alla fine dell'URL principale del sito.
+
+---
+
+## 2. Cambiare i filtri sulle parole chiave
+
+**File da modificare:** `filter.js`
+
+Il sistema ha due liste che determinano quali notizie passano:
+
+```js
+const WHITELIST = ['ai', 'gpt', 'agent', 'llm', 'model', 'openai'];
+const BLACKLIST = ['funding', 'politics', 'lawsuit', 'acquisition'];
+```
+
+- **WHITELIST** — la notizia deve contenere almeno una di queste parole per passare
+- **BLACKLIST** — la notizia viene scartata se contiene anche solo una di queste parole
+
+**Esempio — aggiungere "claude" e "gemini" alla whitelist:**
+
+```js
+const WHITELIST = ['ai', 'gpt', 'agent', 'llm', 'model', 'openai', 'claude', 'gemini'];
+```
+
+**Esempio — escludere anche notizie su acquisizioni e layoff:**
+
+```js
+const BLACKLIST = ['funding', 'politics', 'lawsuit', 'acquisition', 'layoff', 'fired'];
+```
+
+> Le parole vengono cercate nel titolo dell'articolo, non nel testo completo. Non distingue maiuscole da minuscole: scrivere `"gpt"` trova anche "GPT-4", "GPT5", ecc.
+
+---
+
+## 3. Modificare il criterio di qualità AI
+
+**File da modificare:** `filter.js`
+
+DeepSeek valuta ogni articolo con un punteggio da 0 a 10. Solo gli articoli con punteggio alto vengono trasformati in slide. La soglia attuale è 7.
+
+Cerca questa riga:
+
+```js
+if (byIndex[j].useful && byIndex[j].score >= 7) {
+```
+
+**Esempio — abbassare la soglia a 5 per ottenere più articoli:**
+
+```js
+if (byIndex[j].useful && byIndex[j].score >= 5) {
+```
+
+**Esempio — alzare la soglia a 9 per avere solo i migliori:**
+
+```js
+if (byIndex[j].useful && byIndex[j].score >= 9) {
+```
+
+> Abbassare la soglia → più contenuti, qualità media più bassa.
+> Alzare la soglia → meno contenuti, qualità più alta.
+
+---
+
+## 4. Cambiare il numero di slide o le parole per slide
+
+**File da modificare:** `generate.js` e `validate.js`
+
+### Cambiare il numero di slide
+
+In `generate.js` il prompt inviato a DeepSeek descrive le 5 slide. Per passare a 3 slide, modifica il prompt:
+
+```js
+// Da questo (5 slide):
+"slides": [
+  "hook breve e forte",
+  "spiegazione semplice",
+  "perche e utile",
+  "azione pratica",
+  "esempio reale"
+]
+
+// A questo (3 slide):
+"slides": [
+  "hook breve e forte",
+  "spiegazione semplice",
+  "esempio reale"
+]
+```
+
+Poi aggiorna anche `validate.js` — cambia il controllo da 5 a 3:
+
+```js
+// Da:
+if (!Array.isArray(slides) || slides.length !== 5) return false;
+
+// A:
+if (!Array.isArray(slides) || slides.length !== 3) return false;
+```
+
+### Cambiare il limite di parole per slide
+
+In `generate.js` nel prompt cambia "max 8 parole" con il numero che vuoi:
+
+```js
+// Da:
+- max 8 parole per slide
+
+// A (slide più lunghe):
+- max 12 parole per slide
+```
+
+Poi aggiorna anche il controllo in `validate.js`:
+
+```js
+// Da:
+return slides.every(s => s.trim().split(/\s+/).length <= 8);
+
+// A:
+return slides.every(s => s.trim().split(/\s+/).length <= 12);
+```
+
+---
+
+## 5. Cambiare i colori del frontend
+
+**File da modificare:** `frontend/index.html`
+
+Cerca questa sezione nel CSS:
+
+```css
+.slide-color-0 { background: #0f172a; color: #f8fafc; }
+.slide-color-1 { background: #1e293b; color: #f1f5f9; }
+.slide-color-2 { background: #334155; color: #f1f5f9; }
+.slide-color-3 { background: #475569; color: #f8fafc; }
+.slide-color-4 { background: #0f172a; color: #94a3b8; }
+```
+
+Ogni riga corrisponde a una delle 5 slide di ogni articolo (in ordine: 1a, 2a, 3a, 4a, 5a).
+`background` è il colore di sfondo, `color` è il colore del testo.
+
+**Esempio — tema viola scuro:**
+
+```css
+.slide-color-0 { background: #1e1b4b; color: #e0e7ff; }
+.slide-color-1 { background: #312e81; color: #e0e7ff; }
+.slide-color-2 { background: #4338ca; color: #ffffff; }
+.slide-color-3 { background: #6366f1; color: #ffffff; }
+.slide-color-4 { background: #1e1b4b; color: #a5b4fc; }
+```
+
+> Per scegliere i colori usa [coolors.co](https://coolors.co) o cerca "hex color picker" su Google.
+
+---
+
+## 6. Aggiornare i contenuti manualmente
+
+Quando vuoi pubblicare nuovi contenuti senza aspettare il cron automatico:
+
+```bash
+cd /home/miki/visual-scroll-blog
+node run.js
+git add -A
+git commit -m "update contenuti"
+git push
+```
+
+Dopo il push, Railway rideploya automaticamente in circa 1 minuto con le nuove slide.
+
+---
+
+## 7. Leggere i log
+
+I log vengono salvati in `logs/run.log`. Per vedere gli ultimi risultati:
+
+```bash
+tail -50 /home/miki/visual-scroll-blog/logs/run.log
+```
+
+**Cosa cercare:**
+
+| Messaggio | Significato |
+|---|---|
+| `Articoli fetched: 32` | Ha trovato 32 notizie dai feed |
+| `Dopo AI filter: 16` | DeepSeek ne ha approvate 16 |
+| `Slide generate: 14` | 14 articoli trasformati in slide con successo |
+| `Fallback loggati: 2` | 2 articoli non hanno superato la validazione |
+| `[cache hit]` | Articolo già processato, non ha chiamato l'API |
+| `Feed ... fallito` | Un feed RSS non era raggiungibile (normale se il sito è offline) |
+| `FALLBACK TRIGGERED:` | Un articolo è finito in `review_queue.json` da controllare |
+
+---
+
+## 8. Svuotare la cache
+
+La cache evita di rigenerare slide per articoli già processati. Se vuoi rigenerare tutto da zero (es. hai cambiato il prompt):
+
+```bash
+echo "{}" > /home/miki/visual-scroll-blog/cache.json
+```
+
+La prossima esecuzione di `run.js` rigenererà tutte le slide chiamando DeepSeek.
+
+> Attenzione: svuotare la cache aumenta il numero di chiamate API e quindi il costo. Fallo solo quando necessario.
