@@ -649,7 +649,7 @@ Aggiorna frontend/index.html per:
 
 
 
-\### Milestone 12 — Scheduling
+\### Milestone 12 — Scheduling ✅
 
 
 

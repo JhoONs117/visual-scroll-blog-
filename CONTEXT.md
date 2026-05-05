@@ -117,14 +117,20 @@ Sistema automatico che:
 
 ---
 
-## Milestones da fare
+### M12 — Cron + scheduling ✅
+- Cron installato su WSL con `crontab` direttamente da bash (evitato l'editor per problemi di copia)
+- Esecuzione ogni 2 ore agli orari pari: `0 */2 * * * node run.js`
+- Log salvati in `logs/run.log` (cartella esclusa dal `.gitignore`)
+- Comando: `/home/miki/.nvm/versions/node/v22.22.2/bin/node /home/miki/visual-scroll-blog/run.js >> /home/miki/visual-scroll-blog/logs/run.log 2>&1`
 
-### M12 — Cron + lock + logging
-- Esecuzione autonoma di `run.js` ogni N ore
-- Lock file per evitare doppie esecuzioni sovrapposte
-- Log su `logs/run.log` per debug reale
-- Opzione consigliata: GitHub Actions con schedule cron (gratuito, zero infrastruttura)
-- Alternativa: cron di Railway (garantisce una sola esecuzione, evita il problema del lock su container)
+---
+
+## Progetto completato
+
+Tutte le milestone M1–M13 sono complete. Il sistema gira in autonomia:
+1. Il cron esegue `run.js` ogni 2 ore
+2. `run.js` fetcha, filtra, genera slide e aggiorna `frontend/data.js`
+3. Fai `git push` → Railway rideploya con i nuovi contenuti
 
 ---
 
