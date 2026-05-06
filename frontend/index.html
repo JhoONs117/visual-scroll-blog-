@@ -6,7 +6,11 @@
   <title>AI News</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    html, body { height: 100%; background: #000; }
+    html, body {
+      height: 100%;
+      background: #000;
+      overflow-x: hidden; /* blocca scroll orizzontale a livello pagina */
+    }
     :root { --vh: 1vh; }
 
     /* ── Feed verticale ── */
@@ -22,17 +26,18 @@
     .story {
       height: 100vh;
       height: calc(var(--vh) * 100);
-      width: 100vw;
+      width: 100%;          /* 100% del feed, non 100vw — evita overflow scrollbar */
       overflow-x: scroll;
       scroll-snap-type: x mandatory;
+      scroll-snap-align: start; /* snap verticale sul feed */
       display: flex;
-      touch-action: pan-x;
+      touch-action: pan-x;  /* il browser gestisce lo swipe orizzontale nativo */
       position: relative;
     }
 
     /* ── Singola slide ── */
     .slide {
-      min-width: 100vw;
+      min-width: 100%;      /* 100% della story, non 100vw */
       height: 100vh;
       height: calc(var(--vh) * 100);
       scroll-snap-align: start;
@@ -42,9 +47,9 @@
       background: #000;
     }
 
-    /* ── Area visiva pura — solo colore, no testo ── */
+    /* ── Area visiva pura (no testo) ── */
     .slide-visual {
-      flex: 0 0 48%;
+      flex: 0 0 50%;
       position: relative;
       overflow: hidden;
     }
@@ -55,16 +60,15 @@
     .slide-color-3 .slide-visual { background: linear-gradient(160deg, #14532d 0%, #1a2a1a 100%); }
     .slide-color-4 .slide-visual { background: linear-gradient(160deg, #374151 0%, #111827 100%); }
 
-    /* Vignetta bassa (estetica) */
     .slide-visual::after {
       content: '';
       position: absolute;
       inset: 0;
-      background: linear-gradient(to bottom, transparent 50%, rgba(0,0,0,0.55) 100%);
+      background: linear-gradient(to bottom, transparent 50%, rgba(0,0,0,0.5) 100%);
       pointer-events: none;
     }
 
-    /* Progress bars in cima al visivo */
+    /* Progress bars in cima */
     .progress-bars {
       position: absolute;
       top: calc(10px + env(safe-area-inset-top, 0px));
@@ -83,14 +87,13 @@
     }
     .progress-bar.active { background: rgba(255,255,255,0.95); }
 
-    /* ── Sezione testo: badge + titolo — su nero sotto l'immagine ── */
+    /* ── Sezione testo: badge + titolo su nero sotto l'immagine ── */
     .slide-content {
       background: #000;
       padding: 14px 18px 10px;
       flex-shrink: 0;
     }
 
-    /* Badge centrato con linee blu ai lati — come nel reference */
     .slide-badge-row {
       display: flex;
       align-items: center;
@@ -100,8 +103,7 @@
     .badge-line {
       flex: 1;
       height: 1px;
-      background: #2563eb;
-      opacity: 0.7;
+      background: rgba(37, 99, 235, 0.7);
     }
     .slide-badge {
       background: #2563eb;
@@ -116,7 +118,6 @@
       white-space: nowrap;
     }
 
-    /* Titolo centrato, bold, maiuscolo */
     .slide-title {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
       font-size: clamp(17px, 5vw, 30px);
@@ -138,13 +139,12 @@
       border-top: 1px solid rgba(255,255,255,0.04);
     }
 
-    /* Dots paginazione stile Instagram */
     .slide-dots {
       display: flex;
       justify-content: center;
       align-items: center;
       gap: 5px;
-      padding: 9px 0 7px;
+      padding: 9px 0 6px;
       flex-shrink: 0;
     }
     .dot {
@@ -160,7 +160,6 @@
       border-radius: 3px;
     }
 
-    /* Riga azioni */
     .slide-actions {
       display: flex;
       align-items: center;
@@ -180,7 +179,6 @@
     }
     .slide-actions .spacer { flex: 1; }
 
-    /* Caption */
     .slide-caption-wrap {
       flex: 1;
       padding: 2px 16px;
@@ -211,10 +209,9 @@
       -webkit-box-orient: vertical;
     }
 
-    /* Hint prima slide */
     .hint {
       position: absolute;
-      bottom: calc(52% + 10px);
+      bottom: 12px;
       left: 50%;
       transform: translateX(-50%);
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
@@ -244,12 +241,17 @@
 
   <script src="data.js"></script>
   <script>
+    /* --vh: usa Visual Viewport API (più accurato su Android Chrome con barra indirizzi) */
     function setVH() {
-      document.documentElement.style.setProperty('--vh', window.innerHeight * 0.01 + 'px');
+      const h = window.visualViewport ? window.visualViewport.height : window.innerHeight;
+      document.documentElement.style.setProperty('--vh', h * 0.01 + 'px');
     }
     setVH();
+    if (window.visualViewport) {
+      window.visualViewport.addEventListener('resize', setVH);
+    }
     window.addEventListener('resize', setVH);
-    window.addEventListener('orientationchange', () => setTimeout(setVH, 200));
+    window.addEventListener('orientationchange', () => setTimeout(setVH, 300));
 
     const isTouch = () => window.matchMedia('(hover: none) and (pointer: coarse)').matches;
 
@@ -283,7 +285,7 @@
           const slide = document.createElement('div');
           slide.className = `slide slide-color-${i}`;
 
-          /* ── Area visiva pura ── */
+          /* Area visiva */
           const visual = document.createElement('div');
           visual.className = 'slide-visual';
 
@@ -297,7 +299,7 @@
           visual.appendChild(bars);
           slide.appendChild(visual);
 
-          /* ── Sezione testo: badge + titolo ── */
+          /* Badge + titolo */
           const content = document.createElement('div');
           content.className = 'slide-content';
 
@@ -319,7 +321,7 @@
           content.appendChild(title);
           slide.appendChild(content);
 
-          /* ── Info: dots + azioni + caption ── */
+          /* Dots + azioni + caption */
           const info = document.createElement('div');
           info.className = 'slide-info';
 
@@ -356,12 +358,11 @@
           info.appendChild(capWrap);
           slide.appendChild(info);
 
-          /* Hint prima slide del primo articolo */
           if (articleIndex === 0 && i === 0) {
             const hint = document.createElement('div');
             hint.className = 'hint';
             hint.id = 'hint';
-            hint.textContent = isTouch() ? 'scorri →  altre news ↓' : 'scroll ↓  per altre news';
+            hint.textContent = '→ scorri le slide  ↓ prossima news';
             slide.appendChild(hint);
           }
 
@@ -370,7 +371,7 @@
 
         feed.appendChild(story);
 
-        /* Aggiorna progress bars + dots allo scroll */
+        /* Aggiorna indicatori allo scroll */
         story.addEventListener('scroll', () => {
           const idx = Math.round(story.scrollLeft / story.clientWidth);
           story.querySelectorAll('.progress-bars').forEach(barsEl => {
@@ -405,32 +406,28 @@
 
       feed.querySelectorAll('.story').forEach(s => observer.observe(s));
 
-      /* Touch handler — solo su touch device */
+      /*
+       * Touch handler solo per il caso "ultima slide + swipe sinistra → prossima news".
+       * Lo scroll orizzontale nativo è gestito da CSS scroll-snap + touch-action: pan-x.
+       * NON chiamiamo preventDefault() — farlo bloccherebbe lo scroll della story.
+       */
       if (isTouch()) {
         feed.querySelectorAll('.story').forEach(story => {
-          let startX = 0, startY = 0, direction = null;
+          let startX = 0, startY = 0;
 
           story.addEventListener('touchstart', e => {
             startX = e.touches[0].clientX;
             startY = e.touches[0].clientY;
-            direction = null;
           }, { passive: true });
 
-          story.addEventListener('touchmove', e => {
-            const dx = e.touches[0].clientX - startX;
-            const dy = e.touches[0].clientY - startY;
-            if (!direction && (Math.abs(dx) > 10 || Math.abs(dy) > 10)) {
-              direction = Math.abs(dx) >= Math.abs(dy) ? 'horizontal' : 'vertical';
-            }
-            if (direction === 'horizontal') e.preventDefault();
-          }, { passive: false });
-
           story.addEventListener('touchend', e => {
-            if (direction !== 'horizontal') return;
             const dx = e.changedTouches[0].clientX - startX;
-            const atEnd = story.scrollLeft + story.clientWidth >= story.scrollWidth - 2;
-            if (atEnd && dx < 0) {
-              feed.scrollBy({ top: window.innerHeight, behavior: 'smooth' });
+            const dy = e.changedTouches[0].clientY - startY;
+            if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 40) {
+              const atEnd = story.scrollLeft + story.clientWidth >= story.scrollWidth - 4;
+              if (atEnd && dx < -40) {
+                feed.scrollBy({ top: window.innerHeight, behavior: 'smooth' });
+              }
             }
           }, { passive: true });
         });
