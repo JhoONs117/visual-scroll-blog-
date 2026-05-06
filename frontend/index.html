@@ -6,24 +6,19 @@
   <title>AI News</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
-
     html, body { height: 100%; background: #000; }
-
-    /*
-      --vh è calcolato via JS come window.innerHeight * 0.01
-      così 100vh reale = calc(var(--vh) * 100) — immune alla barra indirizzo mobile.
-      dvh è il fallback moderno (Safari 16+, Chrome 108+).
-    */
     :root { --vh: 1vh; }
 
+    /* ── Feed verticale ── */
     .feed {
-      height: 100vh;           /* fallback */
+      height: 100vh;
       height: calc(var(--vh) * 100);
       overflow-y: scroll;
       scroll-snap-type: y mandatory;
       touch-action: pan-y;
     }
 
+    /* ── Story orizzontale ── */
     .story {
       height: 100vh;
       height: calc(var(--vh) * 100);
@@ -35,6 +30,7 @@
       position: relative;
     }
 
+    /* ── Singola slide ── */
     .slide {
       min-width: 100vw;
       height: 100vh;
@@ -43,116 +39,191 @@
       flex-shrink: 0;
       display: flex;
       flex-direction: column;
-      position: relative;
-      /* safe area iPhone notch / home indicator */
-      padding-bottom: env(safe-area-inset-bottom, 0px);
+      background: #000;
     }
 
-    .slide-color-0 { background: #0f172a; }
-    .slide-color-1 { background: #1a1035; }
-    .slide-color-2 { background: #0d2137; }
-    .slide-color-3 { background: #1a2a1a; }
-    .slide-color-4 { background: #1a1a1a; }
+    /* ── Area visiva pura — solo colore, no testo ── */
+    .slide-visual {
+      flex: 0 0 48%;
+      position: relative;
+      overflow: hidden;
+    }
 
-    /* Barre progress story */
-    .progress-bars {
+    .slide-color-0 .slide-visual { background: linear-gradient(160deg, #1e3a5f 0%, #0f172a 100%); }
+    .slide-color-1 .slide-visual { background: linear-gradient(160deg, #2d1b69 0%, #1a1035 100%); }
+    .slide-color-2 .slide-visual { background: linear-gradient(160deg, #0c4a6e 0%, #0d2137 100%); }
+    .slide-color-3 .slide-visual { background: linear-gradient(160deg, #14532d 0%, #1a2a1a 100%); }
+    .slide-color-4 .slide-visual { background: linear-gradient(160deg, #374151 0%, #111827 100%); }
+
+    /* Vignetta bassa (estetica) */
+    .slide-visual::after {
+      content: '';
       position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      display: flex;
-      gap: 4px;
-      padding: 12px 12px 0;
-      padding-top: calc(12px + env(safe-area-inset-top, 0px));
-      z-index: 10;
+      inset: 0;
+      background: linear-gradient(to bottom, transparent 50%, rgba(0,0,0,0.55) 100%);
       pointer-events: none;
     }
 
+    /* Progress bars in cima al visivo */
+    .progress-bars {
+      position: absolute;
+      top: calc(10px + env(safe-area-inset-top, 0px));
+      left: 12px;
+      right: 12px;
+      display: flex;
+      gap: 4px;
+      z-index: 10;
+      pointer-events: none;
+    }
     .progress-bar {
       flex: 1;
       height: 2px;
       border-radius: 2px;
-      background: rgba(255,255,255,0.2);
-      transition: background 0.15s;
+      background: rgba(255,255,255,0.28);
     }
-    .progress-bar.active { background: rgba(255,255,255,0.9); }
+    .progress-bar.active { background: rgba(255,255,255,0.95); }
 
-    /* Testo principale slide */
-    .slide-body {
-      flex: 1;
+    /* ── Sezione testo: badge + titolo — su nero sotto l'immagine ── */
+    .slide-content {
+      background: #000;
+      padding: 14px 18px 10px;
+      flex-shrink: 0;
+    }
+
+    /* Badge centrato con linee blu ai lati — come nel reference */
+    .slide-badge-row {
       display: flex;
       align-items: center;
-      justify-content: center;
-      padding: 60px 28px 16px;
+      gap: 9px;
+      margin-bottom: 10px;
     }
-
-    .slide-text {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      font-weight: 700;
-      line-height: 1.3;
-      text-align: center;
+    .badge-line {
+      flex: 1;
+      height: 1px;
+      background: #2563eb;
+      opacity: 0.7;
+    }
+    .slide-badge {
+      background: #2563eb;
       color: #fff;
-      /*
-        clamp(min, preferred, max):
-        - telefono piccolo (360px): ~22px
-        - telefono normale (390px): ~24px
-        - tablet (768px): ~32px
-        - desktop (1280px): max 38px
-      */
-      font-size: clamp(20px, 5.5vw, 38px);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 9px;
+      font-weight: 800;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      padding: 3px 10px;
+      border-radius: 2px;
+      white-space: nowrap;
     }
 
-    /* Caption — tweet corrispondente */
-    .slide-caption {
-      border-top: 1px solid rgba(255,255,255,0.08);
-      padding: 14px 22px 20px;
+    /* Titolo centrato, bold, maiuscolo */
+    .slide-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: clamp(17px, 5vw, 30px);
+      font-weight: 900;
+      line-height: 1.18;
+      color: #fff;
+      text-transform: uppercase;
+      text-align: center;
+      letter-spacing: -0.01em;
     }
 
-    .caption-source {
+    /* ── Area info: dots + azioni + caption ── */
+    .slide-info {
+      flex: 1;
+      background: #0a0a0a;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      border-top: 1px solid rgba(255,255,255,0.04);
+    }
+
+    /* Dots paginazione stile Instagram */
+    .slide-dots {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 5px;
+      padding: 9px 0 7px;
+      flex-shrink: 0;
+    }
+    .dot {
+      height: 5px;
+      width: 5px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.2);
+      transition: background 0.25s, width 0.25s, border-radius 0.25s;
+    }
+    .dot.active {
+      background: #3b82f6;
+      width: 18px;
+      border-radius: 3px;
+    }
+
+    /* Riga azioni */
+    .slide-actions {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 4px 16px 8px;
+      flex-shrink: 0;
+    }
+    .slide-actions svg {
+      width: 24px;
+      height: 24px;
+      fill: none;
+      stroke: #e5e7eb;
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      cursor: pointer;
+    }
+    .slide-actions .spacer { flex: 1; }
+
+    /* Caption */
+    .slide-caption-wrap {
+      flex: 1;
+      padding: 2px 16px;
+      padding-bottom: env(safe-area-inset-bottom, 10px);
+      overflow: hidden;
+    }
+    .slide-source {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
       font-size: 10px;
       font-weight: 700;
-      color: rgba(255,255,255,0.3);
+      color: rgba(255,255,255,0.28);
+      margin-bottom: 4px;
       text-transform: uppercase;
-      letter-spacing: 0.1em;
-      margin-bottom: 5px;
+      letter-spacing: 0.07em;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
-    .caption-text {
+    .slide-caption {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      font-size: clamp(12px, 3.2vw, 15px);
-      line-height: 1.5;
-      color: rgba(255,255,255,0.7);
+      font-size: clamp(12px, 3.4vw, 14px);
+      line-height: 1.52;
+      color: rgba(255,255,255,0.68);
       overflow-wrap: break-word;
-      /* max 3 righe su telefono */
+      overflow: hidden;
       display: -webkit-box;
       -webkit-line-clamp: 3;
       -webkit-box-orient: vertical;
-      overflow: hidden;
     }
 
     /* Hint prima slide */
     .hint {
       position: absolute;
-      bottom: calc(20px + env(safe-area-inset-bottom, 0px));
+      bottom: calc(52% + 10px);
       left: 50%;
       transform: translateX(-50%);
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      font-size: 12px;
-      color: rgba(255,255,255,0.28);
+      font-size: 11px;
+      color: rgba(255,255,255,0.32);
       white-space: nowrap;
       pointer-events: none;
+      z-index: 5;
       transition: opacity 0.4s;
-    }
-
-    /* Desktop — hint diverso */
-    @media (hover: hover) and (pointer: fine) {
-      .hint { content: 'scroll ↓  per altre news'; }
-      .slide-text { font-size: clamp(24px, 2.8vw, 44px); }
-      .caption-text { -webkit-line-clamp: 4; font-size: 15px; }
     }
 
     .empty {
@@ -173,19 +244,27 @@
 
   <script src="data.js"></script>
   <script>
-    /* ── Viewport height reale (fix iOS Safari barra indirizzo) ── */
-    function updateVH() {
+    function setVH() {
       document.documentElement.style.setProperty('--vh', window.innerHeight * 0.01 + 'px');
     }
-    updateVH();
-    window.addEventListener('resize', updateVH);
-    // Su iOS il resize non scatta sempre — orientationchange è più affidabile
-    window.addEventListener('orientationchange', () => setTimeout(updateVH, 200));
+    setVH();
+    window.addEventListener('resize', setVH);
+    window.addEventListener('orientationchange', () => setTimeout(setVH, 200));
 
-    /* ── Rilevamento touch vs mouse ── */
     const isTouch = () => window.matchMedia('(hover: none) and (pointer: coarse)').matches;
 
-    /* ── Build DOM ── */
+    const BADGES = ['NOTIZIA', 'CONTESTO', 'SORPRESA', 'IMPATTO', 'TAKEAWAY'];
+
+    function icon(path) {
+      return `<svg viewBox="0 0 24 24">${path}</svg>`;
+    }
+    const ICONS = {
+      heart:    icon('<path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>'),
+      comment:  icon('<path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>'),
+      share:    icon('<line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/>'),
+      bookmark: icon('<path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>'),
+    };
+
     const feed = document.getElementById('feed');
 
     if (!window.ARTICLES || window.ARTICLES.length === 0) {
@@ -197,49 +276,87 @@
         const story = document.createElement('div');
         story.className = 'story';
 
-        const slides = article.slides || [];
+        const slides = article.slides      || [];
         const thread = article.thread_text || [];
 
         slides.forEach((slideText, i) => {
           const slide = document.createElement('div');
           slide.className = `slide slide-color-${i}`;
 
-          // Barre progress
+          /* ── Area visiva pura ── */
+          const visual = document.createElement('div');
+          visual.className = 'slide-visual';
+
           const bars = document.createElement('div');
           bars.className = 'progress-bars';
           slides.forEach((_, j) => {
-            const bar = document.createElement('div');
-            bar.className = 'progress-bar' + (j === 0 ? ' active' : '');
-            bars.appendChild(bar);
+            const b = document.createElement('div');
+            b.className = 'progress-bar' + (j === 0 ? ' active' : '');
+            bars.appendChild(b);
           });
-          slide.appendChild(bars);
+          visual.appendChild(bars);
+          slide.appendChild(visual);
 
-          // Testo slide
-          const body = document.createElement('div');
-          body.className = 'slide-body';
-          const txt = document.createElement('div');
-          txt.className = 'slide-text';
-          txt.textContent = slideText;
-          body.appendChild(txt);
-          slide.appendChild(body);
+          /* ── Sezione testo: badge + titolo ── */
+          const content = document.createElement('div');
+          content.className = 'slide-content';
 
-          // Caption tweet
+          const badgeRow = document.createElement('div');
+          badgeRow.className = 'slide-badge-row';
+          const l1 = document.createElement('div'); l1.className = 'badge-line';
+          const badge = document.createElement('div');
+          badge.className = 'slide-badge';
+          badge.textContent = BADGES[i] || 'AI';
+          const l2 = document.createElement('div'); l2.className = 'badge-line';
+          badgeRow.appendChild(l1);
+          badgeRow.appendChild(badge);
+          badgeRow.appendChild(l2);
+          content.appendChild(badgeRow);
+
+          const title = document.createElement('div');
+          title.className = 'slide-title';
+          title.textContent = slideText;
+          content.appendChild(title);
+          slide.appendChild(content);
+
+          /* ── Info: dots + azioni + caption ── */
+          const info = document.createElement('div');
+          info.className = 'slide-info';
+
+          const dotsEl = document.createElement('div');
+          dotsEl.className = 'slide-dots';
+          slides.forEach((_, j) => {
+            const dot = document.createElement('div');
+            dot.className = 'dot' + (j === 0 ? ' active' : '');
+            dotsEl.appendChild(dot);
+          });
+          info.appendChild(dotsEl);
+
+          const actions = document.createElement('div');
+          actions.className = 'slide-actions';
+          actions.innerHTML = ICONS.heart + ICONS.comment + ICONS.share +
+            '<div class="spacer"></div>' + ICONS.bookmark;
+          info.appendChild(actions);
+
+          const capWrap = document.createElement('div');
+          capWrap.className = 'slide-caption-wrap';
+
+          const src = document.createElement('div');
+          src.className = 'slide-source';
+          src.textContent = 'AI News · ' + article.title;
+          capWrap.appendChild(src);
+
           const tweetText = thread[i] || '';
           if (tweetText) {
-            const caption = document.createElement('div');
-            caption.className = 'slide-caption';
-            const src = document.createElement('div');
-            src.className = 'caption-source';
-            src.textContent = article.title;
-            const ct = document.createElement('div');
-            ct.className = 'caption-text';
-            ct.textContent = tweetText;
-            caption.appendChild(src);
-            caption.appendChild(ct);
-            slide.appendChild(caption);
+            const cap = document.createElement('div');
+            cap.className = 'slide-caption';
+            cap.textContent = tweetText;
+            capWrap.appendChild(cap);
           }
+          info.appendChild(capWrap);
+          slide.appendChild(info);
 
-          // Hint solo sulla prima slide del primo articolo
+          /* Hint prima slide del primo articolo */
           if (articleIndex === 0 && i === 0) {
             const hint = document.createElement('div');
             hint.className = 'hint';
@@ -253,42 +370,42 @@
 
         feed.appendChild(story);
 
-        // Aggiorna barre progress allo scroll orizzontale
+        /* Aggiorna progress bars + dots allo scroll */
         story.addEventListener('scroll', () => {
-          const idx = Math.floor(
-            (story.scrollLeft + story.clientWidth / 2) / story.clientWidth
-          );
+          const idx = Math.round(story.scrollLeft / story.clientWidth);
           story.querySelectorAll('.progress-bars').forEach(barsEl => {
-            barsEl.querySelectorAll('.progress-bar').forEach((bar, j) => {
-              bar.classList.toggle('active', j === idx);
+            barsEl.querySelectorAll('.progress-bar').forEach((b, j) => {
+              b.classList.toggle('active', j === idx);
+            });
+          });
+          story.querySelectorAll('.slide-dots').forEach(dotsEl => {
+            dotsEl.querySelectorAll('.dot').forEach((d, j) => {
+              d.classList.toggle('active', j === idx);
             });
           });
           if (!hintDismissed && story.scrollLeft > 10) {
             hintDismissed = true;
-            const hint = document.getElementById('hint');
-            if (hint) hint.style.opacity = '0';
+            const h = document.getElementById('hint');
+            if (h) h.style.opacity = '0';
           }
         }, { passive: true });
       });
 
-      /* ── Reset slide 1 al cambio articolo ── */
+      /* Reset a slide 1 al cambio articolo */
       const observer = new IntersectionObserver(entries => {
         entries.forEach(entry => {
           if (entry.isIntersecting && entry.intersectionRatio > 0.6) {
-            const story = entry.target;
-            story.scrollLeft = 0;
-            story.querySelectorAll('.progress-bars').forEach(barsEl => {
-              barsEl.querySelectorAll('.progress-bar').forEach((bar, j) => {
-                bar.classList.toggle('active', j === 0);
-              });
-            });
+            const s = entry.target;
+            s.scrollLeft = 0;
+            s.querySelectorAll('.progress-bar').forEach((b, j) => b.classList.toggle('active', j === 0));
+            s.querySelectorAll('.dot').forEach((d, j) => d.classList.toggle('active', j === 0));
           }
         });
       }, { threshold: 0.6 });
 
       feed.querySelectorAll('.story').forEach(s => observer.observe(s));
 
-      /* ── Touch handler (solo su touch device) ── */
+      /* Touch handler — solo su touch device */
       if (isTouch()) {
         feed.querySelectorAll('.story').forEach(story => {
           let startX = 0, startY = 0, direction = null;
