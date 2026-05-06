@@ -1,0 +1,24 @@
+{
+  "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+  "slides": [
+    "Il tuo AI sta già mentendo con più sicurezza.",
+    "GPT-5.5 Instant è ora il modello predefinito in ChatGPT.",
+    "Risponde in millisecondi, ma la latenza cala del 40%.",
+    "Chi scrive codice accelera: iterazioni quasi istantanee.",
+    "Aggiorna oggi: il vecchio modello è già obsoleto."
+  ],
+  "thread_text": [
+    "Il tuo AI sta già mentendo con più sicurezza. E non ti stai nemmeno accorgendo di quanto sia veloce.",
+    "Da oggi GPT-5.5 Instant è il modello predefinito in ChatGPT. Risponde in millisecondi.",
+    "La latenza cala del 40%. Significa che il tempo tra la tua domanda e la risposta si è ridotto quasi a zero.",
+    "Per chi scrive codice, le iterazioni sono diventate istantanee. Provi, sbagli, correggi, tutto in un respiro.",
+    "Il vecchio modello è già obsoleto. Se non aggiorni oggi, stai programmando col freno a mano tirato."
+  ],
+  "video_script": [
+    "Il tuo AI è più veloce a mentire.",
+    "GPT-5.5 Instant è già qui.",
+    "Risponde in millisecondi adesso.",
+    "Chi scrive codice vola via.",
+    "Aggiorna, o sei già indietro."
+  ]
+}

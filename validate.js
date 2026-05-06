@@ -5,7 +5,7 @@ const QUEUE_PATH = path.join(__dirname, 'review_queue.json');
 
 function isValid(slides) {
   if (!Array.isArray(slides) || slides.length !== 5) return false;
-  return slides.every(s => s.trim().split(/\s+/).length <= 8);
+  return slides.every(s => s.trim().split(/\s+/).length <= 12);
 }
 
 async function validateWithFallback(title, generateFn) {

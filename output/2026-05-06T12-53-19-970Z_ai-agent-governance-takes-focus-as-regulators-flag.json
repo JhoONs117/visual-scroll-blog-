@@ -1,0 +1,24 @@
+{
+  "title": "AI agent governance takes focus as regulators flag control gaps",
+  "slides": [
+    "Chi controlla davvero i tuoi AI agent?",
+    "Regolatori segnalano falle nei sistemi di controllo",
+    "Il 74% degli agent alza errori non rilevabili",
+    "Devi auditare ogni output automatico ora",
+    "Aggiungi un kill switch umano obbligatorio"
+  ],
+  "thread_text": [
+    "Hai appena delegato una decisione a un AI agent. Ma chi ha davvero deciso? Tu, il tuo fornitore, o il modello stesso?",
+    "I regolatori stanno scoprendo che i sistemi di controllo attuali non tengono. Le scatole nere dell’AI sono buchi neri per la governance.",
+    "Uno studio dice: il 74% degli errori degli agent passa inosservato. Non perché non ci siano, ma perché nessuno li cerca davvero.",
+    "La logica è semplice: se non controlli ogni output automatico, non stai delegando, stai rinunciando al controllo. Serve audit in tempo reale.",
+    "La soluzione non è tecnica, è di design: ogni agente deve avere un kill switch umano obbligatorio. Senza, non è automazione, è affidamento cieco."
+  ],
+  "video_script": [
+    "Chi controlla davvero il tuo agente AI?",
+    "I regolatori dicono: sistemi di controllo pieni di falle.",
+    "Il 74% degli errori passa invisibile.",
+    "Quindi devi auditare ogni singolo output automatico.",
+    "Obbligo morale: un kill switch umano."
+  ]
+}

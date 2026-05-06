@@ -6,7 +6,7 @@ const { fetchArticles } = require('./fetch');
 
 fs.mkdirSync(path.join(__dirname, 'output'), { recursive: true });
 const { deduplicate, hardFilter, batchAIFilter } = require('./filter');
-const { generateSlides } = require('./generate');
+const { generateSlides, generateFormats } = require('./generate');
 const { validateWithFallback } = require('./validate');
 
 function slug(title) {
@@ -35,6 +35,15 @@ function slug(title) {
       stats.fallbacks++;
       continue;
     }
+
+    if (process.env.GENERATE_FORMATS === 'true') {
+      const formats = await generateFormats(result.title, result.slides);
+      if (formats) {
+        result.thread_text = formats.thread_text;
+        result.video_script = formats.video_script;
+      }
+    }
+
     const filename = `${timestamp}_${slug(article.title)}.json`;
     fs.writeFileSync(path.join(__dirname, 'output', filename), JSON.stringify(result, null, 2));
     stats.generated++;
