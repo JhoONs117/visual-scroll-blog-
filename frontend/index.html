@@ -11,7 +11,7 @@
       background: #000;
       overflow-x: hidden; /* blocca scroll orizzontale a livello pagina */
     }
-    :root { --vh: 1vh; }
+    :root { --vh: 1vh; --slide-w: 100vw; }
 
     /* ── Feed verticale ── */
     .feed {
@@ -26,18 +26,22 @@
     .story {
       height: 100vh;
       height: calc(var(--vh) * 100);
-      width: 100%;          /* 100% del feed, non 100vw — evita overflow scrollbar */
+      width: var(--slide-w);
+      max-width: 100%;
       overflow-x: scroll;
       scroll-snap-type: x mandatory;
-      scroll-snap-align: start; /* snap verticale sul feed */
+      scroll-snap-align: start;
       display: flex;
-      touch-action: pan-x;  /* il browser gestisce lo swipe orizzontale nativo */
+      /* pan-x pan-y: permette swipe verticale (→ feed) e orizzontale (→ slide) */
+      touch-action: pan-x pan-y;
       position: relative;
     }
 
     /* ── Singola slide ── */
     .slide {
-      min-width: 100%;      /* 100% della story, non 100vw */
+      width: var(--slide-w);
+      min-width: var(--slide-w);
+      max-width: var(--slide-w);
       height: 100vh;
       height: calc(var(--vh) * 100);
       scroll-snap-align: start;
@@ -45,6 +49,7 @@
       display: flex;
       flex-direction: column;
       background: #000;
+      overflow: hidden;
     }
 
     /* ── Area visiva pura (no testo) ── */
@@ -241,17 +246,21 @@
 
   <script src="data.js"></script>
   <script>
-    /* --vh: usa Visual Viewport API (più accurato su Android Chrome con barra indirizzi) */
-    function setVH() {
+    /* Calcola dimensioni precise dalla viewport reale */
+    function setSizes() {
+      /* clientWidth esclude scrollbar — più affidabile di 100vw su Android */
+      const w = document.documentElement.clientWidth;
+      /* visualViewport.height esclude la barra indirizzi di Chrome Android */
       const h = window.visualViewport ? window.visualViewport.height : window.innerHeight;
+      document.documentElement.style.setProperty('--slide-w', w + 'px');
       document.documentElement.style.setProperty('--vh', h * 0.01 + 'px');
     }
-    setVH();
+    setSizes();
     if (window.visualViewport) {
-      window.visualViewport.addEventListener('resize', setVH);
+      window.visualViewport.addEventListener('resize', setSizes);
     }
-    window.addEventListener('resize', setVH);
-    window.addEventListener('orientationchange', () => setTimeout(setVH, 300));
+    window.addEventListener('resize', setSizes);
+    window.addEventListener('orientationchange', () => setTimeout(setSizes, 300));
 
     const isTouch = () => window.matchMedia('(hover: none) and (pointer: coarse)').matches;
 
@@ -407,9 +416,9 @@
       feed.querySelectorAll('.story').forEach(s => observer.observe(s));
 
       /*
-       * Touch handler solo per il caso "ultima slide + swipe sinistra → prossima news".
-       * Lo scroll orizzontale nativo è gestito da CSS scroll-snap + touch-action: pan-x.
-       * NON chiamiamo preventDefault() — farlo bloccherebbe lo scroll della story.
+       * Touch handler: solo per il caso "ultima slide + swipe sinistra → prossima news".
+       * Lo scroll verticale e orizzontale sono gestiti nativamente dal browser
+       * grazie a touch-action: pan-x pan-y su .story e scroll-snap su .feed/.story.
        */
       if (isTouch()) {
         feed.querySelectorAll('.story').forEach(story => {
@@ -423,9 +432,10 @@
           story.addEventListener('touchend', e => {
             const dx = e.changedTouches[0].clientX - startX;
             const dy = e.changedTouches[0].clientY - startY;
-            if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 40) {
+            /* solo swipe prevalentemente orizzontale verso sinistra sull'ultima slide */
+            if (Math.abs(dx) > Math.abs(dy) && dx < -50) {
               const atEnd = story.scrollLeft + story.clientWidth >= story.scrollWidth - 4;
-              if (atEnd && dx < -40) {
+              if (atEnd) {
                 feed.scrollBy({ top: window.innerHeight, behavior: 'smooth' });
               }
             }
