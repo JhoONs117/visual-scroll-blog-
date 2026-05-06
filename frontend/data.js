@@ -3814,5 +3814,175 @@ window.ARTICLES = [
       "Le aziende AI dovranno competere su trasparenza.",
       "Rivedi ora i tuoi accordi con il settore pubblico."
     ]
+  },
+  {
+    "title": "AI agent governance takes focus as regulators flag control gaps",
+    "slides": [
+      "Governi esaminano controllo AI agent",
+      "Cos'è un AI agent autonomo?",
+      "Senza controlli, rischi aumentano",
+      "Aziende devono testare e limitare",
+      "Caso 2024: agent AI viola regole"
+    ]
+  },
+  {
+    "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
+    "slides": [
+      "Le tue chiavi AI sono già esposte?",
+      "Braintrust ha subito una violazione dei dati.",
+      "Ora ogni cliente deve ruotare tutte le chiavi.",
+      "Cambia subito token e secret nei tuoi sistemi.",
+      "Non aspettare: ruota le chiavi oggi stesso."
+    ]
+  },
+  {
+    "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
+    "slides": [
+      "Big Tech spent billions on AI. It worked.",
+      "Now they say they need to spend even more.",
+      "More chips, more energy, more debt.",
+      "Your cloud bill will rise. No exceptions.",
+      "Optimize before they charge you double."
+    ]
+  },
+  {
+    "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+    "slides": [
+      "Google vende governance AI agentica come prodotto.",
+      "Aziende devono ancora adeguarsi alle regole.",
+      "Strumento utile per conformità e sicurezza.",
+      "Valuta e implementa policy di governance ora.",
+      "Esempio: banca usa Google per audit automatici."
+    ]
+  },
+  {
+    "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+    "slides": [
+      "Google vuole che tu controlli la tua IA?",
+      "Remy è un agente AI sperimentale in Gemini.",
+      "Non decide lui: tu confermi ogni azione.",
+      "Non sei più un passeggero, ma il pilota.",
+      "Chiedi a Remy: fai tu l'ultimo clic."
+    ]
+  },
+  {
+    "title": "Google updates AI search to include quotes from Reddit and other sources",
+    "slides": [
+      "Google ora cerca su Reddit per te?",
+      "Inserisce citazioni da forum nelle risposte",
+      "I link diretti alle fonti stanno sparendo",
+      "Devi sempre verificare la fonte originale",
+      "Cerca con citazioni: confronta e decidi"
+    ]
+  },
+  {
+    "title": "HP and the art of AI and data for the enterprise",
+    "slides": [
+      "HP non parla più solo di stampanti?",
+      "Unifica dati e AI per l'azienda",
+      "Non serve un data scientist per iniziare",
+      "HP trasforma report in decisioni automatiche",
+      "Chiedi al tuo IT: qual è il vostro dato?"
+    ]
+  },
+  {
+    "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
+    "slides": [
+      "AI pilots are stuck. Why won't they scale?",
+      "One EMEA CIO cut deployment time by half.",
+      "Hint: it’s not better models—it’s simpler data.",
+      "Pick one process, clean its data, launch in weeks.",
+      "Stop hunting tools. Start scrubbing your own spreadsheets."
+    ]
+  },
+  {
+    "title": "Is xAI a neocloud now?",
+    "slides": [
+      "xAI ora vende potenza di calcolo come i cloud?",
+      "Un partner rivende GPU a imprese enterprise.",
+      "Non solo per addestrare modelli, ma per tutti.",
+      "Se sei startup, hai accesso a chip top.",
+      "Controlla: la tua infrastruttura è già superata."
+    ]
+  },
+  {
+    "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+    "slides": [
+      "Quanto è lontano il tuo lavoro dai robot?",
+      "Genesis AI costruisce robot e cervello IA.",
+      "Ora controllano corpo e software insieme.",
+      "Chi integra tutto vince la prossima decade.",
+      "Studia full stack: è il vantaggio reale."
+    ]
+  },
+  {
+    "title": "Microsoft’s AI data center push is colliding with its clean power goals",
+    "slides": [
+      "Microsoft promette zero emissioni entro il 2030.",
+      "L’intelligenza artificiale aumenta il consumo energetico del 30%.",
+      "I nuovi data center raddoppiano le emissioni indirette.",
+      "Le promesse verdi sono incompatibili con l’espansione AI.",
+      "Verifica l’energia reale dei tuoi fornitori cloud."
+    ]
+  },
+  {
+    "title": "Per-token AI charges come to GitHub Copilot",
+    "slides": [
+      "Pagherai per ogni token generato da GitHub Copilot?",
+      "Microsoft introduce fatturazione AI a consumo per sviluppatori",
+      "Il costo può essere 10x superiore agli abbonamenti fissi",
+      "Ora ogni funzione che scrivi ha un prezzo variabile",
+      "Analizza il tuo codice storico prima di attivare la tariffa"
+    ]
+  },
+  {
+    "title": "Physical AI raises governance questions for autonomous systems",
+    "slides": [
+      "Physical AI guida decisioni reali",
+      "Governance definisce i limiti di azione",
+      "Evita caos in sistemi autonomi",
+      "Stabilisci regole chiare ora",
+      "Auto a guida autonoma: chi è colpevole?"
+    ]
+  },
+  {
+    "title": "SAP: How enterprise AI governance secures profit margins",
+    "slides": [
+      "La governance AI salva i margini? O li affonda?",
+      "Solo il 12% delle aziende ha policy AI attive.",
+      "Chi governa l'AI riduce rischi da 2 milioni di dollari.",
+      "Senza governance, multe erodono profitti reali.",
+      "Integra un comitato AI entro 30 giorni."
+    ]
+  },
+  {
+    "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+    "slides": [
+      "Match Group taglia assunzioni per pagare IA.",
+      "Tinder usa IA per sostituire revisori umani.",
+      "Costi calano del 40% con moderazione automatica.",
+      "Posti di lavoro tech a rischio immediate.",
+      "Chi sa usare IA oggi resta competitivo."
+    ]
+  },
+  {
+    "title": "US government increases AI suppliers and rethinks Anthropic’s role",
+    "slides": [
+      "Il governo USA aumenta i fornitori AI. Perché adesso?",
+      "Anthropic perde l'esclusiva sugli appalti federali.",
+      "OpenAI e Google entrano nei contratti di sicurezza.",
+      "Chi lavora con la PA deve diversificare i partner.",
+      "Non puntare su un solo fornitore: cambia strategia."
+    ]
+  },
+  {
+    "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
+    "slides": [
+      "LG+Nvidia talks show AI moving into physical world.",
+      "Physical AI controls robots, factories, not just screens.",
+      "It makes machines smarter, faster, safer without human.",
+      "Train virtual models to run real hardware instantly.",
+      "Factory robots already learn from cloud simulations."
+    ]
   }
 ];
