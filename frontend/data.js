@@ -908,5 +908,145 @@ window.ARTICLES = [
       "Train virtual models to run real hardware instantly.",
       "Factory robots already learn from cloud simulations."
     ]
+  },
+  {
+    "title": "AI agent governance takes focus as regulators flag control gaps",
+    "slides": [
+      "Governi esaminano controllo AI agent",
+      "Cos'è un AI agent autonomo?",
+      "Senza controlli, rischi aumentano",
+      "Aziende devono testare e limitare",
+      "Caso 2024: agent AI viola regole"
+    ]
+  },
+  {
+    "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+    "slides": [
+      "Google vende governance AI agentica come prodotto.",
+      "Aziende devono ancora adeguarsi alle regole.",
+      "Strumento utile per conformità e sicurezza.",
+      "Valuta e implementa policy di governance ora.",
+      "Esempio: banca usa Google per audit automatici."
+    ]
+  },
+  {
+    "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+    "slides": [
+      "Google lancia Remy per Gemini",
+      "Agente AI per automatizzare azioni",
+      "Utenti controllano le decisioni",
+      "Provalo nelle impostazioni ora",
+      "Ad esempio, Remy prenota viaggi"
+    ]
+  },
+  {
+    "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet",
+    "slides": [
+      "GPT-5.5 è il modello più capace di OpenAI",
+      "Pensa, pianifica e agisce in autonomia",
+      "Risolve compiti complessi senza supervisione",
+      "Provalo subito su piattaforme OpenAI",
+      "Ha aumentato produttività del 40% in aziende"
+    ]
+  },
+  {
+    "title": "IBM launches AI platform Bob to regulate SDLC costs",
+    "slides": [
+      "Bob regola i costi dello sviluppo software",
+      "AI IBM analizza spese e ottimizza",
+      "Risparmi tempo e budget automaticamente",
+      "Configura Bob in 3 clic",
+      "Azienda X ha tagliato costi del 20%"
+    ]
+  },
+  {
+    "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
+    "slides": [
+      "EMEA lags in AI adoption",
+      "IDC says start small now",
+      "Focus on quick business wins",
+      "Pick one process to automate",
+      "Example: chatbot cuts support tickets"
+    ]
+  },
+  {
+    "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+    "slides": [
+      "AI elimina barriere d'ingresso",
+      "Automatizza ricette e gestione",
+      "Riduce costi e competenze",
+      "Chiunque può creare un menu",
+      "Esempio: ristorante virtuale via AI"
+    ]
+  },
+  {
+    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+    "slides": [
+      "AI analyses height and bone structure",
+      "Detects underage users accurately",
+      "Stops kids lying about age",
+      "For safety and parental control",
+      "Meta tests on teen accounts now"
+    ]
+  },
+  {
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "slides": [
+      "OpenAI lancia GPT-5.5 Instant",
+      "Modello più veloce e intelligente",
+      "Risposte immediate e accurate",
+      "Aggiorna ChatGPT ora",
+      "Test: chiedigli un consiglio"
+    ]
+  },
+  {
+    "title": "PayPal says it’s ‘becoming a technology company again.’ That means AI.",
+    "slides": [
+      "PayPal torna tecnologia, usa AI.",
+      "AI migliora pagamenti e sicurezza.",
+      "Più veloce, meno frodi, clienti felici.",
+      "Sviluppa strumenti AI per transazioni.",
+      "Esempio: AI blocca pagamenti sospetti."
+    ]
+  },
+  {
+    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "slides": [
+      "Chatbot finto dottore inganna minori",
+      "Piattaforma AI senza controlli adeguati",
+      "Causa legale per danni psicologici",
+      "Verifica identità professionale obbligatoria",
+      "Adolescente cerca aiuto, trova bugia"
+    ]
+  },
+  {
+    "title": "Per-token AI charges come to GitHub Copilot",
+    "slides": [
+      "Copia il modello di pagamento Copilot",
+      "Paghi per ogni token usato",
+      "Scalabile e trasparente",
+      "Imposta budget e limiti massimi",
+      "Netflix paga per streaming, tu per AI"
+    ]
+  },
+  {
+    "title": "Physical AI raises governance questions for autonomous systems",
+    "slides": [
+      "Physical AI guida decisioni reali",
+      "Governance definisce i limiti di azione",
+      "Evita caos in sistemi autonomi",
+      "Stabilisci regole chiare ora",
+      "Auto a guida autonoma: chi è colpevole?"
+    ]
+  },
+  {
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "slides": [
+      "SAP investe 1 miliardo in IA tedesca",
+      "Laboratorio AI ha solo 18 mesi",
+      "Sceglie NemoClaw per potenziare offerte",
+      "Integrerà AI nei sistemi aziendali",
+      "Esempio: automazione processi HR via IA"
+    ]
   }
 ];
