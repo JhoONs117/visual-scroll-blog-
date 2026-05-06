@@ -154,13 +154,13 @@
 <body>
   <div class="container">
     <h1>Review articoli</h1>
+    <div id="counter"></div>
     <div id="root"></div>
   </div>
 
   <script src="data.js"></script>
   <script>
     function copyText(text) {
-      // Funziona sia su https che su file://
       if (navigator.clipboard && window.isSecureContext) {
         return navigator.clipboard.writeText(text);
       }
@@ -179,10 +179,6 @@
       const btn = document.createElement('button');
       btn.className = 'copy-btn';
       btn.textContent = 'Copia tutto';
-      if (!lines || !lines.length) {
-        btn.disabled = true;
-        return btn;
-      }
       btn.addEventListener('click', () => {
         copyText(lines.join('\n\n')).then(() => {
           btn.textContent = 'Copiato!';
@@ -206,9 +202,11 @@
       const label = document.createElement('div');
       label.className = 'section-label';
       label.textContent = labelText;
-
       header.appendChild(label);
-      header.appendChild(makeCopyBtn(lines));
+
+      if (lines && lines.length) {
+        header.appendChild(makeCopyBtn(lines));
+      }
       block.appendChild(header);
 
       if (lines && lines.length) {
@@ -231,21 +229,28 @@
     }
 
     const root = document.getElementById('root');
+    const counter = document.getElementById('counter');
 
     if (!window.ARTICLES || window.ARTICLES.length === 0) {
       root.innerHTML = '<p class="empty">Nessun articolo disponibile.</p>';
     } else {
-      window.ARTICLES.forEach(article => {
+      // Prima gli articoli con formati, poi quelli senza
+      const withFormats = window.ARTICLES.filter(a => a.thread_text && a.thread_text.length);
+      const withoutFormats = window.ARTICLES.filter(a => !a.thread_text || !a.thread_text.length);
+      const sorted = [...withFormats, ...withoutFormats];
+
+      counter.style.cssText = 'font-size:0.8rem;color:#4a5568;margin-bottom:2rem';
+      counter.textContent = `${withFormats.length} articoli con thread e script · ${withoutFormats.length} senza`;
+
+      sorted.forEach(article => {
         const el = document.createElement('div');
         el.className = 'article';
 
-        // Titolo
         const title = document.createElement('div');
         title.className = 'article-title';
         title.textContent = article.title;
         el.appendChild(title);
 
-        // Slide
         const slidesLabel = document.createElement('div');
         slidesLabel.className = 'section-label';
         slidesLabel.textContent = 'Slide';
