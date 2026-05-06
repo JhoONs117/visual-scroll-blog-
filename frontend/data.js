@@ -3394,5 +3394,115 @@ window.ARTICLES = [
       "Se lavori con AI, diversifica subito i fornitori.",
       "Chi si lega a uno solo, rischia grosso."
     ]
+  },
+  {
+    "title": "AI agent governance takes focus as regulators flag control gaps",
+    "slides": [
+      "Governi esaminano controllo AI agent",
+      "Cos'è un AI agent autonomo?",
+      "Senza controlli, rischi aumentano",
+      "Aziende devono testare e limitare",
+      "Caso 2024: agent AI viola regole"
+    ]
+  },
+  {
+    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "slides": [
+      "La tua morale decide il tuo iPhone?",
+      "Apple sceglierà l'AI in base alle tue preferenze.",
+      "Nessuna azienda l'ha mai fatto prima.",
+      "Scegli tu il modello AI per ogni azione.",
+      "Personalizza il tuo assistente: poteri o limiti?"
+    ]
+  },
+  {
+    "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet",
+    "slides": [
+      "GPT-5.5 sa cosa vuoi prima che lo chiedi?",
+      "Agisce da solo su task complessi in cloud.",
+      "Non chiede aiuto: decide e esegue in tempo reale.",
+      "Risparmi ore di lavoro manuale ogni giorno.",
+      "Delega oggi un compito e osserva il risultato."
+    ]
+  },
+  {
+    "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+    "slides": [
+      "Aprire un ristorante senza esperti? Presto sarà possibile.",
+      "Marc Lore prevede AI che gestisce cucina e logistica.",
+      "Niente chef: l'AI cucina e organizza tutto da sola.",
+      "Per te: apri senza esperienza, riduci del 70% i costi.",
+      "Il vero ingrediente segreto ora è l'algoritmo."
+    ]
+  },
+  {
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "slides": [
+      "Il tuo capo userà GPT-5.5 prima di te?",
+      "È il nuovo modello predefinito di ChatGPT.",
+      "Risponde in tempo reale, senza attendere.",
+      "Standard: se non lo usi, sei già in ritardo.",
+      "Aggiorna le tue abitudini: vai su ChatGPT ora."
+    ]
+  },
+  {
+    "title": "PayPal says it’s ‘becoming a technology company again.’ That means AI.",
+    "slides": [
+      "PayPal torna tecnologia, usa AI.",
+      "AI migliora pagamenti e sicurezza.",
+      "Più veloce, meno frodi, clienti felici.",
+      "Sviluppa strumenti AI per transazioni.",
+      "Esempio: AI blocca pagamenti sospetti."
+    ]
+  },
+  {
+    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "slides": [
+      "Un chatbot si spaccia per medico. Sei al sicuro?",
+      "Minorenne segue cure false per mesi.",
+      "Character.AI causa danni reali, non virtuali.",
+      "Non fidarti mai di chatbot per diagnosi.",
+      "Verifica sempre la fonte: la salute è reale."
+    ]
+  },
+  {
+    "title": "Physical AI raises governance questions for autonomous systems",
+    "slides": [
+      "Physical AI guida decisioni reali",
+      "Governance definisce i limiti di azione",
+      "Evita caos in sistemi autonomi",
+      "Stabilisci regole chiare ora",
+      "Auto a guida autonoma: chi è colpevole?"
+    ]
+  },
+  {
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "slides": [
+      "SAP ha appena comprato un laboratorio AI di 18 mesi?",
+      "1,16 miliardi di dollari per un team nato nel 2023.",
+      "NemoClaw significa fare AI senza chiamare OpenAI.",
+      "Chi sviluppa su SAP ora ha un'alternativa interna.",
+      "Se sei partner SAP, impara NemoClaw entro 6 mesi."
+    ]
+  },
+  {
+    "title": "SAP: How enterprise AI governance secures profit margins",
+    "slides": [
+      "Your AI could be costing you more than it saves.",
+      "SAP found governance gaps risk 12% of margins.",
+      "Bad AI decisions eroded profits faster than any human error.",
+      "Audit each model's output before it hits production.",
+      "Profit protection starts with AI governance today."
+    ]
+  },
+  {
+    "title": "US government increases AI suppliers and rethinks Anthropic’s role",
+    "slides": [
+      "Perché il governo apre a più fornitori di AI?",
+      "Anthropic perde l'esclusiva sui contratti federali.",
+      "La mossa riduce la dipendenza da un singolo player.",
+      "Gare più eque e più innovazione per gli enti pubblici.",
+      "Se lavori nel pubblico, preparati a nuovi vendor."
+    ]
   }
 ];
