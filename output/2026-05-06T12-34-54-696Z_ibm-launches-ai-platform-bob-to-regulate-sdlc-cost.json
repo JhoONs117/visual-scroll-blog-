@@ -6,5 +6,19 @@
     "Ha previsto sforamenti con mesi d'anticipo",
     "Il tuo team risparmia ore di revisione",
     "Prova Bob su un progetto in esecuzione"
+  ],
+  "thread_text": [
+    "Se il tuo team spende ore a controllare i commit e i budget saltano comunque, il problema non sono le persone.",
+    "I dati ci sono già. Ogni commit, ogni modifica, ogni richiesta. Il problema è che nessuno li usa per prevedere.",
+    "Impara a leggere il codice come un termometro. I segnali di sforamento arrivano settimane prima, non quando è troppo tardi.",
+    "Un modello che analizza il lavoro passato stima i tempi reali con un margine d'errore ridicolo rispetto ai preventivi umani.",
+    "Bob non è un futuro possibile. È uno strumento che puoi lanciare su un progetto in esecuzione oggi e vedere i primi risultati in un pomeriggio."
+  ],
+  "video_script": [
+    "I budget dei progetti software sono una farsa.",
+    "Ogni commit è un indizio che ignoriamo.",
+    "Bob analizza tutto e stima il vero costo.",
+    "Prevede gli sforamenti con mesi di anticipo.",
+    "Provarlo ora su un progetto vero."
   ]
 }

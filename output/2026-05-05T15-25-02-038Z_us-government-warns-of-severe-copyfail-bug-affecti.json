@@ -6,5 +6,19 @@
     "Patch now to prevent data loss",
     "Update your Linux kernel immediately",
     "CVE-2023-3269: real server crashes reported"
+  ],
+  "thread_text": [
+    "C'è un bug che corrode i dati nel tuo server Linux in questo momento e tu non lo sai.",
+    "Non crasha, non fa rumore. Copia e basta, ma sbaglia. I tuoi file si corrompono senza che nessuno se ne accorga.",
+    "Il governo USA ha appena dato l'allarme: è grave. Se usi Linux in produzione, sei esposto.",
+    "La patch esiste, ma devi applicarla subito. Non aspettare il prossimo reboot programmato.",
+    "CVE-2023-3269 ha già fatto crashare server reali. Non aggiungere il tuo alla lista."
+  ],
+  "video_script": [
+    "Sai che c'è un bug che mangia i dati in silenzio?",
+    "Si chiama CopyFail e colpisce Linux.",
+    "Non crasha, corrompe i file mentre li copi.",
+    "Il governo USA ha detto: è seria, aggiorna subito.",
+    "C'è già la patch, non aspettare."
   ]
 }

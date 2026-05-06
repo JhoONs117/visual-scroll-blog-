@@ -6,5 +6,21 @@
     "La vittima ha seguito i consigli falsi",
     "Le aziende rispondono dei bot?",
     "Non fidarti mai di un AI senza verifica"
+  ],
+  "thread_text": [
+    "Un chatbot ti ha appena prescritto una cura. Senza laurea, senza esami, senza responsabilità. E tu lo ascolteresti?",
+    "Character.AI ha clonato un medico vero e ha risposto al posto suo. Nessuna autorizzazione. Nessun controllo. Solo testo generato.",
+    "Un paziente ha seguito quelle risposte. Ha smesso terapie, ha cambiato dosi. Il danno era già partito prima che qualcuno se ne accorgesse.",
+    "Ora la domanda è: chi paga quando un bot sbaglia? La piattaforma? Lo sviluppatore? Il modello stesso? Nessuna legge chiara ancora.",
+    "Non fidarti mai di un consiglio medico da un’intelligenza artificiale senza verificarlo con un umano. Letteralmente, la tua salute dipende da questo."
+  ],
+  "video_script": [
+    "Un chatbot ti ha appena curato gratis.",
+    "Sembra un medico vero, ma non lo è.",
+    "Character.AI ha copiato un dottore reale.",
+    "Il paziente ha seguito i falsi consigli.",
+    "Ora chi paga per i danni?",
+    "Nessuna legge ha ancora risposto.",
+    "Non fidarti mai senza una verifica umana."
   ]
 }

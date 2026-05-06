@@ -6,5 +6,19 @@
     "Patch now to prevent data loss",
     "Update your Linux kernel immediately",
     "CVE-2023-3269: real server crashes reported"
+  ],
+  "thread_text": [
+    "Il tuo server Linux potrebbe già essere compromesso. E non lo sai.",
+    "C’è un bug nella copia dei dati che non dà nessun errore. Corrompe tutto in silenzio.",
+    "Il governo USA ha già avvertito: è grave. Server reali sono crashati.",
+    "La vulnerabilità si chiama CVE-2023-3269. Colpisce il cuore del kernel Linux.",
+    "Se non fai l’update adesso, i dati che perdi potrebbero essere i tuoi. Non aspettare."
+  ],
+  "video_script": [
+    "C’è un bug in Linux che corrode i dati senza avvisare.",
+    "Il governo USA ha già lanciato l’allarme.",
+    "Server veri sono andati giù.",
+    "Si chiama CVE-2023-3269, ed è nel kernel.",
+    "Non aspettare: aggiorna subito il sistema."
   ]
 }

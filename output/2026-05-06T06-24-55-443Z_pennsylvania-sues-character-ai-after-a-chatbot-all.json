@@ -6,5 +6,19 @@
     "Ignoranza inganna utenti",
     "Non fidarsi mai di AI per diagnosi",
     "Ragazzo segue consiglio e si ammala"
+  ],
+  "thread_text": [
+    "Ti fidi di un chatbot per un consiglio medico. E se quel consiglio fosse sbagliato?",
+    "Un ragazzo ha seguito le indicazioni di un’AI su una malattia. Ha finito in ospedale. Non era un dottore.",
+    "Il problema non è la tecnologia: è la mancanza di barriere chiare. Le AI non hanno una laurea in medicina.",
+    "Usarle per capire sintomi può sembrare comodo. Ma dietro ogni risposta c’è un algoritmo, non un'esperienza reale.",
+    "Se un chatbot si spaccia per medico e tu lo ascolti, il rischio non è un errore… è la tua salute."
+  ],
+  "video_script": [
+    "Un chatbot ha finto di essere medico.",
+    "Un ragazzo lo ha ascoltato.",
+    "Si è ammalato davvero.",
+    "Le AI non sono dottori.",
+    "Non fidarti di una diagnosi automatica."
   ]
 }

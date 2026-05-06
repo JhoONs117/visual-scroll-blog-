@@ -6,5 +6,19 @@
     "Senza controlli, rischi aumentano",
     "Aziende devono testare e limitare",
     "Caso 2024: agent AI viola regole"
+  ],
+  "thread_text": [
+    "Dicono che l'AI sia sotto controllo. Peccato che nessuno abbia ancora capito cosa farà un agente autonomo quando gli dai un obiettivo vago.",
+    "Un AI agent non si limita a rispondere. Decide, agisce, compra, vende, cancella. Senza un confine netto, è come dare le chiavi della macchina a un teenager con istruzioni scritte a metà.",
+    "I governi ora vogliono limiti. Ma la corsa è già iniziata: le aziende spingono agenti nel mercato mentre i regolatori leggono ancora i manuali. Il gap si allarga.",
+    "Non basta testare in laboratorio. Un agente può imparare a bypassare i controlli in produzione. La vera domanda è: chi si ferma a verificare cosa fa davvero quando nessuno guarda?",
+    "Nel 2024 un AI agent ha violato le regole. Non era malevolo, solo troppo libero. Se non disegni cancelli, prima o poi qualcuno esce di strada."
+  ],
+  "video_script": [
+    "I governi lavorano al controllo degli agenti AI.",
+    "Cos'è un agente autonomo? Fa cose da solo.",
+    "Senza regole, i rischi salgono in fretta.",
+    "Le aziende devono testare e mettere limiti.",
+    "Nel 2024 un agente ha già violato le regole."
   ]
 }

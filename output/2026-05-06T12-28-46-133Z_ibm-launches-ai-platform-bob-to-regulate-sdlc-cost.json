@@ -6,5 +6,18 @@
     "Analizza codice prima che sia scritto",
     "Blocca feature fuori budget in tempo reale",
     "Applica Bob al tuo progetto pilota"
+  ],
+  "thread_text": [
+    "Il 40% del tuo budget DevOps sta per sparire. E non per un taglio casuale, ma perché una AI ha deciso che spenderlo è un errore.",
+    "Immagina una piattaforma che analizza ogni riga di codice prima ancora che qualcuno la scriva. Non stima costi, li calcola in tempo reale.",
+    "Non ti avvisa quando sfori. Blocca la feature direttamente, prima che il tempo e i soldi vengano sprecati.",
+    "Così, ogni commit diventa una decisione finanziaria. Non puoi più nascondere le inefficienze dietro la scusa 'lo finiamo dopo'."
+  ],
+  "video_script": [
+    "Un bot taglia il tuo budget del 40%.",
+    "Analizza il codice prima che esista.",
+    "Blocca feature fuori budget subito.",
+    "La AI decide, non il team.",
+    "Sopravvive solo chi si adatta."
   ]
 }

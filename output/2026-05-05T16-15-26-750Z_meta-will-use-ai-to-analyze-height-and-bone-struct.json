@@ -6,5 +6,19 @@
     "Stops kids lying about age",
     "For safety and parental control",
     "Meta tests on teen accounts now"
+  ],
+  "thread_text": [
+    "Meta sta testando un'AI che analizza le ossa del viso per capire se un utente è minorenne. Anche se menti sull'età.",
+    "Non controlla la carta d'identità. Guarda la struttura ossea e l'altezza dal video. L'algoritmo riconosce i teenager con precisione.",
+    "I ragazzi mentono sull'età da sempre. Ma ora il sistema li becca prima ancora che aprano bocca. Nessun modulo da compilare.",
+    "L'obiettivo dichiarato è la sicurezza. Ma la domanda vera è: fino a che punto un'AI può scavare nei dati biometrici senza autorizzazione?",
+    "La prossima battaglia non sarà più sui contenuti, ma sull'identità fisica. E inizierà con un selfie."
+  ],
+  "video_script": [
+    "Meta testa un'AI che vede le ossa del viso.",
+    "Scopre se sei minorenne anche se menti.",
+    "Niente moduli, niente bugie.",
+    "Guarda altezza e struttura facciale dal video.",
+    "La privacy ora è un selfie."
   ]
 }

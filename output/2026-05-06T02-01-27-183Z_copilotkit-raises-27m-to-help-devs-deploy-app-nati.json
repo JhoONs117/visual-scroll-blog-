@@ -6,5 +6,19 @@
     "Integra AI direttamente nelle app",
     "Veloce da implementare e usare",
     "Esempio: chat AI in app esistenti"
+  ],
+  "thread_text": [
+    "27 milioni di dollari in una startup che costruisce strumenti per sviluppatori AI. Ma non per fare chatbot. Per qualcosa di molto più subdolo.",
+    "CopilotKit ti fa prendere qualsiasi app esistente e infilare un agente AI al suo interno. Senza riscrivere il backend. Senza migrazioni folli.",
+    "Il punto è: l'AI smette di essere una feature a sé stante e diventa un componente che vive dentro il flusso che già usi. Un copilota, non un assistente a parte.",
+    "Gli sviluppatori lo implementano in giorni, non mesi. E il risultato è un'interfaccia che sembra magica: l'AI sa cosa stai facendo perché è dentro lo stesso contesto.",
+    "Morale: se la prossima app che usi inizia a suggerirti azioni senza che tu chieda nulla, non è stregoneria. È solo CopilotKit che entra in scena."
+  ],
+  "video_script": [
+    "27 milioni per una startup AI.",
+    "Ma non per fare chatbot.",
+    "CopilotKit infila AI nelle tue app.",
+    "Veloce, senza riscrivere tutto.",
+    "L'AI diventa parte del flusso."
   ]
 }

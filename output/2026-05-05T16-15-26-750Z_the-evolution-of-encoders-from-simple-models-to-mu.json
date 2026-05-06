@@ -6,5 +6,19 @@
     "Better data means better AI",
     "Train yours on different inputs",
     "Multimodal encoders understand text, images, audio"
+  ],
+  "thread_text": [
+    "Hai mai pensato a come un computer capisce le parole? Non è magia. È il modo in cui traduciamo i dati in numeri.",
+    "All'inizio era semplice: ogni parola era un codice. Poi abbiamo capito che non bastava. Serviva il contesto.",
+    "Più dati dai al modello, più precise sono le risposte. Ma attenzione: dati sporchi portano a risposte stupide.",
+    "Non devi limitarti al testo. Puoi addestrare un encoder su immagini, suoni, persino video.",
+    "Ora un solo modello può guardare una foto, ascoltare un audio e leggere un testo. Questo cambia tutto."
+  ],
+  "video_script": [
+    "Come fanno i computer a capirci?",
+    "All'inizio solo parole, codice semplice.",
+    "Poi abbiamo imparato a dare contesto.",
+    "Più dati, più precisione.",
+    "Ora capiscono immagini e suoni."
   ]
 }

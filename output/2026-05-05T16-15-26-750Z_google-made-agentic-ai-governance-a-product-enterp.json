@@ -6,5 +6,19 @@
     "Strumento utile per conformità e sicurezza.",
     "Valuta e implementa policy di governance ora.",
     "Esempio: banca usa Google per audit automatici."
+  ],
+  "thread_text": [
+    "Le aziende pensano che l'AI governance sia un problema da ufficio legale. Google la sta vendendo come prodotto. E questo cambia tutto.",
+    "Le regole esistono già. GDPR, AI Act, linee guida. Il problema è che nessuna azienda sa come applicarle ai sistemi autonomi.",
+    "Google ha capito il gap e sta offrendo governance agentica come servizio. Non solo compliance, ma controllo reale su come l'AI prende decisioni.",
+    "Non è un test, è una necessità operativa. Se non implementi policy adesso, il tuo concorrente lo farà con gli strumenti giusti.",
+    "Una banca usa già Google per audit automatici delle decisioni AI. Tra un anno, non avere questo sarà come non avere un firewall."
+  ],
+  "video_script": [
+    "Google vende governance AI come prodotto.",
+    "Le aziende non sanno gestire le regole.",
+    "Uno strumento per stare in regola e sicuri.",
+    "Devi impostare le policy adesso.",
+    "Una banca lo usa già per audit automatici."
   ]
 }

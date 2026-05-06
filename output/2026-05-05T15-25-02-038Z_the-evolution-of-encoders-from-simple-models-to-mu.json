@@ -6,5 +6,19 @@
     "Better data means better AI",
     "Train yours on different inputs",
     "Multimodal encoders understand text, images, audio"
+  ],
+  "thread_text": [
+    "I modelli AI più potenti non nascono imparando a parlare. Nascono imparando a vedere il mondo come numeri. E se ti dicessi che stai sottovalutando la parte più importante?",
+    "Prima di capire le parole, un encoder trasforma tutto in numeri. Testo, immagini, audio: è lì che inizia la vera magia. Più i dati sono ricchi, più l'AI diventa intelligente.",
+    "Ecco il punto: non serve un encoder pre-addestrato. Puoi addestrarne uno tuo su qualsiasi input. Suoni, sensori, dati finanziari. Più il dato è specifico, più il risultato è potente.",
+    "Ora immagina un encoder che processa insieme testo, immagini e audio. Non separatamente. Un unico modello che capisce il contesto completo. Questo cambia tutto nel modo in cui interagiamo con le macchine.",
+    "Il futuro non è parlare con l'AI. È farla capire come capiamo noi: con tutti i sensi. Se non stai già pensando a quali dati unici hai a disposizione, stai perdendo il vantaggio."
+  ],
+  "video_script": [
+    "Gli encoder partono da testi semplici.",
+    "Trasformano tutto in numeri.",
+    "Dati migliori, AI migliore.",
+    "Addestrali su input diversi.",
+    "Ora capiscono testo, immagini e audio."
   ]
 }

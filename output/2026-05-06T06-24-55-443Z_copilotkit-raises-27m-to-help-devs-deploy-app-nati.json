@@ -6,5 +6,22 @@
     "Integra AI direttamente nelle app",
     "Veloce da implementare e usare",
     "Esempio: chat AI in app esistenti"
+  ],
+  "thread_text": [
+    "Se credi che basti aggiungere un chatbot a un’app per fare AI, stai già perdendo.",
+    "CopilotKit ha appena chiuso un round da 27 milioni di dollari. Non è un’altra interfaccia: è un framework per sviluppatori.",
+    "Invece di costruire un layer AI separato, lo inserisci dentro il codice della tua applicazione esistente.",
+    "Il risultato? Agenti che lavorano dentro i flussi già usati dagli utenti, non in una finestra a parte.",
+    "Non si tratta di costruire AI. Si tratta di farla sparire dentro il prodotto."
+  ],
+  "video_script": [
+    "27 milioni di dollari per CopilotKit.",
+    "Non è un chatbot in più.",
+    "Aiuta sviluppatori a mettere AI dentro le app.",
+    "Non devi costruire niente a parte.",
+    "Funziona subito, nei flussi esistenti.",
+    "Tipo una chat AI già integrata nel software.",
+    "Non serve aprire un'altra finestra.",
+    "Una AI che sparisce dentro il prodotto."
   ]
 }

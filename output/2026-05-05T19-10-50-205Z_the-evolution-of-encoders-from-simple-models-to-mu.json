@@ -6,5 +6,19 @@
     "Better data means better AI",
     "Train yours on different inputs",
     "Multimodal encoders understand text, images, audio"
+  ],
+  "thread_text": [
+    "I modelli più stupidi che hai visto partono da un'idea semplice: trasformare parole in numeri. Sembra banale, ma è qui che tutto si decide.",
+    "Prima di parlare, ogni AI deve tradurre la realtà in numeri. Quel passaggio è la sua vera intelligenza. Fallo male, e il resto è rumore.",
+    "Se dai al modello dati sporchi, lui impara sporco. La qualità dei numeri che gli dai è l'unico vero limite di quello che può fare.",
+    "Non devi per forza usare solo testi. Addestra il tuo encoder su immagini, suoni, codice. Più varietà entra, più connessioni trova.",
+    "I modelli multimodali non sono un trucco di marketing: sono il modo più naturale di capire il mondo. Un encoder che vede, legge e ascolta ti capisce meglio."
+  ],
+  "video_script": [
+    "Gli encoder trasformano tutto in numeri.",
+    "Anche le parole sono solo numeri.",
+    "I dati buoni fanno AI buona.",
+    "Prova a usare input diversi.",
+    "Un encoder che vede e ascolta è più intelligente."
   ]
 }
