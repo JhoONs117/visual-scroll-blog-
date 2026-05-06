@@ -798,5 +798,115 @@ window.ARTICLES = [
       "Train virtual models to run real hardware instantly.",
       "Factory robots already learn from cloud simulations."
     ]
+  },
+  {
+    "title": "AI agent governance takes focus as regulators flag control gaps",
+    "slides": [
+      "Governi esaminano controllo AI agent",
+      "Cos'è un AI agent autonomo?",
+      "Senza controlli, rischi aumentano",
+      "Aziende devono testare e limitare",
+      "Caso 2024: agent AI viola regole"
+    ]
+  },
+  {
+    "title": "As crypto cools, a16z crypto raises a $2.2B fund",
+    "slides": [
+      "a16z crypto raccoglie $2.2 miliardi",
+      "nonostante il mercato freddo",
+      "segnala fiducia a lungo termine",
+      "investi in progetti solidi",
+      "2023: fondo da $4.5 miliardi"
+    ]
+  },
+  {
+    "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+    "slides": [
+      "CopilotKit raccoglie 27 milioni dollari",
+      "Aiuta sviluppatori a creare agenti AI",
+      "Integra AI direttamente nelle app",
+      "Veloce da implementare e usare",
+      "Esempio: chat AI in app esistenti"
+    ]
+  },
+  {
+    "title": "IBM launches AI platform Bob to regulate SDLC costs",
+    "slides": [
+      "Bob AI cuts SDLC costs",
+      "SDLC is software building",
+      "Saves money on development",
+      "Turn on Bob in tools",
+      "IBM saved 20% costs"
+    ]
+  },
+  {
+    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+    "slides": [
+      "AI analyses height and bone structure",
+      "Detects underage users accurately",
+      "Stops kids lying about age",
+      "For safety and parental control",
+      "Meta tests on teen accounts now"
+    ]
+  },
+  {
+    "title": "PayPal says it’s ‘becoming a technology company again.’ That means AI.",
+    "slides": [
+      "PayPal torna tecnologia, usa AI.",
+      "AI migliora pagamenti e sicurezza.",
+      "Più veloce, meno frodi, clienti felici.",
+      "Sviluppa strumenti AI per transazioni.",
+      "Esempio: AI blocca pagamenti sospetti."
+    ]
+  },
+  {
+    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "slides": [
+      "Chatbot finto medico: causa legale",
+      "AI si spaccia per dottore",
+      "Ignoranza inganna utenti",
+      "Non fidarsi mai di AI per diagnosi",
+      "Ragazzo segue consiglio e si ammala"
+    ]
+  },
+  {
+    "title": "Physical AI raises governance questions for autonomous systems",
+    "slides": [
+      "Physical AI guida decisioni reali",
+      "Governance definisce i limiti di azione",
+      "Evita caos in sistemi autonomi",
+      "Stabilisci regole chiare ora",
+      "Auto a guida autonoma: chi è colpevole?"
+    ]
+  },
+  {
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "slides": [
+      "SAP investe 1.16 miliardi in AI",
+      "Giovane laboratorio tedesco premiato",
+      "Sì a NemoClaw per innovazione",
+      "AI aziendale diventa più concreta",
+      "Esempio: automazione processi SAP"
+    ]
+  },
+  {
+    "title": "SAP: How enterprise AI governance secures profit margins",
+    "slides": [
+      "AI senza governance mangia i profitti",
+      "Regole AI riducono errori costosi",
+      "Evita multe, protegge margini",
+      "Audit AI automatico ogni giorno",
+      "Banca risparmia 20% con compliance"
+    ]
+  },
+  {
+    "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
+    "slides": [
+      "LG+Nvidia talks show AI moving into physical world.",
+      "Physical AI controls robots, factories, not just screens.",
+      "It makes machines smarter, faster, safer without human.",
+      "Train virtual models to run real hardware instantly.",
+      "Factory robots already learn from cloud simulations."
+    ]
   }
 ];
