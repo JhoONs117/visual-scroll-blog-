@@ -3684,5 +3684,135 @@ window.ARTICLES = [
       "Le app di dating saranno gestite da algoritmi.",
       "Se usi Tinder, aspettati più match automatici."
     ]
+  },
+  {
+    "title": "AI agent governance takes focus as regulators flag control gaps",
+    "slides": [
+      "Governi esaminano controllo AI agent",
+      "Cos'è un AI agent autonomo?",
+      "Senza controlli, rischi aumentano",
+      "Aziende devono testare e limitare",
+      "Caso 2024: agent AI viola regole"
+    ]
+  },
+  {
+    "title": "AI boom pushes Samsung to $1T",
+    "slides": [
+      "Samsung varrà $1T. E tu non ci credi?",
+      "Corea del Sud: AI spinge export e chip.",
+      "Samsung supera Intel e TSMC in valore.",
+      "Possiedi azioni Samsung? Controlla ora.",
+      "Il boom AI premia chi produce hardware."
+    ]
+  },
+  {
+    "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
+    "slides": [
+      "Il tuo fornitore AI ha già perso i tuoi dati?",
+      "Braintrust ha subìto una violazione di sicurezza.",
+      "Chiedono a tutti i clienti di ruotare le chiavi.",
+      "Controlla subito i tuoi token e credenziali.",
+      "Non fidarti: ruota ogni segreto oggi stesso."
+    ]
+  },
+  {
+    "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
+    "slides": [
+      "Big Tech AI spending finally showed real returns.",
+      "Revenue jumped, but costs grew even faster.",
+      "They profit, yet raise your subscription price.",
+      "You pay more for the same AI access.",
+      "Audit your AI tools. Cut unused ones."
+    ]
+  },
+  {
+    "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+    "slides": [
+      "Google vende governance AI agentica come prodotto.",
+      "Aziende devono ancora adeguarsi alle regole.",
+      "Strumento utile per conformità e sicurezza.",
+      "Valuta e implementa policy di governance ora.",
+      "Esempio: banca usa Google per audit automatici."
+    ]
+  },
+  {
+    "title": "Google updates AI search to include quotes from Reddit and other sources",
+    "slides": [
+      "Google sta usando i tuoi post come risposte?",
+      "Ora mostra citazioni da Reddit nei risultati",
+      "Nessun link: le frasi escono dal contesto",
+      "Il tuo contenuto diventa risorsa senza traffico",
+      "Controlla se i tuoi dati sono già inclusi"
+    ]
+  },
+  {
+    "title": "HP and the art of AI and data for the enterprise",
+    "slides": [
+      "HP sta rivoluzionando l'AI enterprise?",
+      "Unisce dati aziendali e machine learning",
+      "Il 70% dei progetti fallisce senza dati puliti",
+      "Riduci del 40% i costi con data fabric",
+      "Allinea subito dati e AI: è il vero vantaggio"
+    ]
+  },
+  {
+    "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
+    "slides": [
+      "La tua IA è ferma al pilota? Sbagli approccio.",
+      "Solo il 30% dei CIO EMEA scala oltre i test.",
+      "I vincitori usano dati interni, non modelli pronti.",
+      "Riduci del 40% il time-to-value con use-case mirati.",
+      "Oggi: scegli un processo, non una tecnologia."
+    ]
+  },
+  {
+    "title": "Microsoft’s AI data center push is colliding with its clean power goals",
+    "slides": [
+      "Microsoft promette emissioni zero entro il 2030.",
+      "I data center AI consumano energia da boom.",
+      "L’IA triplica la domanda elettrica prevista.",
+      "Servono più rinnovabili, ma non bastano.",
+      "Ogni query AI ha un costo nascosto: smettila."
+    ]
+  },
+  {
+    "title": "Physical AI raises governance questions for autonomous systems",
+    "slides": [
+      "Physical AI guida decisioni reali",
+      "Governance definisce i limiti di azione",
+      "Evita caos in sistemi autonomi",
+      "Stabilisci regole chiare ora",
+      "Auto a guida autonoma: chi è colpevole?"
+    ]
+  },
+  {
+    "title": "SAP: How enterprise AI governance secures profit margins",
+    "slides": [
+      "Il 73% delle aziende perde AI su dati sensibili?",
+      "SAP detta le regole per la governance AI.",
+      "Un audit interno ha evitato multe da 5 milioni.",
+      "Ogni modello deployato ha audit conforme obbligatorio.",
+      "Automatizza il risk check prima del go-live."
+    ]
+  },
+  {
+    "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+    "slides": [
+      "Match Group taglia assunzioni per pagare l'IA.",
+      "Tinder e Hinge usano IA per abbinamenti.",
+      "L'IA costa di meno degli umani? Sì.",
+      "Rischio: meno persone, più automazione.",
+      "Candidati: aggiorna subito le tue competenze."
+    ]
+  },
+  {
+    "title": "US government increases AI suppliers and rethinks Anthropic’s role",
+    "slides": [
+      "Il governo USA raddoppia i suoi fornitori AI.",
+      "Anthropic perde l'esclusività nei contratti federali.",
+      "Non è più il partner unico per la sicurezza AI.",
+      "Le aziende AI dovranno competere su trasparenza.",
+      "Rivedi ora i tuoi accordi con il settore pubblico."
+    ]
   }
 ];
