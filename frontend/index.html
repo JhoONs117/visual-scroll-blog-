@@ -3,26 +3,20 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Visual Scroll Blog</title>
+  <title>AI News</title>
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
 
-    html, body {
-      height: 100%;
-      overflow: hidden;
-    }
+    html, body { height: 100%; background: #000; }
 
+    /* Feed verticale — un articolo per "pagina" */
     .feed {
       height: 100vh;
       overflow-y: scroll;
       scroll-snap-type: y mandatory;
-      touch-action: pan-y;
     }
 
+    /* Story orizzontale — una slide per "pagina" */
     .story {
       height: 100vh;
       width: 100vw;
@@ -33,69 +27,103 @@
       position: relative;
     }
 
+    /* Singola slide */
     .slide {
       min-width: 100vw;
       height: 100vh;
       scroll-snap-align: start;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 2rem;
       flex-shrink: 0;
-    }
-
-    .slide p {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      font-size: 28px;
-      font-weight: 600;
-      line-height: 1.4;
-      text-align: center;
-      max-width: 600px;
-    }
-
-    .slide-color-0 { background: #0f172a; color: #f8fafc; }
-    .slide-color-1 { background: #1e293b; color: #f1f5f9; }
-    .slide-color-2 { background: #334155; color: #f1f5f9; }
-    .slide-color-3 { background: #475569; color: #f8fafc; }
-    .slide-color-4 { background: #0f172a; color: #94a3b8; }
-
-    /* Indicatori slide */
-    .indicators {
-      position: absolute;
-      top: 14px;
-      left: 50%;
-      transform: translateX(-50%);
       display: flex;
-      gap: 5px;
+      flex-direction: column;
+      position: relative;
+    }
+
+    /* Colori per le 5 slide */
+    .slide-color-0 { background: #0f172a; }
+    .slide-color-1 { background: #1a1035; }
+    .slide-color-2 { background: #0d2137; }
+    .slide-color-3 { background: #1a2a1a; }
+    .slide-color-4 { background: #1a1a1a; }
+
+    /* Barre progress story in cima */
+    .progress-bars {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      display: flex;
+      gap: 4px;
+      padding: 12px 12px 0;
       z-index: 10;
       pointer-events: none;
     }
 
-    .indicator {
-      width: 36px;
-      height: 3px;
+    .progress-bar {
+      flex: 1;
+      height: 2px;
       border-radius: 2px;
-      background: rgba(255,255,255,0.25);
-      transition: background 0.2s;
+      background: rgba(255,255,255,0.2);
     }
 
-    .indicator.active {
+    .progress-bar.active {
       background: rgba(255,255,255,0.9);
+    }
+
+    /* Area contenuto principale — testo slide */
+    .slide-body {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 60px 28px 20px;
+    }
+
+    .slide-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: clamp(22px, 6vw, 36px);
+      font-weight: 700;
+      line-height: 1.3;
+      text-align: center;
+      color: #fff;
+    }
+
+    /* Caption Instagram — thread tweet */
+    .slide-caption {
+      padding: 0 24px 32px;
+      border-top: 1px solid rgba(255,255,255,0.08);
+      padding-top: 16px;
+    }
+
+    .caption-source {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      color: rgba(255,255,255,0.35);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 6px;
+    }
+
+    .caption-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 14px;
+      line-height: 1.55;
+      color: rgba(255,255,255,0.75);
+      overflow-wrap: break-word;
     }
 
     /* Hint prima slide */
     .hint {
       position: absolute;
-      bottom: 28px;
+      bottom: 100px;
       left: 50%;
       transform: translateX(-50%);
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      font-size: 13px;
-      color: rgba(255,255,255,0.45);
+      font-size: 12px;
+      color: rgba(255,255,255,0.3);
       white-space: nowrap;
       pointer-events: none;
-      z-index: 10;
-      transition: opacity 0.3s;
+      transition: opacity 0.4s;
     }
 
     .empty {
@@ -106,7 +134,7 @@
       background: #0f172a;
       color: #475569;
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      font-size: 20px;
+      font-size: 18px;
     }
   </style>
 </head>
@@ -122,66 +150,97 @@
     } else {
       let hintDismissed = false;
 
-      // Costruisce il DOM
       window.ARTICLES.forEach((article, articleIndex) => {
         const story = document.createElement('div');
         story.className = 'story';
 
-        // Indicatori
-        const indicators = document.createElement('div');
-        indicators.className = 'indicators';
-        for (let i = 0; i < article.slides.length; i++) {
-          const dot = document.createElement('div');
-          dot.className = 'indicator' + (i === 0 ? ' active' : '');
-          indicators.appendChild(dot);
-        }
-        story.appendChild(indicators);
+        const slides = article.slides || [];
+        const thread = article.thread_text || [];
 
-        // Hint solo sul primo articolo
-        let hintEl = null;
-        if (articleIndex === 0) {
-          hintEl = document.createElement('div');
-          hintEl.className = 'hint';
-          hintEl.textContent = 'scorri →  altre news ↓';
-          story.appendChild(hintEl);
-        }
-
-        // Slide
-        article.slides.forEach((text, i) => {
+        // Costruisce le slide
+        slides.forEach((slideText, i) => {
           const slide = document.createElement('div');
           slide.className = `slide slide-color-${i}`;
-          slide.innerHTML = `<p>${text}</p>`;
+
+          // Barre progress (uguali su ogni slide, active cambia via JS)
+          const bars = document.createElement('div');
+          bars.className = 'progress-bars';
+          slides.forEach((_, j) => {
+            const bar = document.createElement('div');
+            bar.className = 'progress-bar' + (j === 0 ? ' active' : '');
+            bars.appendChild(bar);
+          });
+          slide.appendChild(bars);
+
+          // Testo principale della slide
+          const body = document.createElement('div');
+          body.className = 'slide-body';
+          const txt = document.createElement('div');
+          txt.className = 'slide-text';
+          txt.textContent = slideText;
+          body.appendChild(txt);
+          slide.appendChild(body);
+
+          // Caption: tweet corrispondente alla slide
+          const tweetText = thread[i] || '';
+          if (tweetText) {
+            const caption = document.createElement('div');
+            caption.className = 'slide-caption';
+            const src = document.createElement('div');
+            src.className = 'caption-source';
+            src.textContent = article.title;
+            const ct = document.createElement('div');
+            ct.className = 'caption-text';
+            ct.textContent = tweetText;
+            caption.appendChild(src);
+            caption.appendChild(ct);
+            slide.appendChild(caption);
+          }
+
+          // Hint solo sulla prima slide del primo articolo
+          if (articleIndex === 0 && i === 0) {
+            const hint = document.createElement('div');
+            hint.className = 'hint';
+            hint.id = 'hint';
+            hint.textContent = 'scorri →  altre news ↓';
+            slide.appendChild(hint);
+          }
+
           story.appendChild(slide);
         });
 
         feed.appendChild(story);
 
-        // Aggiorna indicatori allo scroll orizzontale
+        // Aggiorna barre progress allo scroll
         story.addEventListener('scroll', () => {
           const idx = Math.floor(
             (story.scrollLeft + story.clientWidth / 2) / story.clientWidth
           );
-          indicators.querySelectorAll('.indicator').forEach((dot, i) => {
-            dot.classList.toggle('active', i === idx);
+          story.querySelectorAll('.progress-bars').forEach(barsEl => {
+            barsEl.querySelectorAll('.progress-bar').forEach((bar, j) => {
+              bar.classList.toggle('active', j === idx);
+            });
           });
 
-          // Nascondi hint al primo swipe
           if (!hintDismissed && story.scrollLeft > 10) {
             hintDismissed = true;
-            if (hintEl) hintEl.style.opacity = '0';
+            const hint = document.getElementById('hint');
+            if (hint) hint.style.opacity = '0';
           }
         }, { passive: true });
       });
 
-      // Reset scroll orizzontale al cambio articolo
+      // Reset slide 1 al cambio articolo
       const observer = new IntersectionObserver(entries => {
         entries.forEach(entry => {
           if (entry.isIntersecting && entry.intersectionRatio > 0.6) {
             const story = entry.target;
             story.scrollLeft = 0;
-            // Riporta gli indicatori al primo segmento
-            const dots = story.querySelectorAll('.indicator');
-            dots.forEach((d, i) => d.classList.toggle('active', i === 0));
+            story.querySelectorAll('.progress-bars').forEach(barsEl => {
+              barsEl.querySelectorAll('.progress-bar').forEach((bar, j) => {
+                bar.classList.toggle('active', j === 0);
+              });
+            });
           }
         });
       }, { threshold: 0.6 });
@@ -189,12 +248,8 @@
       feed.querySelectorAll('.story').forEach(s => observer.observe(s));
 
       // Touch handler — gestione conflitto assi
-      const stories = Array.from(feed.querySelectorAll('.story'));
-
-      stories.forEach(story => {
-        let startX = 0;
-        let startY = 0;
-        let direction = null; // 'horizontal' | 'vertical' | null
+      feed.querySelectorAll('.story').forEach(story => {
+        let startX = 0, startY = 0, direction = null;
 
         story.addEventListener('touchstart', e => {
           startX = e.touches[0].clientX;
@@ -203,29 +258,21 @@
         }, { passive: true });
 
         story.addEventListener('touchmove', e => {
-          const deltaX = e.touches[0].clientX - startX;
-          const deltaY = e.touches[0].clientY - startY;
+          const dx = e.touches[0].clientX - startX;
+          const dy = e.touches[0].clientY - startY;
 
-          if (!direction) {
-            if (Math.abs(deltaX) > 10 || Math.abs(deltaY) > 10) {
-              direction = Math.abs(deltaX) >= Math.abs(deltaY) ? 'horizontal' : 'vertical';
-            }
+          if (!direction && (Math.abs(dx) > 10 || Math.abs(dy) > 10)) {
+            direction = Math.abs(dx) >= Math.abs(dy) ? 'horizontal' : 'vertical';
           }
 
-          if (direction === 'horizontal') {
-            e.preventDefault();
-          }
-          // vertical: non fare nulla, lascia scorrere il .feed
+          if (direction === 'horizontal') e.preventDefault();
         }, { passive: false });
 
         story.addEventListener('touchend', e => {
           if (direction !== 'horizontal') return;
-
-          const deltaX = e.changedTouches[0].clientX - startX;
+          const dx = e.changedTouches[0].clientX - startX;
           const atEnd = story.scrollLeft + story.clientWidth >= story.scrollWidth - 2;
-
-          // Ultima slide + swipe sinistra → articolo successivo
-          if (atEnd && deltaX < 0) {
+          if (atEnd && dx < 0) {
             feed.scrollBy({ top: window.innerHeight, behavior: 'smooth' });
           }
         }, { passive: true });
