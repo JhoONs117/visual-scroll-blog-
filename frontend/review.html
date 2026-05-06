@@ -29,9 +29,15 @@
       font-size: 0.75rem;
       font-weight: 700;
       color: #4a5568;
-      margin-bottom: 2.5rem;
+      margin-bottom: 0.5rem;
       letter-spacing: 0.1em;
       text-transform: uppercase;
+    }
+
+    #counter {
+      font-size: 0.8rem;
+      color: #4a5568;
+      margin-bottom: 2.5rem;
     }
 
     .article + .article {
@@ -43,12 +49,44 @@
       margin-bottom: 2.5rem;
     }
 
+    .article-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
     .article-title {
       font-size: 1.05rem;
       font-weight: 700;
       color: #f1f5f9;
-      margin-bottom: 1.5rem;
       overflow-wrap: break-word;
+      flex: 1;
+    }
+
+    .copy-btn {
+      background: #1e2535;
+      color: #94a3b8;
+      border: 1px solid #2d3748;
+      border-radius: 4px;
+      padding: 0.35rem 1rem;
+      font-size: 0.8rem;
+      cursor: pointer;
+      white-space: nowrap;
+      flex-shrink: 0;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .copy-btn:hover {
+      background: #2d3748;
+      color: #e2e8f0;
+    }
+
+    .copy-btn.copied {
+      background: #14532d;
+      color: #86efac;
+      border-color: #166534;
     }
 
     .section-label {
@@ -75,7 +113,6 @@
       font-size: 0.85rem;
       min-width: 1.2rem;
       flex-shrink: 0;
-      padding-top: 0.05rem;
     }
 
     .slide-text {
@@ -85,41 +122,6 @@
 
     .format-block {
       margin-bottom: 2rem;
-    }
-
-    .format-header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 0.75rem;
-    }
-
-    .copy-btn {
-      background: #1e2535;
-      color: #94a3b8;
-      border: 1px solid #2d3748;
-      border-radius: 4px;
-      padding: 0.3rem 0.85rem;
-      font-size: 0.78rem;
-      cursor: pointer;
-      white-space: nowrap;
-      transition: background 0.15s, color 0.15s;
-    }
-
-    .copy-btn:hover:not(:disabled) {
-      background: #2d3748;
-      color: #e2e8f0;
-    }
-
-    .copy-btn.copied {
-      background: #14532d;
-      color: #86efac;
-      border-color: #166534;
-    }
-
-    .copy-btn:disabled {
-      opacity: 0.3;
-      cursor: default;
     }
 
     .tweet-list,
@@ -175,39 +177,34 @@
       return Promise.resolve();
     }
 
-    function makeCopyBtn(lines) {
-      const btn = document.createElement('button');
-      btn.className = 'copy-btn';
-      btn.textContent = 'Copia tutto';
-      btn.addEventListener('click', () => {
-        copyText(lines.join('\n\n')).then(() => {
-          btn.textContent = 'Copiato!';
-          btn.classList.add('copied');
-          setTimeout(() => {
-            btn.textContent = 'Copia tutto';
-            btn.classList.remove('copied');
-          }, 2000);
-        });
-      });
-      return btn;
+    function buildFullText(article) {
+      const parts = [];
+
+      parts.push(article.title);
+
+      if (article.slides && article.slides.length) {
+        parts.push('\nSLIDE\n' + article.slides.map((s, i) => `${i + 1}. ${s}`).join('\n'));
+      }
+
+      if (article.thread_text && article.thread_text.length) {
+        parts.push('\nTHREAD X\n' + article.thread_text.join('\n\n'));
+      }
+
+      if (article.video_script && article.video_script.length) {
+        parts.push('\nSCRIPT VIDEO\n' + article.video_script.join('\n'));
+      }
+
+      return parts.join('\n');
     }
 
     function makeSection(labelText, lines, listClass) {
       const block = document.createElement('div');
       block.className = 'format-block';
 
-      const header = document.createElement('div');
-      header.className = 'format-header';
-
       const label = document.createElement('div');
       label.className = 'section-label';
       label.textContent = labelText;
-      header.appendChild(label);
-
-      if (lines && lines.length) {
-        header.appendChild(makeCopyBtn(lines));
-      }
-      block.appendChild(header);
+      block.appendChild(label);
 
       if (lines && lines.length) {
         const ul = document.createElement('ul');
@@ -234,23 +231,43 @@
     if (!window.ARTICLES || window.ARTICLES.length === 0) {
       root.innerHTML = '<p class="empty">Nessun articolo disponibile.</p>';
     } else {
-      // Prima gli articoli con formati, poi quelli senza
       const withFormats = window.ARTICLES.filter(a => a.thread_text && a.thread_text.length);
       const withoutFormats = window.ARTICLES.filter(a => !a.thread_text || !a.thread_text.length);
       const sorted = [...withFormats, ...withoutFormats];
 
-      counter.style.cssText = 'font-size:0.8rem;color:#4a5568;margin-bottom:2rem';
-      counter.textContent = `${withFormats.length} articoli con thread e script · ${withoutFormats.length} senza`;
+      counter.textContent = `${withFormats.length} articoli completi · ${withoutFormats.length} senza formati`;
 
       sorted.forEach(article => {
         const el = document.createElement('div');
         el.className = 'article';
 
-        const title = document.createElement('div');
-        title.className = 'article-title';
-        title.textContent = article.title;
-        el.appendChild(title);
+        // Intestazione: titolo + unico tasto Copia tutto
+        const header = document.createElement('div');
+        header.className = 'article-header';
 
+        const titleEl = document.createElement('div');
+        titleEl.className = 'article-title';
+        titleEl.textContent = article.title;
+        header.appendChild(titleEl);
+
+        const btn = document.createElement('button');
+        btn.className = 'copy-btn';
+        btn.textContent = 'Copia tutto';
+        btn.addEventListener('click', () => {
+          copyText(buildFullText(article)).then(() => {
+            btn.textContent = 'Copiato!';
+            btn.classList.add('copied');
+            setTimeout(() => {
+              btn.textContent = 'Copia tutto';
+              btn.classList.remove('copied');
+            }, 2000);
+          });
+        });
+        header.appendChild(btn);
+
+        el.appendChild(header);
+
+        // Slide
         const slidesLabel = document.createElement('div');
         slidesLabel.className = 'section-label';
         slidesLabel.textContent = 'Slide';
