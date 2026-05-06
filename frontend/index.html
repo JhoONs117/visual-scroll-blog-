@@ -13,21 +13,35 @@
 
     html, body {
       height: 100%;
+      overflow: hidden;
     }
 
     .feed {
       height: 100vh;
       overflow-y: scroll;
       scroll-snap-type: y mandatory;
+      touch-action: pan-y;
+    }
+
+    .story {
+      height: 100vh;
+      width: 100vw;
+      overflow-x: scroll;
+      scroll-snap-type: x mandatory;
+      display: flex;
+      touch-action: pan-x;
+      position: relative;
     }
 
     .slide {
+      min-width: 100vw;
       height: 100vh;
       scroll-snap-align: start;
       display: flex;
       align-items: center;
       justify-content: center;
       padding: 2rem;
+      flex-shrink: 0;
     }
 
     .slide p {
@@ -44,6 +58,45 @@
     .slide-color-2 { background: #334155; color: #f1f5f9; }
     .slide-color-3 { background: #475569; color: #f8fafc; }
     .slide-color-4 { background: #0f172a; color: #94a3b8; }
+
+    /* Indicatori slide */
+    .indicators {
+      position: absolute;
+      top: 14px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      gap: 5px;
+      z-index: 10;
+      pointer-events: none;
+    }
+
+    .indicator {
+      width: 36px;
+      height: 3px;
+      border-radius: 2px;
+      background: rgba(255,255,255,0.25);
+      transition: background 0.2s;
+    }
+
+    .indicator.active {
+      background: rgba(255,255,255,0.9);
+    }
+
+    /* Hint prima slide */
+    .hint {
+      position: absolute;
+      bottom: 28px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 13px;
+      color: rgba(255,255,255,0.45);
+      white-space: nowrap;
+      pointer-events: none;
+      z-index: 10;
+      transition: opacity 0.3s;
+    }
 
     .empty {
       height: 100vh;
@@ -67,13 +120,115 @@
     if (!window.ARTICLES || window.ARTICLES.length === 0) {
       feed.innerHTML = '<div class="empty">Nessun articolo disponibile</div>';
     } else {
-      window.ARTICLES.forEach(article => {
+      let hintDismissed = false;
+
+      // Costruisce il DOM
+      window.ARTICLES.forEach((article, articleIndex) => {
+        const story = document.createElement('div');
+        story.className = 'story';
+
+        // Indicatori
+        const indicators = document.createElement('div');
+        indicators.className = 'indicators';
+        for (let i = 0; i < article.slides.length; i++) {
+          const dot = document.createElement('div');
+          dot.className = 'indicator' + (i === 0 ? ' active' : '');
+          indicators.appendChild(dot);
+        }
+        story.appendChild(indicators);
+
+        // Hint solo sul primo articolo
+        let hintEl = null;
+        if (articleIndex === 0) {
+          hintEl = document.createElement('div');
+          hintEl.className = 'hint';
+          hintEl.textContent = 'scorri →  altre news ↓';
+          story.appendChild(hintEl);
+        }
+
+        // Slide
         article.slides.forEach((text, i) => {
-          const div = document.createElement('div');
-          div.className = `slide slide-color-${i}`;
-          div.innerHTML = `<p>${text}</p>`;
-          feed.appendChild(div);
+          const slide = document.createElement('div');
+          slide.className = `slide slide-color-${i}`;
+          slide.innerHTML = `<p>${text}</p>`;
+          story.appendChild(slide);
         });
+
+        feed.appendChild(story);
+
+        // Aggiorna indicatori allo scroll orizzontale
+        story.addEventListener('scroll', () => {
+          const idx = Math.floor(
+            (story.scrollLeft + story.clientWidth / 2) / story.clientWidth
+          );
+          indicators.querySelectorAll('.indicator').forEach((dot, i) => {
+            dot.classList.toggle('active', i === idx);
+          });
+
+          // Nascondi hint al primo swipe
+          if (!hintDismissed && story.scrollLeft > 10) {
+            hintDismissed = true;
+            if (hintEl) hintEl.style.opacity = '0';
+          }
+        }, { passive: true });
+      });
+
+      // Reset scroll orizzontale al cambio articolo
+      const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting && entry.intersectionRatio > 0.6) {
+            const story = entry.target;
+            story.scrollLeft = 0;
+            // Riporta gli indicatori al primo segmento
+            const dots = story.querySelectorAll('.indicator');
+            dots.forEach((d, i) => d.classList.toggle('active', i === 0));
+          }
+        });
+      }, { threshold: 0.6 });
+
+      feed.querySelectorAll('.story').forEach(s => observer.observe(s));
+
+      // Touch handler — gestione conflitto assi
+      const stories = Array.from(feed.querySelectorAll('.story'));
+
+      stories.forEach(story => {
+        let startX = 0;
+        let startY = 0;
+        let direction = null; // 'horizontal' | 'vertical' | null
+
+        story.addEventListener('touchstart', e => {
+          startX = e.touches[0].clientX;
+          startY = e.touches[0].clientY;
+          direction = null;
+        }, { passive: true });
+
+        story.addEventListener('touchmove', e => {
+          const deltaX = e.touches[0].clientX - startX;
+          const deltaY = e.touches[0].clientY - startY;
+
+          if (!direction) {
+            if (Math.abs(deltaX) > 10 || Math.abs(deltaY) > 10) {
+              direction = Math.abs(deltaX) >= Math.abs(deltaY) ? 'horizontal' : 'vertical';
+            }
+          }
+
+          if (direction === 'horizontal') {
+            e.preventDefault();
+          }
+          // vertical: non fare nulla, lascia scorrere il .feed
+        }, { passive: false });
+
+        story.addEventListener('touchend', e => {
+          if (direction !== 'horizontal') return;
+
+          const deltaX = e.changedTouches[0].clientX - startX;
+          const atEnd = story.scrollLeft + story.clientWidth >= story.scrollWidth - 2;
+
+          // Ultima slide + swipe sinistra → articolo successivo
+          if (atEnd && deltaX < 0) {
+            feed.scrollBy({ top: window.innerHeight, behavior: 'smooth' });
+          }
+        }, { passive: true });
       });
     }
   </script>
