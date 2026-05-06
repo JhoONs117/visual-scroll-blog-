@@ -3634,5 +3634,55 @@ window.ARTICLES = [
       "Train virtual models to run real hardware instantly.",
       "Factory robots already learn from cloud simulations."
     ]
+  },
+  {
+    "title": "AI boom pushes Samsung to $1T",
+    "slides": [
+      "Samsung vale un trilione di dollari?",
+      "L'AI spinge la domanda di chip",
+      "Ha superato Apple in capitalizzazione di mercato",
+      "Chi ha azioni Samsung ora guadagna",
+      "Diversifica il portafoglio: investi nei semiconduttori"
+    ]
+  },
+  {
+    "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
+    "slides": [
+      "La tua startup AI è già stata hackerata?",
+      "Braintrust conferma: violazione dati avvenuta.",
+      "Hanno chiesto a TUTTI i clienti di cambiare chiavi.",
+      "Controlla ora i tuoi token: potrebbero essere esposti.",
+      "Non aspettare domani: ruota tutte le credenziali sensibili."
+    ]
+  },
+  {
+    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+    "slides": [
+      "Musk left OpenAI because he wanted control.",
+      "Brockman says Musk wanted majority board seats.",
+      "Musk proposed merging OpenAI into Tesla instead.",
+      "You don't need board power to shape AI.",
+      "Ask: Do your founders share your mission?"
+    ]
+  },
+  {
+    "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+    "slides": [
+      "Il tuo magazzino è già obsoleto senza capirlo.",
+      "Genesis AI costruisce robot, software e intelligenza.",
+      "Non vendono solo bracci: controllano l'intera fabbrica.",
+      "Riduci costi operativi del 30% in tre mesi.",
+      "Chiedi una demo: vedi se reggono il confronto."
+    ]
+  },
+  {
+    "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+    "slides": [
+      "Match Group taglia assunzioni per pagare l’AI.",
+      "L’azienda usa AI per moderare contenuti.",
+      "Risparmiano milioni di dollari in moderatori umani.",
+      "Le app di dating saranno gestite da algoritmi.",
+      "Se usi Tinder, aspettati più match automatici."
+    ]
   }
 ];
