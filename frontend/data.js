@@ -3504,5 +3504,135 @@ window.ARTICLES = [
       "Gare più eque e più innovazione per gli enti pubblici.",
       "Se lavori nel pubblico, preparati a nuovi vendor."
     ]
+  },
+  {
+    "title": "AI agent governance takes focus as regulators flag control gaps",
+    "slides": [
+      "Governi esaminano controllo AI agent",
+      "Cos'è un AI agent autonomo?",
+      "Senza controlli, rischi aumentano",
+      "Aziende devono testare e limitare",
+      "Caso 2024: agent AI viola regole"
+    ]
+  },
+  {
+    "title": "AI boom pushes Samsung to $1T",
+    "slides": [
+      "Samsung vale davvero 1.000 miliardi?",
+      "L'AI spinge la domanda di chip HBM.",
+      "Ma vende meno della metà di SK Hynix.",
+      "Azionisti: aspettatevi utili record ora.",
+      "Vendere ora o comprare? Decidi sui dati."
+    ]
+  },
+  {
+    "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
+    "slides": [
+      "Big Tech spent billions on AI. It worked.",
+      "Capital expenditure just hit record highs.",
+      "Yet earnings calls demand even more spending.",
+      "Your AI budget now competes with theirs.",
+      "Budget for 2x infrastructure cost next year."
+    ]
+  },
+  {
+    "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+    "slides": [
+      "Google vende governance AI agentica come prodotto.",
+      "Aziende devono ancora adeguarsi alle regole.",
+      "Strumento utile per conformità e sicurezza.",
+      "Valuta e implementa policy di governance ora.",
+      "Esempio: banca usa Google per audit automatici."
+    ]
+  },
+  {
+    "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+    "slides": [
+      "Google dà a Gemini un agente: Remy.",
+      "Remy userà i tuoi dati già salvati.",
+      "Non chiede consenso ogni volta: decide da sé.",
+      "Dovrai rivedere i permessi abilitati di default.",
+      "Controlla oggi Impostazioni Attività di Gemini."
+    ]
+  },
+  {
+    "title": "HP and the art of AI and data for the enterprise",
+    "slides": [
+      "HP conosce i tuoi dati meglio di te?",
+      "Solo il 30% delle aziende usa dati per AI.",
+      "HP trasforma dati sporchi in decisioni reali.",
+      "Non serve più inseguire ogni nuovo modello.",
+      "Allinea dati, AI e obiettivi: vinci."
+    ]
+  },
+  {
+    "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
+    "slides": [
+      "EMEA CIOs: AI rollout stuck? You're not alone.",
+      "Only 12% of AI pilots reach production here.",
+      "Speed beats perfection: your competitors launch anyway.",
+      "Start with one high-impact, low-risk workflow today.",
+      "Ship now, iterate fast, or get left behind."
+    ]
+  },
+  {
+    "title": "Physical AI raises governance questions for autonomous systems",
+    "slides": [
+      "Physical AI guida decisioni reali",
+      "Governance definisce i limiti di azione",
+      "Evita caos in sistemi autonomi",
+      "Stabilisci regole chiare ora",
+      "Auto a guida autonoma: chi è colpevole?"
+    ]
+  },
+  {
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "slides": [
+      "SAP punta 1.16 miliardi su un laboratorio AI di 18 mesi?",
+      "Il lab tedesco si chiama Aleph Alpha.",
+      "Il CEO accetta NemoClaw: un framework open source per AI aziendale.",
+      "Le aziende SAP ora possono customizzare modelli senza vendor lock-in.",
+      "Scegli il modello, non il fornitore."
+    ]
+  },
+  {
+    "title": "SAP: How enterprise AI governance secures profit margins",
+    "slides": [
+      "SAP AI senza governance aumenta i rischi finanziari?",
+      "Nuova normativa UE obbliga audit su ogni modello",
+      "Il 68% dei progetti AI perde valore se non controllato",
+      "Chi governa l'AI taglia multe e sprechi del 30%",
+      "Applica subito un framework di conformità SAP"
+    ]
+  },
+  {
+    "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+    "slides": [
+      "Match Group taglia assunzioni per pagare l’AI.",
+      "Usa AI per moderare contenuti e match.",
+      "I bot ora rispondono al posto degli umani.",
+      "Rischio di perdere contatto con gli utenti.",
+      "Monitora l’impatto: l’AI non è tutto."
+    ]
+  },
+  {
+    "title": "US government increases AI suppliers and rethinks Anthropic’s role",
+    "slides": [
+      "La Casa Bianca cambia fornitore AI. Sei dentro?",
+      "Nuove regole: più competizione, meno monopoli.",
+      "Anthropic perde privilegi. Google guadagna terreno.",
+      "Chi lavora con AI deve rivedere i contratti.",
+      "Adeguati ora o rischi di restare fuori."
+    ]
+  },
+  {
+    "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
+    "slides": [
+      "LG+Nvidia talks show AI moving into physical world.",
+      "Physical AI controls robots, factories, not just screens.",
+      "It makes machines smarter, faster, safer without human.",
+      "Train virtual models to run real hardware instantly.",
+      "Factory robots already learn from cloud simulations."
+    ]
   }
 ];
