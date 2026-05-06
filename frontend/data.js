@@ -698,5 +698,105 @@ window.ARTICLES = [
       "Verificare sempre fonti e figure professionali",
       "Casistica legale segna nuovo precedente"
     ]
+  },
+  {
+    "title": "AI agent governance takes focus as regulators flag control gaps",
+    "slides": [
+      "Governi esaminano controllo AI agent",
+      "Cos'è un AI agent autonomo?",
+      "Senza controlli, rischi aumentano",
+      "Aziende devono testare e limitare",
+      "Caso 2024: agent AI viola regole"
+    ]
+  },
+  {
+    "title": "As crypto cools, a16z crypto raises a $2.2B fund",
+    "slides": [
+      "a16z raccoglie 2.2 miliardi",
+      "mercato crypto in calo",
+      "fondo per long term",
+      "investono in startup crypto",
+      "fiducia nel futuro"
+    ]
+  },
+  {
+    "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+    "slides": [
+      "CopilotKit raccoglie 27 milioni dollari",
+      "Aiuta sviluppatori a creare agenti AI",
+      "Integra AI direttamente nelle app",
+      "Veloce da implementare e usare",
+      "Esempio: chat AI in app esistenti"
+    ]
+  },
+  {
+    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+    "slides": [
+      "AI analyses height and bone structure",
+      "Detects underage users accurately",
+      "Stops kids lying about age",
+      "For safety and parental control",
+      "Meta tests on teen accounts now"
+    ]
+  },
+  {
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "slides": [
+      "Nuovo modello ChatGPT: GPT-5.5 Instant",
+      "Risposte più veloci e intelligenti",
+      "Risparmi tempo, ottieni risultati migliori",
+      "Provalo ora in chat",
+      "Scrive email in secondi"
+    ]
+  },
+  {
+    "title": "PayPal says it’s ‘becoming a technology company again.’ That means AI.",
+    "slides": [
+      "PayPal torna tecnologia, usa AI.",
+      "AI migliora pagamenti e sicurezza.",
+      "Più veloce, meno frodi, clienti felici.",
+      "Sviluppa strumenti AI per transazioni.",
+      "Esempio: AI blocca pagamenti sospetti."
+    ]
+  },
+  {
+    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "slides": [
+      "Chatbot finto dottore denunciato",
+      "Minorenne credeva cura vera",
+      "AI non sostituisce medici",
+      "Verifica fonti e professionisti",
+      "Caso reale rischi IA"
+    ]
+  },
+  {
+    "title": "Physical AI raises governance questions for autonomous systems",
+    "slides": [
+      "Physical AI guida decisioni reali",
+      "Governance definisce i limiti di azione",
+      "Evita caos in sistemi autonomi",
+      "Stabilisci regole chiare ora",
+      "Auto a guida autonoma: chi è colpevole?"
+    ]
+  },
+  {
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "slides": [
+      "SAP invests in young AI lab",
+      "New partnership with NemoClaw",
+      "Boosts AI for business apps",
+      "Try SAP AI tools now",
+      "Like a startup finding investors"
+    ]
+  },
+  {
+    "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
+    "slides": [
+      "LG+Nvidia talks show AI moving into physical world.",
+      "Physical AI controls robots, factories, not just screens.",
+      "It makes machines smarter, faster, safer without human.",
+      "Train virtual models to run real hardware instantly.",
+      "Factory robots already learn from cloud simulations."
+    ]
   }
 ];
