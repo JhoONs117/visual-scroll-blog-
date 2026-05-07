@@ -77,7 +77,8 @@ function slug(title) {
       if (seen.has(k)) return false;
       seen.add(k);
       return true;
-    });
+    })
+    .sort((a, b) => new Date(b.savedAt || b.pubDate || 0) - new Date(a.savedAt || a.pubDate || 0));
 
   fs.writeFileSync(
     path.join(__dirname, 'frontend', 'data.js'),

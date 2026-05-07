@@ -23,7 +23,8 @@ function buildDataJs(outputDir) {
       if (seen.has(key)) return false;
       seen.add(key);
       return true;
-    });
+    })
+    .sort((a, b) => new Date(b.savedAt || b.pubDate || 0) - new Date(a.savedAt || a.pubDate || 0));
   fs.writeFileSync(
     path.join(__dirname, 'frontend', 'data.js'),
     `window.ARTICLES = ${JSON.stringify(articles, null, 2)};`
