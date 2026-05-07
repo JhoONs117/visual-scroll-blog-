@@ -51,9 +51,9 @@
 
     .article-header {
       display: flex;
+      flex-wrap: wrap;
       align-items: flex-start;
-      justify-content: space-between;
-      gap: 1rem;
+      gap: 0.5rem 1rem;
       margin-bottom: 1.5rem;
     }
 
@@ -63,6 +63,27 @@
       color: #f1f5f9;
       overflow-wrap: break-word;
       flex: 1;
+      min-width: 0;
+    }
+
+    .article-meta {
+      flex-basis: 100%;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      font-size: 0.75rem;
+      color: #4a5568;
+    }
+
+    .article-meta a {
+      color: #4a5568;
+      text-decoration: none;
+      border-bottom: 1px solid #2d3748;
+    }
+
+    .article-meta a:hover {
+      color: #94a3b8;
+      border-color: #4a5568;
     }
 
     .copy-btn {
@@ -259,14 +280,6 @@
         titleEl.textContent = article.title;
         header.appendChild(titleEl);
 
-        const ago = timeAgo(article.pubDate || article.savedAt);
-        if (ago) {
-          const dateEl = document.createElement('div');
-          dateEl.style.cssText = 'font-size:0.75rem;color:#4a5568;margin-top:3px;flex-basis:100%';
-          dateEl.textContent = ago;
-          header.appendChild(dateEl);
-        }
-
         const btn = document.createElement('button');
         btn.className = 'copy-btn';
         btn.textContent = 'Copia tutto';
@@ -281,6 +294,26 @@
           });
         });
         header.appendChild(btn);
+
+        const ago = timeAgo(article.pubDate || article.savedAt);
+        if (ago || article.link) {
+          const meta = document.createElement('div');
+          meta.className = 'article-meta';
+          if (ago) {
+            const dateSpan = document.createElement('span');
+            dateSpan.textContent = ago;
+            meta.appendChild(dateSpan);
+          }
+          if (article.link) {
+            const a = document.createElement('a');
+            a.href = article.link;
+            a.target = '_blank';
+            a.rel = 'noopener noreferrer';
+            a.textContent = '↗ Fonte';
+            meta.appendChild(a);
+          }
+          header.appendChild(meta);
+        }
 
         el.appendChild(header);
 

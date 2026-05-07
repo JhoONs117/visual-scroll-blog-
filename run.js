@@ -80,6 +80,7 @@ function buildDataJs(outputDir) {
 
     result.pubDate   = article.pubDate || null;
     result.savedAt   = new Date().toISOString();
+    result.link      = article.link || null;
 
     const filename = `${timestamp}_${slug(article.title)}.json`;
     fs.writeFileSync(path.join(outputDir, filename), JSON.stringify(result, null, 2));
