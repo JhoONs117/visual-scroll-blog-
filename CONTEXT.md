@@ -1,6 +1,6 @@
 # CONTEXT — Visual AI Scroll Blog
 
-Stato aggiornato al: 2026-05-06
+Stato aggiornato al: 2026-05-07
 
 ---
 
@@ -35,6 +35,8 @@ Sistema automatico che:
 |---|---|
 | `run.js` | Entry point — orchestra pipeline, dedup cross-run, scrive `frontend/data.js` (sort desc) |
 | `backfill.js` | Backfill formati su articoli esistenti senza `thread_text` (cache → API) |
+| `regenerate-all.js` | Rigenera slide + formati per tutti gli articoli unici con i prompt aggiornati |
+| `backfill-links.js` | Retroattivamente aggiunge il campo `link` ai JSON dai feed RSS correnti |
 | `server.js` | HTTP server minimale — serve `frontend/` su Railway |
 | `fetch.js` | Legge i feed RSS, restituisce `{ title, link, pubDate }[]` |
 | `filter.js` | `deduplicate`, `hardFilter`, `batchAIFilter` |
@@ -180,6 +182,22 @@ chiediti "fa venire voglia di leggere la prossima?" — se meno di 8/10 sì, tor
 ### Bug fix: GENERATE_FORMATS in GitHub Actions ✅ (2026-05-06)
 - `pipeline.yml`: aggiunto `GENERATE_FORMATS: 'true'` nelle env del passo pipeline
 - Formati ora generati automaticamente ad ogni run di CI
+
+### PRE-M21 — Fix prompt generateSlides + generateFormats ✅ (2026-05-07)
+- `generateSlides()`: aggiunto vincolo "tensione irrisolta" — ogni slide deve lasciare domanda aperta o info incompleta. Slide 1 può ancorare sul nome azienda/protagonista purché aggiunga tensione; se un'altra slide ha hook più forte, riordina la struttura.
+- `generateFormats()`: tweet 1 scelto dalla slide con più tensione narrativa (non necessariamente slide 1); tweet 5 chiude con fatto netto/conseguenza/domanda — vietate valutazioni editoriali generiche
+- Testato su 3 articoli: tutti i criteri superati (3/3 tweet 1, 3/3 tweet 5)
+- `regenerate-all.js`: rigenerati **45/45 articoli** con i nuovi prompt, 0 fallimenti
+
+### Fix review.html: titolo e link fonte ✅ (2026-05-07)
+- Titolo non va più a capo parola per parola: aggiunto `flex-wrap: wrap` su `.article-header` e `min-width: 0` su `.article-title`
+- Ogni articolo mostra "↗ Fonte" (link diretto) o "↗ Cerca" (Google Search) accanto alla data
+- `run.js`: ora salva il campo `link` dell'articolo nei JSON di output
+- `backfill-links.js`: recuperato link RSS per 20/45 articoli esistenti; i restanti 25 (non più in feed) hanno fallback Google Search
+
+### Fix index.html: titolo cliccabile in caption ✅ (2026-05-07)
+- In `.slide-source` il titolo dell'articolo è ora un `<a>` cliccabile (link diretto o Google Search)
+- Stile: leggermente più luminoso del testo circostante, si scurisce al tap su mobile
 
 ### Bug fix: data relativa ✅ (2026-05-06)
 - `run.js`: salva `pubDate` (dalla fonte RSS) e `savedAt` (timestamp di run) su ogni articolo

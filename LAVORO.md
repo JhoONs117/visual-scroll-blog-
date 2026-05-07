@@ -7,7 +7,7 @@ Segui questo ordine. Completa e testa ogni milestone prima di passare alla succe
 
 ---
 
-## Stato attuale (2026-05-06)
+## Stato attuale (2026-05-07)
 
 | Milestone | Stato | Note |
 |---|---|---|
@@ -19,9 +19,11 @@ Segui questo ordine. Completa e testa ogni milestone prima di passare alla succe
 | Bug: cross-run dedup | ✅ Fix | Stesso articolo salvato 18x → ora 0 duplicati |
 | Bug: GENERATE_FORMATS workflow | ✅ Fix | Aggiunto a `pipeline.yml`, formati ora generati in CI |
 | Bug: ordinamento articoli | ✅ Fix | Articoli più recenti prima in `data.js` |
-| Bug: data relativa | ✅ Fix | `timeAgo()` in `index.html` e `review.html` |
+| Bug: data relativa | ✅ Fix | `timeAgo()` in `index.html` e `review.html`, `savedAt`/`pubDate` salvati |
+| PRE-M21: fix prompt tensione irrisolta | ✅ Fix | `generateSlides` + `generateFormats` aggiornati, 45 articoli rigenerati |
+| PRE-M21: link fonte negli articoli | ✅ Fix | `run.js` salva `link`; review + index mostrano "↗ Fonte" o "↗ Cerca" |
 | M21 — Test distribuzione reale | ⏳ Prossimo | Checkpoint obbligatorio prima di automatizzare canali |
-| M22 — Iterazione prompt da dati | ⏳ Dopo M21 | Richiede 10 post pubblicati con dati reali |
+| M22 — Iterazione prompt da dati | ⏳ Dopo M21 | Richiede 10-15 post pubblicati con dati reali |
 | M18 — Ranking per qualità | ⏳ In attesa | Nice to have |
 | M19 — Index globale articoli | ⏳ In attesa | Utile quando il volume cresce |
 | M20 — Branding e URL pulito | ⏳ In attesa | - |
@@ -31,8 +33,8 @@ Segui questo ordine. Completa e testa ogni milestone prima di passare alla succe
 ## Ordine di esecuzione
 
 ```
-M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅
-→ M21 ← STOP: valuta risultati distribuzione
+M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → PRE-M21 ✅
+→ M21 ← STOP: valuta risultati distribuzione (10-15 post)
 → M22 → M18 → M19 → M20
 ```
 

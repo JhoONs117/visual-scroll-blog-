@@ -19,6 +19,7 @@ Non è necessario capire tutto il codice: ogni sezione indica esattamente quale 
 10. [Come usare la pagina di review](#10-come-usare-la-pagina-di-review)
 11. [Come fare il backfill dei formati su articoli esistenti](#11-come-fare-il-backfill-dei-formati)
 12. [Come funziona il layout a due assi](#12-come-funziona-il-layout-a-due-assi)
+13. [Come rigenerare tutti gli articoli dopo un cambio di prompt](#13-come-rigenerare-tutti-gli-articoli-dopo-un-cambio-di-prompt)
 
 ---
 
@@ -396,3 +397,32 @@ SWIPE VERTICALE   → notizia successiva / precedente
 **Comportamento automatico:**
 - Passare a un nuovo articolo resetta automaticamente alla slide 1 (IntersectionObserver con soglia 0.6)
 - Arrivare all'ultima slide e fare swipe → avanza al prossimo articolo
+
+---
+
+## 13. Come rigenerare tutti gli articoli dopo un cambio di prompt
+
+Quando si aggiorna il prompt in `generate.js` (es. dopo M22), svuotare la cache e rigenerare tutti gli articoli esistenti:
+
+```bash
+cd /home/miki/visual-scroll-blog
+echo "{}" > cache.json
+node regenerate-all.js
+```
+
+Il script:
+1. Legge tutti i JSON in `output/`, prende un file per slug (il più recente)
+2. Richiama `generateSlides()` + `generateFormats()` con i nuovi prompt
+3. Sovrascrive ogni file con le nuove slide e formati
+4. Ricostruisce `frontend/data.js`
+
+Dopo il completamento, fare push per aggiornare Railway:
+```bash
+git add output/ frontend/data.js cache.json
+git commit -m "Rigenera articoli con prompt aggiornato"
+git push
+```
+
+> ⚠️ Circa 2 chiamate API per articolo × numero articoli unici. Con 45 articoli: ~90 chiamate, ~5-8 minuti, costo trascurabile con DeepSeek.
+
+**Quando farlo:** ogni volta che si modifica il prompt in `generateSlides()` o `generateFormats()` e si vuole applicare il cambiamento anche agli articoli già salvati — tipicamente dopo M22.

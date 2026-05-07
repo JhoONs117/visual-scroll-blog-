@@ -1,6 +1,6 @@
 # Roadmap M21 — Test Distribuzione Reale
 
-Stato: in corso  
+Stato: PRE-M21 completato ✅ — pronto per FASE 1  
 Aggiornato: 2026-05-07
 
 ---
@@ -19,37 +19,32 @@ Questo cambia radicalmente l'interpretazione dei numeri.
 
 ---
 
-## PRE-M21 — Intervento prompt (blocante)
+## PRE-M21 — Intervento prompt ✅ (2026-05-07)
 
-**Da completare prima di pubblicare qualsiasi thread su X.**
+**Completato prima di pubblicare qualsiasi thread su X.**
 
-L'analisi su 3 articoli reali (governance AI agent, CopilotKit, Fervo Energy) ha evidenziato tre problemi strutturali che renderebbero i dati raccolti in M21 poco affidabili:
+L'analisi su 3 articoli reali (governance AI agent, CopilotKit, Fervo Energy) ha evidenziato tre problemi strutturali. Tutti e tre risolti.
 
-### Problema 1 — Le slide sono titoli di giornale, non micro-hook
-Le slide attuali descrivono il contenuto invece di creare tensione.  
-Esempio sbagliato: "Aziende devono testare e limitare"  
-Esempio corretto: slide che lascia una domanda aperta o un'informazione incompleta che si risolve solo con la slide successiva.
+### Problema 1 — Le slide sono titoli di giornale, non micro-hook ✅
+**Fix applicato:** aggiunto in `generateSlides()` vincolo esplicito "tensione irrisolta": ogni slide deve contenere una domanda aperta o informazione incompleta che si chiude solo nella slide successiva. Esempi negativo/positivo aggiornati di conseguenza.
 
-**Fix:** aggiungere in `generateSlides()` un vincolo esplicito con esempio negativo/positivo: ogni slide deve contenere tensione irrisolta o informazione incompleta.
+**Nota di implementazione:** la slide 1 può aprire con il nome dell'azienda/protagonista come ancoraggio (valido), ma solo se aggiunge tensione — non come fatto nudo. Se un'altra slide ha un hook più forte, la struttura si riordina intorno a quella.
 
-### Problema 2 — I thread finiscono con frasi valutative vuote
-Il tweet 5 collassa sistematicamente in chiusure generiche tipo "L'AI non è più solo un sogno" o "Ed è appena diventato un affare pubblico."  
-Queste frasi azzerano la tensione costruita nei tweet precedenti.
+### Problema 2 — I thread finiscono con frasi valutative vuote ✅
+**Fix applicato:** prompt `generateFormats` aggiornato — tweet 5 deve chiudere con un fatto netto, conseguenza concreta o domanda aperta. Esempi DA NON FARE espliciti ("L'AI non è più solo un sogno") e DA FARE ("Costa meno di un abbonamento Netflix. Testalo questa settimana.").
 
-**Fix:** nel prompt `generateFormats`, specificare che il tweet 5 deve chiudere con un fatto netto, una conseguenza concreta o una domanda aperta — mai con una valutazione editoriale. Aggiungere esempio sbagliato/giusto esplicito.
+### Problema 3 — Il thread non amplifica le slide, le riscrive da zero ✅
+**Fix applicato:** prompt `generateFormats` aggiornato — il modello sceglie come tweet 1 la slide con più tensione narrativa indipendentemente dalla posizione e ricostruisce l'arco del thread intorno a quella slide.
 
-### Problema 3 — Il thread non amplifica le slide, le riscrive da zero
-`generateFormats` riceve le slide come input ma le ignora. Il thread dovrebbe partire dalla slide con più tensione (non necessariamente la slide 1) e usarla come Tweet 1.
+### Risultati verificati sui 3 articoli di test
+- **Governance AI**: slide 1 "Chi decide quando un agente AI dice stop?" ✅ — tweet 1 usa slide 3 (kill switch) ✅ — tweet 5 "Testa il tuo kill switch oggi" ✅
+- **CopilotKit**: tweet 1 usa slide 3 ("sviluppatori già in produzione") ✅ — tweet 5 "meno di dieci righe di codice" ✅ — slide 1 con nome azienda accettabile ✅
+- **Fervo Energy**: tweet 1 usa slide 3 (fracking per geotermico) ✅ — tweet 5 "Costa meno di un tetto solare, produce 24h su 24" ✅
 
-**Fix:** nel prompt `generateFormats`, aggiungere istruzione esplicita: "Scegli come Tweet 1 la slide con più tensione narrativa, indipendentemente dalla sua posizione. Ricostruisci l'arco del thread intorno a quella slide."
+**Criteri superati:** 3/3 su tweet 1 e tweet 5. Slide 1 OK per tutti i casi. Si procede con M21.
 
-### Output atteso dopo il fix
-Rieseguire `generateSlides` + `generateFormats` sui 3 articoli di test e verificare:
-- La slide 1 crea curiosità senza risolvere nulla?
-- Il tweet 5 finisce con un fatto o una conseguenza, non una valutazione?
-- Il Tweet 1 corrisponde alla slide con più tensione (anche se è la 3 o la 5)?
-
-Se almeno 2/3 articoli superano questi criteri, si procede con M21.
+### Rigenerazione completa ✅
+`regenerate-all.js` ha rigenerato tutti i 45 articoli esistenti con i nuovi prompt: **45/45 OK, 0 fallimenti**.
 
 ---
 
