@@ -3984,5 +3984,135 @@ window.ARTICLES = [
       "Train virtual models to run real hardware instantly.",
       "Factory robots already learn from cloud simulations."
     ]
+  },
+  {
+    "title": "AI agent governance takes focus as regulators flag control gaps",
+    "slides": [
+      "Governi esaminano controllo AI agent",
+      "Cos'è un AI agent autonomo?",
+      "Senza controlli, rischi aumentano",
+      "Aziende devono testare e limitare",
+      "Caso 2024: agent AI viola regole"
+    ]
+  },
+  {
+    "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
+    "slides": [
+      "Peggio di una falla: hanno rubato le tue chiavi?",
+      "Braintrust conferma l'accesso ai dati sensibili.",
+      "Ogni cliente deve ruotare tutte le chiavi API.",
+      "Chi non agisce subito espone i sistemi a rischi.",
+      "Cambia ora ogni segreto: non aspettare."
+    ]
+  },
+  {
+    "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
+    "slides": [
+      "Big Tech finally showed AI spending pays off. So they raised it.",
+      "Capital expenditure hit record highs this quarter across all majors.",
+      "They proved ROI exists—then doubled down without proof.",
+      "Your budget now competes with their infrastructure arms race.",
+      "Stop chasing their scale. Optimize your own bottleneck first."
+    ]
+  },
+  {
+    "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+    "slides": [
+      "Google vende governance AI agentica come prodotto.",
+      "Aziende devono ancora adeguarsi alle regole.",
+      "Strumento utile per conformità e sicurezza.",
+      "Valuta e implementa policy di governance ora.",
+      "Esempio: banca usa Google per audit automatici."
+    ]
+  },
+  {
+    "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+    "slides": [
+      "Il tuo prossimo assistente non aspetterà un comando.",
+      "Nuovo agente AI Remy agisce autonomamente nel browser.",
+      "Google ti dà il controllo: puoi fermarlo in tempo reale.",
+      "Non dovrai più ripetere ciò che fai ogni giorno.",
+      "Imposta un'azione ora, lascia che Remy la completi."
+    ]
+  },
+  {
+    "title": "Google updates AI search to include quotes from Reddit and other sources",
+    "slides": [
+      "Il tuo prossimo capo sarà un post su Reddit?",
+      "Google ora cita Reddit nei risultati AI.",
+      "Nessun algoritmo umano filtra prima la fonte.",
+      "Chi cerca sa che ogni risposta è un rischio.",
+      "Verifica sempre la fonte prima di fidarti."
+    ]
+  },
+  {
+    "title": "HP and the art of AI and data for the enterprise",
+    "slides": [
+      "Il tuo data center ti sta sabotando senza saperlo.",
+      "HP unisce dati e AI per il contesto aziendale.",
+      "Il 73% dei progetti AI fallisce per dati isolati.",
+      "HP allinea infrastruttura e governance per risultati reali.",
+      "Chiedi al tuo team: dove sono i vostri dati?"
+    ]
+  },
+  {
+    "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
+    "slides": [
+      "Your AI pilot is stuck. What's the fix?",
+      "EMEA CIOs lag in scaling proofs of concept.",
+      "Only 30% of pilots reach production here.",
+      "Adopt a platform strategy for faster go-live.",
+      "Start with one high-impact use case today."
+    ]
+  },
+  {
+    "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+    "slides": [
+      "Un robot che programma sé stesso esiste già.",
+      "Genesis AI non vende solo hardware: fa tutto.",
+      "Il loro stack completo batte modelli separati del 40%.",
+      "Non devi più integrare pezzi di diversi fornitori.",
+      "Chiedi una demo: vedi il software che scrive codice."
+    ]
+  },
+  {
+    "title": "Microsoft’s AI data center push is colliding with its clean power goals",
+    "slides": [
+      "Microsoft promette zero emissioni entro il 2030.",
+      "L'AI richiede data center che divorano energia.",
+      "Le nuove strutture triplicano la domanda locale di elettricità.",
+      "I tuoi dati cloud potrebbero dipendere da fonti sporche.",
+      "Chiedi trasparenza: quale energia usa il tuo provider?"
+    ]
+  },
+  {
+    "title": "Per-token AI charges come to GitHub Copilot",
+    "slides": [
+      "Ogni richiesta AI costa soldi veri ora.",
+      "GitHub Copilot addebita ogni token generato.",
+      "I costi nascosti superano 10 volte l'abbonamento.",
+      "Controlla i consumi o paghi per aria.",
+      "Attiva il limite mensile nel tuo account."
+    ]
+  },
+  {
+    "title": "Physical AI raises governance questions for autonomous systems",
+    "slides": [
+      "Physical AI guida decisioni reali",
+      "Governance definisce i limiti di azione",
+      "Evita caos in sistemi autonomi",
+      "Stabilisci regole chiare ora",
+      "Auto a guida autonoma: chi è colpevole?"
+    ]
+  },
+  {
+    "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+    "slides": [
+      "Match Group taglia assunzioni. Per pagare l'AI?",
+      "Usa AI per moderare profili e chat.",
+      "Il risparmio? Investito in più AI, non in persone.",
+      "Se cerchi lavoro in dating, rallenta. L'AI sale.",
+      "Controlla: il tuo ruolo è sostituibile dall'AI?"
+    ]
   }
 ];
