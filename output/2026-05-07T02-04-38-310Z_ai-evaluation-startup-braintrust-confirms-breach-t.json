@@ -6,5 +6,19 @@
     "Ogni cliente deve ruotare tutte le chiavi API.",
     "Chi non agisce subito espone i sistemi a rischi.",
     "Cambia ora ogni segreto: non aspettare."
+  ],
+  "thread_text": [
+    "Qualcuno ha già bucato la vostra AI e voi non lo sapete ancora.",
+    "Braintrust ha appena confermato una violazione dati. Non è un avviso ipotetico.",
+    "Hanno chiesto a tutti i clienti di cambiare le chiavi. Subito. Senza eccezioni.",
+    "Se non avete mai controllato i vostri token AI, potrebbero essere già pubblici.",
+    "Non aspettate domani. Ruotate oggi tutte le credenziali sensibili. Il danno è reale."
+  ],
+  "video_script": [
+    "La tua startup AI è già stata hackerata.",
+    "Braintrust ha appena confermato la violazione.",
+    "Hanno chiesto a tutti di cambiare le chiavi.",
+    "Controlla subito i tuoi token.",
+    "Ruota tutte le credenziali sensibili oggi."
   ]
 }

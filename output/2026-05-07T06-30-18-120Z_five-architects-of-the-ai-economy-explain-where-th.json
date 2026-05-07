@@ -6,5 +6,19 @@
     "Mancano dati reali: i modelli si addestrano su rumore.",
     "Devi iniziare a verificare ogni output come una scommessa.",
     "Non fidarti della scala: la qualità è il nuovo oro."
+  ],
+  "thread_text": [
+    "Ho parlato con chi costruisce l'IA. E indovina? Loro stessi ammettono che sta fallendo.",
+    "Non è un problema di potenza. I chip sono già troppo veloci per quello che abbiamo.",
+    "I dati sono inquinati. Stiamo addestrando modelli su rumore, non su segnali reali.",
+    "Tratta ogni output come una scommessa. Verifica sempre. Non fidarti mai.",
+    "Scalare senza qualità è inutile. Ora vince chi controlla i dati, non chi ne ha di più."
+  ],
+  "video_script": [
+    "I creatori dell'IA dicono che fallisce.",
+    "Il vero problema non sono i chip.",
+    "I dati sono pieni di rumore.",
+    "Devi verificare ogni risposta.",
+    "La qualità batte la scala."
   ]
 }
