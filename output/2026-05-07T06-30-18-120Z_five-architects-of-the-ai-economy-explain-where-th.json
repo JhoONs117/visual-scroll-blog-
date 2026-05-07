@@ -1,25 +1,25 @@
 {
   "title": "Five architects of the AI economy explain where the wheels are coming off",
   "slides": [
-    "L'IA sta fallendo? I suoi stessi architetti lo ammettono.",
-    "Il collo di bottiglia non è la potenza di calcolo.",
-    "Mancano dati reali: i modelli si addestrano su rumore.",
-    "Devi iniziare a verificare ogni output come una scommessa.",
-    "Non fidarti della scala: la qualità è il nuovo oro."
+    "Five architects of the AI economy admit the system is broken.",
+    "Scaling laws behind deep learning are hitting a wall.",
+    "Better hardware and data are raising costs faster than profits.",
+    "This means your next tool may crash—or get expensive fast.",
+    "Audit your AI vendor's real margins before scaling up."
   ],
   "thread_text": [
-    "Ho parlato con chi costruisce l'IA. E indovina? Loro stessi ammettono che sta fallendo.",
-    "Non è un problema di potenza. I chip sono già troppo veloci per quello che abbiamo.",
-    "I dati sono inquinati. Stiamo addestrando modelli su rumore, non su segnali reali.",
-    "Tratta ogni output come una scommessa. Verifica sempre. Non fidarti mai.",
-    "Scalare senza qualità è inutile. Ora vince chi controlla i dati, non chi ne ha di più."
+    "Five architects of the AI economy admit the system is broken.",
+    "The core problem is that scaling deep learning models is hitting a wall. More data and better hardware no longer guarantee better results.",
+    "Costs are rising faster than profits. Every new generation of chips and datasets costs exponentially more, but returns are flattening.",
+    "This means your next AI tool may crash or get expensive fast. Many vendors are running on thin margins and unsustainable growth.",
+    "Audit your AI vendor's real margins before scaling up. If they can't show unit economics, you're the next one paying the price."
   ],
   "video_script": [
-    "I creatori dell'IA dicono che fallisce.",
-    "Il vero problema non sono i chip.",
-    "I dati sono pieni di rumore.",
-    "Devi verificare ogni risposta.",
-    "La qualità batte la scala."
+    "The AI economy is broken, say its own creators.",
+    "Scaling laws are hitting a physical and economic wall.",
+    "Hardware and data costs are exploding, but profits aren't.",
+    "Your favorite AI tool might crash or jack up prices soon.",
+    "Check your vendor's margins before you scale any deeper."
   ],
   "savedAt": "2026-05-07T06:30:18.120Z"
 }

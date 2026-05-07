@@ -2,11 +2,15 @@
 
 
 
-Sistema low-cost che intercetta notizie AI, le filtra, e le trasforma in contenuti scrollabili a slide.
+Sistema automatico che intercetta notizie AI, le filtra, le trasforma in slide + thread X + script video, e le mostra come feed scrollabile in stile Instagram Stories.
 
 
 
-\*\*Stack:\*\* Node.js · DeepSeek API · JSON · Cron · HTML/CSS
+\*\*Stack:\*\* Node.js · DeepSeek API · GitHub Actions · Railway · HTML/CSS puro
+
+
+
+\*\*Stato attuale (2026-05-06):\*\* M1–M17 + M15 completate · 44 articoli unici · pipeline automatica ogni 2 ore
 
 
 
@@ -19,6 +23,18 @@ Sistema low-cost che intercetta notizie AI, le filtra, e le trasforma in contenu
 
 
 Segui questo ordine. Completa e testa ogni milestone prima di passare alla successiva.
+
+
+
+\*\*Milestone completate:\*\* M1 M2 M3 M4 M5 M6 M7 M8 M9 M10 M11 M12 M13 M14 M15 M16 M17
+
+
+
+\*\*Prossima:\*\* M21 — Test di distribuzione reale (checkpoint obbligatorio)
+
+
+
+\---
 
 
 
@@ -713,6 +729,58 @@ Configura il progetto per il deploy su Railway:
 - assicurati che output/ e frontend/ siano inclusi nel deploy
 
 ```
+
+
+
+\---
+
+
+
+\### Milestone 14 — Riscrittura prompt slide ✅
+
+
+
+\*\*Obiettivo:\*\* slide con struttura narrativa (hook + contesto + sorprendente + pratico + takeaway) invece di essere descrittive. Limite 8 parole per slide, 2 esempi DA FARE / DA NON FARE nel prompt. Fallback sceso al ~8%.
+
+
+
+\---
+
+
+
+\### Milestone 16 — Output multi-formato ✅
+
+
+
+\*\*Obiettivo:\*\* da ogni articolo generare \`thread\_text\` (5 tweet) e \`video\_script\` (5 righe parlate) pronti per distribuzione. Controllato da variabile d'ambiente \`GENERATE\_FORMATS=true\`.
+
+
+
+\---
+
+
+
+\### Milestone 17 — Pagina di review ✅
+
+
+
+\*\*Obiettivo:\*\* \`frontend/review.html\` — pagina locale dark-theme per leggere e copiare tutti i contenuti. Tasto "Copia tutto" per articolo, data relativa, articoli completi mostrati prima.
+
+
+
+\---
+
+
+
+\### Milestone 15 — Frontend UX a due assi ✅
+
+
+
+\*\*Obiettivo:\*\* layout Instagram Stories + TikTok feed. Swipe orizzontale = slide successiva (stessa notizia), swipe verticale = notizia successiva. Testato su Android Chrome e iPhone Safari — tutti e 7 gli scenari superati.
+
+
+
+\*\*Layout:\*\* 3 aree verticali per slide — area visual (gradiente colorato), area content (badge + titolo), area info (dot indicators + icone + caption con data).
 
 
 

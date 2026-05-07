@@ -1,30 +1,25 @@
 {
   "title": "Image AI models now drive app growth, beating chatbot upgrades",
   "slides": [
-    "Image AI boosts installs more than chatbots",
-    "Visual content drives user engagement",
-    "Better retention, fewer upgrades needed",
-    "Add image personalization to your app",
-    "Spotify saw 30% lift with AI covers"
+    "Il tuo next big feature non è un chatbot?",
+    "Le immagini convertono utenti meglio dei testi AI.",
+    "I modelli visivi superano i LLM in retention rate.",
+    "Progetta un onboarding visivo: testa subito un A/B.",
+    "Sostituisci un prompt testuale con una schermata oggi."
   ],
   "thread_text": [
-    "Le tue app perdono utenti? Forse stai usando lo strumento sbagliato.",
-    "Chatbot testo? Bello, ma non abbastanza. Le immagini AI spingono le installazioni molto di più.",
-    "I contenuti visivi tengono incollati. Non servono mille aggiornamenti per fidelizzare.",
-    "La personalizzazione delle immagini nell'app cambia tutto. Ritenzione senza sforzo.",
-    "Spotify l’ha fatto: +30% con copertine AI. Stai ancora perdendo l’occasione?"
+    "I modelli visivi tengono gli utenti più a lungo dei LLM. La differenza in retention è misurabile. E se la tua prossima feature è un chatbot, stai scommettendo sulla carta sbagliata.",
+    "Le immagini convertono meglio del testo generato dall'AI. Non è un'opinione: i dati mostrano che una schermata ben progettata spinge l'azione più di qualsiasi prompt.",
+    "Ecco la svolta: se l'onboarding è testuale, perdi utenti prima ancora che inizino. Un onboarding visivo li porta direttamente al valore del prodotto.",
+    "Puoi verificarlo oggi con un A/B test. Metti una schermata contro una spiegazione testuale e guarda i numeri.",
+    "Sostituisci un prompt con una schermata nel tuo prossimo rilascio. Costa meno di un abbonamento Spotify e i risultati arrivano in una settimana."
   ],
   "video_script": [
-    "Hai presente le app che non decollano?",
-    "Il problema non è il prodotto.",
-    "Usi chatbot? Sbagliato.",
-    "Le immagini AI funzionano meglio.",
-    "Più installazioni, zero fatica.",
-    "Spotify ha alzato tutto del 30%.",
-    "Immagini personalizzate tengono gli utenti.",
-    "Niente aggiornamenti continui.",
-    "Copia quel che funziona.",
-    "Adesso tocca a te."
+    "I modelli visivi battono i LLM in retention.",
+    "Le immagini convertono meglio dei testi AI.",
+    "Non è teoria, è dato misurato.",
+    "Onboarding visivo, non testuale.",
+    "Fai subito un A/B test."
   ],
   "savedAt": "2026-05-05T17:20:36.578Z"
 }

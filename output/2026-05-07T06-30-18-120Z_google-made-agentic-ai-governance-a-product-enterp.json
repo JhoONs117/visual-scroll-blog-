@@ -1,25 +1,25 @@
 {
   "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
   "slides": [
-    "Google vende governance AI agentica come prodotto.",
-    "Aziende devono ancora adeguarsi alle regole.",
-    "Strumento utile per conformità e sicurezza.",
-    "Valuta e implementa policy di governance ora.",
-    "Esempio: banca usa Google per audit automatici."
+    "Google vende governance per AI agentica, ma serve a cosa?",
+    "Ogni agente AI oggi opera come un’entità semi-autonoma.",
+    "Le aziende non hanno policy per gestirne le azioni.",
+    "Senza regole, un agente può firmare contratti errati.",
+    "Chi non agisce ora rischia caos operativo legale."
   ],
   "thread_text": [
-    "Google vuole che compri la governance AI. Non è un aggiornamento software. È un prodotto.",
-    "Le aziende stanno ancora capendo come muoversi tra regole che cambiano ogni settimana.",
-    "Questo strumento promette di tenerti in regola senza che tu debba diventare un esperto legale.",
-    "Non aspetta che sia troppo tardi. Valuta già ora le tue policy e adattale alla nuova realtà.",
-    "Una banca ha già automatizzato gli audit con questo sistema. Il rischio zero non esiste, ma è questione di chi si muove prima."
+    "Le aziende non hanno policy per gli agenti AI. Sono semi-autonomi e operano da soli. Questo è già un problema.",
+    "Un agente AI può firmare contratti, acquistare servizi, modificare sistemi. Nessuno controlla cosa fa davvero.",
+    "Google prova a vendere governance per questo caos. Ma la domanda è: chi decide le regole se l'agente decide da solo?",
+    "Se oggi un agente sbaglia un contratto, la responsabilità è tua. Non c'è un 'errore della macchina' che ti salva.",
+    "Chi non definisce ora policy per i propri agenti, tra 12 mesi affronterà contenziosi operativi. Il rischio è concreto."
   ],
   "video_script": [
-    "Google vende governance AI come prodotto.",
-    "Le aziende ancora non sanno cosa fare.",
-    "Con questo strumento stai in regola facile.",
-    "Valuta le tue policy ora, non dopo.",
-    "Una banca fa già audit automatici."
+    "Nessuna azienda ha regole per gli agenti AI.",
+    "Ogni agente decide da solo cosa fare.",
+    "Possono firmare contratti senza controllo umano.",
+    "Google vende governance, ma è solo un cerotto.",
+    "Se non agisci ora, paghi multe tra un anno."
   ],
   "savedAt": "2026-05-07T06:30:18.120Z"
 }

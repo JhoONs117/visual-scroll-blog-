@@ -1,25 +1,25 @@
 {
   "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
   "slides": [
-    "GenAI unicorn pivots from models to cloud services.",
-    "Building AI models proved too costly and complex.",
-    "Cloud services offer steady revenue and lower risk.",
-    "Now they sell AI tools for businesses.",
-    "Example: custom chatbots for Indian firms."
+    "Krutrim pivots from AI models—why?",
+    "Building large models proved too costly.",
+    "They now sell cloud services instead.",
+    "Startups can follow: outsource AI infra.",
+    "Test your core assumption before investing."
   ],
   "thread_text": [
-    "A GenAI unicorn just admitted building AI models was a mistake. They pivoted to selling cloud services instead.",
-    "The cost and complexity of training models from scratch crushed their runway. Even VCs got scared.",
-    "Now they sell AI tools to businesses. Predictable revenue. Lower risk. Real customers paying monthly.",
-    "They're building custom chatbots for Indian firms. No hype, just solving real problems with existing tech.",
-    "The lesson? The gold rush isn't in building the models. It's in selling the shovels."
+    "Krutrim smette di costruire i propri modelli AI. Troppo costosi. Ora vende cloud. Una mossa che dice tutto sul mercato.",
+    "Costruire foundation model da zero costa milioni. Solo pochi possono permetterselo. La maggior parte delle startup brucia capitale.",
+    "Krutrim ha girato la chiave: da produttore a rivenditore di infrastruttura. Cloud, GPU a noleggio. Margini migliori, azzardo minore.",
+    "Il segnale per gli altri fondatori: non serve costruire tutto. Affitta ciò che è già pronto. Concentrati sul prodotto, non sul motore.",
+    "Prima di comprare GPU per 1M, testa il tuo assunto con cloud. Costa meno di un abbonamento Pro. Fallo in 48 ore."
   ],
   "video_script": [
-    "So this AI unicorn just did a huge pivot.",
-    "Building models was way too expensive and hard.",
-    "Now they're selling cloud services instead.",
-    "Think custom chatbots for Indian businesses.",
-    "They went from hype to real revenue."
+    "Hanno mollato i loro modelli AI.",
+    "Costava troppo. Soldi bruciati.",
+    "Ora vendono cloud. Più sano.",
+    "Tu noleggia. Non costruire tutto.",
+    "Testa l'assunto. Gratis. Subito."
   ],
   "savedAt": "2026-05-05T17:20:36.578Z"
 }

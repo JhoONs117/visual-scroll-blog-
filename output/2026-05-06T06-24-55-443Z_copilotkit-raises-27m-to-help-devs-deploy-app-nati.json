@@ -1,28 +1,26 @@
 {
   "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
   "slides": [
-    "CopilotKit raccoglie 27 milioni dollari",
-    "Aiuta sviluppatori a creare agenti AI",
-    "Integra AI direttamente nelle app",
-    "Veloce da implementare e usare",
-    "Esempio: chat AI in app esistenti"
+    "CopilotKit ha appena raccolto 27 milioni di dollari.",
+    "Non è un semplice chatbot: è codice per agenti AI.",
+    "Gli sviluppatori lo usano già in produzione senza cloud.",
+    "Il tuo stack attuale rischia di diventare obsoleto.",
+    "Prova a integrare un agente nella tua app oggi."
   ],
   "thread_text": [
-    "Se credi che basti aggiungere un chatbot a un’app per fare AI, stai già perdendo.",
-    "CopilotKit ha appena chiuso un round da 27 milioni di dollari. Non è un’altra interfaccia: è un framework per sviluppatori.",
-    "Invece di costruire un layer AI separato, lo inserisci dentro il codice della tua applicazione esistente.",
-    "Il risultato? Agenti che lavorano dentro i flussi già usati dagli utenti, non in una finestra a parte.",
-    "Non si tratta di costruire AI. Si tratta di farla sparire dentro il prodotto."
+    "Gli sviluppatori stanno già mettendo agenti AI in produzione senza cloud. Il codice gira dove serve. E funziona.",
+    "28 milioni di dollari per CopilotKit. Non per un chatbot. Per far scrivere codice agli agenti AI dentro la tua app.",
+    "Il tuo stack attuale diventa obsoleto nel momento in cui un agente può fare quello che oggi fai con 5 API e un backend.",
+    "Non devi migrare tutto. Basta integrare un agente in una feature sola. Il resto segue da solo.",
+    "Costa meno di un abbonamento Spotify. Prova a mettere un agente in produzione questa settimana."
   ],
   "video_script": [
-    "27 milioni di dollari per CopilotKit.",
-    "Non è un chatbot in più.",
-    "Aiuta sviluppatori a mettere AI dentro le app.",
-    "Non devi costruire niente a parte.",
-    "Funziona subito, nei flussi esistenti.",
-    "Tipo una chat AI già integrata nel software.",
-    "Non serve aprire un'altra finestra.",
-    "Una AI che sparisce dentro il prodotto."
+    "CopilotKit ha preso 28 milioni di dollari.",
+    "Non è un chatbot. È codice per agenti AI.",
+    "Gli sviluppatori lo usano già in produzione.",
+    "Niente cloud. Gira dove vuoi tu.",
+    "Il tuo stack diventa vecchio in fretta.",
+    "Prova a integrare un agente oggi."
   ],
   "savedAt": "2026-05-06T06:24:55.443Z"
 }

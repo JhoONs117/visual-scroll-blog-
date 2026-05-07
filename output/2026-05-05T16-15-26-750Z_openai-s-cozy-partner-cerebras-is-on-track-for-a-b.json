@@ -1,25 +1,25 @@
 {
   "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
   "slides": [
-    "OpenAI sceglie Cerebras per l'AI",
-    "Startup contro NVIDIA nei chip",
-    "IPO da blockbuster in arrivo",
-    "Investitori guardano prestazioni record",
-    "Esempio: training modelli più veloce"
+    "Cerebras, l'alleato segreto di OpenAI, punta a una IPO colossale?",
+    "Le sue macchine addestrano modelli più velocemente dei GPU tradizionali.",
+    "Ma il suo chip gigante nasconde un tallone d'Achille tecnologico.",
+    "Per gli investitori, il rischio è la dipendenza da un singolo cliente.",
+    "Decidi ora: osservi o entri prima che il prezzo salga?"
   ],
   "thread_text": [
-    "OpenAI ha appena scelto Cerebras per i suoi modelli. E no, non è un dettaglio tecnico. È un terremoto.",
-    "Per anni NVIDIA è stata l’unico gioco in città per l’AI. Cerebras ha costruito un chip che promette di scalare meglio.",
-    "E indovina? L’IPO di Cerebras si preannuncia tra le più calde del decennio. Gli investitori fiutano il cambio di guardia.",
-    "Prestazioni da record: training completati in giorni invece che settimane. Il margine di vantaggio è reale.",
-    "Se stai guardando l’AI da fuori, questo è il segnale che la supply chain sta cambiando. Occhi aperti."
+    "Il più grande chip AI del mondo ha un punto debole e dipende da un solo cliente. Se quel cliente se ne va, tutto il castello crolla. Ecco cosa sta succedendo.",
+    "Cerebras costruisce chip enormi che addestrano modelli più velocemente di Nvidia. OpenAI è il suo cliente principale. Un vantaggio enorme, ma anche un rischio gigante.",
+    "Il problema tecnico è la memoria: un chip così grande scalda troppo e consuma energia come una centrale. I concorrenti stanno risolvendo il problema in modo diverso.",
+    "Per ora Cerebras punta a una IPO colossale. Ma gli investitori guardano due cose: la dipendenza da OpenAI e la capacità di reggere il confronto tecnologico a lungo termine.",
+    "La domanda vera è: compri azioni di una società che ha un unico cliente miliardario, o aspetti di vedere se quel cliente resta?"
   ],
   "video_script": [
-    "OpenAI ha mollato NVIDIA per Cerebras.",
-    "Sembra una mossa tecnica, ma è strategia.",
-    "Cerebras fa chip enormi e velocissimi.",
-    "La loro IPO potrebbe essere una bomba.",
-    "Il dominio di NVIDIA inizia a scricchiolare."
+    "Cerebras ha il chip più grande del mondo.",
+    "Ma dipende quasi solo da OpenAI.",
+    "Se OpenAI cambia fornitore, addio.",
+    "Il chip scala troppo e consuma tanto.",
+    "IPO in arrivo. Entri o aspetti?"
   ],
   "savedAt": "2026-05-05T16:15:26.750Z"
 }

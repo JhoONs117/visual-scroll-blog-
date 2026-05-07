@@ -7,11 +7,33 @@ Segui questo ordine. Completa e testa ogni milestone prima di passare alla succe
 
 ---
 
+## Stato attuale (2026-05-06)
+
+| Milestone | Stato | Note |
+|---|---|---|
+| M14 — Riscrittura prompt slide | ✅ Completa | Hook narrativi, limite 8 parole, fallback ~8% |
+| M16 — Output multi-formato | ✅ Completa | `generateFormats`, `thread_text`, `video_script` |
+| M17 — Pagina di review | ✅ Completa | `review.html` dark theme, "Copia tutto", data relativa |
+| Backfill formati | ✅ Completa | 75 da cache, 11 da API → 44 articoli unici |
+| M15 — Frontend UX a due assi | ✅ Completa | Tutti i 7 scenari di test superati su mobile reale |
+| Bug: cross-run dedup | ✅ Fix | Stesso articolo salvato 18x → ora 0 duplicati |
+| Bug: GENERATE_FORMATS workflow | ✅ Fix | Aggiunto a `pipeline.yml`, formati ora generati in CI |
+| Bug: ordinamento articoli | ✅ Fix | Articoli più recenti prima in `data.js` |
+| Bug: data relativa | ✅ Fix | `timeAgo()` in `index.html` e `review.html` |
+| M21 — Test distribuzione reale | ⏳ Prossimo | Checkpoint obbligatorio prima di automatizzare canali |
+| M22 — Iterazione prompt da dati | ⏳ Dopo M21 | Richiede 10 post pubblicati con dati reali |
+| M18 — Ranking per qualità | ⏳ In attesa | Nice to have |
+| M19 — Index globale articoli | ⏳ In attesa | Utile quando il volume cresce |
+| M20 — Branding e URL pulito | ⏳ In attesa | - |
+
+---
+
 ## Ordine di esecuzione
 
 ```
-M14 → M16 → M17 → M21 ← STOP: valuta risultati distribuzione
-→ M22 → M15 → M18 → M19 → M20
+M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅
+→ M21 ← STOP: valuta risultati distribuzione
+→ M22 → M18 → M19 → M20
 ```
 
 M14 e M16 sono le milestone più critiche. M21 è un checkpoint obbligatorio prima di automatizzare qualsiasi canale. M22 è quello che separa un progetto carino da un sistema che evolve.
@@ -58,10 +80,20 @@ poi esegui node run.js e salva 10 output di esempio in una cartella test-output/
 
 ---
 
-## Milestone 15 — Miglioramento frontend UX
+## Milestone 15 — Miglioramento frontend UX ✅ (2026-05-06)
 
 > Viene dopo M16 e M17. L'UX non porta traffico e non valida l'idea — arriva solo dopo aver confermato che il contenuto funziona.
 > ⚠️ Questa milestone riscrive completamente la struttura di `index.html` — non è un aggiornamento incrementale.
+
+**✅ Risultato reale:** tutti e 7 gli scenari di test superati su Android Chrome e iPhone Safari.
+
+**⚠️ Note implementazione (delta rispetto al piano originale):**
+- `touch-action: pan-x pan-y` su `.story` (non `pan-x` separato) — altrimenti lo scroll verticale del feed viene bloccato
+- Nessun `preventDefault()` nel touch handler — CSS scroll-snap gestisce tutto; JS interviene solo per l'edge case dell'ultima slide
+- CSS variable `--slide-w` da `document.documentElement.clientWidth` (non `100vw`) — evita overflow orizzontale da scrollbar su Android
+- `window.visualViewport.height` per `--vh` (non `window.innerHeight`) — correzione per address bar di Chrome Android
+- Layout Instagram a 3 aree: `.slide-visual` (50%, gradiente colorato) + `.slide-content` (badge AI + titolo centrato su nero) + `.slide-info` (dot indicators + icone SVG + caption)
+- `savedAt` salvato su ogni articolo; `timeAgo()` mostra data relativa in caption ("2h fa", "ieri")
 
 **Obiettivo:** implementare il modello Stories + TikTok — swipe orizzontale per avanzare dentro la stessa notizia (slide 1→5), swipe verticale per cambiare notizia. Stesso "linguaggio" di Instagram Stories combinato con il feed verticale di TikTok.
 

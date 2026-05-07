@@ -1,25 +1,25 @@
 {
   "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
   "slides": [
-    "Google vuole che tu controlli l'IA?",
-    "Remy AI agente testato su Gemini.",
-    "L'agente decide quando agire per te.",
-    "Non devi più guidare ogni comando.",
-    "Provalo: imposta un obiettivo e osserva."
+    "Google tests Remy—but will it obey your orders?",
+    "Remy is an AI agent inside Gemini's app.",
+    "It can book flights and manage tasks autonomously.",
+    "But you still approve every action it takes.",
+    "Control now: test the agent's limits yourself."
   ],
   "thread_text": [
-    "Stai ancora cliccando tu sui pulsanti? Google ha appena lanciato Remy, un agente AI che farà tutto al posto tuo.",
-    "Non è solo un'altra chat. Remy esegue azioni reali: prenota voli, compra biglietti, gestisce calendari.",
-    "Ma c'è un trucco: tu mantieni il controllo finale. Ogni azione deve essere approvata prima di partire.",
-    "Puoi attivarlo subito dalle impostazioni di Gemini. È già lì, in attesa di essere sbloccato.",
-    "Pensa: un assistente che agisce per te, ma con un freno a mano sempre a portata. Il futuro è qui."
+    "Remy è un agente AI che vive dentro l'app di Gemini e sa già prenotare voli e gestire task. Il punto è: può agire per te, ma solo se glielo permetti.",
+    "Google lo sta testando con un progetto chiamato Remy. È dentro l'app Gemini. Non è un plugin o un esperimento separato: è un vero agente autonomo che lavora in background.",
+    "Il bello è che Remy esegue operazioni reali: prenota voli, gestisce calendari, compila moduli. Ma prima di ogni azione, ti chiede conferma. Non fa mai nulla senza il tuo via.",
+    "Il controllo è totale. Tu decidi se e quando intervenire. È come avere un assistente che ti mostra tutto prima di agire. Non un maggiordomo cieco, ma un esecutore che riferisce.",
+    "Ora puoi testare i suoi limiti direttamente. Entra in Gemini, attiva Remy e digli il task che ti sembra più complesso. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore."
   ],
   "video_script": [
-    "Google ha lanciato Remy per Gemini.",
-    "Un agente che automatizza le tue azioni.",
-    "Ma tu decidi sempre l'ultima parola.",
-    "Lo trovi già nelle impostazioni.",
-    "Immagina: prenota il tuo viaggio mentre dormi."
+    "C'è un nuovo agente AI dentro Gemini.",
+    "Si chiama Remy e prenota voli da solo.",
+    "Ma prima fa vedere tutto e chiede il via.",
+    "Tu controlli ogni singola mossa.",
+    "Provaci oggi e digli il task più assurdo."
   ],
   "savedAt": "2026-05-07T06:30:18.120Z"
 }

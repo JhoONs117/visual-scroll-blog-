@@ -1,6 +1,6 @@
 # CONTEXT — Visual AI Scroll Blog
 
-Stato aggiornato al: 2026-05-05
+Stato aggiornato al: 2026-05-06
 
 ---
 
@@ -33,19 +33,21 @@ Sistema automatico che:
 
 | File | Ruolo |
 |---|---|
-| `run.js` | Entry point — orchestra l'intera pipeline + scrive `frontend/data.js` |
+| `run.js` | Entry point — orchestra pipeline, dedup cross-run, scrive `frontend/data.js` (sort desc) |
+| `backfill.js` | Backfill formati su articoli esistenti senza `thread_text` (cache → API) |
 | `server.js` | HTTP server minimale — serve `frontend/` su Railway |
 | `fetch.js` | Legge i feed RSS, restituisce `{ title, link, pubDate }[]` |
 | `filter.js` | `deduplicate`, `hardFilter`, `batchAIFilter` |
 | `deepseek.js` | Wrapper `callDeepSeek(prompt)` → stringa risposta |
-| `generate.js` | `generateSlides(title)` → `{ title, slides[5] }`, con cache |
+| `generate.js` | `generateSlides(title)` + `generateFormats(title, slides)`, con cache |
 | `validate.js` | `isValid`, `validateWithFallback` con fallback su `review_queue.json` |
 | `cache.json` | Cache persistente hash→slides (evita chiamate API duplicate) |
 | `review_queue.json` | Articoli che non hanno superato la validazione dopo 2 tentativi |
-| `output/` | File JSON generati dalla pipeline, uno per articolo |
-| `frontend/index.html` | Pagina scroll-snap dinamica |
-| `frontend/data.js` | Generato da `run.js` — contiene `window.ARTICLES = [...]` |
-| `.github/workflows/pipeline.yml` | GitHub Actions — cron ogni 2 ore |
+| `output/` | File JSON generati dalla pipeline, uno per articolo (formato: `timestamp_slug.json`) |
+| `frontend/index.html` | Frontend Instagram-style: scroll verticale feed + scroll orizzontale slide |
+| `frontend/review.html` | Pagina review locale: tutti gli articoli con thread X, script video, "Copia tutto" |
+| `frontend/data.js` | Generato da `run.js` — `window.ARTICLES = [...]`, ordinato dal più recente |
+| `.github/workflows/pipeline.yml` | GitHub Actions — cron ogni 2 ore, `GENERATE_FORMATS=true` |
 
 ---
 
@@ -144,8 +146,44 @@ chiediti "fa venire voglia di leggere la prossima?" — se meno di 8/10 sì, tor
 - `.env`: aggiunto `GENERATE_FORMATS=true`
 - I campi `thread_text` e `video_script` sono inclusi nei JSON in `output/` e in `frontend/data.js`
 
-**Da fare (test manuale):** apri 10 JSON in `output/`, leggi `thread_text` di ognuno.
-Chiediti "posterei questo su X adesso?" — se no >3 volte su 10, migliorare il prompt di `generateFormats`.
+### M17 — Pagina di review ✅ (2026-05-06)
+- `frontend/review.html` con tema dark (#0f172a), unico tasto "Copia tutto" per articolo
+- Mostra: titolo, data relativa (`timeAgo`), slide numerate, Thread X, Script video
+- Copia negli appunti l'intero articolo (titolo + slide + thread + script) in un click
+- Articoli con formati mostrati prima di quelli senza (ordinamento visivo interno)
+- `overflow-wrap: break-word` su tutti gli elementi testuali
+
+### Backfill formati ✅ (2026-05-06)
+- `backfill.js`: retroattivamente aggiunge `thread_text` e `video_script` a 226 JSON in `output/`
+- Costruisce una `formatCache` dai file che hanno già i formati (da duplicati) → evita chiamate API superflue
+- Risultato: 75 da cache, 11 da API, 0 fallimenti → 44 articoli unici in `data.js`
+- Rebuild finale di `data.js` con deduplicazione per slug e ordinamento decrescente per data
+
+### M15 — Frontend UX a due assi ✅ (2026-05-06)
+- `frontend/index.html` completamente riscritto con layout Instagram-style a 3 aree:
+  - `.slide-visual` (50% h, gradiente colorato per articolo)
+  - `.slide-content` (badge "AI NEWS" + linee blu + titolo uppercase centrato su nero)
+  - `.slide-info` (dot indicators + icone SVG like/comment/share + caption con `timeAgo`)
+- Scroll verticale sul `.feed` (cambio articolo) + scroll orizzontale su `.story` (cambio slide)
+- `touch-action: pan-x pan-y` su `.story` — permette entrambi gli assi nativamente
+- CSS variable `--slide-w` da `document.documentElement.clientWidth` — evita overflow su Android
+- `window.visualViewport.height` per `--vh` — corretto con address bar Chrome Android
+- IntersectionObserver per reset slide 1 al cambio articolo (threshold 0.6)
+- Edge case: ultima slide + swipe → avanza al prossimo articolo via `feed.scrollBy`
+- Tutti i 7 scenari di test superati su mobile reale
+
+### Bug fix: cross-run deduplication ✅ (2026-05-06)
+- `run.js`: carica slug esistenti da `output/` prima di girare, salta articoli già salvati
+- Stesso articolo non viene più scritto 18 volte in run successivi
+- `data.js` ora deduplica per slug e ordina per `savedAt` decrescente (più recenti prima)
+
+### Bug fix: GENERATE_FORMATS in GitHub Actions ✅ (2026-05-06)
+- `pipeline.yml`: aggiunto `GENERATE_FORMATS: 'true'` nelle env del passo pipeline
+- Formati ora generati automaticamente ad ogni run di CI
+
+### Bug fix: data relativa ✅ (2026-05-06)
+- `run.js`: salva `pubDate` (dalla fonte RSS) e `savedAt` (timestamp di run) su ogni articolo
+- `timeAgo()` implementata in `index.html` e `review.html` — mostra "2h fa", "ieri", "3gg fa"
 
 ---
 

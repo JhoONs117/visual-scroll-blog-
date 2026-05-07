@@ -1,25 +1,25 @@
 {
   "title": "Per-token AI charges come to GitHub Copilot",
   "slides": [
-    "Ogni richiesta AI costa soldi veri ora.",
-    "GitHub Copilot addebita ogni token generato.",
-    "I costi nascosti superano 10 volte l'abbonamento.",
-    "Controlla i consumi o paghi per aria.",
-    "Attiva il limite mensile nel tuo account."
+    "GitHub Copilot addebita ogni tuo token, ma quanto costa?",
+    "Il prezzo è nascosto nei flussi di lavoro medi.",
+    "Un commit semplice potrebbe costarti più di un prompt.",
+    "Chi usa Copilot intensamente riveda i budget mensili.",
+    "Controlla i tuoi log oggi prima del prossimo addebito."
   ],
   "thread_text": [
-    "Il tuo prossimo tool AI potrebbe costarti meno di un caffè — o più di un abbonamento Netflix. Dipende da come paghi.",
-    "Copilot ha scelto un modello semplice: paghi per ogni token consumato. Niente canoni fissi, niente sorprese.",
-    "Scalabile e trasparente: se usi poco, spendi poco; se usi tanto, paghi l’equivalente. Zero inganni sui volumi.",
-    "Puoi impostare budget e limiti massimi. Il controllo è nelle tue mani, non nelle clausole scritte in piccolo.",
-    "Netflix fattura per ore di streaming. L’AI ora si allinea: paghi per ogni unità di lavoro, non per il privilegio di esistere."
+    "Un commit semplice potrebbe costarti più di un prompt su GitHub Copilot. Il prezzo non è nei singoli comandi, ma nei flussi di lavoro medi che accumuli senza accorgertene.",
+    "Ogni token che invii a Copilot viene addebitato, ma la fattura finale non segue la logica del singolo prompt. Il costo reale è nascosto nei micro-commit ripetuti.",
+    "Chi usa Copilot intensamente potrebbe ritrovarsi con budget mensili esauriti prima di metà mese. I flussi di lavoro quotidiani moltiplicano i token senza che te ne accorga.",
+    "Un refactoring veloce, una completazione automatica, una correzione di sintassi: ogni azione ha un prezzo. La differenza tra un commit economico e uno costoso è nei dettagli.",
+    "Controlla i tuoi log oggi. Cerca i pattern di commit ripetuti e i prompt non necessari. Se non riduci i flussi di lavoro medi, il prossimo addebito sarà una sorpresa."
   ],
   "video_script": [
-    "Pensi a quanto paghi per l’AI?",
-    "Copilot ti fa pagare per ogni token.",
-    "Più usi, più spendi, ma è chiaro.",
-    "Imposta un budget, non sfori mai.",
-    "Come Netflix, paghi per l’uso, non per il potenziale."
+    "Un commit semplice costa più di un prompt.",
+    "Il prezzo è nei flussi di lavoro medi.",
+    "Copilot addebita ogni token, attento.",
+    "Chi lo usa tanto riveda i budget.",
+    "Controlla i log prima del prossimo addebito."
   ],
   "savedAt": "2026-05-07T02:04:38.310Z"
 }

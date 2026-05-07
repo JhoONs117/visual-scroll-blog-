@@ -31,17 +31,21 @@ Formato: { "slides": ["...", "...", "...", "...", "..."] }
 LIMITE ASSOLUTO: ogni slide deve avere AL MASSIMO 12 parole. Conta le parole prima di rispondere. Se ne hai 13 o più, taglia.
 
 Struttura delle 5 slide — segui l'ordine esatto:
-1. HOOK — domanda o affermazione che crea curiosità. Non informare: provocare. Se non fa venire voglia di leggere la slide 2, è sbagliata.
+1. HOOK — puoi aprire con il nome dell'azienda o protagonista come ancoraggio, ma la slide deve sempre aggiungere tensione o una domanda aperta, non solo il fatto nudo. Se esiste un hook più forte tra le 5 posizioni, usalo al posto di questo e riordina la struttura di conseguenza.
 2. CONTESTO — una sola informazione nuova.
 3. SORPRENDENTE — la cosa che il lettore non si aspetta.
 4. PRATICO — cosa cambia concretamente per chi legge.
 5. TAKEAWAY — frase finale netta: azione o riflessione.
 
-Esempio DA NON FARE (hook generico + slide troppo lunghe):
-{ "slides": ["OpenAI lancia nuovo modello GPT", "Il modello si chiama GPT-5 ed è più potente", "Ha nuove capacità di ragionamento avanzato", "Utile per tutti quelli che lavorano con AI", "Prova GPT-5 oggi stesso per i tuoi progetti"] }
+REGOLA CRITICA — tensione irrisolta:
+Ogni slide deve contenere una tensione non risolta o un'informazione incompleta che si chiude solo nella slide successiva. Il lettore non deve poter smettere di leggere dopo ogni slide.
+Test interno: "questa slide mi lascia una domanda aperta o vuole che legga la prossima?" — se la risposta è no, è sbagliata.
 
-Esempio DA FARE (hook che crea tensione, max 12 parole per slide):
-{ "slides": ["GPT-5 può sostituire il tuo analista?", "Ragiona su problemi in più passaggi", "Sbaglia meno degli umani su benchmark legali", "Chi non lo usa perde terreno ora", "Testa un task reale: confronta i risultati"] }
+Esempio DA NON FARE (slide che chiudono ogni informazione, zero tensione):
+{ "slides": ["OpenAI lancia GPT-5", "È più potente di GPT-4", "Ragiona in più passaggi", "Costa meno dei modelli precedenti", "Disponibile su ChatGPT da oggi"] }
+
+Esempio DA FARE (ogni slide lascia qualcosa in sospeso):
+{ "slides": ["GPT-5 può sostituire il tuo analista?", "Ragiona su problemi complessi in più passaggi", "Ma sbaglia meno degli umani solo su certi task", "Chi non lo testa ora rischia di perdere terreno", "Un task reale oggi: confronta i risultati tu stesso"] }
 
 Niente fluff, niente aggettivi generici.
 
@@ -84,9 +88,11 @@ Genera due formati. Rispondi SOLO JSON valido:
 }
 
 Regole thread:
-- tweet 1 deve essere un hook forte che genera curiosità — non informativo, provocatorio
-- tweet 2–4 sviluppano con progressione, NON ripetono le slide
-- tweet 5 chiude con takeaway o implicazione concreta
+- TWEET 1: scegli la slide con più tensione narrativa tra le 5 — indipendentemente dalla sua posizione. Può essere la slide 3 o la 5. Usala come apertura. L'arco del thread si ricostruisce intorno a quella slide, non all'ordine originale.
+- tweet 2–4 sviluppano con progressione di beat narrativi (contesto → svolta → conseguenza), NON ripetono le slide
+- TWEET 5: chiudi con un fatto netto, una conseguenza concreta o una domanda aperta. MAI con una valutazione editoriale generica.
+  DA NON FARE: "L'AI non è più solo un sogno" / "Ed è appena diventato realtà" / "Il futuro è già qui"
+  DA FARE: "Costa meno di un abbonamento Spotify. Testalo questa settimana." / "Se non l'hai già fatto, inizia da questo task: [X]"
 - ogni tweet deve essere comprensibile da solo, ma il thread deve avere ritmo e progressione
 - niente hashtag, niente emoji forzate
 - tono: diretto, non giornalistico

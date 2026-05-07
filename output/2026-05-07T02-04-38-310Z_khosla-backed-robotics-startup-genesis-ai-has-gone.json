@@ -1,25 +1,28 @@
 {
   "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
   "slides": [
-    "Un robot che programma sé stesso esiste già.",
-    "Genesis AI non vende solo hardware: fa tutto.",
-    "Il loro stack completo batte modelli separati del 40%.",
-    "Non devi più integrare pezzi di diversi fornitori.",
-    "Chiedi una demo: vedi il software che scrive codice."
+    "Genesis AI goes full stack—can robots finally learn like humans?",
+    "Their demo shows a robot adapting to a task in minutes, not months.",
+    "Most startups avoid full stack; Khosla backing signals a bet on vertical control.",
+    "For you: fewer brittle demos, faster path to real-world deployment.",
+    "Watch the demo—decide if this is the breakthrough or just another promise."
   ],
   "thread_text": [
-    "Se il tuo magazzino sembra funzionare, è il momento più pericoloso. Non vedi il collo di bottiglia perché non esiste ancora. Ma quando lo vedrai, sarà troppo tardi.",
-    "Genesis AI non è un'altra startup di bracci robotici. Hanno costruito un sistema che unisce robot, software e una forma di intelligenza che decide da sola cosa fare.",
-    "Non ti vendono un pezzo di macchinario. Ti danno il controllo dell'intera fabbrica: dalla logistica alla produzione, senza che tu debba micromanageare ogni singolo movimento.",
-    "In tre mesi hanno tagliato i costi operativi del 30% in aziende che sembravano già efficienti. Non è un risparmio marginale, è un cambio di paradigma nei margini.",
-    "Se gestisci un impianto, non credere alle slide. Chiedi una demo e confronta i numeri reali con quello che fai oggi. Potresti scoprire che il tuo concorrente l'ha già fatto."
+    "Most startups avoid full stack. Khosla just bet on it. That alone tells you this Genesis AI move is different.",
+    "The bet: a robot that learns a task in minutes, not months. That's the headline. The real story is how they got there.",
+    "Full stack means they own the hardware, the software, the training loop. No handoffs. No excuses. Just one integrated system that adapts fast.",
+    "For you, that means fewer brittle demos that collapse in the real world. Faster path from lab to deployment. Less guesswork.",
+    "They released a demo. Watch it. Then ask yourself: does this finally close the gap between promise and production?",
+    "",
+    "If you're building with robots, this is the week to run your own test. Pick one task. Time it. Compare."
   ],
   "video_script": [
-    "Il tuo magazzino è già obsoleto.",
-    "Genesis AI costruisce robot e cervelli.",
-    "Non solo bracci: tutta la fabbrica.",
-    "Costi giù del 30% in tre mesi.",
-    "Chiedi demo, non fidarti delle slide."
+    "Khosla just bet on a robot startup.",
+    "Most avoid full stack. They went all in.",
+    "Their demo: robot learns in minutes, not months.",
+    "That changes how fast you deploy.",
+    "Watch it. Then decide if this breaks the cycle.",
+    "One task. This week. Test it yourself."
   ],
   "savedAt": "2026-05-07T02:04:38.310Z"
 }

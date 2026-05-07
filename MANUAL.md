@@ -16,6 +16,9 @@ Non è necessario capire tutto il codice: ogni sezione indica esattamente quale 
 7. [Come leggere i log per capire cosa è successo](#7-leggere-i-log)
 8. [Come svuotare la cache](#8-svuotare-la-cache)
 9. [Come funziona l'automazione GitHub Actions](#9-come-funziona-lautomazione-github-actions)
+10. [Come usare la pagina di review](#10-come-usare-la-pagina-di-review)
+11. [Come fare il backfill dei formati su articoli esistenti](#11-come-fare-il-backfill-dei-formati)
+12. [Come funziona il layout a due assi](#12-come-funziona-il-layout-a-due-assi)
 
 ---
 
@@ -298,3 +301,98 @@ Cerca questa riga:
 ```
 
 Dopo la modifica fai `git push` — GitHub applica il nuovo orario automaticamente.
+
+---
+
+## 10. Come usare la pagina di review
+
+`frontend/review.html` è una pagina locale (non linkata dal sito pubblico) per leggere e copiare tutti i contenuti generati.
+
+**Per aprirla:**
+
+```bash
+# Apri direttamente nel browser (non serve Railway)
+xdg-open /home/miki/visual-scroll-blog/frontend/review.html
+# oppure su Windows/WSL: explorer.exe frontend/review.html
+```
+
+**Cosa mostra per ogni articolo:**
+- Titolo + data relativa ("2h fa", "ieri", "3gg fa")
+- Slide numerate (1-5)
+- Thread X (5 tweet pronti da postare)
+- Script video (5 righe parlate)
+- Tasto **"Copia tutto"** → copia in un click titolo + slide + thread + script
+
+**Flusso di utilizzo consigliato:**
+1. Apri `review.html`
+2. Scorri gli articoli (quelli completi di thread sono mostrati per primi)
+3. Leggi il thread di un articolo — ti sembra postabile?
+4. Se sì: click **Copia tutto** → incolla su X o LinkedIn
+
+> La pagina legge `data.js` — deve essere aggiornata prima (`node run.js` o aspetta il cron di GitHub Actions).
+
+---
+
+## 11. Come fare il backfill dei formati
+
+Se hai articoli in `output/` senza `thread_text` (es. generati prima di M16, o perché `GENERATE_FORMATS` non era attivo):
+
+```bash
+cd /home/miki/visual-scroll-blog
+node backfill.js
+```
+
+Il backfill:
+1. Legge tutti i JSON in `output/`
+2. Costruisce una cache dagli articoli che hanno già i formati (evita chiamate API sui duplicati)
+3. Per i rimanenti chiama DeepSeek (solo quelli davvero nuovi)
+4. Riscrive ogni JSON con `thread_text` e `video_script`
+5. Ricostruisce `frontend/data.js` deduplicato e ordinato per data
+
+**Output atteso:**
+```
+File senza formati: 11 / 226
+Formati già in cache (da duplicati): 40 slug unici
+
+[1/11] Titolo articolo... OK (API)
+...
+
+frontend/data.js aggiornato con 44 articoli unici (era 226 con duplicati).
+```
+
+> ⚠️ Richiede `DEEPSEEK_API_KEY` nel file `.env`. Costa pochi centesimi per run (solo per gli articoli davvero nuovi).
+
+---
+
+## 12. Come funziona il layout a due assi
+
+Il frontend (`frontend/index.html`) implementa un layout tipo Instagram Stories + TikTok feed:
+
+```
+SWIPE ORIZZONTALE → slide successiva / precedente (stessa notizia)
+SWIPE VERTICALE   → notizia successiva / precedente
+```
+
+**Struttura HTML:**
+- `.feed` — scroll verticale, una "pagina" per notizia
+- `.story` — scroll orizzontale dentro ogni notizia, una pagina per slide
+- Ogni `.story` contiene 5 `.slide`
+
+**Layout di ogni slide (3 aree verticali):**
+- **Area visual** (50% altezza): gradiente colorato unico per notizia
+- **Area content**: badge "AI NEWS" + titolo in uppercase su sfondo nero
+- **Area info**: dot indicators per la slide attiva + icone like/commento/condividi + caption con data
+
+**CSS chiave:**
+
+```css
+.feed  { scroll-snap-type: y mandatory; overflow-y: scroll; }
+.story { scroll-snap-type: x mandatory; overflow-x: scroll; touch-action: pan-x pan-y; }
+.slide { width: var(--slide-w); height: var(--vh); scroll-snap-align: start; }
+```
+
+> `--slide-w` e `--vh` sono impostati da JS (`document.documentElement.clientWidth` e `window.visualViewport.height`) per correggere comportamenti su Android Chrome con la address bar visibile.
+
+**Comportamento automatico:**
+- Passare a un nuovo articolo resetta automaticamente alla slide 1 (IntersectionObserver con soglia 0.6)
+- Arrivare all'ultima slide e fare swipe → avanza al prossimo articolo

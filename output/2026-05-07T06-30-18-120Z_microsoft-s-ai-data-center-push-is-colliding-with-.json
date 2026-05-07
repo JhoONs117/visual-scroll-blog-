@@ -1,27 +1,25 @@
 {
   "title": "Microsoft’s AI data center push is colliding with its clean power goals",
   "slides": [
-    "La corsa AI di Microsoft minaccia i suoi impegni green?",
-    "Ogni data center consuma acqua per raffreddarsi.",
-    "L'espansione raddoppierà le emissioni entro il 2030.",
-    "Le aziende devono rivedere le strategie energetiche ora.",
-    "Non basta accumulare potenza: serve energia pulita."
+    "Microsoft promises carbon-negative by 2030—can AI growth fit?",
+    "Its data centers now demand massive new power plants.",
+    "Backup diesel generators quietly run far more than disclosed.",
+    "Your cloud AI tools may already run on fossil fuels.",
+    "Check your workload's real carbon impact today."
   ],
   "thread_text": [
-    "Ti stai chiedendo perché la bolletta elettrica globale impazzirà? Colpa di un assistente che usi ogni giorno, e non te ne accorgi.",
-    "Microsoft promette zero emissioni per il 2030, ma intanto i suoi data center bruciano energia come non mai.",
-    "L'intelligenza artificiale ha già triplicato le previsioni di domanda elettrica. Tre volte. In pochi anni.",
-    "Puntano tutto sulle rinnovabili, ma non basteranno. Né solare, né eolico possono star dietro a questa fame.",
-    "Ogni query che fai ha un costo energetico nascosto, e non è sostenibile. Smettila di chiedere cose inutili all'AI: non è magia, è un termovalorizzatore."
+    "I backup diesel dei data center Microsoft girano molto più di quanto dichiarato. Una crepa nel piano carbon-negative.",
+    "Microsoft prometteva di diventare carbon-negative entro il 2030. Oggi i suoi data center richiedono nuove centrali elettriche enormi.",
+    "I generatori diesel sono i veri responsabili. Accesi in silenzio, ben oltre i report ufficiali. I tuoi tool AI cloud potrebbero già funzionare a combustibili fossili.",
+    "Questa discrepanza non è solo greenwashing. Significa che ogni query AI ha un costo ambientale reale che nessuno calcola.",
+    "Verifica l'impatto reale del tuo carico di lavoro oggi. I dati sono nelle tue mani, non nei comunicati stampa."
   ],
   "video_script": [
-    "Il tuo assistente preferito sta facendo esplodere il contatore elettrico globale.",
-    "Microsoft promette emissioni zero entro il 2030.",
-    "Ma i loro data center consumano energia senza freni.",
-    "L'AI ha già triplicato la domanda di elettricità prevista.",
-    "Le rinnovabili non bastano per questa fame assurda.",
-    "Ogni query che fai ha un costo nascosto enorme.",
-    "Quindi, la prossima volta, pensaci due volte prima di chiedere cose inutili."
+    "I backup diesel girano più del previsto.",
+    "Microsoft promette carbon-negative ma servono centrali.",
+    "I tuoi tool AI usano già fossili.",
+    "Controlla subito il tuo impatto.",
+    "I dati parlano chiaro."
   ],
   "savedAt": "2026-05-07T06:30:18.120Z"
 }

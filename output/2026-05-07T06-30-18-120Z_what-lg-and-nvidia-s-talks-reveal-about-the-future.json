@@ -1,25 +1,25 @@
 {
   "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
   "slides": [
-    "LG+Nvidia talks show AI moving into physical world.",
-    "Physical AI controls robots, factories, not just screens.",
-    "It makes machines smarter, faster, safer without human.",
-    "Train virtual models to run real hardware instantly.",
-    "Factory robots already learn from cloud simulations."
+    "LG e NVIDIA discutono di AI fisica: la sfida è invisibile?",
+    "Servono nuovi chip per macchine che vedono e agiscono.",
+    "L'accordo segreto punta a robot che imparano da soli.",
+    "Le fabbriche LG potrebbero diventare autonome entro 5 anni.",
+    "Controlla i brevetti: la corsa è già iniziata senza clamore."
   ],
   "thread_text": [
-    "L’AI sta per uscire dagli schermi. E quando lo farà, tutto cambierà.",
-    "Non più solo chatbot o generazione di immagini. Parliamo di robot che vedono, decidono e agiscono da soli.",
-    "Il trucco? I modelli vengono addestrati nel cloud, poi trasferiti su hardware reale. Zero rischi in fabbrica.",
-    "LG e Nvidia stanno già testando questa cosa. Robot che imparano in simulazione e lavorano nel mondo fisico.",
-    "Tra pochi anni, la fabbrica che funziona senza un umano sarà la norma, non l’eccezione."
+    "Un accordo segreto tra LG e NVIDIA punta a robot che imparano da soli. Nessuno ne parla, ma la posta in gioco è enorme.",
+    "Il problema oggi è che le macchine vedono, ma non agiscono. Per farlo servono chip nuovi, capaci di elaborare il mondo fisico in tempo reale.",
+    "LG ha già iniziato a testare questi sistemi nelle sue fabbriche. L'obiettivo dichiarato: renderle completamente autonome entro 5 anni.",
+    "Il punto è che senza una nuova architettura hardware, nessun software sarà mai abbastanza veloce. E loro lo sanno.",
+    "Controlla i brevetti depositati da LG e NVIDIA negli ultimi 12 mesi. La corsa è iniziata senza rumore, ma chi arriva primo decide le regole."
   ],
   "video_script": [
-    "L’AI non sta più solo nei computer.",
-    "Entra nei robot e nelle fabbriche.",
-    "Li rende più veloci, sicuri e autonomi.",
-    "Si addestra nel cloud e funziona subito.",
-    "LG e Nvidia lo stanno già facendo."
+    "C'è un accordo segreto tra LG e NVIDIA.",
+    "Puntano a robot che imparano da soli.",
+    "Oggi le macchine vedono ma non agiscono.",
+    "Servono chip nuovi per questo.",
+    "LG vuole fabbriche autonome in 5 anni."
   ],
   "savedAt": "2026-05-07T06:30:18.120Z"
 }

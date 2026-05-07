@@ -1,25 +1,25 @@
 {
   "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
   "slides": [
-    "AI analyses height and bone structure",
-    "Detects underage users accurately",
-    "Stops kids lying about age",
-    "For safety and parental control",
-    "Meta tests on teen accounts now"
+    "Meta ora scansiona ossa e altezza per età reali.",
+    "Riconosce bambini che mentono sulla data di nascita.",
+    "Ma l'algoritmo sbaglia più spesso su certi gruppi?",
+    "Se menti sull'età, il tuo profilo potrebbe essere bloccato.",
+    "Controlla oggi se i tuoi dati biometrici sono al sicuro."
   ],
   "thread_text": [
-    "Se un AI può misurare le tue ossa per sapere quanti anni hai, il filtro età di Internet è finito.",
-    "Non serve più mentire sulla data di nascita: l'AI guarda altezza e struttura ossea dal volto.",
-    "I test di Meta arrivano sugli account teen: se il sistema rileva un underage, scatta il blocco.",
-    "Per i genitori è una svolta: controllo reale, non solo la parola del figlio.",
-    "La privacy contro la sicurezza: fino a che punto lasciamo che un AI ci categorizzi?"
+    "Meta scansiona ossa e altezza per stimare la tua età reale. Se menti sulla data di nascita, l'algoritmo può bloccarti il profilo.",
+    "Il problema: questi sistemi non sono precisi per tutti. Alcuni studi mostrano che l'algoritmo sbaglia più spesso su certi gruppi etnici.",
+    "Meta lo sta testando per proteggere i minori. Ma se l'AI ti classifica male, rischi di perdere l'accesso all'account senza un motivo valido.",
+    "La procedura è già attiva in alcuni paesi. Scansionano dati biometrici – ossa e altezza – per confrontarli con l'età dichiarata.",
+    "Hai mai dato il consenso a Meta per usare i tuoi dati biometrici? Controlla oggi nelle impostazioni privacy se l'opzione è abilitata."
   ],
   "video_script": [
-    "L’AI adesso legge la struttura ossea dal viso.",
-    "Sa se sei minorenne anche se menti.",
-    "Meta lo sta testando sui teen account.",
-    "Addio filtri età farlocchi.",
-    "La sicurezza dei bambini cambia per sempre."
+    "Meta scansiona le tue ossa per sapere quanti anni hai.",
+    "Se menti sulla data di nascita, ti bloccano il profilo.",
+    "Ma l'algoritmo sbaglia più spesso su certi gruppi etnici.",
+    "Rischia di classificare male anche te se non corrispondi ai parametri.",
+    "Controlla ora se hai autorizzato la scansione dei tuoi dati biometrici."
   ],
   "savedAt": "2026-05-06T10:10:03.362Z"
 }

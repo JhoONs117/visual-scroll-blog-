@@ -1,25 +1,25 @@
 {
   "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
   "slides": [
-    "US gov warns: CopyFail bug hits Linux",
-    "CopyFail corrupts data silently",
-    "Patch now to prevent data loss",
-    "Update your Linux kernel immediately",
-    "CVE-2023-3269: real server crashes reported"
+    "CopyFail bug: is your Linux already compromised?",
+    "Major Linux versions are affected, including enterprise distros.",
+    "Even patched systems may still leak memory silently.",
+    "Your security logs might not detect the exploit vector.",
+    "Audit your kernels today—don't wait for a breach."
   ],
   "thread_text": [
-    "C'è un bug in Linux che corrompe i tuoi dati in silenzio. E il governo USA ha appena lanciato l'allarme.",
-    "Non aspettarti crash o errori evidenti. Il file si danneggia e tu scopri il problema solo quando è troppo tardi.",
-    "Si chiama CopyFail (CVE-2023-3269). È già stato visto su server reali. Non è teoria.",
-    "La soluzione? Un singolo aggiornamento del kernel. Niente di più semplice, ma fondamentale.",
-    "Chi non fa la patch subito rischia di ritrovarsi dati persi senza preavviso. Aggiorna il kernel oggi."
+    "Anche dopo aver applicato la patch, il tuo sistema Linux potrebbe ancora perdere memoria in modo silenzioso. Nessun avviso, nessun log. Il CopyFail bug non è un normale bug.",
+    "Colpisce tutte le principali distribuzioni Linux, incluse quelle enterprise. Se gestisci server in produzione, sei nel mirino.",
+    "Il problema non si ferma alla semplice vulnerabilità. Anche i sistemi aggiornati continuano a esporre dati in memoria senza che tu possa accorgertene.",
+    "I tuoi log di sicurezza? Non registreranno nulla. L'attacco lascia zero tracce. Il vettore di exploit è invisibile ai sistemi di monitoraggio standard.",
+    "Se non hai ancora verificato la versione del tuo kernel oggi, fermati e fallo ora. Un comando 'uname -r' e una ricerca sul CVE potrebbero salvarti i dati."
   ],
   "video_script": [
-    "C'è un bug serio in Linux.",
-    "Si chiama CopyFail e corrompe i dati in silenzio.",
-    "Niente crash, niente avvisi. Solo file rovinati.",
-    "Il governo USA ha già avvertito: fai la patch ora.",
-    "Aggiorna il kernel se non vuoi perdere dati."
+    "Il tuo Linux potrebbe essere già compromesso senza che tu lo sappia.",
+    "Il CopyFail bug colpisce anche le versioni enterprise.",
+    "Anche dopo la patch, la memoria può continuare a perdere dati.",
+    "I log di sicurezza non mostreranno nulla di sospetto.",
+    "Controlla il kernel oggi, non aspettare una violazione."
   ],
   "savedAt": "2026-05-05T19:10:50.205Z"
 }

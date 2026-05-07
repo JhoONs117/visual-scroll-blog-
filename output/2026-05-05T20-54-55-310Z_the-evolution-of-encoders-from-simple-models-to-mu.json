@@ -1,30 +1,25 @@
 {
   "title": "The evolution of encoders: From simple models to multimodal AI",
   "slides": [
-    "Encoders started as simple text models",
-    "They turn data into numbers",
-    "Better data means better AI",
-    "Train yours on different inputs",
-    "Multimodal encoders understand text, images, audio"
+    "Encoders were simple—now they see, hear, and read?",
+    "They once processed only text, one step at a time.",
+    "Today, a single encoder fuses image, sound, and words.",
+    "Your AI app must now integrate multiple data types.",
+    "Stop treating modalities separately: unify your input pipeline."
   ],
   "thread_text": [
-    "Ogni AI che hai usato inizia con un gesto banale: trasformare una frase in numeri. No, non è magia. È qualcosa di più sporco e potente.",
-    "Quel passaggio da testo a numeri è tutto. Chiamano gli strumenti 'encoder'. Una volta erano solo per le parole. Oggi fanno molto di più.",
-    "Addestrare un encoder su dati di qualità cambia tutto. Un modello che capisce male i numeri produce risposte sbagliate. Sembra ovvio, ma è il segreto più ignorato.",
-    "Puoi addestrarne uno tuo. Su testi, su immagini, su suoni. Inserisci dati diversi e lui impara a tradurli nello stesso linguaggio numerico.",
-    "Un encoder multimodale oggi capisce tutto insieme: ciò che leggi, ciò che vedi, ciò che ascolti. Il futuro dell'AI è lì: un unico cervello che traduce la realtà."
+    "Un singolo encoder oggi elabora testo, immagini e audio contemporaneamente. Non tre modelli separati, ma uno solo per tutte le modalità.",
+    "Fino a poco fa gli encoder erano specializzati: uno per il testo, uno per le immagini, uno per il suono. Ogni tipo di dato richiedeva il suo modello dedicato.",
+    "Ora la svolta: un unico encoder unificato processa simultaneamente immagini, suoni e parole. Niente più pipeline separate, niente più sincronizzazione tra modelli diversi.",
+    "La conseguenza diretta: se la tua app non integra già più tipi di dati in un unico passaggio, stai perdendo efficienza e accuratezza rispetto a chi lo fa.",
+    "I modelli multimodali unificati costano meno da addestrare e girano più veloci in produzione. Prova a unificare il tuo input pipeline la prossima settimana."
   ],
   "video_script": [
-    "Partiamo da un concetto semplice.",
-    "Ogni AI traduce dati in numeri.",
-    "È così che capisce il mondo.",
-    "Prima solo testi, ora anche immagini.",
-    "E anche l'audio viene trasformato.",
-    "Quindi input diversi, un unico sistema.",
-    "Più dati hai, più è intelligente.",
-    "Ma la qualità conta più della quantità.",
-    "Puoi addestrarne uno tu stesso.",
-    "Inizia con ciò che hai a portata."
+    "Ora un unico encoder gestisce testo, immagini e audio.",
+    "Prima servivano tre modelli separati per ogni tipo di dato.",
+    "La novità è che tutto passa in un unico passaggio.",
+    "Se non unisci i tuoi dati, resti indietro.",
+    "Costa meno ed è più veloce. Provalo."
   ],
   "savedAt": "2026-05-05T20:54:55.310Z"
 }

@@ -1,25 +1,25 @@
 {
   "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
   "slides": [
-    "La tua morale decide il tuo iPhone?",
-    "Apple sceglierà l'AI in base alle tue preferenze.",
-    "Nessuna azienda l'ha mai fatto prima.",
-    "Scegli tu il modello AI per ogni azione.",
-    "Personalizza il tuo assistente: poteri o limiti?"
+    "iOS 27: Apple lascia scegliere il tuo modello AI?",
+    "Non più solo Siri: più provider possibili",
+    "Ma Gemini e ChatGPT restano fuori dal sistema",
+    "Sviluppatori: dovrai adattare le tue app",
+    "Scegli ora: vincola o perdi l'ecosistema"
   ],
   "thread_text": [
-    "Stai per vedere il tuo iPhone scegliere da solo quale intelligenza artificiale usare ogni giorno. Senza chiederti niente.",
-    "Apple non sta costruendo un unico cervello centrale. Sta costruendo un sistema che cambia modello in base a cosa stai facendo.",
-    "Foto, messaggi, mappe, email. Ogni task potrebbe avere il suo motore migliore. E il telefono lo capisce da solo.",
-    "Niente più attese per un aggiornamento che ti porti una nuova AI. Il sistema si adatta in tempo reale.",
-    "Apri l'app Note, dettali un compito, poi confronta le risposte con quello che vedi in Safari. Inizierai a vedere il meccanismo."
+    "Il giorno in cui Apple ti chiederà di scegliere il modello AI preferito, Gemini e ChatGPT non saranno tra le opzioni. Lo dice la nuova beta di iOS 27.",
+    "Apple vuole che Siri non sia più sola, ma i colossi esterni restano fuori. Il sistema operativo supporterà solo provider selezionati",
+    "Per gli sviluppatori questa è una svolta obbligata. Le loro app dovranno interfacciarsi con il nuovo layer AI system, non col singolo provider",
+    "La scelta del modello non sarà libera: una volta deciso, i dati restano vincolati a quel provider. Cambiare significa perdere la cronologia",
+    "Se sviluppi un'app con funzioni AI, devi già testare la compatibilità col nuovo sistema. iOS 27 arriva tra sei mesi."
   ],
   "video_script": [
-    "Il tuo iPhone cambierà cervello ogni giorno.",
-    "Apple sceglierà il modello giusto per te.",
-    "Non un solo motore, ma tanti diversi.",
-    "Niente più aggiornamenti lenti da aspettare.",
-    "Fai questo test: chiedi e confronta le risposte."
+    "Apple ti fa scegliere il tuo modello AI",
+    "Ma Gemini e ChatGPT non ci saranno",
+    "Solo qualche provider selezionato da Apple",
+    "Gli sviluppatori dovranno riscrivere le app",
+    "Scegli adesso o perdi i tuoi dati"
   ],
   "savedAt": "2026-05-06T13:47:46.346Z"
 }

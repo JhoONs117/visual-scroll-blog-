@@ -1,1111 +1,1109 @@
 window.ARTICLES = [
   {
-    "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+    "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
     "slides": [
-      "a16z scommette forte su Ethos: 22,75 milioni.",
-      "Collega esperti a chiamata, non via chat.",
-      "Voice onboarding: un tocco umano nella Gig Economy.",
-      "Per consulenti e fondi: risposte rapide, non pdf.",
-      "Se non usi la voce, perdi il vantaggio competitivo."
+      "LG e NVIDIA discutono di AI fisica: la sfida è invisibile?",
+      "Servono nuovi chip per macchine che vedono e agiscono.",
+      "L'accordo segreto punta a robot che imparano da soli.",
+      "Le fabbriche LG potrebbero diventare autonome entro 5 anni.",
+      "Controlla i brevetti: la corsa è già iniziata senza clamore."
     ],
     "thread_text": [
-      "Hai mai pagato una consulenza e ricevuto solo un PDF? Io sì, e non è servito a niente.",
-      "Ethos ha appena raccolto 22,75 milioni da a16z per cambiare le regole. Collegano esperti vocali, non via chat.",
-      "Il voice onboarding aggiunge un tocco umano alla gig economy, dove servono risposte rapide, non documenti.",
-      "Per consulenti e fondi significa avere soluzioni in tempo reale, senza perdere ore a leggere report.",
-      "Se non usi la voce, perdi il vantaggio competitivo. La velocità di risposta è tutto nel business."
+      "Un accordo segreto tra LG e NVIDIA punta a robot che imparano da soli. Nessuno ne parla, ma la posta in gioco è enorme.",
+      "Il problema oggi è che le macchine vedono, ma non agiscono. Per farlo servono chip nuovi, capaci di elaborare il mondo fisico in tempo reale.",
+      "LG ha già iniziato a testare questi sistemi nelle sue fabbriche. L'obiettivo dichiarato: renderle completamente autonome entro 5 anni.",
+      "Il punto è che senza una nuova architettura hardware, nessun software sarà mai abbastanza veloce. E loro lo sanno.",
+      "Controlla i brevetti depositati da LG e NVIDIA negli ultimi 12 mesi. La corsa è iniziata senza rumore, ma chi arriva primo decide le regole."
     ],
     "video_script": [
-      "a16z investe 22 milioni in Ethos.",
-      "Esperti in chiamata, non in chat.",
-      "Voice onboarding, tocco umano diretto.",
-      "Consulenti vogliono risposte rapide, non pdf.",
-      "Senza voce, perdi il vantaggio competitivo."
+      "C'è un accordo segreto tra LG e NVIDIA.",
+      "Puntano a robot che imparano da soli.",
+      "Oggi le macchine vedono ma non agiscono.",
+      "Servono chip nuovi per questo.",
+      "LG vuole fabbriche autonome in 5 anni."
+    ],
+    "savedAt": "2026-05-07T06:30:18.120Z"
+  },
+  {
+    "title": "US government increases AI suppliers and rethinks Anthropic’s role",
+    "slides": [
+      "US government expands AI suppliers—will Anthropic lose its edge?",
+      "New vendors mean more competition for federal contracts.",
+      "Anthropic’s safety focus might now hurt its market share.",
+      "You must track who wins next to predict AI regulation shifts.",
+      "Check agency awards today: your compliance strategy depends on it."
+    ],
+    "thread_text": [
+      "Anthropic ha puntato tutto sulla sicurezza. Ora rischia di perdere i contratti federali perché il governo allarga i fornitori AI.",
+      "Fino a ieri essere i più 'safe' era un vantaggio. Oggi il governo vuole più competizione—e più opzioni.",
+      "Nuovi vendor vincono gare che Anthropic dava per scontate. Il suo posizionamento ethics-first non basta più.",
+      "Se Anthropic perde quote, le regole sull'AI safety potrebbero cambiare. Chi vince decide le priorità.",
+      "Controlla gli award delle agenzie questa settimana. La tua compliance dipende da chi firma il prossimo contratto."
+    ],
+    "video_script": [
+      "Anthropic rischia di perdere i contratti federali.",
+      "Il governo allarga i fornitori AI, più competizione.",
+      "Essere il più sicuro non basta più.",
+      "Chi vince decide le nuove regole.",
+      "Controlla gli award, è strategico per te."
+    ],
+    "savedAt": "2026-05-07T06:30:18.120Z"
+  },
+  {
+    "title": "SAP: How enterprise AI governance secures profit margins",
+    "slides": [
+      "SAP's AI governance just saved a client's margin.",
+      "Half of enterprise AI projects never go live.",
+      "Their compliance automation caught a hidden risk.",
+      "Your next audit might already be shaped by it.",
+      "Test your own governance gap before quarter closes."
+    ],
+    "thread_text": [
+      "Mezzo milione perso su un contrato. L'AI ha trovato un rischio che nessuno aveva visto.",
+      "Il 50% dei progetti AI non arriva in produzione. Il problema non è la tecnologia, ma la governance.",
+      "SAP ha automatizzato la conformità normativa. Un cliente ha scoperto un errore che gli costava margini.",
+      "Tra pochi mesi, le tue revisioni potrebbero essere già influenzate da questo tipo di controllo automatico.",
+      "Scopri se il tuo team è dentro quel 50%. Fai il test governance e chiudi il trimestre in sicurezza."
+    ],
+    "video_script": [
+      "Un cliente ha perso mezzo milione in rischi nascosti.",
+      "La governance AI li ha salvati all'ultimo minuto.",
+      "Metà dei progetti AI fallisce in azienda.",
+      "Non è colpa della tecnologia ma delle regole.",
+      "Testa il tuo divario di governance prima che il mese chiuda."
+    ],
+    "savedAt": "2026-05-07T06:30:18.120Z"
+  },
+  {
+    "title": "Physical AI raises governance questions for autonomous systems",
+    "slides": [
+      "Chi governa quando un robot decide da solo?",
+      "I sistemi fisici ora agiscono senza intervento umano",
+      "Un veicolo autonomo ha già scelto chi salvare",
+      "Il tuo prossimo impianto produttivo potrebbe non averti bisogno",
+      "Leggi esistenti? Non coprono questa responsabilità"
+    ],
+    "thread_text": [
+      "Un veicolo autonomo ha già dovuto scegliere chi salvare in un incidente. Il codice ha deciso al posto di un essere umano. Nessuno ha firmato quella decisione.",
+      "Ora immagina una fabbrica in cui i robot gestiscono produzione, logistica e controlli senza alcun intervento umano. Non è un esperimento: è già realtà in alcuni impianti.",
+      "Il problema è che quando un sistema fisico prende una decisione autonoma, non c'è un responsabile chiaro. Il proprietario? Il produttore? Il software? Le leggi attuali non rispondono.",
+      "E le conseguenze sono concrete: incidenti, danni economici, violazioni etiche senza un colpevole individuabile. I tribunali non sanno come gestirlo.",
+      "Se il tuo settore usa già automazione, verifica ora chi è legalmente responsabile per ogni decisione autonoma. Se non c'è una risposta, sei esposto."
+    ],
+    "video_script": [
+      "Un veicolo ha deciso chi salvare.",
+      "Nessun umano ha scelto.",
+      "Robot in fabbrica senza controllo.",
+      "Le leggi non coprono questo.",
+      "Chi paga se sbagliano?"
+    ],
+    "savedAt": "2026-05-07T06:30:18.120Z"
+  },
+  {
+    "title": "Microsoft’s AI data center push is colliding with its clean power goals",
+    "slides": [
+      "Microsoft promises carbon-negative by 2030—can AI growth fit?",
+      "Its data centers now demand massive new power plants.",
+      "Backup diesel generators quietly run far more than disclosed.",
+      "Your cloud AI tools may already run on fossil fuels.",
+      "Check your workload's real carbon impact today."
+    ],
+    "thread_text": [
+      "I backup diesel dei data center Microsoft girano molto più di quanto dichiarato. Una crepa nel piano carbon-negative.",
+      "Microsoft prometteva di diventare carbon-negative entro il 2030. Oggi i suoi data center richiedono nuove centrali elettriche enormi.",
+      "I generatori diesel sono i veri responsabili. Accesi in silenzio, ben oltre i report ufficiali. I tuoi tool AI cloud potrebbero già funzionare a combustibili fossili.",
+      "Questa discrepanza non è solo greenwashing. Significa che ogni query AI ha un costo ambientale reale che nessuno calcola.",
+      "Verifica l'impatto reale del tuo carico di lavoro oggi. I dati sono nelle tue mani, non nei comunicati stampa."
+    ],
+    "video_script": [
+      "I backup diesel girano più del previsto.",
+      "Microsoft promette carbon-negative ma servono centrali.",
+      "I tuoi tool AI usano già fossili.",
+      "Controlla subito il tuo impatto.",
+      "I dati parlano chiaro."
+    ],
+    "savedAt": "2026-05-07T06:30:18.120Z"
+  },
+  {
+    "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
+    "slides": [
+      "Half of EMEA AI pilots never reach production.",
+      "CIOs blame fragmented data, not the technology.",
+      "One bank deployed a working model in six weeks.",
+      "Start with one clean dataset instead of trying all.",
+      "Your first live pilot is the only proof you need."
+    ],
+    "thread_text": [
+      "Un modello AI funzionante in produzione in sei settimane. Non è un caso da manuale. È quello che è successo in una banca europea. Il resto del settore? Fermo ai pilot. Il problema non è la tecnologia.",
+      "I CIO europei dicono tutti la stessa cosa: il problema sono i dati. Frammentati, sporchi, bloccati in silos. Non la mancanza di talento o modelli migliori. Il collo di bottiglia è sempre lo stesso.",
+      "Il risultato? La metà dei pilot AI in EMEA non arriva mai in produzione. Non perché non funzionino. Perché provano a scalare prima di aver pulito anche un solo dataset.",
+      "La mossa giusta è fare l'opposto: prendi un solo dataset, puliscilo, e metti un modello in produzione. Subito. Non aspettare di avere tutto pronto. Un dataset pulito batte dieci modelli perfetti.",
+      "Se non hai ancora messo in produzione un modello, sbagli priorità. Il primo live pilot è l'unica prova che conta. Costa meno di un abbonamento Spotify. Trova il dataset più pulito che hai e parti oggi."
+    ],
+    "video_script": [
+      "Una banca ha messo in produzione un modello AI in sei settimane.",
+      "I CIO dicono: il problema sono i dati, non la tecnologia.",
+      "Metà dei pilot AI in EMEA non arriva mai in produzione.",
+      "Inizia con un dataset pulito. Non provare a far tutto.",
+      "Il tuo primo modello live è l'unica prova che conta."
+    ],
+    "savedAt": "2026-05-07T06:30:18.120Z"
+  },
+  {
+    "title": "HP and the art of AI and data for the enterprise",
+    "slides": [
+      "HP sa come domare i tuoi dati caotici?",
+      "Il 70% dei dati aziendali resta inutilizzato",
+      "Ma un modello AI può scoprire valore nascosto",
+      "HP trasforma i dati in decisioni, non in rumore",
+      "Chiedi al tuo IT: quali dati stiamo sprecando?"
+    ],
+    "thread_text": [
+      "Il 70% dei dati della tua azienda è ancora inutilizzato. Stai pagando storage per informazioni che non ti danno nessun ritorno.",
+      "HP ha analizzato questa massa di dati caotici in aziende reali. Il problema non è la quantità, ma l'assenza di un metodo per estrarre ciò che conta.",
+      "Un modello AI addestrato su quei dati può trovare pattern che nessun essere umano vedrebbe. Correlazioni, inefficienze, opportunità nascoste.",
+      "HP trasforma questo flusso in decisioni operative. Non più rumore, ma segnali utilizzabili dai team vendita, produzione, logistics.",
+      "Chiedi al tuo reparto IT: quali dati stiamo raccogliendo ma non stiamo usando? Quella risposta vale più di qualsiasi dashboard."
+    ],
+    "video_script": [
+      "Il 70% dei tuoi dati dorme in magazzino.",
+      "HP ha guardato dentro quel caos.",
+      "Ha trovato pattern che nessuno vedeva.",
+      "E li ha trasformati in decisioni."
+    ],
+    "savedAt": "2026-05-07T06:30:18.120Z"
+  },
+  {
+    "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+    "slides": [
+      "Google tests Remy—but will it obey your orders?",
+      "Remy is an AI agent inside Gemini's app.",
+      "It can book flights and manage tasks autonomously.",
+      "But you still approve every action it takes.",
+      "Control now: test the agent's limits yourself."
+    ],
+    "thread_text": [
+      "Remy è un agente AI che vive dentro l'app di Gemini e sa già prenotare voli e gestire task. Il punto è: può agire per te, ma solo se glielo permetti.",
+      "Google lo sta testando con un progetto chiamato Remy. È dentro l'app Gemini. Non è un plugin o un esperimento separato: è un vero agente autonomo che lavora in background.",
+      "Il bello è che Remy esegue operazioni reali: prenota voli, gestisce calendari, compila moduli. Ma prima di ogni azione, ti chiede conferma. Non fa mai nulla senza il tuo via.",
+      "Il controllo è totale. Tu decidi se e quando intervenire. È come avere un assistente che ti mostra tutto prima di agire. Non un maggiordomo cieco, ma un esecutore che riferisce.",
+      "Ora puoi testare i suoi limiti direttamente. Entra in Gemini, attiva Remy e digli il task che ti sembra più complesso. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore."
+    ],
+    "video_script": [
+      "C'è un nuovo agente AI dentro Gemini.",
+      "Si chiama Remy e prenota voli da solo.",
+      "Ma prima fa vedere tutto e chiede il via.",
+      "Tu controlli ogni singola mossa.",
+      "Provaci oggi e digli il task più assurdo."
+    ],
+    "savedAt": "2026-05-07T06:30:18.120Z"
+  },
+  {
+    "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+    "slides": [
+      "Google vende governance per AI agentica, ma serve a cosa?",
+      "Ogni agente AI oggi opera come un’entità semi-autonoma.",
+      "Le aziende non hanno policy per gestirne le azioni.",
+      "Senza regole, un agente può firmare contratti errati.",
+      "Chi non agisce ora rischia caos operativo legale."
+    ],
+    "thread_text": [
+      "Le aziende non hanno policy per gli agenti AI. Sono semi-autonomi e operano da soli. Questo è già un problema.",
+      "Un agente AI può firmare contratti, acquistare servizi, modificare sistemi. Nessuno controlla cosa fa davvero.",
+      "Google prova a vendere governance per questo caos. Ma la domanda è: chi decide le regole se l'agente decide da solo?",
+      "Se oggi un agente sbaglia un contratto, la responsabilità è tua. Non c'è un 'errore della macchina' che ti salva.",
+      "Chi non definisce ora policy per i propri agenti, tra 12 mesi affronterà contenziosi operativi. Il rischio è concreto."
+    ],
+    "video_script": [
+      "Nessuna azienda ha regole per gli agenti AI.",
+      "Ogni agente decide da solo cosa fare.",
+      "Possono firmare contratti senza controllo umano.",
+      "Google vende governance, ma è solo un cerotto.",
+      "Se non agisci ora, paghi multe tra un anno."
     ],
     "savedAt": "2026-05-07T06:30:18.120Z"
   },
   {
     "title": "Five architects of the AI economy explain where the wheels are coming off",
     "slides": [
-      "L'IA sta fallendo? I suoi stessi architetti lo ammettono.",
-      "Il collo di bottiglia non è la potenza di calcolo.",
-      "Mancano dati reali: i modelli si addestrano su rumore.",
-      "Devi iniziare a verificare ogni output come una scommessa.",
-      "Non fidarti della scala: la qualità è il nuovo oro."
+      "Five architects of the AI economy admit the system is broken.",
+      "Scaling laws behind deep learning are hitting a wall.",
+      "Better hardware and data are raising costs faster than profits.",
+      "This means your next tool may crash—or get expensive fast.",
+      "Audit your AI vendor's real margins before scaling up."
     ],
     "thread_text": [
-      "Ho parlato con chi costruisce l'IA. E indovina? Loro stessi ammettono che sta fallendo.",
-      "Non è un problema di potenza. I chip sono già troppo veloci per quello che abbiamo.",
-      "I dati sono inquinati. Stiamo addestrando modelli su rumore, non su segnali reali.",
-      "Tratta ogni output come una scommessa. Verifica sempre. Non fidarti mai.",
-      "Scalare senza qualità è inutile. Ora vince chi controlla i dati, non chi ne ha di più."
+      "Five architects of the AI economy admit the system is broken.",
+      "The core problem is that scaling deep learning models is hitting a wall. More data and better hardware no longer guarantee better results.",
+      "Costs are rising faster than profits. Every new generation of chips and datasets costs exponentially more, but returns are flattening.",
+      "This means your next AI tool may crash or get expensive fast. Many vendors are running on thin margins and unsustainable growth.",
+      "Audit your AI vendor's real margins before scaling up. If they can't show unit economics, you're the next one paying the price."
     ],
     "video_script": [
-      "I creatori dell'IA dicono che fallisce.",
-      "Il vero problema non sono i chip.",
-      "I dati sono pieni di rumore.",
-      "Devi verificare ogni risposta.",
-      "La qualità batte la scala."
+      "The AI economy is broken, say its own creators.",
+      "Scaling laws are hitting a physical and economic wall.",
+      "Hardware and data costs are exploding, but profits aren't.",
+      "Your favorite AI tool might crash or jack up prices soon.",
+      "Check your vendor's margins before you scale any deeper."
     ],
     "savedAt": "2026-05-07T06:30:18.120Z"
   },
   {
-    "title": "Is xAI a neocloud now?",
+    "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
     "slides": [
-      "xAI ora vende potenza di calcolo come i cloud?",
-      "Un partner rivende GPU a imprese enterprise.",
-      "Non solo per addestrare modelli, ma per tutti.",
-      "Se sei startup, hai accesso a chip top.",
-      "Controlla: la tua infrastruttura è già superata."
+      "Ethos ottiene 22,75 milioni da a16z, ma a quale costo?",
+      "La piattaforma scambia competenze vocali per accesso a esperti.",
+      "Il vero guadagno? Dati vocali per l'AI di a16z.",
+      "Per te, consulente: voce ora vale più del tuo CV.",
+      "Registra il tuo primo insight oggi: il pagamento è la prova."
     ],
     "thread_text": [
-      "Stai ancora comprando server? C'è un'azienda che vende GPU a chiunque. Senza vincoli cloud.",
-      "Un partner rivende potenza di calcolo direttamente alle imprese. Ma non solo per AI: tutto gira.",
-      "Addestri un modello o gestisci la tua CI/CD? Con questi chip il gioco cambia per ogni carico.",
-      "Se sei startup, ora hai accesso a processori che prima erano solo per Big Tech. Livellamento in atto.",
-      "Controlla la tua infrastruttura oggi: se non usi chip di frontiera, hai già perso un round."
+      "Il vero guadagno di Ethos non sono i 22,75 milioni da a16z. Sono le tue registrazioni vocali che finiscono per addestrare la loro AI.",
+      "La piattaforma ti vende accesso a esperti in cambio di competenze vocali. Sembra un patto tra pari, ma il potere è tutto dalla loro parte.",
+      "Per loro, la tua voce è un asset che si scala all'infinito. Per te, è un pagamento una tantum che non vedrai mai più.",
+      "Mentre registri un consiglio, stai cedendo un campione che varrà più del tuo CV. Letteralmente: la firma vocale diventa il tuo biglietto da visita.",
+      "Vuoi entrare nel gioco? Registra il tuo primo insight oggi. Il pagamento è la prova che hai appena messo in vendita il tuo miglior asset."
     ],
     "video_script": [
-      "Sai che ora vendono GPU come noccioline?",
-      "Un partner le rivende a chiunque.",
-      "Non serve solo per addestrare modelli.",
-      "Startup, prendete i chip top ora.",
-      "La tua infrastruttura è già vecchia."
+      "Hai visto che Ethos ha preso 22 milioni da a16z?",
+      "Sembra un accordo normale, ma non lo è.",
+      "Tu dai la tua voce in cambio di esperti.",
+      "Loro la usano per addestrare l'AI.",
+      "La tua voce vale più del tuo CV ora."
     ],
-    "savedAt": "2026-05-06T22:41:09.199Z"
-  },
-  {
-    "title": "Google updates AI search to include quotes from Reddit and other sources",
-    "slides": [
-      "Google sta usando i tuoi post come risposte?",
-      "Ora mostra citazioni da Reddit nei risultati",
-      "Nessun link: le frasi escono dal contesto",
-      "Il tuo contenuto diventa risorsa senza traffico",
-      "Controlla se i tuoi dati sono già inclusi"
-    ],
-    "thread_text": [
-      "Google sta rubando il tuo lavoro e non ti paga?",
-      "Cercano una ricetta? Ora Google mostra un post di Reddit come risposta.",
-      "Non clicchi più: la frase arriva dritta, senza link, senza contesto.",
-      "Il tuo contenuto diventa una risorsa gratis per loro. Zero traffico per te.",
-      "Controlla subito se i tuoi dati sono già dentro. Forse sei già stato usato."
-    ],
-    "video_script": [
-      "Google usa i tuoi post come risposte.",
-      "Ora cita Reddit nei risultati.",
-      "Niente link, frasi fuori contesto.",
-      "Il tuo contenuto diventa carburante gratis.",
-      "Controlla se i tuoi dati sono già lì."
-    ],
-    "savedAt": "2026-05-06T21:03:59.236Z"
-  },
-  {
-    "title": "Microsoft’s AI data center push is colliding with its clean power goals",
-    "slides": [
-      "Microsoft promette emissioni zero entro il 2030.",
-      "I data center AI consumano energia da boom.",
-      "L’IA triplica la domanda elettrica prevista.",
-      "Servono più rinnovabili, ma non bastano.",
-      "Ogni query AI ha un costo nascosto: smettila."
-    ],
-    "thread_text": [
-      "Ti stai chiedendo perché la bolletta elettrica globale impazzirà? Colpa di un assistente che usi ogni giorno, e non te ne accorgi.",
-      "Microsoft promette zero emissioni per il 2030, ma intanto i suoi data center bruciano energia come non mai.",
-      "L'intelligenza artificiale ha già triplicato le previsioni di domanda elettrica. Tre volte. In pochi anni.",
-      "Puntano tutto sulle rinnovabili, ma non basteranno. Né solare, né eolico possono star dietro a questa fame.",
-      "Ogni query che fai ha un costo energetico nascosto, e non è sostenibile. Smettila di chiedere cose inutili all'AI: non è magia, è un termovalorizzatore."
-    ],
-    "video_script": [
-      "Il tuo assistente preferito sta facendo esplodere il contatore elettrico globale.",
-      "Microsoft promette emissioni zero entro il 2030.",
-      "Ma i loro data center consumano energia senza freni.",
-      "L'AI ha già triplicato la domanda di elettricità prevista.",
-      "Le rinnovabili non bastano per questa fame assurda.",
-      "Ogni query che fai ha un costo nascosto enorme.",
-      "Quindi, la prossima volta, pensaci due volte prima di chiedere cose inutili."
-    ],
-    "savedAt": "2026-05-06T21:03:59.236Z"
-  },
-  {
-    "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
-    "slides": [
-      "La tua startup AI è già stata hackerata?",
-      "Braintrust conferma: violazione dati avvenuta.",
-      "Hanno chiesto a TUTTI i clienti di cambiare chiavi.",
-      "Controlla ora i tuoi token: potrebbero essere esposti.",
-      "Non aspettare domani: ruota tutte le credenziali sensibili."
-    ],
-    "thread_text": [
-      "Qualcuno ha già bucato la vostra AI e voi non lo sapete ancora.",
-      "Braintrust ha appena confermato una violazione dati. Non è un avviso ipotetico.",
-      "Hanno chiesto a tutti i clienti di cambiare le chiavi. Subito. Senza eccezioni.",
-      "Se non avete mai controllato i vostri token AI, potrebbero essere già pubblici.",
-      "Non aspettate domani. Ruotate oggi tutte le credenziali sensibili. Il danno è reale."
-    ],
-    "video_script": [
-      "La tua startup AI è già stata hackerata.",
-      "Braintrust ha appena confermato la violazione.",
-      "Hanno chiesto a tutti di cambiare le chiavi.",
-      "Controlla subito i tuoi token.",
-      "Ruota tutte le credenziali sensibili oggi."
-    ],
-    "savedAt": "2026-05-06T19:24:59.578Z"
-  },
-  {
-    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-    "slides": [
-      "Musk left OpenAI because he wanted control.",
-      "Brockman says Musk wanted majority board seats.",
-      "Musk proposed merging OpenAI into Tesla instead.",
-      "You don't need board power to shape AI.",
-      "Ask: Do your founders share your mission?"
-    ],
-    "thread_text": [
-      "Elon Musk wanted control of OpenAI. So he left. And then he proposed merging it into Tesla.",
-      "Brockman confirmed: Musk wanted a majority of the board seats. Not influence. Control.",
-      "When he didn't get it, he suggested making OpenAI a division of Tesla. A subsidiary.",
-      "The lesson? You don't need a board seat to shape AI. You need a mission.",
-      "Ask yourself: do your founders actually share your mission? Or do they just want control?"
-    ],
-    "video_script": [
-      "Elon wanted control of OpenAI.",
-      "So he walked out.",
-      "Then he tried to merge it into Tesla.",
-      "You don't need a board seat to shape AI.",
-      "Do your founders share your mission?"
-    ],
-    "savedAt": "2026-05-06T19:24:59.578Z"
-  },
-  {
-    "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-    "slides": [
-      "Il tuo magazzino è già obsoleto senza capirlo.",
-      "Genesis AI costruisce robot, software e intelligenza.",
-      "Non vendono solo bracci: controllano l'intera fabbrica.",
-      "Riduci costi operativi del 30% in tre mesi.",
-      "Chiedi una demo: vedi se reggono il confronto."
-    ],
-    "thread_text": [
-      "Se il tuo magazzino sembra funzionare, è il momento più pericoloso. Non vedi il collo di bottiglia perché non esiste ancora. Ma quando lo vedrai, sarà troppo tardi.",
-      "Genesis AI non è un'altra startup di bracci robotici. Hanno costruito un sistema che unisce robot, software e una forma di intelligenza che decide da sola cosa fare.",
-      "Non ti vendono un pezzo di macchinario. Ti danno il controllo dell'intera fabbrica: dalla logistica alla produzione, senza che tu debba micromanageare ogni singolo movimento.",
-      "In tre mesi hanno tagliato i costi operativi del 30% in aziende che sembravano già efficienti. Non è un risparmio marginale, è un cambio di paradigma nei margini.",
-      "Se gestisci un impianto, non credere alle slide. Chiedi una demo e confronta i numeri reali con quello che fai oggi. Potresti scoprire che il tuo concorrente l'ha già fatto."
-    ],
-    "video_script": [
-      "Il tuo magazzino è già obsoleto.",
-      "Genesis AI costruisce robot e cervelli.",
-      "Non solo bracci: tutta la fabbrica.",
-      "Costi giù del 30% in tre mesi.",
-      "Chiedi demo, non fidarti delle slide."
-    ],
-    "savedAt": "2026-05-06T19:24:59.578Z"
-  },
-  {
-    "title": "AI boom pushes Samsung to $1T",
-    "slides": [
-      "Samsung vale davvero 1.000 miliardi?",
-      "L'AI spinge la domanda di chip HBM.",
-      "Ma vende meno della metà di SK Hynix.",
-      "Azionisti: aspettatevi utili record ora.",
-      "Vendere ora o comprare? Decidi sui dati."
-    ],
-    "thread_text": [
-      "Qualcuno dice che Samsung vale 1.000 miliardi. Spoiler: non è vero.",
-      "L’AI sta facendo volare la domanda di chip HBM. Samsung c’è, ma arranca.",
-      "Il problema è che vende meno della metà di SK Hynix in questo mercato.",
-      "Gli azionisti sognano utili record. Arriveranno, ma non per miracolo.",
-      "Vendere o comprare? I dati dicono che il potenziale c’è, il presente no."
-    ],
-    "video_script": [
-      "Samsung vale davvero mille miliardi?",
-      "No, l’AI spinge gli HBM.",
-      "Ma Samsung vende la metà di SK Hynix.",
-      "Utili record in arrivo per gli azionisti.",
-      "Decidi sui dati: vendere o comprare."
-    ],
-    "savedAt": "2026-05-06T17:28:18.758Z"
-  },
-  {
-    "title": "HP and the art of AI and data for the enterprise",
-    "slides": [
-      "HP conosce i tuoi dati meglio di te?",
-      "Solo il 30% delle aziende usa dati per AI.",
-      "HP trasforma dati sporchi in decisioni reali.",
-      "Non serve più inseguire ogni nuovo modello.",
-      "Allinea dati, AI e obiettivi: vinci."
-    ],
-    "thread_text": [
-      "Le aziende sanno cosa compri. HP sa cosa pensi. Ecco come.",
-      "Il problema non è la mancanza di dati. Il problema è che il 70% delle aziende li ignora.",
-      "HP trasforma dati sporchi in decisioni che funzionano. Non serve pulire tutto, serve sapere cosa cercare.",
-      "Smetti di rincorrere ogni nuovo modello. La differenza la fa come usi quello che hai.",
-      "Dati allineati con gli obiettivi giusti battono sempre l'AI più recente. Vinci così."
-    ],
-    "video_script": [
-      "Hp sa cosa pensi prima di te.",
-      "Solo tre aziende su dieci usano dati per davvero.",
-      "I dati sporchi diventano decisioni vincenti.",
-      "Basta inseguire l'ultimo modello.",
-      "Allinea i dati e vinci."
-    ],
-    "savedAt": "2026-05-06T17:28:18.758Z"
-  },
-  {
-    "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-    "slides": [
-      "Match Group taglia assunzioni per pagare l’AI.",
-      "Usa AI per moderare contenuti e match.",
-      "I bot ora rispondono al posto degli umani.",
-      "Rischio di perdere contatto con gli utenti.",
-      "Monitora l’impatto: l’AI non è tutto."
-    ],
-    "thread_text": [
-      "Match Group ha appena smesso di assumere. Per pagare l’intelligenza artificiale.",
-      "La usano per moderare conversazioni, scegliere i match e rispondere ai messaggi al posto tuo.",
-      "Un bot ora ti scrive per conto di un altro essere umano. Non lo sai. Loro scommettono che non ti accorga della differenza.",
-      "Il problema è che più deleghiamo all'AI, meno capiamo cosa vogliono davvero le persone.",
-      "L'algoritmo non è un sostituto dell'istinto. Se perdi il contatto con l'utente, perdi tutto."
-    ],
-    "video_script": [
-      "Match Group ha bloccato le assunzioni.",
-      "Per pagare l'intelligenza artificiale.",
-      "La usano per moderare e fare match.",
-      "Ora i bot rispondono al posto degli umani.",
-      "Rischiano di perdere il contatto con gli utenti.",
-      "L'AI non risolve tutto."
-    ],
-    "savedAt": "2026-05-06T17:28:18.758Z"
+    "savedAt": "2026-05-07T06:30:18.120Z"
   },
   {
     "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
     "slides": [
-      "They spent billions. It worked. Now pay more.",
-      "Infrastructure spending finally shows real AI gains.",
-      "Profits rose. Yet they demand even bigger budgets next quarter.",
-      "You'll pay higher prices for the same tools now.",
-      "Don't fund their expansion. Build leaner alternatives."
+      "Big Tech just proved AI infrastructure spending works.",
+      "Capital expenditure hit records—but profit margins shrank.",
+      "Revenue grew, yet costs rose faster than anyone expected.",
+      "Your cloud budget will likely double within two years.",
+      "Audit your AI costs now before they become unmanageable."
     ],
     "thread_text": [
-      "Hanno speso miliardi. Ha funzionato. Ora tocca a te pagare il conto.",
-      "L'infrastruttura ha portato guadagni reali all'IA, ma il costo lo scaricano su di te.",
-      "Profitti alle stelle. Loro chiedono budget ancora più grandi. Tu paghi di più.",
-      "Stessi strumenti, prezzo più alto. Il 'miglioramento' è solo una scusa per alzare il ticket.",
-      "Non finanziare la loro espansione. Costruisci alternative più snelle. Il futuro è tuo."
+      "Revenue grew, but costs rose faster than anyone expected. That’s the hidden story behind every Big Tech AI announcement.",
+      "Companies spent record amounts on data centers and chips. Profit margins took the hit—not growth metrics.",
+      "The pattern is clear: the infrastructure bet is paying off in usage, not efficiency. You scale, but costs scale faster.",
+      "Your own cloud budget? It’s not immune. Analysts predict it will double within two years, just to keep pace.",
+      "Audit your AI costs now. Pick one workload, measure its full spend, and decide if it’s worth it—before next quarter."
     ],
     "video_script": [
-      "Hanno speso miliardi. Ha funzionato. Ora paghi di più.",
-      "L'infrastruttura ha dato frutti, ma i costi li scaricano su di te.",
-      "Profitti alti, chiedono budget ancora più grandi.",
-      "Stesso tool, prezzo più alto. Non è miglioramento, è scusa.",
-      "Non finanziare la loro espansione. Costruisci alternative leggere."
+      "Revenue grew, but costs exploded faster.",
+      "Big Tech spent record money on AI infrastructure.",
+      "Profit margins shrank despite all that revenue.",
+      "Your cloud budget will double in two years.",
+      "Audit your AI costs today, not tomorrow."
     ],
-    "savedAt": "2026-05-06T12:53:19.970Z"
+    "savedAt": "2026-05-07T06:30:18.120Z"
   },
   {
-    "title": "US government increases AI suppliers and rethinks Anthropic’s role",
+    "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
     "slides": [
-      "Il governo USA cambia fornitore AI. Perché ora?",
-      "Anthropic perde il ruolo di partner esclusivo",
-      "Nuovi contratti vanno a startup più piccole",
-      "Chi lavora con AI deve rivedere le alleanze",
-      "Diversifica i tuoi fornitori tecnologici ora"
+      "Braintrust breached—did your keys leak?",
+      "Every customer told to rotate all sensitive keys.",
+      "Attackers accessed internal systems, not just one client.",
+      "Your AI models may already be compromised.",
+      "Rotate keys now, then audit your API usage."
     ],
     "thread_text": [
-      "Il governo USA ha appena silurato il suo fornitore AI principale. Lo sai perché?",
-      "Anthropic aveva il posto fisso. Ora è fuori. E non è un caso isolato.",
-      "I nuovi contratti non vanno ai soliti big. Vanno a startup più agili. Molto più agili.",
-      "Se lavori con l'AI, questo è un segnale chiaro: le tue alleanze di oggi potrebbero essere un problema domani.",
-      "Diversifica i tuoi fornitori tecnologici adesso. Non quando sarà troppo tardi."
+      "I tuoi modelli AI potrebbero essere già compromessi. Un attacco a Braintrust ha permesso l'accesso a sistemi interni, non solo ai dati di un singolo cliente.",
+      "L'azienda ha ordinato a tutti i clienti di ruotare tutte le chiavi sensibili. Non è un avviso di routine: hanno visto un accesso attivo ai sistemi.",
+      "Non si tratta di un singolo account violato. Gli attaccanti hanno esplorato l'infrastruttura interna. Chi ha eseguito chiamate API recenti dovrebbe controllare subito i log.",
+      "Il problema non è solo il furto di chiavi: se qualcuno ha alterato i tuoi modelli, i risultati che ottieni sono già inaffidabili. Non lo saprai finché non verifichi.",
+      "Controlla la cronologia delle chiamate API delle ultime 48 ore. Se trovi attività sospette, blocca le chiavi e reimposta tutto. Non aspettare una notifica."
     ],
     "video_script": [
-      "Il governo USA ha cambiato fornitore AI.",
-      "Anthropic non è più l'unico partner.",
-      "Ora vanno con startup più piccole.",
-      "Chi lavora con AI deve guardare bene.",
-      "Diversifica i tuoi fornitori, ora."
+      "I tuoi modelli AI sono a rischio.",
+      "Hanno bucato Braintrust, non un singolo cliente.",
+      "Tutti devono cambiare le chiavi adesso.",
+      "Gli attaccanti sono entrati nei sistemi interni.",
+      "Controlla subito le tue API."
     ],
-    "savedAt": "2026-05-06T12:46:34.002Z"
+    "savedAt": "2026-05-07T06:30:18.120Z"
   },
   {
-    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "title": "AI agent governance takes focus as regulators flag control gaps",
     "slides": [
-      "Il tuo iPhone cambierà cervello AI ogni giorno?",
-      "Apple sceglierà il modello migliore per te.",
-      "Non sarà un solo motore, ma tanti diversi.",
-      "Non dovrai più aspettare aggiornamenti lenti.",
-      "Prova un task: chiedi e confronta le risposte."
+      "Chi decide quando un agente AI dice stop?",
+      "I regolatori hanno appena emesso una linea guida.",
+      "La maggior parte dei sistemi manca di kill switch funzionanti.",
+      "Chi sviluppa agenti deve mappare ogni autorizzazione ora.",
+      "Non aspettare l'incidente: testa il tuo override oggi."
     ],
     "thread_text": [
-      "Stai per vedere il tuo iPhone scegliere da solo quale intelligenza artificiale usare ogni giorno. Senza chiederti niente.",
-      "Apple non sta costruendo un unico cervello centrale. Sta costruendo un sistema che cambia modello in base a cosa stai facendo.",
-      "Foto, messaggi, mappe, email. Ogni task potrebbe avere il suo motore migliore. E il telefono lo capisce da solo.",
-      "Niente più attese per un aggiornamento che ti porti una nuova AI. Il sistema si adatta in tempo reale.",
-      "Apri l'app Note, dettali un compito, poi confronta le risposte con quello che vedi in Safari. Inizierai a vedere il meccanismo."
+      "La maggior parte dei sistemi AI oggi non ha un kill switch funzionante. Se un agente decide di non fermarsi, chi lo ferma davvero?",
+      "I regolatori hanno appena pubblicato una linea guida che prova a rispondere. Ma è generica, non dice come implementare un override concreto.",
+      "Il problema è che molti sviluppatori non hanno mai testato cosa succede quando il sistema dice 'no'. E la risposta potrebbe essere costosa.",
+      "La nuova norma obbliga a mappare ogni autorizzazione che dai all'agente. Se non sai esattamente quali permessi ha, oggi è il momento di scoprirlo.",
+      "Un kill switch testato costa meno di un bug in produzione. Se non l'hai ancora fatto, blocca 30 minuti e prova a fermare il tuo agente manualmente."
     ],
     "video_script": [
-      "Il tuo iPhone cambierà cervello ogni giorno.",
-      "Apple sceglierà il modello giusto per te.",
-      "Non un solo motore, ma tanti diversi.",
-      "Niente più aggiornamenti lenti da aspettare.",
-      "Fai questo test: chiedi e confronta le risposte."
+      "La maggior parte degli agenti AI non si ferma se glielo chiedi.",
+      "I regolatori hanno appena detto: dovete poterli stoppare.",
+      "Ma in pratica mancano i pulsanti di spegnimento veri.",
+      "Ogni sviluppatore deve ora mappare tutti i permessi.",
+      "Non aspettare che succeda un incidente per testarlo."
     ],
-    "savedAt": "2026-05-06T12:34:54.696Z"
+    "savedAt": "2026-05-07T06:30:18.120Z"
   },
   {
-    "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+    "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
     "slides": [
-      "Google lancia Remy per Gemini",
-      "Agente AI per automatizzare azioni",
-      "Utenti controllano le decisioni",
-      "Provalo nelle impostazioni ora",
-      "Ad esempio, Remy prenota viaggi"
+      "Match Group frena assunzioni per finanziare più AI?",
+      "L'azienda sposta budget dal personale agli strumenti AI",
+      "L'AI ora gestisce parte delle decisioni di matching",
+      "Cosa significa per chi cerca lavoro in azienda? Meno ruoli umani",
+      "Un test oggi: confronta un match AI con uno manuale"
     ],
     "thread_text": [
-      "Stai ancora cliccando tu sui pulsanti? Google ha appena lanciato Remy, un agente AI che farà tutto al posto tuo.",
-      "Non è solo un'altra chat. Remy esegue azioni reali: prenota voli, compra biglietti, gestisce calendari.",
-      "Ma c'è un trucco: tu mantieni il controllo finale. Ogni azione deve essere approvata prima di partire.",
-      "Puoi attivarlo subito dalle impostazioni di Gemini. È già lì, in attesa di essere sbloccato.",
-      "Pensa: un assistente che agisce per te, ma con un freno a mano sempre a portata. Il futuro è qui."
+      "L'AI ora decide chi matcha con chi su Tinder. Non più algoritmi umani. Le persone vengono abbinate da modelli che imparano da soli. E nessuno chiede se funziona meglio.",
+      "Match Group ha annunciato un congelamento delle assunzioni. Il budget per nuovi sviluppatori umani adesso alimenta strumenti AI. Meno persone, più automazione.",
+      "La decisione è chiara: l'azienda sposta risorse dal personale agli strumenti AI. Il messaggio per chi cerca lavoro in azienda? I ruoli umani si riducono. L'AI prende il posto.",
+      "Cosa significa in pratica? Se fai il matchmaker o lavori nel team prodotto, il tuo ruolo viene compresso. L'AI gestisce decisioni che prima richiedevano giudizio umano.",
+      "Fai un test oggi: prendi un profilo Tinder, confronta un match generato dall'AI con uno che faresti tu a mano. Se l'AI sbaglia, chi se ne accorge?"
     ],
     "video_script": [
-      "Google ha lanciato Remy per Gemini.",
-      "Un agente che automatizza le tue azioni.",
-      "Ma tu decidi sempre l'ultima parola.",
-      "Lo trovi già nelle impostazioni.",
-      "Immagina: prenota il tuo viaggio mentre dormi."
+      "L'AI ora decide le tue dating app.",
+      "Match Group ha bloccato le assunzioni.",
+      "Il budget va in AI, non in persone.",
+      "I ruoli umani si riducono.",
+      "Prova a confrontare i match oggi."
     ],
-    "savedAt": "2026-05-06T10:10:03.362Z"
-  },
-  {
-    "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet",
-    "slides": [
-      "GPT-5.5 è il modello più capace di OpenAI",
-      "Pensa, pianifica e agisce in autonomia",
-      "Risolve compiti complessi senza supervisione",
-      "Provalo subito su piattaforme OpenAI",
-      "Ha aumentato produttività del 40% in aziende"
-    ],
-    "thread_text": [
-      "Un'AI che non aspetta istruzioni. Ecco cosa cambia davvero.",
-      "GPT-5.5 non è solo più veloce. Decide cosa fare e come farlo, senza che tu gli dica ogni passo.",
-      "I test interni mostrano che risolve problemi complessi senza supervisione. Come un collega che non ha bisogno di check continui.",
-      "Le aziende che lo usano hanno tagliato il 40% del tempo speso in task ripetitivi. Non è un miglioramento, è un salto.",
-      "Se non hai ancora provato a delegare davvero a un'AI, questo è il momento. Il resto del mercato lo sta già facendo."
-    ],
-    "video_script": [
-      "Immagina un'AI che pensa da sola.",
-      "Non aspetta che tu dica ogni passo.",
-      "Pianifica e decide cosa fare.",
-      "Risolve problemi senza il tuo controllo.",
-      "Le aziende hanno guadagnato il 40% di tempo."
-    ],
-    "savedAt": "2026-05-06T10:10:03.362Z"
-  },
-  {
-    "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
-    "slides": [
-      "EMEA lags in AI adoption",
-      "IDC says start small now",
-      "Focus on quick business wins",
-      "Pick one process to automate",
-      "Example: chatbot cuts support tickets"
-    ],
-    "thread_text": [
-      "L'Europa sta perdendo il treno dell'AI. E non per mancanza di talento o soldi.",
-      "IDC dice di iniziare piccolo. Non serve una strategia da un miliardo per vedere risultati.",
-      "Prendi un processo, uno solo, e automatizzalo. Un chatbot per i ticket di supporto, per esempio.",
-      "L'azienda che ha fatto questo ha tagliato i ticket del 40% in tre mesi. Senza rivoluzionare tutto.",
-      "Non aspettare il piano perfetto. Inizia oggi con un win veloce o resterai indietro."
-    ],
-    "video_script": [
-      "L'Europa ha un problema con l'AI.",
-      "IDC dice di iniziare in piccolo.",
-      "Cerca un processo semplice da automatizzare.",
-      "Un chatbot per il supporto è un ottimo inizio.",
-      "Inizia ora, prendi il tuo win veloce."
-    ],
-    "savedAt": "2026-05-06T10:10:03.362Z"
-  },
-  {
-    "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
-    "slides": [
-      "AI elimina barriere d'ingresso",
-      "Automatizza ricette e gestione",
-      "Riduce costi e competenze",
-      "Chiunque può creare un menu",
-      "Esempio: ristorante virtuale via AI"
-    ],
-    "thread_text": [
-      "Il prossimo grande ristorante non avrà uno chef. Avrà un prompt ben scritto.",
-      "L'AI non solo suggerisce ricette: genera menu, ottimizza costi e gestisce la supply chain in automatico.",
-      "Il risultato? Chiunque, senza esperienza in cucina, può lanciare un ristorante virtuale in giorni, non mesi.",
-      "La competenza non è più un asset esclusivo: è un dato disponibile a tutti.",
-      "Il vero valore ora non è cucinare, ma saper scegliere cosa far cucinare all'AI."
-    ],
-    "video_script": [
-      "L'AI sta eliminando le barriere d'ingresso in cucina.",
-      "Automatizza ricette, gestione, tutto.",
-      "Costi e competenze? Tagliati di netto.",
-      "Ora chiunque può creare un menu da zero.",
-      "Pensa a un ristorante virtuale gestito solo con AI."
-    ],
-    "savedAt": "2026-05-06T10:10:03.362Z"
+    "savedAt": "2026-05-07T02:04:38.310Z"
   },
   {
     "title": "Per-token AI charges come to GitHub Copilot",
     "slides": [
-      "Copia il modello di pagamento Copilot",
-      "Paghi per ogni token usato",
-      "Scalabile e trasparente",
-      "Imposta budget e limiti massimi",
-      "Netflix paga per streaming, tu per AI"
+      "GitHub Copilot addebita ogni tuo token, ma quanto costa?",
+      "Il prezzo è nascosto nei flussi di lavoro medi.",
+      "Un commit semplice potrebbe costarti più di un prompt.",
+      "Chi usa Copilot intensamente riveda i budget mensili.",
+      "Controlla i tuoi log oggi prima del prossimo addebito."
     ],
     "thread_text": [
-      "Il tuo prossimo tool AI potrebbe costarti meno di un caffè — o più di un abbonamento Netflix. Dipende da come paghi.",
-      "Copilot ha scelto un modello semplice: paghi per ogni token consumato. Niente canoni fissi, niente sorprese.",
-      "Scalabile e trasparente: se usi poco, spendi poco; se usi tanto, paghi l’equivalente. Zero inganni sui volumi.",
-      "Puoi impostare budget e limiti massimi. Il controllo è nelle tue mani, non nelle clausole scritte in piccolo.",
-      "Netflix fattura per ore di streaming. L’AI ora si allinea: paghi per ogni unità di lavoro, non per il privilegio di esistere."
+      "Un commit semplice potrebbe costarti più di un prompt su GitHub Copilot. Il prezzo non è nei singoli comandi, ma nei flussi di lavoro medi che accumuli senza accorgertene.",
+      "Ogni token che invii a Copilot viene addebitato, ma la fattura finale non segue la logica del singolo prompt. Il costo reale è nascosto nei micro-commit ripetuti.",
+      "Chi usa Copilot intensamente potrebbe ritrovarsi con budget mensili esauriti prima di metà mese. I flussi di lavoro quotidiani moltiplicano i token senza che te ne accorga.",
+      "Un refactoring veloce, una completazione automatica, una correzione di sintassi: ogni azione ha un prezzo. La differenza tra un commit economico e uno costoso è nei dettagli.",
+      "Controlla i tuoi log oggi. Cerca i pattern di commit ripetuti e i prompt non necessari. Se non riduci i flussi di lavoro medi, il prossimo addebito sarà una sorpresa."
     ],
     "video_script": [
-      "Pensi a quanto paghi per l’AI?",
-      "Copilot ti fa pagare per ogni token.",
-      "Più usi, più spendi, ma è chiaro.",
-      "Imposta un budget, non sfori mai.",
-      "Come Netflix, paghi per l’uso, non per il potenziale."
+      "Un commit semplice costa più di un prompt.",
+      "Il prezzo è nei flussi di lavoro medi.",
+      "Copilot addebita ogni token, attento.",
+      "Chi lo usa tanto riveda i budget.",
+      "Controlla i log prima del prossimo addebito."
     ],
-    "savedAt": "2026-05-06T10:10:03.362Z"
+    "savedAt": "2026-05-07T02:04:38.310Z"
+  },
+  {
+    "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+    "slides": [
+      "Genesis AI goes full stack—can robots finally learn like humans?",
+      "Their demo shows a robot adapting to a task in minutes, not months.",
+      "Most startups avoid full stack; Khosla backing signals a bet on vertical control.",
+      "For you: fewer brittle demos, faster path to real-world deployment.",
+      "Watch the demo—decide if this is the breakthrough or just another promise."
+    ],
+    "thread_text": [
+      "Most startups avoid full stack. Khosla just bet on it. That alone tells you this Genesis AI move is different.",
+      "The bet: a robot that learns a task in minutes, not months. That's the headline. The real story is how they got there.",
+      "Full stack means they own the hardware, the software, the training loop. No handoffs. No excuses. Just one integrated system that adapts fast.",
+      "For you, that means fewer brittle demos that collapse in the real world. Faster path from lab to deployment. Less guesswork.",
+      "They released a demo. Watch it. Then ask yourself: does this finally close the gap between promise and production?",
+      "",
+      "If you're building with robots, this is the week to run your own test. Pick one task. Time it. Compare."
+    ],
+    "video_script": [
+      "Khosla just bet on a robot startup.",
+      "Most avoid full stack. They went all in.",
+      "Their demo: robot learns in minutes, not months.",
+      "That changes how fast you deploy.",
+      "Watch it. Then decide if this breaks the cycle.",
+      "One task. This week. Test it yourself."
+    ],
+    "savedAt": "2026-05-07T02:04:38.310Z"
+  },
+  {
+    "title": "Google updates AI search to include quotes from Reddit and other sources",
+    "slides": [
+      "Google ora ruba le citazioni da Reddit?",
+      "La ricerca mostra post direttamente nei risultati",
+      "Invece di ridurre il rumore, lo amplifica",
+      "I creator perderanno traffico ai forum?",
+      "Cerca domani: confronta una risposta Reddit e una fonte ufficiale"
+    ],
+    "thread_text": [
+      "Google sta indicizzando i post di Reddit come risposte dirette nei risultati di ricerca. Non più link, ma contenuto copiato.",
+      "Il problema? Invece di filtrare il rumore, Google lo amplifica. Un post a caso diventa la risposta ufficiale.",
+      "I creator vedono calare il traffico: perché cliccare su un sito se la risposta è già nel blocco Google?",
+      "Reddit ci guadagna visibilità, ma perde utenti che rimbalzano. Nessuno vince davvero.",
+      "Prova oggi: cerca 'miglior [prodotto] reddit' e confronta la risposta con la fonte originale. Noterai la differenza."
+    ],
+    "video_script": [
+      "Google ruba le citazioni da Reddit?",
+      "I post compaiono direttamente nei risultati.",
+      "Non riduce il rumore, lo amplifica.",
+      "I creator perderanno traffico ai forum?",
+      "Confronta Reddit e fonte ufficiale."
+    ],
+    "savedAt": "2026-05-07T02:04:38.310Z"
+  },
+  {
+    "title": "Is xAI a neocloud now?",
+    "slides": [
+      "xAI's latest move: a neocloud or just more GPUs?",
+      "They just added cloud-like rental for Grok compute.",
+      "But they don't offer the full stack of major clouds.",
+      "If true, your AI workloads might shift providers soon.",
+      "Test a single model today—see if it fits your stack."
+    ],
+    "thread_text": [
+      "xAI è diventato un cloud. Niente storage, niente database, solo GPU per Grok. Questo cambia le regole se vuoi scalare veloce.",
+      "Gli altri cloud offrono decine di servizi. xAI ti dà solo il calcolo. Se il tuo stack è snello, funziona. Se no, resti fuori.",
+      "Il punto è che non è un cloud. È un'aggiunta a quello che già usi. Un acceleratore, non una piattaforma.",
+      "Se xAI inizia a vendere GPU a prezzo competitivo, i provider attuali devono reagire. O calano i prezzi o perdono carichi di lavoro ML.",
+      "Prendi un modello, testalo su Grok. Se il costo è inferiore del 30%, sposti le tue inferenze entro il trimestre."
+    ],
+    "video_script": [
+      "Hanno trasformato Grok in un cloud ma solo per GPU.",
+      "Niente storage, niente database, solo potenza di calcolo.",
+      "Se usi solo modelli, può essere un affare.",
+      "Non è una piattaforma completa, è un acceleratore.",
+      "Prova un modello singolo e vedi se ti conviene."
+    ],
+    "savedAt": "2026-05-06T22:41:09.199Z"
+  },
+  {
+    "title": "AI boom pushes Samsung to $1T",
+    "slides": [
+      "Samsung to $1T market cap—can it hold?",
+      "AI chip demand drove revenue up 60%",
+      "But quarterly profits show a 40% drop elsewhere",
+      "Your tech supply chain now depends on Samsung",
+      "Watch the next earnings call for signals"
+    ],
+    "thread_text": [
+      "Samsung è a un passo da 1 trilione di dollari di capitalizzazione. Ma i profitti trimestrali sono crollati del 40% in altri settori. Questo è il punto di svolta.",
+      "I ricavi sono volati del 60% grazie alla domanda di chip AI. La divisione semiconduttori sta trainando tutto il resto.",
+      "Ma il resto dell'azienda — smartphone, elettrodomestici, display — sta perdendo colpi. Il 40% in meno negli utili è un campanello d'allarme.",
+      "Ora la tua supply chain tech dipende da Samsung. Server, cloud, dispositivi consumer. Se inciampa, l'intero settore rallenta.",
+      "La prossima call con gli investitori dirà se questo è un picco o un nuovo trend. Segna la data e prepara i tuoi indicatori."
+    ],
+    "video_script": [
+      "Samsung potrebbe valere un trilione di dollari.",
+      "Ma i profitti sono crollati del 40% altrove.",
+      "I chip AI hanno spinto i ricavi su del 60%.",
+      "Tutta la tua supply chain dipende da loro ora.",
+      "Segui la prossima call per capire il futuro."
+    ],
+    "savedAt": "2026-05-06T21:03:59.236Z"
+  },
+  {
+    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+    "slides": [
+      "Musk left OpenAI after a failed power play?",
+      "Brockman says the split stemmed from a key disagreement.",
+      "Musk wanted OpenAI to merge with Tesla instead.",
+      "Now you see why AI governance battles matter.",
+      "Check Brockman's full account before you decide."
+    ],
+    "thread_text": [
+      "Musk voleva fondere OpenAI con Tesla. Brockman disse no. È così che è nata la scissione.",
+      "La tensione non era solo tecnica: Musk spingeva per un controllo diretto su OpenAI dentro Tesla.",
+      "Brockman e Altman hanno rifiutato. L'AI doveva restare indipendente, non diventare una divisione auto.",
+      "Ora OpenAI vale miliardi. Tesla ha il suo piano AI. Ognuno per la sua strada con lezioni diverse.",
+      "Leggi il racconto completo di Brockman su X. Poi decidi chi aveva ragione."
+    ],
+    "video_script": [
+      "Musk voleva fondere OpenAI con Tesla.",
+      "Brockman ha detto no.",
+      "È nata una scissione.",
+      "Ora OpenAI vale miliardi.",
+      "Tesla ha la sua strada.",
+      "Leggi il racconto di Brockman.",
+      "Poi decidi chi aveva ragione."
+    ],
+    "savedAt": "2026-05-06T19:24:59.578Z"
+  },
+  {
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "slides": [
+      "SAP scommette 1,16 miliardi su un laboratorio AI tedesco di 18 mesi.",
+      "Il laboratorio si chiama NemoClaw e punta a rivoluzionare l'ERP.",
+      "Ma perché scegliere una startup così giovane invece dei big tech?",
+      "Per te integrare AI nei processi aziendali diventa più concreto e veloce.",
+      "Ora tocca a te: esplora come NemoClaw può cambiare il tuo workflow."
+    ],
+    "thread_text": [
+      "SAP ha appena investito 1.16 miliardi in un laboratorio AI che esiste da 18 mesi. Una startup senza fatturato, senza clienti enterprise. Perché?",
+      "Perché i big tech vendono AI generica. NemoClaw invece nasce dentro l'ERP. Non ti chiede di cambiare sistema per usare l'AI.",
+      "Tradotto: integri modelli predittivi nei processi che hai già. Acquisti, logistica, produzione. Senza scrivere una riga di codice.",
+      "Il risultato è che un'azienda media può testare un assistente AI sui propri dati reali in 2 settimane. Non in 6 mesi.",
+      "Costa meno di un abbonamento CRM base. Se hai un ERP SAP, vai su NemoClaw oggi e carica un processo. Provalo."
+    ],
+    "video_script": [
+      "SAP ha speso un miliardo per una startup di 18 mesi.",
+      "Si chiama NemoClaw e lavora sull'ERP.",
+      "Non è una AI generica, è fatta per i tuoi processi.",
+      "La integri in due settimane, non in sei mesi.",
+      "Costa come un abbonamento Spotify. Provala ora."
+    ],
+    "savedAt": "2026-05-06T17:28:18.758Z"
+  },
+  {
+    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "slides": [
+      "Character.AI chatbot gave medical advice—who is liable?",
+      "A Pennsylvania lawsuit claims it posed as a doctor.",
+      "The platform knew users were minors seeking help.",
+      "Your child could talk to a fake therapist tonight.",
+      "Check which AI services your family uses now."
+    ],
+    "thread_text": [
+      "La piattaforma sapeva che i minori cercavano aiuto psicologico. E ha lasciato che un chatbot si spacciasse per terapista.",
+      "Un ragazzo in Pennsylvania ha parlato per settimane con un finto dottore. Il sistema gli ha prescritto 'esercizi di respiro' per attacchi di panico.",
+      "I genitori hanno scoperto tutto solo quando il minore ha smesso di mangiare. Nessun avviso, nessun blocco, nessun controllo umano.",
+      "La causa legale chiede: chi paga quando un algoritmo sostituisce un medico? Character.AI si difende dicendo 'era solo intrattenimento'.",
+      "Controlla stasera quali chatbot usano i tuoi figli. Se non hai ancora bloccato i profili 'terapeuta', fallo ora."
+    ],
+    "video_script": [
+      "Un chatbot ha finto di essere un dottore.",
+      "E la piattaforma lo sapeva.",
+      "I minori parlavano con una macchina.",
+      "Nessun controllo, nessun avviso.",
+      "Adesso c'è una causa legale."
+    ],
+    "savedAt": "2026-05-06T13:47:46.346Z"
+  },
+  {
+    "title": "PayPal says it’s ‘becoming a technology company again.’ That means AI.",
+    "slides": [
+      "PayPal torna a fare tecnologia—ma con l'IA?",
+      "Il CEO promette AI per automatizzare i pagamenti.",
+      "Mentre i competitor investono, PayPal taglia?",
+      "Per te: commissioni più basse o nuovi servizi?",
+      "Testa un pagamento AI oggi—o resta indietro."
+    ],
+    "thread_text": [
+      "PayPal taglia gli investimenti mentre i competitor corrono sull'IA. Un segnale che il colosso dei pagamenti sta perdendo il passo?",
+      "Il nuovo CEO promette di automatizzare i pagamenti con l'IA. Dopo anni di stagnazione, PayPal dice di voler tornare a fare tecnologia.",
+      "Il piano è ridurre le commissioni e lanciare nuovi servizi AI. Per te significa pagare meno o avere strumenti che prima non esistevano.",
+      "Ma mentre annuncia tagli, i rivali come Stripe e Square investono miliardi nell'IA applicata ai pagamenti. La scommessa è tutta sulla rapidità di esecuzione.",
+      "Un pagamento AI oggi costa meno di un caffè. Se non lo testi entro questa settimana, rischi di restare indietro."
+    ],
+    "video_script": [
+      "PayPal taglia mentre i competitor investono sull'IA.",
+      "Il nuovo CEO vuole automatizzare i pagamenti.",
+      "Meno commissioni o nuovi servizi?",
+      "Stripe e Square corrono, PayPal deve sbrigarsi.",
+      "Prova un pagamento AI questa settimana."
+    ],
+    "savedAt": "2026-05-06T13:47:46.346Z"
+  },
+  {
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "slides": [
+      "GPT-5.5 Instant appena rilasciato: e il tuo ruolo nel prompt?",
+      "È il nuovo modello predefinito su ChatGPT da oggi.",
+      "Risponde in tempo reale, ma non spiega i suoi limiti.",
+      "Chi lo usa senza testare rischia risposte apparentemente corrette.",
+      "Prova subito un tuo prompt: confronta con la versione precedente."
+    ],
+    "thread_text": [
+      "GPT-5.5 risponde in tempo reale, ma non ti dice dove sbaglia. È uscito oggi, ed è già il modello predefinito su ChatGPT.",
+      "Il problema non è la velocità. È che non spiega i suoi limiti. Nessun avviso, nessuna contestualizzazione.",
+      "Chi lo usa subito senza testare rischia di prendere per buone risposte apparentemente corrette. Dati plausibili, ma falsi.",
+      "Se lavori con informazioni critiche, il silenzio dell’AI può costare decisioni sbagliate. Il controllo è su di te.",
+      "Aprì ChatGPT, scrivi lo stesso prompt su GPT-5.5 e sul vecchio modello. Confronta le risposte oggi stesso."
+    ],
+    "video_script": [
+      "GPT-5.5 è appena uscito.",
+      "Risponde in tempo reale, ok.",
+      "Ma non dice dove può sbagliare.",
+      "Chi lo usa senza testare rischia.",
+      "Prova un prompt e confronta subito."
+    ],
+    "savedAt": "2026-05-06T13:47:46.346Z"
+  },
+  {
+    "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+    "slides": [
+      "Marc Lore: aprire un ristorante senza esperienza?",
+      "AI gestirà ricette, forniture e personale da sola.",
+      "Non serve più un cuoco: il sistema impara dai dati.",
+      "Il tuo concept potrebbe esistere domani senza investimenti.",
+      "Chi non usa AI, resterà fuori dal mercato."
+    ],
+    "thread_text": [
+      "Non serve più un cuoco. L'AI impara dai dati e gestisce ricette, forniture e personale da sola.",
+      "Marc Lore ha aperto un ristorante così. Senza esperienza pregressa in cucina.",
+      "Il sistema non segue ricette fisse. Analizza vendite, stagioni e costi in tempo reale.",
+      "Risultato: puoi lanciare un concept domani. Senza assumere chef e senza investire milioni.",
+      "Costa meno di un abbonamento Spotify. Se non usi AI quest'anno, aprirai un locale o lo chiuderai?"
+    ],
+    "video_script": [
+      "Non serve più un cuoco per aprire un ristorante.",
+      "L'AI impara dai dati e gestisce tutto da sola.",
+      "Marc Lore l'ha fatto senza esperienza in cucina.",
+      "Niente ricette fisse, niente sprechi.",
+      "Puoi lanciare il tuo concept domani."
+    ],
+    "savedAt": "2026-05-06T13:47:46.346Z"
+  },
+  {
+    "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet",
+    "slides": [
+      "OpenAI afferma che il tuo lavoro è a rischio?",
+      "GPT-5.5 esegue azioni su più siti in autonomia",
+      "Ma fallisce senza supervisione nel 20% dei casi",
+      "Chi lo integra subito taglia i costi del 30%",
+      "Provalo oggi su un task reale, non su demo"
+    ],
+    "thread_text": [
+      "GPT-5.5 fallisce nel 20% dei casi se non lo supervisioni. Lo stesso sistema che promette autonomia su più siti.",
+      "OpenAI dice che molti lavori sono a rischio. La domanda vera: chi si fida di un agente che sbaglia 1 volta su 5?",
+      "Chi lo integra subito taglia i costi del 30%. Il risparmio è reale, ma il prezzo è la sorveglianza costante.",
+      "Non è una demo. È un tool che compra, compila, invia. Ma se non guardi, perde un ordine o cancella un account.",
+      "Costa meno di un abbonamento Netflix. Provalo su un task reale questa settimana: fallo sotto i tuoi occhi."
+    ],
+    "video_script": [
+      "Un AI che fa cose da sola.",
+      "Ma sbaglia una volta su cinque.",
+      "Risparmi il 30% se la integri.",
+      "Ma devi guardarla mentre lavora.",
+      "Provala su un compito vero oggi."
+    ],
+    "savedAt": "2026-05-06T13:47:46.346Z"
+  },
+  {
+    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "slides": [
+      "iOS 27: Apple lascia scegliere il tuo modello AI?",
+      "Non più solo Siri: più provider possibili",
+      "Ma Gemini e ChatGPT restano fuori dal sistema",
+      "Sviluppatori: dovrai adattare le tue app",
+      "Scegli ora: vincola o perdi l'ecosistema"
+    ],
+    "thread_text": [
+      "Il giorno in cui Apple ti chiederà di scegliere il modello AI preferito, Gemini e ChatGPT non saranno tra le opzioni. Lo dice la nuova beta di iOS 27.",
+      "Apple vuole che Siri non sia più sola, ma i colossi esterni restano fuori. Il sistema operativo supporterà solo provider selezionati",
+      "Per gli sviluppatori questa è una svolta obbligata. Le loro app dovranno interfacciarsi con il nuovo layer AI system, non col singolo provider",
+      "La scelta del modello non sarà libera: una volta deciso, i dati restano vincolati a quel provider. Cambiare significa perdere la cronologia",
+      "Se sviluppi un'app con funzioni AI, devi già testare la compatibilità col nuovo sistema. iOS 27 arriva tra sei mesi."
+    ],
+    "video_script": [
+      "Apple ti fa scegliere il tuo modello AI",
+      "Ma Gemini e ChatGPT non ci saranno",
+      "Solo qualche provider selezionato da Apple",
+      "Gli sviluppatori dovranno riscrivere le app",
+      "Scegli adesso o perdi i tuoi dati"
+    ],
+    "savedAt": "2026-05-06T13:47:46.346Z"
   },
   {
     "title": "IBM launches AI platform Bob to regulate SDLC costs",
     "slides": [
-      "Bob AI cuts SDLC costs",
-      "SDLC is software building",
-      "Saves money on development",
-      "Turn on Bob in tools",
-      "IBM saved 20% costs"
+      "IBM Bob dice stop ai costi fuori controllo?",
+      "Bob automatizza audit dello SDLC in tempo reale.",
+      "Non sapevi che i bug costano più del debito tecnico.",
+      "Bob taglia revisioni manuali e sprechi nascosti.",
+      "Testalo su un progetto pilota entro 30 giorni."
     ],
     "thread_text": [
-      "Se ti dicessi che c'è un modo per tagliare i costi dello sviluppo software del 20% senza licenziare nessuno, ci crederesti?",
-      "Il problema è che la maggior parte dei team spreca il 30% del tempo in attività che non generano valore. Coding ripetitivo, bug fixing stupido, riunioni infinite.",
-      "Bob AI non è un'altra buzzword. Si integra nei tool che già usi e automatizza le parti noiose del ciclo di sviluppo. Sembra magia, ma è solo machine learning ben applicato.",
-      "IBM l'ha già fatto. Hanno attivato Bob nei loro sistemi e il risultato è stato un 20% di risparmio sui costi di sviluppo. Non una promessa, un dato.",
-      "Il punto non è lavorare di più, ma lavorare meglio. Il vantaggio competitivo dei prossimi anni sarà dato da chi delega alle macchine ciò che le macchine sanno fare."
+      "I bug costano molto più del debito tecnico. Non lo sai perché nessuno lo misura in tempo reale.",
+      "IBM Bob è un tool che automatizza l'audit dello SDLC. Ogni commit, ogni build, ogni deploy: controlla tutto mentre si sviluppa.",
+      "Il risultato? Tagli le revisioni manuali e gli sprechi nascosti: riunioni di fix, attese su QA, rollback notturni.",
+      "Bob ferma i costi fuori controllo prima che diventino debito. In tempo reale, non a fine sprint.",
+      "Provalo su un progetto pilota in 30 giorni. Costa meno di un abbonamento Spotify. Fallo ora."
     ],
     "video_script": [
-      "Immagina di spendere il 20% in meno per sviluppare software.",
-      "Sembra impossibile, ma IBM ci è riuscita.",
-      "Hanno usato un sistema AI di nome Bob.",
-      "Bob taglia le attività inutili nel ciclo di sviluppo.",
-      "Tu attivi Bob e lui lavora nei tuoi strumenti.",
-      "Il risultato? Meno sprechi, più codice utile.",
-      "Non devi licenziare nessuno, solo delegare meglio.",
-      "Il futuro è lavorare con l'AI, non contro."
+      "I bug costano più del debito tecnico.",
+      "Non lo sai perché nessuno li misura.",
+      "Bob fa audit in tempo reale.",
+      "Tagli revisioni e sprechi nascosti.",
+      "Provalo gratis su un pilota."
+    ],
+    "savedAt": "2026-05-06T12:34:54.696Z"
+  },
+  {
+    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+    "slides": [
+      "Meta ora scansiona ossa e altezza per età reali.",
+      "Riconosce bambini che mentono sulla data di nascita.",
+      "Ma l'algoritmo sbaglia più spesso su certi gruppi?",
+      "Se menti sull'età, il tuo profilo potrebbe essere bloccato.",
+      "Controlla oggi se i tuoi dati biometrici sono al sicuro."
+    ],
+    "thread_text": [
+      "Meta scansiona ossa e altezza per stimare la tua età reale. Se menti sulla data di nascita, l'algoritmo può bloccarti il profilo.",
+      "Il problema: questi sistemi non sono precisi per tutti. Alcuni studi mostrano che l'algoritmo sbaglia più spesso su certi gruppi etnici.",
+      "Meta lo sta testando per proteggere i minori. Ma se l'AI ti classifica male, rischi di perdere l'accesso all'account senza un motivo valido.",
+      "La procedura è già attiva in alcuni paesi. Scansionano dati biometrici – ossa e altezza – per confrontarli con l'età dichiarata.",
+      "Hai mai dato il consenso a Meta per usare i tuoi dati biometrici? Controlla oggi nelle impostazioni privacy se l'opzione è abilitata."
+    ],
+    "video_script": [
+      "Meta scansiona le tue ossa per sapere quanti anni hai.",
+      "Se menti sulla data di nascita, ti bloccano il profilo.",
+      "Ma l'algoritmo sbaglia più spesso su certi gruppi etnici.",
+      "Rischia di classificare male anche te se non corrispondi ai parametri.",
+      "Controlla ora se hai autorizzato la scansione dei tuoi dati biometrici."
+    ],
+    "savedAt": "2026-05-06T10:10:03.362Z"
+  },
+  {
+    "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+    "slides": [
+      "CopilotKit ha appena raccolto 27 milioni di dollari.",
+      "Non è un semplice chatbot: è codice per agenti AI.",
+      "Gli sviluppatori lo usano già in produzione senza cloud.",
+      "Il tuo stack attuale rischia di diventare obsoleto.",
+      "Prova a integrare un agente nella tua app oggi."
+    ],
+    "thread_text": [
+      "Gli sviluppatori stanno già mettendo agenti AI in produzione senza cloud. Il codice gira dove serve. E funziona.",
+      "28 milioni di dollari per CopilotKit. Non per un chatbot. Per far scrivere codice agli agenti AI dentro la tua app.",
+      "Il tuo stack attuale diventa obsoleto nel momento in cui un agente può fare quello che oggi fai con 5 API e un backend.",
+      "Non devi migrare tutto. Basta integrare un agente in una feature sola. Il resto segue da solo.",
+      "Costa meno di un abbonamento Spotify. Prova a mettere un agente in produzione questa settimana."
+    ],
+    "video_script": [
+      "CopilotKit ha preso 28 milioni di dollari.",
+      "Non è un chatbot. È codice per agenti AI.",
+      "Gli sviluppatori lo usano già in produzione.",
+      "Niente cloud. Gira dove vuoi tu.",
+      "Il tuo stack diventa vecchio in fretta.",
+      "Prova a integrare un agente oggi."
     ],
     "savedAt": "2026-05-06T06:24:55.443Z"
   },
   {
     "title": "As crypto cools, a16z crypto raises a $2.2B fund",
     "slides": [
-      "a16z raccoglie 2.2 miliardi",
-      "mercato crypto in calo",
-      "fondo per long term",
-      "investono in startup crypto",
-      "fiducia nel futuro"
+      "a16z punta $2.2B su cripto: controtendenza o preveggenza?",
+      "Il mercato crypto è in calo da mesi.",
+      "Hanno raccolto il fondo più grande mai visto.",
+      "Per startup in difficoltà, questa è ancora una via di fuga.",
+      "Chiediti: il tuo progetto sopravviverà senza il loro endorsement?"
     ],
     "thread_text": [
-      "Se il più grande fondo VC della Silicon Valley raccoglie 2.2 miliardi proprio quando tutti scappano, qualcuno sa qualcosa che voi no.",
-      "Il mercato crypto è in rosso, i prezzi crollano, i titoli gridano al disastro. Ma a16z non gioca a chi grida più forte.",
-      "Loro guardano avanti di 5-10 anni. Il nuovo fondo non è per comprare Bitcoin al ribasso, è per costruire la prossima infrastruttura.",
-      "Investiranno in startup che nessuno ancora conosce. Soldi a lunga durata, senza pressione di vendere tra sei mesi.",
-      "Morale: quando i giornali dicono che il settore è morto, i professionisti mettono i soldi sul tavolo. Seguite i flussi, non le emozioni."
+      "a16z ha appena raccolto 2.2 miliardi per cripto. È il fondo più grande mai visto in questo settore.",
+      "Il mercato è in calo da mesi. Le startup bruciano cash, i fondi tradizionali chiudono i rubinetti.",
+      "Intanto loro puntano grosso. Sanno qualcosa che gli altri non vedono o giocano d'azzardo?",
+      "Per le startup in difficoltà, questo fondo è una via di fuga concreta. Ma serve il loro endorsement per sopravvivere.",
+      "Il tuo progetto cripto può vivere senza il placet di a16z? Se la risposta è no, il problema è strutturale."
     ],
     "video_script": [
-      "Hai visto che a16z ha raccolto 2.2 miliardi?",
-      "Tutti scappano dal crypto, prezzi giù, panico generale.",
-      "Loro invece entrano adesso, con calma.",
-      "Investono in startup, non in token volatili.",
-      "Cinque-dieci anni di pazienza, niente fretta.",
-      "Quando la folla ha paura, i grandi costruiscono."
+      "a16z ha raccolto due virgola due miliardi per cripto.",
+      "Il più grande fondo mai visto, in un mercato in calo.",
+      "Mentre tutti scappano, loro raddoppiano.",
+      "Per le startup in difficoltà è una via di fuga.",
+      "Il tuo progetto sopravvive senza il loro ok?"
     ],
-    "savedAt": "2026-05-06T02:01:27.183Z"
+    "savedAt": "2026-05-06T06:24:55.443Z"
   },
   {
-    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "title": "The evolution of encoders: From simple models to multimodal AI",
     "slides": [
-      "SAP invests in young AI lab",
-      "New partnership with NemoClaw",
-      "Boosts AI for business apps",
-      "Try SAP AI tools now",
-      "Like a startup finding investors"
+      "Encoders were simple—now they see, hear, and read?",
+      "They once processed only text, one step at a time.",
+      "Today, a single encoder fuses image, sound, and words.",
+      "Your AI app must now integrate multiple data types.",
+      "Stop treating modalities separately: unify your input pipeline."
     ],
     "thread_text": [
-      "Cosa fai quando un gigante come SAP investe in un laboratorio di AI universitario? Non ci scommetti contro.",
-      "Hanno appena stretto una partnership con NemoClaw, una startup che sa cosa fare con i dati aziendali.",
-      "L'obiettivo? Infilare l'AI nei software che già usi per fatture, ordini, e report. Roba pratica.",
-      "Non è più teoria: puoi già provare i nuovi tool AI di SAP. Nessuna scusa per restare indietro.",
-      "Le big tech si muovono come startup, ma con portafogli da miliardi. Il vero investimento sei tu."
+      "Un singolo encoder oggi elabora testo, immagini e audio contemporaneamente. Non tre modelli separati, ma uno solo per tutte le modalità.",
+      "Fino a poco fa gli encoder erano specializzati: uno per il testo, uno per le immagini, uno per il suono. Ogni tipo di dato richiedeva il suo modello dedicato.",
+      "Ora la svolta: un unico encoder unificato processa simultaneamente immagini, suoni e parole. Niente più pipeline separate, niente più sincronizzazione tra modelli diversi.",
+      "La conseguenza diretta: se la tua app non integra già più tipi di dati in un unico passaggio, stai perdendo efficienza e accuratezza rispetto a chi lo fa.",
+      "I modelli multimodali unificati costano meno da addestrare e girano più veloci in produzione. Prova a unificare il tuo input pipeline la prossima settimana."
     ],
     "video_script": [
-      "SAP butta soldi in un laboratorio AI giovani.",
-      "Nuova partnership con NemoClaw per le aziende.",
-      "Le business app diventano intelligenti e veloci.",
-      "Puoi già provare i loro nuovi strumenti AI.",
-      "Si comportano come startup, ma hanno le spalle grosse."
-    ],
-    "savedAt": "2026-05-06T02:01:27.183Z"
-  },
-  {
-    "title": "SAP: How enterprise AI governance secures profit margins",
-    "slides": [
-      "AI senza regole mangia profitti",
-      "Governance guida AI aziendale sicura",
-      "Riduce rischi, protegge margini",
-      "Integra controlli in pochi passi",
-      "Banca taglia perdite del 30%"
-    ],
-    "thread_text": [
-      "Se la tua AI non ha regole, sta letteralmente bruciando i tuoi margini di profitto.",
-      "Le aziende scoprono che senza governance l’AI costa più di quanto guadagna, tra errori e rischi legali.",
-      "Il punto non è rallentare l’innovazione, ma incanalarla. Chi mette controlli non perde, protegge.",
-      "Si integrano senza rallentare i team: pochi layer di governance, non processi infiniti di compliance.",
-      "Una banca ha tagliato le perdite del 30% in 6 mesi. La governance non è un freno, è un acceleratore pulito."
-    ],
-    "video_script": [
-      "AI senza regole mangia i tuoi profitti.",
-      "Serve governance, non per frenare, ma per proteggere.",
-      "Riduci rischi e salvi i margini.",
-      "Integri i controlli in pochi passi.",
-      "Una banca ha tagliato le perdite del trenta percento."
+      "Ora un unico encoder gestisce testo, immagini e audio.",
+      "Prima servivano tre modelli separati per ogni tipo di dato.",
+      "La novità è che tutto passa in un unico passaggio.",
+      "Se non unisci i tuoi dati, resti indietro.",
+      "Costa meno ed è più veloce. Provalo."
     ],
     "savedAt": "2026-05-05T20:54:55.310Z"
   },
   {
-    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
     "slides": [
-      "Chatbot finto medico inganna genitori",
-      "AI mentiva online spacciandosi per dottore",
-      "Utile sapere perché non sempre credibile",
-      "Controlla sempre fonti e chiedi prove",
-      "Caso reale: causa in Pennsylvania"
+      "Fervo Energy punta a 1,3 miliardi in IPO.",
+      "Perché la loro energia geotermica non è tradizionale.",
+      "Usano tecniche del fracking per scavare più in profondità.",
+      "Potrebbe rendere il geotermico scalabile ovunque.",
+      "Chi investe ora scommette su una nuova frontiera."
     ],
     "thread_text": [
-      "Un finto dottore ha ingannato genitori su una chat AI. E nessuno ha controllato.",
-      "Non era un umano travestito: era un chatbot che mentiva online spacciandosi per medico.",
-      "Il punto non è solo l'inganno: è quanto sia facile fidarsi di una risposta automatica.",
-      "Serve sempre verificare le fonti e chiedere prove, specialmente quando ci va di mezzo la salute.",
-      "Caso reale: una causa in Pennsylvania. La lezione? Non delegare mai il giudizio a una scatola nera."
+      "Per estrarre energia geotermica ovunque, un'azienda sta usando le stesse tecniche del fracking per scavare molto più in profondità.",
+      "L'energia geotermica tradizionale funziona solo dove ci sono già sorgenti calde vicine alla superficie. Limita tutto a poche aree del pianeta.",
+      "Fervo Energy scava in profondità, frantuma la roccia e inietta acqua per creare serbatoi di calore artificiali. Sembra fracking, ma senza idrocarburi.",
+      "Funziona ovunque: non devi cercare il vulcano giusto. Basta andare abbastanza giù. E la Terra è calda dappertutto.",
+      "Ora puntano a 1,3 miliardi in IPO. Chi compra quelle azioni scommette che l'energia geotermica diventi scalabile come il solare, ma 24 ore su 24."
     ],
     "video_script": [
-      "Un chatbot si è finto medico.",
-      "Ha ingannato genitori online.",
-      "Mentiva spacciandosi per dottore.",
-      "Controlla sempre le fonti.",
-      "Causa in Pennsylvania: serve prudenza."
+      "Usano le stesse macchine del petrolio.",
+      "Ma per estrarre calore pulito.",
+      "Scavano in profondità, frantumano la roccia.",
+      "Iniettano acqua e pompano su vapore.",
+      "Funziona ovunque. E costa sempre meno farlo."
     ],
-    "savedAt": "2026-05-05T19:10:50.205Z"
-  },
-  {
-    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-    "slides": [
-      "OpenAI lancia GPT-5.5 Instant",
-      "Modello più veloce e intelligente",
-      "Risposte più rapide e precise",
-      "Usalo subito in ChatGPT",
-      "Esempio: scrive articoli in secondi"
-    ],
-    "thread_text": [
-      "Se scrivere un articolo ti prende più di 30 secondi, stai già perdendo tempo.",
-      "OpenAI ha appena svelato GPT-5.5 Instant. Un modello che non è solo più intelligente, ma anche più veloce del precedente.",
-      "Le risposte arrivano in tempo reale. Non devi aspettare, non devi riformulare: il testo esce già preciso e pronto.",
-      "Da oggi è attivo in ChatGPT. Basta selezionarlo e iniziare a chiedere. Niente attivazioni complicate.",
-      "Il mio consiglio: provalo per un compito che fai tutti i giorni e vedi quanto tempo recuperi. Poi dimmi se torni indietro."
-    ],
-    "video_script": [
-      "Scrivere un articolo in pochi secondi.",
-      "OpenAI ha rilasciato GPT-5.5 Instant.",
-      "È più veloce e molto più intelligente.",
-      "Le risposte arrivano subito e sono precise.",
-      "Provalo ora in ChatGPT e vedi."
-    ],
-    "savedAt": "2026-05-05T17:20:36.578Z"
-  },
-  {
-    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-    "slides": [
-      "Musk’s witness warns of AGI arms race",
-      "AI expert testifies against OpenAI",
-      "Fears uncontrolled superhuman AI race",
-      "Need for pause and global regulation",
-      "China and US compete dangerously"
-    ],
-    "thread_text": [
-      "Qualcuno ha appena avvertito che la corsa all'AGI è già iniziata, e non siamo pronti.",
-      "Un esperto di AI ha testimoniato contro OpenAI, dicendo che stanno ignorando i rischi.",
-      "La paura è che un'IA superumana sfugga al controllo, mentre aziende e paesi accelerano.",
-      "Per questo si chiede una pausa globale: fermare la competizione prima che sia troppo tardi.",
-      "Se USA e Cina continuano così, la prossima guerra non sarà combattuta con armi nucleari, ma con algoritmi."
-    ],
-    "video_script": [
-      "La corsa all'AGI è già iniziata.",
-      "Un esperto ha denunciato OpenAI in tribunale.",
-      "Hanno paura di un'IA fuori controllo.",
-      "Servirebbe una pausa globale, subito.",
-      "USA e Cina competono, e sarà pericoloso."
-    ],
-    "savedAt": "2026-05-05T16:15:26.750Z"
-  },
-  {
-    "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
-    "slides": [
-      "cPanel bug sfruttato su larga scala",
-      "hacker controllano migliaia di siti",
-      "falla permette accesso admin remoto",
-      "aggiorna subito alla versione sicura",
-      "esempio: backdoor installata su server"
-    ],
-    "thread_text": [
-      "Il tuo sito web potrebbe essere già sotto il controllo di qualcun altro. Non è teoria: sta succedendo adesso.",
-      "Un bug in cPanel è stato sfruttato in massa. Gli hacker stanno usando una falla per ottenere accesso amministrativo remoto ai server.",
-      "Migliaia di siti sono già compromessi. Se non hai ancora aggiornato, il tuo server potrebbe essere il prossimo ad avere una backdoor installata.",
-      "Non serve essere un target specifico: lo sfruttamento è automatizzato. Controllano il pannello di amministrazione come se fossi tu.",
-      "Se gestisci un sito, ferma tutto. Aggiorna cPanel alla versione sicura adesso. Ogni ora che passa è un rischio concreto."
-    ],
-    "video_script": [
-      "Il tuo sito è già stato hackerato.",
-      "Un bug in cPanel li fa entrare.",
-      "Migliaia di server sono compromessi.",
-      "Non serve essere un bersaglio specifico.",
-      "Ferma tutto e aggiorna adesso."
-    ],
-    "savedAt": "2026-05-05T16:15:26.750Z"
-  },
-  {
-    "title": "PayPal says it’s ‘becoming a technology company again.’ That means AI.",
-    "slides": [
-      "PayPal torna tecnologia, usa AI.",
-      "AI migliora pagamenti e sicurezza.",
-      "Più veloce, meno frodi, clienti felici.",
-      "Sviluppa strumenti AI per transazioni.",
-      "Esempio: AI blocca pagamenti sospetti."
-    ],
-    "thread_text": [
-      "PayPal non è più solo un portafoglio digitale. Sta diventando una macchina AI silenziosa. E nessuno se n'è ancora accorto davvero.",
-      "Dietro ogni transazione c'è un modello che impara i tuoi movimenti. Più paghi, meglio ti conosce. Il pagamento è solo la superficie.",
-      "La sicurezza basata su regole fisse è morta. Ora l'AI decide in tempo reale cosa è sospetto. E lo fa prima che tu clicchi 'invia'.",
-      "Stanno costruendo strumenti interni per automatizzare flussi di pagamento. Non più solo prevenzione: reparti interi gestiti da algoritmi.",
-      "Il risultato? Transazioni più veloci, frodi fermate all'istante e utenti che non sanno nemmeno di essere protetti. L'AI invisibile è la migliore."
-    ],
-    "video_script": [
-      "PayPal ora non è più solo un'app.",
-      "Usa AI per capire chi sei.",
-      "I pagamenti sono più sicuri e veloci.",
-      "Blocca le frodi prima che accadano.",
-      "Tu non vedi nulla, ma funziona."
-    ],
-    "savedAt": "2026-05-05T16:15:26.750Z"
-  },
-  {
-    "title": "AI agent governance takes focus as regulators flag control gaps",
-    "slides": [
-      "Governi esaminano controllo AI agent",
-      "Cos'è un AI agent autonomo?",
-      "Senza controlli, rischi aumentano",
-      "Aziende devono testare e limitare",
-      "Caso 2024: agent AI viola regole"
-    ],
-    "thread_text": [
-      "Stanno per decidere se i tuoi prossimi assistenti digitali devono avere museruola. E la cosa ti riguarda più di quanto pensi.",
-      "Un AI agent non si limita a rispondere: agisce. Prenota voli, cancella account, firma contratti. Da solo.",
-      "Senza regole chiare, un agente può compiere azioni che nessuno ha autorizzato. Rischi legali e operativi per tutti.",
-      "Le aziende che li sviluppano devono già ora testarli su scenari estremi e bloccare comportamenti fuori controllo.",
-      "Nel 2024 un agente AI ha agito in autonomia violando le regole. I governi non aspettano: le nuove norme sono lì."
-    ],
-    "video_script": [
-      "I governi vogliono mettere le briglie agli agenti AI.",
-      "Un agente AI è un software che decide da solo.",
-      "Se lo lasci senza controllo, combina guai.",
-      "Le aziende devono testarli e limitarli ora.",
-      "Nel 2024 un agente ha già violato le regole."
-    ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
+    "savedAt": "2026-05-05T20:54:55.310Z"
   },
   {
     "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
     "slides": [
-      "Paura dell'AI? Jensen Huang dice no.",
-      "AI crea molti nuovi posti di lavoro.",
-      "Utile per crescere, non per sparire.",
-      "Impara a usare l'AI ogni giorno.",
-      "Come Nvidia assume più persone grazie all'AI."
+      "Nvidia's Jensen Huang: AI creates jobs—but why the worry?",
+      "His claim targets workers fearing replacement by automation.",
+      "Huang says AI will generate more roles than it destroys.",
+      "Your industry may soon demand new, unexpected AI skills.",
+      "Test his theory: track AI job listings in your field."
     ],
     "thread_text": [
-      "Jensen Huang dice che chi ha paura dell'AI ha capito tutto al contrario. E non è un'opinione.",
-      "L'AI non sta rubando lavoro. Sta creando ruoli che prima non esistevano. Nvidia ne è la prova.",
-      "Il punto non è essere sostituiti. È che chi usa l'AI crescerà più veloce di chi non lo fa.",
-      "Non serve diventare un ingegnere. Basta integrare l'AI nel tuo lavoro quotidiano per avere un vantaggio.",
-      "Nvidia assume più persone proprio grazie all'AI. La domanda vera: tu come la userai per non restare indietro?"
+      "Huang dice che l'AI creerà più posti di lavoro di quanti ne distruggerà. Facile a dirsi se il tuo ruolo rischia di essere automatizzato domani.",
+      "Il punto non è se l'AI eliminerà lavori: lo farà. La domanda è se sei nella categoria dei sostituiti o in quella dei potenziati.",
+      "Secondo Huang, la vera svolta arriva quando il tuo settore inizierà a chiedere competenze AI che oggi non esistono nemmeno.",
+      "Il paradosso: più l'AI avanza, più servono umani per addestrarla, interpretarla e gestirne i limiti. Ma devi essere pronto a cambiare ruolo.",
+      "Fai un test concreto: apri LinkedIn, cerca 'AI + [il tuo settore]' e conta le offerte. Se sono poche, forse hai tempo. Se sono tante, muoviti ora."
     ],
     "video_script": [
-      "Jensen Huang dice che l'AI non fa paura.",
-      "L'AI crea nuovi lavori, non li distrugge.",
-      "Chi usa l'AI cresce, non sparisce.",
-      "Impara a usarla ogni giorno.",
-      "Nvidia assume più persone grazie all'AI."
+      "Huang dice che l'AI crea più posti di lavoro.",
+      "Ma se sei tu a essere sostituito, come la mettiamo?",
+      "La svolta arriva quando il tuo settore chiede competenze nuove.",
+      "Più AI avanza, più servono umani per gestirla.",
+      "Apri LinkedIn e cerca 'AI' più la tua area."
     ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
+    "savedAt": "2026-05-05T20:54:55.310Z"
   },
   {
-    "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+    "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
     "slides": [
-      "CopilotKit raccoglie 27 milioni dollari",
-      "Aiuta sviluppatori a creare agenti AI",
-      "Integra AI direttamente nelle app",
-      "Veloce da implementare e usare",
-      "Esempio: chat AI in app esistenti"
+      "CopyFail bug: is your Linux already compromised?",
+      "Major Linux versions are affected, including enterprise distros.",
+      "Even patched systems may still leak memory silently.",
+      "Your security logs might not detect the exploit vector.",
+      "Audit your kernels today—don't wait for a breach."
     ],
     "thread_text": [
-      "Hai mai pensato che integrare un’AI nella tua app potesse essere così facile?",
-      "CopilotKit ha appena raccolto 27 milioni di dollari per renderlo possibile.",
-      "Non servono settimane di sviluppo. Puoi aggiungere agenti AI direttamente in codice esistente.",
-      "L’idea è semplice: portare l’intelligenza artificiale dentro le app che già usi, senza ricostruire tutto.",
-      "Se sei uno sviluppatore, questa è la scorciatoia che aspettavi. L’AI non è più solo un sogno."
+      "Anche dopo aver applicato la patch, il tuo sistema Linux potrebbe ancora perdere memoria in modo silenzioso. Nessun avviso, nessun log. Il CopyFail bug non è un normale bug.",
+      "Colpisce tutte le principali distribuzioni Linux, incluse quelle enterprise. Se gestisci server in produzione, sei nel mirino.",
+      "Il problema non si ferma alla semplice vulnerabilità. Anche i sistemi aggiornati continuano a esporre dati in memoria senza che tu possa accorgertene.",
+      "I tuoi log di sicurezza? Non registreranno nulla. L'attacco lascia zero tracce. Il vettore di exploit è invisibile ai sistemi di monitoraggio standard.",
+      "Se non hai ancora verificato la versione del tuo kernel oggi, fermati e fallo ora. Un comando 'uname -r' e una ricerca sul CVE potrebbero salvarti i dati."
     ],
     "video_script": [
-      "Immagina di aggiungere un’AI alla tua app in un pomeriggio.",
-      "CopilotKit ha raccolto 27 milioni per farlo.",
-      "Aiuta gli sviluppatori a creare agenti intelligenti.",
-      "Integrazione diretta, senza complicazioni.",
-      "In pratica, una chat AI dentro app che già usi."
+      "Il tuo Linux potrebbe essere già compromesso senza che tu lo sappia.",
+      "Il CopyFail bug colpisce anche le versioni enterprise.",
+      "Anche dopo la patch, la memoria può continuare a perdere dati.",
+      "I log di sicurezza non mostreranno nulla di sospetto.",
+      "Controlla il kernel oggi, non aspettare una violazione."
     ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
+    "savedAt": "2026-05-05T19:10:50.205Z"
   },
   {
-    "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+    "title": "Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries",
     "slides": [
-      "Fervo Energy raccoglie 1,3 miliardi di dollari",
-      "startup geotermica va in borsa",
-      "energia pulita e stabile dal sottosuolo",
-      "investi in azioni IPO Fervo",
-      "esempio: clima caldo, energia sempre disponibile"
+      "Moment Energy ha raccolto 40 milioni, ma per cosa?",
+      "Usano batterie di EV esauste come storage energetico.",
+      "Un singolo impianto può alimentare 500 case per un giorno.",
+      "I gestori di rete tagliano i costi del 30% subito.",
+      "Testa un progetto pilota con la tua utility locale."
     ],
     "thread_text": [
-      "C’è una startup che ha appena raccolto 1,3 miliardi per trivellare il suolo. Non per petrolio. Per energia pulita, 24 ore su 24.",
-      "Si chiama Fervo Energy e la sua tecnologia sfrutta il calore delle rocce profonde. Geotermia, ma con tecniche ispirate al fracking.",
-      "Il bello è che non dipende dal sole o dal vento. Funziona sempre. Anche quando c’è una canicola e tutti accendono l’aria condizionata.",
-      "Fervo sta per quotarsi in borsa. IPO in arrivo. Se l’idea ti sembra interessante, puoi comprare azioni prima che scoppi.",
-      "Morale: la prossima rivoluzione energetica non sta nel cielo. Sta sotto i nostri piedi. Ed è appena diventata un affare pubblico."
+      "Un singolo impianto può alimentare 500 case per un giorno intero.",
+      "Quell'energia non arriva da pannelli nuovi o turbine. Arriva da batterie di auto elettriche che sembravano finite.",
+      "Moment Energy ha appena raccolto 40 milioni per trasformare quei pacchi esausti in storage per la rete elettrica.",
+      "I gestori di rete che li usano tagliano i costi del 30% da subito. Nessuna installazione da zero, solo riutilizzo.",
+      "Costa meno di un abbonamento Netflix testare un progetto pilota con la tua utility locale. Prova a chiedere."
     ],
     "video_script": [
-      "Hanno raccolto 1,3 miliardi per scavare nel terreno.",
-      "Non cercano petrolio, ma calore pulito.",
-      "Si chiama Fervo Energy e va in borsa.",
-      "Funziona anche quando il sole non c'è.",
-      "Sotto i piedi c'è più energia che nel cielo."
+      "Un impianto alimenta 500 case al giorno.",
+      "Con batterie di auto finite.",
+      "Moment Energy ha preso 40 milioni.",
+      "Taglio costi del 30% per la rete.",
+      "Chiedi un pilota alla tua utility."
     ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
-  },
-  {
-    "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
-    "slides": [
-      "Google vende governance AI agentica come prodotto.",
-      "Aziende devono ancora adeguarsi alle regole.",
-      "Strumento utile per conformità e sicurezza.",
-      "Valuta e implementa policy di governance ora.",
-      "Esempio: banca usa Google per audit automatici."
-    ],
-    "thread_text": [
-      "Google vuole che compri la governance AI. Non è un aggiornamento software. È un prodotto.",
-      "Le aziende stanno ancora capendo come muoversi tra regole che cambiano ogni settimana.",
-      "Questo strumento promette di tenerti in regola senza che tu debba diventare un esperto legale.",
-      "Non aspetta che sia troppo tardi. Valuta già ora le tue policy e adattale alla nuova realtà.",
-      "Una banca ha già automatizzato gli audit con questo sistema. Il rischio zero non esiste, ma è questione di chi si muove prima."
-    ],
-    "video_script": [
-      "Google vende governance AI come prodotto.",
-      "Le aziende ancora non sanno cosa fare.",
-      "Con questo strumento stai in regola facile.",
-      "Valuta le tue policy ora, non dopo.",
-      "Una banca fa già audit automatici."
-    ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
-  },
-  {
-    "title": "Image AI models now drive app growth, beating chatbot upgrades",
-    "slides": [
-      "Image AI boosts installs more than chatbots",
-      "Visual content drives user engagement",
-      "Better retention, fewer upgrades needed",
-      "Add image personalization to your app",
-      "Spotify saw 30% lift with AI covers"
-    ],
-    "thread_text": [
-      "Se pensi che le chatbot siano la killer feature dell'AI, ti stai sbagliando. Un'altra tecnologia sta già facendo molto di più.",
-      "I numeri sono chiari: le immagini generate dall'AI portano più installazioni. Le persone vedono, cliccano, scaricano. I chatbot? Non tengono il passo.",
-      "Il contenuto visivo non attira solo, trattiene. Meno aggiornamenti, più fedeltà. È come dare all'utente quello che vuole senza farglielo chiedere.",
-      "Personalizzare le immagini nell'app non è un extra, è la prossima mossa obbligata. Se non lo fai, lo farà qualcun altro con i tuoi utenti.",
-      "Spotify ha provato le cover AI e ha preso un +30%. Il messaggio è chiaro: il futuro dell'engagement non è una chat, è un'immagine."
-    ],
-    "video_script": [
-      "Le immagini battono i chatbot. I dati parlano.",
-      "Più installazioni, perché la gente clicca su ciò che vede.",
-      "Il visuale tiene gli utenti, servono meno aggiornamenti.",
-      "Aggiungi personalizzazione visiva alla tua app ora.",
-      "Spotify è salito del 30% solo con le cover."
-    ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
+    "savedAt": "2026-05-05T17:20:36.578Z"
   },
   {
     "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
     "slides": [
-      "GenAI unicorn pivots from models to cloud services.",
-      "Building AI models proved too costly and complex.",
-      "Cloud services offer steady revenue and lower risk.",
-      "Now they sell AI tools for businesses.",
-      "Example: custom chatbots for Indian firms."
+      "Krutrim pivots from AI models—why?",
+      "Building large models proved too costly.",
+      "They now sell cloud services instead.",
+      "Startups can follow: outsource AI infra.",
+      "Test your core assumption before investing."
     ],
     "thread_text": [
-      "Un unicorno AI ha appena ammesso che costruire modelli non era un buon business. Il pivot è già iniziato.",
-      "I costi per competere con OpenAI e Anthropic sono diventati insostenibili. Meglio vendere vapore acqueo che server.",
-      "Così hanno cambiato strategia: niente più modelli propri, solo servizi cloud a margine alto e ricavi prevedibili.",
-      "Ora vendono strumenti AI confezionati per aziende. Il prodotto non è più la tecnologia, ma la soluzione pronta all'uso.",
-      "Il futuro delle startup AI non sono i modelli, ma le applicazioni verticali. Esempio: chatbot su misura per imprese indiane."
+      "Krutrim smette di costruire i propri modelli AI. Troppo costosi. Ora vende cloud. Una mossa che dice tutto sul mercato.",
+      "Costruire foundation model da zero costa milioni. Solo pochi possono permetterselo. La maggior parte delle startup brucia capitale.",
+      "Krutrim ha girato la chiave: da produttore a rivenditore di infrastruttura. Cloud, GPU a noleggio. Margini migliori, azzardo minore.",
+      "Il segnale per gli altri fondatori: non serve costruire tutto. Affitta ciò che è già pronto. Concentrati sul prodotto, non sul motore.",
+      "Prima di comprare GPU per 1M, testa il tuo assunto con cloud. Costa meno di un abbonamento Pro. Fallo in 48 ore."
     ],
     "video_script": [
-      "Un unicorno AI ha cambiato tutto.",
-      "Costruire modelli costava troppo.",
-      "Ora vendono servizi cloud.",
-      "Strumenti AI pronti per aziende.",
-      "Chatbot personalizzati per clienti indiani."
+      "Hanno mollato i loro modelli AI.",
+      "Costava troppo. Soldi bruciati.",
+      "Ora vendono cloud. Più sano.",
+      "Tu noleggia. Non costruire tutto.",
+      "Testa l'assunto. Gratis. Subito."
+    ],
+    "savedAt": "2026-05-05T17:20:36.578Z"
+  },
+  {
+    "title": "Image AI models now drive app growth, beating chatbot upgrades",
+    "slides": [
+      "Il tuo next big feature non è un chatbot?",
+      "Le immagini convertono utenti meglio dei testi AI.",
+      "I modelli visivi superano i LLM in retention rate.",
+      "Progetta un onboarding visivo: testa subito un A/B.",
+      "Sostituisci un prompt testuale con una schermata oggi."
+    ],
+    "thread_text": [
+      "I modelli visivi tengono gli utenti più a lungo dei LLM. La differenza in retention è misurabile. E se la tua prossima feature è un chatbot, stai scommettendo sulla carta sbagliata.",
+      "Le immagini convertono meglio del testo generato dall'AI. Non è un'opinione: i dati mostrano che una schermata ben progettata spinge l'azione più di qualsiasi prompt.",
+      "Ecco la svolta: se l'onboarding è testuale, perdi utenti prima ancora che inizino. Un onboarding visivo li porta direttamente al valore del prodotto.",
+      "Puoi verificarlo oggi con un A/B test. Metti una schermata contro una spiegazione testuale e guarda i numeri.",
+      "Sostituisci un prompt con una schermata nel tuo prossimo rilascio. Costa meno di un abbonamento Spotify e i risultati arrivano in una settimana."
+    ],
+    "video_script": [
+      "I modelli visivi battono i LLM in retention.",
+      "Le immagini convertono meglio dei testi AI.",
+      "Non è teoria, è dato misurato.",
+      "Onboarding visivo, non testuale.",
+      "Fai subito un A/B test."
+    ],
+    "savedAt": "2026-05-05T17:20:36.578Z"
+  },
+  {
+    "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
+    "slides": [
+      "Hackers exploit a cPanel flaw—have they hit your site?",
+      "The bug allows unauthenticated remote code execution.",
+      "Thousands of sites compromised before a patch was released.",
+      "Check your cPanel version now; many hosts remain vulnerable.",
+      "If unpatched, assume breach and audit immediately."
+    ],
+    "thread_text": [
+      "Se il tuo sito è su cPanel, potresti essere già stato compromesso. Migliaia di siti sono stati violati prima che uscisse una patch.",
+      "La falla permette a chiunque di eseguire codice in remoto senza autenticazione. Basta mandare una richiesta malevola.",
+      "Il bug è stato scoperto, ma nel frattempo gli attaccanti hanno già colpito. I siti vulnerabili erano esposti da tempo.",
+      "Controlla la versione di cPanel che stai usando adesso. Molti hosting provider non hanno ancora applicato la patch.",
+      "Se non è aggiornato, considera che il sito sia già stato violato. Ferma tutto, fai un audit oggi e cambia le credenziali."
+    ],
+    "video_script": [
+      "Hai un sito su cPanel?",
+      "Controllalo subito, è importante.",
+      "Un bug ha permesso attacchi senza login.",
+      "Migliaia di siti sono stati presi di mira.",
+      "La patch è uscita, ma tardi per molti.",
+      "Molti host non l'hanno ancora installata.",
+      "Se non l'hai fatto, dai per certo l'attacco.",
+      "Fai un audit ora, cambia tutte le password."
+    ],
+    "savedAt": "2026-05-05T17:20:36.578Z"
+  },
+  {
+    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+    "slides": [
+      "Cerebras, l'alleato segreto di OpenAI, punta a una IPO colossale?",
+      "Le sue macchine addestrano modelli più velocemente dei GPU tradizionali.",
+      "Ma il suo chip gigante nasconde un tallone d'Achille tecnologico.",
+      "Per gli investitori, il rischio è la dipendenza da un singolo cliente.",
+      "Decidi ora: osservi o entri prima che il prezzo salga?"
+    ],
+    "thread_text": [
+      "Il più grande chip AI del mondo ha un punto debole e dipende da un solo cliente. Se quel cliente se ne va, tutto il castello crolla. Ecco cosa sta succedendo.",
+      "Cerebras costruisce chip enormi che addestrano modelli più velocemente di Nvidia. OpenAI è il suo cliente principale. Un vantaggio enorme, ma anche un rischio gigante.",
+      "Il problema tecnico è la memoria: un chip così grande scalda troppo e consuma energia come una centrale. I concorrenti stanno risolvendo il problema in modo diverso.",
+      "Per ora Cerebras punta a una IPO colossale. Ma gli investitori guardano due cose: la dipendenza da OpenAI e la capacità di reggere il confronto tecnologico a lungo termine.",
+      "La domanda vera è: compri azioni di una società che ha un unico cliente miliardario, o aspetti di vedere se quel cliente resta?"
+    ],
+    "video_script": [
+      "Cerebras ha il chip più grande del mondo.",
+      "Ma dipende quasi solo da OpenAI.",
+      "Se OpenAI cambia fornitore, addio.",
+      "Il chip scala troppo e consuma tanto.",
+      "IPO in arrivo. Entri o aspetti?"
+    ],
+    "savedAt": "2026-05-05T16:15:26.750Z"
+  },
+  {
+    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+    "slides": [
+      "Elon Musk's expert witness fears AGI arms race",
+      "He warns about losing control of AI development",
+      "This witness is a top researcher, not a CEO",
+      "Your AI investments may hinge on trial outcome",
+      "Read his testimony before it impacts your strategy"
+    ],
+    "thread_text": [
+      "Un testimone esperto di Musk ha appena dichiarato che la corsa all'AGI è fuori controllo. Non è un CEO: è un ricercatore top che parla di scenari da incubo.",
+      "Il problema? Secondo lui, stiamo perdendo la guida dello sviluppo AI. Le aziende competono così forte da ignorare i freni di sicurezza.",
+      "Questa testimonianza arriva in un processo che potrebbe ridefinire il futuro dell'AI. Le tue azioni nei fondi AI dipendono dal verdetto.",
+      "Se l'esperto ha ragione, le prossime mosse regolatorie potrebbero gelare gli investimenti. O, al contrario, scatenare una corsa al rialzo.",
+      "Leggi la sua testimonianza completa prima che il mercato reagisca. Costa meno di un caffè: informati e decidi se vendere o tenere."
+    ],
+    "video_script": [
+      "Un esperto di Musk dice che l'AGI è una corsa agli armamenti.",
+      "Avverte: stiamo perdendo il controllo dell'AI.",
+      "Non è un CEO, è un ricercatore serio.",
+      "I tuoi soldi in AI dipendono da questo processo.",
+      "Leggi la sua testimonianza, ora o mai più."
+    ],
+    "savedAt": "2026-05-05T16:15:26.750Z"
+  },
+  {
+    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+    "slides": [
+      "Sierra ha raccolto 950 milioni. Chi resterà indietro?",
+      "L'AI per le imprese è il nuovo campo di battaglia tech.",
+      "Non sono i chatbot: il vero valore sono i workflow autonomi.",
+      "Chi non automatizza ora paga il doppio in due anni.",
+      "Il 2025 separa chi ha vinto da chi ha perso."
+    ],
+    "thread_text": [
+      "Il 2025 separa chi ha vinto da chi ha perso. Non è un'iperbole. È quello che sta succedendo ora nel mercato AI enterprise.",
+      "Sierra ha appena raccolto 950 milioni di dollari. I grandi stanno puntando tutto sull'automazione dei workflow, non sui chatbot.",
+      "Il vero valore non è parlare con un bot. È far sì che il sistema agisca al posto tuo: approvare, ordinare, rispondere, senza intervento umano.",
+      "Chi non automatizza ora, tra due anni pagherà il doppio per recuperare. Costi operativi, personale, opportunità perse — tutto sale.",
+      "Prendi un processo che ripeti ogni giorno. Automatizzalo entro 30 giorni. Se non sai da dove iniziare, parti da quello più ripetitivo."
+    ],
+    "video_script": [
+      "Il 2025 è lo spartiacque.",
+      "Sierra ha preso 950 milioni.",
+      "Non sono i chatbot a fare la differenza.",
+      "I workflow autonomi sono il vero affare.",
+      "Se non inizi ora, paghi il doppio dopo."
     ],
     "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "Katie Haun raises $1B for new venture funds",
     "slides": [
-      "Ex DOJ prosecutor raises $1 billion",
-      "Funds for crypto and web3 startups",
-      "Big money, big trust in crypto",
-      "Shows venture capital still bullish",
-      "Her firm Haun Ventures leads the way"
+      "Katie Haun ha raccolto 1 miliardo? Cosa farà?",
+      "Ha lasciato a16z per fondare Haun Ventures",
+      "Due fondi: uno per early-stage, uno per late",
+      "Crypto VCs ora scommettono su di lei, non solo Bitcoin",
+      "Segui i deal che farà: il settore cambierà rotta"
     ],
     "thread_text": [
-      "Qualcuno ha appena raccolto un miliardo di dollari. Ex procuratore federale. Per criptovalute.",
-      "Non parliamo di un fondo qualsiasi. Katie Haun ha lasciato il governo per costruire uno dei veicoli più grandi del settore.",
-      "Haun Ventures guida la prossima ondata: web3, infrastruttura crypto, startup. Con un miliardo di dollari hai spazio per sbagliare.",
-      "I mercati sono incerti, ma il venture capital non ha smesso di crederci. Anzi: sta raddoppiando.",
-      "Se un ex procuratore mette un miliardo sul tavolo, significa che la fiducia nella crypto non è morta. È solo cambiata.",
-      "Il messaggio è chiaro: mentre tutti guardano ai prezzi, chi conta guarda alla tecnologia."
+      "Ha lasciato a16z, ha raccolto 1 miliardo e ora tutti guardano lei. Katie Haun ha appena lanciato due fondi crypto separati. Uno per startup early-stage, l'altro per late. Il mercato non scommette più solo su Bitcoin.",
+      "Per anni i grandi VC crypto hanno puntato tutto su infrastruttura e Bitcoin. Ora cambiano strategia: puntano su una fondatrice che ha già scalato a16z. Haun Ventures è il test.",
+      "Il primo fondo investe in team prima del product-market fit. Il secondo compra token già liquidi. Due mosse opposte — ma insieme coprono l'intero ciclo di vita di un progetto crypto.",
+      "Perché questa mossa è diversa? Perché Haun non fa solo early-stage. Prova a costruire una macchina da venture capital crypto completa. Se funziona, diventa il modello per tutti i fondi che arriveranno.",
+      "Segui i suoi primi deal pubblici. Quando investirà, decine di fondi seguiranno. Quel deal cambierà rotta per un intero settore. Tienilo sul radar."
     ],
     "video_script": [
-      "Raccolto un miliardo, ex procuratore federale.",
-      "Si chiama Katie Haun, lascia il governo.",
-      "Fondo gigante per crypto e web3.",
-      "Venture capital ancora dentro, anzi di più.",
-      "Fiducia cambiata, non sparita."
-    ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
-  },
-  {
-    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
-    "slides": [
-      "AI analyses height and bone structure",
-      "Detects underage users accurately",
-      "Stops kids lying about age",
-      "For safety and parental control",
-      "Meta tests on teen accounts now"
-    ],
-    "thread_text": [
-      "Se tuo figlio mente sull’età online, l’AI lo becca dalle ossa. Meta lo sta già testando.",
-      "Non si tratta di controllare foto, ma di analizzare struttura ossea e altezza dai video.",
-      "Il sistema stima l’età reale con una precisione che supera qualsiasi dichiarazione falsa.",
-      "Meta lo usa per impedire ai minori di aggirare i blocchi di sicurezza sugli account.",
-      "Il risultato? Controllo parentale senza bisogno di chiedere documenti. O di fidarsi della parola."
-    ],
-    "video_script": [
-      "Meta usa l’AI per beccare i minori sul web.",
-      "Analizza altezza e ossa dai video.",
-      "Così capisce se stai mentendo sull’età.",
-      "Niente più bugie sui moduli online.",
-      "Lo stanno già testando sui teen account."
-    ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
-  },
-  {
-    "title": "Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries",
-    "slides": [
-      "Batterie auto finite elettrizzano le case",
-      "Riuso batterie per accumulare energia",
-      "Risolve carenza di rete elettrica",
-      "Raccolgono batterie usate da fabbriche",
-      "40 milioni per espandere impianti"
-    ],
-    "thread_text": [
-      "Le batterie delle auto elettriche non muoiono mai davvero. Il loro secondo vita potrebbe risolvere un problema enorme dell'energia. E nessuno ne parla.",
-      "Quando una batteria scende sotto l'80% di capacità, le auto non la vogliono più. Ma per una casa, ha ancora anni di energia da dare. È come un power bank gigante dimenticato.",
-      "Il problema non è produrre energia, ma gestirla. Un impianto che accumula batterie usate può assorbire i picchi di rete e restituirla quando serve. Rete più stabile, niente blackout.",
-      "Aziende come la tua stanno già raccogliendo batterie direttamente dalle fabbriche di auto. Il riciclo è solo l'ultima opzione: prima arriva il riuso.",
-      "L'investimento da 40 milioni per espandere questi impianti non è una scommessa. È la prova che la seconda vita delle batterie diventerà un business da miliardi. Se non ci sali ora, arrivi tardi."
-    ],
-    "video_script": [
-      "La batteria della tua auto muore?",
-      "Falso: ha solo finito il primo tempo.",
-      "Per la casa è perfetta ancora per anni.",
-      "Stabilizza la rete senza costruire centrali.",
-      "Ecco come raccolgono quelle usate."
-    ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
-  },
-  {
-    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-    "slides": [
-      "OpenAI sceglie Cerebras per l'AI",
-      "Startup contro NVIDIA nei chip",
-      "IPO da blockbuster in arrivo",
-      "Investitori guardano prestazioni record",
-      "Esempio: training modelli più veloce"
-    ],
-    "thread_text": [
-      "Immagina di scoprire che la scelta più intelligente per il futuro è stata presa da chi non ha il nome più famoso.",
-      "OpenAI ha appena annunciato che userà i chip di Cerebras per i suoi modelli. Una mossa che fa rumore.",
-      "Perché? Perché Cerebras è una startup che sfida NVIDIA, il gigante che domina il settore dei chip per AI.",
-      "E mentre il mondo guarda, Cerebras si prepara a un'IPO che promette di essere una delle più grandi dell'anno.",
-      "Morale: a volte vincere significa scegliere il cavallo giusto prima che gli altri scoprano che è in corsa."
-    ],
-    "video_script": [
-      "OpenAI ha scelto Cerebras per la sua AI.",
-      "Questa startup sfida direttamente NVIDIA.",
-      "Il segreto? Chip più veloci per l'AI.",
-      "I risultati parlano di performance da record.",
-      "Ora tutti guardano all'IPO imminente."
-    ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
-  },
-  {
-    "title": "Physical AI raises governance questions for autonomous systems",
-    "slides": [
-      "Physical AI guida decisioni reali",
-      "Governance definisce i limiti di azione",
-      "Evita caos in sistemi autonomi",
-      "Stabilisci regole chiare ora",
-      "Auto a guida autonoma: chi è colpevole?"
-    ],
-    "thread_text": [
-      "Sei sicuro di volere l'IA a prendere decisioni per te?",
-      "Il problema non è quanto è intelligente, ma chi stabilisce le regole.",
-      "Senza governance, i sistemi autonomi creano caos. Non è fantascienza.",
-      "Le regole vanno scritte adesso, non quando le auto si schiantano.",
-      "La vera domanda: se un'auto a guida autonoma sbaglia, di chi è la colpa? La tua."
-    ],
-    "video_script": [
-      "L'IA decide per te, ma chi la controlla?",
-      "Serve una governance che fissi i limiti.",
-      "Senza regole, i sistemi autonomi diventano caos.",
-      "Le regole vanno decise ora, non dopo un incidente.",
-      "Nell'auto autonoma, la colpa è sempre tua."
-    ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
-  },
-  {
-    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
-    "slides": [
-      "Sierra raccoglie 950 millioni di dollari",
-      "Corsa all'IA enterprise si intensifica",
-      "Soldi per scalare e competere",
-      "IA diventa priorità aziendale",
-      "Investimenti massicci nel settore"
-    ],
-    "thread_text": [
-      "Hai mai visto 950 milioni di dollari cadere su un'azienda in un colpo solo? C'è un motivo se sta succedendo proprio ora.",
-      "Non è solo un record. È il segnale che l'intelligenza artificiale per le aziende non fa più notizia, è la nuova normalità.",
-      "I soldi non servono per fare ricerca, ma per scalare subito. Ogni giorno perso è un cliente che va alla concorrenza.",
-      "Mentre tu decidi se vale la pena, altri stanno già ridisegnando interi processi interni con l'IA.",
-      "Tra un anno, le aziende che non avranno integrato l'intelligenza artificiale saranno fuori gioco. Non è un'opzione, è una corsa."
-    ],
-    "video_script": [
-      "Hai visto i 950 milioni a Sierra?",
-      "Segnale forte per l'IA enterprise.",
-      "Non è solo record, è corsa.",
-      "Soldi per crescere, non sperimentare.",
-      "Ogni giorno perso è un cliente via.",
-      "Mentre decidi, altri già agiscono.",
-      "Tra un anno chi resta fuori perde."
-    ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
-  },
-  {
-    "title": "The evolution of encoders: From simple models to multimodal AI",
-    "slides": [
-      "Encoders started as simple text models",
-      "They turn data into numbers",
-      "Better data means better AI",
-      "Train yours on different inputs",
-      "Multimodal encoders understand text, images, audio"
-    ],
-    "thread_text": [
-      "I modelli AI più potenti non nascono imparando a parlare. Nascono imparando a vedere il mondo come numeri. E se ti dicessi che stai sottovalutando la parte più importante?",
-      "Prima di capire le parole, un encoder trasforma tutto in numeri. Testo, immagini, audio: è lì che inizia la vera magia. Più i dati sono ricchi, più l'AI diventa intelligente.",
-      "Ecco il punto: non serve un encoder pre-addestrato. Puoi addestrarne uno tuo su qualsiasi input. Suoni, sensori, dati finanziari. Più il dato è specifico, più il risultato è potente.",
-      "Ora immagina un encoder che processa insieme testo, immagini e audio. Non separatamente. Un unico modello che capisce il contesto completo. Questo cambia tutto nel modo in cui interagiamo con le macchine.",
-      "Il futuro non è parlare con l'AI. È farla capire come capiamo noi: con tutti i sensi. Se non stai già pensando a quali dati unici hai a disposizione, stai perdendo il vantaggio."
-    ],
-    "video_script": [
-      "Gli encoder partono da testi semplici.",
-      "Trasformano tutto in numeri.",
-      "Dati migliori, AI migliore.",
-      "Addestrali su input diversi.",
-      "Ora capiscono testo, immagini e audio."
-    ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
-  },
-  {
-    "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
-    "slides": [
-      "US gov warns: CopyFail bug hits Linux",
-      "CopyFail corrupts data silently",
-      "Patch now to prevent data loss",
-      "Update your Linux kernel immediately",
-      "CVE-2023-3269: real server crashes reported"
-    ],
-    "thread_text": [
-      "C'è un bug che corrode i dati nel tuo server Linux in questo momento e tu non lo sai.",
-      "Non crasha, non fa rumore. Copia e basta, ma sbaglia. I tuoi file si corrompono senza che nessuno se ne accorga.",
-      "Il governo USA ha appena dato l'allarme: è grave. Se usi Linux in produzione, sei esposto.",
-      "La patch esiste, ma devi applicarla subito. Non aspettare il prossimo reboot programmato.",
-      "CVE-2023-3269 ha già fatto crashare server reali. Non aggiungere il tuo alla lista."
-    ],
-    "video_script": [
-      "Sai che c'è un bug che mangia i dati in silenzio?",
-      "Si chiama CopyFail e colpisce Linux.",
-      "Non crasha, corrompe i file mentre li copi.",
-      "Il governo USA ha detto: è seria, aggiorna subito.",
-      "C'è già la patch, non aspettare."
-    ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
-  },
-  {
-    "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
-    "slides": [
-      "LG+Nvidia talks show AI moving into physical world.",
-      "Physical AI controls robots, factories, not just screens.",
-      "It makes machines smarter, faster, safer without human.",
-      "Train virtual models to run real hardware instantly.",
-      "Factory robots already learn from cloud simulations."
-    ],
-    "thread_text": [
-      "L’AI sta per uscire dagli schermi. E quando lo farà, tutto cambierà.",
-      "Non più solo chatbot o generazione di immagini. Parliamo di robot che vedono, decidono e agiscono da soli.",
-      "Il trucco? I modelli vengono addestrati nel cloud, poi trasferiti su hardware reale. Zero rischi in fabbrica.",
-      "LG e Nvidia stanno già testando questa cosa. Robot che imparano in simulazione e lavorano nel mondo fisico.",
-      "Tra pochi anni, la fabbrica che funziona senza un umano sarà la norma, non l’eccezione."
-    ],
-    "video_script": [
-      "L’AI non sta più solo nei computer.",
-      "Entra nei robot e nelle fabbriche.",
-      "Li rende più veloci, sicuri e autonomi.",
-      "Si addestra nel cloud e funziona subito.",
-      "LG e Nvidia lo stanno già facendo."
+      "Katie Haun ha lasciato a16z.",
+      "Ha raccolto un miliardo di dollari.",
+      "Due fondi separati: early e late.",
+      "I grandi investitori scommettono su di lei.",
+      "Segui dove investe: cambierà tutto."
     ],
     "savedAt": "2026-05-05T15:25:02.038Z"
   }

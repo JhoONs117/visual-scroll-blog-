@@ -1,25 +1,25 @@
 {
   "title": "Physical AI raises governance questions for autonomous systems",
   "slides": [
-    "Physical AI guida decisioni reali",
-    "Governance definisce i limiti di azione",
-    "Evita caos in sistemi autonomi",
-    "Stabilisci regole chiare ora",
-    "Auto a guida autonoma: chi è colpevole?"
+    "Chi governa quando un robot decide da solo?",
+    "I sistemi fisici ora agiscono senza intervento umano",
+    "Un veicolo autonomo ha già scelto chi salvare",
+    "Il tuo prossimo impianto produttivo potrebbe non averti bisogno",
+    "Leggi esistenti? Non coprono questa responsabilità"
   ],
   "thread_text": [
-    "Sei sicuro di volere l'IA a prendere decisioni per te?",
-    "Il problema non è quanto è intelligente, ma chi stabilisce le regole.",
-    "Senza governance, i sistemi autonomi creano caos. Non è fantascienza.",
-    "Le regole vanno scritte adesso, non quando le auto si schiantano.",
-    "La vera domanda: se un'auto a guida autonoma sbaglia, di chi è la colpa? La tua."
+    "Un veicolo autonomo ha già dovuto scegliere chi salvare in un incidente. Il codice ha deciso al posto di un essere umano. Nessuno ha firmato quella decisione.",
+    "Ora immagina una fabbrica in cui i robot gestiscono produzione, logistica e controlli senza alcun intervento umano. Non è un esperimento: è già realtà in alcuni impianti.",
+    "Il problema è che quando un sistema fisico prende una decisione autonoma, non c'è un responsabile chiaro. Il proprietario? Il produttore? Il software? Le leggi attuali non rispondono.",
+    "E le conseguenze sono concrete: incidenti, danni economici, violazioni etiche senza un colpevole individuabile. I tribunali non sanno come gestirlo.",
+    "Se il tuo settore usa già automazione, verifica ora chi è legalmente responsabile per ogni decisione autonoma. Se non c'è una risposta, sei esposto."
   ],
   "video_script": [
-    "L'IA decide per te, ma chi la controlla?",
-    "Serve una governance che fissi i limiti.",
-    "Senza regole, i sistemi autonomi diventano caos.",
-    "Le regole vanno decise ora, non dopo un incidente.",
-    "Nell'auto autonoma, la colpa è sempre tua."
+    "Un veicolo ha deciso chi salvare.",
+    "Nessun umano ha scelto.",
+    "Robot in fabbrica senza controllo.",
+    "Le leggi non coprono questo.",
+    "Chi paga se sbagliano?"
   ],
   "savedAt": "2026-05-07T06:30:18.120Z"
 }
