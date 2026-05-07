@@ -1,5 +1,17 @@
 window.ARTICLES = [
   {
+    "title": "AI helping ease the UK’s NHS burden",
+    "slides": [
+      "Il tuo medico potrebbe non servire più?",
+      "L’AI triage riduce le liste d’attesa del 30%.",
+      "I pazienti ricevono diagnosi in minuti, non ore.",
+      "Abbassa la pressione sul personale NHS oggi.",
+      "Chiedi al tuo GP: usano già l’AI?"
+    ],
+    "pubDate": "Thu, 07 May 2026 09:35:00 +0000",
+    "savedAt": "2026-05-07T10:15:04.949Z"
+  },
+  {
     "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
     "slides": [
       "a16z scommette forte su Ethos: 22,75 milioni.",
