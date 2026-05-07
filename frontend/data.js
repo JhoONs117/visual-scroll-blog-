@@ -1,5 +1,18 @@
 window.ARTICLES = [
   {
+    "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
+    "slides": [
+      "Moonshot AI appena raccolto $2 miliardi. Come ti cambia?",
+      "La startup cinese vale ora $20 miliardi.",
+      "Il segreto? Non un modello chiuso, ma open source.",
+      "Per te significa accesso a IA potente senza licenze.",
+      "Scarica il modello oggi: testalo contro i chiusi."
+    ],
+    "pubDate": "Thu, 07 May 2026 13:44:25 +0000",
+    "savedAt": "2026-05-07T16:01:09.304Z",
+    "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/"
+  },
+  {
     "title": "AI helping ease the UK’s NHS burden",
     "slides": [
       "Il tuo medico potrebbe non servire più?",
