@@ -1,0 +1,27 @@
+{
+  "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+  "slides": [
+    "OpenAI aggiunge un contatto fidato—ma come funziona?",
+    "Attiva quando rileva possibile autolesionismo.",
+    "Non dice al contatto cosa hai scritto.",
+    "Tu decidi se autorizzare l'avviso.",
+    "Attivalo subito nelle impostazioni privacy."
+  ],
+  "thread_text": [
+    "OpenAI non dice al tuo contatto fidato cosa hai scritto. Solo che serve aiuto. Questa è la parte più controversa.",
+    "La funzione si attiva quando il sistema rileva possibili pensieri di autolesionismo nei messaggi.",
+    "Prima di mandare l’avviso, però, chiede a te: vuoi autorizzarlo o no? La scelta resta tua.",
+    "Nessun contenuto viene condiviso. Il contatto riceve solo una notifica: c'è una situazione delicata.",
+    "Se vuoi, puoi attivarla subito dalle impostazioni privacy di ChatGPT. Non costa nulla e può fare la differenza."
+  ],
+  "video_script": [
+    "OpenAI ha una nuova funzione privacy.",
+    "Allerta un contatto fidato se rileva autolesionismo.",
+    "Ma non dice cosa hai scritto.",
+    "Sei tu a decidere se inviare l'avviso.",
+    "Attivala subito dalle impostazioni."
+  ],
+  "pubDate": "Thu, 07 May 2026 20:20:20 +0000",
+  "savedAt": "2026-05-07T20:59:14.576Z",
+  "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/"
+}

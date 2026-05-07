@@ -1,5 +1,59 @@
 window.ARTICLES = [
   {
+    "title": "Tesla Model Y is first car to meet new US driver assistance safety benchmark",
+    "slides": [
+      "Tesla Model Y passed the test. What did others miss?",
+      "The new benchmark measures driver engagement, not just tech.",
+      "Other automakers failed despite similar hardware.",
+      "Your next car purchase depends on this score.",
+      "Compare your current car's safety rating today."
+    ],
+    "thread_text": [
+      "Altri costruttori hanno fallito lo stesso test. Con lo stesso hardware identico. Cosa hanno sbagliato?",
+      "Tesla Model Y è passata. Ma il test non misurava soltanto la tecnologia a bordo.",
+      "Il nuovo benchmark valuta quanto il conducente resta coinvolto nella guida, non quanti schermi ci sono.",
+      "Risultato: auto che sembravano identiche sulla carta hanno preso strade opposte nei voti finali.",
+      "Prima di comprare la prossima auto, controlla il suo punteggio. Potrebbe cambiare la tua scelta."
+    ],
+    "video_script": [
+      "Altri hanno fallito con lo stesso hardware.",
+      "Tu sai perché?",
+      "La Model Y ha superato un test diverso.",
+      "Non conta cosa monti, ma come guidi.",
+      "Il tuo prossimo acquisto dipende da questo."
+    ],
+    "pubDate": "Thu, 07 May 2026 20:10:48 +0000",
+    "savedAt": "2026-05-07T20:59:19.264Z",
+    "link": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/"
+  },
+  {
+    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+    "slides": [
+      "OpenAI aggiunge un contatto fidato—ma come funziona?",
+      "Attiva quando rileva possibile autolesionismo.",
+      "Non dice al contatto cosa hai scritto.",
+      "Tu decidi se autorizzare l'avviso.",
+      "Attivalo subito nelle impostazioni privacy."
+    ],
+    "thread_text": [
+      "OpenAI non dice al tuo contatto fidato cosa hai scritto. Solo che serve aiuto. Questa è la parte più controversa.",
+      "La funzione si attiva quando il sistema rileva possibili pensieri di autolesionismo nei messaggi.",
+      "Prima di mandare l’avviso, però, chiede a te: vuoi autorizzarlo o no? La scelta resta tua.",
+      "Nessun contenuto viene condiviso. Il contatto riceve solo una notifica: c'è una situazione delicata.",
+      "Se vuoi, puoi attivarla subito dalle impostazioni privacy di ChatGPT. Non costa nulla e può fare la differenza."
+    ],
+    "video_script": [
+      "OpenAI ha una nuova funzione privacy.",
+      "Allerta un contatto fidato se rileva autolesionismo.",
+      "Ma non dice cosa hai scritto.",
+      "Sei tu a decidere se inviare l'avviso.",
+      "Attivala subito dalle impostazioni."
+    ],
+    "pubDate": "Thu, 07 May 2026 20:20:20 +0000",
+    "savedAt": "2026-05-07T20:59:14.576Z",
+    "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/"
+  },
+  {
     "title": "Google’s $9.99-per-month AI health coach launches May 19",
     "slides": [
       "Google lancia un coach AI salute a $9.99/mese.",
