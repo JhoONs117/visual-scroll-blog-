@@ -23,7 +23,8 @@ window.ARTICLES = [
       "Diagnosi in minuti, non in ore.",
       "Meno pressione sui medici esausti.",
       "Chiedi al tuo dottore: lo usano?"
-    ]
+    ],
+    "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/"
   },
   {
     "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
@@ -48,7 +49,8 @@ window.ARTICLES = [
       "Loro la usano per addestrare l'AI.",
       "La tua voce vale più del tuo CV ora."
     ],
-    "savedAt": "2026-05-07T06:30:18.120Z"
+    "savedAt": "2026-05-07T06:30:18.120Z",
+    "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/"
   },
   {
     "title": "Five architects of the AI economy explain where the wheels are coming off",
@@ -73,7 +75,8 @@ window.ARTICLES = [
       "Your favorite AI tool might crash or jack up prices soon.",
       "Check your vendor's margins before you scale any deeper."
     ],
-    "savedAt": "2026-05-07T06:30:18.120Z"
+    "savedAt": "2026-05-07T06:30:18.120Z",
+    "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/"
   },
   {
     "title": "Is xAI a neocloud now?",
@@ -98,7 +101,8 @@ window.ARTICLES = [
       "Non è una piattaforma completa, è un acceleratore.",
       "Prova un modello singolo e vedi se ti conviene."
     ],
-    "savedAt": "2026-05-06T22:41:09.199Z"
+    "savedAt": "2026-05-06T22:41:09.199Z",
+    "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/"
   },
   {
     "title": "Google updates AI search to include quotes from Reddit and other sources",
@@ -123,7 +127,8 @@ window.ARTICLES = [
       "Il tuo contenuto diventa carburante gratis.",
       "Controlla se i tuoi dati sono già lì."
     ],
-    "savedAt": "2026-05-06T21:03:59.236Z"
+    "savedAt": "2026-05-06T21:03:59.236Z",
+    "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/"
   },
   {
     "title": "Microsoft’s AI data center push is colliding with its clean power goals",
@@ -150,7 +155,8 @@ window.ARTICLES = [
       "Ogni query che fai ha un costo nascosto enorme.",
       "Quindi, la prossima volta, pensaci due volte prima di chiedere cose inutili."
     ],
-    "savedAt": "2026-05-06T21:03:59.236Z"
+    "savedAt": "2026-05-06T21:03:59.236Z",
+    "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/"
   },
   {
     "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
@@ -175,7 +181,8 @@ window.ARTICLES = [
       "Controlla subito i tuoi token.",
       "Ruota tutte le credenziali sensibili oggi."
     ],
-    "savedAt": "2026-05-06T19:24:59.578Z"
+    "savedAt": "2026-05-06T19:24:59.578Z",
+    "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/"
   },
   {
     "title": "How Elon Musk left OpenAI, according to Greg Brockman",
@@ -202,7 +209,8 @@ window.ARTICLES = [
       "Leggi il racconto di Brockman.",
       "Poi decidi chi aveva ragione."
     ],
-    "savedAt": "2026-05-06T19:24:59.578Z"
+    "savedAt": "2026-05-06T19:24:59.578Z",
+    "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/"
   },
   {
     "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
@@ -227,7 +235,8 @@ window.ARTICLES = [
       "Costi giù del 30% in tre mesi.",
       "Chiedi demo, non fidarti delle slide."
     ],
-    "savedAt": "2026-05-06T19:24:59.578Z"
+    "savedAt": "2026-05-06T19:24:59.578Z",
+    "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/"
   },
   {
     "title": "AI boom pushes Samsung to $1T",
@@ -277,7 +286,8 @@ window.ARTICLES = [
       "Basta inseguire l'ultimo modello.",
       "Allinea i dati e vinci."
     ],
-    "savedAt": "2026-05-06T17:28:18.758Z"
+    "savedAt": "2026-05-06T17:28:18.758Z",
+    "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/"
   },
   {
     "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
@@ -303,7 +313,8 @@ window.ARTICLES = [
       "Rischiano di perdere il contatto con gli utenti.",
       "L'AI non risolve tutto."
     ],
-    "savedAt": "2026-05-06T17:28:18.758Z"
+    "savedAt": "2026-05-06T17:28:18.758Z",
+    "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/"
   },
   {
     "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
@@ -328,7 +339,8 @@ window.ARTICLES = [
       "Stesso tool, prezzo più alto. Non è miglioramento, è scusa.",
       "Non finanziare la loro espansione. Costruisci alternative leggere."
     ],
-    "savedAt": "2026-05-06T12:53:19.970Z"
+    "savedAt": "2026-05-06T12:53:19.970Z",
+    "link": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/"
   },
   {
     "title": "US government increases AI suppliers and rethinks Anthropic’s role",
@@ -353,7 +365,8 @@ window.ARTICLES = [
       "Chi lavora con AI deve guardare bene.",
       "Diversifica i tuoi fornitori, ora."
     ],
-    "savedAt": "2026-05-06T12:46:34.002Z"
+    "savedAt": "2026-05-06T12:46:34.002Z",
+    "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/"
   },
   {
     "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
@@ -403,7 +416,8 @@ window.ARTICLES = [
       "Lo trovi già nelle impostazioni.",
       "Immagina: prenota il tuo viaggio mentre dormi."
     ],
-    "savedAt": "2026-05-06T10:10:03.362Z"
+    "savedAt": "2026-05-06T10:10:03.362Z",
+    "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/"
   },
   {
     "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet",
@@ -503,7 +517,8 @@ window.ARTICLES = [
       "Imposta un budget, non sfori mai.",
       "Come Netflix, paghi per l’uso, non per il potenziale."
     ],
-    "savedAt": "2026-05-06T10:10:03.362Z"
+    "savedAt": "2026-05-06T10:10:03.362Z",
+    "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/"
   },
   {
     "title": "IBM launches AI platform Bob to regulate SDLC costs",
@@ -607,7 +622,8 @@ window.ARTICLES = [
       "Integri i controlli in pochi passi.",
       "Una banca ha tagliato le perdite del trenta percento."
     ],
-    "savedAt": "2026-05-05T20:54:55.310Z"
+    "savedAt": "2026-05-05T20:54:55.310Z",
+    "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/"
   },
   {
     "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
@@ -757,7 +773,8 @@ window.ARTICLES = [
       "Le aziende devono testarli e limitarli ora.",
       "Nel 2024 un agente ha già violato le regole."
     ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
+    "savedAt": "2026-05-05T15:25:02.038Z",
+    "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/"
   },
   {
     "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
@@ -857,7 +874,8 @@ window.ARTICLES = [
       "Valuta le tue policy ora, non dopo.",
       "Una banca fa già audit automatici."
     ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
+    "savedAt": "2026-05-05T15:25:02.038Z",
+    "link": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/"
   },
   {
     "title": "Image AI models now drive app growth, beating chatbot upgrades",
@@ -1032,7 +1050,8 @@ window.ARTICLES = [
       "Le regole vanno decise ora, non dopo un incidente.",
       "Nell'auto autonoma, la colpa è sempre tua."
     ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
+    "savedAt": "2026-05-05T15:25:02.038Z",
+    "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/"
   },
   {
     "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
@@ -1132,6 +1151,7 @@ window.ARTICLES = [
       "Si addestra nel cloud e funziona subito.",
       "LG e Nvidia lo stanno già facendo."
     ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
+    "savedAt": "2026-05-05T15:25:02.038Z",
+    "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/"
   }
 ];
