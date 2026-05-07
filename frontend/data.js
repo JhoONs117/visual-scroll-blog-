@@ -1,5 +1,59 @@
 window.ARTICLES = [
   {
+    "title": "Google unveils Whoop-like screenless Fitbit Air",
+    "slides": [
+      "Google elimina lo schermo sul nuovo Fitbit Air.",
+      "Sostituisce il display con sensori tattili avanzati.",
+      "Raccoglie più dati biologici di un orologio tradizionale.",
+      "Non vedrai mai le notifiche: solo segnali sulla pelle.",
+      "Provalo oggi: indossalo e dimentica il polso."
+    ],
+    "thread_text": [
+      "Non vedrai mai più le notifiche sullo schermo. Solo segnali sulla pelle.",
+      "Google ha appena tolto il display dal nuovo Fitbit Air. Lo sostituisce con sensori tattili.",
+      "Raccoglie più dati biologici di un orologio tradizionale. Temperatura, sudorazione, battito in continuo.",
+      "Niente notifiche visive: ricevi un tocco sul polso per ogni avviso. Impari a riconoscerli.",
+      "Costa meno di un abbonamento Spotify. Provalo questa settimana e dimentica lo schermo."
+    ],
+    "video_script": [
+      "Google ha eliminato lo schermo dal nuovo Fitbit.",
+      "Sostituito da sensori tattili avanzati.",
+      "Raccoglie più dati biologici di un orologio classico.",
+      "Niente notifiche visive, solo segnali sulla pelle.",
+      "Provalo oggi: indossalo e dimentica il polso."
+    ],
+    "pubDate": "Thu, 07 May 2026 15:17:38 +0000",
+    "savedAt": "2026-05-07T22:53:42.786Z",
+    "link": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/"
+  },
+  {
+    "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
+    "slides": [
+      "Kodiak AI stock crashes 37% after funding round",
+      "Investors paid 40% less than last valuation",
+      "Founders took the deal anyway—why now?",
+      "Your portfolio might mirror this desperation signal",
+      "Audit your cash runway before markets decide"
+    ],
+    "thread_text": [
+      "I fondatori di Kodiak AI hanno accettato un round con sconto del 40%. Non perché fosse una buona offerta. Ma perché non avevano scelta.",
+      "Sei mesi fa la società valeva 500 milioni. Ora gli investitori pagano il 40% in meno e chiamano la cosa 'accordo'. Il mercato ha già deciso il prezzo.",
+      "Se chi guida l'azienda accetta condizioni così peggiorative, il segnale è chiaro: la cassa sta per esaurirsi. È una corsa contro il tempo.",
+      "Il tuo portafoglio non è diverso. Se non sai quanti mesi di autonomia hai, stai già replicando lo stesso schema di disperazione.",
+      "Quanti mesi di cassa ti restano? Se la risposta è meno di 12, inizia oggi un audit. Il mercato non aspetta."
+    ],
+    "video_script": [
+      "I fondatori hanno accettato un round peggiore.",
+      "Non perché fosse una buona affare.",
+      "Ma perché non avevano scelta.",
+      "La cassa stava finendo.",
+      "Ora tu cosa fai? Controlla la tua."
+    ],
+    "pubDate": "Thu, 07 May 2026 21:49:24 +0000",
+    "savedAt": "2026-05-07T22:53:37.658Z",
+    "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/"
+  },
+  {
     "title": "Tesla Model Y is first car to meet new US driver assistance safety benchmark",
     "slides": [
       "Tesla Model Y passed the test. What did others miss?",
