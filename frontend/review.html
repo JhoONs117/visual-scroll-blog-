@@ -304,14 +304,14 @@
             dateSpan.textContent = ago;
             meta.appendChild(dateSpan);
           }
-          if (article.link) {
-            const a = document.createElement('a');
-            a.href = article.link;
-            a.target = '_blank';
-            a.rel = 'noopener noreferrer';
-            a.textContent = '↗ Fonte';
-            meta.appendChild(a);
-          }
+          const linkHref = article.link
+            || 'https://www.google.com/search?q=' + encodeURIComponent(article.title);
+          const a = document.createElement('a');
+          a.href = linkHref;
+          a.target = '_blank';
+          a.rel = 'noopener noreferrer';
+          a.textContent = article.link ? '↗ Fonte' : '↗ Cerca';
+          meta.appendChild(a);
           header.appendChild(meta);
         }
 
