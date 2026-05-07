@@ -21,7 +21,8 @@ window.ARTICLES = [
       "Se lo lasci senza controllo, combina guai.",
       "Le aziende devono testarli e limitarli ora.",
       "Nel 2024 un agente ha già violato le regole."
-    ]
+    ],
+    "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
@@ -45,7 +46,8 @@ window.ARTICLES = [
       "Chi usa l'AI cresce, non sparisce.",
       "Impara a usarla ogni giorno.",
       "Nvidia assume più persone grazie all'AI."
-    ]
+    ],
+    "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
@@ -69,7 +71,8 @@ window.ARTICLES = [
       "Aiuta gli sviluppatori a creare agenti intelligenti.",
       "Integrazione diretta, senza complicazioni.",
       "In pratica, una chat AI dentro app che già usi."
-    ]
+    ],
+    "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
@@ -93,7 +96,8 @@ window.ARTICLES = [
       "Si chiama Fervo Energy e va in borsa.",
       "Funziona anche quando il sole non c'è.",
       "Sotto i piedi c'è più energia che nel cielo."
-    ]
+    ],
+    "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
@@ -117,7 +121,8 @@ window.ARTICLES = [
       "Con questo strumento stai in regola facile.",
       "Valuta le tue policy ora, non dopo.",
       "Una banca fa già audit automatici."
-    ]
+    ],
+    "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "Image AI models now drive app growth, beating chatbot upgrades",
@@ -141,7 +146,8 @@ window.ARTICLES = [
       "Il visuale tiene gli utenti, servono meno aggiornamenti.",
       "Aggiungi personalizzazione visiva alla tua app ora.",
       "Spotify è salito del 30% solo con le cover."
-    ]
+    ],
+    "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
@@ -165,7 +171,8 @@ window.ARTICLES = [
       "Ora vendono servizi cloud.",
       "Strumenti AI pronti per aziende.",
       "Chatbot personalizzati per clienti indiani."
-    ]
+    ],
+    "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "Katie Haun raises $1B for new venture funds",
@@ -190,7 +197,8 @@ window.ARTICLES = [
       "Fondo gigante per crypto e web3.",
       "Venture capital ancora dentro, anzi di più.",
       "Fiducia cambiata, non sparita."
-    ]
+    ],
+    "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
@@ -214,7 +222,8 @@ window.ARTICLES = [
       "Così capisce se stai mentendo sull’età.",
       "Niente più bugie sui moduli online.",
       "Lo stanno già testando sui teen account."
-    ]
+    ],
+    "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries",
@@ -238,7 +247,8 @@ window.ARTICLES = [
       "Per la casa è perfetta ancora per anni.",
       "Stabilizza la rete senza costruire centrali.",
       "Ecco come raccolgono quelle usate."
-    ]
+    ],
+    "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
@@ -262,7 +272,8 @@ window.ARTICLES = [
       "Il segreto? Chip più veloci per l'AI.",
       "I risultati parlano di performance da record.",
       "Ora tutti guardano all'IPO imminente."
-    ]
+    ],
+    "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "Physical AI raises governance questions for autonomous systems",
@@ -286,7 +297,8 @@ window.ARTICLES = [
       "Senza regole, i sistemi autonomi diventano caos.",
       "Le regole vanno decise ora, non dopo un incidente.",
       "Nell'auto autonoma, la colpa è sempre tua."
-    ]
+    ],
+    "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
@@ -312,7 +324,8 @@ window.ARTICLES = [
       "Ogni giorno perso è un cliente via.",
       "Mentre decidi, altri già agiscono.",
       "Tra un anno chi resta fuori perde."
-    ]
+    ],
+    "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "The evolution of encoders: From simple models to multimodal AI",
@@ -336,7 +349,8 @@ window.ARTICLES = [
       "Dati migliori, AI migliore.",
       "Addestrali su input diversi.",
       "Ora capiscono testo, immagini e audio."
-    ]
+    ],
+    "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
@@ -360,7 +374,8 @@ window.ARTICLES = [
       "Non crasha, corrompe i file mentre li copi.",
       "Il governo USA ha detto: è seria, aggiorna subito.",
       "C'è già la patch, non aspettare."
-    ]
+    ],
+    "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
@@ -384,7 +399,8 @@ window.ARTICLES = [
       "Li rende più veloci, sicuri e autonomi.",
       "Si addestra nel cloud e funziona subito.",
       "LG e Nvidia lo stanno già facendo."
-    ]
+    ],
+    "savedAt": "2026-05-05T15:25:02.038Z"
   },
   {
     "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
@@ -408,7 +424,8 @@ window.ARTICLES = [
       "Hanno paura di un'IA fuori controllo.",
       "Servirebbe una pausa globale, subito.",
       "USA e Cina competono, e sarà pericoloso."
-    ]
+    ],
+    "savedAt": "2026-05-05T16:15:26.750Z"
   },
   {
     "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
@@ -432,7 +449,8 @@ window.ARTICLES = [
       "Migliaia di server sono compromessi.",
       "Non serve essere un bersaglio specifico.",
       "Ferma tutto e aggiorna adesso."
-    ]
+    ],
+    "savedAt": "2026-05-05T16:15:26.750Z"
   },
   {
     "title": "PayPal says it’s ‘becoming a technology company again.’ That means AI.",
@@ -456,7 +474,8 @@ window.ARTICLES = [
       "I pagamenti sono più sicuri e veloci.",
       "Blocca le frodi prima che accadano.",
       "Tu non vedi nulla, ma funziona."
-    ]
+    ],
+    "savedAt": "2026-05-05T16:15:26.750Z"
   },
   {
     "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
@@ -480,7 +499,8 @@ window.ARTICLES = [
       "È più veloce e molto più intelligente.",
       "Le risposte arrivano subito e sono precise.",
       "Provalo ora in ChatGPT e vedi."
-    ]
+    ],
+    "savedAt": "2026-05-05T17:20:36.578Z"
   },
   {
     "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
@@ -504,7 +524,8 @@ window.ARTICLES = [
       "Mentiva spacciandosi per dottore.",
       "Controlla sempre le fonti.",
       "Causa in Pennsylvania: serve prudenza."
-    ]
+    ],
+    "savedAt": "2026-05-05T19:10:50.205Z"
   },
   {
     "title": "SAP: How enterprise AI governance secures profit margins",
@@ -528,7 +549,8 @@ window.ARTICLES = [
       "Riduci rischi e salvi i margini.",
       "Integri i controlli in pochi passi.",
       "Una banca ha tagliato le perdite del trenta percento."
-    ]
+    ],
+    "savedAt": "2026-05-05T20:54:55.310Z"
   },
   {
     "title": "As crypto cools, a16z crypto raises a $2.2B fund",
@@ -553,7 +575,8 @@ window.ARTICLES = [
       "Investono in startup, non in token volatili.",
       "Cinque-dieci anni di pazienza, niente fretta.",
       "Quando la folla ha paura, i grandi costruiscono."
-    ]
+    ],
+    "savedAt": "2026-05-06T02:01:27.183Z"
   },
   {
     "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
@@ -577,7 +600,8 @@ window.ARTICLES = [
       "Le business app diventano intelligenti e veloci.",
       "Puoi già provare i loro nuovi strumenti AI.",
       "Si comportano come startup, ma hanno le spalle grosse."
-    ]
+    ],
+    "savedAt": "2026-05-06T02:01:27.183Z"
   },
   {
     "title": "IBM launches AI platform Bob to regulate SDLC costs",
@@ -604,7 +628,8 @@ window.ARTICLES = [
       "Il risultato? Meno sprechi, più codice utile.",
       "Non devi licenziare nessuno, solo delegare meglio.",
       "Il futuro è lavorare con l'AI, non contro."
-    ]
+    ],
+    "savedAt": "2026-05-06T06:24:55.443Z"
   },
   {
     "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
@@ -628,7 +653,8 @@ window.ARTICLES = [
       "Ma tu decidi sempre l'ultima parola.",
       "Lo trovi già nelle impostazioni.",
       "Immagina: prenota il tuo viaggio mentre dormi."
-    ]
+    ],
+    "savedAt": "2026-05-06T10:10:03.362Z"
   },
   {
     "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet",
@@ -652,7 +678,8 @@ window.ARTICLES = [
       "Pianifica e decide cosa fare.",
       "Risolve problemi senza il tuo controllo.",
       "Le aziende hanno guadagnato il 40% di tempo."
-    ]
+    ],
+    "savedAt": "2026-05-06T10:10:03.362Z"
   },
   {
     "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
@@ -676,7 +703,8 @@ window.ARTICLES = [
       "Cerca un processo semplice da automatizzare.",
       "Un chatbot per il supporto è un ottimo inizio.",
       "Inizia ora, prendi il tuo win veloce."
-    ]
+    ],
+    "savedAt": "2026-05-06T10:10:03.362Z"
   },
   {
     "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
@@ -700,7 +728,8 @@ window.ARTICLES = [
       "Costi e competenze? Tagliati di netto.",
       "Ora chiunque può creare un menu da zero.",
       "Pensa a un ristorante virtuale gestito solo con AI."
-    ]
+    ],
+    "savedAt": "2026-05-06T10:10:03.362Z"
   },
   {
     "title": "Per-token AI charges come to GitHub Copilot",
@@ -724,7 +753,8 @@ window.ARTICLES = [
       "Più usi, più spendi, ma è chiaro.",
       "Imposta un budget, non sfori mai.",
       "Come Netflix, paghi per l’uso, non per il potenziale."
-    ]
+    ],
+    "savedAt": "2026-05-06T10:10:03.362Z"
   },
   {
     "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
@@ -748,7 +778,8 @@ window.ARTICLES = [
       "Non un solo motore, ma tanti diversi.",
       "Niente più aggiornamenti lenti da aspettare.",
       "Fai questo test: chiedi e confronta le risposte."
-    ]
+    ],
+    "savedAt": "2026-05-06T12:34:54.696Z"
   },
   {
     "title": "US government increases AI suppliers and rethinks Anthropic’s role",
@@ -772,7 +803,8 @@ window.ARTICLES = [
       "Ora vanno con startup più piccole.",
       "Chi lavora con AI deve guardare bene.",
       "Diversifica i tuoi fornitori, ora."
-    ]
+    ],
+    "savedAt": "2026-05-06T12:46:34.002Z"
   },
   {
     "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
@@ -796,7 +828,8 @@ window.ARTICLES = [
       "Profitti alti, chiedono budget ancora più grandi.",
       "Stesso tool, prezzo più alto. Non è miglioramento, è scusa.",
       "Non finanziare la loro espansione. Costruisci alternative leggere."
-    ]
+    ],
+    "savedAt": "2026-05-06T12:53:19.970Z"
   },
   {
     "title": "AI boom pushes Samsung to $1T",
@@ -820,7 +853,8 @@ window.ARTICLES = [
       "Ma Samsung vende la metà di SK Hynix.",
       "Utili record in arrivo per gli azionisti.",
       "Decidi sui dati: vendere o comprare."
-    ]
+    ],
+    "savedAt": "2026-05-06T17:28:18.758Z"
   },
   {
     "title": "HP and the art of AI and data for the enterprise",
@@ -844,7 +878,8 @@ window.ARTICLES = [
       "I dati sporchi diventano decisioni vincenti.",
       "Basta inseguire l'ultimo modello.",
       "Allinea i dati e vinci."
-    ]
+    ],
+    "savedAt": "2026-05-06T17:28:18.758Z"
   },
   {
     "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
@@ -869,7 +904,8 @@ window.ARTICLES = [
       "Ora i bot rispondono al posto degli umani.",
       "Rischiano di perdere il contatto con gli utenti.",
       "L'AI non risolve tutto."
-    ]
+    ],
+    "savedAt": "2026-05-06T17:28:18.758Z"
   },
   {
     "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
@@ -893,7 +929,8 @@ window.ARTICLES = [
       "Hanno chiesto a tutti di cambiare le chiavi.",
       "Controlla subito i tuoi token.",
       "Ruota tutte le credenziali sensibili oggi."
-    ]
+    ],
+    "savedAt": "2026-05-06T19:24:59.578Z"
   },
   {
     "title": "How Elon Musk left OpenAI, according to Greg Brockman",
@@ -917,7 +954,8 @@ window.ARTICLES = [
       "Then he tried to merge it into Tesla.",
       "You don't need a board seat to shape AI.",
       "Do your founders share your mission?"
-    ]
+    ],
+    "savedAt": "2026-05-06T19:24:59.578Z"
   },
   {
     "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
@@ -941,7 +979,8 @@ window.ARTICLES = [
       "Non solo bracci: tutta la fabbrica.",
       "Costi giù del 30% in tre mesi.",
       "Chiedi demo, non fidarti delle slide."
-    ]
+    ],
+    "savedAt": "2026-05-06T19:24:59.578Z"
   },
   {
     "title": "Google updates AI search to include quotes from Reddit and other sources",
@@ -965,7 +1004,8 @@ window.ARTICLES = [
       "Niente link, frasi fuori contesto.",
       "Il tuo contenuto diventa carburante gratis.",
       "Controlla se i tuoi dati sono già lì."
-    ]
+    ],
+    "savedAt": "2026-05-06T21:03:59.236Z"
   },
   {
     "title": "Microsoft’s AI data center push is colliding with its clean power goals",
@@ -991,7 +1031,8 @@ window.ARTICLES = [
       "Le rinnovabili non bastano per questa fame assurda.",
       "Ogni query che fai ha un costo nascosto enorme.",
       "Quindi, la prossima volta, pensaci due volte prima di chiedere cose inutili."
-    ]
+    ],
+    "savedAt": "2026-05-06T21:03:59.236Z"
   },
   {
     "title": "Is xAI a neocloud now?",
@@ -1015,7 +1056,8 @@ window.ARTICLES = [
       "Non serve solo per addestrare modelli.",
       "Startup, prendete i chip top ora.",
       "La tua infrastruttura è già vecchia."
-    ]
+    ],
+    "savedAt": "2026-05-06T22:41:09.199Z"
   },
   {
     "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
@@ -1039,7 +1081,8 @@ window.ARTICLES = [
       "Voice onboarding, tocco umano diretto.",
       "Consulenti vogliono risposte rapide, non pdf.",
       "Senza voce, perdi il vantaggio competitivo."
-    ]
+    ],
+    "savedAt": "2026-05-07T06:30:18.120Z"
   },
   {
     "title": "Five architects of the AI economy explain where the wheels are coming off",
@@ -1063,6 +1106,7 @@ window.ARTICLES = [
       "I dati sono pieni di rumore.",
       "Devi verificare ogni risposta.",
       "La qualità batte la scala."
-    ]
+    ],
+    "savedAt": "2026-05-07T06:30:18.120Z"
   }
 ];

@@ -264,6 +264,15 @@
 
     const isTouch = () => window.matchMedia('(hover: none) and (pointer: coarse)').matches;
 
+    function timeAgo(isoString) {
+      if (!isoString) return '';
+      const diff = Math.floor((Date.now() - new Date(isoString)) / 1000);
+      if (diff < 3600)  return Math.max(1, Math.floor(diff / 60)) + 'm fa';
+      if (diff < 86400) return Math.floor(diff / 3600) + 'h fa';
+      if (diff < 172800) return 'ieri';
+      return Math.floor(diff / 86400) + 'gg fa';
+    }
+
     const BADGES = ['NOTIZIA', 'CONTESTO', 'SORPRESA', 'IMPATTO', 'TAKEAWAY'];
 
     function icon(path) {
@@ -354,7 +363,8 @@
 
           const src = document.createElement('div');
           src.className = 'slide-source';
-          src.textContent = 'AI News · ' + article.title;
+          const ago = timeAgo(article.pubDate || article.savedAt);
+          src.textContent = 'AI News' + (ago ? ' · ' + ago : '') + ' · ' + article.title;
           capWrap.appendChild(src);
 
           const tweetText = thread[i] || '';

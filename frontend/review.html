@@ -162,6 +162,15 @@
 
   <script src="data.js"></script>
   <script>
+    function timeAgo(isoString) {
+      if (!isoString) return '';
+      const diff = Math.floor((Date.now() - new Date(isoString)) / 1000);
+      if (diff < 3600)  return Math.max(1, Math.floor(diff / 60)) + 'm fa';
+      if (diff < 86400) return Math.floor(diff / 3600) + 'h fa';
+      if (diff < 172800) return 'ieri';
+      return Math.floor(diff / 86400) + 'gg fa';
+    }
+
     function copyText(text) {
       if (navigator.clipboard && window.isSecureContext) {
         return navigator.clipboard.writeText(text);
@@ -249,6 +258,14 @@
         titleEl.className = 'article-title';
         titleEl.textContent = article.title;
         header.appendChild(titleEl);
+
+        const ago = timeAgo(article.pubDate || article.savedAt);
+        if (ago) {
+          const dateEl = document.createElement('div');
+          dateEl.style.cssText = 'font-size:0.75rem;color:#4a5568;margin-top:3px;flex-basis:100%';
+          dateEl.textContent = ago;
+          header.appendChild(dateEl);
+        }
 
         const btn = document.createElement('button');
         btn.className = 'copy-btn';
