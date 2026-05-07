@@ -1,5 +1,18 @@
 window.ARTICLES = [
   {
+    "title": "Google’s $9.99-per-month AI health coach launches May 19",
+    "slides": [
+      "Google lancia un coach AI salute a $9.99/mese.",
+      "Funziona con Fitbit e Pixel Watch il 19 maggio.",
+      "Ma non sa diagnosticare—solo consigli generali.",
+      "Per te: rischi falsa sicurezza senza controllo medico.",
+      "Provalo gratis? Poi chiedi al tuo dottore."
+    ],
+    "pubDate": "Thu, 07 May 2026 15:35:38 +0000",
+    "savedAt": "2026-05-07T19:27:54.375Z",
+    "link": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/"
+  },
+  {
     "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
     "slides": [
       "Moonshot AI appena raccolto $2 miliardi. Come ti cambia?",
