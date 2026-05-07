@@ -10,7 +10,21 @@ window.ARTICLES = [
     ],
     "pubDate": "Thu, 07 May 2026 15:35:38 +0000",
     "savedAt": "2026-05-07T19:27:54.375Z",
-    "link": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/"
+    "link": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/",
+    "thread_text": [
+      "Google lancia un coach AI salute a $9.99 al mese. Ma non può diagnosticarti niente. Solo consigli generici. Il problema? Ti dà una falsa sicurezza che potrebbe tenerti lontano dal medico quando serve davvero.",
+      "Funzionerà con Fitbit e Pixel Watch dal 19 maggio. Monitora sonno, attività, frequenza cardiaca. Tutti dati utili, ma l'AI non è un dottore.",
+      "Il rischio è che ti fidi di un responso automatico e ignori sintomi seri. Un 'tutto ok' dall'algoritmo non sostituisce una visita.",
+      "Google lo sa: per questo il servizio si chiama 'coach', non 'diagnostico'. Ma molti utenti potrebbero non fare questa distinzione.",
+      "Costa meno di un abbonamento Spotify. Lo provi gratis? Poi però chiedi al tuo medico prima di prendere decisioni sulla tua salute."
+    ],
+    "video_script": [
+      "Un coach salute AI a meno di dieci euro.",
+      "Ma non può dirti se stai male.",
+      "Funziona con Fitbit e Pixel Watch.",
+      "Il rischio? Falsa sicurezza.",
+      "Provalo gratis, poi chiama il tuo dottore."
+    ]
   },
   {
     "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
@@ -23,7 +37,21 @@ window.ARTICLES = [
     ],
     "pubDate": "Thu, 07 May 2026 13:44:25 +0000",
     "savedAt": "2026-05-07T16:01:09.304Z",
-    "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/"
+    "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+    "thread_text": [
+      "Una startup cinese ha appena raccolto $2 miliardi. Il segreto? Hanno aperto il codice, non lo tengono chiuso.",
+      "Moonshot AI vale ora $20 miliardi. Hanno scelto di rendere il modello open source, contro ogni logica commerciale.",
+      "Il risultato? Tu puoi usare la stessa AI senza pagare licenze. Scarichi il modello e lo fai girare dove vuoi.",
+      "Non è una versione ridotta: è la stessa potenza dei modelli chiusi, ma senza abbonamento mensile.",
+      "Il costo? Zero. Scarica il modello oggi e testalo contro i chiusi: vince chi ha più controllo."
+    ],
+    "video_script": [
+      "Hanno raccolto due miliardi di dollari.",
+      "La startup cinese vale venti miliardi.",
+      "Il segreto? Hanno aperto tutto.",
+      "Tu usi la stessa AI gratis.",
+      "Scarica il modello e testalo."
+    ]
   },
   {
     "title": "AI helping ease the UK’s NHS burden",
