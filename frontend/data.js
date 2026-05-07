@@ -4114,5 +4114,145 @@ window.ARTICLES = [
       "Se cerchi lavoro in dating, rallenta. L'AI sale.",
       "Controlla: il tuo ruolo è sostituibile dall'AI?"
     ]
+  },
+  {
+    "title": "AI agent governance takes focus as regulators flag control gaps",
+    "slides": [
+      "Governi esaminano controllo AI agent",
+      "Cos'è un AI agent autonomo?",
+      "Senza controlli, rischi aumentano",
+      "Aziende devono testare e limitare",
+      "Caso 2024: agent AI viola regole"
+    ]
+  },
+  {
+    "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
+    "slides": [
+      "Braintrust ti ha appena esposto? Controlla le chiavi.",
+      "La startup AI evaluation ha subito una violazione dati.",
+      "Il CEO ordina a tutti i clienti di ruotare le chiavi sensibili.",
+      "Se non lo fai ora, il tuo dato è a rischio.",
+      "Rigenera subito ogni secret. Non aspettare."
+    ]
+  },
+  {
+    "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
+    "slides": [
+      "Big Tech spent billions on AI. It worked.",
+      "Revenue from AI tripled last quarter alone.",
+      "But they just announced another $100B investment.",
+      "For you: expect better tools, not cheaper ones.",
+      "Spend smarter, not more—or get left behind."
+    ]
+  },
+  {
+    "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+    "slides": [
+      "a16z scommette forte su Ethos: 22,75 milioni.",
+      "Collega esperti a chiamata, non via chat.",
+      "Voice onboarding: un tocco umano nella Gig Economy.",
+      "Per consulenti e fondi: risposte rapide, non pdf.",
+      "Se non usi la voce, perdi il vantaggio competitivo."
+    ]
+  },
+  {
+    "title": "Five architects of the AI economy explain where the wheels are coming off",
+    "slides": [
+      "L'IA sta fallendo? I suoi stessi architetti lo ammettono.",
+      "Il collo di bottiglia non è la potenza di calcolo.",
+      "Mancano dati reali: i modelli si addestrano su rumore.",
+      "Devi iniziare a verificare ogni output come una scommessa.",
+      "Non fidarti della scala: la qualità è il nuovo oro."
+    ]
+  },
+  {
+    "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+    "slides": [
+      "Google vende governance AI agentica come prodotto.",
+      "Aziende devono ancora adeguarsi alle regole.",
+      "Strumento utile per conformità e sicurezza.",
+      "Valuta e implementa policy di governance ora.",
+      "Esempio: banca usa Google per audit automatici."
+    ]
+  },
+  {
+    "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+    "slides": [
+      "Google vuole che tu controlli l'IA?",
+      "Remy AI agente testato su Gemini.",
+      "L'agente decide quando agire per te.",
+      "Non devi più guidare ogni comando.",
+      "Provalo: imposta un obiettivo e osserva."
+    ]
+  },
+  {
+    "title": "HP and the art of AI and data for the enterprise",
+    "slides": [
+      "HP trasforma dati in vantaggio competitivo?",
+      "Unisce AI e data per operation reali.",
+      "Il 73% dei progetti enterprise fallisce senza integrazione.",
+      "Unifica silos: AI funziona dove i dati vivono.",
+      "Chiedi a HP come applicarlo al tuo stack."
+    ]
+  },
+  {
+    "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
+    "slides": [
+      "Your AI rollout is stalling. Here's why.",
+      "EMEA CIOs lag in scaling proofs of concept.",
+      "Most projects fail due to data readiness gaps.",
+      "Fix data pipelines first, not models.",
+      "Start small, measure ROI, then expand."
+    ]
+  },
+  {
+    "title": "Microsoft’s AI data center push is colliding with its clean power goals",
+    "slides": [
+      "La corsa AI di Microsoft minaccia i suoi impegni green?",
+      "Ogni data center consuma acqua per raffreddarsi.",
+      "L'espansione raddoppierà le emissioni entro il 2030.",
+      "Le aziende devono rivedere le strategie energetiche ora.",
+      "Non basta accumulare potenza: serve energia pulita."
+    ]
+  },
+  {
+    "title": "Physical AI raises governance questions for autonomous systems",
+    "slides": [
+      "Physical AI guida decisioni reali",
+      "Governance definisce i limiti di azione",
+      "Evita caos in sistemi autonomi",
+      "Stabilisci regole chiare ora",
+      "Auto a guida autonoma: chi è colpevole?"
+    ]
+  },
+  {
+    "title": "SAP: How enterprise AI governance secures profit margins",
+    "slides": [
+      "La tua AI può uccidere i margini di profitto?",
+      "SAP unisce compliance e AI per ridurre rischi.",
+      "Il 70% delle aziende non ha governance AI attiva.",
+      "Blocca multe e perdite prima che accadano.",
+      "Governa l'AI o perdi il margine."
+    ]
+  },
+  {
+    "title": "US government increases AI suppliers and rethinks Anthropic’s role",
+    "slides": [
+      "Il governo cambia fornitori AI. Chi perde?",
+      "L'ufficio acquisti ora sceglie più aziende",
+      "Anthropic non è più l'unico partner chiave",
+      "Per i contractor: nuove gare d'appalto imminenti",
+      "Aggiorna subito la tua lista di fornitori"
+    ]
+  },
+  {
+    "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
+    "slides": [
+      "LG+Nvidia talks show AI moving into physical world.",
+      "Physical AI controls robots, factories, not just screens.",
+      "It makes machines smarter, faster, safer without human.",
+      "Train virtual models to run real hardware instantly.",
+      "Factory robots already learn from cloud simulations."
+    ]
   }
 ];
