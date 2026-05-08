@@ -105,11 +105,21 @@
       z-index: 0;
       pointer-events: none;
     }
+    /* senza immagine: gradiente pieno per layout */
     .slide.hero        .img-overlay { background: linear-gradient(148deg, #09122a 0%, #0e1d4a 50%, #1c0c3e 100%); }
     .slide.right-focus .img-overlay { background: linear-gradient(155deg, #08111f 0%, #0d1c3a 55%, #091628 100%); }
     .slide.sensor-zoom .img-overlay { background: linear-gradient(138deg, #080d1e 0%, #0a1530 60%, #100830 100%); }
     .slide.human-hand  .img-overlay { background: linear-gradient(152deg, #05080f 0%, #0c0d28 60%, #160638 100%); }
     .slide.cta-final   .img-overlay { background: linear-gradient(148deg, #080f1f 0%, #0b1438 60%, #12103e 100%); }
+    /* con immagine: overlay scuro pesante — l'immagine filtra in sottofondo */
+    .slide.has-img .img-overlay {
+      background: linear-gradient(
+        to bottom,
+        rgba(6,10,22,0.78) 0%,
+        rgba(6,10,22,0.62) 40%,
+        rgba(6,10,22,0.85) 100%
+      );
+    }
 
     /* orb radiale per profondità visiva (sopra overlay) */
     .slide::before {
@@ -389,8 +399,11 @@ function footer(idx, total) {
   </div>`;
 }
 
-function buildSlide(cs, idx, total, source) {
+function buildSlide(cs, idx, total, source, imageUrl) {
   const lt       = cs.layout_type;
+  const hasImg   = !!imageUrl;
+  const imgClass = hasImg ? 'has-img' : '';
+  const bgStyle  = hasImg ? `style="background-image:url('${imageUrl}');background-size:cover;background-position:center"` : '';
   const hookHtml = `<span class="hook-text">${accentHook(cs.hook)}</span>`;
   const descHtml = `<div class="desc">${cs.description}</div>`;
   const bdg      = badge(source);
@@ -460,7 +473,7 @@ function buildSlide(cs, idx, total, source) {
       </div>`;
   }
 
-  return `<div class="slide ${lt}">${inner}</div>`;
+  return `<div class="slide ${lt} ${imgClass}" ${bgStyle}>${inner}</div>`;
 }
 
 function renderArticle(article) {
@@ -474,7 +487,8 @@ function renderArticle(article) {
     return;
   }
   const source     = sourceFromLink(article.link);
-  const slidesHtml = cs.map((s, i) => buildSlide(s, i, cs.length, source)).join('');
+  const imageUrl   = article.image || null;
+  const slidesHtml = cs.map((s, i) => buildSlide(s, i, cs.length, source, imageUrl)).join('');
   const threadHtml = article.thread_text && article.thread_text.length
     ? `<div class="thread-section">
         <h3>Thread X</h3>
