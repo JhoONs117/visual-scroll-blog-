@@ -88,7 +88,8 @@ window.ARTICLES = [
         "layout_type": "cta-final",
         "icon": "check"
       }
-    ]
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1234731223.jpg?w=1024"
   },
   {
     "title": "The biggest U.S. power grid is under strain from AI — and no one is happy",
@@ -152,7 +153,8 @@ window.ARTICLES = [
         "layout_type": "cta-final",
         "icon": "check"
       }
-    ]
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801"
   },
   {
     "title": "Hackers deface school login pages after claiming another Instructure hack",
