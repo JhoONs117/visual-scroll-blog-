@@ -175,6 +175,8 @@ function buildDataJs(allFiles) {
   /* Ricostruisce data.js */
   const allFullPaths = fs.readdirSync(OUTPUT_DIR)
     .filter(f => f.endsWith('.json'))
+    .sort()
+    .reverse()
     .map(f => path.join(OUTPUT_DIR, f));
   const count = buildDataJs(allFullPaths);
 
