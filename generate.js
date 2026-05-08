@@ -120,7 +120,7 @@ Regole script:
 }
 
 const CAROUSEL_LAYOUTS = ['hero', 'right-focus', 'sensor-zoom', 'human-hand', 'cta-final'];
-const CAROUSEL_ICONS   = ['tag', 'waves', 'heart', 'vibration', 'check'];
+const CAROUSEL_ICONS   = new Set(['tag', 'waves', 'heart', 'vibration', 'check']);
 
 async function generateCarouselSlides(title, slides) {
   const slidesText = slides.map((s, i) => `${i + 1}. ${s}`).join('\n');
@@ -131,24 +131,34 @@ Titolo: ${title}
 Slide:
 ${slidesText}
 
-Rispondi SOLO JSON valido:
+Rispondi SOLO JSON valido nel formato:
 {
   "carousel_slides": [
-    { "hook": "...", "description": "...", "visual_hint": "...", "layout_type": "hero",        "icon": "tag"       },
-    { "hook": "...", "description": "...", "visual_hint": "...", "layout_type": "right-focus", "icon": "waves"     },
-    { "hook": "...", "description": "...", "visual_hint": "...", "layout_type": "sensor-zoom", "icon": "heart"     },
-    { "hook": "...", "description": "...", "visual_hint": "...", "layout_type": "human-hand",  "icon": "vibration" },
-    { "hook": "...", "description": "...", "visual_hint": "...", "layout_type": "cta-final",   "icon": "check"     }
+    { "hook": "max 8 parole", "description": "max 25 parole", "visual_hint": "max 6 parole", "layout_type": "hero",        "icon": "tag"       },
+    { "hook": "...",           "description": "...",          "visual_hint": "...",          "layout_type": "right-focus", "icon": "waves"     },
+    { "hook": "...",           "description": "...",          "visual_hint": "...",          "layout_type": "sensor-zoom", "icon": "heart"     },
+    { "hook": "...",           "description": "...",          "visual_hint": "...",          "layout_type": "human-hand",  "icon": "vibration" },
+    { "hook": "...",           "description": "...",          "visual_hint": "...",          "layout_type": "cta-final",   "icon": "tag"       }
   ]
 }
 
-Regole:
-- hook: max 8 parole, crea tensione o curiosità
-- description: max 25 parole, espande il hook con un dettaglio concreto
-- visual_hint: max 6 parole, descrive l'immagine di sfondo ideale
-- layout_type e icon: valori fissi come nel formato sopra, NON modificare
-- ogni carousel_slide si ispira a una slide diversa (non ripetere la stessa)
-- niente hashtag, niente emoji`;
+Regole testo:
+- hook: max 8 parole, tensione irrisolta, non titolo di giornale
+- description: max 25 parole, aggiunge info che non è nell'hook
+- visual_hint: max 6 parole — elemento visivo concreto coerente con il layout della slide
+- slide 1 deve avere l'hook con più tensione (può venire dalla slide 3 o 5 originale)
+
+Regole layout_type — assegna sempre in questo ordine fisso:
+- slide 1: layout_type sempre "hero"
+- slide 2: layout_type sempre "right-focus"
+- slide 3: layout_type sempre "sensor-zoom"
+- slide 4: layout_type sempre "human-hand"
+- slide 5: layout_type sempre "cta-final"
+
+Regole icon — scegli il più pertinente al contenuto della slide tra:
+tag, waves, heart, vibration, check
+
+Nessun testo fuori dal JSON.`;
 
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
@@ -159,7 +169,8 @@ Regole:
       if (
         Array.isArray(cs) && cs.length === 5 &&
         cs.every(s => s.hook && s.description && s.visual_hint && s.layout_type && s.icon) &&
-        cs.every((s, i) => s.layout_type === CAROUSEL_LAYOUTS[i])
+        cs.every((s, i) => s.layout_type === CAROUSEL_LAYOUTS[i]) &&
+        cs.every(s => CAROUSEL_ICONS.has(s.icon))
       ) {
         return { carousel_slides: cs };
       }
