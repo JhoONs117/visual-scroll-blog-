@@ -4,13 +4,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Carousel — AI News</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
       background: #080c18;
       color: #fff;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
       min-height: 100vh;
     }
 
@@ -23,14 +26,9 @@
       align-items: center;
       gap: 20px;
     }
-    .header h1 { font-size: 17px; font-weight: 700; letter-spacing: -0.01em; }
+    .header h1 { font-size: 17px; font-weight: 700; letter-spacing: -0.02em; }
     .header nav { display: flex; gap: 16px; margin-left: auto; }
-    .header a {
-      color: rgba(255,255,255,0.45);
-      text-decoration: none;
-      font-size: 13px;
-      transition: color 0.15s;
-    }
+    .header a { color: rgba(255,255,255,0.4); text-decoration: none; font-size: 13px; transition: color 0.15s; }
     .header a:hover { color: #00c8ff; }
 
     /* ── SELECTOR BAR ── */
@@ -53,6 +51,7 @@
       border-radius: 8px;
       padding: 8px 12px;
       font-size: 13px;
+      font-family: inherit;
       cursor: pointer;
       appearance: none;
       background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%2300c8ff' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
@@ -61,35 +60,20 @@
       padding-right: 32px;
     }
     .selector-bar select:focus { outline: none; border-color: #00c8ff; }
-    .count-label {
-      font-size: 12px;
-      color: rgba(255,255,255,0.3);
-      white-space: nowrap;
-    }
+    .count-label { font-size: 12px; color: rgba(255,255,255,0.3); white-space: nowrap; }
 
     /* ── VIEWER ── */
-    .viewer {
-      padding: 28px 24px 16px;
-      overflow-x: auto;
-    }
-    .slides-row {
-      display: flex;
-      gap: 14px;
-      min-width: max-content;
-    }
+    .viewer { padding: 28px 24px 20px; overflow-x: auto; }
+    .slides-row { display: flex; gap: 14px; min-width: max-content; }
 
-    /* ── EMPTY / NO CAROUSEL ── */
-    .empty-state {
-      padding: 80px 24px;
-      text-align: center;
-      color: rgba(255,255,255,0.3);
-    }
+    /* ── EMPTY STATE ── */
+    .empty-state { padding: 80px 24px; text-align: center; color: rgba(255,255,255,0.3); }
     .empty-state h2 { font-size: 18px; margin-bottom: 8px; font-weight: 600; }
     .empty-state p  { font-size: 13px; }
 
-    /* ═══════════════════════════════════════════
-       SLIDE BASE  (270 × 337 = 4:5 ratio)
-       ═══════════════════════════════════════════ */
+    /* ══════════════════════════════════════════════════
+       SLIDE BASE  — 270 × 337px  (4:5)
+    ══════════════════════════════════════════════════ */
     .slide {
       width: 270px;
       height: 337px;
@@ -97,50 +81,58 @@
       overflow: hidden;
       position: relative;
       flex-shrink: 0;
-      background: #080c18;
       transition: transform 0.2s ease, box-shadow 0.2s ease;
       cursor: default;
     }
     .slide:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 16px 48px rgba(0,200,255,0.18);
+      transform: translateY(-6px);
+      box-shadow: 0 20px 56px rgba(0,180,255,0.22);
     }
 
-    /* gradient background per layout */
-    .slide.hero        { background: linear-gradient(145deg, #0a1020 0%, #0e1840 55%, #190d3a 100%); }
-    .slide.right-focus { background: linear-gradient(155deg, #08101e 0%, #0c1832 55%, #0a1525 100%); }
-    .slide.sensor-zoom { background: linear-gradient(135deg, #090d1c 0%, #0b1430 60%, #110930 100%); }
-    .slide.human-hand  { background: linear-gradient(150deg, #060810 0%, #0d0e28 60%, #180838 100%); }
-    .slide.cta-final   { background: linear-gradient(145deg, #08101f 0%, #0c1535 60%, #141040 100%); }
+    /* gradients */
+    .slide.hero        { background: linear-gradient(148deg, #09122a 0%, #0e1d4a 50%, #1c0c3e 100%); }
+    .slide.right-focus { background: linear-gradient(155deg, #08111f 0%, #0d1c3a 55%, #091628 100%); }
+    .slide.sensor-zoom { background: linear-gradient(138deg, #080d1e 0%, #0a1530 60%, #100830 100%); }
+    .slide.human-hand  { background: linear-gradient(152deg, #05080f 0%, #0c0d28 60%, #160638 100%); }
+    .slide.cta-final   { background: linear-gradient(148deg, #080f1f 0%, #0b1438 60%, #12103e 100%); }
 
-    /* image placeholder panel (right third) — hidden until we have real images */
-    .img-panel {
+    /* gradient orb — radial glow in corner for depth */
+    .slide::before {
+      content: '';
       position: absolute;
-      top: 0;
-      right: 0;
-      bottom: 0;
-      width: 38%;
-      background: linear-gradient(180deg, rgba(0,200,255,0.04) 0%, rgba(0,100,200,0.06) 100%);
-      border-left: 1px solid rgba(0,200,255,0.06);
-      display: flex;
-      align-items: center;
-      justify-content: center;
+      inset: 0;
+      pointer-events: none;
     }
-    .img-panel .visual-hint-text {
-      font-size: 8px;
-      color: rgba(255,255,255,0.15);
-      text-align: center;
-      padding: 8px;
-      line-height: 1.4;
-      font-style: italic;
-    }
+    .slide.hero::before        { background: radial-gradient(ellipse 70% 60% at 90% 10%, rgba(0,160,255,0.10) 0%, transparent 70%); }
+    .slide.right-focus::before { background: radial-gradient(ellipse 60% 50% at 85% 20%, rgba(0,200,255,0.08) 0%, transparent 70%); }
+    .slide.sensor-zoom::before { background: radial-gradient(ellipse 55% 55% at 80% 80%, rgba(80,0,200,0.10) 0%, transparent 70%); }
+    .slide.human-hand::before  { background: radial-gradient(ellipse 65% 50% at 10% 90%, rgba(0,100,255,0.09) 0%, transparent 70%); }
+    .slide.cta-final::before   { background: radial-gradient(ellipse 60% 55% at 50% 0%, rgba(0,180,255,0.09) 0%, transparent 70%); }
 
-    /* content layer */
+    /* decorative background icon — large, faint, absolute */
+    .deco-icon {
+      position: absolute;
+      width: 130px;
+      height: 130px;
+      stroke: rgba(0,200,255,0.07);
+      fill: none;
+      stroke-width: 1;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      pointer-events: none;
+    }
+    .slide.hero        .deco-icon { top: -10px; right: -10px; transform: rotate(12deg); }
+    .slide.right-focus .deco-icon { top: 40px; right: -20px; transform: rotate(-8deg); width: 110px; height: 110px; }
+    .slide.sensor-zoom .deco-icon { bottom: 20px; right: -15px; transform: rotate(20deg); opacity: 0.6; }
+    .slide.human-hand  .deco-icon { bottom: -20px; left: -20px; transform: rotate(-15deg); }
+    .slide.cta-final   .deco-icon { top: 50%; right: -30px; transform: translateY(-50%) rotate(10deg); }
+
+    /* slide inner content */
     .slide-inner {
       position: relative;
       z-index: 1;
       height: 100%;
-      padding: 13px;
+      padding: 14px;
       display: flex;
       flex-direction: column;
     }
@@ -149,49 +141,46 @@
     .badge {
       display: inline-flex;
       align-items: center;
-      gap: 4px;
-      background: #00b8f0;
-      padding: 3px 7px;
+      gap: 5px;
+      background: #00aee8;
+      padding: 3px 8px 3px 6px;
       border-radius: 4px;
       width: fit-content;
       flex-shrink: 0;
     }
+    .badge svg { width: 9px; height: 9px; flex-shrink: 0; }
     .badge-label {
-      font-size: 8.5px;
+      font-size: 8px;
       font-weight: 800;
-      letter-spacing: 0.1em;
+      letter-spacing: 0.12em;
       text-transform: uppercase;
       color: #fff;
-    }
-    .badge svg {
-      width: 9px;
-      height: 9px;
-      fill: #fff;
+      font-family: 'Inter', sans-serif;
     }
 
     /* ── HOOK ── */
     .hook-text {
-      font-size: 17px;
-      font-weight: 800;
-      line-height: 1.18;
+      font-family: 'Inter', sans-serif;
+      font-size: 20px;
+      font-weight: 900;
+      line-height: 1.15;
       color: #fff;
-      letter-spacing: -0.015em;
+      letter-spacing: -0.025em;
     }
-    .hook-text .accent { color: #00d0ff; }
+    .hook-text .accent { color: #00d4ff; }
 
     /* ── DESCRIPTION ── */
     .desc {
-      font-size: 9px;
-      color: rgba(255,255,255,0.62);
-      line-height: 1.5;
+      font-family: 'Inter', sans-serif;
+      font-size: 11px;
       font-weight: 400;
+      color: rgba(255,255,255,0.72);
+      line-height: 1.55;
     }
 
-    /* ── ICON ── */
+    /* ── ICON (functional — in layout) ── */
     .icon {
       display: block;
-      width: 26px;
-      height: 26px;
       stroke: #00c8ff;
       fill: none;
       stroke-width: 1.8;
@@ -206,135 +195,112 @@
       justify-content: space-between;
       align-items: center;
       margin-top: auto;
-      padding-top: 6px;
+      padding-top: 8px;
     }
-    .slide-num    { font-size: 8.5px; color: rgba(255,255,255,0.28); font-weight: 600; letter-spacing: 0.04em; }
-    .slide-handle { font-size: 8.5px; color: rgba(255,255,255,0.28); }
+    .slide-num    { font-size: 8px; font-weight: 700; color: rgba(255,255,255,0.25); letter-spacing: 0.05em; font-family: 'Inter', sans-serif; }
+    .slide-handle { font-size: 8px; font-weight: 400; color: rgba(255,255,255,0.25); font-family: 'Inter', sans-serif; }
 
-    /* ═══════════════════════════════════════════
-       LAYOUT HERO
-       Badge → icon (faint, top-right) → hook (left col) → desc → footer
-       right 38% = image panel
-       ═══════════════════════════════════════════ */
-    .slide.hero .slide-inner {
-      width: 64%;  /* text occupies left 64% */
-    }
-    .slide.hero .badge  { margin-bottom: 8px; }
-    .slide.hero .hook-text { font-size: 18px; flex: 1; display: flex; align-items: flex-start; }
-    .slide.hero .desc   { margin-top: 8px; }
-    /* faint icon top-right inside text col */
-    .slide.hero .icon-faint {
-      position: absolute;
-      top: 13px;
-      right: calc(36% + 10px);
-      width: 20px;
-      height: 20px;
-      stroke: rgba(0,200,255,0.25);
-      fill: none;
-      stroke-width: 1.5;
-      stroke-linecap: round;
-      stroke-linejoin: round;
-    }
+    /* ══════════════════════════════════════════════════
+       HERO  — hook grande, deco-icon in alto a destra
+    ══════════════════════════════════════════════════ */
+    .slide.hero .badge   { margin-bottom: 10px; }
+    .slide.hero .hook-text { font-size: 22px; flex: 1; display: flex; align-items: flex-start; }
+    .slide.hero .desc    { margin-top: 10px; }
 
-    /* ═══════════════════════════════════════════
-       LAYOUT RIGHT-FOCUS
-       Badge → row(hook left | icon right large) → desc → footer
-       ═══════════════════════════════════════════ */
-    .slide.right-focus .badge { margin-bottom: 8px; }
-    .slide.right-focus .hook-row {
-      display: flex;
-      gap: 8px;
-      align-items: center;
-      flex: 1;
-    }
-    .slide.right-focus .hook-text { font-size: 15px; flex: 1; }
-    .slide.right-focus .icon-large {
-      width: 52px;
-      height: 52px;
+    /* ══════════════════════════════════════════════════
+       RIGHT-FOCUS  — hook sinistra, icona grande destra
+    ══════════════════════════════════════════════════ */
+    .slide.right-focus .badge     { margin-bottom: 10px; }
+    .slide.right-focus .hook-row  { display: flex; gap: 10px; align-items: center; flex: 1; }
+    .slide.right-focus .hook-text { font-size: 17px; flex: 1; }
+    .slide.right-focus .icon-lg {
+      width: 60px; height: 60px;
       stroke: #00c8ff;
       fill: none;
-      stroke-width: 1.4;
+      stroke-width: 1.3;
       stroke-linecap: round;
       stroke-linejoin: round;
       flex-shrink: 0;
-      opacity: 0.85;
+      opacity: 0.9;
     }
-    .slide.right-focus .desc { margin-top: 8px; }
+    .slide.right-focus .desc { margin-top: 10px; }
 
-    /* ═══════════════════════════════════════════
-       LAYOUT SENSOR-ZOOM
-       Badge → hook → data-points (3 rows) → footer
-       ═══════════════════════════════════════════ */
-    .slide.sensor-zoom .badge { margin-bottom: 8px; }
-    .slide.sensor-zoom .hook-text { font-size: 14.5px; margin-bottom: 10px; }
+    /* ══════════════════════════════════════════════════
+       SENSOR-ZOOM  — hook + righe dati
+    ══════════════════════════════════════════════════ */
+    .slide.sensor-zoom .badge     { margin-bottom: 10px; }
+    .slide.sensor-zoom .hook-text { font-size: 16px; }
     .slide.sensor-zoom .data-points {
       display: flex;
       flex-direction: column;
-      gap: 6px;
+      gap: 7px;
       flex: 1;
+      margin-top: 12px;
     }
     .slide.sensor-zoom .dp {
       display: flex;
-      align-items: center;
-      gap: 7px;
+      align-items: flex-start;
+      gap: 8px;
       background: rgba(255,255,255,0.04);
-      border-left: 2px solid #00c8ff;
-      padding: 5px 8px;
+      border-left: 2px solid rgba(0,200,255,0.6);
+      padding: 6px 8px;
       border-radius: 0 5px 5px 0;
     }
     .slide.sensor-zoom .dp-dot {
-      width: 4px;
-      height: 4px;
+      width: 5px; height: 5px;
       border-radius: 50%;
       background: #00c8ff;
       flex-shrink: 0;
+      margin-top: 3px;
     }
     .slide.sensor-zoom .dp-text {
-      font-size: 8.5px;
-      color: rgba(255,255,255,0.7);
-      line-height: 1.35;
+      font-size: 10px;
+      font-weight: 400;
+      color: rgba(255,255,255,0.75);
+      line-height: 1.4;
+      font-family: 'Inter', sans-serif;
     }
 
-    /* ═══════════════════════════════════════════
-       LAYOUT HUMAN-HAND
-       Badge → icon → hook (very large) → desc → footer
-       ═══════════════════════════════════════════ */
-    .slide.human-hand .badge { margin-bottom: 8px; }
-    .slide.human-hand .icon { margin-bottom: 8px; width: 30px; height: 30px; }
-    .slide.human-hand .hook-text { font-size: 20px; line-height: 1.12; flex: 1; }
-    .slide.human-hand .desc { margin-top: 8px; }
+    /* ══════════════════════════════════════════════════
+       HUMAN-HAND  — testo enorme, icona piccola sopra
+    ══════════════════════════════════════════════════ */
+    .slide.human-hand .badge     { margin-bottom: 10px; }
+    .slide.human-hand .icon      { width: 28px; height: 28px; margin-bottom: 10px; }
+    .slide.human-hand .hook-text { font-size: 24px; line-height: 1.1; flex: 1; }
+    .slide.human-hand .desc      { margin-top: 10px; }
 
-    /* ═══════════════════════════════════════════
-       LAYOUT CTA-FINAL
-       Badge (centered) → icon (centered) → hook → desc → footer
-       ═══════════════════════════════════════════ */
+    /* ══════════════════════════════════════════════════
+       CTA-FINAL  — centrato, icona grande, CTA chiaro
+    ══════════════════════════════════════════════════ */
     .slide.cta-final .slide-inner { align-items: center; text-align: center; }
-    .slide.cta-final .badge { align-self: flex-start; margin-bottom: 8px; }
-    .slide.cta-final .icon {
-      width: 38px;
-      height: 38px;
-      margin: 10px auto 10px;
-      stroke: #00d0ff;
+    .slide.cta-final .badge       { align-self: flex-start; margin-bottom: auto; }
+    .slide.cta-final .icon-cta {
+      width: 44px; height: 44px;
+      stroke: #00d4ff;
+      fill: none;
       stroke-width: 2;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      margin: 0 auto 12px;
     }
-    .slide.cta-final .hook-text { font-size: 16px; text-align: center; }
-    .slide.cta-final .desc { margin-top: 10px; text-align: center; }
-    .slide.cta-final .slide-footer { width: 100%; }
+    .slide.cta-final .hook-text { font-size: 18px; text-align: center; margin-bottom: 10px; }
+    .slide.cta-final .desc      { text-align: center; font-size: 10.5px; }
+    .slide.cta-final .slide-footer { width: 100%; margin-top: auto; }
 
     /* ── THREAD PREVIEW ── */
     .thread-section {
-      margin: 0 24px 32px;
+      margin: 4px 24px 32px;
       background: #0d1120;
       border: 1px solid rgba(255,255,255,0.07);
       border-radius: 12px;
       padding: 20px 24px;
     }
     .thread-section h3 {
-      font-size: 11px;
+      font-size: 10px;
       font-weight: 700;
       text-transform: uppercase;
-      letter-spacing: 0.1em;
-      color: rgba(255,255,255,0.35);
+      letter-spacing: 0.12em;
+      color: rgba(255,255,255,0.3);
       margin-bottom: 16px;
     }
     .tweet-row {
@@ -344,8 +310,8 @@
       border-bottom: 1px solid rgba(255,255,255,0.05);
     }
     .tweet-row:last-child { border-bottom: none; padding-bottom: 0; }
-    .tweet-n    { font-size: 11px; font-weight: 700; color: #00b8f0; min-width: 18px; padding-top: 2px; }
-    .tweet-body { font-size: 13px; color: rgba(255,255,255,0.72); line-height: 1.55; }
+    .tweet-n    { font-size: 11px; font-weight: 700; color: #00aee8; min-width: 18px; padding-top: 2px; }
+    .tweet-body { font-size: 13px; color: rgba(255,255,255,0.7); line-height: 1.6; }
   </style>
 </head>
 <body>
@@ -372,23 +338,24 @@
 
 <script src="data.js"></script>
 <script>
-/* ── SVG icon paths (24×24 stroke viewBox) ── */
+/* ── SVG icon paths (24×24 viewBox, stroke style) ── */
 const ICON_PATHS = {
   tag:       `<path d="M20.59 13.41L13.42 20.59a2 2 0 01-2.83 0L2 12V2h10l8.59 8.59a2 2 0 010 2.82z"/><circle cx="7" cy="7" r="1.5" fill="currentColor" stroke="none"/>`,
   waves:     `<path d="M2 6c1.5 1 3 1 4.5 0s3-1 4.5 0 3 1 4.5 0 3-1 4.5 0"/><path d="M2 12c1.5 1 3 1 4.5 0s3-1 4.5 0 3 1 4.5 0 3-1 4.5 0"/><path d="M2 18c1.5 1 3 1 4.5 0s3-1 4.5 0 3 1 4.5 0 3-1 4.5 0"/>`,
   heart:     `<path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78L12 21l8.84-8.85a5.5 5.5 0 000-7.54z"/>`,
-  vibration: `<line x1="2" y1="10" x2="2" y2="14"/><line x1="6" y1="6"  x2="6" y2="18"/><line x1="10" y1="3" x2="10" y2="21"/><line x1="14" y1="3" x2="14" y2="21"/><line x1="18" y1="6" x2="18" y2="18"/><line x1="22" y1="10" x2="22" y2="14"/>`,
+  vibration: `<line x1="2" y1="10" x2="2" y2="14"/><line x1="6" y1="6" x2="6" y2="18"/><line x1="10" y1="3" x2="10" y2="21"/><line x1="14" y1="3" x2="14" y2="21"/><line x1="18" y1="6" x2="18" y2="18"/><line x1="22" y1="10" x2="22" y2="14"/>`,
   check:     `<polyline points="20 6 9 17 4 12"/>`
 };
 
-function icon(name, cls, extra) {
+function iconSvg(name, cls) {
   const p = ICON_PATHS[name] || ICON_PATHS.tag;
-  return `<svg class="${cls}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" ${extra||''}>${p}</svg>`;
+  return `<svg class="${cls}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">${p}</svg>`;
 }
 
-const BADGE_SVG = `<svg viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="8" height="8" rx="1" fill="white"/>
-  <path d="M3 3l4 4M7 3l-4 4" stroke="#00b8f0" stroke-width="1.4" stroke-linecap="round"/>
+/* ── Badge ── */
+const BADGE_ICON = `<svg viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="8" height="8" rx="1.5" fill="white"/>
+  <path d="M3 3l4 4M7 3l-4 4" stroke="#00aee8" stroke-width="1.5" stroke-linecap="round"/>
 </svg>`;
 
 const SOURCE_MAP = {
@@ -414,14 +381,14 @@ function sourceFromLink(link) {
 }
 
 function badge(source) {
-  return `<div class="badge">${BADGE_SVG}<span class="badge-label">${source}</span></div>`;
+  return `<div class="badge">${BADGE_ICON}<span class="badge-label">${source}</span></div>`;
 }
 
-/* accent: split on : or — first; fall back to last ~40% of words */
+/* ── Accent hook: split on : or — first, then word split ── */
 function accentHook(hook) {
-  const sep = hook.match(/[:—–]/);
-  if (sep) {
-    const i = hook.indexOf(sep[0]);
+  const m = hook.match(/[:—–]/);
+  if (m) {
+    const i = hook.indexOf(m[0]);
     const before = hook.slice(0, i + 1).trim();
     const after  = hook.slice(i + 1).trim();
     if (after) return `${before} <span class="accent">${after}</span>`;
@@ -432,16 +399,16 @@ function accentHook(hook) {
   return words.slice(0, split).join(' ') + ' <span class="accent">' + words.slice(split).join(' ') + '</span>';
 }
 
-/* split description into up to 3 short fragments for sensor-zoom */
+/* ── Data points for sensor-zoom ── */
 function toDataPoints(desc) {
-  const frags = desc.split(/[.;—–,]/).map(s => s.trim()).filter(s => s.length > 4).slice(0, 3);
-  return frags.map(f => `
-    <div class="dp">
-      <div class="dp-dot"></div>
-      <span class="dp-text">${f}</span>
-    </div>`).join('');
+  const frags = desc.split(/[.;—–]/).map(s => s.trim()).filter(s => s.length > 5).slice(0, 3);
+  if (!frags.length) frags.push(desc.trim());
+  return frags.map(f =>
+    `<div class="dp"><div class="dp-dot"></div><span class="dp-text">${f}</span></div>`
+  ).join('');
 }
 
+/* ── Footer ── */
 function footer(idx, total) {
   return `<div class="slide-footer">
     <span class="slide-num">${idx + 1}/${total}</span>
@@ -449,79 +416,80 @@ function footer(idx, total) {
   </div>`;
 }
 
+/* ── Build slide ── */
 function buildSlide(cs, idx, total, source) {
-  const lt = cs.layout_type;
+  const lt      = cs.layout_type;
   const hookHtml = `<span class="hook-text">${accentHook(cs.hook)}</span>`;
   const descHtml = `<div class="desc">${cs.description}</div>`;
-  const hintPanel = cs.visual_hint
-    ? `<div class="img-panel"><span class="visual-hint-text">${cs.visual_hint}</span></div>`
-    : '';
-  const bdg = badge(source);
+  const bdg      = badge(source);
+  const decoIcon = iconSvg(cs.icon, 'deco-icon');
+  const foot     = footer(idx, total);
 
   let inner = '';
 
   if (lt === 'hero') {
     inner = `
-      ${hintPanel}
+      ${decoIcon}
       <div class="slide-inner">
         ${bdg}
-        ${icon(cs.icon, 'icon-faint')}
-        <div style="flex:1;display:flex;align-items:flex-start;margin-top:8px;">${hookHtml}</div>
+        <div style="flex:1;margin-top:10px;">${hookHtml}</div>
         ${descHtml}
-        ${footer(idx, total)}
+        ${foot}
       </div>`;
 
   } else if (lt === 'right-focus') {
     inner = `
+      ${decoIcon}
       <div class="slide-inner">
         ${bdg}
-        <div class="hook-row" style="margin-top:8px;">
+        <div class="hook-row" style="margin-top:10px;">
           <div style="flex:1;">${hookHtml}</div>
-          ${icon(cs.icon, 'icon-large')}
+          ${iconSvg(cs.icon, 'icon-lg')}
         </div>
         ${descHtml}
-        ${footer(idx, total)}
+        ${foot}
       </div>`;
 
   } else if (lt === 'sensor-zoom') {
     inner = `
+      ${decoIcon}
       <div class="slide-inner">
         ${bdg}
-        <div style="margin-top:8px;">${hookHtml}</div>
-        <div class="data-points" style="margin-top:10px;">
-          ${toDataPoints(cs.description)}
-        </div>
-        ${footer(idx, total)}
+        <div style="margin-top:10px;">${hookHtml}</div>
+        <div class="data-points">${toDataPoints(cs.description)}</div>
+        ${foot}
       </div>`;
 
   } else if (lt === 'human-hand') {
     inner = `
-      ${hintPanel}
+      ${decoIcon}
       <div class="slide-inner">
         ${bdg}
-        ${icon(cs.icon, 'icon')}
+        ${iconSvg(cs.icon, 'icon')}
         <div style="flex:1;">${hookHtml}</div>
         ${descHtml}
-        ${footer(idx, total)}
+        ${foot}
       </div>`;
 
   } else { // cta-final
     inner = `
+      ${decoIcon}
       <div class="slide-inner">
         ${bdg}
-        ${icon(cs.icon, 'icon')}
+        ${iconSvg(cs.icon, 'icon-cta')}
         ${hookHtml}
         ${descHtml}
-        ${footer(idx, total)}
+        ${foot}
       </div>`;
   }
 
   return `<div class="slide ${lt}">${inner}</div>`;
 }
 
+/* ── Render article ── */
 function renderArticle(article) {
   const area = document.getElementById('area');
-  const cs = article.carousel_slides;
+  const cs   = article.carousel_slides;
 
   if (!cs || !cs.length) {
     area.innerHTML = `<div class="empty-state">
@@ -532,7 +500,7 @@ function renderArticle(article) {
     return;
   }
 
-  const source = sourceFromLink(article.link);
+  const source     = sourceFromLink(article.link);
   const slidesHtml = cs.map((s, i) => buildSlide(s, i, cs.length, source)).join('');
 
   const threadHtml = article.thread_text && article.thread_text.length
@@ -554,8 +522,8 @@ function renderArticle(article) {
 
 /* ── Init ── */
 const articles = window.ARTICLES || [];
-const sel  = document.getElementById('sel');
-const lbl  = document.getElementById('count');
+const sel = document.getElementById('sel');
+const lbl = document.getElementById('count');
 
 const withCs = articles.filter(a => a.carousel_slides && a.carousel_slides.length).length;
 lbl.textContent = `${withCs} con carousel · ${articles.length} totali`;
@@ -574,15 +542,9 @@ sel.addEventListener('change', () => {
   if (!isNaN(i)) renderArticle(articles[i]);
 });
 
-/* auto-select first article with carousel */
 const first = articles.findIndex(a => a.carousel_slides && a.carousel_slides.length);
-if (first >= 0) {
-  sel.value = first;
-  sel.dispatchEvent(new Event('change'));
-} else if (articles.length > 0) {
-  sel.value = 0;
-  sel.dispatchEvent(new Event('change'));
-}
+if (first >= 0) { sel.value = first; sel.dispatchEvent(new Event('change')); }
+else if (articles.length > 0) { sel.value = 0; sel.dispatchEvent(new Event('change')); }
 </script>
 </body>
 </html>
