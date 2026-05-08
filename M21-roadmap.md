@@ -1,6 +1,6 @@
 # Roadmap M21 — Test Distribuzione Reale
 
-Stato: M21b in corso — Step A ✅ A.5 ✅ B ✅ C parziale 🔄  
+Stato: M21b ✅ — Step A ✅ A.5 ✅ B ✅ C ✅ D ✅ | Full backfill ⏳  
 Aggiornato: 2026-05-08
 
 ---
@@ -383,10 +383,15 @@ Apri 5 file JSON in `output/`. Verifica:
 - carousel_slides: Aggiornati 0 | Già presenti 2 | Falliti 0
 - image: Trovate 2/2 (Airbnb + Power grid da TechCrunch CDN)
 
-**Full backfill (tutti 57 articoli) non ancora eseguito** — in attesa di verifica visiva di `carousel.html`.
+**Testato su 2 articoli ✅ — pronto per il full backfill (57 articoli) ⏳**
 
 Per eseguire il backfill completo: `node backfill-carousel.js` senza argomenti.
 Filtro per slug specifici: `node backfill-carousel.js airbnb the-biggest`
+
+Nota: `backfill-carousel.js` gestisce ora tre step in sequenza per ogni articolo:
+1. Genera `carousel_slides` se assenti (DeepSeek, include `image_query` per slide)
+2. Fetcha immagini Wikimedia per slide 2-5 usando `cs.image_query`
+3. Fetcha `article.image` (og:image) per slide 1 dal sito sorgente
 
 **Prompt originale da dare a Claude Code:**
 
@@ -420,18 +425,27 @@ Esegui: node backfill-carousel.js
 
 ---
 
-### Step C — Crea `frontend/carousel.html` 🔄 in corso (2026-05-08)
+### Step C — Crea `frontend/carousel.html` ✅ (2026-05-08)
 
-**Prima versione creata** — preview a 270×337px con Inter 900, badge dinamico da `sourceFromLink()`, icone decorative faint in angolo, handle `@FlashAI`. Contenuto testi corretto (descrizioni derivate da thread_text).
+**Implementato** — preview 270×337px (4:5), layout dark tech, Inter 900.
 
-**Non ancora implementato secondo spec:**
-- Dimensioni reali 1080×1350px
-- `article.image` come sfondo con crop/overlay per layout_type
-- Icone fill #3B82F6 (attuale: stroke #00c8ff)
-- Colore accent #3B82F6 (attuale: #00d4ff)
-- Pagina statica senza selector (attuale: dropdown per articolo)
+**Implementazione reale (diverge dalla spec originale 1080×1350px):**
+- Dimensioni: 270×337px preview (non 1080×1350px come da spec — scelta deliberata per praticità)
+- 5 layout CSS: hero, right-focus, sensor-zoom, human-hand, cta-final con gradiente dark dedicato
+- **Slide 1** → `article.image` (og:image dal sito sorgente) come sfondo con overlay dark
+- **Slide 2-5** → immagine Wikimedia Commons ricercata con `cs.image_query` generata da DeepSeek
+- Overlay dark adattivo: `rgba(6,10,22, 0.78/0.62/0.85)` sulle slide con immagine
+- Fallback: gradiente dark tech per slide senza immagine
+- Orb radiale per profondità visiva (slide-specific)
+- Deco-icon: SVG 130px faint in angolo, posizione per layout
+- Badge dinamico: `sourceFromLink(article.link)` → "TechCrunch", "AI News", ecc.
+- `accentHook()`: split su `:` o `—`, fallback su ultima ~45% delle parole → span cyan
+- Handle: `@FlashAI`
+- Dropdown selector articolo + thread preview in fondo
+- Accent color: #3B82F6, Inter Google Fonts (weight 400/700/800/900)
+- Filtri qualità Wikimedia: esclude PDF/SVG/loghi/ritratti, richiede ≥2 parole query nel filename
 
-Prossimo step: riscrivere seguendo la spec completa qui sotto.
+**index.html aggiornato:** `article.image` come `background-image` su `.slide-visual` (50% superiore della card), fallback al gradiente dark per articoli senza immagine.
 
 **Obiettivo:** pagina di export per Instagram. Ogni card è **1080×1350px** reali, pronta per screenshot. Usa `article.image` come foto base e applica un layout diverso per ogni slide tramite CSS puro — stessa immagine, 5 composizioni diverse, identità visiva coerente.
 
@@ -562,17 +576,54 @@ NESSUNA interazione — pagina statica di export.
 
 ---
 
-### Step D — Deploy
+### Step D — Deploy ✅ (2026-05-08)
+
+Push effettuato su `main` → Railway autodeploy completato.
+
+File deployati: `generate.js`, `backfill-carousel.js`, `frontend/carousel.html`, `frontend/index.html`, `frontend/data.js`, `output/` (2 articoli test con carousel_slides + immagini).
+
+---
+
+### Step E — Full backfill (57 articoli) ⏳
 
 ```bash
-git add fetch.js generate.js backfill-carousel.js frontend/carousel.html frontend/data.js output/ cache.json
-git commit -m "M21b — image da og:image articolo, carousel_slides, carousel.html 1080x1350"
-git push
+node backfill-carousel.js
 ```
 
-Dopo il deploy (~1 minuto) apri su Railway `/carousel.html` e verifica che le card con immagine mostrino la foto reale dell'articolo.
+Genera `carousel_slides` + `image_query` per tutti gli articoli mancanti, fetcha immagini Wikimedia per slide 2-5, fetcha `article.image` per slide 1. Poi push.
 
-> `index.html` resta invariato — risoluzione e UX mobile a due assi non vengono toccate.
+---
+
+### Implementazione futura — Pexels API (upgrade qualità immagini)
+
+Wikimedia Commons ha immagini enciclopediche — buona copertura ma qualità editoriale limitata su topic tech moderni.
+
+**Pexels** è l'upgrade naturale:
+- API gratuita, 200 richieste/ora (sufficiente per backfill completo)
+- Foto editoriali di qualità professionale (tech, uffici, server room, persone in contesto)
+- Nessun costo, registrazione semplice su pexels.com/api
+- Risposta JSON pulita con URL immagine diretti
+
+**Come integrare (quando si vuole):**
+
+1. Ottenere API key da pexels.com/api
+2. Aggiungere `PEXELS_API_KEY` al `.env` e a Railway
+3. Sostituire `fetchWikimediaImage()` in `backfill-carousel.js` con:
+
+```javascript
+async function fetchPexelsImage(query) {
+  const res = await fetch(
+    `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=5&orientation=landscape`,
+    { headers: { Authorization: process.env.PEXELS_API_KEY } }
+  );
+  const data = await res.json();
+  return data.photos?.[0]?.src?.large || null;
+}
+```
+
+4. Eseguire `node backfill-carousel.js` per sovrascrivere le immagini Wikimedia esistenti (rimuovere il check `if (!cs.image)` per forzare il rinnovo)
+
+**Perché non ora:** Wikimedia funziona, non richiede account aggiuntivi, ed è sufficiente per il test M21. Pexels è l'upgrade per FASE 5 (Instagram reale) quando la qualità visiva diventa prioritaria.
 
 ---
 
@@ -651,13 +702,18 @@ M21b ← parte dopo i primi 5 thread di M21
   └── Step A: generateCarouselSlides() in generate.js ✅
         + thread_text come input per description più ricche
         + icon scelto dall'AI (non fisso), layout_type fisso in ordine
+        + image_query per slide (2-3 keyword EN per ricerca Wikimedia)
   └── Step A.5: fetchArticleImage() in backfill-carousel.js ✅
         (non in fetch.js come da spec — da valutare integrazione in run.js in M22)
   └── Step B: backfill-carousel.js creato ✅ — testato su 2 articoli ✅
-        full backfill (57 articoli) ⏳ — in attesa di Step C ok
-  └── Step C: frontend/carousel.html — preview 270×337px creata 🔄
-        DA FARE: 1080×1350px reali + article.image come sfondo + layout engine
-  └── Step D: git push → deploy Railway ⏳
+        + fetchWikimediaImage() per slide 2-5 (con User-Agent, filtri PDF/ritratti, match 2 parole)
+        full backfill (57 articoli) ⏳ — pronto, da lanciare
+  └── Step C: frontend/carousel.html ✅ — 270×337px dark tech
+        + slide 1: article.image (og:image) come sfondo
+        + slide 2-5: Wikimedia Commons via image_query
+        + index.html: article.image come sfondo .slide-visual
+  └── Step D: git push → deploy Railway ✅
+  └── Step E: full backfill 57 articoli ⏳
 
 FASE 3 ← dopo 15 thread completati
   └── analisi pattern → test-distribuzione.md

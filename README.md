@@ -10,7 +10,7 @@ Sistema automatico che intercetta notizie AI, le filtra, le trasforma in slide +
 
 
 
-\*\*Stato attuale (2026-05-06):\*\* M1–M17 + M15 completate · 44 articoli unici · pipeline automatica ogni 2 ore
+\*\*Stato attuale (2026-05-08):\*\* M1–M17 + M15 + M21b completate · 58 articoli unici · pipeline automatica ogni 2 ore · carousel.html con immagini Wikimedia + og:image
 
 
 
@@ -26,7 +26,7 @@ Segui questo ordine. Completa e testa ogni milestone prima di passare alla succe
 
 
 
-\*\*Milestone completate:\*\* M1 M2 M3 M4 M5 M6 M7 M8 M9 M10 M11 M12 M13 M14 M15 M16 M17
+\*\*Milestone completate:\*\* M1 M2 M3 M4 M5 M6 M7 M8 M9 M10 M11 M12 M13 M14 M15 M16 M17 M21b
 
 
 

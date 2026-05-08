@@ -1,6 +1,6 @@
 # CONTEXT — Visual AI Scroll Blog
 
-Stato aggiornato al: 2026-05-07
+Stato aggiornato al: 2026-05-08
 
 ---
 
@@ -46,9 +46,11 @@ Sistema automatico che:
 | `cache.json` | Cache persistente hash→slides (evita chiamate API duplicate) |
 | `review_queue.json` | Articoli che non hanno superato la validazione dopo 2 tentativi |
 | `output/` | File JSON generati dalla pipeline, uno per articolo (formato: `timestamp_slug.json`) |
-| `frontend/index.html` | Frontend Instagram-style: scroll verticale feed + scroll orizzontale slide |
+| `frontend/index.html` | Frontend Instagram-style: scroll verticale feed + scroll orizzontale slide. `.slide-visual` usa `article.image` come sfondo quando disponibile |
 | `frontend/review.html` | Pagina review locale: tutti gli articoli con thread X, script video, "Copia tutto" |
+| `frontend/carousel.html` | Preview carousel Instagram 270×337px — 5 slide per articolo, immagini da `article.image` (slide 1) e Wikimedia (slide 2-5) |
 | `frontend/data.js` | Generato da `run.js` — `window.ARTICLES = [...]`, ordinato dal più recente |
+| `backfill-carousel.js` | Backfill `carousel_slides`, `image_query`, `article.image` e immagini Wikimedia su articoli esistenti |
 | `.github/workflows/pipeline.yml` | GitHub Actions — cron ogni 2 ore, `GENERATE_FORMATS=true` |
 
 ---
@@ -182,6 +184,26 @@ chiediti "fa venire voglia di leggere la prossima?" — se meno di 8/10 sì, tor
 ### Bug fix: GENERATE_FORMATS in GitHub Actions ✅ (2026-05-06)
 - `pipeline.yml`: aggiunto `GENERATE_FORMATS: 'true'` nelle env del passo pipeline
 - Formati ora generati automaticamente ad ogni run di CI
+
+### M21b — Carousel Instagram ✅ (2026-05-08)
+
+- `generateCarouselSlides(title, slides, thread_text)` aggiunta in `generate.js`
+  - 5 `carousel_slides` per articolo con: `hook`, `description`, `visual_hint`, `layout_type`, `icon`, `image_query`
+  - `image_query`: 2-3 keyword inglesi per ricerca immagine Wikimedia per ogni slide
+  - layout_type fisso in ordine: hero → right-focus → sensor-zoom → human-hand → cta-final
+  - icon scelto dall'AI tra: tag, waves, heart, vibration, check
+- `backfill-carousel.js`: script autonomo per retroattivamente aggiungere `carousel_slides`, `article.image` e immagini Wikimedia agli articoli esistenti
+  - `fetchArticleImage()`: og:image dal sito sorgente → campo `article.image`
+  - `fetchWikimediaImage()`: Wikimedia Commons API con User-Agent, filtri PDF/SVG/loghi/ritratti, match ≥2 parole
+  - Testato su 2 articoli ✅ — full backfill 57 articoli ⏳
+- `frontend/carousel.html`: preview 270×337px dark tech
+  - Slide 1: `article.image` come sfondo (overlay dark)
+  - Slide 2-5: immagini Wikimedia via `cs.image_query`
+  - Fallback: gradiente dark per slide senza immagine
+  - Badge dinamico da dominio articolo, handle @FlashAI, thread preview
+- `frontend/index.html`: `.slide-visual` aggiornato con `article.image` come sfondo
+
+**Prossimo upgrade immagini (futuro):** sostituire Wikimedia con **Pexels API** (gratuita, foto editoriali di qualità superiore). Vedere sezione "Implementazione futura" in M21-roadmap.md.
 
 ### PRE-M21 — Fix prompt generateSlides + generateFormats ✅ (2026-05-07)
 - `generateSlides()`: aggiunto vincolo "tensione irrisolta" — ogni slide deve lasciare domanda aperta o info incompleta. Slide 1 può ancorare sul nome azienda/protagonista purché aggiunga tensione; se un'altra slide ha hook più forte, riordina la struttura.

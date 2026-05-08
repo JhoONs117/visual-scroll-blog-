@@ -20,6 +20,7 @@ Non è necessario capire tutto il codice: ogni sezione indica esattamente quale 
 11. [Come fare il backfill dei formati su articoli esistenti](#11-come-fare-il-backfill-dei-formati)
 12. [Come funziona il layout a due assi](#12-come-funziona-il-layout-a-due-assi)
 13. [Come rigenerare tutti gli articoli dopo un cambio di prompt](#13-come-rigenerare-tutti-gli-articoli-dopo-un-cambio-di-prompt)
+14. [Come fare il backfill carousel e immagini](#14-come-fare-il-backfill-carousel-e-immagini)
 
 ---
 
@@ -426,3 +427,61 @@ git push
 > ⚠️ Circa 2 chiamate API per articolo × numero articoli unici. Con 45 articoli: ~90 chiamate, ~5-8 minuti, costo trascurabile con DeepSeek.
 
 **Quando farlo:** ogni volta che si modifica il prompt in `generateSlides()` o `generateFormats()` e si vuole applicare il cambiamento anche agli articoli già salvati — tipicamente dopo M22.
+
+---
+
+## 14. Come fare il backfill carousel e immagini
+
+`backfill-carousel.js` aggiunge retroattivamente `carousel_slides`, `article.image` e immagini Wikimedia a tutti gli articoli esistenti in `output/`.
+
+### Backfill completo (tutti gli articoli)
+
+```bash
+cd /home/miki/visual-scroll-blog
+node backfill-carousel.js
+```
+
+### Backfill selettivo (slug specifici — per test)
+
+```bash
+node backfill-carousel.js airbnb the-biggest
+```
+
+Passa uno o più frammenti di slug come argomenti — il backfill si limita agli articoli il cui slug contiene almeno uno di quei termini.
+
+### Cosa fa per ogni articolo
+
+1. **`carousel_slides`** — se assenti, chiama DeepSeek per generarle (5 slide con `hook`, `description`, `visual_hint`, `layout_type`, `icon`, `image_query`)
+2. **Immagini Wikimedia (slide 2-5)** — per ogni slide con `image_query` e senza `cs.image`, cerca su Wikimedia Commons e salva l'URL in `cs.image`
+3. **`article.image` (slide 1)** — se assente, fa una GET al sito sorgente dell'articolo ed estrae l'`og:image`
+
+### Output atteso
+
+```
+Articoli unici: 57 | Da processare: 57
+
+[carousel] Titolo articolo... OK
+[wiki s2]  Titolo articolo... OK → https://upload.wikimedia.org/...
+[wiki s3]  Titolo articolo... OK → ...
+[wiki s4]  Titolo articolo... not found
+[wiki s5]  Titolo articolo... OK → ...
+[image]    Titolo articolo... OK → https://techcrunch.com/...
+
+frontend/data.js aggiornato con 57 articoli unici.
+
+carousel_slides — Aggiornati: 55 | Già presenti: 2 | Falliti: 0
+article.image  — Trovate: 40 | Non trovate: 17
+wikimedia s2-5 — Trovate: 180 | Non trovate: 48
+```
+
+### Note operative
+
+- "not found" su Wikimedia è normale (~20-30%) — quelle slide usano il gradiente dark come fallback
+- "not found" su article.image significa che il sito non ha `og:image` o blocca i bot
+- Il backfill è **idempotente**: rilancia senza problemi, salta tutto ciò che è già presente
+- Richiede `DEEPSEEK_API_KEY` nel `.env`
+- Dopo il completamento: `git add output/ frontend/data.js && git commit -m "backfill carousel completo" && git push`
+
+### Upgrade futuro — Pexels (qualità superiore)
+
+Le immagini Wikimedia sono enciclopediche — buona copertura ma qualità editoriale limitata su topic tech moderni. Quando si vuole upgradarle, sostituire `fetchWikimediaImage()` con una chiamata a **Pexels API** (gratuita, 200 req/ora, foto professionali). Vedere sezione dedicata in `M21-roadmap.md`.
