@@ -1,0 +1,69 @@
+{
+  "title": "The biggest US power grid is under strain from AI — and no one is happy",
+  "slides": [
+    "PJM's grid strains as AI demand surges—who pays?",
+    "New gas plants needed faster than ever before",
+    "But the usual reliability rules are being waived",
+    "Your energy bill may rise even if you don't use AI",
+    "Call your utility: ask how they plan to handle it"
+  ],
+  "thread_text": [
+    "Le regole della rete elettrica vengono sospese per far fronte all'esplosione della domanda di AI. Game of Thrones? No, PJM, la più grande utility USA.",
+    "I data center AI consumano come città intere. Per reggere il colpo, PJM chiede nuove centrali a gas, in tempi da record.",
+    "Per accelerare, l'autorità federale ha già concesso deroghe alle normali regole di affidabilità. Un precedente che non si vedeva da anni.",
+    "Il costo di tutto questo? Finirà nella tua bolletta, anche se non hai mai chiesto a ChatGPT nulla. Si chiama 'costi di sistema'.",
+    "Chiama il tuo fornitore energetico. Chiedigli: 'Come vi state preparando a gestire questa domanda extra?'. Fallo domani."
+  ],
+  "video_script": [
+    "Saltano le regole sulla rete elettrica per l'AI",
+    "I data center consumano come fossero città",
+    "Servono nuove centrali a gas subito",
+    "La bolletta sale anche per chi non usa AI",
+    "Chiama il tuo fornitore e chiedi come si prepara"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Regole di rete sospese per l'AI",
+      "description": "Deroghe alle regole di affidabilità per accelerare nuovi impianti. Precedente storico.",
+      "visual_hint": "Documento ufficiale con timbro",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "grid control room"
+    },
+    {
+      "hook": "Nuove centrali gas a tempo record",
+      "description": "Data center AI consumano come città. PJM chiede centrali gas subito.",
+      "visual_hint": "Centrale a gas in costruzione",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "gas power plant construction"
+    },
+    {
+      "hook": "Abbiamo aggirato le regole di sicurezza",
+      "description": "Autorità federale ha già concesso deroghe alle normali regole di affidabilità.",
+      "visual_hint": "Interruttore della corrente spento",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit breaker switch"
+    },
+    {
+      "hook": "Bolletta più cara anche senza AI",
+      "description": "Costi di sistema: paghi anche se non usi ChatGPT. La bolletta aumenterà.",
+      "visual_hint": "Bolletta con cifre in rosso",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "electricity bill payment"
+    },
+    {
+      "hook": "Chiama il tuo fornitore domani",
+      "description": "Chiedi: come vi preparate a gestire questa domanda extra? Fallo subito.",
+      "visual_hint": "Persona al telefono con agenda",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "person calling on phone"
+    }
+  ],
+  "pubDate": "Fri, 08 May 2026 13:00:00 +0000",
+  "savedAt": "2026-05-08T17:04:40.474Z",
+  "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/"
+}
