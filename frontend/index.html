@@ -316,7 +316,7 @@
           /* Area visiva */
           const visual = document.createElement('div');
           visual.className = 'slide-visual';
-          const slideImg = article.carousel_slides?.[i]?.image || (i === 0 ? article.image : null) || article.image || null;
+          const slideImg = article.carousel_slides?.[i]?.image || (i === 0 ? (article.image || null) : null);
           if (slideImg) {
             visual.classList.add('has-img');
             visual.style.backgroundImage = `url('${slideImg}')`;
