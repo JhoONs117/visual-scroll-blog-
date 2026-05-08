@@ -23,5 +23,42 @@
   ],
   "pubDate": "Fri, 08 May 2026 12:49:16 +0000",
   "savedAt": "2026-05-08T13:12:18.708Z",
-  "link": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/"
+  "link": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
+  "carousel_slides": [
+    {
+      "hook": "Quanto fanno male i bug?",
+      "description": "Airbnb svela che il 60% del codice è AI. Chi controlla davvero la qualità?",
+      "visual_hint": "codice con errore rosso",
+      "layout_type": "hero",
+      "icon": "vibration"
+    },
+    {
+      "hook": "60% del codice è AI.",
+      "description": "Ogni riga generata viene revisionata da ingegneri umani prima del deploy.",
+      "visual_hint": "grafico a torta 60%",
+      "layout_type": "right-focus",
+      "icon": "waves"
+    },
+    {
+      "hook": "Il tuo ruolo? Da scrittore a revisore.",
+      "description": "I dev ora controllano, non scrivono. Cambia tutto il workflow.",
+      "visual_hint": "codice barrato e occhio",
+      "layout_type": "sensor-zoom",
+      "icon": "heart"
+    },
+    {
+      "hook": "Revisioni umane, non solo AI.",
+      "description": "Ogni riga AI passa sotto l'occhio critico degli ingegneri. Serve un tool.",
+      "visual_hint": "mano che segna righe",
+      "layout_type": "human-hand",
+      "icon": "check"
+    },
+    {
+      "hook": "Prova un tool di code review AI.",
+      "description": "Scopri come automatizzare i controlli. Il futuro è già qui.",
+      "visual_hint": "pulsante 'prova ora'",
+      "layout_type": "cta-final",
+      "icon": "tag"
+    }
+  ]
 }

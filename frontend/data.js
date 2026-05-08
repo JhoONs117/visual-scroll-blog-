@@ -51,7 +51,44 @@ window.ARTICLES = [
     ],
     "pubDate": "Fri, 08 May 2026 12:49:16 +0000",
     "savedAt": "2026-05-08T13:12:18.708Z",
-    "link": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/"
+    "link": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
+    "carousel_slides": [
+      {
+        "hook": "Quanto fanno male i bug?",
+        "description": "Airbnb svela che il 60% del codice è AI. Chi controlla davvero la qualità?",
+        "visual_hint": "codice con errore rosso",
+        "layout_type": "hero",
+        "icon": "vibration"
+      },
+      {
+        "hook": "60% del codice è AI.",
+        "description": "Ogni riga generata viene revisionata da ingegneri umani prima del deploy.",
+        "visual_hint": "grafico a torta 60%",
+        "layout_type": "right-focus",
+        "icon": "waves"
+      },
+      {
+        "hook": "Il tuo ruolo? Da scrittore a revisore.",
+        "description": "I dev ora controllano, non scrivono. Cambia tutto il workflow.",
+        "visual_hint": "codice barrato e occhio",
+        "layout_type": "sensor-zoom",
+        "icon": "heart"
+      },
+      {
+        "hook": "Revisioni umane, non solo AI.",
+        "description": "Ogni riga AI passa sotto l'occhio critico degli ingegneri. Serve un tool.",
+        "visual_hint": "mano che segna righe",
+        "layout_type": "human-hand",
+        "icon": "check"
+      },
+      {
+        "hook": "Prova un tool di code review AI.",
+        "description": "Scopri come automatizzare i controlli. Il futuro è già qui.",
+        "visual_hint": "pulsante 'prova ora'",
+        "layout_type": "cta-final",
+        "icon": "tag"
+      }
+    ]
   },
   {
     "title": "The biggest U.S. power grid is under strain from AI — and no one is happy",
@@ -78,7 +115,44 @@ window.ARTICLES = [
     ],
     "pubDate": "Fri, 08 May 2026 13:00:00 +0000",
     "savedAt": "2026-05-08T13:12:09.775Z",
-    "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/"
+    "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
+    "carousel_slides": [
+      {
+        "hook": "Coal plants stay open for AI",
+        "description": "PJM delayed coal retirements as data center demand surges. Who pays?",
+        "visual_hint": "Smoking coal plant silhouette",
+        "layout_type": "hero",
+        "icon": "tag"
+      },
+      {
+        "hook": "Your bill funds AI's growth",
+        "description": "Data centers now consume 9% of PJM's power. Renewables can't keep up.",
+        "visual_hint": "Percent sign over power lines",
+        "layout_type": "right-focus",
+        "icon": "waves"
+      },
+      {
+        "hook": "Renewables fall short under load",
+        "description": "New solar and wind can't match AI's 24/7 energy demand. Coal fills the gap.",
+        "visual_hint": "Solar panels next to coal stack",
+        "layout_type": "sensor-zoom",
+        "icon": "heart"
+      },
+      {
+        "hook": "Electricity spike hits your wallet",
+        "description": "PJM's AI-driven demand raises rates. Check your 2025 forecast before next jump.",
+        "visual_hint": "Hand holding bill with arrow up",
+        "layout_type": "human-hand",
+        "icon": "vibration"
+      },
+      {
+        "hook": "Act now: lock your 2025 rate",
+        "description": "Forecast shows another surge ahead. Don't wait—review your plan before PJM adjusts.",
+        "visual_hint": "Calendar with marked date",
+        "layout_type": "cta-final",
+        "icon": "check"
+      }
+    ]
   },
   {
     "title": "Hackers deface school login pages after claiming another Instructure hack",

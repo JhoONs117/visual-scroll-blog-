@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carousel — AI News</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #080c18;
+      color: #fff;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+      min-height: 100vh;
+    }
+
+    /* ── HEADER ── */
+    .header {
+      background: #0d1120;
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+      padding: 14px 24px;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+    .header h1 { font-size: 17px; font-weight: 700; letter-spacing: -0.01em; }
+    .header nav { display: flex; gap: 16px; margin-left: auto; }
+    .header a {
+      color: rgba(255,255,255,0.45);
+      text-decoration: none;
+      font-size: 13px;
+      transition: color 0.15s;
+    }
+    .header a:hover { color: #00c8ff; }
+
+    /* ── SELECTOR BAR ── */
+    .selector-bar {
+      padding: 14px 24px;
+      background: #0a0f1e;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+    .selector-bar select {
+      flex: 1;
+      min-width: 200px;
+      max-width: 640px;
+      background: #141d35;
+      color: #fff;
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 8px;
+      padding: 8px 12px;
+      font-size: 13px;
+      cursor: pointer;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%2300c8ff' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 12px center;
+      padding-right: 32px;
+    }
+    .selector-bar select:focus { outline: none; border-color: #00c8ff; }
+    .count-label {
+      font-size: 12px;
+      color: rgba(255,255,255,0.3);
+      white-space: nowrap;
+    }
+
+    /* ── VIEWER ── */
+    .viewer {
+      padding: 28px 24px 16px;
+      overflow-x: auto;
+    }
+    .slides-row {
+      display: flex;
+      gap: 14px;
+      min-width: max-content;
+    }
+
+    /* ── EMPTY / NO CAROUSEL ── */
+    .empty-state {
+      padding: 80px 24px;
+      text-align: center;
+      color: rgba(255,255,255,0.3);
+    }
+    .empty-state h2 { font-size: 18px; margin-bottom: 8px; font-weight: 600; }
+    .empty-state p  { font-size: 13px; }
+
+    /* ═══════════════════════════════════════════
+       SLIDE BASE  (270 × 337 = 4:5 ratio)
+       ═══════════════════════════════════════════ */
+    .slide {
+      width: 270px;
+      height: 337px;
+      border-radius: 14px;
+      overflow: hidden;
+      position: relative;
+      flex-shrink: 0;
+      background: #080c18;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      cursor: default;
+    }
+    .slide:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 16px 48px rgba(0,200,255,0.18);
+    }
+
+    /* gradient background per layout */
+    .slide.hero        { background: linear-gradient(145deg, #0a1020 0%, #0e1840 55%, #190d3a 100%); }
+    .slide.right-focus { background: linear-gradient(155deg, #08101e 0%, #0c1832 55%, #0a1525 100%); }
+    .slide.sensor-zoom { background: linear-gradient(135deg, #090d1c 0%, #0b1430 60%, #110930 100%); }
+    .slide.human-hand  { background: linear-gradient(150deg, #060810 0%, #0d0e28 60%, #180838 100%); }
+    .slide.cta-final   { background: linear-gradient(145deg, #08101f 0%, #0c1535 60%, #141040 100%); }
+
+    /* image placeholder panel (right third) — hidden until we have real images */
+    .img-panel {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      width: 38%;
+      background: linear-gradient(180deg, rgba(0,200,255,0.04) 0%, rgba(0,100,200,0.06) 100%);
+      border-left: 1px solid rgba(0,200,255,0.06);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .img-panel .visual-hint-text {
+      font-size: 8px;
+      color: rgba(255,255,255,0.15);
+      text-align: center;
+      padding: 8px;
+      line-height: 1.4;
+      font-style: italic;
+    }
+
+    /* content layer */
+    .slide-inner {
+      position: relative;
+      z-index: 1;
+      height: 100%;
+      padding: 13px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── BADGE ── */
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      background: #00b8f0;
+      padding: 3px 7px;
+      border-radius: 4px;
+      width: fit-content;
+      flex-shrink: 0;
+    }
+    .badge-label {
+      font-size: 8.5px;
+      font-weight: 800;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #fff;
+    }
+    .badge svg {
+      width: 9px;
+      height: 9px;
+      fill: #fff;
+    }
+
+    /* ── HOOK ── */
+    .hook-text {
+      font-size: 17px;
+      font-weight: 800;
+      line-height: 1.18;
+      color: #fff;
+      letter-spacing: -0.015em;
+    }
+    .hook-text .accent { color: #00d0ff; }
+
+    /* ── DESCRIPTION ── */
+    .desc {
+      font-size: 9px;
+      color: rgba(255,255,255,0.62);
+      line-height: 1.5;
+      font-weight: 400;
+    }
+
+    /* ── ICON ── */
+    .icon {
+      display: block;
+      width: 26px;
+      height: 26px;
+      stroke: #00c8ff;
+      fill: none;
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      flex-shrink: 0;
+    }
+
+    /* ── FOOTER ── */
+    .slide-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: auto;
+      padding-top: 6px;
+    }
+    .slide-num    { font-size: 8.5px; color: rgba(255,255,255,0.28); font-weight: 600; letter-spacing: 0.04em; }
+    .slide-handle { font-size: 8.5px; color: rgba(255,255,255,0.28); }
+
+    /* ═══════════════════════════════════════════
+       LAYOUT HERO
+       Badge → icon (faint, top-right) → hook (left col) → desc → footer
+       right 38% = image panel
+       ═══════════════════════════════════════════ */
+    .slide.hero .slide-inner {
+      width: 64%;  /* text occupies left 64% */
+    }
+    .slide.hero .badge  { margin-bottom: 8px; }
+    .slide.hero .hook-text { font-size: 18px; flex: 1; display: flex; align-items: flex-start; }
+    .slide.hero .desc   { margin-top: 8px; }
+    /* faint icon top-right inside text col */
+    .slide.hero .icon-faint {
+      position: absolute;
+      top: 13px;
+      right: calc(36% + 10px);
+      width: 20px;
+      height: 20px;
+      stroke: rgba(0,200,255,0.25);
+      fill: none;
+      stroke-width: 1.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+
+    /* ═══════════════════════════════════════════
+       LAYOUT RIGHT-FOCUS
+       Badge → row(hook left | icon right large) → desc → footer
+       ═══════════════════════════════════════════ */
+    .slide.right-focus .badge { margin-bottom: 8px; }
+    .slide.right-focus .hook-row {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex: 1;
+    }
+    .slide.right-focus .hook-text { font-size: 15px; flex: 1; }
+    .slide.right-focus .icon-large {
+      width: 52px;
+      height: 52px;
+      stroke: #00c8ff;
+      fill: none;
+      stroke-width: 1.4;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      flex-shrink: 0;
+      opacity: 0.85;
+    }
+    .slide.right-focus .desc { margin-top: 8px; }
+
+    /* ═══════════════════════════════════════════
+       LAYOUT SENSOR-ZOOM
+       Badge → hook → data-points (3 rows) → footer
+       ═══════════════════════════════════════════ */
+    .slide.sensor-zoom .badge { margin-bottom: 8px; }
+    .slide.sensor-zoom .hook-text { font-size: 14.5px; margin-bottom: 10px; }
+    .slide.sensor-zoom .data-points {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      flex: 1;
+    }
+    .slide.sensor-zoom .dp {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      background: rgba(255,255,255,0.04);
+      border-left: 2px solid #00c8ff;
+      padding: 5px 8px;
+      border-radius: 0 5px 5px 0;
+    }
+    .slide.sensor-zoom .dp-dot {
+      width: 4px;
+      height: 4px;
+      border-radius: 50%;
+      background: #00c8ff;
+      flex-shrink: 0;
+    }
+    .slide.sensor-zoom .dp-text {
+      font-size: 8.5px;
+      color: rgba(255,255,255,0.7);
+      line-height: 1.35;
+    }
+
+    /* ═══════════════════════════════════════════
+       LAYOUT HUMAN-HAND
+       Badge → icon → hook (very large) → desc → footer
+       ═══════════════════════════════════════════ */
+    .slide.human-hand .badge { margin-bottom: 8px; }
+    .slide.human-hand .icon { margin-bottom: 8px; width: 30px; height: 30px; }
+    .slide.human-hand .hook-text { font-size: 20px; line-height: 1.12; flex: 1; }
+    .slide.human-hand .desc { margin-top: 8px; }
+
+    /* ═══════════════════════════════════════════
+       LAYOUT CTA-FINAL
+       Badge (centered) → icon (centered) → hook → desc → footer
+       ═══════════════════════════════════════════ */
+    .slide.cta-final .slide-inner { align-items: center; text-align: center; }
+    .slide.cta-final .badge { align-self: flex-start; margin-bottom: 8px; }
+    .slide.cta-final .icon {
+      width: 38px;
+      height: 38px;
+      margin: 10px auto 10px;
+      stroke: #00d0ff;
+      stroke-width: 2;
+    }
+    .slide.cta-final .hook-text { font-size: 16px; text-align: center; }
+    .slide.cta-final .desc { margin-top: 10px; text-align: center; }
+    .slide.cta-final .slide-footer { width: 100%; }
+
+    /* ── THREAD PREVIEW ── */
+    .thread-section {
+      margin: 0 24px 32px;
+      background: #0d1120;
+      border: 1px solid rgba(255,255,255,0.07);
+      border-radius: 12px;
+      padding: 20px 24px;
+    }
+    .thread-section h3 {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: rgba(255,255,255,0.35);
+      margin-bottom: 16px;
+    }
+    .tweet-row {
+      display: flex;
+      gap: 14px;
+      padding: 10px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+    }
+    .tweet-row:last-child { border-bottom: none; padding-bottom: 0; }
+    .tweet-n    { font-size: 11px; font-weight: 700; color: #00b8f0; min-width: 18px; padding-top: 2px; }
+    .tweet-body { font-size: 13px; color: rgba(255,255,255,0.72); line-height: 1.55; }
+  </style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Carousel</h1>
+  <nav>
+    <a href="index.html">← Feed</a>
+    <a href="review.html">Review</a>
+  </nav>
+</div>
+
+<div class="selector-bar">
+  <select id="sel"></select>
+  <span class="count-label" id="count"></span>
+</div>
+
+<div id="area">
+  <div class="empty-state">
+    <h2>Nessun articolo selezionato</h2>
+    <p>Scegli un articolo dal menu in alto.</p>
+  </div>
+</div>
+
+<script src="data.js"></script>
+<script>
+/* ── SVG icon paths (24×24 stroke viewBox) ── */
+const ICON_PATHS = {
+  tag:       `<path d="M20.59 13.41L13.42 20.59a2 2 0 01-2.83 0L2 12V2h10l8.59 8.59a2 2 0 010 2.82z"/><circle cx="7" cy="7" r="1.5" fill="currentColor" stroke="none"/>`,
+  waves:     `<path d="M2 6c1.5 1 3 1 4.5 0s3-1 4.5 0 3 1 4.5 0 3-1 4.5 0"/><path d="M2 12c1.5 1 3 1 4.5 0s3-1 4.5 0 3 1 4.5 0 3-1 4.5 0"/><path d="M2 18c1.5 1 3 1 4.5 0s3-1 4.5 0 3 1 4.5 0 3-1 4.5 0"/>`,
+  heart:     `<path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78L12 21l8.84-8.85a5.5 5.5 0 000-7.54z"/>`,
+  vibration: `<line x1="2" y1="10" x2="2" y2="14"/><line x1="6" y1="6"  x2="6" y2="18"/><line x1="10" y1="3" x2="10" y2="21"/><line x1="14" y1="3" x2="14" y2="21"/><line x1="18" y1="6" x2="18" y2="18"/><line x1="22" y1="10" x2="22" y2="14"/>`,
+  check:     `<polyline points="20 6 9 17 4 12"/>`
+};
+
+function icon(name, cls, extra) {
+  const p = ICON_PATHS[name] || ICON_PATHS.tag;
+  return `<svg class="${cls}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" ${extra||''}>${p}</svg>`;
+}
+
+const BADGE_SVG = `<svg viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="8" height="8" rx="1" fill="white"/>
+  <path d="M3 3l4 4M7 3l-4 4" stroke="#00b8f0" stroke-width="1.4" stroke-linecap="round"/>
+</svg>`;
+
+function badge() {
+  return `<div class="badge">${BADGE_SVG}<span class="badge-label">AI News</span></div>`;
+}
+
+/* accent: last ~40% of hook words get cyan */
+function accentHook(hook) {
+  const words = hook.trim().split(' ');
+  if (words.length <= 2) return `<span class="accent">${hook}</span>`;
+  const split = Math.ceil(words.length * 0.55);
+  return words.slice(0, split).join(' ') + ' <span class="accent">' + words.slice(split).join(' ') + '</span>';
+}
+
+/* split description into up to 3 short fragments for sensor-zoom */
+function toDataPoints(desc) {
+  const frags = desc.split(/[.;—–,]/).map(s => s.trim()).filter(s => s.length > 4).slice(0, 3);
+  return frags.map(f => `
+    <div class="dp">
+      <div class="dp-dot"></div>
+      <span class="dp-text">${f}</span>
+    </div>`).join('');
+}
+
+function footer(idx, total) {
+  return `<div class="slide-footer">
+    <span class="slide-num">${idx + 1}/${total}</span>
+    <span class="slide-handle">@ainap</span>
+  </div>`;
+}
+
+function buildSlide(cs, idx, total) {
+  const lt = cs.layout_type;
+  const hookHtml = `<span class="hook-text">${accentHook(cs.hook)}</span>`;
+  const descHtml = `<div class="desc">${cs.description}</div>`;
+  const hintPanel = cs.visual_hint
+    ? `<div class="img-panel"><span class="visual-hint-text">${cs.visual_hint}</span></div>`
+    : '';
+
+  let inner = '';
+
+  if (lt === 'hero') {
+    inner = `
+      ${hintPanel}
+      <div class="slide-inner">
+        ${badge()}
+        ${icon(cs.icon, 'icon-faint')}
+        <div style="flex:1;display:flex;align-items:flex-start;margin-top:8px;">${hookHtml}</div>
+        ${descHtml}
+        ${footer(idx, total)}
+      </div>`;
+
+  } else if (lt === 'right-focus') {
+    inner = `
+      <div class="slide-inner">
+        ${badge()}
+        <div class="hook-row" style="margin-top:8px;">
+          <div style="flex:1;">${hookHtml}</div>
+          ${icon(cs.icon, 'icon-large')}
+        </div>
+        ${descHtml}
+        ${footer(idx, total)}
+      </div>`;
+
+  } else if (lt === 'sensor-zoom') {
+    inner = `
+      <div class="slide-inner">
+        ${badge()}
+        <div style="margin-top:8px;">${hookHtml}</div>
+        <div class="data-points" style="margin-top:10px;">
+          ${toDataPoints(cs.description)}
+        </div>
+        ${footer(idx, total)}
+      </div>`;
+
+  } else if (lt === 'human-hand') {
+    inner = `
+      ${hintPanel}
+      <div class="slide-inner">
+        ${badge()}
+        ${icon(cs.icon, 'icon')}
+        <div style="flex:1;">${hookHtml}</div>
+        ${descHtml}
+        ${footer(idx, total)}
+      </div>`;
+
+  } else { // cta-final
+    inner = `
+      <div class="slide-inner">
+        ${badge()}
+        ${icon(cs.icon, 'icon')}
+        ${hookHtml}
+        ${descHtml}
+        ${footer(idx, total)}
+      </div>`;
+  }
+
+  return `<div class="slide ${lt}">${inner}</div>`;
+}
+
+function renderArticle(article) {
+  const area = document.getElementById('area');
+  const cs = article.carousel_slides;
+
+  if (!cs || !cs.length) {
+    area.innerHTML = `<div class="empty-state">
+      <h2>Nessun carousel</h2>
+      <p>Questo articolo non ha ancora <code>carousel_slides</code>.<br>
+         Verrà generato al prossimo run della pipeline.</p>
+    </div>`;
+    return;
+  }
+
+  const slidesHtml = cs.map((s, i) => buildSlide(s, i, cs.length)).join('');
+
+  const threadHtml = article.thread_text && article.thread_text.length
+    ? `<div class="thread-section">
+        <h3>Thread X</h3>
+        ${article.thread_text.map((t, i) => `
+          <div class="tweet-row">
+            <span class="tweet-n">${i + 1}</span>
+            <span class="tweet-body">${t}</span>
+          </div>`).join('')}
+      </div>`
+    : '';
+
+  area.innerHTML = `
+    <div class="viewer"><div class="slides-row">${slidesHtml}</div></div>
+    ${threadHtml}
+  `;
+}
+
+/* ── Init ── */
+const articles = window.ARTICLES || [];
+const sel  = document.getElementById('sel');
+const lbl  = document.getElementById('count');
+
+const withCs = articles.filter(a => a.carousel_slides && a.carousel_slides.length).length;
+lbl.textContent = `${withCs} con carousel · ${articles.length} totali`;
+
+sel.innerHTML = '<option value="">Seleziona articolo…</option>';
+articles.forEach((a, i) => {
+  const has = a.carousel_slides && a.carousel_slides.length;
+  const opt = document.createElement('option');
+  opt.value = i;
+  opt.textContent = (has ? '✓ ' : '○ ') + (a.title || `Articolo ${i + 1}`);
+  sel.appendChild(opt);
+});
+
+sel.addEventListener('change', () => {
+  const i = parseInt(sel.value);
+  if (!isNaN(i)) renderArticle(articles[i]);
+});
+
+/* auto-select first article with carousel */
+const first = articles.findIndex(a => a.carousel_slides && a.carousel_slides.length);
+if (first >= 0) {
+  sel.value = first;
+  sel.dispatchEvent(new Event('change'));
+} else if (articles.length > 0) {
+  sel.value = 0;
+  sel.dispatchEvent(new Event('change'));
+}
+</script>
+</body>
+</html>
