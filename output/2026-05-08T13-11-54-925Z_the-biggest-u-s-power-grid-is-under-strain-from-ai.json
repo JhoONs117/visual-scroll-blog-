@@ -27,48 +27,46 @@
   "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
   "carousel_slides": [
     {
-      "hook": "Who pays for AI's power?",
-      "description": "Regulators, utilities, and tech companies all point at each other for grid upgrade costs.",
-      "visual_hint": "Three arrows pointing in circle",
+      "hook": "Coal plants stay open for AI",
+      "description": "Coal plants delayed retirement to power AI. Your bill may fund data centers.",
+      "visual_hint": "Smoking coal plant at dusk",
       "layout_type": "hero",
       "icon": "tag",
-      "image_query": "power grid towers"
+      "image_query": "coal power plant"
     },
     {
-      "hook": "9% of PJM power goes to AI",
-      "description": "The grid serving 65 million people sends 9% of its power to data centers, and rising fast.",
-      "visual_hint": "Large percentage symbol",
+      "hook": "9% of grid goes to data centers",
+      "description": "PJM sends 9% of power to data centers, and demand is climbing fast.",
+      "visual_hint": "Server racks with cables",
       "layout_type": "right-focus",
       "icon": "waves",
-      "image_query": "server room data center",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/960px-BalticServers_data_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image_query": "server room",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     },
     {
-      "hook": "Coal plants stay open for AI",
-      "description": "Renewables can't scale fast enough, so old coal plants delay retirement—some for years.",
-      "visual_hint": "Coal plant smokestack",
+      "hook": "Renewables can't scale fast enough",
+      "description": "Renewables can't keep up, so old coal plants get retirement delays for years.",
+      "visual_hint": "Wind turbine beside smokestack",
       "layout_type": "sensor-zoom",
       "icon": "heart",
-      "image_query": "coal power plant",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Komatsu_bulldozer_pushing_coal_in_Power_plant_Ljubljana_%28winter_2017%29.jpg/960px-Komatsu_bulldozer_pushing_coal_in_Power_plant_Ljubljana_%28winter_2017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image_query": "wind turbine coal plant"
     },
     {
-      "hook": "Your bill funds AI data centers",
-      "description": "Your next electricity bill might rise to fund AI's growth—old coal plants keep running for them.",
-      "visual_hint": "Person holding electricity bill",
+      "hook": "Who pays for grid upgrades?",
+      "description": "Regulators, utilities, and tech companies all point fingers over who pays.",
+      "visual_hint": "Finger pointing in meeting",
       "layout_type": "human-hand",
       "icon": "vibration",
-      "image_query": "person holding smartphone",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hand_holding_Smartphone.jpg/960px-Hand_holding_Smartphone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image_query": "office meeting",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/President_Trump_and_Ukrainian_President_Zelenskyy_Clash_During_Meeting_in_Oval_Office%2C_Feb._28%2C_2025.jpg/960px-President_Trump_and_Ukrainian_President_Zelenskyy_Clash_During_Meeting_in_Oval_Office%2C_Feb._28%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     },
     {
-      "hook": "Lock your rate before the spike",
-      "description": "Open your 2025 rate forecast now. If you see a spike coming, lock your current plan.",
-      "visual_hint": "Calendar with price spike arrow",
+      "hook": "Check your 2025 rate forecast now",
+      "description": "Open your 2025 rate forecast. If you see a spike, lock your plan before it hits.",
+      "visual_hint": "Chart with upward arrow",
       "layout_type": "cta-final",
       "icon": "tag",
-      "image_query": "stock market chart",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image_query": "electricity bill chart"
     }
   ]
 }

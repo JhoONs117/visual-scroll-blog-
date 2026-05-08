@@ -119,48 +119,48 @@ window.ARTICLES = [
     "image": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1234731223.jpg?w=1024",
     "carousel_slides": [
       {
-        "hook": "Chi controlla l'AI?",
-        "description": "Ogni riga di codice AI viene revisionata da un ingegnere umano. Il costo nascosto? Non è il codice, ma il tempo di revisione.",
-        "visual_hint": "Occhio che scruta codice",
+        "hook": "Ogni riga, occhi umani",
+        "description": "Airbnb controlla ogni riga di codice AI. Il collo di bottiglia? Non scrivere, ma revisionare.",
+        "visual_hint": "Codice su schermo luminoso",
         "layout_type": "hero",
         "icon": "tag",
-        "image_query": "developer reviewing code"
+        "image_query": "code review screen"
       },
       {
-        "hook": "Produttività raddoppiata?",
-        "description": "Scrivere codice con AI è veloce, ma qualcuno deve leggere e validare tutto. Quel collo di bottiglia non sparisce.",
-        "visual_hint": "Imbuto con codice che scorre",
+        "hook": "60% codice è AI",
+        "description": "Il 60% del nuovo codice di Airbnb è generato da AI. Ogni riga viene controllata da ingegneri umani.",
+        "visual_hint": "Percentuale e tastiera",
         "layout_type": "right-focus",
         "icon": "waves",
-        "image_query": "code on screen",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS_code_on_a_screen_%28Unsplash%29.jpg/960px-CSS_code_on_a_screen_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image_query": "software developer laptop",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Software_Developer_at_Work.jpg/960px-Software_Developer_at_Work.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
         "hook": "Il tuo ruolo cambia",
-        "description": "Non sei più uno scrittore di codice: sei un revisore. Devi capire cosa ha fatto l'AI e decidere se è giusto.",
-        "visual_hint": "Tastiera con lente d'ingrandimento",
+        "description": "Non sei più uno scrittore di codice. Sei un revisore. Più controllo, meno scrittura.",
+        "visual_hint": "Occhio che controlla righe",
         "layout_type": "sensor-zoom",
         "icon": "heart",
-        "image_query": "person laptop code",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Laptop_coding_programs_%28Unsplash%29.jpg/960px-Laptop_coding_programs_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image_query": "programming code lines",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Lines_of_code.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
       },
       {
-        "hook": "Fiducia, ma verifica",
-        "description": "Airbnb non si fida ciecamente: ogni riga generata passa sotto occhi umani. Questo è il nuovo standard qualità-rischio.",
-        "visual_hint": "Due mani che esaminano fogli",
+        "hook": "Revisione è il nuovo standard",
+        "description": "Airbnb non si fida ciecamente. Ogni riga AI passa sotto occhi umani. Qualità senza rischi.",
+        "visual_hint": "Mano che segna codice",
         "layout_type": "human-hand",
-        "icon": "check",
-        "image_query": "hands checking document",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/CBP_checking_authenticity_of_a_travel_document.jpg/960px-CBP_checking_authenticity_of_a_travel_document.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "icon": "vibration",
+        "image_query": "hand reviewing paper",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bark_for_making_hand_made_paper_%2814419288610%29.jpg/960px-Bark_for_making_hand_made_paper_%2814419288610%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
-        "hook": "Prova un tool di review",
-        "description": "Il primo è spesso gratuito. Ti serve per capire se il tuo flusso regge il nuovo ritmo dell'AI.",
-        "visual_hint": "Icona play e codice scorre",
+        "hook": "Prova un tool di review AI",
+        "description": "Prova subito un tool di code review AI. Il primo è spesso gratuito. Testa il tuo flusso oggi.",
+        "visual_hint": "Pulsante CTA con freccia",
         "layout_type": "cta-final",
-        "icon": "vibration",
-        "image_query": "robot typing code",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Magnolia_FIRST_Robotics_Competition_2026_%28SSC2026m000132%29.webm/960px--Magnolia_FIRST_Robotics_Competition_2026_%28SSC2026m000132%29.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo"
+        "icon": "tag",
+        "image_query": "computer screen code",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif/960px-Computer-screen-code-glitch-animation-gif-background-free.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       }
     ]
   },
@@ -193,48 +193,46 @@ window.ARTICLES = [
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
     "carousel_slides": [
       {
-        "hook": "Who pays for AI's power?",
-        "description": "Regulators, utilities, and tech companies all point at each other for grid upgrade costs.",
-        "visual_hint": "Three arrows pointing in circle",
+        "hook": "Coal plants stay open for AI",
+        "description": "Coal plants delayed retirement to power AI. Your bill may fund data centers.",
+        "visual_hint": "Smoking coal plant at dusk",
         "layout_type": "hero",
         "icon": "tag",
-        "image_query": "power grid towers"
+        "image_query": "coal power plant"
       },
       {
-        "hook": "9% of PJM power goes to AI",
-        "description": "The grid serving 65 million people sends 9% of its power to data centers, and rising fast.",
-        "visual_hint": "Large percentage symbol",
+        "hook": "9% of grid goes to data centers",
+        "description": "PJM sends 9% of power to data centers, and demand is climbing fast.",
+        "visual_hint": "Server racks with cables",
         "layout_type": "right-focus",
         "icon": "waves",
-        "image_query": "server room data center",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/960px-BalticServers_data_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image_query": "server room",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
-        "hook": "Coal plants stay open for AI",
-        "description": "Renewables can't scale fast enough, so old coal plants delay retirement—some for years.",
-        "visual_hint": "Coal plant smokestack",
+        "hook": "Renewables can't scale fast enough",
+        "description": "Renewables can't keep up, so old coal plants get retirement delays for years.",
+        "visual_hint": "Wind turbine beside smokestack",
         "layout_type": "sensor-zoom",
         "icon": "heart",
-        "image_query": "coal power plant",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Komatsu_bulldozer_pushing_coal_in_Power_plant_Ljubljana_%28winter_2017%29.jpg/960px-Komatsu_bulldozer_pushing_coal_in_Power_plant_Ljubljana_%28winter_2017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image_query": "wind turbine coal plant"
       },
       {
-        "hook": "Your bill funds AI data centers",
-        "description": "Your next electricity bill might rise to fund AI's growth—old coal plants keep running for them.",
-        "visual_hint": "Person holding electricity bill",
+        "hook": "Who pays for grid upgrades?",
+        "description": "Regulators, utilities, and tech companies all point fingers over who pays.",
+        "visual_hint": "Finger pointing in meeting",
         "layout_type": "human-hand",
         "icon": "vibration",
-        "image_query": "person holding smartphone",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hand_holding_Smartphone.jpg/960px-Hand_holding_Smartphone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image_query": "office meeting",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/President_Trump_and_Ukrainian_President_Zelenskyy_Clash_During_Meeting_in_Oval_Office%2C_Feb._28%2C_2025.jpg/960px-President_Trump_and_Ukrainian_President_Zelenskyy_Clash_During_Meeting_in_Oval_Office%2C_Feb._28%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
-        "hook": "Lock your rate before the spike",
-        "description": "Open your 2025 rate forecast now. If you see a spike coming, lock your current plan.",
-        "visual_hint": "Calendar with price spike arrow",
+        "hook": "Check your 2025 rate forecast now",
+        "description": "Open your 2025 rate forecast. If you see a spike, lock your plan before it hits.",
+        "visual_hint": "Chart with upward arrow",
         "layout_type": "cta-final",
         "icon": "tag",
-        "image_query": "stock market chart",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image_query": "electricity bill chart"
       }
     ]
   },

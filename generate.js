@@ -149,7 +149,7 @@ Regole testo:
 - hook: max 8 parole, tensione irrisolta, non titolo di giornale
 - description: max 25 parole — se hai il thread X, condensa il tweet più pertinente per quella slide; non inventare info non presenti nelle slide o nei tweet
 - visual_hint: max 6 parole — elemento visivo concreto coerente con il layout della slide
-- image_query: 2-3 parole inglesi semplici e universali, soggetti che esistono come fotografie su Wikipedia (es. "server room", "wind turbine", "person laptop", "robot factory", "power plant", "stock market chart"). EVITA combinazioni troppo specifiche o astratte.
+- image_query: 2-3 parole inglesi semplici, soggetti che esistono come fotografie su Wikipedia. PREFERISCI oggetti, luoghi, tecnologia, infrastrutture (es. "server room", "wind turbine", "power plant", "stock market chart", "factory robot", "solar panels"). Usa persone SOLO se sono figure molto note (es. "Elon Musk", "Bill Gates") oppure scene generiche senza individui riconoscibili (es. "people walking street", "crowd market", "office workers"). EVITA ritratti di individui specifici non famosi, interviste, relatori sconosciuti.
 - slide 1 deve avere l'hook con più tensione (può venire dalla slide 3 o 5 originale)
 
 Regole layout_type — assegna sempre in questo ordine fisso:

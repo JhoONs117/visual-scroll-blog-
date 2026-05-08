@@ -29,8 +29,11 @@ async function fetchWikimediaImage(query) {
       /* salta PDF, SVG, loghi e file non rilevanti */
       if (/\.(pdf|svg)$/i.test(title)) continue;
       if (/logo|icon|flag|coat_of_arms|emblem/i.test(title)) continue;
-      /* almeno una parola della query deve essere nel titolo */
-      if (!queryWords.some(w => title.includes(w))) continue;
+      /* salta ritratti di individui specifici non famosi */
+      if (/portrait|headshot|interview|press_conference|speaking_at|speech_by|official_photo|mugshot/i.test(title)) continue;
+      /* almeno 2 parole della query (o tutte se meno di 2) devono matchare nel titolo */
+      const matchCount = queryWords.filter(w => title.includes(w)).length;
+      if (matchCount < Math.min(2, queryWords.length)) continue;
       const imgUrl = page.imageinfo?.[0]?.thumburl || page.imageinfo?.[0]?.url;
       if (imgUrl && imgUrl.startsWith('http')) return imgUrl;
     }
