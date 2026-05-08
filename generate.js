@@ -119,7 +119,58 @@ Regole script:
   return null;
 }
 
-module.exports = { generateSlides, generateFormats };
+const CAROUSEL_LAYOUTS = ['hero', 'right-focus', 'sensor-zoom', 'human-hand', 'cta-final'];
+const CAROUSEL_ICONS   = ['tag', 'waves', 'heart', 'vibration', 'check'];
+
+async function generateCarouselSlides(title, slides) {
+  const slidesText = slides.map((s, i) => `${i + 1}. ${s}`).join('\n');
+
+  const prompt = `Dato questo titolo e queste 5 slide, genera 5 carousel_slides per Instagram.
+
+Titolo: ${title}
+Slide:
+${slidesText}
+
+Rispondi SOLO JSON valido:
+{
+  "carousel_slides": [
+    { "hook": "...", "description": "...", "visual_hint": "...", "layout_type": "hero",        "icon": "tag"       },
+    { "hook": "...", "description": "...", "visual_hint": "...", "layout_type": "right-focus", "icon": "waves"     },
+    { "hook": "...", "description": "...", "visual_hint": "...", "layout_type": "sensor-zoom", "icon": "heart"     },
+    { "hook": "...", "description": "...", "visual_hint": "...", "layout_type": "human-hand",  "icon": "vibration" },
+    { "hook": "...", "description": "...", "visual_hint": "...", "layout_type": "cta-final",   "icon": "check"     }
+  ]
+}
+
+Regole:
+- hook: max 8 parole, crea tensione o curiosità
+- description: max 25 parole, espande il hook con un dettaglio concreto
+- visual_hint: max 6 parole, descrive l'immagine di sfondo ideale
+- layout_type e icon: valori fissi come nel formato sopra, NON modificare
+- ogni carousel_slide si ispira a una slide diversa (non ripetere la stessa)
+- niente hashtag, niente emoji`;
+
+  for (let attempt = 0; attempt < 2; attempt++) {
+    try {
+      const raw = await callDeepSeek(prompt);
+      const json = raw.match(/\{[\s\S]*\}/)?.[0];
+      const parsed = JSON.parse(json);
+      const cs = parsed.carousel_slides;
+      if (
+        Array.isArray(cs) && cs.length === 5 &&
+        cs.every(s => s.hook && s.description && s.visual_hint && s.layout_type && s.icon) &&
+        cs.every((s, i) => s.layout_type === CAROUSEL_LAYOUTS[i])
+      ) {
+        return { carousel_slides: cs };
+      }
+    } catch (_) {}
+  }
+
+  console.warn('generateCarouselSlides fallito:', title);
+  return null;
+}
+
+module.exports = { generateSlides, generateFormats, generateCarouselSlides };
 
 // Test
 (async () => {
