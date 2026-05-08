@@ -1,0 +1,27 @@
+{
+  "title": "Hackers deface school login pages after claiming another Instructure hack",
+  "slides": [
+    "Un portale scolastico mostra una scritta: 'Hacked'.",
+    "Il colpevole è lo stesso gruppo di Instructure?",
+    "Dicono di aver rubato certificati di accesso globali.",
+    "La tua scuola potrebbe essere la prossima nel mirino.",
+    "Verifica se i vostri login usano ancora Canvas oggi."
+  ],
+  "thread_text": [
+    "Un gruppo dice di aver rubato certificati di accesso globali. Non dettagli tecnici, ma chiavi che aprono qualsiasi porta.",
+    "Stessa firma del precedente attacco a Instructure? I ricercatori non lo escludono. Se è vero, il bersaglio non è più una scuola sola.",
+    "La scritta 'Hacked' sul portale di un istituto è solo l'avvisaglia. Chi ha le credenziali può entrare in qualsiasi account Canvas senza lasciare traccia.",
+    "La tua scuola potrebbe essere la prossima nel mirino. Non serve un attacco mirato: basta che il gruppo decida di vendere o usare quei certificati.",
+    "Oggi controlla se i login della vostra scuola usano ancora Canvas. Se sì, cambia password e chiedi all'amministratore di verificare i log di accesso nelle ultime 48 ore."
+  ],
+  "video_script": [
+    "Hanno rubato le chiavi di accesso di Canvas.",
+    "Stesso gruppo che aveva già colpito Instructure.",
+    "La scuola nel mirino ha visto la scritta 'Hacked'.",
+    "Con quei certificati entrano in qualsiasi account.",
+    "Controlla se la tua scuola usa ancora Canvas oggi."
+  ],
+  "pubDate": "Thu, 07 May 2026 20:59:09 +0000",
+  "savedAt": "2026-05-08T07:18:06.158Z",
+  "link": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/"
+}

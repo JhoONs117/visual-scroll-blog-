@@ -1,0 +1,27 @@
+{
+  "title": "Airbnb says AI now writes 60% of its new code",
+  "slides": [
+    "Airbnb usa AI per scrivere codice, ma c'è un costo nascosto?",
+    "Il 60% del nuovo codice è generato da AI.",
+    "Gli ingegneri umani revisionano ogni riga.",
+    "Per i dev: il tuo ruolo cambia da scrivere a controllare.",
+    "Testa subito un tool di code review AI."
+  ],
+  "thread_text": [
+    "Il 60% del nuovo codice di Airbnb è generato da AI. Ma ogni singola riga viene controllata da un ingegnere umano. Il costo nascosto? Non è il codice — è il tempo di revisione.",
+    "Scrivere codice con l'AI è veloce. Raddoppia la produttività. Ma qualcuno deve comunque leggere, capire e validare tutto. Quel collo di bottiglia non sparisce.",
+    "Il tuo ruolo da sviluppatore cambia: non sei più uno scrittore di codice. Sei un revisore. Devi capire cosa ha fatto l'AI, e decidere se è giusto. Più controllo, meno scrittura.",
+    "Airbnb ha scelto di non fidarsi ciecamente. Ogni riga generata passa sotto gli occhi umani. Questo è il nuovo standard per chi vuole qualità senza rischi.",
+    "Se non hai ancora provato un tool di code review AI, fallo oggi. Il primo è spesso gratuito. Ti serve per capire se il tuo flusso regge il nuovo ritmo."
+  ],
+  "video_script": [
+    "Airbnb usa AI per scrivere codice.",
+    "Il 60% del codice nuovo è AI.",
+    "Ma ogni riga è controllata da umani.",
+    "Il tuo lavoro cambia: da scrivere a controllare.",
+    "Prova subito un tool di revisione."
+  ],
+  "pubDate": "Fri, 08 May 2026 12:49:16 +0000",
+  "savedAt": "2026-05-08T13:12:18.708Z",
+  "link": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/"
+}

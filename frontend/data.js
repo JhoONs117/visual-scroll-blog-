@@ -1,5 +1,275 @@
 window.ARTICLES = [
   {
+    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+    "slides": [
+      "Perplexity lo regala a tutti. Ma il problema è un altro.",
+      "Il computer personale AI esiste già su Mac oggi.",
+      "Non serve hardware nuovo: è solo un software che cambia tutto.",
+      "Puoi controllare le app con la voce in tempo reale.",
+      "Provalo gratis: la domanda è chi lo userà davvero."
+    ],
+    "thread_text": [
+      "Perplexity regala l'abbonamento a tutti. Ma il problema non è il prezzo: è capire se lo userai davvero una volta finita la prova.",
+      "Su Mac oggi hai già un computer personale AI. Non serve comprare nulla: è un aggiornamento software che trasforma il device.",
+      "Con la voce controlli le app in tempo reale. Apri file, scrivi messaggi, cerchi informazioni — senza toccare tastiera o mouse.",
+      "Non è un assistente lento. Funziona come un copilota che esegue subito i comandi, mentre lavori su altro.",
+      "Costa meno di un abbonamento Spotify. Attivalo oggi e decidi tra una settimana se lo userai davvero."
+    ],
+    "video_script": [
+      "Perplexity lo regala a tutti.",
+      "Ma il problema è un altro.",
+      "Su Mac l'AI personale esiste già.",
+      "Non serve hardware nuovo.",
+      "Controlli tutto con la voce."
+    ],
+    "pubDate": "Thu, 07 May 2026 19:57:59 +0000",
+    "savedAt": "2026-05-08T13:12:25.936Z",
+    "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/"
+  },
+  {
+    "title": "Airbnb says AI now writes 60% of its new code",
+    "slides": [
+      "Airbnb usa AI per scrivere codice, ma c'è un costo nascosto?",
+      "Il 60% del nuovo codice è generato da AI.",
+      "Gli ingegneri umani revisionano ogni riga.",
+      "Per i dev: il tuo ruolo cambia da scrivere a controllare.",
+      "Testa subito un tool di code review AI."
+    ],
+    "thread_text": [
+      "Il 60% del nuovo codice di Airbnb è generato da AI. Ma ogni singola riga viene controllata da un ingegnere umano. Il costo nascosto? Non è il codice — è il tempo di revisione.",
+      "Scrivere codice con l'AI è veloce. Raddoppia la produttività. Ma qualcuno deve comunque leggere, capire e validare tutto. Quel collo di bottiglia non sparisce.",
+      "Il tuo ruolo da sviluppatore cambia: non sei più uno scrittore di codice. Sei un revisore. Devi capire cosa ha fatto l'AI, e decidere se è giusto. Più controllo, meno scrittura.",
+      "Airbnb ha scelto di non fidarsi ciecamente. Ogni riga generata passa sotto gli occhi umani. Questo è il nuovo standard per chi vuole qualità senza rischi.",
+      "Se non hai ancora provato un tool di code review AI, fallo oggi. Il primo è spesso gratuito. Ti serve per capire se il tuo flusso regge il nuovo ritmo."
+    ],
+    "video_script": [
+      "Airbnb usa AI per scrivere codice.",
+      "Il 60% del codice nuovo è AI.",
+      "Ma ogni riga è controllata da umani.",
+      "Il tuo lavoro cambia: da scrivere a controllare.",
+      "Prova subito un tool di revisione."
+    ],
+    "pubDate": "Fri, 08 May 2026 12:49:16 +0000",
+    "savedAt": "2026-05-08T13:12:18.708Z",
+    "link": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/"
+  },
+  {
+    "title": "The biggest U.S. power grid is under strain from AI — and no one is happy",
+    "slides": [
+      "PJM grid strains under AI's weight—who pays?",
+      "Data centers now demand 9% of PJM's power.",
+      "Renewables can't keep up—coal plants delayed retirement.",
+      "Your electricity bill may rise to fund AI's growth.",
+      "Check your 2025 rate forecast before the next spike."
+    ],
+    "thread_text": [
+      "Your next electricity bill might fund an AI data center. Coal plants that were supposed to close are staying open just to power them.",
+      "PJM, the grid for 65 million people, now sends 9% of all its power to data centers. And that number is climbing fast.",
+      "Renewables can't scale fast enough to cover the demand. So old coal plants are getting retirement delays—some for years.",
+      "The question nobody wants to answer: who pays for the grid upgrades? Regulators, utilities, and tech companies are all pointing at each other.",
+      "Open your 2025 rate forecast now. If you see a spike coming, lock your current plan before it hits."
+    ],
+    "video_script": [
+      "Your electric bill could spike because of AI.",
+      "Coal plants are delaying retirement to power data centers.",
+      "Nine percent of the entire grid goes to servers now.",
+      "Renewables can't build fast enough to catch up.",
+      "Check your 2025 rate forecast before the next jump."
+    ],
+    "pubDate": "Fri, 08 May 2026 13:00:00 +0000",
+    "savedAt": "2026-05-08T13:12:09.775Z",
+    "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/"
+  },
+  {
+    "title": "Hackers deface school login pages after claiming another Instructure hack",
+    "slides": [
+      "Un portale scolastico mostra una scritta: 'Hacked'.",
+      "Il colpevole è lo stesso gruppo di Instructure?",
+      "Dicono di aver rubato certificati di accesso globali.",
+      "La tua scuola potrebbe essere la prossima nel mirino.",
+      "Verifica se i vostri login usano ancora Canvas oggi."
+    ],
+    "thread_text": [
+      "Un gruppo dice di aver rubato certificati di accesso globali. Non dettagli tecnici, ma chiavi che aprono qualsiasi porta.",
+      "Stessa firma del precedente attacco a Instructure? I ricercatori non lo escludono. Se è vero, il bersaglio non è più una scuola sola.",
+      "La scritta 'Hacked' sul portale di un istituto è solo l'avvisaglia. Chi ha le credenziali può entrare in qualsiasi account Canvas senza lasciare traccia.",
+      "La tua scuola potrebbe essere la prossima nel mirino. Non serve un attacco mirato: basta che il gruppo decida di vendere o usare quei certificati.",
+      "Oggi controlla se i login della vostra scuola usano ancora Canvas. Se sì, cambia password e chiedi all'amministratore di verificare i log di accesso nelle ultime 48 ore."
+    ],
+    "video_script": [
+      "Hanno rubato le chiavi di accesso di Canvas.",
+      "Stesso gruppo che aveva già colpito Instructure.",
+      "La scuola nel mirino ha visto la scritta 'Hacked'.",
+      "Con quei certificati entrano in qualsiasi account.",
+      "Controlla se la tua scuola usa ancora Canvas oggi."
+    ],
+    "pubDate": "Thu, 07 May 2026 20:59:09 +0000",
+    "savedAt": "2026-05-08T07:18:06.158Z",
+    "link": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/"
+  },
+  {
+    "title": "Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?",
+    "slides": [
+      "Lovable dà il 10% di aumento automatico... senza merito.",
+      "La cultura tossica spesso nasce dai bonus negoziati.",
+      "E se eliminare la competizione sui soldi bastasse?",
+      "Tu potresti smettere di litigare per una promozione.",
+      "Prova a chiedere: aumento automatico o meritocrazia?"
+    ],
+    "thread_text": [
+      "E se eliminare la competizione sui soldi bastasse a risolvere la cultura tossica in azienda?",
+      "Lovable ha appena alzato tutti del 10% automatico, zero merito. Solo essere lì da un anno.",
+      "I bonus negoziati creano invidia, silenzi, scontri. La tensione sale già in corridoio.",
+      "Tu smetti di litigare per una promozione quando lo stipendio non è più un'arma di ricatto.",
+      "Allora chiediti: aumento automatico o meritocrazia? Se non rispondi ora, lo farà il tuo team."
+    ],
+    "video_script": [
+      "Immagina di non litigare mai più per uno stipendio.",
+      "Lovable alza tutti del 10%, senza merito.",
+      "I bonus negoziati? Fanno solo male.",
+      "La competizione sui soldi scompare.",
+      "Chiediti: automatico o meritocrazia?"
+    ],
+    "pubDate": "Thu, 07 May 2026 18:36:29 +0000",
+    "savedAt": "2026-05-08T02:11:32.120Z",
+    "link": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/"
+  },
+  {
+    "title": "OpenAI launches new voice intelligence features in its API",
+    "slides": [
+      "OpenAI ha sbloccato voci che capiscono le emozioni?",
+      "Due nuove API: voice activity detection e testo a voce",
+      "Il modello non trascrive, interpreta le sfumature vocali",
+      "Chi integra ora può creare assistenti che sentono il tono",
+      "Prova tu: la differenza la fa la pausa dell'utente"
+    ],
+    "thread_text": [
+      "OpenAI ha appena rilasciato un'API che non solo capisce le parole che dici, ma anche come le dici. E no, non è la solita voce robotica.",
+      "Si chiama 'text-to-speech' ma non è solo quello: il modello rileva le emozioni nella tua voce e le riproduce. Rido e lui ride con me.",
+      "Poi c'è la novità che cambia tutto: la voice activity detection. Sa quando stai per parlare, quando fai una pausa, quando sei incerto.",
+      "Chi integra queste API oggi può creare assistenti che sentono il tuo tono. Un bot che capisce se sei arrabbiato o stanco e cambia approccio.",
+      "Costa meno di un abbonamento Netflix. Vai su platform.openai.com, prendi la API 'tts-1-hd', e in 10 minuti hai un assistente che ti ascolta davvero."
+    ],
+    "video_script": [
+      "Hai mai parlato con un assistente che capisce le tue emozioni?",
+      "OpenAI ha appena sbloccato questa cosa.",
+      "Non è solo un sintetizzatore vocale.",
+      "Il modello analizza anche pause e tono.",
+      "E si adatta in tempo reale."
+    ],
+    "pubDate": "Thu, 07 May 2026 22:24:50 +0000",
+    "savedAt": "2026-05-08T02:11:25.910Z",
+    "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/"
+  },
+  {
+    "title": "Google unveils Whoop-like screenless Fitbit Air",
+    "slides": [
+      "Google elimina lo schermo sul nuovo Fitbit Air.",
+      "Sostituisce il display con sensori tattili avanzati.",
+      "Raccoglie più dati biologici di un orologio tradizionale.",
+      "Non vedrai mai le notifiche: solo segnali sulla pelle.",
+      "Provalo oggi: indossalo e dimentica il polso."
+    ],
+    "thread_text": [
+      "Non vedrai mai più le notifiche sullo schermo. Solo segnali sulla pelle.",
+      "Google ha appena tolto il display dal nuovo Fitbit Air. Lo sostituisce con sensori tattili.",
+      "Raccoglie più dati biologici di un orologio tradizionale. Temperatura, sudorazione, battito in continuo.",
+      "Niente notifiche visive: ricevi un tocco sul polso per ogni avviso. Impari a riconoscerli.",
+      "Costa meno di un abbonamento Spotify. Provalo questa settimana e dimentica lo schermo."
+    ],
+    "video_script": [
+      "Google ha eliminato lo schermo dal nuovo Fitbit.",
+      "Sostituito da sensori tattili avanzati.",
+      "Raccoglie più dati biologici di un orologio classico.",
+      "Niente notifiche visive, solo segnali sulla pelle.",
+      "Provalo oggi: indossalo e dimentica il polso."
+    ],
+    "pubDate": "Thu, 07 May 2026 15:17:38 +0000",
+    "savedAt": "2026-05-07T22:53:42.786Z",
+    "link": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/"
+  },
+  {
+    "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
+    "slides": [
+      "Kodiak AI stock crashes 37% after funding round",
+      "Investors paid 40% less than last valuation",
+      "Founders took the deal anyway—why now?",
+      "Your portfolio might mirror this desperation signal",
+      "Audit your cash runway before markets decide"
+    ],
+    "thread_text": [
+      "I fondatori di Kodiak AI hanno accettato un round con sconto del 40%. Non perché fosse una buona offerta. Ma perché non avevano scelta.",
+      "Sei mesi fa la società valeva 500 milioni. Ora gli investitori pagano il 40% in meno e chiamano la cosa 'accordo'. Il mercato ha già deciso il prezzo.",
+      "Se chi guida l'azienda accetta condizioni così peggiorative, il segnale è chiaro: la cassa sta per esaurirsi. È una corsa contro il tempo.",
+      "Il tuo portafoglio non è diverso. Se non sai quanti mesi di autonomia hai, stai già replicando lo stesso schema di disperazione.",
+      "Quanti mesi di cassa ti restano? Se la risposta è meno di 12, inizia oggi un audit. Il mercato non aspetta."
+    ],
+    "video_script": [
+      "I fondatori hanno accettato un round peggiore.",
+      "Non perché fosse una buona affare.",
+      "Ma perché non avevano scelta.",
+      "La cassa stava finendo.",
+      "Ora tu cosa fai? Controlla la tua."
+    ],
+    "pubDate": "Thu, 07 May 2026 21:49:24 +0000",
+    "savedAt": "2026-05-07T22:53:37.658Z",
+    "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/"
+  },
+  {
+    "title": "Tesla Model Y is first car to meet new US driver assistance safety benchmark",
+    "slides": [
+      "Tesla Model Y passed the test. What did others miss?",
+      "The new benchmark measures driver engagement, not just tech.",
+      "Other automakers failed despite similar hardware.",
+      "Your next car purchase depends on this score.",
+      "Compare your current car's safety rating today."
+    ],
+    "thread_text": [
+      "Altri costruttori hanno fallito lo stesso test. Con lo stesso hardware identico. Cosa hanno sbagliato?",
+      "Tesla Model Y è passata. Ma il test non misurava soltanto la tecnologia a bordo.",
+      "Il nuovo benchmark valuta quanto il conducente resta coinvolto nella guida, non quanti schermi ci sono.",
+      "Risultato: auto che sembravano identiche sulla carta hanno preso strade opposte nei voti finali.",
+      "Prima di comprare la prossima auto, controlla il suo punteggio. Potrebbe cambiare la tua scelta."
+    ],
+    "video_script": [
+      "Altri hanno fallito con lo stesso hardware.",
+      "Tu sai perché?",
+      "La Model Y ha superato un test diverso.",
+      "Non conta cosa monti, ma come guidi.",
+      "Il tuo prossimo acquisto dipende da questo."
+    ],
+    "pubDate": "Thu, 07 May 2026 20:10:48 +0000",
+    "savedAt": "2026-05-07T20:59:19.264Z",
+    "link": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/"
+  },
+  {
+    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+    "slides": [
+      "OpenAI aggiunge un contatto fidato—ma come funziona?",
+      "Attiva quando rileva possibile autolesionismo.",
+      "Non dice al contatto cosa hai scritto.",
+      "Tu decidi se autorizzare l'avviso.",
+      "Attivalo subito nelle impostazioni privacy."
+    ],
+    "thread_text": [
+      "OpenAI non dice al tuo contatto fidato cosa hai scritto. Solo che serve aiuto. Questa è la parte più controversa.",
+      "La funzione si attiva quando il sistema rileva possibili pensieri di autolesionismo nei messaggi.",
+      "Prima di mandare l’avviso, però, chiede a te: vuoi autorizzarlo o no? La scelta resta tua.",
+      "Nessun contenuto viene condiviso. Il contatto riceve solo una notifica: c'è una situazione delicata.",
+      "Se vuoi, puoi attivarla subito dalle impostazioni privacy di ChatGPT. Non costa nulla e può fare la differenza."
+    ],
+    "video_script": [
+      "OpenAI ha una nuova funzione privacy.",
+      "Allerta un contatto fidato se rileva autolesionismo.",
+      "Ma non dice cosa hai scritto.",
+      "Sei tu a decidere se inviare l'avviso.",
+      "Attivala subito dalle impostazioni."
+    ],
+    "pubDate": "Thu, 07 May 2026 20:20:20 +0000",
+    "savedAt": "2026-05-07T20:59:14.576Z",
+    "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/"
+  },
+  {
     "title": "Google’s $9.99-per-month AI health coach launches May 19",
     "slides": [
       "Google lancia un coach AI salute a $9.99/mese.",
