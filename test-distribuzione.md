@@ -1,14 +1,41 @@
-# Log distribuzione — M21
+# Test Distribuzione M21
 
-## Piattaforma scelta
-X/Twitter
-
-## Orario fisso di pubblicazione
-<!-- Scegli un orario e mantienilo per tutti i post -->
+Piattaforma: X/Twitter  
+Orario fisso di pubblicazione: ___  
+Data inizio: ___
 
 ---
 
-## Thread pubblicati
+## Coda articoli (da compilare prima di iniziare)
+
+| # | Titolo articolo | Hook (Tweet 1) | Tipo hook | Note pre-pubblicazione |
+|---|-----------------|----------------|-----------|------------------------|
+| 1 | | | | |
+| 2 | | | | |
+| 3 | | | | |
+| 4 | | | | |
+| 5 | | | | |
+| 6 | | | | |
+| 7 | | | | |
+| 8 | | | | |
+| 9 | | | | |
+| 10 | | | | |
+| 11 | | | | |
+| 12 | | | | |
+| 13 | | | | |
+| 14 | | | | |
+| 15 | | | | |
+
+**Tipi di hook:**
+- `domanda` — domanda provocatoria ("Questa AI può sostituire Excel?")
+- `conseguenza` — impatto personale ("Questo cambia come lavori ogni giorno.")
+- `contrasto` — affermazione controintuitiva ("Non è più un chatbot. È un collega.")
+- `numero` — dato sorprendente ("Costa meno di un caffè.")
+- `takeaway` — affermazione netta ("L'automazione non è più opzionale.")
+
+---
+
+## Log pubblicazioni
 
 | Thread | Data | Hook (Tweet 1) | Slide origine | Hook type | Impression | Bookmark | Reply | Repost | Note |
 |--------|------|----------------|---------------|-----------|------------|----------|-------|--------|------|
@@ -28,53 +55,33 @@ X/Twitter
 | 14 | | | | | | | | | |
 | 15 | | | | | | | | | |
 
-**Tipi di hook (colonna "Hook type"):**
-- `domanda` — domanda provocatoria ("Questa AI può sostituire Excel?")
-- `conseguenza` — impatto personale ("Questo cambia come lavori ogni giorno.")
-- `contrasto` — affermazione controintuitiva ("Non è più un chatbot. È un collega.")
-- `numero` — dato sorprendente ("Costa meno di un caffè.")
-- `takeaway` — affermazione netta ("L'automazione non è più opzionale.")
-
----
-
-## Criterio di stop anticipato
-
-Se dopo il **thread 5** si registrano **0 bookmark e 0 reply** su tutti e 5:
-- Verificare se il problema è l'account (reach zero), il topic o la qualità del copy
-- Non continuare meccanicamente — annotare qui cosa si osserva
+**Criterio di stop anticipato:** se dopo il thread 5 si registrano 0 bookmark e 0 reply su tutti e 5, non continuare meccanicamente — vedi tabella scenari in M21-roadmap.md.
 
 ---
 
 ## Pattern vincenti
-<!-- Compilare dopo almeno 10 thread -->
+*(da compilare dopo 15 post)*
 
-1.
-2.
-3.
+### Hook che hanno performato
+-
 
-## Pattern da evitare
-<!-- Compilare dopo almeno 10 thread -->
+### Hook che non hanno funzionato
+-
 
-1.
-2.
-3.
+### Topic migliori
+-
 
----
+### Topic peggiori
+-
 
-## Insight dopo 10-15 thread
-<!-- Compilare prima di passare a M22 -->
-
-1.
-2.
-3.
+### Slide origine più frequente per tweet 1
+-
 
 ---
 
-## Decisioni
+## Decisioni per M22
 
-- **Slide che vince come apertura su X:** la 1 / la 3 / la 5 / varia per topic
-- **Hook type con più bookmark:**
-- **Topic con più engagement:**
-- **Topic ignorati:**
-- **Prompt M14 da aggiornare?** sì / no — perché:
-- **Canale da automatizzare per primo:** X / Instagram / TikTok / altro
+- Prompt M14 da aggiornare? sì / no — perché:
+- Canale da automatizzare per primo: X / Instagram / TikTok / altro
+- Hook type con più bookmark:
+- Topic da privilegiare nel prompt:
