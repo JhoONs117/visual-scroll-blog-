@@ -316,9 +316,10 @@
           /* Area visiva */
           const visual = document.createElement('div');
           visual.className = 'slide-visual';
-          if (article.image) {
+          const slideImg = article.carousel_slides?.[i]?.image || (i === 0 ? article.image : null) || article.image || null;
+          if (slideImg) {
             visual.classList.add('has-img');
-            visual.style.backgroundImage = `url('${article.image}')`;
+            visual.style.backgroundImage = `url('${slideImg}')`;
           }
 
           const bars = document.createElement('div');
