@@ -399,8 +399,9 @@ function footer(idx, total) {
   </div>`;
 }
 
-function buildSlide(cs, idx, total, source, imageUrl) {
+function buildSlide(cs, idx, total, source, articleImage) {
   const lt       = cs.layout_type;
+  const imageUrl = cs.image || (idx === 0 ? articleImage : null);
   const hasImg   = !!imageUrl;
   const imgClass = hasImg ? 'has-img' : '';
   const bgStyle  = hasImg ? `style="background-image:url('${imageUrl}');background-size:cover;background-position:center"` : '';
@@ -487,8 +488,8 @@ function renderArticle(article) {
     return;
   }
   const source     = sourceFromLink(article.link);
-  const imageUrl   = article.image || null;
-  const slidesHtml = cs.map((s, i) => buildSlide(s, i, cs.length, source, imageUrl)).join('');
+  const articleImage = article.image || null;
+  const slidesHtml = cs.map((s, i) => buildSlide(s, i, cs.length, source, articleImage)).join('');
   const threadHtml = article.thread_text && article.thread_text.length
     ? `<div class="thread-section">
         <h3>Thread X</h3>

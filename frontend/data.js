@@ -116,44 +116,53 @@ window.ARTICLES = [
     "pubDate": "Fri, 08 May 2026 12:49:16 +0000",
     "savedAt": "2026-05-08T13:12:18.708Z",
     "link": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1234731223.jpg?w=1024",
     "carousel_slides": [
       {
-        "hook": "Il 60% del codice?",
-        "description": "Ogni riga è generata dall'AI, ma un ingegnere la controlla. Il vero costo non è scrivere, è rivedere.",
-        "visual_hint": "codice con lente d'ingrandimento",
+        "hook": "Chi controlla l'AI?",
+        "description": "Ogni riga di codice AI viene revisionata da un ingegnere umano. Il costo nascosto? Non è il codice, ma il tempo di revisione.",
+        "visual_hint": "Occhio che scruta codice",
         "layout_type": "hero",
-        "icon": "tag"
+        "icon": "tag",
+        "image_query": "developer reviewing code"
       },
       {
-        "hook": "Scrivi meno, controlli più",
-        "description": "L'AI raddoppia la produttività, ma il collo di bottiglia resta: qualcuno deve leggere e validare tutto.",
-        "visual_hint": "mano che segna su codice",
+        "hook": "Produttività raddoppiata?",
+        "description": "Scrivere codice con AI è veloce, ma qualcuno deve leggere e validare tutto. Quel collo di bottiglia non sparisce.",
+        "visual_hint": "Imbuto con codice che scorre",
         "layout_type": "right-focus",
-        "icon": "waves"
+        "icon": "waves",
+        "image_query": "code on screen",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS_code_on_a_screen_%28Unsplash%29.jpg/960px-CSS_code_on_a_screen_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
-        "hook": "Da scrittore a revisore",
-        "description": "Il tuo ruolo cambia: non scrivi più codice, devi capire cosa ha fatto l'AI e decidere se è giusto.",
-        "visual_hint": "codice evidenziato in giallo",
+        "hook": "Il tuo ruolo cambia",
+        "description": "Non sei più uno scrittore di codice: sei un revisore. Devi capire cosa ha fatto l'AI e decidere se è giusto.",
+        "visual_hint": "Tastiera con lente d'ingrandimento",
         "layout_type": "sensor-zoom",
-        "icon": "heart"
+        "icon": "heart",
+        "image_query": "person laptop code",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Laptop_coding_programs_%28Unsplash%29.jpg/960px-Laptop_coding_programs_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
-        "hook": "Fiducia, ma non cieca",
-        "description": "Airbnb controlla ogni riga generata dall'AI. Questo è il nuovo standard per qualità senza rischi.",
-        "visual_hint": "occhio umano su schermo",
+        "hook": "Fiducia, ma verifica",
+        "description": "Airbnb non si fida ciecamente: ogni riga generata passa sotto occhi umani. Questo è il nuovo standard qualità-rischio.",
+        "visual_hint": "Due mani che esaminano fogli",
         "layout_type": "human-hand",
-        "icon": "vibration"
+        "icon": "check",
+        "image_query": "hands checking document",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/CBP_checking_authenticity_of_a_travel_document.jpg/960px-CBP_checking_authenticity_of_a_travel_document.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
         "hook": "Prova un tool di review",
-        "description": "Il primo tool è spesso gratuito. Testalo oggi per capire se il tuo flusso regge il nuovo ritmo.",
-        "visual_hint": "telefono con icona app",
+        "description": "Il primo è spesso gratuito. Ti serve per capire se il tuo flusso regge il nuovo ritmo dell'AI.",
+        "visual_hint": "Icona play e codice scorre",
         "layout_type": "cta-final",
-        "icon": "check"
+        "icon": "vibration",
+        "image_query": "robot typing code",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Magnolia_FIRST_Robotics_Competition_2026_%28SSC2026m000132%29.webm/960px--Magnolia_FIRST_Robotics_Competition_2026_%28SSC2026m000132%29.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo"
       }
-    ],
-    "image": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1234731223.jpg?w=1024"
+    ]
   },
   {
     "title": "The biggest U.S. power grid is under strain from AI — and no one is happy",
@@ -181,44 +190,53 @@ window.ARTICLES = [
     "pubDate": "Fri, 08 May 2026 13:00:00 +0000",
     "savedAt": "2026-05-08T13:12:09.775Z",
     "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
     "carousel_slides": [
       {
-        "hook": "Coal plants stay open just for AI",
-        "description": "Renewables can't keep up with AI demand. Coal plants delayed retirement to power data centers.",
-        "visual_hint": "coal plant with data center glow",
+        "hook": "Who pays for AI's power?",
+        "description": "Regulators, utilities, and tech companies all point at each other for grid upgrade costs.",
+        "visual_hint": "Three arrows pointing in circle",
         "layout_type": "hero",
-        "icon": "tag"
+        "icon": "tag",
+        "image_query": "power grid towers"
       },
       {
-        "hook": "9% of PJM power goes to data centers",
-        "description": "PJM grid for 65M people sends 9% power to data centers. That number is climbing fast.",
-        "visual_hint": "power grid map with data center nodes",
+        "hook": "9% of PJM power goes to AI",
+        "description": "The grid serving 65 million people sends 9% of its power to data centers, and rising fast.",
+        "visual_hint": "Large percentage symbol",
         "layout_type": "right-focus",
-        "icon": "waves"
+        "icon": "waves",
+        "image_query": "server room data center",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/960px-BalticServers_data_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
-        "hook": "Renewables can't scale fast enough",
-        "description": "Renewables can't cover demand. Old coal plants get retirement delays—some for years.",
-        "visual_hint": "solar panel beside smokestack",
+        "hook": "Coal plants stay open for AI",
+        "description": "Renewables can't scale fast enough, so old coal plants delay retirement—some for years.",
+        "visual_hint": "Coal plant smokestack",
         "layout_type": "sensor-zoom",
-        "icon": "heart"
+        "icon": "heart",
+        "image_query": "coal power plant",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Komatsu_bulldozer_pushing_coal_in_Power_plant_Ljubljana_%28winter_2017%29.jpg/960px-Komatsu_bulldozer_pushing_coal_in_Power_plant_Ljubljana_%28winter_2017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
-        "hook": "Who pays for grid upgrades?",
-        "description": "Regulators, utilities, and tech companies all point fingers. Your electricity bill may rise to fund AI growth.",
-        "visual_hint": "hand pointing at electricity bill",
+        "hook": "Your bill funds AI data centers",
+        "description": "Your next electricity bill might rise to fund AI's growth—old coal plants keep running for them.",
+        "visual_hint": "Person holding electricity bill",
         "layout_type": "human-hand",
-        "icon": "vibration"
+        "icon": "vibration",
+        "image_query": "person holding smartphone",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hand_holding_Smartphone.jpg/960px-Hand_holding_Smartphone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
-        "hook": "Check your 2025 rate forecast now",
-        "description": "Open your 2025 rate forecast. If you see a spike coming, lock your current plan before it hits.",
-        "visual_hint": "calendar and graph arrow up",
+        "hook": "Lock your rate before the spike",
+        "description": "Open your 2025 rate forecast now. If you see a spike coming, lock your current plan.",
+        "visual_hint": "Calendar with price spike arrow",
         "layout_type": "cta-final",
-        "icon": "check"
+        "icon": "tag",
+        "image_query": "stock market chart",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       }
-    ],
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801"
+    ]
   },
   {
     "title": "Hackers deface school login pages after claiming another Instructure hack",

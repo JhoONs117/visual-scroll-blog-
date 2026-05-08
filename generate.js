@@ -137,11 +137,11 @@ ${threadSection}
 Rispondi SOLO JSON valido nel formato:
 {
   "carousel_slides": [
-    { "hook": "max 8 parole", "description": "max 25 parole", "visual_hint": "max 6 parole", "layout_type": "hero",        "icon": "tag"       },
-    { "hook": "...",           "description": "...",          "visual_hint": "...",          "layout_type": "right-focus", "icon": "waves"     },
-    { "hook": "...",           "description": "...",          "visual_hint": "...",          "layout_type": "sensor-zoom", "icon": "heart"     },
-    { "hook": "...",           "description": "...",          "visual_hint": "...",          "layout_type": "human-hand",  "icon": "vibration" },
-    { "hook": "...",           "description": "...",          "visual_hint": "...",          "layout_type": "cta-final",   "icon": "tag"       }
+    { "hook": "max 8 parole", "description": "max 25 parole", "visual_hint": "max 6 parole", "layout_type": "hero",        "icon": "tag",       "image_query": "3-4 parole inglesi concrete" },
+    { "hook": "...",           "description": "...",          "visual_hint": "...",          "layout_type": "right-focus", "icon": "waves",     "image_query": "..." },
+    { "hook": "...",           "description": "...",          "visual_hint": "...",          "layout_type": "sensor-zoom", "icon": "heart",     "image_query": "..." },
+    { "hook": "...",           "description": "...",          "visual_hint": "...",          "layout_type": "human-hand",  "icon": "vibration", "image_query": "..." },
+    { "hook": "...",           "description": "...",          "visual_hint": "...",          "layout_type": "cta-final",   "icon": "tag",       "image_query": "..." }
   ]
 }
 
@@ -149,6 +149,7 @@ Regole testo:
 - hook: max 8 parole, tensione irrisolta, non titolo di giornale
 - description: max 25 parole — se hai il thread X, condensa il tweet più pertinente per quella slide; non inventare info non presenti nelle slide o nei tweet
 - visual_hint: max 6 parole — elemento visivo concreto coerente con il layout della slide
+- image_query: 2-3 parole inglesi semplici e universali, soggetti che esistono come fotografie su Wikipedia (es. "server room", "wind turbine", "person laptop", "robot factory", "power plant", "stock market chart"). EVITA combinazioni troppo specifiche o astratte.
 - slide 1 deve avere l'hook con più tensione (può venire dalla slide 3 o 5 originale)
 
 Regole layout_type — assegna sempre in questo ordine fisso:
@@ -171,7 +172,7 @@ Nessun testo fuori dal JSON.`;
       const cs = parsed.carousel_slides;
       if (
         Array.isArray(cs) && cs.length === 5 &&
-        cs.every(s => s.hook && s.description && s.visual_hint && s.layout_type && s.icon) &&
+        cs.every(s => s.hook && s.description && s.visual_hint && s.layout_type && s.icon && s.image_query) &&
         cs.every((s, i) => s.layout_type === CAROUSEL_LAYOUTS[i]) &&
         cs.every(s => CAROUSEL_ICONS.has(s.icon))
       ) {

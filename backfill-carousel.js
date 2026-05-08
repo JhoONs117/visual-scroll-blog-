@@ -10,6 +10,36 @@ function slug(title) {
   return title.toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 50);
 }
 
+/* Fetch image from Wikimedia Commons by keyword query */
+async function fetchWikimediaImage(query) {
+  try {
+    const q = encodeURIComponent(query);
+    const apiUrl = `https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=${q}&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url&iiurlwidth=800&format=json`;
+    const res = await fetch(apiUrl, {
+      headers: { 'User-Agent': 'FlashAI-Bot/1.0 (michelangelol1999@gmail.com)' },
+      signal: AbortSignal.timeout(10000),
+    });
+    if (!res.ok) return null;
+    const data = await res.json();
+    const queryWords = query.toLowerCase().split(/\s+/).filter(w => w.length > 3);
+    const pages = Object.values(data.query?.pages || {})
+      .sort((a, b) => (a.index || 0) - (b.index || 0));
+    for (const page of pages) {
+      const title = (page.title || '').toLowerCase();
+      /* salta PDF, SVG, loghi e file non rilevanti */
+      if (/\.(pdf|svg)$/i.test(title)) continue;
+      if (/logo|icon|flag|coat_of_arms|emblem/i.test(title)) continue;
+      /* almeno una parola della query deve essere nel titolo */
+      if (!queryWords.some(w => title.includes(w))) continue;
+      const imgUrl = page.imageinfo?.[0]?.thumburl || page.imageinfo?.[0]?.url;
+      if (imgUrl && imgUrl.startsWith('http')) return imgUrl;
+    }
+    return null;
+  } catch {
+    return null;
+  }
+}
+
 /* Fetch og:image / twitter:image from article URL */
 async function fetchArticleImage(url) {
   try {
@@ -77,7 +107,7 @@ function buildDataJs(allFiles) {
 
   console.log(`Articoli unici: ${uniqueEntries.length} | Da processare: ${toProcess.length}\n`);
 
-  const stats = { csUpdated: 0, csPresent: 0, csFailed: 0, imgFound: 0, imgMissing: 0 };
+  const stats = { csUpdated: 0, csPresent: 0, csFailed: 0, imgFound: 0, imgMissing: 0, wikiFound: 0, wikiMissing: 0 };
 
   for (const { full, art } of toProcess) {
     const label = art.title.slice(0, 60);
@@ -100,7 +130,28 @@ function buildDataJs(allFiles) {
       stats.csPresent++;
     }
 
-    /* b) image */
+    /* b) immagini Wikimedia per slide 2-5 */
+    if (art.carousel_slides) {
+      for (let si = 1; si <= 4; si++) {
+        const cs = art.carousel_slides[si];
+        if (!cs) continue;
+        if (!cs.image && cs.image_query) {
+          process.stdout.write(`[wiki s${si + 1}]  ${art.title.slice(0, 50)}... `);
+          const wUrl = await fetchWikimediaImage(cs.image_query);
+          if (wUrl) {
+            cs.image = wUrl;
+            changed = true;
+            stats.wikiFound++;
+            process.stdout.write('OK → ' + wUrl.slice(0, 70) + '\n');
+          } else {
+            stats.wikiMissing++;
+            process.stdout.write('not found\n');
+          }
+        }
+      }
+    }
+
+    /* c) article.image (og:image per slide 1) */
     if (!art.image && art.link) {
       process.stdout.write(`[image]    ${label}... `);
       const imgUrl = await fetchArticleImage(art.link);
@@ -126,5 +177,6 @@ function buildDataJs(allFiles) {
 
   console.log(`\nfrontend/data.js aggiornato con ${count} articoli unici.`);
   console.log(`\ncarousel_slides — Aggiornati: ${stats.csUpdated} | Già presenti: ${stats.csPresent} | Falliti: ${stats.csFailed}`);
-  console.log(`image          — Trovate: ${stats.imgFound} | Non trovate: ${stats.imgMissing}`);
+  console.log(`article.image  — Trovate: ${stats.imgFound} | Non trovate: ${stats.imgMissing}`);
+  console.log(`wikimedia s2-5 — Trovate: ${stats.wikiFound} | Non trovate: ${stats.wikiMissing}`);
 })();
