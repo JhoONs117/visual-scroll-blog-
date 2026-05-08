@@ -1,5 +1,86 @@
 window.ARTICLES = [
   {
+    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+    "slides": [
+      "Perplexity lo regala a tutti. Ma il problema è un altro.",
+      "Il computer personale AI esiste già su Mac oggi.",
+      "Non serve hardware nuovo: è solo un software che cambia tutto.",
+      "Puoi controllare le app con la voce in tempo reale.",
+      "Provalo gratis: la domanda è chi lo userà davvero."
+    ],
+    "thread_text": [
+      "Perplexity regala l'abbonamento a tutti. Ma il problema non è il prezzo: è capire se lo userai davvero una volta finita la prova.",
+      "Su Mac oggi hai già un computer personale AI. Non serve comprare nulla: è un aggiornamento software che trasforma il device.",
+      "Con la voce controlli le app in tempo reale. Apri file, scrivi messaggi, cerchi informazioni — senza toccare tastiera o mouse.",
+      "Non è un assistente lento. Funziona come un copilota che esegue subito i comandi, mentre lavori su altro.",
+      "Costa meno di un abbonamento Spotify. Attivalo oggi e decidi tra una settimana se lo userai davvero."
+    ],
+    "video_script": [
+      "Perplexity lo regala a tutti.",
+      "Ma il problema è un altro.",
+      "Su Mac l'AI personale esiste già.",
+      "Non serve hardware nuovo.",
+      "Controlli tutto con la voce."
+    ],
+    "pubDate": "Thu, 07 May 2026 19:57:59 +0000",
+    "savedAt": "2026-05-08T13:12:25.936Z",
+    "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/"
+  },
+  {
+    "title": "Airbnb says AI now writes 60% of its new code",
+    "slides": [
+      "Airbnb usa AI per scrivere codice, ma c'è un costo nascosto?",
+      "Il 60% del nuovo codice è generato da AI.",
+      "Gli ingegneri umani revisionano ogni riga.",
+      "Per i dev: il tuo ruolo cambia da scrivere a controllare.",
+      "Testa subito un tool di code review AI."
+    ],
+    "thread_text": [
+      "Il 60% del nuovo codice di Airbnb è generato da AI. Ma ogni singola riga viene controllata da un ingegnere umano. Il costo nascosto? Non è il codice — è il tempo di revisione.",
+      "Scrivere codice con l'AI è veloce. Raddoppia la produttività. Ma qualcuno deve comunque leggere, capire e validare tutto. Quel collo di bottiglia non sparisce.",
+      "Il tuo ruolo da sviluppatore cambia: non sei più uno scrittore di codice. Sei un revisore. Devi capire cosa ha fatto l'AI, e decidere se è giusto. Più controllo, meno scrittura.",
+      "Airbnb ha scelto di non fidarsi ciecamente. Ogni riga generata passa sotto gli occhi umani. Questo è il nuovo standard per chi vuole qualità senza rischi.",
+      "Se non hai ancora provato un tool di code review AI, fallo oggi. Il primo è spesso gratuito. Ti serve per capire se il tuo flusso regge il nuovo ritmo."
+    ],
+    "video_script": [
+      "Airbnb usa AI per scrivere codice.",
+      "Il 60% del codice nuovo è AI.",
+      "Ma ogni riga è controllata da umani.",
+      "Il tuo lavoro cambia: da scrivere a controllare.",
+      "Prova subito un tool di revisione."
+    ],
+    "pubDate": "Fri, 08 May 2026 12:49:16 +0000",
+    "savedAt": "2026-05-08T13:12:18.708Z",
+    "link": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/"
+  },
+  {
+    "title": "The biggest U.S. power grid is under strain from AI — and no one is happy",
+    "slides": [
+      "PJM grid strains under AI's weight—who pays?",
+      "Data centers now demand 9% of PJM's power.",
+      "Renewables can't keep up—coal plants delayed retirement.",
+      "Your electricity bill may rise to fund AI's growth.",
+      "Check your 2025 rate forecast before the next spike."
+    ],
+    "thread_text": [
+      "Your next electricity bill might fund an AI data center. Coal plants that were supposed to close are staying open just to power them.",
+      "PJM, the grid for 65 million people, now sends 9% of all its power to data centers. And that number is climbing fast.",
+      "Renewables can't scale fast enough to cover the demand. So old coal plants are getting retirement delays—some for years.",
+      "The question nobody wants to answer: who pays for the grid upgrades? Regulators, utilities, and tech companies are all pointing at each other.",
+      "Open your 2025 rate forecast now. If you see a spike coming, lock your current plan before it hits."
+    ],
+    "video_script": [
+      "Your electric bill could spike because of AI.",
+      "Coal plants are delaying retirement to power data centers.",
+      "Nine percent of the entire grid goes to servers now.",
+      "Renewables can't build fast enough to catch up.",
+      "Check your 2025 rate forecast before the next jump."
+    ],
+    "pubDate": "Fri, 08 May 2026 13:00:00 +0000",
+    "savedAt": "2026-05-08T13:12:09.775Z",
+    "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/"
+  },
+  {
     "title": "Hackers deface school login pages after claiming another Instructure hack",
     "slides": [
       "Un portale scolastico mostra una scritta: 'Hacked'.",
