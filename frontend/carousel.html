@@ -391,12 +391,41 @@ const BADGE_SVG = `<svg viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
   <path d="M3 3l4 4M7 3l-4 4" stroke="#00b8f0" stroke-width="1.4" stroke-linecap="round"/>
 </svg>`;
 
-function badge() {
-  return `<div class="badge">${BADGE_SVG}<span class="badge-label">AI News</span></div>`;
+const SOURCE_MAP = {
+  'techcrunch.com':                  'TechCrunch',
+  'artificialintelligence-news.com': 'AI News',
+  'oreilly.com':                     "O'Reilly",
+  'theverge.com':                    'The Verge',
+  'wired.com':                       'Wired',
+  'venturebeat.com':                 'VentureBeat',
+  'zdnet.com':                       'ZDNet',
+  'thenextweb.com':                  'TNW',
+  'reuters.com':                     'Reuters',
+  'bloomberg.com':                   'Bloomberg',
+  'forbes.com':                      'Forbes',
+};
+
+function sourceFromLink(link) {
+  if (!link) return 'AI News';
+  try {
+    const host = new URL(link).hostname.replace(/^www\./, '');
+    return SOURCE_MAP[host] || host.replace(/\.(com|org|net|io)$/, '').replace(/-/g, ' ');
+  } catch { return 'AI News'; }
 }
 
-/* accent: last ~40% of hook words get cyan */
+function badge(source) {
+  return `<div class="badge">${BADGE_SVG}<span class="badge-label">${source}</span></div>`;
+}
+
+/* accent: split on : or — first; fall back to last ~40% of words */
 function accentHook(hook) {
+  const sep = hook.match(/[:—–]/);
+  if (sep) {
+    const i = hook.indexOf(sep[0]);
+    const before = hook.slice(0, i + 1).trim();
+    const after  = hook.slice(i + 1).trim();
+    if (after) return `${before} <span class="accent">${after}</span>`;
+  }
   const words = hook.trim().split(' ');
   if (words.length <= 2) return `<span class="accent">${hook}</span>`;
   const split = Math.ceil(words.length * 0.55);
@@ -420,13 +449,14 @@ function footer(idx, total) {
   </div>`;
 }
 
-function buildSlide(cs, idx, total) {
+function buildSlide(cs, idx, total, source) {
   const lt = cs.layout_type;
   const hookHtml = `<span class="hook-text">${accentHook(cs.hook)}</span>`;
   const descHtml = `<div class="desc">${cs.description}</div>`;
   const hintPanel = cs.visual_hint
     ? `<div class="img-panel"><span class="visual-hint-text">${cs.visual_hint}</span></div>`
     : '';
+  const bdg = badge(source);
 
   let inner = '';
 
@@ -434,7 +464,7 @@ function buildSlide(cs, idx, total) {
     inner = `
       ${hintPanel}
       <div class="slide-inner">
-        ${badge()}
+        ${bdg}
         ${icon(cs.icon, 'icon-faint')}
         <div style="flex:1;display:flex;align-items:flex-start;margin-top:8px;">${hookHtml}</div>
         ${descHtml}
@@ -444,7 +474,7 @@ function buildSlide(cs, idx, total) {
   } else if (lt === 'right-focus') {
     inner = `
       <div class="slide-inner">
-        ${badge()}
+        ${bdg}
         <div class="hook-row" style="margin-top:8px;">
           <div style="flex:1;">${hookHtml}</div>
           ${icon(cs.icon, 'icon-large')}
@@ -456,7 +486,7 @@ function buildSlide(cs, idx, total) {
   } else if (lt === 'sensor-zoom') {
     inner = `
       <div class="slide-inner">
-        ${badge()}
+        ${bdg}
         <div style="margin-top:8px;">${hookHtml}</div>
         <div class="data-points" style="margin-top:10px;">
           ${toDataPoints(cs.description)}
@@ -468,7 +498,7 @@ function buildSlide(cs, idx, total) {
     inner = `
       ${hintPanel}
       <div class="slide-inner">
-        ${badge()}
+        ${bdg}
         ${icon(cs.icon, 'icon')}
         <div style="flex:1;">${hookHtml}</div>
         ${descHtml}
@@ -478,7 +508,7 @@ function buildSlide(cs, idx, total) {
   } else { // cta-final
     inner = `
       <div class="slide-inner">
-        ${badge()}
+        ${bdg}
         ${icon(cs.icon, 'icon')}
         ${hookHtml}
         ${descHtml}
@@ -502,7 +532,8 @@ function renderArticle(article) {
     return;
   }
 
-  const slidesHtml = cs.map((s, i) => buildSlide(s, i, cs.length)).join('');
+  const source = sourceFromLink(article.link);
+  const slidesHtml = cs.map((s, i) => buildSlide(s, i, cs.length, source)).join('');
 
   const threadHtml = article.thread_text && article.thread_text.length
     ? `<div class="thread-section">

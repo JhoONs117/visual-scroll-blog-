@@ -76,7 +76,7 @@ function buildDataJs(outputDir) {
         result.thread_text = formats.thread_text;
         result.video_script = formats.video_script;
       }
-      const carousel = await generateCarouselSlides(result.title, result.slides);
+      const carousel = await generateCarouselSlides(result.title, result.slides, result.thread_text);
       if (carousel) {
         result.carousel_slides = carousel.carousel_slides;
       }

@@ -54,39 +54,39 @@ window.ARTICLES = [
     "link": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
     "carousel_slides": [
       {
-        "hook": "Quanto fanno male i bug?",
-        "description": "Airbnb svela che il 60% del codice è AI. Chi controlla davvero la qualità?",
-        "visual_hint": "codice con errore rosso",
+        "hook": "Il 60% del codice?",
+        "description": "Ogni riga è generata dall'AI, ma un ingegnere la controlla. Il vero costo non è scrivere, è rivedere.",
+        "visual_hint": "codice con lente d'ingrandimento",
         "layout_type": "hero",
-        "icon": "vibration"
+        "icon": "tag"
       },
       {
-        "hook": "60% del codice è AI.",
-        "description": "Ogni riga generata viene revisionata da ingegneri umani prima del deploy.",
-        "visual_hint": "grafico a torta 60%",
+        "hook": "Scrivi meno, controlli più",
+        "description": "L'AI raddoppia la produttività, ma il collo di bottiglia resta: qualcuno deve leggere e validare tutto.",
+        "visual_hint": "mano che segna su codice",
         "layout_type": "right-focus",
         "icon": "waves"
       },
       {
-        "hook": "Il tuo ruolo? Da scrittore a revisore.",
-        "description": "I dev ora controllano, non scrivono. Cambia tutto il workflow.",
-        "visual_hint": "codice barrato e occhio",
+        "hook": "Da scrittore a revisore",
+        "description": "Il tuo ruolo cambia: non scrivi più codice, devi capire cosa ha fatto l'AI e decidere se è giusto.",
+        "visual_hint": "codice evidenziato in giallo",
         "layout_type": "sensor-zoom",
         "icon": "heart"
       },
       {
-        "hook": "Revisioni umane, non solo AI.",
-        "description": "Ogni riga AI passa sotto l'occhio critico degli ingegneri. Serve un tool.",
-        "visual_hint": "mano che segna righe",
+        "hook": "Fiducia, ma non cieca",
+        "description": "Airbnb controlla ogni riga generata dall'AI. Questo è il nuovo standard per qualità senza rischi.",
+        "visual_hint": "occhio umano su schermo",
         "layout_type": "human-hand",
-        "icon": "check"
+        "icon": "vibration"
       },
       {
-        "hook": "Prova un tool di code review AI.",
-        "description": "Scopri come automatizzare i controlli. Il futuro è già qui.",
-        "visual_hint": "pulsante 'prova ora'",
+        "hook": "Prova un tool di review",
+        "description": "Il primo tool è spesso gratuito. Testalo oggi per capire se il tuo flusso regge il nuovo ritmo.",
+        "visual_hint": "telefono con icona app",
         "layout_type": "cta-final",
-        "icon": "tag"
+        "icon": "check"
       }
     ]
   },
@@ -118,37 +118,37 @@ window.ARTICLES = [
     "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
     "carousel_slides": [
       {
-        "hook": "Coal plants stay open for AI",
-        "description": "PJM delayed coal retirements as data center demand surges. Who pays?",
-        "visual_hint": "Smoking coal plant silhouette",
+        "hook": "Coal plants stay open just for AI",
+        "description": "Renewables can't keep up with AI demand. Coal plants delayed retirement to power data centers.",
+        "visual_hint": "coal plant with data center glow",
         "layout_type": "hero",
         "icon": "tag"
       },
       {
-        "hook": "Your bill funds AI's growth",
-        "description": "Data centers now consume 9% of PJM's power. Renewables can't keep up.",
-        "visual_hint": "Percent sign over power lines",
+        "hook": "9% of PJM power goes to data centers",
+        "description": "PJM grid for 65M people sends 9% power to data centers. That number is climbing fast.",
+        "visual_hint": "power grid map with data center nodes",
         "layout_type": "right-focus",
         "icon": "waves"
       },
       {
-        "hook": "Renewables fall short under load",
-        "description": "New solar and wind can't match AI's 24/7 energy demand. Coal fills the gap.",
-        "visual_hint": "Solar panels next to coal stack",
+        "hook": "Renewables can't scale fast enough",
+        "description": "Renewables can't cover demand. Old coal plants get retirement delays—some for years.",
+        "visual_hint": "solar panel beside smokestack",
         "layout_type": "sensor-zoom",
         "icon": "heart"
       },
       {
-        "hook": "Electricity spike hits your wallet",
-        "description": "PJM's AI-driven demand raises rates. Check your 2025 forecast before next jump.",
-        "visual_hint": "Hand holding bill with arrow up",
+        "hook": "Who pays for grid upgrades?",
+        "description": "Regulators, utilities, and tech companies all point fingers. Your electricity bill may rise to fund AI growth.",
+        "visual_hint": "hand pointing at electricity bill",
         "layout_type": "human-hand",
         "icon": "vibration"
       },
       {
-        "hook": "Act now: lock your 2025 rate",
-        "description": "Forecast shows another surge ahead. Don't wait—review your plan before PJM adjusts.",
-        "visual_hint": "Calendar with marked date",
+        "hook": "Check your 2025 rate forecast now",
+        "description": "Open your 2025 rate forecast. If you see a spike coming, lock your current plan before it hits.",
+        "visual_hint": "calendar and graph arrow up",
         "layout_type": "cta-final",
         "icon": "check"
       }

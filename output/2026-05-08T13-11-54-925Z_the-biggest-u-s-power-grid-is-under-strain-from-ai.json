@@ -26,37 +26,37 @@
   "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
   "carousel_slides": [
     {
-      "hook": "Coal plants stay open for AI",
-      "description": "PJM delayed coal retirements as data center demand surges. Who pays?",
-      "visual_hint": "Smoking coal plant silhouette",
+      "hook": "Coal plants stay open just for AI",
+      "description": "Renewables can't keep up with AI demand. Coal plants delayed retirement to power data centers.",
+      "visual_hint": "coal plant with data center glow",
       "layout_type": "hero",
       "icon": "tag"
     },
     {
-      "hook": "Your bill funds AI's growth",
-      "description": "Data centers now consume 9% of PJM's power. Renewables can't keep up.",
-      "visual_hint": "Percent sign over power lines",
+      "hook": "9% of PJM power goes to data centers",
+      "description": "PJM grid for 65M people sends 9% power to data centers. That number is climbing fast.",
+      "visual_hint": "power grid map with data center nodes",
       "layout_type": "right-focus",
       "icon": "waves"
     },
     {
-      "hook": "Renewables fall short under load",
-      "description": "New solar and wind can't match AI's 24/7 energy demand. Coal fills the gap.",
-      "visual_hint": "Solar panels next to coal stack",
+      "hook": "Renewables can't scale fast enough",
+      "description": "Renewables can't cover demand. Old coal plants get retirement delays—some for years.",
+      "visual_hint": "solar panel beside smokestack",
       "layout_type": "sensor-zoom",
       "icon": "heart"
     },
     {
-      "hook": "Electricity spike hits your wallet",
-      "description": "PJM's AI-driven demand raises rates. Check your 2025 forecast before next jump.",
-      "visual_hint": "Hand holding bill with arrow up",
+      "hook": "Who pays for grid upgrades?",
+      "description": "Regulators, utilities, and tech companies all point fingers. Your electricity bill may rise to fund AI growth.",
+      "visual_hint": "hand pointing at electricity bill",
       "layout_type": "human-hand",
       "icon": "vibration"
     },
     {
-      "hook": "Act now: lock your 2025 rate",
-      "description": "Forecast shows another surge ahead. Don't wait—review your plan before PJM adjusts.",
-      "visual_hint": "Calendar with marked date",
+      "hook": "Check your 2025 rate forecast now",
+      "description": "Open your 2025 rate forecast. If you see a spike coming, lock your current plan before it hits.",
+      "visual_hint": "calendar and graph arrow up",
       "layout_type": "cta-final",
       "icon": "check"
     }

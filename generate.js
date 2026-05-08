@@ -122,15 +122,18 @@ Regole script:
 const CAROUSEL_LAYOUTS = ['hero', 'right-focus', 'sensor-zoom', 'human-hand', 'cta-final'];
 const CAROUSEL_ICONS   = new Set(['tag', 'waves', 'heart', 'vibration', 'check']);
 
-async function generateCarouselSlides(title, slides) {
+async function generateCarouselSlides(title, slides, thread_text) {
   const slidesText = slides.map((s, i) => `${i + 1}. ${s}`).join('\n');
+  const threadSection = (Array.isArray(thread_text) && thread_text.length)
+    ? `\nThread X già scritto (usa il contenuto di questi tweet come base per le description — non copiare verbatim, condensa a max 25 parole per slide):\n${thread_text.map((t, i) => `T${i + 1}: ${t}`).join('\n')}\n`
+    : '';
 
   const prompt = `Dato questo titolo e queste 5 slide, genera 5 carousel_slides per Instagram.
 
 Titolo: ${title}
 Slide:
 ${slidesText}
-
+${threadSection}
 Rispondi SOLO JSON valido nel formato:
 {
   "carousel_slides": [
@@ -144,7 +147,7 @@ Rispondi SOLO JSON valido nel formato:
 
 Regole testo:
 - hook: max 8 parole, tensione irrisolta, non titolo di giornale
-- description: max 25 parole, aggiunge info che non è nell'hook
+- description: max 25 parole — se hai il thread X, condensa il tweet più pertinente per quella slide; non inventare info non presenti nelle slide o nei tweet
 - visual_hint: max 6 parole — elemento visivo concreto coerente con il layout della slide
 - slide 1 deve avere l'hook con più tensione (può venire dalla slide 3 o 5 originale)
 
