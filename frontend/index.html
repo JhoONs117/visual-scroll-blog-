@@ -4,6 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>AI News</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap" rel="stylesheet">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     html, body {
@@ -78,6 +80,64 @@
       inset: 0;
       background: linear-gradient(to bottom, rgba(0,0,0,0.25) 0%, transparent 40%, rgba(0,0,0,0.6) 100%);
       pointer-events: none;
+      z-index: 1;
+    }
+
+    /* ── Carousel card fallback (slide 2-5 senza immagine Wikimedia) ── */
+    .cf-wrap {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+    }
+    .cf-overlay {
+      position: absolute;
+      inset: 0;
+      z-index: 0;
+    }
+    .cf-wrap.hero        .cf-overlay { background: linear-gradient(148deg, #09122a 0%, #0e1d4a 50%, #1c0c3e 100%); }
+    .cf-wrap.right-focus .cf-overlay { background: linear-gradient(155deg, #08111f 0%, #0d1c3a 55%, #091628 100%); }
+    .cf-wrap.sensor-zoom .cf-overlay { background: linear-gradient(138deg, #080d1e 0%, #0a1530 60%, #100830 100%); }
+    .cf-wrap.human-hand  .cf-overlay { background: linear-gradient(152deg, #05080f 0%, #0c0d28 60%, #160638 100%); }
+    .cf-wrap.cta-final   .cf-overlay { background: linear-gradient(148deg, #080f1f 0%, #0b1438 60%, #12103e 100%); }
+    .cf-deco {
+      position: absolute;
+      width: 42%;
+      height: 42%;
+      stroke: rgba(59,130,246,0.10);
+      fill: none;
+      stroke-width: 1;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      top: -8%;
+      right: -6%;
+      transform: rotate(12deg);
+      z-index: 2;
+      pointer-events: none;
+    }
+    .cf-content {
+      position: absolute;
+      inset: 0;
+      z-index: 3;
+      display: flex;
+      flex-direction: column;
+      padding: 14px 14px 10px;
+    }
+    .cf-hook {
+      font-family: 'Inter', -apple-system, sans-serif;
+      font-size: clamp(15px, 4.5vw, 24px);
+      font-weight: 900;
+      color: #fff;
+      line-height: 1.18;
+      letter-spacing: -0.025em;
+      margin: auto 0;
+    }
+    .cf-hook .cf-accent { color: #60a5fa; }
+    .cf-footer {
+      font-size: 9px;
+      font-weight: 400;
+      color: rgba(255,255,255,0.3);
+      text-align: right;
+      margin-top: auto;
     }
 
     /* Progress bars in cima */
@@ -274,6 +334,43 @@
 
     const isTouch = () => window.matchMedia('(hover: none) and (pointer: coarse)').matches;
 
+    const CF_ICONS = {
+      tag:       `<path d="M20.59 13.41L13.42 20.59a2 2 0 01-2.83 0L2 12V2h10l8.59 8.59a2 2 0 010 2.82z"/><circle cx="7" cy="7" r="1.5" fill="currentColor" stroke="none"/>`,
+      waves:     `<path d="M2 6c1.5 1 3 1 4.5 0s3-1 4.5 0 3 1 4.5 0 3-1 4.5 0"/><path d="M2 12c1.5 1 3 1 4.5 0s3-1 4.5 0 3 1 4.5 0 3-1 4.5 0"/><path d="M2 18c1.5 1 3 1 4.5 0s3-1 4.5 0 3 1 4.5 0 3-1 4.5 0"/>`,
+      heart:     `<path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78L12 21l8.84-8.85a5.5 5.5 0 000-7.54z"/>`,
+      vibration: `<line x1="2" y1="10" x2="2" y2="14"/><line x1="6" y1="6" x2="6" y2="18"/><line x1="10" y1="3" x2="10" y2="21"/><line x1="14" y1="3" x2="14" y2="21"/><line x1="18" y1="6" x2="18" y2="18"/><line x1="22" y1="10" x2="22" y2="14"/>`,
+      check:     `<polyline points="20 6 9 17 4 12"/>`
+    };
+
+    function cfAccentHook(hook) {
+      const m = hook.match(/[:—–]/);
+      if (m) {
+        const idx = hook.indexOf(m[0]);
+        const before = hook.slice(0, idx + 1).trim();
+        const after  = hook.slice(idx + 1).trim();
+        if (after) return `${before} <span class="cf-accent">${after}</span>`;
+      }
+      const words = hook.trim().split(' ');
+      if (words.length <= 2) return `<span class="cf-accent">${hook}</span>`;
+      const split = Math.ceil(words.length * 0.55);
+      return words.slice(0, split).join(' ') + ' <span class="cf-accent">' + words.slice(split).join(' ') + '</span>';
+    }
+
+    function buildCarouselFallback(cs) {
+      const lt = cs.layout_type || 'hero';
+      const icon = CF_ICONS[cs.icon] || CF_ICONS.tag;
+      const el = document.createElement('div');
+      el.className = `cf-wrap ${lt}`;
+      el.innerHTML = `
+        <div class="cf-overlay"></div>
+        <svg class="cf-deco" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">${icon}</svg>
+        <div class="cf-content">
+          <div class="cf-hook">${cfAccentHook(cs.hook)}</div>
+          <div class="cf-footer">@FlashAI</div>
+        </div>`;
+      return el;
+    }
+
     function timeAgo(isoString) {
       if (!isoString) return '';
       const diff = Math.floor((Date.now() - new Date(isoString)) / 1000);
@@ -320,6 +417,8 @@
           if (slideImg) {
             visual.classList.add('has-img');
             visual.style.backgroundImage = `url('${slideImg}')`;
+          } else if (i > 0 && article.carousel_slides?.[i]) {
+            visual.appendChild(buildCarouselFallback(article.carousel_slides[i]));
           }
 
           const bars = document.createElement('div');
