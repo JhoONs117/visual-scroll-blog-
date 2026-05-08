@@ -1,5 +1,59 @@
 window.ARTICLES = [
   {
+    "title": "Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?",
+    "slides": [
+      "Lovable dà il 10% di aumento automatico... senza merito.",
+      "La cultura tossica spesso nasce dai bonus negoziati.",
+      "E se eliminare la competizione sui soldi bastasse?",
+      "Tu potresti smettere di litigare per una promozione.",
+      "Prova a chiedere: aumento automatico o meritocrazia?"
+    ],
+    "thread_text": [
+      "E se eliminare la competizione sui soldi bastasse a risolvere la cultura tossica in azienda?",
+      "Lovable ha appena alzato tutti del 10% automatico, zero merito. Solo essere lì da un anno.",
+      "I bonus negoziati creano invidia, silenzi, scontri. La tensione sale già in corridoio.",
+      "Tu smetti di litigare per una promozione quando lo stipendio non è più un'arma di ricatto.",
+      "Allora chiediti: aumento automatico o meritocrazia? Se non rispondi ora, lo farà il tuo team."
+    ],
+    "video_script": [
+      "Immagina di non litigare mai più per uno stipendio.",
+      "Lovable alza tutti del 10%, senza merito.",
+      "I bonus negoziati? Fanno solo male.",
+      "La competizione sui soldi scompare.",
+      "Chiediti: automatico o meritocrazia?"
+    ],
+    "pubDate": "Thu, 07 May 2026 18:36:29 +0000",
+    "savedAt": "2026-05-08T02:11:32.120Z",
+    "link": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/"
+  },
+  {
+    "title": "OpenAI launches new voice intelligence features in its API",
+    "slides": [
+      "OpenAI ha sbloccato voci che capiscono le emozioni?",
+      "Due nuove API: voice activity detection e testo a voce",
+      "Il modello non trascrive, interpreta le sfumature vocali",
+      "Chi integra ora può creare assistenti che sentono il tono",
+      "Prova tu: la differenza la fa la pausa dell'utente"
+    ],
+    "thread_text": [
+      "OpenAI ha appena rilasciato un'API che non solo capisce le parole che dici, ma anche come le dici. E no, non è la solita voce robotica.",
+      "Si chiama 'text-to-speech' ma non è solo quello: il modello rileva le emozioni nella tua voce e le riproduce. Rido e lui ride con me.",
+      "Poi c'è la novità che cambia tutto: la voice activity detection. Sa quando stai per parlare, quando fai una pausa, quando sei incerto.",
+      "Chi integra queste API oggi può creare assistenti che sentono il tuo tono. Un bot che capisce se sei arrabbiato o stanco e cambia approccio.",
+      "Costa meno di un abbonamento Netflix. Vai su platform.openai.com, prendi la API 'tts-1-hd', e in 10 minuti hai un assistente che ti ascolta davvero."
+    ],
+    "video_script": [
+      "Hai mai parlato con un assistente che capisce le tue emozioni?",
+      "OpenAI ha appena sbloccato questa cosa.",
+      "Non è solo un sintetizzatore vocale.",
+      "Il modello analizza anche pause e tono.",
+      "E si adatta in tempo reale."
+    ],
+    "pubDate": "Thu, 07 May 2026 22:24:50 +0000",
+    "savedAt": "2026-05-08T02:11:25.910Z",
+    "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/"
+  },
+  {
     "title": "Google unveils Whoop-like screenless Fitbit Air",
     "slides": [
       "Google elimina lo schermo sul nuovo Fitbit Air.",

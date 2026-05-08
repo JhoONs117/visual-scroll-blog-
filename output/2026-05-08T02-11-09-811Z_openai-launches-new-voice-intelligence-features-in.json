@@ -1,0 +1,27 @@
+{
+  "title": "OpenAI launches new voice intelligence features in its API",
+  "slides": [
+    "OpenAI ha sbloccato voci che capiscono le emozioni?",
+    "Due nuove API: voice activity detection e testo a voce",
+    "Il modello non trascrive, interpreta le sfumature vocali",
+    "Chi integra ora può creare assistenti che sentono il tono",
+    "Prova tu: la differenza la fa la pausa dell'utente"
+  ],
+  "thread_text": [
+    "OpenAI ha appena rilasciato un'API che non solo capisce le parole che dici, ma anche come le dici. E no, non è la solita voce robotica.",
+    "Si chiama 'text-to-speech' ma non è solo quello: il modello rileva le emozioni nella tua voce e le riproduce. Rido e lui ride con me.",
+    "Poi c'è la novità che cambia tutto: la voice activity detection. Sa quando stai per parlare, quando fai una pausa, quando sei incerto.",
+    "Chi integra queste API oggi può creare assistenti che sentono il tuo tono. Un bot che capisce se sei arrabbiato o stanco e cambia approccio.",
+    "Costa meno di un abbonamento Netflix. Vai su platform.openai.com, prendi la API 'tts-1-hd', e in 10 minuti hai un assistente che ti ascolta davvero."
+  ],
+  "video_script": [
+    "Hai mai parlato con un assistente che capisce le tue emozioni?",
+    "OpenAI ha appena sbloccato questa cosa.",
+    "Non è solo un sintetizzatore vocale.",
+    "Il modello analizza anche pause e tono.",
+    "E si adatta in tempo reale."
+  ],
+  "pubDate": "Thu, 07 May 2026 22:24:50 +0000",
+  "savedAt": "2026-05-08T02:11:25.910Z",
+  "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/"
+}
