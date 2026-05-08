@@ -59,17 +59,24 @@
       overflow: hidden;
     }
 
+    /* fallback gradient quando article.image non è disponibile */
     .slide-color-0 .slide-visual { background: linear-gradient(160deg, #1e3a5f 0%, #0f172a 100%); }
     .slide-color-1 .slide-visual { background: linear-gradient(160deg, #2d1b69 0%, #1a1035 100%); }
     .slide-color-2 .slide-visual { background: linear-gradient(160deg, #0c4a6e 0%, #0d2137 100%); }
     .slide-color-3 .slide-visual { background: linear-gradient(160deg, #14532d 0%, #1a2a1a 100%); }
     .slide-color-4 .slide-visual { background: linear-gradient(160deg, #374151 0%, #111827 100%); }
 
+    /* quando c'è l'immagine reale */
+    .slide-visual.has-img {
+      background-size: cover;
+      background-position: center;
+    }
+
     .slide-visual::after {
       content: '';
       position: absolute;
       inset: 0;
-      background: linear-gradient(to bottom, transparent 50%, rgba(0,0,0,0.5) 100%);
+      background: linear-gradient(to bottom, rgba(0,0,0,0.25) 0%, transparent 40%, rgba(0,0,0,0.6) 100%);
       pointer-events: none;
     }
 
@@ -309,6 +316,10 @@
           /* Area visiva */
           const visual = document.createElement('div');
           visual.className = 'slide-visual';
+          if (article.image) {
+            visual.classList.add('has-img');
+            visual.style.backgroundImage = `url('${article.image}')`;
+          }
 
           const bars = document.createElement('div');
           bars.className = 'progress-bars';

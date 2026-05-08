@@ -3,293 +3,351 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Carousel Export — FlashAI</title>
+  <title>Carousel — FlashAI</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
-      background: #060a14;
+      background: #080c18;
       color: #fff;
-      font-family: 'Inter', system-ui, sans-serif;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
       min-height: 100vh;
     }
 
-    /* ── TOPBAR ── */
-    .topbar {
-      position: sticky;
-      top: 0;
-      z-index: 100;
-      background: #0a0f1e;
-      border-bottom: 1px solid rgba(255,255,255,0.06);
-      padding: 16px 32px;
+    /* ── HEADER ── */
+    .header {
+      background: #0d1120;
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+      padding: 14px 24px;
       display: flex;
       align-items: center;
       gap: 20px;
     }
-    .topbar a {
-      color: rgba(255,255,255,0.45);
-      text-decoration: none;
-      font-size: 14px;
-      transition: color 0.15s;
-    }
-    .topbar a:hover { color: #3B82F6; }
-    .topbar .hint {
-      font-size: 12px;
-      color: rgba(255,255,255,0.25);
-      margin-left: auto;
-    }
-    .topbar .art-count {
-      font-size: 13px;
-      color: rgba(255,255,255,0.35);
-    }
+    .header h1 { font-size: 17px; font-weight: 700; letter-spacing: -0.02em; }
+    .header nav { display: flex; gap: 16px; margin-left: auto; }
+    .header a { color: rgba(255,255,255,0.4); text-decoration: none; font-size: 13px; transition: color 0.15s; }
+    .header a:hover { color: #3B82F6; }
 
-    /* ── ARTICLE BLOCK ── */
-    .article-block { margin: 48px 32px 80px; }
-    .article-label {
-      font-size: 12px;
-      color: rgba(255,255,255,0.28);
-      font-weight: 400;
-      margin-bottom: 14px;
-      letter-spacing: 0.02em;
-    }
-    .cards-row {
-      display: flex;
-      gap: 40px;
-      overflow-x: auto;
-      align-items: flex-start;
-      padding-bottom: 12px;
-    }
-    .cards-row::-webkit-scrollbar { height: 4px; }
-    .cards-row::-webkit-scrollbar-track { background: rgba(255,255,255,0.04); border-radius: 2px; }
-    .cards-row::-webkit-scrollbar-thumb { background: rgba(59,130,246,0.3); border-radius: 2px; }
-
-    /* ══════════════════════════════════════════════════
-       CARD  —  1080 × 1350 px  (4:5)
-       Tutte le posizioni sono assolute, layout fisso.
-    ══════════════════════════════════════════════════ */
-    .card {
-      width: 1080px;
-      height: 1350px;
-      background: #0A0F1E;
-      position: relative;
-      overflow: hidden;
-      flex-shrink: 0;
-    }
-
-    /* ── VISUAL (immagine articolo) ── */
-    .visual {
-      position: absolute;
-      overflow: hidden;
-    }
-    .visual img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    }
-    .visual .ph {
-      width: 100%;
-      height: 100%;
-      background: radial-gradient(circle at 60% 40%, #1E3A5F 0%, #0A0F1E 70%);
+    /* ── SELECTOR BAR ── */
+    .selector-bar {
+      padding: 14px 24px;
+      background: #0a0f1e;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
       display: flex;
       align-items: center;
-      justify-content: center;
-      font-size: 20px;
-      color: rgba(59,130,246,0.45);
-      text-align: center;
-      padding: 24px;
-      line-height: 1.4;
+      gap: 14px;
+      flex-wrap: wrap;
     }
-    .overlay {
+    .selector-bar select {
+      flex: 1;
+      min-width: 200px;
+      max-width: 640px;
+      background: #141d35;
+      color: #fff;
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 8px;
+      padding: 8px 12px;
+      font-size: 13px;
+      font-family: inherit;
+      cursor: pointer;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%233B82F6' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 12px center;
+      padding-right: 32px;
+    }
+    .selector-bar select:focus { outline: none; border-color: #3B82F6; }
+    .count-label { font-size: 12px; color: rgba(255,255,255,0.3); white-space: nowrap; }
+
+    /* ── VIEWER ── */
+    .viewer { padding: 28px 24px 20px; overflow-x: auto; }
+    .slides-row { display: flex; gap: 14px; min-width: max-content; }
+
+    /* ── EMPTY STATE ── */
+    .empty-state { padding: 80px 24px; text-align: center; color: rgba(255,255,255,0.3); }
+    .empty-state h2 { font-size: 18px; margin-bottom: 8px; font-weight: 600; }
+    .empty-state p  { font-size: 13px; }
+
+    /* ══════════════════════════════════════════════════
+       SLIDE BASE  — 270 × 337px  (4:5)
+    ══════════════════════════════════════════════════ */
+    .slide {
+      width: 270px;
+      height: 337px;
+      border-radius: 14px;
+      overflow: hidden;
+      position: relative;
+      flex-shrink: 0;
+      background-size: cover;
+      background-position: center;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      cursor: default;
+    }
+    .slide:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 20px 56px rgba(59,130,246,0.22);
+    }
+
+    /* sfondo base per fallback */
+    .slide.hero        { background-color: #09122a; }
+    .slide.right-focus { background-color: #08111f; }
+    .slide.sensor-zoom { background-color: #080d1e; }
+    .slide.human-hand  { background-color: #05080f; }
+    .slide.cta-final   { background-color: #080f1f; }
+
+    /* overlay dark tech — gradiente per layout */
+    .img-overlay {
       position: absolute;
+      inset: 0;
+      z-index: 0;
       pointer-events: none;
     }
-    /* inset per sensor-zoom */
-    .inset-shadow {
+    .slide.hero        .img-overlay { background: linear-gradient(148deg, #09122a 0%, #0e1d4a 50%, #1c0c3e 100%); }
+    .slide.right-focus .img-overlay { background: linear-gradient(155deg, #08111f 0%, #0d1c3a 55%, #091628 100%); }
+    .slide.sensor-zoom .img-overlay { background: linear-gradient(138deg, #080d1e 0%, #0a1530 60%, #100830 100%); }
+    .slide.human-hand  .img-overlay { background: linear-gradient(152deg, #05080f 0%, #0c0d28 60%, #160638 100%); }
+    .slide.cta-final   .img-overlay { background: linear-gradient(148deg, #080f1f 0%, #0b1438 60%, #12103e 100%); }
+
+    /* orb radiale per profondità visiva (sopra overlay) */
+    .slide::before {
+      content: '';
       position: absolute;
+      inset: 0;
       pointer-events: none;
+      z-index: 1;
     }
+    .slide.hero::before        { background: radial-gradient(ellipse 70% 60% at 90% 10%, rgba(59,130,246,0.10) 0%, transparent 70%); }
+    .slide.right-focus::before { background: radial-gradient(ellipse 60% 50% at 85% 20%, rgba(59,130,246,0.08) 0%, transparent 70%); }
+    .slide.sensor-zoom::before { background: radial-gradient(ellipse 55% 55% at 80% 80%, rgba(120,0,255,0.08) 0%, transparent 70%); }
+    .slide.human-hand::before  { background: radial-gradient(ellipse 65% 50% at 10% 90%, rgba(59,130,246,0.09) 0%, transparent 70%); }
+    .slide.cta-final::before   { background: radial-gradient(ellipse 60% 55% at 50% 0%, rgba(59,130,246,0.09) 0%, transparent 70%); }
 
-    /* ── LAYOUT: hero ── */
-    .card.hero .visual {
-      right: 0; top: 0;
-      width: 440px; height: 100%;
+    /* icona decorativa — grande, sfumata, angolo slide */
+    .deco-icon {
+      position: absolute;
+      width: 130px;
+      height: 130px;
+      stroke: rgba(59,130,246,0.10);
+      fill: none;
+      stroke-width: 1;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      pointer-events: none;
+      z-index: 2;
     }
-    .card.hero .visual img { object-position: center center; }
-    .card.hero .overlay {
-      right: 0; top: 0; width: 440px; height: 100%;
-      background: linear-gradient(to right, #0A0F1E 0%, transparent 100%);
-    }
+    .slide.hero        .deco-icon { top: -10px; right: -10px; transform: rotate(12deg); }
+    .slide.right-focus .deco-icon { top: 40px; right: -20px; transform: rotate(-8deg); width: 110px; height: 110px; }
+    .slide.sensor-zoom .deco-icon { bottom: 20px; right: -15px; transform: rotate(20deg); }
+    .slide.human-hand  .deco-icon { bottom: -20px; left: -20px; transform: rotate(-15deg); }
+    .slide.cta-final   .deco-icon { top: 50%; right: -30px; transform: translateY(-50%) rotate(10deg); }
 
-    /* ── LAYOUT: right-focus ── */
-    .card.right-focus .visual {
-      right: 0; top: 200px;
-      width: 400px; height: 600px;
-      border-left: 2px solid rgba(59,130,246,0.3);
+    /* contenuto slide */
+    .slide-inner {
+      position: relative;
+      z-index: 3;
+      height: 100%;
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
     }
-    .card.right-focus .visual img { object-position: center center; }
-
-    /* ── LAYOUT: sensor-zoom ── */
-    .card.sensor-zoom .visual {
-      right: -40px; top: 180px;
-      width: 480px; height: 480px;
-    }
-    .card.sensor-zoom .visual img {
-      object-position: center center;
-      transform: scale(1.4);
-      transform-origin: center;
-    }
-    .card.sensor-zoom .overlay {
-      right: -40px; top: 180px;
-      width: 480px; height: 480px;
-      background: linear-gradient(to bottom, transparent 60%, #0A0F1E 100%);
-    }
-    .card.sensor-zoom .inset-shadow {
-      right: -40px; top: 180px;
-      width: 480px; height: 480px;
-      box-shadow:
-        inset 24px 0 40px #0A0F1E,
-        inset -24px 0 40px #0A0F1E,
-        inset 0 -24px 40px #0A0F1E;
-    }
-
-    /* ── LAYOUT: human-hand ── */
-    .card.human-hand .visual {
-      right: 0; bottom: 80px;
-      width: 420px; height: 500px;
-    }
-    .card.human-hand .visual img { object-position: bottom center; }
-    .card.human-hand .overlay {
-      right: 0; bottom: 80px;
-      width: 420px; height: 500px;
-      background: linear-gradient(to top, transparent 50%, #0A0F1E 100%);
-    }
-
-    /* ── LAYOUT: cta-final ── */
-    .card.cta-final .visual {
-      right: 20px; top: 140px;
-      width: 400px; height: 560px;
-      border: 1px solid rgba(59,130,246,0.4);
-      box-shadow: 0 0 80px rgba(59,130,246,0.4);
-    }
-    .card.cta-final .visual img { object-position: center center; }
 
     /* ── BADGE ── */
     .badge {
-      position: absolute;
-      top: 48px;
-      left: 52px;
       display: inline-flex;
       align-items: center;
-      gap: 10px;
+      gap: 5px;
       background: #3B82F6;
-      color: #fff;
-      font-size: 18px;
-      font-weight: 700;
-      font-family: 'Inter', sans-serif;
-      border-radius: 24px;
-      padding: 6px 20px;
-      letter-spacing: 0.04em;
-      text-transform: uppercase;
-    }
-    .badge svg {
-      width: 16px;
-      height: 16px;
-      fill: #fff;
+      padding: 3px 8px 3px 6px;
+      border-radius: 4px;
+      width: fit-content;
       flex-shrink: 0;
+    }
+    .badge svg { width: 9px; height: 9px; flex-shrink: 0; fill: #fff; }
+    .badge-label {
+      font-size: 8px;
+      font-weight: 800;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #fff;
     }
 
     /* ── HOOK ── */
-    .hook {
-      position: absolute;
-      top: 130px;
-      left: 52px;
-      max-width: 580px;
-      font-size: 72px;
-      font-weight: 800;
-      color: #F8FAFC;
-      line-height: 1.12;
-      font-family: 'Inter', sans-serif;
+    .hook-text {
+      font-size: 20px;
+      font-weight: 900;
+      line-height: 1.15;
+      color: #fff;
       letter-spacing: -0.025em;
     }
-    .hook .accent { color: #3B82F6; }
+    .hook-text .accent { color: #60a5fa; }
 
-    /* ── DESCRIPTION BLOCK ── */
-    .desc-block {
-      position: absolute;
-      bottom: 160px;
-      left: 52px;
-      max-width: 520px;
-    }
-    .desc-icon {
-      width: 48px;
-      height: 48px;
-      fill: #3B82F6;
-      display: block;
-      margin-bottom: 18px;
-    }
-    .desc-text {
-      font-size: 28px;
+    /* ── DESCRIPTION ── */
+    .desc {
+      font-size: 11px;
       font-weight: 400;
-      color: #94A3B8;
-      line-height: 1.45;
-      font-family: 'Inter', sans-serif;
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
+      color: rgba(255,255,255,0.80);
+      line-height: 1.55;
+    }
+
+    /* ── ICON funzionale ── */
+    .icon {
+      display: block;
+      stroke: #3B82F6;
+      fill: none;
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      flex-shrink: 0;
     }
 
     /* ── FOOTER ── */
-    .footer {
-      position: absolute;
-      bottom: 48px;
-      left: 52px;
-      right: 52px;
+    .slide-footer {
       display: flex;
       justify-content: space-between;
       align-items: center;
+      margin-top: auto;
+      padding-top: 8px;
     }
-    .footer-num    { font-size: 24px; color: #334155; font-family: 'Inter', sans-serif; font-weight: 400; }
-    .footer-handle { font-size: 24px; color: #334155; font-family: 'Inter', sans-serif; font-weight: 400; }
+    .slide-num    { font-size: 8px; font-weight: 700; color: rgba(255,255,255,0.35); letter-spacing: 0.05em; }
+    .slide-handle { font-size: 8px; font-weight: 400; color: rgba(255,255,255,0.35); }
 
-    /* ── EMPTY ── */
-    .empty {
-      padding: 80px 32px;
-      color: rgba(255,255,255,0.3);
-      font-size: 15px;
+    /* ── LAYOUT: hero ── */
+    .slide.hero .badge   { margin-bottom: 10px; }
+    .slide.hero .hook-text { font-size: 22px; flex: 1; display: flex; align-items: flex-start; }
+    .slide.hero .desc    { margin-top: 10px; }
+
+    /* ── LAYOUT: right-focus ── */
+    .slide.right-focus .badge    { margin-bottom: 10px; }
+    .slide.right-focus .hook-row { display: flex; gap: 10px; align-items: center; flex: 1; }
+    .slide.right-focus .hook-text { font-size: 17px; flex: 1; }
+    .slide.right-focus .icon-lg {
+      width: 60px; height: 60px;
+      stroke: #60a5fa;
+      fill: none;
+      stroke-width: 1.3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      flex-shrink: 0;
+      opacity: 0.9;
     }
+    .slide.right-focus .desc { margin-top: 10px; }
+
+    /* ── LAYOUT: sensor-zoom ── */
+    .slide.sensor-zoom .badge     { margin-bottom: 10px; }
+    .slide.sensor-zoom .hook-text { font-size: 16px; }
+    .slide.sensor-zoom .data-points {
+      display: flex; flex-direction: column; gap: 7px;
+      flex: 1; margin-top: 12px;
+    }
+    .slide.sensor-zoom .dp {
+      display: flex; align-items: flex-start; gap: 8px;
+      background: rgba(255,255,255,0.06);
+      border-left: 2px solid rgba(59,130,246,0.7);
+      padding: 6px 8px;
+      border-radius: 0 5px 5px 0;
+    }
+    .slide.sensor-zoom .dp-dot {
+      width: 5px; height: 5px;
+      border-radius: 50%;
+      background: #3B82F6;
+      flex-shrink: 0;
+      margin-top: 3px;
+    }
+    .slide.sensor-zoom .dp-text {
+      font-size: 10px; font-weight: 400;
+      color: rgba(255,255,255,0.80);
+      line-height: 1.4;
+    }
+
+    /* ── LAYOUT: human-hand ── */
+    .slide.human-hand .badge     { margin-bottom: 10px; }
+    .slide.human-hand .icon      { width: 28px; height: 28px; margin-bottom: 10px; }
+    .slide.human-hand .hook-text { font-size: 24px; line-height: 1.1; flex: 1; }
+    .slide.human-hand .desc      { margin-top: 10px; }
+
+    /* ── LAYOUT: cta-final ── */
+    .slide.cta-final .slide-inner { align-items: center; text-align: center; }
+    .slide.cta-final .badge       { align-self: flex-start; margin-bottom: auto; }
+    .slide.cta-final .icon-cta {
+      width: 44px; height: 44px;
+      stroke: #60a5fa; fill: none;
+      stroke-width: 2;
+      stroke-linecap: round; stroke-linejoin: round;
+      margin: 0 auto 12px;
+    }
+    .slide.cta-final .hook-text   { font-size: 18px; text-align: center; margin-bottom: 10px; }
+    .slide.cta-final .desc        { text-align: center; font-size: 10.5px; }
+    .slide.cta-final .slide-footer { width: 100%; margin-top: auto; }
+
+    /* ── THREAD PREVIEW ── */
+    .thread-section {
+      margin: 4px 24px 32px;
+      background: #0d1120;
+      border: 1px solid rgba(255,255,255,0.07);
+      border-radius: 12px;
+      padding: 20px 24px;
+    }
+    .thread-section h3 {
+      font-size: 10px; font-weight: 700;
+      text-transform: uppercase; letter-spacing: 0.12em;
+      color: rgba(255,255,255,0.3); margin-bottom: 16px;
+    }
+    .tweet-row {
+      display: flex; gap: 14px;
+      padding: 10px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+    }
+    .tweet-row:last-child { border-bottom: none; padding-bottom: 0; }
+    .tweet-n    { font-size: 11px; font-weight: 700; color: #3B82F6; min-width: 18px; padding-top: 2px; }
+    .tweet-body { font-size: 13px; color: rgba(255,255,255,0.7); line-height: 1.6; }
   </style>
 </head>
 <body>
 
-<div class="topbar">
-  <a href="index.html">← Feed</a>
-  <a href="review.html">Review</a>
-  <span class="art-count" id="art-count"></span>
-  <span class="hint">Screenshot ogni card — zoom browser 100%</span>
+<div class="header">
+  <h1>Carousel</h1>
+  <nav>
+    <a href="index.html">← Feed</a>
+    <a href="review.html">Review</a>
+  </nav>
 </div>
 
-<div id="main"></div>
+<div class="selector-bar">
+  <select id="sel"></select>
+  <span class="count-label" id="count"></span>
+</div>
+
+<div id="area">
+  <div class="empty-state">
+    <h2>Nessun articolo selezionato</h2>
+    <p>Scegli un articolo dal menu in alto.</p>
+  </div>
+</div>
 
 <script src="data.js"></script>
 <script>
-/* ── Source dal link ── */
+const ICON_PATHS = {
+  tag:       `<path d="M20.59 13.41L13.42 20.59a2 2 0 01-2.83 0L2 12V2h10l8.59 8.59a2 2 0 010 2.82z"/><circle cx="7" cy="7" r="1.5" fill="currentColor" stroke="none"/>`,
+  waves:     `<path d="M2 6c1.5 1 3 1 4.5 0s3-1 4.5 0 3 1 4.5 0 3-1 4.5 0"/><path d="M2 12c1.5 1 3 1 4.5 0s3-1 4.5 0 3 1 4.5 0 3-1 4.5 0"/><path d="M2 18c1.5 1 3 1 4.5 0s3-1 4.5 0 3 1 4.5 0 3-1 4.5 0"/>`,
+  heart:     `<path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78L12 21l8.84-8.85a5.5 5.5 0 000-7.54z"/>`,
+  vibration: `<line x1="2" y1="10" x2="2" y2="14"/><line x1="6" y1="6" x2="6" y2="18"/><line x1="10" y1="3" x2="10" y2="21"/><line x1="14" y1="3" x2="14" y2="21"/><line x1="18" y1="6" x2="18" y2="18"/><line x1="22" y1="10" x2="22" y2="14"/>`,
+  check:     `<polyline points="20 6 9 17 4 12"/>`
+};
+
+function iconSvg(name, cls) {
+  return `<svg class="${cls}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">${ICON_PATHS[name] || ICON_PATHS.tag}</svg>`;
+}
+
+const BADGE_ICON = `<svg viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="8" height="8" rx="1.5" fill="white"/><path d="M3 3l4 4M7 3l-4 4" stroke="#3B82F6" stroke-width="1.5" stroke-linecap="round"/></svg>`;
+
 const SOURCE_MAP = {
-  'techcrunch.com':                  'TechCrunch',
-  'artificialintelligence-news.com': 'AI News',
-  'oreilly.com':                     "O'Reilly",
-  'theverge.com':                    'The Verge',
-  'wired.com':                       'Wired',
-  'venturebeat.com':                 'VentureBeat',
-  'zdnet.com':                       'ZDNet',
-  'thenextweb.com':                  'TNW',
-  'reuters.com':                     'Reuters',
-  'bloomberg.com':                   'Bloomberg',
-  'forbes.com':                      'Forbes',
+  'techcrunch.com': 'TechCrunch', 'artificialintelligence-news.com': 'AI News',
+  'oreilly.com': "O'Reilly", 'theverge.com': 'The Verge', 'wired.com': 'Wired',
+  'venturebeat.com': 'VentureBeat', 'zdnet.com': 'ZDNet', 'thenextweb.com': 'TNW',
+  'reuters.com': 'Reuters', 'bloomberg.com': 'Bloomberg', 'forbes.com': 'Forbes',
 };
 function sourceFromLink(link) {
   if (!link) return 'AI News';
@@ -298,23 +356,10 @@ function sourceFromLink(link) {
     return SOURCE_MAP[host] || host.replace(/\.(com|org|net|io)$/, '').replace(/-/g, ' ');
   } catch { return 'AI News'; }
 }
+function badge(source) {
+  return `<div class="badge">${BADGE_ICON}<span class="badge-label">${source}</span></div>`;
+}
 
-/* ── Badge SVG icon ── */
-const BADGE_ICON = `<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="14" height="14" rx="2" fill="white"/>
-  <path d="M4 4l8 8M12 4l-8 8" stroke="#3B82F6" stroke-width="2.2" stroke-linecap="round"/>
-</svg>`;
-
-/* ── Fill icons 48×48 ── */
-const ICONS = {
-  tag: `<svg class="desc-icon" viewBox="0 0 24 24"><path d="M21.41 11.58l-9-9A2 2 0 0011 2H4a2 2 0 00-2 2v7a2 2 0 00.59 1.42l9 9a2 2 0 002.82 0l7-7a2 2 0 000-2.84zM5.5 7A1.5 1.5 0 114 5.5 1.5 1.5 0 015.5 7z"/></svg>`,
-  waves: `<svg class="desc-icon" viewBox="0 0 24 24"><path d="M17 16.99c-1.35 0-2.2-.42-2.95-.8-.63-.32-1.17-.6-2.05-.6-.9 0-1.44.28-2.07.6-.75.38-1.6.8-2.93.8s-2.18-.42-2.93-.8c-.63-.32-1.17-.6-2.07-.6v-1.6c1.34 0 2.19.42 2.93.8.63.32 1.17.6 2.07.6s1.44-.28 2.07-.6c.75-.38 1.6-.8 2.93-.8 1.35 0 2.2.42 2.95.8.63.32 1.17.6 2.05.6s1.42-.28 2.05-.6c.75-.38 1.6-.8 2.95-.8v1.6c-.9 0-1.44.28-2.07.6-.75.38-1.6.8-2.93.8zm0-4.45c-1.35 0-2.2-.42-2.95-.8-.63-.32-1.17-.6-2.05-.6-.9 0-1.44.28-2.07.6-.75.38-1.6.8-2.93.8s-2.18-.42-2.93-.8c-.63-.32-1.17-.6-2.07-.6V9.93c1.34 0 2.19.42 2.93.8.63.32 1.17.6 2.07.6s1.44-.28 2.07-.6c.75-.38 1.6-.8 2.93-.8 1.35 0 2.2.42 2.95.8.63.32 1.17.6 2.05.6s1.42-.28 2.05-.6c.75-.38 1.6-.8 2.95-.8v1.6c-.9 0-1.44.28-2.07.6-.75.38-1.6.8-2.93.8zm0-4.45c-1.35 0-2.2-.42-2.95-.8-.63-.32-1.17-.6-2.05-.6-.9 0-1.44.28-2.07.6-.75.38-1.6.8-2.93.8s-2.18-.42-2.93-.8C9.12 6.91 8.58 6.63 7.68 6.63v-1.6c1.34 0 2.19.42 2.93.8.63.32 1.17.6 2.07.6s1.44-.28 2.07-.6c.75-.38 1.6-.8 2.93-.8 1.35 0 2.2.42 2.95.8.63.32 1.17.6 2.05.6s1.42-.28 2.05-.6c.75-.38 1.6-.8 2.95-.8v1.6c-.9 0-1.44.28-2.07.6-.75.38-1.6.8-2.93.8z"/></svg>`,
-  heart: `<svg class="desc-icon" viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>`,
-  vibration: `<svg class="desc-icon" viewBox="0 0 24 24"><path d="M0 15h2V9H0v6zm3 2h2V7H3v10zm19-8v6h2V9h-2zm-3 8h2V7h-2v10zM16.5 3h-9C6.67 3 6 3.67 6 4.5v15c0 .83.67 1.5 1.5 1.5h9c.83 0 1.5-.67 1.5-1.5v-15c0-.83-.67-1.5-1.5-1.5zM16 19H8V5h8v14z"/></svg>`,
-  check: `<svg class="desc-icon" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>`
-};
-
-/* ── Accent hook: split su : o — oppure ultimi ~40% parole ── */
 function accentHook(hook) {
   const m = hook.match(/[:—–]/);
   if (m) {
@@ -329,65 +374,143 @@ function accentHook(hook) {
   return words.slice(0, split).join(' ') + ' <span class="accent">' + words.slice(split).join(' ') + '</span>';
 }
 
-/* ── Visual element ── */
-function buildVisual(lt, imageUrl, visualHint) {
-  const imgHtml = imageUrl
-    ? `<img src="${imageUrl}" alt=""
-         onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'ph',textContent:'${(visualHint||'').replace(/'/g,'')}'}))">`
-    : `<div class="ph">${visualHint || ''}</div>`;
-
-  const overlay = ['hero', 'sensor-zoom', 'human-hand'].includes(lt)
-    ? `<div class="overlay"></div>` : '';
-  const inset = lt === 'sensor-zoom'
-    ? `<div class="inset-shadow"></div>` : '';
-
-  return `<div class="visual">${imgHtml}</div>${overlay}${inset}`;
+function toDataPoints(desc) {
+  const frags = desc.split(/[.;—–]/).map(s => s.trim()).filter(s => s.length > 5).slice(0, 3);
+  if (!frags.length) frags.push(desc.trim());
+  return frags.map(f =>
+    `<div class="dp"><div class="dp-dot"></div><span class="dp-text">${f}</span></div>`
+  ).join('');
 }
 
-/* ── Singola card ── */
-function buildCard(cs, idx, total, imageUrl, source) {
-  const lt   = cs.layout_type;
-  const icon = ICONS[cs.icon] || ICONS.tag;
-
-  return `<div class="card ${lt}">
-    ${buildVisual(lt, imageUrl, cs.visual_hint)}
-    <div class="badge">${BADGE_ICON}${source}</div>
-    <div class="hook">${accentHook(cs.hook)}</div>
-    <div class="desc-block">
-      ${icon}
-      <div class="desc-text">${cs.description}</div>
-    </div>
-    <div class="footer">
-      <span class="footer-num">${idx + 1}/5</span>
-      <span class="footer-handle">@FlashAI</span>
-    </div>
+function footer(idx, total) {
+  return `<div class="slide-footer">
+    <span class="slide-num">${idx + 1}/${total}</span>
+    <span class="slide-handle">@FlashAI</span>
   </div>`;
 }
 
-/* ── Render ── */
-const articles = (window.ARTICLES || [])
-  .filter(a => a.carousel_slides && a.carousel_slides.length);
+function buildSlide(cs, idx, total, source) {
+  const lt       = cs.layout_type;
+  const hookHtml = `<span class="hook-text">${accentHook(cs.hook)}</span>`;
+  const descHtml = `<div class="desc">${cs.description}</div>`;
+  const bdg      = badge(source);
+  const decoIcon = iconSvg(cs.icon, 'deco-icon');
+  const foot     = footer(idx, total);
 
-document.getElementById('art-count').textContent =
-  `${articles.length} articol${articles.length === 1 ? 'o' : 'i'} con carousel`;
+  let inner = '';
 
-const main = document.getElementById('main');
+  if (lt === 'hero') {
+    inner = `
+      <div class="img-overlay"></div>
+      ${decoIcon}
+      <div class="slide-inner">
+        ${bdg}
+        <div style="flex:1;margin-top:10px;">${hookHtml}</div>
+        ${descHtml}
+        ${foot}
+      </div>`;
 
-if (!articles.length) {
-  main.innerHTML = `<div class="empty">Nessun articolo con carousel_slides.<br>
-    Esegui: <code>node backfill-carousel.js</code></div>`;
-} else {
-  main.innerHTML = articles.map(article => {
-    const source = sourceFromLink(article.link);
-    const cards  = article.carousel_slides.map((cs, i) =>
-      buildCard(cs, i, article.carousel_slides.length, article.image, source)
-    ).join('');
-    return `<div class="article-block">
-      <div class="article-label">${article.title}</div>
-      <div class="cards-row">${cards}</div>
-    </div>`;
-  }).join('');
+  } else if (lt === 'right-focus') {
+    inner = `
+      <div class="img-overlay"></div>
+      ${decoIcon}
+      <div class="slide-inner">
+        ${bdg}
+        <div class="hook-row" style="margin-top:10px;">
+          <div style="flex:1;">${hookHtml}</div>
+          ${iconSvg(cs.icon, 'icon-lg')}
+        </div>
+        ${descHtml}
+        ${foot}
+      </div>`;
+
+  } else if (lt === 'sensor-zoom') {
+    inner = `
+      <div class="img-overlay"></div>
+      ${decoIcon}
+      <div class="slide-inner">
+        ${bdg}
+        <div style="margin-top:10px;">${hookHtml}</div>
+        <div class="data-points">${toDataPoints(cs.description)}</div>
+        ${foot}
+      </div>`;
+
+  } else if (lt === 'human-hand') {
+    inner = `
+      <div class="img-overlay"></div>
+      ${decoIcon}
+      <div class="slide-inner">
+        ${bdg}
+        ${iconSvg(cs.icon, 'icon')}
+        <div style="flex:1;">${hookHtml}</div>
+        ${descHtml}
+        ${foot}
+      </div>`;
+
+  } else { // cta-final
+    inner = `
+      <div class="img-overlay"></div>
+      ${decoIcon}
+      <div class="slide-inner">
+        ${bdg}
+        ${iconSvg(cs.icon, 'icon-cta')}
+        ${hookHtml}
+        ${descHtml}
+        ${foot}
+      </div>`;
+  }
+
+  return `<div class="slide ${lt}">${inner}</div>`;
 }
+
+function renderArticle(article) {
+  const area = document.getElementById('area');
+  const cs   = article.carousel_slides;
+  if (!cs || !cs.length) {
+    area.innerHTML = `<div class="empty-state">
+      <h2>Nessun carousel</h2>
+      <p>Questo articolo non ha ancora <code>carousel_slides</code>.</p>
+    </div>`;
+    return;
+  }
+  const source     = sourceFromLink(article.link);
+  const slidesHtml = cs.map((s, i) => buildSlide(s, i, cs.length, source)).join('');
+  const threadHtml = article.thread_text && article.thread_text.length
+    ? `<div class="thread-section">
+        <h3>Thread X</h3>
+        ${article.thread_text.map((t, i) => `
+          <div class="tweet-row">
+            <span class="tweet-n">${i + 1}</span>
+            <span class="tweet-body">${t}</span>
+          </div>`).join('')}
+      </div>`
+    : '';
+  area.innerHTML = `
+    <div class="viewer"><div class="slides-row">${slidesHtml}</div></div>
+    ${threadHtml}`;
+}
+
+const articles = window.ARTICLES || [];
+const sel = document.getElementById('sel');
+const lbl = document.getElementById('count');
+const withCs = articles.filter(a => a.carousel_slides && a.carousel_slides.length).length;
+lbl.textContent = `${withCs} con carousel · ${articles.length} totali`;
+
+sel.innerHTML = '<option value="">Seleziona articolo…</option>';
+articles.forEach((a, i) => {
+  const has = a.carousel_slides && a.carousel_slides.length;
+  const opt = document.createElement('option');
+  opt.value = i;
+  opt.textContent = (has ? '✓ ' : '○ ') + (a.title || `Articolo ${i + 1}`);
+  sel.appendChild(opt);
+});
+sel.addEventListener('change', () => {
+  const i = parseInt(sel.value);
+  if (!isNaN(i)) renderArticle(articles[i]);
+});
+
+const first = articles.findIndex(a => a.carousel_slides && a.carousel_slides.length);
+if (first >= 0) { sel.value = first; sel.dispatchEvent(new Event('change')); }
 </script>
 </body>
 </html>
