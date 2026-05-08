@@ -23,5 +23,50 @@
   ],
   "pubDate": "Thu, 07 May 2026 20:10:48 +0000",
   "savedAt": "2026-05-07T20:59:19.264Z",
-  "link": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/"
+  "link": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/",
+  "carousel_slides": [
+    {
+      "hook": "Stesso hardware, fallimento totale",
+      "description": "Altri costruttori hanno fallito lo stesso test, pur avendo hardware identico. Cosa hanno sbagliato? Il segreto è nell'ingaggio.",
+      "visual_hint": "Trofeo e auto parcheggiate",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "car test track"
+    },
+    {
+      "hook": "Non è solo tecnologia",
+      "description": "Il nuovo benchmark misura quanto il conducente resta coinvolto nella guida, non quanti schermi ci sono. Tesla Model Y ha capito la differenza.",
+      "visual_hint": "Concentrazione",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "driver hands wheel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/R.E._Peary%2C_Jr._at_Sydney%2C_drivers_wheel_in_hand_LCCN2014684237.jpg/960px-R.E._Peary%2C_Jr._at_Sydney%2C_drivers_wheel_in_hand_LCCN2014684237.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Auto identiche, voti opposti",
+      "description": "Sulla carta sembravano uguali, ma i punteggi finali hanno preso strade opposte. Il test premia chi mette il conducente al centro.",
+      "visual_hint": "Grafico a confronto",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "safety rating chart"
+    },
+    {
+      "hook": "La scelta cambia tutto",
+      "description": "Prima di comprare la prossima auto, controlla il suo punteggio. Potrebbe cambiare la tua decisione, non solo per la sicurezza.",
+      "visual_hint": "Maniglia e chiavi",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "car key hand",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_President%2C_Smt._Pratibha_Devisingh_Patil_handing_over_the_key_of_permanent_houses_built_for_the_Tsunami_victims_of_Kinyuka_village_in_Car_Nicobar_Islands%2C_on_December_26%2C_2007.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Controlla la tua ora",
+      "description": "Confronta la sicurezza della tua auto attuale con il nuovo benchmark. Sapere fa la differenza.",
+      "visual_hint": "Schermo con punteggio",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone safety app"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/tesla-model-y-juniper-north-america.jpg?resize=1200,850"
 }

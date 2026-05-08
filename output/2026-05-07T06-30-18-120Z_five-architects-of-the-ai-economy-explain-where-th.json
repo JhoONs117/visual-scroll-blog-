@@ -22,5 +22,50 @@
     "Check your vendor's margins before you scale any deeper."
   ],
   "savedAt": "2026-05-07T06:30:18.120Z",
-  "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/"
+  "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+  "carousel_slides": [
+    {
+      "hook": "Their AI is already broken.",
+      "description": "Five AI economy architects admit the system is flawed and unsustainable.",
+      "visual_hint": "Broken gear symbol",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "server room broken"
+    },
+    {
+      "hook": "Scaling laws hit a wall.",
+      "description": "More data and hardware no longer guarantee better deep learning results.",
+      "visual_hint": "Graph flattening curve",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Costs rise faster than profits.",
+      "description": "New chips and datasets cost exponentially more, but returns are flattening.",
+      "visual_hint": "Exponential vs flat line",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "graph arrow up"
+    },
+    {
+      "hook": "Your next tool may crash.",
+      "description": "Many AI vendors run on thin margins and unsustainable growth—be ready for price hikes or failure.",
+      "visual_hint": "Warning sign with tool",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "warning sign technology",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warning_sign_in_cologne.jpg/960px-Warning_sign_in_cologne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Audit margins before scaling.",
+      "description": "If vendors can't show unit economics, you'll be the one paying the price.",
+      "visual_hint": "Magnifying glass on document",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "audit document ledger"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/55252231372_4afd845df5_o.jpg?resize=1200,800"
 }

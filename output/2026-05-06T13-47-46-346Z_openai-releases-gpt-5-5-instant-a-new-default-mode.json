@@ -21,5 +21,47 @@
     "Chi lo usa senza testare rischia.",
     "Prova un prompt e confronta subito."
   ],
-  "savedAt": "2026-05-06T13:47:46.346Z"
+  "savedAt": "2026-05-06T13:47:46.346Z",
+  "carousel_slides": [
+    {
+      "hook": "Risponde in tempo reale, ma non spiega",
+      "description": "GPT-5.5 non ti dice dove sbaglia. Nessun avviso, nessuna contestualizzazione.",
+      "visual_hint": "ChatGPT che parla, ma tace i limiti",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "chatgpt conversation screen"
+    },
+    {
+      "hook": "È il nuovo default su ChatGPT",
+      "description": "GPT-5.5 Instant è già il modello predefinito. Usato senza test, rischi risposte plausibili ma false.",
+      "visual_hint": "Schermata ChatGPT con modello attivo",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chatgpt interface default"
+    },
+    {
+      "hook": "Velocità senza onestà intellettuale",
+      "description": "Il problema non è la velocità. È che non spiega i suoi limiti. Dati plausibili, ma falsi.",
+      "visual_hint": "Orologio che corre e tace",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "clock speed fast"
+    },
+    {
+      "hook": "Il silenzio dell'AI costa decisioni",
+      "description": "Se lavori con info critiche, il silenzio dell'AI può far prendere decisioni sbagliate. Controlla sempre.",
+      "visual_hint": "Mano umana che ferma un errore",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand stopping error"
+    },
+    {
+      "hook": "Confronta subito col vecchio modello",
+      "description": "Apri ChatGPT, scrivi lo stesso prompt su GPT-5.5 e sul modello precedente. Confronta le risposte oggi stesso.",
+      "visual_hint": "Due schermate affiancate a confronto",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "two screens comparison"
+    }
+  ]
 }

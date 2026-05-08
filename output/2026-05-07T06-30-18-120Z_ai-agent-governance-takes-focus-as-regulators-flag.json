@@ -22,5 +22,51 @@
     "Non aspettare che succeda un incidente per testarlo."
   ],
   "savedAt": "2026-05-07T06:30:18.120Z",
-  "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/"
+  "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
+  "carousel_slides": [
+    {
+      "hook": "Chi ferma un agente ribelle?",
+      "description": "Se un agente AI decide di non fermarsi, la maggior parte dei sistemi non ha un kill switch funzionante.",
+      "visual_hint": "Pulsante rosso di arresto",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "emergency stop button"
+    },
+    {
+      "hook": "Linee guida vaghe, rischi concreti",
+      "description": "I regolatori pubblicano linee guida ma senza specifiche su come implementare un override concreto.",
+      "visual_hint": "Documento su scrivania",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "official document desk",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Classified_document_on_Resolute_desk.jpg/960px-Classified_document_on_Resolute_desk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Il 'no' del sistema costa caro",
+      "description": "Molti sviluppatori non testano il rifiuto dell'agente. Un incidente costa più di un kill switch.",
+      "visual_hint": "Grafico a barre rosse",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "bar chart decline"
+    },
+    {
+      "hook": "Mappa ogni autorizzazione",
+      "description": "La nuova norma obbliga a sapere esattamente i permessi dati all'agente. Scoprili oggi.",
+      "visual_hint": "Schema di rete con blocchi",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "network diagram nodes",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/DMZ_network_diagram_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "hook": "Blocca 30 minuti e testa",
+      "description": "Un kill switch testato evita bug in produzione. Prova a fermare manualmente il tuo agente ora.",
+      "visual_hint": "Semaforo verde",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "green traffic light",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Korean_smartphone_zombie_pedestrian_traffic_light_green_close_up.jpg/960px-Korean_smartphone_zombie_pedestrian_traffic_light_green_close_up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/AI-agent-governance-takes-focus-as-regulators-flag-control-gaps-scaled-e1777517195129.jpg"
 }

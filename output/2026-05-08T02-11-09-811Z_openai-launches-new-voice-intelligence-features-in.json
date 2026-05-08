@@ -23,5 +23,51 @@
   ],
   "pubDate": "Thu, 07 May 2026 22:24:50 +0000",
   "savedAt": "2026-05-08T02:11:25.910Z",
-  "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/"
+  "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+  "carousel_slides": [
+    {
+      "hook": "La pausa che fa la differenza",
+      "description": "Il modello non trascrive, interpreta le sfumature vocali come incertezza e tono",
+      "visual_hint": "Pausa vocale con onde sonore",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "sound wave visualization"
+    },
+    {
+      "hook": "Voci che sentono le emozioni",
+      "description": "Nuova API testo a voce rileva emozioni e le riproduce: se ridi, lui ride con te",
+      "visual_hint": "Onda emotiva che cambia colore",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "voice waveform spectrum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Voice_waveform_and_spectrum.png/960px-Voice_waveform_and_spectrum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Sa quando stai per parlare",
+      "description": "Voice activity detection capisce pause e incertezza, cambia approccio in tempo reale",
+      "visual_hint": "Microfono con segnale di attesa",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "microphone close up",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Carl_Albert_speaking_in_a_microphone._Close-up.jpg/960px-Carl_Albert_speaking_in_a_microphone._Close-up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Assistenti che sentono il tono",
+      "description": "Crea bot che capiscono se sei arrabbiato o stanco e modificano risposta, prezzo bassissimo",
+      "visual_hint": "Mano che tocca interfaccia vocale",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "ai assistant interface",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Wanda_AI_Assistant_Interface_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "hook": "Provalo ora con API nuova",
+      "description": "10 minuti su platform.openai.com, API tts-1-hd, e hai un assistente che ti ascolta davvero",
+      "visual_hint": "Codice API con freccia play",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "openai api code"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024"
 }

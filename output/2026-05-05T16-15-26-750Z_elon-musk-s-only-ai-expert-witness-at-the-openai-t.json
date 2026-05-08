@@ -21,5 +21,49 @@
     "I tuoi soldi in AI dipendono da questo processo.",
     "Leggi la sua testimonianza, ora o mai più."
   ],
-  "savedAt": "2026-05-05T16:15:26.750Z"
+  "savedAt": "2026-05-05T16:15:26.750Z",
+  "carousel_slides": [
+    {
+      "hook": "Corsa all'AGI fuori controllo",
+      "description": "Esperto di Musk avverte: la corsa all'AGI è fuori controllo. Non un CEO ma un ricercatore.",
+      "visual_hint": "Cronometro su chip AI",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence chip"
+    },
+    {
+      "hook": "Chi guida lo sviluppo?",
+      "description": "Stiamo perdendo la guida dell'AI. Aziende competono ignorando i freni di sicurezza.",
+      "visual_hint": "Macchina senza volante",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "self driving car",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Waymo_self-driving_car_front_view.gk.jpg/960px-Waymo_self-driving_car_front_view.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Processo cambierà tutto",
+      "description": "Testimonianza in processo che ridefinirà il futuro AI. Tue azioni dipendono dal verdetto.",
+      "visual_hint": "Aula di tribunale vuota",
+      "layout_type": "sensor-zoom",
+      "icon": "waves",
+      "image_query": "courtroom empty"
+    },
+    {
+      "hook": "Investimenti a rischio",
+      "description": "Regolazioni future potrebbero gelare gli investimenti o scatenare una corsa al rialzo.",
+      "visual_hint": "Grafico borsa in caduta",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Leggi prima del mercato",
+      "description": "Leggi testimonianza completa prima che il mercato reagisca. Costa meno di un caffè.",
+      "visual_hint": "Tazza caffè e documento",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "coffee cup document"
+    }
+  ]
 }

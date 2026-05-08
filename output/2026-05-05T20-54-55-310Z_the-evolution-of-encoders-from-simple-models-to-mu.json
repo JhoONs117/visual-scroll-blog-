@@ -21,5 +21,47 @@
     "Se non unisci i tuoi dati, resti indietro.",
     "Costa meno ed è più veloce. Provalo."
   ],
-  "savedAt": "2026-05-05T20:54:55.310Z"
+  "savedAt": "2026-05-05T20:54:55.310Z",
+  "carousel_slides": [
+    {
+      "hook": "Un solo encoder fa tutto",
+      "description": "Un singolo encoder oggi elabora testo, immagini e audio contemporaneamente.",
+      "visual_hint": "tabella confronto prima/dopo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "unified AI encoder"
+    },
+    {
+      "hook": "Prima: modelli separati",
+      "description": "Ogni tipo di dato richiedeva il suo modello specializzato. Tre pipeline per tre modalità.",
+      "visual_hint": "tre scatole separate",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "separate data pipelines"
+    },
+    {
+      "hook": "Ora: unico processore multimodale",
+      "description": "Un encoder unificato processa simultaneamente immagini, suoni e parole. Niente più sincronizzazione.",
+      "visual_hint": "flusso convergente",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "fused data stream"
+    },
+    {
+      "hook": "La tua app è già multimodale?",
+      "description": "Se non integri più dati in un unico passaggio, perdi efficienza e accuratezza.",
+      "visual_hint": "mano che tocca schermo dati",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching data screen"
+    },
+    {
+      "hook": "Unifica il tuo input pipeline",
+      "description": "Modelli unificati costano meno da addestrare e girano più veloci in produzione. Prova ora.",
+      "visual_hint": "freccia che unisce tre icone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "unified pipeline icon"
+    }
+  ]
 }

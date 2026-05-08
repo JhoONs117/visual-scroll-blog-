@@ -22,5 +22,50 @@
     "Confronta Reddit e fonte ufficiale."
   ],
   "savedAt": "2026-05-07T02:04:38.310Z",
-  "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/"
+  "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+  "carousel_slides": [
+    {
+      "hook": "Il rumore diventa verità",
+      "description": "Google amplifica il rumore: un post Reddit a caso diventa la risposta ufficiale nella ricerca.",
+      "visual_hint": "Post virale distorto",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "reddit post screenshot"
+    },
+    {
+      "hook": "Addio ai link, arriva il copia-incolla",
+      "description": "Google non mostra più link ai post, ma il contenuto direttamente. Meno clic per i creator.",
+      "visual_hint": "Schermata Google con blocco",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "google search results",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Screenshot_of_Google_results_showing_information_coming_from_Wikipedia_and_semantic_web_search_result.png/960px-Screenshot_of_Google_results_showing_information_coming_from_Wikipedia_and_semantic_web_search_result.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Perché cliccare?",
+      "description": "Se la risposta è già nel blocco Google, i creator perdono traffico. Nessun incentivo a creare.",
+      "visual_hint": "Grafico traffico in calo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "website traffic chart"
+    },
+    {
+      "hook": "Reddit vince? Non proprio",
+      "description": "Reddit guadagna visibilità ma gli utenti rimbalzano. Visibilità senza traffico reale.",
+      "visual_hint": "Mani che rimbalzano via",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people scrolling phones"
+    },
+    {
+      "hook": "Confronta tu stesso",
+      "description": "Cerca 'miglior [prodotto] reddit' e confronta la risposta Google con la fonte originale.",
+      "visual_hint": "Due schermate a confronto",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "side by side comparison",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Side-by-side-comparison_dewiki_frwiki.png/960px-Side-by-side-comparison_dewiki_frwiki.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800"
 }

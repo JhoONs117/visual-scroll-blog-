@@ -23,5 +23,50 @@
   ],
   "pubDate": "Thu, 07 May 2026 20:59:09 +0000",
   "savedAt": "2026-05-08T07:18:06.158Z",
-  "link": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/"
+  "link": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
+  "carousel_slides": [
+    {
+      "hook": "Chiavi che aprono ogni porta",
+      "description": "Un gruppo dice di aver rubato certificati di accesso globali. Chiavi che aprono qualsiasi account Canvas senza lasciare traccia.",
+      "visual_hint": "Scritta Hacked su portale",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "hacked login screen"
+    },
+    {
+      "hook": "Stessa firma del precedente attacco?",
+      "description": "I ricercatori non escludono la stessa firma dell'attacco Instructure. Il bersaglio non è più una scuola sola.",
+      "visual_hint": "Due impronte digitali sovrapposte",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "fingerprint comparison",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fingerprint_Comparison.jpg/960px-Fingerprint_Comparison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "L'avvisaglia di un pericolo più grande",
+      "description": "La scritta 'Hacked' è solo l'inizio. Chi ha le credenziali può entrare in qualsiasi account Canvas senza lasciare traccia.",
+      "visual_hint": "Lente di ingrandimento su schermo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass screen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Virtual_magnifying_glass_screenshot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "hook": "La tua scuola potrebbe essere la prossima",
+      "description": "Non serve un attacco mirato: basta che il gruppo decida di vendere o usare quei certificati per colpire chiunque.",
+      "visual_hint": "Mano che clicca su icona pericolo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand clicking warning"
+    },
+    {
+      "hook": "Controlla i login oggi stesso",
+      "description": "Se la tua scuola usa ancora Canvas, cambia password e chiedi all'amministratore di verificare i log delle ultime 48 ore.",
+      "visual_hint": "Checklist su schermo blu",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "checklist on monitor"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/shinyhunters-instructure-canvas-login-defacement.jpg?resize=1200,807"
 }

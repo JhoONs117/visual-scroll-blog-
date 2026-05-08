@@ -22,5 +22,49 @@
     "Controlla subito le tue API."
   ],
   "savedAt": "2026-05-07T06:30:18.120Z",
-  "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/"
+  "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
+  "carousel_slides": [
+    {
+      "hook": "I tuoi modelli AI sono compromessi?",
+      "description": "Attaccanti hanno esplorato sistemi interni Braintrust. I tuoi dati potrebbero già essere in mani sbagliate.",
+      "visual_hint": "database con lucchetto rotto",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room broken lock"
+    },
+    {
+      "hook": "Ogni chiave deve essere ruotata",
+      "description": "Braintrust ordina a tutti i clienti di ruotare le chiavi. Accesso attivo rilevato, non è un falso allarme.",
+      "visual_hint": "chiave digitale che ruota",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "digital key rotation"
+    },
+    {
+      "hook": "Attacco all'infrastruttura interna",
+      "description": "Non un singolo account: gli hacker hanno esplorato server interni. Controlla subito i log API recenti.",
+      "visual_hint": "mappa rete con nodi rossi",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "network map red nodes"
+    },
+    {
+      "hook": "Modelli alterati? Risultati inaffidabili",
+      "description": "Se qualcuno ha modificato i tuoi modelli, non lo saprai finché non verifichi. Controlla ora.",
+      "visual_hint": "mano che esamina codice",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand inspecting code screen"
+    },
+    {
+      "hook": "Blocca tutto entro 48 ore",
+      "description": "Controlla cronologia API, blocca attività sospette e reimposta chiavi. Non aspettare notifiche.",
+      "visual_hint": "bottone rosso di emergenza",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "red emergency stop button",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Emergency_stop_button.jpg/960px-Emergency_stop_button.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/09/BraintrustTeamPhoto.jpg?resize=1200,900"
 }

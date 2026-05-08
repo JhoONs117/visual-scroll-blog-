@@ -23,5 +23,48 @@
   ],
   "pubDate": "Thu, 07 May 2026 21:49:24 +0000",
   "savedAt": "2026-05-07T22:53:37.658Z",
-  "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/"
+  "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
+  "carousel_slides": [
+    {
+      "hook": "Hanno detto sì a tutto",
+      "description": "I fondatori hanno accettato uno sconto del 40%. Non per bontà, ma perché senza alternative.",
+      "visual_hint": "Grafico crollo azionario rosso",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market crash graph"
+    },
+    {
+      "hook": "Valeva 500 milioni. Ora meno.",
+      "description": "Sei mesi fa la società valeva mezzo miliardo. Ora il mercato la sconta del 40%.",
+      "visual_hint": "Grafico con linea discendente",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "downward trend chart"
+    },
+    {
+      "hook": "Cassa in fiamme? Segnale certo",
+      "description": "Accettare condizioni peggiorative significa una cosa sola: la cassa sta finendo. Corsa contro il tempo.",
+      "visual_hint": "Clessidra con sabbia che scende",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "hourglass running out"
+    },
+    {
+      "hook": "Il tuo portafoglio replica quel panico",
+      "description": "Se non sai quanti mesi di autonomia hai, stai vivendo lo stesso schema di disperazione.",
+      "visual_hint": "Persona che guarda foglio conti",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "person reading financial paper"
+    },
+    {
+      "hook": "Quanti mesi ti restano?",
+      "description": "Se sono meno di 12, inizia subito un audit. Il mercato non aspetta.",
+      "visual_hint": "Calendario con cerchio rosso",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar marked deadline"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/05/Kodiak_EV_3.jpg?resize=1200,800"
 }

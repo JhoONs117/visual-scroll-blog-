@@ -22,5 +22,50 @@
     "I dati parlano chiaro."
   ],
   "savedAt": "2026-05-07T06:30:18.120Z",
-  "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/"
+  "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
+  "carousel_slides": [
+    {
+      "hook": "I backup diesel girano in silenzio",
+      "description": "I generatori diesel dei data center Microsoft funzionano molto più del dichiarato. Una crepa nel piano carbon-negative.",
+      "visual_hint": "Generatori diesel accesi",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "diesel generator data center"
+    },
+    {
+      "hook": "Centrali elettriche per l'AI",
+      "description": "Microsoft prometteva carbon-negative entro il 2030. Oggi i suoi data center richiedono enormi nuove centrali elettriche.",
+      "visual_hint": "Centrale elettrica enorme",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "power plant smoke",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Power_Plant_Smoke_Towers_during_Sunset.jpg/960px-Power_Plant_Smoke_Towers_during_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "I tuoi tool AI su fossili",
+      "description": "I generatori diesel accesi oltre i report ufficiali. I tuoi strumenti AI cloud potrebbero già funzionare a combustibili fossili.",
+      "visual_hint": "Grafico emissioni in crescita",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "carbon emissions chart",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Carbon_Emissions_Per_Passenger.png/960px-Carbon_Emissions_Per_Passenger.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Ogni query AI ha un costo",
+      "description": "Questa discrepanza non è solo greenwashing. Ogni query AI ha un costo ambientale reale che nessuno calcola.",
+      "visual_hint": "Mano su schermo dati",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching screen"
+    },
+    {
+      "hook": "Verifica l'impatto reale ora",
+      "description": "Controlla l'impatto reale del tuo carico di lavoro oggi. I dati sono nelle tue mani, non nei comunicati stampa.",
+      "visual_hint": "Spunta verde su report",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "green checkmark report"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1475927398.jpeg?resize=1200,674"
 }

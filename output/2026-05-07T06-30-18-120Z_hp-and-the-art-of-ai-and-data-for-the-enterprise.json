@@ -21,5 +21,52 @@
     "E li ha trasformati in decisioni."
   ],
   "savedAt": "2026-05-07T06:30:18.120Z",
-  "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/"
+  "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
+  "carousel_slides": [
+    {
+      "hook": "Quali dati nascondono il tuo vantaggio?",
+      "description": "Un modello AI addestrato sui tuoi dati caotici trova pattern che nessun umano vede: correlazioni, inefficienze, opportunità nascoste.",
+      "visual_hint": "Dati che diventano pattern luminosi",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "data center servers"
+    },
+    {
+      "hook": "Il 70% dei tuoi dati dorme.",
+      "description": "Paghi storage per informazioni che non danno ritorno. Il problema non è la quantità, ma il metodo per estrarre ciò che conta.",
+      "visual_hint": "Montagna di dati grigi inutilizzati",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "hard disk drives",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Seagate_ST33232A_hard_disk_inner_view.jpg/960px-Seagate_ST33232A_hard_disk_inner_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Caos dati? HP lo doma.",
+      "description": "HP analizza la massa di dati aziendali caotici. Un metodo per trasformare accumuli informi in segnali utilizzabili.",
+      "visual_hint": "Dati disordinati che si riordinano",
+      "layout_type": "sensor-zoom",
+      "icon": "tag",
+      "image_query": "network cables servers",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Network_cables_in_server_room.jpg/960px-Network_cables_in_server_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Dal rumore alle decisioni reali.",
+      "description": "HP trasforma il flusso di dati in decisioni operative per vendita, produzione e logistica. Non più rumore, ma segnali concreti.",
+      "visual_hint": "Mano che afferra un segnale luminoso",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot arm",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Robotic_Arm_Polishing_Guitars_at_Martin_Guitar_Factory.jpg/960px-Robotic_Arm_Polishing_Guitars_at_Martin_Guitar_Factory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Chiedi al tuo IT: cosa sprechiamo?",
+      "description": "Chiedi al reparto IT: quali dati raccogliamo ma non usiamo? Quella risposta vale più di qualsiasi dashboard.",
+      "visual_hint": "Domanda scritta su lavagna bianca",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "whiteboard markers eraser",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Whiteboard_marker_and_eraser.jpg/960px-Whiteboard_marker_and_eraser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/hps-ai-and-data-hero.webp"
 }

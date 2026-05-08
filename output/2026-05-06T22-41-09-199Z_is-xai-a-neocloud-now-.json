@@ -22,5 +22,52 @@
     "Prova un modello singolo e vedi se ti conviene."
   ],
   "savedAt": "2026-05-06T22:41:09.199Z",
-  "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/"
+  "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+  "carousel_slides": [
+    {
+      "hook": "GPU rental is not a cloud",
+      "description": "xAI offre solo GPU per Grok. Non è un cloud senza storage o database.",
+      "visual_hint": "Server rack with cables",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Only compute, no extras",
+      "description": "I cloud tradizionali hanno decine di servizi. xAI ha solo calcolo per stack snelli.",
+      "visual_hint": "Cloud icons missing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cloud computing",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cloud_computing-uk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "hook": "An accelerator, not a platform",
+      "description": "xAI è un’aggiunta rapida al tuo stack, non una piattaforma completa.",
+      "visual_hint": "Engine turbine detail",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Will GPU prices drop?",
+      "description": "Se xAI vende GPU a prezzo competitivo, i provider calano i prezzi o perdono lavori ML.",
+      "visual_hint": "Stock chart down arrow",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Test Grok, save up to 30%",
+      "description": "Prova subito un modello su Grok. Se costa meno, sposti le inferenze entro il trimestre.",
+      "visual_hint": "Cost comparison table",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "power plant",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Krafla_power_plant_-_Kr%C3%B6flust%C3%B6%C3%B0_-_alternative.jpg/960px-Krafla_power_plant_-_Kr%C3%B6flust%C3%B6%C3%B0_-_alternative.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024"
 }

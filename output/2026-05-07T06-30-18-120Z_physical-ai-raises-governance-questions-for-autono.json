@@ -22,5 +22,50 @@
     "Chi paga se sbagliano?"
   ],
   "savedAt": "2026-05-07T06:30:18.120Z",
-  "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/"
+  "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
+  "carousel_slides": [
+    {
+      "hook": "Chi firma per un robot?",
+      "description": "Un veicolo autonomo ha scelto chi salvare. Nessun umano ha firmato quella decisione.",
+      "visual_hint": "auto incidente bivio",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "autonomous car crash"
+    },
+    {
+      "hook": "Fabbriche senza persone",
+      "description": "Robot gestiscono produzione e logistica da soli. È già realtà in alcuni impianti.",
+      "visual_hint": "robot su catena",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot arm",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Robotic_Arm_Polishing_Guitars_at_Martin_Guitar_Factory.jpg/960px-Robotic_Arm_Polishing_Guitars_at_Martin_Guitar_Factory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Nessun responsabile chiaro",
+      "description": "Quando un sistema decide, chi paga? Proprietario, produttore o software? Leggi attuali non rispondono.",
+      "visual_hint": "documenti legali",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "legal documents gavel"
+    },
+    {
+      "hook": "Danni senza colpevole",
+      "description": "Incidenti e danni economici senza un colpevole. I tribunali non sanno come gestirlo.",
+      "visual_hint": "aula tribunale",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "courtroom empty"
+    },
+    {
+      "hook": "Sei esposto legalmente",
+      "description": "Verifica chi è responsabile per ogni decisione autonoma. Se non c'è risposta, sei a rischio.",
+      "visual_hint": "contratto con clausola",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "contract signature",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Anthony_Abbing%27s_signature_on_a_contract_in_1899.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Physical-AI-raises-new-governance-questions-for-autonomous-systems-scaled-e1777880180395.jpg"
 }

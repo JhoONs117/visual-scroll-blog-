@@ -21,5 +21,50 @@
     "Stripe e Square corrono, PayPal deve sbrigarsi.",
     "Prova un pagamento AI questa settimana."
   ],
-  "savedAt": "2026-05-06T13:47:46.346Z"
+  "savedAt": "2026-05-06T13:47:46.346Z",
+  "carousel_slides": [
+    {
+      "hook": "PayPal taglia, competitor investono",
+      "description": "Mentre rivali corrono sull'IA, PayPal taglia investimenti segnalando incertezza.",
+      "visual_hint": "grafico a barre in calo",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "stock market chart down"
+    },
+    {
+      "hook": "L'IA nei pagamenti promette",
+      "description": "Il CEO vuole automatizzare pagamenti con AI per tornare a fare tecnologia.",
+      "visual_hint": "mano con smartphone e IA",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "mobile payment smartphone",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mobile_Payment.jpg/960px-Mobile_Payment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Commissioni più basse?",
+      "description": "Il piano include ridurre commissioni e lanciare nuovi servizi AI per te.",
+      "visual_hint": "monete che cadono",
+      "layout_type": "sensor-zoom",
+      "icon": "tag",
+      "image_query": "coins falling graph"
+    },
+    {
+      "hook": "Stripe e Square accelerano",
+      "description": "Rivali investono miliardi in IA mentre PayPal annuncia tagli: scommessa sulla velocità.",
+      "visual_hint": "orologio con frecce",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "clock with arrows",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bournemouth%2C_Lansdowne_clock_tower_and_some_Red_Arrows_-_geograph.org.uk_-_1451999.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "hook": "Testa AI ora o resta indietro",
+      "description": "Pagamento AI costa meno di un caffè: testalo questa settimana per non perdere il passo.",
+      "visual_hint": "tazza di caffè e telefono",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "coffee cup smartphone",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hands-coffee-smartphone-technology_%2823698591814%29.jpg/960px-Hands-coffee-smartphone-technology_%2823698591814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ]
 }

@@ -21,5 +21,49 @@
     "Tagli revisioni e sprechi nascosti.",
     "Provalo gratis su un pilota."
   ],
-  "savedAt": "2026-05-06T12:34:54.696Z"
+  "savedAt": "2026-05-06T12:34:54.696Z",
+  "carousel_slides": [
+    {
+      "hook": "I bug costano più del debito",
+      "description": "I bug costano molto più del debito tecnico. Nessuno lo misura in tempo reale, finché non è tardi.",
+      "visual_hint": "bug impigliato in banconote",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "computer bug money stack"
+    },
+    {
+      "hook": "Audit automatico in tempo reale",
+      "description": "Ogni commit, build e deploy viene controllato da Bob. Automatizza l'audit dello SDLC mentre sviluppi.",
+      "visual_hint": "linee di codice scansionate",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "code on screen monitor",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Code_on_computer_monitor_%28Unsplash%29.jpg/960px-Code_on_computer_monitor_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Addio riunioni di fix notturne",
+      "description": "Tagli revisioni manuali e sprechi: riunioni di fix, attese QA, rollback. Bob li ferma prima che nascano.",
+      "visual_hint": "calendar barrato con X",
+      "layout_type": "sensor-zoom",
+      "icon": "tag",
+      "image_query": "calendar with red X",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Calendar_with_red_X.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "hook": "Costi sotto controllo, non a sprint",
+      "description": "Bob ferma i costi fuori controllo in tempo reale, non a fine sprint. Prima che diventino debito tecnico.",
+      "visual_hint": "grafico che scende bloccato",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "stock chart green arrow"
+    },
+    {
+      "hook": "30 giorni, meno di un abbonamento",
+      "description": "Provalo su un progetto pilota in 30 giorni. Costa meno di un abbonamento Spotify. Fallo ora.",
+      "visual_hint": "telefono con pulsante CTA",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone app button"
+    }
+  ]
 }

@@ -21,5 +21,49 @@
     "I grandi investitori scommettono su di lei.",
     "Segui dove investe: cambierà tutto."
   ],
-  "savedAt": "2026-05-05T15:25:02.038Z"
+  "savedAt": "2026-05-05T15:25:02.038Z",
+  "carousel_slides": [
+    {
+      "hook": "Ha lasciato a16z per questo",
+      "description": "Katie Haun raccoglie 1 miliardo per due fondi crypto separati. Il mercato non punta più solo su Bitcoin.",
+      "visual_hint": "Milestone con effetto zoom",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "crypto growth chart"
+    },
+    {
+      "hook": "Due fondi, due strategie",
+      "description": "Uno investe in startup early-stage, l'altro in token liquidi. Coprono l'intero ciclo di vita crypto.",
+      "visual_hint": "Due frecce divergenti",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "two arrows diverging"
+    },
+    {
+      "hook": "Il primo deal cambierà tutto",
+      "description": "Primo fondo punta su team pre-product-market fit. Secondo compra token già negoziati. Mossa opposta ma complementare.",
+      "visual_hint": "Lente d'ingrandimento su deal",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass contract",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff/lossy-page1-960px-Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Cosa cambia per i VC crypto",
+      "description": "Haun costruisce una macchina da venture capital completa. Se funziona, diventa il modello per tutti i fondi futuri.",
+      "visual_hint": "Mappa mentale in espansione",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "mind map network",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Mind_Map_Gene_Co-Expression_Networks.drawio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "hook": "Segui i suoi deal pubblici",
+      "description": "Quando investirà, decine di fondi seguiranno. Quel deal cambierà rotta per un intero settore.",
+      "visual_hint": "Radar con punti luccicanti",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "radar screen scanning"
+    }
+  ]
 }

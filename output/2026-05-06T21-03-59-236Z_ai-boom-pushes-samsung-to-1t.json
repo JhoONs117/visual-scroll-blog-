@@ -21,5 +21,49 @@
     "Tutta la tua supply chain dipende da loro ora.",
     "Segui la prossima call per capire il futuro."
   ],
-  "savedAt": "2026-05-06T21:03:59.236Z"
+  "savedAt": "2026-05-06T21:03:59.236Z",
+  "carousel_slides": [
+    {
+      "hook": "Profitti giù del 40%",
+      "description": "Samsung corre verso 1 trilione, ma gli utili in altri settori crollano del 40%. Punto di svolta.",
+      "visual_hint": "Grafico borsa in caduta",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "AI spinge i ricavi",
+      "description": "Ricavi +60% grazie ai chip AI. La divisione semiconduttori traina il gruppo.",
+      "visual_hint": "Chip processore brillante",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "semiconductor chip"
+    },
+    {
+      "hook": "Smartphone e display in crisi",
+      "description": "Il resto dell'azienda perde colpi: smartphone, elettrodomestici, display. Utili giù del 40%.",
+      "visual_hint": "Smartphone rotto accanto",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken smartphone"
+    },
+    {
+      "hook": "Supply chain ora dipende",
+      "description": "Server, cloud, dispositivi: tutta la filiera tech si ferma se Samsung inciampa.",
+      "visual_hint": "Mano tocca schermo server",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "data center servers",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/960px-BalticServers_data_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "La prossima call deciderà",
+      "description": "Investitori in attesa: la prossima call dirà se è picco o trend. Segna la data.",
+      "visual_hint": "Calendario con data segnata",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "calendar with mark",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/February_1902_calendar_with_Starling_-_Theo_van_Hoytema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+  ]
 }

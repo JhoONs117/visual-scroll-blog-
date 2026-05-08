@@ -21,5 +21,47 @@
     "Gli sviluppatori dovranno riscrivere le app",
     "Scegli adesso o perdi i tuoi dati"
   ],
-  "savedAt": "2026-05-06T13:47:46.346Z"
+  "savedAt": "2026-05-06T13:47:46.346Z",
+  "carousel_slides": [
+    {
+      "hook": "Gemini e ChatGPT fuori da iOS 27",
+      "description": "Apple non includerà i modelli AI esterni tra le opzioni di scelta nella nuova beta.",
+      "visual_hint": "porte chiuse con cartello divieto",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "no entry sign door"
+    },
+    {
+      "hook": "Siri non sarà più sola",
+      "description": "Il sistema supporterà provider selezionati da Apple, ma i giganti esterni restano esclusi dall'ecosistema.",
+      "visual_hint": "pannello di controllo con icone",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "control panel lock screen"
+    },
+    {
+      "hook": "Sviluppatori: dovrai interfacciarti col layer AI",
+      "description": "Le app dovranno adattarsi al nuovo sistema AI di Apple, non ai singoli provider. Svolta obbligata.",
+      "visual_hint": "sviluppatore al computer",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "developer typing code"
+    },
+    {
+      "hook": "Scelta vincolata: dati persi se cambi modello",
+      "description": "Una volta scelto il provider, la cronologia resta bloccata. Cambiare significa perdere tutto.",
+      "visual_hint": "ingranaggio con catena e lucchetto",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "lock chain gear"
+    },
+    {
+      "hook": "Testa la compatibilità ora: iOS 27 tra 6 mesi",
+      "description": "Chi sviluppa app AI deve già verificare la compatibilità col nuovo sistema. Tempo contato.",
+      "visual_hint": "calendario con conto alla rovescia",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "calendar countdown deadline"
+    }
+  ]
 }

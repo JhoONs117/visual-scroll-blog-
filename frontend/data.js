@@ -61,7 +61,8 @@ window.ARTICLES = [
     ],
     "pubDate": "Fri, 08 May 2026 14:54:00 +0000",
     "savedAt": "2026-05-08T15:15:15.058Z",
-    "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/"
+    "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/ringcentral-ai-hero_x1440.webp"
   },
   {
     "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
@@ -88,7 +89,51 @@ window.ARTICLES = [
     ],
     "pubDate": "Thu, 07 May 2026 19:57:59 +0000",
     "savedAt": "2026-05-08T13:12:25.936Z",
-    "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/"
+    "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+    "carousel_slides": [
+      {
+        "hook": "Gratis non basta. Il problema?",
+        "description": "Perplexity regala l'abbonamento a tutti. Ma capire se lo userai davvero dopo la prova è la vera sfida.",
+        "visual_hint": "scatola regalo vuota",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "free gift box"
+      },
+      {
+        "hook": "Il PC AI è già sul tuo Mac",
+        "description": "Su Mac hai già un computer personale AI. Niente nuovo hardware, solo un aggiornamento software che trasforma tutto.",
+        "visual_hint": "Mac con logo AI",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "apple mac laptop",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Apple-desk-laptop-working_%2823698803763%29.jpg/960px-Apple-desk-laptop-working_%2823698803763%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Controlla le app con la voce",
+        "description": "Con la voce apri file, scrivi messaggi, cerchi informazioni in tempo reale. Addio mouse e tastiera.",
+        "visual_hint": "persona parla a schermo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "voice command screen"
+      },
+      {
+        "hook": "Non è un assistente lento",
+        "description": "Funziona come un copilota reattivo: esegue subito i comandi mentre lavori su altro. Veloce e preciso.",
+        "visual_hint": "copilota virtuale",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot hand typing"
+      },
+      {
+        "hook": "Costa meno di Spotify. Provalo",
+        "description": "Attivalo gratis oggi. Tra una settimana decidi se lo userai davvero. Nessun impegno, solo vantaggi.",
+        "visual_hint": "icona Spotify vs Perplexity",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "spotify vs perplexity"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/personal-computer.jpeg?w=1199"
   },
   {
     "title": "Airbnb says AI now writes 60% of its new code",
@@ -261,7 +306,52 @@ window.ARTICLES = [
     ],
     "pubDate": "Thu, 07 May 2026 20:59:09 +0000",
     "savedAt": "2026-05-08T07:18:06.158Z",
-    "link": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/"
+    "link": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
+    "carousel_slides": [
+      {
+        "hook": "Chiavi che aprono ogni porta",
+        "description": "Un gruppo dice di aver rubato certificati di accesso globali. Chiavi che aprono qualsiasi account Canvas senza lasciare traccia.",
+        "visual_hint": "Scritta Hacked su portale",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "hacked login screen"
+      },
+      {
+        "hook": "Stessa firma del precedente attacco?",
+        "description": "I ricercatori non escludono la stessa firma dell'attacco Instructure. Il bersaglio non è più una scuola sola.",
+        "visual_hint": "Due impronte digitali sovrapposte",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "fingerprint comparison",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fingerprint_Comparison.jpg/960px-Fingerprint_Comparison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "L'avvisaglia di un pericolo più grande",
+        "description": "La scritta 'Hacked' è solo l'inizio. Chi ha le credenziali può entrare in qualsiasi account Canvas senza lasciare traccia.",
+        "visual_hint": "Lente di ingrandimento su schermo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass screen",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Virtual_magnifying_glass_screenshot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      {
+        "hook": "La tua scuola potrebbe essere la prossima",
+        "description": "Non serve un attacco mirato: basta che il gruppo decida di vendere o usare quei certificati per colpire chiunque.",
+        "visual_hint": "Mano che clicca su icona pericolo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand clicking warning"
+      },
+      {
+        "hook": "Controlla i login oggi stesso",
+        "description": "Se la tua scuola usa ancora Canvas, cambia password e chiedi all'amministratore di verificare i log delle ultime 48 ore.",
+        "visual_hint": "Checklist su schermo blu",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "checklist on monitor"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/shinyhunters-instructure-canvas-login-defacement.jpg?resize=1200,807"
   },
   {
     "title": "Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?",
@@ -288,7 +378,53 @@ window.ARTICLES = [
     ],
     "pubDate": "Thu, 07 May 2026 18:36:29 +0000",
     "savedAt": "2026-05-08T02:11:32.120Z",
-    "link": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/"
+    "link": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/",
+    "carousel_slides": [
+      {
+        "hook": "E se bastasse eliminare la competizione sui soldi?",
+        "description": "Lovable alza tutti del 10% automatico, zero merito: solo essere lì da un anno.",
+        "visual_hint": "fogli di aumento su scrivania",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "office desk papers"
+      },
+      {
+        "hook": "I bonus negoziati creano invidia.",
+        "description": "Bonus negoziati generano invidia, silenzi e scontri. La tensione sale già in corridoio.",
+        "visual_hint": "persone che si guardano in corridoio",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office corridor people",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/SCO_corridor_in_Florham_Park_New_Jersey_office_guarded_by_SCOland_Sheriff_April_1996.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      {
+        "hook": "Smetti di litigare per una promozione.",
+        "description": "Quando lo stipendio non è più un'arma di ricatto, smetti di litigare per una promozione.",
+        "visual_hint": "stretta di mano in ufficio",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "handshake office",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Business_man_and_woman_handshake_in_work_office.jpg/960px-Business_man_and_woman_handshake_in_work_office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Aumento automatico o meritocrazia?",
+        "description": "Chiediti: aumento automatico o meritocrazia? Se non rispondi ora, lo farà il tuo team.",
+        "visual_hint": "persona pensierosa alla scrivania",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person thinking desk",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lt._Cmdr._Zeita_Merchant_sits_on_the_edge_of_her_desk_thinking_about_all_of_the_women_who_have_given_her_guidance_over_the_years_130306-G-EK967-001.jpg/960px-Lt._Cmdr._Zeita_Merchant_sits_on_the_edge_of_her_desk_thinking_about_all_of_the_women_who_have_given_her_guidance_over_the_years_130306-G-EK967-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Prova a chiedere al tuo team.",
+        "description": "La cultura tossica nasce dai bonus negoziati. Prova a chiedere: aumento automatico o meritocrazia?",
+        "visual_hint": "domanda scritta su lavagna",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "whiteboard question"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800"
   },
   {
     "title": "OpenAI launches new voice intelligence features in its API",
@@ -315,7 +451,53 @@ window.ARTICLES = [
     ],
     "pubDate": "Thu, 07 May 2026 22:24:50 +0000",
     "savedAt": "2026-05-08T02:11:25.910Z",
-    "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/"
+    "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "carousel_slides": [
+      {
+        "hook": "La pausa che fa la differenza",
+        "description": "Il modello non trascrive, interpreta le sfumature vocali come incertezza e tono",
+        "visual_hint": "Pausa vocale con onde sonore",
+        "layout_type": "hero",
+        "icon": "heart",
+        "image_query": "sound wave visualization"
+      },
+      {
+        "hook": "Voci che sentono le emozioni",
+        "description": "Nuova API testo a voce rileva emozioni e le riproduce: se ridi, lui ride con te",
+        "visual_hint": "Onda emotiva che cambia colore",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "voice waveform spectrum",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Voice_waveform_and_spectrum.png/960px-Voice_waveform_and_spectrum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Sa quando stai per parlare",
+        "description": "Voice activity detection capisce pause e incertezza, cambia approccio in tempo reale",
+        "visual_hint": "Microfono con segnale di attesa",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "microphone close up",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Carl_Albert_speaking_in_a_microphone._Close-up.jpg/960px-Carl_Albert_speaking_in_a_microphone._Close-up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Assistenti che sentono il tono",
+        "description": "Crea bot che capiscono se sei arrabbiato o stanco e modificano risposta, prezzo bassissimo",
+        "visual_hint": "Mano che tocca interfaccia vocale",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "ai assistant interface",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Wanda_AI_Assistant_Interface_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      {
+        "hook": "Provalo ora con API nuova",
+        "description": "10 minuti su platform.openai.com, API tts-1-hd, e hai un assistente che ti ascolta davvero",
+        "visual_hint": "Codice API con freccia play",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "openai api code"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024"
   },
   {
     "title": "Google unveils Whoop-like screenless Fitbit Air",
@@ -342,7 +524,50 @@ window.ARTICLES = [
     ],
     "pubDate": "Thu, 07 May 2026 15:17:38 +0000",
     "savedAt": "2026-05-07T22:53:42.786Z",
-    "link": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/"
+    "link": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/",
+    "carousel_slides": [
+      {
+        "hook": "Niente schermo, più dati biologici",
+        "description": "Google toglie il display dal nuovo Fitbit Air e lo sostituisce con sensori tattili avanzati.",
+        "visual_hint": "Fitbit senza schermo accanto a orologio",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartwatch without display"
+      },
+      {
+        "hook": "Sensori tattili avanzati",
+        "description": "Raccoglie più dati biologici di un orologio tradizionale: temperatura, sudorazione, battito in continuo.",
+        "visual_hint": "Primo piano sensori sul dispositivo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "health sensor array"
+      },
+      {
+        "hook": "Segnali sulla pelle, non occhi",
+        "description": "Non vedrai mai le notifiche: solo segnali sulla pelle. Impari a riconoscerli al tatto.",
+        "visual_hint": "Braccio con vibrazione tattile",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "haptic feedback wrist"
+      },
+      {
+        "hook": "Indossalo e dimentica il polso",
+        "description": "Ricevi un tocco per ogni avviso. Costa meno di un abbonamento Spotify. Provalo questa settimana.",
+        "visual_hint": "Mano con Fitbit Air al polso",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "wrist wearable device"
+      },
+      {
+        "hook": "Schermo? Mai più.",
+        "description": "Provalo oggi: indossalo e dimentica il polso. Il futuro del fitness è tattile.",
+        "visual_hint": "Persona sorridente mostra polso",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "person smiling wrist"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/fitbit-air.png?resize=1200,752"
   },
   {
     "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
@@ -369,7 +594,50 @@ window.ARTICLES = [
     ],
     "pubDate": "Thu, 07 May 2026 21:49:24 +0000",
     "savedAt": "2026-05-07T22:53:37.658Z",
-    "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/"
+    "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
+    "carousel_slides": [
+      {
+        "hook": "Hanno detto sì a tutto",
+        "description": "I fondatori hanno accettato uno sconto del 40%. Non per bontà, ma perché senza alternative.",
+        "visual_hint": "Grafico crollo azionario rosso",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market crash graph"
+      },
+      {
+        "hook": "Valeva 500 milioni. Ora meno.",
+        "description": "Sei mesi fa la società valeva mezzo miliardo. Ora il mercato la sconta del 40%.",
+        "visual_hint": "Grafico con linea discendente",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "downward trend chart"
+      },
+      {
+        "hook": "Cassa in fiamme? Segnale certo",
+        "description": "Accettare condizioni peggiorative significa una cosa sola: la cassa sta finendo. Corsa contro il tempo.",
+        "visual_hint": "Clessidra con sabbia che scende",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "hourglass running out"
+      },
+      {
+        "hook": "Il tuo portafoglio replica quel panico",
+        "description": "Se non sai quanti mesi di autonomia hai, stai vivendo lo stesso schema di disperazione.",
+        "visual_hint": "Persona che guarda foglio conti",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "person reading financial paper"
+      },
+      {
+        "hook": "Quanti mesi ti restano?",
+        "description": "Se sono meno di 12, inizia subito un audit. Il mercato non aspetta.",
+        "visual_hint": "Calendario con cerchio rosso",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar marked deadline"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/Kodiak_EV_3.jpg?resize=1200,800"
   },
   {
     "title": "Tesla Model Y is first car to meet new US driver assistance safety benchmark",
@@ -396,7 +664,52 @@ window.ARTICLES = [
     ],
     "pubDate": "Thu, 07 May 2026 20:10:48 +0000",
     "savedAt": "2026-05-07T20:59:19.264Z",
-    "link": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/"
+    "link": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/",
+    "carousel_slides": [
+      {
+        "hook": "Stesso hardware, fallimento totale",
+        "description": "Altri costruttori hanno fallito lo stesso test, pur avendo hardware identico. Cosa hanno sbagliato? Il segreto è nell'ingaggio.",
+        "visual_hint": "Trofeo e auto parcheggiate",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "car test track"
+      },
+      {
+        "hook": "Non è solo tecnologia",
+        "description": "Il nuovo benchmark misura quanto il conducente resta coinvolto nella guida, non quanti schermi ci sono. Tesla Model Y ha capito la differenza.",
+        "visual_hint": "Concentrazione",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "driver hands wheel",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/R.E._Peary%2C_Jr._at_Sydney%2C_drivers_wheel_in_hand_LCCN2014684237.jpg/960px-R.E._Peary%2C_Jr._at_Sydney%2C_drivers_wheel_in_hand_LCCN2014684237.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Auto identiche, voti opposti",
+        "description": "Sulla carta sembravano uguali, ma i punteggi finali hanno preso strade opposte. Il test premia chi mette il conducente al centro.",
+        "visual_hint": "Grafico a confronto",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "safety rating chart"
+      },
+      {
+        "hook": "La scelta cambia tutto",
+        "description": "Prima di comprare la prossima auto, controlla il suo punteggio. Potrebbe cambiare la tua decisione, non solo per la sicurezza.",
+        "visual_hint": "Maniglia e chiavi",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "car key hand",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_President%2C_Smt._Pratibha_Devisingh_Patil_handing_over_the_key_of_permanent_houses_built_for_the_Tsunami_victims_of_Kinyuka_village_in_Car_Nicobar_Islands%2C_on_December_26%2C_2007.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Controlla la tua ora",
+        "description": "Confronta la sicurezza della tua auto attuale con il nuovo benchmark. Sapere fa la differenza.",
+        "visual_hint": "Schermo con punteggio",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone safety app"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/tesla-model-y-juniper-north-america.jpg?resize=1200,850"
   },
   {
     "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
@@ -423,7 +736,52 @@ window.ARTICLES = [
     ],
     "pubDate": "Thu, 07 May 2026 20:20:20 +0000",
     "savedAt": "2026-05-07T20:59:14.576Z",
-    "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/"
+    "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+    "carousel_slides": [
+      {
+        "hook": "Non dice cosa hai scritto.",
+        "description": "OpenAI non rivela il contenuto dei tuoi messaggi al contatto fidato.",
+        "visual_hint": "Chat screen with hidden text",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "chat bubble privacy"
+      },
+      {
+        "hook": "Si attiva su autolesionismo.",
+        "description": "La funzione scatta quando il sistema rileva possibili pensieri di autolesionismo.",
+        "visual_hint": "Warning alert on device",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone alert screen"
+      },
+      {
+        "hook": "Tu autorizzi l'avviso.",
+        "description": "Prima di inviare la notifica, ChatGPT ti chiede se vuoi procedere.",
+        "visual_hint": "Yes/No prompt overlay",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "yes no button",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/LGBT%2B_together_for_Yes._button%2C_Groningen_%282019%29.jpg/960px-LGBT%2B_together_for_Yes._button%2C_Groningen_%282019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Nessun contenuto condiviso.",
+        "description": "Il contatto riceve solo una notifica generica, non i tuoi messaggi privati.",
+        "visual_hint": "Notification with generic text",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "notification icon phone",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/HSPA_sign_shown_in_notification_bar_on_an_Android_powered_smartphone-_2014-04-28_13-56.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      {
+        "hook": "Attivala subito gratis.",
+        "description": "Vai nelle impostazioni privacy di ChatGPT e attiva il contatto fidato.",
+        "visual_hint": "Settings menu with toggle",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "privacy settings app"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024"
   },
   {
     "title": "Google’s $9.99-per-month AI health coach launches May 19",
@@ -450,7 +808,50 @@ window.ARTICLES = [
       "Funziona con Fitbit e Pixel Watch.",
       "Il rischio? Falsa sicurezza.",
       "Provalo gratis, poi chiama il tuo dottore."
-    ]
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Falso sicuro? L'AI non cura",
+        "description": "Google lancia un coach AI salute a $9.99/mese ma non diagnostica. Rischi falsa sicurezza e ritardo visite.",
+        "visual_hint": "schermo con cuore e punto interrogativo",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone health app screen"
+      },
+      {
+        "hook": "Fitbit e Pixel Watch dal 19/5",
+        "description": "Monitora sonno, attività e cuore. Dati utili, ma l'AI non è un dottore. Fidarsi troppo può essere pericoloso.",
+        "visual_hint": "smartwatch su polso",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "fitbit smartwatch on wrist"
+      },
+      {
+        "hook": "L'algoritmo dice 'tutto ok'?",
+        "description": "Il rischio è ignorare sintomi seri per un responso automatico. Un 'tutto ok' dall'AI non sostituisce una visita.",
+        "visual_hint": "mano che tiene cuore digitale",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "digital heart pulse line"
+      },
+      {
+        "hook": "Si chiama 'coach', non dottore",
+        "description": "Google lo sa: non è diagnostico. Ma molti utenti potrebbero non distinguere. Falsa sicurezza senza controllo medico.",
+        "visual_hint": "mano umana davanti a schermo AI",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand touching smartphone screen"
+      },
+      {
+        "hook": "Provalo gratis? Poi chiedi al dottore",
+        "description": "Costa meno di Spotify. Provalo gratis, ma prima di decisioni sulla salute consulta il tuo medico.",
+        "visual_hint": "smartphone con schermo cta",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "google fit app icon smartphone"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/HealthApp-3-CoachMessages.width-1000.format-webp.webp?w=1000"
   },
   {
     "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
@@ -477,7 +878,54 @@ window.ARTICLES = [
       "Il segreto? Hanno aperto tutto.",
       "Tu usi la stessa AI gratis.",
       "Scarica il modello e testalo."
-    ]
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Codice aperto vale 20 miliardi",
+        "description": "Startup cinese raccoglie $2B: ha aperto il codice, non lo tiene chiuso. Tu puoi usare la stessa AI.",
+        "visual_hint": "Fumetti di dollari che cadono",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Vale $20 miliardi, ma regala tutto",
+        "description": "Moonshot AI vale $20B. Hanno scelto open source contro ogni logica commerciale: la potenza è tua.",
+        "visual_hint": "Grafico a barre che sale",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Zero licenze, stessa potenza",
+        "description": "Non è una versione ridotta: è la stessa AI dei modelli chiusi, ma senza abbonamento mensile.",
+        "visual_hint": "Lucchetto che si apre",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Scarica e gira dove vuoi",
+        "description": "Il costo? Zero. Scarichi il modello e lo fai girare dove vuoi. Vince chi ha più controllo.",
+        "visual_hint": "Freccia che scarica",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Testalo ora contro i chiusi",
+        "description": "Scarica il modello oggi: stessa potenza, nessuna licenza. Prova chi vince.",
+        "visual_hint": "Dita che cliccano",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "solar panels",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ground_mounted_solar_panels.gk.jpg/960px-Ground_mounted_solar_panels.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024"
   },
   {
     "title": "AI helping ease the UK’s NHS burden",
@@ -504,7 +952,53 @@ window.ARTICLES = [
       "Meno pressione sui medici esausti.",
       "Chiedi al tuo dottore: lo usano?"
     ],
-    "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/"
+    "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+    "carousel_slides": [
+      {
+        "hook": "Diagnosi in minuti, non ore",
+        "description": "Un software di AI triage analizza i sintomi in secondi e decide le priorità.",
+        "visual_hint": "Orologio che scorre veloce",
+        "layout_type": "hero",
+        "icon": "heart",
+        "image_query": "digital clock closeup"
+      },
+      {
+        "hook": "Liste d'attesa giù del 30%",
+        "description": "L'AI taglia le attese. Non è futuro, è già nei reparti NHS.",
+        "visual_hint": "Grafico a barre in calo",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "stock market chart",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Pazienti urgenti prima di tutti",
+        "description": "Chi ha urgenza reale viene visitato in minuti, senza intasare il pronto soccorso.",
+        "visual_hint": "Schermo monitor con priorità",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "hospital monitor screen",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dormer_Details_and_Monitor_Window_and_Ventilation_Screen_Interior_Elevation_-_U._S._Naval_Asylum%2C_Biddle_Hall%2C_Gray%27s_Ferry_Avenue%2C_Philadelphia%2C_Philadelphia_HABS_PA%2C51-PHILA%2C577A-_%28sheet_17_of_30%29.png/960px-thumbnail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Costa meno di un abbonamento",
+        "description": "AI triage costa meno di Netflix al mese per reparto. Meno pressione sul personale.",
+        "visual_hint": "Maniglia di una porta",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "doctor hand tablet"
+      },
+      {
+        "hook": "Chiedi al tuo medico ora",
+        "description": "Chiedi al tuo GP: usano già l'AI? Potrebbe ridurre la tua attesa.",
+        "visual_hint": "Icona domanda ingrandita",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "doctor patient consultation",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ASC_Leiden_-_Coutinho_Collection_-_18_01_-_Medical_consultation_in_Sara%2C_Guinea-Bissau_by_a_Cuban_doctor_-_1974.tif/lossy-page1-960px-ASC_Leiden_-_Coutinho_Collection_-_18_01_-_Medical_consultation_in_Sara%2C_Guinea-Bissau_by_a_Cuban_doctor_-_1974.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      }
+    ],
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/ai-in-the-nhs-hero_x1440.webp"
   },
   {
     "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
@@ -530,7 +1024,54 @@ window.ARTICLES = [
       "La tua voce vale più del tuo CV ora."
     ],
     "savedAt": "2026-05-07T06:30:18.120Z",
-    "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/"
+    "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
+    "carousel_slides": [
+      {
+        "hook": "La tua voce, il loro guadagno",
+        "description": "a16z investe 22,75 milioni in Ethos. Il vero asset? Le tue registrazioni vocali per addestrare la loro AI.",
+        "visual_hint": "Logo Ethos e banconote",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market graph"
+      },
+      {
+        "hook": "Competenze vocali per accesso",
+        "description": "La piattaforma scambia accesso a esperti con tue registrazioni vocali. Patto tra pari? Il potere è tutto loro.",
+        "visual_hint": "Microfono e cuffie tech",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "microphone studio",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Studio_microphone_with_pop-shield_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      {
+        "hook": "Voce: asset scalabile all'infinito",
+        "description": "Per loro la tua voce è un asset infinito. Per te è un pagamento una tantum che non rivedrai mai più.",
+        "visual_hint": "Onda sonora in espansione",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "La firma vocale è il tuo biglietto",
+        "description": "Registri un consiglio, cedi un campione che varrà più del tuo CV. La voce diventa il tuo biglietto da visita.",
+        "visual_hint": "Mano che tiene un badge",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Registra il tuo primo insight",
+        "description": "Il pagamento è la prova che hai appena messo in vendita il tuo miglior asset: la tua voce.",
+        "visual_hint": "Check verde su schermo",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ground_mounted_solar_panels.gk.jpg/960px-Ground_mounted_solar_panels.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-05-at-23.18.12.jpeg?resize=1200,812"
   },
   {
     "title": "Five architects of the AI economy explain where the wheels are coming off",
@@ -556,7 +1097,52 @@ window.ARTICLES = [
       "Check your vendor's margins before you scale any deeper."
     ],
     "savedAt": "2026-05-07T06:30:18.120Z",
-    "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/"
+    "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+    "carousel_slides": [
+      {
+        "hook": "Their AI is already broken.",
+        "description": "Five AI economy architects admit the system is flawed and unsustainable.",
+        "visual_hint": "Broken gear symbol",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "server room broken"
+      },
+      {
+        "hook": "Scaling laws hit a wall.",
+        "description": "More data and hardware no longer guarantee better deep learning results.",
+        "visual_hint": "Graph flattening curve",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Costs rise faster than profits.",
+        "description": "New chips and datasets cost exponentially more, but returns are flattening.",
+        "visual_hint": "Exponential vs flat line",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "graph arrow up"
+      },
+      {
+        "hook": "Your next tool may crash.",
+        "description": "Many AI vendors run on thin margins and unsustainable growth—be ready for price hikes or failure.",
+        "visual_hint": "Warning sign with tool",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "warning sign technology",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warning_sign_in_cologne.jpg/960px-Warning_sign_in_cologne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Audit margins before scaling.",
+        "description": "If vendors can't show unit economics, you'll be the one paying the price.",
+        "visual_hint": "Magnifying glass on document",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "audit document ledger"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/55252231372_4afd845df5_o.jpg?resize=1200,800"
   },
   {
     "title": "Is xAI a neocloud now?",
@@ -582,7 +1168,54 @@ window.ARTICLES = [
       "Prova un modello singolo e vedi se ti conviene."
     ],
     "savedAt": "2026-05-06T22:41:09.199Z",
-    "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/"
+    "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+    "carousel_slides": [
+      {
+        "hook": "GPU rental is not a cloud",
+        "description": "xAI offre solo GPU per Grok. Non è un cloud senza storage o database.",
+        "visual_hint": "Server rack with cables",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Only compute, no extras",
+        "description": "I cloud tradizionali hanno decine di servizi. xAI ha solo calcolo per stack snelli.",
+        "visual_hint": "Cloud icons missing",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "cloud computing",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cloud_computing-uk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      {
+        "hook": "An accelerator, not a platform",
+        "description": "xAI è un’aggiunta rapida al tuo stack, non una piattaforma completa.",
+        "visual_hint": "Engine turbine detail",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Will GPU prices drop?",
+        "description": "Se xAI vende GPU a prezzo competitivo, i provider calano i prezzi o perdono lavori ML.",
+        "visual_hint": "Stock chart down arrow",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Test Grok, save up to 30%",
+        "description": "Prova subito un modello su Grok. Se costa meno, sposti le inferenze entro il trimestre.",
+        "visual_hint": "Cost comparison table",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "power plant",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Krafla_power_plant_-_Kr%C3%B6flust%C3%B6%C3%B0_-_alternative.jpg/960px-Krafla_power_plant_-_Kr%C3%B6flust%C3%B6%C3%B0_-_alternative.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024"
   },
   {
     "title": "Google updates AI search to include quotes from Reddit and other sources",
@@ -690,7 +1323,53 @@ window.ARTICLES = [
       "Poi decidi chi aveva ragione."
     ],
     "savedAt": "2026-05-06T19:24:59.578Z",
-    "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/"
+    "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+    "carousel_slides": [
+      {
+        "hook": "Voleva fondere tutto con Tesla",
+        "description": "Musk voleva unire OpenAI a Tesla. Brockman e Altman dissero no. Tensione esplosiva.",
+        "visual_hint": "Due strade che si dividono",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "road fork divergence"
+      },
+      {
+        "hook": "Il controllo diretto era il vero obiettivo",
+        "description": "Non solo tecnologia: Musk spingeva per avere OpenAI dentro Tesla. Indipendenza a rischio.",
+        "visual_hint": "Elon Musk ritratto serio",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Elon Musk portrait",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elon_Musk_2015.jpg/960px-Elon_Musk_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Rifiutarono: AI indipendente, non divisione auto",
+        "description": "Brockman e Altman scelsero l'indipendenza. L'AI non doveva diventare un reparto di Tesla.",
+        "visual_hint": "Freno a mano tirato",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "emergency brake handle",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Emergency_brake_handle_in_%C4%8CD_class_AB.jpg/960px-Emergency_brake_handle_in_%C4%8CD_class_AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Oggi miliardi separati, lezioni divergenti",
+        "description": "OpenAI vale miliardi. Tesla ha la sua AI. Strade separate, insegnamenti diversi.",
+        "visual_hint": "Due binari che si allontanano",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "railroad tracks diverging"
+      },
+      {
+        "hook": "Leggi il racconto, poi giudica",
+        "description": "Brockman ha raccontato tutto. Solo dopo puoi decidere chi aveva ragione.",
+        "visual_hint": "Pollice in su vs pollice in giù",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "thumbs up thumbs down",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Thumbs_up_and_thumbs_down_letter_box%2C_Hillegersberg%2C_Rotterdam_%282021%29_01.jpg/960px-Thumbs_up_and_thumbs_down_letter_box%2C_Hillegersberg%2C_Rotterdam_%282021%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800"
   },
   {
     "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
@@ -1178,7 +1857,51 @@ window.ARTICLES = [
       "I tuoi soldi in AI dipendono da questo processo.",
       "Leggi la sua testimonianza, ora o mai più."
     ],
-    "savedAt": "2026-05-05T16:15:26.750Z"
+    "savedAt": "2026-05-05T16:15:26.750Z",
+    "carousel_slides": [
+      {
+        "hook": "Corsa all'AGI fuori controllo",
+        "description": "Esperto di Musk avverte: la corsa all'AGI è fuori controllo. Non un CEO ma un ricercatore.",
+        "visual_hint": "Cronometro su chip AI",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "artificial intelligence chip"
+      },
+      {
+        "hook": "Chi guida lo sviluppo?",
+        "description": "Stiamo perdendo la guida dell'AI. Aziende competono ignorando i freni di sicurezza.",
+        "visual_hint": "Macchina senza volante",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "self driving car",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Waymo_self-driving_car_front_view.gk.jpg/960px-Waymo_self-driving_car_front_view.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Processo cambierà tutto",
+        "description": "Testimonianza in processo che ridefinirà il futuro AI. Tue azioni dipendono dal verdetto.",
+        "visual_hint": "Aula di tribunale vuota",
+        "layout_type": "sensor-zoom",
+        "icon": "waves",
+        "image_query": "courtroom empty"
+      },
+      {
+        "hook": "Investimenti a rischio",
+        "description": "Regolazioni future potrebbero gelare gli investimenti o scatenare una corsa al rialzo.",
+        "visual_hint": "Grafico borsa in caduta",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Leggi prima del mercato",
+        "description": "Leggi testimonianza completa prima che il mercato reagisca. Costa meno di un caffè.",
+        "visual_hint": "Tazza caffè e documento",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "coffee cup document"
+      }
+    ]
   },
   {
     "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
@@ -1430,7 +2153,51 @@ window.ARTICLES = [
       "I grandi investitori scommettono su di lei.",
       "Segui dove investe: cambierà tutto."
     ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
+    "savedAt": "2026-05-05T15:25:02.038Z",
+    "carousel_slides": [
+      {
+        "hook": "Ha lasciato a16z per questo",
+        "description": "Katie Haun raccoglie 1 miliardo per due fondi crypto separati. Il mercato non punta più solo su Bitcoin.",
+        "visual_hint": "Milestone con effetto zoom",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "crypto growth chart"
+      },
+      {
+        "hook": "Due fondi, due strategie",
+        "description": "Uno investe in startup early-stage, l'altro in token liquidi. Coprono l'intero ciclo di vita crypto.",
+        "visual_hint": "Due frecce divergenti",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "two arrows diverging"
+      },
+      {
+        "hook": "Il primo deal cambierà tutto",
+        "description": "Primo fondo punta su team pre-product-market fit. Secondo compra token già negoziati. Mossa opposta ma complementare.",
+        "visual_hint": "Lente d'ingrandimento su deal",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass contract",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff/lossy-page1-960px-Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Cosa cambia per i VC crypto",
+        "description": "Haun costruisce una macchina da venture capital completa. Se funziona, diventa il modello per tutti i fondi futuri.",
+        "visual_hint": "Mappa mentale in espansione",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "mind map network",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Mind_Map_Gene_Co-Expression_Networks.drawio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      {
+        "hook": "Segui i suoi deal pubblici",
+        "description": "Quando investirà, decine di fondi seguiranno. Quel deal cambierà rotta per un intero settore.",
+        "visual_hint": "Radar con punti luccicanti",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "radar screen scanning"
+      }
+    ]
   },
   {
     "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
@@ -1556,7 +2323,53 @@ window.ARTICLES = [
       "I workflow autonomi sono il vero affare.",
       "Se non inizi ora, paghi il doppio dopo."
     ],
-    "savedAt": "2026-05-05T15:25:02.038Z"
+    "savedAt": "2026-05-05T15:25:02.038Z",
+    "carousel_slides": [
+      {
+        "hook": "Chi resterà indietro?",
+        "description": "Sierra raccoglie 950 milioni. Il 2025 separa chi ha vinto da chi ha perso. Non è un'iperbole.",
+        "visual_hint": "fondo scuro con barra di caricamento parziale",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "L'AI è il nuovo campo di battaglia",
+        "description": "I grandi puntano tutto sull'automazione dei workflow, non sui chatbot. Il vero valore è agire al posto tuo.",
+        "visual_hint": "robot che preme bottone su cruscotto",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory robot",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Non parlare. Fallo fare.",
+        "description": "Il vero valore è far sì che il sistema agisca al posto tuo: approvare, ordinare, rispondere, senza intervento umano.",
+        "visual_hint": "ingranaggi che girano senza mani",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Non automatizzi? Paghi il doppio.",
+        "description": "Chi non automatizza ora, tra due anni pagherà il doppio per recuperare: costi operativi, personale, opportunità perse.",
+        "visual_hint": "dati su schermo con frecce rosse",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "hook": "Parti dal processo più ripetitivo",
+        "description": "Prendi un processo che ripeti ogni giorno. Automatizzalo entro 30 giorni. Se non sai da dove iniziare, parti da quello più ripetitivo.",
+        "visual_hint": "checkmark su lista di azioni",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "solar panels",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ground_mounted_solar_panels.gk.jpg/960px-Ground_mounted_solar_panels.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      }
+    ]
   },
   {
     "title": "The evolution of encoders: From simple models to multimodal AI",

@@ -21,5 +21,49 @@
     "Il chip scala troppo e consuma tanto.",
     "IPO in arrivo. Entri o aspetti?"
   ],
-  "savedAt": "2026-05-05T16:15:26.750Z"
+  "savedAt": "2026-05-05T16:15:26.750Z",
+  "carousel_slides": [
+    {
+      "hook": "Il chip più grande del mondo",
+      "description": "Un chip enorme scalda troppo e consuma come una centrale. I rivali risolvono il problema diversamente.",
+      "visual_hint": "gigantesco chip illuminato",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "giant computer chip"
+    },
+    {
+      "hook": "Dipende tutto da OpenAI",
+      "description": "Cerebras ha OpenAI come cliente principale. Un vantaggio enorme, ma se il cliente va via tutto crolla.",
+      "visual_hint": "catena spezzata",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "broken metal chain"
+    },
+    {
+      "hook": "Memoria e calore, il tallone",
+      "description": "Il chip gigante surriscalda e consuma energia come una centrale. I concorrenti hanno soluzioni alternative.",
+      "visual_hint": "termometro industriale",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "industrial thermometer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Industrial_infrared_thermometer_with_additional_temperature_probe.jpg/960px-Industrial_infrared_thermometer_with_additional_temperature_probe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "IPO colossale, rischi enormi",
+      "description": "Gli investitori guardano due cose: dipendenza da OpenAI e capacità tecnologica a lungo termine.",
+      "visual_hint": "grafico IPO in salita",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Entri o aspetti il crollo?",
+      "description": "Compri azioni con un unico cliente miliardario o aspetti di vedere se quel cliente resta?",
+      "visual_hint": "freccia decidere bivio",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "road fork sign"
+    }
+  ]
 }

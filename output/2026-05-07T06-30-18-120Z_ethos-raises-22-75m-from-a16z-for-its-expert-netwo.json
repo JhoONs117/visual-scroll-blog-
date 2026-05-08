@@ -22,5 +22,52 @@
     "La tua voce vale più del tuo CV ora."
   ],
   "savedAt": "2026-05-07T06:30:18.120Z",
-  "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/"
+  "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
+  "carousel_slides": [
+    {
+      "hook": "La tua voce, il loro guadagno",
+      "description": "a16z investe 22,75 milioni in Ethos. Il vero asset? Le tue registrazioni vocali per addestrare la loro AI.",
+      "visual_hint": "Logo Ethos e banconote",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market graph"
+    },
+    {
+      "hook": "Competenze vocali per accesso",
+      "description": "La piattaforma scambia accesso a esperti con tue registrazioni vocali. Patto tra pari? Il potere è tutto loro.",
+      "visual_hint": "Microfono e cuffie tech",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "microphone studio",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Studio_microphone_with_pop-shield_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "hook": "Voce: asset scalabile all'infinito",
+      "description": "Per loro la tua voce è un asset infinito. Per te è un pagamento una tantum che non rivedrai mai più.",
+      "visual_hint": "Onda sonora in espansione",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "La firma vocale è il tuo biglietto",
+      "description": "Registri un consiglio, cedi un campione che varrà più del tuo CV. La voce diventa il tuo biglietto da visita.",
+      "visual_hint": "Mano che tiene un badge",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Registra il tuo primo insight",
+      "description": "Il pagamento è la prova che hai appena messo in vendita il tuo miglior asset: la tua voce.",
+      "visual_hint": "Check verde su schermo",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ground_mounted_solar_panels.gk.jpg/960px-Ground_mounted_solar_panels.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-05-at-23.18.12.jpeg?resize=1200,812"
 }

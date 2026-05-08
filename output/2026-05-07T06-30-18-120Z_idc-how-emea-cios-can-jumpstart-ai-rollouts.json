@@ -21,5 +21,48 @@
     "Inizia con un dataset pulito. Non provare a far tutto.",
     "Il tuo primo modello live è l'unica prova che conta."
   ],
-  "savedAt": "2026-05-07T06:30:18.120Z"
+  "savedAt": "2026-05-07T06:30:18.120Z",
+  "carousel_slides": [
+    {
+      "hook": "6 settimane in produzione",
+      "description": "Una banca europea ha messo un modello AI in produzione in sei settimane. Il resto è fermo ai pilot.",
+      "visual_hint": "calendario con 6 settimane segnate",
+      "layout_type": "hero",
+      "icon": "check",
+      "image_query": "bank server room"
+    },
+    {
+      "hook": "Il vero problema? I dati",
+      "description": "I CIO europei dicono: il collo di bottiglia sono i dati frammentati, non la tecnologia o i talenti.",
+      "visual_hint": "dati sparsi in tanti silos",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "fragmented data cloud"
+    },
+    {
+      "hook": "Metà dei pilot fallisce",
+      "description": "Il 50% dei pilot AI in EMEA non arriva mai in produzione. Perché provano a scalare prima di pulire un dataset.",
+      "visual_hint": "grafico a torta con metà vuota",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "pie chart half empty"
+    },
+    {
+      "hook": "Un dataset pulito basta",
+      "description": "Non aspettare tutto pronto. Prendi un solo dataset, puliscilo e metti un modello in produzione. Subito.",
+      "visual_hint": "mano che pulisce un dataset",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "clean dataset folder"
+    },
+    {
+      "hook": "Parti oggi, non domani",
+      "description": "Il primo live pilot è l'unica prova che conta. Costa meno di un abbonamento Spotify. Trova il dataset più pulito e parti.",
+      "visual_hint": "pulsante play su schermo",
+      "layout_type": "cta-final",
+      "icon": "waves",
+      "image_query": "start button screen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Screenshot_from_linux_mint_18_start_menu.png/960px-Screenshot_from_linux_mint_18_start_menu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ]
 }

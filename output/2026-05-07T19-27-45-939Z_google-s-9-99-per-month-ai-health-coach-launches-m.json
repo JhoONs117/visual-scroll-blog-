@@ -23,5 +23,48 @@
     "Funziona con Fitbit e Pixel Watch.",
     "Il rischio? Falsa sicurezza.",
     "Provalo gratis, poi chiama il tuo dottore."
-  ]
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Falso sicuro? L'AI non cura",
+      "description": "Google lancia un coach AI salute a $9.99/mese ma non diagnostica. Rischi falsa sicurezza e ritardo visite.",
+      "visual_hint": "schermo con cuore e punto interrogativo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone health app screen"
+    },
+    {
+      "hook": "Fitbit e Pixel Watch dal 19/5",
+      "description": "Monitora sonno, attività e cuore. Dati utili, ma l'AI non è un dottore. Fidarsi troppo può essere pericoloso.",
+      "visual_hint": "smartwatch su polso",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "fitbit smartwatch on wrist"
+    },
+    {
+      "hook": "L'algoritmo dice 'tutto ok'?",
+      "description": "Il rischio è ignorare sintomi seri per un responso automatico. Un 'tutto ok' dall'AI non sostituisce una visita.",
+      "visual_hint": "mano che tiene cuore digitale",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "digital heart pulse line"
+    },
+    {
+      "hook": "Si chiama 'coach', non dottore",
+      "description": "Google lo sa: non è diagnostico. Ma molti utenti potrebbero non distinguere. Falsa sicurezza senza controllo medico.",
+      "visual_hint": "mano umana davanti a schermo AI",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching smartphone screen"
+    },
+    {
+      "hook": "Provalo gratis? Poi chiedi al dottore",
+      "description": "Costa meno di Spotify. Provalo gratis, ma prima di decisioni sulla salute consulta il tuo medico.",
+      "visual_hint": "smartphone con schermo cta",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "google fit app icon smartphone"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/HealthApp-3-CoachMessages.width-1000.format-webp.webp?w=1000"
 }

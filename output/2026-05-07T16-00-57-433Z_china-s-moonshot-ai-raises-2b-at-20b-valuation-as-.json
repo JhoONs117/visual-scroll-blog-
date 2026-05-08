@@ -23,5 +23,52 @@
     "Il segreto? Hanno aperto tutto.",
     "Tu usi la stessa AI gratis.",
     "Scarica il modello e testalo."
-  ]
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Codice aperto vale 20 miliardi",
+      "description": "Startup cinese raccoglie $2B: ha aperto il codice, non lo tiene chiuso. Tu puoi usare la stessa AI.",
+      "visual_hint": "Fumetti di dollari che cadono",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Vale $20 miliardi, ma regala tutto",
+      "description": "Moonshot AI vale $20B. Hanno scelto open source contro ogni logica commerciale: la potenza è tua.",
+      "visual_hint": "Grafico a barre che sale",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Zero licenze, stessa potenza",
+      "description": "Non è una versione ridotta: è la stessa AI dei modelli chiusi, ma senza abbonamento mensile.",
+      "visual_hint": "Lucchetto che si apre",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Scarica e gira dove vuoi",
+      "description": "Il costo? Zero. Scarichi il modello e lo fai girare dove vuoi. Vince chi ha più controllo.",
+      "visual_hint": "Freccia che scarica",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Testalo ora contro i chiusi",
+      "description": "Scarica il modello oggi: stessa potenza, nessuna licenza. Prova chi vince.",
+      "visual_hint": "Dita che cliccano",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "solar panels",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ground_mounted_solar_panels.gk.jpg/960px-Ground_mounted_solar_panels.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024"
 }

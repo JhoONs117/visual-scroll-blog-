@@ -21,5 +21,49 @@
     "Niente ricette fisse, niente sprechi.",
     "Puoi lanciare il tuo concept domani."
   ],
-  "savedAt": "2026-05-06T13:47:46.346Z"
+  "savedAt": "2026-05-06T13:47:46.346Z",
+  "carousel_slides": [
+    {
+      "hook": "Aprire ristorante senza cuoco?",
+      "description": "L'AI impara dai dati e gestisce ricette, forniture e personale da sola.",
+      "visual_hint": "Robot cucina padella",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot kitchen cooking"
+    },
+    {
+      "hook": "Lui l'ha fatto senza esperienza",
+      "description": "Marc Lore ha aperto un ristorante così. Senza esperienza pregressa in cucina.",
+      "visual_hint": "Marc Lore sorridente",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "software engineer portrait"
+    },
+    {
+      "hook": "Ricette in tempo reale",
+      "description": "Il sistema non segue ricette fisse: analizza vendite, stagioni e costi in tempo reale.",
+      "visual_hint": "Dati su schermo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room screens",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_server_room_of_this_NGO_we%27re_working_with._Despite_of_the_screen_it%27s_mostly_Linux_based._%285252562238%29.jpg/960px-The_server_room_of_this_NGO_we%27re_working_with._Despite_of_the_screen_it%27s_mostly_Linux_based._%285252562238%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Lancia domani, senza milioni",
+      "description": "Puoi lanciare un concept domani senza assumere chef e senza investire milioni.",
+      "visual_hint": "Mani digitano su tablet",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands typing tablet"
+    },
+    {
+      "hook": "Costa meno di Spotify",
+      "description": "Se non usi AI quest'anno, aprirai un locale o lo chiuderai?",
+      "visual_hint": "Grafico in salita",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ]
 }

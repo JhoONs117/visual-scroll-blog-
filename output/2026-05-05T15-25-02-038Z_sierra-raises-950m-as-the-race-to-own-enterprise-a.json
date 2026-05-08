@@ -21,5 +21,51 @@
     "I workflow autonomi sono il vero affare.",
     "Se non inizi ora, paghi il doppio dopo."
   ],
-  "savedAt": "2026-05-05T15:25:02.038Z"
+  "savedAt": "2026-05-05T15:25:02.038Z",
+  "carousel_slides": [
+    {
+      "hook": "Chi resterà indietro?",
+      "description": "Sierra raccoglie 950 milioni. Il 2025 separa chi ha vinto da chi ha perso. Non è un'iperbole.",
+      "visual_hint": "fondo scuro con barra di caricamento parziale",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "L'AI è il nuovo campo di battaglia",
+      "description": "I grandi puntano tutto sull'automazione dei workflow, non sui chatbot. Il vero valore è agire al posto tuo.",
+      "visual_hint": "robot che preme bottone su cruscotto",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Non parlare. Fallo fare.",
+      "description": "Il vero valore è far sì che il sistema agisca al posto tuo: approvare, ordinare, rispondere, senza intervento umano.",
+      "visual_hint": "ingranaggi che girano senza mani",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Non automatizzi? Paghi il doppio.",
+      "description": "Chi non automatizza ora, tra due anni pagherà il doppio per recuperare: costi operativi, personale, opportunità perse.",
+      "visual_hint": "dati su schermo con frecce rosse",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Parti dal processo più ripetitivo",
+      "description": "Prendi un processo che ripeti ogni giorno. Automatizzalo entro 30 giorni. Se non sai da dove iniziare, parti da quello più ripetitivo.",
+      "visual_hint": "checkmark su lista di azioni",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "solar panels",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ground_mounted_solar_panels.gk.jpg/960px-Ground_mounted_solar_panels.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ]
 }

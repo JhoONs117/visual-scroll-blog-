@@ -22,5 +22,52 @@
     "Controlla i log prima del prossimo addebito."
   ],
   "savedAt": "2026-05-07T02:04:38.310Z",
-  "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/"
+  "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
+  "carousel_slides": [
+    {
+      "hook": "Il tuo commit costa più del prompt",
+      "description": "Un commit semplice potrebbe costarti più di un prompt. Il prezzo è nei flussi di lavoro medi che accumuli.",
+      "visual_hint": "confronto visivo prezzo commit vs prompt",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Micro-commit moltiplicano i token",
+      "description": "Ogni token inviato a Copilot viene addebitato. Il costo reale è nascosto nei micro-commit ripetuti quotidiani.",
+      "visual_hint": "flusso di commit ripetuti",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Budget esaurito a metà mese?",
+      "description": "Chi usa Copilot intensamente rischia di esaurire il budget mensile prima di metà mese, senza accorgersene.",
+      "visual_hint": "calendario con budget esaurito",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "solar panels",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ground_mounted_solar_panels.gk.jpg/960px-Ground_mounted_solar_panels.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Ogni azione ha un prezzo nascosto",
+      "description": "Refactoring veloce, completazione automatica, correzione sintassi: ogni azione ha un costo. I dettagli fanno la differenza.",
+      "visual_hint": "mano che scrive codice",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Controlla i log prima del prossimo addebito",
+      "description": "Cerca pattern di commit ripetuti e prompt non necessari. Riduci i flussi di lavoro medi per evitare sorprese.",
+      "visual_hint": "log screen con pattern evidenziati",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "factory robot",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/per-token-pricing-hero_x1440.webp"
 }

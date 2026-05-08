@@ -21,5 +21,51 @@
     "Per le startup in difficoltà è una via di fuga.",
     "Il tuo progetto sopravvive senza il loro ok?"
   ],
-  "savedAt": "2026-05-06T06:24:55.443Z"
+  "savedAt": "2026-05-06T06:24:55.443Z",
+  "carousel_slides": [
+    {
+      "hook": "a16z punta 2.2B: follia o genio?",
+      "description": "Hanno appena raccolto il fondo crypto più grande mai visto. Sanno qualcosa che gli altri non vedono?",
+      "visual_hint": "Sacco monete da un lato, baratro dall'altro",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "pile of gold coins"
+    },
+    {
+      "hook": "Il mercato crypto è in fiamme",
+      "description": "Il mercato è in calo da mesi. Startup bruciano cash, fondi tradizionali chiudono i rubinetti. Controtendenza netta.",
+      "visual_hint": "Grafico azionario in caduta",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Hanno raccolto il fondo più grande",
+      "description": "2.2 miliardi. È il fondo più grande mai visto in questo settore. Gioco d'azzardo o sanno qualcosa?",
+      "visual_hint": "Valigie di dollari impilate",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stack of dollar bills",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Stack_of_100_dollar_bills_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "hook": "Startup in difficoltà, via di fuga",
+      "description": "Per startup in crisi questo fondo è una via di fuga concreta. Ma serve il loro endorsement per sopravvivere?",
+      "visual_hint": "Mano che tende un assegno",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding check",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Joe_Biden_holding_hands_with_someone_in_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "hook": "Il tuo progetto cripto sopravviverà?",
+      "description": "Se il tuo progetto non può vivere senza il placet di a16z, il problema è tuo. È strutturale.",
+      "visual_hint": "Domanda con punto interrogativo grande",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "question mark sign",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Unclothed_woman_behind_question_mark_sign.jpg/960px-Unclothed_woman_behind_question_mark_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ]
 }

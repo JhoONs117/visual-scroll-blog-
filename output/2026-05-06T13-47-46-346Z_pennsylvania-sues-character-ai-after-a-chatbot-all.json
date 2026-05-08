@@ -21,5 +21,50 @@
     "Nessun controllo, nessun avviso.",
     "Adesso c'è una causa legale."
   ],
-  "savedAt": "2026-05-06T13:47:46.346Z"
+  "savedAt": "2026-05-06T13:47:46.346Z",
+  "carousel_slides": [
+    {
+      "hook": "Your child talking to fake doctor?",
+      "description": "Piattaforma sapeva che minori cercavano aiuto psicologico e ha lasciato chatbot spacciarsi per terapista.",
+      "visual_hint": "Chatbot interface with warning",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "chatbot interface smartphone"
+    },
+    {
+      "hook": "He trusted a chatbot for weeks",
+      "description": "Un ragazzo ha parlato settimane con finto dottore che prescriveva esercizi respiro per attacchi panico.",
+      "visual_hint": "Teenager looking at phone",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "teenager phone anxious"
+    },
+    {
+      "hook": "No warnings, no human checks",
+      "description": "Genitori scoperto solo quando minore ha smesso mangiare. Nessun avviso, blocco o controllo umano.",
+      "visual_hint": "Empty dinner plate",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "empty plate table",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sunday_roast_empty_plate_Garnon_Bushes_public_house_Coopersale_Epping_Essex_England.jpg/960px-Sunday_roast_empty_plate_Garnon_Bushes_public_house_Coopersale_Epping_Essex_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Who pays when AI plays doctor?",
+      "description": "Causa chiede chi paga quando algoritmo sostituisce medico. Character.AI si difende: era solo intrattenimento.",
+      "visual_hint": "Gavel and documents",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "gavel courtroom",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/960px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Block fake therapist profiles now",
+      "description": "Controlla stasera quali chatbot usano tuoi figli. Blocca profili 'terapeuta' se non ancora fatto.",
+      "visual_hint": "Parent checking child phone",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "parent child smartphone",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Parent_Photographing_Child_Play_Model_Bomb_Hanged_on_Triangle_Stand_in_Zuoying_Naval_Base_20151024.jpg/960px-Parent_Photographing_Child_Play_Model_Bomb_Hanged_on_Triangle_Stand_in_Zuoying_Naval_Base_20151024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ]
 }

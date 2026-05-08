@@ -23,5 +23,51 @@
     "Meno pressione sui medici esausti.",
     "Chiedi al tuo dottore: lo usano?"
   ],
-  "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/"
+  "link": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+  "carousel_slides": [
+    {
+      "hook": "Diagnosi in minuti, non ore",
+      "description": "Un software di AI triage analizza i sintomi in secondi e decide le priorità.",
+      "visual_hint": "Orologio che scorre veloce",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "digital clock closeup"
+    },
+    {
+      "hook": "Liste d'attesa giù del 30%",
+      "description": "L'AI taglia le attese. Non è futuro, è già nei reparti NHS.",
+      "visual_hint": "Grafico a barre in calo",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Pazienti urgenti prima di tutti",
+      "description": "Chi ha urgenza reale viene visitato in minuti, senza intasare il pronto soccorso.",
+      "visual_hint": "Schermo monitor con priorità",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "hospital monitor screen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dormer_Details_and_Monitor_Window_and_Ventilation_Screen_Interior_Elevation_-_U._S._Naval_Asylum%2C_Biddle_Hall%2C_Gray%27s_Ferry_Avenue%2C_Philadelphia%2C_Philadelphia_HABS_PA%2C51-PHILA%2C577A-_%28sheet_17_of_30%29.png/960px-thumbnail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Costa meno di un abbonamento",
+      "description": "AI triage costa meno di Netflix al mese per reparto. Meno pressione sul personale.",
+      "visual_hint": "Maniglia di una porta",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "doctor hand tablet"
+    },
+    {
+      "hook": "Chiedi al tuo medico ora",
+      "description": "Chiedi al tuo GP: usano già l'AI? Potrebbe ridurre la tua attesa.",
+      "visual_hint": "Icona domanda ingrandita",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "doctor patient consultation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ASC_Leiden_-_Coutinho_Collection_-_18_01_-_Medical_consultation_in_Sara%2C_Guinea-Bissau_by_a_Cuban_doctor_-_1974.tif/lossy-page1-960px-ASC_Leiden_-_Coutinho_Collection_-_18_01_-_Medical_consultation_in_Sara%2C_Guinea-Bissau_by_a_Cuban_doctor_-_1974.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/ai-in-the-nhs-hero_x1440.webp"
 }

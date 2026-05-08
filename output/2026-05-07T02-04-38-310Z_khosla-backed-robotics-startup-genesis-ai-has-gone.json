@@ -25,5 +25,51 @@
     "One task. This week. Test it yourself."
   ],
   "savedAt": "2026-05-07T02:04:38.310Z",
-  "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/"
+  "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+  "carousel_slides": [
+    {
+      "hook": "Khosla just bet on full stack",
+      "description": "Most startups avoid full stack. Khosla just bet on it. This Genesis AI move is different.",
+      "visual_hint": "Robot arm assembling circuit",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "factory robot arm"
+    },
+    {
+      "hook": "Minutes not months to learn",
+      "description": "The bet: a robot that learns a task in minutes, not months. That's the headline.",
+      "visual_hint": "Clock morphing into gears",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot learning task",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Fast_Marching_Learning_%28FML%29_in_ADAM_robot.jpg/960px-Fast_Marching_Learning_%28FML%29_in_ADAM_robot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "They own everything from chip to code",
+      "description": "Full stack means they own hardware, software, training loop. No handoffs. No excuses. One integrated system.",
+      "visual_hint": "Stack of hardware layers",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room hardware",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/SpinVFX_Server_Room.jpg/960px-SpinVFX_Server_Room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "No more brittle demos",
+      "description": "For you: fewer brittle demos that collapse in the real world. Faster path from lab to deployment.",
+      "visual_hint": "Robot crossing uneven terrain",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot on factory floor"
+    },
+    {
+      "hook": "Watch the demo. Then test it.",
+      "description": "Pick one task. Time it. Compare. This is the week to see if the gap finally closed.",
+      "visual_hint": "Play button over robot",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "robot demonstration video",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Schematics_of_the_robot_assessing_novelty_of_human_chef_demonstration_and_learning_new_recipe.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Genesis-AI-Rubiks-Cube-Solve-A-Cam.jpg?resize=1200,675"
 }

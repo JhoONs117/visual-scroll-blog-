@@ -21,5 +21,50 @@
     "Taglio costi del 30% per la rete.",
     "Chiedi un pilota alla tua utility."
   ],
-  "savedAt": "2026-05-05T17:20:36.578Z"
+  "savedAt": "2026-05-05T17:20:36.578Z",
+  "carousel_slides": [
+    {
+      "hook": "500 case, una sola batteria",
+      "description": "Un singolo impianto può alimentare 500 case per un giorno intero.",
+      "visual_hint": "scala di impatto visivo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "ev battery pack"
+    },
+    {
+      "hook": "La seconda vita delle EV",
+      "description": "Quell'energia arriva da batterie di auto elettriche che sembravano finite.",
+      "visual_hint": "batteria riconvertita rete",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "used ev battery"
+    },
+    {
+      "hook": "40M per stoccaggio infinito",
+      "description": "Moment Energy ha appena raccolto 40 milioni per trasformare quei pacchi esausti in storage per la rete.",
+      "visual_hint": "circuito di accumulo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "energy storage system",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tesvolt_battery_energy_storage_system_Rheineck.jpg/960px-Tesvolt_battery_energy_storage_system_Rheineck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Costi tagliati del 30%",
+      "description": "I gestori di rete che li usano tagliano i costi del 30% da subito. Nessuna installazione da zero, solo riutilizzo.",
+      "visual_hint": "confronto costi grafico",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "cost reduction chart",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DOE_2016._Cost_Reductions_Since_2008.jpg/960px-DOE_2016._Cost_Reductions_Since_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Prova un pilota locale",
+      "description": "Costa meno di un abbonamento Netflix testare un progetto pilota con la tua utility locale. Prova a chiedere.",
+      "visual_hint": "smartphone richiesta utility",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone energy app",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pranab_Mukherjee_launching_%27Sajag%27-_a_Smartphone_App_on_Energy_Education%2C_at_Dr._Rajendra_Prasad_Sarvodaya_Vidyalaya%2C_President%27s_Estate%2C_in_New_Delhi._The_Chief_Minister_of_Delhi%2C_Shri_Arvind_Kejriwal_is_also_seen.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ]
 }

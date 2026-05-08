@@ -21,5 +21,49 @@
     "Rischia di classificare male anche te se non corrispondi ai parametri.",
     "Controlla ora se hai autorizzato la scansione dei tuoi dati biometrici."
   ],
-  "savedAt": "2026-05-06T10:10:03.362Z"
+  "savedAt": "2026-05-06T10:10:03.362Z",
+  "carousel_slides": [
+    {
+      "hook": "L'algoritmo sbaglia su di te?",
+      "description": "Alcuni studi mostrano che l'AI di Meta è meno precisa su certi gruppi etnici. Rischio di errore.",
+      "visual_hint": "silhouette umana con radar",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "facial recognition error"
+    },
+    {
+      "hook": "Scansione ossa e altezza",
+      "description": "Meta stima l'età reale con dati biometrici. La procedura è già attiva in alcuni paesi.",
+      "visual_hint": "scheletro e metro a nastro",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "skeleton x-ray scan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/X-Ray_Scan_van_een_baviaan.jpg/960px-X-Ray_Scan_van_een_baviaan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Rischio blocco ingiusto",
+      "description": "Se l'AI ti classifica male come minorenne, potresti perdere l'accesso all'account senza motivo.",
+      "visual_hint": "lucchetto sullo schermo",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "locked smartphone screen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Smartphone_lock_screen_enter_PIN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "hook": "Hai dato il consenso?",
+      "description": "Meta usa i tuoi dati biometrici — ossa e altezza — per confrontarli con l'età dichiarata.",
+      "visual_hint": "impronta digitale e menu",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "fingerprint privacy settings"
+    },
+    {
+      "hook": "Controlla subito la privacy",
+      "description": "Verifica nelle impostazioni se l'opzione biometrica è abilitata. Proteggi i tuoi dati.",
+      "visual_hint": "icona ingranaggio e scudo",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "privacy settings app"
+    }
+  ]
 }

@@ -23,5 +23,50 @@
   ],
   "pubDate": "Thu, 07 May 2026 20:20:20 +0000",
   "savedAt": "2026-05-07T20:59:14.576Z",
-  "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/"
+  "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+  "carousel_slides": [
+    {
+      "hook": "Non dice cosa hai scritto.",
+      "description": "OpenAI non rivela il contenuto dei tuoi messaggi al contatto fidato.",
+      "visual_hint": "Chat screen with hidden text",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "chat bubble privacy"
+    },
+    {
+      "hook": "Si attiva su autolesionismo.",
+      "description": "La funzione scatta quando il sistema rileva possibili pensieri di autolesionismo.",
+      "visual_hint": "Warning alert on device",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone alert screen"
+    },
+    {
+      "hook": "Tu autorizzi l'avviso.",
+      "description": "Prima di inviare la notifica, ChatGPT ti chiede se vuoi procedere.",
+      "visual_hint": "Yes/No prompt overlay",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "yes no button",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/LGBT%2B_together_for_Yes._button%2C_Groningen_%282019%29.jpg/960px-LGBT%2B_together_for_Yes._button%2C_Groningen_%282019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Nessun contenuto condiviso.",
+      "description": "Il contatto riceve solo una notifica generica, non i tuoi messaggi privati.",
+      "visual_hint": "Notification with generic text",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "notification icon phone",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/HSPA_sign_shown_in_notification_bar_on_an_Android_powered_smartphone-_2014-04-28_13-56.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "hook": "Attivala subito gratis.",
+      "description": "Vai nelle impostazioni privacy di ChatGPT e attiva il contatto fidato.",
+      "visual_hint": "Settings menu with toggle",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "privacy settings app"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024"
 }

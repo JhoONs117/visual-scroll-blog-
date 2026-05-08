@@ -21,5 +21,51 @@
     "Onboarding visivo, non testuale.",
     "Fai subito un A/B test."
   ],
-  "savedAt": "2026-05-05T17:20:36.578Z"
+  "savedAt": "2026-05-05T17:20:36.578Z",
+  "carousel_slides": [
+    {
+      "hook": "La prossima feature è un errore?",
+      "description": "I modelli visivi tengono gli utenti più a lungo dei LLM. Scommettere su chatbot è rischioso.",
+      "visual_hint": "grafico retention a confronto",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Le immagini battono il testo AI",
+      "description": "Una schermata ben progettata spinge l'azione più di qualsiasi prompt. I dati confermano.",
+      "visual_hint": "interfaccia utente schermata",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone screen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Smartphone_lock_screen_enter_PIN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "hook": "Onboarding testuale? Perdi utenti",
+      "description": "Un onboarding visivo porta direttamente al valore del prodotto. Quello testuale li fa scappare.",
+      "visual_hint": "utente che guarda schermo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "people walking street",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/People_walking_on_the_street_in_Nairobi%2C_Kenya.jpg/960px-People_walking_on_the_street_in_Nairobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Verificalo oggi con un A/B test",
+      "description": "Metti una schermata contro una spiegazione testuale. I numeri parleranno da soli.",
+      "visual_hint": "split test due varianti",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Sostituisci un prompt con una schermata",
+      "description": "Costa meno di un abbonamento Spotify. I risultati arrivano in una settimana.",
+      "visual_hint": "schermata che sostituisce chat",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "factory robot",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+  ]
 }

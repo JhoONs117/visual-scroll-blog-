@@ -23,5 +23,51 @@
   ],
   "pubDate": "Thu, 07 May 2026 18:36:29 +0000",
   "savedAt": "2026-05-08T02:11:32.120Z",
-  "link": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/"
+  "link": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/",
+  "carousel_slides": [
+    {
+      "hook": "E se bastasse eliminare la competizione sui soldi?",
+      "description": "Lovable alza tutti del 10% automatico, zero merito: solo essere lì da un anno.",
+      "visual_hint": "fogli di aumento su scrivania",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office desk papers"
+    },
+    {
+      "hook": "I bonus negoziati creano invidia.",
+      "description": "Bonus negoziati generano invidia, silenzi e scontri. La tensione sale già in corridoio.",
+      "visual_hint": "persone che si guardano in corridoio",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office corridor people",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/SCO_corridor_in_Florham_Park_New_Jersey_office_guarded_by_SCOland_Sheriff_April_1996.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "hook": "Smetti di litigare per una promozione.",
+      "description": "Quando lo stipendio non è più un'arma di ricatto, smetti di litigare per una promozione.",
+      "visual_hint": "stretta di mano in ufficio",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "handshake office",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Business_man_and_woman_handshake_in_work_office.jpg/960px-Business_man_and_woman_handshake_in_work_office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Aumento automatico o meritocrazia?",
+      "description": "Chiediti: aumento automatico o meritocrazia? Se non rispondi ora, lo farà il tuo team.",
+      "visual_hint": "persona pensierosa alla scrivania",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person thinking desk",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lt._Cmdr._Zeita_Merchant_sits_on_the_edge_of_her_desk_thinking_about_all_of_the_women_who_have_given_her_guidance_over_the_years_130306-G-EK967-001.jpg/960px-Lt._Cmdr._Zeita_Merchant_sits_on_the_edge_of_her_desk_thinking_about_all_of_the_women_who_have_given_her_guidance_over_the_years_130306-G-EK967-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "Prova a chiedere al tuo team.",
+      "description": "La cultura tossica nasce dai bonus negoziati. Prova a chiedere: aumento automatico o meritocrazia?",
+      "visual_hint": "domanda scritta su lavagna",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "whiteboard question"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800"
 }

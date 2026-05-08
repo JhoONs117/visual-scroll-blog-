@@ -22,5 +22,49 @@
     "Testa il tuo divario di governance prima che il mese chiuda."
   ],
   "savedAt": "2026-05-07T06:30:18.120Z",
-  "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/"
+  "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
+  "carousel_slides": [
+    {
+      "hook": "Half a million lost.",
+      "description": "AI found a hidden risk in a contract that no one saw. SAP saved the margin.",
+      "visual_hint": "Contract with red flag",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "contract document magnifying glass"
+    },
+    {
+      "hook": "50% of AI projects fail.",
+      "description": "They never go live. It's a governance problem, not technology.",
+      "visual_hint": "Chart with 50% drop",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart down",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png/960px-GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+      "hook": "SAP caught the margin killer.",
+      "description": "Compliance automation found an error that was costing profits. Automated conformity check.",
+      "visual_hint": "Shield with checkmark",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room blinking lights"
+    },
+    {
+      "hook": "Your next audit is changing.",
+      "description": "Soon, audits will be shaped by automatic AI compliance controls. Your margins depend on it.",
+      "visual_hint": "Clock and audit report",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers meeting table"
+    },
+    {
+      "hook": "Are you in the 50%?",
+      "description": "Test your governance gap before Q1 closes. Secure your margins and pass the audit.",
+      "visual_hint": "Test checklist on screen",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "factory robot assembly line"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/sap-enterprise-ai-governance-agentic-strategy-agents-trends-artificial-intelligence.jpg"
 }
