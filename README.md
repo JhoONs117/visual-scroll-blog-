@@ -10,7 +10,7 @@ Sistema automatico che intercetta notizie AI, le filtra, le trasforma in slide +
 
 
 
-\*\*Stato attuale (2026-05-08):\*\* M1–M17 + M15 + M21b completate · 58 articoli unici · pipeline automatica ogni 2 ore · carousel.html con immagini Wikimedia + og:image
+\*\*Stato attuale (2026-05-08):\*\* M1–M17 + M15 + M21b completate · 58 articoli unici · pipeline automatica ogni 2 ore · carousel.html + index.html con immagini Wikimedia / og:image / card carousel fallback · prossimo: M21 distribuzione X
 
 
 

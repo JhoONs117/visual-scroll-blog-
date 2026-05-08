@@ -203,6 +203,8 @@ chiediti "fa venire voglia di leggere la prossima?" — se meno di 8/10 sì, tor
   - Badge dinamico da dominio articolo, handle @FlashAI, thread preview
 - `frontend/index.html`: `.slide-visual` aggiornato con `article.image` come sfondo
 
+**Backfill completo (2026-05-08):** 58/58 articoli con `carousel_slides` ✅ — 127 immagini Wikimedia trovate, 95 slide usano card carousel inline come fallback visivo in `index.html`. Bug fix: `buildDataJs` ora ordina i file per timestamp desc prima della deduplicazione per slug.
+
 **Prossimo upgrade immagini (futuro):** sostituire Wikimedia con **Pexels API** (gratuita, foto editoriali di qualità superiore). Vedere sezione "Implementazione futura" in M21-roadmap.md.
 
 ### PRE-M21 — Fix prompt generateSlides + generateFormats ✅ (2026-05-07)

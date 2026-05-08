@@ -1,6 +1,6 @@
 # Roadmap M21 — Test Distribuzione Reale
 
-Stato: M21b ✅ — Step A ✅ A.5 ✅ B ✅ C ✅ D ✅ | Full backfill ⏳  
+Stato: M21b ✅ COMPLETA — Step A ✅ A.5 ✅ B ✅ C ✅ D ✅ E ✅  
 Aggiornato: 2026-05-08
 
 ---
@@ -584,13 +584,15 @@ File deployati: `generate.js`, `backfill-carousel.js`, `frontend/carousel.html`,
 
 ---
 
-### Step E — Full backfill (57 articoli) ⏳
+### Step E — Full backfill (58 articoli) ✅ (2026-05-08)
 
 ```bash
 node backfill-carousel.js
 ```
 
-Genera `carousel_slides` + `image_query` per tutti gli articoli mancanti, fetcha immagini Wikimedia per slide 2-5, fetcha `article.image` per slide 1. Poi push.
+**Risultato:** carousel_slides Aggiornati: 55 | Già presenti: 3 | Falliti: 0 — article.image Trovate: 31 — wikimedia s2-5 Trovate: 127 | Non trovate: 95 (→ card carousel come fallback in index.html)
+
+**Bug risolto:** `buildDataJs` non ordinava i file prima della deduplicazione per slug — prendeva file casuali invece del più recente, lasciando 37 articoli senza `carousel_slides` in `data.js`. Fix: `.sort().reverse()` su `readdirSync` prima del map. Risultato finale: 58/58 articoli con carousel_slides.
 
 ---
 
@@ -713,7 +715,7 @@ M21b ← parte dopo i primi 5 thread di M21
         + slide 2-5: Wikimedia Commons via image_query
         + index.html: article.image come sfondo .slide-visual
   └── Step D: git push → deploy Railway ✅
-  └── Step E: full backfill 57 articoli ⏳
+  └── Step E: full backfill 58 articoli ✅ — 58/58 con carousel_slides
 
 FASE 3 ← dopo 15 thread completati
   └── analisi pattern → test-distribuzione.md

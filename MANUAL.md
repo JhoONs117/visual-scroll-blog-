@@ -364,6 +364,8 @@ frontend/data.js aggiornato con 44 articoli unici (era 226 con duplicati).
 
 > ⚠️ Richiede `DEEPSEEK_API_KEY` nel file `.env`. Costa pochi centesimi per run (solo per gli articoli davvero nuovi).
 
+> **Nota:** il backfill è idempotente — rilancia senza problemi, salta tutto ciò che è già presente. Bug fix applicato: `buildDataJs` ora ordina i file per timestamp decrescente prima della deduplicazione, garantendo sempre il file più recente per ogni slug.
+
 ---
 
 ## 12. Come funziona il layout a due assi
