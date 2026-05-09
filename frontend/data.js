@@ -1,5 +1,74 @@
 window.ARTICLES = [
   {
+    "title": "Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027",
+    "slides": [
+      "At Disrupt 2026: your next round is already lost?",
+      "Series A timelines collapsed from 18 to 9 months.",
+      "Most founders discover this only when their cash hits zero.",
+      "Start your raise today—or you’ll pitch from survival.",
+      "Check your runway now; delay is the real risk."
+    ],
+    "thread_text": [
+      "La maggior parte dei founder scopre di aver bisogno di un round Series A solo quando il cash tocca zero. A quel punto è quasi sempre troppo tardi.",
+      "Il tempo per chiudere un Series A è crollato da 18 a 9 mesi. Non è un rallentamento del mercato: è un'accelerazione della selezione.",
+      "Se aspetti di vedere la Fine Cifra per alzare bandiera, stai già negoziando da una posizione di debolezza. I fondi lo sanno.",
+      "Inizia la tua raccolta oggi, anche se non ti serve subito. Chi parte da survival pitcha male e regala equity.",
+      "Controlla il tuo runway adesso. Se hai meno di 12 mesi di cassa, il rischio reale è non fare in tempo a chiudere il round."
+    ],
+    "video_script": [
+      "Il 90% dei founder scopre il bisogno troppo tardi.",
+      "Il tempo per il Series A è sceso a 9 mesi.",
+      "Quando il cash è zero, non hai più potere.",
+      "Inizia la raise oggi, non quando serve.",
+      "Controlla il runway adesso. Il ritardo è il rischio."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Your next round is already lost?",
+        "description": "Most founders discover they need Series A when cash hits zero. At that point it's almost always too late.",
+        "visual_hint": "Cash counter hits zero",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "bank account zero"
+      },
+      {
+        "hook": "Series A timelines collapsed to 9 months",
+        "description": "Time to close Series A collapsed from 18 to 9 months. This is not a slowdown but an acceleration of selection.",
+        "visual_hint": "Falling clock 18 to 9",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "clock countdown"
+      },
+      {
+        "hook": "You're already negotiating from weakness",
+        "description": "If you wait to see the end of your runway to start fundraising, you'll negotiate from weakness. Funds know it.",
+        "visual_hint": "Weak handshake negotiation",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "business handshake"
+      },
+      {
+        "hook": "Start raising now, not when desperate",
+        "description": "Start raising today even if you don't need it immediately. Those who pitch from survival give away equity and pitch poorly.",
+        "visual_hint": "Pitch deck survival mode",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "pitch deck paper"
+      },
+      {
+        "hook": "Check your runway; delay is the real risk",
+        "description": "Check runway now. If you have less than 12 months of cash, the real risk is not closing the round in time.",
+        "visual_hint": "Runway gauge low fuel",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "fuel gauge empty"
+      }
+    ],
+    "pubDate": "Fri, 08 May 2026 14:30:00 +0000",
+    "savedAt": "2026-05-09T22:34:50.639Z",
+    "link": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/"
+  },
+  {
     "title": "Nvidia has already committed $40B to equity AI deals this year",
     "slides": [
       "Nvidia ha già speso $40 miliardi in accordi AI?",
