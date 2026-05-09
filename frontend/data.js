@@ -1,5 +1,74 @@
 window.ARTICLES = [
   {
+    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no. ",
+    "slides": [
+      "Oracle licenzia. Chiedi migliori buonuscite? No secco.",
+      "L'azienda rifiuta ogni rinegoziazione collettiva.",
+      "I dipendenti scoprono che le clausole erano già scritte.",
+      "Scalata: controlla il tuo contratto prima del prossimo taglio.",
+      "Non firmare senza leggere le righe nascoste."
+    ],
+    "thread_text": [
+      "I dipendenti scoprono che le clausole erano già scritte. Non nei contratti vecchi: nei nuovi, da mesi.",
+      "Oracle licenzia. L'azienda rifiuta ogni rinegoziazione collettiva. Se chiedi migliori buonuscite, la risposta è no secco.",
+      "Chi ha firmato l'ultima volta senza leggere si ritrova ora con zero margine di manovra. Le clausole erano lì, nascoste.",
+      "Scalata: controlla il tuo contratto prima del prossimo taglio. Non aspettare l'annuncio per aprire l'PDF.",
+      "Non firmare senza leggere le righe nascoste. C'è una che blocca la rinegoziazione. Sei sicuro di non averla già sottoscritta?"
+    ],
+    "video_script": [
+      "Hanno scoperto le clausole solo dopo.",
+      "Oracle ha già detto no.",
+      "Non hanno potuto nemmeno chiedere.",
+      "Controlla il contratto adesso.",
+      "Se hai firmato, sei già dentro."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Clausole già scritte da mesi",
+        "description": "Dipendenti scoprono che le clausole bloccavano la rinegoziazione. Non nei contratti vecchi: nei nuovi.",
+        "visual_hint": "Documento legale con testo nascosto",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "legal document contract"
+      },
+      {
+        "hook": "Oracle dice no secco",
+        "description": "L'azienda rifiuta ogni rinegoziazione collettiva. Se chiedi migliori buonuscite, risposta è no.",
+        "visual_hint": "Cartello rosso con scritta NO",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "red stop sign"
+      },
+      {
+        "hook": "Zero margine dopo la firma",
+        "description": "Chi ha firmato senza leggere si ritrova senza margine di manovra. Le clausole erano lì, nascoste.",
+        "visual_hint": "Lente d'ingrandimento su righe piccole",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass paper"
+      },
+      {
+        "hook": "Controlla prima del taglio",
+        "description": "Non aspettare l'annuncio per aprire il PDF. Scalata: controlla il tuo contratto già ora.",
+        "visual_hint": "Mano che apre un file PDF",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand opening laptop"
+      },
+      {
+        "hook": "Non firmare righe nascoste",
+        "description": "C'è una clausola che blocca la rinegoziazione. Sei sicuro di non averla già sottoscritta?",
+        "visual_hint": "Penna rossa su clausola cerchiata",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "highlighted contract clause"
+      }
+    ],
+    "pubDate": "Fri, 08 May 2026 22:59:05 +0000",
+    "savedAt": "2026-05-09T02:05:11.545Z",
+    "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/"
+  },
+  {
     "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
     "slides": [
       "Cloudflare eliminò 1.100 posti per l'IA, ma il fatturato volò.",
