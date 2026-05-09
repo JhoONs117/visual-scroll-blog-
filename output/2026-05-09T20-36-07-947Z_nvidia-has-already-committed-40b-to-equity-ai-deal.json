@@ -1,0 +1,69 @@
+{
+  "title": "Nvidia has already committed $40B to equity AI deals this year",
+  "slides": [
+    "Nvidia ha già speso $40 miliardi in accordi AI?",
+    "Solo quest'anno, supera ogni altra azienda tech.",
+    "La cifra è tripla rispetto al 2023 intero.",
+    "Chi investe in AI vede Nvidia come termometro.",
+    "Controlla le prossime mosse: il ciclo accelera."
+  ],
+  "thread_text": [
+    "Solo quest'anno, Nvidia ha speso il triplo di quanto ha speso in tutto il 2023 per accordi sull'AI. Una mossa che accelera un ciclo già folle.",
+    "Dietro ogni chip che vendono, c'è una scommessa da miliardi. Nvidia compra startup e tecnologia a un ritmo che nessun altro riesce a tenere.",
+    "Il dato chiave? $40 miliardi in accordi AI, più di qualunque altra azienda tech. Diventano il termometro del settore: salgono loro, sale tutta l'AI.",
+    "Chi investe sa che se Nvidia rallenta, il mercato frena. Ma loro stanno accelerando: questo significa che vedono un ciclo che si stringe.",
+    "Hai già mappato le prossime mosse dei tuoi concorrenti? Se Nvidia sta comprando a questa velocità, anche tu devi decidere dove puntare."
+  ],
+  "video_script": [
+    "Nvidia ha speso 40 miliardi in AI.",
+    "Solo quest'anno, più di tutti gli altri.",
+    "È il triplo del 2023 intero.",
+    "Se comprano così, il mercato sale.",
+    "Controlla le prossime mosse, il ciclo accelera."
+  ],
+  "carousel_slides": [
+    {
+      "hook": "40 miliardi in AI, solo quest'anno",
+      "description": "Solo quest'anno, Nvidia ha speso il triplo di quanto ha speso in tutto il 2023 per accordi sull'AI.",
+      "visual_hint": "grafico con freccia verso l'alto",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Triplo rispetto al 2023",
+      "description": "Dietro ogni chip che vendono, c'è una scommessa da miliardi. Nvidia compra startup a un ritmo senza pari.",
+      "visual_hint": "tre barre di confronto",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Nvidia è il termometro dell'AI",
+      "description": "$40 miliardi in accordi AI, più di qualunque altra azienda tech. Salgono loro, sale tutta l'AI.",
+      "visual_hint": "termometro digitale che sale",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot"
+    },
+    {
+      "hook": "Accelerano: cosa vedono?",
+      "description": "Se Nvidia rallenta, il mercato frena. Ma loro accelerano: significa che vedono un ciclo che si stringe.",
+      "visual_hint": "mano su chip luminoso",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking street"
+    },
+    {
+      "hook": "Hai già mappato le prossime mosse?",
+      "description": "Se Nvidia compra a questa velocità, anche tu devi decidere dove puntare. Controlla il ciclo.",
+      "visual_hint": "freccia che avanza su schermo",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels"
+    }
+  ],
+  "pubDate": "Sat, 09 May 2026 14:43:30 +0000",
+  "savedAt": "2026-05-09T20:36:25.965Z",
+  "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/"
+}
