@@ -1,5 +1,79 @@
 window.ARTICLES = [
   {
+    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+    "slides": [
+      "Voice AI fails in India. Wispr Flow still invests.",
+      "India has over 100 languages, not just English.",
+      "Wispr Flow targets accent handling, but can it scale?",
+      "Your app might work differently if you test Indian accents.",
+      "Next time, record a voice command in Hindi. See."
+    ],
+    "thread_text": [
+      "Wispr Flow sta investendo in un mercato dove il voice AI già fallisce: l'India. Non per mancanza di domanda, ma perché la tecnologia non capisce gli accenti. Questa scommessa potrebbe ridefinire il settore — o bruciare milioni.",
+      "L'India ha oltre 100 lingue. La maggior parte dei modelli AI è addestrata principalmente sull'inglese americano. Il risultato? Comandi vocali che funzionano in California e si inceppano a Mumbai.",
+      "Wispr Flow punta tutto sull'handling degli accenti. Il problema è che \"accento\" non è un bug da fixare con un dataset più grande. Significa riconoscere centinaia di varianti fonetiche, grammaticali e culturali. Scalare questo è una sfida tecnica enorme.",
+      "La conseguenza è concreta: la tua app oggi può darti risultati perfetti con un test in inglese, ma fallire su un comando registrato in hindi. Non è un dettaglio — è un blocco all'adozione in mercati da miliardi di utenti.",
+      "Prova oggi: registra un comando vocale in una lingua diversa dall'inglese. Se l'app non risponde, hai appena trovato il motivo per cui il mercato è ancora aperto. È il task più onesto che puoi fare in 30 secondi."
+    ],
+    "video_script": [
+      "Il voice AI non funziona in India.",
+      "Wispr Flow sta investendo lo stesso.",
+      "Oltre 100 lingue, non solo inglese.",
+      "Riconoscere gli accenti è la sfida.",
+      "Scalare è il vero problema tecnico.",
+      "La tua app fallisce su un comando in hindi.",
+      "È un blocco per miliardi di utenti.",
+      "Prova: registra un comando in hindi oggi.",
+      "Se non funziona, hai il perché.",
+      "Questo mercato è ancora tutto da costruire."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Fallire in India per puntare al futuro",
+        "description": "Wispr Flow punta sugli accenti indiani. Sfida tecnica enorme o mossa vincente?",
+        "visual_hint": "India map voice waves",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "India map server"
+      },
+      {
+        "hook": "100 lingue, un solo modello",
+        "description": "L'AI capisce l'inglese americano. A Mumbai i comandi si inceppano. Serve altro.",
+        "visual_hint": "Language diversity illustration",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "multilingual signboard"
+      },
+      {
+        "hook": "Accento non è un bug",
+        "description": "Riconoscere varianti fonetiche e culturali è una sfida tecnica enorme. Scalare è il problema.",
+        "visual_hint": "Audio frequency zoom",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "audio waveform"
+      },
+      {
+        "hook": "Test fallito in hindi",
+        "description": "La tua app funziona in inglese ma non in hindi. Blocco all'adozione in mercati miliardari.",
+        "visual_hint": "Phone voice command fail",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "smartphone hand"
+      },
+      {
+        "hook": "30 secondi per scoprire il problema",
+        "description": "Registra un comando in hindi. Se non risponde, hai trovato il mercato aperto per nuovi player.",
+        "visual_hint": "Voice recording microphone",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "microphone closeup"
+      }
+    ],
+    "pubDate": "Sun, 10 May 2026 02:00:00 +0000",
+    "savedAt": "2026-05-10T16:43:56.417Z",
+    "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"
+  },
+  {
     "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
     "slides": [
       "You nod at 'LLM' but what does it mean?",
