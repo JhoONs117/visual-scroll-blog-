@@ -1,5 +1,74 @@
 window.ARTICLES = [
   {
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "slides": [
+      "You nod at 'LLM' but what does it mean?",
+      "It’s a model trained on massive text data.",
+      "It predicts words, yet creates surprising insights.",
+      "Knowing that changes how you question its outputs.",
+      "Today, test one prompt you didn’t trust before."
+    ],
+    "thread_text": [
+      "Oggi prova un prompt che prima non avresti mai usato. Non perché fosse sbagliato, ma perché non ti fidavi di cosa poteva uscirne.",
+      "Quando usi un LLM, stai interrogando un modello addestrato su miliardi di testi. Non un mago, ma una gigantesca macchina statistica.",
+      "Prevede la prossima parola, eppure a volte tira fuori intuizioni che sembrano magia. È il paradosso: meccanico nei calcoli, creativo nei risultati.",
+      "Capire questo cambia tutto: smetti di prendere le risposte come verità assoluta e inizi a usarle come uno strumento da mettere alla prova.",
+      "Costa meno di un caffè al giorno. Oggi, apri il chat e fai una domanda che prima avresti evitato. Vedi cosa succede."
+    ],
+    "video_script": [
+      "Oggi prova un prompt che non usavi.",
+      "Un LLM è un modello su tanti testi.",
+      "Prevede parole, ma crea intuizioni.",
+      "Saperlo cambia come leggi le risposte.",
+      "Ora testa un prompt che non fidavi."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Prevede parole, crea magia",
+        "description": "Un LLM predice la prossima parola, ma a volte tira fuori intuizioni che sembrano magia. Meccanico nei calcoli, creativo nei risultati.",
+        "visual_hint": "statistiche e farfalla",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "data center servers"
+      },
+      {
+        "hook": "Cos'è un LLM?",
+        "description": "È un modello addestrato su miliardi di testi. Non un mago, ma una gigantesca macchina statistica che prevede parole.",
+        "visual_hint": "libri e cervello",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "books library"
+      },
+      {
+        "hook": "Non fidarti ciecamente",
+        "description": "Capire come funziona un LLM cambia tutto: smetti di prendere le risposte come verità assoluta e inizia a metterle alla prova.",
+        "visual_hint": "lente d'ingrandimento",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "magnifying glass"
+      },
+      {
+        "hook": "Prova un prompt nuovo",
+        "description": "Oggi prova un prompt che non avresti usato. Non perché fosse sbagliato, ma perché non ti fidavi di cosa potesse uscirne.",
+        "visual_hint": "mano che digita",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "hands typing"
+      },
+      {
+        "hook": "Costa meno di un caffè",
+        "description": "Apri il chat e fai una domanda che prima avresti evitato. Vedi cosa succede. Un esperimento che costa meno di un caffè al giorno.",
+        "visual_hint": "tazza di caffè",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "coffee cup"
+      }
+    ],
+    "pubDate": "Sat, 09 May 2026 21:45:00 +0000",
+    "savedAt": "2026-05-10T02:06:06.483Z",
+    "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+  },
+  {
     "title": "Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027",
     "slides": [
       "At Disrupt 2026: your next round is already lost?",
