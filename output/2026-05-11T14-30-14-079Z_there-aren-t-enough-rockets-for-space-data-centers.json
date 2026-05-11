@@ -1,0 +1,70 @@
+{
+  "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+  "slides": [
+    "Space data centers need rockets. There aren't enough.",
+    "Cowboy Space raised $275 million to launch clusters.",
+    "No rocket currently built can lift even one module.",
+    "Your latency to orbit could drop from seconds to milliseconds.",
+    "Bet on vertical integration or wait for a launcher."
+  ],
+  "thread_text": [
+    "Nessun razzo esistente può lanciare un solo modulo dei data center spaziali. Il problema non è domani: è oggi.",
+    "Cowboy Space ha raccolto 275 milioni per lanciare cluster di server in orbita. I soldi ci sono. I razzi no.",
+    "Ogni modulo deve essere costruito per resistere a un lancio che ancora non esiste. È un atto di fede ingegneristico.",
+    "Se risolvi il lancio, la latenza cala da secondi a millisecondi. La domanda è chi arriva prima: il mercato o il vettore.",
+    "O verticalizzi — razzo + modulo insieme — o aspetti che qualcun altro lo faccia. Non esiste terza via."
+  ],
+  "video_script": [
+    "Nessun razzo può lanciare quei moduli.",
+    "Cowboy Space ha raccolto 275 milioni.",
+    "I soldi ci sono, i razzi no.",
+    "La latenza potrebbe crollare a millisecondi.",
+    "O integri tutto o aspetti un razzo."
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Nessun razzo può lanciarlo",
+      "description": "Nessun razzo esistente può lanciare un solo modulo dei data center spaziali. Il problema non è domani: è oggi.",
+      "visual_hint": "Razzo piccolo accanto a modulo gigante",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "space rocket launch"
+    },
+    {
+      "hook": "275 milioni, zero razzi",
+      "description": "Cowboy Space ha raccolto 275 milioni per lanciare cluster in orbita. I soldi ci sono. I razzi no.",
+      "visual_hint": "Mucchio di monete con razzo disegnato",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stack of coins"
+    },
+    {
+      "hook": "Atto di fede ingegneristico",
+      "description": "Ogni modulo deve resistere a un lancio che non esiste ancora. Costruisci per un razzo che qualcuno deve inventare.",
+      "visual_hint": "Modulo spaziale su tavolo da disegno",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "satellite blueprint"
+    },
+    {
+      "hook": "Da secondi a millisecondi",
+      "description": "Se risolvi il lancio, la latenza crolla. La domanda è: chi arriva prima, il mercato o il vettore?",
+      "visual_hint": "Manoscritto che tocca globo terrestre",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching globe"
+    },
+    {
+      "hook": "Verticalizza o aspetti",
+      "description": "O costruisci razzo e modulo insieme, o aspetti che qualcun altro lo faccia. Non esiste terza via.",
+      "visual_hint": "Frecce convergenti verso un punto",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "two arrows converging"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Cowbow-Space-Company-photo.jpeg?resize=1200,960",
+  "pubDate": "Mon, 11 May 2026 13:00:00 +0000",
+  "savedAt": "2026-05-11T14:30:46.862Z",
+  "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/"
+}
