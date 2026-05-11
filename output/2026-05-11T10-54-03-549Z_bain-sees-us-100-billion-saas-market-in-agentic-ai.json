@@ -1,0 +1,69 @@
+{
+  "title": "Bain sees US$100 billion SaaS market in agentic AI automation",
+  "slides": [
+    "Bain punta a 100 miliardi di dollari. Come ti cambia lavoro?",
+    "Non è solo software: sono agenti autonomi che agiscono.",
+    "Il 70% dei costi attuali? Assorbiti da automazione intelligente.",
+    "Chi non adotta agenti perde vantaggio competitivo immediato.",
+    "Prova oggi un agente su un processo ripetitivo."
+  ],
+  "thread_text": [
+    "Il 70% dei costi delle aziende sarà assorbito da automazione intelligente. E non è una stima, è già in atto.",
+    "Quell'automazione non è un software passivo. Sono agenti autonomi che prendono decisioni e agiscono da soli.",
+    "Bain punta a 100 miliardi di dollari su questo. Non è una scommessa, è la direzione in cui sta andando il mercato.",
+    "Chi non integra agenti nei propri processi perde vantaggio competitivo immediato. Non tra un anno: ora.",
+    "Costa meno di un abbonamento Spotify. Testalo questa settimana su un processo ripetitivo che odi."
+  ],
+  "video_script": [
+    "Il 70% dei tuoi costi sparirà con l'automazione.",
+    "Non è un software normale, sono agenti autonomi.",
+    "Bain punta 100 miliardi su questa direzione.",
+    "Se non li usi, perdi subito vantaggio.",
+    "Provane uno gratis su un task noioso."
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Il 70% dei costi? Addio.",
+      "description": "Il 70% dei costi aziendali sarà assorbito da automazione intelligente. Non è una stima, è già in atto.",
+      "visual_hint": "Grafico a torta che si sgretola",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market crash chart"
+    },
+    {
+      "hook": "Software passivo? Superato.",
+      "description": "Non è software passivo. Sono agenti autonomi che prendono decisioni e agiscono da soli.",
+      "visual_hint": "Braccio robotico che preme pulsante",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot arm button"
+    },
+    {
+      "hook": "100 miliardi di dollari.",
+      "description": "Bain punta a 100 miliardi su questo mercato. Non è una scommessa, è la direzione del mercato.",
+      "visual_hint": "Fila di server con luci blu",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center servers blue"
+    },
+    {
+      "hook": "Chi non adotta, perde.",
+      "description": "Chi non integra agenti perde vantaggio competitivo immediato. Non tra un anno: ora.",
+      "visual_hint": "Semaforo rosso con lancetta",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "red traffic light closeup"
+    },
+    {
+      "hook": "Provalo su un processo noioso.",
+      "description": "Costa meno di un abbonamento Spotify. Testalo su un processo ripetitivo che odi.",
+      "visual_hint": "Telefono con app che si attiva",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen app"
+    }
+  ],
+  "pubDate": "Mon, 11 May 2026 10:00:00 +0000",
+  "savedAt": "2026-05-11T10:54:22.312Z",
+  "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/"
+}
