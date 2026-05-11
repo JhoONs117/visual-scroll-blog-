@@ -23,6 +23,9 @@ Non è necessario capire tutto il codice: ogni sezione indica esattamente quale 
 14. [Come fare il backfill carousel e immagini](#14-come-fare-il-backfill-carousel-e-immagini)
 15. [Come scaricare le slide carousel come PNG per Instagram](#15-come-scaricare-le-slide-carousel-come-png-per-instagram)
 16. [Come funziona la generazione dei contenuti](#16-come-funziona-la-generazione-dei-contenuti)
+17. [Variabili d'ambiente — lista completa e dove configurarle](#17-variabili-dambiente--lista-completa-e-dove-configurarle)
+18. [Checklist debug — quando qualcosa non funziona](#18-checklist-debug--quando-qualcosa-non-funziona)
+19. [Come gestire review_queue.json e rimuovere un articolo](#19-come-gestire-review_queuejson-e-rimuovere-un-articolo)
 
 ---
 
@@ -637,3 +640,184 @@ Per ogni slide genera:
 | `carousel_slides` con description inventate | `thread_text` assente come input | Verificare che `GENERATE_FORMATS=true` nel `.env` |
 
 Dopo ogni modifica al prompt: `echo "{}" > cache.json` → `node regenerate-all.js`
+
+---
+
+## 17. Variabili d'ambiente — lista completa e dove configurarle
+
+Il progetto usa tre variabili. Ognuna deve essere impostata nei posti giusti — mancarne uno causa bug silenziosi che funzionano in locale ma non in produzione.
+
+### Lista completa
+
+| Variabile | Cosa fa | `.env` locale | GitHub Secrets | Railway dashboard |
+|---|---|---|---|---|
+| `DEEPSEEK_API_KEY` | Chiave API per generare slide, thread, script | ✅ | ✅ | ✅ |
+| `PEXELS_API_KEY` | Chiave API per le immagini delle slide carousel | ✅ | ✅ | ✅ |
+| `GENERATE_FORMATS` | Attiva generazione thread X e script video | ✅ (`=true`) | — | — |
+
+> `GENERATE_FORMATS` non serve su Railway (il server non genera contenuti) né come GitHub Secret (è già hardcoded in `pipeline.yml` come variabile d'ambiente del job, non segreto).
+
+### Come impostare su Railway
+
+1. Vai su [railway.app](https://railway.app) → apri il progetto
+2. Clicca sul servizio → tab **Variables**
+3. Aggiungi la variabile con nome esatto e valore
+4. Railway rideploya automaticamente
+
+### Come impostare su GitHub Secrets
+
+1. Vai su `https://github.com/JhoONs117/visual-scroll-blog-`
+2. **Settings** → **Secrets and variables** → **Actions**
+3. Clicca **New repository secret**
+4. Nome esatto (es. `PEXELS_API_KEY`), incolla il valore, salva
+
+### Come verificare che siano presenti
+
+```bash
+# Verifica .env locale
+cat /home/miki/visual-scroll-blog/.env
+
+# Verifica GitHub: Settings → Secrets and variables → Actions
+# Verifica Railway: tab Variables del servizio
+```
+
+> ⚠️ `.env` è nel `.gitignore` — non viene mai pushato su GitHub. Ogni macchina nuova richiede di ricrearlo manualmente.
+
+---
+
+## 18. Checklist debug — quando qualcosa non funziona
+
+### Il sito non mostra articoli nuovi
+
+Controlla in questo ordine:
+
+1. **GitHub Actions ha girato?**
+   Vai su GitHub → Actions → controlla l'ultima esecuzione. Verde = OK, rosso = fallita.
+
+2. **La pipeline ha generato articoli?**
+   Clicca sull'esecuzione → espandi **Esegui pipeline** → leggi il riepilogo (`Slide generate: N`). Se N=0, il problema è nei filtri o in DeepSeek.
+
+3. **Railway ha il deploy aggiornato?**
+   Vai su railway.app → controlla che l'ultimo deploy sia successivo all'ultimo push di GitHub Actions. Se è vecchio, Railway non ha fatto autodeploy — verifica che l'integrazione GitHub sia attiva.
+
+4. **`frontend/data.js` è aggiornato?**
+   ```bash
+   head -3 /home/miki/visual-scroll-blog/frontend/data.js
+   ```
+   Controlla che il primo articolo nell'array abbia una `savedAt` recente.
+
+---
+
+### Le immagini del carousel sono assenti (slide grigie)
+
+1. **`PEXELS_API_KEY` è impostata su Railway?**
+   Tab Variables su railway.app. Se manca, le slide 2-5 non hanno immagini in produzione.
+
+2. **`article.image` è presente nei JSON?**
+   ```bash
+   cat /home/miki/visual-scroll-blog/output/$(ls -t output/ | head -1) | grep '"image"'
+   ```
+   Se il campo manca, il sito sorgente blocca i bot oppure l'articolo non ha `og:image`.
+
+3. **Pexels restituisce errori?**
+   Controlla i log di GitHub Actions — cerca `not found` o `pexels`. Un tasso > 20% di "not found" è normale; oltre indica un problema di query o rate limit.
+
+---
+
+### La pipeline fallisce su GitHub Actions
+
+Apri il log dell'esecuzione fallita e cerca il messaggio di errore. Cause più frequenti:
+
+| Messaggio nel log | Causa | Soluzione |
+|---|---|---|
+| `401 Unauthorized` o `Authentication failed` | `DEEPSEEK_API_KEY` scaduta o errata | Rinnova la chiave su platform.deepseek.com e aggiorna il GitHub Secret |
+| `Insufficient balance` | Credito DeepSeek esaurito | Ricarica su platform.deepseek.com |
+| `PEXELS_API_KEY` non definita | Secret mancante su GitHub | Aggiungi `PEXELS_API_KEY` nei GitHub Secrets (§17) |
+| `git push` fallisce | Branch remoto avanti rispetto al locale | Raro nelle Actions; se succede: `git pull --rebase && git push` in locale poi re-trigger |
+| Tutti i feed RSS falliti | Siti offline temporaneamente | Aspetta e re-trigger manualmente (§9) |
+
+---
+
+### Articoli generati ma thread/script mancanti
+
+```bash
+cat /home/miki/visual-scroll-blog/output/$(ls -t output/ | head -1) | grep '"thread_text"'
+```
+
+Se il campo non c'è:
+- Verifica che `GENERATE_FORMATS=true` sia nel `.env` locale
+- Verifica che `pipeline.yml` contenga `GENERATE_FORMATS: 'true'` nelle env del job
+- Esegui `node backfill.js` per aggiungere retroattivamente i formati mancanti (§11)
+
+---
+
+### Il sito è online ma mostra contenuti vecchi dopo un push
+
+Railway impiega ~1 minuto per fare il redeploy dopo ogni push. Se dopo 3 minuti il sito mostra ancora la versione vecchia:
+1. Vai su railway.app → controlla lo stato del deploy (deve essere **Active**, non **Building** o **Failed**)
+2. Se il deploy è fallito, clicca **View logs** per vedere il motivo
+3. Se non ha triggerato: verifica che l'integrazione GitHub sia collegata nel tab **Settings** del servizio
+
+---
+
+## 19. Come gestire review_queue.json e rimuovere un articolo
+
+### review_queue.json — cos'è e quando intervenire
+
+`review_queue.json` raccoglie gli articoli che non hanno superato la validazione dopo 2 tentativi (slide malformate, JSON non valido, ecc.). Quando supera 10 elementi, `run.js` stampa un warning nei log.
+
+**Ispezionare il contenuto:**
+```bash
+cat /home/miki/visual-scroll-blog/review_queue.json
+```
+
+Ogni elemento ha il titolo dell'articolo e l'output grezzo ricevuto da DeepSeek. Di solito la causa è una risposta JSON malformata per un titolo ambiguo o molto tecnico.
+
+**Svuotare la coda** (dopo aver letto i casi):
+```bash
+echo "[]" > /home/miki/visual-scroll-blog/review_queue.json
+```
+
+> Non è necessario salvare questi articoli — se il titolo è valido, il prossimo run lo riprenderà e probabilmente lo genererà correttamente.
+
+---
+
+### Rimuovere un articolo specifico da output/
+
+Se un articolo generato è sbagliato (topic errato, qualità pessima, informazione falsa):
+
+**1. Trova il file:**
+```bash
+ls /home/miki/visual-scroll-blog/output/ | grep "parola-del-titolo"
+```
+
+**2. Elimina il file:**
+```bash
+rm /home/miki/visual-scroll-blog/output/NOME_FILE.json
+```
+
+**3. Ricostruisci `data.js`** — serve uno script per fare la dedup e il sort. Il modo più semplice è lanciare backfill-carousel senza argomenti in modalità dry (oppure aggiornare manualmente):
+```bash
+cd /home/miki/visual-scroll-blog
+node backfill-carousel.js --last 0 2>/dev/null || node -e "
+const fs = require('fs'), path = require('path');
+const OUTPUT_DIR = path.join(__dirname, 'output');
+const seen = new Set();
+const unique = fs.readdirSync(OUTPUT_DIR)
+  .filter(f => f.endsWith('.json')).sort().reverse()
+  .map(f => JSON.parse(fs.readFileSync(path.join(OUTPUT_DIR, f), 'utf8')))
+  .filter(a => { const k = (a.title||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').slice(0,50); if(seen.has(k))return false; seen.add(k); return true; })
+  .sort((a,b) => new Date(b.savedAt||0) - new Date(a.savedAt||0));
+fs.writeFileSync(path.join(__dirname,'frontend','data.js'), 'window.ARTICLES = ' + JSON.stringify(unique, null, 2) + ';');
+console.log('data.js aggiornato con ' + unique.length + ' articoli.');
+"
+```
+
+**4. Push per aggiornare il sito:**
+```bash
+git add output/ frontend/data.js
+git commit -m "rimuovi articolo errato"
+git push
+```
+
+> Aggiungere il titolo rimosso alla BLACKLIST in `filter.js` (§2) se vuole che quel tipo di notizia non venga più raccolta.
