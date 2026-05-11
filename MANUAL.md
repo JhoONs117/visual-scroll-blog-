@@ -309,6 +309,17 @@ Cerca questa riga:
 
 Dopo la modifica fai `git push` — GitHub applica il nuovo orario automaticamente.
 
+### Tempi di deploy Railway
+
+Il deploy su Railway viene triggerato automaticamente ad ogni push su `main` e impiega ~1 minuto. Questo è garantito dal file `.railwayignore` nella root del progetto, che esclude la cartella `output/` dal download di Railway:
+
+```
+# .railwayignore
+output/
+```
+
+Railway serve solo `frontend/` — i JSON grezzi in `output/` non gli servono. Senza questo file, ogni backfill massiccio poteva portare i deploy a 10+ minuti. Non rimuovere `.railwayignore`.
+
 ---
 
 ## 10. Come usare la pagina di review

@@ -88,7 +88,8 @@ M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → 
 | `frontend/review.html` | Pagina review locale: thread X, script video, "Copia tutto" per articolo |
 | `frontend/carousel.html` | Preview carousel 270×337px + download PNG 1080×1350px per Instagram |
 | `frontend/data.js` | Generato da `run.js` — `window.ARTICLES = [...]`, ordinato per `savedAt` desc |
-| `.github/workflows/pipeline.yml` | GitHub Actions — cron `0 */2 * * *`, `GENERATE_FORMATS=true` |
+| `.github/workflows/pipeline.yml` | GitHub Actions — cron `0 */2 * * *`, `GENERATE_FORMATS=true`, `PEXELS_API_KEY` |
+| `.railwayignore` | Esclude `output/` dal deploy Railway — deploy stabili a ~1 min indipendentemente dalla crescita degli articoli |
 | `test-distribuzione.md` | Log giornaliero dei post M21 su X |
 | `MANUAL.md` | Manuale operativo: come modificare sorgenti, backfill, scaricare PNG |
 
@@ -114,6 +115,7 @@ ogni 2 ore
 - **Pexels API**: free tier, 200 req/ora, 20.000/mese — sufficiente (4-8 nuovi articoli/run = 16-32 chiamate)
 - **Backfill selettivo**: `node backfill-carousel.js --force --last N` per aggiornare gli N più recenti
 - **Token GitHub**: serve scope `workflow` per pushare `.github/workflows/`
+- **Railway deploy**: ~1 minuto grazie a `.railwayignore` che esclude `output/` — Railway serve solo `frontend/`, i JSON grezzi non servono sul server
 - **Nota crescita**: quando `data.js` pesa sul browser (centinaia di articoli), aggiungere `articles.slice(-50)` in `run.js` prima di scrivere il file
 
 ---
