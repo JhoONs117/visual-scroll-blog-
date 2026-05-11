@@ -1,6 +1,6 @@
 # CONTEXT — Visual AI Scroll Blog
 
-Stato aggiornato al: 2026-05-08
+Stato aggiornato al: 2026-05-11
 
 ---
 
@@ -189,23 +189,37 @@ chiediti "fa venire voglia di leggere la prossima?" — se meno di 8/10 sì, tor
 
 - `generateCarouselSlides(title, slides, thread_text)` aggiunta in `generate.js`
   - 5 `carousel_slides` per articolo con: `hook`, `description`, `visual_hint`, `layout_type`, `icon`, `image_query`
-  - `image_query`: 2-3 keyword inglesi per ricerca immagine Wikimedia per ogni slide
+  - `image_query`: 2-3 keyword inglesi per ricerca immagine per ogni slide
   - layout_type fisso in ordine: hero → right-focus → sensor-zoom → human-hand → cta-final
   - icon scelto dall'AI tra: tag, waves, heart, vibration, check
-- `backfill-carousel.js`: script autonomo per retroattivamente aggiungere `carousel_slides`, `article.image` e immagini Wikimedia agli articoli esistenti
-  - `fetchArticleImage()`: og:image dal sito sorgente → campo `article.image`
-  - `fetchWikimediaImage()`: Wikimedia Commons API con User-Agent, filtri PDF/SVG/loghi/ritratti, match ≥2 parole
-  - Testato su 2 articoli ✅ — full backfill 57 articoli ⏳
+- `backfill-carousel.js`: aggiunge retroattivamente `carousel_slides`, `article.image` e immagini agli articoli esistenti
+  - Flag `--force`: sovrascrive immagini già presenti (usato per migrazione Wikimedia → Pexels)
+  - Flag `--last N`: limita il backfill agli N articoli più recenti
 - `frontend/carousel.html`: preview 270×337px dark tech
-  - Slide 1: `article.image` come sfondo (overlay dark)
-  - Slide 2-5: immagini Wikimedia via `cs.image_query`
+  - Slide 1: `article.image` (og:image dal sito sorgente) come sfondo
+  - Slide 2-5: immagini Pexels via `cs.image_query`
   - Fallback: gradiente dark per slide senza immagine
   - Badge dinamico da dominio articolo, handle @FlashAI, thread preview
 - `frontend/index.html`: `.slide-visual` aggiornato con `article.image` come sfondo
 
-**Backfill completo (2026-05-08):** 58/58 articoli con `carousel_slides` ✅ — 127 immagini Wikimedia trovate, 95 slide usano card carousel inline come fallback visivo in `index.html`. Bug fix: `buildDataJs` ora ordina i file per timestamp desc prima della deduplicazione per slug.
+**Backfill completo (2026-05-08):** 58/58 articoli con `carousel_slides` ✅
 
-**Prossimo upgrade immagini (futuro):** sostituire Wikimedia con **Pexels API** (gratuita, foto editoriali di qualità superiore). Vedere sezione "Implementazione futura" in M21-roadmap.md.
+### Upgrade Pexels + Download PNG ✅ (2026-05-11)
+
+- **Pexels API** sostituisce Wikimedia per le slide 2-5 del carousel
+  - `fetchPexelsImage(query)` e `fetchArticleImage(url)` spostate in `fetch.js` (condivise da `run.js` e `backfill-carousel.js`)
+  - Orientamento `portrait`, risoluzione `large2x` (~1880px) — qualità professionale per Instagram
+  - Rate limit: 18s di delay tra chiamate nel backfill (200 req/ora Pexels free tier)
+  - `PEXELS_API_KEY` in `.env` e su Railway
+- **`run.js` aggiornato**: ogni nuovo articolo riceve automaticamente Pexels (slide 2-5) + og:image (slide 1) senza backfill manuale
+- **`carousel.html` — download PNG per Instagram**
+  - Bottone "Scarica slide N" sotto ogni slide → PNG 1080×1350px (4:5 esatto, pronto per IG)
+  - Bottone "Scarica tutte e 5" → download sequenziale
+  - Click su una slide → modal con `<img>` reale → tasto destro / long press su mobile per salvare nativamente
+  - Fix PNG: niente border-radius nel capture, sfondo `#080c18`, resize a 1080×1350 esatti (2px in meno causavano crop automatico di Instagram)
+  - `html2canvas@1.4.1` da CDN per rendering HTML→PNG
+- **Backfill ultime 20 notizie** ✅: 76/76 Pexels + 4 og:image recuperate
+- **M21 iniziato**: primo thread pubblicato su X il 2026-05-11 alle 15:00 (ora italiana) — orario fisso per tutti i 15 giorni
 
 ### PRE-M21 — Fix prompt generateSlides + generateFormats ✅ (2026-05-07)
 - `generateSlides()`: aggiunto vincolo "tensione irrisolta" — ogni slide deve lasciare domanda aperta o info incompleta. Slide 1 può ancorare sul nome azienda/protagonista purché aggiunga tensione; se un'altra slide ha hook più forte, riordina la struttura.
@@ -234,11 +248,12 @@ chiediti "fa venire voglia di leggere la prossima?" — se meno di 8/10 sì, tor
 ```
 ogni 2 ore
   └── GitHub Actions esegue run.js
-        └── fetch RSS → filter → AI filter → generate slides
-              └── salva output/*.json + frontend/data.js
-                    └── git commit + push
-                          └── Railway rideploya automaticamente
-                                └── sito aggiornato online
+        └── fetch RSS → filter → AI filter → generate slides + formats + carousel
+              └── fetch Pexels (slide 2-5) + og:image (slide 1)
+                    └── salva output/*.json + frontend/data.js
+                          └── git commit + push
+                                └── Railway rideploya automaticamente
+                                      └── sito aggiornato online
 ```
 
 ---
@@ -250,3 +265,5 @@ ogni 2 ore
 - **GitHub Actions**: gratuito fino a 2000 min/mese — il progetto ne usa ~30/mese
 - **Token GitHub**: quello con scope `workflow` è necessario per pushare il file `.github/workflows/`
 - **WSL cron**: installato ma non necessario — GitHub Actions è la fonte primaria di automazione
+- **Pexels API**: free tier, 200 req/ora, 20.000/mese — sufficiente per la pipeline (4-8 nuovi articoli/run = 16-32 chiamate)
+- **Backfill selettivo**: `node backfill-carousel.js --force --last N` per aggiornare gli N articoli più recenti con Pexels

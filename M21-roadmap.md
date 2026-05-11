@@ -1,7 +1,7 @@
 # Roadmap M21 — Test Distribuzione Reale
 
-Stato: M21b ✅ COMPLETA — Step A ✅ A.5 ✅ B ✅ C ✅ D ✅ E ✅  
-Aggiornato: 2026-05-08
+Stato: M21b ✅ COMPLETA — Step A ✅ A.5 ✅ B ✅ C ✅ D ✅ E ✅ — Pexels ✅ — Download PNG ✅  
+Aggiornato: 2026-05-11
 
 ---
 
@@ -596,36 +596,22 @@ node backfill-carousel.js
 
 ---
 
-### Implementazione futura — Pexels API (upgrade qualità immagini)
+### Pexels API — upgrade immagini carousel ✅ (2026-05-11)
 
-Wikimedia Commons ha immagini enciclopediche — buona copertura ma qualità editoriale limitata su topic tech moderni.
+Wikimedia sostituita con Pexels su tutte le slide 2-5. Implementato anticipatamente rispetto alla FASE 5 perché M21 richiede già immagini di qualità per i post Instagram.
 
-**Pexels** è l'upgrade naturale:
-- API gratuita, 200 richieste/ora (sufficiente per backfill completo)
-- Foto editoriali di qualità professionale (tech, uffici, server room, persone in contesto)
-- Nessun costo, registrazione semplice su pexels.com/api
-- Risposta JSON pulita con URL immagine diretti
+**Cosa è stato fatto:**
+- `fetchPexelsImage(query)` e `fetchArticleImage(url)` aggiunte a `fetch.js` (condivise)
+- `backfill-carousel.js`: Pexels al posto di Wikimedia, flag `--force` per sovrascrittura, flag `--last N` per backfill selettivo
+- `run.js`: fetch Pexels (slide 2-5) + og:image (slide 1) automatici su ogni nuovo articolo
+- `carousel.html`: download PNG 1080×1350 esatti per Instagram (html2canvas, no border-radius, bottoni per slide + scarica tutte + modal tasto destro/long press)
+- Backfill eseguito sulle ultime 20 notizie: 76/76 Pexels trovate ✅
 
-**Come integrare (quando si vuole):**
-
-1. Ottenere API key da pexels.com/api
-2. Aggiungere `PEXELS_API_KEY` al `.env` e a Railway
-3. Sostituire `fetchWikimediaImage()` in `backfill-carousel.js` con:
-
-```javascript
-async function fetchPexelsImage(query) {
-  const res = await fetch(
-    `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=5&orientation=landscape`,
-    { headers: { Authorization: process.env.PEXELS_API_KEY } }
-  );
-  const data = await res.json();
-  return data.photos?.[0]?.src?.large || null;
-}
-```
-
-4. Eseguire `node backfill-carousel.js` per sovrascrivere le immagini Wikimedia esistenti (rimuovere il check `if (!cs.image)` per forzare il rinnovo)
-
-**Perché non ora:** Wikimedia funziona, non richiede account aggiuntivi, ed è sufficiente per il test M21. Pexels è l'upgrade per FASE 5 (Instagram reale) quando la qualità visiva diventa prioritaria.
+**Parametri:**
+- Orientamento: `portrait` (adatto alle card 4:5)
+- Qualità: `large2x` (~1880px)
+- Rate limit backfill: 18s tra chiamate (200 req/ora free tier)
+- Per future migrazioni: `node backfill-carousel.js --force --last N`
 
 ---
 
