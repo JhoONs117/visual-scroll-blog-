@@ -39,7 +39,8 @@
       "visual_hint": "Primo piano sensori sul dispositivo",
       "layout_type": "right-focus",
       "icon": "waves",
-      "image_query": "health sensor array"
+      "image_query": "health sensor array",
+      "image": "https://images.pexels.com/photos/8088870/pexels-photo-8088870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Segnali sulla pelle, non occhi",
@@ -47,7 +48,8 @@
       "visual_hint": "Braccio con vibrazione tattile",
       "layout_type": "sensor-zoom",
       "icon": "heart",
-      "image_query": "haptic feedback wrist"
+      "image_query": "haptic feedback wrist",
+      "image": "https://images.pexels.com/photos/18078985/pexels-photo-18078985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Indossalo e dimentica il polso",
@@ -55,7 +57,8 @@
       "visual_hint": "Mano con Fitbit Air al polso",
       "layout_type": "human-hand",
       "icon": "vibration",
-      "image_query": "wrist wearable device"
+      "image_query": "wrist wearable device",
+      "image": "https://images.pexels.com/photos/18078985/pexels-photo-18078985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Schermo? Mai più.",
@@ -63,7 +66,8 @@
       "visual_hint": "Persona sorridente mostra polso",
       "layout_type": "cta-final",
       "icon": "check",
-      "image_query": "person smiling wrist"
+      "image_query": "person smiling wrist",
+      "image": "https://images.pexels.com/photos/35688435/pexels-photo-35688435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/fitbit-air.png?resize=1200,752"

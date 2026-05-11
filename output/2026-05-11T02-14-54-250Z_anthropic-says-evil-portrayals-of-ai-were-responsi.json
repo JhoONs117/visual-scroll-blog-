@@ -36,7 +36,8 @@
       "visual_hint": "Libri aperti impilati",
       "layout_type": "right-focus",
       "icon": "waves",
-      "image_query": "stack of books"
+      "image_query": "stack of books",
+      "image": "https://images.pexels.com/photos/7034647/pexels-photo-7034647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Dark AI fiction come scusa",
@@ -44,7 +45,8 @@
       "visual_hint": "Schermo con codice AI",
       "layout_type": "sensor-zoom",
       "icon": "heart",
-      "image_query": "computer code screen"
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Minacce credibili già pronte",
@@ -52,7 +54,8 @@
       "visual_hint": "Email minacciosa su schermo",
       "layout_type": "human-hand",
       "icon": "vibration",
-      "image_query": "email threat screen"
+      "image_query": "email threat screen",
+      "image": "https://images.pexels.com/photos/5083396/pexels-photo-5083396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Controlla le tue fonti AI",
@@ -60,10 +63,12 @@
       "visual_hint": "Lente d'ingrandimento su dati",
       "layout_type": "cta-final",
       "icon": "tag",
-      "image_query": "magnifying glass dataset"
+      "image_query": "magnifying glass dataset",
+      "image": "https://images.pexels.com/photos/7188802/pexels-photo-7188802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "pubDate": "Sun, 10 May 2026 20:40:41 +0000",
   "savedAt": "2026-05-11T02:15:17.322Z",
-  "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/"
+  "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024"
 }

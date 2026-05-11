@@ -40,7 +40,7 @@
       "layout_type": "right-focus",
       "icon": "waves",
       "image_query": "fingerprint comparison",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fingerprint_Comparison.jpg/960px-Fingerprint_Comparison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image": "https://images.pexels.com/photos/7479535/pexels-photo-7479535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "L'avvisaglia di un pericolo più grande",
@@ -49,7 +49,7 @@
       "layout_type": "sensor-zoom",
       "icon": "heart",
       "image_query": "magnifying glass screen",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Virtual_magnifying_glass_screenshot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      "image": "https://images.pexels.com/photos/6621023/pexels-photo-6621023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "La tua scuola potrebbe essere la prossima",
@@ -57,7 +57,8 @@
       "visual_hint": "Mano che clicca su icona pericolo",
       "layout_type": "human-hand",
       "icon": "vibration",
-      "image_query": "hand clicking warning"
+      "image_query": "hand clicking warning",
+      "image": "https://images.pexels.com/photos/33206681/pexels-photo-33206681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Controlla i login oggi stesso",
@@ -65,7 +66,8 @@
       "visual_hint": "Checklist su schermo blu",
       "layout_type": "cta-final",
       "icon": "check",
-      "image_query": "checklist on monitor"
+      "image_query": "checklist on monitor",
+      "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/shinyhunters-instructure-canvas-login-defacement.jpg?resize=1200,807"

@@ -40,7 +40,7 @@
       "layout_type": "right-focus",
       "icon": "waves",
       "image_query": "office corridor people",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/SCO_corridor_in_Florham_Park_New_Jersey_office_guarded_by_SCOland_Sheriff_April_1996.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      "image": "https://images.pexels.com/photos/6566809/pexels-photo-6566809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Smetti di litigare per una promozione.",
@@ -49,7 +49,7 @@
       "layout_type": "sensor-zoom",
       "icon": "heart",
       "image_query": "handshake office",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Business_man_and_woman_handshake_in_work_office.jpg/960px-Business_man_and_woman_handshake_in_work_office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image": "https://images.pexels.com/photos/8297656/pexels-photo-8297656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Aumento automatico o meritocrazia?",
@@ -58,7 +58,7 @@
       "layout_type": "human-hand",
       "icon": "vibration",
       "image_query": "person thinking desk",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lt._Cmdr._Zeita_Merchant_sits_on_the_edge_of_her_desk_thinking_about_all_of_the_women_who_have_given_her_guidance_over_the_years_130306-G-EK967-001.jpg/960px-Lt._Cmdr._Zeita_Merchant_sits_on_the_edge_of_her_desk_thinking_about_all_of_the_women_who_have_given_her_guidance_over_the_years_130306-G-EK967-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image": "https://images.pexels.com/photos/6609455/pexels-photo-6609455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Prova a chiedere al tuo team.",
@@ -66,7 +66,8 @@
       "visual_hint": "domanda scritta su lavagna",
       "layout_type": "cta-final",
       "icon": "check",
-      "image_query": "whiteboard question"
+      "image_query": "whiteboard question",
+      "image": "https://images.pexels.com/photos/6325944/pexels-photo-6325944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800"

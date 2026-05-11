@@ -40,7 +40,7 @@
       "layout_type": "right-focus",
       "icon": "waves",
       "image_query": "driver hands wheel",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/R.E._Peary%2C_Jr._at_Sydney%2C_drivers_wheel_in_hand_LCCN2014684237.jpg/960px-R.E._Peary%2C_Jr._at_Sydney%2C_drivers_wheel_in_hand_LCCN2014684237.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image": "https://images.pexels.com/photos/4391487/pexels-photo-4391487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Auto identiche, voti opposti",
@@ -48,7 +48,8 @@
       "visual_hint": "Grafico a confronto",
       "layout_type": "sensor-zoom",
       "icon": "heart",
-      "image_query": "safety rating chart"
+      "image_query": "safety rating chart",
+      "image": "https://images.pexels.com/photos/7948058/pexels-photo-7948058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "La scelta cambia tutto",
@@ -57,7 +58,7 @@
       "layout_type": "human-hand",
       "icon": "vibration",
       "image_query": "car key hand",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_President%2C_Smt._Pratibha_Devisingh_Patil_handing_over_the_key_of_permanent_houses_built_for_the_Tsunami_victims_of_Kinyuka_village_in_Car_Nicobar_Islands%2C_on_December_26%2C_2007.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image": "https://images.pexels.com/photos/12969398/pexels-photo-12969398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Controlla la tua ora",
@@ -65,7 +66,8 @@
       "visual_hint": "Schermo con punteggio",
       "layout_type": "cta-final",
       "icon": "tag",
-      "image_query": "smartphone safety app"
+      "image_query": "smartphone safety app",
+      "image": "https://images.pexels.com/photos/17249214/pexels-photo-17249214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/01/tesla-model-y-juniper-north-america.jpg?resize=1200,850"

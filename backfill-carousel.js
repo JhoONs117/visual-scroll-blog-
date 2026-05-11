@@ -39,9 +39,14 @@ function buildDataJs(allFiles) {
 }
 
 (async () => {
-  const FILTER = process.argv.slice(2).filter(a => !a.startsWith('--'));
+  const args    = process.argv.slice(2);
+  const lastIdx = args.indexOf('--last');
+  const LAST    = lastIdx !== -1 ? parseInt(args[lastIdx + 1]) || null : null;
+  // escludi flag e il numero che segue --last dai filtri slug
+  const FILTER  = args.filter((a, i) => !a.startsWith('--') && i !== lastIdx + 1);
 
-  if (FORCE) console.log('Modalità --force: sovrascrive immagini Pexels esistenti (migrazione da Wikimedia)\n');
+  if (FORCE) console.log('Modalità --force: sovrascrive immagini Pexels esistenti');
+  if (LAST)  console.log(`Modalità --last ${LAST}: processa solo i ${LAST} articoli più recenti`);
 
   /* Carica tutti i file, prende il più recente per slug */
   const allFiles = fs.readdirSync(OUTPUT_DIR)
@@ -60,9 +65,13 @@ function buildDataJs(allFiles) {
     }
   }
 
-  const toProcess = FILTER.length
-    ? uniqueEntries.filter(({ key }) => FILTER.some(q => key.includes(q)))
-    : uniqueEntries;
+  const toProcess = (() => {
+    let list = FILTER.length
+      ? uniqueEntries.filter(({ key }) => FILTER.some(q => key.includes(q)))
+      : uniqueEntries;
+    if (LAST) list = list.slice(0, LAST);
+    return list;
+  })();
 
   /* Conta le chiamate Pexels previste per stimare il tempo */
   let expectedPexelsCalls = 0;

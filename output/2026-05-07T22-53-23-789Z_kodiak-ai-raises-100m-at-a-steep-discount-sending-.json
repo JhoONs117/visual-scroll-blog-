@@ -39,7 +39,8 @@
       "visual_hint": "Grafico con linea discendente",
       "layout_type": "right-focus",
       "icon": "waves",
-      "image_query": "downward trend chart"
+      "image_query": "downward trend chart",
+      "image": "https://images.pexels.com/photos/7172863/pexels-photo-7172863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Cassa in fiamme? Segnale certo",
@@ -47,7 +48,8 @@
       "visual_hint": "Clessidra con sabbia che scende",
       "layout_type": "sensor-zoom",
       "icon": "vibration",
-      "image_query": "hourglass running out"
+      "image_query": "hourglass running out",
+      "image": "https://images.pexels.com/photos/4386175/pexels-photo-4386175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Il tuo portafoglio replica quel panico",
@@ -55,7 +57,8 @@
       "visual_hint": "Persona che guarda foglio conti",
       "layout_type": "human-hand",
       "icon": "heart",
-      "image_query": "person reading financial paper"
+      "image_query": "person reading financial paper",
+      "image": "https://images.pexels.com/photos/7821547/pexels-photo-7821547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Quanti mesi ti restano?",
@@ -63,7 +66,8 @@
       "visual_hint": "Calendario con cerchio rosso",
       "layout_type": "cta-final",
       "icon": "tag",
-      "image_query": "calendar marked deadline"
+      "image_query": "calendar marked deadline",
+      "image": "https://images.pexels.com/photos/6892910/pexels-photo-6892910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2023/05/Kodiak_EV_3.jpg?resize=1200,800"

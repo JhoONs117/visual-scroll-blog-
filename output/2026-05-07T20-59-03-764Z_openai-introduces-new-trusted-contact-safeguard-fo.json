@@ -39,7 +39,8 @@
       "visual_hint": "Warning alert on device",
       "layout_type": "right-focus",
       "icon": "waves",
-      "image_query": "smartphone alert screen"
+      "image_query": "smartphone alert screen",
+      "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Tu autorizzi l'avviso.",
@@ -48,7 +49,7 @@
       "layout_type": "sensor-zoom",
       "icon": "heart",
       "image_query": "yes no button",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/LGBT%2B_together_for_Yes._button%2C_Groningen_%282019%29.jpg/960px-LGBT%2B_together_for_Yes._button%2C_Groningen_%282019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image": "https://images.pexels.com/photos/21562931/pexels-photo-21562931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Nessun contenuto condiviso.",
@@ -57,7 +58,7 @@
       "layout_type": "human-hand",
       "icon": "vibration",
       "image_query": "notification icon phone",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/HSPA_sign_shown_in_notification_bar_on_an_Android_powered_smartphone-_2014-04-28_13-56.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Attivala subito gratis.",
@@ -65,7 +66,8 @@
       "visual_hint": "Settings menu with toggle",
       "layout_type": "cta-final",
       "icon": "check",
-      "image_query": "privacy settings app"
+      "image_query": "privacy settings app",
+      "image": "https://images.pexels.com/photos/33632621/pexels-photo-33632621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024"

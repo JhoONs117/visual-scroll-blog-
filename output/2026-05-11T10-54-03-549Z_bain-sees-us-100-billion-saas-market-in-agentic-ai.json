@@ -36,7 +36,8 @@
       "visual_hint": "Braccio robotico che preme pulsante",
       "layout_type": "right-focus",
       "icon": "waves",
-      "image_query": "robot arm button"
+      "image_query": "robot arm button",
+      "image": "https://images.pexels.com/photos/29054365/pexels-photo-29054365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "100 miliardi di dollari.",
@@ -44,7 +45,8 @@
       "visual_hint": "Fila di server con luci blu",
       "layout_type": "sensor-zoom",
       "icon": "heart",
-      "image_query": "data center servers blue"
+      "image_query": "data center servers blue",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Chi non adotta, perde.",
@@ -52,7 +54,8 @@
       "visual_hint": "Semaforo rosso con lancetta",
       "layout_type": "human-hand",
       "icon": "vibration",
-      "image_query": "red traffic light closeup"
+      "image_query": "red traffic light closeup",
+      "image": "https://images.pexels.com/photos/33505454/pexels-photo-33505454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Provalo su un processo noioso.",
@@ -60,10 +63,12 @@
       "visual_hint": "Telefono con app che si attiva",
       "layout_type": "cta-final",
       "icon": "tag",
-      "image_query": "smartphone screen app"
+      "image_query": "smartphone screen app",
+      "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "pubDate": "Mon, 11 May 2026 10:00:00 +0000",
   "savedAt": "2026-05-11T10:54:22.312Z",
-  "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/"
+  "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Bain-sees-US100-billion-SaaS-market-in-agentic-AI-automation-scaled-e1778469528821.jpg"
 }

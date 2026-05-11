@@ -41,7 +41,8 @@
       "visual_hint": "Language diversity illustration",
       "layout_type": "right-focus",
       "icon": "waves",
-      "image_query": "multilingual signboard"
+      "image_query": "multilingual signboard",
+      "image": "https://images.pexels.com/photos/23436802/pexels-photo-23436802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Accento non è un bug",
@@ -49,7 +50,8 @@
       "visual_hint": "Audio frequency zoom",
       "layout_type": "sensor-zoom",
       "icon": "heart",
-      "image_query": "audio waveform"
+      "image_query": "audio waveform",
+      "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Test fallito in hindi",
@@ -57,7 +59,8 @@
       "visual_hint": "Phone voice command fail",
       "layout_type": "human-hand",
       "icon": "tag",
-      "image_query": "smartphone hand"
+      "image_query": "smartphone hand",
+      "image": "https://images.pexels.com/photos/8937013/pexels-photo-8937013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "30 secondi per scoprire il problema",
@@ -65,10 +68,12 @@
       "visual_hint": "Voice recording microphone",
       "layout_type": "cta-final",
       "icon": "check",
-      "image_query": "microphone closeup"
+      "image_query": "microphone closeup",
+      "image": "https://images.pexels.com/photos/15396241/pexels-photo-15396241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "pubDate": "Sun, 10 May 2026 02:00:00 +0000",
   "savedAt": "2026-05-10T16:43:56.417Z",
-  "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"
+  "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/wispr-flow-india-image.jpg?resize=1200,800"
 }

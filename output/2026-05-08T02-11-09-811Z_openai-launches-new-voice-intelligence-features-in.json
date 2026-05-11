@@ -40,7 +40,7 @@
       "layout_type": "right-focus",
       "icon": "waves",
       "image_query": "voice waveform spectrum",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Voice_waveform_and_spectrum.png/960px-Voice_waveform_and_spectrum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image": "https://images.pexels.com/photos/8100056/pexels-photo-8100056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Sa quando stai per parlare",
@@ -49,7 +49,7 @@
       "layout_type": "sensor-zoom",
       "icon": "vibration",
       "image_query": "microphone close up",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Carl_Albert_speaking_in_a_microphone._Close-up.jpg/960px-Carl_Albert_speaking_in_a_microphone._Close-up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image": "https://images.pexels.com/photos/34561043/pexels-photo-34561043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Assistenti che sentono il tono",
@@ -58,7 +58,7 @@
       "layout_type": "human-hand",
       "icon": "tag",
       "image_query": "ai assistant interface",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Wanda_AI_Assistant_Interface_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Provalo ora con API nuova",
@@ -66,7 +66,8 @@
       "visual_hint": "Codice API con freccia play",
       "layout_type": "cta-final",
       "icon": "check",
-      "image_query": "openai api code"
+      "image_query": "openai api code",
+      "image": "https://images.pexels.com/photos/16245254/pexels-photo-16245254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024"

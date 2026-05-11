@@ -36,7 +36,8 @@
       "visual_hint": "libri e cervello",
       "layout_type": "right-focus",
       "icon": "tag",
-      "image_query": "books library"
+      "image_query": "books library",
+      "image": "https://images.pexels.com/photos/18915418/pexels-photo-18915418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Non fidarti ciecamente",
@@ -44,7 +45,8 @@
       "visual_hint": "lente d'ingrandimento",
       "layout_type": "sensor-zoom",
       "icon": "vibration",
-      "image_query": "magnifying glass"
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/7188802/pexels-photo-7188802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Prova un prompt nuovo",
@@ -52,7 +54,8 @@
       "visual_hint": "mano che digita",
       "layout_type": "human-hand",
       "icon": "heart",
-      "image_query": "hands typing"
+      "image_query": "hands typing",
+      "image": "https://images.pexels.com/photos/7858835/pexels-photo-7858835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Costa meno di un caffè",
@@ -60,10 +63,12 @@
       "visual_hint": "tazza di caffè",
       "layout_type": "cta-final",
       "icon": "check",
-      "image_query": "coffee cup"
+      "image_query": "coffee cup",
+      "image": "https://images.pexels.com/photos/910086/pexels-photo-910086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "pubDate": "Sat, 09 May 2026 21:45:00 +0000",
   "savedAt": "2026-05-10T02:06:06.483Z",
-  "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+  "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+  "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024"
 }

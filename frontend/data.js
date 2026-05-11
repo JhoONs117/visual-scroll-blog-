@@ -107,7 +107,8 @@ window.ARTICLES = [
         "visual_hint": "Braccio robotico che preme pulsante",
         "layout_type": "right-focus",
         "icon": "waves",
-        "image_query": "robot arm button"
+        "image_query": "robot arm button",
+        "image": "https://images.pexels.com/photos/29054365/pexels-photo-29054365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "100 miliardi di dollari.",
@@ -115,7 +116,8 @@ window.ARTICLES = [
         "visual_hint": "Fila di server con luci blu",
         "layout_type": "sensor-zoom",
         "icon": "heart",
-        "image_query": "data center servers blue"
+        "image_query": "data center servers blue",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Chi non adotta, perde.",
@@ -123,7 +125,8 @@ window.ARTICLES = [
         "visual_hint": "Semaforo rosso con lancetta",
         "layout_type": "human-hand",
         "icon": "vibration",
-        "image_query": "red traffic light closeup"
+        "image_query": "red traffic light closeup",
+        "image": "https://images.pexels.com/photos/33505454/pexels-photo-33505454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Provalo su un processo noioso.",
@@ -131,12 +134,14 @@ window.ARTICLES = [
         "visual_hint": "Telefono con app che si attiva",
         "layout_type": "cta-final",
         "icon": "tag",
-        "image_query": "smartphone screen app"
+        "image_query": "smartphone screen app",
+        "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       }
     ],
     "pubDate": "Mon, 11 May 2026 10:00:00 +0000",
     "savedAt": "2026-05-11T10:54:22.312Z",
-    "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/"
+    "link": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Bain-sees-US100-billion-SaaS-market-in-agentic-AI-automation-scaled-e1778469528821.jpg"
   },
   {
     "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
@@ -176,7 +181,8 @@ window.ARTICLES = [
         "visual_hint": "Libri aperti impilati",
         "layout_type": "right-focus",
         "icon": "waves",
-        "image_query": "stack of books"
+        "image_query": "stack of books",
+        "image": "https://images.pexels.com/photos/7034647/pexels-photo-7034647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Dark AI fiction come scusa",
@@ -184,7 +190,8 @@ window.ARTICLES = [
         "visual_hint": "Schermo con codice AI",
         "layout_type": "sensor-zoom",
         "icon": "heart",
-        "image_query": "computer code screen"
+        "image_query": "computer code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Minacce credibili già pronte",
@@ -192,7 +199,8 @@ window.ARTICLES = [
         "visual_hint": "Email minacciosa su schermo",
         "layout_type": "human-hand",
         "icon": "vibration",
-        "image_query": "email threat screen"
+        "image_query": "email threat screen",
+        "image": "https://images.pexels.com/photos/5083396/pexels-photo-5083396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Controlla le tue fonti AI",
@@ -200,12 +208,14 @@ window.ARTICLES = [
         "visual_hint": "Lente d'ingrandimento su dati",
         "layout_type": "cta-final",
         "icon": "tag",
-        "image_query": "magnifying glass dataset"
+        "image_query": "magnifying glass dataset",
+        "image": "https://images.pexels.com/photos/7188802/pexels-photo-7188802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       }
     ],
     "pubDate": "Sun, 10 May 2026 20:40:41 +0000",
     "savedAt": "2026-05-11T02:15:17.322Z",
-    "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/"
+    "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024"
   },
   {
     "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
@@ -250,7 +260,8 @@ window.ARTICLES = [
         "visual_hint": "Language diversity illustration",
         "layout_type": "right-focus",
         "icon": "waves",
-        "image_query": "multilingual signboard"
+        "image_query": "multilingual signboard",
+        "image": "https://images.pexels.com/photos/23436802/pexels-photo-23436802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Accento non è un bug",
@@ -258,7 +269,8 @@ window.ARTICLES = [
         "visual_hint": "Audio frequency zoom",
         "layout_type": "sensor-zoom",
         "icon": "heart",
-        "image_query": "audio waveform"
+        "image_query": "audio waveform",
+        "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Test fallito in hindi",
@@ -266,7 +278,8 @@ window.ARTICLES = [
         "visual_hint": "Phone voice command fail",
         "layout_type": "human-hand",
         "icon": "tag",
-        "image_query": "smartphone hand"
+        "image_query": "smartphone hand",
+        "image": "https://images.pexels.com/photos/8937013/pexels-photo-8937013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "30 secondi per scoprire il problema",
@@ -274,12 +287,14 @@ window.ARTICLES = [
         "visual_hint": "Voice recording microphone",
         "layout_type": "cta-final",
         "icon": "check",
-        "image_query": "microphone closeup"
+        "image_query": "microphone closeup",
+        "image": "https://images.pexels.com/photos/15396241/pexels-photo-15396241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       }
     ],
     "pubDate": "Sun, 10 May 2026 02:00:00 +0000",
     "savedAt": "2026-05-10T16:43:56.417Z",
-    "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"
+    "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/wispr-flow-india-image.jpg?resize=1200,800"
   },
   {
     "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
@@ -319,7 +334,8 @@ window.ARTICLES = [
         "visual_hint": "libri e cervello",
         "layout_type": "right-focus",
         "icon": "tag",
-        "image_query": "books library"
+        "image_query": "books library",
+        "image": "https://images.pexels.com/photos/18915418/pexels-photo-18915418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Non fidarti ciecamente",
@@ -327,7 +343,8 @@ window.ARTICLES = [
         "visual_hint": "lente d'ingrandimento",
         "layout_type": "sensor-zoom",
         "icon": "vibration",
-        "image_query": "magnifying glass"
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/7188802/pexels-photo-7188802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Prova un prompt nuovo",
@@ -335,7 +352,8 @@ window.ARTICLES = [
         "visual_hint": "mano che digita",
         "layout_type": "human-hand",
         "icon": "heart",
-        "image_query": "hands typing"
+        "image_query": "hands typing",
+        "image": "https://images.pexels.com/photos/7858835/pexels-photo-7858835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Costa meno di un caffè",
@@ -343,12 +361,14 @@ window.ARTICLES = [
         "visual_hint": "tazza di caffè",
         "layout_type": "cta-final",
         "icon": "check",
-        "image_query": "coffee cup"
+        "image_query": "coffee cup",
+        "image": "https://images.pexels.com/photos/910086/pexels-photo-910086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       }
     ],
     "pubDate": "Sat, 09 May 2026 21:45:00 +0000",
     "savedAt": "2026-05-10T02:06:06.483Z",
-    "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+    "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024"
   },
   {
     "title": "Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027",
@@ -827,7 +847,7 @@ window.ARTICLES = [
         "layout_type": "right-focus",
         "icon": "waves",
         "image_query": "apple mac laptop",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Apple-desk-laptop-working_%2823698803763%29.jpg/960px-Apple-desk-laptop-working_%2823698803763%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image": "https://images.pexels.com/photos/11364251/pexels-photo-11364251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Controlla le app con la voce",
@@ -835,7 +855,8 @@ window.ARTICLES = [
         "visual_hint": "persona parla a schermo",
         "layout_type": "sensor-zoom",
         "icon": "heart",
-        "image_query": "voice command screen"
+        "image_query": "voice command screen",
+        "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Non è un assistente lento",
@@ -843,7 +864,8 @@ window.ARTICLES = [
         "visual_hint": "copilota virtuale",
         "layout_type": "human-hand",
         "icon": "vibration",
-        "image_query": "robot hand typing"
+        "image_query": "robot hand typing",
+        "image": "https://images.pexels.com/photos/29054365/pexels-photo-29054365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Costa meno di Spotify. Provalo",
@@ -851,7 +873,8 @@ window.ARTICLES = [
         "visual_hint": "icona Spotify vs Perplexity",
         "layout_type": "cta-final",
         "icon": "tag",
-        "image_query": "spotify vs perplexity"
+        "image_query": "spotify vs perplexity",
+        "image": "https://images.pexels.com/photos/16349244/pexels-photo-16349244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       }
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/personal-computer.jpeg?w=1199"
@@ -899,7 +922,7 @@ window.ARTICLES = [
         "layout_type": "right-focus",
         "icon": "waves",
         "image_query": "software developer laptop",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Software_Developer_at_Work.jpg/960px-Software_Developer_at_Work.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image": "https://images.pexels.com/photos/7988086/pexels-photo-7988086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Il tuo ruolo cambia",
@@ -908,7 +931,7 @@ window.ARTICLES = [
         "layout_type": "sensor-zoom",
         "icon": "heart",
         "image_query": "programming code lines",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Lines_of_code.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Revisione è il nuovo standard",
@@ -917,7 +940,7 @@ window.ARTICLES = [
         "layout_type": "human-hand",
         "icon": "vibration",
         "image_query": "hand reviewing paper",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bark_for_making_hand_made_paper_%2814419288610%29.jpg/960px-Bark_for_making_hand_made_paper_%2814419288610%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image": "https://images.pexels.com/photos/7969733/pexels-photo-7969733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Prova un tool di review AI",
@@ -926,7 +949,7 @@ window.ARTICLES = [
         "layout_type": "cta-final",
         "icon": "tag",
         "image_query": "computer screen code",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif/960px-Computer-screen-code-glitch-animation-gif-background-free.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       }
     ]
   },
@@ -1046,7 +1069,7 @@ window.ARTICLES = [
         "layout_type": "right-focus",
         "icon": "waves",
         "image_query": "fingerprint comparison",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fingerprint_Comparison.jpg/960px-Fingerprint_Comparison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image": "https://images.pexels.com/photos/7479535/pexels-photo-7479535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "L'avvisaglia di un pericolo più grande",
@@ -1055,7 +1078,7 @@ window.ARTICLES = [
         "layout_type": "sensor-zoom",
         "icon": "heart",
         "image_query": "magnifying glass screen",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Virtual_magnifying_glass_screenshot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        "image": "https://images.pexels.com/photos/6621023/pexels-photo-6621023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "La tua scuola potrebbe essere la prossima",
@@ -1063,7 +1086,8 @@ window.ARTICLES = [
         "visual_hint": "Mano che clicca su icona pericolo",
         "layout_type": "human-hand",
         "icon": "vibration",
-        "image_query": "hand clicking warning"
+        "image_query": "hand clicking warning",
+        "image": "https://images.pexels.com/photos/33206681/pexels-photo-33206681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Controlla i login oggi stesso",
@@ -1071,7 +1095,8 @@ window.ARTICLES = [
         "visual_hint": "Checklist su schermo blu",
         "layout_type": "cta-final",
         "icon": "check",
-        "image_query": "checklist on monitor"
+        "image_query": "checklist on monitor",
+        "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       }
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/shinyhunters-instructure-canvas-login-defacement.jpg?resize=1200,807"
@@ -1118,7 +1143,7 @@ window.ARTICLES = [
         "layout_type": "right-focus",
         "icon": "waves",
         "image_query": "office corridor people",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/SCO_corridor_in_Florham_Park_New_Jersey_office_guarded_by_SCOland_Sheriff_April_1996.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        "image": "https://images.pexels.com/photos/6566809/pexels-photo-6566809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Smetti di litigare per una promozione.",
@@ -1127,7 +1152,7 @@ window.ARTICLES = [
         "layout_type": "sensor-zoom",
         "icon": "heart",
         "image_query": "handshake office",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Business_man_and_woman_handshake_in_work_office.jpg/960px-Business_man_and_woman_handshake_in_work_office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image": "https://images.pexels.com/photos/8297656/pexels-photo-8297656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Aumento automatico o meritocrazia?",
@@ -1136,7 +1161,7 @@ window.ARTICLES = [
         "layout_type": "human-hand",
         "icon": "vibration",
         "image_query": "person thinking desk",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lt._Cmdr._Zeita_Merchant_sits_on_the_edge_of_her_desk_thinking_about_all_of_the_women_who_have_given_her_guidance_over_the_years_130306-G-EK967-001.jpg/960px-Lt._Cmdr._Zeita_Merchant_sits_on_the_edge_of_her_desk_thinking_about_all_of_the_women_who_have_given_her_guidance_over_the_years_130306-G-EK967-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image": "https://images.pexels.com/photos/6609455/pexels-photo-6609455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Prova a chiedere al tuo team.",
@@ -1144,7 +1169,8 @@ window.ARTICLES = [
         "visual_hint": "domanda scritta su lavagna",
         "layout_type": "cta-final",
         "icon": "check",
-        "image_query": "whiteboard question"
+        "image_query": "whiteboard question",
+        "image": "https://images.pexels.com/photos/6325944/pexels-photo-6325944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       }
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800"
@@ -1191,7 +1217,7 @@ window.ARTICLES = [
         "layout_type": "right-focus",
         "icon": "waves",
         "image_query": "voice waveform spectrum",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Voice_waveform_and_spectrum.png/960px-Voice_waveform_and_spectrum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image": "https://images.pexels.com/photos/8100056/pexels-photo-8100056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Sa quando stai per parlare",
@@ -1200,7 +1226,7 @@ window.ARTICLES = [
         "layout_type": "sensor-zoom",
         "icon": "vibration",
         "image_query": "microphone close up",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Carl_Albert_speaking_in_a_microphone._Close-up.jpg/960px-Carl_Albert_speaking_in_a_microphone._Close-up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image": "https://images.pexels.com/photos/34561043/pexels-photo-34561043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Assistenti che sentono il tono",
@@ -1209,7 +1235,7 @@ window.ARTICLES = [
         "layout_type": "human-hand",
         "icon": "tag",
         "image_query": "ai assistant interface",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Wanda_AI_Assistant_Interface_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Provalo ora con API nuova",
@@ -1217,7 +1243,8 @@ window.ARTICLES = [
         "visual_hint": "Codice API con freccia play",
         "layout_type": "cta-final",
         "icon": "check",
-        "image_query": "openai api code"
+        "image_query": "openai api code",
+        "image": "https://images.pexels.com/photos/16245254/pexels-photo-16245254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       }
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024"
@@ -1263,7 +1290,8 @@ window.ARTICLES = [
         "visual_hint": "Primo piano sensori sul dispositivo",
         "layout_type": "right-focus",
         "icon": "waves",
-        "image_query": "health sensor array"
+        "image_query": "health sensor array",
+        "image": "https://images.pexels.com/photos/8088870/pexels-photo-8088870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Segnali sulla pelle, non occhi",
@@ -1271,7 +1299,8 @@ window.ARTICLES = [
         "visual_hint": "Braccio con vibrazione tattile",
         "layout_type": "sensor-zoom",
         "icon": "heart",
-        "image_query": "haptic feedback wrist"
+        "image_query": "haptic feedback wrist",
+        "image": "https://images.pexels.com/photos/18078985/pexels-photo-18078985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Indossalo e dimentica il polso",
@@ -1279,7 +1308,8 @@ window.ARTICLES = [
         "visual_hint": "Mano con Fitbit Air al polso",
         "layout_type": "human-hand",
         "icon": "vibration",
-        "image_query": "wrist wearable device"
+        "image_query": "wrist wearable device",
+        "image": "https://images.pexels.com/photos/18078985/pexels-photo-18078985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Schermo? Mai più.",
@@ -1287,7 +1317,8 @@ window.ARTICLES = [
         "visual_hint": "Persona sorridente mostra polso",
         "layout_type": "cta-final",
         "icon": "check",
-        "image_query": "person smiling wrist"
+        "image_query": "person smiling wrist",
+        "image": "https://images.pexels.com/photos/35688435/pexels-photo-35688435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       }
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/fitbit-air.png?resize=1200,752"
@@ -1333,7 +1364,8 @@ window.ARTICLES = [
         "visual_hint": "Grafico con linea discendente",
         "layout_type": "right-focus",
         "icon": "waves",
-        "image_query": "downward trend chart"
+        "image_query": "downward trend chart",
+        "image": "https://images.pexels.com/photos/7172863/pexels-photo-7172863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Cassa in fiamme? Segnale certo",
@@ -1341,7 +1373,8 @@ window.ARTICLES = [
         "visual_hint": "Clessidra con sabbia che scende",
         "layout_type": "sensor-zoom",
         "icon": "vibration",
-        "image_query": "hourglass running out"
+        "image_query": "hourglass running out",
+        "image": "https://images.pexels.com/photos/4386175/pexels-photo-4386175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Il tuo portafoglio replica quel panico",
@@ -1349,7 +1382,8 @@ window.ARTICLES = [
         "visual_hint": "Persona che guarda foglio conti",
         "layout_type": "human-hand",
         "icon": "heart",
-        "image_query": "person reading financial paper"
+        "image_query": "person reading financial paper",
+        "image": "https://images.pexels.com/photos/7821547/pexels-photo-7821547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Quanti mesi ti restano?",
@@ -1357,7 +1391,8 @@ window.ARTICLES = [
         "visual_hint": "Calendario con cerchio rosso",
         "layout_type": "cta-final",
         "icon": "tag",
-        "image_query": "calendar marked deadline"
+        "image_query": "calendar marked deadline",
+        "image": "https://images.pexels.com/photos/6892910/pexels-photo-6892910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       }
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2023/05/Kodiak_EV_3.jpg?resize=1200,800"
@@ -1404,7 +1439,7 @@ window.ARTICLES = [
         "layout_type": "right-focus",
         "icon": "waves",
         "image_query": "driver hands wheel",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/R.E._Peary%2C_Jr._at_Sydney%2C_drivers_wheel_in_hand_LCCN2014684237.jpg/960px-R.E._Peary%2C_Jr._at_Sydney%2C_drivers_wheel_in_hand_LCCN2014684237.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image": "https://images.pexels.com/photos/4391487/pexels-photo-4391487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Auto identiche, voti opposti",
@@ -1412,7 +1447,8 @@ window.ARTICLES = [
         "visual_hint": "Grafico a confronto",
         "layout_type": "sensor-zoom",
         "icon": "heart",
-        "image_query": "safety rating chart"
+        "image_query": "safety rating chart",
+        "image": "https://images.pexels.com/photos/7948058/pexels-photo-7948058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "La scelta cambia tutto",
@@ -1421,7 +1457,7 @@ window.ARTICLES = [
         "layout_type": "human-hand",
         "icon": "vibration",
         "image_query": "car key hand",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_President%2C_Smt._Pratibha_Devisingh_Patil_handing_over_the_key_of_permanent_houses_built_for_the_Tsunami_victims_of_Kinyuka_village_in_Car_Nicobar_Islands%2C_on_December_26%2C_2007.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image": "https://images.pexels.com/photos/12969398/pexels-photo-12969398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Controlla la tua ora",
@@ -1429,7 +1465,8 @@ window.ARTICLES = [
         "visual_hint": "Schermo con punteggio",
         "layout_type": "cta-final",
         "icon": "tag",
-        "image_query": "smartphone safety app"
+        "image_query": "smartphone safety app",
+        "image": "https://images.pexels.com/photos/17249214/pexels-photo-17249214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       }
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/tesla-model-y-juniper-north-america.jpg?resize=1200,850"
@@ -1475,7 +1512,8 @@ window.ARTICLES = [
         "visual_hint": "Warning alert on device",
         "layout_type": "right-focus",
         "icon": "waves",
-        "image_query": "smartphone alert screen"
+        "image_query": "smartphone alert screen",
+        "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Tu autorizzi l'avviso.",
@@ -1484,7 +1522,7 @@ window.ARTICLES = [
         "layout_type": "sensor-zoom",
         "icon": "heart",
         "image_query": "yes no button",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/LGBT%2B_together_for_Yes._button%2C_Groningen_%282019%29.jpg/960px-LGBT%2B_together_for_Yes._button%2C_Groningen_%282019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image": "https://images.pexels.com/photos/21562931/pexels-photo-21562931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Nessun contenuto condiviso.",
@@ -1493,7 +1531,7 @@ window.ARTICLES = [
         "layout_type": "human-hand",
         "icon": "vibration",
         "image_query": "notification icon phone",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/HSPA_sign_shown_in_notification_bar_on_an_Android_powered_smartphone-_2014-04-28_13-56.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Attivala subito gratis.",
@@ -1501,7 +1539,8 @@ window.ARTICLES = [
         "visual_hint": "Settings menu with toggle",
         "layout_type": "cta-final",
         "icon": "check",
-        "image_query": "privacy settings app"
+        "image_query": "privacy settings app",
+        "image": "https://images.pexels.com/photos/33632621/pexels-photo-33632621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       }
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024"
@@ -1618,7 +1657,7 @@ window.ARTICLES = [
         "layout_type": "right-focus",
         "icon": "waves",
         "image_query": "server room",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Zero licenze, stessa potenza",
@@ -1627,7 +1666,7 @@ window.ARTICLES = [
         "layout_type": "sensor-zoom",
         "icon": "heart",
         "image_query": "factory robot",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Scarica e gira dove vuoi",
@@ -1636,7 +1675,7 @@ window.ARTICLES = [
         "layout_type": "human-hand",
         "icon": "vibration",
         "image_query": "office workers",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Testalo ora contro i chiusi",
@@ -1645,7 +1684,7 @@ window.ARTICLES = [
         "layout_type": "cta-final",
         "icon": "check",
         "image_query": "solar panels",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ground_mounted_solar_panels.gk.jpg/960px-Ground_mounted_solar_panels.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "image": "https://images.pexels.com/photos/13223714/pexels-photo-13223714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       }
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024"

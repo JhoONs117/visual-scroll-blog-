@@ -40,7 +40,7 @@
       "layout_type": "right-focus",
       "icon": "waves",
       "image_query": "apple mac laptop",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Apple-desk-laptop-working_%2823698803763%29.jpg/960px-Apple-desk-laptop-working_%2823698803763%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image": "https://images.pexels.com/photos/11364251/pexels-photo-11364251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Controlla le app con la voce",
@@ -48,7 +48,8 @@
       "visual_hint": "persona parla a schermo",
       "layout_type": "sensor-zoom",
       "icon": "heart",
-      "image_query": "voice command screen"
+      "image_query": "voice command screen",
+      "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Non è un assistente lento",
@@ -56,7 +57,8 @@
       "visual_hint": "copilota virtuale",
       "layout_type": "human-hand",
       "icon": "vibration",
-      "image_query": "robot hand typing"
+      "image_query": "robot hand typing",
+      "image": "https://images.pexels.com/photos/29054365/pexels-photo-29054365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Costa meno di Spotify. Provalo",
@@ -64,7 +66,8 @@
       "visual_hint": "icona Spotify vs Perplexity",
       "layout_type": "cta-final",
       "icon": "tag",
-      "image_query": "spotify vs perplexity"
+      "image_query": "spotify vs perplexity",
+      "image": "https://images.pexels.com/photos/16349244/pexels-photo-16349244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/personal-computer.jpeg?w=1199"
