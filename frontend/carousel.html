@@ -7,6 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -62,14 +63,132 @@
     .selector-bar select:focus { outline: none; border-color: #3B82F6; }
     .count-label { font-size: 12px; color: rgba(255,255,255,0.3); white-space: nowrap; }
 
+    /* ── DOWNLOAD BAR ── */
+    .dl-all-bar {
+      padding: 18px 24px 4px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+    .dl-all-btn {
+      background: #3B82F6;
+      border: none;
+      color: #fff;
+      border-radius: 8px;
+      padding: 9px 20px;
+      font-size: 13px;
+      font-weight: 700;
+      font-family: inherit;
+      cursor: pointer;
+      transition: background 0.15s;
+      display: flex;
+      align-items: center;
+      gap: 7px;
+    }
+    .dl-all-btn:hover { background: #2563eb; }
+    .dl-all-btn:disabled { opacity: 0.6; cursor: not-allowed; }
+    .dl-hint {
+      font-size: 11px;
+      color: rgba(255,255,255,0.25);
+    }
+
     /* ── VIEWER ── */
-    .viewer { padding: 28px 24px 20px; overflow-x: auto; }
+    .viewer { padding: 20px 24px 12px; overflow-x: auto; }
     .slides-row { display: flex; gap: 14px; min-width: max-content; }
+
+    /* ── SLIDE WRAP ── */
+    .slide-wrap {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+    .dl-btn {
+      background: rgba(59,130,246,0.12);
+      border: 1px solid rgba(59,130,246,0.28);
+      color: #60a5fa;
+      border-radius: 8px;
+      padding: 7px 10px;
+      font-size: 11px;
+      font-weight: 600;
+      font-family: inherit;
+      cursor: pointer;
+      width: 270px;
+      transition: background 0.15s, border-color 0.15s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 5px;
+    }
+    .dl-btn:hover { background: rgba(59,130,246,0.22); border-color: rgba(59,130,246,0.5); }
+    .dl-btn:disabled { opacity: 0.5; cursor: not-allowed; }
 
     /* ── EMPTY STATE ── */
     .empty-state { padding: 80px 24px; text-align: center; color: rgba(255,255,255,0.3); }
     .empty-state h2 { font-size: 18px; margin-bottom: 8px; font-weight: 600; }
     .empty-state p  { font-size: 13px; }
+
+    /* ── MODAL ── */
+    .modal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.92);
+      z-index: 1000;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 16px;
+      padding: 24px;
+    }
+    .modal.open { display: flex; }
+    .modal-img {
+      max-width: min(88vw, 380px);
+      max-height: 72vh;
+      border-radius: 12px;
+      object-fit: contain;
+      display: block;
+      box-shadow: 0 24px 80px rgba(0,0,0,0.7);
+    }
+    .modal-hint {
+      font-size: 12px;
+      color: rgba(255,255,255,0.35);
+      text-align: center;
+    }
+    .modal-actions {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+    .modal-dl {
+      background: #3B82F6;
+      color: white;
+      border: none;
+      padding: 9px 20px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 13px;
+      font-weight: 700;
+      font-family: inherit;
+      transition: background 0.15s;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .modal-dl:hover { background: #2563eb; }
+    .modal-close {
+      background: rgba(255,255,255,0.10);
+      color: rgba(255,255,255,0.65);
+      border: none;
+      padding: 9px 18px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 13px;
+      font-family: inherit;
+      transition: background 0.15s;
+    }
+    .modal-close:hover { background: rgba(255,255,255,0.18); }
 
     /* ══════════════════════════════════════════════════
        SLIDE BASE  — 270 × 337px  (4:5)
@@ -84,11 +203,22 @@
       background-size: cover;
       background-position: center;
       transition: transform 0.2s ease, box-shadow 0.2s ease;
-      cursor: default;
+      cursor: pointer;
     }
     .slide:hover {
-      transform: translateY(-6px);
-      box-shadow: 0 20px 56px rgba(59,130,246,0.22);
+      transform: translateY(-4px);
+      box-shadow: 0 16px 48px rgba(59,130,246,0.25);
+    }
+    .slide-click-hint {
+      position: absolute;
+      bottom: 46px;
+      left: 0; right: 0;
+      text-align: center;
+      font-size: 9px;
+      color: rgba(255,255,255,0.3);
+      z-index: 10;
+      pointer-events: none;
+      letter-spacing: 0.04em;
     }
 
     /* sfondo base per fallback */
@@ -105,13 +235,11 @@
       z-index: 0;
       pointer-events: none;
     }
-    /* senza immagine: gradiente pieno per layout */
     .slide.hero        .img-overlay { background: linear-gradient(148deg, #09122a 0%, #0e1d4a 50%, #1c0c3e 100%); }
     .slide.right-focus .img-overlay { background: linear-gradient(155deg, #08111f 0%, #0d1c3a 55%, #091628 100%); }
     .slide.sensor-zoom .img-overlay { background: linear-gradient(138deg, #080d1e 0%, #0a1530 60%, #100830 100%); }
     .slide.human-hand  .img-overlay { background: linear-gradient(152deg, #05080f 0%, #0c0d28 60%, #160638 100%); }
     .slide.cta-final   .img-overlay { background: linear-gradient(148deg, #080f1f 0%, #0b1438 60%, #12103e 100%); }
-    /* con immagine: overlay scuro pesante — l'immagine filtra in sottofondo */
     .slide.has-img .img-overlay {
       background: linear-gradient(
         to bottom,
@@ -121,7 +249,7 @@
       );
     }
 
-    /* orb radiale per profondità visiva (sopra overlay) */
+    /* orb radiale per profondità visiva */
     .slide::before {
       content: '';
       position: absolute;
@@ -135,7 +263,7 @@
     .slide.human-hand::before  { background: radial-gradient(ellipse 65% 50% at 10% 90%, rgba(59,130,246,0.09) 0%, transparent 70%); }
     .slide.cta-final::before   { background: radial-gradient(ellipse 60% 55% at 50% 0%, rgba(59,130,246,0.09) 0%, transparent 70%); }
 
-    /* icona decorativa — grande, sfumata, angolo slide */
+    /* icona decorativa */
     .deco-icon {
       position: absolute;
       width: 130px;
@@ -317,6 +445,21 @@
 </head>
 <body>
 
+<!-- Modal immagine — tasto destro / long press per salvare -->
+<div class="modal" id="modal">
+  <img class="modal-img" id="modalImg" src="" alt="Slide preview" crossorigin="anonymous">
+  <p class="modal-hint">
+    Desktop: tasto destro → Salva immagine &nbsp;·&nbsp; Mobile: tieni premuto → Salva
+  </p>
+  <div class="modal-actions">
+    <button class="modal-dl" id="modalDl">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+      Scarica PNG
+    </button>
+    <button class="modal-close" id="modalClose">✕ Chiudi</button>
+  </div>
+</div>
+
 <div class="header">
   <h1>Carousel</h1>
   <nav>
@@ -346,6 +489,8 @@ const ICON_PATHS = {
   vibration: `<line x1="2" y1="10" x2="2" y2="14"/><line x1="6" y1="6" x2="6" y2="18"/><line x1="10" y1="3" x2="10" y2="21"/><line x1="14" y1="3" x2="14" y2="21"/><line x1="18" y1="6" x2="18" y2="18"/><line x1="22" y1="10" x2="22" y2="14"/>`,
   check:     `<polyline points="20 6 9 17 4 12"/>`
 };
+
+const DL_ICON = `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>`;
 
 function iconSvg(name, cls) {
   return `<svg class="${cls}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">${ICON_PATHS[name] || ICON_PATHS.tag}</svg>`;
@@ -397,6 +542,10 @@ function footer(idx, total) {
     <span class="slide-num">${idx + 1}/${total}</span>
     <span class="slide-handle">@FlashAI</span>
   </div>`;
+}
+
+function slugFrom(title) {
+  return (title || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 40);
 }
 
 function buildSlide(cs, idx, total, source, articleImage) {
@@ -477,6 +626,57 @@ function buildSlide(cs, idx, total, source, articleImage) {
   return `<div class="slide ${lt} ${imgClass}" ${bgStyle}>${inner}</div>`;
 }
 
+/* ── DOWNLOAD ── */
+
+let currentDataUrl  = null;
+let currentFilename = null;
+
+async function renderToCanvas(slideEl) {
+  return html2canvas(slideEl, {
+    scale: 4,           // 270×4 = 1080px — pronto per Instagram
+    useCORS: true,
+    allowTaint: false,
+    backgroundColor: null,
+    logging: false,
+    imageTimeout: 15000,
+  });
+}
+
+async function downloadSlide(slideEl, filename) {
+  const canvas = await renderToCanvas(slideEl);
+  const link   = document.createElement('a');
+  link.download = filename + '.png';
+  link.href     = canvas.toDataURL('image/png');
+  link.click();
+}
+
+/* ── MODAL ── */
+
+const modal    = document.getElementById('modal');
+const modalImg = document.getElementById('modalImg');
+
+document.getElementById('modalClose').addEventListener('click', () => modal.classList.remove('open'));
+modal.addEventListener('click', e => { if (e.target === modal) modal.classList.remove('open'); });
+document.addEventListener('keydown', e => { if (e.key === 'Escape') modal.classList.remove('open'); });
+
+document.getElementById('modalDl').addEventListener('click', () => {
+  if (!currentDataUrl) return;
+  const link   = document.createElement('a');
+  link.download = currentFilename + '.png';
+  link.href     = currentDataUrl;
+  link.click();
+});
+
+async function openModal(slideEl, filename) {
+  const canvas  = await renderToCanvas(slideEl);
+  currentDataUrl  = canvas.toDataURL('image/png');
+  currentFilename = filename;
+  modalImg.src  = currentDataUrl;
+  modal.classList.add('open');
+}
+
+/* ── RENDER ARTICLE ── */
+
 function renderArticle(article) {
   const area = document.getElementById('area');
   const cs   = article.carousel_slides;
@@ -487,9 +687,19 @@ function renderArticle(article) {
     </div>`;
     return;
   }
-  const source     = sourceFromLink(article.link);
+
+  const source       = sourceFromLink(article.link);
   const articleImage = article.image || null;
-  const slidesHtml = cs.map((s, i) => buildSlide(s, i, cs.length, source, articleImage)).join('');
+  const slug         = slugFrom(article.title);
+
+  const wrappedSlides = cs.map((s, i) => {
+    const slideHtml = buildSlide(s, i, cs.length, source, articleImage);
+    return `<div class="slide-wrap">
+      ${slideHtml}
+      <button class="dl-btn" data-idx="${i}">${DL_ICON} Scarica slide ${i + 1}</button>
+    </div>`;
+  }).join('');
+
   const threadHtml = article.thread_text && article.thread_text.length
     ? `<div class="thread-section">
         <h3>Thread X</h3>
@@ -500,15 +710,65 @@ function renderArticle(article) {
           </div>`).join('')}
       </div>`
     : '';
+
   area.innerHTML = `
-    <div class="viewer"><div class="slides-row">${slidesHtml}</div></div>
+    <div class="dl-all-bar">
+      <button class="dl-all-btn" id="dlAll">${DL_ICON} Scarica tutte e 5 le slide</button>
+      <span class="dl-hint">oppure clicca una slide per aprirla → tasto destro / tieni premuto per salvare</span>
+    </div>
+    <div class="viewer"><div class="slides-row">${wrappedSlides}</div></div>
     ${threadHtml}`;
+
+  // Click sulla slide → apre modal con <img> (tasto destro / long press nativi)
+  document.querySelectorAll('.slide').forEach((el, i) => {
+    el.addEventListener('click', async () => {
+      const origOpacity = el.style.opacity;
+      el.style.opacity = '0.55';
+      await openModal(el, `${slug}-slide-${i + 1}`);
+      el.style.opacity = origOpacity;
+    });
+  });
+
+  // Bottone scarica singola slide
+  document.querySelectorAll('.dl-btn').forEach(btn => {
+    btn.addEventListener('click', async e => {
+      e.stopPropagation();
+      const idx     = parseInt(btn.dataset.idx);
+      const slideEl = btn.closest('.slide-wrap').querySelector('.slide');
+      btn.disabled  = true;
+      const origHtml = btn.innerHTML;
+      btn.textContent = 'Elaborazione…';
+      try {
+        await downloadSlide(slideEl, `${slug}-slide-${idx + 1}`);
+      } finally {
+        btn.disabled   = false;
+        btn.innerHTML  = origHtml;
+      }
+    });
+  });
+
+  // Bottone scarica tutte
+  document.getElementById('dlAll').addEventListener('click', async () => {
+    const allBtn   = document.getElementById('dlAll');
+    const origHtml = allBtn.innerHTML;
+    allBtn.disabled = true;
+    const slides = [...document.querySelectorAll('.slide-wrap .slide')];
+    for (let i = 0; i < slides.length; i++) {
+      allBtn.innerHTML = `Scaricando ${i + 1}/${slides.length}…`;
+      await downloadSlide(slides[i], `${slug}-slide-${i + 1}`);
+      if (i < slides.length - 1) await new Promise(r => setTimeout(r, 600));
+    }
+    allBtn.disabled = false;
+    allBtn.innerHTML = origHtml;
+  });
 }
 
+/* ── INIT ── */
+
 const articles = window.ARTICLES || [];
-const sel = document.getElementById('sel');
-const lbl = document.getElementById('count');
-const withCs = articles.filter(a => a.carousel_slides && a.carousel_slides.length).length;
+const sel      = document.getElementById('sel');
+const lbl      = document.getElementById('count');
+const withCs   = articles.filter(a => a.carousel_slides && a.carousel_slides.length).length;
 lbl.textContent = `${withCs} con carousel · ${articles.length} totali`;
 
 sel.innerHTML = '<option value="">Seleziona articolo…</option>';
