@@ -652,10 +652,12 @@ Il progetto usa tre variabili. Ognuna deve essere impostata nei posti giusti —
 | Variabile | Cosa fa | `.env` locale | GitHub Secrets | Railway dashboard |
 |---|---|---|---|---|
 | `DEEPSEEK_API_KEY` | Chiave API per generare slide, thread, script | ✅ | ✅ | ✅ |
-| `PEXELS_API_KEY` | Chiave API per le immagini delle slide carousel | ✅ | ✅ | ✅ |
+| `PEXELS_API_KEY` | Chiave API per le immagini delle slide carousel | ✅ | ✅ ⚠️ | ✅ |
 | `GENERATE_FORMATS` | Attiva generazione thread X e script video | ✅ (`=true`) | — | — |
 
 > `GENERATE_FORMATS` non serve su Railway (il server non genera contenuti) né come GitHub Secret (è già hardcoded in `pipeline.yml` come variabile d'ambiente del job, non segreto).
+
+> ⚠️ **`PEXELS_API_KEY` su GitHub Secrets è critica**: senza di essa GitHub Actions genera articoli senza immagini sulle slide 2-5, senza nessun errore visibile nei log. È esattamente il bug verificato il 2026-05-11 — l'articolo "rockets for space data centers" era stato generato correttamente ma con tutte le slide 2-5 senza immagine.
 
 ### Come impostare su Railway
 
