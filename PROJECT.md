@@ -199,6 +199,15 @@ Se dopo 5 thread: 0 bookmark e 0 reply su tutti e 5:
 
 ## 4. M21b — Carousel Instagram ✅
 
+### Riferimento visivo
+
+**Prima di modificare `carousel.html`**, aprire questa immagine — è il carousel del Fitbit Air già generato dal sistema. Mostra badge, gerarchia testi, posizione immagine, palette e footer. È la fonte di verità per il layout: replicare quella struttura, non inventarne una nuova.
+
+```
+/home/miki/visual-scroll-blog/template carousel.png
+# oppure da Windows: \\wsl$\Ubuntu\home\miki\visual-scroll-blog\template carousel.png
+```
+
 ### Architettura visiva
 
 - **Slide 1**: `article.image` (og:image dal sito sorgente) come sfondo con overlay dark
@@ -423,6 +432,22 @@ npm start → node server.js   # non run.js — server.js è il processo sempre 
 # Ogni push GitHub Actions → autodeploy Railway (~1 minuto)
 # Trigger manuale: GitHub → Actions → Run workflow
 ```
+
+### Test di regressione M15 — UX mobile a due assi
+
+Eseguire su telefono reale (iPhone Safari + Android Chrome) ogni volta che si modifica `index.html`.
+
+| # | Scenario | Atteso |
+|---|---|---|
+| 1 | Swipe sinistra sulla slide 1 | Va a slide 2, snap fluido, nessun jitter |
+| 2 | Avanza a slide 4 → swipe verticale giù | Nuovo articolo parte da slide 1, non dalla 4 |
+| 3 | Dalla slide 3, swipe destra → poi swipe su | Torna a slide 2; poi torna all'articolo precedente |
+| 4 | Swipe diagonale a 45° | Sceglie un asse entro i primi 10px e non cambia idea per tutta la gesture |
+| 5 | Swipe veloce e brevissimo verso sinistra | Lo snap viene comunque triggerato — non rimane a metà |
+| 6 | Sulla slide 5, swipe sinistra | Passa all'articolo successivo — non si blocca |
+| 7 | Scorri tutte e 5 le slide osservando i dot in cima | Il segmento attivo si aggiorna preciso a ogni slide, senza lag |
+
+Se uno scenario fallisce: descrivere esattamente cosa è successo e su quale device prima di procedere.
 
 ---
 
