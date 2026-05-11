@@ -7,7 +7,7 @@ Segui questo ordine. Completa e testa ogni milestone prima di passare alla succe
 
 ---
 
-## Stato attuale (2026-05-08)
+## Stato attuale (2026-05-11)
 
 | Milestone | Stato | Note |
 |---|---|---|
@@ -22,8 +22,11 @@ Segui questo ordine. Completa e testa ogni milestone prima di passare alla succe
 | Bug: data relativa | ✅ Fix | `timeAgo()` in `index.html` e `review.html`, `savedAt`/`pubDate` salvati |
 | PRE-M21: fix prompt tensione irrisolta | ✅ Fix | `generateSlides` + `generateFormats` aggiornati, 45 articoli rigenerati |
 | PRE-M21: link fonte negli articoli | ✅ Fix | `run.js` salva `link`; review + index mostrano "↗ Fonte" o "↗ Cerca" |
-| M21b — Carousel Instagram | ✅ Completa | `carousel_slides` + `image_query`, Wikimedia per slide 2-5, `article.image` per slide 1, `carousel.html` 270×337px, `index.html` con card carousel fallback. 58/58 articoli backfillati ✅ |
-| M21 — Test distribuzione reale | ⏳ Prossimo | Checkpoint obbligatorio prima di automatizzare canali |
+| M21b — Carousel Instagram | ✅ Completa | `carousel_slides` + `image_query`, `carousel.html` 270×337px, `index.html` con card carousel fallback. Vedere voce Pexels sotto. |
+| Upgrade Pexels (era Wikimedia) | ✅ Completa | `fetch.js`: `fetchPexelsImage` portrait large2x; `run.js` e `backfill-carousel.js` aggiornati. Variabile `.env`: `PEXELS_API_KEY`. 20 articoli più recenti backfillati ✅. Vedere `MANUAL.md §14` e `CONTEXT.md §Upgrade Pexels`. |
+| Download PNG carousel per Instagram | ✅ Completa | `carousel.html`: html2canvas scale:4, PNG 1080×1350px (4:5), modal preview, bottoni "Scarica slide N" e "Scarica tutte e 5". Vedere `MANUAL.md §15`. |
+| Bug: article.image mancante in run.js | ✅ Fix | `run.js` chiama `fetchArticleImage` dopo `generateCarouselSlides` — tutti i nuovi articoli ottengono og:image automaticamente |
+| M21 — Test distribuzione reale | 🔄 In corso | Primo post pubblicato 2026-05-11 alle 15:00 (ora italiana) su X. Pubblicazione giornaliera alle 15:00. Vedere `test-distribuzione.md`. |
 | M22 — Iterazione prompt da dati | ⏳ Dopo M21 | Richiede 10-15 post pubblicati con dati reali |
 | M18 — Ranking per qualità | ⏳ In attesa | Nice to have |
 | M19 — Index globale articoli | ⏳ In attesa | Utile quando il volume cresce |
@@ -35,7 +38,8 @@ Segui questo ordine. Completa e testa ogni milestone prima di passare alla succe
 
 ```
 M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → PRE-M21 ✅ → M21b ✅
-→ M21 ← STOP: valuta risultati distribuzione (10-15 post)
+→ Pexels ✅ → Download PNG ✅
+→ M21 🔄 ← STOP: valuta risultati distribuzione (10-15 post, iniziato 2026-05-11)
 → M22 → M18 → M19 → M20
 ```
 

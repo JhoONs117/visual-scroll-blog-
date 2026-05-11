@@ -21,6 +21,7 @@ Non è necessario capire tutto il codice: ogni sezione indica esattamente quale 
 12. [Come funziona il layout a due assi](#12-come-funziona-il-layout-a-due-assi)
 13. [Come rigenerare tutti gli articoli dopo un cambio di prompt](#13-come-rigenerare-tutti-gli-articoli-dopo-un-cambio-di-prompt)
 14. [Come fare il backfill carousel e immagini](#14-come-fare-il-backfill-carousel-e-immagini)
+15. [Come scaricare le slide carousel come PNG per Instagram](#15-come-scaricare-le-slide-carousel-come-png-per-instagram)
 
 ---
 
@@ -434,56 +435,106 @@ git push
 
 ## 14. Come fare il backfill carousel e immagini
 
-`backfill-carousel.js` aggiunge retroattivamente `carousel_slides`, `article.image` e immagini Wikimedia a tutti gli articoli esistenti in `output/`.
+`backfill-carousel.js` aggiunge retroattivamente `carousel_slides`, immagini Pexels (slide 2-5) e `article.image` (slide 1) a tutti gli articoli esistenti in `output/`.
+
+> Le immagini per i nuovi articoli vengono ora fetched automaticamente da `run.js` — il backfill serve solo per articoli già salvati.
+
+### Backfill sugli N articoli più recenti (uso normale)
+
+```bash
+cd /home/miki/visual-scroll-blog
+node backfill-carousel.js --last 20
+```
+
+Processa solo i 20 articoli più recenti. Utile per aggiornare le ultime notizie senza impiegare ore sull'intero archivio.
+
+### Backfill con sovrascrittura immagini esistenti
+
+```bash
+node backfill-carousel.js --force --last 20
+```
+
+`--force` sovrascrive le immagini Pexels già presenti. Usare quando si vuole aggiornare le foto (es. dopo aver cambiato la logica di ricerca).
 
 ### Backfill completo (tutti gli articoli)
 
 ```bash
-cd /home/miki/visual-scroll-blog
-node backfill-carousel.js
+node backfill-carousel.js --force
 ```
+
+Attenzione: con ~67 articoli e rate limit Pexels (18s tra chiamate) impiega ~80 minuti. Lanciare in background.
 
 ### Backfill selettivo (slug specifici — per test)
 
 ```bash
-node backfill-carousel.js airbnb the-biggest
+node backfill-carousel.js nvidia cloudflare
 ```
 
-Passa uno o più frammenti di slug come argomenti — il backfill si limita agli articoli il cui slug contiene almeno uno di quei termini.
+Passa frammenti di slug — il backfill si limita agli articoli il cui slug li contiene. I flag `--force` e `--last` sono combinabili con i filtri slug.
 
 ### Cosa fa per ogni articolo
 
-1. **`carousel_slides`** — se assenti, chiama DeepSeek per generarle (5 slide con `hook`, `description`, `visual_hint`, `layout_type`, `icon`, `image_query`)
-2. **Immagini Wikimedia (slide 2-5)** — per ogni slide con `image_query` e senza `cs.image`, cerca su Wikimedia Commons e salva l'URL in `cs.image`
-3. **`article.image` (slide 1)** — se assente, fa una GET al sito sorgente dell'articolo ed estrae l'`og:image`
+1. **`carousel_slides`** — se assenti, chiama DeepSeek per generarle
+2. **Immagini Pexels (slide 2-5)** — cerca su Pexels con `cs.image_query`, salva URL `large2x` in `cs.image`; con `--force` sovrascrive anche quelle già presenti
+3. **`article.image` (slide 1)** — se assente, estrae `og:image` dalla pagina dell'articolo
 
 ### Output atteso
 
 ```
-Articoli unici: 57 | Da processare: 57
+Modalità --force: sovrascrive immagini Pexels esistenti
+Modalità --last 20: processa solo i 20 articoli più recenti
+Articoli unici: 67 | Da processare: 20
+Chiamate Pexels previste: 76 | Tempo stimato: ~23 min
 
-[carousel] Titolo articolo... OK
-[wiki s2]  Titolo articolo... OK → https://upload.wikimedia.org/...
-[wiki s3]  Titolo articolo... OK → ...
-[wiki s4]  Titolo articolo... not found
-[wiki s5]  Titolo articolo... OK → ...
+[pexels s2] Titolo articolo... OK → https://images.pexels.com/...
+[pexels s3] Titolo articolo... OK → ...
+[pexels s4] Titolo articolo... not found
+[pexels s5] Titolo articolo... OK → ...
 [image]    Titolo articolo... OK → https://techcrunch.com/...
 
-frontend/data.js aggiornato con 57 articoli unici.
+frontend/data.js aggiornato con 67 articoli unici.
 
-carousel_slides — Aggiornati: 55 | Già presenti: 2 | Falliti: 0
-article.image  — Trovate: 40 | Non trovate: 17
-wikimedia s2-5 — Trovate: 180 | Non trovate: 48
+carousel_slides — Aggiornati: 0 | Già presenti: 20 | Falliti: 0
+article.image  — Trovate: 4 | Non trovate: 0
+pexels s2-5    — Trovate: 76 | Non trovate: 0
 ```
 
 ### Note operative
 
-- "not found" su Wikimedia è normale (~20-30%) — quelle slide usano il gradiente dark come fallback
+- "not found" su Pexels (~5-10%) — quelle slide usano il gradiente dark come fallback
 - "not found" su article.image significa che il sito non ha `og:image` o blocca i bot
-- Il backfill è **idempotente**: rilancia senza problemi, salta tutto ciò che è già presente
-- Richiede `DEEPSEEK_API_KEY` nel `.env`
-- Dopo il completamento: `git add output/ frontend/data.js && git commit -m "backfill carousel completo" && git push`
+- Il backfill è **idempotente** senza `--force`: rilancia senza problemi, salta ciò che è già presente
+- Richiede `DEEPSEEK_API_KEY` e `PEXELS_API_KEY` nel `.env`
+- Dopo il completamento: `git add output/ frontend/data.js && git commit -m "backfill carousel" && git push`
 
-### Upgrade futuro — Pexels (qualità superiore)
+---
 
-Le immagini Wikimedia sono enciclopediche — buona copertura ma qualità editoriale limitata su topic tech moderni. Quando si vuole upgradarle, sostituire `fetchWikimediaImage()` con una chiamata a **Pexels API** (gratuita, 200 req/ora, foto professionali). Vedere sezione dedicata in `M21-roadmap.md`.
+## 15. Come scaricare le slide carousel come PNG per Instagram
+
+`frontend/carousel.html` permette di scaricare ogni slide come PNG 1080×1350px (formato 4:5 esatto, pronto per Instagram senza crop).
+
+### Aprire la pagina
+
+```
+https://visual-scroll-blog-production.up.railway.app/carousel.html
+```
+
+oppure in locale: `frontend/carousel.html` (richiede `data.js` aggiornato).
+
+### Scaricare le slide
+
+Seleziona un articolo dal menu in alto, poi:
+
+| Azione | Risultato |
+|---|---|
+| **Bottone "Scarica slide N"** sotto ogni slide | Scarica PNG singolo 1080×1350px |
+| **Bottone "Scarica tutte e 5"** in alto | Scarica 5 PNG in sequenza (attendi il completamento) |
+| **Click sulla slide** | Apre modal con anteprima — da lì: tasto destro → "Salva immagine" (desktop) oppure tieni premuto → "Salva" (mobile) |
+
+### Note per Instagram
+
+- Formato: 1080×1350px (4:5) — Instagram lo accetta senza crop automatico
+- Quando posti su IG, seleziona **"Originale"** nel selettore formato (non "Quadrato")
+- Per un carousel IG a 5 slide: scarica tutte e 5 → carica in sequenza nella stessa post
+
+> Se le immagini di sfondo (foto Pexels o og:image) non compaiono nel PNG scaricato, è un limite CORS del server di origine — le slide mostreranno il gradiente dark come fallback, comunque visivamente corretto.
