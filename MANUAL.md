@@ -22,6 +22,7 @@ Non è necessario capire tutto il codice: ogni sezione indica esattamente quale 
 13. [Come rigenerare tutti gli articoli dopo un cambio di prompt](#13-come-rigenerare-tutti-gli-articoli-dopo-un-cambio-di-prompt)
 14. [Come fare il backfill carousel e immagini](#14-come-fare-il-backfill-carousel-e-immagini)
 15. [Come scaricare le slide carousel come PNG per Instagram](#15-come-scaricare-le-slide-carousel-come-png-per-instagram)
+16. [Come funziona la generazione dei contenuti](#16-come-funziona-la-generazione-dei-contenuti)
 
 ---
 
@@ -538,3 +539,101 @@ Seleziona un articolo dal menu in alto, poi:
 - Per un carousel IG a 5 slide: scarica tutte e 5 → carica in sequenza nella stessa post
 
 > Se le immagini di sfondo (foto Pexels o og:image) non compaiono nel PNG scaricato, è un limite CORS del server di origine — le slide mostreranno il gradiente dark come fallback, comunque visivamente corretto.
+
+---
+
+## 16. Come funziona la generazione dei contenuti
+
+**File:** `generate.js`
+
+Ogni articolo che supera i filtri viene processato da tre funzioni in sequenza. Capire cosa fa ognuna è utile se la qualità dei contenuti cala o se vuoi modificare il tono.
+
+---
+
+### 16.1 — Le 5 slide (`generateSlides`)
+
+DeepSeek riceve il titolo dell'articolo e deve produrre 5 slide seguendo una struttura narrativa fissa.
+
+**Struttura obbligatoria in ordine:**
+
+| Posizione | Ruolo | Regola |
+|---|---|---|
+| Slide 1 | **HOOK** | Crea tensione o domanda aperta — non un titolo di giornale. Se esiste un hook più forte tra le altre slide, viene usato quello e la struttura si riordina. |
+| Slide 2 | **CONTESTO** | Una sola informazione nuova |
+| Slide 3 | **SORPRENDENTE** | La cosa che il lettore non si aspetta |
+| Slide 4 | **PRATICO** | Cosa cambia concretamente per chi legge |
+| Slide 5 | **TAKEAWAY** | Frase finale netta: azione o riflessione |
+
+**Regola critica — tensione irrisolta:**  
+Ogni slide deve lasciare una domanda aperta o un'informazione incompleta che si risolve solo nella slide successiva. Il test interno del prompt è: *"questa slide mi lascia una domanda aperta o vuole che legga la prossima?"* — se no, è sbagliata.
+
+**Limite:** max 12 parole per slide (il prompt dice "LIMITE ASSOLUTO: conta le parole").
+
+**Esempio DA NON FARE** (slide descrittive, tutto chiuso):
+```
+"OpenAI lancia GPT-5" / "È più potente di GPT-4" / "Ragiona in più passaggi" /
+"Costa meno" / "Disponibile su ChatGPT da oggi"
+```
+
+**Esempio DA FARE** (ogni slide lascia qualcosa in sospeso):
+```
+"GPT-5 può sostituire il tuo analista?" / "Ragiona su problemi complessi in più passaggi" /
+"Ma sbaglia meno degli umani solo su certi task" / "Chi non lo testa ora rischia di perdere terreno" /
+"Un task reale oggi: confronta i risultati tu stesso"
+```
+
+**Come modificare la struttura delle slide:**  
+Apri `generate.js` e modifica il testo della variabile `prompt` dentro `generateSlides()` (righe 28–52). Dopo ogni modifica svuota la cache (`echo "{}" > cache.json`) e rigenerai con `node regenerate-all.js`.
+
+---
+
+### 16.2 — Thread X e script video (`generateFormats`)
+
+Riceve le 5 slide già generate e produce due formati pronti per la distribuzione.
+
+#### Thread X (`thread_text`) — 5 tweet
+
+| Tweet | Regola |
+|---|---|
+| **Tweet 1** | Sceglie la slide con **più tensione narrativa** tra le 5 — non necessariamente la slide 1. Può venire dalla 3 o dalla 5. L'ordine del thread si ricostruisce intorno a quella slide. |
+| **Tweet 2–4** | Sviluppano con progressione (contesto → svolta → conseguenza). Non ripetono le slide — aggiungono beat narrativi nuovi. |
+| **Tweet 5** | Chiude con un **fatto netto**, una conseguenza concreta o una domanda aperta. Mai con valutazioni editoriali generiche. |
+
+Regole fisse: max 240 caratteri per tweet, niente hashtag, niente emoji forzate, tono diretto non giornalistico, ogni tweet comprensibile da solo.
+
+**DA NON FARE** per tweet 5: `"L'AI non è più solo un sogno"` / `"Il futuro è già qui"`  
+**DA FARE** per tweet 5: `"Costa meno di un abbonamento Spotify. Testalo questa settimana."`
+
+#### Script video (`video_script`) — 5 righe
+
+Linguaggio parlato, non scritto. Max 10 parole per riga. Come se stessi spiegando a voce a un amico. Niente sigle tecniche senza spiegazione.
+
+**`generateFormats` viene chiamata solo se `GENERATE_FORMATS=true` in `.env`.** Se un articolo non ha `thread_text` o `video_script` nel JSON, questa variabile era assente o la funzione ha fallito (logga `generateFormats fallito:` nei log).
+
+---
+
+### 16.3 — Slide carousel Instagram (`generateCarouselSlides`)
+
+Riceve titolo, slide e thread_text già generati. Produce i metadati per le 5 card del carousel.
+
+Per ogni slide genera:
+- `hook` — max 8 parole, tensione irrisolta (stesso principio delle slide)
+- `description` — max 25 parole, condensa il tweet più pertinente senza copiarlo
+- `visual_hint` — max 6 parole, elemento visivo concreto per quella slide
+- `image_query` — 2-3 parole inglesi per la ricerca immagine Pexels (oggetti, luoghi, tecnologia — non ritratti di sconosciuti)
+- `layout_type` — fisso per posizione: `hero` → `right-focus` → `sensor-zoom` → `human-hand` → `cta-final`
+- `icon` — scelto dall'AI tra: `tag`, `waves`, `heart`, `vibration`, `check`
+
+---
+
+### 16.4 — Quando intervenire sulla qualità
+
+| Sintomo | Causa probabile | Dove intervenire |
+|---|---|---|
+| Slide 1 troppo descrittiva, non crea curiosità | Regola HOOK ignorata | Prompt `generateSlides()` in `generate.js` riga ~34 |
+| Thread parte con "Recentemente..." o ripete la slide 1 | Regola tweet 1 ignorata | Prompt `generateFormats()` in `generate.js` riga ~91 |
+| Tweet 5 vago o editoriale | Regola tweet 5 ignorata | Prompt `generateFormats()` in `generate.js` riga ~93 |
+| Slide troppo lunghe (>12 parole) | Limite non rispettato | Rafforzare il vincolo nel prompt `generateSlides()` |
+| `carousel_slides` con description inventate | `thread_text` assente come input | Verificare che `GENERATE_FORMATS=true` nel `.env` |
+
+Dopo ogni modifica al prompt: `echo "{}" > cache.json` → `node regenerate-all.js`
