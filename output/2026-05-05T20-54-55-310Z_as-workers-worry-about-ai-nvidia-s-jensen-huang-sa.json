@@ -37,7 +37,8 @@
       "visual_hint": "ingranaggio e chip che si scontrano",
       "layout_type": "right-focus",
       "icon": "vibration",
-      "image_query": "factory robot assembly line"
+      "image_query": "factory robot assembly line",
+      "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Il settore già chiede competenze nuove",
@@ -46,7 +47,7 @@
       "layout_type": "sensor-zoom",
       "icon": "tag",
       "image_query": "stock market chart",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Più AI, più umani servono",
@@ -55,7 +56,7 @@
       "layout_type": "human-hand",
       "icon": "heart",
       "image_query": "office workers meeting",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18594v.jpg/960px-A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18594v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image": "https://images.pexels.com/photos/7971194/pexels-photo-7971194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Cerca 'AI + tuo settore' su LinkedIn",
@@ -64,7 +65,7 @@
       "layout_type": "cta-final",
       "icon": "check",
       "image_query": "LinkedIn profile on screen",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/IBM_Screen_Reader_Pad_side_profile_with_stand.jpg/960px-IBM_Screen_Reader_Pad_side_profile_with_stand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ]
 }

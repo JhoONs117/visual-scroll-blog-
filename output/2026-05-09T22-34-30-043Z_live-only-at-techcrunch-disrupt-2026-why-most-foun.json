@@ -36,7 +36,8 @@
       "visual_hint": "Falling clock 18 to 9",
       "layout_type": "right-focus",
       "icon": "waves",
-      "image_query": "clock countdown"
+      "image_query": "clock countdown",
+      "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "You're already negotiating from weakness",
@@ -44,7 +45,8 @@
       "visual_hint": "Weak handshake negotiation",
       "layout_type": "sensor-zoom",
       "icon": "heart",
-      "image_query": "business handshake"
+      "image_query": "business handshake",
+      "image": "https://images.pexels.com/photos/7693144/pexels-photo-7693144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Start raising now, not when desperate",
@@ -52,7 +54,8 @@
       "visual_hint": "Pitch deck survival mode",
       "layout_type": "human-hand",
       "icon": "vibration",
-      "image_query": "pitch deck paper"
+      "image_query": "pitch deck paper",
+      "image": "https://images.pexels.com/photos/8938929/pexels-photo-8938929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Check your runway; delay is the real risk",
@@ -60,10 +63,12 @@
       "visual_hint": "Runway gauge low fuel",
       "layout_type": "cta-final",
       "icon": "check",
-      "image_query": "fuel gauge empty"
+      "image_query": "fuel gauge empty",
+      "image": "https://images.pexels.com/photos/17245075/pexels-photo-17245075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "pubDate": "Fri, 08 May 2026 14:30:00 +0000",
   "savedAt": "2026-05-09T22:34:50.639Z",
-  "link": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/"
+  "link": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/TCD26_3-Speaker-Achadjian-Wade-Singh-16x9-Dark.png?resize=1200,675"
 }

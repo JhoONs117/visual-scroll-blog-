@@ -41,7 +41,7 @@
       "layout_type": "right-focus",
       "icon": "waves",
       "image_query": "server room",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Renewables can't scale fast enough",
@@ -49,7 +49,8 @@
       "visual_hint": "Wind turbine beside smokestack",
       "layout_type": "sensor-zoom",
       "icon": "heart",
-      "image_query": "wind turbine coal plant"
+      "image_query": "wind turbine coal plant",
+      "image": "https://images.pexels.com/photos/21952594/pexels-photo-21952594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Who pays for grid upgrades?",
@@ -58,7 +59,7 @@
       "layout_type": "human-hand",
       "icon": "vibration",
       "image_query": "office meeting",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/President_Trump_and_Ukrainian_President_Zelenskyy_Clash_During_Meeting_in_Oval_Office%2C_Feb._28%2C_2025.jpg/960px-President_Trump_and_Ukrainian_President_Zelenskyy_Clash_During_Meeting_in_Oval_Office%2C_Feb._28%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      "image": "https://images.pexels.com/photos/5945799/pexels-photo-5945799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Check your 2025 rate forecast now",
@@ -66,7 +67,8 @@
       "visual_hint": "Chart with upward arrow",
       "layout_type": "cta-final",
       "icon": "tag",
-      "image_query": "electricity bill chart"
+      "image_query": "electricity bill chart",
+      "image": "https://images.pexels.com/photos/6801635/pexels-photo-6801635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ]
 }

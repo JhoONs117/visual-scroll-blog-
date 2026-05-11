@@ -36,7 +36,8 @@
       "visual_hint": "tre barre di confronto",
       "layout_type": "right-focus",
       "icon": "waves",
-      "image_query": "server room"
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Nvidia è il termometro dell'AI",
@@ -44,7 +45,8 @@
       "visual_hint": "termometro digitale che sale",
       "layout_type": "sensor-zoom",
       "icon": "heart",
-      "image_query": "factory robot"
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Accelerano: cosa vedono?",
@@ -52,7 +54,8 @@
       "visual_hint": "mano su chip luminoso",
       "layout_type": "human-hand",
       "icon": "vibration",
-      "image_query": "people walking street"
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/4543925/pexels-photo-4543925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Hai già mappato le prossime mosse?",
@@ -60,10 +63,12 @@
       "visual_hint": "freccia che avanza su schermo",
       "layout_type": "cta-final",
       "icon": "tag",
-      "image_query": "solar panels"
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/13223714/pexels-photo-13223714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "pubDate": "Sat, 09 May 2026 14:43:30 +0000",
   "savedAt": "2026-05-09T20:36:25.965Z",
-  "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/"
+  "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024"
 }

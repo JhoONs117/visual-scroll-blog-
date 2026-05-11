@@ -36,7 +36,8 @@
       "visual_hint": "Centrale a gas in costruzione",
       "layout_type": "right-focus",
       "icon": "waves",
-      "image_query": "gas power plant construction"
+      "image_query": "gas power plant construction",
+      "image": "https://images.pexels.com/photos/35596446/pexels-photo-35596446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Abbiamo aggirato le regole di sicurezza",
@@ -44,7 +45,8 @@
       "visual_hint": "Interruttore della corrente spento",
       "layout_type": "sensor-zoom",
       "icon": "heart",
-      "image_query": "circuit breaker switch"
+      "image_query": "circuit breaker switch",
+      "image": "https://images.pexels.com/photos/14129562/pexels-photo-14129562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Bolletta più cara anche senza AI",
@@ -52,7 +54,8 @@
       "visual_hint": "Bolletta con cifre in rosso",
       "layout_type": "human-hand",
       "icon": "vibration",
-      "image_query": "electricity bill payment"
+      "image_query": "electricity bill payment",
+      "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Chiama il tuo fornitore domani",
@@ -60,10 +63,12 @@
       "visual_hint": "Persona al telefono con agenda",
       "layout_type": "cta-final",
       "icon": "check",
-      "image_query": "person calling on phone"
+      "image_query": "person calling on phone",
+      "image": "https://images.pexels.com/photos/7256299/pexels-photo-7256299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "pubDate": "Fri, 08 May 2026 13:00:00 +0000",
   "savedAt": "2026-05-08T17:04:40.474Z",
-  "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/"
+  "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
+  "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801"
 }

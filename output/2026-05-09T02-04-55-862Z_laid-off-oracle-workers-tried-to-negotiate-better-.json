@@ -36,7 +36,8 @@
       "visual_hint": "Cartello rosso con scritta NO",
       "layout_type": "right-focus",
       "icon": "waves",
-      "image_query": "red stop sign"
+      "image_query": "red stop sign",
+      "image": "https://images.pexels.com/photos/25383838/pexels-photo-25383838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Zero margine dopo la firma",
@@ -44,7 +45,8 @@
       "visual_hint": "Lente d'ingrandimento su righe piccole",
       "layout_type": "sensor-zoom",
       "icon": "heart",
-      "image_query": "magnifying glass paper"
+      "image_query": "magnifying glass paper",
+      "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Controlla prima del taglio",
@@ -52,7 +54,8 @@
       "visual_hint": "Mano che apre un file PDF",
       "layout_type": "human-hand",
       "icon": "vibration",
-      "image_query": "hand opening laptop"
+      "image_query": "hand opening laptop",
+      "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Non firmare righe nascoste",
@@ -60,10 +63,12 @@
       "visual_hint": "Penna rossa su clausola cerchiata",
       "layout_type": "cta-final",
       "icon": "tag",
-      "image_query": "highlighted contract clause"
+      "image_query": "highlighted contract clause",
+      "image": "https://images.pexels.com/photos/8470801/pexels-photo-8470801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "pubDate": "Fri, 08 May 2026 22:59:05 +0000",
   "savedAt": "2026-05-09T02:05:11.545Z",
-  "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/"
+  "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+  "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024"
 }
