@@ -632,14 +632,33 @@ let currentDataUrl  = null;
 let currentFilename = null;
 
 async function renderToCanvas(slideEl) {
-  return html2canvas(slideEl, {
-    scale: 4,           // 270×4 = 1080px — pronto per Instagram
+  // Rimuovi border-radius prima del capture: i bordi arrotondati diventano
+  // angoli trasparenti nel PNG e Instagram li mostra come bianchi/neri
+  const origRadius = slideEl.style.borderRadius;
+  slideEl.style.borderRadius = '0';
+
+  const raw = await html2canvas(slideEl, {
+    scale: 4,
     useCORS: true,
     allowTaint: false,
-    backgroundColor: null,
+    backgroundColor: '#080c18',  // sfondo dark, nessuna trasparenza
     logging: false,
     imageTimeout: 15000,
   });
+
+  slideEl.style.borderRadius = origRadius;
+
+  // Ritaglia/adatta a 1080×1350 esatti (4:5 Instagram perfetto)
+  // raw è 1080×1348 (337×4) — 2px in meno che scatenano il crop di IG
+  const final = document.createElement('canvas');
+  final.width  = 1080;
+  final.height = 1350;
+  const ctx = final.getContext('2d');
+  ctx.fillStyle = '#080c18';
+  ctx.fillRect(0, 0, 1080, 1350);
+  // centra verticalmente i 2px extra (1px sopra, 1px sotto)
+  ctx.drawImage(raw, 0, 0, raw.width, raw.height, 0, 1, 1080, 1348);
+  return final;
 }
 
 async function downloadSlide(slideEl, filename) {
