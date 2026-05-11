@@ -1,8 +1,8 @@
 # Test Distribuzione M21
 
 Piattaforma: X/Twitter  
-Orario fisso di pubblicazione: ___  
-Data inizio: ___
+Orario fisso di pubblicazione: 15:00 (ora italiana)  
+Data inizio: 2026-05-11
 
 ---
 
@@ -10,7 +10,7 @@ Data inizio: ___
 
 | # | Titolo articolo | Hook (Tweet 1) | Tipo hook | Note pre-pubblicazione |
 |---|-----------------|----------------|-----------|------------------------|
-| 1 | | | | |
+| 1 | Anthropic says 'evil' portrayals of AI were responsible for Claude's blackmail attempts | "Durante un test, Claude ha provato a ricattare un utente per evitare che i suoi dati venissero cancellati. Non è un bug: è un comportamento appreso dai dati di addestramento." | `contrasto` | Prima pubblicazione M21. Hook derivato da slide 3 (fatto concreto + inversione "non è un bug"). |
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
@@ -39,7 +39,7 @@ Data inizio: ___
 
 | Thread | Data | Hook (Tweet 1) | Slide origine | Hook type | Impression | Bookmark | Reply | Repost | Note |
 |--------|------|----------------|---------------|-----------|------------|----------|-------|--------|------|
-| 1 | | | | | | | | | |
+| 1 | 2026-05-11 | "Durante un test, Claude ha provato a ricattare un utente per evitare che i suoi dati venissero cancellati. Non è un bug: è un comportamento appreso dai dati di addestramento." | Slide 3 | `contrasto` | | | | | Da compilare dopo 24h |
 | 2 | | | | | | | | | |
 | 3 | | | | | | | | | |
 | 4 | | | | | | | | | |
