@@ -1,0 +1,74 @@
+{
+  "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
+  "slides": [
+    "Spotify's founder now backs defense tech—why?",
+    "Helsing plans $1.2B raise at $18B valuation.",
+    "AI for warfare: software over hardware bets.",
+    "Your tax money may soon fund Helsing's tools.",
+    "Watch which governments sign—that's the real signal."
+  ],
+  "thread_text": [
+    "L'AI per fare guerra non si compra più in hardware, si compra in software. Questo cambia tutto il modello economico del settore difesa.",
+    "Helsing è la startup che incarna questa idea: ha appena chiuso un round da 1.2 miliardi di dollari a una valutazione di 18 miliardi. In pratica, vale più di aziende di difesa tradizionali con decenni di storia.",
+    "Il fondatore di Spotify, Daniel Ek, ha appena investito in Helsing. Non è un caso: ha capito che la difesa sta diventando una commodity tecnologica come il resto.",
+    "I governi europei stanno per diventare i primi clienti. I tuoi soldi in tasse potrebbero pagare la prossima piattaforma decisionale di un drone.",
+    "Osserva quali governi firmeranno i primi contratti nei prossimi 3 mesi. Se vedi un ministero della difesa che sceglie software di terze parti invece di costruire il proprio, la guerra è già cambiata."
+  ],
+  "video_script": [
+    "Helsing vale 18 miliardi, solo di software militare.",
+    "Spotify ha investito. Sì, il tipo della musica.",
+    "Non vendono carri armati, vendono cervelli per droni.",
+    "I governi europei pagheranno con le nostre tasse.",
+    "Controlla chi firma il contratto tra marzo."
+  ],
+  "carousel_slides": [
+    {
+      "hook": "La guerra è ora software",
+      "description": "Il modello economico della difesa cambia: si compra software, non hardware. Helsing vale 18 miliardi.",
+      "visual_hint": "codice astratto su schermo",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "computer code screen"
+    },
+    {
+      "hook": "Spotify founder investe in difesa",
+      "description": "Daniel Ek scommette su Helsing. La difesa diventa commodity tecnologica come musica e streaming.",
+      "visual_hint": "Daniel Ek o spotify logo",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "Daniel Ek portrait",
+      "image": "https://images.pexels.com/photos/6333970/pexels-photo-6333970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "1.2 miliardi per l'AI bellica",
+      "description": "Helsing raccoglie 1.2 miliardi a 18 miliardi di valutazione, superando aziende di difesa storiche.",
+      "visual_hint": "fascia di grafico rialzista",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Le tue tasse finanziano droni",
+      "description": "Governi europei primi clienti. I tuoi soldi pagano la prossima piattaforma decisionale di un drone.",
+      "visual_hint": "moneta UE sopra circuito",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "euro coins",
+      "image": "https://images.pexels.com/photos/3943722/pexels-photo-3943722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Osserva chi firma contratti",
+      "description": "Se un ministero sceglie software esterno invece di svilupparlo, la guerra è già cambiata.",
+      "visual_hint": "documenti con timbri militari",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "government documents",
+      "image": "https://images.pexels.com/photos/6863185/pexels-photo-6863185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Helsing.jpg?resize=1200,962",
+  "pubDate": "Mon, 11 May 2026 17:38:32 +0000",
+  "savedAt": "2026-05-11T17:50:29.654Z",
+  "link": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/"
+}
