@@ -2,7 +2,7 @@ require('dotenv').config();
 
 const fs = require('fs');
 const path = require('path');
-const { fetchArticles } = require('./fetch');
+const { fetchArticles, fetchPexelsImage, fetchArticleImage } = require('./fetch');
 
 fs.mkdirSync(path.join(__dirname, 'output'), { recursive: true });
 const { deduplicate, hardFilter, batchAIFilter } = require('./filter');
@@ -79,6 +79,19 @@ function buildDataJs(outputDir) {
       const carousel = await generateCarouselSlides(result.title, result.slides, result.thread_text);
       if (carousel) {
         result.carousel_slides = carousel.carousel_slides;
+        // Fetch immagini Pexels per slide 2-5
+        for (let si = 1; si <= 4; si++) {
+          const cs = result.carousel_slides[si];
+          if (cs?.image_query) {
+            const img = await fetchPexelsImage(cs.image_query);
+            if (img) cs.image = img;
+          }
+        }
+      }
+      // Fetch og:image dalla pagina dell'articolo (slide 1)
+      if (article.link) {
+        const articleImg = await fetchArticleImage(article.link);
+        if (articleImg) result.image = articleImg;
       }
     }
 
