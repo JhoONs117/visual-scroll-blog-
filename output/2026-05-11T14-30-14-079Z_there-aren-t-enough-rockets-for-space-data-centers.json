@@ -36,7 +36,8 @@
       "visual_hint": "Mucchio di monete con razzo disegnato",
       "layout_type": "right-focus",
       "icon": "waves",
-      "image_query": "stack of coins"
+      "image_query": "stack of coins",
+      "image": "https://images.pexels.com/photos/21300485/pexels-photo-21300485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Atto di fede ingegneristico",
@@ -44,7 +45,8 @@
       "visual_hint": "Modulo spaziale su tavolo da disegno",
       "layout_type": "sensor-zoom",
       "icon": "heart",
-      "image_query": "satellite blueprint"
+      "image_query": "satellite blueprint",
+      "image": "https://images.pexels.com/photos/9615249/pexels-photo-9615249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Da secondi a millisecondi",
@@ -52,7 +54,8 @@
       "visual_hint": "Manoscritto che tocca globo terrestre",
       "layout_type": "human-hand",
       "icon": "vibration",
-      "image_query": "hand touching globe"
+      "image_query": "hand touching globe",
+      "image": "https://images.pexels.com/photos/4167566/pexels-photo-4167566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "hook": "Verticalizza o aspetti",
@@ -60,7 +63,8 @@
       "visual_hint": "Frecce convergenti verso un punto",
       "layout_type": "cta-final",
       "icon": "tag",
-      "image_query": "two arrows converging"
+      "image_query": "two arrows converging",
+      "image": "https://images.pexels.com/photos/36027825/pexels-photo-36027825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Cowbow-Space-Company-photo.jpeg?resize=1200,960",
