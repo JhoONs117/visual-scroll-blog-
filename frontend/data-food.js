@@ -1,6 +1,90 @@
 window.FOOD_ARTICLES = [
   {
     "agent": "food",
+    "slug": "pasta-con-agretti-e-colatura-di-alici",
+    "sourceId": "51428e3539d44579316ecd4a172acaac",
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "agretti",
+      "colatura di alici",
+      "pangrattato"
+    ],
+    "title": "Pasta con agretti e colatura di alici",
+    "slides": [
+      "Spaghetti cremosi con agretti e colatura di alici",
+      "Spaghettoni, agretti, colatura di alici, pangrattato",
+      "Pulisci gli agretti e tosta il pangrattato aromatico",
+      "Manteca la pasta con acqua di cottura e colatura",
+      "Scorza di limone e pangrattato croccante sopra"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Crema di agretti e alici",
+        "description": "Una pasta che unisce la freschezza degli agretti al sapore intenso della colatura di alici",
+        "visual_hint": "Piatto completo fumante",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory pasta agretti colatura"
+      },
+      {
+        "hook": "4 ingredienti magici",
+        "description": "Spaghettoni, agretti, colatura di alici e pangrattato tostato: l'essenziale per un sapore unico",
+        "visual_hint": "Lista ingredienti su legno",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta ingredients",
+        "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il gesto che conta",
+        "description": "Pulisci gli agretti eliminando i filamenti, poi tosta il pangrattato in padella fino a doratura",
+        "visual_hint": "Mani che puliscono agretti",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory cleaning agretti",
+        "image": "https://images.pexels.com/photos/37539838/pexels-photo-37539838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mantecatura cremosa",
+        "description": "Condisci la pasta con acqua di cottura e colatura di alici, mantecando a fuoco dolce",
+        "visual_hint": "Padella con pasta e schiuma",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory mantecatura pasta",
+        "image": "https://images.pexels.com/photos/30350295/pexels-photo-30350295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tocco finale",
+        "description": "Scorza di limone e pangrattato croccante sopra: esplosione di profumi e consistenze",
+        "visual_hint": "Piatto finito con scorza",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory pasta lemon pangrattato",
+        "image": "https://images.pexels.com/photos/20246314/pexels-photo-20246314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Questa pasta sa di primavera e di mare, un equilibrio perfetto tra dolcezza e sapidità. 🍋✨\n\nGli agretti, con la loro nota erbacea e leggermente acidula, si sposano magnificamente con il carattere deciso della colatura di alici. Il segreto? Un soffritto di pangrattato tostato per dare croccantezza e una mantecatura lenta con l’acqua di cottura, che lega tutto in una crema vellutata. Una grattugiata di scorza di limone al momento completa il quadro.\n\nProvala questo weekend, ti conquisterà al primo morso. 🌿",
+    "video_script": [
+      "Pulisco gli agretti, tolgo i gambi duri.",
+      "Tosto il pangrattato aromatico in padella.",
+      "Scolo la pasta al dente, tengo l'acqua.",
+      "Manteco con colatura di alici e acqua.",
+      "Impiato con scorza di limone e croccante."
+    ],
+    "thread_text": [
+      "Se non avete mai messo gli agretti nella pasta, oggi è il giorno giusto per farlo. Con la colatura di alici esplode tutto: sapido, minerale, terroso. Una bomba marina. 🐟",
+      "Pulite gli agretti eliminando la parte dura del gambo. Fate dorare il pangrattato in padella con olio e scorza di limone: diventa croccante e aromatico. Tenetelo da parte.",
+      "Cuocete gli spaghettoni in abbondante acqua salata. Nel frattempo, scottate gli agretti in padella con un filo d'olio: bastano 2 minuti, devono restare sodi e brillanti.",
+      "Scolate la pasta al dente, tenendo da parte un mestolo di acqua. Mantecatela nella padella con gli agretti e un paio di cucchiai di colatura di alici. Aggiungete acqua di cottura fino a crema perfetta.",
+      "Impiattate e finite con la scorza di limone grattugiata e una manciata di pangrattato tostato. Il croccante contro la crema è il trucco che fa la differenza. Provatela e fatemi sapere 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Pasta-con-agretti-e-colatura-di-alici.html",
+    "pubDate": "Tue, 14 Apr 2026 10:11:00 +0200",
+    "savedAt": "2026-05-12T19:33:46.360Z",
+    "image": "https://www.giallozafferano.it/images/360-36073/Pasta-con-agretti-e-colatura-di-alici_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
     "slug": "risotto-piselli-crescenza-e-pancetta-croccante",
     "sourceId": "28c4dca21ca942b6eee9f7c8922f4708",
     "dish_type": "generic",

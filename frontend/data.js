@@ -1,5 +1,305 @@
 window.ARTICLES = [
   {
+    "title": "US bank discloses security lapse after sharing customer data with AI app",
+    "slides": [
+      "Una banca USA ha condiviso dati sensibili con un'IA?",
+      "L'app AI ha ricevuto informazioni personali di clienti.",
+      "La banca ha scoperto il problema solo dopo settimane.",
+      "Verifica se anche i tuoi dati sono stati esposti.",
+      "Chiedi alla banca un report dettagliato adesso."
+    ],
+    "thread_text": [
+      "Una banca USA ha scoperto solo dopo settimane che la sua AI aveva condiviso dati sensibili dei clienti. Sembrava tutto normale, finché qualcuno non ha controllato i log.",
+      "L'app AI che usavano per il supporto clienti stava inviando informazioni personali a terze parti. Nome, indirizzo, transazioni. Tutto.",
+      "Il problema è emerso solo dopo un controllo interno. Per settimane, quei dati sono stati esposti senza che nessuno se ne accorgesse.",
+      "Se hai un conto in quella banca, i tuoi dati potrebbero essere tra quelli esposti. Non aspettare che ti avvisino loro.",
+      "Chiedi subito alla tua banca un report dettagliato su quali dati sono stati condivisi e con chi. Fallo oggi."
+    ],
+    "video_script": [
+      "Una banca ha dato dati privati a un'AI.",
+      "E ci ha messo settimane a scoprirlo.",
+      "Nome, indirizzo, transazioni: tutto esposto.",
+      "Se hai un conto lì, controlla ora.",
+      "Chiedi un report alla banca, subito."
+    ],
+    "instagram_caption": "Per settimane una banca americana ha continuato a usare un'app di IA per l'assistenza clienti senza accorgersi che stava spedendo nome, indirizzo e transazioni a terze parti. Il problema è venuto fuori solo dopo un controllo manuale dei log. Se hai un conto in quella banca, i tuoi dati potrebbero essere già stati esposti senza che tu lo sappia. Chiedi oggi stesso un report dettagliato su cosa è stato condiviso e con chi. La tua banca lo sa da settimane: tu lo sai? 📋🔐💳",
+    "carousel_slides": [
+      {
+        "hook": "I tuoi dati bancari esposti?",
+        "description": "Una banca USA ha scoperto solo dopo settimane che la sua AI condivideva dati sensibili. Sembrava normale.",
+        "visual_hint": "Schermo connotifica di allarme",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "data breach screen"
+      },
+      {
+        "hook": "L'app AI ha tradito",
+        "description": "L'app AI per il supporto inviava a terze parti nome, indirizzo, transazioni. Tutto esposto.",
+        "visual_hint": "Icona AI connessa a server esterno",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "AI chatbot interface",
+        "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Settimane di silenzio",
+        "description": "Il problema è emerso solo dopo un controllo interno. Per settimane i dati sono rimasti esposti senza che nessuno se ne accorgesse.",
+        "visual_hint": "Calendario barrato con punto esclamativo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "calendar alert",
+        "image": "https://images.pexels.com/photos/29509483/pexels-photo-29509483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sei tra i colpiti?",
+        "description": "Se hai un conto in quella banca, i tuoi dati potrebbero essere tra quelli esposti. Non aspettare che ti avvisino.",
+        "visual_hint": "Documento con dati personali segnati",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "personal data form",
+        "image": "https://images.pexels.com/photos/7709273/pexels-photo-7709273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Azione subito",
+        "description": "Chiedi alla tua banca un report dettagliato su quali dati sono stati condivisi e con chi. Fallo oggi.",
+        "visual_hint": "Tasto 'Chiedi report' luminoso",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "report request button",
+        "image": "https://images.pexels.com/photos/7947637/pexels-photo-7947637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/06/money-grab-bryce.jpg?resize=1200,675",
+    "pubDate": "Tue, 12 May 2026 16:36:44 +0000",
+    "savedAt": "2026-05-12T19:30:37.540Z",
+    "link": "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/"
+  },
+  {
+    "title": "Google brings agentic AI and vibe-coded widgets to Android",
+    "slides": [
+      "Google vuole che l'AI agisca per te sul telefono.",
+      "Non solo risposte, ma azioni concrete sui widget.",
+      "I widget si generano da soli con un semplice prompt.",
+      "La tua home screen diventa un assistente attivo.",
+      "Prova oggi: chiedi un widget per le tue task."
+    ],
+    "thread_text": [
+      "Immagina di scrivere 'mostrami i task di oggi' e il telefono ti genera un widget istantaneo. Google sta portando l'AI proprio lì, sulla tua home screen.",
+      "Non più solo risposte vocali. L'AI ora interagisce con i widget: ti crea promemoria, agenda, checklist — tutto con un semplice prompt in linguaggio naturale.",
+      "Il widget non lo scarichi più dal Play Store. Lo generi tu, al volo, digitando cosa ti serve. La home screen diventa un Assistente visivo attivo in tempo reale.",
+      "Il salto è questo: da strumento passivo a agente che agisce per te. Prenota, organizza, sposta app — senza che tu tocchi nulla.",
+      "Prova oggi: chiedi al tuo telefono un widget per le prossime 3 task. Se funziona, non tornerai più indietro."
+    ],
+    "video_script": [
+      "Scrivi un prompt e hai un widget.",
+      "Google lo sta testando sul telefono.",
+      "L'AI non parla più, agisce.",
+      "La home screen diventa un assistente.",
+      "Chiedi subito un task widget."
+    ],
+    "instagram_caption": "Digitando \"mostrami le task di oggi\" ti compare un widget sulla home screen, generato al volo dall’intelligenza artificiale. Google ha integrato l’AI direttamente nei widget di Android: non solo risposte vocali, ma azioni concrete come creare promemoria, checklist o agenda con un prompt in italiano semplice. Il widget non lo scarichi più dallo store: lo generi tu, in tempo reale. Per il tuo lavoro quotidiano significa avere un assistente visivo attivo che prenota, organizza e sposta app senza che tu tocchi nulla. Già provato a chiedere al telefono un widget per le prossime tre scadenze?",
+    "carousel_slides": [
+      {
+        "hook": "Scrivi, lui crea",
+        "description": "Genera widget al volo con un prompt: Google porta l'AI sulla home screen",
+        "visual_hint": "widget generato con promemoria",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "android smartphone home screen"
+      },
+      {
+        "hook": "Non solo parole, fatti",
+        "description": "L'AI crea agenda, checklist e promemoria direttamente sui widget",
+        "visual_hint": "checklist su widget",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "digital checklist schedule",
+        "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Scarica? No, genera",
+        "description": "Il widget non arriva dal Play Store: lo crei tu al volo digitando cosa serve",
+        "visual_hint": "prompt e widget che appare",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "typing on smartphone",
+        "image": "https://images.pexels.com/photos/6669795/pexels-photo-6669795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Dai, l'AI agisce",
+        "description": "Da strumento passivo a agente: prenota, organizza, sposta senza che tocchi nulla",
+        "visual_hint": "mano che non tocca schermo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person using smartphone",
+        "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova oggi stesso",
+        "description": "Chiedi un widget per le prossime 3 task. Se funziona, non tornerai indietro",
+        "visual_hint": "task widget attivo",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone task list",
+        "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786",
+    "pubDate": "Tue, 12 May 2026 17:00:00 +0000",
+    "savedAt": "2026-05-12T19:30:21.764Z",
+    "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/"
+  },
+  {
+    "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
+    "slides": [
+      "Anthropic sfida Harvey in un affare legale da miliardi?",
+      "Il mercato legale AI vale $10 miliardi entro 2030",
+      "L'ironia: un'ex assistente sarà la chiave tecnica",
+      "Avvocati che ignorano l'AI verranno sostituiti più velocemente",
+      "Testalo oggi: chiedi a Claude di rivedere un contratto"
+    ],
+    "thread_text": [
+      "L'ex assistente di un CEO legale ha scritto il codice che potrebbe mandare in fumo un deal da miliardi. Si chiama Claude e arriva da Anthropic.",
+      "Harvey raccoglieva 100 milioni per legal AI. Anthropic l'ha battuta sul prodotto. Ora Harvey fa causa, ma il mercato vale 10 miliardi entro il 2030.",
+      "L'ironia è che il cuore tecnico della disputa lo ha costruito una persona che fino a due anni fa prendeva appunti per un partner dello studio.",
+      "I legali che ignorano strumenti come Claude non verranno sostituiti da AI, ma da avvocati che sanno usarla. Il differenziale è sei mesi di stipendio.",
+      "Prendi un contratto che odi. Caricalo su Claude e chiedigli: 'Trova le tre clausole che mi espongono di più.' Costa meno di un abbonamento Netflix."
+    ],
+    "video_script": [
+      "Una ex assistente ha scritto il codice giusto per disintegrare un affare da miliardi.",
+      "Si chiama Claude, è di Anthropic. Harvey è in causa.",
+      "Il mercato legale AI? Dieci miliardi entro il 2030.",
+      "L'avvocato che non usa queste cose viene rimpiazzato da chi le usa.",
+      "Carica un contratto su Claude adesso. Scopri quanto sei esposto."
+    ],
+    "instagram_caption": "Un'ex assistente che prendeva appunti per uno studio legale ha scritto il codice che oggi fa tremare un deal da miliardi 📝⚖️. Anthropic ha battuto Harvey sul prodotto legale AI, e ora Harvey fa causa. Il mercato vale 10 miliardi entro il 2030. Per chi lavora con documenti: caricare un contratto su Claude costa meno di Netflix e scova le tre clausole che ti espongono di più 🔍. I legali che ignorano strumenti del genere verranno sostituiti da chi li usa già — il differenziale sono sei mesi di stipendio ⏳.",
+    "carousel_slides": [
+      {
+        "hook": "Un ex assistente sfida Harvey",
+        "description": "L'ex assistente di un CEO legale ha scritto il codice che potrebbe far crollare un deal miliardario.",
+        "visual_hint": "Codice su schermo e toga",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "lawyer computer code"
+      },
+      {
+        "hook": "Mercato legale AI da 10 miliardi",
+        "description": "Harvey raccoglieva 100 milioni per legal AI, ma Anthropic l'ha battuta sul prodotto. Ora causa.",
+        "visual_hint": "Grafico a barre crescente",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ironia tecnica: ex assistente chiave",
+        "description": "Il cuore tecnico della disputa l'ha costruito una persona che fino a due anni fa prendeva appunti.",
+        "visual_hint": "Documenti legali e taccuino",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "legal documents notebook",
+        "image": "https://images.pexels.com/photos/8112145/pexels-photo-8112145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Avvocati ignoranti? Sostituiti più velocemente",
+        "description": "I legali che ignorano l'AI verranno sostituiti da avvocati che sanno usarla. Differenziale: sei mesi di stipendio.",
+        "visual_hint": "Avvocato con tablet e AI",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "lawyer tablet courtroom",
+        "image": "https://images.pexels.com/photos/5668791/pexels-photo-5668791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova Claude oggi: rivedi un contratto",
+        "description": "Carica un contratto su Claude e chiedi: 'Trova le tre clausole che mi espongono di più.' Costa meno di Netflix.",
+        "visual_hint": "Smartphone mostra chat contratto",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person holding phone",
+        "image": "https://images.pexels.com/photos/6473732/pexels-photo-6473732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+    "pubDate": "Tue, 12 May 2026 17:00:00 +0000",
+    "savedAt": "2026-05-12T19:30:05.379Z",
+    "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/"
+  },
+  {
+    "title": "Potholes cost cities millions: This company is using AI and trucks to fix them",
+    "slides": [
+      "Una startup usa AI e camion per riparare buche.",
+      "Ogni anno costano milioni alle città americane.",
+      "Ma il sistema rileva il danno prima che si apra.",
+      "Ora le manutenzioni sono predittive, non reattive.",
+      "Questa settimana testalo sul tuo comune."
+    ],
+    "thread_text": [
+      "Una startup ha già mappato le buche che si formeranno nel tuo comune. Prima che si aprano.",
+      "Le buche costano ogni anno milioni alle città americane. In riparazioni, danni alle auto, cause legali.",
+      "Ora invece il sistema usa AI e telecamere sui camion della spazzatura. Rileva le crepe quando sono ancora invisibili.",
+      "La manutenzione diventa predittiva: si ripara prima che la buca si apra. Meno soldi, meno traffico, meno incidenti.",
+      "Questa settimana puoi testarlo sul tuo comune. Costa meno di un abbonamento Spotify."
+    ],
+    "video_script": [
+      "Una startup ha trovato il modo di riparare le buche prima che si formino.",
+      "Ogni anno costano milioni alle città.",
+      "Ma il sistema le individua quando sono ancora invisibili.",
+      "Così la manutenzione diventa predittiva, non reattiva.",
+      "Questa settimana lo puoi testare sul tuo comune."
+    ],
+    "instagram_caption": "Le buche costano milioni ogni anno alle città americane in riparazioni, danni alle auto e cause legali 🚧. Una startup ha montato telecamere e AI sui camion della spazzatura per rilevare le crepe quando sono ancora invisibili, prima che il danno si apra 🔍. La manutenzione diventa predittiva: si ripara in tempo, spendendo meno e creando meno traffico 🚛. Questa settimana puoi testarlo sul tuo comune, costa meno di un abbonamento Spotify. Quale strada della tua città meriterebbe un check prima che sia troppo tardi?",
+    "carousel_slides": [
+      {
+        "hook": "Le buche che non vedi ancora",
+        "description": "Una startup ha già mappato le buche che si formeranno nel tuo comune, prima che si aprano.",
+        "visual_hint": "Mappa digitale con punti caldi",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "digital map cracks prediction"
+      },
+      {
+        "hook": "Milioni in buchi sull'asfalto",
+        "description": "Le buche costano ogni anno milioni alle città americane in riparazioni, danni alle auto e cause legali.",
+        "visual_hint": "Auto danneggiata su strada sconnessa",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "car pothole damage road",
+        "image": "https://images.pexels.com/photos/13622966/pexels-photo-13622966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Telecamere sui camion della spazzatura",
+        "description": "Il sistema usa AI e telecamere montate sui camion della spazzatura, rileva crepe ancora invisibili.",
+        "visual_hint": "Telecamera su camion spazzatura",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "camera truck garbage AI",
+        "image": "https://images.pexels.com/photos/18699393/pexels-photo-18699393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Manutenzione predittiva, non reattiva",
+        "description": "Si ripara prima che la buca si apra. Meno soldi, meno traffico, meno incidenti.",
+        "visual_hint": "Operai riparano crepa sottile",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "workers fixing asphalt crack",
+        "image": "https://images.pexels.com/photos/29677628/pexels-photo-29677628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costa meno di Spotify",
+        "description": "Questa settimana puoi testarlo sul tuo comune. Costa meno di un abbonamento Spotify.",
+        "visual_hint": "Smartphone con app e città",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone app city map",
+        "image": "https://images.pexels.com/photos/6169861/pexels-photo-6169861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1239765581.jpg?resize=1200,785",
+    "pubDate": "Tue, 12 May 2026 17:33:29 +0000",
+    "savedAt": "2026-05-12T19:29:48.702Z",
+    "link": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/"
+  },
+  {
     "title": "Digg tries again, this time as an AI news aggregator",
     "slides": [
       "Digg riparte: AI al posto dei curatori umani?",
