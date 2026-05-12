@@ -1,0 +1,84 @@
+{
+  "agent": "food",
+  "slug": "risotto-con-zucchine-e-pancetta",
+  "sourceId": "434c565c743e28e8e08ab40c905d8cd0",
+  "dish_type": "generic",
+  "signature_ingredients": [
+    "zucchine",
+    "pancetta",
+    "parmigiano"
+  ],
+  "title": "Risotto con zucchine e pancetta",
+  "slides": [
+    "Risotto cremoso zucchine e pancetta croccante",
+    "Riso, zucchine, pancetta, brodo, parmigiano",
+    "Taglia zucchine e pancetta a cubetti",
+    "Manteca con burro e parmigiano a fuoco spento",
+    "Decora con pancetta croccante tenuta da parte"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Risotto cremoso zucchine e pancetta",
+      "description": "Un primo cremoso e saporito, con zucchine tenere e pancetta croccante.",
+      "visual_hint": "foto hero del piatto",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "savory risotto zucchini pancetta"
+    },
+    {
+      "hook": "Gli ingredienti perfetti",
+      "description": "Riso, zucchine, pancetta, brodo e parmigiano per un equilibrio di sapori.",
+      "visual_hint": "ingredienti in fila",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "savory risotto ingredients",
+      "image": "https://images.pexels.com/photos/34110276/pexels-photo-34110276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Taglia a cubetti",
+      "description": "Taglia zucchine e pancetta a cubetti regolari per una cottura uniforme.",
+      "visual_hint": "mani che tagliano",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "savory cutting zucchini",
+      "image": "https://images.pexels.com/photos/8511807/pexels-photo-8511807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Manteca fuori dal fuoco",
+      "description": "Spegni il fuoco e manteca con burro e parmigiano per una cremosità perfetta.",
+      "visual_hint": "mantecatura in padella",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "savory risotto mantecatura",
+      "image": "https://images.pexels.com/photos/34759470/pexels-photo-34759470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pancetta croccante finale",
+      "description": "Decora con la pancetta croccante tenuta da parte e servi subito.",
+      "visual_hint": "piatto impiattato",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "savory risotto plate",
+      "image": "https://images.pexels.com/photos/18078968/pexels-photo-18078968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "instagram_caption": "Un primo che sa di casa, ma con quel tocco croccante che fa la differenza. 🍚✨\n\nZucchine dolci saltate, pancetta croccante tenuta da parte per la finitura, e un risotto mantecato con burro e parmigiano a fuoco spento: la cremosità è pura poesia. Il segreto? Tagliare tutto a cubetti piccoli e non saltare la mantecatura finale. 🧈🧀\n\nProvalo e fammi sapere se ti conquista quanto ha conquistato me.",
+  "video_script": [
+    "Taglio zucchine e pancetta a cubetti.",
+    "Faccio rosolare la pancetta, la metto da parte.",
+    "Tosto il riso e lo sfumo con il brodo.",
+    "Unisco le zucchine e porto a cottura.",
+    "Spengo, manteco con burro, parmigiano e pancetta."
+  ],
+  "thread_text": [
+    "Cremoso al punto giusto, con quel contrasto di pancetta croccante che ti fa venire l'acquolina. Questo risotto è un abbraccio in un piatto.",
+    "Parti dalle zucchine fresche: tagliale a cubetti insieme alla pancetta. Fai rosolare la pancetta fino a renderla croccante e tienine un po' da parte per la fine.",
+    "Tosta il riso in padella, poi sfuma con un goccio di vino bianco. Aggiungi le zucchine e la pancetta, e inizia a bagnare col brodo caldo, mescolando piano.",
+    "Arriva il momento magico: a fuoco spento, manteca con una noce di burro e una bella manciata di parmigiano. L'emulsione fa la crema perfetta.",
+    "Impiatta e decora con la pancetta croccante tenuta da parte. Un filo d'olio a crudo? Se vuoi stupire. Assaggia e fammi sapere nei commenti!"
+  ],
+  "link": "https://ricette.giallozafferano.it/Risotto-con-zucchine-e-pancetta.html",
+  "pubDate": "Wed, 22 Apr 2026 14:46:00 +0200",
+  "savedAt": "2026-05-12T14:00:43.224Z",
+  "image": "https://www.giallozafferano.it/images/361-36107/Risotto-con-zucchine-e-pancetta_650x433_wm.jpg"
+}

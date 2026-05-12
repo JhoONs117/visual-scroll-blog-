@@ -1,6 +1,258 @@
 window.FOOD_ARTICLES = [
   {
     "agent": "food",
+    "slug": "pasta-sarde-pomodorini-e-pangrattato",
+    "sourceId": "b9a8693f2cb856faf4edfefe3c23af97",
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "sarde",
+      "pomodorini",
+      "pangrattato"
+    ],
+    "title": "Pasta sarde pomodorini e pangrattato",
+    "slides": [
+      "Pasta con sarde, pomodorini e pangrattato croccante",
+      "Spaghetti senza glutine, sarde, pomodorini, alici, pangrattato",
+      "Tosta il pangrattato con aglio e prezzemolo",
+      "Cuoci sarde e pomodorini, unisci la pasta",
+      "Cospargi pangrattato tostato e peperoncino prima di servire"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta sarde pomodorini & pangrattato croccante",
+        "description": "Un primo di mare semplice, saporito e senza glutine: in 20 minuti porti in tavola la Sicilia.",
+        "visual_hint": "Pasta in primo piano, sarde e pomodorini",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory pasta sardines"
+      },
+      {
+        "hook": "3 ingredienti, un mare di gusto",
+        "description": "Spaghetti senza glutine, sarde fresche, pomodorini dolci. Le alici aggiungono umami, il pangrattato dà croccantezza.",
+        "visual_hint": "Ingredienti su tavola di legno",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta ingredients",
+        "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il segreto: pangrattato tostato",
+        "description": "In padella con aglio e prezzemolo: il pangrattato diventa dorato e croccante. È la chiave del piatto.",
+        "visual_hint": "Pangrattato che tosta in padella",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory breadcrumb toasting",
+        "image": "https://images.pexels.com/photos/14043698/pexels-photo-14043698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sarde & pomodorini in padella",
+        "description": "Cuoci sarde e pomodorini finché si sfaldano, poi unisci la pasta al dente. Manteca velocemente con un filo d'olio.",
+        "visual_hint": "Padella con sarde e pomodorini",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory sardines tomatoes",
+        "image": "https://images.pexels.com/photos/18139200/pexels-photo-18139200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Croccante finale con peperoncino",
+        "description": "Cospargi pangrattato tostato e una spolverata di peperoncino. Servi ben caldo: è un'esplosione di mare e croccantezza.",
+        "visual_hint": "Pasta impiattata, pangrattato sopra",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory pasta plating",
+        "image": "https://images.pexels.com/photos/24289211/pexels-photo-24289211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Un piatto che sa di Sicilia e di casa, tutto in una forchettata 🐟🍅.  \nSpaghetti senza glutine che abbracciano sarde fresche e pomodorini dolci, mentre il pangrattato croccante tostato con aglio e prezzemolo regala quel crunch che fa la differenza.  \nAlici in padella per un fondo saporito, poi via con la cottura lenta: i pomodorini si sciolgono, le sarde sprigionano tutto il loro carattere.  \nAl momento di servire, non dimenticare una bella spolverata di pangrattato tostato e un pizzico di peperoncino.  \nSemplice, genuino, da leccarsi i baffi. Provala questo weekend 🌿",
+    "video_script": [
+      "Tosto il pangrattato con aglio e prezzemolo.",
+      "Cuocio sarde e pomodorini in padella.",
+      "Unisco gli spaghetti senza glutine cotti.",
+      "Cospargo pangrattato tostato e peperoncino.",
+      "Pasta pronta, buon appetito!"
+    ],
+    "thread_text": [
+      "C’è un piatto che sa di mare e di terra insieme. Pasta con sarde, pomodorini e pangrattato croccante. La texture cambia tutto. Pronti?",
+      "Spaghetti senza glutine, sarde fresche, pomodorini dolci, qualche alice per il fondo. Pangrattato tostato che fa da granella finale. ingredienti semplici, effetto enorme.",
+      "Primo gesto: tosta il pangrattato con aglio e prezzemolo in padella finché non diventa dorato e fragrante. Mettilo da parte. È la chiave del piatto.",
+      "Nella stessa padella, cuoci le sarde con i pomodorini sfaldandole piano. Unisci la pasta al dente con un po' d'acqua di cottura. Manteca veloce.",
+      "Prima di servire, cospargi il pangrattato tostato e una spolverata di peperoncino. Croccante, sapido, irresistibile. Provala e dimmi com'è andata 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Pasta-sarde-pomodorini-e-pangrattato.html",
+    "pubDate": "Fri, 17 Apr 2026 11:51:00 +0200",
+    "savedAt": "2026-05-12T14:01:38.802Z",
+    "image": "https://www.giallozafferano.it/images/360-36092/Pasta-sarde-pomodorini-e-pangrattato_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
+    "slug": "pasta-e-piselli-con-pancetta",
+    "sourceId": "6fb1631631b506ad5d40c51638f7474a",
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "pancetta",
+      "piselli",
+      "menta"
+    ],
+    "title": "Pasta e piselli con pancetta",
+    "slides": [
+      "Pasta e piselli cremosa con pancetta croccante",
+      "Pasta, piselli, pancetta, scalogno, menta",
+      "Sgrana i piselli e prepara il brodo",
+      "Risotta la pasta con brodo di baccelli",
+      "Menta fresca e olio a crudo finali"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta e piselli cremosa con pancetta",
+        "description": "Una crema di piselli dolci avvolge la pasta, con pancetta croccante e menta fresca: comfort food primaverile.",
+        "visual_hint": "Primo piano cremoso in ciotola",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "creamy pea pasta savory"
+      },
+      {
+        "hook": "I 4 ingredienti segreti",
+        "description": "Pasta liscia, piselli freschi, pancetta affumicata e menta: il resto è brodo di baccelli e scalogno.",
+        "visual_hint": "Ingredienti su tagliere di legno",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "pancetta peas mint savory",
+        "image": "https://images.pexels.com/photos/31969431/pexels-photo-31969431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il gesto che fa la differenza",
+        "description": "Sgrana i piselli a mano e usa i baccelli per il brodo. Così il sapore dei piselli si concentra.",
+        "visual_hint": "Mani che sgranano piselli",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "shelling fresh peas savory",
+        "image": "https://images.pexels.com/photos/32188888/pexels-photo-32188888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Risottala come un risotto",
+        "description": "Tosta la pasta, poi cuocila aggiungendo brodo caldo poco per volta, mescolando fino a cremosità.",
+        "visual_hint": "Mani che mescolano in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stirring pasta risotto savory",
+        "image": "https://images.pexels.com/photos/6659562/pexels-photo-6659562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tocco finale: menta e olio",
+        "description": "Spegni il fuoco, unisci menta fresca spezzettata e un filo d’olio extravergine. Servi subito con pancetta croccante.",
+        "visual_hint": "Ciotola fumante con menta verde",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "pasta peas pancetta mint savory",
+        "image": "https://images.pexels.com/photos/20246314/pexels-photo-20246314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "La cremosità che abbraccia, la pancetta che scrocchia: questa pasta e piselli è una coccola primaverile.  \nHo sgranato i piselli e usato i baccelli per un brodo profumato, risottando la pasta con scalogno e pancetta, poi menta fresca e olio a crudo.  \nOgni cucchiaio è un equilibrio tra dolcezza dei piselli, sapidità della pancetta croccante e freschezza della menta.  \nUn piatto semplice che sa di casa, ma con un tocco in più.  \nProvala questo weekend 🌿",
+    "video_script": [
+      "Sgrana i piselli, tieni da parte i baccelli.",
+      "Fai il brodo con i baccelli, poi filtralo.",
+      "Rosola pancetta e scalogno nella pentola.",
+      "Risotta la pasta con il brodo di baccelli.",
+      "Fuori dal fuoco: piselli, menta e olio crudo."
+    ],
+    "thread_text": [
+      "Non chiamatela minestra: questa è pasta e piselli che si mangia col cucchiaio e si ricorda tutta l’estate. Cremosa, con la pancetta che scrocchia sotto i denti. E un segreto che vi svelo alla fine.",
+      "Il segreto è tutto nella materia prima: piselli freschi sgranati, pancetta tagliata a cubetti e una manciata di menta che fa la differenza. Scalogno dolce per base, niente aglio. Poi si procede.",
+      "Prima di tutto: tieni da parte i baccelli vuoti. Sì, quelli. Li fai bollire in acqua salata e ottieni un brodo vegetale che sa di primavera. È lì che nasce la cremosità del piatto.",
+      "Tosta la pancetta da sola fino a renderla croccante, togli e metti da parte. Nella stessa pentola soffriggi lo scalogno, aggiungi i piselli, poi la pasta secca (un formato corto). La risotti come un risotto, col brodo di baccelli.",
+      "A fine cottura, fuori dal fuoco, manteca con una noce di burro e una manciata di menta fresca tritata. Poi la pancetta croccante sopra e un filo d’olio a crudo. Provatela e ditemi se non è poesia. 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Pasta-e-piselli-con-pancetta.html",
+    "pubDate": "Wed, 22 Apr 2026 11:30:00 +0200",
+    "savedAt": "2026-05-12T14:01:10.892Z",
+    "image": "https://www.giallozafferano.it/images/360-36081/Pasta-e-piselli-con-pancetta_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
+    "slug": "risotto-con-zucchine-e-pancetta",
+    "sourceId": "434c565c743e28e8e08ab40c905d8cd0",
+    "dish_type": "generic",
+    "signature_ingredients": [
+      "zucchine",
+      "pancetta",
+      "parmigiano"
+    ],
+    "title": "Risotto con zucchine e pancetta",
+    "slides": [
+      "Risotto cremoso zucchine e pancetta croccante",
+      "Riso, zucchine, pancetta, brodo, parmigiano",
+      "Taglia zucchine e pancetta a cubetti",
+      "Manteca con burro e parmigiano a fuoco spento",
+      "Decora con pancetta croccante tenuta da parte"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Risotto cremoso zucchine e pancetta",
+        "description": "Un primo cremoso e saporito, con zucchine tenere e pancetta croccante.",
+        "visual_hint": "foto hero del piatto",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory risotto zucchini pancetta"
+      },
+      {
+        "hook": "Gli ingredienti perfetti",
+        "description": "Riso, zucchine, pancetta, brodo e parmigiano per un equilibrio di sapori.",
+        "visual_hint": "ingredienti in fila",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory risotto ingredients",
+        "image": "https://images.pexels.com/photos/34110276/pexels-photo-34110276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Taglia a cubetti",
+        "description": "Taglia zucchine e pancetta a cubetti regolari per una cottura uniforme.",
+        "visual_hint": "mani che tagliano",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory cutting zucchini",
+        "image": "https://images.pexels.com/photos/8511807/pexels-photo-8511807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Manteca fuori dal fuoco",
+        "description": "Spegni il fuoco e manteca con burro e parmigiano per una cremosità perfetta.",
+        "visual_hint": "mantecatura in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory risotto mantecatura",
+        "image": "https://images.pexels.com/photos/34759470/pexels-photo-34759470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pancetta croccante finale",
+        "description": "Decora con la pancetta croccante tenuta da parte e servi subito.",
+        "visual_hint": "piatto impiattato",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory risotto plate",
+        "image": "https://images.pexels.com/photos/18078968/pexels-photo-18078968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Un primo che sa di casa, ma con quel tocco croccante che fa la differenza. 🍚✨\n\nZucchine dolci saltate, pancetta croccante tenuta da parte per la finitura, e un risotto mantecato con burro e parmigiano a fuoco spento: la cremosità è pura poesia. Il segreto? Tagliare tutto a cubetti piccoli e non saltare la mantecatura finale. 🧈🧀\n\nProvalo e fammi sapere se ti conquista quanto ha conquistato me.",
+    "video_script": [
+      "Taglio zucchine e pancetta a cubetti.",
+      "Faccio rosolare la pancetta, la metto da parte.",
+      "Tosto il riso e lo sfumo con il brodo.",
+      "Unisco le zucchine e porto a cottura.",
+      "Spengo, manteco con burro, parmigiano e pancetta."
+    ],
+    "thread_text": [
+      "Cremoso al punto giusto, con quel contrasto di pancetta croccante che ti fa venire l'acquolina. Questo risotto è un abbraccio in un piatto.",
+      "Parti dalle zucchine fresche: tagliale a cubetti insieme alla pancetta. Fai rosolare la pancetta fino a renderla croccante e tienine un po' da parte per la fine.",
+      "Tosta il riso in padella, poi sfuma con un goccio di vino bianco. Aggiungi le zucchine e la pancetta, e inizia a bagnare col brodo caldo, mescolando piano.",
+      "Arriva il momento magico: a fuoco spento, manteca con una noce di burro e una bella manciata di parmigiano. L'emulsione fa la crema perfetta.",
+      "Impiatta e decora con la pancetta croccante tenuta da parte. Un filo d'olio a crudo? Se vuoi stupire. Assaggia e fammi sapere nei commenti!"
+    ],
+    "link": "https://ricette.giallozafferano.it/Risotto-con-zucchine-e-pancetta.html",
+    "pubDate": "Wed, 22 Apr 2026 14:46:00 +0200",
+    "savedAt": "2026-05-12T14:00:43.224Z",
+    "image": "https://www.giallozafferano.it/images/361-36107/Risotto-con-zucchine-e-pancetta_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
     "slug": "pasta-con-porri-pecorino-e-pancetta",
     "sourceId": "395c33e805d677f4f3923535aa158fb7",
     "dish_type": "pasta",

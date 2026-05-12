@@ -1,0 +1,84 @@
+{
+  "agent": "food",
+  "slug": "pasta-sarde-pomodorini-e-pangrattato",
+  "sourceId": "b9a8693f2cb856faf4edfefe3c23af97",
+  "dish_type": "pasta",
+  "signature_ingredients": [
+    "sarde",
+    "pomodorini",
+    "pangrattato"
+  ],
+  "title": "Pasta sarde pomodorini e pangrattato",
+  "slides": [
+    "Pasta con sarde, pomodorini e pangrattato croccante",
+    "Spaghetti senza glutine, sarde, pomodorini, alici, pangrattato",
+    "Tosta il pangrattato con aglio e prezzemolo",
+    "Cuoci sarde e pomodorini, unisci la pasta",
+    "Cospargi pangrattato tostato e peperoncino prima di servire"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Pasta sarde pomodorini & pangrattato croccante",
+      "description": "Un primo di mare semplice, saporito e senza glutine: in 20 minuti porti in tavola la Sicilia.",
+      "visual_hint": "Pasta in primo piano, sarde e pomodorini",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "savory pasta sardines"
+    },
+    {
+      "hook": "3 ingredienti, un mare di gusto",
+      "description": "Spaghetti senza glutine, sarde fresche, pomodorini dolci. Le alici aggiungono umami, il pangrattato dà croccantezza.",
+      "visual_hint": "Ingredienti su tavola di legno",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "savory pasta ingredients",
+      "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il segreto: pangrattato tostato",
+      "description": "In padella con aglio e prezzemolo: il pangrattato diventa dorato e croccante. È la chiave del piatto.",
+      "visual_hint": "Pangrattato che tosta in padella",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "savory breadcrumb toasting",
+      "image": "https://images.pexels.com/photos/14043698/pexels-photo-14043698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sarde & pomodorini in padella",
+      "description": "Cuoci sarde e pomodorini finché si sfaldano, poi unisci la pasta al dente. Manteca velocemente con un filo d'olio.",
+      "visual_hint": "Padella con sarde e pomodorini",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "savory sardines tomatoes",
+      "image": "https://images.pexels.com/photos/18139200/pexels-photo-18139200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Croccante finale con peperoncino",
+      "description": "Cospargi pangrattato tostato e una spolverata di peperoncino. Servi ben caldo: è un'esplosione di mare e croccantezza.",
+      "visual_hint": "Pasta impiattata, pangrattato sopra",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "savory pasta plating",
+      "image": "https://images.pexels.com/photos/24289211/pexels-photo-24289211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "instagram_caption": "Un piatto che sa di Sicilia e di casa, tutto in una forchettata 🐟🍅.  \nSpaghetti senza glutine che abbracciano sarde fresche e pomodorini dolci, mentre il pangrattato croccante tostato con aglio e prezzemolo regala quel crunch che fa la differenza.  \nAlici in padella per un fondo saporito, poi via con la cottura lenta: i pomodorini si sciolgono, le sarde sprigionano tutto il loro carattere.  \nAl momento di servire, non dimenticare una bella spolverata di pangrattato tostato e un pizzico di peperoncino.  \nSemplice, genuino, da leccarsi i baffi. Provala questo weekend 🌿",
+  "video_script": [
+    "Tosto il pangrattato con aglio e prezzemolo.",
+    "Cuocio sarde e pomodorini in padella.",
+    "Unisco gli spaghetti senza glutine cotti.",
+    "Cospargo pangrattato tostato e peperoncino.",
+    "Pasta pronta, buon appetito!"
+  ],
+  "thread_text": [
+    "C’è un piatto che sa di mare e di terra insieme. Pasta con sarde, pomodorini e pangrattato croccante. La texture cambia tutto. Pronti?",
+    "Spaghetti senza glutine, sarde fresche, pomodorini dolci, qualche alice per il fondo. Pangrattato tostato che fa da granella finale. ingredienti semplici, effetto enorme.",
+    "Primo gesto: tosta il pangrattato con aglio e prezzemolo in padella finché non diventa dorato e fragrante. Mettilo da parte. È la chiave del piatto.",
+    "Nella stessa padella, cuoci le sarde con i pomodorini sfaldandole piano. Unisci la pasta al dente con un po' d'acqua di cottura. Manteca veloce.",
+    "Prima di servire, cospargi il pangrattato tostato e una spolverata di peperoncino. Croccante, sapido, irresistibile. Provala e dimmi com'è andata 👇"
+  ],
+  "link": "https://ricette.giallozafferano.it/Pasta-sarde-pomodorini-e-pangrattato.html",
+  "pubDate": "Fri, 17 Apr 2026 11:51:00 +0200",
+  "savedAt": "2026-05-12T14:01:38.802Z",
+  "image": "https://www.giallozafferano.it/images/360-36092/Pasta-sarde-pomodorini-e-pangrattato_650x433_wm.jpg"
+}

@@ -1,0 +1,84 @@
+{
+  "agent": "food",
+  "slug": "pasta-e-piselli-con-pancetta",
+  "sourceId": "6fb1631631b506ad5d40c51638f7474a",
+  "dish_type": "pasta",
+  "signature_ingredients": [
+    "pancetta",
+    "piselli",
+    "menta"
+  ],
+  "title": "Pasta e piselli con pancetta",
+  "slides": [
+    "Pasta e piselli cremosa con pancetta croccante",
+    "Pasta, piselli, pancetta, scalogno, menta",
+    "Sgrana i piselli e prepara il brodo",
+    "Risotta la pasta con brodo di baccelli",
+    "Menta fresca e olio a crudo finali"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Pasta e piselli cremosa con pancetta",
+      "description": "Una crema di piselli dolci avvolge la pasta, con pancetta croccante e menta fresca: comfort food primaverile.",
+      "visual_hint": "Primo piano cremoso in ciotola",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "creamy pea pasta savory"
+    },
+    {
+      "hook": "I 4 ingredienti segreti",
+      "description": "Pasta liscia, piselli freschi, pancetta affumicata e menta: il resto è brodo di baccelli e scalogno.",
+      "visual_hint": "Ingredienti su tagliere di legno",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "pancetta peas mint savory",
+      "image": "https://images.pexels.com/photos/31969431/pexels-photo-31969431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il gesto che fa la differenza",
+      "description": "Sgrana i piselli a mano e usa i baccelli per il brodo. Così il sapore dei piselli si concentra.",
+      "visual_hint": "Mani che sgranano piselli",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "shelling fresh peas savory",
+      "image": "https://images.pexels.com/photos/32188888/pexels-photo-32188888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Risottala come un risotto",
+      "description": "Tosta la pasta, poi cuocila aggiungendo brodo caldo poco per volta, mescolando fino a cremosità.",
+      "visual_hint": "Mani che mescolano in padella",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stirring pasta risotto savory",
+      "image": "https://images.pexels.com/photos/6659562/pexels-photo-6659562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il tocco finale: menta e olio",
+      "description": "Spegni il fuoco, unisci menta fresca spezzettata e un filo d’olio extravergine. Servi subito con pancetta croccante.",
+      "visual_hint": "Ciotola fumante con menta verde",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "pasta peas pancetta mint savory",
+      "image": "https://images.pexels.com/photos/20246314/pexels-photo-20246314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "instagram_caption": "La cremosità che abbraccia, la pancetta che scrocchia: questa pasta e piselli è una coccola primaverile.  \nHo sgranato i piselli e usato i baccelli per un brodo profumato, risottando la pasta con scalogno e pancetta, poi menta fresca e olio a crudo.  \nOgni cucchiaio è un equilibrio tra dolcezza dei piselli, sapidità della pancetta croccante e freschezza della menta.  \nUn piatto semplice che sa di casa, ma con un tocco in più.  \nProvala questo weekend 🌿",
+  "video_script": [
+    "Sgrana i piselli, tieni da parte i baccelli.",
+    "Fai il brodo con i baccelli, poi filtralo.",
+    "Rosola pancetta e scalogno nella pentola.",
+    "Risotta la pasta con il brodo di baccelli.",
+    "Fuori dal fuoco: piselli, menta e olio crudo."
+  ],
+  "thread_text": [
+    "Non chiamatela minestra: questa è pasta e piselli che si mangia col cucchiaio e si ricorda tutta l’estate. Cremosa, con la pancetta che scrocchia sotto i denti. E un segreto che vi svelo alla fine.",
+    "Il segreto è tutto nella materia prima: piselli freschi sgranati, pancetta tagliata a cubetti e una manciata di menta che fa la differenza. Scalogno dolce per base, niente aglio. Poi si procede.",
+    "Prima di tutto: tieni da parte i baccelli vuoti. Sì, quelli. Li fai bollire in acqua salata e ottieni un brodo vegetale che sa di primavera. È lì che nasce la cremosità del piatto.",
+    "Tosta la pancetta da sola fino a renderla croccante, togli e metti da parte. Nella stessa pentola soffriggi lo scalogno, aggiungi i piselli, poi la pasta secca (un formato corto). La risotti come un risotto, col brodo di baccelli.",
+    "A fine cottura, fuori dal fuoco, manteca con una noce di burro e una manciata di menta fresca tritata. Poi la pancetta croccante sopra e un filo d’olio a crudo. Provatela e ditemi se non è poesia. 👇"
+  ],
+  "link": "https://ricette.giallozafferano.it/Pasta-e-piselli-con-pancetta.html",
+  "pubDate": "Wed, 22 Apr 2026 11:30:00 +0200",
+  "savedAt": "2026-05-12T14:01:10.892Z",
+  "image": "https://www.giallozafferano.it/images/360-36081/Pasta-e-piselli-con-pancetta_650x433_wm.jpg"
+}

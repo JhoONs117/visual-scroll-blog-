@@ -1,0 +1,74 @@
+{
+  "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+  "slides": [
+    "Robinhood cavalca l'IA, ma la prossima mossa è retail?",
+    "Prepara la seconda IPO per una società di vendita al dettaglio",
+    "La prima IPO retail ha perso il 90% in borsa",
+    "Chi investe ora scommette su un'inversione di tendenza",
+    "Guarda il roadshow: decidi se il rischio è calcolato"
+  ],
+  "thread_text": [
+    "La prima IPO retail di Robinhood ha perso il 90% in borsa. Ora ne preparano una seconda, su un’altra società di vendita al dettaglio. Stessa strategia, o questa volta è diverso?",
+    "La prima puntava sulla crescita a tutti i costi. Utenti nuovi, hype, trading facile. Poi i tassi sono saliti e il castello è crollato.",
+    "Ora Robinhood scommette sull’AI per tagliare costi e aumentare margini. Ma il vero test è se il retail investitore tornerà a fidarsi.",
+    "Chi compra oggi punta su un’inversione di tendenza. Il mercato sconta già un fallimento? Forse sì, ma il rovescio vale la scommessa.",
+    "Guarda il roadshow. Se il rischio è calcolato, il prezzo è tutto. Costa quanto un abbonamento Netflix. Decidi tu."
+  ],
+  "video_script": [
+    "Prima IPO, più ottimismo, crollo totale.",
+    "Ora ripetono, ma con AI.",
+    "Tornerà retail?",
+    "Roadshow tra fiducia e scetticismo.",
+    "Scommessa o calcolo? Decidi ora."
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Prima IPO perse il 90%",
+      "description": "La prima IPO retail di Robinhood ha perso il 90% in borsa. Ora ne preparano una seconda.",
+      "visual_hint": "Grafico azionario in caduta libera",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market crash chart"
+    },
+    {
+      "hook": "Stessa strategia o diversa?",
+      "description": "La prima puntava su crescita a tutti i costi. Poi i tassi sono saliti e il castello è crollato.",
+      "visual_hint": "Castello di carte che crolla",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "falling dominos",
+      "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI taglia costi, ma fiducia?",
+      "description": "Robinhood scommette sull'AI per tagliare costi. Il vero test è se il retail tornerà a fidarsi.",
+      "visual_hint": "Robot e mano umana",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot arm",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scommessa su inversione",
+      "description": "Chi compra oggi punta su un'inversione di tendenza. Il mercato sconta già un fallimento?",
+      "visual_hint": "Frecce che cambiano direzione",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "arrow sign pointing up",
+      "image": "https://images.pexels.com/photos/2801126/pexels-photo-2801126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rischio calcolato a  Netflix",
+      "description": "Costa quanto un abbonamento Netflix. Guarda il roadshow e decidi se il rischio è calcolato.",
+      "visual_hint": "Abbonamento Netflix e grafico",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "chart with Netflix logo",
+      "image": "https://images.pexels.com/photos/6632995/pexels-photo-6632995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/vlad-tenev-robinhood-GettyImages-2272038864.jpg?w=1024",
+  "pubDate": "Tue, 12 May 2026 00:09:01 +0000",
+  "savedAt": "2026-05-12T13:59:15.704Z",
+  "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/"
+}
