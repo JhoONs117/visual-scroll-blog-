@@ -6,9 +6,8 @@ Aggiornato: 2026-05-12 | Correlato a: **PROJECT.md** · **MANUAL.md**
 > **Principio guida:** `run.js` e tutta la pipeline AI news non vengono toccati.  
 > Tutto quello che riguarda il food agent è nuovo e separato.
 >
-> **Prima release:** `frontend/index.html` non viene modificato.  
-> Il food viene testato solo tramite `carousel-food.html` e `data-food.js`.  
-> Il dropdown multi-agente viene implementato solo dopo che il food agent genera almeno 10 articoli corretti.
+> **Stato attuale:** tutti gli step completati (STEP 1–8).  
+> Il food agent è live in CI, genera 3 articoli per run, il feed multi-agente è operativo.
 
 ---
 
@@ -38,34 +37,44 @@ Claude Code deve rispettarle in ogni file che crea o modifica.
 | STEP 3 | `run-food.js` — pipeline completa food | ✅ |
 | STEP 4 | `frontend/carousel-food.html` — carousel food | ✅ |
 | STEP 5 | GitHub Actions — pipeline food in CI | ✅ |
-| STEP 6 | `frontend/index.html` — tendina multi-agente | ✅ |
+| STEP 6 | `frontend/index.html` — agent-bar con switch AI News / 5 Step Food | ✅ |
+| STEP 7 | Navigazione multi-pagina e agent switch su review + carousel | ✅ |
+| STEP 8 | Palette food nel feed — gradienti, badge e dot color per story food | ✅ |
 
 **Ordine di esecuzione:**
 ```
-STEP 1 → STEP 1A (gate: se fallisce, stop) → STEP 2 → STEP 3 → STEP 4 → STEP 5
-STOP: verifica che carousel-food funzioni e accumula 10 articoli corretti
-STEP 6 solo dopo la verifica
+STEP 1 → STEP 1A (gate) → STEP 2 → STEP 3 → STEP 4 → STEP 5
+STOP: accumula 10 articoli corretti → STEP 6 → STEP 7 → STEP 8
 ```
 
 ---
 
-## Struttura file nuovi
+## Struttura file
 
+### File nuovi (creati dal food agent)
 ```
 /
 ├── fetch-food.js              ← feed RSS food, whitelist food, fetchArticleContent
-├── generate-food.js           ← generateRecipeSlides, generateRecipeCarouselSlides
+├── generate-food.js           ← generateRecipeSlides, generateRecipeCarouselSlides,
+│                                 generateFoodCaption, generateFoodVideoScript, generateFoodThread
 ├── run-food.js                ← pipeline completa: fetch → genera → salva
 ├── output/
 │   └── food/                  ← JSON generati (separati da output/)
 └── frontend/
     ├── data-food.js           ← window.FOOD_ARTICLES = [...] (generato da run-food.js)
-    └── carousel-food.html     ← export PNG carousel food
+    └── carousel-food.html     ← export PNG carousel food con palette olive/arancio
 ```
 
-**File esistenti non toccati (STEP 1-5):**
-`run.js`, `fetch.js`, `filter.js`, `generate.js`, `deepseek.js`, `validate.js`,  
-`frontend/data.js`, `frontend/carousel.html`, `frontend/review.html`, `frontend/index.html`
+### File esistenti modificati (STEP 6–8)
+| File | Modifica |
+|---|---|
+| `frontend/index.html` | agent-bar fixed in cima, renderFeed(), palette `.food-story`, nav links |
+| `frontend/review.html` | header sticky con agent switch + nav, refactor renderReview() |
+| `frontend/carousel.html` | select agente (naviga su carousel-food), link Carousel Food |
+| `frontend/carousel-food.html` | select agente (naviga su carousel.html), link Carousel AI |
+
+### File non toccati
+`run.js`, `fetch.js`, `filter.js`, `generate.js`, `deepseek.js`, `validate.js`, `frontend/data.js`
 
 ---
 
@@ -772,6 +781,121 @@ o rendering delle slide — solo aggiungere il dropdown e la sua logica.
 
 ---
 
+## STEP 7 — Navigazione multi-pagina e agent switch su tutte le pagine
+
+### Cosa fa
+Collega le quattro pagine frontend con una navigazione coerente e aggiunge il controllo agente
+(AI News / 5 Step Food) su ogni pagina, in modo che l'utente non debba ricordare gli URL.
+
+### Comportamento per pagina
+
+| Pagina | Agent switch | Tipo switch | Nav links |
+|---|---|---|---|
+| `index.html` | ⚡ AI News / 🍳 5 Step Food | in-page (renderFeed) | Review, Carousel |
+| `review.html` | ⚡ AI News / 🍳 5 Step Food | in-page (renderReview) | ← Feed, Carousel AI, Carousel Food |
+| `carousel.html` | ⚡ AI News / 🍳 5 Step Food | navigazione (→ carousel-food.html) | ← Feed, Review, Carousel Food |
+| `carousel-food.html` | ⚡ AI News / 🍳 5 Step Food | navigazione (→ carousel.html) | ← Feed, Review, Carousel AI |
+
+### Dettaglio implementazione
+
+**`index.html`** — nav links nella agent-bar (a destra, position:absolute):
+```html
+<nav id="agent-nav">
+  <a href="review.html">Review</a>
+  <a href="carousel.html">Carousel</a>
+</nav>
+```
+
+**`review.html`** — header sticky refactor completo:
+- Header `<div class="review-header">` sticky top:0 z-index:10
+- Select `.review-agent-sel` con caricamento dinamico di `data-food.js` (stessa logica di index.html)
+- Titolo h1 aggiornato dinamicamente: "Review articoli" → "Review ricette" in modalità food
+- `renderReview(articles)` sostituisce il rendering inline precedente
+- Il contatore articoli funziona su entrambi gli agenti
+
+**`carousel.html` e `carousel-food.html`** — select navigazione:
+```html
+<!-- in carousel.html -->
+<select class="header-agent-sel" onchange="if(this.value!=='ai-news') window.location.href=this.value">
+  <option value="ai-news">⚡ AI News</option>
+  <option value="carousel-food.html">🍳 5 Step Food</option>
+</select>
+
+<!-- in carousel-food.html -->
+<select class="header-agent-sel" onchange="if(this.value!=='food') window.location.href=this.value">
+  <option value="carousel.html">⚡ AI News</option>
+  <option value="food" selected>🍳 5 Step Food</option>
+</select>
+```
+Le pagine carousel usano navigazione (non in-page) perché le due versioni hanno design diversi
+(palette blu tech vs palette olive/arancio food) — non è sensato far convivere i due CSS in una pagina.
+
+---
+
+## STEP 8 — Palette food nel feed
+
+### Cosa fa
+Quando `renderFeed` mostra articoli food, le story usano la palette food
+(gradienti olive/arancio) invece del blu scuro dell'AI news.
+
+### Approccio
+Classe CSS `.food-story` aggiunta dinamicamente a ogni `.story` quando `isFood === true`.  
+Il CSS `.food-story` sovrascrive tutti i colori dipendenti dall'agente senza toccare
+le regole base dell'AI news.
+
+### Colori applicati
+
+| Elemento | AI News | 5 Step Food |
+|---|---|---|
+| Slide background | `#000` | `#10150f` |
+| slide-color-0 gradient | dark blue `#09122a→#0e1d4a` | olive/arancio hero |
+| slide-color-1 gradient | dark navy | right-focus warm |
+| slide-color-2 gradient | dark indigo | sensor-zoom green |
+| slide-color-3 gradient | dark violet | human-hand amber |
+| slide-color-4 gradient | dark blue | cta-final warm glow |
+| cf-overlay (fallback) | stesso blue per layout | gradiente food per layout |
+| cf-accent (hook split) | `#60a5fa` (blue) | `#f2b36d` (gold caldo) |
+| cf-footer | `@FlashAI` | `@FlashKitchen` |
+| slide-badge | `#2563eb` (blue) | `#3d5a3e` (olive) |
+| badge-line | `rgba(37,99,235,0.7)` | `rgba(61,90,62,0.7)` |
+| dot.active | `#3b82f6` (blue) | `#e07b39` (arancio) |
+| slide-info bg | `#0a0a0a` | `#0c100b` |
+
+### Gradienti food per layout (da carousel-food.html)
+```css
+.food-story .slide-color-0 .slide-visual { background:
+  radial-gradient(circle at 80% 20%, rgba(224,123,57,.35), transparent 35%),
+  radial-gradient(circle at 20% 80%, rgba(61,90,62,.55), transparent 40%),
+  linear-gradient(135deg, #10150f 0%, #1d2a1d 45%, #2a180f 100%); }
+
+.food-story .slide-color-1 .slide-visual { background:
+  radial-gradient(circle at 75% 30%, rgba(224,123,57,.25), transparent 40%),
+  linear-gradient(148deg, #12100c 0%, #1a2410 60%, #201208 100%); }
+
+.food-story .slide-color-2 .slide-visual { background:
+  radial-gradient(circle at 50% 70%, rgba(61,90,62,.50), transparent 45%),
+  linear-gradient(138deg, #0f1209 0%, #182014 60%, #1a1208 100%); }
+
+.food-story .slide-color-3 .slide-visual { background:
+  radial-gradient(circle at 20% 80%, rgba(224,123,57,.30), transparent 40%),
+  linear-gradient(152deg, #14110d 0%, #1e1a0e 60%, #241505 100%); }
+
+.food-story .slide-color-4 .slide-visual { background:
+  radial-gradient(circle at 50% 50%, rgba(224,123,57,.40), transparent 50%),
+  linear-gradient(148deg, #10150f 0%, #1c2410 60%, #2a1a08 100%); }
+```
+Gli stessi gradienti sono applicati ai `.cf-wrap.{layout}  .cf-overlay` per il fallback senza immagine.
+
+### Modifica buildCarouselFallback
+```js
+// Prima: buildCarouselFallback(cs)
+// Dopo:  buildCarouselFallback(cs, isFood)
+// Chiamata: visual.appendChild(buildCarouselFallback(article.carousel_slides[i], isFood));
+// Footer:   isFood ? '@FlashKitchen' : '@FlashAI'
+```
+
+---
+
 ## Note operative
 
 ### Variabili d'ambiente
@@ -839,10 +963,12 @@ node run-food.js
 
 Questi step non sono implementati ora ma seguono la stessa struttura:
 
-- `review-food.html` — pagina review per il food agent (come `review.html`)
-- Agente fitness, travel, finance con struttura analoga
+- Agente fitness, travel, finance con struttura analoga al food agent
 - Refactor in `agents/` quando ci sono 3+ agenti stabili (vedi PROJECT.md FASE 5)
 - Auto-pubblicazione carousel food su Instagram (PROJECT.md FASE 6)
 - **Template condiviso multi-agente:** quando esisterà un renderer unico per più agenti,
   introdurre `getFallbackBackground(agent, slideIndex)` con fallback tematici per agente.
-  Solo in quel momento ha senso il condizionale su `article.agent` — non prima.
+  Solo in quel momento ha senso spostare il condizionale su `article.agent` in un file separato.
+
+> `review-food.html` non è più necessario: `review.html` gestisce entrambi gli agenti
+> tramite il select agente e `renderReview(articles)` introdotto in STEP 7.
