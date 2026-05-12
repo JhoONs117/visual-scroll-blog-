@@ -70,5 +70,6 @@
       "image": "https://images.pexels.com/photos/16245254/pexels-photo-16245254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
-  "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024"
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+  "instagram_caption": "OpenAI ha rilasciato un'API che capta non solo le parole, ma anche come le dici: se ridi o sei stanco, il sistema lo sente e adatta la risposta 🗣️. La novità sono due strumenti: uno che traduce la voce in testo cogliendo le sfumature emotive, e un altro che rileva quando fai una pausa o sei incerto. Per chi integra queste API, significa costruire assistenti vocali che cambiano tono in base al tuo umore 😶‍🌫️. Prova a registrare una frase con una pausa lunga: la differenza la fa quella. Quanto cambierebbe il tuo lavoro se un bot capisse davvero come ti senti?"
 }

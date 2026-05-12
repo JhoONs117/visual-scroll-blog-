@@ -185,7 +185,58 @@ Nessun testo fuori dal JSON.`;
   return null;
 }
 
-module.exports = { generateSlides, generateFormats, generateCarouselSlides };
+async function generateAINewsCaption(title, slides, thread_text) {
+  const hash = md5(normalize(title));
+  const cacheKey = `ainews:caption:${hash}`;
+
+  if (cache[cacheKey]) {
+    console.log(`[cache hit ainews:caption] ${title}`);
+    return cache[cacheKey];
+  }
+
+  const slidesText = slides.map((s, i) => `${i + 1}. ${s}`).join('\n');
+  const threadSection = Array.isArray(thread_text) && thread_text.length
+    ? `\nThread X già scritto (usalo come riferimento per i fatti, non copiare):\n${thread_text.map((t, i) => `T${i + 1}: ${t}`).join('\n')}`
+    : '';
+
+  const prompt = `Scrivi una caption Instagram per questa notizia AI.
+
+Titolo: ${title}
+Slide:
+${slidesText}${threadSection}
+
+Rispondi SOLO con la caption in italiano, nessun altro testo.
+
+Struttura:
+- Prima riga: un fatto concreto dalla notizia, scritto come lo racconteresti a voce a qualcuno che non segue l'AI. Non iniziare con "Oggi", "L'AI" o il titolo della notizia.
+- 2-3 righe: spiega cos'è successo e perché conta — linguaggio semplice, niente sigle senza spiegazione
+- 1 riga: cosa cambia concretamente per chi legge (lavoro, strumenti, quotidiano)
+- Ultima riga (opzionale): domanda aperta OPPURE fatto netto di chiusura. MAI una valutazione generica.
+
+DA NON SCRIVERE: "Il futuro è già qui" / "L'AI sta rivoluzionando tutto" / "Siamo solo all'inizio" / aggettivi come "incredibile" o "straordinario"
+DA SCRIVERE: fatti, numeri se disponibili, conseguenze specifiche
+
+3-5 emoji pertinenti inserite nel testo, non tutte in fondo
+Niente hashtag
+Max 120 parole`;
+
+  for (let attempt = 0; attempt < 2; attempt++) {
+    try {
+      const raw = await callDeepSeek(prompt);
+      const caption = raw.trim();
+      if (caption && caption.length > 20) {
+        cache[cacheKey] = caption;
+        fs.writeFileSync(CACHE_PATH, JSON.stringify(cache, null, 2));
+        return caption;
+      }
+    } catch (_) {}
+  }
+
+  console.warn(`generateAINewsCaption fallito dopo 2 tentativi: ${title}`);
+  return null;
+}
+
+module.exports = { generateSlides, generateFormats, generateCarouselSlides, generateAINewsCaption };
 
 // Test
 (async () => {

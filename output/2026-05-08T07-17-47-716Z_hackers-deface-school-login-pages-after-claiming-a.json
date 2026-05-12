@@ -70,5 +70,6 @@
       "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
-  "image": "https://techcrunch.com/wp-content/uploads/2026/05/shinyhunters-instructure-canvas-login-defacement.jpg?resize=1200,807"
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/shinyhunters-instructure-canvas-login-defacement.jpg?resize=1200,807",
+  "instagram_caption": "Un portale scolastico si è svegliato con la scritta \"Hacked\" al posto del login. Dietro c'è lo stesso gruppo che potrebbe aver già violato Instructure, rubando i certificati di accesso globali: chiavi che aprono tutte le porte di Canvas senza lasciare traccia 🔑. Se quei dati venissero venduti, qualsiasi istituto potrebbe diventare un bersaglio senza bisogno di un attacco su misura. Controlla subito se la tua scuola usa ancora Canvas, cambia la password e chiedi all'amministratore di esaminare i log delle ultime 48 ore ⚠️. Avete già fatto questo controllo?"
 }

@@ -2,7 +2,7 @@ require('dotenv').config();
 
 const fs = require('fs');
 const path = require('path');
-const { generateFormats } = require('./generate');
+const { generateFormats, generateAINewsCaption } = require('./generate');
 
 const OUTPUT_DIR = path.join(__dirname, 'output');
 
@@ -68,6 +68,30 @@ function slug(title) {
     }
   }
 
+  /* Backfill instagram_caption per articoli che ne sono privi */
+  const todoCaption = files.filter(({ full }) => {
+    const d = JSON.parse(fs.readFileSync(full, 'utf8'));
+    return d.thread_text && !d.instagram_caption;
+  });
+
+  console.log(`\nArticoli senza instagram_caption: ${todoCaption.length}`);
+  let captionOk = 0, captionFail = 0;
+
+  for (const { full } of todoCaption) {
+    const article = JSON.parse(fs.readFileSync(full, 'utf8'));
+    process.stdout.write(`[caption] ${article.title.slice(0, 55)}... `);
+    const caption = await generateAINewsCaption(article.title, article.slides, article.thread_text);
+    if (caption) {
+      article.instagram_caption = caption;
+      fs.writeFileSync(full, JSON.stringify(article, null, 2));
+      console.log('OK');
+      captionOk++;
+    } else {
+      console.log('FALLITO');
+      captionFail++;
+    }
+  }
+
   /* Ricostruisce data.js deduplicato per slug */
   const seen = new Set();
   const unique = files
@@ -87,7 +111,9 @@ function slug(title) {
 
   console.log(`\nfrontend/data.js aggiornato con ${unique.length} articoli unici (era ${files.length} con duplicati).`);
   console.log(`\n=== Fine ===`);
-  console.log(`Da cache (duplicati): ${fromCache}`);
-  console.log(`Da API:               ${fromApi}`);
-  console.log(`Falliti:              ${fail}`);
+  console.log(`Formati da cache:     ${fromCache}`);
+  console.log(`Formati da API:       ${fromApi}`);
+  console.log(`Formati falliti:      ${fail}`);
+  console.log(`Caption generate:     ${captionOk}`);
+  console.log(`Caption fallite:      ${captionFail}`);
 })();

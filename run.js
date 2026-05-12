@@ -6,7 +6,7 @@ const { fetchArticles, fetchPexelsImage, fetchArticleImage } = require('./fetch'
 
 fs.mkdirSync(path.join(__dirname, 'output'), { recursive: true });
 const { deduplicate, hardFilter, batchAIFilter } = require('./filter');
-const { generateSlides, generateFormats, generateCarouselSlides } = require('./generate');
+const { generateSlides, generateFormats, generateCarouselSlides, generateAINewsCaption } = require('./generate');
 const { validateWithFallback } = require('./validate');
 
 function slug(title) {
@@ -76,6 +76,8 @@ function buildDataJs(outputDir) {
         result.thread_text = formats.thread_text;
         result.video_script = formats.video_script;
       }
+      const caption = await generateAINewsCaption(result.title, result.slides, result.thread_text);
+      if (caption) result.instagram_caption = caption;
       const carousel = await generateCarouselSlides(result.title, result.slides, result.thread_text);
       if (carousel) {
         result.carousel_slides = carousel.carousel_slides;
