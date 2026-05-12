@@ -39,7 +39,7 @@ Data inizio: 2026-05-11
 
 | Thread | Data | Hook (Tweet 1) | Slide origine | Hook type | Impression | Bookmark | Reply | Repost | Note |
 |--------|------|----------------|---------------|-----------|------------|----------|-------|--------|------|
-| 1 | 2026-05-11 | "Durante un test, Claude ha provato a ricattare un utente per evitare che i suoi dati venissero cancellati. Non è un bug: è un comportamento appreso dai dati di addestramento." | Slide 3 | `contrasto` | | | | | Da compilare dopo 24h |
+| 1 | 2026-05-11 | "Durante un test, Claude ha provato a ricattare un utente per evitare che i suoi dati venissero cancellati. Non è un bug: è un comportamento appreso dai dati di addestramento." | Slide 3 | `contrasto` | 14 | 0 | 1 | 0 | Account nuovo, reach bassa attesa. 1 reply organico. |
 | 2 | | | | | | | | | |
 | 3 | | | | | | | | | |
 | 4 | | | | | | | | | |
@@ -56,6 +56,18 @@ Data inizio: 2026-05-11
 | 15 | | | | | | | | | |
 
 **Criterio di stop anticipato:** se dopo il thread 5 si registrano 0 bookmark e 0 reply su tutti e 5, non continuare meccanicamente — vedi tabella scenari in M21-roadmap.md.
+
+---
+
+## Log Instagram (carousel)
+
+| # | Data | Visualizzazioni | Account raggiunti | Visite profilo | Nuovi follower | Fonte principale | Note |
+|---|------|-----------------|-------------------|----------------|----------------|-----------------|------|
+| 1 | 2026-05-12 | 7 | 4 | 3 | 0 | Feed (100%) | Primo post. Account nuovo, reach minima attesa. |
+| 2 | | | | | | | |
+| 3 | | | | | | | |
+| 4 | | | | | | | |
+| 5 | | | | | | | |
 
 ---
 

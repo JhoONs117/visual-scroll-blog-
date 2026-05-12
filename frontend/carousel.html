@@ -435,9 +435,31 @@
     .slide.cta-final .desc        { text-align: center; font-size: 10.5px; }
     .slide.cta-final .slide-footer { width: 100%; margin-top: auto; }
 
+    /* ── HOOK TITOLI SLIDE ── */
+    .hooks-section {
+      margin: 4px 24px 0;
+      background: #0d1120;
+      border: 1px solid rgba(255,255,255,0.07);
+      border-radius: 12px;
+      padding: 20px 24px;
+    }
+    .hooks-section h3 {
+      font-size: 10px; font-weight: 700;
+      text-transform: uppercase; letter-spacing: 0.12em;
+      color: rgba(255,255,255,0.3); margin-bottom: 14px;
+    }
+    .hook-row-item {
+      display: flex; gap: 12px; align-items: flex-start;
+      padding: 8px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+    }
+    .hook-row-item:last-child { border-bottom: none; padding-bottom: 0; }
+    .hook-n    { font-size: 11px; font-weight: 700; color: #3B82F6; min-width: 18px; padding-top: 1px; }
+    .hook-body { font-size: 13px; color: rgba(255,255,255,0.7); line-height: 1.5; }
+
     /* ── THREAD PREVIEW ── */
     .thread-section {
-      margin: 4px 24px 32px;
+      margin: 8px 24px 0;
       background: #0d1120;
       border: 1px solid rgba(255,255,255,0.07);
       border-radius: 12px;
@@ -456,6 +478,62 @@
     .tweet-row:last-child { border-bottom: none; padding-bottom: 0; }
     .tweet-n    { font-size: 11px; font-weight: 700; color: #3B82F6; min-width: 18px; padding-top: 2px; }
     .tweet-body { font-size: 13px; color: rgba(255,255,255,0.7); line-height: 1.6; }
+
+    /* ── CAPTION INSTAGRAM ── */
+    .caption-section {
+      margin: 8px 24px 0;
+      background: #0d1120;
+      border: 1px solid rgba(255,255,255,0.07);
+      border-radius: 12px;
+      padding: 20px 24px;
+    }
+    .caption-section h3 {
+      font-size: 10px; font-weight: 700;
+      text-transform: uppercase; letter-spacing: 0.12em;
+      color: rgba(255,255,255,0.3); margin-bottom: 14px;
+    }
+    .caption-body {
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      line-height: 1.7;
+      white-space: pre-line;
+    }
+    .copy-caption-btn {
+      margin-top: 14px;
+      background: rgba(59,130,246,0.12);
+      border: 1px solid rgba(59,130,246,0.28);
+      color: #60a5fa;
+      border-radius: 8px;
+      padding: 7px 16px;
+      font-size: 11px;
+      font-weight: 600;
+      font-family: inherit;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .copy-caption-btn:hover { background: rgba(59,130,246,0.22); }
+
+    /* ── VIDEO SCRIPT ── */
+    .script-section {
+      margin: 8px 24px 32px;
+      background: #0d1120;
+      border: 1px solid rgba(255,255,255,0.07);
+      border-radius: 12px;
+      padding: 20px 24px;
+    }
+    .script-section h3 {
+      font-size: 10px; font-weight: 700;
+      text-transform: uppercase; letter-spacing: 0.12em;
+      color: rgba(255,255,255,0.3); margin-bottom: 14px;
+    }
+    .script-row {
+      display: flex; gap: 12px; align-items: flex-start;
+      padding: 8px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+    }
+    .script-row:last-child { border-bottom: none; padding-bottom: 0; }
+    .script-n    { font-size: 11px; font-weight: 700; color: #7c3aed; min-width: 18px; padding-top: 1px; }
+    .script-body { font-size: 13px; color: rgba(255,255,255,0.7); line-height: 1.5; }
   </style>
 </head>
 <body>
@@ -739,6 +817,17 @@ function renderArticle(article) {
     </div>`;
   }).join('');
 
+  const hooksHtml = cs
+    ? `<div class="hooks-section">
+        <h3>Hook Titoli Slide</h3>
+        ${cs.map((s, i) => `
+          <div class="hook-row-item">
+            <span class="hook-n">${i + 1}</span>
+            <span class="hook-body">${s.hook}</span>
+          </div>`).join('')}
+      </div>`
+    : '';
+
   const threadHtml = article.thread_text && article.thread_text.length
     ? `<div class="thread-section">
         <h3>Thread X</h3>
@@ -750,13 +839,35 @@ function renderArticle(article) {
       </div>`
     : '';
 
+  const captionHtml = article.instagram_caption
+    ? `<div class="caption-section">
+        <h3>Caption Instagram</h3>
+        <div class="caption-body" id="captionText">${article.instagram_caption}</div>
+        <button class="copy-caption-btn" id="copyCaption">Copia caption</button>
+      </div>`
+    : '';
+
+  const scriptHtml = article.video_script && article.video_script.length
+    ? `<div class="script-section">
+        <h3>Script Video (Reel / TikTok)</h3>
+        ${article.video_script.map((line, i) => `
+          <div class="script-row">
+            <span class="script-n">${i + 1}</span>
+            <span class="script-body">${line}</span>
+          </div>`).join('')}
+      </div>`
+    : '';
+
   area.innerHTML = `
     <div class="dl-all-bar">
       <button class="dl-all-btn" id="dlAll">${DL_ICON} Scarica tutte e 5 le slide</button>
       <span class="dl-hint">oppure clicca una slide per aprirla → tasto destro / tieni premuto per salvare</span>
     </div>
     <div class="viewer"><div class="slides-row">${wrappedSlides}</div></div>
-    ${threadHtml}`;
+    ${hooksHtml}
+    ${threadHtml}
+    ${captionHtml}
+    ${scriptHtml}`;
 
   // Click sulla slide → apre modal con <img> (tasto destro / long press nativi)
   document.querySelectorAll('.slide').forEach((el, i) => {
@@ -785,6 +896,18 @@ function renderArticle(article) {
       }
     });
   });
+
+  const copyBtn = document.getElementById('copyCaption');
+  if (copyBtn) {
+    copyBtn.addEventListener('click', () => {
+      const text = document.getElementById('captionText')?.innerText || '';
+      navigator.clipboard.writeText(text).then(() => {
+        const orig = copyBtn.textContent;
+        copyBtn.textContent = 'Copiata ✓';
+        setTimeout(() => { copyBtn.textContent = orig; }, 1500);
+      });
+    });
+  }
 
   // Bottone scarica tutte
   document.getElementById('dlAll').addEventListener('click', async () => {
