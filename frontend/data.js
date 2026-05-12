@@ -1,5 +1,79 @@
 window.ARTICLES = [
   {
+    "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+    "slides": [
+      "GM taglia IT umani per fare spazio all’IA?",
+      "Centinaia di posti eliminati, assunzioni mirate a ingegneri IA.",
+      "Non licenzia per risparmiare, ma per cambiare competenze.",
+      "Il tuo ruolo IT potrebbe richiedere IA entro sei mesi.",
+      "Verifica oggi se le tue skill di IA sono aggiornate."
+    ],
+    "thread_text": [
+      "GM ha appena tagliato centinaia di ruoli IT umani per far posto all'IA. Non è un piano di risparmio: è un cambio di competenze.",
+      "L'azienda non licenzia per ridurre costi, ma perché il profilo che cercano oggi è completamente diverso. Addetti IT generici fuori, ingegneri IA dentro.",
+      "Il messaggio per chi lavora in IT è chiaro: entro sei mesi il tuo ruolo potrebbe richiedere competenze di IA. Se non le hai, rischi di essere sostituito.",
+      "GM sta già assumendo in modo mirato solo ingegneri con skill AI. Le assunzioni tradizionali sono ferme. Il mercato si sta ridefinendo ora.",
+      "Controlla oggi se le tue competenze IA sono aggiornate. Se non lo sono, inizia questa settimana con un corso base su un modello come GPT o Claude."
+    ],
+    "video_script": [
+      "Hanno tagliato posti IT umani per l'IA.",
+      "Non è per risparmiare, è per cambiare skill.",
+      "Il tuo ruolo potrebbe richiedere IA tra sei mesi.",
+      "Stanno assumendo solo ingegneri IA ora.",
+      "Verifica se le tue skill IA sono pronte oggi."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Il tuo ruolo rischia l'IA?",
+        "description": "GM taglia centinaia di IT non per risparmiare, ma per cambiare competenze verso l'IA.",
+        "visual_hint": "Icônes domino cade",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Addetti IT fuori, IA dentro",
+        "description": "L'azienda non licenzia per ridurre costi: cerca ingegneri IA, non generici.",
+        "visual_hint": "Due frecce opposte",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Skill IA obbligatorie in 6 mesi",
+        "description": "Entro sei mesi il tuo ruolo IT potrebbe richiedere competenze di IA. Rischio sostituzione.",
+        "visual_hint": "Scheda tempo accelerato",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer keyboard closeup",
+        "image": "https://images.pexels.com/photos/28993049/pexels-photo-28993049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Assunzioni solo per ingegneri IA",
+        "description": "Le assunzioni tradizionali sono ferme. Il mercato si ridefinisce ora verso l'IA.",
+        "visual_hint": "Manifesto bacheca",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "job vacancy sign",
+        "image": "https://images.pexels.com/photos/34055643/pexels-photo-34055643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Aggiorna le tue competenze ora",
+        "description": "Se le tue skill IA non sono aggiornate, inizia un corso base su GPT o Claude.",
+        "visual_hint": "Spunta verde grande",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "online course screen",
+        "image": "https://images.pexels.com/photos/6470993/pexels-photo-6470993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/gm-headquarters-getty.jpg?resize=1200,800",
+    "pubDate": "Mon, 11 May 2026 23:04:10 +0000",
+    "savedAt": "2026-05-12T02:10:28.115Z",
+    "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
+  },
+  {
     "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
     "slides": [
       "xAI e Anthropic: un patto che sa di fallimento?",
