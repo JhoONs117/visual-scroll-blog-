@@ -8,7 +8,7 @@ Documento operativo correlato: **MANUAL.md** (come eseguire le operazioni) · **
 
 ## 1. Stato attuale
 
-**Data:** 2026-05-12 | **Articoli AI:** 67 unici | **Articoli Food:** 10+ | **Pipeline:** automatica ogni 2 ore (GitHub Actions) | **Deploy:** Railway
+**Data:** 2026-05-12 | **Articoli AI:** 74 unici | **Articoli Food:** 10+ | **Pipeline:** automatica ogni 2 ore (GitHub Actions) | **Deploy:** Railway
 
 | Milestone | Stato | Note |
 |---|---|---|
@@ -30,6 +30,7 @@ Documento operativo correlato: **MANUAL.md** (come eseguire le operazioni) · **
 | Bug: `article.image` mancante in run.js | ✅ Fix | `fetchArticleImage` ora chiamata in `run.js` su ogni nuovo articolo |
 | **Food Agent — 5 Step Food** | ✅ Completa | `fetch-food.js` + `generate-food.js` + `run-food.js` + `carousel-food.html` |
 | **Feed multi-agente** | ✅ Completa | `index.html` agent-bar, `renderFeed()`, palette `.food-story`, navigazione tra pagine |
+| **Carousel AI News completo** | ✅ Completa | Sezioni Hook/Thread/Caption/Script in `carousel.html`; `generateAINewsCaption` in pipeline; 74 caption backfillate |
 | M21 — Test distribuzione reale | 🔄 In corso | Primo post 2026-05-11 ore 15:00 IT su X. 1 thread/giorno |
 | M22 — Iterazione prompt da dati | ⏳ Dopo M21 | Richiede 15 post con dati reali |
 | FASE 5 — Secondo canale | ⏳ Dopo M22 | Instagram: AI carousel + Food carousel già pronti |
@@ -77,9 +78,9 @@ M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → 
 | `run.js` | Entry point AI news — orchestra pipeline, dedup cross-run, scrive `frontend/data.js` |
 | `fetch.js` | RSS feed AI + `fetchPexelsImage(query)` + `fetchArticleImage(url)` |
 | `filter.js` | `deduplicate`, `hardFilter`, `batchAIFilter` |
-| `generate.js` | `generateSlides` + `generateFormats` + `generateCarouselSlides` — con cache |
+| `generate.js` | `generateSlides` + `generateFormats` + `generateCarouselSlides` + `generateAINewsCaption` — con cache |
 | `validate.js` | `isValid`, `validateWithFallback` → `review_queue.json` |
-| `backfill.js` | Backfill `thread_text`/`video_script` su articoli esistenti |
+| `backfill.js` | Backfill `thread_text`/`video_script`/`instagram_caption` su articoli esistenti |
 | `backfill-carousel.js` | Backfill `carousel_slides` + Pexels + `article.image` — flag `--force`, `--last N` |
 | `regenerate-all.js` | Rigenera slide + formati per tutti gli articoli unici con prompt aggiornati |
 | `backfill-links.js` | Aggiunge retroattivamente il campo `link` dai feed RSS |
@@ -103,7 +104,7 @@ M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → 
 |---|---|
 | `frontend/index.html` | Feed mobile multi-agente: agent-bar, `renderFeed()`, palette `.food-story` |
 | `frontend/review.html` | Review multi-agente: header sticky con agent switch, `renderReview()` |
-| `frontend/carousel.html` | Carousel AI News — preview + download PNG 1080×1350px; naviga a carousel-food |
+| `frontend/carousel.html` | Carousel AI News — preview + download PNG 1080×1350px; sezioni Hook/Thread/Caption/Script; link ↗ Fonte; naviga a carousel-food |
 | `frontend/carousel-food.html` | Carousel Food — palette olive/arancio, `signature_ingredients`, naviga a carousel |
 
 **Infrastruttura**
@@ -112,7 +113,7 @@ M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → 
 |---|---|
 | `server.js` | HTTP server minimale — serve `frontend/` su Railway |
 | `deepseek.js` | Wrapper `callDeepSeek(prompt)` → stringa risposta |
-| `cache.json` | Cache persistente condivisa — chiavi prefissate `food:*` vs chiavi AI news |
+| `cache.json` | Cache persistente condivisa — chiavi AI news (`md5(title)`, `ainews:caption:*`) vs food (`food:*`) |
 | `review_queue.json` | Articoli AI news falliti dopo 2 tentativi di validazione |
 | `.github/workflows/pipeline.yml` | GitHub Actions — cron `0 */2 * * *`, esegue `run.js` poi `run-food.js` in sequenza |
 | `.railwayignore` | Esclude `output/` e `output/food/` dal deploy Railway |
@@ -126,7 +127,7 @@ M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → 
 ogni 2 ore
   └── GitHub Actions esegue run.js  (AI News)
         └── fetch RSS → deduplicate → hardFilter → batchAIFilter
-              └── generateSlides + generateFormats + generateCarouselSlides
+              └── generateSlides + generateFormats + generateAINewsCaption + generateCarouselSlides
                     └── fetchPexelsImage (slide 2-5) + fetchArticleImage (slide 1)
                           └── salva output/*.json + frontend/data.js
   └── GitHub Actions esegue run-food.js  (5 Step Food, sequenziale — stessa cache.json)
@@ -269,6 +270,7 @@ Se dopo 5 thread: 0 bookmark e 0 reply su tutti e 5:
   "slides": ["...", "...", "...", "...", "..."],
   "thread_text": ["...", "...", "...", "...", "..."],
   "video_script": ["...", "...", "...", "...", "..."],
+  "instagram_caption": "...",
   "carousel_slides": [
     { "hook": "...", "description": "...", "visual_hint": "...",
       "layout_type": "hero",        "icon": "tag",       "image_query": "...", "image": "https://..." },
@@ -381,6 +383,7 @@ fetch RSS (AI News ✅, TechCrunch ✅, O'Reilly 404)
  → batchAIFilter (batch da 10, useful=true, score >= 7)
  → generateSlides (5 ruoli fissi: HOOK→CONTESTO→SORPRENDENTE→PRATICO→TAKEAWAY, max 8 parole)
  → generateFormats (thread_text[5] + video_script[5], solo se GENERATE_FORMATS=true)
+ → generateAINewsCaption (instagram_caption — tono educativo/diretto, fatti concreti, cache ainews:caption:*)
  → generateCarouselSlides (5 carousel_slides con hook/description/layout/icon/image_query)
  → fetchPexelsImage (slide 2-5, portrait, large2x, 18s delay in backfill)
  → fetchArticleImage (og:image/twitter:image per slide 1, timeout 8s)
@@ -593,3 +596,25 @@ Bug risolto durante Step E: `buildDataJs` non ordinava i file prima della dedupl
 **STEP 7 — Navigazione multi-pagina**: nav links e agent switch su `review.html`, `carousel.html`, `carousel-food.html`. `review.html` refactorizzata con `renderReview(articles)` e header sticky con switch in-page. Carousel pages usano navigazione (design diversi non condivisibili in-page).
 
 **STEP 8 — Palette food nel feed**: classe `.food-story` su ogni story food; gradienti per-layout food (olive/arancio) sovrascrivono il blu AI news; badge #3d5a3e, dot #e07b39, cf-accent #f2b36d, @FlashKitchen.
+
+### Carousel AI News completo ✅ (2026-05-12)
+
+`carousel.html` allineato a `carousel-food.html` — stesse 4 sezioni informative sotto le slide:
+
+| Sezione | Colore # | Fonte dati |
+|---|---|---|
+| Hook Titoli Slide | `#3B82F6` blu | `carousel_slides[i].hook` |
+| Thread X | `#3B82F6` blu | `article.thread_text` |
+| Caption Instagram | blu, tasto Copia | `article.instagram_caption` |
+| Script Video (Reel / TikTok) | `#7c3aed` viola | `article.video_script` |
+
+Link "↗ Fonte" allineato a destra nella barra "Scarica tutte e 5" — appare solo se `article.link` è presente.
+
+**`generateAINewsCaption(title, slides, thread_text)`** aggiunta a `generate.js`:
+- Prompt autonomo (non derivato dal food) — tono educativo/diretto coerente con il brand AI News
+- Prima riga: fatto concreto parlato; corpo: contesto semplificato + impatto reale; chiusura: domanda o fatto netto
+- Anti-pattern espliciti: nessuna frase editoriale generica ("Il futuro è già qui"), nessun aggettivo vuoto
+- Cache separata `ainews:caption:*` — nessuna collisione con thread/carousel/food
+- Chiamata in `run.js` dopo `generateFormats`, prima di `generateCarouselSlides`
+- `backfill.js` aggiornato: secondo loop backfilla `instagram_caption` per articoli con `thread_text` ma senza caption
+- **74 caption generate con 0 fallimenti** su tutti gli articoli esistenti

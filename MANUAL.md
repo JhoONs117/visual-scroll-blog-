@@ -22,7 +22,7 @@ Non è necessario capire tutto il codice: ogni sezione indica esattamente quale 
 13. [Come rigenerare tutti gli articoli dopo un cambio di prompt](#13-come-rigenerare-tutti-gli-articoli-dopo-un-cambio-di-prompt)
 14. [Come fare il backfill carousel e immagini](#14-come-fare-il-backfill-carousel-e-immagini)
 15. [Come scaricare le slide carousel come PNG per Instagram](#15-come-scaricare-le-slide-carousel-come-png-per-instagram)
-16. [Come funziona la generazione dei contenuti](#16-come-funziona-la-generazione-dei-contenuti)
+16. [Come funziona la generazione dei contenuti](#16-come-funziona-la-generazione-dei-contenuti) (16.1 slide · 16.2 thread/script · 16.3 caption AI News · 16.5 carousel · 16.6 debug)
 17. [Variabili d'ambiente — lista completa e dove configurarle](#17-variabili-dambiente--lista-completa-e-dove-configurarle)
 18. [Checklist debug — quando qualcosa non funziona](#18-checklist-debug--quando-qualcosa-non-funziona)
 19. [Come gestire review_queue.json e rimuovere un articolo](#19-come-gestire-review_queuejson-e-rimuovere-un-articolo)
@@ -373,17 +373,26 @@ Il backfill:
 2. Costruisce una cache dagli articoli che hanno già i formati (evita chiamate API sui duplicati)
 3. Per i rimanenti chiama DeepSeek (solo quelli davvero nuovi)
 4. Riscrive ogni JSON con `thread_text` e `video_script`
-5. Ricostruisce `frontend/data.js` deduplicato e ordinato per data
+5. Genera `instagram_caption` per tutti gli articoli che hanno `thread_text` ma non la caption
+6. Ricostruisce `frontend/data.js` deduplicato e ordinato per data
 
 **Output atteso:**
 ```
-File senza formati: 11 / 226
-Formati già in cache (da duplicati): 40 slug unici
+File senza formati: 0 / 256
+Formati già in cache (da duplicati): 74 slug unici
 
-[1/11] Titolo articolo... OK (API)
+Articoli senza instagram_caption: 12
+[caption] Titolo articolo... OK
 ...
 
-frontend/data.js aggiornato con 44 articoli unici (era 226 con duplicati).
+frontend/data.js aggiornato con 74 articoli unici (era 256 con duplicati).
+
+=== Fine ===
+Formati da cache:     0
+Formati da API:       0
+Formati falliti:      0
+Caption generate:     12
+Caption fallite:      0
 ```
 
 > ⚠️ Richiede `DEEPSEEK_API_KEY` nel file `.env`. Costa pochi centesimi per run (solo per gli articoli davvero nuovi).
@@ -557,6 +566,17 @@ oppure in locale: `frontend/carousel.html` (richiede `data.js` aggiornato).
 
 Palette: dark tech, blu/indigo, Inter 900. Badge dinamico da dominio articolo. Handle `@FlashAI`.
 
+**Sezioni sotto le slide** (identiche a carousel-food):
+
+| Sezione | Contenuto | Uso |
+|---|---|---|
+| **Hook Titoli Slide** | I 5 hook in formato lista | Titoli per storie Instagram / TikTok overlay |
+| **Thread X** | 5 tweet in sequenza | Incolla direttamente su X/Twitter |
+| **Caption Instagram** | Testo narrativo + emoji (tasto Copia) | Descrizione per post IG |
+| **Script Video (Reel / TikTok)** | 5 righe parlate, max 10 parole | Voice-over per Reel / TikTok |
+
+Nella barra in alto appare anche il link **"↗ Fonte"** (allineato a destra) per aprire l'articolo originale.
+
 ### Carousel Food — `carousel-food.html`
 
 ```
@@ -588,6 +608,15 @@ Seleziona un articolo/ricetta dal menu, poi:
 - Quando posti su IG seleziona **"Originale"** (non "Quadrato")
 - Per un carousel a 5 slide: scarica tutte e 5 → carica in sequenza nella stessa post
 - Per il food: usa la `instagram_caption` già generata (visibile sotto le slide in `carousel-food.html`)
+
+### Flusso rapido per un post Instagram AI News
+
+1. Apri `carousel.html`
+2. Seleziona l'articolo dal menu
+3. Scarica le 5 slide PNG (bottone "Scarica tutte e 5")
+4. Copia la **Caption Instagram** con il tasto Copia (sotto le slide)
+5. Clicca **"↗ Fonte"** per rileggere l'articolo originale se vuoi verificare i fatti
+6. Su Instagram: crea nuovo post → carica i 5 PNG in ordine → incolla la caption → aggiungi hashtag manualmente
 
 > Se le immagini non compaiono nel PNG, è un limite CORS — le slide mostreranno il gradiente tematico come fallback (comunque visivamente corretto).
 
@@ -663,7 +692,44 @@ Linguaggio parlato, non scritto. Max 10 parole per riga. Come se stessi spiegand
 
 ---
 
-### 16.3 — Slide carousel Instagram (`generateCarouselSlides`)
+### 16.3 — Caption Instagram AI News (`generateAINewsCaption`)
+
+Genera `instagram_caption` per ogni articolo AI News. Viene chiamata dopo `generateFormats` in `run.js` e usata da `backfill.js` per gli articoli esistenti.
+
+**Struttura della caption:**
+
+| Parte | Regola |
+|---|---|
+| Prima riga | Fatto concreto parlato — non inizia con "Oggi", "L'AI" o il titolo |
+| 2-3 righe | Contesto semplificato + perché conta — niente sigle senza spiegazione |
+| 1 riga | Impatto concreto per chi legge (lavoro, strumenti, quotidiano) |
+| Chiusura | Domanda aperta OPPURE fatto netto — mai valutazione generica |
+
+**Anti-pattern espliciti nel prompt:**  
+`"Il futuro è già qui"` / `"L'AI sta rivoluzionando tutto"` / `"Siamo solo all'inizio"` / aggettivi come "incredibile" o "straordinario"
+
+**Regole fisse:** 3-5 emoji pertinenti nel testo (non tutte in fondo), niente hashtag, max 120 parole.
+
+Cache separata: `ainews:caption:<md5(title)>` — nessuna collisione con thread X, carousel o food.
+
+**Come modificare il tono:**  
+Apri `generate.js` e modifica il testo del prompt dentro `generateAINewsCaption()`. Dopo la modifica svuota solo le chiavi caption:
+```bash
+node -e "
+const fs = require('fs');
+const cache = JSON.parse(fs.readFileSync('cache.json','utf8'));
+const filtered = Object.fromEntries(
+  Object.entries(cache).filter(([k]) => !k.startsWith('ainews:caption:'))
+);
+fs.writeFileSync('cache.json', JSON.stringify(filtered, null, 2));
+console.log('Cache caption AI News rimossa.');
+"
+node backfill.js
+```
+
+---
+
+### 16.5 — Slide carousel Instagram (`generateCarouselSlides`)
 
 Riceve titolo, slide e thread_text già generati. Produce i metadati per le 5 card del carousel.
 
@@ -677,7 +743,7 @@ Per ogni slide genera:
 
 ---
 
-### 16.4 — Quando intervenire sulla qualità
+### 16.6 — Quando intervenire sulla qualità
 
 | Sintomo | Causa probabile | Dove intervenire |
 |---|---|---|
