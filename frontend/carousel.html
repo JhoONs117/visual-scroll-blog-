@@ -107,6 +107,16 @@
       font-size: 11px;
       color: rgba(255,255,255,0.25);
     }
+    .article-source-link {
+      margin-left: auto;
+      font-size: 12px;
+      color: rgba(255,255,255,0.35);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(255,255,255,0.12);
+      white-space: nowrap;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    .article-source-link:hover { color: #94a3b8; border-color: rgba(255,255,255,0.3); }
 
     /* ── VIEWER ── */
     .viewer { padding: 20px 24px 12px; overflow-x: auto; }
@@ -862,6 +872,7 @@ function renderArticle(article) {
     <div class="dl-all-bar">
       <button class="dl-all-btn" id="dlAll">${DL_ICON} Scarica tutte e 5 le slide</button>
       <span class="dl-hint">oppure clicca una slide per aprirla → tasto destro / tieni premuto per salvare</span>
+      ${article.link ? `<a class="article-source-link" href="${article.link}" target="_blank" rel="noopener noreferrer">↗ Fonte</a>` : ''}
     </div>
     <div class="viewer"><div class="slides-row">${wrappedSlides}</div></div>
     ${hooksHtml}
