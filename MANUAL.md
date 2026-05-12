@@ -26,6 +26,9 @@ Non è necessario capire tutto il codice: ogni sezione indica esattamente quale 
 17. [Variabili d'ambiente — lista completa e dove configurarle](#17-variabili-dambiente--lista-completa-e-dove-configurarle)
 18. [Checklist debug — quando qualcosa non funziona](#18-checklist-debug--quando-qualcosa-non-funziona)
 19. [Come gestire review_queue.json e rimuovere un articolo](#19-come-gestire-review_queuejson-e-rimuovere-un-articolo)
+20. [Come usare il feed multi-agente (AI News / 5 Step Food)](#20-come-usare-il-feed-multi-agente)
+21. [Come eseguire e configurare la pipeline food](#21-come-eseguire-e-configurare-la-pipeline-food)
+22. [Come scaricare i carousel food come PNG per Instagram](#22-come-scaricare-i-carousel-food-come-png)
 
 ---
 
@@ -324,12 +327,11 @@ Railway serve solo `frontend/` — i JSON grezzi in `output/` non gli servono. S
 
 ## 10. Come usare la pagina di review
 
-`frontend/review.html` è una pagina locale (non linkata dal sito pubblico) per leggere e copiare tutti i contenuti generati.
+`frontend/review.html` è una pagina locale per leggere e copiare tutti i contenuti generati. Supporta entrambi gli agenti tramite il dropdown in cima.
 
 **Per aprirla:**
 
 ```bash
-# Apri direttamente nel browser (non serve Railway)
 xdg-open /home/miki/visual-scroll-blog/frontend/review.html
 # oppure su Windows/WSL: explorer.exe frontend/review.html
 ```
@@ -341,13 +343,19 @@ xdg-open /home/miki/visual-scroll-blog/frontend/review.html
 - Script video (5 righe parlate)
 - Tasto **"Copia tutto"** → copia in un click titolo + slide + thread + script
 
+**Cambiare agente:**
+- Usa il dropdown ⚡ AI News / 🍳 5 Step Food in alto a sinistra
+- Selezionando "5 Step Food" carica dinamicamente `data-food.js` e mostra le ricette food
+- Il titolo cambia automaticamente ("Review articoli" → "Review ricette")
+- I link di navigazione portano a: ← Feed, Carousel AI, Carousel Food
+
 **Flusso di utilizzo consigliato:**
 1. Apri `review.html`
-2. Scorri gli articoli (quelli completi di thread sono mostrati per primi)
-3. Leggi il thread di un articolo — ti sembra postabile?
-4. Se sì: click **Copia tutto** → incolla su X o LinkedIn
+2. Scegli l'agente con il dropdown
+3. Scorri gli articoli (quelli completi di thread sono mostrati per primi)
+4. Leggi il contenuto — click **Copia tutto** → incolla su X, LinkedIn o Instagram
 
-> La pagina legge `data.js` — deve essere aggiornata prima (`node run.js` o aspetta il cron di GitHub Actions).
+> Per AI News legge `data.js`; per Food carica `data-food.js` dinamicamente. Entrambi devono essere stati generati prima con `node run.js` / `node run-food.js` o dal cron GitHub Actions.
 
 ---
 
@@ -389,33 +397,45 @@ frontend/data.js aggiornato con 44 articoli unici (era 226 con duplicati).
 Il frontend (`frontend/index.html`) implementa un layout tipo Instagram Stories + TikTok feed:
 
 ```
-SWIPE ORIZZONTALE → slide successiva / precedente (stessa notizia)
-SWIPE VERTICALE   → notizia successiva / precedente
+SWIPE ORIZZONTALE → slide successiva / precedente (stessa notizia/ricetta)
+SWIPE VERTICALE   → notizia/ricetta successiva / precedente
 ```
 
+**Agent bar (in cima):**
+- Barra fissa di 36px: dropdown ⚡ AI News / 🍳 5 Step Food + link Review e Carousel
+- `setSizes()` sottrae 36px da `--vh` per compensare — lo snap snap funziona correttamente
+- Selezionando Food: carica `data-food.js` dinamicamente e chiama `renderFeed(FOOD_ARTICLES)`
+- Selezionando AI News: ripristina `originalArticles` senza fetch aggiuntive
+
 **Struttura HTML:**
-- `.feed` — scroll verticale, una "pagina" per notizia
-- `.story` — scroll orizzontale dentro ogni notizia, una pagina per slide
+- `#agent-bar` — barra fissa in cima, z-index 100
+- `.feed` — scroll verticale con `margin-top: 36px`, una "pagina" per notizia
+- `.story` — scroll orizzontale dentro ogni notizia; classe `.food-story` aggiunta per articoli food
 - Ogni `.story` contiene 5 `.slide`
 
 **Layout di ogni slide (3 aree verticali):**
-- **Area visual** (50% altezza): gradiente colorato unico per notizia
-- **Area content**: badge "AI NEWS" + titolo in uppercase su sfondo nero
-- **Area info**: dot indicators per la slide attiva + icone like/commento/condividi + caption con data
+- **Area visual** (50% altezza): gradiente colorato per agente (blu AI news, olive/arancio food)
+- **Area content**: badge ("AI NEWS" o "5 STEP FOOD") + titolo in uppercase
+- **Area info**: dot indicators + icone azione + caption con data e link sorgente
 
 **CSS chiave:**
 
 ```css
-.feed  { scroll-snap-type: y mandatory; overflow-y: scroll; }
+.feed  { scroll-snap-type: y mandatory; overflow-y: scroll; margin-top: 36px; }
 .story { scroll-snap-type: x mandatory; overflow-x: scroll; touch-action: pan-x pan-y; }
-.slide { width: var(--slide-w); height: var(--vh); scroll-snap-align: start; }
+.slide { width: var(--slide-w); height: calc(var(--vh) * 100); scroll-snap-align: start; }
+/* --vh = (viewport_height - 36px) * 0.01 — aggiustato per l'agent-bar */
 ```
 
-> `--slide-w` e `--vh` sono impostati da JS (`document.documentElement.clientWidth` e `window.visualViewport.height`) per correggere comportamenti su Android Chrome con la address bar visibile.
+**Palette food (classe `.food-story`):**
+- Gradienti olive/arancio per slide 0-4, sovrascrivono il blu AI news
+- Badge #3d5a3e (verde oliva), dot active #e07b39 (arancio), sfondo #10150f
+- Fallback senza immagine: overlay con gradiente food per ogni layout (hero/right-focus/…)
 
 **Comportamento automatico:**
 - Passare a un nuovo articolo resetta automaticamente alla slide 1 (IntersectionObserver con soglia 0.6)
 - Arrivare all'ultima slide e fare swipe → avanza al prossimo articolo
+- Cambiare agente → feed si svuota, si ricrea da capo, scroll torna a top
 
 ---
 
@@ -526,33 +546,50 @@ pexels s2-5    — Trovate: 76 | Non trovate: 0
 
 ## 15. Come scaricare le slide carousel come PNG per Instagram
 
-`frontend/carousel.html` permette di scaricare ogni slide come PNG 1080×1350px (formato 4:5 esatto, pronto per Instagram senza crop).
+Ci sono due pagine carousel — una per agente. Entrambe producono PNG 1080×1350px (4:5 esatto, pronto per Instagram).
 
-### Aprire la pagina
+### Carousel AI News — `carousel.html`
 
 ```
 https://visual-scroll-blog-production.up.railway.app/carousel.html
 ```
-
 oppure in locale: `frontend/carousel.html` (richiede `data.js` aggiornato).
 
-### Scaricare le slide
+Palette: dark tech, blu/indigo, Inter 900. Badge dinamico da dominio articolo. Handle `@FlashAI`.
 
-Seleziona un articolo dal menu in alto, poi:
+### Carousel Food — `carousel-food.html`
+
+```
+https://visual-scroll-blog-production.up.railway.app/carousel-food.html
+```
+oppure in locale: `frontend/carousel-food.html` (richiede `data-food.js` aggiornato).
+
+Palette: olive #3d5a3e, arancio #e07b39, crema #f7efe3. Badge "5 STEP FOOD". Handle `@FlashKitchen`.  
+Slide 1: riga sensoriale ingredienti firma (arancio) tra titolo e micro-promessa.  
+Sezioni extra sotto le slide: hook titoli, thread X, caption Instagram (con copia), script video.
+
+### Navigare tra i carousel
+
+Entrambe le pagine hanno un dropdown ⚡ AI News / 🍳 5 Step Food nell'header — selezionando l'altro agente naviga alla pagina corrispondente.
+
+### Scaricare le slide (identico su entrambe le pagine)
+
+Seleziona un articolo/ricetta dal menu, poi:
 
 | Azione | Risultato |
 |---|---|
 | **Bottone "Scarica slide N"** sotto ogni slide | Scarica PNG singolo 1080×1350px |
-| **Bottone "Scarica tutte e 5"** in alto | Scarica 5 PNG in sequenza (attendi il completamento) |
-| **Click sulla slide** | Apre modal con anteprima — da lì: tasto destro → "Salva immagine" (desktop) oppure tieni premuto → "Salva" (mobile) |
+| **Bottone "Scarica tutte e 5"** in alto | Scarica 5 PNG in sequenza |
+| **Click sulla slide** | Modal con anteprima — tasto destro "Salva immagine" (desktop) / tieni premuto (mobile) |
 
 ### Note per Instagram
 
 - Formato: 1080×1350px (4:5) — Instagram lo accetta senza crop automatico
-- Quando posti su IG, seleziona **"Originale"** nel selettore formato (non "Quadrato")
-- Per un carousel IG a 5 slide: scarica tutte e 5 → carica in sequenza nella stessa post
+- Quando posti su IG seleziona **"Originale"** (non "Quadrato")
+- Per un carousel a 5 slide: scarica tutte e 5 → carica in sequenza nella stessa post
+- Per il food: usa la `instagram_caption` già generata (visibile sotto le slide in `carousel-food.html`)
 
-> Se le immagini di sfondo (foto Pexels o og:image) non compaiono nel PNG scaricato, è un limite CORS del server di origine — le slide mostreranno il gradiente dark come fallback, comunque visivamente corretto.
+> Se le immagini non compaiono nel PNG, è un limite CORS — le slide mostreranno il gradiente tematico come fallback (comunque visivamente corretto).
 
 ---
 
@@ -834,3 +871,133 @@ git push
 ```
 
 > Aggiungere il titolo rimosso alla BLACKLIST in `filter.js` (§2) se vuole che quel tipo di notizia non venga più raccolta.
+
+---
+
+## 20. Come usare il feed multi-agente
+
+Il feed (`frontend/index.html`) mostra due agenti: AI News e 5 Step Food. Il cambio avviene senza ricaricare la pagina.
+
+### Cambiare agente nel feed
+
+Usa il dropdown nell'`#agent-bar` in cima alla pagina:
+- **⚡ AI News** (default): mostra le notizie AI con palette dark blu
+- **🍳 5 Step Food**: carica le ricette food con palette olive/arancio
+
+Alla prima selezione di Food, il browser carica `data-food.js` in background (una volta sola).  
+Tornando su AI News si ripristina la lista originale senza fetch aggiuntive.
+
+### Navigare tra le pagine
+
+Dalla `#agent-bar` (in alto a destra):
+- **Review** → `review.html` — contenuti completi, copia testo
+- **Carousel** → `carousel.html` — anteprima e download PNG AI news
+
+Da `review.html` e dalle pagine carousel ci sono link per tornare al feed o passare all'altra pagina.
+
+### Identificare l'agente nel feed
+
+| Elemento | AI News | 5 Step Food |
+|---|---|---|
+| Badge | NOTIZIA / CONTESTO / … | 5 STEP FOOD |
+| Gradiente visual | Dark blue/indigo | Olive/arancio radiale |
+| Dot attivo | Blu `#3b82f6` | Arancio `#e07b39` |
+| Sorgente (sotto slide) | "AI News · N ore fa · link" | "5 Step Food · N ore fa · link" |
+
+---
+
+## 21. Come eseguire e configurare la pipeline food
+
+### Esecuzione manuale (singolo articolo — test)
+
+```bash
+cd /home/miki/visual-scroll-blog
+MAX_NEW_FOOD_ARTICLES=1 node run-food.js
+```
+
+Processa un solo articolo dal feed Giallozafferano. Usa la cache — se l'articolo è già stato processato in precedenza salta le chiamate API. Scrive sempre `frontend/data-food.js`.
+
+### Esecuzione normale (3 articoli — stesso comportamento di CI)
+
+```bash
+MAX_NEW_FOOD_ARTICLES=3 node run-food.js
+```
+
+### Trigger CI manuale
+
+La pipeline food gira automaticamente ogni 2 ore. Per triggerare manualmente:
+
+1. GitHub → Actions → **Pipeline automatica** → **Run workflow**
+2. Il passo food (`node run-food.js`) parte dopo il completamento del passo AI news
+3. Controlla il log del passo food cercando `"Food agent completato"` — se vedi `"Food pipeline failed"` significa che è scattato l'`|| echo` (vedi §18)
+
+### Aggiungere un feed food
+
+**File da modificare:** `fetch-food.js`
+
+```js
+const FEEDS = [
+  'https://www.giallozafferano.it/feed',
+  // 'https://www.foodmakers.it/feed',  // riattivare dopo test
+  'https://nuovo-sito-ricette.it/feed',  // ← aggiungere qui
+];
+```
+
+Il feed deve contenere ricette reali (ingredienti + procedimento). Il gate `looksLikeRecipe` scarta automaticamente articoli magazine che non contengono ingredienti e preparazione.
+
+### Svuotare la cache food
+
+Per rigenerare le slide food dopo un cambio di prompt (senza toccare la cache AI news):
+
+```bash
+node -e "
+const fs = require('fs');
+const cache = JSON.parse(fs.readFileSync('cache.json','utf8'));
+const filtered = Object.fromEntries(
+  Object.entries(cache).filter(([k]) =>
+    !k.startsWith('food:slides:') && !k.startsWith('food:carousel:') &&
+    !k.startsWith('food:caption:') && !k.startsWith('food:video:') && !k.startsWith('food:thread:')
+  )
+);
+fs.writeFileSync('cache.json', JSON.stringify(filtered, null, 2));
+console.log('Cache food rimossa.');
+"
+```
+
+Poi rilancia `run-food.js` per rigenerare.
+
+### Rimuovere una ricetta da output/food/
+
+```bash
+ls /home/miki/visual-scroll-blog/output/food/ | grep "parola-slug"
+rm /home/miki/visual-scroll-blog/output/food/NOME_FILE.json
+# Poi rigenera data-food.js:
+MAX_NEW_FOOD_ARTICLES=0 node run-food.js
+```
+
+Con `MAX_NEW_FOOD_ARTICLES=0` non processa nuovi articoli ma ricostruisce `data-food.js` dal contenuto attuale di `output/food/`.
+
+---
+
+## 22. Come scaricare i carousel food come PNG
+
+Vedi §15 per la procedura completa (identica a AI news). La pagina dedicata è `carousel-food.html`.
+
+### Cosa trovi sotto le slide in `carousel-food.html`
+
+Dopo le 5 anteprime carousel, la pagina mostra automaticamente per ogni ricetta selezionata:
+
+| Sezione | Contenuto | Uso |
+|---|---|---|
+| **Hook Titoli Slide** | I 5 hook in formato lista copiabile | Titoli per storie Instagram / TikTok overlay |
+| **Thread X** | 5 tweet in sequenza | Incolla direttamente su X/Twitter |
+| **Caption Instagram** | Testo narrativo 4-6 righe + emoji | Descrizione per post IG (tasto Copia) |
+| **Script Video** | 5 righe parlate, max 10 parole | Voice-over per Reel / TikTok |
+
+### Flusso rapido per un post Instagram food
+
+1. Apri `carousel-food.html`
+2. Seleziona la ricetta dal menu
+3. Scarica le 5 slide PNG (bottone "Scarica tutte e 5")
+4. Copia la **Caption Instagram** con il tasto Copia
+5. Su Instagram: crea nuovo post → carica i 5 PNG in ordine → incolla la caption → aggiungi hashtag manualmente

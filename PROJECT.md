@@ -1,14 +1,14 @@
 # Visual AI Scroll Blog — PROJECT
 
 Documento unificato: stato attuale · roadmap · riferimento tecnico · storico.  
-Aggiornato: 2026-05-11 | Sostituisce: README.md · CONTEXT.md · LAVORO.md · M21-roadmap.md  
-Documento operativo correlato: **MANUAL.md** (come eseguire le operazioni)
+Aggiornato: 2026-05-12 | Sostituisce: README.md · CONTEXT.md · LAVORO.md · M21-roadmap.md  
+Documento operativo correlato: **MANUAL.md** (come eseguire le operazioni) · **FOOD-AGENT.md** (secondo agente)
 
 ---
 
 ## 1. Stato attuale
 
-**Data:** 2026-05-11 | **Articoli:** 67 unici | **Pipeline:** automatica ogni 2 ore (GitHub Actions) | **Deploy:** Railway
+**Data:** 2026-05-12 | **Articoli AI:** 67 unici | **Articoli Food:** 10+ | **Pipeline:** automatica ogni 2 ore (GitHub Actions) | **Deploy:** Railway
 
 | Milestone | Stato | Note |
 |---|---|---|
@@ -28,9 +28,11 @@ Documento operativo correlato: **MANUAL.md** (come eseguire le operazioni)
 | Upgrade Pexels (era Wikimedia) | ✅ Completa | `fetchPexelsImage` portrait large2x in `fetch.js`; ultime 20 backfillate |
 | Download PNG carousel | ✅ Completa | html2canvas 1080×1350px (4:5), modal + bottoni in `carousel.html` |
 | Bug: `article.image` mancante in run.js | ✅ Fix | `fetchArticleImage` ora chiamata in `run.js` su ogni nuovo articolo |
+| **Food Agent — 5 Step Food** | ✅ Completa | `fetch-food.js` + `generate-food.js` + `run-food.js` + `carousel-food.html` |
+| **Feed multi-agente** | ✅ Completa | `index.html` agent-bar, `renderFeed()`, palette `.food-story`, navigazione tra pagine |
 | M21 — Test distribuzione reale | 🔄 In corso | Primo post 2026-05-11 ore 15:00 IT su X. 1 thread/giorno |
 | M22 — Iterazione prompt da dati | ⏳ Dopo M21 | Richiede 15 post con dati reali |
-| FASE 5 — Secondo canale | ⏳ Dopo M22 | Instagram + TikTok |
+| FASE 5 — Secondo canale | ⏳ Dopo M22 | Instagram: AI carousel + Food carousel già pronti |
 | FASE 6 — Automazione | ⏳ Dopo FASE 5 | Playwright export + auto-pubblicazione |
 | M18 — Ranking per qualità | ⏳ Backlog | Nice to have |
 | M19 — Index globale articoli | ⏳ Backlog | Utile quando il volume cresce |
@@ -39,7 +41,7 @@ Documento operativo correlato: **MANUAL.md** (come eseguire le operazioni)
 **Ordine di esecuzione:**
 ```
 M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → PRE-M21 ✅ → M21b ✅
-→ Pexels ✅ → Download PNG ✅
+→ Pexels ✅ → Download PNG ✅ → Food Agent ✅ → Feed multi-agente ✅
 → M21 🔄 ← STOP: valuta risultati (15 post, iniziato 2026-05-11)
 → M22 → FASE 5 → FASE 6 → M18 → M19 → M20
 ```
@@ -48,7 +50,7 @@ M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → 
 
 ## 2. Progetto
 
-**Cos'è:** sistema automatico che recupera articoli AI da feed RSS ogni 2 ore, li filtra, genera 5 slide + thread X + script video per ciascuno, e li mostra come feed scrollabile stile Instagram Stories su Railway.
+**Cos'è:** sistema automatico che recupera articoli da feed RSS ogni 2 ore — notizie AI e ricette food — genera 5 slide + thread X + script video per ciascuno, e li mostra come feed scrollabile stile Instagram Stories su Railway. Due agenti indipendenti (AI News e 5 Step Food) con pipeline, dati e palette visiva separati.
 
 ### Stack
 
@@ -68,55 +70,88 @@ M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → 
 
 ### File principali
 
+**Agente AI News**
+
 | File | Ruolo |
 |---|---|
-| `run.js` | Entry point — orchestra pipeline, dedup cross-run, scrive `frontend/data.js` |
-| `server.js` | HTTP server minimale — serve `frontend/` su Railway |
-| `fetch.js` | RSS feed + `fetchPexelsImage(query)` + `fetchArticleImage(url)` |
+| `run.js` | Entry point AI news — orchestra pipeline, dedup cross-run, scrive `frontend/data.js` |
+| `fetch.js` | RSS feed AI + `fetchPexelsImage(query)` + `fetchArticleImage(url)` |
 | `filter.js` | `deduplicate`, `hardFilter`, `batchAIFilter` |
-| `deepseek.js` | Wrapper `callDeepSeek(prompt)` → stringa risposta |
 | `generate.js` | `generateSlides` + `generateFormats` + `generateCarouselSlides` — con cache |
 | `validate.js` | `isValid`, `validateWithFallback` → `review_queue.json` |
 | `backfill.js` | Backfill `thread_text`/`video_script` su articoli esistenti |
 | `backfill-carousel.js` | Backfill `carousel_slides` + Pexels + `article.image` — flag `--force`, `--last N` |
 | `regenerate-all.js` | Rigenera slide + formati per tutti gli articoli unici con prompt aggiornati |
 | `backfill-links.js` | Aggiunge retroattivamente il campo `link` dai feed RSS |
-| `cache.json` | Cache persistente hash→slides |
-| `review_queue.json` | Articoli falliti dopo 2 tentativi di validazione |
-| `output/` | JSON generati, uno per articolo (`timestamp_slug.json`) |
-| `frontend/index.html` | Feed mobile: scroll verticale (cambia notizia) + orizzontale (cambia slide) |
-| `frontend/review.html` | Pagina review locale: thread X, script video, "Copia tutto" per articolo |
-| `frontend/carousel.html` | Preview carousel 270×337px + download PNG 1080×1350px per Instagram |
+| `output/` | JSON AI news generati (`timestamp_slug.json`) |
 | `frontend/data.js` | Generato da `run.js` — `window.ARTICLES = [...]`, ordinato per `savedAt` desc |
-| `.github/workflows/pipeline.yml` | GitHub Actions — cron `0 */2 * * *`, `GENERATE_FORMATS=true`, `PEXELS_API_KEY` |
-| `.railwayignore` | Esclude `output/` dal deploy Railway — deploy stabili a ~1 min indipendentemente dalla crescita degli articoli |
+
+**Agente 5 Step Food**
+
+| File | Ruolo |
+|---|---|
+| `run-food.js` | Entry point food — pipeline completa: fetch → genera → salva, scrive `frontend/data-food.js` |
+| `fetch-food.js` | Feed RSS food (Giallozafferano) + `fetchArticleContent(url)` per scraping ingredienti |
+| `generate-food.js` | `generateRecipeSlides` + `generateRecipeCarouselSlides` + caption/video/thread food |
+| `output/food/` | JSON food generati, separati da `output/` |
+| `frontend/data-food.js` | Generato da `run-food.js` — `window.FOOD_ARTICLES = [...]` |
+| `FOOD-AGENT.md` | Documento operativo completo del food agent (STEP 1–8) |
+
+**Frontend condiviso**
+
+| File | Ruolo |
+|---|---|
+| `frontend/index.html` | Feed mobile multi-agente: agent-bar, `renderFeed()`, palette `.food-story` |
+| `frontend/review.html` | Review multi-agente: header sticky con agent switch, `renderReview()` |
+| `frontend/carousel.html` | Carousel AI News — preview + download PNG 1080×1350px; naviga a carousel-food |
+| `frontend/carousel-food.html` | Carousel Food — palette olive/arancio, `signature_ingredients`, naviga a carousel |
+
+**Infrastruttura**
+
+| File | Ruolo |
+|---|---|
+| `server.js` | HTTP server minimale — serve `frontend/` su Railway |
+| `deepseek.js` | Wrapper `callDeepSeek(prompt)` → stringa risposta |
+| `cache.json` | Cache persistente condivisa — chiavi prefissate `food:*` vs chiavi AI news |
+| `review_queue.json` | Articoli AI news falliti dopo 2 tentativi di validazione |
+| `.github/workflows/pipeline.yml` | GitHub Actions — cron `0 */2 * * *`, esegue `run.js` poi `run-food.js` in sequenza |
+| `.railwayignore` | Esclude `output/` e `output/food/` dal deploy Railway |
 | `test-distribuzione.md` | Log giornaliero dei post M21 su X |
-| `MANUAL.md` | Manuale operativo: come modificare sorgenti, backfill, scaricare PNG |
+| `MANUAL.md` | Manuale operativo: sorgenti, backfill, PNG, agente food |
+| `FOOD-AGENT.md` | Piano e documentazione completa del food agent |
 
 ### Flusso autonomo
 
 ```
 ogni 2 ore
-  └── GitHub Actions esegue run.js
+  └── GitHub Actions esegue run.js  (AI News)
         └── fetch RSS → deduplicate → hardFilter → batchAIFilter
               └── generateSlides + generateFormats + generateCarouselSlides
                     └── fetchPexelsImage (slide 2-5) + fetchArticleImage (slide 1)
                           └── salva output/*.json + frontend/data.js
-                                └── git commit + push
-                                      └── Railway autodeploy (~1 min)
-                                            └── sito aggiornato online
+  └── GitHub Actions esegue run-food.js  (5 Step Food, sequenziale — stessa cache.json)
+        └── fetchFoodArticles → looksLikeRecipe gate
+              └── generateRecipeSlides + generateRecipeCarouselSlides
+                    └── generateFoodCaption + generateFoodVideoScript + generateFoodThread
+                          └── fetchArticleImage (slide 1) + fetchPexelsImage (slide 2-5)
+                                └── salva output/food/*.json + frontend/data-food.js
+  └── git commit + push
+        └── Railway autodeploy (~1 min)
+              └── sito aggiornato online (entrambi gli agenti)
 ```
 
 ### Note operative
 
 - **Feed O'Reilly** restituisce 404 — ignorato automaticamente
 - **DeepSeek cost**: pochi centesimi per run; la cache azzera il costo sugli articoli già visti
-- **GitHub Actions**: gratuito fino a 2000 min/mese — il progetto ne usa ~30/mese
-- **Pexels API**: free tier, 200 req/ora, 20.000/mese — sufficiente (4-8 nuovi articoli/run = 16-32 chiamate)
-- **Backfill selettivo**: `node backfill-carousel.js --force --last N` per aggiornare gli N più recenti
+- **GitHub Actions**: gratuito fino a 2000 min/mese — il progetto ne usa ~30/mese (AI news + food sequenziali)
+- **Pexels API**: free tier, 200 req/ora, 20.000/mese — sufficiente (AI news 4-8 articoli + food 3 articoli/run)
+- **run.js e run-food.js sequenziali**: entrambi usano `cache.json` — NON parallelizzare, causerebbe write conflict silenzioso
+- **Food gate looksLikeRecipe**: evita chiamate API su contenuti non ricetta — azzerato il costo su articoli magazine nel feed
+- **Backfill selettivo AI news**: `node backfill-carousel.js --force --last N` per aggiornare gli N più recenti
 - **Token GitHub**: serve scope `workflow` per pushare `.github/workflows/`
-- **Railway deploy**: ~1 minuto grazie a `.railwayignore` che esclude `output/` — Railway serve solo `frontend/`, i JSON grezzi non servono sul server
-- **Nota crescita**: quando `data.js` pesa sul browser (centinaia di articoli), aggiungere `articles.slice(-50)` in `run.js` prima di scrivere il file
+- **Railway deploy**: ~1 minuto grazie a `.railwayignore` che esclude `output/` e `output/food/`
+- **Nota crescita**: quando `data.js` o `data-food.js` pesano sul browser, aggiungere `articles.slice(-50)` nei rispettivi run prima di scrivere il file
 
 ---
 
@@ -314,9 +349,10 @@ Dopo la modifica:
 
 ### FASE 5 — Secondo canale (dopo M22) ⏳
 
-`carousel.html` è già pronto con PNG 1080×1350px.
-- **Instagram**: scarica 5 PNG da `carousel.html` + caption da `thread_text`; Reel da `video_script`
-- **TikTok**: video con TTS, testo in overlay, ritmo rapido da `video_script`
+Entrambi i carousel sono già pronti con PNG 1080×1350px.
+- **Instagram AI News**: 5 PNG da `carousel.html` + caption da `thread_text`; Reel da `video_script`
+- **Instagram Food**: 5 PNG da `carousel-food.html` + `instagram_caption` già generata da `generate-food.js`
+- **TikTok**: video con TTS, testo in overlay, ritmo rapido da `video_script` o `video_script` food
 
 ### FASE 6 — Automazione (dopo FASE 5) ⏳
 
@@ -526,3 +562,34 @@ Prompt `generateSlides()` riscritto con 5 ruoli narrativi fissi:
 Vedi sezione 4 per tutti i dettagli. Risultato finale: 58/58 articoli con `carousel_slides` ✅, immagini Pexels per slide 2-5 ✅, og:image per slide 1 ✅, download PNG 1080×1350px da `carousel.html` ✅.
 
 Bug risolto durante Step E: `buildDataJs` non ordinava i file prima della deduplicazione per slug — prendeva file casuali invece del più recente, lasciando 37 articoli senza `carousel_slides` in `data.js`. Fix: `.sort().reverse()` su `readdirSync` prima del map.
+
+### Food Agent — 5 Step Food ✅ (2026-05-12)
+
+**STEP 1–3 — Pipeline food** (`fetch-food.js`, `generate-food.js`, `run-food.js`):
+- Feed Giallozafferano con WHITELIST food e gate `looksLikeRecipe` (evita articoli magazine)
+- `fetchArticleContent` con scraping HTTP: User-Agent + Accept-Language, strip HTML, slice 12000 char
+- 5 tipi di generazione per articolo: slides ricetta, carousel_slides, instagram_caption, video_script, thread_text
+- Cache prefissata `food:*` condivisa con `cache.json` AI news — nessuna collisione
+- `dish_type` (pasta/meat/fish/soup/dessert/salad/vegetable/generic) e `signature_ingredients` a root
+- Fix "savory" qualifier: image_query antepone "savory" per dish_type non dessert (evita foto dolci da Pexels)
+- og:image slide 1 con filtro URL generici (logo/placeholder/default/avatar), fallback Pexels
+
+**STEP 4 — `carousel-food.html`**:
+- Palette food: olive #3d5a3e, arancio caldo #e07b39, crema #f7efe3, dark #10150f
+- Gradienti per layout (hero/right-focus/sensor-zoom/human-hand/cta-final) con radiali olive/arancio
+- SVG decorativi food per slide (cerchio piatto, dots spezie, linee impasto, onde calore, glow)
+- `signature_ingredients` riga arancio tra hook e description nella hero slide
+- Sezioni extra sotto le slide: hook titoli, thread X, caption Instagram (con copia), script video
+- Download PNG 1080×1350px identico a `carousel.html`
+
+**STEP 5 — CI GitHub Actions**: `run-food.js` sequenziale dopo `run.js`, non-bloccante (`|| echo`), `MAX_NEW_FOOD_ARTICLES=3`. Gate 10 articoli corretti superato il 2026-05-12.
+
+**STEP 6 — Feed multi-agente** (`index.html`):
+- `#agent-bar` fixed top 36px: select ⚡ AI News / 🍳 5 Step Food + nav links Review / Carousel
+- `setSizes()` sottrae 36px da `--vh` — snap verticale corretto senza modificare story/slide
+- `renderFeed(articles)`: estrae il rendering in funzione richiamabile, disconnette IntersectionObserver al re-render
+- Caricamento dinamico `data-food.js` via `<script>` injection al primo switch (no double fetch)
+
+**STEP 7 — Navigazione multi-pagina**: nav links e agent switch su `review.html`, `carousel.html`, `carousel-food.html`. `review.html` refactorizzata con `renderReview(articles)` e header sticky con switch in-page. Carousel pages usano navigazione (design diversi non condivisibili in-page).
+
+**STEP 8 — Palette food nel feed**: classe `.food-story` su ogni story food; gradienti per-layout food (olive/arancio) sovrascrivono il blu AI news; badge #3d5a3e, dot #e07b39, cf-accent #f2b36d, @FlashKitchen.
