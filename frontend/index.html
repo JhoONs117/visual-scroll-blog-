@@ -351,6 +351,24 @@
     #agent-nav a:hover { color: rgba(255,255,255,0.75); }
 
     .feed { margin-top: 36px; }
+
+    /* ── Food palette nel feed ── */
+    .food-story .slide { background: #10150f; }
+    .food-story .slide-color-0 .slide-visual { background: radial-gradient(circle at 80% 20%, rgba(224,123,57,.35), transparent 35%), radial-gradient(circle at 20% 80%, rgba(61,90,62,.55), transparent 40%), linear-gradient(135deg, #10150f 0%, #1d2a1d 45%, #2a180f 100%); }
+    .food-story .slide-color-1 .slide-visual { background: radial-gradient(circle at 75% 30%, rgba(224,123,57,.25), transparent 40%), linear-gradient(148deg, #12100c 0%, #1a2410 60%, #201208 100%); }
+    .food-story .slide-color-2 .slide-visual { background: radial-gradient(circle at 50% 70%, rgba(61,90,62,.50), transparent 45%), linear-gradient(138deg, #0f1209 0%, #182014 60%, #1a1208 100%); }
+    .food-story .slide-color-3 .slide-visual { background: radial-gradient(circle at 20% 80%, rgba(224,123,57,.30), transparent 40%), linear-gradient(152deg, #14110d 0%, #1e1a0e 60%, #241505 100%); }
+    .food-story .slide-color-4 .slide-visual { background: radial-gradient(circle at 50% 50%, rgba(224,123,57,.40), transparent 50%), linear-gradient(148deg, #10150f 0%, #1c2410 60%, #2a1a08 100%); }
+    .food-story .cf-wrap.hero        .cf-overlay { background: radial-gradient(circle at 80% 20%, rgba(224,123,57,.35), transparent 35%), radial-gradient(circle at 20% 80%, rgba(61,90,62,.55), transparent 40%), linear-gradient(135deg, #10150f 0%, #1d2a1d 45%, #2a180f 100%); }
+    .food-story .cf-wrap.right-focus .cf-overlay { background: radial-gradient(circle at 75% 30%, rgba(224,123,57,.25), transparent 40%), linear-gradient(148deg, #12100c 0%, #1a2410 60%, #201208 100%); }
+    .food-story .cf-wrap.sensor-zoom .cf-overlay { background: radial-gradient(circle at 50% 70%, rgba(61,90,62,.50), transparent 45%), linear-gradient(138deg, #0f1209 0%, #182014 60%, #1a1208 100%); }
+    .food-story .cf-wrap.human-hand  .cf-overlay { background: radial-gradient(circle at 20% 80%, rgba(224,123,57,.30), transparent 40%), linear-gradient(152deg, #14110d 0%, #1e1a0e 60%, #241505 100%); }
+    .food-story .cf-wrap.cta-final   .cf-overlay { background: radial-gradient(circle at 50% 50%, rgba(224,123,57,.40), transparent 50%), linear-gradient(148deg, #10150f 0%, #1c2410 60%, #2a1a08 100%); }
+    .food-story .cf-hook .cf-accent  { color: #f2b36d; }
+    .food-story .slide-badge { background: #3d5a3e; }
+    .food-story .badge-line  { background: rgba(61,90,62,.7); }
+    .food-story .dot.active  { background: #e07b39; }
+    .food-story .slide-info  { background: #0c100b; border-top-color: rgba(224,123,57,.06); }
   </style>
 </head>
 <body>
@@ -410,7 +428,7 @@
       return words.slice(0, split).join(' ') + ' <span class="cf-accent">' + words.slice(split).join(' ') + '</span>';
     }
 
-    function buildCarouselFallback(cs) {
+    function buildCarouselFallback(cs, isFood) {
       const lt = cs.layout_type || 'hero';
       const icon = CF_ICONS[cs.icon] || CF_ICONS.tag;
       const el = document.createElement('div');
@@ -420,7 +438,7 @@
         <svg class="cf-deco" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">${icon}</svg>
         <div class="cf-content">
           <div class="cf-hook">${cfAccentHook(cs.hook)}</div>
-          <div class="cf-footer">@FlashAI</div>
+          <div class="cf-footer">${isFood ? '@FlashKitchen' : '@FlashAI'}</div>
         </div>`;
       return el;
     }
@@ -469,7 +487,7 @@
 
       articles.forEach((article, articleIndex) => {
         const story = document.createElement('div');
-        story.className = 'story';
+        story.className = 'story' + (isFood ? ' food-story' : '');
 
         const slides = article.slides      || [];
         const thread = article.thread_text || [];
@@ -486,7 +504,7 @@
             visual.classList.add('has-img');
             visual.style.backgroundImage = `url('${slideImg}')`;
           } else if (i > 0 && article.carousel_slides?.[i]) {
-            visual.appendChild(buildCarouselFallback(article.carousel_slides[i]));
+            visual.appendChild(buildCarouselFallback(article.carousel_slides[i], isFood));
           }
 
           const bars = document.createElement('div');
