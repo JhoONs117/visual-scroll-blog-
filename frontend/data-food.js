@@ -1,6 +1,258 @@
 window.FOOD_ARTICLES = [
   {
     "agent": "food",
+    "slug": "risotto-piselli-crescenza-e-pancetta-croccante",
+    "sourceId": "28c4dca21ca942b6eee9f7c8922f4708",
+    "dish_type": "generic",
+    "signature_ingredients": [
+      "crescenza",
+      "pancetta",
+      "piselli"
+    ],
+    "title": "Risotto piselli, crescenza e pancetta croccante",
+    "slides": [
+      "Risotto cremoso con pancetta croccante e crescenza",
+      "Riso Carnaroli, piselli, pancetta, crescenza, parmigiano",
+      "Tosta il riso e sfuma con vino bianco",
+      "Manteca con burro e parmigiano a fuoco spento",
+      "Guarnisci con crescenza e pancetta croccante"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Risotto cremoso pancetta croccante e crescenza",
+        "description": "Un risotto avvolgente con piselli dolci, pancetta croccante e crescenza filante: comfort food che conquista al primo assaggio.",
+        "visual_hint": "Piatto fumante su tavola rustica",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory risotto peas pancetta"
+      },
+      {
+        "hook": "I protagonisti in cucina",
+        "description": "Riso Carnaroli, piselli, pancetta affumicata, crescenza e parmigiano: pochi ingredienti, un sapore irresistibile.",
+        "visual_hint": "Ingredienti su tagliere di legno",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory risotto ingredients bowl",
+        "image": "https://images.pexels.com/photos/34110276/pexels-photo-34110276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il segreto della tostatura",
+        "description": "Tosta il riso a secco fino a che non diventa traslucido, poi sfuma con vino bianco: il profumo ti conquisterà.",
+        "visual_hint": "Riso che sfrigola in padella",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "toasting risotto rice pan",
+        "image": "https://images.pexels.com/photos/6544216/pexels-photo-6544216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mantecatura a regola d'arte",
+        "description": "A fuoco spento, unisci burro e parmigiano e mescola con energia: la cremosità è assicurata.",
+        "visual_hint": "Mantecatura con cucchiaio di legno",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "mantecatura risotto spoon",
+        "image": "https://images.pexels.com/photos/20182309/pexels-photo-20182309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tocco finale perfetto",
+        "description": "Guarnisci con cubetti di crescenza e pancetta croccante: un contrasto di consistenze che fa la differenza.",
+        "visual_hint": "Piatto impiattato con crescenza e pancetta",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory risotto plating garnish",
+        "image": "https://images.pexels.com/photos/18078968/pexels-photo-18078968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Cremoso al punto giusto e con quel contrasto croccante che fa impazzire. 🍚✨\n\nPiselli dolci, pancetta che si scioglie in bocca e una mantecatura con crescenza e parmigiano che rende tutto vellutato. Il segreto? Tostare bene il riso Carnaroli, sfumare col vino bianco e mantecare a fuoco spento per una cremosità perfetta. Poi, la ciliegina: una pioggia di pancetta croccante e cubotti di crescenza fresca sopra.\n\nUna coccola che sa di casa e di cucina che funziona sempre. Provatela questo weekend 🌿",
+    "video_script": [
+      "Tosto il riso nel burro fino a che brilla.",
+      "Sfumo col vino bianco e lascio evaporare.",
+      "Aggiungo i piselli e la pancetta croccante.",
+      "Spegno il fuoco e manteco con parmigiano.",
+      "Guarnisco con crescenza e pancetta, che spettacolo!"
+    ],
+    "thread_text": [
+      "Cremoso, avvolgente, con quel contrasto croccante che manda in tilt le papille: risotto piselli, crescenza e pancetta croccante. Una di quelle cose che mangeresti in silenzio fino all’ultimo chicco.",
+      "La base è Carnaroli, piselli freschi o surgelati, pancetta a cubetti, crescenza e parmigiano. Niente panna: la cremosità la fa tutta la crescenza.",
+      "Si tosta il riso a secco, poi si sfuma con vino bianco. Brodo caldo poco per volta, mescolando con pazienza. I piselli li aggiungo a metà cottura per mantenerli integri.",
+      "A fuoco spento arriva la magia: una noce di burro e una pioggia di parmigiano. Poi la crescenza a fiocchi, che si scioglie e velluta tutto senza appesantire.",
+      "Impiatta e guarnisci con altra crescenza e pancetta croccante sopra. Il contrasto caldo-fresco e morbido-croccante è il vero segreto. Provala e fammi sapere 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Risotto-piselli-crescenza-e-pancetta-croccante.html",
+    "pubDate": "Thu, 16 Apr 2026 09:58:00 +0200",
+    "savedAt": "2026-05-12T16:24:17.395Z",
+    "image": "https://www.giallozafferano.it/images/360-36089/Risotto-piselli-crescenza-e-pancetta-croccante_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
+    "slug": "zuppa-di-fagioli-e-cozze",
+    "sourceId": "45fe1c8c9257d22f3b2dcd5030a630be",
+    "dish_type": "soup",
+    "signature_ingredients": [
+      "cozze",
+      "fagioli cannellini",
+      "pomodori"
+    ],
+    "title": "Zuppa di fagioli e cozze",
+    "slides": [
+      "Zuppa cremosa di fagioli e cozze.",
+      "Cozze, fagioli cannellini, pomodori, aglio, olio.",
+      "Pulisci le cozze e apri in padella con aglio.",
+      "Frulla metà fagioli con acqua di cozze.",
+      "Unisci le cozze sgusciate e servi con crostoni."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Zuppa cremosa di fagioli e cozze",
+        "description": "Un primo caldo e avvolgente, perfetto per scaldare le serate autunnali.",
+        "visual_hint": "ciotola fumante con crostoni",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory clam bean soup"
+      },
+      {
+        "hook": "Gli ingredienti giusti",
+        "description": "Cozze fresche, fagioli cannellini cremosi, pomodori maturi, aglio e buon olio.",
+        "visual_hint": "ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory mussels ingredients",
+        "image": "https://images.pexels.com/photos/9328468/pexels-photo-9328468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pulisci e apri le cozze",
+        "description": "Pulisci bene le cozze e aprilo in padella con aglio fino a che non si spalancano.",
+        "visual_hint": "cozze che si aprono",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory opening mussels",
+        "image": "https://images.pexels.com/photos/9328468/pexels-photo-9328468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Frulla metà dei fagioli",
+        "description": "Frulla metà dei fagioli con l’acqua di cottura delle cozze per ottenere una crema vellutata.",
+        "visual_hint": "mano che versa crema",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory blended beans",
+        "image": "https://images.pexels.com/photos/7657844/pexels-photo-7657844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Servi con crostoni croccanti",
+        "description": "Unisci le cozze sgusciate, aggiungi pane abbrustolito e servi fumante.",
+        "visual_hint": "zuppa impiattata con crostoni",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory bean soup croutons",
+        "image": "https://images.pexels.com/photos/33469314/pexels-photo-33469314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Mare e orto che si abbracciano in un piatto: questa zuppa è un’esplosione di comfort. 🫘🌊 Ho fatto aprire le cozze in padella con aglio, poi ho frullato metà dei fagioli cannellini con l’acqua rilasciata per ottenere una crema vellutata. Il resto dei fagioli interi e i pomodori freschi danno consistenza, mentre le cozze sgusciate tornano a tuffarsi nel brodo. Crostoni di pane a parte, perché intingere è quasi obbligatorio. 🥖🍅 Provala questo weekend, scalda l’anima. ✨",
+    "video_script": [
+      "Pulisco le cozze e le apro in padella.",
+      "Frullo metà fagioli con acqua di cozze.",
+      "Unisco i fagioli, pomodori e aglio.",
+      "Aggiungo le cozze sgusciate, mescolo.",
+      "Servo con crostoni, che bontà!"
+    ],
+    "thread_text": [
+      "Ecco la zuppa che ti fa dimenticare il freddo in un colpo solo. 🦪 Fagioli cannellini, cozze e pomodori: cremosa, intensa, perfetta per intingere il pane. Pochi ingredienti, un risultato che spacca.",
+      "Partiamo dai protagonisti: cozze freschissime, fagioli cannellini in barattolo (via la paura) e pomodori maturi. In padella aglio e olio, le cozze si aprono e rilasciano il loro mare. È già magia.",
+      "Fai così: sbatti metà dei fagioli con l’acqua filtrata delle cozze. Il trucco è tutto qui – niente panna né brodi, solo legumi e sapore di mare. Frulla fino a ottenere una vellutata liscia e avvolgente.",
+      "Unisci il tutto: zuppa cremosa di fagioli, pomodori a pezzi e le cozze sgusciate (qualcuna intera per fare scena). Lascia sobbollire 5 minuti, assaggia e regola di sale. Crostoni di pane tostato aspettano.",
+      "Goccio d’olio a crudo e prezzemolo fresco tritato. Servi bollente e sentirai l’abbraccio. Provala e fammi sapere se hai usato i crostoni o il cucchiaio – voglio la verità 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Zuppa-di-fagioli-e-cozze.html",
+    "pubDate": "Thu, 16 Apr 2026 11:31:00 +0200",
+    "savedAt": "2026-05-12T16:23:53.860Z",
+    "image": "https://www.giallozafferano.it/images/360-36091/Zuppa-di-fagioli-e-cozze_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
+    "slug": "bocconcini-di-pollo-alla-mediterranea",
+    "sourceId": "77b971a7cb7a0c9a1a09085e1c1230b2",
+    "dish_type": "meat",
+    "signature_ingredients": [
+      "pollo",
+      "olive taggiasche",
+      "capperi"
+    ],
+    "title": "Bocconcini di pollo alla mediterranea",
+    "slides": [
+      "Teneri bocconcini di pollo con olive e capperi.",
+      "Petto di pollo, pomodorini, olive taggiasche, capperi.",
+      "Taglia il pollo a bocconcini e rosola in padella.",
+      "Sfuma con vino, unisci pomodorini, olive e capperi.",
+      "Servi caldo con pane tostato per il sughetto."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Bocconcini di pollo alla mediterranea",
+        "description": "Morbidi bocconcini di pollo con olive e capperi, un tripudio di sapori del sole in ogni forchettata.",
+        "visual_hint": "Bocconcini in padella",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory chicken bites"
+      },
+      {
+        "hook": "Ingredienti essenziali",
+        "description": "Petto di pollo, pomodorini, olive taggiasche e capperi: pochi ingredienti, tanto sapore mediterraneo.",
+        "visual_hint": "Ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory chicken ingredients",
+        "image": "https://images.pexels.com/photos/5769385/pexels-photo-5769385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il gesto che fa la differenza",
+        "description": "Taglia il pollo a bocconcini e rosola in padella fino a doratura perfetta.",
+        "visual_hint": "Mani che tagliano pollo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cutting chicken chunks",
+        "image": "https://images.pexels.com/photos/11021811/pexels-photo-11021811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "La cottura perfetta",
+        "description": "Sfuma con vino bianco, poi unisci pomodorini, olive e capperi e lascia insaporire.",
+        "visual_hint": "Padella con sfumatura",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory chicken pan",
+        "image": "https://images.pexels.com/photos/25884472/pexels-photo-25884472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Servi e goditi il sughetto",
+        "description": "Impiatta i bocconcini caldi con pane tostato per raccogliere tutto il sughetto saporito.",
+        "visual_hint": "Piatto con pane tostato",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory chicken toast",
+        "image": "https://images.pexels.com/photos/18743145/pexels-photo-18743145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Non serve andare lontano per sentirsi in vacanza: bastano questi bocconcini di pollo alla mediterranea per portare il sole direttamente nel tuo piatto. 🍋 Petto di pollo tenerissimo, saltato in padella e sfumato col vino, si sposa con pomodorini dolci, olive taggiasche e capperi — il sughetto che si crea è una delizia da raccogliere col pane tostato. Un piatto semplice, ma con tutto il sapore del mare. Pronto per una cena che sa d’estate? Provalo questo weekend 🌿",
+    "video_script": [
+      "Prendo i bocconcini di pollo e li rosolo.",
+      "Taglio il petto a cubetti e via in padella.",
+      "Sfumo col vino, poi unisco i pomodorini.",
+      "Aggiungo olive taggiasche e capperi, mescolo.",
+      "Servo caldo con pane tostato per il sughetto."
+    ],
+    "thread_text": [
+      "Bocconcini di pollo che sanno di mare e di sole. Olive taggiasche e capperi: il tocco che trasforma un petto banale in un piatto da leccarsi i baffi. Pronto a sporcarti le mani?",
+      "Petto di pollo tagliato a bocconcini, pomodorini dolci, olive taggiasche e capperi. Fresco, sapido, mediterraneo. Gli ingredienti giusti fanno già metà del lavoro.",
+      "Rosola i bocconcini in padella fino a che non sono dorati e croccanti fuori, teneri dentro. Poi sfuma con un goccio di vino bianco – sentirai subito il profumo alzarsi.",
+      "Aggiungi i pomodorini spezzati, le olive e i capperi. Lascia insaporire a fuoco vivo: il sughetto si addensa, i sapori si fondono. Una carezza per il palato.",
+      "Servi caldo, con pane tostato per fare la scarpetta nel sughetto profumatissimo. Provala e fammi sapere com'è andata 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Bocconcini-di-pollo-alla-mediterranea.html",
+    "pubDate": "Tue, 12 May 2026 16:09:00 +0200",
+    "savedAt": "2026-05-12T16:23:28.991Z",
+    "image": "https://www.giallozafferano.it/images/361-36168/Bocconcini-di-pollo-alla-mediterranea_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
     "slug": "pasta-sarde-pomodorini-e-pangrattato",
     "sourceId": "b9a8693f2cb856faf4edfefe3c23af97",
     "dish_type": "pasta",

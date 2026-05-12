@@ -1,5 +1,305 @@
 window.ARTICLES = [
   {
+    "title": "Digg tries again, this time as an AI news aggregator",
+    "slides": [
+      "Digg riparte: AI al posto dei curatori umani?",
+      "L'algoritmo seleziona le notizie più rilevanti.",
+      "Ma la moderazione automatica ha già fallito altrove.",
+      "Cosa cambia per chi cerca fonti affidabili?",
+      "Prova l'app: vedi se l'IA ti fida davvero."
+    ],
+    "thread_text": [
+      "La moderazione delle notizie gestita da AI ha già fallito su piattaforme più grandi. Eppure qualcuno ci riprova.",
+      "Digg ha annunciato di voler sostituire i curatori umani con un algoritmo per selezionare le notizie più rilevanti. Il sistema promette di essere più veloce, ma la storia recente dice altro.",
+      "Reddit e Facebook hanno già provato strade simili: l'algoritmo ha amplificato disinformazione e contenuti di bassa qualità, costringendo a reintrodurre moderatori umani in emergenza.",
+      "Il punto non è se l'IA sappia leggere headline, ma se capisce il contesto sociale di una notizia. Senza filtri umani, il rischio è che la piattaforma diventi una cassa di risonanza per contenuti virali, non affidabili.",
+      "Digg ti chiede di fidarti del suo nuovo sistema. Vuoi davvero testarlo con le tue notizie, o preferisci aspettare un altro fallimento pubblico?"
+    ],
+    "video_script": [
+      "L'AI ha già fallito come moderatrice.",
+      "Ora Digg ci riprova.",
+      "Sostituisce i curatori umani con un algoritmo.",
+      "Ma su Reddit è stato un disastro.",
+      "Vuoi davvero fidarti di una macchina?"
+    ],
+    "instagram_caption": "Digg sostituisce i curatori umani con un algoritmo per selezionare le notizie. L'azienda promette maggiore velocità, ma la storia recente insegna: Reddit e Facebook hanno già fallito con la moderazione automatica, amplificando disinformazione e contenuti virali. Il problema non è se l'IA legge le notizie, ma se capisce il contesto sociale ⚠️. Per chi cerca fonti affidabili online, l'assenza di filtri umani rischia di trasformare la piattaforma in una cassa di risonanza 📢. Vuoi davvero fidarti del suo giudizio?",
+    "carousel_slides": [
+      {
+        "hook": "L'IA moderatrice è già fallita",
+        "description": "La moderazione automatica ha fallito su piattaforme più grandi, ma Digg ci riprova.",
+        "visual_hint": "schermo con errore",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "server error screen"
+      },
+      {
+        "hook": "Algoritmo, non più umani",
+        "description": "Digg sostituisce i curatori umani con un algoritmo più veloce, ma la storia recente dice altro.",
+        "visual_hint": "rotella dentata ingranaggi",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "gear mechanism closeup",
+        "image": "https://images.pexels.com/photos/7568421/pexels-photo-7568421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Esempi di fallimenti passati",
+        "description": "Reddit e Facebook hanno amplificato disinformazione, poi hanno reintrodotto moderatori umani in emergenza.",
+        "visual_hint": "birillo rosso caduto",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "red bowling pin",
+        "image": "https://images.pexels.com/photos/5952997/pexels-photo-5952997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "L'IA capisce il contesto?",
+        "description": "Senza filtri umani, i contenuti virali rischiano di prevalere su quelli affidabili.",
+        "visual_hint": "mano che scherma",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand blocking light",
+        "image": "https://images.pexels.com/photos/9522478/pexels-photo-9522478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova a fidarti dell'algoritmo",
+        "description": "Vuoi testare il sistema con le tue notizie o aspettare un altro fallimento pubblico?",
+        "visual_hint": "dito su schermo app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "finger tapping phone",
+        "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/digg-ver2-at-10.40.29-AM.jpg?resize=1200,888",
+    "pubDate": "Mon, 11 May 2026 17:02:35 +0000",
+    "savedAt": "2026-05-12T16:20:31.078Z",
+    "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/"
+  },
+  {
+    "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
+    "slides": [
+      "Exaforce raccoglie 125 milioni. Cosa cambia nel tuo rischio?",
+      "I cyberattacchi si fermano in tempo reale, non dopo ore.",
+      "L'AI reagisce prima che l'attacco faccia danni visibili.",
+      "Il tuo team non basta? Questa macchina colma il vuoto.",
+      "Prova a testare il sistema contro un attacco simulato."
+    ],
+    "thread_text": [
+      "L’AI reagisce prima che l’attacco faccia danni visibili. Non dopo ore, in tempo reale.",
+      "Exaforce ha appena raccolto 125 milioni di dollari. Perché? Per costruire una macchina che fa quello che il tuo team non riesce a fare: rispondere subito.",
+      "Quando arriva un attacco, la differenza non è quanti esperti hai in turno. È quanto velocemente la difesa parte. Questa macchina parte da sola.",
+      "Il punto è che il tuo rischio cambia. Non devi più aspettare che qualcuno veda il problema. Il sistema lo vede prima di te.",
+      "Puoi testarlo oggi contro un attacco simulato. Costa meno di un abbonamento Spotify. Prova."
+    ],
+    "video_script": [
+      "L’AI reagisce prima del danno visibile.",
+      "Exaforce ha raccolto 125 milioni per questo.",
+      "La macchina risponde in tempo reale.",
+      "Il tuo team non basta? Lei colma il vuoto.",
+      "Testala ora contro un attacco simulato."
+    ],
+    "instagram_caption": "125 milioni di dollari per fermare un cyberattacco in tempo reale, prima che faccia danni visibili. 🚨 Exaforce ha costruito un sistema AI che reagisce da solo mentre il tuo team non è ancora in turno: niente attese, niente ore di buio. ⚡️ Per te significa che il rischio cambia: non devi più sperare che qualcuno veda il problema in tempo. Puoi testarlo oggi con un attacco simulato, costa meno di un abbonamento Spotify. 💻 Quando arriva un colpo, conta solo la velocità con cui parti — questa macchina parte prima di te. 🛡️",
+    "carousel_slides": [
+      {
+        "hook": "L'AI vede l'attacco prima di te",
+        "description": "L'AI reagisce prima che l'attacco faccia danni visibili. Il tuo rischio cambia per sempre.",
+        "visual_hint": "Occhio digitalizzato che scruta dati",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room lights"
+      },
+      {
+        "hook": "Tempo reale, non ore dopo",
+        "description": "Non dopo ore, in tempo reale. La macchina ferma l'attacco mentre accade, senza aspettare.",
+        "visual_hint": "Orologio con lancette che corrono",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "125 milioni per una macchina che parte da sola",
+        "description": "Quando arriva un attacco, la difesa parte da sola. Non serve un esperto in turno.",
+        "visual_hint": "Circuito elettrico che si accende",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Colma il vuoto del tuo team",
+        "description": "Il tuo team non basta? Questa macchina colma il vuoto. Risponde subito mentre tu dormi.",
+        "visual_hint": "Mano che afferra scudo digitale",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Provalo oggi, costa meno di Spotify",
+        "description": "Testa il sistema contro un attacco simulato. Costa meno di un abbonamento Spotify. Prova ora.",
+        "visual_hint": "Manichino con frecce digitali",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/13223714/pexels-photo-13223714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Team-Photo-1.jpeg?resize=1200,675",
+    "pubDate": "Tue, 12 May 2026 15:07:37 +0000",
+    "savedAt": "2026-05-12T16:20:09.974Z",
+    "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/"
+  },
+  {
+    "title": "AI automates HR compliance, except for the area tech companies need",
+    "slides": [
+      "AI handles most HR compliance—but which part still fails?",
+      "Tech firms rush to automate hiring and payroll.",
+      "The blind spot: nuanced harassment investigations.",
+      "Your company's AI can't interpret intent or context.",
+      "Test it now: run a real case and see the gap."
+    ],
+    "thread_text": [
+      "Le aziende tech automatizzano assunzioni e buste paga con l'AI, ma c'è un punto che fa crollare tutto: le indagini su molestie. L'AI non capisce le sfumature.",
+      "Un software può scansionare curriculum e calcolare stipendi in pochi secondi. Ma quando un dipendente racconta un episodio ambiguo, l'algoritmo si ferma.",
+      "Perché? L'AI interpreta parole, non contesto. Un commento fuori luogo può essere uno scherzo tra colleghi o una minaccia: senza storia personale, è un azzardo.",
+      "Risultato: i casi di molestie restano irrisolti, le aziende prendono decisioni sbagliate e i rischi legali aumentano. La conformità HR è un buco nero.",
+      "Prendi un caso reale della tua azienda, caricalo in un sistema AI e guarda quanto sbaglia. Ancora meglio? Testalo oggi: costa meno di un abbonamento Netflix."
+    ],
+    "video_script": [
+      "L'AI gestisce le buste paga, ma fallisce su un punto.",
+      "È il motivo per cui le indagini sulle molestie non funzionano.",
+      "Non capisce le sfumature del linguaggio umano.",
+      "Un commento può essere scherzo o minaccia, ma l'AI non lo sa.",
+      "Prova con un caso vero e vedi il divario."
+    ],
+    "instagram_caption": "Un'azienda su tre che automatizza HR con l'AI scopre che il sistema fallisce proprio sulle indagini per molestie. 🤖 La macchina processa curriculum e buste paga in secondi, ma si blocca quando deve valutare se un commento è uno scherzo o una minaccia. Manca il contesto, manca la storia personale. ⚠️ Per te che lavori in HR o in un team tech: affidare la conformità all'algoritmo significa rischiare decisioni sbagliate e cause legali. Quando è stata l'ultima volta che hai testato un caso reale con il tuo sistema? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "L'AI non capisce le sfumature",
+        "description": "Le aziende automatizzano assunzioni e buste paga, ma le indagini su molestie falliscono. L'AI non capisce le sfumature.",
+        "visual_hint": "Algoritmo che si blocca",
+        "layout_type": "hero",
+        "icon": "heart",
+        "image_query": "server room computers"
+      },
+      {
+        "hook": "Scansiona curriculum, non contesto",
+        "description": "Un software calcola stipendi in secondi, ma su un episodio ambiguo l'algoritmo si ferma.",
+        "visual_hint": "Software fermo su schermo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory robot assembly",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Scherzo o minaccia?",
+        "description": "L'AI interpreta parole, non contesto. Un commento fuori luogo è un azzardo senza storia personale.",
+        "visual_hint": "Parole senza sfondo",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "microphone close up",
+        "image": "https://images.pexels.com/photos/34561043/pexels-photo-34561043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Casi irrisolti, rischi legali",
+        "description": "I casi di molestie restano irrisolti, le decisioni sbagliate aumentano i rischi legali. La conformità è un buco nero.",
+        "visual_hint": "Documento con buchi neri",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "office workers corridor",
+        "image": "https://images.pexels.com/photos/31690584/pexels-photo-31690584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Testalo oggi, costa meno di Netflix",
+        "description": "Prendi un caso reale, caricalo in un sistema AI e guarda quanto sbaglia. Provalo ora.",
+        "visual_hint": "Test con caso reale",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/4543925/pexels-photo-4543925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/AI-HR.png",
+    "pubDate": "Mon, 11 May 2026 14:34:05 +0000",
+    "savedAt": "2026-05-12T16:19:51.564Z",
+    "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/"
+  },
+  {
+    "title": "JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability",
+    "slides": [
+      "JBS Dev: l'AI fallisce sui dati reali?",
+      "Il modello perfetto non basta senza dati puliti",
+      "L'ultimo miglio costa più del modello stesso",
+      "Chi ignora i dati spende il 40% in più",
+      "Rivedi la pipeline dati: il risparmio è qui"
+    ],
+    "thread_text": [
+      "Sai quanto costa l'ultimo miglio dell'AI? Più del modello stesso. E se lo ignori, paghi il 40% in più.",
+      "Un modello perfetto su dati di test è inutile se quelli reali sono sporchi. Il problema non è l'algoritmo, ma la pipeline.",
+      "La verità è che la qualità dei dati degrada nel tempo. Monitorare e pulire i dati è l'unico modo per mantenere il modello vivo.",
+      "Le aziende che trascurano questo passaggio spendono fino al 40% in più in risorse e manutenzione. Un costo nascosto enorme.",
+      "Rivedere la pipeline dati oggi costa meno di un abbonamento Spotify al mese. Fallo questa settimana."
+    ],
+    "video_script": [
+      "L'ultimo miglio costa più del modello.",
+      "Il modello perfetto non basta.",
+      "Servono dati puliti per funzionare.",
+      "Chi li ignora paga il 40% in più.",
+      "Rivedi la pipeline, risparmi subito."
+    ],
+    "instagram_caption": "Sai che un’AI perfetta nei test fallisce sui dati reali, e seignori il problema spendi il 40% in più di risorse? 🧠❌ Non è colpa del modello: i dati si sporcano col tempo e l’ultimo miglio – monitorarli e pulirli – costa più dell’intero sistema. 📉 Per te significa meno sprechi e manutenzione, se rivedi la pipeline dati. 🛠️ Un investimento minimo oggi può evitare costi nascosti enormi. Quanto vale la tua efficienza? 💡",
+    "carousel_slides": [
+      {
+        "hook": "L'ultimo miglio costa più del modello",
+        "description": "Ignorare i dati reali può far spendere il 40% in più. Il problema non è l'algoritmo ma la pipeline.",
+        "visual_hint": "server racks glowing",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Dati perfetti, modello inutile",
+        "description": "Un modello perfetto su dati di test fallisce se i dati reali sono sporchi. Conta la pipeline.",
+        "visual_hint": "messy cables server",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "server cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "La qualità dei dati degrada",
+        "description": "I dati reali peggiorano nel tempo. Monitorare e pulire è l'unico modo per tenere vivo il modello.",
+        "visual_hint": "graph declining quality",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spendi il 40% in più?",
+        "description": "Le aziende che trascurano i dati spendono fino al 40% in più in risorse e manutenzione.",
+        "visual_hint": "hand holding coin",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/13223714/pexels-photo-13223714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rivedi la pipeline ora",
+        "description": "Rivedere la pipeline dati costa meno di un abbonamento Spotify. Fallo questa settimana.",
+        "visual_hint": "pipeline flow diagram",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/geralt-network-6511448-scaled.jpg",
+    "pubDate": "Tue, 12 May 2026 15:37:43 +0000",
+    "savedAt": "2026-05-12T16:19:30.270Z",
+    "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/"
+  },
+  {
     "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
     "slides": [
       "Robinhood cavalca l'IA, ma la prossima mossa è retail?",
