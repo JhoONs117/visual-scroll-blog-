@@ -1,5 +1,80 @@
 window.ARTICLES = [
   {
+    "title": "Laserfiche unveils AI agents for natural language workflows",
+    "slides": [
+      "Laserfiche promette automazione senza codice: funziona davvero?",
+      "Gli agenti AI ora comprendono comandi in linguaggio naturale.",
+      "Ma la gestione degli errori resta una sfida aperta.",
+      "Chi adotta ora riduce i colli di bottiglia nei processi.",
+      "Prova un flusso reale: confronta il prima e dopo."
+    ],
+    "thread_text": [
+      "La gestione degli errori resta il vero ostacolo per gli agenti AI che capiscono comandi in linguaggio naturale. Promettono molto, ma quando sbagliano, chi risolve?",
+      "Laserfiche dice di eliminare il codice. In pratica, chi adotta ora riduce i colli di bottiglia nei processi, ma senza affrontare gli errori l'automazione siinceppa.",
+      "Il problema è che un agente AI fraintende un comando e blocca tutto il flusso. Se non hai un piano per gestire quel momento, l'efficienza svanisce.",
+      "Ecco la svolta: chi progetta i flussi con error handling esplicito ottiene risultati reali. Il prima e dopo mostra riduzione dei tempi del 40%.",
+      "Prova un flusso reale: prendi un processo con 5 passaggi manuali e automatizzalo oggi. Costa meno di un abbonamento streaming."
+    ],
+    "video_script": [
+      "Sai che l'AI capisce comandi in linguaggio naturale?",
+      "Laserfiche lo promette, senza scrivere codice.",
+      "Ma c'è un problema: la gestione degli errori.",
+      "Se l'agente sbaglia, il processo si blocca.",
+      "Chi adotta ora taglia i colli di bottiglia.",
+      "Proviamo un flusso reale e confrontiamo prima e dopo."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "AI agent fraintende il comando.",
+        "description": "La gestione degli errori resta il vero ostacolo. Quando sbagliano, chi risolve?",
+        "visual_hint": "Ciclo bloccato con punto interrogativo",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "server room error"
+      },
+      {
+        "hook": "Zero codice ma rischio blocco.",
+        "description": "Chi adotta ora riduce i colli di bottiglia, ma senza error handling l'automazione siinceppa.",
+        "visual_hint": "Filo che si intrappola",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory robot cable",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Un errore blocca tutto il flusso.",
+        "description": "Se non hai un piano per quel momento, l'efficienza svanisce completamente.",
+        "visual_hint": "Interruttore spento su nastro",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "conveyor belt stop",
+        "image": "https://images.pexels.com/photos/5032846/pexels-photo-5032846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Error handling esplicito: svolta reale.",
+        "description": "Chi progetta flussi con gestione errori ottiene risultati: riduzione tempi del 40%.",
+        "visual_hint": "Grafico a barre in discesa",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prima e dopo: 40% più veloce.",
+        "description": "Prendi un processo manuale e automatizzalo oggi. Costa meno di un abbonamento streaming.",
+        "visual_hint": "Cronometro con freccia giù",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers desk",
+        "image": "https://images.pexels.com/photos/12902868/pexels-photo-12902868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/laserfiche-ai-assistant-hero.jpg",
+    "pubDate": "Tue, 12 May 2026 08:57:13 +0000",
+    "savedAt": "2026-05-12T10:25:26.671Z",
+    "link": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/"
+  },
+  {
     "title": "Thinking Machines wants to build an AI that actually listens while it talks",
     "slides": [
       "Thinking Machines: un AI che ascolta mentre parla?",
