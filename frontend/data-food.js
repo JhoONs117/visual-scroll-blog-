@@ -1,0 +1,86 @@
+window.FOOD_ARTICLES = [
+  {
+    "agent": "food",
+    "slug": "torta-salata-primaverile-vegana",
+    "sourceId": "dfce00af8648940d9124d830837c8738",
+    "dish_type": "vegetable",
+    "signature_ingredients": [
+      "farina di ceci",
+      "asparagi",
+      "porri"
+    ],
+    "title": "Torta salata primaverile vegana",
+    "slides": [
+      "Torta salata vegana cremosa e colorata",
+      "Farina di ceci, asparagi, porri, formaggio vegetale",
+      "Prepara una pastella con farina di ceci",
+      "Cuoci in forno a 190° per 70 minuti",
+      "Decora con asparagi interi e cipolla rossa"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta salata primaverile vegana",
+        "description": "Una torta salata cremosa e colorata, perfetta per un brunch o un picnic primaverile",
+        "visual_hint": "Torta intera su piatto",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory vegetable tart"
+      },
+      {
+        "hook": "Solo 3 ingredienti base",
+        "description": "Farina di ceci, asparagi e porri creano una base cremosa con formaggio vegetale per un ripieno ricco",
+        "visual_hint": "Ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "asparagus leek ingredients",
+        "image": "https://images.pexels.com/photos/1194434/pexels-photo-1194434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prepara la pastella",
+        "description": "Mescola farina di ceci con acqua e sale fino a ottenere una pastella liscia e senza grumi",
+        "visual_hint": "Ciotola e frusta",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chickpea flour batter",
+        "image": "https://images.pexels.com/photos/7966401/pexels-photo-7966401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cuoci in forno 70 minuti",
+        "description": "Versa la pastella con asparagi e porri in una teglia, poi cuoci a 190°C fino a doratura",
+        "visual_hint": "Mani che versano pastella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "pouring batter into pan",
+        "image": "https://images.pexels.com/photos/37283209/pexels-photo-37283209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Decora e servi tiepida",
+        "description": "Guarnisci con asparagi interi e cipolla rossa affettata per un tocco croccante e colorato",
+        "visual_hint": "Torta decorata e affettata",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory tart with asparagus",
+        "image": "https://images.pexels.com/photos/36740654/pexels-photo-36740654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Bastano farina di ceci, asparagi e porri per creare una torta salata che sembra un giardino in tavola 🌿. Una pastella vellutata abbraccia asparagi teneri e porri caramellati, con un tocco di formaggio vegetale che la rende cremosa al punto giusto. Dopo 70 minuti in forno, viene fuori una torta colorata e rustica, decorata con asparagi interi e cipolla rossa croccante perfetta per una cena leggera o un pranzo al sacco. Provala questo weekend 🌸",
+    "video_script": [
+      "Preparo una pastella con farina di ceci",
+      "Taglio porri e asparagi a pezzetti",
+      "Mescolo tutto col formaggio vegetale",
+      "Verso in teglia e cuocio a 190°",
+      "Decoro con asparagi interi e cipolla rossa"
+    ],
+    "thread_text": [
+      "Vediamo chi ha il coraggio di chiamarla ‘torta salata’ senza formaggio o uova. La mia versione primaverile è cremosa, colorata e completamente vegana — asparagi e porri la fanno da padroni. Spoiler: non è una rinuncia, è un upgrade.",
+      "Partiamo dagli ingredienti che contano: farina di ceci per la base (niente impasto, solo pastella), asparagi freschi, porri dolci e un formaggio vegetale filante. Il segreto? La pastella deve essere liscia e senza grumi — frusta con energia.",
+      "Taglia i porri a rondelle e saltali in padella con un filo d’olio fino a farli ammorbidire. Unisci gli asparagi a pezzetti (tieni da parte le punte per la decorazione). Versa tutto nella pastella, mescola e trasferisci in teglia. 190° per 70 minuti, pazienza.",
+      "Dopo il forno la superficie è dorata e il profumo è pazzesco. Il trucco adesso: decora con le punte di asparagi crudi e qualche anello di cipolla rossa fresca. Dà croccantezza e colore, e la differenza si vede — e si sente.",
+      "Lascia intiepidire almeno 10 minuti prima di tagliarla. Fredda è ancora più buona. La prossima volta che hai voglia di una torta salata leggera ma appagante, fai così. Se la provi, fammi sapere nei commenti 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Torta-salata-primaverile-vegana.html",
+    "pubDate": "Tue, 12 May 2026 11:19:00 +0200",
+    "savedAt": "2026-05-12T12:19:02.873Z",
+    "image": "https://www.giallozafferano.it/images/361-36163/Torta-salata-primaverile-vegana_650x433_wm.jpg"
+  }
+];

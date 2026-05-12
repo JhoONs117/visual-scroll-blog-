@@ -1,0 +1,918 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carousel Food — 5 Step Food</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #10150f;
+      color: #f7efe3;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      min-height: 100vh;
+    }
+
+    /* ── HEADER ── */
+    .header {
+      background: #14110d;
+      border-bottom: 1px solid rgba(224,123,57,0.12);
+      padding: 14px 24px;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+    .header h1 { font-size: 17px; font-weight: 700; letter-spacing: -0.02em; color: #f7efe3; }
+    .header nav { display: flex; gap: 16px; margin-left: auto; }
+    .header a { color: rgba(247,239,227,0.4); text-decoration: none; font-size: 13px; transition: color 0.15s; }
+    .header a:hover { color: #e07b39; }
+
+    /* ── SELECTOR BAR ── */
+    .selector-bar {
+      padding: 14px 24px;
+      background: #12100c;
+      border-bottom: 1px solid rgba(224,123,57,0.07);
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+    .selector-bar select {
+      flex: 1;
+      min-width: 200px;
+      max-width: 640px;
+      background: #1e1a14;
+      color: #f7efe3;
+      border: 1px solid rgba(224,123,57,0.18);
+      border-radius: 8px;
+      padding: 8px 12px;
+      font-size: 13px;
+      font-family: inherit;
+      cursor: pointer;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23e07b39' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 12px center;
+      padding-right: 32px;
+    }
+    .selector-bar select:focus { outline: none; border-color: #e07b39; }
+    .count-label { font-size: 12px; color: rgba(247,239,227,0.3); white-space: nowrap; }
+
+    /* ── DOWNLOAD BAR ── */
+    .dl-all-bar {
+      padding: 18px 24px 4px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+    .dl-all-btn {
+      background: #e07b39;
+      border: none;
+      color: #fff;
+      border-radius: 8px;
+      padding: 9px 20px;
+      font-size: 13px;
+      font-weight: 700;
+      font-family: inherit;
+      cursor: pointer;
+      transition: background 0.15s;
+      display: flex;
+      align-items: center;
+      gap: 7px;
+    }
+    .dl-all-btn:hover { background: #c9692a; }
+    .dl-all-btn:disabled { opacity: 0.6; cursor: not-allowed; }
+    .dl-hint { font-size: 11px; color: rgba(247,239,227,0.25); }
+
+    /* ── VIEWER ── */
+    .viewer { padding: 20px 24px 12px; overflow-x: auto; }
+    .slides-row { display: flex; gap: 14px; min-width: max-content; }
+
+    /* ── SLIDE WRAP ── */
+    .slide-wrap { display: flex; flex-direction: column; gap: 8px; flex-shrink: 0; }
+    .dl-btn {
+      background: rgba(224,123,57,0.10);
+      border: 1px solid rgba(224,123,57,0.25);
+      color: #f2b36d;
+      border-radius: 8px;
+      padding: 7px 10px;
+      font-size: 11px;
+      font-weight: 600;
+      font-family: inherit;
+      cursor: pointer;
+      width: 270px;
+      transition: background 0.15s, border-color 0.15s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 5px;
+    }
+    .dl-btn:hover { background: rgba(224,123,57,0.20); border-color: rgba(224,123,57,0.45); }
+    .dl-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+    /* ── EMPTY STATE ── */
+    .empty-state { padding: 80px 24px; text-align: center; color: rgba(247,239,227,0.35); }
+    .empty-state h2 { font-size: 18px; margin-bottom: 8px; font-weight: 600; }
+    .empty-state p  { font-size: 13px; font-family: monospace; margin-top: 10px; background: rgba(255,255,255,0.05); display: inline-block; padding: 6px 12px; border-radius: 6px; }
+
+    /* ── MODAL ── */
+    .modal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.92);
+      z-index: 1000;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 16px;
+      padding: 24px;
+    }
+    .modal.open { display: flex; }
+    .modal-img {
+      max-width: min(88vw, 380px);
+      max-height: 72vh;
+      border-radius: 12px;
+      object-fit: contain;
+      display: block;
+      box-shadow: 0 24px 80px rgba(0,0,0,0.7);
+    }
+    .modal-hint { font-size: 12px; color: rgba(255,255,255,0.35); text-align: center; }
+    .modal-actions { display: flex; gap: 10px; align-items: center; }
+    .modal-dl {
+      background: #e07b39;
+      color: white;
+      border: none;
+      padding: 9px 20px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 13px;
+      font-weight: 700;
+      font-family: inherit;
+      transition: background 0.15s;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .modal-dl:hover { background: #c9692a; }
+    .modal-close {
+      background: rgba(255,255,255,0.10);
+      color: rgba(255,255,255,0.65);
+      border: none;
+      padding: 9px 18px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 13px;
+      font-family: inherit;
+      transition: background 0.15s;
+    }
+    .modal-close:hover { background: rgba(255,255,255,0.18); }
+
+    /* ══════════════════════════════════════════════════
+       SLIDE BASE  — 270 × 337px  (4:5)
+    ══════════════════════════════════════════════════ */
+    .slide {
+      width: 270px;
+      height: 337px;
+      border-radius: 14px;
+      overflow: hidden;
+      position: relative;
+      flex-shrink: 0;
+      background-size: cover;
+      background-position: center;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      cursor: pointer;
+    }
+    .slide:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 16px 48px rgba(224,123,57,0.25);
+    }
+
+    /* sfondo base food per ogni layout */
+    .slide.hero        { background-color: #10150f; }
+    .slide.right-focus { background-color: #12100c; }
+    .slide.sensor-zoom { background-color: #0f1209; }
+    .slide.human-hand  { background-color: #14110d; }
+    .slide.cta-final   { background-color: #10150f; }
+
+    /* overlay food — gradiente per layout */
+    .img-overlay {
+      position: absolute;
+      inset: 0;
+      z-index: 0;
+      pointer-events: none;
+    }
+    .slide.hero        .img-overlay { background: radial-gradient(circle at 80% 20%, rgba(224,123,57,0.35), transparent 35%), radial-gradient(circle at 20% 80%, rgba(61,90,62,0.55), transparent 40%), linear-gradient(135deg, #10150f 0%, #1d2a1d 45%, #2a180f 100%); }
+    .slide.right-focus .img-overlay { background: radial-gradient(circle at 75% 30%, rgba(224,123,57,0.25), transparent 40%), linear-gradient(148deg, #12100c 0%, #1a2410 60%, #201208 100%); }
+    .slide.sensor-zoom .img-overlay { background: radial-gradient(circle at 50% 70%, rgba(61,90,62,0.50), transparent 45%), linear-gradient(138deg, #0f1209 0%, #182014 60%, #1a1208 100%); }
+    .slide.human-hand  .img-overlay { background: radial-gradient(circle at 20% 80%, rgba(224,123,57,0.30), transparent 40%), linear-gradient(152deg, #14110d 0%, #1e1a0e 60%, #241505 100%); }
+    .slide.cta-final   .img-overlay { background: radial-gradient(circle at 50% 50%, rgba(224,123,57,0.40), transparent 50%), linear-gradient(148deg, #10150f 0%, #1c2410 60%, #2a1a08 100%); }
+    .slide.has-img .img-overlay {
+      background: linear-gradient(
+        to bottom,
+        rgba(16,21,15,0.72) 0%,
+        rgba(16,21,15,0.55) 40%,
+        rgba(16,21,15,0.88) 100%
+      );
+    }
+
+    /* elemento decorativo SVG per ogni layout (food-themed) */
+    .deco-svg {
+      position: absolute;
+      pointer-events: none;
+      z-index: 1;
+      opacity: 0.18;
+    }
+    /* slide 1: cerchio grande tipo piatto */
+    .slide.hero .deco-svg        { width: 160px; height: 160px; bottom: -20px; right: -20px; }
+    /* slide 2: dots spezie */
+    .slide.right-focus .deco-svg { width: 120px; height: 120px; top: 20px; right: -10px; }
+    /* slide 3: linee impasto */
+    .slide.sensor-zoom .deco-svg { width: 140px; height: 80px; bottom: 30px; right: -10px; }
+    /* slide 4: onde calore */
+    .slide.human-hand .deco-svg  { width: 130px; height: 80px; bottom: 40px; left: -10px; }
+    /* slide 5: glow */
+    .slide.cta-final .deco-svg   { width: 150px; height: 150px; top: 50%; right: -30px; transform: translateY(-50%); }
+
+    /* contenuto slide */
+    .slide-inner {
+      position: relative;
+      z-index: 3;
+      height: 100%;
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── BADGE ── */
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: #3d5a3e;
+      padding: 3px 8px 3px 6px;
+      border-radius: 4px;
+      width: fit-content;
+      flex-shrink: 0;
+    }
+    .badge svg { width: 9px; height: 9px; flex-shrink: 0; fill: #f7efe3; }
+    .badge-label {
+      font-size: 8px;
+      font-weight: 800;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #f7efe3;
+    }
+
+    /* ── HOOK ── */
+    .hook-text {
+      font-size: 20px;
+      font-weight: 900;
+      line-height: 1.15;
+      color: #f7efe3;
+      letter-spacing: -0.025em;
+    }
+    .hook-text .accent { color: #f2b36d; }
+
+    /* ── SIGNATURE INGREDIENTS (slide 1 hero) ── */
+    .signature-ingredients {
+      font-size: 10px;
+      font-weight: 600;
+      color: #e07b39;
+      letter-spacing: 0.04em;
+      margin-top: 6px;
+      margin-bottom: 2px;
+    }
+
+    /* ── DESCRIPTION ── */
+    .desc {
+      font-size: 11px;
+      font-weight: 400;
+      color: rgba(247,239,227,0.80);
+      line-height: 1.55;
+    }
+
+    /* ── ICON funzionale ── */
+    .icon {
+      display: block;
+      stroke: #e07b39;
+      fill: none;
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      flex-shrink: 0;
+    }
+
+    /* ── FOOTER ── */
+    .slide-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: auto;
+      padding-top: 8px;
+    }
+    .slide-num    { font-size: 8px; font-weight: 700; color: rgba(247,239,227,0.35); letter-spacing: 0.05em; }
+    .slide-handle { font-size: 8px; font-weight: 400; color: rgba(247,239,227,0.35); }
+
+    /* ── LAYOUT: hero ── */
+    .slide.hero .badge   { margin-bottom: 10px; }
+    .slide.hero .hook-text { font-size: 22px; }
+
+    /* ── LAYOUT: right-focus ── */
+    .slide.right-focus .badge    { margin-bottom: 10px; }
+    .slide.right-focus .hook-row { display: flex; gap: 10px; align-items: center; flex: 1; }
+    .slide.right-focus .hook-text { font-size: 17px; flex: 1; }
+    .slide.right-focus .icon-lg {
+      width: 60px; height: 60px;
+      stroke: #f2b36d;
+      fill: none;
+      stroke-width: 1.3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      flex-shrink: 0;
+      opacity: 0.9;
+    }
+    .slide.right-focus .desc { margin-top: 10px; }
+
+    /* ── LAYOUT: sensor-zoom ── */
+    .slide.sensor-zoom .badge     { margin-bottom: 10px; }
+    .slide.sensor-zoom .hook-text { font-size: 16px; }
+    .slide.sensor-zoom .data-points {
+      display: flex; flex-direction: column; gap: 7px;
+      flex: 1; margin-top: 12px;
+    }
+    .slide.sensor-zoom .dp {
+      display: flex; align-items: flex-start; gap: 8px;
+      background: rgba(247,239,227,0.05);
+      border-left: 2px solid rgba(224,123,57,0.7);
+      padding: 6px 8px;
+      border-radius: 0 5px 5px 0;
+    }
+    .slide.sensor-zoom .dp-dot {
+      width: 5px; height: 5px;
+      border-radius: 50%;
+      background: #e07b39;
+      flex-shrink: 0;
+      margin-top: 3px;
+    }
+    .slide.sensor-zoom .dp-text {
+      font-size: 10px; font-weight: 400;
+      color: rgba(247,239,227,0.80);
+      line-height: 1.4;
+    }
+
+    /* ── LAYOUT: human-hand ── */
+    .slide.human-hand .badge     { margin-bottom: 10px; }
+    .slide.human-hand .icon      { width: 28px; height: 28px; margin-bottom: 10px; }
+    .slide.human-hand .hook-text { font-size: 24px; line-height: 1.1; flex: 1; }
+    .slide.human-hand .desc      { margin-top: 10px; }
+
+    /* ── LAYOUT: cta-final ── */
+    .slide.cta-final .slide-inner { align-items: center; text-align: center; }
+    .slide.cta-final .badge       { align-self: flex-start; margin-bottom: auto; }
+    .slide.cta-final .icon-cta {
+      width: 44px; height: 44px;
+      stroke: #f2b36d; fill: none;
+      stroke-width: 2;
+      stroke-linecap: round; stroke-linejoin: round;
+      margin: 0 auto 12px;
+    }
+    .slide.cta-final .hook-text   { font-size: 18px; text-align: center; margin-bottom: 10px; }
+    .slide.cta-final .desc        { text-align: center; font-size: 10.5px; }
+    .slide.cta-final .slide-footer { width: 100%; margin-top: auto; }
+
+    /* ── CAPTION INSTAGRAM ── */
+    .caption-section {
+      margin: 4px 24px 32px;
+      background: #14110d;
+      border: 1px solid rgba(224,123,57,0.10);
+      border-radius: 12px;
+      padding: 20px 24px;
+    }
+    .caption-section h3 {
+      font-size: 10px; font-weight: 700;
+      text-transform: uppercase; letter-spacing: 0.12em;
+      color: rgba(247,239,227,0.3); margin-bottom: 14px;
+    }
+    .caption-body {
+      font-size: 13px;
+      color: rgba(247,239,227,0.75);
+      line-height: 1.7;
+      white-space: pre-line;
+    }
+    .copy-caption-btn {
+      margin-top: 14px;
+      background: rgba(224,123,57,0.12);
+      border: 1px solid rgba(224,123,57,0.28);
+      color: #f2b36d;
+      border-radius: 8px;
+      padding: 7px 16px;
+      font-size: 11px;
+      font-weight: 600;
+      font-family: inherit;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .copy-caption-btn:hover { background: rgba(224,123,57,0.22); }
+
+    /* ── HOOK TITLES ── */
+    .hooks-section {
+      margin: 4px 24px 0;
+      background: #14110d;
+      border: 1px solid rgba(224,123,57,0.10);
+      border-radius: 12px;
+      padding: 20px 24px;
+    }
+    .hooks-section h3 {
+      font-size: 10px; font-weight: 700;
+      text-transform: uppercase; letter-spacing: 0.12em;
+      color: rgba(247,239,227,0.3); margin-bottom: 14px;
+    }
+    .hook-row-item {
+      display: flex; gap: 12px; align-items: flex-start;
+      padding: 8px 0;
+      border-bottom: 1px solid rgba(247,239,227,0.05);
+    }
+    .hook-row-item:last-child { border-bottom: none; padding-bottom: 0; }
+    .hook-n    { font-size: 11px; font-weight: 700; color: #e07b39; min-width: 18px; padding-top: 1px; }
+    .hook-body { font-size: 13px; color: rgba(247,239,227,0.75); line-height: 1.5; }
+
+    /* ── THREAD X ── */
+    .thread-section {
+      margin: 8px 24px 0;
+      background: #14110d;
+      border: 1px solid rgba(224,123,57,0.10);
+      border-radius: 12px;
+      padding: 20px 24px;
+    }
+    .thread-section h3 {
+      font-size: 10px; font-weight: 700;
+      text-transform: uppercase; letter-spacing: 0.12em;
+      color: rgba(247,239,227,0.3); margin-bottom: 14px;
+    }
+    .tweet-row {
+      display: flex; gap: 14px;
+      padding: 10px 0;
+      border-bottom: 1px solid rgba(247,239,227,0.05);
+    }
+    .tweet-row:last-child { border-bottom: none; padding-bottom: 0; }
+    .tweet-n    { font-size: 11px; font-weight: 700; color: #e07b39; min-width: 18px; padding-top: 2px; }
+    .tweet-body { font-size: 13px; color: rgba(247,239,227,0.7); line-height: 1.6; }
+
+    /* ── VIDEO SCRIPT ── */
+    .script-section {
+      margin: 8px 24px 32px;
+      background: #14110d;
+      border: 1px solid rgba(61,90,62,0.20);
+      border-radius: 12px;
+      padding: 20px 24px;
+    }
+    .script-section h3 {
+      font-size: 10px; font-weight: 700;
+      text-transform: uppercase; letter-spacing: 0.12em;
+      color: rgba(247,239,227,0.3); margin-bottom: 14px;
+    }
+    .script-row {
+      display: flex; gap: 12px; align-items: flex-start;
+      padding: 8px 0;
+      border-bottom: 1px solid rgba(247,239,227,0.05);
+    }
+    .script-row:last-child { border-bottom: none; padding-bottom: 0; }
+    .script-n    { font-size: 11px; font-weight: 700; color: #3d5a3e; min-width: 18px; padding-top: 1px; }
+    .script-body { font-size: 13px; color: rgba(247,239,227,0.75); line-height: 1.5; }
+  </style>
+</head>
+<body>
+
+<!-- Modal immagine -->
+<div class="modal" id="modal">
+  <img class="modal-img" id="modalImg" src="" alt="Slide preview" crossorigin="anonymous">
+  <p class="modal-hint">
+    Desktop: tasto destro → Salva immagine &nbsp;·&nbsp; Mobile: tieni premuto → Salva
+  </p>
+  <div class="modal-actions">
+    <button class="modal-dl" id="modalDl">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+      Scarica PNG
+    </button>
+    <button class="modal-close" id="modalClose">✕ Chiudi</button>
+  </div>
+</div>
+
+<div class="header">
+  <h1>5 Step Food</h1>
+  <nav>
+    <a href="index.html">← Feed</a>
+    <a href="review.html">Review</a>
+  </nav>
+</div>
+
+<div class="selector-bar">
+  <select id="sel"></select>
+  <span class="count-label" id="count"></span>
+</div>
+
+<div id="area">
+  <div class="empty-state">
+    <h2>Nessun articolo selezionato</h2>
+    <p>Scegli una ricetta dal menu in alto.</p>
+  </div>
+</div>
+
+<script src="data-food.js"></script>
+<script>
+const ICON_PATHS = {
+  tag:       `<path d="M20.59 13.41L13.42 20.59a2 2 0 01-2.83 0L2 12V2h10l8.59 8.59a2 2 0 010 2.82z"/><circle cx="7" cy="7" r="1.5" fill="currentColor" stroke="none"/>`,
+  waves:     `<path d="M2 6c1.5 1 3 1 4.5 0s3-1 4.5 0 3 1 4.5 0 3-1 4.5 0"/><path d="M2 12c1.5 1 3 1 4.5 0s3-1 4.5 0 3 1 4.5 0 3-1 4.5 0"/><path d="M2 18c1.5 1 3 1 4.5 0s3-1 4.5 0 3 1 4.5 0 3-1 4.5 0"/>`,
+  heart:     `<path d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78L12 21l8.84-8.85a5.5 5.5 0 000-7.54z"/>`,
+  vibration: `<line x1="2" y1="10" x2="2" y2="14"/><line x1="6" y1="6" x2="6" y2="18"/><line x1="10" y1="3" x2="10" y2="21"/><line x1="14" y1="3" x2="14" y2="21"/><line x1="18" y1="6" x2="18" y2="18"/><line x1="22" y1="10" x2="22" y2="14"/>`,
+  check:     `<polyline points="20 6 9 17 4 12"/>`
+};
+
+const DL_ICON = `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>`;
+
+/* SVG decorativi food per ogni layout */
+const DECO_SVGS = {
+  hero: `<svg class="deco-svg" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="80" cy="80" r="70" stroke="#e07b39" stroke-width="1.5" fill="none"/>
+    <circle cx="80" cy="80" r="55" stroke="#3d5a3e" stroke-width="0.8" fill="none"/>
+    <circle cx="80" cy="80" r="40" stroke="#e07b39" stroke-width="0.5" fill="none"/>
+  </svg>`,
+  'right-focus': `<svg class="deco-svg" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="20" cy="20" r="4" fill="#e07b39"/><circle cx="60" cy="10" r="2.5" fill="#3d5a3e"/>
+    <circle cx="100" cy="30" r="3.5" fill="#e07b39"/><circle cx="40" cy="55" r="2" fill="#f2b36d"/>
+    <circle cx="80" cy="70" r="4" fill="#3d5a3e"/><circle cx="10" cy="80" r="2.5" fill="#e07b39"/>
+    <circle cx="50" cy="100" r="3" fill="#3d5a3e"/><circle cx="90" cy="95" r="2" fill="#f2b36d"/>
+    <circle cx="110" cy="60" r="3" fill="#e07b39"/><circle cx="30" cy="85" r="1.5" fill="#3d5a3e"/>
+  </svg>`,
+  'sensor-zoom': `<svg class="deco-svg" viewBox="0 0 140 80" xmlns="http://www.w3.org/2000/svg">
+    <path d="M5 40 Q35 10 65 40 Q95 70 125 40" stroke="#e07b39" stroke-width="1.5" fill="none"/>
+    <path d="M5 55 Q35 25 65 55 Q95 85 125 55" stroke="#3d5a3e" stroke-width="1" fill="none"/>
+    <path d="M5 25 Q35 -5 65 25 Q95 55 125 25" stroke="#f2b36d" stroke-width="0.7" fill="none"/>
+  </svg>`,
+  'human-hand': `<svg class="deco-svg" viewBox="0 0 130 80" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10 60 Q30 20 50 40 Q70 60 90 30 Q110 10 125 35" stroke="#e07b39" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    <path d="M10 70 Q30 40 50 55 Q70 70 90 45 Q110 25 125 50" stroke="#3d5a3e" stroke-width="1" fill="none" stroke-linecap="round"/>
+  </svg>`,
+  'cta-final': `<svg class="deco-svg" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="75" cy="75" r="60" stroke="#e07b39" stroke-width="1" fill="rgba(224,123,57,0.06)"/>
+    <circle cx="75" cy="75" r="45" stroke="#f2b36d" stroke-width="0.7" fill="rgba(242,179,109,0.04)"/>
+    <circle cx="75" cy="75" r="30" stroke="#e07b39" stroke-width="0.5" fill="rgba(224,123,57,0.08)"/>
+  </svg>`
+};
+
+function iconSvg(name, cls) {
+  return `<svg class="${cls}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">${ICON_PATHS[name] || ICON_PATHS.tag}</svg>`;
+}
+
+const BADGE_ICON = `<svg viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg"><path d="M2 5 Q5 2 8 5 Q5 8 2 5Z" fill="#f7efe3"/></svg>`;
+
+function badge() {
+  return `<div class="badge">${BADGE_ICON}<span class="badge-label">5 STEP FOOD</span></div>`;
+}
+
+function accentHook(hook) {
+  const m = hook.match(/[:—–]/);
+  if (m) {
+    const i = hook.indexOf(m[0]);
+    const before = hook.slice(0, i + 1).trim();
+    const after  = hook.slice(i + 1).trim();
+    if (after) return `${before} <span class="accent">${after}</span>`;
+  }
+  const words = hook.trim().split(' ');
+  if (words.length <= 2) return `<span class="accent">${hook}</span>`;
+  const split = Math.ceil(words.length * 0.55);
+  return words.slice(0, split).join(' ') + ' <span class="accent">' + words.slice(split).join(' ') + '</span>';
+}
+
+function toDataPoints(desc) {
+  const frags = desc.split(/[.;—–]/).map(s => s.trim()).filter(s => s.length > 5).slice(0, 3);
+  if (!frags.length) frags.push(desc.trim());
+  return frags.map(f =>
+    `<div class="dp"><div class="dp-dot"></div><span class="dp-text">${f}</span></div>`
+  ).join('');
+}
+
+function footer(idx, total) {
+  return `<div class="slide-footer">
+    <span class="slide-num">${idx + 1}/${total}</span>
+    <span class="slide-handle">@FlashKitchen</span>
+  </div>`;
+}
+
+function slugFrom(title) {
+  return (title || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 40);
+}
+
+function buildSlide(cs, idx, total, articleImage, signatureIngredients) {
+  const lt       = cs.layout_type;
+  const imageUrl = cs.image || (idx === 0 ? articleImage : null);
+  const hasImg   = !!imageUrl;
+  const imgClass = hasImg ? 'has-img' : '';
+  const bgStyle  = hasImg ? `style="background-image:url('${imageUrl}');background-size:cover;background-position:center"` : '';
+  const hookHtml = `<span class="hook-text">${accentHook(cs.hook)}</span>`;
+  const descHtml = `<div class="desc">${cs.description}</div>`;
+  const bdg      = badge();
+  const decoSvg  = DECO_SVGS[lt] || '';
+  const foot     = footer(idx, total);
+
+  // Riga ingredienti firma — solo hero slide 1
+  const sigRow = (idx === 0 && Array.isArray(signatureIngredients) && signatureIngredients.length)
+    ? `<div class="signature-ingredients">${signatureIngredients.join(' · ')}</div>`
+    : '';
+
+  let inner = '';
+
+  if (lt === 'hero') {
+    inner = `
+      <div class="img-overlay"></div>
+      ${decoSvg}
+      <div class="slide-inner">
+        ${bdg}
+        <div style="flex:1;margin-top:10px;">${hookHtml}${sigRow}</div>
+        ${descHtml}
+        ${foot}
+      </div>`;
+
+  } else if (lt === 'right-focus') {
+    inner = `
+      <div class="img-overlay"></div>
+      ${decoSvg}
+      <div class="slide-inner">
+        ${bdg}
+        <div class="hook-row" style="margin-top:10px;">
+          <div style="flex:1;">${hookHtml}</div>
+          ${iconSvg(cs.icon, 'icon-lg')}
+        </div>
+        ${descHtml}
+        ${foot}
+      </div>`;
+
+  } else if (lt === 'sensor-zoom') {
+    inner = `
+      <div class="img-overlay"></div>
+      ${decoSvg}
+      <div class="slide-inner">
+        ${bdg}
+        <div style="margin-top:10px;">${hookHtml}</div>
+        <div class="data-points">${toDataPoints(cs.description)}</div>
+        ${foot}
+      </div>`;
+
+  } else if (lt === 'human-hand') {
+    inner = `
+      <div class="img-overlay"></div>
+      ${decoSvg}
+      <div class="slide-inner">
+        ${bdg}
+        ${iconSvg(cs.icon, 'icon')}
+        <div style="flex:1;">${hookHtml}</div>
+        ${descHtml}
+        ${foot}
+      </div>`;
+
+  } else { // cta-final
+    inner = `
+      <div class="img-overlay"></div>
+      ${decoSvg}
+      <div class="slide-inner">
+        ${bdg}
+        ${iconSvg(cs.icon, 'icon-cta')}
+        ${hookHtml}
+        ${descHtml}
+        ${foot}
+      </div>`;
+  }
+
+  return `<div class="slide ${lt} ${imgClass}" ${bgStyle}>${inner}</div>`;
+}
+
+/* ── DOWNLOAD ── */
+let currentDataUrl  = null;
+let currentFilename = null;
+
+async function renderToCanvas(slideEl) {
+  const origRadius = slideEl.style.borderRadius;
+  slideEl.style.borderRadius = '0';
+  const raw = await html2canvas(slideEl, {
+    scale: 4,
+    useCORS: true,
+    allowTaint: false,
+    backgroundColor: '#10150f',
+    logging: false,
+    imageTimeout: 15000,
+  });
+  slideEl.style.borderRadius = origRadius;
+  const final = document.createElement('canvas');
+  final.width  = 1080;
+  final.height = 1350;
+  const ctx = final.getContext('2d');
+  ctx.fillStyle = '#10150f';
+  ctx.fillRect(0, 0, 1080, 1350);
+  ctx.drawImage(raw, 0, 0, raw.width, raw.height, 0, 1, 1080, 1348);
+  return final;
+}
+
+async function downloadSlide(slideEl, filename) {
+  const canvas = await renderToCanvas(slideEl);
+  const link   = document.createElement('a');
+  link.download = filename + '.png';
+  link.href     = canvas.toDataURL('image/png');
+  link.click();
+}
+
+/* ── MODAL ── */
+const modal    = document.getElementById('modal');
+const modalImg = document.getElementById('modalImg');
+
+document.getElementById('modalClose').addEventListener('click', () => modal.classList.remove('open'));
+modal.addEventListener('click', e => { if (e.target === modal) modal.classList.remove('open'); });
+document.addEventListener('keydown', e => { if (e.key === 'Escape') modal.classList.remove('open'); });
+
+document.getElementById('modalDl').addEventListener('click', () => {
+  if (!currentDataUrl) return;
+  const link   = document.createElement('a');
+  link.download = currentFilename + '.png';
+  link.href     = currentDataUrl;
+  link.click();
+});
+
+async function openModal(slideEl, filename) {
+  const canvas    = await renderToCanvas(slideEl);
+  currentDataUrl  = canvas.toDataURL('image/png');
+  currentFilename = filename;
+  modalImg.src    = currentDataUrl;
+  modal.classList.add('open');
+}
+
+/* ── RENDER ARTICLE ── */
+function renderArticle(article) {
+  const area = document.getElementById('area');
+  const cs   = article.carousel_slides;
+  if (!cs || !cs.length) {
+    area.innerHTML = `<div class="empty-state">
+      <h2>Nessun carousel</h2>
+      <p>Questo articolo non ha ancora carousel_slides.</p>
+    </div>`;
+    return;
+  }
+
+  const sig  = article.signature_ingredients || [];
+  const articleImage = article.image || null;
+  const slug = slugFrom(article.title);
+
+  const wrappedSlides = cs.map((s, i) => {
+    const slideHtml = buildSlide(s, i, cs.length, articleImage, sig);
+    return `<div class="slide-wrap">
+      ${slideHtml}
+      <button class="dl-btn" data-idx="${i}">${DL_ICON} Scarica slide ${i + 1}</button>
+    </div>`;
+  }).join('');
+
+  const hooksHtml = cs
+    ? `<div class="hooks-section">
+        <h3>Hook Titoli Slide</h3>
+        ${cs.map((s, i) => `
+          <div class="hook-row-item">
+            <span class="hook-n">${i + 1}</span>
+            <span class="hook-body">${s.hook}</span>
+          </div>`).join('')}
+      </div>`
+    : '';
+
+  const captionHtml = article.instagram_caption
+    ? `<div class="caption-section">
+        <h3>Caption Instagram</h3>
+        <div class="caption-body" id="captionText">${article.instagram_caption}</div>
+        <button class="copy-caption-btn" id="copyCaption">Copia caption</button>
+      </div>`
+    : '';
+
+  const threadHtml = article.thread_text && article.thread_text.length
+    ? `<div class="thread-section">
+        <h3>Thread X</h3>
+        ${article.thread_text.map((t, i) => `
+          <div class="tweet-row">
+            <span class="tweet-n">${i + 1}</span>
+            <span class="tweet-body">${t}</span>
+          </div>`).join('')}
+      </div>`
+    : '';
+
+  const scriptHtml = article.video_script && article.video_script.length
+    ? `<div class="script-section">
+        <h3>Script Video (Reel / TikTok)</h3>
+        ${article.video_script.map((line, i) => `
+          <div class="script-row">
+            <span class="script-n">${i + 1}</span>
+            <span class="script-body">${line}</span>
+          </div>`).join('')}
+      </div>`
+    : '';
+
+  area.innerHTML = `
+    <div class="dl-all-bar">
+      <button class="dl-all-btn" id="dlAll">${DL_ICON} Scarica tutte e 5 le slide</button>
+      <span class="dl-hint">oppure clicca una slide → tasto destro / tieni premuto per salvare</span>
+    </div>
+    <div class="viewer"><div class="slides-row">${wrappedSlides}</div></div>
+    ${hooksHtml}
+    ${threadHtml}
+    ${captionHtml}
+    ${scriptHtml}`;
+
+  document.querySelectorAll('.slide').forEach((el, i) => {
+    el.addEventListener('click', async () => {
+      const origOpacity = el.style.opacity;
+      el.style.opacity = '0.55';
+      await openModal(el, `${slug}-slide-${i + 1}`);
+      el.style.opacity = origOpacity;
+    });
+  });
+
+  document.querySelectorAll('.dl-btn').forEach(btn => {
+    btn.addEventListener('click', async e => {
+      e.stopPropagation();
+      const idx     = parseInt(btn.dataset.idx);
+      const slideEl = btn.closest('.slide-wrap').querySelector('.slide');
+      btn.disabled  = true;
+      const origHtml = btn.innerHTML;
+      btn.textContent = 'Elaborazione…';
+      try {
+        await downloadSlide(slideEl, `${slug}-slide-${idx + 1}`);
+      } finally {
+        btn.disabled  = false;
+        btn.innerHTML = origHtml;
+      }
+    });
+  });
+
+  const copyBtn = document.getElementById('copyCaption');
+  if (copyBtn) {
+    copyBtn.addEventListener('click', () => {
+      const text = document.getElementById('captionText')?.innerText || '';
+      navigator.clipboard.writeText(text).then(() => {
+        const orig = copyBtn.textContent;
+        copyBtn.textContent = 'Copiata ✓';
+        setTimeout(() => { copyBtn.textContent = orig; }, 1500);
+      });
+    });
+  }
+
+  document.getElementById('dlAll').addEventListener('click', async () => {
+    const allBtn   = document.getElementById('dlAll');
+    const origHtml = allBtn.innerHTML;
+    allBtn.disabled = true;
+    const slides = [...document.querySelectorAll('.slide-wrap .slide')];
+    for (let i = 0; i < slides.length; i++) {
+      allBtn.innerHTML = `Scaricando ${i + 1}/${slides.length}…`;
+      await downloadSlide(slides[i], `${slug}-slide-${i + 1}`);
+      if (i < slides.length - 1) await new Promise(r => setTimeout(r, 600));
+    }
+    allBtn.disabled = false;
+    allBtn.innerHTML = origHtml;
+  });
+}
+
+/* ── INIT ── */
+const articles = (typeof window.FOOD_ARTICLES !== 'undefined' && window.FOOD_ARTICLES) ? window.FOOD_ARTICLES : [];
+const sel      = document.getElementById('sel');
+const lbl      = document.getElementById('count');
+
+if (!articles.length) {
+  document.getElementById('area').innerHTML = `
+    <div class="empty-state">
+      <h2>Nessun articolo food generato ancora.</h2>
+      <p>node run-food.js</p>
+    </div>`;
+  lbl.textContent = '0 ricette';
+} else {
+  const withCs = articles.filter(a => a.carousel_slides && a.carousel_slides.length).length;
+  lbl.textContent = `${withCs} con carousel · ${articles.length} totali`;
+
+  sel.innerHTML = '<option value="">Seleziona ricetta…</option>';
+  articles.forEach((a, i) => {
+    const has = a.carousel_slides && a.carousel_slides.length;
+    const opt = document.createElement('option');
+    opt.value = i;
+    opt.textContent = (has ? '✓ ' : '○ ') + (a.title || `Ricetta ${i + 1}`);
+    sel.appendChild(opt);
+  });
+
+  sel.addEventListener('change', () => {
+    const i = parseInt(sel.value);
+    if (!isNaN(i)) renderArticle(articles[i]);
+  });
+
+  const first = articles.findIndex(a => a.carousel_slides && a.carousel_slides.length);
+  if (first >= 0) { sel.value = first; sel.dispatchEvent(new Event('change')); }
+}
+</script>
+</body>
+</html>
