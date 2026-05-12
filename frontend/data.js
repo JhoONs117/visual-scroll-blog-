@@ -1,5 +1,79 @@
 window.ARTICLES = [
   {
+    "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+    "slides": [
+      "Thinking Machines: un AI che ascolta mentre parla?",
+      "Oggi gli assistenti interrompono o ignorano il feedback.",
+      "Il loro modello processa le reazioni in tempo reale.",
+      "Tu potresti correggere l'AI durante la conversazione.",
+      "Provalo ora: la prossima chat potrebbe non essere uguale."
+    ],
+    "thread_text": [
+      "Parlare con un assistente AI e poterlo correggere in tempo reale, proprio mentre parli. Funziona già.",
+      "Oggi gli assistenti ti interrompono o ignorano quello che dici dopo la prima frase. Il feedback serve solo a migliorare il modello successivo.",
+      "Il nuovo sistema processa le tue reazioni mentre parli. Rallenta, annuisce, cambia tono. Non è una registrazione, è una conversazione.",
+      "Se sbaglia, lo fermi. Gli dici di cambiare registro e lui si adatta subito. Non hai più bisogno di ripetere tutto da capo.",
+      "Costa meno di un abbonamento Netflix. Puoi testarlo oggi stesso."
+    ],
+    "video_script": [
+      "Parla con l'AI, lei ascolta davvero.",
+      "Gli assistenti oggi ti ignorano dopo un errore.",
+      "Questo modello processa le tue reazioni in tempo reale.",
+      "Puoi correggerlo mentre parli.",
+      "Prova ora, è già disponibile."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Correggi l'AI mentre parla",
+        "description": "Parlare con un assistente AI e correggerlo in tempo reale, mentre parli. Funziona già.",
+        "visual_hint": "persona parla e corregge AI",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "person talking to computer"
+      },
+      {
+        "hook": "Oggi ti interrompe o ignora",
+        "description": "Gli assistenti ti interrompono o ignorano il tuo feedback dopo la prima frase. Il feedback serve solo per il modello successivo.",
+        "visual_hint": "persona frustrata da assistente",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "frustrated person smartphone",
+        "image": "https://images.pexels.com/photos/6383268/pexels-photo-6383268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Processa le reazioni in diretta",
+        "description": "Il sistema processa le tue reazioni mentre parli: rallenta, annuisce, cambia tono. È una conversazione vera.",
+        "visual_hint": "animazione reazioni in tempo reale",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "real time data stream",
+        "image": "https://images.pexels.com/photos/10628032/pexels-photo-10628032.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Lo fermi, lo correggi, riparte",
+        "description": "Se sbaglia, lo fermi. Gli dici di cambiare registro e lui si adatta subito. Non devi ripetere tutto da capo.",
+        "visual_hint": "mano che ferma una macchina",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand stopping machine",
+        "image": "https://images.pexels.com/photos/6654752/pexels-photo-6654752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costa meno di Netflix",
+        "description": "Costa meno di un abbonamento Netflix. Puoi testarlo oggi stesso. La prossima chat potrebbe non essere uguale.",
+        "visual_hint": "confronto costo Netflix vs AI",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "Netflix subscription price",
+        "image": "https://images.pexels.com/photos/6235469/pexels-photo-6235469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2271655163.jpg?resize=1200,879",
+    "pubDate": "Tue, 12 May 2026 04:52:35 +0000",
+    "savedAt": "2026-05-12T06:32:22.521Z",
+    "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/"
+  },
+  {
     "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
     "slides": [
       "GM taglia IT umani per fare spazio all’IA?",
