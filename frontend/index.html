@@ -339,6 +339,16 @@
       appearance: none;
     }
     #agent-select option { background: #111; color: #fff; }
+    #agent-nav { position: absolute; right: 16px; display: flex; gap: 14px; }
+    #agent-nav a {
+      color: rgba(255,255,255,0.32);
+      text-decoration: none;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+    }
+    #agent-nav a:hover { color: rgba(255,255,255,0.75); }
 
     .feed { margin-top: 36px; }
   </style>
@@ -349,6 +359,10 @@
       <option value="ai-news">⚡ AI News</option>
       <option value="food">🍳 5 Step Food</option>
     </select>
+    <nav id="agent-nav">
+      <a href="review.html">Review</a>
+      <a href="carousel.html">Carousel</a>
+    </nav>
   </div>
   <div class="feed" id="feed"></div>
 

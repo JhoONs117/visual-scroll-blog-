@@ -17,12 +17,43 @@
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
       font-size: 16px;
       line-height: 1.6;
-      padding: 2rem 1rem 4rem;
+      padding: 0 0 4rem;
     }
+
+    .review-header {
+      background: #0d1120;
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+      padding: 8px 20px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    .review-agent-sel {
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.14);
+      color: #e2e8f0;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      padding: 4px 10px;
+      border-radius: 6px;
+      outline: none;
+      cursor: pointer;
+      -webkit-appearance: none;
+      appearance: none;
+    }
+    .review-agent-sel option { background: #0d1120; }
+    .review-header nav { margin-left: auto; display: flex; gap: 16px; }
+    .review-header a { color: rgba(255,255,255,0.38); text-decoration: none; font-size: 13px; transition: color 0.15s; }
+    .review-header a:hover { color: #94a3b8; }
 
     .container {
       max-width: 720px;
       margin: 0 auto;
+      padding: 2rem 1rem 0;
     }
 
     h1 {
@@ -175,8 +206,19 @@
   </style>
 </head>
 <body>
+  <div class="review-header">
+    <select class="review-agent-sel" id="agent-select">
+      <option value="ai-news">⚡ AI News</option>
+      <option value="food">🍳 5 Step Food</option>
+    </select>
+    <nav>
+      <a href="index.html">← Feed</a>
+      <a href="carousel.html">Carousel AI</a>
+      <a href="carousel-food.html">Carousel Food</a>
+    </nav>
+  </div>
   <div class="container">
-    <h1>Review articoli</h1>
+    <h1 id="review-title">Review articoli</h1>
     <div id="counter"></div>
     <div id="root"></div>
   </div>
@@ -257,12 +299,23 @@
 
     const root = document.getElementById('root');
     const counter = document.getElementById('counter');
+    const reviewTitle = document.getElementById('review-title');
+    const originalArticles = window.ARTICLES ? window.ARTICLES.slice() : [];
+    let foodLoaded = false;
 
-    if (!window.ARTICLES || window.ARTICLES.length === 0) {
-      root.innerHTML = '<p class="empty">Nessun articolo disponibile.</p>';
-    } else {
-      const withFormats = window.ARTICLES.filter(a => a.thread_text && a.thread_text.length);
-      const withoutFormats = window.ARTICLES.filter(a => !a.thread_text || !a.thread_text.length);
+    function renderReview(articles) {
+      root.innerHTML = '';
+      if (!articles || articles.length === 0) {
+        root.innerHTML = '<p class="empty">Nessun articolo disponibile.</p>';
+        counter.textContent = '';
+        return;
+      }
+
+      const isFood = articles[0] && articles[0].agent === 'food';
+      reviewTitle.textContent = isFood ? 'Review ricette' : 'Review articoli';
+
+      const withFormats = articles.filter(a => a.thread_text && a.thread_text.length);
+      const withoutFormats = articles.filter(a => !a.thread_text || !a.thread_text.length);
       const sorted = [...withFormats, ...withoutFormats];
 
       counter.textContent = `${withFormats.length} articoli completi · ${withoutFormats.length} senza formati`;
@@ -346,6 +399,26 @@
         root.appendChild(el);
       });
     }
+
+    renderReview(originalArticles);
+
+    document.getElementById('agent-select').addEventListener('change', async function() {
+      if (this.value === 'food') {
+        if (!foodLoaded) {
+          await new Promise((resolve, reject) => {
+            const s = document.createElement('script');
+            s.src = 'data-food.js';
+            s.onload = resolve;
+            s.onerror = reject;
+            document.head.appendChild(s);
+          });
+          foodLoaded = true;
+        }
+        renderReview(window.FOOD_ARTICLES || []);
+      } else {
+        renderReview(originalArticles);
+      }
+    });
   </script>
 </body>
 </html>

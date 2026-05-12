@@ -31,6 +31,21 @@
     .header nav { display: flex; gap: 16px; margin-left: auto; }
     .header a { color: rgba(255,255,255,0.4); text-decoration: none; font-size: 13px; transition: color 0.15s; }
     .header a:hover { color: #3B82F6; }
+    .header-agent-sel {
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.14);
+      color: #fff;
+      font-family: inherit;
+      font-size: 13px;
+      font-weight: 600;
+      padding: 4px 10px;
+      border-radius: 6px;
+      outline: none;
+      cursor: pointer;
+      -webkit-appearance: none;
+      appearance: none;
+    }
+    .header-agent-sel option { background: #0d1120; }
 
     /* ── SELECTOR BAR ── */
     .selector-bar {
@@ -462,9 +477,14 @@
 
 <div class="header">
   <h1>Carousel</h1>
+  <select class="header-agent-sel" onchange="if(this.value!=='ai-news') window.location.href=this.value; else this.value='ai-news'">
+    <option value="ai-news">⚡ AI News</option>
+    <option value="carousel-food.html">🍳 5 Step Food</option>
+  </select>
   <nav>
     <a href="index.html">← Feed</a>
     <a href="review.html">Review</a>
+    <a href="carousel-food.html">Carousel Food</a>
   </nav>
 </div>
 
