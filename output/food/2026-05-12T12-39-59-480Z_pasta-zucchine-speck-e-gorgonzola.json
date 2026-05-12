@@ -1,0 +1,84 @@
+{
+  "agent": "food",
+  "slug": "pasta-zucchine-speck-e-gorgonzola",
+  "sourceId": "a68b85e77cf93283390abce9c0f4de86",
+  "dish_type": "pasta",
+  "signature_ingredients": [
+    "zucchine",
+    "speck",
+    "gorgonzola"
+  ],
+  "title": "Pasta zucchine, speck e gorgonzola",
+  "slides": [
+    "Pasta cremosa senza panna",
+    "Linguine, zucchine, speck, gorgonzola",
+    "Rosola lo speck senza grassi",
+    "Aggiungi gorgonzola e acqua di cottura",
+    "Gorgonzola dolce per cremosità perfetta"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Pasta cremosa senza panna",
+      "description": "Una pasta vellutata e saporita, realizzata senza panna, con zucchine, speck e gorgonzola dolce.",
+      "visual_hint": "Pasta cremosa in forchetta",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "savory creamy pasta"
+    },
+    {
+      "hook": "Zucchine, speck, gorgonzola",
+      "description": "Tre ingredienti che si sposano alla perfezione per un primo ricco di gusto e colore.",
+      "visual_hint": "Ingredienti su tagliere",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "savory pasta zucchini",
+      "image": "https://images.pexels.com/photos/1373915/pexels-photo-1373915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rosola lo speck senza grassi",
+      "description": "In una padella antiaderente, rosola lo speck finché diventa croccante, senza aggiungere olio o burro.",
+      "visual_hint": "Speck croccante in padella",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "savory crispy speck",
+      "image": "https://images.pexels.com/photos/7375470/pexels-photo-7375470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Aggiungi gorgonzola e acqua",
+      "description": "Unisci il gorgonzola e un mestolo di acqua di cottura della pasta: mescola fino a formare una crema morbida.",
+      "visual_hint": "Gorgonzola che fonde in padella",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "savory melting gorgonzola",
+      "image": "https://images.pexels.com/photos/18363033/pexels-photo-18363033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Gorgonzola dolce per cremosità",
+      "description": "Usa gorgonzola dolce per una cremosità perfetta e un sapore delicato che conquista tutti.",
+      "visual_hint": "Pasta impiattata con zucchine",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "savory creamy pasta bowl",
+      "image": "https://images.pexels.com/photos/3820638/pexels-photo-3820638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "instagram_caption": "Cremosa al punto giusto, senza panna, ma con un cuore che si scioglie in bocca. 🍝✨  \n\nEcco la svolta: speck croccante rosolato a secco, zucchine tenere e una nuvola di gorgonzola dolce legata con l’acqua di cottura. Il segreto? Non serve altro per una cremosità perfetta.  \n\nLe linguine assorbono tutto, e ogni forchettata è un equilibrio tra sapido e vellutato.  \nProvala questo weekend, te ne innamorerai. 🌿🧀",
+  "video_script": [
+    "Filo le zucchine con la mandolina.",
+    "Rosolo lo speck senza grasso finché croccante.",
+    "Butto le linguine in acqua bollente.",
+    "Sciolgo il gorgonzola dolce con acqua di pasta.",
+    "Manteco tutto: che cremosità senza panna!"
+  ],
+  "thread_text": [
+    "Questa pasta è un colpo al cuore (e allo stomaco). Zucchine, speck e gorgonzola: senza panna, ma con una cremosità che ti fa chiudere gli occhi. 🍝",
+    "Linguine al dente, zucchine saltate, speck croccante e gorgonzola dolce. Pochi ingredienti, ma si devono sposare nel modo giusto.",
+    "Prima mossa: rosola lo speck in padella senza grassi. Diventa croccante e rilascia il suo sapore. Poi via dalla padella, lo aggiungi alla fine.",
+    "Nella stessa padella, fai saltare le zucchine a julienne. Sfuma con un mestolo di acqua di cottura, unisci il gorgonzola a pezzi e mescola fino a scioglierlo. Cremoso senza panna.",
+    "Trucco finale: usa gorgonzola dolce, non piccante. La cremosità è perfetta, e non copre il gusto dello speck. Provala e dimmi com'è andata 👇"
+  ],
+  "link": "https://ricette.giallozafferano.it/Pasta-zucchine-speck-e-gorgonzola.html",
+  "pubDate": "Tue, 28 Apr 2026 16:57:00 +0200",
+  "savedAt": "2026-05-12T12:41:14.056Z",
+  "image": "https://www.giallozafferano.it/images/361-36124/Pasta-zucchine-speck-e-gorgonzola_650x433_wm.jpg"
+}

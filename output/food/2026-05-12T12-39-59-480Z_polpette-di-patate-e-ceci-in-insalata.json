@@ -1,0 +1,84 @@
+{
+  "agent": "food",
+  "slug": "polpette-di-patate-e-ceci-in-insalata",
+  "sourceId": "1e1c6a6869d692fef37acad1e0750ab4",
+  "dish_type": "salad",
+  "signature_ingredients": [
+    "patate",
+    "ceci",
+    "Grana Padano"
+  ],
+  "title": "Polpette di patate e ceci in insalata",
+  "slides": [
+    "Polpette croccanti in fresca insalata primaverile.",
+    "Patate, ceci, Grana Padano, paprika dolce.",
+    "Schiaccia patate e frulla ceci con aglio.",
+    "Cuoci in padella 15 minuti girando spesso.",
+    "Scaglie di Grana Padano e citronette alla senape."
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Polpette croccanti in insalata primaverile",
+      "description": "Un piatto fresco e croccante, perfetto per la primavera. Polpette dorate su letto di insalata.",
+      "visual_hint": "Polpette su insalata verde",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "savory potato chickpea patties salad"
+    },
+    {
+      "hook": "Patate, ceci, Grana Padano",
+      "description": "Tre ingredienti semplici e genuini: patate dolci, ceci proteici e Grana Padano saporito.",
+      "visual_hint": "Ingredienti su tagliere",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "savory potato chickpea cheese ingredients",
+      "image": "https://images.pexels.com/photos/6066051/pexels-photo-6066051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Schiaccia e frulla",
+      "description": "Schiaccia le patate lesse, frulla i ceci con aglio. Un gesto chiave per un impasto cremoso.",
+      "visual_hint": "Mani che schiacciano patate",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "mashed potato chickpea dough hands",
+      "image": "https://images.pexels.com/photos/37316435/pexels-photo-37316435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "15 minuti in padella",
+      "description": "Cuoci le polpette in padella con un filo d’olio, girando spesso fino a doratura croccante.",
+      "visual_hint": "Polpette in padella",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "savory pan fried patties golden",
+      "image": "https://images.pexels.com/photos/37174233/pexels-photo-37174233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scaglie e citronette",
+      "description": "Completa con scaglie di Grana Padano e una citronette alla senape. Il tocco finale che esalta tutto.",
+      "visual_hint": "Polpette impiattate con scaglie",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "savory potato chickpea salad plating",
+      "image": "https://images.pexels.com/photos/6066051/pexels-photo-6066051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "instagram_caption": "Primavera, croccantezza e una sorpresa tutta vegetale. Queste polpette di patate e ceci con Grana Padano e paprika dolce sono un abbraccio in insalata. Frullo i ceci con l’aglio, unisco le patate schiacciate, formo le polpette e le rendo doratissime in padella. Il resto è un trionfo di freschezza: scaglie di Grana Padano e una citronette alla senape che le esalta tutte. Un piatto che sa di buono e di vero. Provala questo weekend 🌿✨",
+  "video_script": [
+    "Polpette croccanti in insalata primaverile, ecco come nascono.",
+    "Patate, ceci, Grana Padano e paprika dolce.",
+    "Schiaccio le patate e frullo i ceci con aglio.",
+    "Cuocio in padella 15 minuti, giro spesso.",
+    "Scaglie di Grana Padano e citronette alla senape."
+  ],
+  "thread_text": [
+    "C’è chi fa polpette e le anneg nel sugo. Io le verso in un’insalata croccante e le saluto così. 🥗 Polpette di patate e ceci, Grana Padano a scaglie, citronette che spacca. Fame da record, lo so.",
+    "Patate, ceci, Grana Padano, paprika dolce. Schiaccia le patate, frulla i ceci con uno spicchio d’aglio. Impasta tutto, forma polpette piccole: devono diventare croccanti fuori e cremose dentro. Sembra facile, ma il segreto è il Grana.",
+    "Padella antiaderente, olio caldo. Cuoci 15 minuti, girandole spesso. Qui fai la magia: prendono colore da una parte e dall’altra, senza bruciare. La paprika dolce si tosta appena e sprigiona tutto.",
+    "Mentre le polpette riposano, prepara l’insalata: rucola, scaglie di Grana Padano, e la citronette più semplice ma efficace: olio, limone, un cucchiaino di senape. Mescola, aggiungi le polpette ancora tiepide. Contrasto assurdo.",
+    "Trucco finale: una spolverata di paprika prima di servire e un filo d’olio crudo a crudo. Provale così e dimmi com’è andata. Io le rifaccio già domani. 👇"
+  ],
+  "link": "https://ricette.giallozafferano.it/Polpette-di-patate-e-ceci-in-insalata.html",
+  "pubDate": "Mon, 04 May 2026 16:07:00 +0200",
+  "savedAt": "2026-05-12T12:40:26.936Z",
+  "image": "https://www.giallozafferano.it/images/361-36118/Polpette-di-patate-e-ceci-in-insalata_650x433_wm.jpg"
+}
