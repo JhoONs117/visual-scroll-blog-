@@ -309,21 +309,61 @@
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
       font-size: 18px;
     }
+
+    /* ── Agent bar ── */
+    #agent-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 36px;
+      z-index: 100;
+      background: rgba(0, 0, 0, 0.92);
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    #agent-select {
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.15);
+      color: #fff;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      padding: 3px 12px;
+      border-radius: 6px;
+      outline: none;
+      cursor: pointer;
+      -webkit-appearance: none;
+      appearance: none;
+    }
+    #agent-select option { background: #111; color: #fff; }
+
+    .feed { margin-top: 36px; }
   </style>
 </head>
 <body>
+  <div id="agent-bar">
+    <select id="agent-select">
+      <option value="ai-news">⚡ AI News</option>
+      <option value="food">🍳 5 Step Food</option>
+    </select>
+  </div>
   <div class="feed" id="feed"></div>
 
   <script src="data.js"></script>
   <script>
     /* Calcola dimensioni precise dalla viewport reale */
+    const AGENT_BAR_H = 36;
+
     function setSizes() {
       /* clientWidth esclude scrollbar — più affidabile di 100vw su Android */
       const w = document.documentElement.clientWidth;
       /* visualViewport.height esclude la barra indirizzi di Chrome Android */
       const h = window.visualViewport ? window.visualViewport.height : window.innerHeight;
       document.documentElement.style.setProperty('--slide-w', w + 'px');
-      document.documentElement.style.setProperty('--vh', h * 0.01 + 'px');
+      document.documentElement.style.setProperty('--vh', (h - AGENT_BAR_H) * 0.01 + 'px');
     }
     setSizes();
     if (window.visualViewport) {
@@ -393,13 +433,27 @@
     };
 
     const feed = document.getElementById('feed');
+    const originalArticles = window.ARTICLES ? window.ARTICLES.slice() : [];
+    let foodLoaded = false;
+    let activeObserver = null;
 
-    if (!window.ARTICLES || window.ARTICLES.length === 0) {
-      feed.innerHTML = '<div class="empty">Nessun articolo disponibile</div>';
-    } else {
+    function renderFeed(articles) {
+      if (activeObserver) {
+        activeObserver.disconnect();
+        activeObserver = null;
+      }
+      feed.innerHTML = '';
+      feed.scrollTop = 0;
+
+      if (!articles || articles.length === 0) {
+        feed.innerHTML = '<div class="empty">Nessun articolo disponibile</div>';
+        return;
+      }
+
+      const isFood = articles[0] && articles[0].agent === 'food';
       let hintDismissed = false;
 
-      window.ARTICLES.forEach((article, articleIndex) => {
+      articles.forEach((article, articleIndex) => {
         const story = document.createElement('div');
         story.className = 'story';
 
@@ -440,7 +494,7 @@
           const l1 = document.createElement('div'); l1.className = 'badge-line';
           const badge = document.createElement('div');
           badge.className = 'slide-badge';
-          badge.textContent = BADGES[i] || 'AI';
+          badge.textContent = isFood ? '5 STEP FOOD' : (BADGES[i] || 'AI');
           const l2 = document.createElement('div'); l2.className = 'badge-line';
           badgeRow.appendChild(l1);
           badgeRow.appendChild(badge);
@@ -485,7 +539,8 @@
           titleLink.target = '_blank';
           titleLink.rel = 'noopener noreferrer';
           titleLink.textContent = article.title;
-          src.appendChild(document.createTextNode('AI News' + (ago ? ' · ' + ago : '') + ' · '));
+          const agentLabel = isFood ? '5 Step Food' : 'AI News';
+          src.appendChild(document.createTextNode(agentLabel + (ago ? ' · ' + ago : '') + ' · '));
           src.appendChild(titleLink);
           capWrap.appendChild(src);
 
@@ -534,7 +589,7 @@
       });
 
       /* Reset a slide 1 al cambio articolo */
-      const observer = new IntersectionObserver(entries => {
+      activeObserver = new IntersectionObserver(entries => {
         entries.forEach(entry => {
           if (entry.isIntersecting && entry.intersectionRatio > 0.6) {
             const s = entry.target;
@@ -545,7 +600,7 @@
         });
       }, { threshold: 0.6 });
 
-      feed.querySelectorAll('.story').forEach(s => observer.observe(s));
+      feed.querySelectorAll('.story').forEach(s => activeObserver.observe(s));
 
       /*
        * Touch handler: solo per il caso "ultima slide + swipe sinistra → prossima news".
@@ -568,13 +623,34 @@
             if (Math.abs(dx) > Math.abs(dy) && dx < -50) {
               const atEnd = story.scrollLeft + story.clientWidth >= story.scrollWidth - 4;
               if (atEnd) {
-                feed.scrollBy({ top: window.innerHeight, behavior: 'smooth' });
+                feed.scrollBy({ top: feed.clientHeight, behavior: 'smooth' });
               }
             }
           }, { passive: true });
         });
       }
     }
+
+    renderFeed(originalArticles);
+
+    document.getElementById('agent-select').addEventListener('change', async function() {
+      const val = this.value;
+      if (val === 'food') {
+        if (!foodLoaded) {
+          await new Promise((resolve, reject) => {
+            const s = document.createElement('script');
+            s.src = 'data-food.js';
+            s.onload = resolve;
+            s.onerror = reject;
+            document.head.appendChild(s);
+          });
+          foodLoaded = true;
+        }
+        renderFeed(window.FOOD_ARTICLES || []);
+      } else {
+        renderFeed(originalArticles);
+      }
+    });
   </script>
 </body>
 </html>
