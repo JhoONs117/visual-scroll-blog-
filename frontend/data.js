@@ -1,5 +1,155 @@
 window.ARTICLES = [
   {
+    "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
+    "slides": [
+      "Poppy promette di organizzare la tua vita digitale. Ma a che costo?",
+      "L’IA non aspetta: agisce prima che tu chieda.",
+      "Scansiona file e calendari senza che tu le dia permesso esplicito.",
+      "Tu risparmi 2 ore al giorno, ma cedi accesso totale ai dati.",
+      "Provala oggi. Poi decidi dove sta il vero confine."
+    ],
+    "thread_text": [
+      "Poppy scansiona i tuoi file e il calendario prima ancora che tu dia il permesso. Nessuno ti avvisa.",
+      "L'idea è semplice: risparmi due ore al giorno. In cambio, l'IA agisce prima che tu chieda e legge tutto.",
+      "Non devi più organizzare nulla. Lei decide cosa è importante per te. Anche dati che non hai mai condiviso.",
+      "Il costo non è in denaro, ma in accesso totale: email, documenti, appuntamenti. Tutto visibile.",
+      "Provala oggi. Poi guarda quanta parte della tua vita hai esposto senza accorgertene."
+    ],
+    "video_script": [
+      "Poppy organizza la tua vita digitale.",
+      "Ma a quale costo?",
+      "Agisce prima che tu chieda.",
+      "Scansiona file e calendari.",
+      "Risparmi due ore al giorno."
+    ],
+    "instagram_caption": "Poppy scansiona i tuoi file e il calendario prima ancora che tu dia il permesso esplicito. 🕵️‍♂️ È un assistente AI proattivo: non aspetta ordini, agisce da solo per organizzarti la giornata. In cambio, ottieni due ore risparmiate al giorno, ma lui legge ogni email, documento e appuntamento. 📂 Per te significa non dover più decidere cosa è prioritario: lo fa l’algoritmo. ⏱️ Quanta parte della tua vita sei disposto a esporre senza accorgertene?",
+    "carousel_slides": [
+      {
+        "hook": "Lei agisce prima di te.",
+        "description": "Poppy scansiona file e calendario senza permesso esplicito. Nessuno ti avvisa.",
+        "visual_hint": "Occhio digitale che scruta",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Risparmi tempo. A che prezzo?",
+        "description": "L’idea è semplice: risparmi due ore al giorno. In cambio, l’IA legge tutto.",
+        "visual_hint": "Orologio con ingranaggi",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "wind turbine",
+        "image": "https://images.pexels.com/photos/32268499/pexels-photo-32268499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Lei decide cosa è importante.",
+        "description": "Non devi più organizzare nulla. Poppy decide cosa conta, anche dati mai condivisi.",
+        "visual_hint": "Dossier aperti da solo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Accesso totale, non denaro.",
+        "description": "Il costo è in accesso totale: email, documenti, appuntamenti. Tutto visibile.",
+        "visual_hint": "Documenti con occhi sopra",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Provala. Poi giudica il confine.",
+        "description": "Prova oggi. Poi guarda quanta parte della vita hai esposto senza accorgertene.",
+        "visual_hint": "Confine tracciato con gesso",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/13223714/pexels-photo-13223714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/poppy-header.jpeg?resize=1200,727",
+    "pubDate": "Wed, 13 May 2026 13:27:09 +0000",
+    "savedAt": "2026-05-13T14:13:25.142Z",
+    "link": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/"
+  },
+  {
+    "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+    "slides": [
+      "Anthropic ha superato OpenAI nei clienti business, ma come?",
+      "I dati Ramp mostrano una crescita concentrata in un trimestre",
+      "OpenAI domina il consumer, ma perde le aziende su un dettaglio",
+      "Se usi API AI, il fornitore meno noto potrebbe costarti meno oggi",
+      "Controlla i tuoi fornitori: la classifica cambia ogni mese."
+    ],
+    "thread_text": [
+      "OpenAI perde le aziende per un dettaglio: la personalizzazione del modello. Anthropic glielo sta rubando sotto il naso.",
+      "I dati Ramp mostrano che la crescita di Anthropic è esplosa in un solo trimestre. Non è un trend lungo, è un'accelerazione improvvisa.",
+      "OpenAI domina ancora il consumer. Ma nel business B2B, il fornitore che ascolta i tuoi dati vince.",
+      "Se usi API AI, il fornitore meno noto potrebbe costarti meno oggi. Ma controlla la classifica ogni mese: cambia.",
+      "Quanto stai pagando per ogni chiamata API? Probabilmente il 30% in più del necessario. Cambia fornitore e testalo questa settimana."
+    ],
+    "video_script": [
+      "OpenAI perde le aziende per un dettaglio.",
+      "Anthropic cresce in un solo trimestre.",
+      "OpenAI domina il consumer, ma non le aziende.",
+      "Il fornitore meno noto costa meno oggi.",
+      "La classifica cambia ogni mese: controllala."
+    ],
+    "instagram_caption": "Anthropic ha superato OpenAI nei clienti business, stando ai pagamenti tracciati da Ramp 📊.\n\nI dati mostrano una crescita improvvisa in un solo trimestre: il motivo? Le aziende scelgono chi permette di addestrare il modello sui propri dati, non solo la potenza generica. OpenAI domina ancora tra gli utenti normali, ma perde il B2B su questo dettaglio.\n\nSe usi API AI per lavoro, oggi potresti pagare il 30% in più del necessario cambiando fornitore 💡. Controlla la classifica ogni mese: cambia tutto. Quanto spendi tu per ogni chiamata? ⏳💸",
+    "carousel_slides": [
+      {
+        "hook": "Perdi clienti per un dettaglio",
+        "description": "OpenAI perde aziende per la personalizzazione. Anthropic glielo sta rubando sotto il naso.",
+        "visual_hint": "Grafico a barre che si incrociano",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart bars"
+      },
+      {
+        "hook": "Crescita esplosiva in un trimestre",
+        "description": "I dati Ramp mostrano un'accelerazione improvvisa di Anthropic. Non un trend lungo, ma un balzo netto.",
+        "visual_hint": "Linea del grafico che sale",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "line chart growth",
+        "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Consumer vs B2B: vince chi ascolta",
+        "description": "OpenAI domina il consumer. Ma nel business, il fornitore che adatta il modello ai tuoi dati vince.",
+        "visual_hint": "Due schermi affiancati",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "two computer monitors",
+        "image": "https://images.pexels.com/photos/5473313/pexels-photo-5473313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il meno noto costa meno oggi",
+        "description": "Se usi API AI, fornitore meno noto = costo inferiore. Ma controlla ogni mese: la classifica cambia.",
+        "visual_hint": "Manoscritta su calcolatrice",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "calculator coins counting",
+        "image": "https://images.pexels.com/photos/8872344/pexels-photo-8872344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Paghi il 30% in più del necessario",
+        "description": "Quanto spendi per chiamata API? Cambia fornitore e testa questa settimana. Il risparmio è immediato.",
+        "visual_hint": "Frecce verdi in discesa",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "downward arrows green",
+        "image": "https://images.pexels.com/photos/8533629/pexels-photo-8533629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?resize=1200,800",
+    "pubDate": "Wed, 13 May 2026 14:00:00 +0000",
+    "savedAt": "2026-05-13T14:13:09.577Z",
+    "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/"
+  },
+  {
     "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
     "slides": [
       "Hugging Face ha ospitato codice malevolo, e non era un test?",
