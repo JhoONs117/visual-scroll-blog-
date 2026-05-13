@@ -1,5 +1,80 @@
 window.ARTICLES = [
   {
+    "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
+    "slides": [
+      "Hugging Face ha ospitato codice malevolo, e non era un test?",
+      "Il malware si fingeva una release ufficiale di OpenAI",
+      "Gli sviluppatori l'hanno scaricato migliaia di volte prima del blocco",
+      "Se non controlli gli hash dei pacchetti, chi lo fa?",
+      "Verifica sempre la firma prima di eseguire qualsiasi modello"
+    ],
+    "thread_text": [
+      "Un malware mascherato da update ufficiale di OpenAI è stato scaricato migliaia di volte su Hugging Face prima che qualcuno lo fermasse.",
+      "Il pacchetto malevolo sfruttava il nome e la reputazione di OpenAI per sembrare legittimo. Sul repository ufficiale.",
+      "Hugging Face l'ha rimosso solo dopo che sviluppatori ignari avevano già eseguito il codice su macchine locali.",
+      "La piattaforma ha dichiarato che non era un test autorizzato. Significa che chiunque può caricare codice infetto su un hub fidato.",
+      "Controlli l'hash SHA256 di ogni modello prima di caricarlo? Se no, qualcun altro lo sta facendo al posto tuo — e non sempre in tempo."
+    ],
+    "video_script": [
+      "Un finto aggiornamento di OpenAI su Hugging Face.",
+      "Sembrava ufficiale, ma era malware puro.",
+      "Scaricato migliaia di volte da sviluppatori veri.",
+      "Hugging Face non era parte del test.",
+      "Prima di eseguire un modello, verifica la firma."
+    ],
+    "instagram_caption": "Un malware camuffato da aggiornamento ufficiale di OpenAI è stato scaricato migliaia di volte su Hugging Face prima che qualcuno lo rimuovesse. 🧐\n\nIl codice infetto sfruttava il nome di OpenAI per sembrare legittimo, e gli sviluppatori lo hanno eseguito sulle loro macchine locali, credendo fosse una release autentica. La piattaforma ha precisato che non era un test autorizzato. 🔍\n\nPer te: se non controlli l'hash SHA256 dei pacchetti che scarichi, qualcun altro lo fa al posto tuo — ma non sempre in tempo. ⚠️\n\nQuanti di voi verificano la firma di ogni modello prima di eseguirlo? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Scaricato migliaia di volte",
+        "description": "Malware mascherato da update OpenAI scaricato migliaia di volte su Hugging Face prima del blocco.",
+        "visual_hint": "Conteggio download che sale",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "server room lights"
+      },
+      {
+        "hook": "Finto aggiornamento OpenAI",
+        "description": "Il malware sfruttava nome e reputazione OpenAI sul repository ufficiale per sembrare legittimo.",
+        "visual_hint": "Logo OpenAI contraffatto",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "OpenAI logo",
+        "image": "https://images.pexels.com/photos/16245254/pexels-photo-16245254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Codice già eseguito",
+        "visual_hint": "Icona pericolo lampeggiante",
+        "description": "Hugging Face ha rimosso il pacchetto solo dopo che sviluppatori avevano già eseguito il codice infetto.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer terminal screen",
+        "image": "https://images.pexels.com/photos/9830811/pexels-photo-9830811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non era un test",
+        "description": "Non era un test autorizzato. Chiunque può caricare codice infetto su un hub fidato.",
+        "visual_hint": "Mano che clicca invio",
+        "layout_type": "human-hand",
+        "icon": "waves",
+        "image_query": "hand typing keyboard",
+        "image": "https://images.pexels.com/photos/5077052/pexels-photo-5077052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Controlli l'hash SHA256?",
+        "description": "Verifica sempre hash SHA256 dei modelli prima di caricarli. Qualcuno lo fa al posto tuo, non sempre in tempo.",
+        "visual_hint": "Checklist di sicurezza",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "security lock icon",
+        "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/hugging-face-malware-hero_x1440.webp",
+    "pubDate": "Tue, 12 May 2026 13:52:00 +0000",
+    "savedAt": "2026-05-13T10:15:13.435Z",
+    "link": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/"
+  },
+  {
     "title": "Threads tests a Meta AI integration that works similarly to Grok",
     "slides": [
       "Threads testa una funzione AI che ricorda Grok.",
