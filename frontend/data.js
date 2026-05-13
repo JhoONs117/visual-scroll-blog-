@@ -1,5 +1,155 @@
 window.ARTICLES = [
   {
+    "title": "Anduril raises $5B, doubles valuation to $61B",
+    "slides": [
+      "Anduril ha raccolto $5B, ma chi ci ha davvero puntato?",
+      "La valutazione è raddoppiata a $61B in un solo round.",
+      "Non è solo difesa: la loro AI è già in Ucraina.",
+      "Governi e aziende civili ora devono scegliere se adottarla.",
+      "Il vero test? Se la tecnologia supererà i conflitti attuali."
+    ],
+    "thread_text": [
+      "L'AI di Anduril è già in Ucraina, usata in combattimento reale. Non serve aspettare un conflitto futuro per testarla.",
+      "Anduril ha appena raccolto 5 miliardi di dollari in un solo round, portando la valutazione a 61 miliardi. Investitori pesanti, ma non solo governi.",
+      "Il sistema non è solo difesa: aziende civili e amministrazioni pubbliche iniziano a integrarlo per logistica e sorveglianza. Scelta obbligata.",
+      "Il vero banco di prova è se questa tecnologia reggerà sotto pressione reale. Ucraina è solo l'inizio.",
+      "Sei un ente pubblico o privato? La domanda non è se adottarla, ma se puoi permetterti di non farlo entro i prossimi 12 mesi."
+    ],
+    "video_script": [
+      "Anduril ha raccolto 5 miliardi.",
+      "Valutazione salita a 61 miliardi.",
+      "La loro AI è già in Ucraina.",
+      "Governi e aziende devono scegliere.",
+      "Il test è nei conflitti attuali."
+    ],
+    "instagram_caption": "Anduril ha raccolto 5 miliardi di dollari in un colpo solo, e la sua valutazione è volata a 61 miliardi di dollari. 💰 Non è solo un giro di soldi: la loro AI è già stata schierata in Ucraina, testata in combattimento reale. 🎯 Il sistema non sta solo nei carri armati, ma entra nella logistica civile e nella sorveglianza pubblica. 🏢 Per te che lavori in un ente o in un’azienda, la scelta non è se adottarlo: è se potrai permetterti di non farlo nei prossimi 12 mesi. ⏳ Sei già pronto a integrarlo, o aspetti il conflitto successivo? 🤖",
+    "carousel_slides": [
+      {
+        "hook": "La loro AI è già in Ucraina",
+        "description": "L'AI di Anduril è già in Ucraina, usata in combattimento reale. Non serve aspettare un conflitto futuro per testarla.",
+        "visual_hint": "drone militare su campo di battaglia",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "military drone battlefield"
+      },
+      {
+        "hook": "5 miliardi in un round",
+        "description": "Anduril ha raccolto $5B in un round, portando la valutazione a $61B. Investitori pesanti, non solo governi.",
+        "visual_hint": "grafico azionario con impennata",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non solo difesa",
+        "description": "Il sistema è già integrato da aziende civili e amministrazioni per logistica e sorveglianza. Scelta obbligata.",
+        "visual_hint": "sala server con luci LED",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il banco di prova è adesso",
+        "description": "Il vero test è se la tecnologia reggerà sotto pressione reale. Ucraina è solo l'inizio.",
+        "visual_hint": "soldato che osserva schermo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/4543925/pexels-photo-4543925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Puoi permetterti di aspettare?",
+        "description": "La domanda non è se adottarla, ma se puoi permetterti di non farlo entro i prossimi 12 mesi.",
+        "visual_hint": "edifici governativi dall'alto",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "government buildings",
+        "image": "https://images.pexels.com/photos/32386654/pexels-photo-32386654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/brian-schimpf_a6f588.png?w=864",
+    "pubDate": "Wed, 13 May 2026 14:44:25 +0000",
+    "savedAt": "2026-05-13T21:19:19.740Z",
+    "link": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/"
+  },
+  {
+    "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+    "slides": [
+      "xAI accende 50 turbine in Mississippi senza controlli ambientali?",
+      "I permessi locali non coprono le emissioni reali del sito.",
+      "L'energia basta per città, ma l'aria resta non monitorata.",
+      "Tu vivi vicino? I dati sulla qualità non sono pubblici.",
+      "Chiedi i report: chi paga il costo nascosto dell'inferenza?"
+    ],
+    "thread_text": [
+      "Tu vivi vicino a un data center AI? La qualità dell'aria nella tua zona potrebbe non essere monitorata — e nessuno è obbligato a pubblicare i dati.",
+      "xAI ha attivato 50 turbine in Mississippi. I permessi locali coprono l’energia, ma non le emissioni reali del sito.",
+      "L’energia prodotta basterebbe per una città intera. L’aria intorno, però, resta senza controlli pubblici.",
+      "Se abiti lì, non hai modo di sapere cosa respiri. I report sulla qualità non sono disponibili.",
+      "Chi paga il costo nascosto di ogni inferenza? Chiedi i dati ambientali del tuo distretto. Se non li ottieni, chiedi perché."
+    ],
+    "video_script": [
+      "Sei vicino a un data center AI?",
+      "Controllano l’energia ma non l’aria.",
+      "50 turbine in Mississippi già accese.",
+      "I dati sulla qualità sono nascosti.",
+      "Chiedi i report: chi paga il conto?"
+    ],
+    "instagram_caption": "In Mississippi, 50 turbine a gas — l’energia di una piccola città — girano senza controllo pubblico sulle emissioni. xAI le ha attivate per il suo data center, ma i permessi locali coprono solo la potenza, non ciò che esce dai camini. Chi vive nei dintorni non ha accesso ai dati sulla qualità dell’aria. Ogni volta che usi un’AI, quel costo resta invisibile. Chi chiede i report? 🌍💨⚡",
+    "carousel_slides": [
+      {
+        "hook": "Abbastanza energia per una città",
+        "description": "L'energia basterebbe per una città intera, ma l'aria intorno resta senza controlli pubblici.",
+        "visual_hint": "turbine a gas in campo",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "gas turbines field"
+      },
+      {
+        "hook": "Permessi che ignorano l'aria",
+        "description": "xAI ha attivato 50 turbine in Mississippi. I permessi coprono l'energia, ma non le emissioni reali.",
+        "visual_hint": "documenti legali e camino",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "industrial chimney smoke",
+        "image": "https://images.pexels.com/photos/2155988/pexels-photo-2155988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cosa respiri? Nessun dato",
+        "description": "Se abiti lì, non hai modo di sapere cosa respiri. I report sulla qualità dell'aria non sono pubblici.",
+        "visual_hint": "sensore aria disattivato",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "air quality sensor",
+        "image": "https://images.pexels.com/photos/32079706/pexels-photo-32079706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Vicino a un data center AI?",
+        "description": "La qualità dell'aria nella tua zona potrebbe non essere monitorata e nessuno pubblica i dati.",
+        "visual_hint": "persona con mascherina",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person with mask",
+        "image": "https://images.pexels.com/photos/7431433/pexels-photo-7431433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Chi paga il costo dell'inferenza?",
+        "description": "Chiedi i dati ambientali del tuo distretto. Se non li ottieni, chiedi perché.",
+        "visual_hint": "fumaioli industriali scuri",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "dark industrial smokestacks",
+        "image": "https://images.pexels.com/photos/28308516/pexels-photo-28308516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+    "pubDate": "Wed, 13 May 2026 19:49:42 +0000",
+    "savedAt": "2026-05-13T21:19:09.014Z",
+    "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/"
+  },
+  {
     "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
     "slides": [
       "AutoScientist: quando l'AI addestra l'AI senza umani?",

@@ -1,0 +1,75 @@
+{
+  "title": "Anduril raises $5B, doubles valuation to $61B",
+  "slides": [
+    "Anduril ha raccolto $5B, ma chi ci ha davvero puntato?",
+    "La valutazione è raddoppiata a $61B in un solo round.",
+    "Non è solo difesa: la loro AI è già in Ucraina.",
+    "Governi e aziende civili ora devono scegliere se adottarla.",
+    "Il vero test? Se la tecnologia supererà i conflitti attuali."
+  ],
+  "thread_text": [
+    "L'AI di Anduril è già in Ucraina, usata in combattimento reale. Non serve aspettare un conflitto futuro per testarla.",
+    "Anduril ha appena raccolto 5 miliardi di dollari in un solo round, portando la valutazione a 61 miliardi. Investitori pesanti, ma non solo governi.",
+    "Il sistema non è solo difesa: aziende civili e amministrazioni pubbliche iniziano a integrarlo per logistica e sorveglianza. Scelta obbligata.",
+    "Il vero banco di prova è se questa tecnologia reggerà sotto pressione reale. Ucraina è solo l'inizio.",
+    "Sei un ente pubblico o privato? La domanda non è se adottarla, ma se puoi permetterti di non farlo entro i prossimi 12 mesi."
+  ],
+  "video_script": [
+    "Anduril ha raccolto 5 miliardi.",
+    "Valutazione salita a 61 miliardi.",
+    "La loro AI è già in Ucraina.",
+    "Governi e aziende devono scegliere.",
+    "Il test è nei conflitti attuali."
+  ],
+  "instagram_caption": "Anduril ha raccolto 5 miliardi di dollari in un colpo solo, e la sua valutazione è volata a 61 miliardi di dollari. 💰 Non è solo un giro di soldi: la loro AI è già stata schierata in Ucraina, testata in combattimento reale. 🎯 Il sistema non sta solo nei carri armati, ma entra nella logistica civile e nella sorveglianza pubblica. 🏢 Per te che lavori in un ente o in un’azienda, la scelta non è se adottarlo: è se potrai permetterti di non farlo nei prossimi 12 mesi. ⏳ Sei già pronto a integrarlo, o aspetti il conflitto successivo? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "La loro AI è già in Ucraina",
+      "description": "L'AI di Anduril è già in Ucraina, usata in combattimento reale. Non serve aspettare un conflitto futuro per testarla.",
+      "visual_hint": "drone militare su campo di battaglia",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "military drone battlefield"
+    },
+    {
+      "hook": "5 miliardi in un round",
+      "description": "Anduril ha raccolto $5B in un round, portando la valutazione a $61B. Investitori pesanti, non solo governi.",
+      "visual_hint": "grafico azionario con impennata",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non solo difesa",
+      "description": "Il sistema è già integrato da aziende civili e amministrazioni per logistica e sorveglianza. Scelta obbligata.",
+      "visual_hint": "sala server con luci LED",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il banco di prova è adesso",
+      "description": "Il vero test è se la tecnologia reggerà sotto pressione reale. Ucraina è solo l'inizio.",
+      "visual_hint": "soldato che osserva schermo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/4543925/pexels-photo-4543925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Puoi permetterti di aspettare?",
+      "description": "La domanda non è se adottarla, ma se puoi permetterti di non farlo entro i prossimi 12 mesi.",
+      "visual_hint": "edifici governativi dall'alto",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "government buildings",
+      "image": "https://images.pexels.com/photos/32386654/pexels-photo-32386654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/07/brian-schimpf_a6f588.png?w=864",
+  "pubDate": "Wed, 13 May 2026 14:44:25 +0000",
+  "savedAt": "2026-05-13T21:19:19.740Z",
+  "link": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/"
+}
