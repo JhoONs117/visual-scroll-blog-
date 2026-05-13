@@ -1,5 +1,155 @@
 window.ARTICLES = [
   {
+    "title": "Threads tests a Meta AI integration that works similarly to Grok",
+    "slides": [
+      "Threads testa una funzione AI che ricorda Grok.",
+      "Meta integra un assistente nei post pubblici.",
+      "Ma i dati degli utenti potrebbero addestrare il modello.",
+      "Chi pubblica ora potrebbe alimentare l'AI di Meta.",
+      "Controlla le impostazioni prima di scrivere il prossimo post."
+    ],
+    "thread_text": [
+      "I tuoi post pubblici su Meta potrebbero finire per addestrare l'AI. Senza un avviso chiaro.",
+      "L'articolo spiega che Meta sta testando un assistente AI nei commenti pubblici — simile a Grok di X.",
+      "Il problema? I tuoi dati pubblici potrebbero diventare dati di training per il modello, senza che tu lo sappia.",
+      "Ogni post che scrivi ora potrebbe essere usato per migliorare l'AI di Meta. Anche senza una notifica esplicita.",
+      "Controlla subito le impostazioni privacy del tuo account e disattiva l’uso dei dati per l’addestramento. Fallo oggi."
+    ],
+    "video_script": [
+      "I tuoi post pubblici su Meta",
+      "potrebbero addestrare la loro nuova AI.",
+      "L’assistente simile a Grok",
+      "legge tutto quello che scrivi.",
+      "Controlla le impostazioni. Subito."
+    ],
+    "instagram_caption": "Ogni post pubblico che scrivi su Threads ora potrebbe finire per addestrare la nuova AI di Meta. Nessun avviso chiaro avvisa gli utenti. Il social sta testando un assistente nei commenti pubblici, come fa già Grok su X ⚙️ Il problema concreto? I tuoi dati pubblici rischiano di diventare materiale di training senza che tu venga informato esplicitamente. Controlla subito le impostazioni privacy del tuo account: disattiva l’uso dei dati per l’addestramento se vuoi evitare di alimentare il modello 🤖. Sai già dove trovare quella spunta?",
+    "carousel_slides": [
+      {
+        "hook": "I tuoi post addestrano l'AI",
+        "description": "Meta testa un assistente AI nei commenti. I dati pubblici potrebbero diventare training set senza preavviso.",
+        "visual_hint": "icona AI su post pubblico",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "social media comments"
+      },
+      {
+        "hook": "Assistente simile a Grok",
+        "description": "Meta integra un AI assistant nei thread pubblici, proprio come fa X con Grok. Ma senza trasparenza.",
+        "visual_hint": "chatbot interfaccia confronto",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "chatbot interface",
+        "image": "https://images.pexels.com/photos/16027823/pexels-photo-16027823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Dati usati senza notifica",
+        "description": "I tuoi post pubblici potrebbero finire nei dati di training del modello AI di Meta. Nessun avviso chiaro.",
+        "visual_hint": "dati che fluiscono in AI",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data flow server",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ogni post ora conta",
+        "description": "Qualsiasi cosa pubblichi oggi potrebbe migliorare l'AI di Meta. Anche senza una notifica esplicita.",
+        "visual_hint": "mani che scrivono post",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands typing phone",
+        "image": "https://images.pexels.com/photos/4921398/pexels-photo-4921398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Proteggi i tuoi dati ora",
+        "description": "Controlla le impostazioni privacy e disattiva l'uso dei dati per l'addestramento AI. Fallo subito.",
+        "visual_hint": "impostazioni privacy schermo",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "privacy settings screen",
+        "image": "https://images.pexels.com/photos/6943446/pexels-photo-6943446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/threads-finger-GettyImages-2232887912.jpg?w=1024",
+    "pubDate": "Tue, 12 May 2026 16:34:36 +0000",
+    "savedAt": "2026-05-13T02:25:47.036Z",
+    "link": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/"
+  },
+  {
+    "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+    "slides": [
+      "Medicare's new model pays for AI decision support—but who knew?",
+      "Reimbursement now covers AI tools that assist clinical choices.",
+      "Most tech firms aren't even applying for this hidden opportunity.",
+      "Your AI could unlock direct Medicare revenue—if you act now.",
+      "Check eligibility today; the window won't stay open long."
+    ],
+    "thread_text": [
+      "La maggior parte delle aziende tech non sa che Medicare paga già per l'AI. E non sta facendo domanda.",
+      "Il modello esiste da mesi: rimborso federale per strumenti che supportano le decisioni cliniche.",
+      "Mentre le startup inseguono round di venture capital, c'è un flusso diretto di entrate già attivo.",
+      "Chi si muove ora può sbloccare revenue Medicare senza passare da ospedali o intermediari.",
+      "L'applicazione è aperta. Non hai ancora verificato la tua eleggibilità? Fallo entro questa settimana."
+    ],
+    "video_script": [
+      "Medicare paga per la tua AI. Davvero.",
+      "Rimborso diretto per supporto decisionale clinico.",
+      "Quasi nessuna tech lo sa.",
+      "Puoi incassare subito. Basta fare domanda.",
+      "La finestra è adesso. Non chiuderla."
+    ],
+    "instagram_caption": "Medicare ha già attivato un modello che paga per l'AI usata nelle decisioni cliniche 🏥💡. Il rimborso federale copre strumenti che aiutano i medici a scegliere cure, ma quasi nessuna azienda tech ha fatto domanda per accedervi. Mentre le startup inseguono round di venture capital, c’è già un flusso diretto di entrate aperto, senza passare da ospedali o intermediari 💰. Per chi sviluppa AI sanitaria, significa poter ottenere revenue immediata da Medicare, se verifica l'eleggibilità entro le prossime settimane ⌛. Hai già controllato se il tuo strumento è candidabile?",
+    "carousel_slides": [
+      {
+        "hook": "Most tech firms ignoring hidden goldmine",
+        "description": "Mentre le startup inseguono round VC, c'è un flusso diretto di entrate già attivo da Medicare.",
+        "visual_hint": "Stack of money with question mark",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "money stack question"
+      },
+      {
+        "hook": "Medicare pays for AI right now",
+        "description": "Il modello esiste da mesi: rimborso federale per strumenti che supportano le decisioni cliniche.",
+        "visual_hint": "Medicare card with AI symbol",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Medicare card AI",
+        "image": "https://images.pexels.com/photos/5614107/pexels-photo-5614107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI could unlock direct revenue",
+        "description": "Chi si muove ora può sbloccare revenue Medicare senza passare da ospedali o intermediari.",
+        "visual_hint": "Coins falling into hospital piggy bank",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "coins hospital piggy",
+        "image": "https://images.pexels.com/photos/12969339/pexels-photo-12969339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Reimbursement covers AI decision support",
+        "description": "La maggior parte delle aziende tech non sa che Medicare paga già per l'AI e non fa domanda.",
+        "visual_hint": "Doctor interacting with tablet graph",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "doctor tablet graph",
+        "image": "https://images.pexels.com/photos/8376211/pexels-photo-8376211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Apply this week — window closes soon",
+        "description": "L'applicazione è aperta. Non hai ancora verificato la tua eleggibilità? Fallo entro questa settimana.",
+        "visual_hint": "Calendar with urgent deadline marker",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "calendar deadline urgent",
+        "image": "https://images.pexels.com/photos/8962466/pexels-photo-8962466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-877394926.jpg?resize=1200,800",
+    "pubDate": "Wed, 13 May 2026 00:26:48 +0000",
+    "savedAt": "2026-05-13T02:25:31.130Z",
+    "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/"
+  },
+  {
     "title": "US bank discloses security lapse after sharing customer data with AI app",
     "slides": [
       "Una banca USA ha condiviso dati sensibili con un'IA?",
