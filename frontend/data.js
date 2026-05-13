@@ -1,5 +1,380 @@
 window.ARTICLES = [
   {
+    "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+    "slides": [
+      "AutoScientist: quando l'AI addestra l'AI senza umani?",
+      "I modelli scelgono da soli i loro dati di training.",
+      "Non serve più un team per ottimizzare ogni passo.",
+      "Chi lo ignora rischia di restare indietro subito.",
+      "Testa AutoScientist oggi sul tuo modello piccolo."
+    ],
+    "thread_text": [
+      "I modelli AI ora si scelgono da soli i dati su cui addestrarsi. Addio al team che passava mesi a selezionarli a mano.",
+      "Il sistema che permette tutto questo si chiama AutoScientist. Lascia che un modello ne addestri un altro, senza supervisione umana diretta.",
+      "Non servono più 10 ricercatori per ottimizzare ogni singolo passo del training. AutoScientist lo fa da solo, in automatico, in una frazione del tempo.",
+      "Chi continua a ottimizzare a mano rischia di perdere letteralmente mesi di vantaggio competitivo. Non è un'opzione, è un collo di bottiglia.",
+      "Costa meno di un abbonamento Netflix. Prendi il tuo modello più piccolo e testalo oggi. Non aspettare che lo faccia il tuo concorrente."
+    ],
+    "video_script": [
+      "Immagina un'AI che addestra un'altra AI.",
+      "Da sola. Zero umani.",
+      "AutoScientist sceglie i suoi dati di training.",
+      "Non ti serve un team per ogni passo.",
+      "Chi non lo usa, resta indietro subito."
+    ],
+    "instagram_caption": "Ora un software sceglie da solo quali dati usare per addestrarsi, niente più fatica manuale. Si chiama AutoScientist: un modello AI che ne addestra un altro senza bisogno di supervisione umana diretta 🧠. In pratica elimina mesi di lavoro per selezionare e ottimizzare ogni passaggio del training ⚡. Per chi lavora con modelli, vuol dire risparmiare tempo e costi — costa meno di un abbonamento Netflix. Il tuo team sta ancora selezionando dati a mano? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Chi ottimizza ancora a mano?",
+        "description": "Chi continua a ottimizzare manualmente rischia di perdere mesi di vantaggio competitivo. Non è un'opzione, è un collo di bottiglia.",
+        "visual_hint": "clessidra che si svuota veloce",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "hourglass running out"
+      },
+      {
+        "hook": "L'AI sceglie i propri dati",
+        "description": "I modelli AI ora si scelgono da soli i dati su cui addestrarsi. Addio al team che passava mesi a selezionarli a mano.",
+        "visual_hint": "mano robotica che seleziona dati",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot hand selecting",
+        "image": "https://images.pexels.com/photos/6153362/pexels-photo-6153362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AutoScientist addestra senza umani",
+        "description": "AutoScientist lascia che un modello ne addestri un altro, senza supervisione umana diretta. Automazione totale del training.",
+        "visual_hint": "due neuroni artificiali collegati",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "neural network connection",
+        "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Dieci ricercatori? Ora zero",
+        "description": "Non servono più 10 ricercatori per ottimizzare ogni passo del training. AutoScientist lo fa da solo in automatico, in una frazione del tempo.",
+        "visual_hint": "team che scompare gradualmente",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "empty office chairs",
+        "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costa meno di Netflix",
+        "description": "Prendi il tuo modello più piccolo e testalo oggi. Non aspettare che lo faccia il tuo concorrente. Costo inferiore a un abbonamento Netflix.",
+        "visual_hint": "abbonamento Netflix vs AI tool",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "Netflix subscription screen",
+        "image": "https://images.pexels.com/photos/6235469/pexels-photo-6235469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Sara-Hooker_headshot.jpg?resize=900,1200",
+    "pubDate": "Wed, 13 May 2026 12:11:33 +0000",
+    "savedAt": "2026-05-13T17:56:50.972Z",
+    "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/"
+  },
+  {
+    "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+ ",
+    "slides": [
+      "Amazon's new AI search bar knows what you want before you type.",
+      "It's powered by Alexa+ and understands natural language queries.",
+      "But it also suggests products you didn't know existed.",
+      "Your shopping lists just became obsolete overnight.",
+      "Try asking it a vague need and see the curated results."
+    ],
+    "thread_text": [
+      "Un motore di ricerca ti suggerisce prodotti che non sapevi esistessero, basandosi su bisogni che non hai ancora espresso.",
+      "Amazon ha integrato Alexa+ nel suo nuovo search bar. Non devi più digitare parole chiave precise: basta una frase vaga.",
+      "Il sistema capisce il contesto e il linguaggio naturale. Chiedi 'qualcosa per cucinare veloce' e ottieni risultati curati.",
+      "Le tue liste della spesa diventano inutili. Il motore anticipa ciò che vuoi prima che tu lo scriva, e ti propone alternative.",
+      "Prova a inserire un bisogno generico oggi stesso. Vedi come cambia il modo in cui scopri nuovi prodotti."
+    ],
+    "video_script": [
+      "Immagina un motore che ti legge nel pensiero.",
+      "Amazon ha appena lanciato un nuovo search bar.",
+      "Funziona con Alexa+ e capisce frasi naturali.",
+      "Ti fa scoprire cose che non cercavi.",
+      "Le liste della spesa? Non servono più."
+    ],
+    "instagram_caption": "Amazon ha appena integrato Alexa+ nella barra di ricerca, e adesso ti basta una frase tipo \"qualcosa per cucinare veloce\" per vedere prodotti che non sapevi esistessero 🛒. Il motore non aspetta che tu scriva parole chiave precise: capisce il contesto e il linguaggio naturale, come se parlassi a un commesso esperto. Le tue liste della spesa? Diventano obsolete, perché il sistema anticipa bisogni che non hai ancora espresso 🧠. Prova a inserire un bisogno vago oggi stesso e vedi come cambia la scoperta di nuovi articoli ✨",
+    "carousel_slides": [
+      {
+        "hook": "Prodotti che non sapevi esistessero",
+        "description": "Il motore ti suggerisce prodotti basandosi su bisogni che non hai ancora espresso.",
+        "visual_hint": "curated carousel",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "amazon warehouse shelves"
+      },
+      {
+        "hook": "Basta frasi vaghe",
+        "description": "Non servono più parole chiave: basta una frase come 'cucina veloce'.",
+        "visual_hint": "search bar glow",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "amazon search bar",
+        "image": "https://images.pexels.com/photos/6608880/pexels-photo-6608880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Anticipa ogni bisogno",
+        "description": "Il sistema capisce il contesto, anticipa ciò che vuoi e propone alternative.",
+        "visual_hint": "brain with lines",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "ai brain concept",
+        "image": "https://images.pexels.com/photos/9162028/pexels-photo-9162028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Addio liste della spesa",
+        "description": "Le tue liste diventano obsolete: il motore anticipa ogni tuo desiderio.",
+        "visual_hint": "shopping list cross",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand crossing list",
+        "image": "https://images.pexels.com/photos/8978475/pexels-photo-8978475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova un bisogno oggi",
+        "description": "Inserisci un bisogno generico oggi stesso e scopri come nascono nuove scoperte.",
+        "visual_hint": "arrow to screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person typing phone",
+        "image": "https://images.pexels.com/photos/5592313/pexels-photo-5592313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Alexa-for-Shopping-Chat-Window.jpg?w=1200",
+    "pubDate": "Wed, 13 May 2026 14:59:32 +0000",
+    "savedAt": "2026-05-13T17:56:36.903Z",
+    "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/"
+  },
+  {
+    "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
+    "slides": [
+      "Foxconn colpita: chi proteggerà i dati di Apple?",
+      "Hacker rivendicano attacco ransomware al gigante",
+      "Non chiedono soldi: vogliono esporre segreti industriali",
+      "Se produci dispositivi, i tuoi dati potrebbero essere già a rischio",
+      "Verifica oggi se la tua supply chain è sicura"
+    ],
+    "thread_text": [
+      "Non chiedono soldi: vogliono esporre i segreti industriali dei tuoi dispositivi. Questa volta il bersaglio è Foxconn.",
+      "Foxconn produce iPhone per Apple. Gli hacker hanno colpito i loro server e rivendicano un attacco ransomware.",
+      "La richiesta non è un riscatto in criptovaluta. Vogliono dati sui processi produttivi di device che usi ogni giorno.",
+      "Se produci dispositivi, i tuoi dati potrebbero già essere nella lista dei prossimi obiettivi.",
+      "Verifica oggi se la tua supply chain ha un buco. Un controllo costa meno di un abbonamento Netflix."
+    ],
+    "video_script": [
+      "Hanno preso di mira Foxconn, non per soldi.",
+      "Vogliono i segreti industriali di Apple.",
+      "I server che montano i tuoi dispositivi sono esposti.",
+      "Non serve aspettare: il rischio è attuale.",
+      "Controlla ora la tua filiera produttiva."
+    ],
+    "instagram_caption": "Foxconn, il colosso che assembla iPhone e altri dispositivi, è stato violato 🔓. Gli hacker non chiedono soldi: vogliono rubare i segreti industriali dei produttori, da Apple a Nvidia. Questo attacco ransomware mostra che la vera merce di scambio non sono i dati personali, ma i processi produttivi che usi per ogni tuo device. Se lavori nella supply chain, il tuo prossimo fornitore potrebbe essere il bersaglio ⚠️. Quanto tempo prima che i piani del tuo telefono diventino pubblici? 🛑",
+    "carousel_slides": [
+      {
+        "hook": "Non vogliono soldi, ma segreti",
+        "description": "Hacker colpiscono Foxconn per esporre i processi produttivi dei tuoi device.",
+        "visual_hint": "server con luci rosse",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room red lights"
+      },
+      {
+        "hook": "Foxconn produce iPhone per Apple",
+        "description": "Attacco ransomware ai server del gigante che assembla i tuoi dispositivi.",
+        "visual_hint": "fabbrica con linee di montaggio",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory assembly line",
+        "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Richiesta: esporre dati produttivi",
+        "description": "Non un riscatto in criptovaluta. Vogliono segreti industriali dei device che usi.",
+        "visual_hint": "documento con sigillo segreto",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "confidential document stamp",
+        "image": "https://images.pexels.com/photos/8371713/pexels-photo-8371713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "I tuoi dati nella lista obiettivi?",
+        "description": "Se produci dispositivi, potresti essere il prossimo bersaglio. Controlla la supply chain.",
+        "visual_hint": "mano che controlla un server",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand checking server",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Verifica oggi la tua supply chain",
+        "description": "Un controllo costa meno di un abbonamento Netflix. Non aspettare l'attacco.",
+        "visual_hint": "schermo con cruscotto sicurezza",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "security dashboard screen",
+        "image": "https://images.pexels.com/photos/2036656/pexels-photo-2036656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/iphone-store.jpg?resize=1200,800",
+    "pubDate": "Wed, 13 May 2026 15:39:37 +0000",
+    "savedAt": "2026-05-13T17:56:23.684Z",
+    "link": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/"
+  },
+  {
+    "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
+    "slides": [
+      "Fervo Energy sale del 33% al debutto IPO: chi ha spinto?",
+      "La domanda energetica dell'IA alimenta la geotermia.",
+      "Ma il calore sotterraneo basta per i data center?",
+      "Le aziende tech ora pagano per energia stabile.",
+      "Monitora Fervo: il prossimo boom è sottoterra."
+    ],
+    "thread_text": [
+      "Il calore sotto i nostri piedi basta davvero per far funzionare i data center dell'IA? La risposta potrebbe cambiare tutto il settore energetico.",
+      "Fervo Energy è appena sbarcata in Borsa con un +33% al debutto. Dietro ci sono colossi tech che hanno un problema: l'elettricità serve 24/7, non quando tira vento.",
+      "La geotermia non è più un'alternativa di nicchia. Le aziende tech stanno firmando contratti decennali per energia stabile, pagando un premio pur di non fermare i chip.",
+      "Il sottosuolo contiene abbastanza calore? Tecnicamente sì, ma serve trivellare più a fondo e in più posti. Fervo sta dimostrando che si può fare.",
+      "Il tuo prossimo prompt AI potrebbe essere alimentato da un impianto geotermico. Monitora Fervo: il prossimo boom è sottoterra."
+    ],
+    "video_script": [
+      "Sotto i nostri piedi c'è calore a sufficienza",
+      "per alimentare tutti i data center del mondo",
+      "Fervo Energy è la startup che lo sta dimostrando",
+      "È appena arrivata in Borsa con un +33%",
+      "Il motivo? I giganti tech hanno bisogno di energia stabile 24/7"
+    ],
+    "instagram_caption": "Una startup che sfrutta il calore della terra è appena arrivata in Borsa e il primo giorno il suo valore è salito del 33% ⚡ I colossi tecnologici stanno firmando contratti decennali per questa energia non perché sia la più economica, ma perché funziona 24 ore su 24, senza aspettare che tiri vento o ci sia sole 🔥 La domanda energetica dei chip che alimentano l'AI sta ridisegnando il mercato dell'elettricità. Per te significa che l'energia consumata da ogni tuo prompt ha un costo industriale concreto, pagato dalle aziende tech 🛢️ C'è abbastanza calore sottoterra per farlo? Fervo sta dimostrando che trivellando più a fondo si può.",
+    "carousel_slides": [
+      {
+        "hook": "Calore sotto i piedi?",
+        "description": "Il calore sotterraneo basta per i data center IA? La risposta potrebbe cambiare tutto il settore energetico.",
+        "visual_hint": "Fiamme che escono da terra",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "geothermal steam vents"
+      },
+      {
+        "hook": "+33% al debutto IPO",
+        "description": "Fervo Energy sbarca in Borsa con +33%. Colossi tech cercano elettricità 24/7, non quando tira vento.",
+        "visual_hint": "Grafico azionario in salita",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Aziende pagano premio",
+        "description": "La geotermia non è più nicchia. Le aziende tech firmando contratti decennali per energia stabile, pagando un premio.",
+        "visual_hint": "Mani che firmano contratto",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "contract signing",
+        "image": "https://images.pexels.com/photos/4968561/pexels-photo-4968561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trivellare più a fondo",
+        "description": "Il sottosuolo ha abbastanza calore? Sì, ma serve trivellare più a fondo. Fervo sta dimostrando che si può fare.",
+        "visual_hint": "Trivella che perfora roccia",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "drilling rig",
+        "image": "https://images.pexels.com/photos/15391048/pexels-photo-15391048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI alimentata da geotermia",
+        "description": "Il tuo prossimo prompt AI potrebbe funzionare con calore sotterraneo. Monitora Fervo: il boom è sottoterra.",
+        "visual_hint": "Data center con luci calde",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "data center servers",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275460528.jpeg?resize=1200,800",
+    "pubDate": "Wed, 13 May 2026 17:42:20 +0000",
+    "savedAt": "2026-05-13T17:56:10.348Z",
+    "link": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/"
+  },
+  {
+    "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream ",
+    "slides": [
+      "Physical AI lands in San Jose—can robots finally replace human labor?",
+      "Autonomous systems are no longer prototypes but deployed at scale.",
+      "Yet over 60% of these robots still fail in unstructured environments.",
+      "Engineers now must redesign workflows around machine unpredictability.",
+      "Attend one session to see where your industry will break."
+    ],
+    "thread_text": [
+      "Oltre il 60% dei robot industriali fallisce in ambienti non controllati. Il problema non è più costruirli, ma farli funzionare fuori dal laboratorio.",
+      "La Physical AI è atterrata a San Jose. I sistemi autonomi non sono più prototipi: vengono distribuiti su scala, nei magazzini, nelle fabbriche, nelle strade.",
+      "Il problema è che un ambiente reale è imprevedibile: un pavimento bagnato, un ordine cambiato, un sensore sporco. La macchina si blocca o sbaglia.",
+      "Così gli ingegneri stanno riscrivendo i flussi di lavoro partendo dall’imprevedibilità della macchina, non dalla perfezione della teoria.",
+      "Una sessione mostra dove il tuo settore si romperà per primo. Se non l’hai già fatto, chiedi al tuo reparto operations: quanti fallimenti avete registrato negli ultimi 30 giorni?"
+    ],
+    "video_script": [
+      "Più della metà dei robot fallisce in ambienti reali.",
+      "Non è più un problema di costruirli.",
+      "Il problema è farli funzionare fuori dal laboratorio.",
+      "Gli ingegneri ora riprogettano i processi intorno ai loro errori.",
+      "Una sessione mostra dove il tuo settore si romperà per primo."
+    ],
+    "instagram_caption": "Oltre 6 robot industriali su 10 si bloccano ancora in ambienti non controllati, come un magazzino o una fabbrica 🏭. La Physical AI Conference a San Jose ha messo in chiaro che il vero problema non è più la costruzione, ma l’affidabilità fuori dal laboratorio. Le aziende stanno riscrivendo i processi partendo dall’imprevedibilità delle macchine, non dalla teoria. Per chi opera nel settore, significa che strumenti e flussi vanno ridisegnati attorno ai limiti reali dei sistemi autonomi 🛠️. Quanti guasti ha registrato il tuo reparto nell’ultimo mese? 📉",
+    "carousel_slides": [
+      {
+        "hook": "Perché 6 robot su 10 falliscono?",
+        "description": "Oltre il 60% dei robot industriali fallisce in ambienti non controllati. Il vero problema è farli funzionare fuori dal laboratorio.",
+        "visual_hint": "robot fermo su pavimento bagnato",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "factory robot stopped"
+      },
+      {
+        "hook": "Autonomous systems now deployed at scale",
+        "description": "La Physical AI è atterrata a San Jose. I sistemi autonomi sono distribuiti su scala in magazzini, fabbriche e strade.",
+        "visual_hint": "magazzino con robot operativi",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "autonomous warehouse robots",
+        "image": "https://images.pexels.com/photos/19114198/pexels-photo-19114198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Un pavimento bagnato e la macchina si blocca",
+        "description": "Ambiente reale imprevedibile: pavimento bagnato, ordine cambiato, sensore sporco. Il robot sbaglia o si ferma.",
+        "visual_hint": "sensore sporco su robot",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "sensor module closeup",
+        "image": "https://images.pexels.com/photos/33792054/pexels-photo-33792054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Riscrivere i flussi dall’imprevedibilità",
+        "description": "Gli ingegneri ora riprogettano i workflow partendo dall’imprevedibilità della macchina, non dalla perfezione della teoria.",
+        "visual_hint": "ingegneri intorno a robot fermo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "engineers inspecting robot",
+        "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Dove si romperà il tuo settore?",
+        "description": "Una sessione mostra dove il tuo settore si romperà per primo. Chiedi al tuo reparto operations: quanti fallimenti negli ultimi 30 giorni?",
+        "visual_hint": "CTA evento con dati fallimenti",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "conference hall crowd",
+        "image": "https://images.pexels.com/photos/13899698/pexels-photo-13899698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Physical-AI-Expo-Banner.png",
+    "pubDate": "Wed, 13 May 2026 13:43:38 +0000",
+    "savedAt": "2026-05-13T17:55:55.463Z",
+    "link": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/"
+  },
+  {
     "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
     "slides": [
       "Poppy promette di organizzare la tua vita digitale. Ma a che costo?",

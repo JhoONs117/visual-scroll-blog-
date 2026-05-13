@@ -1,6 +1,258 @@
 window.FOOD_ARTICLES = [
   {
     "agent": "food",
+    "slug": "pasta-con-fiori-di-zucca-e-alici",
+    "sourceId": "5248cbef97fc64cc3aa318c78005047d",
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "fiori di zucca",
+      "alici",
+      "linguine"
+    ],
+    "title": "Pasta con fiori di zucca e alici",
+    "slides": [
+      "Pasta cremosa con fiori e alici.",
+      "Linguine, fiori di zucca, alici, aglio, limone.",
+      "Pulisci i fiori, soffriggi alici e aglio.",
+      "Scola la pasta al dente e manteca in padella.",
+      "Unisci alici crude e scorza di limone."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta cremosa fiori e alici",
+        "description": "Un primo elegante e saporito: la dolcezza dei fiori di zucca incontra la sapidità delle alici in una crema avvolgente.",
+        "visual_hint": "Piatto finito in primo piano",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory pasta zucchini flowers"
+      },
+      {
+        "hook": "I 5 ingredienti chiave",
+        "description": "Linguine, fiori di zucca freschi, alici sott'olio, aglio e limone. Pochi elementi per un piatto già completo.",
+        "visual_hint": "Ingredienti disposti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta ingredients",
+        "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il gesto che cambia tutto",
+        "description": "Pulisci delicatamente i fiori, poi soffriggi alici e aglio in padella finché le alici non si sciolgono.",
+        "visual_hint": "Mani che puliscono un fiore",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cleaning zucchini flowers",
+        "image": "https://images.pexels.com/photos/4750380/pexels-photo-4750380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mantecatura in padella",
+        "description": "Scola la pasta al dente e trasferiscila direttamente nella padella con il condimento. Mescola a fuoco spento per amalgamare.",
+        "visual_hint": "Pasta che viene mantecata in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory pasta tossing pan",
+        "image": "https://images.pexels.com/photos/30350309/pexels-photo-30350309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tocco finale croccante",
+        "description": "Spegni il fuoco, unisci qualche alice cruda spezzettata e abbondante scorza di limone grattugiata. Servi subito.",
+        "visual_hint": "Piatto impiattato con scorza di limone",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory lemon pasta plate",
+        "image": "https://images.pexels.com/photos/20246314/pexels-photo-20246314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Ci sono piatti che sanno di fine estate e di mare, come questa pasta con fiori di zucca e alici. Le linguine si avvolgono in una cremina delicata, dove il sapore deciso delle alici si sposa con la dolcezza dei fiori e una nota fresca di limone. Il segreto? Unire qualche alice cruda a fine mantecatura per un contrasto che esalta tutto. L’ho finita con una grattata di scorza e un filo d’olio. Da leccarsi i baffi. Provatela prima che i fiori spariscano 🌼🍋",
+    "video_script": [
+      "Pulisco i fiori di zucca freschi.",
+      "Soffriggo aglio e alici nell'olio.",
+      "Scolo le linguine al dente.",
+      "Manteco tutto in padella cremoso.",
+      "Aggiungo alici crude e scorza."
+    ],
+    "thread_text": [
+      "C’è un piatto che sa di estate e di mare in un sol boccone. Linguine con fiori di zucca e alici. Cremoso, saporito, con quel contrasto che ti fa chiudere gli occhi. Ti spiego come farlo perfetto. 🧵👇",
+      "Parti dai fiori di zucca: puliscili con cura, togli il pistillo. Poi in padella fai soffriggere aglio in camicia e alici sott’olio. Lascia che si sciolgano lentamente, a fuoco dolce. Intanto lessa le linguine al dente.",
+      "Quando la pasta è pronta, scolala e versala direttamente nella padella con alici e aglio. Aggiungi un mestolo di acqua di cottura. Manteca a fiamma media, quasi saltando: il sapore entra dentro la pasta. Cremoso senza panna.",
+      "Ora arriva il gesto che fa la differenza. Spegni il fuoco e unisci qualche alice cruda spezzettata — dà profondità — e una manciata di fiori di zucca tenuti da parte. Mescola piano, si appassiscono senza cuocersi troppo.",
+      "Ultimo tocco: scorza di limone grattugiata al momento sopra il piatto. Freschezza che taglia l’untuoso. Niente altro: è perfetta così. Se la provi, fammi sapere com’è andata. Io aspetto il tuo risultato."
+    ],
+    "link": "https://ricette.giallozafferano.it/Pasta-con-fiori-di-zucca-e-alici.html",
+    "pubDate": "Wed, 13 May 2026 14:21:00 +0200",
+    "savedAt": "2026-05-13T18:00:28.752Z",
+    "image": "https://www.giallozafferano.it/images/361-36171/Pasta-con-fiori-di-zucca-e-alici_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
+    "slug": "torta-2-ingredienti",
+    "sourceId": "4dff87d4e172b41438f75023bc536266",
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "mele",
+      "cioccolato fondente",
+      "cacao amaro"
+    ],
+    "title": "Torta 2 ingredienti",
+    "slides": [
+      "Dolce cremoso di mele e cioccolato fondente.",
+      "Mele, cioccolato fondente, cacao amaro.",
+      "Frulla mele cotte e unisci cioccolato fuso.",
+      "Raffredda in frigo per almeno 2 ore.",
+      "Spolvera con cacao amaro prima di servire."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Dolce cremoso di mele e cioccolato",
+        "description": "Una torta golosa e leggera con solo 2 ingredienti base, perfetta per un dessert veloce.",
+        "visual_hint": "Torta al piatto su sfondo scuro",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "chocolate apple dessert"
+      },
+      {
+        "hook": "Solo 3 ingredienti",
+        "description": "Mele dolci e tenere, cioccolato fondente di qualità, cacao amaro per la finitura.",
+        "visual_hint": "Ingredienti su tavola di legno",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "apples and chocolate",
+        "image": "https://images.pexels.com/photos/12653265/pexels-photo-12653265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Frulla le mele cotte",
+        "description": "Cuoci le mele fino a renderle morbide, poi frullale e unisci il cioccolato fuso.",
+        "visual_hint": "Frullatore con mele cotte",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "blending cooked apples",
+        "image": "https://images.pexels.com/photos/6605167/pexels-photo-6605167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Raffredda in frigorifero",
+        "description": "Versa il composto in una tortiera e lascia raffreddare in frigo per almeno 2 ore.",
+        "visual_hint": "Tortiera in frigo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "chocolate apple cake fridge",
+        "image": "https://images.pexels.com/photos/37325525/pexels-photo-37325525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spolvera e servi",
+        "description": "Prima di servire, spolvera con cacao amaro per un tocco amaro e scenografico.",
+        "visual_hint": "Mano che spolvera cacao su torta",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "dusting cocoa on cake",
+        "image": "https://images.pexels.com/photos/9815773/pexels-photo-9815773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Due ingredienti, zero sensi di colpa. 🍎✨  \nDue mele cotte frullate e cioccolato fondente fuso: nasce una crema vellutata che sa di coccola pura. La raffreddo in frigo per almeno 2 ore e, prima di servire, un velo di cacao amaro la trasforma in un dessert elegante e senza zuccheri aggiunti.  \nSemplice, golosa, light.  \nPrepara questa magia in 5 minuti e stupisci tutti. 🌿",
+    "video_script": [
+      "Frullo mele cotte e unisco cioccolato fuso.",
+      "Uso mele dolci e cioccolato fondente.",
+      "Mescolo tutto fino a crema liscia.",
+      "Metto in frigo per almeno due ore.",
+      "Spolvero cacao amaro e servo."
+    ],
+    "thread_text": [
+      "Mi sfidano a fare un dolce con 2 ingredienti. Io alzo e metto 3 cose che cambiano tutto: mele, cioccolato fondente, cacao amaro. Il risultato è una crema vellutata che sembra un peccato di gola, ma è quasi innocente. Preparati.",
+      "Partiamo dalle basi: mele cotte e morbide. Le frulli fino a ottenere una purea liscia. Intanto sciogli il cioccolato fondente a bagnomaria (mai nel microonde, fidati). Due elementi, un solo destino: incontrarsi.",
+      "Unisci la purea di mele al cioccolato fuso. Mescola con energia fino a che tutto diventa un’unica, densa nuvola scura. Sembra poco, ma il profumo ti invade la cucina. Questo è il momento della magia.",
+      "Versa il composto in una ciotola o in stampini singoli. Via in frigo per almeno 2 ore. La pazienza paga: si solidifica in una crema setosa che non ha niente da invidiare a un tiramisù. Mentre aspetti, resisti.",
+      "Tocco finale: prima di servire, spolvera con cacao amaro. Un colpo di amaro che esplode sulla dolcezza naturale. Due ingredienti, tre mosse, un dessert da urlo. Provala e fammi sapere se ti scioglie come ha fatto con me."
+    ],
+    "link": "https://ricette.giallozafferano.it/Torta-2-ingredienti.html",
+    "pubDate": "Wed, 13 May 2026 15:12:00 +0200",
+    "savedAt": "2026-05-13T18:00:08.291Z",
+    "image": "https://www.giallozafferano.it/images/361-36174/Torta-2-ingredienti_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
+    "slug": "pasta-al-forno-con-salsiccia-e-piselli",
+    "sourceId": "38a68c5a500f69b93c330ee50d00c0a4",
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "salsiccia",
+      "piselli",
+      "mozzarella"
+    ],
+    "title": "Pasta al forno con salsiccia e piselli",
+    "slides": [
+      "Pasta al forno cremosa con salsiccia e piselli",
+      "Rigatoni, salsiccia, mozzarella, besciamella, piselli",
+      "Rosola salsiccia e cipolla, poi unisci i piselli",
+      "Cuoci in forno a 200° per 30 minuti",
+      "Lascia riposare 10 minuti prima di servire"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta al forno cremosa e filante",
+        "description": "Una pasta al forno avvolgente, con salsiccia saporita, piselli dolci e mozzarella filante. Il comfort food perfetto.",
+        "visual_hint": "Piatto fumante in primo piano",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory baked pasta"
+      },
+      {
+        "hook": "Gli ingredienti giusti",
+        "description": "Rigatoni, salsiccia, mozzarella, besciamella e piselli: la combinazione perfetta per una pasta al forno cremosa.",
+        "visual_hint": "Ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta ingredients",
+        "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il segreto del sapore",
+        "description": "Rosola salsiccia e cipolla fino a doratura, poi unisci i piselli: così sprigionano tutto l'aroma.",
+        "visual_hint": "Padella con salsiccia e cipolla",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory sausage cooking",
+        "image": "https://images.pexels.com/photos/10794159/pexels-photo-10794159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "La cottura perfetta",
+        "description": "Cuoci in forno statico a 200°C per 30 minuti: la superficie diventa dorata e croccante.",
+        "visual_hint": "Teglia nel forno",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory pasta baking",
+        "image": "https://images.pexels.com/photos/30412119/pexels-photo-30412119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il trucco del riposo",
+        "description": "Lascia riposare 10 minuti prima di servire: la pasta si compatta e diventa ancora più cremosa.",
+        "visual_hint": "Piatto pronto sul tavolo",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory baked pasta portion",
+        "image": "https://images.pexels.com/photos/29145229/pexels-photo-29145229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Il profumo di questa pasta al forno ti abbraccia appena la sforni. Cremosa, filante, con quel contrasto perfetto tra la dolcezza dei piselli e il sapore deciso della salsiccia. Rosolo la salsiccia con la cipolla, unisco i piselli e la besciamella, poi rigatoni e mozzarella a strati: 30 minuti a 200° e il gioco è fatto. La lascio riposare 10 minuti prima di servire, ma è una prova di resistenza. Segna questa per la domenica. 🍝🧀🌿",
+    "video_script": [
+      "Fai un bel fondo con salsiccia e cipolla.",
+      "Aggiungi i piselli e falli insaporire.",
+      "Condisci i rigatoni con besciamella e mozzarella.",
+      "Versa tutto in teglia e cuoci a 200°.",
+      "Lascia riposare dieci minuti, poi servi."
+    ],
+    "thread_text": [
+      "C’è chi la chiama comfort food e chi la chiama felicità. Questa pasta al forno con salsiccia e piselli è cremosa al punto giusto e pronta a rubarti la cena. 🍝",
+      "Rigatoni, salsiccia, mozzarella, besciamella e piselli. Cinque ingredienti che si fidano l’uno dell’altro. Nessun segreto, solo materia prima di qualità.",
+      "Prima rosoli salsiccia e cipolla finché non diventano oro. Poi butti i piselli. L’odore in cucina è già quello di un abbraccio.",
+      "Inforni a 200° per 30 minuti: la besciamella fa da collante, la mozzarella si scioglie e la salsiccia regala il sapore che vuoi.",
+      "Il trucco? Lasciala riposare 10 minuti prima di servire. La pasta si compatta, i sapori si sistemano. Provala e fammi sapere com’è andata 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Pasta-al-forno-con-salsiccia-e-piselli.html",
+    "pubDate": "Wed, 13 May 2026 15:50:00 +0200",
+    "savedAt": "2026-05-13T17:59:51.106Z",
+    "image": "https://www.giallozafferano.it/images/361-36172/Pasta-al-forno-con-salsiccia-e-piselli_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
     "slug": "pasta-con-agretti-e-colatura-di-alici",
     "sourceId": "51428e3539d44579316ecd4a172acaac",
     "dish_type": "pasta",

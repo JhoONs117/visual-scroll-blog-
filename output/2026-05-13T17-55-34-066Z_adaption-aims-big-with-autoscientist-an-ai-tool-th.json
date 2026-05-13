@@ -1,0 +1,75 @@
+{
+  "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+  "slides": [
+    "AutoScientist: quando l'AI addestra l'AI senza umani?",
+    "I modelli scelgono da soli i loro dati di training.",
+    "Non serve più un team per ottimizzare ogni passo.",
+    "Chi lo ignora rischia di restare indietro subito.",
+    "Testa AutoScientist oggi sul tuo modello piccolo."
+  ],
+  "thread_text": [
+    "I modelli AI ora si scelgono da soli i dati su cui addestrarsi. Addio al team che passava mesi a selezionarli a mano.",
+    "Il sistema che permette tutto questo si chiama AutoScientist. Lascia che un modello ne addestri un altro, senza supervisione umana diretta.",
+    "Non servono più 10 ricercatori per ottimizzare ogni singolo passo del training. AutoScientist lo fa da solo, in automatico, in una frazione del tempo.",
+    "Chi continua a ottimizzare a mano rischia di perdere letteralmente mesi di vantaggio competitivo. Non è un'opzione, è un collo di bottiglia.",
+    "Costa meno di un abbonamento Netflix. Prendi il tuo modello più piccolo e testalo oggi. Non aspettare che lo faccia il tuo concorrente."
+  ],
+  "video_script": [
+    "Immagina un'AI che addestra un'altra AI.",
+    "Da sola. Zero umani.",
+    "AutoScientist sceglie i suoi dati di training.",
+    "Non ti serve un team per ogni passo.",
+    "Chi non lo usa, resta indietro subito."
+  ],
+  "instagram_caption": "Ora un software sceglie da solo quali dati usare per addestrarsi, niente più fatica manuale. Si chiama AutoScientist: un modello AI che ne addestra un altro senza bisogno di supervisione umana diretta 🧠. In pratica elimina mesi di lavoro per selezionare e ottimizzare ogni passaggio del training ⚡. Per chi lavora con modelli, vuol dire risparmiare tempo e costi — costa meno di un abbonamento Netflix. Il tuo team sta ancora selezionando dati a mano? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Chi ottimizza ancora a mano?",
+      "description": "Chi continua a ottimizzare manualmente rischia di perdere mesi di vantaggio competitivo. Non è un'opzione, è un collo di bottiglia.",
+      "visual_hint": "clessidra che si svuota veloce",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "hourglass running out"
+    },
+    {
+      "hook": "L'AI sceglie i propri dati",
+      "description": "I modelli AI ora si scelgono da soli i dati su cui addestrarsi. Addio al team che passava mesi a selezionarli a mano.",
+      "visual_hint": "mano robotica che seleziona dati",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot hand selecting",
+      "image": "https://images.pexels.com/photos/6153362/pexels-photo-6153362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AutoScientist addestra senza umani",
+      "description": "AutoScientist lascia che un modello ne addestri un altro, senza supervisione umana diretta. Automazione totale del training.",
+      "visual_hint": "due neuroni artificiali collegati",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "neural network connection",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Dieci ricercatori? Ora zero",
+      "description": "Non servono più 10 ricercatori per ottimizzare ogni passo del training. AutoScientist lo fa da solo in automatico, in una frazione del tempo.",
+      "visual_hint": "team che scompare gradualmente",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "empty office chairs",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costa meno di Netflix",
+      "description": "Prendi il tuo modello più piccolo e testalo oggi. Non aspettare che lo faccia il tuo concorrente. Costo inferiore a un abbonamento Netflix.",
+      "visual_hint": "abbonamento Netflix vs AI tool",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Netflix subscription screen",
+      "image": "https://images.pexels.com/photos/6235469/pexels-photo-6235469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/03/Sara-Hooker_headshot.jpg?resize=900,1200",
+  "pubDate": "Wed, 13 May 2026 12:11:33 +0000",
+  "savedAt": "2026-05-13T17:56:50.972Z",
+  "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/"
+}
