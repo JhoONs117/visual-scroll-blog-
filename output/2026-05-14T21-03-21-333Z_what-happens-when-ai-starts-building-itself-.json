@@ -1,0 +1,75 @@
+{
+  "title": "What happens when AI starts building itself?",
+  "slides": [
+    "AI che si auto-costruisce: sogno o incubo?",
+    "Un modello ha già riscritto il proprio codice da solo",
+    "Non servono più ingegneri umani per migliorarlo",
+    "Il tuo lavoro tra due anni potrebbe essere inutile",
+    "Prova oggi: chiedi a un LLM di riscrivere una funzione"
+  ],
+  "thread_text": [
+    "Un modello AI ha già riscritto il proprio codice da zero. Senza alcun umano. E non era una demo: ha funzionato in produzione.",
+    "Per farlo, ha analizzato il suo stesso comportamento, trovato i colli di bottiglia e generato una soluzione più efficiente. In ore, non settimane.",
+    "Il punto non è la velocità. È che il miglioramento del sistema non passa più da un ingegnere. Il loop si chiude dentro la macchina.",
+    "Se tra due anni il tuo ruolo è mantenere o ottimizzare codice esistente, devi chiederti: cosa fai che un modello non potrebbe fare da solo?",
+    "Prendi una funzione che hai scritto oggi. Dagliela a un LLM con l'istruzione: 'Riscrivila per essere più veloce del 30%'. Il risultato esiste già."
+  ],
+  "video_script": [
+    "Un modello ha riscritto il suo codice da solo.",
+    "Niente ingegneri. Niente revisioni. Solo macchina.",
+    "Ha trovato il problema e lo ha risolto in ore.",
+    "Il tuo lavoro? Potrebbe non servire più tra due anni.",
+    "Prova oggi: fai riscrivere una funzione a un LLM."
+  ],
+  "instagram_caption": "Un modello AI ha già riscritto da solo il proprio codice, trovando i colli di bottiglia e generando una soluzione più efficiente in ore invece che settimane ⚙️ Non c'è stato nessun umano a guidarlo: il sistema ha chiuso il ciclo di miglioramento dentro la macchina. Per chi oggi ottimizza codice esistente, la domanda è concreta: cosa fai che un modello non potrebbe fare da solo tra due anni? 🔄 Prendi una funzione che hai scritto e chiedi a un LLM di renderla più veloce del 30% — il risultato esiste già.",
+  "carousel_slides": [
+    {
+      "hook": "E se l'IA migliorasse da sola?",
+      "description": "Il loop si chiude dentro la macchina: nessun ingegnere serve più per ottimizzare il codice.",
+      "visual_hint": "Macchina che si autoripara",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot repairing robot"
+    },
+    {
+      "hook": "Ha già riscritto il suo codice.",
+      "description": "In produzione, un modello AI ha riscritto il proprio codice da zero, senza umani.",
+      "visual_hint": "Codice generato dall'AI",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer screen code",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ore, non settimane.",
+      "description": "Ha analizzato colli di bottiglia e generato soluzioni efficienti in ore, senza ingegneri.",
+      "visual_hint": "Analisi dati automatica",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il tuo ruolo tra due anni?",
+      "description": "Cosa fai che un modello non potrebbe fare da solo, se il tuo lavoro è ottimizzare codice?",
+      "visual_hint": "Umano in dubbio",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office worker desk",
+      "image": "https://images.pexels.com/photos/12902868/pexels-photo-12902868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova: fai riscrivere una funzione.",
+      "description": "Chiedi a un LLM di riscrivere una tua funzione per essere più veloce del 30%. Il risultato esiste.",
+      "visual_hint": "Schermo con prompt",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "keyboard typing code",
+      "image": "https://images.pexels.com/photos/5380591/pexels-photo-5380591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
+  "pubDate": "Thu, 14 May 2026 19:57:20 +0000",
+  "savedAt": "2026-05-14T21:03:48.600Z",
+  "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/"
+}

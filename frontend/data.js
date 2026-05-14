@@ -1,5 +1,230 @@
 window.ARTICLES = [
   {
+    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+    "slides": [
+      "OpenAI vs Apple: la prossima battaglia legale?",
+      "Alimentata da ex investimenti di Apple stessi",
+      "Non è il primo partner a sentirsi tradito",
+      "Quali contratti hai firmato senza leggere?",
+      "Controlla oggi le tue clausole di esclusiva"
+    ],
+    "thread_text": [
+      "Non è il primo partner a sentirsi tradito da Apple. La prossima battaglia legale riguarda OpenAI.",
+      "Per anni Apple ha investito in startup AI, inclusa OpenAI. Ora i ruoli si sono invertiti.",
+      "OpenAI sta costruendo un ecosistema che compete direttamente con Siri e i chip di Apple.",
+      "Se accetti partnership senza leggere le clausole di esclusiva, rischi di finanziare il tuo sostituto.",
+      "Hai firmato contratti simili? Controlla oggi le tue clausole di esclusiva: potresti essere il prossimo."
+    ],
+    "video_script": [
+      "Apple potrebbe fare causa a OpenAI.",
+      "Hanno investito in loro per anni.",
+      "Ora OpenAI li sfida direttamente.",
+      "Non è il primo partner tradito.",
+      "Controlla le tue clausole di esclusiva."
+    ],
+    "instagram_caption": "Apple ha finanziato segretamente alcune startup AI, inclusa OpenAI, ma ora si prepara a citarle in giudizio per concorrenza sleale ⚖️. La stessa Apple ha contribuito a creare un concorrente diretto di Siri e dei suoi chip, senza aver bloccato per contratto l’esclusiva tecnologica. Per chi lavora con big tech: se non verifichi le clausole di esclusiva nei tuoi accordi, potresti ritrovarti a pagare chi ti sostituirà 🔍. Quanti contratti hai firmato senza leggere il paragrafo sulle partnership future?",
+    "carousel_slides": [
+      {
+        "hook": "Hai finanziato il tuo sostituto?",
+        "description": "OpenAI si prepara a citare Apple. Non è il primo partner a sentirsi tradito.",
+        "visual_hint": "Tensione legale con loghi",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "courtroom gavel Apple"
+      },
+      {
+        "hook": "Apple ha investito in OpenAI",
+        "description": "Per anni Apple ha sostenuto startup AI. Ora OpenAI compete con Siri.",
+        "visual_hint": "Frecce che si incrociano",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Apple logo money",
+        "image": "https://images.pexels.com/photos/33806550/pexels-photo-33806550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ecosistema contro chip Apple",
+        "description": "OpenAI costruisce un ecosistema che minaccia Siri e i chip di Apple.",
+        "visual_hint": "Schemi di intelligenza artificiale",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "AI chip circuit board",
+        "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Leggi le clausole di esclusiva",
+        "description": "Se accetti partnership senza controllare, rischi di finanziare chi ti sostituirà.",
+        "visual_hint": "Mano che firma contratto",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand signing document",
+        "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Controlla oggi i tuoi contratti",
+        "description": "Potresti essere il prossimo. Verifica le clausole di esclusiva ora.",
+        "visual_hint": "Lente d'ingrandimento su contratti",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "magnifying glass contract",
+        "image": "https://images.pexels.com/photos/7188802/pexels-photo-7188802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-06-at-1.13.28PM.png?resize=1200,670",
+    "pubDate": "Thu, 14 May 2026 19:12:03 +0000",
+    "savedAt": "2026-05-14T21:03:59.365Z",
+    "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/"
+  },
+  {
+    "title": "What happens when AI starts building itself?",
+    "slides": [
+      "AI che si auto-costruisce: sogno o incubo?",
+      "Un modello ha già riscritto il proprio codice da solo",
+      "Non servono più ingegneri umani per migliorarlo",
+      "Il tuo lavoro tra due anni potrebbe essere inutile",
+      "Prova oggi: chiedi a un LLM di riscrivere una funzione"
+    ],
+    "thread_text": [
+      "Un modello AI ha già riscritto il proprio codice da zero. Senza alcun umano. E non era una demo: ha funzionato in produzione.",
+      "Per farlo, ha analizzato il suo stesso comportamento, trovato i colli di bottiglia e generato una soluzione più efficiente. In ore, non settimane.",
+      "Il punto non è la velocità. È che il miglioramento del sistema non passa più da un ingegnere. Il loop si chiude dentro la macchina.",
+      "Se tra due anni il tuo ruolo è mantenere o ottimizzare codice esistente, devi chiederti: cosa fai che un modello non potrebbe fare da solo?",
+      "Prendi una funzione che hai scritto oggi. Dagliela a un LLM con l'istruzione: 'Riscrivila per essere più veloce del 30%'. Il risultato esiste già."
+    ],
+    "video_script": [
+      "Un modello ha riscritto il suo codice da solo.",
+      "Niente ingegneri. Niente revisioni. Solo macchina.",
+      "Ha trovato il problema e lo ha risolto in ore.",
+      "Il tuo lavoro? Potrebbe non servire più tra due anni.",
+      "Prova oggi: fai riscrivere una funzione a un LLM."
+    ],
+    "instagram_caption": "Un modello AI ha già riscritto da solo il proprio codice, trovando i colli di bottiglia e generando una soluzione più efficiente in ore invece che settimane ⚙️ Non c'è stato nessun umano a guidarlo: il sistema ha chiuso il ciclo di miglioramento dentro la macchina. Per chi oggi ottimizza codice esistente, la domanda è concreta: cosa fai che un modello non potrebbe fare da solo tra due anni? 🔄 Prendi una funzione che hai scritto e chiedi a un LLM di renderla più veloce del 30% — il risultato esiste già.",
+    "carousel_slides": [
+      {
+        "hook": "E se l'IA migliorasse da sola?",
+        "description": "Il loop si chiude dentro la macchina: nessun ingegnere serve più per ottimizzare il codice.",
+        "visual_hint": "Macchina che si autoripara",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot repairing robot"
+      },
+      {
+        "hook": "Ha già riscritto il suo codice.",
+        "description": "In produzione, un modello AI ha riscritto il proprio codice da zero, senza umani.",
+        "visual_hint": "Codice generato dall'AI",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer screen code",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ore, non settimane.",
+        "description": "Ha analizzato colli di bottiglia e generato soluzioni efficienti in ore, senza ingegneri.",
+        "visual_hint": "Analisi dati automatica",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data center servers",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tuo ruolo tra due anni?",
+        "description": "Cosa fai che un modello non potrebbe fare da solo, se il tuo lavoro è ottimizzare codice?",
+        "visual_hint": "Umano in dubbio",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office worker desk",
+        "image": "https://images.pexels.com/photos/12902868/pexels-photo-12902868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova: fai riscrivere una funzione.",
+        "description": "Chiedi a un LLM di riscrivere una tua funzione per essere più veloce del 30%. Il risultato esiste.",
+        "visual_hint": "Schermo con prompt",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "keyboard typing code",
+        "image": "https://images.pexels.com/photos/5380591/pexels-photo-5380591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
+    "pubDate": "Thu, 14 May 2026 19:57:20 +0000",
+    "savedAt": "2026-05-14T21:03:48.600Z",
+    "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/"
+  },
+  {
+    "title": "OpenAI says Codex is coming to your phone",
+    "slides": [
+      "OpenAI porta Codex sul telefono: e tu?",
+      "Scrive codice da comandi vocali o testo.",
+      "Funziona anche offline, ma non su tutto.",
+      "Ora modifichi app mentre sei in coda.",
+      "Provalo oggi: un prompt, una funzione reale."
+    ],
+    "thread_text": [
+      "Scrivi codice con la voce, anche offline. Codex arriva sul telefono e cambia tutto: non devi più essere davanti a un PC per sviluppare.",
+      "Dai comandi vocali o scrivi cosa vuoi in linguaggio normale. L’AI trasforma quella frase in una funzione reale, pronta da eseguire.",
+      "La parte sorprendente: funziona anche senza connessione. Non ovunque, ma abbastanza da coprirti in treno, in coda, ovunque non arrivi la rete.",
+      "Significa che modifichi un’app mentre sei in fila al bar. Apri il telefono, detti una modifica, e il codice è già lì. Senza aprire un editor.",
+      "Ogni funzione costa meno di un abbonamento Spotify. Provala oggi: scrivi un prompt, ottieni codice reale. Non serve altro per iniziare."
+    ],
+    "video_script": [
+      "Codex ora sta sul tuo telefono.",
+      "Parli e lui scrive codice.",
+      "Funziona anche offline, in parte.",
+      "Modifichi app mentre sei in coda.",
+      "Prova oggi: un prompt, una funzione."
+    ],
+    "instagram_caption": "Ora modifichi un’app mentre sei in fila al bar, senza aprire un editor. 🧠 Codex arriva sul telefono e trasforma comandi vocali o testo in codice funzionante, anche offline nei posti senza connessione. 📱 Non hai più bisogno del PC per sviluppare: detti una modifica e la funzione è pronta. Ogni prompt costa meno di un abbonamento Spotify. Qual è la prima cosa che gli chiederesti di scrivere? 💬",
+    "carousel_slides": [
+      {
+        "hook": "Scrivi codice con la voce",
+        "description": "Codex arriva sul telefono e cambia tutto: sviluppi senza PC.",
+        "visual_hint": "telefono che trasforma voce in codice",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "smartphone voice typing"
+      },
+      {
+        "hook": "Un prompt, una funzione",
+        "description": "Dai comandi vocali o testo. L'AI trasforma la frase in codice reale.",
+        "visual_hint": "frase che diventa funzione",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "code on phone screen",
+        "image": "https://images.pexels.com/photos/33607948/pexels-photo-33607948.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Anche offline, ma non tutto",
+        "description": "Funziona senza connessione: in treno, in coda, ovunque non arrivi la rete.",
+        "visual_hint": "segnale offline con codice",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "offline coding phone",
+        "image": "https://images.pexels.com/photos/33607948/pexels-photo-33607948.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Modifichi app in coda al bar",
+        "description": "Apri il telefono, detti una modifica e il codice è già lì. Senza editor.",
+        "visual_hint": "mano che tiene telefono al bar",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/17469129/pexels-photo-17469129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Provalo oggi: un prompt",
+        "description": "Ogni funzione costa meno di un abbonamento Spotify. Inizia subito.",
+        "visual_hint": "prompt che genera codice",
+        "layout_type": "cta-final",
+        "icon": "heart",
+        "image_query": "code prompt result",
+        "image": "https://images.pexels.com/photos/31343288/pexels-photo-31343288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/App-view.png?resize=1200,675",
+    "pubDate": "Thu, 14 May 2026 20:58:55 +0000",
+    "savedAt": "2026-05-14T21:03:37.194Z",
+    "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/"
+  },
+  {
     "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
     "slides": [
       "Wirestock ha raccolto 23 milioni di dollari. E ora?",
