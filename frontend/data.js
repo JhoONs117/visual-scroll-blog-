@@ -1,5 +1,80 @@
 window.ARTICLES = [
   {
+    "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+    "slides": [
+      "Cisco taglia 4.000 posti: sacrificio per l'AI o segnale d'allarme?",
+      "Il taglio arriva in un trimestre da record nei ricavi.",
+      "AI costa cara: anche un gigante deve scegliere cosa tagliare.",
+      "Per te: la rete aziendale cambia, nuove competenze richieste.",
+      "Vedi se la tua azienda segue Cisco o resta indietro."
+    ],
+    "thread_text": [
+      "Cisco taglia 4.000 posti con ricavi record. L'AI costa cara anche ai giganti: qualcuno deve pagare il conto.",
+      "I conti erano stellari, eppure hanno scelto di tagliare. Hanno capito che l'AI è un buco nero di risorse: o sposti massa o non reggi.",
+      "Per la tua azienda significa una cosa sola: la rete che usi oggi non basta più. Senza nuovi strumenti e competenze resti fuori gioco.",
+      "Quel taglio non è solo una notizia finanziaria. È il segnale che il mercato delle competenze di rete sta cambiando rapidamente.",
+      "Hai già aggiornato il tuo team su automazione e AI per la rete? Se non ora, quando?"
+    ],
+    "video_script": [
+      "Cisco taglia quattromila persone,",
+      "ma fattura un record.",
+      "L'AI costa un sacco.",
+      "Tu cosa taglieresti?",
+      "La tua azienda è pronta?"
+    ],
+    "instagram_caption": "Cisco ha appena tagliato 4.000 posti di lavoro, e lo ha fatto in un trimestre dove ha registrato il record storico di fatturato 💰. Non è un taglio per sopravvivere, è una scelta precisa: spostare miliardi di dollari dai ruoli tradizionali verso l'intelligenza artificiale. Per la tua azienda significa una cosa concreta: le reti che usi oggi non bastano più, servono competenze su automazione e AI per non restare indietro ⚡. Il tuo team ha già aggiornato le sue capacità in questa direzione? 🧠",
+    "carousel_slides": [
+      {
+        "hook": "Ricavi record, 4000 tagli",
+        "description": "Cisco taglia 4.000 posti con ricavi record. L'AI costa cara anche ai giganti.",
+        "visual_hint": "Grafico a barre che crolla",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart down"
+      },
+      {
+        "hook": "AI buco nero di risorse",
+        "description": "Conti stellari ma hanno tagliato. Hanno capito che l'AI divora risorse.",
+        "visual_hint": "Fiamme che escono da server",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room fire",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "La tua rete non basta più",
+        "description": "Senza nuovi strumenti e competenze resti fuori gioco. Il mercato cambia.",
+        "visual_hint": "Mappa rete con nodi rossi",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "network diagram nodes",
+        "image": "https://images.pexels.com/photos/4218546/pexels-photo-4218546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Competenze di rete in evoluzione",
+        "description": "Non è solo finanza. Il mercato delle competenze di rete sta cambiando rapidamente.",
+        "visual_hint": "Mani che saldano cavo fiber",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands working fiber cable",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Aggiorni il team su AI?",
+        "description": "Hai già formato il team su automazione e AI per la rete? Se non ora, quando?",
+        "visual_hint": "Team che segue corso in aula",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "office training workshop",
+        "image": "https://images.pexels.com/photos/7648024/pexels-photo-7648024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/chuck-robbins-2270936687.jpg?resize=1200,865",
+    "pubDate": "Thu, 14 May 2026 14:01:14 +0000",
+    "savedAt": "2026-05-14T16:07:02.648Z",
+    "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/"
+  },
+  {
     "title": "Rivian spinoff Mind Robotics raises another $400M",
     "slides": [
       "Rivian spinoff Mind Robotics raccoglie $400M extra.",
