@@ -1,5 +1,230 @@
 window.ARTICLES = [
   {
+    "title": "Rivian spinoff Mind Robotics raises another $400M",
+    "slides": [
+      "Rivian spinoff Mind Robotics raccoglie $400M extra.",
+      "Ma i fondi non vanno a veicoli elettrici.",
+      "L'obiettivo reale? Robot umanoidi per fabbriche.",
+      "Chi investe in logistica deve riconsiderare il futuro.",
+      "Prova a prevedere l'impatto sulla tua supply chain."
+    ],
+    "thread_text": [
+      "Mind Robotics, la società nata da Rivian, ha appena raccolto 400 milioni extra. Ma non li userà per fare veicoli elettrici.",
+      "Quei soldi servono a costruire robot umanoidi. Macchine che camminano, sollevano, lavorano. Destinate alle fabbriche.",
+      "Il punto: se sei nella logistica o nella manifattura, stai competendo contro macchine che non si stancano, non si ammalano, non chiedono ferie.",
+      "I fondi arrivano da chi scommette che tra 5 anni metà delle linee di assemblaggio saranno gestite da umanoidi. Non è un esperimento, è una scommessa da miliardi.",
+      "Prendi la tua supply chain. Quale attività ripetitiva, su tre turni, potrebbe essere già oggi sostituita da un robot a 20$ l'ora?"
+    ],
+    "video_script": [
+      "Hanno raccolto 400 milioni di dollari extra.",
+      "Ma non per fare auto elettriche.",
+      "Vogliono robot umanoidi per le fabbriche.",
+      "Se lavori nella logistica, è il momento di preoccuparti.",
+      "Quale parte della tua supply chain può essere automatizzata?"
+    ],
+    "instagram_caption": "Una costola di Rivian si è appena presa 400 milioni di dollari: non per fare auto, ma per costruire robot umanoidi da fabbrica 🦿.  \nIl piano è piazzare macchine che camminano, sollevano e lavorano su tre turni senza pause 💪. Per chi fa logistica o manifattura, la domanda è semplice: quante delle tue attività ripetitive reggono il confronto con un operaio che costa 20$ l’ora e non chiede ferie? ⏱️  \nGuardati la supply chain e scegli: investire prima che i robot lo facciano per te? 🏭",
+    "carousel_slides": [
+      {
+        "hook": "Robot umanoidi nelle fabbriche",
+        "description": "Mind Robotics raccoglie 400 milioni per robot umanoidi, non per veicoli elettrici.",
+        "visual_hint": "Robot umanoide su linea",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "humanoid robot factory"
+      },
+      {
+        "hook": "Fondi non per EV",
+        "description": "I soldi servono a costruire robot che camminano, sollevano e lavorano nelle fabbriche.",
+        "visual_hint": "Banconote e robot",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot assembly line",
+        "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Macchine instancabili",
+        "description": "Competi contro robot che non si stancano, non si ammalano, non chiedono ferie.",
+        "visual_hint": "Robot vs operaio",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Scommessa da miliardi",
+        "description": "Investitori puntano che metà delle linee di assemblaggio saranno gestite da umanoidi in 5 anni.",
+        "visual_hint": "Grafico in crescita",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "E la tua supply chain?",
+        "description": "Quale attività ripetitiva su tre turni potrebbe essere sostituita da un robot a $20/ora?",
+        "visual_hint": "Fabbrica di notte",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "warehouse robots",
+        "image": "https://images.pexels.com/photos/10875411/pexels-photo-10875411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/10/TechCrunch-Disrupt-Haje-Kamps-529.jpg?resize=1200,800",
+    "pubDate": "Wed, 13 May 2026 16:34:21 +0000",
+    "savedAt": "2026-05-14T10:08:03.048Z",
+    "link": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/"
+  },
+  {
+    "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+    "slides": [
+      "Campbell Brown shaped your news feed. Now she shapes AI's voice.",
+      "Meta's former news gatekeeper now sets rules for chatbots.",
+      "She says AI should cite sources — but who decides whose sources?",
+      "Every answer you get is edited by invisible human choices.",
+      "Ask your AI tomorrow: who trained your truth?"
+    ],
+    "thread_text": [
+      "Un tempo decideva cosa vedevi su Facebook. Ora decide come rispondono i chatbot. Campbell Brown è passata dal gatekeeping delle news a quello dell'AI.",
+      "La sua tesi: l'AI deve citare le fonti. Suona bene, ma il punto è un altro: chi sceglie quali fonti sono ammissibili? E chi decide quando una fonte è abbastanza autorevole?",
+      "Ogni risposta che ottieni da un assistente AI è il risultato di scelte umane invisibili. Non è un flusso neutro di dati: è una redazione di notizie in scala miliardaria, senza etichetta.",
+      "Meta ha messo una persona con esperienza di moderazione editoriale a scrivere le regole dei bot. Non un ingegnere, non un eticista: una gatekeeper. Questa non è una nota a piè di pagina.",
+      "Domani, quando apri il tuo assistente AI preferito, fai una domanda: 'Chi ha deciso quali fonti hai usato per addestrarti?' Se non ottieni risposta, hai già la risposta."
+    ],
+    "video_script": [
+      "Campbell Brown decideva il tuo feed Facebook.",
+      "Ora decide cosa dicono i chatbot.",
+      "Sembra un dettaglio, ma non lo è.",
+      "Lei dice: l'AI deve citare le fonti.",
+      "Il problema: chi sceglie le fonti?"
+    ],
+    "instagram_caption": "Campbell Brown non decide più cosa vedi nel feed di Facebook: ora detta le regole per i chatbot.  \nLei sostiene che l'AI deve citare le fonti. Ma chi sceglie quali fonti sono affidabili? Tradotto: ogni risposta che leggi è il frutto di scelte umane nascoste, come una redazione senza etichetta.  \nPer te che usi assistenti al lavoro o in studio: quello che il bot ti dice dipende da chi ha deciso cosa è vero.  \nDomani prova a chiedergli: \"Chi ha addestrato la tua verità?\"",
+    "carousel_slides": [
+      {
+        "hook": "Chi addestra la tua IA?",
+        "description": "Ogni risposta dei chatbot è filtrata da scelte umane invisibili, non dati neutrali.",
+        "visual_hint": "mano che modifica flusso dati",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room cables"
+      },
+      {
+        "hook": "Da Facebook ai bot.",
+        "description": "Campbell Brown è passata dal gatekeeping delle news a quello dell'AI.",
+        "visual_hint": "frecce che collegano piattaforme",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "social media icons",
+        "image": "https://images.pexels.com/photos/9822668/pexels-photo-9822668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Fonti sì, ma chi decide quali?",
+        "description": "L'AI deve citare fonti. Il vero problema: chi stabilisce cosa è autorevole?",
+        "visual_hint": "lente d'ingrandimento su fonti",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "library bookshelves",
+        "image": "https://images.pexels.com/photos/6333724/pexels-photo-6333724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Una gatekeeper, non un ingegnere.",
+        "description": "Meta ha affidato le regole dei bot a un'esperta di moderazione editoriale. Non un eticista.",
+        "visual_hint": "ingranaggio con firma umana",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers desk",
+        "image": "https://images.pexels.com/photos/12902868/pexels-photo-12902868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Chiedilo al tuo assistente.",
+        "description": "Domanda: 'Chi ha deciso le fonti del tuo addestramento?' Se tace, hai la risposta.",
+        "visual_hint": "chatbot che risponde muto",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone chatbot screen",
+        "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/55242809761_199f3d15fd_k.jpg?resize=1200,800",
+    "pubDate": "Thu, 14 May 2026 06:05:31 +0000",
+    "savedAt": "2026-05-14T10:07:48.062Z",
+    "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/"
+  },
+  {
+    "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
+    "slides": [
+      "Humanoid robot in your factory—closer than you think?",
+      "Companies like BMW now test them on real assembly lines.",
+      "They learn tasks in hours, not the months humans need.",
+      "Your team could be retrained, not replaced yet.",
+      "Tomorrow's workforce: ask which tasks you'd automate."
+    ],
+    "thread_text": [
+      "Un robot umanoide impara un lavoro industriale in ore. A un essere umano servono mesi. BMW li sta già testando in catena di montaggio.",
+      "Non scansionano codici a barre. Usano visione artificiale e mani che girano viti. Cambiano task senza riprogrammazione.",
+      "Il costo orario di un operaio umano in fabbrica è tra 30 e 50 dollari. Un robot umanoide in leasing costa meno di 10 dollari l'ora.",
+      "Il tuo team non sarà sostituito domani. Sarà riaddestrato: a supervisionare, diagnosticare e ottimizzare il lavoro dei robot.",
+      "Scegli un task ripetitivo e fisicamente usurante nel tuo reparto. Quello sarà automatizzato entro 18 mesi. Inizia a pianificare ora."
+    ],
+    "video_script": [
+      "Un robot impara in ore. Un umano in mesi.",
+      "BMW li sta già testando in fabbrica.",
+      "Vedono e girano viti con le mani.",
+      "Il tuo team sarà riaddestrato, non sostituito.",
+      "Quale task automatizzeresti domani?"
+    ],
+    "instagram_caption": "BMW ha già messo robot umanoidi sulla catena di montaggio: imparano un lavoro in ore, non in mesi come farebbe una persona 🤖. Usano telecamere e mani人工 che girano viti, senza bisogno di riprogrammazione per cambiare compito ⚙️. Il costo di noleggio scende sotto i 10 dollari ora, contro i 30-50 di un operaio umano 💰. Per te significa che il tuo team sarà formato per supervisionarli, non sostituito subito 👥. Quale compito ripetitivo automatizzeresti nel tuo reparto tra 18 mesi?",
+    "carousel_slides": [
+      {
+        "hook": "Impara in ore, non mesi",
+        "description": "Un robot umanoide impara un lavoro industriale in ore. BMW li sta già testando in catena di montaggio.",
+        "visual_hint": "Robot che impara su nastro",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "humanoid robot assembly line"
+      },
+      {
+        "hook": "Vede e opera come un umano",
+        "description": "Non scansionano codici a barre. Usano visione artificiale e mani che girano viti. Cambiano task senza riprogrammazione.",
+        "visual_hint": "Mani robotiche che avvitano",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot hand screwdriver",
+        "image": "https://images.pexels.com/photos/29054365/pexels-photo-29054365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costa meno di 10 $ l'ora",
+        "description": "Un operaio costa tra 30 e 50 $ l'ora. Un robot umanoide in leasing costa meno di 10 $ l'ora.",
+        "visual_hint": "Grafico costo orario",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cost comparison chart",
+        "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Team riaddestrato, non sostituito",
+        "description": "Il tuo team non sarà sostituito domani. Sarà riaddestrato: a supervisionare, diagnosticare e ottimizzare i robot.",
+        "visual_hint": "Operaio che addestra robot",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "worker training robot",
+        "image": "https://images.pexels.com/photos/29988954/pexels-photo-29988954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Quale task automatizzerai?",
+        "description": "Scegli un task ripetitivo e usurante. Sarà automatizzato entro 18 mesi. Inizia a pianificare ora.",
+        "visual_hint": "Checklist su tablet",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "factory automation checklist",
+        "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Physical-AI-moves-closer-to-factory-floors-as-companies-test-humanoid-robots-scaled-e1778734671341.jpg",
+    "pubDate": "Thu, 14 May 2026 10:00:00 +0000",
+    "savedAt": "2026-05-14T10:07:32.743Z",
+    "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/"
+  },
+  {
     "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
     "slides": [
       "Cat Wu: AI that reads your mind before you ask?",

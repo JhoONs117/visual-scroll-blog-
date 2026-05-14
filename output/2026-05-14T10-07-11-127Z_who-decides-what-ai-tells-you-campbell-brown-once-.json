@@ -1,0 +1,75 @@
+{
+  "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+  "slides": [
+    "Campbell Brown shaped your news feed. Now she shapes AI's voice.",
+    "Meta's former news gatekeeper now sets rules for chatbots.",
+    "She says AI should cite sources — but who decides whose sources?",
+    "Every answer you get is edited by invisible human choices.",
+    "Ask your AI tomorrow: who trained your truth?"
+  ],
+  "thread_text": [
+    "Un tempo decideva cosa vedevi su Facebook. Ora decide come rispondono i chatbot. Campbell Brown è passata dal gatekeeping delle news a quello dell'AI.",
+    "La sua tesi: l'AI deve citare le fonti. Suona bene, ma il punto è un altro: chi sceglie quali fonti sono ammissibili? E chi decide quando una fonte è abbastanza autorevole?",
+    "Ogni risposta che ottieni da un assistente AI è il risultato di scelte umane invisibili. Non è un flusso neutro di dati: è una redazione di notizie in scala miliardaria, senza etichetta.",
+    "Meta ha messo una persona con esperienza di moderazione editoriale a scrivere le regole dei bot. Non un ingegnere, non un eticista: una gatekeeper. Questa non è una nota a piè di pagina.",
+    "Domani, quando apri il tuo assistente AI preferito, fai una domanda: 'Chi ha deciso quali fonti hai usato per addestrarti?' Se non ottieni risposta, hai già la risposta."
+  ],
+  "video_script": [
+    "Campbell Brown decideva il tuo feed Facebook.",
+    "Ora decide cosa dicono i chatbot.",
+    "Sembra un dettaglio, ma non lo è.",
+    "Lei dice: l'AI deve citare le fonti.",
+    "Il problema: chi sceglie le fonti?"
+  ],
+  "instagram_caption": "Campbell Brown non decide più cosa vedi nel feed di Facebook: ora detta le regole per i chatbot.  \nLei sostiene che l'AI deve citare le fonti. Ma chi sceglie quali fonti sono affidabili? Tradotto: ogni risposta che leggi è il frutto di scelte umane nascoste, come una redazione senza etichetta.  \nPer te che usi assistenti al lavoro o in studio: quello che il bot ti dice dipende da chi ha deciso cosa è vero.  \nDomani prova a chiedergli: \"Chi ha addestrato la tua verità?\"",
+  "carousel_slides": [
+    {
+      "hook": "Chi addestra la tua IA?",
+      "description": "Ogni risposta dei chatbot è filtrata da scelte umane invisibili, non dati neutrali.",
+      "visual_hint": "mano che modifica flusso dati",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room cables"
+    },
+    {
+      "hook": "Da Facebook ai bot.",
+      "description": "Campbell Brown è passata dal gatekeeping delle news a quello dell'AI.",
+      "visual_hint": "frecce che collegano piattaforme",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "social media icons",
+      "image": "https://images.pexels.com/photos/9822668/pexels-photo-9822668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fonti sì, ma chi decide quali?",
+      "description": "L'AI deve citare fonti. Il vero problema: chi stabilisce cosa è autorevole?",
+      "visual_hint": "lente d'ingrandimento su fonti",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "library bookshelves",
+      "image": "https://images.pexels.com/photos/6333724/pexels-photo-6333724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Una gatekeeper, non un ingegnere.",
+      "description": "Meta ha affidato le regole dei bot a un'esperta di moderazione editoriale. Non un eticista.",
+      "visual_hint": "ingranaggio con firma umana",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers desk",
+      "image": "https://images.pexels.com/photos/12902868/pexels-photo-12902868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chiedilo al tuo assistente.",
+      "description": "Domanda: 'Chi ha deciso le fonti del tuo addestramento?' Se tace, hai la risposta.",
+      "visual_hint": "chatbot che risponde muto",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone chatbot screen",
+      "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/55242809761_199f3d15fd_k.jpg?resize=1200,800",
+  "pubDate": "Thu, 14 May 2026 06:05:31 +0000",
+  "savedAt": "2026-05-14T10:07:48.062Z",
+  "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/"
+}

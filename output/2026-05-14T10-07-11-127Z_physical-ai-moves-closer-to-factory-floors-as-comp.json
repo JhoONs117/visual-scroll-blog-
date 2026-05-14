@@ -1,0 +1,75 @@
+{
+  "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
+  "slides": [
+    "Humanoid robot in your factory—closer than you think?",
+    "Companies like BMW now test them on real assembly lines.",
+    "They learn tasks in hours, not the months humans need.",
+    "Your team could be retrained, not replaced yet.",
+    "Tomorrow's workforce: ask which tasks you'd automate."
+  ],
+  "thread_text": [
+    "Un robot umanoide impara un lavoro industriale in ore. A un essere umano servono mesi. BMW li sta già testando in catena di montaggio.",
+    "Non scansionano codici a barre. Usano visione artificiale e mani che girano viti. Cambiano task senza riprogrammazione.",
+    "Il costo orario di un operaio umano in fabbrica è tra 30 e 50 dollari. Un robot umanoide in leasing costa meno di 10 dollari l'ora.",
+    "Il tuo team non sarà sostituito domani. Sarà riaddestrato: a supervisionare, diagnosticare e ottimizzare il lavoro dei robot.",
+    "Scegli un task ripetitivo e fisicamente usurante nel tuo reparto. Quello sarà automatizzato entro 18 mesi. Inizia a pianificare ora."
+  ],
+  "video_script": [
+    "Un robot impara in ore. Un umano in mesi.",
+    "BMW li sta già testando in fabbrica.",
+    "Vedono e girano viti con le mani.",
+    "Il tuo team sarà riaddestrato, non sostituito.",
+    "Quale task automatizzeresti domani?"
+  ],
+  "instagram_caption": "BMW ha già messo robot umanoidi sulla catena di montaggio: imparano un lavoro in ore, non in mesi come farebbe una persona 🤖. Usano telecamere e mani人工 che girano viti, senza bisogno di riprogrammazione per cambiare compito ⚙️. Il costo di noleggio scende sotto i 10 dollari ora, contro i 30-50 di un operaio umano 💰. Per te significa che il tuo team sarà formato per supervisionarli, non sostituito subito 👥. Quale compito ripetitivo automatizzeresti nel tuo reparto tra 18 mesi?",
+  "carousel_slides": [
+    {
+      "hook": "Impara in ore, non mesi",
+      "description": "Un robot umanoide impara un lavoro industriale in ore. BMW li sta già testando in catena di montaggio.",
+      "visual_hint": "Robot che impara su nastro",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "humanoid robot assembly line"
+    },
+    {
+      "hook": "Vede e opera come un umano",
+      "description": "Non scansionano codici a barre. Usano visione artificiale e mani che girano viti. Cambiano task senza riprogrammazione.",
+      "visual_hint": "Mani robotiche che avvitano",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot hand screwdriver",
+      "image": "https://images.pexels.com/photos/29054365/pexels-photo-29054365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costa meno di 10 $ l'ora",
+      "description": "Un operaio costa tra 30 e 50 $ l'ora. Un robot umanoide in leasing costa meno di 10 $ l'ora.",
+      "visual_hint": "Grafico costo orario",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cost comparison chart",
+      "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Team riaddestrato, non sostituito",
+      "description": "Il tuo team non sarà sostituito domani. Sarà riaddestrato: a supervisionare, diagnosticare e ottimizzare i robot.",
+      "visual_hint": "Operaio che addestra robot",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "worker training robot",
+      "image": "https://images.pexels.com/photos/29988954/pexels-photo-29988954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Quale task automatizzerai?",
+      "description": "Scegli un task ripetitivo e usurante. Sarà automatizzato entro 18 mesi. Inizia a pianificare ora.",
+      "visual_hint": "Checklist su tablet",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "factory automation checklist",
+      "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Physical-AI-moves-closer-to-factory-floors-as-companies-test-humanoid-robots-scaled-e1778734671341.jpg",
+  "pubDate": "Thu, 14 May 2026 10:00:00 +0000",
+  "savedAt": "2026-05-14T10:07:32.743Z",
+  "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/"
+}
