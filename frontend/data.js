@@ -1,5 +1,155 @@
 window.ARTICLES = [
   {
+    "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+    "slides": [
+      "Wirestock ha raccolto 23 milioni di dollari. E ora?",
+      "Servono dati multimodali per addestrare l'IA",
+      "La scarsità di dati creativi è il vero collo di bottiglia",
+      "Chi sviluppa IA potrà pagare meno per dati di qualità?",
+      "Questo round cambia le regole dell'offerta di dati."
+    ],
+    "thread_text": [
+      "La scarsità di dati creativi è il vero collo di bottiglia dell'AI. Non i chip, non l'energia. I modelli migliori si fermano perché non trovano contenuti di qualità da cui imparare.",
+      "Wirestock ha appena raccolto 23 milioni di dollari per risolvere questo problema. Loro collezionano e organizzano dati multimodali — immagini, video, audio — e li vendono a chi sviluppa AI.",
+      "Finora i creatori venivano pagati una volta sola. Con questo modello, chi addestra l'AI paga meno per ogni dato, ma lo paga continuamente. La qualità non è più un costo fisso, è un flusso.",
+      "Il problema è che i dati generici non bastano più. Servono contenuti specifici, curati, con metadata puliti. E chi li produce — fotografi, videomaker — diventa fornitore critico di una risorsa scarsa.",
+      "Se sei un creatore, il momento è adesso. Le piattaforme stanno comprando dataset interi. Pubblica su un marketplace che ti garantisce royalties. Tra due anni la domanda sarà decuplicata."
+    ],
+    "video_script": [
+      "Il collo di bottiglia non sono i chip.",
+      "Sono i dati creativi.",
+      "Wirestock ha raccolto 23 milioni per questo.",
+      "Organizzano immagini, video, audio per l'AI.",
+      "Pagarai meno per dati di qualità."
+    ],
+    "instagram_caption": "23 milioni di dollari per comprare foto, video e audio da usare come cibo per l’intelligenza artificiale. Wirestock ha chiuso un round pazzesco. Il problema? I modelli di IA muoiono di fame: non trovano abbastanza contenuti creativi e ben catalogati per imparare. Così questa piattaforma compra il lavoro dei creatori 📸 e lo rivende alle aziende di AI, che pagano un abbonamento continuo. Per chi crea contenuti — fotografi, videomaker — significa royalty ricorrenti invece di un pagamento unico. Per chi usa strumenti AI, qualità più alta a costo più stabile 💰. Il collo di bottiglia dell’intelligenza artificiale oggi non sono i chip, ma la scarsità di dati.",
+    "carousel_slides": [
+      {
+        "hook": "La vera scarsità dell'AI",
+        "description": "Non chip o energia. I modelli migliori si fermano perché mancano dati creativi di qualità da cui imparare.",
+        "visual_hint": "Bottiglia di vetro sul collo",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "glass bottleneck"
+      },
+      {
+        "hook": "23 milioni per dati",
+        "description": "Wirestock raccoglie dati multimodali — immagini, video, audio — e li rivende a chi sviluppa AI.",
+        "visual_hint": "Mucchio di monete e file",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "money data server",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Creatori pagati in flusso",
+        "description": "Non un pagamento una tantum. Chi addestra l'AI paga meno per dato, ma lo paga continuamente.",
+        "visual_hint": "Freccia che sale a loop",
+        "layout_type": "sensor-zoom",
+        "icon": "waves",
+        "image_query": "arrow chart loop",
+        "image": "https://images.pexels.com/photos/9822733/pexels-photo-9822733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Contenuti specifici scarseggiano",
+        "description": "I dati generici non bastano. Servono contenuti curati, con metadata puliti. Fotografi diventano fornitori critici.",
+        "visual_hint": "Lente d'ingrandimento su foto",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "magnifying glass photo",
+        "image": "https://images.pexels.com/photos/12859446/pexels-photo-12859446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pubblica ora, guadagna dopo",
+        "description": "Le piattaforme comprano dataset interi. Tra due anni la domanda sarà decuplicata. Pubblica su un marketplace con royalties.",
+        "visual_hint": "Calendario con monete",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "calendar coins growth",
+        "image": "https://images.pexels.com/photos/7163951/pexels-photo-7163951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Wirestock-team.jpg?resize=1200,675",
+    "pubDate": "Thu, 14 May 2026 14:00:00 +0000",
+    "savedAt": "2026-05-14T19:29:22.899Z",
+    "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/"
+  },
+  {
+    "title": "OpenAI says hackers stole some data after latest code security issue",
+    "slides": [
+      "OpenAI ha subito un furto di dati, ma quali?",
+      "La violazione è partita da un bug nel codice interno.",
+      "I dati esposti includono dettagli tecnici di sviluppo.",
+      "Il tuo modello potrebbe basarsi su codice compromesso.",
+      "Verifica le tue integrazioni con le API di OpenAI oggi."
+    ],
+    "thread_text": [
+      "Il tuo modello AI potrebbe basarsi su codice compromesso. OpenAI ha subito un furto di dati, e le ripercussioni sono più vicine di quanto pensi.",
+      "Tutto è partito da un bug nel codice interno: una falla apparentemente innocua ha permesso l'accesso a informazioni sensibili.",
+      "I dati esposti includono dettagli tecnici di sviluppo, non solo log di chat. Chi ha violato il sistema ha visto molto di più di quello che doveva.",
+      "Questo significa che ogni integrazione con le API di OpenAI potrebbe poggiare su codice non sicuro. Il rischio non è teorico: è già in produzione.",
+      "Hai verificato le tue API key nelle ultime 24 ore? Se no, fallo ora. Non aspettare che il bug colpisca il tuo sistema."
+    ],
+    "video_script": [
+      "OpenAI ha subito un furto di dati.",
+      "Un bug nel codice ha causato tutto.",
+      "I dettagli tecnici sono stati esposti.",
+      "Il tuo modello potrebbe basarsi su codice compromesso.",
+      "Controlla le tue integrazioni con le API."
+    ],
+    "instagram_caption": "OpenAI ha ammesso che un bug nel codice interno ha permesso a hacker di rubare dati tecnici di sviluppo, non solo log di chat. 🛑 La falla ha esposto dettagli su come funzionano i modelli, cioè il cuore del sistema. 🔍 Se usi strumenti basati sulle loro API, potresti lavorare su codice compromesso senza saperlo. Hai controllato le tue chiavi API oggi? ⏳",
+    "carousel_slides": [
+      {
+        "hook": "Dati tecnici rubati da OpenAI",
+        "description": "Dettagli tecnici di sviluppo esposti, non solo chat log. Chi ha violato ha visto molto di più.",
+        "visual_hint": "Codice su schermo",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room cables"
+      },
+      {
+        "hook": "Un bug ha permesso l'accesso",
+        "description": "Una falla apparentemente innocua nel codice interno ha permesso l'accesso a informazioni sensibili.",
+        "visual_hint": "Schermo con bug",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer screen code",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tuo modello su codice compromesso?",
+        "description": "Ogni integrazione con le API di OpenAI potrebbe poggiare su codice non sicuro. Il rischio è già in produzione.",
+        "visual_hint": "Ingranaggio rotto",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Verifica le API key ora",
+        "description": "Hai verificato le tue API key nelle ultime 24 ore? Se no, fallo ora. Non aspettare che il bug colpisca.",
+        "visual_hint": "Mano che digita",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers typing",
+        "image": "https://images.pexels.com/photos/7653568/pexels-photo-7653568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Controlla le integrazioni oggi",
+        "description": "Non aspettare che il bug colpisca il tuo sistema. Verifica le tue integrazioni con le API di OpenAI oggi.",
+        "visual_hint": "Icona di verifica",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "pubDate": "Thu, 14 May 2026 16:25:20 +0000",
+    "savedAt": "2026-05-14T19:29:09.555Z",
+    "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/"
+  },
+  {
     "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
     "slides": [
       "Cisco taglia 4.000 posti: sacrificio per l'AI o segnale d'allarme?",

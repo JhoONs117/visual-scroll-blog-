@@ -1,0 +1,75 @@
+{
+  "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+  "slides": [
+    "Wirestock ha raccolto 23 milioni di dollari. E ora?",
+    "Servono dati multimodali per addestrare l'IA",
+    "La scarsità di dati creativi è il vero collo di bottiglia",
+    "Chi sviluppa IA potrà pagare meno per dati di qualità?",
+    "Questo round cambia le regole dell'offerta di dati."
+  ],
+  "thread_text": [
+    "La scarsità di dati creativi è il vero collo di bottiglia dell'AI. Non i chip, non l'energia. I modelli migliori si fermano perché non trovano contenuti di qualità da cui imparare.",
+    "Wirestock ha appena raccolto 23 milioni di dollari per risolvere questo problema. Loro collezionano e organizzano dati multimodali — immagini, video, audio — e li vendono a chi sviluppa AI.",
+    "Finora i creatori venivano pagati una volta sola. Con questo modello, chi addestra l'AI paga meno per ogni dato, ma lo paga continuamente. La qualità non è più un costo fisso, è un flusso.",
+    "Il problema è che i dati generici non bastano più. Servono contenuti specifici, curati, con metadata puliti. E chi li produce — fotografi, videomaker — diventa fornitore critico di una risorsa scarsa.",
+    "Se sei un creatore, il momento è adesso. Le piattaforme stanno comprando dataset interi. Pubblica su un marketplace che ti garantisce royalties. Tra due anni la domanda sarà decuplicata."
+  ],
+  "video_script": [
+    "Il collo di bottiglia non sono i chip.",
+    "Sono i dati creativi.",
+    "Wirestock ha raccolto 23 milioni per questo.",
+    "Organizzano immagini, video, audio per l'AI.",
+    "Pagarai meno per dati di qualità."
+  ],
+  "instagram_caption": "23 milioni di dollari per comprare foto, video e audio da usare come cibo per l’intelligenza artificiale. Wirestock ha chiuso un round pazzesco. Il problema? I modelli di IA muoiono di fame: non trovano abbastanza contenuti creativi e ben catalogati per imparare. Così questa piattaforma compra il lavoro dei creatori 📸 e lo rivende alle aziende di AI, che pagano un abbonamento continuo. Per chi crea contenuti — fotografi, videomaker — significa royalty ricorrenti invece di un pagamento unico. Per chi usa strumenti AI, qualità più alta a costo più stabile 💰. Il collo di bottiglia dell’intelligenza artificiale oggi non sono i chip, ma la scarsità di dati.",
+  "carousel_slides": [
+    {
+      "hook": "La vera scarsità dell'AI",
+      "description": "Non chip o energia. I modelli migliori si fermano perché mancano dati creativi di qualità da cui imparare.",
+      "visual_hint": "Bottiglia di vetro sul collo",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "glass bottleneck"
+    },
+    {
+      "hook": "23 milioni per dati",
+      "description": "Wirestock raccoglie dati multimodali — immagini, video, audio — e li rivende a chi sviluppa AI.",
+      "visual_hint": "Mucchio di monete e file",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "money data server",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Creatori pagati in flusso",
+      "description": "Non un pagamento una tantum. Chi addestra l'AI paga meno per dato, ma lo paga continuamente.",
+      "visual_hint": "Freccia che sale a loop",
+      "layout_type": "sensor-zoom",
+      "icon": "waves",
+      "image_query": "arrow chart loop",
+      "image": "https://images.pexels.com/photos/9822733/pexels-photo-9822733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Contenuti specifici scarseggiano",
+      "description": "I dati generici non bastano. Servono contenuti curati, con metadata puliti. Fotografi diventano fornitori critici.",
+      "visual_hint": "Lente d'ingrandimento su foto",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "magnifying glass photo",
+      "image": "https://images.pexels.com/photos/12859446/pexels-photo-12859446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pubblica ora, guadagna dopo",
+      "description": "Le piattaforme comprano dataset interi. Tra due anni la domanda sarà decuplicata. Pubblica su un marketplace con royalties.",
+      "visual_hint": "Calendario con monete",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "calendar coins growth",
+      "image": "https://images.pexels.com/photos/7163951/pexels-photo-7163951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Wirestock-team.jpg?resize=1200,675",
+  "pubDate": "Thu, 14 May 2026 14:00:00 +0000",
+  "savedAt": "2026-05-14T19:29:22.899Z",
+  "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/"
+}
