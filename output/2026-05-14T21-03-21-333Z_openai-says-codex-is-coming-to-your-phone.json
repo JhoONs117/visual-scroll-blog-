@@ -71,5 +71,84 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/App-view.png?resize=1200,675",
   "pubDate": "Thu, 14 May 2026 20:58:55 +0000",
   "savedAt": "2026-05-14T21:03:37.194Z",
-  "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/"
+  "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-says-codex-is-coming-to-your-phone",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Scrivi codice con la voce, anche offline. Codex arriva sul telefono e cambia tutto: non devi più essere davanti a un PC per sviluppare.",
+        "Dai comandi vocali o scrivi cosa vuoi in linguaggio normale. L’AI trasforma quella frase in una funzione reale, pronta da eseguire.",
+        "La parte sorprendente: funziona anche senza connessione. Non ovunque, ma abbastanza da coprirti in treno, in coda, ovunque non arrivi la rete.",
+        "Significa che modifichi un’app mentre sei in fila al bar. Apri il telefono, detti una modifica, e il codice è già lì. Senza aprire un editor.",
+        "Ogni funzione costa meno di un abbonamento Spotify. Provala oggi: scrivi un prompt, ottieni codice reale. Non serve altro per iniziare."
+      ]
+    },
+    "instagram": {
+      "caption": "Ora modifichi un’app mentre sei in fila al bar, senza aprire un editor. 🧠 Codex arriva sul telefono e trasforma comandi vocali o testo in codice funzionante, anche offline nei posti senza connessione. 📱 Non hai più bisogno del PC per sviluppare: detti una modifica e la funzione è pronta. Ogni prompt costa meno di un abbonamento Spotify. Qual è la prima cosa che gli chiederesti di scrivere? 💬",
+      "carousel": [
+        {
+          "hook": "Scrivi codice con la voce",
+          "description": "Codex arriva sul telefono e cambia tutto: sviluppi senza PC.",
+          "visual_hint": "telefono che trasforma voce in codice",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "smartphone voice typing"
+        },
+        {
+          "hook": "Un prompt, una funzione",
+          "description": "Dai comandi vocali o testo. L'AI trasforma la frase in codice reale.",
+          "visual_hint": "frase che diventa funzione",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "code on phone screen",
+          "image": "https://images.pexels.com/photos/33607948/pexels-photo-33607948.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Anche offline, ma non tutto",
+          "description": "Funziona senza connessione: in treno, in coda, ovunque non arrivi la rete.",
+          "visual_hint": "segnale offline con codice",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "offline coding phone",
+          "image": "https://images.pexels.com/photos/33607948/pexels-photo-33607948.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Modifichi app in coda al bar",
+          "description": "Apri il telefono, detti una modifica e il codice è già lì. Senza editor.",
+          "visual_hint": "mano che tiene telefono al bar",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/17469129/pexels-photo-17469129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Provalo oggi: un prompt",
+          "description": "Ogni funzione costa meno di un abbonamento Spotify. Inizia subito.",
+          "visual_hint": "prompt che genera codice",
+          "layout_type": "cta-final",
+          "icon": "heart",
+          "image_query": "code prompt result",
+          "image": "https://images.pexels.com/photos/31343288/pexels-photo-31343288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Codex ora sta sul tuo telefono.",
+        "Parli e lui scrive codice.",
+        "Funziona anche offline, in parte.",
+        "Modifichi app mentre sei in coda.",
+        "Prova oggi: un prompt, una funzione."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

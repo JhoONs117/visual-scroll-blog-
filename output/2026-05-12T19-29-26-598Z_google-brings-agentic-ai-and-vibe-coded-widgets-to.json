@@ -71,5 +71,84 @@
   "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786",
   "pubDate": "Tue, 12 May 2026 17:00:00 +0000",
   "savedAt": "2026-05-12T19:30:21.764Z",
-  "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/"
+  "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-brings-agentic-ai-and-vibe-coded-widgets-to",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Immagina di scrivere 'mostrami i task di oggi' e il telefono ti genera un widget istantaneo. Google sta portando l'AI proprio lì, sulla tua home screen.",
+        "Non più solo risposte vocali. L'AI ora interagisce con i widget: ti crea promemoria, agenda, checklist — tutto con un semplice prompt in linguaggio naturale.",
+        "Il widget non lo scarichi più dal Play Store. Lo generi tu, al volo, digitando cosa ti serve. La home screen diventa un Assistente visivo attivo in tempo reale.",
+        "Il salto è questo: da strumento passivo a agente che agisce per te. Prenota, organizza, sposta app — senza che tu tocchi nulla.",
+        "Prova oggi: chiedi al tuo telefono un widget per le prossime 3 task. Se funziona, non tornerai più indietro."
+      ]
+    },
+    "instagram": {
+      "caption": "Digitando \"mostrami le task di oggi\" ti compare un widget sulla home screen, generato al volo dall’intelligenza artificiale. Google ha integrato l’AI direttamente nei widget di Android: non solo risposte vocali, ma azioni concrete come creare promemoria, checklist o agenda con un prompt in italiano semplice. Il widget non lo scarichi più dallo store: lo generi tu, in tempo reale. Per il tuo lavoro quotidiano significa avere un assistente visivo attivo che prenota, organizza e sposta app senza che tu tocchi nulla. Già provato a chiedere al telefono un widget per le prossime tre scadenze?",
+      "carousel": [
+        {
+          "hook": "Scrivi, lui crea",
+          "description": "Genera widget al volo con un prompt: Google porta l'AI sulla home screen",
+          "visual_hint": "widget generato con promemoria",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "android smartphone home screen"
+        },
+        {
+          "hook": "Non solo parole, fatti",
+          "description": "L'AI crea agenda, checklist e promemoria direttamente sui widget",
+          "visual_hint": "checklist su widget",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "digital checklist schedule",
+          "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scarica? No, genera",
+          "description": "Il widget non arriva dal Play Store: lo crei tu al volo digitando cosa serve",
+          "visual_hint": "prompt e widget che appare",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "typing on smartphone",
+          "image": "https://images.pexels.com/photos/6669795/pexels-photo-6669795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Dai, l'AI agisce",
+          "description": "Da strumento passivo a agente: prenota, organizza, sposta senza che tocchi nulla",
+          "visual_hint": "mano che non tocca schermo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person using smartphone",
+          "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova oggi stesso",
+          "description": "Chiedi un widget per le prossime 3 task. Se funziona, non tornerai indietro",
+          "visual_hint": "task widget attivo",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone task list",
+          "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Scrivi un prompt e hai un widget.",
+        "Google lo sta testando sul telefono.",
+        "L'AI non parla più, agisce.",
+        "La home screen diventa un assistente.",
+        "Chiedi subito un task widget."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

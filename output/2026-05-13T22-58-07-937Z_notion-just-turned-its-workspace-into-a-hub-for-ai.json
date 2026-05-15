@@ -71,5 +71,84 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Notion-Developer-Platform.jpg?w=686",
   "pubDate": "Wed, 13 May 2026 21:45:09 +0000",
   "savedAt": "2026-05-13T22:58:23.243Z",
-  "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/"
+  "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "notion-just-turned-its-workspace-into-a-hub-for-ai",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Il tuo team sta già delegando decisioni critiche all'AI senza che tu lo sappia. Ecco cosa sta succedendo.",
+        "Notion ha aperto la sua piattaforma ad agenti AI autonomi. Non devi scrivere codice: loro eseguono azioni da soli.",
+        "Il problema? Dietro le quinte questi agenti decidono da soli quali priorità seguire. Non sempre quello che vuoi tu.",
+        "Ogni giorno il tuo team potrebbe autorizzare spese, modificare dati o rispondere a clienti senza controllo umano diretto.",
+        "Apri oggi le impostazioni di Notion e controlla quali permessi hai già concesso ai bot. Potresti scoprire cose che non ricordavi."
+      ]
+    },
+    "instagram": {
+      "caption": "Notion ha aperto il suo workspace ad agenti AI autonomi che agiscono senza che tu scriva una riga di codice 🧠. Dietro le quinte, però, questi bot decidono da soli quali priorità seguire — e non sempre le tue. Risultato: il tuo team potrebbe autorizzare spese, modificare dati o rispondere a clienti senza un controllo umano diretto ⚖️. Ogni giorno deleghi scelte critiche all'AI senza saperlo. Controlla oggi stesso quali permessi hai già concesso ai tuoi bot. Hai idea di cosa stiano già facendo in questo momento? 🔍",
+      "carousel": [
+        {
+          "hook": "Il tuo team sta delegando senza sapere",
+          "description": "Decidono loro le priorità, non sempre quello che vuoi tu.",
+          "visual_hint": "orologio e domanda",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Agenti AI eseguono azioni autonomamente",
+          "description": "Non devi scrivere codice: loro fanno da soli.",
+          "visual_hint": "robot che scrive",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Dietro le quinte decidono le priorità",
+          "description": "Non sempre seguono i tuoi obiettivi.",
+          "visual_hint": "ingranaggi e schermo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tuo team autorizza senza controllo",
+          "description": "Spese e dati modificati senza supervisione umana.",
+          "visual_hint": "mano che clicca",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/4543925/pexels-photo-4543925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Controlla i permessi già concessi ai bot",
+          "description": "Scopri cosa hai dimenticato nelle impostazioni di Notion.",
+          "visual_hint": "icona impostazioni",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/31912311/pexels-photo-31912311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Il tuo team usa già agenti AI senza saperlo.",
+        "Notion li ha appena attivati senza chiederti nulla.",
+        "Loro decidono le priorità da soli.",
+        "Tu rischi di perdere il controllo delle scelte.",
+        "Controlla oggi i permessi che hai già dato."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

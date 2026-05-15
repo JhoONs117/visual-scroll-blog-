@@ -80,5 +80,82 @@
   "link": "https://ricette.giallozafferano.it/Bocconcini-di-pollo-alla-mediterranea.html",
   "pubDate": "Tue, 12 May 2026 16:09:00 +0200",
   "savedAt": "2026-05-12T16:23:28.991Z",
-  "image": "https://www.giallozafferano.it/images/361-36168/Bocconcini-di-pollo-alla-mediterranea_650x433_wm.jpg"
+  "image": "https://www.giallozafferano.it/images/361-36168/Bocconcini-di-pollo-alla-mediterranea_650x433_wm.jpg",
+  "schema_version": 2,
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Bocconcini di pollo che sanno di mare e di sole. Olive taggiasche e capperi: il tocco che trasforma un petto banale in un piatto da leccarsi i baffi. Pronto a sporcarti le mani?",
+        "Petto di pollo tagliato a bocconcini, pomodorini dolci, olive taggiasche e capperi. Fresco, sapido, mediterraneo. Gli ingredienti giusti fanno già metà del lavoro.",
+        "Rosola i bocconcini in padella fino a che non sono dorati e croccanti fuori, teneri dentro. Poi sfuma con un goccio di vino bianco – sentirai subito il profumo alzarsi.",
+        "Aggiungi i pomodorini spezzati, le olive e i capperi. Lascia insaporire a fuoco vivo: il sughetto si addensa, i sapori si fondono. Una carezza per il palato.",
+        "Servi caldo, con pane tostato per fare la scarpetta nel sughetto profumatissimo. Provala e fammi sapere com'è andata 👇"
+      ]
+    },
+    "instagram": {
+      "caption": "Non serve andare lontano per sentirsi in vacanza: bastano questi bocconcini di pollo alla mediterranea per portare il sole direttamente nel tuo piatto. 🍋 Petto di pollo tenerissimo, saltato in padella e sfumato col vino, si sposa con pomodorini dolci, olive taggiasche e capperi — il sughetto che si crea è una delizia da raccogliere col pane tostato. Un piatto semplice, ma con tutto il sapore del mare. Pronto per una cena che sa d’estate? Provalo questo weekend 🌿",
+      "carousel": [
+        {
+          "hook": "Bocconcini di pollo alla mediterranea",
+          "description": "Morbidi bocconcini di pollo con olive e capperi, un tripudio di sapori del sole in ogni forchettata.",
+          "visual_hint": "Bocconcini in padella",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory chicken bites"
+        },
+        {
+          "hook": "Ingredienti essenziali",
+          "description": "Petto di pollo, pomodorini, olive taggiasche e capperi: pochi ingredienti, tanto sapore mediterraneo.",
+          "visual_hint": "Ingredienti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory chicken ingredients",
+          "image": "https://images.pexels.com/photos/5769385/pexels-photo-5769385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il gesto che fa la differenza",
+          "description": "Taglia il pollo a bocconcini e rosola in padella fino a doratura perfetta.",
+          "visual_hint": "Mani che tagliano pollo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "cutting chicken chunks",
+          "image": "https://images.pexels.com/photos/11021811/pexels-photo-11021811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "La cottura perfetta",
+          "description": "Sfuma con vino bianco, poi unisci pomodorini, olive e capperi e lascia insaporire.",
+          "visual_hint": "Padella con sfumatura",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory chicken pan",
+          "image": "https://images.pexels.com/photos/25884472/pexels-photo-25884472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Servi e goditi il sughetto",
+          "description": "Impiatta i bocconcini caldi con pane tostato per raccogliere tutto il sughetto saporito.",
+          "visual_hint": "Piatto con pane tostato",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory chicken toast",
+          "image": "https://images.pexels.com/photos/18743145/pexels-photo-18743145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Prendo i bocconcini di pollo e li rosolo.",
+        "Taglio il petto a cubetti e via in padella.",
+        "Sfumo col vino, poi unisco i pomodorini.",
+        "Aggiungo olive taggiasche e capperi, mescolo.",
+        "Servo caldo con pane tostato per il sughetto."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

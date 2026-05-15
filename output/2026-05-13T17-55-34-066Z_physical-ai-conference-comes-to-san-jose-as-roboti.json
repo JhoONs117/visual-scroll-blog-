@@ -71,5 +71,84 @@
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Physical-AI-Expo-Banner.png",
   "pubDate": "Wed, 13 May 2026 13:43:38 +0000",
   "savedAt": "2026-05-13T17:55:55.463Z",
-  "link": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/"
+  "link": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "physical-ai-conference-comes-to-san-jose-as-roboti",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Oltre il 60% dei robot industriali fallisce in ambienti non controllati. Il problema non è più costruirli, ma farli funzionare fuori dal laboratorio.",
+        "La Physical AI è atterrata a San Jose. I sistemi autonomi non sono più prototipi: vengono distribuiti su scala, nei magazzini, nelle fabbriche, nelle strade.",
+        "Il problema è che un ambiente reale è imprevedibile: un pavimento bagnato, un ordine cambiato, un sensore sporco. La macchina si blocca o sbaglia.",
+        "Così gli ingegneri stanno riscrivendo i flussi di lavoro partendo dall’imprevedibilità della macchina, non dalla perfezione della teoria.",
+        "Una sessione mostra dove il tuo settore si romperà per primo. Se non l’hai già fatto, chiedi al tuo reparto operations: quanti fallimenti avete registrato negli ultimi 30 giorni?"
+      ]
+    },
+    "instagram": {
+      "caption": "Oltre 6 robot industriali su 10 si bloccano ancora in ambienti non controllati, come un magazzino o una fabbrica 🏭. La Physical AI Conference a San Jose ha messo in chiaro che il vero problema non è più la costruzione, ma l’affidabilità fuori dal laboratorio. Le aziende stanno riscrivendo i processi partendo dall’imprevedibilità delle macchine, non dalla teoria. Per chi opera nel settore, significa che strumenti e flussi vanno ridisegnati attorno ai limiti reali dei sistemi autonomi 🛠️. Quanti guasti ha registrato il tuo reparto nell’ultimo mese? 📉",
+      "carousel": [
+        {
+          "hook": "Perché 6 robot su 10 falliscono?",
+          "description": "Oltre il 60% dei robot industriali fallisce in ambienti non controllati. Il vero problema è farli funzionare fuori dal laboratorio.",
+          "visual_hint": "robot fermo su pavimento bagnato",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "factory robot stopped"
+        },
+        {
+          "hook": "Autonomous systems now deployed at scale",
+          "description": "La Physical AI è atterrata a San Jose. I sistemi autonomi sono distribuiti su scala in magazzini, fabbriche e strade.",
+          "visual_hint": "magazzino con robot operativi",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "autonomous warehouse robots",
+          "image": "https://images.pexels.com/photos/19114198/pexels-photo-19114198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Un pavimento bagnato e la macchina si blocca",
+          "description": "Ambiente reale imprevedibile: pavimento bagnato, ordine cambiato, sensore sporco. Il robot sbaglia o si ferma.",
+          "visual_hint": "sensore sporco su robot",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "sensor module closeup",
+          "image": "https://images.pexels.com/photos/33792054/pexels-photo-33792054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Riscrivere i flussi dall’imprevedibilità",
+          "description": "Gli ingegneri ora riprogettano i workflow partendo dall’imprevedibilità della macchina, non dalla perfezione della teoria.",
+          "visual_hint": "ingegneri intorno a robot fermo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "engineers inspecting robot",
+          "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Dove si romperà il tuo settore?",
+          "description": "Una sessione mostra dove il tuo settore si romperà per primo. Chiedi al tuo reparto operations: quanti fallimenti negli ultimi 30 giorni?",
+          "visual_hint": "CTA evento con dati fallimenti",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "conference hall crowd",
+          "image": "https://images.pexels.com/photos/13899698/pexels-photo-13899698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Più della metà dei robot fallisce in ambienti reali.",
+        "Non è più un problema di costruirli.",
+        "Il problema è farli funzionare fuori dal laboratorio.",
+        "Gli ingegneri ora riprogettano i processi intorno ai loro errori.",
+        "Una sessione mostra dove il tuo settore si romperà per primo."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

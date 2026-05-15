@@ -71,5 +71,84 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1239765581.jpg?resize=1200,785",
   "pubDate": "Tue, 12 May 2026 17:33:29 +0000",
   "savedAt": "2026-05-12T19:29:48.702Z",
-  "link": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/"
+  "link": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "potholes-cost-cities-millions-this-company-is-usin",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Una startup ha già mappato le buche che si formeranno nel tuo comune. Prima che si aprano.",
+        "Le buche costano ogni anno milioni alle città americane. In riparazioni, danni alle auto, cause legali.",
+        "Ora invece il sistema usa AI e telecamere sui camion della spazzatura. Rileva le crepe quando sono ancora invisibili.",
+        "La manutenzione diventa predittiva: si ripara prima che la buca si apra. Meno soldi, meno traffico, meno incidenti.",
+        "Questa settimana puoi testarlo sul tuo comune. Costa meno di un abbonamento Spotify."
+      ]
+    },
+    "instagram": {
+      "caption": "Le buche costano milioni ogni anno alle città americane in riparazioni, danni alle auto e cause legali 🚧. Una startup ha montato telecamere e AI sui camion della spazzatura per rilevare le crepe quando sono ancora invisibili, prima che il danno si apra 🔍. La manutenzione diventa predittiva: si ripara in tempo, spendendo meno e creando meno traffico 🚛. Questa settimana puoi testarlo sul tuo comune, costa meno di un abbonamento Spotify. Quale strada della tua città meriterebbe un check prima che sia troppo tardi?",
+      "carousel": [
+        {
+          "hook": "Le buche che non vedi ancora",
+          "description": "Una startup ha già mappato le buche che si formeranno nel tuo comune, prima che si aprano.",
+          "visual_hint": "Mappa digitale con punti caldi",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "digital map cracks prediction"
+        },
+        {
+          "hook": "Milioni in buchi sull'asfalto",
+          "description": "Le buche costano ogni anno milioni alle città americane in riparazioni, danni alle auto e cause legali.",
+          "visual_hint": "Auto danneggiata su strada sconnessa",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "car pothole damage road",
+          "image": "https://images.pexels.com/photos/13622966/pexels-photo-13622966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Telecamere sui camion della spazzatura",
+          "description": "Il sistema usa AI e telecamere montate sui camion della spazzatura, rileva crepe ancora invisibili.",
+          "visual_hint": "Telecamera su camion spazzatura",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "camera truck garbage AI",
+          "image": "https://images.pexels.com/photos/18699393/pexels-photo-18699393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manutenzione predittiva, non reattiva",
+          "description": "Si ripara prima che la buca si apra. Meno soldi, meno traffico, meno incidenti.",
+          "visual_hint": "Operai riparano crepa sottile",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "workers fixing asphalt crack",
+          "image": "https://images.pexels.com/photos/29677628/pexels-photo-29677628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costa meno di Spotify",
+          "description": "Questa settimana puoi testarlo sul tuo comune. Costa meno di un abbonamento Spotify.",
+          "visual_hint": "Smartphone con app e città",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone app city map",
+          "image": "https://images.pexels.com/photos/6169861/pexels-photo-6169861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Una startup ha trovato il modo di riparare le buche prima che si formino.",
+        "Ogni anno costano milioni alle città.",
+        "Ma il sistema le individua quando sono ancora invisibili.",
+        "Così la manutenzione diventa predittiva, non reattiva.",
+        "Questa settimana lo puoi testare sul tuo comune."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

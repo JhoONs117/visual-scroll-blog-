@@ -71,5 +71,84 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Alexa-for-Shopping-Chat-Window.jpg?w=1200",
   "pubDate": "Wed, 13 May 2026 14:59:32 +0000",
   "savedAt": "2026-05-13T17:56:36.903Z",
-  "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/"
+  "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amazon-launches-an-ai-shopping-assistant-for-the-s",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Un motore di ricerca ti suggerisce prodotti che non sapevi esistessero, basandosi su bisogni che non hai ancora espresso.",
+        "Amazon ha integrato Alexa+ nel suo nuovo search bar. Non devi più digitare parole chiave precise: basta una frase vaga.",
+        "Il sistema capisce il contesto e il linguaggio naturale. Chiedi 'qualcosa per cucinare veloce' e ottieni risultati curati.",
+        "Le tue liste della spesa diventano inutili. Il motore anticipa ciò che vuoi prima che tu lo scriva, e ti propone alternative.",
+        "Prova a inserire un bisogno generico oggi stesso. Vedi come cambia il modo in cui scopri nuovi prodotti."
+      ]
+    },
+    "instagram": {
+      "caption": "Amazon ha appena integrato Alexa+ nella barra di ricerca, e adesso ti basta una frase tipo \"qualcosa per cucinare veloce\" per vedere prodotti che non sapevi esistessero 🛒. Il motore non aspetta che tu scriva parole chiave precise: capisce il contesto e il linguaggio naturale, come se parlassi a un commesso esperto. Le tue liste della spesa? Diventano obsolete, perché il sistema anticipa bisogni che non hai ancora espresso 🧠. Prova a inserire un bisogno vago oggi stesso e vedi come cambia la scoperta di nuovi articoli ✨",
+      "carousel": [
+        {
+          "hook": "Prodotti che non sapevi esistessero",
+          "description": "Il motore ti suggerisce prodotti basandosi su bisogni che non hai ancora espresso.",
+          "visual_hint": "curated carousel",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "amazon warehouse shelves"
+        },
+        {
+          "hook": "Basta frasi vaghe",
+          "description": "Non servono più parole chiave: basta una frase come 'cucina veloce'.",
+          "visual_hint": "search bar glow",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "amazon search bar",
+          "image": "https://images.pexels.com/photos/6608880/pexels-photo-6608880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Anticipa ogni bisogno",
+          "description": "Il sistema capisce il contesto, anticipa ciò che vuoi e propone alternative.",
+          "visual_hint": "brain with lines",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "ai brain concept",
+          "image": "https://images.pexels.com/photos/9162028/pexels-photo-9162028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Addio liste della spesa",
+          "description": "Le tue liste diventano obsolete: il motore anticipa ogni tuo desiderio.",
+          "visual_hint": "shopping list cross",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand crossing list",
+          "image": "https://images.pexels.com/photos/8978475/pexels-photo-8978475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova un bisogno oggi",
+          "description": "Inserisci un bisogno generico oggi stesso e scopri come nascono nuove scoperte.",
+          "visual_hint": "arrow to screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person typing phone",
+          "image": "https://images.pexels.com/photos/5592313/pexels-photo-5592313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Immagina un motore che ti legge nel pensiero.",
+        "Amazon ha appena lanciato un nuovo search bar.",
+        "Funziona con Alexa+ e capisce frasi naturali.",
+        "Ti fa scoprire cose che non cercavi.",
+        "Le liste della spesa? Non servono più."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

@@ -71,5 +71,84 @@
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/geralt-network-6511448-scaled.jpg",
   "pubDate": "Tue, 12 May 2026 15:37:43 +0000",
   "savedAt": "2026-05-12T16:19:30.270Z",
-  "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/"
+  "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "jbs-dev-on-imperfect-data-and-the-ai-last-mile-fro",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Sai quanto costa l'ultimo miglio dell'AI? Più del modello stesso. E se lo ignori, paghi il 40% in più.",
+        "Un modello perfetto su dati di test è inutile se quelli reali sono sporchi. Il problema non è l'algoritmo, ma la pipeline.",
+        "La verità è che la qualità dei dati degrada nel tempo. Monitorare e pulire i dati è l'unico modo per mantenere il modello vivo.",
+        "Le aziende che trascurano questo passaggio spendono fino al 40% in più in risorse e manutenzione. Un costo nascosto enorme.",
+        "Rivedere la pipeline dati oggi costa meno di un abbonamento Spotify al mese. Fallo questa settimana."
+      ]
+    },
+    "instagram": {
+      "caption": "Sai che un’AI perfetta nei test fallisce sui dati reali, e seignori il problema spendi il 40% in più di risorse? 🧠❌ Non è colpa del modello: i dati si sporcano col tempo e l’ultimo miglio – monitorarli e pulirli – costa più dell’intero sistema. 📉 Per te significa meno sprechi e manutenzione, se rivedi la pipeline dati. 🛠️ Un investimento minimo oggi può evitare costi nascosti enormi. Quanto vale la tua efficienza? 💡",
+      "carousel": [
+        {
+          "hook": "L'ultimo miglio costa più del modello",
+          "description": "Ignorare i dati reali può far spendere il 40% in più. Il problema non è l'algoritmo ma la pipeline.",
+          "visual_hint": "server racks glowing",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Dati perfetti, modello inutile",
+          "description": "Un modello perfetto su dati di test fallisce se i dati reali sono sporchi. Conta la pipeline.",
+          "visual_hint": "messy cables server",
+          "layout_type": "right-focus",
+          "icon": "vibration",
+          "image_query": "server cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "La qualità dei dati degrada",
+          "description": "I dati reali peggiorano nel tempo. Monitorare e pulire è l'unico modo per tenere vivo il modello.",
+          "visual_hint": "graph declining quality",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Spendi il 40% in più?",
+          "description": "Le aziende che trascurano i dati spendono fino al 40% in più in risorse e manutenzione.",
+          "visual_hint": "hand holding coin",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/13223714/pexels-photo-13223714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rivedi la pipeline ora",
+          "description": "Rivedere la pipeline dati costa meno di un abbonamento Spotify. Fallo questa settimana.",
+          "visual_hint": "pipeline flow diagram",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "L'ultimo miglio costa più del modello.",
+        "Il modello perfetto non basta.",
+        "Servono dati puliti per funzionare.",
+        "Chi li ignora paga il 40% in più.",
+        "Rivedi la pipeline, risparmi subito."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

@@ -80,5 +80,82 @@
   "link": "https://ricette.giallozafferano.it/Pasta-al-forno-con-salsiccia-e-piselli.html",
   "pubDate": "Wed, 13 May 2026 15:50:00 +0200",
   "savedAt": "2026-05-13T17:59:51.106Z",
-  "image": "https://www.giallozafferano.it/images/361-36172/Pasta-al-forno-con-salsiccia-e-piselli_650x433_wm.jpg"
+  "image": "https://www.giallozafferano.it/images/361-36172/Pasta-al-forno-con-salsiccia-e-piselli_650x433_wm.jpg",
+  "schema_version": 2,
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "C’è chi la chiama comfort food e chi la chiama felicità. Questa pasta al forno con salsiccia e piselli è cremosa al punto giusto e pronta a rubarti la cena. 🍝",
+        "Rigatoni, salsiccia, mozzarella, besciamella e piselli. Cinque ingredienti che si fidano l’uno dell’altro. Nessun segreto, solo materia prima di qualità.",
+        "Prima rosoli salsiccia e cipolla finché non diventano oro. Poi butti i piselli. L’odore in cucina è già quello di un abbraccio.",
+        "Inforni a 200° per 30 minuti: la besciamella fa da collante, la mozzarella si scioglie e la salsiccia regala il sapore che vuoi.",
+        "Il trucco? Lasciala riposare 10 minuti prima di servire. La pasta si compatta, i sapori si sistemano. Provala e fammi sapere com’è andata 👇"
+      ]
+    },
+    "instagram": {
+      "caption": "Il profumo di questa pasta al forno ti abbraccia appena la sforni. Cremosa, filante, con quel contrasto perfetto tra la dolcezza dei piselli e il sapore deciso della salsiccia. Rosolo la salsiccia con la cipolla, unisco i piselli e la besciamella, poi rigatoni e mozzarella a strati: 30 minuti a 200° e il gioco è fatto. La lascio riposare 10 minuti prima di servire, ma è una prova di resistenza. Segna questa per la domenica. 🍝🧀🌿",
+      "carousel": [
+        {
+          "hook": "Pasta al forno cremosa e filante",
+          "description": "Una pasta al forno avvolgente, con salsiccia saporita, piselli dolci e mozzarella filante. Il comfort food perfetto.",
+          "visual_hint": "Piatto fumante in primo piano",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory baked pasta"
+        },
+        {
+          "hook": "Gli ingredienti giusti",
+          "description": "Rigatoni, salsiccia, mozzarella, besciamella e piselli: la combinazione perfetta per una pasta al forno cremosa.",
+          "visual_hint": "Ingredienti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory pasta ingredients",
+          "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il segreto del sapore",
+          "description": "Rosola salsiccia e cipolla fino a doratura, poi unisci i piselli: così sprigionano tutto l'aroma.",
+          "visual_hint": "Padella con salsiccia e cipolla",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory sausage cooking",
+          "image": "https://images.pexels.com/photos/10794159/pexels-photo-10794159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "La cottura perfetta",
+          "description": "Cuoci in forno statico a 200°C per 30 minuti: la superficie diventa dorata e croccante.",
+          "visual_hint": "Teglia nel forno",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory pasta baking",
+          "image": "https://images.pexels.com/photos/30412119/pexels-photo-30412119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il trucco del riposo",
+          "description": "Lascia riposare 10 minuti prima di servire: la pasta si compatta e diventa ancora più cremosa.",
+          "visual_hint": "Piatto pronto sul tavolo",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory baked pasta portion",
+          "image": "https://images.pexels.com/photos/29145229/pexels-photo-29145229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Fai un bel fondo con salsiccia e cipolla.",
+        "Aggiungi i piselli e falli insaporire.",
+        "Condisci i rigatoni con besciamella e mozzarella.",
+        "Versa tutto in teglia e cuoci a 200°.",
+        "Lascia riposare dieci minuti, poi servi."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

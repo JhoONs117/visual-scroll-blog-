@@ -80,5 +80,82 @@
   "link": "https://ricette.giallozafferano.it/Torta-2-ingredienti.html",
   "pubDate": "Wed, 13 May 2026 15:12:00 +0200",
   "savedAt": "2026-05-13T18:00:08.291Z",
-  "image": "https://www.giallozafferano.it/images/361-36174/Torta-2-ingredienti_650x433_wm.jpg"
+  "image": "https://www.giallozafferano.it/images/361-36174/Torta-2-ingredienti_650x433_wm.jpg",
+  "schema_version": 2,
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Mi sfidano a fare un dolce con 2 ingredienti. Io alzo e metto 3 cose che cambiano tutto: mele, cioccolato fondente, cacao amaro. Il risultato è una crema vellutata che sembra un peccato di gola, ma è quasi innocente. Preparati.",
+        "Partiamo dalle basi: mele cotte e morbide. Le frulli fino a ottenere una purea liscia. Intanto sciogli il cioccolato fondente a bagnomaria (mai nel microonde, fidati). Due elementi, un solo destino: incontrarsi.",
+        "Unisci la purea di mele al cioccolato fuso. Mescola con energia fino a che tutto diventa un’unica, densa nuvola scura. Sembra poco, ma il profumo ti invade la cucina. Questo è il momento della magia.",
+        "Versa il composto in una ciotola o in stampini singoli. Via in frigo per almeno 2 ore. La pazienza paga: si solidifica in una crema setosa che non ha niente da invidiare a un tiramisù. Mentre aspetti, resisti.",
+        "Tocco finale: prima di servire, spolvera con cacao amaro. Un colpo di amaro che esplode sulla dolcezza naturale. Due ingredienti, tre mosse, un dessert da urlo. Provala e fammi sapere se ti scioglie come ha fatto con me."
+      ]
+    },
+    "instagram": {
+      "caption": "Due ingredienti, zero sensi di colpa. 🍎✨  \nDue mele cotte frullate e cioccolato fondente fuso: nasce una crema vellutata che sa di coccola pura. La raffreddo in frigo per almeno 2 ore e, prima di servire, un velo di cacao amaro la trasforma in un dessert elegante e senza zuccheri aggiunti.  \nSemplice, golosa, light.  \nPrepara questa magia in 5 minuti e stupisci tutti. 🌿",
+      "carousel": [
+        {
+          "hook": "Dolce cremoso di mele e cioccolato",
+          "description": "Una torta golosa e leggera con solo 2 ingredienti base, perfetta per un dessert veloce.",
+          "visual_hint": "Torta al piatto su sfondo scuro",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "chocolate apple dessert"
+        },
+        {
+          "hook": "Solo 3 ingredienti",
+          "description": "Mele dolci e tenere, cioccolato fondente di qualità, cacao amaro per la finitura.",
+          "visual_hint": "Ingredienti su tavola di legno",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "apples and chocolate",
+          "image": "https://images.pexels.com/photos/12653265/pexels-photo-12653265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Frulla le mele cotte",
+          "description": "Cuoci le mele fino a renderle morbide, poi frullale e unisci il cioccolato fuso.",
+          "visual_hint": "Frullatore con mele cotte",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "blending cooked apples",
+          "image": "https://images.pexels.com/photos/6605167/pexels-photo-6605167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Raffredda in frigorifero",
+          "description": "Versa il composto in una tortiera e lascia raffreddare in frigo per almeno 2 ore.",
+          "visual_hint": "Tortiera in frigo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "chocolate apple cake fridge",
+          "image": "https://images.pexels.com/photos/37325525/pexels-photo-37325525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Spolvera e servi",
+          "description": "Prima di servire, spolvera con cacao amaro per un tocco amaro e scenografico.",
+          "visual_hint": "Mano che spolvera cacao su torta",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "dusting cocoa on cake",
+          "image": "https://images.pexels.com/photos/9815773/pexels-photo-9815773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Frullo mele cotte e unisco cioccolato fuso.",
+        "Uso mele dolci e cioccolato fondente.",
+        "Mescolo tutto fino a crema liscia.",
+        "Metto in frigo per almeno due ore.",
+        "Spolvero cacao amaro e servo."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

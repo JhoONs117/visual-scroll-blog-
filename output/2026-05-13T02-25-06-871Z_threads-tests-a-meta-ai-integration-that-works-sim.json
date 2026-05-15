@@ -71,5 +71,84 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/02/threads-finger-GettyImages-2232887912.jpg?w=1024",
   "pubDate": "Tue, 12 May 2026 16:34:36 +0000",
   "savedAt": "2026-05-13T02:25:47.036Z",
-  "link": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/"
+  "link": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "threads-tests-a-meta-ai-integration-that-works-sim",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "I tuoi post pubblici su Meta potrebbero finire per addestrare l'AI. Senza un avviso chiaro.",
+        "L'articolo spiega che Meta sta testando un assistente AI nei commenti pubblici — simile a Grok di X.",
+        "Il problema? I tuoi dati pubblici potrebbero diventare dati di training per il modello, senza che tu lo sappia.",
+        "Ogni post che scrivi ora potrebbe essere usato per migliorare l'AI di Meta. Anche senza una notifica esplicita.",
+        "Controlla subito le impostazioni privacy del tuo account e disattiva l’uso dei dati per l’addestramento. Fallo oggi."
+      ]
+    },
+    "instagram": {
+      "caption": "Ogni post pubblico che scrivi su Threads ora potrebbe finire per addestrare la nuova AI di Meta. Nessun avviso chiaro avvisa gli utenti. Il social sta testando un assistente nei commenti pubblici, come fa già Grok su X ⚙️ Il problema concreto? I tuoi dati pubblici rischiano di diventare materiale di training senza che tu venga informato esplicitamente. Controlla subito le impostazioni privacy del tuo account: disattiva l’uso dei dati per l’addestramento se vuoi evitare di alimentare il modello 🤖. Sai già dove trovare quella spunta?",
+      "carousel": [
+        {
+          "hook": "I tuoi post addestrano l'AI",
+          "description": "Meta testa un assistente AI nei commenti. I dati pubblici potrebbero diventare training set senza preavviso.",
+          "visual_hint": "icona AI su post pubblico",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "social media comments"
+        },
+        {
+          "hook": "Assistente simile a Grok",
+          "description": "Meta integra un AI assistant nei thread pubblici, proprio come fa X con Grok. Ma senza trasparenza.",
+          "visual_hint": "chatbot interfaccia confronto",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "chatbot interface",
+          "image": "https://images.pexels.com/photos/16027823/pexels-photo-16027823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Dati usati senza notifica",
+          "description": "I tuoi post pubblici potrebbero finire nei dati di training del modello AI di Meta. Nessun avviso chiaro.",
+          "visual_hint": "dati che fluiscono in AI",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "data flow server",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ogni post ora conta",
+          "description": "Qualsiasi cosa pubblichi oggi potrebbe migliorare l'AI di Meta. Anche senza una notifica esplicita.",
+          "visual_hint": "mani che scrivono post",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands typing phone",
+          "image": "https://images.pexels.com/photos/4921398/pexels-photo-4921398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Proteggi i tuoi dati ora",
+          "description": "Controlla le impostazioni privacy e disattiva l'uso dei dati per l'addestramento AI. Fallo subito.",
+          "visual_hint": "impostazioni privacy schermo",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "privacy settings screen",
+          "image": "https://images.pexels.com/photos/6943446/pexels-photo-6943446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "I tuoi post pubblici su Meta",
+        "potrebbero addestrare la loro nuova AI.",
+        "L’assistente simile a Grok",
+        "legge tutto quello che scrivi.",
+        "Controlla le impostazioni. Subito."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

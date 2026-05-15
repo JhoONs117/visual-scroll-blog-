@@ -71,5 +71,84 @@
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/AI-HR.png",
   "pubDate": "Mon, 11 May 2026 14:34:05 +0000",
   "savedAt": "2026-05-12T16:19:51.564Z",
-  "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/"
+  "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-automates-hr-compliance-except-for-the-area-tec",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Le aziende tech automatizzano assunzioni e buste paga con l'AI, ma c'è un punto che fa crollare tutto: le indagini su molestie. L'AI non capisce le sfumature.",
+        "Un software può scansionare curriculum e calcolare stipendi in pochi secondi. Ma quando un dipendente racconta un episodio ambiguo, l'algoritmo si ferma.",
+        "Perché? L'AI interpreta parole, non contesto. Un commento fuori luogo può essere uno scherzo tra colleghi o una minaccia: senza storia personale, è un azzardo.",
+        "Risultato: i casi di molestie restano irrisolti, le aziende prendono decisioni sbagliate e i rischi legali aumentano. La conformità HR è un buco nero.",
+        "Prendi un caso reale della tua azienda, caricalo in un sistema AI e guarda quanto sbaglia. Ancora meglio? Testalo oggi: costa meno di un abbonamento Netflix."
+      ]
+    },
+    "instagram": {
+      "caption": "Un'azienda su tre che automatizza HR con l'AI scopre che il sistema fallisce proprio sulle indagini per molestie. 🤖 La macchina processa curriculum e buste paga in secondi, ma si blocca quando deve valutare se un commento è uno scherzo o una minaccia. Manca il contesto, manca la storia personale. ⚠️ Per te che lavori in HR o in un team tech: affidare la conformità all'algoritmo significa rischiare decisioni sbagliate e cause legali. Quando è stata l'ultima volta che hai testato un caso reale con il tuo sistema? 🔍",
+      "carousel": [
+        {
+          "hook": "L'AI non capisce le sfumature",
+          "description": "Le aziende automatizzano assunzioni e buste paga, ma le indagini su molestie falliscono. L'AI non capisce le sfumature.",
+          "visual_hint": "Algoritmo che si blocca",
+          "layout_type": "hero",
+          "icon": "heart",
+          "image_query": "server room computers"
+        },
+        {
+          "hook": "Scansiona curriculum, non contesto",
+          "description": "Un software calcola stipendi in secondi, ma su un episodio ambiguo l'algoritmo si ferma.",
+          "visual_hint": "Software fermo su schermo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "factory robot assembly",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scherzo o minaccia?",
+          "description": "L'AI interpreta parole, non contesto. Un commento fuori luogo è un azzardo senza storia personale.",
+          "visual_hint": "Parole senza sfondo",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "microphone close up",
+          "image": "https://images.pexels.com/photos/34561043/pexels-photo-34561043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Casi irrisolti, rischi legali",
+          "description": "I casi di molestie restano irrisolti, le decisioni sbagliate aumentano i rischi legali. La conformità è un buco nero.",
+          "visual_hint": "Documento con buchi neri",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "office workers corridor",
+          "image": "https://images.pexels.com/photos/31690584/pexels-photo-31690584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Testalo oggi, costa meno di Netflix",
+          "description": "Prendi un caso reale, caricalo in un sistema AI e guarda quanto sbaglia. Provalo ora.",
+          "visual_hint": "Test con caso reale",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/4543925/pexels-photo-4543925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "L'AI gestisce le buste paga, ma fallisce su un punto.",
+        "È il motivo per cui le indagini sulle molestie non funzionano.",
+        "Non capisce le sfumature del linguaggio umano.",
+        "Un commento può essere scherzo o minaccia, ma l'AI non lo sa.",
+        "Prova con un caso vero e vedi il divario."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

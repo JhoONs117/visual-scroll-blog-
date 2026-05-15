@@ -80,5 +80,82 @@
   "link": "https://ricette.giallozafferano.it/Zuppa-di-fagioli-e-cozze.html",
   "pubDate": "Thu, 16 Apr 2026 11:31:00 +0200",
   "savedAt": "2026-05-12T16:23:53.860Z",
-  "image": "https://www.giallozafferano.it/images/360-36091/Zuppa-di-fagioli-e-cozze_650x433_wm.jpg"
+  "image": "https://www.giallozafferano.it/images/360-36091/Zuppa-di-fagioli-e-cozze_650x433_wm.jpg",
+  "schema_version": 2,
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Ecco la zuppa che ti fa dimenticare il freddo in un colpo solo. 🦪 Fagioli cannellini, cozze e pomodori: cremosa, intensa, perfetta per intingere il pane. Pochi ingredienti, un risultato che spacca.",
+        "Partiamo dai protagonisti: cozze freschissime, fagioli cannellini in barattolo (via la paura) e pomodori maturi. In padella aglio e olio, le cozze si aprono e rilasciano il loro mare. È già magia.",
+        "Fai così: sbatti metà dei fagioli con l’acqua filtrata delle cozze. Il trucco è tutto qui – niente panna né brodi, solo legumi e sapore di mare. Frulla fino a ottenere una vellutata liscia e avvolgente.",
+        "Unisci il tutto: zuppa cremosa di fagioli, pomodori a pezzi e le cozze sgusciate (qualcuna intera per fare scena). Lascia sobbollire 5 minuti, assaggia e regola di sale. Crostoni di pane tostato aspettano.",
+        "Goccio d’olio a crudo e prezzemolo fresco tritato. Servi bollente e sentirai l’abbraccio. Provala e fammi sapere se hai usato i crostoni o il cucchiaio – voglio la verità 👇"
+      ]
+    },
+    "instagram": {
+      "caption": "Mare e orto che si abbracciano in un piatto: questa zuppa è un’esplosione di comfort. 🫘🌊 Ho fatto aprire le cozze in padella con aglio, poi ho frullato metà dei fagioli cannellini con l’acqua rilasciata per ottenere una crema vellutata. Il resto dei fagioli interi e i pomodori freschi danno consistenza, mentre le cozze sgusciate tornano a tuffarsi nel brodo. Crostoni di pane a parte, perché intingere è quasi obbligatorio. 🥖🍅 Provala questo weekend, scalda l’anima. ✨",
+      "carousel": [
+        {
+          "hook": "Zuppa cremosa di fagioli e cozze",
+          "description": "Un primo caldo e avvolgente, perfetto per scaldare le serate autunnali.",
+          "visual_hint": "ciotola fumante con crostoni",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory clam bean soup"
+        },
+        {
+          "hook": "Gli ingredienti giusti",
+          "description": "Cozze fresche, fagioli cannellini cremosi, pomodori maturi, aglio e buon olio.",
+          "visual_hint": "ingredienti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory mussels ingredients",
+          "image": "https://images.pexels.com/photos/9328468/pexels-photo-9328468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pulisci e apri le cozze",
+          "description": "Pulisci bene le cozze e aprilo in padella con aglio fino a che non si spalancano.",
+          "visual_hint": "cozze che si aprono",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory opening mussels",
+          "image": "https://images.pexels.com/photos/9328468/pexels-photo-9328468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Frulla metà dei fagioli",
+          "description": "Frulla metà dei fagioli con l’acqua di cottura delle cozze per ottenere una crema vellutata.",
+          "visual_hint": "mano che versa crema",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory blended beans",
+          "image": "https://images.pexels.com/photos/7657844/pexels-photo-7657844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Servi con crostoni croccanti",
+          "description": "Unisci le cozze sgusciate, aggiungi pane abbrustolito e servi fumante.",
+          "visual_hint": "zuppa impiattata con crostoni",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory bean soup croutons",
+          "image": "https://images.pexels.com/photos/33469314/pexels-photo-33469314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Pulisco le cozze e le apro in padella.",
+        "Frullo metà fagioli con acqua di cozze.",
+        "Unisco i fagioli, pomodori e aglio.",
+        "Aggiungo le cozze sgusciate, mescolo.",
+        "Servo con crostoni, che bontà!"
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

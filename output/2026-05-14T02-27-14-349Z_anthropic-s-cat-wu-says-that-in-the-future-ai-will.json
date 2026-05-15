@@ -19,8 +19,7 @@
     "Non proprio — ma anticipa le tue mosse.",
     "Cat Wu ha costruito Claude per agire prima che tu parli.",
     "Già oggi prevede i tuoi errori di battitura.",
-    "Domani le tue app finiranno lavori che non hai iniziato.",
-    "Testalo: vedi se indovina il tuo prossimo click."
+    "Domani le tue app finiranno lavori che non hai iniziato."
   ],
   "instagram_caption": "Claude sa già correggere refusi che non hai ancora digitato. 🤖 Non è magia: il team di Cat Wu ha insegnato al sistema a osservare le tue azioni e agire prima che tu chieda qualcosa. Domani, apri l'app, muovi il mouse e vedi se indovina il tuo prossimo click. 🖱️ Niente più comandi da spiegare: l'AI anticipa e fa al posto tuo. 🎯 Costa meno di un abbonamento Spotify. Vale il test?",
   "carousel_slides": [
@@ -72,5 +71,84 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Cat-Wu.jpg?resize=1200,800",
   "pubDate": "Wed, 13 May 2026 19:28:06 +0000",
   "savedAt": "2026-05-14T02:27:36.705Z",
-  "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/"
+  "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-s-cat-wu-says-that-in-the-future-ai-will",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Claude già prevede i refusi che non hai ancora digitato. Non sta leggendo la tua mente — sta leggendo il tuo comportamento passato.",
+        "Il team di Cat Wu ha costruito un sistema che non aspetta comandi. Vede cosa stai facendo e agisce prima che tu chieda.",
+        "Non è un aggiornamento cosmetico. Le app che usi domani finiranno task che tu non hai nemmeno iniziato.",
+        "La differenza? Non devi più spiegare cosa vuoi. L'AI osserva, anticipa, esegue. Tu elimini un passaggio.",
+        "Testa Claude domani. Apri la pagina, muovi il mouse, e guarda se indovina il tuo prossimo click. Costa meno di un abbonamento Spotify."
+      ]
+    },
+    "instagram": {
+      "caption": "Claude sa già correggere refusi che non hai ancora digitato. 🤖 Non è magia: il team di Cat Wu ha insegnato al sistema a osservare le tue azioni e agire prima che tu chieda qualcosa. Domani, apri l'app, muovi il mouse e vedi se indovina il tuo prossimo click. 🖱️ Niente più comandi da spiegare: l'AI anticipa e fa al posto tuo. 🎯 Costa meno di un abbonamento Spotify. Vale il test?",
+      "carousel": [
+        {
+          "hook": "Indovina i refusi non scritti",
+          "description": "Claude prevede i tuoi errori di battitura prima che tu li commetta. Non è magia, è analisi del comportamento passato.",
+          "visual_hint": "tastiera con dita sfuocate",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "keyboard close up"
+        },
+        {
+          "hook": "Agisce prima che tu chieda",
+          "description": "Il team di Cat Wu ha costruito un sistema che vede cosa fai e agisce senza aspettare comandi.",
+          "visual_hint": "mano che clicca su schermo",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "woman touching screen",
+          "image": "https://images.pexels.com/photos/4383571/pexels-photo-4383571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Task finiti prima di iniziare",
+          "description": "Le app che userai domani completeranno azioni che non hai nemmeno avviato. Non è un aggiornamento cosmetico.",
+          "visual_hint": "spunta verde su task completato",
+          "layout_type": "sensor-zoom",
+          "icon": "check",
+          "image_query": "checklist completed",
+          "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non devi più spiegare nulla",
+          "description": "L'AI osserva, anticipa, esegue. Tu elimini un passaggio. La differenza? Zero spiegazioni da dare.",
+          "visual_hint": "mano che indica invisibile",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "hand pointing gesture",
+          "image": "https://images.pexels.com/photos/8833456/pexels-photo-8833456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Vedi se indovina il tuo click",
+          "description": "Testa Claude domani: apri la pagina, muovi il mouse, guarda se prevede il tuo prossimo click. Costa meno di Spotify.",
+          "visual_hint": "cursore che si muove verso target",
+          "layout_type": "cta-final",
+          "icon": "waves",
+          "image_query": "computer cursor arrow",
+          "image": "https://images.pexels.com/photos/7240353/pexels-photo-7240353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Questa AI legge la tua mente.",
+        "Non proprio — ma anticipa le tue mosse.",
+        "Cat Wu ha costruito Claude per agire prima che tu parli.",
+        "Già oggi prevede i tuoi errori di battitura.",
+        "Domani le tue app finiranno lavori che non hai iniziato."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

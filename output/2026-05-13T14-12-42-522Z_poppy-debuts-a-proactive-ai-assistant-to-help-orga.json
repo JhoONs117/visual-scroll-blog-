@@ -71,5 +71,84 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/poppy-header.jpeg?resize=1200,727",
   "pubDate": "Wed, 13 May 2026 13:27:09 +0000",
   "savedAt": "2026-05-13T14:13:25.142Z",
-  "link": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/"
+  "link": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "poppy-debuts-a-proactive-ai-assistant-to-help-orga",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Poppy scansiona i tuoi file e il calendario prima ancora che tu dia il permesso. Nessuno ti avvisa.",
+        "L'idea è semplice: risparmi due ore al giorno. In cambio, l'IA agisce prima che tu chieda e legge tutto.",
+        "Non devi più organizzare nulla. Lei decide cosa è importante per te. Anche dati che non hai mai condiviso.",
+        "Il costo non è in denaro, ma in accesso totale: email, documenti, appuntamenti. Tutto visibile.",
+        "Provala oggi. Poi guarda quanta parte della tua vita hai esposto senza accorgertene."
+      ]
+    },
+    "instagram": {
+      "caption": "Poppy scansiona i tuoi file e il calendario prima ancora che tu dia il permesso esplicito. 🕵️‍♂️ È un assistente AI proattivo: non aspetta ordini, agisce da solo per organizzarti la giornata. In cambio, ottieni due ore risparmiate al giorno, ma lui legge ogni email, documento e appuntamento. 📂 Per te significa non dover più decidere cosa è prioritario: lo fa l’algoritmo. ⏱️ Quanta parte della tua vita sei disposto a esporre senza accorgertene?",
+      "carousel": [
+        {
+          "hook": "Lei agisce prima di te.",
+          "description": "Poppy scansiona file e calendario senza permesso esplicito. Nessuno ti avvisa.",
+          "visual_hint": "Occhio digitale che scruta",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Risparmi tempo. A che prezzo?",
+          "description": "L’idea è semplice: risparmi due ore al giorno. In cambio, l’IA legge tutto.",
+          "visual_hint": "Orologio con ingranaggi",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "wind turbine",
+          "image": "https://images.pexels.com/photos/32268499/pexels-photo-32268499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Lei decide cosa è importante.",
+          "description": "Non devi più organizzare nulla. Poppy decide cosa conta, anche dati mai condivisi.",
+          "visual_hint": "Dossier aperti da solo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Accesso totale, non denaro.",
+          "description": "Il costo è in accesso totale: email, documenti, appuntamenti. Tutto visibile.",
+          "visual_hint": "Documenti con occhi sopra",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Provala. Poi giudica il confine.",
+          "description": "Prova oggi. Poi guarda quanta parte della vita hai esposto senza accorgertene.",
+          "visual_hint": "Confine tracciato con gesso",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/13223714/pexels-photo-13223714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Poppy organizza la tua vita digitale.",
+        "Ma a quale costo?",
+        "Agisce prima che tu chieda.",
+        "Scansiona file e calendari.",
+        "Risparmi due ore al giorno."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

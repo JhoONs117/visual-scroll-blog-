@@ -71,5 +71,84 @@
   "image": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-06-at-1.13.28PM.png?resize=1200,670",
   "pubDate": "Thu, 14 May 2026 19:12:03 +0000",
   "savedAt": "2026-05-14T21:03:59.365Z",
-  "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/"
+  "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-is-reportedly-preparing-legal-action-agains",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Non è il primo partner a sentirsi tradito da Apple. La prossima battaglia legale riguarda OpenAI.",
+        "Per anni Apple ha investito in startup AI, inclusa OpenAI. Ora i ruoli si sono invertiti.",
+        "OpenAI sta costruendo un ecosistema che compete direttamente con Siri e i chip di Apple.",
+        "Se accetti partnership senza leggere le clausole di esclusiva, rischi di finanziare il tuo sostituto.",
+        "Hai firmato contratti simili? Controlla oggi le tue clausole di esclusiva: potresti essere il prossimo."
+      ]
+    },
+    "instagram": {
+      "caption": "Apple ha finanziato segretamente alcune startup AI, inclusa OpenAI, ma ora si prepara a citarle in giudizio per concorrenza sleale ⚖️. La stessa Apple ha contribuito a creare un concorrente diretto di Siri e dei suoi chip, senza aver bloccato per contratto l’esclusiva tecnologica. Per chi lavora con big tech: se non verifichi le clausole di esclusiva nei tuoi accordi, potresti ritrovarti a pagare chi ti sostituirà 🔍. Quanti contratti hai firmato senza leggere il paragrafo sulle partnership future?",
+      "carousel": [
+        {
+          "hook": "Hai finanziato il tuo sostituto?",
+          "description": "OpenAI si prepara a citare Apple. Non è il primo partner a sentirsi tradito.",
+          "visual_hint": "Tensione legale con loghi",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "courtroom gavel Apple"
+        },
+        {
+          "hook": "Apple ha investito in OpenAI",
+          "description": "Per anni Apple ha sostenuto startup AI. Ora OpenAI compete con Siri.",
+          "visual_hint": "Frecce che si incrociano",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "Apple logo money",
+          "image": "https://images.pexels.com/photos/33806550/pexels-photo-33806550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ecosistema contro chip Apple",
+          "description": "OpenAI costruisce un ecosistema che minaccia Siri e i chip di Apple.",
+          "visual_hint": "Schemi di intelligenza artificiale",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "AI chip circuit board",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Leggi le clausole di esclusiva",
+          "description": "Se accetti partnership senza controllare, rischi di finanziare chi ti sostituirà.",
+          "visual_hint": "Mano che firma contratto",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand signing document",
+          "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Controlla oggi i tuoi contratti",
+          "description": "Potresti essere il prossimo. Verifica le clausole di esclusiva ora.",
+          "visual_hint": "Lente d'ingrandimento su contratti",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "magnifying glass contract",
+          "image": "https://images.pexels.com/photos/7188802/pexels-photo-7188802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple potrebbe fare causa a OpenAI.",
+        "Hanno investito in loro per anni.",
+        "Ora OpenAI li sfida direttamente.",
+        "Non è il primo partner tradito.",
+        "Controlla le tue clausole di esclusiva."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

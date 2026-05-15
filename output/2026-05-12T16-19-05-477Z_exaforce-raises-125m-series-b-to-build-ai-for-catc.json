@@ -71,5 +71,84 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Team-Photo-1.jpeg?resize=1200,675",
   "pubDate": "Tue, 12 May 2026 15:07:37 +0000",
   "savedAt": "2026-05-12T16:20:09.974Z",
-  "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/"
+  "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "exaforce-raises-125m-series-b-to-build-ai-for-catc",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "L’AI reagisce prima che l’attacco faccia danni visibili. Non dopo ore, in tempo reale.",
+        "Exaforce ha appena raccolto 125 milioni di dollari. Perché? Per costruire una macchina che fa quello che il tuo team non riesce a fare: rispondere subito.",
+        "Quando arriva un attacco, la differenza non è quanti esperti hai in turno. È quanto velocemente la difesa parte. Questa macchina parte da sola.",
+        "Il punto è che il tuo rischio cambia. Non devi più aspettare che qualcuno veda il problema. Il sistema lo vede prima di te.",
+        "Puoi testarlo oggi contro un attacco simulato. Costa meno di un abbonamento Spotify. Prova."
+      ]
+    },
+    "instagram": {
+      "caption": "125 milioni di dollari per fermare un cyberattacco in tempo reale, prima che faccia danni visibili. 🚨 Exaforce ha costruito un sistema AI che reagisce da solo mentre il tuo team non è ancora in turno: niente attese, niente ore di buio. ⚡️ Per te significa che il rischio cambia: non devi più sperare che qualcuno veda il problema in tempo. Puoi testarlo oggi con un attacco simulato, costa meno di un abbonamento Spotify. 💻 Quando arriva un colpo, conta solo la velocità con cui parti — questa macchina parte prima di te. 🛡️",
+      "carousel": [
+        {
+          "hook": "L'AI vede l'attacco prima di te",
+          "description": "L'AI reagisce prima che l'attacco faccia danni visibili. Il tuo rischio cambia per sempre.",
+          "visual_hint": "Occhio digitalizzato che scruta dati",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room lights"
+        },
+        {
+          "hook": "Tempo reale, non ore dopo",
+          "description": "Non dopo ore, in tempo reale. La macchina ferma l'attacco mentre accade, senza aspettare.",
+          "visual_hint": "Orologio con lancette che corrono",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "125 milioni per una macchina che parte da sola",
+          "description": "Quando arriva un attacco, la difesa parte da sola. Non serve un esperto in turno.",
+          "visual_hint": "Circuito elettrico che si accende",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Colma il vuoto del tuo team",
+          "description": "Il tuo team non basta? Questa macchina colma il vuoto. Risponde subito mentre tu dormi.",
+          "visual_hint": "Mano che afferra scudo digitale",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Provalo oggi, costa meno di Spotify",
+          "description": "Testa il sistema contro un attacco simulato. Costa meno di un abbonamento Spotify. Prova ora.",
+          "visual_hint": "Manichino con frecce digitali",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/13223714/pexels-photo-13223714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "L’AI reagisce prima del danno visibile.",
+        "Exaforce ha raccolto 125 milioni per questo.",
+        "La macchina risponde in tempo reale.",
+        "Il tuo team non basta? Lei colma il vuoto.",
+        "Testala ora contro un attacco simulato."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

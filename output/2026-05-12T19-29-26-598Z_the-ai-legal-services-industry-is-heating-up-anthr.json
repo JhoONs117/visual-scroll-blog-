@@ -71,5 +71,84 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
   "pubDate": "Tue, 12 May 2026 17:00:00 +0000",
   "savedAt": "2026-05-12T19:30:05.379Z",
-  "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/"
+  "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ai-legal-services-industry-is-heating-up-anthr",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "L'ex assistente di un CEO legale ha scritto il codice che potrebbe mandare in fumo un deal da miliardi. Si chiama Claude e arriva da Anthropic.",
+        "Harvey raccoglieva 100 milioni per legal AI. Anthropic l'ha battuta sul prodotto. Ora Harvey fa causa, ma il mercato vale 10 miliardi entro il 2030.",
+        "L'ironia è che il cuore tecnico della disputa lo ha costruito una persona che fino a due anni fa prendeva appunti per un partner dello studio.",
+        "I legali che ignorano strumenti come Claude non verranno sostituiti da AI, ma da avvocati che sanno usarla. Il differenziale è sei mesi di stipendio.",
+        "Prendi un contratto che odi. Caricalo su Claude e chiedigli: 'Trova le tre clausole che mi espongono di più.' Costa meno di un abbonamento Netflix."
+      ]
+    },
+    "instagram": {
+      "caption": "Un'ex assistente che prendeva appunti per uno studio legale ha scritto il codice che oggi fa tremare un deal da miliardi 📝⚖️. Anthropic ha battuto Harvey sul prodotto legale AI, e ora Harvey fa causa. Il mercato vale 10 miliardi entro il 2030. Per chi lavora con documenti: caricare un contratto su Claude costa meno di Netflix e scova le tre clausole che ti espongono di più 🔍. I legali che ignorano strumenti del genere verranno sostituiti da chi li usa già — il differenziale sono sei mesi di stipendio ⏳.",
+      "carousel": [
+        {
+          "hook": "Un ex assistente sfida Harvey",
+          "description": "L'ex assistente di un CEO legale ha scritto il codice che potrebbe far crollare un deal miliardario.",
+          "visual_hint": "Codice su schermo e toga",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "lawyer computer code"
+        },
+        {
+          "hook": "Mercato legale AI da 10 miliardi",
+          "description": "Harvey raccoglieva 100 milioni per legal AI, ma Anthropic l'ha battuta sul prodotto. Ora causa.",
+          "visual_hint": "Grafico a barre crescente",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ironia tecnica: ex assistente chiave",
+          "description": "Il cuore tecnico della disputa l'ha costruito una persona che fino a due anni fa prendeva appunti.",
+          "visual_hint": "Documenti legali e taccuino",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "legal documents notebook",
+          "image": "https://images.pexels.com/photos/8112145/pexels-photo-8112145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Avvocati ignoranti? Sostituiti più velocemente",
+          "description": "I legali che ignorano l'AI verranno sostituiti da avvocati che sanno usarla. Differenziale: sei mesi di stipendio.",
+          "visual_hint": "Avvocato con tablet e AI",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "lawyer tablet courtroom",
+          "image": "https://images.pexels.com/photos/5668791/pexels-photo-5668791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova Claude oggi: rivedi un contratto",
+          "description": "Carica un contratto su Claude e chiedi: 'Trova le tre clausole che mi espongono di più.' Costa meno di Netflix.",
+          "visual_hint": "Smartphone mostra chat contratto",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person holding phone",
+          "image": "https://images.pexels.com/photos/6473732/pexels-photo-6473732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Una ex assistente ha scritto il codice giusto per disintegrare un affare da miliardi.",
+        "Si chiama Claude, è di Anthropic. Harvey è in causa.",
+        "Il mercato legale AI? Dieci miliardi entro il 2030.",
+        "L'avvocato che non usa queste cose viene rimpiazzato da chi le usa.",
+        "Carica un contratto su Claude adesso. Scopri quanto sei esposto."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }
