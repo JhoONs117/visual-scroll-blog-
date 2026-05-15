@@ -64,5 +64,80 @@
       "image_query": "two screens comparison"
     }
   ],
-  "instagram_caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?"
+  "instagram_caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-releases-gpt-5-5-instant-a-new-default-mode",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "GPT-5.5 risponde in tempo reale, ma non ti dice dove sbaglia. È uscito oggi, ed è già il modello predefinito su ChatGPT.",
+        "Il problema non è la velocità. È che non spiega i suoi limiti. Nessun avviso, nessuna contestualizzazione.",
+        "Chi lo usa subito senza testare rischia di prendere per buone risposte apparentemente corrette. Dati plausibili, ma falsi.",
+        "Se lavori con informazioni critiche, il silenzio dell’AI può costare decisioni sbagliate. Il controllo è su di te.",
+        "Aprì ChatGPT, scrivi lo stesso prompt su GPT-5.5 e sul vecchio modello. Confronta le risposte oggi stesso."
+      ]
+    },
+    "instagram": {
+      "caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?",
+      "carousel": [
+        {
+          "hook": "Risponde in tempo reale, ma non spiega",
+          "description": "GPT-5.5 non ti dice dove sbaglia. Nessun avviso, nessuna contestualizzazione.",
+          "visual_hint": "ChatGPT che parla, ma tace i limiti",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "chatgpt conversation screen"
+        },
+        {
+          "hook": "È il nuovo default su ChatGPT",
+          "description": "GPT-5.5 Instant è già il modello predefinito. Usato senza test, rischi risposte plausibili ma false.",
+          "visual_hint": "Schermata ChatGPT con modello attivo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "chatgpt interface default"
+        },
+        {
+          "hook": "Velocità senza onestà intellettuale",
+          "description": "Il problema non è la velocità. È che non spiega i suoi limiti. Dati plausibili, ma falsi.",
+          "visual_hint": "Orologio che corre e tace",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "clock speed fast"
+        },
+        {
+          "hook": "Il silenzio dell'AI costa decisioni",
+          "description": "Se lavori con info critiche, il silenzio dell'AI può far prendere decisioni sbagliate. Controlla sempre.",
+          "visual_hint": "Mano umana che ferma un errore",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand stopping error"
+        },
+        {
+          "hook": "Confronta subito col vecchio modello",
+          "description": "Apri ChatGPT, scrivi lo stesso prompt su GPT-5.5 e sul modello precedente. Confronta le risposte oggi stesso.",
+          "visual_hint": "Due schermate affiancate a confronto",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "two screens comparison"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "GPT-5.5 è appena uscito.",
+        "Risponde in tempo reale, ok.",
+        "Ma non dice dove può sbagliare.",
+        "Chi lo usa senza testare rischia.",
+        "Prova un prompt e confronta subito."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

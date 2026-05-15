@@ -71,5 +71,84 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/01/tesla-model-y-juniper-north-america.jpg?resize=1200,850",
-  "instagram_caption": "La Tesla Model Y è la prima auto a superare il nuovo test di sicurezza USA, dove altri marchi con la stessa tecnologia hanno fallito. 🧠 Il benchmark non misurava quanti schermi hai in auto, ma quanto il sistema ti tiene attento alla guida. Risultato: hardware identico, voti opposti. Prima di scegliere la prossima auto, controlla il suo punteggio — potrebbe decidere quanta sicurezza hai in mano. 🚗🔍 La tua auto attuale passerebbe il test?"
+  "instagram_caption": "La Tesla Model Y è la prima auto a superare il nuovo test di sicurezza USA, dove altri marchi con la stessa tecnologia hanno fallito. 🧠 Il benchmark non misurava quanti schermi hai in auto, ma quanto il sistema ti tiene attento alla guida. Risultato: hardware identico, voti opposti. Prima di scegliere la prossima auto, controlla il suo punteggio — potrebbe decidere quanta sicurezza hai in mano. 🚗🔍 La tua auto attuale passerebbe il test?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "tesla-model-y-is-first-car-to-meet-new-us-driver-a",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Altri costruttori hanno fallito lo stesso test. Con lo stesso hardware identico. Cosa hanno sbagliato?",
+        "Tesla Model Y è passata. Ma il test non misurava soltanto la tecnologia a bordo.",
+        "Il nuovo benchmark valuta quanto il conducente resta coinvolto nella guida, non quanti schermi ci sono.",
+        "Risultato: auto che sembravano identiche sulla carta hanno preso strade opposte nei voti finali.",
+        "Prima di comprare la prossima auto, controlla il suo punteggio. Potrebbe cambiare la tua scelta."
+      ]
+    },
+    "instagram": {
+      "caption": "La Tesla Model Y è la prima auto a superare il nuovo test di sicurezza USA, dove altri marchi con la stessa tecnologia hanno fallito. 🧠 Il benchmark non misurava quanti schermi hai in auto, ma quanto il sistema ti tiene attento alla guida. Risultato: hardware identico, voti opposti. Prima di scegliere la prossima auto, controlla il suo punteggio — potrebbe decidere quanta sicurezza hai in mano. 🚗🔍 La tua auto attuale passerebbe il test?",
+      "carousel": [
+        {
+          "hook": "Stesso hardware, fallimento totale",
+          "description": "Altri costruttori hanno fallito lo stesso test, pur avendo hardware identico. Cosa hanno sbagliato? Il segreto è nell'ingaggio.",
+          "visual_hint": "Trofeo e auto parcheggiate",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "car test track"
+        },
+        {
+          "hook": "Non è solo tecnologia",
+          "description": "Il nuovo benchmark misura quanto il conducente resta coinvolto nella guida, non quanti schermi ci sono. Tesla Model Y ha capito la differenza.",
+          "visual_hint": "Concentrazione",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "driver hands wheel",
+          "image": "https://images.pexels.com/photos/4391487/pexels-photo-4391487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Auto identiche, voti opposti",
+          "description": "Sulla carta sembravano uguali, ma i punteggi finali hanno preso strade opposte. Il test premia chi mette il conducente al centro.",
+          "visual_hint": "Grafico a confronto",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "safety rating chart",
+          "image": "https://images.pexels.com/photos/7948058/pexels-photo-7948058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "La scelta cambia tutto",
+          "description": "Prima di comprare la prossima auto, controlla il suo punteggio. Potrebbe cambiare la tua decisione, non solo per la sicurezza.",
+          "visual_hint": "Maniglia e chiavi",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "car key hand",
+          "image": "https://images.pexels.com/photos/12969398/pexels-photo-12969398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Controlla la tua ora",
+          "description": "Confronta la sicurezza della tua auto attuale con il nuovo benchmark. Sapere fa la differenza.",
+          "visual_hint": "Schermo con punteggio",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone safety app",
+          "image": "https://images.pexels.com/photos/17249214/pexels-photo-17249214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Altri hanno fallito con lo stesso hardware.",
+        "Tu sai perché?",
+        "La Model Y ha superato un test diverso.",
+        "Non conta cosa monti, ma come guidi.",
+        "Il tuo prossimo acquisto dipende da questo."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

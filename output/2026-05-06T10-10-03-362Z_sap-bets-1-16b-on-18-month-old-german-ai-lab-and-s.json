@@ -23,5 +23,40 @@
     "Roba che cambia il lavoro da dentro."
   ],
   "savedAt": "2026-05-06T10:10:03.362Z",
-  "instagram_caption": "SAP ha appena messo sul tavolo 1,16 miliardi di dollari per un laboratorio di AI tedesco fondato 18 mesi fa 💰, e ha detto sì a NemoClaw per lavorare insieme.  \nCon questa mossa, il colosso dei software aziendali vuole ficcare l'intelligenza artificiale dentro i programmi che già usi per fatture, ordini e report – roba pratica, non solo teoria 🛠️.  \nPer chi lavora con questi strumenti, significa che puoi già provare le nuove funzioni AI di SAP, senza aspettare anni ⏱️.  \nHai già testato qualche tool AI tra le tue scartoffie quotidiane?"
+  "instagram_caption": "SAP ha appena messo sul tavolo 1,16 miliardi di dollari per un laboratorio di AI tedesco fondato 18 mesi fa 💰, e ha detto sì a NemoClaw per lavorare insieme.  \nCon questa mossa, il colosso dei software aziendali vuole ficcare l'intelligenza artificiale dentro i programmi che già usi per fatture, ordini e report – roba pratica, non solo teoria 🛠️.  \nPer chi lavora con questi strumenti, significa che puoi già provare le nuove funzioni AI di SAP, senza aspettare anni ⏱️.  \nHai già testato qualche tool AI tra le tue scartoffie quotidiane?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sap-bets-1-16b-on-18-month-old-german-ai-lab-and-s",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Hai mai visto un'azienda scommettere un miliardo su un'idea che deve dimostrare tutto in 18 mesi? Succede ora in Germania, e non è una startup. È SAP.",
+        "Un laboratorio AI nato da pochi mesi, con un obiettivo preciso: non fare ricerca fine a se stessa, ma integrare l'intelligenza artificiale nei sistemi che già usano le aziende. Tempi stretti, ma risorse enormi.",
+        "La mossa chiave? Hanno scelto NemoClaw, una tecnologia specifica per potenziare le loro offerte. Non è un nome a caso: è il motore che renderà l'AI concreta nei processi quotidiani.",
+        "L'integrazione non sarà un'opzione in più, ma diventerà parte del DNA dei sistemi aziendali. Dalle buste paga alla selezione del personale, tutto cambia modo di funzionare.",
+        "Esempio pratico: processi HR automatizzati con AI. Non più moduli da compilare, ma decisioni in tempo reale. Il takeaway? La rivoluzione non arriva con un'app nuova, ma dentro gli strumenti che già usi."
+      ]
+    },
+    "instagram": {
+      "caption": "SAP ha appena messo sul tavolo 1,16 miliardi di dollari per un laboratorio di AI tedesco fondato 18 mesi fa 💰, e ha detto sì a NemoClaw per lavorare insieme.  \nCon questa mossa, il colosso dei software aziendali vuole ficcare l'intelligenza artificiale dentro i programmi che già usi per fatture, ordini e report – roba pratica, non solo teoria 🛠️.  \nPer chi lavora con questi strumenti, significa che puoi già provare le nuove funzioni AI di SAP, senza aspettare anni ⏱️.  \nHai già testato qualche tool AI tra le tue scartoffie quotidiane?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "SAP butta un miliardo in AI tedesca.",
+        "Un laboratorio nato da un anno e mezzo.",
+        "Hanno scelto NemoClaw per far tutto.",
+        "L'AI entra nei sistemi che usi ogni giorno.",
+        "Pensa alle risorse umane senza moduli.",
+        "Roba che cambia il lavoro da dentro."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

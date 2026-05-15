@@ -23,5 +23,39 @@
   ],
   "savedAt": "2026-05-06T22:41:09.199Z",
   "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
-  "instagram_caption": "Google ha attivato Remy, un agente AI integrato in Gemini che prenota viaggi, acquista biglietti e gestisce calendari senza che tu muova un dito.  \nMa ogni azione — dal volo all’incontro — resta sotto il tuo controllo: devi approvarla prima che parta.  \nPer attivarlo, basta entrare nelle impostazioni di Gemini ora.  \nSe smettessi di cliccare pulsanti, quanto tempo libero ti ritroveresti in tasca? 🧠✈️✅📅"
+  "instagram_caption": "Google ha attivato Remy, un agente AI integrato in Gemini che prenota viaggi, acquista biglietti e gestisce calendari senza che tu muova un dito.  \nMa ogni azione — dal volo all’incontro — resta sotto il tuo controllo: devi approvarla prima che parta.  \nPer attivarlo, basta entrare nelle impostazioni di Gemini ora.  \nSe smettessi di cliccare pulsanti, quanto tempo libero ti ritroveresti in tasca? 🧠✈️✅📅",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-tests-remy-ai-agent-for-gemini-as-focus-tur",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Stai ancora cliccando tu sui pulsanti? Google ha appena lanciato Remy, un agente AI che farà tutto al posto tuo.",
+        "Non è solo un'altra chat. Remy esegue azioni reali: prenota voli, compra biglietti, gestisce calendari.",
+        "Ma c'è un trucco: tu mantieni il controllo finale. Ogni azione deve essere approvata prima di partire.",
+        "Puoi attivarlo subito dalle impostazioni di Gemini. È già lì, in attesa di essere sbloccato.",
+        "Pensa: un assistente che agisce per te, ma con un freno a mano sempre a portata. Il futuro è qui."
+      ]
+    },
+    "instagram": {
+      "caption": "Google ha attivato Remy, un agente AI integrato in Gemini che prenota viaggi, acquista biglietti e gestisce calendari senza che tu muova un dito.  \nMa ogni azione — dal volo all’incontro — resta sotto il tuo controllo: devi approvarla prima che parta.  \nPer attivarlo, basta entrare nelle impostazioni di Gemini ora.  \nSe smettessi di cliccare pulsanti, quanto tempo libero ti ritroveresti in tasca? 🧠✈️✅📅",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Google ha lanciato Remy per Gemini.",
+        "Un agente che automatizza le tue azioni.",
+        "Ma tu decidi sempre l'ultima parola.",
+        "Lo trovi già nelle impostazioni.",
+        "Immagina: prenota il tuo viaggio mentre dormi."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

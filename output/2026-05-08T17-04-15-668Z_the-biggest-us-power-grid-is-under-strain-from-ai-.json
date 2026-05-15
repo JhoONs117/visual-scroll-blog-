@@ -71,5 +71,84 @@
   "savedAt": "2026-05-08T17:04:40.474Z",
   "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
   "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
-  "instagram_caption": "I data center consumano già il 9% dell'energia della più grande rete elettrica americana, quella che serve 65 milioni di persone. ⚡ Per tenere acceso tutto, centrali a carbone pronte a chiudere restano aperte e gli investimenti sulle rinnovabili non bastano a coprire la richiesta. Risultato? La tua bolletta della luce potrebbe crescere per finanziare l'espansione dell'AI. 📈 Controlla le tariffe previste per il 2025 prima del prossimo rincaro. 💸 Chi dovrebbe pagare per i nuovi cavi e centrali: le big tech o gli altri utenti?"
+  "instagram_caption": "I data center consumano già il 9% dell'energia della più grande rete elettrica americana, quella che serve 65 milioni di persone. ⚡ Per tenere acceso tutto, centrali a carbone pronte a chiudere restano aperte e gli investimenti sulle rinnovabili non bastano a coprire la richiesta. Risultato? La tua bolletta della luce potrebbe crescere per finanziare l'espansione dell'AI. 📈 Controlla le tariffe previste per il 2025 prima del prossimo rincaro. 💸 Chi dovrebbe pagare per i nuovi cavi e centrali: le big tech o gli altri utenti?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-biggest-us-power-grid-is-under-strain-from-ai-",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Le regole della rete elettrica vengono sospese per far fronte all'esplosione della domanda di AI. Game of Thrones? No, PJM, la più grande utility USA.",
+        "I data center AI consumano come città intere. Per reggere il colpo, PJM chiede nuove centrali a gas, in tempi da record.",
+        "Per accelerare, l'autorità federale ha già concesso deroghe alle normali regole di affidabilità. Un precedente che non si vedeva da anni.",
+        "Il costo di tutto questo? Finirà nella tua bolletta, anche se non hai mai chiesto a ChatGPT nulla. Si chiama 'costi di sistema'.",
+        "Chiama il tuo fornitore energetico. Chiedigli: 'Come vi state preparando a gestire questa domanda extra?'. Fallo domani."
+      ]
+    },
+    "instagram": {
+      "caption": "I data center consumano già il 9% dell'energia della più grande rete elettrica americana, quella che serve 65 milioni di persone. ⚡ Per tenere acceso tutto, centrali a carbone pronte a chiudere restano aperte e gli investimenti sulle rinnovabili non bastano a coprire la richiesta. Risultato? La tua bolletta della luce potrebbe crescere per finanziare l'espansione dell'AI. 📈 Controlla le tariffe previste per il 2025 prima del prossimo rincaro. 💸 Chi dovrebbe pagare per i nuovi cavi e centrali: le big tech o gli altri utenti?",
+      "carousel": [
+        {
+          "hook": "Regole di rete sospese per l'AI",
+          "description": "Deroghe alle regole di affidabilità per accelerare nuovi impianti. Precedente storico.",
+          "visual_hint": "Documento ufficiale con timbro",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "grid control room"
+        },
+        {
+          "hook": "Nuove centrali gas a tempo record",
+          "description": "Data center AI consumano come città. PJM chiede centrali gas subito.",
+          "visual_hint": "Centrale a gas in costruzione",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "gas power plant construction",
+          "image": "https://images.pexels.com/photos/35596446/pexels-photo-35596446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Abbiamo aggirato le regole di sicurezza",
+          "description": "Autorità federale ha già concesso deroghe alle normali regole di affidabilità.",
+          "visual_hint": "Interruttore della corrente spento",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "circuit breaker switch",
+          "image": "https://images.pexels.com/photos/14129562/pexels-photo-14129562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Bolletta più cara anche senza AI",
+          "description": "Costi di sistema: paghi anche se non usi ChatGPT. La bolletta aumenterà.",
+          "visual_hint": "Bolletta con cifre in rosso",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "electricity bill payment",
+          "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Chiama il tuo fornitore domani",
+          "description": "Chiedi: come vi preparate a gestire questa domanda extra? Fallo subito.",
+          "visual_hint": "Persona al telefono con agenda",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "person calling on phone",
+          "image": "https://images.pexels.com/photos/7256299/pexels-photo-7256299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Saltano le regole sulla rete elettrica per l'AI",
+        "I data center consumano come fossero città",
+        "Servono nuove centrali a gas subito",
+        "La bolletta sale anche per chi non usa AI",
+        "Chiama il tuo fornitore e chiedi come si prepara"
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

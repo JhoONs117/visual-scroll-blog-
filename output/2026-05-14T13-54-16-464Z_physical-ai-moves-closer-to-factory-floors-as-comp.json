@@ -1,0 +1,154 @@
+{
+  "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
+  "slides": [
+    "Humanoid robots enter factory floors—but can they replace workers?",
+    "Companies test them for repetitive tasks now.",
+    "They learn tasks faster than expected—no code needed.",
+    "Your team may train robots instead of hiring next year.",
+    "Try a pilot before competitors lock the best use cases."
+  ],
+  "thread_text": [
+    "I robot umanoidi imparano i lavori senza codice. In pochi giorni, non in mesi. Ecco cosa cambia per il tuo team.",
+    "Le aziende li stanno già testando su task ripetitivi in fabbrica. Non serve scrivere una riga di software.",
+    "Il salto è qui: un robot impara osservando, come un umano. La curva di apprendimento è crollata.",
+    "Il prossimo anno potresti non assumere un operatore, ma addestrare un robot a fare il suo lavoro.",
+    "I primi casi d'uso stanno per essere saturati. Fai un pilot ora o resti fuori dal mercato."
+  ],
+  "video_script": [
+    "I robot umanoidi imparano senza codice.",
+    "Li stanno già testando in fabbrica.",
+    "Imparano in giorni, non mesi.",
+    "Il tuo team li addestrerà il prossimo anno.",
+    "Fai un pilot prima che sia tardi."
+  ],
+  "instagram_caption": "A Bosch o Siemens stanno già facendo camminare robot umanoidi in fabbrica, senza un ingegnere che scriva una riga di codice. I robot imparano a braccare un pezzo su una catena osservando un collega, in giorni non in mesi. 🤖 Il salto è che non devi più programmarli: li addestri come faresti con un nuovo assunto. 🏭 Tra un anno, invece di cercare un operaio, potresti dover formare un androide. Hai già valutato se il tuo team è pronto ad aggiornarlo? 🔄",
+  "carousel_slides": [
+    {
+      "hook": "Imparano senza codice. In giorni.",
+      "description": "Robot umanoidi imparano lavori osservando. La curva di apprendimento è crollata.",
+      "visual_hint": "Robot che osserva braccio umano",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "humanoid robot factory"
+    },
+    {
+      "hook": "Già nei test su task ripetitivi",
+      "description": "Aziende testano robot su compiti ripetitivi in fabbrica. Nessuna riga di software da scrivere.",
+      "visual_hint": "Robot su linea assemblaggio",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "assembly line robot",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Apprende come un essere umano",
+      "description": "Robot impara osservando, come un umano. La curva di apprendimento è crollata.",
+      "visual_hint": "Primo piano sensori robot",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot sensor closeup",
+      "image": "https://images.pexels.com/photos/29054365/pexels-photo-29054365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Addestrerai robot, non assumerai",
+      "description": "Il prossimo anno potresti non assumere operatori, ma addestrare robot a fare il loro lavoro.",
+      "visual_hint": "Mano che tocca robot",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching robot",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Primi casi uso si saturano",
+      "description": "Fai un pilota ora o resti fuori dal mercato. I competitor stanno già bloccando i migliori use case.",
+      "visual_hint": "Timeline con warning",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "factory floor warning",
+      "image": "https://images.pexels.com/photos/35915224/pexels-photo-35915224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Physical-AI-moves-closer-to-factory-floors-as-companies-test-humanoid-robots-scaled-e1778734671341.jpg",
+  "pubDate": "Thu, 14 May 2026 10:00:00 +0000",
+  "savedAt": "2026-05-14T13:54:41.375Z",
+  "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "physical-ai-moves-closer-to-factory-floors-as-comp",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "I robot umanoidi imparano i lavori senza codice. In pochi giorni, non in mesi. Ecco cosa cambia per il tuo team.",
+        "Le aziende li stanno già testando su task ripetitivi in fabbrica. Non serve scrivere una riga di software.",
+        "Il salto è qui: un robot impara osservando, come un umano. La curva di apprendimento è crollata.",
+        "Il prossimo anno potresti non assumere un operatore, ma addestrare un robot a fare il suo lavoro.",
+        "I primi casi d'uso stanno per essere saturati. Fai un pilot ora o resti fuori dal mercato."
+      ]
+    },
+    "instagram": {
+      "caption": "A Bosch o Siemens stanno già facendo camminare robot umanoidi in fabbrica, senza un ingegnere che scriva una riga di codice. I robot imparano a braccare un pezzo su una catena osservando un collega, in giorni non in mesi. 🤖 Il salto è che non devi più programmarli: li addestri come faresti con un nuovo assunto. 🏭 Tra un anno, invece di cercare un operaio, potresti dover formare un androide. Hai già valutato se il tuo team è pronto ad aggiornarlo? 🔄",
+      "carousel": [
+        {
+          "hook": "Imparano senza codice. In giorni.",
+          "description": "Robot umanoidi imparano lavori osservando. La curva di apprendimento è crollata.",
+          "visual_hint": "Robot che osserva braccio umano",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "humanoid robot factory"
+        },
+        {
+          "hook": "Già nei test su task ripetitivi",
+          "description": "Aziende testano robot su compiti ripetitivi in fabbrica. Nessuna riga di software da scrivere.",
+          "visual_hint": "Robot su linea assemblaggio",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "assembly line robot",
+          "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Apprende come un essere umano",
+          "description": "Robot impara osservando, come un umano. La curva di apprendimento è crollata.",
+          "visual_hint": "Primo piano sensori robot",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot sensor closeup",
+          "image": "https://images.pexels.com/photos/29054365/pexels-photo-29054365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Addestrerai robot, non assumerai",
+          "description": "Il prossimo anno potresti non assumere operatori, ma addestrare robot a fare il loro lavoro.",
+          "visual_hint": "Mano che tocca robot",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand touching robot",
+          "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Primi casi uso si saturano",
+          "description": "Fai un pilota ora o resti fuori dal mercato. I competitor stanno già bloccando i migliori use case.",
+          "visual_hint": "Timeline con warning",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "factory floor warning",
+          "image": "https://images.pexels.com/photos/35915224/pexels-photo-35915224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "I robot umanoidi imparano senza codice.",
+        "Li stanno già testando in fabbrica.",
+        "Imparano in giorni, non mesi.",
+        "Il tuo team li addestrerà il prossimo anno.",
+        "Fai un pilot prima che sia tardi."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
+}

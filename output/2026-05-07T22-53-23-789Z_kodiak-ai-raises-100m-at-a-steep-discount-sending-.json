@@ -71,5 +71,84 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2023/05/Kodiak_EV_3.jpg?resize=1200,800",
-  "instagram_caption": "Kodiak AI ha perso il 37% in borsa dopo aver raccolto 100 milioni di dollari con un prezzo scontato del 40% rispetto al giro precedente. 📉 I fondatori hanno accettato l'accordo non perché fosse vantaggioso, ma perché la liquidità stava finendo. Un segnale netto che anche una startup da 500 milioni può essere a corto di soldi. ⏳ Per te significa che le valutazioni gonfiate non reggono: controlla la cassa di qualsiasi strumento o progetto tu stia usando. 💸 Sapresti dire quanti mesi di autonomia hai oggi?"
+  "instagram_caption": "Kodiak AI ha perso il 37% in borsa dopo aver raccolto 100 milioni di dollari con un prezzo scontato del 40% rispetto al giro precedente. 📉 I fondatori hanno accettato l'accordo non perché fosse vantaggioso, ma perché la liquidità stava finendo. Un segnale netto che anche una startup da 500 milioni può essere a corto di soldi. ⏳ Per te significa che le valutazioni gonfiate non reggono: controlla la cassa di qualsiasi strumento o progetto tu stia usando. 💸 Sapresti dire quanti mesi di autonomia hai oggi?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "kodiak-ai-raises-100m-at-a-steep-discount-sending-",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "I fondatori di Kodiak AI hanno accettato un round con sconto del 40%. Non perché fosse una buona offerta. Ma perché non avevano scelta.",
+        "Sei mesi fa la società valeva 500 milioni. Ora gli investitori pagano il 40% in meno e chiamano la cosa 'accordo'. Il mercato ha già deciso il prezzo.",
+        "Se chi guida l'azienda accetta condizioni così peggiorative, il segnale è chiaro: la cassa sta per esaurirsi. È una corsa contro il tempo.",
+        "Il tuo portafoglio non è diverso. Se non sai quanti mesi di autonomia hai, stai già replicando lo stesso schema di disperazione.",
+        "Quanti mesi di cassa ti restano? Se la risposta è meno di 12, inizia oggi un audit. Il mercato non aspetta."
+      ]
+    },
+    "instagram": {
+      "caption": "Kodiak AI ha perso il 37% in borsa dopo aver raccolto 100 milioni di dollari con un prezzo scontato del 40% rispetto al giro precedente. 📉 I fondatori hanno accettato l'accordo non perché fosse vantaggioso, ma perché la liquidità stava finendo. Un segnale netto che anche una startup da 500 milioni può essere a corto di soldi. ⏳ Per te significa che le valutazioni gonfiate non reggono: controlla la cassa di qualsiasi strumento o progetto tu stia usando. 💸 Sapresti dire quanti mesi di autonomia hai oggi?",
+      "carousel": [
+        {
+          "hook": "Hanno detto sì a tutto",
+          "description": "I fondatori hanno accettato uno sconto del 40%. Non per bontà, ma perché senza alternative.",
+          "visual_hint": "Grafico crollo azionario rosso",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market crash graph"
+        },
+        {
+          "hook": "Valeva 500 milioni. Ora meno.",
+          "description": "Sei mesi fa la società valeva mezzo miliardo. Ora il mercato la sconta del 40%.",
+          "visual_hint": "Grafico con linea discendente",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "downward trend chart",
+          "image": "https://images.pexels.com/photos/7172863/pexels-photo-7172863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cassa in fiamme? Segnale certo",
+          "description": "Accettare condizioni peggiorative significa una cosa sola: la cassa sta finendo. Corsa contro il tempo.",
+          "visual_hint": "Clessidra con sabbia che scende",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "hourglass running out",
+          "image": "https://images.pexels.com/photos/4386175/pexels-photo-4386175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tuo portafoglio replica quel panico",
+          "description": "Se non sai quanti mesi di autonomia hai, stai vivendo lo stesso schema di disperazione.",
+          "visual_hint": "Persona che guarda foglio conti",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "person reading financial paper",
+          "image": "https://images.pexels.com/photos/7821547/pexels-photo-7821547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Quanti mesi ti restano?",
+          "description": "Se sono meno di 12, inizia subito un audit. Il mercato non aspetta.",
+          "visual_hint": "Calendario con cerchio rosso",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar marked deadline",
+          "image": "https://images.pexels.com/photos/6892910/pexels-photo-6892910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "I fondatori hanno accettato un round peggiore.",
+        "Non perché fosse una buona affare.",
+        "Ma perché non avevano scelta.",
+        "La cassa stava finendo.",
+        "Ora tu cosa fai? Controlla la tua."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

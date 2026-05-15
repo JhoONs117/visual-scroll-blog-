@@ -65,5 +65,81 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Screenshot_from_linux_mint_18_start_menu.png/960px-Screenshot_from_linux_mint_18_start_menu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     }
   ],
-  "instagram_caption": "In Europa l’adozione dell'AI è in ritardo, ma secondo IDC non serve un piano da milioni per recuperare.  \nIl consiglio è semplice: scegli un processo, uno solo, e automatizzalo. Un chatbot per i ticket di supporto, per esempio, ha già tagliato le richieste del 40% in tre mesi.  \nConcretamente significa risolvere un problema vero senza stravolgere tutto il lavoro.  \nQuale processo manuale nella tua giornata ti piacerebbe far gestire a un assistente automatico? 🤖🎯⏱️"
+  "instagram_caption": "In Europa l’adozione dell'AI è in ritardo, ma secondo IDC non serve un piano da milioni per recuperare.  \nIl consiglio è semplice: scegli un processo, uno solo, e automatizzalo. Un chatbot per i ticket di supporto, per esempio, ha già tagliato le richieste del 40% in tre mesi.  \nConcretamente significa risolvere un problema vero senza stravolgere tutto il lavoro.  \nQuale processo manuale nella tua giornata ti piacerebbe far gestire a un assistente automatico? 🤖🎯⏱️",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "idc-how-emea-cios-can-jumpstart-ai-rollouts",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Un modello AI funzionante in produzione in sei settimane. Non è un caso da manuale. È quello che è successo in una banca europea. Il resto del settore? Fermo ai pilot. Il problema non è la tecnologia.",
+        "I CIO europei dicono tutti la stessa cosa: il problema sono i dati. Frammentati, sporchi, bloccati in silos. Non la mancanza di talento o modelli migliori. Il collo di bottiglia è sempre lo stesso.",
+        "Il risultato? La metà dei pilot AI in EMEA non arriva mai in produzione. Non perché non funzionino. Perché provano a scalare prima di aver pulito anche un solo dataset.",
+        "La mossa giusta è fare l'opposto: prendi un solo dataset, puliscilo, e metti un modello in produzione. Subito. Non aspettare di avere tutto pronto. Un dataset pulito batte dieci modelli perfetti.",
+        "Se non hai ancora messo in produzione un modello, sbagli priorità. Il primo live pilot è l'unica prova che conta. Costa meno di un abbonamento Spotify. Trova il dataset più pulito che hai e parti oggi."
+      ]
+    },
+    "instagram": {
+      "caption": "In Europa l’adozione dell'AI è in ritardo, ma secondo IDC non serve un piano da milioni per recuperare.  \nIl consiglio è semplice: scegli un processo, uno solo, e automatizzalo. Un chatbot per i ticket di supporto, per esempio, ha già tagliato le richieste del 40% in tre mesi.  \nConcretamente significa risolvere un problema vero senza stravolgere tutto il lavoro.  \nQuale processo manuale nella tua giornata ti piacerebbe far gestire a un assistente automatico? 🤖🎯⏱️",
+      "carousel": [
+        {
+          "hook": "6 settimane in produzione",
+          "description": "Una banca europea ha messo un modello AI in produzione in sei settimane. Il resto è fermo ai pilot.",
+          "visual_hint": "calendario con 6 settimane segnate",
+          "layout_type": "hero",
+          "icon": "check",
+          "image_query": "bank server room"
+        },
+        {
+          "hook": "Il vero problema? I dati",
+          "description": "I CIO europei dicono: il collo di bottiglia sono i dati frammentati, non la tecnologia o i talenti.",
+          "visual_hint": "dati sparsi in tanti silos",
+          "layout_type": "right-focus",
+          "icon": "vibration",
+          "image_query": "fragmented data cloud"
+        },
+        {
+          "hook": "Metà dei pilot fallisce",
+          "description": "Il 50% dei pilot AI in EMEA non arriva mai in produzione. Perché provano a scalare prima di pulire un dataset.",
+          "visual_hint": "grafico a torta con metà vuota",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "pie chart half empty"
+        },
+        {
+          "hook": "Un dataset pulito basta",
+          "description": "Non aspettare tutto pronto. Prendi un solo dataset, puliscilo e metti un modello in produzione. Subito.",
+          "visual_hint": "mano che pulisce un dataset",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "clean dataset folder"
+        },
+        {
+          "hook": "Parti oggi, non domani",
+          "description": "Il primo live pilot è l'unica prova che conta. Costa meno di un abbonamento Spotify. Trova il dataset più pulito e parti.",
+          "visual_hint": "pulsante play su schermo",
+          "layout_type": "cta-final",
+          "icon": "waves",
+          "image_query": "start button screen",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Screenshot_from_linux_mint_18_start_menu.png/960px-Screenshot_from_linux_mint_18_start_menu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Una banca ha messo in produzione un modello AI in sei settimane.",
+        "I CIO dicono: il problema sono i dati, non la tecnologia.",
+        "Metà dei pilot AI in EMEA non arriva mai in produzione.",
+        "Inizia con un dataset pulito. Non provare a far tutto.",
+        "Il tuo primo modello live è l'unica prova che conta."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

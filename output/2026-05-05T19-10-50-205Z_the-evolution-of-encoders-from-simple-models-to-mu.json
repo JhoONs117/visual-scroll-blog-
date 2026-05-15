@@ -22,5 +22,39 @@
     "Un encoder che vede e ascolta è più intelligente."
   ],
   "savedAt": "2026-05-05T19:10:50.205Z",
-  "instagram_caption": "Prima gli encoder trasformavano solo testo in numeri. Ora gli stessi modelli possono elaborare parole, immagini e audio insieme, creando una rappresentazione unica del mondo. Conta perché un'AI che capisce più input contemporaneamente prende decisioni migliori, non separa ciò che nella realtà è connesso. Per te significa che strumenti come assistenti vocali o motori di ricerca potranno interpretare una foto e la tua domanda come un unico concetto, senza fraintesi. Quale dato \"nascosto\" nella tua giornata — suoni, gesti, temperature — potrebbe insegnare a un encoder qualcosa di nuovo? 🔢🧠📸🎵"
+  "instagram_caption": "Prima gli encoder trasformavano solo testo in numeri. Ora gli stessi modelli possono elaborare parole, immagini e audio insieme, creando una rappresentazione unica del mondo. Conta perché un'AI che capisce più input contemporaneamente prende decisioni migliori, non separa ciò che nella realtà è connesso. Per te significa che strumenti come assistenti vocali o motori di ricerca potranno interpretare una foto e la tua domanda come un unico concetto, senza fraintesi. Quale dato \"nascosto\" nella tua giornata — suoni, gesti, temperature — potrebbe insegnare a un encoder qualcosa di nuovo? 🔢🧠📸🎵",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-evolution-of-encoders-from-simple-models-to-mu",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "I modelli più stupidi che hai visto partono da un'idea semplice: trasformare parole in numeri. Sembra banale, ma è qui che tutto si decide.",
+        "Prima di parlare, ogni AI deve tradurre la realtà in numeri. Quel passaggio è la sua vera intelligenza. Fallo male, e il resto è rumore.",
+        "Se dai al modello dati sporchi, lui impara sporco. La qualità dei numeri che gli dai è l'unico vero limite di quello che può fare.",
+        "Non devi per forza usare solo testi. Addestra il tuo encoder su immagini, suoni, codice. Più varietà entra, più connessioni trova.",
+        "I modelli multimodali non sono un trucco di marketing: sono il modo più naturale di capire il mondo. Un encoder che vede, legge e ascolta ti capisce meglio."
+      ]
+    },
+    "instagram": {
+      "caption": "Prima gli encoder trasformavano solo testo in numeri. Ora gli stessi modelli possono elaborare parole, immagini e audio insieme, creando una rappresentazione unica del mondo. Conta perché un'AI che capisce più input contemporaneamente prende decisioni migliori, non separa ciò che nella realtà è connesso. Per te significa che strumenti come assistenti vocali o motori di ricerca potranno interpretare una foto e la tua domanda come un unico concetto, senza fraintesi. Quale dato \"nascosto\" nella tua giornata — suoni, gesti, temperature — potrebbe insegnare a un encoder qualcosa di nuovo? 🔢🧠📸🎵",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Gli encoder trasformano tutto in numeri.",
+        "Anche le parole sono solo numeri.",
+        "I dati buoni fanno AI buona.",
+        "Prova a usare input diversi.",
+        "Un encoder che vede e ascolta è più intelligente."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

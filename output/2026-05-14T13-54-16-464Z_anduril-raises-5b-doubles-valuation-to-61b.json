@@ -1,0 +1,154 @@
+{
+  "title": "Anduril raises $5B, doubles valuation to $61B",
+  "slides": [
+    "Anduril: $5B raccolti, ma per cosa?",
+    "Valutazione sale a $61B, doppia in un anno",
+    "Il Pentagono è il cliente, non il mercato",
+    "Per la difesa tech: cambia la soglia d'ingresso",
+    "Chi compete deve accelerare o sarà fuori"
+  ],
+  "thread_text": [
+    "Il cliente di Anduril non è il mercato. È il Pentagono. Un solo cliente decide se una startup vale 61 miliardi o zero.",
+    "In un anno la valutazione è raddoppiata. 5 miliardi raccolti. Ma il punto non è il denaro: è chi lo controlla.",
+    "Per anni la difesa tech era fuori portata: contratti lunghi, compliance impossibile, capitale bloccato. Ora no.",
+    "Anduril ha cambiato la soglia d'ingresso. Se giochi nel settore, devi accelerare. Chi resta indietro viene espulso.",
+    "Un fondo che investe in difesa tech oggi può vedere ritorni in 3 anni. Prima servivano 10. Hai già un thesis?"
+  ],
+  "video_script": [
+    "Anduril ha raccolto 5 miliardi di dollari.",
+    "La valutazione è salita a 61 miliardi.",
+    "Il loro unico cliente? Il Pentagono.",
+    "Ora la difesa tech è accessibile a tutti.",
+    "Se non acceleri, resti fuori dal gioco."
+  ],
+  "instagram_caption": "Anduril ha appena raccolto 5 miliardi di dollari e ora vale 61 miliardi 🚀 — il doppio rispetto a un anno fa. Ma il suo unico cliente vero è il Pentagono: non vende sul mercato libero, vende alla guerra.💰 Questo cambia la soglia d'ingresso per chiunque faccia difesa tech: i contratti sono più veloci, i ritorni possibili in 3 anni invece di 10. Se lavori nel settore, i competitor che non si adeguano spariranno. La partita ora è su chi controlla questi fondi, non su quanti sono. Chi decide il valore di una startup?",
+  "carousel_slides": [
+    {
+      "hook": "Un solo cliente decide",
+      "description": "Il Pentagono può rendere una startup da 61 miliardi o azzerarla. Anduril lo sa bene.",
+      "visual_hint": "Pentagono dall'alto",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Pentagon building"
+    },
+    {
+      "hook": "Doppia in un anno",
+      "description": "Valutazione sale a 61 miliardi con 5 miliardi raccolti. Non è il denaro: è chi lo controlla.",
+      "visual_hint": "Grafico in salita",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ora la difesa è accessibile",
+      "description": "Contratti lunghi e compliance impossibile bloccavano il settore. Anduril ha cambiato la soglia d'ingresso.",
+      "visual_hint": "Droni militari in fila",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "military drones",
+      "image": "https://images.pexels.com/photos/16581888/pexels-photo-16581888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Accelera o vieni espulso",
+      "description": "Chi gioca nella difesa tech deve accelerare. Chi resta indietro viene espulso dal mercato.",
+      "visual_hint": "Mani su tastiera",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands typing keyboard",
+      "image": "https://images.pexels.com/photos/7915239/pexels-photo-7915239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ritorni in 3 anni",
+      "description": "Un fondo oggi vede ritorni in 3 anni, prima servivano 10. Hai già una tesi d'investimento?",
+      "visual_hint": "Soldi che volano",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "flying money",
+      "image": "https://images.pexels.com/photos/6266738/pexels-photo-6266738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/07/brian-schimpf_a6f588.png?w=864",
+  "pubDate": "Wed, 13 May 2026 14:44:25 +0000",
+  "savedAt": "2026-05-14T13:56:29.987Z",
+  "link": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anduril-raises-5b-doubles-valuation-to-61b",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Il cliente di Anduril non è il mercato. È il Pentagono. Un solo cliente decide se una startup vale 61 miliardi o zero.",
+        "In un anno la valutazione è raddoppiata. 5 miliardi raccolti. Ma il punto non è il denaro: è chi lo controlla.",
+        "Per anni la difesa tech era fuori portata: contratti lunghi, compliance impossibile, capitale bloccato. Ora no.",
+        "Anduril ha cambiato la soglia d'ingresso. Se giochi nel settore, devi accelerare. Chi resta indietro viene espulso.",
+        "Un fondo che investe in difesa tech oggi può vedere ritorni in 3 anni. Prima servivano 10. Hai già un thesis?"
+      ]
+    },
+    "instagram": {
+      "caption": "Anduril ha appena raccolto 5 miliardi di dollari e ora vale 61 miliardi 🚀 — il doppio rispetto a un anno fa. Ma il suo unico cliente vero è il Pentagono: non vende sul mercato libero, vende alla guerra.💰 Questo cambia la soglia d'ingresso per chiunque faccia difesa tech: i contratti sono più veloci, i ritorni possibili in 3 anni invece di 10. Se lavori nel settore, i competitor che non si adeguano spariranno. La partita ora è su chi controlla questi fondi, non su quanti sono. Chi decide il valore di una startup?",
+      "carousel": [
+        {
+          "hook": "Un solo cliente decide",
+          "description": "Il Pentagono può rendere una startup da 61 miliardi o azzerarla. Anduril lo sa bene.",
+          "visual_hint": "Pentagono dall'alto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Pentagon building"
+        },
+        {
+          "hook": "Doppia in un anno",
+          "description": "Valutazione sale a 61 miliardi con 5 miliardi raccolti. Non è il denaro: è chi lo controlla.",
+          "visual_hint": "Grafico in salita",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ora la difesa è accessibile",
+          "description": "Contratti lunghi e compliance impossibile bloccavano il settore. Anduril ha cambiato la soglia d'ingresso.",
+          "visual_hint": "Droni militari in fila",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "military drones",
+          "image": "https://images.pexels.com/photos/16581888/pexels-photo-16581888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Accelera o vieni espulso",
+          "description": "Chi gioca nella difesa tech deve accelerare. Chi resta indietro viene espulso dal mercato.",
+          "visual_hint": "Mani su tastiera",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands typing keyboard",
+          "image": "https://images.pexels.com/photos/7915239/pexels-photo-7915239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ritorni in 3 anni",
+          "description": "Un fondo oggi vede ritorni in 3 anni, prima servivano 10. Hai già una tesi d'investimento?",
+          "visual_hint": "Soldi che volano",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "flying money",
+          "image": "https://images.pexels.com/photos/6266738/pexels-photo-6266738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anduril ha raccolto 5 miliardi di dollari.",
+        "La valutazione è salita a 61 miliardi.",
+        "Il loro unico cliente? Il Pentagono.",
+        "Ora la difesa tech è accessibile a tutti.",
+        "Se non acceleri, resti fuori dal gioco."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
+}

@@ -19,9 +19,7 @@
     "Brockman ha detto no.",
     "È nata una scissione.",
     "Ora OpenAI vale miliardi.",
-    "Tesla ha la sua strada.",
-    "Leggi il racconto di Brockman.",
-    "Poi decidi chi aveva ragione."
+    "Tesla ha la sua strada."
   ],
   "savedAt": "2026-05-06T19:24:59.578Z",
   "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
@@ -71,5 +69,83 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800",
-  "instagram_caption": "Elon Musk voleva fondere OpenAI con Tesla, ma Greg Brockman e Sam Altman dissero no 💥. Musk spingeva per portare il controllo dell'AI dentro la sua fabbrica di auto; loro la volevano indipendente. La scissione è stata una battaglia di governance, non solo di tecnologia ⚖️. Oggi OpenAI vale miliardi e Tesla ha la sua strada nell'AI — due visioni che si giocano gli strumenti che usi ogni giorno. Chi aveva ragione?"
+  "instagram_caption": "Elon Musk voleva fondere OpenAI con Tesla, ma Greg Brockman e Sam Altman dissero no 💥. Musk spingeva per portare il controllo dell'AI dentro la sua fabbrica di auto; loro la volevano indipendente. La scissione è stata una battaglia di governance, non solo di tecnologia ⚖️. Oggi OpenAI vale miliardi e Tesla ha la sua strada nell'AI — due visioni che si giocano gli strumenti che usi ogni giorno. Chi aveva ragione?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-elon-musk-left-openai-according-to-greg-brockm",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Musk voleva fondere OpenAI con Tesla. Brockman disse no. È così che è nata la scissione.",
+        "La tensione non era solo tecnica: Musk spingeva per un controllo diretto su OpenAI dentro Tesla.",
+        "Brockman e Altman hanno rifiutato. L'AI doveva restare indipendente, non diventare una divisione auto.",
+        "Ora OpenAI vale miliardi. Tesla ha il suo piano AI. Ognuno per la sua strada con lezioni diverse.",
+        "Leggi il racconto completo di Brockman su X. Poi decidi chi aveva ragione."
+      ]
+    },
+    "instagram": {
+      "caption": "Elon Musk voleva fondere OpenAI con Tesla, ma Greg Brockman e Sam Altman dissero no 💥. Musk spingeva per portare il controllo dell'AI dentro la sua fabbrica di auto; loro la volevano indipendente. La scissione è stata una battaglia di governance, non solo di tecnologia ⚖️. Oggi OpenAI vale miliardi e Tesla ha la sua strada nell'AI — due visioni che si giocano gli strumenti che usi ogni giorno. Chi aveva ragione?",
+      "carousel": [
+        {
+          "hook": "Voleva fondere tutto con Tesla",
+          "description": "Musk voleva unire OpenAI a Tesla. Brockman e Altman dissero no. Tensione esplosiva.",
+          "visual_hint": "Due strade che si dividono",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "road fork divergence"
+        },
+        {
+          "hook": "Il controllo diretto era il vero obiettivo",
+          "description": "Non solo tecnologia: Musk spingeva per avere OpenAI dentro Tesla. Indipendenza a rischio.",
+          "visual_hint": "Elon Musk ritratto serio",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "Elon Musk portrait",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elon_Musk_2015.jpg/960px-Elon_Musk_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Rifiutarono: AI indipendente, non divisione auto",
+          "description": "Brockman e Altman scelsero l'indipendenza. L'AI non doveva diventare un reparto di Tesla.",
+          "visual_hint": "Freno a mano tirato",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "emergency brake handle",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Emergency_brake_handle_in_%C4%8CD_class_AB.jpg/960px-Emergency_brake_handle_in_%C4%8CD_class_AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Oggi miliardi separati, lezioni divergenti",
+          "description": "OpenAI vale miliardi. Tesla ha la sua AI. Strade separate, insegnamenti diversi.",
+          "visual_hint": "Due binari che si allontanano",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "railroad tracks diverging"
+        },
+        {
+          "hook": "Leggi il racconto, poi giudica",
+          "description": "Brockman ha raccontato tutto. Solo dopo puoi decidere chi aveva ragione.",
+          "visual_hint": "Pollice in su vs pollice in giù",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "thumbs up thumbs down",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Thumbs_up_and_thumbs_down_letter_box%2C_Hillegersberg%2C_Rotterdam_%282021%29_01.jpg/960px-Thumbs_up_and_thumbs_down_letter_box%2C_Hillegersberg%2C_Rotterdam_%282021%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Musk voleva fondere OpenAI con Tesla.",
+        "Brockman ha detto no.",
+        "È nata una scissione.",
+        "Ora OpenAI vale miliardi.",
+        "Tesla ha la sua strada."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

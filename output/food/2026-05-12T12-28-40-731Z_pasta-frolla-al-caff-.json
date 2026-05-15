@@ -80,5 +80,82 @@
   "link": "https://ricette.giallozafferano.it/Pasta-frolla-al-caffe.html",
   "pubDate": "Fri, 08 May 2026 09:53:00 +0200",
   "savedAt": "2026-05-12T12:29:30.171Z",
-  "image": "https://www.giallozafferano.it/images/361-36149/Pasta-frolla-al-caffe_650x433_wm.jpg"
+  "image": "https://www.giallozafferano.it/images/361-36149/Pasta-frolla-al-caffe_650x433_wm.jpg",
+  "schema_version": 2,
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Una frolla che sa di caffè appena fatto. Friabile, profumata, con un retrogusto che resta in bocca. La crostata della domenica non sarà più la stessa.",
+        "La base è semplice: farina, burro, zucchero a velo, uova. Il segreto? Caffè solubile. Un cucchiaio, e l’impasto cambia anima.",
+        "Lavora il burro morbido con lo zucchero a velo fino a crema. Poi le uova, la farina e, per ultimo, il caffè solubile sciolto in un goccio d’acqua.",
+        "Impasta veloce, forma un panetto, e lascialo riposare 30 minuti in frigo. Poi stendi col mattarello: crostate, biscotti, tutto quello che vuoi.",
+        "Il trucco? Usa burro salato per esaltare il caffè. Cuoci a 170°C e falla raffreddare su una gratella. Provala e dimmi com'è andata 👇"
+      ]
+    },
+    "instagram": {
+      "caption": "Pasta frolla al caffè: la base che non sapevi di avere bisogno in dispensa. ☕✨ Profuma di biscotto appena sfornato e scioglie in bocca con quel fondo di tostatura che fa la differenza. Lavoro burro e zucchero a velo fino a ottenere una crema, aggiungo uova e farina, poi il caffè solubile che la rende scura e intensa. Tocco finale: mezz’ora in frigo, poi via a stendere per crostate golose o biscotti da inzuppare. Provala questo weekend e dimmi come la usi 🍪💫",
+      "carousel": [
+        {
+          "hook": "Pasta frolla al caffè",
+          "description": "Profumata e friabile, perfetta per crostate e biscotti.",
+          "visual_hint": "Frolla dorata al caffè",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "coffee shortbread cookies"
+        },
+        {
+          "hook": "Ingredienti chiave",
+          "description": "Farina, burro, zucchero a velo, uova e caffè solubile.",
+          "visual_hint": "Ingredienti su tavolo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "coffee pastry ingredients",
+          "image": "https://images.pexels.com/photos/20508769/pexels-photo-20508769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Lavora l'impasto",
+          "description": "Mescola burro e zucchero, poi uova e farina. Aggiungi il caffè.",
+          "visual_hint": "Mani che impastano",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "kneading coffee dough",
+          "image": "https://images.pexels.com/photos/5947608/pexels-photo-5947608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Riposo in frigo",
+          "description": "Avvolgi in pellicola e lascia riposare 30 minuti in frigorifero.",
+          "visual_hint": "Impasto avvolto in frigo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "chilled coffee dough wrap",
+          "image": "https://images.pexels.com/photos/14416437/pexels-photo-14416437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stendi e cuoci",
+          "description": "Stendi con il mattarello e usala per crostate o biscotti.",
+          "visual_hint": "Frolla stesa e tagliata",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "rolled coffee shortbread",
+          "image": "https://images.pexels.com/photos/17255925/pexels-photo-17255925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Frolla al caffè, profumata e friabile.",
+        "Prendo farina, burro, zucchero, uova e caffè.",
+        "Lavoro burro e zucchero, aggiungo uova e farina.",
+        "Impasto col caffè, riposo mezz'ora in frigo.",
+        "Stendo col mattarello, pronta per crostate o biscotti."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

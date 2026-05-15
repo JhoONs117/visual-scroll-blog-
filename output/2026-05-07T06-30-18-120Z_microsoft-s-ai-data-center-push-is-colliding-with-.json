@@ -68,5 +68,82 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1475927398.jpeg?resize=1200,674",
-  "instagram_caption": "Una delle aziende più ricche del pianeta ha promesso zero emissioni tra sei anni, ma i suoi nuovi data center per l'intelligenza artificiale stanno già triplicando il consumo di elettricità previsto ⚡. Microsoft investe miliardi in rinnovabili, ma né solare né eolico riescono a tenere il passo di questa fame. Ogni volta che un chatbot ti risponde, brucia corrente come un piccolo elettrodomestico acceso ore 💨. Hai mai pensato a cosa chiedi davvero all’AI? 😅"
+  "instagram_caption": "Una delle aziende più ricche del pianeta ha promesso zero emissioni tra sei anni, ma i suoi nuovi data center per l'intelligenza artificiale stanno già triplicando il consumo di elettricità previsto ⚡. Microsoft investe miliardi in rinnovabili, ma né solare né eolico riescono a tenere il passo di questa fame. Ogni volta che un chatbot ti risponde, brucia corrente come un piccolo elettrodomestico acceso ore 💨. Hai mai pensato a cosa chiedi davvero all’AI? 😅",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-s-ai-data-center-push-is-colliding-with-",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "I backup diesel dei data center Microsoft girano molto più di quanto dichiarato. Una crepa nel piano carbon-negative.",
+        "Microsoft prometteva di diventare carbon-negative entro il 2030. Oggi i suoi data center richiedono nuove centrali elettriche enormi.",
+        "I generatori diesel sono i veri responsabili. Accesi in silenzio, ben oltre i report ufficiali. I tuoi tool AI cloud potrebbero già funzionare a combustibili fossili.",
+        "Questa discrepanza non è solo greenwashing. Significa che ogni query AI ha un costo ambientale reale che nessuno calcola.",
+        "Verifica l'impatto reale del tuo carico di lavoro oggi. I dati sono nelle tue mani, non nei comunicati stampa."
+      ]
+    },
+    "instagram": {
+      "caption": "Una delle aziende più ricche del pianeta ha promesso zero emissioni tra sei anni, ma i suoi nuovi data center per l'intelligenza artificiale stanno già triplicando il consumo di elettricità previsto ⚡. Microsoft investe miliardi in rinnovabili, ma né solare né eolico riescono a tenere il passo di questa fame. Ogni volta che un chatbot ti risponde, brucia corrente come un piccolo elettrodomestico acceso ore 💨. Hai mai pensato a cosa chiedi davvero all’AI? 😅",
+      "carousel": [
+        {
+          "hook": "I backup diesel girano in silenzio",
+          "description": "I generatori diesel dei data center Microsoft funzionano molto più del dichiarato. Una crepa nel piano carbon-negative.",
+          "visual_hint": "Generatori diesel accesi",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "diesel generator data center"
+        },
+        {
+          "hook": "Centrali elettriche per l'AI",
+          "description": "Microsoft prometteva carbon-negative entro il 2030. Oggi i suoi data center richiedono enormi nuove centrali elettriche.",
+          "visual_hint": "Centrale elettrica enorme",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "power plant smoke",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Power_Plant_Smoke_Towers_during_Sunset.jpg/960px-Power_Plant_Smoke_Towers_during_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "I tuoi tool AI su fossili",
+          "description": "I generatori diesel accesi oltre i report ufficiali. I tuoi strumenti AI cloud potrebbero già funzionare a combustibili fossili.",
+          "visual_hint": "Grafico emissioni in crescita",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "carbon emissions chart",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Carbon_Emissions_Per_Passenger.png/960px-Carbon_Emissions_Per_Passenger.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Ogni query AI ha un costo",
+          "description": "Questa discrepanza non è solo greenwashing. Ogni query AI ha un costo ambientale reale che nessuno calcola.",
+          "visual_hint": "Mano su schermo dati",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand touching screen"
+        },
+        {
+          "hook": "Verifica l'impatto reale ora",
+          "description": "Controlla l'impatto reale del tuo carico di lavoro oggi. I dati sono nelle tue mani, non nei comunicati stampa.",
+          "visual_hint": "Spunta verde su report",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "green checkmark report"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "I backup diesel girano più del previsto.",
+        "Microsoft promette carbon-negative ma servono centrali.",
+        "I tuoi tool AI usano già fossili.",
+        "Controlla subito il tuo impatto.",
+        "I dati parlano chiaro."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

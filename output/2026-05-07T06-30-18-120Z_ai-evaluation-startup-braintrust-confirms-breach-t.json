@@ -67,5 +67,81 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2023/09/BraintrustTeamPhoto.jpg?resize=1200,900",
-  "instagram_caption": "Braintrust ha appena detto a tutti i suoi clienti di cambiare subito le chiavi di accesso: la loro piattaforma di valutazione AI è stata violata. 🔐  \n\nNon è un avviso vago: la violazione è confermata e l'azienda non ha fatto eccezioni — ogni singola chiave andava ruotata immediatamente. Questo significa che i tuoi token AI, se non li hai mai controllati, potrebbero già essere esposti. ⚠️  \n\nSe usi strumenti AI per lavoro o sviluppo, oggi non porti a casa nulla: ruota tutte le credenziali sensibili adesso. I rischi sono concreti, non teorici. 🛠️  \n\nHai già verificato dove sono i tuoi token oggi? 🔍"
+  "instagram_caption": "Braintrust ha appena detto a tutti i suoi clienti di cambiare subito le chiavi di accesso: la loro piattaforma di valutazione AI è stata violata. 🔐  \n\nNon è un avviso vago: la violazione è confermata e l'azienda non ha fatto eccezioni — ogni singola chiave andava ruotata immediatamente. Questo significa che i tuoi token AI, se non li hai mai controllati, potrebbero già essere esposti. ⚠️  \n\nSe usi strumenti AI per lavoro o sviluppo, oggi non porti a casa nulla: ruota tutte le credenziali sensibili adesso. I rischi sono concreti, non teorici. 🛠️  \n\nHai già verificato dove sono i tuoi token oggi? 🔍",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-evaluation-startup-braintrust-confirms-breach-t",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "I tuoi modelli AI potrebbero essere già compromessi. Un attacco a Braintrust ha permesso l'accesso a sistemi interni, non solo ai dati di un singolo cliente.",
+        "L'azienda ha ordinato a tutti i clienti di ruotare tutte le chiavi sensibili. Non è un avviso di routine: hanno visto un accesso attivo ai sistemi.",
+        "Non si tratta di un singolo account violato. Gli attaccanti hanno esplorato l'infrastruttura interna. Chi ha eseguito chiamate API recenti dovrebbe controllare subito i log.",
+        "Il problema non è solo il furto di chiavi: se qualcuno ha alterato i tuoi modelli, i risultati che ottieni sono già inaffidabili. Non lo saprai finché non verifichi.",
+        "Controlla la cronologia delle chiamate API delle ultime 48 ore. Se trovi attività sospette, blocca le chiavi e reimposta tutto. Non aspettare una notifica."
+      ]
+    },
+    "instagram": {
+      "caption": "Braintrust ha appena detto a tutti i suoi clienti di cambiare subito le chiavi di accesso: la loro piattaforma di valutazione AI è stata violata. 🔐  \n\nNon è un avviso vago: la violazione è confermata e l'azienda non ha fatto eccezioni — ogni singola chiave andava ruotata immediatamente. Questo significa che i tuoi token AI, se non li hai mai controllati, potrebbero già essere esposti. ⚠️  \n\nSe usi strumenti AI per lavoro o sviluppo, oggi non porti a casa nulla: ruota tutte le credenziali sensibili adesso. I rischi sono concreti, non teorici. 🛠️  \n\nHai già verificato dove sono i tuoi token oggi? 🔍",
+      "carousel": [
+        {
+          "hook": "I tuoi modelli AI sono compromessi?",
+          "description": "Attaccanti hanno esplorato sistemi interni Braintrust. I tuoi dati potrebbero già essere in mani sbagliate.",
+          "visual_hint": "database con lucchetto rotto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room broken lock"
+        },
+        {
+          "hook": "Ogni chiave deve essere ruotata",
+          "description": "Braintrust ordina a tutti i clienti di ruotare le chiavi. Accesso attivo rilevato, non è un falso allarme.",
+          "visual_hint": "chiave digitale che ruota",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "digital key rotation"
+        },
+        {
+          "hook": "Attacco all'infrastruttura interna",
+          "description": "Non un singolo account: gli hacker hanno esplorato server interni. Controlla subito i log API recenti.",
+          "visual_hint": "mappa rete con nodi rossi",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "network map red nodes"
+        },
+        {
+          "hook": "Modelli alterati? Risultati inaffidabili",
+          "description": "Se qualcuno ha modificato i tuoi modelli, non lo saprai finché non verifichi. Controlla ora.",
+          "visual_hint": "mano che esamina codice",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand inspecting code screen"
+        },
+        {
+          "hook": "Blocca tutto entro 48 ore",
+          "description": "Controlla cronologia API, blocca attività sospette e reimposta chiavi. Non aspettare notifiche.",
+          "visual_hint": "bottone rosso di emergenza",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "red emergency stop button",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Emergency_stop_button.jpg/960px-Emergency_stop_button.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "I tuoi modelli AI sono a rischio.",
+        "Hanno bucato Braintrust, non un singolo cliente.",
+        "Tutti devono cambiare le chiavi adesso.",
+        "Gli attaccanti sono entrati nei sistemi interni.",
+        "Controlla subito le tue API."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

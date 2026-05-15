@@ -71,5 +71,84 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/fitbit-air.png?resize=1200,752",
-  "instagram_caption": "Google ha tolto lo schermo dal Fitbit Air e lo ha sostituito con sensori tattili che inviano segnali sulla pelle. 🖐️ Niente più display da guardare: ricevi un tocco sul polso per ogni notifica, e impari a riconoscerli senza distrarti. Questo wearable raccoglie più dati biologici di un orologio tradizionale — temperatura, sudorazione, battito in continuo — e costa meno di un abbonamento Spotify. 💸 Per te significa non dover mai più guardare il polso mentre lavori, corri o guidi. 📉 Ti fideresti davvero di uno smartwatch che non vedi mai? 🤔"
+  "instagram_caption": "Google ha tolto lo schermo dal Fitbit Air e lo ha sostituito con sensori tattili che inviano segnali sulla pelle. 🖐️ Niente più display da guardare: ricevi un tocco sul polso per ogni notifica, e impari a riconoscerli senza distrarti. Questo wearable raccoglie più dati biologici di un orologio tradizionale — temperatura, sudorazione, battito in continuo — e costa meno di un abbonamento Spotify. 💸 Per te significa non dover mai più guardare il polso mentre lavori, corri o guidi. 📉 Ti fideresti davvero di uno smartwatch che non vedi mai? 🤔",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-unveils-whoop-like-screenless-fitbit-air",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Non vedrai mai più le notifiche sullo schermo. Solo segnali sulla pelle.",
+        "Google ha appena tolto il display dal nuovo Fitbit Air. Lo sostituisce con sensori tattili.",
+        "Raccoglie più dati biologici di un orologio tradizionale. Temperatura, sudorazione, battito in continuo.",
+        "Niente notifiche visive: ricevi un tocco sul polso per ogni avviso. Impari a riconoscerli.",
+        "Costa meno di un abbonamento Spotify. Provalo questa settimana e dimentica lo schermo."
+      ]
+    },
+    "instagram": {
+      "caption": "Google ha tolto lo schermo dal Fitbit Air e lo ha sostituito con sensori tattili che inviano segnali sulla pelle. 🖐️ Niente più display da guardare: ricevi un tocco sul polso per ogni notifica, e impari a riconoscerli senza distrarti. Questo wearable raccoglie più dati biologici di un orologio tradizionale — temperatura, sudorazione, battito in continuo — e costa meno di un abbonamento Spotify. 💸 Per te significa non dover mai più guardare il polso mentre lavori, corri o guidi. 📉 Ti fideresti davvero di uno smartwatch che non vedi mai? 🤔",
+      "carousel": [
+        {
+          "hook": "Niente schermo, più dati biologici",
+          "description": "Google toglie il display dal nuovo Fitbit Air e lo sostituisce con sensori tattili avanzati.",
+          "visual_hint": "Fitbit senza schermo accanto a orologio",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartwatch without display"
+        },
+        {
+          "hook": "Sensori tattili avanzati",
+          "description": "Raccoglie più dati biologici di un orologio tradizionale: temperatura, sudorazione, battito in continuo.",
+          "visual_hint": "Primo piano sensori sul dispositivo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "health sensor array",
+          "image": "https://images.pexels.com/photos/8088870/pexels-photo-8088870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Segnali sulla pelle, non occhi",
+          "description": "Non vedrai mai le notifiche: solo segnali sulla pelle. Impari a riconoscerli al tatto.",
+          "visual_hint": "Braccio con vibrazione tattile",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "haptic feedback wrist",
+          "image": "https://images.pexels.com/photos/18078985/pexels-photo-18078985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Indossalo e dimentica il polso",
+          "description": "Ricevi un tocco per ogni avviso. Costa meno di un abbonamento Spotify. Provalo questa settimana.",
+          "visual_hint": "Mano con Fitbit Air al polso",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "wrist wearable device",
+          "image": "https://images.pexels.com/photos/18078985/pexels-photo-18078985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Schermo? Mai più.",
+          "description": "Provalo oggi: indossalo e dimentica il polso. Il futuro del fitness è tattile.",
+          "visual_hint": "Persona sorridente mostra polso",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "person smiling wrist",
+          "image": "https://images.pexels.com/photos/35688435/pexels-photo-35688435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google ha eliminato lo schermo dal nuovo Fitbit.",
+        "Sostituito da sensori tattili avanzati.",
+        "Raccoglie più dati biologici di un orologio classico.",
+        "Niente notifiche visive, solo segnali sulla pelle.",
+        "Provalo oggi: indossalo e dimentica il polso."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

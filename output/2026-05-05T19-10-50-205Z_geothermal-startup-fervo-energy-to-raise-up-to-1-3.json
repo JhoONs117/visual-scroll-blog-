@@ -22,5 +22,39 @@
     "E ora puoi comprare le loro azioni in borsa"
   ],
   "savedAt": "2026-05-05T19:10:50.205Z",
-  "instagram_caption": "1,3 miliardi di dollari per perforare le rocce, ma non per petrolio ♻️ Fervo Energy sfrutta tecniche simili al fracking per estrarre calore dalla crosta terrestre e produrre elettricità 24/7. A differenza di solare ed eolico, questa energia pulita non si ferma quando fa caldo o non c'è vento. La startup sta per quotarsi in borsa: chiunque potrà comprare azioni dell'IPO. Puoi investire in una fonte stabile che tiene accesa l'aria condizionata anche durante una canicola ️🔥 Cosa vuol dire per la bolletta di casa tua?"
+  "instagram_caption": "1,3 miliardi di dollari per perforare le rocce, ma non per petrolio ♻️ Fervo Energy sfrutta tecniche simili al fracking per estrarre calore dalla crosta terrestre e produrre elettricità 24/7. A differenza di solare ed eolico, questa energia pulita non si ferma quando fa caldo o non c'è vento. La startup sta per quotarsi in borsa: chiunque potrà comprare azioni dell'IPO. Puoi investire in una fonte stabile che tiene accesa l'aria condizionata anche durante una canicola ️🔥 Cosa vuol dire per la bolletta di casa tua?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "geothermal-startup-fervo-energy-to-raise-up-to-1-3",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Un miliardo e trecento milioni di dollari. Tutti in una startup che scava buchi. Ti sembra normale?",
+        "Fervo Energy non cerca petrolio. Cerca calore. Calore nel sottosuolo, a chilometri di profondità.",
+        "A differenza del sole o del vento, il calore della terra non si ferma mai. Funziona 24 ore su 24, 7 giorni su 7.",
+        "Hanno appena quotato le azioni in borsa. Si chiama IPO Fervo. Il mercato punta su energia stabile e pulita.",
+        "Quando l'afa ti soffoca e i pannelli solari vanno in crisi, loro producono ancora. Ecco perché valgono 1,3 miliardi."
+      ]
+    },
+    "instagram": {
+      "caption": "1,3 miliardi di dollari per perforare le rocce, ma non per petrolio ♻️ Fervo Energy sfrutta tecniche simili al fracking per estrarre calore dalla crosta terrestre e produrre elettricità 24/7. A differenza di solare ed eolico, questa energia pulita non si ferma quando fa caldo o non c'è vento. La startup sta per quotarsi in borsa: chiunque potrà comprare azioni dell'IPO. Puoi investire in una fonte stabile che tiene accesa l'aria condizionata anche durante una canicola ️🔥 Cosa vuol dire per la bolletta di casa tua?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Hanno raccolto un miliardo e trecento milioni",
+        "Scavando nella terra per prendere calore",
+        "Non serve il sole, non serve il vento",
+        "Funziona sempre, anche col caldo torrido",
+        "E ora puoi comprare le loro azioni in borsa"
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

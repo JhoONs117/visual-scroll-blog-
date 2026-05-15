@@ -25,5 +25,42 @@
     "Il futuro ha un nome: CopilotKit."
   ],
   "savedAt": "2026-05-05T16:15:26.750Z",
-  "instagram_caption": "27 milioni di dollari per un tool che trasforma qualsiasi app in un’assistente AI. 💡 CopilotKit permette agli sviluppatori di integrare agenti intelligenti nel codice già esistente, senza riscrivere tutto da zero. 🛠️ Si aggiunge in giorni, non settimane: già oggi un’app di e-commerce o di project management può avere un bot che risponde, analizza e agisce dentro il suo stesso sistema. 👨‍💻 Significa meno lavoro per chi sviluppa e funzioni nuove per chi usa quelle app ogni giorno. Quanto cambierebbe il tuo tool preferito se avesse un’AI nativa? 🚀"
+  "instagram_caption": "27 milioni di dollari per un tool che trasforma qualsiasi app in un’assistente AI. 💡 CopilotKit permette agli sviluppatori di integrare agenti intelligenti nel codice già esistente, senza riscrivere tutto da zero. 🛠️ Si aggiunge in giorni, non settimane: già oggi un’app di e-commerce o di project management può avere un bot che risponde, analizza e agisce dentro il suo stesso sistema. 👨‍💻 Significa meno lavoro per chi sviluppa e funzioni nuove per chi usa quelle app ogni giorno. Quanto cambierebbe il tuo tool preferito se avesse un’AI nativa? 🚀",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "copilotkit-raises-27m-to-help-devs-deploy-app-nati",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Un’azienda di AI ha appena raccolto 27 milioni di dollari. Non per costruire un nuovo modello. Per far sparire il concetto di ‘integrazione’.",
+        "CopilotKit dà agli sviluppatori gli strumenti per creare agenti AI. Non chatbot generici. Agenti che capiscono il contesto della tua app e agiscono al suo interno.",
+        "L’idea è semplice: invece di mandare l’utente su un’altra finestra, l’AI diventa una parte nativa del software che già usi. Nessun cambio di contesto.",
+        "Il risultato? Implementazione in giorni, non mesi. E l’utente finale non deve imparare nulla di nuovo. L’AI è lì, funziona, e basta.",
+        "Il takeaway: il futuro non sono app con una chat AI attaccata. Sono app dove l’AI è il sistema operativo interno. E chi le costruisce avrà un vantaggio enorme."
+      ]
+    },
+    "instagram": {
+      "caption": "27 milioni di dollari per un tool che trasforma qualsiasi app in un’assistente AI. 💡 CopilotKit permette agli sviluppatori di integrare agenti intelligenti nel codice già esistente, senza riscrivere tutto da zero. 🛠️ Si aggiunge in giorni, non settimane: già oggi un’app di e-commerce o di project management può avere un bot che risponde, analizza e agisce dentro il suo stesso sistema. 👨‍💻 Significa meno lavoro per chi sviluppa e funzioni nuove per chi usa quelle app ogni giorno. Quanto cambierebbe il tuo tool preferito se avesse un’AI nativa? 🚀",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Hanno raccolto 27 milioni di dollari.",
+        "Perché? Non per un nuovo modello.",
+        "Ma per far sparire le integrazioni.",
+        "L’AI diventa parte dell’app.",
+        "Nessun cambio di finestra.",
+        "Sviluppatori, implementazione in giorni.",
+        "Utenti, niente da imparare.",
+        "Il futuro ha un nome: CopilotKit."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

@@ -68,5 +68,84 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Clean_Energy_Economy_%284543538536%29.jpg/960px-Clean_Energy_Economy_%284543538536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     }
   ],
-  "instagram_caption": "1,3 miliardi di dollari per perforare le rocce, ma non per petrolio ♻️ Fervo Energy sfrutta tecniche simili al fracking per estrarre calore dalla crosta terrestre e produrre elettricità 24/7. A differenza di solare ed eolico, questa energia pulita non si ferma quando fa caldo o non c'è vento. La startup sta per quotarsi in borsa: chiunque potrà comprare azioni dell'IPO. Puoi investire in una fonte stabile che tiene accesa l'aria condizionata anche durante una canicola ️🔥 Cosa vuol dire per la bolletta di casa tua?"
+  "instagram_caption": "1,3 miliardi di dollari per perforare le rocce, ma non per petrolio ♻️ Fervo Energy sfrutta tecniche simili al fracking per estrarre calore dalla crosta terrestre e produrre elettricità 24/7. A differenza di solare ed eolico, questa energia pulita non si ferma quando fa caldo o non c'è vento. La startup sta per quotarsi in borsa: chiunque potrà comprare azioni dell'IPO. Puoi investire in una fonte stabile che tiene accesa l'aria condizionata anche durante una canicola ️🔥 Cosa vuol dire per la bolletta di casa tua?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "geothermal-startup-fervo-energy-to-raise-up-to-1-3",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Per estrarre energia geotermica ovunque, un'azienda sta usando le stesse tecniche del fracking per scavare molto più in profondità.",
+        "L'energia geotermica tradizionale funziona solo dove ci sono già sorgenti calde vicine alla superficie. Limita tutto a poche aree del pianeta.",
+        "Fervo Energy scava in profondità, frantuma la roccia e inietta acqua per creare serbatoi di calore artificiali. Sembra fracking, ma senza idrocarburi.",
+        "Funziona ovunque: non devi cercare il vulcano giusto. Basta andare abbastanza giù. E la Terra è calda dappertutto.",
+        "Ora puntano a 1,3 miliardi in IPO. Chi compra quelle azioni scommette che l'energia geotermica diventi scalabile come il solare, ma 24 ore su 24."
+      ]
+    },
+    "instagram": {
+      "caption": "1,3 miliardi di dollari per perforare le rocce, ma non per petrolio ♻️ Fervo Energy sfrutta tecniche simili al fracking per estrarre calore dalla crosta terrestre e produrre elettricità 24/7. A differenza di solare ed eolico, questa energia pulita non si ferma quando fa caldo o non c'è vento. La startup sta per quotarsi in borsa: chiunque potrà comprare azioni dell'IPO. Puoi investire in una fonte stabile che tiene accesa l'aria condizionata anche durante una canicola ️🔥 Cosa vuol dire per la bolletta di casa tua?",
+      "carousel": [
+        {
+          "hook": "Fracking per creare calore artificiale",
+          "description": "Fervo Energy usa tecniche del fracking per scavare in profondità, frantumare roccia e creare serbatoi geotermici artificiali senza idrocarburi.",
+          "visual_hint": "Fratturazione roccia profonda",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "drilling rig rocks"
+        },
+        {
+          "hook": "Geotermico ovunque, non solo vulcani",
+          "description": "L'energia geotermica tradizionale funziona solo dove ci sono sorgenti calde superficiali. Fervo scava più a fondo per renderla universale.",
+          "visual_hint": "Mappa calore terrestre",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "geothermal power plant",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/960px-NesjavellirPowerPlant_edit2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Scalabile come il solare, 24/7",
+          "description": "Basta andare abbastanza giù: la Terra è calda ovunque. L'obiettivo è rendere il geotermico scalabile e sempre disponibile.",
+          "visual_hint": "Scalabilità energia pulita",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "solar panels factory",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Solar_panels_at_the_factory_of_China_Steel_in_Kaohsiung_2023-02-13.jpg/960px-Solar_panels_at_the_factory_of_China_Steel_in_Kaohsiung_2023-02-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "IPO da 1,3 miliardi di dollari",
+          "description": "Fervo Energy punta a raccogliere 1,3 miliardi in Borsa. Chi compra azioni scommette che il geotermico diventi una nuova frontiera energetica.",
+          "visual_hint": "Grafico IPO in crescita",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "stock market chart",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Nuova frontiera energetica globale",
+          "description": "Investire ora significa credere in un'energia pulita, scalabile e sempre attiva, come il solare ma senza interruzioni notturne.",
+          "visual_hint": "Globo con energia pulita",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "earth clean energy",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Clean_Energy_Economy_%284543538536%29.jpg/960px-Clean_Energy_Economy_%284543538536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Usano le stesse macchine del petrolio.",
+        "Ma per estrarre calore pulito.",
+        "Scavano in profondità, frantumano la roccia.",
+        "Iniettano acqua e pompano su vapore.",
+        "Funziona ovunque. E costa sempre meno farlo."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

@@ -1,0 +1,1029 @@
+{
+  "food:slides:df5f39c29b410bf211d267626042ed16": {
+    "title": "Torta salata primaverile vegana",
+    "slides": [
+      "Torta salata vegana cremosa e colorata",
+      "Farina di ceci, asparagi, porri, formaggio vegetale",
+      "Prepara una pastella con farina di ceci",
+      "Cuoci in forno a 190° per 70 minuti",
+      "Decora con asparagi interi e cipolla rossa"
+    ]
+  },
+  "food:carousel:df5f39c29b410bf211d267626042ed16": {
+    "dish_type": "vegetable",
+    "signature_ingredients": [
+      "farina di ceci",
+      "asparagi",
+      "porri"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta salata primaverile vegana",
+        "description": "Una torta salata cremosa e colorata, perfetta per un brunch o un picnic primaverile",
+        "visual_hint": "Torta intera su piatto",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory vegetable tart"
+      },
+      {
+        "hook": "Solo 3 ingredienti base",
+        "description": "Farina di ceci, asparagi e porri creano una base cremosa con formaggio vegetale per un ripieno ricco",
+        "visual_hint": "Ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "asparagus leek ingredients",
+        "image": "https://images.pexels.com/photos/1194434/pexels-photo-1194434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prepara la pastella",
+        "description": "Mescola farina di ceci con acqua e sale fino a ottenere una pastella liscia e senza grumi",
+        "visual_hint": "Ciotola e frusta",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chickpea flour batter",
+        "image": "https://images.pexels.com/photos/7966401/pexels-photo-7966401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cuoci in forno 70 minuti",
+        "description": "Versa la pastella con asparagi e porri in una teglia, poi cuoci a 190°C fino a doratura",
+        "visual_hint": "Mani che versano pastella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "pouring batter into pan",
+        "image": "https://images.pexels.com/photos/37283209/pexels-photo-37283209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Decora e servi tiepida",
+        "description": "Guarnisci con asparagi interi e cipolla rossa affettata per un tocco croccante e colorato",
+        "visual_hint": "Torta decorata e affettata",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory tart with asparagus",
+        "image": "https://images.pexels.com/photos/36740654/pexels-photo-36740654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ]
+  },
+  "food:caption:df5f39c29b410bf211d267626042ed16": "Bastano farina di ceci, asparagi e porri per creare una torta salata che sembra un giardino in tavola 🌿. Una pastella vellutata abbraccia asparagi teneri e porri caramellati, con un tocco di formaggio vegetale che la rende cremosa al punto giusto. Dopo 70 minuti in forno, viene fuori una torta colorata e rustica, decorata con asparagi interi e cipolla rossa croccante perfetta per una cena leggera o un pranzo al sacco. Provala questo weekend 🌸",
+  "food:video:df5f39c29b410bf211d267626042ed16": [
+    "Preparo una pastella con farina di ceci",
+    "Taglio porri e asparagi a pezzetti",
+    "Mescolo tutto col formaggio vegetale",
+    "Verso in teglia e cuocio a 190°",
+    "Decoro con asparagi interi e cipolla rossa"
+  ],
+  "food:thread:df5f39c29b410bf211d267626042ed16": [
+    "Vediamo chi ha il coraggio di chiamarla ‘torta salata’ senza formaggio o uova. La mia versione primaverile è cremosa, colorata e completamente vegana — asparagi e porri la fanno da padroni. Spoiler: non è una rinuncia, è un upgrade.",
+    "Partiamo dagli ingredienti che contano: farina di ceci per la base (niente impasto, solo pastella), asparagi freschi, porri dolci e un formaggio vegetale filante. Il segreto? La pastella deve essere liscia e senza grumi — frusta con energia.",
+    "Taglia i porri a rondelle e saltali in padella con un filo d’olio fino a farli ammorbidire. Unisci gli asparagi a pezzetti (tieni da parte le punte per la decorazione). Versa tutto nella pastella, mescola e trasferisci in teglia. 190° per 70 minuti, pazienza.",
+    "Dopo il forno la superficie è dorata e il profumo è pazzesco. Il trucco adesso: decora con le punte di asparagi crudi e qualche anello di cipolla rossa fresca. Dà croccantezza e colore, e la differenza si vede — e si sente.",
+    "Lascia intiepidire almeno 10 minuti prima di tagliarla. Fredda è ancora più buona. La prossima volta che hai voglia di una torta salata leggera ma appagante, fai così. Se la provi, fammi sapere nei commenti 👇"
+  ],
+  "food:slides:c4d5e276eb827ec3f3217bb498b066db": {
+    "title": "Polpette di patate e ceci in insalata",
+    "slides": [
+      "Polpette croccanti in fresca insalata primaverile.",
+      "Patate, ceci, Grana Padano, paprika dolce.",
+      "Schiaccia patate e frulla ceci con aglio.",
+      "Cuoci in padella 15 minuti girando spesso.",
+      "Scaglie di Grana Padano e citronette alla senape."
+    ]
+  },
+  "food:carousel:c4d5e276eb827ec3f3217bb498b066db": {
+    "dish_type": "salad",
+    "signature_ingredients": [
+      "patate",
+      "ceci",
+      "Grana Padano"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Polpette croccanti in insalata primaverile",
+        "description": "Un piatto fresco e croccante, perfetto per la primavera. Polpette dorate su letto di insalata.",
+        "visual_hint": "Polpette su insalata verde",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory potato chickpea patties salad"
+      },
+      {
+        "hook": "Patate, ceci, Grana Padano",
+        "description": "Tre ingredienti semplici e genuini: patate dolci, ceci proteici e Grana Padano saporito.",
+        "visual_hint": "Ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory potato chickpea cheese ingredients",
+        "image": "https://images.pexels.com/photos/6066051/pexels-photo-6066051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Schiaccia e frulla",
+        "description": "Schiaccia le patate lesse, frulla i ceci con aglio. Un gesto chiave per un impasto cremoso.",
+        "visual_hint": "Mani che schiacciano patate",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "mashed potato chickpea dough hands",
+        "image": "https://images.pexels.com/photos/37316435/pexels-photo-37316435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "15 minuti in padella",
+        "description": "Cuoci le polpette in padella con un filo d’olio, girando spesso fino a doratura croccante.",
+        "visual_hint": "Polpette in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory pan fried patties golden",
+        "image": "https://images.pexels.com/photos/37174233/pexels-photo-37174233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Scaglie e citronette",
+        "description": "Completa con scaglie di Grana Padano e una citronette alla senape. Il tocco finale che esalta tutto.",
+        "visual_hint": "Polpette impiattate con scaglie",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory potato chickpea salad plating",
+        "image": "https://images.pexels.com/photos/6066051/pexels-photo-6066051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ]
+  },
+  "food:caption:c4d5e276eb827ec3f3217bb498b066db": "Primavera, croccantezza e una sorpresa tutta vegetale. Queste polpette di patate e ceci con Grana Padano e paprika dolce sono un abbraccio in insalata. Frullo i ceci con l’aglio, unisco le patate schiacciate, formo le polpette e le rendo doratissime in padella. Il resto è un trionfo di freschezza: scaglie di Grana Padano e una citronette alla senape che le esalta tutte. Un piatto che sa di buono e di vero. Provala questo weekend 🌿✨",
+  "food:video:c4d5e276eb827ec3f3217bb498b066db": [
+    "Polpette croccanti in insalata primaverile, ecco come nascono.",
+    "Patate, ceci, Grana Padano e paprika dolce.",
+    "Schiaccio le patate e frullo i ceci con aglio.",
+    "Cuocio in padella 15 minuti, giro spesso.",
+    "Scaglie di Grana Padano e citronette alla senape."
+  ],
+  "food:thread:c4d5e276eb827ec3f3217bb498b066db": [
+    "C’è chi fa polpette e le anneg nel sugo. Io le verso in un’insalata croccante e le saluto così. 🥗 Polpette di patate e ceci, Grana Padano a scaglie, citronette che spacca. Fame da record, lo so.",
+    "Patate, ceci, Grana Padano, paprika dolce. Schiaccia le patate, frulla i ceci con uno spicchio d’aglio. Impasta tutto, forma polpette piccole: devono diventare croccanti fuori e cremose dentro. Sembra facile, ma il segreto è il Grana.",
+    "Padella antiaderente, olio caldo. Cuoci 15 minuti, girandole spesso. Qui fai la magia: prendono colore da una parte e dall’altra, senza bruciare. La paprika dolce si tosta appena e sprigiona tutto.",
+    "Mentre le polpette riposano, prepara l’insalata: rucola, scaglie di Grana Padano, e la citronette più semplice ma efficace: olio, limone, un cucchiaino di senape. Mescola, aggiungi le polpette ancora tiepide. Contrasto assurdo.",
+    "Trucco finale: una spolverata di paprika prima di servire e un filo d’olio crudo a crudo. Provale così e dimmi com’è andata. Io le rifaccio già domani. 👇"
+  ],
+  "food:slides:4fe128076c74b1a507f812ce7c350f2b": {
+    "title": "Spaghetti con crema di cipollotti e taleggio",
+    "slides": [
+      "Spaghetti con crema di cipollotti e taleggio",
+      "Spaghetti, cipollotti, taleggio, acqua, menta",
+      "Rosola il cipollotto, poi sbollenta la parte verde",
+      "Frulla i cipollotti con acqua, unisci la pasta",
+      "Manteca con taleggio, guarnisci con menta fresca"
+    ]
+  },
+  "food:carousel:4fe128076c74b1a507f812ce7c350f2b": {
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "cipollotti",
+      "taleggio",
+      "menta"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Spaghetti cremosi al taleggio e cipollotti",
+        "description": "Una pasta avvolgente e saporita, pronta in 20 minuti con soli 5 ingredienti.",
+        "visual_hint": "Primo piano piatto fumante",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory spaghetti taleggio pasta"
+      },
+      {
+        "hook": "Cipollotti, taleggio e menta",
+        "description": "I protagonisti: cipollotti dolci, taleggio cremoso e menta fresca per un tocco aromatico.",
+        "visual_hint": "Ingredienti su tagliere rustico",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "spring onions taleggio cheese mint",
+        "image": "https://images.pexels.com/photos/4198170/pexels-photo-4198170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rosola il cipollotto",
+        "description": "Taglia e rosola la parte bianca, poi sbollenta la parte verde per mantenerla viva.",
+        "visual_hint": "Mani che rosolano cipollotti",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "sautéed spring onions pan",
+        "image": "https://images.pexels.com/photos/1194434/pexels-photo-1194434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Frulla e unisci la pasta",
+        "description": "Frulla le parti verdi con acqua, poi manteca gli spaghetti con il taleggio.",
+        "visual_hint": "Frullatore con crema verde",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "blending spring onions pasta",
+        "image": "https://images.pexels.com/photos/25524080/pexels-photo-25524080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Manteca e guarnisci",
+        "description": "A fuoco spento manteca con taleggio e completa con menta fresca: cremosità al massimo.",
+        "visual_hint": "Spaghetti mantecati in padella",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory taleggio pasta finished",
+        "image": "https://images.pexels.com/photos/36895704/pexels-photo-36895704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ]
+  },
+  "food:caption:4fe128076c74b1a507f812ce7c350f2b": "Una crema di cipollotti che abbraccia il taleggio, un soffio di menta fresca che accende il palato. La pasta si aggrappa a questa crema verdissima, quasi una nuvola, che nasce dal cipollotto rosolato e dalla parte verde sbollentata, frullati insieme per un condimento che sa di primavera e stagione. Poi, il taleggio che fonde e manteca, legando ogni singolo filo: un equilibrio che non ti aspetti, tra dolcezza e carattere. Provatelo, è una scorpacciata di gusto che non vi stancherete mai di fare 🌿🧀",
+  "food:video:4fe128076c74b1a507f812ce7c350f2b": [
+    "Rosolo il cipollotto a fuoco vivo.",
+    "Sbollento la parte verde in acqua.",
+    "Frullo il tutto con acqua fresca.",
+    "Unisco la crema agli spaghetti cotti.",
+    "Manteco con taleggio e menta fresca."
+  ],
+  "food:thread:4fe128076c74b1a507f812ce7c350f2b": [
+    "C’è un piatto che ti fa venire voglia di primavera anche a novembre. Spaghetti con crema di cipollotti e taleggio. Crema, filante, freschezza. Non è una pasta bianca qualunque.",
+    "Ti servono: spaghetti, cipollotti con tutto il verde, taleggio, menta. Sì, la menta. Acqua di cottura. Niente panna. Pochi ingredienti, ma quelli giusti.",
+    "Taglia il bianco del cipollotto e rosolalo dolcemente. Metti da parte il verde e sbollentalo 30 secondi in acqua bollente. Poi frullalo con un mestolo di quell’acqua. Crema che sa d’orto.",
+    "Cuoci gli spaghetti al dente, salta in padella col bianco rosolato. Aggiungi la crema verde verde e un po’ d’acqua di cottura. Fuoco vivace, mestolo che balla.",
+    "Spegni e manteca col taleggio a cubetti: diventa velluto. Impiatta, menta fresca spezzata sopra, un filo d’olio. Pronto? Provala e dimmi com’è andata 👇"
+  ],
+  "food:slides:368662ff0cd181d72fbb3ae7d5403a27": {
+    "title": "Pasta zucchine, speck e gorgonzola",
+    "slides": [
+      "Pasta cremosa senza panna",
+      "Linguine, zucchine, speck, gorgonzola",
+      "Rosola lo speck senza grassi",
+      "Aggiungi gorgonzola e acqua di cottura",
+      "Gorgonzola dolce per cremosità perfetta"
+    ]
+  },
+  "food:carousel:368662ff0cd181d72fbb3ae7d5403a27": {
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "zucchine",
+      "speck",
+      "gorgonzola"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta cremosa senza panna",
+        "description": "Una pasta vellutata e saporita, realizzata senza panna, con zucchine, speck e gorgonzola dolce.",
+        "visual_hint": "Pasta cremosa in forchetta",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory creamy pasta"
+      },
+      {
+        "hook": "Zucchine, speck, gorgonzola",
+        "description": "Tre ingredienti che si sposano alla perfezione per un primo ricco di gusto e colore.",
+        "visual_hint": "Ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta zucchini",
+        "image": "https://images.pexels.com/photos/1373915/pexels-photo-1373915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rosola lo speck senza grassi",
+        "description": "In una padella antiaderente, rosola lo speck finché diventa croccante, senza aggiungere olio o burro.",
+        "visual_hint": "Speck croccante in padella",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory crispy speck",
+        "image": "https://images.pexels.com/photos/7375470/pexels-photo-7375470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Aggiungi gorgonzola e acqua",
+        "description": "Unisci il gorgonzola e un mestolo di acqua di cottura della pasta: mescola fino a formare una crema morbida.",
+        "visual_hint": "Gorgonzola che fonde in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory melting gorgonzola",
+        "image": "https://images.pexels.com/photos/18363033/pexels-photo-18363033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Gorgonzola dolce per cremosità",
+        "description": "Usa gorgonzola dolce per una cremosità perfetta e un sapore delicato che conquista tutti.",
+        "visual_hint": "Pasta impiattata con zucchine",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory creamy pasta bowl",
+        "image": "https://images.pexels.com/photos/3820638/pexels-photo-3820638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ]
+  },
+  "food:caption:368662ff0cd181d72fbb3ae7d5403a27": "Cremosa al punto giusto, senza panna, ma con un cuore che si scioglie in bocca. 🍝✨  \n\nEcco la svolta: speck croccante rosolato a secco, zucchine tenere e una nuvola di gorgonzola dolce legata con l’acqua di cottura. Il segreto? Non serve altro per una cremosità perfetta.  \n\nLe linguine assorbono tutto, e ogni forchettata è un equilibrio tra sapido e vellutato.  \nProvala questo weekend, te ne innamorerai. 🌿🧀",
+  "food:video:368662ff0cd181d72fbb3ae7d5403a27": [
+    "Filo le zucchine con la mandolina.",
+    "Rosolo lo speck senza grasso finché croccante.",
+    "Butto le linguine in acqua bollente.",
+    "Sciolgo il gorgonzola dolce con acqua di pasta.",
+    "Manteco tutto: che cremosità senza panna!"
+  ],
+  "food:thread:368662ff0cd181d72fbb3ae7d5403a27": [
+    "Questa pasta è un colpo al cuore (e allo stomaco). Zucchine, speck e gorgonzola: senza panna, ma con una cremosità che ti fa chiudere gli occhi. 🍝",
+    "Linguine al dente, zucchine saltate, speck croccante e gorgonzola dolce. Pochi ingredienti, ma si devono sposare nel modo giusto.",
+    "Prima mossa: rosola lo speck in padella senza grassi. Diventa croccante e rilascia il suo sapore. Poi via dalla padella, lo aggiungi alla fine.",
+    "Nella stessa padella, fai saltare le zucchine a julienne. Sfuma con un mestolo di acqua di cottura, unisci il gorgonzola a pezzi e mescola fino a scioglierlo. Cremoso senza panna.",
+    "Trucco finale: usa gorgonzola dolce, non piccante. La cremosità è perfetta, e non copre il gusto dello speck. Provala e dimmi com'è andata 👇"
+  ],
+  "food:slides:edeef683b29a92ec05a29afafc24c952": {
+    "title": "Pasta con melanzane in bianco cremosa",
+    "slides": [
+      "Una pasta cremosa senza panna con melanzane.",
+      "Fusilloni, melanzane bianche, Parmigiano, menta, olio.",
+      "Taglia melanzane a cubetti e cuocile in padella.",
+      "Frulla le melanzane cotte con acqua di cottura.",
+      "Menta fresca e Parmigiano: guarnisci e servi."
+    ]
+  },
+  "food:carousel:edeef683b29a92ec05a29afafc24c952": {
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "melanzane bianche",
+      "Parmigiano",
+      "menta"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta cremosa senza panna",
+        "description": "Una pasta con melanzane morbidissima e saporita, completamente vegetale nella sua cremosità.",
+        "visual_hint": "Pasta fumante in ciotola",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "creamy pasta eggplant savory"
+      },
+      {
+        "hook": "Ingredienti che contano",
+        "description": "Fusilloni, melanzane bianche, Parmigiano, menta fresca e olio: pochi elementi per un piatto intenso.",
+        "visual_hint": "Ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "eggplant parmesan basil ingredients savory",
+        "image": "https://images.pexels.com/photos/19295803/pexels-photo-19295803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il gesto della cremosità",
+        "description": "Taglia le melanzane a cubetti e cuocile in padella fino a che non diventano morbide e dorate.",
+        "visual_hint": "Cubetti di melanzana in padella",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "diced eggplant cooking skillet savory",
+        "image": "https://images.pexels.com/photos/33755325/pexels-photo-33755325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Frulla e manteca",
+        "description": "Frulla le melanzane cotte con un po' d'acqua di cottura: ottieni una crema vellutata senza panna.",
+        "visual_hint": "Mani che frullano in mixer",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "blending cooked eggplant creamy savory",
+        "image": "https://images.pexels.com/photos/8625417/pexels-photo-8625417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tocco finale",
+        "description": "Guarnisci con menta fresca e Parmigiano grattugiato: il contrasto che esalta ogni boccone.",
+        "visual_hint": "Pasta impiattata con menta",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "pasta with fresh mint parmesan savory",
+        "image": "https://images.pexels.com/photos/20246314/pexels-photo-20246314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ]
+  },
+  "food:caption:edeef683b29a92ec05a29afafc24c952": "Cremosa senza panna? Sì, esiste. 😍 E qui le melanzane bianche diventano una crema vellutata che abbraccia ogni fusillone. Le cuocio a cubetti, le frullo con l’acqua di cottura, e il segreto sono il Parmigiano che manteca e la menta fresca che dà un sorso di fresco. Un piatto che sa d’estate, di semplicità, di quelli che fai e rifai. Provala questo weekend 🌿",
+  "food:video:edeef683b29a92ec05a29afafc24c952": [
+    "Fusilloni croccanti, melanzane bianche a cubetti.",
+    "Le saltiamo in padella con olio.",
+    "Le frullo con acqua di cottura cremosa.",
+    "Parmigiano e menta fresca per finire.",
+    "Mescolo, servo e via, che bontà!"
+  ],
+  "food:thread:edeef683b29a92ec05a29afafc24c952": [
+    "Chi dice che la pasta cremosa voglia per forza la panna non ha mai assaggiato le melanzane bianche. Io ci ho fatto un piatto che è pura magia estiva: cremoso al punto giusto, senza latte, senza panna. Solo profumi e consistenze che ti lasciano senza parole.",
+    "Fusilloni, melanzane bianche (quelle dolci, dalla buccia chiara), Parmigiano, menta fresca, olio evo. Pochi ingredienti, ma dosati con testa. Le melanzane bianche hanno una polpa più soda e meno acqua: non rilasciano quella mollezza tipica delle viola. Sono la scelta giusta.",
+    "Taglia le melanzane a cubetti regolari e saltale in padella con un filo d'olio, finché non diventano morbide e leggermente dorate. Niente frittura, niente soffritto: solo il sapore puro della verdura che si arrende alla cottura.",
+    "Quando sono cotte, frullane una parte con un mestolo di acqua di cottura della pasta fino a ottenere una crema liscia e vellutata. Scola i fusilloni al dente e mantecali in padella con quella crema. Il Parmigiano ci entra dopo, a fiamma spenta, per non stravolgere la dolcezza.",
+    "Impiatta con una manciata di menta fresca spezzettata e una spolverata di Parmigiano. Il segreto? Non cuocere mai la menta, resta cruda e regala un sorso di freschezza a ogni boccone. Provala e fammi sapere se le tue papille hanno pianto di gioia 👇"
+  ],
+  "food:slides:5f400fca471f5a2f9e11da0405b0e21a": {
+    "title": "Risotto zucchine e salsiccia",
+    "slides": [
+      "Risotto cremoso con zucchine e salsiccia croccante",
+      "Riso, zucchine, salsiccia, burro, parmigiano",
+      "Frulla metà zucchine, friggi l'altra metà",
+      "Unisci crema e salsiccia, cuoci il riso",
+      "Guarnisci con zucchine fritte e timo"
+    ]
+  },
+  "food:carousel:5f400fca471f5a2f9e11da0405b0e21a": {
+    "dish_type": "generic",
+    "signature_ingredients": [
+      "zucchine",
+      "salsiccia",
+      "riso"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Risotto cremoso e salsiccia croccante",
+        "description": "Un primo confortante, cremoso al punto giusto con zucchine e salsiccia croccante.",
+        "visual_hint": "Piatto finito in primo piano",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory creamy risotto"
+      },
+      {
+        "hook": "Solo 4 ingredienti base",
+        "description": "Riso, zucchine, salsiccia, burro e parmigiano: pochi elementi per un gusto autentico.",
+        "visual_hint": "Ingredienti disposti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory risotto ingredients",
+        "image": "https://images.pexels.com/photos/34110276/pexels-photo-34110276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Frulla e friggi le zucchine",
+        "description": "Frulla metà zucchine per la crema, friggi l'altra metà per la croccantezza.",
+        "visual_hint": "Due ciotole: crema e zucchine fritte",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "zucchini blending",
+        "image": "https://images.pexels.com/photos/37227684/pexels-photo-37227684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Unisci e cuoci il risotto",
+        "description": "Aggiungi crema di zucchine e salsiccia rosolata, poi cuoci il riso al dente.",
+        "visual_hint": "Mani che mescolano in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stirring risotto pan",
+        "image": "https://images.pexels.com/photos/6544216/pexels-photo-6544216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Croccante sopra cremoso",
+        "description": "Guarnisci con zucchine fritte e timo fresco: il contrasto perfetto.",
+        "visual_hint": "Piatto servito con guarnizione",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory risotto garnish",
+        "image": "https://images.pexels.com/photos/28503610/pexels-photo-28503610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ]
+  },
+  "food:caption:5f400fca471f5a2f9e11da0405b0e21a": "Cremoso e avvolgente, ma con quel contrasto croccante che fa tutta la differenza. 🍚✨\n\nQuesta volta ho voluto giocare con la texture: metà delle zucchine le frullo per ottenere una crema vellutata alla base del risotto, l’altra metà le friggo croccanti insieme alla salsiccia sgranata. Il risultato? Un primo che è un abbraccio, ma con carattere. Burro e parmigiano a chiudere il cerchio, qualche fogliolina di timo per il tocco finale. \n\nProvala questo weekend 🌿",
+  "food:video:5f400fca471f5a2f9e11da0405b0e21a": [
+    "Tritato salsiccia e zucchina per un risotto cremoso.",
+    "Metà zucchina frullata, l'altra metà in padella.",
+    "Salsiccia rosolata, poi unisco la crema di zucchine.",
+    "Tosto il riso, sfumo con vino e brodo caldo.",
+    "Manteco con burro e parmigiano, guarnisco con zucchine fritte."
+  ],
+  "food:thread:5f400fca471f5a2f9e11da0405b0e21a": [
+    "Cremoso dentro, croccante fuori. Questo risotto zucchine e salsiccia ti farà dimenticare tutti gli altri. Un equilibrio di consistenze che non ti aspetti. Partiamo?",
+    "Zucchine, salsiccia, riso. Il resto? Burro, parmigiano e un trucco da maestro: metà zucchine le frulli crude, l'altra metà le friggi croccanti. La doppia texture è tutto.",
+    "In padella salsiccia sgranata, falla rosolare fino a doratura. Poi aggiungi la crema di zucchine e il riso. Tieni la fiamma viva e mescola senza paura: la mantecatura sarà leggendaria.",
+    "Quando il riso è al dente, spegni, manteca con burro e parmigiano. La cremosità arriva dalla doppia zucchina. Assaggia: la salsiccia si sposa con la dolcezza vegetale.",
+    "Metti in piatto e guarnisci con le zucchine fritte croccanti e qualche foglia di timo. Questo contrasto caldo-croccante vince sempre. Provala e fammi sapere nei commenti."
+  ],
+  "food:slides:1930039d5be0adfb0321c60f25f63467": {
+    "title": "Pasta con porri, pecorino e pancetta",
+    "slides": [
+      "Pasta cremosa con porri, pecorino e pancetta",
+      "Porri, pancetta, pecorino, olio, pasta",
+      "Rosola la pancetta e tieni da parte",
+      "Unisci pasta, porri, pecorino e acqua di cottura",
+      "Guarnisci con pancetta croccante prima di servire"
+    ]
+  },
+  "food:carousel:1930039d5be0adfb0321c60f25f63467": {
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "porri",
+      "pecorino",
+      "pancetta"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta cremosa porri e pecorino",
+        "description": "Una pasta vellutata e saporita, con porri dolci, pecorino intenso e pancetta croccante.",
+        "visual_hint": "Primo piano pasta fumante",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory creamy pasta"
+      },
+      {
+        "hook": "Solo 4 ingredienti chiave",
+        "description": "Porri freschi, pancetta affumicata, pecorino grattugiato e olio d'oliva per un piatto semplice.",
+        "visual_hint": "Ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta ingredients",
+        "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rosola la pancetta",
+        "description": "In padella antiaderente, rosola la pancetta fino a renderla croccante e tienila da parte.",
+        "visual_hint": "Primo piano padella",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory crispy bacon",
+        "image": "https://images.pexels.com/photos/37121076/pexels-photo-37121076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Manteca con acqua di cottura",
+        "description": "Unisci pasta al dente, porri saltati, pecorino e un mestolo d'acqua di cottura per la cremosità.",
+        "visual_hint": "Mani che mescolano",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory pasta mixing",
+        "image": "https://images.pexels.com/photos/9475290/pexels-photo-9475290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pancetta croccante finale",
+        "description": "Guarnisci con pancetta croccante e pecorino extra. Servi subito, buon appetito!",
+        "visual_hint": "Piatto impiattato",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory pasta bowl",
+        "image": "https://images.pexels.com/photos/17951098/pexels-photo-17951098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ]
+  },
+  "food:caption:1930039d5be0adfb0321c60f25f63467": "C’è cremosità e poi c’è *questa* cremosità. 🧈 I porri diventano vellutati, il pecorino spinge con la sua sapidità, e la pancetta croccante fa il contrappunto perfetto. Rosolo la pancetta finché non diventa un gioiellino, la metto da parte, e in padella faccio ballare la pasta con i porri, il pecorino e un po’ d’acqua di cottura. 👨🏻‍🍳 Il segreto? Mantecare con pazienza, fino a ottenere quella consistenza da abbraccio. Poi sopra, la pancetta sparata. Pronto per il primo boccone? Provala questo weekend 🌿",
+  "food:video:1930039d5be0adfb0321c60f25f63467": [
+    "Rosolo la pancetta e la metto da parte.",
+    "Taglio i porri a rondelle sottili.",
+    "Unisco i porri alla pasta scolata al dente.",
+    "Aggiungo pecorino e acqua di cottura per cremosità.",
+    "Guarnisco con pancetta croccante e servo subito."
+  ],
+  "food:thread:1930039d5be0adfb0321c60f25f63467": [
+    "Cremosa, affumicata, con quel giusto morso di pecorino che incolla il piatto. Questa pasta con porri e pancetta ti farà dire basta al primo cucchiaio. 🧀",
+    "Porri dolci, pancetta croccante, pecorino stagionato e una manciata di pazienza. Gli ingredienti sono pochi, ma il risultato spacca. Ecco come si fa.",
+    "Rosola la pancetta a cubetti finché non diventa croccante. Tienila da parte. Intanto taglia i porri a rondelle e falli appassire dolcemente nell'olio.",
+    "Cuoci la pasta al dente e trasferiscila nella padella coi porri. Aggiungi l'acqua di cottura e il pecorino grattugiato: mescola fino a crema. La magia è lì.",
+    "Impiatta, finisci con la pancetta croccante tenuta da parte e una spolverata di pecorino. Se non hai ancora fame, ricontrolla. Provala e fammi sapere👇"
+  ],
+  "food:slides:255ba02a6bd9a3b092d6bb61d3b53a92": {
+    "title": "Pasta al forno con salsiccia e piselli",
+    "slides": [
+      "Pasta al forno cremosa con salsiccia e piselli.",
+      "Rigatoni, salsiccia, mozzarella, besciamella, piselli.",
+      "Rosola salsiccia e cipolla, aggiungi piselli.",
+      "Alterna pasta, condimento e mozzarella, gratinare.",
+      "Lascia riposare 10 minuti prima di servire."
+    ]
+  },
+  "food:caption:255ba02a6bd9a3b092d6bb61d3b53a92": "C’è piatto e piatto, ma questa pasta al forno è un abbraccio in teglia. 🧡 Rigatoni al dente che si intrecciano con salsiccia rosolata e piselli dolci, il tutto avvolto da una besciamella vellutata e strati di mozzarella filante. Ogni porzione è perfetta: crosticina dorata sopra, cuore morbido e cremoso dentro. Lasciarla riposare dieci minuti prima di servire è il segreto per una consistenza da sogno. 😋 Provala questo weekend e portala in tavola con un sorriso. 👨‍🍳",
+  "food:video:255ba02a6bd9a3b092d6bb61d3b53a92": [
+    "Oggi facciamo pasta al forno con salsiccia e piselli.",
+    "Prendo rigatoni, salsiccia, mozzarella, besciamella e piselli.",
+    "Rosolo salsiccia e cipolla, poi aggiungo i piselli.",
+    "Alterno pasta, condimento e mozzarella, poi gratino.",
+    "Lascio riposare 10 minuti prima di servire."
+  ],
+  "food:thread:255ba02a6bd9a3b092d6bb61d3b53a92": [
+    "Ci sono piatti che sanno di domenica, di pranzo in famiglia, di quel cucchiaio che scava nella teglia fino all’ultimo pezzo. Questa pasta al forno con salsiccia e piselli è uno di quelli. Cremosa al punto giusto, senza diventare un mattone. 🍝",
+    "Partiamo dagli ingredienti: rigatoni (reggono meglio la besciamella), salsiccia fresca, mozzarella a cubotti, piselli e una besciamella non troppo densa. Il segreto? Rosolare la salsiccia con un po' di cipolla finché non diventa croccante ai bordi.",
+    "Una volta che la salsiccia è bella rosolata, butti i piselli — se usi quelli surgelati, aggiungili direttamente, anche senza scongelarli, tanto il calore li tira su. Poi scoli la pasta al dente e inizi a comporre la teglia: uno strato di pasta, un po' di condimento, una manciata di mozzarella.",
+    "Alterna gli strati come se fosse una lasagna, finisci con una cucchiaiata di besciamella e mozzarella a coprire tutto. In forno a 200°C per 20 minuti, poi 5 di grill per la crosticina. La parte più difficile? Non mangiarla appena sfornata, perché brucia. Fidati.",
+    "Il trucco: dopo il grill, lasciala riposare 10 minuti. Sembra una perdita di tempo, ma è qui che la pasta assorbe i liquidi e diventa vellutata, non brodosa. Taglia la fetta e vedrai che compattezza. Provala e dimmi com'è andata 👇"
+  ],
+  "food:carousel:255ba02a6bd9a3b092d6bb61d3b53a92": {
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "salsiccia",
+      "mozzarella",
+      "piselli"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta al forno cremosa",
+        "description": "Una pasta al forno ricca e filante, con salsiccia e piselli, perfetta per un pranzo confortevole.",
+        "visual_hint": "Primo piano teglia fumante",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory baked pasta"
+      },
+      {
+        "hook": "Gli ingredienti giusti",
+        "description": "Rigatoni, salsiccia sgranata, mozzarella filante, besciamella vellutata e piselli dolci.",
+        "visual_hint": "Ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta ingredients"
+      },
+      {
+        "hook": "Rosola e unisci",
+        "description": "Rosola salsiccia e cipolla fino a doratura, poi aggiungi i piselli per un tocco di dolcezza.",
+        "visual_hint": "Padella con salsiccia e cipolla",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory sausage skillet"
+      },
+      {
+        "hook": "Componi gli strati",
+        "description": "Alterna pasta, condimento e mozzarella. Gratina in forno fino a doratura perfetta.",
+        "visual_hint": "Mani che alternano strati in teglia",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory pasta layering"
+      },
+      {
+        "hook": "Il segreto finale",
+        "description": "Lascia riposare 10 minuti prima di servire: la pasta assorbirà i suoni e diventerà ancora più cremosa.",
+        "visual_hint": "Fetta di pasta al forno fumante",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory baked pasta slice"
+      }
+    ]
+  },
+  "food:pasta-al-forno-con-salsiccia-e-piselli": {
+    "title": "Pasta al forno con salsiccia e piselli",
+    "savedAt": "2026-05-14T14:44:46.658Z"
+  },
+  "food:slides:706284e5cb0227e7c3d273063c10e86c": {
+    "title": "Torta 2 ingredienti",
+    "slides": [
+      "Torta cremosa di mele e cioccolato senza forno",
+      "Mele Golden, cioccolato fondente 50%, cacao amaro",
+      "Sbuccia le mele e cuocile con poca acqua",
+      "Frulla le mele e uniscile al cioccolato fuso",
+      "Spolvera con cacao amaro prima di servire"
+    ]
+  },
+  "food:caption:706284e5cb0227e7c3d273063c10e86c": "Basta una ciotola e due ingredienti per un dolce che sembra uscito da una pasticceria. 🍎🍫  \nPreparo una crema vellutata di mele Golden cotte, le frullo e le unisco al cioccolato fondente sciolto: esce una torta senza forno, talmente morbida che si scioglie in bocca.  \nUn velo di cacao amaro sopra e il gioco è fatto.  \nProvala questo weekend 🌿",
+  "food:video:706284e5cb0227e7c3d273063c10e86c": [
+    "Prendo le mele Golden e le sbuccio.",
+    "Le cuocio in padella con poca acqua.",
+    "Frullo le mele fino a ottenere una crema.",
+    "Unisco il cioccolato fondente fuso.",
+    "Spolvero con cacao amaro e servo."
+  ],
+  "food:thread:706284e5cb0227e7c3d273063c10e86c": [
+    "Ci credete che con 2 ingredienti si fa una torta senza forno, cremosa e da paura? Mele Golden e cioccolato fondente. Niente uova, niente farina. Solo frutta e cioccolato che si fondono in un dolce che non sa di light ma di lusso.",
+    "La base: 3 mele Golden, 100g di cioccolato fondente al 50%, cacao amaro per decorare. Sbuccia le mele, tagliale a pezzi e mettile in un pentolino con un dito d’acqua. Accendi il fuoco medio e lasciale ammorbidire finché non diventano una composta.",
+    "Mentre le mele cuociono, spezzetta il cioccolato e fallo sciogliere a bagnomaria o al microonde. Quando le mele sono tenere, frullale fino a ottenere una purea liscia. Versa la purea ancora calda sul cioccolato fuso e mescola fino a che tutto è omogeneo e lucido.",
+    "Versa il composto in una ciotola o in uno stampo foderato di pellicola. Lascia raffreddare a temperatura ambiente, poi metti in frigo per almeno 3 ore. Il risultato è una crema densa, setosa, che si taglia come una torta ma si scioglie in bocca.",
+    "Il trucco: prima di servire, spolvera con cacao amaro setacciato — toglie l’eccesso di dolce e fa esplodere il gusto. Puoi decorare con scaglie di cioccolato o una manciata di sale grosso. Provatela e fatemi sapere nei commenti 👇"
+  ],
+  "food:carousel:706284e5cb0227e7c3d273063c10e86c": {
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "mele golden",
+      "cioccolato fondente",
+      "cacao amaro"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta 2 ingredienti senza forno",
+        "description": "Una cremosa torta di mele e cioccolato, pronta in pochi minuti senza accendere il forno",
+        "visual_hint": "fetta su piatto scuro",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "chocolate apple cake slice"
+      },
+      {
+        "hook": "Solo 3 ingredienti base",
+        "description": "Mele Golden, cioccolato fondente 50% e cacao amaro: il minimo indispensabile per un dolce cremoso",
+        "visual_hint": "ingredienti su tavola",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "apples chocolate cocoa"
+      },
+      {
+        "hook": "Cuoci e frulla le mele",
+        "description": "Sbuccia le mele, cuocile con poca acqua, poi frullale fino a ottenere una purea liscia",
+        "visual_hint": "purea di mele in ciotola",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "apple puree blender"
+      },
+      {
+        "hook": "Unisci al cioccolato fuso",
+        "description": "Mescola la purea di mele calda con il cioccolato fuso fino a ottenere una crema omogenea",
+        "visual_hint": "miscelazione in ciotola",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "mixing melted chocolate apple"
+      },
+      {
+        "hook": "Spolvera e servi fredda",
+        "description": "Cospargi di cacao amaro prima di servire: il contrasto esalta la dolcezza naturale delle mele",
+        "visual_hint": "mano che spolvera cacao",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "cocoa dusting on cake"
+      }
+    ]
+  },
+  "food:torta-2-ingredienti": {
+    "title": "Torta 2 ingredienti",
+    "savedAt": "2026-05-14T14:49:43.139Z"
+  },
+  "food:slides:a5007e46c6a45c1c50af8dcdb12d543d": {
+    "title": "Pasta con fiori di zucca e alici",
+    "slides": [
+      "Una pasta cremosa senza panna né formaggio",
+      "Linguine, fiori di zucca, alici, aglio, limone",
+      "Pulisci i fiori di zucca togliendo il pistillo",
+      "Manteca con acqua di cottura a fiamma vivace",
+      "Grattugia scorza di limone prima di servire"
+    ]
+  },
+  "food:caption:a5007e46c6a45c1c50af8dcdb12d543d": "Crema senza panna né formaggio? Sì, esiste e si chiama acqua di cottura + fiori di zucca. 🍋✨  \nLinguine avvolte dal sapore deciso delle alici, con fiori di zucca freschi saltati nell’aglio: il trucco è mantecare a fiamma vivace fino a ottenere quella consistenza vellutata.  \nPulisci i fiori togliendo il pistillo, aggiungi una grattugiata di scorza di limone appena prima di servire e il piatto vola.  \nProvala questo weekend 🌿",
+  "food:video:a5007e46c6a45c1c50af8dcdb12d543d": [
+    "Una pasta cremosa senza panna o formaggio.",
+    "Linguine, fiori di zucca, alici, aglio, limone.",
+    "Pulisco i fiori togliendo il pistillo interno.",
+    "Manteco con acqua di cottura a fiamma vivace.",
+    "Grattugio scorza di limone e servo subito."
+  ],
+  "food:thread:a5007e46c6a45c1c50af8dcdb12d543d": [
+    "Cremosa senza panna né formaggio. Se ti dico che questa pasta la fai in 15 minuti e il segreto è l’acqua di cottura, mi credi?",
+    "Linguine, fiori di zucca, alici, aglio, limone. Pochi ingredienti, ma il risultato è roba da leccare il piatto.",
+    "Pulisci i fiori togliendo il pistillo con delicatezza. Li userai interi, crudi, per dare profumo e consistenza.",
+    "Saltali in padella con aglio e alici sciolte nell’olio, poi manteca con acqua di cottura a fiamma vivace. Sarà vellutata.",
+    "Grattugia scorza di limone fresco prima di servire. Quella sferzata agrumata fa la differenza. Provala e dimmi com’è andata 👇"
+  ],
+  "food:carousel:a5007e46c6a45c1c50af8dcdb12d543d": {
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "fiori di zucca",
+      "alici",
+      "linguine"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta cremosa senza panna",
+        "description": "Una pasta vellutata e saporita, creata solo con l’acqua di cottura e ingredienti semplici.",
+        "visual_hint": "Piatto fumante di pasta",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory zucchini flower pasta"
+      },
+      {
+        "hook": "Gli ingredienti giusti",
+        "description": "Linguine, fiori di zucca freschi, alici, aglio e limone: pochi elementi per un piatto perfetto.",
+        "visual_hint": "Ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta ingredients"
+      },
+      {
+        "hook": "Il gesto che conta",
+        "description": "Pulisci i fiori di zucca eliminando il pistillo interno per un sapore delicato e nessuna amarezza.",
+        "visual_hint": "Mani che puliscono fiore",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "zucchini flower preparation"
+      },
+      {
+        "hook": "Cremoso al punto giusto",
+        "description": "Manteca la pasta con acqua di cottura a fiamma vivace: si crea una crema naturale senza latticini.",
+        "visual_hint": "Padella con pasta cremosa",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory pasta cream sauce"
+      },
+      {
+        "hook": "Tocco finale al limone",
+        "description": "Grattugia scorza di limone fresco prima di servire: aroma e freschezza in un solo gesto.",
+        "visual_hint": "Scorza grattugiata su pasta",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory lemon pasta"
+      }
+    ]
+  },
+  "food:pasta-con-fiori-di-zucca-e-alici": {
+    "title": "Pasta con fiori di zucca e alici",
+    "savedAt": "2026-05-14T14:53:10.041Z"
+  },
+  "food:slides:23c55b6cf294292b2474d1626ac9cc13": {
+    "title": "Bocconcini di pollo alla mediterranea",
+    "slides": [
+      "Bocconcini di pollo teneri e saporiti",
+      "Pollo, pomodorini, olive, capperi, aglio",
+      "Rosola i bocconcini di pollo dorati",
+      "Aggiungi pomodorini, olive e capperi",
+      "Elimina l'aglio e servi caldo"
+    ]
+  },
+  "food:caption:23c55b6cf294292b2474d1626ac9cc13": "Estate in tavola con questi bocconcini di pollo alla mediterranea! 🍅💛 Pollo tenero e dorato, poi saltato con pomodorini, olive e capperi: un tripudio di sapori che sa di sole e mare. L'aglio si toglie, il profumo resta... e il piatto vola via in un istante. 😋 Io li servo con una fetta di pane croccante, ma vanno bene anche da soli. Provala questo weekend 🌿",
+  "food:video:23c55b6cf294292b2474d1626ac9cc13": [
+    "Prendo i bocconcini di pollo teneri.",
+    "Unisco pomodorini, olive, capperi, aglio.",
+    "Rosolo i bocconcini finché sono dorati.",
+    "Aggiungo pomodorini, olive e capperi.",
+    "Tolgo l'aglio e servo subito caldo."
+  ],
+  "food:thread:23c55b6cf294292b2474d1626ac9cc13": [
+    "C'è un piatto che sa di sole e mare. Bocconcini di pollo alla mediterranea: una bomba di sapore che si prepara in 15 minuti. Pronto a scoprire come si fa?",
+    "Pollo a tocchetti, pomodorini maturi, olive nere, capperi sotto sale, uno spicchio d'aglio. Pochi ingredienti, ma esplosivi come un pomeriggio in Sicilia.",
+    "In padella con un filo d'olio: rosoli i bocconcini finché non sono dorati da ogni lato. Croccanti fuori, teneri dentro. L'odore già ti avvolge.",
+    "Butti dentro i pomodorini tagliati a metà, le olive, i capperi e l'aglio schiacciato. Giri, fai insaporire 5 minuti, poi togli l'aglio. Pronto.",
+    "Il trucco? Un goccio di acqua di cottura della pasta per mantecare e servire con del prezzemolo fresco. Provala e dimmi com'è andata 👇"
+  ],
+  "food:carousel:23c55b6cf294292b2474d1626ac9cc13": {
+    "dish_type": "meat",
+    "signature_ingredients": [
+      "chicken",
+      "tomatoes",
+      "olives"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Bocconcini di pollo alla mediterranea",
+        "description": "Pollo tenero e saporito con pomodorini, olive e capperi, un piatto mediterraneo veloce e ricco di gusto.",
+        "visual_hint": "pollo dorato in padella",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory chicken bites"
+      },
+      {
+        "hook": "I sapori del Mediterraneo",
+        "description": "Pollo, pomodorini, olive nere, capperi e aglio: ingredienti semplici per un piatto ricco di sapore.",
+        "visual_hint": "ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory chicken ingredients"
+      },
+      {
+        "hook": "Rosola i bocconcini",
+        "description": "Rosola i bocconcini di pollo in padella fino a doratura perfetta per una crosticina saporita.",
+        "visual_hint": "pollo che rosola",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory chicken browning"
+      },
+      {
+        "hook": "Aggiungi pomodorini e olive",
+        "description": "Unisci pomodorini, olive e capperi al pollo e lascia insaporire per pochi minuti.",
+        "visual_hint": "ingredienti aggiunti in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory chicken tomatoes olives"
+      },
+      {
+        "hook": "Servi caldo e gustalo",
+        "description": "Elimina l'aglio, impiatta e servi subito: un piatto mediterraneo pronto in 20 minuti.",
+        "visual_hint": "piatto impiattato finito",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory chicken plate"
+      }
+    ]
+  },
+  "food:bocconcini-di-pollo-alla-mediterranea": {
+    "title": "Bocconcini di pollo alla mediterranea",
+    "savedAt": "2026-05-14T14:53:46.406Z"
+  },
+  "food:slides:083a5e9f2f552379312a185dbba5f5ae": {
+    "title": "Zuppa di fagioli e cozze",
+    "slides": [
+      "Zuppa cremosa di fagioli e cozze.",
+      "Cozze, fagioli cannellini, pomodori, aglio, olio.",
+      "Pulisci le cozze, apri e sguscia.",
+      "Frulla metà fagioli con acqua di cozze.",
+      "Guarnisci con prezzemolo e crostoni."
+    ]
+  },
+  "food:caption:083a5e9f2f552379312a185dbba5f5ae": "Poche cose sanno di mare e terra come questa zuppa. 🥄🐚  \nCrema di fagioli cannellini frullati con l’acqua delle cozze, pomodoro e aglio: un abbraccio caldo e avvolgente. Pulisco le cozze, le apro e le sguscio, poi le rimetto nella crema con un filo d’olio e prezzemolo fresco. Crostoni di pane a fare da cucchiaio.  \nProvala questo weekend 🌿",
+  "food:video:083a5e9f2f552379312a185dbba5f5ae": [
+    "Pulisco le cozze e le apro.",
+    "Sguscio le cozze, tengo l'acqua.",
+    "Frullo metà fagioli con l'acqua.",
+    "Aggiungo le cozze e i pomodori.",
+    "Guarnisco con prezzemolo e crostoni."
+  ],
+  "food:thread:083a5e9f2f552379312a185dbba5f5ae": [
+    "Fa più freddo? Allora scatta il coprifuoco della zuppa che sa di mare e terra. 🦪🫘 Cremosa, avvolgente, con quel colpo di scena che non ti aspetti. La zuppa di fagioli e cozze è un piatto che spacca, e te lo faccio vedere in 4 passaggi.",
+    "Partiamo dagli ingredienti: cozze fresche, fagioli cannellini già lessati, pomodori maturi, aglio, olio e prezzemolo. Sembra semplice, ma il trucco sta nel come li combini. Niente panna, niente burro — solo il sapore del mare che incontra la terra.",
+    "Primo gesto sacro: pulisci bene le cozze, aprilé in padella con un filo d’olio e uno spicchio d’aglio. Appena spalancate, sgusciale e tieni da parte l’acqua che rilasciano. Quella è l’anima della zuppa, non buttarla via.",
+    "Ora il colpo di genio: frulla metà dei fagioli con l’acqua di cottura delle cozze. Ottieni una crema vellutata che lega tutto il piatto senza appesantire. Unisci poi il resto dei fagioli, i pomodori spezzettati e le cozze sgusciate. Lascia sobbollire 5 minuti.",
+    "Tocco finale? Una manciata di prezzemolo fresco tritato e crostoni di pane abbrustoliti, unti con olio crudo. Impiatta con le cozze in superficie. Vuoi un consiglio? Usa un pane rustico e lascialo affondare un po’ nella crema. Provala e dimmi com’è andata 👇"
+  ],
+  "food:carousel:083a5e9f2f552379312a185dbba5f5ae": {
+    "dish_type": "soup",
+    "signature_ingredients": [
+      "cozze",
+      "fagioli cannellini",
+      "pomodori"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Zuppa cremosa di fagioli e cozze",
+        "description": "Un comfort food di mare che unisce la cremosità dei legumi alla sapidità delle cozze.",
+        "visual_hint": "Ciotola fumante con crostoni",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "creamy bean mussel soup savory"
+      },
+      {
+        "hook": "Solo 5 ingredienti essenziali",
+        "description": "Cozze, fagioli cannellini, pomodori, aglio e olio: pochi elementi per un sapore straordinario.",
+        "visual_hint": "Ingredienti su tagliere di legno",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "mussels beans garlic tomatoes savory"
+      },
+      {
+        "hook": "Il gesto che fa la differenza",
+        "description": "Pulisci e apri le cozze, poi sgusciale con cura per una consistenza perfetta.",
+        "visual_hint": "Mani che sgusciano cozze",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "shucking mussels close-up savory"
+      },
+      {
+        "hook": "Il segreto della cremosità",
+        "description": "Frulla metà dei fagioli con l'acqua di cottura delle cozze per una vellutata naturale.",
+        "visual_hint": "Frullatore con liquido cremoso",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "blending beans broth savory"
+      },
+      {
+        "hook": "Impiatta e conquista",
+        "description": "Guarnisci con prezzemolo fresco e crostoni di pane: il tocco croccante che esalta la zuppa.",
+        "visual_hint": "Ciotola finita con prezzemolo e crostoni",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "mussel bean soup croutons savory"
+      }
+    ]
+  },
+  "food:zuppa-di-fagioli-e-cozze": {
+    "title": "Zuppa di fagioli e cozze",
+    "savedAt": "2026-05-14T14:56:38.447Z"
+  },
+  "food:slides:8adbeb52e4304aa736a4ee94a8367ef0": {
+    "title": "Risotto piselli, crescenza e pancetta croccante",
+    "slides": [
+      "Risotto cremoso con pancetta croccante e crescenza",
+      "Carnaroli, pisellini, crescenza, pancetta, Parmigiano",
+      "Tosta il riso e sfuma con vino bianco",
+      "A metà cottura unisci la crema di piselli",
+      "Guarnisci con crescenza, piselli e pancetta croccante"
+    ]
+  },
+  "food:caption:8adbeb52e4304aa736a4ee94a8367ef0": "La cremosità che abbraccia il sapore: ecco il risotto che mette d’accordo tutti 🤍  \n\nSi parte tostando il Carnaroli, si sfuma col vino bianco e a metà cottura arriva la crema di piselli freschi. Poi si manteca con la crescenza filante e il Parmigiano, e si completa con pancetta croccante e qualche pisellino intero. Un boccone che è un abbraccio caldo e deciso.  \n\nProvalo questo weekend 🌿",
+  "food:video:8adbeb52e4304aa736a4ee94a8367ef0": [
+    "Tosto il Carnaroli nel burro.",
+    "Sfumo con vino bianco secco.",
+    "A metà cottura, aggiungo crema di piselli.",
+    "Manteco con crescenza e Parmigiano.",
+    "Guarnisco con piselli e pancetta croccante."
+  ],
+  "food:thread:8adbeb52e4304aa736a4ee94a8367ef0": [
+    "C’è chi dice che il risotto sia solo brodo e mantecatura. E poi c’è questo: piselli, crescenza, pancetta croccante. Cremoso, goloso, e con un contrasto che spacca. Se non ti viene fame ora, il problema è un altro.",
+    "Partiamo dagli ingredienti: Carnaroli, pisellini freschi o surgelati, crescenza, pancetta a cubetti, Parmigiano, vino bianco. Niente di assurdo, ma il risultato è pura magia.",
+    "Prima mossa: tosta il riso a secco, poi sfuma col vino bianco. Quando evapora, inizi a bagnare col brodo. A metà cottura arriva la crema di piselli — frullata liscia, che si sposa col riso come se fosse destino.",
+    "A cottura ultimata, manteca con una noce di crescenza e Parmigiano. Fuori dal fuoco, la cremosità esplode. Poi assembli: riso, crescenza a tocchetti, piselli interi, e pancetta croccante sbriciolata sopra.",
+    "Il segreto? La pancetta falla diventare croccante in padella senza olio — il grasso che rilascia è puro sapore. Dopo averla usata come guarnizione, prendi il risotto, chiudi gli occhi e goditi il contrasto. Provala e fammi sapere 👇"
+  ],
+  "food:carousel:8adbeb52e4304aa736a4ee94a8367ef0": {
+    "dish_type": "generic",
+    "signature_ingredients": [
+      "riso carnaroli",
+      "piselli",
+      "crescenza"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Risotto cremoso pancetta croccante e crescenza",
+        "description": "Un primo elegante e avvolgente: risotto vellutato con piselli dolci, mantecato con crescenza, guarnito con pancetta croccante.",
+        "visual_hint": "Risotto in primo piano",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory creamy risotto bowl"
+      },
+      {
+        "hook": "Ingredienti essenziali",
+        "description": "Carnaroli, pisellini, crescenza, pancetta, Parmigiano. Il segreto? La doppia mantecatura.",
+        "visual_hint": "Ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory risotto ingredients"
+      },
+      {
+        "hook": "Tosta e sfuma",
+        "description": "Tosta il riso a secco, poi sfuma con vino bianco fino a evaporazione. Sviluppa il profumo.",
+        "visual_hint": "Tostatura in padella",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory toasting rice pan"
+      },
+      {
+        "hook": "Crema di piselli a metà cottura",
+        "description": "A metà cottura unisci la crema di piselli. Lascia assorbire e manteca con crescenza e parmigiano.",
+        "visual_hint": "Crema versata nel riso",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory pouring pea cream"
+      },
+      {
+        "hook": "Il tocco finale",
+        "description": "Guarnisci con crescenza a cubotti, piselli interi e pancetta croccante. Servi immediatamente.",
+        "visual_hint": "Piatto impiattato",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory risotto with pancetta"
+      }
+    ]
+  },
+  "food:risotto-piselli-crescenza-e-pancetta-croccante": {
+    "title": "Risotto piselli, crescenza e pancetta croccante",
+    "savedAt": "2026-05-14T15:01:32.815Z"
+  }
+}

@@ -21,19 +21,26 @@ jobs:
 
       - run: npm ci
 
-      - name: Esegui pipeline
+      - name: Run AI news agent
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          GENERATE_FORMATS: 'true'
-        run: node run.js
+          MAX_NEW_ARTICLES: '4'
+        run: node core/run-agent.js ai-news
 
-      - name: Esegui pipeline food
+      - name: Esegui pipeline food (legacy)
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           MAX_NEW_FOOD_ARTICLES: '3'
         run: node run-food.js || echo "⚠️ Food pipeline failed, continuing"
+
+      - name: Run food agent
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          MAX_NEW_FOOD_ARTICLES: '3'
+        run: node core/run-agent.js food || echo "⚠️ Food agent failed, continuing"
 
       - name: Committa e pusha i nuovi contenuti
         run: |

@@ -22,5 +22,39 @@
     "Decidi sui dati: vendere o comprare."
   ],
   "savedAt": "2026-05-06T19:24:59.578Z",
-  "instagram_caption": "Samsung vale ufficialmente un trilione di dollari, ma nel mercato dei chip per AI vende meno della metà del suo rivale SK Hynix 📉 La domanda di memorie HBM, cruciali per addestrare i modelli, sta esplodendo. Samsung produce questi chip, ma arranca in volumi. Gli azionisti si aspettano utili record già nel prossimo trimestre. Per te significa che smartphone e servizi AI potrebbero diventare più economici se la produzione cresce ⚡ Vendere azioni o tenere? I dati dicono che il potenziale c’è, il presente no 💸"
+  "instagram_caption": "Samsung vale ufficialmente un trilione di dollari, ma nel mercato dei chip per AI vende meno della metà del suo rivale SK Hynix 📉 La domanda di memorie HBM, cruciali per addestrare i modelli, sta esplodendo. Samsung produce questi chip, ma arranca in volumi. Gli azionisti si aspettano utili record già nel prossimo trimestre. Per te significa che smartphone e servizi AI potrebbero diventare più economici se la produzione cresce ⚡ Vendere azioni o tenere? I dati dicono che il potenziale c’è, il presente no 💸",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-boom-pushes-samsung-to-1t",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Qualcuno dice che Samsung vale 1.000 miliardi. Spoiler: non è vero.",
+        "L’AI sta facendo volare la domanda di chip HBM. Samsung c’è, ma arranca.",
+        "Il problema è che vende meno della metà di SK Hynix in questo mercato.",
+        "Gli azionisti sognano utili record. Arriveranno, ma non per miracolo.",
+        "Vendere o comprare? I dati dicono che il potenziale c’è, il presente no."
+      ]
+    },
+    "instagram": {
+      "caption": "Samsung vale ufficialmente un trilione di dollari, ma nel mercato dei chip per AI vende meno della metà del suo rivale SK Hynix 📉 La domanda di memorie HBM, cruciali per addestrare i modelli, sta esplodendo. Samsung produce questi chip, ma arranca in volumi. Gli azionisti si aspettano utili record già nel prossimo trimestre. Per te significa che smartphone e servizi AI potrebbero diventare più economici se la produzione cresce ⚡ Vendere azioni o tenere? I dati dicono che il potenziale c’è, il presente no 💸",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Samsung vale davvero mille miliardi?",
+        "No, l’AI spinge gli HBM.",
+        "Ma Samsung vende la metà di SK Hynix.",
+        "Utili record in arrivo per gli azionisti.",
+        "Decidi sui dati: vendere o comprare."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

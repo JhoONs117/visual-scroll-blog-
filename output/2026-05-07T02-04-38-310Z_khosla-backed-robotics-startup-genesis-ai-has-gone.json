@@ -12,17 +12,14 @@
     "The bet: a robot that learns a task in minutes, not months. That's the headline. The real story is how they got there.",
     "Full stack means they own the hardware, the software, the training loop. No handoffs. No excuses. Just one integrated system that adapts fast.",
     "For you, that means fewer brittle demos that collapse in the real world. Faster path from lab to deployment. Less guesswork.",
-    "They released a demo. Watch it. Then ask yourself: does this finally close the gap between promise and production?",
-    "",
-    "If you're building with robots, this is the week to run your own test. Pick one task. Time it. Compare."
+    "They released a demo. Watch it. Then ask yourself: does this finally close the gap between promise and production?"
   ],
   "video_script": [
     "Khosla just bet on a robot startup.",
     "Most avoid full stack. They went all in.",
     "Their demo: robot learns in minutes, not months.",
     "That changes how fast you deploy.",
-    "Watch it. Then decide if this breaks the cycle.",
-    "One task. This week. Test it yourself."
+    "Watch it. Then decide if this breaks the cycle."
   ],
   "savedAt": "2026-05-07T02:04:38.310Z",
   "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
@@ -72,5 +69,83 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Genesis-AI-Rubiks-Cube-Solve-A-Cam.jpg?resize=1200,675",
-  "instagram_caption": "Una startup sostenuta da Khosla ha costruito robot che non si limitano a spostare scatole, ma decidono da soli come ottimizzare l’intera fabbrica 🏭. Genesis AI integra hardware, software e intelligenza artificiale per controllare produzione e logistica in un unico sistema. Il risultato? Aziende già considerate efficienti hanno tagliato i costi operativi del 30% in tre mesi 📉. Se lavori in un impianto, questo significa che il tuo margine non migliorerà con un braccio meccanico in più: serve un sistema che gestisca tutto senza micromanagement. Prima di crederci, chiedi una demo e confronta i numeri reali coi tuoi 📊. Il tuo concorrente potrebbe già averlo fatto."
+  "instagram_caption": "Una startup sostenuta da Khosla ha costruito robot che non si limitano a spostare scatole, ma decidono da soli come ottimizzare l’intera fabbrica 🏭. Genesis AI integra hardware, software e intelligenza artificiale per controllare produzione e logistica in un unico sistema. Il risultato? Aziende già considerate efficienti hanno tagliato i costi operativi del 30% in tre mesi 📉. Se lavori in un impianto, questo significa che il tuo margine non migliorerà con un braccio meccanico in più: serve un sistema che gestisca tutto senza micromanagement. Prima di crederci, chiedi una demo e confronta i numeri reali coi tuoi 📊. Il tuo concorrente potrebbe già averlo fatto.",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "khosla-backed-robotics-startup-genesis-ai-has-gone",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Most startups avoid full stack. Khosla just bet on it. That alone tells you this Genesis AI move is different.",
+        "The bet: a robot that learns a task in minutes, not months. That's the headline. The real story is how they got there.",
+        "Full stack means they own the hardware, the software, the training loop. No handoffs. No excuses. Just one integrated system that adapts fast.",
+        "For you, that means fewer brittle demos that collapse in the real world. Faster path from lab to deployment. Less guesswork.",
+        "They released a demo. Watch it. Then ask yourself: does this finally close the gap between promise and production?"
+      ]
+    },
+    "instagram": {
+      "caption": "Una startup sostenuta da Khosla ha costruito robot che non si limitano a spostare scatole, ma decidono da soli come ottimizzare l’intera fabbrica 🏭. Genesis AI integra hardware, software e intelligenza artificiale per controllare produzione e logistica in un unico sistema. Il risultato? Aziende già considerate efficienti hanno tagliato i costi operativi del 30% in tre mesi 📉. Se lavori in un impianto, questo significa che il tuo margine non migliorerà con un braccio meccanico in più: serve un sistema che gestisca tutto senza micromanagement. Prima di crederci, chiedi una demo e confronta i numeri reali coi tuoi 📊. Il tuo concorrente potrebbe già averlo fatto.",
+      "carousel": [
+        {
+          "hook": "Khosla just bet on full stack",
+          "description": "Most startups avoid full stack. Khosla just bet on it. This Genesis AI move is different.",
+          "visual_hint": "Robot arm assembling circuit",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "factory robot arm"
+        },
+        {
+          "hook": "Minutes not months to learn",
+          "description": "The bet: a robot that learns a task in minutes, not months. That's the headline.",
+          "visual_hint": "Clock morphing into gears",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robot learning task",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Fast_Marching_Learning_%28FML%29_in_ADAM_robot.jpg/960px-Fast_Marching_Learning_%28FML%29_in_ADAM_robot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "They own everything from chip to code",
+          "description": "Full stack means they own hardware, software, training loop. No handoffs. No excuses. One integrated system.",
+          "visual_hint": "Stack of hardware layers",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room hardware",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/SpinVFX_Server_Room.jpg/960px-SpinVFX_Server_Room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "No more brittle demos",
+          "description": "For you: fewer brittle demos that collapse in the real world. Faster path from lab to deployment.",
+          "visual_hint": "Robot crossing uneven terrain",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "robot on factory floor"
+        },
+        {
+          "hook": "Watch the demo. Then test it.",
+          "description": "Pick one task. Time it. Compare. This is the week to see if the gap finally closed.",
+          "visual_hint": "Play button over robot",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "robot demonstration video",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Schematics_of_the_robot_assessing_novelty_of_human_chef_demonstration_and_learning_new_recipe.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Khosla just bet on a robot startup.",
+        "Most avoid full stack. They went all in.",
+        "Their demo: robot learns in minutes, not months.",
+        "That changes how fast you deploy.",
+        "Watch it. Then decide if this breaks the cycle."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

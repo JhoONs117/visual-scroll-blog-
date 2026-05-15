@@ -22,5 +22,39 @@
     "Provalo ora in ChatGPT e vedi."
   ],
   "savedAt": "2026-05-05T17:20:36.578Z",
-  "instagram_caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?"
+  "instagram_caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-releases-gpt-5-5-instant-a-new-default-mode",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Se scrivere un articolo ti prende più di 30 secondi, stai già perdendo tempo.",
+        "OpenAI ha appena svelato GPT-5.5 Instant. Un modello che non è solo più intelligente, ma anche più veloce del precedente.",
+        "Le risposte arrivano in tempo reale. Non devi aspettare, non devi riformulare: il testo esce già preciso e pronto.",
+        "Da oggi è attivo in ChatGPT. Basta selezionarlo e iniziare a chiedere. Niente attivazioni complicate.",
+        "Il mio consiglio: provalo per un compito che fai tutti i giorni e vedi quanto tempo recuperi. Poi dimmi se torni indietro."
+      ]
+    },
+    "instagram": {
+      "caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Scrivere un articolo in pochi secondi.",
+        "OpenAI ha rilasciato GPT-5.5 Instant.",
+        "È più veloce e molto più intelligente.",
+        "Le risposte arrivano subito e sono precise.",
+        "Provalo ora in ChatGPT e vedi."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

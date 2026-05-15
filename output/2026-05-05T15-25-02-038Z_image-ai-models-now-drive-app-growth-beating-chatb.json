@@ -22,5 +22,39 @@
     "Spotify è salito del 30% solo con le cover."
   ],
   "savedAt": "2026-05-05T15:25:02.038Z",
-  "instagram_caption": "I modelli visivi generativi stanno portando più installazioni delle chat: Spotify ha visto un +30% con le cover personalizzate. 🎨 Le immagini generate dall'intelligenza artificiale aumentano i download e migliorano la fidelizzazione, perché le persone vedono il contenuto e restano. Meno aggiornamenti, più utenti fedeli. 📈 Per chi sviluppa app, aggiungere personalizzazione visiva non è più un optional: è la prossima mossa concreta da fare. 🖼️ Il tuo feed è già pieno di immagini AI senza che tu lo sappia?"
+  "instagram_caption": "I modelli visivi generativi stanno portando più installazioni delle chat: Spotify ha visto un +30% con le cover personalizzate. 🎨 Le immagini generate dall'intelligenza artificiale aumentano i download e migliorano la fidelizzazione, perché le persone vedono il contenuto e restano. Meno aggiornamenti, più utenti fedeli. 📈 Per chi sviluppa app, aggiungere personalizzazione visiva non è più un optional: è la prossima mossa concreta da fare. 🖼️ Il tuo feed è già pieno di immagini AI senza che tu lo sappia?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "image-ai-models-now-drive-app-growth-beating-chatb",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Se pensi che le chatbot siano la killer feature dell'AI, ti stai sbagliando. Un'altra tecnologia sta già facendo molto di più.",
+        "I numeri sono chiari: le immagini generate dall'AI portano più installazioni. Le persone vedono, cliccano, scaricano. I chatbot? Non tengono il passo.",
+        "Il contenuto visivo non attira solo, trattiene. Meno aggiornamenti, più fedeltà. È come dare all'utente quello che vuole senza farglielo chiedere.",
+        "Personalizzare le immagini nell'app non è un extra, è la prossima mossa obbligata. Se non lo fai, lo farà qualcun altro con i tuoi utenti.",
+        "Spotify ha provato le cover AI e ha preso un +30%. Il messaggio è chiaro: il futuro dell'engagement non è una chat, è un'immagine."
+      ]
+    },
+    "instagram": {
+      "caption": "I modelli visivi generativi stanno portando più installazioni delle chat: Spotify ha visto un +30% con le cover personalizzate. 🎨 Le immagini generate dall'intelligenza artificiale aumentano i download e migliorano la fidelizzazione, perché le persone vedono il contenuto e restano. Meno aggiornamenti, più utenti fedeli. 📈 Per chi sviluppa app, aggiungere personalizzazione visiva non è più un optional: è la prossima mossa concreta da fare. 🖼️ Il tuo feed è già pieno di immagini AI senza che tu lo sappia?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Le immagini battono i chatbot. I dati parlano.",
+        "Più installazioni, perché la gente clicca su ciò che vede.",
+        "Il visuale tiene gli utenti, servono meno aggiornamenti.",
+        "Aggiungi personalizzazione visiva alla tua app ora.",
+        "Spotify è salito del 30% solo con le cover."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

@@ -71,5 +71,84 @@
       "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
-  "instagram_caption": "Airbnb ha rivelato che l'intelligenza artificiale scrive il 60% del loro nuovo codice, ma ogni singola riga passa sotto gli occhi di un ingegnere umano. Questo significa che il codice arriva più velocemente, ma il vero lavoro ora è leggerlo e validarlo. Per chi sviluppa software, il ruolo cambia: da scrittore a revisore, con più responsabilità e meno scrittura diretta. ✍️ Hai già provato un tool che ti aiuti a tenere il passo con queste revisioni? ⏱️"
+  "instagram_caption": "Airbnb ha rivelato che l'intelligenza artificiale scrive il 60% del loro nuovo codice, ma ogni singola riga passa sotto gli occhi di un ingegnere umano. Questo significa che il codice arriva più velocemente, ma il vero lavoro ora è leggerlo e validarlo. Per chi sviluppa software, il ruolo cambia: da scrittore a revisore, con più responsabilità e meno scrittura diretta. ✍️ Hai già provato un tool che ti aiuti a tenere il passo con queste revisioni? ⏱️",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "airbnb-says-ai-now-writes-60-of-its-new-code",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Il 60% del nuovo codice di Airbnb è generato da AI. Ma ogni singola riga viene controllata da un ingegnere umano. Il costo nascosto? Non è il codice — è il tempo di revisione.",
+        "Scrivere codice con l'AI è veloce. Raddoppia la produttività. Ma qualcuno deve comunque leggere, capire e validare tutto. Quel collo di bottiglia non sparisce.",
+        "Il tuo ruolo da sviluppatore cambia: non sei più uno scrittore di codice. Sei un revisore. Devi capire cosa ha fatto l'AI, e decidere se è giusto. Più controllo, meno scrittura.",
+        "Airbnb ha scelto di non fidarsi ciecamente. Ogni riga generata passa sotto gli occhi umani. Questo è il nuovo standard per chi vuole qualità senza rischi.",
+        "Se non hai ancora provato un tool di code review AI, fallo oggi. Il primo è spesso gratuito. Ti serve per capire se il tuo flusso regge il nuovo ritmo."
+      ]
+    },
+    "instagram": {
+      "caption": "Airbnb ha rivelato che l'intelligenza artificiale scrive il 60% del loro nuovo codice, ma ogni singola riga passa sotto gli occhi di un ingegnere umano. Questo significa che il codice arriva più velocemente, ma il vero lavoro ora è leggerlo e validarlo. Per chi sviluppa software, il ruolo cambia: da scrittore a revisore, con più responsabilità e meno scrittura diretta. ✍️ Hai già provato un tool che ti aiuti a tenere il passo con queste revisioni? ⏱️",
+      "carousel": [
+        {
+          "hook": "Ogni riga, occhi umani",
+          "description": "Airbnb controlla ogni riga di codice AI. Il collo di bottiglia? Non scrivere, ma revisionare.",
+          "visual_hint": "Codice su schermo luminoso",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "code review screen"
+        },
+        {
+          "hook": "60% codice è AI",
+          "description": "Il 60% del nuovo codice di Airbnb è generato da AI. Ogni riga viene controllata da ingegneri umani.",
+          "visual_hint": "Percentuale e tastiera",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "software developer laptop",
+          "image": "https://images.pexels.com/photos/7988086/pexels-photo-7988086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tuo ruolo cambia",
+          "description": "Non sei più uno scrittore di codice. Sei un revisore. Più controllo, meno scrittura.",
+          "visual_hint": "Occhio che controlla righe",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "programming code lines",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Revisione è il nuovo standard",
+          "description": "Airbnb non si fida ciecamente. Ogni riga AI passa sotto occhi umani. Qualità senza rischi.",
+          "visual_hint": "Mano che segna codice",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand reviewing paper",
+          "image": "https://images.pexels.com/photos/7969733/pexels-photo-7969733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova un tool di review AI",
+          "description": "Prova subito un tool di code review AI. Il primo è spesso gratuito. Testa il tuo flusso oggi.",
+          "visual_hint": "Pulsante CTA con freccia",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "computer screen code",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Airbnb usa AI per scrivere codice.",
+        "Il 60% del codice nuovo è AI.",
+        "Ma ogni riga è controllata da umani.",
+        "Il tuo lavoro cambia: da scrivere a controllare.",
+        "Prova subito un tool di revisione."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

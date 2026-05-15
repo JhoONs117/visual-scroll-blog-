@@ -68,5 +68,84 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Unclothed_woman_behind_question_mark_sign.jpg/960px-Unclothed_woman_behind_question_mark_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     }
   ],
-  "instagram_caption": "Mentre tutti i titoli urlano “cripto è morta”, a16z ha appena chiuso un fondo da 2.2 miliardi di dollari per startup crypto. 💸 Non stanno comprando token in saldo: stanno scommettendo su progetti che forse vedremo tra 5-10 anni, senza dover vendere nulla tra sei mesi. 🧠 Per te significa che qualcuno con decenni di esperienza punta sulla prossima infrastruttura, non sul prezzo di oggi. Dove mettete i soldi quando tutti scappano?"
+  "instagram_caption": "Mentre tutti i titoli urlano “cripto è morta”, a16z ha appena chiuso un fondo da 2.2 miliardi di dollari per startup crypto. 💸 Non stanno comprando token in saldo: stanno scommettendo su progetti che forse vedremo tra 5-10 anni, senza dover vendere nulla tra sei mesi. 🧠 Per te significa che qualcuno con decenni di esperienza punta sulla prossima infrastruttura, non sul prezzo di oggi. Dove mettete i soldi quando tutti scappano?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "as-crypto-cools-a16z-crypto-raises-a-2-2b-fund",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "a16z ha appena raccolto 2.2 miliardi per cripto. È il fondo più grande mai visto in questo settore.",
+        "Il mercato è in calo da mesi. Le startup bruciano cash, i fondi tradizionali chiudono i rubinetti.",
+        "Intanto loro puntano grosso. Sanno qualcosa che gli altri non vedono o giocano d'azzardo?",
+        "Per le startup in difficoltà, questo fondo è una via di fuga concreta. Ma serve il loro endorsement per sopravvivere.",
+        "Il tuo progetto cripto può vivere senza il placet di a16z? Se la risposta è no, il problema è strutturale."
+      ]
+    },
+    "instagram": {
+      "caption": "Mentre tutti i titoli urlano “cripto è morta”, a16z ha appena chiuso un fondo da 2.2 miliardi di dollari per startup crypto. 💸 Non stanno comprando token in saldo: stanno scommettendo su progetti che forse vedremo tra 5-10 anni, senza dover vendere nulla tra sei mesi. 🧠 Per te significa che qualcuno con decenni di esperienza punta sulla prossima infrastruttura, non sul prezzo di oggi. Dove mettete i soldi quando tutti scappano?",
+      "carousel": [
+        {
+          "hook": "a16z punta 2.2B: follia o genio?",
+          "description": "Hanno appena raccolto il fondo crypto più grande mai visto. Sanno qualcosa che gli altri non vedono?",
+          "visual_hint": "Sacco monete da un lato, baratro dall'altro",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "pile of gold coins"
+        },
+        {
+          "hook": "Il mercato crypto è in fiamme",
+          "description": "Il mercato è in calo da mesi. Startup bruciano cash, fondi tradizionali chiudono i rubinetti. Controtendenza netta.",
+          "visual_hint": "Grafico azionario in caduta",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Hanno raccolto il fondo più grande",
+          "description": "2.2 miliardi. È il fondo più grande mai visto in questo settore. Gioco d'azzardo o sanno qualcosa?",
+          "visual_hint": "Valigie di dollari impilate",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stack of dollar bills",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Stack_of_100_dollar_bills_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        {
+          "hook": "Startup in difficoltà, via di fuga",
+          "description": "Per startup in crisi questo fondo è una via di fuga concreta. Ma serve il loro endorsement per sopravvivere?",
+          "visual_hint": "Mano che tende un assegno",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding check",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Joe_Biden_holding_hands_with_someone_in_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        {
+          "hook": "Il tuo progetto cripto sopravviverà?",
+          "description": "Se il tuo progetto non può vivere senza il placet di a16z, il problema è tuo. È strutturale.",
+          "visual_hint": "Domanda con punto interrogativo grande",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "question mark sign",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Unclothed_woman_behind_question_mark_sign.jpg/960px-Unclothed_woman_behind_question_mark_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "a16z ha raccolto due virgola due miliardi per cripto.",
+        "Il più grande fondo mai visto, in un mercato in calo.",
+        "Mentre tutti scappano, loro raddoppiano.",
+        "Per le startup in difficoltà è una via di fuga.",
+        "Il tuo progetto sopravvive senza il loro ok?"
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

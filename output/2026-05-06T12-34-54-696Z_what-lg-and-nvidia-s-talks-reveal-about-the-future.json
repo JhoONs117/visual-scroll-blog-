@@ -23,5 +23,39 @@
   ],
   "savedAt": "2026-05-06T12:34:54.696Z",
   "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
-  "instagram_caption": "LG e Nvidia stanno collaborando per addestrare robot in simulazioni cloud, poi trasferirli direttamente in fabbrica. 🏭 Non più solo chatbot: l'AI impara a controllare macchine, movimenti e decisioni nel mondo fisico, senza bisogno di supervisione umana. I modelli virtuali testano ogni scenario, e i robot reali eseguono già in sicurezza. Per chi lavora nella logistica o nella produzione, significa linee più veloci e operazioni gestite da remoto. Per gli altri, la domanda è: tra quanti anni il tuo autista-assistente funzionerà così? 🤖"
+  "instagram_caption": "LG e Nvidia stanno collaborando per addestrare robot in simulazioni cloud, poi trasferirli direttamente in fabbrica. 🏭 Non più solo chatbot: l'AI impara a controllare macchine, movimenti e decisioni nel mondo fisico, senza bisogno di supervisione umana. I modelli virtuali testano ogni scenario, e i robot reali eseguono già in sicurezza. Per chi lavora nella logistica o nella produzione, significa linee più veloci e operazioni gestite da remoto. Per gli altri, la domanda è: tra quanti anni il tuo autista-assistente funzionerà così? 🤖",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "what-lg-and-nvidia-s-talks-reveal-about-the-future",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Hai mai pensato a chi controllerà i robot che costruiranno tutto ciò che usi? È una domanda che pochi si fanno, ma che deciderà il nostro futuro.",
+        "LG e NVIDIA stanno già lavorando insieme per portare l'intelligenza artificiale nelle fabbriche. Non è più fantascienza, è una scelta strategica che ridefinisce la produzione.",
+        "L'AI fisica sta uscendo dai chatbot per entrare in oggetti reali: macchine, bracci robotici, sensori. La differenza? Ora tocca le cose, non solo le parole.",
+        "Ogni decisione sulla supply chain oggi influisce su quanto velocemente potrai adottare l'AI domani. Chi non lo capisce, resta indietro.",
+        "Il punto è semplice: se la tua fabbrica non è pronta per l'AI, altri lo saranno. Inizia a controllare ora, o qualcun altro controllerà tutto."
+      ]
+    },
+    "instagram": {
+      "caption": "LG e Nvidia stanno collaborando per addestrare robot in simulazioni cloud, poi trasferirli direttamente in fabbrica. 🏭 Non più solo chatbot: l'AI impara a controllare macchine, movimenti e decisioni nel mondo fisico, senza bisogno di supervisione umana. I modelli virtuali testano ogni scenario, e i robot reali eseguono già in sicurezza. Per chi lavora nella logistica o nella produzione, significa linee più veloci e operazioni gestite da remoto. Per gli altri, la domanda è: tra quanti anni il tuo autista-assistente funzionerà così? 🤖",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Chi controllerà i robot che fanno tutto?",
+        "LG e NVIDIA parlano di AI per fabbriche.",
+        "L'AI fisica esce dai chatbot e tocca oggetti veri.",
+        "Le tue scelte sulla supply chain cambiano tutto.",
+        "Controlla ora la fabbrica: se non è pronta, altri lo sono."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

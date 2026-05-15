@@ -1,0 +1,154 @@
+{
+  "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+  "slides": [
+    "Anthropic supera OpenAI nei clienti business?",
+    "I dati Ramp mostrano un sorpasso netto tra aziende paganti",
+    "OpenAI dominava il segmento enterprise fino a ieri",
+    "Se usi AI aziendale, riconsidera il tuo fornitore",
+    "Confronta i costi di entrambi prima del prossimo rinnovo"
+  ],
+  "thread_text": [
+    "OpenAI dominava il segmento enterprise fino a ieri. Oggi i dati mostrano che un competitor lo ha superato tra le aziende che pagano.",
+    "Il sorpasso non è teorico. Ramp, una piattaforma che analizza le spese aziendali, ha tracciato i pagamenti reali delle imprese verso i fornitori AI.",
+    "I numeri mostrano un netto cambio di rotta: Anthropic ha superato OpenAI nei clienti business che pagano. Non si tratta di utenti free, ma di contratti attivi.",
+    "Se usi AI a livello aziendale e hai un rinnovo in scadenza, confrontare i costi dei due provider non è più solo una buona pratica. È una mossa necessaria.",
+    "Costi a confronto: valuta il prezzo per token e le soglie di utilizzo prima di firmare il prossimo contratto. Un rinnovo senza verifica può costarti decine di migliaia di euro."
+  ],
+  "video_script": [
+    "OpenAI era il re delle aziende.",
+    "Ora un altro lo ha superato.",
+    "I dati arrivano da Ramp.",
+    "Pagamenti veri, non chiacchiere.",
+    "Confronta i costi prima di rinnovare."
+  ],
+  "instagram_caption": "Anthropic ha superato OpenAI nei clienti business che pagano, secondo i dati di spesa di Ramp 📊. Fino a ieri, OpenAI dominava il segmento enterprise; oggi le aziende cambiano fornitore. Non si parla di utenti free: sono contratti attivi, con costi reali in gioco 💸. Se gestisci l'AI nel tuo lavoro, confrontare prezzi per token e soglie d'uso prima del rinnovo non è più un'opzione, ma una necessità 🧾. Hai già verificato il tuo contratto?",
+  "carousel_slides": [
+    {
+      "hook": "OpenAI superata? Il dato shock",
+      "description": "Ramp mostra che Anthropic ha superato OpenAI nei clienti business paganti. Non utenti free, ma contratti attivi.",
+      "visual_hint": "Grafico a barre con sorpasso",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "bar chart overtake"
+    },
+    {
+      "hook": "Il sorpasso è reale",
+      "description": "Ramp ha tracciato i pagamenti reali delle imprese verso i fornitori AI: netto cambio di rotta.",
+      "visual_hint": "Dashboard finanziaria con dati",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "financial dashboard payment",
+      "image": "https://images.pexels.com/photos/6214459/pexels-photo-6214459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fino a ieri dominava OpenAI",
+      "description": "OpenAI era leader enterprise. Ora i dati mostrano un competitor davanti tra le aziende paganti.",
+      "visual_hint": "Cronologia con linea temporale",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "timeline chart history",
+      "image": "https://images.pexels.com/photos/7948029/pexels-photo-7948029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rinnovo? Confronta ora",
+      "description": "Se usi AI aziendale, confrontare costi dei due provider è necessario. Un rinnovo senza verifica costa migliaia di euro.",
+      "visual_hint": "Bilancia o due documenti",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding contract",
+      "image": "https://images.pexels.com/photos/8297657/pexels-photo-8297657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Verifica costi prima di firmare",
+      "description": "Valuta prezzo per token e soglie di utilizzo prima del rinnovo. Risparmia decine di migliaia di euro.",
+      "visual_hint": "Carta di credito e calcolatrice",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "credit card calculator",
+      "image": "https://images.pexels.com/photos/7821464/pexels-photo-7821464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?resize=1200,800",
+  "pubDate": "Wed, 13 May 2026 14:00:00 +0000",
+  "savedAt": "2026-05-14T13:56:51.661Z",
+  "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-now-has-more-business-customers-than-ope",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "OpenAI dominava il segmento enterprise fino a ieri. Oggi i dati mostrano che un competitor lo ha superato tra le aziende che pagano.",
+        "Il sorpasso non è teorico. Ramp, una piattaforma che analizza le spese aziendali, ha tracciato i pagamenti reali delle imprese verso i fornitori AI.",
+        "I numeri mostrano un netto cambio di rotta: Anthropic ha superato OpenAI nei clienti business che pagano. Non si tratta di utenti free, ma di contratti attivi.",
+        "Se usi AI a livello aziendale e hai un rinnovo in scadenza, confrontare i costi dei due provider non è più solo una buona pratica. È una mossa necessaria.",
+        "Costi a confronto: valuta il prezzo per token e le soglie di utilizzo prima di firmare il prossimo contratto. Un rinnovo senza verifica può costarti decine di migliaia di euro."
+      ]
+    },
+    "instagram": {
+      "caption": "Anthropic ha superato OpenAI nei clienti business che pagano, secondo i dati di spesa di Ramp 📊. Fino a ieri, OpenAI dominava il segmento enterprise; oggi le aziende cambiano fornitore. Non si parla di utenti free: sono contratti attivi, con costi reali in gioco 💸. Se gestisci l'AI nel tuo lavoro, confrontare prezzi per token e soglie d'uso prima del rinnovo non è più un'opzione, ma una necessità 🧾. Hai già verificato il tuo contratto?",
+      "carousel": [
+        {
+          "hook": "OpenAI superata? Il dato shock",
+          "description": "Ramp mostra che Anthropic ha superato OpenAI nei clienti business paganti. Non utenti free, ma contratti attivi.",
+          "visual_hint": "Grafico a barre con sorpasso",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "bar chart overtake"
+        },
+        {
+          "hook": "Il sorpasso è reale",
+          "description": "Ramp ha tracciato i pagamenti reali delle imprese verso i fornitori AI: netto cambio di rotta.",
+          "visual_hint": "Dashboard finanziaria con dati",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "financial dashboard payment",
+          "image": "https://images.pexels.com/photos/6214459/pexels-photo-6214459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fino a ieri dominava OpenAI",
+          "description": "OpenAI era leader enterprise. Ora i dati mostrano un competitor davanti tra le aziende paganti.",
+          "visual_hint": "Cronologia con linea temporale",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "timeline chart history",
+          "image": "https://images.pexels.com/photos/7948029/pexels-photo-7948029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rinnovo? Confronta ora",
+          "description": "Se usi AI aziendale, confrontare costi dei due provider è necessario. Un rinnovo senza verifica costa migliaia di euro.",
+          "visual_hint": "Bilancia o due documenti",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding contract",
+          "image": "https://images.pexels.com/photos/8297657/pexels-photo-8297657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Verifica costi prima di firmare",
+          "description": "Valuta prezzo per token e soglie di utilizzo prima del rinnovo. Risparmia decine di migliaia di euro.",
+          "visual_hint": "Carta di credito e calcolatrice",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "credit card calculator",
+          "image": "https://images.pexels.com/photos/7821464/pexels-photo-7821464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI era il re delle aziende.",
+        "Ora un altro lo ha superato.",
+        "I dati arrivano da Ramp.",
+        "Pagamenti veri, non chiacchiere.",
+        "Confronta i costi prima di rinnovare."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
+}

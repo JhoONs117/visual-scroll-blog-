@@ -22,5 +22,39 @@
     "Fai una domanda e vedi subito."
   ],
   "savedAt": "2026-05-05T19:10:50.205Z",
-  "instagram_caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?"
+  "instagram_caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-releases-gpt-5-5-instant-a-new-default-mode",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Qualcuno ha appena reso obsoleto il tuo modo di usare ChatGPT. Ed è gratis.",
+        "GPT-5.5 Instant non è un aggiornamento minore. È un salto nella velocità e nella precisione delle risposte.",
+        "Tempo risparmiato significa meno attesa per dati pronti all'uso, senza controlli o correzioni.",
+        "Non devi più aspettare secondi per una risposta. Il limite ora è quanto velocemente digiti la domanda.",
+        "Prova: chiedigli una ricetta. In meno di 5 secondi hai un piatto pronto. Il resto è storia."
+      ]
+    },
+    "instagram": {
+      "caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Hai visto cos'hanno appena lanciato?",
+        "GPT-5.5 Instant, gratis su ChatGPT.",
+        "Risposte velocissime e più precise.",
+        "Risparmi tempo e ottieni dati migliori.",
+        "Fai una domanda e vedi subito."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

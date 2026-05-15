@@ -66,5 +66,82 @@
       "image_query": "road fork sign"
     }
   ],
-  "instagram_caption": "OpenAI ha appena scelto i chip di Cerebras, una startup che sfida NVIDIA, per addestrare i suoi modelli più veloci. 🏎️ Il motivo: i loro processori promettono tempi di training ridotti e prestazioni record. Mentre il mercato guarda, Cerebras si prepara a un’IPO da blockbuster. 💰 Per te: modelli AI sviluppati più rapidamente, con possibili ricadute su strumenti quotidiani più performanti. Quanto cambierà il lavoro di chi usa l’AI tra sei mesi? 🧠"
+  "instagram_caption": "OpenAI ha appena scelto i chip di Cerebras, una startup che sfida NVIDIA, per addestrare i suoi modelli più veloci. 🏎️ Il motivo: i loro processori promettono tempi di training ridotti e prestazioni record. Mentre il mercato guarda, Cerebras si prepara a un’IPO da blockbuster. 💰 Per te: modelli AI sviluppati più rapidamente, con possibili ricadute su strumenti quotidiani più performanti. Quanto cambierà il lavoro di chi usa l’AI tra sei mesi? 🧠",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-s-cozy-partner-cerebras-is-on-track-for-a-b",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Il più grande chip AI del mondo ha un punto debole e dipende da un solo cliente. Se quel cliente se ne va, tutto il castello crolla. Ecco cosa sta succedendo.",
+        "Cerebras costruisce chip enormi che addestrano modelli più velocemente di Nvidia. OpenAI è il suo cliente principale. Un vantaggio enorme, ma anche un rischio gigante.",
+        "Il problema tecnico è la memoria: un chip così grande scalda troppo e consuma energia come una centrale. I concorrenti stanno risolvendo il problema in modo diverso.",
+        "Per ora Cerebras punta a una IPO colossale. Ma gli investitori guardano due cose: la dipendenza da OpenAI e la capacità di reggere il confronto tecnologico a lungo termine.",
+        "La domanda vera è: compri azioni di una società che ha un unico cliente miliardario, o aspetti di vedere se quel cliente resta?"
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI ha appena scelto i chip di Cerebras, una startup che sfida NVIDIA, per addestrare i suoi modelli più veloci. 🏎️ Il motivo: i loro processori promettono tempi di training ridotti e prestazioni record. Mentre il mercato guarda, Cerebras si prepara a un’IPO da blockbuster. 💰 Per te: modelli AI sviluppati più rapidamente, con possibili ricadute su strumenti quotidiani più performanti. Quanto cambierà il lavoro di chi usa l’AI tra sei mesi? 🧠",
+      "carousel": [
+        {
+          "hook": "Il chip più grande del mondo",
+          "description": "Un chip enorme scalda troppo e consuma come una centrale. I rivali risolvono il problema diversamente.",
+          "visual_hint": "gigantesco chip illuminato",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "giant computer chip"
+        },
+        {
+          "hook": "Dipende tutto da OpenAI",
+          "description": "Cerebras ha OpenAI come cliente principale. Un vantaggio enorme, ma se il cliente va via tutto crolla.",
+          "visual_hint": "catena spezzata",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "broken metal chain"
+        },
+        {
+          "hook": "Memoria e calore, il tallone",
+          "description": "Il chip gigante surriscalda e consuma energia come una centrale. I concorrenti hanno soluzioni alternative.",
+          "visual_hint": "termometro industriale",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "industrial thermometer",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Industrial_infrared_thermometer_with_additional_temperature_probe.jpg/960px-Industrial_infrared_thermometer_with_additional_temperature_probe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "IPO colossale, rischi enormi",
+          "description": "Gli investitori guardano due cose: dipendenza da OpenAI e capacità tecnologica a lungo termine.",
+          "visual_hint": "grafico IPO in salita",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stock market chart",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Entri o aspetti il crollo?",
+          "description": "Compri azioni con un unico cliente miliardario o aspetti di vedere se quel cliente resta?",
+          "visual_hint": "freccia decidere bivio",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "road fork sign"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Cerebras ha il chip più grande del mondo.",
+        "Ma dipende quasi solo da OpenAI.",
+        "Se OpenAI cambia fornitore, addio.",
+        "Il chip scala troppo e consuma tanto.",
+        "IPO in arrivo. Entri o aspetti?"
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

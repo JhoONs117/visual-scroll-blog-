@@ -23,5 +23,39 @@
   ],
   "savedAt": "2026-05-06T12:46:34.002Z",
   "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
-  "instagram_caption": "LG e Nvidia stanno collaborando per addestrare robot in simulazioni cloud, poi trasferirli direttamente in fabbrica. 🏭 Non più solo chatbot: l'AI impara a controllare macchine, movimenti e decisioni nel mondo fisico, senza bisogno di supervisione umana. I modelli virtuali testano ogni scenario, e i robot reali eseguono già in sicurezza. Per chi lavora nella logistica o nella produzione, significa linee più veloci e operazioni gestite da remoto. Per gli altri, la domanda è: tra quanti anni il tuo autista-assistente funzionerà così? 🤖"
+  "instagram_caption": "LG e Nvidia stanno collaborando per addestrare robot in simulazioni cloud, poi trasferirli direttamente in fabbrica. 🏭 Non più solo chatbot: l'AI impara a controllare macchine, movimenti e decisioni nel mondo fisico, senza bisogno di supervisione umana. I modelli virtuali testano ogni scenario, e i robot reali eseguono già in sicurezza. Per chi lavora nella logistica o nella produzione, significa linee più veloci e operazioni gestite da remoto. Per gli altri, la domanda è: tra quanti anni il tuo autista-assistente funzionerà così? 🤖",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "what-lg-and-nvidia-s-talks-reveal-about-the-future",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "LG e NVIDIA si sono messi a parlare. E non è per una TV più grande. C'è un'altra mossa in corso.",
+        "Uniscono l'AI dei chip NVIDIA ai robot domestici. Ma non per farli ballare. Per insegnargli a fare cose utili.",
+        "Il trucco è che li addestrano offline. Tipo che imparano da soli mentre non li guardi. Più bravi ogni giorno senza che tu faccia nulla.",
+        "Ecco il punto: aggiornerai i tuoi elettrodomestici via cloud. Come il software del telefono, ma per robot che puliscono o cucinano.",
+        "La lezione vera? Non comprare hardware stupido. Scegli roba che possa migliorare con l'AI futura. O resti indietro."
+      ]
+    },
+    "instagram": {
+      "caption": "LG e Nvidia stanno collaborando per addestrare robot in simulazioni cloud, poi trasferirli direttamente in fabbrica. 🏭 Non più solo chatbot: l'AI impara a controllare macchine, movimenti e decisioni nel mondo fisico, senza bisogno di supervisione umana. I modelli virtuali testano ogni scenario, e i robot reali eseguono già in sicurezza. Per chi lavora nella logistica o nella produzione, significa linee più veloci e operazioni gestite da remoto. Per gli altri, la domanda è: tra quanti anni il tuo autista-assistente funzionerà così? 🤖",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "LG e NVIDIA stanno parlando.",
+        "Uniscono chip AI ai robot casalinghi.",
+        "Li addestrano offline, senza di te.",
+        "Aggiornerai i robot via cloud.",
+        "Scegli hardware che evolve con l'AI."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

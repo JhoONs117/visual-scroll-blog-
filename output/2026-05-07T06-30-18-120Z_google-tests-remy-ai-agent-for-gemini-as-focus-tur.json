@@ -66,5 +66,80 @@
     }
   ],
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Google-tests-Remy-AI-agent-for-Gemini-as-focus-turns-to-user-control-scaled-e1778036705555.jpg",
-  "instagram_caption": "Google ha attivato Remy, un agente AI integrato in Gemini che prenota viaggi, acquista biglietti e gestisce calendari senza che tu muova un dito.  \nMa ogni azione — dal volo all’incontro — resta sotto il tuo controllo: devi approvarla prima che parta.  \nPer attivarlo, basta entrare nelle impostazioni di Gemini ora.  \nSe smettessi di cliccare pulsanti, quanto tempo libero ti ritroveresti in tasca? 🧠✈️✅📅"
+  "instagram_caption": "Google ha attivato Remy, un agente AI integrato in Gemini che prenota viaggi, acquista biglietti e gestisce calendari senza che tu muova un dito.  \nMa ogni azione — dal volo all’incontro — resta sotto il tuo controllo: devi approvarla prima che parta.  \nPer attivarlo, basta entrare nelle impostazioni di Gemini ora.  \nSe smettessi di cliccare pulsanti, quanto tempo libero ti ritroveresti in tasca? 🧠✈️✅📅",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-tests-remy-ai-agent-for-gemini-as-focus-tur",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Remy è un agente AI che vive dentro l'app di Gemini e sa già prenotare voli e gestire task. Il punto è: può agire per te, ma solo se glielo permetti.",
+        "Google lo sta testando con un progetto chiamato Remy. È dentro l'app Gemini. Non è un plugin o un esperimento separato: è un vero agente autonomo che lavora in background.",
+        "Il bello è che Remy esegue operazioni reali: prenota voli, gestisce calendari, compila moduli. Ma prima di ogni azione, ti chiede conferma. Non fa mai nulla senza il tuo via.",
+        "Il controllo è totale. Tu decidi se e quando intervenire. È come avere un assistente che ti mostra tutto prima di agire. Non un maggiordomo cieco, ma un esecutore che riferisce.",
+        "Ora puoi testare i suoi limiti direttamente. Entra in Gemini, attiva Remy e digli il task che ti sembra più complesso. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore."
+      ]
+    },
+    "instagram": {
+      "caption": "Google ha attivato Remy, un agente AI integrato in Gemini che prenota viaggi, acquista biglietti e gestisce calendari senza che tu muova un dito.  \nMa ogni azione — dal volo all’incontro — resta sotto il tuo controllo: devi approvarla prima che parta.  \nPer attivarlo, basta entrare nelle impostazioni di Gemini ora.  \nSe smettessi di cliccare pulsanti, quanto tempo libero ti ritroveresti in tasca? 🧠✈️✅📅",
+      "carousel": [
+        {
+          "hook": "Agirà per te, ma solo se lo permetti",
+          "description": "Remy è un agente AI dentro Gemini che prenota voli e gestisce task. Il punto: può agire, ma solo con la tua approvazione.",
+          "visual_hint": "Mano che clicca su un pulsante di conferma su schermo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "hand clicking confirmation button screen"
+        },
+        {
+          "hook": "Non è un plugin, è un agente autonomo",
+          "description": "Google testa Remy dentro l'app Gemini. Esegue operazioni reali: prenota voli, gestisce calendari, compila moduli.",
+          "visual_hint": "Interfaccia dell'app Gemini con pulsante Remy",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone app interface calendar"
+        },
+        {
+          "hook": "Prima di ogni azione, chiede conferma",
+          "description": "Remy ti mostra tutto prima di agire. Non fa mai nulla senza il tuo via. È un esecutore che riferisce, non un maggiordomo cieco.",
+          "visual_hint": "Flowchart di approvazione con spunte rosse e verdi",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "checkmark cross approval flowchart"
+        },
+        {
+          "hook": "Controllo totale: decidi tu se intervenire",
+          "description": "Remy esegue in background, ma tu hai l'ultima parola. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore.",
+          "visual_hint": "Mano che ferma un processo automatico su tablet",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand stopping automatic process tablet"
+        },
+        {
+          "hook": "Testa i suoi limiti. Entra in Gemini ora.",
+          "description": "Attiva Remy e digli il task più complesso che hai. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore.",
+          "visual_hint": "Tasto 'Attiva Remy' con effetto glow blu",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "glowing blue button activate text"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "C'è un nuovo agente AI dentro Gemini.",
+        "Si chiama Remy e prenota voli da solo.",
+        "Ma prima fa vedere tutto e chiede il via.",
+        "Tu controlli ogni singola mossa.",
+        "Provaci oggi e digli il task più assurdo."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

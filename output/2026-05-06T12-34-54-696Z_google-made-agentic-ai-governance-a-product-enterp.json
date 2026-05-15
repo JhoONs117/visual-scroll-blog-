@@ -27,5 +27,43 @@
   ],
   "savedAt": "2026-05-06T12:34:54.696Z",
   "link": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
-  "instagram_caption": "Google ha messo in vendita un software per gestire la governance dell'AI, non un semplice aggiornamento. Le aziende devono ancora capire come seguire regole che cambiano ogni settimana 📋. Questo servizio promette di tenerti in regola senza che tu diventi un esperto legale, automatizzando audit e controlli di sicurezza 🛡️. Concretamente: se lavori con strumenti intelligenti, puoi delegare la burocrazia a un sistema che valida le tue policy in tempo reale. Una banca lo usa già per i controlli automatici. Hai già un piano su come gestire questi obblighi nuovi? 💡"
+  "instagram_caption": "Google ha messo in vendita un software per gestire la governance dell'AI, non un semplice aggiornamento. Le aziende devono ancora capire come seguire regole che cambiano ogni settimana 📋. Questo servizio promette di tenerti in regola senza che tu diventi un esperto legale, automatizzando audit e controlli di sicurezza 🛡️. Concretamente: se lavori con strumenti intelligenti, puoi delegare la burocrazia a un sistema che valida le tue policy in tempo reale. Una banca lo usa già per i controlli automatici. Hai già un piano su come gestire questi obblighi nuovi? 💡",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-made-agentic-ai-governance-a-product-enterp",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Google vende governance AI come prodotto. La tua azienda? Ancora non sa cos’è.",
+        "Agentic AI non aspetta il tuo permesso. Decide azioni da sola, senza supervisione umana.",
+        "Le policy tradizionali sono carta straccia. Non processano decisioni autonome in tempo reale.",
+        "Chi non aggiorna rischi e controlli perde il controllo. Non è una profezia, è già ora.",
+        "Mappa ogni agente AI che usi. La governance è un prodotto, non una slide in un meeting."
+      ]
+    },
+    "instagram": {
+      "caption": "Google ha messo in vendita un software per gestire la governance dell'AI, non un semplice aggiornamento. Le aziende devono ancora capire come seguire regole che cambiano ogni settimana 📋. Questo servizio promette di tenerti in regola senza che tu diventi un esperto legale, automatizzando audit e controlli di sicurezza 🛡️. Concretamente: se lavori con strumenti intelligenti, puoi delegare la burocrazia a un sistema che valida le tue policy in tempo reale. Una banca lo usa già per i controlli automatici. Hai già un piano su come gestire questi obblighi nuovi? 💡",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Google vende governance AI come prodotto.",
+        "La tua azienda non lo fa.",
+        "Agentic AI decide da sola.",
+        "Nessun umano la controlla.",
+        "Le policy attuali non bastano.",
+        "Aggiorna rischi e controlli.",
+        "Chi non lo fa, perde.",
+        "Mappa ogni agente AI.",
+        "Governance è prodotto, non slide."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

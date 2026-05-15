@@ -22,5 +22,39 @@
     "Aggiorna, o sei già indietro."
   ],
   "savedAt": "2026-05-06T12:53:19.970Z",
-  "instagram_caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?"
+  "instagram_caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-releases-gpt-5-5-instant-a-new-default-mode",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Il tuo AI sta già mentendo con più sicurezza. E non ti stai nemmeno accorgendo di quanto sia veloce.",
+        "Da oggi GPT-5.5 Instant è il modello predefinito in ChatGPT. Risponde in millisecondi.",
+        "La latenza cala del 40%. Significa che il tempo tra la tua domanda e la risposta si è ridotto quasi a zero.",
+        "Per chi scrive codice, le iterazioni sono diventate istantanee. Provi, sbagli, correggi, tutto in un respiro.",
+        "Il vecchio modello è già obsoleto. Se non aggiorni oggi, stai programmando col freno a mano tirato."
+      ]
+    },
+    "instagram": {
+      "caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Il tuo AI è più veloce a mentire.",
+        "GPT-5.5 Instant è già qui.",
+        "Risponde in millisecondi adesso.",
+        "Chi scrive codice vola via.",
+        "Aggiorna, o sei già indietro."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

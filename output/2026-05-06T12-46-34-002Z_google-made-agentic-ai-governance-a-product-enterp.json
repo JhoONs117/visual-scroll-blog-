@@ -23,5 +23,39 @@
   ],
   "savedAt": "2026-05-06T12:46:34.002Z",
   "link": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
-  "instagram_caption": "Google ha messo in vendita un software per gestire la governance dell'AI, non un semplice aggiornamento. Le aziende devono ancora capire come seguire regole che cambiano ogni settimana 📋. Questo servizio promette di tenerti in regola senza che tu diventi un esperto legale, automatizzando audit e controlli di sicurezza 🛡️. Concretamente: se lavori con strumenti intelligenti, puoi delegare la burocrazia a un sistema che valida le tue policy in tempo reale. Una banca lo usa già per i controlli automatici. Hai già un piano su come gestire questi obblighi nuovi? 💡"
+  "instagram_caption": "Google ha messo in vendita un software per gestire la governance dell'AI, non un semplice aggiornamento. Le aziende devono ancora capire come seguire regole che cambiano ogni settimana 📋. Questo servizio promette di tenerti in regola senza che tu diventi un esperto legale, automatizzando audit e controlli di sicurezza 🛡️. Concretamente: se lavori con strumenti intelligenti, puoi delegare la burocrazia a un sistema che valida le tue policy in tempo reale. Una banca lo usa già per i controlli automatici. Hai già un piano su come gestire questi obblighi nuovi? 💡",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-made-agentic-ai-governance-a-product-enterp",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "La tua azienda sta comprando governance AI come un prodotto. È l'errore più costoso che farai quest'anno.",
+        "Agenti AI autonomi già decidono su assunzioni, crediti e sanità. Chi firma per loro?",
+        "Scrivere policy per ogni scenario è impossibile. Le regole umane crollano quando le macchine decidono in tempo reale.",
+        "Devi chiederti: ogni azione AI deve passare da un umano? Fino a che punto?",
+        "Governance AI funziona solo se diventa cultura aziendale, non un foglio di policy. Ripensala o le macchine decideranno senza di te."
+      ]
+    },
+    "instagram": {
+      "caption": "Google ha messo in vendita un software per gestire la governance dell'AI, non un semplice aggiornamento. Le aziende devono ancora capire come seguire regole che cambiano ogni settimana 📋. Questo servizio promette di tenerti in regola senza che tu diventi un esperto legale, automatizzando audit e controlli di sicurezza 🛡️. Concretamente: se lavori con strumenti intelligenti, puoi delegare la burocrazia a un sistema che valida le tue policy in tempo reale. Una banca lo usa già per i controlli automatici. Hai già un piano su come gestire questi obblighi nuovi? 💡",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "State comprando governance AI come fosse un software.",
+        "Gli agenti autonomi già gestiscono decisioni critiche.",
+        "Le policy umane non basta per farli funzionare.",
+        "Chi approva le loro azioni? Serve ridefinirlo ora.",
+        "Governance non è prodotto, ma cultura aziendale."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

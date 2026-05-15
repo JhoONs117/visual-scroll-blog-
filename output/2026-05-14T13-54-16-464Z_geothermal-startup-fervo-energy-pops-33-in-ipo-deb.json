@@ -1,0 +1,154 @@
+{
+  "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
+  "slides": [
+    "Fervo Energy salta del 33% in borsa. La causa?",
+    "AI data center servono più elettricità del previsto.",
+    "Il geotermico fornisce base load, non intermittente.",
+    "Investitori ora guardano start-up con licenze già pronte.",
+    "Verifica se la tua utility ha contratti geotermici attivi."
+  ],
+  "thread_text": [
+    "Il geotermico non è più un'energia di nicchia. Sta diventando la spina dorsale dei data center AI. Ecco perché gli investitori stanno puntando tutto sulle start-up con licenze già pronte.",
+    "Fervo Energy è salita del 33% in borsa in un giorno. Il motivo? I data center AI stanno consumando molta più elettricità del previsto e il solare da solo non basta.",
+    "Il problema dell'intermittenza è reale: di notte o senza vento, i server devono comunque funzionare. Il geotermico garantisce base load stabile 24/7, senza batterie.",
+    "Gli investitori hanno capito che non serve inseguire promesse future. Le start-up con permessi geotermici già approvati hanno un vantaggio competitivo enorme oggi.",
+    "Controlla sul sito della tua utility se ha contratti geotermici attivi. Se non li ha, il problema è tuo — e della bolletta che pagherai tra due anni."
+  ],
+  "video_script": [
+    "Il geotermico adesso è la salvezza dei data center AI.",
+    "Fervo Energy è volata in borsa del 33%.",
+    "I data center consumano molto più del previsto.",
+    "Il solare e l'eoliano non bastano sempre.",
+    "Il geotermico funziona 24 ore su 24."
+  ],
+  "instagram_caption": "Una startup geotermica è volata del 33% in borsa al suo debutto. Motivo: i data center usati per l'intelligenza artificiale consumano molta più elettricità del previsto ⚡. Il solare e l'eolico non bastano: di notte o senza vento i server devono restare accesi h24. Il geotermico garantisce energia stabile e continua, proprio come una centrale a gas ma senza emissioni ♻️. Per te che usi ChatGPT o altri tool AI, questo significa che le aziende stanno già comprando elettricità a lungo termine per tenere accesi i server che rispondono ai tuoi comandi. Hai mai guardato se la tua utility locale ha già firmato contratti geotermici? 💡",
+  "carousel_slides": [
+    {
+      "hook": "Il geotermico salta del 33%",
+      "description": "I data center AI consumano più elettricità del previsto e il solare da solo non basta.",
+      "visual_hint": "Grafico a candela in rialzo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart up"
+    },
+    {
+      "hook": "Notte e nuvole bloccano il sole",
+      "description": "I server AI devono funzionare 24/7, e il geotermico garantisce base load stabile senza batterie.",
+      "visual_hint": "Server lampeggianti al buio",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room dark",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Base load stabile senza batterie",
+      "description": "Il geotermico fornisce elettricità continua, risolvendo l'intermittenza che affligge solare ed eolico.",
+      "visual_hint": "Vapore che esce da tubi",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "geothermal steam pipes",
+      "image": "https://images.pexels.com/photos/31992416/pexels-photo-31992416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Licenze già pronte vincono la gara",
+      "description": "Le start-up con permessi geotermici approvati hanno un vantaggio competitivo enorme oggi per gli investitori.",
+      "visual_hint": "Documento timbrato in mano",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "hand holding permit paper",
+      "image": "https://images.pexels.com/photos/15084275/pexels-photo-15084275.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cerca contratti geotermici nella tua utility",
+      "description": "Se la tua utility non ha accordi geotermici attivi, la tua bolletta schizzerà tra due anni.",
+      "visual_hint": "Bolletta con cifre in rosso",
+      "layout_type": "cta-final",
+      "icon": "vibration",
+      "image_query": "electric bill payment",
+      "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275460528.jpeg?resize=1200,800",
+  "pubDate": "Wed, 13 May 2026 17:42:20 +0000",
+  "savedAt": "2026-05-14T13:55:42.087Z",
+  "link": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "geothermal-startup-fervo-energy-pops-33-in-ipo-deb",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Il geotermico non è più un'energia di nicchia. Sta diventando la spina dorsale dei data center AI. Ecco perché gli investitori stanno puntando tutto sulle start-up con licenze già pronte.",
+        "Fervo Energy è salita del 33% in borsa in un giorno. Il motivo? I data center AI stanno consumando molta più elettricità del previsto e il solare da solo non basta.",
+        "Il problema dell'intermittenza è reale: di notte o senza vento, i server devono comunque funzionare. Il geotermico garantisce base load stabile 24/7, senza batterie.",
+        "Gli investitori hanno capito che non serve inseguire promesse future. Le start-up con permessi geotermici già approvati hanno un vantaggio competitivo enorme oggi.",
+        "Controlla sul sito della tua utility se ha contratti geotermici attivi. Se non li ha, il problema è tuo — e della bolletta che pagherai tra due anni."
+      ]
+    },
+    "instagram": {
+      "caption": "Una startup geotermica è volata del 33% in borsa al suo debutto. Motivo: i data center usati per l'intelligenza artificiale consumano molta più elettricità del previsto ⚡. Il solare e l'eolico non bastano: di notte o senza vento i server devono restare accesi h24. Il geotermico garantisce energia stabile e continua, proprio come una centrale a gas ma senza emissioni ♻️. Per te che usi ChatGPT o altri tool AI, questo significa che le aziende stanno già comprando elettricità a lungo termine per tenere accesi i server che rispondono ai tuoi comandi. Hai mai guardato se la tua utility locale ha già firmato contratti geotermici? 💡",
+      "carousel": [
+        {
+          "hook": "Il geotermico salta del 33%",
+          "description": "I data center AI consumano più elettricità del previsto e il solare da solo non basta.",
+          "visual_hint": "Grafico a candela in rialzo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart up"
+        },
+        {
+          "hook": "Notte e nuvole bloccano il sole",
+          "description": "I server AI devono funzionare 24/7, e il geotermico garantisce base load stabile senza batterie.",
+          "visual_hint": "Server lampeggianti al buio",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room dark",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Base load stabile senza batterie",
+          "description": "Il geotermico fornisce elettricità continua, risolvendo l'intermittenza che affligge solare ed eolico.",
+          "visual_hint": "Vapore che esce da tubi",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "geothermal steam pipes",
+          "image": "https://images.pexels.com/photos/31992416/pexels-photo-31992416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Licenze già pronte vincono la gara",
+          "description": "Le start-up con permessi geotermici approvati hanno un vantaggio competitivo enorme oggi per gli investitori.",
+          "visual_hint": "Documento timbrato in mano",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "hand holding permit paper",
+          "image": "https://images.pexels.com/photos/15084275/pexels-photo-15084275.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cerca contratti geotermici nella tua utility",
+          "description": "Se la tua utility non ha accordi geotermici attivi, la tua bolletta schizzerà tra due anni.",
+          "visual_hint": "Bolletta con cifre in rosso",
+          "layout_type": "cta-final",
+          "icon": "vibration",
+          "image_query": "electric bill payment",
+          "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Il geotermico adesso è la salvezza dei data center AI.",
+        "Fervo Energy è volata in borsa del 33%.",
+        "I data center consumano molto più del previsto.",
+        "Il solare e l'eoliano non bastano sempre.",
+        "Il geotermico funziona 24 ore su 24."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
+}

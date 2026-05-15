@@ -71,5 +71,84 @@
   "savedAt": "2026-05-09T02:05:11.545Z",
   "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
   "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024",
-  "instagram_caption": "Oracle ha rifiutato di rinegoziare le buonuscite con i dipendenti licenziati, punto e basta. 🛑 I lavoratori hanno chiesto condizioni migliori per l’uscita, ma l’azienda ha detto no secco. Il problema? Le clausole che bloccano ogni trattativa erano già scritte nei contratti nuovi da mesi, ma nessuno le aveva lette. 📄 Se lavori in una big tech, non aspettare l’annuncio di un taglio per aprire il pdf firmato ieri. Controlla ora se c’è una riga nascosta che toglie ogni margine di manovra. 👀 Tu hai mai riletto il tuo contratto dopo averlo firmato?"
+  "instagram_caption": "Oracle ha rifiutato di rinegoziare le buonuscite con i dipendenti licenziati, punto e basta. 🛑 I lavoratori hanno chiesto condizioni migliori per l’uscita, ma l’azienda ha detto no secco. Il problema? Le clausole che bloccano ogni trattativa erano già scritte nei contratti nuovi da mesi, ma nessuno le aveva lette. 📄 Se lavori in una big tech, non aspettare l’annuncio di un taglio per aprire il pdf firmato ieri. Controlla ora se c’è una riga nascosta che toglie ogni margine di manovra. 👀 Tu hai mai riletto il tuo contratto dopo averlo firmato?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "laid-off-oracle-workers-tried-to-negotiate-better-",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "I dipendenti scoprono che le clausole erano già scritte. Non nei contratti vecchi: nei nuovi, da mesi.",
+        "Oracle licenzia. L'azienda rifiuta ogni rinegoziazione collettiva. Se chiedi migliori buonuscite, la risposta è no secco.",
+        "Chi ha firmato l'ultima volta senza leggere si ritrova ora con zero margine di manovra. Le clausole erano lì, nascoste.",
+        "Scalata: controlla il tuo contratto prima del prossimo taglio. Non aspettare l'annuncio per aprire l'PDF.",
+        "Non firmare senza leggere le righe nascoste. C'è una che blocca la rinegoziazione. Sei sicuro di non averla già sottoscritta?"
+      ]
+    },
+    "instagram": {
+      "caption": "Oracle ha rifiutato di rinegoziare le buonuscite con i dipendenti licenziati, punto e basta. 🛑 I lavoratori hanno chiesto condizioni migliori per l’uscita, ma l’azienda ha detto no secco. Il problema? Le clausole che bloccano ogni trattativa erano già scritte nei contratti nuovi da mesi, ma nessuno le aveva lette. 📄 Se lavori in una big tech, non aspettare l’annuncio di un taglio per aprire il pdf firmato ieri. Controlla ora se c’è una riga nascosta che toglie ogni margine di manovra. 👀 Tu hai mai riletto il tuo contratto dopo averlo firmato?",
+      "carousel": [
+        {
+          "hook": "Clausole già scritte da mesi",
+          "description": "Dipendenti scoprono che le clausole bloccavano la rinegoziazione. Non nei contratti vecchi: nei nuovi.",
+          "visual_hint": "Documento legale con testo nascosto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "legal document contract"
+        },
+        {
+          "hook": "Oracle dice no secco",
+          "description": "L'azienda rifiuta ogni rinegoziazione collettiva. Se chiedi migliori buonuscite, risposta è no.",
+          "visual_hint": "Cartello rosso con scritta NO",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "red stop sign",
+          "image": "https://images.pexels.com/photos/25383838/pexels-photo-25383838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Zero margine dopo la firma",
+          "description": "Chi ha firmato senza leggere si ritrova senza margine di manovra. Le clausole erano lì, nascoste.",
+          "visual_hint": "Lente d'ingrandimento su righe piccole",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass paper",
+          "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Controlla prima del taglio",
+          "description": "Non aspettare l'annuncio per aprire il PDF. Scalata: controlla il tuo contratto già ora.",
+          "visual_hint": "Mano che apre un file PDF",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand opening laptop",
+          "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non firmare righe nascoste",
+          "description": "C'è una clausola che blocca la rinegoziazione. Sei sicuro di non averla già sottoscritta?",
+          "visual_hint": "Penna rossa su clausola cerchiata",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "highlighted contract clause",
+          "image": "https://images.pexels.com/photos/8470801/pexels-photo-8470801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hanno scoperto le clausole solo dopo.",
+        "Oracle ha già detto no.",
+        "Non hanno potuto nemmeno chiedere.",
+        "Controlla il contratto adesso.",
+        "Se hai firmato, sei già dentro."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

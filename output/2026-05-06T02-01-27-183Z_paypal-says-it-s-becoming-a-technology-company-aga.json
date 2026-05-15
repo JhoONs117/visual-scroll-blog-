@@ -22,5 +22,39 @@
     "Ad esempio, blocca pagamenti sospetti in automatico."
   ],
   "savedAt": "2026-05-06T02:01:27.183Z",
-  "instagram_caption": "PayPal ha appena dichiarato di voler tornare ad essere un'azienda tecnologica, e il motore di questa trasformazione è l'intelligenza artificiale. Invece di limitarsi a muovere soldi, l'azienda sta addestrando modelli AI che imparano le tue abitudini di pagamento per rendere tutto più sicuro e veloce 💳. Il vecchio sistema di regole fisse per bloccare le frodi è stato sostituito da un'AI che decide in tempo reale cosa è sospetto, spesso prima ancora che tu premi 'invia' ⚡. Il risultato? Transazioni più rapide per te e frodi fermate all'istante, senza che tu debba fare nulla 🛡️. Tu hai mai notato di essere protetto da un sistema che non vedi?"
+  "instagram_caption": "PayPal ha appena dichiarato di voler tornare ad essere un'azienda tecnologica, e il motore di questa trasformazione è l'intelligenza artificiale. Invece di limitarsi a muovere soldi, l'azienda sta addestrando modelli AI che imparano le tue abitudini di pagamento per rendere tutto più sicuro e veloce 💳. Il vecchio sistema di regole fisse per bloccare le frodi è stato sostituito da un'AI che decide in tempo reale cosa è sospetto, spesso prima ancora che tu premi 'invia' ⚡. Il risultato? Transazioni più rapide per te e frodi fermate all'istante, senza che tu debba fare nulla 🛡️. Tu hai mai notato di essere protetto da un sistema che non vedi?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "paypal-says-it-s-becoming-a-technology-company-aga",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "PayPal ha appena fatto una mossa che sembra passata inosservata: è tornata a essere un'azienda tech. La loro arma segreta? L'intelligenza artificiale.",
+        "Non stanno parlando di chatbot. Stanno riscrivendo come funzionano i pagamenti digitali, e la sicurezza è il cuore del cambiamento.",
+        "Il risultato? Transazioni più veloci, meno frodi e utenti che non devono più scervellarsi su 2FA o blocchi improvvisi.",
+        "Hanno sviluppato strumenti AI interni che analizzano ogni transazione in tempo reale, imparando dai pattern sospetti.",
+        "Esempio concreto: se il sistema rileva un pagamento anomalo, lo blocca prima ancora che tu te ne accorga. Nessuna segnalazione, nessun attrito."
+      ]
+    },
+    "instagram": {
+      "caption": "PayPal ha appena dichiarato di voler tornare ad essere un'azienda tecnologica, e il motore di questa trasformazione è l'intelligenza artificiale. Invece di limitarsi a muovere soldi, l'azienda sta addestrando modelli AI che imparano le tue abitudini di pagamento per rendere tutto più sicuro e veloce 💳. Il vecchio sistema di regole fisse per bloccare le frodi è stato sostituito da un'AI che decide in tempo reale cosa è sospetto, spesso prima ancora che tu premi 'invia' ⚡. Il risultato? Transazioni più rapide per te e frodi fermate all'istante, senza che tu debba fare nulla 🛡️. Tu hai mai notato di essere protetto da un sistema che non vedi?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "PayPal punta tutto sull’AI, non è una moda.",
+        "Rende i pagamenti più veloci e sicuri.",
+        "Meno frodi, più clienti sereni.",
+        "Strumenti AI per analizzare ogni transazione.",
+        "Ad esempio, blocca pagamenti sospetti in automatico."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

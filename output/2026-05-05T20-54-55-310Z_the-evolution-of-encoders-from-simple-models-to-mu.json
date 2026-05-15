@@ -64,5 +64,80 @@
       "image_query": "unified pipeline icon"
     }
   ],
-  "instagram_caption": "Prima gli encoder trasformavano solo testo in numeri. Ora gli stessi modelli possono elaborare parole, immagini e audio insieme, creando una rappresentazione unica del mondo. Conta perché un'AI che capisce più input contemporaneamente prende decisioni migliori, non separa ciò che nella realtà è connesso. Per te significa che strumenti come assistenti vocali o motori di ricerca potranno interpretare una foto e la tua domanda come un unico concetto, senza fraintesi. Quale dato \"nascosto\" nella tua giornata — suoni, gesti, temperature — potrebbe insegnare a un encoder qualcosa di nuovo? 🔢🧠📸🎵"
+  "instagram_caption": "Prima gli encoder trasformavano solo testo in numeri. Ora gli stessi modelli possono elaborare parole, immagini e audio insieme, creando una rappresentazione unica del mondo. Conta perché un'AI che capisce più input contemporaneamente prende decisioni migliori, non separa ciò che nella realtà è connesso. Per te significa che strumenti come assistenti vocali o motori di ricerca potranno interpretare una foto e la tua domanda come un unico concetto, senza fraintesi. Quale dato \"nascosto\" nella tua giornata — suoni, gesti, temperature — potrebbe insegnare a un encoder qualcosa di nuovo? 🔢🧠📸🎵",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-evolution-of-encoders-from-simple-models-to-mu",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Un singolo encoder oggi elabora testo, immagini e audio contemporaneamente. Non tre modelli separati, ma uno solo per tutte le modalità.",
+        "Fino a poco fa gli encoder erano specializzati: uno per il testo, uno per le immagini, uno per il suono. Ogni tipo di dato richiedeva il suo modello dedicato.",
+        "Ora la svolta: un unico encoder unificato processa simultaneamente immagini, suoni e parole. Niente più pipeline separate, niente più sincronizzazione tra modelli diversi.",
+        "La conseguenza diretta: se la tua app non integra già più tipi di dati in un unico passaggio, stai perdendo efficienza e accuratezza rispetto a chi lo fa.",
+        "I modelli multimodali unificati costano meno da addestrare e girano più veloci in produzione. Prova a unificare il tuo input pipeline la prossima settimana."
+      ]
+    },
+    "instagram": {
+      "caption": "Prima gli encoder trasformavano solo testo in numeri. Ora gli stessi modelli possono elaborare parole, immagini e audio insieme, creando una rappresentazione unica del mondo. Conta perché un'AI che capisce più input contemporaneamente prende decisioni migliori, non separa ciò che nella realtà è connesso. Per te significa che strumenti come assistenti vocali o motori di ricerca potranno interpretare una foto e la tua domanda come un unico concetto, senza fraintesi. Quale dato \"nascosto\" nella tua giornata — suoni, gesti, temperature — potrebbe insegnare a un encoder qualcosa di nuovo? 🔢🧠📸🎵",
+      "carousel": [
+        {
+          "hook": "Un solo encoder fa tutto",
+          "description": "Un singolo encoder oggi elabora testo, immagini e audio contemporaneamente.",
+          "visual_hint": "tabella confronto prima/dopo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "unified AI encoder"
+        },
+        {
+          "hook": "Prima: modelli separati",
+          "description": "Ogni tipo di dato richiedeva il suo modello specializzato. Tre pipeline per tre modalità.",
+          "visual_hint": "tre scatole separate",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "separate data pipelines"
+        },
+        {
+          "hook": "Ora: unico processore multimodale",
+          "description": "Un encoder unificato processa simultaneamente immagini, suoni e parole. Niente più sincronizzazione.",
+          "visual_hint": "flusso convergente",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "fused data stream"
+        },
+        {
+          "hook": "La tua app è già multimodale?",
+          "description": "Se non integri più dati in un unico passaggio, perdi efficienza e accuratezza.",
+          "visual_hint": "mano che tocca schermo dati",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand touching data screen"
+        },
+        {
+          "hook": "Unifica il tuo input pipeline",
+          "description": "Modelli unificati costano meno da addestrare e girano più veloci in produzione. Prova ora.",
+          "visual_hint": "freccia che unisce tre icone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "unified pipeline icon"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ora un unico encoder gestisce testo, immagini e audio.",
+        "Prima servivano tre modelli separati per ogni tipo di dato.",
+        "La novità è che tutto passa in un unico passaggio.",
+        "Se non unisci i tuoi dati, resti indietro.",
+        "Costa meno ed è più veloce. Provalo."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

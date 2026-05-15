@@ -90,4 +90,41 @@ async function fetchFoodArticles() {
   return articles;
 }
 
-module.exports = { fetchFoodArticles, fetchArticleContent };
+async function fetchFoodArticlesRaw() {
+  fs.mkdirSync(FOOD_OUTPUT_DIR, { recursive: true });
+
+  const existingSlugs = new Set(
+    fs.readdirSync(FOOD_OUTPUT_DIR)
+      .filter(f => f.endsWith('.json'))
+      .map(f => {
+        try {
+          const data = JSON.parse(fs.readFileSync(path.join(FOOD_OUTPUT_DIR, f), 'utf8'));
+          return data.slug || '';
+        } catch {
+          return '';
+        }
+      })
+      .filter(Boolean)
+  );
+
+  const parser = new Parser();
+  const results = await Promise.allSettled(FEEDS.map(url => parser.parseURL(url)));
+
+  const items = [];
+  results.forEach((res, i) => {
+    if (res.status === 'rejected') {
+      console.warn(`Feed food ${FEEDS[i]} fallito:`, res.reason?.message || res.reason);
+      return;
+    }
+    for (const item of res.value.items || []) {
+      items.push({ title: item.title || '', link: item.link || '', pubDate: item.pubDate || '' });
+    }
+  });
+
+  return items
+    .filter(item => WHITELIST.some(w => item.title.toLowerCase().includes(w)))
+    .filter(item => !existingSlugs.has(slug(item.title)))
+    .map(item => ({ title: item.title, slug: slug(item.title), link: item.link, pubDate: item.pubDate }));
+}
+
+module.exports = { fetchFoodArticles, fetchFoodArticlesRaw, fetchArticleContent };

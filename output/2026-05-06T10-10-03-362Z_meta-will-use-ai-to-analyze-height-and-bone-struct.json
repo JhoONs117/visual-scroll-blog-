@@ -66,5 +66,82 @@
       "image_query": "privacy settings app"
     }
   ],
-  "instagram_caption": "Meta sta testando un sistema che analizza altezza e struttura ossea dai video per beccare i minorenni che mentono sull'età. Non serve controllare foto o documenti: l'AI stima l'età reale con una precisione che supera qualsiasi bugia dichiarata da un ragazzino in fase di registrazione 👀. L'obiettivo è impedire ai minori di aggirare i blocchi di sicurezza sugli account, dando ai genitori un controllo parentale senza doversi fidare della parola — o chiedere documenti 🛡️. Con questo sistema, chi lavora con account di minori (es. creator o gestori di community) sa che la verifica anagrafica diventa automatica e oggettiva, basata sui dati biometrici del video 📐. Tu ti fideresti di un algoritmo che “vede” l’età dalle ossa di tuo figlio?"
+  "instagram_caption": "Meta sta testando un sistema che analizza altezza e struttura ossea dai video per beccare i minorenni che mentono sull'età. Non serve controllare foto o documenti: l'AI stima l'età reale con una precisione che supera qualsiasi bugia dichiarata da un ragazzino in fase di registrazione 👀. L'obiettivo è impedire ai minori di aggirare i blocchi di sicurezza sugli account, dando ai genitori un controllo parentale senza doversi fidare della parola — o chiedere documenti 🛡️. Con questo sistema, chi lavora con account di minori (es. creator o gestori di community) sa che la verifica anagrafica diventa automatica e oggettiva, basata sui dati biometrici del video 📐. Tu ti fideresti di un algoritmo che “vede” l’età dalle ossa di tuo figlio?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-will-use-ai-to-analyze-height-and-bone-struct",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Meta scansiona ossa e altezza per stimare la tua età reale. Se menti sulla data di nascita, l'algoritmo può bloccarti il profilo.",
+        "Il problema: questi sistemi non sono precisi per tutti. Alcuni studi mostrano che l'algoritmo sbaglia più spesso su certi gruppi etnici.",
+        "Meta lo sta testando per proteggere i minori. Ma se l'AI ti classifica male, rischi di perdere l'accesso all'account senza un motivo valido.",
+        "La procedura è già attiva in alcuni paesi. Scansionano dati biometrici – ossa e altezza – per confrontarli con l'età dichiarata.",
+        "Hai mai dato il consenso a Meta per usare i tuoi dati biometrici? Controlla oggi nelle impostazioni privacy se l'opzione è abilitata."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta sta testando un sistema che analizza altezza e struttura ossea dai video per beccare i minorenni che mentono sull'età. Non serve controllare foto o documenti: l'AI stima l'età reale con una precisione che supera qualsiasi bugia dichiarata da un ragazzino in fase di registrazione 👀. L'obiettivo è impedire ai minori di aggirare i blocchi di sicurezza sugli account, dando ai genitori un controllo parentale senza doversi fidare della parola — o chiedere documenti 🛡️. Con questo sistema, chi lavora con account di minori (es. creator o gestori di community) sa che la verifica anagrafica diventa automatica e oggettiva, basata sui dati biometrici del video 📐. Tu ti fideresti di un algoritmo che “vede” l’età dalle ossa di tuo figlio?",
+      "carousel": [
+        {
+          "hook": "L'algoritmo sbaglia su di te?",
+          "description": "Alcuni studi mostrano che l'AI di Meta è meno precisa su certi gruppi etnici. Rischio di errore.",
+          "visual_hint": "silhouette umana con radar",
+          "layout_type": "hero",
+          "icon": "heart",
+          "image_query": "facial recognition error"
+        },
+        {
+          "hook": "Scansione ossa e altezza",
+          "description": "Meta stima l'età reale con dati biometrici. La procedura è già attiva in alcuni paesi.",
+          "visual_hint": "scheletro e metro a nastro",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "skeleton x-ray scan",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/X-Ray_Scan_van_een_baviaan.jpg/960px-X-Ray_Scan_van_een_baviaan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Rischio blocco ingiusto",
+          "description": "Se l'AI ti classifica male come minorenne, potresti perdere l'accesso all'account senza motivo.",
+          "visual_hint": "lucchetto sullo schermo",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "locked smartphone screen",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Smartphone_lock_screen_enter_PIN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        {
+          "hook": "Hai dato il consenso?",
+          "description": "Meta usa i tuoi dati biometrici — ossa e altezza — per confrontarli con l'età dichiarata.",
+          "visual_hint": "impronta digitale e menu",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "fingerprint privacy settings"
+        },
+        {
+          "hook": "Controlla subito la privacy",
+          "description": "Verifica nelle impostazioni se l'opzione biometrica è abilitata. Proteggi i tuoi dati.",
+          "visual_hint": "icona ingranaggio e scudo",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "privacy settings app"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta scansiona le tue ossa per sapere quanti anni hai.",
+        "Se menti sulla data di nascita, ti bloccano il profilo.",
+        "Ma l'algoritmo sbaglia più spesso su certi gruppi etnici.",
+        "Rischia di classificare male anche te se non corrispondi ai parametri.",
+        "Controlla ora se hai autorizzato la scansione dei tuoi dati biometrici."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

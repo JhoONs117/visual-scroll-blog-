@@ -80,5 +80,82 @@
   "link": "https://ricette.giallozafferano.it/Torta-con-fragole-e-cioccolato-bianco.html",
   "pubDate": "Wed, 06 May 2026 14:10:00 +0200",
   "savedAt": "2026-05-12T12:29:51.153Z",
-  "image": "https://www.giallozafferano.it/images/361-36144/Torta-con-fragole-e-cioccolato-bianco_650x433_wm.jpg"
+  "image": "https://www.giallozafferano.it/images/361-36144/Torta-con-fragole-e-cioccolato-bianco_650x433_wm.jpg",
+  "schema_version": 2,
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Fragole e cioccolato bianco: la combinazione che fa impazzire tutti. Questa torta cremosa è il dessert perfetto per la primavera. Pronto a stupire? 🍓",
+        "Partiamo dalla base: una pasta biscotto leggera. Monta albumi e tuorli con lo zucchero fino a ottenere un composto spumoso. Il segreto è la consistenza soffice.",
+        "Sciogli il cioccolato bianco e mescolalo con panna montata: crea una crema vellutata. Taglia le fragole a pezzetti, pronte per essere stratificate.",
+        "In una teglia alterna strati di pasta biscotto, crema al cioccolato bianco e fragole fresche. Chiudi con la crema e lascia raffreddare in frigo per almeno 4 ore.",
+        "Prima di servire, guarnisci con fragole intere e una spolverata di zucchero a velo. Il contrasto tra dolce e fresco è pazzesco. Provala e fammi sapere 👇"
+      ]
+    },
+    "instagram": {
+      "caption": "Una nuvola di dolcezza che profuma di primavera! 🍓✨ Alterno basi di pasta biscotto morbidissima a una crema vellutata di cioccolato bianco e panna, arricchita da fragole fresche a pezzetti. Dopo un bel riposo in frigorifero, spolvero con zucchero a velo e guarnisco con le fragole intere. Un morso e ti senti abbracciato. Preparala anche tu e fammi sapere! 😍",
+      "carousel": [
+        {
+          "hook": "Torta cremosa fragole e cioccolato bianco",
+          "description": "Una torta soffice e golosa, perfetta per ogni occasione: strati di crema, fragole fresche e cioccolato bianco.",
+          "visual_hint": "torta intera su piatto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "strawberry white chocolate cake"
+        },
+        {
+          "hook": "3 ingredienti, un capolavoro",
+          "description": "Pasta biscotto, cioccolato bianco, panna e tantissime fragole: la semplicità è il vero segreto.",
+          "visual_hint": "ingredienti su tavola",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "white chocolate strawberries cream",
+          "image": "https://images.pexels.com/photos/17498808/pexels-photo-17498808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il gesto che fa la differenza",
+          "description": "Monta albumi e tuorli separatamente con lo zucchero: otterrai una pasta biscotto leggera e areata.",
+          "visual_hint": "fruste in ciotola",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "whipping egg whites",
+          "image": "https://images.pexels.com/photos/19526666/pexels-photo-19526666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costruisci a strati",
+          "description": "Versa la crema e le fragole, alterna le basi di pasta biscotto e lascia raffreddare in frigorifero.",
+          "visual_hint": "assemblaggio teglia",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "layering cake with berries",
+          "image": "https://images.pexels.com/photos/4686836/pexels-photo-4686836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tocco finale",
+          "description": "Guarnisci con fragole fresche e una spolverata di zucchero a velo: pronta da servire.",
+          "visual_hint": "fetta con guarnizione",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "strawberry cake slice",
+          "image": "https://images.pexels.com/photos/37271307/pexels-photo-37271307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Fragole e cioccolato bianco, una torta da urlo.",
+        "Pasta biscotto, cioccolato bianco, panna, fragole.",
+        "Monta albumi e tuorli con lo zucchero, così.",
+        "Versa crema e fragole, alterna basi, in frigo.",
+        "Guarnisci con fragole e zucchero a velo, pronta."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

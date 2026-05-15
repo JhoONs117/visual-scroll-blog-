@@ -70,5 +70,84 @@
     }
   ],
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/lg-nvidia-talks-physical-ai-isaac-robotics-industrial-edge-computing-artificial-intelligence-data-centres-digital-twins.jpg",
-  "instagram_caption": "LG e Nvidia stanno collaborando per addestrare robot in simulazioni cloud, poi trasferirli direttamente in fabbrica. 🏭 Non più solo chatbot: l'AI impara a controllare macchine, movimenti e decisioni nel mondo fisico, senza bisogno di supervisione umana. I modelli virtuali testano ogni scenario, e i robot reali eseguono già in sicurezza. Per chi lavora nella logistica o nella produzione, significa linee più veloci e operazioni gestite da remoto. Per gli altri, la domanda è: tra quanti anni il tuo autista-assistente funzionerà così? 🤖"
+  "instagram_caption": "LG e Nvidia stanno collaborando per addestrare robot in simulazioni cloud, poi trasferirli direttamente in fabbrica. 🏭 Non più solo chatbot: l'AI impara a controllare macchine, movimenti e decisioni nel mondo fisico, senza bisogno di supervisione umana. I modelli virtuali testano ogni scenario, e i robot reali eseguono già in sicurezza. Per chi lavora nella logistica o nella produzione, significa linee più veloci e operazioni gestite da remoto. Per gli altri, la domanda è: tra quanti anni il tuo autista-assistente funzionerà così? 🤖",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "what-lg-and-nvidia-s-talks-reveal-about-the-future",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Un accordo segreto tra LG e NVIDIA punta a robot che imparano da soli. Nessuno ne parla, ma la posta in gioco è enorme.",
+        "Il problema oggi è che le macchine vedono, ma non agiscono. Per farlo servono chip nuovi, capaci di elaborare il mondo fisico in tempo reale.",
+        "LG ha già iniziato a testare questi sistemi nelle sue fabbriche. L'obiettivo dichiarato: renderle completamente autonome entro 5 anni.",
+        "Il punto è che senza una nuova architettura hardware, nessun software sarà mai abbastanza veloce. E loro lo sanno.",
+        "Controlla i brevetti depositati da LG e NVIDIA negli ultimi 12 mesi. La corsa è iniziata senza rumore, ma chi arriva primo decide le regole."
+      ]
+    },
+    "instagram": {
+      "caption": "LG e Nvidia stanno collaborando per addestrare robot in simulazioni cloud, poi trasferirli direttamente in fabbrica. 🏭 Non più solo chatbot: l'AI impara a controllare macchine, movimenti e decisioni nel mondo fisico, senza bisogno di supervisione umana. I modelli virtuali testano ogni scenario, e i robot reali eseguono già in sicurezza. Per chi lavora nella logistica o nella produzione, significa linee più veloci e operazioni gestite da remoto. Per gli altri, la domanda è: tra quanti anni il tuo autista-assistente funzionerà così? 🤖",
+      "carousel": [
+        {
+          "hook": "Un accordo segreto cambia tutto",
+          "description": "LG e NVIDIA puntano a robot che imparano da soli. La posta in gioco è enorme.",
+          "visual_hint": "Robot handshake futuristico",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "factory robot arm"
+        },
+        {
+          "hook": "Macchine che vedono ma non agiscono",
+          "description": "Servono chip nuovi per elaborare il mondo fisico in tempo reale.",
+          "visual_hint": "Chip a fuoco",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "microchip closeup",
+          "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "L'obiettivo: fabbriche autonome in 5 anni",
+          "description": "LG testa già sistemi nelle sue fabbriche per renderle completamente autonome.",
+          "visual_hint": "Fabbrica automatizzata",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "automated factory line",
+          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hardware nuovo o software inutile",
+          "description": "Senza nuova architettura hardware, nessun software sarà mai abbastanza veloce.",
+          "visual_hint": "Ingranaggi e circuiti",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "server room hardware",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "La corsa è iniziata senza rumore",
+          "description": "Controlla i brevetti LG e NVIDIA dell'ultimo anno: chi arriva primo decide le regole.",
+          "visual_hint": "Documento brevettuale",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "patent document closeup",
+          "image": "https://images.pexels.com/photos/8730990/pexels-photo-8730990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "C'è un accordo segreto tra LG e NVIDIA.",
+        "Puntano a robot che imparano da soli.",
+        "Oggi le macchine vedono ma non agiscono.",
+        "Servono chip nuovi per questo.",
+        "LG vuole fabbriche autonome in 5 anni."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

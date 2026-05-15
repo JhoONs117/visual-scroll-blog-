@@ -22,5 +22,39 @@
     "L'AI diventa parte del flusso."
   ],
   "savedAt": "2026-05-06T02:01:27.183Z",
-  "instagram_caption": "27 milioni di dollari per un tool che trasforma qualsiasi app in un’assistente AI. 💡 CopilotKit permette agli sviluppatori di integrare agenti intelligenti nel codice già esistente, senza riscrivere tutto da zero. 🛠️ Si aggiunge in giorni, non settimane: già oggi un’app di e-commerce o di project management può avere un bot che risponde, analizza e agisce dentro il suo stesso sistema. 👨‍💻 Significa meno lavoro per chi sviluppa e funzioni nuove per chi usa quelle app ogni giorno. Quanto cambierebbe il tuo tool preferito se avesse un’AI nativa? 🚀"
+  "instagram_caption": "27 milioni di dollari per un tool che trasforma qualsiasi app in un’assistente AI. 💡 CopilotKit permette agli sviluppatori di integrare agenti intelligenti nel codice già esistente, senza riscrivere tutto da zero. 🛠️ Si aggiunge in giorni, non settimane: già oggi un’app di e-commerce o di project management può avere un bot che risponde, analizza e agisce dentro il suo stesso sistema. 👨‍💻 Significa meno lavoro per chi sviluppa e funzioni nuove per chi usa quelle app ogni giorno. Quanto cambierebbe il tuo tool preferito se avesse un’AI nativa? 🚀",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "copilotkit-raises-27m-to-help-devs-deploy-app-nati",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "27 milioni di dollari in una startup che costruisce strumenti per sviluppatori AI. Ma non per fare chatbot. Per qualcosa di molto più subdolo.",
+        "CopilotKit ti fa prendere qualsiasi app esistente e infilare un agente AI al suo interno. Senza riscrivere il backend. Senza migrazioni folli.",
+        "Il punto è: l'AI smette di essere una feature a sé stante e diventa un componente che vive dentro il flusso che già usi. Un copilota, non un assistente a parte.",
+        "Gli sviluppatori lo implementano in giorni, non mesi. E il risultato è un'interfaccia che sembra magica: l'AI sa cosa stai facendo perché è dentro lo stesso contesto.",
+        "Morale: se la prossima app che usi inizia a suggerirti azioni senza che tu chieda nulla, non è stregoneria. È solo CopilotKit che entra in scena."
+      ]
+    },
+    "instagram": {
+      "caption": "27 milioni di dollari per un tool che trasforma qualsiasi app in un’assistente AI. 💡 CopilotKit permette agli sviluppatori di integrare agenti intelligenti nel codice già esistente, senza riscrivere tutto da zero. 🛠️ Si aggiunge in giorni, non settimane: già oggi un’app di e-commerce o di project management può avere un bot che risponde, analizza e agisce dentro il suo stesso sistema. 👨‍💻 Significa meno lavoro per chi sviluppa e funzioni nuove per chi usa quelle app ogni giorno. Quanto cambierebbe il tuo tool preferito se avesse un’AI nativa? 🚀",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "27 milioni per una startup AI.",
+        "Ma non per fare chatbot.",
+        "CopilotKit infila AI nelle tue app.",
+        "Veloce, senza riscrivere tutto.",
+        "L'AI diventa parte del flusso."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

@@ -22,5 +22,39 @@
     "Pensa a un ristorante virtuale gestito solo con AI."
   ],
   "savedAt": "2026-05-06T10:10:03.362Z",
-  "instagram_caption": "Bastano un prompt ben scritto e nessuna esperienza in cucina per aprire un ristorante. Marc Lore, fondatore di Jet.com, ha detto che l’intelligenza artificiale automatizzerà ricette, gestione e supply chain, abbattendo costi e barriere d’ingresso 🧾. Il risultato: chiunque può lanciare un ristorante virtuale in giorni, non mesi 🚀. Per te significa che la competenza culinaria non è più un ostacolo: ora il vero lavoro è scegliere cosa far cucinare all’AI, non cucinare. Un menu generato in 10 minuti vale quanto uno studiato per anni?"
+  "instagram_caption": "Bastano un prompt ben scritto e nessuna esperienza in cucina per aprire un ristorante. Marc Lore, fondatore di Jet.com, ha detto che l’intelligenza artificiale automatizzerà ricette, gestione e supply chain, abbattendo costi e barriere d’ingresso 🧾. Il risultato: chiunque può lanciare un ristorante virtuale in giorni, non mesi 🚀. Per te significa che la competenza culinaria non è più un ostacolo: ora il vero lavoro è scegliere cosa far cucinare all’AI, non cucinare. Un menu generato in 10 minuti vale quanto uno studiato per anni?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "marc-lore-says-that-ai-will-soon-enable-anyone-ope",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Il prossimo grande ristorante non avrà uno chef. Avrà un prompt ben scritto.",
+        "L'AI non solo suggerisce ricette: genera menu, ottimizza costi e gestisce la supply chain in automatico.",
+        "Il risultato? Chiunque, senza esperienza in cucina, può lanciare un ristorante virtuale in giorni, non mesi.",
+        "La competenza non è più un asset esclusivo: è un dato disponibile a tutti.",
+        "Il vero valore ora non è cucinare, ma saper scegliere cosa far cucinare all'AI."
+      ]
+    },
+    "instagram": {
+      "caption": "Bastano un prompt ben scritto e nessuna esperienza in cucina per aprire un ristorante. Marc Lore, fondatore di Jet.com, ha detto che l’intelligenza artificiale automatizzerà ricette, gestione e supply chain, abbattendo costi e barriere d’ingresso 🧾. Il risultato: chiunque può lanciare un ristorante virtuale in giorni, non mesi 🚀. Per te significa che la competenza culinaria non è più un ostacolo: ora il vero lavoro è scegliere cosa far cucinare all’AI, non cucinare. Un menu generato in 10 minuti vale quanto uno studiato per anni?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "L'AI sta eliminando le barriere d'ingresso in cucina.",
+        "Automatizza ricette, gestione, tutto.",
+        "Costi e competenze? Tagliati di netto.",
+        "Ora chiunque può creare un menu da zero.",
+        "Pensa a un ristorante virtuale gestito solo con AI."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

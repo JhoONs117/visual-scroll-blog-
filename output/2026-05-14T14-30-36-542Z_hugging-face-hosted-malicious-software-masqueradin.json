@@ -1,0 +1,154 @@
+{
+  "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
+  "slides": [
+    "Hugging Face ospitava codice malevolo travestito da OpenAI?",
+    "I malintenzionati hanno caricato un falso rilascio ufficiale.",
+    "Il malware bypassava i controlli automatici della piattaforma.",
+    "Chi ha scaricato quel modello potrebbe aver perso dati sensibili.",
+    "Verifica sempre la fonte prima di eseguire qualsiasi script."
+  ],
+  "thread_text": [
+    "Il malware ha eluso i controlli automatici di Hugging Face: chi ha scaricato un finto modello OpenAI potrebbe aver perso dati sensibili senza accorgersene.",
+    "I malintenzionati hanno caricato un rilascio fasullo spacciandolo per ufficiale. Sembrava tutto regolare, ma il codice malevolo era nascosto dentro.",
+    "La piattaforma non ha bloccato il caricamento. I controlli automatici sono stati bypassati, e il modello è rimasto accessibile per ore.",
+    "Chi lo ha eseguito ha esposto dati privati, credenziali o file locali. Un attacco pensato per colpire chi si fida delle vetrine ufficiali.",
+    "Hai mai controllato cosa fa realmente un modello prima di eseguirlo? Se non lo fai, questo è il rischio concreto che corri ogni volta che clicchi 'Run'."
+  ],
+  "video_script": [
+    "Hugging Face aveva un malware travestito da OpenAI.",
+    "Hanno finto di essere il rilascio ufficiale.",
+    "Il malware ha bypassato tutti i controlli automatici.",
+    "Chi lo ha scaricato ha perso dati sensibili.",
+    "Controlla sempre la fonte prima di avviare script."
+  ],
+  "instagram_caption": "Su Hugging Face qualcuno ha caricato un finto modello AI spacciandolo per un rilascio ufficiale di OpenAI. Il codice malevolo ha bypassato i controlli automatici della piattaforma 🛡️ e chi lo ha eseguito ha rischiato di esporre dati sensibili, credenziali e file locali. Non bastano le vetrine ufficiali: ogni script che avvii può contenere insidie nascoste ⚠️. Se scarichi un modello, controlli sempre la fonte prima di cliccare “Run”? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Hai mai eseguito un modello?",
+      "description": "Il malware ha eluso i controlli automatici di Hugging Face. Dati sensibili esposti senza accorgersene.",
+      "visual_hint": "Schermata codice pericoloso",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "computer code screen"
+    },
+    {
+      "hook": "Falso rilascio ufficiale",
+      "description": "Malintenzionati hanno caricato un finto modello OpenAI. Sembrava regolare, codice malevolo nascosto dentro.",
+      "visual_hint": "Download fasullo plausibile",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "download button interface",
+      "image": "https://images.pexels.com/photos/16026070/pexels-photo-16026070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bypassati i controlli automatici",
+      "description": "La piattaforma non ha bloccato il caricamento. Il modello è rimasto accessibile per ore senza essere fermato.",
+      "visual_hint": "Sistema di sicurezza superato",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "security camera control",
+      "image": "https://images.pexels.com/photos/29148355/pexels-photo-29148355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Dati privati a rischio",
+      "description": "Chi lo ha eseguito ha esposto credenziali e file locali. Attacco mirato a chi si fida delle vetrine ufficiali.",
+      "visual_hint": "Dati che escono dal pc",
+      "layout_type": "human-hand",
+      "icon": "waves",
+      "image_query": "data cables server",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controlla prima di eseguire",
+      "description": "Se non verifichi cosa fa un modello, questo è il rischio ogni volta che clicchi 'Run'.",
+      "visual_hint": "Dito sul pulsante esegui",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "computer keyboard enter",
+      "image": "https://images.pexels.com/photos/16321209/pexels-photo-16321209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/hugging-face-malware-hero_x1440.webp",
+  "pubDate": "Tue, 12 May 2026 13:52:00 +0000",
+  "savedAt": "2026-05-14T14:31:03.590Z",
+  "link": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hugging-face-hosted-malicious-software-masqueradin",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Il malware ha eluso i controlli automatici di Hugging Face: chi ha scaricato un finto modello OpenAI potrebbe aver perso dati sensibili senza accorgersene.",
+        "I malintenzionati hanno caricato un rilascio fasullo spacciandolo per ufficiale. Sembrava tutto regolare, ma il codice malevolo era nascosto dentro.",
+        "La piattaforma non ha bloccato il caricamento. I controlli automatici sono stati bypassati, e il modello è rimasto accessibile per ore.",
+        "Chi lo ha eseguito ha esposto dati privati, credenziali o file locali. Un attacco pensato per colpire chi si fida delle vetrine ufficiali.",
+        "Hai mai controllato cosa fa realmente un modello prima di eseguirlo? Se non lo fai, questo è il rischio concreto che corri ogni volta che clicchi 'Run'."
+      ]
+    },
+    "instagram": {
+      "caption": "Su Hugging Face qualcuno ha caricato un finto modello AI spacciandolo per un rilascio ufficiale di OpenAI. Il codice malevolo ha bypassato i controlli automatici della piattaforma 🛡️ e chi lo ha eseguito ha rischiato di esporre dati sensibili, credenziali e file locali. Non bastano le vetrine ufficiali: ogni script che avvii può contenere insidie nascoste ⚠️. Se scarichi un modello, controlli sempre la fonte prima di cliccare “Run”? 🔍",
+      "carousel": [
+        {
+          "hook": "Hai mai eseguito un modello?",
+          "description": "Il malware ha eluso i controlli automatici di Hugging Face. Dati sensibili esposti senza accorgersene.",
+          "visual_hint": "Schermata codice pericoloso",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "computer code screen"
+        },
+        {
+          "hook": "Falso rilascio ufficiale",
+          "description": "Malintenzionati hanno caricato un finto modello OpenAI. Sembrava regolare, codice malevolo nascosto dentro.",
+          "visual_hint": "Download fasullo plausibile",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "download button interface",
+          "image": "https://images.pexels.com/photos/16026070/pexels-photo-16026070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Bypassati i controlli automatici",
+          "description": "La piattaforma non ha bloccato il caricamento. Il modello è rimasto accessibile per ore senza essere fermato.",
+          "visual_hint": "Sistema di sicurezza superato",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "security camera control",
+          "image": "https://images.pexels.com/photos/29148355/pexels-photo-29148355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Dati privati a rischio",
+          "description": "Chi lo ha eseguito ha esposto credenziali e file locali. Attacco mirato a chi si fida delle vetrine ufficiali.",
+          "visual_hint": "Dati che escono dal pc",
+          "layout_type": "human-hand",
+          "icon": "waves",
+          "image_query": "data cables server",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Controlla prima di eseguire",
+          "description": "Se non verifichi cosa fa un modello, questo è il rischio ogni volta che clicchi 'Run'.",
+          "visual_hint": "Dito sul pulsante esegui",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "computer keyboard enter",
+          "image": "https://images.pexels.com/photos/16321209/pexels-photo-16321209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hugging Face aveva un malware travestito da OpenAI.",
+        "Hanno finto di essere il rilascio ufficiale.",
+        "Il malware ha bypassato tutti i controlli automatici.",
+        "Chi lo ha scaricato ha perso dati sensibili.",
+        "Controlla sempre la fonte prima di avviare script."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
+}

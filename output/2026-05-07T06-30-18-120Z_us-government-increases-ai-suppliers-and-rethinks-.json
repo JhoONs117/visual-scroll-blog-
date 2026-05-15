@@ -68,5 +68,82 @@
     }
   ],
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/ai-in-defence-hero_x1440.webp",
-  "instagram_caption": "Lo stop al monopolio è arrivato: il governo USA ha appena sostituito il suo fornitore AI principale. Anthropic perde il ruolo di partner esclusivo e i nuovi contratti vanno a startup più piccole e veloci. Per chi lavora nel settore, è il segnale che le alleanze esclusive sono un rischio. Se usi strumenti AI, chiediti: hai già un piano B per i tuoi fornitori?"
+  "instagram_caption": "Lo stop al monopolio è arrivato: il governo USA ha appena sostituito il suo fornitore AI principale. Anthropic perde il ruolo di partner esclusivo e i nuovi contratti vanno a startup più piccole e veloci. Per chi lavora nel settore, è il segnale che le alleanze esclusive sono un rischio. Se usi strumenti AI, chiediti: hai già un piano B per i tuoi fornitori?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "us-government-increases-ai-suppliers-and-rethinks-",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Anthropic ha puntato tutto sulla sicurezza. Ora rischia di perdere i contratti federali perché il governo allarga i fornitori AI.",
+        "Fino a ieri essere i più 'safe' era un vantaggio. Oggi il governo vuole più competizione—e più opzioni.",
+        "Nuovi vendor vincono gare che Anthropic dava per scontate. Il suo posizionamento ethics-first non basta più.",
+        "Se Anthropic perde quote, le regole sull'AI safety potrebbero cambiare. Chi vince decide le priorità.",
+        "Controlla gli award delle agenzie questa settimana. La tua compliance dipende da chi firma il prossimo contratto."
+      ]
+    },
+    "instagram": {
+      "caption": "Lo stop al monopolio è arrivato: il governo USA ha appena sostituito il suo fornitore AI principale. Anthropic perde il ruolo di partner esclusivo e i nuovi contratti vanno a startup più piccole e veloci. Per chi lavora nel settore, è il segnale che le alleanze esclusive sono un rischio. Se usi strumenti AI, chiediti: hai già un piano B per i tuoi fornitori?",
+      "carousel": [
+        {
+          "hook": "Anthropic perde la pole position?",
+          "description": "Anthropic puntava sulla sicurezza. Ora il governo apre a nuovi vendor AI e il suo vantaggio si erode.",
+          "visual_hint": "Griglia gare con posti occupati",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "race starting grid"
+        },
+        {
+          "hook": "Più fornitori, meno certezze",
+          "description": "Il governo vuole competizione. Nuovi attori vincono contratti che Anthropic dava per scontati.",
+          "visual_hint": "Frecce multiple verso un edificio",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "government building arrows"
+        },
+        {
+          "hook": "Essere safe non basta più",
+          "description": "Fino a ieri l'approccio ethics-first era un vantaggio. Oggi il governo cerca velocità e varietà.",
+          "visual_hint": "Lente d'ingrandimento su contratto",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "contract magnifying glass",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff/lossy-page1-960px-Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Se Anthropic perde, cambia tutto",
+          "description": "Chi vince i prossimi contratti deciderà le priorità sulla AI safety. Le regole seguono i vincitori.",
+          "visual_hint": "Mano che firma documento",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand signing paper",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Josiah_Rushton_-_Watercolor_Painting_on_Paper%2C_Yorkshire_Coast%2C_hand_signed_lower_right.jpg/960px-Josiah_Rushton_-_Watercolor_Painting_on_Paper%2C_Yorkshire_Coast%2C_hand_signed_lower_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Controlla gli award di oggi",
+          "description": "La tua compliance dipende da chi firma il prossimo contratto. Monitora le agenzie questa settimana.",
+          "visual_hint": "Checklist su monitor schermo",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "checklist computer screen"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic rischia di perdere i contratti federali.",
+        "Il governo allarga i fornitori AI, più competizione.",
+        "Essere il più sicuro non basta più.",
+        "Chi vince decide le nuove regole.",
+        "Controlla gli award, è strategico per te."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

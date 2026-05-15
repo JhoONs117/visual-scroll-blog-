@@ -23,5 +23,39 @@
   ],
   "savedAt": "2026-05-06T17:28:18.758Z",
   "link": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
-  "instagram_caption": "Un sistema di Physical AI ha appena preso una decisione reale su strada senza intervento umano. La governance, cioè l'insieme di regole che definisce cosa può o non può fare, ancora non esiste 🤖. Senza questi limiti, un'auto a guida autonoma potrebbe scegliere chi investire in un incidente, creando caos legale e sociale ⚖️. Per chi usa la tecnologia ogni giorno, significa che la responsabilità di un errore non sarà tua—ma del codice che hai autorizzato. Chi deciderà le regole per questi sistemi? 🚗💥"
+  "instagram_caption": "Un sistema di Physical AI ha appena preso una decisione reale su strada senza intervento umano. La governance, cioè l'insieme di regole che definisce cosa può o non può fare, ancora non esiste 🤖. Senza questi limiti, un'auto a guida autonoma potrebbe scegliere chi investire in un incidente, creando caos legale e sociale ⚖️. Per chi usa la tecnologia ogni giorno, significa che la responsabilità di un errore non sarà tua—ma del codice che hai autorizzato. Chi deciderà le regole per questi sistemi? 🚗💥",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "physical-ai-raises-governance-questions-for-autono",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Sei sicuro di volere l'IA a prendere decisioni per te?",
+        "Il problema non è quanto è intelligente, ma chi stabilisce le regole.",
+        "Senza governance, i sistemi autonomi creano caos. Non è fantascienza.",
+        "Le regole vanno scritte adesso, non quando le auto si schiantano.",
+        "La vera domanda: se un'auto a guida autonoma sbaglia, di chi è la colpa? La tua."
+      ]
+    },
+    "instagram": {
+      "caption": "Un sistema di Physical AI ha appena preso una decisione reale su strada senza intervento umano. La governance, cioè l'insieme di regole che definisce cosa può o non può fare, ancora non esiste 🤖. Senza questi limiti, un'auto a guida autonoma potrebbe scegliere chi investire in un incidente, creando caos legale e sociale ⚖️. Per chi usa la tecnologia ogni giorno, significa che la responsabilità di un errore non sarà tua—ma del codice che hai autorizzato. Chi deciderà le regole per questi sistemi? 🚗💥",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "L'IA decide per te, ma chi la controlla?",
+        "Serve una governance che fissi i limiti.",
+        "Senza regole, i sistemi autonomi diventano caos.",
+        "Le regole vanno decise ora, non dopo un incidente.",
+        "Nell'auto autonoma, la colpa è sempre tua."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

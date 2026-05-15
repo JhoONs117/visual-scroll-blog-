@@ -68,5 +68,82 @@
     }
   ],
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Physical-AI-raises-new-governance-questions-for-autonomous-systems-scaled-e1777880180395.jpg",
-  "instagram_caption": "Un sistema di Physical AI ha appena preso una decisione reale su strada senza intervento umano. La governance, cioè l'insieme di regole che definisce cosa può o non può fare, ancora non esiste 🤖. Senza questi limiti, un'auto a guida autonoma potrebbe scegliere chi investire in un incidente, creando caos legale e sociale ⚖️. Per chi usa la tecnologia ogni giorno, significa che la responsabilità di un errore non sarà tua—ma del codice che hai autorizzato. Chi deciderà le regole per questi sistemi? 🚗💥"
+  "instagram_caption": "Un sistema di Physical AI ha appena preso una decisione reale su strada senza intervento umano. La governance, cioè l'insieme di regole che definisce cosa può o non può fare, ancora non esiste 🤖. Senza questi limiti, un'auto a guida autonoma potrebbe scegliere chi investire in un incidente, creando caos legale e sociale ⚖️. Per chi usa la tecnologia ogni giorno, significa che la responsabilità di un errore non sarà tua—ma del codice che hai autorizzato. Chi deciderà le regole per questi sistemi? 🚗💥",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "physical-ai-raises-governance-questions-for-autono",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Un veicolo autonomo ha già dovuto scegliere chi salvare in un incidente. Il codice ha deciso al posto di un essere umano. Nessuno ha firmato quella decisione.",
+        "Ora immagina una fabbrica in cui i robot gestiscono produzione, logistica e controlli senza alcun intervento umano. Non è un esperimento: è già realtà in alcuni impianti.",
+        "Il problema è che quando un sistema fisico prende una decisione autonoma, non c'è un responsabile chiaro. Il proprietario? Il produttore? Il software? Le leggi attuali non rispondono.",
+        "E le conseguenze sono concrete: incidenti, danni economici, violazioni etiche senza un colpevole individuabile. I tribunali non sanno come gestirlo.",
+        "Se il tuo settore usa già automazione, verifica ora chi è legalmente responsabile per ogni decisione autonoma. Se non c'è una risposta, sei esposto."
+      ]
+    },
+    "instagram": {
+      "caption": "Un sistema di Physical AI ha appena preso una decisione reale su strada senza intervento umano. La governance, cioè l'insieme di regole che definisce cosa può o non può fare, ancora non esiste 🤖. Senza questi limiti, un'auto a guida autonoma potrebbe scegliere chi investire in un incidente, creando caos legale e sociale ⚖️. Per chi usa la tecnologia ogni giorno, significa che la responsabilità di un errore non sarà tua—ma del codice che hai autorizzato. Chi deciderà le regole per questi sistemi? 🚗💥",
+      "carousel": [
+        {
+          "hook": "Chi firma per un robot?",
+          "description": "Un veicolo autonomo ha scelto chi salvare. Nessun umano ha firmato quella decisione.",
+          "visual_hint": "auto incidente bivio",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "autonomous car crash"
+        },
+        {
+          "hook": "Fabbriche senza persone",
+          "description": "Robot gestiscono produzione e logistica da soli. È già realtà in alcuni impianti.",
+          "visual_hint": "robot su catena",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "factory robot arm",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Robotic_Arm_Polishing_Guitars_at_Martin_Guitar_Factory.jpg/960px-Robotic_Arm_Polishing_Guitars_at_Martin_Guitar_Factory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Nessun responsabile chiaro",
+          "description": "Quando un sistema decide, chi paga? Proprietario, produttore o software? Leggi attuali non rispondono.",
+          "visual_hint": "documenti legali",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "legal documents gavel"
+        },
+        {
+          "hook": "Danni senza colpevole",
+          "description": "Incidenti e danni economici senza un colpevole. I tribunali non sanno come gestirlo.",
+          "visual_hint": "aula tribunale",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "courtroom empty"
+        },
+        {
+          "hook": "Sei esposto legalmente",
+          "description": "Verifica chi è responsabile per ogni decisione autonoma. Se non c'è risposta, sei a rischio.",
+          "visual_hint": "contratto con clausola",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "contract signature",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Anthony_Abbing%27s_signature_on_a_contract_in_1899.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Un veicolo ha deciso chi salvare.",
+        "Nessun umano ha scelto.",
+        "Robot in fabbrica senza controllo.",
+        "Le leggi non coprono questo.",
+        "Chi paga se sbagliano?"
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

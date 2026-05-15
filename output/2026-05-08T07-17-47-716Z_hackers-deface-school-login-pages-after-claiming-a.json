@@ -71,5 +71,84 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/shinyhunters-instructure-canvas-login-defacement.jpg?resize=1200,807",
-  "instagram_caption": "Un portale scolastico si è svegliato con la scritta \"Hacked\" al posto del login. Dietro c'è lo stesso gruppo che potrebbe aver già violato Instructure, rubando i certificati di accesso globali: chiavi che aprono tutte le porte di Canvas senza lasciare traccia 🔑. Se quei dati venissero venduti, qualsiasi istituto potrebbe diventare un bersaglio senza bisogno di un attacco su misura. Controlla subito se la tua scuola usa ancora Canvas, cambia la password e chiedi all'amministratore di esaminare i log delle ultime 48 ore ⚠️. Avete già fatto questo controllo?"
+  "instagram_caption": "Un portale scolastico si è svegliato con la scritta \"Hacked\" al posto del login. Dietro c'è lo stesso gruppo che potrebbe aver già violato Instructure, rubando i certificati di accesso globali: chiavi che aprono tutte le porte di Canvas senza lasciare traccia 🔑. Se quei dati venissero venduti, qualsiasi istituto potrebbe diventare un bersaglio senza bisogno di un attacco su misura. Controlla subito se la tua scuola usa ancora Canvas, cambia la password e chiedi all'amministratore di esaminare i log delle ultime 48 ore ⚠️. Avete già fatto questo controllo?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hackers-deface-school-login-pages-after-claiming-a",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Un gruppo dice di aver rubato certificati di accesso globali. Non dettagli tecnici, ma chiavi che aprono qualsiasi porta.",
+        "Stessa firma del precedente attacco a Instructure? I ricercatori non lo escludono. Se è vero, il bersaglio non è più una scuola sola.",
+        "La scritta 'Hacked' sul portale di un istituto è solo l'avvisaglia. Chi ha le credenziali può entrare in qualsiasi account Canvas senza lasciare traccia.",
+        "La tua scuola potrebbe essere la prossima nel mirino. Non serve un attacco mirato: basta che il gruppo decida di vendere o usare quei certificati.",
+        "Oggi controlla se i login della vostra scuola usano ancora Canvas. Se sì, cambia password e chiedi all'amministratore di verificare i log di accesso nelle ultime 48 ore."
+      ]
+    },
+    "instagram": {
+      "caption": "Un portale scolastico si è svegliato con la scritta \"Hacked\" al posto del login. Dietro c'è lo stesso gruppo che potrebbe aver già violato Instructure, rubando i certificati di accesso globali: chiavi che aprono tutte le porte di Canvas senza lasciare traccia 🔑. Se quei dati venissero venduti, qualsiasi istituto potrebbe diventare un bersaglio senza bisogno di un attacco su misura. Controlla subito se la tua scuola usa ancora Canvas, cambia la password e chiedi all'amministratore di esaminare i log delle ultime 48 ore ⚠️. Avete già fatto questo controllo?",
+      "carousel": [
+        {
+          "hook": "Chiavi che aprono ogni porta",
+          "description": "Un gruppo dice di aver rubato certificati di accesso globali. Chiavi che aprono qualsiasi account Canvas senza lasciare traccia.",
+          "visual_hint": "Scritta Hacked su portale",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "hacked login screen"
+        },
+        {
+          "hook": "Stessa firma del precedente attacco?",
+          "description": "I ricercatori non escludono la stessa firma dell'attacco Instructure. Il bersaglio non è più una scuola sola.",
+          "visual_hint": "Due impronte digitali sovrapposte",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "fingerprint comparison",
+          "image": "https://images.pexels.com/photos/7479535/pexels-photo-7479535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "L'avvisaglia di un pericolo più grande",
+          "description": "La scritta 'Hacked' è solo l'inizio. Chi ha le credenziali può entrare in qualsiasi account Canvas senza lasciare traccia.",
+          "visual_hint": "Lente di ingrandimento su schermo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass screen",
+          "image": "https://images.pexels.com/photos/6621023/pexels-photo-6621023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "La tua scuola potrebbe essere la prossima",
+          "description": "Non serve un attacco mirato: basta che il gruppo decida di vendere o usare quei certificati per colpire chiunque.",
+          "visual_hint": "Mano che clicca su icona pericolo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand clicking warning",
+          "image": "https://images.pexels.com/photos/33206681/pexels-photo-33206681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Controlla i login oggi stesso",
+          "description": "Se la tua scuola usa ancora Canvas, cambia password e chiedi all'amministratore di verificare i log delle ultime 48 ore.",
+          "visual_hint": "Checklist su schermo blu",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "checklist on monitor",
+          "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hanno rubato le chiavi di accesso di Canvas.",
+        "Stesso gruppo che aveva già colpito Instructure.",
+        "La scuola nel mirino ha visto la scritta 'Hacked'.",
+        "Con quei certificati entrano in qualsiasi account.",
+        "Controlla se la tua scuola usa ancora Canvas oggi."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

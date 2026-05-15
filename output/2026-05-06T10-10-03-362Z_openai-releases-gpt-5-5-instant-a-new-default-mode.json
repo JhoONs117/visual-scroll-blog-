@@ -22,5 +22,39 @@
     "Apri ChatGPT e provalo con un consiglio."
   ],
   "savedAt": "2026-05-06T10:10:03.362Z",
-  "instagram_caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?"
+  "instagram_caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-releases-gpt-5-5-instant-a-new-default-mode",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "E se il tuo prossimo assistente capisse tutto al volo, senza dover aspettare secondi?",
+        "OpenAI ha appena rilasciato GPT-5.5 Instant. Non è un semplice aggiornamento minore.",
+        "Il modello promette risposti in tempo reale. Niente più attese, niente più giri di parole.",
+        "Dalla programmazione ai consigli quotidiani, ogni interazione diventa più fluida.",
+        "Se lavori con ChatGPT, il vero fallimento oggi è non testare subito quanto sia cambiato."
+      ]
+    },
+    "instagram": {
+      "caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Hai presente l'attesa prima di una risposta?",
+        "Ecco, ora è sparita.",
+        "OpenAI ha messo online GPT-5.5 Instant.",
+        "Pensa più veloce, risponde subito.",
+        "Apri ChatGPT e provalo con un consiglio."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

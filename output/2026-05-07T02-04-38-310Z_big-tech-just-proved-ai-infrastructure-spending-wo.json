@@ -23,5 +23,39 @@
   ],
   "savedAt": "2026-05-07T02:04:38.310Z",
   "link": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/",
-  "instagram_caption": "Hanno speso miliardi in server e data center. I profitti sono saliti, poi hanno chiesto budget ancora più alti e alzeranno i prezzi 💸 📈. Stessa IA, stesso servizio, ma il \"miglioramento\" è solo una scusa per farti pagare di più per gli stessi strumenti 🛠️. Tu, a lavoro o in abbonamento, ti ritrovi con un conto più salato senza aver chiesto nulla. Perché finanziare la loro espansione invece di cercare alternative più snelle? 🤔"
+  "instagram_caption": "Hanno speso miliardi in server e data center. I profitti sono saliti, poi hanno chiesto budget ancora più alti e alzeranno i prezzi 💸 📈. Stessa IA, stesso servizio, ma il \"miglioramento\" è solo una scusa per farti pagare di più per gli stessi strumenti 🛠️. Tu, a lavoro o in abbonamento, ti ritrovi con un conto più salato senza aver chiesto nulla. Perché finanziare la loro espansione invece di cercare alternative più snelle? 🤔",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "big-tech-just-proved-ai-infrastructure-spending-wo",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Hanno speso miliardi. Ha funzionato. Ora tocca a te pagare il conto.",
+        "L'infrastruttura ha portato guadagni reali all'IA, ma il costo lo scaricano su di te.",
+        "Profitti alle stelle. Loro chiedono budget ancora più grandi. Tu paghi di più.",
+        "Stessi strumenti, prezzo più alto. Il 'miglioramento' è solo una scusa per alzare il ticket.",
+        "Non finanziare la loro espansione. Costruisci alternative più snelle. Il futuro è tuo."
+      ]
+    },
+    "instagram": {
+      "caption": "Hanno speso miliardi in server e data center. I profitti sono saliti, poi hanno chiesto budget ancora più alti e alzeranno i prezzi 💸 📈. Stessa IA, stesso servizio, ma il \"miglioramento\" è solo una scusa per farti pagare di più per gli stessi strumenti 🛠️. Tu, a lavoro o in abbonamento, ti ritrovi con un conto più salato senza aver chiesto nulla. Perché finanziare la loro espansione invece di cercare alternative più snelle? 🤔",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Hanno speso miliardi. Ha funzionato. Ora paghi di più.",
+        "L'infrastruttura ha dato frutti, ma i costi li scaricano su di te.",
+        "Profitti alti, chiedono budget ancora più grandi.",
+        "Stesso tool, prezzo più alto. Non è miglioramento, è scusa.",
+        "Non finanziare la loro espansione. Costruisci alternative leggere."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

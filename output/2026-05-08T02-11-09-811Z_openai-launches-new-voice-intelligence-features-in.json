@@ -71,5 +71,84 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
-  "instagram_caption": "OpenAI ha rilasciato un'API che capta non solo le parole, ma anche come le dici: se ridi o sei stanco, il sistema lo sente e adatta la risposta 🗣️. La novità sono due strumenti: uno che traduce la voce in testo cogliendo le sfumature emotive, e un altro che rileva quando fai una pausa o sei incerto. Per chi integra queste API, significa costruire assistenti vocali che cambiano tono in base al tuo umore 😶‍🌫️. Prova a registrare una frase con una pausa lunga: la differenza la fa quella. Quanto cambierebbe il tuo lavoro se un bot capisse davvero come ti senti?"
+  "instagram_caption": "OpenAI ha rilasciato un'API che capta non solo le parole, ma anche come le dici: se ridi o sei stanco, il sistema lo sente e adatta la risposta 🗣️. La novità sono due strumenti: uno che traduce la voce in testo cogliendo le sfumature emotive, e un altro che rileva quando fai una pausa o sei incerto. Per chi integra queste API, significa costruire assistenti vocali che cambiano tono in base al tuo umore 😶‍🌫️. Prova a registrare una frase con una pausa lunga: la differenza la fa quella. Quanto cambierebbe il tuo lavoro se un bot capisse davvero come ti senti?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-launches-new-voice-intelligence-features-in",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "OpenAI ha appena rilasciato un'API che non solo capisce le parole che dici, ma anche come le dici. E no, non è la solita voce robotica.",
+        "Si chiama 'text-to-speech' ma non è solo quello: il modello rileva le emozioni nella tua voce e le riproduce. Rido e lui ride con me.",
+        "Poi c'è la novità che cambia tutto: la voice activity detection. Sa quando stai per parlare, quando fai una pausa, quando sei incerto.",
+        "Chi integra queste API oggi può creare assistenti che sentono il tuo tono. Un bot che capisce se sei arrabbiato o stanco e cambia approccio.",
+        "Costa meno di un abbonamento Netflix. Vai su platform.openai.com, prendi la API 'tts-1-hd', e in 10 minuti hai un assistente che ti ascolta davvero."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI ha rilasciato un'API che capta non solo le parole, ma anche come le dici: se ridi o sei stanco, il sistema lo sente e adatta la risposta 🗣️. La novità sono due strumenti: uno che traduce la voce in testo cogliendo le sfumature emotive, e un altro che rileva quando fai una pausa o sei incerto. Per chi integra queste API, significa costruire assistenti vocali che cambiano tono in base al tuo umore 😶‍🌫️. Prova a registrare una frase con una pausa lunga: la differenza la fa quella. Quanto cambierebbe il tuo lavoro se un bot capisse davvero come ti senti?",
+      "carousel": [
+        {
+          "hook": "La pausa che fa la differenza",
+          "description": "Il modello non trascrive, interpreta le sfumature vocali come incertezza e tono",
+          "visual_hint": "Pausa vocale con onde sonore",
+          "layout_type": "hero",
+          "icon": "heart",
+          "image_query": "sound wave visualization"
+        },
+        {
+          "hook": "Voci che sentono le emozioni",
+          "description": "Nuova API testo a voce rileva emozioni e le riproduce: se ridi, lui ride con te",
+          "visual_hint": "Onda emotiva che cambia colore",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "voice waveform spectrum",
+          "image": "https://images.pexels.com/photos/8100056/pexels-photo-8100056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sa quando stai per parlare",
+          "description": "Voice activity detection capisce pause e incertezza, cambia approccio in tempo reale",
+          "visual_hint": "Microfono con segnale di attesa",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "microphone close up",
+          "image": "https://images.pexels.com/photos/34561043/pexels-photo-34561043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Assistenti che sentono il tono",
+          "description": "Crea bot che capiscono se sei arrabbiato o stanco e modificano risposta, prezzo bassissimo",
+          "visual_hint": "Mano che tocca interfaccia vocale",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "ai assistant interface",
+          "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Provalo ora con API nuova",
+          "description": "10 minuti su platform.openai.com, API tts-1-hd, e hai un assistente che ti ascolta davvero",
+          "visual_hint": "Codice API con freccia play",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "openai api code",
+          "image": "https://images.pexels.com/photos/16245254/pexels-photo-16245254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hai mai parlato con un assistente che capisce le tue emozioni?",
+        "OpenAI ha appena sbloccato questa cosa.",
+        "Non è solo un sintetizzatore vocale.",
+        "Il modello analizza anche pause e tono.",
+        "E si adatta in tempo reale."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

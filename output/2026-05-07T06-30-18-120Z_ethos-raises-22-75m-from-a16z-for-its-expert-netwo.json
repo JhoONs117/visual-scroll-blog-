@@ -70,5 +70,84 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-05-at-23.18.12.jpeg?resize=1200,812",
-  "instagram_caption": "22,75 milioni di dollari per una piattaforma che ti paga in cambio della tua voce. 🎙️ Ethos l'ha ottenuti da a16z, il fondo che finanzia l'AI, e scambia accesso ad esperti proprio con registrazioni vocali. Il loro vero guadagno? I tuoi dati vocali diventano carburante per l'AI. 💡 Per te consulente: la voce ora vale più del tuo CV. È un pagamento una tantum, ma il tuo campione vocale si scala all'infinito. 📦 Registra il primo insight oggi: stai cedendo il tuo miglior asset."
+  "instagram_caption": "22,75 milioni di dollari per una piattaforma che ti paga in cambio della tua voce. 🎙️ Ethos l'ha ottenuti da a16z, il fondo che finanzia l'AI, e scambia accesso ad esperti proprio con registrazioni vocali. Il loro vero guadagno? I tuoi dati vocali diventano carburante per l'AI. 💡 Per te consulente: la voce ora vale più del tuo CV. È un pagamento una tantum, ma il tuo campione vocale si scala all'infinito. 📦 Registra il primo insight oggi: stai cedendo il tuo miglior asset.",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ethos-raises-22-75m-from-a16z-for-its-expert-netwo",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Il vero guadagno di Ethos non sono i 22,75 milioni da a16z. Sono le tue registrazioni vocali che finiscono per addestrare la loro AI.",
+        "La piattaforma ti vende accesso a esperti in cambio di competenze vocali. Sembra un patto tra pari, ma il potere è tutto dalla loro parte.",
+        "Per loro, la tua voce è un asset che si scala all'infinito. Per te, è un pagamento una tantum che non vedrai mai più.",
+        "Mentre registri un consiglio, stai cedendo un campione che varrà più del tuo CV. Letteralmente: la firma vocale diventa il tuo biglietto da visita.",
+        "Vuoi entrare nel gioco? Registra il tuo primo insight oggi. Il pagamento è la prova che hai appena messo in vendita il tuo miglior asset."
+      ]
+    },
+    "instagram": {
+      "caption": "22,75 milioni di dollari per una piattaforma che ti paga in cambio della tua voce. 🎙️ Ethos l'ha ottenuti da a16z, il fondo che finanzia l'AI, e scambia accesso ad esperti proprio con registrazioni vocali. Il loro vero guadagno? I tuoi dati vocali diventano carburante per l'AI. 💡 Per te consulente: la voce ora vale più del tuo CV. È un pagamento una tantum, ma il tuo campione vocale si scala all'infinito. 📦 Registra il primo insight oggi: stai cedendo il tuo miglior asset.",
+      "carousel": [
+        {
+          "hook": "La tua voce, il loro guadagno",
+          "description": "a16z investe 22,75 milioni in Ethos. Il vero asset? Le tue registrazioni vocali per addestrare la loro AI.",
+          "visual_hint": "Logo Ethos e banconote",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market graph"
+        },
+        {
+          "hook": "Competenze vocali per accesso",
+          "description": "La piattaforma scambia accesso a esperti con tue registrazioni vocali. Patto tra pari? Il potere è tutto loro.",
+          "visual_hint": "Microfono e cuffie tech",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "microphone studio",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Studio_microphone_with_pop-shield_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        {
+          "hook": "Voce: asset scalabile all'infinito",
+          "description": "Per loro la tua voce è un asset infinito. Per te è un pagamento una tantum che non rivedrai mai più.",
+          "visual_hint": "Onda sonora in espansione",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "La firma vocale è il tuo biglietto",
+          "description": "Registri un consiglio, cedi un campione che varrà più del tuo CV. La voce diventa il tuo biglietto da visita.",
+          "visual_hint": "Mano che tiene un badge",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Registra il tuo primo insight",
+          "description": "Il pagamento è la prova che hai appena messo in vendita il tuo miglior asset: la tua voce.",
+          "visual_hint": "Check verde su schermo",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ground_mounted_solar_panels.gk.jpg/960px-Ground_mounted_solar_panels.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hai visto che Ethos ha preso 22 milioni da a16z?",
+        "Sembra un accordo normale, ma non lo è.",
+        "Tu dai la tua voce in cambio di esperti.",
+        "Loro la usano per addestrare l'AI.",
+        "La tua voce vale più del tuo CV ora."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

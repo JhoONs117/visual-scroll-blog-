@@ -23,5 +23,39 @@
   ],
   "savedAt": "2026-05-06T12:53:19.970Z",
   "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
-  "instagram_caption": "Lo stop al monopolio è arrivato: il governo USA ha appena sostituito il suo fornitore AI principale. Anthropic perde il ruolo di partner esclusivo e i nuovi contratti vanno a startup più piccole e veloci. Per chi lavora nel settore, è il segnale che le alleanze esclusive sono un rischio. Se usi strumenti AI, chiediti: hai già un piano B per i tuoi fornitori?"
+  "instagram_caption": "Lo stop al monopolio è arrivato: il governo USA ha appena sostituito il suo fornitore AI principale. Anthropic perde il ruolo di partner esclusivo e i nuovi contratti vanno a startup più piccole e veloci. Per chi lavora nel settore, è il segnale che le alleanze esclusive sono un rischio. Se usi strumenti AI, chiediti: hai già un piano B per i tuoi fornitori?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "us-government-increases-ai-suppliers-and-rethinks-",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Il governo USA ha appena detto qualcosa che pochi hanno colto: vuole più fornitori AI. E non è una mossa tecnica, è politica.",
+        "Anthropic è stato il partner fidato fino a ieri. Oggi il messaggio è chiaro: non basta più essere i migliori, devi essere sostituibile.",
+        "La fiducia in un singolo fornitore è morta. Il risiko geopolitico sull'AI sta spostando le pedine, e chi non diversifica rimane scoperto.",
+        "Se lavori con modelli AI, il rischio non è tecnico, è di dipendenza strategica. Un solo fornitore = un solo punto di fallimento.",
+        "La lezione è semplice: diversifica ora, o preparati a rincorrere quando il tuo fornitore non sarà più il beniamino di turno."
+      ]
+    },
+    "instagram": {
+      "caption": "Lo stop al monopolio è arrivato: il governo USA ha appena sostituito il suo fornitore AI principale. Anthropic perde il ruolo di partner esclusivo e i nuovi contratti vanno a startup più piccole e veloci. Per chi lavora nel settore, è il segnale che le alleanze esclusive sono un rischio. Se usi strumenti AI, chiediti: hai già un piano B per i tuoi fornitori?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Il governo USA vuole più fornitori AI.",
+        "Anthropic potrebbe perdere il suo ruolo chiave.",
+        "Non si fidano più di un singolo partner.",
+        "Se lavori con AI, diversifica subito i fornitori.",
+        "Chi si lega a uno solo, rischia grosso."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

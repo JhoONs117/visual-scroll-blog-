@@ -71,5 +71,84 @@
   "pubDate": "Mon, 11 May 2026 13:00:00 +0000",
   "savedAt": "2026-05-11T14:30:46.862Z",
   "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-  "instagram_caption": "Nessun razzo esistente oggi può sollevare nemmeno un modulo dei data center spaziali 🚀 Cowboy Space ha raccolto 275 milioni di dollari per costruire cluster di server in orbita, ma il problema è che i razzi per lanciarli ancora non ci sono. Ogni modulo va progettato per un lancio inesistente, un azzardo tecnico da centinaia di milioni. Se risolvono il trasporto, la latenza potrebbe passare da secondi a millisecondi ⏱️ Per chi lavora con dati in tempo reale, trading o AI, sarebbe un salto enorme. La partita è chi arriva prima: il mercato o il vettore?"
+  "instagram_caption": "Nessun razzo esistente oggi può sollevare nemmeno un modulo dei data center spaziali 🚀 Cowboy Space ha raccolto 275 milioni di dollari per costruire cluster di server in orbita, ma il problema è che i razzi per lanciarli ancora non ci sono. Ogni modulo va progettato per un lancio inesistente, un azzardo tecnico da centinaia di milioni. Se risolvono il trasporto, la latenza potrebbe passare da secondi a millisecondi ⏱️ Per chi lavora con dati in tempo reale, trading o AI, sarebbe un salto enorme. La partita è chi arriva prima: il mercato o il vettore?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "there-aren-t-enough-rockets-for-space-data-centers",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Nessun razzo esistente può lanciare un solo modulo dei data center spaziali. Il problema non è domani: è oggi.",
+        "Cowboy Space ha raccolto 275 milioni per lanciare cluster di server in orbita. I soldi ci sono. I razzi no.",
+        "Ogni modulo deve essere costruito per resistere a un lancio che ancora non esiste. È un atto di fede ingegneristico.",
+        "Se risolvi il lancio, la latenza cala da secondi a millisecondi. La domanda è chi arriva prima: il mercato o il vettore.",
+        "O verticalizzi — razzo + modulo insieme — o aspetti che qualcun altro lo faccia. Non esiste terza via."
+      ]
+    },
+    "instagram": {
+      "caption": "Nessun razzo esistente oggi può sollevare nemmeno un modulo dei data center spaziali 🚀 Cowboy Space ha raccolto 275 milioni di dollari per costruire cluster di server in orbita, ma il problema è che i razzi per lanciarli ancora non ci sono. Ogni modulo va progettato per un lancio inesistente, un azzardo tecnico da centinaia di milioni. Se risolvono il trasporto, la latenza potrebbe passare da secondi a millisecondi ⏱️ Per chi lavora con dati in tempo reale, trading o AI, sarebbe un salto enorme. La partita è chi arriva prima: il mercato o il vettore?",
+      "carousel": [
+        {
+          "hook": "Nessun razzo può lanciarlo",
+          "description": "Nessun razzo esistente può lanciare un solo modulo dei data center spaziali. Il problema non è domani: è oggi.",
+          "visual_hint": "Razzo piccolo accanto a modulo gigante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "space rocket launch"
+        },
+        {
+          "hook": "275 milioni, zero razzi",
+          "description": "Cowboy Space ha raccolto 275 milioni per lanciare cluster in orbita. I soldi ci sono. I razzi no.",
+          "visual_hint": "Mucchio di monete con razzo disegnato",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stack of coins",
+          "image": "https://images.pexels.com/photos/21300485/pexels-photo-21300485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Atto di fede ingegneristico",
+          "description": "Ogni modulo deve resistere a un lancio che non esiste ancora. Costruisci per un razzo che qualcuno deve inventare.",
+          "visual_hint": "Modulo spaziale su tavolo da disegno",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "satellite blueprint",
+          "image": "https://images.pexels.com/photos/9615249/pexels-photo-9615249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Da secondi a millisecondi",
+          "description": "Se risolvi il lancio, la latenza crolla. La domanda è: chi arriva prima, il mercato o il vettore?",
+          "visual_hint": "Manoscritto che tocca globo terrestre",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand touching globe",
+          "image": "https://images.pexels.com/photos/4167566/pexels-photo-4167566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Verticalizza o aspetti",
+          "description": "O costruisci razzo e modulo insieme, o aspetti che qualcun altro lo faccia. Non esiste terza via.",
+          "visual_hint": "Frecce convergenti verso un punto",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "two arrows converging",
+          "image": "https://images.pexels.com/photos/36027825/pexels-photo-36027825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nessun razzo può lanciare quei moduli.",
+        "Cowboy Space ha raccolto 275 milioni.",
+        "I soldi ci sono, i razzi no.",
+        "La latenza potrebbe crollare a millisecondi.",
+        "O integri tutto o aspetti un razzo."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

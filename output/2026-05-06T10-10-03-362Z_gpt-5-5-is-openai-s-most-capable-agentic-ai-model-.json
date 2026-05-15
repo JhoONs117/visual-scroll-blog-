@@ -22,5 +22,39 @@
     "Le aziende hanno guadagnato il 40% di tempo."
   ],
   "savedAt": "2026-05-06T10:10:03.362Z",
-  "instagram_caption": "Ormai le aziende che lo usano hanno tagliato il 40% del tempo speso in task ripetitivi. 🚀 GPT-5.5 non aspetta che gli dici ogni passo: pensa, pianifica e decide da solo come risolvere compiti complessi, senza supervisione. 👀 Per chi lavora, significa avere un collega digitale che gestisce le operazioni noiose mentre tu ti concentri sul resto. ⏳ Il resto del mercato lo sta già facendo: tu hai già provato a delegare davvero?"
+  "instagram_caption": "Ormai le aziende che lo usano hanno tagliato il 40% del tempo speso in task ripetitivi. 🚀 GPT-5.5 non aspetta che gli dici ogni passo: pensa, pianifica e decide da solo come risolvere compiti complessi, senza supervisione. 👀 Per chi lavora, significa avere un collega digitale che gestisce le operazioni noiose mentre tu ti concentri sul resto. ⏳ Il resto del mercato lo sta già facendo: tu hai già provato a delegare davvero?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "gpt-5-5-is-openai-s-most-capable-agentic-ai-model-",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Un'AI che non aspetta istruzioni. Ecco cosa cambia davvero.",
+        "GPT-5.5 non è solo più veloce. Decide cosa fare e come farlo, senza che tu gli dica ogni passo.",
+        "I test interni mostrano che risolve problemi complessi senza supervisione. Come un collega che non ha bisogno di check continui.",
+        "Le aziende che lo usano hanno tagliato il 40% del tempo speso in task ripetitivi. Non è un miglioramento, è un salto.",
+        "Se non hai ancora provato a delegare davvero a un'AI, questo è il momento. Il resto del mercato lo sta già facendo."
+      ]
+    },
+    "instagram": {
+      "caption": "Ormai le aziende che lo usano hanno tagliato il 40% del tempo speso in task ripetitivi. 🚀 GPT-5.5 non aspetta che gli dici ogni passo: pensa, pianifica e decide da solo come risolvere compiti complessi, senza supervisione. 👀 Per chi lavora, significa avere un collega digitale che gestisce le operazioni noiose mentre tu ti concentri sul resto. ⏳ Il resto del mercato lo sta già facendo: tu hai già provato a delegare davvero?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Immagina un'AI che pensa da sola.",
+        "Non aspetta che tu dica ogni passo.",
+        "Pianifica e decide cosa fare.",
+        "Risolve problemi senza il tuo controllo.",
+        "Le aziende hanno guadagnato il 40% di tempo."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

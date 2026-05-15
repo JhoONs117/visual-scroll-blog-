@@ -68,5 +68,84 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ground_mounted_solar_panels.gk.jpg/960px-Ground_mounted_solar_panels.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     }
   ],
-  "instagram_caption": "SAP ha appena messo sul tavolo 1,16 miliardi di dollari per un laboratorio di AI tedesco fondato 18 mesi fa 💰, e ha detto sì a NemoClaw per lavorare insieme.  \nCon questa mossa, il colosso dei software aziendali vuole ficcare l'intelligenza artificiale dentro i programmi che già usi per fatture, ordini e report – roba pratica, non solo teoria 🛠️.  \nPer chi lavora con questi strumenti, significa che puoi già provare le nuove funzioni AI di SAP, senza aspettare anni ⏱️.  \nHai già testato qualche tool AI tra le tue scartoffie quotidiane?"
+  "instagram_caption": "SAP ha appena messo sul tavolo 1,16 miliardi di dollari per un laboratorio di AI tedesco fondato 18 mesi fa 💰, e ha detto sì a NemoClaw per lavorare insieme.  \nCon questa mossa, il colosso dei software aziendali vuole ficcare l'intelligenza artificiale dentro i programmi che già usi per fatture, ordini e report – roba pratica, non solo teoria 🛠️.  \nPer chi lavora con questi strumenti, significa che puoi già provare le nuove funzioni AI di SAP, senza aspettare anni ⏱️.  \nHai già testato qualche tool AI tra le tue scartoffie quotidiane?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sap-bets-1-16b-on-18-month-old-german-ai-lab-and-s",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "SAP ha appena investito 1.16 miliardi in un laboratorio AI che esiste da 18 mesi. Una startup senza fatturato, senza clienti enterprise. Perché?",
+        "Perché i big tech vendono AI generica. NemoClaw invece nasce dentro l'ERP. Non ti chiede di cambiare sistema per usare l'AI.",
+        "Tradotto: integri modelli predittivi nei processi che hai già. Acquisti, logistica, produzione. Senza scrivere una riga di codice.",
+        "Il risultato è che un'azienda media può testare un assistente AI sui propri dati reali in 2 settimane. Non in 6 mesi.",
+        "Costa meno di un abbonamento CRM base. Se hai un ERP SAP, vai su NemoClaw oggi e carica un processo. Provalo."
+      ]
+    },
+    "instagram": {
+      "caption": "SAP ha appena messo sul tavolo 1,16 miliardi di dollari per un laboratorio di AI tedesco fondato 18 mesi fa 💰, e ha detto sì a NemoClaw per lavorare insieme.  \nCon questa mossa, il colosso dei software aziendali vuole ficcare l'intelligenza artificiale dentro i programmi che già usi per fatture, ordini e report – roba pratica, non solo teoria 🛠️.  \nPer chi lavora con questi strumenti, significa che puoi già provare le nuove funzioni AI di SAP, senza aspettare anni ⏱️.  \nHai già testato qualche tool AI tra le tue scartoffie quotidiane?",
+      "carousel": [
+        {
+          "hook": "1.16 miliardi su un laboratorio senza fatturato",
+          "description": "SAP investe in una startup AI di 18 mesi senza clienti enterprise. Perché?",
+          "visual_hint": "Fasci di banconote su scrivania",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stack of dollar bills"
+        },
+        {
+          "hook": "NemoClaw nasce dentro l'ERP",
+          "description": "I big tech vendono AI generica. NemoClaw non ti chiede di cambiare sistema per usarla.",
+          "visual_hint": "Cervello robotico su ingranaggio SAP",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Integri modelli predittivi senza codice",
+          "description": "Acquisti, logistica, produzione. Tutto con i processi che hai già, zero righe di codice.",
+          "visual_hint": "Schermo con flusso dati",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Testa un assistente AI in 2 settimane",
+          "description": "Un'azienda media può provare l'AI sui propri dati reali in 2 settimane, non 6 mesi.",
+          "visual_hint": "Calendario con data cerchiata",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Costa meno di un abbonamento CRM base",
+          "description": "Se hai ERP SAP, carica un processo su NemoClaw oggi. Provalo.",
+          "visual_hint": "Icona check verde su sfondo scuro",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "solar panels",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ground_mounted_solar_panels.gk.jpg/960px-Ground_mounted_solar_panels.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "SAP ha speso un miliardo per una startup di 18 mesi.",
+        "Si chiama NemoClaw e lavora sull'ERP.",
+        "Non è una AI generica, è fatta per i tuoi processi.",
+        "La integri in due settimane, non in sei mesi.",
+        "Costa come un abbonamento Spotify. Provala ora."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

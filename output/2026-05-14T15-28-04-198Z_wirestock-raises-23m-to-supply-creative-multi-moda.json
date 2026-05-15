@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "wirestock-raises-23m-to-supply-creative-multi-moda",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+  "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+  "pubDate": "Thu, 14 May 2026 14:00:00 +0000",
+  "slides": [
+    "Wirestock raccoglie $23M, ma da chi?",
+    "Fornisce dati visivi e audio per AI",
+    "Il segreto? I dati valgono più dei modelli",
+    "Se lavori con AI, i tuoi dati sono il limite",
+    "Controlla oggi la qualità delle tue fonti"
+  ],
+  "thread_text": [
+    "I dati valgono più dei modelli. Tutti cercano il prossimo algoritmo, ma chi vende i dati visivi e audio per AI ha appena raccolto 23 milioni di dollari.",
+    "Wirestock ha chiuso un round da 23M. Non vendono modelli, vendono il materiale grezzo con cui quei modelli vengono addestrati. Il mercato si sta accorgendo che i dataset sono il vero bene scarso.",
+    "Se lavori con AI, il tuo limite oggi non è il modello che usi. È la qualità e la quantità dei dati che gli dai in pasto. Un modello scarso con dati eccellenti batte un modello eccellente con dati scadenti.",
+    "Mentre tutti competono su architetture e API, chi controlla le fonti di addestramento possiede il vero vantaggio competitivo. I dati sono la nuova supply chain dell'AI.",
+    "Quando aprirai il tuo prossimo progetto AI, la prima domanda non sarà quale modello usare, ma quali dati hai a disposizione e da dove arrivano."
+  ],
+  "video_script": [
+    "I dati valgono più dei modelli.",
+    "Wirestock ha raccolto 23 milioni di dollari.",
+    "Non vendono AI, vendono dati visivi e audio.",
+    "Il tuo limite oggi sei tu e i tuoi dati.",
+    "Controlla la qualità delle tue fonti prima di tutto."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "I dati valgono più dei modelli. Tutti cercano il prossimo algoritmo, ma chi vende i dati visivi e audio per AI ha appena raccolto 23 milioni di dollari.",
+        "Wirestock ha chiuso un round da 23M. Non vendono modelli, vendono il materiale grezzo con cui quei modelli vengono addestrati. Il mercato si sta accorgendo che i dataset sono il vero bene scarso.",
+        "Se lavori con AI, il tuo limite oggi non è il modello che usi. È la qualità e la quantità dei dati che gli dai in pasto. Un modello scarso con dati eccellenti batte un modello eccellente con dati scadenti.",
+        "Mentre tutti competono su architetture e API, chi controlla le fonti di addestramento possiede il vero vantaggio competitivo. I dati sono la nuova supply chain dell'AI.",
+        "Quando aprirai il tuo prossimo progetto AI, la prima domanda non sarà quale modello usare, ma quali dati hai a disposizione e da dove arrivano."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "I dati valgono più dei modelli.",
+        "Wirestock ha raccolto 23 milioni di dollari.",
+        "Non vendono AI, vendono dati visivi e audio.",
+        "Il tuo limite oggi sei tu e i tuoi dati.",
+        "Controlla la qualità delle tue fonti prima di tutto."
+      ]
+    },
+    "instagram": {
+      "caption": "Una startup ha appena raccolto 23 milioni di dollari 🤑 vendendo immagini e audio grezzi per addestrare l'intelligenza artificiale. Non il modello finale, ma la materia prima con cui quei modelli imparano: un segnale che i dataset sono ormai la risorsa più scarsa. Se lavori con l'AI, il tuo limite reale non è l'algoritmo, ma la qualità dei dati che usi per farlo funzionare 💡. Il primo controllo da fare oggi è da dove arrivano le tue fonti?"
+    }
+  },
+  "instagram_caption": "Una startup ha appena raccolto 23 milioni di dollari 🤑 vendendo immagini e audio grezzi per addestrare l'intelligenza artificiale. Non il modello finale, ma la materia prima con cui quei modelli imparano: un segnale che i dataset sono ormai la risorsa più scarsa. Se lavori con l'AI, il tuo limite reale non è l'algoritmo, ma la qualità dei dati che usi per farlo funzionare 💡. Il primo controllo da fare oggi è da dove arrivano le tue fonti?",
+  "carousel_slides": [
+    {
+      "hook": "I dati valgono più dei modelli",
+      "description": "Wirestock ha raccolto 23M. Non vendono modelli, vendono i dati grezzi per addestrarli. I dataset sono il vero bene scarso.",
+      "visual_hint": "Pile di soldi e schede grafiche",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "money stack computer server"
+    },
+    {
+      "hook": "23 milioni da chi?",
+      "description": "Fornisce dati visivi e audio per AI. Il mercato scopre che i dataset sono la nuova risorsa rara.",
+      "visual_hint": "Frecce che collegano dati a chip",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data cables server rack",
+      "image": "https://images.pexels.com/photos/5408005/pexels-photo-5408005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il tuo limite sono i dati",
+      "description": "Modello scarso con dati eccellenti batte modello eccellente con dati scadenti. La qualità dei dati fa la differenza.",
+      "visual_hint": "Lente d'ingrandimento su dataset",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass data chart",
+      "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chi controlla le fonti vince",
+      "description": "Mentre tutti competono su architetture, chi possiede le fonti di addestramento ha il vero vantaggio competitivo nell'AI.",
+      "visual_hint": "Mano che regge un chip luminoso",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding microchip",
+      "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Da dove arrivano i tuoi dati?",
+      "description": "Prima di iniziare un progetto AI, chiediti non quale modello usare, ma quali dati hai e da dove provengono.",
+      "visual_hint": "Checklist con segno di spunta",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "checklist clipboard document",
+      "image": "https://images.pexels.com/photos/8978610/pexels-photo-8978610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Wirestock-team.jpg?resize=1200,675",
+  "savedAt": "2026-05-14T15:28:24.091Z",
+  "sourceId": "701532e0c3d27d3f3e45553cf5258b4c"
+}

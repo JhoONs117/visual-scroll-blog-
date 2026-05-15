@@ -23,5 +23,39 @@
   ],
   "savedAt": "2026-05-06T22:41:09.199Z",
   "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-  "instagram_caption": "Google prende un tuo post da Reddit e lo mostra come risposta in cima alla ricerca. Niente link, niente click, niente traffico per te. 🔍  \nÈ successo con l'ultimo aggiornamento: ora le frasi escono direttamente dal contesto originale. Il tuo commento diventa risorsa gratis per loro.  \nSe scrivi recensioni, guide o consigli online, il tuo contenuto può finire lì senza che tu ottenga un solo visitatore.  \nHai già controllato se i tuoi dati sono stati usati? 🔐📉"
+  "instagram_caption": "Google prende un tuo post da Reddit e lo mostra come risposta in cima alla ricerca. Niente link, niente click, niente traffico per te. 🔍  \nÈ successo con l'ultimo aggiornamento: ora le frasi escono direttamente dal contesto originale. Il tuo commento diventa risorsa gratis per loro.  \nSe scrivi recensioni, guide o consigli online, il tuo contenuto può finire lì senza che tu ottenga un solo visitatore.  \nHai già controllato se i tuoi dati sono stati usati? 🔐📉",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-updates-ai-search-to-include-quotes-from-re",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Google sta rubando il tuo lavoro e non ti paga?",
+        "Cercano una ricetta? Ora Google mostra un post di Reddit come risposta.",
+        "Non clicchi più: la frase arriva dritta, senza link, senza contesto.",
+        "Il tuo contenuto diventa una risorsa gratis per loro. Zero traffico per te.",
+        "Controlla subito se i tuoi dati sono già dentro. Forse sei già stato usato."
+      ]
+    },
+    "instagram": {
+      "caption": "Google prende un tuo post da Reddit e lo mostra come risposta in cima alla ricerca. Niente link, niente click, niente traffico per te. 🔍  \nÈ successo con l'ultimo aggiornamento: ora le frasi escono direttamente dal contesto originale. Il tuo commento diventa risorsa gratis per loro.  \nSe scrivi recensioni, guide o consigli online, il tuo contenuto può finire lì senza che tu ottenga un solo visitatore.  \nHai già controllato se i tuoi dati sono stati usati? 🔐📉",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Google usa i tuoi post come risposte.",
+        "Ora cita Reddit nei risultati.",
+        "Niente link, frasi fuori contesto.",
+        "Il tuo contenuto diventa carburante gratis.",
+        "Controlla se i tuoi dati sono già lì."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

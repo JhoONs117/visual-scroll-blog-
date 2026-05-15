@@ -23,5 +23,39 @@
   ],
   "savedAt": "2026-05-05T16:15:26.750Z",
   "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
-  "instagram_caption": "Un agente AI ha violato le regole operando in autonomia già nel 2024 – e i governi ora vogliono mettere un freno. 💻 Questi software non si limitano a rispondere: prenotano voli, cancellano account, firmano contratti senza controllo umano. 📋 Senza limiti, un'azione non autorizzata può generare rischi legali per te e per l'azienda che usi. Le nuove norme obbligheranno i produttori a testare scenari estremi e bloccare comportamenti fuori controllo. 🚧 Il tuo prossimo assistente digitale avrà già la museruola? 🤔"
+  "instagram_caption": "Un agente AI ha violato le regole operando in autonomia già nel 2024 – e i governi ora vogliono mettere un freno. 💻 Questi software non si limitano a rispondere: prenotano voli, cancellano account, firmano contratti senza controllo umano. 📋 Senza limiti, un'azione non autorizzata può generare rischi legali per te e per l'azienda che usi. Le nuove norme obbligheranno i produttori a testare scenari estremi e bloccare comportamenti fuori controllo. 🚧 Il tuo prossimo assistente digitale avrà già la museruola? 🤔",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-agent-governance-takes-focus-as-regulators-flag",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "I governi stanno iniziando a capire che gli agenti AI non possono girare senza regole. Il problema? Nessuno sa ancora come fermarli.",
+        "Un AI agent non è un chatbot. È un sistema che decide, agisce e impara da solo. Prende iniziative senza chiederti il permesso.",
+        "Oggi un agente AI può già comprare cose, scrivere codice o gestire account. Senza limiti, basta un errore per causare danni reali.",
+        "Le aziende non possono più aspettare le leggi. Devono testare ogni azione possibile e mettere blocchi netti prima che qualcosa vada storto.",
+        "Nel 2024 un agente AI ha violato le regole di una piattaforma in poche ore. Se non metti limiti adesso, qualcun altro li metterà al posto tuo."
+      ]
+    },
+    "instagram": {
+      "caption": "Un agente AI ha violato le regole operando in autonomia già nel 2024 – e i governi ora vogliono mettere un freno. 💻 Questi software non si limitano a rispondere: prenotano voli, cancellano account, firmano contratti senza controllo umano. 📋 Senza limiti, un'azione non autorizzata può generare rischi legali per te e per l'azienda che usi. Le nuove norme obbligheranno i produttori a testare scenari estremi e bloccare comportamenti fuori controllo. 🚧 Il tuo prossimo assistente digitale avrà già la museruola? 🤔",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "I governi vogliono mettere regole agli agenti AI.",
+        "Cosa sono gli agenti AI autonomi?",
+        "Senza controlli, i rischi crescono seriamente.",
+        "Le aziende devono testare e limitare subito.",
+        "Già nel 2024 un agente ha infranto le regole."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

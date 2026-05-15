@@ -70,5 +70,84 @@
     }
   ],
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/per-token-pricing-hero_x1440.webp",
-  "instagram_caption": "Copilot ora ti fa pagare ogni singolo token che usi, esattamente come Netflix fattura per le ore di streaming. Niente abbonamenti fissi: se usi l'assistente AI poco, spendi poco; se lo sfrutti tanto, paghi in proporzione. Puoi impostare budget e limiti massimi — il controllo è tuo, non nascosto nelle clausole. Per chi lavora con codice o testo, significa sapere esattamente quanto costerà ogni richiesta, ⚖️ come un contatore della luce. Tu preferiresti pagare a consumo o un canone mensile fisso? 🔍💸📊"
+  "instagram_caption": "Copilot ora ti fa pagare ogni singolo token che usi, esattamente come Netflix fattura per le ore di streaming. Niente abbonamenti fissi: se usi l'assistente AI poco, spendi poco; se lo sfrutti tanto, paghi in proporzione. Puoi impostare budget e limiti massimi — il controllo è tuo, non nascosto nelle clausole. Per chi lavora con codice o testo, significa sapere esattamente quanto costerà ogni richiesta, ⚖️ come un contatore della luce. Tu preferiresti pagare a consumo o un canone mensile fisso? 🔍💸📊",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "per-token-ai-charges-come-to-github-copilot",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Un commit semplice potrebbe costarti più di un prompt su GitHub Copilot. Il prezzo non è nei singoli comandi, ma nei flussi di lavoro medi che accumuli senza accorgertene.",
+        "Ogni token che invii a Copilot viene addebitato, ma la fattura finale non segue la logica del singolo prompt. Il costo reale è nascosto nei micro-commit ripetuti.",
+        "Chi usa Copilot intensamente potrebbe ritrovarsi con budget mensili esauriti prima di metà mese. I flussi di lavoro quotidiani moltiplicano i token senza che te ne accorga.",
+        "Un refactoring veloce, una completazione automatica, una correzione di sintassi: ogni azione ha un prezzo. La differenza tra un commit economico e uno costoso è nei dettagli.",
+        "Controlla i tuoi log oggi. Cerca i pattern di commit ripetuti e i prompt non necessari. Se non riduci i flussi di lavoro medi, il prossimo addebito sarà una sorpresa."
+      ]
+    },
+    "instagram": {
+      "caption": "Copilot ora ti fa pagare ogni singolo token che usi, esattamente come Netflix fattura per le ore di streaming. Niente abbonamenti fissi: se usi l'assistente AI poco, spendi poco; se lo sfrutti tanto, paghi in proporzione. Puoi impostare budget e limiti massimi — il controllo è tuo, non nascosto nelle clausole. Per chi lavora con codice o testo, significa sapere esattamente quanto costerà ogni richiesta, ⚖️ come un contatore della luce. Tu preferiresti pagare a consumo o un canone mensile fisso? 🔍💸📊",
+      "carousel": [
+        {
+          "hook": "Il tuo commit costa più del prompt",
+          "description": "Un commit semplice potrebbe costarti più di un prompt. Il prezzo è nei flussi di lavoro medi che accumuli.",
+          "visual_hint": "confronto visivo prezzo commit vs prompt",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Micro-commit moltiplicano i token",
+          "description": "Ogni token inviato a Copilot viene addebitato. Il costo reale è nascosto nei micro-commit ripetuti quotidiani.",
+          "visual_hint": "flusso di commit ripetuti",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Budget esaurito a metà mese?",
+          "description": "Chi usa Copilot intensamente rischia di esaurire il budget mensile prima di metà mese, senza accorgersene.",
+          "visual_hint": "calendario con budget esaurito",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "solar panels",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ground_mounted_solar_panels.gk.jpg/960px-Ground_mounted_solar_panels.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Ogni azione ha un prezzo nascosto",
+          "description": "Refactoring veloce, completazione automatica, correzione sintassi: ogni azione ha un costo. I dettagli fanno la differenza.",
+          "visual_hint": "mano che scrive codice",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Controlla i log prima del prossimo addebito",
+          "description": "Cerca pattern di commit ripetuti e prompt non necessari. Riduci i flussi di lavoro medi per evitare sorprese.",
+          "visual_hint": "log screen con pattern evidenziati",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "factory robot",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Un commit semplice costa più di un prompt.",
+        "Il prezzo è nei flussi di lavoro medi.",
+        "Copilot addebita ogni token, attento.",
+        "Chi lo usa tanto riveda i budget.",
+        "Controlla i log prima del prossimo addebito."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

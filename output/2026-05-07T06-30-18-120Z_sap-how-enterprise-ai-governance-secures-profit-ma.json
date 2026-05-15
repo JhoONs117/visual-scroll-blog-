@@ -67,5 +67,81 @@
     }
   ],
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/sap-enterprise-ai-governance-agentic-strategy-agents-trends-artificial-intelligence.jpg",
-  "instagram_caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍"
+  "instagram_caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sap-how-enterprise-ai-governance-secures-profit-ma",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Mezzo milione perso su un contrato. L'AI ha trovato un rischio che nessuno aveva visto.",
+        "Il 50% dei progetti AI non arriva in produzione. Il problema non è la tecnologia, ma la governance.",
+        "SAP ha automatizzato la conformità normativa. Un cliente ha scoperto un errore che gli costava margini.",
+        "Tra pochi mesi, le tue revisioni potrebbero essere già influenzate da questo tipo di controllo automatico.",
+        "Scopri se il tuo team è dentro quel 50%. Fai il test governance e chiudi il trimestre in sicurezza."
+      ]
+    },
+    "instagram": {
+      "caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍",
+      "carousel": [
+        {
+          "hook": "Half a million lost.",
+          "description": "AI found a hidden risk in a contract that no one saw. SAP saved the margin.",
+          "visual_hint": "Contract with red flag",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "contract document magnifying glass"
+        },
+        {
+          "hook": "50% of AI projects fail.",
+          "description": "They never go live. It's a governance problem, not technology.",
+          "visual_hint": "Chart with 50% drop",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart down",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png/960px-GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "SAP caught the margin killer.",
+          "description": "Compliance automation found an error that was costing profits. Automated conformity check.",
+          "visual_hint": "Shield with checkmark",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room blinking lights"
+        },
+        {
+          "hook": "Your next audit is changing.",
+          "description": "Soon, audits will be shaped by automatic AI compliance controls. Your margins depend on it.",
+          "visual_hint": "Clock and audit report",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers meeting table"
+        },
+        {
+          "hook": "Are you in the 50%?",
+          "description": "Test your governance gap before Q1 closes. Secure your margins and pass the audit.",
+          "visual_hint": "Test checklist on screen",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "factory robot assembly line"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Un cliente ha perso mezzo milione in rischi nascosti.",
+        "La governance AI li ha salvati all'ultimo minuto.",
+        "Metà dei progetti AI fallisce in azienda.",
+        "Non è colpa della tecnologia ma delle regole.",
+        "Testa il tuo divario di governance prima che il mese chiuda."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

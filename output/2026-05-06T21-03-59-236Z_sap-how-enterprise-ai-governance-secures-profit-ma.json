@@ -23,5 +23,39 @@
   ],
   "savedAt": "2026-05-06T21:03:59.236Z",
   "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
-  "instagram_caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍"
+  "instagram_caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sap-how-enterprise-ai-governance-secures-profit-ma",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Se la tua AI non ha regole, sta letteralmente bruciando i tuoi margini di profitto.",
+        "Le aziende scoprono che senza governance l’AI costa più di quanto guadagna, tra errori e rischi legali.",
+        "Il punto non è rallentare l’innovazione, ma incanalarla. Chi mette controlli non perde, protegge.",
+        "Si integrano senza rallentare i team: pochi layer di governance, non processi infiniti di compliance.",
+        "Una banca ha tagliato le perdite del 30% in 6 mesi. La governance non è un freno, è un acceleratore pulito."
+      ]
+    },
+    "instagram": {
+      "caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "AI senza regole mangia i tuoi profitti.",
+        "Serve governance, non per frenare, ma per proteggere.",
+        "Riduci rischi e salvi i margini.",
+        "Integri i controlli in pochi passi.",
+        "Una banca ha tagliato le perdite del trenta percento."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

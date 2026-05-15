@@ -22,5 +22,39 @@
     "Chatbot personalizzati per clienti indiani."
   ],
   "savedAt": "2026-05-05T15:25:02.038Z",
-  "instagram_caption": "Il primo unicorno indiano della GenAI ha smesso di sviluppare modelli proprietari per passare ai servizi cloud. ☁️ Costruire intelligenze artificiali da zero si è rivelato troppo costoso e complesso, persino per chi aveva investimenti milionari. Adesso vendono soluzioni pronte, come chatbot personalizzati per aziende locali, puntando su entrate stabili e margini alti. Per chi usa strumenti AI, questo significa meno innovazione di frontiera e più prodotti pratici già confezionati. Cosa resta delle startup che volevano sfidare OpenAI?"
+  "instagram_caption": "Il primo unicorno indiano della GenAI ha smesso di sviluppare modelli proprietari per passare ai servizi cloud. ☁️ Costruire intelligenze artificiali da zero si è rivelato troppo costoso e complesso, persino per chi aveva investimenti milionari. Adesso vendono soluzioni pronte, come chatbot personalizzati per aziende locali, puntando su entrate stabili e margini alti. Per chi usa strumenti AI, questo significa meno innovazione di frontiera e più prodotti pratici già confezionati. Cosa resta delle startup che volevano sfidare OpenAI?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "india-s-first-genai-unicorn-shifts-to-cloud-servic",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Un unicorno AI ha appena ammesso che costruire modelli non era un buon business. Il pivot è già iniziato.",
+        "I costi per competere con OpenAI e Anthropic sono diventati insostenibili. Meglio vendere vapore acqueo che server.",
+        "Così hanno cambiato strategia: niente più modelli propri, solo servizi cloud a margine alto e ricavi prevedibili.",
+        "Ora vendono strumenti AI confezionati per aziende. Il prodotto non è più la tecnologia, ma la soluzione pronta all'uso.",
+        "Il futuro delle startup AI non sono i modelli, ma le applicazioni verticali. Esempio: chatbot su misura per imprese indiane."
+      ]
+    },
+    "instagram": {
+      "caption": "Il primo unicorno indiano della GenAI ha smesso di sviluppare modelli proprietari per passare ai servizi cloud. ☁️ Costruire intelligenze artificiali da zero si è rivelato troppo costoso e complesso, persino per chi aveva investimenti milionari. Adesso vendono soluzioni pronte, come chatbot personalizzati per aziende locali, puntando su entrate stabili e margini alti. Per chi usa strumenti AI, questo significa meno innovazione di frontiera e più prodotti pratici già confezionati. Cosa resta delle startup che volevano sfidare OpenAI?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Un unicorno AI ha cambiato tutto.",
+        "Costruire modelli costava troppo.",
+        "Ora vendono servizi cloud.",
+        "Strumenti AI pronti per aziende.",
+        "Chatbot personalizzati per clienti indiani."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

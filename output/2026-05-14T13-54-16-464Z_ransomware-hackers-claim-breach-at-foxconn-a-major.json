@@ -1,0 +1,154 @@
+{
+  "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
+  "slides": [
+    "Foxconn colpita da ransomware? Cosa hanno preso?",
+    "I criminali hanno sottratto 5 TB di dati.",
+    "La richiesta? Riscatto in Bitcoin, non rivelato.",
+    "I tuoi dispositivi Apple potrebbero essere a rischio?",
+    "Verifica aggiornamenti sicurezza oggi stesso."
+  ],
+  "thread_text": [
+    "I criminali hanno rubato 5 TB di dati da Foxconn e chiedono un riscatto in Bitcoin. Ecco cosa sappiamo.",
+    "Foxconn è il più grande assemblatore di iPhone al mondo. Se hanno preso i loro server, i dati sensibili dei dispositivi Apple potrebbero essere stati esposti.",
+    "La richiesta di riscatto non è stata resa pubblica, ma è probabile che includa progetti hardware, dati di produzione e informazioni clienti.",
+    "Cosa significa per te? Se i dati rubati riguardano la supply chain Apple, potrebbero esserci rischi di sicurezza per i prossimi dispositivi.",
+    "Controlla gli aggiornamenti di sicurezza dei tuoi dispositivi Apple oggi stesso. Se un fix è già stato rilasciato, non aspettare."
+  ],
+  "video_script": [
+    "Hanno rubato 5TB di dati a Foxconn.",
+    "Foxconn assembla iPhone e altri prodotti Apple.",
+    "I criminali chiedono un riscatto in Bitcoin.",
+    "I tuoi dati Apple potrebbero essere a rischio.",
+    "Controlla subito gli aggiornamenti di sicurezza."
+  ],
+  "instagram_caption": "Foxconn, il mega-fornitore di Apple, ha subito un attacco ransomware: 5 terabyte di dati rubati e un riscatto in Bitcoin già richiesto 🛡️. Parliamo di progetti hardware e dati di produzione dei tuoi iPhone: se trapelano, la sicurezza della supply chain è a rischio. Per te significa che potrebbero emergere vulnerabilità nei prossimi dispositivi Apple. Hai già verificato gli aggiornamenti di sicurezza oggi? 🔒💻⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Riscatto Bitcoin da Foxconn",
+      "description": "Criminali hanno rubato 5 TB di dati da Foxconn e chiedono riscatto in Bitcoin.",
+      "visual_hint": "Bitcoin coin server breach",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "bitcoin coin server"
+    },
+    {
+      "hook": "Dati Apple esposti?",
+      "description": "Foxconn assembla iPhone. Server violati potrebbero esporre dati sensibili dei dispositivi Apple.",
+      "visual_hint": "iPhone assembly factory",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "iphone factory line",
+      "image": "https://images.pexels.com/photos/36423804/pexels-photo-36423804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cosa chiedono i hacker",
+      "description": "Richiesta non pubblica: probabili progetti hardware, dati produzione e informazioni clienti.",
+      "visual_hint": "Blueprints data leak",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "blueprint document server",
+      "image": "https://images.pexels.com/photos/8297537/pexels-photo-8297537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rischi per i dispositivi",
+      "description": "Dati rubati sulla supply chain Apple potrebbero creare rischi sicurezza per prossimi dispositivi.",
+      "visual_hint": "Apple device warning",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "iphone warning screen",
+      "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controlla aggiornamenti ora",
+      "description": "Verifica aggiornamenti sicurezza Apple oggi. Se fix già rilasciato, non aspettare.",
+      "visual_hint": "Update button phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "software update phone",
+      "image": "https://images.pexels.com/photos/17789083/pexels-photo-17789083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/iphone-store.jpg?resize=1200,800",
+  "pubDate": "Wed, 13 May 2026 15:39:37 +0000",
+  "savedAt": "2026-05-14T13:55:56.018Z",
+  "link": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ransomware-hackers-claim-breach-at-foxconn-a-major",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "I criminali hanno rubato 5 TB di dati da Foxconn e chiedono un riscatto in Bitcoin. Ecco cosa sappiamo.",
+        "Foxconn è il più grande assemblatore di iPhone al mondo. Se hanno preso i loro server, i dati sensibili dei dispositivi Apple potrebbero essere stati esposti.",
+        "La richiesta di riscatto non è stata resa pubblica, ma è probabile che includa progetti hardware, dati di produzione e informazioni clienti.",
+        "Cosa significa per te? Se i dati rubati riguardano la supply chain Apple, potrebbero esserci rischi di sicurezza per i prossimi dispositivi.",
+        "Controlla gli aggiornamenti di sicurezza dei tuoi dispositivi Apple oggi stesso. Se un fix è già stato rilasciato, non aspettare."
+      ]
+    },
+    "instagram": {
+      "caption": "Foxconn, il mega-fornitore di Apple, ha subito un attacco ransomware: 5 terabyte di dati rubati e un riscatto in Bitcoin già richiesto 🛡️. Parliamo di progetti hardware e dati di produzione dei tuoi iPhone: se trapelano, la sicurezza della supply chain è a rischio. Per te significa che potrebbero emergere vulnerabilità nei prossimi dispositivi Apple. Hai già verificato gli aggiornamenti di sicurezza oggi? 🔒💻⚠️",
+      "carousel": [
+        {
+          "hook": "Riscatto Bitcoin da Foxconn",
+          "description": "Criminali hanno rubato 5 TB di dati da Foxconn e chiedono riscatto in Bitcoin.",
+          "visual_hint": "Bitcoin coin server breach",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "bitcoin coin server"
+        },
+        {
+          "hook": "Dati Apple esposti?",
+          "description": "Foxconn assembla iPhone. Server violati potrebbero esporre dati sensibili dei dispositivi Apple.",
+          "visual_hint": "iPhone assembly factory",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "iphone factory line",
+          "image": "https://images.pexels.com/photos/36423804/pexels-photo-36423804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cosa chiedono i hacker",
+          "description": "Richiesta non pubblica: probabili progetti hardware, dati produzione e informazioni clienti.",
+          "visual_hint": "Blueprints data leak",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "blueprint document server",
+          "image": "https://images.pexels.com/photos/8297537/pexels-photo-8297537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rischi per i dispositivi",
+          "description": "Dati rubati sulla supply chain Apple potrebbero creare rischi sicurezza per prossimi dispositivi.",
+          "visual_hint": "Apple device warning",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "iphone warning screen",
+          "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Controlla aggiornamenti ora",
+          "description": "Verifica aggiornamenti sicurezza Apple oggi. Se fix già rilasciato, non aspettare.",
+          "visual_hint": "Update button phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "software update phone",
+          "image": "https://images.pexels.com/photos/17789083/pexels-photo-17789083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hanno rubato 5TB di dati a Foxconn.",
+        "Foxconn assembla iPhone e altri prodotti Apple.",
+        "I criminali chiedono un riscatto in Bitcoin.",
+        "I tuoi dati Apple potrebbero essere a rischio.",
+        "Controlla subito gli aggiornamenti di sicurezza."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
+}

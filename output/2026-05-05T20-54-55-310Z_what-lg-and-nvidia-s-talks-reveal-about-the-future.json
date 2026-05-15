@@ -23,5 +23,39 @@
   ],
   "savedAt": "2026-05-05T20:54:55.310Z",
   "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
-  "instagram_caption": "LG e Nvidia stanno collaborando per addestrare robot in simulazioni cloud, poi trasferirli direttamente in fabbrica. 🏭 Non più solo chatbot: l'AI impara a controllare macchine, movimenti e decisioni nel mondo fisico, senza bisogno di supervisione umana. I modelli virtuali testano ogni scenario, e i robot reali eseguono già in sicurezza. Per chi lavora nella logistica o nella produzione, significa linee più veloci e operazioni gestite da remoto. Per gli altri, la domanda è: tra quanti anni il tuo autista-assistente funzionerà così? 🤖"
+  "instagram_caption": "LG e Nvidia stanno collaborando per addestrare robot in simulazioni cloud, poi trasferirli direttamente in fabbrica. 🏭 Non più solo chatbot: l'AI impara a controllare macchine, movimenti e decisioni nel mondo fisico, senza bisogno di supervisione umana. I modelli virtuali testano ogni scenario, e i robot reali eseguono già in sicurezza. Per chi lavora nella logistica o nella produzione, significa linee più veloci e operazioni gestite da remoto. Per gli altri, la domanda è: tra quanti anni il tuo autista-assistente funzionerà così? 🤖",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "what-lg-and-nvidia-s-talks-reveal-about-the-future",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "I robot stanno per smettere di essere stupidi. Non è fantascienza: è quello che stanno costruendo LG e Nvidia adesso.",
+        "Finora l'AI viveva solo sugli schermi. La novità è che inizia a controllare bracci meccanici, linee di produzione, magazzini.",
+        "Non serve più un umano per ogni macchina. I modelli virtuali imparano in simulazione e poi vengono trasferiti istantaneamente sull'hardware reale.",
+        "Il risultato: fabbriche dove i robot si addestrano da soli, senza errori costosi, senza rischi per le persone.",
+        "Il passo successivo è fuori dalle fabbriche. Se l'AI impara a muoversi nel mondo fisico, il confine tra software e realtà sta per cadere."
+      ]
+    },
+    "instagram": {
+      "caption": "LG e Nvidia stanno collaborando per addestrare robot in simulazioni cloud, poi trasferirli direttamente in fabbrica. 🏭 Non più solo chatbot: l'AI impara a controllare macchine, movimenti e decisioni nel mondo fisico, senza bisogno di supervisione umana. I modelli virtuali testano ogni scenario, e i robot reali eseguono già in sicurezza. Per chi lavora nella logistica o nella produzione, significa linee più veloci e operazioni gestite da remoto. Per gli altri, la domanda è: tra quanti anni il tuo autista-assistente funzionerà così? 🤖",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "LG e Nvidia stanno portando l'AI nel mondo reale.",
+        "Niente più solo schermi: ora controllano robot e fabbriche.",
+        "Macchine più veloci, intelligenti e senza bisogno di umani.",
+        "Allenano modelli virtuali che comandano hardware vero.",
+        "I robot in fabbrica già imparano da simulazioni nel cloud."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

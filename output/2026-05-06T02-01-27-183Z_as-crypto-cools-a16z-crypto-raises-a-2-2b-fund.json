@@ -23,5 +23,40 @@
     "Quando la folla ha paura, i grandi costruiscono."
   ],
   "savedAt": "2026-05-06T02:01:27.183Z",
-  "instagram_caption": "Mentre tutti i titoli urlano “cripto è morta”, a16z ha appena chiuso un fondo da 2.2 miliardi di dollari per startup crypto. 💸 Non stanno comprando token in saldo: stanno scommettendo su progetti che forse vedremo tra 5-10 anni, senza dover vendere nulla tra sei mesi. 🧠 Per te significa che qualcuno con decenni di esperienza punta sulla prossima infrastruttura, non sul prezzo di oggi. Dove mettete i soldi quando tutti scappano?"
+  "instagram_caption": "Mentre tutti i titoli urlano “cripto è morta”, a16z ha appena chiuso un fondo da 2.2 miliardi di dollari per startup crypto. 💸 Non stanno comprando token in saldo: stanno scommettendo su progetti che forse vedremo tra 5-10 anni, senza dover vendere nulla tra sei mesi. 🧠 Per te significa che qualcuno con decenni di esperienza punta sulla prossima infrastruttura, non sul prezzo di oggi. Dove mettete i soldi quando tutti scappano?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "as-crypto-cools-a16z-crypto-raises-a-2-2b-fund",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Se il più grande fondo VC della Silicon Valley raccoglie 2.2 miliardi proprio quando tutti scappano, qualcuno sa qualcosa che voi no.",
+        "Il mercato crypto è in rosso, i prezzi crollano, i titoli gridano al disastro. Ma a16z non gioca a chi grida più forte.",
+        "Loro guardano avanti di 5-10 anni. Il nuovo fondo non è per comprare Bitcoin al ribasso, è per costruire la prossima infrastruttura.",
+        "Investiranno in startup che nessuno ancora conosce. Soldi a lunga durata, senza pressione di vendere tra sei mesi.",
+        "Morale: quando i giornali dicono che il settore è morto, i professionisti mettono i soldi sul tavolo. Seguite i flussi, non le emozioni."
+      ]
+    },
+    "instagram": {
+      "caption": "Mentre tutti i titoli urlano “cripto è morta”, a16z ha appena chiuso un fondo da 2.2 miliardi di dollari per startup crypto. 💸 Non stanno comprando token in saldo: stanno scommettendo su progetti che forse vedremo tra 5-10 anni, senza dover vendere nulla tra sei mesi. 🧠 Per te significa che qualcuno con decenni di esperienza punta sulla prossima infrastruttura, non sul prezzo di oggi. Dove mettete i soldi quando tutti scappano?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Hai visto che a16z ha raccolto 2.2 miliardi?",
+        "Tutti scappano dal crypto, prezzi giù, panico generale.",
+        "Loro invece entrano adesso, con calma.",
+        "Investono in startup, non in token volatili.",
+        "Cinque-dieci anni di pazienza, niente fretta.",
+        "Quando la folla ha paura, i grandi costruiscono."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

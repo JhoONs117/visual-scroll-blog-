@@ -22,5 +22,39 @@
     "Inizia ora, prendi il tuo win veloce."
   ],
   "savedAt": "2026-05-07T02:04:38.310Z",
-  "instagram_caption": "In Europa l’adozione dell'AI è in ritardo, ma secondo IDC non serve un piano da milioni per recuperare.  \nIl consiglio è semplice: scegli un processo, uno solo, e automatizzalo. Un chatbot per i ticket di supporto, per esempio, ha già tagliato le richieste del 40% in tre mesi.  \nConcretamente significa risolvere un problema vero senza stravolgere tutto il lavoro.  \nQuale processo manuale nella tua giornata ti piacerebbe far gestire a un assistente automatico? 🤖🎯⏱️"
+  "instagram_caption": "In Europa l’adozione dell'AI è in ritardo, ma secondo IDC non serve un piano da milioni per recuperare.  \nIl consiglio è semplice: scegli un processo, uno solo, e automatizzalo. Un chatbot per i ticket di supporto, per esempio, ha già tagliato le richieste del 40% in tre mesi.  \nConcretamente significa risolvere un problema vero senza stravolgere tutto il lavoro.  \nQuale processo manuale nella tua giornata ti piacerebbe far gestire a un assistente automatico? 🤖🎯⏱️",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "idc-how-emea-cios-can-jumpstart-ai-rollouts",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "L'Europa sta perdendo il treno dell'AI. E non per mancanza di talento o soldi.",
+        "IDC dice di iniziare piccolo. Non serve una strategia da un miliardo per vedere risultati.",
+        "Prendi un processo, uno solo, e automatizzalo. Un chatbot per i ticket di supporto, per esempio.",
+        "L'azienda che ha fatto questo ha tagliato i ticket del 40% in tre mesi. Senza rivoluzionare tutto.",
+        "Non aspettare il piano perfetto. Inizia oggi con un win veloce o resterai indietro."
+      ]
+    },
+    "instagram": {
+      "caption": "In Europa l’adozione dell'AI è in ritardo, ma secondo IDC non serve un piano da milioni per recuperare.  \nIl consiglio è semplice: scegli un processo, uno solo, e automatizzalo. Un chatbot per i ticket di supporto, per esempio, ha già tagliato le richieste del 40% in tre mesi.  \nConcretamente significa risolvere un problema vero senza stravolgere tutto il lavoro.  \nQuale processo manuale nella tua giornata ti piacerebbe far gestire a un assistente automatico? 🤖🎯⏱️",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "L'Europa ha un problema con l'AI.",
+        "IDC dice di iniziare in piccolo.",
+        "Cerca un processo semplice da automatizzare.",
+        "Un chatbot per il supporto è un ottimo inizio.",
+        "Inizia ora, prendi il tuo win veloce."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

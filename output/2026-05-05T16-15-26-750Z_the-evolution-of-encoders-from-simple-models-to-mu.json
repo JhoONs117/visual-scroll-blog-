@@ -22,5 +22,39 @@
     "Ora capiscono immagini e suoni."
   ],
   "savedAt": "2026-05-05T16:15:26.750Z",
-  "instagram_caption": "Prima gli encoder trasformavano solo testo in numeri. Ora gli stessi modelli possono elaborare parole, immagini e audio insieme, creando una rappresentazione unica del mondo. Conta perché un'AI che capisce più input contemporaneamente prende decisioni migliori, non separa ciò che nella realtà è connesso. Per te significa che strumenti come assistenti vocali o motori di ricerca potranno interpretare una foto e la tua domanda come un unico concetto, senza fraintesi. Quale dato \"nascosto\" nella tua giornata — suoni, gesti, temperature — potrebbe insegnare a un encoder qualcosa di nuovo? 🔢🧠📸🎵"
+  "instagram_caption": "Prima gli encoder trasformavano solo testo in numeri. Ora gli stessi modelli possono elaborare parole, immagini e audio insieme, creando una rappresentazione unica del mondo. Conta perché un'AI che capisce più input contemporaneamente prende decisioni migliori, non separa ciò che nella realtà è connesso. Per te significa che strumenti come assistenti vocali o motori di ricerca potranno interpretare una foto e la tua domanda come un unico concetto, senza fraintesi. Quale dato \"nascosto\" nella tua giornata — suoni, gesti, temperature — potrebbe insegnare a un encoder qualcosa di nuovo? 🔢🧠📸🎵",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-evolution-of-encoders-from-simple-models-to-mu",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Hai mai pensato a come un computer capisce le parole? Non è magia. È il modo in cui traduciamo i dati in numeri.",
+        "All'inizio era semplice: ogni parola era un codice. Poi abbiamo capito che non bastava. Serviva il contesto.",
+        "Più dati dai al modello, più precise sono le risposte. Ma attenzione: dati sporchi portano a risposte stupide.",
+        "Non devi limitarti al testo. Puoi addestrare un encoder su immagini, suoni, persino video.",
+        "Ora un solo modello può guardare una foto, ascoltare un audio e leggere un testo. Questo cambia tutto."
+      ]
+    },
+    "instagram": {
+      "caption": "Prima gli encoder trasformavano solo testo in numeri. Ora gli stessi modelli possono elaborare parole, immagini e audio insieme, creando una rappresentazione unica del mondo. Conta perché un'AI che capisce più input contemporaneamente prende decisioni migliori, non separa ciò che nella realtà è connesso. Per te significa che strumenti come assistenti vocali o motori di ricerca potranno interpretare una foto e la tua domanda come un unico concetto, senza fraintesi. Quale dato \"nascosto\" nella tua giornata — suoni, gesti, temperature — potrebbe insegnare a un encoder qualcosa di nuovo? 🔢🧠📸🎵",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Come fanno i computer a capirci?",
+        "All'inizio solo parole, codice semplice.",
+        "Poi abbiamo imparato a dare contesto.",
+        "Più dati, più precisione.",
+        "Ora capiscono immagini e suoni."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

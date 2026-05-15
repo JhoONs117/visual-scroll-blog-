@@ -22,5 +22,39 @@
     "Provocalo con un problema complesso subito."
   ],
   "savedAt": "2026-05-06T12:34:54.696Z",
-  "instagram_caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?"
+  "instagram_caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-releases-gpt-5-5-instant-a-new-default-mode",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Se stai ancora usando il modello di ieri, stai già perdendo. Il punto non è se cambierai, ma quanto velocemente lo farai.",
+        "GPT-5.5 è diventato il default. Non serve aspettare aggiornamenti o pagare extra per la versione veloce. È qui, ora.",
+        "La differenza più grande? Risponde mentre parli. Nessun caricamento, nessun ‘sto pensando’. Sembra banale, ma cambia tutto il flusso di lavoro.",
+        "Mentre leggi questo, qualcuno sta già testando i tuoi stessi problemi con questo modello. Tra un mese, avrà sei settimane di vantaggio.",
+        "Prendi il problema più complesso che hai oggi. Daglielo. Se non ti impressiona, allora hai capito cosa migliorare. Se ti impressiona, hai la risposta."
+      ]
+    },
+    "instagram": {
+      "caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Il tuo lavoro è già obsoleto.",
+        "GPT-5.5 è ora il modello predefinito.",
+        "Risponde in tempo reale senza ritardi.",
+        "Agisci ora o i concorrenti ti superano.",
+        "Provocalo con un problema complesso subito."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

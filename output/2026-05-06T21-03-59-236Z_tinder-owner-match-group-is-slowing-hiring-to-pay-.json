@@ -24,5 +24,40 @@
   ],
   "savedAt": "2026-05-06T21:03:59.236Z",
   "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-  "instagram_caption": "Match Group ha bloccato le nuove assunzioni per investire di più in AI. 🚫💼 Usano già modelli automatici per moderare chat, suggerire match e persino rispondere ai messaggi al posto di chi sta dall’altra parte. Tu pensi di parlare con una persona, ma potrebbe essere un bot. 🤖 Il rischio concreto? Perdere il contatto con ciò che gli utenti vogliono davvero, perché l’algoritmo non capisce l’istinto. Quando deleghi tutto alla macchina, smetti di ascoltare chi paghi. Se non senti più il polso dell’utente, cosa resta? 🤔"
+  "instagram_caption": "Match Group ha bloccato le nuove assunzioni per investire di più in AI. 🚫💼 Usano già modelli automatici per moderare chat, suggerire match e persino rispondere ai messaggi al posto di chi sta dall’altra parte. Tu pensi di parlare con una persona, ma potrebbe essere un bot. 🤖 Il rischio concreto? Perdere il contatto con ciò che gli utenti vogliono davvero, perché l’algoritmo non capisce l’istinto. Quando deleghi tutto alla macchina, smetti di ascoltare chi paghi. Se non senti più il polso dell’utente, cosa resta? 🤔",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "tinder-owner-match-group-is-slowing-hiring-to-pay-",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Match Group ha appena smesso di assumere. Per pagare l’intelligenza artificiale.",
+        "La usano per moderare conversazioni, scegliere i match e rispondere ai messaggi al posto tuo.",
+        "Un bot ora ti scrive per conto di un altro essere umano. Non lo sai. Loro scommettono che non ti accorga della differenza.",
+        "Il problema è che più deleghiamo all'AI, meno capiamo cosa vogliono davvero le persone.",
+        "L'algoritmo non è un sostituto dell'istinto. Se perdi il contatto con l'utente, perdi tutto."
+      ]
+    },
+    "instagram": {
+      "caption": "Match Group ha bloccato le nuove assunzioni per investire di più in AI. 🚫💼 Usano già modelli automatici per moderare chat, suggerire match e persino rispondere ai messaggi al posto di chi sta dall’altra parte. Tu pensi di parlare con una persona, ma potrebbe essere un bot. 🤖 Il rischio concreto? Perdere il contatto con ciò che gli utenti vogliono davvero, perché l’algoritmo non capisce l’istinto. Quando deleghi tutto alla macchina, smetti di ascoltare chi paghi. Se non senti più il polso dell’utente, cosa resta? 🤔",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Match Group ha bloccato le assunzioni.",
+        "Per pagare l'intelligenza artificiale.",
+        "La usano per moderare e fare match.",
+        "Ora i bot rispondono al posto degli umani.",
+        "Rischiano di perdere il contatto con gli utenti.",
+        "L'AI non risolve tutto."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

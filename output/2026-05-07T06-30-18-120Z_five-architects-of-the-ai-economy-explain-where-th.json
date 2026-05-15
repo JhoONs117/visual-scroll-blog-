@@ -68,5 +68,82 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/55252231372_4afd845df5_o.jpg?resize=1200,800",
-  "instagram_caption": "I cinque architetti dell’economia dell’AI lo ammettono: il sistema si sta rompendo. 📉 Il problema è che le “leggi di scala” del deep learning incontrano un muro: più dati e chip più potenti non garantiscono più risultati migliori, mentre i costi salgono esponenzialmente e i profitti si appiattiscono 💸. Significa che il tuo prossimo tool AI potrebbe crashare o diventare carissimo da un giorno all’altro. Se il tuo fornitore non mostra i margini reali, chi pagherà il conto sei tu ⚠️. Quale strumento userai oggi senza sapere se domani esisterà ancora?"
+  "instagram_caption": "I cinque architetti dell’economia dell’AI lo ammettono: il sistema si sta rompendo. 📉 Il problema è che le “leggi di scala” del deep learning incontrano un muro: più dati e chip più potenti non garantiscono più risultati migliori, mentre i costi salgono esponenzialmente e i profitti si appiattiscono 💸. Significa che il tuo prossimo tool AI potrebbe crashare o diventare carissimo da un giorno all’altro. Se il tuo fornitore non mostra i margini reali, chi pagherà il conto sei tu ⚠️. Quale strumento userai oggi senza sapere se domani esisterà ancora?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "five-architects-of-the-ai-economy-explain-where-th",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Five architects of the AI economy admit the system is broken.",
+        "The core problem is that scaling deep learning models is hitting a wall. More data and better hardware no longer guarantee better results.",
+        "Costs are rising faster than profits. Every new generation of chips and datasets costs exponentially more, but returns are flattening.",
+        "This means your next AI tool may crash or get expensive fast. Many vendors are running on thin margins and unsustainable growth.",
+        "Audit your AI vendor's real margins before scaling up. If they can't show unit economics, you're the next one paying the price."
+      ]
+    },
+    "instagram": {
+      "caption": "I cinque architetti dell’economia dell’AI lo ammettono: il sistema si sta rompendo. 📉 Il problema è che le “leggi di scala” del deep learning incontrano un muro: più dati e chip più potenti non garantiscono più risultati migliori, mentre i costi salgono esponenzialmente e i profitti si appiattiscono 💸. Significa che il tuo prossimo tool AI potrebbe crashare o diventare carissimo da un giorno all’altro. Se il tuo fornitore non mostra i margini reali, chi pagherà il conto sei tu ⚠️. Quale strumento userai oggi senza sapere se domani esisterà ancora?",
+      "carousel": [
+        {
+          "hook": "Their AI is already broken.",
+          "description": "Five AI economy architects admit the system is flawed and unsustainable.",
+          "visual_hint": "Broken gear symbol",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "server room broken"
+        },
+        {
+          "hook": "Scaling laws hit a wall.",
+          "description": "More data and hardware no longer guarantee better deep learning results.",
+          "visual_hint": "Graph flattening curve",
+          "layout_type": "right-focus",
+          "icon": "vibration",
+          "image_query": "stock market chart",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Costs rise faster than profits.",
+          "description": "New chips and datasets cost exponentially more, but returns are flattening.",
+          "visual_hint": "Exponential vs flat line",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "graph arrow up"
+        },
+        {
+          "hook": "Your next tool may crash.",
+          "description": "Many AI vendors run on thin margins and unsustainable growth—be ready for price hikes or failure.",
+          "visual_hint": "Warning sign with tool",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "warning sign technology",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warning_sign_in_cologne.jpg/960px-Warning_sign_in_cologne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Audit margins before scaling.",
+          "description": "If vendors can't show unit economics, you'll be the one paying the price.",
+          "visual_hint": "Magnifying glass on document",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "audit document ledger"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The AI economy is broken, say its own creators.",
+        "Scaling laws are hitting a physical and economic wall.",
+        "Hardware and data costs are exploding, but profits aren't.",
+        "Your favorite AI tool might crash or jack up prices soon.",
+        "Check your vendor's margins before you scale any deeper."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

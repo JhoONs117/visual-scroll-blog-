@@ -1,0 +1,154 @@
+{
+  "title": "JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability",
+  "slides": [
+    "JBS Dev: il 95% dei progetti IA fallisce sui dati?",
+    "Modelli maturi, ma i dati reali sono sporchi.",
+    "Il 'last mile' costa il 60% del budget progetto.",
+    "Chi pulisce i dati ora dimezza i costi operativi.",
+    "Un audit dati oggi: risparmio o spreco?"
+  ],
+  "thread_text": [
+    "Il 60% del budget di un progetto AI va speso solo per preparare i dati. Il modello è la parte facile.",
+    "Il resto è gestione della complessità: dati incompleti, incoerenti, con errori. Un AI funziona solo se i dati di input sono puliti.",
+    "Chi investe presto in data cleaning riduce i fallimenti. Il 95% dei progetti AI fallisce proprio sui dati, non sull’algoritmo.",
+    "Eppure, molte aziende continuano a trascurare la qualità dei dati fino a quando il progetto non è già in fase di produzione.",
+    "L'alternativa? Un audit dati costa meno di un abbonamento SaaS. Fallo prima del modello e dimezzi i costi operativi."
+  ],
+  "video_script": [
+    "Il 60% del budget finisce nei dati.",
+    "Non nel modello, nei dati sporchi.",
+    "Il 95% dei progetti fallisce qui.",
+    "Pulire prima taglia i costi a metà.",
+    "Un audit oggi? Meno di un abbonamento."
+  ],
+  "instagram_caption": "Il 60% del budget di un progetto AI se ne va solo per preparare i dati. Il resto è la parte facile. 🧹 I modelli ormai sono maturi, ma la realtà è che il 95% dei progetti fallisce perché i dati reali sono sporchi, incompleti o incoerenti. Chi investe in un audit dati prima di costruire il modello dimezza i costi operativi nei primi mesi e riduce gli errori in produzione. 💡 Per il tuo prossimo progetto: pulisci i dati ora, invece di aspettare output puliti da input sporchi. Quanto ti costa un fallimento evitabile? 💸",
+  "carousel_slides": [
+    {
+      "hook": "E se il 60% del budget sparisse nei dati sporchi?",
+      "description": "Il 60% del budget di un progetto AI va per preparare i dati. Il modello è la parte facile.",
+      "visual_hint": "Budget che si dissolve in dati caotici",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "server room cables messy"
+    },
+    {
+      "hook": "Modelli maturi, dati reali sporchi.",
+      "description": "Il vero problema è che alimentiamo AI con dati sporchi e ci aspettiamo output puliti.",
+      "visual_hint": "Dati sporchi che entrano in un modello AI",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "stock market chart error",
+      "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il last mile costa carissimo ai progetti AI.",
+      "description": "Dati incompleti e incoerenti: un AI funziona solo se i dati di input sono puliti.",
+      "visual_hint": "Ultimo miglio costoso di un progetto",
+      "layout_type": "sensor-zoom",
+      "icon": "waves",
+      "image_query": "factory robot inspection",
+      "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Dimezza i costi: pulisci dati subito.",
+      "description": "Chi investe presto in data cleaning riduce i fallimenti. Il 95% dei progetti fallisce sui dati.",
+      "visual_hint": "Mani che puliscono dati su uno schermo",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "office workers computer",
+      "image": "https://images.pexels.com/photos/12903155/pexels-photo-12903155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Un audit dati oggi: risparmio o spreco?",
+      "description": "Un audit dati costa meno di un abbonamento SaaS. Fallo prima del modello e dimezzi i costi operativi.",
+      "visual_hint": "Audit dati che porta a risparmi concreti",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "solar panels farm",
+      "image": "https://images.pexels.com/photos/9893729/pexels-photo-9893729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/geralt-network-6511448-scaled.jpg",
+  "pubDate": "Tue, 12 May 2026 15:37:43 +0000",
+  "savedAt": "2026-05-14T13:55:03.738Z",
+  "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "jbs-dev-on-imperfect-data-and-the-ai-last-mile-fro",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Il 60% del budget di un progetto AI va speso solo per preparare i dati. Il modello è la parte facile.",
+        "Il resto è gestione della complessità: dati incompleti, incoerenti, con errori. Un AI funziona solo se i dati di input sono puliti.",
+        "Chi investe presto in data cleaning riduce i fallimenti. Il 95% dei progetti AI fallisce proprio sui dati, non sull’algoritmo.",
+        "Eppure, molte aziende continuano a trascurare la qualità dei dati fino a quando il progetto non è già in fase di produzione.",
+        "L'alternativa? Un audit dati costa meno di un abbonamento SaaS. Fallo prima del modello e dimezzi i costi operativi."
+      ]
+    },
+    "instagram": {
+      "caption": "Il 60% del budget di un progetto AI se ne va solo per preparare i dati. Il resto è la parte facile. 🧹 I modelli ormai sono maturi, ma la realtà è che il 95% dei progetti fallisce perché i dati reali sono sporchi, incompleti o incoerenti. Chi investe in un audit dati prima di costruire il modello dimezza i costi operativi nei primi mesi e riduce gli errori in produzione. 💡 Per il tuo prossimo progetto: pulisci i dati ora, invece di aspettare output puliti da input sporchi. Quanto ti costa un fallimento evitabile? 💸",
+      "carousel": [
+        {
+          "hook": "E se il 60% del budget sparisse nei dati sporchi?",
+          "description": "Il 60% del budget di un progetto AI va per preparare i dati. Il modello è la parte facile.",
+          "visual_hint": "Budget che si dissolve in dati caotici",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "server room cables messy"
+        },
+        {
+          "hook": "Modelli maturi, dati reali sporchi.",
+          "description": "Il vero problema è che alimentiamo AI con dati sporchi e ci aspettiamo output puliti.",
+          "visual_hint": "Dati sporchi che entrano in un modello AI",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "stock market chart error",
+          "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il last mile costa carissimo ai progetti AI.",
+          "description": "Dati incompleti e incoerenti: un AI funziona solo se i dati di input sono puliti.",
+          "visual_hint": "Ultimo miglio costoso di un progetto",
+          "layout_type": "sensor-zoom",
+          "icon": "waves",
+          "image_query": "factory robot inspection",
+          "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Dimezza i costi: pulisci dati subito.",
+          "description": "Chi investe presto in data cleaning riduce i fallimenti. Il 95% dei progetti fallisce sui dati.",
+          "visual_hint": "Mani che puliscono dati su uno schermo",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "office workers computer",
+          "image": "https://images.pexels.com/photos/12903155/pexels-photo-12903155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Un audit dati oggi: risparmio o spreco?",
+          "description": "Un audit dati costa meno di un abbonamento SaaS. Fallo prima del modello e dimezzi i costi operativi.",
+          "visual_hint": "Audit dati che porta a risparmi concreti",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "solar panels farm",
+          "image": "https://images.pexels.com/photos/9893729/pexels-photo-9893729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Il 60% del budget finisce nei dati.",
+        "Non nel modello, nei dati sporchi.",
+        "Il 95% dei progetti fallisce qui.",
+        "Pulire prima taglia i costi a metà.",
+        "Un audit oggi? Meno di un abbonamento."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
+}

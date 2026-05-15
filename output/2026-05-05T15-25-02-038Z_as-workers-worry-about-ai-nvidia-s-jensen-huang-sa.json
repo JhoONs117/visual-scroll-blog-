@@ -22,5 +22,39 @@
     "Nvidia assume più persone grazie all'AI."
   ],
   "savedAt": "2026-05-05T15:25:02.038Z",
-  "instagram_caption": "Jensen Huang, il capo di Nvidia, dice che chi ha paura dell'intelligenza artificiale ha capito tutto al contrario. La sua azienda sta assumendo più persone proprio grazie all'AI, nonostante le preoccupazioni dei lavoratori. Per lui l'AI non ruba posti: ne crea di nuovi che prima non esistevano. Chi impara a usarla ogni giorno ottiene un vantaggio concreto, senza dover diventare per forza un ingegnere. E tu hai già integrato l'AI nel tuo lavoro per non restare indietro? 🧠💼📈"
+  "instagram_caption": "Jensen Huang, il capo di Nvidia, dice che chi ha paura dell'intelligenza artificiale ha capito tutto al contrario. La sua azienda sta assumendo più persone proprio grazie all'AI, nonostante le preoccupazioni dei lavoratori. Per lui l'AI non ruba posti: ne crea di nuovi che prima non esistevano. Chi impara a usarla ogni giorno ottiene un vantaggio concreto, senza dover diventare per forza un ingegnere. E tu hai già integrato l'AI nel tuo lavoro per non restare indietro? 🧠💼📈",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "as-workers-worry-about-ai-nvidia-s-jensen-huang-sa",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Jensen Huang dice che chi ha paura dell'AI ha capito tutto al contrario. E non è un'opinione.",
+        "L'AI non sta rubando lavoro. Sta creando ruoli che prima non esistevano. Nvidia ne è la prova.",
+        "Il punto non è essere sostituiti. È che chi usa l'AI crescerà più veloce di chi non lo fa.",
+        "Non serve diventare un ingegnere. Basta integrare l'AI nel tuo lavoro quotidiano per avere un vantaggio.",
+        "Nvidia assume più persone proprio grazie all'AI. La domanda vera: tu come la userai per non restare indietro?"
+      ]
+    },
+    "instagram": {
+      "caption": "Jensen Huang, il capo di Nvidia, dice che chi ha paura dell'intelligenza artificiale ha capito tutto al contrario. La sua azienda sta assumendo più persone proprio grazie all'AI, nonostante le preoccupazioni dei lavoratori. Per lui l'AI non ruba posti: ne crea di nuovi che prima non esistevano. Chi impara a usarla ogni giorno ottiene un vantaggio concreto, senza dover diventare per forza un ingegnere. E tu hai già integrato l'AI nel tuo lavoro per non restare indietro? 🧠💼📈",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Jensen Huang dice che l'AI non fa paura.",
+        "L'AI crea nuovi lavori, non li distrugge.",
+        "Chi usa l'AI cresce, non sparisce.",
+        "Impara a usarla ogni giorno.",
+        "Nvidia assume più persone grazie all'AI."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

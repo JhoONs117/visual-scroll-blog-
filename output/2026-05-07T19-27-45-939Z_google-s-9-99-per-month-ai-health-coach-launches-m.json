@@ -67,5 +67,80 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/HealthApp-3-CoachMessages.width-1000.format-webp.webp?w=1000",
-  "instagram_caption": "A 9,99 dollari al mese, Google ti vende un personal trainer AI per la salute che funziona con Fitbit e Pixel Watch dal 19 maggio. Monitora sonno, attività e battito cardiaco, ma non può diagnosticare nulla: sono solo consigli generici. Il rischio? Darti una falsa sicurezza e tenerti lontano dal medico quando servirebbe sul serio  \nPer te, in tasca: un assistente che ti ricorda di muoverti, non un dottore. Lo provi gratis, ma poi la domanda vera è: ti fideresti di un “tutto ok” scritto da un algoritmo? 🫀⏱️💡❓"
+  "instagram_caption": "A 9,99 dollari al mese, Google ti vende un personal trainer AI per la salute che funziona con Fitbit e Pixel Watch dal 19 maggio. Monitora sonno, attività e battito cardiaco, ma non può diagnosticare nulla: sono solo consigli generici. Il rischio? Darti una falsa sicurezza e tenerti lontano dal medico quando servirebbe sul serio  \nPer te, in tasca: un assistente che ti ricorda di muoverti, non un dottore. Lo provi gratis, ma poi la domanda vera è: ti fideresti di un “tutto ok” scritto da un algoritmo? 🫀⏱️💡❓",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-9-99-per-month-ai-health-coach-launches-m",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Google lancia un coach AI salute a $9.99 al mese. Ma non può diagnosticarti niente. Solo consigli generici. Il problema? Ti dà una falsa sicurezza che potrebbe tenerti lontano dal medico quando serve davvero.",
+        "Funzionerà con Fitbit e Pixel Watch dal 19 maggio. Monitora sonno, attività, frequenza cardiaca. Tutti dati utili, ma l'AI non è un dottore.",
+        "Il rischio è che ti fidi di un responso automatico e ignori sintomi seri. Un 'tutto ok' dall'algoritmo non sostituisce una visita.",
+        "Google lo sa: per questo il servizio si chiama 'coach', non 'diagnostico'. Ma molti utenti potrebbero non fare questa distinzione.",
+        "Costa meno di un abbonamento Spotify. Lo provi gratis? Poi però chiedi al tuo medico prima di prendere decisioni sulla tua salute."
+      ]
+    },
+    "instagram": {
+      "caption": "A 9,99 dollari al mese, Google ti vende un personal trainer AI per la salute che funziona con Fitbit e Pixel Watch dal 19 maggio. Monitora sonno, attività e battito cardiaco, ma non può diagnosticare nulla: sono solo consigli generici. Il rischio? Darti una falsa sicurezza e tenerti lontano dal medico quando servirebbe sul serio  \nPer te, in tasca: un assistente che ti ricorda di muoverti, non un dottore. Lo provi gratis, ma poi la domanda vera è: ti fideresti di un “tutto ok” scritto da un algoritmo? 🫀⏱️💡❓",
+      "carousel": [
+        {
+          "hook": "Falso sicuro? L'AI non cura",
+          "description": "Google lancia un coach AI salute a $9.99/mese ma non diagnostica. Rischi falsa sicurezza e ritardo visite.",
+          "visual_hint": "schermo con cuore e punto interrogativo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone health app screen"
+        },
+        {
+          "hook": "Fitbit e Pixel Watch dal 19/5",
+          "description": "Monitora sonno, attività e cuore. Dati utili, ma l'AI non è un dottore. Fidarsi troppo può essere pericoloso.",
+          "visual_hint": "smartwatch su polso",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "fitbit smartwatch on wrist"
+        },
+        {
+          "hook": "L'algoritmo dice 'tutto ok'?",
+          "description": "Il rischio è ignorare sintomi seri per un responso automatico. Un 'tutto ok' dall'AI non sostituisce una visita.",
+          "visual_hint": "mano che tiene cuore digitale",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "digital heart pulse line"
+        },
+        {
+          "hook": "Si chiama 'coach', non dottore",
+          "description": "Google lo sa: non è diagnostico. Ma molti utenti potrebbero non distinguere. Falsa sicurezza senza controllo medico.",
+          "visual_hint": "mano umana davanti a schermo AI",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand touching smartphone screen"
+        },
+        {
+          "hook": "Provalo gratis? Poi chiedi al dottore",
+          "description": "Costa meno di Spotify. Provalo gratis, ma prima di decisioni sulla salute consulta il tuo medico.",
+          "visual_hint": "smartphone con schermo cta",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "google fit app icon smartphone"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Un coach salute AI a meno di dieci euro.",
+        "Ma non può dirti se stai male.",
+        "Funziona con Fitbit e Pixel Watch.",
+        "Il rischio? Falsa sicurezza.",
+        "Provalo gratis, poi chiama il tuo dottore."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

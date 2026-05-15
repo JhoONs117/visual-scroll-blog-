@@ -71,5 +71,84 @@
       "image": "https://images.pexels.com/photos/6801635/pexels-photo-6801635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
-  "instagram_caption": "I data center consumano già il 9% dell'energia della più grande rete elettrica americana, quella che serve 65 milioni di persone. ⚡ Per tenere acceso tutto, centrali a carbone pronte a chiudere restano aperte e gli investimenti sulle rinnovabili non bastano a coprire la richiesta. Risultato? La tua bolletta della luce potrebbe crescere per finanziare l'espansione dell'AI. 📈 Controlla le tariffe previste per il 2025 prima del prossimo rincaro. 💸 Chi dovrebbe pagare per i nuovi cavi e centrali: le big tech o gli altri utenti?"
+  "instagram_caption": "I data center consumano già il 9% dell'energia della più grande rete elettrica americana, quella che serve 65 milioni di persone. ⚡ Per tenere acceso tutto, centrali a carbone pronte a chiudere restano aperte e gli investimenti sulle rinnovabili non bastano a coprire la richiesta. Risultato? La tua bolletta della luce potrebbe crescere per finanziare l'espansione dell'AI. 📈 Controlla le tariffe previste per il 2025 prima del prossimo rincaro. 💸 Chi dovrebbe pagare per i nuovi cavi e centrali: le big tech o gli altri utenti?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-biggest-u-s-power-grid-is-under-strain-from-ai",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Your next electricity bill might fund an AI data center. Coal plants that were supposed to close are staying open just to power them.",
+        "PJM, the grid for 65 million people, now sends 9% of all its power to data centers. And that number is climbing fast.",
+        "Renewables can't scale fast enough to cover the demand. So old coal plants are getting retirement delays—some for years.",
+        "The question nobody wants to answer: who pays for the grid upgrades? Regulators, utilities, and tech companies are all pointing at each other.",
+        "Open your 2025 rate forecast now. If you see a spike coming, lock your current plan before it hits."
+      ]
+    },
+    "instagram": {
+      "caption": "I data center consumano già il 9% dell'energia della più grande rete elettrica americana, quella che serve 65 milioni di persone. ⚡ Per tenere acceso tutto, centrali a carbone pronte a chiudere restano aperte e gli investimenti sulle rinnovabili non bastano a coprire la richiesta. Risultato? La tua bolletta della luce potrebbe crescere per finanziare l'espansione dell'AI. 📈 Controlla le tariffe previste per il 2025 prima del prossimo rincaro. 💸 Chi dovrebbe pagare per i nuovi cavi e centrali: le big tech o gli altri utenti?",
+      "carousel": [
+        {
+          "hook": "Coal plants stay open for AI",
+          "description": "Coal plants delayed retirement to power AI. Your bill may fund data centers.",
+          "visual_hint": "Smoking coal plant at dusk",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "coal power plant"
+        },
+        {
+          "hook": "9% of grid goes to data centers",
+          "description": "PJM sends 9% of power to data centers, and demand is climbing fast.",
+          "visual_hint": "Server racks with cables",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Renewables can't scale fast enough",
+          "description": "Renewables can't keep up, so old coal plants get retirement delays for years.",
+          "visual_hint": "Wind turbine beside smokestack",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "wind turbine coal plant",
+          "image": "https://images.pexels.com/photos/21952594/pexels-photo-21952594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who pays for grid upgrades?",
+          "description": "Regulators, utilities, and tech companies all point fingers over who pays.",
+          "visual_hint": "Finger pointing in meeting",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office meeting",
+          "image": "https://images.pexels.com/photos/5945799/pexels-photo-5945799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your 2025 rate forecast now",
+          "description": "Open your 2025 rate forecast. If you see a spike, lock your plan before it hits.",
+          "visual_hint": "Chart with upward arrow",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "electricity bill chart",
+          "image": "https://images.pexels.com/photos/6801635/pexels-photo-6801635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your electric bill could spike because of AI.",
+        "Coal plants are delaying retirement to power data centers.",
+        "Nine percent of the entire grid goes to servers now.",
+        "Renewables can't build fast enough to catch up.",
+        "Check your 2025 rate forecast before the next jump."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

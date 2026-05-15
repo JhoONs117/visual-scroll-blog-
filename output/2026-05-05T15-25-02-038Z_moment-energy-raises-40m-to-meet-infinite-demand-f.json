@@ -22,5 +22,39 @@
     "Ecco come raccolgono quelle usate."
   ],
   "savedAt": "2026-05-05T15:25:02.038Z",
-  "instagram_caption": "Dopo il 20% di perdita di efficienza, una batteria di un’auto elettrica scartata dai costruttori può ancora alimentare una casa per anni. Un'azienda ha raccolto 40 milioni di dollari per costruire impianti industriali che danno una seconda vita a queste batterie, usando il loro accumulo per assorbire i picchi della rete elettrica. L’obiettivo concreto è risolvere la carenza di rete 💡 sostituendo i megabatteri nuovi con quelli rigenerati ♻️. Per chi lavora nel settore energia, significa abbattere i costi di stoccaggio e ridurre la dipendenza dal riciclo ⚡. Un'azienda automotive potrebbe già oggi venderti batterie “esauste” pronte per riuso."
+  "instagram_caption": "Dopo il 20% di perdita di efficienza, una batteria di un’auto elettrica scartata dai costruttori può ancora alimentare una casa per anni. Un'azienda ha raccolto 40 milioni di dollari per costruire impianti industriali che danno una seconda vita a queste batterie, usando il loro accumulo per assorbire i picchi della rete elettrica. L’obiettivo concreto è risolvere la carenza di rete 💡 sostituendo i megabatteri nuovi con quelli rigenerati ♻️. Per chi lavora nel settore energia, significa abbattere i costi di stoccaggio e ridurre la dipendenza dal riciclo ⚡. Un'azienda automotive potrebbe già oggi venderti batterie “esauste” pronte per riuso.",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "moment-energy-raises-40m-to-meet-infinite-demand-f",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Le batterie delle auto elettriche non muoiono mai davvero. Il loro secondo vita potrebbe risolvere un problema enorme dell'energia. E nessuno ne parla.",
+        "Quando una batteria scende sotto l'80% di capacità, le auto non la vogliono più. Ma per una casa, ha ancora anni di energia da dare. È come un power bank gigante dimenticato.",
+        "Il problema non è produrre energia, ma gestirla. Un impianto che accumula batterie usate può assorbire i picchi di rete e restituirla quando serve. Rete più stabile, niente blackout.",
+        "Aziende come la tua stanno già raccogliendo batterie direttamente dalle fabbriche di auto. Il riciclo è solo l'ultima opzione: prima arriva il riuso.",
+        "L'investimento da 40 milioni per espandere questi impianti non è una scommessa. È la prova che la seconda vita delle batterie diventerà un business da miliardi. Se non ci sali ora, arrivi tardi."
+      ]
+    },
+    "instagram": {
+      "caption": "Dopo il 20% di perdita di efficienza, una batteria di un’auto elettrica scartata dai costruttori può ancora alimentare una casa per anni. Un'azienda ha raccolto 40 milioni di dollari per costruire impianti industriali che danno una seconda vita a queste batterie, usando il loro accumulo per assorbire i picchi della rete elettrica. L’obiettivo concreto è risolvere la carenza di rete 💡 sostituendo i megabatteri nuovi con quelli rigenerati ♻️. Per chi lavora nel settore energia, significa abbattere i costi di stoccaggio e ridurre la dipendenza dal riciclo ⚡. Un'azienda automotive potrebbe già oggi venderti batterie “esauste” pronte per riuso.",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "La batteria della tua auto muore?",
+        "Falso: ha solo finito il primo tempo.",
+        "Per la casa è perfetta ancora per anni.",
+        "Stabilizza la rete senza costruire centrali.",
+        "Ecco come raccolgono quelle usate."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

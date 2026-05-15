@@ -71,5 +71,84 @@
   "savedAt": "2026-05-09T22:34:50.639Z",
   "link": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/",
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/TCD26_3-Speaker-Achadjian-Wade-Singh-16x9-Dark.png?resize=1200,675",
-  "instagram_caption": "Il tempo per chiudere un round Series A è passato da 18 a 9 mesi, ma la maggior parte dei founder se ne accorge solo quando il conto in banca è a zero. ⏳ Il mercato non sta rallentando: sta selezionando chi ha già iniziato a raccogliere fondi oggi da chi aspetta la crisi per farlo. Chi parte da sopravvivenza regala equity e perde ogni leva. Se hai meno di 12 mesi di cassa, il rischio concreto non è il fallimento, è non fare in tempo a chiudere il round. 📉 Quanti mesi di autonomia hai davvero?"
+  "instagram_caption": "Il tempo per chiudere un round Series A è passato da 18 a 9 mesi, ma la maggior parte dei founder se ne accorge solo quando il conto in banca è a zero. ⏳ Il mercato non sta rallentando: sta selezionando chi ha già iniziato a raccogliere fondi oggi da chi aspetta la crisi per farlo. Chi parte da sopravvivenza regala equity e perde ogni leva. Se hai meno di 12 mesi di cassa, il rischio concreto non è il fallimento, è non fare in tempo a chiudere il round. 📉 Quanti mesi di autonomia hai davvero?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "live-only-at-techcrunch-disrupt-2026-why-most-foun",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "La maggior parte dei founder scopre di aver bisogno di un round Series A solo quando il cash tocca zero. A quel punto è quasi sempre troppo tardi.",
+        "Il tempo per chiudere un Series A è crollato da 18 a 9 mesi. Non è un rallentamento del mercato: è un'accelerazione della selezione.",
+        "Se aspetti di vedere la Fine Cifra per alzare bandiera, stai già negoziando da una posizione di debolezza. I fondi lo sanno.",
+        "Inizia la tua raccolta oggi, anche se non ti serve subito. Chi parte da survival pitcha male e regala equity.",
+        "Controlla il tuo runway adesso. Se hai meno di 12 mesi di cassa, il rischio reale è non fare in tempo a chiudere il round."
+      ]
+    },
+    "instagram": {
+      "caption": "Il tempo per chiudere un round Series A è passato da 18 a 9 mesi, ma la maggior parte dei founder se ne accorge solo quando il conto in banca è a zero. ⏳ Il mercato non sta rallentando: sta selezionando chi ha già iniziato a raccogliere fondi oggi da chi aspetta la crisi per farlo. Chi parte da sopravvivenza regala equity e perde ogni leva. Se hai meno di 12 mesi di cassa, il rischio concreto non è il fallimento, è non fare in tempo a chiudere il round. 📉 Quanti mesi di autonomia hai davvero?",
+      "carousel": [
+        {
+          "hook": "Your next round is already lost?",
+          "description": "Most founders discover they need Series A when cash hits zero. At that point it's almost always too late.",
+          "visual_hint": "Cash counter hits zero",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "bank account zero"
+        },
+        {
+          "hook": "Series A timelines collapsed to 9 months",
+          "description": "Time to close Series A collapsed from 18 to 9 months. This is not a slowdown but an acceleration of selection.",
+          "visual_hint": "Falling clock 18 to 9",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "clock countdown",
+          "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You're already negotiating from weakness",
+          "description": "If you wait to see the end of your runway to start fundraising, you'll negotiate from weakness. Funds know it.",
+          "visual_hint": "Weak handshake negotiation",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "business handshake",
+          "image": "https://images.pexels.com/photos/7693144/pexels-photo-7693144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Start raising now, not when desperate",
+          "description": "Start raising today even if you don't need it immediately. Those who pitch from survival give away equity and pitch poorly.",
+          "visual_hint": "Pitch deck survival mode",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "pitch deck paper",
+          "image": "https://images.pexels.com/photos/8938929/pexels-photo-8938929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your runway; delay is the real risk",
+          "description": "Check runway now. If you have less than 12 months of cash, the real risk is not closing the round in time.",
+          "visual_hint": "Runway gauge low fuel",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "fuel gauge empty",
+          "image": "https://images.pexels.com/photos/17245075/pexels-photo-17245075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Il 90% dei founder scopre il bisogno troppo tardi.",
+        "Il tempo per il Series A è sceso a 9 mesi.",
+        "Quando il cash è zero, non hai più potere.",
+        "Inizia la raise oggi, non quando serve.",
+        "Controlla il runway adesso. Il ritardo è il rischio."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

@@ -68,5 +68,84 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ground_mounted_solar_panels.gk.jpg/960px-Ground_mounted_solar_panels.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     }
   ],
-  "instagram_caption": "950 milioni di dollari in un colpo solo: Sierra ha appena chiuso il round più grande nell’AI per aziende. Dietro il nome non ci sono chiacchiere con bot: soldi investiti per far sì che i software *agiscano* al tuo posto — ordinano materiali, approvano spese, rispondono ai clienti senza bisogno di umani in mezzo. Se il tuo lavoro è ancora pieno di processi ripetuti, tra due anni il costo per automatizzarli sarà raddoppiato ⏳📈. Il 2025 è il confine tra chi si è mosso e chi è rimasto fermo. Tu cosa automatizzeresti entro 30 giorni? 🤖⚡"
+  "instagram_caption": "950 milioni di dollari in un colpo solo: Sierra ha appena chiuso il round più grande nell’AI per aziende. Dietro il nome non ci sono chiacchiere con bot: soldi investiti per far sì che i software *agiscano* al tuo posto — ordinano materiali, approvano spese, rispondono ai clienti senza bisogno di umani in mezzo. Se il tuo lavoro è ancora pieno di processi ripetuti, tra due anni il costo per automatizzarli sarà raddoppiato ⏳📈. Il 2025 è il confine tra chi si è mosso e chi è rimasto fermo. Tu cosa automatizzeresti entro 30 giorni? 🤖⚡",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sierra-raises-950m-as-the-race-to-own-enterprise-a",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Il 2025 separa chi ha vinto da chi ha perso. Non è un'iperbole. È quello che sta succedendo ora nel mercato AI enterprise.",
+        "Sierra ha appena raccolto 950 milioni di dollari. I grandi stanno puntando tutto sull'automazione dei workflow, non sui chatbot.",
+        "Il vero valore non è parlare con un bot. È far sì che il sistema agisca al posto tuo: approvare, ordinare, rispondere, senza intervento umano.",
+        "Chi non automatizza ora, tra due anni pagherà il doppio per recuperare. Costi operativi, personale, opportunità perse — tutto sale.",
+        "Prendi un processo che ripeti ogni giorno. Automatizzalo entro 30 giorni. Se non sai da dove iniziare, parti da quello più ripetitivo."
+      ]
+    },
+    "instagram": {
+      "caption": "950 milioni di dollari in un colpo solo: Sierra ha appena chiuso il round più grande nell’AI per aziende. Dietro il nome non ci sono chiacchiere con bot: soldi investiti per far sì che i software *agiscano* al tuo posto — ordinano materiali, approvano spese, rispondono ai clienti senza bisogno di umani in mezzo. Se il tuo lavoro è ancora pieno di processi ripetuti, tra due anni il costo per automatizzarli sarà raddoppiato ⏳📈. Il 2025 è il confine tra chi si è mosso e chi è rimasto fermo. Tu cosa automatizzeresti entro 30 giorni? 🤖⚡",
+      "carousel": [
+        {
+          "hook": "Chi resterà indietro?",
+          "description": "Sierra raccoglie 950 milioni. Il 2025 separa chi ha vinto da chi ha perso. Non è un'iperbole.",
+          "visual_hint": "fondo scuro con barra di caricamento parziale",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "L'AI è il nuovo campo di battaglia",
+          "description": "I grandi puntano tutto sull'automazione dei workflow, non sui chatbot. Il vero valore è agire al posto tuo.",
+          "visual_hint": "robot che preme bottone su cruscotto",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "factory robot",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Non parlare. Fallo fare.",
+          "description": "Il vero valore è far sì che il sistema agisca al posto tuo: approvare, ordinare, rispondere, senza intervento umano.",
+          "visual_hint": "ingranaggi che girano senza mani",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Non automatizzi? Paghi il doppio.",
+          "description": "Chi non automatizza ora, tra due anni pagherà il doppio per recuperare: costi operativi, personale, opportunità perse.",
+          "visual_hint": "dati su schermo con frecce rosse",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Parti dal processo più ripetitivo",
+          "description": "Prendi un processo che ripeti ogni giorno. Automatizzalo entro 30 giorni. Se non sai da dove iniziare, parti da quello più ripetitivo.",
+          "visual_hint": "checkmark su lista di azioni",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "solar panels",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ground_mounted_solar_panels.gk.jpg/960px-Ground_mounted_solar_panels.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Il 2025 è lo spartiacque.",
+        "Sierra ha preso 950 milioni.",
+        "Non sono i chatbot a fare la differenza.",
+        "I workflow autonomi sono il vero affare.",
+        "Se non inizi ora, paghi il doppio dopo."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

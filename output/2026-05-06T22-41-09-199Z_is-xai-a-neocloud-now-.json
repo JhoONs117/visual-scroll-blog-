@@ -70,5 +70,84 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024",
-  "instagram_caption": "xAI ora affitta GPU di Grok a chiunque, come un cloud ma senza storage né database. Solo potenza di calcolo. È una mossa per chi ha stack snelli e vuole scalare veloce le inferenze🎯. Se i prezzi saranno del 30% più bassi, i provider tradizionali dovranno correre ai ripari o perdere carichi di lavoro ML. Tu faresti il test su un modello oggi?"
+  "instagram_caption": "xAI ora affitta GPU di Grok a chiunque, come un cloud ma senza storage né database. Solo potenza di calcolo. È una mossa per chi ha stack snelli e vuole scalare veloce le inferenze🎯. Se i prezzi saranno del 30% più bassi, i provider tradizionali dovranno correre ai ripari o perdere carichi di lavoro ML. Tu faresti il test su un modello oggi?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "is-xai-a-neocloud-now-",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "xAI è diventato un cloud. Niente storage, niente database, solo GPU per Grok. Questo cambia le regole se vuoi scalare veloce.",
+        "Gli altri cloud offrono decine di servizi. xAI ti dà solo il calcolo. Se il tuo stack è snello, funziona. Se no, resti fuori.",
+        "Il punto è che non è un cloud. È un'aggiunta a quello che già usi. Un acceleratore, non una piattaforma.",
+        "Se xAI inizia a vendere GPU a prezzo competitivo, i provider attuali devono reagire. O calano i prezzi o perdono carichi di lavoro ML.",
+        "Prendi un modello, testalo su Grok. Se il costo è inferiore del 30%, sposti le tue inferenze entro il trimestre."
+      ]
+    },
+    "instagram": {
+      "caption": "xAI ora affitta GPU di Grok a chiunque, come un cloud ma senza storage né database. Solo potenza di calcolo. È una mossa per chi ha stack snelli e vuole scalare veloce le inferenze🎯. Se i prezzi saranno del 30% più bassi, i provider tradizionali dovranno correre ai ripari o perdere carichi di lavoro ML. Tu faresti il test su un modello oggi?",
+      "carousel": [
+        {
+          "hook": "GPU rental is not a cloud",
+          "description": "xAI offre solo GPU per Grok. Non è un cloud senza storage o database.",
+          "visual_hint": "Server rack with cables",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Only compute, no extras",
+          "description": "I cloud tradizionali hanno decine di servizi. xAI ha solo calcolo per stack snelli.",
+          "visual_hint": "Cloud icons missing",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "cloud computing",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cloud_computing-uk.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        {
+          "hook": "An accelerator, not a platform",
+          "description": "xAI è un’aggiunta rapida al tuo stack, non una piattaforma completa.",
+          "visual_hint": "Engine turbine detail",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Will GPU prices drop?",
+          "description": "Se xAI vende GPU a prezzo competitivo, i provider calano i prezzi o perdono lavori ML.",
+          "visual_hint": "Stock chart down arrow",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stock market chart",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Test Grok, save up to 30%",
+          "description": "Prova subito un modello su Grok. Se costa meno, sposti le inferenze entro il trimestre.",
+          "visual_hint": "Cost comparison table",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "power plant",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Krafla_power_plant_-_Kr%C3%B6flust%C3%B6%C3%B0_-_alternative.jpg/960px-Krafla_power_plant_-_Kr%C3%B6flust%C3%B6%C3%B0_-_alternative.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hanno trasformato Grok in un cloud ma solo per GPU.",
+        "Niente storage, niente database, solo potenza di calcolo.",
+        "Se usi solo modelli, può essere un affare.",
+        "Non è una piattaforma completa, è un acceleratore.",
+        "Prova un modello singolo e vedi se ti conviene."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

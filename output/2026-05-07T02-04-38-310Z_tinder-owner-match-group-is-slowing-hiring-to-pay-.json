@@ -68,5 +68,82 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2019/09/tinder-icon-ios.jpg?resize=1200,674",
-  "instagram_caption": "Match Group ha bloccato le nuove assunzioni per investire di più in AI. 🚫💼 Usano già modelli automatici per moderare chat, suggerire match e persino rispondere ai messaggi al posto di chi sta dall’altra parte. Tu pensi di parlare con una persona, ma potrebbe essere un bot. 🤖 Il rischio concreto? Perdere il contatto con ciò che gli utenti vogliono davvero, perché l’algoritmo non capisce l’istinto. Quando deleghi tutto alla macchina, smetti di ascoltare chi paghi. Se non senti più il polso dell’utente, cosa resta? 🤔"
+  "instagram_caption": "Match Group ha bloccato le nuove assunzioni per investire di più in AI. 🚫💼 Usano già modelli automatici per moderare chat, suggerire match e persino rispondere ai messaggi al posto di chi sta dall’altra parte. Tu pensi di parlare con una persona, ma potrebbe essere un bot. 🤖 Il rischio concreto? Perdere il contatto con ciò che gli utenti vogliono davvero, perché l’algoritmo non capisce l’istinto. Quando deleghi tutto alla macchina, smetti di ascoltare chi paghi. Se non senti più il polso dell’utente, cosa resta? 🤔",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "tinder-owner-match-group-is-slowing-hiring-to-pay-",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "L'AI ora decide chi matcha con chi su Tinder. Non più algoritmi umani. Le persone vengono abbinate da modelli che imparano da soli. E nessuno chiede se funziona meglio.",
+        "Match Group ha annunciato un congelamento delle assunzioni. Il budget per nuovi sviluppatori umani adesso alimenta strumenti AI. Meno persone, più automazione.",
+        "La decisione è chiara: l'azienda sposta risorse dal personale agli strumenti AI. Il messaggio per chi cerca lavoro in azienda? I ruoli umani si riducono. L'AI prende il posto.",
+        "Cosa significa in pratica? Se fai il matchmaker o lavori nel team prodotto, il tuo ruolo viene compresso. L'AI gestisce decisioni che prima richiedevano giudizio umano.",
+        "Fai un test oggi: prendi un profilo Tinder, confronta un match generato dall'AI con uno che faresti tu a mano. Se l'AI sbaglia, chi se ne accorge?"
+      ]
+    },
+    "instagram": {
+      "caption": "Match Group ha bloccato le nuove assunzioni per investire di più in AI. 🚫💼 Usano già modelli automatici per moderare chat, suggerire match e persino rispondere ai messaggi al posto di chi sta dall’altra parte. Tu pensi di parlare con una persona, ma potrebbe essere un bot. 🤖 Il rischio concreto? Perdere il contatto con ciò che gli utenti vogliono davvero, perché l’algoritmo non capisce l’istinto. Quando deleghi tutto alla macchina, smetti di ascoltare chi paghi. Se non senti più il polso dell’utente, cosa resta? 🤔",
+      "carousel": [
+        {
+          "hook": "AI ora decide i tuoi match",
+          "description": "Le persone vengono abbinate da modelli che imparano da soli. Nessuno chiede se funziona meglio.",
+          "visual_hint": "algoritmo che collega due profili",
+          "layout_type": "hero",
+          "icon": "heart",
+          "image_query": "neural network diagram nodes"
+        },
+        {
+          "hook": "Congelamento assunzioni per AI",
+          "description": "Il budget per nuovi sviluppatori umani adesso alimenta strumenti AI. Meno persone, più automazione.",
+          "visual_hint": "grafico con freccia verso AI",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "stock market chart down",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png/960px-GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Risorse dal personale all'AI",
+          "description": "L'azienda sposta risorse dal personale agli strumenti AI. I ruoli umani si riducono.",
+          "visual_hint": "bilancia con AI da un lato",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "factory robot arm assembly"
+        },
+        {
+          "hook": "Ruoli umani compressi",
+          "description": "Se lavori nel team prodotto o come matchmaker, il tuo ruolo viene compresso. L'AI gestisce decisioni chiave.",
+          "visual_hint": "mano che lascia posto a schermo",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "office workers desks",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Office_Workers_at_their_Desks_%28MSA%29_%2820950621905%29.jpg/960px-Office_Workers_at_their_Desks_%28MSA%29_%2820950621905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Confronta: match AI vs manuale",
+          "description": "Prendi un profilo Tinder, confronta un match generato dall'AI con uno fatto a mano. Se sbaglia, chi se ne accorge?",
+          "visual_hint": "schermo diviso AI vs umano",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone tinder app profile"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "L'AI ora decide le tue dating app.",
+        "Match Group ha bloccato le assunzioni.",
+        "Il budget va in AI, non in persone.",
+        "I ruoli umani si riducono.",
+        "Prova a confrontare i match oggi."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

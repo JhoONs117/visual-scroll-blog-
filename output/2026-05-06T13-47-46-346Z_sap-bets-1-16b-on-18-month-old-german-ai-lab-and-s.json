@@ -22,5 +22,39 @@
     "Si comportano come startup, ma hanno le spalle grosse."
   ],
   "savedAt": "2026-05-06T13:47:46.346Z",
-  "instagram_caption": "SAP ha appena messo sul tavolo 1,16 miliardi di dollari per un laboratorio di AI tedesco fondato 18 mesi fa 💰, e ha detto sì a NemoClaw per lavorare insieme.  \nCon questa mossa, il colosso dei software aziendali vuole ficcare l'intelligenza artificiale dentro i programmi che già usi per fatture, ordini e report – roba pratica, non solo teoria 🛠️.  \nPer chi lavora con questi strumenti, significa che puoi già provare le nuove funzioni AI di SAP, senza aspettare anni ⏱️.  \nHai già testato qualche tool AI tra le tue scartoffie quotidiane?"
+  "instagram_caption": "SAP ha appena messo sul tavolo 1,16 miliardi di dollari per un laboratorio di AI tedesco fondato 18 mesi fa 💰, e ha detto sì a NemoClaw per lavorare insieme.  \nCon questa mossa, il colosso dei software aziendali vuole ficcare l'intelligenza artificiale dentro i programmi che già usi per fatture, ordini e report – roba pratica, non solo teoria 🛠️.  \nPer chi lavora con questi strumenti, significa che puoi già provare le nuove funzioni AI di SAP, senza aspettare anni ⏱️.  \nHai già testato qualche tool AI tra le tue scartoffie quotidiane?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sap-bets-1-16b-on-18-month-old-german-ai-lab-and-s",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Cosa fai quando un gigante come SAP investe in un laboratorio di AI universitario? Non ci scommetti contro.",
+        "Hanno appena stretto una partnership con NemoClaw, una startup che sa cosa fare con i dati aziendali.",
+        "L'obiettivo? Infilare l'AI nei software che già usi per fatture, ordini, e report. Roba pratica.",
+        "Non è più teoria: puoi già provare i nuovi tool AI di SAP. Nessuna scusa per restare indietro.",
+        "Le big tech si muovono come startup, ma con portafogli da miliardi. Il vero investimento sei tu."
+      ]
+    },
+    "instagram": {
+      "caption": "SAP ha appena messo sul tavolo 1,16 miliardi di dollari per un laboratorio di AI tedesco fondato 18 mesi fa 💰, e ha detto sì a NemoClaw per lavorare insieme.  \nCon questa mossa, il colosso dei software aziendali vuole ficcare l'intelligenza artificiale dentro i programmi che già usi per fatture, ordini e report – roba pratica, non solo teoria 🛠️.  \nPer chi lavora con questi strumenti, significa che puoi già provare le nuove funzioni AI di SAP, senza aspettare anni ⏱️.  \nHai già testato qualche tool AI tra le tue scartoffie quotidiane?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "SAP butta soldi in un laboratorio AI giovani.",
+        "Nuova partnership con NemoClaw per le aziende.",
+        "Le business app diventano intelligenti e veloci.",
+        "Puoi già provare i loro nuovi strumenti AI.",
+        "Si comportano come startup, ma hanno le spalle grosse."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

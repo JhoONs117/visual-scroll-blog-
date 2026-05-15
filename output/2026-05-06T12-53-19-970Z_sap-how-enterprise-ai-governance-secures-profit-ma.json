@@ -23,5 +23,39 @@
   ],
   "savedAt": "2026-05-06T12:53:19.970Z",
   "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
-  "instagram_caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍"
+  "instagram_caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sap-how-enterprise-ai-governance-secures-profit-ma",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "La tua prossima multa potrebbe arrivare da un sistema che non capisci nemmeno. L'AI aziendale infrange già leggi che nessuno ha ancora controllato.",
+        "SAP ha capito il problema: invece di creare un ufficio compliance separato, sta infilando i controlli direttamente nei processi finanziari che già usi.",
+        "Il dato è chiaro: il 73% dei dati aziendali non supererebbe un controllo normativo serio senza un intervento esplicito. Stai viaggiando bendato.",
+        "Ogni audit che eviti non è un costo risparmiato, è una bomba a orologeria. I danni legali e reputazionali arrivano dopo, e costano il triplo.",
+        "Oggi il vantaggio è di chi governa l'AI in tempo reale. Domani sarà l'unico modo per avere margine. Ritardare non è prudenza, è debito."
+      ]
+    },
+    "instagram": {
+      "caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "La tua AI sta già violando leggi.",
+        "SAP mette freni nei processi finanziari.",
+        "Il 73% dei dati non passa i controlli.",
+        "Un audit in meno è un rischio in più.",
+        "Governa oggi, o domani perdi margine."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

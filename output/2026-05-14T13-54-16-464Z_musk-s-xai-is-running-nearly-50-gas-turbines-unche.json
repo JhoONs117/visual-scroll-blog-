@@ -1,0 +1,154 @@
+{
+  "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+  "slides": [
+    "Musk’s xAI runs 50 gas turbines in Mississippi — without permits?",
+    "They power a data center 24/7, emitting pollutants locally.",
+    "The turbines operate unchecked by state air quality regulators.",
+    "Nearby communities breathe the exhaust without knowing the risks.",
+    "Who enforces emissions when the law lags behind AI growth?"
+  ],
+  "thread_text": [
+    "Musk’s xAI sta bruciando gas 24/7 in Mississippi — senza un permesso ambientale.",
+    "I 50 turbogas alimentano un data center AI senza controllo dell’agenzia locale.",
+    "Le comunità vicine respirano quei fumi, senza sapere cosa c’è dentro.",
+    "La legge è ferma a prima dell’esplosione dell’AI. Nessuno fa rispettare i limiti.",
+    "Chi ferma un data center che inquina come una piccola centrale elettrica?"
+  ],
+  "video_script": [
+    "Musk ha 50 turbine a gas in Mississippi.",
+    "Nessun permesso ambientale per farle funzionare.",
+    "I regolatori locali non le controllano.",
+    "Le persone lì vivono nell’inquinamento senza saperlo.",
+    "La legge non tiene il passo con l’AI."
+  ],
+  "instagram_caption": "A Musk bastano 50 turbine a gas per alimentare un data center in Mississippi — e lo fa senza nessun permesso ambientale. 🔥 Le macchine girano 24 ore su 24, emettendo sostanze nell’aria che respirano le comunità vicine, senza che nessuno le controlli. Il problema? La legge sui limiti di emissione non tiene il passo con la corsa all’intelligenza artificiale. ⚖️ Concretamente: mentre usi strumenti AI, qualcuno sta pagando il costo sulla propria salute. Chi decide i limiti quando il profitto corre più veloce delle regole? 💨",
+  "carousel_slides": [
+    {
+      "hook": "50 turbine, zero permessi",
+      "description": "Musk's xAI brucia gas 24/7 in Mississippi senza un permesso ambientale.",
+      "visual_hint": "tubi industriali accesi notte",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "gas turbines industrial night"
+    },
+    {
+      "hook": "Energia AI senza controllo",
+      "description": "I 50 turbogas alimentano un data center AI senza controllo dell'agenzia locale.",
+      "visual_hint": "data center con turbine",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "gas turbines data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fumi invisibili, rischi reali",
+      "description": "Le comunità vicine respirano quei fumi, senza sapere cosa c'è dentro.",
+      "visual_hint": "persone vicino camino",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smoke stack neighborhood",
+      "image": "https://images.pexels.com/photos/2155988/pexels-photo-2155988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Legge ferma, AI corre",
+      "description": "La legge è ferma a prima dell'esplosione dell'AI. Nessuno fa rispettare i limiti.",
+      "visual_hint": "documenti legali impilati",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "law books stack",
+      "image": "https://images.pexels.com/photos/8731038/pexels-photo-8731038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chi ferma un data center?",
+      "description": "Chi ferma un data center che inquina come una piccola centrale elettrica?",
+      "visual_hint": "centrale elettrica confronto",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "power plant comparison",
+      "image": "https://images.pexels.com/photos/7563992/pexels-photo-7563992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+  "pubDate": "Wed, 13 May 2026 19:49:42 +0000",
+  "savedAt": "2026-05-14T13:55:21.381Z",
+  "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "musk-s-xai-is-running-nearly-50-gas-turbines-unche",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Musk’s xAI sta bruciando gas 24/7 in Mississippi — senza un permesso ambientale.",
+        "I 50 turbogas alimentano un data center AI senza controllo dell’agenzia locale.",
+        "Le comunità vicine respirano quei fumi, senza sapere cosa c’è dentro.",
+        "La legge è ferma a prima dell’esplosione dell’AI. Nessuno fa rispettare i limiti.",
+        "Chi ferma un data center che inquina come una piccola centrale elettrica?"
+      ]
+    },
+    "instagram": {
+      "caption": "A Musk bastano 50 turbine a gas per alimentare un data center in Mississippi — e lo fa senza nessun permesso ambientale. 🔥 Le macchine girano 24 ore su 24, emettendo sostanze nell’aria che respirano le comunità vicine, senza che nessuno le controlli. Il problema? La legge sui limiti di emissione non tiene il passo con la corsa all’intelligenza artificiale. ⚖️ Concretamente: mentre usi strumenti AI, qualcuno sta pagando il costo sulla propria salute. Chi decide i limiti quando il profitto corre più veloce delle regole? 💨",
+      "carousel": [
+        {
+          "hook": "50 turbine, zero permessi",
+          "description": "Musk's xAI brucia gas 24/7 in Mississippi senza un permesso ambientale.",
+          "visual_hint": "tubi industriali accesi notte",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "gas turbines industrial night"
+        },
+        {
+          "hook": "Energia AI senza controllo",
+          "description": "I 50 turbogas alimentano un data center AI senza controllo dell'agenzia locale.",
+          "visual_hint": "data center con turbine",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "gas turbines data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fumi invisibili, rischi reali",
+          "description": "Le comunità vicine respirano quei fumi, senza sapere cosa c'è dentro.",
+          "visual_hint": "persone vicino camino",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "smoke stack neighborhood",
+          "image": "https://images.pexels.com/photos/2155988/pexels-photo-2155988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Legge ferma, AI corre",
+          "description": "La legge è ferma a prima dell'esplosione dell'AI. Nessuno fa rispettare i limiti.",
+          "visual_hint": "documenti legali impilati",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "law books stack",
+          "image": "https://images.pexels.com/photos/8731038/pexels-photo-8731038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Chi ferma un data center?",
+          "description": "Chi ferma un data center che inquina come una piccola centrale elettrica?",
+          "visual_hint": "centrale elettrica confronto",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "power plant comparison",
+          "image": "https://images.pexels.com/photos/7563992/pexels-photo-7563992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Musk ha 50 turbine a gas in Mississippi.",
+        "Nessun permesso ambientale per farle funzionare.",
+        "I regolatori locali non le controllano.",
+        "Le persone lì vivono nell’inquinamento senza saperlo.",
+        "La legge non tiene il passo con l’AI."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
+}

@@ -80,5 +80,82 @@
   "link": "https://ricette.giallozafferano.it/Pasta-al-forno-alla-siciliana.html",
   "pubDate": "Tue, 12 May 2026 10:34:00 +0200",
   "savedAt": "2026-05-12T12:29:08.249Z",
-  "image": "https://www.giallozafferano.it/images/361-36162/Pasta-al-forno-alla-siciliana_650x433_wm.jpg"
+  "image": "https://www.giallozafferano.it/images/361-36162/Pasta-al-forno-alla-siciliana_650x433_wm.jpg",
+  "schema_version": 2,
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "C'è chi chiama questa pasta una coccola, io la chiamo la mia domenica felice. Pasta al forno alla siciliana: melanzane fritte, scamorza filante e quella crosticina di parmigiano che non dimentichi più.",
+        "Partiamo dai rigatoni, i migliori per questo piatto. Nel frattempo, cubetti di melanzane in olio bollente: devono diventare dorati e croccanti, così senti ancora la loro anima.",
+        "Condisci la pasta al dente con una passata di pomodoro saporita, le melanzane fritte e tanto parmigiano. Poi, lo step decisivo: scamorza a cubotti, che si scioglierà in bocca.",
+        "Tutto in pirofila, un'altra spolverata di parmigiano e via in forno. Gratina fino a quando la superficie diventa un capolavoro. Occhio: il formaggio deve fare la crosta.",
+        "Il trucco last minute? Lasciala riposare almeno 10 minuti fuori dal forno: la pasta si compatta e mantiene il cuore morbido. Provala e dimmi com'è andata 👇"
+      ]
+    },
+    "instagram": {
+      "caption": "Una bontà che sa di Sicilia e di domeniche in famiglia. 🍆🧀\n\nQuesta pasta al forno è un abbraccio di sapori: rigatoni al dente conditi con una passata corposa, melanzane fritte croccanti e morbidi cubotti di scamorza che filano al primo morso. Il tutto gratinato con una generosa pioggia di parmigiano. Il segreto? Lasciarla riposare qualche minuto prima di servire, così i sapori si compattano alla perfezione. \n\nProvala questo weekend e portala in tavola! 🌿",
+      "carousel": [
+        {
+          "hook": "Pasta al forno alla siciliana",
+          "description": "Un primo ricco e filante con melanzane fritte e scamorza, perfetto per un pranzo in famiglia.",
+          "visual_hint": "Pirofila fumante con formaggio",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory baked pasta"
+        },
+        {
+          "hook": "Ingredienti essenziali",
+          "description": "Rigatoni, melanzane fritte, scamorza filante, passata di pomodoro e parmigiano.",
+          "visual_hint": "Ingredienti su tagliere rustico",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory pasta ingredients",
+          "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Friggi le melanzane",
+          "description": "Taglia a cubetti e friggi in olio caldo fino a doratura, per un sapore morbido e avvolgente.",
+          "visual_hint": "Melanzane che sfrigolano in padella",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "frying eggplant cubes",
+          "image": "https://images.pexels.com/photos/23879143/pexels-photo-23879143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Condisci e gratina",
+          "description": "Mescola pasta, melanzane, scamorza e passata. Disponi in pirofila, spolvera di parmigiano e inforna.",
+          "visual_hint": "Manico di cucchiaio che mescola",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "mixing pasta in pan",
+          "image": "https://images.pexels.com/photos/31094812/pexels-photo-31094812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Lascia riposare",
+          "description": "Prima di servire, lascia intiepidire 5 minuti: il sapore si amalgama e la pasta resta perfetta.",
+          "visual_hint": "Piatto fumante Porzione servita",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pasta serving",
+          "image": "https://images.pexels.com/photos/17749744/pexels-photo-17749744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Friggo le melanzane a cubetti in olio.",
+        "Less i rigatoni e li scolo al dente.",
+        "Mescolo pasta, passata, melanzane e scamorza.",
+        "Metto tutto in pirofila, aggiungo parmigiano.",
+        "Gratino e lascio riposare prima di servire."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

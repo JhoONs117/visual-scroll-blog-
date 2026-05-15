@@ -66,5 +66,80 @@
     }
   ],
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/GCN26_102_BlogHeader_2436x1200_Opt_4_Dark.max-2500x2500-1.jpg",
-  "instagram_caption": "Google ha messo in vendita un software per gestire la governance dell'AI, non un semplice aggiornamento. Le aziende devono ancora capire come seguire regole che cambiano ogni settimana 📋. Questo servizio promette di tenerti in regola senza che tu diventi un esperto legale, automatizzando audit e controlli di sicurezza 🛡️. Concretamente: se lavori con strumenti intelligenti, puoi delegare la burocrazia a un sistema che valida le tue policy in tempo reale. Una banca lo usa già per i controlli automatici. Hai già un piano su come gestire questi obblighi nuovi? 💡"
+  "instagram_caption": "Google ha messo in vendita un software per gestire la governance dell'AI, non un semplice aggiornamento. Le aziende devono ancora capire come seguire regole che cambiano ogni settimana 📋. Questo servizio promette di tenerti in regola senza che tu diventi un esperto legale, automatizzando audit e controlli di sicurezza 🛡️. Concretamente: se lavori con strumenti intelligenti, puoi delegare la burocrazia a un sistema che valida le tue policy in tempo reale. Una banca lo usa già per i controlli automatici. Hai già un piano su come gestire questi obblighi nuovi? 💡",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-made-agentic-ai-governance-a-product-enterp",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Le aziende non hanno policy per gli agenti AI. Sono semi-autonomi e operano da soli. Questo è già un problema.",
+        "Un agente AI può firmare contratti, acquistare servizi, modificare sistemi. Nessuno controlla cosa fa davvero.",
+        "Google prova a vendere governance per questo caos. Ma la domanda è: chi decide le regole se l'agente decide da solo?",
+        "Se oggi un agente sbaglia un contratto, la responsabilità è tua. Non c'è un 'errore della macchina' che ti salva.",
+        "Chi non definisce ora policy per i propri agenti, tra 12 mesi affronterà contenziosi operativi. Il rischio è concreto."
+      ]
+    },
+    "instagram": {
+      "caption": "Google ha messo in vendita un software per gestire la governance dell'AI, non un semplice aggiornamento. Le aziende devono ancora capire come seguire regole che cambiano ogni settimana 📋. Questo servizio promette di tenerti in regola senza che tu diventi un esperto legale, automatizzando audit e controlli di sicurezza 🛡️. Concretamente: se lavori con strumenti intelligenti, puoi delegare la burocrazia a un sistema che valida le tue policy in tempo reale. Una banca lo usa già per i controlli automatici. Hai già un piano su come gestire questi obblighi nuovi? 💡",
+      "carousel": [
+        {
+          "hook": "I tuoi agenti AI decidono da soli",
+          "description": "Le aziende non hanno policy per gestire le azioni semi-autonome degli agenti AI.",
+          "visual_hint": "robot che firma contratto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot signing document"
+        },
+        {
+          "hook": "Nessuno controlla cosa fanno",
+          "description": "Un agente può firmare contratti, acquistare servizi, modificare sistemi senza supervisione.",
+          "visual_hint": "schermo con clausole legali",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "legal contract closeup"
+        },
+        {
+          "hook": "Google vende governance, ma chi decide?",
+          "description": "Google prova a vendere strumenti di governance, ma resta il nodo: chi stabilisce le regole?",
+          "visual_hint": "ingranaggi e schermo AI",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "gears circuit board"
+        },
+        {
+          "hook": "Se sbaglia, la responsabilità è tua",
+          "description": "Un errore contrattuale dell'agente è tuo, non esiste 'errore della macchina' come scusa.",
+          "visual_hint": "timbro con firma umana",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand stamp signature"
+        },
+        {
+          "hook": "Agisci ora o affronta contenziosi",
+          "description": "Chi non definisce policy oggi, tra 12 mesi avrà caos operativo e legale concreto.",
+          "visual_hint": "calendario con scadenza",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar deadline warning"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nessuna azienda ha regole per gli agenti AI.",
+        "Ogni agente decide da solo cosa fare.",
+        "Possono firmare contratti senza controllo umano.",
+        "Google vende governance, ma è solo un cerotto.",
+        "Se non agisci ora, paghi multe tra un anno."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

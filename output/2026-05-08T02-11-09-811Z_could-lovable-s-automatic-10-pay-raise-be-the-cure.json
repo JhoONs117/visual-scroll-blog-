@@ -71,5 +71,84 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800",
-  "instagram_caption": "Lovable ha appena alzato tutti del 10%, automatico, senza chiedere nulla in cambio. 💸 Niente bonus negoziati, niente giochi di corridoio per una promozione: basta essere lì da un anno. L'idea è che la competizione sui soldi di solito genera invidia e silenzi, mentre eliminare l'arma dello stipendio potrebbe spegnere le tensioni. 💡 Per chi lavora in aziende tossiche sarebbe un cambio radicale: smettere di litigare per un aumento e concentrarsi sul lavoro. 🤝 Tu preferisci l'aumento automatico o la meritocrazia?"
+  "instagram_caption": "Lovable ha appena alzato tutti del 10%, automatico, senza chiedere nulla in cambio. 💸 Niente bonus negoziati, niente giochi di corridoio per una promozione: basta essere lì da un anno. L'idea è che la competizione sui soldi di solito genera invidia e silenzi, mentre eliminare l'arma dello stipendio potrebbe spegnere le tensioni. 💡 Per chi lavora in aziende tossiche sarebbe un cambio radicale: smettere di litigare per un aumento e concentrarsi sul lavoro. 🤝 Tu preferisci l'aumento automatico o la meritocrazia?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "could-lovable-s-automatic-10-pay-raise-be-the-cure",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "E se eliminare la competizione sui soldi bastasse a risolvere la cultura tossica in azienda?",
+        "Lovable ha appena alzato tutti del 10% automatico, zero merito. Solo essere lì da un anno.",
+        "I bonus negoziati creano invidia, silenzi, scontri. La tensione sale già in corridoio.",
+        "Tu smetti di litigare per una promozione quando lo stipendio non è più un'arma di ricatto.",
+        "Allora chiediti: aumento automatico o meritocrazia? Se non rispondi ora, lo farà il tuo team."
+      ]
+    },
+    "instagram": {
+      "caption": "Lovable ha appena alzato tutti del 10%, automatico, senza chiedere nulla in cambio. 💸 Niente bonus negoziati, niente giochi di corridoio per una promozione: basta essere lì da un anno. L'idea è che la competizione sui soldi di solito genera invidia e silenzi, mentre eliminare l'arma dello stipendio potrebbe spegnere le tensioni. 💡 Per chi lavora in aziende tossiche sarebbe un cambio radicale: smettere di litigare per un aumento e concentrarsi sul lavoro. 🤝 Tu preferisci l'aumento automatico o la meritocrazia?",
+      "carousel": [
+        {
+          "hook": "E se bastasse eliminare la competizione sui soldi?",
+          "description": "Lovable alza tutti del 10% automatico, zero merito: solo essere lì da un anno.",
+          "visual_hint": "fogli di aumento su scrivania",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "office desk papers"
+        },
+        {
+          "hook": "I bonus negoziati creano invidia.",
+          "description": "Bonus negoziati generano invidia, silenzi e scontri. La tensione sale già in corridoio.",
+          "visual_hint": "persone che si guardano in corridoio",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office corridor people",
+          "image": "https://images.pexels.com/photos/6566809/pexels-photo-6566809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Smetti di litigare per una promozione.",
+          "description": "Quando lo stipendio non è più un'arma di ricatto, smetti di litigare per una promozione.",
+          "visual_hint": "stretta di mano in ufficio",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "handshake office",
+          "image": "https://images.pexels.com/photos/8297656/pexels-photo-8297656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Aumento automatico o meritocrazia?",
+          "description": "Chiediti: aumento automatico o meritocrazia? Se non rispondi ora, lo farà il tuo team.",
+          "visual_hint": "persona pensierosa alla scrivania",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person thinking desk",
+          "image": "https://images.pexels.com/photos/6609455/pexels-photo-6609455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova a chiedere al tuo team.",
+          "description": "La cultura tossica nasce dai bonus negoziati. Prova a chiedere: aumento automatico o meritocrazia?",
+          "visual_hint": "domanda scritta su lavagna",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "whiteboard question",
+          "image": "https://images.pexels.com/photos/6325944/pexels-photo-6325944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Immagina di non litigare mai più per uno stipendio.",
+        "Lovable alza tutti del 10%, senza merito.",
+        "I bonus negoziati? Fanno solo male.",
+        "La competizione sui soldi scompare.",
+        "Chiediti: automatico o meritocrazia?"
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

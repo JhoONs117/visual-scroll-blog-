@@ -21,5 +21,38 @@
     "Sopravvive solo chi si adatta."
   ],
   "savedAt": "2026-05-06T12:28:46.133Z",
-  "instagram_caption": "IBM ha già tagliato il 20% dei costi di sviluppo software attivando un tool chiamato Bob 🤖. Non ha licenziato nessuno: ha solo automatizzato il lavoro ripetitivo (bug fixing, riunioni inutili, coding noioso) che di solito mangia un terzo del tempo dei team. Bob si integra nei programmi che già usi e decide cosa delegare alle macchine 💸. Per chi sviluppa software, significa meno ore sprecate e più soldi in tasca. Quanto del tuo tempo giornaliero potrebbe già fare un algoritmo senza che tu lo noti? 🧠"
+  "instagram_caption": "IBM ha già tagliato il 20% dei costi di sviluppo software attivando un tool chiamato Bob 🤖. Non ha licenziato nessuno: ha solo automatizzato il lavoro ripetitivo (bug fixing, riunioni inutili, coding noioso) che di solito mangia un terzo del tempo dei team. Bob si integra nei programmi che già usi e decide cosa delegare alle macchine 💸. Per chi sviluppa software, significa meno ore sprecate e più soldi in tasca. Quanto del tuo tempo giornaliero potrebbe già fare un algoritmo senza che tu lo noti? 🧠",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ibm-launches-ai-platform-bob-to-regulate-sdlc-cost",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Il 40% del tuo budget DevOps sta per sparire. E non per un taglio casuale, ma perché una AI ha deciso che spenderlo è un errore.",
+        "Immagina una piattaforma che analizza ogni riga di codice prima ancora che qualcuno la scriva. Non stima costi, li calcola in tempo reale.",
+        "Non ti avvisa quando sfori. Blocca la feature direttamente, prima che il tempo e i soldi vengano sprecati.",
+        "Così, ogni commit diventa una decisione finanziaria. Non puoi più nascondere le inefficienze dietro la scusa 'lo finiamo dopo'."
+      ]
+    },
+    "instagram": {
+      "caption": "IBM ha già tagliato il 20% dei costi di sviluppo software attivando un tool chiamato Bob 🤖. Non ha licenziato nessuno: ha solo automatizzato il lavoro ripetitivo (bug fixing, riunioni inutili, coding noioso) che di solito mangia un terzo del tempo dei team. Bob si integra nei programmi che già usi e decide cosa delegare alle macchine 💸. Per chi sviluppa software, significa meno ore sprecate e più soldi in tasca. Quanto del tuo tempo giornaliero potrebbe già fare un algoritmo senza che tu lo noti? 🧠",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Un bot taglia il tuo budget del 40%.",
+        "Analizza il codice prima che esista.",
+        "Blocca feature fuori budget subito.",
+        "La AI decide, non il team.",
+        "Sopravvive solo chi si adatta."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

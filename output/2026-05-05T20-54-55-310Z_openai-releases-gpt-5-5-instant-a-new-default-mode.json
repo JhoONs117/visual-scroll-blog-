@@ -22,5 +22,39 @@
     "Attivalo subito e vedi la differenza."
   ],
   "savedAt": "2026-05-05T20:54:55.310Z",
-  "instagram_caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?"
+  "instagram_caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-releases-gpt-5-5-instant-a-new-default-mode",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Non è una domanda. Puoi avere la risposta in tempo reale mentre scrivi.",
+        "Il nuovo modello di punta di OpenAI è già il predefinito in ChatGPT. Zero attese.",
+        "Non devi cambiare nulla. Apri e ottieni risposte istantanee, non tra qualche secondo.",
+        "Non è un aggiornamento minore. È il salto che rende ogni conversazione fluida come parlare.",
+        "Se ancora aspetti i risultati, stai usando lo strumento sbagliato. Attivalo ora."
+      ]
+    },
+    "instagram": {
+      "caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Non devi più aspettare.",
+        "OpenAI ha appena lanciato il modello più veloce.",
+        "È già il default in ChatGPT.",
+        "Risposte immediate mentre scrivi.",
+        "Attivalo subito e vedi la differenza."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

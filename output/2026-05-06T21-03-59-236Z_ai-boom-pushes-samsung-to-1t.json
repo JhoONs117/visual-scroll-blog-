@@ -66,5 +66,82 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/February_1902_calendar_with_Starling_-_Theo_van_Hoytema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
     }
   ],
-  "instagram_caption": "Samsung vale ufficialmente un trilione di dollari, ma nel mercato dei chip per AI vende meno della metà del suo rivale SK Hynix 📉 La domanda di memorie HBM, cruciali per addestrare i modelli, sta esplodendo. Samsung produce questi chip, ma arranca in volumi. Gli azionisti si aspettano utili record già nel prossimo trimestre. Per te significa che smartphone e servizi AI potrebbero diventare più economici se la produzione cresce ⚡ Vendere azioni o tenere? I dati dicono che il potenziale c’è, il presente no 💸"
+  "instagram_caption": "Samsung vale ufficialmente un trilione di dollari, ma nel mercato dei chip per AI vende meno della metà del suo rivale SK Hynix 📉 La domanda di memorie HBM, cruciali per addestrare i modelli, sta esplodendo. Samsung produce questi chip, ma arranca in volumi. Gli azionisti si aspettano utili record già nel prossimo trimestre. Per te significa che smartphone e servizi AI potrebbero diventare più economici se la produzione cresce ⚡ Vendere azioni o tenere? I dati dicono che il potenziale c’è, il presente no 💸",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-boom-pushes-samsung-to-1t",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Samsung è a un passo da 1 trilione di dollari di capitalizzazione. Ma i profitti trimestrali sono crollati del 40% in altri settori. Questo è il punto di svolta.",
+        "I ricavi sono volati del 60% grazie alla domanda di chip AI. La divisione semiconduttori sta trainando tutto il resto.",
+        "Ma il resto dell'azienda — smartphone, elettrodomestici, display — sta perdendo colpi. Il 40% in meno negli utili è un campanello d'allarme.",
+        "Ora la tua supply chain tech dipende da Samsung. Server, cloud, dispositivi consumer. Se inciampa, l'intero settore rallenta.",
+        "La prossima call con gli investitori dirà se questo è un picco o un nuovo trend. Segna la data e prepara i tuoi indicatori."
+      ]
+    },
+    "instagram": {
+      "caption": "Samsung vale ufficialmente un trilione di dollari, ma nel mercato dei chip per AI vende meno della metà del suo rivale SK Hynix 📉 La domanda di memorie HBM, cruciali per addestrare i modelli, sta esplodendo. Samsung produce questi chip, ma arranca in volumi. Gli azionisti si aspettano utili record già nel prossimo trimestre. Per te significa che smartphone e servizi AI potrebbero diventare più economici se la produzione cresce ⚡ Vendere azioni o tenere? I dati dicono che il potenziale c’è, il presente no 💸",
+      "carousel": [
+        {
+          "hook": "Profitti giù del 40%",
+          "description": "Samsung corre verso 1 trilione, ma gli utili in altri settori crollano del 40%. Punto di svolta.",
+          "visual_hint": "Grafico borsa in caduta",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "AI spinge i ricavi",
+          "description": "Ricavi +60% grazie ai chip AI. La divisione semiconduttori traina il gruppo.",
+          "visual_hint": "Chip processore brillante",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "semiconductor chip"
+        },
+        {
+          "hook": "Smartphone e display in crisi",
+          "description": "Il resto dell'azienda perde colpi: smartphone, elettrodomestici, display. Utili giù del 40%.",
+          "visual_hint": "Smartphone rotto accanto",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "broken smartphone"
+        },
+        {
+          "hook": "Supply chain ora dipende",
+          "description": "Server, cloud, dispositivi: tutta la filiera tech si ferma se Samsung inciampa.",
+          "visual_hint": "Mano tocca schermo server",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "data center servers",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/960px-BalticServers_data_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "La prossima call deciderà",
+          "description": "Investitori in attesa: la prossima call dirà se è picco o trend. Segna la data.",
+          "visual_hint": "Calendario con data segnata",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "calendar with mark",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/February_1902_calendar_with_Starling_-_Theo_van_Hoytema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Samsung potrebbe valere un trilione di dollari.",
+        "Ma i profitti sono crollati del 40% altrove.",
+        "I chip AI hanno spinto i ricavi su del 60%.",
+        "Tutta la tua supply chain dipende da loro ora.",
+        "Segui la prossima call per capire il futuro."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

@@ -1,0 +1,154 @@
+{
+  "title": "AI automates HR compliance, except for the area tech companies need",
+  "slides": [
+    "L'AI gestisce l'80% delle compliance HR, ma non le licenze software.",
+    "Le multe per software non conformi crescono del 40% annuo.",
+    "Nessun tool AI attuale traccia le clausole di audit dei contratti.",
+    "Ogni tua nuova app cloud potrebbe già violare una licenza.",
+    "Controlla manualmente il tuo stack software entro 7 giorni."
+  ],
+  "thread_text": [
+    "Ogni nuova app cloud che lanci potrebbe già violare una licenza software. Le multe crescono del 40% all'anno. E nessun tool AI attuale controlla le clausole di audit dei contratti.",
+    "L'80% delle compliance HR è già gestito dall'AI. Ma sorprendentemente, le licenze software restano un buco nero. Automazione da una parte, rischio invisibile dall'altra.",
+    "Il problema? I contratti software nascondono clausole di audit specifiche, spesso scritte su misura. Nessun algoritmo le legge. Nessun tool le interpreta.",
+    "Risultato: installi una nuova app, pensi di essere in regola, ma una riga persa in un contratto di tre anni fa ti fa scattare una multa. E le multe aumentano ogni anno.",
+    "Controlla manualmente il tuo stack software entro 7 giorni. Non aspettare l'audit. Costa meno di un abbonamento SaaS e può salvarti da una sanzione a cinque cifre."
+  ],
+  "video_script": [
+    "Ogni nuova app cloud può già violare una licenza.",
+    "Multe? Crescono del 40% l'anno.",
+    "L'AI gestisce l'80% delle compliance HR.",
+    "Ma nessun tool legge le clausole di audit.",
+    "Controlla manualmente lo stack entro 7 giorni."
+  ],
+  "instagram_caption": "Le multe per software non conforme crescono del 40% all'anno, mentre l'AI gestisce ormai l'80% della compliance nelle risorse umane. Il paradosso? Nessun tool attuale sa leggere le clausole di audit nascoste nei contratti 📄. Ogni nuova app cloud che installi potrebbe già violare una licenza firmata anni fa ⚠️. Per te significa che l'automazione ti protegge dalle multe solo a metà: il rischio reale sta nei dettagli che nessun algoritmo vede ancora. Quando è stata l'ultima volta che hai controllato a mano le condizioni del tuo stack software?",
+  "carousel_slides": [
+    {
+      "hook": "Nessun AI vede le clausole",
+      "description": "Nessun tool AI traccia le clausole di audit nei contratti. Le multe per software non conforme crescono del 40% l'anno.",
+      "visual_hint": "contratto con clausola nascosta",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "contract document magnifying glass"
+    },
+    {
+      "hook": "L'80% è automatizzato, ma...",
+      "description": "L'80% delle compliance HR è gestito dall'AI, ma le licenze software restano un buco nero. Automazione da una parte, rischio dall'altra.",
+      "visual_hint": "AI vs licenze software",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ogni nuova app cloud è un rischio",
+      "description": "Ogni nuova app cloud potrebbe violare una licenza. Le multe crescono del 40% annuo e nessun AI legge le clausole di audit.",
+      "visual_hint": "app cloud con segnale di pericolo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cloud computing servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Una riga persa, una multa",
+      "description": "Installi una nuova app pensando di essere in regola, ma una clausola di un vecchio contratto fa scattare una sanzione a 5 cifre.",
+      "visual_hint": "vecchio contratto con riga evidenziata",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand signing contract",
+      "image": "https://images.pexels.com/photos/8297657/pexels-photo-8297657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controlla il tuo stack in 7 giorni",
+      "description": "Controlla manualmente il tuo stack software entro 7 giorni. Costa meno di un abbonamento SaaS e ti salva da multe a 5 cifre.",
+      "visual_hint": "calendario con conto alla rovescia",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar deadline urgency",
+      "image": "https://images.pexels.com/photos/6863322/pexels-photo-6863322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/AI-HR.png",
+  "pubDate": "Mon, 11 May 2026 14:34:05 +0000",
+  "savedAt": "2026-05-14T14:31:22.253Z",
+  "link": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-automates-hr-compliance-except-for-the-area-tec",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Ogni nuova app cloud che lanci potrebbe già violare una licenza software. Le multe crescono del 40% all'anno. E nessun tool AI attuale controlla le clausole di audit dei contratti.",
+        "L'80% delle compliance HR è già gestito dall'AI. Ma sorprendentemente, le licenze software restano un buco nero. Automazione da una parte, rischio invisibile dall'altra.",
+        "Il problema? I contratti software nascondono clausole di audit specifiche, spesso scritte su misura. Nessun algoritmo le legge. Nessun tool le interpreta.",
+        "Risultato: installi una nuova app, pensi di essere in regola, ma una riga persa in un contratto di tre anni fa ti fa scattare una multa. E le multe aumentano ogni anno.",
+        "Controlla manualmente il tuo stack software entro 7 giorni. Non aspettare l'audit. Costa meno di un abbonamento SaaS e può salvarti da una sanzione a cinque cifre."
+      ]
+    },
+    "instagram": {
+      "caption": "Le multe per software non conforme crescono del 40% all'anno, mentre l'AI gestisce ormai l'80% della compliance nelle risorse umane. Il paradosso? Nessun tool attuale sa leggere le clausole di audit nascoste nei contratti 📄. Ogni nuova app cloud che installi potrebbe già violare una licenza firmata anni fa ⚠️. Per te significa che l'automazione ti protegge dalle multe solo a metà: il rischio reale sta nei dettagli che nessun algoritmo vede ancora. Quando è stata l'ultima volta che hai controllato a mano le condizioni del tuo stack software?",
+      "carousel": [
+        {
+          "hook": "Nessun AI vede le clausole",
+          "description": "Nessun tool AI traccia le clausole di audit nei contratti. Le multe per software non conforme crescono del 40% l'anno.",
+          "visual_hint": "contratto con clausola nascosta",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "contract document magnifying glass"
+        },
+        {
+          "hook": "L'80% è automatizzato, ma...",
+          "description": "L'80% delle compliance HR è gestito dall'AI, ma le licenze software restano un buco nero. Automazione da una parte, rischio dall'altra.",
+          "visual_hint": "AI vs licenze software",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ogni nuova app cloud è un rischio",
+          "description": "Ogni nuova app cloud potrebbe violare una licenza. Le multe crescono del 40% annuo e nessun AI legge le clausole di audit.",
+          "visual_hint": "app cloud con segnale di pericolo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "cloud computing servers",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Una riga persa, una multa",
+          "description": "Installi una nuova app pensando di essere in regola, ma una clausola di un vecchio contratto fa scattare una sanzione a 5 cifre.",
+          "visual_hint": "vecchio contratto con riga evidenziata",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand signing contract",
+          "image": "https://images.pexels.com/photos/8297657/pexels-photo-8297657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Controlla il tuo stack in 7 giorni",
+          "description": "Controlla manualmente il tuo stack software entro 7 giorni. Costa meno di un abbonamento SaaS e ti salva da multe a 5 cifre.",
+          "visual_hint": "calendario con conto alla rovescia",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar deadline urgency",
+          "image": "https://images.pexels.com/photos/6863322/pexels-photo-6863322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ogni nuova app cloud può già violare una licenza.",
+        "Multe? Crescono del 40% l'anno.",
+        "L'AI gestisce l'80% delle compliance HR.",
+        "Ma nessun tool legge le clausole di audit.",
+        "Controlla manualmente lo stack entro 7 giorni."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
+}

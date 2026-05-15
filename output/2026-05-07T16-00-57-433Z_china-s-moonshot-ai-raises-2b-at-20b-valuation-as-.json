@@ -71,5 +71,84 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
-  "instagram_caption": "Una startup cinese ha appena raccolto 2 miliardi di dollari: Moonshot AI vale ora 20 miliardi 💰. Hanno scelto di rendere il modello open source, contro la solita logica dei sistemi chiusi. Il risultato? Puoi scaricare e far girare la stessa IA senza pagare licenze né abbonamenti mensili 🔓. La potenza è identica ai modelli a pagamento, ma con controllo totale. Scarichi il modello oggi e lo testi contro quelli chiusi: chi vince? 🚀"
+  "instagram_caption": "Una startup cinese ha appena raccolto 2 miliardi di dollari: Moonshot AI vale ora 20 miliardi 💰. Hanno scelto di rendere il modello open source, contro la solita logica dei sistemi chiusi. Il risultato? Puoi scaricare e far girare la stessa IA senza pagare licenze né abbonamenti mensili 🔓. La potenza è identica ai modelli a pagamento, ma con controllo totale. Scarichi il modello oggi e lo testi contro quelli chiusi: chi vince? 🚀",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "china-s-moonshot-ai-raises-2b-at-20b-valuation-as-",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Una startup cinese ha appena raccolto $2 miliardi. Il segreto? Hanno aperto il codice, non lo tengono chiuso.",
+        "Moonshot AI vale ora $20 miliardi. Hanno scelto di rendere il modello open source, contro ogni logica commerciale.",
+        "Il risultato? Tu puoi usare la stessa AI senza pagare licenze. Scarichi il modello e lo fai girare dove vuoi.",
+        "Non è una versione ridotta: è la stessa potenza dei modelli chiusi, ma senza abbonamento mensile.",
+        "Il costo? Zero. Scarica il modello oggi e testalo contro i chiusi: vince chi ha più controllo."
+      ]
+    },
+    "instagram": {
+      "caption": "Una startup cinese ha appena raccolto 2 miliardi di dollari: Moonshot AI vale ora 20 miliardi 💰. Hanno scelto di rendere il modello open source, contro la solita logica dei sistemi chiusi. Il risultato? Puoi scaricare e far girare la stessa IA senza pagare licenze né abbonamenti mensili 🔓. La potenza è identica ai modelli a pagamento, ma con controllo totale. Scarichi il modello oggi e lo testi contro quelli chiusi: chi vince? 🚀",
+      "carousel": [
+        {
+          "hook": "Codice aperto vale 20 miliardi",
+          "description": "Startup cinese raccoglie $2B: ha aperto il codice, non lo tiene chiuso. Tu puoi usare la stessa AI.",
+          "visual_hint": "Fumetti di dollari che cadono",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Vale $20 miliardi, ma regala tutto",
+          "description": "Moonshot AI vale $20B. Hanno scelto open source contro ogni logica commerciale: la potenza è tua.",
+          "visual_hint": "Grafico a barre che sale",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Zero licenze, stessa potenza",
+          "description": "Non è una versione ridotta: è la stessa AI dei modelli chiusi, ma senza abbonamento mensile.",
+          "visual_hint": "Lucchetto che si apre",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scarica e gira dove vuoi",
+          "description": "Il costo? Zero. Scarichi il modello e lo fai girare dove vuoi. Vince chi ha più controllo.",
+          "visual_hint": "Freccia che scarica",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Testalo ora contro i chiusi",
+          "description": "Scarica il modello oggi: stessa potenza, nessuna licenza. Prova chi vince.",
+          "visual_hint": "Dita che cliccano",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/13223714/pexels-photo-13223714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hanno raccolto due miliardi di dollari.",
+        "La startup cinese vale venti miliardi.",
+        "Il segreto? Hanno aperto tutto.",
+        "Tu usi la stessa AI gratis.",
+        "Scarica il modello e testalo."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

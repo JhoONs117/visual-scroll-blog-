@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "what-happens-when-ai-starts-building-itself-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "What happens when AI starts building itself?",
+  "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+  "pubDate": "Thu, 14 May 2026 19:57:20 +0000",
+  "slides": [
+    "What happens when AI builds its own successor?",
+    "One system already rewrote its own code overnight.",
+    "It iterated faster than any human team could.",
+    "Your next tool may be obsolete before launch.",
+    "Test your workflow against a self-improving agent now."
+  ],
+  "thread_text": [
+    "Uno sistema ha riscritto il suo codice da solo in una notte. Nessun ingegnere. Nessuna revisione. Solo l'obiettivo e la macchina.",
+    "Il team ha dato all'AI un compito: ottimizzare il proprio processo di generazione. L'ha risolto iterando su se stessa per otto ore.",
+    "Ogni ciclo produceva un codice più veloce del precedente. Il quinto ciclo era già irriconoscibile per chi lo aveva progettato.",
+    "La stessa logica applicata a un tool commerciale? Rende il prodotto obsoleto prima ancora che esca dalla beta.",
+    "Prendi un task di routine del tuo flusso, caricacelo su un agente auto-migliorante e cronometra. Potresti chiudere prima del meeting."
+  ],
+  "video_script": [
+    "Un AI ha riscritto il suo codice da sola.",
+    "Niente ingegneri, solo un obiettivo.",
+    "In otto ore ha superato ogni squadra umana.",
+    "Il risultato era irriconoscibile.",
+    "Il tuo prossimo tool potrebbe essere già morto."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Uno sistema ha riscritto il suo codice da solo in una notte. Nessun ingegnere. Nessuna revisione. Solo l'obiettivo e la macchina.",
+        "Il team ha dato all'AI un compito: ottimizzare il proprio processo di generazione. L'ha risolto iterando su se stessa per otto ore.",
+        "Ogni ciclo produceva un codice più veloce del precedente. Il quinto ciclo era già irriconoscibile per chi lo aveva progettato.",
+        "La stessa logica applicata a un tool commerciale? Rende il prodotto obsoleto prima ancora che esca dalla beta.",
+        "Prendi un task di routine del tuo flusso, caricacelo su un agente auto-migliorante e cronometra. Potresti chiudere prima del meeting."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Un AI ha riscritto il suo codice da sola.",
+        "Niente ingegneri, solo un obiettivo.",
+        "In otto ore ha superato ogni squadra umana.",
+        "Il risultato era irriconoscibile.",
+        "Il tuo prossimo tool potrebbe essere già morto."
+      ]
+    },
+    "instagram": {
+      "caption": "Un sistema ha riscritto il suo codice da solo in una notte, senza un ingegnere che guardasse. Il team gli ha chiesto di ottimizzarsi, e in otto ore ha prodotto cinque versioni, ognuna più veloce della precedente 🔧. Al quinto ciclo il codice era già irriconoscibile per chi l'aveva progettato ⚡. Lo stesso principio applicato a un tuo strumento quotidiano significa che potrebbe diventare obsoleto prima del lancio ufficiale. Hai mai cronometrato quanto impiega il tuo flusso rispetto a un agente che si migliora da solo?"
+    }
+  },
+  "instagram_caption": "Un sistema ha riscritto il suo codice da solo in una notte, senza un ingegnere che guardasse. Il team gli ha chiesto di ottimizzarsi, e in otto ore ha prodotto cinque versioni, ognuna più veloce della precedente 🔧. Al quinto ciclo il codice era già irriconoscibile per chi l'aveva progettato ⚡. Lo stesso principio applicato a un tuo strumento quotidiano significa che potrebbe diventare obsoleto prima del lancio ufficiale. Hai mai cronometrato quanto impiega il tuo flusso rispetto a un agente che si migliora da solo?",
+  "carousel_slides": [
+    {
+      "hook": "It iterated faster than humans.",
+      "description": "Un sistema ha riscritto il suo codice da solo in una notte. Nessun ingegnere, nessuna revisione.",
+      "visual_hint": "Codice che si riscrive da solo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room code"
+    },
+    {
+      "hook": "Obiettivo e macchina, basta.",
+      "description": "Il team ha dato all'AI il compito di ottimizzarsi. Ha iterato su se stessa per otto ore.",
+      "visual_hint": "Ciclo di iterazione notturno",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il quinto ciclo era irriconoscibile.",
+      "description": "Ogni ciclo produceva codice più veloce. Chi lo aveva progettato non lo riconosceva più.",
+      "visual_hint": "Codice mutante su schermo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il tuo prossimo tool è già obsoleto.",
+      "description": "Stessa logica su un tool commerciale? Lo rende obsoleto prima che esca dalla beta.",
+      "visual_hint": "Tool che si auto-sostituisce",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Testa il tuo flusso ora.",
+      "description": "Carica un task su un agente auto-migliorante e cronometra. Potresti chiudere prima del meeting.",
+      "visual_hint": "Cronometro su task automatizzato",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/31912311/pexels-photo-31912311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
+  "savedAt": "2026-05-15T08:55:00.917Z",
+  "sourceId": "baafa407a6f861d18c998d82e769ad24"
+}

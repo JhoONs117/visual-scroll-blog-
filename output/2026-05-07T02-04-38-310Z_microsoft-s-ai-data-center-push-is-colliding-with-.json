@@ -25,5 +25,41 @@
   ],
   "savedAt": "2026-05-07T02:04:38.310Z",
   "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
-  "instagram_caption": "Una delle aziende più ricche del pianeta ha promesso zero emissioni tra sei anni, ma i suoi nuovi data center per l'intelligenza artificiale stanno già triplicando il consumo di elettricità previsto ⚡. Microsoft investe miliardi in rinnovabili, ma né solare né eolico riescono a tenere il passo di questa fame. Ogni volta che un chatbot ti risponde, brucia corrente come un piccolo elettrodomestico acceso ore 💨. Hai mai pensato a cosa chiedi davvero all’AI? 😅"
+  "instagram_caption": "Una delle aziende più ricche del pianeta ha promesso zero emissioni tra sei anni, ma i suoi nuovi data center per l'intelligenza artificiale stanno già triplicando il consumo di elettricità previsto ⚡. Microsoft investe miliardi in rinnovabili, ma né solare né eolico riescono a tenere il passo di questa fame. Ogni volta che un chatbot ti risponde, brucia corrente come un piccolo elettrodomestico acceso ore 💨. Hai mai pensato a cosa chiedi davvero all’AI? 😅",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-s-ai-data-center-push-is-colliding-with-",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Ti stai chiedendo perché la bolletta elettrica globale impazzirà? Colpa di un assistente che usi ogni giorno, e non te ne accorgi.",
+        "Microsoft promette zero emissioni per il 2030, ma intanto i suoi data center bruciano energia come non mai.",
+        "L'intelligenza artificiale ha già triplicato le previsioni di domanda elettrica. Tre volte. In pochi anni.",
+        "Puntano tutto sulle rinnovabili, ma non basteranno. Né solare, né eolico possono star dietro a questa fame.",
+        "Ogni query che fai ha un costo energetico nascosto, e non è sostenibile. Smettila di chiedere cose inutili all'AI: non è magia, è un termovalorizzatore."
+      ]
+    },
+    "instagram": {
+      "caption": "Una delle aziende più ricche del pianeta ha promesso zero emissioni tra sei anni, ma i suoi nuovi data center per l'intelligenza artificiale stanno già triplicando il consumo di elettricità previsto ⚡. Microsoft investe miliardi in rinnovabili, ma né solare né eolico riescono a tenere il passo di questa fame. Ogni volta che un chatbot ti risponde, brucia corrente come un piccolo elettrodomestico acceso ore 💨. Hai mai pensato a cosa chiedi davvero all’AI? 😅",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Il tuo assistente preferito sta facendo esplodere il contatore elettrico globale.",
+        "Microsoft promette emissioni zero entro il 2030.",
+        "Ma i loro data center consumano energia senza freni.",
+        "L'AI ha già triplicato la domanda di elettricità prevista.",
+        "Le rinnovabili non bastano per questa fame assurda.",
+        "Ogni query che fai ha un costo nascosto enorme.",
+        "Quindi, la prossima volta, pensaci due volte prima di chiedere cose inutili."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

@@ -19,8 +19,7 @@
     "Non è un chatbot. È codice per agenti AI.",
     "Gli sviluppatori lo usano già in produzione.",
     "Niente cloud. Gira dove vuoi tu.",
-    "Il tuo stack diventa vecchio in fretta.",
-    "Prova a integrare un agente oggi."
+    "Il tuo stack diventa vecchio in fretta."
   ],
   "savedAt": "2026-05-06T06:24:55.443Z",
   "carousel_slides": [
@@ -68,5 +67,83 @@
       "image_query": "deploy button"
     }
   ],
-  "instagram_caption": "27 milioni di dollari per un tool che trasforma qualsiasi app in un’assistente AI. 💡 CopilotKit permette agli sviluppatori di integrare agenti intelligenti nel codice già esistente, senza riscrivere tutto da zero. 🛠️ Si aggiunge in giorni, non settimane: già oggi un’app di e-commerce o di project management può avere un bot che risponde, analizza e agisce dentro il suo stesso sistema. 👨‍💻 Significa meno lavoro per chi sviluppa e funzioni nuove per chi usa quelle app ogni giorno. Quanto cambierebbe il tuo tool preferito se avesse un’AI nativa? 🚀"
+  "instagram_caption": "27 milioni di dollari per un tool che trasforma qualsiasi app in un’assistente AI. 💡 CopilotKit permette agli sviluppatori di integrare agenti intelligenti nel codice già esistente, senza riscrivere tutto da zero. 🛠️ Si aggiunge in giorni, non settimane: già oggi un’app di e-commerce o di project management può avere un bot che risponde, analizza e agisce dentro il suo stesso sistema. 👨‍💻 Significa meno lavoro per chi sviluppa e funzioni nuove per chi usa quelle app ogni giorno. Quanto cambierebbe il tuo tool preferito se avesse un’AI nativa? 🚀",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "copilotkit-raises-27m-to-help-devs-deploy-app-nati",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Gli sviluppatori stanno già mettendo agenti AI in produzione senza cloud. Il codice gira dove serve. E funziona.",
+        "28 milioni di dollari per CopilotKit. Non per un chatbot. Per far scrivere codice agli agenti AI dentro la tua app.",
+        "Il tuo stack attuale diventa obsoleto nel momento in cui un agente può fare quello che oggi fai con 5 API e un backend.",
+        "Non devi migrare tutto. Basta integrare un agente in una feature sola. Il resto segue da solo.",
+        "Costa meno di un abbonamento Spotify. Prova a mettere un agente in produzione questa settimana."
+      ]
+    },
+    "instagram": {
+      "caption": "27 milioni di dollari per un tool che trasforma qualsiasi app in un’assistente AI. 💡 CopilotKit permette agli sviluppatori di integrare agenti intelligenti nel codice già esistente, senza riscrivere tutto da zero. 🛠️ Si aggiunge in giorni, non settimane: già oggi un’app di e-commerce o di project management può avere un bot che risponde, analizza e agisce dentro il suo stesso sistema. 👨‍💻 Significa meno lavoro per chi sviluppa e funzioni nuove per chi usa quelle app ogni giorno. Quanto cambierebbe il tuo tool preferito se avesse un’AI nativa? 🚀",
+      "carousel": [
+        {
+          "hook": "Agenti AI in produzione ora",
+          "description": "Sviluppatori già mettono agenti AI in produzione senza cloud. Il codice gira dove serve.",
+          "visual_hint": "server rack with glowing lights",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "28M per codice, non chat",
+          "description": "28 milioni di dollari per CopilotKit. Non un chatbot: agenti AI che scrivono codice dentro la tua app.",
+          "visual_hint": "code editor with AI cursor",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "code on screen",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS_code_on_a_screen_%28Unsplash%29.jpg/960px-CSS_code_on_a_screen_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Il tuo stack è già obsoleto",
+          "description": "Il tuo stack diventa obsoleto quando un agente fa il lavoro di 5 API e un backend da solo.",
+          "visual_hint": "falling dominoes of APIs",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "dominoes falling",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dominoes_falling.jpg/960px-Dominoes_falling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Non migrare tutto, integra",
+          "description": "Integra un agente in una feature sola. Il resto segue da solo. Non devi migrare tutto subito.",
+          "visual_hint": "one puzzle piece clicking in",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "puzzle piece",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall_-_1000_piece_jigsaw_puzzle.jpg/960px-Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall_-_1000_piece_jigsaw_puzzle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Prova in produzione ora",
+          "description": "Costa meno di un abbonamento Spotify. Metti un agente in produzione questa settimana.",
+          "visual_hint": "hand pressing deploy button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "deploy button"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "CopilotKit ha preso 28 milioni di dollari.",
+        "Non è un chatbot. È codice per agenti AI.",
+        "Gli sviluppatori lo usano già in produzione.",
+        "Niente cloud. Gira dove vuoi tu.",
+        "Il tuo stack diventa vecchio in fretta."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

@@ -71,5 +71,84 @@
     }
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-  "instagram_caption": "Invece di allertare automaticamente qualcuno, ChatGPT ora ti chiede il permesso prima di avvisare il tuo contatto fidato. OpenAI ha aggiunto un \"contatto fidato\" che viene avvisato solo se il sistema rileva possibili pensieri di autolesionismo nei tuoi messaggi. Il problema è che il contatto sa solo che \"serve aiuto\" — non legge mai cosa hai scritto. Tu mantieni il controllo: decidi se autorizzare l'invio o no. Attivalo subito nelle impostazioni privacy di ChatGPT, non costa nulla e può fare la differenza. Tutto questo senza che nessuno veda i tuoi messaggi privati, nemmeno il contatto fidato."
+  "instagram_caption": "Invece di allertare automaticamente qualcuno, ChatGPT ora ti chiede il permesso prima di avvisare il tuo contatto fidato. OpenAI ha aggiunto un \"contatto fidato\" che viene avvisato solo se il sistema rileva possibili pensieri di autolesionismo nei tuoi messaggi. Il problema è che il contatto sa solo che \"serve aiuto\" — non legge mai cosa hai scritto. Tu mantieni il controllo: decidi se autorizzare l'invio o no. Attivalo subito nelle impostazioni privacy di ChatGPT, non costa nulla e può fare la differenza. Tutto questo senza che nessuno veda i tuoi messaggi privati, nemmeno il contatto fidato.",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-introduces-new-trusted-contact-safeguard-fo",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "OpenAI non dice al tuo contatto fidato cosa hai scritto. Solo che serve aiuto. Questa è la parte più controversa.",
+        "La funzione si attiva quando il sistema rileva possibili pensieri di autolesionismo nei messaggi.",
+        "Prima di mandare l’avviso, però, chiede a te: vuoi autorizzarlo o no? La scelta resta tua.",
+        "Nessun contenuto viene condiviso. Il contatto riceve solo una notifica: c'è una situazione delicata.",
+        "Se vuoi, puoi attivarla subito dalle impostazioni privacy di ChatGPT. Non costa nulla e può fare la differenza."
+      ]
+    },
+    "instagram": {
+      "caption": "Invece di allertare automaticamente qualcuno, ChatGPT ora ti chiede il permesso prima di avvisare il tuo contatto fidato. OpenAI ha aggiunto un \"contatto fidato\" che viene avvisato solo se il sistema rileva possibili pensieri di autolesionismo nei tuoi messaggi. Il problema è che il contatto sa solo che \"serve aiuto\" — non legge mai cosa hai scritto. Tu mantieni il controllo: decidi se autorizzare l'invio o no. Attivalo subito nelle impostazioni privacy di ChatGPT, non costa nulla e può fare la differenza. Tutto questo senza che nessuno veda i tuoi messaggi privati, nemmeno il contatto fidato.",
+      "carousel": [
+        {
+          "hook": "Non dice cosa hai scritto.",
+          "description": "OpenAI non rivela il contenuto dei tuoi messaggi al contatto fidato.",
+          "visual_hint": "Chat screen with hidden text",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "chat bubble privacy"
+        },
+        {
+          "hook": "Si attiva su autolesionismo.",
+          "description": "La funzione scatta quando il sistema rileva possibili pensieri di autolesionismo.",
+          "visual_hint": "Warning alert on device",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone alert screen",
+          "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tu autorizzi l'avviso.",
+          "description": "Prima di inviare la notifica, ChatGPT ti chiede se vuoi procedere.",
+          "visual_hint": "Yes/No prompt overlay",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "yes no button",
+          "image": "https://images.pexels.com/photos/21562931/pexels-photo-21562931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Nessun contenuto condiviso.",
+          "description": "Il contatto riceve solo una notifica generica, non i tuoi messaggi privati.",
+          "visual_hint": "Notification with generic text",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "notification icon phone",
+          "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Attivala subito gratis.",
+          "description": "Vai nelle impostazioni privacy di ChatGPT e attiva il contatto fidato.",
+          "visual_hint": "Settings menu with toggle",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "privacy settings app",
+          "image": "https://images.pexels.com/photos/33632621/pexels-photo-33632621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI ha una nuova funzione privacy.",
+        "Allerta un contatto fidato se rileva autolesionismo.",
+        "Ma non dice cosa hai scritto.",
+        "Sei tu a decidere se inviare l'avviso.",
+        "Attivala subito dalle impostazioni."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

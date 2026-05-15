@@ -19,12 +19,7 @@
     "Dietro c'è sempre un nemico comune.",
     "xAI e Anthropic uniti contro OpenAI.",
     "Ma la vera ragione è un'altra.",
-    "Entrambi perdono i loro ricercatori migliori.",
-    "Il talento scappa, i soldi restano.",
-    "Per chi investe, è il rischio vero.",
-    "Non guardare le partnership, guarda le uscite.",
-    "Oggi conta chi ha perso più teste.",
-    "Quello è il termometro che non mente."
+    "Entrambi perdono i loro ricercatori migliori."
   ],
   "carousel_slides": [
     {
@@ -76,5 +71,84 @@
   "pubDate": "Sun, 10 May 2026 15:34:25 +0000",
   "savedAt": "2026-05-11T17:50:50.064Z",
   "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-  "instagram_caption": "xAI e Anthropic hanno appena stretto un accordo, ma dietro c'è un'emorragia di cervelli. Entrambi i colossi hanno perso ricercatori chiave verso OpenAI 🤝 e ora si alleano per tamponare la fuga, anche se erano rivali. Il patto sembra una mossa di forza, ma nasconde un punto debole: i talenti migliori scappano via 🧠. Quindi, anche se i prossimi modelli AI promettono colpi, il vero termometro è chi riuscirà a trattenere le menti. Per chi usa strumenti AI, questo può tradursi in ritardi e qualità altalenante. Conta oggi quanti ricercatori hanno perso rispetto a OpenAI 📉?"
+  "instagram_caption": "xAI e Anthropic hanno appena stretto un accordo, ma dietro c'è un'emorragia di cervelli. Entrambi i colossi hanno perso ricercatori chiave verso OpenAI 🤝 e ora si alleano per tamponare la fuga, anche se erano rivali. Il patto sembra una mossa di forza, ma nasconde un punto debole: i talenti migliori scappano via 🧠. Quindi, anche se i prossimi modelli AI promettono colpi, il vero termometro è chi riuscirà a trattenere le menti. Per chi usa strumenti AI, questo può tradursi in ritardi e qualità altalenante. Conta oggi quanti ricercatori hanno perso rispetto a OpenAI 📉?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "we-re-feeling-cynical-about-xai-s-big-deal-with-an",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "La vera ragione dietro l'accordo xAI-Anthropic? La fuga di talenti. Entrambi hanno perso ricercatori chiave e cercano di tamponare.",
+        "xAI e Anthropic si odiano. Ma quando il nemico comune è OpenAI, anche i rivali si siedono allo stesso tavolo.",
+        "Il patto sembra una mossa di forza, ma nasconde un'emorragia interna: i migliori cervelli se ne vanno altrove.",
+        "Per gli investitori, il rischio non è la competizione. È che le menti migliori scappino prima del lancio del prossimo modello.",
+        "Conta oggi i ricercatori persi da xAI e Anthropic. Poi confrontali con quelli di OpenAI. Il divario è il vero termometro."
+      ]
+    },
+    "instagram": {
+      "caption": "xAI e Anthropic hanno appena stretto un accordo, ma dietro c'è un'emorragia di cervelli. Entrambi i colossi hanno perso ricercatori chiave verso OpenAI 🤝 e ora si alleano per tamponare la fuga, anche se erano rivali. Il patto sembra una mossa di forza, ma nasconde un punto debole: i talenti migliori scappano via 🧠. Quindi, anche se i prossimi modelli AI promettono colpi, il vero termometro è chi riuscirà a trattenere le menti. Per chi usa strumenti AI, questo può tradursi in ritardi e qualità altalenante. Conta oggi quanti ricercatori hanno perso rispetto a OpenAI 📉?",
+      "carousel": [
+        {
+          "hook": "Talenti in fuga, accordo debole",
+          "description": "La vera ragione dell'accordo è la fuga di talenti: entrambi hanno perso ricercatori chiave e cercano di tamponare.",
+          "visual_hint": "persone che escono da porte",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "people leaving building"
+        },
+        {
+          "hook": "Nemici uniti contro OpenAI",
+          "description": "xAI e Anthropic si odiano, ma il nemico comune è OpenAI: i rivali si siedono allo stesso tavolo.",
+          "visual_hint": "stretta di mano tesa",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "handshake deal",
+          "image": "https://images.pexels.com/photos/8297656/pexels-photo-8297656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Emorragia di cervelli",
+          "description": "Il patto nasconde un'emorragia interna: i migliori cervelli se ne vanno altrove.",
+          "visual_hint": "teste che volano via",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "brain drain",
+          "image": "https://images.pexels.com/photos/9162028/pexels-photo-9162028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il vero rischio per gli investitori",
+          "description": "Per chi investe, il rischio non è la competizione, ma che le menti migliori scappino prima del lancio del prossimo modello.",
+          "visual_hint": "grafico con freccia giù",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Chi ha perso più ricercatori?",
+          "description": "Conta i ricercatori persi da xAI e Anthropic, confrontali con OpenAI: il divario è il vero termometro.",
+          "visual_hint": "bilancia con teste",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "scale comparison",
+          "image": "https://images.pexels.com/photos/8431782/pexels-photo-8431782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hai presente quando i rivali fanno pace?",
+        "Dietro c'è sempre un nemico comune.",
+        "xAI e Anthropic uniti contro OpenAI.",
+        "Ma la vera ragione è un'altra.",
+        "Entrambi perdono i loro ricercatori migliori."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

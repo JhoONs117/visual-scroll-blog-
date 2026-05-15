@@ -1,0 +1,154 @@
+{
+  "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+ ",
+  "slides": [
+    "Amazon sfida Google sul tuo prossimo acquisto?",
+    "Rufus, l'assistente AI, entra nella barra di ricerca.",
+    "Ma risponde solo se ha le risposte già pronte.",
+    "Trovi prodotti senza cercare manualmente.",
+    "Prova a chiedere: regali sotto i 50€ ora."
+  ],
+  "thread_text": [
+    "E se Amazon ti facesse trovare il prodotto perfetto senza che tu debba cercarlo? Rufus fa proprio questo, ma solo se ha già la risposta pronta.",
+    "Sta comparendo nella barra di ricerca di Amazon. Non è un motore di ricerca nuovo, è un assistente AI che ti guida allo shopping.",
+    "Funziona così: digiti 'regali sotto i 50€' e lui ti mostra opzioni, senza che tu scrolli pagine su pagine. Ma non inventa nulla: pesca da catalogo e recensioni.",
+    "Il trucco? Risponde solo se ha già le risposte pronte. Niente chat aperta, niente nulla. È un filtro intelligente, non un oracolo.",
+    "Domanda vera: per un acquisto semplice, preferisci scrivere a un AI o cliccare da solo? Prova Rufus oggi e vedi se ti fa risparmiare tempo."
+  ],
+  "video_script": [
+    "Amazon sfida Google sul tuo acquisto.",
+    "Rufus entra nella barra di ricerca.",
+    "Ma risponde solo se ha già le risposte.",
+    "Trovi prodotti senza cercare manualmente.",
+    "Prova a chiedere: regali sotto 50€ ora."
+  ],
+  "instagram_caption": "Amazon ha piazzato un assistente AI, chiamato Rufus, direttamente nella barra di ricerca del suo sito. 🛒 Non è un nuovo motore di ricerca, ma un filtro intelligente che estrae risposte dal catalogo e dalle recensioni già esistenti. Se digiti \"regali sotto i 50€\", ti mostra subito le opzioni, senza farti scorrere centinaia di pagine. Il limite? Risponde solo se ha già la risposta pronta, niente conversazioni aperte. 🔍 In pratica, per un acquisto veloce, può farti risparmiare tempo rispetto a cliccare da solo. Preferisci delegare la ricerca a un AI o tenere il controllo manuale? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "E se Amazon sapesse già cosa vuoi?",
+      "description": "Rufus non inventa nulla, risponde solo se ha risposte pronte. È un filtro, non un oracolo.",
+      "visual_hint": "cursore che clicca su barra ricerca",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "cursor clicking search bar"
+    },
+    {
+      "hook": "Il nuovo vicino di barra si chiama Rufus",
+      "description": "Non è un motore di ricerca, è un assistente AI che ti guida allo shopping senza scrollare.",
+      "visual_hint": "barra di ricerca con icona AI",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "amazon search bar with AI icon",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Digiti 'regali sotto 50€' e lui mostra opzioni",
+      "description": "Pesca da catalogo e recensioni, niente pagine su pagine. Solo risposte pronte, niente chat.",
+      "visual_hint": "cestino regalo con etichetta prezzo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "gift basket with price tag",
+      "image": "https://images.pexels.com/photos/26892278/pexels-photo-26892278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trovi prodotti senza cercare manualmente",
+      "description": "Scrivi a un AI o clicchi da solo? Prova Rufus oggi e vedi se ti fa risparmiare tempo.",
+      "visual_hint": "mano che tocca schermo con prodotto",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching smartphone screen product",
+      "image": "https://images.pexels.com/photos/34258665/pexels-photo-34258665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Amazon sfida Google sul tuo prossimo acquisto",
+      "description": "Rufus entra nella barra di ricerca. Prova a chiedere: regali sotto i 50€ ora.",
+      "visual_hint": "logo Amazon vs Google",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "amazon logo vs google logo",
+      "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Alexa-for-Shopping-Chat-Window.jpg?w=1200",
+  "pubDate": "Wed, 13 May 2026 14:59:32 +0000",
+  "savedAt": "2026-05-14T13:56:16.140Z",
+  "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amazon-launches-an-ai-shopping-assistant-for-the-s",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "E se Amazon ti facesse trovare il prodotto perfetto senza che tu debba cercarlo? Rufus fa proprio questo, ma solo se ha già la risposta pronta.",
+        "Sta comparendo nella barra di ricerca di Amazon. Non è un motore di ricerca nuovo, è un assistente AI che ti guida allo shopping.",
+        "Funziona così: digiti 'regali sotto i 50€' e lui ti mostra opzioni, senza che tu scrolli pagine su pagine. Ma non inventa nulla: pesca da catalogo e recensioni.",
+        "Il trucco? Risponde solo se ha già le risposte pronte. Niente chat aperta, niente nulla. È un filtro intelligente, non un oracolo.",
+        "Domanda vera: per un acquisto semplice, preferisci scrivere a un AI o cliccare da solo? Prova Rufus oggi e vedi se ti fa risparmiare tempo."
+      ]
+    },
+    "instagram": {
+      "caption": "Amazon ha piazzato un assistente AI, chiamato Rufus, direttamente nella barra di ricerca del suo sito. 🛒 Non è un nuovo motore di ricerca, ma un filtro intelligente che estrae risposte dal catalogo e dalle recensioni già esistenti. Se digiti \"regali sotto i 50€\", ti mostra subito le opzioni, senza farti scorrere centinaia di pagine. Il limite? Risponde solo se ha già la risposta pronta, niente conversazioni aperte. 🔍 In pratica, per un acquisto veloce, può farti risparmiare tempo rispetto a cliccare da solo. Preferisci delegare la ricerca a un AI o tenere il controllo manuale? 🤔",
+      "carousel": [
+        {
+          "hook": "E se Amazon sapesse già cosa vuoi?",
+          "description": "Rufus non inventa nulla, risponde solo se ha risposte pronte. È un filtro, non un oracolo.",
+          "visual_hint": "cursore che clicca su barra ricerca",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "cursor clicking search bar"
+        },
+        {
+          "hook": "Il nuovo vicino di barra si chiama Rufus",
+          "description": "Non è un motore di ricerca, è un assistente AI che ti guida allo shopping senza scrollare.",
+          "visual_hint": "barra di ricerca con icona AI",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "amazon search bar with AI icon",
+          "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Digiti 'regali sotto 50€' e lui mostra opzioni",
+          "description": "Pesca da catalogo e recensioni, niente pagine su pagine. Solo risposte pronte, niente chat.",
+          "visual_hint": "cestino regalo con etichetta prezzo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "gift basket with price tag",
+          "image": "https://images.pexels.com/photos/26892278/pexels-photo-26892278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trovi prodotti senza cercare manualmente",
+          "description": "Scrivi a un AI o clicchi da solo? Prova Rufus oggi e vedi se ti fa risparmiare tempo.",
+          "visual_hint": "mano che tocca schermo con prodotto",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand touching smartphone screen product",
+          "image": "https://images.pexels.com/photos/34258665/pexels-photo-34258665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Amazon sfida Google sul tuo prossimo acquisto",
+          "description": "Rufus entra nella barra di ricerca. Prova a chiedere: regali sotto i 50€ ora.",
+          "visual_hint": "logo Amazon vs Google",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "amazon logo vs google logo",
+          "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Amazon sfida Google sul tuo acquisto.",
+        "Rufus entra nella barra di ricerca.",
+        "Ma risponde solo se ha già le risposte.",
+        "Trovi prodotti senza cercare manualmente.",
+        "Prova a chiedere: regali sotto 50€ ora."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
+}

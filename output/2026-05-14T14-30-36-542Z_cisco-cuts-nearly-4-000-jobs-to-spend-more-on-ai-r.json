@@ -1,0 +1,154 @@
+{
+  "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+  "slides": [
+    "Cisco taglia 4000 posti per puntare tutto sull’AI?",
+    "Il fatturato trimestrale è il più alto mai registrato.",
+    "L’AI assorbirà buona parte dei risparmi umani.",
+    "Le squadre IT dovranno riqualificarsi o cambiare ruolo.",
+    "Controlla se la tua azienda ha già un piano di transizione."
+  ],
+  "thread_text": [
+    "L'AI assorbirà buona parte dei risparmi umani nei prossimi tagli aziendali.",
+    "Cisco ha appena tagliato 4000 posti per puntare tutto sull'AI.",
+    "Il fatturato trimestrale è il più alto mai registrato, ma i ruoli umani non sono al sicuro.",
+    "Le squadre IT dovranno riqualificarsi o cambiare ruolo per sopravvivere.",
+    "Controlla se la tua azienda ha già un piano di transizione. Se no, chiedilo entro questa settimana."
+  ],
+  "video_script": [
+    "L'AI prenderà il tuo stipendio, non solo il tuo lavoro.",
+    "Cisco ha tagliato 4000 persone per investire nell'AI.",
+    "Il fatturato è record, ma i ruoli umani spariranno.",
+    "Dovrai imparare nuove competenze o cambiare mestiere.",
+    "Controlla ora se la tua azienda ha un piano."
+  ],
+  "instagram_caption": "Cisco ha appena tagliato quasi 4.000 posti di lavoro, nonostante abbia appena registrato il fatturato trimestrale più alto di sempre. 💰 Le risorse umane liberate verranno dirottate sull'intelligenza artificiale. Questo significa che anche un'azienda che guadagna un sacco non tiene i ruoli umani al sicuro se non servono alla nuova strategia. 🧑‍💻 Le squadre IT dovranno riqualificarsi o cambiare mansione per restare utili. Tu hai già verificato se la tua azienda ha un piano di transizione? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Risparmi umani all'AI",
+      "description": "L'AI assorbirà buona parte dei risparmi umani nei prossimi tagli aziendali.",
+      "visual_hint": "Ai schede sostituiscono persone",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room cables"
+    },
+    {
+      "hook": "4000 posti tagliati",
+      "description": "Cisco ha appena tagliato 4000 posti per puntare tutto sull'AI.",
+      "visual_hint": "Grafico calo occupazione",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "circuit board closeup",
+      "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Record di fatturato",
+      "description": "Il fatturato trimestrale è il più alto mai registrato, ma i ruoli umani non sono al sicuro.",
+      "visual_hint": "Fiamma con grafico azionario",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Riqualifica o cambia",
+      "description": "Le squadre IT dovranno riqualificarsi o cambiare ruolo per sopravvivere.",
+      "visual_hint": "Due sentieri divergenti",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers meeting",
+      "image": "https://images.pexels.com/photos/7971194/pexels-photo-7971194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hai un piano?",
+      "description": "Controlla se la tua azienda ha già un piano di transizione. Se no, chiedilo entro questa settimana.",
+      "visual_hint": "Checklist su tablet aziendale",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop with checklist",
+      "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/chuck-robbins-2270936687.jpg?resize=1200,865",
+  "pubDate": "Thu, 14 May 2026 14:01:14 +0000",
+  "savedAt": "2026-05-14T14:31:39.298Z",
+  "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cisco-cuts-nearly-4-000-jobs-to-spend-more-on-ai-r",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "L'AI assorbirà buona parte dei risparmi umani nei prossimi tagli aziendali.",
+        "Cisco ha appena tagliato 4000 posti per puntare tutto sull'AI.",
+        "Il fatturato trimestrale è il più alto mai registrato, ma i ruoli umani non sono al sicuro.",
+        "Le squadre IT dovranno riqualificarsi o cambiare ruolo per sopravvivere.",
+        "Controlla se la tua azienda ha già un piano di transizione. Se no, chiedilo entro questa settimana."
+      ]
+    },
+    "instagram": {
+      "caption": "Cisco ha appena tagliato quasi 4.000 posti di lavoro, nonostante abbia appena registrato il fatturato trimestrale più alto di sempre. 💰 Le risorse umane liberate verranno dirottate sull'intelligenza artificiale. Questo significa che anche un'azienda che guadagna un sacco non tiene i ruoli umani al sicuro se non servono alla nuova strategia. 🧑‍💻 Le squadre IT dovranno riqualificarsi o cambiare mansione per restare utili. Tu hai già verificato se la tua azienda ha un piano di transizione? 🔍",
+      "carousel": [
+        {
+          "hook": "Risparmi umani all'AI",
+          "description": "L'AI assorbirà buona parte dei risparmi umani nei prossimi tagli aziendali.",
+          "visual_hint": "Ai schede sostituiscono persone",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room cables"
+        },
+        {
+          "hook": "4000 posti tagliati",
+          "description": "Cisco ha appena tagliato 4000 posti per puntare tutto sull'AI.",
+          "visual_hint": "Grafico calo occupazione",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "circuit board closeup",
+          "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Record di fatturato",
+          "description": "Il fatturato trimestrale è il più alto mai registrato, ma i ruoli umani non sono al sicuro.",
+          "visual_hint": "Fiamma con grafico azionario",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Riqualifica o cambia",
+          "description": "Le squadre IT dovranno riqualificarsi o cambiare ruolo per sopravvivere.",
+          "visual_hint": "Due sentieri divergenti",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers meeting",
+          "image": "https://images.pexels.com/photos/7971194/pexels-photo-7971194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hai un piano?",
+          "description": "Controlla se la tua azienda ha già un piano di transizione. Se no, chiedilo entro questa settimana.",
+          "visual_hint": "Checklist su tablet aziendale",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop with checklist",
+          "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "L'AI prenderà il tuo stipendio, non solo il tuo lavoro.",
+        "Cisco ha tagliato 4000 persone per investire nell'AI.",
+        "Il fatturato è record, ma i ruoli umani spariranno.",
+        "Dovrai imparare nuove competenze o cambiare mestiere.",
+        "Controlla ora se la tua azienda ha un piano."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
+}

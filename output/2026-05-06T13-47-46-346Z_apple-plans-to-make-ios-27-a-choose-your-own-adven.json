@@ -64,5 +64,80 @@
       "image_query": "calendar countdown deadline"
     }
   ],
-  "instagram_caption": "Il tuo iPhone potrebbe cambiare \"cervello\" AI ogni giorno, scegliendo da solo il modello più adatto a quello che stai facendo. 🧠 Apple non sta costruendo un unico motore centrale, ma un sistema che alterna diverse intelligenze artificiali in tempo reale. 📸 Finora, per avere nuove funzioni dovevi aspettare aggiornamenti software lenti; ora il telefono si adatta da solo, task per task: foto, messaggi, mappe, email. 🗺️ In pratica: apri Note, dettali un compito, confronta le risposte con Safari, e inizi a vedere il meccanismo. Prova a chiedergli la stessa cosa due volte: che differenza trovi?"
+  "instagram_caption": "Il tuo iPhone potrebbe cambiare \"cervello\" AI ogni giorno, scegliendo da solo il modello più adatto a quello che stai facendo. 🧠 Apple non sta costruendo un unico motore centrale, ma un sistema che alterna diverse intelligenze artificiali in tempo reale. 📸 Finora, per avere nuove funzioni dovevi aspettare aggiornamenti software lenti; ora il telefono si adatta da solo, task per task: foto, messaggi, mappe, email. 🗺️ In pratica: apri Note, dettali un compito, confronta le risposte con Safari, e inizi a vedere il meccanismo. Prova a chiedergli la stessa cosa due volte: che differenza trovi?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-plans-to-make-ios-27-a-choose-your-own-adven",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Il giorno in cui Apple ti chiederà di scegliere il modello AI preferito, Gemini e ChatGPT non saranno tra le opzioni. Lo dice la nuova beta di iOS 27.",
+        "Apple vuole che Siri non sia più sola, ma i colossi esterni restano fuori. Il sistema operativo supporterà solo provider selezionati",
+        "Per gli sviluppatori questa è una svolta obbligata. Le loro app dovranno interfacciarsi con il nuovo layer AI system, non col singolo provider",
+        "La scelta del modello non sarà libera: una volta deciso, i dati restano vincolati a quel provider. Cambiare significa perdere la cronologia",
+        "Se sviluppi un'app con funzioni AI, devi già testare la compatibilità col nuovo sistema. iOS 27 arriva tra sei mesi."
+      ]
+    },
+    "instagram": {
+      "caption": "Il tuo iPhone potrebbe cambiare \"cervello\" AI ogni giorno, scegliendo da solo il modello più adatto a quello che stai facendo. 🧠 Apple non sta costruendo un unico motore centrale, ma un sistema che alterna diverse intelligenze artificiali in tempo reale. 📸 Finora, per avere nuove funzioni dovevi aspettare aggiornamenti software lenti; ora il telefono si adatta da solo, task per task: foto, messaggi, mappe, email. 🗺️ In pratica: apri Note, dettali un compito, confronta le risposte con Safari, e inizi a vedere il meccanismo. Prova a chiedergli la stessa cosa due volte: che differenza trovi?",
+      "carousel": [
+        {
+          "hook": "Gemini e ChatGPT fuori da iOS 27",
+          "description": "Apple non includerà i modelli AI esterni tra le opzioni di scelta nella nuova beta.",
+          "visual_hint": "porte chiuse con cartello divieto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "no entry sign door"
+        },
+        {
+          "hook": "Siri non sarà più sola",
+          "description": "Il sistema supporterà provider selezionati da Apple, ma i giganti esterni restano esclusi dall'ecosistema.",
+          "visual_hint": "pannello di controllo con icone",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "control panel lock screen"
+        },
+        {
+          "hook": "Sviluppatori: dovrai interfacciarti col layer AI",
+          "description": "Le app dovranno adattarsi al nuovo sistema AI di Apple, non ai singoli provider. Svolta obbligata.",
+          "visual_hint": "sviluppatore al computer",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "developer typing code"
+        },
+        {
+          "hook": "Scelta vincolata: dati persi se cambi modello",
+          "description": "Una volta scelto il provider, la cronologia resta bloccata. Cambiare significa perdere tutto.",
+          "visual_hint": "ingranaggio con catena e lucchetto",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "lock chain gear"
+        },
+        {
+          "hook": "Testa la compatibilità ora: iOS 27 tra 6 mesi",
+          "description": "Chi sviluppa app AI deve già verificare la compatibilità col nuovo sistema. Tempo contato.",
+          "visual_hint": "calendario con conto alla rovescia",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "calendar countdown deadline"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple ti fa scegliere il tuo modello AI",
+        "Ma Gemini e ChatGPT non ci saranno",
+        "Solo qualche provider selezionato da Apple",
+        "Gli sviluppatori dovranno riscrivere le app",
+        "Scegli adesso o perdi i tuoi dati"
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

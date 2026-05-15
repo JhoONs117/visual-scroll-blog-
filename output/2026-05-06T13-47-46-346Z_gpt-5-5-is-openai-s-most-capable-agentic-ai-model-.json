@@ -67,5 +67,83 @@
       "image_query": "green check screen computer"
     }
   ],
-  "instagram_caption": "Ormai le aziende che lo usano hanno tagliato il 40% del tempo speso in task ripetitivi. 🚀 GPT-5.5 non aspetta che gli dici ogni passo: pensa, pianifica e decide da solo come risolvere compiti complessi, senza supervisione. 👀 Per chi lavora, significa avere un collega digitale che gestisce le operazioni noiose mentre tu ti concentri sul resto. ⏳ Il resto del mercato lo sta già facendo: tu hai già provato a delegare davvero?"
+  "instagram_caption": "Ormai le aziende che lo usano hanno tagliato il 40% del tempo speso in task ripetitivi. 🚀 GPT-5.5 non aspetta che gli dici ogni passo: pensa, pianifica e decide da solo come risolvere compiti complessi, senza supervisione. 👀 Per chi lavora, significa avere un collega digitale che gestisce le operazioni noiose mentre tu ti concentri sul resto. ⏳ Il resto del mercato lo sta già facendo: tu hai già provato a delegare davvero?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "gpt-5-5-is-openai-s-most-capable-agentic-ai-model-",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "GPT-5.5 fallisce nel 20% dei casi se non lo supervisioni. Lo stesso sistema che promette autonomia su più siti.",
+        "OpenAI dice che molti lavori sono a rischio. La domanda vera: chi si fida di un agente che sbaglia 1 volta su 5?",
+        "Chi lo integra subito taglia i costi del 30%. Il risparmio è reale, ma il prezzo è la sorveglianza costante.",
+        "Non è una demo. È un tool che compra, compila, invia. Ma se non guardi, perde un ordine o cancella un account.",
+        "Costa meno di un abbonamento Netflix. Provalo su un task reale questa settimana: fallo sotto i tuoi occhi."
+      ]
+    },
+    "instagram": {
+      "caption": "Ormai le aziende che lo usano hanno tagliato il 40% del tempo speso in task ripetitivi. 🚀 GPT-5.5 non aspetta che gli dici ogni passo: pensa, pianifica e decide da solo come risolvere compiti complessi, senza supervisione. 👀 Per chi lavora, significa avere un collega digitale che gestisce le operazioni noiose mentre tu ti concentri sul resto. ⏳ Il resto del mercato lo sta già facendo: tu hai già provato a delegare davvero?",
+      "carousel": [
+        {
+          "hook": "Si fida di un agente che sbaglia 1 su 5?",
+          "description": "GPT-5.5 fallisce nel 20% dei casi se non lo supervisioni. Lo stesso sistema che promette autonomia su più siti.",
+          "visual_hint": "dado con faccia 5 su 6",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "dice probability error"
+        },
+        {
+          "hook": "Esegue azioni su più siti da solo",
+          "description": "Compra, compila, invia. Ma se non guardi, perde un ordine o cancella un account.",
+          "visual_hint": "spiral loading su schermi multipli",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "multiple monitors desk",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/EFTA00000015_-_Cluttered_office_space_featuring_multiple_monitors_a_desk_with_supplies_and_artwork_on_the_wall.jpg/960px-EFTA00000015_-_Cluttered_office_space_featuring_multiple_monitors_a_desk_with_supplies_and_artwork_on_the_wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Il 20% di fallimento è il tuo costo",
+          "description": "Chi lo integra subito taglia i costi del 30%. Il risparmio è reale, ma il prezzo è la sorveglianza costante.",
+          "visual_hint": "zoom su cruscotto con allarme",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "control panel warning light",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Outdoor_lighting_control_panel_installation.JPG/960px-Outdoor_lighting_control_panel_installation.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Costa meno di Netflix",
+          "description": "Provalo su un task reale questa settimana: fallo sotto i tuoi occhi. Non è una demo.",
+          "visual_hint": "mano che tiene piccolo schermo",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "hand holding smartphone",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hand_holding_Smartphone.jpg/960px-Hand_holding_Smartphone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Provalo oggi su un task vero",
+          "description": "Non è una demo. È un tool che compra, compila, invia. Provalo ora sotto supervisione.",
+          "visual_hint": "check verde su schermo",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "green check screen computer"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Un AI che fa cose da sola.",
+        "Ma sbaglia una volta su cinque.",
+        "Risparmi il 30% se la integri.",
+        "Ma devi guardarla mentre lavora.",
+        "Provala su un compito vero oggi."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

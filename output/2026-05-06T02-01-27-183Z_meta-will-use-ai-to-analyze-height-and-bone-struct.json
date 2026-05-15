@@ -22,5 +22,39 @@
     "Lo stanno testando sui teen ora."
   ],
   "savedAt": "2026-05-06T02:01:27.183Z",
-  "instagram_caption": "Meta sta testando un sistema che analizza altezza e struttura ossea dai video per beccare i minorenni che mentono sull'età. Non serve controllare foto o documenti: l'AI stima l'età reale con una precisione che supera qualsiasi bugia dichiarata da un ragazzino in fase di registrazione 👀. L'obiettivo è impedire ai minori di aggirare i blocchi di sicurezza sugli account, dando ai genitori un controllo parentale senza doversi fidare della parola — o chiedere documenti 🛡️. Con questo sistema, chi lavora con account di minori (es. creator o gestori di community) sa che la verifica anagrafica diventa automatica e oggettiva, basata sui dati biometrici del video 📐. Tu ti fideresti di un algoritmo che “vede” l’età dalle ossa di tuo figlio?"
+  "instagram_caption": "Meta sta testando un sistema che analizza altezza e struttura ossea dai video per beccare i minorenni che mentono sull'età. Non serve controllare foto o documenti: l'AI stima l'età reale con una precisione che supera qualsiasi bugia dichiarata da un ragazzino in fase di registrazione 👀. L'obiettivo è impedire ai minori di aggirare i blocchi di sicurezza sugli account, dando ai genitori un controllo parentale senza doversi fidare della parola — o chiedere documenti 🛡️. Con questo sistema, chi lavora con account di minori (es. creator o gestori di community) sa che la verifica anagrafica diventa automatica e oggettiva, basata sui dati biometrici del video 📐. Tu ti fideresti di un algoritmo che “vede” l’età dalle ossa di tuo figlio?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-will-use-ai-to-analyze-height-and-bone-struct",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Meta sta per leggerti le ossa. Non per scherzo: la loro nuova AI analizza altezza e struttura ossea per capire quanti anni hai davvero.",
+        "I ragazzi mentono sull'età? L'AI li becca comunque. Funziona in tempo reale, senza bisogno di documenti o selfie.",
+        "Non serve più chiedere 'quanti anni hai?'. L'algoritmo guarda il corpo e decide. Precisione dichiarata: altissima.",
+        "L'obiettivo dichiarato è la sicurezza: impedire che minorenni finiscano in contenuti per adulti o chat inappropriate.",
+        "Meta lo sta già testando sugli account teen. Se funziona, cambierà il modo in cui le piattaforme gestiscono l'età. Per sempre."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta sta testando un sistema che analizza altezza e struttura ossea dai video per beccare i minorenni che mentono sull'età. Non serve controllare foto o documenti: l'AI stima l'età reale con una precisione che supera qualsiasi bugia dichiarata da un ragazzino in fase di registrazione 👀. L'obiettivo è impedire ai minori di aggirare i blocchi di sicurezza sugli account, dando ai genitori un controllo parentale senza doversi fidare della parola — o chiedere documenti 🛡️. Con questo sistema, chi lavora con account di minori (es. creator o gestori di community) sa che la verifica anagrafica diventa automatica e oggettiva, basata sui dati biometrici del video 📐. Tu ti fideresti di un algoritmo che “vede” l’età dalle ossa di tuo figlio?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Meta usa l'AI per vedere le tue ossa.",
+        "Analizza altezza e struttura scheletrica.",
+        "Così becca i ragazzi che mentono sull'età.",
+        "Niente documenti, niente selfie.",
+        "Lo stanno testando sui teen ora."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

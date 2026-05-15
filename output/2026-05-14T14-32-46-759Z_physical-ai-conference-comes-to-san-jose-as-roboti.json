@@ -1,0 +1,154 @@
+{
+  "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream ",
+  "slides": [
+    "Robot camminano tra noi: sei pronto a fidartene?",
+    "La conference Physical AI riunisce robotica e software a San Jose.",
+    "Quest'anno i robot autonomi non sono più prototipi, ma prodotti.",
+    "Chi non osserva ora rischia di essere sostituito entro 5 anni.",
+    "Scegli un settore: verifica se esiste già un pilota automatico."
+  ],
+  "thread_text": [
+    "Chi non osserva ora rischia di essere sostituito entro 5 anni. Questa è la posta in gioco della Physical AI, e non è una previsione vaga.",
+    "La settimana scorsa a San Jose, robot autonomi hanno camminato nei corridoi di una conferenza. Non erano prototipi, ma prodotti finiti, in vendita.",
+    "Il salto è questo: il software che li guida non è più sperimentale. Funziona in fabbriche, magazzini, ospedali. Senza supervisione umana.",
+    "Scegli un settore adesso, e verifica se esiste già un pilota automatico attivo. Se la risposta è no, lo faranno i tuoi concorrenti entro 12 mesi.",
+    "Costa meno di un abbonamento Netflix per metro quadro di magazzino. Puoi testarlo la prossima settimana. Sei pronto a fidartene?"
+  ],
+  "video_script": [
+    "A San Jose girava un robot tra la gente.",
+    "Non era un prototipo, ma un prodotto.",
+    "Chi non guarda ora, tra 5 anni è fuori.",
+    "Scegli un settore: esiste già il pilota automatico?",
+    "Costa meno di un abbonamento. Provalo domani."
+  ],
+  "instagram_caption": "La settimana scorsa a San Jose dei robot autonomi camminavano nei corridoi di una conferenza tra i visitatori, venduti come prodotti finiti, non prototipi. Il software che li guida funziona già senza supervisione umana in fabbriche, magazzini e ospedali ⚙️. Per chi lavora in logistica o produzione: costa meno di un abbonamento Netflix al metro quadro e si testa in sette giorni 📦. Scegli il tuo settore: esiste già un pilota automatico attivo? Se no, i tuoi concorrenti lo avranno entro 12 mesi 🤖.",
+  "carousel_slides": [
+    {
+      "hook": "Fidarsi di un robot?",
+      "description": "I robot autonomi non sono più prototipi, ma prodotti finiti in vendita. Il salto è reale.",
+      "visual_hint": "Robot che cammina tra persone",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "autonomous robot walking"
+    },
+    {
+      "hook": "San Jose ospita la svolta",
+      "description": "Software che guida robot non è più sperimentale. Funziona in fabbriche, magazzini, ospedali senza supervisione umana.",
+      "visual_hint": "Corridoio conferenza con robot",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "conference hall robot",
+      "image": "https://images.pexels.com/photos/35280153/pexels-photo-35280153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Da prototipo a prodotto",
+      "description": "Costa meno di un abbonamento Netflix per metro quadro di magazzino. Puoi testarlo la prossima settimana.",
+      "visual_hint": "Robot in magazzino con merce",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "warehouse robot shelves",
+      "image": "https://images.pexels.com/photos/30341205/pexels-photo-30341205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scegli subito il tuo settore",
+      "description": "Verifica se esiste già un pilota automatico. Se no, lo faranno i tuoi concorrenti entro 12 mesi.",
+      "visual_hint": "Mano che sceglie su schermo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching screen",
+      "image": "https://images.pexels.com/photos/8490101/pexels-photo-8490101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sostituito entro 5 anni?",
+      "description": "Chi non osserva ora rischia di essere sostituito. La posta in gioco della Physical AI non è una previsione vaga.",
+      "visual_hint": "Orologio con ingranaggi robotici",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clock gears robot",
+      "image": "https://images.pexels.com/photos/36495824/pexels-photo-36495824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Physical-AI-Expo-Banner.png",
+  "pubDate": "Wed, 13 May 2026 13:43:38 +0000",
+  "savedAt": "2026-05-14T14:33:11.882Z",
+  "link": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "physical-ai-conference-comes-to-san-jose-as-roboti",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Chi non osserva ora rischia di essere sostituito entro 5 anni. Questa è la posta in gioco della Physical AI, e non è una previsione vaga.",
+        "La settimana scorsa a San Jose, robot autonomi hanno camminato nei corridoi di una conferenza. Non erano prototipi, ma prodotti finiti, in vendita.",
+        "Il salto è questo: il software che li guida non è più sperimentale. Funziona in fabbriche, magazzini, ospedali. Senza supervisione umana.",
+        "Scegli un settore adesso, e verifica se esiste già un pilota automatico attivo. Se la risposta è no, lo faranno i tuoi concorrenti entro 12 mesi.",
+        "Costa meno di un abbonamento Netflix per metro quadro di magazzino. Puoi testarlo la prossima settimana. Sei pronto a fidartene?"
+      ]
+    },
+    "instagram": {
+      "caption": "La settimana scorsa a San Jose dei robot autonomi camminavano nei corridoi di una conferenza tra i visitatori, venduti come prodotti finiti, non prototipi. Il software che li guida funziona già senza supervisione umana in fabbriche, magazzini e ospedali ⚙️. Per chi lavora in logistica o produzione: costa meno di un abbonamento Netflix al metro quadro e si testa in sette giorni 📦. Scegli il tuo settore: esiste già un pilota automatico attivo? Se no, i tuoi concorrenti lo avranno entro 12 mesi 🤖.",
+      "carousel": [
+        {
+          "hook": "Fidarsi di un robot?",
+          "description": "I robot autonomi non sono più prototipi, ma prodotti finiti in vendita. Il salto è reale.",
+          "visual_hint": "Robot che cammina tra persone",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "autonomous robot walking"
+        },
+        {
+          "hook": "San Jose ospita la svolta",
+          "description": "Software che guida robot non è più sperimentale. Funziona in fabbriche, magazzini, ospedali senza supervisione umana.",
+          "visual_hint": "Corridoio conferenza con robot",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "conference hall robot",
+          "image": "https://images.pexels.com/photos/35280153/pexels-photo-35280153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Da prototipo a prodotto",
+          "description": "Costa meno di un abbonamento Netflix per metro quadro di magazzino. Puoi testarlo la prossima settimana.",
+          "visual_hint": "Robot in magazzino con merce",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "warehouse robot shelves",
+          "image": "https://images.pexels.com/photos/30341205/pexels-photo-30341205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scegli subito il tuo settore",
+          "description": "Verifica se esiste già un pilota automatico. Se no, lo faranno i tuoi concorrenti entro 12 mesi.",
+          "visual_hint": "Mano che sceglie su schermo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand touching screen",
+          "image": "https://images.pexels.com/photos/8490101/pexels-photo-8490101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sostituito entro 5 anni?",
+          "description": "Chi non osserva ora rischia di essere sostituito. La posta in gioco della Physical AI non è una previsione vaga.",
+          "visual_hint": "Orologio con ingranaggi robotici",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "clock gears robot",
+          "image": "https://images.pexels.com/photos/36495824/pexels-photo-36495824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A San Jose girava un robot tra la gente.",
+        "Non era un prototipo, ma un prodotto.",
+        "Chi non guarda ora, tra 5 anni è fuori.",
+        "Scegli un settore: esiste già il pilota automatico?",
+        "Costa meno di un abbonamento. Provalo domani."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
+}

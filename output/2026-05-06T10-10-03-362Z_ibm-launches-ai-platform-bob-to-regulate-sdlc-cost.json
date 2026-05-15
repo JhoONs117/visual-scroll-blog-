@@ -24,5 +24,41 @@
     "Quanto risparmieresti tu? Provaci."
   ],
   "savedAt": "2026-05-06T10:10:03.362Z",
-  "instagram_caption": "IBM ha già tagliato il 20% dei costi di sviluppo software attivando un tool chiamato Bob 🤖. Non ha licenziato nessuno: ha solo automatizzato il lavoro ripetitivo (bug fixing, riunioni inutili, coding noioso) che di solito mangia un terzo del tempo dei team. Bob si integra nei programmi che già usi e decide cosa delegare alle macchine 💸. Per chi sviluppa software, significa meno ore sprecate e più soldi in tasca. Quanto del tuo tempo giornaliero potrebbe già fare un algoritmo senza che tu lo noti? 🧠"
+  "instagram_caption": "IBM ha già tagliato il 20% dei costi di sviluppo software attivando un tool chiamato Bob 🤖. Non ha licenziato nessuno: ha solo automatizzato il lavoro ripetitivo (bug fixing, riunioni inutili, coding noioso) che di solito mangia un terzo del tempo dei team. Bob si integra nei programmi che già usi e decide cosa delegare alle macchine 💸. Per chi sviluppa software, significa meno ore sprecate e più soldi in tasca. Quanto del tuo tempo giornaliero potrebbe già fare un algoritmo senza che tu lo noti? 🧠",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ibm-launches-ai-platform-bob-to-regulate-sdlc-cost",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Stai ancora perdendo tempo a controllare le spese software a mano? Forse è il momento di smettere.",
+        "Bob ti fa vedere subito dove finiscono i soldi nello sviluppo. Niente più sorprese a fine mese.",
+        "L'AI di IBM analizza tutto, trova gli sprechi e ottimizza da sola. Zero fatica per te.",
+        "Il setup è ridicolo: tre clic e Bob è già pronto a lavorare. Non serve un tecnico.",
+        "Azienda X ha tagliato i costi del 20% in tre mesi. Quanto potresti risparmiare tu?"
+      ]
+    },
+    "instagram": {
+      "caption": "IBM ha già tagliato il 20% dei costi di sviluppo software attivando un tool chiamato Bob 🤖. Non ha licenziato nessuno: ha solo automatizzato il lavoro ripetitivo (bug fixing, riunioni inutili, coding noioso) che di solito mangia un terzo del tempo dei team. Bob si integra nei programmi che già usi e decide cosa delegare alle macchine 💸. Per chi sviluppa software, significa meno ore sprecate e più soldi in tasca. Quanto del tuo tempo giornaliero potrebbe già fare un algoritmo senza che tu lo noti? 🧠",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Fermi tutti, smettete di impazzire sui costi del software.",
+        "Bob ti mostra subito dove scappano i soldi.",
+        "Poi arriva l'AI di IBM e sistema tutto da sola.",
+        "Risparmi tempo e budget, sembra magia.",
+        "Tre clic e sei pronto, facile vero?",
+        "Azienda X ha risparmiato il 20% in tre mesi.",
+        "Quanto risparmieresti tu? Provaci."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

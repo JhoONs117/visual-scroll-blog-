@@ -68,5 +68,84 @@
       "image": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
-  "instagram_caption": "Jensen Huang, il capo di Nvidia, dice che chi ha paura dell'intelligenza artificiale ha capito tutto al contrario. La sua azienda sta assumendo più persone proprio grazie all'AI, nonostante le preoccupazioni dei lavoratori. Per lui l'AI non ruba posti: ne crea di nuovi che prima non esistevano. Chi impara a usarla ogni giorno ottiene un vantaggio concreto, senza dover diventare per forza un ingegnere. E tu hai già integrato l'AI nel tuo lavoro per non restare indietro? 🧠💼📈"
+  "instagram_caption": "Jensen Huang, il capo di Nvidia, dice che chi ha paura dell'intelligenza artificiale ha capito tutto al contrario. La sua azienda sta assumendo più persone proprio grazie all'AI, nonostante le preoccupazioni dei lavoratori. Per lui l'AI non ruba posti: ne crea di nuovi che prima non esistevano. Chi impara a usarla ogni giorno ottiene un vantaggio concreto, senza dover diventare per forza un ingegnere. E tu hai già integrato l'AI nel tuo lavoro per non restare indietro? 🧠💼📈",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "as-workers-worry-about-ai-nvidia-s-jensen-huang-sa",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Huang dice che l'AI creerà più posti di lavoro di quanti ne distruggerà. Facile a dirsi se il tuo ruolo rischia di essere automatizzato domani.",
+        "Il punto non è se l'AI eliminerà lavori: lo farà. La domanda è se sei nella categoria dei sostituiti o in quella dei potenziati.",
+        "Secondo Huang, la vera svolta arriva quando il tuo settore inizierà a chiedere competenze AI che oggi non esistono nemmeno.",
+        "Il paradosso: più l'AI avanza, più servono umani per addestrarla, interpretarla e gestirne i limiti. Ma devi essere pronto a cambiare ruolo.",
+        "Fai un test concreto: apri LinkedIn, cerca 'AI + [il tuo settore]' e conta le offerte. Se sono poche, forse hai tempo. Se sono tante, muoviti ora."
+      ]
+    },
+    "instagram": {
+      "caption": "Jensen Huang, il capo di Nvidia, dice che chi ha paura dell'intelligenza artificiale ha capito tutto al contrario. La sua azienda sta assumendo più persone proprio grazie all'AI, nonostante le preoccupazioni dei lavoratori. Per lui l'AI non ruba posti: ne crea di nuovi che prima non esistevano. Chi impara a usarla ogni giorno ottiene un vantaggio concreto, senza dover diventare per forza un ingegnere. E tu hai già integrato l'AI nel tuo lavoro per non restare indietro? 🧠💼📈",
+      "carousel": [
+        {
+          "hook": "Sostituito o potenziato dall'AI?",
+          "description": "Huang dice che l'AI creerà più posti di lavoro di quanti ne distruggerà. La vera domanda: sei nella categoria dei sostituiti o dei potenziati?",
+          "visual_hint": "scala a due piatti in equilibrio",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "balance scale workplace"
+        },
+        {
+          "hook": "L'AI eliminerà lavori, sì.",
+          "description": "Il punto non è se l'AI eliminerà lavori: lo farà. Devi chiederti se il tuo ruolo è a rischio automazione.",
+          "visual_hint": "ingranaggio e chip che si scontrano",
+          "layout_type": "right-focus",
+          "icon": "vibration",
+          "image_query": "factory robot assembly line",
+          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il settore già chiede competenze nuove",
+          "description": "Huang: la vera svolta arriva quando il tuo settore inizierà a richiedere competenze AI che oggi non esistono. Sei pronto a cambiarle?",
+          "visual_hint": "lista di competenze futuristiche",
+          "layout_type": "sensor-zoom",
+          "icon": "tag",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Più AI, più umani servono",
+          "description": "Paradosso: più l'AI avanza, più servono umani per addestrarla, interpretarla e gestirne i limiti. Ma devi cambiare ruolo.",
+          "visual_hint": "mano che tocca schermo con codice",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "office workers meeting",
+          "image": "https://images.pexels.com/photos/7971194/pexels-photo-7971194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cerca 'AI + tuo settore' su LinkedIn",
+          "description": "Apri LinkedIn, cerca 'AI + il tuo settore'. Se vedi poche offerte, hai tempo. Se sono tante, muoviti ora.",
+          "visual_hint": "schermo LinkedIn con risultati ricerca",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "LinkedIn profile on screen",
+          "image": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Huang dice che l'AI crea più posti di lavoro.",
+        "Ma se sei tu a essere sostituito, come la mettiamo?",
+        "La svolta arriva quando il tuo settore chiede competenze nuove.",
+        "Più AI avanza, più servono umani per gestirla.",
+        "Apri LinkedIn e cerca 'AI' più la tua area."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

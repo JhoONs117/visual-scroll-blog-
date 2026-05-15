@@ -23,5 +23,40 @@
     "Scrive email in un attimo."
   ],
   "savedAt": "2026-05-06T02:01:27.183Z",
-  "instagram_caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?"
+  "instagram_caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-releases-gpt-5-5-instant-a-new-default-mode",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Fermi tutti. C'è un nuovo modello ChatGPT e non è quello che ti aspetti.",
+        "GPT-5.5 Instant non è solo più veloce. È così rapido che cambia il ritmo con cui lavori.",
+        "Il punto è che risparmi secondi su ogni richiesta. Quei secondi diventano ore a fine giornata.",
+        "E poi c'è il salto di qualità: risposte più intelligenti, meno giri di parole, più sostanza.",
+        "Provane una versione ora in chat. Scrive email in secondi. Non è il futuro. È adesso."
+      ]
+    },
+    "instagram": {
+      "caption": "Da oggi in ChatGPT puoi chiedere un articolo e riceverlo in secondi ⚡️ OpenAI ha attivato GPT-5.5 Instant, un modello più veloce e preciso del precedente. Non devi aspettare o riformulare: le risposte arrivano già pronte, in tempo reale. Per chi scrive ogni giorno, significa finire un post o una mail mentre il caffè è ancora caldo ☕️. Qual è la prima cosa che gli chiederai?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Hai visto il nuovo ChatGPT?",
+        "Si chiama GPT-5.5 Instant.",
+        "È velocissimo e più intelligente.",
+        "Risparmi un sacco di tempo.",
+        "Provalo subito in chat.",
+        "Scrive email in un attimo."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

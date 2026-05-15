@@ -23,5 +23,39 @@
   ],
   "savedAt": "2026-05-06T06:24:55.443Z",
   "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
-  "instagram_caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍"
+  "instagram_caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sap-how-enterprise-ai-governance-secures-profit-ma",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Lasci l'AI senza controllo? I profitti svaniscono più velocemente di quanto pensi.",
+        "Un errore di AI costa 10 volte più di una multa. Le regole non sono burocrazia, sono protezione diretta del margine.",
+        "Le banche che automatizzano i controlli di compliance riducono gli errori del 40%. L'audit ogni giorno è un assegno in bianco che non si incassa.",
+        "Le multe per violazioni AI stanno diventando sistematiche. Non è più 'se' ma 'quando' — e il costo è un taglio netto sugli utili.",
+        "Il caso concreto: una banca ha risparmiato il 20% annuo sui costi operativi integrando compliance AI nel workflow. Il numero parla da solo."
+      ]
+    },
+    "instagram": {
+      "caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Se non controlli l'AI, lei mangia i tuoi profitti.",
+        "Le regole riducono errori costosi e multe.",
+        "Un audit automatico ogni giorno ti salva.",
+        "Basta un controllo per proteggere i margini.",
+        "Una banca ha risparmiato il 20% così."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

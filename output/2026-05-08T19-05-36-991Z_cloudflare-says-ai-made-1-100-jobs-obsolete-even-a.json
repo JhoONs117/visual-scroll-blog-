@@ -71,5 +71,84 @@
   "savedAt": "2026-05-08T19:05:57.051Z",
   "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
   "image": "https://techcrunch.com/wp-content/uploads/2019/12/Matthew-Prince-CloudflareDSC00252.jpg?resize=1200,800",
-  "instagram_caption": "Cloudflare ha eliminato 1.100 posti e il fatturato ha raggiunto un record.  \nL’azienda ha sostituito interi reparti amministrativi con modelli AI, senza toccare un solo sviluppatore. Segnali? Chi oggi gestisce burocrazia, report o coordinamento rischia di diventare un costo superfluo.  \nVerifica subito il tuo task più ripetitivo: se esiste un modello che lo fa in 10 secondi, il tuo ruolo è già in attesa. Quanto tempo ti resta per adattarti? 🔍📉💼🤖⏳"
+  "instagram_caption": "Cloudflare ha eliminato 1.100 posti e il fatturato ha raggiunto un record.  \nL’azienda ha sostituito interi reparti amministrativi con modelli AI, senza toccare un solo sviluppatore. Segnali? Chi oggi gestisce burocrazia, report o coordinamento rischia di diventare un costo superfluo.  \nVerifica subito il tuo task più ripetitivo: se esiste un modello che lo fa in 10 secondi, il tuo ruolo è già in attesa. Quanto tempo ti resta per adattarti? 🔍📉💼🤖⏳",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cloudflare-says-ai-made-1-100-jobs-obsolete-even-a",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Cloudflare ha licenziato 1.100 persone. E il fatturato è cresciuto. L'IA non ha sostituito sviluppatori: ha cancellato interi reparti amministrativi.",
+        "L'azienda ha usato modelli AI per gestire processi che prima richiedevano team di decine di persone. Burocrazia, report, coordinamento.",
+        "Il risultato? Hanno tagliato i ruoli che non scrivevano codice. Nessun developer è stato toccato. Solo chi amministrava è sparito.",
+        "Oggi quei lavori esistono ancora. Ma la domanda non è quando spariranno: è quanto tempo impiegherai a renderti conto che il tuo è già sostituibile.",
+        "Prendi il task più ripetitivo della tua giornata. Ora cerca un modello che lo faccia in 10 secondi. Se esiste, è già in attesa."
+      ]
+    },
+    "instagram": {
+      "caption": "Cloudflare ha eliminato 1.100 posti e il fatturato ha raggiunto un record.  \nL’azienda ha sostituito interi reparti amministrativi con modelli AI, senza toccare un solo sviluppatore. Segnali? Chi oggi gestisce burocrazia, report o coordinamento rischia di diventare un costo superfluo.  \nVerifica subito il tuo task più ripetitivo: se esiste un modello che lo fa in 10 secondi, il tuo ruolo è già in attesa. Quanto tempo ti resta per adattarti? 🔍📉💼🤖⏳",
+      "carousel": [
+        {
+          "hook": "Nessun developer licenziato",
+          "description": "Cloudflare ha tagliato 1.100 posti amministrativi, non sviluppatori. Il fatturato è cresciuto lo stesso.",
+          "visual_hint": "Grafico crescita con persone che cadono",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "L'AI ha sostituito interi reparti",
+          "description": "Modelli AI hanno gestito burocrazia, report e coordinamento. Team di decine di persone cancellati.",
+          "visual_hint": "Robot che scrive su un foglio",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Chi amministra rischio estinzione",
+          "description": "Solo chi non scriveva codice è sparito. I ruoli amministrativi non servono più con l'IA.",
+          "visual_hint": "Postazione vuota con monitor spento",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tuo lavoro è già sostituibile",
+          "description": "Se il task più ripetitivo della tua giornata si automatizza in 10 secondi, è già in attesa.",
+          "visual_hint": "Mano che preme un bottone AI",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/4543925/pexels-photo-4543925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Verifica subito se rischi",
+          "description": "Domanda: quanto tempo impiegherai a capire che il tuo ruolo è sostituibile? Non aspettare.",
+          "visual_hint": "Checklist con spunta finale",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hanno licenziato 1.100 persone.",
+        "Fatturato alle stelle.",
+        "Zero sviluppatori tagliati.",
+        "Solo chi amministrava.",
+        "Il tuo lavoro è già replicabile."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

@@ -62,5 +62,75 @@
   "savedAt": "2026-05-08T15:15:15.058Z",
   "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/ringcentral-ai-hero_x1440.webp",
-  "instagram_caption": "Shopify ordini e WhatsApp messaggi: il receptionist AI di RingCentral ora gestisce tutto senza che tu alzi un dito.  \nSi integra con Calendly così una richiesta via chat diventa subito un appuntamento in agenda 🗓️. I clienti prenotano da soli, senza parlare con nessuno, e tu smetti di perdere tempo tra chiamate e passaggi di persona ⏳.  \nCon un costo inferiore a un abbonamento Spotify, il primo assistente AI è già attivabile oggi.  \nQuante ore della tua giornata andrebbero via se non dovessi mai più rispondere a \"posso prenotare?\" 📲?"
+  "instagram_caption": "Shopify ordini e WhatsApp messaggi: il receptionist AI di RingCentral ora gestisce tutto senza che tu alzi un dito.  \nSi integra con Calendly così una richiesta via chat diventa subito un appuntamento in agenda 🗓️. I clienti prenotano da soli, senza parlare con nessuno, e tu smetti di perdere tempo tra chiamate e passaggi di persona ⏳.  \nCon un costo inferiore a un abbonamento Spotify, il primo assistente AI è già attivabile oggi.  \nQuante ore della tua giornata andrebbero via se non dovessi mai più rispondere a \"posso prenotare?\" 📲?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ringcentral-adds-shopify-calendly-and-whatsapp-to-",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Se i tuoi clienti non devono parlare con nessuno per prenotare, cosa cambia nel tuo business?",
+        "RingCentral, Shopify e WhatsApp si integrano. Ma il vero salto è che un AI Receptionist gestisce ordini e appuntamenti senza intervento umano.",
+        "Funziona anche con Calendly. Quindi una richiesta via chat si trasforma subito in una prenotazione in agenda.",
+        "Niente attese, niente passaggi di persona. Il cliente fa tutto da solo, e tu liberi ore ogni giorno.",
+        "Costa meno di un abbonamento Spotify. Attivalo oggi e vedi il primo appuntamento arrivare senza che tu apra bocca."
+      ]
+    },
+    "instagram": {
+      "caption": "Shopify ordini e WhatsApp messaggi: il receptionist AI di RingCentral ora gestisce tutto senza che tu alzi un dito.  \nSi integra con Calendly così una richiesta via chat diventa subito un appuntamento in agenda 🗓️. I clienti prenotano da soli, senza parlare con nessuno, e tu smetti di perdere tempo tra chiamate e passaggi di persona ⏳.  \nCon un costo inferiore a un abbonamento Spotify, il primo assistente AI è già attivabile oggi.  \nQuante ore della tua giornata andrebbero via se non dovessi mai più rispondere a \"posso prenotare?\" 📲?",
+      "carousel": [
+        {
+          "hook": "Clienti prenotano senza parlare",
+          "description": "Cosa cambia se i clienti prenotano da soli?",
+          "visual_hint": "Chatbot con calendario",
+          "layout_type": "hero",
+          "icon": "tag"
+        },
+        {
+          "hook": "Shopify e WhatsApp ora integrati",
+          "description": "Un AI Receptionist gestisce ordini e appuntamenti senza intervento umano.",
+          "visual_hint": "Logo integrazione schermo",
+          "layout_type": "right-focus",
+          "icon": "waves"
+        },
+        {
+          "hook": "Funziona anche con Calendly",
+          "description": "Una richiesta via chat si trasforma subito in prenotazione in agenda.",
+          "visual_hint": "Chat che diventa calendario",
+          "layout_type": "sensor-zoom",
+          "icon": "heart"
+        },
+        {
+          "hook": "Niente attese, niente passaggi",
+          "description": "Il cliente fa tutto da solo e tu liberi ore ogni giorno.",
+          "visual_hint": "Orologio con tempo libero",
+          "layout_type": "human-hand",
+          "icon": "vibration"
+        },
+        {
+          "hook": "Provalo oggi: primo assistente AI",
+          "description": "Costa meno di un abbonamento Spotify. Attivalo oggi.",
+          "visual_hint": "Telefono con AI attivo",
+          "layout_type": "cta-final",
+          "icon": "check"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "I tuoi clienti prenotano senza parlare con nessuno.",
+        "RingCentral e WhatsApp insieme, ma il bello è dopo.",
+        "L'AI Receptionist gestisce ordini e appuntamenti.",
+        "Funziona pure con Calendly, tutto automatico.",
+        "Costa meno di Spotify, provalo oggi."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

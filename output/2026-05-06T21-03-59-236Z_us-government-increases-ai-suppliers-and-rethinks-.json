@@ -23,5 +23,39 @@
   ],
   "savedAt": "2026-05-06T21:03:59.236Z",
   "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
-  "instagram_caption": "Lo stop al monopolio è arrivato: il governo USA ha appena sostituito il suo fornitore AI principale. Anthropic perde il ruolo di partner esclusivo e i nuovi contratti vanno a startup più piccole e veloci. Per chi lavora nel settore, è il segnale che le alleanze esclusive sono un rischio. Se usi strumenti AI, chiediti: hai già un piano B per i tuoi fornitori?"
+  "instagram_caption": "Lo stop al monopolio è arrivato: il governo USA ha appena sostituito il suo fornitore AI principale. Anthropic perde il ruolo di partner esclusivo e i nuovi contratti vanno a startup più piccole e veloci. Per chi lavora nel settore, è il segnale che le alleanze esclusive sono un rischio. Se usi strumenti AI, chiediti: hai già un piano B per i tuoi fornitori?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "us-government-increases-ai-suppliers-and-rethinks-",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Il governo USA ha appena silurato il suo fornitore AI principale. Lo sai perché?",
+        "Anthropic aveva il posto fisso. Ora è fuori. E non è un caso isolato.",
+        "I nuovi contratti non vanno ai soliti big. Vanno a startup più agili. Molto più agili.",
+        "Se lavori con l'AI, questo è un segnale chiaro: le tue alleanze di oggi potrebbero essere un problema domani.",
+        "Diversifica i tuoi fornitori tecnologici adesso. Non quando sarà troppo tardi."
+      ]
+    },
+    "instagram": {
+      "caption": "Lo stop al monopolio è arrivato: il governo USA ha appena sostituito il suo fornitore AI principale. Anthropic perde il ruolo di partner esclusivo e i nuovi contratti vanno a startup più piccole e veloci. Per chi lavora nel settore, è il segnale che le alleanze esclusive sono un rischio. Se usi strumenti AI, chiediti: hai già un piano B per i tuoi fornitori?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Il governo USA ha cambiato fornitore AI.",
+        "Anthropic non è più l'unico partner.",
+        "Ora vanno con startup più piccole.",
+        "Chi lavora con AI deve guardare bene.",
+        "Diversifica i tuoi fornitori, ora."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

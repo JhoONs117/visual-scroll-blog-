@@ -69,5 +69,83 @@
     }
   ],
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/markus-stickling-ISP9CdRYS28-unsplash-scaled.jpg",
-  "instagram_caption": "Hanno speso miliardi in server e data center. I profitti sono saliti, poi hanno chiesto budget ancora più alti e alzeranno i prezzi 💸 📈. Stessa IA, stesso servizio, ma il \"miglioramento\" è solo una scusa per farti pagare di più per gli stessi strumenti 🛠️. Tu, a lavoro o in abbonamento, ti ritrovi con un conto più salato senza aver chiesto nulla. Perché finanziare la loro espansione invece di cercare alternative più snelle? 🤔"
+  "instagram_caption": "Hanno speso miliardi in server e data center. I profitti sono saliti, poi hanno chiesto budget ancora più alti e alzeranno i prezzi 💸 📈. Stessa IA, stesso servizio, ma il \"miglioramento\" è solo una scusa per farti pagare di più per gli stessi strumenti 🛠️. Tu, a lavoro o in abbonamento, ti ritrovi con un conto più salato senza aver chiesto nulla. Perché finanziare la loro espansione invece di cercare alternative più snelle? 🤔",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "big-tech-just-proved-ai-infrastructure-spending-wo",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Revenue grew, but costs rose faster than anyone expected. That’s the hidden story behind every Big Tech AI announcement.",
+        "Companies spent record amounts on data centers and chips. Profit margins took the hit—not growth metrics.",
+        "The pattern is clear: the infrastructure bet is paying off in usage, not efficiency. You scale, but costs scale faster.",
+        "Your own cloud budget? It’s not immune. Analysts predict it will double within two years, just to keep pace.",
+        "Audit your AI costs now. Pick one workload, measure its full spend, and decide if it’s worth it—before next quarter."
+      ]
+    },
+    "instagram": {
+      "caption": "Hanno speso miliardi in server e data center. I profitti sono saliti, poi hanno chiesto budget ancora più alti e alzeranno i prezzi 💸 📈. Stessa IA, stesso servizio, ma il \"miglioramento\" è solo una scusa per farti pagare di più per gli stessi strumenti 🛠️. Tu, a lavoro o in abbonamento, ti ritrovi con un conto più salato senza aver chiesto nulla. Perché finanziare la loro espansione invece di cercare alternative più snelle? 🤔",
+      "carousel": [
+        {
+          "hook": "Revenue grew, costs exploded",
+          "description": "The hidden story behind Big Tech AI: revenue grew, but costs rose faster than expected.",
+          "visual_hint": "Exploding bar chart",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Profit margins took the hit",
+          "description": "Record spending on data centers and chips—but profit margins shrank, not growth metrics.",
+          "visual_hint": "Shrinking profit arrow",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Scaling makes costs scale faster",
+          "description": "Infrastructure pays off in usage, not efficiency. You scale, but costs scale faster.",
+          "visual_hint": "Cost graph climbing steeply",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "data center cables",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Data_cables_prepped_for_installation_under_the_floor_of_the_Train_Operation_Center._%28CS179%2C_08-14-2019%29_%2848552632251%29.jpg/960px-Data_cables_prepped_for_installation_under_the_floor_of_the_Train_Operation_Center._%28CS179%2C_08-14-2019%29_%2848552632251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Your cloud budget will double",
+          "description": "Analysts predict your cloud budget will double within two years just to keep pace.",
+          "visual_hint": "Budget meter overflowing",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers computers",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Office_workers_in_the_1970%27s_%289717154582%29.jpg/960px-Office_workers_in_the_1970%27s_%289717154582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Audit AI costs before next quarter",
+          "description": "Pick one workload, measure its full spend, and decide if it's worth it—before next quarter.",
+          "visual_hint": "Magnifying glass on receipts",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "laptop with graphs"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Revenue grew, but costs exploded faster.",
+        "Big Tech spent record money on AI infrastructure.",
+        "Profit margins shrank despite all that revenue.",
+        "Your cloud budget will double in two years.",
+        "Audit your AI costs today, not tomorrow."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

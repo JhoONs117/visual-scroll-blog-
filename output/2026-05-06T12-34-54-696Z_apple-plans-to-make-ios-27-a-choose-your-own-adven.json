@@ -22,5 +22,39 @@
     "Fai questo test: chiedi e confronta le risposte."
   ],
   "savedAt": "2026-05-06T12:34:54.696Z",
-  "instagram_caption": "Il tuo iPhone potrebbe cambiare \"cervello\" AI ogni giorno, scegliendo da solo il modello più adatto a quello che stai facendo. 🧠 Apple non sta costruendo un unico motore centrale, ma un sistema che alterna diverse intelligenze artificiali in tempo reale. 📸 Finora, per avere nuove funzioni dovevi aspettare aggiornamenti software lenti; ora il telefono si adatta da solo, task per task: foto, messaggi, mappe, email. 🗺️ In pratica: apri Note, dettali un compito, confronta le risposte con Safari, e inizi a vedere il meccanismo. Prova a chiedergli la stessa cosa due volte: che differenza trovi?"
+  "instagram_caption": "Il tuo iPhone potrebbe cambiare \"cervello\" AI ogni giorno, scegliendo da solo il modello più adatto a quello che stai facendo. 🧠 Apple non sta costruendo un unico motore centrale, ma un sistema che alterna diverse intelligenze artificiali in tempo reale. 📸 Finora, per avere nuove funzioni dovevi aspettare aggiornamenti software lenti; ora il telefono si adatta da solo, task per task: foto, messaggi, mappe, email. 🗺️ In pratica: apri Note, dettali un compito, confronta le risposte con Safari, e inizi a vedere il meccanismo. Prova a chiedergli la stessa cosa due volte: che differenza trovi?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-plans-to-make-ios-27-a-choose-your-own-adven",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Stai per vedere il tuo iPhone scegliere da solo quale intelligenza artificiale usare ogni giorno. Senza chiederti niente.",
+        "Apple non sta costruendo un unico cervello centrale. Sta costruendo un sistema che cambia modello in base a cosa stai facendo.",
+        "Foto, messaggi, mappe, email. Ogni task potrebbe avere il suo motore migliore. E il telefono lo capisce da solo.",
+        "Niente più attese per un aggiornamento che ti porti una nuova AI. Il sistema si adatta in tempo reale.",
+        "Apri l'app Note, dettali un compito, poi confronta le risposte con quello che vedi in Safari. Inizierai a vedere il meccanismo."
+      ]
+    },
+    "instagram": {
+      "caption": "Il tuo iPhone potrebbe cambiare \"cervello\" AI ogni giorno, scegliendo da solo il modello più adatto a quello che stai facendo. 🧠 Apple non sta costruendo un unico motore centrale, ma un sistema che alterna diverse intelligenze artificiali in tempo reale. 📸 Finora, per avere nuove funzioni dovevi aspettare aggiornamenti software lenti; ora il telefono si adatta da solo, task per task: foto, messaggi, mappe, email. 🗺️ In pratica: apri Note, dettali un compito, confronta le risposte con Safari, e inizi a vedere il meccanismo. Prova a chiedergli la stessa cosa due volte: che differenza trovi?",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Il tuo iPhone cambierà cervello ogni giorno.",
+        "Apple sceglierà il modello giusto per te.",
+        "Non un solo motore, ma tanti diversi.",
+        "Niente più aggiornamenti lenti da aspettare.",
+        "Fai questo test: chiedi e confronta le risposte."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

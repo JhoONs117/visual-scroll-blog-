@@ -23,5 +23,39 @@
   ],
   "savedAt": "2026-05-06T22:41:09.199Z",
   "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
-  "instagram_caption": "Il 70% delle aziende accumula dati senza usarli per l'AI. HP dice che il problema non è la quantità, ma la qualità: dati \"sporchi\" che non portano da nessuna parte. La loro soluzione è trasformare quel caos in decisioni concrete, senza dover pulire tutto o inseguire ogni nuovo modello. Per chi lavora in azienda 🏢, questo significa non rincorrere l'ennesimo tool, ma far funzionare ciò che già hai, allineandolo ai tuoi obiettivi. Pulire i dati per prendere decisioni vere: questa è la differenza che vince 💡. Quando è stata l'ultima volta che i tuoi dati ti hanno dato una risposta chiara? 🔍"
+  "instagram_caption": "Il 70% delle aziende accumula dati senza usarli per l'AI. HP dice che il problema non è la quantità, ma la qualità: dati \"sporchi\" che non portano da nessuna parte. La loro soluzione è trasformare quel caos in decisioni concrete, senza dover pulire tutto o inseguire ogni nuovo modello. Per chi lavora in azienda 🏢, questo significa non rincorrere l'ennesimo tool, ma far funzionare ciò che già hai, allineandolo ai tuoi obiettivi. Pulire i dati per prendere decisioni vere: questa è la differenza che vince 💡. Quando è stata l'ultima volta che i tuoi dati ti hanno dato una risposta chiara? 🔍",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hp-and-the-art-of-ai-and-data-for-the-enterprise",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "Le aziende sanno cosa compri. HP sa cosa pensi. Ecco come.",
+        "Il problema non è la mancanza di dati. Il problema è che il 70% delle aziende li ignora.",
+        "HP trasforma dati sporchi in decisioni che funzionano. Non serve pulire tutto, serve sapere cosa cercare.",
+        "Smetti di rincorrere ogni nuovo modello. La differenza la fa come usi quello che hai.",
+        "Dati allineati con gli obiettivi giusti battono sempre l'AI più recente. Vinci così."
+      ]
+    },
+    "instagram": {
+      "caption": "Il 70% delle aziende accumula dati senza usarli per l'AI. HP dice che il problema non è la quantità, ma la qualità: dati \"sporchi\" che non portano da nessuna parte. La loro soluzione è trasformare quel caos in decisioni concrete, senza dover pulire tutto o inseguire ogni nuovo modello. Per chi lavora in azienda 🏢, questo significa non rincorrere l'ennesimo tool, ma far funzionare ciò che già hai, allineandolo ai tuoi obiettivi. Pulire i dati per prendere decisioni vere: questa è la differenza che vince 💡. Quando è stata l'ultima volta che i tuoi dati ti hanno dato una risposta chiara? 🔍",
+      "carousel": []
+    },
+    "tiktok": {
+      "script": [
+        "Hp sa cosa pensi prima di te.",
+        "Solo tre aziende su dieci usano dati per davvero.",
+        "I dati sporchi diventano decisioni vincenti.",
+        "Basta inseguire l'ultimo modello.",
+        "Allinea i dati e vinci."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }

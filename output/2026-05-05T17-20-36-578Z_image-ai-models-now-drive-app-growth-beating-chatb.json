@@ -68,5 +68,84 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     }
   ],
-  "instagram_caption": "I modelli visivi generativi stanno portando più installazioni delle chat: Spotify ha visto un +30% con le cover personalizzate. 🎨 Le immagini generate dall'intelligenza artificiale aumentano i download e migliorano la fidelizzazione, perché le persone vedono il contenuto e restano. Meno aggiornamenti, più utenti fedeli. 📈 Per chi sviluppa app, aggiungere personalizzazione visiva non è più un optional: è la prossima mossa concreta da fare. 🖼️ Il tuo feed è già pieno di immagini AI senza che tu lo sappia?"
+  "instagram_caption": "I modelli visivi generativi stanno portando più installazioni delle chat: Spotify ha visto un +30% con le cover personalizzate. 🎨 Le immagini generate dall'intelligenza artificiale aumentano i download e migliorano la fidelizzazione, perché le persone vedono il contenuto e restano. Meno aggiornamenti, più utenti fedeli. 📈 Per chi sviluppa app, aggiungere personalizzazione visiva non è più un optional: è la prossima mossa concreta da fare. 🖼️ Il tuo feed è già pieno di immagini AI senza che tu lo sappia?",
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "image-ai-models-now-drive-app-growth-beating-chatb",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "formats": {
+    "x": {
+      "thread": [
+        "I modelli visivi tengono gli utenti più a lungo dei LLM. La differenza in retention è misurabile. E se la tua prossima feature è un chatbot, stai scommettendo sulla carta sbagliata.",
+        "Le immagini convertono meglio del testo generato dall'AI. Non è un'opinione: i dati mostrano che una schermata ben progettata spinge l'azione più di qualsiasi prompt.",
+        "Ecco la svolta: se l'onboarding è testuale, perdi utenti prima ancora che inizino. Un onboarding visivo li porta direttamente al valore del prodotto.",
+        "Puoi verificarlo oggi con un A/B test. Metti una schermata contro una spiegazione testuale e guarda i numeri.",
+        "Sostituisci un prompt con una schermata nel tuo prossimo rilascio. Costa meno di un abbonamento Spotify e i risultati arrivano in una settimana."
+      ]
+    },
+    "instagram": {
+      "caption": "I modelli visivi generativi stanno portando più installazioni delle chat: Spotify ha visto un +30% con le cover personalizzate. 🎨 Le immagini generate dall'intelligenza artificiale aumentano i download e migliorano la fidelizzazione, perché le persone vedono il contenuto e restano. Meno aggiornamenti, più utenti fedeli. 📈 Per chi sviluppa app, aggiungere personalizzazione visiva non è più un optional: è la prossima mossa concreta da fare. 🖼️ Il tuo feed è già pieno di immagini AI senza che tu lo sappia?",
+      "carousel": [
+        {
+          "hook": "La prossima feature è un errore?",
+          "description": "I modelli visivi tengono gli utenti più a lungo dei LLM. Scommettere su chatbot è rischioso.",
+          "visual_hint": "grafico retention a confronto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Le immagini battono il testo AI",
+          "description": "Una schermata ben progettata spinge l'azione più di qualsiasi prompt. I dati confermano.",
+          "visual_hint": "interfaccia utente schermata",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone screen",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Smartphone_lock_screen_enter_PIN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        {
+          "hook": "Onboarding testuale? Perdi utenti",
+          "description": "Un onboarding visivo porta direttamente al valore del prodotto. Quello testuale li fa scappare.",
+          "visual_hint": "utente che guarda schermo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "people walking street",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/People_walking_on_the_street_in_Nairobi%2C_Kenya.jpg/960px-People_walking_on_the_street_in_Nairobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Verificalo oggi con un A/B test",
+          "description": "Metti una schermata contro una spiegazione testuale. I numeri parleranno da soli.",
+          "visual_hint": "split test due varianti",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Sostituisci un prompt con una schermata",
+          "description": "Costa meno di un abbonamento Spotify. I risultati arrivano in una settimana.",
+          "visual_hint": "schermata che sostituisce chat",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "factory robot",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "I modelli visivi battono i LLM in retention.",
+        "Le immagini convertono meglio dei testi AI.",
+        "Non è teoria, è dato misurato.",
+        "Onboarding visivo, non testuale.",
+        "Fai subito un A/B test."
+      ]
+    }
+  },
+  "metrics": {
+    "x": {},
+    "instagram": {},
+    "tiktok": {}
+  }
 }
