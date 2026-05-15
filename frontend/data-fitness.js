@@ -1,0 +1,106 @@
+window.FITNESS_ARTICLES = [
+  {
+    "schema_version": 2,
+    "agent": "fitness",
+    "slug": "l-infortunio-l-allenamento-da-record-l-alimentazio",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "L’infortunio, l'allenamento da record, l'alimentazione: Sofia Goggia is back!  ",
+    "link": "https://www.gazzetta.it/fitness/allenamento/storie/14-02-2022/infortunio-allenamento-record-alimentazione-sofia-goggia-is-back-4301404055658/",
+    "pubDate": "Mon, 14 Feb 2022 10:32:15 +0100",
+    "slides": [
+      "Ritorno più forte di prima. Sei pronto?",
+      "Goggia dimostra: cadere è umano, rialzarsi leggenda.",
+      "Forza esplosiva: squat jump con atterraggio controllato.",
+      "Saltare senza controllo: rischio lesioni al ginocchio.",
+      "Oggi 10 squat jump lenti e precisi."
+    ],
+    "instagram_caption": "Il ritorno di Sofia Goggia è la prova che la resilienza paga più di qualsiasi record. 🏆  \n\nLei cade da leggenda, si rialza da campionessa. Oggi lavoriamo sugli squat jump: atterraggio controllato, ginocchia morbide, equilibrio perfetto. Saltare senza controllo? Lesione assicurata. Con precisione e lentezza costruisci forza esplosiva senza rischi.  \n\nEsegui 10 ripetizioni lente, concentrandoti su ogni fase: discesa, spinta, atterraggio. Prova questo esercizio domani mattina e senti la differenza 💪",
+    "formats": {
+      "instagram": {
+        "caption": "Il ritorno di Sofia Goggia è la prova che la resilienza paga più di qualsiasi record. 🏆  \n\nLei cade da leggenda, si rialza da campionessa. Oggi lavoriamo sugli squat jump: atterraggio controllato, ginocchia morbide, equilibrio perfetto. Saltare senza controllo? Lesione assicurata. Con precisione e lentezza costruisci forza esplosiva senza rischi.  \n\nEsegui 10 ripetizioni lente, concentrandoti su ogni fase: discesa, spinta, atterraggio. Prova questo esercizio domani mattina e senti la differenza 💪"
+      },
+      "tiktok": {
+        "script": [
+          "Pronto per tornare più forte? Goggia sì.",
+          "Cadere è umano, rialzarsi è da leggenda.",
+          "Squat jump con atterraggio controllato, forza esplosiva.",
+          "Saltare senza controllo? Rischio ginocchia, evitalo.",
+          "Oggi 10 squat jump lenti e precisi. Via."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Non è cadere che conta. È come torni in piedi. Sofia Goggia lo ha dimostrato ancora: da un infortunio devastante ai record mondiali. Sei pronto a fare altrettanto con le tue gambe?",
+          "Ecco il segreto: squat jump con atterraggio controllato. Forza esplosiva in salita, frenata progressiva in discesa. Col solo peso del corpo: decolli esplosivo, atterri da atleta.",
+          "Il problema? Saltare senza controllo. Ogni atterraggio molle o sbilanciato è un colpo diretto al ginocchio. Goggia lo sa: un legamento si rompe in un millesimo di secondo. Non scherzare.",
+          "La soluzione è lenta e precisa. Oggi fai 10 squat jump: 3 secondi per scendere, esplodi su, atterra come una piuma, controlla 2 secondi. Niente fretta. Solo qualità.",
+          "Prova domani: 10 ripetizioni controllate. Metti un timer, registra il tuo atterraggio e dimmi com'è andata. Il tuo ginocchio ti ringrazierà."
+        ]
+      }
+    },
+    "video_script": [
+      "Pronto per tornare più forte? Goggia sì.",
+      "Cadere è umano, rialzarsi è da leggenda.",
+      "Squat jump con atterraggio controllato, forza esplosiva.",
+      "Saltare senza controllo? Rischio ginocchia, evitalo.",
+      "Oggi 10 squat jump lenti e precisi. Via."
+    ],
+    "thread_text": [
+      "Non è cadere che conta. È come torni in piedi. Sofia Goggia lo ha dimostrato ancora: da un infortunio devastante ai record mondiali. Sei pronto a fare altrettanto con le tue gambe?",
+      "Ecco il segreto: squat jump con atterraggio controllato. Forza esplosiva in salita, frenata progressiva in discesa. Col solo peso del corpo: decolli esplosivo, atterri da atleta.",
+      "Il problema? Saltare senza controllo. Ogni atterraggio molle o sbilanciato è un colpo diretto al ginocchio. Goggia lo sa: un legamento si rompe in un millesimo di secondo. Non scherzare.",
+      "La soluzione è lenta e precisa. Oggi fai 10 squat jump: 3 secondi per scendere, esplodi su, atterra come una piuma, controlla 2 secondi. Niente fretta. Solo qualità.",
+      "Prova domani: 10 ripetizioni controllate. Metti un timer, registra il tuo atterraggio e dimmi com'è andata. Il tuo ginocchio ti ringrazierà."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Ritorna più forte di prima",
+        "description": "Sofia Goggia dimostra che cadere è umano, rialzarsi è leggenda: ecco l'allenamento che ricostruisce potenza.",
+        "visual_hint": "Goggia in azione neve",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "skier comeback training"
+      },
+      {
+        "hook": "Cadere è umano, rialzarsi leggenda",
+        "description": "Trasforma un infortunio in un trampolino: con il giusto metodo recuperi forza e fiducia.",
+        "visual_hint": "sciatrice in recupero",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "athlete rehabilitation gym",
+        "image": "https://images.pexels.com/photos/5878688/pexels-photo-5878688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Forza esplosiva controllata",
+        "description": "Squat jump con atterraggio morbido: costruisci potenza senza stressare le ginocchia.",
+        "visual_hint": "squat jump atterraggio",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "squat jump athlete",
+        "image": "https://images.pexels.com/photos/14599068/pexels-photo-14599068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Atterrare male = rischio ginocchia",
+        "description": "Saltare senza controllo affatica legamenti e menischi. Correggi la tecnica con movimenti lenti e precisi.",
+        "visual_hint": "errore atterraggio ginocchio",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "knee injury prevention",
+        "image": "https://images.pexels.com/photos/7339493/pexels-photo-7339493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Oggi: 10 squat jump lenti",
+        "description": "Prova subito: 10 ripetizioni a velocità controllata, focus su atterraggio stabile. Attiva le gambe!",
+        "visual_hint": "call to action squat jump",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "home squat jump workout",
+        "image": "https://images.pexels.com/photos/14599068/pexels-photo-14599068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a768dc7f97.jpeg",
+    "savedAt": "2026-05-15T10:31:04.476Z",
+    "sourceId": "b9838e68a7837df458e28100dc59b8c5"
+  }
+];

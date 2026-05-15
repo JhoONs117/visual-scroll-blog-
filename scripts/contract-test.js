@@ -7,6 +7,7 @@ const ROOT = path.join(__dirname, '..');
 const DIRS = [
   path.join(ROOT, 'output'),
   path.join(ROOT, 'output', 'food'),
+  path.join(ROOT, 'output', 'fitness'),
 ];
 const VALID_STATUSES = new Set(['draft', 'approved', 'scheduled', 'published', 'failed']);
 
