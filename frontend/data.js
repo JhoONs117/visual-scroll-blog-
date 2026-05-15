@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "rj-scaringe-has-raised-more-than-12b-across-three-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
+    "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
+    "pubDate": "Fri, 15 May 2026 20:30:20 +0000",
+    "slides": [
+      "RJ Scaringe raised $12B, yet investors demand more.",
+      "His three startups each targeted trillion-dollar markets.",
+      "But Rivian still burns cash faster than it sells trucks.",
+      "You can bet on EVs and still lose—timing is everything.",
+      "Next time a founder asks for billions, ask why."
+    ],
+    "thread_text": [
+      "RJ Scaringe raised $12 billion. Rivian still burns cash faster than it sells trucks. That's not a startup problem. That's a math problem.",
+      "He built three companies, each aimed at trillion-dollar markets. EV trucks. Battery tech. Autonomous driving. Big bets. Bigger burn rates.",
+      "Investors kept funding the vision. $12B later, Rivian loses money on every vehicle. The story still works – until the numbers stop adding up.",
+      "You can bet on the right market and still lose. Electric vehicles are the future. But timing is the difference between a winner and a cautionary tale.",
+      "Next time a founder asks for billions, don't ask about the market. Ask how many trucks they need to sell before they stop losing money per truck."
+    ],
+    "video_script": [
+      "Twelve billion dollars raised.",
+      "Three companies, trillion-dollar markets each.",
+      "Rivian still burns cash on every truck.",
+      "Right bet, wrong timing.",
+      "Next time, ask about unit economics."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "RJ Scaringe raised $12 billion. Rivian still burns cash faster than it sells trucks. That's not a startup problem. That's a math problem.",
+          "He built three companies, each aimed at trillion-dollar markets. EV trucks. Battery tech. Autonomous driving. Big bets. Bigger burn rates.",
+          "Investors kept funding the vision. $12B later, Rivian loses money on every vehicle. The story still works – until the numbers stop adding up.",
+          "You can bet on the right market and still lose. Electric vehicles are the future. But timing is the difference between a winner and a cautionary tale.",
+          "Next time a founder asks for billions, don't ask about the market. Ask how many trucks they need to sell before they stop losing money per truck."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Twelve billion dollars raised.",
+          "Three companies, trillion-dollar markets each.",
+          "Rivian still burns cash on every truck.",
+          "Right bet, wrong timing.",
+          "Next time, ask about unit economics."
+        ]
+      },
+      "instagram": {
+        "caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, e gli investitori ne vogliono ancora. Rivian brucia più cassa di quanti camion venda 💸. Puntava sui mercati da mille miliardi: EV, batterie, guida autonoma. Ma perde soldi su ogni veicolo. Il problema non è il mercato, ma il tempo giusto per entrare ⏳. Se lavori nell'auto o nella finanza, questo cambia come valuti le promesse dei fondatori 🚗. Quanti camion devono vendere prima che il conto torni?"
+      }
+    },
+    "instagram_caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, e gli investitori ne vogliono ancora. Rivian brucia più cassa di quanti camion venda 💸. Puntava sui mercati da mille miliardi: EV, batterie, guida autonoma. Ma perde soldi su ogni veicolo. Il problema non è il mercato, ma il tempo giusto per entrare ⏳. Se lavori nell'auto o nella finanza, questo cambia come valuti le promesse dei fondatori 🚗. Quanti camion devono vendere prima che il conto torni?",
+    "carousel_slides": [
+      {
+        "hook": "$12B later, still bleeding cash",
+        "description": "RJ Scaringe raised $12B. Rivian still burns cash faster than it sells trucks. That's not a startup problem — it's a math problem.",
+        "visual_hint": "burning stack of money",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "burning money fire"
+      },
+      {
+        "hook": "Three trillion-dollar bets",
+        "description": "He built three companies aimed at trillion-dollar markets. EV trucks, battery tech, autonomous driving. Big bets, bigger burn rates.",
+        "visual_hint": "three dominoes falling",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "dominoes falling row",
+        "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Vision funded by faith",
+        "description": "Investors funded the vision. $12B later, Rivian loses money on every vehicle. The story works — until numbers stop adding up.",
+        "visual_hint": "abacus with missing beads",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "abacus broken beads",
+        "image": "https://images.pexels.com/photos/37358629/pexels-photo-37358629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Right market, wrong timing",
+        "description": "You can bet on the right market and still lose. EVs are the future. But timing separates winners from cautionary tales.",
+        "visual_hint": "clock with shattered glass",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "broken clock glass",
+        "image": "https://images.pexels.com/photos/4027301/pexels-photo-4027301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask the real question",
+        "description": "Next time a founder asks for billions, don't ask about the market. Ask how many trucks they must sell before profits appear.",
+        "visual_hint": "question mark on factory wall",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "question mark concrete wall",
+        "image": "https://images.pexels.com/photos/6757691/pexels-photo-6757691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/rj-scaringe.jpeg?resize=1200,900",
+    "savedAt": "2026-05-15T22:45:46.116Z",
+    "sourceId": "db4a531cb91ee4f28dfdaa09296c7f4f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "rj-scaringe-has-raised-more-than-12-billion-across",
     "prompt_version": "1.0.0",
     "status": "published",

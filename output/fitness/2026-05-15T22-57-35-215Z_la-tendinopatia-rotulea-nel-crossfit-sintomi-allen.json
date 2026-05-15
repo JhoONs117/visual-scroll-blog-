@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "la-tendinopatia-rotulea-nel-crossfit-sintomi-allen",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "La tendinopatia rotulea nel crossfit: sintomi, allenamento e cura  ",
+  "link": "https://salute.gazzetta.it/salute/01-02-2022/la-tendinopatia-rotulea-nel-crossfit-sintomi-allenamento-e-cura-58282",
+  "pubDate": "Tue, 1 Feb 2022 10:18:47 +0100",
+  "slides": [
+    "Salta senza dolore: riparti più forte.",
+    "Il ginocchio del crossfitter merita attenzione.",
+    "Stabilizza la rotula con squat isometrico.",
+    "Non ignorare il dolore durante gli atterraggi.",
+    "Oggi: 3x30 sec di wall sit."
+  ],
+  "instagram_caption": "Riparti più forte: salta senza dolore e torna a dominare i WOD. 🦵 Il ginocchio del crossfitter merita cure specifiche, non solo carichi. La tendinopatia rotulea si combatte stabilizzando la rotula con squat isometrici: 3x30 secondi di wall sit, tenendo la schiena ben aderente al muro. Non ignorare mai il dolore durante gli atterraggi — è il tuo corpo che chiede un passo indietro per andare avanti. Prova questo esercizio oggi stesso nel riscaldamento. 💪🔥",
+  "formats": {
+    "instagram": {
+      "caption": "Riparti più forte: salta senza dolore e torna a dominare i WOD. 🦵 Il ginocchio del crossfitter merita cure specifiche, non solo carichi. La tendinopatia rotulea si combatte stabilizzando la rotula con squat isometrici: 3x30 secondi di wall sit, tenendo la schiena ben aderente al muro. Non ignorare mai il dolore durante gli atterraggi — è il tuo corpo che chiede un passo indietro per andare avanti. Prova questo esercizio oggi stesso nel riscaldamento. 💪🔥"
+    },
+    "tiktok": {
+      "script": [
+        "Salta senza dolore: riparti più forte.",
+        "Il ginocchio del crossfitter merita attenzione.",
+        "Stabilizza la rotula con squat isometrico.",
+        "Non ignorare il dolore durante gli atterraggi.",
+        "Oggi: 3x30 sec di wall sit."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Senti dolore al ginocchio quando salti? Non fermarti, ma impara a gestirlo. Il dolore rotuleo è il segnale che il tendine chiede forza, non riposo. Riparti più forte con il giusto approccio. 🏋️",
+        "Il ginocchio del crossfitter subisce stress continuo: squat, box jump, wall ball. Se ignori il dolore negli atterraggi, il tendine s'infiamma e peggiora. La soluzione? Caricare il tendine in modo controllato per stimolare la guarigione.",
+        "L'errore più comune: smettere di allenare la gamba dolorante. Il tendine rotuleo ha bisogno di tensione progressiva per adattarsi. Lo squat isometrico a parete (Wall Sit) stabilizza la rotula e riduce lo stress sul tendine. Provalo.",
+        "Non aspettare che il dolore passi da solo. Ogni salto doloroso è un microtrauma che irrigidisce il tendine. Inizia con esercizi a basso impatto: isometrici e eccentrici. Il controllo del movimento è la tua priorità oggi.",
+        "Oggi inserisci 3 serie da 30 secondi di Wall Sit. Ginocchia a 90°, schiena al muro, piedi larghi. Senti il quadricipite lavorare ma senza dolore al tendine. Prova domani e dimmi com'è andata 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Salta senza dolore: riparti più forte.",
+    "Il ginocchio del crossfitter merita attenzione.",
+    "Stabilizza la rotula con squat isometrico.",
+    "Non ignorare il dolore durante gli atterraggi.",
+    "Oggi: 3x30 sec di wall sit."
+  ],
+  "thread_text": [
+    "Senti dolore al ginocchio quando salti? Non fermarti, ma impara a gestirlo. Il dolore rotuleo è il segnale che il tendine chiede forza, non riposo. Riparti più forte con il giusto approccio. 🏋️",
+    "Il ginocchio del crossfitter subisce stress continuo: squat, box jump, wall ball. Se ignori il dolore negli atterraggi, il tendine s'infiamma e peggiora. La soluzione? Caricare il tendine in modo controllato per stimolare la guarigione.",
+    "L'errore più comune: smettere di allenare la gamba dolorante. Il tendine rotuleo ha bisogno di tensione progressiva per adattarsi. Lo squat isometrico a parete (Wall Sit) stabilizza la rotula e riduce lo stress sul tendine. Provalo.",
+    "Non aspettare che il dolore passi da solo. Ogni salto doloroso è un microtrauma che irrigidisce il tendine. Inizia con esercizi a basso impatto: isometrici e eccentrici. Il controllo del movimento è la tua priorità oggi.",
+    "Oggi inserisci 3 serie da 30 secondi di Wall Sit. Ginocchia a 90°, schiena al muro, piedi larghi. Senti il quadricipite lavorare ma senza dolore al tendine. Prova domani e dimmi com'è andata 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Salta senza dolore.",
+      "description": "Ripartiamo più forti con la giusta strategia per il ginocchio del crossfitter.",
+      "visual_hint": "Atleta salta in palestra",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "crossfit jump box"
+    },
+    {
+      "hook": "Il ginocchio merita attenzione.",
+      "description": "La tendinopatia rotulea non ferma il tuo progresso se sai come gestirla.",
+      "visual_hint": "Primo piano ginocchio fasciato",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "knee brace athlete",
+      "image": "https://images.pexels.com/photos/37234920/pexels-photo-37234920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stabilizza con squat isometrico.",
+      "description": "Un semplice wall sit da 30 secondi carica il tendine senza impatto e riduce il dolore.",
+      "visual_hint": "Atleta fa wall sit",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "wall sit exercise",
+      "image": "https://images.pexels.com/photos/6740055/pexels-photo-6740055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non ignorare gli atterraggi.",
+      "description": "Il dolore durante i drop è un segnale: correggi la tecnica e rinforza la catena cinetica.",
+      "visual_hint": "Atterraggio box jump errato",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "box jump landing",
+      "image": "https://images.pexels.com/photos/29859452/pexels-photo-29859452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Oggi: 3x30 sec wall sit.",
+      "description": "Inizia subito: 3 serie da 30 secondi di isometrico per le ginocchia, a casa o in box.",
+      "visual_hint": "Timer e gambe in posa",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "stopwatch fitness legs",
+      "image": "https://images.pexels.com/photos/13315488/pexels-photo-13315488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2020/09/18/61f63990c51f7.jpeg",
+  "savedAt": "2026-05-15T22:58:09.428Z",
+  "sourceId": "fbea61a1d85ec36e6f1093d615aa310c"
+}

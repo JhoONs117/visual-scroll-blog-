@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "jeff-bezos-mostra-i-muscoli-l-allenamento-e-la-die",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Jeff Bezos mostra i muscoli: l'allenamento e la dieta di Mr Amazon  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/31-01-2022/jeff-bezos-fisico-muscoloso-grazie-qualche-azzardo-ecco-cosa-fa-4301171669232.shtml",
+  "pubDate": "Mon, 31 Jan 2022 09:18:38 +0100",
+  "slides": [
+    "Bezos lo fa, tu puoi.",
+    "Successo parte dal corpo sano.",
+    "Solleva pesi con schiena dritta.",
+    "Non usare slancio per sollevare.",
+    "Oggi 20 minuti di pesi."
+  ],
+  "instagram_caption": "Jeff Bezos ha capito che il corpo è il tempio del business. 🏛️ Se lui trova il tempo per allenarsi, non hai scuse: un fisico sano alimenta ambizione e successo.  \nRicorda: solleva pesi con la schiena dritta e niente slancio per alzare il carico — la tecnica batte l’ego.  \nBastano 20 minuti al giorno per fare la differenza.  \nInizia oggi: prendi un paio di manubri e concentrati su 3 serie da 8 ripetizioni di stacchi rumeni. 🏋️‍♂️  \nProva questo schema domani mattina, prima della tua prima riunione. 🔥",
+  "formats": {
+    "instagram": {
+      "caption": "Jeff Bezos ha capito che il corpo è il tempio del business. 🏛️ Se lui trova il tempo per allenarsi, non hai scuse: un fisico sano alimenta ambizione e successo.  \nRicorda: solleva pesi con la schiena dritta e niente slancio per alzare il carico — la tecnica batte l’ego.  \nBastano 20 minuti al giorno per fare la differenza.  \nInizia oggi: prendi un paio di manubri e concentrati su 3 serie da 8 ripetizioni di stacchi rumeni. 🏋️‍♂️  \nProva questo schema domani mattina, prima della tua prima riunione. 🔥"
+    },
+    "tiktok": {
+      "script": [
+        "Bezos ha i muscoli? Anche tu puoi.",
+        "Un corpo sano è la base del successo.",
+        "Solleva pesi, ma tieni la schiena dritta.",
+        "Niente slancio: controlla ogni movimento.",
+        "Oggi bastano 20 minuti di pesi. Vai!"
+      ]
+    },
+    "x": {
+      "thread": [
+        "Jeff Bezos ha speso miliardi per costruire un impero. Ma sa che il vero capitale è un corpo sano. Se lui trova il tempo per allenarsi, tu hai zero scuse. Il successo parte da qui. 💪",
+        "L'allenamento di Mr Amazon è semplice: pesi, 20 minuti, massima intesità. Niente circuiti inutili. Solleva e basta. Il corpo si costruisce con costanza, non con ore in palestra.",
+        "Regola numero 1: schiena dritta sempre. Quando sollevi, immagina una riga di ferro lungo la colonna. Ti pieghi? Addio progressi e ciao infortuni. La tecnica paga.",
+        "Errore comune: usare lo slancio per sollevare peso. Non barare. I muscoli lavorano quando controlli il movimento, non quando lanci il bilanciere. Lentamente e con controllo.",
+        "Thread: oggi 20 minuti di pesi. La prova che pure un CEO da 200 miliardi lo vive. Non hai tempo? Hai 20 minuti. Prova domani e dimmi com'è andata 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Bezos ha i muscoli? Anche tu puoi.",
+    "Un corpo sano è la base del successo.",
+    "Solleva pesi, ma tieni la schiena dritta.",
+    "Niente slancio: controlla ogni movimento.",
+    "Oggi bastano 20 minuti di pesi. Vai!"
+  ],
+  "thread_text": [
+    "Jeff Bezos ha speso miliardi per costruire un impero. Ma sa che il vero capitale è un corpo sano. Se lui trova il tempo per allenarsi, tu hai zero scuse. Il successo parte da qui. 💪",
+    "L'allenamento di Mr Amazon è semplice: pesi, 20 minuti, massima intesità. Niente circuiti inutili. Solleva e basta. Il corpo si costruisce con costanza, non con ore in palestra.",
+    "Regola numero 1: schiena dritta sempre. Quando sollevi, immagina una riga di ferro lungo la colonna. Ti pieghi? Addio progressi e ciao infortuni. La tecnica paga.",
+    "Errore comune: usare lo slancio per sollevare peso. Non barare. I muscoli lavorano quando controlli il movimento, non quando lanci il bilanciere. Lentamente e con controllo.",
+    "Thread: oggi 20 minuti di pesi. La prova che pure un CEO da 200 miliardi lo vive. Non hai tempo? Hai 20 minuti. Prova domani e dimmi com'è andata 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Jeff Bezos mostra i muscoli",
+      "description": "Ispirati al CEO di Amazon: un corpo sano è la base del successo imprenditoriale.",
+      "visual_hint": "Bezos palestra sorridente",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Jeff Bezos gym"
+    },
+    {
+      "hook": "Successo parte dal corpo sano",
+      "description": "Mente lucida e energia per scalare qualsiasi montagna: il benessere fisico guida i risultati.",
+      "visual_hint": "uomo energia successo",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "man power success",
+      "image": "https://images.pexels.com/photos/7793634/pexels-photo-7793634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Solleva con schiena dritta",
+      "description": "Proteggi la colonna e attiva i muscoli giusti: schiena neutra per sollevamenti sicuri ed efficaci.",
+      "visual_hint": "schiena dritta stacco",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "deadlift straight back",
+      "image": "https://images.pexels.com/photos/5837307/pexels-photo-5837307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Mai usare slancio",
+      "description": "Errore comune: slancio e rimbalzi. Correggi con movimenti controllati e lenti per massimizzare la tensione muscolare.",
+      "visual_hint": "slancio errore correzione",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "controlled weight lifting",
+      "image": "https://images.pexels.com/photos/5580068/pexels-photo-5580068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Oggi 20 minuti di pesi",
+      "description": "Inizia subito: 20 minuti di pesi base, senza scuse. Il tempo minimo per risultati massimi.",
+      "visual_hint": "orologio 20 minuti",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "gym timer weights",
+      "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c806ac0e9.png",
+  "savedAt": "2026-05-15T22:58:25.062Z",
+  "sourceId": "202eb40b574be22b4917bc21399f9e99"
+}

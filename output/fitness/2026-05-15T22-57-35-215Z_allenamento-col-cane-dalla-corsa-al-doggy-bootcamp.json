@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "allenamento-col-cane-dalla-corsa-al-doggy-bootcamp",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Allenamento col cane: dalla corsa al doggy bootcamp, dal canicross alla dog dance  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/01-02-2022/dog-fitness-ecco-tutti-tipi-allenamento-il-cane-4301167612301.shtml",
+  "pubDate": "Tue, 1 Feb 2022 10:44:31 +0100",
+  "slides": [
+    "Il tuo cane ti aspetta: muoviti insieme.",
+    "Gioco e fitness raddoppiano motivazione e divertimento.",
+    "Tieni il guinzaglio lento, mai tirare indietro.",
+    "Non tirare il cane: lascialo correre davanti.",
+    "Oggi porta il cane a correre 10 minuti."
+  ],
+  "instagram_caption": "Il tuo cane ti aspetta con la coda che scodinzola: quel 10 minuti di corsa insieme vale più di un’ora in palestra. 🐾  \nAllenarsi con lui raddoppia motivazione e divertimento: dal canicross alla dog dance, ogni momento è gioco e fitness.  \nTieni il guinzaglio morbido e lascialo correre davanti: mai tirare indietro, il movimento dev’essere fluido e naturale.  \nOggi prova a portarlo fuori per una corsa leggera di 10 minuti.  \nPrepara il guinzaglio e parti con il tuo compagno a quattro zampe domani mattina 💪",
+  "formats": {
+    "instagram": {
+      "caption": "Il tuo cane ti aspetta con la coda che scodinzola: quel 10 minuti di corsa insieme vale più di un’ora in palestra. 🐾  \nAllenarsi con lui raddoppia motivazione e divertimento: dal canicross alla dog dance, ogni momento è gioco e fitness.  \nTieni il guinzaglio morbido e lascialo correre davanti: mai tirare indietro, il movimento dev’essere fluido e naturale.  \nOggi prova a portarlo fuori per una corsa leggera di 10 minuti.  \nPrepara il guinzaglio e parti con il tuo compagno a quattro zampe domani mattina 💪"
+    },
+    "tiktok": {
+      "script": [
+        "Il tuo cane ti aspetta: muoviti insieme.",
+        "Gioco e fitness raddoppiano motivazione e divertimento.",
+        "Tieni il guinzaglio lento, mai tirare indietro.",
+        "Non tirare il cane: lascialo correre davanti.",
+        "Oggi porta il cane a correre 10 minuti."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Il tuo cane ti aspetta in casa con la coda che scodinzola. Non per una passeggiata noiosa. Per un allenamento insieme. Corsa, giochi, sfide. Addestri il suo corpo e il tuo. E la motivazione raddoppia.",
+        "Gioca e muoviti: Doggy bootcamp, canicross o semplici scatti nel parco. Il cane ti segue e si diverte. Tu bruci calorie, lui si stanca. Il segreto? Il guinzaglio lungo e morbido mai a strappo. Lascia che sia lui a guidare.",
+        "Errore comune: tirare indietro il cane quando accelera. Sbagliato. Se tiri, lo blocchi e perdi ritmo. Lascialo correre davanti, con il guinzaglio lento. Lui si sente libero, tu corri più sciolto. Il cane non è un freno, è il motore.",
+        "Niente strattoni. Il canicross insegna: il cane trainatore dà potenza, tu regoli. Se tiri, lo confondi. Se lo lasci correre, sincronizzi fiato e passo. La dog dance? Dopo la corsa, qualche comando giocoso allunga il workout. Mai tensioni, solo fluidità.",
+        "Oggi test: porta il cane a correre per 10 minuti. Guinzaglio lento, lui davanti, tu dietro. Niente strappi, solo ritmo. Finito? Una coccola e via. Ripeti domani. Scrivimi qui sotto come è andata: storie e dubbi li leggo tutti."
+      ]
+    }
+  },
+  "video_script": [
+    "Il tuo cane ti aspetta: muoviti insieme.",
+    "Gioco e fitness raddoppiano motivazione e divertimento.",
+    "Tieni il guinzaglio lento, mai tirare indietro.",
+    "Non tirare il cane: lascialo correre davanti.",
+    "Oggi porta il cane a correre 10 minuti."
+  ],
+  "thread_text": [
+    "Il tuo cane ti aspetta in casa con la coda che scodinzola. Non per una passeggiata noiosa. Per un allenamento insieme. Corsa, giochi, sfide. Addestri il suo corpo e il tuo. E la motivazione raddoppia.",
+    "Gioca e muoviti: Doggy bootcamp, canicross o semplici scatti nel parco. Il cane ti segue e si diverte. Tu bruci calorie, lui si stanca. Il segreto? Il guinzaglio lungo e morbido mai a strappo. Lascia che sia lui a guidare.",
+    "Errore comune: tirare indietro il cane quando accelera. Sbagliato. Se tiri, lo blocchi e perdi ritmo. Lascialo correre davanti, con il guinzaglio lento. Lui si sente libero, tu corri più sciolto. Il cane non è un freno, è il motore.",
+    "Niente strattoni. Il canicross insegna: il cane trainatore dà potenza, tu regoli. Se tiri, lo confondi. Se lo lasci correre, sincronizzi fiato e passo. La dog dance? Dopo la corsa, qualche comando giocoso allunga il workout. Mai tensioni, solo fluidità.",
+    "Oggi test: porta il cane a correre per 10 minuti. Guinzaglio lento, lui davanti, tu dietro. Niente strappi, solo ritmo. Finito? Una coccola e via. Ripeti domani. Scrivimi qui sotto come è andata: storie e dubbi li leggo tutti."
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Muoviti col tuo cane",
+      "description": "Unisci gioco e fitness: raddoppi motivazione e divertimento per te e il tuo cane.",
+      "visual_hint": "Persona e cane corrono insieme",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "dog running with owner"
+    },
+    {
+      "hook": "Fitness a 4 zampe",
+      "description": "Correre col cane aumenta l'impegno fisico e rafforza il legame. Divertimento assicurato.",
+      "visual_hint": "Cane scodinzola felice",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "dog jogging park joy",
+      "image": "https://images.pexels.com/photos/5255557/pexels-photo-5255557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Guinzaglio sempre lento",
+      "description": "Mantieni il guinzaglio morbido per non strattonare. Il cane guida, tu segui il ritmo.",
+      "visual_hint": "Guinzaglio allentato in mano",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "loose leash hand running",
+      "image": "https://images.pexels.com/photos/6089707/pexels-photo-6089707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Errore: tirare indietro",
+      "description": "Non tirare il cane verso di te. Lascialo correre davanti per maggiore naturalezza e sicurezza.",
+      "visual_hint": "Cane corre avanti al guinzaglio",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "dog pulling ahead owner",
+      "image": "https://images.pexels.com/photos/10419868/pexels-photo-10419868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Oggi 10 minuti insieme",
+      "description": "Porta il cane a correre 10 minuti. Un piccolo passo per voi, un grande salto nel benessere.",
+      "visual_hint": "Orologio da polso e guinzaglio",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "dog running track 10min",
+      "image": "https://images.pexels.com/photos/8533489/pexels-photo-8533489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cc1cd34ff.jpeg",
+  "savedAt": "2026-05-15T22:57:52.321Z",
+  "sourceId": "91bf720d5e86c1d2601784c1d0504006"
+}

@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "rj-scaringe-has-raised-more-than-12b-across-three-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
+      "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
+      "pubDate": "Fri, 15 May 2026 20:30:20 +0000",
+      "slides": [
+        "RJ Scaringe raised $12B, yet investors demand more.",
+        "His three startups each targeted trillion-dollar markets.",
+        "But Rivian still burns cash faster than it sells trucks.",
+        "You can bet on EVs and still lose—timing is everything.",
+        "Next time a founder asks for billions, ask why."
+      ],
+      "thread_text": [
+        "RJ Scaringe raised $12 billion. Rivian still burns cash faster than it sells trucks. That's not a startup problem. That's a math problem.",
+        "He built three companies, each aimed at trillion-dollar markets. EV trucks. Battery tech. Autonomous driving. Big bets. Bigger burn rates.",
+        "Investors kept funding the vision. $12B later, Rivian loses money on every vehicle. The story still works – until the numbers stop adding up.",
+        "You can bet on the right market and still lose. Electric vehicles are the future. But timing is the difference between a winner and a cautionary tale.",
+        "Next time a founder asks for billions, don't ask about the market. Ask how many trucks they need to sell before they stop losing money per truck."
+      ],
+      "video_script": [
+        "Twelve billion dollars raised.",
+        "Three companies, trillion-dollar markets each.",
+        "Rivian still burns cash on every truck.",
+        "Right bet, wrong timing.",
+        "Next time, ask about unit economics."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "RJ Scaringe raised $12 billion. Rivian still burns cash faster than it sells trucks. That's not a startup problem. That's a math problem.",
+            "He built three companies, each aimed at trillion-dollar markets. EV trucks. Battery tech. Autonomous driving. Big bets. Bigger burn rates.",
+            "Investors kept funding the vision. $12B later, Rivian loses money on every vehicle. The story still works – until the numbers stop adding up.",
+            "You can bet on the right market and still lose. Electric vehicles are the future. But timing is the difference between a winner and a cautionary tale.",
+            "Next time a founder asks for billions, don't ask about the market. Ask how many trucks they need to sell before they stop losing money per truck."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Twelve billion dollars raised.",
+            "Three companies, trillion-dollar markets each.",
+            "Rivian still burns cash on every truck.",
+            "Right bet, wrong timing.",
+            "Next time, ask about unit economics."
+          ]
+        },
+        "instagram": {
+          "caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, e gli investitori ne vogliono ancora. Rivian brucia più cassa di quanti camion venda 💸. Puntava sui mercati da mille miliardi: EV, batterie, guida autonoma. Ma perde soldi su ogni veicolo. Il problema non è il mercato, ma il tempo giusto per entrare ⏳. Se lavori nell'auto o nella finanza, questo cambia come valuti le promesse dei fondatori 🚗. Quanti camion devono vendere prima che il conto torni?"
+        }
+      },
+      "instagram_caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, e gli investitori ne vogliono ancora. Rivian brucia più cassa di quanti camion venda 💸. Puntava sui mercati da mille miliardi: EV, batterie, guida autonoma. Ma perde soldi su ogni veicolo. Il problema non è il mercato, ma il tempo giusto per entrare ⏳. Se lavori nell'auto o nella finanza, questo cambia come valuti le promesse dei fondatori 🚗. Quanti camion devono vendere prima che il conto torni?",
+      "carousel_slides": [
+        {
+          "hook": "$12B later, still bleeding cash",
+          "description": "RJ Scaringe raised $12B. Rivian still burns cash faster than it sells trucks. That's not a startup problem — it's a math problem.",
+          "visual_hint": "burning stack of money",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "burning money fire"
+        },
+        {
+          "hook": "Three trillion-dollar bets",
+          "description": "He built three companies aimed at trillion-dollar markets. EV trucks, battery tech, autonomous driving. Big bets, bigger burn rates.",
+          "visual_hint": "three dominoes falling",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "dominoes falling row",
+          "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Vision funded by faith",
+          "description": "Investors funded the vision. $12B later, Rivian loses money on every vehicle. The story works — until numbers stop adding up.",
+          "visual_hint": "abacus with missing beads",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "abacus broken beads",
+          "image": "https://images.pexels.com/photos/37358629/pexels-photo-37358629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Right market, wrong timing",
+          "description": "You can bet on the right market and still lose. EVs are the future. But timing separates winners from cautionary tales.",
+          "visual_hint": "clock with shattered glass",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "broken clock glass",
+          "image": "https://images.pexels.com/photos/4027301/pexels-photo-4027301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask the real question",
+          "description": "Next time a founder asks for billions, don't ask about the market. Ask how many trucks they must sell before profits appear.",
+          "visual_hint": "question mark on factory wall",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "question mark concrete wall",
+          "image": "https://images.pexels.com/photos/6757691/pexels-photo-6757691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/rj-scaringe.jpeg?resize=1200,900",
+      "savedAt": "2026-05-15T22:45:46.116Z",
+      "sourceId": "db4a531cb91ee4f28dfdaa09296c7f4f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "rj-scaringe-has-raised-more-than-12-billion-across",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -19412,6 +19516,318 @@ window.AGENTS = {
     }
   ],
   "fitness": [
+    {
+      "schema_version": 2,
+      "agent": "fitness",
+      "slug": "jeff-bezos-mostra-i-muscoli-l-allenamento-e-la-die",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Jeff Bezos mostra i muscoli: l'allenamento e la dieta di Mr Amazon  ",
+      "link": "https://www.gazzetta.it/fitness/allenamento/31-01-2022/jeff-bezos-fisico-muscoloso-grazie-qualche-azzardo-ecco-cosa-fa-4301171669232.shtml",
+      "pubDate": "Mon, 31 Jan 2022 09:18:38 +0100",
+      "slides": [
+        "Bezos lo fa, tu puoi.",
+        "Successo parte dal corpo sano.",
+        "Solleva pesi con schiena dritta.",
+        "Non usare slancio per sollevare.",
+        "Oggi 20 minuti di pesi."
+      ],
+      "instagram_caption": "Jeff Bezos ha capito che il corpo è il tempio del business. 🏛️ Se lui trova il tempo per allenarsi, non hai scuse: un fisico sano alimenta ambizione e successo.  \nRicorda: solleva pesi con la schiena dritta e niente slancio per alzare il carico — la tecnica batte l’ego.  \nBastano 20 minuti al giorno per fare la differenza.  \nInizia oggi: prendi un paio di manubri e concentrati su 3 serie da 8 ripetizioni di stacchi rumeni. 🏋️‍♂️  \nProva questo schema domani mattina, prima della tua prima riunione. 🔥",
+      "formats": {
+        "instagram": {
+          "caption": "Jeff Bezos ha capito che il corpo è il tempio del business. 🏛️ Se lui trova il tempo per allenarsi, non hai scuse: un fisico sano alimenta ambizione e successo.  \nRicorda: solleva pesi con la schiena dritta e niente slancio per alzare il carico — la tecnica batte l’ego.  \nBastano 20 minuti al giorno per fare la differenza.  \nInizia oggi: prendi un paio di manubri e concentrati su 3 serie da 8 ripetizioni di stacchi rumeni. 🏋️‍♂️  \nProva questo schema domani mattina, prima della tua prima riunione. 🔥"
+        },
+        "tiktok": {
+          "script": [
+            "Bezos ha i muscoli? Anche tu puoi.",
+            "Un corpo sano è la base del successo.",
+            "Solleva pesi, ma tieni la schiena dritta.",
+            "Niente slancio: controlla ogni movimento.",
+            "Oggi bastano 20 minuti di pesi. Vai!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Jeff Bezos ha speso miliardi per costruire un impero. Ma sa che il vero capitale è un corpo sano. Se lui trova il tempo per allenarsi, tu hai zero scuse. Il successo parte da qui. 💪",
+            "L'allenamento di Mr Amazon è semplice: pesi, 20 minuti, massima intesità. Niente circuiti inutili. Solleva e basta. Il corpo si costruisce con costanza, non con ore in palestra.",
+            "Regola numero 1: schiena dritta sempre. Quando sollevi, immagina una riga di ferro lungo la colonna. Ti pieghi? Addio progressi e ciao infortuni. La tecnica paga.",
+            "Errore comune: usare lo slancio per sollevare peso. Non barare. I muscoli lavorano quando controlli il movimento, non quando lanci il bilanciere. Lentamente e con controllo.",
+            "Thread: oggi 20 minuti di pesi. La prova che pure un CEO da 200 miliardi lo vive. Non hai tempo? Hai 20 minuti. Prova domani e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Bezos ha i muscoli? Anche tu puoi.",
+        "Un corpo sano è la base del successo.",
+        "Solleva pesi, ma tieni la schiena dritta.",
+        "Niente slancio: controlla ogni movimento.",
+        "Oggi bastano 20 minuti di pesi. Vai!"
+      ],
+      "thread_text": [
+        "Jeff Bezos ha speso miliardi per costruire un impero. Ma sa che il vero capitale è un corpo sano. Se lui trova il tempo per allenarsi, tu hai zero scuse. Il successo parte da qui. 💪",
+        "L'allenamento di Mr Amazon è semplice: pesi, 20 minuti, massima intesità. Niente circuiti inutili. Solleva e basta. Il corpo si costruisce con costanza, non con ore in palestra.",
+        "Regola numero 1: schiena dritta sempre. Quando sollevi, immagina una riga di ferro lungo la colonna. Ti pieghi? Addio progressi e ciao infortuni. La tecnica paga.",
+        "Errore comune: usare lo slancio per sollevare peso. Non barare. I muscoli lavorano quando controlli il movimento, non quando lanci il bilanciere. Lentamente e con controllo.",
+        "Thread: oggi 20 minuti di pesi. La prova che pure un CEO da 200 miliardi lo vive. Non hai tempo? Hai 20 minuti. Prova domani e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Jeff Bezos mostra i muscoli",
+          "description": "Ispirati al CEO di Amazon: un corpo sano è la base del successo imprenditoriale.",
+          "visual_hint": "Bezos palestra sorridente",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Jeff Bezos gym"
+        },
+        {
+          "hook": "Successo parte dal corpo sano",
+          "description": "Mente lucida e energia per scalare qualsiasi montagna: il benessere fisico guida i risultati.",
+          "visual_hint": "uomo energia successo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "man power success",
+          "image": "https://images.pexels.com/photos/7793634/pexels-photo-7793634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Solleva con schiena dritta",
+          "description": "Proteggi la colonna e attiva i muscoli giusti: schiena neutra per sollevamenti sicuri ed efficaci.",
+          "visual_hint": "schiena dritta stacco",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "deadlift straight back",
+          "image": "https://images.pexels.com/photos/5837307/pexels-photo-5837307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Mai usare slancio",
+          "description": "Errore comune: slancio e rimbalzi. Correggi con movimenti controllati e lenti per massimizzare la tensione muscolare.",
+          "visual_hint": "slancio errore correzione",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "controlled weight lifting",
+          "image": "https://images.pexels.com/photos/5580068/pexels-photo-5580068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Oggi 20 minuti di pesi",
+          "description": "Inizia subito: 20 minuti di pesi base, senza scuse. Il tempo minimo per risultati massimi.",
+          "visual_hint": "orologio 20 minuti",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "gym timer weights",
+          "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c806ac0e9.png",
+      "savedAt": "2026-05-15T22:58:25.062Z",
+      "sourceId": "202eb40b574be22b4917bc21399f9e99"
+    },
+    {
+      "schema_version": 2,
+      "agent": "fitness",
+      "slug": "la-tendinopatia-rotulea-nel-crossfit-sintomi-allen",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "La tendinopatia rotulea nel crossfit: sintomi, allenamento e cura  ",
+      "link": "https://salute.gazzetta.it/salute/01-02-2022/la-tendinopatia-rotulea-nel-crossfit-sintomi-allenamento-e-cura-58282",
+      "pubDate": "Tue, 1 Feb 2022 10:18:47 +0100",
+      "slides": [
+        "Salta senza dolore: riparti più forte.",
+        "Il ginocchio del crossfitter merita attenzione.",
+        "Stabilizza la rotula con squat isometrico.",
+        "Non ignorare il dolore durante gli atterraggi.",
+        "Oggi: 3x30 sec di wall sit."
+      ],
+      "instagram_caption": "Riparti più forte: salta senza dolore e torna a dominare i WOD. 🦵 Il ginocchio del crossfitter merita cure specifiche, non solo carichi. La tendinopatia rotulea si combatte stabilizzando la rotula con squat isometrici: 3x30 secondi di wall sit, tenendo la schiena ben aderente al muro. Non ignorare mai il dolore durante gli atterraggi — è il tuo corpo che chiede un passo indietro per andare avanti. Prova questo esercizio oggi stesso nel riscaldamento. 💪🔥",
+      "formats": {
+        "instagram": {
+          "caption": "Riparti più forte: salta senza dolore e torna a dominare i WOD. 🦵 Il ginocchio del crossfitter merita cure specifiche, non solo carichi. La tendinopatia rotulea si combatte stabilizzando la rotula con squat isometrici: 3x30 secondi di wall sit, tenendo la schiena ben aderente al muro. Non ignorare mai il dolore durante gli atterraggi — è il tuo corpo che chiede un passo indietro per andare avanti. Prova questo esercizio oggi stesso nel riscaldamento. 💪🔥"
+        },
+        "tiktok": {
+          "script": [
+            "Salta senza dolore: riparti più forte.",
+            "Il ginocchio del crossfitter merita attenzione.",
+            "Stabilizza la rotula con squat isometrico.",
+            "Non ignorare il dolore durante gli atterraggi.",
+            "Oggi: 3x30 sec di wall sit."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Senti dolore al ginocchio quando salti? Non fermarti, ma impara a gestirlo. Il dolore rotuleo è il segnale che il tendine chiede forza, non riposo. Riparti più forte con il giusto approccio. 🏋️",
+            "Il ginocchio del crossfitter subisce stress continuo: squat, box jump, wall ball. Se ignori il dolore negli atterraggi, il tendine s'infiamma e peggiora. La soluzione? Caricare il tendine in modo controllato per stimolare la guarigione.",
+            "L'errore più comune: smettere di allenare la gamba dolorante. Il tendine rotuleo ha bisogno di tensione progressiva per adattarsi. Lo squat isometrico a parete (Wall Sit) stabilizza la rotula e riduce lo stress sul tendine. Provalo.",
+            "Non aspettare che il dolore passi da solo. Ogni salto doloroso è un microtrauma che irrigidisce il tendine. Inizia con esercizi a basso impatto: isometrici e eccentrici. Il controllo del movimento è la tua priorità oggi.",
+            "Oggi inserisci 3 serie da 30 secondi di Wall Sit. Ginocchia a 90°, schiena al muro, piedi larghi. Senti il quadricipite lavorare ma senza dolore al tendine. Prova domani e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Salta senza dolore: riparti più forte.",
+        "Il ginocchio del crossfitter merita attenzione.",
+        "Stabilizza la rotula con squat isometrico.",
+        "Non ignorare il dolore durante gli atterraggi.",
+        "Oggi: 3x30 sec di wall sit."
+      ],
+      "thread_text": [
+        "Senti dolore al ginocchio quando salti? Non fermarti, ma impara a gestirlo. Il dolore rotuleo è il segnale che il tendine chiede forza, non riposo. Riparti più forte con il giusto approccio. 🏋️",
+        "Il ginocchio del crossfitter subisce stress continuo: squat, box jump, wall ball. Se ignori il dolore negli atterraggi, il tendine s'infiamma e peggiora. La soluzione? Caricare il tendine in modo controllato per stimolare la guarigione.",
+        "L'errore più comune: smettere di allenare la gamba dolorante. Il tendine rotuleo ha bisogno di tensione progressiva per adattarsi. Lo squat isometrico a parete (Wall Sit) stabilizza la rotula e riduce lo stress sul tendine. Provalo.",
+        "Non aspettare che il dolore passi da solo. Ogni salto doloroso è un microtrauma che irrigidisce il tendine. Inizia con esercizi a basso impatto: isometrici e eccentrici. Il controllo del movimento è la tua priorità oggi.",
+        "Oggi inserisci 3 serie da 30 secondi di Wall Sit. Ginocchia a 90°, schiena al muro, piedi larghi. Senti il quadricipite lavorare ma senza dolore al tendine. Prova domani e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Salta senza dolore.",
+          "description": "Ripartiamo più forti con la giusta strategia per il ginocchio del crossfitter.",
+          "visual_hint": "Atleta salta in palestra",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "crossfit jump box"
+        },
+        {
+          "hook": "Il ginocchio merita attenzione.",
+          "description": "La tendinopatia rotulea non ferma il tuo progresso se sai come gestirla.",
+          "visual_hint": "Primo piano ginocchio fasciato",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "knee brace athlete",
+          "image": "https://images.pexels.com/photos/37234920/pexels-photo-37234920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stabilizza con squat isometrico.",
+          "description": "Un semplice wall sit da 30 secondi carica il tendine senza impatto e riduce il dolore.",
+          "visual_hint": "Atleta fa wall sit",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "wall sit exercise",
+          "image": "https://images.pexels.com/photos/6740055/pexels-photo-6740055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non ignorare gli atterraggi.",
+          "description": "Il dolore durante i drop è un segnale: correggi la tecnica e rinforza la catena cinetica.",
+          "visual_hint": "Atterraggio box jump errato",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "box jump landing",
+          "image": "https://images.pexels.com/photos/29859452/pexels-photo-29859452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Oggi: 3x30 sec wall sit.",
+          "description": "Inizia subito: 3 serie da 30 secondi di isometrico per le ginocchia, a casa o in box.",
+          "visual_hint": "Timer e gambe in posa",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "stopwatch fitness legs",
+          "image": "https://images.pexels.com/photos/13315488/pexels-photo-13315488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2020/09/18/61f63990c51f7.jpeg",
+      "savedAt": "2026-05-15T22:58:09.428Z",
+      "sourceId": "fbea61a1d85ec36e6f1093d615aa310c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "fitness",
+      "slug": "allenamento-col-cane-dalla-corsa-al-doggy-bootcamp",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Allenamento col cane: dalla corsa al doggy bootcamp, dal canicross alla dog dance  ",
+      "link": "https://www.gazzetta.it/fitness/allenamento/01-02-2022/dog-fitness-ecco-tutti-tipi-allenamento-il-cane-4301167612301.shtml",
+      "pubDate": "Tue, 1 Feb 2022 10:44:31 +0100",
+      "slides": [
+        "Il tuo cane ti aspetta: muoviti insieme.",
+        "Gioco e fitness raddoppiano motivazione e divertimento.",
+        "Tieni il guinzaglio lento, mai tirare indietro.",
+        "Non tirare il cane: lascialo correre davanti.",
+        "Oggi porta il cane a correre 10 minuti."
+      ],
+      "instagram_caption": "Il tuo cane ti aspetta con la coda che scodinzola: quel 10 minuti di corsa insieme vale più di un’ora in palestra. 🐾  \nAllenarsi con lui raddoppia motivazione e divertimento: dal canicross alla dog dance, ogni momento è gioco e fitness.  \nTieni il guinzaglio morbido e lascialo correre davanti: mai tirare indietro, il movimento dev’essere fluido e naturale.  \nOggi prova a portarlo fuori per una corsa leggera di 10 minuti.  \nPrepara il guinzaglio e parti con il tuo compagno a quattro zampe domani mattina 💪",
+      "formats": {
+        "instagram": {
+          "caption": "Il tuo cane ti aspetta con la coda che scodinzola: quel 10 minuti di corsa insieme vale più di un’ora in palestra. 🐾  \nAllenarsi con lui raddoppia motivazione e divertimento: dal canicross alla dog dance, ogni momento è gioco e fitness.  \nTieni il guinzaglio morbido e lascialo correre davanti: mai tirare indietro, il movimento dev’essere fluido e naturale.  \nOggi prova a portarlo fuori per una corsa leggera di 10 minuti.  \nPrepara il guinzaglio e parti con il tuo compagno a quattro zampe domani mattina 💪"
+        },
+        "tiktok": {
+          "script": [
+            "Il tuo cane ti aspetta: muoviti insieme.",
+            "Gioco e fitness raddoppiano motivazione e divertimento.",
+            "Tieni il guinzaglio lento, mai tirare indietro.",
+            "Non tirare il cane: lascialo correre davanti.",
+            "Oggi porta il cane a correre 10 minuti."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Il tuo cane ti aspetta in casa con la coda che scodinzola. Non per una passeggiata noiosa. Per un allenamento insieme. Corsa, giochi, sfide. Addestri il suo corpo e il tuo. E la motivazione raddoppia.",
+            "Gioca e muoviti: Doggy bootcamp, canicross o semplici scatti nel parco. Il cane ti segue e si diverte. Tu bruci calorie, lui si stanca. Il segreto? Il guinzaglio lungo e morbido mai a strappo. Lascia che sia lui a guidare.",
+            "Errore comune: tirare indietro il cane quando accelera. Sbagliato. Se tiri, lo blocchi e perdi ritmo. Lascialo correre davanti, con il guinzaglio lento. Lui si sente libero, tu corri più sciolto. Il cane non è un freno, è il motore.",
+            "Niente strattoni. Il canicross insegna: il cane trainatore dà potenza, tu regoli. Se tiri, lo confondi. Se lo lasci correre, sincronizzi fiato e passo. La dog dance? Dopo la corsa, qualche comando giocoso allunga il workout. Mai tensioni, solo fluidità.",
+            "Oggi test: porta il cane a correre per 10 minuti. Guinzaglio lento, lui davanti, tu dietro. Niente strappi, solo ritmo. Finito? Una coccola e via. Ripeti domani. Scrivimi qui sotto come è andata: storie e dubbi li leggo tutti."
+          ]
+        }
+      },
+      "video_script": [
+        "Il tuo cane ti aspetta: muoviti insieme.",
+        "Gioco e fitness raddoppiano motivazione e divertimento.",
+        "Tieni il guinzaglio lento, mai tirare indietro.",
+        "Non tirare il cane: lascialo correre davanti.",
+        "Oggi porta il cane a correre 10 minuti."
+      ],
+      "thread_text": [
+        "Il tuo cane ti aspetta in casa con la coda che scodinzola. Non per una passeggiata noiosa. Per un allenamento insieme. Corsa, giochi, sfide. Addestri il suo corpo e il tuo. E la motivazione raddoppia.",
+        "Gioca e muoviti: Doggy bootcamp, canicross o semplici scatti nel parco. Il cane ti segue e si diverte. Tu bruci calorie, lui si stanca. Il segreto? Il guinzaglio lungo e morbido mai a strappo. Lascia che sia lui a guidare.",
+        "Errore comune: tirare indietro il cane quando accelera. Sbagliato. Se tiri, lo blocchi e perdi ritmo. Lascialo correre davanti, con il guinzaglio lento. Lui si sente libero, tu corri più sciolto. Il cane non è un freno, è il motore.",
+        "Niente strattoni. Il canicross insegna: il cane trainatore dà potenza, tu regoli. Se tiri, lo confondi. Se lo lasci correre, sincronizzi fiato e passo. La dog dance? Dopo la corsa, qualche comando giocoso allunga il workout. Mai tensioni, solo fluidità.",
+        "Oggi test: porta il cane a correre per 10 minuti. Guinzaglio lento, lui davanti, tu dietro. Niente strappi, solo ritmo. Finito? Una coccola e via. Ripeti domani. Scrivimi qui sotto come è andata: storie e dubbi li leggo tutti."
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Muoviti col tuo cane",
+          "description": "Unisci gioco e fitness: raddoppi motivazione e divertimento per te e il tuo cane.",
+          "visual_hint": "Persona e cane corrono insieme",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "dog running with owner"
+        },
+        {
+          "hook": "Fitness a 4 zampe",
+          "description": "Correre col cane aumenta l'impegno fisico e rafforza il legame. Divertimento assicurato.",
+          "visual_hint": "Cane scodinzola felice",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "dog jogging park joy",
+          "image": "https://images.pexels.com/photos/5255557/pexels-photo-5255557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Guinzaglio sempre lento",
+          "description": "Mantieni il guinzaglio morbido per non strattonare. Il cane guida, tu segui il ritmo.",
+          "visual_hint": "Guinzaglio allentato in mano",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "loose leash hand running",
+          "image": "https://images.pexels.com/photos/6089707/pexels-photo-6089707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Errore: tirare indietro",
+          "description": "Non tirare il cane verso di te. Lascialo correre davanti per maggiore naturalezza e sicurezza.",
+          "visual_hint": "Cane corre avanti al guinzaglio",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "dog pulling ahead owner",
+          "image": "https://images.pexels.com/photos/10419868/pexels-photo-10419868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Oggi 10 minuti insieme",
+          "description": "Porta il cane a correre 10 minuti. Un piccolo passo per voi, un grande salto nel benessere.",
+          "visual_hint": "Orologio da polso e guinzaglio",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "dog running track 10min",
+          "image": "https://images.pexels.com/photos/8533489/pexels-photo-8533489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cc1cd34ff.jpeg",
+      "savedAt": "2026-05-15T22:57:52.321Z",
+      "sourceId": "91bf720d5e86c1d2601784c1d0504006"
+    },
     {
       "schema_version": 2,
       "agent": "fitness",
