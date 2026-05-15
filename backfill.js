@@ -39,6 +39,10 @@ function slug(title) {
 
   for (const { file, full } of todo) {
     const article = JSON.parse(fs.readFileSync(full, 'utf8'));
+    if (article.schema_version === 2) {
+      process.stderr.write(`⚠️  SKIP ${file} — schema v2 (usa migrate-schema.js o il nuovo runner)\n`);
+      continue;
+    }
     const key = slug(article.title || '');
     process.stdout.write(`[${fromCache + fromApi + fail + 1}/${todo.length}] ${article.title.slice(0, 55)}... `);
 
@@ -79,6 +83,10 @@ function slug(title) {
 
   for (const { full } of todoCaption) {
     const article = JSON.parse(fs.readFileSync(full, 'utf8'));
+    if (article.schema_version === 2) {
+      process.stderr.write(`⚠️  SKIP ${path.basename(full)} — schema v2 (usa migrate-schema.js o il nuovo runner)\n`);
+      continue;
+    }
     process.stdout.write(`[caption] ${article.title.slice(0, 55)}... `);
     const caption = await generateAINewsCaption(article.title, article.slides, article.thread_text);
     if (caption) {

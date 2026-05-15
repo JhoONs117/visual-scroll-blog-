@@ -36,7 +36,11 @@ function buildDataJs(articles) {
 
   let ok = 0, fail = 0;
 
-  for (const { full, data } of unique) {
+  for (const { file, full, data } of unique) {
+    if (data.schema_version === 2) {
+      process.stderr.write(`⚠️  SKIP ${file} — schema v2 (usa migrate-schema.js o il nuovo runner)\n`);
+      continue;
+    }
     process.stdout.write(`[${ok + fail + 1}/${unique.length}] ${(data.title || '').slice(0, 60)}... `);
 
     const slides = await generateSlides(data.title);

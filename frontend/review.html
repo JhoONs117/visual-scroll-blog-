@@ -5,11 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Review — AI Scroll Blog</title>
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
 
     body {
       background: #0f1117;
@@ -26,7 +22,7 @@
       padding: 8px 20px;
       display: flex;
       align-items: center;
-      gap: 14px;
+      gap: 10px;
       position: sticky;
       top: 0;
       z-index: 10;
@@ -46,6 +42,7 @@
       appearance: none;
     }
     .review-agent-sel option { background: #0d1120; }
+    .header-sep { width: 1px; height: 18px; background: rgba(255,255,255,0.12); flex-shrink: 0; }
     .review-header nav { margin-left: auto; display: flex; gap: 16px; }
     .review-header a { color: rgba(255,255,255,0.38); text-decoration: none; font-size: 13px; transition: color 0.15s; }
     .review-header a:hover { color: #94a3b8; }
@@ -75,17 +72,22 @@
       border-top: 1px solid #1e2535;
       padding-top: 2.5rem;
     }
-
-    .article {
-      margin-bottom: 2.5rem;
-    }
+    .article { margin-bottom: 2.5rem; }
 
     .article-header {
       display: flex;
       flex-wrap: wrap;
       align-items: flex-start;
       gap: 0.5rem 1rem;
-      margin-bottom: 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .article-title-row {
+      flex-basis: 100%;
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      min-width: 0;
     }
 
     .article-title {
@@ -97,6 +99,46 @@
       min-width: 0;
     }
 
+    /* ── Badge agente + status + versione ── */
+    .article-badges {
+      flex-basis: 100%;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.4rem;
+    }
+
+    .agent-badge {
+      font-size: 0.65rem;
+      font-weight: 800;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 2px 8px;
+      border-radius: 3px;
+      white-space: nowrap;
+    }
+    .ab-ai-news  { background: #2563eb; color: #fff; }
+    .ab-food     { background: #3d5a3e; color: #fff; }
+    .ab-fitness  { background: #1c1c1c; color: #facc15; border: 1px solid rgba(250,204,21,.3); }
+
+    .status-pill {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 2px 8px;
+      border-radius: 10px;
+      white-space: nowrap;
+    }
+    .sp-draft     { background: #1e2535; color: #64748b; }
+    .sp-approved  { background: #14532d; color: #86efac; }
+    .sp-published { background: #1e3a5f; color: #60a5fa; }
+    .sp-scheduled { background: #713f12; color: #fde68a; }
+    .sp-failed    { background: #7f1d1d; color: #fca5a5; }
+
+    .prompt-ver { font-size: 0.65rem; color: #374151; white-space: nowrap; }
+
     .article-meta {
       flex-basis: 100%;
       display: flex;
@@ -104,18 +146,10 @@
       gap: 0.75rem;
       font-size: 0.75rem;
       color: #4a5568;
+      margin-bottom: 0.75rem;
     }
-
-    .article-meta a {
-      color: #4a5568;
-      text-decoration: none;
-      border-bottom: 1px solid #2d3748;
-    }
-
-    .article-meta a:hover {
-      color: #94a3b8;
-      border-color: #4a5568;
-    }
+    .article-meta a { color: #4a5568; text-decoration: none; border-bottom: 1px solid #2d3748; }
+    .article-meta a:hover { color: #94a3b8; border-color: #4a5568; }
 
     .copy-btn {
       background: #1e2535;
@@ -129,17 +163,8 @@
       flex-shrink: 0;
       transition: background 0.15s, color 0.15s;
     }
-
-    .copy-btn:hover {
-      background: #2d3748;
-      color: #e2e8f0;
-    }
-
-    .copy-btn.copied {
-      background: #14532d;
-      color: #86efac;
-      border-color: #166534;
-    }
+    .copy-btn:hover { background: #2d3748; color: #e2e8f0; }
+    .copy-btn.copied { background: #14532d; color: #86efac; border-color: #166534; }
 
     .section-label {
       font-size: 0.7rem;
@@ -150,36 +175,18 @@
       margin-bottom: 0.6rem;
     }
 
-    .slides {
-      margin-bottom: 2rem;
-    }
+    .slides { margin-bottom: 2rem; }
+    .slide-row { display: flex; gap: 0.6rem; padding: 0.3rem 0; }
+    .slide-num { color: #4a5568; font-size: 0.85rem; min-width: 1.2rem; flex-shrink: 0; }
+    .slide-text { color: #cbd5e1; overflow-wrap: break-word; }
 
-    .slide-row {
-      display: flex;
-      gap: 0.6rem;
-      padding: 0.3rem 0;
-    }
+    /* ── Canali ── */
+    .ch-block { display: none; }
+    .ch-block.ch-active { display: block; }
 
-    .slide-num {
-      color: #4a5568;
-      font-size: 0.85rem;
-      min-width: 1.2rem;
-      flex-shrink: 0;
-    }
+    .format-block { margin-bottom: 2rem; }
 
-    .slide-text {
-      color: #cbd5e1;
-      overflow-wrap: break-word;
-    }
-
-    .format-block {
-      margin-bottom: 2rem;
-    }
-
-    .tweet-list,
-    .script-list {
-      list-style: none;
-    }
+    .tweet-list, .script-list { list-style: none; }
 
     .tweet-list li {
       padding: 0.65rem 0;
@@ -187,10 +194,7 @@
       color: #cbd5e1;
       border-bottom: 1px solid #1e2535;
     }
-
-    .tweet-list li:last-child {
-      border-bottom: none;
-    }
+    .tweet-list li:last-child { border-bottom: none; }
 
     .script-list li {
       padding: 0.3rem 0;
@@ -198,11 +202,44 @@
       color: #94a3b8;
     }
 
-    .empty {
-      color: #374151;
-      font-style: italic;
+    /* ── Instagram ── */
+    .ig-caption {
+      background: #131a2b;
+      border: 1px solid #1e2a3e;
+      border-radius: 6px;
+      padding: 0.75rem 1rem;
+      color: #cbd5e1;
       font-size: 0.9rem;
+      line-height: 1.55;
+      overflow-wrap: break-word;
+      white-space: pre-wrap;
+      margin-bottom: 1.5rem;
     }
+
+    .carousel-preview {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 0.5rem;
+      margin-bottom: 1.5rem;
+    }
+    .cp-card {
+      background: #0d1520;
+      border: 1px solid #1e2535;
+      border-radius: 5px;
+      padding: 0.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.3rem;
+    }
+    .cp-num  { font-size: 0.6rem; color: #374151; font-weight: 700; }
+    .cp-hook { font-size: 0.72rem; font-weight: 700; color: #e2e8f0; line-height: 1.3; }
+    .cp-desc { font-size: 0.68rem; color: #64748b; line-height: 1.35; }
+
+    @media (max-width: 600px) {
+      .carousel-preview { grid-template-columns: repeat(2, 1fr); }
+    }
+
+    .empty { color: #374151; font-style: italic; font-size: 0.9rem; }
   </style>
 </head>
 <body>
@@ -210,6 +247,13 @@
     <select class="review-agent-sel" id="agent-select">
       <option value="ai-news">⚡ AI News</option>
       <option value="food">🍳 5 Step Food</option>
+      <option value="fitness">💪 Flash Fitness</option>
+    </select>
+    <div class="header-sep"></div>
+    <select class="review-agent-sel" id="channel-select">
+      <option value="x">𝕏 Thread</option>
+      <option value="instagram">📸 Instagram</option>
+      <option value="tiktok">🎵 TikTok</option>
     </select>
     <nav>
       <a href="index.html">← Feed</a>
@@ -223,8 +267,12 @@
     <div id="root"></div>
   </div>
 
-  <script src="data.js"></script>
+  <script src="data-agents.js"></script>
   <script>
+    const CHANNEL_LABELS = { x: 'Copia X', instagram: 'Copia Instagram', tiktok: 'Copia TikTok' };
+    const AGENT_LABELS   = { 'ai-news': 'AI News', 'food': 'Food', 'fitness': 'Fitness' };
+    let currentChannel = 'x';
+
     function timeAgo(isoString) {
       if (!isoString) return '';
       const diff = Math.floor((Date.now() - new Date(isoString)) / 1000);
@@ -249,59 +297,32 @@
       return Promise.resolve();
     }
 
-    function buildFullText(article) {
-      const parts = [];
-
-      parts.push(article.title);
-
-      if (article.slides && article.slides.length) {
-        parts.push('\nSLIDE\n' + article.slides.map((s, i) => `${i + 1}. ${s}`).join('\n'));
+    function getChannelText(article, channel) {
+      if (channel === 'x') {
+        const thread = article.formats?.x?.thread || article.thread_text || [];
+        return thread.join('\n\n');
       }
-
-      if (article.thread_text && article.thread_text.length) {
-        parts.push('\nTHREAD X\n' + article.thread_text.join('\n\n'));
+      if (channel === 'instagram') {
+        return article.formats?.instagram?.caption || article.instagram_caption || '';
       }
-
-      if (article.video_script && article.video_script.length) {
-        parts.push('\nSCRIPT VIDEO\n' + article.video_script.join('\n'));
+      if (channel === 'tiktok') {
+        const script = article.formats?.tiktok?.script || article.video_script || [];
+        return script.join('\n');
       }
-
-      return parts.join('\n');
+      return '';
     }
 
-    function makeSection(labelText, lines, listClass) {
-      const block = document.createElement('div');
-      block.className = 'format-block';
-
-      const label = document.createElement('div');
-      label.className = 'section-label';
-      label.textContent = labelText;
-      block.appendChild(label);
-
-      if (lines && lines.length) {
-        const ul = document.createElement('ul');
-        ul.className = listClass;
-        lines.forEach(text => {
-          const li = document.createElement('li');
-          li.textContent = text;
-          ul.appendChild(li);
-        });
-        block.appendChild(ul);
-      } else {
-        const p = document.createElement('p');
-        p.className = 'empty';
-        p.textContent = 'Non disponibile.';
-        block.appendChild(p);
-      }
-
-      return block;
+    function hasFormats(article) {
+      return !!(
+        (article.formats?.x?.thread?.length) ||
+        (article.thread_text?.length)
+      );
     }
 
-    const root = document.getElementById('root');
-    const counter = document.getElementById('counter');
-    const reviewTitle = document.getElementById('review-title');
-    const originalArticles = window.ARTICLES ? window.ARTICLES.slice() : [];
-    let foodLoaded = false;
+    const root         = document.getElementById('root');
+    const counter      = document.getElementById('counter');
+    const reviewTitle  = document.getElementById('review-title');
+    const originalArticles = (window.AGENTS && window.AGENTS['ai-news']) ? window.AGENTS['ai-news'].slice() : [];
 
     function renderReview(articles) {
       root.innerHTML = '';
@@ -311,51 +332,82 @@
         return;
       }
 
-      const isFood = articles[0] && articles[0].agent === 'food';
-      reviewTitle.textContent = isFood ? 'Review ricette' : 'Review articoli';
+      const firstAgent = (articles[0] && articles[0].agent) || 'ai-news';
+      reviewTitle.textContent =
+        firstAgent === 'food'    ? 'Review ricette' :
+        firstAgent === 'fitness' ? 'Review fitness' : 'Review articoli';
 
-      const withFormats = articles.filter(a => a.thread_text && a.thread_text.length);
-      const withoutFormats = articles.filter(a => !a.thread_text || !a.thread_text.length);
+      const withFormats    = articles.filter(hasFormats);
+      const withoutFormats = articles.filter(a => !hasFormats(a));
       const sorted = [...withFormats, ...withoutFormats];
-
       counter.textContent = `${withFormats.length} articoli completi · ${withoutFormats.length} senza formati`;
 
       sorted.forEach(article => {
         const el = document.createElement('div');
         el.className = 'article';
 
-        // Intestazione: titolo + unico tasto Copia tutto
+        // ── Header ──
         const header = document.createElement('div');
         header.className = 'article-header';
+
+        // Riga titolo + copia
+        const titleRow = document.createElement('div');
+        titleRow.className = 'article-title-row';
 
         const titleEl = document.createElement('div');
         titleEl.className = 'article-title';
         titleEl.textContent = article.title;
-        header.appendChild(titleEl);
+        titleRow.appendChild(titleEl);
 
         const btn = document.createElement('button');
         btn.className = 'copy-btn';
-        btn.textContent = 'Copia tutto';
+        btn.textContent = CHANNEL_LABELS[currentChannel] || 'Copia';
         btn.addEventListener('click', () => {
-          copyText(buildFullText(article)).then(() => {
+          copyText(getChannelText(article, currentChannel) || '').then(() => {
             btn.textContent = 'Copiato!';
             btn.classList.add('copied');
             setTimeout(() => {
-              btn.textContent = 'Copia tutto';
+              btn.textContent = CHANNEL_LABELS[currentChannel] || 'Copia';
               btn.classList.remove('copied');
             }, 2000);
           });
         });
-        header.appendChild(btn);
+        titleRow.appendChild(btn);
+        header.appendChild(titleRow);
 
+        // Badge agente + status + prompt_version
+        const badges = document.createElement('div');
+        badges.className = 'article-badges';
+
+        const agentKey = (article.agent || 'ai-news').replace(/[^a-z-]/g, '-');
+        const agentBadge = document.createElement('span');
+        agentBadge.className = 'agent-badge ab-' + agentKey;
+        agentBadge.textContent = AGENT_LABELS[article.agent] || article.agent || 'AI News';
+        badges.appendChild(agentBadge);
+
+        const statusVal = article.status || 'draft';
+        const statusPill = document.createElement('span');
+        statusPill.className = 'status-pill sp-' + statusVal;
+        statusPill.textContent = statusVal;
+        badges.appendChild(statusPill);
+
+        if (article.prompt_version) {
+          const pv = document.createElement('span');
+          pv.className = 'prompt-ver';
+          pv.textContent = 'v' + article.prompt_version;
+          badges.appendChild(pv);
+        }
+        header.appendChild(badges);
+
+        // Meta: tempo + link
         const ago = timeAgo(article.pubDate || article.savedAt);
         if (ago || article.link) {
           const meta = document.createElement('div');
           meta.className = 'article-meta';
           if (ago) {
-            const dateSpan = document.createElement('span');
-            dateSpan.textContent = ago;
-            meta.appendChild(dateSpan);
+            const span = document.createElement('span');
+            span.textContent = ago;
+            meta.appendChild(span);
           }
           const linkHref = article.link
             || 'https://www.google.com/search?q=' + encodeURIComponent(article.title);
@@ -370,7 +422,7 @@
 
         el.appendChild(header);
 
-        // Slide
+        // ── Slide ──
         const slidesLabel = document.createElement('div');
         slidesLabel.className = 'section-label';
         slidesLabel.textContent = 'Slide';
@@ -393,31 +445,137 @@
         });
         el.appendChild(slidesDiv);
 
-        el.appendChild(makeSection('Thread X', article.thread_text, 'tweet-list'));
-        el.appendChild(makeSection('Script video', article.video_script, 'script-list'));
+        // ── Canale X ──
+        const chX = document.createElement('div');
+        chX.className = 'ch-block ch-x' + (currentChannel === 'x' ? ' ch-active' : '');
+        const thread = article.formats?.x?.thread || article.thread_text || [];
+        const xBlock = document.createElement('div');
+        xBlock.className = 'format-block';
+        const xLabel = document.createElement('div');
+        xLabel.className = 'section-label';
+        xLabel.textContent = 'Thread X (' + thread.length + ' tweet)';
+        xBlock.appendChild(xLabel);
+        if (thread.length) {
+          const ul = document.createElement('ul');
+          ul.className = 'tweet-list';
+          thread.forEach(t => {
+            const li = document.createElement('li');
+            li.textContent = t;
+            ul.appendChild(li);
+          });
+          xBlock.appendChild(ul);
+        } else {
+          const p = document.createElement('p');
+          p.className = 'empty';
+          p.textContent = 'Non disponibile.';
+          xBlock.appendChild(p);
+        }
+        chX.appendChild(xBlock);
+        el.appendChild(chX);
+
+        // ── Canale Instagram ──
+        const chIg = document.createElement('div');
+        chIg.className = 'ch-block ch-instagram' + (currentChannel === 'instagram' ? ' ch-active' : '');
+
+        const caption = article.formats?.instagram?.caption || article.instagram_caption || '';
+        const igCapLabel = document.createElement('div');
+        igCapLabel.className = 'section-label';
+        igCapLabel.textContent = 'Caption Instagram';
+        chIg.appendChild(igCapLabel);
+        if (caption) {
+          const capDiv = document.createElement('div');
+          capDiv.className = 'ig-caption';
+          capDiv.textContent = caption;
+          chIg.appendChild(capDiv);
+        } else {
+          const p = document.createElement('p');
+          p.className = 'empty';
+          p.style.marginBottom = '1.5rem';
+          p.textContent = 'Non disponibile.';
+          chIg.appendChild(p);
+        }
+
+        const carouselSlides = article.carousel_slides || [];
+        if (carouselSlides.length) {
+          const csLabel = document.createElement('div');
+          csLabel.className = 'section-label';
+          csLabel.textContent = 'Anteprima carousel';
+          chIg.appendChild(csLabel);
+          const preview = document.createElement('div');
+          preview.className = 'carousel-preview';
+          carouselSlides.forEach((cs, i) => {
+            const card = document.createElement('div');
+            card.className = 'cp-card';
+            const num = document.createElement('div');
+            num.className = 'cp-num';
+            num.textContent = (i + 1) + '/5';
+            const hook = document.createElement('div');
+            hook.className = 'cp-hook';
+            hook.textContent = cs.hook || '';
+            const desc = document.createElement('div');
+            desc.className = 'cp-desc';
+            desc.textContent = cs.description || '';
+            card.appendChild(num);
+            card.appendChild(hook);
+            card.appendChild(desc);
+            preview.appendChild(card);
+          });
+          chIg.appendChild(preview);
+        }
+        el.appendChild(chIg);
+
+        // ── Canale TikTok ──
+        const chTt = document.createElement('div');
+        chTt.className = 'ch-block ch-tiktok' + (currentChannel === 'tiktok' ? ' ch-active' : '');
+        const script = article.formats?.tiktok?.script || article.video_script || [];
+        const ttBlock = document.createElement('div');
+        ttBlock.className = 'format-block';
+        const ttLabel = document.createElement('div');
+        ttLabel.className = 'section-label';
+        ttLabel.textContent = 'Script TikTok';
+        ttBlock.appendChild(ttLabel);
+        if (script.length) {
+          const ul = document.createElement('ul');
+          ul.className = 'script-list';
+          script.forEach((t, i) => {
+            const li = document.createElement('li');
+            li.textContent = (i + 1) + '. ' + t;
+            ul.appendChild(li);
+          });
+          ttBlock.appendChild(ul);
+        } else {
+          const p = document.createElement('p');
+          p.className = 'empty';
+          p.textContent = 'Non disponibile.';
+          ttBlock.appendChild(p);
+        }
+        chTt.appendChild(ttBlock);
+        el.appendChild(chTt);
 
         root.appendChild(el);
       });
     }
 
+    function applyChannel(channel) {
+      currentChannel = channel;
+      document.querySelectorAll('.ch-block').forEach(el => {
+        el.classList.toggle('ch-active', el.classList.contains('ch-' + channel));
+      });
+      document.querySelectorAll('.copy-btn').forEach(btn => {
+        if (!btn.classList.contains('copied')) {
+          btn.textContent = CHANNEL_LABELS[channel] || 'Copia';
+        }
+      });
+    }
+
     renderReview(originalArticles);
 
-    document.getElementById('agent-select').addEventListener('change', async function() {
-      if (this.value === 'food') {
-        if (!foodLoaded) {
-          await new Promise((resolve, reject) => {
-            const s = document.createElement('script');
-            s.src = 'data-food.js';
-            s.onload = resolve;
-            s.onerror = reject;
-            document.head.appendChild(s);
-          });
-          foodLoaded = true;
-        }
-        renderReview(window.FOOD_ARTICLES || []);
-      } else {
-        renderReview(originalArticles);
-      }
+    document.getElementById('agent-select').addEventListener('change', function() {
+      renderReview((window.AGENTS && window.AGENTS[this.value]) ? window.AGENTS[this.value] : []);
+    });
+
+    document.getElementById('channel-select').addEventListener('change', function() {
+      applyChannel(this.value);
     });
   </script>
 </body>

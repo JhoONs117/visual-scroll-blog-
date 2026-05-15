@@ -4,9 +4,13 @@ const md5 = require('md5');
 const { callDeepSeek } = require('./deepseek');
 const { normalize } = require('./filter');
 
-const CACHE_PATH = path.join(__dirname, 'cache.json');
+const cacheDir = path.join(__dirname, 'cache');
+fs.mkdirSync(cacheDir, { recursive: true });
+const CACHE_PATH = path.join(cacheDir, 'food.json');
 
-const cache = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8'));
+const cache = fs.existsSync(CACHE_PATH)
+  ? JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8'))
+  : {};
 
 const VALID_DISH_TYPES = ['pasta', 'meat', 'fish', 'soup', 'dessert', 'salad', 'vegetable', 'generic'];
 const CAROUSEL_LAYOUTS = ['hero', 'right-focus', 'sensor-zoom', 'human-hand', 'cta-final'];
@@ -322,4 +326,4 @@ Regole:
   return null;
 }
 
-module.exports = { generateRecipeSlides, generateRecipeCarouselSlides, generateFoodCaption, generateFoodVideoScript, generateFoodThread };
+module.exports = { generateRecipeSlides, generateRecipeCarouselSlides, generateFoodCaption, generateFoodVideoScript, generateFoodThread, looksLikeRecipe };

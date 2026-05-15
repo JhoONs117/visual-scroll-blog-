@@ -4,10 +4,14 @@ const md5 = require('md5');
 const { callDeepSeek } = require('./deepseek');
 const { normalize } = require('./filter');
 
-const CACHE_PATH = path.join(__dirname, 'cache.json');
+const cacheDir = path.join(__dirname, 'cache');
+fs.mkdirSync(cacheDir, { recursive: true });
+const CACHE_PATH = path.join(cacheDir, 'ai-news.json');
 const QUEUE_PATH = path.join(__dirname, 'review_queue.json');
 
-const cache = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8'));
+const cache = fs.existsSync(CACHE_PATH)
+  ? JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8'))
+  : {};
 
 function checkReviewQueue() {
   const queue = JSON.parse(fs.readFileSync(QUEUE_PATH, 'utf8'));

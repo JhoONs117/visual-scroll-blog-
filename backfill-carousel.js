@@ -94,6 +94,10 @@ function buildDataJs(allFiles) {
   };
 
   for (const { full, art } of toProcess) {
+    if (art.schema_version === 2) {
+      process.stderr.write(`⚠️  SKIP ${path.basename(full)} — schema v2 (usa migrate-schema.js o il nuovo runner)\n`);
+      continue;
+    }
     const label = art.title.slice(0, 60);
     let changed = false;
 

@@ -369,6 +369,24 @@
     .food-story .badge-line  { background: rgba(61,90,62,.7); }
     .food-story .dot.active  { background: #e07b39; }
     .food-story .slide-info  { background: #0c100b; border-top-color: rgba(224,123,57,.06); }
+
+    /* ── Fitness palette nel feed ── */
+    .fitness-story .slide { background: #111108; }
+    .fitness-story .slide-color-0 .slide-visual { background: linear-gradient(148deg, #1c1c0a 0%, #2a2a0c 50%, #1a1a08 100%); }
+    .fitness-story .slide-color-1 .slide-visual { background: linear-gradient(155deg, #111108 0%, #222210 55%, #1a1a08 100%); }
+    .fitness-story .slide-color-2 .slide-visual { background: linear-gradient(138deg, #0e0e06 0%, #1e1e0c 60%, #161608 100%); }
+    .fitness-story .slide-color-3 .slide-visual { background: linear-gradient(152deg, #0c0c05 0%, #1c1c0c 60%, #141406 100%); }
+    .fitness-story .slide-color-4 .slide-visual { background: linear-gradient(148deg, #111108 0%, #222210 60%, #1c1c0a 100%); }
+    .fitness-story .cf-wrap.hero        .cf-overlay { background: linear-gradient(148deg, #1c1c0a 0%, #2a2a0c 50%, #1a1a08 100%); }
+    .fitness-story .cf-wrap.right-focus .cf-overlay { background: linear-gradient(155deg, #111108 0%, #222210 55%, #1a1a08 100%); }
+    .fitness-story .cf-wrap.sensor-zoom .cf-overlay { background: linear-gradient(138deg, #0e0e06 0%, #1e1e0c 60%, #161608 100%); }
+    .fitness-story .cf-wrap.human-hand  .cf-overlay { background: linear-gradient(152deg, #0c0c05 0%, #1c1c0c 60%, #141406 100%); }
+    .fitness-story .cf-wrap.cta-final   .cf-overlay { background: linear-gradient(148deg, #111108 0%, #222210 60%, #1c1c0a 100%); }
+    .fitness-story .cf-hook .cf-accent  { color: #facc15; }
+    .fitness-story .slide-badge { background: #1c1c1c; color: #facc15; }
+    .fitness-story .badge-line  { background: rgba(250,204,21,.5); }
+    .fitness-story .dot.active  { background: #facc15; }
+    .fitness-story .slide-info  { background: #0d0d08; border-top-color: rgba(250,204,21,.06); }
   </style>
 </head>
 <body>
@@ -376,6 +394,7 @@
     <select id="agent-select">
       <option value="ai-news">⚡ AI News</option>
       <option value="food">🍳 5 Step Food</option>
+      <option value="fitness">💪 Flash Fitness</option>
     </select>
     <nav id="agent-nav">
       <a href="review.html">Review</a>
@@ -384,7 +403,7 @@
   </div>
   <div class="feed" id="feed"></div>
 
-  <script src="data.js"></script>
+  <script src="data-agents.js"></script>
   <script>
     /* Calcola dimensioni precise dalla viewport reale */
     const AGENT_BAR_H = 36;
@@ -428,7 +447,8 @@
       return words.slice(0, split).join(' ') + ' <span class="cf-accent">' + words.slice(split).join(' ') + '</span>';
     }
 
-    function buildCarouselFallback(cs, isFood) {
+    function buildCarouselFallback(cs, agent) {
+      const handles = { food: '@FlashKitchen', fitness: '@FlashFitness' };
       const lt = cs.layout_type || 'hero';
       const icon = CF_ICONS[cs.icon] || CF_ICONS.tag;
       const el = document.createElement('div');
@@ -438,7 +458,7 @@
         <svg class="cf-deco" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">${icon}</svg>
         <div class="cf-content">
           <div class="cf-hook">${cfAccentHook(cs.hook)}</div>
-          <div class="cf-footer">${isFood ? '@FlashKitchen' : '@FlashAI'}</div>
+          <div class="cf-footer">${handles[agent] || '@FlashAI'}</div>
         </div>`;
       return el;
     }
@@ -465,8 +485,7 @@
     };
 
     const feed = document.getElementById('feed');
-    const originalArticles = window.ARTICLES ? window.ARTICLES.slice() : [];
-    let foodLoaded = false;
+    const originalArticles = (window.AGENTS && window.AGENTS['ai-news']) ? window.AGENTS['ai-news'].slice() : [];
     let activeObserver = null;
 
     function renderFeed(articles) {
@@ -482,12 +501,14 @@
         return;
       }
 
-      const isFood = articles[0] && articles[0].agent === 'food';
+      const firstAgent = (articles[0] && articles[0].agent) || 'ai-news';
+      const isFood = firstAgent === 'food';
+      const isFitness = firstAgent === 'fitness';
       let hintDismissed = false;
 
       articles.forEach((article, articleIndex) => {
         const story = document.createElement('div');
-        story.className = 'story' + (isFood ? ' food-story' : '');
+        story.className = 'story' + (isFood ? ' food-story' : isFitness ? ' fitness-story' : '');
 
         const slides = article.slides      || [];
         const thread = article.thread_text || [];
@@ -504,7 +525,7 @@
             visual.classList.add('has-img');
             visual.style.backgroundImage = `url('${slideImg}')`;
           } else if (i > 0 && article.carousel_slides?.[i]) {
-            visual.appendChild(buildCarouselFallback(article.carousel_slides[i], isFood));
+            visual.appendChild(buildCarouselFallback(article.carousel_slides[i], firstAgent));
           }
 
           const bars = document.createElement('div');
@@ -526,7 +547,7 @@
           const l1 = document.createElement('div'); l1.className = 'badge-line';
           const badge = document.createElement('div');
           badge.className = 'slide-badge';
-          badge.textContent = isFood ? '5 STEP FOOD' : (BADGES[i] || 'AI');
+          badge.textContent = isFood ? '5 STEP FOOD' : isFitness ? 'FLASH FITNESS' : (BADGES[i] || 'AI');
           const l2 = document.createElement('div'); l2.className = 'badge-line';
           badgeRow.appendChild(l1);
           badgeRow.appendChild(badge);
@@ -571,7 +592,7 @@
           titleLink.target = '_blank';
           titleLink.rel = 'noopener noreferrer';
           titleLink.textContent = article.title;
-          const agentLabel = isFood ? '5 Step Food' : 'AI News';
+          const agentLabel = isFood ? '5 Step Food' : isFitness ? 'Flash Fitness' : 'AI News';
           src.appendChild(document.createTextNode(agentLabel + (ago ? ' · ' + ago : '') + ' · '));
           src.appendChild(titleLink);
           capWrap.appendChild(src);
@@ -665,23 +686,9 @@
 
     renderFeed(originalArticles);
 
-    document.getElementById('agent-select').addEventListener('change', async function() {
+    document.getElementById('agent-select').addEventListener('change', function() {
       const val = this.value;
-      if (val === 'food') {
-        if (!foodLoaded) {
-          await new Promise((resolve, reject) => {
-            const s = document.createElement('script');
-            s.src = 'data-food.js';
-            s.onload = resolve;
-            s.onerror = reject;
-            document.head.appendChild(s);
-          });
-          foodLoaded = true;
-        }
-        renderFeed(window.FOOD_ARTICLES || []);
-      } else {
-        renderFeed(originalArticles);
-      }
+      renderFeed((window.AGENTS && window.AGENTS[val]) ? window.AGENTS[val] : []);
     });
   </script>
 </body>
