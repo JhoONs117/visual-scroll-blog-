@@ -41,7 +41,7 @@
         "layout_type": "sensor-zoom",
         "icon": "heart",
         "image_query": "chickpea flour batter",
-        "image": "https://images.pexels.com/photos/7966401/pexels-photo-7966401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "image": "https://images.pexels.com/photos/33775630/pexels-photo-33775630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       },
       {
         "hook": "Cuoci in forno 70 minuti",
@@ -1025,5 +1025,262 @@
   "food:risotto-piselli-crescenza-e-pancetta-croccante": {
     "title": "Risotto piselli, crescenza e pancetta croccante",
     "savedAt": "2026-05-14T15:01:32.815Z"
+  },
+  "food:slides:5f8a0faf724676f229ad278998392443": {
+    "title": "Pasta al forno alla siciliana",
+    "slides": [
+      "Pasta al forno siciliana con melanzane fritte",
+      "Rigatoni, melanzane, scamorza, parmigiano, passata",
+      "Friggi melanzane a cubetti in olio",
+      "Cuoci con sugo e formaggio in forno",
+      "Lasciare riposare prima di servire"
+    ]
+  },
+  "food:caption:5f8a0faf724676f229ad278998392443": "Pochi piatti sanno abbracciarti come una teglia di pasta al forno siciliana. 😍 Rigatoni al dente avvolti da un sugo di pomodoro, strati di scamorza filante e cubotti di melanzane fritte che si sciolgono in bocca, il tutto gratinato con una pioggia di Parmigiano. Lascio riposare la teglia prima di tagliarla, perché la pazienza è l'ingrediente segreto per una crosticina perfetta. Pronto a concederti questo pezzo di Sicilia? Provala questo weekend 🌿",
+  "food:video:5f8a0faf724676f229ad278998392443": [
+    "Friggo le melanzane a cubetti nell'olio.",
+    "Unisco i rigatoni al sugo di passata.",
+    "Mescolo tutto con scamorza e parmigiano.",
+    "Verso in teglia e rimetto in forno.",
+    "Lascio riposare, poi servo."
+  ],
+  "food:thread:5f8a0faf724676f229ad278998392443": [
+    "La Sicilia in forno. Se non l’hai mai mangiata, la pasta al forno con le melanzane è la fine del mondo. Pronto a impastarti le mani?",
+    "Rigatoni, melanzane fritte a cubetti, passata di pomodoro, scamorza e parmigiano. Roba seria. Senza questi ingredienti non parti neanche.",
+    "Taglia le melanzane a cubetti e friggile in olio bollente fino a doratura. Devono essere croccanti fuori e morbide dentro. Questo è il gesto chiave.",
+    "Poi condisci la pasta, aggiungi la scamorza a tocchetti, il parmigiano e inforna fino a gratinatura. Il profumo ti stende in un secondo.",
+    "Lasciarla riposare 10 minuti prima di servirla: i sapori si fondono e non scotta. Provala e dimmi com'è andata 👇"
+  ],
+  "food:carousel:5f8a0faf724676f229ad278998392443": {
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "melanzane",
+      "scamorza",
+      "rigatoni"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta al forno alla siciliana",
+        "description": "Una pasta al forno ricca e saporita con melanzane fritte, scamorza e parmigiano. Un piatto che sa di Sicilia.",
+        "visual_hint": "Piatto fumante con crosta dorata",
+        "layout_type": "hero",
+        "icon": "heart",
+        "image_query": "savory baked pasta with eggplant"
+      },
+      {
+        "hook": "Gli ingredienti che contano",
+        "description": "Rigatoni, melanzane a cubetti, scamorza filante, parmigiano e passata di pomodoro. Il meglio della cucina siciliana.",
+        "visual_hint": "Ingredienti disposti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "pasta ingredients with eggplant",
+        "image": "https://images.pexels.com/photos/12673795/pexels-photo-12673795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Melanzane croccanti fritte",
+        "description": "Taglia le melanzane a cubetti e friggile in olio bollente fino a doratura. Il segreto per una pasta al forno perfetta?",
+        "visual_hint": "Melanzane che sfrigolano in padella",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "frying eggplant cubes",
+        "image": "https://images.pexels.com/photos/23879143/pexels-photo-23879143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cuoci tutto nel forno",
+        "description": "Mescola la pasta con le melanzane fritte, la salsa e i formaggi. Inforna a 180°C per 20 minuti fino a doratura.",
+        "visual_hint": "Teglia di pasta che cuoce",
+        "layout_type": "human-hand",
+        "icon": "waves",
+        "image_query": "baking pasta casserole",
+        "image": "https://images.pexels.com/photos/29145229/pexels-photo-29145229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Lascia intiepidire e servi",
+        "description": "Il trucco per una pasta al forno compatta: lasciala riposare 10 minuti prima di tagliarla. Servila tiepida e cremosa.",
+        "visual_hint": "Porzione di pasta fumante su piatto",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "slice of baked pasta with melting cheese",
+        "image": "https://images.pexels.com/photos/34474026/pexels-photo-34474026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ]
+  },
+  "food:slides:a1c63c28182854f2ebe669c0751c5372": {
+    "title": "Pasta frolla al caffè",
+    "slides": [
+      "Pasta frolla al caffè: friabile e aromatica",
+      "Farina, burro, uova, zucchero a velo, caffè solubile",
+      "Lavora burro e zucchero, poi uova e farina",
+      "Riposa in frigo 30 minuti, poi stendi",
+      "Conserva in frigo 3-4 giorni o congela"
+    ]
+  },
+  "food:caption:a1c63c28182854f2ebe669c0751c5372": "C’è un segreto in ogni morso di questa pasta frolla: il caffè. 🍪☕ Friabile, dorata, con quel profumo che sa di pausa pomeridiana. La preparo lavorando burro e zucchero a velo, unendo le uova, poi la farina con il caffè solubile — la nota amara che fa la differenza. Dopo mezz’ora in frigo è pronta da stendere, e si conserva 3-4 giorni (se non finisce prima). Perfetta per biscotti, crostate o un peccato di gola veloce. Provarla questo weekend? ✨",
+  "food:video:a1c63c28182854f2ebe669c0751c5372": [
+    "Pasta frolla al caffè, super aromatica!",
+    "Farina, burro, uova, zucchero a velo, caffè.",
+    "Lavoro burro e zucchero, poi uova e farina.",
+    "Riposo 30 minuti in frigo, poi stendo.",
+    "In frigo 3-4 giorni o in freezer."
+  ],
+  "food:thread:a1c63c28182854f2ebe669c0751c5372": [
+    "Una frolla che sa di caffè? Friabile, burrosa, con quel profumo che ti sveglia anche la mattina. 🤎",
+    "Farina, burro, zucchero a velo, uova e caffè solubile. Niente di più. Gli ingredienti giusti fanno la differenza.",
+    "Lavora burro e zucchero fino a ottenere una crema, poi unisci le uova e infine la farina con il caffè. A mano o in planetaria, ma senza esagerare.",
+    "30 minuti di frigo e la frolla è pronta. Stendila e usala per crostate, biscotti o basi. In forno sprigiona tutto l'aroma.",
+    "Conservala in frigo 3-4 giorni o congelala già pronta. Io la uso per una crostata con crema al mascarpone. Provala e fammi sapere 👇"
+  ],
+  "food:carousel:a1c63c28182854f2ebe669c0751c5372": {
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "farina",
+      "burro",
+      "caffè solubile"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta frolla al caffè: friabile e aromatica",
+        "description": "Una base dolce perfetta per crostate e biscotti, con un inconfondibile aroma di caffè.",
+        "visual_hint": "Pasta frolla al caffè",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "coffee shortcrust dough"
+      },
+      {
+        "hook": "Ingredienti essenziali per l’impasto",
+        "description": "Farina, burro, uova, zucchero a velo e caffè solubile: pochi elementi per un risultato speciale.",
+        "visual_hint": "Ingredienti disposti",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "coffee dough ingredients"
+      },
+      {
+        "hook": "Il gesto chiave: lavora burro e zucchero",
+        "description": "Monta burro e zucchero a velo fino a ottenere una crema, poi aggiungi uova e farina setacciata.",
+        "visual_hint": "Mani che impastano",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "kneading coffee dough"
+      },
+      {
+        "hook": "Riposo e stesura della frolla",
+        "description": "Avvolgi in pellicola e lascia riposare in frigo 30 minuti, poi stendi con il mattarello.",
+        "visual_hint": "Frolla stesa sottile",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "rolling coffee pastry"
+      },
+      {
+        "hook": "Conserva fino a 4 giorni o congela",
+        "description": "Tieni in frigo 3-4 giorni oppure congela l’impasto già pronto per averlo sempre a portata di mano.",
+        "visual_hint": "Frolla avvolta in pellicola",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "wrapped coffee dough"
+      }
+    ]
+  },
+  "food:pasta-frolla-al-caff-": {
+    "title": "Pasta frolla al caffè",
+    "savedAt": "2026-05-15T09:41:53.688Z"
+  },
+  "food:slides:2dcd87407eda74614d9cfc9c7cc9d918": {
+    "title": "Torta con fragole e cioccolato bianco",
+    "slides": [
+      "Torta fragole e cioccolato bianco cremosa e scenografica",
+      "Fragole, cioccolato bianco, panna, uova, farina",
+      "Monta albumi e tuorli con zucchero e limone",
+      "Cuoci pasta biscotto, assembla con cremoso e fragole",
+      "Raffredda 4-5 ore, guarnisci con zucchero a velo"
+    ]
+  },
+  "food:caption:2dcd87407eda74614d9cfc9c7cc9d918": "Una nuvola di fragole e cioccolato bianco: la torta che sembra uscita da una pasticceria francese 🍓✨  \nPasta biscotto morbidissima, farcita con un cremoso vellutato al cioccolato bianco e tante fragole fresche, poi tutto a riposare in frigo per ore finché diventa perfetta. Il risultato? Una fetta cremosa che si scioglie in bocca, con quel contrasto dolce e fruttato che conquista al primo assaggio.  \nGuarnisci con zucchero a velo e servi fredda, se resisti all’attesa.  \nProvala questo weekend 🍰🍓",
+  "food:video:2dcd87407eda74614d9cfc9c7cc9d918": [
+    "Fragole e cioccolato bianco, che spettacolo!",
+    "Monta albumi e tuorli con zucchero e limone.",
+    "Cuoci la pasta biscotto, poi assembla tutto.",
+    "Aggiungi il cremoso e le fragole, che bontà!",
+    "Fredda 4 ore, spolvera zucchero a velo e servi."
+  ],
+  "food:thread:2dcd87407eda74614d9cfc9c7cc9d918": [
+    "Cremosa al punto giusto, con fragole e cioccolato bianco che si fondono in ogni morso. Una torta che sembra uscita da una pasticceria. E sai cosa? La fai tu, in casa.",
+    "Ti servono: 250g di fragole, 200g di cioccolato bianco, 200ml di panna, 4 uova, 80g di farina, 100g di zucchero, succo di limone. Niente di impossibile, vero?",
+    "Il segreto? Monta gli albumi a neve e i tuorli con zucchero e limone separatamente, poi unisci con farina. Pasta biscotto leggera come una nuvola.",
+    "Cuoci la base, poi assembla: alterna strati di crema al cioccolato bianco, panna montata e fragole fresche. In frigo per 4-5 ore, e la magia si compie.",
+    "Prima di servire, spolvera con zucchero a velo. Sembra difficile ma è facile: provala e poi fammi sapere com’è andata, che ne dici? 👇"
+  ],
+  "food:carousel:2dcd87407eda74614d9cfc9c7cc9d918": {
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "fragole",
+      "cioccolato bianco",
+      "panna"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta fragole e cioccolato bianco cremosa",
+        "description": "Una torta scenografica dal cuore cremoso, perfetta per stupire con dolcezza e freschezza.",
+        "visual_hint": "fetta su piatto bianco",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "strawberry white chocolate cake"
+      },
+      {
+        "hook": "Solo 5 ingredienti semplici",
+        "description": "Fragole, cioccolato bianco, panna, uova, farina: il necessario per un dessert elegante e goloso.",
+        "visual_hint": "ingredienti in ciotola",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "fresh strawberries white chocolate"
+      },
+      {
+        "hook": "Monta albumi e tuorli separati",
+        "description": "Monta albumi a neve e tuorli con zucchero e limone per una base leggera e soffice.",
+        "visual_hint": "uova e frusta elettrica",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "whipping egg whites"
+      },
+      {
+        "hook": "Cuoci e assembla a strati",
+        "description": "Cuoci la pasta biscotto, poi alterna strati di crema al cioccolato bianco e fragole fresche.",
+        "visual_hint": "mano che spalma crema",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "assembling cake layers"
+      },
+      {
+        "hook": "Raffredda e guarnisci con velo",
+        "description": "Lascia riposare 4-5 ore in frigo, poi spolvera con zucchero a velo per il tocco finale.",
+        "visual_hint": "torta finita con velo",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "powdered sugar cake slice"
+      }
+    ]
+  },
+  "food:torta-con-fragole-e-cioccolato-bianco": {
+    "title": "Torta con fragole e cioccolato bianco",
+    "savedAt": "2026-05-15T09:45:51.009Z"
+  },
+  "food:pasta-con-melanzane-in-bianco-cremosa": {
+    "title": "Pasta con melanzane in bianco cremosa",
+    "savedAt": "2026-05-15T09:45:52.438Z"
+  },
+  "food:pasta-con-porri-pecorino-e-pancetta": {
+    "title": "Pasta con porri, pecorino e pancetta",
+    "savedAt": "2026-05-15T09:45:53.422Z"
+  },
+  "food:spaghetti-con-crema-di-cipollotti-e-taleggio": {
+    "title": "Spaghetti con crema di cipollotti e taleggio",
+    "savedAt": "2026-05-15T09:55:38.399Z"
+  },
+  "food:pasta-zucchine-speck-e-gorgonzola": {
+    "title": "Pasta zucchine, speck e gorgonzola",
+    "savedAt": "2026-05-15T09:55:39.397Z"
+  },
+  "food:risotto-zucchine-e-salsiccia": {
+    "title": "Risotto zucchine e salsiccia",
+    "savedAt": "2026-05-15T09:55:40.208Z"
   }
 }
