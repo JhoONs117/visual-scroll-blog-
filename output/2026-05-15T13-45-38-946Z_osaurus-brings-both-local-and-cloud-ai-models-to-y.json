@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "osaurus-brings-both-local-and-cloud-ai-models-to-y",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Osaurus brings both local and cloud AI models to your Mac",
+  "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+  "pubDate": "Fri, 15 May 2026 12:19:48 +0000",
+  "slides": [
+    "Osaurus unifies local and cloud AI on your Mac—but which wins?",
+    "Local models run offline; cloud ones tap vast GPU clusters.",
+    "You can switch mid-task without realizing the latency gap.",
+    "Optimizing workloads now saves hours of future compute costs.",
+    "Test a single prompt side-by-side before choosing your stack."
+  ],
+  "thread_text": [
+    "Puoi passare da un modello AI locale a uno cloud senza accorgertene, ma il ritardo è già lì.",
+    "I modelli locali funzionano offline. Quelli cloud usano cluster di GPU enormi. Ognuno ha il suo perché.",
+    "Passi da uno all'altro a metà task, senza vedere il salto di latenza. Ma esiste, e pesa.",
+    "Se ottimizzi i carichi di lavoro adesso, risparmi ore di costi di calcolo domani.",
+    "Prima di scegliere, testa lo stesso prompt su entrambi i lati. Costa meno di un abbonamento Spotify."
+  ],
+  "video_script": [
+    "Passi da locale a cloud senza accorgertene.",
+    "Uno offline, l'altro su GPU enormi.",
+    "Il ritardo c'è, anche se non lo vedi.",
+    "Ottimizzare adesso ti fa risparmiare ore.",
+    "Testa lo stesso prompt su entrambi prima di scegliere."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Puoi passare da un modello AI locale a uno cloud senza accorgertene, ma il ritardo è già lì.",
+        "I modelli locali funzionano offline. Quelli cloud usano cluster di GPU enormi. Ognuno ha il suo perché.",
+        "Passi da uno all'altro a metà task, senza vedere il salto di latenza. Ma esiste, e pesa.",
+        "Se ottimizzi i carichi di lavoro adesso, risparmi ore di costi di calcolo domani.",
+        "Prima di scegliere, testa lo stesso prompt su entrambi i lati. Costa meno di un abbonamento Spotify."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Passi da locale a cloud senza accorgertene.",
+        "Uno offline, l'altro su GPU enormi.",
+        "Il ritardo c'è, anche se non lo vedi.",
+        "Ottimizzare adesso ti fa risparmiare ore.",
+        "Testa lo stesso prompt su entrambi prima di scegliere."
+      ]
+    },
+    "instagram": {
+      "caption": "Su macOS puoi passare da un modello AI locale a uno cloud senza accorgerti del cambio, ma il ritardo esiste e pesa. Osaurus unisce i due mondi: i modelli locali girano offline su di te, quelli cloud sfruttano cluster di GPU enormi. Passi da uno all'altro a metà compito, e la latenza resta invisibile — finché non rallenta⁉️ Se ottimizzi i carichi adesso, risparmi ore di costi di calcolo domani. Vuoi sapere cosa conviene? Testa lo stesso prompt in locale e in cloud prima di decidere 💻☁️⚡"
+    }
+  },
+  "instagram_caption": "Su macOS puoi passare da un modello AI locale a uno cloud senza accorgerti del cambio, ma il ritardo esiste e pesa. Osaurus unisce i due mondi: i modelli locali girano offline su di te, quelli cloud sfruttano cluster di GPU enormi. Passi da uno all'altro a metà compito, e la latenza resta invisibile — finché non rallenta⁉️ Se ottimizzi i carichi adesso, risparmi ore di costi di calcolo domani. Vuoi sapere cosa conviene? Testa lo stesso prompt in locale e in cloud prima di decidere 💻☁️⚡",
+  "carousel_slides": [
+    {
+      "hook": "Cambi AI senza saperlo",
+      "description": "Passi da locale a cloud a metà task, senza vedere la latenza. Ma esiste e pesa.",
+      "visual_hint": "Interruttore invisibile tra due mondi",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "laptop smartphone switch"
+    },
+    {
+      "hook": "Offline vs Cluster GPU",
+      "description": "I modelli locali restano offline. Quelli cloud usano GPU immense. Ognuno ha il suo perché.",
+      "visual_hint": "Laptop accanto a server cluster",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "server room racks",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Switch senza accorgerti",
+      "description": "Puoi passare da un modello all'altro senza notarlo, ma il ritardo è già lì.",
+      "visual_hint": "Linea temporale con salto di latenza",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "speedometer gauge clock",
+      "image": "https://images.pexels.com/photos/27727844/pexels-photo-27727844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Risparmia ore future",
+      "description": "Se ottimizzi i carichi di lavoro ora, risparmi ore di costi di calcolo domani.",
+      "visual_hint": "Grafico decrescente con soldi risparmiati",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Testa prima di scegliere",
+      "description": "Prima di decidere, prova lo stesso prompt su entrambi. Costa meno di un abbonamento Spotify.",
+      "visual_hint": "Due schermi con stesso prompt",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "split screen monitor",
+      "image": "https://images.pexels.com/photos/16416871/pexels-photo-16416871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/osaurus-techcrunch-2-1.png?resize=1200,675",
+  "savedAt": "2026-05-15T13:45:54.756Z",
+  "sourceId": "5d5f0482cd3958819dece96da169c7c6"
+}

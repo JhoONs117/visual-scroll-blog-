@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "allenamento-attrezzi-dieta-corsi-da-seguire-tutto-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Allenamento, attrezzi, dieta, corsi da seguire: tutto sulla palestra  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/13-02-2022/scelta-macchine-durata-dell-allenamento-corsi-seguire-benvenuto-palestra-4301384142032.shtml",
+  "pubDate": "Sun, 13 Feb 2022 09:33:46 +0100",
+  "slides": [
+    "Il tuo corpo cambia con costanza e sudore.",
+    "Palestra bilancia forza, nutrizione e disciplina.",
+    "Esegui il movimento a corpo libero controllato.",
+    "Non saltare mai il riscaldamento e lo stretching.",
+    "Prenota un check-up con il tuo coach oggi."
+  ],
+  "instagram_caption": "Il vero cambiamento non è un colpo di fortuna, ma il risultato di costanza e sudore. 🔥  \nOgni ripetizione controllata a corpo libero costruisce la forza che cerchi, ma senza una bilancia tra nutrizione e disciplina il progresso resta a metà.  \nE non dimenticare mai: un riscaldamento fatto bene e lo stretching finale sono ciò che tiene il tuo corpo in palestra a lungo termine.  \nSei pronto a passare dal \"dovrei\" al \"faccio\"? Prenota subito un check-up con me, costruiamo insieme la tua strategia su misura. 💪  \nProva questo approccio già dal tuo prossimo allenamento.",
+  "formats": {
+    "instagram": {
+      "caption": "Il vero cambiamento non è un colpo di fortuna, ma il risultato di costanza e sudore. 🔥  \nOgni ripetizione controllata a corpo libero costruisce la forza che cerchi, ma senza una bilancia tra nutrizione e disciplina il progresso resta a metà.  \nE non dimenticare mai: un riscaldamento fatto bene e lo stretching finale sono ciò che tiene il tuo corpo in palestra a lungo termine.  \nSei pronto a passare dal \"dovrei\" al \"faccio\"? Prenota subito un check-up con me, costruiamo insieme la tua strategia su misura. 💪  \nProva questo approccio già dal tuo prossimo allenamento."
+    },
+    "tiktok": {
+      "script": [
+        "Il corpo cambia con costanza e sudore.",
+        "Forza, nutrizione e disciplina: tre segreti.",
+        "Esegui il movimento lento e controllato.",
+        "Riscaldamento e stretching, mai saltarli.",
+        "Prenota subito un check-up col coach."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Il tuo corpo non cambia per miracolo, ma per costanza e sudore. Ogni ripetizione che fai oggi è un mattone per il fisico che vuoi domani. Senza sacrificio non c'è risultato. 💪",
+        "In palestra servono 3 pilastri: forza, nutrizione e disciplina. Allenati con carichi progressivi, mangia per il tuo obiettivo e sii costante. Senza uno di questi, il progresso si ferma.",
+        "Esegui ogni movimento a corpo libero con controllo, non con fretta. La qualità batte la quantità: un singolo squat lento e profondo vale più di 10 fatti male. Tecnica prima di tutto.",
+        "Mai saltare riscaldamento e stretching. 5 minuti di mobilità ti salvano da infortuni e migliorano la performance. I muscoli freddi si strappano, quelli pronti crescono. Non fare l'errore di ignorarli.",
+        "Hai bisogno di una guida personalizzata? Prenota un check-up con me oggi. Analizziamo insieme la tua situazione e costruiamo un piano su misura. Scrivi in DM o clicca il link in bio. 🎯"
+      ]
+    }
+  },
+  "video_script": [
+    "Il corpo cambia con costanza e sudore.",
+    "Forza, nutrizione e disciplina: tre segreti.",
+    "Esegui il movimento lento e controllato.",
+    "Riscaldamento e stretching, mai saltarli.",
+    "Prenota subito un check-up col coach."
+  ],
+  "thread_text": [
+    "Il tuo corpo non cambia per miracolo, ma per costanza e sudore. Ogni ripetizione che fai oggi è un mattone per il fisico che vuoi domani. Senza sacrificio non c'è risultato. 💪",
+    "In palestra servono 3 pilastri: forza, nutrizione e disciplina. Allenati con carichi progressivi, mangia per il tuo obiettivo e sii costante. Senza uno di questi, il progresso si ferma.",
+    "Esegui ogni movimento a corpo libero con controllo, non con fretta. La qualità batte la quantità: un singolo squat lento e profondo vale più di 10 fatti male. Tecnica prima di tutto.",
+    "Mai saltare riscaldamento e stretching. 5 minuti di mobilità ti salvano da infortuni e migliorano la performance. I muscoli freddi si strappano, quelli pronti crescono. Non fare l'errore di ignorarli.",
+    "Hai bisogno di una guida personalizzata? Prenota un check-up con me oggi. Analizziamo insieme la tua situazione e costruiamo un piano su misura. Scrivi in DM o clicca il link in bio. 🎯"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Il corpo cambia con costanza",
+      "description": "Ogni goccia di sudore ti avvicina al risultato. La trasformazione nasce dalla disciplina quotidiana e dal movimento giusto.",
+      "visual_hint": "Primo piano atleta che suda",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "gym workout sweat"
+    },
+    {
+      "hook": "Forza, nutrizione, disciplina",
+      "description": "In palestra non bastano i pesi: bilancia allenamento, alimentazione e costanza per vedere progressi veri e duraturi.",
+      "visual_hint": "Pesi e piatto bilanciato",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "balanced diet gym",
+      "image": "https://images.pexels.com/photos/6740520/pexels-photo-6740520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Movimento controllato a corpo libero",
+      "description": "Esegui ogni ripetizione con lentezza e controllo: attivi i muscoli profondi, riduci il rischio infortuni e migliori la postura.",
+      "visual_hint": "Primo piano uomo fa squat",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "bodyweight squat form",
+      "image": "https://images.pexels.com/photos/4164454/pexels-photo-4164454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non saltare riscaldamento e stretching",
+      "description": "Molti iniziano subito forte e si infortunano. Riscaldamento e stretching preparano muscoli e articolazioni, aumentano la performance.",
+      "visual_hint": "Persona in stretching dinamico",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "dynamic stretching warmup",
+      "image": "https://images.pexels.com/photos/31492042/pexels-photo-31492042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prenota ora il tuo check-up",
+      "description": "Non lasciare al caso il tuo percorso. Un coach personalizza obiettivi, correggi la tecnica e ti motiva. Clicca il link in bio e inizia.",
+      "visual_hint": "Telefono e calendario appuntamento",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "fitness coach appointment",
+      "image": "https://images.pexels.com/photos/4587348/pexels-photo-4587348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a78ed854eb.jpeg",
+  "savedAt": "2026-05-15T13:58:20.756Z",
+  "sourceId": "dd661e44df0f1c6441f8aa886973a3ea"
+}

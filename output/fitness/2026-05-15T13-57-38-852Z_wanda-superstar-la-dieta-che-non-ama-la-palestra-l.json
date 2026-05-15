@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "wanda-superstar-la-dieta-che-non-ama-la-palestra-l",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Wanda superstar!  La dieta (che non ama), la palestra, la chirurgia: quello che non sai di lei  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/storie/13-02-2022/wanda-nara-icardi-chirurgia-fisico-top-5-figli-foto-4301391538664/",
+  "pubDate": "Sun, 13 Feb 2022 09:36:44 +0100",
+  "slides": [
+    "Risultati veri? Disciplina batte geni.",
+    "Ogni ripetizione costruisce la tua forza.",
+    "Contrai il core, spinta uniforme e controllata.",
+    "Non iperestendere mai la schiena nello sforzo.",
+    "Oggi fai 3 serie da 12 ripetizioni."
+  ],
+  "instagram_caption": "Il segreto di Wanda? Non è nei geni, ma nella disciplina che mette ogni giorno. 💥 I risultati veri si costruiscono ripetizione dopo ripetizione, con un core ben contratto e una spinta uniforme e controllata. Attenzione: mai iperestendere la schiena nello sforzo, la tecnica è tutto. Per oggi, programma semplice e potente: 3 serie da 12 ripetizioni, eseguite con focus e senza fretta. Pronto a trasformare la fatica in forza? Prova questo schema nel tuo prossimo allenamento 🔥",
+  "formats": {
+    "instagram": {
+      "caption": "Il segreto di Wanda? Non è nei geni, ma nella disciplina che mette ogni giorno. 💥 I risultati veri si costruiscono ripetizione dopo ripetizione, con un core ben contratto e una spinta uniforme e controllata. Attenzione: mai iperestendere la schiena nello sforzo, la tecnica è tutto. Per oggi, programma semplice e potente: 3 serie da 12 ripetizioni, eseguite con focus e senza fretta. Pronto a trasformare la fatica in forza? Prova questo schema nel tuo prossimo allenamento 🔥"
+    },
+    "tiktok": {
+      "script": [
+        "Disciplina batte geni, veri risultati.",
+        "Ogni ripetizione costruisce la tua forza.",
+        "Contrai il core, spinta controllata.",
+        "Non iperestendere la schiena nello sforzo.",
+        "Fai 3 serie da 12 ripetizioni."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Wanda superstar? La sua dieta, la palestra, la chirurgia. Ma la vera domanda è: cosa funziona davvero? Spoiler: non i geni. La disciplina batte tutto. Ecco come costruire forza senza scuse.",
+        "Ogni ripetizione è un mattone. Non contare solo i numeri: senti il muscolo lavorare. La forza vera nasce da lì, non da macchine costose o diete trendy. Sii presente in ogni movimento.",
+        "Contrai il core prima di ogni spinta. Mantieni tensione uniforme e controllata per tutto il range. Così proteggi la colonna e recluti meglio i muscoli. Controllo = progresso.",
+        "Errore comune: iperestendere la schiena nello sforzo. Blocca il bacino, non inarcare. Se senti la zona lombare, stai sbagliando. Schiena neutra sempre, anche quando è dura.",
+        "Oggi fai 3 serie da 12 ripetizioni. Concentrati sulla tecnica, non sul peso. Ogni rep è tua. Prova domani e fammi sapere com'è andata. Ti aspetto nei commenti."
+      ]
+    }
+  },
+  "video_script": [
+    "Disciplina batte geni, veri risultati.",
+    "Ogni ripetizione costruisce la tua forza.",
+    "Contrai il core, spinta controllata.",
+    "Non iperestendere la schiena nello sforzo.",
+    "Fai 3 serie da 12 ripetizioni."
+  ],
+  "thread_text": [
+    "Wanda superstar? La sua dieta, la palestra, la chirurgia. Ma la vera domanda è: cosa funziona davvero? Spoiler: non i geni. La disciplina batte tutto. Ecco come costruire forza senza scuse.",
+    "Ogni ripetizione è un mattone. Non contare solo i numeri: senti il muscolo lavorare. La forza vera nasce da lì, non da macchine costose o diete trendy. Sii presente in ogni movimento.",
+    "Contrai il core prima di ogni spinta. Mantieni tensione uniforme e controllata per tutto il range. Così proteggi la colonna e recluti meglio i muscoli. Controllo = progresso.",
+    "Errore comune: iperestendere la schiena nello sforzo. Blocca il bacino, non inarcare. Se senti la zona lombare, stai sbagliando. Schiena neutra sempre, anche quando è dura.",
+    "Oggi fai 3 serie da 12 ripetizioni. Concentrati sulla tecnica, non sul peso. Ogni rep è tua. Prova domani e fammi sapere com'è andata. Ti aspetto nei commenti."
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Disciplina batte geni sempre",
+      "description": "Risultati veri arrivano con costanza: ogni seduta plasma il corpo più della genetica.",
+      "visual_hint": "Wanda in palestra seria",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "woman gym determination"
+    },
+    {
+      "hook": "Ogni ripetizione conta",
+      "description": "Costruisci forza con costanza: ogni ripetizione è un passo verso il tuo corpo ideale.",
+      "visual_hint": "Atleta concentrata su macchinario",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "focus gym repetition",
+      "image": "https://images.pexels.com/photos/17626056/pexels-photo-17626056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Contrai il core e spingi",
+      "description": "Spinta uniforme e controllata con core attivo: massimo beneficio, minimo rischio.",
+      "visual_hint": "Dettaglio addome contratto",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "core contraction workout",
+      "image": "https://images.pexels.com/photos/8033005/pexels-photo-8033005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Mai iperestendere la schiena",
+      "description": "Errore comune nello sforzo: mantieni schiena neutra per evitare dolori e infortuni.",
+      "visual_hint": "Correzione postura schiena",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "back posture correction",
+      "image": "https://images.pexels.com/photos/6094033/pexels-photo-6094033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Oggi 3 serie da 12 rep",
+      "description": "Allenati subito: esegui 3 serie da 12 ripetizioni con la tecnica corretta e senti i risultati.",
+      "visual_hint": "Call to action allenamento",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "exercise sets reps",
+      "image": "https://images.pexels.com/photos/32695888/pexels-photo-32695888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a7678193bd.jpeg",
+  "savedAt": "2026-05-15T13:57:59.289Z",
+  "sourceId": "3e0144c966f5f4d6a3964f4971d813df"
+}

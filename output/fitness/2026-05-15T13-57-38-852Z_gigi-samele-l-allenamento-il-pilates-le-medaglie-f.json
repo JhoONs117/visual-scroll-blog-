@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "gigi-samele-l-allenamento-il-pilates-le-medaglie-f",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Gigi Samele: \"L'allenamento, il pilates, le medaglie, Federer e Nadal. Vi svelo tutto\"  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/13-02-2022/gigi-samele-intervista-il-pilates-routine-medaglie-federer-nadal-4301236631226.shtml",
+  "pubDate": "Sun, 13 Feb 2022 09:32:32 +0100",
+  "slides": [
+    "La disciplina costruisce campioni dentro e fuori.",
+    "Pilates per forza, flessibilità e medaglie.",
+    "Controllo del respiro durante ogni movimento.",
+    "Non forzare mai la colonna vertebrale.",
+    "Segui oggi stesso una lezione di pilates."
+  ],
+  "instagram_caption": "Il segreto di un campione? Trasformare ogni movimento in disciplina mentale e fisica. 🏅  \nCome Gigi Samele, unisci la potenza della scherma alla precisione del Pilates: forza, flessibilità e controllo del respiro in ogni gesto.  \nMai forzare la colonna: allunga, stabilizza, e ascolta il tuo corpo.  \nCostruisci il tuo oro personale, un respiro alla volta.  \nProva una lezione di Pilates oggi stesso e senti la differenza. 🔥🧘‍♂️",
+  "formats": {
+    "instagram": {
+      "caption": "Il segreto di un campione? Trasformare ogni movimento in disciplina mentale e fisica. 🏅  \nCome Gigi Samele, unisci la potenza della scherma alla precisione del Pilates: forza, flessibilità e controllo del respiro in ogni gesto.  \nMai forzare la colonna: allunga, stabilizza, e ascolta il tuo corpo.  \nCostruisci il tuo oro personale, un respiro alla volta.  \nProva una lezione di Pilates oggi stesso e senti la differenza. 🔥🧘‍♂️"
+    },
+    "tiktok": {
+      "script": [
+        "Parti così: disciplina dentro e fuori.",
+        "Pilates dà forza, flessibilità e medaglie.",
+        "Il segreto è controllare ogni respiro.",
+        "Evita questo errore: mai forzare la schiena.",
+        "Segui oggi una lezione di pilates."
+      ]
+    },
+    "x": {
+      "thread": [
+        "La disciplina non costruisce solo campioni nello sport. Costruisce carattere. Gigi Samele lo dimostra: ogni medaglia è il risultato di scelte quotidiane, non di colpi di fortuna. Inizia con le basi, e il resto viene da sé.",
+        "Pilates non è solo stretching. Samele lo usa per forza funzionale e flessibilità dinamica — due elementi che fanno la differenza in pedana e nella vita. Ogni movimento ha un perché. Non si improvvisa.",
+        "Il segreto è nel respiro. Inspira per prepararti, espira mentre esegui. Controllo del respiro = controllo del movimento. Federer e Nadal lo sanno bene: senza ritmo, non c'è potenza.",
+        "Errore comune: forzare la colonna vertebrale. La schiena non va mai piegata sotto carico senza stabilità. Samele mantiene sempre l'allineamento. Se senti dolore, fermati. Riscaldati bene e ascolta il corpo.",
+        "Vuoi iniziare a costruire la tua disciplina? Segui oggi stesso una lezione di pilates. 20 minuti al giorno bastano per sentire la differenza. Prova domani e dimmi com'è andata 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Parti così: disciplina dentro e fuori.",
+    "Pilates dà forza, flessibilità e medaglie.",
+    "Il segreto è controllare ogni respiro.",
+    "Evita questo errore: mai forzare la schiena.",
+    "Segui oggi una lezione di pilates."
+  ],
+  "thread_text": [
+    "La disciplina non costruisce solo campioni nello sport. Costruisce carattere. Gigi Samele lo dimostra: ogni medaglia è il risultato di scelte quotidiane, non di colpi di fortuna. Inizia con le basi, e il resto viene da sé.",
+    "Pilates non è solo stretching. Samele lo usa per forza funzionale e flessibilità dinamica — due elementi che fanno la differenza in pedana e nella vita. Ogni movimento ha un perché. Non si improvvisa.",
+    "Il segreto è nel respiro. Inspira per prepararti, espira mentre esegui. Controllo del respiro = controllo del movimento. Federer e Nadal lo sanno bene: senza ritmo, non c'è potenza.",
+    "Errore comune: forzare la colonna vertebrale. La schiena non va mai piegata sotto carico senza stabilità. Samele mantiene sempre l'allineamento. Se senti dolore, fermati. Riscaldati bene e ascolta il corpo.",
+    "Vuoi iniziare a costruire la tua disciplina? Segui oggi stesso una lezione di pilates. 20 minuti al giorno bastano per sentire la differenza. Prova domani e dimmi com'è andata 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Disciplina costruisce campioni dentro e fuori",
+      "description": "La costanza trasforma il corpo e la mente. Gigi Samele mostra come il Pilates costruisca campioni vincenti.",
+      "visual_hint": "Gigi Samele in posa atletica",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "athlete pilates champion"
+    },
+    {
+      "hook": "Pilates per forza, flessibilità e medaglie",
+      "description": "Integra il Pilates nella tua routine per migliorare performance e prevenire infortuni, proprio come fa Samele.",
+      "visual_hint": "Esercizio pilates su tappetino",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "pilates mat workout",
+      "image": "https://images.pexels.com/photos/33360053/pexels-photo-33360053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controllo del respiro durante ogni movimento",
+      "description": "Inspira ed espira con ritmo: il respiro aumenta la concentrazione e l'efficacia di ogni esercizio.",
+      "visual_hint": "Primo piano respiro allenamento",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "breathing exercise closeup",
+      "image": "https://images.pexels.com/photos/7663037/pexels-photo-7663037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non forzare mai la colonna vertebrale",
+      "description": "Evita curvature eccessive. Tieni la schiena neutra per proteggere la colonna e ottenere risultati sicuri.",
+      "visual_hint": "Schiena dritta esercizio",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "spine alignment exercise",
+      "image": "https://images.pexels.com/photos/6800694/pexels-photo-6800694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Segui oggi stesso una lezione di pilates",
+      "description": "Inizia subito con un video gratuito. Trasforma il tuo corpo con la disciplina dei campioni.",
+      "visual_hint": "Call to action pilates",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "start pilates class",
+      "image": "https://images.pexels.com/photos/33360043/pexels-photo-33360043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a77059bc0d.jpeg",
+  "savedAt": "2026-05-15T13:58:40.399Z",
+  "sourceId": "493ccf9f88f371572fb10d976fd6d9b7"
+}
