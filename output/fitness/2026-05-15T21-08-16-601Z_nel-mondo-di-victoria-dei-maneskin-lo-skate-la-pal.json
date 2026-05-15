@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "nel-mondo-di-victoria-dei-maneskin-lo-skate-la-pal",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nel mondo di Victoria dei Maneskin: lo skate, la palestra, Chili e... il bikini scandalo  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/storie/01-02-2022/victoria-maneskin-segreti-skate-palestra-passato-difficile-sua-chili-4301189240584/",
+  "pubDate": "Tue, 1 Feb 2022 11:18:05 +0100",
+  "slides": [
+    "Allenati come Victoria: sicurezza e stile.",
+    "Skate e palestra uniscono equilibrio e forza.",
+    "Pancia in dentro, spalle indietro, squat stabile.",
+    "Non curvare la schiena nello squat.",
+    "Fai 3 serie da 10 squat oggi."
+  ],
+  "instagram_caption": "La combo skate + palestra ti dà l’equilibrio e la forza che vedi in Victoria dei Måneskin. 🛹💪  \nPancia in dentro, spalle indietro: quello squat diventa stabile e sicuro. Non curvarla mai, la schiena.  \nTre serie da dieci reps oggi, con la stessa grinta di chi non ha paura di osare.  \nAccendi la playlist, spingi i talloni e senti il fuoco. Pronto a trasformare il tuo corpo? Prova questo esercizio domani mattina. 🔥",
+  "formats": {
+    "instagram": {
+      "caption": "La combo skate + palestra ti dà l’equilibrio e la forza che vedi in Victoria dei Måneskin. 🛹💪  \nPancia in dentro, spalle indietro: quello squat diventa stabile e sicuro. Non curvarla mai, la schiena.  \nTre serie da dieci reps oggi, con la stessa grinta di chi non ha paura di osare.  \nAccendi la playlist, spingi i talloni e senti il fuoco. Pronto a trasformare il tuo corpo? Prova questo esercizio domani mattina. 🔥"
+    },
+    "tiktok": {
+      "script": [
+        "Allenati come Victoria: sicurezza e stile.",
+        "Skate e palestra uniscono forza ed equilibrio.",
+        "Pancia in dentro, spalle indietro, squat stabile.",
+        "Non curvare la schiena nello squat, ok?",
+        "Fai oggi 3 serie da 10 squat."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Vuoi fitness con stile e sicurezza? Ispirati a Victoria dei Måneskin: skate, palestra e una presenza che non passa inosservata. Ecco il workout che unisce equilibrio e forza. 🔥",
+        "Skate + palestra = combo vincente. Lo skate allena equilibrio e reattività; la palestra costruisce forza stabile. Inizia con la postura: pancia in dentro, spalle indietro. Base per ogni movimento.",
+        "Ora lo squat. Piedi larghi quanto i fianchi, peso sui talloni, scendi come se ti sedessi. Mantieni il core attivo e lo sguardo avanti. Stabile come su uno skate in curva.",
+        "Errore comune: curvare la schiena nello squat. Schiena dritta e petto aperto, sempre. Una schiena curva è instabile e rischiosa. Controllo prima di tutto.",
+        "Oggi fai 3 serie da 10 squat con questa tecnica. Pausa 60 secondi tra le serie. Prova domani e dimmi com’è andata 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Allenati come Victoria: sicurezza e stile.",
+    "Skate e palestra uniscono forza ed equilibrio.",
+    "Pancia in dentro, spalle indietro, squat stabile.",
+    "Non curvare la schiena nello squat, ok?",
+    "Fai oggi 3 serie da 10 squat."
+  ],
+  "thread_text": [
+    "Vuoi fitness con stile e sicurezza? Ispirati a Victoria dei Måneskin: skate, palestra e una presenza che non passa inosservata. Ecco il workout che unisce equilibrio e forza. 🔥",
+    "Skate + palestra = combo vincente. Lo skate allena equilibrio e reattività; la palestra costruisce forza stabile. Inizia con la postura: pancia in dentro, spalle indietro. Base per ogni movimento.",
+    "Ora lo squat. Piedi larghi quanto i fianchi, peso sui talloni, scendi come se ti sedessi. Mantieni il core attivo e lo sguardo avanti. Stabile come su uno skate in curva.",
+    "Errore comune: curvare la schiena nello squat. Schiena dritta e petto aperto, sempre. Una schiena curva è instabile e rischiosa. Controllo prima di tutto.",
+    "Oggi fai 3 serie da 10 squat con questa tecnica. Pausa 60 secondi tra le serie. Prova domani e dimmi com’è andata 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Skate, palestra e stile",
+      "description": "Unisci equilibrio e forza come Victoria. Il segreto è la postura.",
+      "visual_hint": "Victoria skate palestra",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "woman skate gym"
+    },
+    {
+      "hook": "Equilibrio + forza",
+      "description": "Lo skate allena il core, la palestra la potenza. Un mix perfetto.",
+      "visual_hint": "Skate e squat",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "skateboard squat woman",
+      "image": "https://images.pexels.com/photos/12892706/pexels-photo-12892706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pancia in dentro, squat stabile",
+      "description": "Stringi gli addominali e tieni il peso sui talloni per uno squat sicuro.",
+      "visual_hint": "Core attivo squat",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "woman squat core",
+      "image": "https://images.pexels.com/photos/8402239/pexels-photo-8402239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Errore: schiena curva",
+      "description": "Non curvare la schiena. Ginocchia aperte e petto su per proteggere la colonna.",
+      "visual_hint": "Schiena dritta squat",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "squat back straight",
+      "image": "https://images.pexels.com/photos/29259727/pexels-photo-29259727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fai 3x10 squat oggi",
+      "description": "Prova questo allenamento. 3 serie da 10 ripetizioni. E segui per altri consigli.",
+      "visual_hint": "Call to action squat",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "home squat workout",
+      "image": "https://images.pexels.com/photos/8032914/pexels-photo-8032914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059507312a3.jpeg",
+  "savedAt": "2026-05-15T21:08:46.657Z",
+  "sourceId": "d0f326a25149d76953267cba59a96cd4"
+}

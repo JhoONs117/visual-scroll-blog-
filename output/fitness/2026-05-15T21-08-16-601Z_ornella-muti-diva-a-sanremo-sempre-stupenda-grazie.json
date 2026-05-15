@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "ornella-muti-diva-a-sanremo-sempre-stupenda-grazie",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ornella Muti, diva a Sanremo: sempre stupenda grazie a dieta, yoga e cura della pelle  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/storie/01-02-2022/ornella-muti-sanremo-diva-forma-top-yoga-dieta-skincare-4301193316246/",
+  "pubDate": "Tue, 1 Feb 2022 16:23:45 +0100",
+  "slides": [
+    "La costanza paga: il tuo corpo ti ringrazierà.",
+    "Yoga e dieta mantengono giovane e tonica.",
+    "Respira e allunga i muscoli ogni mattina.",
+    "Non saltare la routine se cerchi risultati.",
+    "Oggi fai 10 minuti di stretching attivo."
+  ],
+  "instagram_caption": "Il segreto di un corpo tonico e giovane non è un miracolo, ma costanza. 🧘‍♀️  \nYoga, respiro e una skincare mirata mantengono elastica la muscolatura e luminosa la pelle.  \nOgni mattina, 10 minuti di stretching attivo sbloccano le tensioni e risvegliano i tessuti.  \nNon serve strafare: basta onorare la routine con disciplina e amore per te stesso.  \nI risultati arrivano quando non salti un giorno.  \nOra alzati e dedica 10 minuti a questa sequenza: respira, allunga, attiva. 💪",
+  "formats": {
+    "instagram": {
+      "caption": "Il segreto di un corpo tonico e giovane non è un miracolo, ma costanza. 🧘‍♀️  \nYoga, respiro e una skincare mirata mantengono elastica la muscolatura e luminosa la pelle.  \nOgni mattina, 10 minuti di stretching attivo sbloccano le tensioni e risvegliano i tessuti.  \nNon serve strafare: basta onorare la routine con disciplina e amore per te stesso.  \nI risultati arrivano quando non salti un giorno.  \nOra alzati e dedica 10 minuti a questa sequenza: respira, allunga, attiva. 💪"
+    },
+    "tiktok": {
+      "script": [
+        "Parti così: costanza al top.",
+        "Il segreto? Yoga e dieta.",
+        "Respira e allunga ogni mattina.",
+        "Non saltare mai la routine.",
+        "Oggi fai 10 minuti di stretching."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Il segreto di Ornella Muti a 69 anni? Non è la genetica, è la costanza. Il tuo corpo ti ringrazia quando lo tratti bene ogni giorno, non solo a Sanremo. Vuoi sapere come?",
+        "Yoga + dieta: la combo che mantiene tonici e giovani. Lo yoga allunga i muscoli, la dieta giusta riduce infiammazione. Inizia con 5 minuti di respirazione profonda al mattino.",
+        "L'errore comune: pensare che basti un allenamento intenso ogni tanto. La vera magia è la routine quotidiana. Respira e allunga i muscoli ogni mattina per attivare il metabolismo.",
+        "Non saltare la routine. I risultati arrivano solo se sei costante. Anche 10 minuti di stretching attivo fanno la differenza: migliorano postura, flessibilità e circolazione.",
+        "Oggi prova questo: 10 minuti di stretching attivo. Allunga braccia, gambe e schiena. Fallo domani mattina e dimmi come ti senti 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Parti così: costanza al top.",
+    "Il segreto? Yoga e dieta.",
+    "Respira e allunga ogni mattina.",
+    "Non saltare mai la routine.",
+    "Oggi fai 10 minuti di stretching."
+  ],
+  "thread_text": [
+    "Il segreto di Ornella Muti a 69 anni? Non è la genetica, è la costanza. Il tuo corpo ti ringrazia quando lo tratti bene ogni giorno, non solo a Sanremo. Vuoi sapere come?",
+    "Yoga + dieta: la combo che mantiene tonici e giovani. Lo yoga allunga i muscoli, la dieta giusta riduce infiammazione. Inizia con 5 minuti di respirazione profonda al mattino.",
+    "L'errore comune: pensare che basti un allenamento intenso ogni tanto. La vera magia è la routine quotidiana. Respira e allunga i muscoli ogni mattina per attivare il metabolismo.",
+    "Non saltare la routine. I risultati arrivano solo se sei costante. Anche 10 minuti di stretching attivo fanno la differenza: migliorano postura, flessibilità e circolazione.",
+    "Oggi prova questo: 10 minuti di stretching attivo. Allunga braccia, gambe e schiena. Fallo domani mattina e dimmi come ti senti 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "La costanza è il segreto della bellezza",
+      "description": "Un corpo tonico e giovane si costruisce giorno dopo giorno, senza scorciatoie.",
+      "visual_hint": "Donna fitness sorriso specchio",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "fit woman smiling mirror"
+    },
+    {
+      "hook": "Yoga e dieta: l'elisir di lunga vita",
+      "description": "Abbina alimentazione sana e stretching per mantenere elasticità e luminosità come Ornella Muti.",
+      "visual_hint": "Donna yoga spiaggia tramonto",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "yoga woman beach sunset",
+      "image": "https://images.pexels.com/photos/13849280/pexels-photo-13849280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Respira e allunga ogni mattina",
+      "description": "5 minuti di respirazione diaframmatica e allungamento muscolare attivano metabolismo e circolazione.",
+      "visual_hint": "Primo piano donna respira",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "woman breathing stretching closeup",
+      "image": "https://images.pexels.com/photos/8916196/pexels-photo-8916196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non saltare la routine se vuoi risultati",
+      "description": "Errore: pensare che un giorno di pausa non conti. Correggi: programma anche i recuperi attivi.",
+      "visual_hint": "Calendario segnato fitness",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "fitness calendar hands marked",
+      "image": "https://images.pexels.com/photos/6892904/pexels-photo-6892904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Oggi 10 minuti di stretching attivo",
+      "description": "Segui il video sul profilo o fai affondi, torsioni e allungamenti dinamici ora.",
+      "visual_hint": "Donna stretching timer 10min",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "woman stretching timer ten minutes",
+      "image": "https://images.pexels.com/photos/4051518/pexels-photo-4051518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205950a715d2.jpeg",
+  "savedAt": "2026-05-15T21:08:31.698Z",
+  "sourceId": "b46661fb21d300e6ee1db250d9c302da"
+}

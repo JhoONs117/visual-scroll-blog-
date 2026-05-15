@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "rj-scaringe-has-raised-more-than-12-billion-across",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "RJ Scaringe has raised more than $12 billion across three startups and investors still want more",
+  "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
+  "pubDate": "Fri, 15 May 2026 20:30:20 +0000",
+  "slides": [
+    "RJ Scaringe raised $12B, but what's next?",
+    "His latest startup burned cash faster than expected.",
+    "Investors are demanding more despite the losses.",
+    "You might rethink backing unprofitable founders.",
+    "Watch the next funding round—it's telling."
+  ],
+  "thread_text": [
+    "Investitori che chiedono di più a un fondatore che ha bruciato 12 miliardi. Questa è la storia di RJ Scaringe. E potrebbe cambiare come vedi le startup.",
+    "Ha raccolto 12 miliardi. Sembrava una certezza. Poi il flusso di cassa è andato peggio di ogni previsione.",
+    "Ora i soci pretendono risultati. Non importa il carisma o la visione. Conta solo il ritorno.",
+    "Se pensi che un fondatore 'unprofitable' sia un rischio calcolato, forse devi rivedere il tuo modello mentale.",
+    "Prossimo round: o arriva con una valutazione dimezzata, o non arriva. Aggiorna la watchlist."
+  ],
+  "video_script": [
+    "12 miliardi raccolti. Poi il disastro.",
+    "RJ Scaringe ha bruciato tutto più veloce del previsto.",
+    "Ora chi ha investito pretende risposte.",
+    "Fondatori senza profitti? Non sono più una scommessa sicura.",
+    "Il prossimo round di finanziamento dirà tutto."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Investitori che chiedono di più a un fondatore che ha bruciato 12 miliardi. Questa è la storia di RJ Scaringe. E potrebbe cambiare come vedi le startup.",
+        "Ha raccolto 12 miliardi. Sembrava una certezza. Poi il flusso di cassa è andato peggio di ogni previsione.",
+        "Ora i soci pretendono risultati. Non importa il carisma o la visione. Conta solo il ritorno.",
+        "Se pensi che un fondatore 'unprofitable' sia un rischio calcolato, forse devi rivedere il tuo modello mentale.",
+        "Prossimo round: o arriva con una valutazione dimezzata, o non arriva. Aggiorna la watchlist."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "12 miliardi raccolti. Poi il disastro.",
+        "RJ Scaringe ha bruciato tutto più veloce del previsto.",
+        "Ora chi ha investito pretende risposte.",
+        "Fondatori senza profitti? Non sono più una scommessa sicura.",
+        "Il prossimo round di finanziamento dirà tutto."
+      ]
+    },
+    "instagram": {
+      "caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, ma l'ultima brucia cassa più del previsto. 💸 I soci, nonostante le perdite, pretendono altro denaro. Perché? Perché la fiducia nel fondatore non basta: servono ritorni. 🚩 Se lavori in una scale-up o investi in early stage, questo caso ti dice che visione e carisma non pagano il prossimo round. La valutazione del prossimo giro dimezzerà o salterà. Aggiorni la tua watchlist? 👀"
+    }
+  },
+  "instagram_caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, ma l'ultima brucia cassa più del previsto. 💸 I soci, nonostante le perdite, pretendono altro denaro. Perché? Perché la fiducia nel fondatore non basta: servono ritorni. 🚩 Se lavori in una scale-up o investi in early stage, questo caso ti dice che visione e carisma non pagano il prossimo round. La valutazione del prossimo giro dimezzerà o salterà. Aggiorni la tua watchlist? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Investitori vogliono ancora di più",
+      "description": "Investitori chiedono di più a un fondatore che ha bruciato 12 miliardi. Ecco la storia di RJ Scaringe.",
+      "visual_hint": "Grafico finanziario in rosso",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart down"
+    },
+    {
+      "hook": "Bruciati 12 miliardi, ora perdite",
+      "description": "Aveva raccolto 12 miliardi, sembrava una certezza. Poi il flusso di cassa è crollato oltre le previsioni.",
+      "visual_hint": "Fiamma su banconote",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "burning money cash",
+      "image": "https://images.pexels.com/photos/4588673/pexels-photo-4588673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Soci pretendono risultati, non visione",
+      "description": "Ora i soci vogliono ritorni. Carisma e visione non bastano più: conta solo il profitto.",
+      "visual_hint": "Mani che stringono contratto",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "business handshake contract",
+      "image": "https://images.pexels.com/photos/7693144/pexels-photo-7693144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rischio calcolato o follia?",
+      "description": "Se credi che un fondatore non redditizio sia un rischio calcolato, forse devi rivedere il tuo modello mentale.",
+      "visual_hint": "Cervello con ingranaggi",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "brain gears thinking",
+      "image": "https://images.pexels.com/photos/9162028/pexels-photo-9162028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prossimo round dirà tutto",
+      "description": "Il prossimo round o arriva con valutazione dimezzata, o non arriva. Metti in watchlist.",
+      "visual_hint": "Lente d'ingrandimento su grafico",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass chart",
+      "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/12/rj-scaringe.jpeg?resize=1200,900",
+  "savedAt": "2026-05-15T20:56:28.784Z",
+  "sourceId": "db4a531cb91ee4f28dfdaa09296c7f4f"
+}

@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "rj-scaringe-has-raised-more-than-12-billion-across",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "RJ Scaringe has raised more than $12 billion across three startups and investors still want more",
+      "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
+      "pubDate": "Fri, 15 May 2026 20:30:20 +0000",
+      "slides": [
+        "RJ Scaringe raised $12B, but what's next?",
+        "His latest startup burned cash faster than expected.",
+        "Investors are demanding more despite the losses.",
+        "You might rethink backing unprofitable founders.",
+        "Watch the next funding round—it's telling."
+      ],
+      "thread_text": [
+        "Investitori che chiedono di più a un fondatore che ha bruciato 12 miliardi. Questa è la storia di RJ Scaringe. E potrebbe cambiare come vedi le startup.",
+        "Ha raccolto 12 miliardi. Sembrava una certezza. Poi il flusso di cassa è andato peggio di ogni previsione.",
+        "Ora i soci pretendono risultati. Non importa il carisma o la visione. Conta solo il ritorno.",
+        "Se pensi che un fondatore 'unprofitable' sia un rischio calcolato, forse devi rivedere il tuo modello mentale.",
+        "Prossimo round: o arriva con una valutazione dimezzata, o non arriva. Aggiorna la watchlist."
+      ],
+      "video_script": [
+        "12 miliardi raccolti. Poi il disastro.",
+        "RJ Scaringe ha bruciato tutto più veloce del previsto.",
+        "Ora chi ha investito pretende risposte.",
+        "Fondatori senza profitti? Non sono più una scommessa sicura.",
+        "Il prossimo round di finanziamento dirà tutto."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Investitori che chiedono di più a un fondatore che ha bruciato 12 miliardi. Questa è la storia di RJ Scaringe. E potrebbe cambiare come vedi le startup.",
+            "Ha raccolto 12 miliardi. Sembrava una certezza. Poi il flusso di cassa è andato peggio di ogni previsione.",
+            "Ora i soci pretendono risultati. Non importa il carisma o la visione. Conta solo il ritorno.",
+            "Se pensi che un fondatore 'unprofitable' sia un rischio calcolato, forse devi rivedere il tuo modello mentale.",
+            "Prossimo round: o arriva con una valutazione dimezzata, o non arriva. Aggiorna la watchlist."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "12 miliardi raccolti. Poi il disastro.",
+            "RJ Scaringe ha bruciato tutto più veloce del previsto.",
+            "Ora chi ha investito pretende risposte.",
+            "Fondatori senza profitti? Non sono più una scommessa sicura.",
+            "Il prossimo round di finanziamento dirà tutto."
+          ]
+        },
+        "instagram": {
+          "caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, ma l'ultima brucia cassa più del previsto. 💸 I soci, nonostante le perdite, pretendono altro denaro. Perché? Perché la fiducia nel fondatore non basta: servono ritorni. 🚩 Se lavori in una scale-up o investi in early stage, questo caso ti dice che visione e carisma non pagano il prossimo round. La valutazione del prossimo giro dimezzerà o salterà. Aggiorni la tua watchlist? 👀"
+        }
+      },
+      "instagram_caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, ma l'ultima brucia cassa più del previsto. 💸 I soci, nonostante le perdite, pretendono altro denaro. Perché? Perché la fiducia nel fondatore non basta: servono ritorni. 🚩 Se lavori in una scale-up o investi in early stage, questo caso ti dice che visione e carisma non pagano il prossimo round. La valutazione del prossimo giro dimezzerà o salterà. Aggiorni la tua watchlist? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Investitori vogliono ancora di più",
+          "description": "Investitori chiedono di più a un fondatore che ha bruciato 12 miliardi. Ecco la storia di RJ Scaringe.",
+          "visual_hint": "Grafico finanziario in rosso",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart down"
+        },
+        {
+          "hook": "Bruciati 12 miliardi, ora perdite",
+          "description": "Aveva raccolto 12 miliardi, sembrava una certezza. Poi il flusso di cassa è crollato oltre le previsioni.",
+          "visual_hint": "Fiamma su banconote",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "burning money cash",
+          "image": "https://images.pexels.com/photos/4588673/pexels-photo-4588673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Soci pretendono risultati, non visione",
+          "description": "Ora i soci vogliono ritorni. Carisma e visione non bastano più: conta solo il profitto.",
+          "visual_hint": "Mani che stringono contratto",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "business handshake contract",
+          "image": "https://images.pexels.com/photos/7693144/pexels-photo-7693144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rischio calcolato o follia?",
+          "description": "Se credi che un fondatore non redditizio sia un rischio calcolato, forse devi rivedere il tuo modello mentale.",
+          "visual_hint": "Cervello con ingranaggi",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "brain gears thinking",
+          "image": "https://images.pexels.com/photos/9162028/pexels-photo-9162028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prossimo round dirà tutto",
+          "description": "Il prossimo round o arriva con valutazione dimezzata, o non arriva. Metti in watchlist.",
+          "visual_hint": "Lente d'ingrandimento su grafico",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "magnifying glass chart",
+          "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/rj-scaringe.jpeg?resize=1200,900",
+      "savedAt": "2026-05-15T20:56:28.784Z",
+      "sourceId": "db4a531cb91ee4f28dfdaa09296c7f4f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "indian-uber-rival-rapido-raises-240m-at-3b-valuati",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -19308,6 +19412,318 @@ window.AGENTS = {
     }
   ],
   "fitness": [
+    {
+      "schema_version": 2,
+      "agent": "fitness",
+      "slug": "mahmood-e-blanco-tra-pizza-e-calcetto-l-autore-di-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Mahmood e Blanco tra pizza e calcetto. L'autore di \"Soldi\": \"Senza palestra non so stare\"  ",
+      "link": "https://www.gazzetta.it/fitness/allenamento/01-02-2022/mahmood-blanco-favoriti-pizza-calcetto-autore-soldi-senza-palestra-non-so-stare-4301189975783.shtml",
+      "pubDate": "Tue, 1 Feb 2022 11:13:57 +0100",
+      "slides": [
+        "Più energia senza palestra? Non esiste.",
+        "Il corpo chiede movimento ogni giorno.",
+        "Esercizio chiave: squat a corpo libero.",
+        "Non piegare le ginocchia in avanti.",
+        "Oggi fai 3 serie da 15 squat."
+      ],
+      "instagram_caption": "Lo squat ti dà l’energia che cerchi fuori dalla palestra. 🏋️‍♂️  \nMahmood lo sa: il corpo chiede movimento ogni giorno, anche tra pizza e calcetto.  \nFallo bene: ginocchia indietro, non oltre le punte, come se ti siedi su una sedia invisibile.  \nOggi 3 serie da 15 squat a corpo libero, con calma e controllo.  \nProva questo esercizio domani mattina, prima della doccia. 💪🔥",
+      "formats": {
+        "instagram": {
+          "caption": "Lo squat ti dà l’energia che cerchi fuori dalla palestra. 🏋️‍♂️  \nMahmood lo sa: il corpo chiede movimento ogni giorno, anche tra pizza e calcetto.  \nFallo bene: ginocchia indietro, non oltre le punte, come se ti siedi su una sedia invisibile.  \nOggi 3 serie da 15 squat a corpo libero, con calma e controllo.  \nProva questo esercizio domani mattina, prima della doccia. 💪🔥"
+        },
+        "tiktok": {
+          "script": [
+            "Mahmood dice: senza palestra non sto bene.",
+            "Più energia senza palestra? Non esiste, ragazzi.",
+            "Il corpo chiede movimento, ogni singolo giorno.",
+            "Lo squat a corpo libero è l'esercizio chiave.",
+            "Non piegare le ginocchia in avanti, oggi 3x15."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Pensi che senza palestra perdi energia? Sbagliato. Mahmood e Blanco tra pizza e calcetto: l'autore di \"Soldi\" dice \"senza palestra non so stare\". La verità? Il corpo la vuole ogni giorno. Ecco come dare la scossa giusta. 👇",
+            "Il corpo umano è fatto per muoversi. Quando stai fermo, perdi tono e carburante. Allenarti a casa o all'aperto rialza i livelli di energia. Non serve una scheda: serve un gesto semplice e potente. Inizia con lo squat a corpo libero.",
+            "Ecco come eseguirlo: piedi larghi quanto le spalle, schiena dritta, scendi come se ti siedi su una sedia. Spingi i glutei indietro. Non piegare le ginocchia in avanti: l'errore più comune che rovina le articolazioni. Il carico va sui muscoli, non sulle ginocchia.",
+            "Un errore da evitare? Punta le ginocchia verso l'esterno, mai in dentro. Tieni il peso sui talloni. Ogni ripetizione è un progresso. Il risultato? Gambe toniche, core attivo e metabolismo acceso. Senza palestra, ma con la costanza giusta.",
+            "Oggi lo metti in pratica: 3 serie da 15 squat, con 30 secondi di recupero tra le serie. Falli subito. Non serve attrezzatura, solo 5 minuti. Prova e dimmi domani com'è andata. Il tuo corpo ti ringrazierà. 👊"
+          ]
+        }
+      },
+      "video_script": [
+        "Mahmood dice: senza palestra non sto bene.",
+        "Più energia senza palestra? Non esiste, ragazzi.",
+        "Il corpo chiede movimento, ogni singolo giorno.",
+        "Lo squat a corpo libero è l'esercizio chiave.",
+        "Non piegare le ginocchia in avanti, oggi 3x15."
+      ],
+      "thread_text": [
+        "Pensi che senza palestra perdi energia? Sbagliato. Mahmood e Blanco tra pizza e calcetto: l'autore di \"Soldi\" dice \"senza palestra non so stare\". La verità? Il corpo la vuole ogni giorno. Ecco come dare la scossa giusta. 👇",
+        "Il corpo umano è fatto per muoversi. Quando stai fermo, perdi tono e carburante. Allenarti a casa o all'aperto rialza i livelli di energia. Non serve una scheda: serve un gesto semplice e potente. Inizia con lo squat a corpo libero.",
+        "Ecco come eseguirlo: piedi larghi quanto le spalle, schiena dritta, scendi come se ti siedi su una sedia. Spingi i glutei indietro. Non piegare le ginocchia in avanti: l'errore più comune che rovina le articolazioni. Il carico va sui muscoli, non sulle ginocchia.",
+        "Un errore da evitare? Punta le ginocchia verso l'esterno, mai in dentro. Tieni il peso sui talloni. Ogni ripetizione è un progresso. Il risultato? Gambe toniche, core attivo e metabolismo acceso. Senza palestra, ma con la costanza giusta.",
+        "Oggi lo metti in pratica: 3 serie da 15 squat, con 30 secondi di recupero tra le serie. Falli subito. Non serve attrezzatura, solo 5 minuti. Prova e dimmi domani com'è andata. Il tuo corpo ti ringrazierà. 👊"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Senza palestra non sto bene",
+          "description": "Mahmood e Blanco confermano: il movimento è energia quotidiana. Scopri l'allenamento che funziona ovunque.",
+          "visual_hint": "Squat in salotto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "home squat man"
+        },
+        {
+          "hook": "Pizza e calcetto non bastano",
+          "description": "Il corpo umano è fatto per muoversi ogni giorno. Anche senza macchinari, puoi sentirti carico e vitale.",
+          "visual_hint": "Corpo in movimento",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "active lifestyle energy",
+          "image": "https://images.pexels.com/photos/3881260/pexels-photo-3881260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Squat a corpo libero",
+          "description": "L'esercizio chiave per gambe e glutei: abbassa i fianchi come se ti sedessi, mantieni la schiena dritta.",
+          "visual_hint": "Esecuzione squat",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "bodyweight squat form",
+          "image": "https://images.pexels.com/photos/4164454/pexels-photo-4164454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non piegare le ginocchia in avanti",
+          "description": "Errore comune: ginocchia oltre le punte. Correggi spingendo i fianchi indietro e tenendo il peso sui talloni.",
+          "visual_hint": "Correzione ginocchia",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "squat knee alignment",
+          "image": "https://images.pexels.com/photos/4944985/pexels-photo-4944985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "3 serie da 15 squat ora",
+          "description": "Prendi un timer, fai 15 ripetizioni, riposa 30 secondi. Ripeti 3 volte. Allenamento finito, energia guadagnata.",
+          "visual_hint": "Cronometro e squat",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "squat challenge timer",
+          "image": "https://images.pexels.com/photos/8032893/pexels-photo-8032893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cb5c04a79.jpeg",
+      "savedAt": "2026-05-15T21:09:02.551Z",
+      "sourceId": "c04ceed3bbafed2dd5be7e896417a19d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "fitness",
+      "slug": "nel-mondo-di-victoria-dei-maneskin-lo-skate-la-pal",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Nel mondo di Victoria dei Maneskin: lo skate, la palestra, Chili e... il bikini scandalo  ",
+      "link": "https://www.gazzetta.it/fitness/allenamento/storie/01-02-2022/victoria-maneskin-segreti-skate-palestra-passato-difficile-sua-chili-4301189240584/",
+      "pubDate": "Tue, 1 Feb 2022 11:18:05 +0100",
+      "slides": [
+        "Allenati come Victoria: sicurezza e stile.",
+        "Skate e palestra uniscono equilibrio e forza.",
+        "Pancia in dentro, spalle indietro, squat stabile.",
+        "Non curvare la schiena nello squat.",
+        "Fai 3 serie da 10 squat oggi."
+      ],
+      "instagram_caption": "La combo skate + palestra ti dà l’equilibrio e la forza che vedi in Victoria dei Måneskin. 🛹💪  \nPancia in dentro, spalle indietro: quello squat diventa stabile e sicuro. Non curvarla mai, la schiena.  \nTre serie da dieci reps oggi, con la stessa grinta di chi non ha paura di osare.  \nAccendi la playlist, spingi i talloni e senti il fuoco. Pronto a trasformare il tuo corpo? Prova questo esercizio domani mattina. 🔥",
+      "formats": {
+        "instagram": {
+          "caption": "La combo skate + palestra ti dà l’equilibrio e la forza che vedi in Victoria dei Måneskin. 🛹💪  \nPancia in dentro, spalle indietro: quello squat diventa stabile e sicuro. Non curvarla mai, la schiena.  \nTre serie da dieci reps oggi, con la stessa grinta di chi non ha paura di osare.  \nAccendi la playlist, spingi i talloni e senti il fuoco. Pronto a trasformare il tuo corpo? Prova questo esercizio domani mattina. 🔥"
+        },
+        "tiktok": {
+          "script": [
+            "Allenati come Victoria: sicurezza e stile.",
+            "Skate e palestra uniscono forza ed equilibrio.",
+            "Pancia in dentro, spalle indietro, squat stabile.",
+            "Non curvare la schiena nello squat, ok?",
+            "Fai oggi 3 serie da 10 squat."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Vuoi fitness con stile e sicurezza? Ispirati a Victoria dei Måneskin: skate, palestra e una presenza che non passa inosservata. Ecco il workout che unisce equilibrio e forza. 🔥",
+            "Skate + palestra = combo vincente. Lo skate allena equilibrio e reattività; la palestra costruisce forza stabile. Inizia con la postura: pancia in dentro, spalle indietro. Base per ogni movimento.",
+            "Ora lo squat. Piedi larghi quanto i fianchi, peso sui talloni, scendi come se ti sedessi. Mantieni il core attivo e lo sguardo avanti. Stabile come su uno skate in curva.",
+            "Errore comune: curvare la schiena nello squat. Schiena dritta e petto aperto, sempre. Una schiena curva è instabile e rischiosa. Controllo prima di tutto.",
+            "Oggi fai 3 serie da 10 squat con questa tecnica. Pausa 60 secondi tra le serie. Prova domani e dimmi com’è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Allenati come Victoria: sicurezza e stile.",
+        "Skate e palestra uniscono forza ed equilibrio.",
+        "Pancia in dentro, spalle indietro, squat stabile.",
+        "Non curvare la schiena nello squat, ok?",
+        "Fai oggi 3 serie da 10 squat."
+      ],
+      "thread_text": [
+        "Vuoi fitness con stile e sicurezza? Ispirati a Victoria dei Måneskin: skate, palestra e una presenza che non passa inosservata. Ecco il workout che unisce equilibrio e forza. 🔥",
+        "Skate + palestra = combo vincente. Lo skate allena equilibrio e reattività; la palestra costruisce forza stabile. Inizia con la postura: pancia in dentro, spalle indietro. Base per ogni movimento.",
+        "Ora lo squat. Piedi larghi quanto i fianchi, peso sui talloni, scendi come se ti sedessi. Mantieni il core attivo e lo sguardo avanti. Stabile come su uno skate in curva.",
+        "Errore comune: curvare la schiena nello squat. Schiena dritta e petto aperto, sempre. Una schiena curva è instabile e rischiosa. Controllo prima di tutto.",
+        "Oggi fai 3 serie da 10 squat con questa tecnica. Pausa 60 secondi tra le serie. Prova domani e dimmi com’è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Skate, palestra e stile",
+          "description": "Unisci equilibrio e forza come Victoria. Il segreto è la postura.",
+          "visual_hint": "Victoria skate palestra",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "woman skate gym"
+        },
+        {
+          "hook": "Equilibrio + forza",
+          "description": "Lo skate allena il core, la palestra la potenza. Un mix perfetto.",
+          "visual_hint": "Skate e squat",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "skateboard squat woman",
+          "image": "https://images.pexels.com/photos/12892706/pexels-photo-12892706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pancia in dentro, squat stabile",
+          "description": "Stringi gli addominali e tieni il peso sui talloni per uno squat sicuro.",
+          "visual_hint": "Core attivo squat",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "woman squat core",
+          "image": "https://images.pexels.com/photos/8402239/pexels-photo-8402239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Errore: schiena curva",
+          "description": "Non curvare la schiena. Ginocchia aperte e petto su per proteggere la colonna.",
+          "visual_hint": "Schiena dritta squat",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "squat back straight",
+          "image": "https://images.pexels.com/photos/29259727/pexels-photo-29259727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fai 3x10 squat oggi",
+          "description": "Prova questo allenamento. 3 serie da 10 ripetizioni. E segui per altri consigli.",
+          "visual_hint": "Call to action squat",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "home squat workout",
+          "image": "https://images.pexels.com/photos/8032914/pexels-photo-8032914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059507312a3.jpeg",
+      "savedAt": "2026-05-15T21:08:46.657Z",
+      "sourceId": "d0f326a25149d76953267cba59a96cd4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "fitness",
+      "slug": "ornella-muti-diva-a-sanremo-sempre-stupenda-grazie",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Ornella Muti, diva a Sanremo: sempre stupenda grazie a dieta, yoga e cura della pelle  ",
+      "link": "https://www.gazzetta.it/fitness/allenamento/storie/01-02-2022/ornella-muti-sanremo-diva-forma-top-yoga-dieta-skincare-4301193316246/",
+      "pubDate": "Tue, 1 Feb 2022 16:23:45 +0100",
+      "slides": [
+        "La costanza paga: il tuo corpo ti ringrazierà.",
+        "Yoga e dieta mantengono giovane e tonica.",
+        "Respira e allunga i muscoli ogni mattina.",
+        "Non saltare la routine se cerchi risultati.",
+        "Oggi fai 10 minuti di stretching attivo."
+      ],
+      "instagram_caption": "Il segreto di un corpo tonico e giovane non è un miracolo, ma costanza. 🧘‍♀️  \nYoga, respiro e una skincare mirata mantengono elastica la muscolatura e luminosa la pelle.  \nOgni mattina, 10 minuti di stretching attivo sbloccano le tensioni e risvegliano i tessuti.  \nNon serve strafare: basta onorare la routine con disciplina e amore per te stesso.  \nI risultati arrivano quando non salti un giorno.  \nOra alzati e dedica 10 minuti a questa sequenza: respira, allunga, attiva. 💪",
+      "formats": {
+        "instagram": {
+          "caption": "Il segreto di un corpo tonico e giovane non è un miracolo, ma costanza. 🧘‍♀️  \nYoga, respiro e una skincare mirata mantengono elastica la muscolatura e luminosa la pelle.  \nOgni mattina, 10 minuti di stretching attivo sbloccano le tensioni e risvegliano i tessuti.  \nNon serve strafare: basta onorare la routine con disciplina e amore per te stesso.  \nI risultati arrivano quando non salti un giorno.  \nOra alzati e dedica 10 minuti a questa sequenza: respira, allunga, attiva. 💪"
+        },
+        "tiktok": {
+          "script": [
+            "Parti così: costanza al top.",
+            "Il segreto? Yoga e dieta.",
+            "Respira e allunga ogni mattina.",
+            "Non saltare mai la routine.",
+            "Oggi fai 10 minuti di stretching."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Il segreto di Ornella Muti a 69 anni? Non è la genetica, è la costanza. Il tuo corpo ti ringrazia quando lo tratti bene ogni giorno, non solo a Sanremo. Vuoi sapere come?",
+            "Yoga + dieta: la combo che mantiene tonici e giovani. Lo yoga allunga i muscoli, la dieta giusta riduce infiammazione. Inizia con 5 minuti di respirazione profonda al mattino.",
+            "L'errore comune: pensare che basti un allenamento intenso ogni tanto. La vera magia è la routine quotidiana. Respira e allunga i muscoli ogni mattina per attivare il metabolismo.",
+            "Non saltare la routine. I risultati arrivano solo se sei costante. Anche 10 minuti di stretching attivo fanno la differenza: migliorano postura, flessibilità e circolazione.",
+            "Oggi prova questo: 10 minuti di stretching attivo. Allunga braccia, gambe e schiena. Fallo domani mattina e dimmi come ti senti 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Parti così: costanza al top.",
+        "Il segreto? Yoga e dieta.",
+        "Respira e allunga ogni mattina.",
+        "Non saltare mai la routine.",
+        "Oggi fai 10 minuti di stretching."
+      ],
+      "thread_text": [
+        "Il segreto di Ornella Muti a 69 anni? Non è la genetica, è la costanza. Il tuo corpo ti ringrazia quando lo tratti bene ogni giorno, non solo a Sanremo. Vuoi sapere come?",
+        "Yoga + dieta: la combo che mantiene tonici e giovani. Lo yoga allunga i muscoli, la dieta giusta riduce infiammazione. Inizia con 5 minuti di respirazione profonda al mattino.",
+        "L'errore comune: pensare che basti un allenamento intenso ogni tanto. La vera magia è la routine quotidiana. Respira e allunga i muscoli ogni mattina per attivare il metabolismo.",
+        "Non saltare la routine. I risultati arrivano solo se sei costante. Anche 10 minuti di stretching attivo fanno la differenza: migliorano postura, flessibilità e circolazione.",
+        "Oggi prova questo: 10 minuti di stretching attivo. Allunga braccia, gambe e schiena. Fallo domani mattina e dimmi come ti senti 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "La costanza è il segreto della bellezza",
+          "description": "Un corpo tonico e giovane si costruisce giorno dopo giorno, senza scorciatoie.",
+          "visual_hint": "Donna fitness sorriso specchio",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "fit woman smiling mirror"
+        },
+        {
+          "hook": "Yoga e dieta: l'elisir di lunga vita",
+          "description": "Abbina alimentazione sana e stretching per mantenere elasticità e luminosità come Ornella Muti.",
+          "visual_hint": "Donna yoga spiaggia tramonto",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "yoga woman beach sunset",
+          "image": "https://images.pexels.com/photos/13849280/pexels-photo-13849280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Respira e allunga ogni mattina",
+          "description": "5 minuti di respirazione diaframmatica e allungamento muscolare attivano metabolismo e circolazione.",
+          "visual_hint": "Primo piano donna respira",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "woman breathing stretching closeup",
+          "image": "https://images.pexels.com/photos/8916196/pexels-photo-8916196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non saltare la routine se vuoi risultati",
+          "description": "Errore: pensare che un giorno di pausa non conti. Correggi: programma anche i recuperi attivi.",
+          "visual_hint": "Calendario segnato fitness",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "fitness calendar hands marked",
+          "image": "https://images.pexels.com/photos/6892904/pexels-photo-6892904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Oggi 10 minuti di stretching attivo",
+          "description": "Segui il video sul profilo o fai affondi, torsioni e allungamenti dinamici ora.",
+          "visual_hint": "Donna stretching timer 10min",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "woman stretching timer ten minutes",
+          "image": "https://images.pexels.com/photos/4051518/pexels-photo-4051518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205950a715d2.jpeg",
+      "savedAt": "2026-05-15T21:08:31.698Z",
+      "sourceId": "b46661fb21d300e6ee1db250d9c302da"
+    },
     {
       "schema_version": 2,
       "agent": "fitness",
