@@ -104,6 +104,81 @@ window.ARTICLES = [
     "sourceId": "baafa407a6f861d18c998d82e769ad24"
   },
   {
+    "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+    "slides": [
+      "Cerebras ha raccolto $5.5 miliardi. Il titolo balza del 108%.",
+      "Perché un'azienda di chip AI triplica la valutazione in IPO?",
+      "Non vende a Big Tech: punta su data center indipendenti.",
+      "Chi ha comprato al prezzo di offerta ha già più del doppio.",
+      "La domanda reale: è un caso o una nuova norma per AI?"
+    ],
+    "thread_text": [
+      "Cerebras non vende chip AI a Google o Microsoft. Punta tutto su data center indipendenti. Una scommessa contro il monopolio che il mercato ha premiato con un +108% in IPO.",
+      "L'azienda ha raccolto 5.5 miliardi di dollari prima di quotarsi. Valutazione iniziale: 4 miliardi. Dopo il debutto a Wall Street, ha superato gli 8 miliardi.",
+      "Perché questa corsa? Cerebras costruisce chip enormi, grandi quanto un wafer intero. I data center indipendenti li comprano per competere con i giganti del cloud.",
+      "Chi ha comprato azioni al prezzo di offerta ha già più del doppio. Il mercato scommette che l'AI non resterà solo nelle mani di Big Tech.",
+      "La domanda ora è se questa è un'eccezione o il modello che farà da standard per le prossime IPO AI. La risposta arriverà con il prossimo trimestre."
+    ],
+    "video_script": [
+      "Cerebras non vende a Google o Microsoft.",
+      "Punta su data center indipendenti.",
+      "IPO schizza del 108% subito.",
+      "Chi ha comprato all'inizio ha già raddoppiato.",
+      "Scommessa contro il monopolio vinta per ora."
+    ],
+    "instagram_caption": "Cerebras ha raccolto $5.5 miliardi e appena quotata il titolo è schizzato del +108% 📈. Invece di vendere chip a Google o Microsoft, punta tutto su data center indipendenti: aziende che non vogliono affittare server dai giganti del cloud. Per chi ha comprato in offerta, il valore è già più che raddoppiato 💰. Se il modello funziona, potresti usare tool AI senza passare da Big Tech — più alternative, meno lock-in 🛠️. È un caso isolato o la nuova regola per le prossime IPO AI?",
+    "carousel_slides": [
+      {
+        "hook": "Sfida il monopolio Big Tech",
+        "description": "Cerebras vince scommettendo su data center indipendenti, non su Google o Microsoft.",
+        "visual_hint": "chip wafer gigante",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "large computer chip"
+      },
+      {
+        "hook": "Valutazione raddoppiata in poche ore",
+        "description": "Raccolti 5,5 miliardi, poi +108%: da 4 a oltre 8 miliardi di dollari.",
+        "visual_hint": "grafico azionario rialzista",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Perché i data center indipendenti comprano",
+        "description": "Chip wafer-scale per competere con i colossi cloud. Scommessa premiata dal mercato.",
+        "visual_hint": "wafer a confronto con chip",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "silicon wafer",
+        "image": "https://images.pexels.com/photos/33798628/pexels-photo-33798628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Chi ha comprato subito ha già 2x",
+        "description": "Azioni al prezzo di offerta già più che raddoppiate. Il mercato punta su AI indipendente.",
+        "visual_hint": "mani che contano banconote",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands counting money",
+        "image": "https://images.pexels.com/photos/4968545/pexels-photo-4968545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "È un caso o il nuovo standard?",
+        "description": "La prossima IPO AI deciderà se questa è un'eccezione o la nuova norma.",
+        "visual_hint": "prossimo trimestre segnato sul calendario",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar marked date",
+        "image": "https://images.pexels.com/photos/6892910/pexels-photo-6892910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Cerebras-Nasdaq-opening-bell.png?resize=1200,695",
+    "pubDate": "Thu, 14 May 2026 16:30:02 +0000",
+    "savedAt": "2026-05-14T22:50:21.551Z",
+    "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/"
+  },
+  {
     "schema_version": 2,
     "agent": "ai-news",
     "slug": "wirestock-raises-23m-to-supply-creative-multi-moda",

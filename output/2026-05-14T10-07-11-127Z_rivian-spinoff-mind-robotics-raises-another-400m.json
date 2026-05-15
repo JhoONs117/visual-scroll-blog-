@@ -1,0 +1,75 @@
+{
+  "title": "Rivian spinoff Mind Robotics raises another $400M",
+  "slides": [
+    "Rivian spinoff Mind Robotics raccoglie $400M extra.",
+    "Ma i fondi non vanno a veicoli elettrici.",
+    "L'obiettivo reale? Robot umanoidi per fabbriche.",
+    "Chi investe in logistica deve riconsiderare il futuro.",
+    "Prova a prevedere l'impatto sulla tua supply chain."
+  ],
+  "thread_text": [
+    "Mind Robotics, la società nata da Rivian, ha appena raccolto 400 milioni extra. Ma non li userà per fare veicoli elettrici.",
+    "Quei soldi servono a costruire robot umanoidi. Macchine che camminano, sollevano, lavorano. Destinate alle fabbriche.",
+    "Il punto: se sei nella logistica o nella manifattura, stai competendo contro macchine che non si stancano, non si ammalano, non chiedono ferie.",
+    "I fondi arrivano da chi scommette che tra 5 anni metà delle linee di assemblaggio saranno gestite da umanoidi. Non è un esperimento, è una scommessa da miliardi.",
+    "Prendi la tua supply chain. Quale attività ripetitiva, su tre turni, potrebbe essere già oggi sostituita da un robot a 20$ l'ora?"
+  ],
+  "video_script": [
+    "Hanno raccolto 400 milioni di dollari extra.",
+    "Ma non per fare auto elettriche.",
+    "Vogliono robot umanoidi per le fabbriche.",
+    "Se lavori nella logistica, è il momento di preoccuparti.",
+    "Quale parte della tua supply chain può essere automatizzata?"
+  ],
+  "instagram_caption": "Una costola di Rivian si è appena presa 400 milioni di dollari: non per fare auto, ma per costruire robot umanoidi da fabbrica 🦿.  \nIl piano è piazzare macchine che camminano, sollevano e lavorano su tre turni senza pause 💪. Per chi fa logistica o manifattura, la domanda è semplice: quante delle tue attività ripetitive reggono il confronto con un operaio che costa 20$ l’ora e non chiede ferie? ⏱️  \nGuardati la supply chain e scegli: investire prima che i robot lo facciano per te? 🏭",
+  "carousel_slides": [
+    {
+      "hook": "Robot umanoidi nelle fabbriche",
+      "description": "Mind Robotics raccoglie 400 milioni per robot umanoidi, non per veicoli elettrici.",
+      "visual_hint": "Robot umanoide su linea",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "humanoid robot factory"
+    },
+    {
+      "hook": "Fondi non per EV",
+      "description": "I soldi servono a costruire robot che camminano, sollevano e lavorano nelle fabbriche.",
+      "visual_hint": "Banconote e robot",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot assembly line",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Macchine instancabili",
+      "description": "Competi contro robot che non si stancano, non si ammalano, non chiedono ferie.",
+      "visual_hint": "Robot vs operaio",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot arm",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scommessa da miliardi",
+      "description": "Investitori puntano che metà delle linee di assemblaggio saranno gestite da umanoidi in 5 anni.",
+      "visual_hint": "Grafico in crescita",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "E la tua supply chain?",
+      "description": "Quale attività ripetitiva su tre turni potrebbe essere sostituita da un robot a $20/ora?",
+      "visual_hint": "Fabbrica di notte",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "warehouse robots",
+      "image": "https://images.pexels.com/photos/10875411/pexels-photo-10875411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/10/TechCrunch-Disrupt-Haje-Kamps-529.jpg?resize=1200,800",
+  "pubDate": "Wed, 13 May 2026 16:34:21 +0000",
+  "savedAt": "2026-05-14T10:08:03.048Z",
+  "link": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/"
+}

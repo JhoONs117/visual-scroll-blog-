@@ -1,0 +1,75 @@
+{
+  "title": "Digg tries again, this time as an AI news aggregator",
+  "slides": [
+    "Digg riparte: AI al posto dei curatori umani?",
+    "L'algoritmo seleziona le notizie più rilevanti.",
+    "Ma la moderazione automatica ha già fallito altrove.",
+    "Cosa cambia per chi cerca fonti affidabili?",
+    "Prova l'app: vedi se l'IA ti fida davvero."
+  ],
+  "thread_text": [
+    "La moderazione delle notizie gestita da AI ha già fallito su piattaforme più grandi. Eppure qualcuno ci riprova.",
+    "Digg ha annunciato di voler sostituire i curatori umani con un algoritmo per selezionare le notizie più rilevanti. Il sistema promette di essere più veloce, ma la storia recente dice altro.",
+    "Reddit e Facebook hanno già provato strade simili: l'algoritmo ha amplificato disinformazione e contenuti di bassa qualità, costringendo a reintrodurre moderatori umani in emergenza.",
+    "Il punto non è se l'IA sappia leggere headline, ma se capisce il contesto sociale di una notizia. Senza filtri umani, il rischio è che la piattaforma diventi una cassa di risonanza per contenuti virali, non affidabili.",
+    "Digg ti chiede di fidarti del suo nuovo sistema. Vuoi davvero testarlo con le tue notizie, o preferisci aspettare un altro fallimento pubblico?"
+  ],
+  "video_script": [
+    "L'AI ha già fallito come moderatrice.",
+    "Ora Digg ci riprova.",
+    "Sostituisce i curatori umani con un algoritmo.",
+    "Ma su Reddit è stato un disastro.",
+    "Vuoi davvero fidarti di una macchina?"
+  ],
+  "instagram_caption": "Digg sostituisce i curatori umani con un algoritmo per selezionare le notizie. L'azienda promette maggiore velocità, ma la storia recente insegna: Reddit e Facebook hanno già fallito con la moderazione automatica, amplificando disinformazione e contenuti virali. Il problema non è se l'IA legge le notizie, ma se capisce il contesto sociale ⚠️. Per chi cerca fonti affidabili online, l'assenza di filtri umani rischia di trasformare la piattaforma in una cassa di risonanza 📢. Vuoi davvero fidarti del suo giudizio?",
+  "carousel_slides": [
+    {
+      "hook": "L'IA moderatrice è già fallita",
+      "description": "La moderazione automatica ha fallito su piattaforme più grandi, ma Digg ci riprova.",
+      "visual_hint": "schermo con errore",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "server error screen"
+    },
+    {
+      "hook": "Algoritmo, non più umani",
+      "description": "Digg sostituisce i curatori umani con un algoritmo più veloce, ma la storia recente dice altro.",
+      "visual_hint": "rotella dentata ingranaggi",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "gear mechanism closeup",
+      "image": "https://images.pexels.com/photos/7568421/pexels-photo-7568421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Esempi di fallimenti passati",
+      "description": "Reddit e Facebook hanno amplificato disinformazione, poi hanno reintrodotto moderatori umani in emergenza.",
+      "visual_hint": "birillo rosso caduto",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "red bowling pin",
+      "image": "https://images.pexels.com/photos/5952997/pexels-photo-5952997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "L'IA capisce il contesto?",
+      "description": "Senza filtri umani, i contenuti virali rischiano di prevalere su quelli affidabili.",
+      "visual_hint": "mano che scherma",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand blocking light",
+      "image": "https://images.pexels.com/photos/9522478/pexels-photo-9522478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova a fidarti dell'algoritmo",
+      "description": "Vuoi testare il sistema con le tue notizie o aspettare un altro fallimento pubblico?",
+      "visual_hint": "dito su schermo app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "finger tapping phone",
+      "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/digg-ver2-at-10.40.29-AM.jpg?resize=1200,888",
+  "pubDate": "Mon, 11 May 2026 17:02:35 +0000",
+  "savedAt": "2026-05-12T16:20:31.078Z",
+  "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/"
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
+  "slides": [
+    "Fervo Energy sale del 33% al debutto IPO: chi ha spinto?",
+    "La domanda energetica dell'IA alimenta la geotermia.",
+    "Ma il calore sotterraneo basta per i data center?",
+    "Le aziende tech ora pagano per energia stabile.",
+    "Monitora Fervo: il prossimo boom è sottoterra."
+  ],
+  "thread_text": [
+    "Il calore sotto i nostri piedi basta davvero per far funzionare i data center dell'IA? La risposta potrebbe cambiare tutto il settore energetico.",
+    "Fervo Energy è appena sbarcata in Borsa con un +33% al debutto. Dietro ci sono colossi tech che hanno un problema: l'elettricità serve 24/7, non quando tira vento.",
+    "La geotermia non è più un'alternativa di nicchia. Le aziende tech stanno firmando contratti decennali per energia stabile, pagando un premio pur di non fermare i chip.",
+    "Il sottosuolo contiene abbastanza calore? Tecnicamente sì, ma serve trivellare più a fondo e in più posti. Fervo sta dimostrando che si può fare.",
+    "Il tuo prossimo prompt AI potrebbe essere alimentato da un impianto geotermico. Monitora Fervo: il prossimo boom è sottoterra."
+  ],
+  "video_script": [
+    "Sotto i nostri piedi c'è calore a sufficienza",
+    "per alimentare tutti i data center del mondo",
+    "Fervo Energy è la startup che lo sta dimostrando",
+    "È appena arrivata in Borsa con un +33%",
+    "Il motivo? I giganti tech hanno bisogno di energia stabile 24/7"
+  ],
+  "instagram_caption": "Una startup che sfrutta il calore della terra è appena arrivata in Borsa e il primo giorno il suo valore è salito del 33% ⚡ I colossi tecnologici stanno firmando contratti decennali per questa energia non perché sia la più economica, ma perché funziona 24 ore su 24, senza aspettare che tiri vento o ci sia sole 🔥 La domanda energetica dei chip che alimentano l'AI sta ridisegnando il mercato dell'elettricità. Per te significa che l'energia consumata da ogni tuo prompt ha un costo industriale concreto, pagato dalle aziende tech 🛢️ C'è abbastanza calore sottoterra per farlo? Fervo sta dimostrando che trivellando più a fondo si può.",
+  "carousel_slides": [
+    {
+      "hook": "Calore sotto i piedi?",
+      "description": "Il calore sotterraneo basta per i data center IA? La risposta potrebbe cambiare tutto il settore energetico.",
+      "visual_hint": "Fiamme che escono da terra",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "geothermal steam vents"
+    },
+    {
+      "hook": "+33% al debutto IPO",
+      "description": "Fervo Energy sbarca in Borsa con +33%. Colossi tech cercano elettricità 24/7, non quando tira vento.",
+      "visual_hint": "Grafico azionario in salita",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Aziende pagano premio",
+      "description": "La geotermia non è più nicchia. Le aziende tech firmando contratti decennali per energia stabile, pagando un premio.",
+      "visual_hint": "Mani che firmano contratto",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "contract signing",
+      "image": "https://images.pexels.com/photos/4968561/pexels-photo-4968561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trivellare più a fondo",
+      "description": "Il sottosuolo ha abbastanza calore? Sì, ma serve trivellare più a fondo. Fervo sta dimostrando che si può fare.",
+      "visual_hint": "Trivella che perfora roccia",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "drilling rig",
+      "image": "https://images.pexels.com/photos/15391048/pexels-photo-15391048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI alimentata da geotermia",
+      "description": "Il tuo prossimo prompt AI potrebbe funzionare con calore sotterraneo. Monitora Fervo: il boom è sottoterra.",
+      "visual_hint": "Data center con luci calde",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275460528.jpeg?resize=1200,800",
+  "pubDate": "Wed, 13 May 2026 17:42:20 +0000",
+  "savedAt": "2026-05-13T17:56:10.348Z",
+  "link": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/"
+}

@@ -1,0 +1,84 @@
+{
+  "agent": "food",
+  "slug": "risotto-piselli-crescenza-e-pancetta-croccante",
+  "sourceId": "28c4dca21ca942b6eee9f7c8922f4708",
+  "dish_type": "generic",
+  "signature_ingredients": [
+    "crescenza",
+    "pancetta",
+    "piselli"
+  ],
+  "title": "Risotto piselli, crescenza e pancetta croccante",
+  "slides": [
+    "Risotto cremoso con pancetta croccante e crescenza",
+    "Riso Carnaroli, piselli, pancetta, crescenza, parmigiano",
+    "Tosta il riso e sfuma con vino bianco",
+    "Manteca con burro e parmigiano a fuoco spento",
+    "Guarnisci con crescenza e pancetta croccante"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Risotto cremoso pancetta croccante e crescenza",
+      "description": "Un risotto avvolgente con piselli dolci, pancetta croccante e crescenza filante: comfort food che conquista al primo assaggio.",
+      "visual_hint": "Piatto fumante su tavola rustica",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "savory risotto peas pancetta"
+    },
+    {
+      "hook": "I protagonisti in cucina",
+      "description": "Riso Carnaroli, piselli, pancetta affumicata, crescenza e parmigiano: pochi ingredienti, un sapore irresistibile.",
+      "visual_hint": "Ingredienti su tagliere di legno",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "savory risotto ingredients bowl",
+      "image": "https://images.pexels.com/photos/34110276/pexels-photo-34110276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il segreto della tostatura",
+      "description": "Tosta il riso a secco fino a che non diventa traslucido, poi sfuma con vino bianco: il profumo ti conquisterà.",
+      "visual_hint": "Riso che sfrigola in padella",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "toasting risotto rice pan",
+      "image": "https://images.pexels.com/photos/6544216/pexels-photo-6544216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Mantecatura a regola d'arte",
+      "description": "A fuoco spento, unisci burro e parmigiano e mescola con energia: la cremosità è assicurata.",
+      "visual_hint": "Mantecatura con cucchiaio di legno",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "mantecatura risotto spoon",
+      "image": "https://images.pexels.com/photos/20182309/pexels-photo-20182309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il tocco finale perfetto",
+      "description": "Guarnisci con cubetti di crescenza e pancetta croccante: un contrasto di consistenze che fa la differenza.",
+      "visual_hint": "Piatto impiattato con crescenza e pancetta",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "savory risotto plating garnish",
+      "image": "https://images.pexels.com/photos/18078968/pexels-photo-18078968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "instagram_caption": "Cremoso al punto giusto e con quel contrasto croccante che fa impazzire. 🍚✨\n\nPiselli dolci, pancetta che si scioglie in bocca e una mantecatura con crescenza e parmigiano che rende tutto vellutato. Il segreto? Tostare bene il riso Carnaroli, sfumare col vino bianco e mantecare a fuoco spento per una cremosità perfetta. Poi, la ciliegina: una pioggia di pancetta croccante e cubotti di crescenza fresca sopra.\n\nUna coccola che sa di casa e di cucina che funziona sempre. Provatela questo weekend 🌿",
+  "video_script": [
+    "Tosto il riso nel burro fino a che brilla.",
+    "Sfumo col vino bianco e lascio evaporare.",
+    "Aggiungo i piselli e la pancetta croccante.",
+    "Spegno il fuoco e manteco con parmigiano.",
+    "Guarnisco con crescenza e pancetta, che spettacolo!"
+  ],
+  "thread_text": [
+    "Cremoso, avvolgente, con quel contrasto croccante che manda in tilt le papille: risotto piselli, crescenza e pancetta croccante. Una di quelle cose che mangeresti in silenzio fino all’ultimo chicco.",
+    "La base è Carnaroli, piselli freschi o surgelati, pancetta a cubetti, crescenza e parmigiano. Niente panna: la cremosità la fa tutta la crescenza.",
+    "Si tosta il riso a secco, poi si sfuma con vino bianco. Brodo caldo poco per volta, mescolando con pazienza. I piselli li aggiungo a metà cottura per mantenerli integri.",
+    "A fuoco spento arriva la magia: una noce di burro e una pioggia di parmigiano. Poi la crescenza a fiocchi, che si scioglie e velluta tutto senza appesantire.",
+    "Impiatta e guarnisci con altra crescenza e pancetta croccante sopra. Il contrasto caldo-fresco e morbido-croccante è il vero segreto. Provala e fammi sapere 👇"
+  ],
+  "link": "https://ricette.giallozafferano.it/Risotto-piselli-crescenza-e-pancetta-croccante.html",
+  "pubDate": "Thu, 16 Apr 2026 09:58:00 +0200",
+  "savedAt": "2026-05-12T16:24:17.395Z",
+  "image": "https://www.giallozafferano.it/images/360-36089/Risotto-piselli-crescenza-e-pancetta-croccante_650x433_wm.jpg"
+}

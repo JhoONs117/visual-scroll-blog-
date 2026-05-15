@@ -1,0 +1,75 @@
+{
+  "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
+  "slides": [
+    "Foxconn colpita: chi proteggerà i dati di Apple?",
+    "Hacker rivendicano attacco ransomware al gigante",
+    "Non chiedono soldi: vogliono esporre segreti industriali",
+    "Se produci dispositivi, i tuoi dati potrebbero essere già a rischio",
+    "Verifica oggi se la tua supply chain è sicura"
+  ],
+  "thread_text": [
+    "Non chiedono soldi: vogliono esporre i segreti industriali dei tuoi dispositivi. Questa volta il bersaglio è Foxconn.",
+    "Foxconn produce iPhone per Apple. Gli hacker hanno colpito i loro server e rivendicano un attacco ransomware.",
+    "La richiesta non è un riscatto in criptovaluta. Vogliono dati sui processi produttivi di device che usi ogni giorno.",
+    "Se produci dispositivi, i tuoi dati potrebbero già essere nella lista dei prossimi obiettivi.",
+    "Verifica oggi se la tua supply chain ha un buco. Un controllo costa meno di un abbonamento Netflix."
+  ],
+  "video_script": [
+    "Hanno preso di mira Foxconn, non per soldi.",
+    "Vogliono i segreti industriali di Apple.",
+    "I server che montano i tuoi dispositivi sono esposti.",
+    "Non serve aspettare: il rischio è attuale.",
+    "Controlla ora la tua filiera produttiva."
+  ],
+  "instagram_caption": "Foxconn, il colosso che assembla iPhone e altri dispositivi, è stato violato 🔓. Gli hacker non chiedono soldi: vogliono rubare i segreti industriali dei produttori, da Apple a Nvidia. Questo attacco ransomware mostra che la vera merce di scambio non sono i dati personali, ma i processi produttivi che usi per ogni tuo device. Se lavori nella supply chain, il tuo prossimo fornitore potrebbe essere il bersaglio ⚠️. Quanto tempo prima che i piani del tuo telefono diventino pubblici? 🛑",
+  "carousel_slides": [
+    {
+      "hook": "Non vogliono soldi, ma segreti",
+      "description": "Hacker colpiscono Foxconn per esporre i processi produttivi dei tuoi device.",
+      "visual_hint": "server con luci rosse",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room red lights"
+    },
+    {
+      "hook": "Foxconn produce iPhone per Apple",
+      "description": "Attacco ransomware ai server del gigante che assembla i tuoi dispositivi.",
+      "visual_hint": "fabbrica con linee di montaggio",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory assembly line",
+      "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Richiesta: esporre dati produttivi",
+      "description": "Non un riscatto in criptovaluta. Vogliono segreti industriali dei device che usi.",
+      "visual_hint": "documento con sigillo segreto",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "confidential document stamp",
+      "image": "https://images.pexels.com/photos/8371713/pexels-photo-8371713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "I tuoi dati nella lista obiettivi?",
+      "description": "Se produci dispositivi, potresti essere il prossimo bersaglio. Controlla la supply chain.",
+      "visual_hint": "mano che controlla un server",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand checking server",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Verifica oggi la tua supply chain",
+      "description": "Un controllo costa meno di un abbonamento Netflix. Non aspettare l'attacco.",
+      "visual_hint": "schermo con cruscotto sicurezza",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "security dashboard screen",
+      "image": "https://images.pexels.com/photos/2036656/pexels-photo-2036656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/iphone-store.jpg?resize=1200,800",
+  "pubDate": "Wed, 13 May 2026 15:39:37 +0000",
+  "savedAt": "2026-05-13T17:56:23.684Z",
+  "link": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/"
+}

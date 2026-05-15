@@ -667,6 +667,594 @@ window.FOOD_ARTICLES = [
   },
   {
     "agent": "food",
+    "slug": "pasta-con-fiori-di-zucca-e-alici",
+    "sourceId": "5248cbef97fc64cc3aa318c78005047d",
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "fiori di zucca",
+      "alici",
+      "linguine"
+    ],
+    "title": "Pasta con fiori di zucca e alici",
+    "slides": [
+      "Pasta cremosa con fiori e alici.",
+      "Linguine, fiori di zucca, alici, aglio, limone.",
+      "Pulisci i fiori, soffriggi alici e aglio.",
+      "Scola la pasta al dente e manteca in padella.",
+      "Unisci alici crude e scorza di limone."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta cremosa fiori e alici",
+        "description": "Un primo elegante e saporito: la dolcezza dei fiori di zucca incontra la sapidità delle alici in una crema avvolgente.",
+        "visual_hint": "Piatto finito in primo piano",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory pasta zucchini flowers"
+      },
+      {
+        "hook": "I 5 ingredienti chiave",
+        "description": "Linguine, fiori di zucca freschi, alici sott'olio, aglio e limone. Pochi elementi per un piatto già completo.",
+        "visual_hint": "Ingredienti disposti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta ingredients",
+        "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il gesto che cambia tutto",
+        "description": "Pulisci delicatamente i fiori, poi soffriggi alici e aglio in padella finché le alici non si sciolgono.",
+        "visual_hint": "Mani che puliscono un fiore",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cleaning zucchini flowers",
+        "image": "https://images.pexels.com/photos/4750380/pexels-photo-4750380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mantecatura in padella",
+        "description": "Scola la pasta al dente e trasferiscila direttamente nella padella con il condimento. Mescola a fuoco spento per amalgamare.",
+        "visual_hint": "Pasta che viene mantecata in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory pasta tossing pan",
+        "image": "https://images.pexels.com/photos/30350309/pexels-photo-30350309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tocco finale croccante",
+        "description": "Spegni il fuoco, unisci qualche alice cruda spezzettata e abbondante scorza di limone grattugiata. Servi subito.",
+        "visual_hint": "Piatto impiattato con scorza di limone",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory lemon pasta plate",
+        "image": "https://images.pexels.com/photos/20246314/pexels-photo-20246314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Ci sono piatti che sanno di fine estate e di mare, come questa pasta con fiori di zucca e alici. Le linguine si avvolgono in una cremina delicata, dove il sapore deciso delle alici si sposa con la dolcezza dei fiori e una nota fresca di limone. Il segreto? Unire qualche alice cruda a fine mantecatura per un contrasto che esalta tutto. L’ho finita con una grattata di scorza e un filo d’olio. Da leccarsi i baffi. Provatela prima che i fiori spariscano 🌼🍋",
+    "video_script": [
+      "Pulisco i fiori di zucca freschi.",
+      "Soffriggo aglio e alici nell'olio.",
+      "Scolo le linguine al dente.",
+      "Manteco tutto in padella cremoso.",
+      "Aggiungo alici crude e scorza."
+    ],
+    "thread_text": [
+      "C’è un piatto che sa di estate e di mare in un sol boccone. Linguine con fiori di zucca e alici. Cremoso, saporito, con quel contrasto che ti fa chiudere gli occhi. Ti spiego come farlo perfetto. 🧵👇",
+      "Parti dai fiori di zucca: puliscili con cura, togli il pistillo. Poi in padella fai soffriggere aglio in camicia e alici sott’olio. Lascia che si sciolgano lentamente, a fuoco dolce. Intanto lessa le linguine al dente.",
+      "Quando la pasta è pronta, scolala e versala direttamente nella padella con alici e aglio. Aggiungi un mestolo di acqua di cottura. Manteca a fiamma media, quasi saltando: il sapore entra dentro la pasta. Cremoso senza panna.",
+      "Ora arriva il gesto che fa la differenza. Spegni il fuoco e unisci qualche alice cruda spezzettata — dà profondità — e una manciata di fiori di zucca tenuti da parte. Mescola piano, si appassiscono senza cuocersi troppo.",
+      "Ultimo tocco: scorza di limone grattugiata al momento sopra il piatto. Freschezza che taglia l’untuoso. Niente altro: è perfetta così. Se la provi, fammi sapere com’è andata. Io aspetto il tuo risultato."
+    ],
+    "link": "https://ricette.giallozafferano.it/Pasta-con-fiori-di-zucca-e-alici.html",
+    "pubDate": "Wed, 13 May 2026 14:21:00 +0200",
+    "savedAt": "2026-05-13T18:00:28.752Z",
+    "image": "https://www.giallozafferano.it/images/361-36171/Pasta-con-fiori-di-zucca-e-alici_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
+    "slug": "torta-2-ingredienti",
+    "sourceId": "4dff87d4e172b41438f75023bc536266",
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "mele",
+      "cioccolato fondente",
+      "cacao amaro"
+    ],
+    "title": "Torta 2 ingredienti",
+    "slides": [
+      "Dolce cremoso di mele e cioccolato fondente.",
+      "Mele, cioccolato fondente, cacao amaro.",
+      "Frulla mele cotte e unisci cioccolato fuso.",
+      "Raffredda in frigo per almeno 2 ore.",
+      "Spolvera con cacao amaro prima di servire."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Dolce cremoso di mele e cioccolato",
+        "description": "Una torta golosa e leggera con solo 2 ingredienti base, perfetta per un dessert veloce.",
+        "visual_hint": "Torta al piatto su sfondo scuro",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "chocolate apple dessert"
+      },
+      {
+        "hook": "Solo 3 ingredienti",
+        "description": "Mele dolci e tenere, cioccolato fondente di qualità, cacao amaro per la finitura.",
+        "visual_hint": "Ingredienti su tavola di legno",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "apples and chocolate",
+        "image": "https://images.pexels.com/photos/12653265/pexels-photo-12653265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Frulla le mele cotte",
+        "description": "Cuoci le mele fino a renderle morbide, poi frullale e unisci il cioccolato fuso.",
+        "visual_hint": "Frullatore con mele cotte",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "blending cooked apples",
+        "image": "https://images.pexels.com/photos/6605167/pexels-photo-6605167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Raffredda in frigorifero",
+        "description": "Versa il composto in una tortiera e lascia raffreddare in frigo per almeno 2 ore.",
+        "visual_hint": "Tortiera in frigo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "chocolate apple cake fridge",
+        "image": "https://images.pexels.com/photos/37325525/pexels-photo-37325525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spolvera e servi",
+        "description": "Prima di servire, spolvera con cacao amaro per un tocco amaro e scenografico.",
+        "visual_hint": "Mano che spolvera cacao su torta",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "dusting cocoa on cake",
+        "image": "https://images.pexels.com/photos/9815773/pexels-photo-9815773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Due ingredienti, zero sensi di colpa. 🍎✨  \nDue mele cotte frullate e cioccolato fondente fuso: nasce una crema vellutata che sa di coccola pura. La raffreddo in frigo per almeno 2 ore e, prima di servire, un velo di cacao amaro la trasforma in un dessert elegante e senza zuccheri aggiunti.  \nSemplice, golosa, light.  \nPrepara questa magia in 5 minuti e stupisci tutti. 🌿",
+    "video_script": [
+      "Frullo mele cotte e unisco cioccolato fuso.",
+      "Uso mele dolci e cioccolato fondente.",
+      "Mescolo tutto fino a crema liscia.",
+      "Metto in frigo per almeno due ore.",
+      "Spolvero cacao amaro e servo."
+    ],
+    "thread_text": [
+      "Mi sfidano a fare un dolce con 2 ingredienti. Io alzo e metto 3 cose che cambiano tutto: mele, cioccolato fondente, cacao amaro. Il risultato è una crema vellutata che sembra un peccato di gola, ma è quasi innocente. Preparati.",
+      "Partiamo dalle basi: mele cotte e morbide. Le frulli fino a ottenere una purea liscia. Intanto sciogli il cioccolato fondente a bagnomaria (mai nel microonde, fidati). Due elementi, un solo destino: incontrarsi.",
+      "Unisci la purea di mele al cioccolato fuso. Mescola con energia fino a che tutto diventa un’unica, densa nuvola scura. Sembra poco, ma il profumo ti invade la cucina. Questo è il momento della magia.",
+      "Versa il composto in una ciotola o in stampini singoli. Via in frigo per almeno 2 ore. La pazienza paga: si solidifica in una crema setosa che non ha niente da invidiare a un tiramisù. Mentre aspetti, resisti.",
+      "Tocco finale: prima di servire, spolvera con cacao amaro. Un colpo di amaro che esplode sulla dolcezza naturale. Due ingredienti, tre mosse, un dessert da urlo. Provala e fammi sapere se ti scioglie come ha fatto con me."
+    ],
+    "link": "https://ricette.giallozafferano.it/Torta-2-ingredienti.html",
+    "pubDate": "Wed, 13 May 2026 15:12:00 +0200",
+    "savedAt": "2026-05-13T18:00:08.291Z",
+    "image": "https://www.giallozafferano.it/images/361-36174/Torta-2-ingredienti_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
+    "slug": "pasta-al-forno-con-salsiccia-e-piselli",
+    "sourceId": "38a68c5a500f69b93c330ee50d00c0a4",
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "salsiccia",
+      "piselli",
+      "mozzarella"
+    ],
+    "title": "Pasta al forno con salsiccia e piselli",
+    "slides": [
+      "Pasta al forno cremosa con salsiccia e piselli",
+      "Rigatoni, salsiccia, mozzarella, besciamella, piselli",
+      "Rosola salsiccia e cipolla, poi unisci i piselli",
+      "Cuoci in forno a 200° per 30 minuti",
+      "Lascia riposare 10 minuti prima di servire"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta al forno cremosa e filante",
+        "description": "Una pasta al forno avvolgente, con salsiccia saporita, piselli dolci e mozzarella filante. Il comfort food perfetto.",
+        "visual_hint": "Piatto fumante in primo piano",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory baked pasta"
+      },
+      {
+        "hook": "Gli ingredienti giusti",
+        "description": "Rigatoni, salsiccia, mozzarella, besciamella e piselli: la combinazione perfetta per una pasta al forno cremosa.",
+        "visual_hint": "Ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta ingredients",
+        "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il segreto del sapore",
+        "description": "Rosola salsiccia e cipolla fino a doratura, poi unisci i piselli: così sprigionano tutto l'aroma.",
+        "visual_hint": "Padella con salsiccia e cipolla",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory sausage cooking",
+        "image": "https://images.pexels.com/photos/10794159/pexels-photo-10794159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "La cottura perfetta",
+        "description": "Cuoci in forno statico a 200°C per 30 minuti: la superficie diventa dorata e croccante.",
+        "visual_hint": "Teglia nel forno",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory pasta baking",
+        "image": "https://images.pexels.com/photos/30412119/pexels-photo-30412119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il trucco del riposo",
+        "description": "Lascia riposare 10 minuti prima di servire: la pasta si compatta e diventa ancora più cremosa.",
+        "visual_hint": "Piatto pronto sul tavolo",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory baked pasta portion",
+        "image": "https://images.pexels.com/photos/29145229/pexels-photo-29145229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Il profumo di questa pasta al forno ti abbraccia appena la sforni. Cremosa, filante, con quel contrasto perfetto tra la dolcezza dei piselli e il sapore deciso della salsiccia. Rosolo la salsiccia con la cipolla, unisco i piselli e la besciamella, poi rigatoni e mozzarella a strati: 30 minuti a 200° e il gioco è fatto. La lascio riposare 10 minuti prima di servire, ma è una prova di resistenza. Segna questa per la domenica. 🍝🧀🌿",
+    "video_script": [
+      "Fai un bel fondo con salsiccia e cipolla.",
+      "Aggiungi i piselli e falli insaporire.",
+      "Condisci i rigatoni con besciamella e mozzarella.",
+      "Versa tutto in teglia e cuoci a 200°.",
+      "Lascia riposare dieci minuti, poi servi."
+    ],
+    "thread_text": [
+      "C’è chi la chiama comfort food e chi la chiama felicità. Questa pasta al forno con salsiccia e piselli è cremosa al punto giusto e pronta a rubarti la cena. 🍝",
+      "Rigatoni, salsiccia, mozzarella, besciamella e piselli. Cinque ingredienti che si fidano l’uno dell’altro. Nessun segreto, solo materia prima di qualità.",
+      "Prima rosoli salsiccia e cipolla finché non diventano oro. Poi butti i piselli. L’odore in cucina è già quello di un abbraccio.",
+      "Inforni a 200° per 30 minuti: la besciamella fa da collante, la mozzarella si scioglie e la salsiccia regala il sapore che vuoi.",
+      "Il trucco? Lasciala riposare 10 minuti prima di servire. La pasta si compatta, i sapori si sistemano. Provala e fammi sapere com’è andata 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Pasta-al-forno-con-salsiccia-e-piselli.html",
+    "pubDate": "Wed, 13 May 2026 15:50:00 +0200",
+    "savedAt": "2026-05-13T17:59:51.106Z",
+    "image": "https://www.giallozafferano.it/images/361-36172/Pasta-al-forno-con-salsiccia-e-piselli_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
+    "slug": "pasta-con-agretti-e-colatura-di-alici",
+    "sourceId": "51428e3539d44579316ecd4a172acaac",
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "agretti",
+      "colatura di alici",
+      "pangrattato"
+    ],
+    "title": "Pasta con agretti e colatura di alici",
+    "slides": [
+      "Spaghetti cremosi con agretti e colatura di alici",
+      "Spaghettoni, agretti, colatura di alici, pangrattato",
+      "Pulisci gli agretti e tosta il pangrattato aromatico",
+      "Manteca la pasta con acqua di cottura e colatura",
+      "Scorza di limone e pangrattato croccante sopra"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Crema di agretti e alici",
+        "description": "Una pasta che unisce la freschezza degli agretti al sapore intenso della colatura di alici",
+        "visual_hint": "Piatto completo fumante",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory pasta agretti colatura"
+      },
+      {
+        "hook": "4 ingredienti magici",
+        "description": "Spaghettoni, agretti, colatura di alici e pangrattato tostato: l'essenziale per un sapore unico",
+        "visual_hint": "Lista ingredienti su legno",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta ingredients",
+        "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il gesto che conta",
+        "description": "Pulisci gli agretti eliminando i filamenti, poi tosta il pangrattato in padella fino a doratura",
+        "visual_hint": "Mani che puliscono agretti",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory cleaning agretti",
+        "image": "https://images.pexels.com/photos/37539838/pexels-photo-37539838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mantecatura cremosa",
+        "description": "Condisci la pasta con acqua di cottura e colatura di alici, mantecando a fuoco dolce",
+        "visual_hint": "Padella con pasta e schiuma",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory mantecatura pasta",
+        "image": "https://images.pexels.com/photos/30350295/pexels-photo-30350295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tocco finale",
+        "description": "Scorza di limone e pangrattato croccante sopra: esplosione di profumi e consistenze",
+        "visual_hint": "Piatto finito con scorza",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory pasta lemon pangrattato",
+        "image": "https://images.pexels.com/photos/20246314/pexels-photo-20246314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Questa pasta sa di primavera e di mare, un equilibrio perfetto tra dolcezza e sapidità. 🍋✨\n\nGli agretti, con la loro nota erbacea e leggermente acidula, si sposano magnificamente con il carattere deciso della colatura di alici. Il segreto? Un soffritto di pangrattato tostato per dare croccantezza e una mantecatura lenta con l’acqua di cottura, che lega tutto in una crema vellutata. Una grattugiata di scorza di limone al momento completa il quadro.\n\nProvala questo weekend, ti conquisterà al primo morso. 🌿",
+    "video_script": [
+      "Pulisco gli agretti, tolgo i gambi duri.",
+      "Tosto il pangrattato aromatico in padella.",
+      "Scolo la pasta al dente, tengo l'acqua.",
+      "Manteco con colatura di alici e acqua.",
+      "Impiato con scorza di limone e croccante."
+    ],
+    "thread_text": [
+      "Se non avete mai messo gli agretti nella pasta, oggi è il giorno giusto per farlo. Con la colatura di alici esplode tutto: sapido, minerale, terroso. Una bomba marina. 🐟",
+      "Pulite gli agretti eliminando la parte dura del gambo. Fate dorare il pangrattato in padella con olio e scorza di limone: diventa croccante e aromatico. Tenetelo da parte.",
+      "Cuocete gli spaghettoni in abbondante acqua salata. Nel frattempo, scottate gli agretti in padella con un filo d'olio: bastano 2 minuti, devono restare sodi e brillanti.",
+      "Scolate la pasta al dente, tenendo da parte un mestolo di acqua. Mantecatela nella padella con gli agretti e un paio di cucchiai di colatura di alici. Aggiungete acqua di cottura fino a crema perfetta.",
+      "Impiattate e finite con la scorza di limone grattugiata e una manciata di pangrattato tostato. Il croccante contro la crema è il trucco che fa la differenza. Provatela e fatemi sapere 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Pasta-con-agretti-e-colatura-di-alici.html",
+    "pubDate": "Tue, 14 Apr 2026 10:11:00 +0200",
+    "savedAt": "2026-05-12T19:33:46.360Z",
+    "image": "https://www.giallozafferano.it/images/360-36073/Pasta-con-agretti-e-colatura-di-alici_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
+    "slug": "risotto-piselli-crescenza-e-pancetta-croccante",
+    "sourceId": "28c4dca21ca942b6eee9f7c8922f4708",
+    "dish_type": "generic",
+    "signature_ingredients": [
+      "crescenza",
+      "pancetta",
+      "piselli"
+    ],
+    "title": "Risotto piselli, crescenza e pancetta croccante",
+    "slides": [
+      "Risotto cremoso con pancetta croccante e crescenza",
+      "Riso Carnaroli, piselli, pancetta, crescenza, parmigiano",
+      "Tosta il riso e sfuma con vino bianco",
+      "Manteca con burro e parmigiano a fuoco spento",
+      "Guarnisci con crescenza e pancetta croccante"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Risotto cremoso pancetta croccante e crescenza",
+        "description": "Un risotto avvolgente con piselli dolci, pancetta croccante e crescenza filante: comfort food che conquista al primo assaggio.",
+        "visual_hint": "Piatto fumante su tavola rustica",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory risotto peas pancetta"
+      },
+      {
+        "hook": "I protagonisti in cucina",
+        "description": "Riso Carnaroli, piselli, pancetta affumicata, crescenza e parmigiano: pochi ingredienti, un sapore irresistibile.",
+        "visual_hint": "Ingredienti su tagliere di legno",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory risotto ingredients bowl",
+        "image": "https://images.pexels.com/photos/34110276/pexels-photo-34110276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il segreto della tostatura",
+        "description": "Tosta il riso a secco fino a che non diventa traslucido, poi sfuma con vino bianco: il profumo ti conquisterà.",
+        "visual_hint": "Riso che sfrigola in padella",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "toasting risotto rice pan",
+        "image": "https://images.pexels.com/photos/6544216/pexels-photo-6544216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mantecatura a regola d'arte",
+        "description": "A fuoco spento, unisci burro e parmigiano e mescola con energia: la cremosità è assicurata.",
+        "visual_hint": "Mantecatura con cucchiaio di legno",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "mantecatura risotto spoon",
+        "image": "https://images.pexels.com/photos/20182309/pexels-photo-20182309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tocco finale perfetto",
+        "description": "Guarnisci con cubetti di crescenza e pancetta croccante: un contrasto di consistenze che fa la differenza.",
+        "visual_hint": "Piatto impiattato con crescenza e pancetta",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory risotto plating garnish",
+        "image": "https://images.pexels.com/photos/18078968/pexels-photo-18078968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Cremoso al punto giusto e con quel contrasto croccante che fa impazzire. 🍚✨\n\nPiselli dolci, pancetta che si scioglie in bocca e una mantecatura con crescenza e parmigiano che rende tutto vellutato. Il segreto? Tostare bene il riso Carnaroli, sfumare col vino bianco e mantecare a fuoco spento per una cremosità perfetta. Poi, la ciliegina: una pioggia di pancetta croccante e cubotti di crescenza fresca sopra.\n\nUna coccola che sa di casa e di cucina che funziona sempre. Provatela questo weekend 🌿",
+    "video_script": [
+      "Tosto il riso nel burro fino a che brilla.",
+      "Sfumo col vino bianco e lascio evaporare.",
+      "Aggiungo i piselli e la pancetta croccante.",
+      "Spegno il fuoco e manteco con parmigiano.",
+      "Guarnisco con crescenza e pancetta, che spettacolo!"
+    ],
+    "thread_text": [
+      "Cremoso, avvolgente, con quel contrasto croccante che manda in tilt le papille: risotto piselli, crescenza e pancetta croccante. Una di quelle cose che mangeresti in silenzio fino all’ultimo chicco.",
+      "La base è Carnaroli, piselli freschi o surgelati, pancetta a cubetti, crescenza e parmigiano. Niente panna: la cremosità la fa tutta la crescenza.",
+      "Si tosta il riso a secco, poi si sfuma con vino bianco. Brodo caldo poco per volta, mescolando con pazienza. I piselli li aggiungo a metà cottura per mantenerli integri.",
+      "A fuoco spento arriva la magia: una noce di burro e una pioggia di parmigiano. Poi la crescenza a fiocchi, che si scioglie e velluta tutto senza appesantire.",
+      "Impiatta e guarnisci con altra crescenza e pancetta croccante sopra. Il contrasto caldo-fresco e morbido-croccante è il vero segreto. Provala e fammi sapere 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Risotto-piselli-crescenza-e-pancetta-croccante.html",
+    "pubDate": "Thu, 16 Apr 2026 09:58:00 +0200",
+    "savedAt": "2026-05-12T16:24:17.395Z",
+    "image": "https://www.giallozafferano.it/images/360-36089/Risotto-piselli-crescenza-e-pancetta-croccante_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
+    "slug": "zuppa-di-fagioli-e-cozze",
+    "sourceId": "45fe1c8c9257d22f3b2dcd5030a630be",
+    "dish_type": "soup",
+    "signature_ingredients": [
+      "cozze",
+      "fagioli cannellini",
+      "pomodori"
+    ],
+    "title": "Zuppa di fagioli e cozze",
+    "slides": [
+      "Zuppa cremosa di fagioli e cozze.",
+      "Cozze, fagioli cannellini, pomodori, aglio, olio.",
+      "Pulisci le cozze e apri in padella con aglio.",
+      "Frulla metà fagioli con acqua di cozze.",
+      "Unisci le cozze sgusciate e servi con crostoni."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Zuppa cremosa di fagioli e cozze",
+        "description": "Un primo caldo e avvolgente, perfetto per scaldare le serate autunnali.",
+        "visual_hint": "ciotola fumante con crostoni",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory clam bean soup"
+      },
+      {
+        "hook": "Gli ingredienti giusti",
+        "description": "Cozze fresche, fagioli cannellini cremosi, pomodori maturi, aglio e buon olio.",
+        "visual_hint": "ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory mussels ingredients",
+        "image": "https://images.pexels.com/photos/9328468/pexels-photo-9328468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pulisci e apri le cozze",
+        "description": "Pulisci bene le cozze e aprilo in padella con aglio fino a che non si spalancano.",
+        "visual_hint": "cozze che si aprono",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory opening mussels",
+        "image": "https://images.pexels.com/photos/9328468/pexels-photo-9328468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Frulla metà dei fagioli",
+        "description": "Frulla metà dei fagioli con l’acqua di cottura delle cozze per ottenere una crema vellutata.",
+        "visual_hint": "mano che versa crema",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory blended beans",
+        "image": "https://images.pexels.com/photos/7657844/pexels-photo-7657844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Servi con crostoni croccanti",
+        "description": "Unisci le cozze sgusciate, aggiungi pane abbrustolito e servi fumante.",
+        "visual_hint": "zuppa impiattata con crostoni",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory bean soup croutons",
+        "image": "https://images.pexels.com/photos/33469314/pexels-photo-33469314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Mare e orto che si abbracciano in un piatto: questa zuppa è un’esplosione di comfort. 🫘🌊 Ho fatto aprire le cozze in padella con aglio, poi ho frullato metà dei fagioli cannellini con l’acqua rilasciata per ottenere una crema vellutata. Il resto dei fagioli interi e i pomodori freschi danno consistenza, mentre le cozze sgusciate tornano a tuffarsi nel brodo. Crostoni di pane a parte, perché intingere è quasi obbligatorio. 🥖🍅 Provala questo weekend, scalda l’anima. ✨",
+    "video_script": [
+      "Pulisco le cozze e le apro in padella.",
+      "Frullo metà fagioli con acqua di cozze.",
+      "Unisco i fagioli, pomodori e aglio.",
+      "Aggiungo le cozze sgusciate, mescolo.",
+      "Servo con crostoni, che bontà!"
+    ],
+    "thread_text": [
+      "Ecco la zuppa che ti fa dimenticare il freddo in un colpo solo. 🦪 Fagioli cannellini, cozze e pomodori: cremosa, intensa, perfetta per intingere il pane. Pochi ingredienti, un risultato che spacca.",
+      "Partiamo dai protagonisti: cozze freschissime, fagioli cannellini in barattolo (via la paura) e pomodori maturi. In padella aglio e olio, le cozze si aprono e rilasciano il loro mare. È già magia.",
+      "Fai così: sbatti metà dei fagioli con l’acqua filtrata delle cozze. Il trucco è tutto qui – niente panna né brodi, solo legumi e sapore di mare. Frulla fino a ottenere una vellutata liscia e avvolgente.",
+      "Unisci il tutto: zuppa cremosa di fagioli, pomodori a pezzi e le cozze sgusciate (qualcuna intera per fare scena). Lascia sobbollire 5 minuti, assaggia e regola di sale. Crostoni di pane tostato aspettano.",
+      "Goccio d’olio a crudo e prezzemolo fresco tritato. Servi bollente e sentirai l’abbraccio. Provala e fammi sapere se hai usato i crostoni o il cucchiaio – voglio la verità 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Zuppa-di-fagioli-e-cozze.html",
+    "pubDate": "Thu, 16 Apr 2026 11:31:00 +0200",
+    "savedAt": "2026-05-12T16:23:53.860Z",
+    "image": "https://www.giallozafferano.it/images/360-36091/Zuppa-di-fagioli-e-cozze_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
+    "slug": "bocconcini-di-pollo-alla-mediterranea",
+    "sourceId": "77b971a7cb7a0c9a1a09085e1c1230b2",
+    "dish_type": "meat",
+    "signature_ingredients": [
+      "pollo",
+      "olive taggiasche",
+      "capperi"
+    ],
+    "title": "Bocconcini di pollo alla mediterranea",
+    "slides": [
+      "Teneri bocconcini di pollo con olive e capperi.",
+      "Petto di pollo, pomodorini, olive taggiasche, capperi.",
+      "Taglia il pollo a bocconcini e rosola in padella.",
+      "Sfuma con vino, unisci pomodorini, olive e capperi.",
+      "Servi caldo con pane tostato per il sughetto."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Bocconcini di pollo alla mediterranea",
+        "description": "Morbidi bocconcini di pollo con olive e capperi, un tripudio di sapori del sole in ogni forchettata.",
+        "visual_hint": "Bocconcini in padella",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory chicken bites"
+      },
+      {
+        "hook": "Ingredienti essenziali",
+        "description": "Petto di pollo, pomodorini, olive taggiasche e capperi: pochi ingredienti, tanto sapore mediterraneo.",
+        "visual_hint": "Ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory chicken ingredients",
+        "image": "https://images.pexels.com/photos/5769385/pexels-photo-5769385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il gesto che fa la differenza",
+        "description": "Taglia il pollo a bocconcini e rosola in padella fino a doratura perfetta.",
+        "visual_hint": "Mani che tagliano pollo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cutting chicken chunks",
+        "image": "https://images.pexels.com/photos/11021811/pexels-photo-11021811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "La cottura perfetta",
+        "description": "Sfuma con vino bianco, poi unisci pomodorini, olive e capperi e lascia insaporire.",
+        "visual_hint": "Padella con sfumatura",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory chicken pan",
+        "image": "https://images.pexels.com/photos/25884472/pexels-photo-25884472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Servi e goditi il sughetto",
+        "description": "Impiatta i bocconcini caldi con pane tostato per raccogliere tutto il sughetto saporito.",
+        "visual_hint": "Piatto con pane tostato",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory chicken toast",
+        "image": "https://images.pexels.com/photos/18743145/pexels-photo-18743145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Non serve andare lontano per sentirsi in vacanza: bastano questi bocconcini di pollo alla mediterranea per portare il sole direttamente nel tuo piatto. 🍋 Petto di pollo tenerissimo, saltato in padella e sfumato col vino, si sposa con pomodorini dolci, olive taggiasche e capperi — il sughetto che si crea è una delizia da raccogliere col pane tostato. Un piatto semplice, ma con tutto il sapore del mare. Pronto per una cena che sa d’estate? Provalo questo weekend 🌿",
+    "video_script": [
+      "Prendo i bocconcini di pollo e li rosolo.",
+      "Taglio il petto a cubetti e via in padella.",
+      "Sfumo col vino, poi unisco i pomodorini.",
+      "Aggiungo olive taggiasche e capperi, mescolo.",
+      "Servo caldo con pane tostato per il sughetto."
+    ],
+    "thread_text": [
+      "Bocconcini di pollo che sanno di mare e di sole. Olive taggiasche e capperi: il tocco che trasforma un petto banale in un piatto da leccarsi i baffi. Pronto a sporcarti le mani?",
+      "Petto di pollo tagliato a bocconcini, pomodorini dolci, olive taggiasche e capperi. Fresco, sapido, mediterraneo. Gli ingredienti giusti fanno già metà del lavoro.",
+      "Rosola i bocconcini in padella fino a che non sono dorati e croccanti fuori, teneri dentro. Poi sfuma con un goccio di vino bianco – sentirai subito il profumo alzarsi.",
+      "Aggiungi i pomodorini spezzati, le olive e i capperi. Lascia insaporire a fuoco vivo: il sughetto si addensa, i sapori si fondono. Una carezza per il palato.",
+      "Servi caldo, con pane tostato per fare la scarpetta nel sughetto profumatissimo. Provala e fammi sapere com'è andata 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Bocconcini-di-pollo-alla-mediterranea.html",
+    "pubDate": "Tue, 12 May 2026 16:09:00 +0200",
+    "savedAt": "2026-05-12T16:23:28.991Z",
+    "image": "https://www.giallozafferano.it/images/361-36168/Bocconcini-di-pollo-alla-mediterranea_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
     "slug": "pasta-sarde-pomodorini-e-pangrattato",
     "sourceId": "b9a8693f2cb856faf4edfefe3c23af97",
     "dish_type": "pasta",

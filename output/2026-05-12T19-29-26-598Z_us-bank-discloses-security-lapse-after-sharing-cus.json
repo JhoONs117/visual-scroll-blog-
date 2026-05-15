@@ -1,0 +1,75 @@
+{
+  "title": "US bank discloses security lapse after sharing customer data with AI app",
+  "slides": [
+    "Una banca USA ha condiviso dati sensibili con un'IA?",
+    "L'app AI ha ricevuto informazioni personali di clienti.",
+    "La banca ha scoperto il problema solo dopo settimane.",
+    "Verifica se anche i tuoi dati sono stati esposti.",
+    "Chiedi alla banca un report dettagliato adesso."
+  ],
+  "thread_text": [
+    "Una banca USA ha scoperto solo dopo settimane che la sua AI aveva condiviso dati sensibili dei clienti. Sembrava tutto normale, finché qualcuno non ha controllato i log.",
+    "L'app AI che usavano per il supporto clienti stava inviando informazioni personali a terze parti. Nome, indirizzo, transazioni. Tutto.",
+    "Il problema è emerso solo dopo un controllo interno. Per settimane, quei dati sono stati esposti senza che nessuno se ne accorgesse.",
+    "Se hai un conto in quella banca, i tuoi dati potrebbero essere tra quelli esposti. Non aspettare che ti avvisino loro.",
+    "Chiedi subito alla tua banca un report dettagliato su quali dati sono stati condivisi e con chi. Fallo oggi."
+  ],
+  "video_script": [
+    "Una banca ha dato dati privati a un'AI.",
+    "E ci ha messo settimane a scoprirlo.",
+    "Nome, indirizzo, transazioni: tutto esposto.",
+    "Se hai un conto lì, controlla ora.",
+    "Chiedi un report alla banca, subito."
+  ],
+  "instagram_caption": "Per settimane una banca americana ha continuato a usare un'app di IA per l'assistenza clienti senza accorgersi che stava spedendo nome, indirizzo e transazioni a terze parti. Il problema è venuto fuori solo dopo un controllo manuale dei log. Se hai un conto in quella banca, i tuoi dati potrebbero essere già stati esposti senza che tu lo sappia. Chiedi oggi stesso un report dettagliato su cosa è stato condiviso e con chi. La tua banca lo sa da settimane: tu lo sai? 📋🔐💳",
+  "carousel_slides": [
+    {
+      "hook": "I tuoi dati bancari esposti?",
+      "description": "Una banca USA ha scoperto solo dopo settimane che la sua AI condivideva dati sensibili. Sembrava normale.",
+      "visual_hint": "Schermo connotifica di allarme",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data breach screen"
+    },
+    {
+      "hook": "L'app AI ha tradito",
+      "description": "L'app AI per il supporto inviava a terze parti nome, indirizzo, transazioni. Tutto esposto.",
+      "visual_hint": "Icona AI connessa a server esterno",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "AI chatbot interface",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Settimane di silenzio",
+      "description": "Il problema è emerso solo dopo un controllo interno. Per settimane i dati sono rimasti esposti senza che nessuno se ne accorgesse.",
+      "visual_hint": "Calendario barrato con punto esclamativo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "calendar alert",
+      "image": "https://images.pexels.com/photos/29509483/pexels-photo-29509483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sei tra i colpiti?",
+      "description": "Se hai un conto in quella banca, i tuoi dati potrebbero essere tra quelli esposti. Non aspettare che ti avvisino.",
+      "visual_hint": "Documento con dati personali segnati",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "personal data form",
+      "image": "https://images.pexels.com/photos/7709273/pexels-photo-7709273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Azione subito",
+      "description": "Chiedi alla tua banca un report dettagliato su quali dati sono stati condivisi e con chi. Fallo oggi.",
+      "visual_hint": "Tasto 'Chiedi report' luminoso",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "report request button",
+      "image": "https://images.pexels.com/photos/7947637/pexels-photo-7947637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/06/money-grab-bryce.jpg?resize=1200,675",
+  "pubDate": "Tue, 12 May 2026 16:36:44 +0000",
+  "savedAt": "2026-05-12T19:30:37.540Z",
+  "link": "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/"
+}

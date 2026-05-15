@@ -1,0 +1,75 @@
+{
+  "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+  "slides": [
+    "Anthropic ha superato OpenAI nei clienti business, ma come?",
+    "I dati Ramp mostrano una crescita concentrata in un trimestre",
+    "OpenAI domina il consumer, ma perde le aziende su un dettaglio",
+    "Se usi API AI, il fornitore meno noto potrebbe costarti meno oggi",
+    "Controlla i tuoi fornitori: la classifica cambia ogni mese."
+  ],
+  "thread_text": [
+    "OpenAI perde le aziende per un dettaglio: la personalizzazione del modello. Anthropic glielo sta rubando sotto il naso.",
+    "I dati Ramp mostrano che la crescita di Anthropic è esplosa in un solo trimestre. Non è un trend lungo, è un'accelerazione improvvisa.",
+    "OpenAI domina ancora il consumer. Ma nel business B2B, il fornitore che ascolta i tuoi dati vince.",
+    "Se usi API AI, il fornitore meno noto potrebbe costarti meno oggi. Ma controlla la classifica ogni mese: cambia.",
+    "Quanto stai pagando per ogni chiamata API? Probabilmente il 30% in più del necessario. Cambia fornitore e testalo questa settimana."
+  ],
+  "video_script": [
+    "OpenAI perde le aziende per un dettaglio.",
+    "Anthropic cresce in un solo trimestre.",
+    "OpenAI domina il consumer, ma non le aziende.",
+    "Il fornitore meno noto costa meno oggi.",
+    "La classifica cambia ogni mese: controllala."
+  ],
+  "instagram_caption": "Anthropic ha superato OpenAI nei clienti business, stando ai pagamenti tracciati da Ramp 📊.\n\nI dati mostrano una crescita improvvisa in un solo trimestre: il motivo? Le aziende scelgono chi permette di addestrare il modello sui propri dati, non solo la potenza generica. OpenAI domina ancora tra gli utenti normali, ma perde il B2B su questo dettaglio.\n\nSe usi API AI per lavoro, oggi potresti pagare il 30% in più del necessario cambiando fornitore 💡. Controlla la classifica ogni mese: cambia tutto. Quanto spendi tu per ogni chiamata? ⏳💸",
+  "carousel_slides": [
+    {
+      "hook": "Perdi clienti per un dettaglio",
+      "description": "OpenAI perde aziende per la personalizzazione. Anthropic glielo sta rubando sotto il naso.",
+      "visual_hint": "Grafico a barre che si incrociano",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart bars"
+    },
+    {
+      "hook": "Crescita esplosiva in un trimestre",
+      "description": "I dati Ramp mostrano un'accelerazione improvvisa di Anthropic. Non un trend lungo, ma un balzo netto.",
+      "visual_hint": "Linea del grafico che sale",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "line chart growth",
+      "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Consumer vs B2B: vince chi ascolta",
+      "description": "OpenAI domina il consumer. Ma nel business, il fornitore che adatta il modello ai tuoi dati vince.",
+      "visual_hint": "Due schermi affiancati",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "two computer monitors",
+      "image": "https://images.pexels.com/photos/5473313/pexels-photo-5473313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il meno noto costa meno oggi",
+      "description": "Se usi API AI, fornitore meno noto = costo inferiore. Ma controlla ogni mese: la classifica cambia.",
+      "visual_hint": "Manoscritta su calcolatrice",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "calculator coins counting",
+      "image": "https://images.pexels.com/photos/8872344/pexels-photo-8872344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Paghi il 30% in più del necessario",
+      "description": "Quanto spendi per chiamata API? Cambia fornitore e testa questa settimana. Il risparmio è immediato.",
+      "visual_hint": "Frecce verdi in discesa",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "downward arrows green",
+      "image": "https://images.pexels.com/photos/8533629/pexels-photo-8533629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?resize=1200,800",
+  "pubDate": "Wed, 13 May 2026 14:00:00 +0000",
+  "savedAt": "2026-05-13T14:13:09.577Z",
+  "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/"
+}

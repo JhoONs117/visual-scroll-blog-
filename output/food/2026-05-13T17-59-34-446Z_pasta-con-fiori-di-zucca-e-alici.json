@@ -1,0 +1,84 @@
+{
+  "agent": "food",
+  "slug": "pasta-con-fiori-di-zucca-e-alici",
+  "sourceId": "5248cbef97fc64cc3aa318c78005047d",
+  "dish_type": "pasta",
+  "signature_ingredients": [
+    "fiori di zucca",
+    "alici",
+    "linguine"
+  ],
+  "title": "Pasta con fiori di zucca e alici",
+  "slides": [
+    "Pasta cremosa con fiori e alici.",
+    "Linguine, fiori di zucca, alici, aglio, limone.",
+    "Pulisci i fiori, soffriggi alici e aglio.",
+    "Scola la pasta al dente e manteca in padella.",
+    "Unisci alici crude e scorza di limone."
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Pasta cremosa fiori e alici",
+      "description": "Un primo elegante e saporito: la dolcezza dei fiori di zucca incontra la sapidità delle alici in una crema avvolgente.",
+      "visual_hint": "Piatto finito in primo piano",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "savory pasta zucchini flowers"
+    },
+    {
+      "hook": "I 5 ingredienti chiave",
+      "description": "Linguine, fiori di zucca freschi, alici sott'olio, aglio e limone. Pochi elementi per un piatto già completo.",
+      "visual_hint": "Ingredienti disposti su tagliere",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "savory pasta ingredients",
+      "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il gesto che cambia tutto",
+      "description": "Pulisci delicatamente i fiori, poi soffriggi alici e aglio in padella finché le alici non si sciolgono.",
+      "visual_hint": "Mani che puliscono un fiore",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cleaning zucchini flowers",
+      "image": "https://images.pexels.com/photos/4750380/pexels-photo-4750380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Mantecatura in padella",
+      "description": "Scola la pasta al dente e trasferiscila direttamente nella padella con il condimento. Mescola a fuoco spento per amalgamare.",
+      "visual_hint": "Pasta che viene mantecata in padella",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "savory pasta tossing pan",
+      "image": "https://images.pexels.com/photos/30350309/pexels-photo-30350309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il tocco finale croccante",
+      "description": "Spegni il fuoco, unisci qualche alice cruda spezzettata e abbondante scorza di limone grattugiata. Servi subito.",
+      "visual_hint": "Piatto impiattato con scorza di limone",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "savory lemon pasta plate",
+      "image": "https://images.pexels.com/photos/20246314/pexels-photo-20246314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "instagram_caption": "Ci sono piatti che sanno di fine estate e di mare, come questa pasta con fiori di zucca e alici. Le linguine si avvolgono in una cremina delicata, dove il sapore deciso delle alici si sposa con la dolcezza dei fiori e una nota fresca di limone. Il segreto? Unire qualche alice cruda a fine mantecatura per un contrasto che esalta tutto. L’ho finita con una grattata di scorza e un filo d’olio. Da leccarsi i baffi. Provatela prima che i fiori spariscano 🌼🍋",
+  "video_script": [
+    "Pulisco i fiori di zucca freschi.",
+    "Soffriggo aglio e alici nell'olio.",
+    "Scolo le linguine al dente.",
+    "Manteco tutto in padella cremoso.",
+    "Aggiungo alici crude e scorza."
+  ],
+  "thread_text": [
+    "C’è un piatto che sa di estate e di mare in un sol boccone. Linguine con fiori di zucca e alici. Cremoso, saporito, con quel contrasto che ti fa chiudere gli occhi. Ti spiego come farlo perfetto. 🧵👇",
+    "Parti dai fiori di zucca: puliscili con cura, togli il pistillo. Poi in padella fai soffriggere aglio in camicia e alici sott’olio. Lascia che si sciolgano lentamente, a fuoco dolce. Intanto lessa le linguine al dente.",
+    "Quando la pasta è pronta, scolala e versala direttamente nella padella con alici e aglio. Aggiungi un mestolo di acqua di cottura. Manteca a fiamma media, quasi saltando: il sapore entra dentro la pasta. Cremoso senza panna.",
+    "Ora arriva il gesto che fa la differenza. Spegni il fuoco e unisci qualche alice cruda spezzettata — dà profondità — e una manciata di fiori di zucca tenuti da parte. Mescola piano, si appassiscono senza cuocersi troppo.",
+    "Ultimo tocco: scorza di limone grattugiata al momento sopra il piatto. Freschezza che taglia l’untuoso. Niente altro: è perfetta così. Se la provi, fammi sapere com’è andata. Io aspetto il tuo risultato."
+  ],
+  "link": "https://ricette.giallozafferano.it/Pasta-con-fiori-di-zucca-e-alici.html",
+  "pubDate": "Wed, 13 May 2026 14:21:00 +0200",
+  "savedAt": "2026-05-13T18:00:28.752Z",
+  "image": "https://www.giallozafferano.it/images/361-36171/Pasta-con-fiori-di-zucca-e-alici_650x433_wm.jpg"
+}
