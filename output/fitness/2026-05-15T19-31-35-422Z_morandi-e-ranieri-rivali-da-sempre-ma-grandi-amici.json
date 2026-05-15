@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "morandi-e-ranieri-rivali-da-sempre-ma-grandi-amici",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Morandi e Ranieri: \"Rivali da sempre, ma grandi amici\". Dal running al vino rosso ecco come restano in forma  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/05-02-2022/morandi-ranieri-rivali-sempre-ma-grandi-amici-running-vino-rosso-ecco-come-restano-forma-4301258391750.shtml",
+  "pubDate": "Sat, 5 Feb 2022 15:31:49 +0100",
+  "slides": [
+    "Amicizia e competizione: motore per restare in forma.",
+    "Correre insieme aumenta impegno e costanza.",
+    "Alterna corsa lenta e scatti brevi.",
+    "Non isolarti: allenarsi da soli stanca prima.",
+    "Chiama un amico per correre oggi."
+  ],
+  "instagram_caption": "Correre con un amico trasforma la fatica in energia e la costanza in abitudine. 🏃‍♂️💥 La sana rivalità e l’amicizia ti spingono a dare il meglio senza accorgerti dello sforzo. Alterna corsa lenta e scatti brevi per bruciare di più e rompere la monotonia. Allenarsi da soli stanca prima: la compagnia raddoppia la motivazione. Chiama subito un amico e organizzate una corsa per oggi pomeriggio. ✨👟",
+  "formats": {
+    "instagram": {
+      "caption": "Correre con un amico trasforma la fatica in energia e la costanza in abitudine. 🏃‍♂️💥 La sana rivalità e l’amicizia ti spingono a dare il meglio senza accorgerti dello sforzo. Alterna corsa lenta e scatti brevi per bruciare di più e rompere la monotonia. Allenarsi da soli stanca prima: la compagnia raddoppia la motivazione. Chiama subito un amico e organizzate una corsa per oggi pomeriggio. ✨👟"
+    },
+    "tiktok": {
+      "script": [
+        "Allenarsi con un amico spinge di più.",
+        "Correre insieme rende tutto più facile.",
+        "Alterna corsa lenta e scatti brevi.",
+        "Da solo molli prima, è un dato di fatto.",
+        "Chiama un amico e corri oggi stesso."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Morandi e Ranieri? Rivali da sempre, ma grandi amici. Una sana competizione ti spinge a dare il massimo anche quando la voglia è zero. Il segreto non è allenarsi di più, ma allenarsi insieme. 🏃‍♂️",
+        "Correre con un amico non è solo compagnia: aumenta l'impegno e la costanza. Se sai che qualcuno ti aspetta, salti meno sedute e spingi più forte. È scienza, non solo intuizione.",
+        "Alterna corsa lenta e scatti brevi. Il segreto è battere il cronometro a intervalli: 3 minuti di jogging rilassato, 30 secondi a tutta. Così migliori resistenza e velocità senza annoiarti.",
+        "Errore comune? Isolarsi. Allenarsi da soli stanca prima: il cervello cede quando manca lo stimolo sociale. In coppia o in gruppo il ritmo sale naturale e il tempo vola.",
+        "Oggi chiama un amico e fategli una corsa insieme. Non serve preparazione: bastano scarpe e voglia di condividere. Prova domani e dimmi com'è andata 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Allenarsi con un amico spinge di più.",
+    "Correre insieme rende tutto più facile.",
+    "Alterna corsa lenta e scatti brevi.",
+    "Da solo molli prima, è un dato di fatto.",
+    "Chiama un amico e corri oggi stesso."
+  ],
+  "thread_text": [
+    "Morandi e Ranieri? Rivali da sempre, ma grandi amici. Una sana competizione ti spinge a dare il massimo anche quando la voglia è zero. Il segreto non è allenarsi di più, ma allenarsi insieme. 🏃‍♂️",
+    "Correre con un amico non è solo compagnia: aumenta l'impegno e la costanza. Se sai che qualcuno ti aspetta, salti meno sedute e spingi più forte. È scienza, non solo intuizione.",
+    "Alterna corsa lenta e scatti brevi. Il segreto è battere il cronometro a intervalli: 3 minuti di jogging rilassato, 30 secondi a tutta. Così migliori resistenza e velocità senza annoiarti.",
+    "Errore comune? Isolarsi. Allenarsi da soli stanca prima: il cervello cede quando manca lo stimolo sociale. In coppia o in gruppo il ritmo sale naturale e il tempo vola.",
+    "Oggi chiama un amico e fategli una corsa insieme. Non serve preparazione: bastano scarpe e voglia di condividere. Prova domani e dimmi com'è andata 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Amici rivali, forma fisica vincente",
+      "description": "Morandi e Ranieri dimostrano che competere e divertirsi insieme è il segreto per non mollare mai.",
+      "visual_hint": "Corrono sorridendo fianco a fianco",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "friends running park"
+    },
+    {
+      "hook": "Correre insieme moltiplica la costanza",
+      "description": "Allenarsi con un amico aumenta impegno e regolarità: non salti la sessione perché qualcuno ti aspetta.",
+      "visual_hint": "Corsa di coppia all'alba",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "jogging duo sunrise",
+      "image": "https://images.pexels.com/photos/12267777/pexels-photo-12267777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Alterna lento e scatti per bruciare di più",
+      "description": "Mescola corsa lenta e sprint brevi per accelerare metabolismo e migliorare resistenza.",
+      "visual_hint": "Runner cambia velocità",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "interval running sprint",
+      "image": "https://images.pexels.com/photos/8533919/pexels-photo-8533919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Allenarsi da soli? Stanchezza mentale prima",
+      "description": "Senza compagnia la motivazione cala più in fretta. Un partner di corsa rende tutto più leggero e divertente.",
+      "visual_hint": "Runner solitario e triste",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "lonely runner track",
+      "image": "https://images.pexels.com/photos/8533210/pexels-photo-8533210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chiama un amico e corri oggi stesso",
+      "description": "Manda un messaggio, fissate un orario e iniziate insieme. La forma migliore è quella condivisa.",
+      "visual_hint": "Cellulare con messaggio di corsa",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "phone running invite",
+      "image": "https://images.pexels.com/photos/3850268/pexels-photo-3850268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cf01cc5ab.jpeg",
+  "savedAt": "2026-05-15T19:31:53.236Z",
+  "sourceId": "cfe0ded917bb22740369243025d0d8af"
+}

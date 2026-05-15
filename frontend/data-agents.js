@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "indian-uber-rival-rapido-raises-240m-at-3b-valuati",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Indian Uber rival Rapido raises $240M at $3B valuation",
+      "link": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
+      "pubDate": "Fri, 15 May 2026 11:24:12 +0000",
+      "slides": [
+        "Rapido raised $240M at $3B—but can it outrun Uber?",
+        "India's bike taxi market just hit a new peak.",
+        "Yet Rapido still loses money on most rides.",
+        "You'll see lower fares, but drivers earn less.",
+        "Try it once: compare cost vs. wait time."
+      ],
+      "thread_text": [
+        "Rapido ha raccolto 240 milioni di dollari a una valutazione di 3 miliardi. Il problema? Perde ancora soldi su quasi ogni corsa.",
+        "Il mercato dei taxi in bici in India ha appena toccato un nuovo record. Rapido è il leader, ma la domanda è una: quanto può crescere prima che Uber decida di intervenire?",
+        "Per ora, gli utenti vedono tariffe basse. Ma chi guida guadagna sempre meno. Il modello regge solo se il volume cresce più veloce delle perdite.",
+        "La sfida è chiara: correre più veloce di Uber senza bruciare tutti i soldi raccolti. La tensione tra crescita e sostenibilità è il vero nodo.",
+        "La prossima mossa? Decidi tu: costa meno e arriva prima di un Uber. Provalo una volta e confronta costi e tempi di attesa."
+      ],
+      "video_script": [
+        "Hanno raccolto 240 milioni di dollari.",
+        "Ma perdono soldi su ogni corsa.",
+        "Il mercato dei bici-taxi esplode.",
+        "Gli autisti guadagnano sempre meno.",
+        "Provalo: costa meno e arriva prima."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Rapido ha raccolto 240 milioni di dollari a una valutazione di 3 miliardi. Il problema? Perde ancora soldi su quasi ogni corsa.",
+            "Il mercato dei taxi in bici in India ha appena toccato un nuovo record. Rapido è il leader, ma la domanda è una: quanto può crescere prima che Uber decida di intervenire?",
+            "Per ora, gli utenti vedono tariffe basse. Ma chi guida guadagna sempre meno. Il modello regge solo se il volume cresce più veloce delle perdite.",
+            "La sfida è chiara: correre più veloce di Uber senza bruciare tutti i soldi raccolti. La tensione tra crescita e sostenibilità è il vero nodo.",
+            "La prossima mossa? Decidi tu: costa meno e arriva prima di un Uber. Provalo una volta e confronta costi e tempi di attesa."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hanno raccolto 240 milioni di dollari.",
+            "Ma perdono soldi su ogni corsa.",
+            "Il mercato dei bici-taxi esplode.",
+            "Gli autisti guadagnano sempre meno.",
+            "Provalo: costa meno e arriva prima."
+          ]
+        },
+        "instagram": {
+          "caption": "Rapido ha appena raccolto 240 milioni di dollari e vale 3 miliardi 🚲, ma perde ancora soldi su quasi ogni corsa. La startup indiana guida il mercato dei bike-taxi, che ha toccato il record. Il successo, però, dipende dal volume: tariffe basse per te significano meno guadagni per chi guida 💸. Per adesso, ti conviene provarla: confronta costi e tempi di attesa con un Uber ⏱️. Quanto può crescere prima che la contesa si accenda?"
+        }
+      },
+      "instagram_caption": "Rapido ha appena raccolto 240 milioni di dollari e vale 3 miliardi 🚲, ma perde ancora soldi su quasi ogni corsa. La startup indiana guida il mercato dei bike-taxi, che ha toccato il record. Il successo, però, dipende dal volume: tariffe basse per te significano meno guadagni per chi guida 💸. Per adesso, ti conviene provarla: confronta costi e tempi di attesa con un Uber ⏱️. Quanto può crescere prima che la contesa si accenda?",
+      "carousel_slides": [
+        {
+          "hook": "Perde soldi su ogni corsa",
+          "description": "Rapido ha raccolto $240 milioni, ma brucia denaro su quasi ogni corsa.",
+          "visual_hint": "Burning cash or graph down",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "money burning pile"
+        },
+        {
+          "hook": "Bike taxi boom in India",
+          "description": "Il mercato dei taxi in bici in India tocca un nuovo record. Rapido è leader, ma fino a quando?",
+          "visual_hint": "Scooters or bike taxis street",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "motorcycle taxi india",
+          "image": "https://images.pexels.com/photos/16471690/pexels-photo-16471690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tariffe basse, guadagni bassi",
+          "description": "Utenti vedono corse economiche. Ma i driver guadagnano sempre meno. Il modello regge solo se il volume cresce.",
+          "visual_hint": "Driver looking at phone",
+          "layout_type": "sensor-zoom",
+          "icon": "waves",
+          "image_query": "rider phone earnings",
+          "image": "https://images.pexels.com/photos/25396173/pexels-photo-25396173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Crescita o sostenibilità?",
+          "description": "Correre più veloce di Uber senza bruciare tutti i soldi: la tensione è il vero nodo.",
+          "visual_hint": "Uber and Rapido logos",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "rival taxi apps street",
+          "image": "https://images.pexels.com/photos/15509461/pexels-photo-15509461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova Rapido e confronta",
+          "description": "Costa meno e arriva prima? Prova una volta e confronta costi e attesa.",
+          "visual_hint": "User tapping phone",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "city traffic jam",
+          "image": "https://images.pexels.com/photos/11456301/pexels-photo-11456301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/rapido.jpg?w=1200",
+      "savedAt": "2026-05-15T19:20:03.416Z",
+      "sourceId": "397bfe6497a0257060974341c210a909"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "silicon-valley-s-vacationland-needs-a-new-energy-p",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+      "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+      "pubDate": "Fri, 15 May 2026 18:14:44 +0000",
+      "slides": [
+        "Who will power the next AI boom in Sonoma County?",
+        "Local grid can't handle new data center demands.",
+        "Solar and wind are not scaling fast enough for this.",
+        "Your next energy bill might spike before summer ends.",
+        "Check your provider's capacity today for surprises."
+      ],
+      "thread_text": [
+        "La tua bolletta della luce potrebbe salire prima della fine dell'estate. Il motivo non è l'inflazione. Sono i data center dell'IA che la rete locale non regge più.",
+        "Sonoma County è il nuovo epicentro richiesto per l'AI. Peccato che la rete elettrica locale sia ferma agli anni '90: non può gestire la potenza che serve ora.",
+        "Soluzione ovvia? Solare ed eolico. Ma non stanno scalando abbastanza in fretta per coprire il nuovo carico. Il gap si allarga ogni trimestre.",
+        "Chi pensava che l'energia pulita sarebbe arrivata in tempo per l'AI si sbaglia. Le utility locali stanno già rivedendo le tariffe per l'estate.",
+        "Controlla oggi la capacità del tuo fornitore. Se non lo fai, la prima sorpresa potrebbe arrivare con la bolletta di settembre."
+      ],
+      "video_script": [
+        "La tua bolletta potrebbe salire prima dell'estate.",
+        "Colpa dei data center per l'intelligenza artificiale qui in zona.",
+        "La rete elettrica locale non ce la fa più a reggere.",
+        "Solare ed eolico crescono, ma non abbastanza in fretta.",
+        "Controlla il tuo fornitore adesso, non dopo."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "La tua bolletta della luce potrebbe salire prima della fine dell'estate. Il motivo non è l'inflazione. Sono i data center dell'IA che la rete locale non regge più.",
+            "Sonoma County è il nuovo epicentro richiesto per l'AI. Peccato che la rete elettrica locale sia ferma agli anni '90: non può gestire la potenza che serve ora.",
+            "Soluzione ovvia? Solare ed eolico. Ma non stanno scalando abbastanza in fretta per coprire il nuovo carico. Il gap si allarga ogni trimestre.",
+            "Chi pensava che l'energia pulita sarebbe arrivata in tempo per l'AI si sbaglia. Le utility locali stanno già rivedendo le tariffe per l'estate.",
+            "Controlla oggi la capacità del tuo fornitore. Se non lo fai, la prima sorpresa potrebbe arrivare con la bolletta di settembre."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "La tua bolletta potrebbe salire prima dell'estate.",
+            "Colpa dei data center per l'intelligenza artificiale qui in zona.",
+            "La rete elettrica locale non ce la fa più a reggere.",
+            "Solare ed eolico crescono, ma non abbastanza in fretta.",
+            "Controlla il tuo fornitore adesso, non dopo."
+          ]
+        },
+        "instagram": {
+          "caption": "A Sonoma County la rete elettrica è ferma agli anni '90, ma i data center per l'AI stanno chiedendo potenza da decenni tecnologici. Il problema: il carico è già troppo alto e le utility locali non sanno ancora come coprirlo con solare o eolio, perché non scalano in tempo ⚡. Se il tuo fornitore è lo stesso della zona, la tua bolletta potrebbe salire prima di settembre. Hai già verificato se la tua rete locale reggerà l'estate? 💸🔋"
+        }
+      },
+      "instagram_caption": "A Sonoma County la rete elettrica è ferma agli anni '90, ma i data center per l'AI stanno chiedendo potenza da decenni tecnologici. Il problema: il carico è già troppo alto e le utility locali non sanno ancora come coprirlo con solare o eolio, perché non scalano in tempo ⚡. Se il tuo fornitore è lo stesso della zona, la tua bolletta potrebbe salire prima di settembre. Hai già verificato se la tua rete locale reggerà l'estate? 💸🔋",
+      "carousel_slides": [
+        {
+          "hook": "AI boom needs power here",
+          "description": "Sonoma County è il nuovo epicentro AI. La rete locale è ferma agli anni '90: non regge la potenza necessaria.",
+          "visual_hint": "Data center server room interior",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "server room racks"
+        },
+        {
+          "hook": "Grid can't handle demand",
+          "description": "La rete locale non può gestire la potenza dei nuovi data center AI. Il rischio è una bolletta più cara per tutti.",
+          "visual_hint": "Power lines against sky",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "power lines grid",
+          "image": "https://images.pexels.com/photos/33041841/pexels-photo-33041841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Solar and wind too slow",
+          "description": "Solare ed eolico non scalano abbastanza in fretta per coprire il carico AI. Il gap si allarga ogni trimestre.",
+          "visual_hint": "Wind turbines on hill",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "wind turbine solar",
+          "image": "https://images.pexels.com/photos/10333115/pexels-photo-10333115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Energy bill spike coming",
+          "description": "Le utility locali stanno già rivedendo tariffe per l'estate. La tua bolletta potrebbe salire prima di settembre.",
+          "visual_hint": "Hand holding glowing bulb",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "hand holding lightbulb",
+          "image": "https://images.pexels.com/photos/2213050/pexels-photo-2213050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check provider capacity now",
+          "description": "Controlla oggi la capacità del tuo fornitore evita sorprese con la bolletta di settembre.",
+          "visual_hint": "Smartphone showing bill alert",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone electricity bill",
+          "image": "https://images.pexels.com/photos/4386288/pexels-photo-4386288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1370931116.jpeg?resize=1200,801",
+      "savedAt": "2026-05-15T19:19:49.399Z",
+      "sourceId": "fbdbbdaad4a0bd0e71a4c1b613b19c2d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "runway-started-by-helping-filmmakers-now-it-wants-",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -19100,6 +19308,318 @@ window.AGENTS = {
     }
   ],
   "fitness": [
+    {
+      "schema_version": 2,
+      "agent": "fitness",
+      "slug": "la-realt-virtuale-irrompe-nel-mondo-del-fitness-ec",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "La realtà virtuale irrompe nel mondo del fitness. Ecco come sarà l’allenamento del futuro  ",
+      "link": "https://www.gazzetta.it/fitness/allenamento/03-02-2022/realta-virtuale-irrompe-mondo-fitness-ecco-come-sara-l-allenamento-futuro-4301216120214.shtml",
+      "pubDate": "Thu, 3 Feb 2022 10:51:08 +0100",
+      "slides": [
+        "Il futuro del fitness è ora. Allacciati.",
+        "Realtà virtuale: impegno totale, zero distrazioni.",
+        "Casco VR, trackers: esegui movimenti immersivi.",
+        "Non fermarti ogni secondo per regolare il visore.",
+        "Oggi prova una sessione fitness in VR."
+      ],
+      "instagram_caption": "La distrazione è il nemico numero uno dei tuoi progressi. Con la realtà virtuale, elimini ogni scusa e ottieni impegno totale, come se fossi dentro l'allenamento. 🥽  \n\nCasco VR e trackers ti guidano in movimenti immersivi: non devi più fermarti per regolare il visore, solo eseguire e sudare. Zero interruzioni, massima resa.  \n\nIl futuro del fitness è ora. Allacciati e provalo: cerca una sessione VR nella tua palestra o a casa. 💀🔥  \n\nFai il primo passo: prenota una sessione oggi e senti la differenza. 💪",
+      "formats": {
+        "instagram": {
+          "caption": "La distrazione è il nemico numero uno dei tuoi progressi. Con la realtà virtuale, elimini ogni scusa e ottieni impegno totale, come se fossi dentro l'allenamento. 🥽  \n\nCasco VR e trackers ti guidano in movimenti immersivi: non devi più fermarti per regolare il visore, solo eseguire e sudare. Zero interruzioni, massima resa.  \n\nIl futuro del fitness è ora. Allacciati e provalo: cerca una sessione VR nella tua palestra o a casa. 💀🔥  \n\nFai il primo passo: prenota una sessione oggi e senti la differenza. 💪"
+        },
+        "tiktok": {
+          "script": [
+            "Parti così: il futuro è ora.",
+            "Il segreto? Realtà virtuale, zero distrazioni.",
+            "Casco VR e trackers, movimenti immersivi.",
+            "Evita questo errore: fermarti per regolare.",
+            "Oggi prova una sessione fitness in VR."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Hai mai pensato di allenarti senza distrarti un secondo? La realtà virtuale sta cambiando le regole del gioco. Ecco come sarà il fitness che ti aspetta. Allacciati.",
+            "Casco VR, trackers ai polsi e alle caviglie: ogni movimento viene trasferito nel mondo digitale. Fai squat, affondi e colpi di boxe come se fossi dentro il videogioco.",
+            "Allenamento immersivo al 100%. Non guardi il telefono, non pensi alla spesa. Sei lì, dentro il workout. La concentrazione sale, la percezione della fatica scende.",
+            "Errore da evitare? Fermarti ogni secondo per regolare il visore. Regola la calzata prima di iniziare. Un casco stabile = flow che non si spezza.",
+            "Oggi prova una sessione fitness in VR. 15 minuti e vedi se non ti alleni più intensamente del solito. Fatto? Rispondi qui sotto e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Parti così: il futuro è ora.",
+        "Il segreto? Realtà virtuale, zero distrazioni.",
+        "Casco VR e trackers, movimenti immersivi.",
+        "Evita questo errore: fermarti per regolare.",
+        "Oggi prova una sessione fitness in VR."
+      ],
+      "thread_text": [
+        "Hai mai pensato di allenarti senza distrarti un secondo? La realtà virtuale sta cambiando le regole del gioco. Ecco come sarà il fitness che ti aspetta. Allacciati.",
+        "Casco VR, trackers ai polsi e alle caviglie: ogni movimento viene trasferito nel mondo digitale. Fai squat, affondi e colpi di boxe come se fossi dentro il videogioco.",
+        "Allenamento immersivo al 100%. Non guardi il telefono, non pensi alla spesa. Sei lì, dentro il workout. La concentrazione sale, la percezione della fatica scende.",
+        "Errore da evitare? Fermarti ogni secondo per regolare il visore. Regola la calzata prima di iniziare. Un casco stabile = flow che non si spezza.",
+        "Oggi prova una sessione fitness in VR. 15 minuti e vedi se non ti alleni più intensamente del solito. Fatto? Rispondi qui sotto e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Il futuro del fitness è ora",
+          "description": "Immergiti nella realtà virtuale: impegno totale e zero distrazioni per un allenamento più efficace e coinvolgente.",
+          "visual_hint": "persona con casco VR",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "vr fitness man"
+        },
+        {
+          "hook": "Addio distrazioni, benvenuta concentrazione",
+          "description": "Con la VR non guardi il telefono: esegui movimenti immersivi senza interruzioni, massimizzando i risultati.",
+          "visual_hint": "casco VR e trackers",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "vr headset hands",
+          "image": "https://images.pexels.com/photos/7561988/pexels-photo-7561988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Immersione totale corpo e mente",
+          "description": "Casco VR e tracker trasformano ogni tua azione: pugni, squat e schivate diventano naturali come nella realtà.",
+          "visual_hint": "movimento atletico con VR",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "person punching vr",
+          "image": "https://images.pexels.com/photos/7562355/pexels-photo-7562355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non fermarti per regolare il visore",
+          "description": "Errore comune: interrompere l’azione. Scegli un casco ergonomico e resta nel flusso dell’allenamento.",
+          "visual_hint": "aggiustamento casco VR",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "adjusting vr headset",
+          "image": "https://images.pexels.com/photos/3761161/pexels-photo-3761161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova subito una sessione VR",
+          "description": "Prenota una prova gratuita in studio e scopri l’allenamento del futuro. Il cambiamento inizia con un click.",
+          "visual_hint": "CTA e QR code",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "vr gym class",
+          "image": "https://images.pexels.com/photos/5881137/pexels-photo-5881137.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cb1c87185.jpeg",
+      "savedAt": "2026-05-15T19:32:27.314Z",
+      "sourceId": "39f7280c771cdf91b7c344058ba0fbe2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "fitness",
+      "slug": "giovanni-truppi-tra-pilates-tanta-acqua-e-la-canot",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Giovanni Truppi tra pilates, tanta acqua e la canottiera all'Ariston... Ed ecco chi è Lucia  ",
+      "link": "https://www.gazzetta.it/fitness/allenamento/05-02-2022/giovanni-truppi-sanremo-2022-pilates-canottiera-ariston-4301261312905.shtml",
+      "pubDate": "Sat, 5 Feb 2022 15:30:35 +0100",
+      "slides": [
+        "Idratazione e movimento: la tua energia sale.",
+        "Pilates unisce respiro, forza e flessibilità.",
+        "Contrai il core mentre allunghi la colonna.",
+        "Non trattenere il respiro durante gli esercizi.",
+        "Bevi 2 litri d'acqua oggi e muoviti."
+      ],
+      "instagram_caption": "Idratazione e movimento: la tua energia vola già dai primi bicchieri. 💧  \nNel pilates unisci respiro, forza e flessibilità: contrai il core mentre allunghi la colonna — e mai trattenere l'aria durante gli esercizi.  \nCosì costruisci corpo e concentrazione, proprio come Giovanni Truppi tra una canottiera e l’Ariston.  \nBevi 2 litri d’acqua oggi e muoviti. Prova un circuito di pilates domattina 💪",
+      "formats": {
+        "instagram": {
+          "caption": "Idratazione e movimento: la tua energia vola già dai primi bicchieri. 💧  \nNel pilates unisci respiro, forza e flessibilità: contrai il core mentre allunghi la colonna — e mai trattenere l'aria durante gli esercizi.  \nCosì costruisci corpo e concentrazione, proprio come Giovanni Truppi tra una canottiera e l’Ariston.  \nBevi 2 litri d’acqua oggi e muoviti. Prova un circuito di pilates domattina 💪"
+        },
+        "tiktok": {
+          "script": [
+            "Parti così: idratazione e movimento.",
+            "Il segreto è pilates: respiro e forza.",
+            "Contrai il core mentre allunghi la colonna.",
+            "Evita questo errore: non trattenere il respiro.",
+            "Bevi 2 litri d’acqua oggi e muoviti!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Acqua + movimento = energia alle stelle. Giovanni Truppi lo sa: una canottiera all’Ariston nasconde allenamenti fatti di costanza e piccoli gesti. Sei pronto a cambiare il tuo approccio?",
+            "Pilates unisce respiro, forza e flessibilità. Ogni movimento parte dal core e si espande fino alle estremità. Il risultato? Muscoli tonici e colonna vertebrale più lunga. Ecco chi è Lucia, la costanza in azione.",
+            "Contrai il core mentre allunghi la colonna: è la base di ogni esercizio efficace. Immagina di tenere una moneta tra le scapole e di spingere il bacino in avanti. Stabilità e controllo, senza fretta.",
+            "L’errore più comune? Trattenere il respiro. Quando sforzi, espira: porti ossigeno ai muscoli e proteggi la schiena. Fai 10 respiri profondi tra un esercizio e l’altro e sentirai la differenza.",
+            "Oggi bevi 2 litri d’acqua e muoviti 20 minuti. Inizia con 5 minuti di pilates, poi aumenta. Prova domani e dimmi com’è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Parti così: idratazione e movimento.",
+        "Il segreto è pilates: respiro e forza.",
+        "Contrai il core mentre allunghi la colonna.",
+        "Evita questo errore: non trattenere il respiro.",
+        "Bevi 2 litri d’acqua oggi e muoviti!"
+      ],
+      "thread_text": [
+        "Acqua + movimento = energia alle stelle. Giovanni Truppi lo sa: una canottiera all’Ariston nasconde allenamenti fatti di costanza e piccoli gesti. Sei pronto a cambiare il tuo approccio?",
+        "Pilates unisce respiro, forza e flessibilità. Ogni movimento parte dal core e si espande fino alle estremità. Il risultato? Muscoli tonici e colonna vertebrale più lunga. Ecco chi è Lucia, la costanza in azione.",
+        "Contrai il core mentre allunghi la colonna: è la base di ogni esercizio efficace. Immagina di tenere una moneta tra le scapole e di spingere il bacino in avanti. Stabilità e controllo, senza fretta.",
+        "L’errore più comune? Trattenere il respiro. Quando sforzi, espira: porti ossigeno ai muscoli e proteggi la schiena. Fai 10 respiri profondi tra un esercizio e l’altro e sentirai la differenza.",
+        "Oggi bevi 2 litri d’acqua e muoviti 20 minuti. Inizia con 5 minuti di pilates, poi aumenta. Prova domani e dimmi com’è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "La tua energia sale subito",
+          "description": "Idratazione e movimento ti danno la carica giusta per allenarti meglio e sentirti più vivo.",
+          "visual_hint": "Donna sorridente beve acqua in palestra",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "woman drinking water gym"
+        },
+        {
+          "hook": "Pilates, respiro e forza",
+          "description": "Unisce respiro, forza e flessibilità per un corpo tonico e una mente calma. Provalo oggi.",
+          "visual_hint": "Donna in posa pilates su tappetino",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "pilates mat woman stretch",
+          "image": "https://images.pexels.com/photos/33360086/pexels-photo-33360086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Contrai il core, allunga",
+          "description": "Contrai il core mentre allunghi la colonna: stabilità e mobilità in un solo gesto.",
+          "visual_hint": "Primo piano addome e schiena in allungamento",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "core contraction spine stretch",
+          "image": "https://images.pexels.com/photos/6800694/pexels-photo-6800694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non bloccare il respiro",
+          "description": "Errore comune: trattenere il respiro. Espira durante lo sforzo per attivare meglio i muscoli.",
+          "visual_hint": "Istruttore mostra respirazione a mani sull'addome",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "breathing exercise coach",
+          "image": "https://images.pexels.com/photos/4587403/pexels-photo-4587403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Bevi e muoviti ora",
+          "description": "Oggi bevi 2 litri d'acqua e fai 10 minuti di movimento. Il tuo corpo ti ringrazierà.",
+          "visual_hint": "Bottiglia d'acqua e tappetino pronti all'uso",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "water bottle fitness mat",
+          "image": "https://images.pexels.com/photos/4379316/pexels-photo-4379316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cf212532a.jpeg",
+      "savedAt": "2026-05-15T19:32:10.474Z",
+      "sourceId": "c416c41e2e088c5fa38ccb16285d5ada"
+    },
+    {
+      "schema_version": 2,
+      "agent": "fitness",
+      "slug": "morandi-e-ranieri-rivali-da-sempre-ma-grandi-amici",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Morandi e Ranieri: \"Rivali da sempre, ma grandi amici\". Dal running al vino rosso ecco come restano in forma  ",
+      "link": "https://www.gazzetta.it/fitness/allenamento/05-02-2022/morandi-ranieri-rivali-sempre-ma-grandi-amici-running-vino-rosso-ecco-come-restano-forma-4301258391750.shtml",
+      "pubDate": "Sat, 5 Feb 2022 15:31:49 +0100",
+      "slides": [
+        "Amicizia e competizione: motore per restare in forma.",
+        "Correre insieme aumenta impegno e costanza.",
+        "Alterna corsa lenta e scatti brevi.",
+        "Non isolarti: allenarsi da soli stanca prima.",
+        "Chiama un amico per correre oggi."
+      ],
+      "instagram_caption": "Correre con un amico trasforma la fatica in energia e la costanza in abitudine. 🏃‍♂️💥 La sana rivalità e l’amicizia ti spingono a dare il meglio senza accorgerti dello sforzo. Alterna corsa lenta e scatti brevi per bruciare di più e rompere la monotonia. Allenarsi da soli stanca prima: la compagnia raddoppia la motivazione. Chiama subito un amico e organizzate una corsa per oggi pomeriggio. ✨👟",
+      "formats": {
+        "instagram": {
+          "caption": "Correre con un amico trasforma la fatica in energia e la costanza in abitudine. 🏃‍♂️💥 La sana rivalità e l’amicizia ti spingono a dare il meglio senza accorgerti dello sforzo. Alterna corsa lenta e scatti brevi per bruciare di più e rompere la monotonia. Allenarsi da soli stanca prima: la compagnia raddoppia la motivazione. Chiama subito un amico e organizzate una corsa per oggi pomeriggio. ✨👟"
+        },
+        "tiktok": {
+          "script": [
+            "Allenarsi con un amico spinge di più.",
+            "Correre insieme rende tutto più facile.",
+            "Alterna corsa lenta e scatti brevi.",
+            "Da solo molli prima, è un dato di fatto.",
+            "Chiama un amico e corri oggi stesso."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Morandi e Ranieri? Rivali da sempre, ma grandi amici. Una sana competizione ti spinge a dare il massimo anche quando la voglia è zero. Il segreto non è allenarsi di più, ma allenarsi insieme. 🏃‍♂️",
+            "Correre con un amico non è solo compagnia: aumenta l'impegno e la costanza. Se sai che qualcuno ti aspetta, salti meno sedute e spingi più forte. È scienza, non solo intuizione.",
+            "Alterna corsa lenta e scatti brevi. Il segreto è battere il cronometro a intervalli: 3 minuti di jogging rilassato, 30 secondi a tutta. Così migliori resistenza e velocità senza annoiarti.",
+            "Errore comune? Isolarsi. Allenarsi da soli stanca prima: il cervello cede quando manca lo stimolo sociale. In coppia o in gruppo il ritmo sale naturale e il tempo vola.",
+            "Oggi chiama un amico e fategli una corsa insieme. Non serve preparazione: bastano scarpe e voglia di condividere. Prova domani e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Allenarsi con un amico spinge di più.",
+        "Correre insieme rende tutto più facile.",
+        "Alterna corsa lenta e scatti brevi.",
+        "Da solo molli prima, è un dato di fatto.",
+        "Chiama un amico e corri oggi stesso."
+      ],
+      "thread_text": [
+        "Morandi e Ranieri? Rivali da sempre, ma grandi amici. Una sana competizione ti spinge a dare il massimo anche quando la voglia è zero. Il segreto non è allenarsi di più, ma allenarsi insieme. 🏃‍♂️",
+        "Correre con un amico non è solo compagnia: aumenta l'impegno e la costanza. Se sai che qualcuno ti aspetta, salti meno sedute e spingi più forte. È scienza, non solo intuizione.",
+        "Alterna corsa lenta e scatti brevi. Il segreto è battere il cronometro a intervalli: 3 minuti di jogging rilassato, 30 secondi a tutta. Così migliori resistenza e velocità senza annoiarti.",
+        "Errore comune? Isolarsi. Allenarsi da soli stanca prima: il cervello cede quando manca lo stimolo sociale. In coppia o in gruppo il ritmo sale naturale e il tempo vola.",
+        "Oggi chiama un amico e fategli una corsa insieme. Non serve preparazione: bastano scarpe e voglia di condividere. Prova domani e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Amici rivali, forma fisica vincente",
+          "description": "Morandi e Ranieri dimostrano che competere e divertirsi insieme è il segreto per non mollare mai.",
+          "visual_hint": "Corrono sorridendo fianco a fianco",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "friends running park"
+        },
+        {
+          "hook": "Correre insieme moltiplica la costanza",
+          "description": "Allenarsi con un amico aumenta impegno e regolarità: non salti la sessione perché qualcuno ti aspetta.",
+          "visual_hint": "Corsa di coppia all'alba",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "jogging duo sunrise",
+          "image": "https://images.pexels.com/photos/12267777/pexels-photo-12267777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Alterna lento e scatti per bruciare di più",
+          "description": "Mescola corsa lenta e sprint brevi per accelerare metabolismo e migliorare resistenza.",
+          "visual_hint": "Runner cambia velocità",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "interval running sprint",
+          "image": "https://images.pexels.com/photos/8533919/pexels-photo-8533919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Allenarsi da soli? Stanchezza mentale prima",
+          "description": "Senza compagnia la motivazione cala più in fretta. Un partner di corsa rende tutto più leggero e divertente.",
+          "visual_hint": "Runner solitario e triste",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "lonely runner track",
+          "image": "https://images.pexels.com/photos/8533210/pexels-photo-8533210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Chiama un amico e corri oggi stesso",
+          "description": "Manda un messaggio, fissate un orario e iniziate insieme. La forma migliore è quella condivisa.",
+          "visual_hint": "Cellulare con messaggio di corsa",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "phone running invite",
+          "image": "https://images.pexels.com/photos/3850268/pexels-photo-3850268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cf01cc5ab.jpeg",
+      "savedAt": "2026-05-15T19:31:53.236Z",
+      "sourceId": "cfe0ded917bb22740369243025d0d8af"
+    },
     {
       "schema_version": 2,
       "agent": "fitness",

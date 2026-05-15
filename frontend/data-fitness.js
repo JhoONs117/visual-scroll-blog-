@@ -2,6 +2,318 @@ window.FITNESS_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "fitness",
+    "slug": "la-realt-virtuale-irrompe-nel-mondo-del-fitness-ec",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "La realtà virtuale irrompe nel mondo del fitness. Ecco come sarà l’allenamento del futuro  ",
+    "link": "https://www.gazzetta.it/fitness/allenamento/03-02-2022/realta-virtuale-irrompe-mondo-fitness-ecco-come-sara-l-allenamento-futuro-4301216120214.shtml",
+    "pubDate": "Thu, 3 Feb 2022 10:51:08 +0100",
+    "slides": [
+      "Il futuro del fitness è ora. Allacciati.",
+      "Realtà virtuale: impegno totale, zero distrazioni.",
+      "Casco VR, trackers: esegui movimenti immersivi.",
+      "Non fermarti ogni secondo per regolare il visore.",
+      "Oggi prova una sessione fitness in VR."
+    ],
+    "instagram_caption": "La distrazione è il nemico numero uno dei tuoi progressi. Con la realtà virtuale, elimini ogni scusa e ottieni impegno totale, come se fossi dentro l'allenamento. 🥽  \n\nCasco VR e trackers ti guidano in movimenti immersivi: non devi più fermarti per regolare il visore, solo eseguire e sudare. Zero interruzioni, massima resa.  \n\nIl futuro del fitness è ora. Allacciati e provalo: cerca una sessione VR nella tua palestra o a casa. 💀🔥  \n\nFai il primo passo: prenota una sessione oggi e senti la differenza. 💪",
+    "formats": {
+      "instagram": {
+        "caption": "La distrazione è il nemico numero uno dei tuoi progressi. Con la realtà virtuale, elimini ogni scusa e ottieni impegno totale, come se fossi dentro l'allenamento. 🥽  \n\nCasco VR e trackers ti guidano in movimenti immersivi: non devi più fermarti per regolare il visore, solo eseguire e sudare. Zero interruzioni, massima resa.  \n\nIl futuro del fitness è ora. Allacciati e provalo: cerca una sessione VR nella tua palestra o a casa. 💀🔥  \n\nFai il primo passo: prenota una sessione oggi e senti la differenza. 💪"
+      },
+      "tiktok": {
+        "script": [
+          "Parti così: il futuro è ora.",
+          "Il segreto? Realtà virtuale, zero distrazioni.",
+          "Casco VR e trackers, movimenti immersivi.",
+          "Evita questo errore: fermarti per regolare.",
+          "Oggi prova una sessione fitness in VR."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Hai mai pensato di allenarti senza distrarti un secondo? La realtà virtuale sta cambiando le regole del gioco. Ecco come sarà il fitness che ti aspetta. Allacciati.",
+          "Casco VR, trackers ai polsi e alle caviglie: ogni movimento viene trasferito nel mondo digitale. Fai squat, affondi e colpi di boxe come se fossi dentro il videogioco.",
+          "Allenamento immersivo al 100%. Non guardi il telefono, non pensi alla spesa. Sei lì, dentro il workout. La concentrazione sale, la percezione della fatica scende.",
+          "Errore da evitare? Fermarti ogni secondo per regolare il visore. Regola la calzata prima di iniziare. Un casco stabile = flow che non si spezza.",
+          "Oggi prova una sessione fitness in VR. 15 minuti e vedi se non ti alleni più intensamente del solito. Fatto? Rispondi qui sotto e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Parti così: il futuro è ora.",
+      "Il segreto? Realtà virtuale, zero distrazioni.",
+      "Casco VR e trackers, movimenti immersivi.",
+      "Evita questo errore: fermarti per regolare.",
+      "Oggi prova una sessione fitness in VR."
+    ],
+    "thread_text": [
+      "Hai mai pensato di allenarti senza distrarti un secondo? La realtà virtuale sta cambiando le regole del gioco. Ecco come sarà il fitness che ti aspetta. Allacciati.",
+      "Casco VR, trackers ai polsi e alle caviglie: ogni movimento viene trasferito nel mondo digitale. Fai squat, affondi e colpi di boxe come se fossi dentro il videogioco.",
+      "Allenamento immersivo al 100%. Non guardi il telefono, non pensi alla spesa. Sei lì, dentro il workout. La concentrazione sale, la percezione della fatica scende.",
+      "Errore da evitare? Fermarti ogni secondo per regolare il visore. Regola la calzata prima di iniziare. Un casco stabile = flow che non si spezza.",
+      "Oggi prova una sessione fitness in VR. 15 minuti e vedi se non ti alleni più intensamente del solito. Fatto? Rispondi qui sotto e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Il futuro del fitness è ora",
+        "description": "Immergiti nella realtà virtuale: impegno totale e zero distrazioni per un allenamento più efficace e coinvolgente.",
+        "visual_hint": "persona con casco VR",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "vr fitness man"
+      },
+      {
+        "hook": "Addio distrazioni, benvenuta concentrazione",
+        "description": "Con la VR non guardi il telefono: esegui movimenti immersivi senza interruzioni, massimizzando i risultati.",
+        "visual_hint": "casco VR e trackers",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "vr headset hands",
+        "image": "https://images.pexels.com/photos/7561988/pexels-photo-7561988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Immersione totale corpo e mente",
+        "description": "Casco VR e tracker trasformano ogni tua azione: pugni, squat e schivate diventano naturali come nella realtà.",
+        "visual_hint": "movimento atletico con VR",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "person punching vr",
+        "image": "https://images.pexels.com/photos/7562355/pexels-photo-7562355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non fermarti per regolare il visore",
+        "description": "Errore comune: interrompere l’azione. Scegli un casco ergonomico e resta nel flusso dell’allenamento.",
+        "visual_hint": "aggiustamento casco VR",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "adjusting vr headset",
+        "image": "https://images.pexels.com/photos/3761161/pexels-photo-3761161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova subito una sessione VR",
+        "description": "Prenota una prova gratuita in studio e scopri l’allenamento del futuro. Il cambiamento inizia con un click.",
+        "visual_hint": "CTA e QR code",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "vr gym class",
+        "image": "https://images.pexels.com/photos/5881137/pexels-photo-5881137.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cb1c87185.jpeg",
+    "savedAt": "2026-05-15T19:32:27.314Z",
+    "sourceId": "39f7280c771cdf91b7c344058ba0fbe2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "fitness",
+    "slug": "giovanni-truppi-tra-pilates-tanta-acqua-e-la-canot",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Giovanni Truppi tra pilates, tanta acqua e la canottiera all'Ariston... Ed ecco chi è Lucia  ",
+    "link": "https://www.gazzetta.it/fitness/allenamento/05-02-2022/giovanni-truppi-sanremo-2022-pilates-canottiera-ariston-4301261312905.shtml",
+    "pubDate": "Sat, 5 Feb 2022 15:30:35 +0100",
+    "slides": [
+      "Idratazione e movimento: la tua energia sale.",
+      "Pilates unisce respiro, forza e flessibilità.",
+      "Contrai il core mentre allunghi la colonna.",
+      "Non trattenere il respiro durante gli esercizi.",
+      "Bevi 2 litri d'acqua oggi e muoviti."
+    ],
+    "instagram_caption": "Idratazione e movimento: la tua energia vola già dai primi bicchieri. 💧  \nNel pilates unisci respiro, forza e flessibilità: contrai il core mentre allunghi la colonna — e mai trattenere l'aria durante gli esercizi.  \nCosì costruisci corpo e concentrazione, proprio come Giovanni Truppi tra una canottiera e l’Ariston.  \nBevi 2 litri d’acqua oggi e muoviti. Prova un circuito di pilates domattina 💪",
+    "formats": {
+      "instagram": {
+        "caption": "Idratazione e movimento: la tua energia vola già dai primi bicchieri. 💧  \nNel pilates unisci respiro, forza e flessibilità: contrai il core mentre allunghi la colonna — e mai trattenere l'aria durante gli esercizi.  \nCosì costruisci corpo e concentrazione, proprio come Giovanni Truppi tra una canottiera e l’Ariston.  \nBevi 2 litri d’acqua oggi e muoviti. Prova un circuito di pilates domattina 💪"
+      },
+      "tiktok": {
+        "script": [
+          "Parti così: idratazione e movimento.",
+          "Il segreto è pilates: respiro e forza.",
+          "Contrai il core mentre allunghi la colonna.",
+          "Evita questo errore: non trattenere il respiro.",
+          "Bevi 2 litri d’acqua oggi e muoviti!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Acqua + movimento = energia alle stelle. Giovanni Truppi lo sa: una canottiera all’Ariston nasconde allenamenti fatti di costanza e piccoli gesti. Sei pronto a cambiare il tuo approccio?",
+          "Pilates unisce respiro, forza e flessibilità. Ogni movimento parte dal core e si espande fino alle estremità. Il risultato? Muscoli tonici e colonna vertebrale più lunga. Ecco chi è Lucia, la costanza in azione.",
+          "Contrai il core mentre allunghi la colonna: è la base di ogni esercizio efficace. Immagina di tenere una moneta tra le scapole e di spingere il bacino in avanti. Stabilità e controllo, senza fretta.",
+          "L’errore più comune? Trattenere il respiro. Quando sforzi, espira: porti ossigeno ai muscoli e proteggi la schiena. Fai 10 respiri profondi tra un esercizio e l’altro e sentirai la differenza.",
+          "Oggi bevi 2 litri d’acqua e muoviti 20 minuti. Inizia con 5 minuti di pilates, poi aumenta. Prova domani e dimmi com’è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Parti così: idratazione e movimento.",
+      "Il segreto è pilates: respiro e forza.",
+      "Contrai il core mentre allunghi la colonna.",
+      "Evita questo errore: non trattenere il respiro.",
+      "Bevi 2 litri d’acqua oggi e muoviti!"
+    ],
+    "thread_text": [
+      "Acqua + movimento = energia alle stelle. Giovanni Truppi lo sa: una canottiera all’Ariston nasconde allenamenti fatti di costanza e piccoli gesti. Sei pronto a cambiare il tuo approccio?",
+      "Pilates unisce respiro, forza e flessibilità. Ogni movimento parte dal core e si espande fino alle estremità. Il risultato? Muscoli tonici e colonna vertebrale più lunga. Ecco chi è Lucia, la costanza in azione.",
+      "Contrai il core mentre allunghi la colonna: è la base di ogni esercizio efficace. Immagina di tenere una moneta tra le scapole e di spingere il bacino in avanti. Stabilità e controllo, senza fretta.",
+      "L’errore più comune? Trattenere il respiro. Quando sforzi, espira: porti ossigeno ai muscoli e proteggi la schiena. Fai 10 respiri profondi tra un esercizio e l’altro e sentirai la differenza.",
+      "Oggi bevi 2 litri d’acqua e muoviti 20 minuti. Inizia con 5 minuti di pilates, poi aumenta. Prova domani e dimmi com’è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "La tua energia sale subito",
+        "description": "Idratazione e movimento ti danno la carica giusta per allenarti meglio e sentirti più vivo.",
+        "visual_hint": "Donna sorridente beve acqua in palestra",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "woman drinking water gym"
+      },
+      {
+        "hook": "Pilates, respiro e forza",
+        "description": "Unisce respiro, forza e flessibilità per un corpo tonico e una mente calma. Provalo oggi.",
+        "visual_hint": "Donna in posa pilates su tappetino",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "pilates mat woman stretch",
+        "image": "https://images.pexels.com/photos/33360086/pexels-photo-33360086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Contrai il core, allunga",
+        "description": "Contrai il core mentre allunghi la colonna: stabilità e mobilità in un solo gesto.",
+        "visual_hint": "Primo piano addome e schiena in allungamento",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "core contraction spine stretch",
+        "image": "https://images.pexels.com/photos/6800694/pexels-photo-6800694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non bloccare il respiro",
+        "description": "Errore comune: trattenere il respiro. Espira durante lo sforzo per attivare meglio i muscoli.",
+        "visual_hint": "Istruttore mostra respirazione a mani sull'addome",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "breathing exercise coach",
+        "image": "https://images.pexels.com/photos/4587403/pexels-photo-4587403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Bevi e muoviti ora",
+        "description": "Oggi bevi 2 litri d'acqua e fai 10 minuti di movimento. Il tuo corpo ti ringrazierà.",
+        "visual_hint": "Bottiglia d'acqua e tappetino pronti all'uso",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "water bottle fitness mat",
+        "image": "https://images.pexels.com/photos/4379316/pexels-photo-4379316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cf212532a.jpeg",
+    "savedAt": "2026-05-15T19:32:10.474Z",
+    "sourceId": "c416c41e2e088c5fa38ccb16285d5ada"
+  },
+  {
+    "schema_version": 2,
+    "agent": "fitness",
+    "slug": "morandi-e-ranieri-rivali-da-sempre-ma-grandi-amici",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Morandi e Ranieri: \"Rivali da sempre, ma grandi amici\". Dal running al vino rosso ecco come restano in forma  ",
+    "link": "https://www.gazzetta.it/fitness/allenamento/05-02-2022/morandi-ranieri-rivali-sempre-ma-grandi-amici-running-vino-rosso-ecco-come-restano-forma-4301258391750.shtml",
+    "pubDate": "Sat, 5 Feb 2022 15:31:49 +0100",
+    "slides": [
+      "Amicizia e competizione: motore per restare in forma.",
+      "Correre insieme aumenta impegno e costanza.",
+      "Alterna corsa lenta e scatti brevi.",
+      "Non isolarti: allenarsi da soli stanca prima.",
+      "Chiama un amico per correre oggi."
+    ],
+    "instagram_caption": "Correre con un amico trasforma la fatica in energia e la costanza in abitudine. 🏃‍♂️💥 La sana rivalità e l’amicizia ti spingono a dare il meglio senza accorgerti dello sforzo. Alterna corsa lenta e scatti brevi per bruciare di più e rompere la monotonia. Allenarsi da soli stanca prima: la compagnia raddoppia la motivazione. Chiama subito un amico e organizzate una corsa per oggi pomeriggio. ✨👟",
+    "formats": {
+      "instagram": {
+        "caption": "Correre con un amico trasforma la fatica in energia e la costanza in abitudine. 🏃‍♂️💥 La sana rivalità e l’amicizia ti spingono a dare il meglio senza accorgerti dello sforzo. Alterna corsa lenta e scatti brevi per bruciare di più e rompere la monotonia. Allenarsi da soli stanca prima: la compagnia raddoppia la motivazione. Chiama subito un amico e organizzate una corsa per oggi pomeriggio. ✨👟"
+      },
+      "tiktok": {
+        "script": [
+          "Allenarsi con un amico spinge di più.",
+          "Correre insieme rende tutto più facile.",
+          "Alterna corsa lenta e scatti brevi.",
+          "Da solo molli prima, è un dato di fatto.",
+          "Chiama un amico e corri oggi stesso."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Morandi e Ranieri? Rivali da sempre, ma grandi amici. Una sana competizione ti spinge a dare il massimo anche quando la voglia è zero. Il segreto non è allenarsi di più, ma allenarsi insieme. 🏃‍♂️",
+          "Correre con un amico non è solo compagnia: aumenta l'impegno e la costanza. Se sai che qualcuno ti aspetta, salti meno sedute e spingi più forte. È scienza, non solo intuizione.",
+          "Alterna corsa lenta e scatti brevi. Il segreto è battere il cronometro a intervalli: 3 minuti di jogging rilassato, 30 secondi a tutta. Così migliori resistenza e velocità senza annoiarti.",
+          "Errore comune? Isolarsi. Allenarsi da soli stanca prima: il cervello cede quando manca lo stimolo sociale. In coppia o in gruppo il ritmo sale naturale e il tempo vola.",
+          "Oggi chiama un amico e fategli una corsa insieme. Non serve preparazione: bastano scarpe e voglia di condividere. Prova domani e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Allenarsi con un amico spinge di più.",
+      "Correre insieme rende tutto più facile.",
+      "Alterna corsa lenta e scatti brevi.",
+      "Da solo molli prima, è un dato di fatto.",
+      "Chiama un amico e corri oggi stesso."
+    ],
+    "thread_text": [
+      "Morandi e Ranieri? Rivali da sempre, ma grandi amici. Una sana competizione ti spinge a dare il massimo anche quando la voglia è zero. Il segreto non è allenarsi di più, ma allenarsi insieme. 🏃‍♂️",
+      "Correre con un amico non è solo compagnia: aumenta l'impegno e la costanza. Se sai che qualcuno ti aspetta, salti meno sedute e spingi più forte. È scienza, non solo intuizione.",
+      "Alterna corsa lenta e scatti brevi. Il segreto è battere il cronometro a intervalli: 3 minuti di jogging rilassato, 30 secondi a tutta. Così migliori resistenza e velocità senza annoiarti.",
+      "Errore comune? Isolarsi. Allenarsi da soli stanca prima: il cervello cede quando manca lo stimolo sociale. In coppia o in gruppo il ritmo sale naturale e il tempo vola.",
+      "Oggi chiama un amico e fategli una corsa insieme. Non serve preparazione: bastano scarpe e voglia di condividere. Prova domani e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Amici rivali, forma fisica vincente",
+        "description": "Morandi e Ranieri dimostrano che competere e divertirsi insieme è il segreto per non mollare mai.",
+        "visual_hint": "Corrono sorridendo fianco a fianco",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "friends running park"
+      },
+      {
+        "hook": "Correre insieme moltiplica la costanza",
+        "description": "Allenarsi con un amico aumenta impegno e regolarità: non salti la sessione perché qualcuno ti aspetta.",
+        "visual_hint": "Corsa di coppia all'alba",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "jogging duo sunrise",
+        "image": "https://images.pexels.com/photos/12267777/pexels-photo-12267777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Alterna lento e scatti per bruciare di più",
+        "description": "Mescola corsa lenta e sprint brevi per accelerare metabolismo e migliorare resistenza.",
+        "visual_hint": "Runner cambia velocità",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "interval running sprint",
+        "image": "https://images.pexels.com/photos/8533919/pexels-photo-8533919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Allenarsi da soli? Stanchezza mentale prima",
+        "description": "Senza compagnia la motivazione cala più in fretta. Un partner di corsa rende tutto più leggero e divertente.",
+        "visual_hint": "Runner solitario e triste",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "lonely runner track",
+        "image": "https://images.pexels.com/photos/8533210/pexels-photo-8533210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Chiama un amico e corri oggi stesso",
+        "description": "Manda un messaggio, fissate un orario e iniziate insieme. La forma migliore è quella condivisa.",
+        "visual_hint": "Cellulare con messaggio di corsa",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "phone running invite",
+        "image": "https://images.pexels.com/photos/3850268/pexels-photo-3850268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cf01cc5ab.jpeg",
+    "savedAt": "2026-05-15T19:31:53.236Z",
+    "sourceId": "cfe0ded917bb22740369243025d0d8af"
+  },
+  {
+    "schema_version": 2,
+    "agent": "fitness",
     "slug": "sabrina-ferilli-l-ultima-star-di-sanremo-la-palest",
     "prompt_version": "1.0.0",
     "status": "published",

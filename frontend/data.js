@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "indian-uber-rival-rapido-raises-240m-at-3b-valuati",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Indian Uber rival Rapido raises $240M at $3B valuation",
+    "link": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
+    "pubDate": "Fri, 15 May 2026 11:24:12 +0000",
+    "slides": [
+      "Rapido raised $240M at $3B—but can it outrun Uber?",
+      "India's bike taxi market just hit a new peak.",
+      "Yet Rapido still loses money on most rides.",
+      "You'll see lower fares, but drivers earn less.",
+      "Try it once: compare cost vs. wait time."
+    ],
+    "thread_text": [
+      "Rapido ha raccolto 240 milioni di dollari a una valutazione di 3 miliardi. Il problema? Perde ancora soldi su quasi ogni corsa.",
+      "Il mercato dei taxi in bici in India ha appena toccato un nuovo record. Rapido è il leader, ma la domanda è una: quanto può crescere prima che Uber decida di intervenire?",
+      "Per ora, gli utenti vedono tariffe basse. Ma chi guida guadagna sempre meno. Il modello regge solo se il volume cresce più veloce delle perdite.",
+      "La sfida è chiara: correre più veloce di Uber senza bruciare tutti i soldi raccolti. La tensione tra crescita e sostenibilità è il vero nodo.",
+      "La prossima mossa? Decidi tu: costa meno e arriva prima di un Uber. Provalo una volta e confronta costi e tempi di attesa."
+    ],
+    "video_script": [
+      "Hanno raccolto 240 milioni di dollari.",
+      "Ma perdono soldi su ogni corsa.",
+      "Il mercato dei bici-taxi esplode.",
+      "Gli autisti guadagnano sempre meno.",
+      "Provalo: costa meno e arriva prima."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Rapido ha raccolto 240 milioni di dollari a una valutazione di 3 miliardi. Il problema? Perde ancora soldi su quasi ogni corsa.",
+          "Il mercato dei taxi in bici in India ha appena toccato un nuovo record. Rapido è il leader, ma la domanda è una: quanto può crescere prima che Uber decida di intervenire?",
+          "Per ora, gli utenti vedono tariffe basse. Ma chi guida guadagna sempre meno. Il modello regge solo se il volume cresce più veloce delle perdite.",
+          "La sfida è chiara: correre più veloce di Uber senza bruciare tutti i soldi raccolti. La tensione tra crescita e sostenibilità è il vero nodo.",
+          "La prossima mossa? Decidi tu: costa meno e arriva prima di un Uber. Provalo una volta e confronta costi e tempi di attesa."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hanno raccolto 240 milioni di dollari.",
+          "Ma perdono soldi su ogni corsa.",
+          "Il mercato dei bici-taxi esplode.",
+          "Gli autisti guadagnano sempre meno.",
+          "Provalo: costa meno e arriva prima."
+        ]
+      },
+      "instagram": {
+        "caption": "Rapido ha appena raccolto 240 milioni di dollari e vale 3 miliardi 🚲, ma perde ancora soldi su quasi ogni corsa. La startup indiana guida il mercato dei bike-taxi, che ha toccato il record. Il successo, però, dipende dal volume: tariffe basse per te significano meno guadagni per chi guida 💸. Per adesso, ti conviene provarla: confronta costi e tempi di attesa con un Uber ⏱️. Quanto può crescere prima che la contesa si accenda?"
+      }
+    },
+    "instagram_caption": "Rapido ha appena raccolto 240 milioni di dollari e vale 3 miliardi 🚲, ma perde ancora soldi su quasi ogni corsa. La startup indiana guida il mercato dei bike-taxi, che ha toccato il record. Il successo, però, dipende dal volume: tariffe basse per te significano meno guadagni per chi guida 💸. Per adesso, ti conviene provarla: confronta costi e tempi di attesa con un Uber ⏱️. Quanto può crescere prima che la contesa si accenda?",
+    "carousel_slides": [
+      {
+        "hook": "Perde soldi su ogni corsa",
+        "description": "Rapido ha raccolto $240 milioni, ma brucia denaro su quasi ogni corsa.",
+        "visual_hint": "Burning cash or graph down",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "money burning pile"
+      },
+      {
+        "hook": "Bike taxi boom in India",
+        "description": "Il mercato dei taxi in bici in India tocca un nuovo record. Rapido è leader, ma fino a quando?",
+        "visual_hint": "Scooters or bike taxis street",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "motorcycle taxi india",
+        "image": "https://images.pexels.com/photos/16471690/pexels-photo-16471690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Tariffe basse, guadagni bassi",
+        "description": "Utenti vedono corse economiche. Ma i driver guadagnano sempre meno. Il modello regge solo se il volume cresce.",
+        "visual_hint": "Driver looking at phone",
+        "layout_type": "sensor-zoom",
+        "icon": "waves",
+        "image_query": "rider phone earnings",
+        "image": "https://images.pexels.com/photos/25396173/pexels-photo-25396173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Crescita o sostenibilità?",
+        "description": "Correre più veloce di Uber senza bruciare tutti i soldi: la tensione è il vero nodo.",
+        "visual_hint": "Uber and Rapido logos",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "rival taxi apps street",
+        "image": "https://images.pexels.com/photos/15509461/pexels-photo-15509461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova Rapido e confronta",
+        "description": "Costa meno e arriva prima? Prova una volta e confronta costi e attesa.",
+        "visual_hint": "User tapping phone",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "city traffic jam",
+        "image": "https://images.pexels.com/photos/11456301/pexels-photo-11456301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/rapido.jpg?w=1200",
+    "savedAt": "2026-05-15T19:20:03.416Z",
+    "sourceId": "397bfe6497a0257060974341c210a909"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "silicon-valley-s-vacationland-needs-a-new-energy-p",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+    "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+    "pubDate": "Fri, 15 May 2026 18:14:44 +0000",
+    "slides": [
+      "Who will power the next AI boom in Sonoma County?",
+      "Local grid can't handle new data center demands.",
+      "Solar and wind are not scaling fast enough for this.",
+      "Your next energy bill might spike before summer ends.",
+      "Check your provider's capacity today for surprises."
+    ],
+    "thread_text": [
+      "La tua bolletta della luce potrebbe salire prima della fine dell'estate. Il motivo non è l'inflazione. Sono i data center dell'IA che la rete locale non regge più.",
+      "Sonoma County è il nuovo epicentro richiesto per l'AI. Peccato che la rete elettrica locale sia ferma agli anni '90: non può gestire la potenza che serve ora.",
+      "Soluzione ovvia? Solare ed eolico. Ma non stanno scalando abbastanza in fretta per coprire il nuovo carico. Il gap si allarga ogni trimestre.",
+      "Chi pensava che l'energia pulita sarebbe arrivata in tempo per l'AI si sbaglia. Le utility locali stanno già rivedendo le tariffe per l'estate.",
+      "Controlla oggi la capacità del tuo fornitore. Se non lo fai, la prima sorpresa potrebbe arrivare con la bolletta di settembre."
+    ],
+    "video_script": [
+      "La tua bolletta potrebbe salire prima dell'estate.",
+      "Colpa dei data center per l'intelligenza artificiale qui in zona.",
+      "La rete elettrica locale non ce la fa più a reggere.",
+      "Solare ed eolico crescono, ma non abbastanza in fretta.",
+      "Controlla il tuo fornitore adesso, non dopo."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "La tua bolletta della luce potrebbe salire prima della fine dell'estate. Il motivo non è l'inflazione. Sono i data center dell'IA che la rete locale non regge più.",
+          "Sonoma County è il nuovo epicentro richiesto per l'AI. Peccato che la rete elettrica locale sia ferma agli anni '90: non può gestire la potenza che serve ora.",
+          "Soluzione ovvia? Solare ed eolico. Ma non stanno scalando abbastanza in fretta per coprire il nuovo carico. Il gap si allarga ogni trimestre.",
+          "Chi pensava che l'energia pulita sarebbe arrivata in tempo per l'AI si sbaglia. Le utility locali stanno già rivedendo le tariffe per l'estate.",
+          "Controlla oggi la capacità del tuo fornitore. Se non lo fai, la prima sorpresa potrebbe arrivare con la bolletta di settembre."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "La tua bolletta potrebbe salire prima dell'estate.",
+          "Colpa dei data center per l'intelligenza artificiale qui in zona.",
+          "La rete elettrica locale non ce la fa più a reggere.",
+          "Solare ed eolico crescono, ma non abbastanza in fretta.",
+          "Controlla il tuo fornitore adesso, non dopo."
+        ]
+      },
+      "instagram": {
+        "caption": "A Sonoma County la rete elettrica è ferma agli anni '90, ma i data center per l'AI stanno chiedendo potenza da decenni tecnologici. Il problema: il carico è già troppo alto e le utility locali non sanno ancora come coprirlo con solare o eolio, perché non scalano in tempo ⚡. Se il tuo fornitore è lo stesso della zona, la tua bolletta potrebbe salire prima di settembre. Hai già verificato se la tua rete locale reggerà l'estate? 💸🔋"
+      }
+    },
+    "instagram_caption": "A Sonoma County la rete elettrica è ferma agli anni '90, ma i data center per l'AI stanno chiedendo potenza da decenni tecnologici. Il problema: il carico è già troppo alto e le utility locali non sanno ancora come coprirlo con solare o eolio, perché non scalano in tempo ⚡. Se il tuo fornitore è lo stesso della zona, la tua bolletta potrebbe salire prima di settembre. Hai già verificato se la tua rete locale reggerà l'estate? 💸🔋",
+    "carousel_slides": [
+      {
+        "hook": "AI boom needs power here",
+        "description": "Sonoma County è il nuovo epicentro AI. La rete locale è ferma agli anni '90: non regge la potenza necessaria.",
+        "visual_hint": "Data center server room interior",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "server room racks"
+      },
+      {
+        "hook": "Grid can't handle demand",
+        "description": "La rete locale non può gestire la potenza dei nuovi data center AI. Il rischio è una bolletta più cara per tutti.",
+        "visual_hint": "Power lines against sky",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "power lines grid",
+        "image": "https://images.pexels.com/photos/33041841/pexels-photo-33041841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Solar and wind too slow",
+        "description": "Solare ed eolico non scalano abbastanza in fretta per coprire il carico AI. Il gap si allarga ogni trimestre.",
+        "visual_hint": "Wind turbines on hill",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "wind turbine solar",
+        "image": "https://images.pexels.com/photos/10333115/pexels-photo-10333115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Energy bill spike coming",
+        "description": "Le utility locali stanno già rivedendo tariffe per l'estate. La tua bolletta potrebbe salire prima di settembre.",
+        "visual_hint": "Hand holding glowing bulb",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "hand holding lightbulb",
+        "image": "https://images.pexels.com/photos/2213050/pexels-photo-2213050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check provider capacity now",
+        "description": "Controlla oggi la capacità del tuo fornitore evita sorprese con la bolletta di settembre.",
+        "visual_hint": "Smartphone showing bill alert",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "smartphone electricity bill",
+        "image": "https://images.pexels.com/photos/4386288/pexels-photo-4386288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1370931116.jpeg?resize=1200,801",
+    "savedAt": "2026-05-15T19:19:49.399Z",
+    "sourceId": "fbdbbdaad4a0bd0e71a4c1b613b19c2d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "runway-started-by-helping-filmmakers-now-it-wants-",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "la-realt-virtuale-irrompe-nel-mondo-del-fitness-ec",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "La realtà virtuale irrompe nel mondo del fitness. Ecco come sarà l’allenamento del futuro  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/03-02-2022/realta-virtuale-irrompe-mondo-fitness-ecco-come-sara-l-allenamento-futuro-4301216120214.shtml",
+  "pubDate": "Thu, 3 Feb 2022 10:51:08 +0100",
+  "slides": [
+    "Il futuro del fitness è ora. Allacciati.",
+    "Realtà virtuale: impegno totale, zero distrazioni.",
+    "Casco VR, trackers: esegui movimenti immersivi.",
+    "Non fermarti ogni secondo per regolare il visore.",
+    "Oggi prova una sessione fitness in VR."
+  ],
+  "instagram_caption": "La distrazione è il nemico numero uno dei tuoi progressi. Con la realtà virtuale, elimini ogni scusa e ottieni impegno totale, come se fossi dentro l'allenamento. 🥽  \n\nCasco VR e trackers ti guidano in movimenti immersivi: non devi più fermarti per regolare il visore, solo eseguire e sudare. Zero interruzioni, massima resa.  \n\nIl futuro del fitness è ora. Allacciati e provalo: cerca una sessione VR nella tua palestra o a casa. 💀🔥  \n\nFai il primo passo: prenota una sessione oggi e senti la differenza. 💪",
+  "formats": {
+    "instagram": {
+      "caption": "La distrazione è il nemico numero uno dei tuoi progressi. Con la realtà virtuale, elimini ogni scusa e ottieni impegno totale, come se fossi dentro l'allenamento. 🥽  \n\nCasco VR e trackers ti guidano in movimenti immersivi: non devi più fermarti per regolare il visore, solo eseguire e sudare. Zero interruzioni, massima resa.  \n\nIl futuro del fitness è ora. Allacciati e provalo: cerca una sessione VR nella tua palestra o a casa. 💀🔥  \n\nFai il primo passo: prenota una sessione oggi e senti la differenza. 💪"
+    },
+    "tiktok": {
+      "script": [
+        "Parti così: il futuro è ora.",
+        "Il segreto? Realtà virtuale, zero distrazioni.",
+        "Casco VR e trackers, movimenti immersivi.",
+        "Evita questo errore: fermarti per regolare.",
+        "Oggi prova una sessione fitness in VR."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Hai mai pensato di allenarti senza distrarti un secondo? La realtà virtuale sta cambiando le regole del gioco. Ecco come sarà il fitness che ti aspetta. Allacciati.",
+        "Casco VR, trackers ai polsi e alle caviglie: ogni movimento viene trasferito nel mondo digitale. Fai squat, affondi e colpi di boxe come se fossi dentro il videogioco.",
+        "Allenamento immersivo al 100%. Non guardi il telefono, non pensi alla spesa. Sei lì, dentro il workout. La concentrazione sale, la percezione della fatica scende.",
+        "Errore da evitare? Fermarti ogni secondo per regolare il visore. Regola la calzata prima di iniziare. Un casco stabile = flow che non si spezza.",
+        "Oggi prova una sessione fitness in VR. 15 minuti e vedi se non ti alleni più intensamente del solito. Fatto? Rispondi qui sotto e dimmi com'è andata 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Parti così: il futuro è ora.",
+    "Il segreto? Realtà virtuale, zero distrazioni.",
+    "Casco VR e trackers, movimenti immersivi.",
+    "Evita questo errore: fermarti per regolare.",
+    "Oggi prova una sessione fitness in VR."
+  ],
+  "thread_text": [
+    "Hai mai pensato di allenarti senza distrarti un secondo? La realtà virtuale sta cambiando le regole del gioco. Ecco come sarà il fitness che ti aspetta. Allacciati.",
+    "Casco VR, trackers ai polsi e alle caviglie: ogni movimento viene trasferito nel mondo digitale. Fai squat, affondi e colpi di boxe come se fossi dentro il videogioco.",
+    "Allenamento immersivo al 100%. Non guardi il telefono, non pensi alla spesa. Sei lì, dentro il workout. La concentrazione sale, la percezione della fatica scende.",
+    "Errore da evitare? Fermarti ogni secondo per regolare il visore. Regola la calzata prima di iniziare. Un casco stabile = flow che non si spezza.",
+    "Oggi prova una sessione fitness in VR. 15 minuti e vedi se non ti alleni più intensamente del solito. Fatto? Rispondi qui sotto e dimmi com'è andata 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Il futuro del fitness è ora",
+      "description": "Immergiti nella realtà virtuale: impegno totale e zero distrazioni per un allenamento più efficace e coinvolgente.",
+      "visual_hint": "persona con casco VR",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "vr fitness man"
+    },
+    {
+      "hook": "Addio distrazioni, benvenuta concentrazione",
+      "description": "Con la VR non guardi il telefono: esegui movimenti immersivi senza interruzioni, massimizzando i risultati.",
+      "visual_hint": "casco VR e trackers",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "vr headset hands",
+      "image": "https://images.pexels.com/photos/7561988/pexels-photo-7561988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Immersione totale corpo e mente",
+      "description": "Casco VR e tracker trasformano ogni tua azione: pugni, squat e schivate diventano naturali come nella realtà.",
+      "visual_hint": "movimento atletico con VR",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "person punching vr",
+      "image": "https://images.pexels.com/photos/7562355/pexels-photo-7562355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non fermarti per regolare il visore",
+      "description": "Errore comune: interrompere l’azione. Scegli un casco ergonomico e resta nel flusso dell’allenamento.",
+      "visual_hint": "aggiustamento casco VR",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "adjusting vr headset",
+      "image": "https://images.pexels.com/photos/3761161/pexels-photo-3761161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova subito una sessione VR",
+      "description": "Prenota una prova gratuita in studio e scopri l’allenamento del futuro. Il cambiamento inizia con un click.",
+      "visual_hint": "CTA e QR code",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "vr gym class",
+      "image": "https://images.pexels.com/photos/5881137/pexels-photo-5881137.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cb1c87185.jpeg",
+  "savedAt": "2026-05-15T19:32:27.314Z",
+  "sourceId": "39f7280c771cdf91b7c344058ba0fbe2"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "indian-uber-rival-rapido-raises-240m-at-3b-valuati",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Indian Uber rival Rapido raises $240M at $3B valuation",
+  "link": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
+  "pubDate": "Fri, 15 May 2026 11:24:12 +0000",
+  "slides": [
+    "Rapido raised $240M at $3B—but can it outrun Uber?",
+    "India's bike taxi market just hit a new peak.",
+    "Yet Rapido still loses money on most rides.",
+    "You'll see lower fares, but drivers earn less.",
+    "Try it once: compare cost vs. wait time."
+  ],
+  "thread_text": [
+    "Rapido ha raccolto 240 milioni di dollari a una valutazione di 3 miliardi. Il problema? Perde ancora soldi su quasi ogni corsa.",
+    "Il mercato dei taxi in bici in India ha appena toccato un nuovo record. Rapido è il leader, ma la domanda è una: quanto può crescere prima che Uber decida di intervenire?",
+    "Per ora, gli utenti vedono tariffe basse. Ma chi guida guadagna sempre meno. Il modello regge solo se il volume cresce più veloce delle perdite.",
+    "La sfida è chiara: correre più veloce di Uber senza bruciare tutti i soldi raccolti. La tensione tra crescita e sostenibilità è il vero nodo.",
+    "La prossima mossa? Decidi tu: costa meno e arriva prima di un Uber. Provalo una volta e confronta costi e tempi di attesa."
+  ],
+  "video_script": [
+    "Hanno raccolto 240 milioni di dollari.",
+    "Ma perdono soldi su ogni corsa.",
+    "Il mercato dei bici-taxi esplode.",
+    "Gli autisti guadagnano sempre meno.",
+    "Provalo: costa meno e arriva prima."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Rapido ha raccolto 240 milioni di dollari a una valutazione di 3 miliardi. Il problema? Perde ancora soldi su quasi ogni corsa.",
+        "Il mercato dei taxi in bici in India ha appena toccato un nuovo record. Rapido è il leader, ma la domanda è una: quanto può crescere prima che Uber decida di intervenire?",
+        "Per ora, gli utenti vedono tariffe basse. Ma chi guida guadagna sempre meno. Il modello regge solo se il volume cresce più veloce delle perdite.",
+        "La sfida è chiara: correre più veloce di Uber senza bruciare tutti i soldi raccolti. La tensione tra crescita e sostenibilità è il vero nodo.",
+        "La prossima mossa? Decidi tu: costa meno e arriva prima di un Uber. Provalo una volta e confronta costi e tempi di attesa."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hanno raccolto 240 milioni di dollari.",
+        "Ma perdono soldi su ogni corsa.",
+        "Il mercato dei bici-taxi esplode.",
+        "Gli autisti guadagnano sempre meno.",
+        "Provalo: costa meno e arriva prima."
+      ]
+    },
+    "instagram": {
+      "caption": "Rapido ha appena raccolto 240 milioni di dollari e vale 3 miliardi 🚲, ma perde ancora soldi su quasi ogni corsa. La startup indiana guida il mercato dei bike-taxi, che ha toccato il record. Il successo, però, dipende dal volume: tariffe basse per te significano meno guadagni per chi guida 💸. Per adesso, ti conviene provarla: confronta costi e tempi di attesa con un Uber ⏱️. Quanto può crescere prima che la contesa si accenda?"
+    }
+  },
+  "instagram_caption": "Rapido ha appena raccolto 240 milioni di dollari e vale 3 miliardi 🚲, ma perde ancora soldi su quasi ogni corsa. La startup indiana guida il mercato dei bike-taxi, che ha toccato il record. Il successo, però, dipende dal volume: tariffe basse per te significano meno guadagni per chi guida 💸. Per adesso, ti conviene provarla: confronta costi e tempi di attesa con un Uber ⏱️. Quanto può crescere prima che la contesa si accenda?",
+  "carousel_slides": [
+    {
+      "hook": "Perde soldi su ogni corsa",
+      "description": "Rapido ha raccolto $240 milioni, ma brucia denaro su quasi ogni corsa.",
+      "visual_hint": "Burning cash or graph down",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "money burning pile"
+    },
+    {
+      "hook": "Bike taxi boom in India",
+      "description": "Il mercato dei taxi in bici in India tocca un nuovo record. Rapido è leader, ma fino a quando?",
+      "visual_hint": "Scooters or bike taxis street",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "motorcycle taxi india",
+      "image": "https://images.pexels.com/photos/16471690/pexels-photo-16471690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tariffe basse, guadagni bassi",
+      "description": "Utenti vedono corse economiche. Ma i driver guadagnano sempre meno. Il modello regge solo se il volume cresce.",
+      "visual_hint": "Driver looking at phone",
+      "layout_type": "sensor-zoom",
+      "icon": "waves",
+      "image_query": "rider phone earnings",
+      "image": "https://images.pexels.com/photos/25396173/pexels-photo-25396173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Crescita o sostenibilità?",
+      "description": "Correre più veloce di Uber senza bruciare tutti i soldi: la tensione è il vero nodo.",
+      "visual_hint": "Uber and Rapido logos",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "rival taxi apps street",
+      "image": "https://images.pexels.com/photos/15509461/pexels-photo-15509461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova Rapido e confronta",
+      "description": "Costa meno e arriva prima? Prova una volta e confronta costi e attesa.",
+      "visual_hint": "User tapping phone",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "city traffic jam",
+      "image": "https://images.pexels.com/photos/11456301/pexels-photo-11456301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/10/rapido.jpg?w=1200",
+  "savedAt": "2026-05-15T19:20:03.416Z",
+  "sourceId": "397bfe6497a0257060974341c210a909"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "giovanni-truppi-tra-pilates-tanta-acqua-e-la-canot",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Giovanni Truppi tra pilates, tanta acqua e la canottiera all'Ariston... Ed ecco chi è Lucia  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/05-02-2022/giovanni-truppi-sanremo-2022-pilates-canottiera-ariston-4301261312905.shtml",
+  "pubDate": "Sat, 5 Feb 2022 15:30:35 +0100",
+  "slides": [
+    "Idratazione e movimento: la tua energia sale.",
+    "Pilates unisce respiro, forza e flessibilità.",
+    "Contrai il core mentre allunghi la colonna.",
+    "Non trattenere il respiro durante gli esercizi.",
+    "Bevi 2 litri d'acqua oggi e muoviti."
+  ],
+  "instagram_caption": "Idratazione e movimento: la tua energia vola già dai primi bicchieri. 💧  \nNel pilates unisci respiro, forza e flessibilità: contrai il core mentre allunghi la colonna — e mai trattenere l'aria durante gli esercizi.  \nCosì costruisci corpo e concentrazione, proprio come Giovanni Truppi tra una canottiera e l’Ariston.  \nBevi 2 litri d’acqua oggi e muoviti. Prova un circuito di pilates domattina 💪",
+  "formats": {
+    "instagram": {
+      "caption": "Idratazione e movimento: la tua energia vola già dai primi bicchieri. 💧  \nNel pilates unisci respiro, forza e flessibilità: contrai il core mentre allunghi la colonna — e mai trattenere l'aria durante gli esercizi.  \nCosì costruisci corpo e concentrazione, proprio come Giovanni Truppi tra una canottiera e l’Ariston.  \nBevi 2 litri d’acqua oggi e muoviti. Prova un circuito di pilates domattina 💪"
+    },
+    "tiktok": {
+      "script": [
+        "Parti così: idratazione e movimento.",
+        "Il segreto è pilates: respiro e forza.",
+        "Contrai il core mentre allunghi la colonna.",
+        "Evita questo errore: non trattenere il respiro.",
+        "Bevi 2 litri d’acqua oggi e muoviti!"
+      ]
+    },
+    "x": {
+      "thread": [
+        "Acqua + movimento = energia alle stelle. Giovanni Truppi lo sa: una canottiera all’Ariston nasconde allenamenti fatti di costanza e piccoli gesti. Sei pronto a cambiare il tuo approccio?",
+        "Pilates unisce respiro, forza e flessibilità. Ogni movimento parte dal core e si espande fino alle estremità. Il risultato? Muscoli tonici e colonna vertebrale più lunga. Ecco chi è Lucia, la costanza in azione.",
+        "Contrai il core mentre allunghi la colonna: è la base di ogni esercizio efficace. Immagina di tenere una moneta tra le scapole e di spingere il bacino in avanti. Stabilità e controllo, senza fretta.",
+        "L’errore più comune? Trattenere il respiro. Quando sforzi, espira: porti ossigeno ai muscoli e proteggi la schiena. Fai 10 respiri profondi tra un esercizio e l’altro e sentirai la differenza.",
+        "Oggi bevi 2 litri d’acqua e muoviti 20 minuti. Inizia con 5 minuti di pilates, poi aumenta. Prova domani e dimmi com’è andata 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Parti così: idratazione e movimento.",
+    "Il segreto è pilates: respiro e forza.",
+    "Contrai il core mentre allunghi la colonna.",
+    "Evita questo errore: non trattenere il respiro.",
+    "Bevi 2 litri d’acqua oggi e muoviti!"
+  ],
+  "thread_text": [
+    "Acqua + movimento = energia alle stelle. Giovanni Truppi lo sa: una canottiera all’Ariston nasconde allenamenti fatti di costanza e piccoli gesti. Sei pronto a cambiare il tuo approccio?",
+    "Pilates unisce respiro, forza e flessibilità. Ogni movimento parte dal core e si espande fino alle estremità. Il risultato? Muscoli tonici e colonna vertebrale più lunga. Ecco chi è Lucia, la costanza in azione.",
+    "Contrai il core mentre allunghi la colonna: è la base di ogni esercizio efficace. Immagina di tenere una moneta tra le scapole e di spingere il bacino in avanti. Stabilità e controllo, senza fretta.",
+    "L’errore più comune? Trattenere il respiro. Quando sforzi, espira: porti ossigeno ai muscoli e proteggi la schiena. Fai 10 respiri profondi tra un esercizio e l’altro e sentirai la differenza.",
+    "Oggi bevi 2 litri d’acqua e muoviti 20 minuti. Inizia con 5 minuti di pilates, poi aumenta. Prova domani e dimmi com’è andata 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "La tua energia sale subito",
+      "description": "Idratazione e movimento ti danno la carica giusta per allenarti meglio e sentirti più vivo.",
+      "visual_hint": "Donna sorridente beve acqua in palestra",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "woman drinking water gym"
+    },
+    {
+      "hook": "Pilates, respiro e forza",
+      "description": "Unisce respiro, forza e flessibilità per un corpo tonico e una mente calma. Provalo oggi.",
+      "visual_hint": "Donna in posa pilates su tappetino",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "pilates mat woman stretch",
+      "image": "https://images.pexels.com/photos/33360086/pexels-photo-33360086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Contrai il core, allunga",
+      "description": "Contrai il core mentre allunghi la colonna: stabilità e mobilità in un solo gesto.",
+      "visual_hint": "Primo piano addome e schiena in allungamento",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "core contraction spine stretch",
+      "image": "https://images.pexels.com/photos/6800694/pexels-photo-6800694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non bloccare il respiro",
+      "description": "Errore comune: trattenere il respiro. Espira durante lo sforzo per attivare meglio i muscoli.",
+      "visual_hint": "Istruttore mostra respirazione a mani sull'addome",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "breathing exercise coach",
+      "image": "https://images.pexels.com/photos/4587403/pexels-photo-4587403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bevi e muoviti ora",
+      "description": "Oggi bevi 2 litri d'acqua e fai 10 minuti di movimento. Il tuo corpo ti ringrazierà.",
+      "visual_hint": "Bottiglia d'acqua e tappetino pronti all'uso",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "water bottle fitness mat",
+      "image": "https://images.pexels.com/photos/4379316/pexels-photo-4379316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cf212532a.jpeg",
+  "savedAt": "2026-05-15T19:32:10.474Z",
+  "sourceId": "c416c41e2e088c5fa38ccb16285d5ada"
+}
