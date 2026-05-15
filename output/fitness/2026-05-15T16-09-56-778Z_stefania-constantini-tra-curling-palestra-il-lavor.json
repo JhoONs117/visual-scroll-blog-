@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "stefania-constantini-tra-curling-palestra-il-lavor",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Stefania Constantini tra curling, palestra, il lavoro in negozio, il fidanzato e il sogno Cortina 2026  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/storie/07-02-2022/stefania-constantini-curling-palestra-fidanzato-passioni-curiosita-4301302332711/",
+  "pubDate": "Tue, 8 Feb 2022 14:43:00 +0100",
+  "slides": [
+    "Disciplina vincente in ogni area della vita.",
+    "Equilibrio tra sport, lavoro e relazioni.",
+    "Allenamento concreto come le sue routine.",
+    "Non trascurare il recupero mentale e fisico.",
+    "Oggi scegli un'abitudine da rendere routine."
+  ],
+  "instagram_caption": "La campionessa Stefania Constantini ti dimostra che la vera forza non è solo nei muscoli, ma nella costanza. 🥌💪 Curling, palestra, lavoro in negozio e la relazione con il fidanzato: ogni area della vita richiede disciplina e un equilibrio studiato. La chiave? Routine concrete e non trascurare mai il recupero mentale dopo lo sforzo fisico. Anche tu puoi gestire tutto, un'abitudine alla volta. Oggi scegli un singolo gesto da trasformare in routine: cinque minuti di respirazione dopo l'allenamento o una camminata al mattino. Fallo tuo ogni giorno. Prova questo esercizio domani mattina 💥",
+  "formats": {
+    "instagram": {
+      "caption": "La campionessa Stefania Constantini ti dimostra che la vera forza non è solo nei muscoli, ma nella costanza. 🥌💪 Curling, palestra, lavoro in negozio e la relazione con il fidanzato: ogni area della vita richiede disciplina e un equilibrio studiato. La chiave? Routine concrete e non trascurare mai il recupero mentale dopo lo sforzo fisico. Anche tu puoi gestire tutto, un'abitudine alla volta. Oggi scegli un singolo gesto da trasformare in routine: cinque minuti di respirazione dopo l'allenamento o una camminata al mattino. Fallo tuo ogni giorno. Prova questo esercizio domani mattina 💥"
+    },
+    "tiktok": {
+      "script": [
+        "Parti così: disciplina come Stefania Constantini.",
+        "Equilibrio tra curling, lavoro e fidanzato.",
+        "Evita questo errore: allenamenti senza costanza.",
+        "Il segreto è recuperare mente e corpo.",
+        "Oggi scegli un'abitudine, domani routine."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Stefania Constantini: campionessa di curling, lavora in negozio e ha un fidanzato. Come tiene tutto insieme? Con la stessa disciplina che la porta a competere. Non è talento puro, è strategia e abitudini solide.",
+        "Il segreto è bilanciare sport, lavoro e relazioni come blocchi di un programmino. Fissa orari definiti: 1h palestra, 2h lavoro, tempo per la relazione. Senza pianificazione, salti tutto. Il caos uccide la costanza.",
+        "Non serve fare ore di allenamento. Bastano routine corte e concrete: 3x week full body, 20 min intensi. Come nel curling, ogni movimento conta. Errore comune: fare troppo, recuperare poco. Il recupero mentale è chiave per non crollare.",
+        "Lo stress di competizioni, lavoro e vita privata accumula. Dopo l'allenamento, 10 min di respiro lento o stretching. Abbassa il cortisolo. Senza recupero mentale, fisico e relazionale, il rendimento crolla. Chiedi a Stefania.",
+        "Oggi scegli un'abitudine da trasformare in routine fissa: allenamento di 20 min, orario per il partner o pausa mentale. Prova domani e fammi sapere come va 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Parti così: disciplina come Stefania Constantini.",
+    "Equilibrio tra curling, lavoro e fidanzato.",
+    "Evita questo errore: allenamenti senza costanza.",
+    "Il segreto è recuperare mente e corpo.",
+    "Oggi scegli un'abitudine, domani routine."
+  ],
+  "thread_text": [
+    "Stefania Constantini: campionessa di curling, lavora in negozio e ha un fidanzato. Come tiene tutto insieme? Con la stessa disciplina che la porta a competere. Non è talento puro, è strategia e abitudini solide.",
+    "Il segreto è bilanciare sport, lavoro e relazioni come blocchi di un programmino. Fissa orari definiti: 1h palestra, 2h lavoro, tempo per la relazione. Senza pianificazione, salti tutto. Il caos uccide la costanza.",
+    "Non serve fare ore di allenamento. Bastano routine corte e concrete: 3x week full body, 20 min intensi. Come nel curling, ogni movimento conta. Errore comune: fare troppo, recuperare poco. Il recupero mentale è chiave per non crollare.",
+    "Lo stress di competizioni, lavoro e vita privata accumula. Dopo l'allenamento, 10 min di respiro lento o stretching. Abbassa il cortisolo. Senza recupero mentale, fisico e relazionale, il rendimento crolla. Chiedi a Stefania.",
+    "Oggi scegli un'abitudine da trasformare in routine fissa: allenamento di 20 min, orario per il partner o pausa mentale. Prova domani e fammi sapere come va 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Disciplina da campionessa per tutti",
+      "description": "Scopri come Stefania Constantini applica la stessa determinazione nel curling, in palestra e nella vita quotidiana.",
+      "visual_hint": "Stefania in azione curling",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "curling athlete ice"
+    },
+    {
+      "hook": "Equilibrio come segreto vincente",
+      "description": "Allenamento, lavoro in negozio e relazione: tutto parte da una gestione smart del tempo e delle energie.",
+      "visual_hint": "Calendario con icone attività",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "balance workout lifestyle",
+      "image": "https://images.pexels.com/photos/35703229/pexels-photo-35703229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Routine concreta come la sua",
+      "description": "Esercizi funzionali e circuiti brevi: ripeti i suoi schemi per forza e resistenza senza attrezzi speciali.",
+      "visual_hint": "Esercizio a corpo libero",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "bodyweight exercise woman",
+      "image": "https://images.pexels.com/photos/5149174/pexels-photo-5149174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Recupero: non saltarlo mai",
+      "description": "Errore comune: trascurare riposo mentale e fisico. Correggi con stretching meditativo e un giorno off programmato.",
+      "visual_hint": "Stretching e relax mentale",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stretching yoga recovery",
+      "image": "https://images.pexels.com/photos/6454094/pexels-photo-6454094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Oggi scegli una nuova routine",
+      "description": "Prendi una delle abitudini di Stefania, rendila quotidiana: allenamento, recupero o focus. Inizia ora.",
+      "visual_hint": "Icona routine giornaliera",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "daily routine habit",
+      "image": "https://images.pexels.com/photos/8091056/pexels-photo-8091056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/620594fbc00ec.jpeg",
+  "savedAt": "2026-05-15T16:11:01.852Z",
+  "sourceId": "35342d6fd23dcfdfd5e56101280b2df6"
+}

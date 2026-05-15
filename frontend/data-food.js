@@ -1,5 +1,89 @@
 window.FOOD_ARTICLES = [
   {
+    "agent": "food",
+    "slug": "pasta-con-crema-di-melanzane-e-ricotta-salata",
+    "sourceId": "650cbd83e11112951e7e87c9e6c9707d",
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "melanzane",
+      "ricotta salata",
+      "pomodorini"
+    ],
+    "title": "Pasta con crema di melanzane e ricotta salata",
+    "slides": [
+      "Pasta cremosa con melanzane e ricotta salata",
+      "Capellini, melanzane, ricotta salata, pomodorini, panna",
+      "Incidere le melanzane e cuocerle al forno",
+      "Unire crema di melanzane e fonduta di ricotta",
+      "Basilico fresco per guarnire e profumare"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta cremosa con melanzane e ricotta",
+        "description": "Un primo estivo avvolgente, cremoso e saporito, perfetto per stupire con pochi ingredienti.",
+        "visual_hint": "Forchetta che arrotola pasta",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "creamy eggplant pasta savory"
+      },
+      {
+        "hook": "4 ingredienti, un sapore unico",
+        "description": "Capellini, melanzane al forno, ricotta salata, pomodorini e panna: la semplicità premiata.",
+        "visual_hint": "Ingredienti disposti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "eggplant cherry tomatoes ricotta savory",
+        "image": "https://images.pexels.com/photos/19674153/pexels-photo-19674153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il segreto? Incidere le melanzane",
+        "description": "Tagli a croce e cottura in forno: così la polpa diventa morbida e affumicata.",
+        "visual_hint": "Melanzana incisa su teglia",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "scored eggplant baking tray savory",
+        "image": "https://images.pexels.com/photos/19295803/pexels-photo-19295803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cremosa fonduta di ricotta",
+        "description": "Unisci la crema di melanzane alla panna e ricotta salata: manteca a fuoco dolce.",
+        "visual_hint": "Mani che mescolano in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "mixing creamy pasta sauce skillet savory",
+        "image": "https://images.pexels.com/photos/17951098/pexels-photo-17951098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tocco finale: basilico fresco",
+        "description": "Guarnisci con foglie di basilico: profumo e colore esaltano ogni boccone.",
+        "visual_hint": "Pasta impiattata con basilico",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "pasta bowl basil garnish savory",
+        "image": "https://images.pexels.com/photos/34326276/pexels-photo-34326276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Una pasta che sa di costa e di tramonto. 🍆✨ La crema di melanzane dolci e affumicate incontra i pomodorini appena scottati e la sapidità inimitabile della ricotta salata. Il segreto? Incido le melanzane e le passo al forno prima di frullarle, per un sapore più profondo, e servo il tutto con una fonduta morbida che avvolge i capellini. Basilico fresco, una spolverata di ricotta e chiudi gli occhi. 🌿 Da rifare subito, magari con un bicchiere di bianco fresco. Provala e fammi sapere! 🔥",
+    "video_script": [
+      "Cuocio le melanzane incise in forno.",
+      "Prendo i capellini e li butto in acqua.",
+      "Fondo la ricotta salata con un po' di panna.",
+      "Unisco la crema di melanzane alla fonduta.",
+      "Guarnisco con pomodorini e basilico fresco."
+    ],
+    "thread_text": [
+      "C’è piatto che odora di Sicilia e si mangia già freddo in terrazza. Questo è tutto: morbido, affumicato, con quel morso di ricotta salata che spacca tutto. 🍆",
+      "Parti da 2 melanzane: incidi la buccia a croce, forno a 200° per 30 minuti. Devono diventare morbide da dentro, quasi una crema naturale. Le cuoci al punto giusto e le schiacci.",
+      "Intanto fai andare i pomodorini in padella con olio, uno spicchio d'aglio e un cucchiaio di panna. Devono spappolarsi ma restare vivi. Sì, la panna serve: dà velluto alla crema di melanzane.",
+      "Cuoci i capellini al dente e manteca nel sugo con un po’ d’acqua di cottura. Unisci la crema di melanzane, una manciata di ricotta salata grattugiata e giralo finché diventa un’unica cosa cremosa.",
+      "Impiatta e finisci con ricotta salata a scaglie e basilico fresco spezzato a mano. Il profumo è pazzesco. Provala con un vino bianco fresco e fammi sapere nei commenti 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Pasta-con-crema-di-melanzane-e-ricotta-salata.html",
+    "pubDate": "Fri, 15 May 2026 15:59:00 +0200",
+    "savedAt": "2026-05-15T16:02:16.862Z",
+    "image": "https://www.giallozafferano.it/images/361-36157/Pasta-con-crema-di-melanzane-e-ricotta-salata_650x433_wm.jpg"
+  },
+  {
     "schema_version": 2,
     "agent": "food",
     "slug": "risotto-zucchine-e-salsiccia",

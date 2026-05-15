@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "us-orders-travelers-on-air-force-one-to-throw-away",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip",
+    "link": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
+    "pubDate": "Fri, 15 May 2026 15:42:11 +0000",
+    "slides": [
+      "Why ban souvenirs after state visits?",
+      "Travelers on Air Force One were ordered to discard gifts.",
+      "The ban includes burner phones and even simple pins.",
+      "Your loyalty gifts could be a security risk tomorrow.",
+      "Test your own travel habits: what would you surrender?"
+    ],
+    "thread_text": [
+      "Hai appena ricevuto un regalo dal tuo governo. Un mese dopo, quel regalo viene considerato una minaccia alla sicurezza nazionale. Succede davvero.",
+      "I souvenir degli incontri di Stato — spille, penne, anche telefoni — vengono sigillati e distrutti al rientro. Non è paranoia: è protocollo.",
+      "Il motivo? Un oggetto innocuo oggi può diventare un vettore di spionaggio domani, quando cambiano le alleanze o le minacce.",
+      "Per questo sull'Air Force One i passeggeri sono costretti a consegnare regali, persino spille da balia. Zero eccezioni.",
+      "La prossima volta che ricevi un gadget gratuito a un evento, chiediti: lo terrei al mio fianco tra un anno? Se esiti, forse è già ora di lasciarlo."
+    ],
+    "video_script": [
+      "Hai mai ricevuto un regalo che è diventato pericoloso?",
+      "Gli ospiti dell’Air Force One lo sanno bene.",
+      "Devono lasciare ogni souvenir prima di tornare a casa.",
+      "Non solo telefoni: anche spille e penne.",
+      "Perché la tua fedeltà di oggi potrebbe essere un rischio domani."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Hai appena ricevuto un regalo dal tuo governo. Un mese dopo, quel regalo viene considerato una minaccia alla sicurezza nazionale. Succede davvero.",
+          "I souvenir degli incontri di Stato — spille, penne, anche telefoni — vengono sigillati e distrutti al rientro. Non è paranoia: è protocollo.",
+          "Il motivo? Un oggetto innocuo oggi può diventare un vettore di spionaggio domani, quando cambiano le alleanze o le minacce.",
+          "Per questo sull'Air Force One i passeggeri sono costretti a consegnare regali, persino spille da balia. Zero eccezioni.",
+          "La prossima volta che ricevi un gadget gratuito a un evento, chiediti: lo terrei al mio fianco tra un anno? Se esiti, forse è già ora di lasciarlo."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hai mai ricevuto un regalo che è diventato pericoloso?",
+          "Gli ospiti dell’Air Force One lo sanno bene.",
+          "Devono lasciare ogni souvenir prima di tornare a casa.",
+          "Non solo telefoni: anche spille e penne.",
+          "Perché la tua fedeltà di oggi potrebbe essere un rischio domani."
+        ]
+      },
+      "instagram": {
+        "caption": "Sull'Air Force One, al ritorno da una visita di Stato in Cina, i passeggeri hanno ricevuto l'ordine di gettare via regali, spille e persino i telefoni bruciati. Il protocollo di sicurezza USA considera questi souvenir un potenziale rischio 🇨🇳📱: un oggetto innocuo oggi può trasformarsi in un vettore di spionaggio domani, quando cambiano le minacce. Tradotto: niente penne, niente spille, niente eccezioni 🚫. Per chi viaggia in contesti sensibili, questo significa che anche il gadget più banale può essere sequestrato e distrutto 🤫. La prossima volta che ricevi un omaggio da un contatto istituzionale, lo metteresti nella borsa per un volo di Stato?"
+      }
+    },
+    "instagram_caption": "Sull'Air Force One, al ritorno da una visita di Stato in Cina, i passeggeri hanno ricevuto l'ordine di gettare via regali, spille e persino i telefoni bruciati. Il protocollo di sicurezza USA considera questi souvenir un potenziale rischio 🇨🇳📱: un oggetto innocuo oggi può trasformarsi in un vettore di spionaggio domani, quando cambiano le minacce. Tradotto: niente penne, niente spille, niente eccezioni 🚫. Per chi viaggia in contesti sensibili, questo significa che anche il gadget più banale può essere sequestrato e distrutto 🤫. La prossima volta che ricevi un omaggio da un contatto istituzionale, lo metteresti nella borsa per un volo di Stato?",
+    "carousel_slides": [
+      {
+        "hook": "Un regalo? O una trappola?",
+        "description": "Un oggetto innocuo oggi può diventare una minaccia domani quando cambiano le alleanze.",
+        "visual_hint": "Pin metallico lucido su scuro",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "metal pin badge"
+      },
+      {
+        "hook": "Sigillato e distrutto",
+        "description": "I souvenir degli incontri di Stato vengono sigillati e distrutti al rientro. Non è paranoia: è protocollo.",
+        "visual_hint": "Sigillo su busta diplomatica",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "diplomatic seal envelope",
+        "image": "https://images.pexels.com/photos/10559085/pexels-photo-10559085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spille da balia incluse",
+        "description": "Sull'Air Force One i passeggeri consegnano regali, persino spille. Zero eccezioni alla regola.",
+        "visual_hint": "Spilla da balia metallica",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "safety pin macro",
+        "image": "https://images.pexels.com/photos/16262674/pexels-photo-16262674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Un mese dopo, è pericoloso",
+        "description": "Hai ricevuto un regalo dal tuo governo. Ora è considerato una minaccia alla sicurezza nazionale. Succede davvero.",
+        "visual_hint": "Mano che getta via oggetto",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand throwing item",
+        "image": "https://images.pexels.com/photos/27682078/pexels-photo-27682078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "E tu? Lo terresti?",
+        "description": "La prossima volta che ricevi un gadget gratuito, chiediti: lo terrei tra un anno? Se esiti, lascialo.",
+        "visual_hint": "Gadget su lastra di metallo",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "free gadget metal surface",
+        "image": "https://images.pexels.com/photos/13061201/pexels-photo-13061201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/tim-cook-china-pin.jpg?resize=1200,840",
+    "savedAt": "2026-05-15T15:58:14.502Z",
+    "sourceId": "1abdd65fdc9244dba9704979ca40adb0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "osaurus-brings-both-local-and-cloud-ai-models-to-y",
     "prompt_version": "1.0.0",
     "status": "published",

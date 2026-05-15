@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "moioli-visintin-dal-surf-e-lo-yoga-insieme-ai-cani",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Moioli-Visintin,  dal surf e lo yoga (insieme) ai cani: tutto su di loro  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/storie/12-02-2022/moioli-visintin-yoga-argento-olimpico-insieme-sport-cani-4301384763100/",
+  "pubDate": "Sat, 12 Feb 2022 09:49:33 +0100",
+  "slides": [
+    "La giusta combinazione cambia tutto.",
+    "Unisci surf e yoga per equilibrio.",
+    "Respira e fluisci come un'onda.",
+    "Non forzare la postura, ascolta.",
+    "Oggi prova 5 minuti di yoga."
+  ],
+  "instagram_caption": "La giusta combinazione cambia tutto: surf e yoga non sono solo due sport, ma un dialogo continuo tra forza e respiro. Unisci la tavola alla tua pratica per trovare equilibrio dentro e fuori dall’acqua. Non forzare mai una postura, ascolta il tuo corpo mentre fluisce come un’onda. Bastano 5 minuti al giorno per riscoprirti. Prova questa sera una sequenza di respiro e allungo, senti la differenza. 🌊🧘‍♂️",
+  "formats": {
+    "instagram": {
+      "caption": "La giusta combinazione cambia tutto: surf e yoga non sono solo due sport, ma un dialogo continuo tra forza e respiro. Unisci la tavola alla tua pratica per trovare equilibrio dentro e fuori dall’acqua. Non forzare mai una postura, ascolta il tuo corpo mentre fluisce come un’onda. Bastano 5 minuti al giorno per riscoprirti. Prova questa sera una sequenza di respiro e allungo, senti la differenza. 🌊🧘‍♂️"
+    },
+    "tiktok": {
+      "script": [
+        "Parti così: surf e yoga insieme cambiano tutto.",
+        "Il segreto è unire onde e respiro per equilibrio.",
+        "Respira e fluisci come l'onda, senza forzare.",
+        "Evita questo errore: non forzare la postura, ascolta.",
+        "Oggi prova 5 minuti di yoga, parti ora."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Moioli-Visintin mi ha insegnato una lezione: la combinazione giusta trasforma un allenamento. Surf e yoga insieme non sono un trend, sono un metodo. Equilibrio, respiro, risultati. Vuoi sapere come funziona?",
+        "Unisci surf e yoga: il surf ti sfida sull'instabilità, lo yoga ti dà controllo. Sulla tavola impari a reagire; sul tappetino, a prevenire. Ogni posizione costruisce stabilità per la prossima onda. Non serve essere esperti.",
+        "Respira come un'onda: inspiri quando sale, espiri quando scende. Questo ritmo ti toglie lo stress, ti tiene lucido. Se ti blocchi, torni al respiro. Errore comune? Trattenere l'aria per paura di cadere. Sbagliato: l'ossigeno è la tua tavola.",
+        "Non forzare la postura. Il surfista sa che ogni onda è diversa; lo yogi sa che ogni corpo è diverso. Ascolta il tuo, non competere. Un ginocchio piegato vale più di una gamba tesa e dolorante. La fluidità vince sulla rigidità.",
+        "Oggi prova 5 minuti di yoga prima del tuo allenamento: posizione del cane a testa in giù e del guerriero. Senti l'equilibrio, il respiro. Poi dimmi com'è andata 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Parti così: surf e yoga insieme cambiano tutto.",
+    "Il segreto è unire onde e respiro per equilibrio.",
+    "Respira e fluisci come l'onda, senza forzare.",
+    "Evita questo errore: non forzare la postura, ascolta.",
+    "Oggi prova 5 minuti di yoga, parti ora."
+  ],
+  "thread_text": [
+    "Moioli-Visintin mi ha insegnato una lezione: la combinazione giusta trasforma un allenamento. Surf e yoga insieme non sono un trend, sono un metodo. Equilibrio, respiro, risultati. Vuoi sapere come funziona?",
+    "Unisci surf e yoga: il surf ti sfida sull'instabilità, lo yoga ti dà controllo. Sulla tavola impari a reagire; sul tappetino, a prevenire. Ogni posizione costruisce stabilità per la prossima onda. Non serve essere esperti.",
+    "Respira come un'onda: inspiri quando sale, espiri quando scende. Questo ritmo ti toglie lo stress, ti tiene lucido. Se ti blocchi, torni al respiro. Errore comune? Trattenere l'aria per paura di cadere. Sbagliato: l'ossigeno è la tua tavola.",
+    "Non forzare la postura. Il surfista sa che ogni onda è diversa; lo yogi sa che ogni corpo è diverso. Ascolta il tuo, non competere. Un ginocchio piegato vale più di una gamba tesa e dolorante. La fluidità vince sulla rigidità.",
+    "Oggi prova 5 minuti di yoga prima del tuo allenamento: posizione del cane a testa in giù e del guerriero. Senti l'equilibrio, il respiro. Poi dimmi com'è andata 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Abbinamenti vincenti per il fitness",
+      "description": "Surf e yoga insieme creano equilibrio e forza. Scopri come questa coppia funziona.",
+      "visual_hint": "Surfista e yogi sulla spiaggia",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "surf yoga balance"
+    },
+    {
+      "hook": "Equilibrio come le onde",
+      "description": "Unire surf e yoga migliora la stabilità e la connessione mente-corpo.",
+      "visual_hint": "Onda che si infrange",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "wave ocean flow",
+      "image": "https://images.pexels.com/photos/16039483/pexels-photo-16039483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Respira come l’oceano",
+      "description": "Inspira mentre ti sollevi, espira mentre scendi. Fluisci con il movimento.",
+      "visual_hint": "Primo piano respiro yoga",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "yoga breathing closeup",
+      "image": "https://images.pexels.com/photos/7663037/pexels-photo-7663037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non forzare mai",
+      "description": "Se senti tensione, fermati. Ascolta il tuo corpo e rilassati nella posa.",
+      "visual_hint": "Mani che correggono postura",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "yoga posture correction",
+      "image": "https://images.pexels.com/photos/6454135/pexels-photo-6454135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Inizia ora",
+      "description": "Prova 5 minuti di yoga oggi. Trova la tua onda interiore.",
+      "visual_hint": "Orologio e tappetino",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "yoga mat timer",
+      "image": "https://images.pexels.com/photos/4325462/pexels-photo-4325462.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a7696a5465.jpeg",
+  "savedAt": "2026-05-15T16:10:17.414Z",
+  "sourceId": "e79a95de99709db9497d2cd228322bf7"
+}

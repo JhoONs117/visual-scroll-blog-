@@ -2,6 +2,318 @@ window.FITNESS_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "fitness",
+    "slug": "stefania-constantini-tra-curling-palestra-il-lavor",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Stefania Constantini tra curling, palestra, il lavoro in negozio, il fidanzato e il sogno Cortina 2026  ",
+    "link": "https://www.gazzetta.it/fitness/allenamento/storie/07-02-2022/stefania-constantini-curling-palestra-fidanzato-passioni-curiosita-4301302332711/",
+    "pubDate": "Tue, 8 Feb 2022 14:43:00 +0100",
+    "slides": [
+      "Disciplina vincente in ogni area della vita.",
+      "Equilibrio tra sport, lavoro e relazioni.",
+      "Allenamento concreto come le sue routine.",
+      "Non trascurare il recupero mentale e fisico.",
+      "Oggi scegli un'abitudine da rendere routine."
+    ],
+    "instagram_caption": "La campionessa Stefania Constantini ti dimostra che la vera forza non è solo nei muscoli, ma nella costanza. 🥌💪 Curling, palestra, lavoro in negozio e la relazione con il fidanzato: ogni area della vita richiede disciplina e un equilibrio studiato. La chiave? Routine concrete e non trascurare mai il recupero mentale dopo lo sforzo fisico. Anche tu puoi gestire tutto, un'abitudine alla volta. Oggi scegli un singolo gesto da trasformare in routine: cinque minuti di respirazione dopo l'allenamento o una camminata al mattino. Fallo tuo ogni giorno. Prova questo esercizio domani mattina 💥",
+    "formats": {
+      "instagram": {
+        "caption": "La campionessa Stefania Constantini ti dimostra che la vera forza non è solo nei muscoli, ma nella costanza. 🥌💪 Curling, palestra, lavoro in negozio e la relazione con il fidanzato: ogni area della vita richiede disciplina e un equilibrio studiato. La chiave? Routine concrete e non trascurare mai il recupero mentale dopo lo sforzo fisico. Anche tu puoi gestire tutto, un'abitudine alla volta. Oggi scegli un singolo gesto da trasformare in routine: cinque minuti di respirazione dopo l'allenamento o una camminata al mattino. Fallo tuo ogni giorno. Prova questo esercizio domani mattina 💥"
+      },
+      "tiktok": {
+        "script": [
+          "Parti così: disciplina come Stefania Constantini.",
+          "Equilibrio tra curling, lavoro e fidanzato.",
+          "Evita questo errore: allenamenti senza costanza.",
+          "Il segreto è recuperare mente e corpo.",
+          "Oggi scegli un'abitudine, domani routine."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Stefania Constantini: campionessa di curling, lavora in negozio e ha un fidanzato. Come tiene tutto insieme? Con la stessa disciplina che la porta a competere. Non è talento puro, è strategia e abitudini solide.",
+          "Il segreto è bilanciare sport, lavoro e relazioni come blocchi di un programmino. Fissa orari definiti: 1h palestra, 2h lavoro, tempo per la relazione. Senza pianificazione, salti tutto. Il caos uccide la costanza.",
+          "Non serve fare ore di allenamento. Bastano routine corte e concrete: 3x week full body, 20 min intensi. Come nel curling, ogni movimento conta. Errore comune: fare troppo, recuperare poco. Il recupero mentale è chiave per non crollare.",
+          "Lo stress di competizioni, lavoro e vita privata accumula. Dopo l'allenamento, 10 min di respiro lento o stretching. Abbassa il cortisolo. Senza recupero mentale, fisico e relazionale, il rendimento crolla. Chiedi a Stefania.",
+          "Oggi scegli un'abitudine da trasformare in routine fissa: allenamento di 20 min, orario per il partner o pausa mentale. Prova domani e fammi sapere come va 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Parti così: disciplina come Stefania Constantini.",
+      "Equilibrio tra curling, lavoro e fidanzato.",
+      "Evita questo errore: allenamenti senza costanza.",
+      "Il segreto è recuperare mente e corpo.",
+      "Oggi scegli un'abitudine, domani routine."
+    ],
+    "thread_text": [
+      "Stefania Constantini: campionessa di curling, lavora in negozio e ha un fidanzato. Come tiene tutto insieme? Con la stessa disciplina che la porta a competere. Non è talento puro, è strategia e abitudini solide.",
+      "Il segreto è bilanciare sport, lavoro e relazioni come blocchi di un programmino. Fissa orari definiti: 1h palestra, 2h lavoro, tempo per la relazione. Senza pianificazione, salti tutto. Il caos uccide la costanza.",
+      "Non serve fare ore di allenamento. Bastano routine corte e concrete: 3x week full body, 20 min intensi. Come nel curling, ogni movimento conta. Errore comune: fare troppo, recuperare poco. Il recupero mentale è chiave per non crollare.",
+      "Lo stress di competizioni, lavoro e vita privata accumula. Dopo l'allenamento, 10 min di respiro lento o stretching. Abbassa il cortisolo. Senza recupero mentale, fisico e relazionale, il rendimento crolla. Chiedi a Stefania.",
+      "Oggi scegli un'abitudine da trasformare in routine fissa: allenamento di 20 min, orario per il partner o pausa mentale. Prova domani e fammi sapere come va 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Disciplina da campionessa per tutti",
+        "description": "Scopri come Stefania Constantini applica la stessa determinazione nel curling, in palestra e nella vita quotidiana.",
+        "visual_hint": "Stefania in azione curling",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "curling athlete ice"
+      },
+      {
+        "hook": "Equilibrio come segreto vincente",
+        "description": "Allenamento, lavoro in negozio e relazione: tutto parte da una gestione smart del tempo e delle energie.",
+        "visual_hint": "Calendario con icone attività",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "balance workout lifestyle",
+        "image": "https://images.pexels.com/photos/35703229/pexels-photo-35703229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Routine concreta come la sua",
+        "description": "Esercizi funzionali e circuiti brevi: ripeti i suoi schemi per forza e resistenza senza attrezzi speciali.",
+        "visual_hint": "Esercizio a corpo libero",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "bodyweight exercise woman",
+        "image": "https://images.pexels.com/photos/5149174/pexels-photo-5149174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Recupero: non saltarlo mai",
+        "description": "Errore comune: trascurare riposo mentale e fisico. Correggi con stretching meditativo e un giorno off programmato.",
+        "visual_hint": "Stretching e relax mentale",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stretching yoga recovery",
+        "image": "https://images.pexels.com/photos/6454094/pexels-photo-6454094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Oggi scegli una nuova routine",
+        "description": "Prendi una delle abitudini di Stefania, rendila quotidiana: allenamento, recupero o focus. Inizia ora.",
+        "visual_hint": "Icona routine giornaliera",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "daily routine habit",
+        "image": "https://images.pexels.com/photos/8091056/pexels-photo-8091056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/620594fbc00ec.jpeg",
+    "savedAt": "2026-05-15T16:11:01.852Z",
+    "sourceId": "35342d6fd23dcfdfd5e56101280b2df6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "fitness",
+    "slug": "la-juve-i-muscoli-il-surf-la-delusione-olimpica-tu",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "La Juve, i muscoli, il surf, la delusione olimpica: tutto su Mikaela Shiffrin  ",
+    "link": "https://www.gazzetta.it/fitness/allenamento/storie/06-01-2022/mikaela-shiffrin-fisico-fidanzato-vittorie-perdita-padre-tutto-di-lei-430774324814/",
+    "pubDate": "Wed, 9 Feb 2022 10:17:00 +0100",
+    "slides": [
+      "Cadere ti insegna a rialzarti più forte.",
+      "La delusione costruisce la resilienza atletica.",
+      "Contrai il core per proteggere la schiena.",
+      "Non trattenere il respiro durante lo sforzo.",
+      "Oggi fai 3 minuti di plank dinamico."
+    ],
+    "instagram_caption": "Cadere ti insegna a rialzarti più forte, proprio come fa Mikaela Shiffrin. La delusione non è un punto d’arrivo, ma il carburante della resilienza atletica.  \nQuando ti alleni, contrai sempre il core per proteggere la schiena e non trattenere il respiro durante lo sforzo: ossigeno ai muscoli, potenza ai movimenti.  \nOggi metti alla prova la tua stabilità con 3 minuti di plank dinamico. Alterna sollevamenti alternati delle gambe e tocchi alle spalle, mantenendo la tensione addominale.  \nProva questo circuito domani mattina e senti la differenza 💪🔥",
+    "formats": {
+      "instagram": {
+        "caption": "Cadere ti insegna a rialzarti più forte, proprio come fa Mikaela Shiffrin. La delusione non è un punto d’arrivo, ma il carburante della resilienza atletica.  \nQuando ti alleni, contrai sempre il core per proteggere la schiena e non trattenere il respiro durante lo sforzo: ossigeno ai muscoli, potenza ai movimenti.  \nOggi metti alla prova la tua stabilità con 3 minuti di plank dinamico. Alterna sollevamenti alternati delle gambe e tocchi alle spalle, mantenendo la tensione addominale.  \nProva questo circuito domani mattina e senti la differenza 💪🔥"
+      },
+      "tiktok": {
+        "script": [
+          "Cadere ti insegna a rialzarti più forte.",
+          "La delusione costruisce la resilienza atletica.",
+          "Contrai il core per proteggere la schiena.",
+          "Non trattenere il respiro durante lo sforzo.",
+          "Oggi fai 3 minuti di plank dinamico."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Una caduta non è la fine, è il punto di svolta. Mikaela Shiffrin lo sa: ogni atleta vero impara a rialzarsi più forte di prima. Nel fitness vale lo stesso. Il fallimento costruisce muscoli che non sapevi di avere.",
+          "La delusione allena la resilienza più dei successi. Quando salti in buca, il tuo sistema nervoso impara a gestire lo stress. È così che costruisci la forza mentale per spingere oltre i limiti in palestra.",
+          "Prima di ogni sforzo, contrai il core come se dovessi incassare un colpo. Prova: espira e stringi gli addominali verso la colonna. Proteggi la schiena e migliori la potenza in ogni squat o plank. Fallo ora.",
+          "Errore comune: trattenere il respiro sotto carico. Taglia l'ossigeno al cervello e aumenta la pressione. Inspira nella fase facile, espira nello sforzo. Sembra banale, ma è la differenza tra rendere e crollare.",
+          "Oggi ti sfido a 3 minuti di plank dinamico: 30 secondi plank alto, 30 plank gomiti, alterna senza pause. Da domani la tua tenuta mentale e fisica sarà un'altra. Prova e fammi sapere come va 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Cadere ti insegna a rialzarti più forte.",
+      "La delusione costruisce la resilienza atletica.",
+      "Contrai il core per proteggere la schiena.",
+      "Non trattenere il respiro durante lo sforzo.",
+      "Oggi fai 3 minuti di plank dinamico."
+    ],
+    "thread_text": [
+      "Una caduta non è la fine, è il punto di svolta. Mikaela Shiffrin lo sa: ogni atleta vero impara a rialzarsi più forte di prima. Nel fitness vale lo stesso. Il fallimento costruisce muscoli che non sapevi di avere.",
+      "La delusione allena la resilienza più dei successi. Quando salti in buca, il tuo sistema nervoso impara a gestire lo stress. È così che costruisci la forza mentale per spingere oltre i limiti in palestra.",
+      "Prima di ogni sforzo, contrai il core come se dovessi incassare un colpo. Prova: espira e stringi gli addominali verso la colonna. Proteggi la schiena e migliori la potenza in ogni squat o plank. Fallo ora.",
+      "Errore comune: trattenere il respiro sotto carico. Taglia l'ossigeno al cervello e aumenta la pressione. Inspira nella fase facile, espira nello sforzo. Sembra banale, ma è la differenza tra rendere e crollare.",
+      "Oggi ti sfido a 3 minuti di plank dinamico: 30 secondi plank alto, 30 plank gomiti, alterna senza pause. Da domani la tua tenuta mentale e fisica sarà un'altra. Prova e fammi sapere come va 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Cadere per rialzarsi più forti",
+        "description": "Trasforma ogni delusione in carburante per la resilienza atletica. Impara dalle cadute come Shiffrin.",
+        "visual_hint": "Atleta che si rialza",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "athlete rising fall"
+      },
+      {
+        "hook": "Delusione = resilienza",
+        "description": "La frustrazione costruisce muscoli mentali. Usa le sconfitte per rafforzare determinazione e focus.",
+        "visual_hint": "Espressione determinata",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "determined athlete training",
+        "image": "https://images.pexels.com/photos/4720530/pexels-photo-4720530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Contrai il core sempre",
+        "description": "Attiva il core in ogni esercizio per proteggere la schiena e migliorare la stabilità. Base di ogni movimento.",
+        "visual_hint": "Core contratto",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "core engagement plank",
+        "image": "https://images.pexels.com/photos/8436128/pexels-photo-8436128.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non bloccare il respiro",
+        "description": "Trattenere il fiato aumenta la pressione. Espira durante lo sforzo per performance e sicurezza migliori.",
+        "visual_hint": "Respiro consapevole",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "breathing exercise gym",
+        "image": "https://images.pexels.com/photos/20523369/pexels-photo-20523369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Plank dinamico 3 minuti",
+        "description": "Sfida: 3 minuti di plank con variazioni. Brucia il core e costruisci resistenza. Inizia ora!",
+        "visual_hint": "Timer e plank",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "dynamic plank workout",
+        "image": "https://images.pexels.com/photos/14074802/pexels-photo-14074802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/03/31/6245bf46a1f84.jpeg",
+    "savedAt": "2026-05-15T16:10:37.998Z",
+    "sourceId": "9a8b073062393853a6fbb62a63627009"
+  },
+  {
+    "schema_version": 2,
+    "agent": "fitness",
+    "slug": "moioli-visintin-dal-surf-e-lo-yoga-insieme-ai-cani",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Moioli-Visintin,  dal surf e lo yoga (insieme) ai cani: tutto su di loro  ",
+    "link": "https://www.gazzetta.it/fitness/allenamento/storie/12-02-2022/moioli-visintin-yoga-argento-olimpico-insieme-sport-cani-4301384763100/",
+    "pubDate": "Sat, 12 Feb 2022 09:49:33 +0100",
+    "slides": [
+      "La giusta combinazione cambia tutto.",
+      "Unisci surf e yoga per equilibrio.",
+      "Respira e fluisci come un'onda.",
+      "Non forzare la postura, ascolta.",
+      "Oggi prova 5 minuti di yoga."
+    ],
+    "instagram_caption": "La giusta combinazione cambia tutto: surf e yoga non sono solo due sport, ma un dialogo continuo tra forza e respiro. Unisci la tavola alla tua pratica per trovare equilibrio dentro e fuori dall’acqua. Non forzare mai una postura, ascolta il tuo corpo mentre fluisce come un’onda. Bastano 5 minuti al giorno per riscoprirti. Prova questa sera una sequenza di respiro e allungo, senti la differenza. 🌊🧘‍♂️",
+    "formats": {
+      "instagram": {
+        "caption": "La giusta combinazione cambia tutto: surf e yoga non sono solo due sport, ma un dialogo continuo tra forza e respiro. Unisci la tavola alla tua pratica per trovare equilibrio dentro e fuori dall’acqua. Non forzare mai una postura, ascolta il tuo corpo mentre fluisce come un’onda. Bastano 5 minuti al giorno per riscoprirti. Prova questa sera una sequenza di respiro e allungo, senti la differenza. 🌊🧘‍♂️"
+      },
+      "tiktok": {
+        "script": [
+          "Parti così: surf e yoga insieme cambiano tutto.",
+          "Il segreto è unire onde e respiro per equilibrio.",
+          "Respira e fluisci come l'onda, senza forzare.",
+          "Evita questo errore: non forzare la postura, ascolta.",
+          "Oggi prova 5 minuti di yoga, parti ora."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Moioli-Visintin mi ha insegnato una lezione: la combinazione giusta trasforma un allenamento. Surf e yoga insieme non sono un trend, sono un metodo. Equilibrio, respiro, risultati. Vuoi sapere come funziona?",
+          "Unisci surf e yoga: il surf ti sfida sull'instabilità, lo yoga ti dà controllo. Sulla tavola impari a reagire; sul tappetino, a prevenire. Ogni posizione costruisce stabilità per la prossima onda. Non serve essere esperti.",
+          "Respira come un'onda: inspiri quando sale, espiri quando scende. Questo ritmo ti toglie lo stress, ti tiene lucido. Se ti blocchi, torni al respiro. Errore comune? Trattenere l'aria per paura di cadere. Sbagliato: l'ossigeno è la tua tavola.",
+          "Non forzare la postura. Il surfista sa che ogni onda è diversa; lo yogi sa che ogni corpo è diverso. Ascolta il tuo, non competere. Un ginocchio piegato vale più di una gamba tesa e dolorante. La fluidità vince sulla rigidità.",
+          "Oggi prova 5 minuti di yoga prima del tuo allenamento: posizione del cane a testa in giù e del guerriero. Senti l'equilibrio, il respiro. Poi dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Parti così: surf e yoga insieme cambiano tutto.",
+      "Il segreto è unire onde e respiro per equilibrio.",
+      "Respira e fluisci come l'onda, senza forzare.",
+      "Evita questo errore: non forzare la postura, ascolta.",
+      "Oggi prova 5 minuti di yoga, parti ora."
+    ],
+    "thread_text": [
+      "Moioli-Visintin mi ha insegnato una lezione: la combinazione giusta trasforma un allenamento. Surf e yoga insieme non sono un trend, sono un metodo. Equilibrio, respiro, risultati. Vuoi sapere come funziona?",
+      "Unisci surf e yoga: il surf ti sfida sull'instabilità, lo yoga ti dà controllo. Sulla tavola impari a reagire; sul tappetino, a prevenire. Ogni posizione costruisce stabilità per la prossima onda. Non serve essere esperti.",
+      "Respira come un'onda: inspiri quando sale, espiri quando scende. Questo ritmo ti toglie lo stress, ti tiene lucido. Se ti blocchi, torni al respiro. Errore comune? Trattenere l'aria per paura di cadere. Sbagliato: l'ossigeno è la tua tavola.",
+      "Non forzare la postura. Il surfista sa che ogni onda è diversa; lo yogi sa che ogni corpo è diverso. Ascolta il tuo, non competere. Un ginocchio piegato vale più di una gamba tesa e dolorante. La fluidità vince sulla rigidità.",
+      "Oggi prova 5 minuti di yoga prima del tuo allenamento: posizione del cane a testa in giù e del guerriero. Senti l'equilibrio, il respiro. Poi dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Abbinamenti vincenti per il fitness",
+        "description": "Surf e yoga insieme creano equilibrio e forza. Scopri come questa coppia funziona.",
+        "visual_hint": "Surfista e yogi sulla spiaggia",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "surf yoga balance"
+      },
+      {
+        "hook": "Equilibrio come le onde",
+        "description": "Unire surf e yoga migliora la stabilità e la connessione mente-corpo.",
+        "visual_hint": "Onda che si infrange",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "wave ocean flow",
+        "image": "https://images.pexels.com/photos/16039483/pexels-photo-16039483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Respira come l’oceano",
+        "description": "Inspira mentre ti sollevi, espira mentre scendi. Fluisci con il movimento.",
+        "visual_hint": "Primo piano respiro yoga",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "yoga breathing closeup",
+        "image": "https://images.pexels.com/photos/7663037/pexels-photo-7663037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non forzare mai",
+        "description": "Se senti tensione, fermati. Ascolta il tuo corpo e rilassati nella posa.",
+        "visual_hint": "Mani che correggono postura",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "yoga posture correction",
+        "image": "https://images.pexels.com/photos/6454135/pexels-photo-6454135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Inizia ora",
+        "description": "Prova 5 minuti di yoga oggi. Trova la tua onda interiore.",
+        "visual_hint": "Orologio e tappetino",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "yoga mat timer",
+        "image": "https://images.pexels.com/photos/4325462/pexels-photo-4325462.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a7696a5465.jpeg",
+    "savedAt": "2026-05-15T16:10:17.414Z",
+    "sourceId": "e79a95de99709db9497d2cd228322bf7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "fitness",
     "slug": "gigi-samele-l-allenamento-il-pilates-le-medaglie-f",
     "prompt_version": "1.0.0",
     "status": "published",

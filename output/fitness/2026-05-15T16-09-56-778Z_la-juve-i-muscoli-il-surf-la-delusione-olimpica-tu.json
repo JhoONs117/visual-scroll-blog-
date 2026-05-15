@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "la-juve-i-muscoli-il-surf-la-delusione-olimpica-tu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "La Juve, i muscoli, il surf, la delusione olimpica: tutto su Mikaela Shiffrin  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/storie/06-01-2022/mikaela-shiffrin-fisico-fidanzato-vittorie-perdita-padre-tutto-di-lei-430774324814/",
+  "pubDate": "Wed, 9 Feb 2022 10:17:00 +0100",
+  "slides": [
+    "Cadere ti insegna a rialzarti più forte.",
+    "La delusione costruisce la resilienza atletica.",
+    "Contrai il core per proteggere la schiena.",
+    "Non trattenere il respiro durante lo sforzo.",
+    "Oggi fai 3 minuti di plank dinamico."
+  ],
+  "instagram_caption": "Cadere ti insegna a rialzarti più forte, proprio come fa Mikaela Shiffrin. La delusione non è un punto d’arrivo, ma il carburante della resilienza atletica.  \nQuando ti alleni, contrai sempre il core per proteggere la schiena e non trattenere il respiro durante lo sforzo: ossigeno ai muscoli, potenza ai movimenti.  \nOggi metti alla prova la tua stabilità con 3 minuti di plank dinamico. Alterna sollevamenti alternati delle gambe e tocchi alle spalle, mantenendo la tensione addominale.  \nProva questo circuito domani mattina e senti la differenza 💪🔥",
+  "formats": {
+    "instagram": {
+      "caption": "Cadere ti insegna a rialzarti più forte, proprio come fa Mikaela Shiffrin. La delusione non è un punto d’arrivo, ma il carburante della resilienza atletica.  \nQuando ti alleni, contrai sempre il core per proteggere la schiena e non trattenere il respiro durante lo sforzo: ossigeno ai muscoli, potenza ai movimenti.  \nOggi metti alla prova la tua stabilità con 3 minuti di plank dinamico. Alterna sollevamenti alternati delle gambe e tocchi alle spalle, mantenendo la tensione addominale.  \nProva questo circuito domani mattina e senti la differenza 💪🔥"
+    },
+    "tiktok": {
+      "script": [
+        "Cadere ti insegna a rialzarti più forte.",
+        "La delusione costruisce la resilienza atletica.",
+        "Contrai il core per proteggere la schiena.",
+        "Non trattenere il respiro durante lo sforzo.",
+        "Oggi fai 3 minuti di plank dinamico."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Una caduta non è la fine, è il punto di svolta. Mikaela Shiffrin lo sa: ogni atleta vero impara a rialzarsi più forte di prima. Nel fitness vale lo stesso. Il fallimento costruisce muscoli che non sapevi di avere.",
+        "La delusione allena la resilienza più dei successi. Quando salti in buca, il tuo sistema nervoso impara a gestire lo stress. È così che costruisci la forza mentale per spingere oltre i limiti in palestra.",
+        "Prima di ogni sforzo, contrai il core come se dovessi incassare un colpo. Prova: espira e stringi gli addominali verso la colonna. Proteggi la schiena e migliori la potenza in ogni squat o plank. Fallo ora.",
+        "Errore comune: trattenere il respiro sotto carico. Taglia l'ossigeno al cervello e aumenta la pressione. Inspira nella fase facile, espira nello sforzo. Sembra banale, ma è la differenza tra rendere e crollare.",
+        "Oggi ti sfido a 3 minuti di plank dinamico: 30 secondi plank alto, 30 plank gomiti, alterna senza pause. Da domani la tua tenuta mentale e fisica sarà un'altra. Prova e fammi sapere come va 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Cadere ti insegna a rialzarti più forte.",
+    "La delusione costruisce la resilienza atletica.",
+    "Contrai il core per proteggere la schiena.",
+    "Non trattenere il respiro durante lo sforzo.",
+    "Oggi fai 3 minuti di plank dinamico."
+  ],
+  "thread_text": [
+    "Una caduta non è la fine, è il punto di svolta. Mikaela Shiffrin lo sa: ogni atleta vero impara a rialzarsi più forte di prima. Nel fitness vale lo stesso. Il fallimento costruisce muscoli che non sapevi di avere.",
+    "La delusione allena la resilienza più dei successi. Quando salti in buca, il tuo sistema nervoso impara a gestire lo stress. È così che costruisci la forza mentale per spingere oltre i limiti in palestra.",
+    "Prima di ogni sforzo, contrai il core come se dovessi incassare un colpo. Prova: espira e stringi gli addominali verso la colonna. Proteggi la schiena e migliori la potenza in ogni squat o plank. Fallo ora.",
+    "Errore comune: trattenere il respiro sotto carico. Taglia l'ossigeno al cervello e aumenta la pressione. Inspira nella fase facile, espira nello sforzo. Sembra banale, ma è la differenza tra rendere e crollare.",
+    "Oggi ti sfido a 3 minuti di plank dinamico: 30 secondi plank alto, 30 plank gomiti, alterna senza pause. Da domani la tua tenuta mentale e fisica sarà un'altra. Prova e fammi sapere come va 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Cadere per rialzarsi più forti",
+      "description": "Trasforma ogni delusione in carburante per la resilienza atletica. Impara dalle cadute come Shiffrin.",
+      "visual_hint": "Atleta che si rialza",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "athlete rising fall"
+    },
+    {
+      "hook": "Delusione = resilienza",
+      "description": "La frustrazione costruisce muscoli mentali. Usa le sconfitte per rafforzare determinazione e focus.",
+      "visual_hint": "Espressione determinata",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "determined athlete training",
+      "image": "https://images.pexels.com/photos/4720530/pexels-photo-4720530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Contrai il core sempre",
+      "description": "Attiva il core in ogni esercizio per proteggere la schiena e migliorare la stabilità. Base di ogni movimento.",
+      "visual_hint": "Core contratto",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "core engagement plank",
+      "image": "https://images.pexels.com/photos/8436128/pexels-photo-8436128.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non bloccare il respiro",
+      "description": "Trattenere il fiato aumenta la pressione. Espira durante lo sforzo per performance e sicurezza migliori.",
+      "visual_hint": "Respiro consapevole",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "breathing exercise gym",
+      "image": "https://images.pexels.com/photos/20523369/pexels-photo-20523369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Plank dinamico 3 minuti",
+      "description": "Sfida: 3 minuti di plank con variazioni. Brucia il core e costruisci resistenza. Inizia ora!",
+      "visual_hint": "Timer e plank",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "dynamic plank workout",
+      "image": "https://images.pexels.com/photos/14074802/pexels-photo-14074802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/03/31/6245bf46a1f84.jpeg",
+  "savedAt": "2026-05-15T16:10:37.998Z",
+  "sourceId": "9a8b073062393853a6fbb62a63627009"
+}
