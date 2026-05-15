@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "runway-started-by-helping-filmmakers-now-it-wants-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+    "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+    "pubDate": "Fri, 15 May 2026 14:00:00 +0000",
+    "slides": [
+      "Runway helped filmmakers create—but what's its real goal?",
+      "It trained AI on 48 million videos to understand motion.",
+      "Now its model beats Google's in generating human movement.",
+      "Filmmakers using Runway save hours on tedious edits.",
+      "Try generating a 10-second clip and compare with DeepMind."
+    ],
+    "thread_text": [
+      "Un modello AI batte Google nella generazione del movimento umano. E non viene da una big tech.",
+      "Runway ha addestrato il suo modello su 48 milioni di video. Non per capire le parole: per capire come ci muoviamo.",
+      "Il risultato? Una generazione di movimento umano più fluida e realistica di DeepMind. I filmmaker lo usano già.",
+      "Prima servivano ore per animare una camminata. Ora Runway la genera in secondi, e la modifichi in tempo reale.",
+      "Un clip da 10 secondi ti costa meno di un caffè. Vai su Runway, genera un movimento e confrontalo con DeepMind."
+    ],
+    "video_script": [
+      "Runway ha appena battuto Google",
+      "Addestrato su 48 milioni di video",
+      "Ora genera movimenti umani perfetti",
+      "I filmmaker risparmiano ore di editing",
+      "Prova un clip e confrontalo con DeepMind"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Un modello AI batte Google nella generazione del movimento umano. E non viene da una big tech.",
+          "Runway ha addestrato il suo modello su 48 milioni di video. Non per capire le parole: per capire come ci muoviamo.",
+          "Il risultato? Una generazione di movimento umano più fluida e realistica di DeepMind. I filmmaker lo usano già.",
+          "Prima servivano ore per animare una camminata. Ora Runway la genera in secondi, e la modifichi in tempo reale.",
+          "Un clip da 10 secondi ti costa meno di un caffè. Vai su Runway, genera un movimento e confrontalo con DeepMind."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Runway ha appena battuto Google",
+          "Addestrato su 48 milioni di video",
+          "Ora genera movimenti umani perfetti",
+          "I filmmaker risparmiano ore di editing",
+          "Prova un clip e confrontalo con DeepMind"
+        ]
+      },
+      "instagram": {
+        "caption": "Runway ha addestrato un modello su 48 milioni di video, e ora batte DeepMind di Google nella generazione del movimento umano. 🎬 Non si tratta di capire parole, ma di come ci muoviamo: camminate, gesti, espressioni diventano fluidi e realistici in pochi secondi. ⏱️ Per chi lavora con video, significa saltare ore di animazione manuale e modificare il risultato in tempo reale. Un clip da 10 secondi costa meno di un caffè. ☕️ Hai già confrontato il movimento che genera con quello di DeepMind? 👀"
+      }
+    },
+    "instagram_caption": "Runway ha addestrato un modello su 48 milioni di video, e ora batte DeepMind di Google nella generazione del movimento umano. 🎬 Non si tratta di capire parole, ma di come ci muoviamo: camminate, gesti, espressioni diventano fluidi e realistici in pochi secondi. ⏱️ Per chi lavora con video, significa saltare ore di animazione manuale e modificare il risultato in tempo reale. Un clip da 10 secondi costa meno di un caffè. ☕️ Hai già confrontato il movimento che genera con quello di DeepMind? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Batte Google sul movimento",
+        "description": "Un modello AI batte Google nella generazione del movimento umano. E non viene da una big tech.",
+        "visual_hint": "AI vs robot movement",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot human walking comparison"
+      },
+      {
+        "hook": "48 milioni di video",
+        "description": "Runway ha addestrato il suo modello su 48 milioni di video. Non per capire le parole: per capire come ci muoviamo.",
+        "visual_hint": "video frames grid",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "video editing timeline",
+        "image": "https://images.pexels.com/photos/31718971/pexels-photo-31718971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Movimento fluido e reale",
+        "description": "Il risultato? Una generazione di movimento umano più fluida e realistica di DeepMind. I filmmaker lo usano già.",
+        "visual_hint": "smooth motion lines",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "motion capture dots",
+        "image": "https://images.pexels.com/photos/6068548/pexels-photo-6068548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ore diventano secondi",
+        "description": "Prima servivano ore per animare una camminata. Ora Runway la genera in secondi, e la modifichi in tempo reale.",
+        "visual_hint": "hand editing timeline",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand touching screen",
+        "image": "https://images.pexels.com/photos/8490101/pexels-photo-8490101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova con 10 secondi",
+        "description": "Un clip da 10 secondi ti costa meno di un caffè. Vai su Runway, genera un movimento e confrontalo con DeepMind.",
+        "visual_hint": "coffee cup vs AI",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "coffee cup laptop",
+        "image": "https://images.pexels.com/photos/36010265/pexels-photo-36010265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Runway-founders.jpg?resize=1200,960",
+    "savedAt": "2026-05-15T17:26:59.640Z",
+    "sourceId": "91ef357f0757fbac78c2ff239b897944"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-launches-chatgpt-for-personal-finance-will-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "pubDate": "Fri, 15 May 2026 16:00:00 +0000",
+    "slides": [
+      "Il tuo consulente finanziario è già obsoleto?",
+      "OpenAI collega ChatGPT direttamente ai tuoi conti correnti.",
+      "Perché ora legge le tue spese e non solo i dati pubblici.",
+      "Chi non connette i conti perde controllo sulle proprie finanze.",
+      "Apri l’app oggi: confronta le tue transazioni con il suo consiglio."
+    ],
+    "thread_text": [
+      "Openlei legge ogni tuo movimento sul conto. E ti dà consigli su cosa comprare e dove tagliare. Il tuo consulente lo fa?",
+      "Fino a ieri l'AI vedeva solo dati pubblici. Oggi accede alle tue transazioni. Sa quanto spendi in caffè, bollette, assicurazioni.",
+      "Se non connetti i conti, lei non ti conosce. E il suo consiglio resta generico. Chi lo fa ha già un vantaggio concreto.",
+      "La differenza non è tecnica. È che adesso l'AI aggiorna le raccomandazioni in tempo reale, sulle tue abitudini reali, non su un profilo standard.",
+      "Connetti un conto oggi. L'app ti mostra a colpo d'occhio dove i suoi consigli divergono dalle tue spese. Costa meno di un abbonamento Netflix."
+    ],
+    "video_script": [
+      "Il tuo consulente è già vecchio.",
+      "Ora l'AI vede le tue spese.",
+      "Prima leggeva solo notizie pubbliche.",
+      "Chi non connette il conto perde il controllo.",
+      "Prova oggi, confronta le transazioni."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Openlei legge ogni tuo movimento sul conto. E ti dà consigli su cosa comprare e dove tagliare. Il tuo consulente lo fa?",
+          "Fino a ieri l'AI vedeva solo dati pubblici. Oggi accede alle tue transazioni. Sa quanto spendi in caffè, bollette, assicurazioni.",
+          "Se non connetti i conti, lei non ti conosce. E il suo consiglio resta generico. Chi lo fa ha già un vantaggio concreto.",
+          "La differenza non è tecnica. È che adesso l'AI aggiorna le raccomandazioni in tempo reale, sulle tue abitudini reali, non su un profilo standard.",
+          "Connetti un conto oggi. L'app ti mostra a colpo d'occhio dove i suoi consigli divergono dalle tue spese. Costa meno di un abbonamento Netflix."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Il tuo consulente è già vecchio.",
+          "Ora l'AI vede le tue spese.",
+          "Prima leggeva solo notizie pubbliche.",
+          "Chi non connette il conto perde il controllo.",
+          "Prova oggi, confronta le transazioni."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI ha appena sbloccato l'accesso di ChatGPT ai tuoi conti correnti. Fino a ieri l'AI ragionava su dati pubblici; da oggi legge ogni tuo movimento — dal caffè mattutino all'assicurazione annuale. Il consiglio finanziario diventa così personalizzato in tempo reale sulle tue abitudini reali, non su un profilo standard. Se non connetti i conti, il suo parere resta generico, ma chi lo fa ottiene raccomandazioni aggiornate e un confronto immediato tra spese e suggerimenti. Quando è stata l'ultima volta che una banca ti ha fatto risparmiare un abbonamento Netflix? 💳📉🤖💰"
+      }
+    },
+    "instagram_caption": "OpenAI ha appena sbloccato l'accesso di ChatGPT ai tuoi conti correnti. Fino a ieri l'AI ragionava su dati pubblici; da oggi legge ogni tuo movimento — dal caffè mattutino all'assicurazione annuale. Il consiglio finanziario diventa così personalizzato in tempo reale sulle tue abitudini reali, non su un profilo standard. Se non connetti i conti, il suo parere resta generico, ma chi lo fa ottiene raccomandazioni aggiornate e un confronto immediato tra spese e suggerimenti. Quando è stata l'ultima volta che una banca ti ha fatto risparmiare un abbonamento Netflix? 💳📉🤖💰",
+    "carousel_slides": [
+      {
+        "hook": "Il tuo consulente vede tutto",
+        "description": "OpenAI ora legge ogni tuo movimento e dà consigli su cosa tagliare. Il tuo consulente lo fa?",
+        "visual_hint": "Occhio digitale su estratto conto",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "bank statement closeup"
+      },
+      {
+        "hook": "Dati pubblici? Roba vecchia",
+        "description": "Adesso l'AI vede le tue transazioni reali: caffè, bollette, assicurazioni. Non più dati generici.",
+        "visual_hint": "Lista spese mensili evidenziate",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "receipts and coffee",
+        "image": "https://images.pexels.com/photos/4968394/pexels-photo-4968394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non connetti? Non ti conosce",
+        "description": "Senza conti collegati i consigli restano generici. Chi connette ha già un vantaggio concreto.",
+        "visual_hint": "Due cervelli: uno spento, uno acceso",
+        "layout_type": "sensor-zoom",
+        "icon": "waves",
+        "image_query": "server room lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Raccomandazioni in tempo reale",
+        "description": "Aggiorna i consigli sulle tue abitudini reali, non su profili standard. Differenza concreta ogni giorno.",
+        "visual_hint": "Grafico spese che cambia colore",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costa meno di Netflix",
+        "description": "Connetti un conto: confronta spese e consigli. A colpo d'occhio dove divergono.",
+        "visual_hint": "Contrasto tra bolletta e abbonamento",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "smartphone payment screen",
+        "image": "https://images.pexels.com/photos/6214369/pexels-photo-6214369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "savedAt": "2026-05-15T17:26:47.113Z",
+    "sourceId": "ba162ec2cb94c6ccbd04ec7f277d7285"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "us-orders-travelers-on-air-force-one-to-throw-away",
     "prompt_version": "1.0.0",
     "status": "published",

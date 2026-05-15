@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "sabrina-ferilli-l-ultima-star-di-sanremo-la-palest",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Sabrina Ferilli, l’ultima star di Sanremo: la palestra, la dieta mai fatta e l’amore per la Roma  ",
+  "link": "https://www.gazzetta.it/fitness/storie/05-02-2022/sabrina-ferilli-sanremo-2022-finale-sport-roma-curiosita-4301257010009/",
+  "pubDate": "Sat, 5 Feb 2022 15:33:13 +0100",
+  "slides": [
+    "Disciplina senza sacrificio: vero equilibrio.",
+    "Amore per sé prima del peso.",
+    "Cammina ogni giorno con piacere.",
+    "Non saltare pasti per compensare.",
+    "Muoviti oggi per la tua gioia."
+  ],
+  "instagram_caption": "L’equilibrio è il vero segreto: disciplina senza sacrificio non è un sogno, è un metodo. ✨  \nSabrina Ferilli insegna che l’amore per sé vale più del numero sulla bilancia. Cammina ogni giorno con piacere, non per “pagar debiti” con il cibo, ma per onorare il tuo corpo. 🚶‍♀️  \nMai saltare un pasto per “compensare”: ascolta la fame, muoviti per gioia non per punizione.  \nOggi scegli una passeggiata di 20 minuti solo perché ti fa stare bene. Provala subito e senti la differenza. 🔥",
+  "formats": {
+    "instagram": {
+      "caption": "L’equilibrio è il vero segreto: disciplina senza sacrificio non è un sogno, è un metodo. ✨  \nSabrina Ferilli insegna che l’amore per sé vale più del numero sulla bilancia. Cammina ogni giorno con piacere, non per “pagar debiti” con il cibo, ma per onorare il tuo corpo. 🚶‍♀️  \nMai saltare un pasto per “compensare”: ascolta la fame, muoviti per gioia non per punizione.  \nOggi scegli una passeggiata di 20 minuti solo perché ti fa stare bene. Provala subito e senti la differenza. 🔥"
+    },
+    "tiktok": {
+      "script": [
+        "Disciplina senza sacrificio: il vero equilibrio",
+        "Prima ama te stesso, poi il peso",
+        "Cammina ogni giorno con piacere, non per dovere",
+        "Non compensare mai coi pasti saltati",
+        "Muoviti oggi e fallo per la tua gioia"
+      ]
+    },
+    "x": {
+      "thread": [
+        "Sabrina Ferilli a Sanremo stupisce tutti: non ha una dieta ferrea né ore in palestra. Il segreto? Disciplina senza sacrificio. Un equilibrio raro. Ecco cosa possiamo imparare da lei. 👇",
+        "Primo punto: amore per sé prima del peso. Non si tratta di contare calorie, ma di rispettare il tuo corpo. Se ti accetti e ti ascolti, il movimento non è mai una punizione.",
+        "Lei cammina ogni giorno con piacere, non per forza. Camminare 30' a testa alta, all'aria aperta, fa più di un'ora in palestra a testa bassa. Semplice, efficace, sostenibile.",
+        "Errore da evitare: non saltare pasti per compensare. Il corpo sente la mancanza e accumula. Meglio pasti regolari e leggeri. La costanza batto lo sforzo episodico.",
+        "Muoviti oggi per la tua gioia, non per rimediare. Trova un'attività che ami e falla con costanza. Il vero fitness è sentirsi bene nel proprio corpo. Prova domani e dimmi com'è andata 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Disciplina senza sacrificio: il vero equilibrio",
+    "Prima ama te stesso, poi il peso",
+    "Cammina ogni giorno con piacere, non per dovere",
+    "Non compensare mai coi pasti saltati",
+    "Muoviti oggi e fallo per la tua gioia"
+  ],
+  "thread_text": [
+    "Sabrina Ferilli a Sanremo stupisce tutti: non ha una dieta ferrea né ore in palestra. Il segreto? Disciplina senza sacrificio. Un equilibrio raro. Ecco cosa possiamo imparare da lei. 👇",
+    "Primo punto: amore per sé prima del peso. Non si tratta di contare calorie, ma di rispettare il tuo corpo. Se ti accetti e ti ascolti, il movimento non è mai una punizione.",
+    "Lei cammina ogni giorno con piacere, non per forza. Camminare 30' a testa alta, all'aria aperta, fa più di un'ora in palestra a testa bassa. Semplice, efficace, sostenibile.",
+    "Errore da evitare: non saltare pasti per compensare. Il corpo sente la mancanza e accumula. Meglio pasti regolari e leggeri. La costanza batto lo sforzo episodico.",
+    "Muoviti oggi per la tua gioia, non per rimediare. Trova un'attività che ami e falla con costanza. Il vero fitness è sentirsi bene nel proprio corpo. Prova domani e dimmi com'è andata 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Disciplina senza sacrificio",
+      "description": "Trova il tuo equilibrio fitness senza rinunce estreme, come la filosofia di Sabrina Ferilli",
+      "visual_hint": "Donna sorridente yoga",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "woman yoga smile"
+    },
+    {
+      "hook": "Amore per sé prima",
+      "description": "L'allenamento nasce dal rispetto del corpo, non dall'ossessione per il peso",
+      "visual_hint": "Persona si guarda specchio",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "mirror body positivity",
+      "image": "https://images.pexels.com/photos/6782091/pexels-photo-6782091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cammina ogni giorno",
+      "description": "Integra passeggiate quotidiane con piacere per attivare metabolismo e mente",
+      "visual_hint": "Piedi che camminano natura",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "walking nature feet",
+      "image": "https://images.pexels.com/photos/8981013/pexels-photo-8981013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non saltare pasti",
+      "description": "Errore comune: compensare con digiuni. Mangia regolarmente per energia costante",
+      "visual_hint": "Piatto bilanciato colorato",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "balanced meal plate",
+      "image": "https://images.pexels.com/photos/8119916/pexels-photo-8119916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Muoviti per la gioia",
+      "description": "Inizia oggi con 15 minuti di movimento che ami: ballo, camminata o stretching",
+      "visual_hint": "Persona balla felice casa",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "dancing happy home",
+      "image": "https://images.pexels.com/photos/8055533/pexels-photo-8055533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205953b8e21d.jpeg",
+  "savedAt": "2026-05-15T17:39:22.658Z",
+  "sourceId": "bc85d1e797fe5bcdf5e0fb79e58de603"
+}

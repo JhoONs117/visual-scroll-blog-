@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "ecco-un-allenamento-efficace-vantaggi-e-svantaggi-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ecco un allenamento efficace: vantaggi e svantaggi dell’HIIT  ",
+  "link": "https://www.gazzetta.it/fitness/08-02-2022/hiit-high-intensity-interval-training-vantaggi-svantaggi-4301231635008.shtml",
+  "pubDate": "Tue, 8 Feb 2022 08:58:17 +0100",
+  "slides": [
+    "HIIT brucia grassi in metà tempo.",
+    "Massimo risultato, minimo investimento.",
+    "Alterna 20 secondi sprint a 10 recupero.",
+    "Non rallentare mai durante gli sprint.",
+    "Oggi: prova 4 minuti di HIIT."
+  ],
+  "instagram_caption": "Bruci il doppio dei grassi nella metà del tempo, senza bisogno di ore in palestra. 🔥  \nL’HIIT è il segreto per chi vuole massimi risultati con minimo investimento: alterni 20 secondi di sprint all’80% della tua potenza a 10 secondi di recupero attivo. Regola d’oro: non rallentare mai durante gli sprint, nemmeno per un istante.  \nOggi ti sfido: prova solo 4 minuti di HIIT. Cronometro alla mano, dai tutto. Il tuo corpo ti ringrazierà 💪",
+  "formats": {
+    "instagram": {
+      "caption": "Bruci il doppio dei grassi nella metà del tempo, senza bisogno di ore in palestra. 🔥  \nL’HIIT è il segreto per chi vuole massimi risultati con minimo investimento: alterni 20 secondi di sprint all’80% della tua potenza a 10 secondi di recupero attivo. Regola d’oro: non rallentare mai durante gli sprint, nemmeno per un istante.  \nOggi ti sfido: prova solo 4 minuti di HIIT. Cronometro alla mano, dai tutto. Il tuo corpo ti ringrazierà 💪"
+    },
+    "tiktok": {
+      "script": [
+        "HIIT brucia grassi in metà tempo.",
+        "Massimo risultato, minimo investimento.",
+        "Parti: 20 secondi sprint, 10 recupero.",
+        "Il segreto è non rallentare mai.",
+        "Oggi prova 4 minuti di HIIT."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Bruciare grassi in metà tempo? Non è un trucco, è l'HIIT. Il tuo corpo continua a lavorare anche dopo l'allenamento. Efficienza pura per chi ha poco tempo ma pretende risultati seri. 💥",
+        "La struttura è semplice: 20 secondi di sprint totale, 10 di recupero. Massimo sforzo, minima pausa. Ripeti per 8 round. Non serve altro per attivare il metabolismo e risvegliare i muscoli.",
+        "Il segreto? Non rallentare mai durante lo sprint. Se respiri troppo o cali l'intensità, perdi il beneficio centrale dell'HIIT. Spingi al 100%: il tu arriva dopo, non durante.",
+        "Vantaggio? Meno tempo in palestra, più risultati. Svantaggio? È brutale sulle articolazioni se non hai una base atletica. Ascolta il corpo — qualità sopra quantità, sempre.",
+        "Oggi bastano 4 minuti. Imposta un timer, dai tutto in 8 round e registra le tue sensazioni. Prova domani e dimmi com'è andata 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "HIIT brucia grassi in metà tempo.",
+    "Massimo risultato, minimo investimento.",
+    "Parti: 20 secondi sprint, 10 recupero.",
+    "Il segreto è non rallentare mai.",
+    "Oggi prova 4 minuti di HIIT."
+  ],
+  "thread_text": [
+    "Bruciare grassi in metà tempo? Non è un trucco, è l'HIIT. Il tuo corpo continua a lavorare anche dopo l'allenamento. Efficienza pura per chi ha poco tempo ma pretende risultati seri. 💥",
+    "La struttura è semplice: 20 secondi di sprint totale, 10 di recupero. Massimo sforzo, minima pausa. Ripeti per 8 round. Non serve altro per attivare il metabolismo e risvegliare i muscoli.",
+    "Il segreto? Non rallentare mai durante lo sprint. Se respiri troppo o cali l'intensità, perdi il beneficio centrale dell'HIIT. Spingi al 100%: il tu arriva dopo, non durante.",
+    "Vantaggio? Meno tempo in palestra, più risultati. Svantaggio? È brutale sulle articolazioni se non hai una base atletica. Ascolta il corpo — qualità sopra quantità, sempre.",
+    "Oggi bastano 4 minuti. Imposta un timer, dai tutto in 8 round e registra le tue sensazioni. Prova domani e dimmi com'è andata 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Grassi via in metà tempo",
+      "description": "L'HIIT brucia più grassi del cardio tradizionale in meno della metà del tempo. Risultati rapidi e visibili.",
+      "visual_hint": "persona che corre su tapis roulant",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "runner treadmill intense"
+    },
+    {
+      "hook": "Massimo risultato, minimo investimento",
+      "description": "Allenamenti brevi ma intensi. 20 minuti di HIIT valgono più di un'ora di cardio lento. Perfetto per chi ha poco tempo.",
+      "visual_hint": "orologio e manubri",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "dumbbell clock fitness",
+      "image": "https://images.pexels.com/photos/16679868/pexels-photo-16679868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Alterna 20 secondi sprint a 10 recupero",
+      "description": "Tecnica chiave: 20 secondi di scatto massimo, 10 secondi di recupero attivo. Ripeti 8 volte per un totale di 4 minuti.",
+      "visual_hint": "persona che scatta e si ferma",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sprint interval run",
+      "image": "https://images.pexels.com/photos/8533919/pexels-photo-8533919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non rallentare mai durante gli sprint",
+      "description": "Errore comune: accennare la fase intensa. Se non senti fatica, stai sbagliando. Dai sempre il 100% anche negli ultimi sprint.",
+      "visual_hint": "persona esausta che si tiene le ginocchia",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "exhausted athlete recovery",
+      "image": "https://images.pexels.com/photos/6455950/pexels-photo-6455950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova 4 minuti di HIIT oggi",
+      "description": "Inizia subito: 8 round di 20 secondi sprint + 10 recupero. Nessuna scusa, solo risultati. Metti un timer e vai!",
+      "visual_hint": "persona pronta a scattare",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "ready sprint start",
+      "image": "https://images.pexels.com/photos/6436013/pexels-photo-6436013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cd5a668e7.jpeg",
+  "savedAt": "2026-05-15T17:38:47.516Z",
+  "sourceId": "0fa3026757a29751affa1a52c68e9904"
+}

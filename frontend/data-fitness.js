@@ -2,6 +2,318 @@ window.FITNESS_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "fitness",
+    "slug": "sabrina-ferilli-l-ultima-star-di-sanremo-la-palest",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Sabrina Ferilli, l’ultima star di Sanremo: la palestra, la dieta mai fatta e l’amore per la Roma  ",
+    "link": "https://www.gazzetta.it/fitness/storie/05-02-2022/sabrina-ferilli-sanremo-2022-finale-sport-roma-curiosita-4301257010009/",
+    "pubDate": "Sat, 5 Feb 2022 15:33:13 +0100",
+    "slides": [
+      "Disciplina senza sacrificio: vero equilibrio.",
+      "Amore per sé prima del peso.",
+      "Cammina ogni giorno con piacere.",
+      "Non saltare pasti per compensare.",
+      "Muoviti oggi per la tua gioia."
+    ],
+    "instagram_caption": "L’equilibrio è il vero segreto: disciplina senza sacrificio non è un sogno, è un metodo. ✨  \nSabrina Ferilli insegna che l’amore per sé vale più del numero sulla bilancia. Cammina ogni giorno con piacere, non per “pagar debiti” con il cibo, ma per onorare il tuo corpo. 🚶‍♀️  \nMai saltare un pasto per “compensare”: ascolta la fame, muoviti per gioia non per punizione.  \nOggi scegli una passeggiata di 20 minuti solo perché ti fa stare bene. Provala subito e senti la differenza. 🔥",
+    "formats": {
+      "instagram": {
+        "caption": "L’equilibrio è il vero segreto: disciplina senza sacrificio non è un sogno, è un metodo. ✨  \nSabrina Ferilli insegna che l’amore per sé vale più del numero sulla bilancia. Cammina ogni giorno con piacere, non per “pagar debiti” con il cibo, ma per onorare il tuo corpo. 🚶‍♀️  \nMai saltare un pasto per “compensare”: ascolta la fame, muoviti per gioia non per punizione.  \nOggi scegli una passeggiata di 20 minuti solo perché ti fa stare bene. Provala subito e senti la differenza. 🔥"
+      },
+      "tiktok": {
+        "script": [
+          "Disciplina senza sacrificio: il vero equilibrio",
+          "Prima ama te stesso, poi il peso",
+          "Cammina ogni giorno con piacere, non per dovere",
+          "Non compensare mai coi pasti saltati",
+          "Muoviti oggi e fallo per la tua gioia"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Sabrina Ferilli a Sanremo stupisce tutti: non ha una dieta ferrea né ore in palestra. Il segreto? Disciplina senza sacrificio. Un equilibrio raro. Ecco cosa possiamo imparare da lei. 👇",
+          "Primo punto: amore per sé prima del peso. Non si tratta di contare calorie, ma di rispettare il tuo corpo. Se ti accetti e ti ascolti, il movimento non è mai una punizione.",
+          "Lei cammina ogni giorno con piacere, non per forza. Camminare 30' a testa alta, all'aria aperta, fa più di un'ora in palestra a testa bassa. Semplice, efficace, sostenibile.",
+          "Errore da evitare: non saltare pasti per compensare. Il corpo sente la mancanza e accumula. Meglio pasti regolari e leggeri. La costanza batto lo sforzo episodico.",
+          "Muoviti oggi per la tua gioia, non per rimediare. Trova un'attività che ami e falla con costanza. Il vero fitness è sentirsi bene nel proprio corpo. Prova domani e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Disciplina senza sacrificio: il vero equilibrio",
+      "Prima ama te stesso, poi il peso",
+      "Cammina ogni giorno con piacere, non per dovere",
+      "Non compensare mai coi pasti saltati",
+      "Muoviti oggi e fallo per la tua gioia"
+    ],
+    "thread_text": [
+      "Sabrina Ferilli a Sanremo stupisce tutti: non ha una dieta ferrea né ore in palestra. Il segreto? Disciplina senza sacrificio. Un equilibrio raro. Ecco cosa possiamo imparare da lei. 👇",
+      "Primo punto: amore per sé prima del peso. Non si tratta di contare calorie, ma di rispettare il tuo corpo. Se ti accetti e ti ascolti, il movimento non è mai una punizione.",
+      "Lei cammina ogni giorno con piacere, non per forza. Camminare 30' a testa alta, all'aria aperta, fa più di un'ora in palestra a testa bassa. Semplice, efficace, sostenibile.",
+      "Errore da evitare: non saltare pasti per compensare. Il corpo sente la mancanza e accumula. Meglio pasti regolari e leggeri. La costanza batto lo sforzo episodico.",
+      "Muoviti oggi per la tua gioia, non per rimediare. Trova un'attività che ami e falla con costanza. Il vero fitness è sentirsi bene nel proprio corpo. Prova domani e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Disciplina senza sacrificio",
+        "description": "Trova il tuo equilibrio fitness senza rinunce estreme, come la filosofia di Sabrina Ferilli",
+        "visual_hint": "Donna sorridente yoga",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "woman yoga smile"
+      },
+      {
+        "hook": "Amore per sé prima",
+        "description": "L'allenamento nasce dal rispetto del corpo, non dall'ossessione per il peso",
+        "visual_hint": "Persona si guarda specchio",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "mirror body positivity",
+        "image": "https://images.pexels.com/photos/6782091/pexels-photo-6782091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cammina ogni giorno",
+        "description": "Integra passeggiate quotidiane con piacere per attivare metabolismo e mente",
+        "visual_hint": "Piedi che camminano natura",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "walking nature feet",
+        "image": "https://images.pexels.com/photos/8981013/pexels-photo-8981013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non saltare pasti",
+        "description": "Errore comune: compensare con digiuni. Mangia regolarmente per energia costante",
+        "visual_hint": "Piatto bilanciato colorato",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "balanced meal plate",
+        "image": "https://images.pexels.com/photos/8119916/pexels-photo-8119916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Muoviti per la gioia",
+        "description": "Inizia oggi con 15 minuti di movimento che ami: ballo, camminata o stretching",
+        "visual_hint": "Persona balla felice casa",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "dancing happy home",
+        "image": "https://images.pexels.com/photos/8055533/pexels-photo-8055533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205953b8e21d.jpeg",
+    "savedAt": "2026-05-15T17:39:22.658Z",
+    "sourceId": "bc85d1e797fe5bcdf5e0fb79e58de603"
+  },
+  {
+    "schema_version": 2,
+    "agent": "fitness",
+    "slug": "cosa-succede-al-tuo-corpo-quando-non-fai-stretchin",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Cosa succede al tuo corpo quando non fai stretching  ",
+    "link": "https://www.gazzetta.it/fitness/allenamento/07-02-2022/stretching-come-educare-muscoli-flessibilita-4301230102825.shtml",
+    "pubDate": "Mon, 7 Feb 2022 09:37:35 +0100",
+    "slides": [
+      "Lo stretching ti ringiovanisce ogni giorno.",
+      "Previeni infortuni e migliori la flessibilità.",
+      "Allunga il muscolo in espirazione lenta.",
+      "Non rimbalzare durante l'allungamento statico.",
+      "Stretching 10 minuti dopo ogni allenamento."
+    ],
+    "instagram_caption": "Senza flessibilità, il tuo corpo invecchia più velocemente. Lo stretching non è un optional: è la manutenzione quotidiana del tuo sistema muscolare e articolare. 🧘‍♂️\n\nOgni allungamento va eseguito in espirazione lenta e progressiva – senza rimbalzare – per rilasciare la tensione in profondità. 10 minuti dopo ogni allenamento prevengono infortuni e migliorano la mobilità nel lungo periodo. 💆‍♂️\n\nNon aspettare che il tuo corpo si \"blocchi\". Prepara il tappetino e dedica 10 minuti allo stretching nell’attimo in cui finisci l’ultima ripetizione. 🔥",
+    "formats": {
+      "instagram": {
+        "caption": "Senza flessibilità, il tuo corpo invecchia più velocemente. Lo stretching non è un optional: è la manutenzione quotidiana del tuo sistema muscolare e articolare. 🧘‍♂️\n\nOgni allungamento va eseguito in espirazione lenta e progressiva – senza rimbalzare – per rilasciare la tensione in profondità. 10 minuti dopo ogni allenamento prevengono infortuni e migliorano la mobilità nel lungo periodo. 💆‍♂️\n\nNon aspettare che il tuo corpo si \"blocchi\". Prepara il tappetino e dedica 10 minuti allo stretching nell’attimo in cui finisci l’ultima ripetizione. 🔥"
+      },
+      "tiktok": {
+        "script": [
+          "Lo stretching ti ringiovanisce ogni giorno, dai!",
+          "Previeni infortuni e diventi più flessibile.",
+          "Allunga il muscolo solo in espirazione lenta.",
+          "Evita questo errore: non rimbalzare mai.",
+          "Fai 10 minuti di stretching dopo ogni workout."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Non fai stretching? Stai invecchiando i tuoi muscoli ogni giorno. La rigidità è il primo segnale che il corpo perde elasticità. Recuperala ora. 💪",
+          "La regola d'oro: allunga il muscolo SOLO in espirazione lenta. Entri nella posizione, butti fuori l'aria e senti il rilascio. Trattenere il respiro blocca il beneficio.",
+          "Errore comune: rimbalzare durante lo stretching statico. Quel movimento brusco attiva il riflesso di stiramento e il muscolo si contrae, invece di allungarsi. Fermo e progressivo.",
+          "10 minuti dopo ogni allenamento. Non serve di più. Fai: 30 sec per gruppo muscolare, respiro profondo, nessun dolore. Così previeni infortuni e migliori la flessibilità.",
+          "Domani dopo il workout prova il mio miniprotocollo: 10 minuti di stretching a respiro lento. Scrivimi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Lo stretching ti ringiovanisce ogni giorno, dai!",
+      "Previeni infortuni e diventi più flessibile.",
+      "Allunga il muscolo solo in espirazione lenta.",
+      "Evita questo errore: non rimbalzare mai.",
+      "Fai 10 minuti di stretching dopo ogni workout."
+    ],
+    "thread_text": [
+      "Non fai stretching? Stai invecchiando i tuoi muscoli ogni giorno. La rigidità è il primo segnale che il corpo perde elasticità. Recuperala ora. 💪",
+      "La regola d'oro: allunga il muscolo SOLO in espirazione lenta. Entri nella posizione, butti fuori l'aria e senti il rilascio. Trattenere il respiro blocca il beneficio.",
+      "Errore comune: rimbalzare durante lo stretching statico. Quel movimento brusco attiva il riflesso di stiramento e il muscolo si contrae, invece di allungarsi. Fermo e progressivo.",
+      "10 minuti dopo ogni allenamento. Non serve di più. Fai: 30 sec per gruppo muscolare, respiro profondo, nessun dolore. Così previeni infortuni e migliori la flessibilità.",
+      "Domani dopo il workout prova il mio miniprotocollo: 10 minuti di stretching a respiro lento. Scrivimi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Lo stretching ti ringiovanisce ogni giorno",
+        "description": "Previeni infortuni e migliori la flessibilità con una pratica quotidiana di soli 10 minuti",
+        "visual_hint": "persona giovane che si stiracchia",
+        "layout_type": "hero",
+        "icon": "heart",
+        "image_query": "stretching person morning"
+      },
+      {
+        "hook": "Allunga il muscolo in espirazione lenta",
+        "description": "Abbassa lo stress muscolare e guadagna centimetri di flessibilità a ogni respiro controllato",
+        "visual_hint": "donna in affondo-espirazione",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "yoga pose woman",
+        "image": "https://images.pexels.com/photos/34395932/pexels-photo-34395932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non rimbalzare durante l'allungamento statico",
+        "description": "Il rimbalzo attiva il riflesso di stiramento e blocca il rilascio muscolare. Tieni la posizione stabile e respira",
+        "visual_hint": "uomo seduto gambe tese frontale",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "static stretch man",
+        "image": "https://images.pexels.com/photos/8401135/pexels-photo-8401135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Errore comune: rimbalzare",
+        "description": "Invece di rimbalzare, trattieni l'allungamento 20-30 secondi con espirazione lenta e profonda",
+        "visual_hint": "mano che ferma movimento rimbalzante",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand stretch control",
+        "image": "https://images.pexels.com/photos/7241493/pexels-photo-7241493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "10 minuti dopo ogni allenamento",
+        "description": "Inserisci lo stretching nella tua routine post-workout. Salva questo carousel e inizia oggi!",
+        "visual_hint": "orologio su tappetino fitness",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "gym mat timer",
+        "image": "https://images.pexels.com/photos/4944001/pexels-photo-4944001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cc919c701.jpeg",
+    "savedAt": "2026-05-15T17:39:05.445Z",
+    "sourceId": "3735cc25c36f44e59b84a722ad195269"
+  },
+  {
+    "schema_version": 2,
+    "agent": "fitness",
+    "slug": "ecco-un-allenamento-efficace-vantaggi-e-svantaggi-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Ecco un allenamento efficace: vantaggi e svantaggi dell’HIIT  ",
+    "link": "https://www.gazzetta.it/fitness/08-02-2022/hiit-high-intensity-interval-training-vantaggi-svantaggi-4301231635008.shtml",
+    "pubDate": "Tue, 8 Feb 2022 08:58:17 +0100",
+    "slides": [
+      "HIIT brucia grassi in metà tempo.",
+      "Massimo risultato, minimo investimento.",
+      "Alterna 20 secondi sprint a 10 recupero.",
+      "Non rallentare mai durante gli sprint.",
+      "Oggi: prova 4 minuti di HIIT."
+    ],
+    "instagram_caption": "Bruci il doppio dei grassi nella metà del tempo, senza bisogno di ore in palestra. 🔥  \nL’HIIT è il segreto per chi vuole massimi risultati con minimo investimento: alterni 20 secondi di sprint all’80% della tua potenza a 10 secondi di recupero attivo. Regola d’oro: non rallentare mai durante gli sprint, nemmeno per un istante.  \nOggi ti sfido: prova solo 4 minuti di HIIT. Cronometro alla mano, dai tutto. Il tuo corpo ti ringrazierà 💪",
+    "formats": {
+      "instagram": {
+        "caption": "Bruci il doppio dei grassi nella metà del tempo, senza bisogno di ore in palestra. 🔥  \nL’HIIT è il segreto per chi vuole massimi risultati con minimo investimento: alterni 20 secondi di sprint all’80% della tua potenza a 10 secondi di recupero attivo. Regola d’oro: non rallentare mai durante gli sprint, nemmeno per un istante.  \nOggi ti sfido: prova solo 4 minuti di HIIT. Cronometro alla mano, dai tutto. Il tuo corpo ti ringrazierà 💪"
+      },
+      "tiktok": {
+        "script": [
+          "HIIT brucia grassi in metà tempo.",
+          "Massimo risultato, minimo investimento.",
+          "Parti: 20 secondi sprint, 10 recupero.",
+          "Il segreto è non rallentare mai.",
+          "Oggi prova 4 minuti di HIIT."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Bruciare grassi in metà tempo? Non è un trucco, è l'HIIT. Il tuo corpo continua a lavorare anche dopo l'allenamento. Efficienza pura per chi ha poco tempo ma pretende risultati seri. 💥",
+          "La struttura è semplice: 20 secondi di sprint totale, 10 di recupero. Massimo sforzo, minima pausa. Ripeti per 8 round. Non serve altro per attivare il metabolismo e risvegliare i muscoli.",
+          "Il segreto? Non rallentare mai durante lo sprint. Se respiri troppo o cali l'intensità, perdi il beneficio centrale dell'HIIT. Spingi al 100%: il tu arriva dopo, non durante.",
+          "Vantaggio? Meno tempo in palestra, più risultati. Svantaggio? È brutale sulle articolazioni se non hai una base atletica. Ascolta il corpo — qualità sopra quantità, sempre.",
+          "Oggi bastano 4 minuti. Imposta un timer, dai tutto in 8 round e registra le tue sensazioni. Prova domani e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "HIIT brucia grassi in metà tempo.",
+      "Massimo risultato, minimo investimento.",
+      "Parti: 20 secondi sprint, 10 recupero.",
+      "Il segreto è non rallentare mai.",
+      "Oggi prova 4 minuti di HIIT."
+    ],
+    "thread_text": [
+      "Bruciare grassi in metà tempo? Non è un trucco, è l'HIIT. Il tuo corpo continua a lavorare anche dopo l'allenamento. Efficienza pura per chi ha poco tempo ma pretende risultati seri. 💥",
+      "La struttura è semplice: 20 secondi di sprint totale, 10 di recupero. Massimo sforzo, minima pausa. Ripeti per 8 round. Non serve altro per attivare il metabolismo e risvegliare i muscoli.",
+      "Il segreto? Non rallentare mai durante lo sprint. Se respiri troppo o cali l'intensità, perdi il beneficio centrale dell'HIIT. Spingi al 100%: il tu arriva dopo, non durante.",
+      "Vantaggio? Meno tempo in palestra, più risultati. Svantaggio? È brutale sulle articolazioni se non hai una base atletica. Ascolta il corpo — qualità sopra quantità, sempre.",
+      "Oggi bastano 4 minuti. Imposta un timer, dai tutto in 8 round e registra le tue sensazioni. Prova domani e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Grassi via in metà tempo",
+        "description": "L'HIIT brucia più grassi del cardio tradizionale in meno della metà del tempo. Risultati rapidi e visibili.",
+        "visual_hint": "persona che corre su tapis roulant",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "runner treadmill intense"
+      },
+      {
+        "hook": "Massimo risultato, minimo investimento",
+        "description": "Allenamenti brevi ma intensi. 20 minuti di HIIT valgono più di un'ora di cardio lento. Perfetto per chi ha poco tempo.",
+        "visual_hint": "orologio e manubri",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "dumbbell clock fitness",
+        "image": "https://images.pexels.com/photos/16679868/pexels-photo-16679868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Alterna 20 secondi sprint a 10 recupero",
+        "description": "Tecnica chiave: 20 secondi di scatto massimo, 10 secondi di recupero attivo. Ripeti 8 volte per un totale di 4 minuti.",
+        "visual_hint": "persona che scatta e si ferma",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "sprint interval run",
+        "image": "https://images.pexels.com/photos/8533919/pexels-photo-8533919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non rallentare mai durante gli sprint",
+        "description": "Errore comune: accennare la fase intensa. Se non senti fatica, stai sbagliando. Dai sempre il 100% anche negli ultimi sprint.",
+        "visual_hint": "persona esausta che si tiene le ginocchia",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "exhausted athlete recovery",
+        "image": "https://images.pexels.com/photos/6455950/pexels-photo-6455950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova 4 minuti di HIIT oggi",
+        "description": "Inizia subito: 8 round di 20 secondi sprint + 10 recupero. Nessuna scusa, solo risultati. Metti un timer e vai!",
+        "visual_hint": "persona pronta a scattare",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "ready sprint start",
+        "image": "https://images.pexels.com/photos/6436013/pexels-photo-6436013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cd5a668e7.jpeg",
+    "savedAt": "2026-05-15T17:38:47.516Z",
+    "sourceId": "0fa3026757a29751affa1a52c68e9904"
+  },
+  {
+    "schema_version": 2,
+    "agent": "fitness",
     "slug": "stefania-constantini-tra-curling-palestra-il-lavor",
     "prompt_version": "1.0.0",
     "status": "published",
