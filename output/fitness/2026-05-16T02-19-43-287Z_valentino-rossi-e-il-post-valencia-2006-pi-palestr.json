@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "valentino-rossi-e-il-post-valencia-2006-pi-palestr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Valentino Rossi e il post Valencia 2006: \"Più palestra per tornare campione\"  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/29-01-2022/valentino-rossi-post-valencia-2006-piu-palestra-tornare-campione-4301137867007.shtml",
+  "pubDate": "Sat, 29 Jan 2022 11:02:53 +0100",
+  "slides": [
+    "Cadere per rialzarsi più forte. Sempre.",
+    "La rabbia è benzina per il cambiamento.",
+    "Forza esplosiva: squat jump con peso leggero.",
+    "Allenarsi stanco da frustrazione, non da fatica.",
+    "Oggi allenamento esplosivo: 5 serie da 8 squat jump."
+  ],
+  "instagram_caption": "Per trasformare una caduta in un ritorno, devi allenare prima la testa e poi i muscoli. 🏍️💥  \n\nValentino Rossi dopo Valencia 2006 non ha pianto: ha riempito la palestra di squat jump con peso leggero. Forza esplosiva per ribaltare la frustrazione in potenza.  \n\nAllenarsi stanco da rabbia, non da fatica — così si costruiscono gambe da campione.  \n\nOggi 5 serie da 8 squat jump: esplodi su, atterra leggero. ⚡  \n\nProva questo allenamento e senti la differenza già domani 🔥",
+  "formats": {
+    "instagram": {
+      "caption": "Per trasformare una caduta in un ritorno, devi allenare prima la testa e poi i muscoli. 🏍️💥  \n\nValentino Rossi dopo Valencia 2006 non ha pianto: ha riempito la palestra di squat jump con peso leggero. Forza esplosiva per ribaltare la frustrazione in potenza.  \n\nAllenarsi stanco da rabbia, non da fatica — così si costruiscono gambe da campione.  \n\nOggi 5 serie da 8 squat jump: esplodi su, atterra leggero. ⚡  \n\nProva questo allenamento e senti la differenza già domani 🔥"
+    },
+    "tiktok": {
+      "script": [
+        "Cadere per rialzarsi più forte, sempre.",
+        "La rabbia è benzina per il cambiamento.",
+        "Forza esplosiva: squat jump con poco peso.",
+        "Allenati stanco da frustrazione, non da fatica.",
+        "Oggi: 5 serie da 8 squat jump. Parti ora."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Perdere un Mondiale all'ultima curva può distruggerti. \n\nValentino Rossi nel 2006 scelse di rialzarsi. Con un'arma: più forza e potenza. \nEcco come trasformare la delusione in esplosività reale.",
+        "La rabbia è benzina per il cambiamento. \nLui non si è allenato per dimenticare, ma per sfidare i propri limiti. \nForza esplosiva = reattività mentale. Il corpo segue la mente quando scalpita.",
+        "Squat jump con peso leggero: massimo attacco a terra, minimo tempo di contatto. \nNon serve il carico massimale. Serve la velocità di reazione. Come in curva quando devi riaccelerare. \nPotenza pura, non muscoli lenti.",
+        "Errore da evitare: \nAllenarsi stanco da frustrazione ≠ produttività. \nAllenarsi stanco da fatica accumulata è fumo. \nLa differenza? 5 serie da 8 squat jump con intensità mentale al 100%.",
+        "Oggi proviamo il protocollo esplosivo di Vale: \n5 serie da 8 squat jump con peso leggero, recupero 90 secondi. \nLa caduta è una mossa. La risalita è la firma. \nProva domani e dimmi com'è andata 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Cadere per rialzarsi più forte, sempre.",
+    "La rabbia è benzina per il cambiamento.",
+    "Forza esplosiva: squat jump con poco peso.",
+    "Allenati stanco da frustrazione, non da fatica.",
+    "Oggi: 5 serie da 8 squat jump. Parti ora."
+  ],
+  "thread_text": [
+    "Perdere un Mondiale all'ultima curva può distruggerti. \n\nValentino Rossi nel 2006 scelse di rialzarsi. Con un'arma: più forza e potenza. \nEcco come trasformare la delusione in esplosività reale.",
+    "La rabbia è benzina per il cambiamento. \nLui non si è allenato per dimenticare, ma per sfidare i propri limiti. \nForza esplosiva = reattività mentale. Il corpo segue la mente quando scalpita.",
+    "Squat jump con peso leggero: massimo attacco a terra, minimo tempo di contatto. \nNon serve il carico massimale. Serve la velocità di reazione. Come in curva quando devi riaccelerare. \nPotenza pura, non muscoli lenti.",
+    "Errore da evitare: \nAllenarsi stanco da frustrazione ≠ produttività. \nAllenarsi stanco da fatica accumulata è fumo. \nLa differenza? 5 serie da 8 squat jump con intensità mentale al 100%.",
+    "Oggi proviamo il protocollo esplosivo di Vale: \n5 serie da 8 squat jump con peso leggero, recupero 90 secondi. \nLa caduta è una mossa. La risalita è la firma. \nProva domani e dimmi com'è andata 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Rinascita esplosiva dopo una caduta",
+      "description": "Trasforma la sconfitta in forza esplosiva per tornare più forte di prima.",
+      "visual_hint": "Squat jump determinato",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "athlete squat jump gym"
+    },
+    {
+      "hook": "La rabbia come benzina",
+      "description": "Usa la frustrazione per spingerti oltre i limiti, non per distruggerti.",
+      "visual_hint": "Atleta concentrato e carico",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "angry athlete workout focus",
+      "image": "https://images.pexels.com/photos/9644820/pexels-photo-9644820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Squat jump con peso leggero",
+      "description": "Carico ridotto, esplosività massima: salta più alto e più veloce senza infortunarti.",
+      "visual_hint": "Squat jump con manubri",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "dumbbell squat jump explosive",
+      "image": "https://images.pexels.com/photos/36990296/pexels-photo-36990296.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Errore: fermarsi alla fatica",
+      "description": "Non allenarti per fatica ma per frustrazione: ogni ripetizione è una vittoria emotiva.",
+      "visual_hint": "Atleta accasciato vs esplosivo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "tired athlete vs explosive jump",
+      "image": "https://images.pexels.com/photos/32780577/pexels-photo-32780577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova oggi: 5x8 squat jump",
+      "description": "5 serie da 8 ripetizioni, pausa 60 secondi. Carica la rabbia e salta più in alto.",
+      "visual_hint": "Scheda allenamento esplosivo",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "workout plan squat jump set",
+      "image": "https://images.pexels.com/photos/14599068/pexels-photo-14599068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c0f4ede25.jpeg",
+  "savedAt": "2026-05-16T02:20:35.620Z",
+  "sourceId": "077647591f2847617d57be61ecfea4d3"
+}

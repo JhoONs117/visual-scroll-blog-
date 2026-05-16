@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "general-catalyst-posted-vc-rage-bait-and-it-worked",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
+    "link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
+    "pubDate": "Fri, 15 May 2026 20:25:35 +0000",
+    "slides": [
+      "General Catalyst postò un affondo. Perché a16z abboccò?",
+      "La mossa attaccava il modello di venture più sacro.",
+      "L'audience di a16z rispose con rabbia e difese.",
+      "Chiunque usi LinkedIn ha una leva simile ora.",
+      "Non replicare i competitor. Accendi la loro audience."
+    ],
+    "thread_text": [
+      "L'audience di a16z ha risposto con rabbia e difese. Perché una mossa su LinkedIn ha acceso una reazione così forte?",
+      "General Catalyst ha postato un attacco diretto al modello di venture più sacro: quello delle società in portafoglio.",
+      "Il post non parlava ai competitor, ma al loro pubblico. Ha acceso una leva che chiunque su LinkedIn può usare.",
+      "La tensione è esplosa perché l'attacco colpiva un dogma, non un rivale. Il pubblico ha difeso il proprio ecosistema.",
+      "Non replicare i competitor. Accendi la loro audience. Costa meno di una cena fuori e funziona questa settimana."
+    ],
+    "video_script": [
+      "Hai visto la reazione furiosa dell'audience di a16z?",
+      "General Catalyst ha attaccato il modello di venture più sacro.",
+      "Non parlavano ai competitor, ma al loro pubblico.",
+      "Chiunque su LinkedIn ha questa leva adesso.",
+      "Non replicare i competitor. Accendi la loro audience."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "L'audience di a16z ha risposto con rabbia e difese. Perché una mossa su LinkedIn ha acceso una reazione così forte?",
+          "General Catalyst ha postato un attacco diretto al modello di venture più sacro: quello delle società in portafoglio.",
+          "Il post non parlava ai competitor, ma al loro pubblico. Ha acceso una leva che chiunque su LinkedIn può usare.",
+          "La tensione è esplosa perché l'attacco colpiva un dogma, non un rivale. Il pubblico ha difeso il proprio ecosistema.",
+          "Non replicare i competitor. Accendi la loro audience. Costa meno di una cena fuori e funziona questa settimana."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hai visto la reazione furiosa dell'audience di a16z?",
+          "General Catalyst ha attaccato il modello di venture più sacro.",
+          "Non parlavano ai competitor, ma al loro pubblico.",
+          "Chiunque su LinkedIn ha questa leva adesso.",
+          "Non replicare i competitor. Accendi la loro audience."
+        ]
+      },
+      "instagram": {
+        "caption": "General Catalyst ha postato un attacco al modello di venture più sacro di a16z su LinkedIn, e la loro audience è esplosa di difese e rabbia 🎯. L'affondo non parlava ai competitor, ma al pubblico avversario, colpendo un dogma che ha scatenato l'istinto di proteggere l'ecosistema 🔥. Ora chiunque su LinkedIn può usare la stessa leva: non replicare i rivali, ma accendere la loro audience 💡. Non ti serve un budget: costa meno di una cena fuori e funziona questa settimana. Quanto vale il tuo prossimo post?"
+      }
+    },
+    "instagram_caption": "General Catalyst ha postato un attacco al modello di venture più sacro di a16z su LinkedIn, e la loro audience è esplosa di difese e rabbia 🎯. L'affondo non parlava ai competitor, ma al pubblico avversario, colpendo un dogma che ha scatenato l'istinto di proteggere l'ecosistema 🔥. Ora chiunque su LinkedIn può usare la stessa leva: non replicare i rivali, ma accendere la loro audience 💡. Non ti serve un budget: costa meno di una cena fuori e funziona questa settimana. Quanto vale il tuo prossimo post?",
+    "carousel_slides": [
+      {
+        "hook": "Perché a16z ha abboccato?",
+        "description": "L'audience di a16z ha risposto con rabbia e difese. Una mossa su LinkedIn ha acceso una reazione potente.",
+        "visual_hint": "esplosione di commenti",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer screen comments"
+      },
+      {
+        "hook": "Attacco al modello sacro",
+        "description": "General Catalyst ha postato un attacco diretto al modello di venture più sacro: quello delle società in portafoglio.",
+        "visual_hint": "bersaglio colpito",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "target with arrow",
+        "image": "https://images.pexels.com/photos/24193965/pexels-photo-24193965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non parlava ai rivali",
+        "description": "Il post non parlava ai competitor, ma al loro pubblico. Ha acceso una leva che chiunque su LinkedIn può usare.",
+        "visual_hint": "microfono davanti folla",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "microphone crowd",
+        "image": "https://images.pexels.com/photos/10543763/pexels-photo-10543763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "La tensione è esplosa",
+        "description": "L'attacco colpiva un dogma, non un rivale. Il pubblico ha difeso il proprio ecosistema con rabbia.",
+        "visual_hint": "fiamme schermo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand hitting screen",
+        "image": "https://images.pexels.com/photos/8833429/pexels-photo-8833429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Accendi la loro audience",
+        "description": "Non replicare i competitor. Accendi la loro audience. Costa meno di una cena fuori e funziona subito.",
+        "visual_hint": "interruttore acceso",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "light switch on",
+        "image": "https://images.pexels.com/photos/33688150/pexels-photo-33688150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Rage-bait.png?resize=1200,960",
+    "savedAt": "2026-05-16T02:07:55.898Z",
+    "sourceId": "0c3f2056c2d6d50a60db865700799d36"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "rj-scaringe-has-raised-more-than-12b-across-three-",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -2,6 +2,318 @@ window.FITNESS_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "fitness",
+    "slug": "valentino-rossi-e-il-post-valencia-2006-pi-palestr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Valentino Rossi e il post Valencia 2006: \"Più palestra per tornare campione\"  ",
+    "link": "https://www.gazzetta.it/fitness/allenamento/29-01-2022/valentino-rossi-post-valencia-2006-piu-palestra-tornare-campione-4301137867007.shtml",
+    "pubDate": "Sat, 29 Jan 2022 11:02:53 +0100",
+    "slides": [
+      "Cadere per rialzarsi più forte. Sempre.",
+      "La rabbia è benzina per il cambiamento.",
+      "Forza esplosiva: squat jump con peso leggero.",
+      "Allenarsi stanco da frustrazione, non da fatica.",
+      "Oggi allenamento esplosivo: 5 serie da 8 squat jump."
+    ],
+    "instagram_caption": "Per trasformare una caduta in un ritorno, devi allenare prima la testa e poi i muscoli. 🏍️💥  \n\nValentino Rossi dopo Valencia 2006 non ha pianto: ha riempito la palestra di squat jump con peso leggero. Forza esplosiva per ribaltare la frustrazione in potenza.  \n\nAllenarsi stanco da rabbia, non da fatica — così si costruiscono gambe da campione.  \n\nOggi 5 serie da 8 squat jump: esplodi su, atterra leggero. ⚡  \n\nProva questo allenamento e senti la differenza già domani 🔥",
+    "formats": {
+      "instagram": {
+        "caption": "Per trasformare una caduta in un ritorno, devi allenare prima la testa e poi i muscoli. 🏍️💥  \n\nValentino Rossi dopo Valencia 2006 non ha pianto: ha riempito la palestra di squat jump con peso leggero. Forza esplosiva per ribaltare la frustrazione in potenza.  \n\nAllenarsi stanco da rabbia, non da fatica — così si costruiscono gambe da campione.  \n\nOggi 5 serie da 8 squat jump: esplodi su, atterra leggero. ⚡  \n\nProva questo allenamento e senti la differenza già domani 🔥"
+      },
+      "tiktok": {
+        "script": [
+          "Cadere per rialzarsi più forte, sempre.",
+          "La rabbia è benzina per il cambiamento.",
+          "Forza esplosiva: squat jump con poco peso.",
+          "Allenati stanco da frustrazione, non da fatica.",
+          "Oggi: 5 serie da 8 squat jump. Parti ora."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Perdere un Mondiale all'ultima curva può distruggerti. \n\nValentino Rossi nel 2006 scelse di rialzarsi. Con un'arma: più forza e potenza. \nEcco come trasformare la delusione in esplosività reale.",
+          "La rabbia è benzina per il cambiamento. \nLui non si è allenato per dimenticare, ma per sfidare i propri limiti. \nForza esplosiva = reattività mentale. Il corpo segue la mente quando scalpita.",
+          "Squat jump con peso leggero: massimo attacco a terra, minimo tempo di contatto. \nNon serve il carico massimale. Serve la velocità di reazione. Come in curva quando devi riaccelerare. \nPotenza pura, non muscoli lenti.",
+          "Errore da evitare: \nAllenarsi stanco da frustrazione ≠ produttività. \nAllenarsi stanco da fatica accumulata è fumo. \nLa differenza? 5 serie da 8 squat jump con intensità mentale al 100%.",
+          "Oggi proviamo il protocollo esplosivo di Vale: \n5 serie da 8 squat jump con peso leggero, recupero 90 secondi. \nLa caduta è una mossa. La risalita è la firma. \nProva domani e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Cadere per rialzarsi più forte, sempre.",
+      "La rabbia è benzina per il cambiamento.",
+      "Forza esplosiva: squat jump con poco peso.",
+      "Allenati stanco da frustrazione, non da fatica.",
+      "Oggi: 5 serie da 8 squat jump. Parti ora."
+    ],
+    "thread_text": [
+      "Perdere un Mondiale all'ultima curva può distruggerti. \n\nValentino Rossi nel 2006 scelse di rialzarsi. Con un'arma: più forza e potenza. \nEcco come trasformare la delusione in esplosività reale.",
+      "La rabbia è benzina per il cambiamento. \nLui non si è allenato per dimenticare, ma per sfidare i propri limiti. \nForza esplosiva = reattività mentale. Il corpo segue la mente quando scalpita.",
+      "Squat jump con peso leggero: massimo attacco a terra, minimo tempo di contatto. \nNon serve il carico massimale. Serve la velocità di reazione. Come in curva quando devi riaccelerare. \nPotenza pura, non muscoli lenti.",
+      "Errore da evitare: \nAllenarsi stanco da frustrazione ≠ produttività. \nAllenarsi stanco da fatica accumulata è fumo. \nLa differenza? 5 serie da 8 squat jump con intensità mentale al 100%.",
+      "Oggi proviamo il protocollo esplosivo di Vale: \n5 serie da 8 squat jump con peso leggero, recupero 90 secondi. \nLa caduta è una mossa. La risalita è la firma. \nProva domani e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Rinascita esplosiva dopo una caduta",
+        "description": "Trasforma la sconfitta in forza esplosiva per tornare più forte di prima.",
+        "visual_hint": "Squat jump determinato",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "athlete squat jump gym"
+      },
+      {
+        "hook": "La rabbia come benzina",
+        "description": "Usa la frustrazione per spingerti oltre i limiti, non per distruggerti.",
+        "visual_hint": "Atleta concentrato e carico",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "angry athlete workout focus",
+        "image": "https://images.pexels.com/photos/9644820/pexels-photo-9644820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Squat jump con peso leggero",
+        "description": "Carico ridotto, esplosività massima: salta più alto e più veloce senza infortunarti.",
+        "visual_hint": "Squat jump con manubri",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "dumbbell squat jump explosive",
+        "image": "https://images.pexels.com/photos/36990296/pexels-photo-36990296.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Errore: fermarsi alla fatica",
+        "description": "Non allenarti per fatica ma per frustrazione: ogni ripetizione è una vittoria emotiva.",
+        "visual_hint": "Atleta accasciato vs esplosivo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "tired athlete vs explosive jump",
+        "image": "https://images.pexels.com/photos/32780577/pexels-photo-32780577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova oggi: 5x8 squat jump",
+        "description": "5 serie da 8 ripetizioni, pausa 60 secondi. Carica la rabbia e salta più in alto.",
+        "visual_hint": "Scheda allenamento esplosivo",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "workout plan squat jump set",
+        "image": "https://images.pexels.com/photos/14599068/pexels-photo-14599068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c0f4ede25.jpeg",
+    "savedAt": "2026-05-16T02:20:35.620Z",
+    "sourceId": "077647591f2847617d57be61ecfea4d3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "fitness",
+    "slug": "adama-traor-torna-al-bar-a-lui-il-pi-palestrato-d-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Adama Traorè torna al Barça: è lui il più palestrato d'Europa. Ecco i suoi segreti  ",
+    "link": "https://www.gazzetta.it/fitness/allenamento/storie/29-01-2022/adama-traore-barcellona-fisico-esplosivo-dieta-olio-palestra-4301157195341/",
+    "pubDate": "Sat, 29 Jan 2022 18:23:00 +0100",
+    "slides": [
+      "La forza funzionale vince ogni sfida.",
+      "Adama Traorè: potenza esplosiva e resistenza.",
+      "Spinta esplosiva con bilanciere su panca.",
+      "Non fermarti a metà del movimento.",
+      "Oggi fai 3 serie da 8 ripetizioni."
+    ],
+    "instagram_caption": "La forza che vince ogni sfida è quella funzionale: potenza esplosiva più resistenza. 💥  \nAdama Traorè lo dimostra: spinta esplosiva con bilanciere su panca, movimento completo mai fermato a metà.  \nTecnica pulita, sovraccarico progressivo, testa bassa e pedalare.  \nOggi metti in pratica: 3 serie da 8 ripetizioni, spingi fino in fondo senza frenare.  \nProva questo workout domani mattina e senti la differenza 🔥",
+    "formats": {
+      "instagram": {
+        "caption": "La forza che vince ogni sfida è quella funzionale: potenza esplosiva più resistenza. 💥  \nAdama Traorè lo dimostra: spinta esplosiva con bilanciere su panca, movimento completo mai fermato a metà.  \nTecnica pulita, sovraccarico progressivo, testa bassa e pedalare.  \nOggi metti in pratica: 3 serie da 8 ripetizioni, spingi fino in fondo senza frenare.  \nProva questo workout domani mattina e senti la differenza 🔥"
+      },
+      "tiktok": {
+        "script": [
+          "Adama alla spinta, 1: forza funzionale.",
+          "Esplosivo e resistente, come lui.",
+          "Bilanciere su panca, spinta esplosiva.",
+          "Non fermarti a metà, spingi forte.",
+          "Oggi 3 serie da 8, parti subito."
+        ]
+      },
+      "x": {
+        "thread": [
+          "La forza funzionale è ciò che trasforma un atleta in un dominatore. Adama Traorè torna al Barça come l'uomo più palestrato d'Europa. Non è solo muscoli: è potenza applicata. Vuoi sapere come costruisce quella esplosività? Ecco il suo segreto.",
+          "Adama non si allena per l'estetica. La sua priorità è la potenza esplosiva e la resistenza. Ogni movimento parte da zero e arriva al massimo in un istante. Niente mezze misure: il corpo impara solo se gli dai carichi veri.",
+          "Esercizio chiave: spinta esplosiva con bilanciere su panca. Non stai facendo una panca normale. Devi spingere il bilanciere verso l'alto con accelerazione massima, come se volessi lanciarlo. Controllo in discesa, esplosione in salita.",
+          "L'errore più comune? Fermarsi a metà del movimento. Se rallenti nella fase finale, perdi il 50% del lavoro. La spinta deve finire con i gomiti bloccati e il petto in tensione. Solo così costruisci la forza funzionale che serve in campo.",
+          "Oggi esegui 3 serie da 8 ripetizioni di spinta esplosiva su panca. Carica un peso che ti permetta di esplodere senza sacrificare la tecnica. Prova domani e dimmi com'è andata 💪"
+        ]
+      }
+    },
+    "video_script": [
+      "Adama alla spinta, 1: forza funzionale.",
+      "Esplosivo e resistente, come lui.",
+      "Bilanciere su panca, spinta esplosiva.",
+      "Non fermarti a metà, spingi forte.",
+      "Oggi 3 serie da 8, parti subito."
+    ],
+    "thread_text": [
+      "La forza funzionale è ciò che trasforma un atleta in un dominatore. Adama Traorè torna al Barça come l'uomo più palestrato d'Europa. Non è solo muscoli: è potenza applicata. Vuoi sapere come costruisce quella esplosività? Ecco il suo segreto.",
+      "Adama non si allena per l'estetica. La sua priorità è la potenza esplosiva e la resistenza. Ogni movimento parte da zero e arriva al massimo in un istante. Niente mezze misure: il corpo impara solo se gli dai carichi veri.",
+      "Esercizio chiave: spinta esplosiva con bilanciere su panca. Non stai facendo una panca normale. Devi spingere il bilanciere verso l'alto con accelerazione massima, come se volessi lanciarlo. Controllo in discesa, esplosione in salita.",
+      "L'errore più comune? Fermarsi a metà del movimento. Se rallenti nella fase finale, perdi il 50% del lavoro. La spinta deve finire con i gomiti bloccati e il petto in tensione. Solo così costruisci la forza funzionale che serve in campo.",
+      "Oggi esegui 3 serie da 8 ripetizioni di spinta esplosiva su panca. Carica un peso che ti permetta di esplodere senza sacrificare la tecnica. Prova domani e dimmi com'è andata 💪"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "La forza funzionale vince ogni sfida",
+        "description": "Allenati come un atleta di élite: potenza e resistenza per superare ogni limite.",
+        "visual_hint": "Adama Traoré in azione",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "athlete training action"
+      },
+      {
+        "hook": "Potenza esplosiva e resistenza",
+        "description": "Sviluppa esplosività e tenuta muscolare per performance da campione.",
+        "visual_hint": "Traoré palestra close-up",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "explosive gym workout",
+        "image": "https://images.pexels.com/photos/4164514/pexels-photo-4164514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spinta esplosiva su panca",
+        "description": "Esegui la panca con bilanciere: spinta rapida e controllo in fase negativa.",
+        "visual_hint": "Panca bilanciere spinta",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "barbell bench press",
+        "image": "https://images.pexels.com/photos/11433060/pexels-photo-11433060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non fermarti a metà movimento",
+        "description": "Errore comune: accorciare il range. Scendi completo e spingi fino in alto.",
+        "visual_hint": "Movimento completo frecce",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "full range motion",
+        "image": "https://images.pexels.com/photos/5384576/pexels-photo-5384576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Oggi: 3 serie da 8 ripetizioni",
+        "description": "Prova subito il workout di Traoré. Carica 70% del massimale e dai tutto!",
+        "visual_hint": "Serie ripetizioni tabelle",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "workout plan sets",
+        "image": "https://images.pexels.com/photos/6739933/pexels-photo-6739933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/620594a9bfde6.jpeg",
+    "savedAt": "2026-05-16T02:20:17.327Z",
+    "sourceId": "5702134ee15853a7838e7a6ae1a91836"
+  },
+  {
+    "schema_version": 2,
+    "agent": "fitness",
+    "slug": "dormire-meglio-con-lo-stretching-4-esercizi-da-pro",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Dormire meglio con lo stretching: 4 esercizi da provare  ",
+    "link": "https://www.gazzetta.it/fitness/allenamento/31-01-2022/dormire-meglio-lo-stretching-4-esercizi-provare-4301166099836.shtml",
+    "pubDate": "Mon, 31 Jan 2022 08:59:30 +0100",
+    "slides": [
+      "Lo stretching ti fa dormire come un sasso.",
+      "Rilassa i muscoli per un sonno profondo.",
+      "Allunga lentamente la colonna vertebrale a terra.",
+      "Non forzare il respiro: trattieni lo sforzo.",
+      "Stasera fai 5 minuti prima di dormire."
+    ],
+    "instagram_caption": "Dormire come un sasso non è un sogno, ma una conseguenza diretta di muscoli rilassati. 🛌  \nLo stretching serale permette al sistema nervoso di abbassare la guardia, rilasciando la tensione accumulata e preparando il corpo a un sonno profondo e rigenerante.  \nProva a sdraiarti e allungare lentamente la colonna vertebrale a terra, senza mai forzare il respiro: trattieni lo sforzo, non il fiato.  \nStasera, prima di spegnere la luce, dedica 5 minuti a questa sequenza. Il tuo corpo ti ringrazierà al risveglio. 💤✨  \nPrepara il tappetino e inizia ora.",
+    "formats": {
+      "instagram": {
+        "caption": "Dormire come un sasso non è un sogno, ma una conseguenza diretta di muscoli rilassati. 🛌  \nLo stretching serale permette al sistema nervoso di abbassare la guardia, rilasciando la tensione accumulata e preparando il corpo a un sonno profondo e rigenerante.  \nProva a sdraiarti e allungare lentamente la colonna vertebrale a terra, senza mai forzare il respiro: trattieni lo sforzo, non il fiato.  \nStasera, prima di spegnere la luce, dedica 5 minuti a questa sequenza. Il tuo corpo ti ringrazierà al risveglio. 💤✨  \nPrepara il tappetino e inizia ora."
+      },
+      "tiktok": {
+        "script": [
+          "Parti così: stretching prima di dormire.",
+          "Rilassa i muscoli per un sonno profondo.",
+          "Allunga la colonna lentamente a terra.",
+          "Non forzare il respiro, trattieni lo sforzo.",
+          "Stasera fai 5 minuti prima di dormire."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Vuoi dormire come un sasso? Lo stretching prima di letto è la chiave. Rilassa i muscoli e abbassa il cortisolo. In 5 minuti cambi la qualità del sonno. 🧘",
+          "Esegui gli allunghi lentamente, a terra. Un esempio: portare le ginocchia al petto, distendendo la colonna vertebrale. Tieni 30 secondi, respira calmo. Il rilassamento parte dalla schiena.",
+          "Attenzione: non forzare il respiro. Inspira ed espira naturalmente, trattieni lo sforzo nei muscoli, non nel fiato. L'obiettivo è sciogliere le tensioni, non creare nuove rigidità.",
+          "Secondo esercizio: sdraiati e ruota il busto da un lato, mantenendo le spalle a terra. Allunga la colonna e la fascia lombare. Alterna lentamente. Senti il rilascio?",
+          "Stasera dedica 5 minuti a questa sequenza. Metti un timer, spegni il telefono e ascolta il corpo. Prova e domani dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Parti così: stretching prima di dormire.",
+      "Rilassa i muscoli per un sonno profondo.",
+      "Allunga la colonna lentamente a terra.",
+      "Non forzare il respiro, trattieni lo sforzo.",
+      "Stasera fai 5 minuti prima di dormire."
+    ],
+    "thread_text": [
+      "Vuoi dormire come un sasso? Lo stretching prima di letto è la chiave. Rilassa i muscoli e abbassa il cortisolo. In 5 minuti cambi la qualità del sonno. 🧘",
+      "Esegui gli allunghi lentamente, a terra. Un esempio: portare le ginocchia al petto, distendendo la colonna vertebrale. Tieni 30 secondi, respira calmo. Il rilassamento parte dalla schiena.",
+      "Attenzione: non forzare il respiro. Inspira ed espira naturalmente, trattieni lo sforzo nei muscoli, non nel fiato. L'obiettivo è sciogliere le tensioni, non creare nuove rigidità.",
+      "Secondo esercizio: sdraiati e ruota il busto da un lato, mantenendo le spalle a terra. Allunga la colonna e la fascia lombare. Alterna lentamente. Senti il rilascio?",
+      "Stasera dedica 5 minuti a questa sequenza. Metti un timer, spegni il telefono e ascolta il corpo. Prova e domani dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Stretching per dormire meglio",
+        "description": "4 esercizi che rilassano i muscoli e favoriscono un sonno profondo e rigenerante.",
+        "visual_hint": "Persona distesa su letto",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "sleep stretch man"
+      },
+      {
+        "hook": "Rilassa i muscoli",
+        "description": "Lo stretching riduce la tensione muscolare, preparando il corpo a un riposo profondo.",
+        "visual_hint": "Persona che allunga gambe",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "leg stretch woman",
+        "image": "https://images.pexels.com/photos/4436298/pexels-photo-4436298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Allunga la colonna",
+        "description": "Sdraiati a terra e allunga lentamente la colonna vertebrale, mantenendo la posizione.",
+        "visual_hint": "Allungamento a terra",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "spine stretch floor",
+        "image": "https://images.pexels.com/photos/6454024/pexels-photo-6454024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non forzare il respiro",
+        "description": "Trattieni lo sforzo ma non il respiro: inspira lentamente mentre mantieni la posizione.",
+        "visual_hint": "Errore respiro trattenuto",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "breathing mistake stretch",
+        "image": "https://images.pexels.com/photos/4051518/pexels-photo-4051518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stasera 5 minuti",
+        "description": "Prima di dormire, dedica 5 minuti a questi 4 esercizi per addormentarti come un sasso.",
+        "visual_hint": "Orologio con 5 minuti",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "night routine stretch",
+        "image": "https://images.pexels.com/photos/9004779/pexels-photo-9004779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c094cf0f3.jpeg",
+    "savedAt": "2026-05-16T02:19:59.851Z",
+    "sourceId": "dfe23f4be54d4aab7248689bafa2d0b0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "fitness",
     "slug": "jeff-bezos-mostra-i-muscoli-l-allenamento-e-la-die",
     "prompt_version": "1.0.0",
     "status": "published",

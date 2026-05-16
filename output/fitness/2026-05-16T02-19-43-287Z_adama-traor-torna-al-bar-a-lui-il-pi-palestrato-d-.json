@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "adama-traor-torna-al-bar-a-lui-il-pi-palestrato-d-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Adama Traorè torna al Barça: è lui il più palestrato d'Europa. Ecco i suoi segreti  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/storie/29-01-2022/adama-traore-barcellona-fisico-esplosivo-dieta-olio-palestra-4301157195341/",
+  "pubDate": "Sat, 29 Jan 2022 18:23:00 +0100",
+  "slides": [
+    "La forza funzionale vince ogni sfida.",
+    "Adama Traorè: potenza esplosiva e resistenza.",
+    "Spinta esplosiva con bilanciere su panca.",
+    "Non fermarti a metà del movimento.",
+    "Oggi fai 3 serie da 8 ripetizioni."
+  ],
+  "instagram_caption": "La forza che vince ogni sfida è quella funzionale: potenza esplosiva più resistenza. 💥  \nAdama Traorè lo dimostra: spinta esplosiva con bilanciere su panca, movimento completo mai fermato a metà.  \nTecnica pulita, sovraccarico progressivo, testa bassa e pedalare.  \nOggi metti in pratica: 3 serie da 8 ripetizioni, spingi fino in fondo senza frenare.  \nProva questo workout domani mattina e senti la differenza 🔥",
+  "formats": {
+    "instagram": {
+      "caption": "La forza che vince ogni sfida è quella funzionale: potenza esplosiva più resistenza. 💥  \nAdama Traorè lo dimostra: spinta esplosiva con bilanciere su panca, movimento completo mai fermato a metà.  \nTecnica pulita, sovraccarico progressivo, testa bassa e pedalare.  \nOggi metti in pratica: 3 serie da 8 ripetizioni, spingi fino in fondo senza frenare.  \nProva questo workout domani mattina e senti la differenza 🔥"
+    },
+    "tiktok": {
+      "script": [
+        "Adama alla spinta, 1: forza funzionale.",
+        "Esplosivo e resistente, come lui.",
+        "Bilanciere su panca, spinta esplosiva.",
+        "Non fermarti a metà, spingi forte.",
+        "Oggi 3 serie da 8, parti subito."
+      ]
+    },
+    "x": {
+      "thread": [
+        "La forza funzionale è ciò che trasforma un atleta in un dominatore. Adama Traorè torna al Barça come l'uomo più palestrato d'Europa. Non è solo muscoli: è potenza applicata. Vuoi sapere come costruisce quella esplosività? Ecco il suo segreto.",
+        "Adama non si allena per l'estetica. La sua priorità è la potenza esplosiva e la resistenza. Ogni movimento parte da zero e arriva al massimo in un istante. Niente mezze misure: il corpo impara solo se gli dai carichi veri.",
+        "Esercizio chiave: spinta esplosiva con bilanciere su panca. Non stai facendo una panca normale. Devi spingere il bilanciere verso l'alto con accelerazione massima, come se volessi lanciarlo. Controllo in discesa, esplosione in salita.",
+        "L'errore più comune? Fermarsi a metà del movimento. Se rallenti nella fase finale, perdi il 50% del lavoro. La spinta deve finire con i gomiti bloccati e il petto in tensione. Solo così costruisci la forza funzionale che serve in campo.",
+        "Oggi esegui 3 serie da 8 ripetizioni di spinta esplosiva su panca. Carica un peso che ti permetta di esplodere senza sacrificare la tecnica. Prova domani e dimmi com'è andata 💪"
+      ]
+    }
+  },
+  "video_script": [
+    "Adama alla spinta, 1: forza funzionale.",
+    "Esplosivo e resistente, come lui.",
+    "Bilanciere su panca, spinta esplosiva.",
+    "Non fermarti a metà, spingi forte.",
+    "Oggi 3 serie da 8, parti subito."
+  ],
+  "thread_text": [
+    "La forza funzionale è ciò che trasforma un atleta in un dominatore. Adama Traorè torna al Barça come l'uomo più palestrato d'Europa. Non è solo muscoli: è potenza applicata. Vuoi sapere come costruisce quella esplosività? Ecco il suo segreto.",
+    "Adama non si allena per l'estetica. La sua priorità è la potenza esplosiva e la resistenza. Ogni movimento parte da zero e arriva al massimo in un istante. Niente mezze misure: il corpo impara solo se gli dai carichi veri.",
+    "Esercizio chiave: spinta esplosiva con bilanciere su panca. Non stai facendo una panca normale. Devi spingere il bilanciere verso l'alto con accelerazione massima, come se volessi lanciarlo. Controllo in discesa, esplosione in salita.",
+    "L'errore più comune? Fermarsi a metà del movimento. Se rallenti nella fase finale, perdi il 50% del lavoro. La spinta deve finire con i gomiti bloccati e il petto in tensione. Solo così costruisci la forza funzionale che serve in campo.",
+    "Oggi esegui 3 serie da 8 ripetizioni di spinta esplosiva su panca. Carica un peso che ti permetta di esplodere senza sacrificare la tecnica. Prova domani e dimmi com'è andata 💪"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "La forza funzionale vince ogni sfida",
+      "description": "Allenati come un atleta di élite: potenza e resistenza per superare ogni limite.",
+      "visual_hint": "Adama Traoré in azione",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "athlete training action"
+    },
+    {
+      "hook": "Potenza esplosiva e resistenza",
+      "description": "Sviluppa esplosività e tenuta muscolare per performance da campione.",
+      "visual_hint": "Traoré palestra close-up",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "explosive gym workout",
+      "image": "https://images.pexels.com/photos/4164514/pexels-photo-4164514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Spinta esplosiva su panca",
+      "description": "Esegui la panca con bilanciere: spinta rapida e controllo in fase negativa.",
+      "visual_hint": "Panca bilanciere spinta",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "barbell bench press",
+      "image": "https://images.pexels.com/photos/11433060/pexels-photo-11433060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non fermarti a metà movimento",
+      "description": "Errore comune: accorciare il range. Scendi completo e spingi fino in alto.",
+      "visual_hint": "Movimento completo frecce",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "full range motion",
+      "image": "https://images.pexels.com/photos/5384576/pexels-photo-5384576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Oggi: 3 serie da 8 ripetizioni",
+      "description": "Prova subito il workout di Traoré. Carica 70% del massimale e dai tutto!",
+      "visual_hint": "Serie ripetizioni tabelle",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "workout plan sets",
+      "image": "https://images.pexels.com/photos/6739933/pexels-photo-6739933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/620594a9bfde6.jpeg",
+  "savedAt": "2026-05-16T02:20:17.327Z",
+  "sourceId": "5702134ee15853a7838e7a6ae1a91836"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "dormire-meglio-con-lo-stretching-4-esercizi-da-pro",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Dormire meglio con lo stretching: 4 esercizi da provare  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/31-01-2022/dormire-meglio-lo-stretching-4-esercizi-provare-4301166099836.shtml",
+  "pubDate": "Mon, 31 Jan 2022 08:59:30 +0100",
+  "slides": [
+    "Lo stretching ti fa dormire come un sasso.",
+    "Rilassa i muscoli per un sonno profondo.",
+    "Allunga lentamente la colonna vertebrale a terra.",
+    "Non forzare il respiro: trattieni lo sforzo.",
+    "Stasera fai 5 minuti prima di dormire."
+  ],
+  "instagram_caption": "Dormire come un sasso non è un sogno, ma una conseguenza diretta di muscoli rilassati. 🛌  \nLo stretching serale permette al sistema nervoso di abbassare la guardia, rilasciando la tensione accumulata e preparando il corpo a un sonno profondo e rigenerante.  \nProva a sdraiarti e allungare lentamente la colonna vertebrale a terra, senza mai forzare il respiro: trattieni lo sforzo, non il fiato.  \nStasera, prima di spegnere la luce, dedica 5 minuti a questa sequenza. Il tuo corpo ti ringrazierà al risveglio. 💤✨  \nPrepara il tappetino e inizia ora.",
+  "formats": {
+    "instagram": {
+      "caption": "Dormire come un sasso non è un sogno, ma una conseguenza diretta di muscoli rilassati. 🛌  \nLo stretching serale permette al sistema nervoso di abbassare la guardia, rilasciando la tensione accumulata e preparando il corpo a un sonno profondo e rigenerante.  \nProva a sdraiarti e allungare lentamente la colonna vertebrale a terra, senza mai forzare il respiro: trattieni lo sforzo, non il fiato.  \nStasera, prima di spegnere la luce, dedica 5 minuti a questa sequenza. Il tuo corpo ti ringrazierà al risveglio. 💤✨  \nPrepara il tappetino e inizia ora."
+    },
+    "tiktok": {
+      "script": [
+        "Parti così: stretching prima di dormire.",
+        "Rilassa i muscoli per un sonno profondo.",
+        "Allunga la colonna lentamente a terra.",
+        "Non forzare il respiro, trattieni lo sforzo.",
+        "Stasera fai 5 minuti prima di dormire."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Vuoi dormire come un sasso? Lo stretching prima di letto è la chiave. Rilassa i muscoli e abbassa il cortisolo. In 5 minuti cambi la qualità del sonno. 🧘",
+        "Esegui gli allunghi lentamente, a terra. Un esempio: portare le ginocchia al petto, distendendo la colonna vertebrale. Tieni 30 secondi, respira calmo. Il rilassamento parte dalla schiena.",
+        "Attenzione: non forzare il respiro. Inspira ed espira naturalmente, trattieni lo sforzo nei muscoli, non nel fiato. L'obiettivo è sciogliere le tensioni, non creare nuove rigidità.",
+        "Secondo esercizio: sdraiati e ruota il busto da un lato, mantenendo le spalle a terra. Allunga la colonna e la fascia lombare. Alterna lentamente. Senti il rilascio?",
+        "Stasera dedica 5 minuti a questa sequenza. Metti un timer, spegni il telefono e ascolta il corpo. Prova e domani dimmi com'è andata 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Parti così: stretching prima di dormire.",
+    "Rilassa i muscoli per un sonno profondo.",
+    "Allunga la colonna lentamente a terra.",
+    "Non forzare il respiro, trattieni lo sforzo.",
+    "Stasera fai 5 minuti prima di dormire."
+  ],
+  "thread_text": [
+    "Vuoi dormire come un sasso? Lo stretching prima di letto è la chiave. Rilassa i muscoli e abbassa il cortisolo. In 5 minuti cambi la qualità del sonno. 🧘",
+    "Esegui gli allunghi lentamente, a terra. Un esempio: portare le ginocchia al petto, distendendo la colonna vertebrale. Tieni 30 secondi, respira calmo. Il rilassamento parte dalla schiena.",
+    "Attenzione: non forzare il respiro. Inspira ed espira naturalmente, trattieni lo sforzo nei muscoli, non nel fiato. L'obiettivo è sciogliere le tensioni, non creare nuove rigidità.",
+    "Secondo esercizio: sdraiati e ruota il busto da un lato, mantenendo le spalle a terra. Allunga la colonna e la fascia lombare. Alterna lentamente. Senti il rilascio?",
+    "Stasera dedica 5 minuti a questa sequenza. Metti un timer, spegni il telefono e ascolta il corpo. Prova e domani dimmi com'è andata 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Stretching per dormire meglio",
+      "description": "4 esercizi che rilassano i muscoli e favoriscono un sonno profondo e rigenerante.",
+      "visual_hint": "Persona distesa su letto",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "sleep stretch man"
+    },
+    {
+      "hook": "Rilassa i muscoli",
+      "description": "Lo stretching riduce la tensione muscolare, preparando il corpo a un riposo profondo.",
+      "visual_hint": "Persona che allunga gambe",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "leg stretch woman",
+      "image": "https://images.pexels.com/photos/4436298/pexels-photo-4436298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Allunga la colonna",
+      "description": "Sdraiati a terra e allunga lentamente la colonna vertebrale, mantenendo la posizione.",
+      "visual_hint": "Allungamento a terra",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "spine stretch floor",
+      "image": "https://images.pexels.com/photos/6454024/pexels-photo-6454024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non forzare il respiro",
+      "description": "Trattieni lo sforzo ma non il respiro: inspira lentamente mentre mantieni la posizione.",
+      "visual_hint": "Errore respiro trattenuto",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "breathing mistake stretch",
+      "image": "https://images.pexels.com/photos/4051518/pexels-photo-4051518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stasera 5 minuti",
+      "description": "Prima di dormire, dedica 5 minuti a questi 4 esercizi per addormentarti come un sasso.",
+      "visual_hint": "Orologio con 5 minuti",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "night routine stretch",
+      "image": "https://images.pexels.com/photos/9004779/pexels-photo-9004779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c094cf0f3.jpeg",
+  "savedAt": "2026-05-16T02:19:59.851Z",
+  "sourceId": "dfe23f4be54d4aab7248689bafa2d0b0"
+}
