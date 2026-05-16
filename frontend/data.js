@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-co-founder-greg-brockman-takes-charge-of-pr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+    "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+    "pubDate": "Sat, 16 May 2026 15:33:33 +0000",
+    "slides": [
+      "Greg Brockman riprende il timone: cosa cambierà?",
+      "Lascia temporaneamente la ricerca per il prodotto",
+      "Il fondatore torna a decidere su funzionalità e roadmap",
+      "Per chi usa API: priorità su stabilità e costi",
+      "Prova oggi un endpoint: la prossima settimana potrebbe sparire"
+    ],
+    "thread_text": [
+      "Il fondatore di OpenAI lascia la ricerca per tornare a decidere su prodotto e roadmap. Non è un cambio di ruolo di poco conto: è un cambio di priorità totale.",
+      "Greg Brockman riprende il timone mentre Sam Altman guida la ricerca. Il messaggio è chiaro: l'azienda vuole controllare cosa esce e quando esce, non solo cosa funziona.",
+      "Chi usa le API sentirà subito l'impatto: stabilità e costi diventano il focus. Niente più feature sperimentali che spariscono in una settimana.",
+      "Il trade-off è netto: più controllo sul prodotto significa meno sorprese, ma anche meno libertà per chi sviluppa. Le regole del gioco cambiano in corsa.",
+      "Prova un endpoint oggi. La prossima settimana potrebbe non esistere più. Se non l'hai già fatto, inizia da un task semplice: fare una richiesta con un prompt stabile."
+    ],
+    "video_script": [
+      "Il fondatore lascia la ricerca e torna sul prodotto.",
+      "Non è un dettaglio: cambia tutto il focus.",
+      "Per chi usa le API: stabilità e costi prima di tutto.",
+      "Le feature sperimentali? Possono sparire da un giorno all'altro.",
+      "Prova oggi: domani potrebbe non esserci più."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Il fondatore di OpenAI lascia la ricerca per tornare a decidere su prodotto e roadmap. Non è un cambio di ruolo di poco conto: è un cambio di priorità totale.",
+          "Greg Brockman riprende il timone mentre Sam Altman guida la ricerca. Il messaggio è chiaro: l'azienda vuole controllare cosa esce e quando esce, non solo cosa funziona.",
+          "Chi usa le API sentirà subito l'impatto: stabilità e costi diventano il focus. Niente più feature sperimentali che spariscono in una settimana.",
+          "Il trade-off è netto: più controllo sul prodotto significa meno sorprese, ma anche meno libertà per chi sviluppa. Le regole del gioco cambiano in corsa.",
+          "Prova un endpoint oggi. La prossima settimana potrebbe non esistere più. Se non l'hai già fatto, inizia da un task semplice: fare una richiesta con un prompt stabile."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Il fondatore lascia la ricerca e torna sul prodotto.",
+          "Non è un dettaglio: cambia tutto il focus.",
+          "Per chi usa le API: stabilità e costi prima di tutto.",
+          "Le feature sperimentali? Possono sparire da un giorno all'altro.",
+          "Prova oggi: domani potrebbe non esserci più."
+        ]
+      },
+      "instagram": {
+        "caption": "Greg Brockman, il co-fondatore di OpenAI, lascia la ricerca per tornare a gestire il prodotto e la roadmap ⚙️. In pratica, smette di occuparsi di cosa funziona per decidere cosa esce e quando. Il messaggio è che l'azienda vuole più controllo sulle sue release, anche a costo di essere meno sperimentale. Per chi usa le API, cambia tutto: ora priorità a stabilità e costi, niente più funzionalità che spariscono in una settimana 💸. Puoi provare un endpoint oggi, ma domani potrebbe non esserci più. Tu come ti organizzerai?"
+      }
+    },
+    "instagram_caption": "Greg Brockman, il co-fondatore di OpenAI, lascia la ricerca per tornare a gestire il prodotto e la roadmap ⚙️. In pratica, smette di occuparsi di cosa funziona per decidere cosa esce e quando. Il messaggio è che l'azienda vuole più controllo sulle sue release, anche a costo di essere meno sperimentale. Per chi usa le API, cambia tutto: ora priorità a stabilità e costi, niente più funzionalità che spariscono in una settimana 💸. Puoi provare un endpoint oggi, ma domani potrebbe non esserci più. Tu come ti organizzerai?",
+    "carousel_slides": [
+      {
+        "hook": "Prova oggi, domani sparisce",
+        "description": "Greg Brockman lascia la ricerca: controllo totale su cosa esce e quando.",
+        "visual_hint": "freccia che cancella endpoint",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room switches"
+      },
+      {
+        "hook": "Fine delle feature volatili",
+        "description": "Stabilità e costi diventano priorità. Niente più funzioni sperimentali che durano giorni.",
+        "visual_hint": "grafico di stabilità crescente",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Roadmap blindata da Brockman",
+        "description": "Più controllo sul prodotto significa meno sorprese, ma anche meno libertà per gli sviluppatori.",
+        "visual_hint": "mappa con lucchetto",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "roadmap signpost",
+        "image": "https://images.pexels.com/photos/5767722/pexels-photo-5767722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "API, addio flessibilità",
+        "description": "Sam Altman guida la ricerca, ma Brockman decide cosa esce. Trade-off netto in vista.",
+        "visual_hint": "ingranaggio che blocca un rubinetto",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova un prompt stabile oggi",
+        "description": "Se non l'hai già fatto, inizia da un task semplice: fai una richiesta con un prompt stabile.",
+        "visual_hint": "mano che clicca invio",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop keyboard typing",
+        "image": "https://images.pexels.com/photos/27080975/pexels-photo-27080975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800",
+    "savedAt": "2026-05-16T18:52:34.479Z",
+    "sourceId": "85331331526c4eba99035405eae9f65a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "-60b-ai-chip-darling-cerebras-almost-died-early-on",
     "prompt_version": "1.0.0",
     "status": "published",
