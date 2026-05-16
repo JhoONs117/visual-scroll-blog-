@@ -2,6 +2,114 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "users-turn-to-jailbreaking-their-older-kindles-as-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
+    "link": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
+    "pubDate": "Sat, 16 May 2026 14:00:00 +0000",
+    "slides": [
+      "Amazon stops updates for older Kindles — now what?",
+      "No security patches means your device is vulnerable.",
+      "Owners are jailbreaking to unlock full control.",
+      "Your Kindle becomes an open e-reader with no limits.",
+      "Decide: keep it locked or jailbreak for freedom?"
+    ],
+    "thread_text": [
+      "Your Kindle just became a security risk. Amazon stopped pushing updates for older models. No more patches. Ever.",
+      "That means any vulnerability discovered from now on stays open. Your personal data, your Amazon account — exposed.",
+      "Owners are fighting back. They jailbreak the device. Full root access. No limitations.",
+      "A jailbroken Kindle can run custom software, ignore ads, and bypass Amazon's walled garden entirely.",
+      "One question decides your path: trust Amazon's locked-down device or take control yourself?",
+      "Most choose freedom. A jailbroken Kindle still works with the Kindle store. Best of both worlds."
+    ],
+    "video_script": [
+      "Amazon stopped supporting older Kindles.",
+      "No security patches means your data's at risk.",
+      "People are jailbreaking to take control.",
+      "A jailbroken Kindle has no limits.",
+      "Keep it locked or jailbreak for freedom?",
+      "You decide."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Your Kindle just became a security risk. Amazon stopped pushing updates for older models. No more patches. Ever.",
+          "That means any vulnerability discovered from now on stays open. Your personal data, your Amazon account — exposed.",
+          "Owners are fighting back. They jailbreak the device. Full root access. No limitations.",
+          "A jailbroken Kindle can run custom software, ignore ads, and bypass Amazon's walled garden entirely.",
+          "One question decides your path: trust Amazon's locked-down device or take control yourself?",
+          "Most choose freedom. A jailbroken Kindle still works with the Kindle store. Best of both worlds."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Amazon stopped supporting older Kindles.",
+          "No security patches means your data's at risk.",
+          "People are jailbreaking to take control.",
+          "A jailbroken Kindle has no limits.",
+          "Keep it locked or jailbreak for freedom?",
+          "You decide."
+        ]
+      },
+      "instagram": {
+        "caption": "Amazon ha smesso di rilasciare aggiornamenti per i Kindle più vecchi, lasciandoli senza patch di sicurezza. 📵 Chi li possiede ora ha due strade: tenere un dispositivo esposto a vulnerabilità, o jailbreakarlo per avere controllo totale. 🔓 Un Kindle \"liberato\" può rimuovere pubblicità, installare software custom e comunque usare il Kindle Store. Per te significa scegliere tra una scatola chiusa e un e-reader senza limiti. Quale dei tuoi vecchi dispositivi merita una seconda vita? 📚"
+      }
+    },
+    "instagram_caption": "Amazon ha smesso di rilasciare aggiornamenti per i Kindle più vecchi, lasciandoli senza patch di sicurezza. 📵 Chi li possiede ora ha due strade: tenere un dispositivo esposto a vulnerabilità, o jailbreakarlo per avere controllo totale. 🔓 Un Kindle \"liberato\" può rimuovere pubblicità, installare software custom e comunque usare il Kindle Store. Per te significa scegliere tra una scatola chiusa e un e-reader senza limiti. Quale dei tuoi vecchi dispositivi merita una seconda vita? 📚",
+    "carousel_slides": [
+      {
+        "hook": "Your Kindle is now vulnerable",
+        "description": "Amazon ends updates for old Kindles. No more patches means your device is exposed.",
+        "visual_hint": "Broken shield",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "old kindle device"
+      },
+      {
+        "hook": "Attackers can access your data",
+        "description": "No security patches leave your personal data and Amazon account at risk.",
+        "visual_hint": "Digital lock breaking",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Owners jailbreak to fight back",
+        "description": "Users get full root access, unlocking control and bypassing Amazon's limits.",
+        "visual_hint": "Circuit board hacked",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "electronic circuit",
+        "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Run custom software, ignore ads",
+        "description": "A jailbroken Kindle runs custom software, ignores ads, and breaks out of Amazon's walled garden.",
+        "visual_hint": "Hand holding e-reader",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding tablet",
+        "image": "https://images.pexels.com/photos/8511891/pexels-photo-8511891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Choose freedom or locked device?",
+        "description": "Jailbreak still works with Kindle store. Most choose freedom for best of both worlds.",
+        "visual_hint": "Crossroads sign",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "fork in road",
+        "image": "https://images.pexels.com/photos/10124559/pexels-photo-10124559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2017/11/2007-kindle-1st-gen-angle-gettyimages-93559279.jpg?resize=1200,791",
+    "savedAt": "2026-05-16T14:48:30.846Z",
+    "sourceId": "163ac43a9d21d7d4f0a41dc1fefe153b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "general-catalyst-posted-vc-rage-bait-and-it-worked",
     "prompt_version": "1.0.0",
     "status": "published",
