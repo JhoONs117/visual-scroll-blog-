@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "marketing-operating-system-nectar-social-raises-30",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
+      "link": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+      "pubDate": "Sat, 16 May 2026 19:26:14 +0000",
+      "slides": [
+        "Nectar Social ha raccolto $30M. Come cambierà il marketing?",
+        "Fondi da Menlo per un sistema operativo del marketing.",
+        "Non un tool, ma un sistema che automatizza decisioni complesse.",
+        "I marketer potrebbero dover delegare strategie all'AI.",
+        "Testa subito se la tua azienda è pronta per questo shift."
+      ],
+      "thread_text": [
+        "I marketer potrebbero dover delegare strategie all'AI. Non è un'opzione, è quello che sta già succedendo.",
+        "Nectar Social ha appena raccolto 30 milioni di dollari per un sistema operativo del marketing. Non un tool, ma un sistema che automatizza decisioni complesse.",
+        "I fondi arrivano da Menlo, e il punto non è risparmiare tempo: è che l'AI può gestire scelte che prima richiedevano ore di analisi umana.",
+        "Questo significa che il tuo lavoro cambia. Non più eseguire, ma supervisionare e definire obiettivi strategici.",
+        "Costa meno di un abbonamento Spotify. Testalo questa settimana con un singolo campaigne."
+      ],
+      "video_script": [
+        "Sta per succedere qualcosa di grosso nel marketing.",
+        "Nectar Social ha ottenuto 30 milioni di dollari.",
+        "Non è un semplice tool, ma un sistema operativo.",
+        "Automatizza decisioni complesse, non solo task banali.",
+        "I marketer dovranno delegare strategie all'AI."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "I marketer potrebbero dover delegare strategie all'AI. Non è un'opzione, è quello che sta già succedendo.",
+            "Nectar Social ha appena raccolto 30 milioni di dollari per un sistema operativo del marketing. Non un tool, ma un sistema che automatizza decisioni complesse.",
+            "I fondi arrivano da Menlo, e il punto non è risparmiare tempo: è che l'AI può gestire scelte che prima richiedevano ore di analisi umana.",
+            "Questo significa che il tuo lavoro cambia. Non più eseguire, ma supervisionare e definire obiettivi strategici.",
+            "Costa meno di un abbonamento Spotify. Testalo questa settimana con un singolo campaigne."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Sta per succedere qualcosa di grosso nel marketing.",
+            "Nectar Social ha ottenuto 30 milioni di dollari.",
+            "Non è un semplice tool, ma un sistema operativo.",
+            "Automatizza decisioni complesse, non solo task banali.",
+            "I marketer dovranno delegare strategie all'AI."
+          ]
+        },
+        "instagram": {
+          "caption": "30 milioni di dollari per un sistema operativo del marketing. Nectar Social li ha appena raccolti da Menlo, e non si tratta di un semplice tool: è un software che prende decisioni complesse al posto tuo, come scegliere su quali canali investire o come ottimizzare campagne in tempo reale 🧠💰. La novità è che l'AI non risparmia solo tempo, ma sostituisce ore di analisi umana. Per chi lavora nel marketing, il ruolo cambia: non più esecuzione, ma supervisione e definizione di obiettivi 📈. Il tuo team è già pronto a delegare strategie? 🔍"
+        }
+      },
+      "instagram_caption": "30 milioni di dollari per un sistema operativo del marketing. Nectar Social li ha appena raccolti da Menlo, e non si tratta di un semplice tool: è un software che prende decisioni complesse al posto tuo, come scegliere su quali canali investire o come ottimizzare campagne in tempo reale 🧠💰. La novità è che l'AI non risparmia solo tempo, ma sostituisce ore di analisi umana. Per chi lavora nel marketing, il ruolo cambia: non più esecuzione, ma supervisione e definizione di obiettivi 📈. Il tuo team è già pronto a delegare strategie? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Il marketing ora si delega all'AI",
+          "description": "Non è un'opzione, è quello che sta già succedendo: Nectar Social automatizza decisioni complesse.",
+          "visual_hint": "AI chip su sfondo blu",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer microchip circuit"
+        },
+        {
+          "hook": "30 milioni per un sistema operativo",
+          "description": "Nectar Social ha raccolto fondi da Menlo. Non un tool, ma un sistema che automatizza scelte strategiche.",
+          "visual_hint": "Mappa di flussi dati",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Addio ore di analisi umana",
+          "description": "L'AI gestisce scelte che prima richiedevano ore. Il punto non è risparmiare tempo, è la qualità delle decisioni.",
+          "visual_hint": "Grafico che sale",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tuo lavoro cambia: supervisione",
+          "description": "Non più eseguire, ma definire obiettivi strategici. I marketer supervisionano, l'AI esegue.",
+          "visual_hint": "Persone che osservano schermi",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers monitors",
+          "image": "https://images.pexels.com/photos/12903149/pexels-photo-12903149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costa meno di Spotify, provalo",
+          "description": "Testalo questa settimana con una singola campagna. Scopri se la tua azienda è pronta per questo shift.",
+          "visual_hint": "Clic verde su schermo",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "solar panels farm",
+          "image": "https://images.pexels.com/photos/9893729/pexels-photo-9893729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Nectar-Social.jpg?resize=1200,801",
+      "savedAt": "2026-05-16T22:37:27.086Z",
+      "sourceId": "a88f95380a63c778d64aa5bba1538b3f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "research-repository-arxiv-will-ban-authors-for-a-y",
       "prompt_version": "1.0.0",
       "status": "published",
