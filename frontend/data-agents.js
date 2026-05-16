@@ -19623,6 +19623,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "fitness",
+      "slug": "mourinho-buon-compleanno-roma-pizza-workout-e-ecco",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Mourinho, buon compleanno! Roma, pizza, workout e... ecco il suo mondo  ",
+      "link": "https://www.gazzetta.it/fitness/allenamento/storie/26-01-2022/jose-mourinho-roma-moglie-figli-trofei-suo-compleanno-famiglia-4301107579743/",
+      "pubDate": "Wed, 26 Jan 2022 13:11:26 +0100",
+      "slides": [
+        "Allenati come uno Special One: disciplina e passione.",
+        "Il workout di Mourinho unisce forza e resistenza.",
+        "Piega le ginocchia, schiena dritta, spalle indietro.",
+        "Non curvare la schiena: perdi potenza e rischi.",
+        "Oggi fai 3 serie da 12 squat a corpo libero."
+      ],
+      "instagram_caption": "Lo Special One non si costruisce con il talento, ma con disciplina e passione ogni singolo giorno. 🏆💪  \nAnche il workout di Mourinho unisce forza e resistenza: piega le ginocchia, schiena dritta, spalle indietro.  \nNon curvare la schiena — perdi potenza e rischi infortuni. La tecnica è tutto.  \nIl tuo programma oggi: 3 serie da 12 squat a corpo libero.  \nPrendi il controllo del tuo corpo, come un vero leader. Prova subito questo esercizio, domani mattina raddoppia la sfida. 🔥",
+      "formats": {
+        "instagram": {
+          "caption": "Lo Special One non si costruisce con il talento, ma con disciplina e passione ogni singolo giorno. 🏆💪  \nAnche il workout di Mourinho unisce forza e resistenza: piega le ginocchia, schiena dritta, spalle indietro.  \nNon curvare la schiena — perdi potenza e rischi infortuni. La tecnica è tutto.  \nIl tuo programma oggi: 3 serie da 12 squat a corpo libero.  \nPrendi il controllo del tuo corpo, come un vero leader. Prova subito questo esercizio, domani mattina raddoppia la sfida. 🔥"
+        },
+        "tiktok": {
+          "script": [
+            "Allenati come lo Special One: disciplina e passione.",
+            "Il workout Mourinho unisce forza e resistenza.",
+            "Piega le ginocchia, schiena dritta, spalle indietro.",
+            "Non curvare: perdi potenza e rischi infortuni.",
+            "Oggi 3 serie da 12 squat a corpo libero."
+          ]
+        },
+        "x": {
+          "thread": [
+            "La vera differenza non la fa il talento, ma la disciplina quotidiana. Mourinho lo sa: ogni dettaglio conta. Come nei suoi allenamenti, anche il tuo workout può diventare leggendario. Forza e testa, sempre. 🔥",
+            "Ecco il segreto dello Special One: unisce forza e resistenza in un unico flusso. Squat, core, reattività. Ogni movimento è pensato per renderti più solido e scattante. Non è solo sudore, è strategia.",
+            "Piega le ginocchia, schiena dritta, spalle indietro. Questa è la base del movimento vincente. Il peso va sui talloni, il petto resta aperto. Sembra semplice, ma la perfezione sta nei dettagli. La forma è tutto.",
+            "Attenzione all'errore più comune: non curvare la schiena. Se lo fai, perdi potenza e rischi di farti male. Meglio fermarsi e correggere la postura che accumulare ripetizioni sbagliate. La qualità batte la quantità.",
+            "Oggi ti sfido a fare 3 serie da 12 squat a corpo libero. Concentrati sulla tecnica. Alla fine sentirai le gambe e la schiena lavorare insieme. Prova domani e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Allenati come lo Special One: disciplina e passione.",
+        "Il workout Mourinho unisce forza e resistenza.",
+        "Piega le ginocchia, schiena dritta, spalle indietro.",
+        "Non curvare: perdi potenza e rischi infortuni.",
+        "Oggi 3 serie da 12 squat a corpo libero."
+      ],
+      "thread_text": [
+        "La vera differenza non la fa il talento, ma la disciplina quotidiana. Mourinho lo sa: ogni dettaglio conta. Come nei suoi allenamenti, anche il tuo workout può diventare leggendario. Forza e testa, sempre. 🔥",
+        "Ecco il segreto dello Special One: unisce forza e resistenza in un unico flusso. Squat, core, reattività. Ogni movimento è pensato per renderti più solido e scattante. Non è solo sudore, è strategia.",
+        "Piega le ginocchia, schiena dritta, spalle indietro. Questa è la base del movimento vincente. Il peso va sui talloni, il petto resta aperto. Sembra semplice, ma la perfezione sta nei dettagli. La forma è tutto.",
+        "Attenzione all'errore più comune: non curvare la schiena. Se lo fai, perdi potenza e rischi di farti male. Meglio fermarsi e correggere la postura che accumulare ripetizioni sbagliate. La qualità batte la quantità.",
+        "Oggi ti sfido a fare 3 serie da 12 squat a corpo libero. Concentrati sulla tecnica. Alla fine sentirai le gambe e la schiena lavorare insieme. Prova domani e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Allenati come lo Special One",
+          "description": "Disciplina e passione per un workout che unisce forza e resistenza, proprio come Mourinho.",
+          "visual_hint": "Mourinho allenamento grinta",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "special one coaching"
+        },
+        {
+          "hook": "Forza e resistenza insieme",
+          "description": "Unisce potenza e cuore per migliorare performance e resistenza cardiovascolare.",
+          "visual_hint": "Workout forza resistenza",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "strength endurance training",
+          "image": "https://images.pexels.com/photos/22748549/pexels-photo-22748549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Piega le ginocchia, schiena dritta",
+          "description": "Tieni le spalle indietro e il core attivo: così attivi i muscoli giusti e proteggi la schiena.",
+          "visual_hint": "Squat tecnica corretta",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "proper squat form",
+          "image": "https://images.pexels.com/photos/4853689/pexels-photo-4853689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non curvare la schiena",
+          "description": "Perdi potenza e rischi infortuni. Mantieni la colonna neutra: finta panca, schiena dritta.",
+          "visual_hint": "Errore schiena curva",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "back arching squat",
+          "image": "https://images.pexels.com/photos/4662331/pexels-photo-4662331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Oggi 3x12 squat a corpo libero",
+          "description": "Sfida te stesso: completa 3 serie da 12 ripetizioni con forma perfetta. Posta il tuo risultato!",
+          "visual_hint": "Challenge squat finale",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "bodyweight squat challenge",
+          "image": "https://images.pexels.com/photos/4164454/pexels-photo-4164454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/04/23/6263b2a89f615.jpeg",
+      "savedAt": "2026-05-16T06:29:36.977Z",
+      "sourceId": "2dbb17395d70a01aaea60cd914551ef8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "fitness",
+      "slug": "balo-is-back-gol-muscoli-dieta-passioni-mancini-tu",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Balo is back! Gol, muscoli, dieta, passioni, Mancini: tutto su  SuperMario   ",
+      "link": "https://www.gazzetta.it/fitness/allenamento/storie/27-01-2022/mario-balotelli-convocato-mancini-dove-gioca-oggi-fisico-dieta-4301091246696/",
+      "pubDate": "Thu, 27 Jan 2022 10:10:00 +0100",
+      "slides": [
+        "Torna come Balo: forza e disciplina.",
+        "La costanza supera il talento puro.",
+        "Piedi saldi e core attivo subito.",
+        "Non saltare mai il riscaldamento.",
+        "Oggi, 10 minuti di tabata."
+      ],
+      "instagram_caption": "Balo è tornato: quando la disciplina scolpisce il talento. 💥  \nLa costanza batte il genio che si allena a sprazzi, e lui oggi lo dimostra.  \nPiedi saldi a terra, core attivo in ogni movimento: non c’è gesto vincente senza una base solida.  \nPrima di ogni sfida, non saltare il riscaldamento – prepara il corpo, accendi la mente.  \nPronto a metterti alla prova? Oggi 10 minuti di tabata: esplosività e determinazione.  \nAlzati e scendi in campo: il campione sei tu. 🔥",
+      "formats": {
+        "instagram": {
+          "caption": "Balo è tornato: quando la disciplina scolpisce il talento. 💥  \nLa costanza batte il genio che si allena a sprazzi, e lui oggi lo dimostra.  \nPiedi saldi a terra, core attivo in ogni movimento: non c’è gesto vincente senza una base solida.  \nPrima di ogni sfida, non saltare il riscaldamento – prepara il corpo, accendi la mente.  \nPronto a metterti alla prova? Oggi 10 minuti di tabata: esplosività e determinazione.  \nAlzati e scendi in campo: il campione sei tu. 🔥"
+        },
+        "tiktok": {
+          "script": [
+            "Parti così: forza e disciplina, come Balo.",
+            "Il segreto è la costanza, non il talento puro.",
+            "Piedi saldi e core attivo: subito in posizione!",
+            "Evita questo errore: mai saltare il riscaldamento.",
+            "Oggi, 10 minuti di tabata: fai il pieno di energia."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Balo è tornato, e non solo per i gol. La vera differenza oggi? La disciplina che trasforma il talento in risultati duraturi. Se vuoi il suo fisico, devi prima costruire la sua mentalità. Non aspettare il colpo di genio, costruisci la base.",
+            "Ogni ripetizione parte dai piedi: pianta salda a terra. Il core in tensione stabilizza il tronco e previene infortuni. Anche in un semplice squat, pensa a spingere il pavimento lontano da te. Non c’è azione senza radici.",
+            "C’è un errore che vedo sempre: saltare il riscaldamento. Muscoli freddi = infortunio assicurato. Prima del tabata, dedica 5 minuti a mobilità e attivazione. Balo ha imparato che la preparazione è metà del risultato. Riscaldati o non iniziare.",
+            "La costanza batte il talento ogni volta. Il segreto di Mario ora è la ripetizione quotidiana. Non serve la sessione perfetta, serve quella fatta. Tre allenamenti medi tenuti per 6 mesi valgono più di due perfetti e poi stop.",
+            "Oggi fai 10 minuti di tabata: 20 secondi di lavoro, 10 di recupero. Scegli un esercizio (burpee, squat, mountain climber) e dà tutto. Pochi minuti, massimo impatto. Prova domani e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Parti così: forza e disciplina, come Balo.",
+        "Il segreto è la costanza, non il talento puro.",
+        "Piedi saldi e core attivo: subito in posizione!",
+        "Evita questo errore: mai saltare il riscaldamento.",
+        "Oggi, 10 minuti di tabata: fai il pieno di energia."
+      ],
+      "thread_text": [
+        "Balo è tornato, e non solo per i gol. La vera differenza oggi? La disciplina che trasforma il talento in risultati duraturi. Se vuoi il suo fisico, devi prima costruire la sua mentalità. Non aspettare il colpo di genio, costruisci la base.",
+        "Ogni ripetizione parte dai piedi: pianta salda a terra. Il core in tensione stabilizza il tronco e previene infortuni. Anche in un semplice squat, pensa a spingere il pavimento lontano da te. Non c’è azione senza radici.",
+        "C’è un errore che vedo sempre: saltare il riscaldamento. Muscoli freddi = infortunio assicurato. Prima del tabata, dedica 5 minuti a mobilità e attivazione. Balo ha imparato che la preparazione è metà del risultato. Riscaldati o non iniziare.",
+        "La costanza batte il talento ogni volta. Il segreto di Mario ora è la ripetizione quotidiana. Non serve la sessione perfetta, serve quella fatta. Tre allenamenti medi tenuti per 6 mesi valgono più di due perfetti e poi stop.",
+        "Oggi fai 10 minuti di tabata: 20 secondi di lavoro, 10 di recupero. Scegli un esercizio (burpee, squat, mountain climber) e dà tutto. Pochi minuti, massimo impatto. Prova domani e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "SuperMario è tornato più forte",
+          "description": "Forza e disciplina per un rientro da campione. 10 minuti di Tabata per esplodere come Balotelli.",
+          "visual_hint": "Balo muscoli concentrato",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "training footballer"
+        },
+        {
+          "hook": "La costanza vince il talento",
+          "description": "Non serve essere nati superuomini: la ripetizione quotidiana costruisce corpi invincibili.",
+          "visual_hint": "frasi motivazionali fitness",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "consistent workout man",
+          "image": "https://images.pexels.com/photos/29667296/pexels-photo-29667296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Piedi saldi, core attivo subito",
+          "description": "Attiva addome e stabilizza il bacino prima di ogni esercizio per una potenza esplosiva.",
+          "visual_hint": "core activation close-up",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "core stability exercise",
+          "image": "https://images.pexels.com/photos/4945276/pexels-photo-4945276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Mai saltare il riscaldamento",
+          "description": "Errore comune: iniziare a freddo. 5 minuti di mobilità dinamica prevengono infortuni e migliorano le prestazioni.",
+          "visual_hint": "infortunio vs warm-up",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "dynamic warmup stretch",
+          "image": "https://images.pexels.com/photos/31492042/pexels-photo-31492042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Oggi 10 minuti di Tabata",
+          "description": "20 secondi all-out, 10 di recupero. Fai il tuo Tabata e tagga un amico da sfidare!",
+          "visual_hint": "Tabata timer action",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "tabata timer workout",
+          "image": "https://images.pexels.com/photos/4944001/pexels-photo-4944001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205935f4d67e.jpeg",
+      "savedAt": "2026-05-16T06:29:14.268Z",
+      "sourceId": "7e42efc28a372ca524f5c87c05d76a4b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "fitness",
+      "slug": "razgatlioglu-non-solo-moto-l-allenamento-del-re-de",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Razgatlioglu non solo moto: l’allenamento del re della Sbk  ",
+      "link": "https://www.gazzetta.it/fitness/allenamento/28-01-2022/razgatlioglu-non-solo-moto-l-allenamento-re-sbk-4301114632081.shtml",
+      "pubDate": "Fri, 28 Jan 2022 11:01:24 +0100",
+      "slides": [
+        "Diventa re della tua forma fisica.",
+        "L'equilibrio dinamico come Toprak potenzia ogni muscolo.",
+        "Contrai il core su una superficie instabile.",
+        "Non bloccare il respiro durante lo sforzo.",
+        "Prova 3 serie da 30 secondi oggi."
+      ],
+      "instagram_caption": "Diventa il re della tua forma fisica, proprio come Toprak Razgatlioglu domina in pista. 🏆 L’equilibrio dinamico non è solo per le derapate: su una superficie instabile ogni muscolo del core lavora al massimo per stabilizzarti. Contrai l'addome con forza, ma ricorda di non bloccare mai il respiro: inspira ed espira in modo fluido durante lo sforzo. Non serve una moto, solo determinazione. Prova 3 serie da 30 secondi oggi stesso e senti la differenza. Accendi il fuoco, accendi i muscoli. 🔥💪",
+      "formats": {
+        "instagram": {
+          "caption": "Diventa il re della tua forma fisica, proprio come Toprak Razgatlioglu domina in pista. 🏆 L’equilibrio dinamico non è solo per le derapate: su una superficie instabile ogni muscolo del core lavora al massimo per stabilizzarti. Contrai l'addome con forza, ma ricorda di non bloccare mai il respiro: inspira ed espira in modo fluido durante lo sforzo. Non serve una moto, solo determinazione. Prova 3 serie da 30 secondi oggi stesso e senti la differenza. Accendi il fuoco, accendi i muscoli. 🔥💪"
+        },
+        "tiktok": {
+          "script": [
+            "Diventa il re della tua forma fisica.",
+            "L'equilibrio dinamico come Toprak potenzia ogni muscolo.",
+            "Contrai il core su una superficie instabile.",
+            "Non bloccare il respiro durante lo sforzo.",
+            "Prova 3 serie da 30 secondi oggi."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Vuoi costruire una base fisica da campione? Toprak Razgatlioglu lo fa con l'equilibrio dinamico. Non serve una moto, solo determinazione. Diventa il re della tua forma fisica. 🔥",
+            "L'equilibrio dinamico simula le condizioni reali: ogni muscolo lavora per stabilizzarti. Su una superficie instabile (bosu, cuscino) il core si attiva al 100%. Nessun isolamento, solo potenza funzionale.",
+            "Contrai il core come se dovessi assorbire un colpo: ombelico verso la colonna. Mantieni la posizione senza oscillare. L'errore? Bloccare il respiro. Inspira ed espira con calma, anche sotto sforzo.",
+            "Trattenere il fiato durante l'equilibrio aumenta la pressione e riduce la stabilità. Espira durante lo sforzo, inspira nel controllo. Il tuo corpo reagisce meglio con ossigeno costante.",
+            "Pronto a metterti alla prova? 3 serie da 30 secondi su superficie instabile. Fallo oggi, senti la differenza. Raccontami com'è andata nei commenti. 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Diventa il re della tua forma fisica.",
+        "L'equilibrio dinamico come Toprak potenzia ogni muscolo.",
+        "Contrai il core su una superficie instabile.",
+        "Non bloccare il respiro durante lo sforzo.",
+        "Prova 3 serie da 30 secondi oggi."
+      ],
+      "thread_text": [
+        "Vuoi costruire una base fisica da campione? Toprak Razgatlioglu lo fa con l'equilibrio dinamico. Non serve una moto, solo determinazione. Diventa il re della tua forma fisica. 🔥",
+        "L'equilibrio dinamico simula le condizioni reali: ogni muscolo lavora per stabilizzarti. Su una superficie instabile (bosu, cuscino) il core si attiva al 100%. Nessun isolamento, solo potenza funzionale.",
+        "Contrai il core come se dovessi assorbire un colpo: ombelico verso la colonna. Mantieni la posizione senza oscillare. L'errore? Bloccare il respiro. Inspira ed espira con calma, anche sotto sforzo.",
+        "Trattenere il fiato durante l'equilibrio aumenta la pressione e riduce la stabilità. Espira durante lo sforzo, inspira nel controllo. Il tuo corpo reagisce meglio con ossigeno costante.",
+        "Pronto a metterti alla prova? 3 serie da 30 secondi su superficie instabile. Fallo oggi, senti la differenza. Raccontami com'è andata nei commenti. 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Diventa re della forma fisica",
+          "description": "Scopri l'allenamento segreto di Toprak Razgatlioglu per dominare equilibrio e potenza su ogni superficie.",
+          "visual_hint": "Toprak in palestra concentrato",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "motorcycle rider gym training"
+        },
+        {
+          "hook": "Equilibrio dinamico come Toprak",
+          "description": "Migliora stabilità e controllo muscolare con movimenti ispirati alla guida SBK, attivando ogni fibra del tuo corpo.",
+          "visual_hint": "Pilota su una gamba sola",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "athlete balance one leg",
+          "image": "https://images.pexels.com/photos/4045208/pexels-photo-4045208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Contrai il core su superficie instabile",
+          "description": "Attiva addominali profondi e lombari su un cuscino o fitball per simulare le sollecitazioni in moto e potenziare il centro.",
+          "visual_hint": "Plank su fitball dinamico",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "core exercise unstable surface",
+          "image": "https://images.pexels.com/photos/4959806/pexels-photo-4959806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non bloccare il respiro durante lo sforzo",
+          "description": "Trattenere il fiato aumenta la pressione e riduce ossigeno ai muscoli. Espira durante la contrazione per massima potenza e sicurezza.",
+          "visual_hint": "Atleta che espira con sforzo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "man breathing heavy workout",
+          "image": "https://images.pexels.com/photos/5837242/pexels-photo-5837242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova 3 serie da 30 secondi oggi",
+          "description": "Inserisci questi esercizi nel tuo riscaldamento o circuito full body per sentirti subito più stabile e reattivo come un campione.",
+          "visual_hint": "Timer fitness con 30 secondi",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "gym timer circuit training",
+          "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205bec456c60.jpeg",
+      "savedAt": "2026-05-16T06:28:50.047Z",
+      "sourceId": "bd6a875992b1713317f0d52cab042731"
+    },
+    {
+      "schema_version": 2,
+      "agent": "fitness",
       "slug": "valentino-rossi-e-il-post-valencia-2006-pi-palestr",
       "prompt_version": "1.0.0",
       "status": "published",

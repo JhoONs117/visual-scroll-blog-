@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "mourinho-buon-compleanno-roma-pizza-workout-e-ecco",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Mourinho, buon compleanno! Roma, pizza, workout e... ecco il suo mondo  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/storie/26-01-2022/jose-mourinho-roma-moglie-figli-trofei-suo-compleanno-famiglia-4301107579743/",
+  "pubDate": "Wed, 26 Jan 2022 13:11:26 +0100",
+  "slides": [
+    "Allenati come uno Special One: disciplina e passione.",
+    "Il workout di Mourinho unisce forza e resistenza.",
+    "Piega le ginocchia, schiena dritta, spalle indietro.",
+    "Non curvare la schiena: perdi potenza e rischi.",
+    "Oggi fai 3 serie da 12 squat a corpo libero."
+  ],
+  "instagram_caption": "Lo Special One non si costruisce con il talento, ma con disciplina e passione ogni singolo giorno. 🏆💪  \nAnche il workout di Mourinho unisce forza e resistenza: piega le ginocchia, schiena dritta, spalle indietro.  \nNon curvare la schiena — perdi potenza e rischi infortuni. La tecnica è tutto.  \nIl tuo programma oggi: 3 serie da 12 squat a corpo libero.  \nPrendi il controllo del tuo corpo, come un vero leader. Prova subito questo esercizio, domani mattina raddoppia la sfida. 🔥",
+  "formats": {
+    "instagram": {
+      "caption": "Lo Special One non si costruisce con il talento, ma con disciplina e passione ogni singolo giorno. 🏆💪  \nAnche il workout di Mourinho unisce forza e resistenza: piega le ginocchia, schiena dritta, spalle indietro.  \nNon curvare la schiena — perdi potenza e rischi infortuni. La tecnica è tutto.  \nIl tuo programma oggi: 3 serie da 12 squat a corpo libero.  \nPrendi il controllo del tuo corpo, come un vero leader. Prova subito questo esercizio, domani mattina raddoppia la sfida. 🔥"
+    },
+    "tiktok": {
+      "script": [
+        "Allenati come lo Special One: disciplina e passione.",
+        "Il workout Mourinho unisce forza e resistenza.",
+        "Piega le ginocchia, schiena dritta, spalle indietro.",
+        "Non curvare: perdi potenza e rischi infortuni.",
+        "Oggi 3 serie da 12 squat a corpo libero."
+      ]
+    },
+    "x": {
+      "thread": [
+        "La vera differenza non la fa il talento, ma la disciplina quotidiana. Mourinho lo sa: ogni dettaglio conta. Come nei suoi allenamenti, anche il tuo workout può diventare leggendario. Forza e testa, sempre. 🔥",
+        "Ecco il segreto dello Special One: unisce forza e resistenza in un unico flusso. Squat, core, reattività. Ogni movimento è pensato per renderti più solido e scattante. Non è solo sudore, è strategia.",
+        "Piega le ginocchia, schiena dritta, spalle indietro. Questa è la base del movimento vincente. Il peso va sui talloni, il petto resta aperto. Sembra semplice, ma la perfezione sta nei dettagli. La forma è tutto.",
+        "Attenzione all'errore più comune: non curvare la schiena. Se lo fai, perdi potenza e rischi di farti male. Meglio fermarsi e correggere la postura che accumulare ripetizioni sbagliate. La qualità batte la quantità.",
+        "Oggi ti sfido a fare 3 serie da 12 squat a corpo libero. Concentrati sulla tecnica. Alla fine sentirai le gambe e la schiena lavorare insieme. Prova domani e dimmi com'è andata 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Allenati come lo Special One: disciplina e passione.",
+    "Il workout Mourinho unisce forza e resistenza.",
+    "Piega le ginocchia, schiena dritta, spalle indietro.",
+    "Non curvare: perdi potenza e rischi infortuni.",
+    "Oggi 3 serie da 12 squat a corpo libero."
+  ],
+  "thread_text": [
+    "La vera differenza non la fa il talento, ma la disciplina quotidiana. Mourinho lo sa: ogni dettaglio conta. Come nei suoi allenamenti, anche il tuo workout può diventare leggendario. Forza e testa, sempre. 🔥",
+    "Ecco il segreto dello Special One: unisce forza e resistenza in un unico flusso. Squat, core, reattività. Ogni movimento è pensato per renderti più solido e scattante. Non è solo sudore, è strategia.",
+    "Piega le ginocchia, schiena dritta, spalle indietro. Questa è la base del movimento vincente. Il peso va sui talloni, il petto resta aperto. Sembra semplice, ma la perfezione sta nei dettagli. La forma è tutto.",
+    "Attenzione all'errore più comune: non curvare la schiena. Se lo fai, perdi potenza e rischi di farti male. Meglio fermarsi e correggere la postura che accumulare ripetizioni sbagliate. La qualità batte la quantità.",
+    "Oggi ti sfido a fare 3 serie da 12 squat a corpo libero. Concentrati sulla tecnica. Alla fine sentirai le gambe e la schiena lavorare insieme. Prova domani e dimmi com'è andata 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Allenati come lo Special One",
+      "description": "Disciplina e passione per un workout che unisce forza e resistenza, proprio come Mourinho.",
+      "visual_hint": "Mourinho allenamento grinta",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "special one coaching"
+    },
+    {
+      "hook": "Forza e resistenza insieme",
+      "description": "Unisce potenza e cuore per migliorare performance e resistenza cardiovascolare.",
+      "visual_hint": "Workout forza resistenza",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "strength endurance training",
+      "image": "https://images.pexels.com/photos/22748549/pexels-photo-22748549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Piega le ginocchia, schiena dritta",
+      "description": "Tieni le spalle indietro e il core attivo: così attivi i muscoli giusti e proteggi la schiena.",
+      "visual_hint": "Squat tecnica corretta",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "proper squat form",
+      "image": "https://images.pexels.com/photos/4853689/pexels-photo-4853689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non curvare la schiena",
+      "description": "Perdi potenza e rischi infortuni. Mantieni la colonna neutra: finta panca, schiena dritta.",
+      "visual_hint": "Errore schiena curva",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "back arching squat",
+      "image": "https://images.pexels.com/photos/4662331/pexels-photo-4662331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Oggi 3x12 squat a corpo libero",
+      "description": "Sfida te stesso: completa 3 serie da 12 ripetizioni con forma perfetta. Posta il tuo risultato!",
+      "visual_hint": "Challenge squat finale",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "bodyweight squat challenge",
+      "image": "https://images.pexels.com/photos/4164454/pexels-photo-4164454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/04/23/6263b2a89f615.jpeg",
+  "savedAt": "2026-05-16T06:29:36.977Z",
+  "sourceId": "2dbb17395d70a01aaea60cd914551ef8"
+}

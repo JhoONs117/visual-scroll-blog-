@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "razgatlioglu-non-solo-moto-l-allenamento-del-re-de",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Razgatlioglu non solo moto: l’allenamento del re della Sbk  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/28-01-2022/razgatlioglu-non-solo-moto-l-allenamento-re-sbk-4301114632081.shtml",
+  "pubDate": "Fri, 28 Jan 2022 11:01:24 +0100",
+  "slides": [
+    "Diventa re della tua forma fisica.",
+    "L'equilibrio dinamico come Toprak potenzia ogni muscolo.",
+    "Contrai il core su una superficie instabile.",
+    "Non bloccare il respiro durante lo sforzo.",
+    "Prova 3 serie da 30 secondi oggi."
+  ],
+  "instagram_caption": "Diventa il re della tua forma fisica, proprio come Toprak Razgatlioglu domina in pista. 🏆 L’equilibrio dinamico non è solo per le derapate: su una superficie instabile ogni muscolo del core lavora al massimo per stabilizzarti. Contrai l'addome con forza, ma ricorda di non bloccare mai il respiro: inspira ed espira in modo fluido durante lo sforzo. Non serve una moto, solo determinazione. Prova 3 serie da 30 secondi oggi stesso e senti la differenza. Accendi il fuoco, accendi i muscoli. 🔥💪",
+  "formats": {
+    "instagram": {
+      "caption": "Diventa il re della tua forma fisica, proprio come Toprak Razgatlioglu domina in pista. 🏆 L’equilibrio dinamico non è solo per le derapate: su una superficie instabile ogni muscolo del core lavora al massimo per stabilizzarti. Contrai l'addome con forza, ma ricorda di non bloccare mai il respiro: inspira ed espira in modo fluido durante lo sforzo. Non serve una moto, solo determinazione. Prova 3 serie da 30 secondi oggi stesso e senti la differenza. Accendi il fuoco, accendi i muscoli. 🔥💪"
+    },
+    "tiktok": {
+      "script": [
+        "Diventa il re della tua forma fisica.",
+        "L'equilibrio dinamico come Toprak potenzia ogni muscolo.",
+        "Contrai il core su una superficie instabile.",
+        "Non bloccare il respiro durante lo sforzo.",
+        "Prova 3 serie da 30 secondi oggi."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Vuoi costruire una base fisica da campione? Toprak Razgatlioglu lo fa con l'equilibrio dinamico. Non serve una moto, solo determinazione. Diventa il re della tua forma fisica. 🔥",
+        "L'equilibrio dinamico simula le condizioni reali: ogni muscolo lavora per stabilizzarti. Su una superficie instabile (bosu, cuscino) il core si attiva al 100%. Nessun isolamento, solo potenza funzionale.",
+        "Contrai il core come se dovessi assorbire un colpo: ombelico verso la colonna. Mantieni la posizione senza oscillare. L'errore? Bloccare il respiro. Inspira ed espira con calma, anche sotto sforzo.",
+        "Trattenere il fiato durante l'equilibrio aumenta la pressione e riduce la stabilità. Espira durante lo sforzo, inspira nel controllo. Il tuo corpo reagisce meglio con ossigeno costante.",
+        "Pronto a metterti alla prova? 3 serie da 30 secondi su superficie instabile. Fallo oggi, senti la differenza. Raccontami com'è andata nei commenti. 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Diventa il re della tua forma fisica.",
+    "L'equilibrio dinamico come Toprak potenzia ogni muscolo.",
+    "Contrai il core su una superficie instabile.",
+    "Non bloccare il respiro durante lo sforzo.",
+    "Prova 3 serie da 30 secondi oggi."
+  ],
+  "thread_text": [
+    "Vuoi costruire una base fisica da campione? Toprak Razgatlioglu lo fa con l'equilibrio dinamico. Non serve una moto, solo determinazione. Diventa il re della tua forma fisica. 🔥",
+    "L'equilibrio dinamico simula le condizioni reali: ogni muscolo lavora per stabilizzarti. Su una superficie instabile (bosu, cuscino) il core si attiva al 100%. Nessun isolamento, solo potenza funzionale.",
+    "Contrai il core come se dovessi assorbire un colpo: ombelico verso la colonna. Mantieni la posizione senza oscillare. L'errore? Bloccare il respiro. Inspira ed espira con calma, anche sotto sforzo.",
+    "Trattenere il fiato durante l'equilibrio aumenta la pressione e riduce la stabilità. Espira durante lo sforzo, inspira nel controllo. Il tuo corpo reagisce meglio con ossigeno costante.",
+    "Pronto a metterti alla prova? 3 serie da 30 secondi su superficie instabile. Fallo oggi, senti la differenza. Raccontami com'è andata nei commenti. 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Diventa re della forma fisica",
+      "description": "Scopri l'allenamento segreto di Toprak Razgatlioglu per dominare equilibrio e potenza su ogni superficie.",
+      "visual_hint": "Toprak in palestra concentrato",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "motorcycle rider gym training"
+    },
+    {
+      "hook": "Equilibrio dinamico come Toprak",
+      "description": "Migliora stabilità e controllo muscolare con movimenti ispirati alla guida SBK, attivando ogni fibra del tuo corpo.",
+      "visual_hint": "Pilota su una gamba sola",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "athlete balance one leg",
+      "image": "https://images.pexels.com/photos/4045208/pexels-photo-4045208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Contrai il core su superficie instabile",
+      "description": "Attiva addominali profondi e lombari su un cuscino o fitball per simulare le sollecitazioni in moto e potenziare il centro.",
+      "visual_hint": "Plank su fitball dinamico",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "core exercise unstable surface",
+      "image": "https://images.pexels.com/photos/4959806/pexels-photo-4959806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non bloccare il respiro durante lo sforzo",
+      "description": "Trattenere il fiato aumenta la pressione e riduce ossigeno ai muscoli. Espira durante la contrazione per massima potenza e sicurezza.",
+      "visual_hint": "Atleta che espira con sforzo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "man breathing heavy workout",
+      "image": "https://images.pexels.com/photos/5837242/pexels-photo-5837242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova 3 serie da 30 secondi oggi",
+      "description": "Inserisci questi esercizi nel tuo riscaldamento o circuito full body per sentirti subito più stabile e reattivo come un campione.",
+      "visual_hint": "Timer fitness con 30 secondi",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "gym timer circuit training",
+      "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205bec456c60.jpeg",
+  "savedAt": "2026-05-16T06:28:50.047Z",
+  "sourceId": "bd6a875992b1713317f0d52cab042731"
+}
