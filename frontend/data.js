@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "research-repository-arxiv-will-ban-authors-for-a-y",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+    "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "pubDate": "Sat, 16 May 2026 18:54:28 +0000",
+    "slides": [
+      "ArXiv punisce chi usa IA per tutto con un anno di bando?",
+      "La policy riguarda solo articoli con contributo umano insufficiente.",
+      "Il problema: come distinguere IA assistita da IA autrice?",
+      "Se pubblichi su ArXiv, dovrai dichiarare il tuo uso di IA.",
+      "Controlla le nuove linee guida prima del prossimo submission."
+    ],
+    "thread_text": [
+      "ArXiv rischia di bandirti per un anno se usa l'IA al posto tuo. La nuova policy colpisce chi sostituisce il proprio contributo con un tool. E non è solo un'avvertenza.",
+      "La regola è chiara: l'IA è ok se ti assiste, non se scrive l'articolo al posto tuo. Il problema? Distinguere tra aiuto e sostituzione è quasi impossibile.",
+      "Per questo ArXiv ti obbliga a dichiarare l'uso di IA nella submission. Niente dichiarazione? Rischio bando. Il sistema si basa sulla tua onestà.",
+      "La conseguenza pratica: se pubblichi su ArXiv, controlla le nuove linee guida prima del prossimo submission. Un errore potrebbe costarti un anno di accesso.",
+      "Hai un draft in preparazione? Leggi la policy adesso e decidi se e come dichiarare l'uso di IA. Farlo dopo il submission è troppo tardi."
+    ],
+    "video_script": [
+      "ArXiv ti banna per un anno se usi l'IA male.",
+      "La regola colpisce solo chi non contribuisce abbastanza.",
+      "Il vero problema è capire chi ha scritto cosa.",
+      "Dovrai dichiarare ogni uso di IA.",
+      "Controlla le linee guida prima di submit."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "ArXiv rischia di bandirti per un anno se usa l'IA al posto tuo. La nuova policy colpisce chi sostituisce il proprio contributo con un tool. E non è solo un'avvertenza.",
+          "La regola è chiara: l'IA è ok se ti assiste, non se scrive l'articolo al posto tuo. Il problema? Distinguere tra aiuto e sostituzione è quasi impossibile.",
+          "Per questo ArXiv ti obbliga a dichiarare l'uso di IA nella submission. Niente dichiarazione? Rischio bando. Il sistema si basa sulla tua onestà.",
+          "La conseguenza pratica: se pubblichi su ArXiv, controlla le nuove linee guida prima del prossimo submission. Un errore potrebbe costarti un anno di accesso.",
+          "Hai un draft in preparazione? Leggi la policy adesso e decidi se e come dichiarare l'uso di IA. Farlo dopo il submission è troppo tardi."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "ArXiv ti banna per un anno se usi l'IA male.",
+          "La regola colpisce solo chi non contribuisce abbastanza.",
+          "Il vero problema è capire chi ha scritto cosa.",
+          "Dovrai dichiarare ogni uso di IA.",
+          "Controlla le linee guida prima di submit."
+        ]
+      },
+      "instagram": {
+        "caption": "Se pubblichi un paper su ArXiv scritto interamente da ChatGPT o Claude, rischi un anno di bando dalla piattaforma. ⚠️ La nuova policy non vieta l'AI in sé, ma solo il caso in cui sostituisca del tutto il tuo contributo umano. Il punto è che stabilire se l'AI ti ha assistito o ha scritto al posto tuo è quasi impossibile, quindi ArXiv ti chiede di dichiarare l'uso in fase di submission. ✍️ Per chi prepara articoli scientifici, questo significa che non dichiarare l'AI o usarla senza supervisione può costarti l'accesso per dodici mesi. Hai già controllato le nuove linee guida? 🔍"
+      }
+    },
+    "instagram_caption": "Se pubblichi un paper su ArXiv scritto interamente da ChatGPT o Claude, rischi un anno di bando dalla piattaforma. ⚠️ La nuova policy non vieta l'AI in sé, ma solo il caso in cui sostituisca del tutto il tuo contributo umano. Il punto è che stabilire se l'AI ti ha assistito o ha scritto al posto tuo è quasi impossibile, quindi ArXiv ti chiede di dichiarare l'uso in fase di submission. ✍️ Per chi prepara articoli scientifici, questo significa che non dichiarare l'AI o usarla senza supervisione può costarti l'accesso per dodici mesi. Hai già controllato le nuove linee guida? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Bando di un anno per IA?",
+        "description": "ArXiv banna per un anno chi sostituisce il contributo umano con l'IA nella scrittura di articoli.",
+        "visual_hint": "gabbia con computer",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Dov'è il confine?",
+        "description": "L'IA è ok come assistente, non come autrice. Ma distinguere aiuto da sostituzione è quasi impossibile.",
+        "visual_hint": "linea di confine digitale",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Dichiarazione obbligatoria ora",
+        "description": "ArXiv ti obbliga a dichiarare l'uso di IA nella submission. Il sistema si basa sulla tua onestà.",
+        "visual_hint": "modulo con spunta",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Leggi le linee guida subito",
+        "description": "Controlla le nuove policy prima del prossimo submission. Un errore costa un anno di accesso.",
+        "visual_hint": "documento con lente",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prepari un draft? Agisci ora",
+        "description": "Leggi la policy adesso e decidi come dichiarare l'IA. Farlo dopo il submission è troppo tardi.",
+        "visual_hint": "tasto invio premuto",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/31912311/pexels-photo-31912311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/business-research-getty.jpg?resize=1200,800",
+    "savedAt": "2026-05-16T20:39:34.703Z",
+    "sourceId": "f04b5b1c9763fee13a0cfcdda1968bd9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "the-haves-and-have-nots-of-the-ai-gold-rush",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The haves and have nots of the AI gold rush",
+    "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "pubDate": "Sat, 16 May 2026 20:17:16 +0000",
+    "slides": [
+      "L'AI divide chi guadagna e chi resta indietro.",
+      "Poche aziende possiedono i chip più potenti.",
+      "Ma il vero valore è nei dati, non nell'hardware.",
+      "Se non hai dati proprietari, resti fuori dalla corsa.",
+      "Quale risorsa possiedi oggi per competere?"
+    ],
+    "thread_text": [
+      "Se non hai dati proprietari, resti fuori dalla corsa. Non è l'hardware il vero vantaggio: è ciò che hai già in casa, che nessun altro possiede.",
+      "Ogni settimana arrivano nuovi chip. Ma se il tuo modello gira su dati pubblici, il tuo margine si scioglie in sei mesi.",
+      "Le aziende che vincono non comprano la GPU più veloce: hanno dati unici che nessun dataset aperto può replicare.",
+      "Poche aziende possiedono i chip più potenti, ma il possesso dei dati crea una barriera che il denaro non può comprare.",
+      "Quale dato specifico della tua azienda usi oggi per migliorare un processo interno? Se non c’è, parti da lì."
+    ],
+    "video_script": [
+      "Il vero valore è nei dati, non nell'hardware.",
+      "Pochi possiedono i chip più potenti.",
+      "Ma il vantaggio è ciò che hai già.",
+      "Dati proprietari fanno la differenza.",
+      "Cosa usi oggi per competere?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Se non hai dati proprietari, resti fuori dalla corsa. Non è l'hardware il vero vantaggio: è ciò che hai già in casa, che nessun altro possiede.",
+          "Ogni settimana arrivano nuovi chip. Ma se il tuo modello gira su dati pubblici, il tuo margine si scioglie in sei mesi.",
+          "Le aziende che vincono non comprano la GPU più veloce: hanno dati unici che nessun dataset aperto può replicare.",
+          "Poche aziende possiedono i chip più potenti, ma il possesso dei dati crea una barriera che il denaro non può comprare.",
+          "Quale dato specifico della tua azienda usi oggi per migliorare un processo interno? Se non c’è, parti da lì."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Il vero valore è nei dati, non nell'hardware.",
+          "Pochi possiedono i chip più potenti.",
+          "Ma il vantaggio è ciò che hai già.",
+          "Dati proprietari fanno la differenza.",
+          "Cosa usi oggi per competere?"
+        ]
+      },
+      "instagram": {
+        "caption": "Questa settimana: se non possiedi dati esclusivi, non hai un biglietto per la corsa all'AI. I chip più potenti sono in mano a pochissime aziende, ma il vero vantaggio è ciò che già hai in cassaforte: dati proprietari che nessun dataset pubblico può replicare. Chi usa solo informazioni pubbliche vede il proprio margine sciogliersi in mesi. Per chi lavora in azienda, questo significa che la vera competizione non è sulla tecnologia, ma su cosa sai di te stesso che gli altri non sanno. Quale dato che già possiedi userai domani per risolvere un problema interno? 📉🧠🔑📁⛏️"
+      }
+    },
+    "instagram_caption": "Questa settimana: se non possiedi dati esclusivi, non hai un biglietto per la corsa all'AI. I chip più potenti sono in mano a pochissime aziende, ma il vero vantaggio è ciò che già hai in cassaforte: dati proprietari che nessun dataset pubblico può replicare. Chi usa solo informazioni pubbliche vede il proprio margine sciogliersi in mesi. Per chi lavora in azienda, questo significa che la vera competizione non è sulla tecnologia, ma su cosa sai di te stesso che gli altri non sanno. Quale dato che già possiedi userai domani per risolvere un problema interno? 📉🧠🔑📁⛏️",
+    "carousel_slides": [
+      {
+        "hook": "Il vero oro non è l'hardware",
+        "description": "Non è il chip più veloce che vince: sono i dati unici che nessun dataset aperto può replicare.",
+        "visual_hint": "montagna di chip vs libro",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer chips pile"
+      },
+      {
+        "hook": "Poche aziende hanno i chip",
+        "description": "Il possesso dei dati crea una barriera che il denaro non può comprare. Se non hai dati proprietari, resti fuori.",
+        "visual_hint": "chip dorato nelle mani di pochi",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room racks",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Hardware si supera, dati no",
+        "description": "Ogni settimana arrivano nuovi chip. Se il tuo modello gira su dati pubblici, il margine si scioglie in sei mesi.",
+        "visual_hint": "microscopio su chip e dati",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data center cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Dati proprietari=barriera invalicabile",
+        "description": "Le aziende che vincono non comprano la GPU più veloce: hanno dati unici che nessun dataset aperto può replicare.",
+        "visual_hint": "mano che trattiene dati preziosi",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding hard drive",
+        "image": "https://images.pexels.com/photos/18734876/pexels-photo-18734876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Quale dato usi oggi per competere?",
+        "description": "Se non hai dati proprietari, parti da lì. Quale risorsa possiedi oggi per non restare fuori dalla corsa?",
+        "visual_hint": "bussola che punta verso l'interno",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "office workers desk",
+        "image": "https://images.pexels.com/photos/12902868/pexels-photo-12902868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-958260352.jpg?resize=1200,1074",
+    "savedAt": "2026-05-16T20:39:21.256Z",
+    "sourceId": "859b70ce116b803078f17664070d8935"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-co-founder-greg-brockman-takes-charge-of-pr",
     "prompt_version": "1.0.0",
     "status": "published",
