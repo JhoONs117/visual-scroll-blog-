@@ -19623,6 +19623,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "fitness",
+      "slug": "allenamento-in-palestra-le-novit-si-chiamano-triba",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Allenamento in palestra: le novità si chiamano TribalFit, Blaze e Punch  ",
+      "link": "https://www.gazzetta.it/fitness/allenamento/24-01-2022/allenamento-palestra-tribal-fit-blaze-punch-ecco-cosa-sono-4301054644016.shtml",
+      "pubDate": "Mon, 24 Jan 2022 10:45:49 +0100",
+      "slides": [
+        "Ritrova energia e divertimento in palestra.",
+        "TribalFit, Blaze e Punch bruciano calorie.",
+        "Muovi tutto il corpo con ritmo ed intensità.",
+        "Non fermarti a metà esercizio e rallenta.",
+        "Oggi scegli una lezione di prova gratuita."
+      ],
+      "instagram_caption": "Stanchi del solito allenamento? La vera energia nasce quando il divertimento incontra il sudore. 💥 TribalFit, Blaze e Punch non sono solo lezioni: sono esperienze dinamiche che fondono ritmo, intensità e movimenti total body per bruciare calorie senza accorgerti della fatica. Ogni esercizio è un flusso unico: non fermarti a metà, rallenta con controllo e senti il corpo vibrare. È ora di riscoprire la palestra come un luogo di carica, non di noia. Vieni a provare oggi stesso una lezione gratuita e fammi sapere quale ti accende di più! 🔥",
+      "formats": {
+        "instagram": {
+          "caption": "Stanchi del solito allenamento? La vera energia nasce quando il divertimento incontra il sudore. 💥 TribalFit, Blaze e Punch non sono solo lezioni: sono esperienze dinamiche che fondono ritmo, intensità e movimenti total body per bruciare calorie senza accorgerti della fatica. Ogni esercizio è un flusso unico: non fermarti a metà, rallenta con controllo e senti il corpo vibrare. È ora di riscoprire la palestra come un luogo di carica, non di noia. Vieni a provare oggi stesso una lezione gratuita e fammi sapere quale ti accende di più! 🔥"
+        },
+        "tiktok": {
+          "script": [
+            "Ritrova energia e divertimento in palestra.",
+            "TribalFit, Blaze e Punch bruciano calorie.",
+            "Muovi tutto il corpo con ritmo ed intensità.",
+            "Non fermarti a metà esercizio e rallenta.",
+            "Oggi scegli una lezione di prova gratuita."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Stanco degli stessi esercizi che non ti danno più energia? È ora di riscoprire il divertimento in palestra con TribalFit, Blaze e Punch. Tre metodi che fanno la differenza. Ti spiego perché.",
+            "TribalFit unisce ritmi tribali a movimenti istintivi. Blaze è esplosivo, basato su intervalli ad alta intensità. Punch lavora su coordinazione e potenza. Tutti bruciano calorie senza farti annoiare.",
+            "Il segreto? Muovi tutto il corpo con ritmo e intensità. Non isoli un muscolo, ma attivi catene cinetiche. Più sudi, più il metabolismo accelera. Il risultato è un corpo tonico e reattivo.",
+            "Errore comune: fermarsi a metà esercizio o rallentare quando sale la fatica. Così perdi l’effetto brucia-grassi. Tieni il ritmo fino alla fine dello schema, anche se devi ridurre l'ampiezza.",
+            "Non ti resta che provare. La prima lezione di TribalFit, Blaze o Punch è gratuita. Scegli quella che ti incuriosisce di più, vieni e dimmi com'è andata. Ti aspetto."
+          ]
+        }
+      },
+      "video_script": [
+        "Ritrova energia e divertimento in palestra.",
+        "TribalFit, Blaze e Punch bruciano calorie.",
+        "Muovi tutto il corpo con ritmo ed intensità.",
+        "Non fermarti a metà esercizio e rallenta.",
+        "Oggi scegli una lezione di prova gratuita."
+      ],
+      "thread_text": [
+        "Stanco degli stessi esercizi che non ti danno più energia? È ora di riscoprire il divertimento in palestra con TribalFit, Blaze e Punch. Tre metodi che fanno la differenza. Ti spiego perché.",
+        "TribalFit unisce ritmi tribali a movimenti istintivi. Blaze è esplosivo, basato su intervalli ad alta intensità. Punch lavora su coordinazione e potenza. Tutti bruciano calorie senza farti annoiare.",
+        "Il segreto? Muovi tutto il corpo con ritmo e intensità. Non isoli un muscolo, ma attivi catene cinetiche. Più sudi, più il metabolismo accelera. Il risultato è un corpo tonico e reattivo.",
+        "Errore comune: fermarsi a metà esercizio o rallentare quando sale la fatica. Così perdi l’effetto brucia-grassi. Tieni il ritmo fino alla fine dello schema, anche se devi ridurre l'ampiezza.",
+        "Non ti resta che provare. La prima lezione di TribalFit, Blaze o Punch è gratuita. Scegli quella che ti incuriosisce di più, vieni e dimmi com'è andata. Ti aspetto."
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Nuova energia in palestra",
+          "description": "Scopri TribalFit, Blaze e Punch: allenamenti divertenti che bruciano calorie e rigenerano il corpo.",
+          "visual_hint": "Persone che saltano felici",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "gym workout happy"
+        },
+        {
+          "hook": "Brucia calorie con ritmo",
+          "description": "Ogni lezione combina movimento totale del corpo e intensità per massimizzare il consumo energetico.",
+          "visual_hint": "Gruppo che balla sudato",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "group fitness dance",
+          "image": "https://images.pexels.com/photos/17718737/pexels-photo-17718737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non fermarti mai",
+          "description": "Tecnica chiave: mantieni il ritmo senza pause per attivare il metabolismo e bruciare di più.",
+          "visual_hint": "Allenamento dinamico continuo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "intense workout rhythm",
+          "image": "https://images.pexels.com/photos/36389484/pexels-photo-36389484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Errore: rallentare a metà",
+          "description": "Correzione: esegui ogni movimento completo senza sosta, così migliori resistenza e tono muscolare.",
+          "visual_hint": "Persona che si ferma vs continua",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "fitness pause mistake",
+          "image": "https://images.pexels.com/photos/6455972/pexels-photo-6455972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova oggi gratis",
+          "description": "Prenota subito una lezione di prova gratuita di TribalFit, Blaze o Punch. Non aspettare!",
+          "visual_hint": "QR code o bottone cta",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "free trial gym",
+          "image": "https://images.pexels.com/photos/4853697/pexels-photo-4853697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c25b81a35.jpeg",
+      "savedAt": "2026-05-16T09:36:05.583Z",
+      "sourceId": "55d07d9645f26fecbd0699636c80e5ed"
+    },
+    {
+      "schema_version": 2,
+      "agent": "fitness",
+      "slug": "caicedo-i-muscoli-il-reality-la-moglie-e-l-inter-q",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Caicedo: i muscoli, il reality,   la moglie e... l'Inter. Quello che non sai di lui  ",
+      "link": "https://www.gazzetta.it/fitness/allenamento/storie/25-01-2022/felipe-caicedo-genoa-inter-tutto-di-lui-moglie-tattoo-4301079072748/",
+      "pubDate": "Tue, 25 Jan 2022 09:24:53 +0100",
+      "slides": [
+        "La costanza vince il talento.",
+        "La ripetizione costruisce campioni.",
+        "Contrai il muscolo target lentamente.",
+        "Non trascinare il peso con slancio.",
+        "Oggi fai 3 serie extra."
+      ],
+      "instagram_caption": "La costanza batte sempre il talento grezzo, lo dimostra Caicedo: i veri campioni non nascono, si costruiscono ripetizione dopo ripetizione. 🎯 Il segreto? Contrai il muscolo target lentamente, senza trascinare il peso con slancio — ogni movimento deve essere intenzionale. Oggi ti sfido: aggiungi 3 serie extra al tuo ultimo esercizio. Non serve allenarsi ore, serve allenarsi meglio. Prova questo focus sul controllo domani mattina 💪🔥",
+      "formats": {
+        "instagram": {
+          "caption": "La costanza batte sempre il talento grezzo, lo dimostra Caicedo: i veri campioni non nascono, si costruiscono ripetizione dopo ripetizione. 🎯 Il segreto? Contrai il muscolo target lentamente, senza trascinare il peso con slancio — ogni movimento deve essere intenzionale. Oggi ti sfido: aggiungi 3 serie extra al tuo ultimo esercizio. Non serve allenarsi ore, serve allenarsi meglio. Prova questo focus sul controllo domani mattina 💪🔥"
+        },
+        "tiktok": {
+          "script": [
+            "Caicedo mostra: costanza batte talento ogni giorno.",
+            "Il segreto? Ripeti perfetto, diventi campione.",
+            "Parti così: contrai il muscolo lentamente, sentilo.",
+            "Evita questo errore: non trascinare peso con slancio.",
+            "Oggi chiudi con 3 serie extra, dai."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Caicedo non è solo un reality, una moglie e l'Inter. È la prova che la costanza batte il talento. I muscoli veri si costruiscono così. Ecco come.",
+            "La ripetizione costruisce campioni. Ogni serie, ogni rep, ogni giorno. Non cercare scorciatoie: il miglior allenamento è quello che fai oggi, male, ma lo fai.",
+            "Errore numero 1: trascinare il peso con slancio. Contrai il muscolo target lentamente, senti la tensione. Velocità = infortuni. Controllo = risultati.",
+            "Non lasciare che l'inerzia lavori per te. Ogni fase del movimento deve essere tua. Se non senti il muscolo, stai sprecando tempo e energia.",
+            "Oggi fai 3 serie extra sull'esercizio che odi di più. Quello che salti sempre. Quello che ti fa crescere. Prova domani e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Caicedo mostra: costanza batte talento ogni giorno.",
+        "Il segreto? Ripeti perfetto, diventi campione.",
+        "Parti così: contrai il muscolo lentamente, sentilo.",
+        "Evita questo errore: non trascinare peso con slancio.",
+        "Oggi chiudi con 3 serie extra, dai."
+      ],
+      "thread_text": [
+        "Caicedo non è solo un reality, una moglie e l'Inter. È la prova che la costanza batte il talento. I muscoli veri si costruiscono così. Ecco come.",
+        "La ripetizione costruisce campioni. Ogni serie, ogni rep, ogni giorno. Non cercare scorciatoie: il miglior allenamento è quello che fai oggi, male, ma lo fai.",
+        "Errore numero 1: trascinare il peso con slancio. Contrai il muscolo target lentamente, senti la tensione. Velocità = infortuni. Controllo = risultati.",
+        "Non lasciare che l'inerzia lavori per te. Ogni fase del movimento deve essere tua. Se non senti il muscolo, stai sprecando tempo e energia.",
+        "Oggi fai 3 serie extra sull'esercizio che odi di più. Quello che salti sempre. Quello che ti fa crescere. Prova domani e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Costanza batte talento ogni volta",
+          "description": "Scopri il segreto di Caicedo: la disciplina quotidiana supera qualsiasi dono naturale. Costruisci risultati reali.",
+          "visual_hint": "Caicedo allenamento intenso",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "intense gym workout man"
+        },
+        {
+          "hook": "Ripetizione crea campioni veri",
+          "description": "Ogni serie conta. La ripetizione perfetta costruisce muscoli e carattere. Come Caicedo in campo e in palestra.",
+          "visual_hint": "ripetizioni concentrate",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "repetition weight training",
+          "image": "https://images.pexels.com/photos/35567442/pexels-photo-35567442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Contrai lentamente il muscolo",
+          "description": "Massimizza la tensione muscolare: fase concentrica lenta per attivare ogni fibra. Tecnica chiave per crescita.",
+          "visual_hint": "slow muscle contraction",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "slow bicep curl",
+          "image": "https://images.pexels.com/photos/5837258/pexels-photo-5837258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non trascinare, controlla",
+          "description": "Errore comune: slancio ruba lavoro ai muscoli. Correggi con movimento controllato e costante.",
+          "visual_hint": "evita slancio peso",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "controlled dumbbell press",
+          "image": "https://images.pexels.com/photos/11433059/pexels-photo-11433059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "3 serie extra oggi",
+          "description": "Aggiungi 3 serie finali a un esercizio chiave. Sfida il tuo corpo per superare i limiti. Inizia ora.",
+          "visual_hint": "call to action finale",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "finishing exercise extra sets",
+          "image": "https://images.pexels.com/photos/4164763/pexels-photo-4164763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059476d2a65.jpeg",
+      "savedAt": "2026-05-16T09:35:44.855Z",
+      "sourceId": "0f9199c51d41410bf1871d0392903004"
+    },
+    {
+      "schema_version": 2,
+      "agent": "fitness",
+      "slug": "rihanna-fra-esercitazioni-militari-cardio-e-uova-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Rihanna fra esercitazioni militari, cardio e uova a colazione: il suo allenamento  ",
+      "link": "https://www.gazzetta.it/fitness/allenamento/storie/26-01-2022/rihanna-oggi-canzoni-cardio-dieta-ferrea-suo-allenamento-4301015531234/",
+      "pubDate": "Wed, 26 Jan 2022 10:21:01 +0100",
+      "slides": [
+        "Disciplina da star: risultati che motivano.",
+        "Unisce cardio intenso e forza funzionale.",
+        "Alterna sprint e sollevamenti con schema militare.",
+        "Non saltare il riscaldamento: lesioni sicure.",
+        "Oggi: 20 minuti di interval training."
+      ],
+      "instagram_caption": "Rihanna si allena come una soldatessa? Certo: il segreto del suo fisico è nella disciplina, non nella fortuna. 💥  \nAlterna sprint brucia-grassi a sollevamenti con schema militare, unendo cardio e forza funzionale per un corpo scolpito e reattivo.  \nRicorda: senza riscaldamento vai dritto agli infortuni. Il tuo corpo non è una macchina, rispettalo.  \nOggi il tuo turno: 20 minuti di interval training, total focus.  \nProva questo circuito domani mattina e senti la differenza. 🚀🔥",
+      "formats": {
+        "instagram": {
+          "caption": "Rihanna si allena come una soldatessa? Certo: il segreto del suo fisico è nella disciplina, non nella fortuna. 💥  \nAlterna sprint brucia-grassi a sollevamenti con schema militare, unendo cardio e forza funzionale per un corpo scolpito e reattivo.  \nRicorda: senza riscaldamento vai dritto agli infortuni. Il tuo corpo non è una macchina, rispettalo.  \nOggi il tuo turno: 20 minuti di interval training, total focus.  \nProva questo circuito domani mattina e senti la differenza. 🚀🔥"
+        },
+        "tiktok": {
+          "script": [
+            "Parti così: disciplina da superstar.",
+            "Unisce cardio esplosivo e forza pura.",
+            "Alterna sprint e pesi stile militare.",
+            "Evita salti nel riscaldamento: infortuni certi.",
+            "Oggi: 20 minuti di interval training."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Rihanna si allena come un soldato e ottiene risultati da star. Vuoi sapere il suo segreto? Non è solo genetica, è disciplina militare applicata al fitness. Ti spiego come funziona. 🎯",
+            "Il suo workout unisce cardio esplosivo e forza funzionale: sprint da manuale alternati a sollevamenti composti. Niente macchine, solo movimenti che il corpo usa nella vita reale.",
+            "Lo schema è militare: 1 minuto di lavoro massimo, 30 secondi di recupero. Ripeti. Questo aumenta metabolismo e resistenza in metà tempo. Perdita di grasso assicurata.",
+            "Errore da evitare: saltare il riscaldamento. Con questo ritmo, muscoli freddi = lesioni sicure. 5 minuti di mobilità dinamica preparano le articolazioni e proteggono la schiena.",
+            "Oggi prova 20 minuti di interval training come Rihanna: 5 sprint + 5 squat jump, alternati a recupero attivo. Fallo domani mattina e scrivimi come ti senti. 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Parti così: disciplina da superstar.",
+        "Unisce cardio esplosivo e forza pura.",
+        "Alterna sprint e pesi stile militare.",
+        "Evita salti nel riscaldamento: infortuni certi.",
+        "Oggi: 20 minuti di interval training."
+      ],
+      "thread_text": [
+        "Rihanna si allena come un soldato e ottiene risultati da star. Vuoi sapere il suo segreto? Non è solo genetica, è disciplina militare applicata al fitness. Ti spiego come funziona. 🎯",
+        "Il suo workout unisce cardio esplosivo e forza funzionale: sprint da manuale alternati a sollevamenti composti. Niente macchine, solo movimenti che il corpo usa nella vita reale.",
+        "Lo schema è militare: 1 minuto di lavoro massimo, 30 secondi di recupero. Ripeti. Questo aumenta metabolismo e resistenza in metà tempo. Perdita di grasso assicurata.",
+        "Errore da evitare: saltare il riscaldamento. Con questo ritmo, muscoli freddi = lesioni sicure. 5 minuti di mobilità dinamica preparano le articolazioni e proteggono la schiena.",
+        "Oggi prova 20 minuti di interval training come Rihanna: 5 sprint + 5 squat jump, alternati a recupero attivo. Fallo domani mattina e scrivimi come ti senti. 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Allenamento Rihanna: disciplina da star",
+          "description": "Combina cardio intenso e forza funzionale per risultati che motivano ogni giorno.",
+          "visual_hint": "Rihanna in azione",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Rihanna workout discipline"
+        },
+        {
+          "hook": "Cardio + forza funzionale",
+          "description": "Sprint esplosivi e sollevamenti con schema militare per bruciare grassi e tonificare.",
+          "visual_hint": "Sprint e sollevamenti",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "cardio sprint gym",
+          "image": "https://images.pexels.com/photos/34761566/pexels-photo-34761566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Schema militare: sprint alternati",
+          "description": "Alterna 30 secondi di sprint a 15 secondi di recupero, poi sollevamenti esplosivi.",
+          "visual_hint": "Interval training sprint",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "interval sprint workout",
+          "image": "https://images.pexels.com/photos/29205118/pexels-photo-29205118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non saltare il riscaldamento",
+          "description": "Errore comune: iniziare subito intenso. Fai 5 minuti di dinamiche per evitare lesioni.",
+          "visual_hint": "Riscaldamento dinamico",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "warm up stretches",
+          "image": "https://images.pexels.com/photos/8084796/pexels-photo-8084796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Oggi: 20 minuti di interval",
+          "description": "Prova subito: 20 minuti totali, alterna sprint e esercizi a corpo libero. Allaccia le scarpe!",
+          "visual_hint": "Cronometro e scarpe",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "20 minute interval",
+          "image": "https://images.pexels.com/photos/8102183/pexels-photo-8102183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059452f1bc2.jpeg",
+      "savedAt": "2026-05-16T09:35:27.834Z",
+      "sourceId": "9d913f10b75a8739d8984c33c50ddf61"
+    },
+    {
+      "schema_version": 2,
+      "agent": "fitness",
       "slug": "mourinho-buon-compleanno-roma-pizza-workout-e-ecco",
       "prompt_version": "1.0.0",
       "status": "published",

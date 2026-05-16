@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "rihanna-fra-esercitazioni-militari-cardio-e-uova-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Rihanna fra esercitazioni militari, cardio e uova a colazione: il suo allenamento  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/storie/26-01-2022/rihanna-oggi-canzoni-cardio-dieta-ferrea-suo-allenamento-4301015531234/",
+  "pubDate": "Wed, 26 Jan 2022 10:21:01 +0100",
+  "slides": [
+    "Disciplina da star: risultati che motivano.",
+    "Unisce cardio intenso e forza funzionale.",
+    "Alterna sprint e sollevamenti con schema militare.",
+    "Non saltare il riscaldamento: lesioni sicure.",
+    "Oggi: 20 minuti di interval training."
+  ],
+  "instagram_caption": "Rihanna si allena come una soldatessa? Certo: il segreto del suo fisico è nella disciplina, non nella fortuna. 💥  \nAlterna sprint brucia-grassi a sollevamenti con schema militare, unendo cardio e forza funzionale per un corpo scolpito e reattivo.  \nRicorda: senza riscaldamento vai dritto agli infortuni. Il tuo corpo non è una macchina, rispettalo.  \nOggi il tuo turno: 20 minuti di interval training, total focus.  \nProva questo circuito domani mattina e senti la differenza. 🚀🔥",
+  "formats": {
+    "instagram": {
+      "caption": "Rihanna si allena come una soldatessa? Certo: il segreto del suo fisico è nella disciplina, non nella fortuna. 💥  \nAlterna sprint brucia-grassi a sollevamenti con schema militare, unendo cardio e forza funzionale per un corpo scolpito e reattivo.  \nRicorda: senza riscaldamento vai dritto agli infortuni. Il tuo corpo non è una macchina, rispettalo.  \nOggi il tuo turno: 20 minuti di interval training, total focus.  \nProva questo circuito domani mattina e senti la differenza. 🚀🔥"
+    },
+    "tiktok": {
+      "script": [
+        "Parti così: disciplina da superstar.",
+        "Unisce cardio esplosivo e forza pura.",
+        "Alterna sprint e pesi stile militare.",
+        "Evita salti nel riscaldamento: infortuni certi.",
+        "Oggi: 20 minuti di interval training."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Rihanna si allena come un soldato e ottiene risultati da star. Vuoi sapere il suo segreto? Non è solo genetica, è disciplina militare applicata al fitness. Ti spiego come funziona. 🎯",
+        "Il suo workout unisce cardio esplosivo e forza funzionale: sprint da manuale alternati a sollevamenti composti. Niente macchine, solo movimenti che il corpo usa nella vita reale.",
+        "Lo schema è militare: 1 minuto di lavoro massimo, 30 secondi di recupero. Ripeti. Questo aumenta metabolismo e resistenza in metà tempo. Perdita di grasso assicurata.",
+        "Errore da evitare: saltare il riscaldamento. Con questo ritmo, muscoli freddi = lesioni sicure. 5 minuti di mobilità dinamica preparano le articolazioni e proteggono la schiena.",
+        "Oggi prova 20 minuti di interval training come Rihanna: 5 sprint + 5 squat jump, alternati a recupero attivo. Fallo domani mattina e scrivimi come ti senti. 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Parti così: disciplina da superstar.",
+    "Unisce cardio esplosivo e forza pura.",
+    "Alterna sprint e pesi stile militare.",
+    "Evita salti nel riscaldamento: infortuni certi.",
+    "Oggi: 20 minuti di interval training."
+  ],
+  "thread_text": [
+    "Rihanna si allena come un soldato e ottiene risultati da star. Vuoi sapere il suo segreto? Non è solo genetica, è disciplina militare applicata al fitness. Ti spiego come funziona. 🎯",
+    "Il suo workout unisce cardio esplosivo e forza funzionale: sprint da manuale alternati a sollevamenti composti. Niente macchine, solo movimenti che il corpo usa nella vita reale.",
+    "Lo schema è militare: 1 minuto di lavoro massimo, 30 secondi di recupero. Ripeti. Questo aumenta metabolismo e resistenza in metà tempo. Perdita di grasso assicurata.",
+    "Errore da evitare: saltare il riscaldamento. Con questo ritmo, muscoli freddi = lesioni sicure. 5 minuti di mobilità dinamica preparano le articolazioni e proteggono la schiena.",
+    "Oggi prova 20 minuti di interval training come Rihanna: 5 sprint + 5 squat jump, alternati a recupero attivo. Fallo domani mattina e scrivimi come ti senti. 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Allenamento Rihanna: disciplina da star",
+      "description": "Combina cardio intenso e forza funzionale per risultati che motivano ogni giorno.",
+      "visual_hint": "Rihanna in azione",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Rihanna workout discipline"
+    },
+    {
+      "hook": "Cardio + forza funzionale",
+      "description": "Sprint esplosivi e sollevamenti con schema militare per bruciare grassi e tonificare.",
+      "visual_hint": "Sprint e sollevamenti",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cardio sprint gym",
+      "image": "https://images.pexels.com/photos/34761566/pexels-photo-34761566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Schema militare: sprint alternati",
+      "description": "Alterna 30 secondi di sprint a 15 secondi di recupero, poi sollevamenti esplosivi.",
+      "visual_hint": "Interval training sprint",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "interval sprint workout",
+      "image": "https://images.pexels.com/photos/29205118/pexels-photo-29205118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non saltare il riscaldamento",
+      "description": "Errore comune: iniziare subito intenso. Fai 5 minuti di dinamiche per evitare lesioni.",
+      "visual_hint": "Riscaldamento dinamico",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "warm up stretches",
+      "image": "https://images.pexels.com/photos/8084796/pexels-photo-8084796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Oggi: 20 minuti di interval",
+      "description": "Prova subito: 20 minuti totali, alterna sprint e esercizi a corpo libero. Allaccia le scarpe!",
+      "visual_hint": "Cronometro e scarpe",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "20 minute interval",
+      "image": "https://images.pexels.com/photos/8102183/pexels-photo-8102183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059452f1bc2.jpeg",
+  "savedAt": "2026-05-16T09:35:27.834Z",
+  "sourceId": "9d913f10b75a8739d8984c33c50ddf61"
+}

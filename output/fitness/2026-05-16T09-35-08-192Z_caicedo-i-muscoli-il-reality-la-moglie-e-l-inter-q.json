@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "fitness",
+  "slug": "caicedo-i-muscoli-il-reality-la-moglie-e-l-inter-q",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Caicedo: i muscoli, il reality,   la moglie e... l'Inter. Quello che non sai di lui  ",
+  "link": "https://www.gazzetta.it/fitness/allenamento/storie/25-01-2022/felipe-caicedo-genoa-inter-tutto-di-lui-moglie-tattoo-4301079072748/",
+  "pubDate": "Tue, 25 Jan 2022 09:24:53 +0100",
+  "slides": [
+    "La costanza vince il talento.",
+    "La ripetizione costruisce campioni.",
+    "Contrai il muscolo target lentamente.",
+    "Non trascinare il peso con slancio.",
+    "Oggi fai 3 serie extra."
+  ],
+  "instagram_caption": "La costanza batte sempre il talento grezzo, lo dimostra Caicedo: i veri campioni non nascono, si costruiscono ripetizione dopo ripetizione. 🎯 Il segreto? Contrai il muscolo target lentamente, senza trascinare il peso con slancio — ogni movimento deve essere intenzionale. Oggi ti sfido: aggiungi 3 serie extra al tuo ultimo esercizio. Non serve allenarsi ore, serve allenarsi meglio. Prova questo focus sul controllo domani mattina 💪🔥",
+  "formats": {
+    "instagram": {
+      "caption": "La costanza batte sempre il talento grezzo, lo dimostra Caicedo: i veri campioni non nascono, si costruiscono ripetizione dopo ripetizione. 🎯 Il segreto? Contrai il muscolo target lentamente, senza trascinare il peso con slancio — ogni movimento deve essere intenzionale. Oggi ti sfido: aggiungi 3 serie extra al tuo ultimo esercizio. Non serve allenarsi ore, serve allenarsi meglio. Prova questo focus sul controllo domani mattina 💪🔥"
+    },
+    "tiktok": {
+      "script": [
+        "Caicedo mostra: costanza batte talento ogni giorno.",
+        "Il segreto? Ripeti perfetto, diventi campione.",
+        "Parti così: contrai il muscolo lentamente, sentilo.",
+        "Evita questo errore: non trascinare peso con slancio.",
+        "Oggi chiudi con 3 serie extra, dai."
+      ]
+    },
+    "x": {
+      "thread": [
+        "Caicedo non è solo un reality, una moglie e l'Inter. È la prova che la costanza batte il talento. I muscoli veri si costruiscono così. Ecco come.",
+        "La ripetizione costruisce campioni. Ogni serie, ogni rep, ogni giorno. Non cercare scorciatoie: il miglior allenamento è quello che fai oggi, male, ma lo fai.",
+        "Errore numero 1: trascinare il peso con slancio. Contrai il muscolo target lentamente, senti la tensione. Velocità = infortuni. Controllo = risultati.",
+        "Non lasciare che l'inerzia lavori per te. Ogni fase del movimento deve essere tua. Se non senti il muscolo, stai sprecando tempo e energia.",
+        "Oggi fai 3 serie extra sull'esercizio che odi di più. Quello che salti sempre. Quello che ti fa crescere. Prova domani e dimmi com'è andata 👇"
+      ]
+    }
+  },
+  "video_script": [
+    "Caicedo mostra: costanza batte talento ogni giorno.",
+    "Il segreto? Ripeti perfetto, diventi campione.",
+    "Parti così: contrai il muscolo lentamente, sentilo.",
+    "Evita questo errore: non trascinare peso con slancio.",
+    "Oggi chiudi con 3 serie extra, dai."
+  ],
+  "thread_text": [
+    "Caicedo non è solo un reality, una moglie e l'Inter. È la prova che la costanza batte il talento. I muscoli veri si costruiscono così. Ecco come.",
+    "La ripetizione costruisce campioni. Ogni serie, ogni rep, ogni giorno. Non cercare scorciatoie: il miglior allenamento è quello che fai oggi, male, ma lo fai.",
+    "Errore numero 1: trascinare il peso con slancio. Contrai il muscolo target lentamente, senti la tensione. Velocità = infortuni. Controllo = risultati.",
+    "Non lasciare che l'inerzia lavori per te. Ogni fase del movimento deve essere tua. Se non senti il muscolo, stai sprecando tempo e energia.",
+    "Oggi fai 3 serie extra sull'esercizio che odi di più. Quello che salti sempre. Quello che ti fa crescere. Prova domani e dimmi com'è andata 👇"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Costanza batte talento ogni volta",
+      "description": "Scopri il segreto di Caicedo: la disciplina quotidiana supera qualsiasi dono naturale. Costruisci risultati reali.",
+      "visual_hint": "Caicedo allenamento intenso",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "intense gym workout man"
+    },
+    {
+      "hook": "Ripetizione crea campioni veri",
+      "description": "Ogni serie conta. La ripetizione perfetta costruisce muscoli e carattere. Come Caicedo in campo e in palestra.",
+      "visual_hint": "ripetizioni concentrate",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "repetition weight training",
+      "image": "https://images.pexels.com/photos/35567442/pexels-photo-35567442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Contrai lentamente il muscolo",
+      "description": "Massimizza la tensione muscolare: fase concentrica lenta per attivare ogni fibra. Tecnica chiave per crescita.",
+      "visual_hint": "slow muscle contraction",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "slow bicep curl",
+      "image": "https://images.pexels.com/photos/5837258/pexels-photo-5837258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non trascinare, controlla",
+      "description": "Errore comune: slancio ruba lavoro ai muscoli. Correggi con movimento controllato e costante.",
+      "visual_hint": "evita slancio peso",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "controlled dumbbell press",
+      "image": "https://images.pexels.com/photos/11433059/pexels-photo-11433059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "3 serie extra oggi",
+      "description": "Aggiungi 3 serie finali a un esercizio chiave. Sfida il tuo corpo per superare i limiti. Inizia ora.",
+      "visual_hint": "call to action finale",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "finishing exercise extra sets",
+      "image": "https://images.pexels.com/photos/4164763/pexels-photo-4164763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059476d2a65.jpeg",
+  "savedAt": "2026-05-16T09:35:44.855Z",
+  "sourceId": "0f9199c51d41410bf1871d0392903004"
+}
