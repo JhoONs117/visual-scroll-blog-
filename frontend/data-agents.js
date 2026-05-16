@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "-60b-ai-chip-darling-cerebras-almost-died-early-on",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
+      "link": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
+      "pubDate": "Sat, 16 May 2026 15:00:00 +0000",
+      "slides": [
+        "Cerebras bruciava $8 milioni al mese. Come è sopravvissuta?",
+        "Doveva competere con Nvidia in un mercato dominato.",
+        "Aveva appena pochi mesi di liquidità rimasta.",
+        "Chi investe in AI hardware ora rischia tutto.",
+        "Leggi la storia per capire il vero costo dei chip."
+      ],
+      "thread_text": [
+        "Aveva abbastanza liquidità per pochi mesi. Bruciava 8 milioni di dollari al mese. Cerebras ha rischiato il collasso mentre cercava di sfidare Nvidia.",
+        "Il problema non era solo il costo dei chip. Era il modello di business sbagliato. Vendere hardware AI come Nvidia significa competere sulla scala di Nvidia.",
+        "La svolta è arrivata quando hanno capito che non dovevano vendere chip. Dovevano vendere accesso. Il cloud AI ha cambiato la loro equazione finanziaria.",
+        "Oggi chiunque voglia competere in AI hardware gioca con il fuoco. I margini sono sottili e il tempo stringe. Un errore e bruci l'intero budget.",
+        "Vuoi capire quanto costa davvero un chip AI? Cerca i bilanci di Cerebras del 2023. Lì dentro c'è la risposta."
+      ],
+      "video_script": [
+        "Avevano pochi mesi di soldi.",
+        "Bruciavano 8 milioni al mese.",
+        "Era una startup contro Nvidia.",
+        "Hanno cambiato tutto con una svolta.",
+        "Non vendevano chip, vendevano accesso."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Aveva abbastanza liquidità per pochi mesi. Bruciava 8 milioni di dollari al mese. Cerebras ha rischiato il collasso mentre cercava di sfidare Nvidia.",
+            "Il problema non era solo il costo dei chip. Era il modello di business sbagliato. Vendere hardware AI come Nvidia significa competere sulla scala di Nvidia.",
+            "La svolta è arrivata quando hanno capito che non dovevano vendere chip. Dovevano vendere accesso. Il cloud AI ha cambiato la loro equazione finanziaria.",
+            "Oggi chiunque voglia competere in AI hardware gioca con il fuoco. I margini sono sottili e il tempo stringe. Un errore e bruci l'intero budget.",
+            "Vuoi capire quanto costa davvero un chip AI? Cerca i bilanci di Cerebras del 2023. Lì dentro c'è la risposta."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Avevano pochi mesi di soldi.",
+            "Bruciavano 8 milioni al mese.",
+            "Era una startup contro Nvidia.",
+            "Hanno cambiato tutto con una svolta.",
+            "Non vendevano chip, vendevano accesso."
+          ]
+        },
+        "instagram": {
+          "caption": "Cerebras bruciava 8 milioni di dollari al mese, con pochi mesi di liquidità rimasta prima del fallimento 💸. Il problema? Cercava di vendere chip come Nvidia, competendo sul loro stesso terreno — una partita persa in partenza 🎲. La svolta è arrivata quando hanno smesso di vendere hardware e hanno iniziato a vendere accesso al cloud AI, cambiando il modello di business 🤯. Per te significa che il costo reale dei chip AI si nasconde nei bilanci, non nelle specifiche tecniche. Quanto può durare una startup che scommette tutto sull'hardware? 🔥"
+        }
+      },
+      "instagram_caption": "Cerebras bruciava 8 milioni di dollari al mese, con pochi mesi di liquidità rimasta prima del fallimento 💸. Il problema? Cercava di vendere chip come Nvidia, competendo sul loro stesso terreno — una partita persa in partenza 🎲. La svolta è arrivata quando hanno smesso di vendere hardware e hanno iniziato a vendere accesso al cloud AI, cambiando il modello di business 🤯. Per te significa che il costo reale dei chip AI si nasconde nei bilanci, non nelle specifiche tecniche. Quanto può durare una startup che scommette tutto sull'hardware? 🔥",
+      "carousel_slides": [
+        {
+          "hook": "Liquidità per pochi mesi",
+          "description": "Aveva abbastanza liquidità per pochi mesi. Bruciava 8 milioni al mese per sfidare Nvidia.",
+          "visual_hint": "Conto alla rovescia finanziario",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "burning money pile"
+        },
+        {
+          "hook": "Il vero problema nascosto",
+          "description": "Non era solo il costo dei chip. Era il modello di business sbagliato: competere sulla scala di Nvidia.",
+          "visual_hint": "Due modelli di business a confronto",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "microchip factory",
+          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "La svolta inaspettata",
+          "description": "Hanno smesso di vendere chip. Hanno iniziato a vendere accesso. Il cloud AI ha cambiato tutto.",
+          "visual_hint": "Interruttore acceso su cloud",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "data center servers",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Giocare col fuoco",
+          "description": "Oggi chi investe in AI hardware rischia tutto. Margini sottili, tempo che stringe, un errore basta.",
+          "visual_hint": "Fiamma su circuito elettronico",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "hand holding chip",
+          "image": "https://images.pexels.com/photos/2262049/pexels-photo-2262049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Quanto costa un chip AI?",
+          "description": "Cerca i bilanci Cerebras 2023. Lì dentro c'è il costo reale dei chip AI.",
+          "visual_hint": "Documento finanziario aperto",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "financial report paper",
+          "image": "https://images.pexels.com/photos/7947637/pexels-photo-7947637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "savedAt": "2026-05-16T16:49:05.058Z",
+      "sourceId": "e0a063b7a71f0b536bcb1b75b4bb2d80"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-offline-desk-gadget-that-actually-got-me-to-si",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The offline desk gadget that actually got me to sit up straight",
+      "link": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
+      "pubDate": "Sat, 16 May 2026 16:00:00 +0000",
+      "slides": [
+        "Could one $30 gadget fix your posture forever?",
+        "Uses an industrial motion sensor calibrated for desk slouchers",
+        "But its secret trick isn't the vibration — it's the silent shame",
+        "You'll finally stop ignoring your own back because data doesn't lie",
+        "Buy one today or measure your spine tomorrow"
+      ],
+      "thread_text": [
+        "Un sensore industriale da 30$ che calibra la tua postura alla scrivania. Il trucco segreto non è la vibrazione: è la vergogna silenziosa.",
+        "Il dispositivo rileva ogni millimetro di slouching con un sensore di movimento industriale. Non perdona, non dimentica.",
+        "Quando ti pieghi, non vibra. Ti mostra un dato inequivocabile sullo schermo. Non puoi negare il numero.",
+        "Dopo tre giorni smetti di ignorare la schiena. Non perché ti fa male, ma perché il dato non mente.",
+        "Costa come un mese di caffè. Puoi ordinarlo ora o misurare la tua curvatura dal radiologo tra un anno."
+      ],
+      "video_script": [
+        "Questo coso da 30 dollari ti sistema la schiena per sempre.",
+        "Ha un sensore industriale dentro, calibrato per chi sta seduto tutto il giorno.",
+        "La parte geniale? Non vibra. Ti fa sentire in colpa in silenzio.",
+        "Non puoi più ignorare la tua postura perché il dato è lì, vero.",
+        "Compralo oggi o preparati a misurare la colonna dal dottore."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Un sensore industriale da 30$ che calibra la tua postura alla scrivania. Il trucco segreto non è la vibrazione: è la vergogna silenziosa.",
+            "Il dispositivo rileva ogni millimetro di slouching con un sensore di movimento industriale. Non perdona, non dimentica.",
+            "Quando ti pieghi, non vibra. Ti mostra un dato inequivocabile sullo schermo. Non puoi negare il numero.",
+            "Dopo tre giorni smetti di ignorare la schiena. Non perché ti fa male, ma perché il dato non mente.",
+            "Costa come un mese di caffè. Puoi ordinarlo ora o misurare la tua curvatura dal radiologo tra un anno."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Questo coso da 30 dollari ti sistema la schiena per sempre.",
+            "Ha un sensore industriale dentro, calibrato per chi sta seduto tutto il giorno.",
+            "La parte geniale? Non vibra. Ti fa sentire in colpa in silenzio.",
+            "Non puoi più ignorare la tua postura perché il dato è lì, vero.",
+            "Compralo oggi o preparati a misurare la colonna dal dottore."
+          ]
+        },
+        "instagram": {
+          "caption": "Un sensore industriale da 30 dollari ora ti dice in faccia quanto sei curvo sulla scrivania, senza vibrarti addosso. Il dispositivo calibra ogni millimetro di slouching, ma il suo vero trucco non è la vibrazione: è la vergogna silenziosa di un dato 📊 che compare sullo schermo. Dopo tre giorni non ignori più la schiena, perché il numero non mente 🦴. Se lavori davanti a un monitor, cambia la postura senza aspettare il radiologo tra un anno. Ordini ora o misuri la curvatura dopo il prossimo caffè ☕️?"
+        }
+      },
+      "instagram_caption": "Un sensore industriale da 30 dollari ora ti dice in faccia quanto sei curvo sulla scrivania, senza vibrarti addosso. Il dispositivo calibra ogni millimetro di slouching, ma il suo vero trucco non è la vibrazione: è la vergogna silenziosa di un dato 📊 che compare sullo schermo. Dopo tre giorni non ignori più la schiena, perché il numero non mente 🦴. Se lavori davanti a un monitor, cambia la postura senza aspettare il radiologo tra un anno. Ordini ora o misuri la curvatura dopo il prossimo caffè ☕️?",
+      "carousel_slides": [
+        {
+          "hook": "Sfida la tua schiena per 30$",
+          "description": "Un sensore industriale da 30$ che calibra la tua postura. Il trucco segreto non è la vibrazione: è la vergogna silenziosa.",
+          "visual_hint": "Gadget su scrivania minimal",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "industrial motion sensor"
+        },
+        {
+          "hook": "Ogni millimetro conta per lui",
+          "description": "Rileva ogni slouching con precisione industriale. Non perdona, non dimentica. Un dato che non puoi negare.",
+          "visual_hint": "Sensore in primo piano dinamico",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "sensor calibration tool",
+          "image": "https://images.pexels.com/photos/7166995/pexels-photo-7166995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non vibra, ti mette a nudo",
+          "description": "Quando ti pieghi non vibra: mostra un dato inequivocabile sullo schermo. Non puoi negare il numero. Pura vergogna silenziosa.",
+          "visual_hint": "Dati postura su schermo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer screen posture data",
+          "image": "https://images.pexels.com/photos/5717784/pexels-photo-5717784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Dopo tre giorni smetti di ignorare",
+          "description": "Non perché ti fa male, ma perché il dato non mente. La tua schiena non ha più scuse con questa prova silenziosa.",
+          "visual_hint": "Mano che tocca sensore",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand touching desk sensor",
+          "image": "https://images.pexels.com/photos/28747101/pexels-photo-28747101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ora o dal radiologo tra un anno",
+          "description": "Costa come un mese di caffè. Ordina ora o misura la curvatura della tua colonna dal radiologo tra un anno. Scegli.",
+          "visual_hint": "Caffè e gadget in unico scatto",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "coffee cup desk gadget",
+          "image": "https://images.pexels.com/photos/7856651/pexels-photo-7856651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Deepcare-feat.jpg?resize=1200,675",
+      "savedAt": "2026-05-16T16:48:48.532Z",
+      "sourceId": "d1f0dad8f22ffc8f0a4e02d103570069"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "users-turn-to-jailbreaking-their-older-kindles-as-",
       "prompt_version": "1.0.0",
       "status": "published",

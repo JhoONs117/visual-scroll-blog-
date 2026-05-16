@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-offline-desk-gadget-that-actually-got-me-to-si",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The offline desk gadget that actually got me to sit up straight",
+  "link": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
+  "pubDate": "Sat, 16 May 2026 16:00:00 +0000",
+  "slides": [
+    "Could one $30 gadget fix your posture forever?",
+    "Uses an industrial motion sensor calibrated for desk slouchers",
+    "But its secret trick isn't the vibration — it's the silent shame",
+    "You'll finally stop ignoring your own back because data doesn't lie",
+    "Buy one today or measure your spine tomorrow"
+  ],
+  "thread_text": [
+    "Un sensore industriale da 30$ che calibra la tua postura alla scrivania. Il trucco segreto non è la vibrazione: è la vergogna silenziosa.",
+    "Il dispositivo rileva ogni millimetro di slouching con un sensore di movimento industriale. Non perdona, non dimentica.",
+    "Quando ti pieghi, non vibra. Ti mostra un dato inequivocabile sullo schermo. Non puoi negare il numero.",
+    "Dopo tre giorni smetti di ignorare la schiena. Non perché ti fa male, ma perché il dato non mente.",
+    "Costa come un mese di caffè. Puoi ordinarlo ora o misurare la tua curvatura dal radiologo tra un anno."
+  ],
+  "video_script": [
+    "Questo coso da 30 dollari ti sistema la schiena per sempre.",
+    "Ha un sensore industriale dentro, calibrato per chi sta seduto tutto il giorno.",
+    "La parte geniale? Non vibra. Ti fa sentire in colpa in silenzio.",
+    "Non puoi più ignorare la tua postura perché il dato è lì, vero.",
+    "Compralo oggi o preparati a misurare la colonna dal dottore."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Un sensore industriale da 30$ che calibra la tua postura alla scrivania. Il trucco segreto non è la vibrazione: è la vergogna silenziosa.",
+        "Il dispositivo rileva ogni millimetro di slouching con un sensore di movimento industriale. Non perdona, non dimentica.",
+        "Quando ti pieghi, non vibra. Ti mostra un dato inequivocabile sullo schermo. Non puoi negare il numero.",
+        "Dopo tre giorni smetti di ignorare la schiena. Non perché ti fa male, ma perché il dato non mente.",
+        "Costa come un mese di caffè. Puoi ordinarlo ora o misurare la tua curvatura dal radiologo tra un anno."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Questo coso da 30 dollari ti sistema la schiena per sempre.",
+        "Ha un sensore industriale dentro, calibrato per chi sta seduto tutto il giorno.",
+        "La parte geniale? Non vibra. Ti fa sentire in colpa in silenzio.",
+        "Non puoi più ignorare la tua postura perché il dato è lì, vero.",
+        "Compralo oggi o preparati a misurare la colonna dal dottore."
+      ]
+    },
+    "instagram": {
+      "caption": "Un sensore industriale da 30 dollari ora ti dice in faccia quanto sei curvo sulla scrivania, senza vibrarti addosso. Il dispositivo calibra ogni millimetro di slouching, ma il suo vero trucco non è la vibrazione: è la vergogna silenziosa di un dato 📊 che compare sullo schermo. Dopo tre giorni non ignori più la schiena, perché il numero non mente 🦴. Se lavori davanti a un monitor, cambia la postura senza aspettare il radiologo tra un anno. Ordini ora o misuri la curvatura dopo il prossimo caffè ☕️?"
+    }
+  },
+  "instagram_caption": "Un sensore industriale da 30 dollari ora ti dice in faccia quanto sei curvo sulla scrivania, senza vibrarti addosso. Il dispositivo calibra ogni millimetro di slouching, ma il suo vero trucco non è la vibrazione: è la vergogna silenziosa di un dato 📊 che compare sullo schermo. Dopo tre giorni non ignori più la schiena, perché il numero non mente 🦴. Se lavori davanti a un monitor, cambia la postura senza aspettare il radiologo tra un anno. Ordini ora o misuri la curvatura dopo il prossimo caffè ☕️?",
+  "carousel_slides": [
+    {
+      "hook": "Sfida la tua schiena per 30$",
+      "description": "Un sensore industriale da 30$ che calibra la tua postura. Il trucco segreto non è la vibrazione: è la vergogna silenziosa.",
+      "visual_hint": "Gadget su scrivania minimal",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "industrial motion sensor"
+    },
+    {
+      "hook": "Ogni millimetro conta per lui",
+      "description": "Rileva ogni slouching con precisione industriale. Non perdona, non dimentica. Un dato che non puoi negare.",
+      "visual_hint": "Sensore in primo piano dinamico",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "sensor calibration tool",
+      "image": "https://images.pexels.com/photos/7166995/pexels-photo-7166995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non vibra, ti mette a nudo",
+      "description": "Quando ti pieghi non vibra: mostra un dato inequivocabile sullo schermo. Non puoi negare il numero. Pura vergogna silenziosa.",
+      "visual_hint": "Dati postura su schermo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer screen posture data",
+      "image": "https://images.pexels.com/photos/5717784/pexels-photo-5717784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Dopo tre giorni smetti di ignorare",
+      "description": "Non perché ti fa male, ma perché il dato non mente. La tua schiena non ha più scuse con questa prova silenziosa.",
+      "visual_hint": "Mano che tocca sensore",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching desk sensor",
+      "image": "https://images.pexels.com/photos/28747101/pexels-photo-28747101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ora o dal radiologo tra un anno",
+      "description": "Costa come un mese di caffè. Ordina ora o misura la curvatura della tua colonna dal radiologo tra un anno. Scegli.",
+      "visual_hint": "Caffè e gadget in unico scatto",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "coffee cup desk gadget",
+      "image": "https://images.pexels.com/photos/7856651/pexels-photo-7856651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Deepcare-feat.jpg?resize=1200,675",
+  "savedAt": "2026-05-16T16:48:48.532Z",
+  "sourceId": "d1f0dad8f22ffc8f0a4e02d103570069"
+}
