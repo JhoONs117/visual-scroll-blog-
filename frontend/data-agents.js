@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "if-you-re-giving-a-commencement-speech-in-2026-may",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+      "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+      "pubDate": "Sun, 17 May 2026 16:32:04 +0000",
+      "slides": [
+        "Commencement speakers warned about AI in 2025.",
+        "In 2026, AI writes half your hires' cover letters.",
+        "But quoting it makes grads ignore your entire speech.",
+        "You'll lose credibility if you reference ChatGPT.",
+        "Find a human story they can't fake."
+      ],
+      "thread_text": [
+        "Stai citando l’AI nei tuoi discorsi? I laureati smettono di ascoltarti nel momento esatto in cui lo fai.",
+        "Nel 2026, metà delle lettere di presentazione che riceverai saranno scritte da un’AI. E saranno perfette.",
+        "Ma se nel tuo speech fai riferimento a ChatGPT per dire 'guardate cosa sta succedendo', perdi ogni credibilità.",
+        "Perché per loro quell’AI non è una novità. È lo strumento con cui hanno scritto la tesi, il CV e pure quella lettera.",
+        "L’unica cosa che non possono fingere è una storia umana vera. Inizia da lì."
+      ],
+      "video_script": [
+        "Non citare mai ChatGPT in un discorso.",
+        "Perdi credibilità in due secondi.",
+        "I laureati lo usano già ogni giorno.",
+        "Ma non sanno raccontare una storia vera.",
+        "Insegnagli quello che l'AI non sa."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Stai citando l’AI nei tuoi discorsi? I laureati smettono di ascoltarti nel momento esatto in cui lo fai.",
+            "Nel 2026, metà delle lettere di presentazione che riceverai saranno scritte da un’AI. E saranno perfette.",
+            "Ma se nel tuo speech fai riferimento a ChatGPT per dire 'guardate cosa sta succedendo', perdi ogni credibilità.",
+            "Perché per loro quell’AI non è una novità. È lo strumento con cui hanno scritto la tesi, il CV e pure quella lettera.",
+            "L’unica cosa che non possono fingere è una storia umana vera. Inizia da lì."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Non citare mai ChatGPT in un discorso.",
+            "Perdi credibilità in due secondi.",
+            "I laureati lo usano già ogni giorno.",
+            "Ma non sanno raccontare una storia vera.",
+            "Insegnagli quello che l'AI non sa."
+          ]
+        },
+        "instagram": {
+          "caption": "Nel 2026, metà dei neolaureati userà l’AI per scrivere la lettera di presentazione che arriverà sulla tua scrivania. Se sei il relatore del loro commencement e citi ChatGPT per dire “guardate che succede”, loro smettono di ascoltarti. Perché per loro l’AI non è una novità: è lo strumento con cui hanno fatto la tesi e pure il CV perfetto. Per te che assumi o parli in pubblico, la credibilità la perdi nel momento in cui citi la tecnologia che loro sentono già vecchia. Inizia da una storia umana che non possono fingere. Qual è l’ultima storia vera che hai ascoltato da qualcuno ?"
+        }
+      },
+      "instagram_caption": "Nel 2026, metà dei neolaureati userà l’AI per scrivere la lettera di presentazione che arriverà sulla tua scrivania. Se sei il relatore del loro commencement e citi ChatGPT per dire “guardate che succede”, loro smettono di ascoltarti. Perché per loro l’AI non è una novità: è lo strumento con cui hanno fatto la tesi e pure il CV perfetto. Per te che assumi o parli in pubblico, la credibilità la perdi nel momento in cui citi la tecnologia che loro sentono già vecchia. Inizia da una storia umana che non possono fingere. Qual è l’ultima storia vera che hai ascoltato da qualcuno ?",
+      "carousel_slides": [
+        {
+          "hook": "Lose them in seconds.",
+          "description": "Stai citando l’AI nei tuoi discorsi? I laureati smettono di ascoltarti nel momento esatto in cui lo fai.",
+          "visual_hint": "Graduates looking confused",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "audience graduation ceremony"
+        },
+        {
+          "hook": "Half your hires cheat.",
+          "description": "Nel 2026, metà delle lettere di presentazione saranno scritte da un’AI. E saranno perfette.",
+          "visual_hint": "Cover letter on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "keyboard desk laptop",
+          "image": "https://images.pexels.com/photos/5904074/pexels-photo-5904074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "ChatGPT kills credibility.",
+          "description": "Se nel tuo speech fai riferimento a ChatGPT per dire 'guardate cosa sta succedendo', perdi ogni credibilità.",
+          "visual_hint": "ChatGPT logo crossed out",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "chatgpt smartphone screen",
+          "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "They used it for everything.",
+          "description": "Per loro quell’AI non è una novità. È lo strumento con cui hanno scritto tesi, CV e pure quella lettera.",
+          "visual_hint": "Documents scattered",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stack of papers",
+          "image": "https://images.pexels.com/photos/13315189/pexels-photo-13315189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Start with a real story.",
+          "description": "L’unica cosa che non possono fingere è una storia umana vera. Inizia da lì.",
+          "visual_hint": "Speaker alone on stage",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "podium empty stage",
+          "image": "https://images.pexels.com/photos/23522931/pexels-photo-23522931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2019/01/university.jpg?resize=1200,641",
+      "savedAt": "2026-05-17T16:47:52.710Z",
+      "sourceId": "f4e20e1053eac63f6170077c2f404a6d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "marketing-operating-system-nectar-social-raises-30",
       "prompt_version": "1.0.0",
       "status": "published",
