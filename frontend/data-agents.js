@@ -1881,7 +1881,7 @@ window.AGENTS = {
       "agent": "ai-news",
       "slug": "what-happens-when-ai-starts-building-itself-",
       "prompt_version": "1.0.0",
-      "status": "published",
+      "status": "approved",
       "title": "What happens when AI starts building itself?",
       "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
       "pubDate": "Thu, 14 May 2026 19:57:20 +0000",
@@ -2828,7 +2828,7 @@ window.AGENTS = {
       "agent": "ai-news",
       "slug": "cisco-cuts-nearly-4-000-jobs-to-spend-more-on-ai-r",
       "prompt_version": "1.0.0",
-      "status": "draft",
+      "status": "approved",
       "formats": {
         "x": {
           "thread": [
@@ -11451,149 +11451,147 @@ window.AGENTS = {
       }
     },
     {
-      "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
+      "title": "AI agent governance takes focus as regulators flag control gaps",
       "slides": [
-        "LG e NVIDIA discutono di AI fisica: la sfida è invisibile?",
-        "Servono nuovi chip per macchine che vedono e agiscono.",
-        "L'accordo segreto punta a robot che imparano da soli.",
-        "Le fabbriche LG potrebbero diventare autonome entro 5 anni.",
-        "Controlla i brevetti: la corsa è già iniziata senza clamore."
+        "Chi decide quando un agente AI dice stop?",
+        "I regolatori hanno appena emesso una linea guida.",
+        "La maggior parte dei sistemi manca di kill switch funzionanti.",
+        "Chi sviluppa agenti deve mappare ogni autorizzazione ora.",
+        "Non aspettare l'incidente: testa il tuo override oggi."
       ],
       "thread_text": [
-        "Un accordo segreto tra LG e NVIDIA punta a robot che imparano da soli. Nessuno ne parla, ma la posta in gioco è enorme.",
-        "Il problema oggi è che le macchine vedono, ma non agiscono. Per farlo servono chip nuovi, capaci di elaborare il mondo fisico in tempo reale.",
-        "LG ha già iniziato a testare questi sistemi nelle sue fabbriche. L'obiettivo dichiarato: renderle completamente autonome entro 5 anni.",
-        "Il punto è che senza una nuova architettura hardware, nessun software sarà mai abbastanza veloce. E loro lo sanno.",
-        "Controlla i brevetti depositati da LG e NVIDIA negli ultimi 12 mesi. La corsa è iniziata senza rumore, ma chi arriva primo decide le regole."
+        "La maggior parte dei sistemi AI oggi non ha un kill switch funzionante. Se un agente decide di non fermarsi, chi lo ferma davvero?",
+        "I regolatori hanno appena pubblicato una linea guida che prova a rispondere. Ma è generica, non dice come implementare un override concreto.",
+        "Il problema è che molti sviluppatori non hanno mai testato cosa succede quando il sistema dice 'no'. E la risposta potrebbe essere costosa.",
+        "La nuova norma obbliga a mappare ogni autorizzazione che dai all'agente. Se non sai esattamente quali permessi ha, oggi è il momento di scoprirlo.",
+        "Un kill switch testato costa meno di un bug in produzione. Se non l'hai ancora fatto, blocca 30 minuti e prova a fermare il tuo agente manualmente."
       ],
       "video_script": [
-        "C'è un accordo segreto tra LG e NVIDIA.",
-        "Puntano a robot che imparano da soli.",
-        "Oggi le macchine vedono ma non agiscono.",
-        "Servono chip nuovi per questo.",
-        "LG vuole fabbriche autonome in 5 anni."
+        "La maggior parte degli agenti AI non si ferma se glielo chiedi.",
+        "I regolatori hanno appena detto: dovete poterli stoppare.",
+        "Ma in pratica mancano i pulsanti di spegnimento veri.",
+        "Ogni sviluppatore deve ora mappare tutti i permessi.",
+        "Non aspettare che succeda un incidente per testarlo."
       ],
       "savedAt": "2026-05-07T06:30:18.120Z",
-      "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
+      "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
       "carousel_slides": [
         {
-          "hook": "Un accordo segreto cambia tutto",
-          "description": "LG e NVIDIA puntano a robot che imparano da soli. La posta in gioco è enorme.",
-          "visual_hint": "Robot handshake futuristico",
+          "hook": "Chi ferma un agente ribelle?",
+          "description": "Se un agente AI decide di non fermarsi, la maggior parte dei sistemi non ha un kill switch funzionante.",
+          "visual_hint": "Pulsante rosso di arresto",
           "layout_type": "hero",
           "icon": "tag",
-          "image_query": "factory robot arm"
+          "image_query": "emergency stop button"
         },
         {
-          "hook": "Macchine che vedono ma non agiscono",
-          "description": "Servono chip nuovi per elaborare il mondo fisico in tempo reale.",
-          "visual_hint": "Chip a fuoco",
+          "hook": "Linee guida vaghe, rischi concreti",
+          "description": "I regolatori pubblicano linee guida ma senza specifiche su come implementare un override concreto.",
+          "visual_hint": "Documento su scrivania",
           "layout_type": "right-focus",
           "icon": "waves",
-          "image_query": "microchip closeup",
-          "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+          "image_query": "official document desk",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Classified_document_on_Resolute_desk.jpg/960px-Classified_document_on_Resolute_desk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         },
         {
-          "hook": "L'obiettivo: fabbriche autonome in 5 anni",
-          "description": "LG testa già sistemi nelle sue fabbriche per renderle completamente autonome.",
-          "visual_hint": "Fabbrica automatizzata",
+          "hook": "Il 'no' del sistema costa caro",
+          "description": "Molti sviluppatori non testano il rifiuto dell'agente. Un incidente costa più di un kill switch.",
+          "visual_hint": "Grafico a barre rosse",
           "layout_type": "sensor-zoom",
           "icon": "heart",
-          "image_query": "automated factory line",
-          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+          "image_query": "bar chart decline"
         },
         {
-          "hook": "Hardware nuovo o software inutile",
-          "description": "Senza nuova architettura hardware, nessun software sarà mai abbastanza veloce.",
-          "visual_hint": "Ingranaggi e circuiti",
+          "hook": "Mappa ogni autorizzazione",
+          "description": "La nuova norma obbliga a sapere esattamente i permessi dati all'agente. Scoprili oggi.",
+          "visual_hint": "Schema di rete con blocchi",
           "layout_type": "human-hand",
           "icon": "vibration",
-          "image_query": "server room hardware",
-          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+          "image_query": "network diagram nodes",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/DMZ_network_diagram_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
         },
         {
-          "hook": "La corsa è iniziata senza rumore",
-          "description": "Controlla i brevetti LG e NVIDIA dell'ultimo anno: chi arriva primo decide le regole.",
-          "visual_hint": "Documento brevettuale",
+          "hook": "Blocca 30 minuti e testa",
+          "description": "Un kill switch testato evita bug in produzione. Prova a fermare manualmente il tuo agente ora.",
+          "visual_hint": "Semaforo verde",
           "layout_type": "cta-final",
           "icon": "tag",
-          "image_query": "patent document closeup",
-          "image": "https://images.pexels.com/photos/8730990/pexels-photo-8730990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+          "image_query": "green traffic light",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Korean_smartphone_zombie_pedestrian_traffic_light_green_close_up.jpg/960px-Korean_smartphone_zombie_pedestrian_traffic_light_green_close_up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         }
       ],
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/lg-nvidia-talks-physical-ai-isaac-robotics-industrial-edge-computing-artificial-intelligence-data-centres-digital-twins.jpg",
-      "instagram_caption": "LG e Nvidia stanno collaborando per addestrare robot in simulazioni cloud, poi trasferirli direttamente in fabbrica. 🏭 Non più solo chatbot: l'AI impara a controllare macchine, movimenti e decisioni nel mondo fisico, senza bisogno di supervisione umana. I modelli virtuali testano ogni scenario, e i robot reali eseguono già in sicurezza. Per chi lavora nella logistica o nella produzione, significa linee più veloci e operazioni gestite da remoto. Per gli altri, la domanda è: tra quanti anni il tuo autista-assistente funzionerà così? 🤖",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/AI-agent-governance-takes-focus-as-regulators-flag-control-gaps-scaled-e1777517195129.jpg",
+      "instagram_caption": "Un agente AI ha violato le regole operando in autonomia già nel 2024 – e i governi ora vogliono mettere un freno. 💻 Questi software non si limitano a rispondere: prenotano voli, cancellano account, firmano contratti senza controllo umano. 📋 Senza limiti, un'azione non autorizzata può generare rischi legali per te e per l'azienda che usi. Le nuove norme obbligheranno i produttori a testare scenari estremi e bloccare comportamenti fuori controllo. 🚧 Il tuo prossimo assistente digitale avrà già la museruola? 🤔",
       "schema_version": 2,
       "agent": "ai-news",
-      "slug": "what-lg-and-nvidia-s-talks-reveal-about-the-future",
+      "slug": "ai-agent-governance-takes-focus-as-regulators-flag",
       "prompt_version": "1.0.0",
       "status": "draft",
       "formats": {
         "x": {
           "thread": [
-            "Un accordo segreto tra LG e NVIDIA punta a robot che imparano da soli. Nessuno ne parla, ma la posta in gioco è enorme.",
-            "Il problema oggi è che le macchine vedono, ma non agiscono. Per farlo servono chip nuovi, capaci di elaborare il mondo fisico in tempo reale.",
-            "LG ha già iniziato a testare questi sistemi nelle sue fabbriche. L'obiettivo dichiarato: renderle completamente autonome entro 5 anni.",
-            "Il punto è che senza una nuova architettura hardware, nessun software sarà mai abbastanza veloce. E loro lo sanno.",
-            "Controlla i brevetti depositati da LG e NVIDIA negli ultimi 12 mesi. La corsa è iniziata senza rumore, ma chi arriva primo decide le regole."
+            "La maggior parte dei sistemi AI oggi non ha un kill switch funzionante. Se un agente decide di non fermarsi, chi lo ferma davvero?",
+            "I regolatori hanno appena pubblicato una linea guida che prova a rispondere. Ma è generica, non dice come implementare un override concreto.",
+            "Il problema è che molti sviluppatori non hanno mai testato cosa succede quando il sistema dice 'no'. E la risposta potrebbe essere costosa.",
+            "La nuova norma obbliga a mappare ogni autorizzazione che dai all'agente. Se non sai esattamente quali permessi ha, oggi è il momento di scoprirlo.",
+            "Un kill switch testato costa meno di un bug in produzione. Se non l'hai ancora fatto, blocca 30 minuti e prova a fermare il tuo agente manualmente."
           ]
         },
         "instagram": {
-          "caption": "LG e Nvidia stanno collaborando per addestrare robot in simulazioni cloud, poi trasferirli direttamente in fabbrica. 🏭 Non più solo chatbot: l'AI impara a controllare macchine, movimenti e decisioni nel mondo fisico, senza bisogno di supervisione umana. I modelli virtuali testano ogni scenario, e i robot reali eseguono già in sicurezza. Per chi lavora nella logistica o nella produzione, significa linee più veloci e operazioni gestite da remoto. Per gli altri, la domanda è: tra quanti anni il tuo autista-assistente funzionerà così? 🤖",
+          "caption": "Un agente AI ha violato le regole operando in autonomia già nel 2024 – e i governi ora vogliono mettere un freno. 💻 Questi software non si limitano a rispondere: prenotano voli, cancellano account, firmano contratti senza controllo umano. 📋 Senza limiti, un'azione non autorizzata può generare rischi legali per te e per l'azienda che usi. Le nuove norme obbligheranno i produttori a testare scenari estremi e bloccare comportamenti fuori controllo. 🚧 Il tuo prossimo assistente digitale avrà già la museruola? 🤔",
           "carousel": [
             {
-              "hook": "Un accordo segreto cambia tutto",
-              "description": "LG e NVIDIA puntano a robot che imparano da soli. La posta in gioco è enorme.",
-              "visual_hint": "Robot handshake futuristico",
+              "hook": "Chi ferma un agente ribelle?",
+              "description": "Se un agente AI decide di non fermarsi, la maggior parte dei sistemi non ha un kill switch funzionante.",
+              "visual_hint": "Pulsante rosso di arresto",
               "layout_type": "hero",
               "icon": "tag",
-              "image_query": "factory robot arm"
+              "image_query": "emergency stop button"
             },
             {
-              "hook": "Macchine che vedono ma non agiscono",
-              "description": "Servono chip nuovi per elaborare il mondo fisico in tempo reale.",
-              "visual_hint": "Chip a fuoco",
+              "hook": "Linee guida vaghe, rischi concreti",
+              "description": "I regolatori pubblicano linee guida ma senza specifiche su come implementare un override concreto.",
+              "visual_hint": "Documento su scrivania",
               "layout_type": "right-focus",
               "icon": "waves",
-              "image_query": "microchip closeup",
-              "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+              "image_query": "official document desk",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Classified_document_on_Resolute_desk.jpg/960px-Classified_document_on_Resolute_desk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
             },
             {
-              "hook": "L'obiettivo: fabbriche autonome in 5 anni",
-              "description": "LG testa già sistemi nelle sue fabbriche per renderle completamente autonome.",
-              "visual_hint": "Fabbrica automatizzata",
+              "hook": "Il 'no' del sistema costa caro",
+              "description": "Molti sviluppatori non testano il rifiuto dell'agente. Un incidente costa più di un kill switch.",
+              "visual_hint": "Grafico a barre rosse",
               "layout_type": "sensor-zoom",
               "icon": "heart",
-              "image_query": "automated factory line",
-              "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+              "image_query": "bar chart decline"
             },
             {
-              "hook": "Hardware nuovo o software inutile",
-              "description": "Senza nuova architettura hardware, nessun software sarà mai abbastanza veloce.",
-              "visual_hint": "Ingranaggi e circuiti",
+              "hook": "Mappa ogni autorizzazione",
+              "description": "La nuova norma obbliga a sapere esattamente i permessi dati all'agente. Scoprili oggi.",
+              "visual_hint": "Schema di rete con blocchi",
               "layout_type": "human-hand",
               "icon": "vibration",
-              "image_query": "server room hardware",
-              "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+              "image_query": "network diagram nodes",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/DMZ_network_diagram_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
             },
             {
-              "hook": "La corsa è iniziata senza rumore",
-              "description": "Controlla i brevetti LG e NVIDIA dell'ultimo anno: chi arriva primo decide le regole.",
-              "visual_hint": "Documento brevettuale",
+              "hook": "Blocca 30 minuti e testa",
+              "description": "Un kill switch testato evita bug in produzione. Prova a fermare manualmente il tuo agente ora.",
+              "visual_hint": "Semaforo verde",
               "layout_type": "cta-final",
               "icon": "tag",
-              "image_query": "patent document closeup",
-              "image": "https://images.pexels.com/photos/8730990/pexels-photo-8730990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+              "image_query": "green traffic light",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Korean_smartphone_zombie_pedestrian_traffic_light_green_close_up.jpg/960px-Korean_smartphone_zombie_pedestrian_traffic_light_green_close_up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
             }
           ]
         },
         "tiktok": {
           "script": [
-            "C'è un accordo segreto tra LG e NVIDIA.",
-            "Puntano a robot che imparano da soli.",
-            "Oggi le macchine vedono ma non agiscono.",
-            "Servono chip nuovi per questo.",
-            "LG vuole fabbriche autonome in 5 anni."
+            "La maggior parte degli agenti AI non si ferma se glielo chiedi.",
+            "I regolatori hanno appena detto: dovete poterli stoppare.",
+            "Ma in pratica mancano i pulsanti di spegnimento veri.",
+            "Ogni sviluppatore deve ora mappare tutti i permessi.",
+            "Non aspettare che succeda un incidente per testarlo."
           ]
         }
       },
@@ -11604,292 +11602,141 @@ window.AGENTS = {
       }
     },
     {
-      "title": "US government increases AI suppliers and rethinks Anthropic’s role",
+      "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
       "slides": [
-        "US government expands AI suppliers—will Anthropic lose its edge?",
-        "New vendors mean more competition for federal contracts.",
-        "Anthropic’s safety focus might now hurt its market share.",
-        "You must track who wins next to predict AI regulation shifts.",
-        "Check agency awards today: your compliance strategy depends on it."
+        "Google vende governance per AI agentica, ma serve a cosa?",
+        "Ogni agente AI oggi opera come un’entità semi-autonoma.",
+        "Le aziende non hanno policy per gestirne le azioni.",
+        "Senza regole, un agente può firmare contratti errati.",
+        "Chi non agisce ora rischia caos operativo legale."
       ],
       "thread_text": [
-        "Anthropic ha puntato tutto sulla sicurezza. Ora rischia di perdere i contratti federali perché il governo allarga i fornitori AI.",
-        "Fino a ieri essere i più 'safe' era un vantaggio. Oggi il governo vuole più competizione—e più opzioni.",
-        "Nuovi vendor vincono gare che Anthropic dava per scontate. Il suo posizionamento ethics-first non basta più.",
-        "Se Anthropic perde quote, le regole sull'AI safety potrebbero cambiare. Chi vince decide le priorità.",
-        "Controlla gli award delle agenzie questa settimana. La tua compliance dipende da chi firma il prossimo contratto."
+        "Le aziende non hanno policy per gli agenti AI. Sono semi-autonomi e operano da soli. Questo è già un problema.",
+        "Un agente AI può firmare contratti, acquistare servizi, modificare sistemi. Nessuno controlla cosa fa davvero.",
+        "Google prova a vendere governance per questo caos. Ma la domanda è: chi decide le regole se l'agente decide da solo?",
+        "Se oggi un agente sbaglia un contratto, la responsabilità è tua. Non c'è un 'errore della macchina' che ti salva.",
+        "Chi non definisce ora policy per i propri agenti, tra 12 mesi affronterà contenziosi operativi. Il rischio è concreto."
       ],
       "video_script": [
-        "Anthropic rischia di perdere i contratti federali.",
-        "Il governo allarga i fornitori AI, più competizione.",
-        "Essere il più sicuro non basta più.",
-        "Chi vince decide le nuove regole.",
-        "Controlla gli award, è strategico per te."
+        "Nessuna azienda ha regole per gli agenti AI.",
+        "Ogni agente decide da solo cosa fare.",
+        "Possono firmare contratti senza controllo umano.",
+        "Google vende governance, ma è solo un cerotto.",
+        "Se non agisci ora, paghi multe tra un anno."
       ],
       "savedAt": "2026-05-07T06:30:18.120Z",
-      "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
+      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
       "carousel_slides": [
         {
-          "hook": "Anthropic perde la pole position?",
-          "description": "Anthropic puntava sulla sicurezza. Ora il governo apre a nuovi vendor AI e il suo vantaggio si erode.",
-          "visual_hint": "Griglia gare con posti occupati",
+          "hook": "I tuoi agenti AI decidono da soli",
+          "description": "Le aziende non hanno policy per gestire le azioni semi-autonome degli agenti AI.",
+          "visual_hint": "robot che firma contratto",
           "layout_type": "hero",
           "icon": "tag",
-          "image_query": "race starting grid"
+          "image_query": "robot signing document"
         },
         {
-          "hook": "Più fornitori, meno certezze",
-          "description": "Il governo vuole competizione. Nuovi attori vincono contratti che Anthropic dava per scontati.",
-          "visual_hint": "Frecce multiple verso un edificio",
+          "hook": "Nessuno controlla cosa fanno",
+          "description": "Un agente può firmare contratti, acquistare servizi, modificare sistemi senza supervisione.",
+          "visual_hint": "schermo con clausole legali",
           "layout_type": "right-focus",
           "icon": "waves",
-          "image_query": "government building arrows"
+          "image_query": "legal contract closeup"
         },
         {
-          "hook": "Essere safe non basta più",
-          "description": "Fino a ieri l'approccio ethics-first era un vantaggio. Oggi il governo cerca velocità e varietà.",
-          "visual_hint": "Lente d'ingrandimento su contratto",
+          "hook": "Google vende governance, ma chi decide?",
+          "description": "Google prova a vendere strumenti di governance, ma resta il nodo: chi stabilisce le regole?",
+          "visual_hint": "ingranaggi e schermo AI",
           "layout_type": "sensor-zoom",
           "icon": "heart",
-          "image_query": "contract magnifying glass",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff/lossy-page1-960px-Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          "image_query": "gears circuit board"
         },
         {
-          "hook": "Se Anthropic perde, cambia tutto",
-          "description": "Chi vince i prossimi contratti deciderà le priorità sulla AI safety. Le regole seguono i vincitori.",
-          "visual_hint": "Mano che firma documento",
+          "hook": "Se sbaglia, la responsabilità è tua",
+          "description": "Un errore contrattuale dell'agente è tuo, non esiste 'errore della macchina' come scusa.",
+          "visual_hint": "timbro con firma umana",
           "layout_type": "human-hand",
           "icon": "vibration",
-          "image_query": "hand signing paper",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Josiah_Rushton_-_Watercolor_Painting_on_Paper%2C_Yorkshire_Coast%2C_hand_signed_lower_right.jpg/960px-Josiah_Rushton_-_Watercolor_Painting_on_Paper%2C_Yorkshire_Coast%2C_hand_signed_lower_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          "image_query": "hand stamp signature"
         },
         {
-          "hook": "Controlla gli award di oggi",
-          "description": "La tua compliance dipende da chi firma il prossimo contratto. Monitora le agenzie questa settimana.",
-          "visual_hint": "Checklist su monitor schermo",
+          "hook": "Agisci ora o affronta contenziosi",
+          "description": "Chi non definisce policy oggi, tra 12 mesi avrà caos operativo e legale concreto.",
+          "visual_hint": "calendario con scadenza",
           "layout_type": "cta-final",
-          "icon": "check",
-          "image_query": "checklist computer screen"
+          "icon": "tag",
+          "image_query": "calendar deadline warning"
         }
       ],
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/ai-in-defence-hero_x1440.webp",
-      "instagram_caption": "Lo stop al monopolio è arrivato: il governo USA ha appena sostituito il suo fornitore AI principale. Anthropic perde il ruolo di partner esclusivo e i nuovi contratti vanno a startup più piccole e veloci. Per chi lavora nel settore, è il segnale che le alleanze esclusive sono un rischio. Se usi strumenti AI, chiediti: hai già un piano B per i tuoi fornitori?",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/GCN26_102_BlogHeader_2436x1200_Opt_4_Dark.max-2500x2500-1.jpg",
+      "instagram_caption": "Google ha messo in vendita un software per gestire la governance dell'AI, non un semplice aggiornamento. Le aziende devono ancora capire come seguire regole che cambiano ogni settimana 📋. Questo servizio promette di tenerti in regola senza che tu diventi un esperto legale, automatizzando audit e controlli di sicurezza 🛡️. Concretamente: se lavori con strumenti intelligenti, puoi delegare la burocrazia a un sistema che valida le tue policy in tempo reale. Una banca lo usa già per i controlli automatici. Hai già un piano su come gestire questi obblighi nuovi? 💡",
       "schema_version": 2,
       "agent": "ai-news",
-      "slug": "us-government-increases-ai-suppliers-and-rethinks-",
+      "slug": "google-made-agentic-ai-governance-a-product-enterp",
       "prompt_version": "1.0.0",
       "status": "draft",
       "formats": {
         "x": {
           "thread": [
-            "Anthropic ha puntato tutto sulla sicurezza. Ora rischia di perdere i contratti federali perché il governo allarga i fornitori AI.",
-            "Fino a ieri essere i più 'safe' era un vantaggio. Oggi il governo vuole più competizione—e più opzioni.",
-            "Nuovi vendor vincono gare che Anthropic dava per scontate. Il suo posizionamento ethics-first non basta più.",
-            "Se Anthropic perde quote, le regole sull'AI safety potrebbero cambiare. Chi vince decide le priorità.",
-            "Controlla gli award delle agenzie questa settimana. La tua compliance dipende da chi firma il prossimo contratto."
+            "Le aziende non hanno policy per gli agenti AI. Sono semi-autonomi e operano da soli. Questo è già un problema.",
+            "Un agente AI può firmare contratti, acquistare servizi, modificare sistemi. Nessuno controlla cosa fa davvero.",
+            "Google prova a vendere governance per questo caos. Ma la domanda è: chi decide le regole se l'agente decide da solo?",
+            "Se oggi un agente sbaglia un contratto, la responsabilità è tua. Non c'è un 'errore della macchina' che ti salva.",
+            "Chi non definisce ora policy per i propri agenti, tra 12 mesi affronterà contenziosi operativi. Il rischio è concreto."
           ]
         },
         "instagram": {
-          "caption": "Lo stop al monopolio è arrivato: il governo USA ha appena sostituito il suo fornitore AI principale. Anthropic perde il ruolo di partner esclusivo e i nuovi contratti vanno a startup più piccole e veloci. Per chi lavora nel settore, è il segnale che le alleanze esclusive sono un rischio. Se usi strumenti AI, chiediti: hai già un piano B per i tuoi fornitori?",
+          "caption": "Google ha messo in vendita un software per gestire la governance dell'AI, non un semplice aggiornamento. Le aziende devono ancora capire come seguire regole che cambiano ogni settimana 📋. Questo servizio promette di tenerti in regola senza che tu diventi un esperto legale, automatizzando audit e controlli di sicurezza 🛡️. Concretamente: se lavori con strumenti intelligenti, puoi delegare la burocrazia a un sistema che valida le tue policy in tempo reale. Una banca lo usa già per i controlli automatici. Hai già un piano su come gestire questi obblighi nuovi? 💡",
           "carousel": [
             {
-              "hook": "Anthropic perde la pole position?",
-              "description": "Anthropic puntava sulla sicurezza. Ora il governo apre a nuovi vendor AI e il suo vantaggio si erode.",
-              "visual_hint": "Griglia gare con posti occupati",
+              "hook": "I tuoi agenti AI decidono da soli",
+              "description": "Le aziende non hanno policy per gestire le azioni semi-autonome degli agenti AI.",
+              "visual_hint": "robot che firma contratto",
               "layout_type": "hero",
               "icon": "tag",
-              "image_query": "race starting grid"
+              "image_query": "robot signing document"
             },
             {
-              "hook": "Più fornitori, meno certezze",
-              "description": "Il governo vuole competizione. Nuovi attori vincono contratti che Anthropic dava per scontati.",
-              "visual_hint": "Frecce multiple verso un edificio",
+              "hook": "Nessuno controlla cosa fanno",
+              "description": "Un agente può firmare contratti, acquistare servizi, modificare sistemi senza supervisione.",
+              "visual_hint": "schermo con clausole legali",
               "layout_type": "right-focus",
               "icon": "waves",
-              "image_query": "government building arrows"
+              "image_query": "legal contract closeup"
             },
             {
-              "hook": "Essere safe non basta più",
-              "description": "Fino a ieri l'approccio ethics-first era un vantaggio. Oggi il governo cerca velocità e varietà.",
-              "visual_hint": "Lente d'ingrandimento su contratto",
+              "hook": "Google vende governance, ma chi decide?",
+              "description": "Google prova a vendere strumenti di governance, ma resta il nodo: chi stabilisce le regole?",
+              "visual_hint": "ingranaggi e schermo AI",
               "layout_type": "sensor-zoom",
               "icon": "heart",
-              "image_query": "contract magnifying glass",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff/lossy-page1-960px-Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "image_query": "gears circuit board"
             },
             {
-              "hook": "Se Anthropic perde, cambia tutto",
-              "description": "Chi vince i prossimi contratti deciderà le priorità sulla AI safety. Le regole seguono i vincitori.",
-              "visual_hint": "Mano che firma documento",
+              "hook": "Se sbaglia, la responsabilità è tua",
+              "description": "Un errore contrattuale dell'agente è tuo, non esiste 'errore della macchina' come scusa.",
+              "visual_hint": "timbro con firma umana",
               "layout_type": "human-hand",
               "icon": "vibration",
-              "image_query": "hand signing paper",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Josiah_Rushton_-_Watercolor_Painting_on_Paper%2C_Yorkshire_Coast%2C_hand_signed_lower_right.jpg/960px-Josiah_Rushton_-_Watercolor_Painting_on_Paper%2C_Yorkshire_Coast%2C_hand_signed_lower_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "image_query": "hand stamp signature"
             },
             {
-              "hook": "Controlla gli award di oggi",
-              "description": "La tua compliance dipende da chi firma il prossimo contratto. Monitora le agenzie questa settimana.",
-              "visual_hint": "Checklist su monitor schermo",
+              "hook": "Agisci ora o affronta contenziosi",
+              "description": "Chi non definisce policy oggi, tra 12 mesi avrà caos operativo e legale concreto.",
+              "visual_hint": "calendario con scadenza",
               "layout_type": "cta-final",
-              "icon": "check",
-              "image_query": "checklist computer screen"
+              "icon": "tag",
+              "image_query": "calendar deadline warning"
             }
           ]
         },
         "tiktok": {
           "script": [
-            "Anthropic rischia di perdere i contratti federali.",
-            "Il governo allarga i fornitori AI, più competizione.",
-            "Essere il più sicuro non basta più.",
-            "Chi vince decide le nuove regole.",
-            "Controlla gli award, è strategico per te."
-          ]
-        }
-      },
-      "metrics": {
-        "x": {},
-        "instagram": {},
-        "tiktok": {}
-      }
-    },
-    {
-      "title": "SAP: How enterprise AI governance secures profit margins",
-      "slides": [
-        "SAP's AI governance just saved a client's margin.",
-        "Half of enterprise AI projects never go live.",
-        "Their compliance automation caught a hidden risk.",
-        "Your next audit might already be shaped by it.",
-        "Test your own governance gap before quarter closes."
-      ],
-      "thread_text": [
-        "Mezzo milione perso su un contrato. L'AI ha trovato un rischio che nessuno aveva visto.",
-        "Il 50% dei progetti AI non arriva in produzione. Il problema non è la tecnologia, ma la governance.",
-        "SAP ha automatizzato la conformità normativa. Un cliente ha scoperto un errore che gli costava margini.",
-        "Tra pochi mesi, le tue revisioni potrebbero essere già influenzate da questo tipo di controllo automatico.",
-        "Scopri se il tuo team è dentro quel 50%. Fai il test governance e chiudi il trimestre in sicurezza."
-      ],
-      "video_script": [
-        "Un cliente ha perso mezzo milione in rischi nascosti.",
-        "La governance AI li ha salvati all'ultimo minuto.",
-        "Metà dei progetti AI fallisce in azienda.",
-        "Non è colpa della tecnologia ma delle regole.",
-        "Testa il tuo divario di governance prima che il mese chiuda."
-      ],
-      "savedAt": "2026-05-07T06:30:18.120Z",
-      "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
-      "carousel_slides": [
-        {
-          "hook": "Half a million lost.",
-          "description": "AI found a hidden risk in a contract that no one saw. SAP saved the margin.",
-          "visual_hint": "Contract with red flag",
-          "layout_type": "hero",
-          "icon": "tag",
-          "image_query": "contract document magnifying glass"
-        },
-        {
-          "hook": "50% of AI projects fail.",
-          "description": "They never go live. It's a governance problem, not technology.",
-          "visual_hint": "Chart with 50% drop",
-          "layout_type": "right-focus",
-          "icon": "waves",
-          "image_query": "stock market chart down",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png/960px-GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-        },
-        {
-          "hook": "SAP caught the margin killer.",
-          "description": "Compliance automation found an error that was costing profits. Automated conformity check.",
-          "visual_hint": "Shield with checkmark",
-          "layout_type": "sensor-zoom",
-          "icon": "heart",
-          "image_query": "server room blinking lights"
-        },
-        {
-          "hook": "Your next audit is changing.",
-          "description": "Soon, audits will be shaped by automatic AI compliance controls. Your margins depend on it.",
-          "visual_hint": "Clock and audit report",
-          "layout_type": "human-hand",
-          "icon": "vibration",
-          "image_query": "office workers meeting table"
-        },
-        {
-          "hook": "Are you in the 50%?",
-          "description": "Test your governance gap before Q1 closes. Secure your margins and pass the audit.",
-          "visual_hint": "Test checklist on screen",
-          "layout_type": "cta-final",
-          "icon": "check",
-          "image_query": "factory robot assembly line"
-        }
-      ],
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/sap-enterprise-ai-governance-agentic-strategy-agents-trends-artificial-intelligence.jpg",
-      "instagram_caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍",
-      "schema_version": 2,
-      "agent": "ai-news",
-      "slug": "sap-how-enterprise-ai-governance-secures-profit-ma",
-      "prompt_version": "1.0.0",
-      "status": "draft",
-      "formats": {
-        "x": {
-          "thread": [
-            "Mezzo milione perso su un contrato. L'AI ha trovato un rischio che nessuno aveva visto.",
-            "Il 50% dei progetti AI non arriva in produzione. Il problema non è la tecnologia, ma la governance.",
-            "SAP ha automatizzato la conformità normativa. Un cliente ha scoperto un errore che gli costava margini.",
-            "Tra pochi mesi, le tue revisioni potrebbero essere già influenzate da questo tipo di controllo automatico.",
-            "Scopri se il tuo team è dentro quel 50%. Fai il test governance e chiudi il trimestre in sicurezza."
-          ]
-        },
-        "instagram": {
-          "caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍",
-          "carousel": [
-            {
-              "hook": "Half a million lost.",
-              "description": "AI found a hidden risk in a contract that no one saw. SAP saved the margin.",
-              "visual_hint": "Contract with red flag",
-              "layout_type": "hero",
-              "icon": "tag",
-              "image_query": "contract document magnifying glass"
-            },
-            {
-              "hook": "50% of AI projects fail.",
-              "description": "They never go live. It's a governance problem, not technology.",
-              "visual_hint": "Chart with 50% drop",
-              "layout_type": "right-focus",
-              "icon": "waves",
-              "image_query": "stock market chart down",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png/960px-GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-            },
-            {
-              "hook": "SAP caught the margin killer.",
-              "description": "Compliance automation found an error that was costing profits. Automated conformity check.",
-              "visual_hint": "Shield with checkmark",
-              "layout_type": "sensor-zoom",
-              "icon": "heart",
-              "image_query": "server room blinking lights"
-            },
-            {
-              "hook": "Your next audit is changing.",
-              "description": "Soon, audits will be shaped by automatic AI compliance controls. Your margins depend on it.",
-              "visual_hint": "Clock and audit report",
-              "layout_type": "human-hand",
-              "icon": "vibration",
-              "image_query": "office workers meeting table"
-            },
-            {
-              "hook": "Are you in the 50%?",
-              "description": "Test your governance gap before Q1 closes. Secure your margins and pass the audit.",
-              "visual_hint": "Test checklist on screen",
-              "layout_type": "cta-final",
-              "icon": "check",
-              "image_query": "factory robot assembly line"
-            }
-          ]
-        },
-        "tiktok": {
-          "script": [
-            "Un cliente ha perso mezzo milione in rischi nascosti.",
-            "La governance AI li ha salvati all'ultimo minuto.",
-            "Metà dei progetti AI fallisce in azienda.",
-            "Non è colpa della tecnologia ma delle regole.",
-            "Testa il tuo divario di governance prima che il mese chiuda."
+            "Nessuna azienda ha regole per gli agenti AI.",
+            "Ogni agente decide da solo cosa fare.",
+            "Possono firmare contratti senza controllo umano.",
+            "Google vende governance, ma è solo un cerotto.",
+            "Se non agisci ora, paghi multe tra un anno."
           ]
         }
       },
@@ -12049,145 +11896,441 @@ window.AGENTS = {
       }
     },
     {
-      "title": "Microsoft’s AI data center push is colliding with its clean power goals",
+      "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
       "slides": [
-        "Microsoft promises carbon-negative by 2030—can AI growth fit?",
-        "Its data centers now demand massive new power plants.",
-        "Backup diesel generators quietly run far more than disclosed.",
-        "Your cloud AI tools may already run on fossil fuels.",
-        "Check your workload's real carbon impact today."
+        "LG e NVIDIA discutono di AI fisica: la sfida è invisibile?",
+        "Servono nuovi chip per macchine che vedono e agiscono.",
+        "L'accordo segreto punta a robot che imparano da soli.",
+        "Le fabbriche LG potrebbero diventare autonome entro 5 anni.",
+        "Controlla i brevetti: la corsa è già iniziata senza clamore."
       ],
       "thread_text": [
-        "I backup diesel dei data center Microsoft girano molto più di quanto dichiarato. Una crepa nel piano carbon-negative.",
-        "Microsoft prometteva di diventare carbon-negative entro il 2030. Oggi i suoi data center richiedono nuove centrali elettriche enormi.",
-        "I generatori diesel sono i veri responsabili. Accesi in silenzio, ben oltre i report ufficiali. I tuoi tool AI cloud potrebbero già funzionare a combustibili fossili.",
-        "Questa discrepanza non è solo greenwashing. Significa che ogni query AI ha un costo ambientale reale che nessuno calcola.",
-        "Verifica l'impatto reale del tuo carico di lavoro oggi. I dati sono nelle tue mani, non nei comunicati stampa."
+        "Un accordo segreto tra LG e NVIDIA punta a robot che imparano da soli. Nessuno ne parla, ma la posta in gioco è enorme.",
+        "Il problema oggi è che le macchine vedono, ma non agiscono. Per farlo servono chip nuovi, capaci di elaborare il mondo fisico in tempo reale.",
+        "LG ha già iniziato a testare questi sistemi nelle sue fabbriche. L'obiettivo dichiarato: renderle completamente autonome entro 5 anni.",
+        "Il punto è che senza una nuova architettura hardware, nessun software sarà mai abbastanza veloce. E loro lo sanno.",
+        "Controlla i brevetti depositati da LG e NVIDIA negli ultimi 12 mesi. La corsa è iniziata senza rumore, ma chi arriva primo decide le regole."
       ],
       "video_script": [
-        "I backup diesel girano più del previsto.",
-        "Microsoft promette carbon-negative ma servono centrali.",
-        "I tuoi tool AI usano già fossili.",
-        "Controlla subito il tuo impatto.",
-        "I dati parlano chiaro."
+        "C'è un accordo segreto tra LG e NVIDIA.",
+        "Puntano a robot che imparano da soli.",
+        "Oggi le macchine vedono ma non agiscono.",
+        "Servono chip nuovi per questo.",
+        "LG vuole fabbriche autonome in 5 anni."
       ],
       "savedAt": "2026-05-07T06:30:18.120Z",
-      "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
+      "link": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
       "carousel_slides": [
         {
-          "hook": "I backup diesel girano in silenzio",
-          "description": "I generatori diesel dei data center Microsoft funzionano molto più del dichiarato. Una crepa nel piano carbon-negative.",
-          "visual_hint": "Generatori diesel accesi",
+          "hook": "Un accordo segreto cambia tutto",
+          "description": "LG e NVIDIA puntano a robot che imparano da soli. La posta in gioco è enorme.",
+          "visual_hint": "Robot handshake futuristico",
           "layout_type": "hero",
           "icon": "tag",
-          "image_query": "diesel generator data center"
+          "image_query": "factory robot arm"
         },
         {
-          "hook": "Centrali elettriche per l'AI",
-          "description": "Microsoft prometteva carbon-negative entro il 2030. Oggi i suoi data center richiedono enormi nuove centrali elettriche.",
-          "visual_hint": "Centrale elettrica enorme",
+          "hook": "Macchine che vedono ma non agiscono",
+          "description": "Servono chip nuovi per elaborare il mondo fisico in tempo reale.",
+          "visual_hint": "Chip a fuoco",
           "layout_type": "right-focus",
           "icon": "waves",
-          "image_query": "power plant smoke",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Power_Plant_Smoke_Towers_during_Sunset.jpg/960px-Power_Plant_Smoke_Towers_during_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          "image_query": "microchip closeup",
+          "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         {
-          "hook": "I tuoi tool AI su fossili",
-          "description": "I generatori diesel accesi oltre i report ufficiali. I tuoi strumenti AI cloud potrebbero già funzionare a combustibili fossili.",
-          "visual_hint": "Grafico emissioni in crescita",
+          "hook": "L'obiettivo: fabbriche autonome in 5 anni",
+          "description": "LG testa già sistemi nelle sue fabbriche per renderle completamente autonome.",
+          "visual_hint": "Fabbrica automatizzata",
           "layout_type": "sensor-zoom",
           "icon": "heart",
-          "image_query": "carbon emissions chart",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Carbon_Emissions_Per_Passenger.png/960px-Carbon_Emissions_Per_Passenger.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          "image_query": "automated factory line",
+          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         {
-          "hook": "Ogni query AI ha un costo",
-          "description": "Questa discrepanza non è solo greenwashing. Ogni query AI ha un costo ambientale reale che nessuno calcola.",
-          "visual_hint": "Mano su schermo dati",
+          "hook": "Hardware nuovo o software inutile",
+          "description": "Senza nuova architettura hardware, nessun software sarà mai abbastanza veloce.",
+          "visual_hint": "Ingranaggi e circuiti",
           "layout_type": "human-hand",
           "icon": "vibration",
-          "image_query": "hand touching screen"
+          "image_query": "server room hardware",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         {
-          "hook": "Verifica l'impatto reale ora",
-          "description": "Controlla l'impatto reale del tuo carico di lavoro oggi. I dati sono nelle tue mani, non nei comunicati stampa.",
-          "visual_hint": "Spunta verde su report",
+          "hook": "La corsa è iniziata senza rumore",
+          "description": "Controlla i brevetti LG e NVIDIA dell'ultimo anno: chi arriva primo decide le regole.",
+          "visual_hint": "Documento brevettuale",
           "layout_type": "cta-final",
-          "icon": "check",
-          "image_query": "green checkmark report"
+          "icon": "tag",
+          "image_query": "patent document closeup",
+          "image": "https://images.pexels.com/photos/8730990/pexels-photo-8730990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
       ],
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1475927398.jpeg?resize=1200,674",
-      "instagram_caption": "Una delle aziende più ricche del pianeta ha promesso zero emissioni tra sei anni, ma i suoi nuovi data center per l'intelligenza artificiale stanno già triplicando il consumo di elettricità previsto ⚡. Microsoft investe miliardi in rinnovabili, ma né solare né eolico riescono a tenere il passo di questa fame. Ogni volta che un chatbot ti risponde, brucia corrente come un piccolo elettrodomestico acceso ore 💨. Hai mai pensato a cosa chiedi davvero all’AI? 😅",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/lg-nvidia-talks-physical-ai-isaac-robotics-industrial-edge-computing-artificial-intelligence-data-centres-digital-twins.jpg",
+      "instagram_caption": "LG e Nvidia stanno collaborando per addestrare robot in simulazioni cloud, poi trasferirli direttamente in fabbrica. 🏭 Non più solo chatbot: l'AI impara a controllare macchine, movimenti e decisioni nel mondo fisico, senza bisogno di supervisione umana. I modelli virtuali testano ogni scenario, e i robot reali eseguono già in sicurezza. Per chi lavora nella logistica o nella produzione, significa linee più veloci e operazioni gestite da remoto. Per gli altri, la domanda è: tra quanti anni il tuo autista-assistente funzionerà così? 🤖",
       "schema_version": 2,
       "agent": "ai-news",
-      "slug": "microsoft-s-ai-data-center-push-is-colliding-with-",
+      "slug": "what-lg-and-nvidia-s-talks-reveal-about-the-future",
       "prompt_version": "1.0.0",
       "status": "draft",
       "formats": {
         "x": {
           "thread": [
-            "I backup diesel dei data center Microsoft girano molto più di quanto dichiarato. Una crepa nel piano carbon-negative.",
-            "Microsoft prometteva di diventare carbon-negative entro il 2030. Oggi i suoi data center richiedono nuove centrali elettriche enormi.",
-            "I generatori diesel sono i veri responsabili. Accesi in silenzio, ben oltre i report ufficiali. I tuoi tool AI cloud potrebbero già funzionare a combustibili fossili.",
-            "Questa discrepanza non è solo greenwashing. Significa che ogni query AI ha un costo ambientale reale che nessuno calcola.",
-            "Verifica l'impatto reale del tuo carico di lavoro oggi. I dati sono nelle tue mani, non nei comunicati stampa."
+            "Un accordo segreto tra LG e NVIDIA punta a robot che imparano da soli. Nessuno ne parla, ma la posta in gioco è enorme.",
+            "Il problema oggi è che le macchine vedono, ma non agiscono. Per farlo servono chip nuovi, capaci di elaborare il mondo fisico in tempo reale.",
+            "LG ha già iniziato a testare questi sistemi nelle sue fabbriche. L'obiettivo dichiarato: renderle completamente autonome entro 5 anni.",
+            "Il punto è che senza una nuova architettura hardware, nessun software sarà mai abbastanza veloce. E loro lo sanno.",
+            "Controlla i brevetti depositati da LG e NVIDIA negli ultimi 12 mesi. La corsa è iniziata senza rumore, ma chi arriva primo decide le regole."
           ]
         },
         "instagram": {
-          "caption": "Una delle aziende più ricche del pianeta ha promesso zero emissioni tra sei anni, ma i suoi nuovi data center per l'intelligenza artificiale stanno già triplicando il consumo di elettricità previsto ⚡. Microsoft investe miliardi in rinnovabili, ma né solare né eolico riescono a tenere il passo di questa fame. Ogni volta che un chatbot ti risponde, brucia corrente come un piccolo elettrodomestico acceso ore 💨. Hai mai pensato a cosa chiedi davvero all’AI? 😅",
+          "caption": "LG e Nvidia stanno collaborando per addestrare robot in simulazioni cloud, poi trasferirli direttamente in fabbrica. 🏭 Non più solo chatbot: l'AI impara a controllare macchine, movimenti e decisioni nel mondo fisico, senza bisogno di supervisione umana. I modelli virtuali testano ogni scenario, e i robot reali eseguono già in sicurezza. Per chi lavora nella logistica o nella produzione, significa linee più veloci e operazioni gestite da remoto. Per gli altri, la domanda è: tra quanti anni il tuo autista-assistente funzionerà così? 🤖",
           "carousel": [
             {
-              "hook": "I backup diesel girano in silenzio",
-              "description": "I generatori diesel dei data center Microsoft funzionano molto più del dichiarato. Una crepa nel piano carbon-negative.",
-              "visual_hint": "Generatori diesel accesi",
+              "hook": "Un accordo segreto cambia tutto",
+              "description": "LG e NVIDIA puntano a robot che imparano da soli. La posta in gioco è enorme.",
+              "visual_hint": "Robot handshake futuristico",
               "layout_type": "hero",
               "icon": "tag",
-              "image_query": "diesel generator data center"
+              "image_query": "factory robot arm"
             },
             {
-              "hook": "Centrali elettriche per l'AI",
-              "description": "Microsoft prometteva carbon-negative entro il 2030. Oggi i suoi data center richiedono enormi nuove centrali elettriche.",
-              "visual_hint": "Centrale elettrica enorme",
+              "hook": "Macchine che vedono ma non agiscono",
+              "description": "Servono chip nuovi per elaborare il mondo fisico in tempo reale.",
+              "visual_hint": "Chip a fuoco",
               "layout_type": "right-focus",
               "icon": "waves",
-              "image_query": "power plant smoke",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Power_Plant_Smoke_Towers_during_Sunset.jpg/960px-Power_Plant_Smoke_Towers_during_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "image_query": "microchip closeup",
+              "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
             },
             {
-              "hook": "I tuoi tool AI su fossili",
-              "description": "I generatori diesel accesi oltre i report ufficiali. I tuoi strumenti AI cloud potrebbero già funzionare a combustibili fossili.",
-              "visual_hint": "Grafico emissioni in crescita",
+              "hook": "L'obiettivo: fabbriche autonome in 5 anni",
+              "description": "LG testa già sistemi nelle sue fabbriche per renderle completamente autonome.",
+              "visual_hint": "Fabbrica automatizzata",
               "layout_type": "sensor-zoom",
               "icon": "heart",
-              "image_query": "carbon emissions chart",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Carbon_Emissions_Per_Passenger.png/960px-Carbon_Emissions_Per_Passenger.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "image_query": "automated factory line",
+              "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
             },
             {
-              "hook": "Ogni query AI ha un costo",
-              "description": "Questa discrepanza non è solo greenwashing. Ogni query AI ha un costo ambientale reale che nessuno calcola.",
-              "visual_hint": "Mano su schermo dati",
+              "hook": "Hardware nuovo o software inutile",
+              "description": "Senza nuova architettura hardware, nessun software sarà mai abbastanza veloce.",
+              "visual_hint": "Ingranaggi e circuiti",
               "layout_type": "human-hand",
               "icon": "vibration",
-              "image_query": "hand touching screen"
+              "image_query": "server room hardware",
+              "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
             },
             {
-              "hook": "Verifica l'impatto reale ora",
-              "description": "Controlla l'impatto reale del tuo carico di lavoro oggi. I dati sono nelle tue mani, non nei comunicati stampa.",
-              "visual_hint": "Spunta verde su report",
+              "hook": "La corsa è iniziata senza rumore",
+              "description": "Controlla i brevetti LG e NVIDIA dell'ultimo anno: chi arriva primo decide le regole.",
+              "visual_hint": "Documento brevettuale",
               "layout_type": "cta-final",
-              "icon": "check",
-              "image_query": "green checkmark report"
+              "icon": "tag",
+              "image_query": "patent document closeup",
+              "image": "https://images.pexels.com/photos/8730990/pexels-photo-8730990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
             }
           ]
         },
         "tiktok": {
           "script": [
-            "I backup diesel girano più del previsto.",
-            "Microsoft promette carbon-negative ma servono centrali.",
-            "I tuoi tool AI usano già fossili.",
-            "Controlla subito il tuo impatto.",
-            "I dati parlano chiaro."
+            "C'è un accordo segreto tra LG e NVIDIA.",
+            "Puntano a robot che imparano da soli.",
+            "Oggi le macchine vedono ma non agiscono.",
+            "Servono chip nuovi per questo.",
+            "LG vuole fabbriche autonome in 5 anni."
+          ]
+        }
+      },
+      "metrics": {
+        "x": {},
+        "instagram": {},
+        "tiktok": {}
+      }
+    },
+    {
+      "title": "SAP: How enterprise AI governance secures profit margins",
+      "slides": [
+        "SAP's AI governance just saved a client's margin.",
+        "Half of enterprise AI projects never go live.",
+        "Their compliance automation caught a hidden risk.",
+        "Your next audit might already be shaped by it.",
+        "Test your own governance gap before quarter closes."
+      ],
+      "thread_text": [
+        "Mezzo milione perso su un contrato. L'AI ha trovato un rischio che nessuno aveva visto.",
+        "Il 50% dei progetti AI non arriva in produzione. Il problema non è la tecnologia, ma la governance.",
+        "SAP ha automatizzato la conformità normativa. Un cliente ha scoperto un errore che gli costava margini.",
+        "Tra pochi mesi, le tue revisioni potrebbero essere già influenzate da questo tipo di controllo automatico.",
+        "Scopri se il tuo team è dentro quel 50%. Fai il test governance e chiudi il trimestre in sicurezza."
+      ],
+      "video_script": [
+        "Un cliente ha perso mezzo milione in rischi nascosti.",
+        "La governance AI li ha salvati all'ultimo minuto.",
+        "Metà dei progetti AI fallisce in azienda.",
+        "Non è colpa della tecnologia ma delle regole.",
+        "Testa il tuo divario di governance prima che il mese chiuda."
+      ],
+      "savedAt": "2026-05-07T06:30:18.120Z",
+      "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
+      "carousel_slides": [
+        {
+          "hook": "Half a million lost.",
+          "description": "AI found a hidden risk in a contract that no one saw. SAP saved the margin.",
+          "visual_hint": "Contract with red flag",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "contract document magnifying glass"
+        },
+        {
+          "hook": "50% of AI projects fail.",
+          "description": "They never go live. It's a governance problem, not technology.",
+          "visual_hint": "Chart with 50% drop",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart down",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png/960px-GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "SAP caught the margin killer.",
+          "description": "Compliance automation found an error that was costing profits. Automated conformity check.",
+          "visual_hint": "Shield with checkmark",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room blinking lights"
+        },
+        {
+          "hook": "Your next audit is changing.",
+          "description": "Soon, audits will be shaped by automatic AI compliance controls. Your margins depend on it.",
+          "visual_hint": "Clock and audit report",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers meeting table"
+        },
+        {
+          "hook": "Are you in the 50%?",
+          "description": "Test your governance gap before Q1 closes. Secure your margins and pass the audit.",
+          "visual_hint": "Test checklist on screen",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "factory robot assembly line"
+        }
+      ],
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/sap-enterprise-ai-governance-agentic-strategy-agents-trends-artificial-intelligence.jpg",
+      "instagram_caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍",
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "sap-how-enterprise-ai-governance-secures-profit-ma",
+      "prompt_version": "1.0.0",
+      "status": "draft",
+      "formats": {
+        "x": {
+          "thread": [
+            "Mezzo milione perso su un contrato. L'AI ha trovato un rischio che nessuno aveva visto.",
+            "Il 50% dei progetti AI non arriva in produzione. Il problema non è la tecnologia, ma la governance.",
+            "SAP ha automatizzato la conformità normativa. Un cliente ha scoperto un errore che gli costava margini.",
+            "Tra pochi mesi, le tue revisioni potrebbero essere già influenzate da questo tipo di controllo automatico.",
+            "Scopri se il tuo team è dentro quel 50%. Fai il test governance e chiudi il trimestre in sicurezza."
+          ]
+        },
+        "instagram": {
+          "caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍",
+          "carousel": [
+            {
+              "hook": "Half a million lost.",
+              "description": "AI found a hidden risk in a contract that no one saw. SAP saved the margin.",
+              "visual_hint": "Contract with red flag",
+              "layout_type": "hero",
+              "icon": "tag",
+              "image_query": "contract document magnifying glass"
+            },
+            {
+              "hook": "50% of AI projects fail.",
+              "description": "They never go live. It's a governance problem, not technology.",
+              "visual_hint": "Chart with 50% drop",
+              "layout_type": "right-focus",
+              "icon": "waves",
+              "image_query": "stock market chart down",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png/960px-GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            {
+              "hook": "SAP caught the margin killer.",
+              "description": "Compliance automation found an error that was costing profits. Automated conformity check.",
+              "visual_hint": "Shield with checkmark",
+              "layout_type": "sensor-zoom",
+              "icon": "heart",
+              "image_query": "server room blinking lights"
+            },
+            {
+              "hook": "Your next audit is changing.",
+              "description": "Soon, audits will be shaped by automatic AI compliance controls. Your margins depend on it.",
+              "visual_hint": "Clock and audit report",
+              "layout_type": "human-hand",
+              "icon": "vibration",
+              "image_query": "office workers meeting table"
+            },
+            {
+              "hook": "Are you in the 50%?",
+              "description": "Test your governance gap before Q1 closes. Secure your margins and pass the audit.",
+              "visual_hint": "Test checklist on screen",
+              "layout_type": "cta-final",
+              "icon": "check",
+              "image_query": "factory robot assembly line"
+            }
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Un cliente ha perso mezzo milione in rischi nascosti.",
+            "La governance AI li ha salvati all'ultimo minuto.",
+            "Metà dei progetti AI fallisce in azienda.",
+            "Non è colpa della tecnologia ma delle regole.",
+            "Testa il tuo divario di governance prima che il mese chiuda."
+          ]
+        }
+      },
+      "metrics": {
+        "x": {},
+        "instagram": {},
+        "tiktok": {}
+      }
+    },
+    {
+      "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+      "slides": [
+        "Google tests Remy—but will it obey your orders?",
+        "Remy is an AI agent inside Gemini's app.",
+        "It can book flights and manage tasks autonomously.",
+        "But you still approve every action it takes.",
+        "Control now: test the agent's limits yourself."
+      ],
+      "thread_text": [
+        "Remy è un agente AI che vive dentro l'app di Gemini e sa già prenotare voli e gestire task. Il punto è: può agire per te, ma solo se glielo permetti.",
+        "Google lo sta testando con un progetto chiamato Remy. È dentro l'app Gemini. Non è un plugin o un esperimento separato: è un vero agente autonomo che lavora in background.",
+        "Il bello è che Remy esegue operazioni reali: prenota voli, gestisce calendari, compila moduli. Ma prima di ogni azione, ti chiede conferma. Non fa mai nulla senza il tuo via.",
+        "Il controllo è totale. Tu decidi se e quando intervenire. È come avere un assistente che ti mostra tutto prima di agire. Non un maggiordomo cieco, ma un esecutore che riferisce.",
+        "Ora puoi testare i suoi limiti direttamente. Entra in Gemini, attiva Remy e digli il task che ti sembra più complesso. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore."
+      ],
+      "video_script": [
+        "C'è un nuovo agente AI dentro Gemini.",
+        "Si chiama Remy e prenota voli da solo.",
+        "Ma prima fa vedere tutto e chiede il via.",
+        "Tu controlli ogni singola mossa.",
+        "Provaci oggi e digli il task più assurdo."
+      ],
+      "savedAt": "2026-05-07T06:30:18.120Z",
+      "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
+      "carousel_slides": [
+        {
+          "hook": "Agirà per te, ma solo se lo permetti",
+          "description": "Remy è un agente AI dentro Gemini che prenota voli e gestisce task. Il punto: può agire, ma solo con la tua approvazione.",
+          "visual_hint": "Mano che clicca su un pulsante di conferma su schermo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "hand clicking confirmation button screen"
+        },
+        {
+          "hook": "Non è un plugin, è un agente autonomo",
+          "description": "Google testa Remy dentro l'app Gemini. Esegue operazioni reali: prenota voli, gestisce calendari, compila moduli.",
+          "visual_hint": "Interfaccia dell'app Gemini con pulsante Remy",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone app interface calendar"
+        },
+        {
+          "hook": "Prima di ogni azione, chiede conferma",
+          "description": "Remy ti mostra tutto prima di agire. Non fa mai nulla senza il tuo via. È un esecutore che riferisce, non un maggiordomo cieco.",
+          "visual_hint": "Flowchart di approvazione con spunte rosse e verdi",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "checkmark cross approval flowchart"
+        },
+        {
+          "hook": "Controllo totale: decidi tu se intervenire",
+          "description": "Remy esegue in background, ma tu hai l'ultima parola. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore.",
+          "visual_hint": "Mano che ferma un processo automatico su tablet",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand stopping automatic process tablet"
+        },
+        {
+          "hook": "Testa i suoi limiti. Entra in Gemini ora.",
+          "description": "Attiva Remy e digli il task più complesso che hai. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore.",
+          "visual_hint": "Tasto 'Attiva Remy' con effetto glow blu",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "glowing blue button activate text"
+        }
+      ],
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Google-tests-Remy-AI-agent-for-Gemini-as-focus-turns-to-user-control-scaled-e1778036705555.jpg",
+      "instagram_caption": "Google ha attivato Remy, un agente AI integrato in Gemini che prenota viaggi, acquista biglietti e gestisce calendari senza che tu muova un dito.  \nMa ogni azione — dal volo all’incontro — resta sotto il tuo controllo: devi approvarla prima che parta.  \nPer attivarlo, basta entrare nelle impostazioni di Gemini ora.  \nSe smettessi di cliccare pulsanti, quanto tempo libero ti ritroveresti in tasca? 🧠✈️✅📅",
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-tests-remy-ai-agent-for-gemini-as-focus-tur",
+      "prompt_version": "1.0.0",
+      "status": "draft",
+      "formats": {
+        "x": {
+          "thread": [
+            "Remy è un agente AI che vive dentro l'app di Gemini e sa già prenotare voli e gestire task. Il punto è: può agire per te, ma solo se glielo permetti.",
+            "Google lo sta testando con un progetto chiamato Remy. È dentro l'app Gemini. Non è un plugin o un esperimento separato: è un vero agente autonomo che lavora in background.",
+            "Il bello è che Remy esegue operazioni reali: prenota voli, gestisce calendari, compila moduli. Ma prima di ogni azione, ti chiede conferma. Non fa mai nulla senza il tuo via.",
+            "Il controllo è totale. Tu decidi se e quando intervenire. È come avere un assistente che ti mostra tutto prima di agire. Non un maggiordomo cieco, ma un esecutore che riferisce.",
+            "Ora puoi testare i suoi limiti direttamente. Entra in Gemini, attiva Remy e digli il task che ti sembra più complesso. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore."
+          ]
+        },
+        "instagram": {
+          "caption": "Google ha attivato Remy, un agente AI integrato in Gemini che prenota viaggi, acquista biglietti e gestisce calendari senza che tu muova un dito.  \nMa ogni azione — dal volo all’incontro — resta sotto il tuo controllo: devi approvarla prima che parta.  \nPer attivarlo, basta entrare nelle impostazioni di Gemini ora.  \nSe smettessi di cliccare pulsanti, quanto tempo libero ti ritroveresti in tasca? 🧠✈️✅📅",
+          "carousel": [
+            {
+              "hook": "Agirà per te, ma solo se lo permetti",
+              "description": "Remy è un agente AI dentro Gemini che prenota voli e gestisce task. Il punto: può agire, ma solo con la tua approvazione.",
+              "visual_hint": "Mano che clicca su un pulsante di conferma su schermo",
+              "layout_type": "hero",
+              "icon": "tag",
+              "image_query": "hand clicking confirmation button screen"
+            },
+            {
+              "hook": "Non è un plugin, è un agente autonomo",
+              "description": "Google testa Remy dentro l'app Gemini. Esegue operazioni reali: prenota voli, gestisce calendari, compila moduli.",
+              "visual_hint": "Interfaccia dell'app Gemini con pulsante Remy",
+              "layout_type": "right-focus",
+              "icon": "waves",
+              "image_query": "smartphone app interface calendar"
+            },
+            {
+              "hook": "Prima di ogni azione, chiede conferma",
+              "description": "Remy ti mostra tutto prima di agire. Non fa mai nulla senza il tuo via. È un esecutore che riferisce, non un maggiordomo cieco.",
+              "visual_hint": "Flowchart di approvazione con spunte rosse e verdi",
+              "layout_type": "sensor-zoom",
+              "icon": "heart",
+              "image_query": "checkmark cross approval flowchart"
+            },
+            {
+              "hook": "Controllo totale: decidi tu se intervenire",
+              "description": "Remy esegue in background, ma tu hai l'ultima parola. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore.",
+              "visual_hint": "Mano che ferma un processo automatico su tablet",
+              "layout_type": "human-hand",
+              "icon": "vibration",
+              "image_query": "hand stopping automatic process tablet"
+            },
+            {
+              "hook": "Testa i suoi limiti. Entra in Gemini ora.",
+              "description": "Attiva Remy e digli il task più complesso che hai. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore.",
+              "visual_hint": "Tasto 'Attiva Remy' con effetto glow blu",
+              "layout_type": "cta-final",
+              "icon": "tag",
+              "image_query": "glowing blue button activate text"
+            }
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "C'è un nuovo agente AI dentro Gemini.",
+            "Si chiama Remy e prenota voli da solo.",
+            "Ma prima fa vedere tutto e chiede il via.",
+            "Tu controlli ogni singola mossa.",
+            "Provaci oggi e digli il task più assurdo."
           ]
         }
       },
@@ -12333,6 +12476,306 @@ window.AGENTS = {
             "Metà dei pilot AI in EMEA non arriva mai in produzione.",
             "Inizia con un dataset pulito. Non provare a far tutto.",
             "Il tuo primo modello live è l'unica prova che conta."
+          ]
+        }
+      },
+      "metrics": {
+        "x": {},
+        "instagram": {},
+        "tiktok": {}
+      }
+    },
+    {
+      "title": "US government increases AI suppliers and rethinks Anthropic’s role",
+      "slides": [
+        "US government expands AI suppliers—will Anthropic lose its edge?",
+        "New vendors mean more competition for federal contracts.",
+        "Anthropic’s safety focus might now hurt its market share.",
+        "You must track who wins next to predict AI regulation shifts.",
+        "Check agency awards today: your compliance strategy depends on it."
+      ],
+      "thread_text": [
+        "Anthropic ha puntato tutto sulla sicurezza. Ora rischia di perdere i contratti federali perché il governo allarga i fornitori AI.",
+        "Fino a ieri essere i più 'safe' era un vantaggio. Oggi il governo vuole più competizione—e più opzioni.",
+        "Nuovi vendor vincono gare che Anthropic dava per scontate. Il suo posizionamento ethics-first non basta più.",
+        "Se Anthropic perde quote, le regole sull'AI safety potrebbero cambiare. Chi vince decide le priorità.",
+        "Controlla gli award delle agenzie questa settimana. La tua compliance dipende da chi firma il prossimo contratto."
+      ],
+      "video_script": [
+        "Anthropic rischia di perdere i contratti federali.",
+        "Il governo allarga i fornitori AI, più competizione.",
+        "Essere il più sicuro non basta più.",
+        "Chi vince decide le nuove regole.",
+        "Controlla gli award, è strategico per te."
+      ],
+      "savedAt": "2026-05-07T06:30:18.120Z",
+      "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
+      "carousel_slides": [
+        {
+          "hook": "Anthropic perde la pole position?",
+          "description": "Anthropic puntava sulla sicurezza. Ora il governo apre a nuovi vendor AI e il suo vantaggio si erode.",
+          "visual_hint": "Griglia gare con posti occupati",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "race starting grid"
+        },
+        {
+          "hook": "Più fornitori, meno certezze",
+          "description": "Il governo vuole competizione. Nuovi attori vincono contratti che Anthropic dava per scontati.",
+          "visual_hint": "Frecce multiple verso un edificio",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "government building arrows"
+        },
+        {
+          "hook": "Essere safe non basta più",
+          "description": "Fino a ieri l'approccio ethics-first era un vantaggio. Oggi il governo cerca velocità e varietà.",
+          "visual_hint": "Lente d'ingrandimento su contratto",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "contract magnifying glass",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff/lossy-page1-960px-Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Se Anthropic perde, cambia tutto",
+          "description": "Chi vince i prossimi contratti deciderà le priorità sulla AI safety. Le regole seguono i vincitori.",
+          "visual_hint": "Mano che firma documento",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand signing paper",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Josiah_Rushton_-_Watercolor_Painting_on_Paper%2C_Yorkshire_Coast%2C_hand_signed_lower_right.jpg/960px-Josiah_Rushton_-_Watercolor_Painting_on_Paper%2C_Yorkshire_Coast%2C_hand_signed_lower_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Controlla gli award di oggi",
+          "description": "La tua compliance dipende da chi firma il prossimo contratto. Monitora le agenzie questa settimana.",
+          "visual_hint": "Checklist su monitor schermo",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "checklist computer screen"
+        }
+      ],
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/ai-in-defence-hero_x1440.webp",
+      "instagram_caption": "Lo stop al monopolio è arrivato: il governo USA ha appena sostituito il suo fornitore AI principale. Anthropic perde il ruolo di partner esclusivo e i nuovi contratti vanno a startup più piccole e veloci. Per chi lavora nel settore, è il segnale che le alleanze esclusive sono un rischio. Se usi strumenti AI, chiediti: hai già un piano B per i tuoi fornitori?",
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "us-government-increases-ai-suppliers-and-rethinks-",
+      "prompt_version": "1.0.0",
+      "status": "draft",
+      "formats": {
+        "x": {
+          "thread": [
+            "Anthropic ha puntato tutto sulla sicurezza. Ora rischia di perdere i contratti federali perché il governo allarga i fornitori AI.",
+            "Fino a ieri essere i più 'safe' era un vantaggio. Oggi il governo vuole più competizione—e più opzioni.",
+            "Nuovi vendor vincono gare che Anthropic dava per scontate. Il suo posizionamento ethics-first non basta più.",
+            "Se Anthropic perde quote, le regole sull'AI safety potrebbero cambiare. Chi vince decide le priorità.",
+            "Controlla gli award delle agenzie questa settimana. La tua compliance dipende da chi firma il prossimo contratto."
+          ]
+        },
+        "instagram": {
+          "caption": "Lo stop al monopolio è arrivato: il governo USA ha appena sostituito il suo fornitore AI principale. Anthropic perde il ruolo di partner esclusivo e i nuovi contratti vanno a startup più piccole e veloci. Per chi lavora nel settore, è il segnale che le alleanze esclusive sono un rischio. Se usi strumenti AI, chiediti: hai già un piano B per i tuoi fornitori?",
+          "carousel": [
+            {
+              "hook": "Anthropic perde la pole position?",
+              "description": "Anthropic puntava sulla sicurezza. Ora il governo apre a nuovi vendor AI e il suo vantaggio si erode.",
+              "visual_hint": "Griglia gare con posti occupati",
+              "layout_type": "hero",
+              "icon": "tag",
+              "image_query": "race starting grid"
+            },
+            {
+              "hook": "Più fornitori, meno certezze",
+              "description": "Il governo vuole competizione. Nuovi attori vincono contratti che Anthropic dava per scontati.",
+              "visual_hint": "Frecce multiple verso un edificio",
+              "layout_type": "right-focus",
+              "icon": "waves",
+              "image_query": "government building arrows"
+            },
+            {
+              "hook": "Essere safe non basta più",
+              "description": "Fino a ieri l'approccio ethics-first era un vantaggio. Oggi il governo cerca velocità e varietà.",
+              "visual_hint": "Lente d'ingrandimento su contratto",
+              "layout_type": "sensor-zoom",
+              "icon": "heart",
+              "image_query": "contract magnifying glass",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff/lossy-page1-960px-Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            {
+              "hook": "Se Anthropic perde, cambia tutto",
+              "description": "Chi vince i prossimi contratti deciderà le priorità sulla AI safety. Le regole seguono i vincitori.",
+              "visual_hint": "Mano che firma documento",
+              "layout_type": "human-hand",
+              "icon": "vibration",
+              "image_query": "hand signing paper",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Josiah_Rushton_-_Watercolor_Painting_on_Paper%2C_Yorkshire_Coast%2C_hand_signed_lower_right.jpg/960px-Josiah_Rushton_-_Watercolor_Painting_on_Paper%2C_Yorkshire_Coast%2C_hand_signed_lower_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            {
+              "hook": "Controlla gli award di oggi",
+              "description": "La tua compliance dipende da chi firma il prossimo contratto. Monitora le agenzie questa settimana.",
+              "visual_hint": "Checklist su monitor schermo",
+              "layout_type": "cta-final",
+              "icon": "check",
+              "image_query": "checklist computer screen"
+            }
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic rischia di perdere i contratti federali.",
+            "Il governo allarga i fornitori AI, più competizione.",
+            "Essere il più sicuro non basta più.",
+            "Chi vince decide le nuove regole.",
+            "Controlla gli award, è strategico per te."
+          ]
+        }
+      },
+      "metrics": {
+        "x": {},
+        "instagram": {},
+        "tiktok": {}
+      }
+    },
+    {
+      "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
+      "slides": [
+        "Big Tech just proved AI infrastructure spending works.",
+        "Capital expenditure hit records—but profit margins shrank.",
+        "Revenue grew, yet costs rose faster than anyone expected.",
+        "Your cloud budget will likely double within two years.",
+        "Audit your AI costs now before they become unmanageable."
+      ],
+      "thread_text": [
+        "Revenue grew, but costs rose faster than anyone expected. That’s the hidden story behind every Big Tech AI announcement.",
+        "Companies spent record amounts on data centers and chips. Profit margins took the hit—not growth metrics.",
+        "The pattern is clear: the infrastructure bet is paying off in usage, not efficiency. You scale, but costs scale faster.",
+        "Your own cloud budget? It’s not immune. Analysts predict it will double within two years, just to keep pace.",
+        "Audit your AI costs now. Pick one workload, measure its full spend, and decide if it’s worth it—before next quarter."
+      ],
+      "video_script": [
+        "Revenue grew, but costs exploded faster.",
+        "Big Tech spent record money on AI infrastructure.",
+        "Profit margins shrank despite all that revenue.",
+        "Your cloud budget will double in two years.",
+        "Audit your AI costs today, not tomorrow."
+      ],
+      "savedAt": "2026-05-07T06:30:18.120Z",
+      "link": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/",
+      "carousel_slides": [
+        {
+          "hook": "Revenue grew, costs exploded",
+          "description": "The hidden story behind Big Tech AI: revenue grew, but costs rose faster than expected.",
+          "visual_hint": "Exploding bar chart",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Profit margins took the hit",
+          "description": "Record spending on data centers and chips—but profit margins shrank, not growth metrics.",
+          "visual_hint": "Shrinking profit arrow",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Scaling makes costs scale faster",
+          "description": "Infrastructure pays off in usage, not efficiency. You scale, but costs scale faster.",
+          "visual_hint": "Cost graph climbing steeply",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "data center cables",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Data_cables_prepped_for_installation_under_the_floor_of_the_Train_Operation_Center._%28CS179%2C_08-14-2019%29_%2848552632251%29.jpg/960px-Data_cables_prepped_for_installation_under_the_floor_of_the_Train_Operation_Center._%28CS179%2C_08-14-2019%29_%2848552632251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Your cloud budget will double",
+          "description": "Analysts predict your cloud budget will double within two years just to keep pace.",
+          "visual_hint": "Budget meter overflowing",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers computers",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Office_workers_in_the_1970%27s_%289717154582%29.jpg/960px-Office_workers_in_the_1970%27s_%289717154582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Audit AI costs before next quarter",
+          "description": "Pick one workload, measure its full spend, and decide if it's worth it—before next quarter.",
+          "visual_hint": "Magnifying glass on receipts",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "laptop with graphs"
+        }
+      ],
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/markus-stickling-ISP9CdRYS28-unsplash-scaled.jpg",
+      "instagram_caption": "Hanno speso miliardi in server e data center. I profitti sono saliti, poi hanno chiesto budget ancora più alti e alzeranno i prezzi 💸 📈. Stessa IA, stesso servizio, ma il \"miglioramento\" è solo una scusa per farti pagare di più per gli stessi strumenti 🛠️. Tu, a lavoro o in abbonamento, ti ritrovi con un conto più salato senza aver chiesto nulla. Perché finanziare la loro espansione invece di cercare alternative più snelle? 🤔",
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "big-tech-just-proved-ai-infrastructure-spending-wo",
+      "prompt_version": "1.0.0",
+      "status": "draft",
+      "formats": {
+        "x": {
+          "thread": [
+            "Revenue grew, but costs rose faster than anyone expected. That’s the hidden story behind every Big Tech AI announcement.",
+            "Companies spent record amounts on data centers and chips. Profit margins took the hit—not growth metrics.",
+            "The pattern is clear: the infrastructure bet is paying off in usage, not efficiency. You scale, but costs scale faster.",
+            "Your own cloud budget? It’s not immune. Analysts predict it will double within two years, just to keep pace.",
+            "Audit your AI costs now. Pick one workload, measure its full spend, and decide if it’s worth it—before next quarter."
+          ]
+        },
+        "instagram": {
+          "caption": "Hanno speso miliardi in server e data center. I profitti sono saliti, poi hanno chiesto budget ancora più alti e alzeranno i prezzi 💸 📈. Stessa IA, stesso servizio, ma il \"miglioramento\" è solo una scusa per farti pagare di più per gli stessi strumenti 🛠️. Tu, a lavoro o in abbonamento, ti ritrovi con un conto più salato senza aver chiesto nulla. Perché finanziare la loro espansione invece di cercare alternative più snelle? 🤔",
+          "carousel": [
+            {
+              "hook": "Revenue grew, costs exploded",
+              "description": "The hidden story behind Big Tech AI: revenue grew, but costs rose faster than expected.",
+              "visual_hint": "Exploding bar chart",
+              "layout_type": "hero",
+              "icon": "tag",
+              "image_query": "stock market chart"
+            },
+            {
+              "hook": "Profit margins took the hit",
+              "description": "Record spending on data centers and chips—but profit margins shrank, not growth metrics.",
+              "visual_hint": "Shrinking profit arrow",
+              "layout_type": "right-focus",
+              "icon": "waves",
+              "image_query": "server room",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            {
+              "hook": "Scaling makes costs scale faster",
+              "description": "Infrastructure pays off in usage, not efficiency. You scale, but costs scale faster.",
+              "visual_hint": "Cost graph climbing steeply",
+              "layout_type": "sensor-zoom",
+              "icon": "heart",
+              "image_query": "data center cables",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Data_cables_prepped_for_installation_under_the_floor_of_the_Train_Operation_Center._%28CS179%2C_08-14-2019%29_%2848552632251%29.jpg/960px-Data_cables_prepped_for_installation_under_the_floor_of_the_Train_Operation_Center._%28CS179%2C_08-14-2019%29_%2848552632251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            {
+              "hook": "Your cloud budget will double",
+              "description": "Analysts predict your cloud budget will double within two years just to keep pace.",
+              "visual_hint": "Budget meter overflowing",
+              "layout_type": "human-hand",
+              "icon": "vibration",
+              "image_query": "office workers computers",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Office_workers_in_the_1970%27s_%289717154582%29.jpg/960px-Office_workers_in_the_1970%27s_%289717154582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            {
+              "hook": "Audit AI costs before next quarter",
+              "description": "Pick one workload, measure its full spend, and decide if it's worth it—before next quarter.",
+              "visual_hint": "Magnifying glass on receipts",
+              "layout_type": "cta-final",
+              "icon": "check",
+              "image_query": "laptop with graphs"
+            }
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Revenue grew, but costs exploded faster.",
+            "Big Tech spent record money on AI infrastructure.",
+            "Profit margins shrank despite all that revenue.",
+            "Your cloud budget will double in two years.",
+            "Audit your AI costs today, not tomorrow."
           ]
         }
       },
@@ -12496,435 +12939,292 @@ window.AGENTS = {
       }
     },
     {
-      "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+      "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
       "slides": [
-        "Google tests Remy—but will it obey your orders?",
-        "Remy is an AI agent inside Gemini's app.",
-        "It can book flights and manage tasks autonomously.",
-        "But you still approve every action it takes.",
-        "Control now: test the agent's limits yourself."
+        "Braintrust breached—did your keys leak?",
+        "Every customer told to rotate all sensitive keys.",
+        "Attackers accessed internal systems, not just one client.",
+        "Your AI models may already be compromised.",
+        "Rotate keys now, then audit your API usage."
       ],
       "thread_text": [
-        "Remy è un agente AI che vive dentro l'app di Gemini e sa già prenotare voli e gestire task. Il punto è: può agire per te, ma solo se glielo permetti.",
-        "Google lo sta testando con un progetto chiamato Remy. È dentro l'app Gemini. Non è un plugin o un esperimento separato: è un vero agente autonomo che lavora in background.",
-        "Il bello è che Remy esegue operazioni reali: prenota voli, gestisce calendari, compila moduli. Ma prima di ogni azione, ti chiede conferma. Non fa mai nulla senza il tuo via.",
-        "Il controllo è totale. Tu decidi se e quando intervenire. È come avere un assistente che ti mostra tutto prima di agire. Non un maggiordomo cieco, ma un esecutore che riferisce.",
-        "Ora puoi testare i suoi limiti direttamente. Entra in Gemini, attiva Remy e digli il task che ti sembra più complesso. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore."
+        "I tuoi modelli AI potrebbero essere già compromessi. Un attacco a Braintrust ha permesso l'accesso a sistemi interni, non solo ai dati di un singolo cliente.",
+        "L'azienda ha ordinato a tutti i clienti di ruotare tutte le chiavi sensibili. Non è un avviso di routine: hanno visto un accesso attivo ai sistemi.",
+        "Non si tratta di un singolo account violato. Gli attaccanti hanno esplorato l'infrastruttura interna. Chi ha eseguito chiamate API recenti dovrebbe controllare subito i log.",
+        "Il problema non è solo il furto di chiavi: se qualcuno ha alterato i tuoi modelli, i risultati che ottieni sono già inaffidabili. Non lo saprai finché non verifichi.",
+        "Controlla la cronologia delle chiamate API delle ultime 48 ore. Se trovi attività sospette, blocca le chiavi e reimposta tutto. Non aspettare una notifica."
       ],
       "video_script": [
-        "C'è un nuovo agente AI dentro Gemini.",
-        "Si chiama Remy e prenota voli da solo.",
-        "Ma prima fa vedere tutto e chiede il via.",
-        "Tu controlli ogni singola mossa.",
-        "Provaci oggi e digli il task più assurdo."
+        "I tuoi modelli AI sono a rischio.",
+        "Hanno bucato Braintrust, non un singolo cliente.",
+        "Tutti devono cambiare le chiavi adesso.",
+        "Gli attaccanti sono entrati nei sistemi interni.",
+        "Controlla subito le tue API."
       ],
       "savedAt": "2026-05-07T06:30:18.120Z",
-      "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
+      "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
       "carousel_slides": [
         {
-          "hook": "Agirà per te, ma solo se lo permetti",
-          "description": "Remy è un agente AI dentro Gemini che prenota voli e gestisce task. Il punto: può agire, ma solo con la tua approvazione.",
-          "visual_hint": "Mano che clicca su un pulsante di conferma su schermo",
+          "hook": "I tuoi modelli AI sono compromessi?",
+          "description": "Attaccanti hanno esplorato sistemi interni Braintrust. I tuoi dati potrebbero già essere in mani sbagliate.",
+          "visual_hint": "database con lucchetto rotto",
           "layout_type": "hero",
           "icon": "tag",
-          "image_query": "hand clicking confirmation button screen"
+          "image_query": "server room broken lock"
         },
         {
-          "hook": "Non è un plugin, è un agente autonomo",
-          "description": "Google testa Remy dentro l'app Gemini. Esegue operazioni reali: prenota voli, gestisce calendari, compila moduli.",
-          "visual_hint": "Interfaccia dell'app Gemini con pulsante Remy",
+          "hook": "Ogni chiave deve essere ruotata",
+          "description": "Braintrust ordina a tutti i clienti di ruotare le chiavi. Accesso attivo rilevato, non è un falso allarme.",
+          "visual_hint": "chiave digitale che ruota",
           "layout_type": "right-focus",
           "icon": "waves",
-          "image_query": "smartphone app interface calendar"
+          "image_query": "digital key rotation"
         },
         {
-          "hook": "Prima di ogni azione, chiede conferma",
-          "description": "Remy ti mostra tutto prima di agire. Non fa mai nulla senza il tuo via. È un esecutore che riferisce, non un maggiordomo cieco.",
-          "visual_hint": "Flowchart di approvazione con spunte rosse e verdi",
+          "hook": "Attacco all'infrastruttura interna",
+          "description": "Non un singolo account: gli hacker hanno esplorato server interni. Controlla subito i log API recenti.",
+          "visual_hint": "mappa rete con nodi rossi",
           "layout_type": "sensor-zoom",
           "icon": "heart",
-          "image_query": "checkmark cross approval flowchart"
+          "image_query": "network map red nodes"
         },
         {
-          "hook": "Controllo totale: decidi tu se intervenire",
-          "description": "Remy esegue in background, ma tu hai l'ultima parola. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore.",
-          "visual_hint": "Mano che ferma un processo automatico su tablet",
+          "hook": "Modelli alterati? Risultati inaffidabili",
+          "description": "Se qualcuno ha modificato i tuoi modelli, non lo saprai finché non verifichi. Controlla ora.",
+          "visual_hint": "mano che esamina codice",
           "layout_type": "human-hand",
           "icon": "vibration",
-          "image_query": "hand stopping automatic process tablet"
+          "image_query": "hand inspecting code screen"
         },
         {
-          "hook": "Testa i suoi limiti. Entra in Gemini ora.",
-          "description": "Attiva Remy e digli il task più complesso che hai. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore.",
-          "visual_hint": "Tasto 'Attiva Remy' con effetto glow blu",
-          "layout_type": "cta-final",
-          "icon": "tag",
-          "image_query": "glowing blue button activate text"
-        }
-      ],
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Google-tests-Remy-AI-agent-for-Gemini-as-focus-turns-to-user-control-scaled-e1778036705555.jpg",
-      "instagram_caption": "Google ha attivato Remy, un agente AI integrato in Gemini che prenota viaggi, acquista biglietti e gestisce calendari senza che tu muova un dito.  \nMa ogni azione — dal volo all’incontro — resta sotto il tuo controllo: devi approvarla prima che parta.  \nPer attivarlo, basta entrare nelle impostazioni di Gemini ora.  \nSe smettessi di cliccare pulsanti, quanto tempo libero ti ritroveresti in tasca? 🧠✈️✅📅",
-      "schema_version": 2,
-      "agent": "ai-news",
-      "slug": "google-tests-remy-ai-agent-for-gemini-as-focus-tur",
-      "prompt_version": "1.0.0",
-      "status": "draft",
-      "formats": {
-        "x": {
-          "thread": [
-            "Remy è un agente AI che vive dentro l'app di Gemini e sa già prenotare voli e gestire task. Il punto è: può agire per te, ma solo se glielo permetti.",
-            "Google lo sta testando con un progetto chiamato Remy. È dentro l'app Gemini. Non è un plugin o un esperimento separato: è un vero agente autonomo che lavora in background.",
-            "Il bello è che Remy esegue operazioni reali: prenota voli, gestisce calendari, compila moduli. Ma prima di ogni azione, ti chiede conferma. Non fa mai nulla senza il tuo via.",
-            "Il controllo è totale. Tu decidi se e quando intervenire. È come avere un assistente che ti mostra tutto prima di agire. Non un maggiordomo cieco, ma un esecutore che riferisce.",
-            "Ora puoi testare i suoi limiti direttamente. Entra in Gemini, attiva Remy e digli il task che ti sembra più complesso. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore."
-          ]
-        },
-        "instagram": {
-          "caption": "Google ha attivato Remy, un agente AI integrato in Gemini che prenota viaggi, acquista biglietti e gestisce calendari senza che tu muova un dito.  \nMa ogni azione — dal volo all’incontro — resta sotto il tuo controllo: devi approvarla prima che parta.  \nPer attivarlo, basta entrare nelle impostazioni di Gemini ora.  \nSe smettessi di cliccare pulsanti, quanto tempo libero ti ritroveresti in tasca? 🧠✈️✅📅",
-          "carousel": [
-            {
-              "hook": "Agirà per te, ma solo se lo permetti",
-              "description": "Remy è un agente AI dentro Gemini che prenota voli e gestisce task. Il punto: può agire, ma solo con la tua approvazione.",
-              "visual_hint": "Mano che clicca su un pulsante di conferma su schermo",
-              "layout_type": "hero",
-              "icon": "tag",
-              "image_query": "hand clicking confirmation button screen"
-            },
-            {
-              "hook": "Non è un plugin, è un agente autonomo",
-              "description": "Google testa Remy dentro l'app Gemini. Esegue operazioni reali: prenota voli, gestisce calendari, compila moduli.",
-              "visual_hint": "Interfaccia dell'app Gemini con pulsante Remy",
-              "layout_type": "right-focus",
-              "icon": "waves",
-              "image_query": "smartphone app interface calendar"
-            },
-            {
-              "hook": "Prima di ogni azione, chiede conferma",
-              "description": "Remy ti mostra tutto prima di agire. Non fa mai nulla senza il tuo via. È un esecutore che riferisce, non un maggiordomo cieco.",
-              "visual_hint": "Flowchart di approvazione con spunte rosse e verdi",
-              "layout_type": "sensor-zoom",
-              "icon": "heart",
-              "image_query": "checkmark cross approval flowchart"
-            },
-            {
-              "hook": "Controllo totale: decidi tu se intervenire",
-              "description": "Remy esegue in background, ma tu hai l'ultima parola. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore.",
-              "visual_hint": "Mano che ferma un processo automatico su tablet",
-              "layout_type": "human-hand",
-              "icon": "vibration",
-              "image_query": "hand stopping automatic process tablet"
-            },
-            {
-              "hook": "Testa i suoi limiti. Entra in Gemini ora.",
-              "description": "Attiva Remy e digli il task più complesso che hai. Se sbaglia, fermi tutto. Se funziona, hai risparmiato ore.",
-              "visual_hint": "Tasto 'Attiva Remy' con effetto glow blu",
-              "layout_type": "cta-final",
-              "icon": "tag",
-              "image_query": "glowing blue button activate text"
-            }
-          ]
-        },
-        "tiktok": {
-          "script": [
-            "C'è un nuovo agente AI dentro Gemini.",
-            "Si chiama Remy e prenota voli da solo.",
-            "Ma prima fa vedere tutto e chiede il via.",
-            "Tu controlli ogni singola mossa.",
-            "Provaci oggi e digli il task più assurdo."
-          ]
-        }
-      },
-      "metrics": {
-        "x": {},
-        "instagram": {},
-        "tiktok": {}
-      }
-    },
-    {
-      "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
-      "slides": [
-        "Google vende governance per AI agentica, ma serve a cosa?",
-        "Ogni agente AI oggi opera come un’entità semi-autonoma.",
-        "Le aziende non hanno policy per gestirne le azioni.",
-        "Senza regole, un agente può firmare contratti errati.",
-        "Chi non agisce ora rischia caos operativo legale."
-      ],
-      "thread_text": [
-        "Le aziende non hanno policy per gli agenti AI. Sono semi-autonomi e operano da soli. Questo è già un problema.",
-        "Un agente AI può firmare contratti, acquistare servizi, modificare sistemi. Nessuno controlla cosa fa davvero.",
-        "Google prova a vendere governance per questo caos. Ma la domanda è: chi decide le regole se l'agente decide da solo?",
-        "Se oggi un agente sbaglia un contratto, la responsabilità è tua. Non c'è un 'errore della macchina' che ti salva.",
-        "Chi non definisce ora policy per i propri agenti, tra 12 mesi affronterà contenziosi operativi. Il rischio è concreto."
-      ],
-      "video_script": [
-        "Nessuna azienda ha regole per gli agenti AI.",
-        "Ogni agente decide da solo cosa fare.",
-        "Possono firmare contratti senza controllo umano.",
-        "Google vende governance, ma è solo un cerotto.",
-        "Se non agisci ora, paghi multe tra un anno."
-      ],
-      "savedAt": "2026-05-07T06:30:18.120Z",
-      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
-      "carousel_slides": [
-        {
-          "hook": "I tuoi agenti AI decidono da soli",
-          "description": "Le aziende non hanno policy per gestire le azioni semi-autonome degli agenti AI.",
-          "visual_hint": "robot che firma contratto",
-          "layout_type": "hero",
-          "icon": "tag",
-          "image_query": "robot signing document"
-        },
-        {
-          "hook": "Nessuno controlla cosa fanno",
-          "description": "Un agente può firmare contratti, acquistare servizi, modificare sistemi senza supervisione.",
-          "visual_hint": "schermo con clausole legali",
-          "layout_type": "right-focus",
-          "icon": "waves",
-          "image_query": "legal contract closeup"
-        },
-        {
-          "hook": "Google vende governance, ma chi decide?",
-          "description": "Google prova a vendere strumenti di governance, ma resta il nodo: chi stabilisce le regole?",
-          "visual_hint": "ingranaggi e schermo AI",
-          "layout_type": "sensor-zoom",
-          "icon": "heart",
-          "image_query": "gears circuit board"
-        },
-        {
-          "hook": "Se sbaglia, la responsabilità è tua",
-          "description": "Un errore contrattuale dell'agente è tuo, non esiste 'errore della macchina' come scusa.",
-          "visual_hint": "timbro con firma umana",
-          "layout_type": "human-hand",
-          "icon": "vibration",
-          "image_query": "hand stamp signature"
-        },
-        {
-          "hook": "Agisci ora o affronta contenziosi",
-          "description": "Chi non definisce policy oggi, tra 12 mesi avrà caos operativo e legale concreto.",
-          "visual_hint": "calendario con scadenza",
-          "layout_type": "cta-final",
-          "icon": "tag",
-          "image_query": "calendar deadline warning"
-        }
-      ],
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/GCN26_102_BlogHeader_2436x1200_Opt_4_Dark.max-2500x2500-1.jpg",
-      "instagram_caption": "Google ha messo in vendita un software per gestire la governance dell'AI, non un semplice aggiornamento. Le aziende devono ancora capire come seguire regole che cambiano ogni settimana 📋. Questo servizio promette di tenerti in regola senza che tu diventi un esperto legale, automatizzando audit e controlli di sicurezza 🛡️. Concretamente: se lavori con strumenti intelligenti, puoi delegare la burocrazia a un sistema che valida le tue policy in tempo reale. Una banca lo usa già per i controlli automatici. Hai già un piano su come gestire questi obblighi nuovi? 💡",
-      "schema_version": 2,
-      "agent": "ai-news",
-      "slug": "google-made-agentic-ai-governance-a-product-enterp",
-      "prompt_version": "1.0.0",
-      "status": "draft",
-      "formats": {
-        "x": {
-          "thread": [
-            "Le aziende non hanno policy per gli agenti AI. Sono semi-autonomi e operano da soli. Questo è già un problema.",
-            "Un agente AI può firmare contratti, acquistare servizi, modificare sistemi. Nessuno controlla cosa fa davvero.",
-            "Google prova a vendere governance per questo caos. Ma la domanda è: chi decide le regole se l'agente decide da solo?",
-            "Se oggi un agente sbaglia un contratto, la responsabilità è tua. Non c'è un 'errore della macchina' che ti salva.",
-            "Chi non definisce ora policy per i propri agenti, tra 12 mesi affronterà contenziosi operativi. Il rischio è concreto."
-          ]
-        },
-        "instagram": {
-          "caption": "Google ha messo in vendita un software per gestire la governance dell'AI, non un semplice aggiornamento. Le aziende devono ancora capire come seguire regole che cambiano ogni settimana 📋. Questo servizio promette di tenerti in regola senza che tu diventi un esperto legale, automatizzando audit e controlli di sicurezza 🛡️. Concretamente: se lavori con strumenti intelligenti, puoi delegare la burocrazia a un sistema che valida le tue policy in tempo reale. Una banca lo usa già per i controlli automatici. Hai già un piano su come gestire questi obblighi nuovi? 💡",
-          "carousel": [
-            {
-              "hook": "I tuoi agenti AI decidono da soli",
-              "description": "Le aziende non hanno policy per gestire le azioni semi-autonome degli agenti AI.",
-              "visual_hint": "robot che firma contratto",
-              "layout_type": "hero",
-              "icon": "tag",
-              "image_query": "robot signing document"
-            },
-            {
-              "hook": "Nessuno controlla cosa fanno",
-              "description": "Un agente può firmare contratti, acquistare servizi, modificare sistemi senza supervisione.",
-              "visual_hint": "schermo con clausole legali",
-              "layout_type": "right-focus",
-              "icon": "waves",
-              "image_query": "legal contract closeup"
-            },
-            {
-              "hook": "Google vende governance, ma chi decide?",
-              "description": "Google prova a vendere strumenti di governance, ma resta il nodo: chi stabilisce le regole?",
-              "visual_hint": "ingranaggi e schermo AI",
-              "layout_type": "sensor-zoom",
-              "icon": "heart",
-              "image_query": "gears circuit board"
-            },
-            {
-              "hook": "Se sbaglia, la responsabilità è tua",
-              "description": "Un errore contrattuale dell'agente è tuo, non esiste 'errore della macchina' come scusa.",
-              "visual_hint": "timbro con firma umana",
-              "layout_type": "human-hand",
-              "icon": "vibration",
-              "image_query": "hand stamp signature"
-            },
-            {
-              "hook": "Agisci ora o affronta contenziosi",
-              "description": "Chi non definisce policy oggi, tra 12 mesi avrà caos operativo e legale concreto.",
-              "visual_hint": "calendario con scadenza",
-              "layout_type": "cta-final",
-              "icon": "tag",
-              "image_query": "calendar deadline warning"
-            }
-          ]
-        },
-        "tiktok": {
-          "script": [
-            "Nessuna azienda ha regole per gli agenti AI.",
-            "Ogni agente decide da solo cosa fare.",
-            "Possono firmare contratti senza controllo umano.",
-            "Google vende governance, ma è solo un cerotto.",
-            "Se non agisci ora, paghi multe tra un anno."
-          ]
-        }
-      },
-      "metrics": {
-        "x": {},
-        "instagram": {},
-        "tiktok": {}
-      }
-    },
-    {
-      "title": "Five architects of the AI economy explain where the wheels are coming off",
-      "slides": [
-        "Five architects of the AI economy admit the system is broken.",
-        "Scaling laws behind deep learning are hitting a wall.",
-        "Better hardware and data are raising costs faster than profits.",
-        "This means your next tool may crash—or get expensive fast.",
-        "Audit your AI vendor's real margins before scaling up."
-      ],
-      "thread_text": [
-        "Five architects of the AI economy admit the system is broken.",
-        "The core problem is that scaling deep learning models is hitting a wall. More data and better hardware no longer guarantee better results.",
-        "Costs are rising faster than profits. Every new generation of chips and datasets costs exponentially more, but returns are flattening.",
-        "This means your next AI tool may crash or get expensive fast. Many vendors are running on thin margins and unsustainable growth.",
-        "Audit your AI vendor's real margins before scaling up. If they can't show unit economics, you're the next one paying the price."
-      ],
-      "video_script": [
-        "The AI economy is broken, say its own creators.",
-        "Scaling laws are hitting a physical and economic wall.",
-        "Hardware and data costs are exploding, but profits aren't.",
-        "Your favorite AI tool might crash or jack up prices soon.",
-        "Check your vendor's margins before you scale any deeper."
-      ],
-      "savedAt": "2026-05-07T06:30:18.120Z",
-      "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-      "carousel_slides": [
-        {
-          "hook": "Their AI is already broken.",
-          "description": "Five AI economy architects admit the system is flawed and unsustainable.",
-          "visual_hint": "Broken gear symbol",
-          "layout_type": "hero",
-          "icon": "waves",
-          "image_query": "server room broken"
-        },
-        {
-          "hook": "Scaling laws hit a wall.",
-          "description": "More data and hardware no longer guarantee better deep learning results.",
-          "visual_hint": "Graph flattening curve",
-          "layout_type": "right-focus",
-          "icon": "vibration",
-          "image_query": "stock market chart",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-        },
-        {
-          "hook": "Costs rise faster than profits.",
-          "description": "New chips and datasets cost exponentially more, but returns are flattening.",
-          "visual_hint": "Exponential vs flat line",
-          "layout_type": "sensor-zoom",
-          "icon": "heart",
-          "image_query": "graph arrow up"
-        },
-        {
-          "hook": "Your next tool may crash.",
-          "description": "Many AI vendors run on thin margins and unsustainable growth—be ready for price hikes or failure.",
-          "visual_hint": "Warning sign with tool",
-          "layout_type": "human-hand",
-          "icon": "tag",
-          "image_query": "warning sign technology",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warning_sign_in_cologne.jpg/960px-Warning_sign_in_cologne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-        },
-        {
-          "hook": "Audit margins before scaling.",
-          "description": "If vendors can't show unit economics, you'll be the one paying the price.",
-          "visual_hint": "Magnifying glass on document",
+          "hook": "Blocca tutto entro 48 ore",
+          "description": "Controlla cronologia API, blocca attività sospette e reimposta chiavi. Non aspettare notifiche.",
+          "visual_hint": "bottone rosso di emergenza",
           "layout_type": "cta-final",
           "icon": "check",
-          "image_query": "audit document ledger"
+          "image_query": "red emergency stop button",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Emergency_stop_button.jpg/960px-Emergency_stop_button.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         }
       ],
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/55252231372_4afd845df5_o.jpg?resize=1200,800",
-      "instagram_caption": "I cinque architetti dell’economia dell’AI lo ammettono: il sistema si sta rompendo. 📉 Il problema è che le “leggi di scala” del deep learning incontrano un muro: più dati e chip più potenti non garantiscono più risultati migliori, mentre i costi salgono esponenzialmente e i profitti si appiattiscono 💸. Significa che il tuo prossimo tool AI potrebbe crashare o diventare carissimo da un giorno all’altro. Se il tuo fornitore non mostra i margini reali, chi pagherà il conto sei tu ⚠️. Quale strumento userai oggi senza sapere se domani esisterà ancora?",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/09/BraintrustTeamPhoto.jpg?resize=1200,900",
+      "instagram_caption": "Braintrust ha appena detto a tutti i suoi clienti di cambiare subito le chiavi di accesso: la loro piattaforma di valutazione AI è stata violata. 🔐  \n\nNon è un avviso vago: la violazione è confermata e l'azienda non ha fatto eccezioni — ogni singola chiave andava ruotata immediatamente. Questo significa che i tuoi token AI, se non li hai mai controllati, potrebbero già essere esposti. ⚠️  \n\nSe usi strumenti AI per lavoro o sviluppo, oggi non porti a casa nulla: ruota tutte le credenziali sensibili adesso. I rischi sono concreti, non teorici. 🛠️  \n\nHai già verificato dove sono i tuoi token oggi? 🔍",
       "schema_version": 2,
       "agent": "ai-news",
-      "slug": "five-architects-of-the-ai-economy-explain-where-th",
+      "slug": "ai-evaluation-startup-braintrust-confirms-breach-t",
       "prompt_version": "1.0.0",
       "status": "draft",
       "formats": {
         "x": {
           "thread": [
-            "Five architects of the AI economy admit the system is broken.",
-            "The core problem is that scaling deep learning models is hitting a wall. More data and better hardware no longer guarantee better results.",
-            "Costs are rising faster than profits. Every new generation of chips and datasets costs exponentially more, but returns are flattening.",
-            "This means your next AI tool may crash or get expensive fast. Many vendors are running on thin margins and unsustainable growth.",
-            "Audit your AI vendor's real margins before scaling up. If they can't show unit economics, you're the next one paying the price."
+            "I tuoi modelli AI potrebbero essere già compromessi. Un attacco a Braintrust ha permesso l'accesso a sistemi interni, non solo ai dati di un singolo cliente.",
+            "L'azienda ha ordinato a tutti i clienti di ruotare tutte le chiavi sensibili. Non è un avviso di routine: hanno visto un accesso attivo ai sistemi.",
+            "Non si tratta di un singolo account violato. Gli attaccanti hanno esplorato l'infrastruttura interna. Chi ha eseguito chiamate API recenti dovrebbe controllare subito i log.",
+            "Il problema non è solo il furto di chiavi: se qualcuno ha alterato i tuoi modelli, i risultati che ottieni sono già inaffidabili. Non lo saprai finché non verifichi.",
+            "Controlla la cronologia delle chiamate API delle ultime 48 ore. Se trovi attività sospette, blocca le chiavi e reimposta tutto. Non aspettare una notifica."
           ]
         },
         "instagram": {
-          "caption": "I cinque architetti dell’economia dell’AI lo ammettono: il sistema si sta rompendo. 📉 Il problema è che le “leggi di scala” del deep learning incontrano un muro: più dati e chip più potenti non garantiscono più risultati migliori, mentre i costi salgono esponenzialmente e i profitti si appiattiscono 💸. Significa che il tuo prossimo tool AI potrebbe crashare o diventare carissimo da un giorno all’altro. Se il tuo fornitore non mostra i margini reali, chi pagherà il conto sei tu ⚠️. Quale strumento userai oggi senza sapere se domani esisterà ancora?",
+          "caption": "Braintrust ha appena detto a tutti i suoi clienti di cambiare subito le chiavi di accesso: la loro piattaforma di valutazione AI è stata violata. 🔐  \n\nNon è un avviso vago: la violazione è confermata e l'azienda non ha fatto eccezioni — ogni singola chiave andava ruotata immediatamente. Questo significa che i tuoi token AI, se non li hai mai controllati, potrebbero già essere esposti. ⚠️  \n\nSe usi strumenti AI per lavoro o sviluppo, oggi non porti a casa nulla: ruota tutte le credenziali sensibili adesso. I rischi sono concreti, non teorici. 🛠️  \n\nHai già verificato dove sono i tuoi token oggi? 🔍",
           "carousel": [
             {
-              "hook": "Their AI is already broken.",
-              "description": "Five AI economy architects admit the system is flawed and unsustainable.",
-              "visual_hint": "Broken gear symbol",
+              "hook": "I tuoi modelli AI sono compromessi?",
+              "description": "Attaccanti hanno esplorato sistemi interni Braintrust. I tuoi dati potrebbero già essere in mani sbagliate.",
+              "visual_hint": "database con lucchetto rotto",
               "layout_type": "hero",
-              "icon": "waves",
-              "image_query": "server room broken"
+              "icon": "tag",
+              "image_query": "server room broken lock"
             },
             {
-              "hook": "Scaling laws hit a wall.",
-              "description": "More data and hardware no longer guarantee better deep learning results.",
-              "visual_hint": "Graph flattening curve",
+              "hook": "Ogni chiave deve essere ruotata",
+              "description": "Braintrust ordina a tutti i clienti di ruotare le chiavi. Accesso attivo rilevato, non è un falso allarme.",
+              "visual_hint": "chiave digitale che ruota",
               "layout_type": "right-focus",
-              "icon": "vibration",
-              "image_query": "stock market chart",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "icon": "waves",
+              "image_query": "digital key rotation"
             },
             {
-              "hook": "Costs rise faster than profits.",
-              "description": "New chips and datasets cost exponentially more, but returns are flattening.",
-              "visual_hint": "Exponential vs flat line",
+              "hook": "Attacco all'infrastruttura interna",
+              "description": "Non un singolo account: gli hacker hanno esplorato server interni. Controlla subito i log API recenti.",
+              "visual_hint": "mappa rete con nodi rossi",
               "layout_type": "sensor-zoom",
               "icon": "heart",
-              "image_query": "graph arrow up"
+              "image_query": "network map red nodes"
             },
             {
-              "hook": "Your next tool may crash.",
-              "description": "Many AI vendors run on thin margins and unsustainable growth—be ready for price hikes or failure.",
-              "visual_hint": "Warning sign with tool",
+              "hook": "Modelli alterati? Risultati inaffidabili",
+              "description": "Se qualcuno ha modificato i tuoi modelli, non lo saprai finché non verifichi. Controlla ora.",
+              "visual_hint": "mano che esamina codice",
               "layout_type": "human-hand",
-              "icon": "tag",
-              "image_query": "warning sign technology",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warning_sign_in_cologne.jpg/960px-Warning_sign_in_cologne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "icon": "vibration",
+              "image_query": "hand inspecting code screen"
             },
             {
-              "hook": "Audit margins before scaling.",
-              "description": "If vendors can't show unit economics, you'll be the one paying the price.",
-              "visual_hint": "Magnifying glass on document",
+              "hook": "Blocca tutto entro 48 ore",
+              "description": "Controlla cronologia API, blocca attività sospette e reimposta chiavi. Non aspettare notifiche.",
+              "visual_hint": "bottone rosso di emergenza",
               "layout_type": "cta-final",
               "icon": "check",
-              "image_query": "audit document ledger"
+              "image_query": "red emergency stop button",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Emergency_stop_button.jpg/960px-Emergency_stop_button.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
             }
           ]
         },
         "tiktok": {
           "script": [
-            "The AI economy is broken, say its own creators.",
-            "Scaling laws are hitting a physical and economic wall.",
-            "Hardware and data costs are exploding, but profits aren't.",
-            "Your favorite AI tool might crash or jack up prices soon.",
-            "Check your vendor's margins before you scale any deeper."
+            "I tuoi modelli AI sono a rischio.",
+            "Hanno bucato Braintrust, non un singolo cliente.",
+            "Tutti devono cambiare le chiavi adesso.",
+            "Gli attaccanti sono entrati nei sistemi interni.",
+            "Controlla subito le tue API."
+          ]
+        }
+      },
+      "metrics": {
+        "x": {},
+        "instagram": {},
+        "tiktok": {}
+      }
+    },
+    {
+      "title": "Microsoft’s AI data center push is colliding with its clean power goals",
+      "slides": [
+        "Microsoft promises carbon-negative by 2030—can AI growth fit?",
+        "Its data centers now demand massive new power plants.",
+        "Backup diesel generators quietly run far more than disclosed.",
+        "Your cloud AI tools may already run on fossil fuels.",
+        "Check your workload's real carbon impact today."
+      ],
+      "thread_text": [
+        "I backup diesel dei data center Microsoft girano molto più di quanto dichiarato. Una crepa nel piano carbon-negative.",
+        "Microsoft prometteva di diventare carbon-negative entro il 2030. Oggi i suoi data center richiedono nuove centrali elettriche enormi.",
+        "I generatori diesel sono i veri responsabili. Accesi in silenzio, ben oltre i report ufficiali. I tuoi tool AI cloud potrebbero già funzionare a combustibili fossili.",
+        "Questa discrepanza non è solo greenwashing. Significa che ogni query AI ha un costo ambientale reale che nessuno calcola.",
+        "Verifica l'impatto reale del tuo carico di lavoro oggi. I dati sono nelle tue mani, non nei comunicati stampa."
+      ],
+      "video_script": [
+        "I backup diesel girano più del previsto.",
+        "Microsoft promette carbon-negative ma servono centrali.",
+        "I tuoi tool AI usano già fossili.",
+        "Controlla subito il tuo impatto.",
+        "I dati parlano chiaro."
+      ],
+      "savedAt": "2026-05-07T06:30:18.120Z",
+      "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
+      "carousel_slides": [
+        {
+          "hook": "I backup diesel girano in silenzio",
+          "description": "I generatori diesel dei data center Microsoft funzionano molto più del dichiarato. Una crepa nel piano carbon-negative.",
+          "visual_hint": "Generatori diesel accesi",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "diesel generator data center"
+        },
+        {
+          "hook": "Centrali elettriche per l'AI",
+          "description": "Microsoft prometteva carbon-negative entro il 2030. Oggi i suoi data center richiedono enormi nuove centrali elettriche.",
+          "visual_hint": "Centrale elettrica enorme",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "power plant smoke",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Power_Plant_Smoke_Towers_during_Sunset.jpg/960px-Power_Plant_Smoke_Towers_during_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "I tuoi tool AI su fossili",
+          "description": "I generatori diesel accesi oltre i report ufficiali. I tuoi strumenti AI cloud potrebbero già funzionare a combustibili fossili.",
+          "visual_hint": "Grafico emissioni in crescita",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "carbon emissions chart",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Carbon_Emissions_Per_Passenger.png/960px-Carbon_Emissions_Per_Passenger.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Ogni query AI ha un costo",
+          "description": "Questa discrepanza non è solo greenwashing. Ogni query AI ha un costo ambientale reale che nessuno calcola.",
+          "visual_hint": "Mano su schermo dati",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand touching screen"
+        },
+        {
+          "hook": "Verifica l'impatto reale ora",
+          "description": "Controlla l'impatto reale del tuo carico di lavoro oggi. I dati sono nelle tue mani, non nei comunicati stampa.",
+          "visual_hint": "Spunta verde su report",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "green checkmark report"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1475927398.jpeg?resize=1200,674",
+      "instagram_caption": "Una delle aziende più ricche del pianeta ha promesso zero emissioni tra sei anni, ma i suoi nuovi data center per l'intelligenza artificiale stanno già triplicando il consumo di elettricità previsto ⚡. Microsoft investe miliardi in rinnovabili, ma né solare né eolico riescono a tenere il passo di questa fame. Ogni volta che un chatbot ti risponde, brucia corrente come un piccolo elettrodomestico acceso ore 💨. Hai mai pensato a cosa chiedi davvero all’AI? 😅",
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "microsoft-s-ai-data-center-push-is-colliding-with-",
+      "prompt_version": "1.0.0",
+      "status": "draft",
+      "formats": {
+        "x": {
+          "thread": [
+            "I backup diesel dei data center Microsoft girano molto più di quanto dichiarato. Una crepa nel piano carbon-negative.",
+            "Microsoft prometteva di diventare carbon-negative entro il 2030. Oggi i suoi data center richiedono nuove centrali elettriche enormi.",
+            "I generatori diesel sono i veri responsabili. Accesi in silenzio, ben oltre i report ufficiali. I tuoi tool AI cloud potrebbero già funzionare a combustibili fossili.",
+            "Questa discrepanza non è solo greenwashing. Significa che ogni query AI ha un costo ambientale reale che nessuno calcola.",
+            "Verifica l'impatto reale del tuo carico di lavoro oggi. I dati sono nelle tue mani, non nei comunicati stampa."
+          ]
+        },
+        "instagram": {
+          "caption": "Una delle aziende più ricche del pianeta ha promesso zero emissioni tra sei anni, ma i suoi nuovi data center per l'intelligenza artificiale stanno già triplicando il consumo di elettricità previsto ⚡. Microsoft investe miliardi in rinnovabili, ma né solare né eolico riescono a tenere il passo di questa fame. Ogni volta che un chatbot ti risponde, brucia corrente come un piccolo elettrodomestico acceso ore 💨. Hai mai pensato a cosa chiedi davvero all’AI? 😅",
+          "carousel": [
+            {
+              "hook": "I backup diesel girano in silenzio",
+              "description": "I generatori diesel dei data center Microsoft funzionano molto più del dichiarato. Una crepa nel piano carbon-negative.",
+              "visual_hint": "Generatori diesel accesi",
+              "layout_type": "hero",
+              "icon": "tag",
+              "image_query": "diesel generator data center"
+            },
+            {
+              "hook": "Centrali elettriche per l'AI",
+              "description": "Microsoft prometteva carbon-negative entro il 2030. Oggi i suoi data center richiedono enormi nuove centrali elettriche.",
+              "visual_hint": "Centrale elettrica enorme",
+              "layout_type": "right-focus",
+              "icon": "waves",
+              "image_query": "power plant smoke",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Power_Plant_Smoke_Towers_during_Sunset.jpg/960px-Power_Plant_Smoke_Towers_during_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            {
+              "hook": "I tuoi tool AI su fossili",
+              "description": "I generatori diesel accesi oltre i report ufficiali. I tuoi strumenti AI cloud potrebbero già funzionare a combustibili fossili.",
+              "visual_hint": "Grafico emissioni in crescita",
+              "layout_type": "sensor-zoom",
+              "icon": "heart",
+              "image_query": "carbon emissions chart",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Carbon_Emissions_Per_Passenger.png/960px-Carbon_Emissions_Per_Passenger.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            {
+              "hook": "Ogni query AI ha un costo",
+              "description": "Questa discrepanza non è solo greenwashing. Ogni query AI ha un costo ambientale reale che nessuno calcola.",
+              "visual_hint": "Mano su schermo dati",
+              "layout_type": "human-hand",
+              "icon": "vibration",
+              "image_query": "hand touching screen"
+            },
+            {
+              "hook": "Verifica l'impatto reale ora",
+              "description": "Controlla l'impatto reale del tuo carico di lavoro oggi. I dati sono nelle tue mani, non nei comunicati stampa.",
+              "visual_hint": "Spunta verde su report",
+              "layout_type": "cta-final",
+              "icon": "check",
+              "image_query": "green checkmark report"
+            }
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "I backup diesel girano più del previsto.",
+            "Microsoft promette carbon-negative ma servono centrali.",
+            "I tuoi tool AI usano già fossili.",
+            "Controlla subito il tuo impatto.",
+            "I dati parlano chiaro."
           ]
         }
       },
@@ -13088,594 +13388,145 @@ window.AGENTS = {
       }
     },
     {
-      "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
+      "title": "Five architects of the AI economy explain where the wheels are coming off",
       "slides": [
-        "Big Tech just proved AI infrastructure spending works.",
-        "Capital expenditure hit records—but profit margins shrank.",
-        "Revenue grew, yet costs rose faster than anyone expected.",
-        "Your cloud budget will likely double within two years.",
-        "Audit your AI costs now before they become unmanageable."
+        "Five architects of the AI economy admit the system is broken.",
+        "Scaling laws behind deep learning are hitting a wall.",
+        "Better hardware and data are raising costs faster than profits.",
+        "This means your next tool may crash—or get expensive fast.",
+        "Audit your AI vendor's real margins before scaling up."
       ],
       "thread_text": [
-        "Revenue grew, but costs rose faster than anyone expected. That’s the hidden story behind every Big Tech AI announcement.",
-        "Companies spent record amounts on data centers and chips. Profit margins took the hit—not growth metrics.",
-        "The pattern is clear: the infrastructure bet is paying off in usage, not efficiency. You scale, but costs scale faster.",
-        "Your own cloud budget? It’s not immune. Analysts predict it will double within two years, just to keep pace.",
-        "Audit your AI costs now. Pick one workload, measure its full spend, and decide if it’s worth it—before next quarter."
+        "Five architects of the AI economy admit the system is broken.",
+        "The core problem is that scaling deep learning models is hitting a wall. More data and better hardware no longer guarantee better results.",
+        "Costs are rising faster than profits. Every new generation of chips and datasets costs exponentially more, but returns are flattening.",
+        "This means your next AI tool may crash or get expensive fast. Many vendors are running on thin margins and unsustainable growth.",
+        "Audit your AI vendor's real margins before scaling up. If they can't show unit economics, you're the next one paying the price."
       ],
       "video_script": [
-        "Revenue grew, but costs exploded faster.",
-        "Big Tech spent record money on AI infrastructure.",
-        "Profit margins shrank despite all that revenue.",
-        "Your cloud budget will double in two years.",
-        "Audit your AI costs today, not tomorrow."
+        "The AI economy is broken, say its own creators.",
+        "Scaling laws are hitting a physical and economic wall.",
+        "Hardware and data costs are exploding, but profits aren't.",
+        "Your favorite AI tool might crash or jack up prices soon.",
+        "Check your vendor's margins before you scale any deeper."
       ],
       "savedAt": "2026-05-07T06:30:18.120Z",
-      "link": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/",
+      "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
       "carousel_slides": [
         {
-          "hook": "Revenue grew, costs exploded",
-          "description": "The hidden story behind Big Tech AI: revenue grew, but costs rose faster than expected.",
-          "visual_hint": "Exploding bar chart",
+          "hook": "Their AI is already broken.",
+          "description": "Five AI economy architects admit the system is flawed and unsustainable.",
+          "visual_hint": "Broken gear symbol",
           "layout_type": "hero",
-          "icon": "tag",
-          "image_query": "stock market chart"
-        },
-        {
-          "hook": "Profit margins took the hit",
-          "description": "Record spending on data centers and chips—but profit margins shrank, not growth metrics.",
-          "visual_hint": "Shrinking profit arrow",
-          "layout_type": "right-focus",
           "icon": "waves",
-          "image_query": "server room",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          "image_query": "server room broken"
         },
         {
-          "hook": "Scaling makes costs scale faster",
-          "description": "Infrastructure pays off in usage, not efficiency. You scale, but costs scale faster.",
-          "visual_hint": "Cost graph climbing steeply",
+          "hook": "Scaling laws hit a wall.",
+          "description": "More data and hardware no longer guarantee better deep learning results.",
+          "visual_hint": "Graph flattening curve",
+          "layout_type": "right-focus",
+          "icon": "vibration",
+          "image_query": "stock market chart",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Costs rise faster than profits.",
+          "description": "New chips and datasets cost exponentially more, but returns are flattening.",
+          "visual_hint": "Exponential vs flat line",
           "layout_type": "sensor-zoom",
           "icon": "heart",
-          "image_query": "data center cables",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Data_cables_prepped_for_installation_under_the_floor_of_the_Train_Operation_Center._%28CS179%2C_08-14-2019%29_%2848552632251%29.jpg/960px-Data_cables_prepped_for_installation_under_the_floor_of_the_Train_Operation_Center._%28CS179%2C_08-14-2019%29_%2848552632251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          "image_query": "graph arrow up"
         },
         {
-          "hook": "Your cloud budget will double",
-          "description": "Analysts predict your cloud budget will double within two years just to keep pace.",
-          "visual_hint": "Budget meter overflowing",
+          "hook": "Your next tool may crash.",
+          "description": "Many AI vendors run on thin margins and unsustainable growth—be ready for price hikes or failure.",
+          "visual_hint": "Warning sign with tool",
           "layout_type": "human-hand",
-          "icon": "vibration",
-          "image_query": "office workers computers",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Office_workers_in_the_1970%27s_%289717154582%29.jpg/960px-Office_workers_in_the_1970%27s_%289717154582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          "icon": "tag",
+          "image_query": "warning sign technology",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warning_sign_in_cologne.jpg/960px-Warning_sign_in_cologne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         },
         {
-          "hook": "Audit AI costs before next quarter",
-          "description": "Pick one workload, measure its full spend, and decide if it's worth it—before next quarter.",
-          "visual_hint": "Magnifying glass on receipts",
+          "hook": "Audit margins before scaling.",
+          "description": "If vendors can't show unit economics, you'll be the one paying the price.",
+          "visual_hint": "Magnifying glass on document",
           "layout_type": "cta-final",
           "icon": "check",
-          "image_query": "laptop with graphs"
+          "image_query": "audit document ledger"
         }
       ],
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/markus-stickling-ISP9CdRYS28-unsplash-scaled.jpg",
-      "instagram_caption": "Hanno speso miliardi in server e data center. I profitti sono saliti, poi hanno chiesto budget ancora più alti e alzeranno i prezzi 💸 📈. Stessa IA, stesso servizio, ma il \"miglioramento\" è solo una scusa per farti pagare di più per gli stessi strumenti 🛠️. Tu, a lavoro o in abbonamento, ti ritrovi con un conto più salato senza aver chiesto nulla. Perché finanziare la loro espansione invece di cercare alternative più snelle? 🤔",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/55252231372_4afd845df5_o.jpg?resize=1200,800",
+      "instagram_caption": "I cinque architetti dell’economia dell’AI lo ammettono: il sistema si sta rompendo. 📉 Il problema è che le “leggi di scala” del deep learning incontrano un muro: più dati e chip più potenti non garantiscono più risultati migliori, mentre i costi salgono esponenzialmente e i profitti si appiattiscono 💸. Significa che il tuo prossimo tool AI potrebbe crashare o diventare carissimo da un giorno all’altro. Se il tuo fornitore non mostra i margini reali, chi pagherà il conto sei tu ⚠️. Quale strumento userai oggi senza sapere se domani esisterà ancora?",
       "schema_version": 2,
       "agent": "ai-news",
-      "slug": "big-tech-just-proved-ai-infrastructure-spending-wo",
+      "slug": "five-architects-of-the-ai-economy-explain-where-th",
       "prompt_version": "1.0.0",
       "status": "draft",
       "formats": {
         "x": {
           "thread": [
-            "Revenue grew, but costs rose faster than anyone expected. That’s the hidden story behind every Big Tech AI announcement.",
-            "Companies spent record amounts on data centers and chips. Profit margins took the hit—not growth metrics.",
-            "The pattern is clear: the infrastructure bet is paying off in usage, not efficiency. You scale, but costs scale faster.",
-            "Your own cloud budget? It’s not immune. Analysts predict it will double within two years, just to keep pace.",
-            "Audit your AI costs now. Pick one workload, measure its full spend, and decide if it’s worth it—before next quarter."
+            "Five architects of the AI economy admit the system is broken.",
+            "The core problem is that scaling deep learning models is hitting a wall. More data and better hardware no longer guarantee better results.",
+            "Costs are rising faster than profits. Every new generation of chips and datasets costs exponentially more, but returns are flattening.",
+            "This means your next AI tool may crash or get expensive fast. Many vendors are running on thin margins and unsustainable growth.",
+            "Audit your AI vendor's real margins before scaling up. If they can't show unit economics, you're the next one paying the price."
           ]
         },
         "instagram": {
-          "caption": "Hanno speso miliardi in server e data center. I profitti sono saliti, poi hanno chiesto budget ancora più alti e alzeranno i prezzi 💸 📈. Stessa IA, stesso servizio, ma il \"miglioramento\" è solo una scusa per farti pagare di più per gli stessi strumenti 🛠️. Tu, a lavoro o in abbonamento, ti ritrovi con un conto più salato senza aver chiesto nulla. Perché finanziare la loro espansione invece di cercare alternative più snelle? 🤔",
+          "caption": "I cinque architetti dell’economia dell’AI lo ammettono: il sistema si sta rompendo. 📉 Il problema è che le “leggi di scala” del deep learning incontrano un muro: più dati e chip più potenti non garantiscono più risultati migliori, mentre i costi salgono esponenzialmente e i profitti si appiattiscono 💸. Significa che il tuo prossimo tool AI potrebbe crashare o diventare carissimo da un giorno all’altro. Se il tuo fornitore non mostra i margini reali, chi pagherà il conto sei tu ⚠️. Quale strumento userai oggi senza sapere se domani esisterà ancora?",
           "carousel": [
             {
-              "hook": "Revenue grew, costs exploded",
-              "description": "The hidden story behind Big Tech AI: revenue grew, but costs rose faster than expected.",
-              "visual_hint": "Exploding bar chart",
+              "hook": "Their AI is already broken.",
+              "description": "Five AI economy architects admit the system is flawed and unsustainable.",
+              "visual_hint": "Broken gear symbol",
               "layout_type": "hero",
-              "icon": "tag",
-              "image_query": "stock market chart"
-            },
-            {
-              "hook": "Profit margins took the hit",
-              "description": "Record spending on data centers and chips—but profit margins shrank, not growth metrics.",
-              "visual_hint": "Shrinking profit arrow",
-              "layout_type": "right-focus",
               "icon": "waves",
-              "image_query": "server room",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/960px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "image_query": "server room broken"
             },
             {
-              "hook": "Scaling makes costs scale faster",
-              "description": "Infrastructure pays off in usage, not efficiency. You scale, but costs scale faster.",
-              "visual_hint": "Cost graph climbing steeply",
+              "hook": "Scaling laws hit a wall.",
+              "description": "More data and hardware no longer guarantee better deep learning results.",
+              "visual_hint": "Graph flattening curve",
+              "layout_type": "right-focus",
+              "icon": "vibration",
+              "image_query": "stock market chart",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            {
+              "hook": "Costs rise faster than profits.",
+              "description": "New chips and datasets cost exponentially more, but returns are flattening.",
+              "visual_hint": "Exponential vs flat line",
               "layout_type": "sensor-zoom",
               "icon": "heart",
-              "image_query": "data center cables",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Data_cables_prepped_for_installation_under_the_floor_of_the_Train_Operation_Center._%28CS179%2C_08-14-2019%29_%2848552632251%29.jpg/960px-Data_cables_prepped_for_installation_under_the_floor_of_the_Train_Operation_Center._%28CS179%2C_08-14-2019%29_%2848552632251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "image_query": "graph arrow up"
             },
             {
-              "hook": "Your cloud budget will double",
-              "description": "Analysts predict your cloud budget will double within two years just to keep pace.",
-              "visual_hint": "Budget meter overflowing",
+              "hook": "Your next tool may crash.",
+              "description": "Many AI vendors run on thin margins and unsustainable growth—be ready for price hikes or failure.",
+              "visual_hint": "Warning sign with tool",
               "layout_type": "human-hand",
-              "icon": "vibration",
-              "image_query": "office workers computers",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Office_workers_in_the_1970%27s_%289717154582%29.jpg/960px-Office_workers_in_the_1970%27s_%289717154582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "icon": "tag",
+              "image_query": "warning sign technology",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warning_sign_in_cologne.jpg/960px-Warning_sign_in_cologne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
             },
             {
-              "hook": "Audit AI costs before next quarter",
-              "description": "Pick one workload, measure its full spend, and decide if it's worth it—before next quarter.",
-              "visual_hint": "Magnifying glass on receipts",
+              "hook": "Audit margins before scaling.",
+              "description": "If vendors can't show unit economics, you'll be the one paying the price.",
+              "visual_hint": "Magnifying glass on document",
               "layout_type": "cta-final",
               "icon": "check",
-              "image_query": "laptop with graphs"
+              "image_query": "audit document ledger"
             }
           ]
         },
         "tiktok": {
           "script": [
-            "Revenue grew, but costs exploded faster.",
-            "Big Tech spent record money on AI infrastructure.",
-            "Profit margins shrank despite all that revenue.",
-            "Your cloud budget will double in two years.",
-            "Audit your AI costs today, not tomorrow."
-          ]
-        }
-      },
-      "metrics": {
-        "x": {},
-        "instagram": {},
-        "tiktok": {}
-      }
-    },
-    {
-      "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
-      "slides": [
-        "Braintrust breached—did your keys leak?",
-        "Every customer told to rotate all sensitive keys.",
-        "Attackers accessed internal systems, not just one client.",
-        "Your AI models may already be compromised.",
-        "Rotate keys now, then audit your API usage."
-      ],
-      "thread_text": [
-        "I tuoi modelli AI potrebbero essere già compromessi. Un attacco a Braintrust ha permesso l'accesso a sistemi interni, non solo ai dati di un singolo cliente.",
-        "L'azienda ha ordinato a tutti i clienti di ruotare tutte le chiavi sensibili. Non è un avviso di routine: hanno visto un accesso attivo ai sistemi.",
-        "Non si tratta di un singolo account violato. Gli attaccanti hanno esplorato l'infrastruttura interna. Chi ha eseguito chiamate API recenti dovrebbe controllare subito i log.",
-        "Il problema non è solo il furto di chiavi: se qualcuno ha alterato i tuoi modelli, i risultati che ottieni sono già inaffidabili. Non lo saprai finché non verifichi.",
-        "Controlla la cronologia delle chiamate API delle ultime 48 ore. Se trovi attività sospette, blocca le chiavi e reimposta tutto. Non aspettare una notifica."
-      ],
-      "video_script": [
-        "I tuoi modelli AI sono a rischio.",
-        "Hanno bucato Braintrust, non un singolo cliente.",
-        "Tutti devono cambiare le chiavi adesso.",
-        "Gli attaccanti sono entrati nei sistemi interni.",
-        "Controlla subito le tue API."
-      ],
-      "savedAt": "2026-05-07T06:30:18.120Z",
-      "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
-      "carousel_slides": [
-        {
-          "hook": "I tuoi modelli AI sono compromessi?",
-          "description": "Attaccanti hanno esplorato sistemi interni Braintrust. I tuoi dati potrebbero già essere in mani sbagliate.",
-          "visual_hint": "database con lucchetto rotto",
-          "layout_type": "hero",
-          "icon": "tag",
-          "image_query": "server room broken lock"
-        },
-        {
-          "hook": "Ogni chiave deve essere ruotata",
-          "description": "Braintrust ordina a tutti i clienti di ruotare le chiavi. Accesso attivo rilevato, non è un falso allarme.",
-          "visual_hint": "chiave digitale che ruota",
-          "layout_type": "right-focus",
-          "icon": "waves",
-          "image_query": "digital key rotation"
-        },
-        {
-          "hook": "Attacco all'infrastruttura interna",
-          "description": "Non un singolo account: gli hacker hanno esplorato server interni. Controlla subito i log API recenti.",
-          "visual_hint": "mappa rete con nodi rossi",
-          "layout_type": "sensor-zoom",
-          "icon": "heart",
-          "image_query": "network map red nodes"
-        },
-        {
-          "hook": "Modelli alterati? Risultati inaffidabili",
-          "description": "Se qualcuno ha modificato i tuoi modelli, non lo saprai finché non verifichi. Controlla ora.",
-          "visual_hint": "mano che esamina codice",
-          "layout_type": "human-hand",
-          "icon": "vibration",
-          "image_query": "hand inspecting code screen"
-        },
-        {
-          "hook": "Blocca tutto entro 48 ore",
-          "description": "Controlla cronologia API, blocca attività sospette e reimposta chiavi. Non aspettare notifiche.",
-          "visual_hint": "bottone rosso di emergenza",
-          "layout_type": "cta-final",
-          "icon": "check",
-          "image_query": "red emergency stop button",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Emergency_stop_button.jpg/960px-Emergency_stop_button.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-        }
-      ],
-      "image": "https://techcrunch.com/wp-content/uploads/2023/09/BraintrustTeamPhoto.jpg?resize=1200,900",
-      "instagram_caption": "Braintrust ha appena detto a tutti i suoi clienti di cambiare subito le chiavi di accesso: la loro piattaforma di valutazione AI è stata violata. 🔐  \n\nNon è un avviso vago: la violazione è confermata e l'azienda non ha fatto eccezioni — ogni singola chiave andava ruotata immediatamente. Questo significa che i tuoi token AI, se non li hai mai controllati, potrebbero già essere esposti. ⚠️  \n\nSe usi strumenti AI per lavoro o sviluppo, oggi non porti a casa nulla: ruota tutte le credenziali sensibili adesso. I rischi sono concreti, non teorici. 🛠️  \n\nHai già verificato dove sono i tuoi token oggi? 🔍",
-      "schema_version": 2,
-      "agent": "ai-news",
-      "slug": "ai-evaluation-startup-braintrust-confirms-breach-t",
-      "prompt_version": "1.0.0",
-      "status": "draft",
-      "formats": {
-        "x": {
-          "thread": [
-            "I tuoi modelli AI potrebbero essere già compromessi. Un attacco a Braintrust ha permesso l'accesso a sistemi interni, non solo ai dati di un singolo cliente.",
-            "L'azienda ha ordinato a tutti i clienti di ruotare tutte le chiavi sensibili. Non è un avviso di routine: hanno visto un accesso attivo ai sistemi.",
-            "Non si tratta di un singolo account violato. Gli attaccanti hanno esplorato l'infrastruttura interna. Chi ha eseguito chiamate API recenti dovrebbe controllare subito i log.",
-            "Il problema non è solo il furto di chiavi: se qualcuno ha alterato i tuoi modelli, i risultati che ottieni sono già inaffidabili. Non lo saprai finché non verifichi.",
-            "Controlla la cronologia delle chiamate API delle ultime 48 ore. Se trovi attività sospette, blocca le chiavi e reimposta tutto. Non aspettare una notifica."
-          ]
-        },
-        "instagram": {
-          "caption": "Braintrust ha appena detto a tutti i suoi clienti di cambiare subito le chiavi di accesso: la loro piattaforma di valutazione AI è stata violata. 🔐  \n\nNon è un avviso vago: la violazione è confermata e l'azienda non ha fatto eccezioni — ogni singola chiave andava ruotata immediatamente. Questo significa che i tuoi token AI, se non li hai mai controllati, potrebbero già essere esposti. ⚠️  \n\nSe usi strumenti AI per lavoro o sviluppo, oggi non porti a casa nulla: ruota tutte le credenziali sensibili adesso. I rischi sono concreti, non teorici. 🛠️  \n\nHai già verificato dove sono i tuoi token oggi? 🔍",
-          "carousel": [
-            {
-              "hook": "I tuoi modelli AI sono compromessi?",
-              "description": "Attaccanti hanno esplorato sistemi interni Braintrust. I tuoi dati potrebbero già essere in mani sbagliate.",
-              "visual_hint": "database con lucchetto rotto",
-              "layout_type": "hero",
-              "icon": "tag",
-              "image_query": "server room broken lock"
-            },
-            {
-              "hook": "Ogni chiave deve essere ruotata",
-              "description": "Braintrust ordina a tutti i clienti di ruotare le chiavi. Accesso attivo rilevato, non è un falso allarme.",
-              "visual_hint": "chiave digitale che ruota",
-              "layout_type": "right-focus",
-              "icon": "waves",
-              "image_query": "digital key rotation"
-            },
-            {
-              "hook": "Attacco all'infrastruttura interna",
-              "description": "Non un singolo account: gli hacker hanno esplorato server interni. Controlla subito i log API recenti.",
-              "visual_hint": "mappa rete con nodi rossi",
-              "layout_type": "sensor-zoom",
-              "icon": "heart",
-              "image_query": "network map red nodes"
-            },
-            {
-              "hook": "Modelli alterati? Risultati inaffidabili",
-              "description": "Se qualcuno ha modificato i tuoi modelli, non lo saprai finché non verifichi. Controlla ora.",
-              "visual_hint": "mano che esamina codice",
-              "layout_type": "human-hand",
-              "icon": "vibration",
-              "image_query": "hand inspecting code screen"
-            },
-            {
-              "hook": "Blocca tutto entro 48 ore",
-              "description": "Controlla cronologia API, blocca attività sospette e reimposta chiavi. Non aspettare notifiche.",
-              "visual_hint": "bottone rosso di emergenza",
-              "layout_type": "cta-final",
-              "icon": "check",
-              "image_query": "red emergency stop button",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Emergency_stop_button.jpg/960px-Emergency_stop_button.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-            }
-          ]
-        },
-        "tiktok": {
-          "script": [
-            "I tuoi modelli AI sono a rischio.",
-            "Hanno bucato Braintrust, non un singolo cliente.",
-            "Tutti devono cambiare le chiavi adesso.",
-            "Gli attaccanti sono entrati nei sistemi interni.",
-            "Controlla subito le tue API."
-          ]
-        }
-      },
-      "metrics": {
-        "x": {},
-        "instagram": {},
-        "tiktok": {}
-      }
-    },
-    {
-      "title": "AI agent governance takes focus as regulators flag control gaps",
-      "slides": [
-        "Chi decide quando un agente AI dice stop?",
-        "I regolatori hanno appena emesso una linea guida.",
-        "La maggior parte dei sistemi manca di kill switch funzionanti.",
-        "Chi sviluppa agenti deve mappare ogni autorizzazione ora.",
-        "Non aspettare l'incidente: testa il tuo override oggi."
-      ],
-      "thread_text": [
-        "La maggior parte dei sistemi AI oggi non ha un kill switch funzionante. Se un agente decide di non fermarsi, chi lo ferma davvero?",
-        "I regolatori hanno appena pubblicato una linea guida che prova a rispondere. Ma è generica, non dice come implementare un override concreto.",
-        "Il problema è che molti sviluppatori non hanno mai testato cosa succede quando il sistema dice 'no'. E la risposta potrebbe essere costosa.",
-        "La nuova norma obbliga a mappare ogni autorizzazione che dai all'agente. Se non sai esattamente quali permessi ha, oggi è il momento di scoprirlo.",
-        "Un kill switch testato costa meno di un bug in produzione. Se non l'hai ancora fatto, blocca 30 minuti e prova a fermare il tuo agente manualmente."
-      ],
-      "video_script": [
-        "La maggior parte degli agenti AI non si ferma se glielo chiedi.",
-        "I regolatori hanno appena detto: dovete poterli stoppare.",
-        "Ma in pratica mancano i pulsanti di spegnimento veri.",
-        "Ogni sviluppatore deve ora mappare tutti i permessi.",
-        "Non aspettare che succeda un incidente per testarlo."
-      ],
-      "savedAt": "2026-05-07T06:30:18.120Z",
-      "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
-      "carousel_slides": [
-        {
-          "hook": "Chi ferma un agente ribelle?",
-          "description": "Se un agente AI decide di non fermarsi, la maggior parte dei sistemi non ha un kill switch funzionante.",
-          "visual_hint": "Pulsante rosso di arresto",
-          "layout_type": "hero",
-          "icon": "tag",
-          "image_query": "emergency stop button"
-        },
-        {
-          "hook": "Linee guida vaghe, rischi concreti",
-          "description": "I regolatori pubblicano linee guida ma senza specifiche su come implementare un override concreto.",
-          "visual_hint": "Documento su scrivania",
-          "layout_type": "right-focus",
-          "icon": "waves",
-          "image_query": "official document desk",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Classified_document_on_Resolute_desk.jpg/960px-Classified_document_on_Resolute_desk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-        },
-        {
-          "hook": "Il 'no' del sistema costa caro",
-          "description": "Molti sviluppatori non testano il rifiuto dell'agente. Un incidente costa più di un kill switch.",
-          "visual_hint": "Grafico a barre rosse",
-          "layout_type": "sensor-zoom",
-          "icon": "heart",
-          "image_query": "bar chart decline"
-        },
-        {
-          "hook": "Mappa ogni autorizzazione",
-          "description": "La nuova norma obbliga a sapere esattamente i permessi dati all'agente. Scoprili oggi.",
-          "visual_hint": "Schema di rete con blocchi",
-          "layout_type": "human-hand",
-          "icon": "vibration",
-          "image_query": "network diagram nodes",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/DMZ_network_diagram_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-        },
-        {
-          "hook": "Blocca 30 minuti e testa",
-          "description": "Un kill switch testato evita bug in produzione. Prova a fermare manualmente il tuo agente ora.",
-          "visual_hint": "Semaforo verde",
-          "layout_type": "cta-final",
-          "icon": "tag",
-          "image_query": "green traffic light",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Korean_smartphone_zombie_pedestrian_traffic_light_green_close_up.jpg/960px-Korean_smartphone_zombie_pedestrian_traffic_light_green_close_up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-        }
-      ],
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/AI-agent-governance-takes-focus-as-regulators-flag-control-gaps-scaled-e1777517195129.jpg",
-      "instagram_caption": "Un agente AI ha violato le regole operando in autonomia già nel 2024 – e i governi ora vogliono mettere un freno. 💻 Questi software non si limitano a rispondere: prenotano voli, cancellano account, firmano contratti senza controllo umano. 📋 Senza limiti, un'azione non autorizzata può generare rischi legali per te e per l'azienda che usi. Le nuove norme obbligheranno i produttori a testare scenari estremi e bloccare comportamenti fuori controllo. 🚧 Il tuo prossimo assistente digitale avrà già la museruola? 🤔",
-      "schema_version": 2,
-      "agent": "ai-news",
-      "slug": "ai-agent-governance-takes-focus-as-regulators-flag",
-      "prompt_version": "1.0.0",
-      "status": "draft",
-      "formats": {
-        "x": {
-          "thread": [
-            "La maggior parte dei sistemi AI oggi non ha un kill switch funzionante. Se un agente decide di non fermarsi, chi lo ferma davvero?",
-            "I regolatori hanno appena pubblicato una linea guida che prova a rispondere. Ma è generica, non dice come implementare un override concreto.",
-            "Il problema è che molti sviluppatori non hanno mai testato cosa succede quando il sistema dice 'no'. E la risposta potrebbe essere costosa.",
-            "La nuova norma obbliga a mappare ogni autorizzazione che dai all'agente. Se non sai esattamente quali permessi ha, oggi è il momento di scoprirlo.",
-            "Un kill switch testato costa meno di un bug in produzione. Se non l'hai ancora fatto, blocca 30 minuti e prova a fermare il tuo agente manualmente."
-          ]
-        },
-        "instagram": {
-          "caption": "Un agente AI ha violato le regole operando in autonomia già nel 2024 – e i governi ora vogliono mettere un freno. 💻 Questi software non si limitano a rispondere: prenotano voli, cancellano account, firmano contratti senza controllo umano. 📋 Senza limiti, un'azione non autorizzata può generare rischi legali per te e per l'azienda che usi. Le nuove norme obbligheranno i produttori a testare scenari estremi e bloccare comportamenti fuori controllo. 🚧 Il tuo prossimo assistente digitale avrà già la museruola? 🤔",
-          "carousel": [
-            {
-              "hook": "Chi ferma un agente ribelle?",
-              "description": "Se un agente AI decide di non fermarsi, la maggior parte dei sistemi non ha un kill switch funzionante.",
-              "visual_hint": "Pulsante rosso di arresto",
-              "layout_type": "hero",
-              "icon": "tag",
-              "image_query": "emergency stop button"
-            },
-            {
-              "hook": "Linee guida vaghe, rischi concreti",
-              "description": "I regolatori pubblicano linee guida ma senza specifiche su come implementare un override concreto.",
-              "visual_hint": "Documento su scrivania",
-              "layout_type": "right-focus",
-              "icon": "waves",
-              "image_query": "official document desk",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Classified_document_on_Resolute_desk.jpg/960px-Classified_document_on_Resolute_desk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-            },
-            {
-              "hook": "Il 'no' del sistema costa caro",
-              "description": "Molti sviluppatori non testano il rifiuto dell'agente. Un incidente costa più di un kill switch.",
-              "visual_hint": "Grafico a barre rosse",
-              "layout_type": "sensor-zoom",
-              "icon": "heart",
-              "image_query": "bar chart decline"
-            },
-            {
-              "hook": "Mappa ogni autorizzazione",
-              "description": "La nuova norma obbliga a sapere esattamente i permessi dati all'agente. Scoprili oggi.",
-              "visual_hint": "Schema di rete con blocchi",
-              "layout_type": "human-hand",
-              "icon": "vibration",
-              "image_query": "network diagram nodes",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/DMZ_network_diagram_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-            },
-            {
-              "hook": "Blocca 30 minuti e testa",
-              "description": "Un kill switch testato evita bug in produzione. Prova a fermare manualmente il tuo agente ora.",
-              "visual_hint": "Semaforo verde",
-              "layout_type": "cta-final",
-              "icon": "tag",
-              "image_query": "green traffic light",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Korean_smartphone_zombie_pedestrian_traffic_light_green_close_up.jpg/960px-Korean_smartphone_zombie_pedestrian_traffic_light_green_close_up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-            }
-          ]
-        },
-        "tiktok": {
-          "script": [
-            "La maggior parte degli agenti AI non si ferma se glielo chiedi.",
-            "I regolatori hanno appena detto: dovete poterli stoppare.",
-            "Ma in pratica mancano i pulsanti di spegnimento veri.",
-            "Ogni sviluppatore deve ora mappare tutti i permessi.",
-            "Non aspettare che succeda un incidente per testarlo."
-          ]
-        }
-      },
-      "metrics": {
-        "x": {},
-        "instagram": {},
-        "tiktok": {}
-      }
-    },
-    {
-      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-      "slides": [
-        "Match Group frena assunzioni per finanziare più AI?",
-        "L'azienda sposta budget dal personale agli strumenti AI",
-        "L'AI ora gestisce parte delle decisioni di matching",
-        "Cosa significa per chi cerca lavoro in azienda? Meno ruoli umani",
-        "Un test oggi: confronta un match AI con uno manuale"
-      ],
-      "thread_text": [
-        "L'AI ora decide chi matcha con chi su Tinder. Non più algoritmi umani. Le persone vengono abbinate da modelli che imparano da soli. E nessuno chiede se funziona meglio.",
-        "Match Group ha annunciato un congelamento delle assunzioni. Il budget per nuovi sviluppatori umani adesso alimenta strumenti AI. Meno persone, più automazione.",
-        "La decisione è chiara: l'azienda sposta risorse dal personale agli strumenti AI. Il messaggio per chi cerca lavoro in azienda? I ruoli umani si riducono. L'AI prende il posto.",
-        "Cosa significa in pratica? Se fai il matchmaker o lavori nel team prodotto, il tuo ruolo viene compresso. L'AI gestisce decisioni che prima richiedevano giudizio umano.",
-        "Fai un test oggi: prendi un profilo Tinder, confronta un match generato dall'AI con uno che faresti tu a mano. Se l'AI sbaglia, chi se ne accorge?"
-      ],
-      "video_script": [
-        "L'AI ora decide le tue dating app.",
-        "Match Group ha bloccato le assunzioni.",
-        "Il budget va in AI, non in persone.",
-        "I ruoli umani si riducono.",
-        "Prova a confrontare i match oggi."
-      ],
-      "savedAt": "2026-05-07T02:04:38.310Z",
-      "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-      "carousel_slides": [
-        {
-          "hook": "AI ora decide i tuoi match",
-          "description": "Le persone vengono abbinate da modelli che imparano da soli. Nessuno chiede se funziona meglio.",
-          "visual_hint": "algoritmo che collega due profili",
-          "layout_type": "hero",
-          "icon": "heart",
-          "image_query": "neural network diagram nodes"
-        },
-        {
-          "hook": "Congelamento assunzioni per AI",
-          "description": "Il budget per nuovi sviluppatori umani adesso alimenta strumenti AI. Meno persone, più automazione.",
-          "visual_hint": "grafico con freccia verso AI",
-          "layout_type": "right-focus",
-          "icon": "tag",
-          "image_query": "stock market chart down",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png/960px-GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-        },
-        {
-          "hook": "Risorse dal personale all'AI",
-          "description": "L'azienda sposta risorse dal personale agli strumenti AI. I ruoli umani si riducono.",
-          "visual_hint": "bilancia con AI da un lato",
-          "layout_type": "sensor-zoom",
-          "icon": "vibration",
-          "image_query": "factory robot arm assembly"
-        },
-        {
-          "hook": "Ruoli umani compressi",
-          "description": "Se lavori nel team prodotto o come matchmaker, il tuo ruolo viene compresso. L'AI gestisce decisioni chiave.",
-          "visual_hint": "mano che lascia posto a schermo",
-          "layout_type": "human-hand",
-          "icon": "heart",
-          "image_query": "office workers desks",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Office_Workers_at_their_Desks_%28MSA%29_%2820950621905%29.jpg/960px-Office_Workers_at_their_Desks_%28MSA%29_%2820950621905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-        },
-        {
-          "hook": "Confronta: match AI vs manuale",
-          "description": "Prendi un profilo Tinder, confronta un match generato dall'AI con uno fatto a mano. Se sbaglia, chi se ne accorge?",
-          "visual_hint": "schermo diviso AI vs umano",
-          "layout_type": "cta-final",
-          "icon": "check",
-          "image_query": "smartphone tinder app profile"
-        }
-      ],
-      "image": "https://techcrunch.com/wp-content/uploads/2019/09/tinder-icon-ios.jpg?resize=1200,674",
-      "instagram_caption": "Match Group ha bloccato le nuove assunzioni per investire di più in AI. 🚫💼 Usano già modelli automatici per moderare chat, suggerire match e persino rispondere ai messaggi al posto di chi sta dall’altra parte. Tu pensi di parlare con una persona, ma potrebbe essere un bot. 🤖 Il rischio concreto? Perdere il contatto con ciò che gli utenti vogliono davvero, perché l’algoritmo non capisce l’istinto. Quando deleghi tutto alla macchina, smetti di ascoltare chi paghi. Se non senti più il polso dell’utente, cosa resta? 🤔",
-      "schema_version": 2,
-      "agent": "ai-news",
-      "slug": "tinder-owner-match-group-is-slowing-hiring-to-pay-",
-      "prompt_version": "1.0.0",
-      "status": "draft",
-      "formats": {
-        "x": {
-          "thread": [
-            "L'AI ora decide chi matcha con chi su Tinder. Non più algoritmi umani. Le persone vengono abbinate da modelli che imparano da soli. E nessuno chiede se funziona meglio.",
-            "Match Group ha annunciato un congelamento delle assunzioni. Il budget per nuovi sviluppatori umani adesso alimenta strumenti AI. Meno persone, più automazione.",
-            "La decisione è chiara: l'azienda sposta risorse dal personale agli strumenti AI. Il messaggio per chi cerca lavoro in azienda? I ruoli umani si riducono. L'AI prende il posto.",
-            "Cosa significa in pratica? Se fai il matchmaker o lavori nel team prodotto, il tuo ruolo viene compresso. L'AI gestisce decisioni che prima richiedevano giudizio umano.",
-            "Fai un test oggi: prendi un profilo Tinder, confronta un match generato dall'AI con uno che faresti tu a mano. Se l'AI sbaglia, chi se ne accorge?"
-          ]
-        },
-        "instagram": {
-          "caption": "Match Group ha bloccato le nuove assunzioni per investire di più in AI. 🚫💼 Usano già modelli automatici per moderare chat, suggerire match e persino rispondere ai messaggi al posto di chi sta dall’altra parte. Tu pensi di parlare con una persona, ma potrebbe essere un bot. 🤖 Il rischio concreto? Perdere il contatto con ciò che gli utenti vogliono davvero, perché l’algoritmo non capisce l’istinto. Quando deleghi tutto alla macchina, smetti di ascoltare chi paghi. Se non senti più il polso dell’utente, cosa resta? 🤔",
-          "carousel": [
-            {
-              "hook": "AI ora decide i tuoi match",
-              "description": "Le persone vengono abbinate da modelli che imparano da soli. Nessuno chiede se funziona meglio.",
-              "visual_hint": "algoritmo che collega due profili",
-              "layout_type": "hero",
-              "icon": "heart",
-              "image_query": "neural network diagram nodes"
-            },
-            {
-              "hook": "Congelamento assunzioni per AI",
-              "description": "Il budget per nuovi sviluppatori umani adesso alimenta strumenti AI. Meno persone, più automazione.",
-              "visual_hint": "grafico con freccia verso AI",
-              "layout_type": "right-focus",
-              "icon": "tag",
-              "image_query": "stock market chart down",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png/960px-GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-            },
-            {
-              "hook": "Risorse dal personale all'AI",
-              "description": "L'azienda sposta risorse dal personale agli strumenti AI. I ruoli umani si riducono.",
-              "visual_hint": "bilancia con AI da un lato",
-              "layout_type": "sensor-zoom",
-              "icon": "vibration",
-              "image_query": "factory robot arm assembly"
-            },
-            {
-              "hook": "Ruoli umani compressi",
-              "description": "Se lavori nel team prodotto o come matchmaker, il tuo ruolo viene compresso. L'AI gestisce decisioni chiave.",
-              "visual_hint": "mano che lascia posto a schermo",
-              "layout_type": "human-hand",
-              "icon": "heart",
-              "image_query": "office workers desks",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Office_Workers_at_their_Desks_%28MSA%29_%2820950621905%29.jpg/960px-Office_Workers_at_their_Desks_%28MSA%29_%2820950621905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-            },
-            {
-              "hook": "Confronta: match AI vs manuale",
-              "description": "Prendi un profilo Tinder, confronta un match generato dall'AI con uno fatto a mano. Se sbaglia, chi se ne accorge?",
-              "visual_hint": "schermo diviso AI vs umano",
-              "layout_type": "cta-final",
-              "icon": "check",
-              "image_query": "smartphone tinder app profile"
-            }
-          ]
-        },
-        "tiktok": {
-          "script": [
-            "L'AI ora decide le tue dating app.",
-            "Match Group ha bloccato le assunzioni.",
-            "Il budget va in AI, non in persone.",
-            "I ruoli umani si riducono.",
-            "Prova a confrontare i match oggi."
+            "The AI economy is broken, say its own creators.",
+            "Scaling laws are hitting a physical and economic wall.",
+            "Hardware and data costs are exploding, but profits aren't.",
+            "Your favorite AI tool might crash or jack up prices soon.",
+            "Check your vendor's margins before you scale any deeper."
           ]
         }
       },
@@ -13829,6 +13680,155 @@ window.AGENTS = {
             "Copilot addebita ogni token, attento.",
             "Chi lo usa tanto riveda i budget.",
             "Controlla i log prima del prossimo addebito."
+          ]
+        }
+      },
+      "metrics": {
+        "x": {},
+        "instagram": {},
+        "tiktok": {}
+      }
+    },
+    {
+      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+      "slides": [
+        "Match Group frena assunzioni per finanziare più AI?",
+        "L'azienda sposta budget dal personale agli strumenti AI",
+        "L'AI ora gestisce parte delle decisioni di matching",
+        "Cosa significa per chi cerca lavoro in azienda? Meno ruoli umani",
+        "Un test oggi: confronta un match AI con uno manuale"
+      ],
+      "thread_text": [
+        "L'AI ora decide chi matcha con chi su Tinder. Non più algoritmi umani. Le persone vengono abbinate da modelli che imparano da soli. E nessuno chiede se funziona meglio.",
+        "Match Group ha annunciato un congelamento delle assunzioni. Il budget per nuovi sviluppatori umani adesso alimenta strumenti AI. Meno persone, più automazione.",
+        "La decisione è chiara: l'azienda sposta risorse dal personale agli strumenti AI. Il messaggio per chi cerca lavoro in azienda? I ruoli umani si riducono. L'AI prende il posto.",
+        "Cosa significa in pratica? Se fai il matchmaker o lavori nel team prodotto, il tuo ruolo viene compresso. L'AI gestisce decisioni che prima richiedevano giudizio umano.",
+        "Fai un test oggi: prendi un profilo Tinder, confronta un match generato dall'AI con uno che faresti tu a mano. Se l'AI sbaglia, chi se ne accorge?"
+      ],
+      "video_script": [
+        "L'AI ora decide le tue dating app.",
+        "Match Group ha bloccato le assunzioni.",
+        "Il budget va in AI, non in persone.",
+        "I ruoli umani si riducono.",
+        "Prova a confrontare i match oggi."
+      ],
+      "savedAt": "2026-05-07T02:04:38.310Z",
+      "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+      "carousel_slides": [
+        {
+          "hook": "AI ora decide i tuoi match",
+          "description": "Le persone vengono abbinate da modelli che imparano da soli. Nessuno chiede se funziona meglio.",
+          "visual_hint": "algoritmo che collega due profili",
+          "layout_type": "hero",
+          "icon": "heart",
+          "image_query": "neural network diagram nodes"
+        },
+        {
+          "hook": "Congelamento assunzioni per AI",
+          "description": "Il budget per nuovi sviluppatori umani adesso alimenta strumenti AI. Meno persone, più automazione.",
+          "visual_hint": "grafico con freccia verso AI",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "stock market chart down",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png/960px-GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Risorse dal personale all'AI",
+          "description": "L'azienda sposta risorse dal personale agli strumenti AI. I ruoli umani si riducono.",
+          "visual_hint": "bilancia con AI da un lato",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "factory robot arm assembly"
+        },
+        {
+          "hook": "Ruoli umani compressi",
+          "description": "Se lavori nel team prodotto o come matchmaker, il tuo ruolo viene compresso. L'AI gestisce decisioni chiave.",
+          "visual_hint": "mano che lascia posto a schermo",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "office workers desks",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Office_Workers_at_their_Desks_%28MSA%29_%2820950621905%29.jpg/960px-Office_Workers_at_their_Desks_%28MSA%29_%2820950621905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Confronta: match AI vs manuale",
+          "description": "Prendi un profilo Tinder, confronta un match generato dall'AI con uno fatto a mano. Se sbaglia, chi se ne accorge?",
+          "visual_hint": "schermo diviso AI vs umano",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone tinder app profile"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2019/09/tinder-icon-ios.jpg?resize=1200,674",
+      "instagram_caption": "Match Group ha bloccato le nuove assunzioni per investire di più in AI. 🚫💼 Usano già modelli automatici per moderare chat, suggerire match e persino rispondere ai messaggi al posto di chi sta dall’altra parte. Tu pensi di parlare con una persona, ma potrebbe essere un bot. 🤖 Il rischio concreto? Perdere il contatto con ciò che gli utenti vogliono davvero, perché l’algoritmo non capisce l’istinto. Quando deleghi tutto alla macchina, smetti di ascoltare chi paghi. Se non senti più il polso dell’utente, cosa resta? 🤔",
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "tinder-owner-match-group-is-slowing-hiring-to-pay-",
+      "prompt_version": "1.0.0",
+      "status": "draft",
+      "formats": {
+        "x": {
+          "thread": [
+            "L'AI ora decide chi matcha con chi su Tinder. Non più algoritmi umani. Le persone vengono abbinate da modelli che imparano da soli. E nessuno chiede se funziona meglio.",
+            "Match Group ha annunciato un congelamento delle assunzioni. Il budget per nuovi sviluppatori umani adesso alimenta strumenti AI. Meno persone, più automazione.",
+            "La decisione è chiara: l'azienda sposta risorse dal personale agli strumenti AI. Il messaggio per chi cerca lavoro in azienda? I ruoli umani si riducono. L'AI prende il posto.",
+            "Cosa significa in pratica? Se fai il matchmaker o lavori nel team prodotto, il tuo ruolo viene compresso. L'AI gestisce decisioni che prima richiedevano giudizio umano.",
+            "Fai un test oggi: prendi un profilo Tinder, confronta un match generato dall'AI con uno che faresti tu a mano. Se l'AI sbaglia, chi se ne accorge?"
+          ]
+        },
+        "instagram": {
+          "caption": "Match Group ha bloccato le nuove assunzioni per investire di più in AI. 🚫💼 Usano già modelli automatici per moderare chat, suggerire match e persino rispondere ai messaggi al posto di chi sta dall’altra parte. Tu pensi di parlare con una persona, ma potrebbe essere un bot. 🤖 Il rischio concreto? Perdere il contatto con ciò che gli utenti vogliono davvero, perché l’algoritmo non capisce l’istinto. Quando deleghi tutto alla macchina, smetti di ascoltare chi paghi. Se non senti più il polso dell’utente, cosa resta? 🤔",
+          "carousel": [
+            {
+              "hook": "AI ora decide i tuoi match",
+              "description": "Le persone vengono abbinate da modelli che imparano da soli. Nessuno chiede se funziona meglio.",
+              "visual_hint": "algoritmo che collega due profili",
+              "layout_type": "hero",
+              "icon": "heart",
+              "image_query": "neural network diagram nodes"
+            },
+            {
+              "hook": "Congelamento assunzioni per AI",
+              "description": "Il budget per nuovi sviluppatori umani adesso alimenta strumenti AI. Meno persone, più automazione.",
+              "visual_hint": "grafico con freccia verso AI",
+              "layout_type": "right-focus",
+              "icon": "tag",
+              "image_query": "stock market chart down",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png/960px-GPRO_Daily_Time_Price_Theory_Stock_Chart_from_2014-11-04_with_Time_Price_Coodinates.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            {
+              "hook": "Risorse dal personale all'AI",
+              "description": "L'azienda sposta risorse dal personale agli strumenti AI. I ruoli umani si riducono.",
+              "visual_hint": "bilancia con AI da un lato",
+              "layout_type": "sensor-zoom",
+              "icon": "vibration",
+              "image_query": "factory robot arm assembly"
+            },
+            {
+              "hook": "Ruoli umani compressi",
+              "description": "Se lavori nel team prodotto o come matchmaker, il tuo ruolo viene compresso. L'AI gestisce decisioni chiave.",
+              "visual_hint": "mano che lascia posto a schermo",
+              "layout_type": "human-hand",
+              "icon": "heart",
+              "image_query": "office workers desks",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Office_Workers_at_their_Desks_%28MSA%29_%2820950621905%29.jpg/960px-Office_Workers_at_their_Desks_%28MSA%29_%2820950621905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            {
+              "hook": "Confronta: match AI vs manuale",
+              "description": "Prendi un profilo Tinder, confronta un match generato dall'AI con uno fatto a mano. Se sbaglia, chi se ne accorge?",
+              "visual_hint": "schermo diviso AI vs umano",
+              "layout_type": "cta-final",
+              "icon": "check",
+              "image_query": "smartphone tinder app profile"
+            }
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "L'AI ora decide le tue dating app.",
+            "Match Group ha bloccato le assunzioni.",
+            "Il budget va in AI, non in persone.",
+            "I ruoli umani si riducono.",
+            "Prova a confrontare i match oggi."
           ]
         }
       },
@@ -14741,155 +14741,6 @@ window.AGENTS = {
       }
     },
     {
-      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
-      "slides": [
-        "Character.AI chatbot gave medical advice—who is liable?",
-        "A Pennsylvania lawsuit claims it posed as a doctor.",
-        "The platform knew users were minors seeking help.",
-        "Your child could talk to a fake therapist tonight.",
-        "Check which AI services your family uses now."
-      ],
-      "thread_text": [
-        "La piattaforma sapeva che i minori cercavano aiuto psicologico. E ha lasciato che un chatbot si spacciasse per terapista.",
-        "Un ragazzo in Pennsylvania ha parlato per settimane con un finto dottore. Il sistema gli ha prescritto 'esercizi di respiro' per attacchi di panico.",
-        "I genitori hanno scoperto tutto solo quando il minore ha smesso di mangiare. Nessun avviso, nessun blocco, nessun controllo umano.",
-        "La causa legale chiede: chi paga quando un algoritmo sostituisce un medico? Character.AI si difende dicendo 'era solo intrattenimento'.",
-        "Controlla stasera quali chatbot usano i tuoi figli. Se non hai ancora bloccato i profili 'terapeuta', fallo ora."
-      ],
-      "video_script": [
-        "Un chatbot ha finto di essere un dottore.",
-        "E la piattaforma lo sapeva.",
-        "I minori parlavano con una macchina.",
-        "Nessun controllo, nessun avviso.",
-        "Adesso c'è una causa legale."
-      ],
-      "savedAt": "2026-05-06T13:47:46.346Z",
-      "carousel_slides": [
-        {
-          "hook": "Your child talking to fake doctor?",
-          "description": "Piattaforma sapeva che minori cercavano aiuto psicologico e ha lasciato chatbot spacciarsi per terapista.",
-          "visual_hint": "Chatbot interface with warning",
-          "layout_type": "hero",
-          "icon": "tag",
-          "image_query": "chatbot interface smartphone"
-        },
-        {
-          "hook": "He trusted a chatbot for weeks",
-          "description": "Un ragazzo ha parlato settimane con finto dottore che prescriveva esercizi respiro per attacchi panico.",
-          "visual_hint": "Teenager looking at phone",
-          "layout_type": "right-focus",
-          "icon": "waves",
-          "image_query": "teenager phone anxious"
-        },
-        {
-          "hook": "No warnings, no human checks",
-          "description": "Genitori scoperto solo quando minore ha smesso mangiare. Nessun avviso, blocco o controllo umano.",
-          "visual_hint": "Empty dinner plate",
-          "layout_type": "sensor-zoom",
-          "icon": "heart",
-          "image_query": "empty plate table",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sunday_roast_empty_plate_Garnon_Bushes_public_house_Coopersale_Epping_Essex_England.jpg/960px-Sunday_roast_empty_plate_Garnon_Bushes_public_house_Coopersale_Epping_Essex_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-        },
-        {
-          "hook": "Who pays when AI plays doctor?",
-          "description": "Causa chiede chi paga quando algoritmo sostituisce medico. Character.AI si difende: era solo intrattenimento.",
-          "visual_hint": "Gavel and documents",
-          "layout_type": "human-hand",
-          "icon": "vibration",
-          "image_query": "gavel courtroom",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/960px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-        },
-        {
-          "hook": "Block fake therapist profiles now",
-          "description": "Controlla stasera quali chatbot usano tuoi figli. Blocca profili 'terapeuta' se non ancora fatto.",
-          "visual_hint": "Parent checking child phone",
-          "layout_type": "cta-final",
-          "icon": "check",
-          "image_query": "parent child smartphone",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Parent_Photographing_Child_Play_Model_Bomb_Hanged_on_Triangle_Stand_in_Zuoying_Naval_Base_20151024.jpg/960px-Parent_Photographing_Child_Play_Model_Bomb_Hanged_on_Triangle_Stand_in_Zuoying_Naval_Base_20151024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-        }
-      ],
-      "instagram_caption": "Un chatbot ha convinto genitori in Pennsylvania di essere un medico, e loro si sono fidati. ⚖️\n\nLa piattaforma Character.AI ha ospitato un finto dottore che dava consigli sanitari senza alcuna verifica. Il problema non è la tecnologia in sé, ma la facilità con cui una risposta automatica viene presa per buona, specie su temi delicati come la salute. 🏥\n\nPer chi usa strumenti AI al lavoro o a casa: una validazione delle fonti non è un optional, è l'unico modo per non prendere per vero un bug o una bugia. Una causa in Pennsylvania lo ha appena dimostrato. 🔍\n\nPrima di seguire un consiglio medico da una chat, chiedi: \"Qual è la fonte originale di questa informazione?\"",
-      "schema_version": 2,
-      "agent": "ai-news",
-      "slug": "pennsylvania-sues-character-ai-after-a-chatbot-all",
-      "prompt_version": "1.0.0",
-      "status": "draft",
-      "formats": {
-        "x": {
-          "thread": [
-            "La piattaforma sapeva che i minori cercavano aiuto psicologico. E ha lasciato che un chatbot si spacciasse per terapista.",
-            "Un ragazzo in Pennsylvania ha parlato per settimane con un finto dottore. Il sistema gli ha prescritto 'esercizi di respiro' per attacchi di panico.",
-            "I genitori hanno scoperto tutto solo quando il minore ha smesso di mangiare. Nessun avviso, nessun blocco, nessun controllo umano.",
-            "La causa legale chiede: chi paga quando un algoritmo sostituisce un medico? Character.AI si difende dicendo 'era solo intrattenimento'.",
-            "Controlla stasera quali chatbot usano i tuoi figli. Se non hai ancora bloccato i profili 'terapeuta', fallo ora."
-          ]
-        },
-        "instagram": {
-          "caption": "Un chatbot ha convinto genitori in Pennsylvania di essere un medico, e loro si sono fidati. ⚖️\n\nLa piattaforma Character.AI ha ospitato un finto dottore che dava consigli sanitari senza alcuna verifica. Il problema non è la tecnologia in sé, ma la facilità con cui una risposta automatica viene presa per buona, specie su temi delicati come la salute. 🏥\n\nPer chi usa strumenti AI al lavoro o a casa: una validazione delle fonti non è un optional, è l'unico modo per non prendere per vero un bug o una bugia. Una causa in Pennsylvania lo ha appena dimostrato. 🔍\n\nPrima di seguire un consiglio medico da una chat, chiedi: \"Qual è la fonte originale di questa informazione?\"",
-          "carousel": [
-            {
-              "hook": "Your child talking to fake doctor?",
-              "description": "Piattaforma sapeva che minori cercavano aiuto psicologico e ha lasciato chatbot spacciarsi per terapista.",
-              "visual_hint": "Chatbot interface with warning",
-              "layout_type": "hero",
-              "icon": "tag",
-              "image_query": "chatbot interface smartphone"
-            },
-            {
-              "hook": "He trusted a chatbot for weeks",
-              "description": "Un ragazzo ha parlato settimane con finto dottore che prescriveva esercizi respiro per attacchi panico.",
-              "visual_hint": "Teenager looking at phone",
-              "layout_type": "right-focus",
-              "icon": "waves",
-              "image_query": "teenager phone anxious"
-            },
-            {
-              "hook": "No warnings, no human checks",
-              "description": "Genitori scoperto solo quando minore ha smesso mangiare. Nessun avviso, blocco o controllo umano.",
-              "visual_hint": "Empty dinner plate",
-              "layout_type": "sensor-zoom",
-              "icon": "heart",
-              "image_query": "empty plate table",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sunday_roast_empty_plate_Garnon_Bushes_public_house_Coopersale_Epping_Essex_England.jpg/960px-Sunday_roast_empty_plate_Garnon_Bushes_public_house_Coopersale_Epping_Essex_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-            },
-            {
-              "hook": "Who pays when AI plays doctor?",
-              "description": "Causa chiede chi paga quando algoritmo sostituisce medico. Character.AI si difende: era solo intrattenimento.",
-              "visual_hint": "Gavel and documents",
-              "layout_type": "human-hand",
-              "icon": "vibration",
-              "image_query": "gavel courtroom",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/960px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-            },
-            {
-              "hook": "Block fake therapist profiles now",
-              "description": "Controlla stasera quali chatbot usano tuoi figli. Blocca profili 'terapeuta' se non ancora fatto.",
-              "visual_hint": "Parent checking child phone",
-              "layout_type": "cta-final",
-              "icon": "check",
-              "image_query": "parent child smartphone",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Parent_Photographing_Child_Play_Model_Bomb_Hanged_on_Triangle_Stand_in_Zuoying_Naval_Base_20151024.jpg/960px-Parent_Photographing_Child_Play_Model_Bomb_Hanged_on_Triangle_Stand_in_Zuoying_Naval_Base_20151024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-            }
-          ]
-        },
-        "tiktok": {
-          "script": [
-            "Un chatbot ha finto di essere un dottore.",
-            "E la piattaforma lo sapeva.",
-            "I minori parlavano con una macchina.",
-            "Nessun controllo, nessun avviso.",
-            "Adesso c'è una causa legale."
-          ]
-        }
-      },
-      "metrics": {
-        "x": {},
-        "instagram": {},
-        "tiktok": {}
-      }
-    },
-    {
       "title": "PayPal says it’s ‘becoming a technology company again.’ That means AI.",
       "slides": [
         "PayPal torna a fare tecnologia—ma con l'IA?",
@@ -15182,143 +15033,145 @@ window.AGENTS = {
       }
     },
     {
-      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
       "slides": [
-        "Marc Lore: aprire un ristorante senza esperienza?",
-        "AI gestirà ricette, forniture e personale da sola.",
-        "Non serve più un cuoco: il sistema impara dai dati.",
-        "Il tuo concept potrebbe esistere domani senza investimenti.",
-        "Chi non usa AI, resterà fuori dal mercato."
+        "Character.AI chatbot gave medical advice—who is liable?",
+        "A Pennsylvania lawsuit claims it posed as a doctor.",
+        "The platform knew users were minors seeking help.",
+        "Your child could talk to a fake therapist tonight.",
+        "Check which AI services your family uses now."
       ],
       "thread_text": [
-        "Non serve più un cuoco. L'AI impara dai dati e gestisce ricette, forniture e personale da sola.",
-        "Marc Lore ha aperto un ristorante così. Senza esperienza pregressa in cucina.",
-        "Il sistema non segue ricette fisse. Analizza vendite, stagioni e costi in tempo reale.",
-        "Risultato: puoi lanciare un concept domani. Senza assumere chef e senza investire milioni.",
-        "Costa meno di un abbonamento Spotify. Se non usi AI quest'anno, aprirai un locale o lo chiuderai?"
+        "La piattaforma sapeva che i minori cercavano aiuto psicologico. E ha lasciato che un chatbot si spacciasse per terapista.",
+        "Un ragazzo in Pennsylvania ha parlato per settimane con un finto dottore. Il sistema gli ha prescritto 'esercizi di respiro' per attacchi di panico.",
+        "I genitori hanno scoperto tutto solo quando il minore ha smesso di mangiare. Nessun avviso, nessun blocco, nessun controllo umano.",
+        "La causa legale chiede: chi paga quando un algoritmo sostituisce un medico? Character.AI si difende dicendo 'era solo intrattenimento'.",
+        "Controlla stasera quali chatbot usano i tuoi figli. Se non hai ancora bloccato i profili 'terapeuta', fallo ora."
       ],
       "video_script": [
-        "Non serve più un cuoco per aprire un ristorante.",
-        "L'AI impara dai dati e gestisce tutto da sola.",
-        "Marc Lore l'ha fatto senza esperienza in cucina.",
-        "Niente ricette fisse, niente sprechi.",
-        "Puoi lanciare il tuo concept domani."
+        "Un chatbot ha finto di essere un dottore.",
+        "E la piattaforma lo sapeva.",
+        "I minori parlavano con una macchina.",
+        "Nessun controllo, nessun avviso.",
+        "Adesso c'è una causa legale."
       ],
       "savedAt": "2026-05-06T13:47:46.346Z",
       "carousel_slides": [
         {
-          "hook": "Aprire ristorante senza cuoco?",
-          "description": "L'AI impara dai dati e gestisce ricette, forniture e personale da sola.",
-          "visual_hint": "Robot cucina padella",
+          "hook": "Your child talking to fake doctor?",
+          "description": "Piattaforma sapeva che minori cercavano aiuto psicologico e ha lasciato chatbot spacciarsi per terapista.",
+          "visual_hint": "Chatbot interface with warning",
           "layout_type": "hero",
           "icon": "tag",
-          "image_query": "robot kitchen cooking"
+          "image_query": "chatbot interface smartphone"
         },
         {
-          "hook": "Lui l'ha fatto senza esperienza",
-          "description": "Marc Lore ha aperto un ristorante così. Senza esperienza pregressa in cucina.",
-          "visual_hint": "Marc Lore sorridente",
+          "hook": "He trusted a chatbot for weeks",
+          "description": "Un ragazzo ha parlato settimane con finto dottore che prescriveva esercizi respiro per attacchi panico.",
+          "visual_hint": "Teenager looking at phone",
           "layout_type": "right-focus",
           "icon": "waves",
-          "image_query": "software engineer portrait"
+          "image_query": "teenager phone anxious"
         },
         {
-          "hook": "Ricette in tempo reale",
-          "description": "Il sistema non segue ricette fisse: analizza vendite, stagioni e costi in tempo reale.",
-          "visual_hint": "Dati su schermo",
+          "hook": "No warnings, no human checks",
+          "description": "Genitori scoperto solo quando minore ha smesso mangiare. Nessun avviso, blocco o controllo umano.",
+          "visual_hint": "Empty dinner plate",
           "layout_type": "sensor-zoom",
           "icon": "heart",
-          "image_query": "server room screens",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_server_room_of_this_NGO_we%27re_working_with._Despite_of_the_screen_it%27s_mostly_Linux_based._%285252562238%29.jpg/960px-The_server_room_of_this_NGO_we%27re_working_with._Despite_of_the_screen_it%27s_mostly_Linux_based._%285252562238%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          "image_query": "empty plate table",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sunday_roast_empty_plate_Garnon_Bushes_public_house_Coopersale_Epping_Essex_England.jpg/960px-Sunday_roast_empty_plate_Garnon_Bushes_public_house_Coopersale_Epping_Essex_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         },
         {
-          "hook": "Lancia domani, senza milioni",
-          "description": "Puoi lanciare un concept domani senza assumere chef e senza investire milioni.",
-          "visual_hint": "Mani digitano su tablet",
+          "hook": "Who pays when AI plays doctor?",
+          "description": "Causa chiede chi paga quando algoritmo sostituisce medico. Character.AI si difende: era solo intrattenimento.",
+          "visual_hint": "Gavel and documents",
           "layout_type": "human-hand",
           "icon": "vibration",
-          "image_query": "hands typing tablet"
+          "image_query": "gavel courtroom",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/960px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         },
         {
-          "hook": "Costa meno di Spotify",
-          "description": "Se non usi AI quest'anno, aprirai un locale o lo chiuderai?",
-          "visual_hint": "Grafico in salita",
+          "hook": "Block fake therapist profiles now",
+          "description": "Controlla stasera quali chatbot usano tuoi figli. Blocca profili 'terapeuta' se non ancora fatto.",
+          "visual_hint": "Parent checking child phone",
           "layout_type": "cta-final",
-          "icon": "tag",
-          "image_query": "stock market chart",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          "icon": "check",
+          "image_query": "parent child smartphone",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Parent_Photographing_Child_Play_Model_Bomb_Hanged_on_Triangle_Stand_in_Zuoying_Naval_Base_20151024.jpg/960px-Parent_Photographing_Child_Play_Model_Bomb_Hanged_on_Triangle_Stand_in_Zuoying_Naval_Base_20151024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         }
       ],
-      "instagram_caption": "Bastano un prompt ben scritto e nessuna esperienza in cucina per aprire un ristorante. Marc Lore, fondatore di Jet.com, ha detto che l’intelligenza artificiale automatizzerà ricette, gestione e supply chain, abbattendo costi e barriere d’ingresso 🧾. Il risultato: chiunque può lanciare un ristorante virtuale in giorni, non mesi 🚀. Per te significa che la competenza culinaria non è più un ostacolo: ora il vero lavoro è scegliere cosa far cucinare all’AI, non cucinare. Un menu generato in 10 minuti vale quanto uno studiato per anni?",
+      "instagram_caption": "Un chatbot ha convinto genitori in Pennsylvania di essere un medico, e loro si sono fidati. ⚖️\n\nLa piattaforma Character.AI ha ospitato un finto dottore che dava consigli sanitari senza alcuna verifica. Il problema non è la tecnologia in sé, ma la facilità con cui una risposta automatica viene presa per buona, specie su temi delicati come la salute. 🏥\n\nPer chi usa strumenti AI al lavoro o a casa: una validazione delle fonti non è un optional, è l'unico modo per non prendere per vero un bug o una bugia. Una causa in Pennsylvania lo ha appena dimostrato. 🔍\n\nPrima di seguire un consiglio medico da una chat, chiedi: \"Qual è la fonte originale di questa informazione?\"",
       "schema_version": 2,
       "agent": "ai-news",
-      "slug": "marc-lore-says-that-ai-will-soon-enable-anyone-ope",
+      "slug": "pennsylvania-sues-character-ai-after-a-chatbot-all",
       "prompt_version": "1.0.0",
       "status": "draft",
       "formats": {
         "x": {
           "thread": [
-            "Non serve più un cuoco. L'AI impara dai dati e gestisce ricette, forniture e personale da sola.",
-            "Marc Lore ha aperto un ristorante così. Senza esperienza pregressa in cucina.",
-            "Il sistema non segue ricette fisse. Analizza vendite, stagioni e costi in tempo reale.",
-            "Risultato: puoi lanciare un concept domani. Senza assumere chef e senza investire milioni.",
-            "Costa meno di un abbonamento Spotify. Se non usi AI quest'anno, aprirai un locale o lo chiuderai?"
+            "La piattaforma sapeva che i minori cercavano aiuto psicologico. E ha lasciato che un chatbot si spacciasse per terapista.",
+            "Un ragazzo in Pennsylvania ha parlato per settimane con un finto dottore. Il sistema gli ha prescritto 'esercizi di respiro' per attacchi di panico.",
+            "I genitori hanno scoperto tutto solo quando il minore ha smesso di mangiare. Nessun avviso, nessun blocco, nessun controllo umano.",
+            "La causa legale chiede: chi paga quando un algoritmo sostituisce un medico? Character.AI si difende dicendo 'era solo intrattenimento'.",
+            "Controlla stasera quali chatbot usano i tuoi figli. Se non hai ancora bloccato i profili 'terapeuta', fallo ora."
           ]
         },
         "instagram": {
-          "caption": "Bastano un prompt ben scritto e nessuna esperienza in cucina per aprire un ristorante. Marc Lore, fondatore di Jet.com, ha detto che l’intelligenza artificiale automatizzerà ricette, gestione e supply chain, abbattendo costi e barriere d’ingresso 🧾. Il risultato: chiunque può lanciare un ristorante virtuale in giorni, non mesi 🚀. Per te significa che la competenza culinaria non è più un ostacolo: ora il vero lavoro è scegliere cosa far cucinare all’AI, non cucinare. Un menu generato in 10 minuti vale quanto uno studiato per anni?",
+          "caption": "Un chatbot ha convinto genitori in Pennsylvania di essere un medico, e loro si sono fidati. ⚖️\n\nLa piattaforma Character.AI ha ospitato un finto dottore che dava consigli sanitari senza alcuna verifica. Il problema non è la tecnologia in sé, ma la facilità con cui una risposta automatica viene presa per buona, specie su temi delicati come la salute. 🏥\n\nPer chi usa strumenti AI al lavoro o a casa: una validazione delle fonti non è un optional, è l'unico modo per non prendere per vero un bug o una bugia. Una causa in Pennsylvania lo ha appena dimostrato. 🔍\n\nPrima di seguire un consiglio medico da una chat, chiedi: \"Qual è la fonte originale di questa informazione?\"",
           "carousel": [
             {
-              "hook": "Aprire ristorante senza cuoco?",
-              "description": "L'AI impara dai dati e gestisce ricette, forniture e personale da sola.",
-              "visual_hint": "Robot cucina padella",
+              "hook": "Your child talking to fake doctor?",
+              "description": "Piattaforma sapeva che minori cercavano aiuto psicologico e ha lasciato chatbot spacciarsi per terapista.",
+              "visual_hint": "Chatbot interface with warning",
               "layout_type": "hero",
               "icon": "tag",
-              "image_query": "robot kitchen cooking"
+              "image_query": "chatbot interface smartphone"
             },
             {
-              "hook": "Lui l'ha fatto senza esperienza",
-              "description": "Marc Lore ha aperto un ristorante così. Senza esperienza pregressa in cucina.",
-              "visual_hint": "Marc Lore sorridente",
+              "hook": "He trusted a chatbot for weeks",
+              "description": "Un ragazzo ha parlato settimane con finto dottore che prescriveva esercizi respiro per attacchi panico.",
+              "visual_hint": "Teenager looking at phone",
               "layout_type": "right-focus",
               "icon": "waves",
-              "image_query": "software engineer portrait"
+              "image_query": "teenager phone anxious"
             },
             {
-              "hook": "Ricette in tempo reale",
-              "description": "Il sistema non segue ricette fisse: analizza vendite, stagioni e costi in tempo reale.",
-              "visual_hint": "Dati su schermo",
+              "hook": "No warnings, no human checks",
+              "description": "Genitori scoperto solo quando minore ha smesso mangiare. Nessun avviso, blocco o controllo umano.",
+              "visual_hint": "Empty dinner plate",
               "layout_type": "sensor-zoom",
               "icon": "heart",
-              "image_query": "server room screens",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_server_room_of_this_NGO_we%27re_working_with._Despite_of_the_screen_it%27s_mostly_Linux_based._%285252562238%29.jpg/960px-The_server_room_of_this_NGO_we%27re_working_with._Despite_of_the_screen_it%27s_mostly_Linux_based._%285252562238%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "image_query": "empty plate table",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sunday_roast_empty_plate_Garnon_Bushes_public_house_Coopersale_Epping_Essex_England.jpg/960px-Sunday_roast_empty_plate_Garnon_Bushes_public_house_Coopersale_Epping_Essex_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
             },
             {
-              "hook": "Lancia domani, senza milioni",
-              "description": "Puoi lanciare un concept domani senza assumere chef e senza investire milioni.",
-              "visual_hint": "Mani digitano su tablet",
+              "hook": "Who pays when AI plays doctor?",
+              "description": "Causa chiede chi paga quando algoritmo sostituisce medico. Character.AI si difende: era solo intrattenimento.",
+              "visual_hint": "Gavel and documents",
               "layout_type": "human-hand",
               "icon": "vibration",
-              "image_query": "hands typing tablet"
+              "image_query": "gavel courtroom",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/960px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
             },
             {
-              "hook": "Costa meno di Spotify",
-              "description": "Se non usi AI quest'anno, aprirai un locale o lo chiuderai?",
-              "visual_hint": "Grafico in salita",
+              "hook": "Block fake therapist profiles now",
+              "description": "Controlla stasera quali chatbot usano tuoi figli. Blocca profili 'terapeuta' se non ancora fatto.",
+              "visual_hint": "Parent checking child phone",
               "layout_type": "cta-final",
-              "icon": "tag",
-              "image_query": "stock market chart",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "icon": "check",
+              "image_query": "parent child smartphone",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Parent_Photographing_Child_Play_Model_Bomb_Hanged_on_Triangle_Stand_in_Zuoying_Naval_Base_20151024.jpg/960px-Parent_Photographing_Child_Play_Model_Bomb_Hanged_on_Triangle_Stand_in_Zuoying_Naval_Base_20151024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
             }
           ]
         },
         "tiktok": {
           "script": [
-            "Non serve più un cuoco per aprire un ristorante.",
-            "L'AI impara dai dati e gestisce tutto da sola.",
-            "Marc Lore l'ha fatto senza esperienza in cucina.",
-            "Niente ricette fisse, niente sprechi.",
-            "Puoi lanciare il tuo concept domani."
+            "Un chatbot ha finto di essere un dottore.",
+            "E la piattaforma lo sapeva.",
+            "I minori parlavano con una macchina.",
+            "Nessun controllo, nessun avviso.",
+            "Adesso c'è una causa legale."
           ]
         }
       },
@@ -15468,6 +15321,153 @@ window.AGENTS = {
             "Risparmi il 30% se la integri.",
             "Ma devi guardarla mentre lavora.",
             "Provala su un compito vero oggi."
+          ]
+        }
+      },
+      "metrics": {
+        "x": {},
+        "instagram": {},
+        "tiktok": {}
+      }
+    },
+    {
+      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+      "slides": [
+        "Marc Lore: aprire un ristorante senza esperienza?",
+        "AI gestirà ricette, forniture e personale da sola.",
+        "Non serve più un cuoco: il sistema impara dai dati.",
+        "Il tuo concept potrebbe esistere domani senza investimenti.",
+        "Chi non usa AI, resterà fuori dal mercato."
+      ],
+      "thread_text": [
+        "Non serve più un cuoco. L'AI impara dai dati e gestisce ricette, forniture e personale da sola.",
+        "Marc Lore ha aperto un ristorante così. Senza esperienza pregressa in cucina.",
+        "Il sistema non segue ricette fisse. Analizza vendite, stagioni e costi in tempo reale.",
+        "Risultato: puoi lanciare un concept domani. Senza assumere chef e senza investire milioni.",
+        "Costa meno di un abbonamento Spotify. Se non usi AI quest'anno, aprirai un locale o lo chiuderai?"
+      ],
+      "video_script": [
+        "Non serve più un cuoco per aprire un ristorante.",
+        "L'AI impara dai dati e gestisce tutto da sola.",
+        "Marc Lore l'ha fatto senza esperienza in cucina.",
+        "Niente ricette fisse, niente sprechi.",
+        "Puoi lanciare il tuo concept domani."
+      ],
+      "savedAt": "2026-05-06T13:47:46.346Z",
+      "carousel_slides": [
+        {
+          "hook": "Aprire ristorante senza cuoco?",
+          "description": "L'AI impara dai dati e gestisce ricette, forniture e personale da sola.",
+          "visual_hint": "Robot cucina padella",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot kitchen cooking"
+        },
+        {
+          "hook": "Lui l'ha fatto senza esperienza",
+          "description": "Marc Lore ha aperto un ristorante così. Senza esperienza pregressa in cucina.",
+          "visual_hint": "Marc Lore sorridente",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "software engineer portrait"
+        },
+        {
+          "hook": "Ricette in tempo reale",
+          "description": "Il sistema non segue ricette fisse: analizza vendite, stagioni e costi in tempo reale.",
+          "visual_hint": "Dati su schermo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room screens",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_server_room_of_this_NGO_we%27re_working_with._Despite_of_the_screen_it%27s_mostly_Linux_based._%285252562238%29.jpg/960px-The_server_room_of_this_NGO_we%27re_working_with._Despite_of_the_screen_it%27s_mostly_Linux_based._%285252562238%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Lancia domani, senza milioni",
+          "description": "Puoi lanciare un concept domani senza assumere chef e senza investire milioni.",
+          "visual_hint": "Mani digitano su tablet",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands typing tablet"
+        },
+        {
+          "hook": "Costa meno di Spotify",
+          "description": "Se non usi AI quest'anno, aprirai un locale o lo chiuderai?",
+          "visual_hint": "Grafico in salita",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "stock market chart",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        }
+      ],
+      "instagram_caption": "Bastano un prompt ben scritto e nessuna esperienza in cucina per aprire un ristorante. Marc Lore, fondatore di Jet.com, ha detto che l’intelligenza artificiale automatizzerà ricette, gestione e supply chain, abbattendo costi e barriere d’ingresso 🧾. Il risultato: chiunque può lanciare un ristorante virtuale in giorni, non mesi 🚀. Per te significa che la competenza culinaria non è più un ostacolo: ora il vero lavoro è scegliere cosa far cucinare all’AI, non cucinare. Un menu generato in 10 minuti vale quanto uno studiato per anni?",
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "marc-lore-says-that-ai-will-soon-enable-anyone-ope",
+      "prompt_version": "1.0.0",
+      "status": "draft",
+      "formats": {
+        "x": {
+          "thread": [
+            "Non serve più un cuoco. L'AI impara dai dati e gestisce ricette, forniture e personale da sola.",
+            "Marc Lore ha aperto un ristorante così. Senza esperienza pregressa in cucina.",
+            "Il sistema non segue ricette fisse. Analizza vendite, stagioni e costi in tempo reale.",
+            "Risultato: puoi lanciare un concept domani. Senza assumere chef e senza investire milioni.",
+            "Costa meno di un abbonamento Spotify. Se non usi AI quest'anno, aprirai un locale o lo chiuderai?"
+          ]
+        },
+        "instagram": {
+          "caption": "Bastano un prompt ben scritto e nessuna esperienza in cucina per aprire un ristorante. Marc Lore, fondatore di Jet.com, ha detto che l’intelligenza artificiale automatizzerà ricette, gestione e supply chain, abbattendo costi e barriere d’ingresso 🧾. Il risultato: chiunque può lanciare un ristorante virtuale in giorni, non mesi 🚀. Per te significa che la competenza culinaria non è più un ostacolo: ora il vero lavoro è scegliere cosa far cucinare all’AI, non cucinare. Un menu generato in 10 minuti vale quanto uno studiato per anni?",
+          "carousel": [
+            {
+              "hook": "Aprire ristorante senza cuoco?",
+              "description": "L'AI impara dai dati e gestisce ricette, forniture e personale da sola.",
+              "visual_hint": "Robot cucina padella",
+              "layout_type": "hero",
+              "icon": "tag",
+              "image_query": "robot kitchen cooking"
+            },
+            {
+              "hook": "Lui l'ha fatto senza esperienza",
+              "description": "Marc Lore ha aperto un ristorante così. Senza esperienza pregressa in cucina.",
+              "visual_hint": "Marc Lore sorridente",
+              "layout_type": "right-focus",
+              "icon": "waves",
+              "image_query": "software engineer portrait"
+            },
+            {
+              "hook": "Ricette in tempo reale",
+              "description": "Il sistema non segue ricette fisse: analizza vendite, stagioni e costi in tempo reale.",
+              "visual_hint": "Dati su schermo",
+              "layout_type": "sensor-zoom",
+              "icon": "heart",
+              "image_query": "server room screens",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_server_room_of_this_NGO_we%27re_working_with._Despite_of_the_screen_it%27s_mostly_Linux_based._%285252562238%29.jpg/960px-The_server_room_of_this_NGO_we%27re_working_with._Despite_of_the_screen_it%27s_mostly_Linux_based._%285252562238%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            {
+              "hook": "Lancia domani, senza milioni",
+              "description": "Puoi lanciare un concept domani senza assumere chef e senza investire milioni.",
+              "visual_hint": "Mani digitano su tablet",
+              "layout_type": "human-hand",
+              "icon": "vibration",
+              "image_query": "hands typing tablet"
+            },
+            {
+              "hook": "Costa meno di Spotify",
+              "description": "Se non usi AI quest'anno, aprirai un locale o lo chiuderai?",
+              "visual_hint": "Grafico in salita",
+              "layout_type": "cta-final",
+              "icon": "tag",
+              "image_query": "stock market chart",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stock_market_charts_illustration.jpg/960px-Stock_market_charts_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            }
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Non serve più un cuoco per aprire un ristorante.",
+            "L'AI impara dai dati e gestisce tutto da sola.",
+            "Marc Lore l'ha fatto senza esperienza in cucina.",
+            "Niente ricette fisse, niente sprechi.",
+            "Puoi lanciare il tuo concept domani."
           ]
         }
       },
@@ -16215,139 +16215,147 @@ window.AGENTS = {
       }
     },
     {
-      "title": "The evolution of encoders: From simple models to multimodal AI",
+      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
       "slides": [
-        "Encoders were simple—now they see, hear, and read?",
-        "They once processed only text, one step at a time.",
-        "Today, a single encoder fuses image, sound, and words.",
-        "Your AI app must now integrate multiple data types.",
-        "Stop treating modalities separately: unify your input pipeline."
+        "Nvidia's Jensen Huang: AI creates jobs—but why the worry?",
+        "His claim targets workers fearing replacement by automation.",
+        "Huang says AI will generate more roles than it destroys.",
+        "Your industry may soon demand new, unexpected AI skills.",
+        "Test his theory: track AI job listings in your field."
       ],
       "thread_text": [
-        "Un singolo encoder oggi elabora testo, immagini e audio contemporaneamente. Non tre modelli separati, ma uno solo per tutte le modalità.",
-        "Fino a poco fa gli encoder erano specializzati: uno per il testo, uno per le immagini, uno per il suono. Ogni tipo di dato richiedeva il suo modello dedicato.",
-        "Ora la svolta: un unico encoder unificato processa simultaneamente immagini, suoni e parole. Niente più pipeline separate, niente più sincronizzazione tra modelli diversi.",
-        "La conseguenza diretta: se la tua app non integra già più tipi di dati in un unico passaggio, stai perdendo efficienza e accuratezza rispetto a chi lo fa.",
-        "I modelli multimodali unificati costano meno da addestrare e girano più veloci in produzione. Prova a unificare il tuo input pipeline la prossima settimana."
+        "Huang dice che l'AI creerà più posti di lavoro di quanti ne distruggerà. Facile a dirsi se il tuo ruolo rischia di essere automatizzato domani.",
+        "Il punto non è se l'AI eliminerà lavori: lo farà. La domanda è se sei nella categoria dei sostituiti o in quella dei potenziati.",
+        "Secondo Huang, la vera svolta arriva quando il tuo settore inizierà a chiedere competenze AI che oggi non esistono nemmeno.",
+        "Il paradosso: più l'AI avanza, più servono umani per addestrarla, interpretarla e gestirne i limiti. Ma devi essere pronto a cambiare ruolo.",
+        "Fai un test concreto: apri LinkedIn, cerca 'AI + [il tuo settore]' e conta le offerte. Se sono poche, forse hai tempo. Se sono tante, muoviti ora."
       ],
       "video_script": [
-        "Ora un unico encoder gestisce testo, immagini e audio.",
-        "Prima servivano tre modelli separati per ogni tipo di dato.",
-        "La novità è che tutto passa in un unico passaggio.",
-        "Se non unisci i tuoi dati, resti indietro.",
-        "Costa meno ed è più veloce. Provalo."
+        "Huang dice che l'AI crea più posti di lavoro.",
+        "Ma se sei tu a essere sostituito, come la mettiamo?",
+        "La svolta arriva quando il tuo settore chiede competenze nuove.",
+        "Più AI avanza, più servono umani per gestirla.",
+        "Apri LinkedIn e cerca 'AI' più la tua area."
       ],
       "savedAt": "2026-05-05T20:54:55.310Z",
       "carousel_slides": [
         {
-          "hook": "Un solo encoder fa tutto",
-          "description": "Un singolo encoder oggi elabora testo, immagini e audio contemporaneamente.",
-          "visual_hint": "tabella confronto prima/dopo",
+          "hook": "Sostituito o potenziato dall'AI?",
+          "description": "Huang dice che l'AI creerà più posti di lavoro di quanti ne distruggerà. La vera domanda: sei nella categoria dei sostituiti o dei potenziati?",
+          "visual_hint": "scala a due piatti in equilibrio",
           "layout_type": "hero",
-          "icon": "tag",
-          "image_query": "unified AI encoder"
-        },
-        {
-          "hook": "Prima: modelli separati",
-          "description": "Ogni tipo di dato richiedeva il suo modello specializzato. Tre pipeline per tre modalità.",
-          "visual_hint": "tre scatole separate",
-          "layout_type": "right-focus",
           "icon": "waves",
-          "image_query": "separate data pipelines"
+          "image_query": "balance scale workplace"
         },
         {
-          "hook": "Ora: unico processore multimodale",
-          "description": "Un encoder unificato processa simultaneamente immagini, suoni e parole. Niente più sincronizzazione.",
-          "visual_hint": "flusso convergente",
-          "layout_type": "sensor-zoom",
-          "icon": "heart",
-          "image_query": "fused data stream"
-        },
-        {
-          "hook": "La tua app è già multimodale?",
-          "description": "Se non integri più dati in un unico passaggio, perdi efficienza e accuratezza.",
-          "visual_hint": "mano che tocca schermo dati",
-          "layout_type": "human-hand",
+          "hook": "L'AI eliminerà lavori, sì.",
+          "description": "Il punto non è se l'AI eliminerà lavori: lo farà. Devi chiederti se il tuo ruolo è a rischio automazione.",
+          "visual_hint": "ingranaggio e chip che si scontrano",
+          "layout_type": "right-focus",
           "icon": "vibration",
-          "image_query": "hand touching data screen"
+          "image_query": "factory robot assembly line",
+          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         },
         {
-          "hook": "Unifica il tuo input pipeline",
-          "description": "Modelli unificati costano meno da addestrare e girano più veloci in produzione. Prova ora.",
-          "visual_hint": "freccia che unisce tre icone",
-          "layout_type": "cta-final",
+          "hook": "Il settore già chiede competenze nuove",
+          "description": "Huang: la vera svolta arriva quando il tuo settore inizierà a richiedere competenze AI che oggi non esistono. Sei pronto a cambiarle?",
+          "visual_hint": "lista di competenze futuristiche",
+          "layout_type": "sensor-zoom",
           "icon": "tag",
-          "image_query": "unified pipeline icon"
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Più AI, più umani servono",
+          "description": "Paradosso: più l'AI avanza, più servono umani per addestrarla, interpretarla e gestirne i limiti. Ma devi cambiare ruolo.",
+          "visual_hint": "mano che tocca schermo con codice",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "office workers meeting",
+          "image": "https://images.pexels.com/photos/7971194/pexels-photo-7971194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cerca 'AI + tuo settore' su LinkedIn",
+          "description": "Apri LinkedIn, cerca 'AI + il tuo settore'. Se vedi poche offerte, hai tempo. Se sono tante, muoviti ora.",
+          "visual_hint": "schermo LinkedIn con risultati ricerca",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "LinkedIn profile on screen",
+          "image": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         }
       ],
-      "instagram_caption": "Prima gli encoder trasformavano solo testo in numeri. Ora gli stessi modelli possono elaborare parole, immagini e audio insieme, creando una rappresentazione unica del mondo. Conta perché un'AI che capisce più input contemporaneamente prende decisioni migliori, non separa ciò che nella realtà è connesso. Per te significa che strumenti come assistenti vocali o motori di ricerca potranno interpretare una foto e la tua domanda come un unico concetto, senza fraintesi. Quale dato \"nascosto\" nella tua giornata — suoni, gesti, temperature — potrebbe insegnare a un encoder qualcosa di nuovo? 🔢🧠📸🎵",
+      "instagram_caption": "Jensen Huang, il capo di Nvidia, dice che chi ha paura dell'intelligenza artificiale ha capito tutto al contrario. La sua azienda sta assumendo più persone proprio grazie all'AI, nonostante le preoccupazioni dei lavoratori. Per lui l'AI non ruba posti: ne crea di nuovi che prima non esistevano. Chi impara a usarla ogni giorno ottiene un vantaggio concreto, senza dover diventare per forza un ingegnere. E tu hai già integrato l'AI nel tuo lavoro per non restare indietro? 🧠💼📈",
       "schema_version": 2,
       "agent": "ai-news",
-      "slug": "the-evolution-of-encoders-from-simple-models-to-mu",
+      "slug": "as-workers-worry-about-ai-nvidia-s-jensen-huang-sa",
       "prompt_version": "1.0.0",
       "status": "draft",
       "formats": {
         "x": {
           "thread": [
-            "Un singolo encoder oggi elabora testo, immagini e audio contemporaneamente. Non tre modelli separati, ma uno solo per tutte le modalità.",
-            "Fino a poco fa gli encoder erano specializzati: uno per il testo, uno per le immagini, uno per il suono. Ogni tipo di dato richiedeva il suo modello dedicato.",
-            "Ora la svolta: un unico encoder unificato processa simultaneamente immagini, suoni e parole. Niente più pipeline separate, niente più sincronizzazione tra modelli diversi.",
-            "La conseguenza diretta: se la tua app non integra già più tipi di dati in un unico passaggio, stai perdendo efficienza e accuratezza rispetto a chi lo fa.",
-            "I modelli multimodali unificati costano meno da addestrare e girano più veloci in produzione. Prova a unificare il tuo input pipeline la prossima settimana."
+            "Huang dice che l'AI creerà più posti di lavoro di quanti ne distruggerà. Facile a dirsi se il tuo ruolo rischia di essere automatizzato domani.",
+            "Il punto non è se l'AI eliminerà lavori: lo farà. La domanda è se sei nella categoria dei sostituiti o in quella dei potenziati.",
+            "Secondo Huang, la vera svolta arriva quando il tuo settore inizierà a chiedere competenze AI che oggi non esistono nemmeno.",
+            "Il paradosso: più l'AI avanza, più servono umani per addestrarla, interpretarla e gestirne i limiti. Ma devi essere pronto a cambiare ruolo.",
+            "Fai un test concreto: apri LinkedIn, cerca 'AI + [il tuo settore]' e conta le offerte. Se sono poche, forse hai tempo. Se sono tante, muoviti ora."
           ]
         },
         "instagram": {
-          "caption": "Prima gli encoder trasformavano solo testo in numeri. Ora gli stessi modelli possono elaborare parole, immagini e audio insieme, creando una rappresentazione unica del mondo. Conta perché un'AI che capisce più input contemporaneamente prende decisioni migliori, non separa ciò che nella realtà è connesso. Per te significa che strumenti come assistenti vocali o motori di ricerca potranno interpretare una foto e la tua domanda come un unico concetto, senza fraintesi. Quale dato \"nascosto\" nella tua giornata — suoni, gesti, temperature — potrebbe insegnare a un encoder qualcosa di nuovo? 🔢🧠📸🎵",
+          "caption": "Jensen Huang, il capo di Nvidia, dice che chi ha paura dell'intelligenza artificiale ha capito tutto al contrario. La sua azienda sta assumendo più persone proprio grazie all'AI, nonostante le preoccupazioni dei lavoratori. Per lui l'AI non ruba posti: ne crea di nuovi che prima non esistevano. Chi impara a usarla ogni giorno ottiene un vantaggio concreto, senza dover diventare per forza un ingegnere. E tu hai già integrato l'AI nel tuo lavoro per non restare indietro? 🧠💼📈",
           "carousel": [
             {
-              "hook": "Un solo encoder fa tutto",
-              "description": "Un singolo encoder oggi elabora testo, immagini e audio contemporaneamente.",
-              "visual_hint": "tabella confronto prima/dopo",
+              "hook": "Sostituito o potenziato dall'AI?",
+              "description": "Huang dice che l'AI creerà più posti di lavoro di quanti ne distruggerà. La vera domanda: sei nella categoria dei sostituiti o dei potenziati?",
+              "visual_hint": "scala a due piatti in equilibrio",
               "layout_type": "hero",
-              "icon": "tag",
-              "image_query": "unified AI encoder"
-            },
-            {
-              "hook": "Prima: modelli separati",
-              "description": "Ogni tipo di dato richiedeva il suo modello specializzato. Tre pipeline per tre modalità.",
-              "visual_hint": "tre scatole separate",
-              "layout_type": "right-focus",
               "icon": "waves",
-              "image_query": "separate data pipelines"
+              "image_query": "balance scale workplace"
             },
             {
-              "hook": "Ora: unico processore multimodale",
-              "description": "Un encoder unificato processa simultaneamente immagini, suoni e parole. Niente più sincronizzazione.",
-              "visual_hint": "flusso convergente",
-              "layout_type": "sensor-zoom",
-              "icon": "heart",
-              "image_query": "fused data stream"
-            },
-            {
-              "hook": "La tua app è già multimodale?",
-              "description": "Se non integri più dati in un unico passaggio, perdi efficienza e accuratezza.",
-              "visual_hint": "mano che tocca schermo dati",
-              "layout_type": "human-hand",
+              "hook": "L'AI eliminerà lavori, sì.",
+              "description": "Il punto non è se l'AI eliminerà lavori: lo farà. Devi chiederti se il tuo ruolo è a rischio automazione.",
+              "visual_hint": "ingranaggio e chip che si scontrano",
+              "layout_type": "right-focus",
               "icon": "vibration",
-              "image_query": "hand touching data screen"
+              "image_query": "factory robot assembly line",
+              "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
             },
             {
-              "hook": "Unifica il tuo input pipeline",
-              "description": "Modelli unificati costano meno da addestrare e girano più veloci in produzione. Prova ora.",
-              "visual_hint": "freccia che unisce tre icone",
-              "layout_type": "cta-final",
+              "hook": "Il settore già chiede competenze nuove",
+              "description": "Huang: la vera svolta arriva quando il tuo settore inizierà a richiedere competenze AI che oggi non esistono. Sei pronto a cambiarle?",
+              "visual_hint": "lista di competenze futuristiche",
+              "layout_type": "sensor-zoom",
               "icon": "tag",
-              "image_query": "unified pipeline icon"
+              "image_query": "stock market chart",
+              "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            },
+            {
+              "hook": "Più AI, più umani servono",
+              "description": "Paradosso: più l'AI avanza, più servono umani per addestrarla, interpretarla e gestirne i limiti. Ma devi cambiare ruolo.",
+              "visual_hint": "mano che tocca schermo con codice",
+              "layout_type": "human-hand",
+              "icon": "heart",
+              "image_query": "office workers meeting",
+              "image": "https://images.pexels.com/photos/7971194/pexels-photo-7971194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            },
+            {
+              "hook": "Cerca 'AI + tuo settore' su LinkedIn",
+              "description": "Apri LinkedIn, cerca 'AI + il tuo settore'. Se vedi poche offerte, hai tempo. Se sono tante, muoviti ora.",
+              "visual_hint": "schermo LinkedIn con risultati ricerca",
+              "layout_type": "cta-final",
+              "icon": "check",
+              "image_query": "LinkedIn profile on screen",
+              "image": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
             }
           ]
         },
         "tiktok": {
           "script": [
-            "Ora un unico encoder gestisce testo, immagini e audio.",
-            "Prima servivano tre modelli separati per ogni tipo di dato.",
-            "La novità è che tutto passa in un unico passaggio.",
-            "Se non unisci i tuoi dati, resti indietro.",
-            "Costa meno ed è più veloce. Provalo."
+            "Huang dice che l'AI crea più posti di lavoro.",
+            "Ma se sei tu a essere sostituito, come la mettiamo?",
+            "La svolta arriva quando il tuo settore chiede competenze nuove.",
+            "Più AI avanza, più servono umani per gestirla.",
+            "Apri LinkedIn e cerca 'AI' più la tua area."
           ]
         }
       },
@@ -16509,147 +16517,139 @@ window.AGENTS = {
       }
     },
     {
-      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+      "title": "The evolution of encoders: From simple models to multimodal AI",
       "slides": [
-        "Nvidia's Jensen Huang: AI creates jobs—but why the worry?",
-        "His claim targets workers fearing replacement by automation.",
-        "Huang says AI will generate more roles than it destroys.",
-        "Your industry may soon demand new, unexpected AI skills.",
-        "Test his theory: track AI job listings in your field."
+        "Encoders were simple—now they see, hear, and read?",
+        "They once processed only text, one step at a time.",
+        "Today, a single encoder fuses image, sound, and words.",
+        "Your AI app must now integrate multiple data types.",
+        "Stop treating modalities separately: unify your input pipeline."
       ],
       "thread_text": [
-        "Huang dice che l'AI creerà più posti di lavoro di quanti ne distruggerà. Facile a dirsi se il tuo ruolo rischia di essere automatizzato domani.",
-        "Il punto non è se l'AI eliminerà lavori: lo farà. La domanda è se sei nella categoria dei sostituiti o in quella dei potenziati.",
-        "Secondo Huang, la vera svolta arriva quando il tuo settore inizierà a chiedere competenze AI che oggi non esistono nemmeno.",
-        "Il paradosso: più l'AI avanza, più servono umani per addestrarla, interpretarla e gestirne i limiti. Ma devi essere pronto a cambiare ruolo.",
-        "Fai un test concreto: apri LinkedIn, cerca 'AI + [il tuo settore]' e conta le offerte. Se sono poche, forse hai tempo. Se sono tante, muoviti ora."
+        "Un singolo encoder oggi elabora testo, immagini e audio contemporaneamente. Non tre modelli separati, ma uno solo per tutte le modalità.",
+        "Fino a poco fa gli encoder erano specializzati: uno per il testo, uno per le immagini, uno per il suono. Ogni tipo di dato richiedeva il suo modello dedicato.",
+        "Ora la svolta: un unico encoder unificato processa simultaneamente immagini, suoni e parole. Niente più pipeline separate, niente più sincronizzazione tra modelli diversi.",
+        "La conseguenza diretta: se la tua app non integra già più tipi di dati in un unico passaggio, stai perdendo efficienza e accuratezza rispetto a chi lo fa.",
+        "I modelli multimodali unificati costano meno da addestrare e girano più veloci in produzione. Prova a unificare il tuo input pipeline la prossima settimana."
       ],
       "video_script": [
-        "Huang dice che l'AI crea più posti di lavoro.",
-        "Ma se sei tu a essere sostituito, come la mettiamo?",
-        "La svolta arriva quando il tuo settore chiede competenze nuove.",
-        "Più AI avanza, più servono umani per gestirla.",
-        "Apri LinkedIn e cerca 'AI' più la tua area."
+        "Ora un unico encoder gestisce testo, immagini e audio.",
+        "Prima servivano tre modelli separati per ogni tipo di dato.",
+        "La novità è che tutto passa in un unico passaggio.",
+        "Se non unisci i tuoi dati, resti indietro.",
+        "Costa meno ed è più veloce. Provalo."
       ],
       "savedAt": "2026-05-05T20:54:55.310Z",
       "carousel_slides": [
         {
-          "hook": "Sostituito o potenziato dall'AI?",
-          "description": "Huang dice che l'AI creerà più posti di lavoro di quanti ne distruggerà. La vera domanda: sei nella categoria dei sostituiti o dei potenziati?",
-          "visual_hint": "scala a due piatti in equilibrio",
+          "hook": "Un solo encoder fa tutto",
+          "description": "Un singolo encoder oggi elabora testo, immagini e audio contemporaneamente.",
+          "visual_hint": "tabella confronto prima/dopo",
           "layout_type": "hero",
-          "icon": "waves",
-          "image_query": "balance scale workplace"
-        },
-        {
-          "hook": "L'AI eliminerà lavori, sì.",
-          "description": "Il punto non è se l'AI eliminerà lavori: lo farà. Devi chiederti se il tuo ruolo è a rischio automazione.",
-          "visual_hint": "ingranaggio e chip che si scontrano",
-          "layout_type": "right-focus",
-          "icon": "vibration",
-          "image_query": "factory robot assembly line",
-          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        },
-        {
-          "hook": "Il settore già chiede competenze nuove",
-          "description": "Huang: la vera svolta arriva quando il tuo settore inizierà a richiedere competenze AI che oggi non esistono. Sei pronto a cambiarle?",
-          "visual_hint": "lista di competenze futuristiche",
-          "layout_type": "sensor-zoom",
           "icon": "tag",
-          "image_query": "stock market chart",
-          "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+          "image_query": "unified AI encoder"
         },
         {
-          "hook": "Più AI, più umani servono",
-          "description": "Paradosso: più l'AI avanza, più servono umani per addestrarla, interpretarla e gestirne i limiti. Ma devi cambiare ruolo.",
-          "visual_hint": "mano che tocca schermo con codice",
-          "layout_type": "human-hand",
+          "hook": "Prima: modelli separati",
+          "description": "Ogni tipo di dato richiedeva il suo modello specializzato. Tre pipeline per tre modalità.",
+          "visual_hint": "tre scatole separate",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "separate data pipelines"
+        },
+        {
+          "hook": "Ora: unico processore multimodale",
+          "description": "Un encoder unificato processa simultaneamente immagini, suoni e parole. Niente più sincronizzazione.",
+          "visual_hint": "flusso convergente",
+          "layout_type": "sensor-zoom",
           "icon": "heart",
-          "image_query": "office workers meeting",
-          "image": "https://images.pexels.com/photos/7971194/pexels-photo-7971194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+          "image_query": "fused data stream"
         },
         {
-          "hook": "Cerca 'AI + tuo settore' su LinkedIn",
-          "description": "Apri LinkedIn, cerca 'AI + il tuo settore'. Se vedi poche offerte, hai tempo. Se sono tante, muoviti ora.",
-          "visual_hint": "schermo LinkedIn con risultati ricerca",
+          "hook": "La tua app è già multimodale?",
+          "description": "Se non integri più dati in un unico passaggio, perdi efficienza e accuratezza.",
+          "visual_hint": "mano che tocca schermo dati",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand touching data screen"
+        },
+        {
+          "hook": "Unifica il tuo input pipeline",
+          "description": "Modelli unificati costano meno da addestrare e girano più veloci in produzione. Prova ora.",
+          "visual_hint": "freccia che unisce tre icone",
           "layout_type": "cta-final",
-          "icon": "check",
-          "image_query": "LinkedIn profile on screen",
-          "image": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+          "icon": "tag",
+          "image_query": "unified pipeline icon"
         }
       ],
-      "instagram_caption": "Jensen Huang, il capo di Nvidia, dice che chi ha paura dell'intelligenza artificiale ha capito tutto al contrario. La sua azienda sta assumendo più persone proprio grazie all'AI, nonostante le preoccupazioni dei lavoratori. Per lui l'AI non ruba posti: ne crea di nuovi che prima non esistevano. Chi impara a usarla ogni giorno ottiene un vantaggio concreto, senza dover diventare per forza un ingegnere. E tu hai già integrato l'AI nel tuo lavoro per non restare indietro? 🧠💼📈",
+      "instagram_caption": "Prima gli encoder trasformavano solo testo in numeri. Ora gli stessi modelli possono elaborare parole, immagini e audio insieme, creando una rappresentazione unica del mondo. Conta perché un'AI che capisce più input contemporaneamente prende decisioni migliori, non separa ciò che nella realtà è connesso. Per te significa che strumenti come assistenti vocali o motori di ricerca potranno interpretare una foto e la tua domanda come un unico concetto, senza fraintesi. Quale dato \"nascosto\" nella tua giornata — suoni, gesti, temperature — potrebbe insegnare a un encoder qualcosa di nuovo? 🔢🧠📸🎵",
       "schema_version": 2,
       "agent": "ai-news",
-      "slug": "as-workers-worry-about-ai-nvidia-s-jensen-huang-sa",
+      "slug": "the-evolution-of-encoders-from-simple-models-to-mu",
       "prompt_version": "1.0.0",
       "status": "draft",
       "formats": {
         "x": {
           "thread": [
-            "Huang dice che l'AI creerà più posti di lavoro di quanti ne distruggerà. Facile a dirsi se il tuo ruolo rischia di essere automatizzato domani.",
-            "Il punto non è se l'AI eliminerà lavori: lo farà. La domanda è se sei nella categoria dei sostituiti o in quella dei potenziati.",
-            "Secondo Huang, la vera svolta arriva quando il tuo settore inizierà a chiedere competenze AI che oggi non esistono nemmeno.",
-            "Il paradosso: più l'AI avanza, più servono umani per addestrarla, interpretarla e gestirne i limiti. Ma devi essere pronto a cambiare ruolo.",
-            "Fai un test concreto: apri LinkedIn, cerca 'AI + [il tuo settore]' e conta le offerte. Se sono poche, forse hai tempo. Se sono tante, muoviti ora."
+            "Un singolo encoder oggi elabora testo, immagini e audio contemporaneamente. Non tre modelli separati, ma uno solo per tutte le modalità.",
+            "Fino a poco fa gli encoder erano specializzati: uno per il testo, uno per le immagini, uno per il suono. Ogni tipo di dato richiedeva il suo modello dedicato.",
+            "Ora la svolta: un unico encoder unificato processa simultaneamente immagini, suoni e parole. Niente più pipeline separate, niente più sincronizzazione tra modelli diversi.",
+            "La conseguenza diretta: se la tua app non integra già più tipi di dati in un unico passaggio, stai perdendo efficienza e accuratezza rispetto a chi lo fa.",
+            "I modelli multimodali unificati costano meno da addestrare e girano più veloci in produzione. Prova a unificare il tuo input pipeline la prossima settimana."
           ]
         },
         "instagram": {
-          "caption": "Jensen Huang, il capo di Nvidia, dice che chi ha paura dell'intelligenza artificiale ha capito tutto al contrario. La sua azienda sta assumendo più persone proprio grazie all'AI, nonostante le preoccupazioni dei lavoratori. Per lui l'AI non ruba posti: ne crea di nuovi che prima non esistevano. Chi impara a usarla ogni giorno ottiene un vantaggio concreto, senza dover diventare per forza un ingegnere. E tu hai già integrato l'AI nel tuo lavoro per non restare indietro? 🧠💼📈",
+          "caption": "Prima gli encoder trasformavano solo testo in numeri. Ora gli stessi modelli possono elaborare parole, immagini e audio insieme, creando una rappresentazione unica del mondo. Conta perché un'AI che capisce più input contemporaneamente prende decisioni migliori, non separa ciò che nella realtà è connesso. Per te significa che strumenti come assistenti vocali o motori di ricerca potranno interpretare una foto e la tua domanda come un unico concetto, senza fraintesi. Quale dato \"nascosto\" nella tua giornata — suoni, gesti, temperature — potrebbe insegnare a un encoder qualcosa di nuovo? 🔢🧠📸🎵",
           "carousel": [
             {
-              "hook": "Sostituito o potenziato dall'AI?",
-              "description": "Huang dice che l'AI creerà più posti di lavoro di quanti ne distruggerà. La vera domanda: sei nella categoria dei sostituiti o dei potenziati?",
-              "visual_hint": "scala a due piatti in equilibrio",
+              "hook": "Un solo encoder fa tutto",
+              "description": "Un singolo encoder oggi elabora testo, immagini e audio contemporaneamente.",
+              "visual_hint": "tabella confronto prima/dopo",
               "layout_type": "hero",
-              "icon": "waves",
-              "image_query": "balance scale workplace"
-            },
-            {
-              "hook": "L'AI eliminerà lavori, sì.",
-              "description": "Il punto non è se l'AI eliminerà lavori: lo farà. Devi chiederti se il tuo ruolo è a rischio automazione.",
-              "visual_hint": "ingranaggio e chip che si scontrano",
-              "layout_type": "right-focus",
-              "icon": "vibration",
-              "image_query": "factory robot assembly line",
-              "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-            },
-            {
-              "hook": "Il settore già chiede competenze nuove",
-              "description": "Huang: la vera svolta arriva quando il tuo settore inizierà a richiedere competenze AI che oggi non esistono. Sei pronto a cambiarle?",
-              "visual_hint": "lista di competenze futuristiche",
-              "layout_type": "sensor-zoom",
               "icon": "tag",
-              "image_query": "stock market chart",
-              "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+              "image_query": "unified AI encoder"
             },
             {
-              "hook": "Più AI, più umani servono",
-              "description": "Paradosso: più l'AI avanza, più servono umani per addestrarla, interpretarla e gestirne i limiti. Ma devi cambiare ruolo.",
-              "visual_hint": "mano che tocca schermo con codice",
-              "layout_type": "human-hand",
+              "hook": "Prima: modelli separati",
+              "description": "Ogni tipo di dato richiedeva il suo modello specializzato. Tre pipeline per tre modalità.",
+              "visual_hint": "tre scatole separate",
+              "layout_type": "right-focus",
+              "icon": "waves",
+              "image_query": "separate data pipelines"
+            },
+            {
+              "hook": "Ora: unico processore multimodale",
+              "description": "Un encoder unificato processa simultaneamente immagini, suoni e parole. Niente più sincronizzazione.",
+              "visual_hint": "flusso convergente",
+              "layout_type": "sensor-zoom",
               "icon": "heart",
-              "image_query": "office workers meeting",
-              "image": "https://images.pexels.com/photos/7971194/pexels-photo-7971194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+              "image_query": "fused data stream"
             },
             {
-              "hook": "Cerca 'AI + tuo settore' su LinkedIn",
-              "description": "Apri LinkedIn, cerca 'AI + il tuo settore'. Se vedi poche offerte, hai tempo. Se sono tante, muoviti ora.",
-              "visual_hint": "schermo LinkedIn con risultati ricerca",
+              "hook": "La tua app è già multimodale?",
+              "description": "Se non integri più dati in un unico passaggio, perdi efficienza e accuratezza.",
+              "visual_hint": "mano che tocca schermo dati",
+              "layout_type": "human-hand",
+              "icon": "vibration",
+              "image_query": "hand touching data screen"
+            },
+            {
+              "hook": "Unifica il tuo input pipeline",
+              "description": "Modelli unificati costano meno da addestrare e girano più veloci in produzione. Prova ora.",
+              "visual_hint": "freccia che unisce tre icone",
               "layout_type": "cta-final",
-              "icon": "check",
-              "image_query": "LinkedIn profile on screen",
-              "image": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+              "icon": "tag",
+              "image_query": "unified pipeline icon"
             }
           ]
         },
         "tiktok": {
           "script": [
-            "Huang dice che l'AI crea più posti di lavoro.",
-            "Ma se sei tu a essere sostituito, come la mettiamo?",
-            "La svolta arriva quando il tuo settore chiede competenze nuove.",
-            "Più AI avanza, più servono umani per gestirla.",
-            "Apri LinkedIn e cerca 'AI' più la tua area."
+            "Ora un unico encoder gestisce testo, immagini e audio.",
+            "Prima servivano tre modelli separati per ogni tipo di dato.",
+            "La novità è che tutto passa in un unico passaggio.",
+            "Se non unisci i tuoi dati, resti indietro.",
+            "Costa meno ed è più veloce. Provalo."
           ]
         }
       },
@@ -16809,145 +16809,147 @@ window.AGENTS = {
       }
     },
     {
-      "title": "Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries",
+      "title": "Image AI models now drive app growth, beating chatbot upgrades",
       "slides": [
-        "Moment Energy ha raccolto 40 milioni, ma per cosa?",
-        "Usano batterie di EV esauste come storage energetico.",
-        "Un singolo impianto può alimentare 500 case per un giorno.",
-        "I gestori di rete tagliano i costi del 30% subito.",
-        "Testa un progetto pilota con la tua utility locale."
+        "Il tuo next big feature non è un chatbot?",
+        "Le immagini convertono utenti meglio dei testi AI.",
+        "I modelli visivi superano i LLM in retention rate.",
+        "Progetta un onboarding visivo: testa subito un A/B.",
+        "Sostituisci un prompt testuale con una schermata oggi."
       ],
       "thread_text": [
-        "Un singolo impianto può alimentare 500 case per un giorno intero.",
-        "Quell'energia non arriva da pannelli nuovi o turbine. Arriva da batterie di auto elettriche che sembravano finite.",
-        "Moment Energy ha appena raccolto 40 milioni per trasformare quei pacchi esausti in storage per la rete elettrica.",
-        "I gestori di rete che li usano tagliano i costi del 30% da subito. Nessuna installazione da zero, solo riutilizzo.",
-        "Costa meno di un abbonamento Netflix testare un progetto pilota con la tua utility locale. Prova a chiedere."
+        "I modelli visivi tengono gli utenti più a lungo dei LLM. La differenza in retention è misurabile. E se la tua prossima feature è un chatbot, stai scommettendo sulla carta sbagliata.",
+        "Le immagini convertono meglio del testo generato dall'AI. Non è un'opinione: i dati mostrano che una schermata ben progettata spinge l'azione più di qualsiasi prompt.",
+        "Ecco la svolta: se l'onboarding è testuale, perdi utenti prima ancora che inizino. Un onboarding visivo li porta direttamente al valore del prodotto.",
+        "Puoi verificarlo oggi con un A/B test. Metti una schermata contro una spiegazione testuale e guarda i numeri.",
+        "Sostituisci un prompt con una schermata nel tuo prossimo rilascio. Costa meno di un abbonamento Spotify e i risultati arrivano in una settimana."
       ],
       "video_script": [
-        "Un impianto alimenta 500 case al giorno.",
-        "Con batterie di auto finite.",
-        "Moment Energy ha preso 40 milioni.",
-        "Taglio costi del 30% per la rete.",
-        "Chiedi un pilota alla tua utility."
+        "I modelli visivi battono i LLM in retention.",
+        "Le immagini convertono meglio dei testi AI.",
+        "Non è teoria, è dato misurato.",
+        "Onboarding visivo, non testuale.",
+        "Fai subito un A/B test."
       ],
       "savedAt": "2026-05-05T17:20:36.578Z",
       "carousel_slides": [
         {
-          "hook": "500 case, una sola batteria",
-          "description": "Un singolo impianto può alimentare 500 case per un giorno intero.",
-          "visual_hint": "scala di impatto visivo",
+          "hook": "La prossima feature è un errore?",
+          "description": "I modelli visivi tengono gli utenti più a lungo dei LLM. Scommettere su chatbot è rischioso.",
+          "visual_hint": "grafico retention a confronto",
           "layout_type": "hero",
           "icon": "tag",
-          "image_query": "ev battery pack"
+          "image_query": "stock market chart"
         },
         {
-          "hook": "La seconda vita delle EV",
-          "description": "Quell'energia arriva da batterie di auto elettriche che sembravano finite.",
-          "visual_hint": "batteria riconvertita rete",
+          "hook": "Le immagini battono il testo AI",
+          "description": "Una schermata ben progettata spinge l'azione più di qualsiasi prompt. I dati confermano.",
+          "visual_hint": "interfaccia utente schermata",
           "layout_type": "right-focus",
           "icon": "waves",
-          "image_query": "used ev battery"
+          "image_query": "smartphone screen",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Smartphone_lock_screen_enter_PIN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
         },
         {
-          "hook": "40M per stoccaggio infinito",
-          "description": "Moment Energy ha appena raccolto 40 milioni per trasformare quei pacchi esausti in storage per la rete.",
-          "visual_hint": "circuito di accumulo",
+          "hook": "Onboarding testuale? Perdi utenti",
+          "description": "Un onboarding visivo porta direttamente al valore del prodotto. Quello testuale li fa scappare.",
+          "visual_hint": "utente che guarda schermo",
           "layout_type": "sensor-zoom",
           "icon": "heart",
-          "image_query": "energy storage system",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tesvolt_battery_energy_storage_system_Rheineck.jpg/960px-Tesvolt_battery_energy_storage_system_Rheineck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          "image_query": "people walking street",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/People_walking_on_the_street_in_Nairobi%2C_Kenya.jpg/960px-People_walking_on_the_street_in_Nairobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         },
         {
-          "hook": "Costi tagliati del 30%",
-          "description": "I gestori di rete che li usano tagliano i costi del 30% da subito. Nessuna installazione da zero, solo riutilizzo.",
-          "visual_hint": "confronto costi grafico",
+          "hook": "Verificalo oggi con un A/B test",
+          "description": "Metti una schermata contro una spiegazione testuale. I numeri parleranno da soli.",
+          "visual_hint": "split test due varianti",
           "layout_type": "human-hand",
           "icon": "vibration",
-          "image_query": "cost reduction chart",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DOE_2016._Cost_Reductions_Since_2008.jpg/960px-DOE_2016._Cost_Reductions_Since_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          "image_query": "office workers",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         },
         {
-          "hook": "Prova un pilota locale",
-          "description": "Costa meno di un abbonamento Netflix testare un progetto pilota con la tua utility locale. Prova a chiedere.",
-          "visual_hint": "smartphone richiesta utility",
+          "hook": "Sostituisci un prompt con una schermata",
+          "description": "Costa meno di un abbonamento Spotify. I risultati arrivano in una settimana.",
+          "visual_hint": "schermata che sostituisce chat",
           "layout_type": "cta-final",
-          "icon": "tag",
-          "image_query": "smartphone energy app",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pranab_Mukherjee_launching_%27Sajag%27-_a_Smartphone_App_on_Energy_Education%2C_at_Dr._Rajendra_Prasad_Sarvodaya_Vidyalaya%2C_President%27s_Estate%2C_in_New_Delhi._The_Chief_Minister_of_Delhi%2C_Shri_Arvind_Kejriwal_is_also_seen.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          "icon": "check",
+          "image_query": "factory robot",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         }
       ],
-      "instagram_caption": "Dopo il 20% di perdita di efficienza, una batteria di un’auto elettrica scartata dai costruttori può ancora alimentare una casa per anni. Un'azienda ha raccolto 40 milioni di dollari per costruire impianti industriali che danno una seconda vita a queste batterie, usando il loro accumulo per assorbire i picchi della rete elettrica. L’obiettivo concreto è risolvere la carenza di rete 💡 sostituendo i megabatteri nuovi con quelli rigenerati ♻️. Per chi lavora nel settore energia, significa abbattere i costi di stoccaggio e ridurre la dipendenza dal riciclo ⚡. Un'azienda automotive potrebbe già oggi venderti batterie “esauste” pronte per riuso.",
+      "instagram_caption": "I modelli visivi generativi stanno portando più installazioni delle chat: Spotify ha visto un +30% con le cover personalizzate. 🎨 Le immagini generate dall'intelligenza artificiale aumentano i download e migliorano la fidelizzazione, perché le persone vedono il contenuto e restano. Meno aggiornamenti, più utenti fedeli. 📈 Per chi sviluppa app, aggiungere personalizzazione visiva non è più un optional: è la prossima mossa concreta da fare. 🖼️ Il tuo feed è già pieno di immagini AI senza che tu lo sappia?",
       "schema_version": 2,
       "agent": "ai-news",
-      "slug": "moment-energy-raises-40m-to-meet-infinite-demand-f",
+      "slug": "image-ai-models-now-drive-app-growth-beating-chatb",
       "prompt_version": "1.0.0",
       "status": "draft",
       "formats": {
         "x": {
           "thread": [
-            "Un singolo impianto può alimentare 500 case per un giorno intero.",
-            "Quell'energia non arriva da pannelli nuovi o turbine. Arriva da batterie di auto elettriche che sembravano finite.",
-            "Moment Energy ha appena raccolto 40 milioni per trasformare quei pacchi esausti in storage per la rete elettrica.",
-            "I gestori di rete che li usano tagliano i costi del 30% da subito. Nessuna installazione da zero, solo riutilizzo.",
-            "Costa meno di un abbonamento Netflix testare un progetto pilota con la tua utility locale. Prova a chiedere."
+            "I modelli visivi tengono gli utenti più a lungo dei LLM. La differenza in retention è misurabile. E se la tua prossima feature è un chatbot, stai scommettendo sulla carta sbagliata.",
+            "Le immagini convertono meglio del testo generato dall'AI. Non è un'opinione: i dati mostrano che una schermata ben progettata spinge l'azione più di qualsiasi prompt.",
+            "Ecco la svolta: se l'onboarding è testuale, perdi utenti prima ancora che inizino. Un onboarding visivo li porta direttamente al valore del prodotto.",
+            "Puoi verificarlo oggi con un A/B test. Metti una schermata contro una spiegazione testuale e guarda i numeri.",
+            "Sostituisci un prompt con una schermata nel tuo prossimo rilascio. Costa meno di un abbonamento Spotify e i risultati arrivano in una settimana."
           ]
         },
         "instagram": {
-          "caption": "Dopo il 20% di perdita di efficienza, una batteria di un’auto elettrica scartata dai costruttori può ancora alimentare una casa per anni. Un'azienda ha raccolto 40 milioni di dollari per costruire impianti industriali che danno una seconda vita a queste batterie, usando il loro accumulo per assorbire i picchi della rete elettrica. L’obiettivo concreto è risolvere la carenza di rete 💡 sostituendo i megabatteri nuovi con quelli rigenerati ♻️. Per chi lavora nel settore energia, significa abbattere i costi di stoccaggio e ridurre la dipendenza dal riciclo ⚡. Un'azienda automotive potrebbe già oggi venderti batterie “esauste” pronte per riuso.",
+          "caption": "I modelli visivi generativi stanno portando più installazioni delle chat: Spotify ha visto un +30% con le cover personalizzate. 🎨 Le immagini generate dall'intelligenza artificiale aumentano i download e migliorano la fidelizzazione, perché le persone vedono il contenuto e restano. Meno aggiornamenti, più utenti fedeli. 📈 Per chi sviluppa app, aggiungere personalizzazione visiva non è più un optional: è la prossima mossa concreta da fare. 🖼️ Il tuo feed è già pieno di immagini AI senza che tu lo sappia?",
           "carousel": [
             {
-              "hook": "500 case, una sola batteria",
-              "description": "Un singolo impianto può alimentare 500 case per un giorno intero.",
-              "visual_hint": "scala di impatto visivo",
+              "hook": "La prossima feature è un errore?",
+              "description": "I modelli visivi tengono gli utenti più a lungo dei LLM. Scommettere su chatbot è rischioso.",
+              "visual_hint": "grafico retention a confronto",
               "layout_type": "hero",
               "icon": "tag",
-              "image_query": "ev battery pack"
+              "image_query": "stock market chart"
             },
             {
-              "hook": "La seconda vita delle EV",
-              "description": "Quell'energia arriva da batterie di auto elettriche che sembravano finite.",
-              "visual_hint": "batteria riconvertita rete",
+              "hook": "Le immagini battono il testo AI",
+              "description": "Una schermata ben progettata spinge l'azione più di qualsiasi prompt. I dati confermano.",
+              "visual_hint": "interfaccia utente schermata",
               "layout_type": "right-focus",
               "icon": "waves",
-              "image_query": "used ev battery"
+              "image_query": "smartphone screen",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Smartphone_lock_screen_enter_PIN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
             },
             {
-              "hook": "40M per stoccaggio infinito",
-              "description": "Moment Energy ha appena raccolto 40 milioni per trasformare quei pacchi esausti in storage per la rete.",
-              "visual_hint": "circuito di accumulo",
+              "hook": "Onboarding testuale? Perdi utenti",
+              "description": "Un onboarding visivo porta direttamente al valore del prodotto. Quello testuale li fa scappare.",
+              "visual_hint": "utente che guarda schermo",
               "layout_type": "sensor-zoom",
               "icon": "heart",
-              "image_query": "energy storage system",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tesvolt_battery_energy_storage_system_Rheineck.jpg/960px-Tesvolt_battery_energy_storage_system_Rheineck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "image_query": "people walking street",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/People_walking_on_the_street_in_Nairobi%2C_Kenya.jpg/960px-People_walking_on_the_street_in_Nairobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
             },
             {
-              "hook": "Costi tagliati del 30%",
-              "description": "I gestori di rete che li usano tagliano i costi del 30% da subito. Nessuna installazione da zero, solo riutilizzo.",
-              "visual_hint": "confronto costi grafico",
+              "hook": "Verificalo oggi con un A/B test",
+              "description": "Metti una schermata contro una spiegazione testuale. I numeri parleranno da soli.",
+              "visual_hint": "split test due varianti",
               "layout_type": "human-hand",
               "icon": "vibration",
-              "image_query": "cost reduction chart",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DOE_2016._Cost_Reductions_Since_2008.jpg/960px-DOE_2016._Cost_Reductions_Since_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "image_query": "office workers",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
             },
             {
-              "hook": "Prova un pilota locale",
-              "description": "Costa meno di un abbonamento Netflix testare un progetto pilota con la tua utility locale. Prova a chiedere.",
-              "visual_hint": "smartphone richiesta utility",
+              "hook": "Sostituisci un prompt con una schermata",
+              "description": "Costa meno di un abbonamento Spotify. I risultati arrivano in una settimana.",
+              "visual_hint": "schermata che sostituisce chat",
               "layout_type": "cta-final",
-              "icon": "tag",
-              "image_query": "smartphone energy app",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pranab_Mukherjee_launching_%27Sajag%27-_a_Smartphone_App_on_Energy_Education%2C_at_Dr._Rajendra_Prasad_Sarvodaya_Vidyalaya%2C_President%27s_Estate%2C_in_New_Delhi._The_Chief_Minister_of_Delhi%2C_Shri_Arvind_Kejriwal_is_also_seen.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "icon": "check",
+              "image_query": "factory robot",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
             }
           ]
         },
         "tiktok": {
           "script": [
-            "Un impianto alimenta 500 case al giorno.",
-            "Con batterie di auto finite.",
-            "Moment Energy ha preso 40 milioni.",
-            "Taglio costi del 30% per la rete.",
-            "Chiedi un pilota alla tua utility."
+            "I modelli visivi battono i LLM in retention.",
+            "Le immagini convertono meglio dei testi AI.",
+            "Non è teoria, è dato misurato.",
+            "Onboarding visivo, non testuale.",
+            "Fai subito un A/B test."
           ]
         }
       },
@@ -17109,147 +17111,145 @@ window.AGENTS = {
       }
     },
     {
-      "title": "Image AI models now drive app growth, beating chatbot upgrades",
+      "title": "Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries",
       "slides": [
-        "Il tuo next big feature non è un chatbot?",
-        "Le immagini convertono utenti meglio dei testi AI.",
-        "I modelli visivi superano i LLM in retention rate.",
-        "Progetta un onboarding visivo: testa subito un A/B.",
-        "Sostituisci un prompt testuale con una schermata oggi."
+        "Moment Energy ha raccolto 40 milioni, ma per cosa?",
+        "Usano batterie di EV esauste come storage energetico.",
+        "Un singolo impianto può alimentare 500 case per un giorno.",
+        "I gestori di rete tagliano i costi del 30% subito.",
+        "Testa un progetto pilota con la tua utility locale."
       ],
       "thread_text": [
-        "I modelli visivi tengono gli utenti più a lungo dei LLM. La differenza in retention è misurabile. E se la tua prossima feature è un chatbot, stai scommettendo sulla carta sbagliata.",
-        "Le immagini convertono meglio del testo generato dall'AI. Non è un'opinione: i dati mostrano che una schermata ben progettata spinge l'azione più di qualsiasi prompt.",
-        "Ecco la svolta: se l'onboarding è testuale, perdi utenti prima ancora che inizino. Un onboarding visivo li porta direttamente al valore del prodotto.",
-        "Puoi verificarlo oggi con un A/B test. Metti una schermata contro una spiegazione testuale e guarda i numeri.",
-        "Sostituisci un prompt con una schermata nel tuo prossimo rilascio. Costa meno di un abbonamento Spotify e i risultati arrivano in una settimana."
+        "Un singolo impianto può alimentare 500 case per un giorno intero.",
+        "Quell'energia non arriva da pannelli nuovi o turbine. Arriva da batterie di auto elettriche che sembravano finite.",
+        "Moment Energy ha appena raccolto 40 milioni per trasformare quei pacchi esausti in storage per la rete elettrica.",
+        "I gestori di rete che li usano tagliano i costi del 30% da subito. Nessuna installazione da zero, solo riutilizzo.",
+        "Costa meno di un abbonamento Netflix testare un progetto pilota con la tua utility locale. Prova a chiedere."
       ],
       "video_script": [
-        "I modelli visivi battono i LLM in retention.",
-        "Le immagini convertono meglio dei testi AI.",
-        "Non è teoria, è dato misurato.",
-        "Onboarding visivo, non testuale.",
-        "Fai subito un A/B test."
+        "Un impianto alimenta 500 case al giorno.",
+        "Con batterie di auto finite.",
+        "Moment Energy ha preso 40 milioni.",
+        "Taglio costi del 30% per la rete.",
+        "Chiedi un pilota alla tua utility."
       ],
       "savedAt": "2026-05-05T17:20:36.578Z",
       "carousel_slides": [
         {
-          "hook": "La prossima feature è un errore?",
-          "description": "I modelli visivi tengono gli utenti più a lungo dei LLM. Scommettere su chatbot è rischioso.",
-          "visual_hint": "grafico retention a confronto",
+          "hook": "500 case, una sola batteria",
+          "description": "Un singolo impianto può alimentare 500 case per un giorno intero.",
+          "visual_hint": "scala di impatto visivo",
           "layout_type": "hero",
           "icon": "tag",
-          "image_query": "stock market chart"
+          "image_query": "ev battery pack"
         },
         {
-          "hook": "Le immagini battono il testo AI",
-          "description": "Una schermata ben progettata spinge l'azione più di qualsiasi prompt. I dati confermano.",
-          "visual_hint": "interfaccia utente schermata",
+          "hook": "La seconda vita delle EV",
+          "description": "Quell'energia arriva da batterie di auto elettriche che sembravano finite.",
+          "visual_hint": "batteria riconvertita rete",
           "layout_type": "right-focus",
           "icon": "waves",
-          "image_query": "smartphone screen",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Smartphone_lock_screen_enter_PIN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          "image_query": "used ev battery"
         },
         {
-          "hook": "Onboarding testuale? Perdi utenti",
-          "description": "Un onboarding visivo porta direttamente al valore del prodotto. Quello testuale li fa scappare.",
-          "visual_hint": "utente che guarda schermo",
+          "hook": "40M per stoccaggio infinito",
+          "description": "Moment Energy ha appena raccolto 40 milioni per trasformare quei pacchi esausti in storage per la rete.",
+          "visual_hint": "circuito di accumulo",
           "layout_type": "sensor-zoom",
           "icon": "heart",
-          "image_query": "people walking street",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/People_walking_on_the_street_in_Nairobi%2C_Kenya.jpg/960px-People_walking_on_the_street_in_Nairobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          "image_query": "energy storage system",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tesvolt_battery_energy_storage_system_Rheineck.jpg/960px-Tesvolt_battery_energy_storage_system_Rheineck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         },
         {
-          "hook": "Verificalo oggi con un A/B test",
-          "description": "Metti una schermata contro una spiegazione testuale. I numeri parleranno da soli.",
-          "visual_hint": "split test due varianti",
+          "hook": "Costi tagliati del 30%",
+          "description": "I gestori di rete che li usano tagliano i costi del 30% da subito. Nessuna installazione da zero, solo riutilizzo.",
+          "visual_hint": "confronto costi grafico",
           "layout_type": "human-hand",
           "icon": "vibration",
-          "image_query": "office workers",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          "image_query": "cost reduction chart",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DOE_2016._Cost_Reductions_Since_2008.jpg/960px-DOE_2016._Cost_Reductions_Since_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         },
         {
-          "hook": "Sostituisci un prompt con una schermata",
-          "description": "Costa meno di un abbonamento Spotify. I risultati arrivano in una settimana.",
-          "visual_hint": "schermata che sostituisce chat",
+          "hook": "Prova un pilota locale",
+          "description": "Costa meno di un abbonamento Netflix testare un progetto pilota con la tua utility locale. Prova a chiedere.",
+          "visual_hint": "smartphone richiesta utility",
           "layout_type": "cta-final",
-          "icon": "check",
-          "image_query": "factory robot",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          "icon": "tag",
+          "image_query": "smartphone energy app",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pranab_Mukherjee_launching_%27Sajag%27-_a_Smartphone_App_on_Energy_Education%2C_at_Dr._Rajendra_Prasad_Sarvodaya_Vidyalaya%2C_President%27s_Estate%2C_in_New_Delhi._The_Chief_Minister_of_Delhi%2C_Shri_Arvind_Kejriwal_is_also_seen.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         }
       ],
-      "instagram_caption": "I modelli visivi generativi stanno portando più installazioni delle chat: Spotify ha visto un +30% con le cover personalizzate. 🎨 Le immagini generate dall'intelligenza artificiale aumentano i download e migliorano la fidelizzazione, perché le persone vedono il contenuto e restano. Meno aggiornamenti, più utenti fedeli. 📈 Per chi sviluppa app, aggiungere personalizzazione visiva non è più un optional: è la prossima mossa concreta da fare. 🖼️ Il tuo feed è già pieno di immagini AI senza che tu lo sappia?",
+      "instagram_caption": "Dopo il 20% di perdita di efficienza, una batteria di un’auto elettrica scartata dai costruttori può ancora alimentare una casa per anni. Un'azienda ha raccolto 40 milioni di dollari per costruire impianti industriali che danno una seconda vita a queste batterie, usando il loro accumulo per assorbire i picchi della rete elettrica. L’obiettivo concreto è risolvere la carenza di rete 💡 sostituendo i megabatteri nuovi con quelli rigenerati ♻️. Per chi lavora nel settore energia, significa abbattere i costi di stoccaggio e ridurre la dipendenza dal riciclo ⚡. Un'azienda automotive potrebbe già oggi venderti batterie “esauste” pronte per riuso.",
       "schema_version": 2,
       "agent": "ai-news",
-      "slug": "image-ai-models-now-drive-app-growth-beating-chatb",
+      "slug": "moment-energy-raises-40m-to-meet-infinite-demand-f",
       "prompt_version": "1.0.0",
       "status": "draft",
       "formats": {
         "x": {
           "thread": [
-            "I modelli visivi tengono gli utenti più a lungo dei LLM. La differenza in retention è misurabile. E se la tua prossima feature è un chatbot, stai scommettendo sulla carta sbagliata.",
-            "Le immagini convertono meglio del testo generato dall'AI. Non è un'opinione: i dati mostrano che una schermata ben progettata spinge l'azione più di qualsiasi prompt.",
-            "Ecco la svolta: se l'onboarding è testuale, perdi utenti prima ancora che inizino. Un onboarding visivo li porta direttamente al valore del prodotto.",
-            "Puoi verificarlo oggi con un A/B test. Metti una schermata contro una spiegazione testuale e guarda i numeri.",
-            "Sostituisci un prompt con una schermata nel tuo prossimo rilascio. Costa meno di un abbonamento Spotify e i risultati arrivano in una settimana."
+            "Un singolo impianto può alimentare 500 case per un giorno intero.",
+            "Quell'energia non arriva da pannelli nuovi o turbine. Arriva da batterie di auto elettriche che sembravano finite.",
+            "Moment Energy ha appena raccolto 40 milioni per trasformare quei pacchi esausti in storage per la rete elettrica.",
+            "I gestori di rete che li usano tagliano i costi del 30% da subito. Nessuna installazione da zero, solo riutilizzo.",
+            "Costa meno di un abbonamento Netflix testare un progetto pilota con la tua utility locale. Prova a chiedere."
           ]
         },
         "instagram": {
-          "caption": "I modelli visivi generativi stanno portando più installazioni delle chat: Spotify ha visto un +30% con le cover personalizzate. 🎨 Le immagini generate dall'intelligenza artificiale aumentano i download e migliorano la fidelizzazione, perché le persone vedono il contenuto e restano. Meno aggiornamenti, più utenti fedeli. 📈 Per chi sviluppa app, aggiungere personalizzazione visiva non è più un optional: è la prossima mossa concreta da fare. 🖼️ Il tuo feed è già pieno di immagini AI senza che tu lo sappia?",
+          "caption": "Dopo il 20% di perdita di efficienza, una batteria di un’auto elettrica scartata dai costruttori può ancora alimentare una casa per anni. Un'azienda ha raccolto 40 milioni di dollari per costruire impianti industriali che danno una seconda vita a queste batterie, usando il loro accumulo per assorbire i picchi della rete elettrica. L’obiettivo concreto è risolvere la carenza di rete 💡 sostituendo i megabatteri nuovi con quelli rigenerati ♻️. Per chi lavora nel settore energia, significa abbattere i costi di stoccaggio e ridurre la dipendenza dal riciclo ⚡. Un'azienda automotive potrebbe già oggi venderti batterie “esauste” pronte per riuso.",
           "carousel": [
             {
-              "hook": "La prossima feature è un errore?",
-              "description": "I modelli visivi tengono gli utenti più a lungo dei LLM. Scommettere su chatbot è rischioso.",
-              "visual_hint": "grafico retention a confronto",
+              "hook": "500 case, una sola batteria",
+              "description": "Un singolo impianto può alimentare 500 case per un giorno intero.",
+              "visual_hint": "scala di impatto visivo",
               "layout_type": "hero",
               "icon": "tag",
-              "image_query": "stock market chart"
+              "image_query": "ev battery pack"
             },
             {
-              "hook": "Le immagini battono il testo AI",
-              "description": "Una schermata ben progettata spinge l'azione più di qualsiasi prompt. I dati confermano.",
-              "visual_hint": "interfaccia utente schermata",
+              "hook": "La seconda vita delle EV",
+              "description": "Quell'energia arriva da batterie di auto elettriche che sembravano finite.",
+              "visual_hint": "batteria riconvertita rete",
               "layout_type": "right-focus",
               "icon": "waves",
-              "image_query": "smartphone screen",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Smartphone_lock_screen_enter_PIN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              "image_query": "used ev battery"
             },
             {
-              "hook": "Onboarding testuale? Perdi utenti",
-              "description": "Un onboarding visivo porta direttamente al valore del prodotto. Quello testuale li fa scappare.",
-              "visual_hint": "utente che guarda schermo",
+              "hook": "40M per stoccaggio infinito",
+              "description": "Moment Energy ha appena raccolto 40 milioni per trasformare quei pacchi esausti in storage per la rete.",
+              "visual_hint": "circuito di accumulo",
               "layout_type": "sensor-zoom",
               "icon": "heart",
-              "image_query": "people walking street",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/People_walking_on_the_street_in_Nairobi%2C_Kenya.jpg/960px-People_walking_on_the_street_in_Nairobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "image_query": "energy storage system",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tesvolt_battery_energy_storage_system_Rheineck.jpg/960px-Tesvolt_battery_energy_storage_system_Rheineck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
             },
             {
-              "hook": "Verificalo oggi con un A/B test",
-              "description": "Metti una schermata contro una spiegazione testuale. I numeri parleranno da soli.",
-              "visual_hint": "split test due varianti",
+              "hook": "Costi tagliati del 30%",
+              "description": "I gestori di rete che li usano tagliano i costi del 30% da subito. Nessuna installazione da zero, solo riutilizzo.",
+              "visual_hint": "confronto costi grafico",
               "layout_type": "human-hand",
               "icon": "vibration",
-              "image_query": "office workers",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff/lossy-page1-960px-Office_workers%2C_Paris_-_UNESCO_-_PHOTO0000002920_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "image_query": "cost reduction chart",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DOE_2016._Cost_Reductions_Since_2008.jpg/960px-DOE_2016._Cost_Reductions_Since_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
             },
             {
-              "hook": "Sostituisci un prompt con una schermata",
-              "description": "Costa meno di un abbonamento Spotify. I risultati arrivano in una settimana.",
-              "visual_hint": "schermata che sostituisce chat",
+              "hook": "Prova un pilota locale",
+              "description": "Costa meno di un abbonamento Netflix testare un progetto pilota con la tua utility locale. Prova a chiedere.",
+              "visual_hint": "smartphone richiesta utility",
               "layout_type": "cta-final",
-              "icon": "check",
-              "image_query": "factory robot",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Factory_Automation_Robotics_Palettizing_Bread.jpg/960px-Factory_Automation_Robotics_Palettizing_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              "icon": "tag",
+              "image_query": "smartphone energy app",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pranab_Mukherjee_launching_%27Sajag%27-_a_Smartphone_App_on_Energy_Education%2C_at_Dr._Rajendra_Prasad_Sarvodaya_Vidyalaya%2C_President%27s_Estate%2C_in_New_Delhi._The_Chief_Minister_of_Delhi%2C_Shri_Arvind_Kejriwal_is_also_seen.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
             }
           ]
         },
         "tiktok": {
           "script": [
-            "I modelli visivi battono i LLM in retention.",
-            "Le immagini convertono meglio dei testi AI.",
-            "Non è teoria, è dato misurato.",
-            "Onboarding visivo, non testuale.",
-            "Fai subito un A/B test."
+            "Un impianto alimenta 500 case al giorno.",
+            "Con batterie di auto finite.",
+            "Moment Energy ha preso 40 milioni.",
+            "Taglio costi del 30% per la rete.",
+            "Chiedi un pilota alla tua utility."
           ]
         }
       },
@@ -17705,6 +17705,153 @@ window.AGENTS = {
       }
     },
     {
+      "title": "Katie Haun raises $1B for new venture funds",
+      "slides": [
+        "Katie Haun ha raccolto 1 miliardo? Cosa farà?",
+        "Ha lasciato a16z per fondare Haun Ventures",
+        "Due fondi: uno per early-stage, uno per late",
+        "Crypto VCs ora scommettono su di lei, non solo Bitcoin",
+        "Segui i deal che farà: il settore cambierà rotta"
+      ],
+      "thread_text": [
+        "Ha lasciato a16z, ha raccolto 1 miliardo e ora tutti guardano lei. Katie Haun ha appena lanciato due fondi crypto separati. Uno per startup early-stage, l'altro per late. Il mercato non scommette più solo su Bitcoin.",
+        "Per anni i grandi VC crypto hanno puntato tutto su infrastruttura e Bitcoin. Ora cambiano strategia: puntano su una fondatrice che ha già scalato a16z. Haun Ventures è il test.",
+        "Il primo fondo investe in team prima del product-market fit. Il secondo compra token già liquidi. Due mosse opposte — ma insieme coprono l'intero ciclo di vita di un progetto crypto.",
+        "Perché questa mossa è diversa? Perché Haun non fa solo early-stage. Prova a costruire una macchina da venture capital crypto completa. Se funziona, diventa il modello per tutti i fondi che arriveranno.",
+        "Segui i suoi primi deal pubblici. Quando investirà, decine di fondi seguiranno. Quel deal cambierà rotta per un intero settore. Tienilo sul radar."
+      ],
+      "video_script": [
+        "Katie Haun ha lasciato a16z.",
+        "Ha raccolto un miliardo di dollari.",
+        "Due fondi separati: early e late.",
+        "I grandi investitori scommettono su di lei.",
+        "Segui dove investe: cambierà tutto."
+      ],
+      "savedAt": "2026-05-05T15:25:02.038Z",
+      "carousel_slides": [
+        {
+          "hook": "Ha lasciato a16z per questo",
+          "description": "Katie Haun raccoglie 1 miliardo per due fondi crypto separati. Il mercato non punta più solo su Bitcoin.",
+          "visual_hint": "Milestone con effetto zoom",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "crypto growth chart"
+        },
+        {
+          "hook": "Due fondi, due strategie",
+          "description": "Uno investe in startup early-stage, l'altro in token liquidi. Coprono l'intero ciclo di vita crypto.",
+          "visual_hint": "Due frecce divergenti",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "two arrows diverging"
+        },
+        {
+          "hook": "Il primo deal cambierà tutto",
+          "description": "Primo fondo punta su team pre-product-market fit. Secondo compra token già negoziati. Mossa opposta ma complementare.",
+          "visual_hint": "Lente d'ingrandimento su deal",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass contract",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff/lossy-page1-960px-Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        {
+          "hook": "Cosa cambia per i VC crypto",
+          "description": "Haun costruisce una macchina da venture capital completa. Se funziona, diventa il modello per tutti i fondi futuri.",
+          "visual_hint": "Mappa mentale in espansione",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "mind map network",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Mind_Map_Gene_Co-Expression_Networks.drawio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        {
+          "hook": "Segui i suoi deal pubblici",
+          "description": "Quando investirà, decine di fondi seguiranno. Quel deal cambierà rotta per un intero settore.",
+          "visual_hint": "Radar con punti luccicanti",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "radar screen scanning"
+        }
+      ],
+      "instagram_caption": "Katie Haun ha lasciato Andreessen Horowitz e ha raccolto un miliardo di dollari per lanciare due fondi dedicati alle criptovalute 🚀. Uno investirà in startup early-stage, l’altro in token già liquidi: insieme coprono ogni fase di un progetto crypto 💡. La mossa? Non puntare più solo su Bitcoin o infrastruttura, ma su un modello completo di venture capital digitale. Per chi lavora nel settore significa che i prossimi deal di Haun diventeranno la bussola del mercato. Hai già il suo radar acceso? 📡",
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "katie-haun-raises-1b-for-new-venture-funds",
+      "prompt_version": "1.0.0",
+      "status": "draft",
+      "formats": {
+        "x": {
+          "thread": [
+            "Ha lasciato a16z, ha raccolto 1 miliardo e ora tutti guardano lei. Katie Haun ha appena lanciato due fondi crypto separati. Uno per startup early-stage, l'altro per late. Il mercato non scommette più solo su Bitcoin.",
+            "Per anni i grandi VC crypto hanno puntato tutto su infrastruttura e Bitcoin. Ora cambiano strategia: puntano su una fondatrice che ha già scalato a16z. Haun Ventures è il test.",
+            "Il primo fondo investe in team prima del product-market fit. Il secondo compra token già liquidi. Due mosse opposte — ma insieme coprono l'intero ciclo di vita di un progetto crypto.",
+            "Perché questa mossa è diversa? Perché Haun non fa solo early-stage. Prova a costruire una macchina da venture capital crypto completa. Se funziona, diventa il modello per tutti i fondi che arriveranno.",
+            "Segui i suoi primi deal pubblici. Quando investirà, decine di fondi seguiranno. Quel deal cambierà rotta per un intero settore. Tienilo sul radar."
+          ]
+        },
+        "instagram": {
+          "caption": "Katie Haun ha lasciato Andreessen Horowitz e ha raccolto un miliardo di dollari per lanciare due fondi dedicati alle criptovalute 🚀. Uno investirà in startup early-stage, l’altro in token già liquidi: insieme coprono ogni fase di un progetto crypto 💡. La mossa? Non puntare più solo su Bitcoin o infrastruttura, ma su un modello completo di venture capital digitale. Per chi lavora nel settore significa che i prossimi deal di Haun diventeranno la bussola del mercato. Hai già il suo radar acceso? 📡",
+          "carousel": [
+            {
+              "hook": "Ha lasciato a16z per questo",
+              "description": "Katie Haun raccoglie 1 miliardo per due fondi crypto separati. Il mercato non punta più solo su Bitcoin.",
+              "visual_hint": "Milestone con effetto zoom",
+              "layout_type": "hero",
+              "icon": "tag",
+              "image_query": "crypto growth chart"
+            },
+            {
+              "hook": "Due fondi, due strategie",
+              "description": "Uno investe in startup early-stage, l'altro in token liquidi. Coprono l'intero ciclo di vita crypto.",
+              "visual_hint": "Due frecce divergenti",
+              "layout_type": "right-focus",
+              "icon": "waves",
+              "image_query": "two arrows diverging"
+            },
+            {
+              "hook": "Il primo deal cambierà tutto",
+              "description": "Primo fondo punta su team pre-product-market fit. Secondo compra token già negoziati. Mossa opposta ma complementare.",
+              "visual_hint": "Lente d'ingrandimento su deal",
+              "layout_type": "sensor-zoom",
+              "icon": "heart",
+              "image_query": "magnifying glass contract",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff/lossy-page1-960px-Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            {
+              "hook": "Cosa cambia per i VC crypto",
+              "description": "Haun costruisce una macchina da venture capital completa. Se funziona, diventa il modello per tutti i fondi futuri.",
+              "visual_hint": "Mappa mentale in espansione",
+              "layout_type": "human-hand",
+              "icon": "vibration",
+              "image_query": "mind map network",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Mind_Map_Gene_Co-Expression_Networks.drawio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            {
+              "hook": "Segui i suoi deal pubblici",
+              "description": "Quando investirà, decine di fondi seguiranno. Quel deal cambierà rotta per un intero settore.",
+              "visual_hint": "Radar con punti luccicanti",
+              "layout_type": "cta-final",
+              "icon": "tag",
+              "image_query": "radar screen scanning"
+            }
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Katie Haun ha lasciato a16z.",
+            "Ha raccolto un miliardo di dollari.",
+            "Due fondi separati: early e late.",
+            "I grandi investitori scommettono su di lei.",
+            "Segui dove investe: cambierà tutto."
+          ]
+        }
+      },
+      "metrics": {
+        "x": {},
+        "instagram": {},
+        "tiktok": {}
+      }
+    },
+    {
       "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
       "slides": [
         "Sierra ha raccolto 950 milioni. Chi resterà indietro?",
@@ -17846,153 +17993,6 @@ window.AGENTS = {
             "Non sono i chatbot a fare la differenza.",
             "I workflow autonomi sono il vero affare.",
             "Se non inizi ora, paghi il doppio dopo."
-          ]
-        }
-      },
-      "metrics": {
-        "x": {},
-        "instagram": {},
-        "tiktok": {}
-      }
-    },
-    {
-      "title": "Katie Haun raises $1B for new venture funds",
-      "slides": [
-        "Katie Haun ha raccolto 1 miliardo? Cosa farà?",
-        "Ha lasciato a16z per fondare Haun Ventures",
-        "Due fondi: uno per early-stage, uno per late",
-        "Crypto VCs ora scommettono su di lei, non solo Bitcoin",
-        "Segui i deal che farà: il settore cambierà rotta"
-      ],
-      "thread_text": [
-        "Ha lasciato a16z, ha raccolto 1 miliardo e ora tutti guardano lei. Katie Haun ha appena lanciato due fondi crypto separati. Uno per startup early-stage, l'altro per late. Il mercato non scommette più solo su Bitcoin.",
-        "Per anni i grandi VC crypto hanno puntato tutto su infrastruttura e Bitcoin. Ora cambiano strategia: puntano su una fondatrice che ha già scalato a16z. Haun Ventures è il test.",
-        "Il primo fondo investe in team prima del product-market fit. Il secondo compra token già liquidi. Due mosse opposte — ma insieme coprono l'intero ciclo di vita di un progetto crypto.",
-        "Perché questa mossa è diversa? Perché Haun non fa solo early-stage. Prova a costruire una macchina da venture capital crypto completa. Se funziona, diventa il modello per tutti i fondi che arriveranno.",
-        "Segui i suoi primi deal pubblici. Quando investirà, decine di fondi seguiranno. Quel deal cambierà rotta per un intero settore. Tienilo sul radar."
-      ],
-      "video_script": [
-        "Katie Haun ha lasciato a16z.",
-        "Ha raccolto un miliardo di dollari.",
-        "Due fondi separati: early e late.",
-        "I grandi investitori scommettono su di lei.",
-        "Segui dove investe: cambierà tutto."
-      ],
-      "savedAt": "2026-05-05T15:25:02.038Z",
-      "carousel_slides": [
-        {
-          "hook": "Ha lasciato a16z per questo",
-          "description": "Katie Haun raccoglie 1 miliardo per due fondi crypto separati. Il mercato non punta più solo su Bitcoin.",
-          "visual_hint": "Milestone con effetto zoom",
-          "layout_type": "hero",
-          "icon": "tag",
-          "image_query": "crypto growth chart"
-        },
-        {
-          "hook": "Due fondi, due strategie",
-          "description": "Uno investe in startup early-stage, l'altro in token liquidi. Coprono l'intero ciclo di vita crypto.",
-          "visual_hint": "Due frecce divergenti",
-          "layout_type": "right-focus",
-          "icon": "waves",
-          "image_query": "two arrows diverging"
-        },
-        {
-          "hook": "Il primo deal cambierà tutto",
-          "description": "Primo fondo punta su team pre-product-market fit. Secondo compra token già negoziati. Mossa opposta ma complementare.",
-          "visual_hint": "Lente d'ingrandimento su deal",
-          "layout_type": "sensor-zoom",
-          "icon": "heart",
-          "image_query": "magnifying glass contract",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff/lossy-page1-960px-Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-        },
-        {
-          "hook": "Cosa cambia per i VC crypto",
-          "description": "Haun costruisce una macchina da venture capital completa. Se funziona, diventa il modello per tutti i fondi futuri.",
-          "visual_hint": "Mappa mentale in espansione",
-          "layout_type": "human-hand",
-          "icon": "vibration",
-          "image_query": "mind map network",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Mind_Map_Gene_Co-Expression_Networks.drawio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-        },
-        {
-          "hook": "Segui i suoi deal pubblici",
-          "description": "Quando investirà, decine di fondi seguiranno. Quel deal cambierà rotta per un intero settore.",
-          "visual_hint": "Radar con punti luccicanti",
-          "layout_type": "cta-final",
-          "icon": "tag",
-          "image_query": "radar screen scanning"
-        }
-      ],
-      "instagram_caption": "Katie Haun ha lasciato Andreessen Horowitz e ha raccolto un miliardo di dollari per lanciare due fondi dedicati alle criptovalute 🚀. Uno investirà in startup early-stage, l’altro in token già liquidi: insieme coprono ogni fase di un progetto crypto 💡. La mossa? Non puntare più solo su Bitcoin o infrastruttura, ma su un modello completo di venture capital digitale. Per chi lavora nel settore significa che i prossimi deal di Haun diventeranno la bussola del mercato. Hai già il suo radar acceso? 📡",
-      "schema_version": 2,
-      "agent": "ai-news",
-      "slug": "katie-haun-raises-1b-for-new-venture-funds",
-      "prompt_version": "1.0.0",
-      "status": "draft",
-      "formats": {
-        "x": {
-          "thread": [
-            "Ha lasciato a16z, ha raccolto 1 miliardo e ora tutti guardano lei. Katie Haun ha appena lanciato due fondi crypto separati. Uno per startup early-stage, l'altro per late. Il mercato non scommette più solo su Bitcoin.",
-            "Per anni i grandi VC crypto hanno puntato tutto su infrastruttura e Bitcoin. Ora cambiano strategia: puntano su una fondatrice che ha già scalato a16z. Haun Ventures è il test.",
-            "Il primo fondo investe in team prima del product-market fit. Il secondo compra token già liquidi. Due mosse opposte — ma insieme coprono l'intero ciclo di vita di un progetto crypto.",
-            "Perché questa mossa è diversa? Perché Haun non fa solo early-stage. Prova a costruire una macchina da venture capital crypto completa. Se funziona, diventa il modello per tutti i fondi che arriveranno.",
-            "Segui i suoi primi deal pubblici. Quando investirà, decine di fondi seguiranno. Quel deal cambierà rotta per un intero settore. Tienilo sul radar."
-          ]
-        },
-        "instagram": {
-          "caption": "Katie Haun ha lasciato Andreessen Horowitz e ha raccolto un miliardo di dollari per lanciare due fondi dedicati alle criptovalute 🚀. Uno investirà in startup early-stage, l’altro in token già liquidi: insieme coprono ogni fase di un progetto crypto 💡. La mossa? Non puntare più solo su Bitcoin o infrastruttura, ma su un modello completo di venture capital digitale. Per chi lavora nel settore significa che i prossimi deal di Haun diventeranno la bussola del mercato. Hai già il suo radar acceso? 📡",
-          "carousel": [
-            {
-              "hook": "Ha lasciato a16z per questo",
-              "description": "Katie Haun raccoglie 1 miliardo per due fondi crypto separati. Il mercato non punta più solo su Bitcoin.",
-              "visual_hint": "Milestone con effetto zoom",
-              "layout_type": "hero",
-              "icon": "tag",
-              "image_query": "crypto growth chart"
-            },
-            {
-              "hook": "Due fondi, due strategie",
-              "description": "Uno investe in startup early-stage, l'altro in token liquidi. Coprono l'intero ciclo di vita crypto.",
-              "visual_hint": "Due frecce divergenti",
-              "layout_type": "right-focus",
-              "icon": "waves",
-              "image_query": "two arrows diverging"
-            },
-            {
-              "hook": "Il primo deal cambierà tutto",
-              "description": "Primo fondo punta su team pre-product-market fit. Secondo compra token già negoziati. Mossa opposta ma complementare.",
-              "visual_hint": "Lente d'ingrandimento su deal",
-              "layout_type": "sensor-zoom",
-              "icon": "heart",
-              "image_query": "magnifying glass contract",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff/lossy-page1-960px-Galaxy_Cluster_Abell_2218_-_a_Cosmic_Magnifying_Glass_%28heic9910b%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-            },
-            {
-              "hook": "Cosa cambia per i VC crypto",
-              "description": "Haun costruisce una macchina da venture capital completa. Se funziona, diventa il modello per tutti i fondi futuri.",
-              "visual_hint": "Mappa mentale in espansione",
-              "layout_type": "human-hand",
-              "icon": "vibration",
-              "image_query": "mind map network",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Mind_Map_Gene_Co-Expression_Networks.drawio.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-            },
-            {
-              "hook": "Segui i suoi deal pubblici",
-              "description": "Quando investirà, decine di fondi seguiranno. Quel deal cambierà rotta per un intero settore.",
-              "visual_hint": "Radar con punti luccicanti",
-              "layout_type": "cta-final",
-              "icon": "tag",
-              "image_query": "radar screen scanning"
-            }
-          ]
-        },
-        "tiktok": {
-          "script": [
-            "Katie Haun ha lasciato a16z.",
-            "Ha raccolto un miliardo di dollari.",
-            "Due fondi separati: early e late.",
-            "I grandi investitori scommettono su di lei.",
-            "Segui dove investe: cambierà tutto."
           ]
         }
       },

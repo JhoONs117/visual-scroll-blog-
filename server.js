@@ -38,27 +38,37 @@ http.createServer((req, res) => {
         const dir = OUTPUT_DIRS[agent];
         if (!dir) { res.writeHead(400); res.end('Unknown agent'); return; }
 
-        // Find file by article.slug field
-        let found = null;
-        for (const fname of fs.readdirSync(dir).filter(f => f.endsWith('.json'))) {
+        // Find ALL files with this slug and update status in each
+        const allFiles = fs.readdirSync(dir).filter(f => f.endsWith('.json'));
+        let updatedCount = 0;
+        for (const fname of allFiles) {
           const fpath = path.join(dir, fname);
           try {
             const article = JSON.parse(fs.readFileSync(fpath, 'utf8'));
-            if (article.slug === slug) { found = { fpath, article }; break; }
+            if (article.slug === slug) {
+              article.status = status;
+              fs.writeFileSync(fpath, JSON.stringify(article, null, 2));
+              updatedCount++;
+            }
           } catch { /* skip corrupt */ }
         }
-        if (!found) { res.writeHead(404); res.end('Article not found'); return; }
+        if (updatedCount === 0) { res.writeHead(404); res.end('Article not found'); return; }
 
-        found.article.status = status;
-        fs.writeFileSync(found.fpath, JSON.stringify(found.article, null, 2));
+        // Rebuild + git push in background (chained so push happens after rebuild)
+        const token = process.env.GIT_TOKEN;
+        const pushCmd = token
+          ? `git remote set-url origin "https://${token}@github.com/JhoONs117/visual-scroll-blog-.git" && ` +
+            `git add output/ output/food/ output/fitness/ frontend/data-agents.js && ` +
+            `git diff --cached --quiet || git commit -m "auto: ${status} ${slug}" && ` +
+            `git push`
+          : 'true';
 
-        // Rebuild data-agents.js in background (non-blocking)
-        spawn('node', ['scripts/build-data-agents.js'], {
-          cwd: __dirname, detached: true, stdio: 'ignore'
-        }).unref();
+        spawn('sh', ['-c',
+          `cd "${__dirname}" && node scripts/build-data-agents.js && ${pushCmd}`
+        ], { detached: true, stdio: 'ignore' }).unref();
 
         res.writeHead(200, { 'Content-Type': 'application/json' });
-        res.end(JSON.stringify({ ok: true, slug, status }));
+        res.end(JSON.stringify({ ok: true, slug, status, updatedFiles: updatedCount }));
       } catch (e) {
         res.writeHead(500); res.end('Error: ' + e.message);
       }
