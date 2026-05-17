@@ -26,9 +26,10 @@ Non è necessario capire tutto il codice: ogni sezione indica esattamente quale 
 17. [Variabili d'ambiente — lista completa e dove configurarle](#17-variabili-dambiente--lista-completa-e-dove-configurarle)
 18. [Checklist debug — quando qualcosa non funziona](#18-checklist-debug--quando-qualcosa-non-funziona)
 19. [Come gestire review_queue.json e rimuovere un articolo](#19-come-gestire-review_queuejson-e-rimuovere-un-articolo)
-20. [Come usare il feed multi-agente (AI News / 5 Step Food)](#20-come-usare-il-feed-multi-agente)
+20. [Come usare il feed multi-agente (AI News / Food / Fitness)](#20-come-usare-il-feed-multi-agente)
 21. [Come eseguire e configurare la pipeline food](#21-come-eseguire-e-configurare-la-pipeline-food)
-22. [Come scaricare i carousel food come PNG per Instagram](#22-come-scaricare-i-carousel-food-come-png)
+22. [Come scaricare i carousel food come PNG per Instagram](#22-come-scaricare-i-carousel-food-come-png) → vedi §15
+23. [Come approvare articoli per FASE 12](#23-come-approvare-articoli-per-fase-12)
 
 ---
 
@@ -327,7 +328,7 @@ Railway serve solo `frontend/` — i JSON grezzi in `output/` non gli servono. S
 
 ## 10. Come usare la pagina di review
 
-`frontend/review.html` è una pagina locale per leggere e copiare tutti i contenuti generati. Supporta entrambi gli agenti tramite il dropdown in cima.
+`frontend/review.html` è una pagina locale per leggere e copiare tutti i contenuti generati. Supporta tutti gli agenti tramite l'header sticky in cima. Utilizza lo schema v2 (`window.AGENTS`).
 
 **Per aprirla:**
 
@@ -336,26 +337,38 @@ xdg-open /home/miki/visual-scroll-blog/frontend/review.html
 # oppure su Windows/WSL: explorer.exe frontend/review.html
 ```
 
-**Cosa mostra per ogni articolo:**
+**Cosa mostra per ogni articolo (schema v2):**
 - Titolo + data relativa ("2h fa", "ieri", "3gg fa")
+- **Badge agente** (⚡ AI News / 🍳 Food / 💪 Fitness) + **status pill** (`ok` / `review_queue` / `draft`)
+- **`prompt_version`** — versione del prompt usata per generare l'articolo
 - Slide numerate (1-5)
-- Thread X (5 tweet pronti da postare)
-- Script video (5 righe parlate)
-- Tasto **"Copia tutto"** → copia in un click titolo + slide + thread + script
+- **Select canale** — dropdown X / Instagram / TikTok per visualizzare il formato corretto
+- Sezioni per canale:
+  - **X**: Thread (5 tweet pronti da postare)
+  - **Instagram**: Caption + carousel hook
+  - **TikTok**: Script video (5 righe parlate)
+- Tasto **"Copia"** per canale — copia il testo del canale selezionato
+- Tasto **"Approva"** per ogni articolo — imposta `status: 'approved'` nel JSON (toggle: clicca di nuovo per tornare a `draft`)
+
+**Barra progresso FASE12:**
+In cima alla pagina c'è una barra `X/30 approvati` che avanza man mano che approvi gli articoli. Quando raggiunge 30 il colore diventa verde: è la soglia per iniziare la FASE 12 (pipeline video).
 
 **Cambiare agente:**
-- Usa il dropdown ⚡ AI News / 🍳 5 Step Food in alto a sinistra
-- Selezionando "5 Step Food" carica dinamicamente `data-food.js` e mostra le ricette food
-- Il titolo cambia automaticamente ("Review articoli" → "Review ricette")
-- I link di navigazione portano a: ← Feed, Carousel AI, Carousel Food
+- Usa il dropdown nell'header sticky: ⚡ AI News / 🍳 5 Step Food / 💪 Fitness
+- I dati vengono letti da `window.AGENTS[agentId]` in `data-agents.js` (generato da `build-data-agents.js`)
+- Il titolo della pagina cambia automaticamente con l'agente selezionato
 
 **Flusso di utilizzo consigliato:**
-1. Apri `review.html`
+1. Apri `http://localhost:3000/review.html` (deve girare `node server.js`)
 2. Scegli l'agente con il dropdown
 3. Scorri gli articoli (quelli completi di thread sono mostrati per primi)
-4. Leggi il contenuto — click **Copia tutto** → incolla su X, LinkedIn o Instagram
+4. Seleziona il canale target con il select (X / Instagram / TikTok)
+5. Click **Copia** → incolla direttamente sulla piattaforma
+6. Click **Approva** sugli articoli migliori → il JSON viene aggiornato su disco
 
-> Per AI News legge `data.js`; per Food carica `data-food.js` dinamicamente. Entrambi devono essere stati generati prima con `node run.js` / `node run-food.js` o dal cron GitHub Actions.
+> ⚠️ Aprire `review.html` direttamente dal filesystem (`file://`) blocca il tasto Approva per CORS. Usare sempre `http://localhost:3000/review.html`.
+
+> Legge `data-agents.js` che contiene tutti e tre gli agenti. Deve essere stato generato da `scripts/build-data-agents.js` (o dal cron GitHub Actions).
 
 ---
 
@@ -411,10 +424,9 @@ SWIPE VERTICALE   → notizia/ricetta successiva / precedente
 ```
 
 **Agent bar (in cima):**
-- Barra fissa di 36px: dropdown ⚡ AI News / 🍳 5 Step Food + link Review e Carousel
-- `setSizes()` sottrae 36px da `--vh` per compensare — lo snap snap funziona correttamente
-- Selezionando Food: carica `data-food.js` dinamicamente e chiama `renderFeed(FOOD_ARTICLES)`
-- Selezionando AI News: ripristina `originalArticles` senza fetch aggiuntive
+- Barra fissa di 36px: dropdown ⚡ AI News / 🍳 5 Step Food / 💪 Fitness + link Review e Carousel
+- `setSizes()` sottrae 36px da `--vh` per compensare — lo snap funziona correttamente
+- Tutti gli agenti sono caricati da `data-agents.js` (`window.AGENTS`) — cambio agente senza fetch aggiuntivi
 
 **Struttura HTML:**
 - `#agent-bar` — barra fissa in cima, z-index 100
@@ -555,18 +567,34 @@ pexels s2-5    — Trovate: 76 | Non trovate: 0
 
 ## 15. Come scaricare le slide carousel come PNG per Instagram
 
-Ci sono due pagine carousel — una per agente. Entrambe producono PNG 1080×1350px (4:5 esatto, pronto per Instagram).
+C'è una sola pagina carousel unificata — usa il parametro `?agent=` per selezionare l'agente. Produce PNG 1080×1350px (4:5 esatto, pronto per Instagram).
 
-### Carousel AI News — `carousel.html`
+### URL carousel
 
+**Online (Railway):**
 ```
-https://visual-scroll-blog-production.up.railway.app/carousel.html
+https://visual-scroll-blog-production.up.railway.app/carousel.html?agent=ai-news
+https://visual-scroll-blog-production.up.railway.app/carousel.html?agent=food
 ```
-oppure in locale: `frontend/carousel.html` (richiede `data.js` aggiornato).
 
-Palette: dark tech, blu/indigo, Inter 900. Badge dinamico da dominio articolo. Handle `@FlashAI`.
+**In locale:**
+```
+frontend/carousel.html?agent=ai-news   (richiede data-agents.js aggiornato)
+frontend/carousel.html?agent=food      (richiede node server.js per download PNG food — vedi nota proxy)
+```
 
-**Sezioni sotto le slide** (identiche a carousel-food):
+Il default senza `?agent=` è `ai-news`.
+
+### Palette per agente
+
+| Agente | Palette | Badge | Handle |
+|---|---|---|---|
+| `ai-news` | Dark tech, blu/indigo | Dominio articolo dinamico | `@FlashAI` |
+| `food` | Olive #3d5a3e, arancio #e07b39, crema #f7efe3 | `5 STEP FOOD` | `@FlashKitchen` |
+
+Slide 1 food: riga sensoriale `signature_ingredients` (arancio) tra hook e micro-promessa.
+
+### Sezioni sotto le slide (uguali per tutti gli agenti)
 
 | Sezione | Contenuto | Uso |
 |---|---|---|
@@ -575,24 +603,13 @@ Palette: dark tech, blu/indigo, Inter 900. Badge dinamico da dominio articolo. H
 | **Caption Instagram** | Testo narrativo + emoji (tasto Copia) | Descrizione per post IG |
 | **Script Video (Reel / TikTok)** | 5 righe parlate, max 10 parole | Voice-over per Reel / TikTok |
 
-Nella barra in alto appare anche il link **"↗ Fonte"** (allineato a destra) per aprire l'articolo originale.
+Nella barra in alto: link **"↗ Fonte"** (allineato a destra) se l'articolo ha un link sorgente. Accanto alla fonte: **status pill** (colore per stato: grigio=draft, verde=approved, blu=published, giallo=scheduled, rosso=failed) e **tasto Approva** (toggle draft ↔ approved).
 
-### Carousel Food — `carousel-food.html`
+**Dropdown articoli:** gli articoli approvati mostrano `✅` come prefisso nel menu a tendina — a colpo d'occhio si vede cosa è già stato approvato senza selezionarlo.
 
-```
-https://visual-scroll-blog-production.up.railway.app/carousel-food.html
-```
-oppure in locale: `frontend/carousel-food.html` (richiede `data-food.js` aggiornato).
+**Contatore FASE12:** nella selector bar (accanto al conteggio articoli) compare `X/30 approvati` — diventa verde quando raggiungi la soglia.
 
-Palette: olive #3d5a3e, arancio #e07b39, crema #f7efe3. Badge "5 STEP FOOD". Handle `@FlashKitchen`.  
-Slide 1: riga sensoriale ingredienti firma (arancio) tra titolo e micro-promessa.  
-Sezioni extra sotto le slide: hook titoli, thread X, caption Instagram (con copia), script video.
-
-### Navigare tra i carousel
-
-Entrambe le pagine hanno un dropdown ⚡ AI News / 🍳 5 Step Food nell'header — selezionando l'altro agente naviga alla pagina corrispondente.
-
-### Scaricare le slide (identico su entrambe le pagine)
+### Scaricare le slide
 
 Seleziona un articolo/ricetta dal menu, poi:
 
@@ -602,23 +619,46 @@ Seleziona un articolo/ricetta dal menu, poi:
 | **Bottone "Scarica tutte e 5"** in alto | Scarica 5 PNG in sequenza |
 | **Click sulla slide** | Modal con anteprima — tasto destro "Salva immagine" (desktop) / tieni premuto (mobile) |
 
+### Nota proxy per download PNG food (locale)
+
+Le immagini GialloZafferano non hanno CORS headers — html2canvas non può leggere i pixel direttamente. Il download PNG food richiede che `node server.js` sia in esecuzione in locale:
+
+```bash
+# In un terminale separato:
+node /home/miki/visual-scroll-blog/server.js
+# poi apri frontend/carousel.html?agent=food nel browser
+```
+
+Il server espone `/proxy-image?url=...` che fetcha l'immagine server-to-server (senza CORS) e la restituisce con `Access-Control-Allow-Origin: *`.
+
+**In produzione (Railway)** `server.js` è sempre in esecuzione — il proxy funziona automaticamente.
+
+**Immagini Pexels** (slide 2-5) non richiedono il proxy: hanno già CORS headers e `useCORS: true` le gestisce direttamente.
+
 ### Note per Instagram
 
 - Formato: 1080×1350px (4:5) — Instagram lo accetta senza crop automatico
 - Quando posti su IG seleziona **"Originale"** (non "Quadrato")
 - Per un carousel a 5 slide: scarica tutte e 5 → carica in sequenza nella stessa post
-- Per il food: usa la `instagram_caption` già generata (visibile sotto le slide in `carousel-food.html`)
+- Per il food: usa la `instagram_caption` già generata (visibile sotto le slide)
 
 ### Flusso rapido per un post Instagram AI News
 
-1. Apri `carousel.html`
+1. Apri `carousel.html` (o `carousel.html?agent=ai-news`)
 2. Seleziona l'articolo dal menu
 3. Scarica le 5 slide PNG (bottone "Scarica tutte e 5")
 4. Copia la **Caption Instagram** con il tasto Copia (sotto le slide)
 5. Clicca **"↗ Fonte"** per rileggere l'articolo originale se vuoi verificare i fatti
 6. Su Instagram: crea nuovo post → carica i 5 PNG in ordine → incolla la caption → aggiungi hashtag manualmente
 
-> Se le immagini non compaiono nel PNG, è un limite CORS — le slide mostreranno il gradiente tematico come fallback (comunque visivamente corretto).
+### Flusso rapido per un post Instagram food
+
+1. Assicurati che `node server.js` sia in esecuzione (solo in locale)
+2. Apri `carousel.html?agent=food`
+3. Seleziona la ricetta dal menu
+4. Scarica le 5 slide PNG
+5. Copia la **Caption Instagram** con il tasto Copia
+6. Su Instagram: carica i 5 PNG → incolla la caption → aggiungi hashtag manualmente
 
 ---
 
@@ -942,33 +982,46 @@ git push
 
 ## 20. Come usare il feed multi-agente
 
-Il feed (`frontend/index.html`) mostra due agenti: AI News e 5 Step Food. Il cambio avviene senza ricaricare la pagina.
+Il feed (`frontend/index.html`) mostra tutti gli agenti: AI News, 5 Step Food, Fitness. Il cambio avviene senza ricaricare la pagina. Tutti i dati sono caricati da `data-agents.js` (`window.AGENTS`).
 
 ### Cambiare agente nel feed
 
 Usa il dropdown nell'`#agent-bar` in cima alla pagina:
-- **⚡ AI News** (default): mostra le notizie AI con palette dark blu
-- **🍳 5 Step Food**: carica le ricette food con palette olive/arancio
+- **⚡ AI News** (default): notizie AI con palette dark blu
+- **🍳 5 Step Food**: ricette food con palette olive/arancio
+- **💪 Fitness**: articoli fitness (quando disponibili)
 
-Alla prima selezione di Food, il browser carica `data-food.js` in background (una volta sola).  
-Tornando su AI News si ripristina la lista originale senza fetch aggiuntive.
+I dati vengono letti da `window.AGENTS[agentId]` già caricato in `data-agents.js` — nessun fetch aggiuntivo al cambio agente.
 
 ### Navigare tra le pagine
 
 Dalla `#agent-bar` (in alto a destra):
-- **Review** → `review.html` — contenuti completi, copia testo
-- **Carousel** → `carousel.html` — anteprima e download PNG AI news
+- **Review** → `review.html` — contenuti completi, copia testo per canale
+- **Carousel** → `carousel.html?agent=<id>` — anteprima e download PNG
 
-Da `review.html` e dalle pagine carousel ci sono link per tornare al feed o passare all'altra pagina.
+Da `review.html` e dalla pagina carousel ci sono link per tornare al feed.
 
 ### Identificare l'agente nel feed
 
-| Elemento | AI News | 5 Step Food |
-|---|---|---|
-| Badge | NOTIZIA / CONTESTO / … | 5 STEP FOOD |
-| Gradiente visual | Dark blue/indigo | Olive/arancio radiale |
-| Dot attivo | Blu `#3b82f6` | Arancio `#e07b39` |
-| Sorgente (sotto slide) | "AI News · N ore fa · link" | "5 Step Food · N ore fa · link" |
+| Elemento | AI News | 5 Step Food | Fitness |
+|---|---|---|---|
+| Badge | NOTIZIA / CONTESTO / … | 5 STEP FOOD | FITNESS |
+| Gradiente visual | Dark blue/indigo | Olive/arancio radiale | (palette propria) |
+| Dot attivo | Blu `#3b82f6` | Arancio `#e07b39` | Colore fitness |
+| Sorgente (sotto slide) | "AI News · N ore fa · link" | "5 Step Food · N ore fa · link" | "Fitness · N ore fa · link" |
+
+### Dati: `data-agents.js` e `build-data-agents.js`
+
+`frontend/data-agents.js` è generato da `scripts/build-data-agents.js` che legge:
+- `output/` → agente `ai-news`
+- `output/food/` → agente `food`
+- `output/fitness/` → agente `fitness`
+
+Il file è aggiornato automaticamente dalla pipeline GitHub Actions ad ogni run. Per rigenerarlo manualmente:
+```bash
+cd /home/miki/visual-scroll-blog
+node scripts/build-data-agents.js
+```
 
 ---
 
@@ -1047,23 +1100,58 @@ Con `MAX_NEW_FOOD_ARTICLES=0` non processa nuovi articoli ma ricostruisce `data-
 
 ## 22. Come scaricare i carousel food come PNG
 
-Vedi §15 per la procedura completa (identica a AI news). La pagina dedicata è `carousel-food.html`.
+`carousel-food.html` è stato rimosso. Il carousel food è ora integrato in `carousel.html?agent=food`.
 
-### Cosa trovi sotto le slide in `carousel-food.html`
+Vedi **§15** per la procedura completa — il flusso rapido per food è incluso lì.
 
-Dopo le 5 anteprime carousel, la pagina mostra automaticamente per ogni ricetta selezionata:
+---
 
-| Sezione | Contenuto | Uso |
-|---|---|---|
-| **Hook Titoli Slide** | I 5 hook in formato lista copiabile | Titoli per storie Instagram / TikTok overlay |
-| **Thread X** | 5 tweet in sequenza | Incolla direttamente su X/Twitter |
-| **Caption Instagram** | Testo narrativo 4-6 righe + emoji | Descrizione per post IG (tasto Copia) |
-| **Script Video** | 5 righe parlate, max 10 parole | Voice-over per Reel / TikTok |
+## 23. Come approvare articoli per FASE 12
 
-### Flusso rapido per un post Instagram food
+La FASE 12 (pipeline video automatica) richiede almeno **30 articoli approvati** prima di essere avviata. Il meccanismo di approvazione è già implementato.
 
-1. Apri `carousel-food.html`
-2. Seleziona la ricetta dal menu
-3. Scarica le 5 slide PNG (bottone "Scarica tutte e 5")
-4. Copia la **Caption Instagram** con il tasto Copia
-5. Su Instagram: crea nuovo post → carica i 5 PNG in ordine → incolla la caption → aggiungi hashtag manualmente
+### Dove approvare
+
+**Da `carousel.html` (consigliato — è la view principale):**
+1. Assicurati che `node server.js` sia in esecuzione
+2. Apri `http://localhost:3000/carousel.html`
+3. Seleziona un articolo dal menu a tendina
+4. Controlla le 5 slide, il thread X, la caption
+5. Click **Approva** nella barra in alto (a destra del link Fonte)
+6. Il pill diventa verde ("approved") e il contatore nella selector bar si aggiorna
+
+**Da `review.html`:**
+1. Apri `http://localhost:3000/review.html`
+2. Scorri gli articoli
+3. Click **Approva** in fondo a ogni articolo
+
+### Come funziona internamente
+
+`POST /api/set-status` in `server.js`:
+- Trova il JSON dell'articolo in `output/` (o `output/food/`) tramite `article.slug`
+- Scrive `status: "approved"` nel file
+- Lancia `node scripts/build-data-agents.js` in background per aggiornare `data-agents.js`
+
+Il toggle funziona: cliccare di nuovo su un articolo approvato lo riporta a `draft`.
+
+### Come salvare le approvazioni su Railway
+
+**L'approvazione è locale.** Railway ha filesystem effimero — al prossimo redeploy CI perderebbe le modifiche. Il flusso corretto:
+
+```bash
+# Dopo aver approvato X articoli in locale
+git add output/ output/food/
+git commit -m "approva articoli per FASE 12 (X/30)"
+git push
+# Railway rideploya con gli status aggiornati dal repo
+```
+
+### Indicatori visivi
+
+| Dove | Indicatore |
+|---|---|
+| Dropdown `carousel.html` | `✅ ✓ Titolo` — prefisso emoji per gli approvati |
+| Selector bar `carousel.html` | `X/30 approvati` (verde quando ≥ 30) |
+| Pill articolo in `carousel.html` | Verde chiaro con testo "approved" |
+| Barra `review.html` | Barra di progresso con fill verde |
+| Pill articolo in `review.html` | Verde con testo "approved" |

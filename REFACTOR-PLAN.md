@@ -1,12 +1,34 @@
 # Refactor Multi-Agente — Piano Operativo per Claude Code
 
 Documento: guida step-by-step con prompt pronti e test per ogni fase.
-Aggiornato: 2026-05-14 | Prerequisito: Food Agent STEP 1–8 completati ✅
+Aggiornato: 2026-05-17 | Prerequisito: Food Agent STEP 1–8 completati ✅
 Correlato a: PROJECT.md · MANUAL.md · FOOD-AGENT.md
 
 > **Obiettivo finale:** il terzo agente (fitness) deve richiedere solo
 > `agents/fitness/config.js` + `agents/fitness/prompts.js` + `agents/fitness/filters.js`.
 > Nessun nuovo `run-*.js`, `fetch-*.js`, `generate-*.js`, `data-*.js`, `carousel-*.html`.
+
+---
+
+## Stato implementazione (2026-05-17)
+
+| Fase | Stato | Note |
+|---|---|---|
+| FASE 0 — Baseline | ✅ Completa | `scripts/baseline.js` creato |
+| FASE 1 — Schema v2 | ✅ Completa | Tutti i JSON migrati, alias legacy presenti |
+| FASE 1B — Protezione backfill | ✅ Completa | `backfill.js`, `regenerate-all.js`, `backfill-carousel.js` skippano file v2 |
+| FASE 2 — Cache split | ⏭ Saltata | `cache.json` mantiene prefissi (`food:*`, `ainews:*`, `md5`) — split non necessario in questa fase; runner unico usa path per-agente dalla config |
+| FASE 3 — Registry agenti e canali | ✅ Completa | `agents/index.js`, `channels/index.js` |
+| FASE 4 — Config agenti | ✅ Completa | `agents/ai-news/config.js`, `agents/food/config.js`, `agents/fitness/config.js` |
+| FASE 5 — Runner unico | ✅ Completa | `core/run-agent.js` — orchestra AI news, food, fitness |
+| FASE 6 — Migrazione food sul runner | ✅ Completa | Food gira su `core/run-agent.js` in CI |
+| FASE 7 — Migrazione AI news sul runner | ✅ Completa | AI news gira su `core/run-agent.js` in CI |
+| FASE 8 — Channel adapters | ✅ Completa | `channels/x.js`, `channels/instagram.js`, `channels/tiktok.js` |
+| FASE 9 — Agente fitness | ✅ Completa | `agents/fitness/` completo, `output/fitness/`, in CI |
+| FASE 10 — data-agents.js | ✅ Completa | `window.AGENTS = {ai-news, food, fitness}`, `scripts/build-data-agents.js` |
+| FASE 11 — Review multi-canale | ✅ Completa | Badge agente, status pill, prompt_version, select X/IG/TikTok, copia per canale |
+| FASE 12 — Automazione publish | 🔒 Bloccata | Meccanismo approvazione ✅ pronto (`POST /api/set-status` + tasto Approva in review.html + carousel.html). Sblocca con 30 `status: 'approved'`. |
+| FASE 13 — Carousel unico | ✅ Completa | `carousel.html?agent=ai-news\|food`; proxy `/proxy-image` in `server.js` per food; `carousel-food.html` rimosso definitivamente |
 
 ---
 
@@ -18,13 +40,13 @@ Correlato a: PROJECT.md · MANUAL.md · FOOD-AGENT.md
 3. Ogni fase è verificabile in isolamento prima di procedere alla successiva.
 4. Non aggiungere fitness o altri agenti prima che FASE 7 sia stabile.
 5. I JSON in output/ e output/food/ non vengono spostati finché non è esplicitamente previsto.
-6. Il frontend (index.html, review.html, carousel.html, carousel-food.html) non viene
-   toccato prima della FASE 10.
+6. Il frontend (index.html, review.html, carousel.html) non viene
+   toccato prima della FASE 10. [carousel-food.html rimosso in FASE 13]
 ```
 
 ---
 
-## FASE 0 — Freeze + Baseline
+## FASE 0 — Freeze + Baseline ✅
 
 **Obiettivo:** fotografare lo stato attuale. Nessuna modifica al codice di produzione.
 Tutto ciò che fai qui serve come confronto dopo ogni fase successiva.
@@ -57,7 +79,7 @@ cache.json       : N chiavi totali
 
 5. Se unknown > 0, stampare le chiavi unknown per ispezione manuale.
 6. Salvare il riepilogo anche in scripts/baseline-snapshot.txt (sovrascrive ogni run).
-
+2
 Non modificare nessun altro file.
 ```
 
@@ -91,7 +113,7 @@ prima dello split in FASE 2.
 
 ---
 
-## FASE 1 — Schema v2 senza rompere legacy
+## FASE 1 — Schema v2 senza rompere legacy ✅
 
 **Obiettivo:** definire e migrare allo schema v2. I vecchi campi restano come alias.
 Nessuna modifica ai runner, nessuna modifica al frontend.
@@ -281,7 +303,7 @@ node scripts/baseline.js
 
 ---
 
-## FASE 1B — Protezione backfill legacy
+## FASE 1B — Protezione backfill legacy ✅
 
 **Obiettivo:** impedire che `backfill.js`, `regenerate-all.js`, `backfill-carousel.js`
 sovrascrivano file v2 con output v1 durante la transizione.
@@ -322,9 +344,15 @@ node scripts/contract-test.js
 
 ---
 
-## FASE 2 — Cache split
+## FASE 2 — Cache split ⏭ (saltata)
 
-**Obiettivo:** dividere `cache.json` in `cache/ai-news.json` e `cache/food.json`.
+> **Nota (2026-05-17):** questa fase è stata saltata. `cache.json` mantiene la struttura
+> con prefissi per agente (`food:*`, `ainews:*`, `md5 puri`). Le config degli agenti in
+> FASE 4 dichiarano il `cacheFile` per-agente, ma in pratica i runner legacy (`run.js`,
+> `run-food.js`) usano ancora `cache.json`. Lo split può essere fatto in futuro se
+> si vuole parallelizzare i runner — non è urgente con il cron sequenziale attuale.
+
+**Obiettivo originale:** dividere `cache.json` in `cache/ai-news.json` e `cache/food.json`.
 Dopo questo step i runner possono girare in parallelo senza write conflict.
 
 ### Prompt Claude Code — split script
@@ -421,7 +449,7 @@ node scripts/contract-test.js
 
 ---
 
-## FASE 3 — Registry agenti e canali
+## FASE 3 — Registry agenti e canali ✅
 
 **Obiettivo:** creare i registry come unico punto di registrazione.
 Nessun codice di produzione cambia — solo struttura dichiarativa.
@@ -476,7 +504,7 @@ node -e "const channels = require('./channels/index'); console.log('channels reg
 
 ---
 
-## FASE 4 — Config agenti
+## FASE 4 — Config agenti ✅
 
 **Obiettivo:** estrarre la configurazione specifica di ogni agente in un file dichiarativo.
 I runner originali (`run.js`, `run-food.js`) non vengono toccati in questa fase.
@@ -626,7 +654,7 @@ MAX_NEW_FOOD_ARTICLES=0 node run-food.js
 
 ---
 
-## FASE 5 — Runner unico a step opzionali
+## FASE 5 — Runner unico a step opzionali ✅
 
 **Obiettivo:** creare `core/run-agent.js`. Il runner non conosce AI news o food —
 orchestra solo i step dichiarati nella config.
@@ -717,7 +745,7 @@ MAX_NEW_FOOD_ARTICLES=0 node run-food.js
 
 ---
 
-## FASE 6 — Migrazione food sul runner unico
+## FASE 6 — Migrazione food sul runner unico ✅
 
 **Obiettivo:** far girare il food agent attraverso `core/run-agent.js`.
 `output/food/` e `data-food.js` restano invariati. Il frontend non cambia.
@@ -786,7 +814,7 @@ aggiungi `node core/run-agent.js food` a `pipeline.yml` come alternativa a `run-
 
 ---
 
-## FASE 7 — Migrazione AI news sul runner unico
+## FASE 7 — Migrazione AI news sul runner unico ✅
 
 **Obiettivo:** far girare AI news attraverso `core/run-agent.js`.
 `output/` e `data.js` restano invariati. `review_queue.json` resta supportata.
@@ -868,7 +896,7 @@ MAX_NEW_ARTICLES=0 node run.js
 
 ---
 
-## FASE 8 — Channel adapters comuni
+## FASE 8 — Channel adapters comuni ✅
 
 **Obiettivo:** separare "generare contenuto" da "formattarlo per un canale".
 Gli agenti producono contenuto base. I canali normalizzano in `formats.*`.
@@ -925,7 +953,7 @@ console.log('caption dopo adapt:', adapted2.formats.instagram.caption?.slice(0,5
 
 ---
 
-## FASE 9 — Aggiunta agente fitness
+## FASE 9 — Aggiunta agente fitness ✅
 
 **Prerequisiti prima di iniziare questa fase:**
 - food gira su `core/run-agent.js` in produzione da almeno 1 settimana ✓
@@ -977,7 +1005,7 @@ Crea l'agente fitness seguendo esattamente la struttura del food agent.
    - maxNewEnv: 'MAX_NEW_FITNESS_ARTICLES'
    - feeds: ['https://www.gazzetta.it/rss/fitness.xml']  (o feed da verificare)
    - gate: looksLikeFitnessContent
-   - theme: palette verde/grigio (scegli tu colori coerenti)
+   - theme: palette giallo/nero (scegli tu colori coerenti)
 
 4. Aggiorna agents/index.js aggiungendo:
    'fitness': require('./fitness/config')
@@ -1012,7 +1040,7 @@ node scripts/baseline.js
 
 ---
 
-## FASE 10 — data-agents.js (commit atomico)
+## FASE 10 — data-agents.js (commit atomico) ✅
 
 **Obiettivo:** unificare `data.js` e `data-food.js` in `window.AGENTS`.
 **Questo commit deve toccare esattamente questi file in una sola operazione:**
@@ -1077,7 +1105,7 @@ node scripts/contract-test.js
 
 ---
 
-## FASE 11 — Review multi-canale
+## FASE 11 — Review multi-canale ✅
 
 **Obiettivo:** aggiornare `review.html` per mostrare agente, canale, status, prompt_version.
 
@@ -1115,29 +1143,844 @@ open http://localhost:3000/review.html
 
 ---
 
-## FASE 12 — Automazione publish (future)
+## FASE 12 — Media Pipeline & Autonomous Publishing 🔒 (bloccata)
 
-**Prerequisito:** flusso manuale stabile su tutti e 3 gli agenti.
+**Prerequisito hard:** almeno 30 articoli con `status: 'approved'` impostato
+manualmente da `review.html` o `carousel.html`. Il dato è più importante dell'automazione.
+Non iniziare questa fase prima.
 
-```
-publish/
-  scheduler.js       ← legge articoli con status: 'approved', pianifica
-  publisher-x.js     ← posta thread su X via API
-  publisher-instagram.js ← carica carousel + caption su Instagram
-  publisher-tiktok.js    ← upload video/script su TikTok
-
-Workflow status:
-draft → approved → scheduled → published → failed
-                                         ↳ retry (max 3)
-```
-
-> Non implementare questa fase finché lo stato `approved` non viene impostato
-> manualmente da review.html per almeno 30 articoli. Il dato è più importante
-> dell'automazione.
+**Meccanismo approvazione — già implementato (2026-05-17):**
+- `POST /api/set-status` in `server.js` — trova il JSON per `article.slug`, scrive `status`, rilancia `build-data-agents.js` in background
+- `review.html` — tasto Approva per ogni articolo + barra progresso `X/30 approvati`
+- `carousel.html` — status pill + tasto Approva nella barra DL + contatore `X/30 approvati` nella selector bar + `✅` emoji nel dropdown per articoli approvati
+- **Flusso di salvataggio:** approva in locale → `git add output/ && git commit && git push` → Railway rideploya con gli status dal repo (il filesystem Railway è effimero)
 
 ---
 
-## FASE 13 — Carousel unico (ultimo step)
+### 12.0 — Prerequisiti tecnici
+
+Prima di scrivere una riga di codice, verifica tutto questo:
+
+```bash
+# 1. ffmpeg disponibile in locale
+ffmpeg -version
+# Atteso: versione >= 4.x
+
+# 2. drawtext disponibile (richiede libfreetype — non sempre compilato)
+ffmpeg -filters 2>&1 | grep drawtext
+# Atteso: "drawtext" nella lista
+# Se assente: i sottotitoli non funzioneranno — installa ffmpeg con libfreetype
+
+# 3. ffprobe disponibile (per verifica finale video)
+ffprobe -version
+
+# 4. Font incluso nel repo per consistenza locale/CI
+# Aggiungere: assets/fonts/Inter-Bold.ttf
+# Non usare mai font di sistema — il path diverge tra macOS e Linux CI
+
+# 5. Verificare che renders/ sia escluso da git e Railway
+grep "renders" .gitignore        # deve esserci output/*/renders/
+grep "renders" .railwayignore    # deve esserci output/*/renders/
+```
+
+**GitHub Actions** richiede uno step dedicato:
+```yaml
+- name: Install ffmpeg
+  run: sudo apt-get install -y ffmpeg
+```
+Aggiungere a `.github/workflows/pipeline.yml` solo quando la FASE 12 è pronta
+per CI — non prima.
+
+**Scelta TTS (decidere prima di V1):**
+
+| Provider | Costo | Qualità | wpm stimato |
+|---|---|---|---|
+| OpenAI TTS | ~$0.015/1K chars | buona | ~130 wpm |
+| ElevenLabs | ~$0.30/1K chars | ottima | ~120 wpm |
+
+La scelta impatta `estimateDuration()` — il divisore cambia.
+Hardcodare il provider nella config dell'agente: `ttsProvider: 'openai'`.
+
+**`.gitignore` e `.railwayignore`** — aggiungere subito, prima di qualsiasi render:
+```
+# Video renders — mai committare mp4
+output/*/renders/
+output/renders/
+```
+
+**Formato export fisso:** `1080×1920` (9:16), H264, max 50MB per TikTok.
+Nessuna eccezione — mp4 più grandi vengono rifiutati dall'upload API.
+
+---
+
+### 12.1 — Principi architetturali
+
+```
+1. Gli agenti NON conoscono i canali.
+2. I canali NON conoscono gli agenti.
+3. Il contenuto base è unico — video_scenes sta a root dell'articolo, non in formats.
+4. Gli adapter trasformano il contenuto per ogni piattaforma.
+5. Rendering media è separato dalla pubblicazione.
+6. Nessun rendering blocca la pipeline principale.
+7. Se video fallisce → render_status = failed, ma thread/carousel continuano invariati.
+8. In fase di test: massimo 2 articoli esistenti per le prove. Mai --all in CI.
+```
+
+---
+
+### 12.2 — Schema contenuto canonico aggiornato
+
+Lo schema v2 si estende con i nuovi campi video. `video_scenes` sta a **root**,
+non dentro `formats.tiktok` — le stesse scene potranno diventare Reel Instagram
+o YouTube Short in V2.
+
+```json
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "...",
+  "title": "...",
+  "prompt_version": "1.0.0",
+  "status": "draft",
+  "render_status": "pending",
+  "render_version": "1",
+  "publish_status": {
+    "x": "pending",
+    "instagram": "pending",
+    "tiktok": "pending"
+  },
+  "publish_error": {
+    "x": null,
+    "instagram": null,
+    "tiktok": null
+  },
+
+  "slides": [],
+  "carousel_slides": [],
+  "video_scenes": [
+    {
+      "scene": 1,
+      "voice": "This sensor will fix your posture forever.",
+      "subtitle": "Fix your posture forever",
+      "query": "man with bad posture office",
+      "duration": 3,
+      "motion": "zoom-in",
+      "transition": "fade"
+    }
+  ],
+
+  "formats": {
+    "x":         { "thread": [] },
+    "instagram": { "caption": "", "carousel": [] },
+    "tiktok":    { "script": [], "reel": { "scenes_ref": "video_scenes" } }
+  },
+
+  "metrics": {
+    "x":         {},
+    "instagram": {},
+    "tiktok":    {}
+  }
+}
+```
+
+> **`render_version`:** campo stringa, inizia a `"1"`. Quando aggiorni il renderer
+> (V1 → V2), incrementa. Permette di sapere quali video vanno rigenerati senza
+> ispezionare il file mp4.
+
+> **`publish_error`:** salva il messaggio di errore per canale. Esempio:
+> `"tiktok": "file size 58MB exceeds limit 50MB"`. Senza questo campo un errore
+> CI di 3 giorni fa è irrecuperabile.
+
+> **`render_status` separato da `status`:** il render può fallire indipendentemente
+> dall'approvazione. Così puoi ripubblicare solo su TikTok senza ri-approvare l'articolo.
+
+---
+
+### 12.3 — Stack tecnico V1
+
+| Layer | Tool | Ruolo | Costo |
+|---|---|---|---|
+| Scene generation | DeepSeek | genera query semantiche + pacing | quasi zero |
+| Stock video | Pexels Video API | clip verticali, B-roll | gratis |
+| Voice | OpenAI TTS o ElevenLabs | voiceover per scena | ~0.1–0.5 €/video |
+| Rendering | ffmpeg | composizione, crop, subtitles | gratis |
+| Font | `assets/fonts/Inter-Bold.ttf` | subtitles consistenti | gratis |
+| Export | ffmpeg H264 | mp4 1080×1920 | gratis |
+
+**Stima costi V1:** 100–300 video/mese ≈ 5–15 € (solo TTS).
+Il costo vero è CPU render time, non API.
+
+---
+
+### 12.4 — Architettura video: ordine fisso delle operazioni
+
+Questo ordine non è negoziabile. Claude Code deve rispettarlo senza parallelizzare
+i passi 2–4, perché la durata calcolata in 2 influenza sia 3 che 4.
+
+```
+1. generateVideoScenes(article)
+   → 5 scene con voice text, query, motion, transition
+
+2. estimateDuration(scene.voice)      ← fonte vera della durata
+   → durata deterministica da parole, NON da DeepSeek, NON da ffprobe
+
+3. fetchPexelsVideo(query, { sceneIndex, usedClipIds, minDuration: dur + 0.5 })
+   → clip garantita abbastanza lunga (minDuration = durata scena + 0.5s buffer)
+
+4. TTS(scene.voice)
+   → file audio per ogni scena
+
+5. ffmpeg compose
+   → resize + crop verticale + motion + subtitles + concatenazione + voiceover
+   → export mp4 1080×1920 H264
+
+6. ffprobe verify (solo verifica finale — non usato per timing)
+   → controlla durata totale, dimensione file, codec
+```
+
+---
+
+### 12.5 — `estimateDuration(text)`
+
+```js
+// core/video-utils.js
+function estimateDuration(text, wpm = 130) {
+  // wpm: 130 per OpenAI TTS, 120 per ElevenLabs
+  const words = text.trim().split(/\s+/).length;
+  return Math.max(2.5, Math.min(5, Math.ceil(words * 60 / wpm)));
+}
+```
+
+**Regola:** la `duration` nelle `video_scenes` generate da DeepSeek è solo
+un suggerimento. Il renderer la ignora e ricalcola sempre da `voice`.
+
+---
+
+### 12.6 — `generateVideoScenes(article)`
+
+```
+// Funzione in agents/{agentId}/prompts.js o in core/generate-video.js
+
+Input:
+  article.video_script   → 5 righe parlate
+  article.carousel_slides → visual_hint per ogni slide
+  article.title
+
+Output per ogni scena:
+  voice      → testo parlato (uguale a video_script[i])
+  subtitle   → versione abbreviata (max 5 parole) per overlay
+  query      → query semantica per Pexels Video (es. "man with bad posture office")
+  motion     → "zoom-in" | "zoom-out" | "pan-right" | "pan-left" | "static"
+  transition → "fade" | "cut" | "slide"
+  duration   → stima DeepSeek (ignorata dal renderer — viene ricalcolata)
+
+Prompt DeepSeek:
+  Usa visual_hint e voice per generare query Pexels semanticamente coerenti.
+  Non inventare query generiche. La query deve descrivere una scena reale
+  che si trova nel B-roll stock: persone, oggetti, ambienti, azioni.
+  Esempi buoni: "chef slicing vegetables kitchen", "runner morning city park"
+  Esempi sbagliati: "concept of innovation", "abstract technology"
+```
+
+---
+
+### 12.7 — `fetchPexelsVideo(query, options)`
+
+```js
+// core/fetch-video.js
+
+async function fetchPexelsVideo(query, options = {}) {
+  const {
+    sceneIndex    = 0,
+    usedClipIds   = new Set(),
+    minDuration   = 3,         // deve essere sceneDuration + 0.5
+    orientation   = 'portrait'
+  } = options;
+
+  // 1. Controlla cache: cache/video-clips/{hash(query)}.json
+  //    La cache contiene un ARRAY di risultati, non un singolo clip
+  const cached = loadVideoCache(query);
+  const results = cached || await searchPexels(query, { orientation, minDuration });
+
+  // 2. Salva array in cache se nuovi risultati
+  if (!cached) saveVideoCache(query, results);
+
+  // 3. Scegli clip con anti-duplicato
+  //    results[sceneIndex % results.length] — clip diversa per scene diverse
+  //    Se la clip è già in usedClipIds, prova la successiva (max results.length tentativi)
+  let clip = null;
+  for (let i = 0; i < results.length; i++) {
+    const candidate = results[(sceneIndex + i) % results.length];
+    if (!usedClipIds.has(candidate.id)) {
+      clip = candidate;
+      usedClipIds.add(candidate.id);
+      break;
+    }
+  }
+
+  // 4. Fallback: black clip se nessuna clip trovata o disponibile
+  if (!clip) return { type: 'black', duration: minDuration };
+
+  return { type: 'video', url: clip.video_files[0].link, id: clip.id };
+}
+```
+
+**Nota rate limit Pexels Video:** stesso limite delle immagini (200 req/ora),
+ma le response sono più pesanti. Non fare backfill massivi in CI.
+Il flag `--limit` nel renderer è obbligatorio — vedi sezione 12.10.
+
+---
+
+### 12.8 — Fallback: black clip con subtitle
+
+Quando Pexels non trova clip (o tutte sono già usate), il renderer genera
+una clip nera **con traccia audio silenziosa** tramite ffmpeg:
+
+```bash
+ffmpeg \
+  -f lavfi -i color=c=black:s=1080x1920:r=30 \
+  -f lavfi -i anullsrc=r=44100:cl=stereo \
+  -t DURATION \
+  -shortest \
+  -c:v libx264 -c:a aac \
+  black_scene.mp4
+```
+
+> **Critico:** la traccia audio silenziosa (`anullsrc`) è obbligatoria.
+> Senza di essa, la concatenazione con `concat` filter fallisce se altre
+> clip hanno audio, producendo output con desync o errore silenzioso.
+
+Sopra la black clip vengono applicati:
+- Subtitle grande centrato (font `Inter-Bold.ttf`, size 64)
+- Badge agente in basso (`theme.badge`)
+- Gradiente sottile del tema agente (opzionale V1.1)
+
+---
+
+### 12.9 — Pipeline ffmpeg: crop verticale
+
+Il problema principale con Pexels: le clip sono spesso 16:9, non 9:16.
+Il resize diretto produce bande nere. La soluzione è `scale + crop + setsar`:
+
+```bash
+# Per clip orizzontale (es. 1920x1080) → verticale (1080x1920)
+ffmpeg -i clip.mp4 \
+  -vf "scale=1920:1080,crop=1080:1920:420:0,setsar=1" \
+  -c:v libx264 clip_vertical.mp4
+
+# Per clip già verticale o portrait (es. 1080x1920)
+ffmpeg -i clip.mp4 \
+  -vf "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1" \
+  -c:v libx264 clip_vertical.mp4
+```
+
+> **`setsar=1`** normalizza il Sample Aspect Ratio — senza di esso alcuni
+> player mostrano il video distorto anche se le dimensioni sono corrette.
+
+**Strip audio da tutte le clip prima della concatenazione:**
+```bash
+ffmpeg -i clip.mp4 -an -c:v libx264 clip_noaudio.mp4
+```
+Regola V1: una sola traccia audio finale (il voiceover).
+Non mescolare audio nativo delle clip con il voiceover.
+
+---
+
+### 12.10 — `render-video.js` — vincoli obbligatori V1
+
+```
+render/render-video.js
+
+Flag obbligatori:
+  --agent   ai-news | food | fitness
+  --slug    slug dell'articolo specifico
+  --limit   numero massimo articoli (default: 1, massimo in test: 2)
+
+Regole hardcoded:
+  1. --all non esiste. Mai. Aggiungere questo controllo esplicito:
+     if (process.argv.includes('--all')) {
+       console.error('❌ --all non è supportato. Usa --limit 2 per il test.');
+       process.exit(1);
+     }
+
+  2. In fase di test --limit è bloccato a 2:
+     const MAX_TEST_LIMIT = 2;
+     if (limit > MAX_TEST_LIMIT) {
+       console.error(`❌ --limit ${limit} non permesso in fase di test (max ${MAX_TEST_LIMIT}).`);
+       console.error('   Rimuovi questo vincolo esplicitamente nel codice quando V1 è validato.');
+       process.exit(1);
+     }
+
+  3. Il renderer gira solo su articoli con render_status !== 'rendered' E status === 'approved'.
+     Non tocca mai articoli in produzione non approvati.
+
+  4. Output path: output/{agentId}/renders/{slug}.mp4
+     La directory viene creata se non esiste.
+     Controllare che output/{agentId}/renders/ sia in .gitignore prima del primo render.
+
+  5. Aggiorna render_status nel JSON dell'articolo al termine:
+     'rendered' se successo, 'failed' + render_error se fallisce.
+     Non scrivere mai nel JSON se il render è ancora in corso.
+```
+
+---
+
+### 12.11 — Failure isolation
+
+Se qualsiasi step della pipeline video fallisce, il sistema deve:
+
+```
+Pexels Video down   → usa black clip, continua
+TTS down            → render_status = 'failed', articolo non perso
+ffmpeg error        → render_status = 'failed', log errore completo
+File troppo grande  → render_status = 'failed', publish_error.tiktok = "size > 50MB"
+
+In tutti i casi:
+  - formats.x.thread        → invariato, pubblicabile
+  - formats.instagram.caption + carousel_slides → invariati, pubblicabili
+  - L'articolo non viene eliminato
+  - Il run successivo riprova il render (render_status !== 'rendered')
+```
+
+---
+
+### 12.12 — Publisher adapters
+
+```
+publish/
+  scheduler.js          ← legge articoli con status: 'approved' + render_status: 'rendered'
+  publisher-x.js        ← posta thread su X via API Twitter v2
+  publisher-instagram.js← carica carousel (5 PNG) + caption su Instagram Graph API
+  publisher-tiktok.js   ← upload mp4 su TikTok Content Posting API
+
+Ogni publisher:
+  - riceve asset già renderizzati (mp4, PNG già generati)
+  - non genera contenuto
+  - pubblica soltanto
+  - aggiorna publish_status[canale] nel JSON: 'published' | 'failed'
+  - salva publish_error[canale] se fallisce
+  - retry max 3 volte con backoff esponenziale
+
+Workflow status completo:
+  draft → approved → scheduled → published → failed
+                              ↳ render_status: pending → rendered → failed
+                                                        ↳ retry automatico al prossimo run
+```
+
+---
+
+### 12.13 — V1 / V2 / V3 — roadmap qualità
+
+**V1 — minimo funzionante (implementare ora)**
+- `generateVideoScenes()` con DeepSeek
+- 1 clip Pexels per scena (portrait, minDuration = sceneDuration + 0.5)
+- Black clip come fallback con subtitle
+- TTS singolo audio completo (non per scena)
+- Subtitles bruciati con ffmpeg drawtext + Inter-Bold.ttf
+- Motion semplice (zoom-in/out via `zoompan` filter)
+- Export mp4 1080×1920 H264 max 50MB
+- Cache clip Pexels (array di risultati per query)
+- Rate limiter su Pexels Video API
+- `--limit 2` bloccato, niente `--all`
+
+**V1.1 — stabilità (dopo validazione V1)**
+- Scelta migliore tra 5 risultati Pexels (prefer portrait nativo)
+- `sessionUsedIds` condiviso tra tutti i video del run
+- TTS per scena (audio sincronizzato con clip)
+- Fallback immagine statica come alternativa a black clip
+- Template separati per agente (colori, font size, badge position)
+
+**V2 — qualità (dopo 30+ video validati)**
+- Scelta clip per qualità semantica (DeepSeek valuta pertinenza)
+- Music background royalty-free
+- Subtitle word-by-word con timing da TTS
+- Motion avanzato (pan + zoom compositi)
+- Beat sync con voiceover
+
+**V3 — futuro lontano**
+- Video generation AI (Runway / Kling / Pika) come opzione premium
+- Avatar AI opzionale
+- Auto-cut da trascrizione
+
+---
+
+### 12.14 — Test obbligatori (in ordine)
+
+Eseguire in sequenza. Non procedere al test successivo se il precedente fallisce.
+
+#### TEST 0 — Prerequisiti
+
+```bash
+node scripts/check-video-prereqs.js
+```
+
+Lo script deve verificare:
+- `ffmpeg -version` → presente e >= 4.x
+- `ffmpeg -filters | grep drawtext` → presente (libfreetype)
+- `ffprobe -version` → presente
+- `assets/fonts/Inter-Bold.ttf` → file esiste
+- `.gitignore` contiene `output/*/renders/`
+- `.railwayignore` contiene `output/*/renders/`
+- `PEXELS_API_KEY` presente in env
+- `TTS_API_KEY` (OpenAI o ElevenLabs) presente in env
+
+**Atteso:** tutti i check ✅. Se anche uno fallisce, non procedere.
+
+#### TEST 1 — `estimateDuration`
+
+```bash
+node -e "
+const { estimateDuration } = require('./core/video-utils');
+console.log(estimateDuration('This sensor fixes your back.'));        // ~2.5
+console.log(estimateDuration('This thirty dollar sensor permanently fixes your posture forever trust me')); // ~4-5
+console.log(estimateDuration('Short'));                               // deve essere 2.5 (min)
+// Verifica che NON sia mai < 2.5 e MAI > 5
+"
+```
+
+#### TEST 2 — `generateVideoScenes`
+
+```bash
+# Usa un articolo reale esistente
+node -e "
+const fs = require('fs');
+const { generateVideoScenes } = require('./core/generate-video');
+const file = fs.readdirSync('output').filter(f=>f.endsWith('.json')).sort().reverse()[0];
+const article = JSON.parse(fs.readFileSync('output/'+file));
+generateVideoScenes(article).then(scenes => {
+  console.log('scene count:', scenes.length);          // deve essere 5
+  scenes.forEach((s, i) => {
+    console.log('scena', i+1, ':');
+    console.log('  voice:', s.voice?.slice(0,50));
+    console.log('  subtitle:', s.subtitle);            // max 5 parole
+    console.log('  query:', s.query);                  // deve essere specifica
+    console.log('  motion:', s.motion);                // zoom-in | zoom-out | pan-right | pan-left | static
+    console.log('  transition:', s.transition);        // fade | cut | slide
+    // Verifica che query NON sia generica
+    const badQueries = ['technology', 'innovation', 'concept', 'abstract'];
+    if (badQueries.some(b => s.query.toLowerCase().includes(b))) {
+      console.warn('  ⚠️  query potenzialmente generica');
+    }
+  });
+});
+"
+```
+
+**Atteso:** 5 scene, tutte con query specifiche e motion valido.
+
+#### TEST 3 — `fetchPexelsVideo`
+
+```bash
+node -e "
+const { fetchPexelsVideo } = require('./core/fetch-video');
+const usedClipIds = new Set();
+
+// Scena 0
+fetchPexelsVideo('man with bad posture office', {
+  sceneIndex: 0, usedClipIds, minDuration: 3.5, orientation: 'portrait'
+}).then(clip => {
+  console.log('clip 0 type:', clip.type);   // 'video' o 'black'
+  if (clip.type === 'video') {
+    console.log('clip 0 id:', clip.id);
+    console.log('clip 0 url:', clip.url?.slice(0,60));
+    usedClipIds.add(clip.id);
+  }
+
+  // Stessa query, scena diversa — deve restituire clip diversa se possibile
+  return fetchPexelsVideo('man with bad posture office', {
+    sceneIndex: 1, usedClipIds, minDuration: 3.5, orientation: 'portrait'
+  });
+}).then(clip2 => {
+  console.log('clip 1 type:', clip2.type);
+  console.log('clip 1 id:', clip2.id);
+  // id deve essere diverso da clip 0 se ci sono risultati sufficienti
+});
+"
+```
+
+**Atteso:** clip diversa per scene diverse con stessa query.
+
+#### TEST 4 — render singola scena
+
+```bash
+node render/render-video.js --agent ai-news --slug TEST_SINGLE_SCENE --scene 0
+# Produce: output/ai-news/renders/TEST_SINGLE_SCENE_scene0.mp4
+
+# Verifica con ffprobe
+ffprobe -v quiet -print_format json -show_streams output/ai-news/renders/TEST_SINGLE_SCENE_scene0.mp4 | \
+  node -e "
+    const d = JSON.parse(require('fs').readFileSync('/dev/stdin','utf8'));
+    const v = d.streams.find(s=>s.codec_type==='video');
+    const a = d.streams.find(s=>s.codec_type==='audio');
+    console.log('video codec:', v?.codec_name);   // h264
+    console.log('width:', v?.width);              // 1080
+    console.log('height:', v?.height);            // 1920
+    console.log('audio presente:', !!a);           // true
+  "
+```
+
+**Atteso:** 1080×1920, H264, audio presente.
+
+#### TEST 5 — render completo 5 scene
+
+```bash
+# Prende il primo articolo approved con limit 1
+node render/render-video.js --agent ai-news --limit 1
+
+# Verifica output
+SLUG=$(ls -t output/ai-news/renders/*.mp4 2>/dev/null | head -1)
+ffprobe -v quiet -print_format json -show_streams -show_format "$SLUG" | \
+  node -e "
+    const d = JSON.parse(require('fs').readFileSync('/dev/stdin','utf8'));
+    const dur = parseFloat(d.format?.duration);
+    const size = parseInt(d.format?.size);
+    console.log('durata totale:', dur.toFixed(1), 'sec');  // 15–30 sec atteso
+    console.log('dimensione:', (size/1024/1024).toFixed(1), 'MB');  // < 50MB
+    const v = d.streams.find(s=>s.codec_type==='video');
+    console.log('risoluzione:', v?.width + 'x' + v?.height);  // 1080x1920
+    console.log('codec:', v?.codec_name);  // h264
+  "
+```
+
+**Atteso:** durata 15–30s, < 50MB, 1080×1920, H264.
+
+#### TEST 6 — failure isolation
+
+```bash
+# Simula Pexels down: disconnetti rete o usa query impossibile
+node -e "
+const { fetchPexelsVideo } = require('./core/fetch-video');
+fetchPexelsVideo('QUERY_CHE_NON_ESISTE_MAI_12345xyz', {
+  sceneIndex: 0, usedClipIds: new Set(), minDuration: 3
+}).then(clip => {
+  console.log('tipo fallback:', clip.type);  // deve essere 'black', non crash
+});
+"
+
+# Verifica che dopo un render fallito l'articolo sia ancora valido
+node scripts/contract-test.js
+# Atteso: 0 FAIL — i campi text/carousel restano intatti
+```
+
+#### TEST 7 — no git pollution
+
+```bash
+# Dopo aver prodotto almeno 1 mp4
+node render/render-video.js --agent ai-news --limit 1
+
+git status
+# output/ai-news/renders/ NON deve apparire
+# Se appare: aggiorna .gitignore e fai git rm --cached
+```
+
+#### TEST 8 — vincolo --limit
+
+```bash
+# Verifica che --limit > 2 venga bloccato in fase di test
+node render/render-video.js --agent ai-news --limit 3
+# Atteso: errore esplicito "limit massimo in test è 2"
+
+# Verifica che --all non esista
+node render/render-video.js --agent ai-news --all
+# Atteso: errore esplicito "--all non è supportato"
+```
+
+#### TEST 9 — font e drawtext
+
+```bash
+# Verifica che drawtext funzioni con Inter-Bold.ttf
+ffmpeg -f lavfi -i color=c=black:s=1080x1920:r=30 \
+  -vf "drawtext=fontfile=assets/fonts/Inter-Bold.ttf:text='Test subtitle':fontsize=64:fontcolor=white:x=(w-text_w)/2:y=(h-text_h)/2" \
+  -t 2 -y /tmp/drawtext_test.mp4 2>&1 | tail -5
+# Atteso: nessun errore, file /tmp/drawtext_test.mp4 creato
+
+# Verifica che il font path relativo funzioni anche da directory diversa
+cd /tmp && node -e "
+  require('child_process').execSync(
+    'ffmpeg -f lavfi -i color=c=black:s=100x100:r=30 ' +
+    '-vf \"drawtext=fontfile=$(pwd)/assets/fonts/Inter-Bold.ttf:text=OK:fontsize=20\" ' +
+    '-t 1 -y /tmp/font_test.mp4',
+    { cwd: process.env.HOME + '/visual-scroll-blog', stdio: 'inherit' }
+  );
+  console.log('font test OK');
+"
+cd -
+```
+
+---
+
+### 12.15 — Prompt Claude Code — check-video-prereqs.js
+
+```
+Crea il file scripts/check-video-prereqs.js.
+
+Lo script verifica tutti i prerequisiti tecnici per la pipeline video.
+Per ogni check stampa ✅ o ❌ con messaggio.
+Se anche un solo check fallisce, termina con exit code 1.
+
+Check da eseguire:
+1. ffmpeg -version → eseguibile e risponde
+2. ffmpeg -filters 2>&1 | grep drawtext → presente nella lista
+3. ffprobe -version → eseguibile e risponde
+4. fs.existsSync('assets/fonts/Inter-Bold.ttf') → file presente
+5. Legge .gitignore e verifica che contenga "output/*/renders/"
+6. Legge .railwayignore e verifica che contenga "output/*/renders/"
+7. process.env.PEXELS_API_KEY → presente e non vuoto
+8. process.env.OPENAI_API_KEY o process.env.ELEVENLABS_API_KEY → almeno uno presente
+
+Usa child_process.execSync per i check ffmpeg/ffprobe con try/catch.
+Non modificare nessun altro file.
+```
+
+---
+
+### 12.16 — Prompt Claude Code — core/video-utils.js
+
+```
+Crea il file core/video-utils.js.
+
+Esporta:
+
+1. estimateDuration(text, wpm = 130)
+   - Conta le parole in text (split su whitespace)
+   - Calcola durata: Math.ceil(words * 60 / wpm)
+   - Clamp tra 2.5 e 5 secondi
+   - Restituisce numero float
+
+2. hashQuery(query)
+   - Restituisce md5(query.toLowerCase().trim())
+   - Usato come chiave cache per Pexels Video
+
+3. buildBlackClip(outputPath, duration)
+   - Esegue il comando ffmpeg per generare black clip con audio silenzioso
+   - ffmpeg -f lavfi -i color=c=black:s=1080x1920:r=30
+          -f lavfi -i anullsrc=r=44100:cl=stereo
+          -t DURATION -shortest -c:v libx264 -c:a aac OUTPUT_PATH
+   - Restituisce Promise<void>, rigetta se ffmpeg fallisce
+   - Usa path assoluto per il font se drawtext è richiesto
+
+4. verifyMp4(filePath)
+   - Esegue ffprobe -v quiet -print_format json -show_streams -show_format
+   - Restituisce { width, height, duration, sizeBytes, codec }
+   - Lancia errore se codec !== 'h264' o sizeBytes > 50 * 1024 * 1024
+
+Non modificare nessun altro file.
+```
+
+---
+
+### 12.17 — Prompt Claude Code — core/fetch-video.js
+
+```
+Crea il file core/fetch-video.js.
+
+Esporta la funzione:
+
+async function fetchPexelsVideo(query, options = {})
+
+Parametri options:
+  sceneIndex    = 0         (indice scena — per scegliere clip diverse con stessa query)
+  usedClipIds   = new Set() (clip già usate in questo video — anti-duplicato)
+  minDuration   = 3         (durata minima clip in secondi — deve essere sceneDuration + 0.5)
+  orientation   = 'portrait' (preferisce clip verticali)
+
+Logica interna:
+
+1. Cache: legge cache/video-clips/{hashQuery(query)}.json se esiste
+   La cache contiene un array di oggetti clip Pexels, NON un singolo clip.
+   Se la cache non esiste, chiama Pexels Video API:
+     GET https://api.pexels.com/videos/search
+     params: { query, orientation, per_page: 10, min_duration: minDuration }
+     header: Authorization: PEXELS_API_KEY
+   Salva i risultati in cache.
+   Crea la directory cache/video-clips/ se non esiste.
+
+2. Selezione clip con anti-duplicato:
+   - Parte da results[sceneIndex % results.length]
+   - Se la clip è in usedClipIds, prova la successiva (max results.length tentativi)
+   - Aggiunge la clip scelta a usedClipIds
+   - Scegli il video_file con la risoluzione più vicina a 1080×1920 (portrait)
+
+3. Fallback:
+   - Se results è vuoto o tutte le clip sono già usate:
+     restituisce { type: 'black', duration: minDuration }
+   - Altrimenti restituisce:
+     { type: 'video', url: clip.video_files[best].link, id: clip.id, duration: clip.duration }
+
+Gestione errori:
+   - Se la chiamata API Pexels fallisce: loga warning, restituisce fallback black
+   - Non lanciare mai eccezioni non gestite — la pipeline deve continuare
+
+Non modificare nessun altro file.
+```
+
+---
+
+### 12.18 — Prompt Claude Code — render/render-video.js
+
+```
+Crea il file render/render-video.js.
+
+Il renderer assembla il video finale per un articolo.
+
+CLI:
+  node render/render-video.js --agent ai-news --limit 1
+  node render/render-video.js --agent food --slug specific-slug
+
+Vincoli hardcoded (NON rimuovere senza commit esplicito):
+  1. --all non esiste:
+     if (argv.includes('--all')) { console.error('❌ --all non supportato'); process.exit(1); }
+  2. --limit massimo 2 in fase di test:
+     const MAX_TEST_LIMIT = 2;
+     if (limit > MAX_TEST_LIMIT) {
+       console.error(`❌ --limit ${limit} non permesso (max ${MAX_TEST_LIMIT} in fase test)`);
+       console.error('   Rimuovi MAX_TEST_LIMIT nel codice quando V1 è validato.');
+       process.exit(1);
+     }
+  3. Renderizza solo articoli con status === 'approved' E render_status !== 'rendered'
+
+Pipeline per ogni articolo:
+  1. Carica article JSON da output/{agentId}/{slug}.json
+  2. Chiama generateVideoScenes(article) → scenes[]
+  3. Per ogni scena:
+     a. dur = estimateDuration(scene.voice)
+     b. clip = await fetchPexelsVideo(scene.query, { sceneIndex: i, usedClipIds, minDuration: dur + 0.5 })
+     c. Se clip.type === 'video': scarica in output/{agentId}/renders/clips/{clip.id}.mp4
+        Se clip.type === 'black': genera black clip con buildBlackClip()
+     d. Resize + crop verticale con ffmpeg: scale → crop → setsar=1 → strip audio (-an)
+     e. Genera TTS audio per scene.voice → output/{agentId}/renders/audio/{slug}_scene{i}.mp3
+  4. Concatena le 5 clip con ffmpeg concat filter
+  5. Aggiungi voiceover: merge audio TTS sul video concatenato
+  6. Aggiungi subtitles con drawtext usando assets/fonts/Inter-Bold.ttf
+     (path assoluto nel comando ffmpeg per compatibilità CI)
+  7. Export finale: output/{agentId}/renders/{slug}.mp4
+  8. Verifica con verifyMp4(): controlla 1080×1920, H264, < 50MB
+  9. Aggiorna article JSON:
+     render_status: 'rendered' (o 'failed' se step 8 fallisce)
+     render_version: '1'
+     Se fallisce: render_status = 'failed', salva messaggio di errore in article.render_error
+
+Failure isolation:
+  - Ogni step è in try/catch
+  - Se un singolo step fallisce per UN articolo: logga errore, setta render_status='failed',
+    continua con l'articolo successivo
+  - Non toccare mai formats.x.thread, formats.instagram.caption, carousel_slides
+
+Non modificare nessun altro file.
+Crea la directory render/ se non esiste.
+```
+
+---
+
+## FASE 13 — Carousel unico ✅
+
+> **Nota (2026-05-17):** completata con una differenza rispetto al piano:
+> `carousel-food.html` è stato **rimosso definitivamente** (non mantenuto come redirect).
+> È stato aggiunto il proxy server-side `/proxy-image` in `server.js` per risolvere il
+> problema CORS di GialloZafferano durante il download PNG food: html2canvas non può
+> leggere i pixel di immagini senza CORS headers, il proxy fetcha server-to-server e
+> restituisce con `Access-Control-Allow-Origin: *`. Pexels (slide 2-5) non usa il proxy
+> perché ha già CORS headers.
 
 **Obiettivo:** unificare `carousel.html` e `carousel-food.html` in
 `carousel.html?agent=food` / `carousel.html?agent=ai-news`.
@@ -1181,22 +2024,35 @@ rm frontend/carousel-food.html
 ## Riepilogo ordine e dipendenze
 
 ```
-FASE 0  → baseline (nessuna dipendenza)
-FASE 1  → schema v2 (dipende da FASE 0)
-FASE 1B → protezione backfill (dipende da FASE 1)
-FASE 2  → cache split (dipende da FASE 0 — unknown === 0)
-FASE 3  → registry (dipende da FASE 2)
-FASE 4  → config agenti (dipende da FASE 3)
-FASE 5  → runner unico (dipende da FASE 4)
-FASE 6  → migrazione food (dipende da FASE 5)
-FASE 7  → migrazione AI news (dipende da FASE 6 stabile)
-FASE 8  → channel adapters (dipende da FASE 7 — ma NON blocca FASE 9)
-FASE 9  → agente fitness (dipende da FASE 7 stabile in produzione)
-FASE 10 → data-agents.js (dipende da FASE 9)
-FASE 11 → review multi-canale (dipende da FASE 10)
-FASE 12 → automazione publish (dipende da FASE 11 stabile)
-FASE 13 → carousel unico (ultimo — dipende da FASE 10)
+FASE 0  ✅ baseline
+FASE 1  ✅ schema v2 + video_scenes + render_status + publish_status per canale
+FASE 1B ✅ protezione backfill
+FASE 2  ⏭ cache split (saltata — cache.json con prefissi sufficiente)
+FASE 3  ✅ registry agenti e canali
+FASE 4  ✅ config agenti (ai-news, food, fitness)
+FASE 5  ✅ runner unico (core/run-agent.js)
+FASE 6  ✅ migrazione food sul runner
+FASE 7  ✅ migrazione AI news sul runner
+FASE 8  ✅ channel adapters (x, instagram, tiktok)
+FASE 9  ✅ agente fitness
+FASE 10 ✅ data-agents.js (window.AGENTS unificato)
+FASE 11 ✅ review multi-canale (badge agente, status, select canale, copia per canale)
+FASE 12 🔒 media pipeline & autonomous publishing
+        prerequisito: 30 articoli approved + TEST 0–9 tutti ✅
+        ordine interno:
+          12.0  verifica prerequisiti (check-video-prereqs.js)
+          12.15 scripts/check-video-prereqs.js
+          12.16 core/video-utils.js
+          12.17 core/fetch-video.js
+          12.18 render/render-video.js
+          TEST 0 → TEST 9 (in sequenza, no skip)
+          V1 validato → rimuovi MAX_TEST_LIMIT → V1.1
+          12.12 publish/ (solo dopo V1 stabile)
+FASE 13 ✅ carousel unico (carousel.html?agent=, proxy food, carousel-food.html rimosso)
 ```
+
+**Prossima azione:** accumulare 30 articoli approvati manualmente da `review.html`,
+poi eseguire TEST 0 di FASE 12 prima di scrivere una riga di codice video.
 
 ---
 
@@ -1220,4 +2076,12 @@ MAX_NEW_FOOD_ARTICLES=0 node run-food.js
 node -e "require('./agents/index')"
 node -e "require('./channels/index')"
 node -e "require('./core/run-agent')"
+
+# 5. Solo per commit che toccano FASE 12
+node scripts/check-video-prereqs.js
+# Atteso: tutti ✅
+
+# 6. Nessun mp4 in git status
+git status | grep -E "\.mp4|renders/"
+# Atteso: nessun output
 ```

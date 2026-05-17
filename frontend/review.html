@@ -240,6 +240,48 @@
     }
 
     .empty { color: #374151; font-style: italic; font-size: 0.9rem; }
+
+    /* ── Approve button ── */
+    .approve-btn {
+      background: transparent;
+      border: 1px solid #2d3748;
+      color: #4a5568;
+      border-radius: 4px;
+      padding: 0.28rem 0.75rem;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      cursor: pointer;
+      white-space: nowrap;
+      flex-shrink: 0;
+      transition: border-color 0.15s, color 0.15s, background 0.15s;
+    }
+    .approve-btn:hover { border-color: #4ade80; color: #4ade80; }
+    .approve-btn.is-approved { background: #14532d; border-color: #166534; color: #86efac; }
+    .approve-btn.is-approved:hover { background: #450a0a; border-color: #7f1d1d; color: #fca5a5; }
+
+    /* ── Progress bar FASE 12 ── */
+    #phase12-bar {
+      font-size: 0.75rem;
+      color: #4a5568;
+      margin-bottom: 2rem;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+    #phase12-track {
+      flex: 1;
+      height: 4px;
+      background: #1e2535;
+      border-radius: 2px;
+      max-width: 160px;
+    }
+    #phase12-fill {
+      height: 100%;
+      background: #86efac;
+      border-radius: 2px;
+      transition: width 0.3s;
+    }
   </style>
 </head>
 <body>
@@ -258,12 +300,16 @@
     <nav>
       <a href="index.html">← Feed</a>
       <a href="carousel.html">Carousel AI</a>
-      <a href="carousel-food.html">Carousel Food</a>
+      <a href="carousel.html?agent=food">Carousel Food</a>
     </nav>
   </div>
   <div class="container">
     <h1 id="review-title">Review articoli</h1>
     <div id="counter"></div>
+    <div id="phase12-bar">
+      <span id="phase12-label">0/30 approvati</span>
+      <div id="phase12-track"><div id="phase12-fill" style="width:0%"></div></div>
+    </div>
     <div id="root"></div>
   </div>
 
@@ -272,6 +318,8 @@
     const CHANNEL_LABELS = { x: 'Copia X', instagram: 'Copia Instagram', tiktok: 'Copia TikTok' };
     const AGENT_LABELS   = { 'ai-news': 'AI News', 'food': 'Food', 'fitness': 'Fitness' };
     let currentChannel = 'x';
+    let currentAgent   = 'ai-news';
+    const FASE12_TARGET = 30;
 
     function timeAgo(isoString) {
       if (!isoString) return '';
@@ -317,6 +365,48 @@
         (article.formats?.x?.thread?.length) ||
         (article.thread_text?.length)
       );
+    }
+
+    function updatePhase12Bar() {
+      const all = (window.AGENTS && window.AGENTS[currentAgent]) || [];
+      const approvedCount = all.filter(a => a.status === 'approved').length;
+      const pct = Math.min(100, Math.round(approvedCount / FASE12_TARGET * 100));
+      document.getElementById('phase12-label').textContent =
+        approvedCount >= FASE12_TARGET
+          ? `✓ ${approvedCount} approvati — FASE 12 sbloccata`
+          : `${approvedCount}/${FASE12_TARGET} approvati`;
+      document.getElementById('phase12-fill').style.width = pct + '%';
+    }
+
+    async function setArticleStatus(slug, agent, newStatus, articleObj, statusPillEl, approveBtnEl) {
+      try {
+        const resp = await fetch('/api/set-status', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ agent, slug, status: newStatus }),
+        });
+        if (!resp.ok) {
+          const txt = await resp.text();
+          throw new Error('HTTP ' + resp.status + ' — ' + txt);
+        }
+        articleObj.status = newStatus;
+        statusPillEl.className = 'status-pill sp-' + newStatus;
+        statusPillEl.textContent = newStatus;
+        if (newStatus === 'approved') {
+          approveBtnEl.textContent = '✓ Approvato';
+          approveBtnEl.classList.add('is-approved');
+        } else {
+          approveBtnEl.textContent = 'Approva';
+          approveBtnEl.classList.remove('is-approved');
+        }
+        updatePhase12Bar();
+      } catch (e) {
+        console.error('[approve] slug:', slug, '| agent:', agent, '| error:', e.message);
+        approveBtnEl.textContent = '⚠ Errore';
+        setTimeout(() => {
+          approveBtnEl.textContent = articleObj.status === 'approved' ? '✓ Approvato' : 'Approva';
+        }, 2500);
+      }
     }
 
     const root         = document.getElementById('root');
@@ -397,6 +487,19 @@
           pv.textContent = 'v' + article.prompt_version;
           badges.appendChild(pv);
         }
+
+        // Bottone approva (toggle draft ↔ approved)
+        if (article.slug) {
+          const approveBtn = document.createElement('button');
+          approveBtn.className = 'approve-btn' + (statusVal === 'approved' ? ' is-approved' : '');
+          approveBtn.textContent = statusVal === 'approved' ? '✓ Approvato' : 'Approva';
+          approveBtn.addEventListener('click', () => {
+            const next = article.status === 'approved' ? 'draft' : 'approved';
+            setArticleStatus(article.slug, article.agent || currentAgent, next, article, statusPill, approveBtn);
+          });
+          badges.appendChild(approveBtn);
+        }
+
         header.appendChild(badges);
 
         // Meta: tempo + link
@@ -569,9 +672,12 @@
     }
 
     renderReview(originalArticles);
+    updatePhase12Bar();
 
     document.getElementById('agent-select').addEventListener('change', function() {
+      currentAgent = this.value;
       renderReview((window.AGENTS && window.AGENTS[this.value]) ? window.AGENTS[this.value] : []);
+      updatePhase12Bar();
     });
 
     document.getElementById('channel-select').addEventListener('change', function() {

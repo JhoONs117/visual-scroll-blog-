@@ -414,6 +414,30 @@
       font-size: 11px; font-weight: 600; font-family: inherit; cursor: pointer; transition: background 0.15s;
     }
     .copy-caption-btn:hover { filter: brightness(1.15); }
+
+    /* ── Status pill + Approve button ── */
+    .status-pill-car {
+      font-size: 11px; font-weight: 700; letter-spacing: 0.06em;
+      text-transform: uppercase; padding: 3px 10px; border-radius: 10px; white-space: nowrap;
+    }
+    .spc-draft     { background: #1e2535; color: #64748b; }
+    .spc-approved  { background: #14532d; color: #86efac; }
+    .spc-published { background: #1e3a5f; color: #60a5fa; }
+    .spc-scheduled { background: #713f12; color: #fde68a; }
+    .spc-failed    { background: #7f1d1d; color: #fca5a5; }
+
+    .approve-btn-car {
+      background: transparent;
+      border: 1px solid rgba(255,255,255,0.12);
+      color: rgba(255,255,255,0.30);
+      border-radius: 8px; padding: 7px 16px;
+      font-size: 12px; font-weight: 700; font-family: inherit;
+      cursor: pointer; white-space: nowrap;
+      transition: border-color 0.15s, color 0.15s, background 0.15s;
+    }
+    .approve-btn-car:hover { border-color: #4ade80; color: #4ade80; }
+    .approve-btn-car.is-approved { background: rgba(20,83,45,0.5); border-color: #166534; color: #86efac; }
+    .approve-btn-car.is-approved:hover { background: rgba(69,10,10,0.4); border-color: #7f1d1d; color: #fca5a5; }
   </style>
 </head>
 <body>
@@ -445,6 +469,7 @@
 <div class="selector-bar">
   <select id="sel"></select>
   <span class="count-label" id="count"></span>
+  <span id="phase12-counter" class="count-label" style="margin-left:auto"></span>
 </div>
 
 <div id="area">
@@ -744,11 +769,17 @@ function renderArticle(article) {
   const sourceLink = theme.hasSourceLink && article.link
     ? `<a class="article-source-link" href="${article.link}" target="_blank" rel="noopener noreferrer">↗ Fonte</a>` : '';
 
+  const statusPill   = `<span class="status-pill-car spc-${article.status || 'draft'}" id="car-status-pill">${article.status || 'draft'}</span>`;
+  const approveBtn   = article.slug
+    ? `<button class="approve-btn-car${article.status === 'approved' ? ' is-approved' : ''}" id="car-approve-btn">${article.status === 'approved' ? '✓ Approvato' : 'Approva'}</button>`
+    : '';
+
   area.innerHTML = `
     <div class="dl-all-bar">
       <button class="dl-all-btn" id="dlAll">${DL_ICON} Scarica tutte e 5 le slide</button>
       <span class="dl-hint">oppure clicca una slide → tasto destro / tieni premuto per salvare</span>
       ${sourceLink}
+      ${statusPill}${approveBtn}
     </div>
     <div class="viewer"><div class="slides-row">${wrappedSlides}</div></div>
     ${hooksHtml}${threadHtml}${captionHtml}${scriptHtml}`;
@@ -800,6 +831,47 @@ function renderArticle(article) {
     btn.disabled = false;
     btn.innerHTML = orig;
   });
+
+  const approveBtnEl = document.getElementById('car-approve-btn');
+  const pillEl       = document.getElementById('car-status-pill');
+  if (approveBtnEl && article.slug) {
+    approveBtnEl.addEventListener('click', () => {
+      const newStatus = article.status === 'approved' ? 'draft' : 'approved';
+      setArticleStatus(article.slug, agentId, newStatus, article, pillEl, approveBtnEl);
+    });
+  }
+  updatePhase12Counter();
+}
+
+/* ── Phase12 counter ── */
+function updatePhase12Counter() {
+  const counter = document.getElementById('phase12-counter');
+  if (!counter) return;
+  const allArticles = (window.AGENTS && window.AGENTS[agentId]) ? window.AGENTS[agentId] : [];
+  const approved = allArticles.filter(a => a.status === 'approved').length;
+  counter.textContent = approved >= 30 ? `✓ ${approved} approvati` : `${approved}/30 approvati`;
+  counter.style.color = approved >= 30 ? '#86efac' : '';
+}
+
+async function setArticleStatus(slug, agent, newStatus, articleObj, pillEl, btnEl) {
+  try {
+    const resp = await fetch('/api/set-status', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ agent, slug, status: newStatus }),
+    });
+    if (!resp.ok) { const txt = await resp.text(); throw new Error('HTTP ' + resp.status + ' — ' + txt); }
+    articleObj.status = newStatus;
+    pillEl.className = 'status-pill-car spc-' + newStatus;
+    pillEl.textContent = newStatus;
+    btnEl.textContent = newStatus === 'approved' ? '✓ Approvato' : 'Approva';
+    newStatus === 'approved' ? btnEl.classList.add('is-approved') : btnEl.classList.remove('is-approved');
+    updatePhase12Counter();
+  } catch (e) {
+    console.error('[approve]', e.message);
+    btnEl.textContent = '⚠ Errore';
+    setTimeout(() => { btnEl.textContent = articleObj.status === 'approved' ? '✓ Approvato' : 'Approva'; }, 2500);
+  }
 }
 
 /* ── Init ── */
@@ -823,7 +895,7 @@ if (!articles.length) {
     const has = a.carousel_slides && a.carousel_slides.length;
     const opt = document.createElement('option');
     opt.value = i;
-    opt.textContent = (has ? '✓ ' : '○ ') + (a.title || `${theme.emptyLabel} ${i + 1}`);
+    opt.textContent = (a.status === 'approved' ? '✅ ' : '') + (has ? '✓ ' : '○ ') + (a.title || `${theme.emptyLabel} ${i + 1}`);
     sel.appendChild(opt);
   });
 
@@ -834,6 +906,7 @@ if (!articles.length) {
 
   const first = articles.findIndex(a => a.carousel_slides && a.carousel_slides.length);
   if (first >= 0) { sel.value = first; sel.dispatchEvent(new Event('change')); }
+  else { updatePhase12Counter(); }
 }
 </script>
 </body>

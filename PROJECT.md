@@ -1,14 +1,14 @@
 # Visual AI Scroll Blog — PROJECT
 
 Documento unificato: stato attuale · roadmap · riferimento tecnico · storico.  
-Aggiornato: 2026-05-12 | Sostituisce: README.md · CONTEXT.md · LAVORO.md · M21-roadmap.md  
-Documento operativo correlato: **MANUAL.md** (come eseguire le operazioni) · **FOOD-AGENT.md** (secondo agente)
+Aggiornato: 2026-05-17 | Sostituisce: README.md · CONTEXT.md · LAVORO.md · M21-roadmap.md  
+Documento operativo correlato: **MANUAL.md** (come eseguire le operazioni) · **FOOD-AGENT.md** (secondo agente) · **REFACTOR-PLAN.md** (refactor multi-agente FASE 0-13)
 
 ---
 
 ## 1. Stato attuale
 
-**Data:** 2026-05-12 | **Articoli AI:** 74 unici | **Articoli Food:** 10+ | **Pipeline:** automatica ogni 2 ore (GitHub Actions) | **Deploy:** Railway
+**Data:** 2026-05-15 | **Articoli AI:** 74+ unici | **Articoli Food:** 15+ | **Articoli Fitness:** in generazione | **Pipeline:** automatica ogni 2 ore (GitHub Actions) | **Deploy:** Railway
 
 | Milestone | Stato | Note |
 |---|---|---|
@@ -28,13 +28,25 @@ Documento operativo correlato: **MANUAL.md** (come eseguire le operazioni) · **
 | Upgrade Pexels (era Wikimedia) | ✅ Completa | `fetchPexelsImage` portrait large2x in `fetch.js`; ultime 20 backfillate |
 | Download PNG carousel | ✅ Completa | html2canvas 1080×1350px (4:5), modal + bottoni in `carousel.html` |
 | Bug: `article.image` mancante in run.js | ✅ Fix | `fetchArticleImage` ora chiamata in `run.js` su ogni nuovo articolo |
-| **Food Agent — 5 Step Food** | ✅ Completa | `fetch-food.js` + `generate-food.js` + `run-food.js` + `carousel-food.html` |
+| **Food Agent — 5 Step Food** | ✅ Completa | `fetch-food.js` + `generate-food.js` + `run-food.js` |
 | **Feed multi-agente** | ✅ Completa | `index.html` agent-bar, `renderFeed()`, palette `.food-story`, navigazione tra pagine |
 | **Carousel AI News completo** | ✅ Completa | Sezioni Hook/Thread/Caption/Script in `carousel.html`; `generateAINewsCaption` in pipeline; 74 caption backfillate |
+| **Refactor FASE 1 — Schema v2** | ✅ Completa | `schema_version`, `agent`, `status`, `prompt_version`, `formats.*`, alias legacy |
+| **Refactor FASE 1B — Protezione backfill** | ✅ Completa | `backfill.js`, `regenerate-all.js`, `backfill-carousel.js` skippano file v2 |
+| **Refactor FASE 3-4 — Registry + Config agenti** | ✅ Completa | `agents/ai-news/config.js`, `agents/food/config.js`, `agents/fitness/config.js` |
+| **Refactor FASE 5-7 — Runner unico** | ✅ Completa | `core/run-agent.js` — orchestra AI news, food, fitness da config dichiarativa |
+| **Refactor FASE 8 — Channel adapters** | ✅ Completa | `channels/x.js`, `channels/instagram.js`, `channels/tiktok.js` |
+| **Refactor FASE 9 — Agente Fitness** | ✅ Completa | `agents/fitness/` (config + prompts + filters), `output/fitness/`, pipeline CI |
+| **Refactor FASE 10 — data-agents.js** | ✅ Completa | `window.AGENTS = {ai-news, food, fitness}`, `scripts/build-data-agents.js`, `index.html` + `review.html` aggiornati |
+| **Refactor FASE 11 — Review multi-canale** | ✅ Completa | Schema v2: badge agente, status pill, prompt_version, select canale X/IG/TikTok, sezioni per canale, copia per canale |
+| **Refactor FASE 13 — Carousel unificato** | ✅ Completa | `carousel.html?agent=ai-news\|food`, `carousel-food.html` rimosso; proxy immagini in `server.js` |
+| **Fix download PNG food** | ✅ Fix | Proxy `/proxy-image` in `server.js` bypassa CORS Giallozafferano; Pexels usa ancora `useCORS` diretto |
+| **Workflow approvazione articoli** | ✅ Completa | `POST /api/set-status` in `server.js`; tasto Approva in `review.html` (barra FASE12 progress) e `carousel.html` (status pill + counter + ✅ emoji nel dropdown) |
 | M21 — Test distribuzione reale | 🔄 In corso | Primo post 2026-05-11 ore 15:00 IT su X. 1 thread/giorno |
+| **Refactor FASE 12 — Automazione publish** | 🔒 Bloccata | Richiede 30 articoli approvati manualmente (meccanismo approvazione ✅ pronto) |
 | M22 — Iterazione prompt da dati | ⏳ Dopo M21 | Richiede 15 post con dati reali |
-| FASE 5 — Secondo canale | ⏳ Dopo M22 | Instagram: AI carousel + Food carousel già pronti |
-| FASE 6 — Automazione | ⏳ Dopo FASE 5 | Playwright export + auto-pubblicazione |
+| FASE 5 — Secondo canale | ⏳ Dopo M22 | Instagram: carousel PNG già pronti per tutti gli agenti |
+| FASE 6 — Automazione pubblicazione | ⏳ Dopo FASE 5 | Playwright export + auto-pubblicazione |
 | M18 — Ranking per qualità | ⏳ Backlog | Nice to have |
 | M19 — Index globale articoli | ⏳ Backlog | Utile quando il volume cresce |
 | M20 — Branding e URL pulito | ⏳ Backlog | - |
@@ -43,6 +55,7 @@ Documento operativo correlato: **MANUAL.md** (come eseguire le operazioni) · **
 ```
 M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → PRE-M21 ✅ → M21b ✅
 → Pexels ✅ → Download PNG ✅ → Food Agent ✅ → Feed multi-agente ✅
+→ Refactor FASE 1-13 ✅ (schema v2, runner unico, fitness, carousel unificato, review v2)
 → M21 🔄 ← STOP: valuta risultati (15 post, iniziato 2026-05-11)
 → M22 → FASE 5 → FASE 6 → M18 → M19 → M20
 ```
@@ -103,20 +116,33 @@ M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → 
 | File | Ruolo |
 |---|---|
 | `frontend/index.html` | Feed mobile multi-agente: agent-bar, `renderFeed()`, palette `.food-story` |
-| `frontend/review.html` | Review multi-agente: header sticky con agent switch, `renderReview()` |
-| `frontend/carousel.html` | Carousel AI News — preview + download PNG 1080×1350px; sezioni Hook/Thread/Caption/Script; link ↗ Fonte; naviga a carousel-food |
-| `frontend/carousel-food.html` | Carousel Food — palette olive/arancio, `signature_ingredients`, naviga a carousel |
+| `frontend/review.html` | Review multi-agente: header sticky con agent switch, `renderReview()`; tasto **Approva** per impostare `status: approved` + barra progresso FASE12 (0/30) |
+| `frontend/carousel.html` | Carousel unificato (`?agent=ai-news\|food`) — preview + download PNG 1080×1350px; sezioni Hook/Thread/Caption/Script; link ↗ Fonte; proxy `/proxy-image` per download food; **status pill + tasto Approva** nella barra DL; contatore approvati nel selector bar; ✅ emoji nel dropdown per articoli approvati |
+
+**Multi-agente (Refactor FASE 1-13)**
+
+| File | Ruolo |
+|---|---|
+| `core/run-agent.js` | Runner unico — orchestra qualsiasi agente da config dichiarativa (`agents/<id>/config.js`) |
+| `agents/ai-news/config.js` | Config agente AI News: feeds, filtri, prompt, output dir, formato cache |
+| `agents/food/config.js` | Config agente Food: feeds, gate looksLikeRecipe, output dir |
+| `agents/fitness/config.js` | Config agente Fitness: feeds, filtri, output dir |
+| `channels/x.js` | Adapter canale X/Twitter — formatta `thread_text` per post |
+| `channels/instagram.js` | Adapter canale Instagram — formatta caption + carousel |
+| `channels/tiktok.js` | Adapter canale TikTok — formatta `video_script` |
+| `scripts/build-data-agents.js` | Legge `output/`, `output/food/`, `output/fitness/` → scrive `frontend/data-agents.js` |
+| `frontend/data-agents.js` | Generato — `window.AGENTS = {'ai-news':[...], 'food':[...], 'fitness':[...]}` |
 
 **Infrastruttura**
 
 | File | Ruolo |
 |---|---|
-| `server.js` | HTTP server minimale — serve `frontend/` su Railway |
+| `server.js` | HTTP server minimale — serve `frontend/` su Railway; proxy `/proxy-image` per immagini CORS-incompatibili (food); `POST /api/set-status` per impostare `status` su un articolo da review/carousel |
 | `deepseek.js` | Wrapper `callDeepSeek(prompt)` → stringa risposta |
-| `cache.json` | Cache persistente condivisa — chiavi AI news (`md5(title)`, `ainews:caption:*`) vs food (`food:*`) |
+| `cache.json` | Cache persistente condivisa — chiavi per agente (`md5(title)`, `ainews:caption:*`, `food:*`) |
 | `review_queue.json` | Articoli AI news falliti dopo 2 tentativi di validazione |
-| `.github/workflows/pipeline.yml` | GitHub Actions — cron `0 */2 * * *`, esegue `run.js` poi `run-food.js` in sequenza |
-| `.railwayignore` | Esclude `output/` e `output/food/` dal deploy Railway |
+| `.github/workflows/pipeline.yml` | GitHub Actions — cron `0 */2 * * *`; esegue `run.js` (legacy), `run-food.js` (legacy), `core/run-agent.js food`, `core/run-agent.js fitness`, poi `build-data-agents.js` |
+| `.railwayignore` | Esclude `output/`, `output/food/`, `output/fitness/` dal deploy Railway |
 | `test-distribuzione.md` | Log giornaliero dei post M21 su X |
 | `MANUAL.md` | Manuale operativo: sorgenti, backfill, PNG, agente food |
 | `FOOD-AGENT.md` | Piano e documentazione completa del food agent |
@@ -125,20 +151,23 @@ M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → 
 
 ```
 ogni 2 ore
-  └── GitHub Actions esegue run.js  (AI News)
+  └── GitHub Actions esegue run.js  (AI News — legacy, mantiene data.js)
         └── fetch RSS → deduplicate → hardFilter → batchAIFilter
               └── generateSlides + generateFormats + generateAINewsCaption + generateCarouselSlides
                     └── fetchPexelsImage (slide 2-5) + fetchArticleImage (slide 1)
                           └── salva output/*.json + frontend/data.js
-  └── GitHub Actions esegue run-food.js  (5 Step Food, sequenziale — stessa cache.json)
-        └── fetchFoodArticles → looksLikeRecipe gate
-              └── generateRecipeSlides + generateRecipeCarouselSlides
-                    └── generateFoodCaption + generateFoodVideoScript + generateFoodThread
-                          └── fetchArticleImage (slide 1) + fetchPexelsImage (slide 2-5)
-                                └── salva output/food/*.json + frontend/data-food.js
+  └── GitHub Actions esegue run-food.js  (Food legacy — mantiene data-food.js)
+        └── fetchFoodArticles → looksLikeRecipe gate → salva output/food/*.json + frontend/data-food.js
+  └── GitHub Actions esegue core/run-agent.js food  (runner unificato — agente food)
+        └── agents/food/config.js → fetch → gate → generate → salva output/food/*.json
+  └── GitHub Actions esegue core/run-agent.js fitness  (runner unificato — agente fitness)
+        └── agents/fitness/config.js → fetch → gate → generate → salva output/fitness/*.json
+  └── GitHub Actions esegue scripts/build-data-agents.js
+        └── legge output/ + output/food/ + output/fitness/ → scrive frontend/data-agents.js
+              └── window.AGENTS = {'ai-news':[...], 'food':[...], 'fitness':[...]}
   └── git commit + push
         └── Railway autodeploy (~1 min)
-              └── sito aggiornato online (entrambi gli agenti)
+              └── sito aggiornato online (tutti gli agenti via data-agents.js)
 ```
 
 ### Note operative
@@ -147,12 +176,14 @@ ogni 2 ore
 - **DeepSeek cost**: pochi centesimi per run; la cache azzera il costo sugli articoli già visti
 - **GitHub Actions**: gratuito fino a 2000 min/mese — il progetto ne usa ~30/mese (AI news + food sequenziali)
 - **Pexels API**: free tier, 200 req/ora, 20.000/mese — sufficiente (AI news 4-8 articoli + food 3 articoli/run)
-- **run.js e run-food.js sequenziali**: entrambi usano `cache.json` — NON parallelizzare, causerebbe write conflict silenzioso
+- **Tutti gli agent runners usano `cache.json`** — NON parallelizzare gli step che scrivono su `cache.json`, causerebbe write conflict silenzioso
 - **Food gate looksLikeRecipe**: evita chiamate API su contenuti non ricetta — azzerato il costo su articoli magazine nel feed
 - **Backfill selettivo AI news**: `node backfill-carousel.js --force --last N` per aggiornare gli N più recenti
 - **Token GitHub**: serve scope `workflow` per pushare `.github/workflows/`
-- **Railway deploy**: ~1 minuto grazie a `.railwayignore` che esclude `output/` e `output/food/`
-- **Nota crescita**: quando `data.js` o `data-food.js` pesano sul browser, aggiungere `articles.slice(-50)` nei rispettivi run prima di scrivere il file
+- **Railway deploy**: ~1 minuto grazie a `.railwayignore` che esclude `output/`, `output/food/` e `output/fitness/`
+- **Nota crescita**: quando `data-agents.js` pesa sul browser, aggiungere `.slice(-50)` per agente in `build-data-agents.js` prima di scrivere il file
+- **Proxy immagini food**: `server.js` espone `/proxy-image?url=...` — necessario localmente per scaricare PNG food (Giallozafferano non ha CORS headers). In produzione Railway lo serve automaticamente.
+- **Workflow approvazione (locale)**: approvare articoli da `review.html` o `carousel.html` → scrive `status: "approved"` nel JSON locale → committare i JSON modificati → push → Railway rideploya con gli status aggiornati. L'approvazione su Railway è effimera (si perde al prossimo redeploy) — il flusso corretto è sempre locale → commit → push.
 
 ---
 
@@ -353,7 +384,7 @@ Dopo la modifica:
 
 Entrambi i carousel sono già pronti con PNG 1080×1350px.
 - **Instagram AI News**: 5 PNG da `carousel.html` + caption da `thread_text`; Reel da `video_script`
-- **Instagram Food**: 5 PNG da `carousel-food.html` + `instagram_caption` già generata da `generate-food.js`
+- **Instagram Food**: 5 PNG da `carousel.html?agent=food` + `instagram_caption` già generata da `generate-food.js`
 - **TikTok**: video con TTS, testo in overlay, ritmo rapido da `video_script` o `video_script` food
 
 ### FASE 6 — Automazione (dopo FASE 5) ⏳
@@ -422,17 +453,49 @@ function isValid(slides) {
 }
 ```
 
-**html2canvas — fix PNG per Instagram:**
+**html2canvas — fix PNG per Instagram (con proxy immagini non-CORS):**
 ```js
+// Pexels ha CORS headers — useCORS li gestisce direttamente; proxy solo per sorgenti senza CORS (es. Giallozafferano)
+async function proxyBlobUrl(imgUrl) {
+  if (imgUrl.includes('images.pexels.com')) return null;
+  try {
+    const resp = await fetch('/proxy-image?url=' + encodeURIComponent(imgUrl));
+    if (!resp.ok) throw new Error('proxy ' + resp.status);
+    const blob = await resp.blob();
+    const blobUrl = URL.createObjectURL(blob);
+    await new Promise((resolve, reject) => {
+      const img = new Image();
+      img.onload  = resolve;
+      img.onerror = () => { URL.revokeObjectURL(blobUrl); reject(); };
+      img.src = blobUrl;
+    });
+    return blobUrl;
+  } catch { return null; }
+}
+
 async function renderToCanvas(slideEl) {
+  const origBg = slideEl.style.backgroundImage;
+  let blobUrl  = null;
+  if (origBg && origBg !== 'none') {
+    const m = origBg.match(/url\(["']?([^"')]+)["']?\)/);
+    if (m) {
+      blobUrl = await proxyBlobUrl(m[1]);
+      if (blobUrl) {
+        slideEl.style.backgroundImage = `url('${blobUrl}')`;
+        await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r))); // attendi repaint
+      }
+    }
+  }
   const origRadius = slideEl.style.borderRadius;
   slideEl.style.borderRadius = '0'; // angoli trasparenti → bordi colorati su IG senza questo fix
-  const raw = await html2canvas(slideEl, { scale: 4, useCORS: true, backgroundColor: '#080c18' });
+  const raw = await html2canvas(slideEl, { scale: 4, useCORS: true, allowTaint: false,
+    backgroundColor: theme.canvasBg, logging: false, imageTimeout: 15000 });
   slideEl.style.borderRadius = origRadius;
+  if (blobUrl) { URL.revokeObjectURL(blobUrl); slideEl.style.backgroundImage = origBg; }
   const final = document.createElement('canvas');
   final.width = 1080; final.height = 1350;
   const ctx = final.getContext('2d');
-  ctx.fillStyle = '#080c18';
+  ctx.fillStyle = theme.canvasBg;
   ctx.fillRect(0, 0, 1080, 1350);
   ctx.drawImage(raw, 0, 0, raw.width, raw.height, 0, 1, 1080, 1348); // offset y:1 → 2px evitano crop IG
   return final;
@@ -460,6 +523,8 @@ async function renderToCanvas(slideEl) {
 | PNG con border-radius | Angoli trasparenti visibili su IG | Azzerare borderRadius prima di html2canvas |
 | PNG 1080×1348 invece di ×1350 | Crop automatico Instagram | Canvas finale 1350px, draw con offset y:1 |
 | `--last N` con altri flag | '20' incluso nei filtri slug | Escludere `args[lastIdx + 1]` dal FILTER array |
+| PNG food con gradiente invece di foto | GialloZafferano non ha CORS headers — html2canvas non legge i pixel | Proxy `/proxy-image` in `server.js` — richiede `node server.js` in locale |
+| Flash gradiente verde su download food | `fetch` con CORS fallisce → sfondo rimosso → html2canvas cattura il fallback | Usare il proxy blob URL + doppio `requestAnimationFrame` prima di html2canvas |
 
 ### Scheduling e deploy
 

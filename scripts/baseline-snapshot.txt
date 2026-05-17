@@ -1,6 +1,6 @@
 === BASELINE ===
-output/          : 264 articoli AI news
-output/food/     : 13 articoli food
+output/          : 302 articoli AI news
+output/food/     : 26 articoli food
 cache.json       : 153 chiavi totali
   food:*         : 35
   ainews:*       : 73
