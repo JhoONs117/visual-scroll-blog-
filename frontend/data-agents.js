@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "techcrunch-mobility-the-ai-skills-arms-race-is-com",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "pubDate": "Sun, 17 May 2026 16:05:00 +0000",
+      "slides": [
+        "AI skills race hits automotive—do you have the edge?",
+        "Legacy auto workers lack AI training for new roles.",
+        "Most engineers can't retrain—but some will pivot fast.",
+        "Your career depends on learning AI tools now.",
+        "One course today could save your job tomorrow."
+      ],
+      "thread_text": [
+        "La maggior parte degli ingegneri auto non può riqualificarsi per l'AI. Ma alcuni lo faranno in pochi mesi. Da che parte stai?",
+        "L'AI sta ridisegnando i ruoli in fabbrica e in ufficio. I corsi di formazione legacy non bastano più per tenere il passo.",
+        "Chi oggi ignora i tool AI rischia di essere superato in 12 mesi. Chi inizia ora ha un vantaggio concreto.",
+        "Non serve una laurea in data science: bastano 3 tool specifici per il tuo settore per pivotare.",
+        "Un corso di 6 settimane costa meno di una multa per ritardo. Se non l'hai ancora fatto, iscriviti oggi."
+      ],
+      "video_script": [
+        "Gli ingegneri auto non sanno usare l'AI.",
+        "Ma alcuni impareranno in fretta.",
+        "Gli altri perderanno il posto.",
+        "Il corso che fai ora decide il tuo futuro.",
+        "Inizia con un tool solo questa settimana."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "La maggior parte degli ingegneri auto non può riqualificarsi per l'AI. Ma alcuni lo faranno in pochi mesi. Da che parte stai?",
+            "L'AI sta ridisegnando i ruoli in fabbrica e in ufficio. I corsi di formazione legacy non bastano più per tenere il passo.",
+            "Chi oggi ignora i tool AI rischia di essere superato in 12 mesi. Chi inizia ora ha un vantaggio concreto.",
+            "Non serve una laurea in data science: bastano 3 tool specifici per il tuo settore per pivotare.",
+            "Un corso di 6 settimane costa meno di una multa per ritardo. Se non l'hai ancora fatto, iscriviti oggi."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Gli ingegneri auto non sanno usare l'AI.",
+            "Ma alcuni impareranno in fretta.",
+            "Gli altri perderanno il posto.",
+            "Il corso che fai ora decide il tuo futuro.",
+            "Inizia con un tool solo questa settimana."
+          ]
+        },
+        "instagram": {
+          "caption": "7 ingegneri su 10 nel settore auto non hanno le competenze per passare ai nuovi ruoli legati all'AI. Le case automobilistiche stanno già ridisegnando le posizioni, sia in fabbrica che negli uffici, ma i corsi tradizionali di formazione sono vecchi e non bastano più. Chi non si adegua rischia di restare fuori in meno di un anno. La buona notizia è che non servono lauree: bastano 3 strumenti specifici al tuo settore per cambiare carriera in poche settimane ⚡️🚗📉. Ti stai già muovendo o preferisci aspettare?"
+        }
+      },
+      "instagram_caption": "7 ingegneri su 10 nel settore auto non hanno le competenze per passare ai nuovi ruoli legati all'AI. Le case automobilistiche stanno già ridisegnando le posizioni, sia in fabbrica che negli uffici, ma i corsi tradizionali di formazione sono vecchi e non bastano più. Chi non si adegua rischia di restare fuori in meno di un anno. La buona notizia è che non servono lauree: bastano 3 strumenti specifici al tuo settore per cambiare carriera in poche settimane ⚡️🚗📉. Ti stai già muovendo o preferisci aspettare?",
+      "carousel_slides": [
+        {
+          "hook": "Rischio: obsoleto in 12 mesi",
+          "description": "Chi ignora l'AI oggi rischia di essere superato in 12 mesi. Chi parte ora ha vantaggio concreto.",
+          "visual_hint": "Orologio che corre veloce",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "fast ticking clock"
+        },
+        {
+          "hook": "Auto legacy senza futuro AI",
+          "description": "Lavoratori auto legacy senza training AI. I corsi tradizionali non bastano più per i nuovi ruoli.",
+          "visual_hint": "Operaio accanto a robot",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "factory worker robot",
+          "image": "https://images.pexels.com/photos/29988954/pexels-photo-29988954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ingegneri in trappola",
+          "description": "La maggior parte degli ingegneri auto non può riqualificarsi per l'AI. Solo pochi pivotano in mesi.",
+          "visual_hint": "Due strade che divergono",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "diverging road paths",
+          "image": "https://images.pexels.com/photos/11273641/pexels-photo-11273641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pivota con 3 tool soltanto",
+          "description": "Non serve laurea in data science: bastano 3 tool specifici del tuo settore per pivotare veloce.",
+          "visual_hint": "Mano seleziona tre icone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand selecting icons",
+          "image": "https://images.pexels.com/photos/15084440/pexels-photo-15084440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "6 settimane salvano il lavoro",
+          "description": "Corso di 6 settimane costa meno di una multa. Iscriviti oggi per non perdere il tuo ruolo.",
+          "visual_hint": "Calendario con segno di spunta",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar check mark",
+          "image": "https://images.pexels.com/photos/7805652/pexels-photo-7805652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/rj-scaringe-Getty.jpg?resize=1200,800",
+      "savedAt": "2026-05-17T18:56:01.806Z",
+      "sourceId": "481cbcf6e999de300390526254cffb49"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "if-you-re-giving-a-commencement-speech-in-2026-may",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -1569,7 +1673,7 @@ window.AGENTS = {
       "agent": "ai-news",
       "slug": "us-orders-travelers-on-air-force-one-to-throw-away",
       "prompt_version": "1.0.0",
-      "status": "published",
+      "status": "draft",
       "title": "US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip",
       "link": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
       "pubDate": "Fri, 15 May 2026 15:42:11 +0000",
@@ -1673,7 +1777,7 @@ window.AGENTS = {
       "agent": "ai-news",
       "slug": "osaurus-brings-both-local-and-cloud-ai-models-to-y",
       "prompt_version": "1.0.0",
-      "status": "published",
+      "status": "draft",
       "title": "Osaurus brings both local and cloud AI models to your Mac",
       "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
       "pubDate": "Fri, 15 May 2026 12:19:48 +0000",
@@ -17982,7 +18086,8 @@ window.AGENTS = {
       "link": "https://ricette.giallozafferano.it/Pasta-con-crema-di-melanzane-e-ricotta-salata.html",
       "pubDate": "Fri, 15 May 2026 15:59:00 +0200",
       "savedAt": "2026-05-15T16:02:16.862Z",
-      "image": "https://www.giallozafferano.it/images/361-36157/Pasta-con-crema-di-melanzane-e-ricotta-salata_650x433_wm.jpg"
+      "image": "https://www.giallozafferano.it/images/361-36157/Pasta-con-crema-di-melanzane-e-ricotta-salata_650x433_wm.jpg",
+      "status": "draft"
     },
     {
       "schema_version": 2,
@@ -22645,7 +22750,7 @@ window.AGENTS = {
       "agent": "fitness",
       "slug": "stefania-constantini-tra-curling-palestra-il-lavor",
       "prompt_version": "1.0.0",
-      "status": "published",
+      "status": "draft",
       "title": "Stefania Constantini tra curling, palestra, il lavoro in negozio, il fidanzato e il sogno Cortina 2026  ",
       "link": "https://www.gazzetta.it/fitness/allenamento/storie/07-02-2022/stefania-constantini-curling-palestra-fidanzato-passioni-curiosita-4301302332711/",
       "pubDate": "Tue, 8 Feb 2022 14:43:00 +0100",
