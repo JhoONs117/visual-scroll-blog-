@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "why-trust-is-a-big-question-at-the-elon-musk-opena",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+    "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+    "pubDate": "Sun, 17 May 2026 19:46:34 +0000",
+    "slides": [
+      "Musk alleges OpenAI betrayed its mission for profit.",
+      "Trial hinges on contracts versus unwritten promises.",
+      "Even Musk's own emails may undermine his case.",
+      "Your AI tools' future could hinge on this ruling.",
+      "Read the key evidence—then judge for yourself."
+    ],
+    "thread_text": [
+      "Elon Musk’s own emails may be the strongest evidence against him in his OpenAI case. That’s the kind of twist that can sink a lawsuit.",
+      "The trial asks one core question: did OpenAI’s founders make a binding promise to keep AI nonprofit? Or was that just a press release?",
+      "Musk claims betrayal. But his early support emails show he knew profit was always part of the plan. That directly contradicts his story.",
+      "If the court sides with OpenAI, every company building AI tools gets a green light to commercialize without fear of past statements.",
+      "A single legal definition here—'contract' vs 'aspiration'—will decide whether your AI assistant stays free or goes behind a paywall. Watch the ruling."
+    ],
+    "video_script": [
+      "Musk’s own emails might sink his case.",
+      "The real question: was there a contract?",
+      "He backed OpenAI knowing it would profit.",
+      "This case decides your AI tools’ future.",
+      "One legal word changes everything. Follow it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Elon Musk’s own emails may be the strongest evidence against him in his OpenAI case. That’s the kind of twist that can sink a lawsuit.",
+          "The trial asks one core question: did OpenAI’s founders make a binding promise to keep AI nonprofit? Or was that just a press release?",
+          "Musk claims betrayal. But his early support emails show he knew profit was always part of the plan. That directly contradicts his story.",
+          "If the court sides with OpenAI, every company building AI tools gets a green light to commercialize without fear of past statements.",
+          "A single legal definition here—'contract' vs 'aspiration'—will decide whether your AI assistant stays free or goes behind a paywall. Watch the ruling."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Musk’s own emails might sink his case.",
+          "The real question: was there a contract?",
+          "He backed OpenAI knowing it would profit.",
+          "This case decides your AI tools’ future.",
+          "One legal word changes everything. Follow it."
+        ]
+      },
+      "instagram": {
+        "caption": "Elon Musk ha portato in tribunale OpenAI accusandola di aver tradito la missione no‑profit 🏛️, ma i suoi stessi messaggi dimostrano che sapeva già della possibilità di fare soldi.  \nIl punto è se una promessa orale o una dichiarazione pubblica valga quanto un contratto firmato 📜. Se il giudice dà ragione a OpenAI, le aziende potranno rendere a pagamento gli strumenti AI senza timore di essere citate per le promesse del passato 💸.  \nPer te significa che il tuo assistente AI gratuito potrebbe sparire dietro un abbonamento. L’hai già messo in conto? ⚖️"
+      }
+    },
+    "instagram_caption": "Elon Musk ha portato in tribunale OpenAI accusandola di aver tradito la missione no‑profit 🏛️, ma i suoi stessi messaggi dimostrano che sapeva già della possibilità di fare soldi.  \nIl punto è se una promessa orale o una dichiarazione pubblica valga quanto un contratto firmato 📜. Se il giudice dà ragione a OpenAI, le aziende potranno rendere a pagamento gli strumenti AI senza timore di essere citate per le promesse del passato 💸.  \nPer te significa che il tuo assistente AI gratuito potrebbe sparire dietro un abbonamento. L’hai già messo in conto? ⚖️",
+    "carousel_slides": [
+      {
+        "hook": "His own emails betray him",
+        "description": "Musk’s early support emails show profit was part of the plan, contradicting his betrayal story.",
+        "visual_hint": "Email screenshot with highlights",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "email inbox screen"
+      },
+      {
+        "hook": "Contract or just a press release?",
+        "description": "The trial asks if OpenAI’s nonprofit promise was binding or just aspirational.",
+        "visual_hint": "Gavel and paper document",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "courtroom gavel document",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Musk knew profit was planned",
+        "description": "His early support emails prove he knew commercialization was always part of the deal.",
+        "visual_hint": "Email paper trail close-up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass paper",
+        "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI tools hang in balance",
+        "description": "A ruling for OpenAI could green-light unlimited commercialization of AI assistants.",
+        "visual_hint": "Smartphone with AI app icon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone ai app",
+        "image": "https://images.pexels.com/photos/30530422/pexels-photo-30530422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Will AI stay free or paywalled?",
+        "description": "One legal definition decides if your assistant stays free or goes behind a paywall.",
+        "visual_hint": "Paywall and free symbol contrast",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "paywall sign free",
+        "image": "https://images.pexels.com/photos/36717335/pexels-photo-36717335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
+    "savedAt": "2026-05-17T22:45:10.682Z",
+    "sourceId": "0687ec213c6dc1c0fdbe8cdd30aa3819"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "techcrunch-mobility-the-ai-skills-arms-race-is-com",
     "prompt_version": "1.0.0",
     "status": "published",
