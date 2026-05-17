@@ -17,7 +17,7 @@ Correlato a: PROJECT.md · MANUAL.md · FOOD-AGENT.md
 | FASE 0 — Baseline | ✅ Completa | `scripts/baseline.js` creato |
 | FASE 1 — Schema v2 | ✅ Completa | Tutti i JSON migrati, alias legacy presenti |
 | FASE 1B — Protezione backfill | ✅ Completa | `backfill.js`, `regenerate-all.js`, `backfill-carousel.js` skippano file v2 |
-| FASE 2 — Cache split | ⏭ Saltata | `cache.json` mantiene prefissi (`food:*`, `ainews:*`, `md5`) — split non necessario in questa fase; runner unico usa path per-agente dalla config |
+| FASE 2 — Cache split | ⏭ Saltata | `cache.json` mantiene prefissi — split non necessario |
 | FASE 3 — Registry agenti e canali | ✅ Completa | `agents/index.js`, `channels/index.js` |
 | FASE 4 — Config agenti | ✅ Completa | `agents/ai-news/config.js`, `agents/food/config.js`, `agents/fitness/config.js` |
 | FASE 5 — Runner unico | ✅ Completa | `core/run-agent.js` — orchestra AI news, food, fitness |
@@ -27,7 +27,7 @@ Correlato a: PROJECT.md · MANUAL.md · FOOD-AGENT.md
 | FASE 9 — Agente fitness | ✅ Completa | `agents/fitness/` completo, `output/fitness/`, in CI |
 | FASE 10 — data-agents.js | ✅ Completa | `window.AGENTS = {ai-news, food, fitness}`, `scripts/build-data-agents.js` |
 | FASE 11 — Review multi-canale | ✅ Completa | Badge agente, status pill, prompt_version, select X/IG/TikTok, copia per canale |
-| FASE 12 — Automazione publish | 🚧 In corso | Infrastruttura video/publisher costruibile subito. Publisher in CI bloccato finché non ci sono 30 `status: 'approved'` e tutti i canali validati manualmente. |
+| FASE 12 — Automazione publish | 🚧 In corso | TEST 0–3 ✅. TEST 4–9 e publisher da completare. Publisher in CI bloccato finché non ci sono 30 `status: 'approved'` e tutti i canali validati manualmente. |
 | FASE 13 — Carousel unico | ✅ Completa | `carousel.html?agent=ai-news\|food`; proxy `/proxy-image` in `server.js` per food; `carousel-food.html` rimosso definitivamente |
 
 ---
@@ -1163,11 +1163,45 @@ Tutto il resto si può costruire e testare subito.
 Il publisher in CI è l'unico step irreversibile (un post pubblicato non si cancella
 silenziosamente). Tutto il resto è locale e reversibile.
 
-**Meccanismo approvazione — già implementato (2026-05-17):**
-- `POST /api/set-status` in `server.js` — trova il JSON per `article.slug`, scrive `status`, rilancia `build-data-agents.js` in background
+**Meccanismo approvazione — implementato e fixato (2026-05-17):**
+- `POST /api/set-status` in `server.js` — aggiorna `status` in **tutti** i file con quel slug (non solo il primo trovato), poi in background: rebuild `data-agents.js` → `git commit` → `git push` automatico se `GIT_TOKEN` è configurato
 - `review.html` — tasto Approva per ogni articolo + barra progresso `X/30 approvati`
 - `carousel.html` — status pill + tasto Approva nella barra DL + contatore `X/30 approvati` nella selector bar + `✅` emoji nel dropdown per articoli approvati
-- **Flusso di salvataggio:** approva in locale → `git add output/ && git commit && git push` → Railway rideploya con gli status dal repo (il filesystem Railway è effimero)
+- **Flusso di salvataggio (automatico):** approva da qualsiasi UI → `set-status` aggiorna JSON + rebuilda + git push → Railway rideploya con stato corretto
+- **`build-data-agents.js`**: tra duplicati dello stesso slug, mantiene sempre lo status con priorità più alta (`approved > published > draft`) — non perde mai un'approvazione anche se la pipeline rigenera lo stesso articolo
+- **Env var richiesta:** `GIT_TOKEN` in `.env` locale e in Railway Variables per abilitare il push automatico
+
+---
+
+### 12 — Stato TEST (aggiornato 2026-05-17)
+
+| TEST | Descrizione | File | Stato |
+|---|---|---|---|
+| TEST 0 | Prerequisiti ffmpeg, font, API keys | `scripts/check-video-prereqs.js` | ✅ |
+| TEST 1 | `estimateDuration` — clamp 2.5–5s | `core/video-utils.js` | ✅ |
+| TEST 2 | `generateVideoScenes` — 5 scene, query specifiche | `core/generate-video.js` | ✅ |
+| TEST 3 | `fetchPexelsVideo` — clip diverse per scene diverse, cache | `core/fetch-video.js` | ✅ |
+| TEST 4 | Render singola scena (`--scene 0`) | `render/render-video.js` | ⏳ |
+| TEST 5 | Render completo 5 scene (`--limit 1`) | `render/render-video.js` | ⏳ |
+| TEST 6 | Failure isolation — Pexels down → black clip | — | ⏳ |
+| TEST 7 | No git pollution — renders/ non appare in git status | — | ⏳ |
+| TEST 8 | Vincolo `--limit` e blocco `--all` | — | ⏳ |
+| TEST 9 | Font drawtext con Inter-Bold.ttf | — | ⏳ |
+
+**File creati in FASE 12 finora:**
+```
+scripts/check-video-prereqs.js   ✅
+core/video-utils.js              ✅  (estimateDuration, hashQuery, buildBlackClip, verifyMp4)
+core/generate-video.js           ✅  (generateVideoScenes via DeepSeek)
+core/fetch-video.js              ✅  (fetchPexelsVideo con cache in cache/video-clips/)
+render/render-video.js           ✅  (orchestratore completo, --agent --slug --limit --scene)
+assets/fonts/Inter-Bold.ttf      ✅
+```
+
+**Fix approvazione (2026-05-17):**
+- `server.js` set-status: aggiorna tutti i duplicati + auto git push
+- `build-data-agents.js`: merge status tra duplicati (approved > published > draft)
+- Richiede `GIT_TOKEN` in `.env` locale e Railway Variables
 
 ---
 
