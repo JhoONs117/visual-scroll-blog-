@@ -27,7 +27,7 @@ Correlato a: PROJECT.md · MANUAL.md · FOOD-AGENT.md
 | FASE 9 — Agente fitness | ✅ Completa | `agents/fitness/` completo, `output/fitness/`, in CI |
 | FASE 10 — data-agents.js | ✅ Completa | `window.AGENTS = {ai-news, food, fitness}`, `scripts/build-data-agents.js` |
 | FASE 11 — Review multi-canale | ✅ Completa | Badge agente, status pill, prompt_version, select X/IG/TikTok, copia per canale |
-| FASE 12 — Automazione publish | 🔒 Bloccata | Meccanismo approvazione ✅ pronto (`POST /api/set-status` + tasto Approva in review.html + carousel.html). Sblocca con 30 `status: 'approved'`. |
+| FASE 12 — Automazione publish | 🚧 In corso | Infrastruttura video/publisher costruibile subito. Publisher in CI bloccato finché non ci sono 30 `status: 'approved'` e tutti i canali validati manualmente. |
 | FASE 13 — Carousel unico | ✅ Completa | `carousel.html?agent=ai-news\|food`; proxy `/proxy-image` in `server.js` per food; `carousel-food.html` rimosso definitivamente |
 
 ---
@@ -1143,11 +1143,25 @@ open http://localhost:3000/review.html
 
 ---
 
-## FASE 12 — Media Pipeline & Autonomous Publishing 🔒 (bloccata)
+## FASE 12 — Media Pipeline & Autonomous Publishing
 
-**Prerequisito hard:** almeno 30 articoli con `status: 'approved'` impostato
-manualmente da `review.html` o `carousel.html`. Il dato è più importante dell'automazione.
-Non iniziare questa fase prima.
+**Prerequisito per il publisher in CI:** almeno 30 articoli con `status: 'approved'`
+impostati manualmente da `review.html` o `carousel.html`.
+Il requisito si applica **solo all'ultimo step** (abilitare scheduler.js in GitHub Actions).
+Tutto il resto si può costruire e testare subito.
+
+**Strategia di sblocco progressivo (aggiornata 2026-05-17):**
+```
+1. Costruisci tutta l'infrastruttura (video-utils, fetch-video, generate-video,
+   render-video, publisher-*.js) — nessun prerequisito di approvazioni.
+2. Testa il renderer con 1–2 articoli approvati manualmente solo per il test.
+3. Testa i publisher uno alla volta da terminale (X → Instagram → TikTok)
+   su un singolo articolo, verificando l'output prima di passare al canale successivo.
+4. Aggiungi scheduler.js al CI solo dopo aver validato tutti e tre i canali
+   manualmente e raggiunto 30 articoli approvati.
+```
+Il publisher in CI è l'unico step irreversibile (un post pubblicato non si cancella
+silenziosamente). Tutto il resto è locale e reversibile.
 
 **Meccanismo approvazione — già implementato (2026-05-17):**
 - `POST /api/set-status` in `server.js` — trova il JSON per `article.slug`, scrive `status`, rilancia `build-data-agents.js` in background
