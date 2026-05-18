@@ -27,7 +27,7 @@ Correlato a: PROJECT.md · MANUAL.md · FOOD-AGENT.md
 | FASE 9 — Agente fitness | ✅ Completa | `agents/fitness/` completo, `output/fitness/`, in CI |
 | FASE 10 — data-agents.js | ✅ Completa | `window.AGENTS = {ai-news, food, fitness}`, `scripts/build-data-agents.js` |
 | FASE 11 — Review multi-canale | ✅ Completa | Badge agente, status pill, prompt_version, select X/IG/TikTok, copia per canale |
-| FASE 12 — Automazione publish | 🚧 In corso | TEST 0–3 ✅. TEST 4–9 e publisher da completare. Publisher in CI bloccato finché non ci sono 30 `status: 'approved'` e tutti i canali validati manualmente. |
+| FASE 12 — Automazione publish | 🚧 In corso | TEST 0–9 ✅ tutti verdi. Publisher (scheduler + X + IG + TikTok) da implementare. Publisher in CI bloccato finché non ci sono 30 `status: 'approved'` e tutti i canali validati manualmente. |
 | FASE 13 — Carousel unico | ✅ Completa | `carousel.html?agent=ai-news\|food`; proxy `/proxy-image` in `server.js` per food; `carousel-food.html` rimosso definitivamente |
 
 ---
@@ -1181,12 +1181,15 @@ silenziosamente). Tutto il resto è locale e reversibile.
 | TEST 1 | `estimateDuration` — clamp 2.5–5s | `core/video-utils.js` | ✅ |
 | TEST 2 | `generateVideoScenes` — 5 scene, query specifiche | `core/generate-video.js` | ✅ |
 | TEST 3 | `fetchPexelsVideo` — clip diverse per scene diverse, cache | `core/fetch-video.js` | ✅ |
-| TEST 4 | Render singola scena (`--scene 0`) | `render/render-video.js` | ⏳ |
-| TEST 5 | Render completo 5 scene (`--limit 1`) | `render/render-video.js` | ⏳ |
-| TEST 6 | Failure isolation — Pexels down → black clip | — | ⏳ |
-| TEST 7 | No git pollution — renders/ non appare in git status | — | ⏳ |
-| TEST 8 | Vincolo `--limit` e blocco `--all` | — | ⏳ |
-| TEST 9 | Font drawtext con Inter-Bold.ttf | — | ⏳ |
+| TEST 4 | Render singola scena (`--scene 0`) — 1080×1920 H264 | `render/render-video.js` | ✅ |
+| TEST 5 | Render completo 5 scene — 16.9s, 2.8MB, render_status:rendered | `render/render-video.js` | ✅ |
+| TEST 6 | Failure isolation — minDuration impossibile → black clip 1080×1920 con audio | — | ✅ |
+| TEST 7 | No git pollution — renders/ non appare in git status | — | ✅ |
+| TEST 8 | Vincolo `--limit 3` bloccato + `--all` bloccato con errore esplicito | — | ✅ |
+| TEST 9 | drawtext con Inter-Bold.ttf — 2s clip generata correttamente | — | ✅ |
+
+> **Nota TEST 6:** Pexels fa fuzzy matching anche su query assurde. Il black clip si testa
+> con `minDuration: 300` (nessuna clip è lunga 5 minuti) oppure verificando `buildBlackClip` direttamente.
 
 **File creati in FASE 12 finora:**
 ```
