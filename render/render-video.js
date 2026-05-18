@@ -117,6 +117,24 @@ function motionFilter(motion, durationSec) {
   }
 }
 
+// ── wrappa voice in max 2 righe per il subtitle ──────────────────────────────
+function wrapVoiceText(text, maxChars = 32) {
+  const words = text.split(' ');
+  const lines = [];
+  let current = '';
+  for (const word of words) {
+    const candidate = current ? `${current} ${word}` : word;
+    if (candidate.length > maxChars && current) {
+      lines.push(current);
+      current = word;
+    } else {
+      current = candidate;
+    }
+  }
+  if (current) lines.push(current);
+  return lines.slice(0, 2).join('\n');
+}
+
 // ── processa una scena → mp4 senza audio ─────────────────────────────────────
 async function processScene(scene, sceneIndex, dur, tmpDir) {
   const clip = await fetchPexelsVideo(scene.query, {
@@ -127,18 +145,22 @@ async function processScene(scene, sceneIndex, dur, tmpDir) {
   });
 
   const outPath = path.join(tmpDir, `scene_${sceneIndex}.mp4`);
-  const subtitle = escapeDrawtext(scene.subtitle);
-  const drawtext = `drawtext=fontfile='${FONT_PATH}':text='${subtitle}':fontsize=52:fontcolor=white:borderw=3:bordercolor=black:x=(w-text_w)/2:y=h*0.82`;
+
+  // subtitle = testo voice completo (max 2 righe), scritto in textfile per evitare escape
+  const subtitleText = wrapVoiceText(scene.voice);
+  const subtitleFile = path.join(tmpDir, `sub_${sceneIndex}.txt`);
+  fs.writeFileSync(subtitleFile, subtitleText);
+  const drawtext = `drawtext=fontfile='${FONT_PATH}':textfile='${subtitleFile}':fontsize=44:fontcolor=white:borderw=3:bordercolor=black:x=(w-text_w)/2:y=h*0.80:line_spacing=8`;
 
   if (clip.type === 'black') {
     console.log(`  scena ${sceneIndex + 1}: black clip (fallback)`);
-    const blackNoSub = path.join(tmpDir, `black_raw_${sceneIndex}.mp4`);
-    await buildBlackClip(blackNoSub, dur);
+    const blackRaw = path.join(tmpDir, `black_raw_${sceneIndex}.mp4`);
+    await buildBlackClip(blackRaw, dur);
     execSync(
-      `ffmpeg -y -i "${blackNoSub}" -vf "${drawtext}" -t ${dur} -an -c:v libx264 -preset fast "${outPath}"`,
+      `ffmpeg -y -i "${blackRaw}" -vf "${drawtext}" -t ${dur} -an -c:v libx264 -preset fast "${outPath}"`,
       { stdio: 'pipe' }
     );
-    fs.unlinkSync(blackNoSub);
+    fs.unlinkSync(blackRaw);
   } else {
     console.log(`  scena ${sceneIndex + 1}: clip Pexels id=${clip.id}`);
     const rawPath = path.join(tmpDir, `raw_${sceneIndex}.mp4`);
@@ -146,9 +168,7 @@ async function processScene(scene, sceneIndex, dur, tmpDir) {
 
     const motion = motionFilter(scene.motion, dur);
     const cropScale = `scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1,fps=30`;
-    const vf = motion
-      ? `${cropScale},${motion},${drawtext}`
-      : `${cropScale},${drawtext}`;
+    const vf = motion ? `${cropScale},${motion},${drawtext}` : `${cropScale},${drawtext}`;
 
     execSync(
       `ffmpeg -y -i "${rawPath}" -vf "${vf}" -t ${dur} -an -c:v libx264 -preset fast "${outPath}"`,
@@ -160,30 +180,34 @@ async function processScene(scene, sceneIndex, dur, tmpDir) {
   return outPath;
 }
 
-// ── concatena scene ───────────────────────────────────────────────────────────
+// ── TTS per-scena + merge video+audio → scena finale ─────────────────────────
+async function buildSceneWithAudio(videoPath, voiceText, sceneIndex, tmpDir) {
+  const audioPath = path.join(tmpDir, `tts_${sceneIndex}.mp3`);
+  await generateTTS(voiceText, audioPath);
+
+  const outPath = path.join(tmpDir, `scene_final_${sceneIndex}.mp4`);
+  execSync(
+    `ffmpeg -y -i "${videoPath}" -i "${audioPath}" ` +
+    `-map 0:v -map 1:a -c:v copy -c:a aac -shortest "${outPath}"`,
+    { stdio: 'pipe' }
+  );
+  return outPath;
+}
+
+// ── concatena scene con audio ─────────────────────────────────────────────────
 function concatScenes(scenePaths, tmpDir) {
   const listFile = path.join(tmpDir, 'concat.txt');
-  const content = scenePaths.map(p => `file '${p}'`).join('\n');
-  fs.writeFileSync(listFile, content);
+  fs.writeFileSync(listFile, scenePaths.map(p => `file '${p}'`).join('\n'));
 
-  const concatPath = path.join(tmpDir, 'concat_noaudio.mp4');
+  const concatPath = path.join(tmpDir, 'concat_final.mp4');
   execSync(
-    `ffmpeg -y -f concat -safe 0 -i "${listFile}" -c:v libx264 -preset fast "${concatPath}"`,
+    `ffmpeg -y -f concat -safe 0 -i "${listFile}" -c:v libx264 -preset fast -c:a aac "${concatPath}"`,
     { stdio: 'pipe' }
   );
   return concatPath;
 }
 
-// ── mix voiceover ─────────────────────────────────────────────────────────────
-function mixVoiceover(videoPath, audioPath, outputPath) {
-  execSync(
-    `ffmpeg -y -i "${videoPath}" -i "${audioPath}" ` +
-    `-map 0:v -map 1:a -c:v copy -c:a aac -shortest "${outputPath}"`,
-    { stdio: 'pipe' }
-  );
-}
-
-// ── aggiorna render_status nel JSON ──────────────────────────────────────────
+// ── aggiorna render_status nel JSON ─────────────────────────────────────────
 function updateArticle(filePath, fields) {
   const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
   Object.assign(data, fields);
@@ -212,40 +236,39 @@ async function renderArticle(articleFile, articleData) {
     const targetScenes = sceneArg !== null ? [scenes[sceneArg]] : scenes;
     global._usedClipIds = new Set();
 
-    // 3. processa ogni scena in sequenza (l'ordine è fisso per design)
-    const scenePaths = [];
+    // 3+4. per ogni scena: video + TTS per-scena → scena con audio sincronizzato
+    const finalScenePaths = [];
     for (let i = 0; i < targetScenes.length; i++) {
       const scene = targetScenes[i];
+      const sceneIdx = sceneArg !== null ? sceneArg : i;
       const dur = estimateDuration(scene.voice);
-      const scenePath = await processScene(scene, sceneArg !== null ? sceneArg : i, dur, tmpDir);
-      scenePaths.push(scenePath);
+
+      const videoPath = await processScene(scene, sceneIdx, dur, tmpDir);
+
+      if (sceneArg !== null) {
+        // test singola scena: niente TTS né concat
+        fs.copyFileSync(videoPath, finalPath);
+        console.log(`✅ scena ${sceneArg} → ${finalPath}`);
+        break;
+      }
+
+      console.log(`  TTS scena ${i + 1}...`);
+      const sceneWithAudio = await buildSceneWithAudio(videoPath, scene.voice, sceneIdx, tmpDir);
+      finalScenePaths.push(sceneWithAudio);
     }
 
-    if (sceneArg !== null) {
-      // test singola scena: niente TTS né concat
-      fs.copyFileSync(scenePaths[0], finalPath);
-      console.log(`✅ scena ${sceneArg} → ${finalPath}`);
-    } else {
-      // 4. TTS singolo per tutto il voiceover
-      console.log('  TTS voiceover...');
-      const voiceText = scenes.map(s => s.voice).join(' ');
-      const voicePath = path.join(tmpDir, 'voiceover.mp3');
-      await generateTTS(voiceText, voicePath);
-
-      // 5. concatena
+    if (sceneArg === null) {
+      // 5. concatena scene (già con audio per-scena)
       console.log('  concatenazione scene...');
-      const concatPath = concatScenes(scenePaths, tmpDir);
+      const concatPath = concatScenes(finalScenePaths, tmpDir);
+      fs.copyFileSync(concatPath, finalPath);
 
-      // 6. mix voiceover
-      console.log('  mix voiceover...');
-      mixVoiceover(concatPath, voicePath, finalPath);
-
-      // 7. verifica
+      // 6. verifica
       const info = verifyMp4(finalPath);
       console.log(`✅ ${slug} → ${finalPath}`);
       console.log(`   ${info.width}x${info.height} | ${info.duration.toFixed(1)}s | ${(info.sizeBytes / 1024 / 1024).toFixed(1)}MB | ${info.codec}`);
 
-      // 8. aggiorna render_status
+      // 7. aggiorna render_status
       updateArticle(articleFile, { render_status: 'rendered', render_version: '1' });
     }
   } catch (err) {
