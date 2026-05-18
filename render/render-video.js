@@ -31,14 +31,6 @@ const sceneArg  = arg('--scene') !== null ? parseInt(arg('--scene'), 10) : null;
 
 if (!agentId) { console.error('❌ --agent richiesto (es. ai-news | food | fitness)'); process.exit(1); }
 
-// ── guard: limite massimo in fase di test ────────────────────────────────────
-const MAX_TEST_LIMIT = 2;
-if (limitArg > MAX_TEST_LIMIT) {
-  console.error(`❌ --limit ${limitArg} non permesso in fase di test (max ${MAX_TEST_LIMIT}).`);
-  console.error('   Rimuovi questo vincolo esplicitamente nel codice quando V1 è validato.');
-  process.exit(1);
-}
-
 // ── percorsi ─────────────────────────────────────────────────────────────────
 const OUTPUT_DIR   = path.join(ROOT, 'output', agentId === 'ai-news' ? '' : agentId);
 const RENDERS_DIR  = path.join(ROOT, 'output', agentId === 'ai-news' ? '' : agentId, 'renders');
