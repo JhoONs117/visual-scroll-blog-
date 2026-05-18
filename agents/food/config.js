@@ -15,6 +15,7 @@ module.exports = {
   id:              'food',
   label:           '5 Step Food',
   emoji:           '🍳',
+  language:        'italian',
   outputDir:       path.join(__dirname, '../../output/food'),
   cacheFile:       path.join(__dirname, '../../cache/food.json'),
   reviewQueueFile: null,

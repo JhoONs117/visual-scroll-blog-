@@ -7,29 +7,39 @@ async function generateVideoScenes(article) {
   const slides = (article.carousel_slides || []).slice(0, 5);
   const script = article.formats?.tiktok?.script || article.video_script || [];
 
+  // language viene dall'articolo (scritto da run-agent al momento della generazione)
+  // default: english — italian solo se l'agente lo specifica esplicitamente
+  const language = article.language || 'english';
+  const langInstruction = language === 'italian'
+    ? 'voice e subtitle DEVONO essere in italiano.'
+    : 'voice e subtitle MUST be in English.';
+
   const slidesContext = slides.map((s, i) => {
     const hint = s.visual_hint || s.image_query || '';
     const voice = script[i] || s.text || s.title || '';
-    return `Scena ${i + 1}: voice="${voice}" | visual_hint="${hint}"`;
+    return `Scene ${i + 1}: voice="${voice}" | visual_hint="${hint}"`;
   }).join('\n');
 
-  const prompt = `Sei un editor video TikTok. Devi generare esattamente 5 scene video per questo articolo.
+  const prompt = `You are a TikTok video editor. Generate exactly 5 video scenes for this article.
 
-Titolo: ${article.title}
+Title: ${article.title}
 
-Scene (voice + visual_hint):
+Scenes (voice + visual_hint):
 ${slidesContext}
 
-Per ogni scena restituisci un oggetto JSON con questi campi:
-- scene: numero (1-5)
-- voice: testo parlato (uguale al voice fornito, non modificare)
-- subtitle: versione abbreviata max 5 parole del voice
-- query: query semantica per Pexels stock video (es. "chef slicing vegetables kitchen"). DEVE descrivere una scena reale ripresa in B-roll. NON usare parole astratte come "technology", "innovation", "concept", "abstract".
-- motion: uno tra "zoom-in" | "zoom-out" | "pan-right" | "pan-left" | "static"
-- transition: uno tra "fade" | "cut" | "slide"
-- duration: stima secondi (numero intero 3-5)
+Language rule: ${langInstruction}
+Query rule: query field MUST always be in English (Pexels works best with English queries). Describe a real B-roll scene. Never use abstract words like "technology", "innovation", "concept", "abstract".
 
-Rispondi SOLO con un array JSON valido di 5 oggetti. Nessun testo prima o dopo.`;
+For each scene return a JSON object with:
+- scene: number (1-5)
+- voice: spoken text (same as the provided voice, do not modify)
+- subtitle: abbreviated version max 5 words, same language as voice
+- query: semantic Pexels query in ENGLISH (e.g. "chef slicing vegetables kitchen")
+- motion: one of "zoom-in" | "zoom-out" | "pan-right" | "pan-left" | "static"
+- transition: one of "fade" | "cut" | "slide"
+- duration: estimated seconds (integer 3-5)
+
+Reply ONLY with a valid JSON array of 5 objects. No text before or after.`;
 
   const raw = await callDeepSeek(prompt);
   const cleaned = raw.replace(/```json|```/g, '').trim();

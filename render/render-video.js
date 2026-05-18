@@ -43,6 +43,13 @@ if (limitArg > MAX_TEST_LIMIT) {
 const OUTPUT_DIR   = path.join(ROOT, 'output', agentId === 'ai-news' ? '' : agentId);
 const RENDERS_DIR  = path.join(ROOT, 'output', agentId === 'ai-news' ? '' : agentId, 'renders');
 
+// ── language da config agente ─────────────────────────────────────────────────
+let agentLanguage = 'english';
+try {
+  const cfg = require(`../agents/${agentId}/config`);
+  agentLanguage = cfg.language || 'english';
+} catch { /* agente non ha config — usa default */ }
+
 // ai-news articles sono in output/ direttamente
 function getOutputDir() {
   if (agentId === 'ai-news') return path.join(ROOT, 'output');
@@ -198,8 +205,8 @@ async function renderArticle(articleFile, articleData) {
   try {
     console.log(`\n▶ render: ${slug}`);
 
-    // 1. genera scene
-    const scenes = await generateVideoScenes(articleData);
+    // 1. genera scene — inietta language dalla config agente
+    const scenes = await generateVideoScenes({ ...articleData, language: agentLanguage });
 
     // 2. scegli le scene da processare
     const targetScenes = sceneArg !== null ? [scenes[sceneArg]] : scenes;

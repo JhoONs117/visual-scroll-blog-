@@ -25,6 +25,7 @@ module.exports = {
   id:              'ai-news',
   label:           'AI News',
   emoji:           '⚡',
+  language:        'english',
   outputDir:       OUTPUT_DIR,
   cacheFile:       path.join(__dirname, '../../cache/ai-news.json'),
   reviewQueueFile: path.join(__dirname, '../../review_queue.json'),

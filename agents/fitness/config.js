@@ -20,6 +20,7 @@ module.exports = {
   id:              'fitness',
   label:           'Flash Fitness',
   emoji:           '💪',
+  language:        'english',
   outputDir:       OUTPUT_DIR,
   cacheFile:       path.join(__dirname, '../../cache/fitness.json'),
   reviewQueueFile: null,
