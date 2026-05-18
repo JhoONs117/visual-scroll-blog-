@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "sandboxaq-brings-its-drug-discovery-models-to-clau",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+    "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "pubDate": "Mon, 18 May 2026 21:29:31 +0000",
+    "slides": [
+      "SandboxAQ vuole accelerare la tua scoperta di farmaci?",
+      "Ha portato i suoi modelli direttamente dentro Claude.",
+      "Niente dottorato in informatica: solo conversazione.",
+      "Chi non prova questo workflow rimane indietro nei trial.",
+      "Apri Claude oggi e testa un'interazione reale."
+    ],
+    "thread_text": [
+      "Niente dottorato in informatica. Solo una conversazione con Claude per progettare un farmaco.",
+      "SandboxAQ ha portato i suoi modelli di scoperta farmaceutica dentro Claude. Non è una demo: funziona.",
+      "Descrivi la proteina che vuoi colpire in linguaggio naturale. Il modello genera candidati molecolari in tempo reale.",
+      "I team che usano questo flusso completano in giorni quello che prima richiedeva settimane di coding e bioinformatica.",
+      "Apri Claude oggi e chiedigli: 'Proponimi tre molecole per questo bersaglio.' Vedi cosa succede."
+    ],
+    "video_script": [
+      "Non serve saper programmare.",
+      "Parli con Claude e lui progetta farmaci.",
+      "SandboxAQ ha unito i due mondi.",
+      "In giorni, non settimane.",
+      "Prova oggi: chiedi una molecola."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Niente dottorato in informatica. Solo una conversazione con Claude per progettare un farmaco.",
+          "SandboxAQ ha portato i suoi modelli di scoperta farmaceutica dentro Claude. Non è una demo: funziona.",
+          "Descrivi la proteina che vuoi colpire in linguaggio naturale. Il modello genera candidati molecolari in tempo reale.",
+          "I team che usano questo flusso completano in giorni quello che prima richiedeva settimane di coding e bioinformatica.",
+          "Apri Claude oggi e chiedigli: 'Proponimi tre molecole per questo bersaglio.' Vedi cosa succede."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Non serve saper programmare.",
+          "Parli con Claude e lui progetta farmaci.",
+          "SandboxAQ ha unito i due mondi.",
+          "In giorni, non settimane.",
+          "Prova oggi: chiedi una molecola."
+        ]
+      },
+      "instagram": {
+        "caption": "SandboxAQ ha caricato i suoi modelli di scoperta farmaceutica dentro Claude. 🧬 Niente più PhD in informatica: descrivi una proteina a parole tue e il sistema genera candidati molecolari in tempo reale. 💬 I team che lo usano completano in giorni quello che prima richiedeva settimane di coding. 🔬 Per te? Apri Claude, chiedigli: \"Proponimi tre molecole per questo bersaglio\" — e vedi se funziona. ⏱️ Chi non prova questo flusso rischia di restare indietro nei trial."
+      }
+    },
+    "instagram_caption": "SandboxAQ ha caricato i suoi modelli di scoperta farmaceutica dentro Claude. 🧬 Niente più PhD in informatica: descrivi una proteina a parole tue e il sistema genera candidati molecolari in tempo reale. 💬 I team che lo usano completano in giorni quello che prima richiedeva settimane di coding. 🔬 Per te? Apri Claude, chiedigli: \"Proponimi tre molecole per questo bersaglio\" — e vedi se funziona. ⏱️ Chi non prova questo flusso rischia di restare indietro nei trial.",
+    "carousel_slides": [
+      {
+        "hook": "Niente PhD, solo conversazione",
+        "description": "SandboxAQ porta i suoi modelli farmaceutici dentro Claude. Funziona davvero, non è una demo",
+        "visual_hint": "Chat UI con molecola",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "drug discovery molecule"
+      },
+      {
+        "hook": "Descrivi il bersaglio",
+        "description": "Descrivi la proteina in linguaggio naturale. Il modello genera candidati molecolari in tempo reale",
+        "visual_hint": "Schermata molecole 3D",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "protein structure model",
+        "image": "https://images.pexels.com/photos/7723368/pexels-photo-7723368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Giorni, non settimane",
+        "description": "I team che usano questo flusso completano in giorni ciò che richiedeva settimane di coding e bioinformatica",
+        "visual_hint": "Calendario con freccia",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chemistry laboratory equipment",
+        "image": "https://images.pexels.com/photos/8940463/pexels-photo-8940463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova su Claude ora",
+        "description": "Apri Claude e chiedi: 'Proponimi tre molecole per questo bersaglio.' Vedi cosa succede",
+        "visual_hint": "Mani su tastiera",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "computer keyboard typing",
+        "image": "https://images.pexels.com/photos/7172653/pexels-photo-7172653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Resti indietro senza",
+        "description": "Chi non prova questo workflow resta indietro nei trial. Apri Claude oggi e testa un'interazione reale",
+        "visual_hint": "Grafico crescita trial",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "pharmaceutical lab test",
+        "image": "https://images.pexels.com/photos/8851791/pexels-photo-8851791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-5339511481.jpg?w=640",
+    "savedAt": "2026-05-18T22:51:29.815Z",
+    "sourceId": "d8859cfa6328132ab539eff087a26d94"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "anthropic-has-acquired-the-dev-tools-startup-used-",
     "prompt_version": "1.0.0",
     "status": "published",
