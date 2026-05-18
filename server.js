@@ -76,6 +76,25 @@ http.createServer((req, res) => {
     return;
   }
 
+  /* ── TikTok OAuth callback (temporaneo per generare token) ── */
+  if (urlPath === '/tiktok-callback') {
+    const qs = new URL('http://x' + req.url).searchParams;
+    const code  = qs.get('code') || '';
+    const error = qs.get('error') || '';
+    res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
+    if (error) {
+      res.end(`<h2>❌ Errore TikTok: ${error}</h2>`);
+    } else {
+      res.end(
+        `<h2>✅ Codice ottenuto</h2>` +
+        `<p>Copia questo codice e usalo nel terminale:</p>` +
+        `<pre style="background:#111;color:#0f0;padding:16px;font-size:18px">${code}</pre>` +
+        `<p>Poi esegui: <code>node scripts/exchange-tiktok-code.js ${code}</code></p>`
+      );
+    }
+    return;
+  }
+
   /* ── Image proxy for carousel download (bypasses CORS on upstream images) ── */
   if (urlPath === '/proxy-image') {
     let target;
