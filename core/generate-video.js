@@ -11,8 +11,8 @@ async function generateVideoScenes(article) {
   // default: english — italian solo se l'agente lo specifica esplicitamente
   const language = article.language || 'english';
   const langInstruction = language === 'italian'
-    ? 'voice e subtitle DEVONO essere in italiano.'
-    : 'voice e subtitle MUST be in English.';
+    ? 'voice e subtitle DEVONO essere in italiano. Usa il testo voice fornito senza modificarlo.'
+    : 'voice and subtitle MUST be in English. If the provided voice text is in another language, translate it to English before using it.';
 
   const slidesContext = slides.map((s, i) => {
     const hint = s.visual_hint || s.image_query || '';
@@ -32,7 +32,7 @@ Query rule: query field MUST always be in English (Pexels works best with Englis
 
 For each scene return a JSON object with:
 - scene: number (1-5)
-- voice: spoken text (same as the provided voice, do not modify)
+- voice: spoken text — apply the language rule above (translate if needed)
 - subtitle: abbreviated version max 5 words, same language as voice
 - query: semantic Pexels query in ENGLISH (e.g. "chef slicing vegetables kitchen")
 - motion: one of "zoom-in" | "zoom-out" | "pan-right" | "pan-left" | "static"
