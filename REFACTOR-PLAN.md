@@ -27,7 +27,7 @@ Correlato a: PROJECT.md · MANUAL.md · FOOD-AGENT.md
 | FASE 9 — Agente fitness | ✅ Completa | `agents/fitness/` completo, `output/fitness/`, in CI |
 | FASE 10 — data-agents.js | ✅ Completa | `window.AGENTS = {ai-news, food, fitness}`, `scripts/build-data-agents.js` |
 | FASE 11 — Review multi-canale | ✅ Completa | Badge agente, status pill, prompt_version, select X/IG/TikTok, copia per canale |
-| FASE 12 — Automazione publish | 🚧 In corso | TEST 0–9 ✅. render-video.js ✅ (TTS per-scena, subtitle voice, lingua). publisher-x.js ✅ (bloccato X API Free — serve Basic $100/mese). publisher-instagram.js + publisher-tiktok.js + scheduler.js da fare. |
+| FASE 12 — Automazione publish | 🚧 In corso — Instagram bloccato | TEST 0–9 ✅. render-video.js ✅. publisher-x.js ✅ (bloccato X API Free). publisher-tiktok.js ✅ **TESTATO** (bozze inbox, sandbox video.upload). publisher-instagram.js ✅ (bloccato — impossibile creare account developer Instagram al momento). scheduler.js ✅. |
 | FASE 13 — Carousel unico | ✅ Completa | `carousel.html?agent=ai-news\|food`; proxy `/proxy-image` in `server.js` per food; `carousel-food.html` rimosso definitivamente |
 
 ---
@@ -1607,27 +1607,66 @@ In tutti i casi:
 
 ---
 
-### 12.12 — Publisher adapters
+### 12.12 — Publisher adapters ✅
 
 ```
 publish/
-  scheduler.js          ← legge articoli con status: 'approved' + render_status: 'rendered'
-  publisher-x.js        ← posta thread su X via API Twitter v2
-  publisher-instagram.js← carica carousel (5 PNG) + caption su Instagram Graph API
-  publisher-tiktok.js   ← upload mp4 su TikTok Content Posting API
+  scheduler.js          ✅ legge articoli approved+rendered, gira tutti i canali
+  publisher-x.js        ✅ thread su X API v2 (bloccato: X API Free non permette POST)
+  publisher-instagram.js✅ carousel (immagini da formats.instagram.carousel) + caption
+  publisher-tiktok.js   ✅ upload mp4 render su TikTok Content Posting API v2
+```
 
-Ogni publisher:
-  - riceve asset già renderizzati (mp4, PNG già generati)
-  - non genera contenuto
-  - pubblica soltanto
-  - aggiorna publish_status[canale] nel JSON: 'published' | 'failed'
-  - salva publish_error[canale] se fallisce
-  - retry max 3 volte con backoff esponenziale
+**Instagram publisher — ⏸ BLOCCATO (2026-05-18):**
+- Implementato ma non testato — account developer Instagram non attivabile al momento
+- Usa `formats.instagram.carousel[].image` (Pexels URLs già in JSON)
+- Fallback: Pexels API fetch per slide senza image URL
+- Richiede: `INSTAGRAM_USER_ID` + `INSTAGRAM_ACCESS_TOKEN` (instagram_content_publish)
+- API: `graph.facebook.com/v21.0/{user-id}/media` → carousel container → media_publish
+- CLI: `node publish/publisher-instagram.js --agent ai-news --slug SLUG`
+- Da fare quando sbloccato: setup Facebook App → Instagram Business → genera token → testa
 
-Workflow status completo:
-  draft → approved → scheduled → published → failed
-                              ↳ render_status: pending → rendered → failed
-                                                        ↳ retry automatico al prossimo run
+**TikTok publisher ✅ TESTATO (2026-05-18):**
+- Legge mp4 da `output/{agent}/renders/{slug}.mp4`
+- Sandbox usa scope `video.upload` → upload come bozza inbox (status finale: `SEND_TO_USER_INBOX`)
+- Il creator vede la bozza nell'app TikTok e la pubblica manualmente
+- Production: richiedere scope `video.publish` per post diretto
+- Credenziali: `TIKTOK_CLIENT_KEY`, `TIKTOK_CLIENT_SECRET`, `TIKTOK_ACCESS_TOKEN` (scade 24h)
+- **Rinnovo token (✅ automatico):** `node scripts/refresh-tiktok-token.js` — usa TIKTOK_REFRESH_TOKEN, aggiorna .env in-place. Refresh token dura ~365gg.
+- OAuth da zero: `node scripts/get-tiktok-token.js` (localhost) oppure URL manuale → `/tiktok-callback` su Railway
+- CLI: `node publish/publisher-tiktok.js --agent ai-news --slug SLUG`
+
+**MAX_TEST_LIMIT rimosso ✅ (2026-05-18):**
+- `render/render-video.js` non ha più il limite di 2 articoli per run — V1 validato
+- `--limit N` ora accetta qualsiasi valore; senza `--limit` processa 1 articolo alla volta
+- Per renderizzare tutti gli approved in una run: `node render/render-video.js --agent ai-news --limit 99`
+
+**Scheduler:**
+- Trova tutti slug con status:approved + render_status:rendered (uno per slug)
+- Pubblica su canali configurati (default: tutti; `--channels instagram,tiktok` per subset)
+- `--dry-run` per vedere cosa verrebbe pubblicato senza farlo
+- Salta automaticamente canali già published per quell'articolo
+- CLI: `node publish/scheduler.js --agent ai-news [--dry-run] [--channels instagram,tiktok]`
+
+**Setup credenziali Instagram:**
+1. developers.facebook.com → crea App → aggiungi prodotto "Instagram"
+2. Business Login → seleziona permessi: `instagram_basic`, `instagram_content_publish`
+3. Collega Instagram Business account → genera User Access Token
+4. Converti in Long-Lived Token: GET /oauth/access_token?grant_type=fb_exchange_token
+5. Aggiungi in .env: `INSTAGRAM_USER_ID`, `INSTAGRAM_ACCESS_TOKEN`
+
+**Setup credenziali TikTok ✅ fatto (2026-05-18):**
+- App sandbox: `visual-scroll-test` su developers.tiktok.com (client key in .env)
+- Scope configurati: `user.info.basic`, `video.upload`
+- Redirect URI: `https://visual-scroll-blog-production.up.railway.app/tiktok-callback`
+- Token access: scade ogni 24h → rinnova con `node scripts/exchange-tiktok-code.js`
+- Per production `video.publish` (post diretto): richiedere app review su TikTok Developer Portal
+
+**Workflow status completo:**
+```
+draft → approved → published | failed
+                ↳ render_status: rendered (prerequisito per publish)
+                ↳ publish_status: { instagram: 'published'|'failed', tiktok: '...', x: '...' }
 ```
 
 ---

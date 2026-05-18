@@ -30,6 +30,12 @@ Non è necessario capire tutto il codice: ogni sezione indica esattamente quale 
 21. [Come eseguire e configurare la pipeline food](#21-come-eseguire-e-configurare-la-pipeline-food)
 22. [Come scaricare i carousel food come PNG per Instagram](#22-come-scaricare-i-carousel-food-come-png) → vedi §15
 23. [Come approvare articoli per FASE 12](#23-come-approvare-articoli-per-fase-12)
+24. [Come generare video (render-video.js)](#24-come-generare-video)
+25. [Come pubblicare su TikTok](#25-come-pubblicare-su-tiktok)
+26. [Come pubblicare su Instagram](#26-come-pubblicare-su-instagram)
+27. [Come pubblicare su X (Twitter)](#27-come-pubblicare-su-x-twitter)
+28. [Come usare lo scheduler (tutti i canali)](#28-come-usare-lo-scheduler)
+29. [Come rinnovare il token TikTok](#29-come-rinnovare-il-token-tiktok)
 
 ---
 
@@ -806,8 +812,18 @@ Il progetto usa tre variabili. Ognuna deve essere impostata nei posti giusti —
 | Variabile | Cosa fa | `.env` locale | GitHub Secrets | Railway dashboard |
 |---|---|---|---|---|
 | `DEEPSEEK_API_KEY` | Chiave API per generare slide, thread, script | ✅ | ✅ | ✅ |
-| `PEXELS_API_KEY` | Chiave API per le immagini delle slide carousel | ✅ | ✅ ⚠️ | ✅ |
+| `PEXELS_API_KEY` | Chiave API per immagini carousel + video clip | ✅ | ✅ ⚠️ | ✅ |
+| `OPENAI_API_KEY` | TTS per voiceover video (tts-1, alloy) | ✅ | — | — |
+| `GIT_TOKEN` | Auto git push dopo approvazione da UI | ✅ | — | ✅ |
 | `GENERATE_FORMATS` | Attiva generazione thread X e script video | ✅ (`=true`) | — | — |
+| `TIKTOK_CLIENT_KEY` | Client key app TikTok sandbox | ✅ | — | — |
+| `TIKTOK_CLIENT_SECRET` | Client secret app TikTok sandbox | ✅ | — | — |
+| `TIKTOK_ACCESS_TOKEN` | Token OAuth per upload video TikTok (scade 24h) | ✅ | — | — |
+| `TIKTOK_REFRESH_TOKEN` | Refresh token TikTok (~365gg) | ✅ | — | — |
+| `INSTAGRAM_USER_ID` | ID utente Instagram Business (⏸ da configurare) | — | — | — |
+| `INSTAGRAM_ACCESS_TOKEN` | Token Instagram content publish (⏸ da configurare) | — | — | — |
+| `X_API_KEY` / `X_API_SECRET` | Credenziali X API (⏸ bloccato Free plan) | ✅ | — | — |
+| `X_ACCESS_TOKEN` / `X_ACCESS_TOKEN_SECRET` | Token X (⏸ bloccato Free plan) | ✅ | — | — |
 
 > `GENERATE_FORMATS` non serve su Railway (il server non genera contenuti) né come GitHub Secret (è già hardcoded in `pipeline.yml` come variabile d'ambiente del job, non segreto).
 
@@ -1128,22 +1144,22 @@ La FASE 12 (pipeline video automatica) richiede almeno **30 articoli approvati**
 ### Come funziona internamente
 
 `POST /api/set-status` in `server.js`:
-- Trova il JSON dell'articolo in `output/` (o `output/food/`) tramite `article.slug`
-- Scrive `status: "approved"` nel file
-- Lancia `node scripts/build-data-agents.js` in background per aggiornare `data-agents.js`
+- Aggiorna `status: "approved"` in **tutti** i file con quello slug (non solo il più recente)
+- Lancia in background: `build-data-agents.js` → `git commit` → `git push` automatico se `GIT_TOKEN` è configurato
+- `build-data-agents.js` preserva sempre lo status più alto tra i duplicati (`approved` batte `draft`) — un'approvazione non viene mai persa anche se la pipeline rigenera lo stesso articolo
 
 Il toggle funziona: cliccare di nuovo su un articolo approvato lo riporta a `draft`.
 
 ### Come salvare le approvazioni su Railway
 
-**L'approvazione è locale.** Railway ha filesystem effimero — al prossimo redeploy CI perderebbe le modifiche. Il flusso corretto:
+**Automatico se `GIT_TOKEN` è configurato** (già fatto): ogni approvazione da UI fa automaticamente `git commit + push` → Railway rideploya con lo status aggiornato.
+
+Se per qualche motivo il push automatico non avviene (es. GIT_TOKEN scaduto), salva manualmente:
 
 ```bash
-# Dopo aver approvato X articoli in locale
-git add output/ output/food/
+git add output/ output/food/ output/fitness/ frontend/data-agents.js
 git commit -m "approva articoli per FASE 12 (X/30)"
 git push
-# Railway rideploya con gli status aggiornati dal repo
 ```
 
 ### Indicatori visivi
@@ -1155,3 +1171,190 @@ git push
 | Pill articolo in `carousel.html` | Verde chiaro con testo "approved" |
 | Barra `review.html` | Barra di progresso con fill verde |
 | Pill articolo in `review.html` | Verde con testo "approved" |
+
+---
+
+## 24. Come generare video
+
+Il renderer è **separato** dalla pipeline articoli — va eseguito manualmente dopo aver approvato gli articoli. Non tocca mai articoli già renderizzati (`render_status: rendered`).
+
+### Prerequisiti
+
+```bash
+node scripts/check-video-prereqs.js
+# Deve mostrare 8/8 ✅ — se fallisce, segui le istruzioni
+```
+
+Richiede: `ffmpeg`, font `Inter-Bold.ttf` in `assets/fonts/`, `PEXELS_API_KEY`, `OPENAI_API_KEY`.
+
+### Renderizzare un singolo articolo
+
+```bash
+node render/render-video.js --agent ai-news --slug SLUG
+# es: node render/render-video.js --agent ai-news --slug cisco-cuts-nearly-4-000-jobs
+```
+
+Trova lo slug nel nome del file JSON in `output/` (la parte dopo il timestamp).
+
+### Renderizzare più articoli in una run
+
+```bash
+# Renderizza i prossimi 5 approved non ancora renderizzati
+node render/render-video.js --agent ai-news --limit 5
+
+# Renderizza tutti
+node render/render-video.js --agent ai-news --limit 99
+
+# Agenti diversi
+node render/render-video.js --agent food --limit 99
+node render/render-video.js --agent fitness --limit 99
+```
+
+### Testare una singola scena (senza TTS, senza audio)
+
+```bash
+node render/render-video.js --agent ai-news --slug SLUG --scene 0
+# genera output/renders/SLUG_scene0.mp4 — utile per verificare clip e sottotitoli
+```
+
+### Dove finiscono i video
+
+```
+output/renders/SLUG.mp4          ← ai-news
+output/food/renders/SLUG.mp4     ← food
+output/fitness/renders/SLUG.mp4  ← fitness
+```
+
+I video sono esclusi da git (`.gitignore`) e da Railway (`.railwayignore`) — rimangono solo in locale.
+
+### Cosa fa il renderer
+
+1. Chiama DeepSeek per generare 5 scene (query Pexels, testo voce, motion, transizione)
+2. Per ogni scena: scarica clip Pexels portrait, applica crop 1080×1920, zoom/pan, subtitoli bruciati
+3. TTS OpenAI (`tts-1`, voce `alloy`) per ogni scena — audio sincronizzato con il video
+4. Concatena le 5 scene in un unico MP4
+5. Imposta `render_status: rendered` nel JSON dell'articolo
+
+### Lingua dei sottotitoli e audio
+
+- **AI News / Fitness**: inglese (traduce automaticamente se necessario)
+- **Food**: italiano (lingua originale delle ricette)
+
+La lingua è configurata in `agents/{agente}/config.js` → campo `language`.
+
+---
+
+## 25. Come pubblicare su TikTok
+
+**Prerequisito:** articolo con `status: approved` e `render_status: rendered` + `TIKTOK_ACCESS_TOKEN` in `.env`.
+
+```bash
+node publish/publisher-tiktok.js --agent ai-news --slug SLUG
+```
+
+Il video viene caricato come **bozza** nel tuo profilo TikTok (scope `video.upload` sandbox). Ricevi una notifica sull'app TikTok → tappa la notifica → pubblica manualmente.
+
+**Note importanti:**
+- Il token scade ogni 24h — rinnovalo prima di pubblicare (§29)
+- In sandbox: il video appare come bozza, non viene pubblicato direttamente
+- Per la pubblicazione diretta serve `video.publish` (richiede app review di TikTok)
+- Il publisher aggiorna `publish_status.tiktok: published` nel JSON dopo il successo
+
+---
+
+## 26. Come pubblicare su Instagram
+
+⏸ **Bloccato** — account developer Instagram non attivabile al momento.
+
+Quando sbloccato, il setup richiede:
+1. developers.facebook.com → crea App → aggiungi prodotto "Instagram"
+2. Business Login → permessi: `instagram_basic`, `instagram_content_publish`
+3. Collega Instagram Business account → genera Long-Lived User Access Token
+4. Aggiungi in `.env`: `INSTAGRAM_USER_ID`, `INSTAGRAM_ACCESS_TOKEN`
+
+Poi:
+```bash
+node publish/publisher-instagram.js --agent ai-news --slug SLUG
+```
+
+Pubblica un carousel con le immagini già presenti in `formats.instagram.carousel[].image` (URL Pexels). Se un'immagine manca la recupera da Pexels in automatico.
+
+---
+
+## 27. Come pubblicare su X (Twitter)
+
+⏸ **Bloccato** — X API Free non permette `POST /tweets`. Serve piano Basic ($100/mese).
+
+Quando aggiornato il piano, aggiungere in `.env`:
+```
+X_API_KEY=...
+X_API_SECRET=...
+X_ACCESS_TOKEN=...
+X_ACCESS_TOKEN_SECRET=...
+```
+
+Poi:
+```bash
+node publish/publisher-x.js --agent ai-news --slug SLUG
+```
+
+Pubblica un thread di 5 tweet da `formats.x.thread`.
+
+---
+
+## 28. Come usare lo scheduler
+
+Lo scheduler pubblica automaticamente su tutti i canali configurati tutti gli articoli `approved + rendered` non ancora pubblicati.
+
+```bash
+# Vedi cosa verrebbe pubblicato senza farlo
+node publish/scheduler.js --agent ai-news --dry-run
+
+# Pubblica su tutti i canali
+node publish/scheduler.js --agent ai-news
+
+# Pubblica solo su canali specifici
+node publish/scheduler.js --agent ai-news --channels tiktok
+node publish/scheduler.js --agent ai-news --channels instagram,tiktok
+```
+
+Lo scheduler:
+- Prende il file più recente per ogni slug (evita duplicati)
+- Salta gli articoli già pubblicati su quel canale
+- Se un canale fallisce, continua con il successivo (non blocca)
+- Esce con codice 1 se almeno un canale fallisce (utile per CI)
+
+**Abilitare in CI (GitHub Actions):** solo dopo aver raggiunto 30 articoli approvati e validato tutti i canali manualmente. Aggiungere un passo nel workflow `pipeline.yml`.
+
+---
+
+## 29. Come rinnovare il token TikTok
+
+Il token TikTok (`TIKTOK_ACCESS_TOKEN`) scade ogni **24 ore**. Il refresh token dura ~365 giorni.
+
+### Rinnovo rapido (automatico)
+
+```bash
+node scripts/refresh-tiktok-token.js
+```
+
+Legge `TIKTOK_REFRESH_TOKEN` da `.env`, ottiene un nuovo access token e **aggiorna `.env` in automatico**. Da eseguire prima di ogni sessione di publishing.
+
+### Se il refresh token è scaduto (dopo ~365 giorni)
+
+Serve un nuovo OAuth completo:
+
+```bash
+node scripts/get-tiktok-token.js
+# Apre il browser → autorizza → stampa i nuovi token
+```
+
+Oppure manualmente:
+1. Apri nel browser:
+   ```
+   https://www.tiktok.com/v2/auth/authorize/?client_key=sbawode6shdbahuqfk&scope=user.info.basic,video.upload&response_type=code&redirect_uri=https%3A%2F%2Fvisual-scroll-blog-production.up.railway.app%2Ftiktok-callback&state=test123
+   ```
+2. Autorizza con il tuo account TikTok
+3. Railway mostra il codice a schermo
+4. Esegui: `node scripts/exchange-tiktok-code.js <CODICE>`
+5. Copia i nuovi token in `.env`
