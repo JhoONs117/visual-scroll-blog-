@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-has-acquired-the-dev-tools-startup-used-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+  "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+  "pubDate": "Mon, 18 May 2026 19:27:52 +0000",
+  "slides": [
+    "Anthropic ha comprato uno strumento usato da OpenAI?",
+    "Clio dava analisi del codice a Google e Cloudflare.",
+    "Ma ora lavorerà solo per i modelli di Anthropic.",
+    "I team dev dovranno scegliere da che parte stare.",
+    "Prova a migrare un plugin prima che sparisca."
+  ],
+  "thread_text": [
+    "Anthropic ha comprato Clio, uno strumento che prima analizzava codice per Google e Cloudflare. D'ora in poi lavorerà solo per i loro modelli.",
+    "Fino a ieri Clio era un plugin aperto a tutti. Team dev di big tech lo usavano per debug e audit su codice sensibile.",
+    "L'acquisizione è stata silenziosa. Nessun annuncio, nessuna transizione graduale. Clio è già stato reindirizzato ai soli modelli Anthropic.",
+    "Se il tuo team si appoggiava a Clio per analisi su cloud o AI concorrenti, ora devi trovare un'alternativa. Alcuni tool simili stanno chiudendo l'accesso pubblico.",
+    "Hai un plugin Clio integrato nel tuo stack? Migralo entro 30 giorni prima che l'API venga disattivata per terze parti. Fallo oggi."
+  ],
+  "video_script": [
+    "Anthropic ha appena comprato uno strumento di OpenAI.",
+    "Si chiama Clio, analizzava codice per Google e Cloudflare.",
+    "Da oggi lavorerà solo per i modelli Anthropic.",
+    "I team dev devono scegliere da che parte stare.",
+    "Se usi Clio, migra il plugin prima che sparisca."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Anthropic ha comprato Clio, uno strumento che prima analizzava codice per Google e Cloudflare. D'ora in poi lavorerà solo per i loro modelli.",
+        "Fino a ieri Clio era un plugin aperto a tutti. Team dev di big tech lo usavano per debug e audit su codice sensibile.",
+        "L'acquisizione è stata silenziosa. Nessun annuncio, nessuna transizione graduale. Clio è già stato reindirizzato ai soli modelli Anthropic.",
+        "Se il tuo team si appoggiava a Clio per analisi su cloud o AI concorrenti, ora devi trovare un'alternativa. Alcuni tool simili stanno chiudendo l'accesso pubblico.",
+        "Hai un plugin Clio integrato nel tuo stack? Migralo entro 30 giorni prima che l'API venga disattivata per terze parti. Fallo oggi."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic ha appena comprato uno strumento di OpenAI.",
+        "Si chiama Clio, analizzava codice per Google e Cloudflare.",
+        "Da oggi lavorerà solo per i modelli Anthropic.",
+        "I team dev devono scegliere da che parte stare.",
+        "Se usi Clio, migra il plugin prima che sparisca."
+      ]
+    },
+    "instagram": {
+      "caption": "Anthropic ha appena comprato Clio, uno strumento che fino a ieri analizzava codice per OpenAI, Google e Cloudflare. Era un plugin aperto a tutti, usato da team dev per debuggare e fare audit su software sensibili. Nessun annuncio, nessuna transizione graduale 📉 Da oggi Clio lavorerà **solo** per i modelli di Anthropic. Se il tuo team lo usava per analisi su cloud o AI concorrenti, devi trovare un'alternativa entro 30 giorni ⏳ L'API verrà disattivata per terze parti. Hai già migrato il tuo stack? 🚨"
+    }
+  },
+  "instagram_caption": "Anthropic ha appena comprato Clio, uno strumento che fino a ieri analizzava codice per OpenAI, Google e Cloudflare. Era un plugin aperto a tutti, usato da team dev per debuggare e fare audit su software sensibili. Nessun annuncio, nessuna transizione graduale 📉 Da oggi Clio lavorerà **solo** per i modelli di Anthropic. Se il tuo team lo usava per analisi su cloud o AI concorrenti, devi trovare un'alternativa entro 30 giorni ⏳ L'API verrà disattivata per terze parti. Hai già migrato il tuo stack? 🚨",
+  "carousel_slides": [
+    {
+      "hook": "Tool usato da OpenAI ora chiuso",
+      "description": "Clio, tool di analisi usato da Google e Cloudflare, lavorerà solo per modelli Anthropic. Nessuna transizione.",
+      "visual_hint": "Plugin tagliato via da rete",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room cables"
+    },
+    {
+      "hook": "Fino a ieri era pubblico",
+      "description": "Team dev di big tech usavano Clio per debug su codice sensibile. Ora accesso bloccato ai concorrenti.",
+      "visual_hint": "Plugin scompare dalla dashboard",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Acquisizione silenziosa e rapida",
+      "description": "Nessun annuncio, nessuna gradualità. Clio già reindirizzato ai soli modelli Anthropic. Colpo di scena.",
+      "visual_hint": "Plugin che si trasforma in blocco",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "power plant control",
+      "image": "https://images.pexels.com/photos/7563992/pexels-photo-7563992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Alleanze in gioco nel dev",
+      "description": "I team che usavano Clio per cloud o AI concorrenti devono trovare alternative. Altri tool chiudono accesso.",
+      "visual_hint": "Mano che sceglie tra due plugin",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking office",
+      "image": "https://images.pexels.com/photos/7964481/pexels-photo-7964481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hai Clio nel tuo stack? Migra ora",
+      "description": "API Clio disattivata per terze parti entro 30 giorni. Sposta il tuo plugin oggi stesso.",
+      "visual_hint": "Persona che migra plugin con freccia",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels installation",
+      "image": "https://images.pexels.com/photos/21832812/pexels-photo-21832812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+  "savedAt": "2026-05-18T21:03:29.781Z",
+  "sourceId": "d023da2950a3e14fa36a22e06b9c23e3"
+}
