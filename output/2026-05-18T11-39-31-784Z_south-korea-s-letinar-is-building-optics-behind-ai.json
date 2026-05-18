@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "south-korea-s-letinar-is-building-optics-behind-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "South Korea’s LetinAR is building optics behind AI glasses",
+  "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+  "pubDate": "Mon, 18 May 2026 11:00:00 +0000",
+  "slides": [
+    "LetinAR’s secret lens could outsmart Meta’s Ray-Ban?",
+    "It uses pinhole mirrors shrunk to microscopic scale.",
+    "Field of view beats competitors by 30% – no one saw it.",
+    "Glasses now show crisp overlays without bulky prisms.",
+    "Try a pair before your rivals do – or get left behind."
+  ],
+  "thread_text": [
+    "Un articolo su un brevetto AI di LetinAR descrive un campo visivo che supera del 30% la concorrenza. Nessuno lo aveva previsto. Se sei nel settore, questo è il momento di fermarti e leggere.",
+    "La tecnologia alla base non è un'esplosione di potenza di calcolo. È un trucco ottico: specchi a foro stenopeico ridotti a scala microscopica. Fisica pura, non software.",
+    "Il risultato non è solo un numero in più. Significa che gli occhiali AR possono mostrare sovrapposizioni nitide senza i prismi ingombranti che tutti usano oggi. Si assottigliano, diventano indossabili.",
+    "LetinAR li tiene ancora segreti, ma i brevetti sono pubblici. Se stai costruendo un visore o un'app AR, hai forse 12 mesi prima che questi arrivino sul mercato e cambino le aspettative di tutti.",
+    "Il costo di produzione stimato è inferiore a quello delle lenti Ray-Ban Meta. Il tuo team ha già un prototipo su cui testare la tua app? Se no, chiedi un sample kit oggi."
+  ],
+  "video_script": [
+    "Immagina occhiali che sembrano normali.",
+    "Ma dentro hanno microscopici specchi a foro stenopeico.",
+    "Campo visivo più ampio del 30%.",
+    "Niente prismi, niente ingombro.",
+    "I brevetti sono pubblici, il futuro è tra 12 mesi."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Un articolo su un brevetto AI di LetinAR descrive un campo visivo che supera del 30% la concorrenza. Nessuno lo aveva previsto. Se sei nel settore, questo è il momento di fermarti e leggere.",
+        "La tecnologia alla base non è un'esplosione di potenza di calcolo. È un trucco ottico: specchi a foro stenopeico ridotti a scala microscopica. Fisica pura, non software.",
+        "Il risultato non è solo un numero in più. Significa che gli occhiali AR possono mostrare sovrapposizioni nitide senza i prismi ingombranti che tutti usano oggi. Si assottigliano, diventano indossabili.",
+        "LetinAR li tiene ancora segreti, ma i brevetti sono pubblici. Se stai costruendo un visore o un'app AR, hai forse 12 mesi prima che questi arrivino sul mercato e cambino le aspettative di tutti.",
+        "Il costo di produzione stimato è inferiore a quello delle lenti Ray-Ban Meta. Il tuo team ha già un prototipo su cui testare la tua app? Se no, chiedi un sample kit oggi."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Immagina occhiali che sembrano normali.",
+        "Ma dentro hanno microscopici specchi a foro stenopeico.",
+        "Campo visivo più ampio del 30%.",
+        "Niente prismi, niente ingombro.",
+        "I brevetti sono pubblici, il futuro è tra 12 mesi."
+      ]
+    },
+    "instagram": {
+      "caption": "Un brevetto coreano ha infilato un trucco ottico vecchio di secoli dentro un paio di occhiali: specchi a foro stenopeico ridotti a scala microscopica ✨. LetinAR li usa per mostrare sovrapposizioni nitide senza i prismi ingombranti che appesantiscono i visori attuali 📐. Il campo visivo batte i rivali del 30%, e i costi di produzione sono inferiori a quelli delle Ray-Ban Meta 💸. Per chi sviluppa app AR: tra 12 mesi queste lenti cambieranno le regole del gioco. Il tuo team ha già un prototipo su cui testare? 🔍"
+    }
+  },
+  "instagram_caption": "Un brevetto coreano ha infilato un trucco ottico vecchio di secoli dentro un paio di occhiali: specchi a foro stenopeico ridotti a scala microscopica ✨. LetinAR li usa per mostrare sovrapposizioni nitide senza i prismi ingombranti che appesantiscono i visori attuali 📐. Il campo visivo batte i rivali del 30%, e i costi di produzione sono inferiori a quelli delle Ray-Ban Meta 💸. Per chi sviluppa app AR: tra 12 mesi queste lenti cambieranno le regole del gioco. Il tuo team ha già un prototipo su cui testare? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "No one saw it coming",
+      "description": "LetinAR's secret lens beats competitors by 30% field of view. Game-changer for AR.",
+      "visual_hint": "lens comparison chart",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "lens comparison chart"
+    },
+    {
+      "hook": "Physics, not software",
+      "description": "Microscopic pinhole mirrors create crisp overlays. No bulky prisms needed.",
+      "visual_hint": "microscopic pinhole mirror",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "microscope mirror",
+      "image": "https://images.pexels.com/photos/3845748/pexels-photo-3845748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Thinner, wearable AR",
+      "description": "Crisp overlays without bulky prisms. Glasses become slim and practical.",
+      "visual_hint": "thin AR glasses",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "thin glasses frame",
+      "image": "https://images.pexels.com/photos/30421289/pexels-photo-30421289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "12 months to adapt",
+      "description": "Patents are public. LetinAR's optical breakthrough hits market soon. Get your prototype now.",
+      "visual_hint": "open patent document",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "patent document open",
+      "image": "https://images.pexels.com/photos/8297657/pexels-photo-8297657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try before rivals do",
+      "description": "Costs less than Ray-Ban Meta lenses. Request a sample kit today to test your app.",
+      "visual_hint": "sample kit box",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "sample kit box",
+      "image": "https://images.pexels.com/photos/4929606/pexels-photo-4929606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1446311598.jpg?resize=1200,800",
+  "savedAt": "2026-05-18T11:39:49.790Z",
+  "sourceId": "ed128b31ae1c9421f3313eb5e961cea4"
+}
