@@ -27,7 +27,7 @@ Correlato a: PROJECT.md · MANUAL.md · FOOD-AGENT.md
 | FASE 9 — Agente fitness | ✅ Completa | `agents/fitness/` completo, `output/fitness/`, in CI |
 | FASE 10 — data-agents.js | ✅ Completa | `window.AGENTS = {ai-news, food, fitness}`, `scripts/build-data-agents.js` |
 | FASE 11 — Review multi-canale | ✅ Completa | Badge agente, status pill, prompt_version, select X/IG/TikTok, copia per canale |
-| FASE 12 — Automazione publish | 🚧 In corso | TEST 0–9 ✅ tutti verdi. Publisher (scheduler + X + IG + TikTok) da implementare. Publisher in CI bloccato finché non ci sono 30 `status: 'approved'` e tutti i canali validati manualmente. |
+| FASE 12 — Automazione publish | 🚧 In corso | TEST 0–9 ✅. render-video.js ✅ (TTS per-scena, subtitle voice, lingua). publisher-x.js ✅ (bloccato X API Free — serve Basic $100/mese). publisher-instagram.js + publisher-tiktok.js + scheduler.js da fare. |
 | FASE 13 — Carousel unico | ✅ Completa | `carousel.html?agent=ai-news\|food`; proxy `/proxy-image` in `server.js` per food; `carousel-food.html` rimosso definitivamente |
 
 ---
@@ -1195,11 +1195,23 @@ silenziosamente). Tutto il resto è locale e reversibile.
 ```
 scripts/check-video-prereqs.js   ✅
 core/video-utils.js              ✅  (estimateDuration, hashQuery, buildBlackClip, verifyMp4)
-core/generate-video.js           ✅  (generateVideoScenes via DeepSeek)
+core/generate-video.js           ✅  (generateVideoScenes via DeepSeek, language da config agente)
 core/fetch-video.js              ✅  (fetchPexelsVideo con cache in cache/video-clips/)
-render/render-video.js           ✅  (orchestratore completo, --agent --slug --limit --scene)
+render/render-video.js           ✅  (TTS per-scena, subtitle = voice completo 2 righe, --scene)
 assets/fonts/Inter-Bold.ttf      ✅
+publish/publisher-x.js           ✅  (implementato — bloccato da piano X API Free, serve Basic $100/mese)
 ```
+
+**Fix post-TEST (2026-05-18):**
+- `generate-video.js`: voice tradotta nella lingua target (inglese default, italiano per food)
+- `render-video.js`: TTS per-scena invece di singolo voiceover → sync corretto
+- `render-video.js`: subtitle = voice completo su 2 righe via textfile (non più abbreviazione)
+- `agents/*/config.js`: campo `language` aggiunto (english | italian)
+
+**Note publisher:**
+- `publisher-x.js`: X API Free non permette POST /tweets → serve piano Basic ($100/mese).
+  Testare dopo upgrade o saltare X e procedere con Instagram → TikTok.
+- Ordine consigliato: Instagram → TikTok → X (se/quando upgrade piano)
 
 **Fix approvazione (2026-05-17):**
 - `server.js` set-status: aggiorna tutti i duplicati + auto git push
