@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-co-founder-andrej-karpathy-joins-anthropic-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+  "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+  "pubDate": "Tue, 19 May 2026 15:43:04 +0000",
+  "slides": [
+    "Karpathy lascia OpenAI per Anthropic. Perché proprio ora?",
+    "Si unisce al team pre-training, il cuore dell'AI.",
+    "Anthropic punta a superare OpenAI nel suo stesso campo.",
+    "Per te: il duello tech accelera, non puoi ignorarlo.",
+    "Segui i modelli: chi vince ridefinisce l'intera industria."
+  ],
+  "thread_text": [
+    "Un co-fondatore di OpenAI lascia la sua stessa creatura per andare direttamente in Anthropic. Karpathy ha appena fatto una mossa che non è un trasferimento: è una dichiarazione di guerra.",
+    "Anthropic lo mette nel team pre-training, il motore che decide se un modello è capace o è solo rumore. Mettono il cervello più ambito del settore dove si costruisce il futuro.",
+    "Karpathy non è lì per fare ricerca accademica. Anthropic vuole superare OpenAI nel suo stesso core business: addestrare i modelli più potenti. È un attacco frontale alla linea di produzione.",
+    "Il duello non è più tra due visioni astratte. È tra due team che hanno gli stessi ex colleghi, gli stessi dati di partenza, e lo stesso obiettivo. La differenza la farà chi esegue meglio nei prossimi 12 mesi.",
+    "Se lavori nel tech, non hai il lusso di osservare da fuori. La prossima svolta di pre-training ridefinirà i costi, le capacità e i competitor che toccheranno la tua azienda entro il 2025."
+  ],
+  "video_script": [
+    "Karpathy ha lasciato OpenAI per Anthropic.",
+    "Non è un cambio di scrivania banale.",
+    "È entrato nel team che addestra i modelli.",
+    "Anthropic vuole batterli sul loro stesso terreno.",
+    "Questa guerra definisce chi sarà il nuovo re dell'AI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Un co-fondatore di OpenAI lascia la sua stessa creatura per andare direttamente in Anthropic. Karpathy ha appena fatto una mossa che non è un trasferimento: è una dichiarazione di guerra.",
+        "Anthropic lo mette nel team pre-training, il motore che decide se un modello è capace o è solo rumore. Mettono il cervello più ambito del settore dove si costruisce il futuro.",
+        "Karpathy non è lì per fare ricerca accademica. Anthropic vuole superare OpenAI nel suo stesso core business: addestrare i modelli più potenti. È un attacco frontale alla linea di produzione.",
+        "Il duello non è più tra due visioni astratte. È tra due team che hanno gli stessi ex colleghi, gli stessi dati di partenza, e lo stesso obiettivo. La differenza la farà chi esegue meglio nei prossimi 12 mesi.",
+        "Se lavori nel tech, non hai il lusso di osservare da fuori. La prossima svolta di pre-training ridefinirà i costi, le capacità e i competitor che toccheranno la tua azienda entro il 2025."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Karpathy ha lasciato OpenAI per Anthropic.",
+        "Non è un cambio di scrivania banale.",
+        "È entrato nel team che addestra i modelli.",
+        "Anthropic vuole batterli sul loro stesso terreno.",
+        "Questa guerra definisce chi sarà il nuovo re dell'AI."
+      ]
+    },
+    "instagram": {
+      "caption": "Andrej Karpathy, co-fondatore di OpenAI, ha appena firmato per Anthropic. ⚔️ Lascia la sua vecchia squadra per unirsi al loro team pre-training, il reparto che letteralmente costruisce i modelli più potenti. Non è un cambio di scrivania: Anthropic vuole battere OpenAI partendo dal suo stesso punto di forza, l'addestramento. 🧠 Questo significa che nei prossimi 12 mesi il duello si gioca sulla qualità dei dati e sulla velocità di esecuzione. Per te, che usi strumenti basati su questi modelli, i vincitori di questa corsa decideranno costi e capacità disponibili entro il 2025. 📈 Chi scommetti che eseguirà meglio?"
+    }
+  },
+  "instagram_caption": "Andrej Karpathy, co-fondatore di OpenAI, ha appena firmato per Anthropic. ⚔️ Lascia la sua vecchia squadra per unirsi al loro team pre-training, il reparto che letteralmente costruisce i modelli più potenti. Non è un cambio di scrivania: Anthropic vuole battere OpenAI partendo dal suo stesso punto di forza, l'addestramento. 🧠 Questo significa che nei prossimi 12 mesi il duello si gioca sulla qualità dei dati e sulla velocità di esecuzione. Per te, che usi strumenti basati su questi modelli, i vincitori di questa corsa decideranno costi e capacità disponibili entro il 2025. 📈 Chi scommetti che eseguirà meglio?",
+  "carousel_slides": [
+    {
+      "hook": "Ha dichiarato guerra a OpenAI",
+      "description": "Un co-fondatore lascia la sua creatura per Anthropic. Mossa che è una dichiarazione di guerra.",
+      "visual_hint": "Pezzo degli scacchi in caduta",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "chess piece falling"
+    },
+    {
+      "hook": "Dove si costruisce il futuro",
+      "description": "Karpathy nel team pre-training: il motore che decide se un modello è capace o solo rumore.",
+      "visual_hint": "Cervello digitale incandescente",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "brain circuit board",
+      "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Attacco frontale alla linea",
+      "description": "Anthropic punta a superare OpenAI nel core business: addestrare i modelli più potenti.",
+      "visual_hint": "Treni che si scontrano",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "two trains colliding",
+      "image": "https://images.pexels.com/photos/18000721/pexels-photo-18000721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stessi dati, stesso obiettivo",
+      "description": "Duello tra ex colleghi con gli stessi dati. Chi esegue meglio nei prossimi 12 mesi vince.",
+      "visual_hint": "Due corridori in parallelo",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "two runners track",
+      "image": "https://images.pexels.com/photos/34712228/pexels-photo-34712228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non puoi ignorarlo",
+      "description": "La prossima svolta di pre-training ridefinirà costi e capacità che toccheranno la tua azienda nel 2025.",
+      "visual_hint": "Grafico a razzo verso l'alto",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "stock chart rocket",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1321808956.jpg?w=1024",
+  "savedAt": "2026-05-19T21:13:03.485Z",
+  "sourceId": "a173121408daf48e0385e367e4f6e497"
+}

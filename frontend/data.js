@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-co-founder-andrej-karpathy-joins-anthropic-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+    "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+    "pubDate": "Tue, 19 May 2026 15:43:04 +0000",
+    "slides": [
+      "Karpathy lascia OpenAI per Anthropic. Perché proprio ora?",
+      "Si unisce al team pre-training, il cuore dell'AI.",
+      "Anthropic punta a superare OpenAI nel suo stesso campo.",
+      "Per te: il duello tech accelera, non puoi ignorarlo.",
+      "Segui i modelli: chi vince ridefinisce l'intera industria."
+    ],
+    "thread_text": [
+      "Un co-fondatore di OpenAI lascia la sua stessa creatura per andare direttamente in Anthropic. Karpathy ha appena fatto una mossa che non è un trasferimento: è una dichiarazione di guerra.",
+      "Anthropic lo mette nel team pre-training, il motore che decide se un modello è capace o è solo rumore. Mettono il cervello più ambito del settore dove si costruisce il futuro.",
+      "Karpathy non è lì per fare ricerca accademica. Anthropic vuole superare OpenAI nel suo stesso core business: addestrare i modelli più potenti. È un attacco frontale alla linea di produzione.",
+      "Il duello non è più tra due visioni astratte. È tra due team che hanno gli stessi ex colleghi, gli stessi dati di partenza, e lo stesso obiettivo. La differenza la farà chi esegue meglio nei prossimi 12 mesi.",
+      "Se lavori nel tech, non hai il lusso di osservare da fuori. La prossima svolta di pre-training ridefinirà i costi, le capacità e i competitor che toccheranno la tua azienda entro il 2025."
+    ],
+    "video_script": [
+      "Karpathy ha lasciato OpenAI per Anthropic.",
+      "Non è un cambio di scrivania banale.",
+      "È entrato nel team che addestra i modelli.",
+      "Anthropic vuole batterli sul loro stesso terreno.",
+      "Questa guerra definisce chi sarà il nuovo re dell'AI."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Un co-fondatore di OpenAI lascia la sua stessa creatura per andare direttamente in Anthropic. Karpathy ha appena fatto una mossa che non è un trasferimento: è una dichiarazione di guerra.",
+          "Anthropic lo mette nel team pre-training, il motore che decide se un modello è capace o è solo rumore. Mettono il cervello più ambito del settore dove si costruisce il futuro.",
+          "Karpathy non è lì per fare ricerca accademica. Anthropic vuole superare OpenAI nel suo stesso core business: addestrare i modelli più potenti. È un attacco frontale alla linea di produzione.",
+          "Il duello non è più tra due visioni astratte. È tra due team che hanno gli stessi ex colleghi, gli stessi dati di partenza, e lo stesso obiettivo. La differenza la farà chi esegue meglio nei prossimi 12 mesi.",
+          "Se lavori nel tech, non hai il lusso di osservare da fuori. La prossima svolta di pre-training ridefinirà i costi, le capacità e i competitor che toccheranno la tua azienda entro il 2025."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Karpathy ha lasciato OpenAI per Anthropic.",
+          "Non è un cambio di scrivania banale.",
+          "È entrato nel team che addestra i modelli.",
+          "Anthropic vuole batterli sul loro stesso terreno.",
+          "Questa guerra definisce chi sarà il nuovo re dell'AI."
+        ]
+      },
+      "instagram": {
+        "caption": "Andrej Karpathy, co-fondatore di OpenAI, ha appena firmato per Anthropic. ⚔️ Lascia la sua vecchia squadra per unirsi al loro team pre-training, il reparto che letteralmente costruisce i modelli più potenti. Non è un cambio di scrivania: Anthropic vuole battere OpenAI partendo dal suo stesso punto di forza, l'addestramento. 🧠 Questo significa che nei prossimi 12 mesi il duello si gioca sulla qualità dei dati e sulla velocità di esecuzione. Per te, che usi strumenti basati su questi modelli, i vincitori di questa corsa decideranno costi e capacità disponibili entro il 2025. 📈 Chi scommetti che eseguirà meglio?"
+      }
+    },
+    "instagram_caption": "Andrej Karpathy, co-fondatore di OpenAI, ha appena firmato per Anthropic. ⚔️ Lascia la sua vecchia squadra per unirsi al loro team pre-training, il reparto che letteralmente costruisce i modelli più potenti. Non è un cambio di scrivania: Anthropic vuole battere OpenAI partendo dal suo stesso punto di forza, l'addestramento. 🧠 Questo significa che nei prossimi 12 mesi il duello si gioca sulla qualità dei dati e sulla velocità di esecuzione. Per te, che usi strumenti basati su questi modelli, i vincitori di questa corsa decideranno costi e capacità disponibili entro il 2025. 📈 Chi scommetti che eseguirà meglio?",
+    "carousel_slides": [
+      {
+        "hook": "Ha dichiarato guerra a OpenAI",
+        "description": "Un co-fondatore lascia la sua creatura per Anthropic. Mossa che è una dichiarazione di guerra.",
+        "visual_hint": "Pezzo degli scacchi in caduta",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "chess piece falling"
+      },
+      {
+        "hook": "Dove si costruisce il futuro",
+        "description": "Karpathy nel team pre-training: il motore che decide se un modello è capace o solo rumore.",
+        "visual_hint": "Cervello digitale incandescente",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "brain circuit board",
+        "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Attacco frontale alla linea",
+        "description": "Anthropic punta a superare OpenAI nel core business: addestrare i modelli più potenti.",
+        "visual_hint": "Treni che si scontrano",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "two trains colliding",
+        "image": "https://images.pexels.com/photos/18000721/pexels-photo-18000721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stessi dati, stesso obiettivo",
+        "description": "Duello tra ex colleghi con gli stessi dati. Chi esegue meglio nei prossimi 12 mesi vince.",
+        "visual_hint": "Due corridori in parallelo",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "two runners track",
+        "image": "https://images.pexels.com/photos/34712228/pexels-photo-34712228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non puoi ignorarlo",
+        "description": "La prossima svolta di pre-training ridefinirà costi e capacità che toccheranno la tua azienda nel 2025.",
+        "visual_hint": "Grafico a razzo verso l'alto",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "stock chart rocket",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1321808956.jpg?w=1024",
+    "savedAt": "2026-05-19T21:13:03.485Z",
+    "sourceId": "a173121408daf48e0385e367e4f6e497"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "from-teen-hacker-to-iron-dome-researcher-this-foun",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+    "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+    "pubDate": "Tue, 19 May 2026 21:08:51 +0000",
+    "slides": [
+      "Teen hacker builds Iron Dome. Now raising $28M for AI.",
+      "Old phishing tricks don't catch $20M deepfake bank heists?",
+      "Attackers use AI: 14 sneaky ways. Defenders still click.",
+      "Your IT team can't spot the new, but this email can.",
+      "Don't trust any link today. Not even this one."
+    ],
+    "thread_text": [
+      "Un’azienda ha perso 20 milioni di euro in una videochiamata. Il CFO ha approvato il bonifico perché il ‘CEO’ sullo schermo era un deepfake generato dall’IA. Nessuno ha cliccato su nessun link. Una truffa perfetta.",
+      "Per anni ci hanno detto: ‘non cliccare su link sospetti’. Oggi i criminali non chiedono più di cliccare. Ti chiamano su Zoom, ti mandano memo vocali clonati, ti fanno firmare documenti con la faccia di qualcun altro.",
+      "Nel frattempo un ragazzo di 17 anni ha costruito un Iron Dome fai-da-te con algoritmi di visione artificiale. Ora raccoglie 28 milioni per vendere difese anti-drone basate sullo stesso software. L’attacco e la difesa corrono alla stessa velocità.",
+      "Il problema è che la maggior parte delle difese aziendali si basa ancora su regole statiche e filtri email. Funzionano contro il phishing del 2010. Non funzionano contro un attacco che non usa neanche la posta.",
+      "Hai mai verificato l’identità del tuo CEO con una domanda a cui solo lui saprebbe rispondere? Se no, quella videochiamata che hai in agenda oggi potrebbe costarti più di 20 milioni."
+    ],
+    "video_script": [
+      "Hai perso venti milioni in una videochiamata.",
+      "Sì, solo con una voce clonata.",
+      "Nessuno ha cliccato niente.",
+      "Un ragazzo ha creato un Iron Dome.",
+      "Ora chiediti: chi difende la tua azienda?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Un’azienda ha perso 20 milioni di euro in una videochiamata. Il CFO ha approvato il bonifico perché il ‘CEO’ sullo schermo era un deepfake generato dall’IA. Nessuno ha cliccato su nessun link. Una truffa perfetta.",
+          "Per anni ci hanno detto: ‘non cliccare su link sospetti’. Oggi i criminali non chiedono più di cliccare. Ti chiamano su Zoom, ti mandano memo vocali clonati, ti fanno firmare documenti con la faccia di qualcun altro.",
+          "Nel frattempo un ragazzo di 17 anni ha costruito un Iron Dome fai-da-te con algoritmi di visione artificiale. Ora raccoglie 28 milioni per vendere difese anti-drone basate sullo stesso software. L’attacco e la difesa corrono alla stessa velocità.",
+          "Il problema è che la maggior parte delle difese aziendali si basa ancora su regole statiche e filtri email. Funzionano contro il phishing del 2010. Non funzionano contro un attacco che non usa neanche la posta.",
+          "Hai mai verificato l’identità del tuo CEO con una domanda a cui solo lui saprebbe rispondere? Se no, quella videochiamata che hai in agenda oggi potrebbe costarti più di 20 milioni."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hai perso venti milioni in una videochiamata.",
+          "Sì, solo con una voce clonata.",
+          "Nessuno ha cliccato niente.",
+          "Un ragazzo ha creato un Iron Dome.",
+          "Ora chiediti: chi difende la tua azienda?"
+        ]
+      },
+      "instagram": {
+        "caption": "Un’azienda ha perso 20 milioni di euro in una videochiamata con un CEO falso, generato dall’AI 🎭. Nel frattempo, un ragazzo di 17 anni che ha costruito un Iron Dome fai-da-te con algoritmi di visione artificiale ha appena raccolto 28 milioni di dollari per fermare attacchi come i deepfake bancari e il phishing via Zoom 📞💻. La difesa tradizionale (filtri email e regole statiche) non serve più, perché i criminali non ti chiedono nemmeno di cliccare un link. Il tuo IT team oggi può fermare un attacco solo se riconosce che il “CEO” in chiamata non è chi dice di essere. Hai mai verificato l’identità del tuo capo prima di approvare un bonifico? 🤔🛡️"
+      }
+    },
+    "instagram_caption": "Un’azienda ha perso 20 milioni di euro in una videochiamata con un CEO falso, generato dall’AI 🎭. Nel frattempo, un ragazzo di 17 anni che ha costruito un Iron Dome fai-da-te con algoritmi di visione artificiale ha appena raccolto 28 milioni di dollari per fermare attacchi come i deepfake bancari e il phishing via Zoom 📞💻. La difesa tradizionale (filtri email e regole statiche) non serve più, perché i criminali non ti chiedono nemmeno di cliccare un link. Il tuo IT team oggi può fermare un attacco solo se riconosce che il “CEO” in chiamata non è chi dice di essere. Hai mai verificato l’identità del tuo capo prima di approvare un bonifico? 🤔🛡️",
+    "carousel_slides": [
+      {
+        "hook": "17yo built Iron Dome",
+        "description": "Un ragazzo di 17 anni costruisce un Iron Dome anti-drone. Ora raccoglie $28M per difendere le aziende dall’AI.",
+        "visual_hint": "Teen coding in dark room",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "teenager computer screen code"
+      },
+      {
+        "hook": "$20M lost in deepfake call",
+        "description": "Un CFO ha approvato un bonifico da 20M€ perché il CEO sullo schermo era un deepfake. Nessun link cliccato.",
+        "visual_hint": "Video call with fake CEO face",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "video conference call deepfake",
+        "image": "https://images.pexels.com/photos/5486096/pexels-photo-5486096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "14 ways AI attacks now",
+        "description": "Attaccanti usano 14 tecniche AI: zoom clonato, memo vocali falsi, documenti con facce rubate. I difensori cliccano ancora.",
+        "visual_hint": "Hologram face with glitch effect",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cybersecurity threat dashboard",
+        "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your IT can't spot this",
+        "description": "Le difese anti-phishing del 2010 falliscono contro attacchi che non usano la posta. Serve un’email che riconosce il nuovo.",
+        "visual_hint": "Old email filter vs AI shield",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "email inbox filter interface",
+        "image": "https://images.pexels.com/photos/5083396/pexels-photo-5083396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Verify your CEO today",
+        "description": "Se non hai mai verificato l’identità del tuo CEO con una domanda segreta, quella chiamata in agenda potrebbe costare milioni.",
+        "visual_hint": "Fingerprint scan on smartphone",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "fingerprint scanner verification",
+        "image": "https://images.pexels.com/photos/8382600/pexels-photo-8382600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Copy-of-IMG_8655.jpg?resize=1200,800",
+    "savedAt": "2026-05-19T21:12:50.559Z",
+    "sourceId": "f54e9de1e4157ae5bffe5640465a6cd6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-introduces-gemini-spark-a-24-7-agentic-assi",
     "prompt_version": "1.0.0",
     "status": "published",
@@ -882,6 +1090,58 @@ window.ARTICLES = [
       },
       "instagram": {
         "caption": "A TechEx North America è emerso che i costi delle infrastrutture per l'AI salgono più velocemente dei miglioramenti dei modelli ⚡. Non sono solo le GPU il problema: il tuo data center potrebbe essere il prossimo collo di bottiglia se la capacità di raffreddamento non regge. Prima di scalare qualsiasi pilota, verifica l'impianto di raffreddamento e la sicurezza: quest'ultima è l'unico strato non negoziabile 🔒. Per chi lavora in azienda, significa che investire in potenza di calcolo senza adeguare raffreddamento e sicurezza è un rischio concreto. Il tuo data center è già pronto a gestire il carico? 💻❄️"
+      },
+      "video": {
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Il futuro dell'AI è in gioco!",
+            "voiceover": "Scopri come la potenza dell'AI sta cambiando tutto.",
+            "on_screen_text": "Il futuro dell'AI è in gioco!",
+            "visual_direction": "Animazione di un cervello elettronico che si illumina.",
+            "caption": "Rivelazioni da TechEx North America"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 5,
+            "hook": "Crescita dei costi infrastrutturali!",
+            "voiceover": "I costi per l'infrastruttura AI stanno crescendo rapidamente.",
+            "on_screen_text": "Crescita dei costi infrastrutturali!",
+            "visual_direction": "Grafico in aumento che rappresenta i costi.",
+            "caption": "Infrastruttura AI in aumento"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 5,
+            "hook": "Attenzione ai data center!",
+            "voiceover": "I tuoi server potrebbero essere il vero collo di bottiglia.",
+            "on_screen_text": "Attenzione ai data center!",
+            "visual_direction": "Immagine di un data center affollato.",
+            "caption": "Collo di bottiglia nei data center"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Controlla la capacità di raffreddamento!",
+            "voiceover": "Non sottovalutare l'importanza del raffreddamento.",
+            "on_screen_text": "Controlla la capacità di raffreddamento!",
+            "visual_direction": "Animazione di un sistema di raffreddamento in azione.",
+            "caption": "Raffreddamento essenziale"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "La sicurezza è fondamentale!",
+            "voiceover": "La sicurezza non è facoltativa, è essenziale.",
+            "on_screen_text": "La sicurezza è fondamentale!",
+            "visual_direction": "Icone di sicurezza digitale che si illuminano.",
+            "caption": "Sicurezza AI non negoziabile"
+          }
+        ],
+        "quality_score": 85,
+        "duration_sec": 28,
+        "cta": "Scopri di più sull'AI oggi!"
       }
     },
     "instagram_caption": "A TechEx North America è emerso che i costi delle infrastrutture per l'AI salgono più velocemente dei miglioramenti dei modelli ⚡. Non sono solo le GPU il problema: il tuo data center potrebbe essere il prossimo collo di bottiglia se la capacità di raffreddamento non regge. Prima di scalare qualsiasi pilota, verifica l'impianto di raffreddamento e la sicurezza: quest'ultima è l'unico strato non negoziabile 🔒. Per chi lavora in azienda, significa che investire in potenza di calcolo senza adeguare raffreddamento e sicurezza è un rischio concreto. Il tuo data center è già pronto a gestire il carico? 💻❄️",
