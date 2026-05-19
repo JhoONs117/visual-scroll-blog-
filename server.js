@@ -129,6 +129,19 @@ http.createServer((req, res) => {
         }
         fs.writeFileSync(fpath, JSON.stringify(article, null, 2) + '\n');
 
+        // Rebuild data-agents.js + git push (same pattern as set-status)
+        const token = process.env.GIT_TOKEN;
+        const pushCmd = token
+          ? `git remote set-url origin "https://${token}@github.com/JhoONs117/visual-scroll-blog-.git" && ` +
+            `git add output/ output/food/ output/fitness/ frontend/data-agents.js && ` +
+            `git diff --cached --quiet || git commit -m "auto: quality ${quality} ${slug}" && ` +
+            `git push`
+          : 'true';
+
+        spawn('sh', ['-c',
+          `cd "${__dirname}" && node scripts/build-data-agents.js && ${pushCmd}`
+        ], { detached: true, stdio: 'ignore' }).unref();
+
         res.writeHead(200, { 'Content-Type': 'application/json' });
         res.end(JSON.stringify({ ok: true, slug, quality }));
       } catch (e) {

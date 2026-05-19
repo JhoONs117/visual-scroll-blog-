@@ -46,6 +46,7 @@ function readCanonical(dir) {
           const currentPriority = STATUS_PRIORITY[article.status] || 0;
           if (otherPriority > currentPriority) article.status = other.status;
           if (other.render_status && !article.render_status) article.render_status = other.render_status;
+          if (other.render_quality && !article.render_quality) article.render_quality = other.render_quality;
           if (other.render_version && !article.render_version) article.render_version = other.render_version;
           if (other.publish_status && !article.publish_status) article.publish_status = other.publish_status;
         } catch { /* skip corrupt */ }
