@@ -186,6 +186,8 @@ async function callOpenAI(agentId, article) {
     }
 
     // Aggiorna l'articolo
+    if (!article.formats) article.formats = {};
+    if (!article.formats.video) article.formats.video = {};
     const totalDuration = plan.scenes.reduce((s, sc) => s + (sc.duration_sec || 0), 0);
     article.formats.video.scenes        = plan.scenes;
     article.formats.video.quality_score = plan.quality_score;
