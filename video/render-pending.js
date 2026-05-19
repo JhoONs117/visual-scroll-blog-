@@ -3,6 +3,7 @@
 require('dotenv').config();
 const fs            = require('fs');
 const path          = require('path');
+const os            = require('os');
 const { execSync }  = require('child_process');
 const { verifyMp4 } = require('../core/video-utils');
 
@@ -19,12 +20,28 @@ const AGENTS = {
   'fitness': path.join(ROOT, 'output', 'fitness'),
 };
 
+// ─── Importa PNG da ~/Downloads/ se non già presenti ─────────────────────────
+function importFromDownloads(agentId, slug) {
+  const destDir     = path.join(ROOT, 'output', agentId, 'slides-png', slug);
+  const downloadsDir = path.join(os.homedir(), 'Downloads');
+  const all = [0,1,2,3,4].every(i => fs.existsSync(path.join(downloadsDir, `slide${i}.png`)));
+  if (!all) return false;
+  fs.mkdirSync(destDir, { recursive: true });
+  for (let i = 0; i < 5; i++) {
+    fs.copyFileSync(path.join(downloadsDir, `slide${i}.png`), path.join(destDir, `slide${i}.png`));
+    fs.unlinkSync(path.join(downloadsDir, `slide${i}.png`));
+  }
+  console.log(`  📥 PNG importate da ~/Downloads/ → output/${agentId}/slides-png/${slug}/`);
+  return true;
+}
+
 // ─── Controlla se le carousel PNG esistono ───────────────────────────────────
 function hasCarouselPngs(agentId, slug) {
   const dir  = path.join(ROOT, 'output', agentId, 'slides-png', slug);
-  const file = path.join(dir, 'slide0.png');
-  if (fs.existsSync(file)) return true;
-  return fs.existsSync(path.join(dir, 'slide0.jpg'));
+  if (fs.existsSync(path.join(dir, 'slide0.png'))) return true;
+  if (fs.existsSync(path.join(dir, 'slide0.jpg'))) return true;
+  // Prova ad importare da ~/Downloads/
+  return importFromDownloads(agentId, slug);
 }
 
 // ─── Trova articolo canonico per slug ────────────────────────────────────────
