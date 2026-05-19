@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-to-use-google-s-new-ai-agents-to-go-beyond-you",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How to use Google’s new AI agents to go beyond your standard searches",
+  "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+  "pubDate": "Tue, 19 May 2026 21:16:25 +0000",
+  "slides": [
+    "Google's new AI agents move beyond search—but how far?",
+    "They can research, summarize, and even act autonomously.",
+    "No one expects them to complete complex multi-step tasks alone.",
+    "You can now automate tedious research workflows with one prompt.",
+    "Test an end-to-end task today to see the gap."
+  ],
+  "thread_text": [
+    "Nessuno si aspetta che gli agenti AI completino da soli compiti complessi in più fasi. Eppure le aziende li stanno già vendendo come autonomi.",
+    "Google ha appena presentato agenti AI che non si limitano a cercare. Sanno riassumere, organizzare e compiere azioni concrete.",
+    "Il problema è che funzionano bene solo su compiti lineari, brevi, ben definiti. Un progetto reale? Serve ancora una persona che tiri le fila.",
+    "La vera svolta è un’altra: oggi puoi automatizzare flussi di ricerca noiosi con un solo prompt. Tempo risparmiato: ore.",
+    "Prendi un task end-to-end reale del tuo lavoro e provalo oggi. Il gap tra marketing e realtà lo vedi subito."
+  ],
+  "video_script": [
+    "Nessuno crede che l'AI faccia tutto da sola.",
+    "Google lancia agenti che cercano e agiscono.",
+    "Ma falliscono su compiti complessi in più passaggi.",
+    "Quello che funziona: automatizzare ricerche noiose.",
+    "Provane uno vero oggi e vedi il divario."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Nessuno si aspetta che gli agenti AI completino da soli compiti complessi in più fasi. Eppure le aziende li stanno già vendendo come autonomi.",
+        "Google ha appena presentato agenti AI che non si limitano a cercare. Sanno riassumere, organizzare e compiere azioni concrete.",
+        "Il problema è che funzionano bene solo su compiti lineari, brevi, ben definiti. Un progetto reale? Serve ancora una persona che tiri le fila.",
+        "La vera svolta è un’altra: oggi puoi automatizzare flussi di ricerca noiosi con un solo prompt. Tempo risparmiato: ore.",
+        "Prendi un task end-to-end reale del tuo lavoro e provalo oggi. Il gap tra marketing e realtà lo vedi subito."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nessuno crede che l'AI faccia tutto da sola.",
+        "Google lancia agenti che cercano e agiscono.",
+        "Ma falliscono su compiti complessi in più passaggi.",
+        "Quello che funziona: automatizzare ricerche noiose.",
+        "Provane uno vero oggi e vedi il divario."
+      ]
+    },
+    "instagram": {
+      "caption": "Google ha appena lanciato agenti AI che non si limitano a cercare su Internet: sanno riassumere documenti, organizzare dati e compiere azioni concrete come scrivere una mail o compilare un report. Il problema? Funzionano bene solo su compiti lineari e brevi. Per un progetto reale e complesso serve ancora una persona che coordini. La novità concreta per te? Con un solo prompt puoi automatizzare flussi di ricerca noiosi che ti rubano ore. Prendi un compito ripetitivo dal tuo lavoro e provalo oggi: il divario tra marketing e realtà lo vedi subito 🔍🦾📉⏰"
+    }
+  },
+  "instagram_caption": "Google ha appena lanciato agenti AI che non si limitano a cercare su Internet: sanno riassumere documenti, organizzare dati e compiere azioni concrete come scrivere una mail o compilare un report. Il problema? Funzionano bene solo su compiti lineari e brevi. Per un progetto reale e complesso serve ancora una persona che coordini. La novità concreta per te? Con un solo prompt puoi automatizzare flussi di ricerca noiosi che ti rubano ore. Prendi un compito ripetitivo dal tuo lavoro e provalo oggi: il divario tra marketing e realtà lo vedi subito 🔍🦾📉⏰",
+  "carousel_slides": [
+    {
+      "hook": "Autonomous AI? Not quite yet.",
+      "description": "No one expects AI agents to complete complex multi-step tasks alone, yet companies sell them as autonomous.",
+      "visual_hint": "Robot with loose wires",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "factory robot hand"
+    },
+    {
+      "hook": "Google's AI does more than search.",
+      "description": "Google’s new AI agents research, summarize, and take actions—but only on simple, well-defined tasks.",
+      "visual_hint": "Search bar morphing into robot",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Google search bar",
+      "image": "https://images.pexels.com/photos/7350905/pexels-photo-7350905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Linear tasks fine, real projects not.",
+      "description": "For real projects you still need a human in the loop—AI works best on short, linear, well-defined tasks.",
+      "visual_hint": "Flowchart with missing arrows",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board close",
+      "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Automate tedious research with one prompt.",
+      "description": "The real breakthrough: automate boring research workflows with one prompt, saving hours of work today.",
+      "visual_hint": "Prompt box with sparks",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "office desk computer",
+      "image": "https://images.pexels.com/photos/22711217/pexels-photo-22711217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test a real task and see the gap.",
+      "description": "Try an end-to-end real work task now—the gap between marketing hype and reality becomes obvious fast.",
+      "visual_hint": "Stopwatch and gap arrow",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop on table",
+      "image": "https://images.pexels.com/photos/6893327/pexels-photo-6893327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/G-information-agents.png?resize=1200,750",
+  "savedAt": "2026-05-19T22:57:47.914Z",
+  "sourceId": "56e3cf0857f6af63e1a9f899da36e6cd"
+}

@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "how-to-use-google-s-new-ai-agents-to-go-beyond-you",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "How to use Google’s new AI agents to go beyond your standard searches",
+    "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+    "pubDate": "Tue, 19 May 2026 21:16:25 +0000",
+    "slides": [
+      "Google's new AI agents move beyond search—but how far?",
+      "They can research, summarize, and even act autonomously.",
+      "No one expects them to complete complex multi-step tasks alone.",
+      "You can now automate tedious research workflows with one prompt.",
+      "Test an end-to-end task today to see the gap."
+    ],
+    "thread_text": [
+      "Nessuno si aspetta che gli agenti AI completino da soli compiti complessi in più fasi. Eppure le aziende li stanno già vendendo come autonomi.",
+      "Google ha appena presentato agenti AI che non si limitano a cercare. Sanno riassumere, organizzare e compiere azioni concrete.",
+      "Il problema è che funzionano bene solo su compiti lineari, brevi, ben definiti. Un progetto reale? Serve ancora una persona che tiri le fila.",
+      "La vera svolta è un’altra: oggi puoi automatizzare flussi di ricerca noiosi con un solo prompt. Tempo risparmiato: ore.",
+      "Prendi un task end-to-end reale del tuo lavoro e provalo oggi. Il gap tra marketing e realtà lo vedi subito."
+    ],
+    "video_script": [
+      "Nessuno crede che l'AI faccia tutto da sola.",
+      "Google lancia agenti che cercano e agiscono.",
+      "Ma falliscono su compiti complessi in più passaggi.",
+      "Quello che funziona: automatizzare ricerche noiose.",
+      "Provane uno vero oggi e vedi il divario."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Nessuno si aspetta che gli agenti AI completino da soli compiti complessi in più fasi. Eppure le aziende li stanno già vendendo come autonomi.",
+          "Google ha appena presentato agenti AI che non si limitano a cercare. Sanno riassumere, organizzare e compiere azioni concrete.",
+          "Il problema è che funzionano bene solo su compiti lineari, brevi, ben definiti. Un progetto reale? Serve ancora una persona che tiri le fila.",
+          "La vera svolta è un’altra: oggi puoi automatizzare flussi di ricerca noiosi con un solo prompt. Tempo risparmiato: ore.",
+          "Prendi un task end-to-end reale del tuo lavoro e provalo oggi. Il gap tra marketing e realtà lo vedi subito."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nessuno crede che l'AI faccia tutto da sola.",
+          "Google lancia agenti che cercano e agiscono.",
+          "Ma falliscono su compiti complessi in più passaggi.",
+          "Quello che funziona: automatizzare ricerche noiose.",
+          "Provane uno vero oggi e vedi il divario."
+        ]
+      },
+      "instagram": {
+        "caption": "Google ha appena lanciato agenti AI che non si limitano a cercare su Internet: sanno riassumere documenti, organizzare dati e compiere azioni concrete come scrivere una mail o compilare un report. Il problema? Funzionano bene solo su compiti lineari e brevi. Per un progetto reale e complesso serve ancora una persona che coordini. La novità concreta per te? Con un solo prompt puoi automatizzare flussi di ricerca noiosi che ti rubano ore. Prendi un compito ripetitivo dal tuo lavoro e provalo oggi: il divario tra marketing e realtà lo vedi subito 🔍🦾📉⏰"
+      }
+    },
+    "instagram_caption": "Google ha appena lanciato agenti AI che non si limitano a cercare su Internet: sanno riassumere documenti, organizzare dati e compiere azioni concrete come scrivere una mail o compilare un report. Il problema? Funzionano bene solo su compiti lineari e brevi. Per un progetto reale e complesso serve ancora una persona che coordini. La novità concreta per te? Con un solo prompt puoi automatizzare flussi di ricerca noiosi che ti rubano ore. Prendi un compito ripetitivo dal tuo lavoro e provalo oggi: il divario tra marketing e realtà lo vedi subito 🔍🦾📉⏰",
+    "carousel_slides": [
+      {
+        "hook": "Autonomous AI? Not quite yet.",
+        "description": "No one expects AI agents to complete complex multi-step tasks alone, yet companies sell them as autonomous.",
+        "visual_hint": "Robot with loose wires",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "factory robot hand"
+      },
+      {
+        "hook": "Google's AI does more than search.",
+        "description": "Google’s new AI agents research, summarize, and take actions—but only on simple, well-defined tasks.",
+        "visual_hint": "Search bar morphing into robot",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Google search bar",
+        "image": "https://images.pexels.com/photos/7350905/pexels-photo-7350905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Linear tasks fine, real projects not.",
+        "description": "For real projects you still need a human in the loop—AI works best on short, linear, well-defined tasks.",
+        "visual_hint": "Flowchart with missing arrows",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "circuit board close",
+        "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Automate tedious research with one prompt.",
+        "description": "The real breakthrough: automate boring research workflows with one prompt, saving hours of work today.",
+        "visual_hint": "Prompt box with sparks",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "office desk computer",
+        "image": "https://images.pexels.com/photos/22711217/pexels-photo-22711217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test a real task and see the gap.",
+        "description": "Try an end-to-end real work task now—the gap between marketing hype and reality becomes obvious fast.",
+        "visual_hint": "Stopwatch and gap arrow",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop on table",
+        "image": "https://images.pexels.com/photos/6893327/pexels-photo-6893327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/G-information-agents.png?resize=1200,750",
+    "savedAt": "2026-05-19T22:57:47.914Z",
+    "sourceId": "56e3cf0857f6af63e1a9f899da36e6cd"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "you-can-now-talk-to-your-gmail-inbox-as-seen-at-go",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+    "pubDate": "Tue, 19 May 2026 21:25:31 +0000",
+    "slides": [
+      "Hai mai chiesto alla tua posta di rispondere da sola?",
+      "Google IO 2026 mostra chat vocale con Gmail.",
+      "L'AI legge il contesto, non solo le parole chiave.",
+      "Non serve più aprire la cronologia per trovare un file.",
+      "Prova a dettare \"manda l'ultima fattura\" oggi."
+    ],
+    "thread_text": [
+      "L'AI legge il contesto, non solo le parole che cerchi. Senza toccare cronologia, trova quel file di tre mesi fa in due secondi.",
+      "Tutto parte dal 2024, quando Google inizia a far rispondere Gmail da solo a un invito. Sembrava un trucco, oggi è routine.",
+      "Poi arriva Google IO 2026: la chat vocale con Gmail diventa reale. Parli come se fossi in chiamata, l'AI esegue.",
+      "Il salto è che non cerchi più parole chiave. L'AI capisce il perché della tua richiesta, non solo il cosa.",
+      "Prova oggi: apri Gmail, premi il microfono, e di' \"manda l'ultima fattura\". Funziona sul serio."
+    ],
+    "video_script": [
+      "L'AI ora capisce il contesto.",
+      "Non solo le parole che dici.",
+      "Trova file vecchi senza cercare.",
+      "Gmail risponde da solo.",
+      "Prova: dettalo subito."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "L'AI legge il contesto, non solo le parole che cerchi. Senza toccare cronologia, trova quel file di tre mesi fa in due secondi.",
+          "Tutto parte dal 2024, quando Google inizia a far rispondere Gmail da solo a un invito. Sembrava un trucco, oggi è routine.",
+          "Poi arriva Google IO 2026: la chat vocale con Gmail diventa reale. Parli come se fossi in chiamata, l'AI esegue.",
+          "Il salto è che non cerchi più parole chiave. L'AI capisce il perché della tua richiesta, non solo il cosa.",
+          "Prova oggi: apri Gmail, premi il microfono, e di' \"manda l'ultima fattura\". Funziona sul serio."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "L'AI ora capisce il contesto.",
+          "Non solo le parole che dici.",
+          "Trova file vecchi senza cercare.",
+          "Gmail risponde da solo.",
+          "Prova: dettalo subito."
+        ]
+      },
+      "instagram": {
+        "caption": "Da Google IO 2026 arriva una novità: parli a Gmail e lui esegue. 🎤 Hai mai chiesto alla tua posta di rispondere da sola? L'AI legge il contesto della tua richiesta, non solo le parole chiave – così trovi un file di tre mesi fa senza toccare la cronologia. 🧠 In pratica: premi il microfono, dici \"manda l'ultima fattura\", e parte. 📄 Niente più ricerca a mano tra 500 email. Quanto tempo risparmieresti se la tua casella ascoltasse ogni giorno? ⏳"
+      }
+    },
+    "instagram_caption": "Da Google IO 2026 arriva una novità: parli a Gmail e lui esegue. 🎤 Hai mai chiesto alla tua posta di rispondere da sola? L'AI legge il contesto della tua richiesta, non solo le parole chiave – così trovi un file di tre mesi fa senza toccare la cronologia. 🧠 In pratica: premi il microfono, dici \"manda l'ultima fattura\", e parte. 📄 Niente più ricerca a mano tra 500 email. Quanto tempo risparmieresti se la tua casella ascoltasse ogni giorno? ⏳",
+    "carousel_slides": [
+      {
+        "hook": "L'AI legge il contesto, non le parole",
+        "description": "L'AI capisce il perché della tua richiesta, non solo il cosa. Trova file in secondi.",
+        "visual_hint": "AI scanning email text",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "AI brain network"
+      },
+      {
+        "hook": "Parlavi a Gmail nel 2024?",
+        "description": "Da risposte automatiche a comandi vocali. Google IO 2026 rende reale la chat vocale.",
+        "visual_hint": "person talking to phone",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "person speaking smartphone",
+        "image": "https://images.pexels.com/photos/7877123/pexels-photo-7877123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non cerchi più parole chiave",
+        "description": "Il salto vero è che l'AI capisce il contesto. Trova quel file di tre mesi fa in due secondi.",
+        "visual_hint": "file search results screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer search screen",
+        "image": "https://images.pexels.com/photos/6862444/pexels-photo-6862444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "La cronologia? Non serve più",
+        "description": "Senza toccare cronologia, trova file di tre mesi fa. L'AI legge il contesto, non solo parole.",
+        "visual_hint": "hand closing file cabinet",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand file cabinet",
+        "image": "https://images.pexels.com/photos/8371710/pexels-photo-8371710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova: 'manda l'ultima fattura'",
+        "description": "Apri Gmail, premi microfono, dì il comando. Funziona sul serio. Il futuro è vocale.",
+        "visual_hint": "phone with microphone icon",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "microphone icon smartphone",
+        "image": "https://images.pexels.com/photos/6953845/pexels-photo-6953845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
+    "savedAt": "2026-05-19T22:57:35.905Z",
+    "sourceId": "df9d01ab5f19feb6891bab5ca0be29e8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-co-founder-andrej-karpathy-joins-anthropic-",
     "prompt_version": "1.0.0",
     "status": "published",
@@ -1194,7 +1402,12 @@ window.ARTICLES = [
     "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/techex-panel-hero.jpeg",
     "savedAt": "2026-05-19T10:54:58.715Z",
     "sourceId": "bb12754c83859f1bd71157209afb8172",
-    "render_quality": "low"
+    "render_quality": "low",
+    "render_status": {
+      "low": "done"
+    },
+    "render_path": "output/renders/ai-is-a-matter-of-power-infrastructure-and-securit.mp4",
+    "render_error": null
   },
   {
     "schema_version": 2,
