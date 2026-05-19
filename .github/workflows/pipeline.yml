@@ -71,7 +71,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add output/ frontend/data.js output/food/ frontend/data-food.js output/fitness/ frontend/data-fitness.js frontend/data-agents.js
           git diff --staged --quiet || git commit -m "auto: aggiorna contenuti $(date -u +%Y-%m-%dT%H:%M)"
-          git pull --rebase origin main
           git push
