@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ai-is-a-matter-of-power-infrastructure-and-securit",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI is a matter of power, infrastructure and security: TechEx North America",
+      "link": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
+      "pubDate": "Tue, 19 May 2026 01:36:26 +0000",
+      "slides": [
+        "TechEx North America unveiled the new power demands for AI.",
+        "Infrastructure costs are rising faster than model accuracy.",
+        "Your data center might be the next bottleneck, not GPUs.",
+        "Check your cooling capacity before scaling any pilot.",
+        "Security isn't optional—it's the only non-negotiable layer."
+      ],
+      "thread_text": [
+        "Il tuo data center potrebbe essere il prossimo collo di bottiglia, non le GPU. Se non controlli ora la capacità di raffreddamento, qualsiasi pilota di AI si ferma prima di partire.",
+        "TechEx North America ha appena svelato i nuovi fabbisogni energetici per l'AI. Servono più potenza di quanto chiunque avesse previsto.",
+        "Il problema? I costi delle infrastrutture stanno crescendo più velocemente dell'accuratezza dei modelli. Stai pagando di più per risultati marginali.",
+        "Quindi prima di scalare qualsiasi pilota, verifica la capacità di raffreddamento del tuo data center. È lì che si decide il successo o il fallimento.",
+        "E un layer non è negoziabile: la sicurezza. Senza quella, tutto il resto è inutile. Hai già fatto un audit dei tuoi sistemi di raffreddamento e sicurezza?"
+      ],
+      "video_script": [
+        "Il data center è il vero collo di bottiglia.",
+        "TechEx ha svelato i nuovi consumi energetici.",
+        "I costi salgono più della precisione dei modelli.",
+        "Controlla il raffreddamento prima di scalare.",
+        "Sicurezza? Non è una scelta, è obbligatoria."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Il tuo data center potrebbe essere il prossimo collo di bottiglia, non le GPU. Se non controlli ora la capacità di raffreddamento, qualsiasi pilota di AI si ferma prima di partire.",
+            "TechEx North America ha appena svelato i nuovi fabbisogni energetici per l'AI. Servono più potenza di quanto chiunque avesse previsto.",
+            "Il problema? I costi delle infrastrutture stanno crescendo più velocemente dell'accuratezza dei modelli. Stai pagando di più per risultati marginali.",
+            "Quindi prima di scalare qualsiasi pilota, verifica la capacità di raffreddamento del tuo data center. È lì che si decide il successo o il fallimento.",
+            "E un layer non è negoziabile: la sicurezza. Senza quella, tutto il resto è inutile. Hai già fatto un audit dei tuoi sistemi di raffreddamento e sicurezza?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Il data center è il vero collo di bottiglia.",
+            "TechEx ha svelato i nuovi consumi energetici.",
+            "I costi salgono più della precisione dei modelli.",
+            "Controlla il raffreddamento prima di scalare.",
+            "Sicurezza? Non è una scelta, è obbligatoria."
+          ]
+        },
+        "instagram": {
+          "caption": "A TechEx North America è emerso che i costi delle infrastrutture per l'AI salgono più velocemente dei miglioramenti dei modelli ⚡. Non sono solo le GPU il problema: il tuo data center potrebbe essere il prossimo collo di bottiglia se la capacità di raffreddamento non regge. Prima di scalare qualsiasi pilota, verifica l'impianto di raffreddamento e la sicurezza: quest'ultima è l'unico strato non negoziabile 🔒. Per chi lavora in azienda, significa che investire in potenza di calcolo senza adeguare raffreddamento e sicurezza è un rischio concreto. Il tuo data center è già pronto a gestire il carico? 💻❄️"
+        }
+      },
+      "instagram_caption": "A TechEx North America è emerso che i costi delle infrastrutture per l'AI salgono più velocemente dei miglioramenti dei modelli ⚡. Non sono solo le GPU il problema: il tuo data center potrebbe essere il prossimo collo di bottiglia se la capacità di raffreddamento non regge. Prima di scalare qualsiasi pilota, verifica l'impianto di raffreddamento e la sicurezza: quest'ultima è l'unico strato non negoziabile 🔒. Per chi lavora in azienda, significa che investire in potenza di calcolo senza adeguare raffreddamento e sicurezza è un rischio concreto. Il tuo data center è già pronto a gestire il carico? 💻❄️",
+      "carousel_slides": [
+        {
+          "hook": "Your data center is the bottleneck",
+          "description": "Il tuo data center potrebbe bloccare l'AI. Verifica la capacità di raffreddamento prima di scalare.",
+          "visual_hint": "Data center with cooling pipes",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "data center cooling pipes"
+        },
+        {
+          "hook": "New power demands for AI",
+          "description": "TechEx North America svela fabbisogni energetici superiori a ogni previsione. Serve più potenza.",
+          "visual_hint": "Power plant with transmission lines",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "power plant transmission lines",
+          "image": "https://images.pexels.com/photos/33041841/pexels-photo-33041841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costs vs accuracy gap",
+          "description": "I costi infrastrutturali crescono più velocemente dell'accuratezza dei modelli. Paghi di più per risultati marginali.",
+          "visual_hint": "Stock market chart declining",
+          "layout_type": "sensor-zoom",
+          "icon": "waves",
+          "image_query": "stock market chart decline",
+          "image": "https://images.pexels.com/photos/10628029/pexels-photo-10628029.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cooling decides success or failure",
+          "description": "Prima di scalare, verifica la capacità di raffreddamento. Lì si decide il successo dell'AI.",
+          "visual_hint": "Hand checking cooling unit",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "cooling fan server hand",
+          "image": "https://images.pexels.com/photos/31854233/pexels-photo-31854233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Security is non-negotiable",
+          "description": "Senza sicurezza, tutto il resto è inutile. Hai già fatto un audit di raffreddamento e sicurezza?",
+          "visual_hint": "Lock on server rack door",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "locked server rack security",
+          "image": "https://images.pexels.com/photos/5408005/pexels-photo-5408005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/techex-panel-hero.jpeg",
+      "savedAt": "2026-05-19T10:54:58.715Z",
+      "sourceId": "bb12754c83859f1bd71157209afb8172"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "sandboxaq-brings-its-drug-discovery-models-to-clau",
       "prompt_version": "1.0.0",
       "status": "published",
