@@ -1,174 +1,7 @@
 window.AGENTS = {
   "ai-news": [
     {
-      "schema_version": 3,
-      "agent": "ai-news",
-      "slug": "kin-health-raises-9m-to-build-an-ai-notetaker-for-",
-      "prompt_version": "1.0.0",
-      "status": "approved",
-      "title": "Kin Health raises $9M to build an AI notetaker for patients",
-      "link": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
-      "pubDate": "Mon, 18 May 2026 15:26:00 +0000",
-      "slides": [
-        "Kin Health ha raccolto $9M: e se il paziente ora annotasse tutto?",
-        "L'AI ascolta la visita e scrive note cliniche per il paziente.",
-        "Ma la diagnosi finale resta al medico: l'AI non decide.",
-        "Chi usa Kin può rivedere il colloquio e non dimenticare indicazioni.",
-        "Provare Kin oggi: confronta cosa ricordi senza AI."
-      ],
-      "thread_text": [
-        "La diagnosi finale la fa ancora il medico. Ma l’AI ti fa vivere la visita in modo diverso.",
-        "Kin Health ha appena chiuso un round da 9 milioni di dollari. L’idea: l’AI ascolta il colloquio e scrive le note cliniche per il paziente.",
-        "Non per il dottore. Per te. Così quando esci dallo studio non dimentichi metà delle indicazioni.",
-        "Puoi riguardare la conversazione quando vuoi. Niente più appunti scritti di fretta sul telefono.",
-        "Costa meno di un abbonamento Spotify. Provalo questa settimana e confronta cosa ricordi senza AI."
-      ],
-      "video_script": [
-        "Il medico decide ancora tutto.",
-        "Ma l’AI scrive le note per te.",
-        "Kin Health ha raccolto 9 milioni.",
-        "Rivedi il colloquio quando vuoi.",
-        "Provalo: confronta cosa ricordi senza."
-      ],
-      "formats": {
-        "x": {
-          "thread": [
-            "La diagnosi finale la fa ancora il medico. Ma l’AI ti fa vivere la visita in modo diverso.",
-            "Kin Health ha appena chiuso un round da 9 milioni di dollari. L’idea: l’AI ascolta il colloquio e scrive le note cliniche per il paziente.",
-            "Non per il dottore. Per te. Così quando esci dallo studio non dimentichi metà delle indicazioni.",
-            "Puoi riguardare la conversazione quando vuoi. Niente più appunti scritti di fretta sul telefono.",
-            "Costa meno di un abbonamento Spotify. Provalo questa settimana e confronta cosa ricordi senza AI."
-          ]
-        },
-        "tiktok": {
-          "script": [
-            "Il medico decide ancora tutto.",
-            "Ma l’AI scrive le note per te.",
-            "Kin Health ha raccolto 9 milioni.",
-            "Rivedi il colloquio quando vuoi.",
-            "Provalo: confronta cosa ricordi senza."
-          ]
-        },
-        "instagram": {
-          "caption": "Kin Health ha chiuso un round da 9 milioni di dollari per un'AI che scrive appunti al posto del paziente. 📝 L'ascolta durante la visita e trasforma il dialogo in note cliniche chiare, così quando esci dallo studio non devi più fidarti della memoria. 👂 Il medico resta l'unico a fare diagnosi: la macchina ascolta, non decide. Per te significa riguardare la conversazione quando vuoi, senza scarabocchi frettolosi sul telefono. 🩺 Costa meno di un abbonamento Spotify. Hai mai confrontato cosa ricordi di una visita con e senza AI? 🤔"
-        },
-        "video": {
-          "scenes": [
-            {
-              "scene": 1,
-              "duration_sec": 5,
-              "hook": "Immagina un paziente che annota tutto!",
-              "voiceover": "Kin Health ha raccolto 9 milioni per un'innovazione incredibile.",
-              "on_screen_text": "Kin Health raccoglie $9M!",
-              "visual_direction": "Inquadratura di un paziente durante una visita medica.",
-              "caption": "Un cambiamento rivoluzionario nella salute!"
-            },
-            {
-              "scene": 2,
-              "duration_sec": 6,
-              "hook": "L'AI ascolta e scrive per te!",
-              "voiceover": "Questo strumento AI annota note cliniche durante le visite.",
-              "on_screen_text": "L'AI ascolta la tua visita.",
-              "visual_direction": "Animazione che mostra un'AI che scrive appunti.",
-              "caption": "Mai più dettagli dimenticati!"
-            },
-            {
-              "scene": 3,
-              "duration_sec": 6,
-              "hook": "Ma la diagnosi è sempre del medico.",
-              "voiceover": "L'AI non prende decisioni, il medico rimane in controllo.",
-              "on_screen_text": "Il medico decide, l'AI supporta.",
-              "visual_direction": "Visuale di un medico e un paziente che discutono.",
-              "caption": "Collaborazione tra AI e professionisti!"
-            },
-            {
-              "scene": 4,
-              "duration_sec": 6,
-              "hook": "Rivivi il colloquio con Kin!",
-              "voiceover": "Puoi rivedere l'intero colloquio e non dimenticare nulla.",
-              "on_screen_text": "Rivedi il tuo colloquio.",
-              "visual_direction": "Schermata di un'app che riproduce il colloquio.",
-              "caption": "Non perdere mai un'indicazione!"
-            },
-            {
-              "scene": 5,
-              "duration_sec": 6,
-              "hook": "Prova Kin e confronta!",
-              "voiceover": "Scopri quanto ricordi senza l'AI: prova Kin oggi stesso.",
-              "on_screen_text": "Confronta: ricordi senza AI?",
-              "visual_direction": "Call to action con un link all'app.",
-              "caption": "Inizia il tuo viaggio con Kin!"
-            }
-          ],
-          "duration_sec": 29,
-          "aspect_ratio": "9:16",
-          "cta": "Scopri Kin e migliora le tue visite!",
-          "quality_score": 85
-        }
-      },
-      "instagram_caption": "Kin Health ha chiuso un round da 9 milioni di dollari per un'AI che scrive appunti al posto del paziente. 📝 L'ascolta durante la visita e trasforma il dialogo in note cliniche chiare, così quando esci dallo studio non devi più fidarti della memoria. 👂 Il medico resta l'unico a fare diagnosi: la macchina ascolta, non decide. Per te significa riguardare la conversazione quando vuoi, senza scarabocchi frettolosi sul telefono. 🩺 Costa meno di un abbonamento Spotify. Hai mai confrontato cosa ricordi di una visita con e senza AI? 🤔",
-      "carousel_slides": [
-        {
-          "hook": "La diagnosi la fa il medico",
-          "description": "Kin Health raccoglie $9M. L'AI ascolta la visita e scrive note per il paziente.",
-          "visual_hint": "Dottoressa parla con paziente",
-          "layout_type": "hero",
-          "icon": "heart",
-          "image_query": "doctor patient consultation"
-        },
-        {
-          "hook": "L'AI ascolta e scrive per te",
-          "description": "Kin Health ha chiuso un round da $9M. L'AI ascolta il colloquio e scrive le note cliniche per il paziente.",
-          "visual_hint": "Nota clinica su tablet",
-          "layout_type": "right-focus",
-          "icon": "waves",
-          "image_query": "tablet medical notes",
-          "image": "https://images.pexels.com/photos/5327920/pexels-photo-5327920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        },
-        {
-          "hook": "Non per il dottore. Per te.",
-          "description": "Così quando esci dallo studio non dimentichi metà delle indicazioni del medico.",
-          "visual_hint": "Paziente sorridente esce",
-          "layout_type": "sensor-zoom",
-          "icon": "check",
-          "image_query": "patient leaving clinic",
-          "image": "https://images.pexels.com/photos/8460413/pexels-photo-8460413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        },
-        {
-          "hook": "Riguarda il colloquio quando vuoi",
-          "description": "Niente più appunti scritti di fretta sul telefono. La conversazione è sempre disponibile.",
-          "visual_hint": "Telefono con audio registrato",
-          "layout_type": "human-hand",
-          "icon": "vibration",
-          "image_query": "smartphone recording audio",
-          "image": "https://images.pexels.com/photos/6333682/pexels-photo-6333682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        },
-        {
-          "hook": "Costa meno di Spotify. Provalo.",
-          "description": "Confronta cosa ricordi senza AI. Prova Kin Health questa settimana.",
-          "visual_hint": "Confronto memoria con e senza AI",
-          "layout_type": "cta-final",
-          "icon": "tag",
-          "image_query": "comparison chart memory",
-          "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        }
-      ],
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Kin-Health-feat.jpg?resize=1200,675",
-      "savedAt": "2026-05-18T17:53:38.872Z",
-      "sourceId": "c646b29b9090161756b074d28ebd0151",
-      "render_quality": "low",
-      "render_template": "slide_deck",
-      "render_status": {
-        "low": "done",
-        "medium": null,
-        "high": null
-      },
-      "render_path": "output/renders/kin-health-raises-9m-to-build-an-ai-notetaker-for-.mp4",
-      "render_error": null,
-      "render_version": null
-    },
-    {
-      "schema_version": 3,
+      "schema_version": 2,
       "agent": "ai-news",
       "slug": "ai-is-a-matter-of-power-infrastructure-and-securit",
       "prompt_version": "1.0.0",
@@ -584,7 +417,7 @@ window.AGENTS = {
       "sourceId": "c646b29b9090161756b074d28ebd0151"
     },
     {
-      "schema_version": 2,
+      "schema_version": 3,
       "agent": "ai-news",
       "slug": "south-korea-s-letinar-is-building-optics-behind-ai",
       "prompt_version": "1.0.0",
@@ -803,11 +636,57 @@ window.AGENTS = {
           "caption": "Elon Musk ha portato in tribunale OpenAI accusandola di aver tradito la missione no‑profit 🏛️, ma i suoi stessi messaggi dimostrano che sapeva già della possibilità di fare soldi.  \nIl punto è se una promessa orale o una dichiarazione pubblica valga quanto un contratto firmato 📜. Se il giudice dà ragione a OpenAI, le aziende potranno rendere a pagamento gli strumenti AI senza timore di essere citate per le promesse del passato 💸.  \nPer te significa che il tuo assistente AI gratuito potrebbe sparire dietro un abbonamento. L’hai già messo in conto? ⚖️"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Is trust dying in tech?",
+              "voiceover": "Why is trust a big question in the Musk-OpenAI trial?",
+              "on_screen_text": "Is trust dying in tech?",
+              "visual_direction": "Dramatic close-up of a courtroom scene.",
+              "caption": "The trial unfolds..."
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Musk claims betrayal!",
+              "voiceover": "Musk alleges OpenAI has prioritized profits over its mission.",
+              "on_screen_text": "Musk claims betrayal!",
+              "visual_direction": "Split screen with Musk and OpenAI logo.",
+              "caption": "What’s at stake?"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Contracts vs. promises!",
+              "voiceover": "The trial revolves around contracts and unwritten promises.",
+              "on_screen_text": "Contracts vs. promises!",
+              "visual_direction": "Animated scales balancing contracts and promises.",
+              "caption": "Legal battle brewing..."
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Emails could hurt Musk!",
+              "voiceover": "Musk's own emails might undermine his case in court.",
+              "on_screen_text": "Emails could hurt Musk!",
+              "visual_direction": "Overlay of emails being typed and sent.",
+              "caption": "Evidence reveals surprises!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Your AI tools are affected!",
+              "voiceover": "The ruling could impact the future of AI tools.",
+              "on_screen_text": "Your AI tools are affected!",
+              "visual_direction": "Visual of futuristic AI tools in action.",
+              "caption": "Stay informed!"
+            }
+          ],
+          "duration_sec": 30,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Read the full article now!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "Elon Musk ha portato in tribunale OpenAI accusandola di aver tradito la missione no‑profit 🏛️, ma i suoi stessi messaggi dimostrano che sapeva già della possibilità di fare soldi.  \nIl punto è se una promessa orale o una dichiarazione pubblica valga quanto un contratto firmato 📜. Se il giudice dà ragione a OpenAI, le aziende potranno rendere a pagamento gli strumenti AI senza timore di essere citate per le promesse del passato 💸.  \nPer te significa che il tuo assistente AI gratuito potrebbe sparire dietro un abbonamento. L’hai già messo in conto? ⚖️",
@@ -860,14 +739,14 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
       "savedAt": "2026-05-17T22:45:10.682Z",
       "sourceId": "0687ec213c6dc1c0fdbe8cdd30aa3819",
-      "render_quality": null,
+      "render_quality": "low",
       "render_template": null,
       "render_status": {
-        "low": null,
+        "low": "done",
         "medium": null,
         "high": null
       },
-      "render_path": null,
+      "render_path": "output/renders/why-trust-is-a-big-question-at-the-elon-musk-opena.mp4",
       "render_error": null,
       "render_version": null
     },
