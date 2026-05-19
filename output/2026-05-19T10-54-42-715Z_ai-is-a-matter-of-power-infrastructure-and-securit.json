@@ -3,7 +3,7 @@
   "agent": "ai-news",
   "slug": "ai-is-a-matter-of-power-infrastructure-and-securit",
   "prompt_version": "1.0.0",
-  "status": "published",
+  "status": "approved",
   "title": "AI is a matter of power, infrastructure and security: TechEx North America",
   "link": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
   "pubDate": "Tue, 19 May 2026 01:36:26 +0000",
@@ -100,5 +100,6 @@
   ],
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/techex-panel-hero.jpeg",
   "savedAt": "2026-05-19T10:54:58.715Z",
-  "sourceId": "bb12754c83859f1bd71157209afb8172"
+  "sourceId": "bb12754c83859f1bd71157209afb8172",
+  "render_quality": "low"
 }
