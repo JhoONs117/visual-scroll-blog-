@@ -25,6 +25,7 @@ function importFromDownloads(agentId, slug) {
   const destDir = path.join(ROOT, 'output', agentId, 'slides-png', slug);
   // Cerca sia in WSL ~/Downloads che in Windows /mnt/c/Users/*/Downloads
   const candidates = [
+    ROOT,                                  // root progetto (WSL browser download)
     path.join(os.homedir(), 'Downloads'),
     '/mnt/c/Users/halom/Downloads',
   ];

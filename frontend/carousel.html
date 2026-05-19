@@ -889,13 +889,6 @@ function renderArticle(article) {
       try {
         const canvas  = await renderToCanvas(slides[i]);
         const dataUrl = canvas.toDataURL('image/png');
-        // Scarica nel browser con nome slide{i}.png
-        const a = document.createElement('a');
-        a.href = dataUrl;
-        a.download = `slide${i}.png`;
-        a.click();
-        await new Promise(r => setTimeout(r, 300));
-        // Salva anche sul server
         const res = await fetch('/api/save-carousel-png', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
