@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "google-introduces-gemini-spark-a-24-7-agentic-assi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
+    "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+    "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
+    "slides": [
+      "Google Gemini Spark: l'assistente che non dorme mai?",
+      "Si integra con Gmail in tempo reale",
+      "Non solo risponde: agisce al tuo posto sulle email",
+      "Puoi delegare la gestione della posta, ma a quale costo?",
+      "Provare oggi un'automazione è l'unico modo per capire"
+    ],
+    "thread_text": [
+      "Delegare la gestione della posta a un assistente AI sembra un sogno. Il punto è: cosa succede quando inizia a rispondere al posto tuo senza che tu l'abbia chiesto?",
+      "Google Gemini Spark si integra con Gmail in tempo reale. Non legge solo le notifiche: analizza il contenuto, capisce il tono e decide se rispondere, archiviare o segnalare.",
+      "Non è un semplice filtro. Agisce direttamente sulle email: conferma appuntamenti, respinge proposte, scrive bozze. Tu lo scopri dopo, se guardi la cronologia.",
+      "Il costo non è il prezzo dell'abbonamento. È la fiducia: quante volte puoi permetterti che interpreti male un messaggio di un cliente? il margine di errore è reale.",
+      "Costa meno di un caffè al giorno. Se non hai ancora provato a configurare una singola automazione di posta, parti da una cartella 'bozze da verificare'. Fallo questa settimana."
+    ],
+    "video_script": [
+      "Delegare le email a un assistente AI.",
+      "Sembra comodo, ma rischia grosso.",
+      "Gemini Spark lavora dentro Gmail in diretta.",
+      "Non filtra: risponde e agisce per te.",
+      "Il costo non sono i soldi, ma la fiducia."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Delegare la gestione della posta a un assistente AI sembra un sogno. Il punto è: cosa succede quando inizia a rispondere al posto tuo senza che tu l'abbia chiesto?",
+          "Google Gemini Spark si integra con Gmail in tempo reale. Non legge solo le notifiche: analizza il contenuto, capisce il tono e decide se rispondere, archiviare o segnalare.",
+          "Non è un semplice filtro. Agisce direttamente sulle email: conferma appuntamenti, respinge proposte, scrive bozze. Tu lo scopri dopo, se guardi la cronologia.",
+          "Il costo non è il prezzo dell'abbonamento. È la fiducia: quante volte puoi permetterti che interpreti male un messaggio di un cliente? il margine di errore è reale.",
+          "Costa meno di un caffè al giorno. Se non hai ancora provato a configurare una singola automazione di posta, parti da una cartella 'bozze da verificare'. Fallo questa settimana."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Delegare le email a un assistente AI.",
+          "Sembra comodo, ma rischia grosso.",
+          "Gemini Spark lavora dentro Gmail in diretta.",
+          "Non filtra: risponde e agisce per te.",
+          "Il costo non sono i soldi, ma la fiducia."
+        ]
+      },
+      "instagram": {
+        "caption": "Google presenta Gemini Spark, un assistente che si integra con Gmail in tempo reale. Non si limita a leggere: analizza tono e contenuto delle email, poi decide da solo se rispondere, archiviare o segnalare 📬. Questo significa che conferma appuntamenti e scrive bozze al posto tuo — e tu lo scopri solo controllando la cronologia ⏳. Il vero costo non è l'abbonamento (meno di un caffè al giorno), ma la fiducia: un fraintendimento su un messaggio di un cliente può costare caro 🤖. Perché non provare prima un'automazione in una cartella \"bozze da verificare\"?"
+      }
+    },
+    "instagram_caption": "Google presenta Gemini Spark, un assistente che si integra con Gmail in tempo reale. Non si limita a leggere: analizza tono e contenuto delle email, poi decide da solo se rispondere, archiviare o segnalare 📬. Questo significa che conferma appuntamenti e scrive bozze al posto tuo — e tu lo scopri solo controllando la cronologia ⏳. Il vero costo non è l'abbonamento (meno di un caffè al giorno), ma la fiducia: un fraintendimento su un messaggio di un cliente può costare caro 🤖. Perché non provare prima un'automazione in una cartella \"bozze da verificare\"?",
+    "carousel_slides": [
+      {
+        "hook": "Cosa risponde al posto tuo?",
+        "description": "Un assistente AI che agisce sulle email senza preavviso: rischi di scoprire azioni già compiute solo controllando la cronologia.",
+        "visual_hint": "Schermo Gmail con bozza automatica",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "Gmail inbox screen"
+      },
+      {
+        "hook": "Legge tono e contenuto in tempo reale",
+        "description": "Gemini Spark analizza le email, capisce il contesto e decide per te: rispondere, archiviare o segnalare.",
+        "visual_hint": "Icona AI che analizza testo email",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "email text analysis",
+        "image": "https://images.pexels.com/photos/7172826/pexels-photo-7172826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Agisce direttamente senza chiedere permesso",
+        "description": "Conferma appuntamenti, scrive bozze, rifiuta proposte: tu lo scopri dopo, se controlli la cronologia.",
+        "visual_hint": "Calendario con appuntamento automatico",
+        "layout_type": "sensor-zoom",
+        "icon": "check",
+        "image_query": "calendar appointment",
+        "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il costo non è l'abbonamento ma la fiducia",
+        "description": "Un errore di interpretazione su un cliente può costare caro: il margine di errore è reale, anche con l'AI.",
+        "visual_hint": "Manoscritto email con errore evidenziato",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "hand writing email",
+        "image": "https://images.pexels.com/photos/7709101/pexels-photo-7709101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova oggi una semplice automazione",
+        "description": "Costa meno di un caffè al giorno. Inizia con una cartella 'bozze da verificare': fallo questa settimana.",
+        "visual_hint": "Cartella email con bozze evidenziate",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "email drafts folder",
+        "image": "https://images.pexels.com/photos/8297537/pexels-photo-8297537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/spark.jpg?resize=1200,673",
+    "savedAt": "2026-05-19T20:35:48.798Z",
+    "sourceId": "6e6d5dc266f7a4c9bd1aa09aef8edb5b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "agentic-app-coding-gets-an-upgrade-with-google-s-r",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+    "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+    "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
+    "slides": [
+      "Google lancia Android CLI. Sviluppi senza IDE?",
+      "Scrivi app Android direttamente da terminale.",
+      "Ma serve sapere già usare strumenti a riga di comando.",
+      "Chi non lo prova ora rischia di restare indietro.",
+      "Testa oggi un workflow senza Android Studio."
+    ],
+    "thread_text": [
+      "Se non sai già usare bene la riga di comando, questo nuovo tool Android non fa per te. Almeno per ora. Ma è esattamente il motivo per cui dovresti iniziare a imparare.",
+      "Google ha rilasciato Android CLI. Permette di compilare, testare e deployare app Android senza aprire Android Studio. Solo terminale e un editor di testo.",
+      "Il punto non è che l'IDE sia morto. È che per certi workflow – CI/CD, scripting, ambienti leggeri – non avere una CLI è un collo di bottiglia.",
+      "Chi oggi dipende dall'IDE per ogni minima modifica, tra un anno avrà un vantaggio competitivo in meno. I recruiter lo sanno già.",
+      "Apri il terminale, installa Android CLI e compila la tua prima app in 10 minuti. È gratis. Se non lo fai ora, lo farà qualcun altro."
+    ],
+    "video_script": [
+      "Google ha fatto una cosa grossa.",
+      "Un tool da terminale per Android.",
+      "Niente Android Studio, solo riga di comando.",
+      "Ma devi sapere usare il terminale.",
+      "Se non lo provi ora, resti indietro."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Se non sai già usare bene la riga di comando, questo nuovo tool Android non fa per te. Almeno per ora. Ma è esattamente il motivo per cui dovresti iniziare a imparare.",
+          "Google ha rilasciato Android CLI. Permette di compilare, testare e deployare app Android senza aprire Android Studio. Solo terminale e un editor di testo.",
+          "Il punto non è che l'IDE sia morto. È che per certi workflow – CI/CD, scripting, ambienti leggeri – non avere una CLI è un collo di bottiglia.",
+          "Chi oggi dipende dall'IDE per ogni minima modifica, tra un anno avrà un vantaggio competitivo in meno. I recruiter lo sanno già.",
+          "Apri il terminale, installa Android CLI e compila la tua prima app in 10 minuti. È gratis. Se non lo fai ora, lo farà qualcun altro."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google ha fatto una cosa grossa.",
+          "Un tool da terminale per Android.",
+          "Niente Android Studio, solo riga di comando.",
+          "Ma devi sapere usare il terminale.",
+          "Se non lo provi ora, resti indietro."
+        ]
+      },
+      "instagram": {
+        "caption": "Google ha rilasciato un tool ufficiale per sviluppare app Android direttamente dal terminale, senza aprire Android Studio. Si chiama Android CLI e permette di compilare, testare e distribuire app usando solo riga di comando e un editor di testo. Per ora serve sapere già usare il terminale, ma è il segnale che i flussi di lavoro stanno cambiando: chi dipende dall'IDE per ogni modifica rischia di perdere velocità rispetto a chi automatizza con script e CI. Con 10 minuti di installazione puoi testare oggi stesso un workflow senza interfaccia grafica. Hai già aperto il terminale o aspetti che qualcun altro lo faccia al posto tuo? 🖥️⌨️📱⚙️"
+      }
+    },
+    "instagram_caption": "Google ha rilasciato un tool ufficiale per sviluppare app Android direttamente dal terminale, senza aprire Android Studio. Si chiama Android CLI e permette di compilare, testare e distribuire app usando solo riga di comando e un editor di testo. Per ora serve sapere già usare il terminale, ma è il segnale che i flussi di lavoro stanno cambiando: chi dipende dall'IDE per ogni modifica rischia di perdere velocità rispetto a chi automatizza con script e CI. Con 10 minuti di installazione puoi testare oggi stesso un workflow senza interfaccia grafica. Hai già aperto il terminale o aspetti che qualcun altro lo faccia al posto tuo? 🖥️⌨️📱⚙️",
+    "carousel_slides": [
+      {
+        "hook": "CLI senza IDE? Rischio o futuro",
+        "description": "Google lancia Android CLI per sviluppare app. Chi ignora la riga di comando rischia di restare indietro.",
+        "visual_hint": "Terminale con codice Android",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room terminal"
+      },
+      {
+        "hook": "Scrivi app Android da terminale",
+        "description": "Compila, testa e deploya senza Android Studio. Solo terminale e un editor di testo.",
+        "visual_hint": "Schermo con riga di comando",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer command line",
+        "image": "https://images.pexels.com/photos/3861976/pexels-photo-3861976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Serve già sapere la riga di comando",
+        "description": "Android CLI non fa per principianti. È il motivo per cui dovresti iniziare a imparare ora.",
+        "visual_hint": "Lente d'ingrandimento su comandi",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "keyboard close up",
+        "image": "https://images.pexels.com/photos/37005816/pexels-photo-37005816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non provarlo ora, perderai vantaggio",
+        "description": "Chi dipende dall'IDE per ogni modifica tra un anno avrà meno competitività. I recruiter lo sanno già.",
+        "visual_hint": "Persona che scrive codice al buio",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office worker typing",
+        "image": "https://images.pexels.com/photos/12903153/pexels-photo-12903153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova subito Android CLI gratis",
+        "description": "Installa Android CLI e compila la tua prima app in 10 minuti. Gratis. Se non lo fai, lo fa qualcun altro.",
+        "visual_hint": "Bottone 'Get started' su terminale",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "solar panels power",
+        "image": "https://images.pexels.com/photos/27637329/pexels-photo-27637329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-05-19T20:35:34.327Z",
+    "sourceId": "d2b4dde906051640a9d95cb5faa50bd7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-s-ai-now-lets-you-talk-to-your-gmail-inbox",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google’s AI now lets you talk to your Gmail inbox",
+    "link": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/",
+    "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
+    "slides": [
+      "Parli con la tua posta, ma Google ascolta cosa?",
+      "L'AI analizza ogni email in Gmail in tempo reale.",
+      "I tuoi messaggi non parlano—loro sì.",
+      "Filtrare risposte urgenti ora è questione di voce.",
+      "Prova oggi: chiedi 'cos'ho perso?' alla casella."
+    ],
+    "thread_text": [
+      "I tuoi messaggi non parlano. Loro sì. L'AI che legge ogni tua email in tempo reale sta già rispondendo per te.",
+      "Ogni email che arriva in Gmail viene analizzata istantaneamente. Parole chiave, tono, urgenza. Non è un filtro, è un’intelligenza che ti anticipa.",
+      "Fino a ieri dovevi aprire tutto. Oggi rispondi con la voce. Le risposte urgenti prendono il volo, le newsletter aspettano. L’AI decide per te.",
+      "Non serve più toccare niente. Parli con la posta, e lei ti capisce. Il punto è: Google ascolta sempre? Questa volta lo vuoi tu.",
+      "Chiedi alla tua casella: 'cos'ho perso?'. Lei risponde. Costa meno di un abbonamento a Spotify. Prova oggi."
+    ],
+    "video_script": [
+      "I tuoi messaggi non parlano. Loro sì.",
+      "L'AI legge ogni email in tempo reale.",
+      "Filtra le urgenze mentre tu parli.",
+      "Niente più clic. Solo voce.",
+      "Chiedi 'cos'ho perso?' e lei risponde."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "I tuoi messaggi non parlano. Loro sì. L'AI che legge ogni tua email in tempo reale sta già rispondendo per te.",
+          "Ogni email che arriva in Gmail viene analizzata istantaneamente. Parole chiave, tono, urgenza. Non è un filtro, è un’intelligenza che ti anticipa.",
+          "Fino a ieri dovevi aprire tutto. Oggi rispondi con la voce. Le risposte urgenti prendono il volo, le newsletter aspettano. L’AI decide per te.",
+          "Non serve più toccare niente. Parli con la posta, e lei ti capisce. Il punto è: Google ascolta sempre? Questa volta lo vuoi tu.",
+          "Chiedi alla tua casella: 'cos'ho perso?'. Lei risponde. Costa meno di un abbonamento a Spotify. Prova oggi."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "I tuoi messaggi non parlano. Loro sì.",
+          "L'AI legge ogni email in tempo reale.",
+          "Filtra le urgenze mentre tu parli.",
+          "Niente più clic. Solo voce.",
+          "Chiedi 'cos'ho perso?' e lei risponde."
+        ]
+      },
+      "instagram": {
+        "caption": "Chiedi a Gmail \"cosa ho perso?\" e la casella ti risponde a voce. 🎤 Google ha attivato un'AI che analizza ogni email in tempo reale: parole chiave, tono, urgenza. Non un semplice filtro, ma un'intelligenza che decide per te cosa è prioritario. 📬 Fino a ieri dovevi aprire tutto; oggi rispondi parlando e le newsletter aspettano. Per chi gestisce centinaia di messaggi al giorno, risparmiare clic significa ore recuperate. ⏳ Ora la domanda è: vuoi che qualcuno ascolti la tua posta al posto tuo? 👂"
+      }
+    },
+    "instagram_caption": "Chiedi a Gmail \"cosa ho perso?\" e la casella ti risponde a voce. 🎤 Google ha attivato un'AI che analizza ogni email in tempo reale: parole chiave, tono, urgenza. Non un semplice filtro, ma un'intelligenza che decide per te cosa è prioritario. 📬 Fino a ieri dovevi aprire tutto; oggi rispondi parlando e le newsletter aspettano. Per chi gestisce centinaia di messaggi al giorno, risparmiare clic significa ore recuperate. ⏳ Ora la domanda è: vuoi che qualcuno ascolti la tua posta al posto tuo? 👂",
+    "carousel_slides": [
+      {
+        "hook": "Parli con la posta, ma chi ascolta?",
+        "description": "I tuoi messaggi non parlano. Loro sì. L'AI legge ogni email in tempo reale e risponde.",
+        "visual_hint": "Orecchio su smartphone",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "smartphone microphone ear"
+      },
+      {
+        "hook": "Legge ogni email in tempo reale",
+        "description": "Ogni email analizzata istantaneamente: parole chiave, tono, urgenza. Un'intelligenza che ti anticipa.",
+        "visual_hint": "Email che si illumina",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "gmail inbox screen",
+        "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rispondi con la voce, non con le dita",
+        "description": "Fino a ieri dovevi aprire tutto. Oggi le risposte urgenti volano, le newsletter aspettano. L'AI decide.",
+        "visual_hint": "Labbra che parlano",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "person talking phone",
+        "image": "https://images.pexels.com/photos/3277804/pexels-photo-3277804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Google ascolta? Questa volta lo vuoi tu",
+        "description": "Non serve toccare niente. Parli con la posta e lei ti capisce. Il controllo è nelle tue mani.",
+        "visual_hint": "Mano che tocca schermo",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "hand touching phone screen",
+        "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Chiedi 'cosa ho perso?' alla casella",
+        "description": "La tua Gmail risponde. Costa meno di un abbonamento a Spotify. Prova oggi la voce che anticipa.",
+        "visual_hint": "Cuffie e citofono",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "headphones and smartphone",
+        "image": "https://images.pexels.com/photos/10963855/pexels-photo-10963855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
+    "savedAt": "2026-05-19T20:35:21.153Z",
+    "sourceId": "6a3556082c31b50f5969b96194e224d7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-s-genie-world-model-can-now-simulate-real-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google’s Genie world model can now simulate real streets with Street View",
+    "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+    "pubDate": "Tue, 19 May 2026 17:51:39 +0000",
+    "slides": [
+      "Google’s Genie simulates streets, but what’s the catch?",
+      "It learned from millions of Street View images.",
+      "You can walk through streets that don’t exist.",
+      "Your navigation app may never need a map again.",
+      "Try it: imagine a route, then run it live."
+    ],
+    "thread_text": [
+      "Puoi camminare dentro strade che non esistono. Google ha appena addestrato un AI su milioni di immagini di Street View — e il risultato è un mondo generato al volo, senza mappa.",
+      "L'AI si chiama Genie e impara a simulare come appare un luogo da ogni angolazione, solo a partire da foto fisse. Nessun GPS, nessuna geometria precalcolata.",
+      "La svolta? Il modello non ha visto quelle strade nei dati di addestramento. Genia ha imparato a 'immaginare' percorsi plausibili, comprese curve, incroci e facciate di palazzi.",
+      "Cosa significa per te: la tua app di navigazione potrebbe presto funzionare senza mappa. Se vuoi un percorso, basta descriverlo a voce — e Genie lo genera al volo.",
+      "Prova oggi: immagina una via di casa tua che non sai disegnare, descrivila in poche parole… e guarda l’AI ricrearla in tempo reale. Il test è gratuito, su Web."
+    ],
+    "video_script": [
+      "Immagina di camminare in una strada che non esiste.",
+      "Google l'ha appena reso possibile.",
+      "Genie impara da Street View.",
+      "Non serve più una mappa fisica.",
+      "Provalo oggi stesso."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Puoi camminare dentro strade che non esistono. Google ha appena addestrato un AI su milioni di immagini di Street View — e il risultato è un mondo generato al volo, senza mappa.",
+          "L'AI si chiama Genie e impara a simulare come appare un luogo da ogni angolazione, solo a partire da foto fisse. Nessun GPS, nessuna geometria precalcolata.",
+          "La svolta? Il modello non ha visto quelle strade nei dati di addestramento. Genia ha imparato a 'immaginare' percorsi plausibili, comprese curve, incroci e facciate di palazzi.",
+          "Cosa significa per te: la tua app di navigazione potrebbe presto funzionare senza mappa. Se vuoi un percorso, basta descriverlo a voce — e Genie lo genera al volo.",
+          "Prova oggi: immagina una via di casa tua che non sai disegnare, descrivila in poche parole… e guarda l’AI ricrearla in tempo reale. Il test è gratuito, su Web."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Immagina di camminare in una strada che non esiste.",
+          "Google l'ha appena reso possibile.",
+          "Genie impara da Street View.",
+          "Non serve più una mappa fisica.",
+          "Provalo oggi stesso."
+        ]
+      },
+      "instagram": {
+        "caption": "Google ha preso milioni di foto da Street View e ha insegnato a un modello, chiamato Genie, a camminare dentro strade che non esistono 🚶‍♂️. Non usa mappe né GPS: guarda le immagini fisse e ricostruisce al volo curve, incroci e palazzi da ogni angolazione. Per te significa che la tua app di navigazione potrebbe presto funzionare senza una mappa precaricata 🗺️, basta descrivere il percorso a voce. Hai mai provato a far generare una via di casa tua senza disegnarla?"
+      }
+    },
+    "instagram_caption": "Google ha preso milioni di foto da Street View e ha insegnato a un modello, chiamato Genie, a camminare dentro strade che non esistono 🚶‍♂️. Non usa mappe né GPS: guarda le immagini fisse e ricostruisce al volo curve, incroci e palazzi da ogni angolazione. Per te significa che la tua app di navigazione potrebbe presto funzionare senza una mappa precaricata 🗺️, basta descrivere il percorso a voce. Hai mai provato a far generare una via di casa tua senza disegnarla?",
+    "carousel_slides": [
+      {
+        "hook": "Cammini in strade inesistenti",
+        "description": "Google ha addestrato un AI su milioni di immagini Street View per generare mondi al volo, senza mappa.",
+        "visual_hint": "strada che si dissolve in pixel",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "street view camera car"
+      },
+      {
+        "hook": "Impara da foto fisse",
+        "description": "Genie simula luoghi da ogni angolazione usando solo foto statiche, senza GPS o geometria precalcolata.",
+        "visual_hint": "foto fissa che diventa 3D",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "Google Street View 360",
+        "image": "https://images.pexels.com/photos/35525743/pexels-photo-35525743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Immagina percorsi mai visti",
+        "description": "Il modello non ha visto quelle strade nei dati: crea curve, incroci e facciate plausibili da zero.",
+        "visual_hint": "incrocio generato da AI",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "AI generated city street",
+        "image": "https://images.pexels.com/photos/30802822/pexels-photo-30802822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Navigazione senza mappa",
+        "description": "La tua app di navigazione potrebbe funzionare senza mappa: descrivi un percorso a voce e Genie lo genera.",
+        "visual_hint": "mano che tocca mappa vuota",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone navigation screen",
+        "image": "https://images.pexels.com/photos/6169859/pexels-photo-6169859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova a descrivere una via",
+        "description": "Immagina una strada di casa, descrivila in poche parole e guarda l'AI ricrearla in tempo reale. Gratis sul Web.",
+        "visual_hint": "schermo con via generata",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "person typing on laptop",
+        "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Genie-Street-View-NYC.png?resize=1200,662",
+    "savedAt": "2026-05-19T20:35:08.268Z",
+    "sourceId": "70e8d0fce37f17cf1a746465a50fa639"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-just-declared-itself-a-contender-in-ai-desi",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-introduces-gemini-spark-a-24-7-agentic-assi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
+  "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+  "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
+  "slides": [
+    "Google Gemini Spark: l'assistente che non dorme mai?",
+    "Si integra con Gmail in tempo reale",
+    "Non solo risponde: agisce al tuo posto sulle email",
+    "Puoi delegare la gestione della posta, ma a quale costo?",
+    "Provare oggi un'automazione è l'unico modo per capire"
+  ],
+  "thread_text": [
+    "Delegare la gestione della posta a un assistente AI sembra un sogno. Il punto è: cosa succede quando inizia a rispondere al posto tuo senza che tu l'abbia chiesto?",
+    "Google Gemini Spark si integra con Gmail in tempo reale. Non legge solo le notifiche: analizza il contenuto, capisce il tono e decide se rispondere, archiviare o segnalare.",
+    "Non è un semplice filtro. Agisce direttamente sulle email: conferma appuntamenti, respinge proposte, scrive bozze. Tu lo scopri dopo, se guardi la cronologia.",
+    "Il costo non è il prezzo dell'abbonamento. È la fiducia: quante volte puoi permetterti che interpreti male un messaggio di un cliente? il margine di errore è reale.",
+    "Costa meno di un caffè al giorno. Se non hai ancora provato a configurare una singola automazione di posta, parti da una cartella 'bozze da verificare'. Fallo questa settimana."
+  ],
+  "video_script": [
+    "Delegare le email a un assistente AI.",
+    "Sembra comodo, ma rischia grosso.",
+    "Gemini Spark lavora dentro Gmail in diretta.",
+    "Non filtra: risponde e agisce per te.",
+    "Il costo non sono i soldi, ma la fiducia."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Delegare la gestione della posta a un assistente AI sembra un sogno. Il punto è: cosa succede quando inizia a rispondere al posto tuo senza che tu l'abbia chiesto?",
+        "Google Gemini Spark si integra con Gmail in tempo reale. Non legge solo le notifiche: analizza il contenuto, capisce il tono e decide se rispondere, archiviare o segnalare.",
+        "Non è un semplice filtro. Agisce direttamente sulle email: conferma appuntamenti, respinge proposte, scrive bozze. Tu lo scopri dopo, se guardi la cronologia.",
+        "Il costo non è il prezzo dell'abbonamento. È la fiducia: quante volte puoi permetterti che interpreti male un messaggio di un cliente? il margine di errore è reale.",
+        "Costa meno di un caffè al giorno. Se non hai ancora provato a configurare una singola automazione di posta, parti da una cartella 'bozze da verificare'. Fallo questa settimana."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Delegare le email a un assistente AI.",
+        "Sembra comodo, ma rischia grosso.",
+        "Gemini Spark lavora dentro Gmail in diretta.",
+        "Non filtra: risponde e agisce per te.",
+        "Il costo non sono i soldi, ma la fiducia."
+      ]
+    },
+    "instagram": {
+      "caption": "Google presenta Gemini Spark, un assistente che si integra con Gmail in tempo reale. Non si limita a leggere: analizza tono e contenuto delle email, poi decide da solo se rispondere, archiviare o segnalare 📬. Questo significa che conferma appuntamenti e scrive bozze al posto tuo — e tu lo scopri solo controllando la cronologia ⏳. Il vero costo non è l'abbonamento (meno di un caffè al giorno), ma la fiducia: un fraintendimento su un messaggio di un cliente può costare caro 🤖. Perché non provare prima un'automazione in una cartella \"bozze da verificare\"?"
+    }
+  },
+  "instagram_caption": "Google presenta Gemini Spark, un assistente che si integra con Gmail in tempo reale. Non si limita a leggere: analizza tono e contenuto delle email, poi decide da solo se rispondere, archiviare o segnalare 📬. Questo significa che conferma appuntamenti e scrive bozze al posto tuo — e tu lo scopri solo controllando la cronologia ⏳. Il vero costo non è l'abbonamento (meno di un caffè al giorno), ma la fiducia: un fraintendimento su un messaggio di un cliente può costare caro 🤖. Perché non provare prima un'automazione in una cartella \"bozze da verificare\"?",
+  "carousel_slides": [
+    {
+      "hook": "Cosa risponde al posto tuo?",
+      "description": "Un assistente AI che agisce sulle email senza preavviso: rischi di scoprire azioni già compiute solo controllando la cronologia.",
+      "visual_hint": "Schermo Gmail con bozza automatica",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "Gmail inbox screen"
+    },
+    {
+      "hook": "Legge tono e contenuto in tempo reale",
+      "description": "Gemini Spark analizza le email, capisce il contesto e decide per te: rispondere, archiviare o segnalare.",
+      "visual_hint": "Icona AI che analizza testo email",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "email text analysis",
+      "image": "https://images.pexels.com/photos/7172826/pexels-photo-7172826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Agisce direttamente senza chiedere permesso",
+      "description": "Conferma appuntamenti, scrive bozze, rifiuta proposte: tu lo scopri dopo, se controlli la cronologia.",
+      "visual_hint": "Calendario con appuntamento automatico",
+      "layout_type": "sensor-zoom",
+      "icon": "check",
+      "image_query": "calendar appointment",
+      "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il costo non è l'abbonamento ma la fiducia",
+      "description": "Un errore di interpretazione su un cliente può costare caro: il margine di errore è reale, anche con l'AI.",
+      "visual_hint": "Manoscritto email con errore evidenziato",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "hand writing email",
+      "image": "https://images.pexels.com/photos/7709101/pexels-photo-7709101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova oggi una semplice automazione",
+      "description": "Costa meno di un caffè al giorno. Inizia con una cartella 'bozze da verificare': fallo questa settimana.",
+      "visual_hint": "Cartella email con bozze evidenziate",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "email drafts folder",
+      "image": "https://images.pexels.com/photos/8297537/pexels-photo-8297537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/spark.jpg?resize=1200,673",
+  "savedAt": "2026-05-19T20:35:48.798Z",
+  "sourceId": "6e6d5dc266f7a4c9bd1aa09aef8edb5b"
+}

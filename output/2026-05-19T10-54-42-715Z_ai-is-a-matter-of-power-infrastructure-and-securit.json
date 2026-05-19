@@ -49,6 +49,58 @@
     },
     "instagram": {
       "caption": "A TechEx North America è emerso che i costi delle infrastrutture per l'AI salgono più velocemente dei miglioramenti dei modelli ⚡. Non sono solo le GPU il problema: il tuo data center potrebbe essere il prossimo collo di bottiglia se la capacità di raffreddamento non regge. Prima di scalare qualsiasi pilota, verifica l'impianto di raffreddamento e la sicurezza: quest'ultima è l'unico strato non negoziabile 🔒. Per chi lavora in azienda, significa che investire in potenza di calcolo senza adeguare raffreddamento e sicurezza è un rischio concreto. Il tuo data center è già pronto a gestire il carico? 💻❄️"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Il futuro dell'AI è in gioco!",
+          "voiceover": "Scopri come la potenza dell'AI sta cambiando tutto.",
+          "on_screen_text": "Il futuro dell'AI è in gioco!",
+          "visual_direction": "Animazione di un cervello elettronico che si illumina.",
+          "caption": "Rivelazioni da TechEx North America"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Crescita dei costi infrastrutturali!",
+          "voiceover": "I costi per l'infrastruttura AI stanno crescendo rapidamente.",
+          "on_screen_text": "Crescita dei costi infrastrutturali!",
+          "visual_direction": "Grafico in aumento che rappresenta i costi.",
+          "caption": "Infrastruttura AI in aumento"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Attenzione ai data center!",
+          "voiceover": "I tuoi server potrebbero essere il vero collo di bottiglia.",
+          "on_screen_text": "Attenzione ai data center!",
+          "visual_direction": "Immagine di un data center affollato.",
+          "caption": "Collo di bottiglia nei data center"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Controlla la capacità di raffreddamento!",
+          "voiceover": "Non sottovalutare l'importanza del raffreddamento.",
+          "on_screen_text": "Controlla la capacità di raffreddamento!",
+          "visual_direction": "Animazione di un sistema di raffreddamento in azione.",
+          "caption": "Raffreddamento essenziale"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "La sicurezza è fondamentale!",
+          "voiceover": "La sicurezza non è facoltativa, è essenziale.",
+          "on_screen_text": "La sicurezza è fondamentale!",
+          "visual_direction": "Icone di sicurezza digitale che si illuminano.",
+          "caption": "Sicurezza AI non negoziabile"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 28,
+      "cta": "Scopri di più sull'AI oggi!"
     }
   },
   "instagram_caption": "A TechEx North America è emerso che i costi delle infrastrutture per l'AI salgono più velocemente dei miglioramenti dei modelli ⚡. Non sono solo le GPU il problema: il tuo data center potrebbe essere il prossimo collo di bottiglia se la capacità di raffreddamento non regge. Prima di scalare qualsiasi pilota, verifica l'impianto di raffreddamento e la sicurezza: quest'ultima è l'unico strato non negoziabile 🔒. Per chi lavora in azienda, significa che investire in potenza di calcolo senza adeguare raffreddamento e sicurezza è un rischio concreto. Il tuo data center è già pronto a gestire il carico? 💻❄️",

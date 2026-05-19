@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "agentic-app-coding-gets-an-upgrade-with-google-s-r",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+  "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+  "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
+  "slides": [
+    "Google lancia Android CLI. Sviluppi senza IDE?",
+    "Scrivi app Android direttamente da terminale.",
+    "Ma serve sapere già usare strumenti a riga di comando.",
+    "Chi non lo prova ora rischia di restare indietro.",
+    "Testa oggi un workflow senza Android Studio."
+  ],
+  "thread_text": [
+    "Se non sai già usare bene la riga di comando, questo nuovo tool Android non fa per te. Almeno per ora. Ma è esattamente il motivo per cui dovresti iniziare a imparare.",
+    "Google ha rilasciato Android CLI. Permette di compilare, testare e deployare app Android senza aprire Android Studio. Solo terminale e un editor di testo.",
+    "Il punto non è che l'IDE sia morto. È che per certi workflow – CI/CD, scripting, ambienti leggeri – non avere una CLI è un collo di bottiglia.",
+    "Chi oggi dipende dall'IDE per ogni minima modifica, tra un anno avrà un vantaggio competitivo in meno. I recruiter lo sanno già.",
+    "Apri il terminale, installa Android CLI e compila la tua prima app in 10 minuti. È gratis. Se non lo fai ora, lo farà qualcun altro."
+  ],
+  "video_script": [
+    "Google ha fatto una cosa grossa.",
+    "Un tool da terminale per Android.",
+    "Niente Android Studio, solo riga di comando.",
+    "Ma devi sapere usare il terminale.",
+    "Se non lo provi ora, resti indietro."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Se non sai già usare bene la riga di comando, questo nuovo tool Android non fa per te. Almeno per ora. Ma è esattamente il motivo per cui dovresti iniziare a imparare.",
+        "Google ha rilasciato Android CLI. Permette di compilare, testare e deployare app Android senza aprire Android Studio. Solo terminale e un editor di testo.",
+        "Il punto non è che l'IDE sia morto. È che per certi workflow – CI/CD, scripting, ambienti leggeri – non avere una CLI è un collo di bottiglia.",
+        "Chi oggi dipende dall'IDE per ogni minima modifica, tra un anno avrà un vantaggio competitivo in meno. I recruiter lo sanno già.",
+        "Apri il terminale, installa Android CLI e compila la tua prima app in 10 minuti. È gratis. Se non lo fai ora, lo farà qualcun altro."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google ha fatto una cosa grossa.",
+        "Un tool da terminale per Android.",
+        "Niente Android Studio, solo riga di comando.",
+        "Ma devi sapere usare il terminale.",
+        "Se non lo provi ora, resti indietro."
+      ]
+    },
+    "instagram": {
+      "caption": "Google ha rilasciato un tool ufficiale per sviluppare app Android direttamente dal terminale, senza aprire Android Studio. Si chiama Android CLI e permette di compilare, testare e distribuire app usando solo riga di comando e un editor di testo. Per ora serve sapere già usare il terminale, ma è il segnale che i flussi di lavoro stanno cambiando: chi dipende dall'IDE per ogni modifica rischia di perdere velocità rispetto a chi automatizza con script e CI. Con 10 minuti di installazione puoi testare oggi stesso un workflow senza interfaccia grafica. Hai già aperto il terminale o aspetti che qualcun altro lo faccia al posto tuo? 🖥️⌨️📱⚙️"
+    }
+  },
+  "instagram_caption": "Google ha rilasciato un tool ufficiale per sviluppare app Android direttamente dal terminale, senza aprire Android Studio. Si chiama Android CLI e permette di compilare, testare e distribuire app usando solo riga di comando e un editor di testo. Per ora serve sapere già usare il terminale, ma è il segnale che i flussi di lavoro stanno cambiando: chi dipende dall'IDE per ogni modifica rischia di perdere velocità rispetto a chi automatizza con script e CI. Con 10 minuti di installazione puoi testare oggi stesso un workflow senza interfaccia grafica. Hai già aperto il terminale o aspetti che qualcun altro lo faccia al posto tuo? 🖥️⌨️📱⚙️",
+  "carousel_slides": [
+    {
+      "hook": "CLI senza IDE? Rischio o futuro",
+      "description": "Google lancia Android CLI per sviluppare app. Chi ignora la riga di comando rischia di restare indietro.",
+      "visual_hint": "Terminale con codice Android",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room terminal"
+    },
+    {
+      "hook": "Scrivi app Android da terminale",
+      "description": "Compila, testa e deploya senza Android Studio. Solo terminale e un editor di testo.",
+      "visual_hint": "Schermo con riga di comando",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer command line",
+      "image": "https://images.pexels.com/photos/3861976/pexels-photo-3861976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Serve già sapere la riga di comando",
+      "description": "Android CLI non fa per principianti. È il motivo per cui dovresti iniziare a imparare ora.",
+      "visual_hint": "Lente d'ingrandimento su comandi",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "keyboard close up",
+      "image": "https://images.pexels.com/photos/37005816/pexels-photo-37005816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non provarlo ora, perderai vantaggio",
+      "description": "Chi dipende dall'IDE per ogni modifica tra un anno avrà meno competitività. I recruiter lo sanno già.",
+      "visual_hint": "Persona che scrive codice al buio",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office worker typing",
+      "image": "https://images.pexels.com/photos/12903153/pexels-photo-12903153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova subito Android CLI gratis",
+      "description": "Installa Android CLI e compila la tua prima app in 10 minuti. Gratis. Se non lo fai, lo fa qualcun altro.",
+      "visual_hint": "Bottone 'Get started' su terminale",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "solar panels power",
+      "image": "https://images.pexels.com/photos/27637329/pexels-photo-27637329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-05-19T20:35:34.327Z",
+  "sourceId": "d2b4dde906051640a9d95cb5faa50bd7"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-genie-world-model-can-now-simulate-real-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s Genie world model can now simulate real streets with Street View",
+  "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+  "pubDate": "Tue, 19 May 2026 17:51:39 +0000",
+  "slides": [
+    "Google’s Genie simulates streets, but what’s the catch?",
+    "It learned from millions of Street View images.",
+    "You can walk through streets that don’t exist.",
+    "Your navigation app may never need a map again.",
+    "Try it: imagine a route, then run it live."
+  ],
+  "thread_text": [
+    "Puoi camminare dentro strade che non esistono. Google ha appena addestrato un AI su milioni di immagini di Street View — e il risultato è un mondo generato al volo, senza mappa.",
+    "L'AI si chiama Genie e impara a simulare come appare un luogo da ogni angolazione, solo a partire da foto fisse. Nessun GPS, nessuna geometria precalcolata.",
+    "La svolta? Il modello non ha visto quelle strade nei dati di addestramento. Genia ha imparato a 'immaginare' percorsi plausibili, comprese curve, incroci e facciate di palazzi.",
+    "Cosa significa per te: la tua app di navigazione potrebbe presto funzionare senza mappa. Se vuoi un percorso, basta descriverlo a voce — e Genie lo genera al volo.",
+    "Prova oggi: immagina una via di casa tua che non sai disegnare, descrivila in poche parole… e guarda l’AI ricrearla in tempo reale. Il test è gratuito, su Web."
+  ],
+  "video_script": [
+    "Immagina di camminare in una strada che non esiste.",
+    "Google l'ha appena reso possibile.",
+    "Genie impara da Street View.",
+    "Non serve più una mappa fisica.",
+    "Provalo oggi stesso."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Puoi camminare dentro strade che non esistono. Google ha appena addestrato un AI su milioni di immagini di Street View — e il risultato è un mondo generato al volo, senza mappa.",
+        "L'AI si chiama Genie e impara a simulare come appare un luogo da ogni angolazione, solo a partire da foto fisse. Nessun GPS, nessuna geometria precalcolata.",
+        "La svolta? Il modello non ha visto quelle strade nei dati di addestramento. Genia ha imparato a 'immaginare' percorsi plausibili, comprese curve, incroci e facciate di palazzi.",
+        "Cosa significa per te: la tua app di navigazione potrebbe presto funzionare senza mappa. Se vuoi un percorso, basta descriverlo a voce — e Genie lo genera al volo.",
+        "Prova oggi: immagina una via di casa tua che non sai disegnare, descrivila in poche parole… e guarda l’AI ricrearla in tempo reale. Il test è gratuito, su Web."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Immagina di camminare in una strada che non esiste.",
+        "Google l'ha appena reso possibile.",
+        "Genie impara da Street View.",
+        "Non serve più una mappa fisica.",
+        "Provalo oggi stesso."
+      ]
+    },
+    "instagram": {
+      "caption": "Google ha preso milioni di foto da Street View e ha insegnato a un modello, chiamato Genie, a camminare dentro strade che non esistono 🚶‍♂️. Non usa mappe né GPS: guarda le immagini fisse e ricostruisce al volo curve, incroci e palazzi da ogni angolazione. Per te significa che la tua app di navigazione potrebbe presto funzionare senza una mappa precaricata 🗺️, basta descrivere il percorso a voce. Hai mai provato a far generare una via di casa tua senza disegnarla?"
+    }
+  },
+  "instagram_caption": "Google ha preso milioni di foto da Street View e ha insegnato a un modello, chiamato Genie, a camminare dentro strade che non esistono 🚶‍♂️. Non usa mappe né GPS: guarda le immagini fisse e ricostruisce al volo curve, incroci e palazzi da ogni angolazione. Per te significa che la tua app di navigazione potrebbe presto funzionare senza una mappa precaricata 🗺️, basta descrivere il percorso a voce. Hai mai provato a far generare una via di casa tua senza disegnarla?",
+  "carousel_slides": [
+    {
+      "hook": "Cammini in strade inesistenti",
+      "description": "Google ha addestrato un AI su milioni di immagini Street View per generare mondi al volo, senza mappa.",
+      "visual_hint": "strada che si dissolve in pixel",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "street view camera car"
+    },
+    {
+      "hook": "Impara da foto fisse",
+      "description": "Genie simula luoghi da ogni angolazione usando solo foto statiche, senza GPS o geometria precalcolata.",
+      "visual_hint": "foto fissa che diventa 3D",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "Google Street View 360",
+      "image": "https://images.pexels.com/photos/35525743/pexels-photo-35525743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Immagina percorsi mai visti",
+      "description": "Il modello non ha visto quelle strade nei dati: crea curve, incroci e facciate plausibili da zero.",
+      "visual_hint": "incrocio generato da AI",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "AI generated city street",
+      "image": "https://images.pexels.com/photos/30802822/pexels-photo-30802822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Navigazione senza mappa",
+      "description": "La tua app di navigazione potrebbe funzionare senza mappa: descrivi un percorso a voce e Genie lo genera.",
+      "visual_hint": "mano che tocca mappa vuota",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone navigation screen",
+      "image": "https://images.pexels.com/photos/6169859/pexels-photo-6169859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova a descrivere una via",
+      "description": "Immagina una strada di casa, descrivila in poche parole e guarda l'AI ricrearla in tempo reale. Gratis sul Web.",
+      "visual_hint": "schermo con via generata",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "person typing on laptop",
+      "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Genie-Street-View-NYC.png?resize=1200,662",
+  "savedAt": "2026-05-19T20:35:08.268Z",
+  "sourceId": "70e8d0fce37f17cf1a746465a50fa639"
+}

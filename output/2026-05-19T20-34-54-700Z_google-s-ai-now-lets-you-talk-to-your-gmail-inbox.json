@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-ai-now-lets-you-talk-to-your-gmail-inbox",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s AI now lets you talk to your Gmail inbox",
+  "link": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/",
+  "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
+  "slides": [
+    "Parli con la tua posta, ma Google ascolta cosa?",
+    "L'AI analizza ogni email in Gmail in tempo reale.",
+    "I tuoi messaggi non parlano—loro sì.",
+    "Filtrare risposte urgenti ora è questione di voce.",
+    "Prova oggi: chiedi 'cos'ho perso?' alla casella."
+  ],
+  "thread_text": [
+    "I tuoi messaggi non parlano. Loro sì. L'AI che legge ogni tua email in tempo reale sta già rispondendo per te.",
+    "Ogni email che arriva in Gmail viene analizzata istantaneamente. Parole chiave, tono, urgenza. Non è un filtro, è un’intelligenza che ti anticipa.",
+    "Fino a ieri dovevi aprire tutto. Oggi rispondi con la voce. Le risposte urgenti prendono il volo, le newsletter aspettano. L’AI decide per te.",
+    "Non serve più toccare niente. Parli con la posta, e lei ti capisce. Il punto è: Google ascolta sempre? Questa volta lo vuoi tu.",
+    "Chiedi alla tua casella: 'cos'ho perso?'. Lei risponde. Costa meno di un abbonamento a Spotify. Prova oggi."
+  ],
+  "video_script": [
+    "I tuoi messaggi non parlano. Loro sì.",
+    "L'AI legge ogni email in tempo reale.",
+    "Filtra le urgenze mentre tu parli.",
+    "Niente più clic. Solo voce.",
+    "Chiedi 'cos'ho perso?' e lei risponde."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "I tuoi messaggi non parlano. Loro sì. L'AI che legge ogni tua email in tempo reale sta già rispondendo per te.",
+        "Ogni email che arriva in Gmail viene analizzata istantaneamente. Parole chiave, tono, urgenza. Non è un filtro, è un’intelligenza che ti anticipa.",
+        "Fino a ieri dovevi aprire tutto. Oggi rispondi con la voce. Le risposte urgenti prendono il volo, le newsletter aspettano. L’AI decide per te.",
+        "Non serve più toccare niente. Parli con la posta, e lei ti capisce. Il punto è: Google ascolta sempre? Questa volta lo vuoi tu.",
+        "Chiedi alla tua casella: 'cos'ho perso?'. Lei risponde. Costa meno di un abbonamento a Spotify. Prova oggi."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "I tuoi messaggi non parlano. Loro sì.",
+        "L'AI legge ogni email in tempo reale.",
+        "Filtra le urgenze mentre tu parli.",
+        "Niente più clic. Solo voce.",
+        "Chiedi 'cos'ho perso?' e lei risponde."
+      ]
+    },
+    "instagram": {
+      "caption": "Chiedi a Gmail \"cosa ho perso?\" e la casella ti risponde a voce. 🎤 Google ha attivato un'AI che analizza ogni email in tempo reale: parole chiave, tono, urgenza. Non un semplice filtro, ma un'intelligenza che decide per te cosa è prioritario. 📬 Fino a ieri dovevi aprire tutto; oggi rispondi parlando e le newsletter aspettano. Per chi gestisce centinaia di messaggi al giorno, risparmiare clic significa ore recuperate. ⏳ Ora la domanda è: vuoi che qualcuno ascolti la tua posta al posto tuo? 👂"
+    }
+  },
+  "instagram_caption": "Chiedi a Gmail \"cosa ho perso?\" e la casella ti risponde a voce. 🎤 Google ha attivato un'AI che analizza ogni email in tempo reale: parole chiave, tono, urgenza. Non un semplice filtro, ma un'intelligenza che decide per te cosa è prioritario. 📬 Fino a ieri dovevi aprire tutto; oggi rispondi parlando e le newsletter aspettano. Per chi gestisce centinaia di messaggi al giorno, risparmiare clic significa ore recuperate. ⏳ Ora la domanda è: vuoi che qualcuno ascolti la tua posta al posto tuo? 👂",
+  "carousel_slides": [
+    {
+      "hook": "Parli con la posta, ma chi ascolta?",
+      "description": "I tuoi messaggi non parlano. Loro sì. L'AI legge ogni email in tempo reale e risponde.",
+      "visual_hint": "Orecchio su smartphone",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "smartphone microphone ear"
+    },
+    {
+      "hook": "Legge ogni email in tempo reale",
+      "description": "Ogni email analizzata istantaneamente: parole chiave, tono, urgenza. Un'intelligenza che ti anticipa.",
+      "visual_hint": "Email che si illumina",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "gmail inbox screen",
+      "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rispondi con la voce, non con le dita",
+      "description": "Fino a ieri dovevi aprire tutto. Oggi le risposte urgenti volano, le newsletter aspettano. L'AI decide.",
+      "visual_hint": "Labbra che parlano",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "person talking phone",
+      "image": "https://images.pexels.com/photos/3277804/pexels-photo-3277804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Google ascolta? Questa volta lo vuoi tu",
+      "description": "Non serve toccare niente. Parli con la posta e lei ti capisce. Il controllo è nelle tue mani.",
+      "visual_hint": "Mano che tocca schermo",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "hand touching phone screen",
+      "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chiedi 'cosa ho perso?' alla casella",
+      "description": "La tua Gmail risponde. Costa meno di un abbonamento a Spotify. Prova oggi la voce che anticipa.",
+      "visual_hint": "Cuffie e citofono",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "headphones and smartphone",
+      "image": "https://images.pexels.com/photos/10963855/pexels-photo-10963855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
+  "savedAt": "2026-05-19T20:35:21.153Z",
+  "sourceId": "6a3556082c31b50f5969b96194e224d7"
+}
