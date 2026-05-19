@@ -1,6 +1,174 @@
 window.FOOD_ARTICLES = [
   {
     "agent": "food",
+    "slug": "pasta-alla-strombolana",
+    "sourceId": "12b834be7f56b3c2fbff65f6accc5238",
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "tonno",
+      "capperi",
+      "olive"
+    ],
+    "title": "Pasta alla strombolana",
+    "slides": [
+      "Pasta saporita con tonno, capperi e olive.",
+      "Spaghetti, tonno, capperi, olive, acciughe.",
+      "Soffriggi aglio, peperoncino e acciughe.",
+      "Cuoci il sugo 20 minuti, poi unisci la pasta.",
+      "Salare poco: olive e capperi già sapidi."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta alla strombolana",
+        "description": "Un primo saporito e veloce con tonno, capperi e olive: il sapore del Sud in tavola.",
+        "visual_hint": "piatto completo fumante",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory pasta tuna caper olives"
+      },
+      {
+        "hook": "Gli ingredienti giusti",
+        "description": "Spaghetti, tonno, capperi, olive e acciughe: pochi elementi per un gusto autentico.",
+        "visual_hint": "ingredienti disposti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta ingredients tuna capers",
+        "image": "https://images.pexels.com/photos/8264654/pexels-photo-8264654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il gesto che fa la differenza",
+        "description": "Soffriggi aglio, peperoncino e acciughe: il profumo si sprigiona subito.",
+        "visual_hint": "soffritto in padella in primo piano",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "garlic anchovies sizzle pan",
+        "image": "https://images.pexels.com/photos/5338134/pexels-photo-5338134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cottura e amalgama",
+        "description": "Cuoci il sugo 20 minuti, poi unisci la pasta ben scolata.",
+        "visual_hint": "pasta che si mescola nel sugo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory pasta mixing in pan",
+        "image": "https://images.pexels.com/photos/30350309/pexels-photo-30350309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il trucco finale",
+        "description": "Salare poco: olive e capperi sono già sapidi. Impiatta e servi subito.",
+        "visual_hint": "piatto impiattato con prezzemolo",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory pasta bowl parsley",
+        "image": "https://images.pexels.com/photos/26207767/pexels-photo-26207767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "Pasta alla Strombolana: il sapore deciso del Sud in un piatto che sa di mare e di sole. 🍝🌊\n\nUn sughetto veloce dove aglio, peperoncino e acciughe si fondono, poi tonno, capperi e olive danno il carattere. Pochi minuti di soffritto, venti di cottura, e via: gli spaghetti assorbono tutto il gusto. Attento al sale, perché olive e capperi sono già sapidi. \n\nUn comfort food che profuma d'estate. Provala questo weekend 🌿🇮🇹",
+    "video_script": [
+      "Pasta con tonno, capperi e olive.",
+      "Prendo spaghetti, tonno, capperi, olive, acciughe.",
+      "Soffriggo aglio, peperoncino e acciughe.",
+      "Cuocio il sugo 20 minuti, aggiungo la pasta.",
+      "Poco sale: olive e capperi già sapidi."
+    ],
+    "thread_text": [
+      "Il piatto che ti salva la cena e ti fa sentire in vacanza: Pasta alla strombolana. Sapori decisi del Sud, pochi ingredienti, zero sbattimento. Se non l'hai mai fatta, oggi cambi tutto.",
+      "Spaghetti, tonno, capperi, olive e un segreto: le acciughe. Soffriggi aglio, peperoncino e acciughe in olio evo: l'umami esplode. Poi tonno, capperi e olive nere. Appena 20 minuti di fuoco lento.",
+      "Mentre il sugo si addensa, cuoci gli spaghetti al dente. Saltali direttamente in padella con un mestolo di acqua di cottura. La cremosità si lega ai sapori. Il profumo invade la cucina.",
+      "Attenzione al sale: olive e capperi sono già sapidi. Assaggia prima di aggiungere. Se vuoi, una spolverata di prezzemolo fresco e sei pronto. Un piatto che sa di mare e di terra.",
+      "Il trucco finale: un filo d'olio a crudo e una grattugiata di scorza di limone (se hai). Freschezza che spiazza. Provala stasera e fammi sapere com'è andata 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Pasta-alla-strombolana.html",
+    "pubDate": "Mon, 18 May 2026 15:09:00 +0200",
+    "savedAt": "2026-05-18T17:58:01.943Z",
+    "image": "https://www.giallozafferano.it/images/361-36187/Pasta-alla-strombolana_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
+    "slug": "torta-delle-monache",
+    "sourceId": "0283f2e9428adf9e2c9e0e0ca0923b64",
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "ricotta",
+      "mandorle",
+      "uova"
+    ],
+    "title": "Torta delle monache",
+    "slides": [
+      "Torta cremosa con ricotta e mandorle.",
+      "Ricotta, uova, zucchero, farina di mandorle.",
+      "Monta uova e zucchero fino a spuma.",
+      "Cuoci in forno statico a 170° per 60 minuti.",
+      "Spolvera con zucchero a velo prima di servire."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta delle monache: morbida e cremosa",
+        "description": "Un dolce tradizionale che unisce la dolcezza della ricotta alla croccantezza delle mandorle.",
+        "visual_hint": "torta intera su piatto",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "ricotta almond cake"
+      },
+      {
+        "hook": "Solo 4 ingredienti perfetti",
+        "description": "Ricotta fresca, uova, zucchero e farina di mandorle: semplicità che sorprende.",
+        "visual_hint": "ingredienti su tavola",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "ricotta eggs almonds",
+        "image": "https://images.pexels.com/photos/34269347/pexels-photo-34269347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Monta uova e zucchero a spuma",
+        "description": "Sbatti fino a ottenere un composto chiaro e spumoso: il segreto della sofficità.",
+        "visual_hint": "frusta in ciotola",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "whisking eggs sugar",
+        "image": "https://images.pexels.com/photos/7966397/pexels-photo-7966397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "60 minuti in forno a 170°",
+        "description": "Cuoci in forno statico fino a doratura: la magia avviene lentamente.",
+        "visual_hint": "torta in forno",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "baking cake oven",
+        "image": "https://images.pexels.com/photos/37334968/pexels-photo-37334968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spolvera e servi tiepida",
+        "description": "Un velo di zucchero a velo prima di portarla in tavola: semplicemente divina.",
+        "visual_hint": "mano che spolvera",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "sliced almond cake",
+        "image": "https://images.pexels.com/photos/17865688/pexels-photo-17865688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "C’è un dolce che sa di convento e di tradizione, ed è questa meraviglia. 🍰✨ La Torta delle Monache è un abbraccio cremoso di ricotta e mandorle, con uova montate a neve che la rendono soffice come una nuvola. Una spolverata di zucchero a velo e il gioco è fatto: dentro è umida, fuori leggermente dorata, perfetta per il tè delle cinque. Provala questo weekend e portala in tavola con un sorriso 😋🌿",
+    "video_script": [
+      "Ecco la mia torta delle monache cremosa.",
+      "Ricotta fresca, mandorle e uova, pronti.",
+      "Monto uova e zucchero fino a spuma.",
+      "Verso tutto e cuocio a 170° per un'ora.",
+      "Spolvero zucchero a velo, serviamo subito."
+    ],
+    "thread_text": [
+      "C’è una torta che sa di convento e di paradiso. La Torta delle Monache: cremosa, profumata, con ricotta e mandorle. Il nome promette bene. La ricetta? Ve la svelo qui sotto 🧵👇",
+      "3 ingredienti firma: ricotta (fresca, asciutta), mandorle (farina e lamelle), uova. Poi zucchero, niente burro. Si montano uova e zucchero a spuma chiara – gesto chiave per la sofficità.",
+      "Aggiungi la ricotta setacciata, poi la farina di mandorle. Impasto denso, profumatissimo. Versa in una teglia imburrata e infarinata. La crosta diventa dorata, l’interno resta umido.",
+      "Forno statico a 170°, 60 minuti esatti. Non aprite prima: la torta si sgonfia. Sfornate, fate intiepidire. Poi il tocco finale: una pioggia di zucchero a velo. Sembra neve su un dolce da convento.",
+      "Trucco: se la volete ancora più intensa, aggiungete un cucchiaio di liquore all’impasto (mandorla o limoncello). Provatela, fatemi sapere come viene. Io aspetto le vostre foto qui sotto 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Torta-delle-monache.html",
+    "pubDate": "Mon, 18 May 2026 15:28:00 +0200",
+    "savedAt": "2026-05-18T17:57:43.067Z",
+    "image": "https://www.giallozafferano.it/images/361-36188/Torta-delle-monache_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
     "slug": "pasta-con-crema-di-melanzane-e-ricotta-salata",
     "sourceId": "650cbd83e11112951e7e87c9e6c9707d",
     "dish_type": "pasta",

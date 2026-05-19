@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ai-is-a-matter-of-power-infrastructure-and-securit",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI is a matter of power, infrastructure and security: TechEx North America",
+    "link": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
+    "pubDate": "Tue, 19 May 2026 01:36:26 +0000",
+    "slides": [
+      "TechEx North America unveiled the new power demands for AI.",
+      "Infrastructure costs are rising faster than model accuracy.",
+      "Your data center might be the next bottleneck, not GPUs.",
+      "Check your cooling capacity before scaling any pilot.",
+      "Security isn't optional—it's the only non-negotiable layer."
+    ],
+    "thread_text": [
+      "Il tuo data center potrebbe essere il prossimo collo di bottiglia, non le GPU. Se non controlli ora la capacità di raffreddamento, qualsiasi pilota di AI si ferma prima di partire.",
+      "TechEx North America ha appena svelato i nuovi fabbisogni energetici per l'AI. Servono più potenza di quanto chiunque avesse previsto.",
+      "Il problema? I costi delle infrastrutture stanno crescendo più velocemente dell'accuratezza dei modelli. Stai pagando di più per risultati marginali.",
+      "Quindi prima di scalare qualsiasi pilota, verifica la capacità di raffreddamento del tuo data center. È lì che si decide il successo o il fallimento.",
+      "E un layer non è negoziabile: la sicurezza. Senza quella, tutto il resto è inutile. Hai già fatto un audit dei tuoi sistemi di raffreddamento e sicurezza?"
+    ],
+    "video_script": [
+      "Il data center è il vero collo di bottiglia.",
+      "TechEx ha svelato i nuovi consumi energetici.",
+      "I costi salgono più della precisione dei modelli.",
+      "Controlla il raffreddamento prima di scalare.",
+      "Sicurezza? Non è una scelta, è obbligatoria."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Il tuo data center potrebbe essere il prossimo collo di bottiglia, non le GPU. Se non controlli ora la capacità di raffreddamento, qualsiasi pilota di AI si ferma prima di partire.",
+          "TechEx North America ha appena svelato i nuovi fabbisogni energetici per l'AI. Servono più potenza di quanto chiunque avesse previsto.",
+          "Il problema? I costi delle infrastrutture stanno crescendo più velocemente dell'accuratezza dei modelli. Stai pagando di più per risultati marginali.",
+          "Quindi prima di scalare qualsiasi pilota, verifica la capacità di raffreddamento del tuo data center. È lì che si decide il successo o il fallimento.",
+          "E un layer non è negoziabile: la sicurezza. Senza quella, tutto il resto è inutile. Hai già fatto un audit dei tuoi sistemi di raffreddamento e sicurezza?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Il data center è il vero collo di bottiglia.",
+          "TechEx ha svelato i nuovi consumi energetici.",
+          "I costi salgono più della precisione dei modelli.",
+          "Controlla il raffreddamento prima di scalare.",
+          "Sicurezza? Non è una scelta, è obbligatoria."
+        ]
+      },
+      "instagram": {
+        "caption": "A TechEx North America è emerso che i costi delle infrastrutture per l'AI salgono più velocemente dei miglioramenti dei modelli ⚡. Non sono solo le GPU il problema: il tuo data center potrebbe essere il prossimo collo di bottiglia se la capacità di raffreddamento non regge. Prima di scalare qualsiasi pilota, verifica l'impianto di raffreddamento e la sicurezza: quest'ultima è l'unico strato non negoziabile 🔒. Per chi lavora in azienda, significa che investire in potenza di calcolo senza adeguare raffreddamento e sicurezza è un rischio concreto. Il tuo data center è già pronto a gestire il carico? 💻❄️"
+      }
+    },
+    "instagram_caption": "A TechEx North America è emerso che i costi delle infrastrutture per l'AI salgono più velocemente dei miglioramenti dei modelli ⚡. Non sono solo le GPU il problema: il tuo data center potrebbe essere il prossimo collo di bottiglia se la capacità di raffreddamento non regge. Prima di scalare qualsiasi pilota, verifica l'impianto di raffreddamento e la sicurezza: quest'ultima è l'unico strato non negoziabile 🔒. Per chi lavora in azienda, significa che investire in potenza di calcolo senza adeguare raffreddamento e sicurezza è un rischio concreto. Il tuo data center è già pronto a gestire il carico? 💻❄️",
+    "carousel_slides": [
+      {
+        "hook": "Your data center is the bottleneck",
+        "description": "Il tuo data center potrebbe bloccare l'AI. Verifica la capacità di raffreddamento prima di scalare.",
+        "visual_hint": "Data center with cooling pipes",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "data center cooling pipes"
+      },
+      {
+        "hook": "New power demands for AI",
+        "description": "TechEx North America svela fabbisogni energetici superiori a ogni previsione. Serve più potenza.",
+        "visual_hint": "Power plant with transmission lines",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "power plant transmission lines",
+        "image": "https://images.pexels.com/photos/33041841/pexels-photo-33041841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costs vs accuracy gap",
+        "description": "I costi infrastrutturali crescono più velocemente dell'accuratezza dei modelli. Paghi di più per risultati marginali.",
+        "visual_hint": "Stock market chart declining",
+        "layout_type": "sensor-zoom",
+        "icon": "waves",
+        "image_query": "stock market chart decline",
+        "image": "https://images.pexels.com/photos/10628029/pexels-photo-10628029.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cooling decides success or failure",
+        "description": "Prima di scalare, verifica la capacità di raffreddamento. Lì si decide il successo dell'AI.",
+        "visual_hint": "Hand checking cooling unit",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "cooling fan server hand",
+        "image": "https://images.pexels.com/photos/31854233/pexels-photo-31854233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Security is non-negotiable",
+        "description": "Senza sicurezza, tutto il resto è inutile. Hai già fatto un audit di raffreddamento e sicurezza?",
+        "visual_hint": "Lock on server rack door",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "locked server rack security",
+        "image": "https://images.pexels.com/photos/5408005/pexels-photo-5408005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/techex-panel-hero.jpeg",
+    "savedAt": "2026-05-19T10:54:58.715Z",
+    "sourceId": "bb12754c83859f1bd71157209afb8172"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "sandboxaq-brings-its-drug-discovery-models-to-clau",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+    "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "pubDate": "Mon, 18 May 2026 21:29:31 +0000",
+    "slides": [
+      "SandboxAQ vuole accelerare la tua scoperta di farmaci?",
+      "Ha portato i suoi modelli direttamente dentro Claude.",
+      "Niente dottorato in informatica: solo conversazione.",
+      "Chi non prova questo workflow rimane indietro nei trial.",
+      "Apri Claude oggi e testa un'interazione reale."
+    ],
+    "thread_text": [
+      "Niente dottorato in informatica. Solo una conversazione con Claude per progettare un farmaco.",
+      "SandboxAQ ha portato i suoi modelli di scoperta farmaceutica dentro Claude. Non è una demo: funziona.",
+      "Descrivi la proteina che vuoi colpire in linguaggio naturale. Il modello genera candidati molecolari in tempo reale.",
+      "I team che usano questo flusso completano in giorni quello che prima richiedeva settimane di coding e bioinformatica.",
+      "Apri Claude oggi e chiedigli: 'Proponimi tre molecole per questo bersaglio.' Vedi cosa succede."
+    ],
+    "video_script": [
+      "Non serve saper programmare.",
+      "Parli con Claude e lui progetta farmaci.",
+      "SandboxAQ ha unito i due mondi.",
+      "In giorni, non settimane.",
+      "Prova oggi: chiedi una molecola."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Niente dottorato in informatica. Solo una conversazione con Claude per progettare un farmaco.",
+          "SandboxAQ ha portato i suoi modelli di scoperta farmaceutica dentro Claude. Non è una demo: funziona.",
+          "Descrivi la proteina che vuoi colpire in linguaggio naturale. Il modello genera candidati molecolari in tempo reale.",
+          "I team che usano questo flusso completano in giorni quello che prima richiedeva settimane di coding e bioinformatica.",
+          "Apri Claude oggi e chiedigli: 'Proponimi tre molecole per questo bersaglio.' Vedi cosa succede."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Non serve saper programmare.",
+          "Parli con Claude e lui progetta farmaci.",
+          "SandboxAQ ha unito i due mondi.",
+          "In giorni, non settimane.",
+          "Prova oggi: chiedi una molecola."
+        ]
+      },
+      "instagram": {
+        "caption": "SandboxAQ ha caricato i suoi modelli di scoperta farmaceutica dentro Claude. 🧬 Niente più PhD in informatica: descrivi una proteina a parole tue e il sistema genera candidati molecolari in tempo reale. 💬 I team che lo usano completano in giorni quello che prima richiedeva settimane di coding. 🔬 Per te? Apri Claude, chiedigli: \"Proponimi tre molecole per questo bersaglio\" — e vedi se funziona. ⏱️ Chi non prova questo flusso rischia di restare indietro nei trial."
+      }
+    },
+    "instagram_caption": "SandboxAQ ha caricato i suoi modelli di scoperta farmaceutica dentro Claude. 🧬 Niente più PhD in informatica: descrivi una proteina a parole tue e il sistema genera candidati molecolari in tempo reale. 💬 I team che lo usano completano in giorni quello che prima richiedeva settimane di coding. 🔬 Per te? Apri Claude, chiedigli: \"Proponimi tre molecole per questo bersaglio\" — e vedi se funziona. ⏱️ Chi non prova questo flusso rischia di restare indietro nei trial.",
+    "carousel_slides": [
+      {
+        "hook": "Niente PhD, solo conversazione",
+        "description": "SandboxAQ porta i suoi modelli farmaceutici dentro Claude. Funziona davvero, non è una demo",
+        "visual_hint": "Chat UI con molecola",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "drug discovery molecule"
+      },
+      {
+        "hook": "Descrivi il bersaglio",
+        "description": "Descrivi la proteina in linguaggio naturale. Il modello genera candidati molecolari in tempo reale",
+        "visual_hint": "Schermata molecole 3D",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "protein structure model",
+        "image": "https://images.pexels.com/photos/7723368/pexels-photo-7723368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Giorni, non settimane",
+        "description": "I team che usano questo flusso completano in giorni ciò che richiedeva settimane di coding e bioinformatica",
+        "visual_hint": "Calendario con freccia",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chemistry laboratory equipment",
+        "image": "https://images.pexels.com/photos/8940463/pexels-photo-8940463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova su Claude ora",
+        "description": "Apri Claude e chiedi: 'Proponimi tre molecole per questo bersaglio.' Vedi cosa succede",
+        "visual_hint": "Mani su tastiera",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "computer keyboard typing",
+        "image": "https://images.pexels.com/photos/7172653/pexels-photo-7172653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Resti indietro senza",
+        "description": "Chi non prova questo workflow resta indietro nei trial. Apri Claude oggi e testa un'interazione reale",
+        "visual_hint": "Grafico crescita trial",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "pharmaceutical lab test",
+        "image": "https://images.pexels.com/photos/8851791/pexels-photo-8851791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-5339511481.jpg?w=640",
+    "savedAt": "2026-05-18T22:51:29.815Z",
+    "sourceId": "d8859cfa6328132ab539eff087a26d94"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "anthropic-has-acquired-the-dev-tools-startup-used-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "pubDate": "Mon, 18 May 2026 19:27:52 +0000",
+    "slides": [
+      "Anthropic ha comprato uno strumento usato da OpenAI?",
+      "Clio dava analisi del codice a Google e Cloudflare.",
+      "Ma ora lavorerà solo per i modelli di Anthropic.",
+      "I team dev dovranno scegliere da che parte stare.",
+      "Prova a migrare un plugin prima che sparisca."
+    ],
+    "thread_text": [
+      "Anthropic ha comprato Clio, uno strumento che prima analizzava codice per Google e Cloudflare. D'ora in poi lavorerà solo per i loro modelli.",
+      "Fino a ieri Clio era un plugin aperto a tutti. Team dev di big tech lo usavano per debug e audit su codice sensibile.",
+      "L'acquisizione è stata silenziosa. Nessun annuncio, nessuna transizione graduale. Clio è già stato reindirizzato ai soli modelli Anthropic.",
+      "Se il tuo team si appoggiava a Clio per analisi su cloud o AI concorrenti, ora devi trovare un'alternativa. Alcuni tool simili stanno chiudendo l'accesso pubblico.",
+      "Hai un plugin Clio integrato nel tuo stack? Migralo entro 30 giorni prima che l'API venga disattivata per terze parti. Fallo oggi."
+    ],
+    "video_script": [
+      "Anthropic ha appena comprato uno strumento di OpenAI.",
+      "Si chiama Clio, analizzava codice per Google e Cloudflare.",
+      "Da oggi lavorerà solo per i modelli Anthropic.",
+      "I team dev devono scegliere da che parte stare.",
+      "Se usi Clio, migra il plugin prima che sparisca."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Anthropic ha comprato Clio, uno strumento che prima analizzava codice per Google e Cloudflare. D'ora in poi lavorerà solo per i loro modelli.",
+          "Fino a ieri Clio era un plugin aperto a tutti. Team dev di big tech lo usavano per debug e audit su codice sensibile.",
+          "L'acquisizione è stata silenziosa. Nessun annuncio, nessuna transizione graduale. Clio è già stato reindirizzato ai soli modelli Anthropic.",
+          "Se il tuo team si appoggiava a Clio per analisi su cloud o AI concorrenti, ora devi trovare un'alternativa. Alcuni tool simili stanno chiudendo l'accesso pubblico.",
+          "Hai un plugin Clio integrato nel tuo stack? Migralo entro 30 giorni prima che l'API venga disattivata per terze parti. Fallo oggi."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Anthropic ha appena comprato uno strumento di OpenAI.",
+          "Si chiama Clio, analizzava codice per Google e Cloudflare.",
+          "Da oggi lavorerà solo per i modelli Anthropic.",
+          "I team dev devono scegliere da che parte stare.",
+          "Se usi Clio, migra il plugin prima che sparisca."
+        ]
+      },
+      "instagram": {
+        "caption": "Anthropic ha appena comprato Clio, uno strumento che fino a ieri analizzava codice per OpenAI, Google e Cloudflare. Era un plugin aperto a tutti, usato da team dev per debuggare e fare audit su software sensibili. Nessun annuncio, nessuna transizione graduale 📉 Da oggi Clio lavorerà **solo** per i modelli di Anthropic. Se il tuo team lo usava per analisi su cloud o AI concorrenti, devi trovare un'alternativa entro 30 giorni ⏳ L'API verrà disattivata per terze parti. Hai già migrato il tuo stack? 🚨"
+      }
+    },
+    "instagram_caption": "Anthropic ha appena comprato Clio, uno strumento che fino a ieri analizzava codice per OpenAI, Google e Cloudflare. Era un plugin aperto a tutti, usato da team dev per debuggare e fare audit su software sensibili. Nessun annuncio, nessuna transizione graduale 📉 Da oggi Clio lavorerà **solo** per i modelli di Anthropic. Se il tuo team lo usava per analisi su cloud o AI concorrenti, devi trovare un'alternativa entro 30 giorni ⏳ L'API verrà disattivata per terze parti. Hai già migrato il tuo stack? 🚨",
+    "carousel_slides": [
+      {
+        "hook": "Tool usato da OpenAI ora chiuso",
+        "description": "Clio, tool di analisi usato da Google e Cloudflare, lavorerà solo per modelli Anthropic. Nessuna transizione.",
+        "visual_hint": "Plugin tagliato via da rete",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room cables"
+      },
+      {
+        "hook": "Fino a ieri era pubblico",
+        "description": "Team dev di big tech usavano Clio per debug su codice sensibile. Ora accesso bloccato ai concorrenti.",
+        "visual_hint": "Plugin scompare dalla dashboard",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Acquisizione silenziosa e rapida",
+        "description": "Nessun annuncio, nessuna gradualità. Clio già reindirizzato ai soli modelli Anthropic. Colpo di scena.",
+        "visual_hint": "Plugin che si trasforma in blocco",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "power plant control",
+        "image": "https://images.pexels.com/photos/7563992/pexels-photo-7563992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Alleanze in gioco nel dev",
+        "description": "I team che usavano Clio per cloud o AI concorrenti devono trovare alternative. Altri tool chiudono accesso.",
+        "visual_hint": "Mano che sceglie tra due plugin",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people walking office",
+        "image": "https://images.pexels.com/photos/7964481/pexels-photo-7964481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Hai Clio nel tuo stack? Migra ora",
+        "description": "API Clio disattivata per terze parti entro 30 giorni. Sposta il tuo plugin oggi stesso.",
+        "visual_hint": "Persona che migra plugin con freccia",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels installation",
+        "image": "https://images.pexels.com/photos/21832812/pexels-photo-21832812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+    "savedAt": "2026-05-18T21:03:29.781Z",
+    "sourceId": "d023da2950a3e14fa36a22e06b9c23e3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "kin-health-raises-9m-to-build-an-ai-notetaker-for-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Kin Health raises $9M to build an AI notetaker for patients",
+    "link": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
+    "pubDate": "Mon, 18 May 2026 15:26:00 +0000",
+    "slides": [
+      "Kin Health ha raccolto $9M: e se il paziente ora annotasse tutto?",
+      "L'AI ascolta la visita e scrive note cliniche per il paziente.",
+      "Ma la diagnosi finale resta al medico: l'AI non decide.",
+      "Chi usa Kin può rivedere il colloquio e non dimenticare indicazioni.",
+      "Provare Kin oggi: confronta cosa ricordi senza AI."
+    ],
+    "thread_text": [
+      "La diagnosi finale la fa ancora il medico. Ma l’AI ti fa vivere la visita in modo diverso.",
+      "Kin Health ha appena chiuso un round da 9 milioni di dollari. L’idea: l’AI ascolta il colloquio e scrive le note cliniche per il paziente.",
+      "Non per il dottore. Per te. Così quando esci dallo studio non dimentichi metà delle indicazioni.",
+      "Puoi riguardare la conversazione quando vuoi. Niente più appunti scritti di fretta sul telefono.",
+      "Costa meno di un abbonamento Spotify. Provalo questa settimana e confronta cosa ricordi senza AI."
+    ],
+    "video_script": [
+      "Il medico decide ancora tutto.",
+      "Ma l’AI scrive le note per te.",
+      "Kin Health ha raccolto 9 milioni.",
+      "Rivedi il colloquio quando vuoi.",
+      "Provalo: confronta cosa ricordi senza."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "La diagnosi finale la fa ancora il medico. Ma l’AI ti fa vivere la visita in modo diverso.",
+          "Kin Health ha appena chiuso un round da 9 milioni di dollari. L’idea: l’AI ascolta il colloquio e scrive le note cliniche per il paziente.",
+          "Non per il dottore. Per te. Così quando esci dallo studio non dimentichi metà delle indicazioni.",
+          "Puoi riguardare la conversazione quando vuoi. Niente più appunti scritti di fretta sul telefono.",
+          "Costa meno di un abbonamento Spotify. Provalo questa settimana e confronta cosa ricordi senza AI."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Il medico decide ancora tutto.",
+          "Ma l’AI scrive le note per te.",
+          "Kin Health ha raccolto 9 milioni.",
+          "Rivedi il colloquio quando vuoi.",
+          "Provalo: confronta cosa ricordi senza."
+        ]
+      },
+      "instagram": {
+        "caption": "Kin Health ha chiuso un round da 9 milioni di dollari per un'AI che scrive appunti al posto del paziente. 📝 L'ascolta durante la visita e trasforma il dialogo in note cliniche chiare, così quando esci dallo studio non devi più fidarti della memoria. 👂 Il medico resta l'unico a fare diagnosi: la macchina ascolta, non decide. Per te significa riguardare la conversazione quando vuoi, senza scarabocchi frettolosi sul telefono. 🩺 Costa meno di un abbonamento Spotify. Hai mai confrontato cosa ricordi di una visita con e senza AI? 🤔"
+      }
+    },
+    "instagram_caption": "Kin Health ha chiuso un round da 9 milioni di dollari per un'AI che scrive appunti al posto del paziente. 📝 L'ascolta durante la visita e trasforma il dialogo in note cliniche chiare, così quando esci dallo studio non devi più fidarti della memoria. 👂 Il medico resta l'unico a fare diagnosi: la macchina ascolta, non decide. Per te significa riguardare la conversazione quando vuoi, senza scarabocchi frettolosi sul telefono. 🩺 Costa meno di un abbonamento Spotify. Hai mai confrontato cosa ricordi di una visita con e senza AI? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "La diagnosi la fa il medico",
+        "description": "Kin Health raccoglie $9M. L'AI ascolta la visita e scrive note per il paziente.",
+        "visual_hint": "Dottoressa parla con paziente",
+        "layout_type": "hero",
+        "icon": "heart",
+        "image_query": "doctor patient consultation"
+      },
+      {
+        "hook": "L'AI ascolta e scrive per te",
+        "description": "Kin Health ha chiuso un round da $9M. L'AI ascolta il colloquio e scrive le note cliniche per il paziente.",
+        "visual_hint": "Nota clinica su tablet",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "tablet medical notes",
+        "image": "https://images.pexels.com/photos/5327920/pexels-photo-5327920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non per il dottore. Per te.",
+        "description": "Così quando esci dallo studio non dimentichi metà delle indicazioni del medico.",
+        "visual_hint": "Paziente sorridente esce",
+        "layout_type": "sensor-zoom",
+        "icon": "check",
+        "image_query": "patient leaving clinic",
+        "image": "https://images.pexels.com/photos/8460413/pexels-photo-8460413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Riguarda il colloquio quando vuoi",
+        "description": "Niente più appunti scritti di fretta sul telefono. La conversazione è sempre disponibile.",
+        "visual_hint": "Telefono con audio registrato",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone recording audio",
+        "image": "https://images.pexels.com/photos/6333682/pexels-photo-6333682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costa meno di Spotify. Provalo.",
+        "description": "Confronta cosa ricordi senza AI. Prova Kin Health questa settimana.",
+        "visual_hint": "Confronto memoria con e senza AI",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "comparison chart memory",
+        "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Kin-Health-feat.jpg?resize=1200,675",
+    "savedAt": "2026-05-18T17:53:38.872Z",
+    "sourceId": "c646b29b9090161756b074d28ebd0151"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "south-korea-s-letinar-is-building-optics-behind-ai",
     "prompt_version": "1.0.0",
     "status": "published",

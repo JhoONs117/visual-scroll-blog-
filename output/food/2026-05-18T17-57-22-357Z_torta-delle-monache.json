@@ -1,0 +1,84 @@
+{
+  "agent": "food",
+  "slug": "torta-delle-monache",
+  "sourceId": "0283f2e9428adf9e2c9e0e0ca0923b64",
+  "dish_type": "dessert",
+  "signature_ingredients": [
+    "ricotta",
+    "mandorle",
+    "uova"
+  ],
+  "title": "Torta delle monache",
+  "slides": [
+    "Torta cremosa con ricotta e mandorle.",
+    "Ricotta, uova, zucchero, farina di mandorle.",
+    "Monta uova e zucchero fino a spuma.",
+    "Cuoci in forno statico a 170° per 60 minuti.",
+    "Spolvera con zucchero a velo prima di servire."
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Torta delle monache: morbida e cremosa",
+      "description": "Un dolce tradizionale che unisce la dolcezza della ricotta alla croccantezza delle mandorle.",
+      "visual_hint": "torta intera su piatto",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "ricotta almond cake"
+    },
+    {
+      "hook": "Solo 4 ingredienti perfetti",
+      "description": "Ricotta fresca, uova, zucchero e farina di mandorle: semplicità che sorprende.",
+      "visual_hint": "ingredienti su tavola",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "ricotta eggs almonds",
+      "image": "https://images.pexels.com/photos/34269347/pexels-photo-34269347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Monta uova e zucchero a spuma",
+      "description": "Sbatti fino a ottenere un composto chiaro e spumoso: il segreto della sofficità.",
+      "visual_hint": "frusta in ciotola",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "whisking eggs sugar",
+      "image": "https://images.pexels.com/photos/7966397/pexels-photo-7966397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "60 minuti in forno a 170°",
+      "description": "Cuoci in forno statico fino a doratura: la magia avviene lentamente.",
+      "visual_hint": "torta in forno",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "baking cake oven",
+      "image": "https://images.pexels.com/photos/37334968/pexels-photo-37334968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Spolvera e servi tiepida",
+      "description": "Un velo di zucchero a velo prima di portarla in tavola: semplicemente divina.",
+      "visual_hint": "mano che spolvera",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "sliced almond cake",
+      "image": "https://images.pexels.com/photos/17865688/pexels-photo-17865688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "instagram_caption": "C’è un dolce che sa di convento e di tradizione, ed è questa meraviglia. 🍰✨ La Torta delle Monache è un abbraccio cremoso di ricotta e mandorle, con uova montate a neve che la rendono soffice come una nuvola. Una spolverata di zucchero a velo e il gioco è fatto: dentro è umida, fuori leggermente dorata, perfetta per il tè delle cinque. Provala questo weekend e portala in tavola con un sorriso 😋🌿",
+  "video_script": [
+    "Ecco la mia torta delle monache cremosa.",
+    "Ricotta fresca, mandorle e uova, pronti.",
+    "Monto uova e zucchero fino a spuma.",
+    "Verso tutto e cuocio a 170° per un'ora.",
+    "Spolvero zucchero a velo, serviamo subito."
+  ],
+  "thread_text": [
+    "C’è una torta che sa di convento e di paradiso. La Torta delle Monache: cremosa, profumata, con ricotta e mandorle. Il nome promette bene. La ricetta? Ve la svelo qui sotto 🧵👇",
+    "3 ingredienti firma: ricotta (fresca, asciutta), mandorle (farina e lamelle), uova. Poi zucchero, niente burro. Si montano uova e zucchero a spuma chiara – gesto chiave per la sofficità.",
+    "Aggiungi la ricotta setacciata, poi la farina di mandorle. Impasto denso, profumatissimo. Versa in una teglia imburrata e infarinata. La crosta diventa dorata, l’interno resta umido.",
+    "Forno statico a 170°, 60 minuti esatti. Non aprite prima: la torta si sgonfia. Sfornate, fate intiepidire. Poi il tocco finale: una pioggia di zucchero a velo. Sembra neve su un dolce da convento.",
+    "Trucco: se la volete ancora più intensa, aggiungete un cucchiaio di liquore all’impasto (mandorla o limoncello). Provatela, fatemi sapere come viene. Io aspetto le vostre foto qui sotto 👇"
+  ],
+  "link": "https://ricette.giallozafferano.it/Torta-delle-monache.html",
+  "pubDate": "Mon, 18 May 2026 15:28:00 +0200",
+  "savedAt": "2026-05-18T17:57:43.067Z",
+  "image": "https://www.giallozafferano.it/images/361-36188/Torta-delle-monache_650x433_wm.jpg"
+}

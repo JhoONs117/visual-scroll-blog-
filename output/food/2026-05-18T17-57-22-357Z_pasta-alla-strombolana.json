@@ -1,0 +1,84 @@
+{
+  "agent": "food",
+  "slug": "pasta-alla-strombolana",
+  "sourceId": "12b834be7f56b3c2fbff65f6accc5238",
+  "dish_type": "pasta",
+  "signature_ingredients": [
+    "tonno",
+    "capperi",
+    "olive"
+  ],
+  "title": "Pasta alla strombolana",
+  "slides": [
+    "Pasta saporita con tonno, capperi e olive.",
+    "Spaghetti, tonno, capperi, olive, acciughe.",
+    "Soffriggi aglio, peperoncino e acciughe.",
+    "Cuoci il sugo 20 minuti, poi unisci la pasta.",
+    "Salare poco: olive e capperi già sapidi."
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Pasta alla strombolana",
+      "description": "Un primo saporito e veloce con tonno, capperi e olive: il sapore del Sud in tavola.",
+      "visual_hint": "piatto completo fumante",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "savory pasta tuna caper olives"
+    },
+    {
+      "hook": "Gli ingredienti giusti",
+      "description": "Spaghetti, tonno, capperi, olive e acciughe: pochi elementi per un gusto autentico.",
+      "visual_hint": "ingredienti disposti su tagliere",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "savory pasta ingredients tuna capers",
+      "image": "https://images.pexels.com/photos/8264654/pexels-photo-8264654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il gesto che fa la differenza",
+      "description": "Soffriggi aglio, peperoncino e acciughe: il profumo si sprigiona subito.",
+      "visual_hint": "soffritto in padella in primo piano",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "garlic anchovies sizzle pan",
+      "image": "https://images.pexels.com/photos/5338134/pexels-photo-5338134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cottura e amalgama",
+      "description": "Cuoci il sugo 20 minuti, poi unisci la pasta ben scolata.",
+      "visual_hint": "pasta che si mescola nel sugo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "savory pasta mixing in pan",
+      "image": "https://images.pexels.com/photos/30350309/pexels-photo-30350309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il trucco finale",
+      "description": "Salare poco: olive e capperi sono già sapidi. Impiatta e servi subito.",
+      "visual_hint": "piatto impiattato con prezzemolo",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "savory pasta bowl parsley",
+      "image": "https://images.pexels.com/photos/26207767/pexels-photo-26207767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "instagram_caption": "Pasta alla Strombolana: il sapore deciso del Sud in un piatto che sa di mare e di sole. 🍝🌊\n\nUn sughetto veloce dove aglio, peperoncino e acciughe si fondono, poi tonno, capperi e olive danno il carattere. Pochi minuti di soffritto, venti di cottura, e via: gli spaghetti assorbono tutto il gusto. Attento al sale, perché olive e capperi sono già sapidi. \n\nUn comfort food che profuma d'estate. Provala questo weekend 🌿🇮🇹",
+  "video_script": [
+    "Pasta con tonno, capperi e olive.",
+    "Prendo spaghetti, tonno, capperi, olive, acciughe.",
+    "Soffriggo aglio, peperoncino e acciughe.",
+    "Cuocio il sugo 20 minuti, aggiungo la pasta.",
+    "Poco sale: olive e capperi già sapidi."
+  ],
+  "thread_text": [
+    "Il piatto che ti salva la cena e ti fa sentire in vacanza: Pasta alla strombolana. Sapori decisi del Sud, pochi ingredienti, zero sbattimento. Se non l'hai mai fatta, oggi cambi tutto.",
+    "Spaghetti, tonno, capperi, olive e un segreto: le acciughe. Soffriggi aglio, peperoncino e acciughe in olio evo: l'umami esplode. Poi tonno, capperi e olive nere. Appena 20 minuti di fuoco lento.",
+    "Mentre il sugo si addensa, cuoci gli spaghetti al dente. Saltali direttamente in padella con un mestolo di acqua di cottura. La cremosità si lega ai sapori. Il profumo invade la cucina.",
+    "Attenzione al sale: olive e capperi sono già sapidi. Assaggia prima di aggiungere. Se vuoi, una spolverata di prezzemolo fresco e sei pronto. Un piatto che sa di mare e di terra.",
+    "Il trucco finale: un filo d'olio a crudo e una grattugiata di scorza di limone (se hai). Freschezza che spiazza. Provala stasera e fammi sapere com'è andata 👇"
+  ],
+  "link": "https://ricette.giallozafferano.it/Pasta-alla-strombolana.html",
+  "pubDate": "Mon, 18 May 2026 15:09:00 +0200",
+  "savedAt": "2026-05-18T17:58:01.943Z",
+  "image": "https://www.giallozafferano.it/images/361-36187/Pasta-alla-strombolana_650x433_wm.jpg"
+}
