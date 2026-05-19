@@ -168,6 +168,19 @@ http.createServer((req, res) => {
         const filePath = path.join(slidesPngDir, `slide${index}.png`);
         fs.writeFileSync(filePath, Buffer.from(base64, 'base64'));
 
+        // Quando arriva l'ultima slide, pusha tutto su git
+        if (index === 4) {
+          const token = process.env.GIT_TOKEN;
+          const pushCmd = token
+            ? `git remote set-url origin "https://${token}@github.com/JhoONs117/visual-scroll-blog-.git" && ` +
+              `git add output/${agentId}/slides-png/${slug}/ && ` +
+              `git diff --cached --quiet || git commit -m "auto: slide PNG ${slug}" && ` +
+              `git push`
+            : 'true';
+          spawn('sh', ['-c', `cd "${__dirname}" && ${pushCmd}`],
+            { detached: true, stdio: 'ignore' }).unref();
+        }
+
         res.writeHead(200, { 'Content-Type': 'application/json' });
         res.end(JSON.stringify({ ok: true, path: path.relative(__dirname, filePath) }));
       } catch (e) {

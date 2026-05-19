@@ -120,6 +120,8 @@ function loadCandidates(agentId, outputDir) {
     const scenes      = article.formats.video.scenes;
     const startMs     = Date.now();
 
+    if (!article.render_status) article.render_status = {};
+
     try {
       await template.render(article, scenes, agentConfig, outputPath);
     } catch (e) {
