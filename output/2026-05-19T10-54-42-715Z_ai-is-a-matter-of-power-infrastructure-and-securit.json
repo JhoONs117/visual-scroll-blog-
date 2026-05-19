@@ -153,5 +153,10 @@
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/techex-panel-hero.jpeg",
   "savedAt": "2026-05-19T10:54:58.715Z",
   "sourceId": "bb12754c83859f1bd71157209afb8172",
-  "render_quality": "low"
+  "render_quality": "low",
+  "render_status": {
+    "low": "done"
+  },
+  "render_path": "output/renders/ai-is-a-matter-of-power-infrastructure-and-securit.mp4",
+  "render_error": null
 }
