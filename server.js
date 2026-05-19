@@ -59,8 +59,7 @@ http.createServer((req, res) => {
         const pushCmd = token
           ? `git remote set-url origin "https://${token}@github.com/JhoONs117/visual-scroll-blog-.git" && ` +
             `git add output/ output/food/ output/fitness/ frontend/data-agents.js && ` +
-            `git diff --cached --quiet || git commit -m "auto: ${status} ${slug}" && ` +
-            `git push`
+            `git diff --cached --quiet || (git commit -m "auto: ${status} ${slug}" && git pull --rebase --autostash origin main && git push)`
           : 'true';
 
         spawn('sh', ['-c',
@@ -134,8 +133,7 @@ http.createServer((req, res) => {
         const pushCmd = token
           ? `git remote set-url origin "https://${token}@github.com/JhoONs117/visual-scroll-blog-.git" && ` +
             `git add output/ output/food/ output/fitness/ frontend/data-agents.js && ` +
-            `git diff --cached --quiet || git commit -m "auto: quality ${quality} ${slug}" && ` +
-            `git push`
+            `git diff --cached --quiet || (git commit -m "auto: quality ${quality} ${slug}" && git pull --rebase --autostash origin main && git push)`
           : 'true';
 
         spawn('sh', ['-c',
@@ -176,9 +174,8 @@ http.createServer((req, res) => {
           const token = process.env.GIT_TOKEN;
           const pushCmd = token
             ? `git remote set-url origin "https://${token}@github.com/JhoONs117/visual-scroll-blog-.git" && ` +
-              `git add "output/${agentId}/slides-png/${slug}/" && ` +
-              `git diff --cached --quiet || git commit -m "auto: slide PNG ${slug}" && ` +
-              `git push`
+              `git add output/${agentId}/slides-png/${slug}/ && ` +
+              `git diff --cached --quiet || (git commit -m "auto: slide PNG ${slug}" && git pull --rebase --autostash origin main && git push)`
             : 'true';
           spawn('sh', ['-c', `cd "${__dirname}" && ${pushCmd}`],
             { detached: true, stdio: 'ignore' }).unref();
