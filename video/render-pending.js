@@ -22,10 +22,16 @@ const AGENTS = {
 
 // ─── Importa PNG da ~/Downloads/ se non già presenti ─────────────────────────
 function importFromDownloads(agentId, slug) {
-  const destDir     = path.join(ROOT, 'output', agentId, 'slides-png', slug);
-  const downloadsDir = path.join(os.homedir(), 'Downloads');
-  const all = [0,1,2,3,4].every(i => fs.existsSync(path.join(downloadsDir, `slide${i}.png`)));
-  if (!all) return false;
+  const destDir = path.join(ROOT, 'output', agentId, 'slides-png', slug);
+  // Cerca sia in WSL ~/Downloads che in Windows /mnt/c/Users/*/Downloads
+  const candidates = [
+    path.join(os.homedir(), 'Downloads'),
+    '/mnt/c/Users/halom/Downloads',
+  ];
+  const downloadsDir = candidates.find(d =>
+    [0,1,2,3,4].every(i => fs.existsSync(path.join(d, `slide${i}.png`)))
+  );
+  if (!downloadsDir) return false;
   fs.mkdirSync(destDir, { recursive: true });
   for (let i = 0; i < 5; i++) {
     fs.copyFileSync(path.join(downloadsDir, `slide${i}.png`), path.join(destDir, `slide${i}.png`));
