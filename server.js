@@ -168,12 +168,15 @@ http.createServer((req, res) => {
         const filePath = path.join(slidesPngDir, `slide${index}.png`);
         fs.writeFileSync(filePath, Buffer.from(base64, 'base64'));
 
-        // Quando arriva l'ultima slide, pusha tutto su git
-        if (index === 4) {
+        // Quando tutte le slide 0-4 sono presenti su disco, pusha su git
+        const allPresent = [0,1,2,3,4].every(i =>
+          fs.existsSync(path.join(slidesPngDir, `slide${i}.png`))
+        );
+        if (allPresent) {
           const token = process.env.GIT_TOKEN;
           const pushCmd = token
             ? `git remote set-url origin "https://${token}@github.com/JhoONs117/visual-scroll-blog-.git" && ` +
-              `git add output/${agentId}/slides-png/${slug}/ && ` +
+              `git add "output/${agentId}/slides-png/${slug}/" && ` +
               `git diff --cached --quiet || git commit -m "auto: slide PNG ${slug}" && ` +
               `git push`
             : 'true';
