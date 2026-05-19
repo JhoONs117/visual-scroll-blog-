@@ -1,6 +1,6 @@
 window.FITNESS_ARTICLES = [
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "allenamento-in-palestra-le-novit-si-chiamano-triba",
     "prompt_version": "1.0.0",
@@ -37,6 +37,13 @@ window.FITNESS_ARTICLES = [
           "Errore comune: fermarsi a metà esercizio o rallentare quando sale la fatica. Così perdi l’effetto brucia-grassi. Tieni il ritmo fino alla fine dello schema, anche se devi ridurre l'ampiezza.",
           "Non ti resta che provare. La prima lezione di TribalFit, Blaze o Punch è gratuita. Scegli quella che ti incuriosisce di più, vieni e dimmi com'è andata. Ti aspetto."
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -101,10 +108,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c25b81a35.jpeg",
     "savedAt": "2026-05-16T09:36:05.583Z",
-    "sourceId": "55d07d9645f26fecbd0699636c80e5ed"
+    "sourceId": "55d07d9645f26fecbd0699636c80e5ed",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "caicedo-i-muscoli-il-reality-la-moglie-e-l-inter-q",
     "prompt_version": "1.0.0",
@@ -141,6 +158,13 @@ window.FITNESS_ARTICLES = [
           "Non lasciare che l'inerzia lavori per te. Ogni fase del movimento deve essere tua. Se non senti il muscolo, stai sprecando tempo e energia.",
           "Oggi fai 3 serie extra sull'esercizio che odi di più. Quello che salti sempre. Quello che ti fa crescere. Prova domani e dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -205,10 +229,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059476d2a65.jpeg",
     "savedAt": "2026-05-16T09:35:44.855Z",
-    "sourceId": "0f9199c51d41410bf1871d0392903004"
+    "sourceId": "0f9199c51d41410bf1871d0392903004",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "rihanna-fra-esercitazioni-militari-cardio-e-uova-a",
     "prompt_version": "1.0.0",
@@ -245,6 +279,13 @@ window.FITNESS_ARTICLES = [
           "Errore da evitare: saltare il riscaldamento. Con questo ritmo, muscoli freddi = lesioni sicure. 5 minuti di mobilità dinamica preparano le articolazioni e proteggono la schiena.",
           "Oggi prova 20 minuti di interval training come Rihanna: 5 sprint + 5 squat jump, alternati a recupero attivo. Fallo domani mattina e scrivimi come ti senti. 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -309,10 +350,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059452f1bc2.jpeg",
     "savedAt": "2026-05-16T09:35:27.834Z",
-    "sourceId": "9d913f10b75a8739d8984c33c50ddf61"
+    "sourceId": "9d913f10b75a8739d8984c33c50ddf61",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "mourinho-buon-compleanno-roma-pizza-workout-e-ecco",
     "prompt_version": "1.0.0",
@@ -349,6 +400,13 @@ window.FITNESS_ARTICLES = [
           "Attenzione all'errore più comune: non curvare la schiena. Se lo fai, perdi potenza e rischi di farti male. Meglio fermarsi e correggere la postura che accumulare ripetizioni sbagliate. La qualità batte la quantità.",
           "Oggi ti sfido a fare 3 serie da 12 squat a corpo libero. Concentrati sulla tecnica. Alla fine sentirai le gambe e la schiena lavorare insieme. Prova domani e dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -413,10 +471,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/04/23/6263b2a89f615.jpeg",
     "savedAt": "2026-05-16T06:29:36.977Z",
-    "sourceId": "2dbb17395d70a01aaea60cd914551ef8"
+    "sourceId": "2dbb17395d70a01aaea60cd914551ef8",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "balo-is-back-gol-muscoli-dieta-passioni-mancini-tu",
     "prompt_version": "1.0.0",
@@ -453,6 +521,13 @@ window.FITNESS_ARTICLES = [
           "La costanza batte il talento ogni volta. Il segreto di Mario ora è la ripetizione quotidiana. Non serve la sessione perfetta, serve quella fatta. Tre allenamenti medi tenuti per 6 mesi valgono più di due perfetti e poi stop.",
           "Oggi fai 10 minuti di tabata: 20 secondi di lavoro, 10 di recupero. Scegli un esercizio (burpee, squat, mountain climber) e dà tutto. Pochi minuti, massimo impatto. Prova domani e dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -517,10 +592,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205935f4d67e.jpeg",
     "savedAt": "2026-05-16T06:29:14.268Z",
-    "sourceId": "7e42efc28a372ca524f5c87c05d76a4b"
+    "sourceId": "7e42efc28a372ca524f5c87c05d76a4b",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "razgatlioglu-non-solo-moto-l-allenamento-del-re-de",
     "prompt_version": "1.0.0",
@@ -557,6 +642,13 @@ window.FITNESS_ARTICLES = [
           "Trattenere il fiato durante l'equilibrio aumenta la pressione e riduce la stabilità. Espira durante lo sforzo, inspira nel controllo. Il tuo corpo reagisce meglio con ossigeno costante.",
           "Pronto a metterti alla prova? 3 serie da 30 secondi su superficie instabile. Fallo oggi, senti la differenza. Raccontami com'è andata nei commenti. 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -621,10 +713,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205bec456c60.jpeg",
     "savedAt": "2026-05-16T06:28:50.047Z",
-    "sourceId": "bd6a875992b1713317f0d52cab042731"
+    "sourceId": "bd6a875992b1713317f0d52cab042731",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "valentino-rossi-e-il-post-valencia-2006-pi-palestr",
     "prompt_version": "1.0.0",
@@ -661,6 +763,13 @@ window.FITNESS_ARTICLES = [
           "Errore da evitare: \nAllenarsi stanco da frustrazione ≠ produttività. \nAllenarsi stanco da fatica accumulata è fumo. \nLa differenza? 5 serie da 8 squat jump con intensità mentale al 100%.",
           "Oggi proviamo il protocollo esplosivo di Vale: \n5 serie da 8 squat jump con peso leggero, recupero 90 secondi. \nLa caduta è una mossa. La risalita è la firma. \nProva domani e dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -725,10 +834,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c0f4ede25.jpeg",
     "savedAt": "2026-05-16T02:20:35.620Z",
-    "sourceId": "077647591f2847617d57be61ecfea4d3"
+    "sourceId": "077647591f2847617d57be61ecfea4d3",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "adama-traor-torna-al-bar-a-lui-il-pi-palestrato-d-",
     "prompt_version": "1.0.0",
@@ -765,6 +884,13 @@ window.FITNESS_ARTICLES = [
           "L'errore più comune? Fermarsi a metà del movimento. Se rallenti nella fase finale, perdi il 50% del lavoro. La spinta deve finire con i gomiti bloccati e il petto in tensione. Solo così costruisci la forza funzionale che serve in campo.",
           "Oggi esegui 3 serie da 8 ripetizioni di spinta esplosiva su panca. Carica un peso che ti permetta di esplodere senza sacrificare la tecnica. Prova domani e dimmi com'è andata 💪"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -829,10 +955,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/620594a9bfde6.jpeg",
     "savedAt": "2026-05-16T02:20:17.327Z",
-    "sourceId": "5702134ee15853a7838e7a6ae1a91836"
+    "sourceId": "5702134ee15853a7838e7a6ae1a91836",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "dormire-meglio-con-lo-stretching-4-esercizi-da-pro",
     "prompt_version": "1.0.0",
@@ -869,6 +1005,13 @@ window.FITNESS_ARTICLES = [
           "Secondo esercizio: sdraiati e ruota il busto da un lato, mantenendo le spalle a terra. Allunga la colonna e la fascia lombare. Alterna lentamente. Senti il rilascio?",
           "Stasera dedica 5 minuti a questa sequenza. Metti un timer, spegni il telefono e ascolta il corpo. Prova e domani dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -933,10 +1076,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c094cf0f3.jpeg",
     "savedAt": "2026-05-16T02:19:59.851Z",
-    "sourceId": "dfe23f4be54d4aab7248689bafa2d0b0"
+    "sourceId": "dfe23f4be54d4aab7248689bafa2d0b0",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "jeff-bezos-mostra-i-muscoli-l-allenamento-e-la-die",
     "prompt_version": "1.0.0",
@@ -973,6 +1126,13 @@ window.FITNESS_ARTICLES = [
           "Errore comune: usare lo slancio per sollevare peso. Non barare. I muscoli lavorano quando controlli il movimento, non quando lanci il bilanciere. Lentamente e con controllo.",
           "Thread: oggi 20 minuti di pesi. La prova che pure un CEO da 200 miliardi lo vive. Non hai tempo? Hai 20 minuti. Prova domani e dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1037,10 +1197,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c806ac0e9.png",
     "savedAt": "2026-05-15T22:58:25.062Z",
-    "sourceId": "202eb40b574be22b4917bc21399f9e99"
+    "sourceId": "202eb40b574be22b4917bc21399f9e99",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "la-tendinopatia-rotulea-nel-crossfit-sintomi-allen",
     "prompt_version": "1.0.0",
@@ -1077,6 +1247,13 @@ window.FITNESS_ARTICLES = [
           "Non aspettare che il dolore passi da solo. Ogni salto doloroso è un microtrauma che irrigidisce il tendine. Inizia con esercizi a basso impatto: isometrici e eccentrici. Il controllo del movimento è la tua priorità oggi.",
           "Oggi inserisci 3 serie da 30 secondi di Wall Sit. Ginocchia a 90°, schiena al muro, piedi larghi. Senti il quadricipite lavorare ma senza dolore al tendine. Prova domani e dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1141,10 +1318,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2020/09/18/61f63990c51f7.jpeg",
     "savedAt": "2026-05-15T22:58:09.428Z",
-    "sourceId": "fbea61a1d85ec36e6f1093d615aa310c"
+    "sourceId": "fbea61a1d85ec36e6f1093d615aa310c",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "allenamento-col-cane-dalla-corsa-al-doggy-bootcamp",
     "prompt_version": "1.0.0",
@@ -1181,6 +1368,13 @@ window.FITNESS_ARTICLES = [
           "Niente strattoni. Il canicross insegna: il cane trainatore dà potenza, tu regoli. Se tiri, lo confondi. Se lo lasci correre, sincronizzi fiato e passo. La dog dance? Dopo la corsa, qualche comando giocoso allunga il workout. Mai tensioni, solo fluidità.",
           "Oggi test: porta il cane a correre per 10 minuti. Guinzaglio lento, lui davanti, tu dietro. Niente strappi, solo ritmo. Finito? Una coccola e via. Ripeti domani. Scrivimi qui sotto come è andata: storie e dubbi li leggo tutti."
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1245,10 +1439,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cc1cd34ff.jpeg",
     "savedAt": "2026-05-15T22:57:52.321Z",
-    "sourceId": "91bf720d5e86c1d2601784c1d0504006"
+    "sourceId": "91bf720d5e86c1d2601784c1d0504006",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "mahmood-e-blanco-tra-pizza-e-calcetto-l-autore-di-",
     "prompt_version": "1.0.0",
@@ -1285,6 +1489,13 @@ window.FITNESS_ARTICLES = [
           "Un errore da evitare? Punta le ginocchia verso l'esterno, mai in dentro. Tieni il peso sui talloni. Ogni ripetizione è un progresso. Il risultato? Gambe toniche, core attivo e metabolismo acceso. Senza palestra, ma con la costanza giusta.",
           "Oggi lo metti in pratica: 3 serie da 15 squat, con 30 secondi di recupero tra le serie. Falli subito. Non serve attrezzatura, solo 5 minuti. Prova e dimmi domani com'è andata. Il tuo corpo ti ringrazierà. 👊"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1349,10 +1560,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cb5c04a79.jpeg",
     "savedAt": "2026-05-15T21:09:02.551Z",
-    "sourceId": "c04ceed3bbafed2dd5be7e896417a19d"
+    "sourceId": "c04ceed3bbafed2dd5be7e896417a19d",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "nel-mondo-di-victoria-dei-maneskin-lo-skate-la-pal",
     "prompt_version": "1.0.0",
@@ -1389,6 +1610,13 @@ window.FITNESS_ARTICLES = [
           "Errore comune: curvare la schiena nello squat. Schiena dritta e petto aperto, sempre. Una schiena curva è instabile e rischiosa. Controllo prima di tutto.",
           "Oggi fai 3 serie da 10 squat con questa tecnica. Pausa 60 secondi tra le serie. Prova domani e dimmi com’è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1453,10 +1681,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059507312a3.jpeg",
     "savedAt": "2026-05-15T21:08:46.657Z",
-    "sourceId": "d0f326a25149d76953267cba59a96cd4"
+    "sourceId": "d0f326a25149d76953267cba59a96cd4",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "ornella-muti-diva-a-sanremo-sempre-stupenda-grazie",
     "prompt_version": "1.0.0",
@@ -1493,6 +1731,13 @@ window.FITNESS_ARTICLES = [
           "Non saltare la routine. I risultati arrivano solo se sei costante. Anche 10 minuti di stretching attivo fanno la differenza: migliorano postura, flessibilità e circolazione.",
           "Oggi prova questo: 10 minuti di stretching attivo. Allunga braccia, gambe e schiena. Fallo domani mattina e dimmi come ti senti 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1557,10 +1802,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205950a715d2.jpeg",
     "savedAt": "2026-05-15T21:08:31.698Z",
-    "sourceId": "b46661fb21d300e6ee1db250d9c302da"
+    "sourceId": "b46661fb21d300e6ee1db250d9c302da",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "la-realt-virtuale-irrompe-nel-mondo-del-fitness-ec",
     "prompt_version": "1.0.0",
@@ -1597,6 +1852,13 @@ window.FITNESS_ARTICLES = [
           "Errore da evitare? Fermarti ogni secondo per regolare il visore. Regola la calzata prima di iniziare. Un casco stabile = flow che non si spezza.",
           "Oggi prova una sessione fitness in VR. 15 minuti e vedi se non ti alleni più intensamente del solito. Fatto? Rispondi qui sotto e dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1661,10 +1923,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cb1c87185.jpeg",
     "savedAt": "2026-05-15T19:32:27.314Z",
-    "sourceId": "39f7280c771cdf91b7c344058ba0fbe2"
+    "sourceId": "39f7280c771cdf91b7c344058ba0fbe2",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "giovanni-truppi-tra-pilates-tanta-acqua-e-la-canot",
     "prompt_version": "1.0.0",
@@ -1701,6 +1973,13 @@ window.FITNESS_ARTICLES = [
           "L’errore più comune? Trattenere il respiro. Quando sforzi, espira: porti ossigeno ai muscoli e proteggi la schiena. Fai 10 respiri profondi tra un esercizio e l’altro e sentirai la differenza.",
           "Oggi bevi 2 litri d’acqua e muoviti 20 minuti. Inizia con 5 minuti di pilates, poi aumenta. Prova domani e dimmi com’è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1765,10 +2044,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cf212532a.jpeg",
     "savedAt": "2026-05-15T19:32:10.474Z",
-    "sourceId": "c416c41e2e088c5fa38ccb16285d5ada"
+    "sourceId": "c416c41e2e088c5fa38ccb16285d5ada",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "morandi-e-ranieri-rivali-da-sempre-ma-grandi-amici",
     "prompt_version": "1.0.0",
@@ -1805,6 +2094,13 @@ window.FITNESS_ARTICLES = [
           "Errore comune? Isolarsi. Allenarsi da soli stanca prima: il cervello cede quando manca lo stimolo sociale. In coppia o in gruppo il ritmo sale naturale e il tempo vola.",
           "Oggi chiama un amico e fategli una corsa insieme. Non serve preparazione: bastano scarpe e voglia di condividere. Prova domani e dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1869,10 +2165,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cf01cc5ab.jpeg",
     "savedAt": "2026-05-15T19:31:53.236Z",
-    "sourceId": "cfe0ded917bb22740369243025d0d8af"
+    "sourceId": "cfe0ded917bb22740369243025d0d8af",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "sabrina-ferilli-l-ultima-star-di-sanremo-la-palest",
     "prompt_version": "1.0.0",
@@ -1909,6 +2215,13 @@ window.FITNESS_ARTICLES = [
           "Errore da evitare: non saltare pasti per compensare. Il corpo sente la mancanza e accumula. Meglio pasti regolari e leggeri. La costanza batto lo sforzo episodico.",
           "Muoviti oggi per la tua gioia, non per rimediare. Trova un'attività che ami e falla con costanza. Il vero fitness è sentirsi bene nel proprio corpo. Prova domani e dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1973,10 +2286,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205953b8e21d.jpeg",
     "savedAt": "2026-05-15T17:39:22.658Z",
-    "sourceId": "bc85d1e797fe5bcdf5e0fb79e58de603"
+    "sourceId": "bc85d1e797fe5bcdf5e0fb79e58de603",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "cosa-succede-al-tuo-corpo-quando-non-fai-stretchin",
     "prompt_version": "1.0.0",
@@ -2013,6 +2336,13 @@ window.FITNESS_ARTICLES = [
           "10 minuti dopo ogni allenamento. Non serve di più. Fai: 30 sec per gruppo muscolare, respiro profondo, nessun dolore. Così previeni infortuni e migliori la flessibilità.",
           "Domani dopo il workout prova il mio miniprotocollo: 10 minuti di stretching a respiro lento. Scrivimi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -2077,10 +2407,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cc919c701.jpeg",
     "savedAt": "2026-05-15T17:39:05.445Z",
-    "sourceId": "3735cc25c36f44e59b84a722ad195269"
+    "sourceId": "3735cc25c36f44e59b84a722ad195269",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "ecco-un-allenamento-efficace-vantaggi-e-svantaggi-",
     "prompt_version": "1.0.0",
@@ -2117,6 +2457,13 @@ window.FITNESS_ARTICLES = [
           "Vantaggio? Meno tempo in palestra, più risultati. Svantaggio? È brutale sulle articolazioni se non hai una base atletica. Ascolta il corpo — qualità sopra quantità, sempre.",
           "Oggi bastano 4 minuti. Imposta un timer, dai tutto in 8 round e registra le tue sensazioni. Prova domani e dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -2181,10 +2528,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cd5a668e7.jpeg",
     "savedAt": "2026-05-15T17:38:47.516Z",
-    "sourceId": "0fa3026757a29751affa1a52c68e9904"
+    "sourceId": "0fa3026757a29751affa1a52c68e9904",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "stefania-constantini-tra-curling-palestra-il-lavor",
     "prompt_version": "1.0.0",
@@ -2221,6 +2578,13 @@ window.FITNESS_ARTICLES = [
           "Lo stress di competizioni, lavoro e vita privata accumula. Dopo l'allenamento, 10 min di respiro lento o stretching. Abbassa il cortisolo. Senza recupero mentale, fisico e relazionale, il rendimento crolla. Chiedi a Stefania.",
           "Oggi scegli un'abitudine da trasformare in routine fissa: allenamento di 20 min, orario per il partner o pausa mentale. Prova domani e fammi sapere come va 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -2285,10 +2649,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/620594fbc00ec.jpeg",
     "savedAt": "2026-05-15T16:11:01.852Z",
-    "sourceId": "35342d6fd23dcfdfd5e56101280b2df6"
+    "sourceId": "35342d6fd23dcfdfd5e56101280b2df6",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "la-juve-i-muscoli-il-surf-la-delusione-olimpica-tu",
     "prompt_version": "1.0.0",
@@ -2325,6 +2699,13 @@ window.FITNESS_ARTICLES = [
           "Errore comune: trattenere il respiro sotto carico. Taglia l'ossigeno al cervello e aumenta la pressione. Inspira nella fase facile, espira nello sforzo. Sembra banale, ma è la differenza tra rendere e crollare.",
           "Oggi ti sfido a 3 minuti di plank dinamico: 30 secondi plank alto, 30 plank gomiti, alterna senza pause. Da domani la tua tenuta mentale e fisica sarà un'altra. Prova e fammi sapere come va 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -2389,10 +2770,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/03/31/6245bf46a1f84.jpeg",
     "savedAt": "2026-05-15T16:10:37.998Z",
-    "sourceId": "9a8b073062393853a6fbb62a63627009"
+    "sourceId": "9a8b073062393853a6fbb62a63627009",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "moioli-visintin-dal-surf-e-lo-yoga-insieme-ai-cani",
     "prompt_version": "1.0.0",
@@ -2429,6 +2820,13 @@ window.FITNESS_ARTICLES = [
           "Non forzare la postura. Il surfista sa che ogni onda è diversa; lo yogi sa che ogni corpo è diverso. Ascolta il tuo, non competere. Un ginocchio piegato vale più di una gamba tesa e dolorante. La fluidità vince sulla rigidità.",
           "Oggi prova 5 minuti di yoga prima del tuo allenamento: posizione del cane a testa in giù e del guerriero. Senti l'equilibrio, il respiro. Poi dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -2493,10 +2891,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a7696a5465.jpeg",
     "savedAt": "2026-05-15T16:10:17.414Z",
-    "sourceId": "e79a95de99709db9497d2cd228322bf7"
+    "sourceId": "e79a95de99709db9497d2cd228322bf7",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "gigi-samele-l-allenamento-il-pilates-le-medaglie-f",
     "prompt_version": "1.0.0",
@@ -2533,6 +2941,13 @@ window.FITNESS_ARTICLES = [
           "Errore comune: forzare la colonna vertebrale. La schiena non va mai piegata sotto carico senza stabilità. Samele mantiene sempre l'allineamento. Se senti dolore, fermati. Riscaldati bene e ascolta il corpo.",
           "Vuoi iniziare a costruire la tua disciplina? Segui oggi stesso una lezione di pilates. 20 minuti al giorno bastano per sentire la differenza. Prova domani e dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -2597,10 +3012,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a77059bc0d.jpeg",
     "savedAt": "2026-05-15T13:58:40.399Z",
-    "sourceId": "493ccf9f88f371572fb10d976fd6d9b7"
+    "sourceId": "493ccf9f88f371572fb10d976fd6d9b7",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "allenamento-attrezzi-dieta-corsi-da-seguire-tutto-",
     "prompt_version": "1.0.0",
@@ -2637,6 +3062,13 @@ window.FITNESS_ARTICLES = [
           "Mai saltare riscaldamento e stretching. 5 minuti di mobilità ti salvano da infortuni e migliorano la performance. I muscoli freddi si strappano, quelli pronti crescono. Non fare l'errore di ignorarli.",
           "Hai bisogno di una guida personalizzata? Prenota un check-up con me oggi. Analizziamo insieme la tua situazione e costruiamo un piano su misura. Scrivi in DM o clicca il link in bio. 🎯"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -2701,10 +3133,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a78ed854eb.jpeg",
     "savedAt": "2026-05-15T13:58:20.756Z",
-    "sourceId": "dd661e44df0f1c6441f8aa886973a3ea"
+    "sourceId": "dd661e44df0f1c6441f8aa886973a3ea",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "wanda-superstar-la-dieta-che-non-ama-la-palestra-l",
     "prompt_version": "1.0.0",
@@ -2741,6 +3183,13 @@ window.FITNESS_ARTICLES = [
           "Errore comune: iperestendere la schiena nello sforzo. Blocca il bacino, non inarcare. Se senti la zona lombare, stai sbagliando. Schiena neutra sempre, anche quando è dura.",
           "Oggi fai 3 serie da 12 ripetizioni. Concentrati sulla tecnica, non sul peso. Ogni rep è tua. Prova domani e fammi sapere com'è andata. Ti aspetto nei commenti."
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -2805,10 +3254,20 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a7678193bd.jpeg",
     "savedAt": "2026-05-15T13:57:59.289Z",
-    "sourceId": "3e0144c966f5f4d6a3964f4971d813df"
+    "sourceId": "3e0144c966f5f4d6a3964f4971d813df",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "fitness",
     "slug": "l-infortunio-l-allenamento-da-record-l-alimentazio",
     "prompt_version": "1.0.0",
@@ -2845,6 +3304,13 @@ window.FITNESS_ARTICLES = [
           "La soluzione è lenta e precisa. Oggi fai 10 squat jump: 3 secondi per scendere, esplodi su, atterra come una piuma, controlla 2 secondi. Niente fretta. Solo qualità.",
           "Prova domani: 10 ripetizioni controllate. Metti un timer, registra il tuo atterraggio e dimmi com'è andata. Il tuo ginocchio ti ringrazierà."
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -2909,6 +3375,16 @@ window.FITNESS_ARTICLES = [
     ],
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a768dc7f97.jpeg",
     "savedAt": "2026-05-15T10:31:04.476Z",
-    "sourceId": "b9838e68a7837df458e28100dc59b8c5"
+    "sourceId": "b9838e68a7837df458e28100dc59b8c5",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   }
 ];

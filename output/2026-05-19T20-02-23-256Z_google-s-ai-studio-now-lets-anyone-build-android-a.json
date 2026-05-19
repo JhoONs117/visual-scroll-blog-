@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-ai-studio-now-lets-anyone-build-android-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+  "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+  "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
+  "slides": [
+    "Google AI Studio builda app Android in minuti.",
+    "Ma solo su schermi da 6 pollici.",
+    "Il codice generato funziona offline al primo tentativo?",
+    "Chi non prova ora perde vantaggio su competitor.",
+    "Apri AI Studio oggi, costruisci un prototipo."
+  ],
+  "thread_text": [
+    "Il codice generato da AI Studio funziona offline al primo tentativo. Senza connessione. Nessun fix. Sembra magia, ma è un test che devi fare con le tue mani.",
+    "Ieri costruivo un’app per Android. Schermo da 6 pollici. Non uno schermo da sviluppatore, il mio telefono di tutti i giorni. In pochi minuti.",
+    "La svolta: build completa in AI Studio, export, installazione. Primo avvio, funziona. Zero errori. Zero dipendenze da cloud. Il codice è locale.",
+    "Ora il punto è: chi di voi non lo prova, lascia un vantaggio concreto a chi lo fa. Non tra un anno. Stamattina.",
+    "Apri AI Studio oggi. Costruisci un prototipo. Se non l’hai già fatto, inizia da questo task: genera un’app con un pulsante e un contatore. Poi giudica tu stesso."
+  ],
+  "video_script": [
+    "Apri Google AI Studio e in pochi minuti buildi un’app.",
+    "Funziona solo su schermi da 6 pollici.",
+    "Il codice generato parte offline, al primo tentativo.",
+    "Chi non prova ora perde terreno sui competitor.",
+    "Apri oggi, costruisci un prototipo e vedi."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il codice generato da AI Studio funziona offline al primo tentativo. Senza connessione. Nessun fix. Sembra magia, ma è un test che devi fare con le tue mani.",
+        "Ieri costruivo un’app per Android. Schermo da 6 pollici. Non uno schermo da sviluppatore, il mio telefono di tutti i giorni. In pochi minuti.",
+        "La svolta: build completa in AI Studio, export, installazione. Primo avvio, funziona. Zero errori. Zero dipendenze da cloud. Il codice è locale.",
+        "Ora il punto è: chi di voi non lo prova, lascia un vantaggio concreto a chi lo fa. Non tra un anno. Stamattina.",
+        "Apri AI Studio oggi. Costruisci un prototipo. Se non l’hai già fatto, inizia da questo task: genera un’app con un pulsante e un contatore. Poi giudica tu stesso."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apri Google AI Studio e in pochi minuti buildi un’app.",
+        "Funziona solo su schermi da 6 pollici.",
+        "Il codice generato parte offline, al primo tentativo.",
+        "Chi non prova ora perde terreno sui competitor.",
+        "Apri oggi, costruisci un prototipo e vedi."
+      ]
+    },
+    "instagram": {
+      "caption": "Il codice generato dall’AI Studio funziona offline al primo tentativo, senza connessione né correzioni 🤖. Google ha aperto a tutti la possibilità di costruire app Android in pochi minuti, anche da un normale telefono da 6 pollici 📱. L’export è immediato, zero errori e zero dipendenze dal cloud ⚡. Per chi lavora su prototipi, questo significa bypassare ore di debugging e test. Chi non prova oggi, lascia un vantaggio concreto a chi lo fa domani mattina 🧠. Apri AI Studio, genera un’app con un pulsante e un contatore: ci metti meno di quanto pensi."
+    }
+  },
+  "instagram_caption": "Il codice generato dall’AI Studio funziona offline al primo tentativo, senza connessione né correzioni 🤖. Google ha aperto a tutti la possibilità di costruire app Android in pochi minuti, anche da un normale telefono da 6 pollici 📱. L’export è immediato, zero errori e zero dipendenze dal cloud ⚡. Per chi lavora su prototipi, questo significa bypassare ore di debugging e test. Chi non prova oggi, lascia un vantaggio concreto a chi lo fa domani mattina 🧠. Apri AI Studio, genera un’app con un pulsante e un contatore: ci metti meno di quanto pensi.",
+  "carousel_slides": [
+    {
+      "hook": "Codice che funziona offline subito",
+      "description": "Il codice generato funziona offline al primo tentativo. Sembra magia, ma è un test da fare con le tue mani.",
+      "visual_hint": "codice che si accende",
+      "layout_type": "hero",
+      "icon": "check",
+      "image_query": "code on screen"
+    },
+    {
+      "hook": "Build su schermo da 6 pollici",
+      "description": "Ieri costruivo un'app su schermo da 6 pollici, non da sviluppatore. Il mio telefono di tutti i giorni.",
+      "visual_hint": "telefono con app in costruzione",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone home screen",
+      "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Zero errori, zero cloud",
+      "description": "Build completa in AI Studio, export, installazione. Primo avvio funziona. Zero errori. Codice locale.",
+      "visual_hint": "freccia da cloud a dispositivo",
+      "layout_type": "sensor-zoom",
+      "icon": "tag",
+      "image_query": "server rack",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Vantaggio concreto per chi prova ora",
+      "description": "Chi non prova ora lascia un vantaggio concreto a chi lo fa. Non tra un anno. Stamattina.",
+      "visual_hint": "corsa con cronometro",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person running track",
+      "image": "https://images.pexels.com/photos/8454917/pexels-photo-8454917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Apri AI Studio. Costruisci oggi",
+      "description": "Apri AI Studio oggi, costruisci un prototipo. Genera un'app con pulsante e contatore, poi giudica.",
+      "visual_hint": "dito che tocca 'crea'",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop open desk",
+      "image": "https://images.pexels.com/photos/7394021/pexels-photo-7394021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/08/Pixel-10-Pro-feat-.jpg?resize=1200,675",
+  "savedAt": "2026-05-19T20:03:15.098Z",
+  "sourceId": "8a8955bb3b4f2a881529b909564eddd0"
+}

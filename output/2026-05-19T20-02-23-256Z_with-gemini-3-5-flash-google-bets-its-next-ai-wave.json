@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "with-gemini-3-5-flash-google-bets-its-next-ai-wave",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+  "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+  "pubDate": "Tue, 19 May 2026 17:51:30 +0000",
+  "slides": [
+    "Google punta tutto sugli agenti con Gemini 3.5 Flash.",
+    "Non solo chatbot: agiscono per conto dell'utente.",
+    "Ma gli agenti falliscono senza un contesto preciso.",
+    "Chi progetta workflow evita l'obsolescenza immediata.",
+    "Testa un agente oggi per un task ripetitivo reale."
+  ],
+  "thread_text": [
+    "Il problema più grande degli agenti AI non è la tecnologia. È che senza un contesto preciso, falliscono. E falliscono male.",
+    "Google ha appena scommesso tutto su Gemini 3.5 Flash. Un modello pensato per agire, non solo per rispondere. Decide, esegue, completa.",
+    "Il punto è che un agente senza contesto è come un impiegato senza briefing. Fa cose a caso. E i risultati sono peggio di non aver fatto niente.",
+    "Chi progetta workflow sta già costruendo il contesto giusto per questi agenti. E chi lo fa oggi, non verrà sostituito tra sei mesi.",
+    "Esiste un task ripetitivo che odi fare ogni settimana. Prendi quello. Dagli contesto. E lascia che un agente lo faccia al posto tuo. Costa meno di un abbonamento Netflix."
+  ],
+  "video_script": [
+    "Gli agenti AI falliscono senza un contesto preciso.",
+    "Google punta tutto su Gemini 3.5 Flash.",
+    "Non solo chatbot: agiscono per te.",
+    "Se progetti il workflow, non sarai sostituito.",
+    "Testane uno oggi su un task ripetitivo."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il problema più grande degli agenti AI non è la tecnologia. È che senza un contesto preciso, falliscono. E falliscono male.",
+        "Google ha appena scommesso tutto su Gemini 3.5 Flash. Un modello pensato per agire, non solo per rispondere. Decide, esegue, completa.",
+        "Il punto è che un agente senza contesto è come un impiegato senza briefing. Fa cose a caso. E i risultati sono peggio di non aver fatto niente.",
+        "Chi progetta workflow sta già costruendo il contesto giusto per questi agenti. E chi lo fa oggi, non verrà sostituito tra sei mesi.",
+        "Esiste un task ripetitivo che odi fare ogni settimana. Prendi quello. Dagli contesto. E lascia che un agente lo faccia al posto tuo. Costa meno di un abbonamento Netflix."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Gli agenti AI falliscono senza un contesto preciso.",
+        "Google punta tutto su Gemini 3.5 Flash.",
+        "Non solo chatbot: agiscono per te.",
+        "Se progetti il workflow, non sarai sostituito.",
+        "Testane uno oggi su un task ripetitivo."
+      ]
+    },
+    "instagram": {
+      "caption": "Google ha rilasciato un modello di AI che non si limita a chattare: esegue compiti per conto tuo, come prenotare o compilare moduli. Si chiama Gemini 3.5 Flash e agisce come un assistente che decide e completa al posto tuo. Il problema? Senza istruzioni precise, sbaglia tutto. 🧠 Chi progetta workflow dettagliati oggi si tiene al sicuro domani. ⏳ Trova un task ripetitivo che odi, dagli un contesto chiaro e lascialo fare a lui. Cosa gli affideresti subito? ✍️"
+    }
+  },
+  "instagram_caption": "Google ha rilasciato un modello di AI che non si limita a chattare: esegue compiti per conto tuo, come prenotare o compilare moduli. Si chiama Gemini 3.5 Flash e agisce come un assistente che decide e completa al posto tuo. Il problema? Senza istruzioni precise, sbaglia tutto. 🧠 Chi progetta workflow dettagliati oggi si tiene al sicuro domani. ⏳ Trova un task ripetitivo che odi, dagli un contesto chiaro e lascialo fare a lui. Cosa gli affideresti subito? ✍️",
+  "carousel_slides": [
+    {
+      "hook": "Senza contesto, falliscono male.",
+      "description": "Il problema più grande degli agenti AI è che senza un contesto preciso falliscono. E falliscono male.",
+      "visual_hint": "Grafico a barre in caduta",
+      "layout_type": "hero",
+      "icon": "check",
+      "image_query": "stock market chart down"
+    },
+    {
+      "hook": "Agenti, non solo chatbot.",
+      "description": "Google ha scommesso su Gemini 3.5 Flash: un modello che decide, esegue e completa azioni per conto tuo.",
+      "visual_hint": "Manico di robot che preme un pulsante",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot arm",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Impiegato senza briefing.",
+      "description": "Un agente senza contesto è come un impiegato senza briefing: fa cose a caso, peggio di non fare nulla.",
+      "visual_hint": "Scrivania disordinata con fogli sparsi",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "messy office desk",
+      "image": "https://images.pexels.com/photos/8386570/pexels-photo-8386570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costruisci il contesto giusto.",
+      "description": "Chi progetta workflow oggi evita l'obsolescenza tra sei mesi. Il contesto è ciò che salva gli agenti.",
+      "visual_hint": "Diagramma di flusso su lavagna bianca",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "whiteboard flowchart",
+      "image": "https://images.pexels.com/photos/5668776/pexels-photo-5668776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Un task che odi fare.",
+      "description": "Prendi un task ripetitivo settimanale, dagli contesto e lascia che un agente lo faccia. Costa meno di Netflix.",
+      "visual_hint": "Icona Netflix barrata con check verde",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checkmark green icon",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_1192.jpg?resize=1200,900",
+  "savedAt": "2026-05-19T20:02:49.456Z",
+  "sourceId": "333d754287f2fbc807255815927d3236"
+}

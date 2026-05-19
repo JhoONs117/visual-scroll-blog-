@@ -1,0 +1,84 @@
+{
+  "agent": "food",
+  "slug": "pasta-con-crema-di-zucchine-e-caprino-al-limone-e-",
+  "sourceId": "64e95996ca721c384e7a32897f44615d",
+  "dish_type": "pasta",
+  "signature_ingredients": [
+    "zucchine",
+    "caprino",
+    "curcuma"
+  ],
+  "title": "Pasta con crema di zucchine e caprino al limone e curcuma",
+  "slides": [
+    "Pasta cremosa senza panna, leggera e sana",
+    "Fusilloni, zucchine, caprino, curcuma, pinoli",
+    "Frulla zucchine cotte con caprino e curcuma",
+    "Condisci la pasta con crema e zucchine saltate",
+    "Guarnisci con pinoli, scorza e menta"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Pasta cremosa senza panna",
+      "description": "Una pasta leggera e sana, avvolta da una crema vellutata di zucchine e caprino al limone e curcuma.",
+      "visual_hint": "Ciotola di pasta fumante",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "savory creamy zucchini pasta"
+    },
+    {
+      "hook": "Ingredienti essenziali",
+      "description": "Fusilloni, zucchine fresche, caprino cremoso, curcuma dorata, pinoli croccanti e scorza di limone.",
+      "visual_hint": "Ingredienti allineati",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "savory pasta ingredients bowl",
+      "image": "https://images.pexels.com/photos/17951098/pexels-photo-17951098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Frulla e crea la magia",
+      "description": "Frulla le zucchine cotte con caprino e curcuma fino a ottenere una crema liscia e profumata.",
+      "visual_hint": "Mani che frullano",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "zucchini goat cheese blending",
+      "image": "https://images.pexels.com/photos/6064810/pexels-photo-6064810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Condisci e salta",
+      "description": "Condisci la pasta al dente con la crema e aggiungi zucchine saltate in padella per un tocco rustico.",
+      "visual_hint": "Pasta saltata in padella",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "tossing pasta in pan",
+      "image": "https://images.pexels.com/photos/31094818/pexels-photo-31094818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il tocco finale",
+      "description": "Guarnisci con pinoli tostati, scorza di limone fresca e foglioline di menta per un piatto da chef.",
+      "visual_hint": "Piatto impiattato",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "savory pasta plate garnish",
+      "image": "https://images.pexels.com/photos/5507628/pexels-photo-5507628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "instagram_caption": "La crema più leggera che abbia mai assaggiato: niente panna, solo zucchine vellutate con caprino, un pizzico di curcuma per colore e aroma. I fusilloni si avvolgono in questa salsa setosa, mentre le zucchine saltate danno consistenza e i pinoli tostati fanno croccante. Finisco con scorza di limone e menta fresca, e il piatto vola via. Perfetta per una cena che sa di buono senza appesantire. Provala questo weekend 🌿🍋",
+  "video_script": [
+    "Fusilloni al dente, tieni da parte.",
+    "Frullo zucchine cotte, caprino e curcuma.",
+    "Scolo la pasta, mantecola con la crema.",
+    "Aggiungo zucchine saltate in padella.",
+    "Pinoli, scorza di limone e menta."
+  ],
+  "thread_text": [
+    "Un primo così cremoso che non crederai sia senza panna. Crema di zucchine, caprino e un pizzico di curcuma: il piatto che ti cambia la cena. 🍝",
+    "Fusilloni, zucchine, caprino, curcuma e pinoli. Bastano 5 ingredienti firmati per una pasta leggera, sana e dal colore pazzesco.",
+    "Cuoci le zucchine, poi frullale con caprino e curcuma. La crema viene vellutata, senza grassi aggiunti – solo gusto puro.",
+    "Condisci la pasta con la crema, aggiungi qualche zucchina saltata in padella per consistenza. Il segreto? Tenere da parte un po' di acqua di cottura.",
+    "Finisci con pinoli tostati, scorza di limone e menta fresca. Il tocco agrumato bilancia la dolcezza: ogni forchettata è una sorpresa. Provala e dimmi com'è andata 👇"
+  ],
+  "link": "https://ricette.giallozafferano.it/Pasta-con-crema-di-zucchine-e-caprino-al-limone-e-curcuma.html",
+  "pubDate": "Tue, 19 May 2026 11:30:00 +0200",
+  "savedAt": "2026-05-19T20:06:31.884Z",
+  "image": "https://www.giallozafferano.it/images/361-36184/Pasta-con-crema-di-zucchine-e-caprino-al-limone-e-curcuma_650x433_wm.jpg"
+}

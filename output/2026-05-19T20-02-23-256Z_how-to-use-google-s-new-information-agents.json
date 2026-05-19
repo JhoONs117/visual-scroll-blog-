@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-to-use-google-s-new-information-agents",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How to use Google’s new information agents",
+  "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
+  "pubDate": "Tue, 19 May 2026 17:50:00 +0000",
+  "slides": [
+    "Google’s new agents find what you missed?",
+    "They search across files, email, and the web for you",
+    "But they can’t decide what’s worth your attention yet",
+    "You now delegate discovery, not interpretation",
+    "Test one query today: see what you overlooked"
+  ],
+  "thread_text": [
+    "I nuovi agenti di Google cercano quello che hai perso. Il problema? Non sanno ancora cosa meriti davvero la tua attenzione.",
+    "Scansionano file, email e tutto il web per conto tuo. Ti segnalano tutto. Il rumore cresce, non diminuisce.",
+    "La svolta: ora deleghi la scoperta delle informazioni. Ma l'interpretazione resta tua — nessun AI sa ancora cosa è importante per te.",
+    "Il filtro non è più tecnologico, è umano. Più lo strumento è potente, più devi essere selettivo tu.",
+    "Provane uno oggi. Chiedigli qualcosa che hai cercato ieri e non hai trovato. Potresti scoprire cosa ti sei perso."
+  ],
+  "video_script": [
+    "Google cerca cose per te.",
+    "Ma non sa cosa conta.",
+    "Tu cerchi, lui setaccia.",
+    "Decidi ancora tu cosa è importante.",
+    "Provane uno oggi."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "I nuovi agenti di Google cercano quello che hai perso. Il problema? Non sanno ancora cosa meriti davvero la tua attenzione.",
+        "Scansionano file, email e tutto il web per conto tuo. Ti segnalano tutto. Il rumore cresce, non diminuisce.",
+        "La svolta: ora deleghi la scoperta delle informazioni. Ma l'interpretazione resta tua — nessun AI sa ancora cosa è importante per te.",
+        "Il filtro non è più tecnologico, è umano. Più lo strumento è potente, più devi essere selettivo tu.",
+        "Provane uno oggi. Chiedigli qualcosa che hai cercato ieri e non hai trovato. Potresti scoprire cosa ti sei perso."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google cerca cose per te.",
+        "Ma non sa cosa conta.",
+        "Tu cerchi, lui setaccia.",
+        "Decidi ancora tu cosa è importante.",
+        "Provane uno oggi."
+      ]
+    },
+    "instagram": {
+      "caption": "Google ha appena lanciato agenti che cercano per te su file, email e web quello che ti eri perso.  \nTi portano tutto—ma non sanno ancora cosa merita davvero la tua attenzione.  \nIl rumore cresce: ora decidi tu cosa filtrare.  \nPer il tuo lavoro significa meno tempo a scovare dati, più ore a scegliere cosa è importante.  \nHai mai chiesto a uno strumento cosa ti sei perso ieri? 🔍📧🗂️"
+    }
+  },
+  "instagram_caption": "Google ha appena lanciato agenti che cercano per te su file, email e web quello che ti eri perso.  \nTi portano tutto—ma non sanno ancora cosa merita davvero la tua attenzione.  \nIl rumore cresce: ora decidi tu cosa filtrare.  \nPer il tuo lavoro significa meno tempo a scovare dati, più ore a scegliere cosa è importante.  \nHai mai chiesto a uno strumento cosa ti sei perso ieri? 🔍📧🗂️",
+  "carousel_slides": [
+    {
+      "hook": "Sa cosa merita attenzione?",
+      "description": "I nuovi agenti Google trovano ciò che hai perso, ma non sanno cosa meriti davvero la tua attenzione.",
+      "visual_hint": "faretto su pagina confusa",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "search engine results"
+    },
+    {
+      "hook": "Scansionano tutto per te",
+      "description": "Cercano file, email e web. Ti segnalano tutto: il rumore cresce, non diminuisce.",
+      "visual_hint": "frecce che convergono",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scoperta delegata, non giudizio",
+      "description": "Deleghi la scoperta delle informazioni. Ma l'interpretazione resta umana: nessuna IA sa cosa è importante per te.",
+      "visual_hint": "cervello accanto a schermo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "brain scan screen",
+      "image": "https://images.pexels.com/photos/6011605/pexels-photo-6011605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il filtro sei tu",
+      "description": "Più lo strumento è potente, più devi essere selettivo. Il filtro non è tecnologico, è umano.",
+      "visual_hint": "mano che separa carte",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand sorting papers",
+      "image": "https://images.pexels.com/photos/8872719/pexels-photo-8872719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cosa ti sei perso?",
+      "description": "Provane uno oggi. Chiedi qualcosa cercato ieri e non trovato: potresti scoprire cosa hai trascurato.",
+      "visual_hint": "falla di memoria colmata",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "magnifying glass keyboard",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/G-information-agents.png?resize=1200,750",
+  "savedAt": "2026-05-19T20:03:02.057Z",
+  "sourceId": "be46860691f59b4686c2046c39fd0b54"
+}

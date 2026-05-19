@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "google-just-declared-itself-a-contender-in-ai-desi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google just declared itself a contender in AI design",
+      "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in/",
+      "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
+      "slides": [
+        "Google sfida chi dettava le regole del design AI?",
+        "Un nuovo framework unifica forma e funzionalità",
+        "Il modello scelto da DeepMind non è il più potente",
+        "Chi progetta interfacce ora dovrà ripensare tutto",
+        "Prova il tool e scopri cosa cambia nel tuo workflow"
+      ],
+      "thread_text": [
+        "DeepMind ha scelto un modello che non è il più potente per il suo nuovo tool. Ha senso solo se la potenza non è il vero obiettivo.",
+        "Il nuovo framework unifica forma e funzionalità. Significa che l'interfaccia non è più un guscio, ma parte integrante del ragionamento dell'AI.",
+        "Google sta riscrivendo le regole del design AI. Chi dettava legge fino a ieri (OpenAI, Anthropic) ora deve adattarsi o restare indietro.",
+        "Per chi progetta interfacce, niente è più come prima. Ogni schermata va ripensata: l'AI non è un plugin, è il sistema operativo.",
+        "Costa meno di un abbonamento Spotify. Testalo questa settimana sul progetto che stai rimandando da mesi."
+      ],
+      "video_script": [
+        "DeepMind ha scelto il modello sbagliato? No, ha scelto quello giusto per un motivo preciso.",
+        "Forma e funzionalità non sono più separate. Adesso l'interfaccia pensa con te.",
+        "Google ha cambiato le regole del design AI. Gli altri ora devono rincorrere.",
+        "Ogni progettista dovrà buttare via i vecchi manuali. L'AI non è più un extra.",
+        "Provare costa meno di un caffè. Inizia oggi e vedi la differenza."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "DeepMind ha scelto un modello che non è il più potente per il suo nuovo tool. Ha senso solo se la potenza non è il vero obiettivo.",
+            "Il nuovo framework unifica forma e funzionalità. Significa che l'interfaccia non è più un guscio, ma parte integrante del ragionamento dell'AI.",
+            "Google sta riscrivendo le regole del design AI. Chi dettava legge fino a ieri (OpenAI, Anthropic) ora deve adattarsi o restare indietro.",
+            "Per chi progetta interfacce, niente è più come prima. Ogni schermata va ripensata: l'AI non è un plugin, è il sistema operativo.",
+            "Costa meno di un abbonamento Spotify. Testalo questa settimana sul progetto che stai rimandando da mesi."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "DeepMind ha scelto il modello sbagliato? No, ha scelto quello giusto per un motivo preciso.",
+            "Forma e funzionalità non sono più separate. Adesso l'interfaccia pensa con te.",
+            "Google ha cambiato le regole del design AI. Gli altri ora devono rincorrere.",
+            "Ogni progettista dovrà buttare via i vecchi manuali. L'AI non è più un extra.",
+            "Provare costa meno di un caffè. Inizia oggi e vedi la differenza."
+          ]
+        },
+        "instagram": {
+          "caption": "DeepMind ha preso un modello AI non tra i più potenti e lo ha messo al centro del suo nuovo tool di design. 🎯 Il punto? Hanno creato un framework dove interfaccia e ragionamento dell’AI non sono più separati — forma e funzionalità diventano un’unica cosa. Questo significa che Google si candida a riscrivere le regole del gioco, sfidando chi finora dettava legge. 🧠 Per chi progetta interfacce, niente sarà più come prima: l’AI smette di essere un plugin e diventa il sistema operativo del tuo workflow. 🛠️ Hai già un progetto che rimandi da mesi? Forse è ora di testarlo."
+        }
+      },
+      "instagram_caption": "DeepMind ha preso un modello AI non tra i più potenti e lo ha messo al centro del suo nuovo tool di design. 🎯 Il punto? Hanno creato un framework dove interfaccia e ragionamento dell’AI non sono più separati — forma e funzionalità diventano un’unica cosa. Questo significa che Google si candida a riscrivere le regole del gioco, sfidando chi finora dettava legge. 🧠 Per chi progetta interfacce, niente sarà più come prima: l’AI smette di essere un plugin e diventa il sistema operativo del tuo workflow. 🛠️ Hai già un progetto che rimandi da mesi? Forse è ora di testarlo.",
+      "carousel_slides": [
+        {
+          "hook": "Il modello più potente? Non serve",
+          "description": "DeepMind ha scelto un modello non potente per il suo nuovo tool. La potenza non è il vero obiettivo.",
+          "visual_hint": "Contrasto tra due chip server",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "server chip circuit board"
+        },
+        {
+          "hook": "Forma e funzione ora sono una cosa sola",
+          "description": "Il nuovo framework unifica forma e funzionalità. L'interfaccia diventa parte integrante del ragionamento dell'AI.",
+          "visual_hint": "Cerchio diviso a metà che si riunisce",
+          "layout_type": "right-focus",
+          "icon": "heart",
+          "image_query": "gears connected puzzle",
+          "image": "https://images.pexels.com/photos/8386148/pexels-photo-8386148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Google riscrive le regole del design AI",
+          "description": "Google sfida chi dettava le regole (OpenAI, Anthropic). Ora devono adattarsi o restare indietro.",
+          "visual_hint": "Classifica che cambia con Google in testa",
+          "layout_type": "sensor-zoom",
+          "icon": "tag",
+          "image_query": "leaderboard podium",
+          "image": "https://images.pexels.com/photos/7267538/pexels-photo-7267538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ogni schermata va ripensata da zero",
+          "description": "Per chi progetta interfacce, niente è più come prima. L'AI non è un plugin, è il sistema operativo.",
+          "visual_hint": "Interfaccia scheletro con cuore AI",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand touching screen interface",
+          "image": "https://images.pexels.com/photos/10118517/pexels-photo-10118517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Provalo ora: costa meno di Spotify",
+          "description": "Testalo questa settimana sul progetto che rimandi da mesi. Costa meno di un abbonamento Spotify.",
+          "visual_hint": "Confronto prezzo Spotify vs tool",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone app comparison",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-pics.png?resize=1200,736",
+      "savedAt": "2026-05-19T20:03:28.471Z",
+      "sourceId": "584adb99087529d47120117215ef666c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-s-ai-studio-now-lets-anyone-build-android-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+      "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+      "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
+      "slides": [
+        "Google AI Studio builda app Android in minuti.",
+        "Ma solo su schermi da 6 pollici.",
+        "Il codice generato funziona offline al primo tentativo?",
+        "Chi non prova ora perde vantaggio su competitor.",
+        "Apri AI Studio oggi, costruisci un prototipo."
+      ],
+      "thread_text": [
+        "Il codice generato da AI Studio funziona offline al primo tentativo. Senza connessione. Nessun fix. Sembra magia, ma è un test che devi fare con le tue mani.",
+        "Ieri costruivo un’app per Android. Schermo da 6 pollici. Non uno schermo da sviluppatore, il mio telefono di tutti i giorni. In pochi minuti.",
+        "La svolta: build completa in AI Studio, export, installazione. Primo avvio, funziona. Zero errori. Zero dipendenze da cloud. Il codice è locale.",
+        "Ora il punto è: chi di voi non lo prova, lascia un vantaggio concreto a chi lo fa. Non tra un anno. Stamattina.",
+        "Apri AI Studio oggi. Costruisci un prototipo. Se non l’hai già fatto, inizia da questo task: genera un’app con un pulsante e un contatore. Poi giudica tu stesso."
+      ],
+      "video_script": [
+        "Apri Google AI Studio e in pochi minuti buildi un’app.",
+        "Funziona solo su schermi da 6 pollici.",
+        "Il codice generato parte offline, al primo tentativo.",
+        "Chi non prova ora perde terreno sui competitor.",
+        "Apri oggi, costruisci un prototipo e vedi."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Il codice generato da AI Studio funziona offline al primo tentativo. Senza connessione. Nessun fix. Sembra magia, ma è un test che devi fare con le tue mani.",
+            "Ieri costruivo un’app per Android. Schermo da 6 pollici. Non uno schermo da sviluppatore, il mio telefono di tutti i giorni. In pochi minuti.",
+            "La svolta: build completa in AI Studio, export, installazione. Primo avvio, funziona. Zero errori. Zero dipendenze da cloud. Il codice è locale.",
+            "Ora il punto è: chi di voi non lo prova, lascia un vantaggio concreto a chi lo fa. Non tra un anno. Stamattina.",
+            "Apri AI Studio oggi. Costruisci un prototipo. Se non l’hai già fatto, inizia da questo task: genera un’app con un pulsante e un contatore. Poi giudica tu stesso."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apri Google AI Studio e in pochi minuti buildi un’app.",
+            "Funziona solo su schermi da 6 pollici.",
+            "Il codice generato parte offline, al primo tentativo.",
+            "Chi non prova ora perde terreno sui competitor.",
+            "Apri oggi, costruisci un prototipo e vedi."
+          ]
+        },
+        "instagram": {
+          "caption": "Il codice generato dall’AI Studio funziona offline al primo tentativo, senza connessione né correzioni 🤖. Google ha aperto a tutti la possibilità di costruire app Android in pochi minuti, anche da un normale telefono da 6 pollici 📱. L’export è immediato, zero errori e zero dipendenze dal cloud ⚡. Per chi lavora su prototipi, questo significa bypassare ore di debugging e test. Chi non prova oggi, lascia un vantaggio concreto a chi lo fa domani mattina 🧠. Apri AI Studio, genera un’app con un pulsante e un contatore: ci metti meno di quanto pensi."
+        }
+      },
+      "instagram_caption": "Il codice generato dall’AI Studio funziona offline al primo tentativo, senza connessione né correzioni 🤖. Google ha aperto a tutti la possibilità di costruire app Android in pochi minuti, anche da un normale telefono da 6 pollici 📱. L’export è immediato, zero errori e zero dipendenze dal cloud ⚡. Per chi lavora su prototipi, questo significa bypassare ore di debugging e test. Chi non prova oggi, lascia un vantaggio concreto a chi lo fa domani mattina 🧠. Apri AI Studio, genera un’app con un pulsante e un contatore: ci metti meno di quanto pensi.",
+      "carousel_slides": [
+        {
+          "hook": "Codice che funziona offline subito",
+          "description": "Il codice generato funziona offline al primo tentativo. Sembra magia, ma è un test da fare con le tue mani.",
+          "visual_hint": "codice che si accende",
+          "layout_type": "hero",
+          "icon": "check",
+          "image_query": "code on screen"
+        },
+        {
+          "hook": "Build su schermo da 6 pollici",
+          "description": "Ieri costruivo un'app su schermo da 6 pollici, non da sviluppatore. Il mio telefono di tutti i giorni.",
+          "visual_hint": "telefono con app in costruzione",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone home screen",
+          "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Zero errori, zero cloud",
+          "description": "Build completa in AI Studio, export, installazione. Primo avvio funziona. Zero errori. Codice locale.",
+          "visual_hint": "freccia da cloud a dispositivo",
+          "layout_type": "sensor-zoom",
+          "icon": "tag",
+          "image_query": "server rack",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Vantaggio concreto per chi prova ora",
+          "description": "Chi non prova ora lascia un vantaggio concreto a chi lo fa. Non tra un anno. Stamattina.",
+          "visual_hint": "corsa con cronometro",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person running track",
+          "image": "https://images.pexels.com/photos/8454917/pexels-photo-8454917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Apri AI Studio. Costruisci oggi",
+          "description": "Apri AI Studio oggi, costruisci un prototipo. Genera un'app con pulsante e contatore, poi giudica.",
+          "visual_hint": "dito che tocca 'crea'",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop open desk",
+          "image": "https://images.pexels.com/photos/7394021/pexels-photo-7394021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/Pixel-10-Pro-feat-.jpg?resize=1200,675",
+      "savedAt": "2026-05-19T20:03:15.098Z",
+      "sourceId": "8a8955bb3b4f2a881529b909564eddd0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "how-to-use-google-s-new-information-agents",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "How to use Google’s new information agents",
+      "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
+      "pubDate": "Tue, 19 May 2026 17:50:00 +0000",
+      "slides": [
+        "Google’s new agents find what you missed?",
+        "They search across files, email, and the web for you",
+        "But they can’t decide what’s worth your attention yet",
+        "You now delegate discovery, not interpretation",
+        "Test one query today: see what you overlooked"
+      ],
+      "thread_text": [
+        "I nuovi agenti di Google cercano quello che hai perso. Il problema? Non sanno ancora cosa meriti davvero la tua attenzione.",
+        "Scansionano file, email e tutto il web per conto tuo. Ti segnalano tutto. Il rumore cresce, non diminuisce.",
+        "La svolta: ora deleghi la scoperta delle informazioni. Ma l'interpretazione resta tua — nessun AI sa ancora cosa è importante per te.",
+        "Il filtro non è più tecnologico, è umano. Più lo strumento è potente, più devi essere selettivo tu.",
+        "Provane uno oggi. Chiedigli qualcosa che hai cercato ieri e non hai trovato. Potresti scoprire cosa ti sei perso."
+      ],
+      "video_script": [
+        "Google cerca cose per te.",
+        "Ma non sa cosa conta.",
+        "Tu cerchi, lui setaccia.",
+        "Decidi ancora tu cosa è importante.",
+        "Provane uno oggi."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "I nuovi agenti di Google cercano quello che hai perso. Il problema? Non sanno ancora cosa meriti davvero la tua attenzione.",
+            "Scansionano file, email e tutto il web per conto tuo. Ti segnalano tutto. Il rumore cresce, non diminuisce.",
+            "La svolta: ora deleghi la scoperta delle informazioni. Ma l'interpretazione resta tua — nessun AI sa ancora cosa è importante per te.",
+            "Il filtro non è più tecnologico, è umano. Più lo strumento è potente, più devi essere selettivo tu.",
+            "Provane uno oggi. Chiedigli qualcosa che hai cercato ieri e non hai trovato. Potresti scoprire cosa ti sei perso."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google cerca cose per te.",
+            "Ma non sa cosa conta.",
+            "Tu cerchi, lui setaccia.",
+            "Decidi ancora tu cosa è importante.",
+            "Provane uno oggi."
+          ]
+        },
+        "instagram": {
+          "caption": "Google ha appena lanciato agenti che cercano per te su file, email e web quello che ti eri perso.  \nTi portano tutto—ma non sanno ancora cosa merita davvero la tua attenzione.  \nIl rumore cresce: ora decidi tu cosa filtrare.  \nPer il tuo lavoro significa meno tempo a scovare dati, più ore a scegliere cosa è importante.  \nHai mai chiesto a uno strumento cosa ti sei perso ieri? 🔍📧🗂️"
+        }
+      },
+      "instagram_caption": "Google ha appena lanciato agenti che cercano per te su file, email e web quello che ti eri perso.  \nTi portano tutto—ma non sanno ancora cosa merita davvero la tua attenzione.  \nIl rumore cresce: ora decidi tu cosa filtrare.  \nPer il tuo lavoro significa meno tempo a scovare dati, più ore a scegliere cosa è importante.  \nHai mai chiesto a uno strumento cosa ti sei perso ieri? 🔍📧🗂️",
+      "carousel_slides": [
+        {
+          "hook": "Sa cosa merita attenzione?",
+          "description": "I nuovi agenti Google trovano ciò che hai perso, ma non sanno cosa meriti davvero la tua attenzione.",
+          "visual_hint": "faretto su pagina confusa",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "search engine results"
+        },
+        {
+          "hook": "Scansionano tutto per te",
+          "description": "Cercano file, email e web. Ti segnalano tutto: il rumore cresce, non diminuisce.",
+          "visual_hint": "frecce che convergono",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scoperta delegata, non giudizio",
+          "description": "Deleghi la scoperta delle informazioni. Ma l'interpretazione resta umana: nessuna IA sa cosa è importante per te.",
+          "visual_hint": "cervello accanto a schermo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "brain scan screen",
+          "image": "https://images.pexels.com/photos/6011605/pexels-photo-6011605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il filtro sei tu",
+          "description": "Più lo strumento è potente, più devi essere selettivo. Il filtro non è tecnologico, è umano.",
+          "visual_hint": "mano che separa carte",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand sorting papers",
+          "image": "https://images.pexels.com/photos/8872719/pexels-photo-8872719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cosa ti sei perso?",
+          "description": "Provane uno oggi. Chiedi qualcosa cercato ieri e non trovato: potresti scoprire cosa hai trascurato.",
+          "visual_hint": "falla di memoria colmata",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "magnifying glass keyboard",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/G-information-agents.png?resize=1200,750",
+      "savedAt": "2026-05-19T20:03:02.057Z",
+      "sourceId": "be46860691f59b4686c2046c39fd0b54"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "with-gemini-3-5-flash-google-bets-its-next-ai-wave",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+      "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "pubDate": "Tue, 19 May 2026 17:51:30 +0000",
+      "slides": [
+        "Google punta tutto sugli agenti con Gemini 3.5 Flash.",
+        "Non solo chatbot: agiscono per conto dell'utente.",
+        "Ma gli agenti falliscono senza un contesto preciso.",
+        "Chi progetta workflow evita l'obsolescenza immediata.",
+        "Testa un agente oggi per un task ripetitivo reale."
+      ],
+      "thread_text": [
+        "Il problema più grande degli agenti AI non è la tecnologia. È che senza un contesto preciso, falliscono. E falliscono male.",
+        "Google ha appena scommesso tutto su Gemini 3.5 Flash. Un modello pensato per agire, non solo per rispondere. Decide, esegue, completa.",
+        "Il punto è che un agente senza contesto è come un impiegato senza briefing. Fa cose a caso. E i risultati sono peggio di non aver fatto niente.",
+        "Chi progetta workflow sta già costruendo il contesto giusto per questi agenti. E chi lo fa oggi, non verrà sostituito tra sei mesi.",
+        "Esiste un task ripetitivo che odi fare ogni settimana. Prendi quello. Dagli contesto. E lascia che un agente lo faccia al posto tuo. Costa meno di un abbonamento Netflix."
+      ],
+      "video_script": [
+        "Gli agenti AI falliscono senza un contesto preciso.",
+        "Google punta tutto su Gemini 3.5 Flash.",
+        "Non solo chatbot: agiscono per te.",
+        "Se progetti il workflow, non sarai sostituito.",
+        "Testane uno oggi su un task ripetitivo."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Il problema più grande degli agenti AI non è la tecnologia. È che senza un contesto preciso, falliscono. E falliscono male.",
+            "Google ha appena scommesso tutto su Gemini 3.5 Flash. Un modello pensato per agire, non solo per rispondere. Decide, esegue, completa.",
+            "Il punto è che un agente senza contesto è come un impiegato senza briefing. Fa cose a caso. E i risultati sono peggio di non aver fatto niente.",
+            "Chi progetta workflow sta già costruendo il contesto giusto per questi agenti. E chi lo fa oggi, non verrà sostituito tra sei mesi.",
+            "Esiste un task ripetitivo che odi fare ogni settimana. Prendi quello. Dagli contesto. E lascia che un agente lo faccia al posto tuo. Costa meno di un abbonamento Netflix."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Gli agenti AI falliscono senza un contesto preciso.",
+            "Google punta tutto su Gemini 3.5 Flash.",
+            "Non solo chatbot: agiscono per te.",
+            "Se progetti il workflow, non sarai sostituito.",
+            "Testane uno oggi su un task ripetitivo."
+          ]
+        },
+        "instagram": {
+          "caption": "Google ha rilasciato un modello di AI che non si limita a chattare: esegue compiti per conto tuo, come prenotare o compilare moduli. Si chiama Gemini 3.5 Flash e agisce come un assistente che decide e completa al posto tuo. Il problema? Senza istruzioni precise, sbaglia tutto. 🧠 Chi progetta workflow dettagliati oggi si tiene al sicuro domani. ⏳ Trova un task ripetitivo che odi, dagli un contesto chiaro e lascialo fare a lui. Cosa gli affideresti subito? ✍️"
+        }
+      },
+      "instagram_caption": "Google ha rilasciato un modello di AI che non si limita a chattare: esegue compiti per conto tuo, come prenotare o compilare moduli. Si chiama Gemini 3.5 Flash e agisce come un assistente che decide e completa al posto tuo. Il problema? Senza istruzioni precise, sbaglia tutto. 🧠 Chi progetta workflow dettagliati oggi si tiene al sicuro domani. ⏳ Trova un task ripetitivo che odi, dagli un contesto chiaro e lascialo fare a lui. Cosa gli affideresti subito? ✍️",
+      "carousel_slides": [
+        {
+          "hook": "Senza contesto, falliscono male.",
+          "description": "Il problema più grande degli agenti AI è che senza un contesto preciso falliscono. E falliscono male.",
+          "visual_hint": "Grafico a barre in caduta",
+          "layout_type": "hero",
+          "icon": "check",
+          "image_query": "stock market chart down"
+        },
+        {
+          "hook": "Agenti, non solo chatbot.",
+          "description": "Google ha scommesso su Gemini 3.5 Flash: un modello che decide, esegue e completa azioni per conto tuo.",
+          "visual_hint": "Manico di robot che preme un pulsante",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "factory robot arm",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Impiegato senza briefing.",
+          "description": "Un agente senza contesto è come un impiegato senza briefing: fa cose a caso, peggio di non fare nulla.",
+          "visual_hint": "Scrivania disordinata con fogli sparsi",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "messy office desk",
+          "image": "https://images.pexels.com/photos/8386570/pexels-photo-8386570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costruisci il contesto giusto.",
+          "description": "Chi progetta workflow oggi evita l'obsolescenza tra sei mesi. Il contesto è ciò che salva gli agenti.",
+          "visual_hint": "Diagramma di flusso su lavagna bianca",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "whiteboard flowchart",
+          "image": "https://images.pexels.com/photos/5668776/pexels-photo-5668776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Un task che odi fare.",
+          "description": "Prendi un task ripetitivo settimanale, dagli contesto e lascia che un agente lo faccia. Costa meno di Netflix.",
+          "visual_hint": "Icona Netflix barrata con check verde",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checkmark green icon",
+          "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_1192.jpg?resize=1200,900",
+      "savedAt": "2026-05-19T20:02:49.456Z",
+      "sourceId": "333d754287f2fbc807255815927d3236"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ai-is-a-matter-of-power-infrastructure-and-securit",
       "prompt_version": "1.0.0",
       "status": "approved",
@@ -20888,6 +21304,90 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "agent": "food",
+      "slug": "pasta-con-crema-di-zucchine-e-caprino-al-limone-e-",
+      "sourceId": "64e95996ca721c384e7a32897f44615d",
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "zucchine",
+        "caprino",
+        "curcuma"
+      ],
+      "title": "Pasta con crema di zucchine e caprino al limone e curcuma",
+      "slides": [
+        "Pasta cremosa senza panna, leggera e sana",
+        "Fusilloni, zucchine, caprino, curcuma, pinoli",
+        "Frulla zucchine cotte con caprino e curcuma",
+        "Condisci la pasta con crema e zucchine saltate",
+        "Guarnisci con pinoli, scorza e menta"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta cremosa senza panna",
+          "description": "Una pasta leggera e sana, avvolta da una crema vellutata di zucchine e caprino al limone e curcuma.",
+          "visual_hint": "Ciotola di pasta fumante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory creamy zucchini pasta"
+        },
+        {
+          "hook": "Ingredienti essenziali",
+          "description": "Fusilloni, zucchine fresche, caprino cremoso, curcuma dorata, pinoli croccanti e scorza di limone.",
+          "visual_hint": "Ingredienti allineati",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory pasta ingredients bowl",
+          "image": "https://images.pexels.com/photos/17951098/pexels-photo-17951098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Frulla e crea la magia",
+          "description": "Frulla le zucchine cotte con caprino e curcuma fino a ottenere una crema liscia e profumata.",
+          "visual_hint": "Mani che frullano",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "zucchini goat cheese blending",
+          "image": "https://images.pexels.com/photos/6064810/pexels-photo-6064810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Condisci e salta",
+          "description": "Condisci la pasta al dente con la crema e aggiungi zucchine saltate in padella per un tocco rustico.",
+          "visual_hint": "Pasta saltata in padella",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "tossing pasta in pan",
+          "image": "https://images.pexels.com/photos/31094818/pexels-photo-31094818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tocco finale",
+          "description": "Guarnisci con pinoli tostati, scorza di limone fresca e foglioline di menta per un piatto da chef.",
+          "visual_hint": "Piatto impiattato",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pasta plate garnish",
+          "image": "https://images.pexels.com/photos/5507628/pexels-photo-5507628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "instagram_caption": "La crema più leggera che abbia mai assaggiato: niente panna, solo zucchine vellutate con caprino, un pizzico di curcuma per colore e aroma. I fusilloni si avvolgono in questa salsa setosa, mentre le zucchine saltate danno consistenza e i pinoli tostati fanno croccante. Finisco con scorza di limone e menta fresca, e il piatto vola via. Perfetta per una cena che sa di buono senza appesantire. Provala questo weekend 🌿🍋",
+      "video_script": [
+        "Fusilloni al dente, tieni da parte.",
+        "Frullo zucchine cotte, caprino e curcuma.",
+        "Scolo la pasta, mantecola con la crema.",
+        "Aggiungo zucchine saltate in padella.",
+        "Pinoli, scorza di limone e menta."
+      ],
+      "thread_text": [
+        "Un primo così cremoso che non crederai sia senza panna. Crema di zucchine, caprino e un pizzico di curcuma: il piatto che ti cambia la cena. 🍝",
+        "Fusilloni, zucchine, caprino, curcuma e pinoli. Bastano 5 ingredienti firmati per una pasta leggera, sana e dal colore pazzesco.",
+        "Cuoci le zucchine, poi frullale con caprino e curcuma. La crema viene vellutata, senza grassi aggiunti – solo gusto puro.",
+        "Condisci la pasta con la crema, aggiungi qualche zucchina saltata in padella per consistenza. Il segreto? Tenere da parte un po' di acqua di cottura.",
+        "Finisci con pinoli tostati, scorza di limone e menta fresca. Il tocco agrumato bilancia la dolcezza: ogni forchettata è una sorpresa. Provala e dimmi com'è andata 👇"
+      ],
+      "link": "https://ricette.giallozafferano.it/Pasta-con-crema-di-zucchine-e-caprino-al-limone-e-curcuma.html",
+      "pubDate": "Tue, 19 May 2026 11:30:00 +0200",
+      "savedAt": "2026-05-19T20:06:31.884Z",
+      "image": "https://www.giallozafferano.it/images/361-36184/Pasta-con-crema-di-zucchine-e-caprino-al-limone-e-curcuma_650x433_wm.jpg"
+    },
     {
       "agent": "food",
       "slug": "pasta-alla-strombolana",

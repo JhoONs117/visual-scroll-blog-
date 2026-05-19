@@ -1,6 +1,90 @@
 window.FOOD_ARTICLES = [
   {
     "agent": "food",
+    "slug": "pasta-con-crema-di-zucchine-e-caprino-al-limone-e-",
+    "sourceId": "64e95996ca721c384e7a32897f44615d",
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "zucchine",
+      "caprino",
+      "curcuma"
+    ],
+    "title": "Pasta con crema di zucchine e caprino al limone e curcuma",
+    "slides": [
+      "Pasta cremosa senza panna, leggera e sana",
+      "Fusilloni, zucchine, caprino, curcuma, pinoli",
+      "Frulla zucchine cotte con caprino e curcuma",
+      "Condisci la pasta con crema e zucchine saltate",
+      "Guarnisci con pinoli, scorza e menta"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta cremosa senza panna",
+        "description": "Una pasta leggera e sana, avvolta da una crema vellutata di zucchine e caprino al limone e curcuma.",
+        "visual_hint": "Ciotola di pasta fumante",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory creamy zucchini pasta"
+      },
+      {
+        "hook": "Ingredienti essenziali",
+        "description": "Fusilloni, zucchine fresche, caprino cremoso, curcuma dorata, pinoli croccanti e scorza di limone.",
+        "visual_hint": "Ingredienti allineati",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta ingredients bowl",
+        "image": "https://images.pexels.com/photos/17951098/pexels-photo-17951098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Frulla e crea la magia",
+        "description": "Frulla le zucchine cotte con caprino e curcuma fino a ottenere una crema liscia e profumata.",
+        "visual_hint": "Mani che frullano",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "zucchini goat cheese blending",
+        "image": "https://images.pexels.com/photos/6064810/pexels-photo-6064810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Condisci e salta",
+        "description": "Condisci la pasta al dente con la crema e aggiungi zucchine saltate in padella per un tocco rustico.",
+        "visual_hint": "Pasta saltata in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "tossing pasta in pan",
+        "image": "https://images.pexels.com/photos/31094818/pexels-photo-31094818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tocco finale",
+        "description": "Guarnisci con pinoli tostati, scorza di limone fresca e foglioline di menta per un piatto da chef.",
+        "visual_hint": "Piatto impiattato",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory pasta plate garnish",
+        "image": "https://images.pexels.com/photos/5507628/pexels-photo-5507628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "instagram_caption": "La crema più leggera che abbia mai assaggiato: niente panna, solo zucchine vellutate con caprino, un pizzico di curcuma per colore e aroma. I fusilloni si avvolgono in questa salsa setosa, mentre le zucchine saltate danno consistenza e i pinoli tostati fanno croccante. Finisco con scorza di limone e menta fresca, e il piatto vola via. Perfetta per una cena che sa di buono senza appesantire. Provala questo weekend 🌿🍋",
+    "video_script": [
+      "Fusilloni al dente, tieni da parte.",
+      "Frullo zucchine cotte, caprino e curcuma.",
+      "Scolo la pasta, mantecola con la crema.",
+      "Aggiungo zucchine saltate in padella.",
+      "Pinoli, scorza di limone e menta."
+    ],
+    "thread_text": [
+      "Un primo così cremoso che non crederai sia senza panna. Crema di zucchine, caprino e un pizzico di curcuma: il piatto che ti cambia la cena. 🍝",
+      "Fusilloni, zucchine, caprino, curcuma e pinoli. Bastano 5 ingredienti firmati per una pasta leggera, sana e dal colore pazzesco.",
+      "Cuoci le zucchine, poi frullale con caprino e curcuma. La crema viene vellutata, senza grassi aggiunti – solo gusto puro.",
+      "Condisci la pasta con la crema, aggiungi qualche zucchina saltata in padella per consistenza. Il segreto? Tenere da parte un po' di acqua di cottura.",
+      "Finisci con pinoli tostati, scorza di limone e menta fresca. Il tocco agrumato bilancia la dolcezza: ogni forchettata è una sorpresa. Provala e dimmi com'è andata 👇"
+    ],
+    "link": "https://ricette.giallozafferano.it/Pasta-con-crema-di-zucchine-e-caprino-al-limone-e-curcuma.html",
+    "pubDate": "Tue, 19 May 2026 11:30:00 +0200",
+    "savedAt": "2026-05-19T20:06:31.884Z",
+    "image": "https://www.giallozafferano.it/images/361-36184/Pasta-con-crema-di-zucchine-e-caprino-al-limone-e-curcuma_650x433_wm.jpg"
+  },
+  {
+    "agent": "food",
     "slug": "pasta-alla-strombolana",
     "sourceId": "12b834be7f56b3c2fbff65f6accc5238",
     "dish_type": "pasta",
@@ -253,7 +337,7 @@ window.FOOD_ARTICLES = [
     "status": "draft"
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "food",
     "slug": "risotto-zucchine-e-salsiccia",
     "prompt_version": "1.0.0",
@@ -291,6 +375,13 @@ window.FOOD_ARTICLES = [
           "Quando il riso è al dente, spegni, manteca con burro e parmigiano. La cremosità arriva dalla doppia zucchina. Assaggia: la salsiccia si sposa con la dolcezza vegetale.",
           "Metti in piatto e guarnisci con le zucchine fritte croccanti e qualche foglia di timo. Questo contrasto caldo-croccante vince sempre. Provala e fammi sapere nei commenti."
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -361,10 +452,20 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/361-36122/Risotto-zucchine-e-salsiccia_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:55:40.208Z",
-    "sourceId": "19cebe732fcd6729d540dbe576cb1875"
+    "sourceId": "19cebe732fcd6729d540dbe576cb1875",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "food",
     "slug": "pasta-zucchine-speck-e-gorgonzola",
     "prompt_version": "1.0.0",
@@ -402,6 +503,13 @@ window.FOOD_ARTICLES = [
           "Nella stessa padella, fai saltare le zucchine a julienne. Sfuma con un mestolo di acqua di cottura, unisci il gorgonzola a pezzi e mescola fino a scioglierlo. Cremoso senza panna.",
           "Trucco finale: usa gorgonzola dolce, non piccante. La cremosità è perfetta, e non copre il gusto dello speck. Provala e dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -472,10 +580,20 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/361-36124/Pasta-zucchine-speck-e-gorgonzola_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:55:39.397Z",
-    "sourceId": "a68b85e77cf93283390abce9c0f4de86"
+    "sourceId": "a68b85e77cf93283390abce9c0f4de86",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "food",
     "slug": "spaghetti-con-crema-di-cipollotti-e-taleggio",
     "prompt_version": "1.0.0",
@@ -513,6 +631,13 @@ window.FOOD_ARTICLES = [
           "Cuoci gli spaghetti al dente, salta in padella col bianco rosolato. Aggiungi la crema verde verde e un po’ d’acqua di cottura. Fuoco vivace, mestolo che balla.",
           "Spegni e manteca col taleggio a cubetti: diventa velluto. Impiatta, menta fresca spezzata sopra, un filo d’olio. Pronto? Provala e dimmi com’è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -583,10 +708,20 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/361-36139/Spaghetti-con-crema-di-cipollotti-e-taleggio_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:55:38.399Z",
-    "sourceId": "b9e47583504bae7fddb19f4c5ce7621a"
+    "sourceId": "b9e47583504bae7fddb19f4c5ce7621a",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "food",
     "slug": "pasta-con-porri-pecorino-e-pancetta",
     "prompt_version": "1.0.0",
@@ -624,6 +759,13 @@ window.FOOD_ARTICLES = [
           "Cuoci la pasta al dente e trasferiscila nella padella coi porri. Aggiungi l'acqua di cottura e il pecorino grattugiato: mescola fino a crema. La magia è lì.",
           "Impiatta, finisci con la pancetta croccante tenuta da parte e una spolverata di pecorino. Se non hai ancora fame, ricontrolla. Provala e fammi sapere👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -694,10 +836,20 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/361-36119/Pasta-con-porri-pecorino-e-pancetta_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:45:53.422Z",
-    "sourceId": "395c33e805d677f4f3923535aa158fb7"
+    "sourceId": "395c33e805d677f4f3923535aa158fb7",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "food",
     "slug": "pasta-con-melanzane-in-bianco-cremosa",
     "prompt_version": "1.0.0",
@@ -735,6 +887,13 @@ window.FOOD_ARTICLES = [
           "Quando sono cotte, frullane una parte con un mestolo di acqua di cottura della pasta fino a ottenere una crema liscia e vellutata. Scola i fusilloni al dente e mantecali in padella con quella crema. Il Parmigiano ci entra dopo, a fiamma spenta, per non stravolgere la dolcezza.",
           "Impiatta con una manciata di menta fresca spezzettata e una spolverata di Parmigiano. Il segreto? Non cuocere mai la menta, resta cruda e regala un sorso di freschezza a ogni boccone. Provala e fammi sapere se le tue papille hanno pianto di gioia 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -805,10 +964,20 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/361-36125/Pasta-con-melanzane-in-bianco-cremosa_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:45:52.438Z",
-    "sourceId": "3cc708f32ca006c9dd41a7f41144e0fa"
+    "sourceId": "3cc708f32ca006c9dd41a7f41144e0fa",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "food",
     "slug": "torta-con-fragole-e-cioccolato-bianco",
     "prompt_version": "1.0.0",
@@ -846,6 +1015,13 @@ window.FOOD_ARTICLES = [
           "Cuoci la base, poi assembla: alterna strati di crema al cioccolato bianco, panna montata e fragole fresche. In frigo per 4-5 ore, e la magia si compie.",
           "Prima di servire, spolvera con zucchero a velo. Sembra difficile ma è facile: provala e poi fammi sapere com’è andata, che ne dici? 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -916,10 +1092,20 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/361-36144/Torta-con-fragole-e-cioccolato-bianco_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:45:51.009Z",
-    "sourceId": "303c3dd093e34eed4573db81cbeb792d"
+    "sourceId": "303c3dd093e34eed4573db81cbeb792d",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "food",
     "slug": "pasta-frolla-al-caff-",
     "prompt_version": "1.0.0",
@@ -957,6 +1143,13 @@ window.FOOD_ARTICLES = [
           "30 minuti di frigo e la frolla è pronta. Stendila e usala per crostate, biscotti o basi. In forno sprigiona tutto l'aroma.",
           "Conservala in frigo 3-4 giorni o congelala già pronta. Io la uso per una crostata con crema al mascarpone. Provala e fammi sapere 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1027,10 +1220,20 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/361-36149/Pasta-frolla-al-caffe_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:41:53.688Z",
-    "sourceId": "733d811ba5b587d48d899e3ad2f62f75"
+    "sourceId": "733d811ba5b587d48d899e3ad2f62f75",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "food",
     "slug": "pasta-al-forno-alla-siciliana",
     "prompt_version": "1.0.0",
@@ -1068,6 +1271,13 @@ window.FOOD_ARTICLES = [
           "Poi condisci la pasta, aggiungi la scamorza a tocchetti, il parmigiano e inforna fino a gratinatura. Il profumo ti stende in un secondo.",
           "Lasciarla riposare 10 minuti prima di servirla: i sapori si fondono e non scotta. Provala e dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1138,10 +1348,20 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/361-36162/Pasta-al-forno-alla-siciliana_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:41:33.540Z",
-    "sourceId": "9e9b8ac0edbce3f019f05da05ec4af87"
+    "sourceId": "9e9b8ac0edbce3f019f05da05ec4af87",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "food",
     "slug": "torta-salata-primaverile-vegana",
     "prompt_version": "1.0.0",
@@ -1179,6 +1399,13 @@ window.FOOD_ARTICLES = [
           "Dopo il forno la superficie è dorata e il profumo è pazzesco. Il trucco adesso: decora con le punte di asparagi crudi e qualche anello di cipolla rossa fresca. Dà croccantezza e colore, e la differenza si vede — e si sente.",
           "Lascia intiepidire almeno 10 minuti prima di tagliarla. Fredda è ancora più buona. La prossima volta che hai voglia di una torta salata leggera ma appagante, fai così. Se la provi, fammi sapere nei commenti 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1249,10 +1476,20 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/361-36163/Torta-salata-primaverile-vegana_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:41:11.311Z",
-    "sourceId": "dfce00af8648940d9124d830837c8738"
+    "sourceId": "dfce00af8648940d9124d830837c8738",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "food",
     "slug": "risotto-piselli-crescenza-e-pancetta-croccante",
     "prompt_version": "1.0.0",
@@ -1290,6 +1527,13 @@ window.FOOD_ARTICLES = [
           "A cottura ultimata, manteca con una noce di crescenza e Parmigiano. Fuori dal fuoco, la cremosità esplode. Poi assembli: riso, crescenza a tocchetti, piselli interi, e pancetta croccante sbriciolata sopra.",
           "Il segreto? La pancetta falla diventare croccante in padella senza olio — il grasso che rilascia è puro sapore. Dopo averla usata come guarnizione, prendi il risotto, chiudi gli occhi e goditi il contrasto. Provala e fammi sapere 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1360,10 +1604,20 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/360-36089/Risotto-piselli-crescenza-e-pancetta-croccante_650x433_wm.jpg",
     "savedAt": "2026-05-14T15:01:32.815Z",
-    "sourceId": "28c4dca21ca942b6eee9f7c8922f4708"
+    "sourceId": "28c4dca21ca942b6eee9f7c8922f4708",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "food",
     "slug": "zuppa-di-fagioli-e-cozze",
     "prompt_version": "1.0.0",
@@ -1401,6 +1655,13 @@ window.FOOD_ARTICLES = [
           "Ora il colpo di genio: frulla metà dei fagioli con l’acqua di cottura delle cozze. Ottieni una crema vellutata che lega tutto il piatto senza appesantire. Unisci poi il resto dei fagioli, i pomodori spezzettati e le cozze sgusciate. Lascia sobbollire 5 minuti.",
           "Tocco finale? Una manciata di prezzemolo fresco tritato e crostoni di pane abbrustoliti, unti con olio crudo. Impiatta con le cozze in superficie. Vuoi un consiglio? Usa un pane rustico e lascialo affondare un po’ nella crema. Provala e dimmi com’è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1471,10 +1732,20 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/360-36091/Zuppa-di-fagioli-e-cozze_650x433_wm.jpg",
     "savedAt": "2026-05-14T14:56:38.447Z",
-    "sourceId": "45fe1c8c9257d22f3b2dcd5030a630be"
+    "sourceId": "45fe1c8c9257d22f3b2dcd5030a630be",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "food",
     "slug": "bocconcini-di-pollo-alla-mediterranea",
     "prompt_version": "1.0.0",
@@ -1512,6 +1783,13 @@ window.FOOD_ARTICLES = [
           "Butti dentro i pomodorini tagliati a metà, le olive, i capperi e l'aglio schiacciato. Giri, fai insaporire 5 minuti, poi togli l'aglio. Pronto.",
           "Il trucco? Un goccio di acqua di cottura della pasta per mantecare e servire con del prezzemolo fresco. Provala e dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1582,10 +1860,20 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/361-36168/Bocconcini-di-pollo-alla-mediterranea_650x433_wm.jpg",
     "savedAt": "2026-05-14T14:53:46.406Z",
-    "sourceId": "77b971a7cb7a0c9a1a09085e1c1230b2"
+    "sourceId": "77b971a7cb7a0c9a1a09085e1c1230b2",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "food",
     "slug": "pasta-con-fiori-di-zucca-e-alici",
     "prompt_version": "1.0.0",
@@ -1623,6 +1911,13 @@ window.FOOD_ARTICLES = [
           "Saltali in padella con aglio e alici sciolte nell’olio, poi manteca con acqua di cottura a fiamma vivace. Sarà vellutata.",
           "Grattugia scorza di limone fresco prima di servire. Quella sferzata agrumata fa la differenza. Provala e dimmi com’è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1693,10 +1988,20 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/361-36171/Pasta-con-fiori-di-zucca-e-alici_650x433_wm.jpg",
     "savedAt": "2026-05-14T14:53:10.041Z",
-    "sourceId": "5248cbef97fc64cc3aa318c78005047d"
+    "sourceId": "5248cbef97fc64cc3aa318c78005047d",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "food",
     "slug": "torta-2-ingredienti",
     "prompt_version": "1.0.0",
@@ -1734,6 +2039,13 @@ window.FOOD_ARTICLES = [
           "Versa il composto in una ciotola o in uno stampo foderato di pellicola. Lascia raffreddare a temperatura ambiente, poi metti in frigo per almeno 3 ore. Il risultato è una crema densa, setosa, che si taglia come una torta ma si scioglie in bocca.",
           "Il trucco: prima di servire, spolvera con cacao amaro setacciato — toglie l’eccesso di dolce e fa esplodere il gusto. Puoi decorare con scaglie di cioccolato o una manciata di sale grosso. Provatela e fatemi sapere nei commenti 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1804,10 +2116,20 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/361-36174/Torta-2-ingredienti_650x433_wm.jpg",
     "savedAt": "2026-05-14T14:49:43.139Z",
-    "sourceId": "4dff87d4e172b41438f75023bc536266"
+    "sourceId": "4dff87d4e172b41438f75023bc536266",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
-    "schema_version": 2,
+    "schema_version": 3,
     "agent": "food",
     "slug": "pasta-al-forno-con-salsiccia-e-piselli",
     "prompt_version": "1.0.0",
@@ -1845,6 +2167,13 @@ window.FOOD_ARTICLES = [
           "Alterna gli strati come se fosse una lasagna, finisci con una cucchiaiata di besciamella e mozzarella a coprire tutto. In forno a 200°C per 20 minuti, poi 5 di grill per la crosticina. La parte più difficile? Non mangiarla appena sfornata, perché brucia. Fidati.",
           "Il trucco: dopo il grill, lasciala riposare 10 minuti. Sembra una perdita di tempo, ma è qui che la pasta assorbe i liquidi e diventa vellutata, non brodosa. Taglia la fetta e vedrai che compattezza. Provala e dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "video_script": [
@@ -1915,7 +2244,17 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/361-36172/Pasta-al-forno-con-salsiccia-e-piselli_650x433_wm.jpg",
     "savedAt": "2026-05-14T14:44:46.658Z",
-    "sourceId": "38a68c5a500f69b93c330ee50d00c0a4"
+    "sourceId": "38a68c5a500f69b93c330ee50d00c0a4",
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
     "agent": "food",
@@ -2000,7 +2339,7 @@ window.FOOD_ARTICLES = [
     "pubDate": "Tue, 14 Apr 2026 10:11:00 +0200",
     "savedAt": "2026-05-12T19:33:46.360Z",
     "image": "https://www.giallozafferano.it/images/360-36073/Pasta-con-agretti-e-colatura-di-alici_650x433_wm.jpg",
-    "schema_version": 2,
+    "schema_version": 3,
     "prompt_version": "1.0.0",
     "status": "draft",
     "formats": {
@@ -2070,13 +2409,30 @@ window.FOOD_ARTICLES = [
           "Manteco con colatura di alici e acqua.",
           "Impiato con scorza di limone e croccante."
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "metrics": {
       "x": {},
       "instagram": {},
       "tiktok": {}
-    }
+    },
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
     "agent": "food",
@@ -2161,7 +2517,7 @@ window.FOOD_ARTICLES = [
     "pubDate": "Fri, 17 Apr 2026 11:51:00 +0200",
     "savedAt": "2026-05-12T14:01:38.802Z",
     "image": "https://www.giallozafferano.it/images/360-36092/Pasta-sarde-pomodorini-e-pangrattato_650x433_wm.jpg",
-    "schema_version": 2,
+    "schema_version": 3,
     "prompt_version": "1.0.0",
     "status": "draft",
     "formats": {
@@ -2231,13 +2587,30 @@ window.FOOD_ARTICLES = [
           "Cospargo pangrattato tostato e peperoncino.",
           "Pasta pronta, buon appetito!"
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "metrics": {
       "x": {},
       "instagram": {},
       "tiktok": {}
-    }
+    },
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
     "agent": "food",
@@ -2322,7 +2695,7 @@ window.FOOD_ARTICLES = [
     "pubDate": "Wed, 22 Apr 2026 11:30:00 +0200",
     "savedAt": "2026-05-12T14:01:10.892Z",
     "image": "https://www.giallozafferano.it/images/360-36081/Pasta-e-piselli-con-pancetta_650x433_wm.jpg",
-    "schema_version": 2,
+    "schema_version": 3,
     "prompt_version": "1.0.0",
     "status": "draft",
     "formats": {
@@ -2392,13 +2765,30 @@ window.FOOD_ARTICLES = [
           "Risotta la pasta con il brodo di baccelli.",
           "Fuori dal fuoco: piselli, menta e olio crudo."
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "metrics": {
       "x": {},
       "instagram": {},
       "tiktok": {}
-    }
+    },
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
     "agent": "food",
@@ -2483,7 +2873,7 @@ window.FOOD_ARTICLES = [
     "pubDate": "Wed, 22 Apr 2026 14:46:00 +0200",
     "savedAt": "2026-05-12T14:00:43.224Z",
     "image": "https://www.giallozafferano.it/images/361-36107/Risotto-con-zucchine-e-pancetta_650x433_wm.jpg",
-    "schema_version": 2,
+    "schema_version": 3,
     "prompt_version": "1.0.0",
     "status": "draft",
     "formats": {
@@ -2553,13 +2943,30 @@ window.FOOD_ARTICLES = [
           "Unisco le zucchine e porto a cottura.",
           "Spengo, manteco con burro, parmigiano e pancetta."
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "metrics": {
       "x": {},
       "instagram": {},
       "tiktok": {}
-    }
+    },
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   },
   {
     "agent": "food",
@@ -2644,7 +3051,7 @@ window.FOOD_ARTICLES = [
     "pubDate": "Mon, 04 May 2026 16:07:00 +0200",
     "savedAt": "2026-05-12T12:40:26.936Z",
     "image": "https://www.giallozafferano.it/images/361-36118/Polpette-di-patate-e-ceci-in-insalata_650x433_wm.jpg",
-    "schema_version": 2,
+    "schema_version": 3,
     "prompt_version": "1.0.0",
     "status": "draft",
     "formats": {
@@ -2714,12 +3121,29 @@ window.FOOD_ARTICLES = [
           "Cuocio in padella 15 minuti, giro spesso.",
           "Scaglie di Grana Padano e citronette alla senape."
         ]
+      },
+      "video": {
+        "scenes": [],
+        "duration_sec": 0,
+        "aspect_ratio": "9:16",
+        "cta": "",
+        "quality_score": 0
       }
     },
     "metrics": {
       "x": {},
       "instagram": {},
       "tiktok": {}
-    }
+    },
+    "render_quality": null,
+    "render_template": null,
+    "render_status": {
+      "low": null,
+      "medium": null,
+      "high": null
+    },
+    "render_path": null,
+    "render_error": null,
+    "render_version": null
   }
 ];
