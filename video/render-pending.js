@@ -1,8 +1,9 @@
 'use strict';
 
 require('dotenv').config();
-const fs   = require('fs');
-const path = require('path');
+const fs            = require('fs');
+const path          = require('path');
+const { execSync }  = require('child_process');
 const { verifyMp4 } = require('../core/video-utils');
 
 const ROOT = path.join(__dirname, '..');
@@ -147,4 +148,17 @@ function loadCandidates(agentId, outputDir) {
 
   console.log(`=== Fine ===`);
   console.log(`Successi: ${success} | Falliti: ${failed}`);
+
+  if (success > 0) {
+    console.log('\n📦 Build + push in corso...');
+    try {
+      execSync('node scripts/build-data-agents.js', { cwd: ROOT, stdio: 'inherit' });
+      execSync('git add output/ frontend/data-agents.js', { cwd: ROOT, stdio: 'inherit' });
+      execSync(`git commit -m "feat: video renderizzati (${success} ok)"`, { cwd: ROOT, stdio: 'inherit' });
+      execSync('git push', { cwd: ROOT, stdio: 'inherit' });
+      console.log('✅ Push completato — Railway rideploya in ~1 min');
+    } catch (e) {
+      console.log('⚠️  Push fallito:', e.message.slice(0, 100));
+    }
+  }
 })();
