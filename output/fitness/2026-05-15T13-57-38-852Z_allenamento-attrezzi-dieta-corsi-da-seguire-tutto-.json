@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "allenamento-attrezzi-dieta-corsi-da-seguire-tutto-",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "Mai saltare riscaldamento e stretching. 5 minuti di mobilità ti salvano da infortuni e migliorano la performance. I muscoli freddi si strappano, quelli pronti crescono. Non fare l'errore di ignorarli.",
         "Hai bisogno di una guida personalizzata? Prenota un check-up con me oggi. Analizziamo insieme la tua situazione e costruiamo un piano su misura. Scrivi in DM o clicca il link in bio. 🎯"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a78ed854eb.jpeg",
   "savedAt": "2026-05-15T13:58:20.756Z",
-  "sourceId": "dd661e44df0f1c6441f8aa886973a3ea"
+  "sourceId": "dd661e44df0f1c6441f8aa886973a3ea",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

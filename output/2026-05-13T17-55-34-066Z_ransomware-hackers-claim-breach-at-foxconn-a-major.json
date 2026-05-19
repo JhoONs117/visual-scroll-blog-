@@ -72,7 +72,7 @@
   "pubDate": "Wed, 13 May 2026 15:39:37 +0000",
   "savedAt": "2026-05-13T17:56:23.684Z",
   "link": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "ransomware-hackers-claim-breach-at-foxconn-a-major",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Non serve aspettare: il rischio è attuale.",
         "Controlla ora la tua filiera produttiva."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "razgatlioglu-non-solo-moto-l-allenamento-del-re-de",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "Trattenere il fiato durante l'equilibrio aumenta la pressione e riduce la stabilità. Espira durante lo sforzo, inspira nel controllo. Il tuo corpo reagisce meglio con ossigeno costante.",
         "Pronto a metterti alla prova? 3 serie da 30 secondi su superficie instabile. Fallo oggi, senti la differenza. Raccontami com'è andata nei commenti. 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205bec456c60.jpeg",
   "savedAt": "2026-05-16T06:28:50.047Z",
-  "sourceId": "bd6a875992b1713317f0d52cab042731"
+  "sourceId": "bd6a875992b1713317f0d52cab042731",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "food",
   "slug": "bocconcini-di-pollo-alla-mediterranea",
   "prompt_version": "1.0.0",
@@ -37,6 +37,13 @@
         "Butti dentro i pomodorini tagliati a metà, le olive, i capperi e l'aglio schiacciato. Giri, fai insaporire 5 minuti, poi togli l'aglio. Pronto.",
         "Il trucco? Un goccio di acqua di cottura della pasta per mantecare e servire con del prezzemolo fresco. Provala e dimmi com'è andata 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -107,5 +114,15 @@
   ],
   "image": "https://www.giallozafferano.it/images/361-36168/Bocconcini-di-pollo-alla-mediterranea_650x433_wm.jpg",
   "savedAt": "2026-05-14T14:53:46.406Z",
-  "sourceId": "77b971a7cb7a0c9a1a09085e1c1230b2"
+  "sourceId": "77b971a7cb7a0c9a1a09085e1c1230b2",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

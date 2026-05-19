@@ -92,6 +92,12 @@ module.exports = {
     'fetchImages', 'save', 'buildData',
   ],
 
+  video: {
+    low:    'slide_deck',
+    medium: 'coach_breakdown',
+    high:   'avatar_presenter',
+  },
+
   channels: ['x', 'instagram', 'tiktok'],
 
   prompts: {

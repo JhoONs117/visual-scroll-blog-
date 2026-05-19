@@ -72,7 +72,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/shinyhunters-instructure-canvas-login-defacement.jpg?resize=1200,807",
   "instagram_caption": "Un portale scolastico si è svegliato con la scritta \"Hacked\" al posto del login. Dietro c'è lo stesso gruppo che potrebbe aver già violato Instructure, rubando i certificati di accesso globali: chiavi che aprono tutte le porte di Canvas senza lasciare traccia 🔑. Se quei dati venissero venduti, qualsiasi istituto potrebbe diventare un bersaglio senza bisogno di un attacco su misura. Controlla subito se la tua scuola usa ancora Canvas, cambia la password e chiedi all'amministratore di esaminare i log delle ultime 48 ore ⚠️. Avete già fatto questo controllo?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "hackers-deface-school-login-pages-after-claiming-a",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Con quei certificati entrano in qualsiasi account.",
         "Controlla se la tua scuola usa ancora Canvas oggi."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

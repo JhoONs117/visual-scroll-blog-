@@ -72,7 +72,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/personal-computer.jpeg?w=1199",
   "instagram_caption": "Perplexity ha appena reso disponibile a tutti su Mac il suo computer personale AI, senza bisogno di comprare hardware nuovo. È un aggiornamento software che trasforma il device, permettendoti di controllare le app con la voce in tempo reale: apri file, scrivi messaggi o cerchi informazioni senza toccare tastiera o mouse 🖥️. Funziona come un copilota veloce, non un assistente lento, mentre lavori su altro. La prova è gratis per una settimana: dopo, il vero test è se lo userai davvero nel tuo quotidiano 💬🎯 Chi ha già provato comandi vocali seri sul lavoro?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "perplexity-s-personal-computer-is-now-available-to",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Non serve hardware nuovo.",
         "Controlli tutto con la voce."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

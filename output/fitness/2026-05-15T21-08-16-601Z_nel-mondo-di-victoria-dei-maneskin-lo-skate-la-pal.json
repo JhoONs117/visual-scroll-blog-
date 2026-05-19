@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "nel-mondo-di-victoria-dei-maneskin-lo-skate-la-pal",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "Errore comune: curvare la schiena nello squat. Schiena dritta e petto aperto, sempre. Una schiena curva è instabile e rischiosa. Controllo prima di tutto.",
         "Oggi fai 3 serie da 10 squat con questa tecnica. Pausa 60 secondi tra le serie. Prova domani e dimmi com’è andata 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059507312a3.jpeg",
   "savedAt": "2026-05-15T21:08:46.657Z",
-  "sourceId": "d0f326a25149d76953267cba59a96cd4"
+  "sourceId": "d0f326a25149d76953267cba59a96cd4",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

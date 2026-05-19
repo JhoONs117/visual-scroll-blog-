@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "jeff-bezos-mostra-i-muscoli-l-allenamento-e-la-die",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "Errore comune: usare lo slancio per sollevare peso. Non barare. I muscoli lavorano quando controlli il movimento, non quando lanci il bilanciere. Lentamente e con controllo.",
         "Thread: oggi 20 minuti di pesi. La prova che pure un CEO da 200 miliardi lo vive. Non hai tempo? Hai 20 minuti. Prova domani e dimmi com'è andata 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c806ac0e9.png",
   "savedAt": "2026-05-15T22:58:25.062Z",
-  "sourceId": "202eb40b574be22b4917bc21399f9e99"
+  "sourceId": "202eb40b574be22b4917bc21399f9e99",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

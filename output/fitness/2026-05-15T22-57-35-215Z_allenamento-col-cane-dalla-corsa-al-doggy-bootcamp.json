@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "allenamento-col-cane-dalla-corsa-al-doggy-bootcamp",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "Niente strattoni. Il canicross insegna: il cane trainatore dà potenza, tu regoli. Se tiri, lo confondi. Se lo lasci correre, sincronizzi fiato e passo. La dog dance? Dopo la corsa, qualche comando giocoso allunga il workout. Mai tensioni, solo fluidità.",
         "Oggi test: porta il cane a correre per 10 minuti. Guinzaglio lento, lui davanti, tu dietro. Niente strappi, solo ritmo. Finito? Una coccola e via. Ripeti domani. Scrivimi qui sotto come è andata: storie e dubbi li leggo tutti."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cc1cd34ff.jpeg",
   "savedAt": "2026-05-15T22:57:52.321Z",
-  "sourceId": "91bf720d5e86c1d2601784c1d0504006"
+  "sourceId": "91bf720d5e86c1d2601784c1d0504006",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

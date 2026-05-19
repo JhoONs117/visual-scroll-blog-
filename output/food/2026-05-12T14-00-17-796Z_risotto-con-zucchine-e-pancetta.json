@@ -81,7 +81,7 @@
   "pubDate": "Wed, 22 Apr 2026 14:46:00 +0200",
   "savedAt": "2026-05-12T14:00:43.224Z",
   "image": "https://www.giallozafferano.it/images/361-36107/Risotto-con-zucchine-e-pancetta_650x433_wm.jpg",
-  "schema_version": 2,
+  "schema_version": 3,
   "prompt_version": "1.0.0",
   "status": "draft",
   "formats": {
@@ -151,11 +151,28 @@
         "Unisco le zucchine e porto a cottura.",
         "Spengo, manteco con burro, parmigiano e pancetta."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

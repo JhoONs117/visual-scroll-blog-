@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "food",
   "slug": "pasta-al-forno-con-salsiccia-e-piselli",
   "prompt_version": "1.0.0",
@@ -37,6 +37,13 @@
         "Alterna gli strati come se fosse una lasagna, finisci con una cucchiaiata di besciamella e mozzarella a coprire tutto. In forno a 200°C per 20 minuti, poi 5 di grill per la crosticina. La parte più difficile? Non mangiarla appena sfornata, perché brucia. Fidati.",
         "Il trucco: dopo il grill, lasciala riposare 10 minuti. Sembra una perdita di tempo, ma è qui che la pasta assorbe i liquidi e diventa vellutata, non brodosa. Taglia la fetta e vedrai che compattezza. Provala e dimmi com'è andata 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -107,5 +114,15 @@
   ],
   "image": "https://www.giallozafferano.it/images/361-36172/Pasta-al-forno-con-salsiccia-e-piselli_650x433_wm.jpg",
   "savedAt": "2026-05-14T14:44:46.658Z",
-  "sourceId": "38a68c5a500f69b93c330ee50d00c0a4"
+  "sourceId": "38a68c5a500f69b93c330ee50d00c0a4",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

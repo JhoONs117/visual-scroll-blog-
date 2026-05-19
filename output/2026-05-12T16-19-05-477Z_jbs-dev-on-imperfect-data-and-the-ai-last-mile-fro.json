@@ -72,7 +72,7 @@
   "pubDate": "Tue, 12 May 2026 15:37:43 +0000",
   "savedAt": "2026-05-12T16:19:30.270Z",
   "link": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "jbs-dev-on-imperfect-data-and-the-ai-last-mile-fro",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Chi li ignora paga il 40% in più.",
         "Rivedi la pipeline, risparmi subito."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

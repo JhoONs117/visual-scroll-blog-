@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "valentino-rossi-e-il-post-valencia-2006-pi-palestr",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "Errore da evitare: \nAllenarsi stanco da frustrazione ≠ produttività. \nAllenarsi stanco da fatica accumulata è fumo. \nLa differenza? 5 serie da 8 squat jump con intensità mentale al 100%.",
         "Oggi proviamo il protocollo esplosivo di Vale: \n5 serie da 8 squat jump con peso leggero, recupero 90 secondi. \nLa caduta è una mossa. La risalita è la firma. \nProva domani e dimmi com'è andata 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c0f4ede25.jpeg",
   "savedAt": "2026-05-16T02:20:35.620Z",
-  "sourceId": "077647591f2847617d57be61ecfea4d3"
+  "sourceId": "077647591f2847617d57be61ecfea4d3",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

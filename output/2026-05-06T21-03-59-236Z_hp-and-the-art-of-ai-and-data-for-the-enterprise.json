@@ -24,7 +24,7 @@
   "savedAt": "2026-05-06T21:03:59.236Z",
   "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
   "instagram_caption": "Il 70% delle aziende accumula dati senza usarli per l'AI. HP dice che il problema non è la quantità, ma la qualità: dati \"sporchi\" che non portano da nessuna parte. La loro soluzione è trasformare quel caos in decisioni concrete, senza dover pulire tutto o inseguire ogni nuovo modello. Per chi lavora in azienda 🏢, questo significa non rincorrere l'ennesimo tool, ma far funzionare ciò che già hai, allineandolo ai tuoi obiettivi. Pulire i dati per prendere decisioni vere: questa è la differenza che vince 💡. Quando è stata l'ultima volta che i tuoi dati ti hanno dato una risposta chiara? 🔍",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "hp-and-the-art-of-ai-and-data-for-the-enterprise",
   "prompt_version": "1.0.0",
@@ -51,11 +51,28 @@
         "Basta inseguire l'ultimo modello.",
         "Allinea i dati e vinci."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

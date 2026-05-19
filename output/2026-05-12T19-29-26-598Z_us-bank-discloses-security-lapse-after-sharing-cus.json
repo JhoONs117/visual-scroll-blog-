@@ -72,7 +72,7 @@
   "pubDate": "Tue, 12 May 2026 16:36:44 +0000",
   "savedAt": "2026-05-12T19:30:37.540Z",
   "link": "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "us-bank-discloses-security-lapse-after-sharing-cus",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Se hai un conto lì, controlla ora.",
         "Chiedi un report alla banca, subito."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

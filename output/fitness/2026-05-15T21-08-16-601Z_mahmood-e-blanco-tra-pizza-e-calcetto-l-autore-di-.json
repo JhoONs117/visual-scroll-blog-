@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "mahmood-e-blanco-tra-pizza-e-calcetto-l-autore-di-",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "Un errore da evitare? Punta le ginocchia verso l'esterno, mai in dentro. Tieni il peso sui talloni. Ogni ripetizione è un progresso. Il risultato? Gambe toniche, core attivo e metabolismo acceso. Senza palestra, ma con la costanza giusta.",
         "Oggi lo metti in pratica: 3 serie da 15 squat, con 30 secondi di recupero tra le serie. Falli subito. Non serve attrezzatura, solo 5 minuti. Prova e dimmi domani com'è andata. Il tuo corpo ti ringrazierà. 👊"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cb5c04a79.jpeg",
   "savedAt": "2026-05-15T21:09:02.551Z",
-  "sourceId": "c04ceed3bbafed2dd5be7e896417a19d"
+  "sourceId": "c04ceed3bbafed2dd5be7e896417a19d",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

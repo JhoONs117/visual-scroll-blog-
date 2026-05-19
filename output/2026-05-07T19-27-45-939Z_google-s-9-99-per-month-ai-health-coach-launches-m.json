@@ -68,7 +68,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/HealthApp-3-CoachMessages.width-1000.format-webp.webp?w=1000",
   "instagram_caption": "A 9,99 dollari al mese, Google ti vende un personal trainer AI per la salute che funziona con Fitbit e Pixel Watch dal 19 maggio. Monitora sonno, attività e battito cardiaco, ma non può diagnosticare nulla: sono solo consigli generici. Il rischio? Darti una falsa sicurezza e tenerti lontano dal medico quando servirebbe sul serio  \nPer te, in tasca: un assistente che ti ricorda di muoverti, non un dottore. Lo provi gratis, ma poi la domanda vera è: ti fideresti di un “tutto ok” scritto da un algoritmo? 🫀⏱️💡❓",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "google-s-9-99-per-month-ai-health-coach-launches-m",
   "prompt_version": "1.0.0",
@@ -136,11 +136,28 @@
         "Il rischio? Falsa sicurezza.",
         "Provalo gratis, poi chiama il tuo dottore."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

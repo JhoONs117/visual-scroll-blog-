@@ -69,7 +69,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/55252231372_4afd845df5_o.jpg?resize=1200,800",
   "instagram_caption": "I cinque architetti dell’economia dell’AI lo ammettono: il sistema si sta rompendo. 📉 Il problema è che le “leggi di scala” del deep learning incontrano un muro: più dati e chip più potenti non garantiscono più risultati migliori, mentre i costi salgono esponenzialmente e i profitti si appiattiscono 💸. Significa che il tuo prossimo tool AI potrebbe crashare o diventare carissimo da un giorno all’altro. Se il tuo fornitore non mostra i margini reali, chi pagherà il conto sei tu ⚠️. Quale strumento userai oggi senza sapere se domani esisterà ancora?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "five-architects-of-the-ai-economy-explain-where-th",
   "prompt_version": "1.0.0",
@@ -139,11 +139,28 @@
         "Your favorite AI tool might crash or jack up prices soon.",
         "Check your vendor's margins before you scale any deeper."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

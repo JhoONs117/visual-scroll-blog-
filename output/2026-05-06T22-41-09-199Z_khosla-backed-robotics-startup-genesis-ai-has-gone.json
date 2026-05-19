@@ -24,7 +24,7 @@
   "savedAt": "2026-05-06T22:41:09.199Z",
   "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
   "instagram_caption": "Una startup sostenuta da Khosla ha costruito robot che non si limitano a spostare scatole, ma decidono da soli come ottimizzare l’intera fabbrica 🏭. Genesis AI integra hardware, software e intelligenza artificiale per controllare produzione e logistica in un unico sistema. Il risultato? Aziende già considerate efficienti hanno tagliato i costi operativi del 30% in tre mesi 📉. Se lavori in un impianto, questo significa che il tuo margine non migliorerà con un braccio meccanico in più: serve un sistema che gestisca tutto senza micromanagement. Prima di crederci, chiedi una demo e confronta i numeri reali coi tuoi 📊. Il tuo concorrente potrebbe già averlo fatto.",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "khosla-backed-robotics-startup-genesis-ai-has-gone",
   "prompt_version": "1.0.0",
@@ -51,11 +51,28 @@
         "Costi giù del 30% in tre mesi.",
         "Chiedi demo, non fidarti delle slide."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

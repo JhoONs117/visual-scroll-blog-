@@ -71,7 +71,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024",
   "instagram_caption": "xAI ora affitta GPU di Grok a chiunque, come un cloud ma senza storage né database. Solo potenza di calcolo. È una mossa per chi ha stack snelli e vuole scalare veloce le inferenze🎯. Se i prezzi saranno del 30% più bassi, i provider tradizionali dovranno correre ai ripari o perdere carichi di lavoro ML. Tu faresti il test su un modello oggi?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "is-xai-a-neocloud-now-",
   "prompt_version": "1.0.0",
@@ -143,11 +143,28 @@
         "Non è una piattaforma completa, è un acceleratore.",
         "Prova un modello singolo e vedi se ti conviene."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

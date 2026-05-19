@@ -72,7 +72,7 @@
   "savedAt": "2026-05-11T17:50:29.654Z",
   "link": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
   "instagram_caption": "Il fondatore di Spotify ha appena messo 1,2 miliardi di dollari in Helsing, startup 🇪🇺 europea che non vende carri armati ma software per decidere dove sparano i droni. Valutazione: 18 miliardi 💰. È una scommessa: il prossimo conflitto si vince con gli algoritmi, non con i cannoni. Tradotto: le aziende private stanno scalzando i vecchi fornitori della difesa. I governi europei, già pronti a comprare, potrebbero usare le tue tasse per abbonarsi a un software di guerra AI ⚙️. Quale ministero firmerà per primo?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "daniel-ek-backed-defense-tech-helsing-to-raise-1-2",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "I governi europei pagheranno con le nostre tasse.",
         "Controlla chi firma il contratto tra marzo."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

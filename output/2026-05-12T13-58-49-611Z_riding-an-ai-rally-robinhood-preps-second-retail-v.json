@@ -72,7 +72,7 @@
   "savedAt": "2026-05-12T13:59:15.704Z",
   "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
   "instagram_caption": "Robinhood ha già bruciato il 90% del valore con la sua prima IPO retail, ora prepara il bis su un’altra società di vendita al dettaglio 📉. Stavolta punta sull’intelligenza artificiale per tagliare costi e margini, sperando di non ripetere l’errore. Chi investe scommette su un’inversione di tendenza, ma il mercato sconta già un nuovo fallimento 🤔. Per te, il prezzo è quello di un abbonamento Netflix: vale il rischio? 🔍",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "riding-an-ai-rally-robinhood-preps-second-retail-v",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Roadshow tra fiducia e scetticismo.",
         "Scommessa o calcolo? Decidi ora."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

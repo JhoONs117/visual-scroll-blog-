@@ -23,7 +23,7 @@
   ],
   "savedAt": "2026-05-05T19:10:50.205Z",
   "instagram_caption": "Jensen Huang, il capo di Nvidia, dice che chi ha paura dell'intelligenza artificiale ha capito tutto al contrario. La sua azienda sta assumendo più persone proprio grazie all'AI, nonostante le preoccupazioni dei lavoratori. Per lui l'AI non ruba posti: ne crea di nuovi che prima non esistevano. Chi impara a usarla ogni giorno ottiene un vantaggio concreto, senza dover diventare per forza un ingegnere. E tu hai già integrato l'AI nel tuo lavoro per non restare indietro? 🧠💼📈",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "as-workers-worry-about-ai-nvidia-s-jensen-huang-sa",
   "prompt_version": "1.0.0",
@@ -50,11 +50,28 @@
         "Impara a usarla ogni giorno.",
         "Nvidia assume più persone grazie all'AI."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

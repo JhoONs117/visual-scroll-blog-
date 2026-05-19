@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "food",
   "slug": "risotto-piselli-crescenza-e-pancetta-croccante",
   "prompt_version": "1.0.0",
@@ -37,6 +37,13 @@
         "A cottura ultimata, manteca con una noce di crescenza e Parmigiano. Fuori dal fuoco, la cremosità esplode. Poi assembli: riso, crescenza a tocchetti, piselli interi, e pancetta croccante sbriciolata sopra.",
         "Il segreto? La pancetta falla diventare croccante in padella senza olio — il grasso che rilascia è puro sapore. Dopo averla usata come guarnizione, prendi il risotto, chiudi gli occhi e goditi il contrasto. Provala e fammi sapere 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -107,5 +114,15 @@
   ],
   "image": "https://www.giallozafferano.it/images/360-36089/Risotto-piselli-crescenza-e-pancetta-croccante_650x433_wm.jpg",
   "savedAt": "2026-05-14T15:01:32.815Z",
-  "sourceId": "28c4dca21ca942b6eee9f7c8922f4708"
+  "sourceId": "28c4dca21ca942b6eee9f7c8922f4708",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

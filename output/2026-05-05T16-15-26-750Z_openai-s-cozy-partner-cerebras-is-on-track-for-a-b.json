@@ -67,7 +67,7 @@
     }
   ],
   "instagram_caption": "OpenAI ha appena scelto i chip di Cerebras, una startup che sfida NVIDIA, per addestrare i suoi modelli più veloci. 🏎️ Il motivo: i loro processori promettono tempi di training ridotti e prestazioni record. Mentre il mercato guarda, Cerebras si prepara a un’IPO da blockbuster. 💰 Per te: modelli AI sviluppati più rapidamente, con possibili ricadute su strumenti quotidiani più performanti. Quanto cambierà il lavoro di chi usa l’AI tra sei mesi? 🧠",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "openai-s-cozy-partner-cerebras-is-on-track-for-a-b",
   "prompt_version": "1.0.0",
@@ -137,11 +137,28 @@
         "Il chip scala troppo e consuma tanto.",
         "IPO in arrivo. Entri o aspetti?"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

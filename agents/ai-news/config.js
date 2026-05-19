@@ -84,6 +84,12 @@ module.exports = {
     'generateCaption', 'generateCarousel', 'fetchImages', 'validate', 'save', 'buildData',
   ],
 
+  video: {
+    low:    'slide_deck',
+    medium: 'data_reveal',
+    high:   'avatar_presenter',
+  },
+
   channels: ['x', 'instagram', 'tiktok'],
 
   // All prompts wrapped as (article, cache) — runner calls them with article object

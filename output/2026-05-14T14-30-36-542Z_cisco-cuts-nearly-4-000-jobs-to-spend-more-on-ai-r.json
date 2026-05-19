@@ -72,7 +72,7 @@
   "pubDate": "Thu, 14 May 2026 14:01:14 +0000",
   "savedAt": "2026-05-14T14:31:39.298Z",
   "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "cisco-cuts-nearly-4-000-jobs-to-spend-more-on-ai-r",
   "prompt_version": "1.0.0",
@@ -144,6 +144,13 @@
         "Dovrai imparare nuove competenze o cambiare mestiere.",
         "Controlla ora se la tua azienda ha un piano."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
@@ -152,5 +159,9 @@
     "tiktok": {}
   },
   "render_status": "rendered",
-  "render_version": "1"
+  "render_version": "1",
+  "render_quality": null,
+  "render_template": null,
+  "render_path": null,
+  "render_error": null
 }

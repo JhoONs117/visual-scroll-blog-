@@ -68,7 +68,7 @@
     }
   ],
   "instagram_caption": "Hai un server Linux che sta corrompendo i tuoi dati in questo momento, in silenzio. 🖥️ Il bug \"CopyFail\" non crasha il sistema, non lascia log evidenti: copia i file sbagliandoli. ⚠️ Il governo USA ha appena dato l'allarme (CVE-2023-3269), perché i dati corrotti restano invisibili fino al disastro. Se gestisci database o applicazioni in produzione, la patch esiste già, ma devi installarla subito, non al prossimo reboot. 🔧 La notizia ha già certificato crash reali su server attivi. Hai controllato il tuo kernel oggi?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "us-government-warns-of-severe-copyfail-bug-affecti",
   "prompt_version": "1.0.0",
@@ -139,11 +139,28 @@
         "I log di sicurezza non mostreranno nulla di sospetto.",
         "Controlla il kernel oggi, non aspettare una violazione."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

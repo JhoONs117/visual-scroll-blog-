@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "silicon-valley-s-vacationland-needs-a-new-energy-p",
   "prompt_version": "1.0.0",
@@ -49,6 +49,13 @@
     },
     "instagram": {
       "caption": "A Sonoma County la rete elettrica è ferma agli anni '90, ma i data center per l'AI stanno chiedendo potenza da decenni tecnologici. Il problema: il carico è già troppo alto e le utility locali non sanno ancora come coprirlo con solare o eolio, perché non scalano in tempo ⚡. Se il tuo fornitore è lo stesso della zona, la tua bolletta potrebbe salire prima di settembre. Hai già verificato se la tua rete locale reggerà l'estate? 💸🔋"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "A Sonoma County la rete elettrica è ferma agli anni '90, ma i data center per l'AI stanno chiedendo potenza da decenni tecnologici. Il problema: il carico è già troppo alto e le utility locali non sanno ancora come coprirlo con solare o eolio, perché non scalano in tempo ⚡. Se il tuo fornitore è lo stesso della zona, la tua bolletta potrebbe salire prima di settembre. Hai già verificato se la tua rete locale reggerà l'estate? 💸🔋",
@@ -100,5 +107,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1370931116.jpeg?resize=1200,801",
   "savedAt": "2026-05-15T19:19:49.399Z",
-  "sourceId": "fbdbbdaad4a0bd0e71a4c1b613b19c2d"
+  "sourceId": "fbdbbdaad4a0bd0e71a4c1b613b19c2d",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

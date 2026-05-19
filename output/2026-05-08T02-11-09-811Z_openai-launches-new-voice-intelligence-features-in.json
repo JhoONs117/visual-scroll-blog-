@@ -72,7 +72,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
   "instagram_caption": "OpenAI ha rilasciato un'API che capta non solo le parole, ma anche come le dici: se ridi o sei stanco, il sistema lo sente e adatta la risposta 🗣️. La novità sono due strumenti: uno che traduce la voce in testo cogliendo le sfumature emotive, e un altro che rileva quando fai una pausa o sei incerto. Per chi integra queste API, significa costruire assistenti vocali che cambiano tono in base al tuo umore 😶‍🌫️. Prova a registrare una frase con una pausa lunga: la differenza la fa quella. Quanto cambierebbe il tuo lavoro se un bot capisse davvero come ti senti?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "openai-launches-new-voice-intelligence-features-in",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Il modello analizza anche pause e tono.",
         "E si adatta in tempo reale."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

@@ -72,7 +72,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
   "instagram_caption": "Una startup cinese ha appena raccolto 2 miliardi di dollari: Moonshot AI vale ora 20 miliardi 💰. Hanno scelto di rendere il modello open source, contro la solita logica dei sistemi chiusi. Il risultato? Puoi scaricare e far girare la stessa IA senza pagare licenze né abbonamenti mensili 🔓. La potenza è identica ai modelli a pagamento, ma con controllo totale. Scarichi il modello oggi e lo testi contro quelli chiusi: chi vince? 🚀",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "china-s-moonshot-ai-raises-2b-at-20b-valuation-as-",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Tu usi la stessa AI gratis.",
         "Scarica il modello e testalo."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

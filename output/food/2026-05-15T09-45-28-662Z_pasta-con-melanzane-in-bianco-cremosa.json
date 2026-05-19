@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "food",
   "slug": "pasta-con-melanzane-in-bianco-cremosa",
   "prompt_version": "1.0.0",
@@ -37,6 +37,13 @@
         "Quando sono cotte, frullane una parte con un mestolo di acqua di cottura della pasta fino a ottenere una crema liscia e vellutata. Scola i fusilloni al dente e mantecali in padella con quella crema. Il Parmigiano ci entra dopo, a fiamma spenta, per non stravolgere la dolcezza.",
         "Impiatta con una manciata di menta fresca spezzettata e una spolverata di Parmigiano. Il segreto? Non cuocere mai la menta, resta cruda e regala un sorso di freschezza a ogni boccone. Provala e fammi sapere se le tue papille hanno pianto di gioia 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -107,5 +114,15 @@
   ],
   "image": "https://www.giallozafferano.it/images/361-36125/Pasta-con-melanzane-in-bianco-cremosa_650x433_wm.jpg",
   "savedAt": "2026-05-15T09:45:52.438Z",
-  "sourceId": "3cc708f32ca006c9dd41a7f41144e0fa"
+  "sourceId": "3cc708f32ca006c9dd41a7f41144e0fa",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

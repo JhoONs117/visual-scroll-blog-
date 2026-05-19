@@ -23,7 +23,7 @@
   ],
   "savedAt": "2026-05-06T10:10:03.362Z",
   "instagram_caption": "Ormai le aziende che lo usano hanno tagliato il 40% del tempo speso in task ripetitivi. 🚀 GPT-5.5 non aspetta che gli dici ogni passo: pensa, pianifica e decide da solo come risolvere compiti complessi, senza supervisione. 👀 Per chi lavora, significa avere un collega digitale che gestisce le operazioni noiose mentre tu ti concentri sul resto. ⏳ Il resto del mercato lo sta già facendo: tu hai già provato a delegare davvero?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "gpt-5-5-is-openai-s-most-capable-agentic-ai-model-",
   "prompt_version": "1.0.0",
@@ -50,11 +50,28 @@
         "Risolve problemi senza il tuo controllo.",
         "Le aziende hanno guadagnato il 40% di tempo."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

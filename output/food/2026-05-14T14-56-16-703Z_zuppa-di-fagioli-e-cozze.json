@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "food",
   "slug": "zuppa-di-fagioli-e-cozze",
   "prompt_version": "1.0.0",
@@ -37,6 +37,13 @@
         "Ora il colpo di genio: frulla metà dei fagioli con l’acqua di cottura delle cozze. Ottieni una crema vellutata che lega tutto il piatto senza appesantire. Unisci poi il resto dei fagioli, i pomodori spezzettati e le cozze sgusciate. Lascia sobbollire 5 minuti.",
         "Tocco finale? Una manciata di prezzemolo fresco tritato e crostoni di pane abbrustoliti, unti con olio crudo. Impiatta con le cozze in superficie. Vuoi un consiglio? Usa un pane rustico e lascialo affondare un po’ nella crema. Provala e dimmi com’è andata 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -107,5 +114,15 @@
   ],
   "image": "https://www.giallozafferano.it/images/360-36091/Zuppa-di-fagioli-e-cozze_650x433_wm.jpg",
   "savedAt": "2026-05-14T14:56:38.447Z",
-  "sourceId": "45fe1c8c9257d22f3b2dcd5030a630be"
+  "sourceId": "45fe1c8c9257d22f3b2dcd5030a630be",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

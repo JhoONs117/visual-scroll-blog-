@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "food",
   "slug": "torta-salata-primaverile-vegana",
   "prompt_version": "1.0.0",
@@ -37,6 +37,13 @@
         "Dopo il forno la superficie è dorata e il profumo è pazzesco. Il trucco adesso: decora con le punte di asparagi crudi e qualche anello di cipolla rossa fresca. Dà croccantezza e colore, e la differenza si vede — e si sente.",
         "Lascia intiepidire almeno 10 minuti prima di tagliarla. Fredda è ancora più buona. La prossima volta che hai voglia di una torta salata leggera ma appagante, fai così. Se la provi, fammi sapere nei commenti 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -107,5 +114,15 @@
   ],
   "image": "https://www.giallozafferano.it/images/361-36163/Torta-salata-primaverile-vegana_650x433_wm.jpg",
   "savedAt": "2026-05-15T09:41:11.311Z",
-  "sourceId": "dfce00af8648940d9124d830837c8738"
+  "sourceId": "dfce00af8648940d9124d830837c8738",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

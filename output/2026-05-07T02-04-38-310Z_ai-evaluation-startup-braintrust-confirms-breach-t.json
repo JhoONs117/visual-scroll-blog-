@@ -24,7 +24,7 @@
   "savedAt": "2026-05-07T02:04:38.310Z",
   "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
   "instagram_caption": "Braintrust ha appena detto a tutti i suoi clienti di cambiare subito le chiavi di accesso: la loro piattaforma di valutazione AI è stata violata. 🔐  \n\nNon è un avviso vago: la violazione è confermata e l'azienda non ha fatto eccezioni — ogni singola chiave andava ruotata immediatamente. Questo significa che i tuoi token AI, se non li hai mai controllati, potrebbero già essere esposti. ⚠️  \n\nSe usi strumenti AI per lavoro o sviluppo, oggi non porti a casa nulla: ruota tutte le credenziali sensibili adesso. I rischi sono concreti, non teorici. 🛠️  \n\nHai già verificato dove sono i tuoi token oggi? 🔍",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "ai-evaluation-startup-braintrust-confirms-breach-t",
   "prompt_version": "1.0.0",
@@ -51,11 +51,28 @@
         "Controlla subito i tuoi token.",
         "Ruota tutte le credenziali sensibili oggi."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

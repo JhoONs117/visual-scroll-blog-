@@ -24,7 +24,7 @@
   "savedAt": "2026-05-06T17:28:18.758Z",
   "link": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
   "instagram_caption": "Una banca ha tagliato le perdite del 30% in sei mesi, senza rallentare l'innovazione. Il motivo? Ha messo delle regole all'AI aziendale. In tanti scoprono che un'AI senza governance costa più di quanto guadagna, tra errori e rischi legali 💸. Integrare controlli chiari in pochi passi non è un freno, ma protegge i margini di profitto 🛡️. Per chi lavora con strumenti AI, significa meno rischi e più efficienza, non più burocrazia. Quale reparto nella tua azienda ne ha più bisogno? 🔍",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "sap-how-enterprise-ai-governance-secures-profit-ma",
   "prompt_version": "1.0.0",
@@ -51,11 +51,28 @@
         "Integri i controlli in pochi passi.",
         "Una banca ha tagliato le perdite del trenta percento."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

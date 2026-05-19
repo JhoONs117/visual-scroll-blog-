@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "general-catalyst-posted-vc-rage-bait-and-it-worked",
   "prompt_version": "1.0.0",
@@ -49,6 +49,13 @@
     },
     "instagram": {
       "caption": "General Catalyst ha postato un attacco al modello di venture più sacro di a16z su LinkedIn, e la loro audience è esplosa di difese e rabbia 🎯. L'affondo non parlava ai competitor, ma al pubblico avversario, colpendo un dogma che ha scatenato l'istinto di proteggere l'ecosistema 🔥. Ora chiunque su LinkedIn può usare la stessa leva: non replicare i rivali, ma accendere la loro audience 💡. Non ti serve un budget: costa meno di una cena fuori e funziona questa settimana. Quanto vale il tuo prossimo post?"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "General Catalyst ha postato un attacco al modello di venture più sacro di a16z su LinkedIn, e la loro audience è esplosa di difese e rabbia 🎯. L'affondo non parlava ai competitor, ma al pubblico avversario, colpendo un dogma che ha scatenato l'istinto di proteggere l'ecosistema 🔥. Ora chiunque su LinkedIn può usare la stessa leva: non replicare i rivali, ma accendere la loro audience 💡. Non ti serve un budget: costa meno di una cena fuori e funziona questa settimana. Quanto vale il tuo prossimo post?",
@@ -100,5 +107,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Rage-bait.png?resize=1200,960",
   "savedAt": "2026-05-16T02:07:55.898Z",
-  "sourceId": "0c3f2056c2d6d50a60db865700799d36"
+  "sourceId": "0c3f2056c2d6d50a60db865700799d36",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

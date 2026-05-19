@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "food",
   "slug": "torta-2-ingredienti",
   "prompt_version": "1.0.0",
@@ -37,6 +37,13 @@
         "Versa il composto in una ciotola o in uno stampo foderato di pellicola. Lascia raffreddare a temperatura ambiente, poi metti in frigo per almeno 3 ore. Il risultato è una crema densa, setosa, che si taglia come una torta ma si scioglie in bocca.",
         "Il trucco: prima di servire, spolvera con cacao amaro setacciato — toglie l’eccesso di dolce e fa esplodere il gusto. Puoi decorare con scaglie di cioccolato o una manciata di sale grosso. Provatela e fatemi sapere nei commenti 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -107,5 +114,15 @@
   ],
   "image": "https://www.giallozafferano.it/images/361-36174/Torta-2-ingredienti_650x433_wm.jpg",
   "savedAt": "2026-05-14T14:49:43.139Z",
-  "sourceId": "4dff87d4e172b41438f75023bc536266"
+  "sourceId": "4dff87d4e172b41438f75023bc536266",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

@@ -72,7 +72,7 @@
   "pubDate": "Thu, 14 May 2026 20:58:55 +0000",
   "savedAt": "2026-05-14T21:03:37.194Z",
   "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "openai-says-codex-is-coming-to-your-phone",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Modifichi app mentre sei in coda.",
         "Prova oggi: un prompt, una funzione."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

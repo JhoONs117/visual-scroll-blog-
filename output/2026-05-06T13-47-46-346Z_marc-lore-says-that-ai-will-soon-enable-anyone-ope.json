@@ -67,7 +67,7 @@
     }
   ],
   "instagram_caption": "Bastano un prompt ben scritto e nessuna esperienza in cucina per aprire un ristorante. Marc Lore, fondatore di Jet.com, ha detto che l’intelligenza artificiale automatizzerà ricette, gestione e supply chain, abbattendo costi e barriere d’ingresso 🧾. Il risultato: chiunque può lanciare un ristorante virtuale in giorni, non mesi 🚀. Per te significa che la competenza culinaria non è più un ostacolo: ora il vero lavoro è scegliere cosa far cucinare all’AI, non cucinare. Un menu generato in 10 minuti vale quanto uno studiato per anni?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "marc-lore-says-that-ai-will-soon-enable-anyone-ope",
   "prompt_version": "1.0.0",
@@ -137,11 +137,28 @@
         "Niente ricette fisse, niente sprechi.",
         "Puoi lanciare il tuo concept domani."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

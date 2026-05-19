@@ -24,7 +24,7 @@
   "savedAt": "2026-05-06T10:10:03.362Z",
   "link": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
   "instagram_caption": "Copilot ora ti fa pagare ogni singolo token che usi, esattamente come Netflix fattura per le ore di streaming. Niente abbonamenti fissi: se usi l'assistente AI poco, spendi poco; se lo sfrutti tanto, paghi in proporzione. Puoi impostare budget e limiti massimi — il controllo è tuo, non nascosto nelle clausole. Per chi lavora con codice o testo, significa sapere esattamente quanto costerà ogni richiesta, ⚖️ come un contatore della luce. Tu preferiresti pagare a consumo o un canone mensile fisso? 🔍💸📊",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "per-token-ai-charges-come-to-github-copilot",
   "prompt_version": "1.0.0",
@@ -51,11 +51,28 @@
         "Imposta un budget, non sfori mai.",
         "Come Netflix, paghi per l’uso, non per il potenziale."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

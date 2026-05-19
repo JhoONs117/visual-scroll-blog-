@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "allenamento-in-palestra-le-novit-si-chiamano-triba",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "Errore comune: fermarsi a metà esercizio o rallentare quando sale la fatica. Così perdi l’effetto brucia-grassi. Tieni il ritmo fino alla fine dello schema, anche se devi ridurre l'ampiezza.",
         "Non ti resta che provare. La prima lezione di TribalFit, Blaze o Punch è gratuita. Scegli quella che ti incuriosisce di più, vieni e dimmi com'è andata. Ti aspetto."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c25b81a35.jpeg",
   "savedAt": "2026-05-16T09:36:05.583Z",
-  "sourceId": "55d07d9645f26fecbd0699636c80e5ed"
+  "sourceId": "55d07d9645f26fecbd0699636c80e5ed",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

@@ -72,7 +72,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800",
   "instagram_caption": "Lovable ha appena alzato tutti del 10%, automatico, senza chiedere nulla in cambio. 💸 Niente bonus negoziati, niente giochi di corridoio per una promozione: basta essere lì da un anno. L'idea è che la competizione sui soldi di solito genera invidia e silenzi, mentre eliminare l'arma dello stipendio potrebbe spegnere le tensioni. 💡 Per chi lavora in aziende tossiche sarebbe un cambio radicale: smettere di litigare per un aumento e concentrarsi sul lavoro. 🤝 Tu preferisci l'aumento automatico o la meritocrazia?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "could-lovable-s-automatic-10-pay-raise-be-the-cure",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "La competizione sui soldi scompare.",
         "Chiediti: automatico o meritocrazia?"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

@@ -72,7 +72,7 @@
   "pubDate": "Wed, 13 May 2026 17:42:20 +0000",
   "savedAt": "2026-05-14T13:55:42.087Z",
   "link": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "geothermal-startup-fervo-energy-pops-33-in-ipo-deb",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Il solare e l'eoliano non bastano sempre.",
         "Il geotermico funziona 24 ore su 24."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

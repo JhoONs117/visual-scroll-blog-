@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "openai-launches-chatgpt-for-personal-finance-will-",
   "prompt_version": "1.0.0",
@@ -49,6 +49,13 @@
     },
     "instagram": {
       "caption": "OpenAI ha appena sbloccato l'accesso di ChatGPT ai tuoi conti correnti. Fino a ieri l'AI ragionava su dati pubblici; da oggi legge ogni tuo movimento — dal caffè mattutino all'assicurazione annuale. Il consiglio finanziario diventa così personalizzato in tempo reale sulle tue abitudini reali, non su un profilo standard. Se non connetti i conti, il suo parere resta generico, ma chi lo fa ottiene raccomandazioni aggiornate e un confronto immediato tra spese e suggerimenti. Quando è stata l'ultima volta che una banca ti ha fatto risparmiare un abbonamento Netflix? 💳📉🤖💰"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "OpenAI ha appena sbloccato l'accesso di ChatGPT ai tuoi conti correnti. Fino a ieri l'AI ragionava su dati pubblici; da oggi legge ogni tuo movimento — dal caffè mattutino all'assicurazione annuale. Il consiglio finanziario diventa così personalizzato in tempo reale sulle tue abitudini reali, non su un profilo standard. Se non connetti i conti, il suo parere resta generico, ma chi lo fa ottiene raccomandazioni aggiornate e un confronto immediato tra spese e suggerimenti. Quando è stata l'ultima volta che una banca ti ha fatto risparmiare un abbonamento Netflix? 💳📉🤖💰",
@@ -100,5 +107,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
   "savedAt": "2026-05-15T17:26:47.113Z",
-  "sourceId": "ba162ec2cb94c6ccbd04ec7f277d7285"
+  "sourceId": "ba162ec2cb94c6ccbd04ec7f277d7285",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

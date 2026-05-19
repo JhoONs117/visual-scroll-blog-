@@ -24,7 +24,7 @@
   "savedAt": "2026-05-07T02:04:38.310Z",
   "link": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
   "instagram_caption": "Google ha attivato Remy, un agente AI integrato in Gemini che prenota viaggi, acquista biglietti e gestisce calendari senza che tu muova un dito.  \nMa ogni azione — dal volo all’incontro — resta sotto il tuo controllo: devi approvarla prima che parta.  \nPer attivarlo, basta entrare nelle impostazioni di Gemini ora.  \nSe smettessi di cliccare pulsanti, quanto tempo libero ti ritroveresti in tasca? 🧠✈️✅📅",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "google-tests-remy-ai-agent-for-gemini-as-focus-tur",
   "prompt_version": "1.0.0",
@@ -51,11 +51,28 @@
         "Lo trovi già nelle impostazioni.",
         "Immagina: prenota il tuo viaggio mentre dormi."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

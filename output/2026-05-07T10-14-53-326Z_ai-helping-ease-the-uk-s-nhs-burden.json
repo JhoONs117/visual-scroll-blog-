@@ -71,7 +71,7 @@
   ],
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/ai-in-the-nhs-hero_x1440.webp",
   "instagram_caption": "In un reparto del NHS, un software ha tagliato le liste d'attesa del 30% 🏥. Questo programma non sostituisce i medici, ma analizza i sintomi in secondi e decide chi ha davvero bisogno di urgenza, smistando i pazienti al medico giusto. Per chi aspetta ore al pronto soccorso, significa ricevere una diagnosi in minuti invece che in ore ⏱️. Per te, significa meno tempo perso e personale meno stressato. Il tuo medico di famiglia lo usa già? Chiediglielo alla prossima visita 📲.",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "ai-helping-ease-the-uk-s-nhs-burden",
   "prompt_version": "1.0.0",
@@ -142,11 +142,28 @@
         "Meno pressione sui medici esausti.",
         "Chiedi al tuo dottore: lo usano?"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

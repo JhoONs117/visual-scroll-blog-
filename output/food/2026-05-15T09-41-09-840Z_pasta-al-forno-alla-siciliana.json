@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "food",
   "slug": "pasta-al-forno-alla-siciliana",
   "prompt_version": "1.0.0",
@@ -37,6 +37,13 @@
         "Poi condisci la pasta, aggiungi la scamorza a tocchetti, il parmigiano e inforna fino a gratinatura. Il profumo ti stende in un secondo.",
         "Lasciarla riposare 10 minuti prima di servirla: i sapori si fondono e non scotta. Provala e dimmi com'è andata 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -107,5 +114,15 @@
   ],
   "image": "https://www.giallozafferano.it/images/361-36162/Pasta-al-forno-alla-siciliana_650x433_wm.jpg",
   "savedAt": "2026-05-15T09:41:33.540Z",
-  "sourceId": "9e9b8ac0edbce3f019f05da05ec4af87"
+  "sourceId": "9e9b8ac0edbce3f019f05da05ec4af87",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

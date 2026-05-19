@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "stefania-constantini-tra-curling-palestra-il-lavor",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "Lo stress di competizioni, lavoro e vita privata accumula. Dopo l'allenamento, 10 min di respiro lento o stretching. Abbassa il cortisolo. Senza recupero mentale, fisico e relazionale, il rendimento crolla. Chiedi a Stefania.",
         "Oggi scegli un'abitudine da trasformare in routine fissa: allenamento di 20 min, orario per il partner o pausa mentale. Prova domani e fammi sapere come va 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/620594fbc00ec.jpeg",
   "savedAt": "2026-05-15T16:11:01.852Z",
-  "sourceId": "35342d6fd23dcfdfd5e56101280b2df6"
+  "sourceId": "35342d6fd23dcfdfd5e56101280b2df6",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

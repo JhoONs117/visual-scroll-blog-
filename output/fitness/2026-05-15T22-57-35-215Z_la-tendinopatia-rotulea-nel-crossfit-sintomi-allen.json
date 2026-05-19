@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "la-tendinopatia-rotulea-nel-crossfit-sintomi-allen",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "Non aspettare che il dolore passi da solo. Ogni salto doloroso è un microtrauma che irrigidisce il tendine. Inizia con esercizi a basso impatto: isometrici e eccentrici. Il controllo del movimento è la tua priorità oggi.",
         "Oggi inserisci 3 serie da 30 secondi di Wall Sit. Ginocchia a 90°, schiena al muro, piedi larghi. Senti il quadricipite lavorare ma senza dolore al tendine. Prova domani e dimmi com'è andata 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2020/09/18/61f63990c51f7.jpeg",
   "savedAt": "2026-05-15T22:58:09.428Z",
-  "sourceId": "fbea61a1d85ec36e6f1093d615aa310c"
+  "sourceId": "fbea61a1d85ec36e6f1093d615aa310c",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

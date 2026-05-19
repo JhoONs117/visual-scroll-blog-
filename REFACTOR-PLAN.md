@@ -29,6 +29,7 @@ Correlato a: PROJECT.md · MANUAL.md · FOOD-AGENT.md
 | FASE 11 — Review multi-canale | ✅ Completa | Badge agente, status pill, prompt_version, select X/IG/TikTok, copia per canale |
 | FASE 12 — Automazione publish | 🚧 In corso — Instagram bloccato | TEST 0–9 ✅. render-video.js ✅. publisher-x.js ✅ (bloccato X API Free). publisher-tiktok.js ✅ **TESTATO** (bozze inbox, sandbox video.upload). publisher-instagram.js ✅ (bloccato — impossibile creare account developer Instagram al momento). scheduler.js ✅. |
 | FASE 13 — Carousel unico | ✅ Completa | `carousel.html?agent=ai-news\|food`; proxy `/proxy-image` in `server.js` per food; `carousel-food.html` rimosso definitivamente |
+| FASE 14 — Video Engine multi-template | ✅ Completa | Schema v3 migrato (376 JSON). `video/validate-video-plan.js`, `video/generate-video-plan.js` (CI: `--ci`), `video/generate-slides-916.js` (Option C: carousel PNG priority + Pexels fallback), `video/templates/slide-deck.js` (zoompan + TTS + subtitle), `video/render-video-v2.js` (CLI entry point), `video/render-pending.js` (batch locale). UI: player video in `carousel.html`, dropdown quality in `review.html`+`carousel.html`, pulsante "Salva per video". CI: `generate-video-plan.js --ci` per tutti e 3 gli agenti ogni 2h. |
 
 ---
 
@@ -2123,6 +2124,825 @@ rm frontend/carousel-food.html
 
 ---
 
+## FASE 14 — Video Engine multi-template
+
+> **Prerequisito:** FASE 12 render locale validato su almeno 2 articoli (V1 stabile).
+> Non iniziare FASE 14 finché `render/render-video.js` non ha prodotto almeno 1 MP4 verificato.
+
+### Obiettivo
+
+Costruire un video engine a 3 livelli di qualità (low / medium / high) con template
+riutilizzabili per agente. Il sistema non genera video da zero: genera un piano video
+strutturato e lo passa al renderer corretto in base alla qualità scelta manualmente.
+
+### Regole non negoziabili FASE 14
+
+```
+1. MAX_TEST_LIMIT = 2 rimane attivo per tutti i livelli fino a validazione esplicita.
+2. Il render parte SOLO se avviato manualmente — mai automatico.
+3. Un articolo ha un solo video attivo. Cambiare qualità sovrascrive e cancella il precedente MP4.
+4. Le slide 9:16 vengono generate DENTRO il render, non prima.
+5. Non toccare run.js, run-food.js, core/run-agent.js, carousel.html.
+6. Ogni renderer (low/medium/high) è un file separato — mai logica if/else nel render principale.
+7. Se un agente non ha il mapping per una qualità, il render logga warning e si blocca senza crashare.
+```
+
+### Schema target — campi aggiunti al JSON articolo
+
+```json
+{
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null,
+  "formats": {
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
+    }
+  }
+}
+```
+
+> `render_quality` — qualità attiva scelta manualmente: `"low" | "medium" | "high" | null`
+> `render_template` — congelato al momento del flag dal config agente, non risolto al runtime
+> `render_status` — oggetto per qualità: `null | "pending" | "rendered" | "failed"`
+> `render_path` — path dell'ultimo MP4 generato
+> `render_error` — messaggio errore dell'ultimo render fallito
+> `formats.video.scenes` — piano video generato dall'AI, input per tutti i renderer
+
+### Mapping template per agente
+
+Aggiungere a ogni `agents/{agente}/config.js`:
+
+```js
+// agents/ai-news/config.js
+video: {
+  low:    'slide_deck',
+  medium: 'data_reveal',
+  high:   'avatar_presenter'
+},
+
+// agents/food/config.js
+video: {
+  low:    'slide_deck',
+  medium: 'recipe_reveal',
+  high:   'avatar_presenter'
+},
+
+// agents/fitness/config.js
+video: {
+  low:    'slide_deck',
+  medium: 'coach_breakdown',
+  high:   'avatar_presenter'
+}
+```
+
+> `slide_deck` — renderer FFmpeg, usa `carousel_slides` animate (low, tutti gli agenti)
+> `data_reveal` — renderer node-canvas, animazioni procedurali (medium, AI news)
+> `recipe_reveal` — renderer node-canvas, slide food animate con stagger (medium, food)
+> `coach_breakdown` — renderer node-canvas, errore/tecnica/bullet (medium, fitness)
+> `avatar_presenter` — renderer API esterna D-ID/HeyGen (high, tutti gli agenti)
+
+### Struttura file nuovi
+
+```
+video/
+  templates/
+    index.js                  ← registry template
+    slide-deck.js             ← low — FFmpeg + carousel_slides
+    data-reveal.js            ← medium — node-canvas AI news
+    recipe-reveal.js          ← medium — node-canvas food
+    coach-breakdown.js        ← medium — node-canvas fitness
+    avatar-presenter.js       ← high — API esterna
+  generate-video-plan.js      ← genera formats.video.scenes via AI
+  validate-video-plan.js      ← quality gate prima del render
+  render-video-v2.js          ← entry point render, legge render_template e delega
+  generate-slides-916.js      ← genera versione 9:16 delle carousel_slides
+```
+
+### Quality gate — un video è renderizzabile solo se
+
+```
+- ha esattamente 5 scene
+- durata totale tra 18 e 35 secondi
+- scena 1 contiene hook non vuoto
+- ogni scena ha voiceover e on_screen_text
+- nessun voiceover supera 22 parole
+- on_screen_text massimo 9 parole per scena
+- CTA finale presente
+- quality_score >= 75
+- render_quality è impostato (non null)
+- render_template è impostato (non null)
+- carousel_slides ha 5 elementi con path immagine esistente su disco (solo low e medium)
+```
+
+---
+
+### FASE 14A — Schema v3 + config agenti video
+
+**Obiettivo:** aggiungere i nuovi campi video allo schema e il mapping template alle config.
+Nessun renderer, nessuna generazione. Solo struttura dati.
+
+#### Prompt Claude Code — migrate-schema-v3.js
+
+```
+Crea il file scripts/migrate-schema-v3.js.
+
+Lo script accetta --dry-run o --apply (default: --dry-run).
+
+Comportamento:
+1. Legge tutti i file *.json in output/, output/food/, output/fitness/
+2. Per ogni file con schema_version === 2:
+   a. Aggiunge render_quality: null (se non presente)
+   b. Aggiunge render_template: null (se non presente)
+   c. Aggiunge render_status: { low: null, medium: null, high: null } (se non presente)
+   d. Aggiunge render_path: null (se non presente)
+   e. Aggiunge render_error: null (se non presente)
+   f. Aggiunge render_version: null (se non presente)
+   g. Aggiunge formats.video: { scenes: [], duration_sec: 0, aspect_ratio: '9:16', cta: '', quality_score: 0 } (se non presente)
+   h. Aggiorna schema_version a 3
+3. Se schema_version === 3: salta, logga "già v3: FILENAME"
+4. In --dry-run: logga ogni modifica senza scrivere
+5. In --apply: sovrascrive il file con indentazione 2 spazi
+
+Non modificare nessun altro file.
+Non toccare i campi video_scenes, render_status legacy a root se presenti —
+aggiungere solo i nuovi campi, non rimuovere nulla.
+```
+
+#### Prompt Claude Code — aggiorna config agenti
+
+```
+Aggiorna i seguenti file aggiungendo il blocco video al loro oggetto di configurazione.
+Non modificare nessun altro campo esistente.
+
+1. agents/ai-news/config.js — aggiungi:
+video: {
+  low:    'slide_deck',
+  medium: 'data_reveal',
+  high:   'avatar_presenter'
+}
+
+2. agents/food/config.js — aggiungi:
+video: {
+  low:    'slide_deck',
+  medium: 'recipe_reveal',
+  high:   'avatar_presenter'
+}
+
+3. agents/fitness/config.js — aggiungi:
+video: {
+  low:    'slide_deck',
+  medium: 'coach_breakdown',
+  high:   'avatar_presenter'
+}
+
+Non modificare nessun altro file.
+```
+
+#### Test automatici FASE 14A
+
+```bash
+# Dry-run migrazione
+node scripts/migrate-schema-v3.js --dry-run
+# Atteso: lista di file con i campi che verrebbero aggiunti, nessuna scrittura
+
+# Applica migrazione
+node scripts/migrate-schema-v3.js --apply
+
+# Verifica schema v3
+node -e "
+const fs = require('fs');
+const files = fs.readdirSync('output').filter(f => f.endsWith('.json'));
+const sample = JSON.parse(fs.readFileSync('output/' + files[0]));
+console.log('schema_version:', sample.schema_version); // atteso: 3
+console.log('render_quality:', sample.render_quality);  // atteso: null
+console.log('render_template:', sample.render_template); // atteso: null
+console.log('render_status:', sample.render_status);    // atteso: { low: null, medium: null, high: null }
+console.log('formats.video:', sample.formats.video);    // atteso: oggetto con scenes: []
+"
+
+# Verifica config agenti
+node -e "
+const ai = require('./agents/ai-news/config');
+const food = require('./agents/food/config');
+const fitness = require('./agents/fitness/config');
+console.log('ai-news video:', ai.video);
+console.log('food video:', food.video);
+console.log('fitness video:', fitness.video);
+// Atteso: tutti e tre con low/medium/high definiti
+"
+
+# Contract test non deve rompere nulla
+node scripts/contract-test.js
+# Atteso: 0 FAIL
+```
+
+#### Test manuali FASE 14A
+
+```bash
+# Verifica che un articolo food abbia lo schema corretto
+cat output/food/$(ls output/food/ | head -1) | node -e "
+const d = require('fs').readFileSync('/dev/stdin','utf8');
+const j = JSON.parse(d);
+console.log('v3:', j.schema_version === 3);
+console.log('render_status ok:', JSON.stringify(j.render_status) === JSON.stringify({low:null,medium:null,high:null}));
+console.log('formats.video ok:', Array.isArray(j.formats.video.scenes));
+"
+```
+
+---
+
+### FASE 14B — generate-video-plan.js
+
+**Obiettivo:** generare `formats.video.scenes` per ogni articolo approvato via AI.
+Il piano video è il testo strutturato che tutti i renderer useranno come input.
+`MAX_TEST_LIMIT = 2` è attivo anche qui.
+
+#### Prompt Claude Code
+
+```
+Crea il file video/generate-video-plan.js.
+
+CLI:
+  node video/generate-video-plan.js --agent ai-news --limit 1
+  node video/generate-video-plan.js --agent food --slug specific-slug
+
+Vincoli hardcoded (NON rimuovere senza commit esplicito):
+  const MAX_TEST_LIMIT = 2;
+  if (limit > MAX_TEST_LIMIT) {
+    console.error('❌ --limit ' + limit + ' non permesso (max ' + MAX_TEST_LIMIT + ' in fase test)');
+    process.exit(1);
+  }
+
+Comportamento:
+1. Legge articoli da output/{agentId}/*.json
+2. Filtra: status === 'approved' AND render_quality !== null AND formats.video.scenes.length === 0
+3. Per ogni articolo (rispettando limit):
+   a. Chiama OpenAI con il prompt di generazione piano video (vedi sotto)
+   b. Parsa la risposta JSON
+   c. Valida con validateVideoPlan() da video/validate-video-plan.js
+   d. Se valido: salva in formats.video.scenes, aggiorna formats.video.quality_score
+   e. Se non valido: logga warning con i motivi, NON salvare, NON bloccare il loop
+   f. Aggiorna formats.video.duration_sec come somma delle duration_sec delle scene
+4. Salva il JSON aggiornato
+
+Prompt AI da usare (system):
+  Sei un video producer per contenuti social verticali (TikTok, Reels, Shorts).
+  Rispondi SOLO con un oggetto JSON valido, senza markdown, senza backtick.
+
+Prompt AI da usare (user) — costruito dinamicamente:
+  Genera un piano video di 5 scene per questo articolo.
+  
+  Agente: {agentId}
+  Titolo: {article.title}
+  Slides: {article.slides.join(' | ')}
+  Template: {article.render_template}
+  
+  Rispondi con questo schema esatto:
+  {
+    "scenes": [
+      {
+        "scene": 1,
+        "duration_sec": 4,
+        "hook": "...",
+        "voiceover": "...",
+        "on_screen_text": "...",
+        "visual_direction": "...",
+        "caption": "..."
+      }
+    ],
+    "cta": "...",
+    "quality_score": 0
+  }
+  
+  Regole:
+  - esattamente 5 scene
+  - durata totale tra 18 e 35 secondi
+  - scena 1: hook forte, max 8 parole on_screen_text
+  - ogni voiceover: max 22 parole
+  - ogni on_screen_text: max 9 parole
+  - quality_score: intero 0-100 che stimi tu in base alla forza dell'hook e chiarezza del messaggio
+  - cta: frase finale invito all'azione, max 10 parole
+
+Gestione errori:
+  - Se JSON.parse fallisce: logga "❌ risposta AI non parsabile", continua
+  - Se validazione fallisce: logga motivi, continua
+  - Non lanciare mai eccezioni non gestite
+
+Non modificare nessun altro file.
+Crea la directory video/ se non esiste.
+```
+
+#### Test automatici FASE 14B
+
+```bash
+# Test dry-run su 1 articolo AI news approvato con render_quality impostato
+node video/generate-video-plan.js --agent ai-news --limit 1
+
+# Verifica che il piano sia stato salvato
+node -e "
+const fs = require('fs');
+const files = fs.readdirSync('output').filter(f => f.endsWith('.json'));
+const withPlan = files.filter(f => {
+  const j = JSON.parse(fs.readFileSync('output/' + f));
+  return j.formats && j.formats.video && j.formats.video.scenes.length > 0;
+});
+console.log('Articoli con piano video:', withPlan.length); // atteso: >= 1
+if (withPlan.length > 0) {
+  const j = JSON.parse(fs.readFileSync('output/' + withPlan[0]));
+  console.log('Scene:', j.formats.video.scenes.length);        // atteso: 5
+  console.log('Quality score:', j.formats.video.quality_score); // atteso: > 0
+  console.log('Duration:', j.formats.video.duration_sec);       // atteso: 18-35
+}
+"
+
+# Verifica MAX_TEST_LIMIT
+node video/generate-video-plan.js --agent ai-news --limit 5
+# Atteso: ❌ --limit 5 non permesso (max 2 in fase test)
+```
+
+#### Test manuali FASE 14B
+
+Apri il JSON di un articolo approvato dopo il run e verifica manualmente:
+- `formats.video.scenes` ha 5 oggetti
+- ogni scena ha hook, voiceover, on_screen_text, duration_sec
+- nessun voiceover supera 22 parole (conta a mano su 2 scene)
+- quality_score è un numero tra 0 e 100
+
+---
+
+### FASE 14C — validate-video-plan.js + quality gate
+
+**Obiettivo:** bloccare piani video deboli prima del render.
+
+#### Prompt Claude Code
+
+```
+Crea il file video/validate-video-plan.js.
+
+Esporta la funzione:
+  validateVideoPlan(plan) → { valid: boolean, errors: string[] }
+
+Controlli da eseguire:
+1. plan.scenes è array di esattamente 5 elementi
+2. plan.duration_sec è tra 18 e 35 (calcolato come somma delle duration_sec delle scene)
+3. scenes[0].hook è stringa non vuota
+4. Ogni scena ha voiceover stringa non vuota
+5. Ogni voiceover ha al massimo 22 parole (split su whitespace)
+6. Ogni scena ha on_screen_text stringa non vuota
+7. Ogni on_screen_text ha al massimo 9 parole
+8. plan.cta è stringa non vuota
+9. plan.quality_score è numero >= 75
+
+Per ogni controllo fallito: aggiunge stringa descrittiva a errors[].
+Se errors.length === 0: valid = true.
+
+Non modificare nessun altro file.
+```
+
+#### Test automatici FASE 14C
+
+```bash
+node -e "
+const { validateVideoPlan } = require('./video/validate-video-plan');
+
+// Test piano valido
+const valid = {
+  scenes: [
+    { scene:1, duration_sec:4, hook:'Hook forte qui', voiceover:'Breve voiceover scena uno', on_screen_text:'Hook forte', caption:'...' },
+    { scene:2, duration_sec:4, hook:'', voiceover:'Voiceover scena due breve ok', on_screen_text:'Cosa succede', caption:'...' },
+    { scene:3, duration_sec:4, hook:'', voiceover:'Terza scena spiegazione breve', on_screen_text:'Perché conta', caption:'...' },
+    { scene:4, duration_sec:4, hook:'', voiceover:'Quarta scena dettaglio pratico ok', on_screen_text:'Come fare', caption:'...' },
+    { scene:5, duration_sec:4, hook:'', voiceover:'CTA finale seguimi per altro', on_screen_text:'Seguimi ora', caption:'...' }
+  ],
+  cta: 'Seguimi per altre storie AI',
+  quality_score: 80,
+  duration_sec: 20
+};
+const r1 = validateVideoPlan(valid);
+console.log('Piano valido - valid:', r1.valid, '| errors:', r1.errors.length); // atteso: true, 0
+
+// Test piano non valido — score basso + voiceover troppo lungo
+const invalid = { ...valid, quality_score: 50 };
+invalid.scenes[0].voiceover = 'Questo voiceover è troppo lungo supera il limite di ventidue parole che abbiamo stabilito come massimo per ogni singola scena del video';
+const r2 = validateVideoPlan(invalid);
+console.log('Piano invalido - valid:', r2.valid, '| errors:', r2.errors); // atteso: false, 2+ errori
+"
+```
+
+---
+
+### FASE 14D — generate-slides-916.js
+
+**Obiettivo:** generare versione 9:16 (1080x1920) delle `carousel_slides` come step
+interno al render. Queste slide sono usate esclusivamente dai renderer video.
+
+#### Prompt Claude Code
+
+```
+Crea il file video/generate-slides-916.js.
+
+Esporta la funzione async:
+  generateSlides916(article, agentConfig) → string[] (array di path assoluti)
+
+Comportamento:
+1. Per ogni elemento in article.carousel_slides (max 5):
+   a. Verifica che il file immagine esista su disco
+   b. Se non esiste: logga warning, usa black frame come fallback
+   c. Input immagine: tipicamente 1080x1080
+   d. Output: 1080x1920 con l'immagine centrata verticalmente
+   e. Aree vuote sopra e sotto: riempite con colore agentConfig.theme.palette.accent
+      oppure con blur dell'immagine stessa se FFmpeg lo supporta (usa -vf "boxblur=20")
+   f. Salva in output/{agentId}/slides-916/{slug}_slide{i}.jpg
+   g. Aggiunge il path all'array output
+
+2. Se output/{agentId}/slides-916/{slug}_slide0.jpg esiste già: salta la generazione
+   e restituisce i path esistenti (evita rigenerazione inutile)
+
+3. Crea le directory necessarie con fs.mkdirSync recursive.
+
+Comando FFmpeg per ogni slide:
+  ffmpeg -i INPUT -vf "scale=1080:1080,pad=1080:1920:0:420:color=ACCENT_HEX" -y OUTPUT
+
+Non modificare nessun altro file.
+```
+
+#### Test automatici FASE 14D
+
+```bash
+node -e "
+const { generateSlides916 } = require('./video/generate-slides-916');
+const agentConfig = require('./agents/ai-news/config');
+const fs = require('fs');
+
+// Prendi un articolo approvato con carousel_slides
+const files = fs.readdirSync('output').filter(f => f.endsWith('.json'));
+const article = JSON.parse(fs.readFileSync('output/' + files[0]));
+
+generateSlides916(article, agentConfig).then(paths => {
+  console.log('Slide 9:16 generate:', paths.length); // atteso: <= 5
+  paths.forEach(p => {
+    const exists = fs.existsSync(p);
+    console.log(p, exists ? '✅' : '❌');
+  });
+}).catch(console.error);
+"
+```
+
+#### Test manuali FASE 14D
+
+```bash
+# Apri una slide 9:16 generata e verifica visivamente
+open output/ai-news/slides-916/$(ls output/ai-news/slides-916/ | head -1)
+# Verifica: formato verticale, immagine centrata, bordi con colore agente o blur
+```
+
+---
+
+### FASE 14E — Template registry + slide-deck.js (LOW)
+
+**Obiettivo:** costruire il registry template e il primo renderer — `slide_deck` con FFmpeg.
+
+#### Prompt Claude Code — video/templates/index.js
+
+```
+Crea il file video/templates/index.js.
+
+Contenuto:
+'use strict';
+module.exports = {
+  'slide_deck':       require('./slide-deck'),
+  'data_reveal':      require('./data-reveal'),
+  'recipe_reveal':    require('./recipe-reveal'),
+  'coach_breakdown':  require('./coach-breakdown'),
+  'avatar_presenter': require('./avatar-presenter')
+};
+
+Per i template non ancora implementati (data_reveal, recipe_reveal,
+coach_breakdown, avatar_presenter) crea stub che lanciano:
+  throw new Error('Template {nome} non ancora implementato');
+
+Non creare i file template — solo index.js con gli stub inline o come moduli vuoti.
+```
+
+#### Prompt Claude Code — video/templates/slide-deck.js
+
+```
+Crea il file video/templates/slide-deck.js.
+
+Esporta la funzione async:
+  render(article, scenes, agentConfig, outputPath) → Promise<void>
+
+Questo renderer usa FFmpeg per animare le slide 9:16 già generate.
+
+Pipeline:
+1. Chiama generateSlides916(article, agentConfig) → paths[]
+   Importa da video/generate-slides-916.js
+2. Per ogni scena (scenes[i]):
+   a. slide = paths[i] (o paths[paths.length-1] se i >= paths.length)
+   b. dur = scenes[i].duration_sec
+   c. Applica animazione FFmpeg in base a (i % 3):
+      0 → slow zoom:  -vf "scale=8000:-1,zoompan=z='zoom+0.0015':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={dur*30}:s=1080x1920:fps=30"
+      1 → pan left:   -vf "scale=1440:1920,crop=1080:1920:'(iw-1080)*t/{dur}':0"
+      2 → ken burns:  zoom + pan diagonale combinati
+   d. Genera TTS audio per scenes[i].voiceover → output/{agentId}/renders/audio/{slug}_scene{i}.mp3
+      Usa la stessa funzione TTS già presente in core/video-utils.js o render/render-video.js
+   e. Misura durata reale audio con ffprobe → usa quella come durata effettiva della scena
+   f. Salva clip scena in output/{agentId}/renders/clips/{slug}_scene{i}.mp4
+3. Concatena le 5 clip con FFmpeg concat filter
+4. Aggiungi voiceover: merge audio TTS sul video concatenato
+5. Aggiungi subtitles con drawtext:
+   fontfile=assets/fonts/Inter-Bold.ttf
+   testo = scenes[i].caption per ogni scena
+   posizione: x=(w-text_w)/2, y=h-120
+   fontsize=38, fontcolor=white, box=1, boxcolor=black@0.5
+6. Export finale: outputPath (es. output/{agentId}/renders/{slug}.mp4)
+7. Cleanup: rimuovi i clip intermedi in output/{agentId}/renders/clips/ dopo concat
+
+Failure isolation:
+  - Ogni step in try/catch
+  - Se una scena fallisce: usa black clip come fallback, continua
+  - Non lanciare mai eccezioni non gestite — rigetta la Promise con messaggio chiaro
+
+Non modificare nessun altro file.
+```
+
+#### Test automatici FASE 14E
+
+```bash
+# Verifica che il registry si carichi
+node -e "
+const templates = require('./video/templates/index');
+console.log('Template registrati:', Object.keys(templates));
+// Atteso: slide_deck, data_reveal, recipe_reveal, coach_breakdown, avatar_presenter
+
+console.log('slide_deck è funzione:', typeof templates.slide_deck.render === 'function'); // atteso: true
+try { templates.data_reveal.render() } catch(e) { console.log('data_reveal stub ok:', e.message.includes('non ancora implementato')); }
+"
+
+# Test render slide_deck su 1 articolo
+# Prima imposta manualmente render_quality su un articolo approvato:
+node -e "
+const fs = require('fs');
+const files = fs.readdirSync('output').filter(f => f.endsWith('.json'));
+const path = 'output/' + files[0];
+const j = JSON.parse(fs.readFileSync(path));
+j.render_quality = 'low';
+j.render_template = 'slide_deck';
+j.render_status.low = 'pending';
+fs.writeFileSync(path, JSON.stringify(j, null, 2));
+console.log('Flaggato:', path);
+"
+
+node video/render-video-v2.js --agent ai-news --limit 1
+# Atteso: MP4 in output/ai-news/renders/{slug}.mp4
+```
+
+#### Test manuali FASE 14E
+
+```bash
+# Verifica MP4 generato
+ls -lh output/ai-news/renders/*.mp4
+# Atteso: file presente, dimensione < 50MB
+
+# Verifica proprietà video
+ffprobe -v quiet -print_format json -show_streams output/ai-news/renders/*.mp4 | node -e "
+const d = require('fs').readFileSync('/dev/stdin','utf8');
+const j = JSON.parse(d);
+const v = j.streams.find(s => s.codec_type === 'video');
+console.log('width:', v.width);   // atteso: 1080
+console.log('height:', v.height); // atteso: 1920
+console.log('codec:', v.codec_name); // atteso: h264
+"
+
+# Guarda il video
+open output/ai-news/renders/*.mp4
+# Verifica: 5 scene, slide animate, subtitles visibili, voiceover presente
+```
+
+---
+
+### FASE 14F — render-video-v2.js (entry point)
+
+**Obiettivo:** entry point unico che legge `render_template` e delega al renderer corretto.
+
+#### Prompt Claude Code
+
+```
+Crea il file video/render-video-v2.js.
+
+CLI:
+  node video/render-video-v2.js --agent ai-news --limit 1
+  node video/render-video-v2.js --agent food --slug specific-slug
+
+Vincoli hardcoded (NON rimuovere senza commit esplicito):
+  if (argv.includes('--all')) { console.error('❌ --all non supportato'); process.exit(1); }
+  const MAX_TEST_LIMIT = 2;
+  if (limit > MAX_TEST_LIMIT) {
+    console.error('❌ --limit ' + limit + ' non permesso (max ' + MAX_TEST_LIMIT + ' in fase test)');
+    console.error('   Rimuovi MAX_TEST_LIMIT nel codice quando V1 è validato.');
+    process.exit(1);
+  }
+
+Logica per ogni articolo:
+1. Verifica: status === 'approved'
+2. Verifica: render_quality !== null
+3. Verifica: render_template !== null
+4. Verifica: formats.video.scenes.length === 5
+5. Verifica: render_status[render_quality] !== 'rendered'
+6. Carica template da video/templates/index.js usando render_template
+7. Se template non trovato: logga errore, setta render_status[render_quality] = 'failed', continua
+8. Se template è stub (lancia 'non ancora implementato'): logga warning chiaro, continua
+9. Esegui validateVideoPlan(article.formats.video) — se non valido: logga errori, setta failed, continua
+10. outputPath = output/{agentId}/renders/{slug}.mp4
+11. Se outputPath esiste già: eliminalo prima del render (sovrascrittura esplicita)
+12. Chiama template.render(article, article.formats.video.scenes, agentConfig, outputPath)
+13. Se successo:
+    - render_status[render_quality] = 'rendered'
+    - render_path = outputPath
+    - render_version = '1'
+    - render_error = null
+14. Se fallisce:
+    - render_status[render_quality] = 'failed'
+    - render_error = errore.message
+15. Salva JSON aggiornato
+
+Failure isolation:
+  - Ogni articolo in try/catch separato
+  - Un articolo fallito non blocca il successivo
+
+Non modificare nessun altro file.
+Crea la directory output/{agentId}/renders/ se non esiste.
+```
+
+#### Test automatici FASE 14F
+
+```bash
+# Test --all bloccato
+node video/render-video-v2.js --all
+# Atteso: ❌ --all non supportato
+
+# Test --limit troppo alto
+node video/render-video-v2.js --agent ai-news --limit 5
+# Atteso: ❌ --limit 5 non permesso
+
+# Test articolo senza piano video (scenes vuote)
+node -e "
+const fs = require('fs');
+const files = fs.readdirSync('output').filter(f => f.endsWith('.json'));
+const path = 'output/' + files[1];
+const j = JSON.parse(fs.readFileSync(path));
+j.render_quality = 'low';
+j.render_template = 'slide_deck';
+j.formats.video.scenes = []; // piano vuoto intenzionalmente
+fs.writeFileSync(path, JSON.stringify(j, null, 2));
+"
+node video/render-video-v2.js --agent ai-news --limit 1
+# Atteso: logga errore quality gate, render_status.low = 'failed', nessun crash
+```
+
+---
+
+### FASE 14G — UI video in carousel.html
+
+**Obiettivo:** aggiungere visualizzazione e download MP4 in `carousel.html` per gli articoli
+con `render_path` presente. Nessuna modifica alla logica PNG esistente.
+
+#### Prompt Claude Code
+
+```
+Modifica carousel.html aggiungendo una sezione video per ogni articolo
+che ha render_path !== null nel suo JSON.
+
+Regole:
+1. Non toccare la logica PNG esistente — aggiungi solo, non modificare
+2. La sezione video appare SOTTO le slide PNG esistenti
+3. Mostra un tag <video> con controls, width=100%, src={render_path}
+4. Sotto il video: un pulsante "Scarica MP4" con tag <a download href={render_path}>
+5. Se render_path è null o render_status di tutte le qualità è null:
+   mostra un placeholder grigio con testo "Nessun video generato"
+6. Se render_status[render_quality] === 'failed':
+   mostra il render_error in rosso sotto al placeholder
+7. Verifica che server.js serva staticamente output/{agentId}/renders/
+   Se non lo fa già, aggiungi: app.use('/renders', express.static(path.join(__dirname, 'output')))
+   e aggiorna il src del video di conseguenza
+
+Non modificare la logica di generazione PNG.
+Non modificare il proxy /proxy-image.
+Non modificare il routing degli agenti.
+```
+
+#### Test automatici FASE 14G
+
+```bash
+# Verifica che server.js serva i renders
+curl -I http://localhost:3000/renders/ai-news/renders/$(ls output/ai-news/renders/*.mp4 | head -1 | xargs basename)
+# Atteso: HTTP 200
+```
+
+#### Test manuali FASE 14G
+
+```bash
+open "http://localhost:3000/carousel.html?agent=ai-news"
+# Verifica:
+# - articoli senza video mostrano placeholder grigio
+# - articoli con video mostrano player funzionante
+# - il video si riproduce correttamente nel browser
+# - il pulsante "Scarica MP4" scarica il file
+# - le slide PNG esistenti non sono state modificate
+```
+
+---
+
+### FASE 14H — Flag render_quality da review.html e carousel.html
+
+**Obiettivo:** aggiungere i tasti Low / Mid / High per flaggare la qualità video
+direttamente dall'interfaccia, senza toccare i JSON a mano.
+
+#### Prompt Claude Code
+
+```
+Aggiungi a review.html e carousel.html i tasti per impostare render_quality.
+
+Comportamento:
+1. Per ogni articolo con status === 'approved', mostra 3 tasti sotto i controlli esistenti:
+   [ Low ] [ Mid ] [ High ]
+2. Il tasto corrispondente alla render_quality attuale appare evidenziato
+3. Clic su un tasto:
+   a. Chiama POST /api/set-render-quality con { slug, agentId, quality: 'low'|'medium'|'high' }
+   b. Se render_status[quality] === 'rendered': mostra confirm dialog
+      "Questo articolo ha già un video renderizzato. Vuoi sovrascriverlo?"
+      Se confermato: procedi. Se annullato: non fare nulla.
+   c. Se confermato o nessun video esistente: aggiorna il JSON
+4. Se l'articolo non è 'approved': i tasti non appaiono
+
+Aggiungi a server.js la route:
+  POST /api/set-render-quality
+  Body: { slug, agentId, quality }
+  
+  Logica:
+  1. Carica output/{agentId}/{slug}.json
+  2. Verifica status === 'approved'
+  3. Se render_status[quality] === 'rendered':
+     - Elimina il file render_path se esiste su disco
+     - Resetta render_status[quality] = 'pending'
+     - Resetta render_path = null
+     - Resetta render_error = null
+  4. Imposta render_quality = quality
+  5. Imposta render_template = agents[agentId].config.video[quality]
+  6. Imposta render_status[quality] = 'pending'
+  7. Salva JSON
+  8. Risponde { ok: true, render_template }
+
+Non modificare la logica di approvazione esistente.
+Non modificare il proxy /proxy-image.
+```
+
+#### Test automatici FASE 14H
+
+```bash
+# Test API set-render-quality
+curl -X POST http://localhost:3000/api/set-render-quality \
+  -H "Content-Type: application/json" \
+  -d '{"slug": "'$(ls output/*.json | head -1 | xargs basename .json)'", "agentId": "ai-news", "quality": "low"}'
+# Atteso: { "ok": true, "render_template": "slide_deck" }
+
+# Verifica che il JSON sia stato aggiornato
+node -e "
+const fs = require('fs');
+const slug = fs.readdirSync('output').filter(f=>f.endsWith('.json'))[0].replace('.json','');
+const j = JSON.parse(fs.readFileSync('output/'+slug+'.json'));
+console.log('render_quality:', j.render_quality);   // atteso: low
+console.log('render_template:', j.render_template); // atteso: slide_deck
+console.log('render_status.low:', j.render_status.low); // atteso: pending
+"
+```
+
+#### Test manuali FASE 14H
+
+```bash
+open "http://localhost:3000/review.html"
+# Verifica:
+# - articoli approvati mostrano i 3 tasti Low / Mid / High
+# - articoli non approvati non mostrano i tasti
+# - clic su Low evidenzia il tasto e aggiorna il JSON
+# - clic su Mid su un articolo già renderizzato mostra il confirm dialog
+# - dopo conferma il render_quality cambia e il vecchio MP4 viene eliminato
+```
+
+---
+
 ## Riepilogo ordine e dipendenze
 
 ```
@@ -2151,6 +2971,19 @@ FASE 12 🔒 media pipeline & autonomous publishing
           V1 validato → rimuovi MAX_TEST_LIMIT → V1.1
           12.12 publish/ (solo dopo V1 stabile)
 FASE 13 ✅ carousel unico (carousel.html?agent=, proxy food, carousel-food.html rimosso)
+FASE 14 ⏳ video engine multi-template
+        prerequisito: FASE 12 V1 stabile (almeno 1 MP4 verificato)
+        ordine interno:
+          14A — schema v3 + config agenti video
+          14B — generate-video-plan.js (MAX_TEST_LIMIT attivo)
+          14C — validate-video-plan.js + quality gate
+          14D — generate-slides-916.js (step interno al render)
+          14E — template registry + slide-deck.js (LOW)
+          14F — render-video-v2.js (entry point)
+          14G — UI video in carousel.html
+          14H — flag render_quality da review.html e carousel.html
+          14E validato → medium templates (data_reveal, recipe_reveal, coach_breakdown)
+          medium validato → avatar_presenter (HIGH, API esterna)
 ```
 
 **Prossima azione:** accumulare 30 articoli approvati manualmente da `review.html`,

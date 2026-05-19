@@ -72,7 +72,7 @@
   "pubDate": "Tue, 12 May 2026 13:52:00 +0000",
   "savedAt": "2026-05-13T10:15:13.435Z",
   "link": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "hugging-face-hosted-malicious-software-masqueradin",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Hugging Face non era parte del test.",
         "Prima di eseguire un modello, verifica la firma."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

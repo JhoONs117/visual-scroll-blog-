@@ -63,7 +63,7 @@
   "link": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/ringcentral-ai-hero_x1440.webp",
   "instagram_caption": "Shopify ordini e WhatsApp messaggi: il receptionist AI di RingCentral ora gestisce tutto senza che tu alzi un dito.  \nSi integra con Calendly così una richiesta via chat diventa subito un appuntamento in agenda 🗓️. I clienti prenotano da soli, senza parlare con nessuno, e tu smetti di perdere tempo tra chiamate e passaggi di persona ⏳.  \nCon un costo inferiore a un abbonamento Spotify, il primo assistente AI è già attivabile oggi.  \nQuante ore della tua giornata andrebbero via se non dovessi mai più rispondere a \"posso prenotare?\" 📲?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "ringcentral-adds-shopify-calendly-and-whatsapp-to-",
   "prompt_version": "1.0.0",
@@ -126,11 +126,28 @@
         "Funziona pure con Calendly, tutto automatico.",
         "Costa meno di Spotify, provalo oggi."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

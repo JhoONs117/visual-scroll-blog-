@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "cosa-succede-al-tuo-corpo-quando-non-fai-stretchin",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "10 minuti dopo ogni allenamento. Non serve di più. Fai: 30 sec per gruppo muscolare, respiro profondo, nessun dolore. Così previeni infortuni e migliori la flessibilità.",
         "Domani dopo il workout prova il mio miniprotocollo: 10 minuti di stretching a respiro lento. Scrivimi com'è andata 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cc919c701.jpeg",
   "savedAt": "2026-05-15T17:39:05.445Z",
-  "sourceId": "3735cc25c36f44e59b84a722ad195269"
+  "sourceId": "3735cc25c36f44e59b84a722ad195269",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

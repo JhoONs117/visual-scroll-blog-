@@ -23,7 +23,7 @@
   ],
   "savedAt": "2026-05-07T02:04:38.310Z",
   "instagram_caption": "In Europa l’adozione dell'AI è in ritardo, ma secondo IDC non serve un piano da milioni per recuperare.  \nIl consiglio è semplice: scegli un processo, uno solo, e automatizzalo. Un chatbot per i ticket di supporto, per esempio, ha già tagliato le richieste del 40% in tre mesi.  \nConcretamente significa risolvere un problema vero senza stravolgere tutto il lavoro.  \nQuale processo manuale nella tua giornata ti piacerebbe far gestire a un assistente automatico? 🤖🎯⏱️",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "idc-how-emea-cios-can-jumpstart-ai-rollouts",
   "prompt_version": "1.0.0",
@@ -50,11 +50,28 @@
         "Un chatbot per il supporto è un ottimo inizio.",
         "Inizia ora, prendi il tuo win veloce."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

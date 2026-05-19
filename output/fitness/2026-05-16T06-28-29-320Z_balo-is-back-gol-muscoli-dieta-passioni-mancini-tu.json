@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "balo-is-back-gol-muscoli-dieta-passioni-mancini-tu",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "La costanza batte il talento ogni volta. Il segreto di Mario ora è la ripetizione quotidiana. Non serve la sessione perfetta, serve quella fatta. Tre allenamenti medi tenuti per 6 mesi valgono più di due perfetti e poi stop.",
         "Oggi fai 10 minuti di tabata: 20 secondi di lavoro, 10 di recupero. Scegli un esercizio (burpee, squat, mountain climber) e dà tutto. Pochi minuti, massimo impatto. Prova domani e dimmi com'è andata 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205935f4d67e.jpeg",
   "savedAt": "2026-05-16T06:29:14.268Z",
-  "sourceId": "7e42efc28a372ca524f5c87c05d76a4b"
+  "sourceId": "7e42efc28a372ca524f5c87c05d76a4b",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

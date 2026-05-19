@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "gigi-samele-l-allenamento-il-pilates-le-medaglie-f",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "Errore comune: forzare la colonna vertebrale. La schiena non va mai piegata sotto carico senza stabilità. Samele mantiene sempre l'allineamento. Se senti dolore, fermati. Riscaldati bene e ascolta il corpo.",
         "Vuoi iniziare a costruire la tua disciplina? Segui oggi stesso una lezione di pilates. 20 minuti al giorno bastano per sentire la differenza. Prova domani e dimmi com'è andata 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a77059bc0d.jpeg",
   "savedAt": "2026-05-15T13:58:40.399Z",
-  "sourceId": "493ccf9f88f371572fb10d976fd6d9b7"
+  "sourceId": "493ccf9f88f371572fb10d976fd6d9b7",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

@@ -72,7 +72,7 @@
   "pubDate": "Mon, 11 May 2026 17:02:35 +0000",
   "savedAt": "2026-05-12T16:20:31.078Z",
   "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "digg-tries-again-this-time-as-an-ai-news-aggregato",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Ma su Reddit è stato un disastro.",
         "Vuoi davvero fidarti di una macchina?"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

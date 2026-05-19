@@ -72,7 +72,7 @@
   "pubDate": "Thu, 14 May 2026 14:01:14 +0000",
   "savedAt": "2026-05-14T16:07:02.648Z",
   "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "cisco-cuts-nearly-4-000-jobs-to-spend-more-on-ai-r",
   "prompt_version": "1.0.0",
@@ -144,11 +144,36 @@
         "Tu cosa taglieresti?",
         "La tua azienda è pronta?"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "publish_status": {
+    "x": "failed",
+    "tiktok": "published"
+  },
+  "publish_error": {
+    "x": "{\"account_id\":2056313885964062700,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2056313885964062720] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}",
+    "tiktok": null
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

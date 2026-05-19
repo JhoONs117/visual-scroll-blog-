@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "marketing-operating-system-nectar-social-raises-30",
   "prompt_version": "1.0.0",
@@ -49,6 +49,13 @@
     },
     "instagram": {
       "caption": "30 milioni di dollari per un sistema operativo del marketing. Nectar Social li ha appena raccolti da Menlo, e non si tratta di un semplice tool: è un software che prende decisioni complesse al posto tuo, come scegliere su quali canali investire o come ottimizzare campagne in tempo reale 🧠💰. La novità è che l'AI non risparmia solo tempo, ma sostituisce ore di analisi umana. Per chi lavora nel marketing, il ruolo cambia: non più esecuzione, ma supervisione e definizione di obiettivi 📈. Il tuo team è già pronto a delegare strategie? 🔍"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "30 milioni di dollari per un sistema operativo del marketing. Nectar Social li ha appena raccolti da Menlo, e non si tratta di un semplice tool: è un software che prende decisioni complesse al posto tuo, come scegliere su quali canali investire o come ottimizzare campagne in tempo reale 🧠💰. La novità è che l'AI non risparmia solo tempo, ma sostituisce ore di analisi umana. Per chi lavora nel marketing, il ruolo cambia: non più esecuzione, ma supervisione e definizione di obiettivi 📈. Il tuo team è già pronto a delegare strategie? 🔍",
@@ -100,5 +107,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Nectar-Social.jpg?resize=1200,801",
   "savedAt": "2026-05-16T22:37:27.086Z",
-  "sourceId": "a88f95380a63c778d64aa5bba1538b3f"
+  "sourceId": "a88f95380a63c778d64aa5bba1538b3f",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

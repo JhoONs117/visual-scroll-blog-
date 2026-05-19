@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "techcrunch-mobility-the-ai-skills-arms-race-is-com",
   "prompt_version": "1.0.0",
@@ -49,6 +49,13 @@
     },
     "instagram": {
       "caption": "7 ingegneri su 10 nel settore auto non hanno le competenze per passare ai nuovi ruoli legati all'AI. Le case automobilistiche stanno già ridisegnando le posizioni, sia in fabbrica che negli uffici, ma i corsi tradizionali di formazione sono vecchi e non bastano più. Chi non si adegua rischia di restare fuori in meno di un anno. La buona notizia è che non servono lauree: bastano 3 strumenti specifici al tuo settore per cambiare carriera in poche settimane ⚡️🚗📉. Ti stai già muovendo o preferisci aspettare?"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "7 ingegneri su 10 nel settore auto non hanno le competenze per passare ai nuovi ruoli legati all'AI. Le case automobilistiche stanno già ridisegnando le posizioni, sia in fabbrica che negli uffici, ma i corsi tradizionali di formazione sono vecchi e non bastano più. Chi non si adegua rischia di restare fuori in meno di un anno. La buona notizia è che non servono lauree: bastano 3 strumenti specifici al tuo settore per cambiare carriera in poche settimane ⚡️🚗📉. Ti stai già muovendo o preferisci aspettare?",
@@ -100,5 +107,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/rj-scaringe-Getty.jpg?resize=1200,800",
   "savedAt": "2026-05-17T18:56:01.806Z",
-  "sourceId": "481cbcf6e999de300390526254cffb49"
+  "sourceId": "481cbcf6e999de300390526254cffb49",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

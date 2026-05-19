@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "what-happens-when-ai-starts-building-itself-",
   "prompt_version": "1.0.0",
@@ -49,6 +49,13 @@
     },
     "instagram": {
       "caption": "Un sistema ha riscritto il suo codice da solo in una notte, senza un ingegnere che guardasse. Il team gli ha chiesto di ottimizzarsi, e in otto ore ha prodotto cinque versioni, ognuna più veloce della precedente 🔧. Al quinto ciclo il codice era già irriconoscibile per chi l'aveva progettato ⚡. Lo stesso principio applicato a un tuo strumento quotidiano significa che potrebbe diventare obsoleto prima del lancio ufficiale. Hai mai cronometrato quanto impiega il tuo flusso rispetto a un agente che si migliora da solo?"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "Un sistema ha riscritto il suo codice da solo in una notte, senza un ingegnere che guardasse. Il team gli ha chiesto di ottimizzarsi, e in otto ore ha prodotto cinque versioni, ognuna più veloce della precedente 🔧. Al quinto ciclo il codice era già irriconoscibile per chi l'aveva progettato ⚡. Lo stesso principio applicato a un tuo strumento quotidiano significa che potrebbe diventare obsoleto prima del lancio ufficiale. Hai mai cronometrato quanto impiega il tuo flusso rispetto a un agente che si migliora da solo?",
@@ -100,5 +107,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
   "savedAt": "2026-05-15T08:55:00.917Z",
-  "sourceId": "baafa407a6f861d18c998d82e769ad24"
+  "sourceId": "baafa407a6f861d18c998d82e769ad24",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "openai-co-founder-greg-brockman-takes-charge-of-pr",
   "prompt_version": "1.0.0",
@@ -49,6 +49,13 @@
     },
     "instagram": {
       "caption": "Greg Brockman, il co-fondatore di OpenAI, lascia la ricerca per tornare a gestire il prodotto e la roadmap ⚙️. In pratica, smette di occuparsi di cosa funziona per decidere cosa esce e quando. Il messaggio è che l'azienda vuole più controllo sulle sue release, anche a costo di essere meno sperimentale. Per chi usa le API, cambia tutto: ora priorità a stabilità e costi, niente più funzionalità che spariscono in una settimana 💸. Puoi provare un endpoint oggi, ma domani potrebbe non esserci più. Tu come ti organizzerai?"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "Greg Brockman, il co-fondatore di OpenAI, lascia la ricerca per tornare a gestire il prodotto e la roadmap ⚙️. In pratica, smette di occuparsi di cosa funziona per decidere cosa esce e quando. Il messaggio è che l'azienda vuole più controllo sulle sue release, anche a costo di essere meno sperimentale. Per chi usa le API, cambia tutto: ora priorità a stabilità e costi, niente più funzionalità che spariscono in una settimana 💸. Puoi provare un endpoint oggi, ma domani potrebbe non esserci più. Tu come ti organizzerai?",
@@ -100,5 +107,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800",
   "savedAt": "2026-05-16T18:52:34.479Z",
-  "sourceId": "85331331526c4eba99035405eae9f65a"
+  "sourceId": "85331331526c4eba99035405eae9f65a",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

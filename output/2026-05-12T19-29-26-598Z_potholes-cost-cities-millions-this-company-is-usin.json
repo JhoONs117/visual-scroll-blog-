@@ -72,7 +72,7 @@
   "pubDate": "Tue, 12 May 2026 17:33:29 +0000",
   "savedAt": "2026-05-12T19:29:48.702Z",
   "link": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "potholes-cost-cities-millions-this-company-is-usin",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Così la manutenzione diventa predittiva, non reattiva.",
         "Questa settimana lo puoi testare sul tuo comune."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

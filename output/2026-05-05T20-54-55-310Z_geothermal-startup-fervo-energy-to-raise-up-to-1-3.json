@@ -69,7 +69,7 @@
     }
   ],
   "instagram_caption": "1,3 miliardi di dollari per perforare le rocce, ma non per petrolio ♻️ Fervo Energy sfrutta tecniche simili al fracking per estrarre calore dalla crosta terrestre e produrre elettricità 24/7. A differenza di solare ed eolico, questa energia pulita non si ferma quando fa caldo o non c'è vento. La startup sta per quotarsi in borsa: chiunque potrà comprare azioni dell'IPO. Puoi investire in una fonte stabile che tiene accesa l'aria condizionata anche durante una canicola ️🔥 Cosa vuol dire per la bolletta di casa tua?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "geothermal-startup-fervo-energy-to-raise-up-to-1-3",
   "prompt_version": "1.0.0",
@@ -141,11 +141,28 @@
         "Iniettano acqua e pompano su vapore.",
         "Funziona ovunque. E costa sempre meno farlo."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

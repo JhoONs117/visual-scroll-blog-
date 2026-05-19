@@ -69,7 +69,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
   "instagram_caption": "Google prende un tuo post da Reddit e lo mostra come risposta in cima alla ricerca. Niente link, niente click, niente traffico per te. 🔍  \nÈ successo con l'ultimo aggiornamento: ora le frasi escono direttamente dal contesto originale. Il tuo commento diventa risorsa gratis per loro.  \nSe scrivi recensioni, guide o consigli online, il tuo contenuto può finire lì senza che tu ottenga un solo visitatore.  \nHai già controllato se i tuoi dati sono stati usati? 🔐📉",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "google-updates-ai-search-to-include-quotes-from-re",
   "prompt_version": "1.0.0",
@@ -139,11 +139,28 @@
         "I creator perderanno traffico ai forum?",
         "Confronta Reddit e fonte ufficiale."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

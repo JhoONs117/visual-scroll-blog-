@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "runway-started-by-helping-filmmakers-now-it-wants-",
   "prompt_version": "1.0.0",
@@ -49,6 +49,13 @@
     },
     "instagram": {
       "caption": "Runway ha addestrato un modello su 48 milioni di video, e ora batte DeepMind di Google nella generazione del movimento umano. 🎬 Non si tratta di capire parole, ma di come ci muoviamo: camminate, gesti, espressioni diventano fluidi e realistici in pochi secondi. ⏱️ Per chi lavora con video, significa saltare ore di animazione manuale e modificare il risultato in tempo reale. Un clip da 10 secondi costa meno di un caffè. ☕️ Hai già confrontato il movimento che genera con quello di DeepMind? 👀"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "Runway ha addestrato un modello su 48 milioni di video, e ora batte DeepMind di Google nella generazione del movimento umano. 🎬 Non si tratta di capire parole, ma di come ci muoviamo: camminate, gesti, espressioni diventano fluidi e realistici in pochi secondi. ⏱️ Per chi lavora con video, significa saltare ore di animazione manuale e modificare il risultato in tempo reale. Un clip da 10 secondi costa meno di un caffè. ☕️ Hai già confrontato il movimento che genera con quello di DeepMind? 👀",
@@ -100,5 +107,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/04/Runway-founders.jpg?resize=1200,960",
   "savedAt": "2026-05-15T17:26:59.640Z",
-  "sourceId": "91ef357f0757fbac78c2ff239b897944"
+  "sourceId": "91ef357f0757fbac78c2ff239b897944",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

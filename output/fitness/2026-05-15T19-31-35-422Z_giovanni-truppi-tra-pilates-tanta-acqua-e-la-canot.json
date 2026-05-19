@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "giovanni-truppi-tra-pilates-tanta-acqua-e-la-canot",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "L’errore più comune? Trattenere il respiro. Quando sforzi, espira: porti ossigeno ai muscoli e proteggi la schiena. Fai 10 respiri profondi tra un esercizio e l’altro e sentirai la differenza.",
         "Oggi bevi 2 litri d’acqua e muoviti 20 minuti. Inizia con 5 minuti di pilates, poi aumenta. Prova domani e dimmi com’è andata 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cf212532a.jpeg",
   "savedAt": "2026-05-15T19:32:10.474Z",
-  "sourceId": "c416c41e2e088c5fa38ccb16285d5ada"
+  "sourceId": "c416c41e2e088c5fa38ccb16285d5ada",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

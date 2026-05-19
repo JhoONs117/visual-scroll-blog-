@@ -67,7 +67,7 @@
     }
   ],
   "instagram_caption": "Katie Haun ha lasciato Andreessen Horowitz e ha raccolto un miliardo di dollari per lanciare due fondi dedicati alle criptovalute 🚀. Uno investirà in startup early-stage, l’altro in token già liquidi: insieme coprono ogni fase di un progetto crypto 💡. La mossa? Non puntare più solo su Bitcoin o infrastruttura, ma su un modello completo di venture capital digitale. Per chi lavora nel settore significa che i prossimi deal di Haun diventeranno la bussola del mercato. Hai già il suo radar acceso? 📡",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "katie-haun-raises-1b-for-new-venture-funds",
   "prompt_version": "1.0.0",
@@ -137,11 +137,28 @@
         "I grandi investitori scommettono su di lei.",
         "Segui dove investe: cambierà tutto."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

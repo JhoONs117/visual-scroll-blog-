@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "l-infortunio-l-allenamento-da-record-l-alimentazio",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "La soluzione è lenta e precisa. Oggi fai 10 squat jump: 3 secondi per scendere, esplodi su, atterra come una piuma, controlla 2 secondi. Niente fretta. Solo qualità.",
         "Prova domani: 10 ripetizioni controllate. Metti un timer, registra il tuo atterraggio e dimmi com'è andata. Il tuo ginocchio ti ringrazierà."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a768dc7f97.jpeg",
   "savedAt": "2026-05-15T10:31:04.476Z",
-  "sourceId": "b9838e68a7837df458e28100dc59b8c5"
+  "sourceId": "b9838e68a7837df458e28100dc59b8c5",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

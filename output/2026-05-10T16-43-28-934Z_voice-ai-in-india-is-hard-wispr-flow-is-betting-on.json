@@ -72,7 +72,7 @@
   "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/wispr-flow-india-image.jpg?resize=1200,800",
   "instagram_caption": "In India ci sono oltre 100 lingue, ma il riconoscimento vocale è stato addestrato quasi solo sull'inglese americano. Wispr Flow ha deciso di investire milioni in un mercato dove la Voice AI fallisce sistematicamente. Il problema non è un semplice bug: riconoscere centinaia di varianti fonetiche, grammaticali e culturali è una sfida tecnica enorme. 🎤 Se lavori con strumenti basati sulla voce, oggi la tua app funziona in California e si inceppa a Mumbai. Registra un comando in hindi e guarda cosa succede. 🔇 Il mercato è ancora aperto per chi risolve questo blocco.",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "voice-ai-in-india-is-hard-wispr-flow-is-betting-on",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Riconoscere gli accenti è la sfida.",
         "Scalare è il vero problema tecnico."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

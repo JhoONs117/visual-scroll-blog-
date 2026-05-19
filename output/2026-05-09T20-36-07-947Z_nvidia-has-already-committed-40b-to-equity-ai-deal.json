@@ -72,7 +72,7 @@
   "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
   "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024",
   "instagram_caption": "Solo quest’anno, Nvidia ha speso 40 miliardi di dollari in accordi sull’IA: più del triplo di tutto il 2023 💸. Dietro ogni chip che vendono, comprano startup e tecnologia a un ritmo che nessun altro tech tiene. Diventano il termometro del settore: se loro accelerano, tutto il mercato sale 📈. Per chi lavora con l’IA, significa che i costi e la concorrenza aumentano veloci: devi decidere dove puntare ora. Hai già mappato le prossime mosse dei tuoi rivali? 🧠",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "nvidia-has-already-committed-40b-to-equity-ai-deal",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Se comprano così, il mercato sale.",
         "Controlla le prossime mosse, il ciclo accelera."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

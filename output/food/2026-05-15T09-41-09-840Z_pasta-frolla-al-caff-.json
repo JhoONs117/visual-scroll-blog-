@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "food",
   "slug": "pasta-frolla-al-caff-",
   "prompt_version": "1.0.0",
@@ -37,6 +37,13 @@
         "30 minuti di frigo e la frolla è pronta. Stendila e usala per crostate, biscotti o basi. In forno sprigiona tutto l'aroma.",
         "Conservala in frigo 3-4 giorni o congelala già pronta. Io la uso per una crostata con crema al mascarpone. Provala e fammi sapere 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -107,5 +114,15 @@
   ],
   "image": "https://www.giallozafferano.it/images/361-36149/Pasta-frolla-al-caffe_650x433_wm.jpg",
   "savedAt": "2026-05-15T09:41:53.688Z",
-  "sourceId": "733d811ba5b587d48d899e3ad2f62f75"
+  "sourceId": "733d811ba5b587d48d899e3ad2f62f75",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

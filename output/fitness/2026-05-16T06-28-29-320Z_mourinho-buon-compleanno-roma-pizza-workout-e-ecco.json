@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "mourinho-buon-compleanno-roma-pizza-workout-e-ecco",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "Attenzione all'errore più comune: non curvare la schiena. Se lo fai, perdi potenza e rischi di farti male. Meglio fermarsi e correggere la postura che accumulare ripetizioni sbagliate. La qualità batte la quantità.",
         "Oggi ti sfido a fare 3 serie da 12 squat a corpo libero. Concentrati sulla tecnica. Alla fine sentirai le gambe e la schiena lavorare insieme. Prova domani e dimmi com'è andata 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/04/23/6263b2a89f615.jpeg",
   "savedAt": "2026-05-16T06:29:36.977Z",
-  "sourceId": "2dbb17395d70a01aaea60cd914551ef8"
+  "sourceId": "2dbb17395d70a01aaea60cd914551ef8",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

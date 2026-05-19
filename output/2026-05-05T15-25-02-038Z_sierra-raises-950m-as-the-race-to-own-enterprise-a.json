@@ -69,7 +69,7 @@
     }
   ],
   "instagram_caption": "950 milioni di dollari in un colpo solo: Sierra ha appena chiuso il round più grande nell’AI per aziende. Dietro il nome non ci sono chiacchiere con bot: soldi investiti per far sì che i software *agiscano* al tuo posto — ordinano materiali, approvano spese, rispondono ai clienti senza bisogno di umani in mezzo. Se il tuo lavoro è ancora pieno di processi ripetuti, tra due anni il costo per automatizzarli sarà raddoppiato ⏳📈. Il 2025 è il confine tra chi si è mosso e chi è rimasto fermo. Tu cosa automatizzeresti entro 30 giorni? 🤖⚡",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "sierra-raises-950m-as-the-race-to-own-enterprise-a",
   "prompt_version": "1.0.0",
@@ -141,11 +141,28 @@
         "I workflow autonomi sono il vero affare.",
         "Se non inizi ora, paghi il doppio dopo."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

@@ -72,7 +72,7 @@
   "pubDate": "Wed, 13 May 2026 19:49:42 +0000",
   "savedAt": "2026-05-13T21:19:09.014Z",
   "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "musk-s-xai-is-running-nearly-50-gas-turbines-unche",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "I dati sulla qualità sono nascosti.",
         "Chiedi i report: chi paga il conto?"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

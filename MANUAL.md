@@ -32,10 +32,12 @@ Non è necessario capire tutto il codice: ogni sezione indica esattamente quale 
 23. [Come approvare articoli per FASE 12](#23-come-approvare-articoli-per-fase-12)
 24. [Come generare video (render-video.js)](#24-come-generare-video)
 25. [Come pubblicare su TikTok](#25-come-pubblicare-su-tiktok)
+30. [Come generare video V2 (pipeline slide-deck)](#30-come-generare-video-v2)
 26. [Come pubblicare su Instagram](#26-come-pubblicare-su-instagram)
 27. [Come pubblicare su X (Twitter)](#27-come-pubblicare-su-x-twitter)
 28. [Come usare lo scheduler (tutti i canali)](#28-come-usare-lo-scheduler)
 29. [Come rinnovare il token TikTok](#29-come-rinnovare-il-token-tiktok)
+30. [Come generare video V2 (pipeline slide-deck)](#30-come-generare-video-v2)
 
 ---
 
@@ -1358,3 +1360,85 @@ Oppure manualmente:
 3. Railway mostra il codice a schermo
 4. Esegui: `node scripts/exchange-tiktok-code.js <CODICE>`
 5. Copia i nuovi token in `.env`
+
+---
+
+## 30. Come generare video V2 (pipeline slide-deck)
+
+Il sistema V2 genera video verticali 9:16 (1080×1920) usando le slide del carousel come base, animate con zoom/pan e voiceover TTS. I piani video (5 scene) vengono generati automaticamente dal CI ogni 2 ore.
+
+### Prerequisiti per renderizzare un video
+
+1. Articolo con `status: approved`
+2. `render_quality` impostato (`low` / `medium` / `high`)
+3. Piano video generato (`formats.video.scenes` non vuoto) — **fatto dal CI automaticamente**
+4. Slide carousel salvate come PNG in `output/{agentId}/slides-png/{slug}/slide{0-4}.png`
+
+### Flusso giornaliero
+
+**Nel browser (`carousel.html?agent=ai-news`):**
+1. Trova l'articolo
+2. Clicca **Approva** (se non già fatto)
+3. Seleziona **▶ Low** dal dropdown qualità video
+4. Aspetta che il CI generi il piano (o esegui manualmente il punto seguente)
+5. Clicca **💾 Salva per video** — aspetta "✅ 5 slide salvate"
+
+**Nel terminale (una volta al giorno, per tutti gli articoli pronti):**
+```bash
+node video/render-pending.js
+```
+
+Il comando trova automaticamente tutti gli articoli con: approved + quality impostata + scenes generate + PNG salvate + non ancora renderizzati, e li renderizza in sequenza.
+
+**Nel browser:**
+6. Ricarica `carousel.html` → appare il player video sotto le slide
+
+### Generare il piano video manualmente (senza aspettare il CI)
+
+```bash
+node video/generate-video-plan.js --agent ai-news --slug <slug>
+```
+
+### Renderizzare un singolo articolo
+
+```bash
+node video/render-video-v2.js --agent ai-news --slug <slug>
+```
+
+### Dove trovare lo slug
+
+Il file JSON in `output/` ha sempre il formato `{timestamp}_{slug}.json`. Lo slug è la parte dopo il primo `_`.
+
+### File della pipeline video V2
+
+| File | Funzione |
+|---|---|
+| `video/generate-video-plan.js` | Genera 5 scene via GPT-4o-mini (CI: flag `--ci`) |
+| `video/validate-video-plan.js` | Valida il piano: 5 scene, 18-35s, qualità ≥75 |
+| `video/generate-slides-916.js` | Converte PNG carousel 1080×1350 → 1080×1920 (priority: locale → Pexels) |
+| `video/render-video-v2.js` | Entry point CLI: legge template dall'articolo e renderizza |
+| `video/render-pending.js` | Batch: trova e renderizza tutti gli articoli pronti |
+| `video/templates/slide-deck.js` | Template: animazione zoompan + TTS OpenAI + subtitle |
+
+### Qualità e template
+
+| Qualità | Template | Descrizione |
+|---|---|---|
+| `low` | `slide_deck` | Slide carousel animate con zoom/pan + voiceover TTS |
+| `medium` | `data_reveal` | Non ancora implementato |
+| `high` | `avatar_presenter` | Non ancora implementato |
+
+### Endpoint server aggiunti (server.js)
+
+| Endpoint | Funzione |
+|---|---|
+| `POST /api/set-render-quality` | Imposta `render_quality` sull'articolo |
+| `POST /api/save-carousel-png` | Salva le slide PNG dal browser su disco |
+| `GET /renders/{filename}.mp4` | Serve il video renderizzato al player in carousel.html |
+
+### Note importanti
+
+- Il server deve essere avviato (`node server.js`) prima di cliccare "💾 Salva per video"
+- Le PNG vengono salvate in `output/{agentId}/slides-png/{slug}/slide{0-4}.png`
+- I video renderizzati finiscono in `output/renders/{slug}.mp4`
+- `render_status.low = "done"` nel JSON indica che il video è già stato renderizzato (viene saltato da `render-pending.js`)

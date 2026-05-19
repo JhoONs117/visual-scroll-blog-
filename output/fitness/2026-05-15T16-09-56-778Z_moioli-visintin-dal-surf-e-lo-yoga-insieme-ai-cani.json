@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "moioli-visintin-dal-surf-e-lo-yoga-insieme-ai-cani",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "Non forzare la postura. Il surfista sa che ogni onda è diversa; lo yogi sa che ogni corpo è diverso. Ascolta il tuo, non competere. Un ginocchio piegato vale più di una gamba tesa e dolorante. La fluidità vince sulla rigidità.",
         "Oggi prova 5 minuti di yoga prima del tuo allenamento: posizione del cane a testa in giù e del guerriero. Senti l'equilibrio, il respiro. Poi dimmi com'è andata 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a7696a5465.jpeg",
   "savedAt": "2026-05-15T16:10:17.414Z",
-  "sourceId": "e79a95de99709db9497d2cd228322bf7"
+  "sourceId": "e79a95de99709db9497d2cd228322bf7",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

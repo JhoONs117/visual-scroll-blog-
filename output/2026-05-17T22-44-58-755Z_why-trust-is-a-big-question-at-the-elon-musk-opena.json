@@ -1,9 +1,9 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "why-trust-is-a-big-question-at-the-elon-musk-opena",
   "prompt_version": "1.0.0",
-  "status": "published",
+  "status": "approved",
   "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
   "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
   "pubDate": "Sun, 17 May 2026 19:46:34 +0000",
@@ -49,6 +49,59 @@
     },
     "instagram": {
       "caption": "Elon Musk ha portato in tribunale OpenAI accusandola di aver tradito la missione no‑profit 🏛️, ma i suoi stessi messaggi dimostrano che sapeva già della possibilità di fare soldi.  \nIl punto è se una promessa orale o una dichiarazione pubblica valga quanto un contratto firmato 📜. Se il giudice dà ragione a OpenAI, le aziende potranno rendere a pagamento gli strumenti AI senza timore di essere citate per le promesse del passato 💸.  \nPer te significa che il tuo assistente AI gratuito potrebbe sparire dietro un abbonamento. L’hai già messo in conto? ⚖️"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Is trust dying in tech?",
+          "voiceover": "Why is trust a big question in the Musk-OpenAI trial?",
+          "on_screen_text": "Is trust dying in tech?",
+          "visual_direction": "Dramatic close-up of a courtroom scene.",
+          "caption": "The trial unfolds..."
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Musk claims betrayal!",
+          "voiceover": "Musk alleges OpenAI has prioritized profits over its mission.",
+          "on_screen_text": "Musk claims betrayal!",
+          "visual_direction": "Split screen with Musk and OpenAI logo.",
+          "caption": "What’s at stake?"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Contracts vs. promises!",
+          "voiceover": "The trial revolves around contracts and unwritten promises.",
+          "on_screen_text": "Contracts vs. promises!",
+          "visual_direction": "Animated scales balancing contracts and promises.",
+          "caption": "Legal battle brewing..."
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Emails could hurt Musk!",
+          "voiceover": "Musk's own emails might undermine his case in court.",
+          "on_screen_text": "Emails could hurt Musk!",
+          "visual_direction": "Overlay of emails being typed and sent.",
+          "caption": "Evidence reveals surprises!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Your AI tools are affected!",
+          "voiceover": "The ruling could impact the future of AI tools.",
+          "on_screen_text": "Your AI tools are affected!",
+          "visual_direction": "Visual of futuristic AI tools in action.",
+          "caption": "Stay informed!"
+        }
+      ],
+      "duration_sec": 30,
+      "aspect_ratio": "9:16",
+      "cta": "Read the full article now!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "Elon Musk ha portato in tribunale OpenAI accusandola di aver tradito la missione no‑profit 🏛️, ma i suoi stessi messaggi dimostrano che sapeva già della possibilità di fare soldi.  \nIl punto è se una promessa orale o una dichiarazione pubblica valga quanto un contratto firmato 📜. Se il giudice dà ragione a OpenAI, le aziende potranno rendere a pagamento gli strumenti AI senza timore di essere citate per le promesse del passato 💸.  \nPer te significa che il tuo assistente AI gratuito potrebbe sparire dietro un abbonamento. L’hai già messo in conto? ⚖️",
@@ -100,5 +153,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
   "savedAt": "2026-05-17T22:45:10.682Z",
-  "sourceId": "0687ec213c6dc1c0fdbe8cdd30aa3819"
+  "sourceId": "0687ec213c6dc1c0fdbe8cdd30aa3819",
+  "render_quality": "low",
+  "render_template": null,
+  "render_status": {
+    "low": "done",
+    "medium": null,
+    "high": null
+  },
+  "render_path": "output/renders/why-trust-is-a-big-question-at-the-elon-musk-opena.mp4",
+  "render_error": null,
+  "render_version": null
 }

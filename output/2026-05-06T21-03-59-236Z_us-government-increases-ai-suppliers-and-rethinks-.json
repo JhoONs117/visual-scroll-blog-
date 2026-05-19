@@ -24,7 +24,7 @@
   "savedAt": "2026-05-06T21:03:59.236Z",
   "link": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
   "instagram_caption": "Lo stop al monopolio è arrivato: il governo USA ha appena sostituito il suo fornitore AI principale. Anthropic perde il ruolo di partner esclusivo e i nuovi contratti vanno a startup più piccole e veloci. Per chi lavora nel settore, è il segnale che le alleanze esclusive sono un rischio. Se usi strumenti AI, chiediti: hai già un piano B per i tuoi fornitori?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "us-government-increases-ai-suppliers-and-rethinks-",
   "prompt_version": "1.0.0",
@@ -51,11 +51,28 @@
         "Chi lavora con AI deve guardare bene.",
         "Diversifica i tuoi fornitori, ora."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

@@ -23,7 +23,7 @@
   ],
   "savedAt": "2026-05-05T19:10:50.205Z",
   "instagram_caption": "Prima gli encoder trasformavano solo testo in numeri. Ora gli stessi modelli possono elaborare parole, immagini e audio insieme, creando una rappresentazione unica del mondo. Conta perché un'AI che capisce più input contemporaneamente prende decisioni migliori, non separa ciò che nella realtà è connesso. Per te significa che strumenti come assistenti vocali o motori di ricerca potranno interpretare una foto e la tua domanda come un unico concetto, senza fraintesi. Quale dato \"nascosto\" nella tua giornata — suoni, gesti, temperature — potrebbe insegnare a un encoder qualcosa di nuovo? 🔢🧠📸🎵",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "the-evolution-of-encoders-from-simple-models-to-mu",
   "prompt_version": "1.0.0",
@@ -50,11 +50,28 @@
         "Prova a usare input diversi.",
         "Un encoder che vede e ascolta è più intelligente."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

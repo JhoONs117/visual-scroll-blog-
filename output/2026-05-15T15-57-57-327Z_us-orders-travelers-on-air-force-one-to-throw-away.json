@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "us-orders-travelers-on-air-force-one-to-throw-away",
   "prompt_version": "1.0.0",
@@ -49,6 +49,13 @@
     },
     "instagram": {
       "caption": "Sull'Air Force One, al ritorno da una visita di Stato in Cina, i passeggeri hanno ricevuto l'ordine di gettare via regali, spille e persino i telefoni bruciati. Il protocollo di sicurezza USA considera questi souvenir un potenziale rischio 🇨🇳📱: un oggetto innocuo oggi può trasformarsi in un vettore di spionaggio domani, quando cambiano le minacce. Tradotto: niente penne, niente spille, niente eccezioni 🚫. Per chi viaggia in contesti sensibili, questo significa che anche il gadget più banale può essere sequestrato e distrutto 🤫. La prossima volta che ricevi un omaggio da un contatto istituzionale, lo metteresti nella borsa per un volo di Stato?"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "Sull'Air Force One, al ritorno da una visita di Stato in Cina, i passeggeri hanno ricevuto l'ordine di gettare via regali, spille e persino i telefoni bruciati. Il protocollo di sicurezza USA considera questi souvenir un potenziale rischio 🇨🇳📱: un oggetto innocuo oggi può trasformarsi in un vettore di spionaggio domani, quando cambiano le minacce. Tradotto: niente penne, niente spille, niente eccezioni 🚫. Per chi viaggia in contesti sensibili, questo significa che anche il gadget più banale può essere sequestrato e distrutto 🤫. La prossima volta che ricevi un omaggio da un contatto istituzionale, lo metteresti nella borsa per un volo di Stato?",
@@ -100,5 +107,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/tim-cook-china-pin.jpg?resize=1200,840",
   "savedAt": "2026-05-15T15:58:14.502Z",
-  "sourceId": "1abdd65fdc9244dba9704979ca40adb0"
+  "sourceId": "1abdd65fdc9244dba9704979ca40adb0",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

@@ -95,6 +95,102 @@ http.createServer((req, res) => {
     return;
   }
 
+  /* ── Set render quality: POST /api/set-render-quality ── */
+  if (req.method === 'POST' && urlPath === '/api/set-render-quality') {
+    let body = '';
+    req.on('data', chunk => { body += chunk; });
+    req.on('end', () => {
+      try {
+        const { agent, slug, quality } = JSON.parse(body);
+        const validQualities = [null, 'low', 'medium', 'high'];
+        if (!validQualities.includes(quality)) { res.writeHead(400); res.end('Invalid quality'); return; }
+        const dir = OUTPUT_DIRS[agent];
+        if (!dir) { res.writeHead(400); res.end('Unknown agent'); return; }
+
+        const files = fs.readdirSync(dir).filter(f => f.endsWith('.json'));
+        let updated = null;
+        let best = null;
+        for (const f of files) {
+          const base = f.replace('.json', '');
+          const idx  = base.indexOf('_');
+          const fSlug = idx !== -1 ? base.slice(idx + 1) : base;
+          if (fSlug !== slug) continue;
+          if (!best || f > best) best = f;
+        }
+        if (!best) { res.writeHead(404); res.end('Article not found'); return; }
+
+        const fpath   = path.join(dir, best);
+        const article = JSON.parse(fs.readFileSync(fpath, 'utf8'));
+        article.render_quality = quality;
+        // Reset render_status for this quality if quality changed
+        if (quality && article.render_status) {
+          article.render_status[quality] = null;
+          article.render_error = null;
+        }
+        fs.writeFileSync(fpath, JSON.stringify(article, null, 2) + '\n');
+
+        res.writeHead(200, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ ok: true, slug, quality }));
+      } catch (e) {
+        res.writeHead(500); res.end('Error: ' + e.message);
+      }
+    });
+    return;
+  }
+
+  /* ── Save carousel PNG to disk: POST /api/save-carousel-png ── */
+  if (req.method === 'POST' && urlPath === '/api/save-carousel-png') {
+    let body = '';
+    req.on('data', chunk => { body += chunk; });
+    req.on('end', () => {
+      try {
+        const { agentId, slug, index, dataUrl } = JSON.parse(body);
+        const dir = OUTPUT_DIRS[agentId];
+        if (!dir) { res.writeHead(400); res.end('Unknown agent'); return; }
+        if (!slug || index === undefined || !dataUrl) { res.writeHead(400); res.end('Missing fields'); return; }
+
+        const base64 = dataUrl.replace(/^data:image\/png;base64,/, '');
+        const slidesPngDir = path.join(__dirname, 'output', agentId, 'slides-png', slug);
+        fs.mkdirSync(slidesPngDir, { recursive: true });
+        const filePath = path.join(slidesPngDir, `slide${index}.png`);
+        fs.writeFileSync(filePath, Buffer.from(base64, 'base64'));
+
+        res.writeHead(200, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ ok: true, path: path.relative(__dirname, filePath) }));
+      } catch (e) {
+        res.writeHead(500); res.end('Error: ' + e.message);
+      }
+    });
+    return;
+  }
+
+  /* ── Serve rendered MP4 videos: GET /renders/:filename ── */
+  if (req.method === 'GET' && urlPath.startsWith('/renders/')) {
+    const filename = path.basename(urlPath);
+    if (!filename.endsWith('.mp4')) { res.writeHead(400); res.end('Only .mp4 allowed'); return; }
+    const filePath = path.join(__dirname, 'output', 'renders', filename);
+    fs.stat(filePath, (err, stat) => {
+      if (err) { res.writeHead(404); res.end('Video not found'); return; }
+      const range = req.headers.range;
+      if (range) {
+        const [startStr, endStr] = range.replace(/bytes=/, '').split('-');
+        const start = parseInt(startStr, 10);
+        const end   = endStr ? parseInt(endStr, 10) : stat.size - 1;
+        res.writeHead(206, {
+          'Content-Range':  `bytes ${start}-${end}/${stat.size}`,
+          'Accept-Ranges':  'bytes',
+          'Content-Length': end - start + 1,
+          'Content-Type':   'video/mp4',
+        });
+        fs.createReadStream(filePath, { start, end }).pipe(res);
+      } else {
+        res.writeHead(200, { 'Content-Type': 'video/mp4', 'Content-Length': stat.size, 'Accept-Ranges': 'bytes' });
+        fs.createReadStream(filePath).pipe(res);
+      }
+    });
+    return;
+  }
+
   /* ── Image proxy for carousel download (bypasses CORS on upstream images) ── */
   if (urlPath === '/proxy-image') {
     let target;

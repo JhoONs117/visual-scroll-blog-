@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "adama-traor-torna-al-bar-a-lui-il-pi-palestrato-d-",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "L'errore più comune? Fermarsi a metà del movimento. Se rallenti nella fase finale, perdi il 50% del lavoro. La spinta deve finire con i gomiti bloccati e il petto in tensione. Solo così costruisci la forza funzionale che serve in campo.",
         "Oggi esegui 3 serie da 8 ripetizioni di spinta esplosiva su panca. Carica un peso che ti permetta di esplodere senza sacrificare la tecnica. Prova domani e dimmi com'è andata 💪"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/620594a9bfde6.jpeg",
   "savedAt": "2026-05-16T02:20:17.327Z",
-  "sourceId": "5702134ee15853a7838e7a6ae1a91836"
+  "sourceId": "5702134ee15853a7838e7a6ae1a91836",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

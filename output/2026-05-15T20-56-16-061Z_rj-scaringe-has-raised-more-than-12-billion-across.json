@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "rj-scaringe-has-raised-more-than-12-billion-across",
   "prompt_version": "1.0.0",
@@ -49,6 +49,13 @@
     },
     "instagram": {
       "caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, ma l'ultima brucia cassa più del previsto. 💸 I soci, nonostante le perdite, pretendono altro denaro. Perché? Perché la fiducia nel fondatore non basta: servono ritorni. 🚩 Se lavori in una scale-up o investi in early stage, questo caso ti dice che visione e carisma non pagano il prossimo round. La valutazione del prossimo giro dimezzerà o salterà. Aggiorni la tua watchlist? 👀"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, ma l'ultima brucia cassa più del previsto. 💸 I soci, nonostante le perdite, pretendono altro denaro. Perché? Perché la fiducia nel fondatore non basta: servono ritorni. 🚩 Se lavori in una scale-up o investi in early stage, questo caso ti dice che visione e carisma non pagano il prossimo round. La valutazione del prossimo giro dimezzerà o salterà. Aggiorni la tua watchlist? 👀",
@@ -100,5 +107,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/12/rj-scaringe.jpeg?resize=1200,900",
   "savedAt": "2026-05-15T20:56:28.784Z",
-  "sourceId": "db4a531cb91ee4f28dfdaa09296c7f4f"
+  "sourceId": "db4a531cb91ee4f28dfdaa09296c7f4f",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

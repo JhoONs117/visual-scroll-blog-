@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "wirestock-raises-23m-to-supply-creative-multi-moda",
   "prompt_version": "1.0.0",
@@ -49,6 +49,13 @@
     },
     "instagram": {
       "caption": "Una startup ha appena raccolto 23 milioni di dollari 🤑 vendendo immagini e audio grezzi per addestrare l'intelligenza artificiale. Non il modello finale, ma la materia prima con cui quei modelli imparano: un segnale che i dataset sono ormai la risorsa più scarsa. Se lavori con l'AI, il tuo limite reale non è l'algoritmo, ma la qualità dei dati che usi per farlo funzionare 💡. Il primo controllo da fare oggi è da dove arrivano le tue fonti?"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "Una startup ha appena raccolto 23 milioni di dollari 🤑 vendendo immagini e audio grezzi per addestrare l'intelligenza artificiale. Non il modello finale, ma la materia prima con cui quei modelli imparano: un segnale che i dataset sono ormai la risorsa più scarsa. Se lavori con l'AI, il tuo limite reale non è l'algoritmo, ma la qualità dei dati che usi per farlo funzionare 💡. Il primo controllo da fare oggi è da dove arrivano le tue fonti?",
@@ -100,5 +107,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Wirestock-team.jpg?resize=1200,675",
   "savedAt": "2026-05-14T15:28:24.091Z",
-  "sourceId": "701532e0c3d27d3f3e45553cf5258b4c"
+  "sourceId": "701532e0c3d27d3f3e45553cf5258b4c",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

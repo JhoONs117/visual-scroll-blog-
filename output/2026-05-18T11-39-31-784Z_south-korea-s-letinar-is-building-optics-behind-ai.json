@@ -1,9 +1,9 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "south-korea-s-letinar-is-building-optics-behind-ai",
   "prompt_version": "1.0.0",
-  "status": "published",
+  "status": "approved",
   "title": "South Korea’s LetinAR is building optics behind AI glasses",
   "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
   "pubDate": "Mon, 18 May 2026 11:00:00 +0000",
@@ -49,6 +49,59 @@
     },
     "instagram": {
       "caption": "Un brevetto coreano ha infilato un trucco ottico vecchio di secoli dentro un paio di occhiali: specchi a foro stenopeico ridotti a scala microscopica ✨. LetinAR li usa per mostrare sovrapposizioni nitide senza i prismi ingombranti che appesantiscono i visori attuali 📐. Il campo visivo batte i rivali del 30%, e i costi di produzione sono inferiori a quelli delle Ray-Ban Meta 💸. Per chi sviluppa app AR: tra 12 mesi queste lenti cambieranno le regole del gioco. Il tuo team ha già un prototipo su cui testare? 🔍"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Potrebbero superare i Ray-Ban di Meta!",
+          "voiceover": "Scopri il segreto dietro gli occhiali AI di LetinAR.",
+          "on_screen_text": "LetinAR supera Meta?",
+          "visual_direction": "Inquadratura ravvicinata degli occhiali in azione.",
+          "caption": "La nuova era degli occhiali AI!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Lenti innovative per un futuro luminoso.",
+          "voiceover": "Utilizzano specchi pinhole ridotti a scala microscopica.",
+          "on_screen_text": "Tecnologia a specchio microscopico.",
+          "visual_direction": "Animazione che mostra il funzionamento delle lenti.",
+          "caption": "Innovazione all'avanguardia!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Vasta visione mai vista prima!",
+          "voiceover": "Il campo visivo supera la concorrenza del 30%.",
+          "on_screen_text": "Campo visivo del 30% in più!",
+          "visual_direction": "Confronto visivo con occhiali concorrenti.",
+          "caption": "Guarda oltre il limite!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Niente più prismi ingombranti.",
+          "voiceover": "Gli occhiali mostrano sovrapposizioni nitide e leggere.",
+          "on_screen_text": "Sovrapposizioni chiare e leggere.",
+          "visual_direction": "Demo di utilizzo degli occhiali in un ambiente urbano.",
+          "caption": "Leggerezza e chiarezza!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Provali prima degli altri!",
+          "voiceover": "Non rimanere indietro, prova un paio oggi.",
+          "on_screen_text": "Non restare indietro!",
+          "visual_direction": "Persone che provano gli occhiali in un negozio.",
+          "caption": "Fai la scelta giusta!"
+        }
+      ],
+      "duration_sec": 29,
+      "aspect_ratio": "9:16",
+      "cta": "Prova gli occhiali LetinAR ora!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "Un brevetto coreano ha infilato un trucco ottico vecchio di secoli dentro un paio di occhiali: specchi a foro stenopeico ridotti a scala microscopica ✨. LetinAR li usa per mostrare sovrapposizioni nitide senza i prismi ingombranti che appesantiscono i visori attuali 📐. Il campo visivo batte i rivali del 30%, e i costi di produzione sono inferiori a quelli delle Ray-Ban Meta 💸. Per chi sviluppa app AR: tra 12 mesi queste lenti cambieranno le regole del gioco. Il tuo team ha già un prototipo su cui testare? 🔍",
@@ -100,5 +153,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1446311598.jpg?resize=1200,800",
   "savedAt": "2026-05-18T11:39:49.790Z",
-  "sourceId": "ed128b31ae1c9421f3313eb5e961cea4"
+  "sourceId": "ed128b31ae1c9421f3313eb5e961cea4",
+  "render_quality": "low",
+  "render_template": null,
+  "render_status": {
+    "low": "done",
+    "medium": null,
+    "high": null
+  },
+  "render_path": "output/renders/south-korea-s-letinar-is-building-optics-behind-ai.mp4",
+  "render_error": null,
+  "render_version": null
 }

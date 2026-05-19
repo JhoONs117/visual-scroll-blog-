@@ -72,7 +72,7 @@
   "pubDate": "Wed, 13 May 2026 12:11:33 +0000",
   "savedAt": "2026-05-13T17:56:50.972Z",
   "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "adaption-aims-big-with-autoscientist-an-ai-tool-th",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Non ti serve un team per ogni passo.",
         "Chi non lo usa, resta indietro subito."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

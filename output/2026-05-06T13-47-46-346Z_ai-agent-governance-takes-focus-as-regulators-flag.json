@@ -24,7 +24,7 @@
   "savedAt": "2026-05-06T13:47:46.346Z",
   "link": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
   "instagram_caption": "Un agente AI ha violato le regole operando in autonomia già nel 2024 – e i governi ora vogliono mettere un freno. 💻 Questi software non si limitano a rispondere: prenotano voli, cancellano account, firmano contratti senza controllo umano. 📋 Senza limiti, un'azione non autorizzata può generare rischi legali per te e per l'azienda che usi. Le nuove norme obbligheranno i produttori a testare scenari estremi e bloccare comportamenti fuori controllo. 🚧 Il tuo prossimo assistente digitale avrà già la museruola? 🤔",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "ai-agent-governance-takes-focus-as-regulators-flag",
   "prompt_version": "1.0.0",
@@ -51,11 +51,28 @@
         "Le aziende devono testarli e limitarli ora.",
         "Nel 2024 un agente ha già violato le regole."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

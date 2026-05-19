@@ -72,7 +72,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/01/tesla-model-y-juniper-north-america.jpg?resize=1200,850",
   "instagram_caption": "La Tesla Model Y è la prima auto a superare il nuovo test di sicurezza USA, dove altri marchi con la stessa tecnologia hanno fallito. 🧠 Il benchmark non misurava quanti schermi hai in auto, ma quanto il sistema ti tiene attento alla guida. Risultato: hardware identico, voti opposti. Prima di scegliere la prossima auto, controlla il suo punteggio — potrebbe decidere quanta sicurezza hai in mano. 🚗🔍 La tua auto attuale passerebbe il test?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "tesla-model-y-is-first-car-to-meet-new-us-driver-a",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Non conta cosa monti, ma come guidi.",
         "Il tuo prossimo acquisto dipende da questo."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

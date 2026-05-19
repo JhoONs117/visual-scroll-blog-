@@ -71,7 +71,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-05-at-23.18.12.jpeg?resize=1200,812",
   "instagram_caption": "22,75 milioni di dollari per una piattaforma che ti paga in cambio della tua voce. 🎙️ Ethos l'ha ottenuti da a16z, il fondo che finanzia l'AI, e scambia accesso ad esperti proprio con registrazioni vocali. Il loro vero guadagno? I tuoi dati vocali diventano carburante per l'AI. 💡 Per te consulente: la voce ora vale più del tuo CV. È un pagamento una tantum, ma il tuo campione vocale si scala all'infinito. 📦 Registra il primo insight oggi: stai cedendo il tuo miglior asset.",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "ethos-raises-22-75m-from-a16z-for-its-expert-netwo",
   "prompt_version": "1.0.0",
@@ -143,11 +143,28 @@
         "Loro la usano per addestrare l'AI.",
         "La tua voce vale più del tuo CV ora."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

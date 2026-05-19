@@ -70,7 +70,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800",
   "instagram_caption": "Elon Musk voleva fondere OpenAI con Tesla, ma Greg Brockman e Sam Altman dissero no 💥. Musk spingeva per portare il controllo dell'AI dentro la sua fabbrica di auto; loro la volevano indipendente. La scissione è stata una battaglia di governance, non solo di tecnologia ⚖️. Oggi OpenAI vale miliardi e Tesla ha la sua strada nell'AI — due visioni che si giocano gli strumenti che usi ogni giorno. Chi aveva ragione?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "how-elon-musk-left-openai-according-to-greg-brockm",
   "prompt_version": "1.0.0",
@@ -141,11 +141,28 @@
         "Ora OpenAI vale miliardi.",
         "Tesla ha la sua strada."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

@@ -72,7 +72,7 @@
   "pubDate": "Tue, 12 May 2026 15:07:37 +0000",
   "savedAt": "2026-05-12T16:20:09.974Z",
   "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "exaforce-raises-125m-series-b-to-build-ai-for-catc",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Il tuo team non basta? Lei colma il vuoto.",
         "Testala ora contro un attacco simulato."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

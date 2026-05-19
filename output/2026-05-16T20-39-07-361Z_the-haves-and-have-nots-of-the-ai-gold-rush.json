@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "the-haves-and-have-nots-of-the-ai-gold-rush",
   "prompt_version": "1.0.0",
@@ -49,6 +49,13 @@
     },
     "instagram": {
       "caption": "Questa settimana: se non possiedi dati esclusivi, non hai un biglietto per la corsa all'AI. I chip più potenti sono in mano a pochissime aziende, ma il vero vantaggio è ciò che già hai in cassaforte: dati proprietari che nessun dataset pubblico può replicare. Chi usa solo informazioni pubbliche vede il proprio margine sciogliersi in mesi. Per chi lavora in azienda, questo significa che la vera competizione non è sulla tecnologia, ma su cosa sai di te stesso che gli altri non sanno. Quale dato che già possiedi userai domani per risolvere un problema interno? 📉🧠🔑📁⛏️"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "Questa settimana: se non possiedi dati esclusivi, non hai un biglietto per la corsa all'AI. I chip più potenti sono in mano a pochissime aziende, ma il vero vantaggio è ciò che già hai in cassaforte: dati proprietari che nessun dataset pubblico può replicare. Chi usa solo informazioni pubbliche vede il proprio margine sciogliersi in mesi. Per chi lavora in azienda, questo significa che la vera competizione non è sulla tecnologia, ma su cosa sai di te stesso che gli altri non sanno. Quale dato che già possiedi userai domani per risolvere un problema interno? 📉🧠🔑📁⛏️",
@@ -100,5 +107,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-958260352.jpg?resize=1200,1074",
   "savedAt": "2026-05-16T20:39:21.256Z",
-  "sourceId": "859b70ce116b803078f17664070d8935"
+  "sourceId": "859b70ce116b803078f17664070d8935",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

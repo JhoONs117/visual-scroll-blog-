@@ -72,7 +72,7 @@
   "pubDate": "Tue, 12 May 2026 17:00:00 +0000",
   "savedAt": "2026-05-12T19:30:05.379Z",
   "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "the-ai-legal-services-industry-is-heating-up-anthr",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "L'avvocato che non usa queste cose viene rimpiazzato da chi le usa.",
         "Carica un contratto su Claude adesso. Scopri quanto sei esposto."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

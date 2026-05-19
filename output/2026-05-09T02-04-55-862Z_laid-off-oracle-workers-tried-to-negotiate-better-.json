@@ -72,7 +72,7 @@
   "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
   "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024",
   "instagram_caption": "Oracle ha rifiutato di rinegoziare le buonuscite con i dipendenti licenziati, punto e basta. 🛑 I lavoratori hanno chiesto condizioni migliori per l’uscita, ma l’azienda ha detto no secco. Il problema? Le clausole che bloccano ogni trattativa erano già scritte nei contratti nuovi da mesi, ma nessuno le aveva lette. 📄 Se lavori in una big tech, non aspettare l’annuncio di un taglio per aprire il pdf firmato ieri. Controlla ora se c’è una riga nascosta che toglie ogni margine di manovra. 👀 Tu hai mai riletto il tuo contratto dopo averlo firmato?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "laid-off-oracle-workers-tried-to-negotiate-better-",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Controlla il contratto adesso.",
         "Se hai firmato, sei già dentro."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

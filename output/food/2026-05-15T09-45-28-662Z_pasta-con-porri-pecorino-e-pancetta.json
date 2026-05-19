@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "food",
   "slug": "pasta-con-porri-pecorino-e-pancetta",
   "prompt_version": "1.0.0",
@@ -37,6 +37,13 @@
         "Cuoci la pasta al dente e trasferiscila nella padella coi porri. Aggiungi l'acqua di cottura e il pecorino grattugiato: mescola fino a crema. La magia è lì.",
         "Impiatta, finisci con la pancetta croccante tenuta da parte e una spolverata di pecorino. Se non hai ancora fame, ricontrolla. Provala e fammi sapere👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -107,5 +114,15 @@
   ],
   "image": "https://www.giallozafferano.it/images/361-36119/Pasta-con-porri-pecorino-e-pancetta_650x433_wm.jpg",
   "savedAt": "2026-05-15T09:45:53.422Z",
-  "sourceId": "395c33e805d677f4f3923535aa158fb7"
+  "sourceId": "395c33e805d677f4f3923535aa158fb7",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

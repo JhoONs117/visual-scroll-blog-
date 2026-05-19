@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "research-repository-arxiv-will-ban-authors-for-a-y",
   "prompt_version": "1.0.0",
@@ -49,6 +49,13 @@
     },
     "instagram": {
       "caption": "Se pubblichi un paper su ArXiv scritto interamente da ChatGPT o Claude, rischi un anno di bando dalla piattaforma. ⚠️ La nuova policy non vieta l'AI in sé, ma solo il caso in cui sostituisca del tutto il tuo contributo umano. Il punto è che stabilire se l'AI ti ha assistito o ha scritto al posto tuo è quasi impossibile, quindi ArXiv ti chiede di dichiarare l'uso in fase di submission. ✍️ Per chi prepara articoli scientifici, questo significa che non dichiarare l'AI o usarla senza supervisione può costarti l'accesso per dodici mesi. Hai già controllato le nuove linee guida? 🔍"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "Se pubblichi un paper su ArXiv scritto interamente da ChatGPT o Claude, rischi un anno di bando dalla piattaforma. ⚠️ La nuova policy non vieta l'AI in sé, ma solo il caso in cui sostituisca del tutto il tuo contributo umano. Il punto è che stabilire se l'AI ti ha assistito o ha scritto al posto tuo è quasi impossibile, quindi ArXiv ti chiede di dichiarare l'uso in fase di submission. ✍️ Per chi prepara articoli scientifici, questo significa che non dichiarare l'AI o usarla senza supervisione può costarti l'accesso per dodici mesi. Hai già controllato le nuove linee guida? 🔍",
@@ -100,5 +107,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/02/business-research-getty.jpg?resize=1200,800",
   "savedAt": "2026-05-16T20:39:34.703Z",
-  "sourceId": "f04b5b1c9763fee13a0cfcdda1968bd9"
+  "sourceId": "f04b5b1c9763fee13a0cfcdda1968bd9",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

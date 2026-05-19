@@ -72,7 +72,7 @@
   "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
   "image": "https://techcrunch.com/wp-content/uploads/2019/12/Matthew-Prince-CloudflareDSC00252.jpg?resize=1200,800",
   "instagram_caption": "Cloudflare ha eliminato 1.100 posti e il fatturato ha raggiunto un record.  \nL’azienda ha sostituito interi reparti amministrativi con modelli AI, senza toccare un solo sviluppatore. Segnali? Chi oggi gestisce burocrazia, report o coordinamento rischia di diventare un costo superfluo.  \nVerifica subito il tuo task più ripetitivo: se esiste un modello che lo fa in 10 secondi, il tuo ruolo è già in attesa. Quanto tempo ti resta per adattarti? 🔍📉💼🤖⏳",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "cloudflare-says-ai-made-1-100-jobs-obsolete-even-a",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Solo chi amministrava.",
         "Il tuo lavoro è già replicabile."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "food",
   "slug": "pasta-con-fiori-di-zucca-e-alici",
   "prompt_version": "1.0.0",
@@ -37,6 +37,13 @@
         "Saltali in padella con aglio e alici sciolte nell’olio, poi manteca con acqua di cottura a fiamma vivace. Sarà vellutata.",
         "Grattugia scorza di limone fresco prima di servire. Quella sferzata agrumata fa la differenza. Provala e dimmi com’è andata 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -107,5 +114,15 @@
   ],
   "image": "https://www.giallozafferano.it/images/361-36171/Pasta-con-fiori-di-zucca-e-alici_650x433_wm.jpg",
   "savedAt": "2026-05-14T14:53:10.041Z",
-  "sourceId": "5248cbef97fc64cc3aa318c78005047d"
+  "sourceId": "5248cbef97fc64cc3aa318c78005047d",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "ecco-un-allenamento-efficace-vantaggi-e-svantaggi-",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "Vantaggio? Meno tempo in palestra, più risultati. Svantaggio? È brutale sulle articolazioni se non hai una base atletica. Ascolta il corpo — qualità sopra quantità, sempre.",
         "Oggi bastano 4 minuti. Imposta un timer, dai tutto in 8 round e registra le tue sensazioni. Prova domani e dimmi com'è andata 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cd5a668e7.jpeg",
   "savedAt": "2026-05-15T17:38:47.516Z",
-  "sourceId": "0fa3026757a29751affa1a52c68e9904"
+  "sourceId": "0fa3026757a29751affa1a52c68e9904",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

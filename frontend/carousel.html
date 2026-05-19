@@ -436,8 +436,27 @@
       transition: border-color 0.15s, color 0.15s, background 0.15s;
     }
     .approve-btn-car:hover { border-color: #4ade80; color: #4ade80; }
+    .quality-select-car {
+      background: rgba(0,0,0,.3); border: 1px solid rgba(255,255,255,.15);
+      color: #9ca3af; border-radius: 6px; padding: 5px 8px; font-size: 12px;
+      font-weight: 600; cursor: pointer;
+    }
+    .quality-select-car.has-quality { border-color: #3b82f6; color: #60a5fa; }
+    .quality-select-car.is-done     { border-color: #16a34a; color: #4ade80; }
     .approve-btn-car.is-approved { background: rgba(20,83,45,0.5); border-color: #166534; color: #86efac; }
     .approve-btn-car.is-approved:hover { background: rgba(69,10,10,0.4); border-color: #7f1d1d; color: #fca5a5; }
+    .video-preview-section {
+      max-width: 900px; margin: 0 auto 32px; padding: 20px 24px;
+      background: var(--card-bg); border: 1px solid var(--border); border-radius: 12px;
+    }
+    .video-preview-section h3 { margin: 0 0 14px; font-size: 14px; color: var(--text-muted); text-transform: uppercase; letter-spacing: .06em; }
+    .video-preview-section .video-meta { display: flex; gap: 10px; margin-bottom: 14px; flex-wrap: wrap; }
+    .video-badge { font-size: 11px; padding: 3px 9px; border-radius: 20px; font-weight: 600; background: rgba(59,130,246,.15); color: #60a5fa; }
+    .video-badge.done { background: rgba(22,163,74,.15); color: #4ade80; }
+    .video-player-wrap { display: flex; justify-content: center; }
+    .video-player-wrap video { max-height: 480px; border-radius: 10px; background: #000; box-shadow: 0 4px 24px rgba(0,0,0,.4); }
+    .video-render-btn { margin-top: 14px; background: var(--dl-all-bg); border: none; color: #fff; border-radius: 8px; padding: 8px 16px; font-size: 13px; cursor: pointer; }
+    .video-render-btn:hover { background: var(--dl-all-hover); }
   </style>
 </head>
 <body>
@@ -766,6 +785,26 @@ function renderArticle(article) {
         script.map((line, i) => `<div class="script-row"><span class="script-n">${i + 1}</span><span class="script-body">${line}</span></div>`).join('')
       }</div>` : '';
 
+  const renderStatus = article.render_status || {};
+  const doneQuality  = ['low', 'medium', 'high'].find(q => renderStatus[q] === 'done');
+  const videoHtml = doneQuality && article.render_path
+    ? (() => {
+        const videoFile = article.render_path.split('/').pop();
+        const meta = [
+          `<span class="video-badge done">✅ ${doneQuality}</span>`,
+          article.render_template ? `<span class="video-badge">${article.render_template}</span>` : '',
+          article.formats?.video?.duration_sec ? `<span class="video-badge">${article.formats.video.duration_sec}s</span>` : '',
+        ].filter(Boolean).join('');
+        return `<div class="video-preview-section">
+          <h3>🎬 Video renderizzato</h3>
+          <div class="video-meta">${meta}</div>
+          <div class="video-player-wrap">
+            <video src="/renders/${videoFile}" controls playsinline style="max-width:270px"></video>
+          </div>
+        </div>`;
+      })()
+    : '';
+
   const sourceLink = theme.hasSourceLink && article.link
     ? `<a class="article-source-link" href="${article.link}" target="_blank" rel="noopener noreferrer">↗ Fonte</a>` : '';
 
@@ -777,12 +816,19 @@ function renderArticle(article) {
   area.innerHTML = `
     <div class="dl-all-bar">
       <button class="dl-all-btn" id="dlAll">${DL_ICON} Scarica tutte e 5 le slide</button>
+      <button class="dl-all-btn" id="saveForVideo" style="background:#16a34a" title="Salva le slide come PNG sul server per usarle nel video 9:16">💾 Salva per video</button>
       <span class="dl-hint">oppure clicca una slide → tasto destro / tieni premuto per salvare</span>
       ${sourceLink}
       ${statusPill}${approveBtn}
+      ${article.slug ? `<select class="quality-select-car${(article.render_status?.[article.render_quality] === 'done') ? ' is-done' : article.render_quality ? ' has-quality' : ''}" id="car-quality-sel">
+        <option value="">🎬 Qualità</option>
+        <option value="low"${article.render_quality === 'low' ? ' selected' : ''}>▶ Low</option>
+        <option value="medium"${article.render_quality === 'medium' ? ' selected' : ''}>▶ Medium</option>
+        <option value="high"${article.render_quality === 'high' ? ' selected' : ''}>▶ High</option>
+      </select>` : ''}
     </div>
     <div class="viewer"><div class="slides-row">${wrappedSlides}</div></div>
-    ${hooksHtml}${threadHtml}${captionHtml}${scriptHtml}`;
+    ${videoHtml}${hooksHtml}${threadHtml}${captionHtml}${scriptHtml}`;
 
   document.querySelectorAll('.slide').forEach((el, i) => {
     el.addEventListener('click', async () => {
@@ -832,6 +878,34 @@ function renderArticle(article) {
     btn.innerHTML = orig;
   });
 
+  document.getElementById('saveForVideo').addEventListener('click', async () => {
+    const btn    = document.getElementById('saveForVideo');
+    const orig   = btn.innerHTML;
+    btn.disabled = true;
+    const slides = [...document.querySelectorAll('.slide-wrap .slide')];
+    let saved = 0;
+    for (let i = 0; i < slides.length; i++) {
+      btn.innerHTML = `⏳ Salvataggio ${i + 1}/${slides.length}…`;
+      try {
+        const canvas  = await renderToCanvas(slides[i]);
+        const dataUrl = canvas.toDataURL('image/png');
+        const res     = await fetch('/api/save-carousel-png', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ agentId, slug: article.slug || slug, index: i, dataUrl }),
+        });
+        if (!res.ok) throw new Error(await res.text());
+        saved++;
+      } catch (e) {
+        console.error(`slide ${i} fallita:`, e);
+      }
+      if (i < slides.length - 1) await new Promise(r => setTimeout(r, 200));
+    }
+    btn.disabled  = false;
+    btn.innerHTML = saved === slides.length ? `✅ ${saved} slide salvate` : `⚠️ ${saved}/${slides.length} salvate`;
+    setTimeout(() => { btn.innerHTML = orig; }, 3000);
+  });
+
   const approveBtnEl = document.getElementById('car-approve-btn');
   const pillEl       = document.getElementById('car-status-pill');
   if (approveBtnEl && article.slug) {
@@ -841,6 +915,13 @@ function renderArticle(article) {
     });
   }
   updatePhase12Counter();
+
+  const qualSelEl = document.getElementById('car-quality-sel');
+  if (qualSelEl && article.slug) {
+    qualSelEl.addEventListener('change', () => {
+      setRenderQuality(article.slug, agentId, qualSelEl.value, article, qualSelEl);
+    });
+  }
 }
 
 /* ── Phase12 counter ── */
@@ -871,6 +952,24 @@ async function setArticleStatus(slug, agent, newStatus, articleObj, pillEl, btnE
     console.error('[approve]', e.message);
     btnEl.textContent = '⚠ Errore';
     setTimeout(() => { btnEl.textContent = articleObj.status === 'approved' ? '✓ Approvato' : 'Approva'; }, 2500);
+  }
+}
+
+async function setRenderQuality(slug, agent, quality, articleObj, selectEl) {
+  const prev = selectEl.value;
+  try {
+    const resp = await fetch('/api/set-render-quality', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ agent, slug, quality: quality || null }),
+    });
+    if (!resp.ok) throw new Error(await resp.text());
+    articleObj.render_quality = quality || null;
+    const isDone = quality && articleObj.render_status?.[quality] === 'done';
+    selectEl.className = 'quality-select-car' + (isDone ? ' is-done' : quality ? ' has-quality' : '');
+  } catch (e) {
+    console.error('[quality]', e.message);
+    selectEl.value = prev;
   }
 }
 

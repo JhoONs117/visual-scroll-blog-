@@ -260,6 +260,15 @@
     .approve-btn.is-approved { background: #14532d; border-color: #166534; color: #86efac; }
     .approve-btn.is-approved:hover { background: #450a0a; border-color: #7f1d1d; color: #fca5a5; }
 
+    /* ── Render quality dropdown ── */
+    .quality-select {
+      background: #1a1f2e; border: 1px solid #2d3748; color: #9ca3af;
+      border-radius: 4px; padding: 0.28rem 0.5rem; font-size: 0.72rem;
+      font-weight: 600; cursor: pointer; flex-shrink: 0;
+    }
+    .quality-select.has-quality { border-color: #3b82f6; color: #60a5fa; }
+    .quality-select.is-done     { border-color: #16a34a; color: #4ade80; }
+
     /* ── Progress bar FASE 12 ── */
     #phase12-bar {
       font-size: 0.75rem;
@@ -409,6 +418,24 @@
       }
     }
 
+    async function setRenderQuality(slug, agent, quality, articleObj, selectEl) {
+      const prev = selectEl.value;
+      try {
+        const resp = await fetch('/api/set-render-quality', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ agent, slug, quality: quality || null }),
+        });
+        if (!resp.ok) throw new Error(await resp.text());
+        articleObj.render_quality = quality || null;
+        const isDone = quality && articleObj.render_status?.[quality] === 'done';
+        selectEl.className = 'quality-select' + (isDone ? ' is-done' : quality ? ' has-quality' : '');
+      } catch (e) {
+        console.error('[quality] error:', e.message);
+        selectEl.value = prev;
+      }
+    }
+
     const root         = document.getElementById('root');
     const counter      = document.getElementById('counter');
     const reviewTitle  = document.getElementById('review-title');
@@ -498,6 +525,25 @@
             setArticleStatus(article.slug, article.agent || currentAgent, next, article, statusPill, approveBtn);
           });
           badges.appendChild(approveBtn);
+        }
+
+        // Dropdown render_quality
+        if (article.slug) {
+          const qualSel = document.createElement('select');
+          qualSel.className = 'quality-select';
+          const isDone = article.render_status?.[article.render_quality] === 'done';
+          if (isDone) qualSel.classList.add('is-done');
+          else if (article.render_quality) qualSel.classList.add('has-quality');
+          [['', '🎬 Qualità video'], ['low', '▶ Low'], ['medium', '▶ Medium'], ['high', '▶ High']].forEach(([val, label]) => {
+            const opt = document.createElement('option');
+            opt.value = val; opt.textContent = label;
+            if ((article.render_quality || '') === val) opt.selected = true;
+            qualSel.appendChild(opt);
+          });
+          qualSel.addEventListener('change', () => {
+            setRenderQuality(article.slug, article.agent || currentAgent, qualSel.value, article, qualSel);
+          });
+          badges.appendChild(qualSel);
         }
 
         header.appendChild(badges);

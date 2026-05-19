@@ -69,7 +69,7 @@
     }
   ],
   "instagram_caption": "I modelli visivi generativi stanno portando più installazioni delle chat: Spotify ha visto un +30% con le cover personalizzate. 🎨 Le immagini generate dall'intelligenza artificiale aumentano i download e migliorano la fidelizzazione, perché le persone vedono il contenuto e restano. Meno aggiornamenti, più utenti fedeli. 📈 Per chi sviluppa app, aggiungere personalizzazione visiva non è più un optional: è la prossima mossa concreta da fare. 🖼️ Il tuo feed è già pieno di immagini AI senza che tu lo sappia?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "image-ai-models-now-drive-app-growth-beating-chatb",
   "prompt_version": "1.0.0",
@@ -141,11 +141,28 @@
         "Onboarding visivo, non testuale.",
         "Fai subito un A/B test."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

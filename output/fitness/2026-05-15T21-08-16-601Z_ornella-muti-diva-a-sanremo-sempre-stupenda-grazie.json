@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "fitness",
   "slug": "ornella-muti-diva-a-sanremo-sempre-stupenda-grazie",
   "prompt_version": "1.0.0",
@@ -36,6 +36,13 @@
         "Non saltare la routine. I risultati arrivano solo se sei costante. Anche 10 minuti di stretching attivo fanno la differenza: migliorano postura, flessibilità e circolazione.",
         "Oggi prova questo: 10 minuti di stretching attivo. Allunga braccia, gambe e schiena. Fallo domani mattina e dimmi come ti senti 👇"
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "video_script": [
@@ -100,5 +107,15 @@
   ],
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205950a715d2.jpeg",
   "savedAt": "2026-05-15T21:08:31.698Z",
-  "sourceId": "b46661fb21d300e6ee1db250d9c302da"
+  "sourceId": "b46661fb21d300e6ee1db250d9c302da",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

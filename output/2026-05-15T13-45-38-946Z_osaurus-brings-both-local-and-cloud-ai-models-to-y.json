@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "osaurus-brings-both-local-and-cloud-ai-models-to-y",
   "prompt_version": "1.0.0",
@@ -49,6 +49,13 @@
     },
     "instagram": {
       "caption": "Su macOS puoi passare da un modello AI locale a uno cloud senza accorgerti del cambio, ma il ritardo esiste e pesa. Osaurus unisce i due mondi: i modelli locali girano offline su di te, quelli cloud sfruttano cluster di GPU enormi. Passi da uno all'altro a metà compito, e la latenza resta invisibile — finché non rallenta⁉️ Se ottimizzi i carichi adesso, risparmi ore di costi di calcolo domani. Vuoi sapere cosa conviene? Testa lo stesso prompt in locale e in cloud prima di decidere 💻☁️⚡"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "Su macOS puoi passare da un modello AI locale a uno cloud senza accorgerti del cambio, ma il ritardo esiste e pesa. Osaurus unisce i due mondi: i modelli locali girano offline su di te, quelli cloud sfruttano cluster di GPU enormi. Passi da uno all'altro a metà compito, e la latenza resta invisibile — finché non rallenta⁉️ Se ottimizzi i carichi adesso, risparmi ore di costi di calcolo domani. Vuoi sapere cosa conviene? Testa lo stesso prompt in locale e in cloud prima di decidere 💻☁️⚡",
@@ -100,5 +107,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/osaurus-techcrunch-2-1.png?resize=1200,675",
   "savedAt": "2026-05-15T13:45:54.756Z",
-  "sourceId": "5d5f0482cd3958819dece96da169c7c6"
+  "sourceId": "5d5f0482cd3958819dece96da169c7c6",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

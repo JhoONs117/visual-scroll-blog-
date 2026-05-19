@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "-60b-ai-chip-darling-cerebras-almost-died-early-on",
   "prompt_version": "1.0.0",
@@ -49,6 +49,13 @@
     },
     "instagram": {
       "caption": "Cerebras bruciava 8 milioni di dollari al mese, con pochi mesi di liquidità rimasta prima del fallimento 💸. Il problema? Cercava di vendere chip come Nvidia, competendo sul loro stesso terreno — una partita persa in partenza 🎲. La svolta è arrivata quando hanno smesso di vendere hardware e hanno iniziato a vendere accesso al cloud AI, cambiando il modello di business 🤯. Per te significa che il costo reale dei chip AI si nasconde nei bilanci, non nelle specifiche tecniche. Quanto può durare una startup che scommette tutto sull'hardware? 🔥"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "Cerebras bruciava 8 milioni di dollari al mese, con pochi mesi di liquidità rimasta prima del fallimento 💸. Il problema? Cercava di vendere chip come Nvidia, competendo sul loro stesso terreno — una partita persa in partenza 🎲. La svolta è arrivata quando hanno smesso di vendere hardware e hanno iniziato a vendere accesso al cloud AI, cambiando il modello di business 🤯. Per te significa che il costo reale dei chip AI si nasconde nei bilanci, non nelle specifiche tecniche. Quanto può durare una startup che scommette tutto sull'hardware? 🔥",
@@ -100,5 +107,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
   "savedAt": "2026-05-16T16:49:05.058Z",
-  "sourceId": "e0a063b7a71f0b536bcb1b75b4bb2d80"
+  "sourceId": "e0a063b7a71f0b536bcb1b75b4bb2d80",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

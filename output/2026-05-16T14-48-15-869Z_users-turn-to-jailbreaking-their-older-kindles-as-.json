@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "users-turn-to-jailbreaking-their-older-kindles-as-",
   "prompt_version": "1.0.0",
@@ -53,6 +53,13 @@
     },
     "instagram": {
       "caption": "Amazon ha smesso di rilasciare aggiornamenti per i Kindle più vecchi, lasciandoli senza patch di sicurezza. 📵 Chi li possiede ora ha due strade: tenere un dispositivo esposto a vulnerabilità, o jailbreakarlo per avere controllo totale. 🔓 Un Kindle \"liberato\" può rimuovere pubblicità, installare software custom e comunque usare il Kindle Store. Per te significa scegliere tra una scatola chiusa e un e-reader senza limiti. Quale dei tuoi vecchi dispositivi merita una seconda vita? 📚"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "Amazon ha smesso di rilasciare aggiornamenti per i Kindle più vecchi, lasciandoli senza patch di sicurezza. 📵 Chi li possiede ora ha due strade: tenere un dispositivo esposto a vulnerabilità, o jailbreakarlo per avere controllo totale. 🔓 Un Kindle \"liberato\" può rimuovere pubblicità, installare software custom e comunque usare il Kindle Store. Per te significa scegliere tra una scatola chiusa e un e-reader senza limiti. Quale dei tuoi vecchi dispositivi merita una seconda vita? 📚",
@@ -104,5 +111,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2017/11/2007-kindle-1st-gen-angle-gettyimages-93559279.jpg?resize=1200,791",
   "savedAt": "2026-05-16T14:48:30.846Z",
-  "sourceId": "163ac43a9d21d7d4f0a41dc1fefe153b"
+  "sourceId": "163ac43a9d21d7d4f0a41dc1fefe153b",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

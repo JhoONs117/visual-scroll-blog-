@@ -26,7 +26,7 @@
   "savedAt": "2026-05-06T22:41:09.199Z",
   "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
   "instagram_caption": "Una delle aziende più ricche del pianeta ha promesso zero emissioni tra sei anni, ma i suoi nuovi data center per l'intelligenza artificiale stanno già triplicando il consumo di elettricità previsto ⚡. Microsoft investe miliardi in rinnovabili, ma né solare né eolico riescono a tenere il passo di questa fame. Ogni volta che un chatbot ti risponde, brucia corrente come un piccolo elettrodomestico acceso ore 💨. Hai mai pensato a cosa chiedi davvero all’AI? 😅",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "microsoft-s-ai-data-center-push-is-colliding-with-",
   "prompt_version": "1.0.0",
@@ -55,11 +55,28 @@
         "Ogni query che fai ha un costo nascosto enorme.",
         "Quindi, la prossima volta, pensaci due volte prima di chiedere cose inutili."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

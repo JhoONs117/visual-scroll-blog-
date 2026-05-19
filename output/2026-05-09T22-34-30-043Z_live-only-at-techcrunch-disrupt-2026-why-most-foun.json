@@ -72,7 +72,7 @@
   "link": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/",
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/TCD26_3-Speaker-Achadjian-Wade-Singh-16x9-Dark.png?resize=1200,675",
   "instagram_caption": "Il tempo per chiudere un round Series A è passato da 18 a 9 mesi, ma la maggior parte dei founder se ne accorge solo quando il conto in banca è a zero. ⏳ Il mercato non sta rallentando: sta selezionando chi ha già iniziato a raccogliere fondi oggi da chi aspetta la crisi per farlo. Chi parte da sopravvivenza regala equity e perde ogni leva. Se hai meno di 12 mesi di cassa, il rischio concreto non è il fallimento, è non fare in tempo a chiudere il round. 📉 Quanti mesi di autonomia hai davvero?",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "live-only-at-techcrunch-disrupt-2026-why-most-foun",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Inizia la raise oggi, non quando serve.",
         "Controlla il runway adesso. Il ritardo è il rischio."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

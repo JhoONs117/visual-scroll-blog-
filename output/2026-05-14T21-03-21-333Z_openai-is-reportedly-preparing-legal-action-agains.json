@@ -72,7 +72,7 @@
   "pubDate": "Thu, 14 May 2026 19:12:03 +0000",
   "savedAt": "2026-05-14T21:03:59.365Z",
   "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "openai-is-reportedly-preparing-legal-action-agains",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Non è il primo partner tradito.",
         "Controlla le tue clausole di esclusiva."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

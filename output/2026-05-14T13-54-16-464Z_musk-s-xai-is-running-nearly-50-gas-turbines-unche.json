@@ -72,7 +72,7 @@
   "pubDate": "Wed, 13 May 2026 19:49:42 +0000",
   "savedAt": "2026-05-14T13:55:21.381Z",
   "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "musk-s-xai-is-running-nearly-50-gas-turbines-unche",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Le persone lì vivono nell’inquinamento senza saperlo.",
         "La legge non tiene il passo con l’AI."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

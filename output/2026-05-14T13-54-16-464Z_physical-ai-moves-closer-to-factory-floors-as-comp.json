@@ -72,7 +72,7 @@
   "pubDate": "Thu, 14 May 2026 10:00:00 +0000",
   "savedAt": "2026-05-14T13:54:41.375Z",
   "link": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "physical-ai-moves-closer-to-factory-floors-as-comp",
   "prompt_version": "1.0.0",
@@ -144,11 +144,28 @@
         "Il tuo team li addestrerà il prossimo anno.",
         "Fai un pilot prima che sia tardi."
       ]
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "metrics": {
     "x": {},
     "instagram": {},
     "tiktok": {}
-  }
+  },
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }

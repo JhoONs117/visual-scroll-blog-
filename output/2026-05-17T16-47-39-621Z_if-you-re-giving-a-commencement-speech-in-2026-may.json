@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "agent": "ai-news",
   "slug": "if-you-re-giving-a-commencement-speech-in-2026-may",
   "prompt_version": "1.0.0",
@@ -49,6 +49,13 @@
     },
     "instagram": {
       "caption": "Nel 2026, metà dei neolaureati userà l’AI per scrivere la lettera di presentazione che arriverà sulla tua scrivania. Se sei il relatore del loro commencement e citi ChatGPT per dire “guardate che succede”, loro smettono di ascoltarti. Perché per loro l’AI non è una novità: è lo strumento con cui hanno fatto la tesi e pure il CV perfetto. Per te che assumi o parli in pubblico, la credibilità la perdi nel momento in cui citi la tecnologia che loro sentono già vecchia. Inizia da una storia umana che non possono fingere. Qual è l’ultima storia vera che hai ascoltato da qualcuno ?"
+    },
+    "video": {
+      "scenes": [],
+      "duration_sec": 0,
+      "aspect_ratio": "9:16",
+      "cta": "",
+      "quality_score": 0
     }
   },
   "instagram_caption": "Nel 2026, metà dei neolaureati userà l’AI per scrivere la lettera di presentazione che arriverà sulla tua scrivania. Se sei il relatore del loro commencement e citi ChatGPT per dire “guardate che succede”, loro smettono di ascoltarti. Perché per loro l’AI non è una novità: è lo strumento con cui hanno fatto la tesi e pure il CV perfetto. Per te che assumi o parli in pubblico, la credibilità la perdi nel momento in cui citi la tecnologia che loro sentono già vecchia. Inizia da una storia umana che non possono fingere. Qual è l’ultima storia vera che hai ascoltato da qualcuno ?",
@@ -100,5 +107,15 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2019/01/university.jpg?resize=1200,641",
   "savedAt": "2026-05-17T16:47:52.710Z",
-  "sourceId": "f4e20e1053eac63f6170077c2f404a6d"
+  "sourceId": "f4e20e1053eac63f6170077c2f404a6d",
+  "render_quality": null,
+  "render_template": null,
+  "render_status": {
+    "low": null,
+    "medium": null,
+    "high": null
+  },
+  "render_path": null,
+  "render_error": null,
+  "render_version": null
 }
