@@ -1436,9 +1436,33 @@ Il file JSON in `output/` ha sempre il formato `{timestamp}_{slug}.json`. Lo slu
 | `POST /api/save-carousel-png` | Salva le slide PNG dal browser su disco |
 | `GET /renders/{filename}.mp4` | Serve il video renderizzato al player in carousel.html |
 
+### Pubblicare i video su Railway
+
+Dopo aver renderizzato, esegui questi comandi per rendere i video visibili su Railway:
+
+```bash
+node scripts/build-data-agents.js
+git add output/ frontend/data-agents.js
+git commit -m "feat: video renderizzati + aggiorna data-agents"
+git push
+```
+
+Railway si rideploya automaticamente in ~1 minuto e i video appaiono nel player di `carousel.html`.
+
+> **Importante:** esegui sempre `build-data-agents.js` prima del commit — senza di esso `data-agents.js` non ha i campi `render_quality`/`render_path` aggiornati e il player non appare su Railway.
+
+### Video in locale vs Railway
+
+- I video MP4 sono tracciati in git (`output/renders/*.mp4` — inclusi, `output/renders/audio/` — esclusi)
+- Una volta pushati su GitHub, Railway li serve indipendentemente da quello che hai in locale
+- Puoi eliminare i file locali per fare spazio senza conseguenze su Railway
+- L'unico modo per rimuoverli da Railway è: `git rm output/renders/{slug}.mp4` + commit + push
+- Questo comando **non viene mai eseguito automaticamente** — solo tu puoi farlo manualmente
+
 ### Note importanti
 
-- Il server deve essere avviato (`node server.js`) prima di cliccare "💾 Salva per video"
+- Il server locale deve essere avviato (`node server.js`) prima di cliccare "💾 Salva per video"
 - Le PNG vengono salvate in `output/{agentId}/slides-png/{slug}/slide{0-4}.png`
 - I video renderizzati finiscono in `output/renders/{slug}.mp4`
 - `render_status.low = "done"` nel JSON indica che il video è già stato renderizzato (viene saltato da `render-pending.js`)
+- `OPENAI_API_KEY` è configurato nei GitHub Actions secrets — il CI può generare piani video automaticamente
