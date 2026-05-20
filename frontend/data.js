@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "-ask-youtube-brings-ai-powered-conversational-sear",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
+    "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
+    "pubDate": "Wed, 20 May 2026 05:45:00 +0000",
+    "slides": [
+      "Ask YouTube sostituirà il tuo motore di ricerca video?",
+      "Ora puoi conversare con l'AI invece di cercare.",
+      "Gemini Omni analizza anche i tuoi Shorts vocali.",
+      "Chi non testa oggi il dialogo perde engagement.",
+      "Prova subito: fai una domanda complessa a un video."
+    ],
+    "thread_text": [
+      "Gemini Omni analizza anche i tuoi Shorts vocali mentre parli. L'AI capisce il tono e le parole insieme.",
+      "Fino a ieri per trovare un punto in un video dovevi scorrere manualmente. Ora fai una domanda e l'AI ti porta lì.",
+      "La novità è che non stai più cercando testi o titoli: stai conversando con il contenuto stesso del video.",
+      "Se non testi oggi il dialogo con l'AI, il tuo engagement con i creator cala. Chi lo fa, raddoppia i tempi di visione.",
+      "Costa meno di un caffè al giorno. Fai una domanda complessa a un video lungo un'ora e vedi quanto tempo risparmi."
+    ],
+    "video_script": [
+      "Hai visto che ora puoi parlare con i video?",
+      "Sì, proprio chiedere cose e l'AI risponde.",
+      "Gemini Omni analizza anche i tuoi Shorts vocali.",
+      "Non perdi tempo a cercare, conversi e basta.",
+      "Prova subito con un video lungo."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Gemini Omni analizza anche i tuoi Shorts vocali mentre parli. L'AI capisce il tono e le parole insieme.",
+          "Fino a ieri per trovare un punto in un video dovevi scorrere manualmente. Ora fai una domanda e l'AI ti porta lì.",
+          "La novità è che non stai più cercando testi o titoli: stai conversando con il contenuto stesso del video.",
+          "Se non testi oggi il dialogo con l'AI, il tuo engagement con i creator cala. Chi lo fa, raddoppia i tempi di visione.",
+          "Costa meno di un caffè al giorno. Fai una domanda complessa a un video lungo un'ora e vedi quanto tempo risparmi."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hai visto che ora puoi parlare con i video?",
+          "Sì, proprio chiedere cose e l'AI risponde.",
+          "Gemini Omni analizza anche i tuoi Shorts vocali.",
+          "Non perdi tempo a cercare, conversi e basta.",
+          "Prova subito con un video lungo."
+        ]
+      },
+      "instagram": {
+        "caption": "Un click e l'AI ti porta al punto esatto di un video dove si parla di ciò che cerchi, senza scorrere la barra. YouTube ha appena lanciato \"Ask YouTube\" e integrato Gemini Omni nei Shorts: ora puoi fare domande complesse a un video e ricevere risposte, mentre l'AI analizza tono e parole nei tuoi vocali. 🎤 Per chi lavora con i contenuti, questo significa raddoppiare i tempi di visione senza aumentare lo sforzo. ⏱️ Costa meno di un caffè al giorno. Quanto tempo risparmieresti su un video di un'ora?"
+      }
+    },
+    "instagram_caption": "Un click e l'AI ti porta al punto esatto di un video dove si parla di ciò che cerchi, senza scorrere la barra. YouTube ha appena lanciato \"Ask YouTube\" e integrato Gemini Omni nei Shorts: ora puoi fare domande complesse a un video e ricevere risposte, mentre l'AI analizza tono e parole nei tuoi vocali. 🎤 Per chi lavora con i contenuti, questo significa raddoppiare i tempi di visione senza aumentare lo sforzo. ⏱️ Costa meno di un caffè al giorno. Quanto tempo risparmieresti su un video di un'ora?",
+    "carousel_slides": [
+      {
+        "hook": "L'AI capisce la tua voce",
+        "description": "Gemini Omni analizza tono e parole degli Shorts mentre parli. Conversa col video.",
+        "visual_hint": "Onda sonora su schermo",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "sound wave monitor"
+      },
+      {
+        "hook": "Basta scorrere manualmente",
+        "description": "Fai una domanda e l'AI ti porta al punto esatto. Conversi col contenuto, non coi titoli.",
+        "visual_hint": "Dito clicca su schermo",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "smartphone touch screen",
+        "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cerchi? No, conversi",
+        "description": "Non stai più cercando testi. Parli col video e l'AI risponde con il frame giusto.",
+        "visual_hint": "Bolla di dialogo AI",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chat bubble interface",
+        "image": "https://images.pexels.com/photos/11681097/pexels-photo-11681097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Chi non testa perde engagement",
+        "description": "Se non provi oggi il dialogo con l'AI, i tempi di visione calano. Chi lo fa li raddoppia.",
+        "visual_hint": "Grafico a barre in crescita",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "bar chart growth",
+        "image": "https://images.pexels.com/photos/5842061/pexels-photo-5842061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova: chiedi qualcosa a un video",
+        "description": "Costa meno di un caffè al giorno. Risparmi ore su un video lungo un'ora.",
+        "visual_hint": "Tazzina e smartphone",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "coffee cup smartphone",
+        "image": "https://images.pexels.com/photos/14988552/pexels-photo-14988552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-12.00.28-PM.png?resize=1200,665",
+    "savedAt": "2026-05-20T07:37:02.707Z",
+    "sourceId": "c43e302c73717d87a689432917def7a8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "enterprise-ai-roadblocks-and-roadmaps-security-and",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
+    "link": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
+    "pubDate": "Tue, 19 May 2026 19:18:00 +0000",
+    "slides": [
+      "Enterprises hit walls scaling AI. What's the real fix?",
+      "Most pilots never reach production in security use cases.",
+      "Physical AI now demands edge computing, not just cloud.",
+      "Your roadmap needs a security layer from day one.",
+      "Test a physical AI prototype this quarter, or fall behind."
+    ],
+    "thread_text": [
+      "Il 90% dei pilot AI in sicurezza non arriva in produzione. Non è un problema di tecnologia, ma di aspettative sbagliate.",
+      "Il problema è che si costruiscono demo in cloud, ma il mondo reale è fatto di edge, latenza e hardware limitato.",
+      "La Physical AI non si scala con il cloud da solo. Serve edge computing già nei prototipi, non dopo.",
+      "Ogni roadmap AI oggi dovrebbe partire con un layer di sicurezza. Se lo aggiungi dopo, riscrivi tutto.",
+      "Testa un prototipo di Physical AI su edge questo trimestre. Costa meno di una demo cloud fallita."
+    ],
+    "video_script": [
+      "Nove pilot su dieci non arrivano in produzione.",
+      "Il problema è che funzionano solo in cloud.",
+      "Nel mondo reale serve edge computing subito.",
+      "E la sicurezza va messa dal primo giorno.",
+      "Testa un prototipo questo trimestre o resti indietro."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Il 90% dei pilot AI in sicurezza non arriva in produzione. Non è un problema di tecnologia, ma di aspettative sbagliate.",
+          "Il problema è che si costruiscono demo in cloud, ma il mondo reale è fatto di edge, latenza e hardware limitato.",
+          "La Physical AI non si scala con il cloud da solo. Serve edge computing già nei prototipi, non dopo.",
+          "Ogni roadmap AI oggi dovrebbe partire con un layer di sicurezza. Se lo aggiungi dopo, riscrivi tutto.",
+          "Testa un prototipo di Physical AI su edge questo trimestre. Costa meno di una demo cloud fallita."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nove pilot su dieci non arrivano in produzione.",
+          "Il problema è che funzionano solo in cloud.",
+          "Nel mondo reale serve edge computing subito.",
+          "E la sicurezza va messa dal primo giorno.",
+          "Testa un prototipo questo trimestre o resti indietro."
+        ]
+      },
+      "instagram": {
+        "caption": "Il 90% dei progetti di AI per la sicurezza non supera la fase di test. Non perché la tecnologia non funzioni, ma perché vengono costruiti nel cloud e poi falliscono nel mondo reale. La \"Physical AI\" (robot, droni, sensori) ha bisogno di computer vicini al posto dell'azione, non di server lontani. Se usi un tool AI a lavoro che impiega secondi a rispondere, il problema è lì. Ogni nuova roadmap AI dovrebbe includere la sicurezza dal primo giorno e testare su hardware fisico adesso. Hai già provato a far funzionare un modello AI sul tuo computer, non su internet?"
+      }
+    },
+    "instagram_caption": "Il 90% dei progetti di AI per la sicurezza non supera la fase di test. Non perché la tecnologia non funzioni, ma perché vengono costruiti nel cloud e poi falliscono nel mondo reale. La \"Physical AI\" (robot, droni, sensori) ha bisogno di computer vicini al posto dell'azione, non di server lontani. Se usi un tool AI a lavoro che impiega secondi a rispondere, il problema è lì. Ogni nuova roadmap AI dovrebbe includere la sicurezza dal primo giorno e testare su hardware fisico adesso. Hai già provato a far funzionare un modello AI sul tuo computer, non su internet?",
+    "carousel_slides": [
+      {
+        "hook": "Il 90% dei pilot non arriva in produzione",
+        "description": "Il problema non è la tecnologia, ma le aspettative sbagliate fin dall'inizio.",
+        "visual_hint": "Grafico a barre con crollo",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Demo in cloud, realtà in edge",
+        "description": "Si costruiscono demo in cloud, ma il mondo reale è latenza e hardware limitato.",
+        "visual_hint": "Due mondi separati",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Physical AI non scala senza edge",
+        "description": "La Physical AI non si scala solo con cloud: edge computing serve già nei prototipi.",
+        "visual_hint": "Robot con chip edge",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sicurezza dal giorno uno",
+        "description": "Ogni roadmap AI oggi deve partire con un layer di sicurezza. Se lo aggiungi dopo, riscrivi tutto.",
+        "visual_hint": "Catena con lucchetto",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Testa prototipo edge questo trimestre",
+        "description": "Costa meno di una demo cloud fallita e ti evita di restare indietro.",
+        "visual_hint": "Calendario con segno di spunta",
+        "layout_type": "cta-final",
+        "icon": "heart",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/day-two.png",
+    "savedAt": "2026-05-20T07:36:43.411Z",
+    "sourceId": "6ad4b0a087dd85fdb4e16514dcfc6d88"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-updates-its-gemini-app-to-take-on-chatgpt-a",
     "prompt_version": "1.0.0",
     "status": "published",

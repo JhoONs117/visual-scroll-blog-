@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "enterprise-ai-roadblocks-and-roadmaps-security-and",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
+  "link": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
+  "pubDate": "Tue, 19 May 2026 19:18:00 +0000",
+  "slides": [
+    "Enterprises hit walls scaling AI. What's the real fix?",
+    "Most pilots never reach production in security use cases.",
+    "Physical AI now demands edge computing, not just cloud.",
+    "Your roadmap needs a security layer from day one.",
+    "Test a physical AI prototype this quarter, or fall behind."
+  ],
+  "thread_text": [
+    "Il 90% dei pilot AI in sicurezza non arriva in produzione. Non è un problema di tecnologia, ma di aspettative sbagliate.",
+    "Il problema è che si costruiscono demo in cloud, ma il mondo reale è fatto di edge, latenza e hardware limitato.",
+    "La Physical AI non si scala con il cloud da solo. Serve edge computing già nei prototipi, non dopo.",
+    "Ogni roadmap AI oggi dovrebbe partire con un layer di sicurezza. Se lo aggiungi dopo, riscrivi tutto.",
+    "Testa un prototipo di Physical AI su edge questo trimestre. Costa meno di una demo cloud fallita."
+  ],
+  "video_script": [
+    "Nove pilot su dieci non arrivano in produzione.",
+    "Il problema è che funzionano solo in cloud.",
+    "Nel mondo reale serve edge computing subito.",
+    "E la sicurezza va messa dal primo giorno.",
+    "Testa un prototipo questo trimestre o resti indietro."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il 90% dei pilot AI in sicurezza non arriva in produzione. Non è un problema di tecnologia, ma di aspettative sbagliate.",
+        "Il problema è che si costruiscono demo in cloud, ma il mondo reale è fatto di edge, latenza e hardware limitato.",
+        "La Physical AI non si scala con il cloud da solo. Serve edge computing già nei prototipi, non dopo.",
+        "Ogni roadmap AI oggi dovrebbe partire con un layer di sicurezza. Se lo aggiungi dopo, riscrivi tutto.",
+        "Testa un prototipo di Physical AI su edge questo trimestre. Costa meno di una demo cloud fallita."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nove pilot su dieci non arrivano in produzione.",
+        "Il problema è che funzionano solo in cloud.",
+        "Nel mondo reale serve edge computing subito.",
+        "E la sicurezza va messa dal primo giorno.",
+        "Testa un prototipo questo trimestre o resti indietro."
+      ]
+    },
+    "instagram": {
+      "caption": "Il 90% dei progetti di AI per la sicurezza non supera la fase di test. Non perché la tecnologia non funzioni, ma perché vengono costruiti nel cloud e poi falliscono nel mondo reale. La \"Physical AI\" (robot, droni, sensori) ha bisogno di computer vicini al posto dell'azione, non di server lontani. Se usi un tool AI a lavoro che impiega secondi a rispondere, il problema è lì. Ogni nuova roadmap AI dovrebbe includere la sicurezza dal primo giorno e testare su hardware fisico adesso. Hai già provato a far funzionare un modello AI sul tuo computer, non su internet?"
+    }
+  },
+  "instagram_caption": "Il 90% dei progetti di AI per la sicurezza non supera la fase di test. Non perché la tecnologia non funzioni, ma perché vengono costruiti nel cloud e poi falliscono nel mondo reale. La \"Physical AI\" (robot, droni, sensori) ha bisogno di computer vicini al posto dell'azione, non di server lontani. Se usi un tool AI a lavoro che impiega secondi a rispondere, il problema è lì. Ogni nuova roadmap AI dovrebbe includere la sicurezza dal primo giorno e testare su hardware fisico adesso. Hai già provato a far funzionare un modello AI sul tuo computer, non su internet?",
+  "carousel_slides": [
+    {
+      "hook": "Il 90% dei pilot non arriva in produzione",
+      "description": "Il problema non è la tecnologia, ma le aspettative sbagliate fin dall'inizio.",
+      "visual_hint": "Grafico a barre con crollo",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Demo in cloud, realtà in edge",
+      "description": "Si costruiscono demo in cloud, ma il mondo reale è latenza e hardware limitato.",
+      "visual_hint": "Due mondi separati",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Physical AI non scala senza edge",
+      "description": "La Physical AI non si scala solo con cloud: edge computing serve già nei prototipi.",
+      "visual_hint": "Robot con chip edge",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sicurezza dal giorno uno",
+      "description": "Ogni roadmap AI oggi deve partire con un layer di sicurezza. Se lo aggiungi dopo, riscrivi tutto.",
+      "visual_hint": "Catena con lucchetto",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Testa prototipo edge questo trimestre",
+      "description": "Costa meno di una demo cloud fallita e ti evita di restare indietro.",
+      "visual_hint": "Calendario con segno di spunta",
+      "layout_type": "cta-final",
+      "icon": "heart",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/day-two.png",
+  "savedAt": "2026-05-20T07:36:43.411Z",
+  "sourceId": "6ad4b0a087dd85fdb4e16514dcfc6d88"
+}

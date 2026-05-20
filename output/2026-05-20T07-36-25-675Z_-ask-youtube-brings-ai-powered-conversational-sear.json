@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "-ask-youtube-brings-ai-powered-conversational-sear",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
+  "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
+  "pubDate": "Wed, 20 May 2026 05:45:00 +0000",
+  "slides": [
+    "Ask YouTube sostituirà il tuo motore di ricerca video?",
+    "Ora puoi conversare con l'AI invece di cercare.",
+    "Gemini Omni analizza anche i tuoi Shorts vocali.",
+    "Chi non testa oggi il dialogo perde engagement.",
+    "Prova subito: fai una domanda complessa a un video."
+  ],
+  "thread_text": [
+    "Gemini Omni analizza anche i tuoi Shorts vocali mentre parli. L'AI capisce il tono e le parole insieme.",
+    "Fino a ieri per trovare un punto in un video dovevi scorrere manualmente. Ora fai una domanda e l'AI ti porta lì.",
+    "La novità è che non stai più cercando testi o titoli: stai conversando con il contenuto stesso del video.",
+    "Se non testi oggi il dialogo con l'AI, il tuo engagement con i creator cala. Chi lo fa, raddoppia i tempi di visione.",
+    "Costa meno di un caffè al giorno. Fai una domanda complessa a un video lungo un'ora e vedi quanto tempo risparmi."
+  ],
+  "video_script": [
+    "Hai visto che ora puoi parlare con i video?",
+    "Sì, proprio chiedere cose e l'AI risponde.",
+    "Gemini Omni analizza anche i tuoi Shorts vocali.",
+    "Non perdi tempo a cercare, conversi e basta.",
+    "Prova subito con un video lungo."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Gemini Omni analizza anche i tuoi Shorts vocali mentre parli. L'AI capisce il tono e le parole insieme.",
+        "Fino a ieri per trovare un punto in un video dovevi scorrere manualmente. Ora fai una domanda e l'AI ti porta lì.",
+        "La novità è che non stai più cercando testi o titoli: stai conversando con il contenuto stesso del video.",
+        "Se non testi oggi il dialogo con l'AI, il tuo engagement con i creator cala. Chi lo fa, raddoppia i tempi di visione.",
+        "Costa meno di un caffè al giorno. Fai una domanda complessa a un video lungo un'ora e vedi quanto tempo risparmi."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hai visto che ora puoi parlare con i video?",
+        "Sì, proprio chiedere cose e l'AI risponde.",
+        "Gemini Omni analizza anche i tuoi Shorts vocali.",
+        "Non perdi tempo a cercare, conversi e basta.",
+        "Prova subito con un video lungo."
+      ]
+    },
+    "instagram": {
+      "caption": "Un click e l'AI ti porta al punto esatto di un video dove si parla di ciò che cerchi, senza scorrere la barra. YouTube ha appena lanciato \"Ask YouTube\" e integrato Gemini Omni nei Shorts: ora puoi fare domande complesse a un video e ricevere risposte, mentre l'AI analizza tono e parole nei tuoi vocali. 🎤 Per chi lavora con i contenuti, questo significa raddoppiare i tempi di visione senza aumentare lo sforzo. ⏱️ Costa meno di un caffè al giorno. Quanto tempo risparmieresti su un video di un'ora?"
+    }
+  },
+  "instagram_caption": "Un click e l'AI ti porta al punto esatto di un video dove si parla di ciò che cerchi, senza scorrere la barra. YouTube ha appena lanciato \"Ask YouTube\" e integrato Gemini Omni nei Shorts: ora puoi fare domande complesse a un video e ricevere risposte, mentre l'AI analizza tono e parole nei tuoi vocali. 🎤 Per chi lavora con i contenuti, questo significa raddoppiare i tempi di visione senza aumentare lo sforzo. ⏱️ Costa meno di un caffè al giorno. Quanto tempo risparmieresti su un video di un'ora?",
+  "carousel_slides": [
+    {
+      "hook": "L'AI capisce la tua voce",
+      "description": "Gemini Omni analizza tono e parole degli Shorts mentre parli. Conversa col video.",
+      "visual_hint": "Onda sonora su schermo",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "sound wave monitor"
+    },
+    {
+      "hook": "Basta scorrere manualmente",
+      "description": "Fai una domanda e l'AI ti porta al punto esatto. Conversi col contenuto, non coi titoli.",
+      "visual_hint": "Dito clicca su schermo",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "smartphone touch screen",
+      "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cerchi? No, conversi",
+      "description": "Non stai più cercando testi. Parli col video e l'AI risponde con il frame giusto.",
+      "visual_hint": "Bolla di dialogo AI",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chat bubble interface",
+      "image": "https://images.pexels.com/photos/11681097/pexels-photo-11681097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chi non testa perde engagement",
+      "description": "Se non provi oggi il dialogo con l'AI, i tempi di visione calano. Chi lo fa li raddoppia.",
+      "visual_hint": "Grafico a barre in crescita",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "bar chart growth",
+      "image": "https://images.pexels.com/photos/5842061/pexels-photo-5842061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova: chiedi qualcosa a un video",
+      "description": "Costa meno di un caffè al giorno. Risparmi ore su un video lungo un'ora.",
+      "visual_hint": "Tazzina e smartphone",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "coffee cup smartphone",
+      "image": "https://images.pexels.com/photos/14988552/pexels-photo-14988552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-12.00.28-PM.png?resize=1200,665",
+  "savedAt": "2026-05-20T07:37:02.707Z",
+  "sourceId": "c43e302c73717d87a689432917def7a8"
+}
