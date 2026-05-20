@@ -1,7 +1,7 @@
 # Refactor Multi-Agente — Piano Operativo per Claude Code
 
 Documento: guida step-by-step con prompt pronti e test per ogni fase.
-Aggiornato: 2026-05-17 | Prerequisito: Food Agent STEP 1–8 completati ✅
+Aggiornato: 2026-05-20 | Prerequisito: Food Agent STEP 1–8 completati ✅
 Correlato a: PROJECT.md · MANUAL.md · FOOD-AGENT.md
 
 > **Obiettivo finale:** il terzo agente (fitness) deve richiedere solo
@@ -27,7 +27,7 @@ Correlato a: PROJECT.md · MANUAL.md · FOOD-AGENT.md
 | FASE 9 — Agente fitness | ✅ Completa | `agents/fitness/` completo, `output/fitness/`, in CI |
 | FASE 10 — data-agents.js | ✅ Completa | `window.AGENTS = {ai-news, food, fitness}`, `scripts/build-data-agents.js` |
 | FASE 11 — Review multi-canale | ✅ Completa | Badge agente, status pill, prompt_version, select X/IG/TikTok, copia per canale |
-| FASE 12 — Automazione publish | 🚧 In corso — Instagram bloccato | TEST 0–9 ✅. render-video.js ✅. publisher-x.js ✅ (bloccato X API Free). publisher-tiktok.js ✅ **TESTATO** (bozze inbox, sandbox video.upload). publisher-instagram.js ✅ (bloccato — impossibile creare account developer Instagram al momento). scheduler.js ✅. |
+| FASE 12 — Automazione publish | 🔒 BLOCCATA | publisher-tiktok.js ✅ TESTATO (sandbox). publisher-instagram.js ⏸ account Instagram ristretto da Meta. publisher-x.js ⏸ X API Free non permette POST. scheduler.js ✅ pronto. |
 | FASE 13 — Carousel unico | ✅ Completa | `carousel.html?agent=ai-news\|food`; proxy `/proxy-image` in `server.js` per food; `carousel-food.html` rimosso definitivamente |
 | FASE 14 — Video Engine multi-template | ✅ Completa + fix 2026-05-20 | Schema v3 migrato (376 JSON). `video/validate-video-plan.js`, `video/generate-video-plan.js` (CI: `--ci`), `video/generate-slides-916.js` (Option C: carousel PNG priority + Pexels fallback), `video/templates/slide-deck.js` (zoompan + TTS + subtitle; audio 44100Hz), `video/render-video-v2.js` (CLI entry point), `video/render-pending.js` (batch locale + auto-import PNG + auto build+push). UI: player video in `carousel.html`, dropdown quality, pulsante "Salva per video" (scarica PNG nel browser). CI: `generate-video-plan.js --ci` + `git pull --rebase --autostash`. Fix: `set-render-quality` fa push, `generate-video-plan` inizializza `formats.video`, `render-pending` inizializza `render_status`. `OPENAI_API_KEY` in GitHub Secrets. Video visibili su Railway con audio. |
 

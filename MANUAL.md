@@ -1130,18 +1130,15 @@ La FASE 12 (pipeline video automatica) richiede almeno **30 articoli approvati**
 
 ### Dove approvare
 
-**Da `carousel.html` (consigliato — è la view principale):**
-1. Assicurati che `node server.js` sia in esecuzione
-2. Apri `http://localhost:3000/carousel.html`
-3. Seleziona un articolo dal menu a tendina
-4. Controlla le 5 slide, il thread X, la caption
-5. Click **Approva** nella barra in alto (a destra del link Fonte)
-6. Il pill diventa verde ("approved") e il contatore nella selector bar si aggiorna
+**Da Railway (consigliato — nessun server locale necessario):**
+1. Vai su `https://visual-scroll-blog-production.up.railway.app/carousel.html?agent=ai-news`
+2. Seleziona un articolo dal menu a tendina
+3. Controlla le 5 slide, il thread X, la caption
+4. Click **Approva** — il pill diventa verde e il commit viene pushato automaticamente su git
 
 **Da `review.html`:**
-1. Apri `http://localhost:3000/review.html`
-2. Scorri gli articoli
-3. Click **Approva** in fondo a ogni articolo
+- `https://visual-scroll-blog-production.up.railway.app/review.html`
+- Click **Approva** in fondo a ogni articolo
 
 ### Come funziona internamente
 
@@ -1178,71 +1175,10 @@ git push
 
 ## 24. Come generare video
 
-Il renderer è **separato** dalla pipeline articoli — va eseguito manualmente dopo aver approvato gli articoli. Non tocca mai articoli già renderizzati (`render_status: rendered`).
+> ⚠️ **Questo è il sistema video V1 (legacy).** Il sistema attuale è **V2** — vedi §30.
+> Il V1 usa `render/render-video.js` con clip Pexels. Il V2 usa `video/render-pending.js` con slide carousel animate.
 
-### Prerequisiti
-
-```bash
-node scripts/check-video-prereqs.js
-# Deve mostrare 8/8 ✅ — se fallisce, segui le istruzioni
-```
-
-Richiede: `ffmpeg`, font `Inter-Bold.ttf` in `assets/fonts/`, `PEXELS_API_KEY`, `OPENAI_API_KEY`.
-
-### Renderizzare un singolo articolo
-
-```bash
-node render/render-video.js --agent ai-news --slug SLUG
-# es: node render/render-video.js --agent ai-news --slug cisco-cuts-nearly-4-000-jobs
-```
-
-Trova lo slug nel nome del file JSON in `output/` (la parte dopo il timestamp).
-
-### Renderizzare più articoli in una run
-
-```bash
-# Renderizza i prossimi 5 approved non ancora renderizzati
-node render/render-video.js --agent ai-news --limit 5
-
-# Renderizza tutti
-node render/render-video.js --agent ai-news --limit 99
-
-# Agenti diversi
-node render/render-video.js --agent food --limit 99
-node render/render-video.js --agent fitness --limit 99
-```
-
-### Testare una singola scena (senza TTS, senza audio)
-
-```bash
-node render/render-video.js --agent ai-news --slug SLUG --scene 0
-# genera output/renders/SLUG_scene0.mp4 — utile per verificare clip e sottotitoli
-```
-
-### Dove finiscono i video
-
-```
-output/renders/SLUG.mp4          ← ai-news
-output/food/renders/SLUG.mp4     ← food
-output/fitness/renders/SLUG.mp4  ← fitness
-```
-
-I video sono esclusi da git (`.gitignore`) e da Railway (`.railwayignore`) — rimangono solo in locale.
-
-### Cosa fa il renderer
-
-1. Chiama DeepSeek per generare 5 scene (query Pexels, testo voce, motion, transizione)
-2. Per ogni scena: scarica clip Pexels portrait, applica crop 1080×1920, zoom/pan, subtitoli bruciati
-3. TTS OpenAI (`tts-1`, voce `alloy`) per ogni scena — audio sincronizzato con il video
-4. Concatena le 5 scene in un unico MP4
-5. Imposta `render_status: rendered` nel JSON dell'articolo
-
-### Lingua dei sottotitoli e audio
-
-- **AI News / Fitness**: inglese (traduce automaticamente se necessario)
-- **Food**: italiano (lingua originale delle ricette)
-
-La lingua è configurata in `agents/{agente}/config.js` → campo `language`.
+Per generare video usa il §30 (pipeline V2 slide-deck).
 
 ---
 
@@ -1266,11 +1202,11 @@ Il video viene caricato come **bozza** nel tuo profilo TikTok (scope `video.uplo
 
 ## 26. Come pubblicare su Instagram
 
-⏸ **Bloccato** — account developer Instagram non attivabile al momento.
+🔒 **BLOCCATO** — account Instagram ristretto da Meta. Impossibile creare App su `developers.facebook.com` con "Instagram Use Case" finché l'account non viene sbloccato/verificato da Meta.
 
 Quando sbloccato, il setup richiede:
-1. developers.facebook.com → crea App → aggiungi prodotto "Instagram"
-2. Business Login → permessi: `instagram_basic`, `instagram_content_publish`
+1. `developers.facebook.com` → crea App → seleziona "Instagram Use Case"
+2. Permessi: `instagram_basic`, `instagram_content_publish`
 3. Collega Instagram Business account → genera Long-Lived User Access Token
 4. Aggiungi in `.env`: `INSTAGRAM_USER_ID`, `INSTAGRAM_ACCESS_TOKEN`
 

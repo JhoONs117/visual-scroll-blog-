@@ -1,14 +1,14 @@
 # Visual AI Scroll Blog — PROJECT
 
 Documento unificato: stato attuale · roadmap · riferimento tecnico · storico.  
-Aggiornato: 2026-05-17 | Sostituisce: README.md · CONTEXT.md · LAVORO.md · M21-roadmap.md  
-Documento operativo correlato: **MANUAL.md** (come eseguire le operazioni) · **FOOD-AGENT.md** (secondo agente) · **REFACTOR-PLAN.md** (refactor multi-agente FASE 0-13)
+Aggiornato: 2026-05-20 | Sostituisce: README.md · CONTEXT.md · LAVORO.md · M21-roadmap.md  
+Documento operativo correlato: **MANUAL.md** (come eseguire le operazioni) · **FOOD-AGENT.md** (secondo agente) · **REFACTOR-PLAN.md** (refactor multi-agente FASE 0-14)
 
 ---
 
 ## 1. Stato attuale
 
-**Data:** 2026-05-15 | **Articoli AI:** 74+ unici | **Articoli Food:** 15+ | **Articoli Fitness:** in generazione | **Pipeline:** automatica ogni 2 ore (GitHub Actions) | **Deploy:** Railway
+**Data:** 2026-05-20 | **Articoli AI:** 141+ unici | **Articoli Food:** 24+ | **Articoli Fitness:** 28+ | **Pipeline:** automatica ogni 2 ore (GitHub Actions) | **Deploy:** Railway
 
 | Milestone | Stato | Note |
 |---|---|---|
@@ -43,10 +43,12 @@ Documento operativo correlato: **MANUAL.md** (come eseguire le operazioni) · **
 | **Fix download PNG food** | ✅ Fix | Proxy `/proxy-image` in `server.js` bypassa CORS Giallozafferano; Pexels usa ancora `useCORS` diretto |
 | **Workflow approvazione articoli** | ✅ Completa | `POST /api/set-status` in `server.js`; tasto Approva in `review.html` (barra FASE12 progress) e `carousel.html` (status pill + counter + ✅ emoji nel dropdown) |
 | M21 — Test distribuzione reale | 🔄 In corso | Primo post 2026-05-11 ore 15:00 IT su X. 1 thread/giorno |
-| **Refactor FASE 12 — Automazione publish** | 🔒 Bloccata | Richiede 30 articoli approvati manualmente (meccanismo approvazione ✅ pronto) |
+| **Refactor FASE 13 — Carousel unificato** | ✅ Completa | `carousel.html?agent=ai-news\|food`, `carousel-food.html` rimosso; proxy immagini in `server.js` |
+| **Refactor FASE 14 — Video Engine V2** | ✅ Completa (2026-05-20) | Schema v3 migrato. Pipeline slide-deck: zoompan + TTS OpenAI 44kHz + subtitle. `render-pending.js` auto-import PNG + auto build+push. CI genera piani ogni 2h. Video visibili su Railway. |
+| **Refactor FASE 12 — Automazione publish** | 🔒 Bloccata | Instagram: account ristretto da Meta (impossibile creare App developer). TikTok sandbox ✅. X API Free non permette POST. |
 | M22 — Iterazione prompt da dati | ⏳ Dopo M21 | Richiede 15 post con dati reali |
-| FASE 5 — Secondo canale | ⏳ Dopo M22 | Instagram: carousel PNG già pronti per tutti gli agenti |
-| FASE 6 — Automazione pubblicazione | ⏳ Dopo FASE 5 | Playwright export + auto-pubblicazione |
+| FASE 5 — Secondo canale | ⏳ Dopo sblocco Instagram | Instagram: carousel PNG già pronti per tutti gli agenti |
+| FASE 6 — Automazione pubblicazione | ⏳ Dopo FASE 5 | Auto-pubblicazione via scheduler.js |
 | M18 — Ranking per qualità | ⏳ Backlog | Nice to have |
 | M19 — Index globale articoli | ⏳ Backlog | Utile quando il volume cresce |
 | M20 — Branding e URL pulito | ⏳ Backlog | - |
@@ -56,8 +58,9 @@ Documento operativo correlato: **MANUAL.md** (come eseguire le operazioni) · **
 M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → PRE-M21 ✅ → M21b ✅
 → Pexels ✅ → Download PNG ✅ → Food Agent ✅ → Feed multi-agente ✅
 → Refactor FASE 1-13 ✅ (schema v2, runner unico, fitness, carousel unificato, review v2)
+→ FASE 14 ✅ (video engine V2, slide-deck, TTS, render-pending auto-push)
 → M21 🔄 ← STOP: valuta risultati (15 post, iniziato 2026-05-11)
-→ M22 → FASE 5 → FASE 6 → M18 → M19 → M20
+→ FASE 12 🔒 (bloccata Instagram) → M22 → FASE 5 → FASE 6 → M18 → M19 → M20
 ```
 
 ---
