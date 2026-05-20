@@ -1,0 +1,84 @@
+{
+  "agent": "food",
+  "slug": "pasta-con-zucchine-pancetta-e-pecorino",
+  "sourceId": "b681926837c6584a7e62a8382930f537",
+  "dish_type": "pasta",
+  "signature_ingredients": [
+    "zucchine",
+    "pancetta",
+    "pecorino"
+  ],
+  "title": "Pasta con zucchine, pancetta e pecorino",
+  "slides": [
+    "Pasta cremosa con zucchine, pancetta e pecorino",
+    "Linguine, zucchine, pancetta, pecorino, panna",
+    "Taglia zucchine a cubetti e pancetta a tocchetti",
+    "Manteca la pasta con fonduta di pecorino",
+    "Guarnisci con taralli sbriciolati e scorza di limone"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Pasta cremosa che conquista tutti",
+      "description": "Una cremosità irresistibile con zucchine, pancetta croccante e pecorino: il comfort food perfetto per ogni sera.",
+      "visual_hint": "Primo piano pasta fumante",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "savory creamy pasta"
+    },
+    {
+      "hook": "I segreti in dispensa",
+      "description": "Pochi ingredienti: linguine, zucchine fresche, pancetta dolce, pecorino stagionato e un tocco di panna per legare.",
+      "visual_hint": "Ingredienti su tagliere",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "savory pasta ingredients",
+      "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il taglio che fa la differenza",
+      "description": "Taglia le zucchine a cubetti regolari e la pancetta a tocchetti: così cuociono uniformemente e regalano texture perfette.",
+      "visual_hint": "Mani tagliano verdure",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chopping zucchini cubes",
+      "image": "https://images.pexels.com/photos/8511807/pexels-photo-8511807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il segreto della cremosità",
+      "description": "Manteca la pasta al dente in padella con una fonduta di pecorino e panna: il formaggio si scioglie avvolgendo ogni filo.",
+      "visual_hint": "Mantecatura in padella",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "tossing pasta cheese",
+      "image": "https://images.pexels.com/photos/6248845/pexels-photo-6248845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il tocco finale da chef",
+      "description": "Guarnisci con taralli sbriciolati per croccantezza e scorza di limone grattugiata: freschezza che esalta il sapore.",
+      "visual_hint": "Piatto finito guarnito",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "savory pasta plate",
+      "image": "https://images.pexels.com/photos/31235407/pexels-photo-31235407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "instagram_caption": "Poche cose mettono d’accordo tutti come una pasta cremosa al punto giusto. 🍝 Qui ho saltato zucchine a cubetti con pancetta croccante, poi ho mantecato il tutto con una fonduta di pecorino e un filo di panna. Il risultato? Una cremosità che si scioglie in bocca. Per finire, ho aggiunto taralli sbriciolati per la croccantezza e una grattugiata di scorza di limone che dà freschezza. Provala questo weekend 🌿",
+  "video_script": [
+    "Taglio zucchine a cubetti e pancetta a tocchetti.",
+    "Butto la pasta e intanto salto pancetta e zucchine.",
+    "Aggiungo panna e manteco con pecorino fuso.",
+    "Unisco la pasta e faccio saltare il tutto.",
+    "Sbriciolo taralli e grattugio scorza di limone."
+  ],
+  "thread_text": [
+    "C’è piatto e piatto. Poi c’è questa pasta — cremosa, sapida, con quel crunch finale che non ti aspetti. Zucchine, pancetta e pecorino: tre ingredienti, una bomba.",
+    "Taglia le zucchine a cubetti, la pancetta a tocchetti. Rosoli la pancetta finché è croccante, poi soffriggi le zucchine nella stessa padella. Profumo che già stende.",
+    "Cuoci le linguine al dente. Intanto sciogli il pecorino con un goccio di panna — non esagerare, devi ottenere una fonduta vellutata, non una besciamella.",
+    "Scola la pasta e mantecala nella padella con la fonduta di pecorino. Aggiungi 2-3 cucchiai di acqua di cottura per legare il tutto. Deve diventare cremosa e avvolgente.",
+    "Prima di servire, sbriciola sopra dei taralli — danno il croccante perfetto — e grattugia un po’ di scorza di limone. Agrumi e pecorino si abbracciano. Provala e fammi sapere 👇"
+  ],
+  "link": "https://ricette.giallozafferano.it/Pasta-con-zucchine-pancetta-e-pecorino.html",
+  "pubDate": "Wed, 20 May 2026 12:10:00 +0200",
+  "savedAt": "2026-05-20T14:43:58.392Z",
+  "image": "https://www.giallozafferano.it/images/362-36202/Pasta-con-zucchine-pancetta-e-pecorino_650x433_wm.jpg"
+}

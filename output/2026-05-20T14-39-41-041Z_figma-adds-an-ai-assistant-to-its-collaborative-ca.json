@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "figma-adds-an-ai-assistant-to-its-collaborative-ca",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Figma adds an AI assistant to its collaborative canvas",
+  "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+  "pubDate": "Wed, 20 May 2026 13:00:00 +0000",
+  "slides": [
+    "Figma svela un assistente AI nel canvas—ma cosa fa esattamente?",
+    "Non solo genera design: modifica componenti esistenti in tempo reale.",
+    "Il vero colpo? Capisce il contesto del progetto, non solo comandi generici.",
+    "Team senza developer ora possono iterare prototipi funzionanti in minuti.",
+    "Apri oggi un file Figma e prova a chiedergli: 'aggiungi stato vuoto'."
+  ],
+  "thread_text": [
+    "Figma ha un assistente AI che capisce il contesto del progetto, non solo comandi generici. Questo cambia tutto.",
+    "Mentre altri tool generano mockup da zero, questo modifica componenti esistenti in tempo reale. Riscrive il tuo lavoro, non lo sostituisce.",
+    "Il risultato: team senza developer possono iterare prototipi funzionanti in minuti. Il feedback diventa immediato, non una riunione tra due giorni.",
+    "Non serve sapere codice per aggiungere logica a un bottone. L'assistente interpreta cosa vuoi fare e lo esegue dentro il file.",
+    "Apri oggi un file Figma e prova a chiedergli: 'aggiungi stato vuoto'. Se non funziona, hai il fallback manuale. Se funziona, hai risparmiato 20 minuti."
+  ],
+  "video_script": [
+    "Figma ora capisce il tuo progetto.",
+    "Modifica componenti in tempo reale, non li genera.",
+    "Team senza developer prototipano in minuti.",
+    "Apri un file e chiedigli cose semplici.",
+    "Prova 'aggiungi stato vuoto'—funziona subito."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Figma ha un assistente AI che capisce il contesto del progetto, non solo comandi generici. Questo cambia tutto.",
+        "Mentre altri tool generano mockup da zero, questo modifica componenti esistenti in tempo reale. Riscrive il tuo lavoro, non lo sostituisce.",
+        "Il risultato: team senza developer possono iterare prototipi funzionanti in minuti. Il feedback diventa immediato, non una riunione tra due giorni.",
+        "Non serve sapere codice per aggiungere logica a un bottone. L'assistente interpreta cosa vuoi fare e lo esegue dentro il file.",
+        "Apri oggi un file Figma e prova a chiedergli: 'aggiungi stato vuoto'. Se non funziona, hai il fallback manuale. Se funziona, hai risparmiato 20 minuti."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Figma ora capisce il tuo progetto.",
+        "Modifica componenti in tempo reale, non li genera.",
+        "Team senza developer prototipano in minuti.",
+        "Apri un file e chiedigli cose semplici.",
+        "Prova 'aggiungi stato vuoto'—funziona subito."
+      ]
+    },
+    "instagram": {
+      "caption": "Figma ha ora un assistente AI che non si limita a generare design da zero, ma modifica componenti già esistenti in tempo reale, capendo il contesto del progetto. 🎯 Mentre altri tool creano mockup isolati, questo sistema riscrive il tuo lavoro direttamente nel canvas, senza sostituirlo. Il risultato? Un team senza developer può ora iterare prototipi funzionanti in minuti, trasformando il feedback in azione immediata anziché in una riunione tra due giorni. ⏱️ Apri un file Figma e chiedigli: \"aggiungi stato vuoto\". ✏️ Quanto tempo risparmi oggi?"
+    }
+  },
+  "instagram_caption": "Figma ha ora un assistente AI che non si limita a generare design da zero, ma modifica componenti già esistenti in tempo reale, capendo il contesto del progetto. 🎯 Mentre altri tool creano mockup isolati, questo sistema riscrive il tuo lavoro direttamente nel canvas, senza sostituirlo. Il risultato? Un team senza developer può ora iterare prototipi funzionanti in minuti, trasformando il feedback in azione immediata anziché in una riunione tra due giorni. ⏱️ Apri un file Figma e chiedigli: \"aggiungi stato vuoto\". ✏️ Quanto tempo risparmi oggi?",
+  "carousel_slides": [
+    {
+      "hook": "Capisce il contesto, non comandi",
+      "description": "Figma ha un assistente AI che capisce il contesto del progetto, non solo comandi generici. Questo cambia tutto.",
+      "visual_hint": "Canvas Figma con occhio AI",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Figma interface canvas"
+    },
+    {
+      "hook": "Modifica componenti, non sostituisce",
+      "description": "Mentre altri tool generano mockup da zero, questo modifica componenti esistenti in tempo reale. Riscrive il tuo lavoro.",
+      "visual_hint": "Componenti UI modificati",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "UI components editing",
+      "image": "https://images.pexels.com/photos/12760383/pexels-photo-12760383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Team senza developer iterano in minuti",
+      "description": "Il risultato: team senza developer possono iterare prototipi funzionanti in minuti. Il feedback diventa immediato.",
+      "visual_hint": "Team che collabora su schermo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "office workers meeting",
+      "image": "https://images.pexels.com/photos/7652175/pexels-photo-7652175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Aggiungi logica a un bottone senza codice",
+      "description": "L'assistente interpreta cosa vuoi fare e lo esegue dentro il file. Non serve sapere codice.",
+      "visual_hint": "Mano che clicca bottone UI",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand clicking button",
+      "image": "https://images.pexels.com/photos/21562941/pexels-photo-21562941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova: 'aggiungi stato vuoto'",
+      "description": "Apri oggi un file Figma e prova a chiedergli: 'aggiungi stato vuoto'. Se funziona, hai risparmiato 20 minuti.",
+      "visual_hint": "Prompt AI su canvas Figma",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Figma canvas prompt",
+      "image": "https://images.pexels.com/photos/8490076/pexels-photo-8490076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Agent-On-Canvas-Entrypoint.png?resize=1200,675",
+  "savedAt": "2026-05-20T14:40:10.514Z",
+  "sourceId": "7fa0875ec0c9b04b126b1212bd03570e"
+}

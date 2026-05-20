@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "figma-adds-an-ai-assistant-to-its-collaborative-ca",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Figma adds an AI assistant to its collaborative canvas",
+      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+      "pubDate": "Wed, 20 May 2026 13:00:00 +0000",
+      "slides": [
+        "Figma svela un assistente AI nel canvas—ma cosa fa esattamente?",
+        "Non solo genera design: modifica componenti esistenti in tempo reale.",
+        "Il vero colpo? Capisce il contesto del progetto, non solo comandi generici.",
+        "Team senza developer ora possono iterare prototipi funzionanti in minuti.",
+        "Apri oggi un file Figma e prova a chiedergli: 'aggiungi stato vuoto'."
+      ],
+      "thread_text": [
+        "Figma ha un assistente AI che capisce il contesto del progetto, non solo comandi generici. Questo cambia tutto.",
+        "Mentre altri tool generano mockup da zero, questo modifica componenti esistenti in tempo reale. Riscrive il tuo lavoro, non lo sostituisce.",
+        "Il risultato: team senza developer possono iterare prototipi funzionanti in minuti. Il feedback diventa immediato, non una riunione tra due giorni.",
+        "Non serve sapere codice per aggiungere logica a un bottone. L'assistente interpreta cosa vuoi fare e lo esegue dentro il file.",
+        "Apri oggi un file Figma e prova a chiedergli: 'aggiungi stato vuoto'. Se non funziona, hai il fallback manuale. Se funziona, hai risparmiato 20 minuti."
+      ],
+      "video_script": [
+        "Figma ora capisce il tuo progetto.",
+        "Modifica componenti in tempo reale, non li genera.",
+        "Team senza developer prototipano in minuti.",
+        "Apri un file e chiedigli cose semplici.",
+        "Prova 'aggiungi stato vuoto'—funziona subito."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Figma ha un assistente AI che capisce il contesto del progetto, non solo comandi generici. Questo cambia tutto.",
+            "Mentre altri tool generano mockup da zero, questo modifica componenti esistenti in tempo reale. Riscrive il tuo lavoro, non lo sostituisce.",
+            "Il risultato: team senza developer possono iterare prototipi funzionanti in minuti. Il feedback diventa immediato, non una riunione tra due giorni.",
+            "Non serve sapere codice per aggiungere logica a un bottone. L'assistente interpreta cosa vuoi fare e lo esegue dentro il file.",
+            "Apri oggi un file Figma e prova a chiedergli: 'aggiungi stato vuoto'. Se non funziona, hai il fallback manuale. Se funziona, hai risparmiato 20 minuti."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Figma ora capisce il tuo progetto.",
+            "Modifica componenti in tempo reale, non li genera.",
+            "Team senza developer prototipano in minuti.",
+            "Apri un file e chiedigli cose semplici.",
+            "Prova 'aggiungi stato vuoto'—funziona subito."
+          ]
+        },
+        "instagram": {
+          "caption": "Figma ha ora un assistente AI che non si limita a generare design da zero, ma modifica componenti già esistenti in tempo reale, capendo il contesto del progetto. 🎯 Mentre altri tool creano mockup isolati, questo sistema riscrive il tuo lavoro direttamente nel canvas, senza sostituirlo. Il risultato? Un team senza developer può ora iterare prototipi funzionanti in minuti, trasformando il feedback in azione immediata anziché in una riunione tra due giorni. ⏱️ Apri un file Figma e chiedigli: \"aggiungi stato vuoto\". ✏️ Quanto tempo risparmi oggi?"
+        }
+      },
+      "instagram_caption": "Figma ha ora un assistente AI che non si limita a generare design da zero, ma modifica componenti già esistenti in tempo reale, capendo il contesto del progetto. 🎯 Mentre altri tool creano mockup isolati, questo sistema riscrive il tuo lavoro direttamente nel canvas, senza sostituirlo. Il risultato? Un team senza developer può ora iterare prototipi funzionanti in minuti, trasformando il feedback in azione immediata anziché in una riunione tra due giorni. ⏱️ Apri un file Figma e chiedigli: \"aggiungi stato vuoto\". ✏️ Quanto tempo risparmi oggi?",
+      "carousel_slides": [
+        {
+          "hook": "Capisce il contesto, non comandi",
+          "description": "Figma ha un assistente AI che capisce il contesto del progetto, non solo comandi generici. Questo cambia tutto.",
+          "visual_hint": "Canvas Figma con occhio AI",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Figma interface canvas"
+        },
+        {
+          "hook": "Modifica componenti, non sostituisce",
+          "description": "Mentre altri tool generano mockup da zero, questo modifica componenti esistenti in tempo reale. Riscrive il tuo lavoro.",
+          "visual_hint": "Componenti UI modificati",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "UI components editing",
+          "image": "https://images.pexels.com/photos/12760383/pexels-photo-12760383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Team senza developer iterano in minuti",
+          "description": "Il risultato: team senza developer possono iterare prototipi funzionanti in minuti. Il feedback diventa immediato.",
+          "visual_hint": "Team che collabora su schermo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "office workers meeting",
+          "image": "https://images.pexels.com/photos/7652175/pexels-photo-7652175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Aggiungi logica a un bottone senza codice",
+          "description": "L'assistente interpreta cosa vuoi fare e lo esegue dentro il file. Non serve sapere codice.",
+          "visual_hint": "Mano che clicca bottone UI",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand clicking button",
+          "image": "https://images.pexels.com/photos/21562941/pexels-photo-21562941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova: 'aggiungi stato vuoto'",
+          "description": "Apri oggi un file Figma e prova a chiedergli: 'aggiungi stato vuoto'. Se funziona, hai risparmiato 20 minuti.",
+          "visual_hint": "Prompt AI su canvas Figma",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "Figma canvas prompt",
+          "image": "https://images.pexels.com/photos/8490076/pexels-photo-8490076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Agent-On-Canvas-Entrypoint.png?resize=1200,675",
+      "savedAt": "2026-05-20T14:40:10.514Z",
+      "sourceId": "7fa0875ec0c9b04b126b1212bd03570e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "nanoclaw-creator-turns-down-20m-buyout-offer-raise",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+      "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+      "pubDate": "Wed, 20 May 2026 14:00:00 +0000",
+      "slides": [
+        "NanoClaw rifiuta $20M, ma serve più tempo?",
+        "La startup costruisce robot per micro-interventi chirurgici.",
+        "Raccoglie $12M seed, valutazione segreta.",
+        "Chi investe in round small può entrare ora?",
+        "Controlla i termini: seed a prezzo ribassato."
+      ],
+      "thread_text": [
+        "NanoClaw ha rifiutato 20 milioni. Non perché siano pazzi: la loro valutazione tra seed e round grosso non era ancora matura.",
+        "Costruiscono robot per micro-interventi chirurgici. L'hardware è duro, serve tempo, e i soldi facili possono ucciderti.",
+        "Hanno chiuso 12 milioni in seed. Valutazione segreta: chi è entrato small ha scommesso in anticipo, e adesso può raddoppiare.",
+        "Il round small è aperto. Ma attenzione: il seed era a prezzo ribassato. Se entri ora, controlla i termini prima di firmare.",
+        "Costa meno di un abbonamento Spotify. Se vuoi giocare, il momento è questo: seed fatto, round A non ancora chiuso."
+      ],
+      "video_script": [
+        "NanoClaw ha detto no a 20 milioni.",
+        "Robot per micro-interventi, roba seria.",
+        "Seed da 12, valutazione tenuta segreta.",
+        "Small round aperto, controlla i termini.",
+        "Prezzo ribassato, entri ora o mai."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "NanoClaw ha rifiutato 20 milioni. Non perché siano pazzi: la loro valutazione tra seed e round grosso non era ancora matura.",
+            "Costruiscono robot per micro-interventi chirurgici. L'hardware è duro, serve tempo, e i soldi facili possono ucciderti.",
+            "Hanno chiuso 12 milioni in seed. Valutazione segreta: chi è entrato small ha scommesso in anticipo, e adesso può raddoppiare.",
+            "Il round small è aperto. Ma attenzione: il seed era a prezzo ribassato. Se entri ora, controlla i termini prima di firmare.",
+            "Costa meno di un abbonamento Spotify. Se vuoi giocare, il momento è questo: seed fatto, round A non ancora chiuso."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "NanoClaw ha detto no a 20 milioni.",
+            "Robot per micro-interventi, roba seria.",
+            "Seed da 12, valutazione tenuta segreta.",
+            "Small round aperto, controlla i termini.",
+            "Prezzo ribassato, entri ora o mai."
+          ]
+        },
+        "instagram": {
+          "caption": "NanoClaw ha appena detto no a 20 milioni di dollari. 🚫💰 Perché hanno preferito raccoglierne 12 in seed, con valutazione segreta. Costruiscono robot per micro-interventi chirurgici, un hardwarone che ha bisogno di tempo e non di soldi facili. 🦾 Chi è entrato small nel round ha scommesso in anticipo e ora può raddoppiare. Il seed era a prezzo ribassato: se vuoi investire, apri bene gli occhi sui termini prima di firmare. 📉 Il costo? Meno di un abbonamento Spotify. Seed chiuso, round A ancora aperto. 🎲 Il tuo prossimo passo?"
+        }
+      },
+      "instagram_caption": "NanoClaw ha appena detto no a 20 milioni di dollari. 🚫💰 Perché hanno preferito raccoglierne 12 in seed, con valutazione segreta. Costruiscono robot per micro-interventi chirurgici, un hardwarone che ha bisogno di tempo e non di soldi facili. 🦾 Chi è entrato small nel round ha scommesso in anticipo e ora può raddoppiare. Il seed era a prezzo ribassato: se vuoi investire, apri bene gli occhi sui termini prima di firmare. 📉 Il costo? Meno di un abbonamento Spotify. Seed chiuso, round A ancora aperto. 🎲 Il tuo prossimo passo?",
+      "carousel_slides": [
+        {
+          "hook": "Rifiutò $20M, serve tempo",
+          "description": "Hanno rifiutato 20 milioni perché la valutazione non era ancora matura. L'hardware è duro.",
+          "visual_hint": "Robot chirurgico microscopico",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "surgical robot prototype"
+        },
+        {
+          "hook": "Robot per micro-interventi",
+          "description": "Costruiscono robot per micro-interventi chirurgici. L'hardware è duro, i soldi facili uccidono.",
+          "visual_hint": "Pinza robotica miniaturizzata",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "miniature robotic arm",
+          "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Seed $12M, valore segreto",
+          "description": "Chiuso seed da 12 milioni. Valutazione segreta: chi è entrato small può ora raddoppiare.",
+          "visual_hint": "Grafico valutazione startup",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "startup valuation chart",
+          "image": "https://images.pexels.com/photos/7948042/pexels-photo-7948042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Round small è aperto",
+          "description": "Il round small è aperto ma il seed era a prezzo ribassato. Controlla i termini prima di firmare.",
+          "visual_hint": "Dita che firmano contratto",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand signing contract",
+          "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costa meno di Spotify",
+          "description": "Costa meno di un abbonamento Spotify. Seed fatto, round A non ancora chiuso: il momento è ora.",
+          "visual_hint": "Smartphone con app finanza",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone finance app",
+          "image": "https://images.pexels.com/photos/7691737/pexels-photo-7691737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/NanoClaw-fouders-2.jpg?resize=1200,708",
+      "savedAt": "2026-05-20T14:39:55.709Z",
+      "sourceId": "2cbd3e3624d2d11f7b0a3c7d9e01688e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "alibaba-is-designing-ai-chips-around-agents-and-th",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -22713,6 +22921,90 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "agent": "food",
+      "slug": "pasta-con-zucchine-pancetta-e-pecorino",
+      "sourceId": "b681926837c6584a7e62a8382930f537",
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "zucchine",
+        "pancetta",
+        "pecorino"
+      ],
+      "title": "Pasta con zucchine, pancetta e pecorino",
+      "slides": [
+        "Pasta cremosa con zucchine, pancetta e pecorino",
+        "Linguine, zucchine, pancetta, pecorino, panna",
+        "Taglia zucchine a cubetti e pancetta a tocchetti",
+        "Manteca la pasta con fonduta di pecorino",
+        "Guarnisci con taralli sbriciolati e scorza di limone"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta cremosa che conquista tutti",
+          "description": "Una cremosità irresistibile con zucchine, pancetta croccante e pecorino: il comfort food perfetto per ogni sera.",
+          "visual_hint": "Primo piano pasta fumante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory creamy pasta"
+        },
+        {
+          "hook": "I segreti in dispensa",
+          "description": "Pochi ingredienti: linguine, zucchine fresche, pancetta dolce, pecorino stagionato e un tocco di panna per legare.",
+          "visual_hint": "Ingredienti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory pasta ingredients",
+          "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il taglio che fa la differenza",
+          "description": "Taglia le zucchine a cubetti regolari e la pancetta a tocchetti: così cuociono uniformemente e regalano texture perfette.",
+          "visual_hint": "Mani tagliano verdure",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "chopping zucchini cubes",
+          "image": "https://images.pexels.com/photos/8511807/pexels-photo-8511807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il segreto della cremosità",
+          "description": "Manteca la pasta al dente in padella con una fonduta di pecorino e panna: il formaggio si scioglie avvolgendo ogni filo.",
+          "visual_hint": "Mantecatura in padella",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "tossing pasta cheese",
+          "image": "https://images.pexels.com/photos/6248845/pexels-photo-6248845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tocco finale da chef",
+          "description": "Guarnisci con taralli sbriciolati per croccantezza e scorza di limone grattugiata: freschezza che esalta il sapore.",
+          "visual_hint": "Piatto finito guarnito",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pasta plate",
+          "image": "https://images.pexels.com/photos/31235407/pexels-photo-31235407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "instagram_caption": "Poche cose mettono d’accordo tutti come una pasta cremosa al punto giusto. 🍝 Qui ho saltato zucchine a cubetti con pancetta croccante, poi ho mantecato il tutto con una fonduta di pecorino e un filo di panna. Il risultato? Una cremosità che si scioglie in bocca. Per finire, ho aggiunto taralli sbriciolati per la croccantezza e una grattugiata di scorza di limone che dà freschezza. Provala questo weekend 🌿",
+      "video_script": [
+        "Taglio zucchine a cubetti e pancetta a tocchetti.",
+        "Butto la pasta e intanto salto pancetta e zucchine.",
+        "Aggiungo panna e manteco con pecorino fuso.",
+        "Unisco la pasta e faccio saltare il tutto.",
+        "Sbriciolo taralli e grattugio scorza di limone."
+      ],
+      "thread_text": [
+        "C’è piatto e piatto. Poi c’è questa pasta — cremosa, sapida, con quel crunch finale che non ti aspetti. Zucchine, pancetta e pecorino: tre ingredienti, una bomba.",
+        "Taglia le zucchine a cubetti, la pancetta a tocchetti. Rosoli la pancetta finché è croccante, poi soffriggi le zucchine nella stessa padella. Profumo che già stende.",
+        "Cuoci le linguine al dente. Intanto sciogli il pecorino con un goccio di panna — non esagerare, devi ottenere una fonduta vellutata, non una besciamella.",
+        "Scola la pasta e mantecala nella padella con la fonduta di pecorino. Aggiungi 2-3 cucchiai di acqua di cottura per legare il tutto. Deve diventare cremosa e avvolgente.",
+        "Prima di servire, sbriciola sopra dei taralli — danno il croccante perfetto — e grattugia un po’ di scorza di limone. Agrumi e pecorino si abbracciano. Provala e fammi sapere 👇"
+      ],
+      "link": "https://ricette.giallozafferano.it/Pasta-con-zucchine-pancetta-e-pecorino.html",
+      "pubDate": "Wed, 20 May 2026 12:10:00 +0200",
+      "savedAt": "2026-05-20T14:43:58.392Z",
+      "image": "https://www.giallozafferano.it/images/362-36202/Pasta-con-zucchine-pancetta-e-pecorino_650x433_wm.jpg"
+    },
     {
       "agent": "food",
       "slug": "pasta-con-crema-di-zucchine-e-caprino-al-limone-e-",
