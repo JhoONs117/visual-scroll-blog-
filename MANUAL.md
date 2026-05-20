@@ -1376,22 +1376,27 @@ Il sistema V2 genera video verticali 9:16 (1080×1920) usando le slide del carou
 
 ### Flusso giornaliero
 
-**Nel browser (`carousel.html?agent=ai-news`):**
+**Nel browser (`carousel.html?agent=ai-news` su Railway):**
 1. Trova l'articolo
-2. Clicca **Approva** (se non già fatto)
-3. Seleziona **▶ Low** dal dropdown qualità video
-4. Aspetta che il CI generi il piano (o esegui manualmente il punto seguente)
-5. Clicca **💾 Salva per video** — aspetta "✅ 5 slide salvate"
+2. Clicca **Approva** — viene pushato su git automaticamente
+3. Seleziona **▶ Low** dal dropdown qualità video — viene pushato su git automaticamente
+4. Clicca **💾 Salva per video** — aspetta "✅ 5 slide salvate"
+   - Il browser scarica `slide0.png`…`slide4.png` automaticamente (atterrano in `/home/miki/visual-scroll-blog/`)
+5. Aspetta che il CI (ogni 2h) generi il piano video — oppure triggeralo manualmente da GitHub Actions → Run workflow
 
-**Nel terminale (una volta al giorno, per tutti gli articoli pronti):**
+**Nel terminale (UN SOLO COMANDO):**
 ```bash
 node video/render-pending.js
 ```
 
-Il comando trova automaticamente tutti gli articoli con: approved + quality impostata + scenes generate + PNG salvate + non ancora renderizzati, e li renderizza in sequenza.
+Il comando fa tutto in automatico:
+- Importa le PNG da `/home/miki/visual-scroll-blog/slide*.png` nella cartella corretta
+- Renderizza tutti gli articoli pronti (approved + quality + scenes + PNG)
+- Esegue `build-data-agents.js`
+- Committa e pusha su git
+- Railway rideploya in ~1 min → player video appare su `carousel.html`
 
-**Nel browser:**
-6. Ricarica `carousel.html` → appare il player video sotto le slide
+**Non serve nient'altro.**
 
 ### Generare il piano video manualmente (senza aspettare il CI)
 
@@ -1438,18 +1443,15 @@ Il file JSON in `output/` ha sempre il formato `{timestamp}_{slug}.json`. Lo slu
 
 ### Pubblicare i video su Railway
 
-Dopo aver renderizzato, esegui questi comandi per rendere i video visibili su Railway:
+`render-pending.js` fa tutto automaticamente (build + commit + push). Non serve eseguire comandi aggiuntivi.
 
-```bash
-node scripts/build-data-agents.js
-git add output/ frontend/data-agents.js
-git commit -m "feat: video renderizzati + aggiorna data-agents"
-git push
-```
-
-Railway si rideploya automaticamente in ~1 minuto e i video appaiono nel player di `carousel.html`.
-
-> **Importante:** esegui sempre `build-data-agents.js` prima del commit — senza di esso `data-agents.js` non ha i campi `render_quality`/`render_path` aggiornati e il player non appare su Railway.
+> **Se necessario pushare manualmente** (es. dopo un reset di render_status):
+> ```bash
+> node scripts/build-data-agents.js
+> git add output/ frontend/data-agents.js
+> git commit -m "feat: video renderizzati"
+> git pull --rebase --autostash && git push
+> ```
 
 ### Video in locale vs Railway
 
@@ -1461,8 +1463,12 @@ Railway si rideploya automaticamente in ~1 minuto e i video appaiono nel player 
 
 ### Note importanti
 
-- Il server locale deve essere avviato (`node server.js`) prima di cliccare "💾 Salva per video"
-- Le PNG vengono salvate in `output/{agentId}/slides-png/{slug}/slide{0-4}.png`
+- **Non serve il server locale** — "Salva per video" funziona da Railway e scarica le PNG nel browser
+- Le PNG scaricate atterrano in `/home/miki/visual-scroll-blog/` (browser configurato sulla root del progetto WSL2)
+- `render-pending.js` le importa automaticamente dalla root in `output/{agentId}/slides-png/{slug}/`
 - I video renderizzati finiscono in `output/renders/{slug}.mp4`
-- `render_status.low = "done"` nel JSON indica che il video è già stato renderizzato (viene saltato da `render-pending.js`)
-- `OPENAI_API_KEY` è configurato nei GitHub Actions secrets — il CI può generare piani video automaticamente
+- `render_status.low = "done"` nel JSON indica video già renderizzato (saltato da `render-pending.js`)
+- Per re-renderizzare: `render_status.low = null` nel JSON, poi rilancia `render-pending.js`
+- `OPENAI_API_KEY` configurato nei GitHub Actions secrets
+- **Audio:** OpenAI TTS genera audio a 24kHz → ricampionato a 44100Hz in concat per compatibilità browser
+- **CI push:** usa `git pull --rebase --autostash` per evitare rejected quando Railway ha pushato in parallelo
