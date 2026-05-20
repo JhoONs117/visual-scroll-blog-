@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "google-updates-its-gemini-app-to-take-on-chatgpt-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
+      "pubDate": "Tue, 19 May 2026 17:45:00 +0000",
+      "slides": [
+        "Google ha appena sbloccato un nuovo assistente IA.",
+        "Invece di rispondere, ora esegue azioni su app.",
+        "Ma c'è un limite nascosto nelle autorizzazioni.",
+        "Provare ora significa decidere quanto controllo cedere.",
+        "Domani prova un comando vero; il risultato sorprenderà."
+      ],
+      "thread_text": [
+        "Cedere il controllo delle tue app a un assistente IA è una scelta. Ma c'è un limite nascosto nelle autorizzazioni che Google non dice a voce alta.",
+        "Fino a ieri l'assistente Google rispondeva a domande. Oggi esegue azioni dentro le app. Differenza sostanziale.",
+        "Non è solo un'evoluzione tecnica. È un cambio di relazione: da informazioni che ricevi a azioni che lui compie per te. Con ciò che hai autorizzato.",
+        "Puoi provarlo ora. Ma prima devi decidere quanto controllo vuoi cedere. Non c'è opzione neutra.",
+        "Domani dagli un comando vero: prenota un tavolo, ordina una cena, gestisci una riunione. Il risultato ti farà capire se fidarti."
+      ],
+      "video_script": [
+        "Google ha sbloccato un assistente IA nuovo.",
+        "Non risponde più, ma esegue azioni.",
+        "C'è un limite nelle autorizzazioni.",
+        "Provarlo significa decidere quanto controllo cedere.",
+        "Domani prova un comando vero."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Cedere il controllo delle tue app a un assistente IA è una scelta. Ma c'è un limite nascosto nelle autorizzazioni che Google non dice a voce alta.",
+            "Fino a ieri l'assistente Google rispondeva a domande. Oggi esegue azioni dentro le app. Differenza sostanziale.",
+            "Non è solo un'evoluzione tecnica. È un cambio di relazione: da informazioni che ricevi a azioni che lui compie per te. Con ciò che hai autorizzato.",
+            "Puoi provarlo ora. Ma prima devi decidere quanto controllo vuoi cedere. Non c'è opzione neutra.",
+            "Domani dagli un comando vero: prenota un tavolo, ordina una cena, gestisci una riunione. Il risultato ti farà capire se fidarti."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google ha sbloccato un assistente IA nuovo.",
+            "Non risponde più, ma esegue azioni.",
+            "C'è un limite nelle autorizzazioni.",
+            "Provarlo significa decidere quanto controllo cedere.",
+            "Domani prova un comando vero."
+          ]
+        },
+        "instagram": {
+          "caption": "Fino a ieri il tuo assistente Google ti dava risposte, da oggi invece può prenotare un ristorante o ordinare una cena direttamente dentro le app che usi già. 🤖 Non è un semplice aggiornamento: è un cambio di relazione, perché ora è lui a compiere azioni al posto tuo, con le autorizzazioni che gli dai. 🔑 Il limite è che devi decidere subito quanto controllo cedere — non esiste opzione neutra. ⚖️ Per chi lavora, significa delegare compiti pratici risparmiando tempo, ma anche fidarsi di un sistema che agisce in automatico. Domani dagli un comando vero: il risultato ti farà capire se è un alleato o un rischio."
+        }
+      },
+      "instagram_caption": "Fino a ieri il tuo assistente Google ti dava risposte, da oggi invece può prenotare un ristorante o ordinare una cena direttamente dentro le app che usi già. 🤖 Non è un semplice aggiornamento: è un cambio di relazione, perché ora è lui a compiere azioni al posto tuo, con le autorizzazioni che gli dai. 🔑 Il limite è che devi decidere subito quanto controllo cedere — non esiste opzione neutra. ⚖️ Per chi lavora, significa delegare compiti pratici risparmiando tempo, ma anche fidarsi di un sistema che agisce in automatico. Domani dagli un comando vero: il risultato ti farà capire se è un alleato o un rischio.",
+      "carousel_slides": [
+        {
+          "hook": "Il limite che Google non dice",
+          "description": "Cedere il controllo delle tue app a un assistente IA è una scelta. Ma c'è un limite nascosto nelle autorizzazioni.",
+          "visual_hint": "lucchetto digitale su schermo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "digital lock screen"
+        },
+        {
+          "hook": "Da risposte ad azioni",
+          "description": "Fino a ieri l'assistente rispondeva. Oggi esegue azioni dentro le app. Differenza sostanziale.",
+          "visual_hint": "freccia che entra in app",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "arrow entering app",
+          "image": "https://images.pexels.com/photos/34610755/pexels-photo-34610755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Relazione inedita con l'IA",
+          "description": "Non è solo evoluzione tecnica: da informazioni che ricevi ad azioni che lui compie per te. Con ciò che hai autorizzato.",
+          "visual_hint": "ingranaggi connessi a mano",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "gears connected hand",
+          "image": "https://images.pexels.com/photos/10263878/pexels-photo-10263878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Quanto controllo cedi?",
+          "description": "Puoi provarlo ora, ma prima devi decidere quanto controllo vuoi cedere. Non c'è opzione neutra.",
+          "visual_hint": "mano su levetta decisione",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand on switch",
+          "image": "https://images.pexels.com/photos/4487675/pexels-photo-4487675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Domani dai un comando vero",
+          "description": "Prenota un tavolo, ordina una cena, gestisci una riunione. Il risultato ti farà capire se fidarti.",
+          "visual_hint": "smartphone con conferma azione",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone confirmation action",
+          "image": "https://images.pexels.com/photos/9461752/pexels-photo-9461752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+      "savedAt": "2026-05-20T02:32:42.052Z",
+      "sourceId": "f8e07eea8773280a620912460f7cc3f1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "elon-musk-said-sam-altman-stole-a-non-profit-but-t",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+      "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+      "pubDate": "Tue, 19 May 2026 20:11:00 +0000",
+      "slides": [
+        "Musk called Altman a thief of OpenAI's mission.",
+        "The trial revealed Musk also wanted for-profit control.",
+        "Neither side was purely altruistic in early talks.",
+        "Non-profit ideals faded as billions in funding loomed.",
+        "Trust no origin story—check the power moves yourself."
+      ],
+      "thread_text": [
+        "Elon Musk ha appena chiamato Sam Altman ladro della missione di OpenAI. Non è gossip. È un atto legale con prove in tribunale.",
+        "Nel 2015 i due volevano salvare l'AI dal controllo delle big tech. Ora si accusano a vicenda di aver tradito proprio quell'idea.",
+        "Il processo ha svelato che Musk stesso voleva trasformare OpenAI in for-profit. Altman lo sapeva e ha giocato la sua partita.",
+        "Con miliardi sul tavolo, il non-profit è morto. Il problema non è se fosse giusto, ma chi ha guadagnato più potere nella transizione.",
+        "Se usi ChatGPT o un modello open, oggi controlla chi finanzia e decide le regole. Non fidarti della storia ufficiale."
+      ],
+      "video_script": [
+        "Elon ha chiamato Sam ladro.",
+        "Entrambi volevano il controllo.",
+        "Soldi hanno sepolto gli ideali.",
+        "Non fidarti delle favole.",
+        "Controlla chi ha il potere."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Elon Musk ha appena chiamato Sam Altman ladro della missione di OpenAI. Non è gossip. È un atto legale con prove in tribunale.",
+            "Nel 2015 i due volevano salvare l'AI dal controllo delle big tech. Ora si accusano a vicenda di aver tradito proprio quell'idea.",
+            "Il processo ha svelato che Musk stesso voleva trasformare OpenAI in for-profit. Altman lo sapeva e ha giocato la sua partita.",
+            "Con miliardi sul tavolo, il non-profit è morto. Il problema non è se fosse giusto, ma chi ha guadagnato più potere nella transizione.",
+            "Se usi ChatGPT o un modello open, oggi controlla chi finanzia e decide le regole. Non fidarti della storia ufficiale."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Elon ha chiamato Sam ladro.",
+            "Entrambi volevano il controllo.",
+            "Soldi hanno sepolto gli ideali.",
+            "Non fidarti delle favole.",
+            "Controlla chi ha il potere."
+          ]
+        },
+        "instagram": {
+          "caption": "Elon Musk ha definito Sam Altman un “ladro” della missione di OpenAI, ma in tribunale è emerso che Musk stesso voleva trasformare la società in for-profit. Nel 2015 i due fondatori promettevano di salvare l'IA dalle grandi corporation, ma dietro le quinte entrambi spingevano per il controllo del progetto. Con miliardi in arrivo, l'ideale non-profit è stato accantonato subito. Quando usi strumenti come ChatGPT, il vero potere non sta nel codice, ma in chi decide le regole di accesso. Un’origine nobile è spesso una storia riscritta. 💼⚖️💰"
+        }
+      },
+      "instagram_caption": "Elon Musk ha definito Sam Altman un “ladro” della missione di OpenAI, ma in tribunale è emerso che Musk stesso voleva trasformare la società in for-profit. Nel 2015 i due fondatori promettevano di salvare l'IA dalle grandi corporation, ma dietro le quinte entrambi spingevano per il controllo del progetto. Con miliardi in arrivo, l'ideale non-profit è stato accantonato subito. Quando usi strumenti come ChatGPT, il vero potere non sta nel codice, ma in chi decide le regole di accesso. Un’origine nobile è spesso una storia riscritta. 💼⚖️💰",
+      "carousel_slides": [
+        {
+          "hook": "Il ladro della missione?",
+          "description": "Musk definisce Altman ladro della missione OpenAI. È guerra legale con prove in tribunale.",
+          "visual_hint": "due uomini in tribunale",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "courtroom judge bench"
+        },
+        {
+          "hook": "Traditori a vicenda",
+          "description": "Nel 2015 volevano salvare l'AI dalle big tech. Ora si accusano di aver tradito quell'idea.",
+          "visual_hint": "vecchie foto affiancate",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "old photograph two people",
+          "image": "https://images.pexels.com/photos/33952465/pexels-photo-33952465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Anche Musk voleva il for-profit",
+          "description": "Il processo rivela: Musk stesso voleva trasformare OpenAI in for-profit. Altman ha giocato la sua partita.",
+          "visual_hint": "documento legale ingrandito",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "legal document text",
+          "image": "https://images.pexels.com/photos/7841413/pexels-photo-7841413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Miliardi uccidono il non-profit",
+          "description": "Con miliardi sul tavolo, il non-profit è morto. Chi ha guadagnato più potere nella transizione?",
+          "visual_hint": "mano che conta banconote",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand counting dollar bills",
+          "image": "https://images.pexels.com/photos/5909821/pexels-photo-5909821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Chi finanzia l'intelligenza artificiale?",
+          "description": "Usi ChatGPT? Controlla chi decide le regole. Non fidarti della storia ufficiale.",
+          "visual_hint": "schermo con logo OpenAI",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone screen ChatGPT",
+          "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
+      "savedAt": "2026-05-20T02:32:26.165Z",
+      "sourceId": "53d03497bf4f8958b81110967a4b7955"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "how-to-use-google-s-new-ai-agents-to-go-beyond-you",
       "prompt_version": "1.0.0",
       "status": "published",
