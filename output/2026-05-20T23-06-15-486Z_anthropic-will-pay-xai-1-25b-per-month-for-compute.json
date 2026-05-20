@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-will-pay-xai-1-25b-per-month-for-compute",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic will pay xAI $1.25B per month for compute",
+  "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+  "pubDate": "Wed, 20 May 2026 21:29:22 +0000",
+  "slides": [
+    "Anthropic spenderà $1.25B al mese per compute xAI.",
+    "È il più grande contratto cloud nella storia dell'IA.",
+    "xAI possiede GPU che Anthropic non può avere.",
+    "Chi costruisce modelli ora deve scegliere un fornitore.",
+    "Quale azienda firmerà il prossimo accordo da $15B?"
+  ],
+  "thread_text": [
+    "xAI ha GPU che Anthropic non può avere. Non è una scelta tecnica. È una barriera fisica.",
+    "Anthropic spenderà 1.25 miliardi di dollari al mese per usare i server di xAI. Non per comprarli.",
+    "È il più grande contratto cloud nella storia dell'IA. E non è Google o AWS a incassarlo.",
+    "Oggi chi costruisce modelli deve scegliere un fornitore. O lo possiedi, o paghi affitto. Non c'è terza via.",
+    "Quale azienda firmerà il prossimo accordo da 15 miliardi? Se hai un modello, la scadenza è sui server."
+  ],
+  "video_script": [
+    "xAI ha GPU che Anthropic non può comprare.",
+    "Non è una scelta tecnica, è fisica.",
+    "Anthropic pagherà 1.25 miliardi al mese per usarle.",
+    "È il contratto cloud più grande mai visto.",
+    "Chi fa modelli deve scegliere da chi affittare."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "xAI ha GPU che Anthropic non può avere. Non è una scelta tecnica. È una barriera fisica.",
+        "Anthropic spenderà 1.25 miliardi di dollari al mese per usare i server di xAI. Non per comprarli.",
+        "È il più grande contratto cloud nella storia dell'IA. E non è Google o AWS a incassarlo.",
+        "Oggi chi costruisce modelli deve scegliere un fornitore. O lo possiedi, o paghi affitto. Non c'è terza via.",
+        "Quale azienda firmerà il prossimo accordo da 15 miliardi? Se hai un modello, la scadenza è sui server."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "xAI ha GPU che Anthropic non può comprare.",
+        "Non è una scelta tecnica, è fisica.",
+        "Anthropic pagherà 1.25 miliardi al mese per usarle.",
+        "È il contratto cloud più grande mai visto.",
+        "Chi fa modelli deve scegliere da chi affittare."
+      ]
+    },
+    "instagram": {
+      "caption": "Anthropic pagherà 1,25 miliardi di dollari al mese per usare i server di xAI. 🖥️ Non per comprarli: è un affitto, il contratto cloud più grande mai firmato nel settore. Il motivo è fisico: xAI possiede GPU che Anthropic non può avere, punto. 💸 Oggi chi costruisce modelli deve scegliere: o possiedi l'hardware, o paghi un canone. Per chi usa strumenti AI, questo significa che i costi lieviteranno e i servizi potrebbero diventare meno indipendenti. ⚡ Quale azienda firmerà il prossimo accordo da 15 miliardi?"
+    }
+  },
+  "instagram_caption": "Anthropic pagherà 1,25 miliardi di dollari al mese per usare i server di xAI. 🖥️ Non per comprarli: è un affitto, il contratto cloud più grande mai firmato nel settore. Il motivo è fisico: xAI possiede GPU che Anthropic non può avere, punto. 💸 Oggi chi costruisce modelli deve scegliere: o possiedi l'hardware, o paghi un canone. Per chi usa strumenti AI, questo significa che i costi lieviteranno e i servizi potrebbero diventare meno indipendenti. ⚡ Quale azienda firmerà il prossimo accordo da 15 miliardi?",
+  "carousel_slides": [
+    {
+      "hook": "GPU che nessuno può avere",
+      "description": "xAI ha GPU che Anthropic non può ottenere. Non è scelta tecnica, ma barriera fisica.",
+      "visual_hint": "Fila di server luminosi",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room lights"
+    },
+    {
+      "hook": "Affitto da 1.25 miliardi",
+      "description": "Anthropic spenderà 1.25 miliardi al mese per usare i server xAI, non per comprarli.",
+      "visual_hint": "Fasci di luce digitale",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il cloud più costoso mai visto",
+      "description": "È il più grande contratto cloud nella storia dell'IA, e non va a Google o AWS.",
+      "visual_hint": "Grafico a barre che sale",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Possiedi o paghi affitto",
+      "description": "Oggi chi costruisce modelli deve scegliere un fornitore. Non esiste terza via.",
+      "visual_hint": "Mano che firma contratto",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand signing document",
+      "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chi firmerà il prossimo?",
+      "description": "Quale azienda firmerà il prossimo accordo da 15 miliardi? La scadenza è sui server.",
+      "visual_hint": "Orologio su chip",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clock microchip",
+      "image": "https://images.pexels.com/photos/7286030/pexels-photo-7286030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800",
+  "savedAt": "2026-05-20T23:06:47.781Z",
+  "sourceId": "8ad8deb316081a848527e6a09ec0d5e2"
+}

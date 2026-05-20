@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "xai-burned-6-4b-last-year-spacex-s-ipo-filing-show",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "xAI burned $6.4B last year. SpaceX’s IPO filing shows why the spending is far from over",
+  "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+  "pubDate": "Wed, 20 May 2026 22:26:08 +0000",
+  "slides": [
+    "xAI perse $6.4 miliardi. Perché Musk non spegne i server?",
+    "SpaceX ha svelato i costi nascosti nei documenti IPO.",
+    "Il calcolo serve AI da 10 miliardi di parametri in orbita.",
+    "Chi usa Starlink paga già la bolletta della concorrenza.",
+    "Controlla oggi se il tuo provider finanzia xAI."
+  ],
+  "thread_text": [
+    "SpaceX ha nascosto costi miliardari nei documenti IPO. Ecco cosa non ti dicono.",
+    "Il problema? I server di xAI bruciano 6,4 miliardi l'anno. E Musk non li spegne.",
+    "Perché tiene accese macchine che perdono soldi? Perché alimentano un'AI da 10 miliardi di parametri in orbita.",
+    "E indovina chi paga? Tu. Starlink ti fa pagare anche la bolletta della concorrenza.",
+    "Controlla oggi se il tuo provider finanzia xAI. Se sì, cambia piano."
+  ],
+  "video_script": [
+    "SpaceX ha nascosto dei costi nei documenti IPO.",
+    "Intanto xAI perde 6,4 miliardi di dollari.",
+    "Perché Musk non spegne i server?",
+    "Perché l'AI da 10 miliardi di parametri è in orbita.",
+    "E tu paghi tutto con Starlink."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "SpaceX ha nascosto costi miliardari nei documenti IPO. Ecco cosa non ti dicono.",
+        "Il problema? I server di xAI bruciano 6,4 miliardi l'anno. E Musk non li spegne.",
+        "Perché tiene accese macchine che perdono soldi? Perché alimentano un'AI da 10 miliardi di parametri in orbita.",
+        "E indovina chi paga? Tu. Starlink ti fa pagare anche la bolletta della concorrenza.",
+        "Controlla oggi se il tuo provider finanzia xAI. Se sì, cambia piano."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "SpaceX ha nascosto dei costi nei documenti IPO.",
+        "Intanto xAI perde 6,4 miliardi di dollari.",
+        "Perché Musk non spegne i server?",
+        "Perché l'AI da 10 miliardi di parametri è in orbita.",
+        "E tu paghi tutto con Starlink."
+      ]
+    },
+    "instagram": {
+      "caption": "xAI ha perso 6,4 miliardi di dollari l'anno scorso, ma Musk non spegne i server 💸 Perché? SpaceX, nei documenti per l'IPO, ha rivelato che quei costi nascosti alimentano un'AI da 10 miliardi di parametri in orbita. In pratica, chi usa Starlink paga già la bolletta della concorrenza 🛰️ Per te significa che il tuo provider internet potrebbe finanziare xAI senza che tu lo sappia. Controlla oggi: il tuo abbonamento tiene accese macchine che perdono soldi?"
+    }
+  },
+  "instagram_caption": "xAI ha perso 6,4 miliardi di dollari l'anno scorso, ma Musk non spegne i server 💸 Perché? SpaceX, nei documenti per l'IPO, ha rivelato che quei costi nascosti alimentano un'AI da 10 miliardi di parametri in orbita. In pratica, chi usa Starlink paga già la bolletta della concorrenza 🛰️ Per te significa che il tuo provider internet potrebbe finanziare xAI senza che tu lo sappia. Controlla oggi: il tuo abbonamento tiene accese macchine che perdono soldi?",
+  "carousel_slides": [
+    {
+      "hook": "Bruciano 6,4 miliardi l'anno",
+      "description": "I server di xAI perdono 6,4 miliardi l'anno. Eppure Musk non li spegne mai.",
+      "visual_hint": "Server accesi in fiamme",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "server room fire"
+    },
+    {
+      "hook": "Spese miliardarie nascoste",
+      "description": "SpaceX ha nascosto costi miliardari nei documenti IPO. Ecco cosa non dicono.",
+      "visual_hint": "Documenti finanziari aperti",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "financial documents stack",
+      "image": "https://images.pexels.com/photos/8296948/pexels-photo-8296948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI da 10 miliardi in orbita",
+      "description": "I server alimentano un'intelligenza artificiale da 10 miliardi di parametri nello spazio.",
+      "visual_hint": "Satelliti in orbita terrestre",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "starlink satellites orbit",
+      "image": "https://images.pexels.com/photos/30896714/pexels-photo-30896714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tu paghi la bolletta",
+      "description": "Starlink ti fa pagare anche la bolletta della concorrenza senza che tu lo sappia.",
+      "visual_hint": "Bolletta con addebiti nascosti",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "bill payment hand",
+      "image": "https://images.pexels.com/photos/6862446/pexels-photo-6862446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il tuo provider finanzia xAI?",
+      "description": "Controlla oggi se il tuo provider finanzia xAI. Se sì, cambia piano subito.",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "phone contract comparison",
+      "visual_hint": "Telefono con contratto aperto",
+      "image": "https://images.pexels.com/photos/5398928/pexels-photo-5398928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
+  "savedAt": "2026-05-20T23:06:37.795Z",
+  "sourceId": "1dd7071627fcd1796487517dea8a3c3a"
+}

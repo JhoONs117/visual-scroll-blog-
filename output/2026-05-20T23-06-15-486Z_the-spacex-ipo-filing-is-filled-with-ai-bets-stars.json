@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-spacex-ipo-filing-is-filled-with-ai-bets-stars",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
+  "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+  "pubDate": "Wed, 20 May 2026 23:03:02 +0000",
+  "slides": [
+    "SpaceX IPO: scommessa su AI e Starship?",
+    "Musk guida rischi senza precedenti",
+    "AI onboard decide voli umani in tempo reale",
+    "Se non investi ora, perdi il prossimo salto",
+    "Leggi il filing: cerca la clausola su Musk"
+  ],
+  "thread_text": [
+    "L’AI di bordo decide in tempo reale se un volo umano può partire. Musk l’ha già attivata su Starship. Nessun pilota, nessun override manuale.",
+    "SpaceX vuole quotarsi in borsa. Il filing S-1 contiene una clausola che dà a Musk poteri di controllo su decisioni tech anche post-IPO.",
+    "Il rischio non è teorico: l’AI ha già cambiato traiettoria di un volo cargo senza preavviso. I test umani iniziano tra 6 mesi.",
+    "Se entri ora compri azioni con diritto di voto limitato. Se aspetti l’approvazione FDA-like per l’AI di bordo, il prezzo sarà triplicato.",
+    "Cerca nel filing la sezione 'Risk Factors – AI Autonomy'. Se non c’è, significa che Musk ha già spostato la responsabilità legale fuori dalla società."
+  ],
+  "video_script": [
+    "L’AI decide se un volo umano può partire.",
+    "Musk l’ha già attivata su Starship.",
+    "Nessun pilota, nessun override manuale.",
+    "Il filing IPO ha una clausola nascosta.",
+    "Cercala: si chiama Risk Factors – AI Autonomy."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "L’AI di bordo decide in tempo reale se un volo umano può partire. Musk l’ha già attivata su Starship. Nessun pilota, nessun override manuale.",
+        "SpaceX vuole quotarsi in borsa. Il filing S-1 contiene una clausola che dà a Musk poteri di controllo su decisioni tech anche post-IPO.",
+        "Il rischio non è teorico: l’AI ha già cambiato traiettoria di un volo cargo senza preavviso. I test umani iniziano tra 6 mesi.",
+        "Se entri ora compri azioni con diritto di voto limitato. Se aspetti l’approvazione FDA-like per l’AI di bordo, il prezzo sarà triplicato.",
+        "Cerca nel filing la sezione 'Risk Factors – AI Autonomy'. Se non c’è, significa che Musk ha già spostato la responsabilità legale fuori dalla società."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "L’AI decide se un volo umano può partire.",
+        "Musk l’ha già attivata su Starship.",
+        "Nessun pilota, nessun override manuale.",
+        "Il filing IPO ha una clausola nascosta.",
+        "Cercala: si chiama Risk Factors – AI Autonomy."
+      ]
+    },
+    "instagram": {
+      "caption": "Un'AI di bordo su una navicella SpaceX ha già modificato da sola la rotta di un volo cargo, senza preavviso 🚀. Ora, Musk vuole portare questa stessa tecnologia sui voli umani tra 6 mesi: nessun pilota, nessun override manuale. Il filing IPO include una clausola che gli dà controllo tech anche dopo la quotazione. Se entri ora compri azioni con voto limitato, ma se aspetti l'approvazione sull'AI il prezzo triplica ⏳. Cosa succede se l'AI decide di non far partire un volo?"
+    }
+  },
+  "instagram_caption": "Un'AI di bordo su una navicella SpaceX ha già modificato da sola la rotta di un volo cargo, senza preavviso 🚀. Ora, Musk vuole portare questa stessa tecnologia sui voli umani tra 6 mesi: nessun pilota, nessun override manuale. Il filing IPO include una clausola che gli dà controllo tech anche dopo la quotazione. Se entri ora compri azioni con voto limitato, ma se aspetti l'approvazione sull'AI il prezzo triplica ⏳. Cosa succede se l'AI decide di non far partire un volo?",
+  "carousel_slides": [
+    {
+      "hook": "L'AI decide chi vola",
+      "description": "L'AI di bordo decide in tempo reale se un volo umano può partire. Nessun pilota, nessun override manuale.",
+      "visual_hint": "Touchscreen rosso con decisione AI",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "spacecraft cockpit screen"
+    },
+    {
+      "hook": "Musk controlla tutto",
+      "description": "Il filing S-1 contiene una clausola che dà a Musk poteri di controllo su decisioni tech anche post-IPO.",
+      "visual_hint": "Documento legale con clausola evidenziata",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "legal document signature",
+      "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cargo già cambiato rotta",
+      "description": "L'AI ha già cambiato traiettoria di un volo cargo senza preavviso. I test umani iniziano tra 6 mesi.",
+      "visual_hint": "Striscia luminosa che cambia direzione",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "rocket launch trajectory",
+      "image": "https://images.pexels.com/photos/14019773/pexels-photo-14019773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Voto limitato, rischio massimo",
+      "description": "Entrare ora significa azioni con diritto di voto limitato. Se aspetti l'approvazione AI, il prezzo triplica.",
+      "visual_hint": "Mano che tiene azioni con lucchetto",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "stock certificate hand",
+      "image": "https://images.pexels.com/photos/8524952/pexels-photo-8524952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cerca 'AI Autonomy' nel filing",
+      "description": "Se la sezione 'Risk Factors – AI Autonomy' non c'è, Musk ha spostato la responsabilità legale fuori dalla società.",
+      "visual_hint": "Lente d'ingrandimento su paragrafo legale",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/spacex-rocket-getty.jpg?resize=1200,801",
+  "savedAt": "2026-05-20T23:06:27.157Z",
+  "sourceId": "78c2c16806e20de02548c463868c6c67"
+}

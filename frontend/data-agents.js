@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-barrels-toward-ipo-that-may-happen-in-septe",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI barrels toward IPO that may happen in September",
+      "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "pubDate": "Wed, 20 May 2026 17:24:24 +0000",
+      "slides": [
+        "OpenAI punta a settembre per l'IPO.",
+        "Ma la SEC indaga sulle comunicazioni interne.",
+        "Il modello di business resta segreto agli investitori.",
+        "Chi compra prima rischia senza vedere i conti.",
+        "La valutazione si decide sui fatti, non sulle promesse."
+      ],
+      "thread_text": [
+        "Stanno per quotarsi in Borsa, ma nessuno sa come guadagnano davvero. OpenAI punta a settembre per l'IPO, ma il modello di business è ancora un segreto.",
+        "La SEC ha aperto un'indagine sulle comunicazioni interne. Il problema non è solo il silenzio, ma cosa non stanno dicendo agli investitori.",
+        "Chi compra le azioni prima del debutto non vede nemmeno i conti. Si investe sulla fiducia, non sui numeri.",
+        "La valutazione finale si deciderà sui fatti, non sulle promesse. Se il modello non regge, il prezzo crolla subito.",
+        "Se stai pensando di entrare, aspetta i dati trimestrali post-IPO. Non comprare un'azienda che non mostra il suo motore."
+      ],
+      "video_script": [
+        "OpenAI vuole fare l'IPO a settembre.",
+        "C'è un'indagine della SEC in corso.",
+        "Il modello di business è ancora segreto.",
+        "Compri azioni senza vedere i conti.",
+        "Il valore lo decideranno i fatti, non le promesse."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Stanno per quotarsi in Borsa, ma nessuno sa come guadagnano davvero. OpenAI punta a settembre per l'IPO, ma il modello di business è ancora un segreto.",
+            "La SEC ha aperto un'indagine sulle comunicazioni interne. Il problema non è solo il silenzio, ma cosa non stanno dicendo agli investitori.",
+            "Chi compra le azioni prima del debutto non vede nemmeno i conti. Si investe sulla fiducia, non sui numeri.",
+            "La valutazione finale si deciderà sui fatti, non sulle promesse. Se il modello non regge, il prezzo crolla subito.",
+            "Se stai pensando di entrare, aspetta i dati trimestrali post-IPO. Non comprare un'azienda che non mostra il suo motore."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI vuole fare l'IPO a settembre.",
+            "C'è un'indagine della SEC in corso.",
+            "Il modello di business è ancora segreto.",
+            "Compri azioni senza vedere i conti.",
+            "Il valore lo decideranno i fatti, non le promesse."
+          ]
+        },
+        "instagram": {
+          "caption": "OpenAI ha fissato settembre per la quotazione in Borsa, ma la SEC indaga su cosa non stanno dicendo agli investitori 📊. Il modello di business resta segreto: chi compra le azioni ora non vede i conti, solo promesse. Se i numeri post-IPO non reggono, il prezzo crolla subito 💥. Per chi lavora o investe in AI, comprare oggi significa scommettere alla cieca su un motore che non hai mai visto funzionare. I primi dati veri arriveranno coi trimestrali dopo il debutto — aspetterai o entri lo stesso? 🔍"
+        }
+      },
+      "instagram_caption": "OpenAI ha fissato settembre per la quotazione in Borsa, ma la SEC indaga su cosa non stanno dicendo agli investitori 📊. Il modello di business resta segreto: chi compra le azioni ora non vede i conti, solo promesse. Se i numeri post-IPO non reggono, il prezzo crolla subito 💥. Per chi lavora o investe in AI, comprare oggi significa scommettere alla cieca su un motore che non hai mai visto funzionare. I primi dati veri arriveranno coi trimestrali dopo il debutto — aspetterai o entri lo stesso? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "IPO senza vedere i conti",
+          "description": "OpenIP punta a settembre per l'IPO, ma il modello di business è ancora un segreto.",
+          "visual_hint": "porta chiusa con cartello segreto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "closed door sign secret"
+        },
+        {
+          "hook": "SEC indaga sui silenzi",
+          "description": "La SEC ha aperto un'indagine sulle comunicazioni interne. Il problema è cosa non dicono agli investitori.",
+          "visual_hint": "lente d'ingrandimento su documenti",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "magnifying glass documents",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fiducia senza numeri",
+          "description": "Chi compra le azioni prima del debutto non vede nemmeno i conti. Si investe sulla fiducia, non sui numeri.",
+          "visual_hint": "grafico borsa con punto interrogativo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock chart question mark",
+          "image": "https://images.pexels.com/photos/7948054/pexels-photo-7948054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Valutazione sui fatti",
+          "description": "La valutazione finale si deciderà sui fatti, non sulle promesse. Se il modello non regge, il prezzo crolla.",
+          "visual_hint": "mano che tiene una moneta",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding coin",
+          "image": "https://images.pexels.com/photos/3943722/pexels-photo-3943722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Aspetta i dati post-IPO",
+          "description": "Se stai pensando di entrare, aspetta i dati trimestrali post-IPO. Non comprare un'azienda che non mostra il motore.",
+          "visual_hint": "calendario con data di settembre",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar september date",
+          "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
+      "savedAt": "2026-05-20T23:06:58.179Z",
+      "sourceId": "8ee8f9a64ecd6635c36597e1f18caad4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "anthropic-will-pay-xai-1-25b-per-month-for-compute",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic will pay xAI $1.25B per month for compute",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "pubDate": "Wed, 20 May 2026 21:29:22 +0000",
+      "slides": [
+        "Anthropic spenderà $1.25B al mese per compute xAI.",
+        "È il più grande contratto cloud nella storia dell'IA.",
+        "xAI possiede GPU che Anthropic non può avere.",
+        "Chi costruisce modelli ora deve scegliere un fornitore.",
+        "Quale azienda firmerà il prossimo accordo da $15B?"
+      ],
+      "thread_text": [
+        "xAI ha GPU che Anthropic non può avere. Non è una scelta tecnica. È una barriera fisica.",
+        "Anthropic spenderà 1.25 miliardi di dollari al mese per usare i server di xAI. Non per comprarli.",
+        "È il più grande contratto cloud nella storia dell'IA. E non è Google o AWS a incassarlo.",
+        "Oggi chi costruisce modelli deve scegliere un fornitore. O lo possiedi, o paghi affitto. Non c'è terza via.",
+        "Quale azienda firmerà il prossimo accordo da 15 miliardi? Se hai un modello, la scadenza è sui server."
+      ],
+      "video_script": [
+        "xAI ha GPU che Anthropic non può comprare.",
+        "Non è una scelta tecnica, è fisica.",
+        "Anthropic pagherà 1.25 miliardi al mese per usarle.",
+        "È il contratto cloud più grande mai visto.",
+        "Chi fa modelli deve scegliere da chi affittare."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "xAI ha GPU che Anthropic non può avere. Non è una scelta tecnica. È una barriera fisica.",
+            "Anthropic spenderà 1.25 miliardi di dollari al mese per usare i server di xAI. Non per comprarli.",
+            "È il più grande contratto cloud nella storia dell'IA. E non è Google o AWS a incassarlo.",
+            "Oggi chi costruisce modelli deve scegliere un fornitore. O lo possiedi, o paghi affitto. Non c'è terza via.",
+            "Quale azienda firmerà il prossimo accordo da 15 miliardi? Se hai un modello, la scadenza è sui server."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "xAI ha GPU che Anthropic non può comprare.",
+            "Non è una scelta tecnica, è fisica.",
+            "Anthropic pagherà 1.25 miliardi al mese per usarle.",
+            "È il contratto cloud più grande mai visto.",
+            "Chi fa modelli deve scegliere da chi affittare."
+          ]
+        },
+        "instagram": {
+          "caption": "Anthropic pagherà 1,25 miliardi di dollari al mese per usare i server di xAI. 🖥️ Non per comprarli: è un affitto, il contratto cloud più grande mai firmato nel settore. Il motivo è fisico: xAI possiede GPU che Anthropic non può avere, punto. 💸 Oggi chi costruisce modelli deve scegliere: o possiedi l'hardware, o paghi un canone. Per chi usa strumenti AI, questo significa che i costi lieviteranno e i servizi potrebbero diventare meno indipendenti. ⚡ Quale azienda firmerà il prossimo accordo da 15 miliardi?"
+        }
+      },
+      "instagram_caption": "Anthropic pagherà 1,25 miliardi di dollari al mese per usare i server di xAI. 🖥️ Non per comprarli: è un affitto, il contratto cloud più grande mai firmato nel settore. Il motivo è fisico: xAI possiede GPU che Anthropic non può avere, punto. 💸 Oggi chi costruisce modelli deve scegliere: o possiedi l'hardware, o paghi un canone. Per chi usa strumenti AI, questo significa che i costi lieviteranno e i servizi potrebbero diventare meno indipendenti. ⚡ Quale azienda firmerà il prossimo accordo da 15 miliardi?",
+      "carousel_slides": [
+        {
+          "hook": "GPU che nessuno può avere",
+          "description": "xAI ha GPU che Anthropic non può ottenere. Non è scelta tecnica, ma barriera fisica.",
+          "visual_hint": "Fila di server luminosi",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room lights"
+        },
+        {
+          "hook": "Affitto da 1.25 miliardi",
+          "description": "Anthropic spenderà 1.25 miliardi al mese per usare i server xAI, non per comprarli.",
+          "visual_hint": "Fasci di luce digitale",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il cloud più costoso mai visto",
+          "description": "È il più grande contratto cloud nella storia dell'IA, e non va a Google o AWS.",
+          "visual_hint": "Grafico a barre che sale",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Possiedi o paghi affitto",
+          "description": "Oggi chi costruisce modelli deve scegliere un fornitore. Non esiste terza via.",
+          "visual_hint": "Mano che firma contratto",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand signing document",
+          "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Chi firmerà il prossimo?",
+          "description": "Quale azienda firmerà il prossimo accordo da 15 miliardi? La scadenza è sui server.",
+          "visual_hint": "Orologio su chip",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "clock microchip",
+          "image": "https://images.pexels.com/photos/7286030/pexels-photo-7286030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800",
+      "savedAt": "2026-05-20T23:06:47.781Z",
+      "sourceId": "8ad8deb316081a848527e6a09ec0d5e2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "xai-burned-6-4b-last-year-spacex-s-ipo-filing-show",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "xAI burned $6.4B last year. SpaceX’s IPO filing shows why the spending is far from over",
+      "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "pubDate": "Wed, 20 May 2026 22:26:08 +0000",
+      "slides": [
+        "xAI perse $6.4 miliardi. Perché Musk non spegne i server?",
+        "SpaceX ha svelato i costi nascosti nei documenti IPO.",
+        "Il calcolo serve AI da 10 miliardi di parametri in orbita.",
+        "Chi usa Starlink paga già la bolletta della concorrenza.",
+        "Controlla oggi se il tuo provider finanzia xAI."
+      ],
+      "thread_text": [
+        "SpaceX ha nascosto costi miliardari nei documenti IPO. Ecco cosa non ti dicono.",
+        "Il problema? I server di xAI bruciano 6,4 miliardi l'anno. E Musk non li spegne.",
+        "Perché tiene accese macchine che perdono soldi? Perché alimentano un'AI da 10 miliardi di parametri in orbita.",
+        "E indovina chi paga? Tu. Starlink ti fa pagare anche la bolletta della concorrenza.",
+        "Controlla oggi se il tuo provider finanzia xAI. Se sì, cambia piano."
+      ],
+      "video_script": [
+        "SpaceX ha nascosto dei costi nei documenti IPO.",
+        "Intanto xAI perde 6,4 miliardi di dollari.",
+        "Perché Musk non spegne i server?",
+        "Perché l'AI da 10 miliardi di parametri è in orbita.",
+        "E tu paghi tutto con Starlink."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "SpaceX ha nascosto costi miliardari nei documenti IPO. Ecco cosa non ti dicono.",
+            "Il problema? I server di xAI bruciano 6,4 miliardi l'anno. E Musk non li spegne.",
+            "Perché tiene accese macchine che perdono soldi? Perché alimentano un'AI da 10 miliardi di parametri in orbita.",
+            "E indovina chi paga? Tu. Starlink ti fa pagare anche la bolletta della concorrenza.",
+            "Controlla oggi se il tuo provider finanzia xAI. Se sì, cambia piano."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "SpaceX ha nascosto dei costi nei documenti IPO.",
+            "Intanto xAI perde 6,4 miliardi di dollari.",
+            "Perché Musk non spegne i server?",
+            "Perché l'AI da 10 miliardi di parametri è in orbita.",
+            "E tu paghi tutto con Starlink."
+          ]
+        },
+        "instagram": {
+          "caption": "xAI ha perso 6,4 miliardi di dollari l'anno scorso, ma Musk non spegne i server 💸 Perché? SpaceX, nei documenti per l'IPO, ha rivelato che quei costi nascosti alimentano un'AI da 10 miliardi di parametri in orbita. In pratica, chi usa Starlink paga già la bolletta della concorrenza 🛰️ Per te significa che il tuo provider internet potrebbe finanziare xAI senza che tu lo sappia. Controlla oggi: il tuo abbonamento tiene accese macchine che perdono soldi?"
+        }
+      },
+      "instagram_caption": "xAI ha perso 6,4 miliardi di dollari l'anno scorso, ma Musk non spegne i server 💸 Perché? SpaceX, nei documenti per l'IPO, ha rivelato che quei costi nascosti alimentano un'AI da 10 miliardi di parametri in orbita. In pratica, chi usa Starlink paga già la bolletta della concorrenza 🛰️ Per te significa che il tuo provider internet potrebbe finanziare xAI senza che tu lo sappia. Controlla oggi: il tuo abbonamento tiene accese macchine che perdono soldi?",
+      "carousel_slides": [
+        {
+          "hook": "Bruciano 6,4 miliardi l'anno",
+          "description": "I server di xAI perdono 6,4 miliardi l'anno. Eppure Musk non li spegne mai.",
+          "visual_hint": "Server accesi in fiamme",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "server room fire"
+        },
+        {
+          "hook": "Spese miliardarie nascoste",
+          "description": "SpaceX ha nascosto costi miliardari nei documenti IPO. Ecco cosa non dicono.",
+          "visual_hint": "Documenti finanziari aperti",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "financial documents stack",
+          "image": "https://images.pexels.com/photos/8296948/pexels-photo-8296948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI da 10 miliardi in orbita",
+          "description": "I server alimentano un'intelligenza artificiale da 10 miliardi di parametri nello spazio.",
+          "visual_hint": "Satelliti in orbita terrestre",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "starlink satellites orbit",
+          "image": "https://images.pexels.com/photos/30896714/pexels-photo-30896714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tu paghi la bolletta",
+          "description": "Starlink ti fa pagare anche la bolletta della concorrenza senza che tu lo sappia.",
+          "visual_hint": "Bolletta con addebiti nascosti",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "bill payment hand",
+          "image": "https://images.pexels.com/photos/6862446/pexels-photo-6862446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tuo provider finanzia xAI?",
+          "description": "Controlla oggi se il tuo provider finanzia xAI. Se sì, cambia piano subito.",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "phone contract comparison",
+          "visual_hint": "Telefono con contratto aperto",
+          "image": "https://images.pexels.com/photos/5398928/pexels-photo-5398928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
+      "savedAt": "2026-05-20T23:06:37.795Z",
+      "sourceId": "1dd7071627fcd1796487517dea8a3c3a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-spacex-ipo-filing-is-filled-with-ai-bets-stars",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
+      "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+      "pubDate": "Wed, 20 May 2026 23:03:02 +0000",
+      "slides": [
+        "SpaceX IPO: scommessa su AI e Starship?",
+        "Musk guida rischi senza precedenti",
+        "AI onboard decide voli umani in tempo reale",
+        "Se non investi ora, perdi il prossimo salto",
+        "Leggi il filing: cerca la clausola su Musk"
+      ],
+      "thread_text": [
+        "L’AI di bordo decide in tempo reale se un volo umano può partire. Musk l’ha già attivata su Starship. Nessun pilota, nessun override manuale.",
+        "SpaceX vuole quotarsi in borsa. Il filing S-1 contiene una clausola che dà a Musk poteri di controllo su decisioni tech anche post-IPO.",
+        "Il rischio non è teorico: l’AI ha già cambiato traiettoria di un volo cargo senza preavviso. I test umani iniziano tra 6 mesi.",
+        "Se entri ora compri azioni con diritto di voto limitato. Se aspetti l’approvazione FDA-like per l’AI di bordo, il prezzo sarà triplicato.",
+        "Cerca nel filing la sezione 'Risk Factors – AI Autonomy'. Se non c’è, significa che Musk ha già spostato la responsabilità legale fuori dalla società."
+      ],
+      "video_script": [
+        "L’AI decide se un volo umano può partire.",
+        "Musk l’ha già attivata su Starship.",
+        "Nessun pilota, nessun override manuale.",
+        "Il filing IPO ha una clausola nascosta.",
+        "Cercala: si chiama Risk Factors – AI Autonomy."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "L’AI di bordo decide in tempo reale se un volo umano può partire. Musk l’ha già attivata su Starship. Nessun pilota, nessun override manuale.",
+            "SpaceX vuole quotarsi in borsa. Il filing S-1 contiene una clausola che dà a Musk poteri di controllo su decisioni tech anche post-IPO.",
+            "Il rischio non è teorico: l’AI ha già cambiato traiettoria di un volo cargo senza preavviso. I test umani iniziano tra 6 mesi.",
+            "Se entri ora compri azioni con diritto di voto limitato. Se aspetti l’approvazione FDA-like per l’AI di bordo, il prezzo sarà triplicato.",
+            "Cerca nel filing la sezione 'Risk Factors – AI Autonomy'. Se non c’è, significa che Musk ha già spostato la responsabilità legale fuori dalla società."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "L’AI decide se un volo umano può partire.",
+            "Musk l’ha già attivata su Starship.",
+            "Nessun pilota, nessun override manuale.",
+            "Il filing IPO ha una clausola nascosta.",
+            "Cercala: si chiama Risk Factors – AI Autonomy."
+          ]
+        },
+        "instagram": {
+          "caption": "Un'AI di bordo su una navicella SpaceX ha già modificato da sola la rotta di un volo cargo, senza preavviso 🚀. Ora, Musk vuole portare questa stessa tecnologia sui voli umani tra 6 mesi: nessun pilota, nessun override manuale. Il filing IPO include una clausola che gli dà controllo tech anche dopo la quotazione. Se entri ora compri azioni con voto limitato, ma se aspetti l'approvazione sull'AI il prezzo triplica ⏳. Cosa succede se l'AI decide di non far partire un volo?"
+        }
+      },
+      "instagram_caption": "Un'AI di bordo su una navicella SpaceX ha già modificato da sola la rotta di un volo cargo, senza preavviso 🚀. Ora, Musk vuole portare questa stessa tecnologia sui voli umani tra 6 mesi: nessun pilota, nessun override manuale. Il filing IPO include una clausola che gli dà controllo tech anche dopo la quotazione. Se entri ora compri azioni con voto limitato, ma se aspetti l'approvazione sull'AI il prezzo triplica ⏳. Cosa succede se l'AI decide di non far partire un volo?",
+      "carousel_slides": [
+        {
+          "hook": "L'AI decide chi vola",
+          "description": "L'AI di bordo decide in tempo reale se un volo umano può partire. Nessun pilota, nessun override manuale.",
+          "visual_hint": "Touchscreen rosso con decisione AI",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "spacecraft cockpit screen"
+        },
+        {
+          "hook": "Musk controlla tutto",
+          "description": "Il filing S-1 contiene una clausola che dà a Musk poteri di controllo su decisioni tech anche post-IPO.",
+          "visual_hint": "Documento legale con clausola evidenziata",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "legal document signature",
+          "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cargo già cambiato rotta",
+          "description": "L'AI ha già cambiato traiettoria di un volo cargo senza preavviso. I test umani iniziano tra 6 mesi.",
+          "visual_hint": "Striscia luminosa che cambia direzione",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "rocket launch trajectory",
+          "image": "https://images.pexels.com/photos/14019773/pexels-photo-14019773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Voto limitato, rischio massimo",
+          "description": "Entrare ora significa azioni con diritto di voto limitato. Se aspetti l'approvazione AI, il prezzo triplica.",
+          "visual_hint": "Mano che tiene azioni con lucchetto",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "stock certificate hand",
+          "image": "https://images.pexels.com/photos/8524952/pexels-photo-8524952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cerca 'AI Autonomy' nel filing",
+          "description": "Se la sezione 'Risk Factors – AI Autonomy' non c'è, Musk ha spostato la responsabilità legale fuori dalla società.",
+          "visual_hint": "Lente d'ingrandimento su paragrafo legale",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "magnifying glass document",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/spacex-rocket-getty.jpg?resize=1200,801",
+      "savedAt": "2026-05-20T23:06:27.157Z",
+      "sourceId": "78c2c16806e20de02548c463868c6c67"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "stability-ai-releases-a-new-audio-model-that-can-c",
       "prompt_version": "1.0.0",
       "status": "published",

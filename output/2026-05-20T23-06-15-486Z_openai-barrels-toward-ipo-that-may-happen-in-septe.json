@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-barrels-toward-ipo-that-may-happen-in-septe",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI barrels toward IPO that may happen in September",
+  "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+  "pubDate": "Wed, 20 May 2026 17:24:24 +0000",
+  "slides": [
+    "OpenAI punta a settembre per l'IPO.",
+    "Ma la SEC indaga sulle comunicazioni interne.",
+    "Il modello di business resta segreto agli investitori.",
+    "Chi compra prima rischia senza vedere i conti.",
+    "La valutazione si decide sui fatti, non sulle promesse."
+  ],
+  "thread_text": [
+    "Stanno per quotarsi in Borsa, ma nessuno sa come guadagnano davvero. OpenAI punta a settembre per l'IPO, ma il modello di business è ancora un segreto.",
+    "La SEC ha aperto un'indagine sulle comunicazioni interne. Il problema non è solo il silenzio, ma cosa non stanno dicendo agli investitori.",
+    "Chi compra le azioni prima del debutto non vede nemmeno i conti. Si investe sulla fiducia, non sui numeri.",
+    "La valutazione finale si deciderà sui fatti, non sulle promesse. Se il modello non regge, il prezzo crolla subito.",
+    "Se stai pensando di entrare, aspetta i dati trimestrali post-IPO. Non comprare un'azienda che non mostra il suo motore."
+  ],
+  "video_script": [
+    "OpenAI vuole fare l'IPO a settembre.",
+    "C'è un'indagine della SEC in corso.",
+    "Il modello di business è ancora segreto.",
+    "Compri azioni senza vedere i conti.",
+    "Il valore lo decideranno i fatti, non le promesse."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Stanno per quotarsi in Borsa, ma nessuno sa come guadagnano davvero. OpenAI punta a settembre per l'IPO, ma il modello di business è ancora un segreto.",
+        "La SEC ha aperto un'indagine sulle comunicazioni interne. Il problema non è solo il silenzio, ma cosa non stanno dicendo agli investitori.",
+        "Chi compra le azioni prima del debutto non vede nemmeno i conti. Si investe sulla fiducia, non sui numeri.",
+        "La valutazione finale si deciderà sui fatti, non sulle promesse. Se il modello non regge, il prezzo crolla subito.",
+        "Se stai pensando di entrare, aspetta i dati trimestrali post-IPO. Non comprare un'azienda che non mostra il suo motore."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI vuole fare l'IPO a settembre.",
+        "C'è un'indagine della SEC in corso.",
+        "Il modello di business è ancora segreto.",
+        "Compri azioni senza vedere i conti.",
+        "Il valore lo decideranno i fatti, non le promesse."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI ha fissato settembre per la quotazione in Borsa, ma la SEC indaga su cosa non stanno dicendo agli investitori 📊. Il modello di business resta segreto: chi compra le azioni ora non vede i conti, solo promesse. Se i numeri post-IPO non reggono, il prezzo crolla subito 💥. Per chi lavora o investe in AI, comprare oggi significa scommettere alla cieca su un motore che non hai mai visto funzionare. I primi dati veri arriveranno coi trimestrali dopo il debutto — aspetterai o entri lo stesso? 🔍"
+    }
+  },
+  "instagram_caption": "OpenAI ha fissato settembre per la quotazione in Borsa, ma la SEC indaga su cosa non stanno dicendo agli investitori 📊. Il modello di business resta segreto: chi compra le azioni ora non vede i conti, solo promesse. Se i numeri post-IPO non reggono, il prezzo crolla subito 💥. Per chi lavora o investe in AI, comprare oggi significa scommettere alla cieca su un motore che non hai mai visto funzionare. I primi dati veri arriveranno coi trimestrali dopo il debutto — aspetterai o entri lo stesso? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "IPO senza vedere i conti",
+      "description": "OpenIP punta a settembre per l'IPO, ma il modello di business è ancora un segreto.",
+      "visual_hint": "porta chiusa con cartello segreto",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "closed door sign secret"
+    },
+    {
+      "hook": "SEC indaga sui silenzi",
+      "description": "La SEC ha aperto un'indagine sulle comunicazioni interne. Il problema è cosa non dicono agli investitori.",
+      "visual_hint": "lente d'ingrandimento su documenti",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "magnifying glass documents",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fiducia senza numeri",
+      "description": "Chi compra le azioni prima del debutto non vede nemmeno i conti. Si investe sulla fiducia, non sui numeri.",
+      "visual_hint": "grafico borsa con punto interrogativo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock chart question mark",
+      "image": "https://images.pexels.com/photos/7948054/pexels-photo-7948054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Valutazione sui fatti",
+      "description": "La valutazione finale si deciderà sui fatti, non sulle promesse. Se il modello non regge, il prezzo crolla.",
+      "visual_hint": "mano che tiene una moneta",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding coin",
+      "image": "https://images.pexels.com/photos/3943722/pexels-photo-3943722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Aspetta i dati post-IPO",
+      "description": "Se stai pensando di entrare, aspetta i dati trimestrali post-IPO. Non comprare un'azienda che non mostra il motore.",
+      "visual_hint": "calendario con data di settembre",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar september date",
+      "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
+  "savedAt": "2026-05-20T23:06:58.179Z",
+  "sourceId": "8ee8f9a64ecd6635c36597e1f18caad4"
+}
