@@ -111,7 +111,7 @@ function concatClips(clipPaths, outputPath) {
     '-f', 'concat', '-safe', '0',
     '-i', listFile,
     '-c:v', 'libx264', '-preset', 'fast',
-    '-c:a', 'aac',
+    '-c:a', 'aac', '-ar', '44100',
     '-y', outputPath,
   ], { stdio: 'pipe' });
 
