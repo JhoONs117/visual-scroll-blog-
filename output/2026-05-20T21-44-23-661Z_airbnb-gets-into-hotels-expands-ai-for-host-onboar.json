@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "airbnb-gets-into-hotels-expands-ai-for-host-onboar",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
+  "link": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
+  "pubDate": "Wed, 20 May 2026 18:14:04 +0000",
+  "slides": [
+    "Airbnb compra hotel, ma cambierà davvero il viaggio?",
+    "Ora anche gli alberghi potranno usare la sua piattaforma",
+    "L'AI onboarding host è tanto veloce quanto imprevedibile",
+    "Il tuo prossimo soggiorno potrebbe essere gestito da un bot",
+    "Prova a confrontare offerte umane e automatiche oggi"
+  ],
+  "thread_text": [
+    "Airbnb ha appena introdotto l'AI onboarding per gli host. Il sistema valuta la tua casa in 48 ore. Il problema? Nessuno sa come decida se il tuo soggiorno è adatto. È una scatola nera che decide le tue prenotazioni.",
+    "Context: Airbnb ha comprato hotel e ora li mette sulla piattaforma. Ma la vera novità è l'AI che gestisce gli host. Sei tu che carichi le foto? Il bot decide se la tua stanza è abbastanza luminosa. Senza dirti il criterio.",
+    "La svolta: ora anche gli hotel tradizionali potranno usare la piattaforma Airbnb. Ma c'è un prezzo: l'AI non fa distinzioni tra un appartamento e una suite. Il tuo prossimo soggiorno potrebbe essere gestito da un bot che non conosce la differenza tra pulito e sterile.",
+    "Conseguenza: se l'AI approva la tua casa in 48 ore, ma gli hotel entrano sulla piattaforma con recensioni e standard, chi vince? L'host singolo che non capisce il sistema. Il vantaggio è tutto per chi ha già dati storici.",
+    "Costa meno di una notte in hotel mediamente. Prova a confrontare oggi due offerte: una gestita da host umano, una da hotel con AI. Scommetto che non riesci a distinguerle."
+  ],
+  "video_script": [
+    "Airbnb usa un'AI per valutare le case.",
+    "E in 48 ore decidi se affittare.",
+    "Ma nessuno sa come funziona.",
+    "È una scatola nera che decide.",
+    "Ora anche hotel entrano nella piattaforma."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Airbnb ha appena introdotto l'AI onboarding per gli host. Il sistema valuta la tua casa in 48 ore. Il problema? Nessuno sa come decida se il tuo soggiorno è adatto. È una scatola nera che decide le tue prenotazioni.",
+        "Context: Airbnb ha comprato hotel e ora li mette sulla piattaforma. Ma la vera novità è l'AI che gestisce gli host. Sei tu che carichi le foto? Il bot decide se la tua stanza è abbastanza luminosa. Senza dirti il criterio.",
+        "La svolta: ora anche gli hotel tradizionali potranno usare la piattaforma Airbnb. Ma c'è un prezzo: l'AI non fa distinzioni tra un appartamento e una suite. Il tuo prossimo soggiorno potrebbe essere gestito da un bot che non conosce la differenza tra pulito e sterile.",
+        "Conseguenza: se l'AI approva la tua casa in 48 ore, ma gli hotel entrano sulla piattaforma con recensioni e standard, chi vince? L'host singolo che non capisce il sistema. Il vantaggio è tutto per chi ha già dati storici.",
+        "Costa meno di una notte in hotel mediamente. Prova a confrontare oggi due offerte: una gestita da host umano, una da hotel con AI. Scommetto che non riesci a distinguerle."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Airbnb usa un'AI per valutare le case.",
+        "E in 48 ore decidi se affittare.",
+        "Ma nessuno sa come funziona.",
+        "È una scatola nera che decide.",
+        "Ora anche hotel entrano nella piattaforma."
+      ]
+    },
+    "instagram": {
+      "caption": "Airbnb ha appena comprato hotel e li ha messi sulla sua piattaforma, ma la mossa vera è un’altra: ora un sistema automatico valuta la tua casa in 48 ore per decidere se può essere affittata 🏠. Nessuno sa esattamente come decida se una stanza è “abbastanza luminosa” o adatta, perché i criteri restano una scatola nera. Il risultato? Hotel con recensioni decennali e host singoli che caricano foto alla cieca competono sullo stesso piano, ma solo chi ha dati storici parte già avanti 🤖. Per te, confrontare un soggiorno umano con uno gestito da bot potrebbe diventare indistinguibile. Quando prenoterai, saprai chi c’è davvero dall’altra parte? 🛎️"
+    }
+  },
+  "instagram_caption": "Airbnb ha appena comprato hotel e li ha messi sulla sua piattaforma, ma la mossa vera è un’altra: ora un sistema automatico valuta la tua casa in 48 ore per decidere se può essere affittata 🏠. Nessuno sa esattamente come decida se una stanza è “abbastanza luminosa” o adatta, perché i criteri restano una scatola nera. Il risultato? Hotel con recensioni decennali e host singoli che caricano foto alla cieca competono sullo stesso piano, ma solo chi ha dati storici parte già avanti 🤖. Per te, confrontare un soggiorno umano con uno gestito da bot potrebbe diventare indistinguibile. Quando prenoterai, saprai chi c’è davvero dall’altra parte? 🛎️",
+  "carousel_slides": [
+    {
+      "hook": "La tua casa approvata da un bot",
+      "description": "L'AI decide se la tua stanza è adatta in 48 ore, ma nessuno sa come. Scatola nera delle prenotazioni.",
+      "visual_hint": "scatola nera con punto interrogativo",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "black box question mark"
+    },
+    {
+      "hook": "Hotel su Airbnb, ma a quale costo?",
+      "description": "L'AI non distingue tra appartamento e suite. Il tuo soggiorno gestito da un bot senza criterio.",
+      "visual_hint": "hotel e appartamento confusi",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "hotel building apartment",
+      "image": "https://images.pexels.com/photos/27367232/pexels-photo-27367232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Host vs hotel: chi vince con l'AI?",
+      "description": "L'AI approva in 48 ore, ma gli hotel hanno recensioni. L'host singolo perde senza dati storici.",
+      "visual_hint": "grafico a barre sbilanciato",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "bar chart imbalance",
+      "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costa meno di una notte in hotel",
+      "description": "Prova a confrontare due offerte: host umano vs hotel con AI. Scommetto che non le distingui.",
+      "visual_hint": "due schermi identici",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "two screens comparison",
+      "image": "https://images.pexels.com/photos/25809238/pexels-photo-25809238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Confronta ora umano e automatico",
+      "description": "Il sistema è una scatola nera per host, ma per gli hotel è vantaggio. Scopri le differenze oggi.",
+      "visual_hint": "freccia che confronta due mondi",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "comparison arrow worlds",
+      "image": "https://images.pexels.com/photos/6669023/pexels-photo-6669023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/en-US-Homepage.jpeg?resize=1200,800",
+  "savedAt": "2026-05-20T21:44:48.572Z",
+  "sourceId": "100c0f883ef1e2f34204d843b74c578b"
+}

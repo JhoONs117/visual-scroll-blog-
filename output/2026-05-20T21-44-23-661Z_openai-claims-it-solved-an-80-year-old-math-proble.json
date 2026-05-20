@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-claims-it-solved-an-80-year-old-math-proble",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+  "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+  "pubDate": "Wed, 20 May 2026 20:28:27 +0000",
+  "slides": [
+    "OpenAI dice di aver risolto un enigma matematico lungo 80 anni.",
+    "Il problema è legato alla teoria dei gruppi e alla simmetria.",
+    "Nessun umano era riuscito a dimostrare il passo chiave finora.",
+    "Se confermato, nuovi algoritmi potrebbero accelerare la crittografia.",
+    "Prova a verificare tu stesso il teorema pubblicato su arXiv."
+  ],
+  "thread_text": [
+    "Un passo matematico che nessun umano era riuscito a dimostrare è stato risolto da un'AI. Il problema resisteva da 80 anni.",
+    "Il problema riguarda la teoria dei gruppi e le simmetrie: un ramo della matematica pura alla base della crittografia moderna.",
+    "La dimostrazione, pubblicata su arXiv, è aperta a chiunque voglia verificarla. Se confermata, potrebbe cambiare le regole del gioco.",
+    "La conseguenza pratica? Nuovi algoritmi in grado di accelerare la crittografia, rendendo i sistemi più veloci senza sacrificare la sicurezza.",
+    "Il paper è su arXiv. Puoi leggerlo, controllare i passaggi e giudicare da solo se il teorema regge."
+  ],
+  "video_script": [
+    "Nessuno era riuscito a dimostrare questo teorema. Per 80 anni.",
+    "L'ha fatto un'AI. Si chiama OpenAI.",
+    "È un problema di simmetria e teoria dei gruppi.",
+    "Se è vero, la crittografia può accelerare.",
+    "Il paper è su arXiv. Vai a controllare."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Un passo matematico che nessun umano era riuscito a dimostrare è stato risolto da un'AI. Il problema resisteva da 80 anni.",
+        "Il problema riguarda la teoria dei gruppi e le simmetrie: un ramo della matematica pura alla base della crittografia moderna.",
+        "La dimostrazione, pubblicata su arXiv, è aperta a chiunque voglia verificarla. Se confermata, potrebbe cambiare le regole del gioco.",
+        "La conseguenza pratica? Nuovi algoritmi in grado di accelerare la crittografia, rendendo i sistemi più veloci senza sacrificare la sicurezza.",
+        "Il paper è su arXiv. Puoi leggerlo, controllare i passaggi e giudicare da solo se il teorema regge."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nessuno era riuscito a dimostrare questo teorema. Per 80 anni.",
+        "L'ha fatto un'AI. Si chiama OpenAI.",
+        "È un problema di simmetria e teoria dei gruppi.",
+        "Se è vero, la crittografia può accelerare.",
+        "Il paper è su arXiv. Vai a controllare."
+      ]
+    },
+    "instagram": {
+      "caption": "Un teorema matematico rimasto irrisolto per 80 anni è stato dimostrato da un’intelligenza artificiale. Il problema fa parte della teoria dei gruppi, lo studio delle simmetrie che sta dietro a come proteggiamo i dati online 🧮. OpenAI ha pubblicato la prova su arXiv, aperta a chiunque voglia controllarla passo dopo passo 🔍. Se la dimostrazione regge, potremmo avere algoritmi di crittografia più veloci, senza indebolire la sicurezza dei tuoi messaggi o delle transazioni bancarie 🔐. Hai già dato un’occhiata al paper per verificare se i conti tornano?"
+    }
+  },
+  "instagram_caption": "Un teorema matematico rimasto irrisolto per 80 anni è stato dimostrato da un’intelligenza artificiale. Il problema fa parte della teoria dei gruppi, lo studio delle simmetrie che sta dietro a come proteggiamo i dati online 🧮. OpenAI ha pubblicato la prova su arXiv, aperta a chiunque voglia controllarla passo dopo passo 🔍. Se la dimostrazione regge, potremmo avere algoritmi di crittografia più veloci, senza indebolire la sicurezza dei tuoi messaggi o delle transazioni bancarie 🔐. Hai già dato un’occhiata al paper per verificare se i conti tornano?",
+  "carousel_slides": [
+    {
+      "hook": "AI solved an 80-year math riddle",
+      "description": "A mathematical proof that no human could find was discovered by an AI, ending an 80-year wait.",
+      "visual_hint": "Abstract geometric patterns",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "abstract geometry pattern"
+    },
+    {
+      "hook": "Symmetries and group theory",
+      "description": "The problem lies in group theory and symmetries, a branch of pure math that underpins modern cryptography.",
+      "visual_hint": "Symmetry diagram close-up",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "symmetry diagram",
+      "image": "https://images.pexels.com/photos/8472872/pexels-photo-8472872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Proof now on arXiv",
+      "description": "The proof is published on arXiv for anyone to verify. If confirmed, it could change the rules of the game.",
+      "visual_hint": "Computer screen showing arXiv",
+      "layout_type": "sensor-zoom",
+      "icon": "check",
+      "image_query": "computer screen arXiv",
+      "image": "https://images.pexels.com/photos/7500056/pexels-photo-7500056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Faster, secure encryption",
+      "description": "If real, new algorithms could accelerate cryptography, making systems faster without sacrificing security.",
+      "visual_hint": "Laptop with padlock icon",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "laptop padlock",
+      "image": "https://images.pexels.com/photos/36853787/pexels-photo-36853787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Judge the AI proof yourself",
+      "description": "Read the paper on arXiv, check the steps, and decide if the theorem holds. The proof is open to all.",
+      "visual_hint": "Open book with code",
+      "layout_type": "cta-final",
+      "icon": "heart",
+      "image_query": "open book code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Erdos-problems.png?resize=1200,863",
+  "savedAt": "2026-05-20T21:44:34.680Z",
+  "sourceId": "5e513af90e20f1c75ab5ea91673dec3c"
+}

@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "stability-ai-releases-a-new-audio-model-that-can-c",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Stability AI releases a new audio model that can create 6-minute songs",
+      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+      "pubDate": "Wed, 20 May 2026 15:00:00 +0000",
+      "slides": [
+        "Stability AI just dropped a model that writes 6-minute songs.",
+        "It generates vocals, instruments, and structure from a single prompt.",
+        "But its training data includes copyrighted music without permission.",
+        "Artists now face the choice: adapt or fight for compensation.",
+        "Test it yourself to hear what's coming next."
+      ],
+      "thread_text": [
+        "Stability AI ha addestrato un modello su canzoni protette da copyright. Senza chiedere permesso.",
+        "Il modello si chiama Stable Audio 2.0. Da un prompt di testo genera 6 minuti di musica con voce e strumenti.",
+        "Finora l'AI generava loop di 30 secondi. Ora crea brani completi con intro, strofa e ritornello.",
+        "Gli artisti scoprono le loro opere nei dati di training. La scelta è: adattarsi o chiedere un compenso.",
+        "Puoi provarlo ora su stableaudio.com. Costa meno di un abbonamento Spotify."
+      ],
+      "video_script": [
+        "Stability AI genera canzoni di 6 minuti.",
+        "Da un prompt crea voce e strumenti.",
+        "Ma ha usato musica protetta senza permesso.",
+        "Artisti devono decidere: adattarsi o combattere.",
+        "Provalo ora su stableaudio.com."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Stability AI ha addestrato un modello su canzoni protette da copyright. Senza chiedere permesso.",
+            "Il modello si chiama Stable Audio 2.0. Da un prompt di testo genera 6 minuti di musica con voce e strumenti.",
+            "Finora l'AI generava loop di 30 secondi. Ora crea brani completi con intro, strofa e ritornello.",
+            "Gli artisti scoprono le loro opere nei dati di training. La scelta è: adattarsi o chiedere un compenso.",
+            "Puoi provarlo ora su stableaudio.com. Costa meno di un abbonamento Spotify."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Stability AI genera canzoni di 6 minuti.",
+            "Da un prompt crea voce e strumenti.",
+            "Ma ha usato musica protetta senza permesso.",
+            "Artisti devono decidere: adattarsi o combattere.",
+            "Provalo ora su stableaudio.com."
+          ]
+        },
+        "instagram": {
+          "caption": "Stability AI ha rilasciato un modello che scrive canzoni di 6 minuti, complete di voce e strumenti, partendo da una semplice frase di testo. Basta un prompt e l'AI costruisce intro, strofa e ritornello. Il problema? I dati di addestramento includono musica protetta da copyright, usata senza permesso. 🎵 Per te, creatore o appassionato, significa che da oggi puoi generare brani interi in pochi secondi, mentre gli artisti devono decidere se adattarsi o chiedere un compenso. ⚖️ Sei tra chi lo proverà o tra chi aspetta regole più chiare?"
+        }
+      },
+      "instagram_caption": "Stability AI ha rilasciato un modello che scrive canzoni di 6 minuti, complete di voce e strumenti, partendo da una semplice frase di testo. Basta un prompt e l'AI costruisce intro, strofa e ritornello. Il problema? I dati di addestramento includono musica protetta da copyright, usata senza permesso. 🎵 Per te, creatore o appassionato, significa che da oggi puoi generare brani interi in pochi secondi, mentre gli artisti devono decidere se adattarsi o chiedere un compenso. ⚖️ Sei tra chi lo proverà o tra chi aspetta regole più chiare?",
+      "carousel_slides": [
+        {
+          "hook": "Addestrato su canzoni rubate.",
+          "description": "Stability AI ha addestrato un modello su canzoni protette da copyright, senza chiedere permesso.",
+          "visual_hint": "Server rack con luci rosse",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room lights"
+        },
+        {
+          "hook": "6 minuti di musica da un prompt.",
+          "description": "Stable Audio 2.0 genera 6 minuti di musica con voce e strumenti da un semplice prompt.",
+          "visual_hint": "Onde sonore sullo schermo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "audio waveform screen",
+          "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Da loop a brani completi.",
+          "description": "Ora crea brani con intro, strofa e ritornello, non più solo loop di 30 secondi.",
+          "visual_hint": "Spettrogramma audio dettagliato",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "audio spectrogram detail",
+          "image": "https://images.pexels.com/photos/6863085/pexels-photo-6863085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Artisti scoprono le loro opere.",
+          "description": "Gli artisti trovano le loro canzoni nei dati di training. La scelta è: adattarsi o chiedere un compenso.",
+          "visual_hint": "Mano che tiene un documento",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding paper",
+          "image": "https://images.pexels.com/photos/6567858/pexels-photo-6567858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Provalo ora, costa meno di Spotify.",
+          "description": "Testalo su stableaudio.com. Costa meno di un abbonamento Spotify.",
+          "visual_hint": "Logo di Spotify con confronto prezzo",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "Spotify logo comparison",
+          "image": "https://images.pexels.com/photos/15693047/pexels-photo-15693047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1480808838.jpg?resize=1200,800",
+      "savedAt": "2026-05-20T21:45:13.314Z",
+      "sourceId": "17cdb3afa6c1cf9df8f8b8feb4e96b74"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "airbnb-gets-into-hotels-expands-ai-for-host-onboar",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
+      "link": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
+      "pubDate": "Wed, 20 May 2026 18:14:04 +0000",
+      "slides": [
+        "Airbnb compra hotel, ma cambierà davvero il viaggio?",
+        "Ora anche gli alberghi potranno usare la sua piattaforma",
+        "L'AI onboarding host è tanto veloce quanto imprevedibile",
+        "Il tuo prossimo soggiorno potrebbe essere gestito da un bot",
+        "Prova a confrontare offerte umane e automatiche oggi"
+      ],
+      "thread_text": [
+        "Airbnb ha appena introdotto l'AI onboarding per gli host. Il sistema valuta la tua casa in 48 ore. Il problema? Nessuno sa come decida se il tuo soggiorno è adatto. È una scatola nera che decide le tue prenotazioni.",
+        "Context: Airbnb ha comprato hotel e ora li mette sulla piattaforma. Ma la vera novità è l'AI che gestisce gli host. Sei tu che carichi le foto? Il bot decide se la tua stanza è abbastanza luminosa. Senza dirti il criterio.",
+        "La svolta: ora anche gli hotel tradizionali potranno usare la piattaforma Airbnb. Ma c'è un prezzo: l'AI non fa distinzioni tra un appartamento e una suite. Il tuo prossimo soggiorno potrebbe essere gestito da un bot che non conosce la differenza tra pulito e sterile.",
+        "Conseguenza: se l'AI approva la tua casa in 48 ore, ma gli hotel entrano sulla piattaforma con recensioni e standard, chi vince? L'host singolo che non capisce il sistema. Il vantaggio è tutto per chi ha già dati storici.",
+        "Costa meno di una notte in hotel mediamente. Prova a confrontare oggi due offerte: una gestita da host umano, una da hotel con AI. Scommetto che non riesci a distinguerle."
+      ],
+      "video_script": [
+        "Airbnb usa un'AI per valutare le case.",
+        "E in 48 ore decidi se affittare.",
+        "Ma nessuno sa come funziona.",
+        "È una scatola nera che decide.",
+        "Ora anche hotel entrano nella piattaforma."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Airbnb ha appena introdotto l'AI onboarding per gli host. Il sistema valuta la tua casa in 48 ore. Il problema? Nessuno sa come decida se il tuo soggiorno è adatto. È una scatola nera che decide le tue prenotazioni.",
+            "Context: Airbnb ha comprato hotel e ora li mette sulla piattaforma. Ma la vera novità è l'AI che gestisce gli host. Sei tu che carichi le foto? Il bot decide se la tua stanza è abbastanza luminosa. Senza dirti il criterio.",
+            "La svolta: ora anche gli hotel tradizionali potranno usare la piattaforma Airbnb. Ma c'è un prezzo: l'AI non fa distinzioni tra un appartamento e una suite. Il tuo prossimo soggiorno potrebbe essere gestito da un bot che non conosce la differenza tra pulito e sterile.",
+            "Conseguenza: se l'AI approva la tua casa in 48 ore, ma gli hotel entrano sulla piattaforma con recensioni e standard, chi vince? L'host singolo che non capisce il sistema. Il vantaggio è tutto per chi ha già dati storici.",
+            "Costa meno di una notte in hotel mediamente. Prova a confrontare oggi due offerte: una gestita da host umano, una da hotel con AI. Scommetto che non riesci a distinguerle."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Airbnb usa un'AI per valutare le case.",
+            "E in 48 ore decidi se affittare.",
+            "Ma nessuno sa come funziona.",
+            "È una scatola nera che decide.",
+            "Ora anche hotel entrano nella piattaforma."
+          ]
+        },
+        "instagram": {
+          "caption": "Airbnb ha appena comprato hotel e li ha messi sulla sua piattaforma, ma la mossa vera è un’altra: ora un sistema automatico valuta la tua casa in 48 ore per decidere se può essere affittata 🏠. Nessuno sa esattamente come decida se una stanza è “abbastanza luminosa” o adatta, perché i criteri restano una scatola nera. Il risultato? Hotel con recensioni decennali e host singoli che caricano foto alla cieca competono sullo stesso piano, ma solo chi ha dati storici parte già avanti 🤖. Per te, confrontare un soggiorno umano con uno gestito da bot potrebbe diventare indistinguibile. Quando prenoterai, saprai chi c’è davvero dall’altra parte? 🛎️"
+        }
+      },
+      "instagram_caption": "Airbnb ha appena comprato hotel e li ha messi sulla sua piattaforma, ma la mossa vera è un’altra: ora un sistema automatico valuta la tua casa in 48 ore per decidere se può essere affittata 🏠. Nessuno sa esattamente come decida se una stanza è “abbastanza luminosa” o adatta, perché i criteri restano una scatola nera. Il risultato? Hotel con recensioni decennali e host singoli che caricano foto alla cieca competono sullo stesso piano, ma solo chi ha dati storici parte già avanti 🤖. Per te, confrontare un soggiorno umano con uno gestito da bot potrebbe diventare indistinguibile. Quando prenoterai, saprai chi c’è davvero dall’altra parte? 🛎️",
+      "carousel_slides": [
+        {
+          "hook": "La tua casa approvata da un bot",
+          "description": "L'AI decide se la tua stanza è adatta in 48 ore, ma nessuno sa come. Scatola nera delle prenotazioni.",
+          "visual_hint": "scatola nera con punto interrogativo",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "black box question mark"
+        },
+        {
+          "hook": "Hotel su Airbnb, ma a quale costo?",
+          "description": "L'AI non distingue tra appartamento e suite. Il tuo soggiorno gestito da un bot senza criterio.",
+          "visual_hint": "hotel e appartamento confusi",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "hotel building apartment",
+          "image": "https://images.pexels.com/photos/27367232/pexels-photo-27367232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Host vs hotel: chi vince con l'AI?",
+          "description": "L'AI approva in 48 ore, ma gli hotel hanno recensioni. L'host singolo perde senza dati storici.",
+          "visual_hint": "grafico a barre sbilanciato",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "bar chart imbalance",
+          "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costa meno di una notte in hotel",
+          "description": "Prova a confrontare due offerte: host umano vs hotel con AI. Scommetto che non le distingui.",
+          "visual_hint": "due schermi identici",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "two screens comparison",
+          "image": "https://images.pexels.com/photos/25809238/pexels-photo-25809238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Confronta ora umano e automatico",
+          "description": "Il sistema è una scatola nera per host, ma per gli hotel è vantaggio. Scopri le differenze oggi.",
+          "visual_hint": "freccia che confronta due mondi",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "comparison arrow worlds",
+          "image": "https://images.pexels.com/photos/6669023/pexels-photo-6669023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/en-US-Homepage.jpeg?resize=1200,800",
+      "savedAt": "2026-05-20T21:44:48.572Z",
+      "sourceId": "100c0f883ef1e2f34204d843b74c578b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-claims-it-solved-an-80-year-old-math-proble",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+      "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "pubDate": "Wed, 20 May 2026 20:28:27 +0000",
+      "slides": [
+        "OpenAI dice di aver risolto un enigma matematico lungo 80 anni.",
+        "Il problema è legato alla teoria dei gruppi e alla simmetria.",
+        "Nessun umano era riuscito a dimostrare il passo chiave finora.",
+        "Se confermato, nuovi algoritmi potrebbero accelerare la crittografia.",
+        "Prova a verificare tu stesso il teorema pubblicato su arXiv."
+      ],
+      "thread_text": [
+        "Un passo matematico che nessun umano era riuscito a dimostrare è stato risolto da un'AI. Il problema resisteva da 80 anni.",
+        "Il problema riguarda la teoria dei gruppi e le simmetrie: un ramo della matematica pura alla base della crittografia moderna.",
+        "La dimostrazione, pubblicata su arXiv, è aperta a chiunque voglia verificarla. Se confermata, potrebbe cambiare le regole del gioco.",
+        "La conseguenza pratica? Nuovi algoritmi in grado di accelerare la crittografia, rendendo i sistemi più veloci senza sacrificare la sicurezza.",
+        "Il paper è su arXiv. Puoi leggerlo, controllare i passaggi e giudicare da solo se il teorema regge."
+      ],
+      "video_script": [
+        "Nessuno era riuscito a dimostrare questo teorema. Per 80 anni.",
+        "L'ha fatto un'AI. Si chiama OpenAI.",
+        "È un problema di simmetria e teoria dei gruppi.",
+        "Se è vero, la crittografia può accelerare.",
+        "Il paper è su arXiv. Vai a controllare."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Un passo matematico che nessun umano era riuscito a dimostrare è stato risolto da un'AI. Il problema resisteva da 80 anni.",
+            "Il problema riguarda la teoria dei gruppi e le simmetrie: un ramo della matematica pura alla base della crittografia moderna.",
+            "La dimostrazione, pubblicata su arXiv, è aperta a chiunque voglia verificarla. Se confermata, potrebbe cambiare le regole del gioco.",
+            "La conseguenza pratica? Nuovi algoritmi in grado di accelerare la crittografia, rendendo i sistemi più veloci senza sacrificare la sicurezza.",
+            "Il paper è su arXiv. Puoi leggerlo, controllare i passaggi e giudicare da solo se il teorema regge."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Nessuno era riuscito a dimostrare questo teorema. Per 80 anni.",
+            "L'ha fatto un'AI. Si chiama OpenAI.",
+            "È un problema di simmetria e teoria dei gruppi.",
+            "Se è vero, la crittografia può accelerare.",
+            "Il paper è su arXiv. Vai a controllare."
+          ]
+        },
+        "instagram": {
+          "caption": "Un teorema matematico rimasto irrisolto per 80 anni è stato dimostrato da un’intelligenza artificiale. Il problema fa parte della teoria dei gruppi, lo studio delle simmetrie che sta dietro a come proteggiamo i dati online 🧮. OpenAI ha pubblicato la prova su arXiv, aperta a chiunque voglia controllarla passo dopo passo 🔍. Se la dimostrazione regge, potremmo avere algoritmi di crittografia più veloci, senza indebolire la sicurezza dei tuoi messaggi o delle transazioni bancarie 🔐. Hai già dato un’occhiata al paper per verificare se i conti tornano?"
+        }
+      },
+      "instagram_caption": "Un teorema matematico rimasto irrisolto per 80 anni è stato dimostrato da un’intelligenza artificiale. Il problema fa parte della teoria dei gruppi, lo studio delle simmetrie che sta dietro a come proteggiamo i dati online 🧮. OpenAI ha pubblicato la prova su arXiv, aperta a chiunque voglia controllarla passo dopo passo 🔍. Se la dimostrazione regge, potremmo avere algoritmi di crittografia più veloci, senza indebolire la sicurezza dei tuoi messaggi o delle transazioni bancarie 🔐. Hai già dato un’occhiata al paper per verificare se i conti tornano?",
+      "carousel_slides": [
+        {
+          "hook": "AI solved an 80-year math riddle",
+          "description": "A mathematical proof that no human could find was discovered by an AI, ending an 80-year wait.",
+          "visual_hint": "Abstract geometric patterns",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "abstract geometry pattern"
+        },
+        {
+          "hook": "Symmetries and group theory",
+          "description": "The problem lies in group theory and symmetries, a branch of pure math that underpins modern cryptography.",
+          "visual_hint": "Symmetry diagram close-up",
+          "layout_type": "right-focus",
+          "icon": "vibration",
+          "image_query": "symmetry diagram",
+          "image": "https://images.pexels.com/photos/8472872/pexels-photo-8472872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Proof now on arXiv",
+          "description": "The proof is published on arXiv for anyone to verify. If confirmed, it could change the rules of the game.",
+          "visual_hint": "Computer screen showing arXiv",
+          "layout_type": "sensor-zoom",
+          "icon": "check",
+          "image_query": "computer screen arXiv",
+          "image": "https://images.pexels.com/photos/7500056/pexels-photo-7500056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Faster, secure encryption",
+          "description": "If real, new algorithms could accelerate cryptography, making systems faster without sacrificing security.",
+          "visual_hint": "Laptop with padlock icon",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "laptop padlock",
+          "image": "https://images.pexels.com/photos/36853787/pexels-photo-36853787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Judge the AI proof yourself",
+          "description": "Read the paper on arXiv, check the steps, and decide if the theorem holds. The proof is open to all.",
+          "visual_hint": "Open book with code",
+          "layout_type": "cta-final",
+          "icon": "heart",
+          "image_query": "open book code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Erdos-problems.png?resize=1200,863",
+      "savedAt": "2026-05-20T21:44:34.680Z",
+      "sourceId": "5e513af90e20f1c75ab5ea91673dec3c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ai-search-startups-are-blowing-up",
       "prompt_version": "1.0.0",
       "status": "published",

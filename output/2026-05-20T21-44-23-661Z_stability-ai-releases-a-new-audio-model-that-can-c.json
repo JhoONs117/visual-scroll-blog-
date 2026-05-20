@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "stability-ai-releases-a-new-audio-model-that-can-c",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Stability AI releases a new audio model that can create 6-minute songs",
+  "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+  "pubDate": "Wed, 20 May 2026 15:00:00 +0000",
+  "slides": [
+    "Stability AI just dropped a model that writes 6-minute songs.",
+    "It generates vocals, instruments, and structure from a single prompt.",
+    "But its training data includes copyrighted music without permission.",
+    "Artists now face the choice: adapt or fight for compensation.",
+    "Test it yourself to hear what's coming next."
+  ],
+  "thread_text": [
+    "Stability AI ha addestrato un modello su canzoni protette da copyright. Senza chiedere permesso.",
+    "Il modello si chiama Stable Audio 2.0. Da un prompt di testo genera 6 minuti di musica con voce e strumenti.",
+    "Finora l'AI generava loop di 30 secondi. Ora crea brani completi con intro, strofa e ritornello.",
+    "Gli artisti scoprono le loro opere nei dati di training. La scelta è: adattarsi o chiedere un compenso.",
+    "Puoi provarlo ora su stableaudio.com. Costa meno di un abbonamento Spotify."
+  ],
+  "video_script": [
+    "Stability AI genera canzoni di 6 minuti.",
+    "Da un prompt crea voce e strumenti.",
+    "Ma ha usato musica protetta senza permesso.",
+    "Artisti devono decidere: adattarsi o combattere.",
+    "Provalo ora su stableaudio.com."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Stability AI ha addestrato un modello su canzoni protette da copyright. Senza chiedere permesso.",
+        "Il modello si chiama Stable Audio 2.0. Da un prompt di testo genera 6 minuti di musica con voce e strumenti.",
+        "Finora l'AI generava loop di 30 secondi. Ora crea brani completi con intro, strofa e ritornello.",
+        "Gli artisti scoprono le loro opere nei dati di training. La scelta è: adattarsi o chiedere un compenso.",
+        "Puoi provarlo ora su stableaudio.com. Costa meno di un abbonamento Spotify."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Stability AI genera canzoni di 6 minuti.",
+        "Da un prompt crea voce e strumenti.",
+        "Ma ha usato musica protetta senza permesso.",
+        "Artisti devono decidere: adattarsi o combattere.",
+        "Provalo ora su stableaudio.com."
+      ]
+    },
+    "instagram": {
+      "caption": "Stability AI ha rilasciato un modello che scrive canzoni di 6 minuti, complete di voce e strumenti, partendo da una semplice frase di testo. Basta un prompt e l'AI costruisce intro, strofa e ritornello. Il problema? I dati di addestramento includono musica protetta da copyright, usata senza permesso. 🎵 Per te, creatore o appassionato, significa che da oggi puoi generare brani interi in pochi secondi, mentre gli artisti devono decidere se adattarsi o chiedere un compenso. ⚖️ Sei tra chi lo proverà o tra chi aspetta regole più chiare?"
+    }
+  },
+  "instagram_caption": "Stability AI ha rilasciato un modello che scrive canzoni di 6 minuti, complete di voce e strumenti, partendo da una semplice frase di testo. Basta un prompt e l'AI costruisce intro, strofa e ritornello. Il problema? I dati di addestramento includono musica protetta da copyright, usata senza permesso. 🎵 Per te, creatore o appassionato, significa che da oggi puoi generare brani interi in pochi secondi, mentre gli artisti devono decidere se adattarsi o chiedere un compenso. ⚖️ Sei tra chi lo proverà o tra chi aspetta regole più chiare?",
+  "carousel_slides": [
+    {
+      "hook": "Addestrato su canzoni rubate.",
+      "description": "Stability AI ha addestrato un modello su canzoni protette da copyright, senza chiedere permesso.",
+      "visual_hint": "Server rack con luci rosse",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room lights"
+    },
+    {
+      "hook": "6 minuti di musica da un prompt.",
+      "description": "Stable Audio 2.0 genera 6 minuti di musica con voce e strumenti da un semplice prompt.",
+      "visual_hint": "Onde sonore sullo schermo",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "audio waveform screen",
+      "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Da loop a brani completi.",
+      "description": "Ora crea brani con intro, strofa e ritornello, non più solo loop di 30 secondi.",
+      "visual_hint": "Spettrogramma audio dettagliato",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "audio spectrogram detail",
+      "image": "https://images.pexels.com/photos/6863085/pexels-photo-6863085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Artisti scoprono le loro opere.",
+      "description": "Gli artisti trovano le loro canzoni nei dati di training. La scelta è: adattarsi o chiedere un compenso.",
+      "visual_hint": "Mano che tiene un documento",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding paper",
+      "image": "https://images.pexels.com/photos/6567858/pexels-photo-6567858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Provalo ora, costa meno di Spotify.",
+      "description": "Testalo su stableaudio.com. Costa meno di un abbonamento Spotify.",
+      "visual_hint": "Logo di Spotify con confronto prezzo",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "Spotify logo comparison",
+      "image": "https://images.pexels.com/photos/15693047/pexels-photo-15693047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1480808838.jpg?resize=1200,800",
+  "savedAt": "2026-05-20T21:45:13.314Z",
+  "sourceId": "17cdb3afa6c1cf9df8f8b8feb4e96b74"
+}
