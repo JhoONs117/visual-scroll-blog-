@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "alibaba-is-designing-ai-chips-around-agents-and-th",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
+      "link": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
+      "pubDate": "Wed, 20 May 2026 10:00:00 +0000",
+      "slides": [
+        "Alibaba's AI chip for agents—who else pivots to software-first hardware?",
+        "They tailor silicon to agent workflows, not raw computation.",
+        "Moore's Law no longer drives AI; agent architecture does.",
+        "Your cloud costs could drop if inference aligns with agentic patterns.",
+        "Run a test: compare inference latency on agent tasks today."
+      ],
+      "thread_text": [
+        "Moore's Law non guida più l'AI. È l'architettura degli agenti a dettare il ritmo. Il chip di Alibaba lo dimostra: hardware progettato per flussi di lavoro software, non per potenza bruta.",
+        "Per decenni abbiamo inseguito transistor più piccoli. Ora il collo di bottiglia è come i modelli interagiscono tra loro e con gli strumenti.",
+        "Alibaba ha girato la prospettiva: il silicio si adatta agli agenti, non il contrario. E non sono gli unici. Tutti i big del cloud stanno ripensando l'hardware.",
+        "Se l'inferenza segue pattern agentici, i costi cloud crollano. Non serve più un cluster per far ragionare un sistema: basta un chip che gestisca chiamate e contesto.",
+        "Fai una prova: prendi un task che richiede 3 passaggi logici, misura la latenza con il tuo modello attuale. Poi confrontala con un chip ottimizzato per agenti. Il numero ti sorprenderà."
+      ],
+      "video_script": [
+        "Moore non conta più. Conta come pensano gli agenti.",
+        "Alibaba ha progettato un chip su misura per loro.",
+        "Altri colossi stanno già copiando la mossa.",
+        "Se l'inferenza segue gli agenti, i costi calano.",
+        "Provare per credere: testalo su un task oggi."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Moore's Law non guida più l'AI. È l'architettura degli agenti a dettare il ritmo. Il chip di Alibaba lo dimostra: hardware progettato per flussi di lavoro software, non per potenza bruta.",
+            "Per decenni abbiamo inseguito transistor più piccoli. Ora il collo di bottiglia è come i modelli interagiscono tra loro e con gli strumenti.",
+            "Alibaba ha girato la prospettiva: il silicio si adatta agli agenti, non il contrario. E non sono gli unici. Tutti i big del cloud stanno ripensando l'hardware.",
+            "Se l'inferenza segue pattern agentici, i costi cloud crollano. Non serve più un cluster per far ragionare un sistema: basta un chip che gestisca chiamate e contesto.",
+            "Fai una prova: prendi un task che richiede 3 passaggi logici, misura la latenza con il tuo modello attuale. Poi confrontala con un chip ottimizzato per agenti. Il numero ti sorprenderà."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Moore non conta più. Conta come pensano gli agenti.",
+            "Alibaba ha progettato un chip su misura per loro.",
+            "Altri colossi stanno già copiando la mossa.",
+            "Se l'inferenza segue gli agenti, i costi calano.",
+            "Provare per credere: testalo su un task oggi."
+          ]
+        },
+        "instagram": {
+          "caption": "Alibaba ha progettato un chip specializzato per agenti AI, non per fare calcoli più veloci ma per gestire i loro flussi di lavoro: conversazioni, chiamate a strumenti, passaggi di contesto ⚡ Finora l'hardware rincorreva la potenza bruta; ora si adatta a come i modelli ragionano tra loro e con i tool. Il vero motore dell'AI non è più la miniaturizzazione dei transistor, ma l'architettura degli agenti 🤖. **Concretamente**: se il tuo cloud usa chip ottimizzati per pattern agentici, i costi di inferenza potrebbero crollare, anche per task complessi a più passaggi 📉. Hai mai misurato la latenza del tuo modello su un task che richiede tre ragionamenti consecutivi?"
+        }
+      },
+      "instagram_caption": "Alibaba ha progettato un chip specializzato per agenti AI, non per fare calcoli più veloci ma per gestire i loro flussi di lavoro: conversazioni, chiamate a strumenti, passaggi di contesto ⚡ Finora l'hardware rincorreva la potenza bruta; ora si adatta a come i modelli ragionano tra loro e con i tool. Il vero motore dell'AI non è più la miniaturizzazione dei transistor, ma l'architettura degli agenti 🤖. **Concretamente**: se il tuo cloud usa chip ottimizzati per pattern agentici, i costi di inferenza potrebbero crollare, anche per task complessi a più passaggi 📉. Hai mai misurato la latenza del tuo modello su un task che richiede tre ragionamenti consecutivi?",
+      "carousel_slides": [
+        {
+          "hook": "Moore's Law non guida più l'AI",
+          "description": "L'architettura degli agenti detta il ritmo. Il chip Alibaba è hardware per flussi software, non potenza bruta.",
+          "visual_hint": "microchip su circuito",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "microchip circuit board"
+        },
+        {
+          "hook": "Il silicio si adatta agli agenti",
+          "description": "Alibaba ha girato la prospettiva: hardware su misura per agenti. Altri big cloud ripensano il silicio.",
+          "visual_hint": "ingranaggi digitali",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room racks",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non servono più cluster enormi",
+          "description": "Se l'inferenza segue pattern agentici, un chip gestisce chiamate e contesto. Costi cloud crollano.",
+          "visual_hint": "freccia che scende",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "data center cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Testa la latenza oggi",
+          "description": "Prendi un task a 3 passaggi logici. Misura la latenza col tuo modello. Confrontala con un chip agentico.",
+          "visual_hint": "cronometro digitale",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "clock timer",
+          "image": "https://images.pexels.com/photos/8113753/pexels-photo-8113753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Esegui subito il test",
+          "description": "La differenza di latenza ti sorprenderà. Hardware ottimizzato per agenti cambia le regole del cloud.",
+          "visual_hint": "pollice in su",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checkmark symbol",
+          "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/1769486747290.jpeg",
+      "savedAt": "2026-05-20T10:43:19.134Z",
+      "sourceId": "a795498fea42cbd6ad979a07154df548"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "-ask-youtube-brings-ai-powered-conversational-sear",
       "prompt_version": "1.0.0",
       "status": "published",
