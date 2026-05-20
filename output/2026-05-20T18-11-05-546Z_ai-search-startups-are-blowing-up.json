@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-search-startups-are-blowing-up",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI search startups are blowing up",
+  "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+  "pubDate": "Wed, 20 May 2026 15:04:45 +0000",
+  "slides": [
+    "Perplexity AI sfida Google? Ecco cosa cambia.",
+    "Le startup di AI search raccolgono milioni.",
+    "Ma Google risponde con un aggiornamento cruciale.",
+    "Chi cerca info oggi deve scegliere con cura.",
+    "Provane una gratis: vedi tu stesso."
+  ],
+  "thread_text": [
+    "Ma Google ha appena risposto con un aggiornamento cruciale. La partita del search si è riaperta.",
+    "Perplexity AI e altre startup di AI search stanno raccogliendo milioni per sfidare il gigante. Non sono più esperimenti.",
+    "Il punto è: Google aggiorna l'algoritmo per restare competitivo, ma l'esperienza di ricerca sta cambiando radicalmente.",
+    "Oggi chi cerca informazioni deve scegliere con cura: motore classico o AI conversationale? Non sono la stessa cosa.",
+    "Costa meno di un abbonamento Spotify. Provane una gratis questa settimana e vedi tu stesso."
+  ],
+  "video_script": [
+    "Google ha risposto. Ecco cosa cambia.",
+    "Startup AI raccolgono milioni per sfidarlo.",
+    "L'aggiornamento di Google è cruciale.",
+    "Oggi devi scegliere con cura.",
+    "Provane una gratis e vedi."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Ma Google ha appena risposto con un aggiornamento cruciale. La partita del search si è riaperta.",
+        "Perplexity AI e altre startup di AI search stanno raccogliendo milioni per sfidare il gigante. Non sono più esperimenti.",
+        "Il punto è: Google aggiorna l'algoritmo per restare competitivo, ma l'esperienza di ricerca sta cambiando radicalmente.",
+        "Oggi chi cerca informazioni deve scegliere con cura: motore classico o AI conversationale? Non sono la stessa cosa.",
+        "Costa meno di un abbonamento Spotify. Provane una gratis questa settimana e vedi tu stesso."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google ha risposto. Ecco cosa cambia.",
+        "Startup AI raccolgono milioni per sfidarlo.",
+        "L'aggiornamento di Google è cruciale.",
+        "Oggi devi scegliere con cura.",
+        "Provane una gratis e vedi."
+      ]
+    },
+    "instagram": {
+      "caption": "Perplexity AI ha appena raccolto 250 milioni per sfidare Google. Non sono più test: startup come Perplexity e altre ti danno risposte dirette invece di link blu, e Google ha già dovuto aggiornare il suo algoritmo per tenere il passo. 🔍 Il punto è che oggi, quando cerchi un'informazione, devi scegliere tra un motore classico e uno conversazionale — non danno lo stesso risultato. 💡 Se usi internet per lavoro, la differenza si sente subito. Costano meno di uno streaming al mese: hai già provato? 🤖"
+    }
+  },
+  "instagram_caption": "Perplexity AI ha appena raccolto 250 milioni per sfidare Google. Non sono più test: startup come Perplexity e altre ti danno risposte dirette invece di link blu, e Google ha già dovuto aggiornare il suo algoritmo per tenere il passo. 🔍 Il punto è che oggi, quando cerchi un'informazione, devi scegliere tra un motore classico e uno conversazionale — non danno lo stesso risultato. 💡 Se usi internet per lavoro, la differenza si sente subito. Costano meno di uno streaming al mese: hai già provato? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Google risponde. La partita si riapre",
+      "description": "Google ha appena rilasciato un aggiornamento cruciale dell'algoritmo. La sfida delle AI search si fa seria.",
+      "visual_hint": "logo Google vs AI search",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "Google AI search interface"
+    },
+    {
+      "hook": "Milioni per sfidare il gigante",
+      "description": "Perplexity AI e altre startup raccolgono milioni per competere con Google. Non sono più semplici esperimenti.",
+      "visual_hint": "pile di dollari e chip",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "money stack computer chips",
+      "image": "https://images.pexels.com/photos/5920577/pexels-photo-5920577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "L'esperienza di ricerca cambia",
+      "description": "Google aggiorna l'algoritmo per restare competitivo, ma l'esperienza di ricerca sta cambiando radicalmente per tutti.",
+      "visual_hint": "cervello che si illumina",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "search engine results page",
+      "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Motore classico o AI conversazionale?",
+      "description": "Oggi chi cerca informazioni deve scegliere con cura: motore tradizionale o AI conversazionale? Non sono la stessa cosa.",
+      "visual_hint": "mano che tocca schermo",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "person smartphone search bar",
+      "image": "https://images.pexels.com/photos/5448171/pexels-photo-5448171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costa meno di Spotify. Provala",
+      "description": "Costa meno di un abbonamento Spotify. Provane una gratis questa settimana e scopri la differenza tu stesso.",
+      "visual_hint": "telefono con app aperta",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone app glowing screen",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-ai-sign-Getty.jpg?resize=1200,800",
+  "savedAt": "2026-05-20T18:11:45.886Z",
+  "sourceId": "a8b9af8f050e441794ba0fe088e3bbdb"
+}

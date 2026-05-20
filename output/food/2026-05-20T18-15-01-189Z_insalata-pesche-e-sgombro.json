@@ -1,0 +1,84 @@
+{
+  "agent": "food",
+  "slug": "insalata-pesche-e-sgombro",
+  "sourceId": "443349560188ca776df780c747578088",
+  "dish_type": "salad",
+  "signature_ingredients": [
+    "pesche",
+    "sgombro",
+    "burrata"
+  ],
+  "title": "Insalata pesche e sgombro",
+  "slides": [
+    "Insalata fresca con pesche e sgombro",
+    "Pesche, sgombro, burrata, songino e pane",
+    "Taglia le pesche a spicchi",
+    "Tosta il pane e cuoci le pesche",
+    "Completa con burrata e crostini"
+  ],
+  "carousel_slides": [
+    {
+      "hook": "Insalata fresca con pesche e sgombro",
+      "description": "Un’insalata estiva che unisce la dolcezza delle pesche alla sapidità dello sgombro, creando un equilibrio perfetto.",
+      "visual_hint": "Piatto colorato con pesche e sgombro",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "savory peach mackerel salad"
+    },
+    {
+      "hook": "Gli ingredienti essenziali",
+      "description": "Pesche mature, sgombro affumicato, burrata cremosa, songino tenero e crostini di pane tostato.",
+      "visual_hint": "Ingredienti disposti su un tagliere",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "savory peach burrata ingredients",
+      "image": "https://images.pexels.com/photos/20184722/pexels-photo-20184722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Taglia le pesche a spicchi",
+      "description": "Affetta le pesche a spicchi sottili per esaltare la loro dolcezza e garantire una consistenza perfetta.",
+      "visual_hint": "Mani che tagliano pesche a spicchi",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "slicing peaches salad",
+      "image": "https://images.pexels.com/photos/12509561/pexels-photo-12509561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tosta il pane e cuoci le pesche",
+      "description": "Tosta le fette di pane in padella, poi scottale leggermente con le pesche per un contrasto caldo-fresco.",
+      "visual_hint": "Padella con pane tostato e pesche",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "pan seared peaches bread",
+      "image": "https://images.pexels.com/photos/14043698/pexels-photo-14043698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Completa con burrata e crostini",
+      "description": "Adagia la burrata al centro, disponi i crostini intorno e servi l'insalata tiepida per un sapore unico.",
+      "visual_hint": "Piatto finito con burrata e crostini",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "savory peach burrata crostini",
+      "image": "https://images.pexels.com/photos/5857349/pexels-photo-5857349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "instagram_caption": "Estate in un piatto: pesche caramellate, sgombro affumicato e quella burrata che scioglie ogni cosa. 🍑🐟 Prendo le pesche, le taglio a spicchi e le scotto appena in padella per sentirle dolci. Poi via: letto di songino, sgombro sfilacciato, una generosa burrata e crostini croccanti di pane tostato. Fredda, fresca, perfetta per una cena senza forno. Provala prima che le pesche finiscano 🌿",
+  "video_script": [
+    "Prendo l'insalata con pesche e sgombro.",
+    "Aggiungo pesche, sgombro, burrata, songino e pane.",
+    "Taglio le pesche a spicchi così.",
+    "Tosto il pane e cuocio le pesche in padella.",
+    "Completo con burrata e crostini croccanti."
+  ],
+  "thread_text": [
+    "Burrata che cola sullo sgombro affumicato e pesche caramellate. Estate in un piatto, ma con un twist che non ti aspetti. Ti spiego come portarlo a tavola in 5 minuti.",
+    "Base: songino fresco, sgombro a scaglie (quello buono in olio d'oliva), pesche non troppo mature e una burrata cremosa. Aggiungi pane raffermo per crostini.",
+    "Taglia le pesche a spicchi spessi. In padella antiaderente, tosta il pane a cubetti e tienilo da parte. Nella stessa padella, rosola le pesche un minuto per lato: devono caramellare senza sfaldarsi.",
+    "Componi il piatto: songino, sgombro, pesche tiepide, qualche cubetto di pane tostato. Poi apri la burrata al centro e lascia che faccia la sua magia. Un filo d'olio crudo e sale fiocco.",
+    "Il trucco? Aggiungi una macinata di pepe nero e qualche foglia di menta fresca prima di servire. Dolce, salato, cremoso e croccante. Provala e dimmi com'è andata 👇"
+  ],
+  "link": "https://ricette.giallozafferano.it/Insalata-pesche-e-sgombro.html",
+  "pubDate": "Wed, 20 May 2026 15:35:00 +0200",
+  "savedAt": "2026-05-20T18:15:17.213Z",
+  "image": "https://www.giallozafferano.it/images/361-36136/Insalata-pesche-e-sgombro_650x433_wm.jpg"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "intuit-to-lay-off-over-3-000-employees-to-refocus-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Intuit to lay off over 3,000 employees to refocus on AI",
+  "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+  "pubDate": "Wed, 20 May 2026 15:14:31 +0000",
+  "slides": [
+    "Intuit taglia 3.000 persone. Cosa nasconde?",
+    "I licenziati sono il 10% della forza lavoro.",
+    "L'AI sostituisce reparti, non solo ruoli operativi.",
+    "Se usi TurboTax, il tuo prossimo supporto sarà un bot.",
+    "Controlla oggi: quanti umani servono davvero nella tua azienda?"
+  ],
+  "thread_text": [
+    "3.000 persone hanno perso il lavoro. Intuit ha detto grazie all'AI. Non è una riduzione, è una sostituzione.",
+    "L'azienda di TurboTax ha licenziato il 10% della sua forza lavoro. La scusa ufficiale è 'riorganizzazione'. Il motivo reale è che un bot costa meno di un impiegato.",
+    "Non hanno tagliato solo operai digitali. Hanno eliminato interi reparti. Marketing, customer service, compliance. L'AI non sta prendendo il tuo lavoro: sta cancellando il tuo dipartimento.",
+    "Se chiami il supporto TurboTax, il prossimo a risponderti sarà un modello linguistico. Non un umano. Non un supervisore. Una risposta generata, ottimizzata per chiuderti il ticket in fretta.",
+    "Prendi l'organigramma della tua azienda. Cancella tutti quelli che spiegano, riconciliano, approvano o traducono. Quanti umani servono davvero?"
+  ],
+  "video_script": [
+    "Tagliato 10% della forza lavoro.",
+    "Non solo operai: interi reparti saltati.",
+    "Il supporto TurboTax ora è un bot.",
+    "Non chiamerai più un umano.",
+    "Quanti umani servono davvero nella tua azienda?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "3.000 persone hanno perso il lavoro. Intuit ha detto grazie all'AI. Non è una riduzione, è una sostituzione.",
+        "L'azienda di TurboTax ha licenziato il 10% della sua forza lavoro. La scusa ufficiale è 'riorganizzazione'. Il motivo reale è che un bot costa meno di un impiegato.",
+        "Non hanno tagliato solo operai digitali. Hanno eliminato interi reparti. Marketing, customer service, compliance. L'AI non sta prendendo il tuo lavoro: sta cancellando il tuo dipartimento.",
+        "Se chiami il supporto TurboTax, il prossimo a risponderti sarà un modello linguistico. Non un umano. Non un supervisore. Una risposta generata, ottimizzata per chiuderti il ticket in fretta.",
+        "Prendi l'organigramma della tua azienda. Cancella tutti quelli che spiegano, riconciliano, approvano o traducono. Quanti umani servono davvero?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Tagliato 10% della forza lavoro.",
+        "Non solo operai: interi reparti saltati.",
+        "Il supporto TurboTax ora è un bot.",
+        "Non chiamerai più un umano.",
+        "Quanti umani servono davvero nella tua azienda?"
+      ]
+    },
+    "instagram": {
+      "caption": "3.000 persone, il 10% dei dipendenti Intuit, sono state licenziate e l'azienda ha detto che è per concentrarsi sull'intelligenza artificiale. Hanno chiuso interi reparti — marketing, customer service — non solo ruoli operativi. Adesso, se chiami TurboTax per un problema, dall'altra parte non c'è un essere umano ma un bot: programmato per risolverti il ticket in fretta, non per ascoltarti. Prendi l'organigramma della tua azienda e cancella chi spiega, riconcilia o approva: quanti umani servono davvero? 📉🤖💼🗑️"
+    }
+  },
+  "instagram_caption": "3.000 persone, il 10% dei dipendenti Intuit, sono state licenziate e l'azienda ha detto che è per concentrarsi sull'intelligenza artificiale. Hanno chiuso interi reparti — marketing, customer service — non solo ruoli operativi. Adesso, se chiami TurboTax per un problema, dall'altra parte non c'è un essere umano ma un bot: programmato per risolverti il ticket in fretta, non per ascoltarti. Prendi l'organigramma della tua azienda e cancella chi spiega, riconcilia o approva: quanti umani servono davvero? 📉🤖💼🗑️",
+  "carousel_slides": [
+    {
+      "hook": "L'AI cancella il tuo dipartimento",
+      "description": "Intuit non ha tagliato solo ruoli: ha eliminato interi reparti. Marketing, customer service, compliance.",
+      "visual_hint": "organigramma con reparti cancellati",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office building empty"
+    },
+    {
+      "hook": "10% della forza lavoro via",
+      "description": "3.000 persone perse il lavoro. La scusa è riorganizzazione. La realtà: un bot costa meno di un impiegato.",
+      "visual_hint": "grafico a barre discendente",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "TurboTax? Ora è un bot",
+      "description": "Il prossimo supporto TurboTax ti risponderà con un modello linguistico, non un umano. Ticket chiuso in fretta.",
+      "visual_hint": "chatbot che risponde a schermo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer chatbot screen",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sostituzione, non riduzione",
+      "description": "Non è un taglio: è una sostituzione. L'AI prende il posto di intere funzioni aziendali.",
+      "visual_hint": "mano umana sostituita da robot",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot arm",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Quanti umani servono?",
+      "description": "Cancella dall'organigramma chi spiega, riconcilia, approva o traduce. Poi conta quanti umani servono davvero.",
+      "visual_hint": "organigramma barrato con croci",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "whiteboard organization chart",
+      "image": "https://images.pexels.com/photos/9034716/pexels-photo-9034716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2261740845.jpg?w=1024",
+  "savedAt": "2026-05-20T18:11:33.370Z",
+  "sourceId": "6e56061a8de1e5320f65ff2ce23a02c4"
+}

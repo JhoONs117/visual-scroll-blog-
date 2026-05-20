@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ai-search-startups-are-blowing-up",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI search startups are blowing up",
+      "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+      "pubDate": "Wed, 20 May 2026 15:04:45 +0000",
+      "slides": [
+        "Perplexity AI sfida Google? Ecco cosa cambia.",
+        "Le startup di AI search raccolgono milioni.",
+        "Ma Google risponde con un aggiornamento cruciale.",
+        "Chi cerca info oggi deve scegliere con cura.",
+        "Provane una gratis: vedi tu stesso."
+      ],
+      "thread_text": [
+        "Ma Google ha appena risposto con un aggiornamento cruciale. La partita del search si è riaperta.",
+        "Perplexity AI e altre startup di AI search stanno raccogliendo milioni per sfidare il gigante. Non sono più esperimenti.",
+        "Il punto è: Google aggiorna l'algoritmo per restare competitivo, ma l'esperienza di ricerca sta cambiando radicalmente.",
+        "Oggi chi cerca informazioni deve scegliere con cura: motore classico o AI conversationale? Non sono la stessa cosa.",
+        "Costa meno di un abbonamento Spotify. Provane una gratis questa settimana e vedi tu stesso."
+      ],
+      "video_script": [
+        "Google ha risposto. Ecco cosa cambia.",
+        "Startup AI raccolgono milioni per sfidarlo.",
+        "L'aggiornamento di Google è cruciale.",
+        "Oggi devi scegliere con cura.",
+        "Provane una gratis e vedi."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Ma Google ha appena risposto con un aggiornamento cruciale. La partita del search si è riaperta.",
+            "Perplexity AI e altre startup di AI search stanno raccogliendo milioni per sfidare il gigante. Non sono più esperimenti.",
+            "Il punto è: Google aggiorna l'algoritmo per restare competitivo, ma l'esperienza di ricerca sta cambiando radicalmente.",
+            "Oggi chi cerca informazioni deve scegliere con cura: motore classico o AI conversationale? Non sono la stessa cosa.",
+            "Costa meno di un abbonamento Spotify. Provane una gratis questa settimana e vedi tu stesso."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google ha risposto. Ecco cosa cambia.",
+            "Startup AI raccolgono milioni per sfidarlo.",
+            "L'aggiornamento di Google è cruciale.",
+            "Oggi devi scegliere con cura.",
+            "Provane una gratis e vedi."
+          ]
+        },
+        "instagram": {
+          "caption": "Perplexity AI ha appena raccolto 250 milioni per sfidare Google. Non sono più test: startup come Perplexity e altre ti danno risposte dirette invece di link blu, e Google ha già dovuto aggiornare il suo algoritmo per tenere il passo. 🔍 Il punto è che oggi, quando cerchi un'informazione, devi scegliere tra un motore classico e uno conversazionale — non danno lo stesso risultato. 💡 Se usi internet per lavoro, la differenza si sente subito. Costano meno di uno streaming al mese: hai già provato? 🤖"
+        }
+      },
+      "instagram_caption": "Perplexity AI ha appena raccolto 250 milioni per sfidare Google. Non sono più test: startup come Perplexity e altre ti danno risposte dirette invece di link blu, e Google ha già dovuto aggiornare il suo algoritmo per tenere il passo. 🔍 Il punto è che oggi, quando cerchi un'informazione, devi scegliere tra un motore classico e uno conversazionale — non danno lo stesso risultato. 💡 Se usi internet per lavoro, la differenza si sente subito. Costano meno di uno streaming al mese: hai già provato? 🤖",
+      "carousel_slides": [
+        {
+          "hook": "Google risponde. La partita si riapre",
+          "description": "Google ha appena rilasciato un aggiornamento cruciale dell'algoritmo. La sfida delle AI search si fa seria.",
+          "visual_hint": "logo Google vs AI search",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "Google AI search interface"
+        },
+        {
+          "hook": "Milioni per sfidare il gigante",
+          "description": "Perplexity AI e altre startup raccolgono milioni per competere con Google. Non sono più semplici esperimenti.",
+          "visual_hint": "pile di dollari e chip",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "money stack computer chips",
+          "image": "https://images.pexels.com/photos/5920577/pexels-photo-5920577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "L'esperienza di ricerca cambia",
+          "description": "Google aggiorna l'algoritmo per restare competitivo, ma l'esperienza di ricerca sta cambiando radicalmente per tutti.",
+          "visual_hint": "cervello che si illumina",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "search engine results page",
+          "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Motore classico o AI conversazionale?",
+          "description": "Oggi chi cerca informazioni deve scegliere con cura: motore tradizionale o AI conversazionale? Non sono la stessa cosa.",
+          "visual_hint": "mano che tocca schermo",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "person smartphone search bar",
+          "image": "https://images.pexels.com/photos/5448171/pexels-photo-5448171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costa meno di Spotify. Provala",
+          "description": "Costa meno di un abbonamento Spotify. Provane una gratis questa settimana e scopri la differenza tu stesso.",
+          "visual_hint": "telefono con app aperta",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone app glowing screen",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-ai-sign-Getty.jpg?resize=1200,800",
+      "savedAt": "2026-05-20T18:11:45.886Z",
+      "sourceId": "a8b9af8f050e441794ba0fe088e3bbdb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "intuit-to-lay-off-over-3-000-employees-to-refocus-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Intuit to lay off over 3,000 employees to refocus on AI",
+      "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "pubDate": "Wed, 20 May 2026 15:14:31 +0000",
+      "slides": [
+        "Intuit taglia 3.000 persone. Cosa nasconde?",
+        "I licenziati sono il 10% della forza lavoro.",
+        "L'AI sostituisce reparti, non solo ruoli operativi.",
+        "Se usi TurboTax, il tuo prossimo supporto sarà un bot.",
+        "Controlla oggi: quanti umani servono davvero nella tua azienda?"
+      ],
+      "thread_text": [
+        "3.000 persone hanno perso il lavoro. Intuit ha detto grazie all'AI. Non è una riduzione, è una sostituzione.",
+        "L'azienda di TurboTax ha licenziato il 10% della sua forza lavoro. La scusa ufficiale è 'riorganizzazione'. Il motivo reale è che un bot costa meno di un impiegato.",
+        "Non hanno tagliato solo operai digitali. Hanno eliminato interi reparti. Marketing, customer service, compliance. L'AI non sta prendendo il tuo lavoro: sta cancellando il tuo dipartimento.",
+        "Se chiami il supporto TurboTax, il prossimo a risponderti sarà un modello linguistico. Non un umano. Non un supervisore. Una risposta generata, ottimizzata per chiuderti il ticket in fretta.",
+        "Prendi l'organigramma della tua azienda. Cancella tutti quelli che spiegano, riconciliano, approvano o traducono. Quanti umani servono davvero?"
+      ],
+      "video_script": [
+        "Tagliato 10% della forza lavoro.",
+        "Non solo operai: interi reparti saltati.",
+        "Il supporto TurboTax ora è un bot.",
+        "Non chiamerai più un umano.",
+        "Quanti umani servono davvero nella tua azienda?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "3.000 persone hanno perso il lavoro. Intuit ha detto grazie all'AI. Non è una riduzione, è una sostituzione.",
+            "L'azienda di TurboTax ha licenziato il 10% della sua forza lavoro. La scusa ufficiale è 'riorganizzazione'. Il motivo reale è che un bot costa meno di un impiegato.",
+            "Non hanno tagliato solo operai digitali. Hanno eliminato interi reparti. Marketing, customer service, compliance. L'AI non sta prendendo il tuo lavoro: sta cancellando il tuo dipartimento.",
+            "Se chiami il supporto TurboTax, il prossimo a risponderti sarà un modello linguistico. Non un umano. Non un supervisore. Una risposta generata, ottimizzata per chiuderti il ticket in fretta.",
+            "Prendi l'organigramma della tua azienda. Cancella tutti quelli che spiegano, riconciliano, approvano o traducono. Quanti umani servono davvero?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Tagliato 10% della forza lavoro.",
+            "Non solo operai: interi reparti saltati.",
+            "Il supporto TurboTax ora è un bot.",
+            "Non chiamerai più un umano.",
+            "Quanti umani servono davvero nella tua azienda?"
+          ]
+        },
+        "instagram": {
+          "caption": "3.000 persone, il 10% dei dipendenti Intuit, sono state licenziate e l'azienda ha detto che è per concentrarsi sull'intelligenza artificiale. Hanno chiuso interi reparti — marketing, customer service — non solo ruoli operativi. Adesso, se chiami TurboTax per un problema, dall'altra parte non c'è un essere umano ma un bot: programmato per risolverti il ticket in fretta, non per ascoltarti. Prendi l'organigramma della tua azienda e cancella chi spiega, riconcilia o approva: quanti umani servono davvero? 📉🤖💼🗑️"
+        }
+      },
+      "instagram_caption": "3.000 persone, il 10% dei dipendenti Intuit, sono state licenziate e l'azienda ha detto che è per concentrarsi sull'intelligenza artificiale. Hanno chiuso interi reparti — marketing, customer service — non solo ruoli operativi. Adesso, se chiami TurboTax per un problema, dall'altra parte non c'è un essere umano ma un bot: programmato per risolverti il ticket in fretta, non per ascoltarti. Prendi l'organigramma della tua azienda e cancella chi spiega, riconcilia o approva: quanti umani servono davvero? 📉🤖💼🗑️",
+      "carousel_slides": [
+        {
+          "hook": "L'AI cancella il tuo dipartimento",
+          "description": "Intuit non ha tagliato solo ruoli: ha eliminato interi reparti. Marketing, customer service, compliance.",
+          "visual_hint": "organigramma con reparti cancellati",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "office building empty"
+        },
+        {
+          "hook": "10% della forza lavoro via",
+          "description": "3.000 persone perse il lavoro. La scusa è riorganizzazione. La realtà: un bot costa meno di un impiegato.",
+          "visual_hint": "grafico a barre discendente",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "TurboTax? Ora è un bot",
+          "description": "Il prossimo supporto TurboTax ti risponderà con un modello linguistico, non un umano. Ticket chiuso in fretta.",
+          "visual_hint": "chatbot che risponde a schermo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer chatbot screen",
+          "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sostituzione, non riduzione",
+          "description": "Non è un taglio: è una sostituzione. L'AI prende il posto di intere funzioni aziendali.",
+          "visual_hint": "mano umana sostituita da robot",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "factory robot arm",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Quanti umani servono?",
+          "description": "Cancella dall'organigramma chi spiega, riconcilia, approva o traduce. Poi conta quanti umani servono davvero.",
+          "visual_hint": "organigramma barrato con croci",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "whiteboard organization chart",
+          "image": "https://images.pexels.com/photos/9034716/pexels-photo-9034716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2261740845.jpg?w=1024",
+      "savedAt": "2026-05-20T18:11:33.370Z",
+      "sourceId": "6e56061a8de1e5320f65ff2ce23a02c4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-barrels-towards-ipo-that-may-happen-in-sept",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI barrels towards IPO that may happen in September",
+      "link": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
+      "pubDate": "Wed, 20 May 2026 17:24:24 +0000",
+      "slides": [
+        "OpenAI punta all'IPO a settembre, ma i conti restano segreti?",
+        "I ricavi crescono, ma i costi operativi divorano il margine.",
+        "Il modello di business non ha ancora dimostrato profitti sostenibili.",
+        "Investitori retail potrebbero comprare azioni senza dati chiari.",
+        "Verifica tu stesso i bilanci prima di qualsiasi mossa."
+      ],
+      "thread_text": [
+        "OpenAI punta a un'IPO da miliardi a settembre, ma i suoi conti sono ancora un segreto. Nessuno sa quanto guadagna davvero o se brucia più cassa di quanta ne incassa.",
+        "I ricavi crescono, è vero. Ma i costi operativi crescono più velocemente. Servire, addestrare e mantenere modelli come GPT costa cifre che pochi altri progetti reggono.",
+        "Finora il modello non ha mai dimostrato profitti sostenibili. Non è un'opinione: i dati pubblici disponibili mostrano margini negativi o comunque opachi.",
+        "Se l'IPO va in porto, gli investitori retail potrebbero comprare azioni senza bilanci chiari. In pratica, scommetteresti su un'azienda che non ti dice quanto perde davvero.",
+        "Controlla tu stesso i bilanci trimestrali prima di qualsiasi mossa. Trovi i documenti sul sito SEC o su EDGAR. Se non lo fai, stai comprando un biglietto senza prezzo."
+      ],
+      "video_script": [
+        "OpenAI vuole quotarsi in borsa a settembre.",
+        "Ma i conti restano un segreto.",
+        "I ricavi salgono, i costi salgono di più.",
+        "Profitti sostenibili? Mai dimostrati.",
+        "Controlla i bilanci prima di investire."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "OpenAI punta a un'IPO da miliardi a settembre, ma i suoi conti sono ancora un segreto. Nessuno sa quanto guadagna davvero o se brucia più cassa di quanta ne incassa.",
+            "I ricavi crescono, è vero. Ma i costi operativi crescono più velocemente. Servire, addestrare e mantenere modelli come GPT costa cifre che pochi altri progetti reggono.",
+            "Finora il modello non ha mai dimostrato profitti sostenibili. Non è un'opinione: i dati pubblici disponibili mostrano margini negativi o comunque opachi.",
+            "Se l'IPO va in porto, gli investitori retail potrebbero comprare azioni senza bilanci chiari. In pratica, scommetteresti su un'azienda che non ti dice quanto perde davvero.",
+            "Controlla tu stesso i bilanci trimestrali prima di qualsiasi mossa. Trovi i documenti sul sito SEC o su EDGAR. Se non lo fai, stai comprando un biglietto senza prezzo."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI vuole quotarsi in borsa a settembre.",
+            "Ma i conti restano un segreto.",
+            "I ricavi salgono, i costi salgono di più.",
+            "Profitti sostenibili? Mai dimostrati.",
+            "Controlla i bilanci prima di investire."
+          ]
+        },
+        "instagram": {
+          "caption": "A settembre OpenAI potrebbe sbarcare in Borsa, ma i suoi bilanci restano un buco nero. I ricavi con l'AI crescono, certo — ma le spese per tenere in piedi modelli come GPT corrono ancora più veloci. 🚂 Nessun trimestre ha finora mostrato profitti certi. Per chi lavora o investe nel settore, significa operare alla cieca: se arriva l'IPO, i retail compreranno azioni senza sapere quanto l’azienda perde davvero. 🔍 I conti sono su EDGAR, ma devi cercarteli tu. Scommetteresti su un'azienda che non mostra il conto? 💸"
+        }
+      },
+      "instagram_caption": "A settembre OpenAI potrebbe sbarcare in Borsa, ma i suoi bilanci restano un buco nero. I ricavi con l'AI crescono, certo — ma le spese per tenere in piedi modelli come GPT corrono ancora più veloci. 🚂 Nessun trimestre ha finora mostrato profitti certi. Per chi lavora o investe nel settore, significa operare alla cieca: se arriva l'IPO, i retail compreranno azioni senza sapere quanto l’azienda perde davvero. 🔍 I conti sono su EDGAR, ma devi cercarteli tu. Scommetteresti su un'azienda che non mostra il conto? 💸",
+      "carousel_slides": [
+        {
+          "hook": "Profitti? Ancora un segreto",
+          "description": "OpenAI punta a IPO miliardaria a settembre ma i conti restano segreti. Nessun dato su guadagni reali o cassa bruciata.",
+          "visual_hint": "Porta chiusa con lucchetto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "locked door server room"
+        },
+        {
+          "hook": "Ricavi sì, costi ancora più su",
+          "description": "I ricavi crescono ma i costi operativi crescono più velocemente. Addestrare GPT costa cifre che pochi progetti reggono.",
+          "visual_hint": "Fiamme che divorano denaro",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "burning money chart",
+          "image": "https://images.pexels.com/photos/4588675/pexels-photo-4588675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Mai dimostrato profitti stabili",
+          "description": "Il modello non ha mai dimostrato profitti sostenibili. I dati pubblici mostrano margini negativi o opachi.",
+          "visual_hint": "Grafico in rosso con punto interrogativo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "red declining graph",
+          "image": "https://images.pexels.com/photos/8369831/pexels-photo-8369831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Comprare azioni senza vedere bilanci",
+          "description": "Investitori retail potrebbero comprare azioni senza bilanci chiari. Scommetteresti su un'azienda che non dice quanto perde?",
+          "visual_hint": "Mano che firma contratto vuoto",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand signing blank paper",
+          "image": "https://images.pexels.com/photos/8015673/pexels-photo-8015673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Controlla i bilanci prima di investire",
+          "description": "Verifica tu stesso i bilanci trimestrali su SEC o EDGAR. Non farlo significa comprare un biglietto senza prezzo.",
+          "visual_hint": "Lente d'ingrandimento su documento SEC",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "magnifying glass SEC document",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
+      "savedAt": "2026-05-20T18:11:19.576Z",
+      "sourceId": "1c43383d7ae7249375e022dfa68d53b2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "figma-adds-an-ai-assistant-to-its-collaborative-ca",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -22921,6 +23233,90 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "agent": "food",
+      "slug": "insalata-pesche-e-sgombro",
+      "sourceId": "443349560188ca776df780c747578088",
+      "dish_type": "salad",
+      "signature_ingredients": [
+        "pesche",
+        "sgombro",
+        "burrata"
+      ],
+      "title": "Insalata pesche e sgombro",
+      "slides": [
+        "Insalata fresca con pesche e sgombro",
+        "Pesche, sgombro, burrata, songino e pane",
+        "Taglia le pesche a spicchi",
+        "Tosta il pane e cuoci le pesche",
+        "Completa con burrata e crostini"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Insalata fresca con pesche e sgombro",
+          "description": "Un’insalata estiva che unisce la dolcezza delle pesche alla sapidità dello sgombro, creando un equilibrio perfetto.",
+          "visual_hint": "Piatto colorato con pesche e sgombro",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory peach mackerel salad"
+        },
+        {
+          "hook": "Gli ingredienti essenziali",
+          "description": "Pesche mature, sgombro affumicato, burrata cremosa, songino tenero e crostini di pane tostato.",
+          "visual_hint": "Ingredienti disposti su un tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory peach burrata ingredients",
+          "image": "https://images.pexels.com/photos/20184722/pexels-photo-20184722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Taglia le pesche a spicchi",
+          "description": "Affetta le pesche a spicchi sottili per esaltare la loro dolcezza e garantire una consistenza perfetta.",
+          "visual_hint": "Mani che tagliano pesche a spicchi",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "slicing peaches salad",
+          "image": "https://images.pexels.com/photos/12509561/pexels-photo-12509561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tosta il pane e cuoci le pesche",
+          "description": "Tosta le fette di pane in padella, poi scottale leggermente con le pesche per un contrasto caldo-fresco.",
+          "visual_hint": "Padella con pane tostato e pesche",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "pan seared peaches bread",
+          "image": "https://images.pexels.com/photos/14043698/pexels-photo-14043698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Completa con burrata e crostini",
+          "description": "Adagia la burrata al centro, disponi i crostini intorno e servi l'insalata tiepida per un sapore unico.",
+          "visual_hint": "Piatto finito con burrata e crostini",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory peach burrata crostini",
+          "image": "https://images.pexels.com/photos/5857349/pexels-photo-5857349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "instagram_caption": "Estate in un piatto: pesche caramellate, sgombro affumicato e quella burrata che scioglie ogni cosa. 🍑🐟 Prendo le pesche, le taglio a spicchi e le scotto appena in padella per sentirle dolci. Poi via: letto di songino, sgombro sfilacciato, una generosa burrata e crostini croccanti di pane tostato. Fredda, fresca, perfetta per una cena senza forno. Provala prima che le pesche finiscano 🌿",
+      "video_script": [
+        "Prendo l'insalata con pesche e sgombro.",
+        "Aggiungo pesche, sgombro, burrata, songino e pane.",
+        "Taglio le pesche a spicchi così.",
+        "Tosto il pane e cuocio le pesche in padella.",
+        "Completo con burrata e crostini croccanti."
+      ],
+      "thread_text": [
+        "Burrata che cola sullo sgombro affumicato e pesche caramellate. Estate in un piatto, ma con un twist che non ti aspetti. Ti spiego come portarlo a tavola in 5 minuti.",
+        "Base: songino fresco, sgombro a scaglie (quello buono in olio d'oliva), pesche non troppo mature e una burrata cremosa. Aggiungi pane raffermo per crostini.",
+        "Taglia le pesche a spicchi spessi. In padella antiaderente, tosta il pane a cubetti e tienilo da parte. Nella stessa padella, rosola le pesche un minuto per lato: devono caramellare senza sfaldarsi.",
+        "Componi il piatto: songino, sgombro, pesche tiepide, qualche cubetto di pane tostato. Poi apri la burrata al centro e lascia che faccia la sua magia. Un filo d'olio crudo e sale fiocco.",
+        "Il trucco? Aggiungi una macinata di pepe nero e qualche foglia di menta fresca prima di servire. Dolce, salato, cremoso e croccante. Provala e dimmi com'è andata 👇"
+      ],
+      "link": "https://ricette.giallozafferano.it/Insalata-pesche-e-sgombro.html",
+      "pubDate": "Wed, 20 May 2026 15:35:00 +0200",
+      "savedAt": "2026-05-20T18:15:17.213Z",
+      "image": "https://www.giallozafferano.it/images/361-36136/Insalata-pesche-e-sgombro_650x433_wm.jpg"
+    },
     {
       "agent": "food",
       "slug": "pasta-con-zucchine-pancetta-e-pecorino",

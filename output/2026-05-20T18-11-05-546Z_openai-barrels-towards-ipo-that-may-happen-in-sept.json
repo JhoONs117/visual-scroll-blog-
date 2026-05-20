@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-barrels-towards-ipo-that-may-happen-in-sept",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI barrels towards IPO that may happen in September",
+  "link": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
+  "pubDate": "Wed, 20 May 2026 17:24:24 +0000",
+  "slides": [
+    "OpenAI punta all'IPO a settembre, ma i conti restano segreti?",
+    "I ricavi crescono, ma i costi operativi divorano il margine.",
+    "Il modello di business non ha ancora dimostrato profitti sostenibili.",
+    "Investitori retail potrebbero comprare azioni senza dati chiari.",
+    "Verifica tu stesso i bilanci prima di qualsiasi mossa."
+  ],
+  "thread_text": [
+    "OpenAI punta a un'IPO da miliardi a settembre, ma i suoi conti sono ancora un segreto. Nessuno sa quanto guadagna davvero o se brucia più cassa di quanta ne incassa.",
+    "I ricavi crescono, è vero. Ma i costi operativi crescono più velocemente. Servire, addestrare e mantenere modelli come GPT costa cifre che pochi altri progetti reggono.",
+    "Finora il modello non ha mai dimostrato profitti sostenibili. Non è un'opinione: i dati pubblici disponibili mostrano margini negativi o comunque opachi.",
+    "Se l'IPO va in porto, gli investitori retail potrebbero comprare azioni senza bilanci chiari. In pratica, scommetteresti su un'azienda che non ti dice quanto perde davvero.",
+    "Controlla tu stesso i bilanci trimestrali prima di qualsiasi mossa. Trovi i documenti sul sito SEC o su EDGAR. Se non lo fai, stai comprando un biglietto senza prezzo."
+  ],
+  "video_script": [
+    "OpenAI vuole quotarsi in borsa a settembre.",
+    "Ma i conti restano un segreto.",
+    "I ricavi salgono, i costi salgono di più.",
+    "Profitti sostenibili? Mai dimostrati.",
+    "Controlla i bilanci prima di investire."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "OpenAI punta a un'IPO da miliardi a settembre, ma i suoi conti sono ancora un segreto. Nessuno sa quanto guadagna davvero o se brucia più cassa di quanta ne incassa.",
+        "I ricavi crescono, è vero. Ma i costi operativi crescono più velocemente. Servire, addestrare e mantenere modelli come GPT costa cifre che pochi altri progetti reggono.",
+        "Finora il modello non ha mai dimostrato profitti sostenibili. Non è un'opinione: i dati pubblici disponibili mostrano margini negativi o comunque opachi.",
+        "Se l'IPO va in porto, gli investitori retail potrebbero comprare azioni senza bilanci chiari. In pratica, scommetteresti su un'azienda che non ti dice quanto perde davvero.",
+        "Controlla tu stesso i bilanci trimestrali prima di qualsiasi mossa. Trovi i documenti sul sito SEC o su EDGAR. Se non lo fai, stai comprando un biglietto senza prezzo."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI vuole quotarsi in borsa a settembre.",
+        "Ma i conti restano un segreto.",
+        "I ricavi salgono, i costi salgono di più.",
+        "Profitti sostenibili? Mai dimostrati.",
+        "Controlla i bilanci prima di investire."
+      ]
+    },
+    "instagram": {
+      "caption": "A settembre OpenAI potrebbe sbarcare in Borsa, ma i suoi bilanci restano un buco nero. I ricavi con l'AI crescono, certo — ma le spese per tenere in piedi modelli come GPT corrono ancora più veloci. 🚂 Nessun trimestre ha finora mostrato profitti certi. Per chi lavora o investe nel settore, significa operare alla cieca: se arriva l'IPO, i retail compreranno azioni senza sapere quanto l’azienda perde davvero. 🔍 I conti sono su EDGAR, ma devi cercarteli tu. Scommetteresti su un'azienda che non mostra il conto? 💸"
+    }
+  },
+  "instagram_caption": "A settembre OpenAI potrebbe sbarcare in Borsa, ma i suoi bilanci restano un buco nero. I ricavi con l'AI crescono, certo — ma le spese per tenere in piedi modelli come GPT corrono ancora più veloci. 🚂 Nessun trimestre ha finora mostrato profitti certi. Per chi lavora o investe nel settore, significa operare alla cieca: se arriva l'IPO, i retail compreranno azioni senza sapere quanto l’azienda perde davvero. 🔍 I conti sono su EDGAR, ma devi cercarteli tu. Scommetteresti su un'azienda che non mostra il conto? 💸",
+  "carousel_slides": [
+    {
+      "hook": "Profitti? Ancora un segreto",
+      "description": "OpenAI punta a IPO miliardaria a settembre ma i conti restano segreti. Nessun dato su guadagni reali o cassa bruciata.",
+      "visual_hint": "Porta chiusa con lucchetto",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "locked door server room"
+    },
+    {
+      "hook": "Ricavi sì, costi ancora più su",
+      "description": "I ricavi crescono ma i costi operativi crescono più velocemente. Addestrare GPT costa cifre che pochi progetti reggono.",
+      "visual_hint": "Fiamme che divorano denaro",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "burning money chart",
+      "image": "https://images.pexels.com/photos/4588675/pexels-photo-4588675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Mai dimostrato profitti stabili",
+      "description": "Il modello non ha mai dimostrato profitti sostenibili. I dati pubblici mostrano margini negativi o opachi.",
+      "visual_hint": "Grafico in rosso con punto interrogativo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "red declining graph",
+      "image": "https://images.pexels.com/photos/8369831/pexels-photo-8369831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Comprare azioni senza vedere bilanci",
+      "description": "Investitori retail potrebbero comprare azioni senza bilanci chiari. Scommetteresti su un'azienda che non dice quanto perde?",
+      "visual_hint": "Mano che firma contratto vuoto",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand signing blank paper",
+      "image": "https://images.pexels.com/photos/8015673/pexels-photo-8015673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controlla i bilanci prima di investire",
+      "description": "Verifica tu stesso i bilanci trimestrali su SEC o EDGAR. Non farlo significa comprare un biglietto senza prezzo.",
+      "visual_hint": "Lente d'ingrandimento su documento SEC",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "magnifying glass SEC document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
+  "savedAt": "2026-05-20T18:11:19.576Z",
+  "sourceId": "1c43383d7ae7249375e022dfa68d53b2"
+}
