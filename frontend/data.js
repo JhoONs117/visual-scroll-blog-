@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "spotify-and-universal-music-strike-deal-allowing-f",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+    "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+    "pubDate": "Thu, 21 May 2026 19:45:00 +0000",
+    "slides": [
+      "Spotify e Universal firmano: remix AI ora legali?",
+      "L'accordo concede licenze per cover generate artificialmente",
+      "Ma gli artisti originali scelgono se condividere i ricavi",
+      "Chi remixa potrebbe dover pagare per ogni traccia",
+      "Verifica oggi se i tuoi brani preferiti sono inclusi"
+    ],
+    "thread_text": [
+      "I tuoi artisti preferiti potrebbero guadagnare dai remix AI della loro musica senza muovere un dito. Succede ora, non tra cinque anni.",
+      "Spotify e Universal hanno firmato un accordo che concede licenze per cover generate artificialmente. Chi remixa può farlo in modo legale.",
+      "Il punto chiave: gli artisti originali hanno diritto di veto. Se dicono sì, condividono i ricavi. Se dicono no, niente remix.",
+      "Chi produce la cover AI potrebbe dover pagare una quota per ogni traccia. Non è gratis come sembra, è un modello di business.",
+      "Oggi puoi verificare se i tuoi brani preferiti sono inclusi nell'accordo. Se non lo sono, il remix resta illegale."
+    ],
+    "video_script": [
+      "Spotify e Universal hanno firmato un accordo pazzesco.",
+      "Ora le cover fatte con AI sono legali.",
+      "Ma gli artisti originali decidono se guadagnarci.",
+      "Chi remixa paga per ogni traccia usata.",
+      "Controlla se la tua canzone preferita è nella lista."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "I tuoi artisti preferiti potrebbero guadagnare dai remix AI della loro musica senza muovere un dito. Succede ora, non tra cinque anni.",
+          "Spotify e Universal hanno firmato un accordo che concede licenze per cover generate artificialmente. Chi remixa può farlo in modo legale.",
+          "Il punto chiave: gli artisti originali hanno diritto di veto. Se dicono sì, condividono i ricavi. Se dicono no, niente remix.",
+          "Chi produce la cover AI potrebbe dover pagare una quota per ogni traccia. Non è gratis come sembra, è un modello di business.",
+          "Oggi puoi verificare se i tuoi brani preferiti sono inclusi nell'accordo. Se non lo sono, il remix resta illegale."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Spotify e Universal hanno firmato un accordo pazzesco.",
+          "Ora le cover fatte con AI sono legali.",
+          "Ma gli artisti originali decidono se guadagnarci.",
+          "Chi remixa paga per ogni traccia usata.",
+          "Controlla se la tua canzone preferita è nella lista."
+        ]
+      },
+      "instagram": {
+        "caption": "Spotify e Universal hanno appena firmato un accordo che permette di creare remix e cover generate dall’intelligenza artificiale usando brani originali, ma solo dietro licenza. 🎵 Fino a ieri farlo era illegale, ora chi produce può pagare una quota per ogni traccia e farlo in modo regolare. Il punto chiave: gli artisti originali possono dire di no ai remix, e se dicono sì condividono i ricavi. 🚫💸 Per te significa che i tuoi brani preferiti potrebbero finire in versioni AI autorizzate — o restare blindati. Puoi già verificare se una canzone è inclusa nell'accordo, altrimenti il remix resta fuorilegge. 🧐"
+      }
+    },
+    "instagram_caption": "Spotify e Universal hanno appena firmato un accordo che permette di creare remix e cover generate dall’intelligenza artificiale usando brani originali, ma solo dietro licenza. 🎵 Fino a ieri farlo era illegale, ora chi produce può pagare una quota per ogni traccia e farlo in modo regolare. Il punto chiave: gli artisti originali possono dire di no ai remix, e se dicono sì condividono i ricavi. 🚫💸 Per te significa che i tuoi brani preferiti potrebbero finire in versioni AI autorizzate — o restare blindati. Puoi già verificare se una canzone è inclusa nell'accordo, altrimenti il remix resta fuorilegge. 🧐",
+    "carousel_slides": [
+      {
+        "hook": "Licenza di veto ai tuoi artisti preferiti",
+        "description": "Gli artisti decidono se condividere i ricavi dai remix AI della loro musica.",
+        "visual_hint": "Icona di un disco in licenza",
+        "layout_type": "hero",
+        "icon": "heart",
+        "image_query": "music recording studio equipment"
+      },
+      {
+        "hook": "Remix AI legali ora realtà",
+        "description": "Spotify e Universal firmano accordo: licenze per cover generate artificialmente.",
+        "visual_hint": "Loghi Spotify e Universal affiancati",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "spotify logo green background",
+        "image": "https://images.pexels.com/photos/16349337/pexels-photo-16349337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costi nascosti dietro i remix",
+        "description": "Chi produce cover AI paga una quota per traccia. Non è gratis.",
+        "visual_hint": "Simbolo del dollaro con nota musicale",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "money notes music sheet",
+        "image": "https://images.pexels.com/photos/18940651/pexels-photo-18940651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ricavi condivisi o niente remix",
+        "description": "Artisti decidono: sì = condividono ricavi, no = nessun remix.",
+        "visual_hint": "Due mani che stringono accordo",
+        "layout_type": "human-hand",
+        "icon": "waves",
+        "image_query": "handshake business meeting",
+        "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Verifica se i tuoi brani sono inclusi",
+        "description": "Controlla oggi. Se il brano non è incluso, remix illegale.",
+        "visual_hint": "Lente d'ingrandimento su playlist",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "magnifying glass music app",
+        "image": "https://images.pexels.com/photos/5562089/pexels-photo-5562089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/spotify-app-GettyImages-1689920063-e1702479483636.jpeg?resize=1200,676",
+    "savedAt": "2026-05-21T21:22:34.719Z",
+    "sourceId": "00d321dd1852239765eca2705a20b518"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "spotify-adds-ai-powered-q-a-and-briefing-generatio",
     "prompt_version": "1.0.0",
     "status": "published",
