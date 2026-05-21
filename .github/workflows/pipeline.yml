@@ -28,13 +28,6 @@ jobs:
           MAX_NEW_ARTICLES: '4'
         run: node core/run-agent.js ai-news
 
-      - name: Esegui pipeline food (legacy)
-        env:
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          MAX_NEW_FOOD_ARTICLES: '3'
-        run: node run-food.js || echo "⚠️ Food pipeline failed, continuing"
-
       - name: Run food agent
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
