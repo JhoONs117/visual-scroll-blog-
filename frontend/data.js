@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "irisgo-a-startup-backed-by-andrew-ng-looks-to-beco",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+    "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+    "pubDate": "Wed, 20 May 2026 19:47:20 +0000",
+    "slides": [
+      "Andrew Ng backed this AI—but what does it actually do?",
+      "It controls your desktop apps via voice or text.",
+      "Yet it doesn't need cloud access to run.",
+      "Now your daily workflows can be automated completely.",
+      "Try automating one real task today—and see what breaks."
+    ],
+    "thread_text": [
+      "Funziona offline. Controlla il tuo computer con la voce. E Andrew Ng lo ha finanziato. Questo è il progetto AI che pochi conoscono.",
+      "Non parliamo di un assistente cloud. Questo software esegue comandi vocali o testuali direttamente sul tuo desktop.",
+      "Niente invio di dati a server esterni. Tutto rimane sulla tua macchina. Privacy e velocità reali.",
+      "Il risultato? Puoi automatizzare flussi di lavoro interi: aprire app, scrivere email, compilare moduli senza toccare mouse o tastiera.",
+      "Prova a automatizzare un'attività ripetitiva oggi. Vedi cosa si rompe. Poi aggiustalo. È così che impari cosa può davvero fare."
+    ],
+    "video_script": [
+      "Andrew Ng ha finanziato questa AI.",
+      "Controlla il tuo computer con la voce.",
+      "E funziona senza internet.",
+      "Automatizzi tutto il lavoro ripetitivo.",
+      "Provane una oggi e vedi cosa succede."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Funziona offline. Controlla il tuo computer con la voce. E Andrew Ng lo ha finanziato. Questo è il progetto AI che pochi conoscono.",
+          "Non parliamo di un assistente cloud. Questo software esegue comandi vocali o testuali direttamente sul tuo desktop.",
+          "Niente invio di dati a server esterni. Tutto rimane sulla tua macchina. Privacy e velocità reali.",
+          "Il risultato? Puoi automatizzare flussi di lavoro interi: aprire app, scrivere email, compilare moduli senza toccare mouse o tastiera.",
+          "Prova a automatizzare un'attività ripetitiva oggi. Vedi cosa si rompe. Poi aggiustalo. È così che impari cosa può davvero fare."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Andrew Ng ha finanziato questa AI.",
+          "Controlla il tuo computer con la voce.",
+          "E funziona senza internet.",
+          "Automatizzi tutto il lavoro ripetitivo.",
+          "Provane una oggi e vedi cosa succede."
+        ]
+      },
+      "instagram": {
+        "caption": "Andrew Ng, uno dei padri dell'intelligenza artificiale moderna, ha appena scommesso su una startup chiamata IrisGo. Si tratta di un assistente che non vive nel cloud, ma gira interamente sul tuo computer 🖥️. Puoi dargli comandi a voce o scrivergli, e lui apre app, compila moduli o scrive email per te, senza mai mandare i tuoi dati su server esterni 🔐. Per chi passa ore su ripetitivi clic e digitazioni, significa riprendersi tempo e privacy in un colpo solo. Hai già un'attività noiosa da provare ad automatizzare oggi?"
+      }
+    },
+    "instagram_caption": "Andrew Ng, uno dei padri dell'intelligenza artificiale moderna, ha appena scommesso su una startup chiamata IrisGo. Si tratta di un assistente che non vive nel cloud, ma gira interamente sul tuo computer 🖥️. Puoi dargli comandi a voce o scrivergli, e lui apre app, compila moduli o scrive email per te, senza mai mandare i tuoi dati su server esterni 🔐. Per chi passa ore su ripetitivi clic e digitazioni, significa riprendersi tempo e privacy in un colpo solo. Hai già un'attività noiosa da provare ad automatizzare oggi?",
+    "carousel_slides": [
+      {
+        "hook": "AI che funziona offline",
+        "description": "Funziona offline. Controlla il computer con la voce. E Andrew Ng lo ha finanziato.",
+        "visual_hint": "computer desktop con chip",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "desktop computer chip"
+      },
+      {
+        "hook": "Parla al tuo PC",
+        "description": "Non è un assistente cloud. Esegue comandi vocali o testuali direttamente sul tuo desktop.",
+        "visual_hint": "mano che indica schermo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "hand pointing screen",
+        "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Tutto rimane in locale",
+        "description": "Niente invio di dati a server esterni. Privacy e velocità reali sulla tua macchina.",
+        "visual_hint": "lucchetto su hard disk",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "lock hard drive",
+        "image": "https://images.pexels.com/photos/28461160/pexels-photo-28461160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Automatizza senza toccare",
+        "description": "Apri app, scrivi email, compila moduli senza mouse o tastiera. Workflow interi automatizzati.",
+        "visual_hint": "mano che fluttua sopra mouse",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand hovering mouse",
+        "image": "https://images.pexels.com/photos/18966481/pexels-photo-18966481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova e rompi qualcosa",
+        "description": "Automatizza un'attività ripetitiva oggi. Vedi cosa si rompe. Poi aggiustalo.",
+        "visual_hint": "ingranaggio rotto con click",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "broken gear click",
+        "image": "https://images.pexels.com/photos/7240351/pexels-photo-7240351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Arnold-Jeffrey-Andrew-Ng36.jpg?resize=1200,900",
+    "savedAt": "2026-05-21T08:37:57.303Z",
+    "sourceId": "4f3ec8edc1c281b12fdf720d00172e30"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "musk-s-xai-is-being-sued-over-its-data-center-gene",
     "prompt_version": "1.0.0",
     "status": "published",
