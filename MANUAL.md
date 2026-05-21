@@ -1318,23 +1318,48 @@ Il sistema V2 genera video verticali 9:16 (1080×1920) usando le slide del carou
 3. Seleziona **▶ Low** dal dropdown qualità video — viene pushato su git automaticamente
 4. Clicca **💾 Salva per video** — aspetta "✅ 5 slide salvate"
    - Il browser scarica `slide0.png`…`slide4.png` automaticamente (atterrano in `/home/miki/visual-scroll-blog/`)
-5. Aspetta che il CI (ogni 2h) generi il piano video — oppure triggeralo manualmente da GitHub Actions → Run workflow
 
-**Nel terminale (UN SOLO COMANDO):**
+**Nel terminale (DUE COMANDI):**
 ```bash
+# 1. Sincronizza le modifiche di Railway (approved + quality)
+git pull
+
+# 2. Genera il piano video per tutti gli articoli pending (approved + quality + senza scenes)
+node video/generate-video-plan.js --agent ai-news --ci
+
+# 3. Importa PNG, renderizza, build, commit, push — tutto automatico
 node video/render-pending.js
 ```
 
-Il comando fa tutto in automatico:
+`render-pending.js` fa tutto in automatico:
 - Importa le PNG da `/home/miki/visual-scroll-blog/slide*.png` nella cartella corretta
 - Renderizza tutti gli articoli pronti (approved + quality + scenes + PNG)
 - Esegue `build-data-agents.js`
 - Committa e pusha su git
 - Railway rideploya in ~1 min → player video appare su `carousel.html`
 
-**Non serve nient'altro.**
+### Se generate-video-plan --ci non trova articoli dopo git pull
 
-### Generare il piano video manualmente (senza aspettare il CI)
+Railway a volte non riesce a pushare le modifiche (approved + quality) quando il CI gira in contemporanea. In quel caso `git pull` non porta nulla di nuovo.
+
+**Workaround — imposta direttamente in locale:**
+```bash
+# Trova il file (ls output/ | grep parola-del-titolo)
+node -e "
+const fs = require('fs');
+const f = 'output/<timestamp>_<slug>.json';
+const a = JSON.parse(fs.readFileSync(f));
+a.status = 'approved';
+a.render_quality = 'low';
+a.render_template = 'slide_deck';
+if (!a.render_status) a.render_status = {};
+fs.writeFileSync(f, JSON.stringify(a, null, 2));
+console.log('ok');
+"
+```
+Poi rilancia `generate-video-plan.js --ci` e `render-pending.js`.
+
+### Generare il piano per un singolo articolo (con slug specifico)
 
 ```bash
 node video/generate-video-plan.js --agent ai-news --slug <slug>
