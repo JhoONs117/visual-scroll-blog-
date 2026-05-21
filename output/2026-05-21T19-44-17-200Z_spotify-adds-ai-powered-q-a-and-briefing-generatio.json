@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spotify-adds-ai-powered-q-a-and-briefing-generatio",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+  "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+  "pubDate": "Thu, 21 May 2026 15:27:00 +0000",
+  "slides": [
+    "Spotify lancia podcast che ti rispondono?",
+    "Non solo ascolto: ora l'AI analizza ogni episodio.",
+    "Le domande degli utenti generano briefing unici in tempo reale.",
+    "Salti ore di noia: trovi subito il succo del podcast.",
+    "Prova a chiedere qualcosa a un episodio oggi stesso."
+  ],
+  "thread_text": [
+    "Puoi chiedere qualcosa a un episodio podcast e lui ti risponde. Non è il futuro, è già su Spotify.",
+    "Un motore AI analizza ogni parola di ogni episodio. Trasforma ore di chiacchiere in dati pronti all'uso.",
+    "Le tue domande generano briefing personalizzati in tempo reale. Niente più ricerca manuale nei minuti persi.",
+    "Salta direttamente ai passaggi che ti servono. Un episodio da 90 minuti diventa 3 minuti di contenuti utili.",
+    "Costa meno di un abbonamento Spotify. Testalo su un episodio qualunque oggi stesso."
+  ],
+  "video_script": [
+    "Immagina di fare una domanda a un podcast.",
+    "E lui ti risponde subito.",
+    "Spotify analizza ogni singolo episodio.",
+    "Le tue domande diventano riassunti su misura.",
+    "Trovi il succo in pochi secondi."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Puoi chiedere qualcosa a un episodio podcast e lui ti risponde. Non è il futuro, è già su Spotify.",
+        "Un motore AI analizza ogni parola di ogni episodio. Trasforma ore di chiacchiere in dati pronti all'uso.",
+        "Le tue domande generano briefing personalizzati in tempo reale. Niente più ricerca manuale nei minuti persi.",
+        "Salta direttamente ai passaggi che ti servono. Un episodio da 90 minuti diventa 3 minuti di contenuti utili.",
+        "Costa meno di un abbonamento Spotify. Testalo su un episodio qualunque oggi stesso."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Immagina di fare una domanda a un podcast.",
+        "E lui ti risponde subito.",
+        "Spotify analizza ogni singolo episodio.",
+        "Le tue domande diventano riassunti su misura.",
+        "Trovi il succo in pochi secondi."
+      ]
+    },
+    "instagram": {
+      "caption": "Su Spotify ora puoi fare una domanda a un podcast e lui ti risponde.  \nL’AI ascolta ogni parola dell’episodio, trasforma ore di chiacchiere in dati e genera briefing su misura per te 🎧🤖. Niente più ricerca manuale nei minuti persi.  \nSe ascolti podcast per lavoro o studio, salti direttamente al punto che ti serve: un’ora e mezza diventa tre minuti di contenuti utili.  \nOggi prova a chiedere qualcosa a un episodio qualunque."
+    }
+  },
+  "instagram_caption": "Su Spotify ora puoi fare una domanda a un podcast e lui ti risponde.  \nL’AI ascolta ogni parola dell’episodio, trasforma ore di chiacchiere in dati e genera briefing su misura per te 🎧🤖. Niente più ricerca manuale nei minuti persi.  \nSe ascolti podcast per lavoro o studio, salti direttamente al punto che ti serve: un’ora e mezza diventa tre minuti di contenuti utili.  \nOggi prova a chiedere qualcosa a un episodio qualunque.",
+  "carousel_slides": [
+    {
+      "hook": "Domande al podcast? Lui risponde",
+      "description": "Puoi chiedere qualcosa a un episodio podcast e lui ti risponde. Non è il futuro, è già su Spotify.",
+      "visual_hint": "UI chat con risposta AI",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone chat interface"
+    },
+    {
+      "hook": "Ogni parola diventa dati",
+      "description": "Un motore AI analizza ogni parola di ogni episodio. Trasforma ore di chiacchiere in dati pronti all'uso.",
+      "visual_hint": "testo che si trasforma in onde",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Briefing su misura in tempo reale",
+      "description": "Le tue domande generano briefing personalizzati in tempo reale. Niente più ricerca manuale nei minuti persi.",
+      "visual_hint": "cerchio che si riempie di dati",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/30268012/pexels-photo-30268012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "90 minuti? Diventano 3 minuti",
+      "description": "Salta direttamente ai passaggi che ti servono. Un episodio da 90 minuti diventa 3 minuti di contenuti utili.",
+      "visual_hint": "mano che scorre indice",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers desk",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova ora su un episodio gratis",
+      "description": "Costa meno di un abbonamento Spotify. Testalo su un episodio qualunque oggi stesso.",
+      "visual_hint": "pulsante play con spunta",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "solar panels roof",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-5.45.05-PM.jpg?resize=1200,675",
+  "savedAt": "2026-05-21T19:44:29.670Z",
+  "sourceId": "ecf87ae7aac72550a4739e5be98e0605"
+}
