@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "with-aluminum-prices-up-20-recycling-startups-bet-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+  "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+  "pubDate": "Thu, 21 May 2026 13:38:42 +0000",
+  "slides": [
+    "Aluminum prices surge 20%—who profits?",
+    "Recycling is cheaper than mining—but inefficient.",
+    "AI startups claim sorting waste cuts costs by half.",
+    "Your scrap metal could now be a smarter asset.",
+    "Test one AI sorter today—before margins shrink."
+  ],
+  "thread_text": [
+    "AI startups say sorting waste cuts costs by half. That's not a prediction—it's already happening in the first plants.",
+    "Aluminum prices just surged 20%. The profit isn't going to miners—it's going to whoever can recycle faster and cheaper.",
+    "Recycling is cheaper than mining on paper, but it's inefficient. That's the gap AI is closing right now.",
+    "Your scrap metal bin could soon be a smarter asset than your savings account. Here's why: every un-sorted can is margin lost.",
+    "Test one AI sorter this week. It costs less than your monthly coffee budget. If you don't, your competitors will."
+  ],
+  "video_script": [
+    "AI says sorting waste can cut costs in half.",
+    "And prices are surging right now.",
+    "Recycling is cheap but inefficient without tech.",
+    "Your scrap could be a real asset.",
+    "Test one sorter before margins disappear."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "AI startups say sorting waste cuts costs by half. That's not a prediction—it's already happening in the first plants.",
+        "Aluminum prices just surged 20%. The profit isn't going to miners—it's going to whoever can recycle faster and cheaper.",
+        "Recycling is cheaper than mining on paper, but it's inefficient. That's the gap AI is closing right now.",
+        "Your scrap metal bin could soon be a smarter asset than your savings account. Here's why: every un-sorted can is margin lost.",
+        "Test one AI sorter this week. It costs less than your monthly coffee budget. If you don't, your competitors will."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI says sorting waste can cut costs in half.",
+        "And prices are surging right now.",
+        "Recycling is cheap but inefficient without tech.",
+        "Your scrap could be a real asset.",
+        "Test one sorter before margins disappear."
+      ]
+    },
+    "instagram": {
+      "caption": "I prezzi dell'alluminio sono saliti del 20% e chi sta già guadagnando sono le startup che usano l'intelligenza artificiale per smistare i rifiuti. Riciclare costa meno che estrarre nuovo metallo, ma finora era troppo lento e impreciso ♻️. Questi nuovi sistemi promettono di tagliare i costi di smistamento della metà — e i primi impianti lo stanno già facendo 🤖. Per chi lavora coi rottami, ogni lattina non separata è margine perso 📉. Hai già testato uno di questi smistatori? Se non lo fai, lo faranno i tuoi concorrenti."
+    }
+  },
+  "instagram_caption": "I prezzi dell'alluminio sono saliti del 20% e chi sta già guadagnando sono le startup che usano l'intelligenza artificiale per smistare i rifiuti. Riciclare costa meno che estrarre nuovo metallo, ma finora era troppo lento e impreciso ♻️. Questi nuovi sistemi promettono di tagliare i costi di smistamento della metà — e i primi impianti lo stanno già facendo 🤖. Per chi lavora coi rottami, ogni lattina non separata è margine perso 📉. Hai già testato uno di questi smistatori? Se non lo fai, lo faranno i tuoi concorrenti.",
+  "carousel_slides": [
+    {
+      "hook": "Your scrap is smarter than savings?",
+      "description": "Aluminum prices up 20%. Profit goes to fast recyclers, not miners.",
+      "visual_hint": "Scrap metal bin with cash",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "aluminum scrap pile"
+    },
+    {
+      "hook": "Recycling is cheaper on paper, but",
+      "description": "Current inefficiency is the gap AI is closing right now.",
+      "visual_hint": "Blue recycling arrows diagram",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "recycling plant machinery",
+      "image": "https://images.pexels.com/photos/22989049/pexels-photo-22989049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI halves sorting costs—not a prediction",
+      "description": "Already happening in first plants. Startups bet big on AI to cash in.",
+      "visual_hint": "Robot arm sorting cans",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "industrial robot arm",
+      "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Every unsorted can is margin lost",
+      "description": "Your scrap metal bin could soon beat your savings account.",
+      "visual_hint": "Human hand dropping can into sorter",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding aluminum can",
+      "image": "https://images.pexels.com/photos/20637793/pexels-photo-20637793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test an AI sorter this week",
+      "description": "Costs less than your monthly coffee budget. Act before competitors do.",
+      "visual_hint": "Finger tapping smartphone app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone recycling app",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-180404126-e1694911368750.jpg?resize=1200,676",
+  "savedAt": "2026-05-21T17:52:37.484Z",
+  "sourceId": "e4a7cf7dbbba256d977f819a8e375ae2"
+}

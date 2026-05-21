@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-is-pitching-an-ai-agent-ecosystem-to-consum",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+  "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+  "pubDate": "Thu, 21 May 2026 13:52:23 +0000",
+  "slides": [
+    "Google vuole che tu paghi per un AI agent?",
+    "Ma la maggior parte degli utenti non lo cerca ancora",
+    "I developer investono miliardi, i consumatori restano freddi",
+    "Se non lo usi, resti senza assistenza proattiva",
+    "Controlla se il tuo Google Home già lo supporta"
+  ],
+  "thread_text": [
+    "Miliardi investiti ma gli utenti non li vogliono. C'è una ragione che nessuno dice sui cosiddetti AI agent.",
+    "Google vuole farti pagare per un assistente che fa cose al posto tuo. Ma la maggior parte delle persone non lo cerca nemmeno.",
+    "I developer stanno spingendo forte su questa tecnologia. I consumatori invece restano freddi. Il problema è che non ne vedono il bisogno.",
+    "Se non inizi a usarlo ora, rischi di rimanere senza assistenza proattiva mentre altri la usano già per risparmiare tempo.",
+    "Controlla subito se il tuo Google Home è già compatibile. Se lo è, hai già accesso a una versione base e gratuita. Nessuna scusa."
+  ],
+  "video_script": [
+    "Le aziende spingono ma nessuno le vuole.",
+    "Google vuole farti pagare un assistente automatico.",
+    "La maggior parte degli utenti non lo cerca.",
+    "I developer investono miliardi, i consumatori sono freddi.",
+    "Controlla se il tuo Google Home è compatibile ora."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Miliardi investiti ma gli utenti non li vogliono. C'è una ragione che nessuno dice sui cosiddetti AI agent.",
+        "Google vuole farti pagare per un assistente che fa cose al posto tuo. Ma la maggior parte delle persone non lo cerca nemmeno.",
+        "I developer stanno spingendo forte su questa tecnologia. I consumatori invece restano freddi. Il problema è che non ne vedono il bisogno.",
+        "Se non inizi a usarlo ora, rischi di rimanere senza assistenza proattiva mentre altri la usano già per risparmiare tempo.",
+        "Controlla subito se il tuo Google Home è già compatibile. Se lo è, hai già accesso a una versione base e gratuita. Nessuna scusa."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Le aziende spingono ma nessuno le vuole.",
+        "Google vuole farti pagare un assistente automatico.",
+        "La maggior parte degli utenti non lo cerca.",
+        "I developer investono miliardi, i consumatori sono freddi.",
+        "Controlla se il tuo Google Home è compatibile ora."
+      ]
+    },
+    "instagram": {
+      "caption": "Google ha investito miliardi per convincerti a pagare un AI agent, ma la maggior parte delle persone non lo cerca nemmeno 🧠. I developer spingono forte su questa tecnologia—i consumatori, invece, non ne sentono il bisogno. Il problema è che, se non lo usi ora, rischi di restare senza assistenza proattiva tra un anno, quando altri già risparmieranno tempo grazie a gestione automatica di email e calendario 📅. Controlla se il tuo Google Home è compatibile: potresti già avere accesso a una versione base gratuita 🤖. Tu lo useresti davvero, o è una soluzione in cerca di un problema?"
+    }
+  },
+  "instagram_caption": "Google ha investito miliardi per convincerti a pagare un AI agent, ma la maggior parte delle persone non lo cerca nemmeno 🧠. I developer spingono forte su questa tecnologia—i consumatori, invece, non ne sentono il bisogno. Il problema è che, se non lo usi ora, rischi di restare senza assistenza proattiva tra un anno, quando altri già risparmieranno tempo grazie a gestione automatica di email e calendario 📅. Controlla se il tuo Google Home è compatibile: potresti già avere accesso a una versione base gratuita 🤖. Tu lo useresti davvero, o è una soluzione in cerca di un problema?",
+  "carousel_slides": [
+    {
+      "hook": "Miliardi investiti, utenti freddi",
+      "description": "Google spinge AI agent che pochi vogliono. Il bisogno non esiste ancora per la maggior parte.",
+      "visual_hint": "Grafico a torta domanda",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Pagare per un assistente?",
+      "description": "Google vuole farti pagare per un AI agent. Ma la maggior parte delle persone non lo cerca nemmeno.",
+      "visual_hint": "Man mano al portafoglio",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone payment",
+      "image": "https://images.pexels.com/photos/7561698/pexels-photo-7561698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Developer spingono, consumatori no",
+      "description": "I developer investono miliardi, i consumatori restano freddi. Non vedono il bisogno.",
+      "visual_hint": "Team developer in riunione",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "office workers meeting",
+      "image": "https://images.pexels.com/photos/7652175/pexels-photo-7652175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rischio di restare indietro",
+      "description": "Se non inizi ora, altri useranno già l'assistenza proattiva per risparmiare tempo.",
+      "visual_hint": "Persona con orologio",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person checking watch",
+      "image": "https://images.pexels.com/photos/8217888/pexels-photo-8217888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controlla il tuo Google Home",
+      "description": "Verifica se il tuo Google Home supporta già la versione base gratuita. Nessuna scusa.",
+      "visual_hint": "Google Home dispositivo",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "google home speaker",
+      "image": "https://images.pexels.com/photos/13696664/pexels-photo-13696664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+  "savedAt": "2026-05-21T17:52:25.667Z",
+  "sourceId": "2dc9bf4077b0baa1065a3480c98547f6"
+}

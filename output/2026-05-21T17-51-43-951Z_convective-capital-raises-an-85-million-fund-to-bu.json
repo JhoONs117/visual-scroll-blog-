@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "convective-capital-raises-an-85-million-fund-to-bu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Convective Capital raises an $85 million fund to build disaster resilience",
+  "link": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
+  "pubDate": "Thu, 21 May 2026 17:41:20 +0000",
+  "slides": [
+    "Convective Capital raised $85M — but for what?",
+    "Disaster resilience is becoming a venture asset class.",
+    "Most climate tech funds ignore the response phase.",
+    "Your city’s emergency plan may already be obsolete.",
+    "Check if your local grid has a resilience startup partner."
+  ],
+  "thread_text": [
+    "Most climate tech funds ignore disaster response. Meanwhile, Convective Capital just raised $85M to fix that. There's a gap, and they're betting huge on it.",
+    "Extreme weather is accelerating, but emergency plans are stuck in the past. Cities budget for recovery — not survival during the first 72 hours.",
+    "Convective Capital is treating resilience like a venture asset class. They're funding startups that plug directly into grids, shelters, and supply chains.",
+    "Your city's emergency plan may already be obsolete. If your local grid isn't working with a resilience startup, it probably should be.",
+    "Check if your city has a resilience startup partner. If not, ask your emergency manager why — and share this thread with them."
+  ],
+  "video_script": [
+    "Raised $85 million for disaster startups.",
+    "Most climate tech ignores the response phase.",
+    "City emergency plans are already outdated.",
+    "Check if your grid has a resilience partner.",
+    "Ask your emergency manager about it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Most climate tech funds ignore disaster response. Meanwhile, Convective Capital just raised $85M to fix that. There's a gap, and they're betting huge on it.",
+        "Extreme weather is accelerating, but emergency plans are stuck in the past. Cities budget for recovery — not survival during the first 72 hours.",
+        "Convective Capital is treating resilience like a venture asset class. They're funding startups that plug directly into grids, shelters, and supply chains.",
+        "Your city's emergency plan may already be obsolete. If your local grid isn't working with a resilience startup, it probably should be.",
+        "Check if your city has a resilience startup partner. If not, ask your emergency manager why — and share this thread with them."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Raised $85 million for disaster startups.",
+        "Most climate tech ignores the response phase.",
+        "City emergency plans are already outdated.",
+        "Check if your grid has a resilience partner.",
+        "Ask your emergency manager about it."
+      ]
+    },
+    "instagram": {
+      "caption": "Convective Capital ha appena chiuso un fondo da 85 milioni di dollari. Punto: la resilienza alle catastrofi diventa ufficialmente un asset da venture capital 🌪️\n\nOggi la maggior parte dei fondi per il clima finanzia pannelli solari o macchine elettriche, ma si dimentica della fase di risposta alle emergenze. Questi soldi andranno a startup che si infilano dentro la rete elettrica della tua città, nei rifugi di emergenza e nelle catene di approvvigionamento.\n\nConcretamente: se il tuo quartiere dovesse finire sott'acqua o senza corrente per 72 ore, quei sistemi potrebbero già parlare con un resilienza-tech partner 🤝\n\nLa tua città ha già una startup partner per la gestione delle emergenze?"
+    }
+  },
+  "instagram_caption": "Convective Capital ha appena chiuso un fondo da 85 milioni di dollari. Punto: la resilienza alle catastrofi diventa ufficialmente un asset da venture capital 🌪️\n\nOggi la maggior parte dei fondi per il clima finanzia pannelli solari o macchine elettriche, ma si dimentica della fase di risposta alle emergenze. Questi soldi andranno a startup che si infilano dentro la rete elettrica della tua città, nei rifugi di emergenza e nelle catene di approvvigionamento.\n\nConcretamente: se il tuo quartiere dovesse finire sott'acqua o senza corrente per 72 ore, quei sistemi potrebbero già parlare con un resilienza-tech partner 🤝\n\nLa tua città ha già una startup partner per la gestione delle emergenze?",
+  "carousel_slides": [
+    {
+      "hook": "Climate tech's blind spot",
+      "description": "Most climate funds ignore disaster response. Convective Capital raises $85M to fix that.",
+      "visual_hint": "fund stack with gap",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stack of money"
+    },
+    {
+      "hook": "Resilience is now an asset class",
+      "description": "Extreme weather accelerates but emergency plans lag. Cities budget for recovery, not survival.",
+      "visual_hint": "bar chart rising",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Funding the first 72 hours",
+      "description": "Convective Capital backs startups that plug directly into grids, shelters, and supply chains.",
+      "visual_hint": "grid connection diagram",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "power grid map",
+      "image": "https://images.pexels.com/photos/15226606/pexels-photo-15226606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your city's plan is already outdated",
+      "description": "If your local grid lacks a resilience startup partner, it's time to ask why.",
+      "visual_hint": "obsolete printed plan",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "old paper document",
+      "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your city's resilience partner",
+      "description": "Ask your emergency manager why and share this thread.",
+      "visual_hint": "city skyline QR code",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "city skyline",
+      "image": "https://images.pexels.com/photos/36024146/pexels-photo-36024146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Convective-Team.webp?w=1067",
+  "savedAt": "2026-05-21T17:51:55.717Z",
+  "sourceId": "03acb55a588fa14a33a47a25cb5b2e6f"
+}

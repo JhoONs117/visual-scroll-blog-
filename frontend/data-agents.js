@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "with-aluminum-prices-up-20-recycling-startups-bet-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+      "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+      "pubDate": "Thu, 21 May 2026 13:38:42 +0000",
+      "slides": [
+        "Aluminum prices surge 20%—who profits?",
+        "Recycling is cheaper than mining—but inefficient.",
+        "AI startups claim sorting waste cuts costs by half.",
+        "Your scrap metal could now be a smarter asset.",
+        "Test one AI sorter today—before margins shrink."
+      ],
+      "thread_text": [
+        "AI startups say sorting waste cuts costs by half. That's not a prediction—it's already happening in the first plants.",
+        "Aluminum prices just surged 20%. The profit isn't going to miners—it's going to whoever can recycle faster and cheaper.",
+        "Recycling is cheaper than mining on paper, but it's inefficient. That's the gap AI is closing right now.",
+        "Your scrap metal bin could soon be a smarter asset than your savings account. Here's why: every un-sorted can is margin lost.",
+        "Test one AI sorter this week. It costs less than your monthly coffee budget. If you don't, your competitors will."
+      ],
+      "video_script": [
+        "AI says sorting waste can cut costs in half.",
+        "And prices are surging right now.",
+        "Recycling is cheap but inefficient without tech.",
+        "Your scrap could be a real asset.",
+        "Test one sorter before margins disappear."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "AI startups say sorting waste cuts costs by half. That's not a prediction—it's already happening in the first plants.",
+            "Aluminum prices just surged 20%. The profit isn't going to miners—it's going to whoever can recycle faster and cheaper.",
+            "Recycling is cheaper than mining on paper, but it's inefficient. That's the gap AI is closing right now.",
+            "Your scrap metal bin could soon be a smarter asset than your savings account. Here's why: every un-sorted can is margin lost.",
+            "Test one AI sorter this week. It costs less than your monthly coffee budget. If you don't, your competitors will."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI says sorting waste can cut costs in half.",
+            "And prices are surging right now.",
+            "Recycling is cheap but inefficient without tech.",
+            "Your scrap could be a real asset.",
+            "Test one sorter before margins disappear."
+          ]
+        },
+        "instagram": {
+          "caption": "I prezzi dell'alluminio sono saliti del 20% e chi sta già guadagnando sono le startup che usano l'intelligenza artificiale per smistare i rifiuti. Riciclare costa meno che estrarre nuovo metallo, ma finora era troppo lento e impreciso ♻️. Questi nuovi sistemi promettono di tagliare i costi di smistamento della metà — e i primi impianti lo stanno già facendo 🤖. Per chi lavora coi rottami, ogni lattina non separata è margine perso 📉. Hai già testato uno di questi smistatori? Se non lo fai, lo faranno i tuoi concorrenti."
+        }
+      },
+      "instagram_caption": "I prezzi dell'alluminio sono saliti del 20% e chi sta già guadagnando sono le startup che usano l'intelligenza artificiale per smistare i rifiuti. Riciclare costa meno che estrarre nuovo metallo, ma finora era troppo lento e impreciso ♻️. Questi nuovi sistemi promettono di tagliare i costi di smistamento della metà — e i primi impianti lo stanno già facendo 🤖. Per chi lavora coi rottami, ogni lattina non separata è margine perso 📉. Hai già testato uno di questi smistatori? Se non lo fai, lo faranno i tuoi concorrenti.",
+      "carousel_slides": [
+        {
+          "hook": "Your scrap is smarter than savings?",
+          "description": "Aluminum prices up 20%. Profit goes to fast recyclers, not miners.",
+          "visual_hint": "Scrap metal bin with cash",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "aluminum scrap pile"
+        },
+        {
+          "hook": "Recycling is cheaper on paper, but",
+          "description": "Current inefficiency is the gap AI is closing right now.",
+          "visual_hint": "Blue recycling arrows diagram",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "recycling plant machinery",
+          "image": "https://images.pexels.com/photos/22989049/pexels-photo-22989049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI halves sorting costs—not a prediction",
+          "description": "Already happening in first plants. Startups bet big on AI to cash in.",
+          "visual_hint": "Robot arm sorting cans",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "industrial robot arm",
+          "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Every unsorted can is margin lost",
+          "description": "Your scrap metal bin could soon beat your savings account.",
+          "visual_hint": "Human hand dropping can into sorter",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding aluminum can",
+          "image": "https://images.pexels.com/photos/20637793/pexels-photo-20637793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test an AI sorter this week",
+          "description": "Costs less than your monthly coffee budget. Act before competitors do.",
+          "visual_hint": "Finger tapping smartphone app",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone recycling app",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-180404126-e1694911368750.jpg?resize=1200,676",
+      "savedAt": "2026-05-21T17:52:37.484Z",
+      "sourceId": "e4a7cf7dbbba256d977f819a8e375ae2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-is-pitching-an-ai-agent-ecosystem-to-consum",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+      "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+      "pubDate": "Thu, 21 May 2026 13:52:23 +0000",
+      "slides": [
+        "Google vuole che tu paghi per un AI agent?",
+        "Ma la maggior parte degli utenti non lo cerca ancora",
+        "I developer investono miliardi, i consumatori restano freddi",
+        "Se non lo usi, resti senza assistenza proattiva",
+        "Controlla se il tuo Google Home già lo supporta"
+      ],
+      "thread_text": [
+        "Miliardi investiti ma gli utenti non li vogliono. C'è una ragione che nessuno dice sui cosiddetti AI agent.",
+        "Google vuole farti pagare per un assistente che fa cose al posto tuo. Ma la maggior parte delle persone non lo cerca nemmeno.",
+        "I developer stanno spingendo forte su questa tecnologia. I consumatori invece restano freddi. Il problema è che non ne vedono il bisogno.",
+        "Se non inizi a usarlo ora, rischi di rimanere senza assistenza proattiva mentre altri la usano già per risparmiare tempo.",
+        "Controlla subito se il tuo Google Home è già compatibile. Se lo è, hai già accesso a una versione base e gratuita. Nessuna scusa."
+      ],
+      "video_script": [
+        "Le aziende spingono ma nessuno le vuole.",
+        "Google vuole farti pagare un assistente automatico.",
+        "La maggior parte degli utenti non lo cerca.",
+        "I developer investono miliardi, i consumatori sono freddi.",
+        "Controlla se il tuo Google Home è compatibile ora."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Miliardi investiti ma gli utenti non li vogliono. C'è una ragione che nessuno dice sui cosiddetti AI agent.",
+            "Google vuole farti pagare per un assistente che fa cose al posto tuo. Ma la maggior parte delle persone non lo cerca nemmeno.",
+            "I developer stanno spingendo forte su questa tecnologia. I consumatori invece restano freddi. Il problema è che non ne vedono il bisogno.",
+            "Se non inizi a usarlo ora, rischi di rimanere senza assistenza proattiva mentre altri la usano già per risparmiare tempo.",
+            "Controlla subito se il tuo Google Home è già compatibile. Se lo è, hai già accesso a una versione base e gratuita. Nessuna scusa."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Le aziende spingono ma nessuno le vuole.",
+            "Google vuole farti pagare un assistente automatico.",
+            "La maggior parte degli utenti non lo cerca.",
+            "I developer investono miliardi, i consumatori sono freddi.",
+            "Controlla se il tuo Google Home è compatibile ora."
+          ]
+        },
+        "instagram": {
+          "caption": "Google ha investito miliardi per convincerti a pagare un AI agent, ma la maggior parte delle persone non lo cerca nemmeno 🧠. I developer spingono forte su questa tecnologia—i consumatori, invece, non ne sentono il bisogno. Il problema è che, se non lo usi ora, rischi di restare senza assistenza proattiva tra un anno, quando altri già risparmieranno tempo grazie a gestione automatica di email e calendario 📅. Controlla se il tuo Google Home è compatibile: potresti già avere accesso a una versione base gratuita 🤖. Tu lo useresti davvero, o è una soluzione in cerca di un problema?"
+        }
+      },
+      "instagram_caption": "Google ha investito miliardi per convincerti a pagare un AI agent, ma la maggior parte delle persone non lo cerca nemmeno 🧠. I developer spingono forte su questa tecnologia—i consumatori, invece, non ne sentono il bisogno. Il problema è che, se non lo usi ora, rischi di restare senza assistenza proattiva tra un anno, quando altri già risparmieranno tempo grazie a gestione automatica di email e calendario 📅. Controlla se il tuo Google Home è compatibile: potresti già avere accesso a una versione base gratuita 🤖. Tu lo useresti davvero, o è una soluzione in cerca di un problema?",
+      "carousel_slides": [
+        {
+          "hook": "Miliardi investiti, utenti freddi",
+          "description": "Google spinge AI agent che pochi vogliono. Il bisogno non esiste ancora per la maggior parte.",
+          "visual_hint": "Grafico a torta domanda",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Pagare per un assistente?",
+          "description": "Google vuole farti pagare per un AI agent. Ma la maggior parte delle persone non lo cerca nemmeno.",
+          "visual_hint": "Man mano al portafoglio",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone payment",
+          "image": "https://images.pexels.com/photos/7561698/pexels-photo-7561698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Developer spingono, consumatori no",
+          "description": "I developer investono miliardi, i consumatori restano freddi. Non vedono il bisogno.",
+          "visual_hint": "Team developer in riunione",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "office workers meeting",
+          "image": "https://images.pexels.com/photos/7652175/pexels-photo-7652175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rischio di restare indietro",
+          "description": "Se non inizi ora, altri useranno già l'assistenza proattiva per risparmiare tempo.",
+          "visual_hint": "Persona con orologio",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person checking watch",
+          "image": "https://images.pexels.com/photos/8217888/pexels-photo-8217888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Controlla il tuo Google Home",
+          "description": "Verifica se il tuo Google Home supporta già la versione base gratuita. Nessuna scusa.",
+          "visual_hint": "Google Home dispositivo",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "google home speaker",
+          "image": "https://images.pexels.com/photos/13696664/pexels-photo-13696664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+      "savedAt": "2026-05-21T17:52:25.667Z",
+      "sourceId": "2dc9bf4077b0baa1065a3480c98547f6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "hark-raises-700m-series-a-for-its-secretive-univer",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+      "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "pubDate": "Thu, 21 May 2026 14:00:00 +0000",
+      "slides": [
+        "Hark raccoglie $700M per un'interfaccia AI segreta. Cosa nasconde?",
+        "Non è un chatbot: connette qualsiasi AI a qualsiasi azione",
+        "Ha costruito il ponte tra modelli e sistemi aziendali esistenti",
+        "Il tuo stack tech potrebbe essere ridotto del 70%",
+        "Testalo oggi: chiedi a Hark di integrare il tuo CRM"
+      ],
+      "thread_text": [
+        "Ha appena raccolto 700 milioni di dollari per un'interfaccia AI che non ti mostra nemmeno. Ecco cosa sta succedendo.",
+        "Non è un chatbot. È un livello che collega qualsiasi modello AI ai sistemi che già usi — CRM, ERP, cloud.",
+        "Invece di dover riscrivere ogni integrazione, dai comandi e l'AI esegue direttamente sulle tue infrastrutture.",
+        "Le aziende che lo usano riducono il loro stack tecnologico del 70%. Meno strumenti, meno manutenzione.",
+        "Costa meno di un abbonamento Spotify. Chiedi oggi a Hark di connettersi al tuo CRM e vedere cosa fa."
+      ],
+      "video_script": [
+        "Hark ha raccolto 700 milioni in segreto.",
+        "Non è un chatbot qualsiasi.",
+        "Collega AI ai tuoi sistemi aziendali.",
+        "Il tuo stack può ridursi del 70%.",
+        "Provalo oggi, connettilo al CRM."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Ha appena raccolto 700 milioni di dollari per un'interfaccia AI che non ti mostra nemmeno. Ecco cosa sta succedendo.",
+            "Non è un chatbot. È un livello che collega qualsiasi modello AI ai sistemi che già usi — CRM, ERP, cloud.",
+            "Invece di dover riscrivere ogni integrazione, dai comandi e l'AI esegue direttamente sulle tue infrastrutture.",
+            "Le aziende che lo usano riducono il loro stack tecnologico del 70%. Meno strumenti, meno manutenzione.",
+            "Costa meno di un abbonamento Spotify. Chiedi oggi a Hark di connettersi al tuo CRM e vedere cosa fa."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hark ha raccolto 700 milioni in segreto.",
+            "Non è un chatbot qualsiasi.",
+            "Collega AI ai tuoi sistemi aziendali.",
+            "Il tuo stack può ridursi del 70%.",
+            "Provalo oggi, connettilo al CRM."
+          ]
+        },
+        "instagram": {
+          "caption": "700 milioni di dollari raccolti per l’interfaccia AI più segreta del momento. Hark non è un chatbot: collega modelli AI direttamente a sistemi aziendali come CRM e ERP, eseguendo comandi senza dover riscrivere integrazioni. Per chi lavora con stack tecnologici ingombranti, significa ridurre gli strumenti del 70% e abbassare la manutenzione. Costa meno di un abbonamento Spotify. Tu chiederesti a Hark di connettersi al tuo CRM oggi?"
+        }
+      },
+      "instagram_caption": "700 milioni di dollari raccolti per l’interfaccia AI più segreta del momento. Hark non è un chatbot: collega modelli AI direttamente a sistemi aziendali come CRM e ERP, eseguendo comandi senza dover riscrivere integrazioni. Per chi lavora con stack tecnologici ingombranti, significa ridurre gli strumenti del 70% e abbassare la manutenzione. Costa meno di un abbonamento Spotify. Tu chiederesti a Hark di connettersi al tuo CRM oggi?",
+      "carousel_slides": [
+        {
+          "hook": "Un'interfaccia AI da $700M",
+          "description": "Ha raccolto 700 milioni per un'interfaccia AI che non ti mostra nemmeno. Cosa sta succedendo?",
+          "visual_hint": "portafoglio soldi sigillato",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "money bag sealed"
+        },
+        {
+          "hook": "Non è un chatbot normale",
+          "description": "È un livello che collega qualsiasi modello AI ai sistemi che già usi: CRM, ERP, cloud.",
+          "visual_hint": "ponte tra nuvole e fabbrica",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "bridge connecting clouds",
+          "image": "https://images.pexels.com/photos/17415738/pexels-photo-17415738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Addio integrazioni infinite",
+          "description": "Invece di riscrivere ogni integrazione, dai comandi e l'AI esegue direttamente sulle tue infrastrutture.",
+          "visual_hint": "mano che schiaccia grattacieli",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hand crushing buildings",
+          "image": "https://images.pexels.com/photos/26989833/pexels-photo-26989833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stack tech ridotto del 70%",
+          "description": "Le aziende che lo usano riducono il loro stack tecnologico del 70%. Meno strumenti, meno manutenzione.",
+          "visual_hint": "grafico a barre in caduta",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "bar chart falling",
+          "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova oggi la connessione",
+          "description": "Costa meno di un abbonamento Spotify. Chiedi a Hark di connettersi al tuo CRM e vedere cosa fa.",
+          "visual_hint": "cellulare con app CRM aperta",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone CRM app open",
+          "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-6.20.59-AM.png?w=939",
+      "savedAt": "2026-05-21T17:52:13.390Z",
+      "sourceId": "65ea913ba782f03927a088dd3bc6b800"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "convective-capital-raises-an-85-million-fund-to-bu",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Convective Capital raises an $85 million fund to build disaster resilience",
+      "link": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
+      "pubDate": "Thu, 21 May 2026 17:41:20 +0000",
+      "slides": [
+        "Convective Capital raised $85M — but for what?",
+        "Disaster resilience is becoming a venture asset class.",
+        "Most climate tech funds ignore the response phase.",
+        "Your city’s emergency plan may already be obsolete.",
+        "Check if your local grid has a resilience startup partner."
+      ],
+      "thread_text": [
+        "Most climate tech funds ignore disaster response. Meanwhile, Convective Capital just raised $85M to fix that. There's a gap, and they're betting huge on it.",
+        "Extreme weather is accelerating, but emergency plans are stuck in the past. Cities budget for recovery — not survival during the first 72 hours.",
+        "Convective Capital is treating resilience like a venture asset class. They're funding startups that plug directly into grids, shelters, and supply chains.",
+        "Your city's emergency plan may already be obsolete. If your local grid isn't working with a resilience startup, it probably should be.",
+        "Check if your city has a resilience startup partner. If not, ask your emergency manager why — and share this thread with them."
+      ],
+      "video_script": [
+        "Raised $85 million for disaster startups.",
+        "Most climate tech ignores the response phase.",
+        "City emergency plans are already outdated.",
+        "Check if your grid has a resilience partner.",
+        "Ask your emergency manager about it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Most climate tech funds ignore disaster response. Meanwhile, Convective Capital just raised $85M to fix that. There's a gap, and they're betting huge on it.",
+            "Extreme weather is accelerating, but emergency plans are stuck in the past. Cities budget for recovery — not survival during the first 72 hours.",
+            "Convective Capital is treating resilience like a venture asset class. They're funding startups that plug directly into grids, shelters, and supply chains.",
+            "Your city's emergency plan may already be obsolete. If your local grid isn't working with a resilience startup, it probably should be.",
+            "Check if your city has a resilience startup partner. If not, ask your emergency manager why — and share this thread with them."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Raised $85 million for disaster startups.",
+            "Most climate tech ignores the response phase.",
+            "City emergency plans are already outdated.",
+            "Check if your grid has a resilience partner.",
+            "Ask your emergency manager about it."
+          ]
+        },
+        "instagram": {
+          "caption": "Convective Capital ha appena chiuso un fondo da 85 milioni di dollari. Punto: la resilienza alle catastrofi diventa ufficialmente un asset da venture capital 🌪️\n\nOggi la maggior parte dei fondi per il clima finanzia pannelli solari o macchine elettriche, ma si dimentica della fase di risposta alle emergenze. Questi soldi andranno a startup che si infilano dentro la rete elettrica della tua città, nei rifugi di emergenza e nelle catene di approvvigionamento.\n\nConcretamente: se il tuo quartiere dovesse finire sott'acqua o senza corrente per 72 ore, quei sistemi potrebbero già parlare con un resilienza-tech partner 🤝\n\nLa tua città ha già una startup partner per la gestione delle emergenze?"
+        }
+      },
+      "instagram_caption": "Convective Capital ha appena chiuso un fondo da 85 milioni di dollari. Punto: la resilienza alle catastrofi diventa ufficialmente un asset da venture capital 🌪️\n\nOggi la maggior parte dei fondi per il clima finanzia pannelli solari o macchine elettriche, ma si dimentica della fase di risposta alle emergenze. Questi soldi andranno a startup che si infilano dentro la rete elettrica della tua città, nei rifugi di emergenza e nelle catene di approvvigionamento.\n\nConcretamente: se il tuo quartiere dovesse finire sott'acqua o senza corrente per 72 ore, quei sistemi potrebbero già parlare con un resilienza-tech partner 🤝\n\nLa tua città ha già una startup partner per la gestione delle emergenze?",
+      "carousel_slides": [
+        {
+          "hook": "Climate tech's blind spot",
+          "description": "Most climate funds ignore disaster response. Convective Capital raises $85M to fix that.",
+          "visual_hint": "fund stack with gap",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stack of money"
+        },
+        {
+          "hook": "Resilience is now an asset class",
+          "description": "Extreme weather accelerates but emergency plans lag. Cities budget for recovery, not survival.",
+          "visual_hint": "bar chart rising",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Funding the first 72 hours",
+          "description": "Convective Capital backs startups that plug directly into grids, shelters, and supply chains.",
+          "visual_hint": "grid connection diagram",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "power grid map",
+          "image": "https://images.pexels.com/photos/15226606/pexels-photo-15226606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your city's plan is already outdated",
+          "description": "If your local grid lacks a resilience startup partner, it's time to ask why.",
+          "visual_hint": "obsolete printed plan",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "old paper document",
+          "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your city's resilience partner",
+          "description": "Ask your emergency manager why and share this thread.",
+          "visual_hint": "city skyline QR code",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "city skyline",
+          "image": "https://images.pexels.com/photos/36024146/pexels-photo-36024146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Convective-Team.webp?w=1067",
+      "savedAt": "2026-05-21T17:51:55.717Z",
+      "sourceId": "03acb55a588fa14a33a47a25cb5b2e6f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "the-path-founded-by-tony-robbins-and-calm-alums-ho",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -24540,6 +24956,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-con-asparagi-e-speck",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta con asparagi e speck",
+      "link": "https://ricette.giallozafferano.it/Pasta-con-asparagi-e-speck.html",
+      "pubDate": "Thu, 21 May 2026 17:12:00 +0200",
+      "content": "Pasta con asparagi e speck: la ricetta cremosa e veloce Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta con asparagi e speck /5 Ricetta proposta da Lulù Gargari CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Difficoltà: Facile Preparazione: 15 min Cottura: 20 min Dosi per: 4 persone Costo: Medio Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La pasta con asparagi e speck è un primo piatto semplice ma ricco di sapore, perfetto per portare in tavola un’idea cremosa e sfiziosa in poco tempo. Vi basteranno pochi ingredienti per trasformare una classica pasta agli asparagi in una ricetta ancora più gustosa: la delicatezza degli asparagi frullati in crema si unisce infatti al sapore deciso e alla croccantezza dello speck, creando un contrasto davvero irresistibile. Gli spaghettoni raccolgono alla perfezione il condimento vellutato, mentre il basilico dona una nota fresca e profumata che rende il piatto ancora più invitante. Ideale per un pranzo di primavera o per una cena veloce ma appagante, perfetto per tutte le occasioni! Ecco altri primi piatti con gli asparagi da non perdere: pasta con asparagi e pancetta carbonara di asparagi pasta con asparagi e salsiccia pappardelle asparagi e gamberi pasta panna e asparagi Pasta with asparagus and speck INGREDIENTI Spaghettoni 320 g Asparagi 500 g Speck a listarelle 150 g Olio extravergine d'oliva 20 g Sale fino q.b. Pepe nero q.b. Basilico q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con asparagi e speck Per preparare la pasta con asparagi e speck scaldate un filo d’olio extravergine d’oliva in una padella capiente e aggiungete lo speck a listarelle 1 . Fatelo rosolare a fiamma media per qualche minuto, mescolando spesso 2 , fino a quando sarà ben dorato e croccante. Scolatelo dal fondo di cottura 3 . Trasferitelo quindi su un piatto rivestito con carta assorbente 4 e tenetelo da parte. Mettete sul fuoco una pentola con abbondante acqua salata e portatela a bollore per la cottura della pasta. Passate agli asparagi: eliminate la parte finale più dura del gambo e tagliate il resto a rondelle 5 . Nella stessa padella, con l'olio dove avete cotto lo speck, versate gli asparagi tagliati a rondelle 6 . Regolate di sale 7 , aggiungete un pizzico di pepe e un mestolino di acqua calda 8 . Lasciateli cuocere per circa 8-10 minuti. Quando saranno teneri, trasferitene la maggior parte in un bicchiere alto 9 , lasciandone qualcuno intero in padella. Aggiungete un filo d'olio 10 , il basilico fresco 11 e ancora poca acqua 12 . Frullate tutto con un mixer a immersione fino a ottenere una crema liscia e vellutata 13 . Cuocete gli spaghettoni nell'acqua che avrà raggiunto il bollore 14 . Intanto versate la crema di asparagi nella padella 15 . Scolate gli spaghetti al dente direttamente nella padella con la crema di asparagi 16 e saltate bene il tutto 17 . Se necessario aggiungete ancora poca acqua di cottura per rendere il condimento ancora più cremoso. Distribuite la pasta nei piatti e completate con lo speck croccante tenuto da parte e qualche rondella di asparago per decorare 18 . Servite subito ben calda. Conservazione Vi consigliamo di consumare la pasta con asparagi e speck appena pronta. La crema di asparagi, invece, può essere conservata in frigorifero, in un contenitore chiuso, per 2-3 giorni. Sconsigliamo la congelazione della pasta già condita. Consiglio Per rendere il piatto ancora più gustoso potete aggiungere alla crema di asparagi della frutta secca, come mandorle o pistacchi, per una nota croccante e saporita. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Asparagi Basilico Spaghetti Pasta Speck Olio di oliva Scopri tutto sugli ingredienti Presente in: Primi piatti sfiziosi , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta con asparagi e speck 5.0 Branzino agropiccante 5.0 Crostata alla crema di limone friabile 4.0 SCOPRI Pasta asparagi e speck Risotto con asparagi e speck Pasta con lo speck Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Non hai trovato l'ispirazione giusta? Prova queste! Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Pasta cremosa con asparagi e speck croccante",
+        "Spaghettoni, asparagi, speck, olio, basilico",
+        "Frulla gli asparagi cotti in crema vellutata",
+        "Scola la pasta e saltala nella crema",
+        "Guarnisci con speck croccante e asparagi"
+      ],
+      "instagram_caption": "Cremosa, avvolgente e con quel contrasto croccante che conquista al primo morso. 🍝  \nGli spaghettoni saltati in una vellutata setosa di asparagi freschi, poi finiti con speck croccante e qualche asparago tenuto intero per decorare. Basilico e un filo d’olio a crudo, il resto lo fa la semplicità.  \nUn primo che sa di primavera, ma anche di comfort. 🌿  \nProvala questo weekend, ti farà fare una splendida figura. 💚",
+      "formats": {
+        "instagram": {
+          "caption": "Cremosa, avvolgente e con quel contrasto croccante che conquista al primo morso. 🍝  \nGli spaghettoni saltati in una vellutata setosa di asparagi freschi, poi finiti con speck croccante e qualche asparago tenuto intero per decorare. Basilico e un filo d’olio a crudo, il resto lo fa la semplicità.  \nUn primo che sa di primavera, ma anche di comfort. 🌿  \nProvala questo weekend, ti farà fare una splendida figura. 💚"
+        },
+        "tiktok": {
+          "script": [
+            "Pasta cremosa con asparagi e speck croccante.",
+            "Prendo spaghettoni, asparagi, speck, olio, basilico.",
+            "Frullo gli asparagi cotti in crema vellutata.",
+            "Scolo la pasta e la salto nella crema.",
+            "Guarnisco con speck croccante e asparagi."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Cremosa, affumicata, croccante: la pasta con asparagi e speck non è una prima, è un abbraccio. E te la faccio fare in 4 mosse.",
+            "Spaghettoni, asparagi freschi, speck a listarelle, olio evo, basilico. Pochi ingredienti, ma serve il gesto giusto per farli cantare insieme.",
+            "Cuoci gli asparagi in acqua bollente, poi frullali con un filo d’olio fino a ottenere una crema vellutata. Profuma già di primavera.",
+            "Scola la pasta al dente e saltala direttamente nella crema di asparagi, con un mestolo di acqua di cottura per legare il tutto.",
+            "Fuori dal fuoco, aggiungi lo speck croccante sbriciolato e qualche asparago intero tenuto da parte. Provalo e dimmi se non è magia 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Pasta cremosa con asparagi e speck croccante.",
+        "Prendo spaghettoni, asparagi, speck, olio, basilico.",
+        "Frullo gli asparagi cotti in crema vellutata.",
+        "Scolo la pasta e la salto nella crema.",
+        "Guarnisco con speck croccante e asparagi."
+      ],
+      "thread_text": [
+        "Cremosa, affumicata, croccante: la pasta con asparagi e speck non è una prima, è un abbraccio. E te la faccio fare in 4 mosse.",
+        "Spaghettoni, asparagi freschi, speck a listarelle, olio evo, basilico. Pochi ingredienti, ma serve il gesto giusto per farli cantare insieme.",
+        "Cuoci gli asparagi in acqua bollente, poi frullali con un filo d’olio fino a ottenere una crema vellutata. Profuma già di primavera.",
+        "Scola la pasta al dente e saltala direttamente nella crema di asparagi, con un mestolo di acqua di cottura per legare il tutto.",
+        "Fuori dal fuoco, aggiungi lo speck croccante sbriciolato e qualche asparago intero tenuto da parte. Provalo e dimmi se non è magia 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta cremosa con asparagi",
+          "description": "Una crema vellutata di asparagi e speck croccante per un primo elegante e veloce.",
+          "visual_hint": "Piatto fumante rifinito",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory creamy asparagus pasta"
+        },
+        {
+          "hook": "I protagonisti del piatto",
+          "description": "Spaghettoni, asparagi freschi, speck a dadini, olio extravergine e basilico per profumare.",
+          "visual_hint": "Ingredienti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory pasta ingredients asparagus speck",
+          "image": "https://images.pexels.com/photos/4021694/pexels-photo-4021694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "La crema segreta",
+          "description": "Cuoci gli asparagi, poi frullali con un filo d'olio fino a ottenere una crema vellutata.",
+          "visual_hint": "Frullatore con crema verde",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory blended asparagus cream",
+          "image": "https://images.pexels.com/photos/24289215/pexels-photo-24289215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca la pasta",
+          "description": "Scola la pasta al dente e saltala nella crema di asparagi per amalgamare i sapori.",
+          "visual_hint": "Padella con pasta e crema",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory tossing pasta with asparagus cream",
+          "image": "https://images.pexels.com/photos/4021694/pexels-photo-4021694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Croccante finale",
+          "description": "Impiatta e guarnisci con speck croccante e asparagi saltati. Servi subito.",
+          "visual_hint": "Piatto finito con guarnizione",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pasta with crispy speck and asparagus",
+          "image": "https://images.pexels.com/photos/4021694/pexels-photo-4021694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "asparagi",
+        "speck",
+        "spaghettoni"
+      ],
+      "image": "https://www.giallozafferano.it/images/362-36211/Pasta-con-asparagi-e-speck_650x433_wm.jpg",
+      "savedAt": "2026-05-21T17:55:55.367Z",
+      "sourceId": "c796e183f2fb4125e3f495152ce756d6"
+    },
     {
       "agent": "food",
       "slug": "insalata-pesche-e-sgombro",

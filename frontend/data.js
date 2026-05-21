@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "with-aluminum-prices-up-20-recycling-startups-bet-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+    "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+    "pubDate": "Thu, 21 May 2026 13:38:42 +0000",
+    "slides": [
+      "Aluminum prices surge 20%—who profits?",
+      "Recycling is cheaper than mining—but inefficient.",
+      "AI startups claim sorting waste cuts costs by half.",
+      "Your scrap metal could now be a smarter asset.",
+      "Test one AI sorter today—before margins shrink."
+    ],
+    "thread_text": [
+      "AI startups say sorting waste cuts costs by half. That's not a prediction—it's already happening in the first plants.",
+      "Aluminum prices just surged 20%. The profit isn't going to miners—it's going to whoever can recycle faster and cheaper.",
+      "Recycling is cheaper than mining on paper, but it's inefficient. That's the gap AI is closing right now.",
+      "Your scrap metal bin could soon be a smarter asset than your savings account. Here's why: every un-sorted can is margin lost.",
+      "Test one AI sorter this week. It costs less than your monthly coffee budget. If you don't, your competitors will."
+    ],
+    "video_script": [
+      "AI says sorting waste can cut costs in half.",
+      "And prices are surging right now.",
+      "Recycling is cheap but inefficient without tech.",
+      "Your scrap could be a real asset.",
+      "Test one sorter before margins disappear."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "AI startups say sorting waste cuts costs by half. That's not a prediction—it's already happening in the first plants.",
+          "Aluminum prices just surged 20%. The profit isn't going to miners—it's going to whoever can recycle faster and cheaper.",
+          "Recycling is cheaper than mining on paper, but it's inefficient. That's the gap AI is closing right now.",
+          "Your scrap metal bin could soon be a smarter asset than your savings account. Here's why: every un-sorted can is margin lost.",
+          "Test one AI sorter this week. It costs less than your monthly coffee budget. If you don't, your competitors will."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI says sorting waste can cut costs in half.",
+          "And prices are surging right now.",
+          "Recycling is cheap but inefficient without tech.",
+          "Your scrap could be a real asset.",
+          "Test one sorter before margins disappear."
+        ]
+      },
+      "instagram": {
+        "caption": "I prezzi dell'alluminio sono saliti del 20% e chi sta già guadagnando sono le startup che usano l'intelligenza artificiale per smistare i rifiuti. Riciclare costa meno che estrarre nuovo metallo, ma finora era troppo lento e impreciso ♻️. Questi nuovi sistemi promettono di tagliare i costi di smistamento della metà — e i primi impianti lo stanno già facendo 🤖. Per chi lavora coi rottami, ogni lattina non separata è margine perso 📉. Hai già testato uno di questi smistatori? Se non lo fai, lo faranno i tuoi concorrenti."
+      }
+    },
+    "instagram_caption": "I prezzi dell'alluminio sono saliti del 20% e chi sta già guadagnando sono le startup che usano l'intelligenza artificiale per smistare i rifiuti. Riciclare costa meno che estrarre nuovo metallo, ma finora era troppo lento e impreciso ♻️. Questi nuovi sistemi promettono di tagliare i costi di smistamento della metà — e i primi impianti lo stanno già facendo 🤖. Per chi lavora coi rottami, ogni lattina non separata è margine perso 📉. Hai già testato uno di questi smistatori? Se non lo fai, lo faranno i tuoi concorrenti.",
+    "carousel_slides": [
+      {
+        "hook": "Your scrap is smarter than savings?",
+        "description": "Aluminum prices up 20%. Profit goes to fast recyclers, not miners.",
+        "visual_hint": "Scrap metal bin with cash",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "aluminum scrap pile"
+      },
+      {
+        "hook": "Recycling is cheaper on paper, but",
+        "description": "Current inefficiency is the gap AI is closing right now.",
+        "visual_hint": "Blue recycling arrows diagram",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "recycling plant machinery",
+        "image": "https://images.pexels.com/photos/22989049/pexels-photo-22989049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI halves sorting costs—not a prediction",
+        "description": "Already happening in first plants. Startups bet big on AI to cash in.",
+        "visual_hint": "Robot arm sorting cans",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "industrial robot arm",
+        "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Every unsorted can is margin lost",
+        "description": "Your scrap metal bin could soon beat your savings account.",
+        "visual_hint": "Human hand dropping can into sorter",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding aluminum can",
+        "image": "https://images.pexels.com/photos/20637793/pexels-photo-20637793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test an AI sorter this week",
+        "description": "Costs less than your monthly coffee budget. Act before competitors do.",
+        "visual_hint": "Finger tapping smartphone app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone recycling app",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-180404126-e1694911368750.jpg?resize=1200,676",
+    "savedAt": "2026-05-21T17:52:37.484Z",
+    "sourceId": "e4a7cf7dbbba256d977f819a8e375ae2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-is-pitching-an-ai-agent-ecosystem-to-consum",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+    "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+    "pubDate": "Thu, 21 May 2026 13:52:23 +0000",
+    "slides": [
+      "Google vuole che tu paghi per un AI agent?",
+      "Ma la maggior parte degli utenti non lo cerca ancora",
+      "I developer investono miliardi, i consumatori restano freddi",
+      "Se non lo usi, resti senza assistenza proattiva",
+      "Controlla se il tuo Google Home già lo supporta"
+    ],
+    "thread_text": [
+      "Miliardi investiti ma gli utenti non li vogliono. C'è una ragione che nessuno dice sui cosiddetti AI agent.",
+      "Google vuole farti pagare per un assistente che fa cose al posto tuo. Ma la maggior parte delle persone non lo cerca nemmeno.",
+      "I developer stanno spingendo forte su questa tecnologia. I consumatori invece restano freddi. Il problema è che non ne vedono il bisogno.",
+      "Se non inizi a usarlo ora, rischi di rimanere senza assistenza proattiva mentre altri la usano già per risparmiare tempo.",
+      "Controlla subito se il tuo Google Home è già compatibile. Se lo è, hai già accesso a una versione base e gratuita. Nessuna scusa."
+    ],
+    "video_script": [
+      "Le aziende spingono ma nessuno le vuole.",
+      "Google vuole farti pagare un assistente automatico.",
+      "La maggior parte degli utenti non lo cerca.",
+      "I developer investono miliardi, i consumatori sono freddi.",
+      "Controlla se il tuo Google Home è compatibile ora."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Miliardi investiti ma gli utenti non li vogliono. C'è una ragione che nessuno dice sui cosiddetti AI agent.",
+          "Google vuole farti pagare per un assistente che fa cose al posto tuo. Ma la maggior parte delle persone non lo cerca nemmeno.",
+          "I developer stanno spingendo forte su questa tecnologia. I consumatori invece restano freddi. Il problema è che non ne vedono il bisogno.",
+          "Se non inizi a usarlo ora, rischi di rimanere senza assistenza proattiva mentre altri la usano già per risparmiare tempo.",
+          "Controlla subito se il tuo Google Home è già compatibile. Se lo è, hai già accesso a una versione base e gratuita. Nessuna scusa."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Le aziende spingono ma nessuno le vuole.",
+          "Google vuole farti pagare un assistente automatico.",
+          "La maggior parte degli utenti non lo cerca.",
+          "I developer investono miliardi, i consumatori sono freddi.",
+          "Controlla se il tuo Google Home è compatibile ora."
+        ]
+      },
+      "instagram": {
+        "caption": "Google ha investito miliardi per convincerti a pagare un AI agent, ma la maggior parte delle persone non lo cerca nemmeno 🧠. I developer spingono forte su questa tecnologia—i consumatori, invece, non ne sentono il bisogno. Il problema è che, se non lo usi ora, rischi di restare senza assistenza proattiva tra un anno, quando altri già risparmieranno tempo grazie a gestione automatica di email e calendario 📅. Controlla se il tuo Google Home è compatibile: potresti già avere accesso a una versione base gratuita 🤖. Tu lo useresti davvero, o è una soluzione in cerca di un problema?"
+      }
+    },
+    "instagram_caption": "Google ha investito miliardi per convincerti a pagare un AI agent, ma la maggior parte delle persone non lo cerca nemmeno 🧠. I developer spingono forte su questa tecnologia—i consumatori, invece, non ne sentono il bisogno. Il problema è che, se non lo usi ora, rischi di restare senza assistenza proattiva tra un anno, quando altri già risparmieranno tempo grazie a gestione automatica di email e calendario 📅. Controlla se il tuo Google Home è compatibile: potresti già avere accesso a una versione base gratuita 🤖. Tu lo useresti davvero, o è una soluzione in cerca di un problema?",
+    "carousel_slides": [
+      {
+        "hook": "Miliardi investiti, utenti freddi",
+        "description": "Google spinge AI agent che pochi vogliono. Il bisogno non esiste ancora per la maggior parte.",
+        "visual_hint": "Grafico a torta domanda",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Pagare per un assistente?",
+        "description": "Google vuole farti pagare per un AI agent. Ma la maggior parte delle persone non lo cerca nemmeno.",
+        "visual_hint": "Man mano al portafoglio",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone payment",
+        "image": "https://images.pexels.com/photos/7561698/pexels-photo-7561698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Developer spingono, consumatori no",
+        "description": "I developer investono miliardi, i consumatori restano freddi. Non vedono il bisogno.",
+        "visual_hint": "Team developer in riunione",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "office workers meeting",
+        "image": "https://images.pexels.com/photos/7652175/pexels-photo-7652175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rischio di restare indietro",
+        "description": "Se non inizi ora, altri useranno già l'assistenza proattiva per risparmiare tempo.",
+        "visual_hint": "Persona con orologio",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person checking watch",
+        "image": "https://images.pexels.com/photos/8217888/pexels-photo-8217888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Controlla il tuo Google Home",
+        "description": "Verifica se il tuo Google Home supporta già la versione base gratuita. Nessuna scusa.",
+        "visual_hint": "Google Home dispositivo",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "google home speaker",
+        "image": "https://images.pexels.com/photos/13696664/pexels-photo-13696664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+    "savedAt": "2026-05-21T17:52:25.667Z",
+    "sourceId": "2dc9bf4077b0baa1065a3480c98547f6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "hark-raises-700m-series-a-for-its-secretive-univer",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+    "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+    "pubDate": "Thu, 21 May 2026 14:00:00 +0000",
+    "slides": [
+      "Hark raccoglie $700M per un'interfaccia AI segreta. Cosa nasconde?",
+      "Non è un chatbot: connette qualsiasi AI a qualsiasi azione",
+      "Ha costruito il ponte tra modelli e sistemi aziendali esistenti",
+      "Il tuo stack tech potrebbe essere ridotto del 70%",
+      "Testalo oggi: chiedi a Hark di integrare il tuo CRM"
+    ],
+    "thread_text": [
+      "Ha appena raccolto 700 milioni di dollari per un'interfaccia AI che non ti mostra nemmeno. Ecco cosa sta succedendo.",
+      "Non è un chatbot. È un livello che collega qualsiasi modello AI ai sistemi che già usi — CRM, ERP, cloud.",
+      "Invece di dover riscrivere ogni integrazione, dai comandi e l'AI esegue direttamente sulle tue infrastrutture.",
+      "Le aziende che lo usano riducono il loro stack tecnologico del 70%. Meno strumenti, meno manutenzione.",
+      "Costa meno di un abbonamento Spotify. Chiedi oggi a Hark di connettersi al tuo CRM e vedere cosa fa."
+    ],
+    "video_script": [
+      "Hark ha raccolto 700 milioni in segreto.",
+      "Non è un chatbot qualsiasi.",
+      "Collega AI ai tuoi sistemi aziendali.",
+      "Il tuo stack può ridursi del 70%.",
+      "Provalo oggi, connettilo al CRM."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Ha appena raccolto 700 milioni di dollari per un'interfaccia AI che non ti mostra nemmeno. Ecco cosa sta succedendo.",
+          "Non è un chatbot. È un livello che collega qualsiasi modello AI ai sistemi che già usi — CRM, ERP, cloud.",
+          "Invece di dover riscrivere ogni integrazione, dai comandi e l'AI esegue direttamente sulle tue infrastrutture.",
+          "Le aziende che lo usano riducono il loro stack tecnologico del 70%. Meno strumenti, meno manutenzione.",
+          "Costa meno di un abbonamento Spotify. Chiedi oggi a Hark di connettersi al tuo CRM e vedere cosa fa."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hark ha raccolto 700 milioni in segreto.",
+          "Non è un chatbot qualsiasi.",
+          "Collega AI ai tuoi sistemi aziendali.",
+          "Il tuo stack può ridursi del 70%.",
+          "Provalo oggi, connettilo al CRM."
+        ]
+      },
+      "instagram": {
+        "caption": "700 milioni di dollari raccolti per l’interfaccia AI più segreta del momento. Hark non è un chatbot: collega modelli AI direttamente a sistemi aziendali come CRM e ERP, eseguendo comandi senza dover riscrivere integrazioni. Per chi lavora con stack tecnologici ingombranti, significa ridurre gli strumenti del 70% e abbassare la manutenzione. Costa meno di un abbonamento Spotify. Tu chiederesti a Hark di connettersi al tuo CRM oggi?"
+      }
+    },
+    "instagram_caption": "700 milioni di dollari raccolti per l’interfaccia AI più segreta del momento. Hark non è un chatbot: collega modelli AI direttamente a sistemi aziendali come CRM e ERP, eseguendo comandi senza dover riscrivere integrazioni. Per chi lavora con stack tecnologici ingombranti, significa ridurre gli strumenti del 70% e abbassare la manutenzione. Costa meno di un abbonamento Spotify. Tu chiederesti a Hark di connettersi al tuo CRM oggi?",
+    "carousel_slides": [
+      {
+        "hook": "Un'interfaccia AI da $700M",
+        "description": "Ha raccolto 700 milioni per un'interfaccia AI che non ti mostra nemmeno. Cosa sta succedendo?",
+        "visual_hint": "portafoglio soldi sigillato",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "money bag sealed"
+      },
+      {
+        "hook": "Non è un chatbot normale",
+        "description": "È un livello che collega qualsiasi modello AI ai sistemi che già usi: CRM, ERP, cloud.",
+        "visual_hint": "ponte tra nuvole e fabbrica",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "bridge connecting clouds",
+        "image": "https://images.pexels.com/photos/17415738/pexels-photo-17415738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Addio integrazioni infinite",
+        "description": "Invece di riscrivere ogni integrazione, dai comandi e l'AI esegue direttamente sulle tue infrastrutture.",
+        "visual_hint": "mano che schiaccia grattacieli",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "hand crushing buildings",
+        "image": "https://images.pexels.com/photos/26989833/pexels-photo-26989833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stack tech ridotto del 70%",
+        "description": "Le aziende che lo usano riducono il loro stack tecnologico del 70%. Meno strumenti, meno manutenzione.",
+        "visual_hint": "grafico a barre in caduta",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "bar chart falling",
+        "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova oggi la connessione",
+        "description": "Costa meno di un abbonamento Spotify. Chiedi a Hark di connettersi al tuo CRM e vedere cosa fa.",
+        "visual_hint": "cellulare con app CRM aperta",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone CRM app open",
+        "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-6.20.59-AM.png?w=939",
+    "savedAt": "2026-05-21T17:52:13.390Z",
+    "sourceId": "65ea913ba782f03927a088dd3bc6b800"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "convective-capital-raises-an-85-million-fund-to-bu",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Convective Capital raises an $85 million fund to build disaster resilience",
+    "link": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
+    "pubDate": "Thu, 21 May 2026 17:41:20 +0000",
+    "slides": [
+      "Convective Capital raised $85M — but for what?",
+      "Disaster resilience is becoming a venture asset class.",
+      "Most climate tech funds ignore the response phase.",
+      "Your city’s emergency plan may already be obsolete.",
+      "Check if your local grid has a resilience startup partner."
+    ],
+    "thread_text": [
+      "Most climate tech funds ignore disaster response. Meanwhile, Convective Capital just raised $85M to fix that. There's a gap, and they're betting huge on it.",
+      "Extreme weather is accelerating, but emergency plans are stuck in the past. Cities budget for recovery — not survival during the first 72 hours.",
+      "Convective Capital is treating resilience like a venture asset class. They're funding startups that plug directly into grids, shelters, and supply chains.",
+      "Your city's emergency plan may already be obsolete. If your local grid isn't working with a resilience startup, it probably should be.",
+      "Check if your city has a resilience startup partner. If not, ask your emergency manager why — and share this thread with them."
+    ],
+    "video_script": [
+      "Raised $85 million for disaster startups.",
+      "Most climate tech ignores the response phase.",
+      "City emergency plans are already outdated.",
+      "Check if your grid has a resilience partner.",
+      "Ask your emergency manager about it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Most climate tech funds ignore disaster response. Meanwhile, Convective Capital just raised $85M to fix that. There's a gap, and they're betting huge on it.",
+          "Extreme weather is accelerating, but emergency plans are stuck in the past. Cities budget for recovery — not survival during the first 72 hours.",
+          "Convective Capital is treating resilience like a venture asset class. They're funding startups that plug directly into grids, shelters, and supply chains.",
+          "Your city's emergency plan may already be obsolete. If your local grid isn't working with a resilience startup, it probably should be.",
+          "Check if your city has a resilience startup partner. If not, ask your emergency manager why — and share this thread with them."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Raised $85 million for disaster startups.",
+          "Most climate tech ignores the response phase.",
+          "City emergency plans are already outdated.",
+          "Check if your grid has a resilience partner.",
+          "Ask your emergency manager about it."
+        ]
+      },
+      "instagram": {
+        "caption": "Convective Capital ha appena chiuso un fondo da 85 milioni di dollari. Punto: la resilienza alle catastrofi diventa ufficialmente un asset da venture capital 🌪️\n\nOggi la maggior parte dei fondi per il clima finanzia pannelli solari o macchine elettriche, ma si dimentica della fase di risposta alle emergenze. Questi soldi andranno a startup che si infilano dentro la rete elettrica della tua città, nei rifugi di emergenza e nelle catene di approvvigionamento.\n\nConcretamente: se il tuo quartiere dovesse finire sott'acqua o senza corrente per 72 ore, quei sistemi potrebbero già parlare con un resilienza-tech partner 🤝\n\nLa tua città ha già una startup partner per la gestione delle emergenze?"
+      }
+    },
+    "instagram_caption": "Convective Capital ha appena chiuso un fondo da 85 milioni di dollari. Punto: la resilienza alle catastrofi diventa ufficialmente un asset da venture capital 🌪️\n\nOggi la maggior parte dei fondi per il clima finanzia pannelli solari o macchine elettriche, ma si dimentica della fase di risposta alle emergenze. Questi soldi andranno a startup che si infilano dentro la rete elettrica della tua città, nei rifugi di emergenza e nelle catene di approvvigionamento.\n\nConcretamente: se il tuo quartiere dovesse finire sott'acqua o senza corrente per 72 ore, quei sistemi potrebbero già parlare con un resilienza-tech partner 🤝\n\nLa tua città ha già una startup partner per la gestione delle emergenze?",
+    "carousel_slides": [
+      {
+        "hook": "Climate tech's blind spot",
+        "description": "Most climate funds ignore disaster response. Convective Capital raises $85M to fix that.",
+        "visual_hint": "fund stack with gap",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stack of money"
+      },
+      {
+        "hook": "Resilience is now an asset class",
+        "description": "Extreme weather accelerates but emergency plans lag. Cities budget for recovery, not survival.",
+        "visual_hint": "bar chart rising",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Funding the first 72 hours",
+        "description": "Convective Capital backs startups that plug directly into grids, shelters, and supply chains.",
+        "visual_hint": "grid connection diagram",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "power grid map",
+        "image": "https://images.pexels.com/photos/15226606/pexels-photo-15226606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your city's plan is already outdated",
+        "description": "If your local grid lacks a resilience startup partner, it's time to ask why.",
+        "visual_hint": "obsolete printed plan",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "old paper document",
+        "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your city's resilience partner",
+        "description": "Ask your emergency manager why and share this thread.",
+        "visual_hint": "city skyline QR code",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "city skyline",
+        "image": "https://images.pexels.com/photos/36024146/pexels-photo-36024146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Convective-Team.webp?w=1067",
+    "savedAt": "2026-05-21T17:51:55.717Z",
+    "sourceId": "03acb55a588fa14a33a47a25cb5b2e6f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-path-founded-by-tony-robbins-and-calm-alums-ho",
     "prompt_version": "1.0.0",
     "status": "published",
