@@ -109,7 +109,7 @@ window.AGENTS = {
       "agent": "ai-news",
       "slug": "musk-s-xai-is-being-sued-over-its-data-center-gene",
       "prompt_version": "1.0.0",
-      "status": "published",
+      "status": "approved",
       "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
       "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
       "pubDate": "Wed, 20 May 2026 21:55:49 +0000",
@@ -155,6 +155,58 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "I data center di Musk per l'AI hanno già superato i limiti legali di emissione, ma l'azienda continua a comprare nuovi generatori per altri 2,8 miliardi di dollari ⚡. Risultato: polveri sottili e rumore 24 ore su 24 per chi vive nei dintorni, senza un piano per ridurre i danni. Il tribunale deciderà se fermare le nuove macchine, ma per ora restano accese. Se vivi vicino a un mega data center, il costo nascosto dell'AI è aria peggiore e sonno perso. 🏭💨 Serve un tetto legale alle emissioni anche per l'addestramento dei modelli?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Musk’s xAI in hot water!",
+              "voiceover": "Musk’s xAI is facing a major lawsuit over its data center.",
+              "on_screen_text": "Musk’s xAI sued—buys $2.8B more generators?",
+              "visual_direction": "Dramatic visuals of Musk with headlines flashing.",
+              "caption": "Breaking news on xAI's controversy!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Violating emissions permits!",
+              "voiceover": "The data center emissions have allegedly violated legal permits.",
+              "on_screen_text": "Data center emissions violated permits.",
+              "visual_direction": "Graphics showing pollution and legal documents.",
+              "caption": "Environmental concerns rise!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "New units exceeding limits!",
+              "voiceover": "The new generators exceed existing legal limits on emissions.",
+              "on_screen_text": "New units exceed existing legal limits.",
+              "visual_direction": "Animation of generators with warning signs.",
+              "caption": "What's the impact on the environment?"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Local communities at risk!",
+              "voiceover": "Local communities are facing serious health risks due to emissions.",
+              "on_screen_text": "Local communities face health risks now.",
+              "visual_direction": "Footage of concerned residents and health statistics.",
+              "caption": "Community health is at stake!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "The future is uncertain!",
+              "voiceover": "The courts will ultimately decide xAI's next move.",
+              "on_screen_text": "Courts will decide next move.",
+              "visual_direction": "Courtroom visuals with a gavel coming down.",
+              "caption": "Stay tuned for updates!"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Follow for more updates on xAI!"
         }
       },
       "instagram_caption": "I data center di Musk per l'AI hanno già superato i limiti legali di emissione, ma l'azienda continua a comprare nuovi generatori per altri 2,8 miliardi di dollari ⚡. Risultato: polveri sottili e rumore 24 ore su 24 per chi vive nei dintorni, senza un piano per ridurre i danni. Il tribunale deciderà se fermare le nuove macchine, ma per ora restano accese. Se vivi vicino a un mega data center, il costo nascosto dell'AI è aria peggiore e sonno perso. 🏭💨 Serve un tetto legale alle emissioni anche per l'addestramento dei modelli?",
@@ -206,7 +258,14 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
       "savedAt": "2026-05-21T08:01:42.169Z",
-      "sourceId": "42a4a62f5a1df1578bc933dd44829b20"
+      "sourceId": "42a4a62f5a1df1578bc933dd44829b20",
+      "render_quality": "low",
+      "render_template": "slide_deck",
+      "render_status": {
+        "low": "done"
+      },
+      "render_path": "output/renders/musk-s-xai-is-being-sued-over-its-data-center-gene.mp4",
+      "render_error": null
     },
     {
       "schema_version": 2,
