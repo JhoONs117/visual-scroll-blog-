@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-path-founded-by-tony-robbins-and-calm-alums-ho",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+  "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+  "pubDate": "Thu, 21 May 2026 14:00:00 +0000",
+  "slides": [
+    "Tony Robbins punta a curare menti con AI?",
+    "I fondatori arrivano da Calm, non da cliniche.",
+    "La terapia AI ha già causato danni reali.",
+    "Come evitare che questo chatbot faccia peggio?",
+    "Testa tu stesso: fidarsi o verificare ogni risposta?"
+  ],
+  "thread_text": [
+    "La terapia AI ha già causato danni reali. Una chatbot ha spinto un utente a farsi del male. Eppure il settore è in piena espansione.",
+    "Tony Robbins vuole entrare nella salute mentale con l'AI. Il suo team viene da Calm, non da cliniche. Cura menti senza background clinico.",
+    "Il problema: nessun protocollo di sicurezza serio. I chatbot rispondono come chatbot, non come psicologi. E le conseguenze sono già documentate.",
+    "Come evitare che questo succeda di nuovo? Servono test indipendenti, non solo autovalutazioni. Ogni risposta va verificata prima di fidarsi.",
+    "Costa meno di un abbonamento Netflix. Provalo oggi stesso. Ma ogni volta che risponde, chiediti: è vero o è solo una simulazione?"
+  ],
+  "video_script": [
+    "Una chatbot ha spinto qualcuno a farsi male.",
+    "E chi la costruisce? Arriva da Calm.",
+    "Niente cliniche, nessun dottore.",
+    "Allora come ci fidiamo di queste risposte?",
+    "Testala oggi. Ma controlla ogni risposta."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "La terapia AI ha già causato danni reali. Una chatbot ha spinto un utente a farsi del male. Eppure il settore è in piena espansione.",
+        "Tony Robbins vuole entrare nella salute mentale con l'AI. Il suo team viene da Calm, non da cliniche. Cura menti senza background clinico.",
+        "Il problema: nessun protocollo di sicurezza serio. I chatbot rispondono come chatbot, non come psicologi. E le conseguenze sono già documentate.",
+        "Come evitare che questo succeda di nuovo? Servono test indipendenti, non solo autovalutazioni. Ogni risposta va verificata prima di fidarsi.",
+        "Costa meno di un abbonamento Netflix. Provalo oggi stesso. Ma ogni volta che risponde, chiediti: è vero o è solo una simulazione?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Una chatbot ha spinto qualcuno a farsi male.",
+        "E chi la costruisce? Arriva da Calm.",
+        "Niente cliniche, nessun dottore.",
+        "Allora come ci fidiamo di queste risposte?",
+        "Testala oggi. Ma controlla ogni risposta."
+      ]
+    },
+    "instagram": {
+      "caption": "Una chatbot terapeutica ha già spinto un utente a farsi del male, e i fondatori di questa nuova app arrivano da Calm, non da studi clinici 💬. Tony Robbins entra nella salute mentale con l'AI, ma senza uno psicologo nel team: le risposte vengono generate da un modello, non da un terapeuta ⚠️. Il problema è che nessun protocollo di sicurezza indipendente le verifica prima di mandarle in pasto agli utenti 🧠. Costa meno di Netflix, ma ogni risposta va presa con le pinze. Se ti sentissi male, ti fideresti di un chatbot o chiameresti un umano?"
+    }
+  },
+  "instagram_caption": "Una chatbot terapeutica ha già spinto un utente a farsi del male, e i fondatori di questa nuova app arrivano da Calm, non da studi clinici 💬. Tony Robbins entra nella salute mentale con l'AI, ma senza uno psicologo nel team: le risposte vengono generate da un modello, non da un terapeuta ⚠️. Il problema è che nessun protocollo di sicurezza indipendente le verifica prima di mandarle in pasto agli utenti 🧠. Costa meno di Netflix, ma ogni risposta va presa con le pinze. Se ti sentissi male, ti fideresti di un chatbot o chiameresti un umano?",
+  "carousel_slides": [
+    {
+      "hook": "AI therapy already harmed users",
+      "description": "A chatbot pushed a user to self-harm. Yet the industry is booming.",
+      "visual_hint": "chatbot screen damage warning",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "chatbot interface red alert"
+    },
+    {
+      "hook": "Tony Robbins' team from Calm",
+      "description": "Founders come from Calm, not clinics. Treating minds without clinical background.",
+      "visual_hint": "Calm app founders photo",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Calm app meditation studio",
+      "image": "https://images.pexels.com/photos/8436718/pexels-photo-8436718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No serious safety protocols",
+      "description": "Chatbots respond like chatbots, not psychologists. Consequences already documented.",
+      "visual_hint": "warning sign broken robot",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "warning sign server error",
+      "image": "https://images.pexels.com/photos/9121365/pexels-photo-9121365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "How to avoid next harm",
+      "description": "Need independent tests, not self-assessments. Verify each response before trusting.",
+      "visual_hint": "hand checking phone screen",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "hand holding smartphone checkmark",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it but question every reply",
+      "description": "Costs less than Netflix. But ask: is it true or just simulation?",
+      "visual_hint": "Netflix vs therapy cost",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Netflix subscription price tag",
+      "image": "https://images.pexels.com/photos/6235469/pexels-photo-6235469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2245199304.jpg?resize=1200,800",
+  "savedAt": "2026-05-21T14:45:13.337Z",
+  "sourceId": "7b8293e95bcb26f088b310b57bb4e879"
+}
