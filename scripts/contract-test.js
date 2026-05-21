@@ -29,8 +29,8 @@ function canonicalFiles(dir) {
 function checkArticle(article, filename) {
   const errors = [];
 
-  if (article.schema_version !== 2)
-    errors.push(`schema_version: atteso 2, trovato ${JSON.stringify(article.schema_version)}`);
+  if (article.schema_version !== 2 && article.schema_version !== 3)
+    errors.push(`schema_version: atteso 2 o 3, trovato ${JSON.stringify(article.schema_version)}`);
 
   if (!article.agent || typeof article.agent !== 'string')
     errors.push('agent: stringa non vuota richiesta');

@@ -71,7 +71,9 @@ async function waitForPublish(token, publishId, maxWaitMs = 120000) {
       }
     );
     const s = res.data.data;
-    if (s.status === 'PUBLISH_COMPLETE') return s;
+    // PUBLISH_COMPLETE = video.publish (post diretto)
+    // SEND_TO_USER_INBOX = video.upload (bozza inbox) — è lo stato finale sandbox
+    if (s.status === 'PUBLISH_COMPLETE' || s.status === 'SEND_TO_USER_INBOX') return s;
     if (s.status === 'FAILED') throw new Error(`TikTok publish fallito: ${JSON.stringify(s)}`);
     console.log(`  status: ${s.status} — attesa 5s...`);
     await new Promise(r => setTimeout(r, 5000));

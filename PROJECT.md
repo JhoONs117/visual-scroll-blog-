@@ -1,8 +1,8 @@
 # Visual AI Scroll Blog — PROJECT
 
 Documento unificato: stato attuale · roadmap · riferimento tecnico · storico.  
-Aggiornato: 2026-05-20 | Sostituisce: README.md · CONTEXT.md · LAVORO.md · M21-roadmap.md  
-Documento operativo correlato: **MANUAL.md** (come eseguire le operazioni) · **FOOD-AGENT.md** (secondo agente) · **REFACTOR-PLAN.md** (refactor multi-agente FASE 0-14)
+Aggiornato: 2026-05-21 | Fonte di verità tecnica. Documento operativo correlato: **MANUAL.md**  
+Docs archiviati in `archive/docs/`: FOOD-AGENT.md · REFACTOR-PLAN.md · CONTEXT.md · LAVORO.md · M21-roadmap.md
 
 ---
 
@@ -43,7 +43,6 @@ Documento operativo correlato: **MANUAL.md** (come eseguire le operazioni) · **
 | **Fix download PNG food** | ✅ Fix | Proxy `/proxy-image` in `server.js` bypassa CORS Giallozafferano; Pexels usa ancora `useCORS` diretto |
 | **Workflow approvazione articoli** | ✅ Completa | `POST /api/set-status` in `server.js`; tasto Approva in `review.html` (barra FASE12 progress) e `carousel.html` (status pill + counter + ✅ emoji nel dropdown) |
 | M21 — Test distribuzione reale | 🔄 In corso | Primo post 2026-05-11 ore 15:00 IT su X. 1 thread/giorno |
-| **Refactor FASE 13 — Carousel unificato** | ✅ Completa | `carousel.html?agent=ai-news\|food`, `carousel-food.html` rimosso; proxy immagini in `server.js` |
 | **Refactor FASE 14 — Video Engine V2** | ✅ Completa (2026-05-20) | Schema v3 migrato. Pipeline slide-deck: zoompan + TTS OpenAI 44kHz + subtitle. `render-pending.js` auto-import PNG + auto build+push. CI genera piani ogni 2h. Video visibili su Railway. |
 | **Refactor FASE 12 — Automazione publish** | 🔒 Bloccata | Instagram: account ristretto da Meta (impossibile creare App developer). TikTok sandbox ✅. X API Free non permette POST. |
 | M22 — Iterazione prompt da dati | ⏳ Dopo M21 | Richiede 15 post con dati reali |
@@ -112,7 +111,6 @@ M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → 
 | `generate-food.js` | `generateRecipeSlides` + `generateRecipeCarouselSlides` + caption/video/thread food |
 | `output/food/` | JSON food generati, separati da `output/` |
 | `frontend/data-food.js` | Generato da `run-food.js` — `window.FOOD_ARTICLES = [...]` |
-| `FOOD-AGENT.md` | Documento operativo completo del food agent (STEP 1–8) |
 
 **Frontend condiviso**
 
@@ -147,8 +145,7 @@ M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → 
 | `.github/workflows/pipeline.yml` | GitHub Actions — cron `0 */2 * * *`; esegue `run.js` (legacy), `run-food.js` (legacy), `core/run-agent.js food`, `core/run-agent.js fitness`, poi `build-data-agents.js` |
 | `.railwayignore` | Esclude `output/`, `output/food/`, `output/fitness/` dal deploy Railway |
 | `test-distribuzione.md` | Log giornaliero dei post M21 su X |
-| `MANUAL.md` | Manuale operativo: sorgenti, backfill, PNG, agente food |
-| `FOOD-AGENT.md` | Piano e documentazione completa del food agent |
+| `MANUAL.md` | Manuale operativo: come eseguire tutte le operazioni (30 sezioni) |
 
 ### Flusso autonomo
 
