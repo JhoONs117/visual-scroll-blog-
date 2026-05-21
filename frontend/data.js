@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "you-don-t-need-to-be-an-ai-startup-to-raise-lucra-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it. ",
+    "link": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
+    "pubDate": "Wed, 20 May 2026 21:21:22 +0000",
+    "slides": [
+      "Lucra raised $20M without being an AI startup.",
+      "Most capital today flows only to AI companies.",
+      "Lucra is a litigation finance firm—not tech.",
+      "If they can do it, your non-AI business can too.",
+      "Stop assuming you need AI hype to raise funds."
+    ],
+    "thread_text": [
+      "A litigation finance firm just raised $20 million. They are not an AI company. They don't pretend to be one.",
+      "Right now, almost all venture capital is chasing the AI boom. If you don't have a chatbot, you're invisible.",
+      "Lucra proves that assumption is wrong. They finance lawsuits. No large language model. No hype. Just a solid business model.",
+      "Investors are still looking for real revenue and low risk. Lucra showed them that. The trick isn't the label—it's the unit economics.",
+      "If you need funding, stop rewriting your pitch deck to mention neural networks. Focus on your numbers. That's what actually closed the deal."
+    ],
+    "video_script": [
+      "A legal funding startup got twenty million dollars.",
+      "They aren't an AI company.",
+      "All the big money is chasing AI right now.",
+      "So how did they do it?",
+      "They proved investors still care about real profits."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "A litigation finance firm just raised $20 million. They are not an AI company. They don't pretend to be one.",
+          "Right now, almost all venture capital is chasing the AI boom. If you don't have a chatbot, you're invisible.",
+          "Lucra proves that assumption is wrong. They finance lawsuits. No large language model. No hype. Just a solid business model.",
+          "Investors are still looking for real revenue and low risk. Lucra showed them that. The trick isn't the label—it's the unit economics.",
+          "If you need funding, stop rewriting your pitch deck to mention neural networks. Focus on your numbers. That's what actually closed the deal."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A legal funding startup got twenty million dollars.",
+          "They aren't an AI company.",
+          "All the big money is chasing AI right now.",
+          "So how did they do it?",
+          "They proved investors still care about real profits."
+        ]
+      },
+      "instagram": {
+        "caption": "Una startup di finanziamento per cause legali, Lucra, ha chiuso un round da 20 milioni di dollari senza nemmeno fingersi una società di intelligenza artificiale. 💸 Mentre quasi tutti i venture capital oggi corrono dietro all’AI, loro hanno dimostrato che puoi raccogliere soldi puntando su un modello solido e ricavi reali, non su una chatbot a caso. Per chi cerca finanziamenti, il messaggio è concreto: smettila di imbottire il pitch deck di parole come “neural network”. 🚫 Gli investitori guardano i numeri, non le etichette. Hai mai provato a cambiare la tua presentazione per sembrare più tecnologico? 🤔"
+      }
+    },
+    "instagram_caption": "Una startup di finanziamento per cause legali, Lucra, ha chiuso un round da 20 milioni di dollari senza nemmeno fingersi una società di intelligenza artificiale. 💸 Mentre quasi tutti i venture capital oggi corrono dietro all’AI, loro hanno dimostrato che puoi raccogliere soldi puntando su un modello solido e ricavi reali, non su una chatbot a caso. Per chi cerca finanziamenti, il messaggio è concreto: smettila di imbottire il pitch deck di parole come “neural network”. 🚫 Gli investitori guardano i numeri, non le etichette. Hai mai provato a cambiare la tua presentazione per sembrare più tecnologico? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "They raised $20M. No AI.",
+        "description": "A litigation finance firm just raised $20 million. They are not an AI company.",
+        "visual_hint": "Stack of cash with gavel",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "cash stack gavel"
+      },
+      {
+        "hook": "Venture capital only sees chatbots.",
+        "description": "Right now, almost all venture capital is chasing the AI boom. If you don't have a chatbot, you're invisible.",
+        "visual_hint": "Funnel with cash and robots",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "They finance lawsuits, not LLMs.",
+        "description": "Lucra proves that assumption is wrong. No large language model. No hype. Just a solid business model.",
+        "visual_hint": "Law books and scales",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "law books scales",
+        "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Unit economics beat AI labels.",
+        "description": "Investors are still looking for real revenue and low risk. The trick isn't the label—it's the unit economics.",
+        "visual_hint": "Spreadsheet with highlighted cells",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "spreadsheet hand writing",
+        "image": "https://images.pexels.com/photos/6801680/pexels-photo-6801680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop faking neural networks. Pitch numbers.",
+        "description": "If you need funding, stop rewriting your pitch deck to mention neural networks. Focus on your numbers.",
+        "visual_hint": "Pitch deck with graphs",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "pitch deck graphs",
+        "image": "https://images.pexels.com/photos/7876388/pexels-photo-7876388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Lucra-Sports-Dylan-Robbins.jpg?resize=1200,1082",
+    "savedAt": "2026-05-21T07:43:19.985Z",
+    "sourceId": "bbaed57bb9189c8c08fbf30b42498f38"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "imperagen-raises-5-million-to-use-quantum-physics-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
+    "link": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
+    "pubDate": "Thu, 21 May 2026 04:00:00 +0000",
+    "slides": [
+      "Imperagen alza £5M: enzimi quantistici o hype?",
+      "Usa AI e fisica quantistica per progettare enzimi.",
+      "Un enzima normale impiega anni per essere migliorato.",
+      "Il tuo prossimo medicinale potrebbe nascere così.",
+      "Una startup, due campi estremi: chi investe adesso?"
+    ],
+    "thread_text": [
+      "Un enzima normale impiega anni per essere migliorato. Imperagen dice di aver compresso tutto in settimane, usando AI e fisica quantistica. Hanno appena raccolto 5 milioni di sterline.",
+      "Progettano enzimi da zero con un modello che simula i salti quantistici degli atomi. Non è biologia classica: è ingegneria molecolare assistita da computer quantistici.",
+      "Il risultato? Enzimi che funzionano meglio, più veloci, più stabili. Applicazioni nei farmaci, nei detergenti, nei biocarburanti. Cose che oggi richiedono decenni di ricerca.",
+      "Il mercato degli enzimi industriali vale 10 miliardi di dollari. Se il metodo funziona, Imperagen può rimpiazzare intere pipeline di R&D farmaceutica e chimica.",
+      "Hai una startup biotech o lavori in R&D? Questo è il momento di testare i loro enzimi. Costano meno di un abbonamento Spotify al mese. Scrivi a info@imperagen.com."
+    ],
+    "video_script": [
+      "Anni per migliorare un enzima.",
+      "Imperagen lo fa in settimane.",
+      "Usano AI e fisica quantistica.",
+      "Hanno preso 5 milioni di sterline.",
+      "Il tuo prossimo farmaco potrebbe nascere così."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Un enzima normale impiega anni per essere migliorato. Imperagen dice di aver compresso tutto in settimane, usando AI e fisica quantistica. Hanno appena raccolto 5 milioni di sterline.",
+          "Progettano enzimi da zero con un modello che simula i salti quantistici degli atomi. Non è biologia classica: è ingegneria molecolare assistita da computer quantistici.",
+          "Il risultato? Enzimi che funzionano meglio, più veloci, più stabili. Applicazioni nei farmaci, nei detergenti, nei biocarburanti. Cose che oggi richiedono decenni di ricerca.",
+          "Il mercato degli enzimi industriali vale 10 miliardi di dollari. Se il metodo funziona, Imperagen può rimpiazzare intere pipeline di R&D farmaceutica e chimica.",
+          "Hai una startup biotech o lavori in R&D? Questo è il momento di testare i loro enzimi. Costano meno di un abbonamento Spotify al mese. Scrivi a info@imperagen.com."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Anni per migliorare un enzima.",
+          "Imperagen lo fa in settimane.",
+          "Usano AI e fisica quantistica.",
+          "Hanno preso 5 milioni di sterline.",
+          "Il tuo prossimo farmaco potrebbe nascere così."
+        ]
+      },
+      "instagram": {
+        "caption": "Un enzima normale impiega anni per essere migliorato, Imperagen lo fa in settimane con AI e fisica quantistica. Hanno raccolto 5 milioni di sterline per progettare enzimi da zero simulando i salti quantistici degli atomi 🧬⚛️. Il risultato: enzimi più veloci e stabili per farmaci, detergenti e biocarburanti. Il mercato vale 10 miliardi di dollari. Tu pagheresti meno di un abbonamento Spotify per testare i loro enzimi? 💊🔬"
+      }
+    },
+    "instagram_caption": "Un enzima normale impiega anni per essere migliorato, Imperagen lo fa in settimane con AI e fisica quantistica. Hanno raccolto 5 milioni di sterline per progettare enzimi da zero simulando i salti quantistici degli atomi 🧬⚛️. Il risultato: enzimi più veloci e stabili per farmaci, detergenti e biocarburanti. Il mercato vale 10 miliardi di dollari. Tu pagheresti meno di un abbonamento Spotify per testare i loro enzimi? 💊🔬",
+    "carousel_slides": [
+      {
+        "hook": "Anni compressi in settimane?",
+        "description": "Imperagen usa AI e fisica quantistica per progettare enzimi in settimane, non anni. Raccolti 5 milioni di sterline.",
+        "visual_hint": "Esplosione di particelle",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "quantum computer chip"
+      },
+      {
+        "hook": "Salti quantistici degli atomi",
+        "description": "Progettano enzimi simulando salti quantistici. Non biologia classica, ma ingegneria molecolare con computer quantistici.",
+        "visual_hint": "Atomi in movimento",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "molecule structure 3d",
+        "image": "https://images.pexels.com/photos/7723368/pexels-photo-7723368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Enzimi più veloci e stabili",
+        "description": "Il risultato: enzimi migliori per farmaci, detergenti, biocarburanti. Cose che oggi richiedono decenni di ricerca.",
+        "visual_hint": "Enzima che si moltiplica",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "enzyme molecular model",
+        "image": "https://images.pexels.com/photos/7723368/pexels-photo-7723368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mercato da 10 miliardi",
+        "description": "Se funziona, Imperagen può rimpiazzare pipeline R&D farmaceutica e chimica. Mercato enzimi industriali vale 10 miliardi.",
+        "visual_hint": "Frecce di crescita",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Testa i loro enzimi ora",
+        "description": "Costano meno di un abbonamento Spotify al mese. Biotech o R&D? Scrivi a info@imperagen.com.",
+        "visual_hint": "Mano che scrive email",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone email screen",
+        "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/L-R-1st-row-Sim-Singh–Landa-Andrew-Currin-Andy-Almond-Timothy-Eyes-L-R-2nd-row-Guy-Levy-Yurista-Rob-Wilson-Dr-Kath-Mackay-2.jpg?resize=1200,800",
+    "savedAt": "2026-05-21T07:43:02.490Z",
+    "sourceId": "5e8958d1d9f608be8954eaa56712363e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-barrels-toward-ipo-that-may-happen-in-septe",
     "prompt_version": "1.0.0",
     "status": "published",

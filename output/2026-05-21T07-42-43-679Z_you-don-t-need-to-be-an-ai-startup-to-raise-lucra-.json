@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "you-don-t-need-to-be-an-ai-startup-to-raise-lucra-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it. ",
+  "link": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
+  "pubDate": "Wed, 20 May 2026 21:21:22 +0000",
+  "slides": [
+    "Lucra raised $20M without being an AI startup.",
+    "Most capital today flows only to AI companies.",
+    "Lucra is a litigation finance firm—not tech.",
+    "If they can do it, your non-AI business can too.",
+    "Stop assuming you need AI hype to raise funds."
+  ],
+  "thread_text": [
+    "A litigation finance firm just raised $20 million. They are not an AI company. They don't pretend to be one.",
+    "Right now, almost all venture capital is chasing the AI boom. If you don't have a chatbot, you're invisible.",
+    "Lucra proves that assumption is wrong. They finance lawsuits. No large language model. No hype. Just a solid business model.",
+    "Investors are still looking for real revenue and low risk. Lucra showed them that. The trick isn't the label—it's the unit economics.",
+    "If you need funding, stop rewriting your pitch deck to mention neural networks. Focus on your numbers. That's what actually closed the deal."
+  ],
+  "video_script": [
+    "A legal funding startup got twenty million dollars.",
+    "They aren't an AI company.",
+    "All the big money is chasing AI right now.",
+    "So how did they do it?",
+    "They proved investors still care about real profits."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "A litigation finance firm just raised $20 million. They are not an AI company. They don't pretend to be one.",
+        "Right now, almost all venture capital is chasing the AI boom. If you don't have a chatbot, you're invisible.",
+        "Lucra proves that assumption is wrong. They finance lawsuits. No large language model. No hype. Just a solid business model.",
+        "Investors are still looking for real revenue and low risk. Lucra showed them that. The trick isn't the label—it's the unit economics.",
+        "If you need funding, stop rewriting your pitch deck to mention neural networks. Focus on your numbers. That's what actually closed the deal."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A legal funding startup got twenty million dollars.",
+        "They aren't an AI company.",
+        "All the big money is chasing AI right now.",
+        "So how did they do it?",
+        "They proved investors still care about real profits."
+      ]
+    },
+    "instagram": {
+      "caption": "Una startup di finanziamento per cause legali, Lucra, ha chiuso un round da 20 milioni di dollari senza nemmeno fingersi una società di intelligenza artificiale. 💸 Mentre quasi tutti i venture capital oggi corrono dietro all’AI, loro hanno dimostrato che puoi raccogliere soldi puntando su un modello solido e ricavi reali, non su una chatbot a caso. Per chi cerca finanziamenti, il messaggio è concreto: smettila di imbottire il pitch deck di parole come “neural network”. 🚫 Gli investitori guardano i numeri, non le etichette. Hai mai provato a cambiare la tua presentazione per sembrare più tecnologico? 🤔"
+    }
+  },
+  "instagram_caption": "Una startup di finanziamento per cause legali, Lucra, ha chiuso un round da 20 milioni di dollari senza nemmeno fingersi una società di intelligenza artificiale. 💸 Mentre quasi tutti i venture capital oggi corrono dietro all’AI, loro hanno dimostrato che puoi raccogliere soldi puntando su un modello solido e ricavi reali, non su una chatbot a caso. Per chi cerca finanziamenti, il messaggio è concreto: smettila di imbottire il pitch deck di parole come “neural network”. 🚫 Gli investitori guardano i numeri, non le etichette. Hai mai provato a cambiare la tua presentazione per sembrare più tecnologico? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "They raised $20M. No AI.",
+      "description": "A litigation finance firm just raised $20 million. They are not an AI company.",
+      "visual_hint": "Stack of cash with gavel",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "cash stack gavel"
+    },
+    {
+      "hook": "Venture capital only sees chatbots.",
+      "description": "Right now, almost all venture capital is chasing the AI boom. If you don't have a chatbot, you're invisible.",
+      "visual_hint": "Funnel with cash and robots",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They finance lawsuits, not LLMs.",
+      "description": "Lucra proves that assumption is wrong. No large language model. No hype. Just a solid business model.",
+      "visual_hint": "Law books and scales",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "law books scales",
+      "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Unit economics beat AI labels.",
+      "description": "Investors are still looking for real revenue and low risk. The trick isn't the label—it's the unit economics.",
+      "visual_hint": "Spreadsheet with highlighted cells",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "spreadsheet hand writing",
+      "image": "https://images.pexels.com/photos/6801680/pexels-photo-6801680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop faking neural networks. Pitch numbers.",
+      "description": "If you need funding, stop rewriting your pitch deck to mention neural networks. Focus on your numbers.",
+      "visual_hint": "Pitch deck with graphs",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "pitch deck graphs",
+      "image": "https://images.pexels.com/photos/7876388/pexels-photo-7876388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Lucra-Sports-Dylan-Robbins.jpg?resize=1200,1082",
+  "savedAt": "2026-05-21T07:43:19.985Z",
+  "sourceId": "bbaed57bb9189c8c08fbf30b42498f38"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "imperagen-raises-5-million-to-use-quantum-physics-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
+  "link": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
+  "pubDate": "Thu, 21 May 2026 04:00:00 +0000",
+  "slides": [
+    "Imperagen alza £5M: enzimi quantistici o hype?",
+    "Usa AI e fisica quantistica per progettare enzimi.",
+    "Un enzima normale impiega anni per essere migliorato.",
+    "Il tuo prossimo medicinale potrebbe nascere così.",
+    "Una startup, due campi estremi: chi investe adesso?"
+  ],
+  "thread_text": [
+    "Un enzima normale impiega anni per essere migliorato. Imperagen dice di aver compresso tutto in settimane, usando AI e fisica quantistica. Hanno appena raccolto 5 milioni di sterline.",
+    "Progettano enzimi da zero con un modello che simula i salti quantistici degli atomi. Non è biologia classica: è ingegneria molecolare assistita da computer quantistici.",
+    "Il risultato? Enzimi che funzionano meglio, più veloci, più stabili. Applicazioni nei farmaci, nei detergenti, nei biocarburanti. Cose che oggi richiedono decenni di ricerca.",
+    "Il mercato degli enzimi industriali vale 10 miliardi di dollari. Se il metodo funziona, Imperagen può rimpiazzare intere pipeline di R&D farmaceutica e chimica.",
+    "Hai una startup biotech o lavori in R&D? Questo è il momento di testare i loro enzimi. Costano meno di un abbonamento Spotify al mese. Scrivi a info@imperagen.com."
+  ],
+  "video_script": [
+    "Anni per migliorare un enzima.",
+    "Imperagen lo fa in settimane.",
+    "Usano AI e fisica quantistica.",
+    "Hanno preso 5 milioni di sterline.",
+    "Il tuo prossimo farmaco potrebbe nascere così."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Un enzima normale impiega anni per essere migliorato. Imperagen dice di aver compresso tutto in settimane, usando AI e fisica quantistica. Hanno appena raccolto 5 milioni di sterline.",
+        "Progettano enzimi da zero con un modello che simula i salti quantistici degli atomi. Non è biologia classica: è ingegneria molecolare assistita da computer quantistici.",
+        "Il risultato? Enzimi che funzionano meglio, più veloci, più stabili. Applicazioni nei farmaci, nei detergenti, nei biocarburanti. Cose che oggi richiedono decenni di ricerca.",
+        "Il mercato degli enzimi industriali vale 10 miliardi di dollari. Se il metodo funziona, Imperagen può rimpiazzare intere pipeline di R&D farmaceutica e chimica.",
+        "Hai una startup biotech o lavori in R&D? Questo è il momento di testare i loro enzimi. Costano meno di un abbonamento Spotify al mese. Scrivi a info@imperagen.com."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anni per migliorare un enzima.",
+        "Imperagen lo fa in settimane.",
+        "Usano AI e fisica quantistica.",
+        "Hanno preso 5 milioni di sterline.",
+        "Il tuo prossimo farmaco potrebbe nascere così."
+      ]
+    },
+    "instagram": {
+      "caption": "Un enzima normale impiega anni per essere migliorato, Imperagen lo fa in settimane con AI e fisica quantistica. Hanno raccolto 5 milioni di sterline per progettare enzimi da zero simulando i salti quantistici degli atomi 🧬⚛️. Il risultato: enzimi più veloci e stabili per farmaci, detergenti e biocarburanti. Il mercato vale 10 miliardi di dollari. Tu pagheresti meno di un abbonamento Spotify per testare i loro enzimi? 💊🔬"
+    }
+  },
+  "instagram_caption": "Un enzima normale impiega anni per essere migliorato, Imperagen lo fa in settimane con AI e fisica quantistica. Hanno raccolto 5 milioni di sterline per progettare enzimi da zero simulando i salti quantistici degli atomi 🧬⚛️. Il risultato: enzimi più veloci e stabili per farmaci, detergenti e biocarburanti. Il mercato vale 10 miliardi di dollari. Tu pagheresti meno di un abbonamento Spotify per testare i loro enzimi? 💊🔬",
+  "carousel_slides": [
+    {
+      "hook": "Anni compressi in settimane?",
+      "description": "Imperagen usa AI e fisica quantistica per progettare enzimi in settimane, non anni. Raccolti 5 milioni di sterline.",
+      "visual_hint": "Esplosione di particelle",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "quantum computer chip"
+    },
+    {
+      "hook": "Salti quantistici degli atomi",
+      "description": "Progettano enzimi simulando salti quantistici. Non biologia classica, ma ingegneria molecolare con computer quantistici.",
+      "visual_hint": "Atomi in movimento",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "molecule structure 3d",
+      "image": "https://images.pexels.com/photos/7723368/pexels-photo-7723368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Enzimi più veloci e stabili",
+      "description": "Il risultato: enzimi migliori per farmaci, detergenti, biocarburanti. Cose che oggi richiedono decenni di ricerca.",
+      "visual_hint": "Enzima che si moltiplica",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "enzyme molecular model",
+      "image": "https://images.pexels.com/photos/7723368/pexels-photo-7723368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Mercato da 10 miliardi",
+      "description": "Se funziona, Imperagen può rimpiazzare pipeline R&D farmaceutica e chimica. Mercato enzimi industriali vale 10 miliardi.",
+      "visual_hint": "Frecce di crescita",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Testa i loro enzimi ora",
+      "description": "Costano meno di un abbonamento Spotify al mese. Biotech o R&D? Scrivi a info@imperagen.com.",
+      "visual_hint": "Mano che scrive email",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone email screen",
+      "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/L-R-1st-row-Sim-Singh–Landa-Andrew-Currin-Andy-Almond-Timothy-Eyes-L-R-2nd-row-Guy-Levy-Yurista-Rob-Wilson-Dr-Kath-Mackay-2.jpg?resize=1200,800",
+  "savedAt": "2026-05-21T07:43:02.490Z",
+  "sourceId": "5e8958d1d9f608be8954eaa56712363e"
+}
