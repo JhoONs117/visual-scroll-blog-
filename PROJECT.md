@@ -28,7 +28,7 @@ Docs archiviati in `archive/docs/`: FOOD-AGENT.md · REFACTOR-PLAN.md · CONTEXT
 | Upgrade Pexels (era Wikimedia) | ✅ Completa | `fetchPexelsImage` portrait large2x in `fetch.js`; ultime 20 backfillate |
 | Download PNG carousel | ✅ Completa | html2canvas 1080×1350px (4:5), modal + bottoni in `carousel.html` |
 | Bug: `article.image` mancante in run.js | ✅ Fix | `fetchArticleImage` ora chiamata in `run.js` su ogni nuovo articolo |
-| **Food Agent — 5 Step Food** | ✅ Completa | `fetch-food.js` + `generate-food.js` + `run-food.js` |
+| **Food Agent — 5 Step Food** | ✅ Completa | `fetch-food.js` + `generate-food.js` + `core/run-agent.js food` |
 | **Feed multi-agente** | ✅ Completa | `index.html` agent-bar, `renderFeed()`, palette `.food-story`, navigazione tra pagine |
 | **Carousel AI News completo** | ✅ Completa | Sezioni Hook/Thread/Caption/Script in `carousel.html`; `generateAINewsCaption` in pipeline; 74 caption backfillate |
 | **Refactor FASE 1 — Schema v2** | ✅ Completa | `schema_version`, `agent`, `status`, `prompt_version`, `formats.*`, alias legacy |
@@ -98,19 +98,17 @@ M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → 
 | `backfill.js` | Backfill `thread_text`/`video_script`/`instagram_caption` su articoli esistenti |
 | `backfill-carousel.js` | Backfill `carousel_slides` + Pexels + `article.image` — flag `--force`, `--last N` |
 | `regenerate-all.js` | Rigenera slide + formati per tutti gli articoli unici con prompt aggiornati |
-| `backfill-links.js` | Aggiunge retroattivamente il campo `link` dai feed RSS |
 | `output/` | JSON AI news generati (`timestamp_slug.json`) |
-| `frontend/data.js` | Generato da `run.js` — `window.ARTICLES = [...]`, ordinato per `savedAt` desc |
+| `frontend/data.js` | Generato da `run.js` localmente — non usato dal frontend (usa `data-agents.js`) |
 
 **Agente 5 Step Food**
 
 | File | Ruolo |
 |---|---|
-| `run-food.js` | Entry point food — pipeline completa: fetch → genera → salva, scrive `frontend/data-food.js` |
 | `fetch-food.js` | Feed RSS food (Giallozafferano) + `fetchArticleContent(url)` per scraping ingredienti |
 | `generate-food.js` | `generateRecipeSlides` + `generateRecipeCarouselSlides` + caption/video/thread food |
 | `output/food/` | JSON food generati, separati da `output/` |
-| `frontend/data-food.js` | Generato da `run-food.js` — `window.FOOD_ARTICLES = [...]` |
+| `frontend/data-food.js` | Generato da `core/run-agent.js food` — non usato dal frontend (usa `data-agents.js`) |
 
 **Frontend condiviso**
 
@@ -142,7 +140,7 @@ M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → 
 | `deepseek.js` | Wrapper `callDeepSeek(prompt)` → stringa risposta |
 | `cache.json` | Cache persistente condivisa — chiavi per agente (`md5(title)`, `ainews:caption:*`, `food:*`) |
 | `review_queue.json` | Articoli AI news falliti dopo 2 tentativi di validazione |
-| `.github/workflows/pipeline.yml` | GitHub Actions — cron `0 */2 * * *`; esegue `run.js` (legacy), `run-food.js` (legacy), `core/run-agent.js food`, `core/run-agent.js fitness`, poi `build-data-agents.js` |
+| `.github/workflows/pipeline.yml` | GitHub Actions — cron `0 */2 * * *`; esegue `core/run-agent.js ai-news`, `core/run-agent.js food`, `core/run-agent.js fitness`, poi `build-data-agents.js` e piani video |
 | `.railwayignore` | Esclude `output/`, `output/food/`, `output/fitness/` dal deploy Railway |
 | `test-distribuzione.md` | Log giornaliero dei post M21 su X |
 | `MANUAL.md` | Manuale operativo: come eseguire tutte le operazioni (30 sezioni) |
@@ -151,20 +149,21 @@ M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → 
 
 ```
 ogni 2 ore
-  └── GitHub Actions esegue run.js  (AI News — legacy, mantiene data.js)
-        └── fetch RSS → deduplicate → hardFilter → batchAIFilter
+  └── GitHub Actions esegue core/run-agent.js ai-news
+        └── agents/ai-news/config.js → fetch RSS → hardFilter → batchAIFilter
               └── generateSlides + generateFormats + generateAINewsCaption + generateCarouselSlides
                     └── fetchPexelsImage (slide 2-5) + fetchArticleImage (slide 1)
-                          └── salva output/*.json + frontend/data.js
-  └── GitHub Actions esegue run-food.js  (Food legacy — mantiene data-food.js)
-        └── fetchFoodArticles → looksLikeRecipe gate → salva output/food/*.json + frontend/data-food.js
-  └── GitHub Actions esegue core/run-agent.js food  (runner unificato — agente food)
-        └── agents/food/config.js → fetch → gate → generate → salva output/food/*.json
-  └── GitHub Actions esegue core/run-agent.js fitness  (runner unificato — agente fitness)
+                          └── salva output/*.json
+  └── GitHub Actions esegue core/run-agent.js food
+        └── agents/food/config.js → fetch Giallozafferano → looksLikeRecipe gate
+              └── generateRecipeSlides + carousel + caption + videoScript + thread
+                    └── salva output/food/*.json
+  └── GitHub Actions esegue core/run-agent.js fitness
         └── agents/fitness/config.js → fetch → gate → generate → salva output/fitness/*.json
   └── GitHub Actions esegue scripts/build-data-agents.js
         └── legge output/ + output/food/ + output/fitness/ → scrive frontend/data-agents.js
               └── window.AGENTS = {'ai-news':[...], 'food':[...], 'fitness':[...]}
+  └── GitHub Actions genera piani video (ai-news, food, fitness) via video/generate-video-plan.js --ci
   └── git commit + push
         └── Railway autodeploy (~1 min)
               └── sito aggiornato online (tutti gli agenti via data-agents.js)
