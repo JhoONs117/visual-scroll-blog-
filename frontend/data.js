@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "musk-s-xai-is-being-sued-over-its-data-center-gene",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+    "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+    "pubDate": "Wed, 20 May 2026 21:55:49 +0000",
+    "slides": [
+      "Musk’s xAI sued—buys $2.8B more generators?",
+      "Data center emissions violated permits.",
+      "New units exceed existing legal limits.",
+      "Local communities face health risks now.",
+      "Courts will decide next move."
+    ],
+    "thread_text": [
+      "I nuovi data center di xAI hanno già superato i limiti di emissione legali — e Musk continua a comprare generatori.",
+      "Le autorità hanno citato in giudizio xAI per le violazioni ambientali, mentre l'azienda aggiunge 2,8 miliardi di dollari in nuovi generatori.",
+      "Le comunità locali denunciano rischi per la salute: polveri sottili e rumore h24. Nessun piano di mitigazione visibile.",
+      "L'azienda sostiene che i generatori sono necessari per l'addestramento AI, ma gli studi mostrano emissioni 3x rispetto al limite.",
+      "La corte deciderà a breve se bloccare le nuove unità. Fino a quel momento, i generatori continuano a funzionare."
+    ],
+    "video_script": [
+      "xAI viola i permessi ambientali sui data center.",
+      "Musk compra 2.8 miliardi in generatori extra.",
+      "Le nuove unità superano i limiti legali.",
+      "La gente del posto rischia la salute ora.",
+      "Il giudice deciderà tra pochi giorni."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "I nuovi data center di xAI hanno già superato i limiti di emissione legali — e Musk continua a comprare generatori.",
+          "Le autorità hanno citato in giudizio xAI per le violazioni ambientali, mentre l'azienda aggiunge 2,8 miliardi di dollari in nuovi generatori.",
+          "Le comunità locali denunciano rischi per la salute: polveri sottili e rumore h24. Nessun piano di mitigazione visibile.",
+          "L'azienda sostiene che i generatori sono necessari per l'addestramento AI, ma gli studi mostrano emissioni 3x rispetto al limite.",
+          "La corte deciderà a breve se bloccare le nuove unità. Fino a quel momento, i generatori continuano a funzionare."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "xAI viola i permessi ambientali sui data center.",
+          "Musk compra 2.8 miliardi in generatori extra.",
+          "Le nuove unità superano i limiti legali.",
+          "La gente del posto rischia la salute ora.",
+          "Il giudice deciderà tra pochi giorni."
+        ]
+      },
+      "instagram": {
+        "caption": "I data center di Musk per l'AI hanno già superato i limiti legali di emissione, ma l'azienda continua a comprare nuovi generatori per altri 2,8 miliardi di dollari ⚡. Risultato: polveri sottili e rumore 24 ore su 24 per chi vive nei dintorni, senza un piano per ridurre i danni. Il tribunale deciderà se fermare le nuove macchine, ma per ora restano accese. Se vivi vicino a un mega data center, il costo nascosto dell'AI è aria peggiore e sonno perso. 🏭💨 Serve un tetto legale alle emissioni anche per l'addestramento dei modelli?"
+      }
+    },
+    "instagram_caption": "I data center di Musk per l'AI hanno già superato i limiti legali di emissione, ma l'azienda continua a comprare nuovi generatori per altri 2,8 miliardi di dollari ⚡. Risultato: polveri sottili e rumore 24 ore su 24 per chi vive nei dintorni, senza un piano per ridurre i danni. Il tribunale deciderà se fermare le nuove macchine, ma per ora restano accese. Se vivi vicino a un mega data center, il costo nascosto dell'AI è aria peggiore e sonno perso. 🏭💨 Serve un tetto legale alle emissioni anche per l'addestramento dei modelli?",
+    "carousel_slides": [
+      {
+        "hook": "Emissioni 3x il limite",
+        "description": "I nuovi data center di xAI superano i limiti legali di emissione. L'azienda continua ad acquistare generatori.",
+        "visual_hint": "Grafico emissioni in rosso",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "pollution chart red"
+      },
+      {
+        "hook": "2.8 miliardi di nuovi generatori",
+        "description": "xAI aggiunge 2,8 miliardi di dollari in generatori nonostante sia stata citata in giudizio per violazioni ambientali.",
+        "visual_hint": "Banconote e generatori",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "power generators industrial",
+        "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rischi per la salute denunciati",
+        "description": "Comunità locali segnalano polveri sottili e rumore h24 dai data center. Nessun piano di mitigazione visibile.",
+        "visual_hint": "Case vicino a torri",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "residential area near plant",
+        "image": "https://images.pexels.com/photos/17960036/pexels-photo-17960036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Necessari per AI, dicono",
+        "description": "L'azienda sostiene che i generatori servono all'addestramento AI, ma gli studi mostrano emissioni 3x superiori al limite.",
+        "visual_hint": "Cervello e server",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "AI server racks",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Corte deciderà il futuro",
+        "description": "La corte potrebbe bloccare le nuove unità. Fino ad allora, i generatori continuano a funzionare senza sosta.",
+        "visual_hint": "Martelletto e documento",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "gavel legal document",
+        "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+    "savedAt": "2026-05-21T08:01:42.169Z",
+    "sourceId": "42a4a62f5a1df1578bc933dd44829b20"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "you-don-t-need-to-be-an-ai-startup-to-raise-lucra-",
     "prompt_version": "1.0.0",
     "status": "published",
