@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "china-s-ai-just-mapped-its-entire-renewable-energy",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention",
+    "link": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
+    "pubDate": "Fri, 22 May 2026 10:00:00 +0000",
+    "slides": [
+      "China’s AI mapped its entire energy grid. What did it find?",
+      "One model now coordinates solar, wind, and storage in real time.",
+      "The AI predicts failures minutes before they happen—and reroutes instantly.",
+      "Your local grid could learn from this—or risk being left behind.",
+      "Watch how China’s system handles tomorrow’s blackout."
+    ],
+    "thread_text": [
+      "L'AI cinese ha previsto un blackout 4 minuti prima che accadesse. Ha reindirizzato l'energia di 12 città in 3 secondi.",
+      "Dietro c'è un solo modello che coordina ogni pannello solare e batteria del paese in tempo reale. Nessun operatore umano.",
+      "Il sistema mappa ogni cavo e trasformatore della rete elettrica nazionale. Trova colli di bottiglia e rischi invisibili all'occhio umano.",
+      "Se un guasto è imminente, l'AI sceglie il percorso alternativo prima che qualcuno accenda una luce. Zero ritardi.",
+      "La tua rete locale è ancora gestita con fogli Excel e telefonate. Vuoi vedere come si confronta col sistema cinese?"
+    ],
+    "video_script": [
+      "Ha previsto un blackout con quattro minuti d'anticipo.",
+      "Un solo modello controlla tutta la rete elettrica.",
+      "Pannelli solari, vento e batterie in tempo reale.",
+      "Il sistema vede guasti che nessuno nota.",
+      "La tua rete fa ancora tutto a mano."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "L'AI cinese ha previsto un blackout 4 minuti prima che accadesse. Ha reindirizzato l'energia di 12 città in 3 secondi.",
+          "Dietro c'è un solo modello che coordina ogni pannello solare e batteria del paese in tempo reale. Nessun operatore umano.",
+          "Il sistema mappa ogni cavo e trasformatore della rete elettrica nazionale. Trova colli di bottiglia e rischi invisibili all'occhio umano.",
+          "Se un guasto è imminente, l'AI sceglie il percorso alternativo prima che qualcuno accenda una luce. Zero ritardi.",
+          "La tua rete locale è ancora gestita con fogli Excel e telefonate. Vuoi vedere come si confronta col sistema cinese?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Ha previsto un blackout con quattro minuti d'anticipo.",
+          "Un solo modello controlla tutta la rete elettrica.",
+          "Pannelli solari, vento e batterie in tempo reale.",
+          "Il sistema vede guasti che nessuno nota.",
+          "La tua rete fa ancora tutto a mano."
+        ]
+      },
+      "instagram": {
+        "caption": "La Cina ha un'IA a cui bastano 3 secondi per ridistribuire l'energia di 12 città, evitando un blackout previsto con 4 minuti di anticipo. ⚡ Dietro c'è un singolo modello che coordina in tempo reale ogni pannello solare, batteria e trasformatore del paese — senza un operatore umano. Mappa ogni cavo e decide il percorso alternativo prima che qualcuno accenda una luce. 🔋 La tua rete locale, con fogli Excel e telefonate, rischia di restare indietro. Quanto sono lontani i gestori di energia intorno a te da questa capacità? 🌍"
+      }
+    },
+    "instagram_caption": "La Cina ha un'IA a cui bastano 3 secondi per ridistribuire l'energia di 12 città, evitando un blackout previsto con 4 minuti di anticipo. ⚡ Dietro c'è un singolo modello che coordina in tempo reale ogni pannello solare, batteria e trasformatore del paese — senza un operatore umano. Mappa ogni cavo e decide il percorso alternativo prima che qualcuno accenda una luce. 🔋 La tua rete locale, con fogli Excel e telefonate, rischia di restare indietro. Quanto sono lontani i gestori di energia intorno a te da questa capacità? 🌍",
+    "carousel_slides": [
+      {
+        "hook": "Blackout previsto 4 minuti prima",
+        "description": "AI ha reindirizzato l'energia di 12 città in 3 secondi. Zero ritardi, nessun operatore umano.",
+        "visual_hint": "Luci città che si spengono e riaccendono",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "city lights power grid"
+      },
+      {
+        "hook": "Un solo modello controlla tutto",
+        "description": "Coordina ogni pannello solare e batteria della Cina in tempo reale. Senza intervento umano.",
+        "visual_hint": "Schermo con rete energetica animata",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "solar panels wind turbines",
+        "image": "https://images.pexels.com/photos/33368928/pexels-photo-33368928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mappa ogni cavo della rete",
+        "description": "Trova colli di bottiglia e rischi invisibili all'occhio umano su tutto il sistema nazionale.",
+        "visual_hint": "Mappa digitale con linee luminose",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "power transmission lines",
+        "image": "https://images.pexels.com/photos/5716242/pexels-photo-5716242.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Guasto imminente? Percorso alternativo",
+        "description": "AI sceglie la nuova rotta prima che qualcuno accenda una luce. Zero interruzioni.",
+        "visual_hint": "Frecce che deviano su mappa rete",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "electrical transformer station",
+        "image": "https://images.pexels.com/photos/27229495/pexels-photo-27229495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "E la tua rete usa ancora Excel?",
+        "description": "Confronta il tuo sistema locale con quello cinese. Rischia di essere lasciato indietro.",
+        "visual_hint": "Foglio Excel vs schermo AI futuristica",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop with spreadsheet chart",
+        "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/luo-lei-Xa4pTwafe5U-unsplash-scaled.jpg",
+    "savedAt": "2026-05-22T10:42:33.033Z",
+    "sourceId": "f4f2f1817b9decb149cb045e7e77c751"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-opens-singapore-ai-lab-as-imda-updates-ai-f",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
+    "link": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
+    "pubDate": "Fri, 22 May 2026 10:00:00 +0000",
+    "slides": [
+      "OpenAI apre un laboratorio a Singapore: cosa cambia?",
+      "IMDA aggiorna il framework per l'AI.",
+      "Il framework non è legge, ma guida le aziende.",
+      "Chi opera in Asia dovrà aggiornare le policy.",
+      "Verifica ora se il tuo modello è conforme."
+    ],
+    "thread_text": [
+      "Il nuovo framework AI di Singapore non è legge. Ma se operi in Asia, ti conviene rispettarlo lo stesso. Ecco perché.",
+      "OpenAI ha appena aperto un laboratorio a Singapore. Non è solo un ufficio: è un segnale che le regole locali iniziano a contare anche per i big.",
+      "L'IMDA ha aggiornato il suo framework per l'AI. Linee guida, non obblighi. Ma quando le scrive un'autorità come Singapore, le aziende le seguono.",
+      "Tradotto: se il tuo modello è usato in Asia, devi rivedere policy e conformità. Non aspetteranno che tu lo faccia da solo.",
+      "Controlla oggi se il tuo modello rispetta i requisiti IMDA. Costa meno di una multa futura."
+    ],
+    "video_script": [
+      "Singapore ha appena aggiornato le regole per l'AI.",
+      "Non sono leggi, ma linee guida.",
+      "OpenAI ha aperto un laboratorio lì.",
+      "Segnale: chi opera in Asia deve adeguarsi.",
+      "Controlla subito la conformità del tuo modello."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Il nuovo framework AI di Singapore non è legge. Ma se operi in Asia, ti conviene rispettarlo lo stesso. Ecco perché.",
+          "OpenAI ha appena aperto un laboratorio a Singapore. Non è solo un ufficio: è un segnale che le regole locali iniziano a contare anche per i big.",
+          "L'IMDA ha aggiornato il suo framework per l'AI. Linee guida, non obblighi. Ma quando le scrive un'autorità come Singapore, le aziende le seguono.",
+          "Tradotto: se il tuo modello è usato in Asia, devi rivedere policy e conformità. Non aspetteranno che tu lo faccia da solo.",
+          "Controlla oggi se il tuo modello rispetta i requisiti IMDA. Costa meno di una multa futura."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Singapore ha appena aggiornato le regole per l'AI.",
+          "Non sono leggi, ma linee guida.",
+          "OpenAI ha aperto un laboratorio lì.",
+          "Segnale: chi opera in Asia deve adeguarsi.",
+          "Controlla subito la conformità del tuo modello."
+        ]
+      },
+      "instagram": {
+        "caption": "A Singapore l'ente regolatore IMDA ha appena aggiornato le linee guida per l'AI e, lo stesso giorno, OpenAI ha aperto un nuovo laboratorio in città. 🧑‍💻 Il framework non è una legge, ma quando lo scrive un Paese che ospita i server di mezzo continente, le aziende lo seguono per evitare problemi. 📍 Per chi lavora con modelli AI in Asia, significa dover aggiornare policy e verifiche di conformità. Hai già controllato se il tuo rispetta i nuovi requisiti? 🔍⚖️"
+      }
+    },
+    "instagram_caption": "A Singapore l'ente regolatore IMDA ha appena aggiornato le linee guida per l'AI e, lo stesso giorno, OpenAI ha aperto un nuovo laboratorio in città. 🧑‍💻 Il framework non è una legge, ma quando lo scrive un Paese che ospita i server di mezzo continente, le aziende lo seguono per evitare problemi. 📍 Per chi lavora con modelli AI in Asia, significa dover aggiornare policy e verifiche di conformità. Hai già controllato se il tuo rispetta i nuovi requisiti? 🔍⚖️",
+    "carousel_slides": [
+      {
+        "hook": "Non è legge, ma conviene seguirle",
+        "description": "Le linee guida IMDA non sono obblighi, ma se operi in Asia le aziende le seguono comunque.",
+        "visual_hint": "Documento ufficiale con timbro",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "official document stamp"
+      },
+      {
+        "hook": "OpenAI apre a Singapore",
+        "description": "Non è solo un ufficio: è un segnale che le regole locali contano anche per i big.",
+        "visual_hint": "Mappa di Singapore con puntina",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Singapore skyline map",
+        "image": "https://images.pexels.com/photos/36601501/pexels-photo-36601501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Framework aggiornato dall'IMDA",
+        "description": "Linee guida, non obblighi. Ma quando le scrive una autorità come Singapore, le aziende le seguono.",
+        "visual_hint": "Schermo con codice e linee guida",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer screen code",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tuo modello usato in Asia?",
+        "description": "Devi rivedere policy e conformità. Non aspetteranno che tu lo faccia da solo.",
+        "visual_hint": "Lente d'ingrandimento su documenti",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "magnifying glass papers",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Verifica ora la conformità",
+        "description": "Controlla oggi se il tuo modello rispetta i requisiti IMDA. Costa meno di una multa futura.",
+        "visual_hint": "Icona check verde su documento",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "green checkmark document",
+        "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/OpenAI-opens-Singapore-AI-lab-as-IMDA-updates-AI-framework-scaled-e1779421698570.jpg",
+    "savedAt": "2026-05-22T10:42:14.231Z",
+    "sourceId": "282a25929c19b57568d8e9a2049e4321"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "finnish-phone-maker-hmd-bundles-indian-ai-chatbot-",
     "prompt_version": "1.0.0",
     "status": "published",
