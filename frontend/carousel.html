@@ -786,12 +786,12 @@ function renderArticle(article) {
       }</div>` : '';
 
   const renderStatus = article.render_status || {};
-  const doneQuality  = ['low', 'medium', 'high'].find(q => renderStatus[q] === 'done');
-  const videoHtml = doneQuality && article.render_path
+  const doneTemplate = Object.keys(renderStatus).find(k => renderStatus[k] === 'done');
+  const videoHtml = doneTemplate && article.render_path
     ? (() => {
         const videoFile = article.render_path.split('/').pop();
         const meta = [
-          `<span class="video-badge done">✅ ${doneQuality}</span>`,
+          `<span class="video-badge done">✅ ${doneTemplate}</span>`,
           article.render_template ? `<span class="video-badge">${article.render_template}</span>` : '',
           article.formats?.video?.duration_sec ? `<span class="video-badge">${article.formats.video.duration_sec}s</span>` : '',
         ].filter(Boolean).join('');
