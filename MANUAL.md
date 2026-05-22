@@ -1306,18 +1306,19 @@ Il sistema V2 genera video verticali 9:16 (1080×1920) usando le slide del carou
 ### Prerequisiti per renderizzare un video
 
 1. Articolo con `status: approved`
-2. `render_quality` impostato (`low` / `medium` / `high`)
+2. Template video selezionato dal dropdown **Video Template** in `carousel.html`
 3. Piano video generato (`formats.video.scenes` non vuoto) — **fatto dal CI automaticamente**
-4. Slide carousel salvate come PNG in `output/{agentId}/slides-png/{slug}/slide{0-4}.png`
+4. Slide carousel salvate come PNG in `output/{agentId}/slides-png/{slug}/slide{0-4}.png` *(solo per template Slideshow)*
 
 ### Flusso giornaliero
 
 **Nel browser (`carousel.html?agent=ai-news` su Railway):**
 1. Trova l'articolo
 2. Clicca **Approva** — viene pushato su git automaticamente
-3. Seleziona **▶ Low** dal dropdown qualità video — viene pushato su git automaticamente
-4. Clicca **💾 Salva per video** — aspetta "✅ 5 slide salvate"
+3. Seleziona il template dal dropdown **Video Template** — viene pushato su git automaticamente
+4. Clicca **💾 Salva per video** — aspetta "✅ 5 slide salvate" *(solo per template Slideshow)*
    - Il browser scarica `slide0.png`…`slide4.png` automaticamente (atterrano in `/home/miki/visual-scroll-blog/`)
+   - ⚠️ **Salva per video** appare solo per il template **Slideshow** (`slide_deck`) — gli altri template non richiedono PNG
 
 **Nel terminale (DUE COMANDI):**
 ```bash
@@ -1385,20 +1386,22 @@ Il file JSON in `output/` ha sempre il formato `{timestamp}_{slug}.json`. Lo slu
 | `video/render-video-v2.js` | Entry point CLI: legge template dall'articolo e renderizza |
 | `video/render-pending.js` | Batch: trova e renderizza tutti gli articoli pronti |
 | `video/templates/slide-deck.js` | Template: animazione zoompan + TTS OpenAI + subtitle |
+| `video/templates/kinetic-typography.js` | Template: testo animato (FFmpeg drawtext) + TTS OpenAI |
 
-### Qualità e template
+### Template video
 
-| Qualità | Template | Descrizione |
+| Template | Label UI | Descrizione |
 |---|---|---|
-| `low` | `slide_deck` | Slide carousel animate con zoom/pan + voiceover TTS |
-| `medium` | `data_reveal` | Non ancora implementato |
-| `high` | `avatar_presenter` | Non ancora implementato |
+| `slide_deck` | Slideshow | Slide carousel animate con zoom/pan + voiceover TTS. Richiede PNG carousel (💾 Salva per video). |
+| `kinetic_typography` | Kinetic Text | Testo animato su sfondo solido, TTS voiceover. Non richiede PNG. |
+| `network_graph`, `data_story`, `recipe_assembly`, `anatomy_motion` | — | Non ancora implementati |
 
 ### Endpoint server aggiunti (server.js)
 
 | Endpoint | Funzione |
 |---|---|
-| `POST /api/set-render-quality` | Imposta `render_quality` sull'articolo |
+| `POST /api/set-render-template` | Imposta `render_template` e `render_quality: 'low'` sull'articolo |
+| `POST /api/set-render-quality` | Imposta `render_quality` sull'articolo (legacy — mantenuto per compatibilità) |
 | `POST /api/save-carousel-png` | Salva le slide PNG dal browser su disco |
 | `GET /renders/{filename}.mp4` | Serve il video renderizzato al player in carousel.html |
 
@@ -1428,8 +1431,8 @@ Il file JSON in `output/` ha sempre il formato `{timestamp}_{slug}.json`. Lo slu
 - Le PNG scaricate atterrano in `/home/miki/visual-scroll-blog/` (browser configurato sulla root del progetto WSL2)
 - `render-pending.js` le importa automaticamente dalla root in `output/{agentId}/slides-png/{slug}/`
 - I video renderizzati finiscono in `output/renders/{slug}.mp4`
-- `render_status.low = "done"` nel JSON indica video già renderizzato (saltato da `render-pending.js`)
-- Per re-renderizzare: `render_status.low = null` nel JSON, poi rilancia `render-pending.js`
+- `render_status.{template} = "done"` nel JSON indica video già renderizzato per quel template (saltato da `render-pending.js`)
+- Per re-renderizzare: imposta `render_status.{template} = null` nel JSON (es. `render_status.slide_deck = null`), poi rilancia `render-pending.js`
 - `OPENAI_API_KEY` configurato nei GitHub Actions secrets
 - **Audio:** OpenAI TTS genera audio a 24kHz → ricampionato a 44100Hz in concat per compatibilità browser
 - **CI push:** usa `git pull --rebase --autostash` per evitare rejected quando Railway ha pushato in parallelo

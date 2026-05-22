@@ -44,6 +44,7 @@ Docs archiviati in `archive/docs/`: FOOD-AGENT.md · REFACTOR-PLAN.md · CONTEXT
 | **Workflow approvazione articoli** | ✅ Completa | `POST /api/set-status` in `server.js`; tasto Approva in `review.html` (barra FASE12 progress) e `carousel.html` (status pill + counter + ✅ emoji nel dropdown) |
 | M21 — Test distribuzione reale | 🔄 In corso | Primo post 2026-05-11 ore 15:00 IT su X. 1 thread/giorno |
 | **Refactor FASE 14 — Video Engine V2** | ✅ Completa (2026-05-20) | Schema v3 migrato. Pipeline slide-deck: zoompan + TTS OpenAI 44kHz + subtitle. `render-pending.js` auto-import PNG + auto build+push. CI genera piani ogni 2h. Video visibili su Railway. |
+| **Refactor FASE 15 — Visual Template Engine** | ✅ Completa (2026-05-22) | Motore template modulare: ogni agente dichiara i template disponibili. `kinetic_typography` operativo (FFmpeg drawtext + TTS). `render_status` migrato da quality-key a template-key. `window.AGENT_CONFIGS` nel frontend. Dropdown **Video Template** in `carousel.html`. |
 | **Refactor FASE 12 — Automazione publish** | 🔒 Bloccata | Instagram: account ristretto da Meta (impossibile creare App developer). TikTok sandbox ✅. X API Free non permette POST. |
 | M22 — Iterazione prompt da dati | ⏳ Dopo M21 | Richiede 15 post con dati reali |
 | FASE 5 — Secondo canale | ⏳ Dopo sblocco Instagram | Instagram: carousel PNG già pronti per tutti gli agenti |
@@ -58,6 +59,7 @@ M1-M13 ✅ → M14 ✅ → M16 ✅ → M17 ✅ → Backfill ✅ → M15 ✅ → 
 → Pexels ✅ → Download PNG ✅ → Food Agent ✅ → Feed multi-agente ✅
 → Refactor FASE 1-13 ✅ (schema v2, runner unico, fitness, carousel unificato, review v2)
 → FASE 14 ✅ (video engine V2, slide-deck, TTS, render-pending auto-push)
+→ FASE 15 ✅ (visual template engine, kinetic_typography, dropdown Video Template)
 → M21 🔄 ← STOP: valuta risultati (15 post, iniziato 2026-05-11)
 → FASE 12 🔒 (bloccata Instagram) → M22 → FASE 5 → FASE 6 → M18 → M19 → M20
 ```
