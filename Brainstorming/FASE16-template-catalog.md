@@ -219,12 +219,20 @@ Aggiungere a frontend/carousel.html → templateLabels{}:
 NON usare librerie npm.
 NON modificare slide-deck.js o kinetic-typography.js.
 Se ImageMagick non è disponibile, fallback a FFmpeg -f lavfi per sfondo + drawtext per testo.
+Creare video/test-template.js se non esiste ancora (vedi sezione "Workflow di sviluppo" in questo documento) e aggiungere FAKE_SCENES['data_story'] con le scene di test già definite lì.
 ```
 
 **Test:**
 ```bash
-node video/render-video-v2.js --agent ai-news --slug <slug-articolo-con-statistiche>
-ls -lh output/renders/<slug>.mp4 && echo "✅ data_story ok"
+# 1. Test con dati finti — non richiede articoli reali né pipeline
+node video/test-template.js --template data_story
+ls -lh output/renders/test-data_story.mp4
+
+# 2. Verifica registrazione nel registry
+node -e "const t=require('./video/templates')['data_story']; console.log(t ? '✅ '+t.label : '❌ non trovato')"
+
+# 3. Verifica config agente
+node -e "const a=require('./agents')['ai-news']; console.log(a.videoTemplates.includes('data_story') ? '✅ in videoTemplates ai-news' : '❌ mancante')"
 ```
 
 ---
@@ -301,8 +309,17 @@ Animazione: genera frames SVG in loop dove ogni frame rivela più eventi.
 Salva ogni SVG temporaneo, converti con FFmpeg o ImageMagick, poi concat.
 
 Aggiungere a video/templates/index.js, agents/ai-news/config.js, carousel.html templateLabels.
-
+Aggiungere FAKE_SCENES['timeline_motion'] in video/test-template.js.
 NON usare librerie npm.
+```
+
+**Test:**
+```bash
+node video/test-template.js --template timeline_motion
+ls -lh output/renders/test-timeline_motion.mp4
+
+node -e "const t=require('./video/templates')['timeline_motion']; console.log(t ? '✅ '+t.label : '❌ non trovato')"
+node -e "const a=require('./agents')['ai-news']; console.log(a.videoTemplates.includes('timeline_motion') ? '✅ in videoTemplates ai-news' : '❌ mancante')"
 ```
 
 ---
@@ -380,7 +397,17 @@ Animazione opacity: genera frames dove ogni nodo/edge ha opacity calcolata come:
 Salva frames PNG con ImageMagick o FFmpeg, concat finale.
 
 Aggiungere a index.js, agents/ai-news/config.js, carousel.html.
+Aggiungere FAKE_SCENES['network_graph'] in video/test-template.js.
 NON usare librerie npm (no d3, no graphlib).
+```
+
+**Test:**
+```bash
+node video/test-template.js --template network_graph
+ls -lh output/renders/test-network_graph.mp4
+
+node -e "const t=require('./video/templates')['network_graph']; console.log(t ? '✅ '+t.label : '❌ non trovato')"
+node -e "const a=require('./agents')['ai-news']; console.log(a.videoTemplates.includes('network_graph') ? '✅ in videoTemplates ai-news' : '❌ mancante')"
 ```
 
 ---
@@ -454,6 +481,17 @@ Per scaricare immagine:
 Fallback se carousel_slides non disponibile: usa sfondo solid color come kinetic-typography.
 
 Aggiungere a index.js, tutti e tre i config agenti, carousel.html.
+Aggiungere FAKE_SCENES['minimal_documentary'] in video/test-template.js.
+```
+
+**Test:**
+```bash
+node video/test-template.js --template minimal_documentary
+ls -lh output/renders/test-minimal_documentary.mp4
+
+node -e "const t=require('./video/templates')['minimal_documentary']; console.log(t ? '✅ '+t.label : '❌ non trovato')"
+# Verifica su tutti e tre gli agenti
+node -e "['ai-news','food','fitness'].forEach(id => { const a=require('./agents')[id]; console.log(a.videoTemplates.includes('minimal_documentary') ? '✅ '+id : '❌ mancante in '+id) })"
 ```
 
 ---
@@ -543,7 +581,17 @@ Implementazione:
 Genera 25fps × duration_sec frames. Salva PNG temporanei. Concat con FFmpeg.
 
 Aggiungere a index.js, agents/ai-news/config.js, carousel.html.
+Aggiungere FAKE_SCENES['code_terminal'] in video/test-template.js.
 NON usare librerie di syntax highlighting — solo logica custom semplice.
+```
+
+**Test:**
+```bash
+node video/test-template.js --template code_terminal
+ls -lh output/renders/test-code_terminal.mp4
+
+node -e "const t=require('./video/templates')['code_terminal']; console.log(t ? '✅ '+t.label : '❌ non trovato')"
+node -e "const a=require('./agents')['ai-news']; console.log(a.videoTemplates.includes('code_terminal') ? '✅ in videoTemplates ai-news' : '❌ mancante')"
 ```
 
 ---
@@ -638,6 +686,16 @@ Implementazione SVG stroke animation:
   25fps × duration_sec frame per scena.
 
 Aggiungere a index.js, tutti e tre config agenti, carousel.html.
+Aggiungere FAKE_SCENES['whiteboard'] in video/test-template.js.
+```
+
+**Test:**
+```bash
+node video/test-template.js --template whiteboard
+ls -lh output/renders/test-whiteboard.mp4
+
+node -e "const t=require('./video/templates')['whiteboard']; console.log(t ? '✅ '+t.label : '❌ non trovato')"
+node -e "['ai-news','food','fitness'].forEach(id => { const a=require('./agents')[id]; console.log(a.videoTemplates.includes('whiteboard') ? '✅ '+id : '❌ mancante in '+id) })"
 ```
 
 ---
@@ -739,7 +797,23 @@ Funzione per generare un blocco isometrico:
 
 Genera frame SVG per ogni passo dell'animazione. Usa ImageMagick per SVG→PNG.
 Aggiungere a index.js, agents/ai-news/config.js, carousel.html.
+Aggiungere FAKE_SCENES['isometric_workflow'] in video/test-template.js.
 NON usare librerie npm.
+```
+
+**Prerequisito:**
+```bash
+convert --version   # ImageMagick deve essere installato
+# Se assente: sudo apt-get install imagemagick
+```
+
+**Test:**
+```bash
+node video/test-template.js --template isometric_workflow
+ls -lh output/renders/test-isometric_workflow.mp4
+
+node -e "const t=require('./video/templates')['isometric_workflow']; console.log(t ? '✅ '+t.label : '❌ non trovato')"
+node -e "const a=require('./agents')['ai-news']; console.log(a.videoTemplates.includes('isometric_workflow') ? '✅ in videoTemplates ai-news' : '❌ mancante')"
 ```
 
 ---
@@ -837,7 +911,19 @@ Step 4 — genera frames per animazione illuminate + routes.
 
 Crea cartella video/assets/ se non esiste.
 Aggiungere a index.js, agents/ai-news/config.js, carousel.html.
+Aggiungere FAKE_SCENES['map_explainer'] in video/test-template.js.
 NON usare d3 o altre librerie npm.
+```
+
+**Test:**
+```bash
+# Prima esecuzione: scarica world-110m.geojson automaticamente (~400KB)
+node video/test-template.js --template map_explainer
+ls -lh output/renders/test-map_explainer.mp4
+ls -lh video/assets/world-110m.geojson   # deve esistere dopo il primo run
+
+node -e "const t=require('./video/templates')['map_explainer']; console.log(t ? '✅ '+t.label : '❌ non trovato')"
+node -e "const a=require('./agents')['ai-news']; console.log(a.videoTemplates.includes('map_explainer') ? '✅ in videoTemplates ai-news' : '❌ mancante')"
 ```
 
 ---
@@ -908,6 +994,16 @@ Differenza chiave da minimal-documentary:
   Prima scala l'immagine al 120% (1296×2304), poi crop 1080×1920 con offset dinamico.
 
 Aggiungere a index.js, tutti e tre i config agenti, carousel.html.
+Aggiungere FAKE_SCENES['parallax_25d'] in video/test-template.js.
+```
+
+**Test:**
+```bash
+node video/test-template.js --template parallax_25d
+ls -lh output/renders/test-parallax_25d.mp4
+
+node -e "const t=require('./video/templates')['parallax_25d']; console.log(t ? '✅ '+t.label : '❌ non trovato')"
+node -e "['ai-news','food','fitness'].forEach(id => { const a=require('./agents')[id]; console.log(a.videoTemplates.includes('parallax_25d') ? '✅ '+id : '❌ mancante in '+id) })"
 ```
 
 ---
@@ -988,7 +1084,17 @@ Per "cluster_emerge": N attrattori fissi, ogni particella assegnata all'attratto
 
 Genera frame SVG, salva PNG, concat FFmpeg.
 Aggiungere a index.js, agents/ai-news/config.js, agents/fitness/config.js, carousel.html.
+Aggiungere FAKE_SCENES['simulation_lab'] in video/test-template.js.
 NON usare librerie npm.
+```
+
+**Test:**
+```bash
+node video/test-template.js --template simulation_lab
+ls -lh output/renders/test-simulation_lab.mp4
+
+node -e "const t=require('./video/templates')['simulation_lab']; console.log(t ? '✅ '+t.label : '❌ non trovato')"
+node -e "['ai-news','fitness'].forEach(id => { const a=require('./agents')[id]; console.log(a.videoTemplates.includes('simulation_lab') ? '✅ '+id : '❌ mancante in '+id) })"
 ```
 
 ---
@@ -1079,7 +1185,17 @@ Depth sorting: ordina edges per z medio crescente prima di disegnare.
 Glow: <filter id="glow"><feGaussianBlur stdDeviation="3"/></filter> — applica a stroke
 
 Aggiungere a index.js, agents/ai-news/config.js, carousel.html.
+Aggiungere FAKE_SCENES['wireframe_3d'] in video/test-template.js.
 NON usare librerie npm.
+```
+
+**Test:**
+```bash
+node video/test-template.js --template wireframe_3d
+ls -lh output/renders/test-wireframe_3d.mp4
+
+node -e "const t=require('./video/templates')['wireframe_3d']; console.log(t ? '✅ '+t.label : '❌ non trovato')"
+node -e "const a=require('./agents')['ai-news']; console.log(a.videoTemplates.includes('wireframe_3d') ? '✅ in videoTemplates ai-news' : '❌ mancante')"
 ```
 
 ---
@@ -1221,6 +1337,27 @@ Il template:
 
 Aggiungere a index.js, agents/fitness/config.js (e aggiornare defaultVideoTemplate a 'anatomy_motion'),
 carousel.html templateLabels.
+Aggiungere FAKE_SCENES['anatomy_motion'] in video/test-template.js.
+```
+
+**Prerequisito:**
+```bash
+blender --version   # deve rispondere; se assente vedi FASE16-C3-blender-templates.md
+blender --background --python-expr "import bpy; print('Blender headless OK')"
+```
+
+**Test:**
+```bash
+# STEP 1 — verifica asset Blender
+ls -lh video/assets/blender/anatomy/skeleton_full.blend
+ls -lh video/assets/blender/anatomy/render_scene.py
+
+# STEP 2 — test template
+node video/test-template.js --template anatomy_motion
+ls -lh output/renders/test-anatomy_motion.mp4
+
+node -e "const t=require('./video/templates')['anatomy_motion']; console.log(t ? '✅ '+t.label : '❌ non trovato')"
+node -e "const a=require('./agents')['fitness']; console.log(a.videoTemplates.includes('anatomy_motion') ? '✅ in videoTemplates fitness' : '❌ mancante')"
 ```
 
 ---
@@ -1282,6 +1419,25 @@ Il template usa generic_box come fallback per product_type non riconosciuto.
 
 Creare video/templates/product-xray.js con stessa struttura di anatomy-motion.js.
 Aggiungere a index.js, agents/ai-news/config.js, carousel.html.
+Aggiungere FAKE_SCENES['product_xray'] in video/test-template.js.
+```
+
+**Prerequisito:**
+```bash
+blender --version   # deve rispondere
+ls video/assets/blender/anatomy/render_scene.py   # anatomy_motion (16L) deve essere già fatto
+```
+
+**Test:**
+```bash
+ls -lh video/assets/blender/products/generic_box.blend
+ls -lh video/assets/blender/products/explode_anim.py
+
+node video/test-template.js --template product_xray
+ls -lh output/renders/test-product_xray.mp4
+
+node -e "const t=require('./video/templates')['product_xray']; console.log(t ? '✅ '+t.label : '❌ non trovato')"
+node -e "const a=require('./agents')['ai-news']; console.log(a.videoTemplates.includes('product_xray') ? '✅ in videoTemplates ai-news' : '❌ mancante')"
 ```
 
 ---
@@ -1372,6 +1528,24 @@ Creare video/assets/blender/lowpoly/generate_scene.py:
 
 Creare video/templates/lowpoly-3d.js con stesso pattern di anatomy-motion.js.
 Aggiungere a index.js, tutti e tre i config agenti, carousel.html.
+Aggiungere FAKE_SCENES['lowpoly_3d'] in video/test-template.js.
+```
+
+**Prerequisito:**
+```bash
+blender --version   # deve rispondere
+ls video/assets/blender/anatomy/render_scene.py   # anatomy_motion (16L) deve essere già fatto
+```
+
+**Test:**
+```bash
+ls -lh video/assets/blender/lowpoly/generate_scene.py
+
+node video/test-template.js --template lowpoly_3d
+ls -lh output/renders/test-lowpoly_3d.mp4
+
+node -e "const t=require('./video/templates')['lowpoly_3d']; console.log(t ? '✅ '+t.label : '❌ non trovato')"
+node -e "['ai-news','food','fitness'].forEach(id => { const a=require('./agents')[id]; console.log(a.videoTemplates.includes('lowpoly_3d') ? '✅ '+id : '❌ mancante in '+id) })"
 ```
 
 ---
