@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "trump-delays-ai-security-executive-order-saying-la",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+    "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+    "pubDate": "Thu, 21 May 2026 17:30:45 +0000",
+    "slides": [
+      "Trump blocca l'ordine esecutivo sull'AI: perché adesso?",
+      "La bozza già pronta diceva che l'AI poteva minare la sicurezza nazionale",
+      "Ma lui la ferma, definendo il testo un potenziale 'blocco'",
+      "Per te, sviluppatore o azienda, significa zero regole chiare per ora",
+      "Cosa fai: aspetti o progetti senza vincoli?"
+    ],
+    "thread_text": [
+      "Trump ha bloccato l'ordine esecutivo sull'AI. Il testo era già pronto, parlava di sicurezza nazionale. Lui l'ha fermato definendolo un potenziale blocco.",
+      "La bozza diceva che l'AI poteva minare la sicurezza nazionale. Sembrava tutto in discesa, poi stop. Ora il settore è in stallo.",
+      "Per te sviluppatore o azienda: zero regole chiare per ora. Nessun vincolo, ma nessuna protezione. Un parcheggio senza luci.",
+      "La domanda vera è: aspetti che arrivino norme o progetti senza rete? Il rischio non è l'incertezza, ma restare fermi.",
+      "Esempio: se stai lanciando un tool AI, integra subito un audit di bias. Costa ore di codice, ma evita multe future."
+    ],
+    "video_script": [
+      "Trump ha bloccato l'ordine sull'AI.",
+      "La bozza diceva: minaccia nazionale.",
+      "Lui la ferma: troppo vincolante.",
+      "Per te: zero regole, ora.",
+      "Cosa fai? Aspetti o progetti?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Trump ha bloccato l'ordine esecutivo sull'AI. Il testo era già pronto, parlava di sicurezza nazionale. Lui l'ha fermato definendolo un potenziale blocco.",
+          "La bozza diceva che l'AI poteva minare la sicurezza nazionale. Sembrava tutto in discesa, poi stop. Ora il settore è in stallo.",
+          "Per te sviluppatore o azienda: zero regole chiare per ora. Nessun vincolo, ma nessuna protezione. Un parcheggio senza luci.",
+          "La domanda vera è: aspetti che arrivino norme o progetti senza rete? Il rischio non è l'incertezza, ma restare fermi.",
+          "Esempio: se stai lanciando un tool AI, integra subito un audit di bias. Costa ore di codice, ma evita multe future."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Trump ha bloccato l'ordine sull'AI.",
+          "La bozza diceva: minaccia nazionale.",
+          "Lui la ferma: troppo vincolante.",
+          "Per te: zero regole, ora.",
+          "Cosa fai? Aspetti o progetti?"
+        ]
+      },
+      "instagram": {
+        "caption": "Trump ha appena bloccato l’ordine esecutivo sull’AI che era già pronto. Il testo diceva che l’intelligenza artificiale poteva minare la sicurezza nazionale, ma lui l’ha fermato chiamandolo un “potenziale blocco”. Il risultato? Zero regole chiare per sviluppatori e aziende 🚦. Per chi lavora con l’AI, significa progettare senza vincoli ma anche senza protezioni ⚠️. Se stai lanciando un tool, integra subito un audit di bias: costa ore di codice, ma ti evita multe future. Aspetti regole o progetti senza rete? 🎲"
+      }
+    },
+    "instagram_caption": "Trump ha appena bloccato l’ordine esecutivo sull’AI che era già pronto. Il testo diceva che l’intelligenza artificiale poteva minare la sicurezza nazionale, ma lui l’ha fermato chiamandolo un “potenziale blocco”. Il risultato? Zero regole chiare per sviluppatori e aziende 🚦. Per chi lavora con l’AI, significa progettare senza vincoli ma anche senza protezioni ⚠️. Se stai lanciando un tool, integra subito un audit di bias: costa ore di codice, ma ti evita multe future. Aspetti regole o progetti senza rete? 🎲",
+    "carousel_slides": [
+      {
+        "hook": "Un freno a sorpresa sull'AI",
+        "description": "Trump blocca un ordine esecutivo già pronto sull'AI, definendolo un potenziale blocco per il settore.",
+        "visual_hint": "Documento fermato da una mano",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "document pile stop sign"
+      },
+      {
+        "hook": "Sicurezza nazionale in bilico",
+        "description": "La bozza fermata diceva che l'AI poteva minare la sicurezza nazionale. Ora il settore è in stallo.",
+        "visual_hint": "Schermo con codice e luci rosse",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room red lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Zero regole, zero protezioni",
+        "description": "Per sviluppatori e aziende: nessun vincolo chiaro, ma nessuna protezione. Un parcheggio senza luci.",
+        "visual_hint": "Parcheggio vuoto di notte",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "empty parking lot night",
+        "image": "https://images.pexels.com/photos/12139561/pexels-photo-12139561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Progetti senza rete?",
+        "description": "La domanda vera: aspetti norme o progetti senza rete? Il rischio è restare fermi, non l'incertezza.",
+        "visual_hint": "Persona che guarda un grafico fermo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart flat",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Agisci ora, senza aspettare",
+        "description": "Se lanci un tool AI, integra subito un audit di bias. Costa ore di codice, evita multe future.",
+        "visual_hint": "Codice con evidenziazioni colorate",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "code lines highlighted screen",
+        "image": "https://images.pexels.com/photos/31343288/pexels-photo-31343288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=1024",
+    "savedAt": "2026-05-22T02:34:55.512Z",
+    "sourceId": "90bacf183f612e68a9c785acb6ac5b6c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "spotify-and-universal-music-strike-deal-allowing-f",
     "prompt_version": "1.0.0",
     "status": "published",
