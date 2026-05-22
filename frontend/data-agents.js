@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "finnish-phone-maker-hmd-bundles-indian-ai-chatbot-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+      "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+      "pubDate": "Fri, 22 May 2026 06:41:28 +0000",
+      "slides": [
+        "HMD Global pairs with Indian AI—can local tech win?",
+        "The chatbot comes preloaded on a new budget smartphone.",
+        "It challenges Google Assistant in Hindi and regional dialects.",
+        "Indian users can now skip global apps for daily tasks.",
+        "Test the AI locally before your next upgrade choice."
+      ],
+      "thread_text": [
+        "Un chatbot AI preinstallato su un telefono da 100€ sfida Google Assistant in hindi e dialetti locali. Ecco perché è una mossa che cambia le carte in tavola.",
+        "HMD Global ha caricato il suo nuovo budget phone con un assistente AI indiano. Non è un esperimento: è preinstallato, funziona subito, senza account Google.",
+        "Finora, per chiedere il meteo o impostare un promemoria in hindi, dovevi passare da Google. Ora il telefono lo fa nativamente, anche in dialetti regionali.",
+        "Non è solo questione di lingua. È che l'AI locale capisce contesti, festività e modi di dire che un modello globale fatica a cogliere. Meno errori, più utility.",
+        "Il telefono costa meno di 10.000 rupie. Se stai pensando al prossimo upgrade, provalo una settimana prima di decidere: potresti non tornare indietro."
+      ],
+      "video_script": [
+        "Un telefono cheap sfida Google Assistant in hindi.",
+        "Preinstallato, nessun account richiesto.",
+        "Capisce dialetti che Google spesso sbaglia.",
+        "Costa meno di 10.000 rupie.",
+        "Provane uno prima del prossimo upgrade."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Un chatbot AI preinstallato su un telefono da 100€ sfida Google Assistant in hindi e dialetti locali. Ecco perché è una mossa che cambia le carte in tavola.",
+            "HMD Global ha caricato il suo nuovo budget phone con un assistente AI indiano. Non è un esperimento: è preinstallato, funziona subito, senza account Google.",
+            "Finora, per chiedere il meteo o impostare un promemoria in hindi, dovevi passare da Google. Ora il telefono lo fa nativamente, anche in dialetti regionali.",
+            "Non è solo questione di lingua. È che l'AI locale capisce contesti, festività e modi di dire che un modello globale fatica a cogliere. Meno errori, più utility.",
+            "Il telefono costa meno di 10.000 rupie. Se stai pensando al prossimo upgrade, provalo una settimana prima di decidere: potresti non tornare indietro."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Un telefono cheap sfida Google Assistant in hindi.",
+            "Preinstallato, nessun account richiesto.",
+            "Capisce dialetti che Google spesso sbaglia.",
+            "Costa meno di 10.000 rupie.",
+            "Provane uno prima del prossimo upgrade."
+          ]
+        },
+        "instagram": {
+          "caption": "HMD Global ha appena lanciato un telefono da 10.000 rupie (circa 100€) con un chatbot AI indiano preinstallato, che parla hindi e dialetti locali senza bisogno di account Google. 🇮🇳 Non è un aggiornamento software: l'assistente è già attivo, capisce contesti e festività locali che Google Assistant spesso sbaglia. 📱 Per chi usa il telefono in India, niente più passaggi intermedi per le attività quotidiane. Consigli concreti? Se cerchi un nuovo device, provalo una settimana prima di spendere di più. 🔄 Sai già se la tua prossima cena sarà per Diwali?"
+        }
+      },
+      "instagram_caption": "HMD Global ha appena lanciato un telefono da 10.000 rupie (circa 100€) con un chatbot AI indiano preinstallato, che parla hindi e dialetti locali senza bisogno di account Google. 🇮🇳 Non è un aggiornamento software: l'assistente è già attivo, capisce contesti e festività locali che Google Assistant spesso sbaglia. 📱 Per chi usa il telefono in India, niente più passaggi intermedi per le attività quotidiane. Consigli concreti? Se cerchi un nuovo device, provalo una settimana prima di spendere di più. 🔄 Sai già se la tua prossima cena sarà per Diwali?",
+      "carousel_slides": [
+        {
+          "hook": "Chatbot indiano sfida Google",
+          "description": "Assistente AI preinstallato capisce hindi e dialetti. Google non è più l'unica via.",
+          "visual_hint": "Chatbot icona vs Google",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "smartphone chatbot display"
+        },
+        {
+          "hook": "AI locale, niente Google",
+          "description": "HMD carica chatbot indiano su budget phone. Funziona subito, senza account Google.",
+          "visual_hint": "Telefono senza logo Google",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "budget smartphone white",
+          "image": "https://images.pexels.com/photos/7681268/pexels-photo-7681268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Dialetti regionali nativi",
+          "description": "Meteo e promemoria funzionano in hindi e dialetti locali senza passare da Google.",
+          "visual_hint": "Mappa India lingue colori",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "india language map",
+          "image": "https://images.pexels.com/photos/5370914/pexels-photo-5370914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Contesto culturale locale",
+          "description": "L'AI capisce festività e modi di dire indiani. Meno errori, più utilità quotidiana.",
+          "visual_hint": "Festival indiano smartphone AI",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "diwali celebration smartphone",
+          "image": "https://images.pexels.com/photos/8819841/pexels-photo-8819841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova l'AI locale ora",
+          "description": "Telefono sotto 10.000 rupie. Provane l'AI una settimana prima di decidere il prossimo upgrade.",
+          "visual_hint": "Mano con telefono prezzi",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "budget phone price tag",
+          "image": "https://images.pexels.com/photos/5926253/pexels-photo-5926253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/HMD-vibe-2-5g.jpg?resize=1200,665",
+      "savedAt": "2026-05-22T07:37:14.102Z",
+      "sourceId": "6d211f15cd8a5714b28261239e5bd020"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "trump-delays-ai-security-executive-order-saying-la",
       "prompt_version": "1.0.0",
       "status": "published",
