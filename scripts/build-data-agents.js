@@ -48,6 +48,7 @@ function readCanonical(dir) {
           if (other.render_status && !article.render_status) article.render_status = other.render_status;
           if (other.render_quality && !article.render_quality) article.render_quality = other.render_quality;
           if (other.render_version && !article.render_version) article.render_version = other.render_version;
+          if (other.render_template && !article.render_template) article.render_template = other.render_template;
           if (other.publish_status && !article.publish_status) article.publish_status = other.publish_status;
         } catch { /* skip corrupt */ }
       }
@@ -73,9 +74,28 @@ for (const [agentId, dir] of Object.entries(DIRS)) {
   counts.push(`${articles.length} ${agentId}`);
 }
 
+const dataAgentsPath = path.join(ROOT, 'frontend', 'data-agents.js');
+
 fs.writeFileSync(
-  path.join(ROOT, 'frontend', 'data-agents.js'),
+  dataAgentsPath,
   `window.AGENTS = ${JSON.stringify(agents, null, 2)};`
+);
+
+// Append window.AGENT_CONFIGS with video template info from each agent's config
+const agentsRegistry = require('../agents');
+const agentConfigs = {};
+for (const agentId of Object.keys(DIRS)) {
+  const cfg = agentsRegistry[agentId];
+  if (cfg) {
+    agentConfigs[agentId] = {
+      videoTemplates:       cfg.videoTemplates       || ['slide_deck'],
+      defaultVideoTemplate: cfg.defaultVideoTemplate || 'slide_deck',
+    };
+  }
+}
+fs.appendFileSync(
+  dataAgentsPath,
+  `\nwindow.AGENT_CONFIGS = ${JSON.stringify(agentConfigs, null, 2)};`
 );
 
 console.log(`data-agents.js aggiornato: ${counts.join(' | ')}`);

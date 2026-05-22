@@ -149,6 +149,54 @@ http.createServer((req, res) => {
     return;
   }
 
+  /* ── Set render template: POST /api/set-render-template ── */
+  if (req.method === 'POST' && urlPath === '/api/set-render-template') {
+    let body = '';
+    req.on('data', chunk => { body += chunk; });
+    req.on('end', () => {
+      try {
+        const { agent, slug, template } = JSON.parse(body);
+        const dir = OUTPUT_DIRS[agent];
+        if (!dir) { res.writeHead(400); res.end('Unknown agent'); return; }
+
+        const files = fs.readdirSync(dir).filter(f => f.endsWith('.json'));
+        let best = null;
+        for (const f of files) {
+          const base  = f.replace('.json', '');
+          const idx   = base.indexOf('_');
+          const fSlug = idx !== -1 ? base.slice(idx + 1) : base;
+          if (fSlug !== slug) continue;
+          if (!best || f > best) best = f;
+        }
+        if (!best) { res.writeHead(404); res.end('Article not found'); return; }
+
+        const fpath   = path.join(dir, best);
+        const article = JSON.parse(fs.readFileSync(fpath, 'utf8'));
+        article.render_template = template;
+        article.render_quality  = 'low';
+        if (article.render_status) article.render_status[template] = null;
+        fs.writeFileSync(fpath, JSON.stringify(article, null, 2) + '\n');
+
+        const token = process.env.GIT_TOKEN;
+        const pushCmd = token
+          ? `git remote set-url origin "https://${token}@github.com/JhoONs117/visual-scroll-blog-.git" && ` +
+            `git add output/ output/food/ output/fitness/ frontend/data-agents.js && ` +
+            `git diff --cached --quiet || (git commit -m "auto: template ${template} ${slug}" && git pull --rebase --autostash origin main && git push)`
+          : 'true';
+
+        spawn('sh', ['-c',
+          `cd "${__dirname}" && node scripts/build-data-agents.js && ${pushCmd}`
+        ], { detached: true, stdio: 'ignore' }).unref();
+
+        res.writeHead(200, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ ok: true, slug, template }));
+      } catch (e) {
+        res.writeHead(500); res.end('Error: ' + e.message);
+      }
+    });
+    return;
+  }
+
   /* ── Save carousel PNG to disk: POST /api/save-carousel-png ── */
   if (req.method === 'POST' && urlPath === '/api/save-carousel-png') {
     let body = '';

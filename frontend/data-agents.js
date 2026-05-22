@@ -366,17 +366,16 @@ window.AGENTS = {
       "render_quality": "low",
       "render_template": "slide_deck",
       "render_status": {
-        "slide_deck": "done"
+        "slide_deck": "error"
       },
-      "render_path": "output/renders/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-.mp4",
-      "render_error": null
+      "render_error": "slide-deck render fallito: concat: Error opening input file /home/miki/visual-scroll-blog/output/renders/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-_list.txt. Error opening input files: No such"
     },
     {
       "schema_version": 2,
       "agent": "ai-news",
       "slug": "trump-delays-ai-security-executive-order-saying-la",
       "prompt_version": "1.0.0",
-      "status": "published",
+      "status": "approved",
       "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
       "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
       "pubDate": "Thu, 21 May 2026 17:30:45 +0000",

@@ -75,7 +75,7 @@ if (!scenes || scenes.length === 0) {
   process.exit(1);
 }
 
-const templateName = article.render_template || agentConfig.video?.[quality] || 'slide_deck';
+const templateName = article.render_template || agentConfig.defaultVideoTemplate || 'slide_deck';
 
 let template;
 try {

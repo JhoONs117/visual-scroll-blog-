@@ -100,6 +100,10 @@ module.exports = {
 
   channels: ['x', 'instagram', 'tiktok'],
 
+  videoTemplates: ['slide_deck', 'anatomy_motion'],
+  defaultVideoTemplate: 'slide_deck',
+  videoPalette: { bg: '#0a0f0a', text: '#f0fdf4', accent: '#22c55e' },
+
   prompts: {
     slides:      (article, _cache) => generateFitnessSlides(article),
     carousel:    (article, _cache) => generateFitnessCarouselSlides(article),

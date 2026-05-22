@@ -92,6 +92,10 @@ module.exports = {
 
   channels: ['x', 'instagram', 'tiktok'],
 
+  videoTemplates: ['slide_deck', 'kinetic_typography', 'network_graph', 'data_story'],
+  defaultVideoTemplate: 'kinetic_typography',
+  videoPalette: { bg: '#0f172a', text: '#f8fafc', accent: '#3b82f6' },
+
   // All prompts wrapped as (article, cache) — runner calls them with article object
   prompts: {
     slides:   (article, _cache) => generateSlides(article.title),

@@ -65,12 +65,19 @@ function loadCandidates() {
       continue;
     }
 
-    // Filtro: approved + render_quality impostato + scenes vuote
-    if (article.status !== 'approved') continue;
+    // Filtro: approved/published + render_quality impostato + scenes vuote
+    if (!['approved', 'published'].includes(article.status)) continue;
     if (article.render_quality === null || article.render_quality === undefined) continue;
     if (article.formats?.video?.scenes?.length > 0) continue;
 
-    candidates.push({ article, filepath: path.join(OUTPUT_DIR, filename) });
+    const agentCfg = require('../agents')[agentId];
+    if (!article.render_template) {
+      article.render_template = agentCfg?.defaultVideoTemplate || 'slide_deck';
+    }
+    const templateModule = require('./templates')[article.render_template];
+    const customPrompt = templateModule?.generatePlanPrompt || null;
+
+    candidates.push({ article, filepath: path.join(OUTPUT_DIR, filename), customPrompt });
     if (candidates.length >= limit) break;
   }
 
@@ -78,41 +85,45 @@ function loadCandidates() {
 }
 
 // ─── Chiamata OpenAI ──────────────────────────────────────────────────────────
-async function callOpenAI(agentId, article) {
-  const userPrompt = [
-    'Genera un piano video di 5 scene per questo articolo.',
-    '',
-    `Agente: ${agentId}`,
-    `Titolo: ${article.title}`,
-    `Slides: ${(article.slides || []).join(' | ')}`,
-    `Template: ${article.render_template}`,
-    '',
-    'Rispondi con questo schema esatto:',
-    JSON.stringify({
-      scenes: [
-        {
-          scene: 1,
-          duration_sec: 4,
-          hook: '...',
-          voiceover: '...',
-          on_screen_text: '...',
-          visual_direction: '...',
-          caption: '...',
-        },
-      ],
-      cta: '...',
-      quality_score: 0,
-    }, null, 2),
-    '',
-    'Regole:',
-    '- esattamente 5 scene',
-    '- durata totale tra 18 e 35 secondi',
-    '- scena 1: hook forte, max 8 parole on_screen_text',
-    '- ogni voiceover: max 22 parole',
-    '- ogni on_screen_text: max 9 parole',
-    '- quality_score: intero 0-100 che stimi tu in base alla forza dell\'hook e chiarezza del messaggio',
-    '- cta: frase finale invito all\'azione, max 10 parole',
-  ].join('\n');
+async function callOpenAI(agentId, article, customPrompt = null) {
+  const userPrompt = customPrompt !== null
+    ? customPrompt
+        .replace('{{title}}', article.title)
+        .replace('{{video_script}}', (article.video_script || []).join('\n'))
+    : [
+        'Genera un piano video di 5 scene per questo articolo.',
+        '',
+        `Agente: ${agentId}`,
+        `Titolo: ${article.title}`,
+        `Slides: ${(article.slides || []).join(' | ')}`,
+        `Template: ${article.render_template}`,
+        '',
+        'Rispondi con questo schema esatto:',
+        JSON.stringify({
+          scenes: [
+            {
+              scene: 1,
+              duration_sec: 4,
+              hook: '...',
+              voiceover: '...',
+              on_screen_text: '...',
+              visual_direction: '...',
+              caption: '...',
+            },
+          ],
+          cta: '...',
+          quality_score: 0,
+        }, null, 2),
+        '',
+        'Regole:',
+        '- esattamente 5 scene',
+        '- durata totale tra 18 e 35 secondi',
+        '- scena 1: hook forte, max 8 parole on_screen_text',
+        '- ogni voiceover: max 22 parole',
+        '- ogni on_screen_text: max 9 parole',
+        '- quality_score: intero 0-100 che stimi tu in base alla forza dell\'hook e chiarezza del messaggio',
+        '- cta: frase finale invito all\'azione, max 10 parole',
+      ].join('\n');
 
   const response = await axios.post(
     'https://api.openai.com/v1/chat/completions',
@@ -155,12 +166,12 @@ async function callOpenAI(agentId, article) {
   let success = 0;
   let failed  = 0;
 
-  for (const { article, filepath } of candidates) {
+  for (const { article, filepath, customPrompt } of candidates) {
     console.log(`📋 ${article.title}`);
 
     let raw;
     try {
-      raw = await callOpenAI(agentId, article);
+      raw = await callOpenAI(agentId, article, customPrompt);
     } catch (e) {
       console.log(`❌ chiamata OpenAI fallita: ${e.message}`);
       failed++;

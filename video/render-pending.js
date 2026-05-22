@@ -84,13 +84,21 @@ function loadCandidates(agentId, outputDir) {
       article = JSON.parse(fs.readFileSync(path.join(outputDir, filename), 'utf8'));
     } catch { continue; }
 
-    if (article.status !== 'approved') continue;
+    if (!['approved', 'published'].includes(article.status)) continue;
     if (!article.render_quality) continue;
     if (!article.formats?.video?.scenes?.length) continue;
-    if (article.render_status?.[article.render_quality] === 'done') continue;
-    if (!hasCarouselPngs(agentId, slug)) continue;
+    if (!article.render_status) article.render_status = {};
+    if (article.render_status.low === 'done' && !article.render_status.slide_deck) {
+      article.render_status.slide_deck = 'done';
+    }
+    const agentCfg = require('../agents')[agentId];
+    const tmplName = article.render_template || agentCfg?.defaultVideoTemplate || 'slide_deck';
+    if (article.render_status[tmplName] === 'done') continue;
+    const tmpl = require('./templates')[tmplName];
+    if (!tmpl) { console.warn('Template ' + tmplName + ' non trovato per ' + slug); continue; }
+    if (tmpl.requiresCarouselPng && !hasCarouselPngs(agentId, slug)) continue;
 
-    candidates.push({ article, filepath: path.join(outputDir, filename), agentId, slug });
+    candidates.push({ article, filepath: path.join(outputDir, filename), agentId, slug, templateName: tmplName });
   }
 
   return candidates;
@@ -122,10 +130,9 @@ function loadCandidates(agentId, outputDir) {
   let success = 0;
   let failed  = 0;
 
-  for (const { article, filepath, agentId, slug } of allCandidates) {
-    const quality      = article.render_quality;
-    const templateName = article.render_template || require('../agents')[agentId]?.video?.[quality] || 'slide_deck';
-    const outputPath   = path.join(rendersDir, `${slug}.mp4`);
+  for (const { article, filepath, agentId, slug, templateName } of allCandidates) {
+    const quality    = article.render_quality;
+    const outputPath = path.join(rendersDir, `${slug}.mp4`);
 
     console.log(`▶ [${agentId}] ${article.title}`);
     console.log(`  quality=${quality} | template=${templateName}`);
@@ -149,8 +156,8 @@ function loadCandidates(agentId, outputDir) {
     try {
       await template.render(article, scenes, agentConfig, outputPath);
     } catch (e) {
-      article.render_status[quality] = 'error';
-      article.render_error           = e.message.slice(0, 200);
+      article.render_status[templateName] = 'error';
+      article.render_error                = e.message.slice(0, 200);
       fs.writeFileSync(filepath, JSON.stringify(article, null, 2) + '\n');
       console.log(`  ❌ Render fallito: ${e.message.slice(0, 100)}\n`);
       failed++;
@@ -163,9 +170,9 @@ function loadCandidates(agentId, outputDir) {
     const elapsed = ((Date.now() - startMs) / 1000).toFixed(1);
     const sizeMB  = info ? (info.sizeBytes / 1024 / 1024).toFixed(1) : '?';
 
-    article.render_path            = path.relative(ROOT, outputPath);
-    article.render_status[quality] = 'done';
-    article.render_error           = null;
+    article.render_path                  = path.relative(ROOT, outputPath);
+    article.render_status[templateName] = 'done';
+    article.render_error                 = null;
     fs.writeFileSync(filepath, JSON.stringify(article, null, 2) + '\n');
 
     console.log(`  ✅ ${elapsed}s — ${sizeMB}MB — ${info?.duration?.toFixed(1) || '?'}s\n`);
