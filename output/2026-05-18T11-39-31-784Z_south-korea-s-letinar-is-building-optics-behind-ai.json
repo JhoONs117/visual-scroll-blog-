@@ -159,9 +159,11 @@
   "render_status": {
     "low": "done",
     "medium": null,
-    "high": null
+    "high": null,
+    "slide_deck": "done",
+    "kinetic_typography": "error"
   },
   "render_path": "output/renders/south-korea-s-letinar-is-building-optics-behind-ai.mp4",
-  "render_error": null,
+  "render_error": "Template kinetic_typography non ancora implementato",
   "render_version": null
 }

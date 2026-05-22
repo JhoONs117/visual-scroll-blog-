@@ -159,9 +159,11 @@
   "render_status": {
     "low": "done",
     "medium": null,
-    "high": null
+    "high": null,
+    "slide_deck": "done",
+    "kinetic_typography": "error"
   },
   "render_path": "output/renders/why-trust-is-a-big-question-at-the-elon-musk-opena.mp4",
-  "render_error": null,
+  "render_error": "Template kinetic_typography non ancora implementato",
   "render_version": null
 }

@@ -156,7 +156,8 @@
   "render_quality": "low",
   "render_template": "slide_deck",
   "render_status": {
-    "slide_deck": "error"
+    "slide_deck": "done"
   },
-  "render_error": "slide-deck render fallito: concat: Error opening input file /home/miki/visual-scroll-blog/output/renders/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-_list.txt. Error opening input files: No such"
+  "render_error": null,
+  "render_path": "output/renders/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-.mp4"
 }
