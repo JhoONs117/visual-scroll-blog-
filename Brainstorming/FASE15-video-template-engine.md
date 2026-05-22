@@ -4,14 +4,17 @@
 Contesto: `PROJECT.md` + `MANUAL.md` + sessione di brainstorming 2026-05-22
 Stato precedente: FASE 14 (Video Engine V2 / slide-deck) ✅ completa
 
-**Stato FASE 15 (2026-05-22):** STEP 1–7 ✅ tutti completi
-- STEP 1 ✅ videoTemplates/defaultVideoTemplate/videoPalette aggiunti ai 3 agent config
-- STEP 2 ✅ build-data-agents.js: merge render_template + window.AGENT_CONFIGS
-- STEP 3 ✅ render-pending.js: status filter, render_status migration, PNG check condizionale
-- STEP 4 ✅ templates/index.js stub→real + render-video-v2.js routing + generate-video-plan.js
-- STEP 5 ✅ server.js set-render-template endpoint + carousel.html template dropdown + videoHtml bugfix
-- STEP 6 ✅ kinetic-typography.js: FFmpeg drawtext, TTS, tone/layout/emphasis, testato end-to-end
-- STEP 7 ✅ Documentazione MANUAL.md §30 + PROJECT.md milestone
+**Stato FASE 15: ✅ COMPLETA — 2026-05-22**
+
+| Step | File | Stato |
+|---|---|---|
+| STEP 1 — Config agenti | `agents/*/config.js` | ✅ videoTemplates, defaultVideoTemplate, videoPalette |
+| STEP 2 — Build e dati | `scripts/build-data-agents.js` | ✅ merge render_template + window.AGENT_CONFIGS |
+| STEP 3 — Backend render | `video/render-pending.js` | ✅ status filter, render_status migration, PNG check condizionale |
+| STEP 4 — Registry e routing | `templates/index.js`, `render-video-v2.js`, `generate-video-plan.js` | ✅ stub→real, routing, generatePlanPrompt |
+| STEP 5 — Server e frontend | `server.js`, `frontend/carousel.html` | ✅ endpoint set-render-template, dropdown Video Template, videoHtml bugfix |
+| STEP 6 — Template kinetic-typography | `video/templates/kinetic-typography.js` | ✅ FFmpeg drawtext, TTS, tone/layout/emphasis, testato end-to-end |
+| STEP 7 — Documentazione | `MANUAL.md §30`, `PROJECT.md` | ✅ dropdown rinominato, tabella template aggiornata |
 
 ---
 
