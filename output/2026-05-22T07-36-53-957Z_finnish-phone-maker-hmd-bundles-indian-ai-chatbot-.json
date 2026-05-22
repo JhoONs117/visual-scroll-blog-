@@ -3,7 +3,7 @@
   "agent": "ai-news",
   "slug": "finnish-phone-maker-hmd-bundles-indian-ai-chatbot-",
   "prompt_version": "1.0.0",
-  "status": "published",
+  "status": "approved",
   "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
   "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
   "pubDate": "Fri, 22 May 2026 06:41:28 +0000",
@@ -49,6 +49,58 @@
     },
     "instagram": {
       "caption": "HMD Global ha appena lanciato un telefono da 10.000 rupie (circa 100€) con un chatbot AI indiano preinstallato, che parla hindi e dialetti locali senza bisogno di account Google. 🇮🇳 Non è un aggiornamento software: l'assistente è già attivo, capisce contesti e festività locali che Google Assistant spesso sbaglia. 📱 Per chi usa il telefono in India, niente più passaggi intermedi per le attività quotidiane. Consigli concreti? Se cerchi un nuovo device, provalo una settimana prima di spendere di più. 🔄 Sai già se la tua prossima cena sarà per Diwali?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Un nuovo smartphone cambia le regole!",
+          "voiceover": "HMD Global sfida il mercato indiano con un'innovazione.",
+          "on_screen_text": "Un nuovo smartphone cambia le regole!",
+          "visual_direction": "Immagini di un smartphone in uso, con effetti dinamici.",
+          "caption": "Scopri la novità!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "L'AI indiana si presenta!",
+          "voiceover": "Un chatbot AI indiano è preinstallato su un dispositivo economico.",
+          "on_screen_text": "Chatbot AI preinstallato!",
+          "visual_direction": "Clip del chatbot in azione, mostrando l'interfaccia.",
+          "caption": "Tecnologia locale, nuove opportunità!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 7,
+          "hook": "Sfida a Google Assistant!",
+          "voiceover": "Ora puoi usare l'AI in Hindi e dialetti regionali.",
+          "on_screen_text": "Sfida a Google Assistant!",
+          "visual_direction": "Comparazione tra il chatbot e Google Assistant in un split screen.",
+          "caption": "Comunicazione senza barriere!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Dì addio alle app globali!",
+          "voiceover": "Gli utenti indiani possono evitare le app globali per le attività quotidiane.",
+          "on_screen_text": "Dì addio alle app globali!",
+          "visual_direction": "Visualizzazione di utenti felici che usano il chatbot.",
+          "caption": "Semplifica la tua vita!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Provalo prima di aggiornare!",
+          "voiceover": "Testa l'AI locale prima del tuo prossimo acquisto.",
+          "on_screen_text": "Provalo prima di aggiornare!",
+          "visual_direction": "Close-up di mani che usano il telefono, con un sorriso.",
+          "caption": "Fai la scelta giusta!"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Scopri di più sul nostro sito!"
     }
   },
   "instagram_caption": "HMD Global ha appena lanciato un telefono da 10.000 rupie (circa 100€) con un chatbot AI indiano preinstallato, che parla hindi e dialetti locali senza bisogno di account Google. 🇮🇳 Non è un aggiornamento software: l'assistente è già attivo, capisce contesti e festività locali che Google Assistant spesso sbaglia. 📱 Per chi usa il telefono in India, niente più passaggi intermedi per le attività quotidiane. Consigli concreti? Se cerchi un nuovo device, provalo una settimana prima di spendere di più. 🔄 Sai già se la tua prossima cena sarà per Diwali?",
@@ -100,5 +152,11 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/HMD-vibe-2-5g.jpg?resize=1200,665",
   "savedAt": "2026-05-22T07:37:14.102Z",
-  "sourceId": "6d211f15cd8a5714b28261239e5bd020"
+  "sourceId": "6d211f15cd8a5714b28261239e5bd020",
+  "render_quality": "low",
+  "render_template": "slide_deck",
+  "render_status": {
+    "slide_deck": "error"
+  },
+  "render_error": "slide-deck render fallito: concat: Error opening input file /home/miki/visual-scroll-blog/output/renders/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-_list.txt. Error opening input files: No such"
 }
