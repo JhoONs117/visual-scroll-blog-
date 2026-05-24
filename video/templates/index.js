@@ -5,9 +5,13 @@ const stub = name => ({
 });
 
 module.exports = {
-  'slide_deck':          require('./slide-deck'),
-  'kinetic_typography':  require('./kinetic-typography'),
-  'data_reveal':         stub('data_reveal'),
+  'slide_deck':           require('./slide-deck'),
+  'kinetic_typography':   require('./kinetic-typography'),
+  'data_story':           require('./data-story'),
+  'timeline_motion':      require('./timeline-motion'),
+  'network_graph':        require('./network-graph'),
+  'minimal_documentary':  require('./minimal-documentary'),
+  'data_reveal':          stub('data_reveal'),
   'recipe_reveal':       stub('recipe_reveal'),
   'coach_breakdown':     stub('coach_breakdown'),
   'avatar_presenter':    stub('avatar_presenter'),

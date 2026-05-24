@@ -92,7 +92,7 @@ module.exports = {
 
   channels: ['x', 'instagram', 'tiktok'],
 
-  videoTemplates: ['slide_deck', 'kinetic_typography', 'network_graph', 'data_story'],
+  videoTemplates: ['slide_deck', 'kinetic_typography', 'network_graph', 'data_story', 'timeline_motion', 'minimal_documentary'],
   defaultVideoTemplate: 'kinetic_typography',
   videoPalette: { bg: '#0f172a', text: '#f8fafc', accent: '#3b82f6' },
 

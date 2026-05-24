@@ -67,7 +67,7 @@ module.exports = {
 
   channels: ['x', 'instagram', 'tiktok'],
 
-  videoTemplates: ['slide_deck', 'recipe_assembly'],
+  videoTemplates: ['slide_deck', 'minimal_documentary', 'recipe_assembly'],
   defaultVideoTemplate: 'slide_deck',
   videoPalette: { bg: '#10150f', text: '#f7efe3', accent: '#e07b39' },
 
