@@ -934,6 +934,40 @@ Railway impiega ~1 minuto per fare il redeploy dopo ogni push. Se dopo 3 minuti 
 
 ---
 
+### ⚠️ Git push rifiutato — la CI ha committato in parallelo (problema RICORRENTE)
+
+**Questo succede spesso.** La pipeline GitHub Actions gira ogni 2 ore e committa nuovi articoli e `data-agents.js` direttamente su `main`. Se nel frattempo hai fatto un commit locale, il tuo push viene rifiutato perché il remote è avanti.
+
+**Messaggio di errore tipico:**
+```
+! [rejected]  main -> main (fetch first)
+error: failed to push some refs
+hint: Updates were rejected because the remote contains work that you do not have locally.
+```
+
+**Soluzione — UN SOLO COMANDO (usarlo sempre al posto di `git push`):**
+```bash
+git pull --rebase --autostash && git push
+```
+
+Cosa fa:
+- `--autostash` mette da parte eventuali modifiche non staged
+- `--rebase` riapplica il tuo commit sopra quelli della CI (nessun merge commit)
+- Se ci sono conflitti su file auto-generati (`data-agents.js`, JSON output), la CI li ha sovrascritti — accetta la versione remota:
+  ```bash
+  git checkout --theirs frontend/data-agents.js
+  git add frontend/data-agents.js
+  git rebase --continue
+  git push
+  ```
+
+**Regola pratica:** non usare mai `git push` da solo in questo progetto. Usa sempre:
+```bash
+git pull --rebase --autostash && git push
+```
+
+---
+
 ## 19. Come gestire review_queue.json e rimuovere un articolo
 
 ### review_queue.json — cos'è e quando intervenire
@@ -1390,11 +1424,16 @@ Il file JSON in `output/` ha sempre il formato `{timestamp}_{slug}.json`. Lo slu
 
 ### Template video
 
-| Template | Label UI | Descrizione |
-|---|---|---|
-| `slide_deck` | Slideshow | Slide carousel animate con zoom/pan + voiceover TTS. Richiede PNG carousel (💾 Salva per video). |
-| `kinetic_typography` | Kinetic Text | Testo animato su sfondo solido, TTS voiceover. Non richiede PNG. |
-| `network_graph`, `data_story`, `recipe_assembly`, `anatomy_motion` | — | Non ancora implementati |
+| Template | Label UI | Stato | Descrizione |
+|---|---|---|---|
+| `slide_deck` | Slideshow | ✅ | Slide carousel animate con zoom/pan + TTS. Richiede PNG (💾 Salva per video). |
+| `kinetic_typography` | Kinetic Text | ✅ | Testo animato su sfondo solido + TTS. Non richiede PNG. |
+| `data_story` | Data Story | ✅ | Grafici animati (bar/line/counter/comparison) + TTS. Non richiede PNG. |
+| `timeline_motion` | Timeline | ✅ | Linea del tempo con eventi che appaiono + TTS. Non richiede PNG. |
+| `network_graph` | Network Graph | ✅ | Nodi e connessioni animati in SVG + TTS. Non richiede PNG. |
+| `minimal_documentary` | Documentary | ✅ | Immagini Pexels dall'articolo + Ken Burns + vignette + TTS. Non richiede PNG. |
+| `recipe_assembly` | Recipe Assembly | 🔲 stub | Non ancora implementato |
+| `anatomy_motion` | Anatomy Motion | 🔲 stub | Non ancora implementato (richiede Blender) |
 
 ### Endpoint server aggiunti (server.js)
 
