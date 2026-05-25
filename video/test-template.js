@@ -87,6 +87,42 @@ FAKE_ARTICLES['timeline_motion'] = {
   ],
 };
 
+FAKE_ARTICLES['whiteboard'] = {
+  slug:         'test-whiteboard',
+  title:        'How Large Language Models Actually Work: Attention, Input, Output',
+  video_script: [
+    'A large language model takes text as input, applies attention, and generates output.',
+    'Training transforms raw data into a model that understands context.',
+    'The agent observe-decide-act cycle is the foundation of autonomous AI.',
+    'Three steps are all you need to solve most AI problems.',
+    'Connect specialized agents together and they outperform any single model.',
+  ],
+};
+
+FAKE_ARTICLES['code_terminal'] = {
+  slug:         'test-code-terminal',
+  title:        'Three Lines of Code: How AI Agents Read the Entire Web for You',
+  video_script: [
+    'Three lines of code and an AI agent reads the web for you.',
+    'No manual work. No curation. Just a script that runs every two hours.',
+    'The filter is AI-powered: only the best articles get through.',
+    'One push to Git. Railway deploys in under a minute.',
+    'The future of content automation is already here.',
+  ],
+};
+
+FAKE_ARTICLES['isometric_workflow'] = {
+  slug:         'test-isometric-workflow',
+  title:        'Multi-Agent AI Systems: How Orchestrators Coordinate Specialized Agents',
+  video_script: [
+    'A user sends a complex request to the AI orchestration layer.',
+    'The orchestrator receives the request and routes it to specialized agents.',
+    'Two agents work in parallel: one searches the web, one executes code.',
+    'Each agent uses its own set of tools to collect and process data.',
+    'Results are merged by the aggregator and delivered as a single output.',
+  ],
+};
+
 FAKE_ARTICLES['minimal_documentary'] = {
   slug:         'test-minimal-documentary',
   title:        'China Maps Entire Renewable Energy Grid With AI in Record Time',
@@ -354,6 +390,294 @@ FAKE_SCENES['timeline_motion'] = [
     events:        [{ date: '2025', label: 'GPT-5 — reasoning', type: 'now' }],
     camera_motion: 'static',
     scene_title:   'Adesso',
+  },
+];
+
+FAKE_SCENES['whiteboard'] = [
+  {
+    voiceover:   "Come funziona un LLM: input, attenzione, output.",
+    duration_sec: 7,
+    headline:    "Come ragiona un LLM",
+    elements: [
+      { type: 'rect',   label: 'Input',      position: { x: 50, y: 18 }, size: 'medium', reveal_order: 0 },
+      { type: 'arrow',  label: '',           position: { x: 50, y: 33 }, size: 'small',  reveal_order: 1 },
+      { type: 'circle', label: 'Attenzione', position: { x: 50, y: 50 }, size: 'large',  reveal_order: 2 },
+      { type: 'arrow',  label: '',           position: { x: 50, y: 67 }, size: 'small',  reveal_order: 3 },
+      { type: 'rect',   label: 'Output',     position: { x: 50, y: 82 }, size: 'medium', reveal_order: 4 },
+    ],
+    layout: 'top_down',
+  },
+  {
+    voiceover:   "I dati grezzi entrano. Il training trasforma. Il modello emerge.",
+    duration_sec: 7,
+    headline:    "Il processo di training",
+    elements: [
+      { type: 'rect',   label: 'Dati grezzi', position: { x: 50, y: 18 }, size: 'medium', reveal_order: 0 },
+      { type: 'arrow',  label: '',            position: { x: 50, y: 33 }, size: 'small',  reveal_order: 1 },
+      { type: 'circle', label: 'Training',    position: { x: 50, y: 50 }, size: 'large',  reveal_order: 2 },
+      { type: 'arrow',  label: '',            position: { x: 50, y: 67 }, size: 'small',  reveal_order: 3 },
+      { type: 'rect',   label: 'Modello AI',  position: { x: 50, y: 82 }, size: 'medium', reveal_order: 4 },
+    ],
+    layout: 'top_down',
+  },
+  {
+    voiceover:   "Un agente osserva, decide e agisce. In loop continuo.",
+    duration_sec: 6,
+    headline:    "Il ciclo dell'agente AI",
+    elements: [
+      { type: 'circle', label: 'Osserva',  position: { x: 50, y: 20 }, size: 'medium', reveal_order: 0 },
+      { type: 'arrow',  label: '',         position: { x: 50, y: 38 }, size: 'small',  reveal_order: 1 },
+      { type: 'circle', label: 'Decide',   position: { x: 50, y: 55 }, size: 'large',  reveal_order: 2 },
+      { type: 'arrow',  label: '',         position: { x: 50, y: 72 }, size: 'small',  reveal_order: 3 },
+      { type: 'circle', label: 'Agisce',   position: { x: 50, y: 85 }, size: 'medium', reveal_order: 4 },
+    ],
+    layout: 'top_down',
+  },
+  {
+    voiceover:   "Tre passi. Una soluzione. Zero passaggi inutili.",
+    duration_sec: 5,
+    headline:    "Soluzione in 3 passi",
+    elements: [
+      { type: 'check', label: 'Analisi',    position: { x: 50, y: 30 }, size: 'medium', reveal_order: 0 },
+      { type: 'check', label: 'Esecuzione', position: { x: 50, y: 55 }, size: 'medium', reveal_order: 1 },
+      { type: 'check', label: 'Risultato',  position: { x: 50, y: 80 }, size: 'large',  reveal_order: 2 },
+    ],
+    layout: 'top_down',
+  },
+  {
+    voiceover:   "Agenti specializzati connessi: ogni nodo è un esperto.",
+    duration_sec: 6,
+    headline:    "Rete di agenti esperti",
+    elements: [
+      { type: 'circle',  label: 'Hub',      position: { x: 50, y: 20 }, size: 'large',  reveal_order: 0 },
+      { type: 'arrow',   label: '',         position: { x: 25, y: 45 }, size: 'small',  reveal_order: 1 },
+      { type: 'circle',  label: 'Agente A', position: { x: 20, y: 70 }, size: 'medium', reveal_order: 2 },
+      { type: 'arrow',   label: '',         position: { x: 75, y: 45 }, size: 'small',  reveal_order: 3 },
+      { type: 'circle',  label: 'Agente B', position: { x: 80, y: 70 }, size: 'medium', reveal_order: 4 },
+    ],
+    layout: 'top_down',
+  },
+];
+
+FAKE_SCENES['code_terminal'] = [
+  {
+    voiceover:      "Tre righe di codice. Un agente che legge il web per te.",
+    duration_sec:   6,
+    terminal_lines: [
+      "$ node agent.js --task 'find AI news'",
+      "→ Fetching feeds...",
+      "→ Found 32 articles",
+      "→ AI filter: 8 passed",
+      "✓ Done in 4.2s",
+    ],
+    prompt_prefix:  '$ ',
+    highlight_line: 4,
+    scene_title:    'Agente in azione',
+  },
+  {
+    voiceover:      "Il codice è semplice. La logica è AI.",
+    duration_sec:   7,
+    terminal_lines: [
+      "const agent = require('./agent');",
+      "const articles = await agent.fetch();",
+      "const filtered = await agent.filter(articles);",
+      "return filtered.slice(0, 5);",
+    ],
+    prompt_prefix:  'node> ',
+    highlight_line: 2,
+    scene_title:    "Codice dell'agente",
+  },
+  {
+    voiceover:      "Build completato in meno di tre secondi.",
+    duration_sec:   5,
+    terminal_lines: [
+      '$ npm run build',
+      '→ Bundling 42 modules...',
+      '→ Minifying CSS...',
+      '→ Writing output/...',
+      '✓ Build completed in 2.8s',
+      '✓ 3 files written',
+    ],
+    prompt_prefix:  '$ ',
+    highlight_line: 4,
+    scene_title:    'Build in 3 secondi',
+  },
+  {
+    voiceover:      "Push automatico ogni due ore. Zero intervento manuale.",
+    duration_sec:   6,
+    terminal_lines: [
+      "$ git add output/*.json",
+      "$ git commit -m 'AI: 3 new articles'",
+      "→ [main a1b2c3d] AI: 3 new articles",
+      "$ git push origin main",
+      "✓ remote: Deploy started",
+    ],
+    prompt_prefix:  '$ ',
+    highlight_line: 4,
+    scene_title:    'Deploy automatico',
+  },
+  {
+    voiceover:      "L'API risponde in millisecondi. L'AI lavora per te.",
+    duration_sec:   6,
+    terminal_lines: [
+      '$ curl -X POST api.deepseek.com/v1/chat',
+      '→ Status: 200 OK',
+      '→ tokens_used: 842',
+      '→ model: deepseek-chat',
+      '✓ Response in 0.9s',
+    ],
+    prompt_prefix:  '$ ',
+    highlight_line: 4,
+    scene_title:    'Risposta API',
+  },
+];
+
+FAKE_SCENES['isometric_workflow'] = [
+  {
+    voiceover:    "Un utente invia una richiesta complessa al sistema AI.",
+    duration_sec: 5,
+    blocks: [
+      { id: 'user', label: 'Utente', type: 'user', iso_col: 1, iso_row: 0 },
+    ],
+    connections:  [],
+    scene_title:  'La richiesta',
+    focus_block:  'user',
+  },
+  {
+    voiceover:    "L'orchestratore riceve la richiesta e pianifica la risposta.",
+    duration_sec: 6,
+    blocks: [
+      { id: 'user', label: 'Utente',       type: 'user',    iso_col: 2, iso_row: 0 },
+      { id: 'orch', label: 'Orchestrator', type: 'process', iso_col: 0, iso_row: 2 },
+    ],
+    connections:  [{ from: 'user', to: 'orch', label: 'request' }],
+    scene_title:  'Orchestrazione',
+    focus_block:  'orch',
+  },
+  {
+    voiceover:    "Due agenti specializzati vengono attivati in parallelo.",
+    duration_sec: 7,
+    blocks: [
+      { id: 'orch', label: 'Orchestrator', type: 'process', iso_col: 1, iso_row: 0 },
+      { id: 'web',  label: 'Web Agent',    type: 'input',   iso_col: 0, iso_row: 2 },
+      { id: 'code', label: 'Code Agent',   type: 'process', iso_col: 3, iso_row: 1 },
+    ],
+    connections: [
+      { from: 'orch', to: 'web',  label: 'cerca' },
+      { from: 'orch', to: 'code', label: 'esegui' },
+    ],
+    scene_title:  'Agenti paralleli',
+    focus_block:  'orch',
+  },
+  {
+    voiceover:    "Ogni agente usa strumenti specifici per raccogliere i dati.",
+    duration_sec: 7,
+    blocks: [
+      { id: 'web',  label: 'Web Agent',  type: 'input',    iso_col: 0, iso_row: 0 },
+      { id: 'code', label: 'Code Agent', type: 'process',  iso_col: 3, iso_row: 0 },
+      { id: 'db',   label: 'Database',   type: 'database', iso_col: 0, iso_row: 3 },
+      { id: 'api',  label: 'API Calls',  type: 'input',    iso_col: 3, iso_row: 2 },
+    ],
+    connections: [
+      { from: 'web',  to: 'db'  },
+      { from: 'code', to: 'api' },
+    ],
+    scene_title:  'Strumenti AI',
+    focus_block:  'db',
+  },
+  {
+    voiceover:    "I risultati vengono unificati e consegnati all'utente.",
+    duration_sec: 6,
+    blocks: [
+      { id: 'db',  label: 'Database',  type: 'database', iso_col: 0, iso_row: 0 },
+      { id: 'api', label: 'API Calls', type: 'input',    iso_col: 3, iso_row: 0 },
+      { id: 'out', label: 'Output',    type: 'output',   iso_col: 1, iso_row: 2 },
+    ],
+    connections: [
+      { from: 'db',  to: 'out', label: 'merge' },
+      { from: 'api', to: 'out', label: 'merge' },
+    ],
+    scene_title:  'Risposta unificata',
+    focus_block:  'out',
+  },
+];
+
+FAKE_ARTICLES['map_explainer'] = {
+  slug:         'test-map-explainer',
+  title:        'AI Data Centers: The Global Race for Compute Infrastructure',
+  video_script: [
+    'The United States dominates global AI compute with sixty percent of top data centers.',
+    'China has built a parallel AI infrastructure with over three hundred data centers.',
+    'Europe is racing to reduce dependence on American cloud providers.',
+    'Southeast Asia is emerging as the next frontier for AI infrastructure investment.',
+    'The geography of compute will define geopolitical power for the next decade.',
+  ],
+};
+
+FAKE_SCENES['map_explainer'] = [
+  {
+    voiceover:    "Gli USA dominano il compute AI globale con il 60% dei data center mondiali.",
+    duration_sec: 6,
+    countries: [
+      { code: 'US', label: 'USA 60%', type: 'highlight' },
+    ],
+    routes:      [],
+    zoom_region: 'world',
+    scene_title: 'Dominio USA',
+  },
+  {
+    voiceover:    "La Cina ha costruito un'infrastruttura AI parallela con oltre 300 data center.",
+    duration_sec: 6,
+    countries: [
+      { code: 'US', label: 'USA',  type: 'origin' },
+      { code: 'CN', label: 'Cina', type: 'destination' },
+    ],
+    routes: [
+      { from: 'US', to: 'CN', type: 'data' },
+    ],
+    zoom_region: 'world',
+    scene_title: 'USA vs Cina',
+  },
+  {
+    voiceover:    "L'Europa accelera per ridurre la dipendenza dai cloud provider americani.",
+    duration_sec: 6,
+    countries: [
+      { code: 'DE', label: 'Germania', type: 'highlight' },
+      { code: 'FR', label: 'Francia',  type: 'highlight' },
+      { code: 'NL', label: 'Olanda',   type: 'highlight' },
+    ],
+    routes: [],
+    zoom_region: 'europe',
+    scene_title: 'Sovranità europea',
+  },
+  {
+    voiceover:    "Singapore e il Giappone guidano la nuova frontiera AI del Sud-Est asiatico.",
+    duration_sec: 6,
+    countries: [
+      { code: 'SG', label: 'Singapore', type: 'origin' },
+      { code: 'JP', label: 'Giappone',  type: 'highlight' },
+      { code: 'KR', label: 'Corea',     type: 'highlight' },
+    ],
+    routes: [
+      { from: 'US', to: 'SG', type: 'money' },
+    ],
+    zoom_region: 'east_asia',
+    scene_title: 'Asia emergente',
+  },
+  {
+    voiceover:    "La geografia del compute definirà il potere geopolitico del prossimo decennio.",
+    duration_sec: 6,
+    countries: [
+      { code: 'US', label: 'USA',   type: 'highlight' },
+      { code: 'CN', label: 'Cina',  type: 'destination' },
+      { code: 'DE', label: 'EU',    type: 'origin' },
+    ],
+    routes: [
+      { from: 'US', to: 'CN', type: 'data' },
+      { from: 'DE', to: 'US', type: 'product' },
+    ],
+    zoom_region: 'world',
+    scene_title: 'La mappa del potere',
   },
 ];
 

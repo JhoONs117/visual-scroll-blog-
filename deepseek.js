@@ -20,8 +20,9 @@ async function callDeepSeek(prompt) {
 
 module.exports = { callDeepSeek };
 
-// Test
-(async () => {
-  const result = await callDeepSeek('Rispondi solo: ok');
-  console.log(result);
-})();
+if (require.main === module) {
+  (async () => {
+    const result = await callDeepSeek('Rispondi solo: ok');
+    console.log(result);
+  })();
+}

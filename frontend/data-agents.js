@@ -57,52 +57,67 @@ window.AGENTS = {
             {
               "scene": 1,
               "duration_sec": 5,
-              "hook": "Scopri come la Cina sta rivoluzionando l'energia!",
-              "voiceover": "La Cina ha utilizzato l'AI per mappare la sua rete energetica.",
-              "on_screen_text": "La Cina e l'energia rinnovabile",
-              "visual_direction": "Immagini di pannelli solari e turbine eoliche.",
-              "caption": "Innovazione energetica in azione"
+              "hook": "China’s AI just mapped its entire renewable energy grid.",
+              "voiceover": "Ha previsto un blackout con quattro minuti d'anticipo.",
+              "on_screen_text": "Previsione blackout in 4 minuti!",
+              "visual_direction": "Testo che appare in modo rapido, con effetti di vibrazione.",
+              "caption": "Scopri di più sulla tecnologia!",
+              "tone": "urgent",
+              "emphasis_word": "blackout",
+              "layout": "single"
             },
             {
               "scene": 2,
               "duration_sec": 6,
-              "hook": "Cosa ha scoperto l'AI?",
-              "voiceover": "Un modello ora coordina solar, wind e storage in tempo reale.",
-              "on_screen_text": "Coordinazione in tempo reale",
-              "visual_direction": "Animazione della rete energetica in azione.",
-              "caption": "Efficienza energetica massimizzata"
+              "hook": "Un solo modello controlla tutta la rete elettrica.",
+              "voiceover": "Un solo modello controlla tutta la rete elettrica.",
+              "on_screen_text": "Un modello, un controllo.",
+              "visual_direction": "Transizione fluida con grafica della rete elettrica.",
+              "caption": "Innovazione senza precedenti.",
+              "tone": "informative",
+              "emphasis_word": "controlla",
+              "layout": "single"
             },
             {
               "scene": 3,
               "duration_sec": 6,
-              "hook": "Prevenzione attiva delle interruzioni!",
-              "voiceover": "L'AI prevede guasti minuti prima che accadano e reindirizza l'energia.",
-              "on_screen_text": "Prevenire i blackouts",
-              "visual_direction": "Grafica di un sistema che rileva guasti.",
-              "caption": "Tecnologia all'avanguardia"
+              "hook": "Pannelli solari, vento e batterie in tempo reale.",
+              "voiceover": "Pannelli solari, vento e batterie in tempo reale.",
+              "on_screen_text": "Energia rinnovabile in tempo reale.",
+              "visual_direction": "Animazioni di pannelli solari e turbine eoliche.",
+              "caption": "Il futuro dell'energia.",
+              "tone": "inspiring",
+              "emphasis_word": "rinnovabile",
+              "layout": "single"
             },
             {
               "scene": 4,
-              "duration_sec": 5,
-              "hook": "E il resto del mondo?",
-              "voiceover": "Le reti locali potrebbero imparare o rimanere indietro.",
-              "on_screen_text": "Imparare o restare indietro",
-              "visual_direction": "Immagini di reti europee e americane.",
-              "caption": "Un avvertimento globale"
+              "duration_sec": 6,
+              "hook": "Il sistema vede guasti che nessuno nota.",
+              "voiceover": "Il sistema vede guasti che nessuno nota.",
+              "on_screen_text": "Rilevamento guasti automatico.",
+              "visual_direction": "Illustrazione di un guasto, seguito da un alert.",
+              "caption": "Sicurezza prima di tutto.",
+              "tone": "urgent",
+              "emphasis_word": "guasti",
+              "layout": "single"
             },
             {
               "scene": 5,
-              "duration_sec": 5,
-              "hook": "Guarda come affrontano i blackout.",
-              "voiceover": "Scopri come il sistema cinese gestisce il blackout di domani.",
-              "on_screen_text": "Gestione dei blackout",
-              "visual_direction": "Clip di simulazioni di blackout e risposte dell'AI.",
-              "caption": "Preparati al futuro"
+              "duration_sec": 6,
+              "hook": "La tua rete fa ancora tutto a mano.",
+              "voiceover": "La tua rete fa ancora tutto a mano.",
+              "on_screen_text": "È ora di innovare!",
+              "visual_direction": "Confronto tra rete tradizionale e rete AI.",
+              "caption": "Non restare indietro.",
+              "tone": "urgent",
+              "emphasis_word": "innovare",
+              "layout": "single"
             }
           ],
           "quality_score": 85,
-          "duration_sec": 27,
-          "cta": "Segui per ulteriori aggiornamenti sull'energia!"
+          "duration_sec": 29,
+          "cta": "Scopri come migliorare la tua rete!"
         }
       },
       "instagram_caption": "La Cina ha un'IA a cui bastano 3 secondi per ridistribuire l'energia di 12 città, evitando un blackout previsto con 4 minuti di anticipo. ⚡ Dietro c'è un singolo modello che coordina in tempo reale ogni pannello solare, batteria e trasformatore del paese — senza un operatore umano. Mappa ogni cavo e decide il percorso alternativo prima che qualcuno accenda una luce. 🔋 La tua rete locale, con fogli Excel e telefonate, rischia di restare indietro. Quanto sono lontani i gestori di energia intorno a te da questa capacità? 🌍",
@@ -156,9 +171,11 @@ window.AGENTS = {
       "savedAt": "2026-05-22T10:42:33.033Z",
       "sourceId": "f4f2f1817b9decb149cb045e7e77c751",
       "render_quality": "low",
-      "render_template": "slide_deck",
+      "render_template": "kinetic_typography",
       "render_status": {
-        "slide_deck": "done"
+        "slide_deck": "done",
+        "kinetic_typography": null,
+        "low": "done"
       },
       "render_path": "output/renders/china-s-ai-just-mapped-its-entire-renewable-energy.mp4",
       "render_error": null
@@ -32528,7 +32545,8 @@ window.AGENT_CONFIGS = {
       "slide_deck",
       "kinetic_typography",
       "network_graph",
-      "data_story"
+      "data_story",
+      "timeline_motion"
     ],
     "defaultVideoTemplate": "kinetic_typography"
   },

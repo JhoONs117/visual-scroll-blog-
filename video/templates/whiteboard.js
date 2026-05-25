@@ -1,0 +1,372 @@
+'use strict';
+
+require('dotenv').config();
+const fs                      = require('fs');
+const path                    = require('path');
+const { spawnSync, execSync } = require('child_process');
+const axios                   = require('axios');
+const { buildBlackClip }      = require('../../core/video-utils');
+
+const ROOT    = path.join(__dirname, '..', '..', '..');
+const SVG_FPS = 8; // unique SVG frames/sec — smooth stroke animation
+
+const SIZE_PX = { small: 130, medium: 210, large: 300 };
+
+// ─── Asset path generators (from spec) ───────────────────────────────────────
+const ASSETS = {
+  arrow:   (x1, y1, x2, y2) => `M${x1},${y1} L${x2},${y2}`,
+  circle:  (cx, cy, r)       => `M${cx - r},${cy} a${r},${r} 0 1,0 ${r * 2},0 a${r},${r} 0 1,0 -${r * 2},0`,
+  check:   (x, y, size)      => `M${x},${y + size * 0.5} l${size * 0.4},${size * 0.5} l${size * 0.8},-${size * 0.9}`,
+  persona: (cx, cy, size)    => `M${cx},${cy - size * 0.3} m0,${-size * 0.25} a${size * 0.25},${size * 0.25} 0 1,0 0.001,0 M${cx},${cy - size * 0.05} l0,${size * 0.6}`,
+};
+
+// Content area: x [80, 1000], y [230, 1820] — leaves room for headline above
+const AREA = { x0: 80, x1: 1000, y0: 230, y1: 1820 };
+
+function toX(pct) { return AREA.x0 + (pct / 100) * (AREA.x1 - AREA.x0); }
+function toY(pct) { return AREA.y0 + (pct / 100) * (AREA.y1 - AREA.y0); }
+
+function esc(t) {
+  return String(t).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+// Approximate "reach" of a shape — used to shorten arrow endpoints
+function shapeReach(el) {
+  const s = SIZE_PX[el.size || 'medium'];
+  switch (el.type) {
+    case 'circle':  return s * 0.42;
+    case 'rect':    return s * 0.32;
+    default:        return s * 0.30;
+  }
+}
+
+// ─── Shape path builder ───────────────────────────────────────────────────────
+function buildShapePath(el) {
+  const s  = SIZE_PX[el.size || 'medium'];
+  const cx = toX(el.position.x);
+  const cy = toY(el.position.y);
+  switch (el.type) {
+    case 'circle': {
+      const r = s * 0.4;
+      return { d: ASSETS.circle(cx, cy, r), len: 2 * Math.PI * r, cx, cy, s };
+    }
+    case 'rect': {
+      const w = s * 0.8, h = s * 0.55;
+      const d = `M${cx - w / 2},${cy - h / 2} L${cx + w / 2},${cy - h / 2} L${cx + w / 2},${cy + h / 2} L${cx - w / 2},${cy + h / 2} Z`;
+      return { d, len: 2 * (w + h), cx, cy, s, w, h };
+    }
+    case 'check': {
+      // Offset so the check is centered on (cx, cy)
+      const ox = cx - s * 0.6, oy = cy - s * 0.55;
+      return { d: ASSETS.check(ox, oy, s), len: s * 1.84, cx, cy, s };
+    }
+    case 'persona':
+    case 'icon':
+    default: {
+      return { d: ASSETS.persona(cx, cy, s), len: s * 2.2, cx, cy, s };
+    }
+  }
+}
+
+// ─── Arrow path builder (connects prev non-arrow → next non-arrow) ────────────
+function buildArrowPath(el, elements) {
+  const s     = SIZE_PX[el.size || 'small'];
+  const order = el.reveal_order ?? 0;
+
+  const prevEl = elements.find(e => (e.reveal_order ?? 0) === order - 1 && e.type !== 'arrow');
+  const nextEl = elements.find(e => (e.reveal_order ?? 0) === order + 1 && e.type !== 'arrow');
+
+  let x1, y1, x2, y2;
+
+  if (prevEl && nextEl) {
+    const px = toX(prevEl.position.x), py = toY(prevEl.position.y);
+    const nx = toX(nextEl.position.x), ny = toY(nextEl.position.y);
+    const ddx = nx - px, ddy = ny - py;
+    const dist = Math.sqrt(ddx * ddx + ddy * ddy) || 1;
+    const ux = ddx / dist, uy = ddy / dist;
+    const g1 = shapeReach(prevEl) + 10;
+    const g2 = shapeReach(nextEl) + 10;
+    x1 = px + ux * g1;  y1 = py + uy * g1;
+    x2 = nx - ux * g2;  y2 = ny - uy * g2;
+  } else {
+    // Fallback: short vertical arrow at element position
+    const cx = toX(el.position.x), cy = toY(el.position.y);
+    x1 = cx;  y1 = cy - s * 0.4;
+    x2 = cx;  y2 = cy + s * 0.4;
+  }
+
+  const adx = x2 - x1, ady = y2 - y1;
+  const len = Math.sqrt(adx * adx + ady * ady) || s;
+  return { d: ASSETS.arrow(x1, y1, x2, y2), len, x2, y2, adx, ady, s };
+}
+
+// Arrowhead polygon at tip, pointing in direction (adx, ady)
+function buildArrowHead(info, progress) {
+  if (progress < 0.80) return '';
+  const opacity = Math.min((progress - 0.80) / 0.20, 1).toFixed(2);
+  const { x2, y2, adx, ady, s } = info;
+  const dist = Math.sqrt(adx * adx + ady * ady) || 1;
+  const ux = adx / dist, uy = ady / dist;
+  const px = -uy, py = ux; // perpendicular
+  const hw = Math.min(s * 0.10, 18);
+  const h  = Math.min(s * 0.16, 28);
+  const bx = x2 - h * ux, by = y2 - h * uy;
+  const pts = [
+    `${x2.toFixed(1)},${y2.toFixed(1)}`,
+    `${(bx + hw * px).toFixed(1)},${(by + hw * py).toFixed(1)}`,
+    `${(bx - hw * px).toFixed(1)},${(by - hw * py).toFixed(1)}`,
+  ].join(' ');
+  return `<polygon points="${pts}" fill="#1a1a1a" opacity="${opacity}"/>`;
+}
+
+// Label for element, fades in at progress 0.65→1.0
+function buildLabel(el, info, progress) {
+  if (!el.label || progress < 0.65) return '';
+  const opacity = Math.min((progress - 0.65) / 0.35, 1).toFixed(2);
+  const { cx, cy, s } = info;
+  let lx = cx, ly;
+  switch (el.type) {
+    case 'circle':                      ly = cy + s * 0.42 + 58;  break;
+    case 'rect':                        ly = cy + s * 0.28 + 54;  break;
+    case 'check':   lx = cx + s * 0.6; ly = cy + s * 0.1;        break;
+    case 'persona':
+    case 'icon':
+    default:                            ly = cy + s * 0.50 + 58;  break;
+  }
+  return `<text x="${lx.toFixed(1)}" y="${ly.toFixed(1)}" font-family="sans-serif" font-size="44" font-weight="600" fill="#1a1a1a" text-anchor="middle" opacity="${opacity}">${esc(el.label)}</text>`;
+}
+
+// ─── SVG frame builder ────────────────────────────────────────────────────────
+function buildSvg(scene, frameIdx, totalFrames) {
+  const { headline = '', elements = [] } = scene;
+  const fp = totalFrames > 1 ? frameIdx / (totalFrames - 1) : 1; // 0 → 1
+
+  // First 20%: headline typewriter
+  const HEAD_FRAC = 0.20;
+  const headP     = Math.min(fp / HEAD_FRAC, 1);
+  const headTxt   = headline.slice(0, Math.round(headP * headline.length));
+
+  // Remaining 80%: elements in reveal_order, each slot gets equal share
+  const orders  = [...new Set(elements.map(e => e.reveal_order ?? 0))].sort((a, b) => a - b);
+  const nSlots  = Math.max(orders.length, 1);
+  const slotDur = (1 - HEAD_FRAC) / nSlots;
+
+  const parts = [
+    `<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920">`,
+    `<rect width="1080" height="1920" fill="#ffffff"/>`,
+    `<text x="540" y="158" font-family="sans-serif" font-size="54" font-weight="700" fill="#1a1a1a" text-anchor="middle">${esc(headTxt)}</text>`,
+  ];
+
+  // Separator grows with headline
+  if (headP > 0.05) {
+    const lw = Math.round(headP * 820);
+    parts.push(`<line x1="${540 - lw / 2}" y1="185" x2="${540 + lw / 2}" y2="185" stroke="#cccccc" stroke-width="2"/>`);
+  }
+
+  for (const el of elements) {
+    const slot   = orders.indexOf(el.reveal_order ?? 0);
+    const elStart = HEAD_FRAC + slot * slotDur;
+    const elProg  = Math.max(0, Math.min(1, (fp - elStart) / slotDur));
+    if (elProg <= 0) continue;
+
+    const isArrow = el.type === 'arrow';
+    const info    = isArrow ? buildArrowPath(el, elements) : buildShapePath(el);
+    const dOffset = (info.len * (1 - elProg)).toFixed(1);
+
+    parts.push(
+      `<path d="${info.d}" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-dasharray="${info.len.toFixed(1)}" stroke-dashoffset="${dOffset}" stroke-linecap="round"/>`
+    );
+
+    if (isArrow) {
+      parts.push(buildArrowHead(info, elProg));
+    } else {
+      parts.push(buildLabel(el, info, elProg));
+    }
+  }
+
+  parts.push('</svg>');
+  return parts.join('\n');
+}
+
+// ─── TTS via OpenAI ───────────────────────────────────────────────────────────
+async function generateTTS(text, outputPath) {
+  const res = await axios.post(
+    'https://api.openai.com/v1/audio/speech',
+    { model: 'tts-1', voice: 'alloy', input: text },
+    {
+      headers: { Authorization: `Bearer ${process.env.OPENAI_API_KEY}`, 'Content-Type': 'application/json' },
+      responseType: 'arraybuffer',
+      timeout: 30000,
+    }
+  );
+  fs.writeFileSync(outputPath, Buffer.from(res.data));
+}
+
+// ─── Audio duration via ffprobe ───────────────────────────────────────────────
+function getAudioDuration(audioPath) {
+  const raw = execSync(
+    `ffprobe -v quiet -print_format json -show_format "${audioPath}"`,
+    { stdio: 'pipe' }
+  ).toString();
+  return parseFloat(JSON.parse(raw).format?.duration || '5');
+}
+
+// ─── SVG → PNG via FFmpeg ─────────────────────────────────────────────────────
+function svgToPng(svgPath, pngPath) {
+  const r = spawnSync('ffmpeg', ['-y', '-i', svgPath, '-f', 'image2pipe', '-vcodec', 'png', '-'], { stdio: 'pipe' });
+  if (r.status !== 0 || !r.stdout?.length)
+    throw new Error('SVG→PNG: ' + (r.stderr?.toString()?.slice(-150) || 'error'));
+  fs.writeFileSync(pngPath, r.stdout);
+}
+
+function writeFrame(svgContent, framesDir, frameIdx) {
+  const svgPath = path.join(framesDir, `tmp_${frameIdx}.svg`);
+  const pngPath = path.join(framesDir, `frame_${String(frameIdx).padStart(4, '0')}.png`);
+  fs.writeFileSync(svgPath, svgContent);
+  svgToPng(svgPath, pngPath);
+  try { fs.unlinkSync(svgPath); } catch {}
+}
+
+function cleanFramesDir(dir) {
+  try {
+    for (const f of fs.readdirSync(dir)) try { fs.unlinkSync(path.join(dir, f)); } catch {}
+    fs.rmdirSync(dir);
+  } catch {}
+}
+
+// ─── PNG sequence + audio → clip ─────────────────────────────────────────────
+function assemblePngClip(framesDir, audioPath, clipPath, dur) {
+  const tmpVideo = clipPath.replace('.mp4', '_v.mp4');
+  const r1 = spawnSync('ffmpeg', [
+    '-y',
+    '-framerate', String(SVG_FPS),
+    '-i', path.join(framesDir, 'frame_%04d.png'),
+    '-t', String(dur + 0.2),
+    '-r', '25',
+    '-c:v', 'libx264', '-preset', 'fast', '-pix_fmt', 'yuv420p',
+    tmpVideo,
+  ], { stdio: 'pipe' });
+  if (r1.status !== 0)
+    throw new Error('png→video: ' + (r1.stderr?.toString()?.split('\n').slice(-3).join(' ') || 'error'));
+
+  const r2 = spawnSync('ffmpeg', [
+    '-y', '-i', tmpVideo, '-i', audioPath,
+    '-map', '0:v', '-map', '1:a',
+    '-c:v', 'copy', '-c:a', 'aac', '-shortest',
+    clipPath,
+  ], { stdio: 'pipe' });
+  try { fs.unlinkSync(tmpVideo); } catch {}
+  if (r2.status !== 0)
+    throw new Error('merge: ' + (r2.stderr?.toString()?.split('\n').slice(-3).join(' ') || 'error'));
+}
+
+// ─── Concat clips → final MP4 ─────────────────────────────────────────────────
+function concatClips(clipPaths, outputPath) {
+  const listFile = outputPath.replace('.mp4', '_list.txt');
+  fs.writeFileSync(listFile, clipPaths.map(p => `file '${p}'`).join('\n'));
+  const r = spawnSync('ffmpeg', [
+    '-f', 'concat', '-safe', '0',
+    '-i', listFile,
+    '-c:v', 'libx264', '-preset', 'fast',
+    '-c:a', 'aac', '-ar', '44100',
+    '-y', outputPath,
+  ], { stdio: 'pipe' });
+  try { fs.unlinkSync(listFile); } catch {}
+  if (r.status !== 0)
+    throw new Error('concat: ' + (r.stderr?.toString()?.split('\n').slice(-3).join(' ') || 'ffmpeg error'));
+}
+
+// ─── Render single scene ──────────────────────────────────────────────────────
+async function renderScene(i, scene, audioPath, clipPath, framesDir) {
+  await generateTTS(scene.voiceover, audioPath);
+  const dur     = getAudioDuration(audioPath);
+  const nFrames = Math.max(Math.ceil(dur * SVG_FPS), 1);
+
+  fs.mkdirSync(framesDir, { recursive: true });
+  for (let f = 0; f < nFrames; f++) {
+    writeFrame(buildSvg(scene, f, nFrames), framesDir, f);
+  }
+
+  assemblePngClip(framesDir, audioPath, clipPath, dur);
+  cleanFramesDir(framesDir);
+}
+
+// ─── Entry point ──────────────────────────────────────────────────────────────
+async function render(article, scenes, agentConfig, outputPath) {
+  try {
+    outputPath     = path.resolve(outputPath);
+    const slug     = article.slug || 'whiteboard';
+    const rendDir  = path.dirname(outputPath);
+    const clipsDir = path.join(rendDir, 'clips');
+    const audioDir = path.join(rendDir, 'audio');
+
+    fs.mkdirSync(rendDir,  { recursive: true });
+    fs.mkdirSync(clipsDir, { recursive: true });
+    fs.mkdirSync(audioDir, { recursive: true });
+
+    const clipPaths = [];
+
+    for (let i = 0; i < scenes.length; i++) {
+      const scene     = scenes[i];
+      const audioPath = path.join(audioDir, `${slug}_wb${i}.mp3`);
+      const clipPath  = path.join(clipsDir, `${slug}_wb${i}.mp4`);
+      const framesDir = path.join(rendDir, `wb-frames-${i}`);
+
+      console.log(`  scena ${i + 1}/${scenes.length}...`);
+
+      try {
+        await renderScene(i, scene, audioPath, clipPath, framesDir);
+        clipPaths.push(clipPath);
+      } catch (e) {
+        console.warn(`  ⚠️  scena ${i + 1} fallita: ${e.message.slice(0, 100)}`);
+        try {
+          await buildBlackClip(clipPath, scene.duration_sec || 6);
+          clipPaths.push(clipPath);
+        } catch {}
+      }
+    }
+
+    if (clipPaths.length === 0) throw new Error('nessuna clip generata');
+
+    console.log('  [whiteboard] concatenazione...');
+    concatClips(clipPaths, outputPath);
+
+    for (const cp of clipPaths) try { fs.unlinkSync(cp); } catch {}
+    try { fs.rmdirSync(clipsDir); } catch {}
+
+    console.log(`✅ whiteboard → ${path.relative(ROOT, outputPath)}`);
+  } catch (e) {
+    return Promise.reject(new Error(`whiteboard render fallito: ${e.message}`));
+  }
+}
+
+// ─── generatePlanPrompt ───────────────────────────────────────────────────────
+const generatePlanPrompt = `
+Articolo: {{title}}
+Testo: {{video_script}}
+
+Genera 5 scene per un video whiteboard in verticale 9:16.
+Per ogni scena restituisci JSON con:
+  - voiceover: (stringa, max 22 parole)
+  - duration_sec: (intero 6-9)
+  - headline: (stringa, max 7 parole — testo scritto progressivamente in cima)
+  - elements: (array di 2-4 elementi, ognuno con:
+      type: "circle" | "rect" | "arrow" | "check" | "persona"
+      label: stringa, max 4 parole (o stringa vuota per frecce)
+      position: { x: number 0-100, y: number 0-100 }
+      size: "small" | "medium" | "large"
+      reveal_order: intero 0-N
+    )
+  - layout: ("top_down" | "flow_left_right" | "centered" | "comparison")
+
+Per layout "top_down": imposta x=50 per tutti gli elementi, y crescente da 15 a 85.
+Le frecce (type="arrow") collegano l'elemento precedente (reveal_order-1) al successivo (reveal_order+1).
+`.trim();
+
+module.exports = {
+  id:                  'whiteboard',
+  label:               'Whiteboard',
+  requiresCarouselPng: false,
+  generatePlanPrompt,
+  render,
+};

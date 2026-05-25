@@ -74,16 +74,17 @@ ${titlesLine}`;
 
 module.exports = { normalize, deduplicate, hardFilter, batchAIFilter };
 
-// Test
-(async () => {
-  const hardcoded = [
-    { title: 'OpenAI releases GPT-5 with reasoning capabilities', link: '', pubDate: '' },
-    { title: 'New LLM agent framework outperforms AutoGPT benchmarks', link: '', pubDate: '' },
-    { title: 'Local sports team wins championship game last night', link: '', pubDate: '' },
-  ];
+if (require.main === module) {
+  (async () => {
+    const hardcoded = [
+      { title: 'OpenAI releases GPT-5 with reasoning capabilities', link: '', pubDate: '' },
+      { title: 'New LLM agent framework outperforms AutoGPT benchmarks', link: '', pubDate: '' },
+      { title: 'Local sports team wins championship game last night', link: '', pubDate: '' },
+    ];
 
-  console.log('Test batchAIFilter con 3 titoli hardcoded:');
-  const aiFiltered = await batchAIFilter(hardcoded);
-  console.log(`Articoli passati: ${aiFiltered.length}`);
-  aiFiltered.forEach(a => console.log(' -', a.title));
-})();
+    console.log('Test batchAIFilter con 3 titoli hardcoded:');
+    const aiFiltered = await batchAIFilter(hardcoded);
+    console.log(`Articoli passati: ${aiFiltered.length}`);
+    aiFiltered.forEach(a => console.log(' -', a.title));
+  })();
+}

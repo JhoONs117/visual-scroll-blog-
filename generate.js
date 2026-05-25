@@ -242,15 +242,16 @@ Max 120 parole`;
 
 module.exports = { generateSlides, generateFormats, generateCarouselSlides, generateAINewsCaption };
 
-// Test
-(async () => {
-  const title = 'OpenAI releases GPT-5 with reasoning capabilities';
+if (require.main === module) {
+  (async () => {
+    const title = 'OpenAI releases GPT-5 with reasoning capabilities';
 
-  console.log('-- Prima chiamata (genera e mette in cache) --');
-  const r1 = await generateSlides(title);
-  r1.slides.forEach((s, i) => console.log(`  Slide ${i + 1}: ${s}`));
+    console.log('-- Prima chiamata (genera e mette in cache) --');
+    const r1 = await generateSlides(title);
+    r1.slides.forEach((s, i) => console.log(`  Slide ${i + 1}: ${s}`));
 
-  console.log('\n-- Seconda chiamata (deve usare la cache) --');
-  const r2 = await generateSlides(title);
-  r2.slides.forEach((s, i) => console.log(`  Slide ${i + 1}: ${s}`));
-})();
+    console.log('\n-- Seconda chiamata (deve usare la cache) --');
+    const r2 = await generateSlides(title);
+    r2.slides.forEach((s, i) => console.log(`  Slide ${i + 1}: ${s}`));
+  })();
+}
