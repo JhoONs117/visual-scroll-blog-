@@ -69,9 +69,10 @@ async function fetchArticleImage(url) {
 
 module.exports = { fetchArticles, fetchPexelsImage, fetchArticleImage };
 
-// Test
-(async () => {
-  const articles = await fetchArticles();
-  console.log(`Articoli trovati: ${articles.length}`);
-  articles.slice(0, 3).forEach((a, i) => console.log(`${i + 1}. ${a.title}`));
-})();
+if (require.main === module) {
+  (async () => {
+    const articles = await fetchArticles();
+    console.log(`Articoli trovati: ${articles.length}`);
+    articles.slice(0, 3).forEach((a, i) => console.log(`${i + 1}. ${a.title}`));
+  })();
+}
