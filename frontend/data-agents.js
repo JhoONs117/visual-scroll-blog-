@@ -3,6 +3,216 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ferrari-is-using-ibm-s-ai-to-create-f1-superfans",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "pubDate": "Sat, 23 May 2026 15:08:00 +0000",
+      "slides": [
+        "Ferrari wants you to predict F1 races before they happen?",
+        "IBM’s AI analyzes telemetry, weather, and driver history live.",
+        "But fans get the same insights as engineers—for free.",
+        "You can now bet smarter or argue with data instead of gut.",
+        "Test the AI’s next race prediction—prove it wrong."
+      ],
+      "thread_text": [
+        "I fan della Ferrari ora vedono gli stessi dati degli ingegneri in tempo reale. E gratis.",
+        "IBM ha costruito un'AI che analizza telemetria, meteo e storico piloti durante la gara.",
+        "Il risultato? Puoi scommettere con più testa o vincere una discussione al bar con i numeri.",
+        "Non è un demografico per addetti ai lavori: è aperto a tutti, subito.",
+        "Il prossimo GP ha già una previsione dell'AI. Prova a smentirla.",
+        "Non devi comprare nulla. Solo entrare e vedere se l'AI ha ragione."
+      ],
+      "video_script": [
+        "Ora vedi i dati Ferrari in tempo reale.",
+        "IBM li analizza per te gratis.",
+        "Telemetria, meteo, storico piloti: tutto.",
+        "Scommetti meglio o vinci discussioni.",
+        "Testa la predizione del prossimo GP."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "I fan della Ferrari ora vedono gli stessi dati degli ingegneri in tempo reale. E gratis.",
+            "IBM ha costruito un'AI che analizza telemetria, meteo e storico piloti durante la gara.",
+            "Il risultato? Puoi scommettere con più testa o vincere una discussione al bar con i numeri.",
+            "Non è un demografico per addetti ai lavori: è aperto a tutti, subito.",
+            "Il prossimo GP ha già una previsione dell'AI. Prova a smentirla.",
+            "Non devi comprare nulla. Solo entrare e vedere se l'AI ha ragione."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Ora vedi i dati Ferrari in tempo reale.",
+            "IBM li analizza per te gratis.",
+            "Telemetria, meteo, storico piloti: tutto.",
+            "Scommetti meglio o vinci discussioni.",
+            "Testa la predizione del prossimo GP."
+          ]
+        },
+        "instagram": {
+          "caption": "Ferrari ti sta mettendo in mano gli stessi dati che usano i suoi ingegneri di pista: telemetria in tempo reale, meteo e storico piloti sono analizzati dall'AI di IBM 📊🏎️. Invece di scommettere a sentimento, ora puoi argomentare con i numeri o fare previsioni più solide sulle gare 💡. Per te, fan o scommettitore, significa avere insight da box senza abbonamento—e senza aspettare il verdetto del team. Il prossimo GP ha già una predizione dell'AI: provi a smentirla?"
+        }
+      },
+      "instagram_caption": "Ferrari ti sta mettendo in mano gli stessi dati che usano i suoi ingegneri di pista: telemetria in tempo reale, meteo e storico piloti sono analizzati dall'AI di IBM 📊🏎️. Invece di scommettere a sentimento, ora puoi argomentare con i numeri o fare previsioni più solide sulle gare 💡. Per te, fan o scommettitore, significa avere insight da box senza abbonamento—e senza aspettare il verdetto del team. Il prossimo GP ha già una predizione dell'AI: provi a smentirla?",
+      "carousel_slides": [
+        {
+          "hook": "E se tifassi coi dati?",
+          "description": "I fan Ferrari ora vedono gli stessi dati degli ingegneri in tempo reale. E gratis.",
+          "visual_hint": "Schermata telemetria con freccia",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "car telemetry screen"
+        },
+        {
+          "hook": "AI che analizza tutto live",
+          "description": "IBM ha costruito un'AI che analizza telemetria, meteo e storico piloti durante la gara.",
+          "visual_hint": "Grafici che scorrono verso destra",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center server",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ingegnere per un GP",
+          "description": "Il risultato? Puoi scommettere con più testa o vincere discussioni al bar coi numeri.",
+          "visual_hint": "Lente d'ingrandimento su numero",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Aperto a tutti gratis",
+          "description": "Non è un demo per addetti: è aperto a tutti, subito. Solo entri e usi l'AI.",
+          "visual_hint": "Mano che tocca schermo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person smartphone hand",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova a smentire l'AI",
+          "description": "Il prossimo GP ha già una previsione. Entra e vedi se l'AI ha ragione.",
+          "visual_hint": "Bandiera a scacchi e punto interrogativo",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "checkered flag",
+          "image": "https://images.pexels.com/photos/32282045/pexels-photo-32282045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/01-bxd-ferrari-xg-photography-v2.jpg?resize=1200,959",
+      "savedAt": "2026-05-25T20:57:56.258Z",
+      "sourceId": "32e0243942b6d1417c181e1fcc4f898a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "solarsquare-in-talks-to-raise-up-to-60m-as-india-s",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+      "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+      "pubDate": "Sat, 23 May 2026 20:03:13 +0000",
+      "slides": [
+        "SolarSquare puntava a $60M, ma chi se lo aggiudicherà?",
+        "L'India punta a 40GW di tetto solare entro il 2026.",
+        "I venture capitalist vedono profitti prima della generazione di energia.",
+        "Il tuo investimento solare potrebbe rendere il 15% annuo ora.",
+        "Controlla le politiche locali prima di firmare un contratto."
+      ],
+      "thread_text": [
+        "I venture capitalist vedono profitti prima che l'energia venga generata. Significa che il rischio è già prezzato, ma il guadagno reale arriva solo dopo l'installazione.",
+        "SolarSquare puntava a raccogliere 60 milioni di dollari. Chi li prenderà ora? Probabilmente chi ha già capito come monetizzare prima che i pannelli producano un watt.",
+        "L'India punta a 40 GW di tetto solare entro il 2026. Un target ambizioso, ma senza una politica chiara i venture capitalist rischiano di investire in bolle.",
+        "Il tuo investimento solare potrebbe rendere il 15% annuo. Ma attenzione: dipende tutto dalle tariffe locali e dagli incentivi, non dal costo dei pannelli.",
+        "Controlla le politiche locali prima di firmare un contratto. Un errore comune è firmare un PPA senza verificare il net metering della tua zona. Fallo ora."
+      ],
+      "video_script": [
+        "I venture capitalist vedono soldi prima dell'energia.",
+        "SolarSquare voleva 60 milioni, ma chi li prende?",
+        "L'India punta a 40 GW di tetto solare.",
+        "Il 15% annuo è possibile, ma dipende da dove vivi.",
+        "Prima di firmare, controlla le regole locali."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "I venture capitalist vedono profitti prima che l'energia venga generata. Significa che il rischio è già prezzato, ma il guadagno reale arriva solo dopo l'installazione.",
+            "SolarSquare puntava a raccogliere 60 milioni di dollari. Chi li prenderà ora? Probabilmente chi ha già capito come monetizzare prima che i pannelli producano un watt.",
+            "L'India punta a 40 GW di tetto solare entro il 2026. Un target ambizioso, ma senza una politica chiara i venture capitalist rischiano di investire in bolle.",
+            "Il tuo investimento solare potrebbe rendere il 15% annuo. Ma attenzione: dipende tutto dalle tariffe locali e dagli incentivi, non dal costo dei pannelli.",
+            "Controlla le politiche locali prima di firmare un contratto. Un errore comune è firmare un PPA senza verificare il net metering della tua zona. Fallo ora."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "I venture capitalist vedono soldi prima dell'energia.",
+            "SolarSquare voleva 60 milioni, ma chi li prende?",
+            "L'India punta a 40 GW di tetto solare.",
+            "Il 15% annuo è possibile, ma dipende da dove vivi.",
+            "Prima di firmare, controlla le regole locali."
+          ]
+        },
+        "instagram": {
+          "caption": "SolarSquare sta cercando di raccogliere 60 milioni di dollari, e l’India punta a 40GW di tetti solari entro il 2026 ☀️. I venture capitalist fiutano profitti già prima che i pannelli producano un watt? Significa che il rischio è prezzato, ma il vero guadagno arriva dopo l’installazione. Per te, investire nel solare potrebbe rendere il 15% annuo, ma attenzione: il rendimento dipende dalle tariffe locali e dal net metering, non dal costo dei pannelli ⚡️. Controlla le politiche della tua zona prima di firmare un contratto 📋. Sai già se la tua area supporta lo scambio netto?"
+        }
+      },
+      "instagram_caption": "SolarSquare sta cercando di raccogliere 60 milioni di dollari, e l’India punta a 40GW di tetti solari entro il 2026 ☀️. I venture capitalist fiutano profitti già prima che i pannelli producano un watt? Significa che il rischio è prezzato, ma il vero guadagno arriva dopo l’installazione. Per te, investire nel solare potrebbe rendere il 15% annuo, ma attenzione: il rendimento dipende dalle tariffe locali e dal net metering, non dal costo dei pannelli ⚡️. Controlla le politiche della tua zona prima di firmare un contratto 📋. Sai già se la tua area supporta lo scambio netto?",
+      "carousel_slides": [
+        {
+          "hook": "Profitti prima dei pannelli?",
+          "description": "I VC vedono guadagni prima che l'energia venga generata. Il rischio è prezzato, il vero profitto dopo l'installazione.",
+          "visual_hint": "pile di monete e pannello",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "solar panels field"
+        },
+        {
+          "hook": "Chi prenderà i 60 milioni?",
+          "description": "SolarSquare cercava 60 milioni di dollari. Chi li ottiene? Chi monetizza prima che i pannelli producano un watt.",
+          "visual_hint": "frecce verso un logo azienda",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "investment chart",
+          "image": "https://images.pexels.com/photos/7247411/pexels-photo-7247411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "40GW di tetto solare entro 2026",
+          "description": "Target ambizioso per l'India. Senza politica chiara, i VC rischiano di investire in bolle speculative.",
+          "visual_hint": "mappa India con punti luce",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "India solar panels",
+          "image": "https://images.pexels.com/photos/21832812/pexels-photo-21832812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "15% annuo dal tuo solare",
+          "description": "Rendimento possibile, ma dipende da tariffe e incentivi locali, non dal costo dei pannelli. Fai i conti.",
+          "visual_hint": "mano che calcola su calcolatrice",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand calculator solar",
+          "image": "https://images.pexels.com/photos/6958507/pexels-photo-6958507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prima firma, controlla il net metering",
+          "description": "Non firmare un PPA senza verificare le politiche locali. Un errore comune che costa caro.",
+          "visual_hint": "documento con lente di ingrandimento",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "contract magnifying glass",
+          "image": "https://images.pexels.com/photos/7319068/pexels-photo-7319068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/solarsquare-solar-panel.jpg?resize=1200,800",
+      "savedAt": "2026-05-25T20:57:45.516Z",
+      "sourceId": "fc4bedbc0cf52dfb8ab12ea3a7f6908d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "the-pitch-trick-that-helped-an-esports-startup-rai",
       "prompt_version": "1.0.0",
       "status": "published",

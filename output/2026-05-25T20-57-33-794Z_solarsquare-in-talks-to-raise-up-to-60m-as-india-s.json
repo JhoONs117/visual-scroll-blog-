@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "solarsquare-in-talks-to-raise-up-to-60m-as-india-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+  "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+  "pubDate": "Sat, 23 May 2026 20:03:13 +0000",
+  "slides": [
+    "SolarSquare puntava a $60M, ma chi se lo aggiudicherà?",
+    "L'India punta a 40GW di tetto solare entro il 2026.",
+    "I venture capitalist vedono profitti prima della generazione di energia.",
+    "Il tuo investimento solare potrebbe rendere il 15% annuo ora.",
+    "Controlla le politiche locali prima di firmare un contratto."
+  ],
+  "thread_text": [
+    "I venture capitalist vedono profitti prima che l'energia venga generata. Significa che il rischio è già prezzato, ma il guadagno reale arriva solo dopo l'installazione.",
+    "SolarSquare puntava a raccogliere 60 milioni di dollari. Chi li prenderà ora? Probabilmente chi ha già capito come monetizzare prima che i pannelli producano un watt.",
+    "L'India punta a 40 GW di tetto solare entro il 2026. Un target ambizioso, ma senza una politica chiara i venture capitalist rischiano di investire in bolle.",
+    "Il tuo investimento solare potrebbe rendere il 15% annuo. Ma attenzione: dipende tutto dalle tariffe locali e dagli incentivi, non dal costo dei pannelli.",
+    "Controlla le politiche locali prima di firmare un contratto. Un errore comune è firmare un PPA senza verificare il net metering della tua zona. Fallo ora."
+  ],
+  "video_script": [
+    "I venture capitalist vedono soldi prima dell'energia.",
+    "SolarSquare voleva 60 milioni, ma chi li prende?",
+    "L'India punta a 40 GW di tetto solare.",
+    "Il 15% annuo è possibile, ma dipende da dove vivi.",
+    "Prima di firmare, controlla le regole locali."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "I venture capitalist vedono profitti prima che l'energia venga generata. Significa che il rischio è già prezzato, ma il guadagno reale arriva solo dopo l'installazione.",
+        "SolarSquare puntava a raccogliere 60 milioni di dollari. Chi li prenderà ora? Probabilmente chi ha già capito come monetizzare prima che i pannelli producano un watt.",
+        "L'India punta a 40 GW di tetto solare entro il 2026. Un target ambizioso, ma senza una politica chiara i venture capitalist rischiano di investire in bolle.",
+        "Il tuo investimento solare potrebbe rendere il 15% annuo. Ma attenzione: dipende tutto dalle tariffe locali e dagli incentivi, non dal costo dei pannelli.",
+        "Controlla le politiche locali prima di firmare un contratto. Un errore comune è firmare un PPA senza verificare il net metering della tua zona. Fallo ora."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "I venture capitalist vedono soldi prima dell'energia.",
+        "SolarSquare voleva 60 milioni, ma chi li prende?",
+        "L'India punta a 40 GW di tetto solare.",
+        "Il 15% annuo è possibile, ma dipende da dove vivi.",
+        "Prima di firmare, controlla le regole locali."
+      ]
+    },
+    "instagram": {
+      "caption": "SolarSquare sta cercando di raccogliere 60 milioni di dollari, e l’India punta a 40GW di tetti solari entro il 2026 ☀️. I venture capitalist fiutano profitti già prima che i pannelli producano un watt? Significa che il rischio è prezzato, ma il vero guadagno arriva dopo l’installazione. Per te, investire nel solare potrebbe rendere il 15% annuo, ma attenzione: il rendimento dipende dalle tariffe locali e dal net metering, non dal costo dei pannelli ⚡️. Controlla le politiche della tua zona prima di firmare un contratto 📋. Sai già se la tua area supporta lo scambio netto?"
+    }
+  },
+  "instagram_caption": "SolarSquare sta cercando di raccogliere 60 milioni di dollari, e l’India punta a 40GW di tetti solari entro il 2026 ☀️. I venture capitalist fiutano profitti già prima che i pannelli producano un watt? Significa che il rischio è prezzato, ma il vero guadagno arriva dopo l’installazione. Per te, investire nel solare potrebbe rendere il 15% annuo, ma attenzione: il rendimento dipende dalle tariffe locali e dal net metering, non dal costo dei pannelli ⚡️. Controlla le politiche della tua zona prima di firmare un contratto 📋. Sai già se la tua area supporta lo scambio netto?",
+  "carousel_slides": [
+    {
+      "hook": "Profitti prima dei pannelli?",
+      "description": "I VC vedono guadagni prima che l'energia venga generata. Il rischio è prezzato, il vero profitto dopo l'installazione.",
+      "visual_hint": "pile di monete e pannello",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "solar panels field"
+    },
+    {
+      "hook": "Chi prenderà i 60 milioni?",
+      "description": "SolarSquare cercava 60 milioni di dollari. Chi li ottiene? Chi monetizza prima che i pannelli producano un watt.",
+      "visual_hint": "frecce verso un logo azienda",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "investment chart",
+      "image": "https://images.pexels.com/photos/7247411/pexels-photo-7247411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "40GW di tetto solare entro 2026",
+      "description": "Target ambizioso per l'India. Senza politica chiara, i VC rischiano di investire in bolle speculative.",
+      "visual_hint": "mappa India con punti luce",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "India solar panels",
+      "image": "https://images.pexels.com/photos/21832812/pexels-photo-21832812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "15% annuo dal tuo solare",
+      "description": "Rendimento possibile, ma dipende da tariffe e incentivi locali, non dal costo dei pannelli. Fai i conti.",
+      "visual_hint": "mano che calcola su calcolatrice",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand calculator solar",
+      "image": "https://images.pexels.com/photos/6958507/pexels-photo-6958507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prima firma, controlla il net metering",
+      "description": "Non firmare un PPA senza verificare le politiche locali. Un errore comune che costa caro.",
+      "visual_hint": "documento con lente di ingrandimento",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "contract magnifying glass",
+      "image": "https://images.pexels.com/photos/7319068/pexels-photo-7319068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/solarsquare-solar-panel.jpg?resize=1200,800",
+  "savedAt": "2026-05-25T20:57:45.516Z",
+  "sourceId": "fc4bedbc0cf52dfb8ab12ea3a7f6908d"
+}

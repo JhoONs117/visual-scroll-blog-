@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ferrari-is-using-ibm-s-ai-to-create-f1-superfans",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ferrari is using IBM’s AI to create F1 superfans",
+  "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+  "pubDate": "Sat, 23 May 2026 15:08:00 +0000",
+  "slides": [
+    "Ferrari wants you to predict F1 races before they happen?",
+    "IBM’s AI analyzes telemetry, weather, and driver history live.",
+    "But fans get the same insights as engineers—for free.",
+    "You can now bet smarter or argue with data instead of gut.",
+    "Test the AI’s next race prediction—prove it wrong."
+  ],
+  "thread_text": [
+    "I fan della Ferrari ora vedono gli stessi dati degli ingegneri in tempo reale. E gratis.",
+    "IBM ha costruito un'AI che analizza telemetria, meteo e storico piloti durante la gara.",
+    "Il risultato? Puoi scommettere con più testa o vincere una discussione al bar con i numeri.",
+    "Non è un demografico per addetti ai lavori: è aperto a tutti, subito.",
+    "Il prossimo GP ha già una previsione dell'AI. Prova a smentirla.",
+    "Non devi comprare nulla. Solo entrare e vedere se l'AI ha ragione."
+  ],
+  "video_script": [
+    "Ora vedi i dati Ferrari in tempo reale.",
+    "IBM li analizza per te gratis.",
+    "Telemetria, meteo, storico piloti: tutto.",
+    "Scommetti meglio o vinci discussioni.",
+    "Testa la predizione del prossimo GP."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "I fan della Ferrari ora vedono gli stessi dati degli ingegneri in tempo reale. E gratis.",
+        "IBM ha costruito un'AI che analizza telemetria, meteo e storico piloti durante la gara.",
+        "Il risultato? Puoi scommettere con più testa o vincere una discussione al bar con i numeri.",
+        "Non è un demografico per addetti ai lavori: è aperto a tutti, subito.",
+        "Il prossimo GP ha già una previsione dell'AI. Prova a smentirla.",
+        "Non devi comprare nulla. Solo entrare e vedere se l'AI ha ragione."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ora vedi i dati Ferrari in tempo reale.",
+        "IBM li analizza per te gratis.",
+        "Telemetria, meteo, storico piloti: tutto.",
+        "Scommetti meglio o vinci discussioni.",
+        "Testa la predizione del prossimo GP."
+      ]
+    },
+    "instagram": {
+      "caption": "Ferrari ti sta mettendo in mano gli stessi dati che usano i suoi ingegneri di pista: telemetria in tempo reale, meteo e storico piloti sono analizzati dall'AI di IBM 📊🏎️. Invece di scommettere a sentimento, ora puoi argomentare con i numeri o fare previsioni più solide sulle gare 💡. Per te, fan o scommettitore, significa avere insight da box senza abbonamento—e senza aspettare il verdetto del team. Il prossimo GP ha già una predizione dell'AI: provi a smentirla?"
+    }
+  },
+  "instagram_caption": "Ferrari ti sta mettendo in mano gli stessi dati che usano i suoi ingegneri di pista: telemetria in tempo reale, meteo e storico piloti sono analizzati dall'AI di IBM 📊🏎️. Invece di scommettere a sentimento, ora puoi argomentare con i numeri o fare previsioni più solide sulle gare 💡. Per te, fan o scommettitore, significa avere insight da box senza abbonamento—e senza aspettare il verdetto del team. Il prossimo GP ha già una predizione dell'AI: provi a smentirla?",
+  "carousel_slides": [
+    {
+      "hook": "E se tifassi coi dati?",
+      "description": "I fan Ferrari ora vedono gli stessi dati degli ingegneri in tempo reale. E gratis.",
+      "visual_hint": "Schermata telemetria con freccia",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "car telemetry screen"
+    },
+    {
+      "hook": "AI che analizza tutto live",
+      "description": "IBM ha costruito un'AI che analizza telemetria, meteo e storico piloti durante la gara.",
+      "visual_hint": "Grafici che scorrono verso destra",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center server",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ingegnere per un GP",
+      "description": "Il risultato? Puoi scommettere con più testa o vincere discussioni al bar coi numeri.",
+      "visual_hint": "Lente d'ingrandimento su numero",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Aperto a tutti gratis",
+      "description": "Non è un demo per addetti: è aperto a tutti, subito. Solo entri e usi l'AI.",
+      "visual_hint": "Mano che tocca schermo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person smartphone hand",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova a smentire l'AI",
+      "description": "Il prossimo GP ha già una previsione. Entra e vedi se l'AI ha ragione.",
+      "visual_hint": "Bandiera a scacchi e punto interrogativo",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "checkered flag",
+      "image": "https://images.pexels.com/photos/32282045/pexels-photo-32282045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/01-bxd-ferrari-xg-photography-v2.jpg?resize=1200,959",
+  "savedAt": "2026-05-25T20:57:56.258Z",
+  "sourceId": "32e0243942b6d1417c181e1fcc4f898a"
+}
