@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-pitch-trick-that-helped-an-esports-startup-rai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
+  "link": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+  "pubDate": "Mon, 25 May 2026 15:00:00 +0000",
+  "slides": [
+    "This eSports startup said 'no' to AI-first meetings.",
+    "VCs asked for AI. They showed player psychology data instead.",
+    "The deck opened with a question, not their company name.",
+    "They raised $20M without a single AI demo.",
+    "Your next pitch: start with the unsolved tension, not your logo."
+  ],
+  "thread_text": [
+    "Stai per presentare a un VC. Lo schermo è bianco. Hai cinque secondi prima che distolga lo sguardo. Cosa gli mostri? Non il tuo logo. Non il tuo nome. Una domanda scomoda che il tuo prodotto risolve.",
+    "Questa startup di eSports ha fatto esattamente questo. Ha aperto il pitch deck con una domanda, non con il nome dell'azienda. I VC guardavano il titolo della slide e già pensavano: 'Ok, qui c'è un problema che conosco.'",
+    "Poi è arrivata la parte più folle: quando i VC hanno chiesto 'E la vostra AI?', loro hanno tirato fuori dati di psicologia dei giocatori. Nessuna dashboard di modelli. Solo numeri su come il cervello delle persone reagisce durante una partita.",
+    "Quella scelta li ha portati a chiudere un round da 20 milioni di dollari. Senza un singolo demo di AI funzionante. Hanno venduto il problema, non la soluzione. Hanno venduto la tensione, non la tecnologia.",
+    "Il tuo prossimo pitch: apri con la tensione irrisolta, non con il tuo logo. Se lo farai, i VC ti chiederanno di continuare a parlare, non di saltare alla slide successiva. La prova? Hanno appena incassato 20 milioni per un'idea."
+  ],
+  "video_script": [
+    "Apri con una domanda, non con il logo.",
+    "I VC chiedevano AI, loro hanno mostrato psicologia.",
+    "Niente demo. Solo dati sul cervello umano.",
+    "Risultato: 20 milioni di dollari raccolti.",
+    "Funziona perché hai colpito un nervo scoperto."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Stai per presentare a un VC. Lo schermo è bianco. Hai cinque secondi prima che distolga lo sguardo. Cosa gli mostri? Non il tuo logo. Non il tuo nome. Una domanda scomoda che il tuo prodotto risolve.",
+        "Questa startup di eSports ha fatto esattamente questo. Ha aperto il pitch deck con una domanda, non con il nome dell'azienda. I VC guardavano il titolo della slide e già pensavano: 'Ok, qui c'è un problema che conosco.'",
+        "Poi è arrivata la parte più folle: quando i VC hanno chiesto 'E la vostra AI?', loro hanno tirato fuori dati di psicologia dei giocatori. Nessuna dashboard di modelli. Solo numeri su come il cervello delle persone reagisce durante una partita.",
+        "Quella scelta li ha portati a chiudere un round da 20 milioni di dollari. Senza un singolo demo di AI funzionante. Hanno venduto il problema, non la soluzione. Hanno venduto la tensione, non la tecnologia.",
+        "Il tuo prossimo pitch: apri con la tensione irrisolta, non con il tuo logo. Se lo farai, i VC ti chiederanno di continuare a parlare, non di saltare alla slide successiva. La prova? Hanno appena incassato 20 milioni per un'idea."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apri con una domanda, non con il logo.",
+        "I VC chiedevano AI, loro hanno mostrato psicologia.",
+        "Niente demo. Solo dati sul cervello umano.",
+        "Risultato: 20 milioni di dollari raccolti.",
+        "Funziona perché hai colpito un nervo scoperto."
+      ]
+    },
+    "instagram": {
+      "caption": "Una startup eSport ha chiuso un round da 20 milioni di dollari senza mostrare un solo demo di AI funzionante. I venture capitalist chiedevano modelli, loro hanno aperto il pitch deck con una domanda scomoda e hanno tirato fuori dati di psicologia dei giocatori 🧠. Nessuna dashboard tecnica, solo il problema umano irrisolto. Per te che prepari una presentazione: vendi la tensione che risolvi, non la soluzione 🤝. Il logo può aspettare la terza slide."
+    }
+  },
+  "instagram_caption": "Una startup eSport ha chiuso un round da 20 milioni di dollari senza mostrare un solo demo di AI funzionante. I venture capitalist chiedevano modelli, loro hanno aperto il pitch deck con una domanda scomoda e hanno tirato fuori dati di psicologia dei giocatori 🧠. Nessuna dashboard tecnica, solo il problema umano irrisolto. Per te che prepari una presentazione: vendi la tensione che risolvi, non la soluzione 🤝. Il logo può aspettare la terza slide.",
+  "carousel_slides": [
+    {
+      "hook": "Cosa mostri nei primi 5 secondi?",
+      "description": "Non il logo o il nome. Una domanda scomoda che il tuo prodotto risolve.",
+      "visual_hint": "Schermo bianco con punto interrogativo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "question mark on screen"
+    },
+    {
+      "hook": "Aperto il pitch con una domanda",
+      "description": "I VC guardavano il titolo e pensavano: 'Ok, qui c'è un problema che conosco.'",
+      "visual_hint": "Prima slide del pitch deck",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "pitch deck slide",
+      "image": "https://images.pexels.com/photos/34064708/pexels-photo-34064708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hanno tirato fuori psicologia dei giocatori",
+      "description": "Nessuna AI demo. Solo numeri su come il cervello reagisce durante una partita.",
+      "visual_hint": "Grafico di reazioni cerebrali",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "brain activity chart",
+      "image": "https://images.pexels.com/photos/4226139/pexels-photo-4226139.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chiuso round da 20 milioni senza AI",
+      "description": "Hanno venduto il problema, non la soluzione. La tensione, non la tecnologia.",
+      "visual_hint": "Mano che mostra soldi",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding money",
+      "image": "https://images.pexels.com/photos/5909819/pexels-photo-5909819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il tuo prossimo pitch: apri con la tensione",
+      "description": "Se lo fai, i VC ti chiederanno di continuare. La prova? 20 milioni per un'idea.",
+      "visual_hint": "Logo startup con freccia verso l'alto",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "startup growth arrow",
+      "image": "https://images.pexels.com/photos/9822733/pexels-photo-9822733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Lucra-Sports-Dylan-Robbins.jpg?resize=1200,1082",
+  "savedAt": "2026-05-25T19:16:51.039Z",
+  "sourceId": "cbd0cecd9533f47ca9dbdba713effc38"
+}
