@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "musk-and-zuckerberg-convinced-trump-to-scrap-ai-ex",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
+  "link": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
+  "pubDate": "Fri, 22 May 2026 09:00:00 +0000",
+  "slides": [
+    "Musk e Zuckerberg hanno convinto Trump a cancellare l'ordine esecutivo sull'IA?",
+    "L'incontro privato è avvenuto senza testimoni ufficiali.",
+    "Entrambi avevano interessi opposti sulla regolamentazione.",
+    "Chi userà l'IA senza freni ora ha via libera.",
+    "Verifica chi guadagna di più da questa decisione."
+  ],
+  "thread_text": [
+    "Musk e Zuckerberg odio pubblico, ma si sono incontrati in privato con Trump. Nessun testimone. Nessun verbale. Niente regole sull’IA.",
+    "L’ordine esecutivo che metteva freni allo sviluppo dell’IA è stato cancellato subito dopo quell’incontro.",
+    "Non è una coincidenza: Musk punta a modelli aperti, Zuckerberg a dati chiusi. Entrambi vogliono la stessa cosa: nessuno che decida per loro.",
+    "Il risultato? Chi oggi può scalare senza limiti ha un assegno in bianco. Le aziende con meno risorse restano fuori.",
+    "Controlla i bilanci delle aziende di AI nei prossimi 12 mesi. Chi aumenta gli investimenti in potenza di calcolo vince questa partita."
+  ],
+  "video_script": [
+    "Hanno cancellato le regole sull'IA in privato.",
+    "Musk e Zuckerberg d'accordo per la prima volta.",
+    "Nessun testimone all'incontro con Trump.",
+    "Ora chi ha soldi può fare tutto.",
+    "Segui i bilanci delle aziende di AI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Musk e Zuckerberg odio pubblico, ma si sono incontrati in privato con Trump. Nessun testimone. Nessun verbale. Niente regole sull’IA.",
+        "L’ordine esecutivo che metteva freni allo sviluppo dell’IA è stato cancellato subito dopo quell’incontro.",
+        "Non è una coincidenza: Musk punta a modelli aperti, Zuckerberg a dati chiusi. Entrambi vogliono la stessa cosa: nessuno che decida per loro.",
+        "Il risultato? Chi oggi può scalare senza limiti ha un assegno in bianco. Le aziende con meno risorse restano fuori.",
+        "Controlla i bilanci delle aziende di AI nei prossimi 12 mesi. Chi aumenta gli investimenti in potenza di calcolo vince questa partita."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hanno cancellato le regole sull'IA in privato.",
+        "Musk e Zuckerberg d'accordo per la prima volta.",
+        "Nessun testimone all'incontro con Trump.",
+        "Ora chi ha soldi può fare tutto.",
+        "Segui i bilanci delle aziende di AI."
+      ]
+    },
+    "instagram": {
+      "caption": "Musk e Zuckerberg, rivali pubblici, hanno cenato con Trump in un incontro senza testimoni ufficiali. 🍽️ Un ordine esecutivo che metteva dei paletti all'intelligenza artificiale è stato cancellato subito dopo. 🤫 Entrambi vogliono sviluppare l'IA senza freni, ma con modelli diversi: uno aperto, l'altro chiuso. Il risultato? Le aziende più grandi e ricche ora possono correre senza limiti, mentre chi ha meno risorse resta indietro. 💸 Se lavori con strumenti digitali, preparati a un mercato dove pochi decidono le regole del gioco. Chi ha un interesse diretto a che l'IA resti senza regole? 🔎"
+    }
+  },
+  "instagram_caption": "Musk e Zuckerberg, rivali pubblici, hanno cenato con Trump in un incontro senza testimoni ufficiali. 🍽️ Un ordine esecutivo che metteva dei paletti all'intelligenza artificiale è stato cancellato subito dopo. 🤫 Entrambi vogliono sviluppare l'IA senza freni, ma con modelli diversi: uno aperto, l'altro chiuso. Il risultato? Le aziende più grandi e ricche ora possono correre senza limiti, mentre chi ha meno risorse resta indietro. 💸 Se lavori con strumenti digitali, preparati a un mercato dove pochi decidono le regole del gioco. Chi ha un interesse diretto a che l'IA resti senza regole? 🔎",
+  "carousel_slides": [
+    {
+      "hook": "Nessuno decide per loro",
+      "description": "Musk e Zuckerberg, rivali pubblici, si sono incontrati in privato con Trump. Nessun testimone, nessun verbale.",
+      "visual_hint": "Due sagome che si stringono la mano in una stanza buia",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "closed door meeting room"
+    },
+    {
+      "hook": "Ordine cancellato dopo l'incontro",
+      "description": "L'ordine esecutivo che limitava l'IA è stato cancellato subito dopo. Non è una coincidenza.",
+      "visual_hint": "Documento strappato a metà",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "torn executive order paper",
+      "image": "https://images.pexels.com/photos/6632858/pexels-photo-6632858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Modelli aperti vs dati chiusi",
+      "description": "Musk punta a modelli aperti, Zuckerberg a dati chiusi. Entrambi vogliono la stessa cosa: nessuna regola.",
+      "visual_hint": "Due frecce opposte che puntano allo stesso bersaglio",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "divergent arrows target",
+      "image": "https://images.pexels.com/photos/24193965/pexels-photo-24193965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Assegno in bianco per chi scala",
+      "description": "Chi può scalare senza limiti ora ha via libera. Le aziende con meno risorse restano fuori.",
+      "visual_hint": "Assegno in bianco gigante",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "blank check hand",
+      "image": "https://images.pexels.com/photos/6862457/pexels-photo-6862457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chi vince? Controlla i bilanci",
+      "description": "Nei prossimi 12 mesi, chi aumenta gli investimenti in potenza di calcolo vince questa partita.",
+      "visual_hint": "Grafico azionario in salita",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "rising stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/P20251029DT-2485.jpg-scaled.webp",
+  "savedAt": "2026-05-25T16:15:59.055Z",
+  "sourceId": "e0f241a5f5960d11aca489925873941a"
+}

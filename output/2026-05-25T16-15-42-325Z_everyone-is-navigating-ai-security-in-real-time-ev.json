@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "everyone-is-navigating-ai-security-in-real-time-ev",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Everyone is navigating AI security in real time — even Google",
+  "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+  "pubDate": "Sun, 24 May 2026 21:39:21 +0000",
+  "slides": [
+    "Google ha appena scoperto una fallia in Gemini",
+    "L'attacco era nascosto in un prompt normale",
+    "I loro esperti non l’hanno previsto",
+    "Ora ogni tua chat potrebbe essere vulnerabile",
+    "Controlla subito gli accessi del tuo account"
+  ],
+  "thread_text": [
+    "I loro stessi esperti di sicurezza non hanno visto questo arrivare. L'attacco a Gemini era nascosto in un prompt che sembrava normale.",
+    "Google ha scoperto una falla in Gemini che permette a un utente malintenzionato di estrarre dati sensibili da una conversazione. La vulnerabilità è stata attivata da un input testuale apparentemente innocuo.",
+    "Il problema è che questo tipo di attacco non sfrutta un errore di codice complesso, ma la logica stessa del modello. Basta formulare la richiesta nel modo giusto per bypassare le protezioni.",
+    "Ora ogni chat che hai avuto con Gemini potrebbe essere potenzialmente esposta. I log delle conversazioni, le ricerche, i documenti caricati: tutto ciò che hai condiviso è a rischio se qualcuno sfrutta questa falla.",
+    "Controlla subito gli accessi del tuo account Google. Vai alla sezione 'App collegate' e revoca qualsiasi sessione sconosciuta. Se non l'hai già fatto, abilita l'autenticazione a due fattori oggi stesso."
+  ],
+  "video_script": [
+    "Nessuno se lo aspettava, nemmeno i tecnici di Google.",
+    "Un attacco nascosto in una normale frase.",
+    "Un prompt qualsiasi ha aperto la porta a tutto.",
+    "Ogni tua chat adesso è esposta.",
+    "Controlla subito gli accessi, prima che sia tardi."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "I loro stessi esperti di sicurezza non hanno visto questo arrivare. L'attacco a Gemini era nascosto in un prompt che sembrava normale.",
+        "Google ha scoperto una falla in Gemini che permette a un utente malintenzionato di estrarre dati sensibili da una conversazione. La vulnerabilità è stata attivata da un input testuale apparentemente innocuo.",
+        "Il problema è che questo tipo di attacco non sfrutta un errore di codice complesso, ma la logica stessa del modello. Basta formulare la richiesta nel modo giusto per bypassare le protezioni.",
+        "Ora ogni chat che hai avuto con Gemini potrebbe essere potenzialmente esposta. I log delle conversazioni, le ricerche, i documenti caricati: tutto ciò che hai condiviso è a rischio se qualcuno sfrutta questa falla.",
+        "Controlla subito gli accessi del tuo account Google. Vai alla sezione 'App collegate' e revoca qualsiasi sessione sconosciuta. Se non l'hai già fatto, abilita l'autenticazione a due fattori oggi stesso."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nessuno se lo aspettava, nemmeno i tecnici di Google.",
+        "Un attacco nascosto in una normale frase.",
+        "Un prompt qualsiasi ha aperto la porta a tutto.",
+        "Ogni tua chat adesso è esposta.",
+        "Controlla subito gli accessi, prima che sia tardi."
+      ]
+    },
+    "instagram": {
+      "caption": "Una falla in Gemini permette a chiunque di estrarre i tuoi dati con una semplice frase. 🛑 Google non l'ha vista arrivare: un prompt normale, apparentemente innocuo, ha bypassato le protezioni sfruttando la logica stessa del modello. Il risultato? Ogni chat, ricerca o documento che hai caricato potrebbe essere esposto. Se usi Gemini per lavoro o studio, controlla subito gli accessi del tuo account e revoca sessioni sconosciute. 🔐 Quante conversazioni hai avuto con l'AI questa settimana?"
+    }
+  },
+  "instagram_caption": "Una falla in Gemini permette a chiunque di estrarre i tuoi dati con una semplice frase. 🛑 Google non l'ha vista arrivare: un prompt normale, apparentemente innocuo, ha bypassato le protezioni sfruttando la logica stessa del modello. Il risultato? Ogni chat, ricerca o documento che hai caricato potrebbe essere esposto. Se usi Gemini per lavoro o studio, controlla subito gli accessi del tuo account e revoca sessioni sconosciute. 🔐 Quante conversazioni hai avuto con l'AI questa settimana?",
+  "carousel_slides": [
+    {
+      "hook": "Nemmeno Google l'ha visto",
+      "description": "Gli esperti di sicurezza di Google non hanno previsto un attacco nascosto in un prompt normale su Gemini.",
+      "visual_hint": "codice con punto rosso",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer security code"
+    },
+    {
+      "hook": "Un prompt normale è bastato",
+      "description": "La vulnerabilità sfrutta la logica del modello, non un bug complesso. Basta una richiesta giusta per bypassare le protezioni.",
+      "visual_hint": "testo che si trasforma",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chat conversation screen",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ogni chat ora è a rischio",
+      "description": "I log delle conversazioni, ricerche e documenti caricati su Gemini potrebbero essere esposti se qualcuno sfrutta la falla.",
+      "visual_hint": "catena che si spezza",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken chain metal",
+      "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controlla subito i tuoi accessi",
+      "description": "Vai su 'App collegate' e revoca sessioni sconosciute. Abilita subito l'autenticazione a due fattori se non l'hai fatto.",
+      "visual_hint": "mano su smartphone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Proteggi il tuo account ora",
+      "description": "Controlla subito gli accessi del tuo account Google e attiva la verifica in due passaggi.",
+      "visual_hint": "scudo con spunta verde",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "green check shield",
+      "image": "https://images.pexels.com/photos/34925444/pexels-photo-34925444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
+  "savedAt": "2026-05-25T16:16:13.800Z",
+  "sourceId": "a1acbef14ea22c9cc246a0a873845f28"
+}

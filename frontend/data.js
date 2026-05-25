@@ -2,9 +2,321 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
-    "slug": "china-s-ai-just-mapped-its-entire-renewable-energy",
+    "slug": "ai-is-being-used-to-resurrect-the-voices-of-dead-p",
     "prompt_version": "1.0.0",
     "status": "published",
+    "title": "AI is being used to resurrect the voices of dead pilots",
+    "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "pubDate": "Fri, 22 May 2026 23:03:33 +0000",
+    "slides": [
+      "Un pilota morto ora parla di nuovo. Come?",
+      "L'AI riproduce la voce dai vecchi registratori di volo.",
+      "Le registrazioni complete sono ancora classificate.",
+      "Chi indaga sugli incidenti ora ha un testimone digitale.",
+      "Ascolta una registrazione e giudica se è fedele."
+    ],
+    "thread_text": [
+      "Le registrazioni complete dei cockpit di aerei precipitati sono ancora classificate. Nemmeno i familiari delle vittime possono ascoltarle. Un muro che fino a ieri sembrava invalicabile.",
+      "Un team ha addestrato un'IA sulle voci dei piloti usando i vecchi nastri dei registratori di volo. Il risultato? Una sintesi vocale che riproduce ogni inflessione, ogni pausa, ogni respiro.",
+      "Ora gli investigatori possono interrogare digitalmente un testimone morto. Fargli 'ripetere' frasi incerte, simulare scenari alternativi, ricostruire gli ultimi secondi con un realismo mai visto prima.",
+      "Non è una voce generica. È la voce esatta di quel pilota. Gli algoritmi hanno imparato il suo timbro da ore di registrazioni reali, anche frammentarie. Il margine di errore è sotto lo 0,3%.",
+      "La prossima udienza dell'NTSB avrà una deposizione generata dall'IA. Chi indaga può ascoltare il testimone e giudicare la fedeltà. Su richiesta, mandano il file audio a chi ha un parente coinvolto."
+    ],
+    "video_script": [
+      "Un pilota morto sta parlando di nuovo.",
+      "L'AI ha clonato la sua voce dai vecchi nastri.",
+      "Le registrazioni originali sono ancora classificate.",
+      "Gli investigatori hanno un testimone digitale adesso.",
+      "Ascolta il file e decidi se ti sembra vero."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Le registrazioni complete dei cockpit di aerei precipitati sono ancora classificate. Nemmeno i familiari delle vittime possono ascoltarle. Un muro che fino a ieri sembrava invalicabile.",
+          "Un team ha addestrato un'IA sulle voci dei piloti usando i vecchi nastri dei registratori di volo. Il risultato? Una sintesi vocale che riproduce ogni inflessione, ogni pausa, ogni respiro.",
+          "Ora gli investigatori possono interrogare digitalmente un testimone morto. Fargli 'ripetere' frasi incerte, simulare scenari alternativi, ricostruire gli ultimi secondi con un realismo mai visto prima.",
+          "Non è una voce generica. È la voce esatta di quel pilota. Gli algoritmi hanno imparato il suo timbro da ore di registrazioni reali, anche frammentarie. Il margine di errore è sotto lo 0,3%.",
+          "La prossima udienza dell'NTSB avrà una deposizione generata dall'IA. Chi indaga può ascoltare il testimone e giudicare la fedeltà. Su richiesta, mandano il file audio a chi ha un parente coinvolto."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Un pilota morto sta parlando di nuovo.",
+          "L'AI ha clonato la sua voce dai vecchi nastri.",
+          "Le registrazioni originali sono ancora classificate.",
+          "Gli investigatori hanno un testimone digitale adesso.",
+          "Ascolta il file e decidi se ti sembra vero."
+        ]
+      },
+      "instagram": {
+        "caption": "I registratori di volo dei piloti morti restano classificati, nemmeno le famiglie possono ascoltarli. Un team ha addestrato un'AI su vecchi nastri: ora riproduce ogni inflessione e respiro con un margine d'errore sotto lo 0,3% ✈️. Gli investigatori possono interrogare digitalmente un testimone, simulare scenari alternativi e ricostruire gli ultimi secondi di un incidente 🎙️. Per chi indaga, è come avere un testimone vivo; per i parenti, esiste la possibilità di ricevere il file audio su richiesta. Ascolteresti la voce di qualcuno che non c'è più?"
+      }
+    },
+    "instagram_caption": "I registratori di volo dei piloti morti restano classificati, nemmeno le famiglie possono ascoltarli. Un team ha addestrato un'AI su vecchi nastri: ora riproduce ogni inflessione e respiro con un margine d'errore sotto lo 0,3% ✈️. Gli investigatori possono interrogare digitalmente un testimone, simulare scenari alternativi e ricostruire gli ultimi secondi di un incidente 🎙️. Per chi indaga, è come avere un testimone vivo; per i parenti, esiste la possibilità di ricevere il file audio su richiesta. Ascolteresti la voce di qualcuno che non c'è più?",
+    "carousel_slides": [
+      {
+        "hook": "Una voce che torna dalla morte",
+        "description": "Chi indaga può interrogare digitalmente un testimone morto. Mai visto prima.",
+        "visual_hint": "cockpit vuoto, luci soffuse",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "empty airplane cockpit"
+      },
+      {
+        "hook": "Addestrata sulle voci reali",
+        "description": "L'AI ha imparato il timbro del pilota da ore di nastri. Errore sotto lo 0,3%.",
+        "visual_hint": "nastro magnetico che gira",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "reel to reel tape",
+        "image": "https://images.pexels.com/photos/9227561/pexels-photo-9227561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Le registrazioni sono classificate",
+        "description": "Nemmeno i familiari possono ascoltarle. Un muro che sembrava invalicabile.",
+        "visual_hint": "cassaforte metallica",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "metal vault safe",
+        "image": "https://images.pexels.com/photos/12651886/pexels-photo-12651886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Simulare gli ultimi secondi",
+        "description": "Ora gli investigatori possono fargli 'ripetere' frasi incerte e ricostruire lo schianto.",
+        "visual_hint": "mani su cruscotto strumenti",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands on aircraft dashboard",
+        "image": "https://images.pexels.com/photos/34593175/pexels-photo-34593175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Giudica tu se è fedele",
+        "description": "La prossima udienza NTSB avrà una deposizione generata dall'IA. Richiedi il file audio.",
+        "visual_hint": "altoparlante vintage",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "vintage audio speaker",
+        "image": "https://images.pexels.com/photos/16208088/pexels-photo-16208088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800",
+    "savedAt": "2026-05-25T16:16:29.959Z",
+    "sourceId": "fd275f98564370a19d9262a1cb9e8acf"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "everyone-is-navigating-ai-security-in-real-time-ev",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Everyone is navigating AI security in real time — even Google",
+    "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "pubDate": "Sun, 24 May 2026 21:39:21 +0000",
+    "slides": [
+      "Google ha appena scoperto una fallia in Gemini",
+      "L'attacco era nascosto in un prompt normale",
+      "I loro esperti non l’hanno previsto",
+      "Ora ogni tua chat potrebbe essere vulnerabile",
+      "Controlla subito gli accessi del tuo account"
+    ],
+    "thread_text": [
+      "I loro stessi esperti di sicurezza non hanno visto questo arrivare. L'attacco a Gemini era nascosto in un prompt che sembrava normale.",
+      "Google ha scoperto una falla in Gemini che permette a un utente malintenzionato di estrarre dati sensibili da una conversazione. La vulnerabilità è stata attivata da un input testuale apparentemente innocuo.",
+      "Il problema è che questo tipo di attacco non sfrutta un errore di codice complesso, ma la logica stessa del modello. Basta formulare la richiesta nel modo giusto per bypassare le protezioni.",
+      "Ora ogni chat che hai avuto con Gemini potrebbe essere potenzialmente esposta. I log delle conversazioni, le ricerche, i documenti caricati: tutto ciò che hai condiviso è a rischio se qualcuno sfrutta questa falla.",
+      "Controlla subito gli accessi del tuo account Google. Vai alla sezione 'App collegate' e revoca qualsiasi sessione sconosciuta. Se non l'hai già fatto, abilita l'autenticazione a due fattori oggi stesso."
+    ],
+    "video_script": [
+      "Nessuno se lo aspettava, nemmeno i tecnici di Google.",
+      "Un attacco nascosto in una normale frase.",
+      "Un prompt qualsiasi ha aperto la porta a tutto.",
+      "Ogni tua chat adesso è esposta.",
+      "Controlla subito gli accessi, prima che sia tardi."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "I loro stessi esperti di sicurezza non hanno visto questo arrivare. L'attacco a Gemini era nascosto in un prompt che sembrava normale.",
+          "Google ha scoperto una falla in Gemini che permette a un utente malintenzionato di estrarre dati sensibili da una conversazione. La vulnerabilità è stata attivata da un input testuale apparentemente innocuo.",
+          "Il problema è che questo tipo di attacco non sfrutta un errore di codice complesso, ma la logica stessa del modello. Basta formulare la richiesta nel modo giusto per bypassare le protezioni.",
+          "Ora ogni chat che hai avuto con Gemini potrebbe essere potenzialmente esposta. I log delle conversazioni, le ricerche, i documenti caricati: tutto ciò che hai condiviso è a rischio se qualcuno sfrutta questa falla.",
+          "Controlla subito gli accessi del tuo account Google. Vai alla sezione 'App collegate' e revoca qualsiasi sessione sconosciuta. Se non l'hai già fatto, abilita l'autenticazione a due fattori oggi stesso."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nessuno se lo aspettava, nemmeno i tecnici di Google.",
+          "Un attacco nascosto in una normale frase.",
+          "Un prompt qualsiasi ha aperto la porta a tutto.",
+          "Ogni tua chat adesso è esposta.",
+          "Controlla subito gli accessi, prima che sia tardi."
+        ]
+      },
+      "instagram": {
+        "caption": "Una falla in Gemini permette a chiunque di estrarre i tuoi dati con una semplice frase. 🛑 Google non l'ha vista arrivare: un prompt normale, apparentemente innocuo, ha bypassato le protezioni sfruttando la logica stessa del modello. Il risultato? Ogni chat, ricerca o documento che hai caricato potrebbe essere esposto. Se usi Gemini per lavoro o studio, controlla subito gli accessi del tuo account e revoca sessioni sconosciute. 🔐 Quante conversazioni hai avuto con l'AI questa settimana?"
+      }
+    },
+    "instagram_caption": "Una falla in Gemini permette a chiunque di estrarre i tuoi dati con una semplice frase. 🛑 Google non l'ha vista arrivare: un prompt normale, apparentemente innocuo, ha bypassato le protezioni sfruttando la logica stessa del modello. Il risultato? Ogni chat, ricerca o documento che hai caricato potrebbe essere esposto. Se usi Gemini per lavoro o studio, controlla subito gli accessi del tuo account e revoca sessioni sconosciute. 🔐 Quante conversazioni hai avuto con l'AI questa settimana?",
+    "carousel_slides": [
+      {
+        "hook": "Nemmeno Google l'ha visto",
+        "description": "Gli esperti di sicurezza di Google non hanno previsto un attacco nascosto in un prompt normale su Gemini.",
+        "visual_hint": "codice con punto rosso",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer security code"
+      },
+      {
+        "hook": "Un prompt normale è bastato",
+        "description": "La vulnerabilità sfrutta la logica del modello, non un bug complesso. Basta una richiesta giusta per bypassare le protezioni.",
+        "visual_hint": "testo che si trasforma",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "chat conversation screen",
+        "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ogni chat ora è a rischio",
+        "description": "I log delle conversazioni, ricerche e documenti caricati su Gemini potrebbero essere esposti se qualcuno sfrutta la falla.",
+        "visual_hint": "catena che si spezza",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "broken chain metal",
+        "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Controlla subito i tuoi accessi",
+        "description": "Vai su 'App collegate' e revoca sessioni sconosciute. Abilita subito l'autenticazione a due fattori se non l'hai fatto.",
+        "visual_hint": "mano su smartphone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Proteggi il tuo account ora",
+        "description": "Controlla subito gli accessi del tuo account Google e attiva la verifica in due passaggi.",
+        "visual_hint": "scudo con spunta verde",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "green check shield",
+        "image": "https://images.pexels.com/photos/34925444/pexels-photo-34925444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
+    "savedAt": "2026-05-25T16:16:13.800Z",
+    "sourceId": "a1acbef14ea22c9cc246a0a873845f28"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "musk-and-zuckerberg-convinced-trump-to-scrap-ai-ex",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
+    "link": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
+    "pubDate": "Fri, 22 May 2026 09:00:00 +0000",
+    "slides": [
+      "Musk e Zuckerberg hanno convinto Trump a cancellare l'ordine esecutivo sull'IA?",
+      "L'incontro privato è avvenuto senza testimoni ufficiali.",
+      "Entrambi avevano interessi opposti sulla regolamentazione.",
+      "Chi userà l'IA senza freni ora ha via libera.",
+      "Verifica chi guadagna di più da questa decisione."
+    ],
+    "thread_text": [
+      "Musk e Zuckerberg odio pubblico, ma si sono incontrati in privato con Trump. Nessun testimone. Nessun verbale. Niente regole sull’IA.",
+      "L’ordine esecutivo che metteva freni allo sviluppo dell’IA è stato cancellato subito dopo quell’incontro.",
+      "Non è una coincidenza: Musk punta a modelli aperti, Zuckerberg a dati chiusi. Entrambi vogliono la stessa cosa: nessuno che decida per loro.",
+      "Il risultato? Chi oggi può scalare senza limiti ha un assegno in bianco. Le aziende con meno risorse restano fuori.",
+      "Controlla i bilanci delle aziende di AI nei prossimi 12 mesi. Chi aumenta gli investimenti in potenza di calcolo vince questa partita."
+    ],
+    "video_script": [
+      "Hanno cancellato le regole sull'IA in privato.",
+      "Musk e Zuckerberg d'accordo per la prima volta.",
+      "Nessun testimone all'incontro con Trump.",
+      "Ora chi ha soldi può fare tutto.",
+      "Segui i bilanci delle aziende di AI."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Musk e Zuckerberg odio pubblico, ma si sono incontrati in privato con Trump. Nessun testimone. Nessun verbale. Niente regole sull’IA.",
+          "L’ordine esecutivo che metteva freni allo sviluppo dell’IA è stato cancellato subito dopo quell’incontro.",
+          "Non è una coincidenza: Musk punta a modelli aperti, Zuckerberg a dati chiusi. Entrambi vogliono la stessa cosa: nessuno che decida per loro.",
+          "Il risultato? Chi oggi può scalare senza limiti ha un assegno in bianco. Le aziende con meno risorse restano fuori.",
+          "Controlla i bilanci delle aziende di AI nei prossimi 12 mesi. Chi aumenta gli investimenti in potenza di calcolo vince questa partita."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hanno cancellato le regole sull'IA in privato.",
+          "Musk e Zuckerberg d'accordo per la prima volta.",
+          "Nessun testimone all'incontro con Trump.",
+          "Ora chi ha soldi può fare tutto.",
+          "Segui i bilanci delle aziende di AI."
+        ]
+      },
+      "instagram": {
+        "caption": "Musk e Zuckerberg, rivali pubblici, hanno cenato con Trump in un incontro senza testimoni ufficiali. 🍽️ Un ordine esecutivo che metteva dei paletti all'intelligenza artificiale è stato cancellato subito dopo. 🤫 Entrambi vogliono sviluppare l'IA senza freni, ma con modelli diversi: uno aperto, l'altro chiuso. Il risultato? Le aziende più grandi e ricche ora possono correre senza limiti, mentre chi ha meno risorse resta indietro. 💸 Se lavori con strumenti digitali, preparati a un mercato dove pochi decidono le regole del gioco. Chi ha un interesse diretto a che l'IA resti senza regole? 🔎"
+      }
+    },
+    "instagram_caption": "Musk e Zuckerberg, rivali pubblici, hanno cenato con Trump in un incontro senza testimoni ufficiali. 🍽️ Un ordine esecutivo che metteva dei paletti all'intelligenza artificiale è stato cancellato subito dopo. 🤫 Entrambi vogliono sviluppare l'IA senza freni, ma con modelli diversi: uno aperto, l'altro chiuso. Il risultato? Le aziende più grandi e ricche ora possono correre senza limiti, mentre chi ha meno risorse resta indietro. 💸 Se lavori con strumenti digitali, preparati a un mercato dove pochi decidono le regole del gioco. Chi ha un interesse diretto a che l'IA resti senza regole? 🔎",
+    "carousel_slides": [
+      {
+        "hook": "Nessuno decide per loro",
+        "description": "Musk e Zuckerberg, rivali pubblici, si sono incontrati in privato con Trump. Nessun testimone, nessun verbale.",
+        "visual_hint": "Due sagome che si stringono la mano in una stanza buia",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "closed door meeting room"
+      },
+      {
+        "hook": "Ordine cancellato dopo l'incontro",
+        "description": "L'ordine esecutivo che limitava l'IA è stato cancellato subito dopo. Non è una coincidenza.",
+        "visual_hint": "Documento strappato a metà",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "torn executive order paper",
+        "image": "https://images.pexels.com/photos/6632858/pexels-photo-6632858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Modelli aperti vs dati chiusi",
+        "description": "Musk punta a modelli aperti, Zuckerberg a dati chiusi. Entrambi vogliono la stessa cosa: nessuna regola.",
+        "visual_hint": "Due frecce opposte che puntano allo stesso bersaglio",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "divergent arrows target",
+        "image": "https://images.pexels.com/photos/24193965/pexels-photo-24193965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Assegno in bianco per chi scala",
+        "description": "Chi può scalare senza limiti ora ha via libera. Le aziende con meno risorse restano fuori.",
+        "visual_hint": "Assegno in bianco gigante",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "blank check hand",
+        "image": "https://images.pexels.com/photos/6862457/pexels-photo-6862457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Chi vince? Controlla i bilanci",
+        "description": "Nei prossimi 12 mesi, chi aumenta gli investimenti in potenza di calcolo vince questa partita.",
+        "visual_hint": "Grafico azionario in salita",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "rising stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/P20251029DT-2485.jpg-scaled.webp",
+    "savedAt": "2026-05-25T16:15:59.055Z",
+    "sourceId": "e0f241a5f5960d11aca489925873941a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "china-s-ai-just-mapped-its-entire-renewable-energy",
+    "prompt_version": "1.0.0",
+    "status": "approved",
     "title": "China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention",
     "link": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
     "pubDate": "Fri, 22 May 2026 10:00:00 +0000",
@@ -50,6 +362,73 @@ window.ARTICLES = [
       },
       "instagram": {
         "caption": "La Cina ha un'IA a cui bastano 3 secondi per ridistribuire l'energia di 12 città, evitando un blackout previsto con 4 minuti di anticipo. ⚡ Dietro c'è un singolo modello che coordina in tempo reale ogni pannello solare, batteria e trasformatore del paese — senza un operatore umano. Mappa ogni cavo e decide il percorso alternativo prima che qualcuno accenda una luce. 🔋 La tua rete locale, con fogli Excel e telefonate, rischia di restare indietro. Quanto sono lontani i gestori di energia intorno a te da questa capacità? 🌍"
+      },
+      "video": {
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "China’s AI just mapped its entire renewable energy grid.",
+            "voiceover": "Ha previsto un blackout con quattro minuti d'anticipo.",
+            "on_screen_text": "Previsione blackout in 4 minuti!",
+            "visual_direction": "Testo che appare in modo rapido, con effetti di vibrazione.",
+            "caption": "Scopri di più sulla tecnologia!",
+            "tone": "urgent",
+            "emphasis_word": "blackout",
+            "layout": "single"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Un solo modello controlla tutta la rete elettrica.",
+            "voiceover": "Un solo modello controlla tutta la rete elettrica.",
+            "on_screen_text": "Un modello, un controllo.",
+            "visual_direction": "Transizione fluida con grafica della rete elettrica.",
+            "caption": "Innovazione senza precedenti.",
+            "tone": "informative",
+            "emphasis_word": "controlla",
+            "layout": "single"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Pannelli solari, vento e batterie in tempo reale.",
+            "voiceover": "Pannelli solari, vento e batterie in tempo reale.",
+            "on_screen_text": "Energia rinnovabile in tempo reale.",
+            "visual_direction": "Animazioni di pannelli solari e turbine eoliche.",
+            "caption": "Il futuro dell'energia.",
+            "tone": "inspiring",
+            "emphasis_word": "rinnovabile",
+            "layout": "single"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Il sistema vede guasti che nessuno nota.",
+            "voiceover": "Il sistema vede guasti che nessuno nota.",
+            "on_screen_text": "Rilevamento guasti automatico.",
+            "visual_direction": "Illustrazione di un guasto, seguito da un alert.",
+            "caption": "Sicurezza prima di tutto.",
+            "tone": "urgent",
+            "emphasis_word": "guasti",
+            "layout": "single"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "La tua rete fa ancora tutto a mano.",
+            "voiceover": "La tua rete fa ancora tutto a mano.",
+            "on_screen_text": "È ora di innovare!",
+            "visual_direction": "Confronto tra rete tradizionale e rete AI.",
+            "caption": "Non restare indietro.",
+            "tone": "urgent",
+            "emphasis_word": "innovare",
+            "layout": "single"
+          }
+        ],
+        "quality_score": 85,
+        "duration_sec": 29,
+        "cta": "Scopri come migliorare la tua rete!"
       }
     },
     "instagram_caption": "La Cina ha un'IA a cui bastano 3 secondi per ridistribuire l'energia di 12 città, evitando un blackout previsto con 4 minuti di anticipo. ⚡ Dietro c'è un singolo modello che coordina in tempo reale ogni pannello solare, batteria e trasformatore del paese — senza un operatore umano. Mappa ogni cavo e decide il percorso alternativo prima che qualcuno accenda una luce. 🔋 La tua rete locale, con fogli Excel e telefonate, rischia di restare indietro. Quanto sono lontani i gestori di energia intorno a te da questa capacità? 🌍",
@@ -101,7 +480,16 @@ window.ARTICLES = [
     ],
     "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/luo-lei-Xa4pTwafe5U-unsplash-scaled.jpg",
     "savedAt": "2026-05-22T10:42:33.033Z",
-    "sourceId": "f4f2f1817b9decb149cb045e7e77c751"
+    "sourceId": "f4f2f1817b9decb149cb045e7e77c751",
+    "render_quality": "low",
+    "render_template": "kinetic_typography",
+    "render_status": {
+      "slide_deck": "done",
+      "kinetic_typography": null,
+      "low": "done"
+    },
+    "render_path": "output/renders/china-s-ai-just-mapped-its-entire-renewable-energy.mp4",
+    "render_error": null
   },
   {
     "schema_version": 2,
@@ -212,7 +600,7 @@ window.ARTICLES = [
     "agent": "ai-news",
     "slug": "finnish-phone-maker-hmd-bundles-indian-ai-chatbot-",
     "prompt_version": "1.0.0",
-    "status": "published",
+    "status": "approved",
     "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
     "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
     "pubDate": "Fri, 22 May 2026 06:41:28 +0000",
@@ -258,6 +646,58 @@ window.ARTICLES = [
       },
       "instagram": {
         "caption": "HMD Global ha appena lanciato un telefono da 10.000 rupie (circa 100€) con un chatbot AI indiano preinstallato, che parla hindi e dialetti locali senza bisogno di account Google. 🇮🇳 Non è un aggiornamento software: l'assistente è già attivo, capisce contesti e festività locali che Google Assistant spesso sbaglia. 📱 Per chi usa il telefono in India, niente più passaggi intermedi per le attività quotidiane. Consigli concreti? Se cerchi un nuovo device, provalo una settimana prima di spendere di più. 🔄 Sai già se la tua prossima cena sarà per Diwali?"
+      },
+      "video": {
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Un nuovo smartphone cambia le regole!",
+            "voiceover": "HMD Global sfida il mercato indiano con un'innovazione.",
+            "on_screen_text": "Un nuovo smartphone cambia le regole!",
+            "visual_direction": "Immagini di un smartphone in uso, con effetti dinamici.",
+            "caption": "Scopri la novità!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "L'AI indiana si presenta!",
+            "voiceover": "Un chatbot AI indiano è preinstallato su un dispositivo economico.",
+            "on_screen_text": "Chatbot AI preinstallato!",
+            "visual_direction": "Clip del chatbot in azione, mostrando l'interfaccia.",
+            "caption": "Tecnologia locale, nuove opportunità!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 7,
+            "hook": "Sfida a Google Assistant!",
+            "voiceover": "Ora puoi usare l'AI in Hindi e dialetti regionali.",
+            "on_screen_text": "Sfida a Google Assistant!",
+            "visual_direction": "Comparazione tra il chatbot e Google Assistant in un split screen.",
+            "caption": "Comunicazione senza barriere!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 5,
+            "hook": "Dì addio alle app globali!",
+            "voiceover": "Gli utenti indiani possono evitare le app globali per le attività quotidiane.",
+            "on_screen_text": "Dì addio alle app globali!",
+            "visual_direction": "Visualizzazione di utenti felici che usano il chatbot.",
+            "caption": "Semplifica la tua vita!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Provalo prima di aggiornare!",
+            "voiceover": "Testa l'AI locale prima del tuo prossimo acquisto.",
+            "on_screen_text": "Provalo prima di aggiornare!",
+            "visual_direction": "Close-up di mani che usano il telefono, con un sorriso.",
+            "caption": "Fai la scelta giusta!"
+          }
+        ],
+        "quality_score": 85,
+        "duration_sec": 29,
+        "cta": "Scopri di più sul nostro sito!"
       }
     },
     "instagram_caption": "HMD Global ha appena lanciato un telefono da 10.000 rupie (circa 100€) con un chatbot AI indiano preinstallato, che parla hindi e dialetti locali senza bisogno di account Google. 🇮🇳 Non è un aggiornamento software: l'assistente è già attivo, capisce contesti e festività locali che Google Assistant spesso sbaglia. 📱 Per chi usa il telefono in India, niente più passaggi intermedi per le attività quotidiane. Consigli concreti? Se cerchi un nuovo device, provalo una settimana prima di spendere di più. 🔄 Sai già se la tua prossima cena sarà per Diwali?",
@@ -309,14 +749,21 @@ window.ARTICLES = [
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/HMD-vibe-2-5g.jpg?resize=1200,665",
     "savedAt": "2026-05-22T07:37:14.102Z",
-    "sourceId": "6d211f15cd8a5714b28261239e5bd020"
+    "sourceId": "6d211f15cd8a5714b28261239e5bd020",
+    "render_quality": "low",
+    "render_template": "slide_deck",
+    "render_status": {
+      "slide_deck": "done"
+    },
+    "render_error": null,
+    "render_path": "output/renders/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-.mp4"
   },
   {
     "schema_version": 2,
     "agent": "ai-news",
     "slug": "trump-delays-ai-security-executive-order-saying-la",
     "prompt_version": "1.0.0",
-    "status": "published",
+    "status": "approved",
     "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
     "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
     "pubDate": "Thu, 21 May 2026 17:30:45 +0000",
@@ -4791,10 +5238,12 @@ window.ARTICLES = [
     "sourceId": "bb12754c83859f1bd71157209afb8172",
     "render_quality": "low",
     "render_status": {
-      "low": "done"
+      "low": "done",
+      "slide_deck": "done",
+      "kinetic_typography": "error"
     },
     "render_path": "output/renders/ai-is-a-matter-of-power-infrastructure-and-securit.mp4",
-    "render_error": null
+    "render_error": "Template kinetic_typography non ancora implementato"
   },
   {
     "schema_version": 2,
@@ -5269,10 +5718,12 @@ window.ARTICLES = [
     "render_status": {
       "low": "done",
       "medium": null,
-      "high": null
+      "high": null,
+      "slide_deck": "done",
+      "kinetic_typography": "error"
     },
     "render_path": "output/renders/south-korea-s-letinar-is-building-optics-behind-ai.mp4",
-    "render_error": null,
+    "render_error": "Template kinetic_typography non ancora implementato",
     "render_version": null
   },
   {
@@ -5436,10 +5887,12 @@ window.ARTICLES = [
     "render_status": {
       "low": "done",
       "medium": null,
-      "high": null
+      "high": null,
+      "slide_deck": "done",
+      "kinetic_typography": "error"
     },
     "render_path": "output/renders/why-trust-is-a-big-question-at-the-elon-musk-opena.mp4",
-    "render_error": null,
+    "render_error": "Template kinetic_typography non ancora implementato",
     "render_version": null
   },
   {

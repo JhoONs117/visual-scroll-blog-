@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "torta-5-minuti-alle-fragole",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Torta 5 minuti alle fragole",
+    "link": "https://ricette.giallozafferano.it/Torta-5-minuti-alle-fragole.html",
+    "pubDate": "Fri, 22 May 2026 16:05:00 +0200",
+    "content": "Torta 5 minuti alle fragole: un dolce soffice e veloce Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta 5 minuti alle fragole /5 CONDIVIDI INVIA FOTO COMMENTA en de fr nl br es SALVA 459,2 Calorie per porzione Energia Kcal 459,2 Carboidrati g 60,1 &nbsp;&nbsp;di cui zuccheri g 26,3 Proteine g 9 Grassi g 20,8 &nbsp;&nbsp;di cui saturi g 11,8 Fibre g 2,3 Colesterolo mg 149,2 Sodio mg 183,5 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Vegetariano Difficoltà: Facile Preparazione: 5 min Cottura: 45 min Dosi per: 6 persone Costo: Basso PRESENTAZIONE La torta 5 minuti alle fragole è un dolce perfetto per la primavera, profumato e genuino. Si tratta di una ricetta furbissima e davvero facile da preparare , pensata per chi ha poco tempo ma non vuole rinunciare a una colazione o a una merenda fatta in casa. Il suo punto di forza è la rapidità: la definizione \"5 minuti\", infatti, è riferita al tempo necessario per assemblare l'impasto. Vi basterà mescolare con la frusta pochi ingredienti semplici e genuini, senza bisogno di montare nulla o di usare elettrodomestici complessi. Una volta creata una base liscia e senza grumi, si arricchisce la torta con fragole a pezzetti direttamente all'interno della ciotola, tenendone qualcuna da parte per decorare la superficie. Venite a sperimentare altri deliziosi dolci da fare in 5 minuti : Torta 5 minuti Torta 5 minuti alla ricotta Muffin 5 minuti 5-Minute Strawberry Cake Scopri anche Torta di fragole Torta soffice alle fragole Torta allo yogurt con fragole e mandorle Sfoglia tutte INGREDIENTI 459,2 Calorie per porzione Ingredienti per uno stampo da 20 cm Fragole 350 g Farina 00 250 g Latte intero a temperatura ambiente 125 g Uova a temperatura ambiente 3 Zucchero 125 g Burro fuso 125 g Baccello di vaniglia 1 Lievito in polvere per dolci 10 g per guarnire Zucchero q.b. Zucchero a velo q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta 5 minuti alle fragole Per preparare la torta 5 minuti alle fragole, iniziate staccando le foglioline dalle fragole 1 poi riducetene 300 g a piccoli cubetti 2 e il resto a fettine per decorare la superficie. A questo punto dedicatevi all'impasto: in una ciotola capiente versate le uova intere con lo zucchero 3 . Mescolate con la frusta 4 senza montare, quindi unite il burro fuso intiepidito 5 e i semi del baccello di vaniglia 6 . Incorporate farina e lievito insieme attraverso un colino 7 per eliminare grumi e mescolate 8 alternando alle polveri anche il latte a filo 9 . Quando la base sarà liscia 10 , aggiungete delicatamente i cubetti di fragola 11 e mescolate per distribuirli uniformemente 12 . Versate il tutto in uno stampo da 20 cm 13 che avrete precedentemente imburrato e infarinato 14 . Completate il dolce disponendo sulla superficie le fragole a fettine e rifinite con una spolverata di zucchero 15 . Infine, cuocete in forno statico preriscaldato a 180 gradi per circa 45 o 50 minuti. Una volta cotta 16 , lasciatela intiepidire prima di servirla, quindi spolverizzatela a piacere con zucchero e Velo 17 . La torta 5 minuti alle fragole è pronta per essere gustata 18 . Conservazione La torta 5 minuti alle fragole si conserva per un paio di giorni a temperatura ambiente sotto una campana di vetro. Potete congelarla dopo la cottura. Consiglio Per rendere la vostra torta ancora più golosa e irresistibile, potete arricchire l'impasto aggiungendo della scorza grattugiata di un limone biologico per esaltare il profumo delle fragole. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Latte Burro Uovo Fragole Scopri tutto sugli ingredienti Presente in: Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Torta di fragole 208 4.2 Torta soffice alle fragole 24 4.5 Torta allo yogurt con fragole e mandorle 9 4.3 Torta cioccolato e fragole 101 4.3 Torta mascarpone e fragole 30 4.3 Muffin fragole e cioccolato 18 4.2 Millefoglie alle fragole 2 4.7 Budino alle fragole 7 4.1 ULTIME RICETTE Cheesecake al cocco 5.0 Torta 5 minuti alle fragole 4.9 Bucatini alla marchigiana 5.0 SCOPRI Torta cinque minuti Torta fragole e cioccolato Torta di fragole e panna Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Non hai trovato l'ispirazione giusta? Prova queste! Dolci Torta di fragole 208 4.2 La torta di fragole è un dessert morbido e profumato con fragole e panna. Le fragole frullate vengono usate anche per insaporire l'impasto! Vai alla ricetta Dolci Torta soffice alle fragole 24 4.5 La torta soffice alle fragole è un dolce perfetto per la colazione o la merenda nella stagione primaverile. Un'idea speciale da portare in tavola! Vai alla ricetta Dolci Torta allo yogurt con fragole e mandorle 9 4.3 La torta allo yogurt con fragole e mandorle è un dolce alla frutta soffice e goloso, ideale per colazione o a merenda. Scopri questa semplice ricetta! Vai alla ricetta Dolci Torta cioccolato e fragole 101 4.3 La torta cioccolato e fragole è un dessert estivo per occasioni speciali, perfetto per festeggiare compleanni, occorrenze o come elegante fine pasto. Vai alla ricetta Dolci Torta mascarpone e fragole 30 4.3 La torta mascarpone e fragole è un dolce buono e scenografico! Formato da più strati è perfetto per le vostre occasioni speciali! Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Torta soffice e veloce alle fragole",
+      "Fragole, farina, uova, zucchero, burro",
+      "Mescola uova e zucchero senza montare",
+      "Cuoci in forno statico a 180 gradi",
+      "Guarnisci con fragole e zucchero a velo"
+    ],
+    "instagram_caption": "La felicità ha il sapore delle fragole, e questa torta è la prova! 🍓💫  \nUna nuvola soffice che si prepara in 5 minuti: basta mescolare uova, zucchero, farina e burro senza montare, poi via in forno a 180°. Il risultato? Un dolce profumato e genuino, abbracciato da fragole fresche e una spolverata di zucchero a velo. Perfetto quando hai voglia di qualcosa di buono ma hai poco tempo.  \nDa provare subito, magari con una tazza di tè caldo 🫖✨  \nGià pronta per la merenda? 🍰",
+    "formats": {
+      "instagram": {
+        "caption": "La felicità ha il sapore delle fragole, e questa torta è la prova! 🍓💫  \nUna nuvola soffice che si prepara in 5 minuti: basta mescolare uova, zucchero, farina e burro senza montare, poi via in forno a 180°. Il risultato? Un dolce profumato e genuino, abbracciato da fragole fresche e una spolverata di zucchero a velo. Perfetto quando hai voglia di qualcosa di buono ma hai poco tempo.  \nDa provare subito, magari con una tazza di tè caldo 🫖✨  \nGià pronta per la merenda? 🍰"
+      },
+      "tiktok": {
+        "script": [
+          "Prendo fragole, farina e uova.",
+          "Mescolo uova e zucchero senza montare.",
+          "Unisco burro fuso e farina.",
+          "Verso in teglia, forno a 180 gradi.",
+          "Guarnisco con fragole e zucchero a velo."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Fragole, 5 minuti, e un dolce che sparisce in 10. Ti svelo la torta che ti salva la colazione o la merenda all'ultimo secondo.",
+          "Ti servono: 250 g di fragole, 200 g di farina, 3 uova, 150 g di zucchero e 80 g di burro fuso. Niente fruste elettriche, niente stress.",
+          "Mescola uova e zucchero a mano, senza montare. Aggiungi il burro fuso e la farina setacciata. L'impasto deve rimanere grumoso e rustico.",
+          "Versa in teglia imburrata, aggiungi le fragole tagliate. Forno statico a 180° per 30-35 minuti. Profumo che invade casa.",
+          "Una volta fredda, spolvera con zucchero a velo e fragole fresche. Provala e dimmi se ti è sparita in 5 minuti anche a te 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Prendo fragole, farina e uova.",
+      "Mescolo uova e zucchero senza montare.",
+      "Unisco burro fuso e farina.",
+      "Verso in teglia, forno a 180 gradi.",
+      "Guarnisco con fragole e zucchero a velo."
+    ],
+    "thread_text": [
+      "Fragole, 5 minuti, e un dolce che sparisce in 10. Ti svelo la torta che ti salva la colazione o la merenda all'ultimo secondo.",
+      "Ti servono: 250 g di fragole, 200 g di farina, 3 uova, 150 g di zucchero e 80 g di burro fuso. Niente fruste elettriche, niente stress.",
+      "Mescola uova e zucchero a mano, senza montare. Aggiungi il burro fuso e la farina setacciata. L'impasto deve rimanere grumoso e rustico.",
+      "Versa in teglia imburrata, aggiungi le fragole tagliate. Forno statico a 180° per 30-35 minuti. Profumo che invade casa.",
+      "Una volta fredda, spolvera con zucchero a velo e fragole fresche. Provala e dimmi se ti è sparita in 5 minuti anche a te 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta 5 minuti alle fragole",
+        "description": "Una torta soffice e velocissima, pronta in un lampo, perfetta per una colazione o merenda golosa.",
+        "visual_hint": "torta intera su piatto",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "strawberry cake whole"
+      },
+      {
+        "hook": "Ingredienti chiave",
+        "description": "Fragole fresche, farina, uova, zucchero e burro: pochi elementi per un risultato incredibile.",
+        "visual_hint": "ingredienti su tavola",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "strawberry cake ingredients",
+        "image": "https://images.pexels.com/photos/6574599/pexels-photo-6574599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mescola senza montare",
+        "description": "Basta mescolare uova e zucchero con una frusta a mano, senza montare: l'impasto resta semplice e veloce.",
+        "visual_hint": "frusta in ciotola",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "mixing eggs sugar",
+        "image": "https://images.pexels.com/photos/7966397/pexels-photo-7966397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cuoci in forno statico",
+        "description": "Inforna a 180°C per circa 25-30 minuti: la torta sarà dorata e soffice.",
+        "visual_hint": "teglia nel forno",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cake baking oven",
+        "image": "https://images.pexels.com/photos/15780778/pexels-photo-15780778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Guarnisci e servi",
+        "description": "Decora con fragole fresche e una spolverata di zucchero a velo: un dessert semplice ma elegante.",
+        "visual_hint": "fetta con fragole",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "strawberry cake slice",
+        "image": "https://images.pexels.com/photos/30739085/pexels-photo-30739085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "fragole",
+      "uova",
+      "farina"
+    ],
+    "image": "https://www.giallozafferano.it/images/362-36217/Torta-5-minuti-alle-fragole_650x433_wm.jpg",
+    "savedAt": "2026-05-25T16:19:54.811Z",
+    "sourceId": "d7adc4824738c6eb07bbf2f5dbd00bac"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "pasta-con-asparagi-e-speck",
     "prompt_version": "1.0.0",
     "status": "published",

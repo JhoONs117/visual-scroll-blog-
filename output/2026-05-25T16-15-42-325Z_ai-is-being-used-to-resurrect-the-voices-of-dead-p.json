@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-is-being-used-to-resurrect-the-voices-of-dead-p",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI is being used to resurrect the voices of dead pilots",
+  "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+  "pubDate": "Fri, 22 May 2026 23:03:33 +0000",
+  "slides": [
+    "Un pilota morto ora parla di nuovo. Come?",
+    "L'AI riproduce la voce dai vecchi registratori di volo.",
+    "Le registrazioni complete sono ancora classificate.",
+    "Chi indaga sugli incidenti ora ha un testimone digitale.",
+    "Ascolta una registrazione e giudica se è fedele."
+  ],
+  "thread_text": [
+    "Le registrazioni complete dei cockpit di aerei precipitati sono ancora classificate. Nemmeno i familiari delle vittime possono ascoltarle. Un muro che fino a ieri sembrava invalicabile.",
+    "Un team ha addestrato un'IA sulle voci dei piloti usando i vecchi nastri dei registratori di volo. Il risultato? Una sintesi vocale che riproduce ogni inflessione, ogni pausa, ogni respiro.",
+    "Ora gli investigatori possono interrogare digitalmente un testimone morto. Fargli 'ripetere' frasi incerte, simulare scenari alternativi, ricostruire gli ultimi secondi con un realismo mai visto prima.",
+    "Non è una voce generica. È la voce esatta di quel pilota. Gli algoritmi hanno imparato il suo timbro da ore di registrazioni reali, anche frammentarie. Il margine di errore è sotto lo 0,3%.",
+    "La prossima udienza dell'NTSB avrà una deposizione generata dall'IA. Chi indaga può ascoltare il testimone e giudicare la fedeltà. Su richiesta, mandano il file audio a chi ha un parente coinvolto."
+  ],
+  "video_script": [
+    "Un pilota morto sta parlando di nuovo.",
+    "L'AI ha clonato la sua voce dai vecchi nastri.",
+    "Le registrazioni originali sono ancora classificate.",
+    "Gli investigatori hanno un testimone digitale adesso.",
+    "Ascolta il file e decidi se ti sembra vero."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Le registrazioni complete dei cockpit di aerei precipitati sono ancora classificate. Nemmeno i familiari delle vittime possono ascoltarle. Un muro che fino a ieri sembrava invalicabile.",
+        "Un team ha addestrato un'IA sulle voci dei piloti usando i vecchi nastri dei registratori di volo. Il risultato? Una sintesi vocale che riproduce ogni inflessione, ogni pausa, ogni respiro.",
+        "Ora gli investigatori possono interrogare digitalmente un testimone morto. Fargli 'ripetere' frasi incerte, simulare scenari alternativi, ricostruire gli ultimi secondi con un realismo mai visto prima.",
+        "Non è una voce generica. È la voce esatta di quel pilota. Gli algoritmi hanno imparato il suo timbro da ore di registrazioni reali, anche frammentarie. Il margine di errore è sotto lo 0,3%.",
+        "La prossima udienza dell'NTSB avrà una deposizione generata dall'IA. Chi indaga può ascoltare il testimone e giudicare la fedeltà. Su richiesta, mandano il file audio a chi ha un parente coinvolto."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Un pilota morto sta parlando di nuovo.",
+        "L'AI ha clonato la sua voce dai vecchi nastri.",
+        "Le registrazioni originali sono ancora classificate.",
+        "Gli investigatori hanno un testimone digitale adesso.",
+        "Ascolta il file e decidi se ti sembra vero."
+      ]
+    },
+    "instagram": {
+      "caption": "I registratori di volo dei piloti morti restano classificati, nemmeno le famiglie possono ascoltarli. Un team ha addestrato un'AI su vecchi nastri: ora riproduce ogni inflessione e respiro con un margine d'errore sotto lo 0,3% ✈️. Gli investigatori possono interrogare digitalmente un testimone, simulare scenari alternativi e ricostruire gli ultimi secondi di un incidente 🎙️. Per chi indaga, è come avere un testimone vivo; per i parenti, esiste la possibilità di ricevere il file audio su richiesta. Ascolteresti la voce di qualcuno che non c'è più?"
+    }
+  },
+  "instagram_caption": "I registratori di volo dei piloti morti restano classificati, nemmeno le famiglie possono ascoltarli. Un team ha addestrato un'AI su vecchi nastri: ora riproduce ogni inflessione e respiro con un margine d'errore sotto lo 0,3% ✈️. Gli investigatori possono interrogare digitalmente un testimone, simulare scenari alternativi e ricostruire gli ultimi secondi di un incidente 🎙️. Per chi indaga, è come avere un testimone vivo; per i parenti, esiste la possibilità di ricevere il file audio su richiesta. Ascolteresti la voce di qualcuno che non c'è più?",
+  "carousel_slides": [
+    {
+      "hook": "Una voce che torna dalla morte",
+      "description": "Chi indaga può interrogare digitalmente un testimone morto. Mai visto prima.",
+      "visual_hint": "cockpit vuoto, luci soffuse",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty airplane cockpit"
+    },
+    {
+      "hook": "Addestrata sulle voci reali",
+      "description": "L'AI ha imparato il timbro del pilota da ore di nastri. Errore sotto lo 0,3%.",
+      "visual_hint": "nastro magnetico che gira",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "reel to reel tape",
+      "image": "https://images.pexels.com/photos/9227561/pexels-photo-9227561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Le registrazioni sono classificate",
+      "description": "Nemmeno i familiari possono ascoltarle. Un muro che sembrava invalicabile.",
+      "visual_hint": "cassaforte metallica",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "metal vault safe",
+      "image": "https://images.pexels.com/photos/12651886/pexels-photo-12651886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Simulare gli ultimi secondi",
+      "description": "Ora gli investigatori possono fargli 'ripetere' frasi incerte e ricostruire lo schianto.",
+      "visual_hint": "mani su cruscotto strumenti",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands on aircraft dashboard",
+      "image": "https://images.pexels.com/photos/34593175/pexels-photo-34593175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Giudica tu se è fedele",
+      "description": "La prossima udienza NTSB avrà una deposizione generata dall'IA. Richiedi il file audio.",
+      "visual_hint": "altoparlante vintage",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "vintage audio speaker",
+      "image": "https://images.pexels.com/photos/16208088/pexels-photo-16208088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800",
+  "savedAt": "2026-05-25T16:16:29.959Z",
+  "sourceId": "fd275f98564370a19d9262a1cb9e8acf"
+}
