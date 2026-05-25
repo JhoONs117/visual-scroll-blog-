@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "nuclear-startup-deep-fission-says-it-s-going-publi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
+      "link": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
+      "pubDate": "Sat, 23 May 2026 14:50:00 +0000",
+      "slides": [
+        "Deep Fission torna in Borsa, ma perché così in fretta?",
+        "Reattori nucleari sotterranei già brevettati",
+        "Nessun cliente annunciato dopo il primo tentativo",
+        "Per investitori: rischi ignoti prima di valutare",
+        "Controlla il prospetto: dati operativi zero finora"
+      ],
+      "thread_text": [
+        "Una società nucleare torna in Borsa. Nessun cliente. Nessun ricavo. Solo un brevetto per reattori sotterranei.",
+        "Deep Fission ha già tentato una quotazione. Il primo giro è finito senza un solo contratto firmato.",
+        "Il brevetto esiste. Ma dal laboratorio al cliente reale servono dati operativi. Al momento sono zero.",
+        "Il prospetto che gli investitori devono firmare non mostra ricavi, costi operativi o tempi di consegna.",
+        "Hai tre giorni per leggere il prospetto. Se non trovi una riga sui ricavi previsti, non investire."
+      ],
+      "video_script": [
+        "Niente clienti, zero ricavi, solo un brevetto.",
+        "La stessa azienda è già fallita in Borsa.",
+        "Il prospetto non mostra dati operativi.",
+        "Firmi un assegno su carta bianca.",
+        "Leggi prima i rischi, non il nome."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Una società nucleare torna in Borsa. Nessun cliente. Nessun ricavo. Solo un brevetto per reattori sotterranei.",
+            "Deep Fission ha già tentato una quotazione. Il primo giro è finito senza un solo contratto firmato.",
+            "Il brevetto esiste. Ma dal laboratorio al cliente reale servono dati operativi. Al momento sono zero.",
+            "Il prospetto che gli investitori devono firmare non mostra ricavi, costi operativi o tempi di consegna.",
+            "Hai tre giorni per leggere il prospetto. Se non trovi una riga sui ricavi previsti, non investire."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Niente clienti, zero ricavi, solo un brevetto.",
+            "La stessa azienda è già fallita in Borsa.",
+            "Il prospetto non mostra dati operativi.",
+            "Firmi un assegno su carta bianca.",
+            "Leggi prima i rischi, non il nome."
+          ]
+        },
+        "instagram": {
+          "caption": "Una startup nucleare torna in Borsa con un brevetto per reattori sotterranei ma senza un solo cliente annunciato ⚛️. Il primo tentativo di quotazione è finito a secco, zero contratti firmati. Il prospetto che gli investitori devono firmare mostra ricavi, costi operativi e tempi di consegna ancora pari a zero 📉. Per chi valuta un ingresso: se nel documento non trovi una riga sui ricavi previsti, fermati 🔍. Tre giorni per leggere il prospetto: da quanti numeri concreti è composto?"
+        }
+      },
+      "instagram_caption": "Una startup nucleare torna in Borsa con un brevetto per reattori sotterranei ma senza un solo cliente annunciato ⚛️. Il primo tentativo di quotazione è finito a secco, zero contratti firmati. Il prospetto che gli investitori devono firmare mostra ricavi, costi operativi e tempi di consegna ancora pari a zero 📉. Per chi valuta un ingresso: se nel documento non trovi una riga sui ricavi previsti, fermati 🔍. Tre giorni per leggere il prospetto: da quanti numeri concreti è composto?",
+      "carousel_slides": [
+        {
+          "hook": "Borsa senza clienti?",
+          "description": "Startup nucleare torna in Borsa senza un cliente. Nessun ricavo né contratto firmato.",
+          "visual_hint": "Freccia chart in discesa",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Brevetto non basta",
+          "description": "Deep Fission ha brevettato reattori sotterranei. Il primo tentativo di quotazione si è chiuso senza contratti.",
+          "visual_hint": "Reattore sezione sotterranea",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "nuclear reactor underground",
+          "image": "https://images.pexels.com/photos/35499838/pexels-photo-35499838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Zero dati operativi",
+          "description": "Dal laboratorio al cliente servono dati reali. Al momento i dati operativi sono zero.",
+          "visual_hint": "Cruscotto vuoto sensori",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "empty dashboard screen",
+          "image": "https://images.pexels.com/photos/35297914/pexels-photo-35297914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prospetto senza numeri",
+          "description": "Il prospetto per investitori mostra zero ricavi, zero costi operativi, nessuna data di consegna.",
+          "visual_hint": "Documento con spazi vuoti",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "financial document blank",
+          "image": "https://images.pexels.com/photos/6929020/pexels-photo-6929020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Leggi il prospetto",
+          "description": "Tre giorni per esaminarlo. Se non trovi ricavi previsti, non investire.",
+          "visual_hint": "Dita che sfogliano pagine",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "hand turning pages",
+          "image": "https://images.pexels.com/photos/15939931/pexels-photo-15939931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/image-2.jpg?resize=1200,847",
+      "savedAt": "2026-05-25T22:52:25.891Z",
+      "sourceId": "85b6e7147c4984fa773c2affb71551b2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-pope-s-ai-encyclical-isn-t-really-about-ai",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "pubDate": "Mon, 25 May 2026 15:09:41 +0000",
+      "slides": [
+        "Il Papa scrive un'enciclica sull'IA, ma il bersaglio è un altro.",
+        "Usa la tecnologia come specchio per denunciare il potere umano.",
+        "Il vero messaggio non è etico, ma politico e spirituale.",
+        "Chi legge solo l'IA manca ciò che il Papa critica davvero.",
+        "Leggi la prima riga: cerca il target nascosto."
+      ],
+      "thread_text": [
+        "Il bersaglio dell’enciclica del Papa non è l’IA. È chi la usa per concentrare potere.",
+        "Il testo usa la tecnologia come uno specchio. Mostra il volto del potere umano nascosto dietro le macchine.",
+        "Non è un documento etico sulla AI. È un atto politico e spirituale contro chi decide per tutti senza renderne conto.",
+        "Chi si ferma alla critica all’intelligenza artificiale perde il punto. Il Papa sta denunciando un sistema di controllo reale, non un ipotetico dominio robotico.",
+        "La prima riga dell’enciclica contiene il target nascosto. Leggila e chiediti chi può sentirsi chiamato in causa."
+      ],
+      "video_script": [
+        "Il Papa non parla solo di AI.",
+        "Usa la tecnologia come specchio.",
+        "Il bersaglio è il potere umano.",
+        "Non è etica, è politica.",
+        "Chi guarda l'IA si perde il resto."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Il bersaglio dell’enciclica del Papa non è l’IA. È chi la usa per concentrare potere.",
+            "Il testo usa la tecnologia come uno specchio. Mostra il volto del potere umano nascosto dietro le macchine.",
+            "Non è un documento etico sulla AI. È un atto politico e spirituale contro chi decide per tutti senza renderne conto.",
+            "Chi si ferma alla critica all’intelligenza artificiale perde il punto. Il Papa sta denunciando un sistema di controllo reale, non un ipotetico dominio robotico.",
+            "La prima riga dell’enciclica contiene il target nascosto. Leggila e chiediti chi può sentirsi chiamato in causa."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Il Papa non parla solo di AI.",
+            "Usa la tecnologia come specchio.",
+            "Il bersaglio è il potere umano.",
+            "Non è etica, è politica.",
+            "Chi guarda l'IA si perde il resto."
+          ]
+        },
+        "instagram": {
+          "caption": "Il Papa firma un’enciclica sull’intelligenza artificiale ma, a testa alta, punta il dito contro chi usa la tecnologia per accumulare potere e decidere per tutti senza controllo. Non è un manuale di etica 🎯— è un atto politico e una denuncia spirituale del sistema di potere nascosto dietro le macchine ⚖️. Chi si ferma al dibattito sui robot perde il messaggio vero: il bersaglio è umano, non meccanico. Per chi usa l’IA sul lavoro, questo cambia lo sguardo: non chiederti cosa può fare la macchina, ma chi ne decide le regole 🧠. Hai mai letto la prima riga cercando il colpevole? ✝️"
+        }
+      },
+      "instagram_caption": "Il Papa firma un’enciclica sull’intelligenza artificiale ma, a testa alta, punta il dito contro chi usa la tecnologia per accumulare potere e decidere per tutti senza controllo. Non è un manuale di etica 🎯— è un atto politico e una denuncia spirituale del sistema di potere nascosto dietro le macchine ⚖️. Chi si ferma al dibattito sui robot perde il messaggio vero: il bersaglio è umano, non meccanico. Per chi usa l’IA sul lavoro, questo cambia lo sguardo: non chiederti cosa può fare la macchina, ma chi ne decide le regole 🧠. Hai mai letto la prima riga cercando il colpevole? ✝️",
+      "carousel_slides": [
+        {
+          "hook": "Il bersaglio non è l'IA",
+          "description": "Il Papa usa la tecnologia come specchio per denunciare il potere umano nascosto dietro le macchine.",
+          "visual_hint": "Specchio che riflette un volto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "mirror reflecting face"
+        },
+        {
+          "hook": "Uno specchio del potere",
+          "description": "Il testo mostra chi concentra potere usando la tecnologia come scudo. Non è un documento etico sull'IA.",
+          "visual_hint": "Scudo con circuiti stampati",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "circuit board shield",
+          "image": "https://images.pexels.com/photos/8108663/pexels-photo-8108663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Atto politico e spirituale",
+          "description": "È una denuncia contro chi decide per tutti senza rendere conto, non un'ipotetica critica ai robot.",
+          "visual_hint": "Microscopio che ingrandisce persona",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "microscope zoom human",
+          "image": "https://images.pexels.com/photos/7479531/pexels-photo-7479531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sistema di controllo reale",
+          "description": "Chi si ferma alla critica all'intelligenza artificiale perde il punto: il Papa denuncia un controllo reale, non robotico.",
+          "visual_hint": "Catene che stringono un polso",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "chains around wrist",
+          "image": "https://images.pexels.com/photos/10341191/pexels-photo-10341191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cerca il target nascosto",
+          "description": "La prima riga dell'enciclica contiene il bersaglio. Leggila e chiediti chi può sentirsi chiamato in causa.",
+          "visual_hint": "Lente d'ingrandimento su testo",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "magnifying glass text",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2213411719.jpg?w=1024",
+      "savedAt": "2026-05-25T22:52:15.236Z",
+      "sourceId": "96a0ae8f1cd7d1a95fae4afcf8295103"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ferrari-is-using-ibm-s-ai-to-create-f1-superfans",
       "prompt_version": "1.0.0",
       "status": "published",

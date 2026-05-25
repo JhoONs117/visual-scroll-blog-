@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-pope-s-ai-encyclical-isn-t-really-about-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The pope’s AI encyclical isn’t really about AI",
+  "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+  "pubDate": "Mon, 25 May 2026 15:09:41 +0000",
+  "slides": [
+    "Il Papa scrive un'enciclica sull'IA, ma il bersaglio è un altro.",
+    "Usa la tecnologia come specchio per denunciare il potere umano.",
+    "Il vero messaggio non è etico, ma politico e spirituale.",
+    "Chi legge solo l'IA manca ciò che il Papa critica davvero.",
+    "Leggi la prima riga: cerca il target nascosto."
+  ],
+  "thread_text": [
+    "Il bersaglio dell’enciclica del Papa non è l’IA. È chi la usa per concentrare potere.",
+    "Il testo usa la tecnologia come uno specchio. Mostra il volto del potere umano nascosto dietro le macchine.",
+    "Non è un documento etico sulla AI. È un atto politico e spirituale contro chi decide per tutti senza renderne conto.",
+    "Chi si ferma alla critica all’intelligenza artificiale perde il punto. Il Papa sta denunciando un sistema di controllo reale, non un ipotetico dominio robotico.",
+    "La prima riga dell’enciclica contiene il target nascosto. Leggila e chiediti chi può sentirsi chiamato in causa."
+  ],
+  "video_script": [
+    "Il Papa non parla solo di AI.",
+    "Usa la tecnologia come specchio.",
+    "Il bersaglio è il potere umano.",
+    "Non è etica, è politica.",
+    "Chi guarda l'IA si perde il resto."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il bersaglio dell’enciclica del Papa non è l’IA. È chi la usa per concentrare potere.",
+        "Il testo usa la tecnologia come uno specchio. Mostra il volto del potere umano nascosto dietro le macchine.",
+        "Non è un documento etico sulla AI. È un atto politico e spirituale contro chi decide per tutti senza renderne conto.",
+        "Chi si ferma alla critica all’intelligenza artificiale perde il punto. Il Papa sta denunciando un sistema di controllo reale, non un ipotetico dominio robotico.",
+        "La prima riga dell’enciclica contiene il target nascosto. Leggila e chiediti chi può sentirsi chiamato in causa."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Il Papa non parla solo di AI.",
+        "Usa la tecnologia come specchio.",
+        "Il bersaglio è il potere umano.",
+        "Non è etica, è politica.",
+        "Chi guarda l'IA si perde il resto."
+      ]
+    },
+    "instagram": {
+      "caption": "Il Papa firma un’enciclica sull’intelligenza artificiale ma, a testa alta, punta il dito contro chi usa la tecnologia per accumulare potere e decidere per tutti senza controllo. Non è un manuale di etica 🎯— è un atto politico e una denuncia spirituale del sistema di potere nascosto dietro le macchine ⚖️. Chi si ferma al dibattito sui robot perde il messaggio vero: il bersaglio è umano, non meccanico. Per chi usa l’IA sul lavoro, questo cambia lo sguardo: non chiederti cosa può fare la macchina, ma chi ne decide le regole 🧠. Hai mai letto la prima riga cercando il colpevole? ✝️"
+    }
+  },
+  "instagram_caption": "Il Papa firma un’enciclica sull’intelligenza artificiale ma, a testa alta, punta il dito contro chi usa la tecnologia per accumulare potere e decidere per tutti senza controllo. Non è un manuale di etica 🎯— è un atto politico e una denuncia spirituale del sistema di potere nascosto dietro le macchine ⚖️. Chi si ferma al dibattito sui robot perde il messaggio vero: il bersaglio è umano, non meccanico. Per chi usa l’IA sul lavoro, questo cambia lo sguardo: non chiederti cosa può fare la macchina, ma chi ne decide le regole 🧠. Hai mai letto la prima riga cercando il colpevole? ✝️",
+  "carousel_slides": [
+    {
+      "hook": "Il bersaglio non è l'IA",
+      "description": "Il Papa usa la tecnologia come specchio per denunciare il potere umano nascosto dietro le macchine.",
+      "visual_hint": "Specchio che riflette un volto",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "mirror reflecting face"
+    },
+    {
+      "hook": "Uno specchio del potere",
+      "description": "Il testo mostra chi concentra potere usando la tecnologia come scudo. Non è un documento etico sull'IA.",
+      "visual_hint": "Scudo con circuiti stampati",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "circuit board shield",
+      "image": "https://images.pexels.com/photos/8108663/pexels-photo-8108663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Atto politico e spirituale",
+      "description": "È una denuncia contro chi decide per tutti senza rendere conto, non un'ipotetica critica ai robot.",
+      "visual_hint": "Microscopio che ingrandisce persona",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microscope zoom human",
+      "image": "https://images.pexels.com/photos/7479531/pexels-photo-7479531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sistema di controllo reale",
+      "description": "Chi si ferma alla critica all'intelligenza artificiale perde il punto: il Papa denuncia un controllo reale, non robotico.",
+      "visual_hint": "Catene che stringono un polso",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "chains around wrist",
+      "image": "https://images.pexels.com/photos/10341191/pexels-photo-10341191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cerca il target nascosto",
+      "description": "La prima riga dell'enciclica contiene il bersaglio. Leggila e chiediti chi può sentirsi chiamato in causa.",
+      "visual_hint": "Lente d'ingrandimento su testo",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass text",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2213411719.jpg?w=1024",
+  "savedAt": "2026-05-25T22:52:15.236Z",
+  "sourceId": "96a0ae8f1cd7d1a95fae4afcf8295103"
+}
