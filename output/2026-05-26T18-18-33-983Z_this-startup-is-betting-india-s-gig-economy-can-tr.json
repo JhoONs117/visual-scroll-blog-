@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "this-startup-is-betting-india-s-gig-economy-can-tr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "This startup is betting India’s gig economy can train the world’s robots",
+  "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+  "pubDate": "Tue, 26 May 2026 16:00:00 +0000",
+  "slides": [
+    "Karya's gig workers train robots with unseen data.",
+    "India rejects cheap labor—they pay fair wages.",
+    "Robots learn from human errors no one records.",
+    "Your next delivery might be tested in rural India.",
+    "Try building a dataset through them today."
+  ],
+  "thread_text": [
+    "La maggior parte dei dati con cui si addestrano i robot è pulita, perfetta, inutile. A Karya usano gli errori che nessuno registra mai.",
+    "In India, Karya paga i suoi lavoratori gig ben oltre il salario minimo. Non è carità: è l'unico modo per ottenere dati di qualità.",
+    "Quei dati sporchi — errori umani reali — insegnano ai robot a gestire il caos del mondo. Consegne, guida, logistica.",
+    "Il risultato? Il tuo prossimo pacco potrebbe essere stato testato prima in un villaggio rurale indiano, non in un laboratorio.",
+    "Vuoi costruire un dataset che funzioni davvero? Inizia oggi con Karya. Costa meno di un abbonamento Netflix."
+  ],
+  "video_script": [
+    "I robot imparano dai nostri errori.",
+    "Karya paga salari giusti in India.",
+    "Dati sporchi, robot più intelligenti.",
+    "Testano consegne in villaggi rurali.",
+    "Prova a costruire un dataset ora."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "La maggior parte dei dati con cui si addestrano i robot è pulita, perfetta, inutile. A Karya usano gli errori che nessuno registra mai.",
+        "In India, Karya paga i suoi lavoratori gig ben oltre il salario minimo. Non è carità: è l'unico modo per ottenere dati di qualità.",
+        "Quei dati sporchi — errori umani reali — insegnano ai robot a gestire il caos del mondo. Consegne, guida, logistica.",
+        "Il risultato? Il tuo prossimo pacco potrebbe essere stato testato prima in un villaggio rurale indiano, non in un laboratorio.",
+        "Vuoi costruire un dataset che funzioni davvero? Inizia oggi con Karya. Costa meno di un abbonamento Netflix."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "I robot imparano dai nostri errori.",
+        "Karya paga salari giusti in India.",
+        "Dati sporchi, robot più intelligenti.",
+        "Testano consegne in villaggi rurali.",
+        "Prova a costruire un dataset ora."
+      ]
+    },
+    "instagram": {
+      "caption": "I dati perfetti addestrano robot che si rompono nella vita reale. Karya paga lavoratori indiani per raccogliere errori umani mai registrati prima. L’idea: insegnare ai robot a gestire il caos dei negozi, della strada, della consegna mentre pagano salari dignitosi. Risultato? 🎯 Il tuo prossimo pacco suona al citofono dopo essere stato testato in un villaggio rurale, non in laboratorio. Vuoi un dataset addestrato su caos vero e non su pose da Instagram? 🤖📦💸 Costa meno di Netflix."
+    }
+  },
+  "instagram_caption": "I dati perfetti addestrano robot che si rompono nella vita reale. Karya paga lavoratori indiani per raccogliere errori umani mai registrati prima. L’idea: insegnare ai robot a gestire il caos dei negozi, della strada, della consegna mentre pagano salari dignitosi. Risultato? 🎯 Il tuo prossimo pacco suona al citofono dopo essere stato testato in un villaggio rurale, non in laboratorio. Vuoi un dataset addestrato su caos vero e non su pose da Instagram? 🤖📦💸 Costa meno di Netflix.",
+  "carousel_slides": [
+    {
+      "hook": "What if robots learned from human errors?",
+      "description": "Most training data is clean and useless. Karya uses the errors no one records.",
+      "visual_hint": "Glitchy robot hand reaching",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "glitchy robot hand"
+    },
+    {
+      "hook": "Fair wages, better data.",
+      "description": "India rejects cheap labor. Karya pays gig workers well above minimum wage for quality datasets.",
+      "visual_hint": "Wages graph rising",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "graph paper money",
+      "image": "https://images.pexels.com/photos/7567445/pexels-photo-7567445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Machines need real chaos.",
+      "description": "Dirty data from real human errors teaches robots to handle delivery chaos, driving, logistics.",
+      "visual_hint": "Zoom on messy data lines",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data lines oscilloscope",
+      "image": "https://images.pexels.com/photos/7858245/pexels-photo-7858245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tested in rural India first.",
+      "description": "Your next package may be tested in an Indian village, not a lab.",
+      "visual_hint": "Hand holding a package",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person holding box",
+      "image": "https://images.pexels.com/photos/12725403/pexels-photo-12725403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Build a dataset that works.",
+      "description": "Start with Karya today. Costs less than a Netflix subscription.",
+      "visual_hint": "Smartphone with app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone app screen",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Main-YC-Headshot-all-4-of-us.jpg?resize=1200,800",
+  "savedAt": "2026-05-26T18:18:47.060Z",
+  "sourceId": "96f157c6ce9a525a7bc473174a3db57b"
+}
