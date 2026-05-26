@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "amazon-fulfillment-competitor-stord-raises-250m-at",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
+      "link": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
+      "pubDate": "Tue, 26 May 2026 12:00:00 +0000",
+      "slides": [
+        "Stord vale 3 miliardi, ma è redditizio?",
+        "Supera i competitor con automazione avanzata.",
+        "Il segreto: magazzini più piccoli e software proprietario.",
+        "Per te: consegne più rapide senza possedere un magazzino.",
+        "Usalo se Amazon non basta — testalo oggi."
+      ],
+      "thread_text": [
+        "Magazzini più piccoli, spedizioni più veloci. Stord ha già alzato 3 miliardi di dollari. Ma la domanda vera è un’altra: genera profitto o brucia solo capitale?",
+        "Funziona così: invece di centrali enormi, Stord usa software proprietario per gestire una rete di magazzini compatti e distribuiti. Il risultato è che ogni ordine parte dal punto più vicino al cliente.",
+        "Il paradosso è che tu non devi possedere nulla. Usi la loro infrastruttura come se fosse tua, e loro automatizzano il resto. Nessun contratto pluriennale, nessun rischio logistico.",
+        "Il target è chiaro: chi fattura online e con Amazon non basta più. Serve un secondo polo di distribuzione per reggere i picchi di domanda senza collassare sui costi fissi.",
+        "Costa meno di un abbonamento Spotify al mese per partita IVA. Se spedisci almeno 100 ordini al giorno, ha senso testarlo subito."
+      ],
+      "video_script": [
+        "Hai visto che Stord ha incassato tre miliardi?",
+        "La domanda è: ma ci guadagna davvero?",
+        "Usano magazzini piccoli e un loro software.",
+        "Così spediscono più veloce di chi ha depositi enormi.",
+        "Tu non compri nulla, usi la loro rete."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Magazzini più piccoli, spedizioni più veloci. Stord ha già alzato 3 miliardi di dollari. Ma la domanda vera è un’altra: genera profitto o brucia solo capitale?",
+            "Funziona così: invece di centrali enormi, Stord usa software proprietario per gestire una rete di magazzini compatti e distribuiti. Il risultato è che ogni ordine parte dal punto più vicino al cliente.",
+            "Il paradosso è che tu non devi possedere nulla. Usi la loro infrastruttura come se fosse tua, e loro automatizzano il resto. Nessun contratto pluriennale, nessun rischio logistico.",
+            "Il target è chiaro: chi fattura online e con Amazon non basta più. Serve un secondo polo di distribuzione per reggere i picchi di domanda senza collassare sui costi fissi.",
+            "Costa meno di un abbonamento Spotify al mese per partita IVA. Se spedisci almeno 100 ordini al giorno, ha senso testarlo subito."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hai visto che Stord ha incassato tre miliardi?",
+            "La domanda è: ma ci guadagna davvero?",
+            "Usano magazzini piccoli e un loro software.",
+            "Così spediscono più veloce di chi ha depositi enormi.",
+            "Tu non compri nulla, usi la loro rete."
+          ]
+        },
+        "instagram": {
+          "caption": "Un magazzino da 250 milioni di dollari e una rete di hub più piccoli di Amazon: Stord ha appena raccolto 3 miliardi di valutazione promettendo spedizioni più rapide senza che tu debba comprare un capannone 🏭. Il trucco? Software proprietario che decide da quale deposito vicino a te far partire l'ordine, invece di un unico centro enorme 📦. Per chi vende online e Amazon non basta più: si testa già con 100 ordini al giorno, senza contratti pluriennali 🚀. La domanda è: genera profitto o brucia solo capitale? 💸"
+        }
+      },
+      "instagram_caption": "Un magazzino da 250 milioni di dollari e una rete di hub più piccoli di Amazon: Stord ha appena raccolto 3 miliardi di valutazione promettendo spedizioni più rapide senza che tu debba comprare un capannone 🏭. Il trucco? Software proprietario che decide da quale deposito vicino a te far partire l'ordine, invece di un unico centro enorme 📦. Per chi vende online e Amazon non basta più: si testa già con 100 ordini al giorno, senza contratti pluriennali 🚀. La domanda è: genera profitto o brucia solo capitale? 💸",
+      "carousel_slides": [
+        {
+          "hook": "3 miliardi, ma è redditizio?",
+          "description": "Magazzini più piccoli, spedizioni più veloci. La domanda vera è: genera profitto o brucia solo capitale?",
+          "visual_hint": "valanga di dollari contanti",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stack of dollar bills"
+        },
+        {
+          "hook": "Ogni ordine parte dal punto più vicino",
+          "description": "Invece di centrali enormi, Stord usa software proprietario per gestire una rete di magazzini compatti e distribuiti.",
+          "visual_hint": "mappa con punti luminosi",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "warehouse interior shelves",
+          "image": "https://images.pexels.com/photos/30341205/pexels-photo-30341205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Possiedi zero, usi tutto",
+          "description": "Usi la loro infrastruttura come fosse tua, automazione per il resto. Nessun contratto pluriennale, nessun rischio logistico.",
+          "visual_hint": "mano che tocca schermo codice",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "software code on screen",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Amazon non basta più? Ecco il piano B",
+          "description": "Target: chi fattura online e ha bisogno di un secondo polo logistico per reggere i picchi senza collassare sui costi fissi.",
+          "visual_hint": "pacco Amazon accanto a pacco Stord",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "package being delivered",
+          "image": "https://images.pexels.com/photos/9461752/pexels-photo-9461752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costa meno di Spotify al mese",
+          "description": "Se spedisci almeno 100 ordini al giorno, testalo oggi. Costo bassissimo per partita IVA.",
+          "visual_hint": "telefono con schermo d'ordine",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone order confirmation",
+          "image": "https://images.pexels.com/photos/9461752/pexels-photo-9461752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Sean-Henry-CEO-Co-founder-of-Stord-.jpg?w=1181",
+      "savedAt": "2026-05-26T23:03:10.459Z",
+      "sourceId": "555a44363c80b8ae35d222f4f0e5b61b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "spacex-s-starlink-nabs-american-airlines-contract-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
+      "link": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
+      "pubDate": "Tue, 26 May 2026 18:48:04 +0000",
+      "slides": [
+        "Starlink vince American Airlines, ma il vero premio è un altro?",
+        "L'accordo copre i voli interni della compagnia aerea.",
+        "La vera sfida è convincere i regolatori dell'IPO.",
+        "Per i passeggeri: Wi-Fi veloce a bordo, gratis o a pagamento?",
+        "Ora guarda i prossimi partner: Delta e United restano in dubbio."
+      ],
+      "thread_text": [
+        "L'IPO di Starlink non si gioca sui satelliti. Si gioca su chi convince i regolatori prima di tutti. American Airlines è solo il test.",
+        "L'accordo porta Internet veloce sui voli interni American. Un cliente reale, 200 milioni di passeggeri l'anno, dati veri da mostrare.",
+        "Ogni ora di volo connesso è una prova per la FCC. Latenza, copertura, affidabilità. Il vero prodotto è la licenza per emettere azioni.",
+        "Per i passeggeri significa Wi-Fi gratis o a pagamento? American non ha ancora deciso. Ma se costa, deve battere i 25 dollari di ViaSat.",
+        "Delta e United ancora non firmano. Se Starlink non li prende, l'IPO vale molto meno. Entro 90 giorni sapremo se funziona."
+      ],
+      "video_script": [
+        "Starlink vince American Airlines. Ma la vera guerra è un'altra.",
+        "L'accordo copre i voli interni di American.",
+        "Il vero premio è convincere i regolatori dell'IPO.",
+        "Per i passeggeri il Wi-Fi è gratis o no?",
+        "Occhio a Delta e United. Restano fuori."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "L'IPO di Starlink non si gioca sui satelliti. Si gioca su chi convince i regolatori prima di tutti. American Airlines è solo il test.",
+            "L'accordo porta Internet veloce sui voli interni American. Un cliente reale, 200 milioni di passeggeri l'anno, dati veri da mostrare.",
+            "Ogni ora di volo connesso è una prova per la FCC. Latenza, copertura, affidabilità. Il vero prodotto è la licenza per emettere azioni.",
+            "Per i passeggeri significa Wi-Fi gratis o a pagamento? American non ha ancora deciso. Ma se costa, deve battere i 25 dollari di ViaSat.",
+            "Delta e United ancora non firmano. Se Starlink non li prende, l'IPO vale molto meno. Entro 90 giorni sapremo se funziona."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Starlink vince American Airlines. Ma la vera guerra è un'altra.",
+            "L'accordo copre i voli interni di American.",
+            "Il vero premio è convincere i regolatori dell'IPO.",
+            "Per i passeggeri il Wi-Fi è gratis o no?",
+            "Occhio a Delta e United. Restano fuori."
+          ]
+        },
+        "instagram": {
+          "caption": "SpaceX ha appena piazzato il Wi-Fi satellitare di Starlink su American Airlines, 200 milioni di passeggeri l’anno ✈️. Non è solo un contratto: quei dati reali su latenza e copertura servono a convincere la FCC prima dell’IPO. Per te significa Internet veloce in volo, pagamento ancora incerto, ma almeno sai che ViaSat costa 25 dollari. Se Delta e United rifiuteranno entro 90 giorni, l’IPO vale molto meno — chi firmerà dopo American? 📡🛰️"
+        }
+      },
+      "instagram_caption": "SpaceX ha appena piazzato il Wi-Fi satellitare di Starlink su American Airlines, 200 milioni di passeggeri l’anno ✈️. Non è solo un contratto: quei dati reali su latenza e copertura servono a convincere la FCC prima dell’IPO. Per te significa Internet veloce in volo, pagamento ancora incerto, ma almeno sai che ViaSat costa 25 dollari. Se Delta e United rifiuteranno entro 90 giorni, l’IPO vale molto meno — chi firmerà dopo American? 📡🛰️",
+      "carousel_slides": [
+        {
+          "hook": "IPO non si gioca sui satelliti",
+          "description": "Starlink vince American Airlines, ma il vero premio è convincere i regolatori dell'IPO.",
+          "visual_hint": "Regolatori e grafico IPO",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "200 milioni di passeggeri l'anno",
+          "description": "Accordo per voli interni American Airlines. Dati reali da mostrare alla FCC per la licenza IPO.",
+          "visual_hint": "Aereo American Airlines",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "airplane interior",
+          "image": "https://images.pexels.com/photos/13404731/pexels-photo-13404731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ogni ora di volo è una prova",
+          "description": "Latenza, copertura, affidabilità testati su aerei reali. Il prodotto è la licenza per emettere azioni.",
+          "visual_hint": "Satellite e antenna aereo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "satellite dish",
+          "image": "https://images.pexels.com/photos/13615588/pexels-photo-13615588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Wi‑Fi gratis o a pagamento?",
+          "description": "American Airlines non ha deciso. Se costa, deve battere i 25 dollari di ViaSat per i passeggeri.",
+          "visual_hint": "Passeggero con smartphone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "passenger smartphone",
+          "image": "https://images.pexels.com/photos/13404723/pexels-photo-13404723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Delta e United ancora in dubbio",
+          "description": "Se Starlink non li prende, l'IPO vale molto meno. Esito nei prossimi 90 giorni.",
+          "visual_hint": "Due aerei compagnie rivali",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "delta united airplanes",
+          "image": "https://images.pexels.com/photos/32237598/pexels-photo-32237598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/american-airlines-airbus.jpg?resize=1200,800",
+      "savedAt": "2026-05-26T23:02:57.742Z",
+      "sourceId": "0f9c22836c8e828338fdd3fe54621f1e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "duckduckgo-installs-are-up-30-as-users-reject-bein",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "pubDate": "Tue, 26 May 2026 22:32:56 +0000",
+      "slides": [
+        "DuckDuckGo cresce del 30% — ma perché adesso?",
+        "Solo nelle ultime due settimane gli utenti hanno cambiato motore.",
+        "Il colpevole: Google AI Overviews, che mescola risposte a pubblicità.",
+        "Se cerchi informazioni oggettive, il risultato è meno manipolato.",
+        "Prova a cercare una notizia su DuckDuckGo oggi: confronta i primi link."
+      ],
+      "thread_text": [
+        "Google ora mescola risposte AI con pubblicità. Il risultato? Sempre più utenti scappano. Ed è successo nelle ultime due settimane.",
+        "DuckDuckGo ha registrato un +30% di traffico. Tutti cercano un motore che non mischi informazioni con inserzioni mascherate.",
+        "Il problema non è l'AI, ma come viene usata. Se le risposte diventano veicoli pubblicitari, la fiducia crolla.",
+        "Su DuckDuckGo le notizie non vengono reindirizzate da un algoritmo che privilegia chi paga. Il risultato è più obiettivo.",
+        "Oggi prova a cercare la stessa notizia su Google e DuckDuckGo. Confronta i primi tre link. Poi giudica tu."
+      ],
+      "video_script": [
+        "Google mischia AI e pubblicità. E la gente scappa.",
+        "DuckDuckGo cresce del 30% in due settimane.",
+        "Cercavano un motore che non vendesse risposte.",
+        "Su DuckDuckGo le notizie sono più oggettive.",
+        "Prova a confrontare i primi link oggi."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Google ora mescola risposte AI con pubblicità. Il risultato? Sempre più utenti scappano. Ed è successo nelle ultime due settimane.",
+            "DuckDuckGo ha registrato un +30% di traffico. Tutti cercano un motore che non mischi informazioni con inserzioni mascherate.",
+            "Il problema non è l'AI, ma come viene usata. Se le risposte diventano veicoli pubblicitari, la fiducia crolla.",
+            "Su DuckDuckGo le notizie non vengono reindirizzate da un algoritmo che privilegia chi paga. Il risultato è più obiettivo.",
+            "Oggi prova a cercare la stessa notizia su Google e DuckDuckGo. Confronta i primi tre link. Poi giudica tu."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google mischia AI e pubblicità. E la gente scappa.",
+            "DuckDuckGo cresce del 30% in due settimane.",
+            "Cercavano un motore che non vendesse risposte.",
+            "Su DuckDuckGo le notizie sono più oggettive.",
+            "Prova a confrontare i primi link oggi."
+          ]
+        },
+        "instagram": {
+          "caption": "DuckDuckGo ha registrato un +30% di installazioni nelle ultime due settimane. 🚨 La causa? Google ha integrato le risposte AI direttamente nei risultati, spesso mescolandole a inserzioni pubblicitarie. Il problema: molti utenti si sentono “forzati” a consumare contenuti promozionali mascherati da informazioni. 🔍 Concretamente, se cerchi una notizia senza voler distinguere tra sponsor e dato oggettivo, la neutralità del motore fa la differenza. Su DuckDuckGo i primi link non vengono scelti da chi paga di più. 💡 Hai già confrontato gli stessi termini su entrambi i motori?"
+        }
+      },
+      "instagram_caption": "DuckDuckGo ha registrato un +30% di installazioni nelle ultime due settimane. 🚨 La causa? Google ha integrato le risposte AI direttamente nei risultati, spesso mescolandole a inserzioni pubblicitarie. Il problema: molti utenti si sentono “forzati” a consumare contenuti promozionali mascherati da informazioni. 🔍 Concretamente, se cerchi una notizia senza voler distinguere tra sponsor e dato oggettivo, la neutralità del motore fa la differenza. Su DuckDuckGo i primi link non vengono scelti da chi paga di più. 💡 Hai già confrontato gli stessi termini su entrambi i motori?",
+      "carousel_slides": [
+        {
+          "hook": "Il tuo motore di ricerca ti sta mentendo?",
+          "description": "Google mescola risposte AI con pubblicità. Il risultato? Sempre più utenti scappano a DuckDuckGo.",
+          "visual_hint": "domanda provocatoria su fondo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "search engine comparison"
+        },
+        {
+          "hook": "30% in più in due settimane",
+          "description": "DuckDuckGo ha registrato un +30% di traffico. Tutti cercano un motore senza inserzioni mascherate.",
+          "visual_hint": "grafico freccia verso l'alto",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI non è il problema",
+          "description": "Il problema è come viene usata: se le risposte diventano veicoli pubblicitari, la fiducia crolla.",
+          "visual_hint": "lente di ingrandimento su schermo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass screen",
+          "image": "https://images.pexels.com/photos/5562089/pexels-photo-5562089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Niente link sponsorizzati",
+          "description": "Su DuckDuckGo le notizie non sono reindirizzate da un algoritmo che privilegia chi paga. Più obiettivo.",
+          "visual_hint": "confronto pagine risultati",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "two smartphones side by side",
+          "image": "https://images.pexels.com/photos/20044366/pexels-photo-20044366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova oggi il confronto",
+          "description": "Cerca la stessa notizia su Google e DuckDuckGo. Confronta i primi tre link. Poi giudica tu.",
+          "visual_hint": "CTA con dita che cliccano",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "finger tapping smartphone screen",
+          "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
+      "savedAt": "2026-05-26T23:02:45.225Z",
+      "sourceId": "1e2ebecf46ce42536e7ad3acebf10eef"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "universal-music-group-and-tiktok-renew-agreement-t",
       "prompt_version": "1.0.0",
       "status": "published",

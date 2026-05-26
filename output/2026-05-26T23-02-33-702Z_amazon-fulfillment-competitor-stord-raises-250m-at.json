@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amazon-fulfillment-competitor-stord-raises-250m-at",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
+  "link": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
+  "pubDate": "Tue, 26 May 2026 12:00:00 +0000",
+  "slides": [
+    "Stord vale 3 miliardi, ma è redditizio?",
+    "Supera i competitor con automazione avanzata.",
+    "Il segreto: magazzini più piccoli e software proprietario.",
+    "Per te: consegne più rapide senza possedere un magazzino.",
+    "Usalo se Amazon non basta — testalo oggi."
+  ],
+  "thread_text": [
+    "Magazzini più piccoli, spedizioni più veloci. Stord ha già alzato 3 miliardi di dollari. Ma la domanda vera è un’altra: genera profitto o brucia solo capitale?",
+    "Funziona così: invece di centrali enormi, Stord usa software proprietario per gestire una rete di magazzini compatti e distribuiti. Il risultato è che ogni ordine parte dal punto più vicino al cliente.",
+    "Il paradosso è che tu non devi possedere nulla. Usi la loro infrastruttura come se fosse tua, e loro automatizzano il resto. Nessun contratto pluriennale, nessun rischio logistico.",
+    "Il target è chiaro: chi fattura online e con Amazon non basta più. Serve un secondo polo di distribuzione per reggere i picchi di domanda senza collassare sui costi fissi.",
+    "Costa meno di un abbonamento Spotify al mese per partita IVA. Se spedisci almeno 100 ordini al giorno, ha senso testarlo subito."
+  ],
+  "video_script": [
+    "Hai visto che Stord ha incassato tre miliardi?",
+    "La domanda è: ma ci guadagna davvero?",
+    "Usano magazzini piccoli e un loro software.",
+    "Così spediscono più veloce di chi ha depositi enormi.",
+    "Tu non compri nulla, usi la loro rete."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Magazzini più piccoli, spedizioni più veloci. Stord ha già alzato 3 miliardi di dollari. Ma la domanda vera è un’altra: genera profitto o brucia solo capitale?",
+        "Funziona così: invece di centrali enormi, Stord usa software proprietario per gestire una rete di magazzini compatti e distribuiti. Il risultato è che ogni ordine parte dal punto più vicino al cliente.",
+        "Il paradosso è che tu non devi possedere nulla. Usi la loro infrastruttura come se fosse tua, e loro automatizzano il resto. Nessun contratto pluriennale, nessun rischio logistico.",
+        "Il target è chiaro: chi fattura online e con Amazon non basta più. Serve un secondo polo di distribuzione per reggere i picchi di domanda senza collassare sui costi fissi.",
+        "Costa meno di un abbonamento Spotify al mese per partita IVA. Se spedisci almeno 100 ordini al giorno, ha senso testarlo subito."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hai visto che Stord ha incassato tre miliardi?",
+        "La domanda è: ma ci guadagna davvero?",
+        "Usano magazzini piccoli e un loro software.",
+        "Così spediscono più veloce di chi ha depositi enormi.",
+        "Tu non compri nulla, usi la loro rete."
+      ]
+    },
+    "instagram": {
+      "caption": "Un magazzino da 250 milioni di dollari e una rete di hub più piccoli di Amazon: Stord ha appena raccolto 3 miliardi di valutazione promettendo spedizioni più rapide senza che tu debba comprare un capannone 🏭. Il trucco? Software proprietario che decide da quale deposito vicino a te far partire l'ordine, invece di un unico centro enorme 📦. Per chi vende online e Amazon non basta più: si testa già con 100 ordini al giorno, senza contratti pluriennali 🚀. La domanda è: genera profitto o brucia solo capitale? 💸"
+    }
+  },
+  "instagram_caption": "Un magazzino da 250 milioni di dollari e una rete di hub più piccoli di Amazon: Stord ha appena raccolto 3 miliardi di valutazione promettendo spedizioni più rapide senza che tu debba comprare un capannone 🏭. Il trucco? Software proprietario che decide da quale deposito vicino a te far partire l'ordine, invece di un unico centro enorme 📦. Per chi vende online e Amazon non basta più: si testa già con 100 ordini al giorno, senza contratti pluriennali 🚀. La domanda è: genera profitto o brucia solo capitale? 💸",
+  "carousel_slides": [
+    {
+      "hook": "3 miliardi, ma è redditizio?",
+      "description": "Magazzini più piccoli, spedizioni più veloci. La domanda vera è: genera profitto o brucia solo capitale?",
+      "visual_hint": "valanga di dollari contanti",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stack of dollar bills"
+    },
+    {
+      "hook": "Ogni ordine parte dal punto più vicino",
+      "description": "Invece di centrali enormi, Stord usa software proprietario per gestire una rete di magazzini compatti e distribuiti.",
+      "visual_hint": "mappa con punti luminosi",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "warehouse interior shelves",
+      "image": "https://images.pexels.com/photos/30341205/pexels-photo-30341205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Possiedi zero, usi tutto",
+      "description": "Usi la loro infrastruttura come fosse tua, automazione per il resto. Nessun contratto pluriennale, nessun rischio logistico.",
+      "visual_hint": "mano che tocca schermo codice",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "software code on screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Amazon non basta più? Ecco il piano B",
+      "description": "Target: chi fattura online e ha bisogno di un secondo polo logistico per reggere i picchi senza collassare sui costi fissi.",
+      "visual_hint": "pacco Amazon accanto a pacco Stord",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "package being delivered",
+      "image": "https://images.pexels.com/photos/9461752/pexels-photo-9461752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costa meno di Spotify al mese",
+      "description": "Se spedisci almeno 100 ordini al giorno, testalo oggi. Costo bassissimo per partita IVA.",
+      "visual_hint": "telefono con schermo d'ordine",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone order confirmation",
+      "image": "https://images.pexels.com/photos/9461752/pexels-photo-9461752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Sean-Henry-CEO-Co-founder-of-Stord-.jpg?w=1181",
+  "savedAt": "2026-05-26T23:03:10.459Z",
+  "sourceId": "555a44363c80b8ae35d222f4f0e5b61b"
+}

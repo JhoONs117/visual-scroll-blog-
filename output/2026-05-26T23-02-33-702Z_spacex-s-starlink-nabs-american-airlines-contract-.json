@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spacex-s-starlink-nabs-american-airlines-contract-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
+  "link": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
+  "pubDate": "Tue, 26 May 2026 18:48:04 +0000",
+  "slides": [
+    "Starlink vince American Airlines, ma il vero premio è un altro?",
+    "L'accordo copre i voli interni della compagnia aerea.",
+    "La vera sfida è convincere i regolatori dell'IPO.",
+    "Per i passeggeri: Wi-Fi veloce a bordo, gratis o a pagamento?",
+    "Ora guarda i prossimi partner: Delta e United restano in dubbio."
+  ],
+  "thread_text": [
+    "L'IPO di Starlink non si gioca sui satelliti. Si gioca su chi convince i regolatori prima di tutti. American Airlines è solo il test.",
+    "L'accordo porta Internet veloce sui voli interni American. Un cliente reale, 200 milioni di passeggeri l'anno, dati veri da mostrare.",
+    "Ogni ora di volo connesso è una prova per la FCC. Latenza, copertura, affidabilità. Il vero prodotto è la licenza per emettere azioni.",
+    "Per i passeggeri significa Wi-Fi gratis o a pagamento? American non ha ancora deciso. Ma se costa, deve battere i 25 dollari di ViaSat.",
+    "Delta e United ancora non firmano. Se Starlink non li prende, l'IPO vale molto meno. Entro 90 giorni sapremo se funziona."
+  ],
+  "video_script": [
+    "Starlink vince American Airlines. Ma la vera guerra è un'altra.",
+    "L'accordo copre i voli interni di American.",
+    "Il vero premio è convincere i regolatori dell'IPO.",
+    "Per i passeggeri il Wi-Fi è gratis o no?",
+    "Occhio a Delta e United. Restano fuori."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "L'IPO di Starlink non si gioca sui satelliti. Si gioca su chi convince i regolatori prima di tutti. American Airlines è solo il test.",
+        "L'accordo porta Internet veloce sui voli interni American. Un cliente reale, 200 milioni di passeggeri l'anno, dati veri da mostrare.",
+        "Ogni ora di volo connesso è una prova per la FCC. Latenza, copertura, affidabilità. Il vero prodotto è la licenza per emettere azioni.",
+        "Per i passeggeri significa Wi-Fi gratis o a pagamento? American non ha ancora deciso. Ma se costa, deve battere i 25 dollari di ViaSat.",
+        "Delta e United ancora non firmano. Se Starlink non li prende, l'IPO vale molto meno. Entro 90 giorni sapremo se funziona."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Starlink vince American Airlines. Ma la vera guerra è un'altra.",
+        "L'accordo copre i voli interni di American.",
+        "Il vero premio è convincere i regolatori dell'IPO.",
+        "Per i passeggeri il Wi-Fi è gratis o no?",
+        "Occhio a Delta e United. Restano fuori."
+      ]
+    },
+    "instagram": {
+      "caption": "SpaceX ha appena piazzato il Wi-Fi satellitare di Starlink su American Airlines, 200 milioni di passeggeri l’anno ✈️. Non è solo un contratto: quei dati reali su latenza e copertura servono a convincere la FCC prima dell’IPO. Per te significa Internet veloce in volo, pagamento ancora incerto, ma almeno sai che ViaSat costa 25 dollari. Se Delta e United rifiuteranno entro 90 giorni, l’IPO vale molto meno — chi firmerà dopo American? 📡🛰️"
+    }
+  },
+  "instagram_caption": "SpaceX ha appena piazzato il Wi-Fi satellitare di Starlink su American Airlines, 200 milioni di passeggeri l’anno ✈️. Non è solo un contratto: quei dati reali su latenza e copertura servono a convincere la FCC prima dell’IPO. Per te significa Internet veloce in volo, pagamento ancora incerto, ma almeno sai che ViaSat costa 25 dollari. Se Delta e United rifiuteranno entro 90 giorni, l’IPO vale molto meno — chi firmerà dopo American? 📡🛰️",
+  "carousel_slides": [
+    {
+      "hook": "IPO non si gioca sui satelliti",
+      "description": "Starlink vince American Airlines, ma il vero premio è convincere i regolatori dell'IPO.",
+      "visual_hint": "Regolatori e grafico IPO",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "200 milioni di passeggeri l'anno",
+      "description": "Accordo per voli interni American Airlines. Dati reali da mostrare alla FCC per la licenza IPO.",
+      "visual_hint": "Aereo American Airlines",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "airplane interior",
+      "image": "https://images.pexels.com/photos/13404731/pexels-photo-13404731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ogni ora di volo è una prova",
+      "description": "Latenza, copertura, affidabilità testati su aerei reali. Il prodotto è la licenza per emettere azioni.",
+      "visual_hint": "Satellite e antenna aereo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "satellite dish",
+      "image": "https://images.pexels.com/photos/13615588/pexels-photo-13615588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Wi‑Fi gratis o a pagamento?",
+      "description": "American Airlines non ha deciso. Se costa, deve battere i 25 dollari di ViaSat per i passeggeri.",
+      "visual_hint": "Passeggero con smartphone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "passenger smartphone",
+      "image": "https://images.pexels.com/photos/13404723/pexels-photo-13404723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Delta e United ancora in dubbio",
+      "description": "Se Starlink non li prende, l'IPO vale molto meno. Esito nei prossimi 90 giorni.",
+      "visual_hint": "Due aerei compagnie rivali",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "delta united airplanes",
+      "image": "https://images.pexels.com/photos/32237598/pexels-photo-32237598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/american-airlines-airbus.jpg?resize=1200,800",
+  "savedAt": "2026-05-26T23:02:57.742Z",
+  "sourceId": "0f9c22836c8e828338fdd3fe54621f1e"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "duckduckgo-installs-are-up-30-as-users-reject-bein",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+  "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+  "pubDate": "Tue, 26 May 2026 22:32:56 +0000",
+  "slides": [
+    "DuckDuckGo cresce del 30% — ma perché adesso?",
+    "Solo nelle ultime due settimane gli utenti hanno cambiato motore.",
+    "Il colpevole: Google AI Overviews, che mescola risposte a pubblicità.",
+    "Se cerchi informazioni oggettive, il risultato è meno manipolato.",
+    "Prova a cercare una notizia su DuckDuckGo oggi: confronta i primi link."
+  ],
+  "thread_text": [
+    "Google ora mescola risposte AI con pubblicità. Il risultato? Sempre più utenti scappano. Ed è successo nelle ultime due settimane.",
+    "DuckDuckGo ha registrato un +30% di traffico. Tutti cercano un motore che non mischi informazioni con inserzioni mascherate.",
+    "Il problema non è l'AI, ma come viene usata. Se le risposte diventano veicoli pubblicitari, la fiducia crolla.",
+    "Su DuckDuckGo le notizie non vengono reindirizzate da un algoritmo che privilegia chi paga. Il risultato è più obiettivo.",
+    "Oggi prova a cercare la stessa notizia su Google e DuckDuckGo. Confronta i primi tre link. Poi giudica tu."
+  ],
+  "video_script": [
+    "Google mischia AI e pubblicità. E la gente scappa.",
+    "DuckDuckGo cresce del 30% in due settimane.",
+    "Cercavano un motore che non vendesse risposte.",
+    "Su DuckDuckGo le notizie sono più oggettive.",
+    "Prova a confrontare i primi link oggi."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Google ora mescola risposte AI con pubblicità. Il risultato? Sempre più utenti scappano. Ed è successo nelle ultime due settimane.",
+        "DuckDuckGo ha registrato un +30% di traffico. Tutti cercano un motore che non mischi informazioni con inserzioni mascherate.",
+        "Il problema non è l'AI, ma come viene usata. Se le risposte diventano veicoli pubblicitari, la fiducia crolla.",
+        "Su DuckDuckGo le notizie non vengono reindirizzate da un algoritmo che privilegia chi paga. Il risultato è più obiettivo.",
+        "Oggi prova a cercare la stessa notizia su Google e DuckDuckGo. Confronta i primi tre link. Poi giudica tu."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google mischia AI e pubblicità. E la gente scappa.",
+        "DuckDuckGo cresce del 30% in due settimane.",
+        "Cercavano un motore che non vendesse risposte.",
+        "Su DuckDuckGo le notizie sono più oggettive.",
+        "Prova a confrontare i primi link oggi."
+      ]
+    },
+    "instagram": {
+      "caption": "DuckDuckGo ha registrato un +30% di installazioni nelle ultime due settimane. 🚨 La causa? Google ha integrato le risposte AI direttamente nei risultati, spesso mescolandole a inserzioni pubblicitarie. Il problema: molti utenti si sentono “forzati” a consumare contenuti promozionali mascherati da informazioni. 🔍 Concretamente, se cerchi una notizia senza voler distinguere tra sponsor e dato oggettivo, la neutralità del motore fa la differenza. Su DuckDuckGo i primi link non vengono scelti da chi paga di più. 💡 Hai già confrontato gli stessi termini su entrambi i motori?"
+    }
+  },
+  "instagram_caption": "DuckDuckGo ha registrato un +30% di installazioni nelle ultime due settimane. 🚨 La causa? Google ha integrato le risposte AI direttamente nei risultati, spesso mescolandole a inserzioni pubblicitarie. Il problema: molti utenti si sentono “forzati” a consumare contenuti promozionali mascherati da informazioni. 🔍 Concretamente, se cerchi una notizia senza voler distinguere tra sponsor e dato oggettivo, la neutralità del motore fa la differenza. Su DuckDuckGo i primi link non vengono scelti da chi paga di più. 💡 Hai già confrontato gli stessi termini su entrambi i motori?",
+  "carousel_slides": [
+    {
+      "hook": "Il tuo motore di ricerca ti sta mentendo?",
+      "description": "Google mescola risposte AI con pubblicità. Il risultato? Sempre più utenti scappano a DuckDuckGo.",
+      "visual_hint": "domanda provocatoria su fondo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "search engine comparison"
+    },
+    {
+      "hook": "30% in più in due settimane",
+      "description": "DuckDuckGo ha registrato un +30% di traffico. Tutti cercano un motore senza inserzioni mascherate.",
+      "visual_hint": "grafico freccia verso l'alto",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI non è il problema",
+      "description": "Il problema è come viene usata: se le risposte diventano veicoli pubblicitari, la fiducia crolla.",
+      "visual_hint": "lente di ingrandimento su schermo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass screen",
+      "image": "https://images.pexels.com/photos/5562089/pexels-photo-5562089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Niente link sponsorizzati",
+      "description": "Su DuckDuckGo le notizie non sono reindirizzate da un algoritmo che privilegia chi paga. Più obiettivo.",
+      "visual_hint": "confronto pagine risultati",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "two smartphones side by side",
+      "image": "https://images.pexels.com/photos/20044366/pexels-photo-20044366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova oggi il confronto",
+      "description": "Cerca la stessa notizia su Google e DuckDuckGo. Confronta i primi tre link. Poi giudica tu.",
+      "visual_hint": "CTA con dita che cliccano",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "finger tapping smartphone screen",
+      "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
+  "savedAt": "2026-05-26T23:02:45.225Z",
+  "sourceId": "1e2ebecf46ce42536e7ad3acebf10eef"
+}
