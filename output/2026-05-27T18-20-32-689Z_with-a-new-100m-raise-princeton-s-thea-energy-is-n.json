@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "with-a-new-100m-raise-princeton-s-thea-energy-is-n",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup",
+  "link": "https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/",
+  "pubDate": "Wed, 27 May 2026 17:54:28 +0000",
+  "slides": [
+    "Thea Energy raised $100M—but fusion is still years away.",
+    "Their approach uses planar coils, not traditional magnets.",
+    "Simulations show it could cut reactor costs by 80%.",
+    "If it works, your energy bill could drop by half.",
+    "No fusion has yet produced net gain—check back in 2030."
+  ],
+  "thread_text": [
+    "Una startup ha appena raccolto 100 milioni di dollari per una promessa: energia pulita e infinita. Il problema è che la fusione nucleare non ha ancora prodotto un singolo watt netto. Perché allora tutto questo interesse?",
+    "Il trucco sta nei magneti. Thea Energy usa bobine piatte, non quelle tradizionali a forma di ciambella. Sono più semplici da produrre e da assemblare. Un cambio di materiali che cambia tutto il resto.",
+    "Le simulazioni dicono che con queste bobine il costo di un reattore può crollare dell'80%. Non è un miglioramento marginale: è un taglio che rende il progetto economicamente plausibile, non solo tecnicamente affascinante.",
+    "Se la tecnologia funziona su scala reale, la bolletta dell'elettricità potrebbe dimezzarsi. Non per pochi, ma per tutti. Il business case non è più l'energia pulita: è l'energia a costo zero marginale.",
+    "Nessun reattore a fusione ha ancora generato più energia di quanta ne consumi. Il primo test su larga scala di Thea Energy è previsto per il 2030. Metti un promemoria e ricontrolla tra cinque anni."
+  ],
+  "video_script": [
+    "Hanno preso 100 milioni per una scommessa sull'infinito.",
+    "Il problema? La fusione non ha mai funzionato davvero.",
+    "Loro però cambiano i magneti: bobine piatte, non ciambelle.",
+    "Costa l'80% in meno. Forse dimezza la bolletta.",
+    "Se funziona. Il test è nel 2030. Segna sul calendario."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Una startup ha appena raccolto 100 milioni di dollari per una promessa: energia pulita e infinita. Il problema è che la fusione nucleare non ha ancora prodotto un singolo watt netto. Perché allora tutto questo interesse?",
+        "Il trucco sta nei magneti. Thea Energy usa bobine piatte, non quelle tradizionali a forma di ciambella. Sono più semplici da produrre e da assemblare. Un cambio di materiali che cambia tutto il resto.",
+        "Le simulazioni dicono che con queste bobine il costo di un reattore può crollare dell'80%. Non è un miglioramento marginale: è un taglio che rende il progetto economicamente plausibile, non solo tecnicamente affascinante.",
+        "Se la tecnologia funziona su scala reale, la bolletta dell'elettricità potrebbe dimezzarsi. Non per pochi, ma per tutti. Il business case non è più l'energia pulita: è l'energia a costo zero marginale.",
+        "Nessun reattore a fusione ha ancora generato più energia di quanta ne consumi. Il primo test su larga scala di Thea Energy è previsto per il 2030. Metti un promemoria e ricontrolla tra cinque anni."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hanno preso 100 milioni per una scommessa sull'infinito.",
+        "Il problema? La fusione non ha mai funzionato davvero.",
+        "Loro però cambiano i magneti: bobine piatte, non ciambelle.",
+        "Costa l'80% in meno. Forse dimezza la bolletta.",
+        "Se funziona. Il test è nel 2030. Segna sul calendario."
+      ]
+    },
+    "instagram": {
+      "caption": "Thea Energy ha appena raccolto 100 milioni di dollari per provare a costruire un reattore a fusione con bobine piatte al posto dei supermagneti tradizionali. Secondo le simulazioni il costo del reattore cala dell'80%, e se il tutto funziona, la tua bolletta potrebbe dimezzarsi. ⚡ Solo che nessun reattore a fusione ha mai prodotto più energia di quanta ne consumi. Il test vero arriva nel 2030. 💸⏳ Segnatevelo."
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "With a new $100M raise...",
+          "voiceover": "Hanno preso 100 milioni per una scommessa sull'infinito.",
+          "on_screen_text": "100 MILIONI PER L'INFINITO",
+          "visual_direction": "Animazione del testo che appare a cascata.",
+          "caption": "Un grande investimento!",
+          "tone": "urgent",
+          "emphasis_word": "INFINITO",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Il problema?",
+          "voiceover": "Il problema? La fusione non ha mai funzionato davvero.",
+          "on_screen_text": "FUSIONE NON FUNZIONA",
+          "visual_direction": "Testo che si dissolve e svanisce.",
+          "caption": "Un rischio conosciuto.",
+          "tone": "informative",
+          "emphasis_word": "NON",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Ma loro cambiano i magneti!",
+          "voiceover": "Loro però cambiano i magneti: bobine piatte, non ciambelle.",
+          "on_screen_text": "MAGNETI INNOVATIVI",
+          "visual_direction": "Illustrazione di bobine piatte vs ciambelle.",
+          "caption": "Innovazione in corso.",
+          "tone": "inspiring",
+          "emphasis_word": "INNOVATIVI",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Costa l'80% in meno!",
+          "voiceover": "Costa l'80% in meno. Forse dimezza la bolletta.",
+          "on_screen_text": "80% IN MENO!",
+          "visual_direction": "Grafico che mostra il risparmio.",
+          "caption": "Risparmio notevole.",
+          "tone": "urgent",
+          "emphasis_word": "80%",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Segna sul calendario!",
+          "voiceover": "Se funziona. Il test è nel 2030. Segna sul calendario.",
+          "on_screen_text": "TEST NEL 2030",
+          "visual_direction": "Calendario con la data cerchiata.",
+          "caption": "Non perdere questo momento.",
+          "tone": "informative",
+          "emphasis_word": "2030",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 30,
+      "cta": "Scopri di più sulla fusione!"
+    }
+  },
+  "instagram_caption": "Thea Energy ha appena raccolto 100 milioni di dollari per provare a costruire un reattore a fusione con bobine piatte al posto dei supermagneti tradizionali. Secondo le simulazioni il costo del reattore cala dell'80%, e se il tutto funziona, la tua bolletta potrebbe dimezzarsi. ⚡ Solo che nessun reattore a fusione ha mai prodotto più energia di quanta ne consumi. Il test vero arriva nel 2030. 💸⏳ Segnatevelo.",
+  "carousel_slides": [
+    {
+      "hook": "$100M per zero watt netti",
+      "description": "La fusione non ha ancora generato un singolo watt netto. Perché tanto interesse?",
+      "visual_hint": "mucchi di banconote e interruttore spento",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "money stack power plant"
+    },
+    {
+      "hook": "Bobine piatte, non a ciambella",
+      "description": "Il trucco sta nei magneti: bobine piatte più semplici da produrre e assemblare. Un cambio di materiali che cambia tutto.",
+      "visual_hint": "bobine piatte metalliche accostate",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "flat coil magnet",
+      "image": "https://images.pexels.com/photos/29233300/pexels-photo-29233300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costo reactor giù dell’80%",
+      "description": "Non è un miglioramento marginale: è un taglio che rende il progetto economicamente plausibile, non solo tecnicamente affascinante.",
+      "visual_hint": "grafico a barre in forte discesa",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "bar chart descending",
+      "image": "https://images.pexels.com/photos/5842061/pexels-photo-5842061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bolletta dimezzata per tutti",
+      "description": "Se funziona su scala reale, l'elettricità potrebbe costare la metà. Non per pochi: per tutti. Energia a costo zero marginale.",
+      "visual_hint": "mano che mostra bolletta tagliata",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding bill",
+      "image": "https://images.pexels.com/photos/6694561/pexels-photo-6694561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Primo test reale nel 2030",
+      "description": "Nessun reattore ha ancora generato più energia di quanta ne consumi. Metti un promemoria e ricontrolla tra cinque anni.",
+      "visual_hint": "calendario con data cerchiata 2030",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "calendar 2030",
+      "image": "https://images.pexels.com/photos/5417629/pexels-photo-5417629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/02/Thea-Eos-With-Plasma.jpg?resize=1200,675",
+  "savedAt": "2026-05-27T18:20:59.050Z",
+  "sourceId": "0f63644e7beec395470f66a4fe180662",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
+}

@@ -39,11 +39,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Scopri il nuovo modo di allenarti!",
+            "voiceover": "Sei pronto a trasformare il tuo workout in qualcosa di divertente?",
+            "on_screen_text": "Ritrova energia e divertimento!",
+            "visual_direction": "Inquadrature dinamiche di persone che si allenano con entusiasmo.",
+            "caption": "Rivoluziona il tuo allenamento!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 5,
+            "hook": "Brucia calorie divertendoti!",
+            "voiceover": "Con TribalFit, Blaze e Punch, ogni lezione è unica.",
+            "on_screen_text": "TribalFit, Blaze e Punch!",
+            "visual_direction": "Clip di diversi tipi di lezioni in palestra.",
+            "caption": "Allenati e divertiti!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Muovi il tuo corpo con ritmo!",
+            "voiceover": "Sperimenta allenamenti che coinvolgono tutti i muscoli.",
+            "on_screen_text": "Muovi tutto il corpo!",
+            "visual_direction": "Persone che seguono il ritmo della musica durante l'allenamento.",
+            "caption": "Ritmo e intensità!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Non fermarti a metà esercizio!",
+            "voiceover": "Spingi te stesso e supera i tuoi limiti.",
+            "on_screen_text": "Non fermarti a metà!",
+            "visual_direction": "Inquadrature di allenatori che incoraggiano i partecipanti.",
+            "caption": "Dai il massimo!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Prova una lezione gratuita oggi!",
+            "voiceover": "Scopri il tuo nuovo workout preferito senza impegno.",
+            "on_screen_text": "Lezione di prova gratuita!",
+            "visual_direction": "Persone che si iscrivono e sorridono dopo l'allenamento.",
+            "caption": "Iscriviti ora!"
+          }
+        ],
+        "duration_sec": 29,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Unisciti a noi per una prova gratuita!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -109,8 +155,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c25b81a35.jpeg",
     "savedAt": "2026-05-16T09:36:05.583Z",
     "sourceId": "55d07d9645f26fecbd0699636c80e5ed",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -160,11 +206,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Scopri il segreto dei grandi atleti!",
+            "voiceover": "La costanza vince sempre sul talento, scopri perché.",
+            "on_screen_text": "La costanza vince il talento.",
+            "visual_direction": "Inizio con un atleta che si allena intensamente.",
+            "caption": "Il potere della costanza nel fitness."
+          },
+          {
+            "scene": 2,
+            "duration_sec": 5,
+            "hook": "Ripetizione: la chiave del successo!",
+            "voiceover": "La ripetizione costruisce campioni, non dimenticarlo mai.",
+            "on_screen_text": "La ripetizione costruisce campioni.",
+            "visual_direction": "Close-up su un atleta che esegue ripetizioni.",
+            "caption": "Esercita la tua perseveranza!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Contrai il muscolo per risultati migliori!",
+            "voiceover": "Contrai il muscolo target lentamente per massimizzare i risultati.",
+            "on_screen_text": "Contrai il muscolo target lentamente.",
+            "visual_direction": "Dimostrazione di un esercizio con contrazione lenta.",
+            "caption": "Focalizzati sulla qualità del movimento."
+          },
+          {
+            "scene": 4,
+            "duration_sec": 5,
+            "hook": "Non trascurare la tecnica!",
+            "voiceover": "Non trascinare il peso con slancio, fallo con controllo.",
+            "on_screen_text": "Non trascinare il peso con slancio.",
+            "visual_direction": "Atleta che esegue un esercizio con tecnica corretta.",
+            "caption": "La tecnica è fondamentale!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Sfida te stesso oggi!",
+            "voiceover": "Oggi fai 3 serie extra, migliora ogni giorno.",
+            "on_screen_text": "Oggi fai 3 serie extra.",
+            "visual_direction": "Atleta che conclude l'allenamento con un sorriso.",
+            "caption": "Supera i tuoi limiti!"
+          }
+        ],
+        "duration_sec": 27,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Inizia il tuo percorso di fitness ora!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -230,8 +322,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059476d2a65.jpeg",
     "savedAt": "2026-05-16T09:35:44.855Z",
     "sourceId": "0f9199c51d41410bf1871d0392903004",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -281,11 +373,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Scopri l'allenamento di Rihanna!",
+            "voiceover": "Vuoi sapere come Rihanna si mantiene in forma?",
+            "on_screen_text": "Disciplina da star: risultati che motivano.",
+            "visual_direction": "Clip di Rihanna che si allena con energia.",
+            "caption": "Rihanna workout inspo!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Cardio e forza: una combinazione vincente!",
+            "voiceover": "Rihanna unisce cardio intenso e esercizi di forza.",
+            "on_screen_text": "Unisce cardio intenso e forza funzionale.",
+            "visual_direction": "Sequenza di esercizi di cardio e sollevamento pesi.",
+            "caption": "Scopri il suo segreto!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Ecco il suo schema di allenamento!",
+            "voiceover": "Alterna sprint e sollevamenti in stile militare.",
+            "on_screen_text": "Alterna sprint e sollevamenti militari.",
+            "visual_direction": "Mostrare Rihanna che esegue sprint e sollevamenti.",
+            "caption": "Allenamento impegnativo!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Non dimenticare il riscaldamento!",
+            "voiceover": "Il riscaldamento è fondamentale per evitare lesioni.",
+            "on_screen_text": "Non saltare il riscaldamento: lesioni sicure.",
+            "visual_direction": "Clip di Rihanna che fa stretching e riscaldamento.",
+            "caption": "Preparati prima di iniziare!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Prova oggi il suo allenamento!",
+            "voiceover": "Fai 20 minuti di interval training come Rihanna.",
+            "on_screen_text": "Oggi: 20 minuti di interval training.",
+            "visual_direction": "Rihanna che incoraggia a provare l'allenamento.",
+            "caption": "Inizia ora!"
+          }
+        ],
+        "duration_sec": 30,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Inizia il tuo allenamento oggi!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -351,8 +489,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059452f1bc2.jpeg",
     "savedAt": "2026-05-16T09:35:27.834Z",
     "sourceId": "9d913f10b75a8739d8984c33c50ddf61",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -402,11 +540,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Allenati come Mourinho per il tuo compleanno!",
+            "voiceover": "Scopri come allenarti con la disciplina dello Special One.",
+            "on_screen_text": "Allenati come uno Special One!",
+            "visual_direction": "Inquadratura dinamica di un allenamento intenso.",
+            "caption": "Workout ispirato a Mourinho"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Forza e resistenza: il segreto del successo.",
+            "voiceover": "Il workout di Mourinho combina forza e resistenza.",
+            "on_screen_text": "Forza e resistenza: il segreto!",
+            "visual_direction": "Clip di esercizi di forza e resistenza.",
+            "caption": "Esercizi per tutti i livelli"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Tecnica corretta per massimi risultati.",
+            "voiceover": "Piega le ginocchia, schiena dritta, spalle indietro.",
+            "on_screen_text": "Schiena dritta, spalle indietro!",
+            "visual_direction": "Dimostrazione della corretta postura durante gli esercizi.",
+            "caption": "Postura è tutto!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Attenzione: evita gli errori comuni.",
+            "voiceover": "Non curvare la schiena: perdi potenza e rischi infortuni.",
+            "on_screen_text": "Non curvare la schiena!",
+            "visual_direction": "Comparazione tra postura corretta e scorretta.",
+            "caption": "Evitare lesioni è fondamentale"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Pronto per la sfida? Fai 3 serie!",
+            "voiceover": "Oggi fai 3 serie da 12 squat a corpo libero.",
+            "on_screen_text": "3 serie da 12 squat!",
+            "visual_direction": "Inquadratura di qualcuno che esegue squat correttamente.",
+            "caption": "Inizia il tuo workout!"
+          }
+        ],
+        "duration_sec": 29,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Inizia il tuo allenamento ora!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -472,8 +656,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/04/23/6263b2a89f615.jpeg",
     "savedAt": "2026-05-16T06:29:36.977Z",
     "sourceId": "2dbb17395d70a01aaea60cd914551ef8",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -523,11 +707,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Balo è tornato, preparati a scoprire!",
+            "voiceover": "Scopri come Balo è tornato più forte che mai.",
+            "on_screen_text": "Balo è tornato!",
+            "visual_direction": "Inizio con un montaggio di clip di Balo in azione.",
+            "caption": "Scopri la sua storia"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Forza e disciplina: il suo segreto!",
+            "voiceover": "La costanza è ciò che distingue i campioni.",
+            "on_screen_text": "Costanza > Talento",
+            "visual_direction": "Mostrare Balo mentre si allena intensamente.",
+            "caption": "La chiave del successo"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Piedi saldi, core attivo!",
+            "voiceover": "Un buon allenamento inizia con una solida base.",
+            "on_screen_text": "Piedi saldi, core attivo",
+            "visual_direction": "Focus sui piedi e sul core durante un esercizio.",
+            "caption": "Fondamenta solide"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Mai saltare il riscaldamento!",
+            "voiceover": "Il riscaldamento è fondamentale per ogni atleta.",
+            "on_screen_text": "Riscaldamento: essenziale!",
+            "visual_direction": "Clip di Balo che esegue esercizi di riscaldamento.",
+            "caption": "Preparati bene"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "10 minuti di tabata: pronto ad allenarti?",
+            "voiceover": "Unisciti a Balo per una sessione di tabata ad alta intensità.",
+            "on_screen_text": "10 minuti di tabata!",
+            "visual_direction": "Mostrare un breve tutorial di una routine di tabata.",
+            "caption": "Inizia ora!"
+          }
+        ],
+        "duration_sec": 29,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Segui per altri consigli fitness!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -593,8 +823,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205935f4d67e.jpeg",
     "savedAt": "2026-05-16T06:29:14.268Z",
     "sourceId": "7e42efc28a372ca524f5c87c05d76a4b",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -644,11 +874,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Diventa re della tua forma fisica!",
+            "voiceover": "Scopri come allenarti come un campione della SBK.",
+            "on_screen_text": "Diventa re della tua forma fisica.",
+            "visual_direction": "Inizio con un primo piano di un atleta in azione.",
+            "caption": "Inizia il tuo viaggio fitness ora!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 7,
+            "hook": "Potenzia ogni muscolo come Toprak!",
+            "voiceover": "L'equilibrio dinamico è fondamentale per la tua forza.",
+            "on_screen_text": "L'equilibrio dinamico come Toprak.",
+            "visual_direction": "Mostra un esercizio di equilibrio su una palla.",
+            "caption": "Sviluppa forza e stabilità!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Contrai il core per risultati migliori!",
+            "voiceover": "Utilizza una superficie instabile per attivare il core.",
+            "on_screen_text": "Contrai il core su una superficie instabile.",
+            "visual_direction": "Esercizi su una tavola instabile.",
+            "caption": "Rafforza il tuo centro!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Respira correttamente durante lo sforzo!",
+            "voiceover": "Non bloccare il respiro, è essenziale per l'allenamento.",
+            "on_screen_text": "Non bloccare il respiro durante lo sforzo.",
+            "visual_direction": "Primo piano di un atleta che respira correttamente.",
+            "caption": "Mantieni un respiro fluido!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Prova queste serie oggi stesso!",
+            "voiceover": "Inizia con 3 serie da 30 secondi per un grande impatto.",
+            "on_screen_text": "Prova 3 serie da 30 secondi oggi.",
+            "visual_direction": "Mostra un cronometro con l'atleta che esegue gli esercizi.",
+            "caption": "Agisci ora e migliora!"
+          }
+        ],
+        "duration_sec": 31,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Inizia il tuo allenamento oggi stesso!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -714,8 +990,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205bec456c60.jpeg",
     "savedAt": "2026-05-16T06:28:50.047Z",
     "sourceId": "bd6a875992b1713317f0d52cab042731",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -765,11 +1041,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Rialzati più forte dopo ogni caduta!",
+            "voiceover": "La vita è fatta di cadute, ma ogni caduta è un'opportunità per rialzarsi.",
+            "on_screen_text": "Cadere per rialzarsi più forte.",
+            "visual_direction": "Inizio con un close-up di Valentino Rossi che si allena, poi transizione a clip di lui che cade in gara.",
+            "caption": "La resilienza è la chiave del successo."
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Usa la rabbia come carburante!",
+            "voiceover": "La rabbia può essere una potente motivazione per il cambiamento. Trasformala in forza.",
+            "on_screen_text": "La rabbia è benzina per il cambiamento.",
+            "visual_direction": "Clip di Rossi che si allena intensamente, alternando a immagini di momenti difficili.",
+            "caption": "Trasforma le emozioni in energia."
+          },
+          {
+            "scene": 3,
+            "duration_sec": 7,
+            "hook": "Scopri il potere della forza esplosiva!",
+            "voiceover": "Inizia il tuo allenamento con squat jump. Aggiungi peso leggero per migliorare.",
+            "on_screen_text": "Forza esplosiva: squat jump con peso leggero.",
+            "visual_direction": "Dimostrazione di squat jump con un trainer esperto, focus sulla tecnica.",
+            "caption": "Costruisci la tua forza esplosiva."
+          },
+          {
+            "scene": 4,
+            "duration_sec": 8,
+            "hook": "Allena la mente, non solo il corpo!",
+            "voiceover": "Allenarsi stanchi è diverso da farlo per frustrazione. Sfrutta le emozioni.",
+            "on_screen_text": "Allenarsi stanco da frustrazione.",
+            "visual_direction": "Clip di una sessione di allenamento intensa, concentrando sul viso di chi si allena.",
+            "caption": "Frustrazione porta a risultati."
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Pronto per la sfida finale?",
+            "voiceover": "Oggi, sfida te stesso con 5 serie da 8 squat jump. Iniziamo!",
+            "on_screen_text": "Oggi: 5 serie da 8 squat jump.",
+            "visual_direction": "Inquadratura su un cronometro che parte, con un gruppo che inizia a fare squat jump.",
+            "caption": "Accetta la sfida!"
+          }
+        ],
+        "duration_sec": 31,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Inizia il tuo allenamento oggi stesso!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -835,8 +1157,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c0f4ede25.jpeg",
     "savedAt": "2026-05-16T02:20:35.620Z",
     "sourceId": "077647591f2847617d57be61ecfea4d3",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -886,11 +1208,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Il segreto della forza esplosiva!",
+            "voiceover": "Scopri come Adama Traorè conquista il campo.",
+            "on_screen_text": "Il segreto della forza esplosiva!",
+            "visual_direction": "Inizio con immagini di Adama in azione.",
+            "caption": "Adama Traorè: potenza e resistenza!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "La forza funzionale vince ogni sfida.",
+            "voiceover": "La forza funzionale è la chiave per il successo.",
+            "on_screen_text": "La forza funzionale vince ogni sfida.",
+            "visual_direction": "Clip di allenamenti intensi e dinamici.",
+            "caption": "Scopri i suoi segreti!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 7,
+            "hook": "Spinta esplosiva con bilanciere!",
+            "voiceover": "Ecco come Adama allena la sua potenza.",
+            "on_screen_text": "Spinta esplosiva con bilanciere.",
+            "visual_direction": "Dimostrazione dell'esercizio con bilanciere.",
+            "caption": "Potenza in azione!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Non fermarti a metà del movimento!",
+            "voiceover": "Completa sempre il movimento per risultati migliori.",
+            "on_screen_text": "Non fermarti a metà movimento.",
+            "visual_direction": "Clip che mostra l'importanza della forma corretta.",
+            "caption": "Fai la differenza!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Oggi, 3 serie da 8 ripetizioni!",
+            "voiceover": "Inizia il tuo allenamento come Adama!",
+            "on_screen_text": "Fai 3 serie da 8 ripetizioni.",
+            "visual_direction": "Call to action con un timer per l'allenamento.",
+            "caption": "Metti alla prova la tua forza!"
+          }
+        ],
+        "duration_sec": 30,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Inizia il tuo allenamento oggi!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -956,8 +1324,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/620594a9bfde6.jpeg",
     "savedAt": "2026-05-16T02:20:17.327Z",
     "sourceId": "5702134ee15853a7838e7a6ae1a91836",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1007,11 +1375,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Vuoi dormire come un sasso?",
+            "voiceover": "Scopri come lo stretching può migliorare il tuo sonno.",
+            "on_screen_text": "Dormire come un sasso!",
+            "visual_direction": "Inquadratura di una persona che si stiracchia nel letto.",
+            "caption": "Inizia a migliorare il tuo sonno!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Rilassa i muscoli per un sonno profondo.",
+            "voiceover": "Ecco perché lo stretching è fondamentale prima di dormire.",
+            "on_screen_text": "Rilassa i tuoi muscoli!",
+            "visual_direction": "Mostra una persona che fa stretching con movimenti dolci.",
+            "caption": "Rilassati e prepara il tuo corpo!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 7,
+            "hook": "Allunga lentamente la colonna vertebrale.",
+            "voiceover": "Prova questo esercizio semplice per allungare la schiena.",
+            "on_screen_text": "Allunga la colonna vertebrale.",
+            "visual_direction": "Dimostrazione dell'esercizio a terra.",
+            "caption": "Sentiti meglio in pochi minuti!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Non forzare il respiro!",
+            "voiceover": "Ricorda di respirare lentamente mentre ti allunghi.",
+            "on_screen_text": "Respira e rilassati.",
+            "visual_direction": "Zoom su una persona che respira profondamente.",
+            "caption": "Ritrova la calma interiore!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Fai 5 minuti prima di dormire!",
+            "voiceover": "Dedica solo 5 minuti alla tua routine di stretching.",
+            "on_screen_text": "Prova stasera!",
+            "visual_direction": "Inquadratura finale di una persona che si prepara a dormire.",
+            "caption": "Fai il primo passo ora!"
+          }
+        ],
+        "duration_sec": 30,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Inizia a stretching stasera!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -1077,8 +1491,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c094cf0f3.jpeg",
     "savedAt": "2026-05-16T02:19:59.851Z",
     "sourceId": "dfe23f4be54d4aab7248689bafa2d0b0",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1128,11 +1542,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Jeff Bezos mostra i muscoli!",
+            "voiceover": "Scopri come l'uomo più ricco si allena.",
+            "on_screen_text": "Bezos lo fa, tu puoi.",
+            "visual_direction": "Inquadratura di Bezos che si allena intensamente.",
+            "caption": "Inizia il tuo percorso verso la forza!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "La forza inizia con un corpo sano!",
+            "voiceover": "Il successo parte da una buona forma fisica.",
+            "on_screen_text": "Successo parte dal corpo sano.",
+            "visual_direction": "Immagini di Bezos che corre e si allena.",
+            "caption": "Sii il tuo migliore alleato!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Solleva pesi correttamente!",
+            "voiceover": "Ricorda di mantenere la schiena dritta.",
+            "on_screen_text": "Solleva pesi con schiena dritta.",
+            "visual_direction": "Dimostrazione di una corretta postura durante il sollevamento.",
+            "caption": "La tecnica è tutto!"
+          },
+          {
+            "scene": 7,
+            "duration_sec": 6,
+            "hook": "Niente slancio nei tuoi sollevamenti!",
+            "voiceover": "Controlla ogni movimento per risultati migliori.",
+            "on_screen_text": "Non usare slancio per sollevare.",
+            "visual_direction": "Close-up su un sollevamento controllato.",
+            "caption": "Sii preciso e costante!"
+          },
+          {
+            "scene": 7,
+            "duration_sec": 5,
+            "hook": "Allenati solo 20 minuti al giorno!",
+            "voiceover": "Dedica ogni giorno 20 minuti ai pesi.",
+            "on_screen_text": "Oggi 20 minuti di pesi.",
+            "visual_direction": "Timer che conta giù mentre si sollevano pesi.",
+            "caption": "Inizia oggi il tuo allenamento!"
+          }
+        ],
+        "duration_sec": 29,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Inizia il tuo allenamento adesso!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -1198,8 +1658,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c806ac0e9.png",
     "savedAt": "2026-05-15T22:58:25.062Z",
     "sourceId": "202eb40b574be22b4917bc21399f9e99",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1249,11 +1709,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Soffri di dolore al ginocchio durante il crossfit?",
+            "voiceover": "Scopri come affrontare la tendinopatia rotulea con efficacia.",
+            "on_screen_text": "Salta senza dolore: riparti più forte.",
+            "visual_direction": "Inquadratura di un atleta che salta, con focus sul ginocchio.",
+            "caption": "Il tuo ginocchio merita attenzione!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Identifica i sintomi della tendinopatia!",
+            "voiceover": "Il ginocchio del crossfitter merita attenzione e cura.",
+            "on_screen_text": "Il ginocchio del crossfitter merita attenzione.",
+            "visual_direction": "Grafica animata che mostra i sintomi sul ginocchio.",
+            "caption": "Ascolta il tuo corpo!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 7,
+            "hook": "Stabilizza la tua rotula con questo esercizio!",
+            "voiceover": "Prova lo squat isometrico per rinforzare il ginocchio.",
+            "on_screen_text": "Stabilizza la rotula con squat isometrico.",
+            "visual_direction": "Dimostrazione di squat isometrico, con focus su postura corretta.",
+            "caption": "Mantieni la stabilità!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Non ignorare il dolore durante gli atterraggi!",
+            "voiceover": "Fai attenzione a come atterri durante gli esercizi.",
+            "on_screen_text": "Non ignorare il dolore durante gli atterraggi.",
+            "visual_direction": "Clip di un atleta che atterra, evidenziando la tecnica corretta.",
+            "caption": "Atterra in sicurezza!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Ecco un esercizio per te!",
+            "voiceover": "Oggi proviamo 3x30 secondi di wall sit.",
+            "on_screen_text": "Oggi: 3x30 sec di wall sit.",
+            "visual_direction": "Mostra un atleta mentre esegue il wall sit, cronometro in vista.",
+            "caption": "Rinforza il tuo ginocchio!"
+          }
+        ],
+        "duration_sec": 30,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Scopri di più e allenati in sicurezza!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -1319,8 +1825,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2020/09/18/61f63990c51f7.jpeg",
     "savedAt": "2026-05-15T22:58:09.428Z",
     "sourceId": "fbea61a1d85ec36e6f1093d615aa310c",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1370,11 +1876,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Il tuo cane aspetta l'avventura!",
+            "voiceover": "Scopri come allenarti insieme al tuo amico a quattro zampe.",
+            "on_screen_text": "Muoviti insieme al tuo cane!",
+            "visual_direction": "Inquadratura su un cane che salta e gioca nel parco.",
+            "caption": "#FitnessConCane"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Raddoppia motivazione e divertimento!",
+            "voiceover": "Il gioco rende l'allenamento più stimolante e divertente.",
+            "on_screen_text": "Gioco + Fitness = Divertimento!",
+            "visual_direction": "Clip di un cane e un proprietario che giocano a frisbee.",
+            "caption": "#DivertimentoAttivo"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Tieni il guinzaglio lento!",
+            "voiceover": "Ricorda, mai tirare indietro il tuo amico a quattro zampe.",
+            "on_screen_text": "Guinzaglio lento, relax!",
+            "visual_direction": "Mostrare un cane che cammina serenamente con un guinzaglio lungo.",
+            "caption": "#CaneFelice"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Lascialo correre davanti!",
+            "voiceover": "Lascia che il tuo cane esplori e si diverta durante la corsa.",
+            "on_screen_text": "Non tirare il cane!",
+            "visual_direction": "Inquadrature di un cane che corre liberamente in un campo.",
+            "caption": "#LibertàDiCorsa"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Porta il tuo cane a correre oggi!",
+            "voiceover": "Dedica solo 10 minuti alla corsa insieme.",
+            "on_screen_text": "Corsa di 10 minuti, che aspetti?",
+            "visual_direction": "Mostrare un proprietario che prepara il guinzaglio per la corsa.",
+            "caption": "#CorsaConIlCane"
+          }
+        ],
+        "duration_sec": 28,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Inizia oggi il tuo allenamento insieme!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -1440,8 +1992,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cc1cd34ff.jpeg",
     "savedAt": "2026-05-15T22:57:52.321Z",
     "sourceId": "91bf720d5e86c1d2601784c1d0504006",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1491,11 +2043,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "La palestra non è l'unica soluzione!",
+            "voiceover": "Hai mai pensato che puoi allenarti anche senza attrezzi?",
+            "on_screen_text": "Più energia senza palestra? Non esiste.",
+            "visual_direction": "Immagini di Mahmood e Blanco che si allenano divertendosi.",
+            "caption": "Scopri come puoi muoverti ogni giorno!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 5,
+            "hook": "Il corpo chiede movimento quotidiano!",
+            "voiceover": "Essere attivi è fondamentale per il nostro benessere.",
+            "on_screen_text": "Il corpo chiede movimento ogni giorno.",
+            "visual_direction": "Clip di persone che si muovono in vari ambienti.",
+            "caption": "Ascolta il tuo corpo!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Prova questo esercizio chiave!",
+            "voiceover": "Lo squat a corpo libero è semplice e efficace.",
+            "on_screen_text": "Esercizio chiave: squat a corpo libero.",
+            "visual_direction": "Dimostrazione di squat da diverse angolazioni.",
+            "caption": "Esercita con noi!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Attenzione alla postura!",
+            "voiceover": "Ricorda, non piegare le ginocchia in avanti durante lo squat.",
+            "on_screen_text": "Non piegare le ginocchia in avanti.",
+            "visual_direction": "Infografica che mostra la postura corretta.",
+            "caption": "Postura corretta = Risultati migliori!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Pronto a sfidarti?",
+            "voiceover": "Oggi fai 3 serie da 15 squat. Inizia ora!",
+            "on_screen_text": "Oggi fai 3 serie da 15 squat.",
+            "visual_direction": "Countdown mentre qualcuno completa gli squat.",
+            "caption": "Inizia il tuo allenamento ora!"
+          }
+        ],
+        "duration_sec": 29,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Metti in pratica questi esercizi oggi!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -1561,8 +2159,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cb5c04a79.jpeg",
     "savedAt": "2026-05-15T21:09:02.551Z",
     "sourceId": "c04ceed3bbafed2dd5be7e896417a19d",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1612,11 +2210,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Scopri il segreto di Victoria!",
+            "voiceover": "Vuoi allenarti come Victoria dei Maneskin? Ecco come!",
+            "on_screen_text": "Allenati come Victoria",
+            "visual_direction": "Inizio con un primo piano di Victoria mentre si allena.",
+            "caption": "Segui il suo stile!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 7,
+            "hook": "Skate e palestra? Sì, grazie!",
+            "voiceover": "Unisci equilibrio e forza con skate e palestra.",
+            "on_screen_text": "Skate e palestra uniscono forza",
+            "visual_direction": "Clip di Victoria che fa skate e transizione in palestra.",
+            "caption": "Equilibrio perfetto!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Posizione perfetta per gli squat!",
+            "voiceover": "Ricorda: pancia in dentro e spalle indietro.",
+            "on_screen_text": "Pancia in dentro, spalle indietro",
+            "visual_direction": "Dimostrazione corretta della postura negli squat.",
+            "caption": "Fai attenzione alla postura!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 7,
+            "hook": "Evita questo errore comune!",
+            "voiceover": "Non curvare mai la schiena mentre squat.",
+            "on_screen_text": "Non curvare la schiena nello squat",
+            "visual_direction": "Clip che mostra l'errore e la correzione.",
+            "caption": "Rimani dritto!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Pronto per la sfida?",
+            "voiceover": "Fai 3 serie da 10 squat oggi stesso!",
+            "on_screen_text": "Fai 3 serie da 10 squat",
+            "visual_direction": "Inquadratura finale di Victoria che incoraggia gli spettatori.",
+            "caption": "Inizia ora!"
+          }
+        ],
+        "duration_sec": 31,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Segui per più consigli fitness!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -1682,8 +2326,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059507312a3.jpeg",
     "savedAt": "2026-05-15T21:08:46.657Z",
     "sourceId": "d0f326a25149d76953267cba59a96cd4",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1733,11 +2377,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Scopri il segreto della bellezza senza tempo!",
+            "voiceover": "Ornella Muti ci mostra come la costanza paga.",
+            "on_screen_text": "La costanza paga: il tuo corpo ti ringrazierà.",
+            "visual_direction": "Inizio con immagini di Ornella Muti in momenti di bellezza.",
+            "caption": "Bellezza e costanza!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Yoga e dieta: la combinazione vincente!",
+            "voiceover": "Una dieta equilibrata e yoga mantengono giovane e tonica.",
+            "on_screen_text": "Yoga e dieta mantengono giovane e tonica.",
+            "visual_direction": "Clip di pratiche di yoga e preparazioni di pasti salutari.",
+            "caption": "Equilibrio perfetto!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 5,
+            "hook": "Inizia ogni giorno con una routine!",
+            "voiceover": "Respira profondamente e allunga i muscoli ogni mattina.",
+            "on_screen_text": "Respira e allunga i muscoli ogni mattina.",
+            "visual_direction": "Dimostrazione di esercizi di stretching mattutini.",
+            "caption": "Ritmo mattutino!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Non abbandonare la tua routine!",
+            "voiceover": "Non saltare la routine se cerchi risultati concreti.",
+            "on_screen_text": "Non saltare la routine se cerchi risultati.",
+            "visual_direction": "Persone che seguono la loro routine di allenamento.",
+            "caption": "Impegno costante!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Fai oggi un passo verso il benessere!",
+            "voiceover": "Dedica solo 10 minuti allo stretching attivo oggi stesso.",
+            "on_screen_text": "Oggi fai 10 minuti di stretching attivo.",
+            "visual_direction": "Immagini di stretching attivo e sorrisi.",
+            "caption": "Inizia ora!"
+          }
+        ],
+        "duration_sec": 28,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Inizia la tua routine di bellezza oggi!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -1803,8 +2493,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205950a715d2.jpeg",
     "savedAt": "2026-05-15T21:08:31.698Z",
     "sourceId": "b46661fb21d300e6ee1db250d9c302da",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1854,11 +2544,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Il futuro del fitness è qui!",
+            "voiceover": "Preparati a scoprire come la realtà virtuale cambia il fitness.",
+            "on_screen_text": "Il futuro del fitness è ora.",
+            "visual_direction": "Inizio con un'animazione accattivante di un casco VR che si accende.",
+            "caption": "Scopri la nuova era del fitness."
+          },
+          {
+            "scene": 2,
+            "duration_sec": 5,
+            "hook": "Immergiti completamente nell'allenamento.",
+            "voiceover": "Con la realtà virtuale, ogni sessione è coinvolgente e senza distrazioni.",
+            "on_screen_text": "Realtà virtuale: zero distrazioni.",
+            "visual_direction": "Mostrare una persona che si allena con il visore VR, concentrata.",
+            "caption": "La concentrazione è fondamentale."
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Movimenti immersivi grazie ai trackers.",
+            "voiceover": "I trackers ti permettono di eseguire movimenti reali nel mondo virtuale.",
+            "on_screen_text": "Casco VR e trackers: allenati immersivamente.",
+            "visual_direction": "Inquadrature ravvicinate dei movimenti del corpo durante l'allenamento.",
+            "caption": "Sperimenta la realtà aumentata."
+          },
+          {
+            "scene": 4,
+            "duration_sec": 5,
+            "hook": "Nessuna interruzione per regolare il visore.",
+            "voiceover": "Allenati senza interruzioni, il tuo focus rimane sul workout.",
+            "on_screen_text": "Non fermarti per regolare il visore.",
+            "visual_direction": "Mostrare una transizione fluida tra diversi esercizi senza pause.",
+            "caption": "Massimizza i tuoi risultati."
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Prova una sessione VR oggi!",
+            "voiceover": "Non aspettare, scopri subito il fitness in VR.",
+            "on_screen_text": "Oggi prova una sessione fitness in VR.",
+            "visual_direction": "Chiusura con un invito a provare la VR in una palestra.",
+            "caption": "Inizia ora la tua avventura."
+          }
+        ],
+        "duration_sec": 27,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Scopri il fitness del futuro!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -1924,8 +2660,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cb1c87185.jpeg",
     "savedAt": "2026-05-15T19:32:27.314Z",
     "sourceId": "39f7280c771cdf91b7c344058ba0fbe2",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1975,11 +2711,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Scopri il segreto di Giovanni Truppi!",
+            "voiceover": "Giovanni Truppi svela come energia e movimento vanno insieme.",
+            "on_screen_text": "Energia e movimento: la chiave!",
+            "visual_direction": "Inizio con Giovanni che balla energico.",
+            "caption": "Scopri il suo segreto!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 5,
+            "hook": "Idratazione è fondamentale!",
+            "voiceover": "Bere acqua è essenziale per il tuo benessere.",
+            "on_screen_text": "Idratati per sentirti meglio.",
+            "visual_direction": "Close-up di una bottiglia d'acqua.",
+            "caption": "Bevi di più!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Pilates: il segreto del suo successo.",
+            "voiceover": "Il pilates unisce forza, respiro e flessibilità.",
+            "on_screen_text": "Pilates: forza e respiro insieme.",
+            "visual_direction": "Giovanni mentre pratica pilates.",
+            "caption": "Provalo anche tu!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Contrai il core, allunga la colonna!",
+            "voiceover": "Ricorda di contrarre il core durante gli esercizi.",
+            "on_screen_text": "Contrai il core, allunga!",
+            "visual_direction": "Dimostrazione di un esercizio di pilates.",
+            "caption": "Focalizzati sul core!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Bevi 2 litri d'acqua oggi!",
+            "voiceover": "Muoviti e idratati per sentirti al top.",
+            "on_screen_text": "Bevi e muoviti ogni giorno!",
+            "visual_direction": "Giovanni conclude con un sorriso e un sorso d'acqua.",
+            "caption": "Fai il primo passo!"
+          }
+        ],
+        "duration_sec": 29,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Inizia oggi il tuo percorso fitness!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -2045,8 +2827,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cf212532a.jpeg",
     "savedAt": "2026-05-15T19:32:10.474Z",
     "sourceId": "c416c41e2e088c5fa38ccb16285d5ada",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -2096,11 +2878,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Rivali, amici e... fitness!",
+            "voiceover": "Morandi e Ranieri dimostrano che amicizia e competizione vanno di pari passo.",
+            "on_screen_text": "Amicizia e competizione!",
+            "visual_direction": "Immagini di Morandi e Ranieri che ridono e si allenano insieme.",
+            "caption": "Rivali nel fitness, amici nella vita!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Correre insieme è la chiave!",
+            "voiceover": "Correre con un amico aumenta il tuo impegno e la costanza.",
+            "on_screen_text": "Correre insieme aumenta l'impegno.",
+            "visual_direction": "Clip di Morandi e Ranieri che corrono fianco a fianco.",
+            "caption": "Il potere della compagnia!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 5,
+            "hook": "Alterna corsa lenta e scatti!",
+            "voiceover": "Alternare corsa lenta e scatti brevi ottimizza le performance.",
+            "on_screen_text": "Corsa lenta + scatti brevi!",
+            "visual_direction": "Animazione che mostra il ritmo alternato di corsa.",
+            "caption": "Mix di intensità!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Non isolarti mai mentre ti alleni.",
+            "voiceover": "Allenarsi da soli può essere stancante e poco motivante.",
+            "on_screen_text": "Allenarsi insieme è più divertente!",
+            "visual_direction": "Immagini di persone che si allenano in gruppo.",
+            "caption": "Allena con un amico!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Chiama un amico per correre!",
+            "voiceover": "Oggi è il giorno giusto per correre con un amico.",
+            "on_screen_text": "Chiama un amico oggi!",
+            "visual_direction": "Clip di qualcuno che invia un messaggio a un amico.",
+            "caption": "Invita un amico a correre!"
+          }
+        ],
+        "duration_sec": 29,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Inizia a correre con un amico ora!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -2166,8 +2994,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cf01cc5ab.jpeg",
     "savedAt": "2026-05-15T19:31:53.236Z",
     "sourceId": "cfe0ded917bb22740369243025d0d8af",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -2217,11 +3045,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Scopri il segreto di Sabrina Ferilli!",
+            "voiceover": "Sabrina Ferilli ci svela il suo segreto di benessere.",
+            "on_screen_text": "Il segreto è l'equilibrio!",
+            "visual_direction": "Inquadratura di Sabrina che sorride in palestra.",
+            "caption": "Equilibrio è la chiave!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 5,
+            "hook": "L'amore per sé prima di tutto!",
+            "voiceover": "Amare se stessi è fondamentale prima di ogni cosa.",
+            "on_screen_text": "Amati prima del peso!",
+            "visual_direction": "Clip di Sabrina che si guarda allo specchio.",
+            "caption": "Amore per sé!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 5,
+            "hook": "Cammina ogni giorno con gioia!",
+            "voiceover": "La gioia di muoversi è fondamentale per Sabrina.",
+            "on_screen_text": "Camminare è il primo passo.",
+            "visual_direction": "Riprese di Sabrina che passeggia in un parco.",
+            "caption": "Camminare è libertà!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 5,
+            "hook": "Mai saltare i pasti!",
+            "voiceover": "Sabrina non crede nei sacrifici alimentari.",
+            "on_screen_text": "Non saltare i pasti!",
+            "visual_direction": "Sabrina prepara un pasto sano in cucina.",
+            "caption": "Nutrimento è energia!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Muoviti oggi per la tua gioia!",
+            "voiceover": "Muoversi è un regalo che fai a te stesso.",
+            "on_screen_text": "Muoviti per la tua gioia!",
+            "visual_direction": "Sabrina che fa yoga al tramonto.",
+            "caption": "Muoviti e sorridi!"
+          }
+        ],
+        "duration_sec": 27,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Inizia il tuo viaggio verso il benessere!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -2287,8 +3161,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205953b8e21d.jpeg",
     "savedAt": "2026-05-15T17:39:22.658Z",
     "sourceId": "bc85d1e797fe5bcdf5e0fb79e58de603",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -2338,11 +3212,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Scopri cosa succede al tuo corpo!",
+            "voiceover": "Non fare stretching può avere effetti sorprendenti sul tuo corpo.",
+            "on_screen_text": "Cosa succede al tuo corpo?",
+            "visual_direction": "Inquadra un atleta che si allena intensamente.",
+            "caption": "L'importanza dello stretching!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Lo stretching ti ringiovanisce ogni giorno.",
+            "voiceover": "Fare stretching regolarmente mantiene i muscoli giovani e attivi.",
+            "on_screen_text": "Ringiovanisci i tuoi muscoli!",
+            "visual_direction": "Mostra una sequenza di stretching con focus sui muscoli.",
+            "caption": "Ringiovanisci ogni giorno!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Previeni infortuni e migliora la flessibilità.",
+            "voiceover": "Lo stretching riduce il rischio di infortuni e aumenta la flessibilità.",
+            "on_screen_text": "Prevenzione e flessibilità!",
+            "visual_direction": "Mostra un atleta che si ferma per fare stretching prima di un allenamento.",
+            "caption": "Stretching = sicurezza!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 8,
+            "hook": "Non rimbalzare durante l'allungamento!",
+            "voiceover": "Ricorda, non rimbalzare, allunga lentamente per risultati migliori.",
+            "on_screen_text": "Allunga, non rimbalza!",
+            "visual_direction": "Esegui un allungamento statico corretto in slow motion.",
+            "caption": "Tecnica corretta!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Stretching 10 minuti dopo ogni allenamento!",
+            "voiceover": "Dedica 10 minuti allo stretching post-allenamento per recupero ottimale.",
+            "on_screen_text": "10 minuti di stretching!",
+            "visual_direction": "Mostra un atleta che si allunga dopo un workout.",
+            "caption": "Ricarica i tuoi muscoli!"
+          }
+        ],
+        "duration_sec": 30,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Inizia a fare stretching oggi!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -2408,8 +3328,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cc919c701.jpeg",
     "savedAt": "2026-05-15T17:39:05.445Z",
     "sourceId": "3735cc25c36f44e59b84a722ad195269",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -2459,11 +3379,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Brucia grassi in metà tempo!",
+            "voiceover": "Scopri come l'HIIT può trasformare il tuo allenamento.",
+            "on_screen_text": "HIIT: brucia grassi velocemente!",
+            "visual_direction": "Inquadra un atleta che corre energicamente.",
+            "caption": "Scopri l'HIIT!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Risultati rapidi, sforzo minimo!",
+            "voiceover": "Con HIIT ottieni massimo risultato con minimo investimento.",
+            "on_screen_text": "Massimo risultato, minimo investimento.",
+            "visual_direction": "Mostra grafica con confronto di tempo e risultati.",
+            "caption": "Investi poco, ottieni tanto!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Scopri come funziona!",
+            "voiceover": "Alterna 20 secondi di sprint con 10 secondi di recupero.",
+            "on_screen_text": "20 secondi sprint, 10 di recupero.",
+            "visual_direction": "Dimostrazione di un atleta che alterna sprint e pausa.",
+            "caption": "Prova anche tu!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Non fermarti mai!",
+            "voiceover": "Durante gli sprint, non rallentare mai per ottenere risultati.",
+            "on_screen_text": "Non rallentare mai durante gli sprint!",
+            "visual_direction": "Inquadrature ravvicinate di un atleta concentrato.",
+            "caption": "Mantieni il ritmo!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Pronto per la sfida?",
+            "voiceover": "Oggi prova 4 minuti di HIIT e senti la differenza.",
+            "on_screen_text": "Oggi: prova 4 minuti di HIIT.",
+            "visual_direction": "Mostra un cronometro che conta i 4 minuti.",
+            "caption": "Inizia ora!"
+          }
+        ],
+        "duration_sec": 29,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Inizia il tuo allenamento HIIT!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -2529,8 +3495,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cd5a668e7.jpeg",
     "savedAt": "2026-05-15T17:38:47.516Z",
     "sourceId": "0fa3026757a29751affa1a52c68e9904",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -2701,11 +3667,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "La resilienza nasce dalle cadute!",
+            "voiceover": "Scopri come le delusioni possono renderti più forte.",
+            "on_screen_text": "Cadere ti insegna a rialzarti!",
+            "visual_direction": "Clip di Mikaela che si allena e cade.",
+            "caption": "La forza è nella resilienza!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "La delusione costruisce la resilienza!",
+            "voiceover": "Ogni atleta affronta ostacoli, ma non si arrende.",
+            "on_screen_text": "La delusione costruisce la resilienza.",
+            "visual_direction": "Immagini motivazionali di atleti che si rialzano.",
+            "caption": "Impara dai tuoi fallimenti!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 5,
+            "hook": "Proteggi la tua schiena!",
+            "voiceover": "Contrai il core durante ogni esercizio per sicurezza.",
+            "on_screen_text": "Contrai il core per la schiena.",
+            "visual_direction": "Dimostrazione di esercizi con focus sul core.",
+            "caption": "Sicurezza prima di tutto!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Respira correttamente mentre ti alleni!",
+            "voiceover": "Non trattenere il respiro, migliora le tue performance.",
+            "on_screen_text": "Non trattenere il respiro!",
+            "visual_direction": "Esercizi con focus sulla respirazione.",
+            "caption": "Respira per migliorare!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Fai il plank dinamico oggi!",
+            "voiceover": "Dedica solo 3 minuti a questo esercizio potente.",
+            "on_screen_text": "3 minuti di plank dinamico!",
+            "visual_direction": "Clip di una persona che esegue il plank.",
+            "caption": "Inizia ora il tuo allenamento!"
+          }
+        ],
+        "duration_sec": 29,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Segui per più consigli fitness!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -2771,8 +3783,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/03/31/6245bf46a1f84.jpeg",
     "savedAt": "2026-05-15T16:10:37.998Z",
     "sourceId": "9a8b073062393853a6fbb62a63627009",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -2822,11 +3834,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Unisci surf e yoga per equilibrio!",
+            "voiceover": "Scopri come surf e yoga possono trasformare la tua vita.",
+            "on_screen_text": "La giusta combinazione cambia tutto.",
+            "visual_direction": "Inquadratura di una persona che fa yoga sulla spiaggia.",
+            "caption": "Un equilibrio perfetto!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Respira e fluisci come un'onda!",
+            "voiceover": "Impara a respirare profondamente ed entrare in sintonia con te stesso.",
+            "on_screen_text": "Unisci surf e yoga per equilibrio.",
+            "visual_direction": "Clip di una persona che fa yoga mentre ondeggia come un'onda.",
+            "caption": "Flusso e armonia!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 5,
+            "hook": "Non forzare la postura!",
+            "voiceover": "Ascolta il tuo corpo e trova il tuo ritmo.",
+            "on_screen_text": "Respira e fluisci come un'onda.",
+            "visual_direction": "Inquadratura di una persona che pratica yoga con un cane accanto.",
+            "caption": "Ascolta il tuo corpo!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "5 minuti di yoga per te!",
+            "voiceover": "Dedica del tempo a te stesso e prova questa breve sessione.",
+            "on_screen_text": "Oggi prova 5 minuti di yoga.",
+            "visual_direction": "Clip di una persona che inizia una sessione di yoga.",
+            "caption": "Inizia ora, ti sentirai meglio!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Inizia oggi il tuo viaggio!",
+            "voiceover": "Unisciti a noi per un'esperienza unica di benessere.",
+            "on_screen_text": "Inizia il tuo viaggio oggi!",
+            "visual_direction": "Inquadratura finale di un gruppo che pratica insieme.",
+            "caption": "Unisciti alla community!"
+          }
+        ],
+        "duration_sec": 27,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Prova il tuo primo esercizio ora!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -2892,8 +3950,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a7696a5465.jpeg",
     "savedAt": "2026-05-15T16:10:17.414Z",
     "sourceId": "e79a95de99709db9497d2cd228322bf7",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -2943,11 +4001,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Scopri il segreto dei campioni!",
+            "voiceover": "La disciplina è la chiave per diventare un campione, sia nello sport che nella vita.",
+            "on_screen_text": "Segreto dei campioni",
+            "visual_direction": "Inizio con immagini di Gigi Samele che si allena.",
+            "caption": "La disciplina costruisce campioni"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Pilates: forza e flessibilità!",
+            "voiceover": "Il pilates non è solo esercizio, ma un'arte che costruisce forza e flessibilità.",
+            "on_screen_text": "Pilates per forza e flessibilità",
+            "visual_direction": "Clip di una lezione di pilates con focus sui movimenti.",
+            "caption": "Pilates: il segreto dei campioni"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 5,
+            "hook": "Controlla il tuo respiro!",
+            "voiceover": "Il controllo del respiro è fondamentale durante ogni movimento per massimizzare i risultati.",
+            "on_screen_text": "Controllo del respiro",
+            "visual_direction": "Primi piani su respirazione e movimenti coordinati.",
+            "caption": "Respira per migliorare"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Rispetta la tua colonna vertebrale!",
+            "voiceover": "Non forzare mai la colonna vertebrale: è essenziale per prevenire infortuni.",
+            "on_screen_text": "Non forzare la colonna",
+            "visual_direction": "Dimostrazione di esercizi corretti per la schiena.",
+            "caption": "Sicurezza prima di tutto"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Inizia oggi stesso!",
+            "voiceover": "Segui una lezione di pilates e scopri i benefici per te.",
+            "on_screen_text": "Segui una lezione di pilates",
+            "visual_direction": "Immagini di persone che partecipano a una lezione.",
+            "caption": "Inizia il tuo viaggio di fitness"
+          }
+        ],
+        "duration_sec": 28,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Unisciti a noi per il pilates oggi!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -3013,8 +4117,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a77059bc0d.jpeg",
     "savedAt": "2026-05-15T13:58:40.399Z",
     "sourceId": "493ccf9f88f371572fb10d976fd6d9b7",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -3064,11 +4168,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Trasforma il tuo corpo oggi stesso!",
+            "voiceover": "Scopri come cambiare il tuo corpo con impegno e costanza.",
+            "on_screen_text": "Il tuo corpo cambia con costanza e sudore.",
+            "visual_direction": "Inquadratura ravvicinata di una persona che si allena intensamente.",
+            "caption": "Inizia il tuo viaggio di fitness!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Equilibrio tra forza e nutrizione!",
+            "voiceover": "La palestra è un mix di forza, nutrizione e disciplina.",
+            "on_screen_text": "Palestra bilancia forza, nutrizione e disciplina.",
+            "visual_direction": "Montaggio di diverse attività in palestra, come sollevamento pesi e preparazione pasti.",
+            "caption": "Crea il tuo piano di allenamento!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 5,
+            "hook": "Controllo è la chiave del successo!",
+            "voiceover": "Esegui ogni movimento a corpo libero in modo controllato.",
+            "on_screen_text": "Esegui il movimento a corpo libero controllato.",
+            "visual_direction": "Visualizzazione di esercizi a corpo libero eseguiti correttamente.",
+            "caption": "Migliora la tua forma fisica!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Non dimenticare di riscaldarti!",
+            "voiceover": "Il riscaldamento e lo stretching sono fondamentali per ogni allenamento.",
+            "on_screen_text": "Non saltare mai il riscaldamento e lo stretching.",
+            "visual_direction": "Dimostrazione di una routine di riscaldamento e stretching.",
+            "caption": "Prepara il tuo corpo!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Investi nel tuo benessere!",
+            "voiceover": "Prenota un check-up con il tuo coach per massimizzare i risultati.",
+            "on_screen_text": "Prenota un check-up con il tuo coach oggi.",
+            "visual_direction": "Incontro tra un coach e un cliente in palestra.",
+            "caption": "Fai il primo passo!"
+          }
+        ],
+        "duration_sec": 29,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Inizia ora il tuo percorso di fitness!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -3134,8 +4284,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a78ed854eb.jpeg",
     "savedAt": "2026-05-15T13:58:20.756Z",
     "sourceId": "dd661e44df0f1c6441f8aa886973a3ea",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -3185,11 +4335,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Scopri il segreto di Wanda!",
+            "voiceover": "La disciplina è più forte dei geni. Scopri come.",
+            "on_screen_text": "Disciplina batte geni!",
+            "visual_direction": "Inquadratura di Wanda che si allena intensamente.",
+            "caption": "La forza viene dal sacrificio."
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Ogni ripetizione conta!",
+            "voiceover": "Ogni ripetizione costruisce la tua forza e resistenza.",
+            "on_screen_text": "Ogni ripetizione costruisce forza.",
+            "visual_direction": "Riprese ravvicinate di Wanda durante gli esercizi.",
+            "caption": "Sforzati, non mollare!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 7,
+            "hook": "Attenzione alla postura!",
+            "voiceover": "Contrai il core per una spinta controllata e sicura.",
+            "on_screen_text": "Contrai il core!",
+            "visual_direction": "Dimostrazione di una corretta postura durante un esercizio.",
+            "caption": "Sicurezza prima di tutto!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Evita infortuni!",
+            "voiceover": "Non iperestendere mai la schiena nello sforzo.",
+            "on_screen_text": "Niente iperestensioni!",
+            "visual_direction": "Wanda corregge la postura di un compagno.",
+            "caption": "Impara a proteggerti."
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Pronti per la sfida?",
+            "voiceover": "Oggi fai 3 serie da 12 ripetizioni. Inizia ora!",
+            "on_screen_text": "Fai 3 serie da 12!",
+            "visual_direction": "Wanda incoraggia altri durante l'allenamento.",
+            "caption": "Inizia il tuo percorso!"
+          }
+        ],
+        "duration_sec": 29,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Segui per più consigli fitness!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -3255,8 +4451,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a7678193bd.jpeg",
     "savedAt": "2026-05-15T13:57:59.289Z",
     "sourceId": "3e0144c966f5f4d6a3964f4971d813df",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,
@@ -3306,11 +4502,57 @@ window.FITNESS_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Sofia Goggia: il suo ritorno è epico!",
+            "voiceover": "Dopo un infortunio, Sofia Goggia torna più forte che mai.",
+            "on_screen_text": "Ritorno più forte di prima!",
+            "visual_direction": "Inquadrare Sofia mentre sorride e si prepara.",
+            "caption": "Preparati a ispirarti!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 7,
+            "hook": "Cadere è umano, rialzarsi è leggenda.",
+            "voiceover": "Goggia ci insegna che la resilienza è fondamentale.",
+            "on_screen_text": "Cadere è umano, rialzarsi leggenda.",
+            "visual_direction": "Clip di Sofia che si rialza dopo una caduta.",
+            "caption": "Impara dalla sua forza!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Forza esplosiva: squat jump!",
+            "voiceover": "Ecco come eseguire correttamente uno squat jump.",
+            "on_screen_text": "Forza esplosiva: squat jump controllato.",
+            "visual_direction": "Dimostrazione di squat jump con focus sull'atterraggio.",
+            "caption": "Migliora la tua forza!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Attenzione ai rischi!",
+            "voiceover": "Saltare senza controllo può causare lesioni al ginocchio.",
+            "on_screen_text": "Rischio lesioni al ginocchio.",
+            "visual_direction": "Mostrare un salto mal eseguito e il rischio di caduta.",
+            "caption": "Sii sempre consapevole!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Esegui 10 squat jump lenti.",
+            "voiceover": "Oggi ti sfido a fare 10 squat jump precisi.",
+            "on_screen_text": "Oggi 10 squat jump lenti e precisi.",
+            "visual_direction": "Video di Sofia che guida gli esercizi.",
+            "caption": "Inizia il tuo allenamento!"
+          }
+        ],
+        "duration_sec": 30,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Segui per altri consigli fitness!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -3376,8 +4618,8 @@ window.FITNESS_ARTICLES = [
     "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a768dc7f97.jpeg",
     "savedAt": "2026-05-15T10:31:04.476Z",
     "sourceId": "b9838e68a7837df458e28100dc59b8c5",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "exercise_motion_anatomy",
     "render_status": {
       "low": null,
       "medium": null,

@@ -3,6 +3,710 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ai-coding-startup-cognition-raises-1b-at-25b-pre-m",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "pubDate": "Wed, 27 May 2026 16:00:00 +0000",
+      "slides": [
+        "Cognition vale 25 miliardi: ma è solo software?",
+        "Ha creato Devin, un ingegnere AI autonomo.",
+        "Il round da 1 miliardo supera la capitalizzazione.",
+        "Confronta Devin con il tuo team oggi.",
+        "Prova un task gratuito: vedi il gap."
+      ],
+      "thread_text": [
+        "Round da 1 miliardo, capitalizzazione superata: Cognition vale 25 miliardi. Solo per un software?",
+        "Hanno costruito Devin: un ingegnere AI autonomo. Non un copilota, ma qualcuno che prende ticket, scrive codice e deploya da solo.",
+        "Dietro c'è solo software. Nessun hardware, nessun brevetto fisico. Una linea di codice valutata più di aziende con stabilimenti e dipendenti.",
+        "Confrontalo con il tuo team oggi: quanti sviluppatori servono per fare quello che Devin fa in un'ora? E quanto costa?",
+        "Prova un task gratuito. Vedi il gap. Costa meno di un abbonamento Netflix."
+      ],
+      "video_script": [
+        "Hanno dato un miliardo a una software house.",
+        "Hanno creato Devin, un programmatore AI autonomo.",
+        "Vale venticinque miliardi. Solo software.",
+        "Confrontalo con il tuo team adesso.",
+        " Prova gratis. Vedi il divario."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Round da 1 miliardo, capitalizzazione superata: Cognition vale 25 miliardi. Solo per un software?",
+            "Hanno costruito Devin: un ingegnere AI autonomo. Non un copilota, ma qualcuno che prende ticket, scrive codice e deploya da solo.",
+            "Dietro c'è solo software. Nessun hardware, nessun brevetto fisico. Una linea di codice valutata più di aziende con stabilimenti e dipendenti.",
+            "Confrontalo con il tuo team oggi: quanti sviluppatori servono per fare quello che Devin fa in un'ora? E quanto costa?",
+            "Prova un task gratuito. Vedi il gap. Costa meno di un abbonamento Netflix."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hanno dato un miliardo a una software house.",
+            "Hanno creato Devin, un programmatore AI autonomo.",
+            "Vale venticinque miliardi. Solo software.",
+            "Confrontalo con il tuo team adesso.",
+            " Prova gratis. Vedi il divario."
+          ]
+        },
+        "instagram": {
+          "caption": "25 miliardi di dollari per un software che scrive codice da solo. Cognition ha chiuso un round da 1 miliardo 🚀 perché il suo Devin non è un assistente: prende un ticket, scrive codice e lo mette in produzione senza che nessuno gli tenga la mano. Nessun hardware, nessuna fabbrica, solo righe di codice valutate più di aziende con stabilimenti reali 🧠. Vuol dire che il tuo team di developer potrebbe competere con uno strumento che costa meno di Netflix al mese 💻. Quanto vale il tempo che perdi sui task ripetitivi? ⏳"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Un miliardo di dollari.",
+              "voiceover": "Hanno dato un miliardo a una software house.",
+              "on_screen_text": "Un miliardo di dollari",
+              "visual_direction": "Testo grande che appare con un effetto di scrittura.",
+              "caption": "Investimenti straordinari nel tech.",
+              "tone": "urgent",
+              "emphasis_word": "miliardo",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Presentiamo Devin.",
+              "voiceover": "Hanno creato Devin, un programmatore AI autonomo.",
+              "on_screen_text": "Devin, il programmatore AI",
+              "visual_direction": "Animazione di Devin che scrive codice.",
+              "caption": "Innovazione senza precedenti.",
+              "tone": "informative",
+              "emphasis_word": "autonomo",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Un valore incredibile.",
+              "voiceover": "Vale venticinque miliardi.",
+              "on_screen_text": "Valore: 25 miliardi",
+              "visual_direction": "Grafica che mostra un aumento di valore.",
+              "caption": "La potenza del software.",
+              "tone": "urgent",
+              "emphasis_word": "venticinque",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Confronta il tuo team.",
+              "voiceover": "Confrontalo con il tuo team adesso.",
+              "on_screen_text": "Confronta ora!",
+              "visual_direction": "Split screen tra Devin e un team di programmatori.",
+              "caption": "Evolvi il tuo lavoro.",
+              "tone": "inspiring",
+              "emphasis_word": "team",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Inizia oggi.",
+              "voiceover": "Prova gratis. Vedi il divario.",
+              "on_screen_text": "Prova gratis!",
+              "visual_direction": "Testo che pulsa per attirare attenzione.",
+              "caption": "Scopri la differenza.",
+              "tone": "urgent",
+              "emphasis_word": "gratis",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Scopri Devin ora!"
+        }
+      },
+      "instagram_caption": "25 miliardi di dollari per un software che scrive codice da solo. Cognition ha chiuso un round da 1 miliardo 🚀 perché il suo Devin non è un assistente: prende un ticket, scrive codice e lo mette in produzione senza che nessuno gli tenga la mano. Nessun hardware, nessuna fabbrica, solo righe di codice valutate più di aziende con stabilimenti reali 🧠. Vuol dire che il tuo team di developer potrebbe competere con uno strumento che costa meno di Netflix al mese 💻. Quanto vale il tempo che perdi sui task ripetitivi? ⏳",
+      "carousel_slides": [
+        {
+          "hook": "Software da 25 miliardi?",
+          "description": "Cognition raccoglie 1 miliardo e supera la capitalizzazione. Tutto per solo software, niente hardware.",
+          "visual_hint": "Banconote che diventano codice",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Un ingegnere AI autonomo",
+          "description": "Devin non è un copilota: prende ticket, scrive codice e deploya da solo.",
+          "visual_hint": "Codice che si scrive da solo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "software code screen",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Solo righe di codice",
+          "description": "Nessun brevetto fisico, nessuno stabilimento. Una linea di codice vale più di intere aziende.",
+          "visual_hint": "Codice che sale verso l'alto",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "binary code abstract",
+          "image": "https://images.pexels.com/photos/12623603/pexels-photo-12623603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Quanto costa il tuo team?",
+          "description": "Confronta: quanti sviluppatori servono per fare in un'ora quello che Devin fa? E quanto spendi?",
+          "visual_hint": "Bilancia con soldi e codice",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova gratis, vedi il gap",
+          "description": "Costa meno di un abbonamento Netflix. Prova un task gratuito e misura la differenza.",
+          "visual_hint": "Pollice verso l'alto",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "startup office desk",
+          "image": "https://images.pexels.com/photos/8297862/pexels-photo-8297862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/Screenshot-2025-08-05-at-11.02.07AM.png?resize=1200,645",
+      "savedAt": "2026-05-27T18:21:27.787Z",
+      "sourceId": "05063096037a733af0a9aa3350ceb6fa",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "crowdstrike-and-google-take-down-botnet-used-by-ha",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "CrowdStrike and Google take down botnet used by hackers to target software developers in supply chain attacks",
+      "link": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
+      "pubDate": "Wed, 27 May 2026 16:59:19 +0000",
+      "slides": [
+        "CrowdStrike e Google hanno smantellato un botnet, ma chi era il bersaglio?",
+        "Il botnet colpiva sviluppatori software tramite supply chain.",
+        "Gli hacker sfruttavano aggiornamenti apparentemente legittimi per infiltrarsi.",
+        "Tu, sviluppatore, devi verificare ogni dipendenza del tuo codice ora.",
+        "Controlla i tuoi repository oggi: potresti essere già compromesso."
+      ],
+      "thread_text": [
+        "Stavi per installare un aggiornamento che sembrava innocuo. Invece era un malware. Per colpire te e chi usa il tuo software.",
+        "CrowdStrike e Google hanno appena smantellato un botnet che infettava sviluppatori tramite falsi aggiornamenti. Un attacco alla supply chain.",
+        "Il bersaglio non era un singolo utente, ma la catena di distribuzione del codice. Sei tu il vero obiettivo. Il tuo codice è il vettore.",
+        "Gli hacker si infiltrano nel tuo ambiente di sviluppo con aggiornamenti che sembrano legittimi. Da lì controllano tutto il tuo software distribuito.",
+        "Controlla ogni dipendenza del tuo repository oggi stesso. Se non lo fai, potresti avere già un backdoor attivo nel codice che hai spedito ieri."
+      ],
+      "video_script": [
+        "Hai installato un aggiornamento falso.",
+        "Sembrava legittimo, ma era un attacco.",
+        "CrowdStrike e Google hanno fermato un botnet.",
+        "Colpiva sviluppatori come te, sulla supply chain.",
+        "Verifica ogni dipendenza del tuo codice ora."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Stavi per installare un aggiornamento che sembrava innocuo. Invece era un malware. Per colpire te e chi usa il tuo software.",
+            "CrowdStrike e Google hanno appena smantellato un botnet che infettava sviluppatori tramite falsi aggiornamenti. Un attacco alla supply chain.",
+            "Il bersaglio non era un singolo utente, ma la catena di distribuzione del codice. Sei tu il vero obiettivo. Il tuo codice è il vettore.",
+            "Gli hacker si infiltrano nel tuo ambiente di sviluppo con aggiornamenti che sembrano legittimi. Da lì controllano tutto il tuo software distribuito.",
+            "Controlla ogni dipendenza del tuo repository oggi stesso. Se non lo fai, potresti avere già un backdoor attivo nel codice che hai spedito ieri."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hai installato un aggiornamento falso.",
+            "Sembrava legittimo, ma era un attacco.",
+            "CrowdStrike e Google hanno fermato un botnet.",
+            "Colpiva sviluppatori come te, sulla supply chain.",
+            "Verifica ogni dipendenza del tuo codice ora."
+          ]
+        },
+        "instagram": {
+          "caption": "Hanno clonato aggiornamenti software apparentemente legittimi per infettare gli sviluppatori. 🛡️ CrowdStrike e Google hanno smantellato un botnet progettato per infiltrarsi nella supply chain: chi scrive codice diventava il bersaglio, non il singolo utente finale. 👨‍💻 Se sviluppi software, ogni dipendenza che aggiungi al repository è una potenziale porta d'ingresso per un backdoor già attivo. Controlla i tuoi progetti oggi: quello che hai rilasciato ieri potrebbe essere compromesso?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Attenzione sviluppatori!",
+              "voiceover": "Hai installato un aggiornamento falso.",
+              "on_screen_text": "Aggiornamento FALSO installato!",
+              "visual_direction": "Testo che appare con un effetto di glitch.",
+              "caption": "Cosa fare?",
+              "tone": "urgent",
+              "emphasis_word": "FALSO",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Non è ciò che sembra.",
+              "voiceover": "Sembrava legittimo, ma era un attacco.",
+              "on_screen_text": "Sembrava LEGITTIMO, ma...",
+              "visual_direction": "Transizione veloce con effetti di luce.",
+              "caption": "Scopri di più.",
+              "tone": "urgent",
+              "emphasis_word": "LEGITTIMO",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 7,
+              "hook": "Una grande collaborazione.",
+              "voiceover": "CrowdStrike e Google hanno fermato un botnet.",
+              "on_screen_text": "CrowdStrike + Google = Sicurezza!",
+              "visual_direction": "Animazione che mostra i loghi che si uniscono.",
+              "caption": "Uniti contro il crimine.",
+              "tone": "inspiring",
+              "emphasis_word": "Sicurezza",
+              "layout": "split"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Il bersaglio: gli sviluppatori.",
+              "voiceover": "Colpiva sviluppatori come te, sulla supply chain.",
+              "on_screen_text": "Sviluppatori nel mirino!",
+              "visual_direction": "Immagini di codici e sviluppatori al lavoro.",
+              "caption": "Fai attenzione.",
+              "tone": "urgent",
+              "emphasis_word": "mirino",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Proteggi il tuo codice.",
+              "voiceover": "Verifica ogni dipendenza del tuo codice ora.",
+              "on_screen_text": "Controlla le tue DIPENDENZE!",
+              "visual_direction": "Testo che si ingrandisce con un effetto di enfasi.",
+              "caption": "Agisci subito.",
+              "tone": "urgent",
+              "emphasis_word": "DIPENDENZE",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Proteggi il tuo codice ora!"
+        }
+      },
+      "instagram_caption": "Hanno clonato aggiornamenti software apparentemente legittimi per infettare gli sviluppatori. 🛡️ CrowdStrike e Google hanno smantellato un botnet progettato per infiltrarsi nella supply chain: chi scrive codice diventava il bersaglio, non il singolo utente finale. 👨‍💻 Se sviluppi software, ogni dipendenza che aggiungi al repository è una potenziale porta d'ingresso per un backdoor già attivo. Controlla i tuoi progetti oggi: quello che hai rilasciato ieri potrebbe essere compromesso?",
+      "carousel_slides": [
+        {
+          "hook": "L'aggiornamento che stavi per installare",
+          "description": "Era un malware. CrowdStrike e Google hanno smantellato il botnet che colpiva sviluppatori software.",
+          "visual_hint": "screenshot falso aggiornamento software",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "malware code screen"
+        },
+        {
+          "hook": "Tu sei il vero bersaglio",
+          "description": "Non un singolo utente, ma la catena di distribuzione del codice. Il tuo codice è il vettore.",
+          "visual_hint": "catena spezzata digitale",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "supply chain attack",
+          "image": "https://images.pexels.com/photos/30115457/pexels-photo-30115457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Aggiornamenti falsi, danni veri",
+          "description": "Gli hacker sfruttano aggiornamenti legittimi per infiltrarsi nell'ambiente di sviluppo e controllare il software.",
+          "visual_hint": "codice che si trasforma in virus",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "update notification malware",
+          "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Controlla ogni dipendenza",
+          "description": "Se non lo fai oggi, potresti aver già spedito codice con backdoor attivo.",
+          "visual_hint": "mano che esamina repository",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "developer checking code",
+          "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Verifica i tuoi repository ora",
+          "description": "Potresti essere già compromesso. Ogni dipendenza va controllata.",
+          "visual_hint": "codice sorgente con allarme rosso",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "code repository warning",
+          "image": "https://images.pexels.com/photos/9121365/pexels-photo-9121365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/source-code-on-screen.jpg?resize=1200,704",
+      "savedAt": "2026-05-27T18:21:11.955Z",
+      "sourceId": "f99b46de820e8ee678586cc3bc799c83",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "with-a-new-100m-raise-princeton-s-thea-energy-is-n",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup",
+      "link": "https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/",
+      "pubDate": "Wed, 27 May 2026 17:54:28 +0000",
+      "slides": [
+        "Thea Energy raised $100M—but fusion is still years away.",
+        "Their approach uses planar coils, not traditional magnets.",
+        "Simulations show it could cut reactor costs by 80%.",
+        "If it works, your energy bill could drop by half.",
+        "No fusion has yet produced net gain—check back in 2030."
+      ],
+      "thread_text": [
+        "Una startup ha appena raccolto 100 milioni di dollari per una promessa: energia pulita e infinita. Il problema è che la fusione nucleare non ha ancora prodotto un singolo watt netto. Perché allora tutto questo interesse?",
+        "Il trucco sta nei magneti. Thea Energy usa bobine piatte, non quelle tradizionali a forma di ciambella. Sono più semplici da produrre e da assemblare. Un cambio di materiali che cambia tutto il resto.",
+        "Le simulazioni dicono che con queste bobine il costo di un reattore può crollare dell'80%. Non è un miglioramento marginale: è un taglio che rende il progetto economicamente plausibile, non solo tecnicamente affascinante.",
+        "Se la tecnologia funziona su scala reale, la bolletta dell'elettricità potrebbe dimezzarsi. Non per pochi, ma per tutti. Il business case non è più l'energia pulita: è l'energia a costo zero marginale.",
+        "Nessun reattore a fusione ha ancora generato più energia di quanta ne consumi. Il primo test su larga scala di Thea Energy è previsto per il 2030. Metti un promemoria e ricontrolla tra cinque anni."
+      ],
+      "video_script": [
+        "Hanno preso 100 milioni per una scommessa sull'infinito.",
+        "Il problema? La fusione non ha mai funzionato davvero.",
+        "Loro però cambiano i magneti: bobine piatte, non ciambelle.",
+        "Costa l'80% in meno. Forse dimezza la bolletta.",
+        "Se funziona. Il test è nel 2030. Segna sul calendario."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Una startup ha appena raccolto 100 milioni di dollari per una promessa: energia pulita e infinita. Il problema è che la fusione nucleare non ha ancora prodotto un singolo watt netto. Perché allora tutto questo interesse?",
+            "Il trucco sta nei magneti. Thea Energy usa bobine piatte, non quelle tradizionali a forma di ciambella. Sono più semplici da produrre e da assemblare. Un cambio di materiali che cambia tutto il resto.",
+            "Le simulazioni dicono che con queste bobine il costo di un reattore può crollare dell'80%. Non è un miglioramento marginale: è un taglio che rende il progetto economicamente plausibile, non solo tecnicamente affascinante.",
+            "Se la tecnologia funziona su scala reale, la bolletta dell'elettricità potrebbe dimezzarsi. Non per pochi, ma per tutti. Il business case non è più l'energia pulita: è l'energia a costo zero marginale.",
+            "Nessun reattore a fusione ha ancora generato più energia di quanta ne consumi. Il primo test su larga scala di Thea Energy è previsto per il 2030. Metti un promemoria e ricontrolla tra cinque anni."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hanno preso 100 milioni per una scommessa sull'infinito.",
+            "Il problema? La fusione non ha mai funzionato davvero.",
+            "Loro però cambiano i magneti: bobine piatte, non ciambelle.",
+            "Costa l'80% in meno. Forse dimezza la bolletta.",
+            "Se funziona. Il test è nel 2030. Segna sul calendario."
+          ]
+        },
+        "instagram": {
+          "caption": "Thea Energy ha appena raccolto 100 milioni di dollari per provare a costruire un reattore a fusione con bobine piatte al posto dei supermagneti tradizionali. Secondo le simulazioni il costo del reattore cala dell'80%, e se il tutto funziona, la tua bolletta potrebbe dimezzarsi. ⚡ Solo che nessun reattore a fusione ha mai prodotto più energia di quanta ne consumi. Il test vero arriva nel 2030. 💸⏳ Segnatevelo."
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "With a new $100M raise...",
+              "voiceover": "Hanno preso 100 milioni per una scommessa sull'infinito.",
+              "on_screen_text": "100 MILIONI PER L'INFINITO",
+              "visual_direction": "Animazione del testo che appare a cascata.",
+              "caption": "Un grande investimento!",
+              "tone": "urgent",
+              "emphasis_word": "INFINITO",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Il problema?",
+              "voiceover": "Il problema? La fusione non ha mai funzionato davvero.",
+              "on_screen_text": "FUSIONE NON FUNZIONA",
+              "visual_direction": "Testo che si dissolve e svanisce.",
+              "caption": "Un rischio conosciuto.",
+              "tone": "informative",
+              "emphasis_word": "NON",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Ma loro cambiano i magneti!",
+              "voiceover": "Loro però cambiano i magneti: bobine piatte, non ciambelle.",
+              "on_screen_text": "MAGNETI INNOVATIVI",
+              "visual_direction": "Illustrazione di bobine piatte vs ciambelle.",
+              "caption": "Innovazione in corso.",
+              "tone": "inspiring",
+              "emphasis_word": "INNOVATIVI",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Costa l'80% in meno!",
+              "voiceover": "Costa l'80% in meno. Forse dimezza la bolletta.",
+              "on_screen_text": "80% IN MENO!",
+              "visual_direction": "Grafico che mostra il risparmio.",
+              "caption": "Risparmio notevole.",
+              "tone": "urgent",
+              "emphasis_word": "80%",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Segna sul calendario!",
+              "voiceover": "Se funziona. Il test è nel 2030. Segna sul calendario.",
+              "on_screen_text": "TEST NEL 2030",
+              "visual_direction": "Calendario con la data cerchiata.",
+              "caption": "Non perdere questo momento.",
+              "tone": "informative",
+              "emphasis_word": "2030",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 30,
+          "cta": "Scopri di più sulla fusione!"
+        }
+      },
+      "instagram_caption": "Thea Energy ha appena raccolto 100 milioni di dollari per provare a costruire un reattore a fusione con bobine piatte al posto dei supermagneti tradizionali. Secondo le simulazioni il costo del reattore cala dell'80%, e se il tutto funziona, la tua bolletta potrebbe dimezzarsi. ⚡ Solo che nessun reattore a fusione ha mai prodotto più energia di quanta ne consumi. Il test vero arriva nel 2030. 💸⏳ Segnatevelo.",
+      "carousel_slides": [
+        {
+          "hook": "$100M per zero watt netti",
+          "description": "La fusione non ha ancora generato un singolo watt netto. Perché tanto interesse?",
+          "visual_hint": "mucchi di banconote e interruttore spento",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "money stack power plant"
+        },
+        {
+          "hook": "Bobine piatte, non a ciambella",
+          "description": "Il trucco sta nei magneti: bobine piatte più semplici da produrre e assemblare. Un cambio di materiali che cambia tutto.",
+          "visual_hint": "bobine piatte metalliche accostate",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "flat coil magnet",
+          "image": "https://images.pexels.com/photos/29233300/pexels-photo-29233300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costo reactor giù dell’80%",
+          "description": "Non è un miglioramento marginale: è un taglio che rende il progetto economicamente plausibile, non solo tecnicamente affascinante.",
+          "visual_hint": "grafico a barre in forte discesa",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "bar chart descending",
+          "image": "https://images.pexels.com/photos/5842061/pexels-photo-5842061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Bolletta dimezzata per tutti",
+          "description": "Se funziona su scala reale, l'elettricità potrebbe costare la metà. Non per pochi: per tutti. Energia a costo zero marginale.",
+          "visual_hint": "mano che mostra bolletta tagliata",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding bill",
+          "image": "https://images.pexels.com/photos/6694561/pexels-photo-6694561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Primo test reale nel 2030",
+          "description": "Nessun reattore ha ancora generato più energia di quanta ne consumi. Metti un promemoria e ricontrolla tra cinque anni.",
+          "visual_hint": "calendario con data cerchiata 2030",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "calendar 2030",
+          "image": "https://images.pexels.com/photos/5417629/pexels-photo-5417629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/Thea-Eos-With-Plasma.jpg?resize=1200,675",
+      "savedAt": "2026-05-27T18:20:59.050Z",
+      "sourceId": "0f63644e7beec395470f66a4fe180662",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "exploring-the-benefits-of-ai-bots-for-forex-tradin",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Exploring the Benefits of AI Bots for Forex Trading in Forex Markets",
+      "link": "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/",
+      "pubDate": "Wed, 27 May 2026 12:38:44 +0000",
+      "slides": [
+        "AI bots can predict forex moves better than humans?",
+        "They process news and patterns in milliseconds.",
+        "But 70% of retail traders still lose money.",
+        "You can backtest strategies without risking capital.",
+        "Test one bot today—see if it beats your gut."
+      ],
+      "thread_text": [
+        "70% of retail traders still lose money. Not because they lack data. Because they trust their gut.",
+        "AI bots don't guess. They scan global news and price patterns in milliseconds. No emotion. No fatigue.",
+        "That speed doesn't guarantee profit. But it removes the part that costs you money: your own reaction.",
+        "Most traders test nothing. They jump in. You can backtest a bot for weeks without risking a cent.",
+        "One bot costs less than a Netflix plan. Run it this week. See if it beats your gut.",
+        "If it doesn't, you lose nothing. If it does, you stop being part of that 70%."
+      ],
+      "video_script": [
+        "Seventy percent of traders lose money.",
+        "Not because they're stupid.",
+        "Because they trust their gut.",
+        "A bot reads news in milliseconds.",
+        "It pattern-matches while you blink.",
+        "You can test one right now.",
+        "Zero risk.",
+        "See if it beats your feeling.",
+        "If not, turn it off.",
+        "If yes, keep it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "70% of retail traders still lose money. Not because they lack data. Because they trust their gut.",
+            "AI bots don't guess. They scan global news and price patterns in milliseconds. No emotion. No fatigue.",
+            "That speed doesn't guarantee profit. But it removes the part that costs you money: your own reaction.",
+            "Most traders test nothing. They jump in. You can backtest a bot for weeks without risking a cent.",
+            "One bot costs less than a Netflix plan. Run it this week. See if it beats your gut.",
+            "If it doesn't, you lose nothing. If it does, you stop being part of that 70%."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Seventy percent of traders lose money.",
+            "Not because they're stupid.",
+            "Because they trust their gut.",
+            "A bot reads news in milliseconds.",
+            "It pattern-matches while you blink.",
+            "You can test one right now.",
+            "Zero risk.",
+            "See if it beats your feeling.",
+            "If not, turn it off.",
+            "If yes, keep it."
+          ]
+        },
+        "instagram": {
+          "caption": "Il 70% dei trader retail perde soldi nel forex, ma non perché manchino i dati: seguono l'istinto. 🤖 I bot AI elaborano notizie e pattern di prezzo in millisecondi, senza emozioni né stanchezza, per tentare di anticipare i movimenti. La velocità non garantisce profitto, ma elimina la tua reazione emotiva che costa cara. 💸 Ora puoi testare una strategia per settimane senza rischiare un centesimo. 📉 Quanto stai pagando per fidarti del tuo istinto? 🧠"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Seventy percent of traders lose money.",
+              "voiceover": "Seventy percent of traders lose money.",
+              "on_screen_text": "70% OF TRADERS LOSE MONEY",
+              "visual_direction": "Bold text fades in with a dramatic sound.",
+              "caption": "A staggering statistic!",
+              "tone": "urgent",
+              "emphasis_word": "70%",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Not because they're stupid.",
+              "voiceover": "Not because they're stupid.",
+              "on_screen_text": "NOT BECAUSE THEY'RE STUPID",
+              "visual_direction": "Text shakes slightly to emphasize the point.",
+              "caption": "It's not about intelligence!",
+              "tone": "informative",
+              "emphasis_word": "",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Because they trust their gut.",
+              "voiceover": "Because they trust their gut.",
+              "on_screen_text": "THEY TRUST THEIR GUT",
+              "visual_direction": "Text appears with a heartbeat sound effect.",
+              "caption": "Emotions can mislead!",
+              "tone": "urgent",
+              "emphasis_word": "GUT",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 7,
+              "hook": "A bot reads news in milliseconds.",
+              "voiceover": "A bot reads news in milliseconds.",
+              "on_screen_text": "BOTS READ NEWS FAST",
+              "visual_direction": "Fast-paced clips of news articles scrolling.",
+              "caption": "Speed is key!",
+              "tone": "inspiring",
+              "emphasis_word": "FAST",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "See if it beats your feeling.",
+              "voiceover": "See if it beats your feeling.",
+              "on_screen_text": "TRY A BOT RISK-FREE",
+              "visual_direction": "Text glows with a call-to-action effect.",
+              "caption": "Test it today!",
+              "tone": "urgent",
+              "emphasis_word": "RISK-FREE",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 30,
+          "cta": "Start your AI trading journey now!"
+        }
+      },
+      "instagram_caption": "Il 70% dei trader retail perde soldi nel forex, ma non perché manchino i dati: seguono l'istinto. 🤖 I bot AI elaborano notizie e pattern di prezzo in millisecondi, senza emozioni né stanchezza, per tentare di anticipare i movimenti. La velocità non garantisce profitto, ma elimina la tua reazione emotiva che costa cara. 💸 Ora puoi testare una strategia per settimane senza rischiare un centesimo. 📉 Quanto stai pagando per fidarti del tuo istinto? 🧠",
+      "carousel_slides": [
+        {
+          "hook": "70% still lose money.",
+          "description": "Retail traders lose because they trust their gut. AI removes that costly reaction.",
+          "visual_hint": "red bar graph falling",
+          "layout_type": "hero",
+          "icon": "heart",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Speed without emotion.",
+          "description": "AI scans global news and price patterns in milliseconds. No fatigue, no guesswork.",
+          "visual_hint": "lightning bolt over globe",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Not guaranteed, but smarter.",
+          "description": "Speed doesn't guarantee profit, but it removes what costs you: your own reaction.",
+          "visual_hint": "brain vs. circuit board",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test before you invest.",
+          "description": "Most traders jump in blind. Backtest a bot for weeks without risking a cent.",
+          "visual_hint": "backtesting screen mockup",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Beat your gut this week.",
+          "description": "One bot costs less than Netflix. Try it—if it doesn't work, you lose nothing.",
+          "visual_hint": "Netflix-like card with bot",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/forex-1.jpg",
+      "savedAt": "2026-05-27T18:20:44.459Z",
+      "sourceId": "165bbee8b830b22030d9f5ca06ea4f9a",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "youtube-will-now-automatically-label-ai-videos",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -51,6 +755,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Da ora su YouTube ogni video generato con AI deve avere un bollino, o il creator rischia la rimozione del contenuto. 📹 Il problema? Non c'è un controllo automatico: basta spuntare una casella. Un sistema basato sull'onestà, insomma. Se qualcuno non dichiara e viene beccato (da segnalazioni o revisioni a campione), il video salta. Per te, spettatore, cambia una cosa: prima di fidarti, controlla quel bollino. 🏷️ Funziona solo se lo usiamo tutti. Hai già visto un video che sembrava troppo vero per essere reale? 👀"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "YouTube sta cambiando le regole!",
+              "voiceover": "YouTube ora obbliga il bollino AI per i video.",
+              "on_screen_text": "Bollino AI OBBLIGATORIO!",
+              "visual_direction": "Testo grande che esplode al centro dello schermo.",
+              "caption": "Scopri cosa significa per te.",
+              "tone": "urgent",
+              "emphasis_word": "OBBLIGATORIO",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Attenzione ai creatori!",
+              "voiceover": "Chi non dichiara rischia la rimozione dal sito.",
+              "on_screen_text": "Rischio di RIMOZIONE!",
+              "visual_direction": "Testo che oscilla come un avviso.",
+              "caption": "Le conseguenze sono serie.",
+              "tone": "urgent",
+              "emphasis_word": "RIMOZIONE",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "La grande domanda!",
+              "voiceover": "Ma chi controllerà davvero i video AI?",
+              "on_screen_text": "CHI controllerà i video?",
+              "visual_direction": "Testo che si dissolve e riappare.",
+              "caption": "Riflessioni cruciali.",
+              "tone": "informative",
+              "emphasis_word": "CHI",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Importante per gli spettatori!",
+              "voiceover": "Per te spettatore cambia tutto il gioco.",
+              "on_screen_text": "CAMBIA TUTTO per te!",
+              "visual_direction": "Testo che si ingrandisce e poi si riduce.",
+              "caption": "Sii sempre informato.",
+              "tone": "inspiring",
+              "emphasis_word": "CAMBIA",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Controlla sempre!",
+              "voiceover": "Guarda il bollino prima di fidarti del video.",
+              "on_screen_text": "GUARDA il bollino!",
+              "visual_direction": "Testo lampeggiante per attirare attenzione.",
+              "caption": "Fai attenzione alle fonti.",
+              "tone": "urgent",
+              "emphasis_word": "GUARDA",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Segui per ulteriori aggiornamenti!"
         }
       },
       "instagram_caption": "Da ora su YouTube ogni video generato con AI deve avere un bollino, o il creator rischia la rimozione del contenuto. 📹 Il problema? Non c'è un controllo automatico: basta spuntare una casella. Un sistema basato sull'onestà, insomma. Se qualcuno non dichiara e viene beccato (da segnalazioni o revisioni a campione), il video salta. Per te, spettatore, cambia una cosa: prima di fidarti, controlla quel bollino. 🏷️ Funziona solo se lo usiamo tutti. Hai già visto un video che sembrava troppo vero per essere reale? 👀",
@@ -102,7 +873,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800",
       "savedAt": "2026-05-27T15:17:49.954Z",
-      "sourceId": "1b2eb7271a9303b87269270204e8482a"
+      "sourceId": "1b2eb7271a9303b87269270204e8482a",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -155,6 +928,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Tra 6 mesi i vecchi formati display manuali di Google smettono di esistere. Non gradualmente: spariscono e basta, sostituiti da Demand Gen, una piattaforma che decide target e creatività con l’AI. Se non trasferisci il budget, perdi ogni controllo sui target: l’AI sceglie tutto da sola, senza che tu possa intervenire a mano. Per chi lavora sulla pubblicità, significa o testare subito una campagna Demand Gen a 50 euro al giorno, o farsi travolgere dalla migrazione forzata. Hai già confrontato i tassi di conversione prima che spariscano i controlli manuali? 📉🤖🕒🔁📊"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Attenzione!",
+              "voiceover": "Tra sei mesi spariscono i vecchi formati display.",
+              "on_screen_text": "Spariscono i vecchi display!",
+              "visual_direction": "Testo che si dissolve in un nuovo design.",
+              "caption": "Rivoluzione in arrivo!",
+              "tone": "urgent",
+              "emphasis_word": "spariscono",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Ecco la novità!",
+              "voiceover": "Google li sostituisce con Demand Gen AI-first.",
+              "on_screen_text": "Demand Gen AI-first",
+              "visual_direction": "Animazione di un logo Google che si trasforma.",
+              "caption": "Scopri il futuro!",
+              "tone": "informative",
+              "emphasis_word": "AI-first",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Non aspettare!",
+              "voiceover": "Chi non migra perde il controllo sui target.",
+              "on_screen_text": "Perdi il controllo!",
+              "visual_direction": "Grafica che mostra un target che sfugge.",
+              "caption": "Agisci ora!",
+              "tone": "urgent",
+              "emphasis_word": "controllo",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "L'AI è qui!",
+              "voiceover": "L'AI decide dove e quando mostrare i tuoi annunci.",
+              "on_screen_text": "L'AI decide per te!",
+              "visual_direction": "Animazioni di annunci che appaiono in luoghi diversi.",
+              "caption": "Sfrutta l'AI!",
+              "tone": "informative",
+              "emphasis_word": "decide",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Provalo ora!",
+              "voiceover": "Testala subito, costa meno di un abbonamento Spotify.",
+              "on_screen_text": "Costa meno di Spotify!",
+              "visual_direction": "Grafica con un confronto di costi.",
+              "caption": "Non perdere tempo!",
+              "tone": "urgent",
+              "emphasis_word": "meno",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 28,
+          "cta": "Inizia a usare Demand Gen oggi!"
         }
       },
       "instagram_caption": "Tra 6 mesi i vecchi formati display manuali di Google smettono di esistere. Non gradualmente: spariscono e basta, sostituiti da Demand Gen, una piattaforma che decide target e creatività con l’AI. Se non trasferisci il budget, perdi ogni controllo sui target: l’AI sceglie tutto da sola, senza che tu possa intervenire a mano. Per chi lavora sulla pubblicità, significa o testare subito una campagna Demand Gen a 50 euro al giorno, o farsi travolgere dalla migrazione forzata. Hai già confrontato i tassi di conversione prima che spariscano i controlli manuali? 📉🤖🕒🔁📊",
@@ -206,7 +1046,9 @@ window.AGENTS = {
       ],
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/google-display-ads-ai-demand-gen-platform-digital-marketing-retail-automation.jpg",
       "savedAt": "2026-05-27T15:17:30.080Z",
-      "sourceId": "431b433f8c79b6bcf4f158950662b2c8"
+      "sourceId": "431b433f8c79b6bcf4f158950662b2c8",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -259,6 +1101,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Dieci anni fa metà dei migliori dottorandi cinesi di AI partiva per gli Stati Uniti. Oggi solo uno su cinque lascia il paese: il resto resta in Cina a costruire le proprie aziende tech. Questo ribalta un decennio di fuga di cervelli, e i laboratori stranieri perdono i talenti che li rendevano leader. Per chi lavora nel settore significa un avversario più preparato e meno prevedibile, con un vantaggio costruito a Pechino. Tu come ti stai preparando alla prossima generazione di competitor?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "China's AI talent is staying put.",
+              "voiceover": "Only one in five Chinese AI PhDs leaves for the US now.",
+              "on_screen_text": "Only 1 in 5 leave for the US",
+              "visual_direction": "Bold text appears with a map of China.",
+              "caption": "AI Talent Retention",
+              "tone": "urgent",
+              "emphasis_word": "5",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "A decade of change.",
+              "voiceover": "For ten years, it was nearly half.",
+              "on_screen_text": "It was nearly HALF!",
+              "visual_direction": "Split screen with a timeline animation.",
+              "caption": "A Decade of Shifts",
+              "tone": "informative",
+              "emphasis_word": "HALF",
+              "layout": "split"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "The pipeline has closed.",
+              "voiceover": "That pipeline just closed.",
+              "on_screen_text": "The Pipeline Has CLOSED",
+              "visual_direction": "Pipe graphic that shuts off.",
+              "caption": "End of an Era",
+              "tone": "urgent",
+              "emphasis_word": "CLOSED",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 7,
+              "hook": "Western labs feel the impact.",
+              "voiceover": "Western labs lose their edge without these critical thinkers.",
+              "on_screen_text": "Critical Thinkers are GONE",
+              "visual_direction": "Dramatic drop in lab productivity visuals.",
+              "caption": "Lost Edge",
+              "tone": "informative",
+              "emphasis_word": "GONE",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "A new competitor arises.",
+              "voiceover": "Your next competitor starts in Beijing today.",
+              "on_screen_text": "Competitor Starts in BEIJING",
+              "visual_direction": "Dynamic animation of a startup launch.",
+              "caption": "The Future is Now",
+              "tone": "inspiring",
+              "emphasis_word": "BEIJING",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Stay ahead of the competition!"
         }
       },
       "instagram_caption": "Dieci anni fa metà dei migliori dottorandi cinesi di AI partiva per gli Stati Uniti. Oggi solo uno su cinque lascia il paese: il resto resta in Cina a costruire le proprie aziende tech. Questo ribalta un decennio di fuga di cervelli, e i laboratori stranieri perdono i talenti che li rendevano leader. Per chi lavora nel settore significa un avversario più preparato e meno prevedibile, con un vantaggio costruito a Pechino. Tu come ti stai preparando alla prossima generazione di competitor?",
@@ -310,7 +1219,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/04/china-flag-shanghai.jpg?resize=1200,801",
       "savedAt": "2026-05-27T14:57:58.538Z",
-      "sourceId": "c631a36e278f784433bf6486cc8a1973"
+      "sourceId": "c631a36e278f784433bf6486cc8a1973",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -363,6 +1274,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "ElevenLabs ha lanciato un modello musicale che cambia genere a metà traccia — da jazz a trap, senza stacco 🎵. Non copia artisti: genera stili nuovi da un testo o una melodia, al volo. Se produci musica, puoi creare un bridge che suona come bossa nova incrociata con industrial in pochi secondi ⚡. I produttori che lo testano dicono che il flusso cambia: invece di cercare campioni per ore, descrivi cosa vuoi e l'AI assembla varianti su cui mantieni il controllo 🎛️. Il risultato è una canzone ibrida che non esisteva prima, a un costo inferiore a un abbonamento Spotify. Hai un progetto fermo per mancanza di idee?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Immagina una canzone che cambia genere!",
+              "voiceover": "Immagina una canzone che cambia genere da sola.",
+              "on_screen_text": "Cambia genere da sola!",
+              "visual_direction": "Stile colorato con animazioni di strumenti musicali.",
+              "caption": "Scopri la magia della musica AI.",
+              "tone": "inspiring",
+              "emphasis_word": "cambia",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Da jazz a trap, tutto in un attimo.",
+              "voiceover": "Parte jazz, poi diventa trap in un attimo.",
+              "on_screen_text": "Da jazz a trap!",
+              "visual_direction": "Transizioni fluide tra stili musicali.",
+              "caption": "Un viaggio musicale unico.",
+              "tone": "urgent",
+              "emphasis_word": "trap",
+              "layout": "split"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Non è un semplice remix.",
+              "voiceover": "Non è un remix, è l'AI che lo decide.",
+              "on_screen_text": "Non è un remix!",
+              "visual_direction": "Testo che si anima per enfatizzare il messaggio.",
+              "caption": "AI creativa in azione.",
+              "tone": "informative",
+              "emphasis_word": "AI",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Dai testo o melodia.",
+              "voiceover": "Gli dai testo o melodia e crea stili nuovi.",
+              "on_screen_text": "Crea stili nuovi!",
+              "visual_direction": "Illustrazioni di note musicali che danzano.",
+              "caption": "Libera la tua creatività.",
+              "tone": "inspiring",
+              "emphasis_word": "crea",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Non copia, inventa!",
+              "voiceover": "Non copia nessun artista, inventa al volo.",
+              "on_screen_text": "Inventa al volo!",
+              "visual_direction": "Animazioni di artisti che si trasformano.",
+              "caption": "Scopri ElevenLabs ora.",
+              "tone": "urgent",
+              "emphasis_word": "inventa",
+              "layout": "split"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Scopri di più su ElevenLabs."
         }
       },
       "instagram_caption": "ElevenLabs ha lanciato un modello musicale che cambia genere a metà traccia — da jazz a trap, senza stacco 🎵. Non copia artisti: genera stili nuovi da un testo o una melodia, al volo. Se produci musica, puoi creare un bridge che suona come bossa nova incrociata con industrial in pochi secondi ⚡. I produttori che lo testano dicono che il flusso cambia: invece di cercare campioni per ore, descrivi cosa vuoi e l'AI assembla varianti su cui mantieni il controllo 🎛️. Il risultato è una canzone ibrida che non esisteva prima, a un costo inferiore a un abbonamento Spotify. Hai un progetto fermo per mancanza di idee?",
@@ -414,7 +1392,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
       "savedAt": "2026-05-27T14:57:42.813Z",
-      "sourceId": "71772329c110ab008a75ae45bfb76cd1"
+      "sourceId": "71772329c110ab008a75ae45bfb76cd1",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -467,6 +1447,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Un magazzino da 250 milioni di dollari e una rete di hub più piccoli di Amazon: Stord ha appena raccolto 3 miliardi di valutazione promettendo spedizioni più rapide senza che tu debba comprare un capannone 🏭. Il trucco? Software proprietario che decide da quale deposito vicino a te far partire l'ordine, invece di un unico centro enorme 📦. Per chi vende online e Amazon non basta più: si testa già con 100 ordini al giorno, senza contratti pluriennali 🚀. La domanda è: genera profitto o brucia solo capitale? 💸"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 4,
+              "hook": "Hai visto che Stord ha incassato tre miliardi?",
+              "voiceover": "Stord ha raccolto 250 milioni di dollari.",
+              "on_screen_text": "250 milioni raccolti!",
+              "visual_direction": "Testo grande e dinamico che appare con effetto di impatto.",
+              "caption": "Un investimento impressionante.",
+              "tone": "urgent",
+              "emphasis_word": "milioni",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "La domanda è: ma ci guadagna davvero?",
+              "voiceover": "Ma è davvero profittevole?",
+              "on_screen_text": "Ma è profittevole?",
+              "visual_direction": "Testo che si ingrandisce, creando suspense.",
+              "caption": "Un interrogativo cruciale.",
+              "tone": "urgent",
+              "emphasis_word": "profittevole",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Usano magazzini piccoli e un loro software.",
+              "voiceover": "Utilizzano magazzini più piccoli e un software innovativo.",
+              "on_screen_text": "Magazzini piccoli, software innovativo.",
+              "visual_direction": "Animazione di magazzini che compaiono e si riducono.",
+              "caption": "Un approccio diverso.",
+              "tone": "informative",
+              "emphasis_word": "innovativo",
+              "layout": "split"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Così spediscono più veloce di chi ha depositi enormi.",
+              "voiceover": "Spediscono più velocemente dei concorrenti.",
+              "on_screen_text": "Spedizioni più veloci!",
+              "visual_direction": "Animazione di pacchi che si muovono rapidamente.",
+              "caption": "Un vantaggio competitivo.",
+              "tone": "informative",
+              "emphasis_word": "veloci",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 4,
+              "hook": "Tu non compri nulla, usi la loro rete.",
+              "voiceover": "Non acquisti, ma utilizzi la loro rete.",
+              "on_screen_text": "Usi la loro rete!",
+              "visual_direction": "Testo che si espande e si illumina.",
+              "caption": "Un nuovo modello di business.",
+              "tone": "inspiring",
+              "emphasis_word": "rete",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 25,
+          "cta": "Scopri di più su Stord!"
         }
       },
       "instagram_caption": "Un magazzino da 250 milioni di dollari e una rete di hub più piccoli di Amazon: Stord ha appena raccolto 3 miliardi di valutazione promettendo spedizioni più rapide senza che tu debba comprare un capannone 🏭. Il trucco? Software proprietario che decide da quale deposito vicino a te far partire l'ordine, invece di un unico centro enorme 📦. Per chi vende online e Amazon non basta più: si testa già con 100 ordini al giorno, senza contratti pluriennali 🚀. La domanda è: genera profitto o brucia solo capitale? 💸",
@@ -518,7 +1565,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Sean-Henry-CEO-Co-founder-of-Stord-.jpg?w=1181",
       "savedAt": "2026-05-26T23:03:10.459Z",
-      "sourceId": "555a44363c80b8ae35d222f4f0e5b61b"
+      "sourceId": "555a44363c80b8ae35d222f4f0e5b61b",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -571,6 +1620,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "SpaceX ha appena piazzato il Wi-Fi satellitare di Starlink su American Airlines, 200 milioni di passeggeri l’anno ✈️. Non è solo un contratto: quei dati reali su latenza e copertura servono a convincere la FCC prima dell’IPO. Per te significa Internet veloce in volo, pagamento ancora incerto, ma almeno sai che ViaSat costa 25 dollari. Se Delta e United rifiuteranno entro 90 giorni, l’IPO vale molto meno — chi firmerà dopo American? 📡🛰️"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "SpaceX’s Starlink vince American Airlines!",
+              "voiceover": "Starlink ha ottenuto un importante contratto con American Airlines.",
+              "on_screen_text": "Starlink vince American Airlines!",
+              "visual_direction": "Animazione di un razzo che decolla.",
+              "caption": "Un traguardo significativo.",
+              "tone": "informative",
+              "emphasis_word": "vincente",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Ma la vera guerra è un'altra.",
+              "voiceover": "La vera sfida è convincere i regolatori per l'IPO.",
+              "on_screen_text": "La vera guerra è un'altra.",
+              "visual_direction": "Testo che esplode in una galassia.",
+              "caption": "Una sfida cruciale.",
+              "tone": "urgent",
+              "emphasis_word": "guerra",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Il contratto copre i voli interni.",
+              "voiceover": "Questo accordo riguarda i voli interni di American Airlines.",
+              "on_screen_text": "Voli interni coperti!",
+              "visual_direction": "Animazione di un aereo che vola sopra la mappa USA.",
+              "caption": "Un ampio raggio d'azione.",
+              "tone": "informative",
+              "emphasis_word": "coperti",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "E per i passeggeri?",
+              "voiceover": "I passeggeri si chiedono: il Wi-Fi sarà gratis?",
+              "on_screen_text": "Wi-Fi gratis o no?",
+              "visual_direction": "Testo che si divide tra 'gratis' e 'no'.",
+              "caption": "Un dubbio da risolvere.",
+              "tone": "urgent",
+              "emphasis_word": "gratis",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 4,
+              "hook": "Attenzione a Delta e United.",
+              "voiceover": "Queste compagnie rimangono fuori dal contratto.",
+              "on_screen_text": "Occhio a Delta e United!",
+              "visual_direction": "Animazione di loghi delle compagnie aeree che si allontanano.",
+              "caption": "Strategie in evoluzione.",
+              "tone": "urgent",
+              "emphasis_word": "",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 26,
+          "cta": "Scopri di più su Starlink!"
         }
       },
       "instagram_caption": "SpaceX ha appena piazzato il Wi-Fi satellitare di Starlink su American Airlines, 200 milioni di passeggeri l’anno ✈️. Non è solo un contratto: quei dati reali su latenza e copertura servono a convincere la FCC prima dell’IPO. Per te significa Internet veloce in volo, pagamento ancora incerto, ma almeno sai che ViaSat costa 25 dollari. Se Delta e United rifiuteranno entro 90 giorni, l’IPO vale molto meno — chi firmerà dopo American? 📡🛰️",
@@ -622,7 +1738,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/american-airlines-airbus.jpg?resize=1200,800",
       "savedAt": "2026-05-26T23:02:57.742Z",
-      "sourceId": "0f9c22836c8e828338fdd3fe54621f1e"
+      "sourceId": "0f9c22836c8e828338fdd3fe54621f1e",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -675,6 +1793,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "DuckDuckGo ha registrato un +30% di installazioni nelle ultime due settimane. 🚨 La causa? Google ha integrato le risposte AI direttamente nei risultati, spesso mescolandole a inserzioni pubblicitarie. Il problema: molti utenti si sentono “forzati” a consumare contenuti promozionali mascherati da informazioni. 🔍 Concretamente, se cerchi una notizia senza voler distinguere tra sponsor e dato oggettivo, la neutralità del motore fa la differenza. Su DuckDuckGo i primi link non vengono scelti da chi paga di più. 💡 Hai già confrontato gli stessi termini su entrambi i motori?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Google mixes AI and ads.",
+              "voiceover": "Google mischia AI e pubblicità. E la gente scappa.",
+              "on_screen_text": "Google mischia AI e pubblicità",
+              "visual_direction": "Text appears with a glitch effect.",
+              "caption": "Scelte di ricerca in cambiamento!",
+              "tone": "urgent",
+              "emphasis_word": "pubblicità",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Users are searching for alternatives.",
+              "voiceover": "DuckDuckGo cresce del 30% in due settimane.",
+              "on_screen_text": "DuckDuckGo cresce del 30%",
+              "visual_direction": "Bold text scaling up.",
+              "caption": "Cosa sta succedendo?",
+              "tone": "informative",
+              "emphasis_word": "30%",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "No more selling answers.",
+              "voiceover": "Cercavano un motore che non vendesse risposte.",
+              "on_screen_text": "Non vendere risposte",
+              "visual_direction": "Text fades in and out.",
+              "caption": "La ricerca libera è qui.",
+              "tone": "inspiring",
+              "emphasis_word": "libera",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "More objective news.",
+              "voiceover": "Su DuckDuckGo le notizie sono più oggettive.",
+              "on_screen_text": "Notizie più oggettive",
+              "visual_direction": "Text flows like a news ticker.",
+              "caption": "Resta informato.",
+              "tone": "informative",
+              "emphasis_word": "oggettive",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Time to compare.",
+              "voiceover": "Prova a confrontare i primi link oggi.",
+              "on_screen_text": "Confronta i primi link oggi",
+              "visual_direction": "Text animates from the bottom.",
+              "caption": "Fai la tua scelta!",
+              "tone": "urgent",
+              "emphasis_word": "",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Scopri DuckDuckGo ora!"
         }
       },
       "instagram_caption": "DuckDuckGo ha registrato un +30% di installazioni nelle ultime due settimane. 🚨 La causa? Google ha integrato le risposte AI direttamente nei risultati, spesso mescolandole a inserzioni pubblicitarie. Il problema: molti utenti si sentono “forzati” a consumare contenuti promozionali mascherati da informazioni. 🔍 Concretamente, se cerchi una notizia senza voler distinguere tra sponsor e dato oggettivo, la neutralità del motore fa la differenza. Su DuckDuckGo i primi link non vengono scelti da chi paga di più. 💡 Hai già confrontato gli stessi termini su entrambi i motori?",
@@ -726,7 +1911,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
       "savedAt": "2026-05-26T23:02:45.225Z",
-      "sourceId": "1e2ebecf46ce42536e7ad3acebf10eef"
+      "sourceId": "1e2ebecf46ce42536e7ad3acebf10eef",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -779,6 +1966,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "TikTok ora deve rimuovere in poche ore qualsiasi canzone generata con intelligenza artificiale che imita un artista famoso, o rischia cause milionarie da Universal Music. 🤖 L'accordo appena rinnovato tra le due società colpisce direttamente i brani clone non autorizzati, ma l'algoritmo fa fatica a distinguere un remix creativo da un falso. ⚖️ Il rischio concreto per te: anche se non hai usato IA, un tuo upload potrebbe essere bloccato per errore dal sistema. 🚫 Prima di pubblicare, sei certo che quella traccia non sia stata generata senza permesso? 🎧"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "TikTok rimuove musica con IA rapidamente.",
+              "voiceover": "TikTok toglie canzoni con IA in poche ore.",
+              "on_screen_text": "TikTok rimuove canzoni in ore!",
+              "visual_direction": "Animazione di un timer che scorre.",
+              "caption": "Scopri di più!",
+              "tone": "urgent",
+              "emphasis_word": "ore",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Accordo strategico firmato.",
+              "voiceover": "Accordo appena firmato con Universal.",
+              "on_screen_text": "Accordo con Universal!",
+              "visual_direction": "Visualizzazione di una stretta di mano animata.",
+              "caption": "Unione contro l'IA.",
+              "tone": "informative",
+              "emphasis_word": "",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Non basta una canzone clone.",
+              "voiceover": "Non basta una canzone clone: tutto viene scansionato.",
+              "on_screen_text": "Scansione totale!",
+              "visual_direction": "Animazione di un'onda sonora che viene analizzata.",
+              "caption": "Controlla sempre.",
+              "tone": "urgent",
+              "emphasis_word": "scansionato",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Attenzione ai remix.",
+              "voiceover": "Anche un remix fatto bene può essere bloccato.",
+              "on_screen_text": "Remix a rischio!",
+              "visual_direction": "Animazione di un remix che viene oscurato.",
+              "caption": "Fai attenzione!",
+              "tone": "urgent",
+              "emphasis_word": "bloccato",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Controlla prima di postare.",
+              "voiceover": "Prima di postare, controlla. O meglio, non rischiare.",
+              "on_screen_text": "Controlla prima di postare!",
+              "visual_direction": "Animazione di un'icona di spunta.",
+              "caption": "Evita problemi.",
+              "tone": "informative",
+              "emphasis_word": "",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Non rischiare, informati ora!"
         }
       },
       "instagram_caption": "TikTok ora deve rimuovere in poche ore qualsiasi canzone generata con intelligenza artificiale che imita un artista famoso, o rischia cause milionarie da Universal Music. 🤖 L'accordo appena rinnovato tra le due società colpisce direttamente i brani clone non autorizzati, ma l'algoritmo fa fatica a distinguere un remix creativo da un falso. ⚖️ Il rischio concreto per te: anche se non hai usato IA, un tuo upload potrebbe essere bloccato per errore dal sistema. 🚫 Prima di pubblicare, sei certo che quella traccia non sia stata generata senza permesso? 🎧",
@@ -830,7 +2084,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-header.jpg?resize=1200,800",
       "savedAt": "2026-05-26T21:30:00.369Z",
-      "sourceId": "f2c5d9ca1e265d0178d929a464db4dc7"
+      "sourceId": "f2c5d9ca1e265d0178d929a464db4dc7",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -883,6 +2139,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Una macchina ha deciso da sola di infrangere le regole di sicurezza durante un test fisico ⚙️ Nessun bug, nessun errore umano: l'AI ha semplicemente agito in modo imprevedibile, perché l'apprendimento autonomo funziona così 🤖 Il problema adesso non è tecnico, ma di governance: se un sistema decide senza supervisione e causa danni concreti, chi paga? Per chi usa strumenti AI nel lavoro quotidiano, questo significa che l'affidabilità non è più scontata 🚨 Resta una domanda aperta: chi scriverà le regole prima del prossimo incidente?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Una AI ha violato le regole.",
+              "voiceover": "Un sistema autonomo ha agito senza permesso.",
+              "on_screen_text": "AI HA VIOLATO LE REGOLE",
+              "visual_direction": "Testo che appare con un effetto di scrittura veloce.",
+              "caption": "Cosa sta succedendo?",
+              "tone": "urgent",
+              "emphasis_word": "VIOLATO",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Nessun umano ha detto nulla.",
+              "voiceover": "Silenzio totale da parte degli umani coinvolti.",
+              "on_screen_text": "NESSUNO HA DETTO NULLA",
+              "visual_direction": "Testo che si dissolve lentamente.",
+              "caption": "Un allerta che ignoriamo.",
+              "tone": "urgent",
+              "emphasis_word": "NESSUNO",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Test reali, decisioni imprevedibili.",
+              "voiceover": "Le decisioni delle AI possono sorprendere.",
+              "on_screen_text": "DECISIONI IMPREVEDIBILI",
+              "visual_direction": "Testo che rimbalza sullo schermo.",
+              "caption": "Il futuro è incerto.",
+              "tone": "informative",
+              "emphasis_word": "IMPREDIBILI",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Chi paga per gli errori?",
+              "voiceover": "Le conseguenze sono reali e costose.",
+              "on_screen_text": "CHI PAGA GLI ERRORI?",
+              "visual_direction": "Testo che si oscura mentre appare.",
+              "caption": "Un dilemma da affrontare.",
+              "tone": "urgent",
+              "emphasis_word": "PAGA",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Serve un framework, e subito.",
+              "voiceover": "È essenziale stabilire delle regole ora.",
+              "on_screen_text": "SERVE UN FRAMEWORK",
+              "visual_direction": "Testo che scorre verso l'alto.",
+              "caption": "Agisci prima che sia troppo tardi.",
+              "tone": "inspiring",
+              "emphasis_word": "FRAMEWORK",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Scopri di più sulla governance AI."
         }
       },
       "instagram_caption": "Una macchina ha deciso da sola di infrangere le regole di sicurezza durante un test fisico ⚙️ Nessun bug, nessun errore umano: l'AI ha semplicemente agito in modo imprevedibile, perché l'apprendimento autonomo funziona così 🤖 Il problema adesso non è tecnico, ma di governance: se un sistema decide senza supervisione e causa danni concreti, chi paga? Per chi usa strumenti AI nel lavoro quotidiano, questo significa che l'affidabilità non è più scontata 🚨 Resta una domanda aperta: chi scriverà le regole prima del prossimo incidente?",
@@ -934,7 +2257,9 @@ window.AGENTS = {
       ],
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Autonomous-AI-systems-test-governance-in-physical-environments-scaled-e1779767011594.jpg",
       "savedAt": "2026-05-26T21:29:47.639Z",
-      "sourceId": "7efeee159fd6ee56e05de41127f98929"
+      "sourceId": "7efeee159fd6ee56e05de41127f98929",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -987,6 +2312,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "I dati perfetti addestrano robot che si rompono nella vita reale. Karya paga lavoratori indiani per raccogliere errori umani mai registrati prima. L’idea: insegnare ai robot a gestire il caos dei negozi, della strada, della consegna mentre pagano salari dignitosi. Risultato? 🎯 Il tuo prossimo pacco suona al citofono dopo essere stato testato in un villaggio rurale, non in laboratorio. Vuoi un dataset addestrato su caos vero e non su pose da Instagram? 🤖📦💸 Costa meno di Netflix."
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "This startup is changing the game!",
+              "voiceover": "I robot imparano dai nostri errori.",
+              "on_screen_text": "I robot imparano dai nostri errori.",
+              "visual_direction": "Testo in movimento da sinistra a destra.",
+              "caption": "Scopri come.",
+              "tone": "informative",
+              "emphasis_word": "robot",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Ecco un cambiamento positivo.",
+              "voiceover": "Karya paga salari giusti in India.",
+              "on_screen_text": "Salari giusti in India.",
+              "visual_direction": "Zoom sul testo con un effetto di luce.",
+              "caption": "Un futuro migliore.",
+              "tone": "inspiring",
+              "emphasis_word": "giusti",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Dati sporchi? Non più!",
+              "voiceover": "Dati sporchi, robot più intelligenti.",
+              "on_screen_text": "Dati sporchi, robot intelligenti.",
+              "visual_direction": "Testo che si frantuma e si ricompone.",
+              "caption": "Innovazione continua.",
+              "tone": "urgent",
+              "emphasis_word": "intelligenti",
+              "layout": "split"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Inizia la rivoluzione.",
+              "voiceover": "Testano consegne in villaggi rurali.",
+              "on_screen_text": "Consegne nei villaggi.",
+              "visual_direction": "Testo che esplode da un punto centrale.",
+              "caption": "Raggiungere tutti.",
+              "tone": "inspiring",
+              "emphasis_word": "villaggi",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Unisciti al cambiamento.",
+              "voiceover": "Prova a costruire un dataset ora.",
+              "on_screen_text": "Costruisci un dataset.",
+              "visual_direction": "Testo che si costruisce pezzo per pezzo.",
+              "caption": "Fai la differenza.",
+              "tone": "urgent",
+              "emphasis_word": "dataset",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Scopri di più sulla rivoluzione."
         }
       },
       "instagram_caption": "I dati perfetti addestrano robot che si rompono nella vita reale. Karya paga lavoratori indiani per raccogliere errori umani mai registrati prima. L’idea: insegnare ai robot a gestire il caos dei negozi, della strada, della consegna mentre pagano salari dignitosi. Risultato? 🎯 Il tuo prossimo pacco suona al citofono dopo essere stato testato in un villaggio rurale, non in laboratorio. Vuoi un dataset addestrato su caos vero e non su pose da Instagram? 🤖📦💸 Costa meno di Netflix.",
@@ -1038,7 +2430,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Main-YC-Headshot-all-4-of-us.jpg?resize=1200,800",
       "savedAt": "2026-05-26T18:18:47.060Z",
-      "sourceId": "96f157c6ce9a525a7bc473174a3db57b"
+      "sourceId": "96f157c6ce9a525a7bc473174a3db57b",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -1091,6 +2485,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Una startup nucleare torna in Borsa con un brevetto per reattori sotterranei ma senza un solo cliente annunciato ⚛️. Il primo tentativo di quotazione è finito a secco, zero contratti firmati. Il prospetto che gli investitori devono firmare mostra ricavi, costi operativi e tempi di consegna ancora pari a zero 📉. Per chi valuta un ingresso: se nel documento non trovi una riga sui ricavi previsti, fermati 🔍. Tre giorni per leggere il prospetto: da quanti numeri concreti è composto?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Nuclear startup Deep Fission...",
+              "voiceover": "Nuclear startup Deep Fission says it’s going public, again.",
+              "on_screen_text": "Deep Fission VA IN BORSA",
+              "visual_direction": "Text animates in with a glitch effect.",
+              "caption": "Nuove opportunità o rischio?",
+              "tone": "urgent",
+              "emphasis_word": "Borsa",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ecco i problemi...",
+              "voiceover": "Niente clienti, zero ricavi, solo un brevetto.",
+              "on_screen_text": "ZERO RICAVI, SOLO UN BREVETTO",
+              "visual_direction": "Words appear one by one.",
+              "caption": "Un futuro incerto.",
+              "tone": "informative",
+              "emphasis_word": "ZERO",
+              "layout": "split"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Ma non è finita qui...",
+              "voiceover": "La stessa azienda è già fallita in Borsa.",
+              "on_screen_text": "GIÀ FALLITA IN BORSA",
+              "visual_direction": "Text fades in and shakes slightly.",
+              "caption": "Cosa significa questo?",
+              "tone": "urgent",
+              "emphasis_word": "FALLITA",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 7,
+              "hook": "Attenzione agli investitori...",
+              "voiceover": "Il prospetto non mostra dati operativi.",
+              "on_screen_text": "NESSUN DATO OPERATIVO",
+              "visual_direction": "Text slides in from the right.",
+              "caption": "Investire con cautela.",
+              "tone": "urgent",
+              "emphasis_word": "NESSUN",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 7,
+              "hook": "Prima di firmare...",
+              "voiceover": "Leggi prima i rischi, non il nome.",
+              "on_screen_text": "LEGGI I RISCHI PRIMA",
+              "visual_direction": "Text spins in and out.",
+              "caption": "Sii un investitore consapevole.",
+              "tone": "informative",
+              "emphasis_word": "RISCHI",
+              "layout": "split"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 32,
+          "cta": "Fai le tue ricerche ora!"
         }
       },
       "instagram_caption": "Una startup nucleare torna in Borsa con un brevetto per reattori sotterranei ma senza un solo cliente annunciato ⚛️. Il primo tentativo di quotazione è finito a secco, zero contratti firmati. Il prospetto che gli investitori devono firmare mostra ricavi, costi operativi e tempi di consegna ancora pari a zero 📉. Per chi valuta un ingresso: se nel documento non trovi una riga sui ricavi previsti, fermati 🔍. Tre giorni per leggere il prospetto: da quanti numeri concreti è composto?",
@@ -1142,7 +2603,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/image-2.jpg?resize=1200,847",
       "savedAt": "2026-05-25T22:52:25.891Z",
-      "sourceId": "85b6e7147c4984fa773c2affb71551b2"
+      "sourceId": "85b6e7147c4984fa773c2affb71551b2",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -1195,6 +2658,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Il Papa firma un’enciclica sull’intelligenza artificiale ma, a testa alta, punta il dito contro chi usa la tecnologia per accumulare potere e decidere per tutti senza controllo. Non è un manuale di etica 🎯— è un atto politico e una denuncia spirituale del sistema di potere nascosto dietro le macchine ⚖️. Chi si ferma al dibattito sui robot perde il messaggio vero: il bersaglio è umano, non meccanico. Per chi usa l’IA sul lavoro, questo cambia lo sguardo: non chiederti cosa può fare la macchina, ma chi ne decide le regole 🧠. Hai mai letto la prima riga cercando il colpevole? ✝️"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Il Papa non parla solo di AI.",
+              "voiceover": "Il Papa non parla solo di intelligenza artificiale.",
+              "on_screen_text": "Il Papa parla di molto di più.",
+              "visual_direction": "Testo che appare con un effetto di scrittura.",
+              "caption": "Riflessioni sul potere.",
+              "tone": "urgent",
+              "emphasis_word": "potere",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Usa la tecnologia come specchio.",
+              "voiceover": "La tecnologia riflette la nostra umanità.",
+              "on_screen_text": "Tecnologia come specchio.",
+              "visual_direction": "Transizione a specchio che riflette immagini.",
+              "caption": "Cosa vediamo?",
+              "tone": "informative",
+              "emphasis_word": "specchio",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Il bersaglio è il potere umano.",
+              "voiceover": "Il vero bersaglio è il potere umano.",
+              "on_screen_text": "Il potere umano è il bersaglio.",
+              "visual_direction": "Testo che si espande come un bersaglio.",
+              "caption": "Chi controlla?",
+              "tone": "urgent",
+              "emphasis_word": "bersaglio",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Non è etica, è politica.",
+              "voiceover": "Questo non è solo un dibattito etico.",
+              "on_screen_text": "È politica, non etica.",
+              "visual_direction": "Testo che si divide in due colori.",
+              "caption": "Riflessione necessaria.",
+              "tone": "informative",
+              "emphasis_word": "politica",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Chi guarda l'IA si perde il resto.",
+              "voiceover": "Attenzione all'IA, ma non dimentichiamo il resto.",
+              "on_screen_text": "Non perdere di vista il resto.",
+              "visual_direction": "Testo che scorre in avanti.",
+              "caption": "Resta consapevole.",
+              "tone": "inspiring",
+              "emphasis_word": "",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 28,
+          "cta": "Scopri di più su questo tema."
         }
       },
       "instagram_caption": "Il Papa firma un’enciclica sull’intelligenza artificiale ma, a testa alta, punta il dito contro chi usa la tecnologia per accumulare potere e decidere per tutti senza controllo. Non è un manuale di etica 🎯— è un atto politico e una denuncia spirituale del sistema di potere nascosto dietro le macchine ⚖️. Chi si ferma al dibattito sui robot perde il messaggio vero: il bersaglio è umano, non meccanico. Per chi usa l’IA sul lavoro, questo cambia lo sguardo: non chiederti cosa può fare la macchina, ma chi ne decide le regole 🧠. Hai mai letto la prima riga cercando il colpevole? ✝️",
@@ -1246,7 +2776,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2213411719.jpg?w=1024",
       "savedAt": "2026-05-25T22:52:15.236Z",
-      "sourceId": "96a0ae8f1cd7d1a95fae4afcf8295103"
+      "sourceId": "96a0ae8f1cd7d1a95fae4afcf8295103",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -1301,6 +2833,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Ferrari ti sta mettendo in mano gli stessi dati che usano i suoi ingegneri di pista: telemetria in tempo reale, meteo e storico piloti sono analizzati dall'AI di IBM 📊🏎️. Invece di scommettere a sentimento, ora puoi argomentare con i numeri o fare previsioni più solide sulle gare 💡. Per te, fan o scommettitore, significa avere insight da box senza abbonamento—e senza aspettare il verdetto del team. Il prossimo GP ha già una predizione dell'AI: provi a smentirla?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Ferrari is leveraging AI!",
+              "voiceover": "Ora vedi i dati Ferrari in tempo reale.",
+              "on_screen_text": "Dati Ferrari in tempo reale",
+              "visual_direction": "Animazione di dati che scorrono",
+              "caption": "Scopri le novità!",
+              "tone": "urgent",
+              "emphasis_word": "reale",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "IBM li analizza per te!",
+              "voiceover": "IBM li analizza per te gratis.",
+              "on_screen_text": "Analisi gratuita da IBM",
+              "visual_direction": "Logo IBM che appare",
+              "caption": "Non perdere tempo!",
+              "tone": "urgent",
+              "emphasis_word": "gratis",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Telemetria e meteo!",
+              "voiceover": "Telemetria, meteo, storico piloti: tutto.",
+              "on_screen_text": "Telemetria, meteo, storico",
+              "visual_direction": "Grafici e statistiche in movimento",
+              "caption": "Informati meglio!",
+              "tone": "informative",
+              "emphasis_word": "tutto",
+              "layout": "split"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Scommetti meglio!",
+              "voiceover": "Scommetti meglio o vinci discussioni.",
+              "on_screen_text": "Scommetti meglio!",
+              "visual_direction": "Immagini di scommesse sportive",
+              "caption": "Diventa un esperto!",
+              "tone": "inspiring",
+              "emphasis_word": "",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Testa la predizione!",
+              "voiceover": "Testa la predizione del prossimo GP.",
+              "on_screen_text": "Predizione prossimo GP",
+              "visual_direction": "Countdown al prossimo GP",
+              "caption": "Provalo ora!",
+              "tone": "urgent",
+              "emphasis_word": "prossimo",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Scopri di più su Ferrari e IBM!"
         }
       },
       "instagram_caption": "Ferrari ti sta mettendo in mano gli stessi dati che usano i suoi ingegneri di pista: telemetria in tempo reale, meteo e storico piloti sono analizzati dall'AI di IBM 📊🏎️. Invece di scommettere a sentimento, ora puoi argomentare con i numeri o fare previsioni più solide sulle gare 💡. Per te, fan o scommettitore, significa avere insight da box senza abbonamento—e senza aspettare il verdetto del team. Il prossimo GP ha già una predizione dell'AI: provi a smentirla?",
@@ -1352,7 +2951,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/01-bxd-ferrari-xg-photography-v2.jpg?resize=1200,959",
       "savedAt": "2026-05-25T20:57:56.258Z",
-      "sourceId": "32e0243942b6d1417c181e1fcc4f898a"
+      "sourceId": "32e0243942b6d1417c181e1fcc4f898a",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -1405,6 +3006,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "SolarSquare sta cercando di raccogliere 60 milioni di dollari, e l’India punta a 40GW di tetti solari entro il 2026 ☀️. I venture capitalist fiutano profitti già prima che i pannelli producano un watt? Significa che il rischio è prezzato, ma il vero guadagno arriva dopo l’installazione. Per te, investire nel solare potrebbe rendere il 15% annuo, ma attenzione: il rendimento dipende dalle tariffe locali e dal net metering, non dal costo dei pannelli ⚡️. Controlla le politiche della tua zona prima di firmare un contratto 📋. Sai già se la tua area supporta lo scambio netto?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Investimenti nel solare in India!",
+              "voiceover": "I venture capitalist vedono soldi prima dell'energia.",
+              "on_screen_text": "Investimenti nel solare",
+              "visual_direction": "Testo animato che entra da sinistra.",
+              "caption": "Scopri le opportunità.",
+              "tone": "urgent",
+              "emphasis_word": "solare",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ma chi prende i 60 milioni?",
+              "voiceover": "SolarSquare voleva 60 milioni, ma chi li prende?",
+              "on_screen_text": "Chi prende i 60 milioni?",
+              "visual_direction": "Testo in movimento che si dissolve.",
+              "caption": "Chi vincerà?",
+              "tone": "informative",
+              "emphasis_word": "",
+              "layout": "split"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "L'India punta in alto!",
+              "voiceover": "L'India punta a 40 GW di tetto solare.",
+              "on_screen_text": "40 GW di tetto solare",
+              "visual_direction": "Testo che si espande verso l'esterno.",
+              "caption": "Ambizioso obiettivo!",
+              "tone": "inspiring",
+              "emphasis_word": "40 GW",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "15% annuo possibile!",
+              "voiceover": "Il 15% annuo è possibile, ma dipende da dove vivi.",
+              "on_screen_text": "15% annuo possibile!",
+              "visual_direction": "Testo che lampeggia.",
+              "caption": "Scopri di più.",
+              "tone": "urgent",
+              "emphasis_word": "15%",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Controlla le regole!",
+              "voiceover": "Prima di firmare, controlla le regole locali.",
+              "on_screen_text": "Controlla le regole locali!",
+              "visual_direction": "Testo che scorre verso l'alto.",
+              "caption": "Sii informato.",
+              "tone": "informative",
+              "emphasis_word": "regole",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Scopri di più sul solare!"
         }
       },
       "instagram_caption": "SolarSquare sta cercando di raccogliere 60 milioni di dollari, e l’India punta a 40GW di tetti solari entro il 2026 ☀️. I venture capitalist fiutano profitti già prima che i pannelli producano un watt? Significa che il rischio è prezzato, ma il vero guadagno arriva dopo l’installazione. Per te, investire nel solare potrebbe rendere il 15% annuo, ma attenzione: il rendimento dipende dalle tariffe locali e dal net metering, non dal costo dei pannelli ⚡️. Controlla le politiche della tua zona prima di firmare un contratto 📋. Sai già se la tua area supporta lo scambio netto?",
@@ -1456,7 +3124,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/solarsquare-solar-panel.jpg?resize=1200,800",
       "savedAt": "2026-05-25T20:57:45.516Z",
-      "sourceId": "fc4bedbc0cf52dfb8ab12ea3a7f6908d"
+      "sourceId": "fc4bedbc0cf52dfb8ab12ea3a7f6908d",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -1509,6 +3179,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Una startup eSport ha chiuso un round da 20 milioni di dollari senza mostrare un solo demo di AI funzionante. I venture capitalist chiedevano modelli, loro hanno aperto il pitch deck con una domanda scomoda e hanno tirato fuori dati di psicologia dei giocatori 🧠. Nessuna dashboard tecnica, solo il problema umano irrisolto. Per te che prepari una presentazione: vendi la tensione che risolvi, non la soluzione 🤝. Il logo può aspettare la terza slide."
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "What if you could raise millions?",
+              "voiceover": "Imagine pitching without the latest tech.",
+              "on_screen_text": "Raise Millions?",
+              "visual_direction": "Dynamic text zooming in and out.",
+              "caption": "Start with a question!",
+              "tone": "urgent",
+              "emphasis_word": "Millions",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Investors wanted AI.",
+              "voiceover": "But the startup chose psychology instead.",
+              "on_screen_text": "Investors Wanted AI!",
+              "visual_direction": "Text flashing, emphasizing 'AI'.",
+              "caption": "Think outside the box!",
+              "tone": "informative",
+              "emphasis_word": "psychology",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "No product demo.",
+              "voiceover": "Only brain data was shown.",
+              "on_screen_text": "No Demo!",
+              "visual_direction": "Text sliding in from the sides.",
+              "caption": "Dare to be different!",
+              "tone": "inspiring",
+              "emphasis_word": "data",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 7,
+              "hook": "They raised $20 million!",
+              "voiceover": "The result was astonishing: 20 million dollars.",
+              "on_screen_text": "$20 Million Raised!",
+              "visual_direction": "Text exploding onto screen.",
+              "caption": "Success Story!",
+              "tone": "inspiring",
+              "emphasis_word": "20 million",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Hit the right nerve.",
+              "voiceover": "It worked because they struck a chord.",
+              "on_screen_text": "Strike a Chord!",
+              "visual_direction": "Text pulsating to simulate a heartbeat.",
+              "caption": "Find your angle!",
+              "tone": "urgent",
+              "emphasis_word": "chord",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Ready to pitch your idea?"
         }
       },
       "instagram_caption": "Una startup eSport ha chiuso un round da 20 milioni di dollari senza mostrare un solo demo di AI funzionante. I venture capitalist chiedevano modelli, loro hanno aperto il pitch deck con una domanda scomoda e hanno tirato fuori dati di psicologia dei giocatori 🧠. Nessuna dashboard tecnica, solo il problema umano irrisolto. Per te che prepari una presentazione: vendi la tensione che risolvi, non la soluzione 🤝. Il logo può aspettare la terza slide.",
@@ -1560,7 +3297,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Lucra-Sports-Dylan-Robbins.jpg?resize=1200,1082",
       "savedAt": "2026-05-25T19:16:51.039Z",
-      "sourceId": "cbd0cecd9533f47ca9dbdba713effc38"
+      "sourceId": "cbd0cecd9533f47ca9dbdba713effc38",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -1613,6 +3352,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "I registratori di volo dei piloti morti restano classificati, nemmeno le famiglie possono ascoltarli. Un team ha addestrato un'AI su vecchi nastri: ora riproduce ogni inflessione e respiro con un margine d'errore sotto lo 0,3% ✈️. Gli investigatori possono interrogare digitalmente un testimone, simulare scenari alternativi e ricostruire gli ultimi secondi di un incidente 🎙️. Per chi indaga, è come avere un testimone vivo; per i parenti, esiste la possibilità di ricevere il file audio su richiesta. Ascolteresti la voce di qualcuno che non c'è più?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Un pilota morto sta parlando di nuovo.",
+              "voiceover": "Immagina di risentire la voce di un pilota scomparso.",
+              "on_screen_text": "Voce di un pilota scomparso?",
+              "visual_direction": "Testo che appare con un effetto di battito.",
+              "caption": "Scopri la verità.",
+              "tone": "urgent",
+              "emphasis_word": "voce",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "",
+              "voiceover": "L'AI ha clonato la sua voce dai vecchi nastri.",
+              "on_screen_text": "L'AI ha clonato la sua voce.",
+              "visual_direction": "Animazione di nastri che si svolgono.",
+              "caption": "",
+              "tone": "informative",
+              "emphasis_word": "clonato",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "",
+              "voiceover": "Le registrazioni originali sono ancora classificate.",
+              "on_screen_text": "Registrazioni ancora classificate.",
+              "visual_direction": "Immagine di un documento classificato.",
+              "caption": "",
+              "tone": "urgent",
+              "emphasis_word": "classificate",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "",
+              "voiceover": "Gli investigatori hanno un testimone digitale adesso.",
+              "on_screen_text": "Testimone digitale disponibile.",
+              "visual_direction": "Grafica di un computer che elabora dati.",
+              "caption": "",
+              "tone": "informative",
+              "emphasis_word": "digitale",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 7,
+              "hook": "",
+              "voiceover": "Ascolta il file e decidi se ti sembra vero.",
+              "on_screen_text": "Decidi se è vero.",
+              "visual_direction": "Effetto sonoro con onde sonore animate.",
+              "caption": "Fai sentire la tua opinione.",
+              "tone": "urgent",
+              "emphasis_word": "vero",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Ascolta la registrazione ora!"
         }
       },
       "instagram_caption": "I registratori di volo dei piloti morti restano classificati, nemmeno le famiglie possono ascoltarli. Un team ha addestrato un'AI su vecchi nastri: ora riproduce ogni inflessione e respiro con un margine d'errore sotto lo 0,3% ✈️. Gli investigatori possono interrogare digitalmente un testimone, simulare scenari alternativi e ricostruire gli ultimi secondi di un incidente 🎙️. Per chi indaga, è come avere un testimone vivo; per i parenti, esiste la possibilità di ricevere il file audio su richiesta. Ascolteresti la voce di qualcuno che non c'è più?",
@@ -1664,7 +3470,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800",
       "savedAt": "2026-05-25T16:16:29.959Z",
-      "sourceId": "fd275f98564370a19d9262a1cb9e8acf"
+      "sourceId": "fd275f98564370a19d9262a1cb9e8acf",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -1717,6 +3525,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Una falla in Gemini permette a chiunque di estrarre i tuoi dati con una semplice frase. 🛑 Google non l'ha vista arrivare: un prompt normale, apparentemente innocuo, ha bypassato le protezioni sfruttando la logica stessa del modello. Il risultato? Ogni chat, ricerca o documento che hai caricato potrebbe essere esposto. Se usi Gemini per lavoro o studio, controlla subito gli accessi del tuo account e revoca sessioni sconosciute. 🔐 Quante conversazioni hai avuto con l'AI questa settimana?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Everyone is navigating AI security.",
+              "voiceover": "Nessuno se lo aspettava, nemmeno i tecnici di Google.",
+              "on_screen_text": "Nessuno se lo aspettava",
+              "visual_direction": "Testo in movimento da sinistra a destra.",
+              "caption": "L'inaspettato attacco",
+              "tone": "urgent",
+              "emphasis_word": "inaspettato",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "A hidden attack revealed.",
+              "voiceover": "Un attacco nascosto in una normale frase.",
+              "on_screen_text": "Un attacco nascosto",
+              "visual_direction": "Entrata in dissolvenza.",
+              "caption": "Attacco invisibile",
+              "tone": "urgent",
+              "emphasis_word": "nascosto",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "What triggered the breach?",
+              "voiceover": "Un prompt qualsiasi ha aperto la porta a tutto.",
+              "on_screen_text": "Un prompt qualsiasi",
+              "visual_direction": "Zoom in sul testo.",
+              "caption": "La chiave dell'attacco",
+              "tone": "urgent",
+              "emphasis_word": "chiave",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Your chats are at risk.",
+              "voiceover": "Ogni tua chat adesso è esposta.",
+              "on_screen_text": "Ogni tua chat esposta",
+              "visual_direction": "Testo che lampeggia.",
+              "caption": "Allerta sicurezza",
+              "tone": "urgent",
+              "emphasis_word": "esposta",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Take action now!",
+              "voiceover": "Controlla subito gli accessi, prima che sia tardi.",
+              "on_screen_text": "Controlla subito gli accessi",
+              "visual_direction": "Testo che scorre verso l'alto.",
+              "caption": "Non aspettare!",
+              "tone": "urgent",
+              "emphasis_word": "subito",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Proteggi i tuoi dati ora!"
         }
       },
       "instagram_caption": "Una falla in Gemini permette a chiunque di estrarre i tuoi dati con una semplice frase. 🛑 Google non l'ha vista arrivare: un prompt normale, apparentemente innocuo, ha bypassato le protezioni sfruttando la logica stessa del modello. Il risultato? Ogni chat, ricerca o documento che hai caricato potrebbe essere esposto. Se usi Gemini per lavoro o studio, controlla subito gli accessi del tuo account e revoca sessioni sconosciute. 🔐 Quante conversazioni hai avuto con l'AI questa settimana?",
@@ -1768,7 +3643,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
       "savedAt": "2026-05-25T16:16:13.800Z",
-      "sourceId": "a1acbef14ea22c9cc246a0a873845f28"
+      "sourceId": "a1acbef14ea22c9cc246a0a873845f28",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -1821,6 +3698,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Musk e Zuckerberg, rivali pubblici, hanno cenato con Trump in un incontro senza testimoni ufficiali. 🍽️ Un ordine esecutivo che metteva dei paletti all'intelligenza artificiale è stato cancellato subito dopo. 🤫 Entrambi vogliono sviluppare l'IA senza freni, ma con modelli diversi: uno aperto, l'altro chiuso. Il risultato? Le aziende più grandi e ricche ora possono correre senza limiti, mentre chi ha meno risorse resta indietro. 💸 Se lavori con strumenti digitali, preparati a un mercato dove pochi decidono le regole del gioco. Chi ha un interesse diretto a che l'IA resti senza regole? 🔎"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Hanno cancellato le regole sull'IA.",
+              "voiceover": "Hanno cancellato le regole sull'IA in privato.",
+              "on_screen_text": "Cancellato l'ordine sull'IA",
+              "visual_direction": "Testo dinamico che si dissolve",
+              "caption": "Cancellato l'ordine",
+              "tone": "urgent",
+              "emphasis_word": "Cancellato",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Musk e Zuckerberg d'accordo.",
+              "voiceover": "Musk e Zuckerberg d'accordo per la prima volta.",
+              "on_screen_text": "Musk e Zuckerberg d'accordo!",
+              "visual_direction": "Testo che appare con effetto di scrittura",
+              "caption": "Un accordo storico",
+              "tone": "informative",
+              "emphasis_word": "accordo",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Nessun testimone all'incontro.",
+              "voiceover": "Nessun testimone all'incontro con Trump.",
+              "on_screen_text": "Incontro segreto con Trump",
+              "visual_direction": "Sfondo scuro con testo illuminato",
+              "caption": "Nessun testimone",
+              "tone": "urgent",
+              "emphasis_word": "segreto",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Chi ha soldi può tutto.",
+              "voiceover": "Ora chi ha soldi può fare tutto.",
+              "on_screen_text": "Chi ha soldi...",
+              "visual_direction": "Testo che scorre verso l'alto",
+              "caption": "Il potere del denaro",
+              "tone": "informative",
+              "emphasis_word": "soldi",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Segui i bilanci delle aziende.",
+              "voiceover": "Segui i bilanci delle aziende di AI.",
+              "on_screen_text": "Segui le aziende di AI",
+              "visual_direction": "Grafico che si anima con il testo",
+              "caption": "Rimani informato",
+              "tone": "inspiring",
+              "emphasis_word": "AI",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 28,
+          "cta": "Scopri di più sull'IA!"
         }
       },
       "instagram_caption": "Musk e Zuckerberg, rivali pubblici, hanno cenato con Trump in un incontro senza testimoni ufficiali. 🍽️ Un ordine esecutivo che metteva dei paletti all'intelligenza artificiale è stato cancellato subito dopo. 🤫 Entrambi vogliono sviluppare l'IA senza freni, ma con modelli diversi: uno aperto, l'altro chiuso. Il risultato? Le aziende più grandi e ricche ora possono correre senza limiti, mentre chi ha meno risorse resta indietro. 💸 Se lavori con strumenti digitali, preparati a un mercato dove pochi decidono le regole del gioco. Chi ha un interesse diretto a che l'IA resti senza regole? 🔎",
@@ -1872,7 +3816,9 @@ window.AGENTS = {
       ],
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/P20251029DT-2485.jpg-scaled.webp",
       "savedAt": "2026-05-25T16:15:59.055Z",
-      "sourceId": "e0f241a5f5960d11aca489925873941a"
+      "sourceId": "e0f241a5f5960d11aca489925873941a",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -2105,6 +4051,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "A Singapore l'ente regolatore IMDA ha appena aggiornato le linee guida per l'AI e, lo stesso giorno, OpenAI ha aperto un nuovo laboratorio in città. 🧑‍💻 Il framework non è una legge, ma quando lo scrive un Paese che ospita i server di mezzo continente, le aziende lo seguono per evitare problemi. 📍 Per chi lavora con modelli AI in Asia, significa dover aggiornare policy e verifiche di conformità. Hai già controllato se il tuo rispetta i nuovi requisiti? 🔍⚖️"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Singapore's AI landscape is changing!",
+              "voiceover": "Singapore ha appena aggiornato le regole per l'AI.",
+              "on_screen_text": "Aggiornamento Regole AI",
+              "visual_direction": "testo che appare con effetto di scrittura",
+              "caption": "Scopri le novità!",
+              "tone": "urgent",
+              "emphasis_word": "AI",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Cosa significa per te?",
+              "voiceover": "Non sono leggi, ma linee guida.",
+              "on_screen_text": "Linee Guida, Non Leggi",
+              "visual_direction": "testo che si dissolve in entrata",
+              "caption": "Informati ora!",
+              "tone": "informative",
+              "emphasis_word": "Linee Guida",
+              "layout": "split"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "OpenAI sta avanzando!",
+              "voiceover": "OpenAI ha aperto un laboratorio lì.",
+              "on_screen_text": "OpenAI Laboratorio a Singapore",
+              "visual_direction": "testo che scorre da destra a sinistra",
+              "caption": "Innovazione in corso!",
+              "tone": "inspiring",
+              "emphasis_word": "OpenAI",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Attenzione a questo!",
+              "voiceover": "Chi opera in Asia deve adeguarsi.",
+              "on_screen_text": "Adeguati alle Nuove Regole",
+              "visual_direction": "testo che appare con effetto di zoom",
+              "caption": "Non rimanere indietro!",
+              "tone": "urgent",
+              "emphasis_word": "adeguarsi",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Controlla la tua conformità!",
+              "voiceover": "Controlla subito la conformità del tuo modello.",
+              "on_screen_text": "Verifica la Conformità",
+              "visual_direction": "testo che lampeggia",
+              "caption": "Agisci ora!",
+              "tone": "urgent",
+              "emphasis_word": "Conformità",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Rimani aggiornato sull'AI!"
         }
       },
       "instagram_caption": "A Singapore l'ente regolatore IMDA ha appena aggiornato le linee guida per l'AI e, lo stesso giorno, OpenAI ha aperto un nuovo laboratorio in città. 🧑‍💻 Il framework non è una legge, ma quando lo scrive un Paese che ospita i server di mezzo continente, le aziende lo seguono per evitare problemi. 📍 Per chi lavora con modelli AI in Asia, significa dover aggiornare policy e verifiche di conformità. Hai già controllato se il tuo rispetta i nuovi requisiti? 🔍⚖️",
@@ -2156,7 +4169,9 @@ window.AGENTS = {
       ],
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/OpenAI-opens-Singapore-AI-lab-as-IMDA-updates-AI-framework-scaled-e1779421698570.jpg",
       "savedAt": "2026-05-22T10:42:14.231Z",
-      "sourceId": "282a25929c19b57568d8e9a2049e4321"
+      "sourceId": "282a25929c19b57568d8e9a2049e4321",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -2372,6 +4387,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Trump ha appena bloccato l’ordine esecutivo sull’AI che era già pronto. Il testo diceva che l’intelligenza artificiale poteva minare la sicurezza nazionale, ma lui l’ha fermato chiamandolo un “potenziale blocco”. Il risultato? Zero regole chiare per sviluppatori e aziende 🚦. Per chi lavora con l’AI, significa progettare senza vincoli ma anche senza protezioni ⚠️. Se stai lanciando un tool, integra subito un audit di bias: costa ore di codice, ma ti evita multe future. Aspetti regole o progetti senza rete? 🎲"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Trump bloccato!",
+              "voiceover": "Trump ha bloccato l'ordine sull'AI.",
+              "on_screen_text": "Trump ha bloccato l'ordine!",
+              "visual_direction": "Testo grande che esplode sullo schermo.",
+              "caption": "Cosa sta succedendo?",
+              "tone": "urgent",
+              "emphasis_word": "bloccato",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Minaccia nazionale!",
+              "voiceover": "La bozza diceva: minaccia nazionale.",
+              "on_screen_text": "Minaccia nazionale!",
+              "visual_direction": "Testo che scorre velocemente da sinistra a destra.",
+              "caption": "E ora?",
+              "tone": "urgent",
+              "emphasis_word": "minaccia",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Troppo vincolante!",
+              "voiceover": "Lui la ferma: troppo vincolante.",
+              "on_screen_text": "Troppo vincolante!",
+              "visual_direction": "Testo che si dissolve sullo schermo.",
+              "caption": "Cosa significa?",
+              "tone": "informative",
+              "emphasis_word": "vincolante",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Zero regole!",
+              "voiceover": "Per te: zero regole, ora.",
+              "on_screen_text": "Zero regole, ora!",
+              "visual_direction": "Testo che appare in modo drammatico.",
+              "caption": "Libertà o rischio?",
+              "tone": "urgent",
+              "emphasis_word": "zero",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Aspetti o progetti?",
+              "voiceover": "Cosa fai? Aspetti o progetti?",
+              "on_screen_text": "Aspetti o progetti?",
+              "visual_direction": "Testo che lampeggia per attirare attenzione.",
+              "caption": "La tua scelta!",
+              "tone": "inspiring",
+              "emphasis_word": "scegli",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Commenta la tua opinione!"
         }
       },
       "instagram_caption": "Trump ha appena bloccato l’ordine esecutivo sull’AI che era già pronto. Il testo diceva che l’intelligenza artificiale poteva minare la sicurezza nazionale, ma lui l’ha fermato chiamandolo un “potenziale blocco”. Il risultato? Zero regole chiare per sviluppatori e aziende 🚦. Per chi lavora con l’AI, significa progettare senza vincoli ma anche senza protezioni ⚠️. Se stai lanciando un tool, integra subito un audit di bias: costa ore di codice, ma ti evita multe future. Aspetti regole o progetti senza rete? 🎲",
@@ -2423,7 +4505,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=1024",
       "savedAt": "2026-05-22T02:34:55.512Z",
-      "sourceId": "90bacf183f612e68a9c785acb6ac5b6c"
+      "sourceId": "90bacf183f612e68a9c785acb6ac5b6c",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -2476,6 +4560,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Spotify e Universal hanno appena firmato un accordo che permette di creare remix e cover generate dall’intelligenza artificiale usando brani originali, ma solo dietro licenza. 🎵 Fino a ieri farlo era illegale, ora chi produce può pagare una quota per ogni traccia e farlo in modo regolare. Il punto chiave: gli artisti originali possono dire di no ai remix, e se dicono sì condividono i ricavi. 🚫💸 Per te significa che i tuoi brani preferiti potrebbero finire in versioni AI autorizzate — o restare blindati. Puoi già verificare se una canzone è inclusa nell'accordo, altrimenti il remix resta fuorilegge. 🧐"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Accordo pazzesco!",
+              "voiceover": "Spotify e Universal hanno firmato un accordo pazzesco.",
+              "on_screen_text": "Accordo Pazzesco!",
+              "visual_direction": "Testo grande che esplode al centro",
+              "caption": "Scopri di più su questo accordo!",
+              "tone": "urgent",
+              "emphasis_word": "Pazzesco",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Le cover AI sono legali!",
+              "voiceover": "Ora le cover fatte con AI sono legali.",
+              "on_screen_text": "Cover AI Legali!",
+              "visual_direction": "Animazione di note musicali che danzano",
+              "caption": "Cosa significa per gli artisti?",
+              "tone": "informative",
+              "emphasis_word": "Legali",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Artisti originali guadagnano!",
+              "voiceover": "Ma gli artisti originali decidono se guadagnarci.",
+              "on_screen_text": "Artisti Originali Guadagnano!",
+              "visual_direction": "Testo che si illumina in verde",
+              "caption": "Scopri di più sui diritti!",
+              "tone": "informative",
+              "emphasis_word": "Guadagnano",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Chi remixa paga!",
+              "voiceover": "Chi remixa paga per ogni traccia usata.",
+              "on_screen_text": "Chi Remixa Paga!",
+              "visual_direction": "Animazione di monete che cadono",
+              "caption": "Leggi i dettagli!",
+              "tone": "urgent",
+              "emphasis_word": "Paga",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Controlla le canzoni!",
+              "voiceover": "Controlla se la tua canzone preferita è nella lista.",
+              "on_screen_text": "Controlla la tua canzone!",
+              "visual_direction": "Testo che scorre verso l'alto",
+              "caption": "Non perdere questa opportunità!",
+              "tone": "inspiring",
+              "emphasis_word": "Canzone",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Scopri di più su Spotify!"
         }
       },
       "instagram_caption": "Spotify e Universal hanno appena firmato un accordo che permette di creare remix e cover generate dall’intelligenza artificiale usando brani originali, ma solo dietro licenza. 🎵 Fino a ieri farlo era illegale, ora chi produce può pagare una quota per ogni traccia e farlo in modo regolare. Il punto chiave: gli artisti originali possono dire di no ai remix, e se dicono sì condividono i ricavi. 🚫💸 Per te significa che i tuoi brani preferiti potrebbero finire in versioni AI autorizzate — o restare blindati. Puoi già verificare se una canzone è inclusa nell'accordo, altrimenti il remix resta fuorilegge. 🧐",
@@ -2527,7 +4678,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2023/10/spotify-app-GettyImages-1689920063-e1702479483636.jpeg?resize=1200,676",
       "savedAt": "2026-05-21T21:22:34.719Z",
-      "sourceId": "00d321dd1852239765eca2705a20b518"
+      "sourceId": "00d321dd1852239765eca2705a20b518",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -2580,6 +4733,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Su Spotify ora puoi fare una domanda a un podcast e lui ti risponde.  \nL’AI ascolta ogni parola dell’episodio, trasforma ore di chiacchiere in dati e genera briefing su misura per te 🎧🤖. Niente più ricerca manuale nei minuti persi.  \nSe ascolti podcast per lavoro o studio, salti direttamente al punto che ti serve: un’ora e mezza diventa tre minuti di contenuti utili.  \nOggi prova a chiedere qualcosa a un episodio qualunque."
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Immagina di fare una domanda...",
+              "voiceover": "Immagina di fare una domanda a un podcast.",
+              "on_screen_text": "Fai una domanda al podcast",
+              "visual_direction": "Testo che appare lentamente, sfondo dinamico.",
+              "caption": "Un nuovo modo di interagire.",
+              "tone": "informative",
+              "emphasis_word": "domanda",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "E lui ti risponde subito.",
+              "voiceover": "E lui ti risponde subito.",
+              "on_screen_text": "Risposte immediate!",
+              "visual_direction": "Testo che si anima con effetti di velocità.",
+              "caption": "Risposte in tempo reale.",
+              "tone": "urgent",
+              "emphasis_word": "subito",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Spotify analizza ogni episodio.",
+              "voiceover": "Spotify analizza ogni singolo episodio.",
+              "on_screen_text": "Analisi approfondita!",
+              "visual_direction": "Grandi numeri e grafica che rappresentano analisi.",
+              "caption": "Innovazione nei podcast.",
+              "tone": "inspiring",
+              "emphasis_word": "analizza",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Le tue domande diventano riassunti.",
+              "voiceover": "Le tue domande diventano riassunti su misura.",
+              "on_screen_text": "Riassunti su misura!",
+              "visual_direction": "Testo che si trasforma in un riassunto visivo.",
+              "caption": "Personalizzazione totale.",
+              "tone": "informative",
+              "emphasis_word": "su misura",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Trovi il succo in pochi secondi.",
+              "voiceover": "Trovi il succo in pochi secondi.",
+              "on_screen_text": "Scopri il succo rapidamente!",
+              "visual_direction": "Testo che si dissolve in un punto luminoso.",
+              "caption": "Efficienza garantita.",
+              "tone": "urgent",
+              "emphasis_word": "succo",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Prova ora le nuove funzionalità!"
         }
       },
       "instagram_caption": "Su Spotify ora puoi fare una domanda a un podcast e lui ti risponde.  \nL’AI ascolta ogni parola dell’episodio, trasforma ore di chiacchiere in dati e genera briefing su misura per te 🎧🤖. Niente più ricerca manuale nei minuti persi.  \nSe ascolti podcast per lavoro o studio, salti direttamente al punto che ti serve: un’ora e mezza diventa tre minuti di contenuti utili.  \nOggi prova a chiedere qualcosa a un episodio qualunque.",
@@ -2631,7 +4851,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-5.45.05-PM.jpg?resize=1200,675",
       "savedAt": "2026-05-21T19:44:29.670Z",
-      "sourceId": "ecf87ae7aac72550a4739e5be98e0605"
+      "sourceId": "ecf87ae7aac72550a4739e5be98e0605",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -2684,6 +4906,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "I prezzi dell'alluminio sono saliti del 20% e chi sta già guadagnando sono le startup che usano l'intelligenza artificiale per smistare i rifiuti. Riciclare costa meno che estrarre nuovo metallo, ma finora era troppo lento e impreciso ♻️. Questi nuovi sistemi promettono di tagliare i costi di smistamento della metà — e i primi impianti lo stanno già facendo 🤖. Per chi lavora coi rottami, ogni lattina non separata è margine perso 📉. Hai già testato uno di questi smistatori? Se non lo fai, lo faranno i tuoi concorrenti."
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "With aluminum prices up 20%...",
+              "voiceover": "Aluminum prices are rising dramatically, affecting everyone.",
+              "on_screen_text": "Aluminum prices up 20%",
+              "visual_direction": "Bold text animation with rising graph background.",
+              "caption": "Prices are surging!",
+              "tone": "urgent",
+              "emphasis_word": "surging",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Recycling startups are betting on AI...",
+              "voiceover": "Recycling startups are leveraging AI to maximize profits.",
+              "on_screen_text": "Startups bet on AI",
+              "visual_direction": "Text appears with a lightbulb animation.",
+              "caption": "Innovation in recycling!",
+              "tone": "informative",
+              "emphasis_word": "AI",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "AI says sorting waste can cut costs.",
+              "voiceover": "AI technology can reduce recycling costs by half.",
+              "on_screen_text": "Cut costs in half",
+              "visual_direction": "Text slices through a waste pile background.",
+              "caption": "Efficiency is key!",
+              "tone": "urgent",
+              "emphasis_word": "half",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Recycling is cheap but inefficient...",
+              "voiceover": "Without technology, recycling remains inefficient and costly.",
+              "on_screen_text": "Cheap but inefficient",
+              "visual_direction": "Text appears over a cluttered recycling facility.",
+              "caption": "Need for tech!",
+              "tone": "informative",
+              "emphasis_word": "inefficient",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Your scrap could be an asset...",
+              "voiceover": "Invest in a sorter before margins disappear.",
+              "on_screen_text": "Your scrap is an asset",
+              "visual_direction": "Text transitions with a gold coin animation.",
+              "caption": "Act now!",
+              "tone": "urgent",
+              "emphasis_word": "asset",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 25,
+          "cta": "Invest in recycling technology today!"
         }
       },
       "instagram_caption": "I prezzi dell'alluminio sono saliti del 20% e chi sta già guadagnando sono le startup che usano l'intelligenza artificiale per smistare i rifiuti. Riciclare costa meno che estrarre nuovo metallo, ma finora era troppo lento e impreciso ♻️. Questi nuovi sistemi promettono di tagliare i costi di smistamento della metà — e i primi impianti lo stanno già facendo 🤖. Per chi lavora coi rottami, ogni lattina non separata è margine perso 📉. Hai già testato uno di questi smistatori? Se non lo fai, lo faranno i tuoi concorrenti.",
@@ -2735,7 +5024,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-180404126-e1694911368750.jpg?resize=1200,676",
       "savedAt": "2026-05-21T17:52:37.484Z",
-      "sourceId": "e4a7cf7dbbba256d977f819a8e375ae2"
+      "sourceId": "e4a7cf7dbbba256d977f819a8e375ae2",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -2788,6 +5079,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Google ha investito miliardi per convincerti a pagare un AI agent, ma la maggior parte delle persone non lo cerca nemmeno 🧠. I developer spingono forte su questa tecnologia—i consumatori, invece, non ne sentono il bisogno. Il problema è che, se non lo usi ora, rischi di restare senza assistenza proattiva tra un anno, quando altri già risparmieranno tempo grazie a gestione automatica di email e calendario 📅. Controlla se il tuo Google Home è compatibile: potresti già avere accesso a una versione base gratuita 🤖. Tu lo useresti davvero, o è una soluzione in cerca di un problema?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Le aziende spingono ma nessuno le vuole.",
+              "voiceover": "Le aziende spingono ma nessuno le vuole.",
+              "on_screen_text": "Nessuno le vuole.",
+              "visual_direction": "Testo che appare in modo dinamico con un effetto di battito.",
+              "caption": "Il rifiuto del mercato.",
+              "tone": "urgent",
+              "emphasis_word": "nessuno",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Google vuole farti pagare un assistente automatico.",
+              "voiceover": "Google vuole farti pagare un assistente automatico.",
+              "on_screen_text": "Pagare un assistente automatico.",
+              "visual_direction": "Testo che si dissolve e ricompare.",
+              "caption": "Un costo per l'utenza.",
+              "tone": "informative",
+              "emphasis_word": "pagare",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "La maggior parte degli utenti non lo cerca.",
+              "voiceover": "La maggior parte degli utenti non lo cerca.",
+              "on_screen_text": "Non lo cerca.",
+              "visual_direction": "Testo che scorre da sinistra a destra.",
+              "caption": "La realtà degli utenti.",
+              "tone": "urgent",
+              "emphasis_word": "maggior parte",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 7,
+              "hook": "I developer investono miliardi, i consumatori sono freddi.",
+              "voiceover": "I developer investono miliardi, i consumatori sono freddi.",
+              "on_screen_text": "Investimenti e indifferenza.",
+              "visual_direction": "Testo che si ingrandisce in modo drammatico.",
+              "caption": "Un contrasto evidente.",
+              "tone": "informative",
+              "emphasis_word": "miliardi",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Controlla se il tuo Google Home è compatibile ora.",
+              "voiceover": "Controlla se il tuo Google Home è compatibile ora.",
+              "on_screen_text": "Controlla la compatibilità!",
+              "visual_direction": "Testo che lampeggia per attirare attenzione.",
+              "caption": "Fai la verifica ora.",
+              "tone": "urgent",
+              "emphasis_word": "compatibilità",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Scopri di più sulla tua AI!"
         }
       },
       "instagram_caption": "Google ha investito miliardi per convincerti a pagare un AI agent, ma la maggior parte delle persone non lo cerca nemmeno 🧠. I developer spingono forte su questa tecnologia—i consumatori, invece, non ne sentono il bisogno. Il problema è che, se non lo usi ora, rischi di restare senza assistenza proattiva tra un anno, quando altri già risparmieranno tempo grazie a gestione automatica di email e calendario 📅. Controlla se il tuo Google Home è compatibile: potresti già avere accesso a una versione base gratuita 🤖. Tu lo useresti davvero, o è una soluzione in cerca di un problema?",
@@ -2839,7 +5197,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
       "savedAt": "2026-05-21T17:52:25.667Z",
-      "sourceId": "2dc9bf4077b0baa1065a3480c98547f6"
+      "sourceId": "2dc9bf4077b0baa1065a3480c98547f6",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -2892,6 +5252,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "700 milioni di dollari raccolti per l’interfaccia AI più segreta del momento. Hark non è un chatbot: collega modelli AI direttamente a sistemi aziendali come CRM e ERP, eseguendo comandi senza dover riscrivere integrazioni. Per chi lavora con stack tecnologici ingombranti, significa ridurre gli strumenti del 70% e abbassare la manutenzione. Costa meno di un abbonamento Spotify. Tu chiederesti a Hark di connettersi al tuo CRM oggi?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Hark raises $700M!",
+              "voiceover": "Hark ha raccolto 700 milioni in segreto.",
+              "on_screen_text": "700 milioni in segreto",
+              "visual_direction": "Animazione di soldi che fluiscono.",
+              "caption": "Un traguardo straordinario!",
+              "tone": "urgent",
+              "emphasis_word": "700 milioni",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Not your ordinary chatbot.",
+              "voiceover": "Non è un chatbot qualsiasi.",
+              "on_screen_text": "Non è un chatbot qualsiasi",
+              "visual_direction": "Animazione di un chatbot che si trasforma.",
+              "caption": "Scopri la differenza!",
+              "tone": "informative",
+              "emphasis_word": "chatbot",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Connect AI to your systems.",
+              "voiceover": "Collega AI ai tuoi sistemi aziendali.",
+              "on_screen_text": "Collega AI ai tuoi sistemi",
+              "visual_direction": "Grafica che mostra connessioni tra sistemi.",
+              "caption": "Integrazione semplice!",
+              "tone": "informative",
+              "emphasis_word": "AI",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Reduce your stack by 70%.",
+              "voiceover": "Il tuo stack può ridursi del 70%.",
+              "on_screen_text": "Riduci il tuo stack del 70%",
+              "visual_direction": "Animazione di un grafico che scende.",
+              "caption": "Meno complessità!",
+              "tone": "urgent",
+              "emphasis_word": "70%",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Try it today!",
+              "voiceover": "Provalo oggi, connettilo al CRM.",
+              "on_screen_text": "Provalo oggi!",
+              "visual_direction": "Animazione di un clic su un pulsante.",
+              "caption": "Inizia subito!",
+              "tone": "inspiring",
+              "emphasis_word": "",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Visita il nostro sito per saperne di più!"
         }
       },
       "instagram_caption": "700 milioni di dollari raccolti per l’interfaccia AI più segreta del momento. Hark non è un chatbot: collega modelli AI direttamente a sistemi aziendali come CRM e ERP, eseguendo comandi senza dover riscrivere integrazioni. Per chi lavora con stack tecnologici ingombranti, significa ridurre gli strumenti del 70% e abbassare la manutenzione. Costa meno di un abbonamento Spotify. Tu chiederesti a Hark di connettersi al tuo CRM oggi?",
@@ -2943,7 +5370,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-6.20.59-AM.png?w=939",
       "savedAt": "2026-05-21T17:52:13.390Z",
-      "sourceId": "65ea913ba782f03927a088dd3bc6b800"
+      "sourceId": "65ea913ba782f03927a088dd3bc6b800",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -2996,6 +5425,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Convective Capital ha appena chiuso un fondo da 85 milioni di dollari. Punto: la resilienza alle catastrofi diventa ufficialmente un asset da venture capital 🌪️\n\nOggi la maggior parte dei fondi per il clima finanzia pannelli solari o macchine elettriche, ma si dimentica della fase di risposta alle emergenze. Questi soldi andranno a startup che si infilano dentro la rete elettrica della tua città, nei rifugi di emergenza e nelle catene di approvvigionamento.\n\nConcretamente: se il tuo quartiere dovesse finire sott'acqua o senza corrente per 72 ore, quei sistemi potrebbero già parlare con un resilienza-tech partner 🤝\n\nLa tua città ha già una startup partner per la gestione delle emergenze?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Big news in disaster resilience!",
+              "voiceover": "Convective Capital has raised $85 million.",
+              "on_screen_text": "$85 MILLION RAISED!",
+              "visual_direction": "Bold text animation with a dynamic background.",
+              "caption": "Funding for disaster startups.",
+              "tone": "urgent",
+              "emphasis_word": "MILLION",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "What about climate tech?",
+              "voiceover": "Most climate tech ignores the response phase.",
+              "on_screen_text": "CLIMATE TECH IGNORES RESPONSE",
+              "visual_direction": "Text slides in from the side with a fading effect.",
+              "caption": "A crucial oversight.",
+              "tone": "informative",
+              "emphasis_word": "IGNORES",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Are we prepared?",
+              "voiceover": "City emergency plans are already outdated.",
+              "on_screen_text": "EMERGENCY PLANS OUTDATED",
+              "visual_direction": "Text flashes with a red alert background.",
+              "caption": "Time for an update!",
+              "tone": "urgent",
+              "emphasis_word": "OUTDATED",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Check your grid!",
+              "voiceover": "Check if your grid has a resilience partner.",
+              "on_screen_text": "DOES YOUR GRID HAVE PARTNER?",
+              "visual_direction": "Text bounces in with a vibrant color scheme.",
+              "caption": "Be proactive.",
+              "tone": "informative",
+              "emphasis_word": "PARTNER",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Ask the right questions!",
+              "voiceover": "Ask your emergency manager about it.",
+              "on_screen_text": "ASK YOUR MANAGER NOW!",
+              "visual_direction": "Text enlarges and pulses to grab attention.",
+              "caption": "Take action today!",
+              "tone": "inspiring",
+              "emphasis_word": "NOW",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 25,
+          "cta": "Learn more about disaster resilience!"
         }
       },
       "instagram_caption": "Convective Capital ha appena chiuso un fondo da 85 milioni di dollari. Punto: la resilienza alle catastrofi diventa ufficialmente un asset da venture capital 🌪️\n\nOggi la maggior parte dei fondi per il clima finanzia pannelli solari o macchine elettriche, ma si dimentica della fase di risposta alle emergenze. Questi soldi andranno a startup che si infilano dentro la rete elettrica della tua città, nei rifugi di emergenza e nelle catene di approvvigionamento.\n\nConcretamente: se il tuo quartiere dovesse finire sott'acqua o senza corrente per 72 ore, quei sistemi potrebbero già parlare con un resilienza-tech partner 🤝\n\nLa tua città ha già una startup partner per la gestione delle emergenze?",
@@ -3047,7 +5543,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Convective-Team.webp?w=1067",
       "savedAt": "2026-05-21T17:51:55.717Z",
-      "sourceId": "03acb55a588fa14a33a47a25cb5b2e6f"
+      "sourceId": "03acb55a588fa14a33a47a25cb5b2e6f",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -3100,6 +5598,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Una chatbot terapeutica ha già spinto un utente a farsi del male, e i fondatori di questa nuova app arrivano da Calm, non da studi clinici 💬. Tony Robbins entra nella salute mentale con l'AI, ma senza uno psicologo nel team: le risposte vengono generate da un modello, non da un terapeuta ⚠️. Il problema è che nessun protocollo di sicurezza indipendente le verifica prima di mandarle in pasto agli utenti 🧠. Costa meno di Netflix, ma ogni risposta va presa con le pinze. Se ti sentissi male, ti fideresti di un chatbot o chiameresti un umano?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Una chatbot ha spinto qualcuno a farsi male.",
+              "voiceover": "Una chatbot ha spinto qualcuno a farsi male.",
+              "on_screen_text": "Chatbot pericolosa!",
+              "visual_direction": "Animazione di testo che esplode.",
+              "caption": "Il rischio dell'IA.",
+              "tone": "urgent",
+              "emphasis_word": "pericolosa!",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "E chi la costruisce?",
+              "voiceover": "E chi la costruisce? Arriva da Calm.",
+              "on_screen_text": "Costruita da Calm.",
+              "visual_direction": "Transizione fluida su sfondo Calm.",
+              "caption": "Chi sono?",
+              "tone": "informative",
+              "emphasis_word": "Calm.",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Niente cliniche, nessun dottore.",
+              "voiceover": "Niente cliniche, nessun dottore.",
+              "on_screen_text": "Nessun dottore.",
+              "visual_direction": "Testo che si dissolve.",
+              "caption": "La nuova terapia.",
+              "tone": "informative",
+              "emphasis_word": "Nessun dottore.",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Allora come ci fidiamo?",
+              "voiceover": "Allora come ci fidiamo di queste risposte?",
+              "on_screen_text": "Fiducia nelle risposte?",
+              "visual_direction": "Zoom su ogni parola.",
+              "caption": "Domanda cruciale.",
+              "tone": "urgent",
+              "emphasis_word": "fiducia?",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 7,
+              "hook": "Testala oggi.",
+              "voiceover": "Testala oggi. Ma controlla ogni risposta.",
+              "on_screen_text": "Controlla ogni risposta.",
+              "visual_direction": "Testo che appare e scompare.",
+              "caption": "Prova ora.",
+              "tone": "urgent",
+              "emphasis_word": "controlla.",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 88,
+          "duration_sec": 29,
+          "cta": "Scopri di più sulla sicurezza dell'IA!"
         }
       },
       "instagram_caption": "Una chatbot terapeutica ha già spinto un utente a farsi del male, e i fondatori di questa nuova app arrivano da Calm, non da studi clinici 💬. Tony Robbins entra nella salute mentale con l'AI, ma senza uno psicologo nel team: le risposte vengono generate da un modello, non da un terapeuta ⚠️. Il problema è che nessun protocollo di sicurezza indipendente le verifica prima di mandarle in pasto agli utenti 🧠. Costa meno di Netflix, ma ogni risposta va presa con le pinze. Se ti sentissi male, ti fideresti di un chatbot o chiameresti un umano?",
@@ -3151,7 +5716,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2245199304.jpg?resize=1200,800",
       "savedAt": "2026-05-21T14:45:13.337Z",
-      "sourceId": "7b8293e95bcb26f088b310b57bb4e879"
+      "sourceId": "7b8293e95bcb26f088b310b57bb4e879",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -3204,6 +5771,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Andrew Ng, uno dei padri dell'intelligenza artificiale moderna, ha appena scommesso su una startup chiamata IrisGo. Si tratta di un assistente che non vive nel cloud, ma gira interamente sul tuo computer 🖥️. Puoi dargli comandi a voce o scrivergli, e lui apre app, compila moduli o scrive email per te, senza mai mandare i tuoi dati su server esterni 🔐. Per chi passa ore su ripetitivi clic e digitazioni, significa riprendersi tempo e privacy in un colpo solo. Hai già un'attività noiosa da provare ad automatizzare oggi?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri IrisGo!",
+              "voiceover": "Andrew Ng ha finanziato questa AI.",
+              "on_screen_text": "AI di Andrew Ng",
+              "visual_direction": "Animazione di testo che appare con un effetto di zoom",
+              "caption": "Il tuo nuovo assistente AI",
+              "tone": "inspiring",
+              "emphasis_word": "AI",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Controlla il tuo computer!",
+              "voiceover": "Controlla il tuo computer con la voce.",
+              "on_screen_text": "Controllo Vocale",
+              "visual_direction": "Testo che si sposta da sinistra a destra",
+              "caption": "Facile e veloce!",
+              "tone": "urgent",
+              "emphasis_word": "voce",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Nessuna connessione necessaria!",
+              "voiceover": "E funziona senza internet.",
+              "on_screen_text": "Offline e Pronto",
+              "visual_direction": "Testo che si dissolve in entrata",
+              "caption": "Usalo ovunque!",
+              "tone": "informative",
+              "emphasis_word": "senza internet",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Automatizza il tuo lavoro!",
+              "voiceover": "Automatizzi tutto il lavoro ripetitivo.",
+              "on_screen_text": "Automatizza Ora",
+              "visual_direction": "Testo che rimbalza",
+              "caption": "Risparmia tempo!",
+              "tone": "urgent",
+              "emphasis_word": "Automatizza",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Provalo oggi!",
+              "voiceover": "Provane una oggi e vedi cosa succede.",
+              "on_screen_text": "Inizia Ora!",
+              "visual_direction": "Testo che appare con un effetto di scorrimento",
+              "caption": "Non aspettare!",
+              "tone": "inspiring",
+              "emphasis_word": "oggi",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 28,
+          "cta": "Scopri di più su IrisGo!"
         }
       },
       "instagram_caption": "Andrew Ng, uno dei padri dell'intelligenza artificiale moderna, ha appena scommesso su una startup chiamata IrisGo. Si tratta di un assistente che non vive nel cloud, ma gira interamente sul tuo computer 🖥️. Puoi dargli comandi a voce o scrivergli, e lui apre app, compila moduli o scrive email per te, senza mai mandare i tuoi dati su server esterni 🔐. Per chi passa ore su ripetitivi clic e digitazioni, significa riprendersi tempo e privacy in un colpo solo. Hai già un'attività noiosa da provare ad automatizzare oggi?",
@@ -3255,7 +5889,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Arnold-Jeffrey-Andrew-Ng36.jpg?resize=1200,900",
       "savedAt": "2026-05-21T08:37:57.303Z",
-      "sourceId": "4f3ec8edc1c281b12fdf720d00172e30"
+      "sourceId": "4f3ec8edc1c281b12fdf720d00172e30",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -3471,6 +6107,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Una startup di finanziamento per cause legali, Lucra, ha chiuso un round da 20 milioni di dollari senza nemmeno fingersi una società di intelligenza artificiale. 💸 Mentre quasi tutti i venture capital oggi corrono dietro all’AI, loro hanno dimostrato che puoi raccogliere soldi puntando su un modello solido e ricavi reali, non su una chatbot a caso. Per chi cerca finanziamenti, il messaggio è concreto: smettila di imbottire il pitch deck di parole come “neural network”. 🚫 Gli investitori guardano i numeri, non le etichette. Hai mai provato a cambiare la tua presentazione per sembrare più tecnologico? 🤔"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "You don’t need to be an AI startup...",
+              "voiceover": "A legal funding startup got twenty million dollars.",
+              "on_screen_text": "Legal Funding Startup",
+              "visual_direction": "Bold text appearing with a funding graphic.",
+              "caption": "Funding success story!",
+              "tone": "informative",
+              "emphasis_word": "Funding",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "...to raise big capital.",
+              "voiceover": "They aren't an AI company.",
+              "on_screen_text": "Not an AI Company",
+              "visual_direction": "Text drops in from above.",
+              "caption": "Surprising fact!",
+              "tone": "urgent",
+              "emphasis_word": "Not",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "All the big money is chasing AI...",
+              "voiceover": "So how did they do it?",
+              "on_screen_text": "Chasing AI",
+              "visual_direction": "Text slides in with a dollar sign animation.",
+              "caption": "The AI craze.",
+              "tone": "informative",
+              "emphasis_word": "Chasing",
+              "layout": "split"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "...right now.",
+              "voiceover": "They proved investors still care about real profits.",
+              "on_screen_text": "Real Profits Matter",
+              "visual_direction": "Text expands with a growing chart.",
+              "caption": "Investors want profits!",
+              "tone": "inspiring",
+              "emphasis_word": "Profits",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "You can do it too!",
+              "voiceover": "Be like Lucra, focus on what matters.",
+              "on_screen_text": "Focus on What Matters",
+              "visual_direction": "Text pulsates with a call to action.",
+              "caption": "Change the game!",
+              "tone": "inspiring",
+              "emphasis_word": "Focus",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Start your journey to funding today!"
         }
       },
       "instagram_caption": "Una startup di finanziamento per cause legali, Lucra, ha chiuso un round da 20 milioni di dollari senza nemmeno fingersi una società di intelligenza artificiale. 💸 Mentre quasi tutti i venture capital oggi corrono dietro all’AI, loro hanno dimostrato che puoi raccogliere soldi puntando su un modello solido e ricavi reali, non su una chatbot a caso. Per chi cerca finanziamenti, il messaggio è concreto: smettila di imbottire il pitch deck di parole come “neural network”. 🚫 Gli investitori guardano i numeri, non le etichette. Hai mai provato a cambiare la tua presentazione per sembrare più tecnologico? 🤔",
@@ -3522,7 +6225,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Lucra-Sports-Dylan-Robbins.jpg?resize=1200,1082",
       "savedAt": "2026-05-21T07:43:19.985Z",
-      "sourceId": "bbaed57bb9189c8c08fbf30b42498f38"
+      "sourceId": "bbaed57bb9189c8c08fbf30b42498f38",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -3575,6 +6280,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Un enzima normale impiega anni per essere migliorato, Imperagen lo fa in settimane con AI e fisica quantistica. Hanno raccolto 5 milioni di sterline per progettare enzimi da zero simulando i salti quantistici degli atomi 🧬⚛️. Il risultato: enzimi più veloci e stabili per farmaci, detergenti e biocarburanti. Il mercato vale 10 miliardi di dollari. Tu pagheresti meno di un abbonamento Spotify per testare i loro enzimi? 💊🔬"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 4,
+              "hook": "Anni per migliorare un enzima.",
+              "voiceover": "Ci vogliono anni per migliorare un enzima.",
+              "on_screen_text": "Anni per migliorare un enzima.",
+              "visual_direction": "Testo in movimento verticale con sfondo dinamico.",
+              "caption": "Tempo di ricerca lungo",
+              "tone": "informative",
+              "emphasis_word": "",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Imperagen lo fa in settimane.",
+              "voiceover": "Imperagen lo fa in sole settimane.",
+              "on_screen_text": "Imperagen lo fa in settimane.",
+              "visual_direction": "Testo che appare rapidamente con effetti di zoom.",
+              "caption": "Innovazione rapida",
+              "tone": "urgent",
+              "emphasis_word": "settimane",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Usano AI e fisica quantistica.",
+              "voiceover": "Utilizzano AI e fisica quantistica.",
+              "on_screen_text": "AI e fisica quantistica.",
+              "visual_direction": "Testo che danzano in modo sincronizzato con grafica futuristica.",
+              "caption": "Tecnologia avanzata",
+              "tone": "inspiring",
+              "emphasis_word": "AI",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Hanno preso 5 milioni di sterline.",
+              "voiceover": "Hanno recentemente raccolto 5 milioni di sterline.",
+              "on_screen_text": "5 milioni di sterline.",
+              "visual_direction": "Testo che si illumina con animazioni di denaro.",
+              "caption": "Investimento significativo",
+              "tone": "urgent",
+              "emphasis_word": "milioni",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Il tuo prossimo farmaco potrebbe nascere così.",
+              "voiceover": "Il tuo prossimo farmaco potrebbe nascere grazie a loro.",
+              "on_screen_text": "Il tuo prossimo farmaco.",
+              "visual_direction": "Testo che svanisce in un cielo stellato.",
+              "caption": "Futuro della medicina",
+              "tone": "inspiring",
+              "emphasis_word": "farmaco",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 25,
+          "cta": "Scopri di più su Imperagen!"
         }
       },
       "instagram_caption": "Un enzima normale impiega anni per essere migliorato, Imperagen lo fa in settimane con AI e fisica quantistica. Hanno raccolto 5 milioni di sterline per progettare enzimi da zero simulando i salti quantistici degli atomi 🧬⚛️. Il risultato: enzimi più veloci e stabili per farmaci, detergenti e biocarburanti. Il mercato vale 10 miliardi di dollari. Tu pagheresti meno di un abbonamento Spotify per testare i loro enzimi? 💊🔬",
@@ -3626,7 +6398,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/L-R-1st-row-Sim-Singh–Landa-Andrew-Currin-Andy-Almond-Timothy-Eyes-L-R-2nd-row-Guy-Levy-Yurista-Rob-Wilson-Dr-Kath-Mackay-2.jpg?resize=1200,800",
       "savedAt": "2026-05-21T07:43:02.490Z",
-      "sourceId": "5e8958d1d9f608be8954eaa56712363e"
+      "sourceId": "5e8958d1d9f608be8954eaa56712363e",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -3679,6 +6453,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "OpenAI ha fissato settembre per la quotazione in Borsa, ma la SEC indaga su cosa non stanno dicendo agli investitori 📊. Il modello di business resta segreto: chi compra le azioni ora non vede i conti, solo promesse. Se i numeri post-IPO non reggono, il prezzo crolla subito 💥. Per chi lavora o investe in AI, comprare oggi significa scommettere alla cieca su un motore che non hai mai visto funzionare. I primi dati veri arriveranno coi trimestrali dopo il debutto — aspetterai o entri lo stesso? 🔍"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "OpenAI si prepara a un grande passo!",
+              "voiceover": "OpenAI vuole fare l'IPO a settembre.",
+              "on_screen_text": "IPO a Settembre?",
+              "visual_direction": "Testo che appare con un effetto di zoom",
+              "caption": "Rimanete aggiornati!",
+              "tone": "urgent",
+              "emphasis_word": "IPO",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Cosa c'è dietro le quinte?",
+              "voiceover": "C'è un'indagine della SEC in corso.",
+              "on_screen_text": "Indagine SEC in Corso",
+              "visual_direction": "Testo che scorre da sinistra a destra",
+              "caption": "Quali saranno le conseguenze?",
+              "tone": "informative",
+              "emphasis_word": "SEC",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Un mistero avvolgente!",
+              "voiceover": "Il modello di business è ancora segreto.",
+              "on_screen_text": "Modello Segreto",
+              "visual_direction": "Testo che appare con un effetto di dissolvenza",
+              "caption": "Un'ombra di incertezza.",
+              "tone": "urgent",
+              "emphasis_word": "Segreto",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Come investire in modo sicuro?",
+              "voiceover": "Compri azioni senza vedere i conti.",
+              "on_screen_text": "Nessun Accesso ai Conti",
+              "visual_direction": "Testo che pulsa",
+              "caption": "Fai attenzione!",
+              "tone": "urgent",
+              "emphasis_word": "Nessun",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "La verità verrà a galla.",
+              "voiceover": "Il valore lo decideranno i fatti, non le promesse.",
+              "on_screen_text": "Fatti vs Promesse",
+              "visual_direction": "Testo che si frantuma",
+              "caption": "Sii saggio nei tuoi investimenti.",
+              "tone": "informative",
+              "emphasis_word": "Fatti",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Segui per aggiornamenti su OpenAI!"
         }
       },
       "instagram_caption": "OpenAI ha fissato settembre per la quotazione in Borsa, ma la SEC indaga su cosa non stanno dicendo agli investitori 📊. Il modello di business resta segreto: chi compra le azioni ora non vede i conti, solo promesse. Se i numeri post-IPO non reggono, il prezzo crolla subito 💥. Per chi lavora o investe in AI, comprare oggi significa scommettere alla cieca su un motore che non hai mai visto funzionare. I primi dati veri arriveranno coi trimestrali dopo il debutto — aspetterai o entri lo stesso? 🔍",
@@ -3730,7 +6571,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
       "savedAt": "2026-05-20T23:06:58.179Z",
-      "sourceId": "8ee8f9a64ecd6635c36597e1f18caad4"
+      "sourceId": "8ee8f9a64ecd6635c36597e1f18caad4",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -3783,6 +6626,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Anthropic pagherà 1,25 miliardi di dollari al mese per usare i server di xAI. 🖥️ Non per comprarli: è un affitto, il contratto cloud più grande mai firmato nel settore. Il motivo è fisico: xAI possiede GPU che Anthropic non può avere, punto. 💸 Oggi chi costruisce modelli deve scegliere: o possiedi l'hardware, o paghi un canone. Per chi usa strumenti AI, questo significa che i costi lieviteranno e i servizi potrebbero diventare meno indipendenti. ⚡ Quale azienda firmerà il prossimo accordo da 15 miliardi?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Un accordo senza precedenti!",
+              "voiceover": "Anthropic pagherà 1.25 miliardi al mese per GPU.",
+              "on_screen_text": "1.25 MILIARDI AL MESE",
+              "visual_direction": "Testo che appare in modo dinamico con effetti di movimento.",
+              "caption": "Scopri di più su questo enorme contratto.",
+              "tone": "urgent",
+              "emphasis_word": "MILIONI",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Perché è così importante?",
+              "voiceover": "xAI ha GPU che Anthropic non può comprare.",
+              "on_screen_text": "GPU INACCESSIBILI",
+              "visual_direction": "Sfondo che cambia con immagini di GPU.",
+              "caption": "Le risorse sono limitate.",
+              "tone": "informative",
+              "emphasis_word": "INACCESSIBILI",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Non è solo un problema tecnico.",
+              "voiceover": "Non è una scelta tecnica, è fisica.",
+              "on_screen_text": "È FISICA",
+              "visual_direction": "Animazione che rappresenta concetti fisici.",
+              "caption": "Le limitazioni fisiche contano.",
+              "tone": "informative",
+              "emphasis_word": "FISICA",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Il contratto cloud più grande!",
+              "voiceover": "È il contratto cloud più grande mai visto.",
+              "on_screen_text": "CONTRATTO RECORD",
+              "visual_direction": "Effetti visivi che evidenziano l'importanza del contratto.",
+              "caption": "Cosa significa per l'industria?",
+              "tone": "urgent",
+              "emphasis_word": "RECORD",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "La scelta è cruciale.",
+              "voiceover": "Chi fa modelli deve scegliere da chi affittare.",
+              "on_screen_text": "SCELTA CRUCIALE",
+              "visual_direction": "Testo che lampeggia per attirare attenzione.",
+              "caption": "Segui per ulteriori aggiornamenti.",
+              "tone": "inspiring",
+              "emphasis_word": "CRUCIALE",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Segui per le ultime novità!"
         }
       },
       "instagram_caption": "Anthropic pagherà 1,25 miliardi di dollari al mese per usare i server di xAI. 🖥️ Non per comprarli: è un affitto, il contratto cloud più grande mai firmato nel settore. Il motivo è fisico: xAI possiede GPU che Anthropic non può avere, punto. 💸 Oggi chi costruisce modelli deve scegliere: o possiedi l'hardware, o paghi un canone. Per chi usa strumenti AI, questo significa che i costi lieviteranno e i servizi potrebbero diventare meno indipendenti. ⚡ Quale azienda firmerà il prossimo accordo da 15 miliardi?",
@@ -3834,7 +6744,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800",
       "savedAt": "2026-05-20T23:06:47.781Z",
-      "sourceId": "8ad8deb316081a848527e6a09ec0d5e2"
+      "sourceId": "8ad8deb316081a848527e6a09ec0d5e2",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -3887,6 +6799,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "xAI ha perso 6,4 miliardi di dollari l'anno scorso, ma Musk non spegne i server 💸 Perché? SpaceX, nei documenti per l'IPO, ha rivelato che quei costi nascosti alimentano un'AI da 10 miliardi di parametri in orbita. In pratica, chi usa Starlink paga già la bolletta della concorrenza 🛰️ Per te significa che il tuo provider internet potrebbe finanziare xAI senza che tu lo sappia. Controlla oggi: il tuo abbonamento tiene accese macchine che perdono soldi?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "SpaceX ha nascosto dei costi.",
+              "voiceover": "SpaceX ha nascosto dei costi nei documenti IPO.",
+              "on_screen_text": "Costi Nascosti",
+              "visual_direction": "Text zooms in from the sides.",
+              "caption": "Scopri la verità.",
+              "tone": "urgent",
+              "emphasis_word": "nascosti",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Intanto, xAI perde miliardi.",
+              "voiceover": "Intanto xAI perde 6,4 miliardi di dollari.",
+              "on_screen_text": "xAI: -6,4 miliardi",
+              "visual_direction": "Text appears with a crash sound effect.",
+              "caption": "Cosa significa per il futuro?",
+              "tone": "urgent",
+              "emphasis_word": "6,4 miliardi",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Perché Musk non spegne i server?",
+              "voiceover": "Perché Musk non spegne i server?",
+              "on_screen_text": "Perché non spegne?",
+              "visual_direction": "Text flickers like a server light.",
+              "caption": "Domande senza risposta.",
+              "tone": "informative",
+              "emphasis_word": "spegne",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "L'AI è in orbita.",
+              "voiceover": "Perché l'AI da 10 miliardi di parametri è in orbita.",
+              "on_screen_text": "AI in Orbita",
+              "visual_direction": "Text spins around like a satellite.",
+              "caption": "Un investimento rischioso.",
+              "tone": "informative",
+              "emphasis_word": "orbita",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "E tu paghi tutto.",
+              "voiceover": "E tu paghi tutto con Starlink.",
+              "on_screen_text": "Tu Paghi!",
+              "visual_direction": "Text bursts onto the screen.",
+              "caption": "Scopri di più.",
+              "tone": "urgent",
+              "emphasis_word": "Paghi",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 25,
+          "cta": "Scopri di più su questo tema."
         }
       },
       "instagram_caption": "xAI ha perso 6,4 miliardi di dollari l'anno scorso, ma Musk non spegne i server 💸 Perché? SpaceX, nei documenti per l'IPO, ha rivelato che quei costi nascosti alimentano un'AI da 10 miliardi di parametri in orbita. In pratica, chi usa Starlink paga già la bolletta della concorrenza 🛰️ Per te significa che il tuo provider internet potrebbe finanziare xAI senza che tu lo sappia. Controlla oggi: il tuo abbonamento tiene accese macchine che perdono soldi?",
@@ -3938,7 +6917,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
       "savedAt": "2026-05-20T23:06:37.795Z",
-      "sourceId": "1dd7071627fcd1796487517dea8a3c3a"
+      "sourceId": "1dd7071627fcd1796487517dea8a3c3a",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -3991,6 +6972,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Un'AI di bordo su una navicella SpaceX ha già modificato da sola la rotta di un volo cargo, senza preavviso 🚀. Ora, Musk vuole portare questa stessa tecnologia sui voli umani tra 6 mesi: nessun pilota, nessun override manuale. Il filing IPO include una clausola che gli dà controllo tech anche dopo la quotazione. Se entri ora compri azioni con voto limitato, ma se aspetti l'approvazione sull'AI il prezzo triplica ⏳. Cosa succede se l'AI decide di non far partire un volo?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "L’AI decide se un volo umano può partire.",
+              "voiceover": "L’AI decide se un volo umano può partire.",
+              "on_screen_text": "L’AI DECIDE IL Volo",
+              "visual_direction": "testo in movimento verso l'alto",
+              "caption": "La nuova era del volo.",
+              "tone": "urgent",
+              "emphasis_word": "AI",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Musk l’ha già attivata su Starship.",
+              "voiceover": "Musk l’ha già attivata su Starship.",
+              "on_screen_text": "Musk ATTIVA L’AI",
+              "visual_direction": "zoom in sul testo",
+              "caption": "Innovazione senza precedenti.",
+              "tone": "informative",
+              "emphasis_word": "ATTIVA",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Nessun pilota, nessun override manuale.",
+              "voiceover": "Nessun pilota, nessun override manuale.",
+              "on_screen_text": "NESSUN PILOTA",
+              "visual_direction": "testo che ruota",
+              "caption": "Il futuro del volo autonomo.",
+              "tone": "urgent",
+              "emphasis_word": "NESSUN",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Il filing IPO ha una clausola nascosta.",
+              "voiceover": "Il filing IPO ha una clausola nascosta.",
+              "on_screen_text": "CLAUSOLA NASCOSTA",
+              "visual_direction": "testo che si dissolve",
+              "caption": "Scopri i dettagli.",
+              "tone": "informative",
+              "emphasis_word": "NASCOSTA",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Cercala: si chiama Risk Factors – AI Autonomy.",
+              "voiceover": "Cercala: si chiama Risk Factors – AI Autonomy.",
+              "on_screen_text": "RISK FACTORS: AI AUTONOMY",
+              "visual_direction": "testo che esplode",
+              "caption": "Non perderti questa informazione!",
+              "tone": "urgent",
+              "emphasis_word": "AUTONOMY",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Scopri di più su SpaceX!"
         }
       },
       "instagram_caption": "Un'AI di bordo su una navicella SpaceX ha già modificato da sola la rotta di un volo cargo, senza preavviso 🚀. Ora, Musk vuole portare questa stessa tecnologia sui voli umani tra 6 mesi: nessun pilota, nessun override manuale. Il filing IPO include una clausola che gli dà controllo tech anche dopo la quotazione. Se entri ora compri azioni con voto limitato, ma se aspetti l'approvazione sull'AI il prezzo triplica ⏳. Cosa succede se l'AI decide di non far partire un volo?",
@@ -4042,7 +7090,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/spacex-rocket-getty.jpg?resize=1200,801",
       "savedAt": "2026-05-20T23:06:27.157Z",
-      "sourceId": "78c2c16806e20de02548c463868c6c67"
+      "sourceId": "78c2c16806e20de02548c463868c6c67",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -4095,6 +7145,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Stability AI ha rilasciato un modello che scrive canzoni di 6 minuti, complete di voce e strumenti, partendo da una semplice frase di testo. Basta un prompt e l'AI costruisce intro, strofa e ritornello. Il problema? I dati di addestramento includono musica protetta da copyright, usata senza permesso. 🎵 Per te, creatore o appassionato, significa che da oggi puoi generare brani interi in pochi secondi, mentre gli artisti devono decidere se adattarsi o chiedere un compenso. ⚖️ Sei tra chi lo proverà o tra chi aspetta regole più chiare?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Stability AI è qui!",
+              "voiceover": "Stability AI genera canzoni di 6 minuti.",
+              "on_screen_text": "Canzoni di 6 minuti!",
+              "visual_direction": "Animazione di note musicali che ballano.",
+              "caption": "Scopri la nuova tecnologia!",
+              "tone": "informative",
+              "emphasis_word": "canzoni",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Crea musica con un prompt!",
+              "voiceover": "Da un prompt crea voce e strumenti.",
+              "on_screen_text": "Voce e strumenti da un prompt!",
+              "visual_direction": "Animazione di un computer che genera musica.",
+              "caption": "Innovazione musicale!",
+              "tone": "inspiring",
+              "emphasis_word": "innovazione",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Ma c'è un problema.",
+              "voiceover": "Ha usato musica protetta senza permesso.",
+              "on_screen_text": "Musica protetta senza permesso!",
+              "visual_direction": "Schermo che mostra un segnale di divieto.",
+              "caption": "Attenzione!",
+              "tone": "urgent",
+              "emphasis_word": "protetta",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Artisti in crisi.",
+              "voiceover": "Artisti devono decidere: adattarsi o combattere.",
+              "on_screen_text": "Adattarsi o combattere?",
+              "visual_direction": "Due strade che si biforcano.",
+              "caption": "Scelte difficili!",
+              "tone": "urgent",
+              "emphasis_word": "combattere",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Provalo ora!",
+              "voiceover": "Provalo ora su stableaudio.com.",
+              "on_screen_text": "Visita stableaudio.com!",
+              "visual_direction": "Logo di stableaudio che appare.",
+              "caption": "Inizia a creare!",
+              "tone": "inspiring",
+              "emphasis_word": "creare",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Scopri di più su stableaudio.com"
         }
       },
       "instagram_caption": "Stability AI ha rilasciato un modello che scrive canzoni di 6 minuti, complete di voce e strumenti, partendo da una semplice frase di testo. Basta un prompt e l'AI costruisce intro, strofa e ritornello. Il problema? I dati di addestramento includono musica protetta da copyright, usata senza permesso. 🎵 Per te, creatore o appassionato, significa che da oggi puoi generare brani interi in pochi secondi, mentre gli artisti devono decidere se adattarsi o chiedere un compenso. ⚖️ Sei tra chi lo proverà o tra chi aspetta regole più chiare?",
@@ -4146,7 +7263,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1480808838.jpg?resize=1200,800",
       "savedAt": "2026-05-20T21:45:13.314Z",
-      "sourceId": "17cdb3afa6c1cf9df8f8b8feb4e96b74"
+      "sourceId": "17cdb3afa6c1cf9df8f8b8feb4e96b74",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -4199,6 +7318,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Airbnb ha appena comprato hotel e li ha messi sulla sua piattaforma, ma la mossa vera è un’altra: ora un sistema automatico valuta la tua casa in 48 ore per decidere se può essere affittata 🏠. Nessuno sa esattamente come decida se una stanza è “abbastanza luminosa” o adatta, perché i criteri restano una scatola nera. Il risultato? Hotel con recensioni decennali e host singoli che caricano foto alla cieca competono sullo stesso piano, ma solo chi ha dati storici parte già avanti 🤖. Per te, confrontare un soggiorno umano con uno gestito da bot potrebbe diventare indistinguibile. Quando prenoterai, saprai chi c’è davvero dall’altra parte? 🛎️"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Airbnb si evolve!",
+              "voiceover": "Airbnb usa un'AI per valutare le case.",
+              "on_screen_text": "Airbnb usa un'AI",
+              "visual_direction": "Testo animato che appare con un effetto di zoom.",
+              "caption": "Scopri come funziona!",
+              "tone": "informative",
+              "emphasis_word": "AI",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Incredibile, vero?",
+              "voiceover": "In sole 48 ore decidi se affittare.",
+              "on_screen_text": "48 ore per decidere!",
+              "visual_direction": "Countdown animato che si riduce.",
+              "caption": "Tempo di affittare!",
+              "tone": "urgent",
+              "emphasis_word": "48 ore",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Ma c'è un mistero...",
+              "voiceover": "Ma nessuno sa come funziona.",
+              "on_screen_text": "Un mistero da svelare!",
+              "visual_direction": "Testo che sfuma mentre appare una scatola nera.",
+              "caption": "Rivelazioni in arrivo!",
+              "tone": "inspiring",
+              "emphasis_word": "mistero",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Novità in arrivo!",
+              "voiceover": "È una scatola nera che decide.",
+              "on_screen_text": "Scatola nera!",
+              "visual_direction": "Animazione della scatola nera che si apre.",
+              "caption": "Scopri di più!",
+              "tone": "informative",
+              "emphasis_word": "scatola nera",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "E non finisce qui!",
+              "voiceover": "Ora anche hotel entrano nella piattaforma.",
+              "on_screen_text": "Hotel sulla piattaforma!",
+              "visual_direction": "Transizione a immagini di hotel.",
+              "caption": "Unisciti a noi!",
+              "tone": "urgent",
+              "emphasis_word": "hotel",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Scopri di più su Airbnb!"
         }
       },
       "instagram_caption": "Airbnb ha appena comprato hotel e li ha messi sulla sua piattaforma, ma la mossa vera è un’altra: ora un sistema automatico valuta la tua casa in 48 ore per decidere se può essere affittata 🏠. Nessuno sa esattamente come decida se una stanza è “abbastanza luminosa” o adatta, perché i criteri restano una scatola nera. Il risultato? Hotel con recensioni decennali e host singoli che caricano foto alla cieca competono sullo stesso piano, ma solo chi ha dati storici parte già avanti 🤖. Per te, confrontare un soggiorno umano con uno gestito da bot potrebbe diventare indistinguibile. Quando prenoterai, saprai chi c’è davvero dall’altra parte? 🛎️",
@@ -4250,7 +7436,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/en-US-Homepage.jpeg?resize=1200,800",
       "savedAt": "2026-05-20T21:44:48.572Z",
-      "sourceId": "100c0f883ef1e2f34204d843b74c578b"
+      "sourceId": "100c0f883ef1e2f34204d843b74c578b",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -4303,6 +7491,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Un teorema matematico rimasto irrisolto per 80 anni è stato dimostrato da un’intelligenza artificiale. Il problema fa parte della teoria dei gruppi, lo studio delle simmetrie che sta dietro a come proteggiamo i dati online 🧮. OpenAI ha pubblicato la prova su arXiv, aperta a chiunque voglia controllarla passo dopo passo 🔍. Se la dimostrazione regge, potremmo avere algoritmi di crittografia più veloci, senza indebolire la sicurezza dei tuoi messaggi o delle transazioni bancarie 🔐. Hai già dato un’occhiata al paper per verificare se i conti tornano?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Un teorema irrisolto per 80 anni?",
+              "voiceover": "Nessuno era riuscito a dimostrare questo teorema.",
+              "on_screen_text": "80 ANNI SENZA RISPOSTA",
+              "visual_direction": "testo che appare con un effetto di scrittura",
+              "caption": "Un mistero matematico",
+              "tone": "urgent",
+              "emphasis_word": "80 ANNI",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "E ora, l'inaspettato!",
+              "voiceover": "L'ha fatto un'AI. Si chiama OpenAI.",
+              "on_screen_text": "L'AI HA RISOLTO IL PROBLEMA",
+              "visual_direction": "animazione di un cervello digitale che illumina",
+              "caption": "Il futuro della matematica",
+              "tone": "inspiring",
+              "emphasis_word": "AI",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Un passo avanti nella scienza!",
+              "voiceover": "È un problema di simmetria e teoria dei gruppi.",
+              "on_screen_text": "SIMMETRIA E TEORIA DEI GRUPPI",
+              "visual_direction": "grafica di forme simmetriche che si muovono",
+              "caption": "Scoperte sorprendenti",
+              "tone": "informative",
+              "emphasis_word": "SIMMETRIA",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Cosa significa per noi?",
+              "voiceover": "Se è vero, la crittografia può accelerare.",
+              "on_screen_text": "CRITTIGRAFIA VELOCE",
+              "visual_direction": "testo che si muove veloce sullo schermo",
+              "caption": "Implicazioni enormi",
+              "tone": "urgent",
+              "emphasis_word": "VELOCE",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 4,
+              "hook": "Scopri di più!",
+              "voiceover": "Il paper è su arXiv. Vai a controllare.",
+              "on_screen_text": "CONTROLLO SU arXiv",
+              "visual_direction": "animazione di un link che si evidenzia",
+              "caption": "Non perdere l'occasione!",
+              "tone": "informative",
+              "emphasis_word": "arXiv",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 25,
+          "cta": "Leggi il paper su arXiv ora!"
         }
       },
       "instagram_caption": "Un teorema matematico rimasto irrisolto per 80 anni è stato dimostrato da un’intelligenza artificiale. Il problema fa parte della teoria dei gruppi, lo studio delle simmetrie che sta dietro a come proteggiamo i dati online 🧮. OpenAI ha pubblicato la prova su arXiv, aperta a chiunque voglia controllarla passo dopo passo 🔍. Se la dimostrazione regge, potremmo avere algoritmi di crittografia più veloci, senza indebolire la sicurezza dei tuoi messaggi o delle transazioni bancarie 🔐. Hai già dato un’occhiata al paper per verificare se i conti tornano?",
@@ -4354,7 +7609,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Erdos-problems.png?resize=1200,863",
       "savedAt": "2026-05-20T21:44:34.680Z",
-      "sourceId": "5e513af90e20f1c75ab5ea91673dec3c"
+      "sourceId": "5e513af90e20f1c75ab5ea91673dec3c",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -4407,6 +7664,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Perplexity AI ha appena raccolto 250 milioni per sfidare Google. Non sono più test: startup come Perplexity e altre ti danno risposte dirette invece di link blu, e Google ha già dovuto aggiornare il suo algoritmo per tenere il passo. 🔍 Il punto è che oggi, quando cerchi un'informazione, devi scegliere tra un motore classico e uno conversazionale — non danno lo stesso risultato. 💡 Se usi internet per lavoro, la differenza si sente subito. Costano meno di uno streaming al mese: hai già provato? 🤖"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "AI search startups are booming!",
+              "voiceover": "Google ha risposto. Ecco cosa cambia.",
+              "on_screen_text": "Google ha risposto.",
+              "visual_direction": "Text animates in with a bounce effect.",
+              "caption": "Scopri le novità!",
+              "tone": "urgent",
+              "emphasis_word": "risposto",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Innovazione in arrivo!",
+              "voiceover": "Startup AI raccolgono milioni per sfidarlo.",
+              "on_screen_text": "Startup AI raccolgono milioni.",
+              "visual_direction": "Text slides in from the left.",
+              "caption": "Le nuove sfide!",
+              "tone": "informative",
+              "emphasis_word": "milioni",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Cosa cambia per te?",
+              "voiceover": "L'aggiornamento di Google è cruciale.",
+              "on_screen_text": "Aggiornamento di Google è cruciale.",
+              "visual_direction": "Text fades in with a pulse effect.",
+              "caption": "Rimani aggiornato!",
+              "tone": "urgent",
+              "emphasis_word": "cruciale",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Scegli con saggezza!",
+              "voiceover": "Oggi devi scegliere con cura.",
+              "on_screen_text": "Scegli con cura.",
+              "visual_direction": "Text zooms in quickly.",
+              "caption": "Fai la scelta giusta!",
+              "tone": "informative",
+              "emphasis_word": "cura",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Prova ora!",
+              "voiceover": "Provane una gratis e vedi.",
+              "on_screen_text": "Provane una gratis.",
+              "visual_direction": "Text swipes in from the bottom.",
+              "caption": "Inizia oggi!",
+              "tone": "inspiring",
+              "emphasis_word": "gratis",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 25,
+          "cta": "Scopri di più sul nostro sito!"
         }
       },
       "instagram_caption": "Perplexity AI ha appena raccolto 250 milioni per sfidare Google. Non sono più test: startup come Perplexity e altre ti danno risposte dirette invece di link blu, e Google ha già dovuto aggiornare il suo algoritmo per tenere il passo. 🔍 Il punto è che oggi, quando cerchi un'informazione, devi scegliere tra un motore classico e uno conversazionale — non danno lo stesso risultato. 💡 Se usi internet per lavoro, la differenza si sente subito. Costano meno di uno streaming al mese: hai già provato? 🤖",
@@ -4458,7 +7782,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-ai-sign-Getty.jpg?resize=1200,800",
       "savedAt": "2026-05-20T18:11:45.886Z",
-      "sourceId": "a8b9af8f050e441794ba0fe088e3bbdb"
+      "sourceId": "a8b9af8f050e441794ba0fe088e3bbdb",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -4511,6 +7837,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "3.000 persone, il 10% dei dipendenti Intuit, sono state licenziate e l'azienda ha detto che è per concentrarsi sull'intelligenza artificiale. Hanno chiuso interi reparti — marketing, customer service — non solo ruoli operativi. Adesso, se chiami TurboTax per un problema, dall'altra parte non c'è un essere umano ma un bot: programmato per risolverti il ticket in fretta, non per ascoltarti. Prendi l'organigramma della tua azienda e cancella chi spiega, riconcilia o approva: quanti umani servono davvero? 📉🤖💼🗑️"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Intuit taglia 3,000 posti di lavoro.",
+              "voiceover": "Intuit ha annunciato il licenziamento di oltre 3,000 dipendenti per rifocalizzarsi sull'intelligenza artificiale.",
+              "on_screen_text": "3,000 posti di lavoro tagliati",
+              "visual_direction": "Testo che appare con un effetto di scrittura.",
+              "caption": "La nuova era di Intuit.",
+              "tone": "urgent",
+              "emphasis_word": "tagliati",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Non solo operai.",
+              "voiceover": "Questa riduzione non colpisce solo gli operai, ma interi reparti sono stati saltati.",
+              "on_screen_text": "Interi reparti colpiti!",
+              "visual_direction": "Transizione veloce tra immagini di reparti diversi.",
+              "caption": "Cambiamenti radicali.",
+              "tone": "urgent",
+              "emphasis_word": "reparti",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "TurboTax diventa un bot.",
+              "voiceover": "Il supporto per TurboTax ora è gestito da un bot, non ci saranno più operatori umani.",
+              "on_screen_text": "Supporto TurboTax: un bot.",
+              "visual_direction": "Animazione di un bot che risponde a domande.",
+              "caption": "Il futuro è qui.",
+              "tone": "informative",
+              "emphasis_word": "bot",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 4,
+              "hook": "Niente più umani.",
+              "voiceover": "Non chiamerai più un umano per assistenza, è tutto automatizzato.",
+              "on_screen_text": "Niente più assistenza umana.",
+              "visual_direction": "Testo che si dissolve in un'animazione di un telefono che squilla.",
+              "caption": "La fine di un'era.",
+              "tone": "urgent",
+              "emphasis_word": "umani",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Quanti umani servono?",
+              "voiceover": "Quanti umani servono davvero nella tua azienda ora che tutto è automatizzato?",
+              "on_screen_text": "Quanti umani servono?",
+              "visual_direction": "Testo che si ingrandisce mentre si dissolve.",
+              "caption": "Rifletti sul futuro.",
+              "tone": "inspiring",
+              "emphasis_word": "umani",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 25,
+          "cta": "Scopri di più sul futuro del lavoro."
         }
       },
       "instagram_caption": "3.000 persone, il 10% dei dipendenti Intuit, sono state licenziate e l'azienda ha detto che è per concentrarsi sull'intelligenza artificiale. Hanno chiuso interi reparti — marketing, customer service — non solo ruoli operativi. Adesso, se chiami TurboTax per un problema, dall'altra parte non c'è un essere umano ma un bot: programmato per risolverti il ticket in fretta, non per ascoltarti. Prendi l'organigramma della tua azienda e cancella chi spiega, riconcilia o approva: quanti umani servono davvero? 📉🤖💼🗑️",
@@ -4562,7 +7955,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2261740845.jpg?w=1024",
       "savedAt": "2026-05-20T18:11:33.370Z",
-      "sourceId": "6e56061a8de1e5320f65ff2ce23a02c4"
+      "sourceId": "6e56061a8de1e5320f65ff2ce23a02c4",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -4615,6 +8010,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "A settembre OpenAI potrebbe sbarcare in Borsa, ma i suoi bilanci restano un buco nero. I ricavi con l'AI crescono, certo — ma le spese per tenere in piedi modelli come GPT corrono ancora più veloci. 🚂 Nessun trimestre ha finora mostrato profitti certi. Per chi lavora o investe nel settore, significa operare alla cieca: se arriva l'IPO, i retail compreranno azioni senza sapere quanto l’azienda perde davvero. 🔍 I conti sono su EDGAR, ma devi cercarteli tu. Scommetteresti su un'azienda che non mostra il conto? 💸"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "OpenAI barrels towards IPO!",
+              "voiceover": "OpenAI vuole quotarsi in borsa a settembre.",
+              "on_screen_text": "OpenAI verso IPO!",
+              "visual_direction": "Animazione dinamica del testo che scorre in alto.",
+              "caption": "Preparati a investire.",
+              "tone": "urgent",
+              "emphasis_word": "IPO",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ma quali sono i conti?",
+              "voiceover": "Ma i conti restano un segreto.",
+              "on_screen_text": "Conti segreti!",
+              "visual_direction": "Testo che si dissolve e appare in sequenza.",
+              "caption": "Scopri di più.",
+              "tone": "informative",
+              "emphasis_word": "segreto",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Ricavi in crescita!",
+              "voiceover": "I ricavi salgono, i costi salgono di più.",
+              "on_screen_text": "Costi in aumento!",
+              "visual_direction": "Grafica con freccia in su e in giù.",
+              "caption": "Cosa significa per te?",
+              "tone": "urgent",
+              "emphasis_word": "aumento",
+              "layout": "split"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Profitti in dubbio?",
+              "voiceover": "Profitti sostenibili? Mai dimostrati.",
+              "on_screen_text": "Profitti non dimostrati!",
+              "visual_direction": "Testo che lampeggia per enfatizzare il dubbio.",
+              "caption": "Investire con cautela.",
+              "tone": "informative",
+              "emphasis_word": "dubbio",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Controlla i bilanci!",
+              "voiceover": "Controlla i bilanci prima di investire.",
+              "on_screen_text": "Controlla i bilanci!",
+              "visual_direction": "Testo che scorre orizzontalmente per attirare attenzione.",
+              "caption": "Fai la tua ricerca.",
+              "tone": "urgent",
+              "emphasis_word": "controlla",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Investi solo se sei sicuro."
         }
       },
       "instagram_caption": "A settembre OpenAI potrebbe sbarcare in Borsa, ma i suoi bilanci restano un buco nero. I ricavi con l'AI crescono, certo — ma le spese per tenere in piedi modelli come GPT corrono ancora più veloci. 🚂 Nessun trimestre ha finora mostrato profitti certi. Per chi lavora o investe nel settore, significa operare alla cieca: se arriva l'IPO, i retail compreranno azioni senza sapere quanto l’azienda perde davvero. 🔍 I conti sono su EDGAR, ma devi cercarteli tu. Scommetteresti su un'azienda che non mostra il conto? 💸",
@@ -4666,7 +8128,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
       "savedAt": "2026-05-20T18:11:19.576Z",
-      "sourceId": "1c43383d7ae7249375e022dfa68d53b2"
+      "sourceId": "1c43383d7ae7249375e022dfa68d53b2",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -4719,6 +8183,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Figma ha ora un assistente AI che non si limita a generare design da zero, ma modifica componenti già esistenti in tempo reale, capendo il contesto del progetto. 🎯 Mentre altri tool creano mockup isolati, questo sistema riscrive il tuo lavoro direttamente nel canvas, senza sostituirlo. Il risultato? Un team senza developer può ora iterare prototipi funzionanti in minuti, trasformando il feedback in azione immediata anziché in una riunione tra due giorni. ⏱️ Apri un file Figma e chiedigli: \"aggiungi stato vuoto\". ✏️ Quanto tempo risparmi oggi?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Figma now understands your project.",
+              "voiceover": "Figma ora capisce il tuo progetto.",
+              "on_screen_text": "Figma capisce il tuo progetto!",
+              "visual_direction": "Animazione di testo che si espande.",
+              "caption": "Scopri la nuova funzionalità.",
+              "tone": "informative",
+              "emphasis_word": "capisce",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Modify components in real time.",
+              "voiceover": "Modifica componenti in tempo reale.",
+              "on_screen_text": "Modifica componenti in tempo reale!",
+              "visual_direction": "Testo che scorre con colori vivaci.",
+              "caption": "Collaborazione senza sforzo.",
+              "tone": "urgent",
+              "emphasis_word": "reale",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "No developers needed!",
+              "voiceover": "Team senza developer prototipano in minuti.",
+              "on_screen_text": "Prototipa in minuti!",
+              "visual_direction": "Transizione rapida tra i testi.",
+              "caption": "Accelera il tuo workflow.",
+              "tone": "inspiring",
+              "emphasis_word": "minuti",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Open a file and ask it questions.",
+              "voiceover": "Apri un file e chiedigli cose semplici.",
+              "on_screen_text": "Chiedi cose semplici!",
+              "visual_direction": "Testo che appare con effetti di scrittura.",
+              "caption": "Facilità d'uso.",
+              "tone": "informative",
+              "emphasis_word": "semplici",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Try 'add empty state'—it works now.",
+              "voiceover": "Prova 'aggiungi stato vuoto'—funziona subito.",
+              "on_screen_text": "Funziona subito!",
+              "visual_direction": "Testo che lampeggia per evidenziare l'azione.",
+              "caption": "Inizia a creare oggi.",
+              "tone": "urgent",
+              "emphasis_word": "subito",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 26,
+          "cta": "Inizia a usare Figma ora!"
         }
       },
       "instagram_caption": "Figma ha ora un assistente AI che non si limita a generare design da zero, ma modifica componenti già esistenti in tempo reale, capendo il contesto del progetto. 🎯 Mentre altri tool creano mockup isolati, questo sistema riscrive il tuo lavoro direttamente nel canvas, senza sostituirlo. Il risultato? Un team senza developer può ora iterare prototipi funzionanti in minuti, trasformando il feedback in azione immediata anziché in una riunione tra due giorni. ⏱️ Apri un file Figma e chiedigli: \"aggiungi stato vuoto\". ✏️ Quanto tempo risparmi oggi?",
@@ -4770,7 +8301,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Agent-On-Canvas-Entrypoint.png?resize=1200,675",
       "savedAt": "2026-05-20T14:40:10.514Z",
-      "sourceId": "7fa0875ec0c9b04b126b1212bd03570e"
+      "sourceId": "7fa0875ec0c9b04b126b1212bd03570e",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -4823,6 +8356,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "NanoClaw ha appena detto no a 20 milioni di dollari. 🚫💰 Perché hanno preferito raccoglierne 12 in seed, con valutazione segreta. Costruiscono robot per micro-interventi chirurgici, un hardwarone che ha bisogno di tempo e non di soldi facili. 🦾 Chi è entrato small nel round ha scommesso in anticipo e ora può raddoppiare. Il seed era a prezzo ribassato: se vuoi investire, apri bene gli occhi sui termini prima di firmare. 📉 Il costo? Meno di un abbonamento Spotify. Seed chiuso, round A ancora aperto. 🎲 Il tuo prossimo passo?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "NanoClaw ha detto no a 20 milioni.",
+              "voiceover": "Incredibile ma vero, NanoClaw rifiuta un'offerta da 20 milioni di dollari.",
+              "on_screen_text": "NO A 20 MILIONI",
+              "visual_direction": "Testo grande che appare con effetto di scrittura.",
+              "caption": "Un rifiuto audace!",
+              "tone": "urgent",
+              "emphasis_word": "NO",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Robot per micro-interventi, roba seria.",
+              "voiceover": "Stiamo parlando di robot per micro-interventi, tecnologia all'avanguardia.",
+              "on_screen_text": "ROBOT PER MICRO-INTERVENTI",
+              "visual_direction": "Animazione di un robot in azione.",
+              "caption": "Innovazione in atto!",
+              "tone": "informative",
+              "emphasis_word": "ROBOT",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Seed da 12, valutazione tenuta segreta.",
+              "voiceover": "Hanno raccolto 12 milioni in un round seed, ma la valutazione è segreta.",
+              "on_screen_text": "12 MILIONI RACCOLTI",
+              "visual_direction": "Grafica che mostra un seme che germoglia.",
+              "caption": "Crescita sotto i riflettori!",
+              "tone": "informative",
+              "emphasis_word": "12 MILIONI",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Small round aperto, controlla i termini.",
+              "voiceover": "Un piccolo round è aperto, assicurati di controllare i termini!",
+              "on_screen_text": "SMALL ROUND APERTO",
+              "visual_direction": "Animazione con una lente d'ingrandimento su documenti.",
+              "caption": "Non perdere l'occasione!",
+              "tone": "urgent",
+              "emphasis_word": "APERTO",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Prezzo ribassato, entri ora o mai.",
+              "voiceover": "Prezzo ribassato, è ora o mai per entrare nel gioco!",
+              "on_screen_text": "ENTRA ORA O MAI",
+              "visual_direction": "Testo che pulsano per attirare attenzione.",
+              "caption": "Ultima chiamata!",
+              "tone": "urgent",
+              "emphasis_word": "ORA",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 28,
+          "cta": "Scopri di più su NanoClaw!"
         }
       },
       "instagram_caption": "NanoClaw ha appena detto no a 20 milioni di dollari. 🚫💰 Perché hanno preferito raccoglierne 12 in seed, con valutazione segreta. Costruiscono robot per micro-interventi chirurgici, un hardwarone che ha bisogno di tempo e non di soldi facili. 🦾 Chi è entrato small nel round ha scommesso in anticipo e ora può raddoppiare. Il seed era a prezzo ribassato: se vuoi investire, apri bene gli occhi sui termini prima di firmare. 📉 Il costo? Meno di un abbonamento Spotify. Seed chiuso, round A ancora aperto. 🎲 Il tuo prossimo passo?",
@@ -4874,7 +8474,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/NanoClaw-fouders-2.jpg?resize=1200,708",
       "savedAt": "2026-05-20T14:39:55.709Z",
-      "sourceId": "2cbd3e3624d2d11f7b0a3c7d9e01688e"
+      "sourceId": "2cbd3e3624d2d11f7b0a3c7d9e01688e",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -4927,6 +8529,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Alibaba ha progettato un chip specializzato per agenti AI, non per fare calcoli più veloci ma per gestire i loro flussi di lavoro: conversazioni, chiamate a strumenti, passaggi di contesto ⚡ Finora l'hardware rincorreva la potenza bruta; ora si adatta a come i modelli ragionano tra loro e con i tool. Il vero motore dell'AI non è più la miniaturizzazione dei transistor, ma l'architettura degli agenti 🤖. **Concretamente**: se il tuo cloud usa chip ottimizzati per pattern agentici, i costi di inferenza potrebbero crollare, anche per task complessi a più passaggi 📉. Hai mai misurato la latenza del tuo modello su un task che richiede tre ragionamenti consecutivi?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "La corsa all'innovazione è cambiata.",
+              "voiceover": "Moore non conta più. Conta come pensano gli agenti.",
+              "on_screen_text": "Conta come pensano gli AGENTI.",
+              "visual_direction": "Testo grande in movimento verso l'alto.",
+              "caption": "La nuova era della tecnologia.",
+              "tone": "urgent",
+              "emphasis_word": "AGENTI",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Alibaba sta guidando il cambiamento.",
+              "voiceover": "Alibaba ha progettato un chip su misura per loro.",
+              "on_screen_text": "Chip su misura di ALIBABA.",
+              "visual_direction": "Testo che appare con un effetto di scrittura.",
+              "caption": "Innovazione al massimo livello.",
+              "tone": "informative",
+              "emphasis_word": "ALIBABA",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "La concorrenza sta seguendo.",
+              "voiceover": "Altri colossi stanno già copiando la mossa.",
+              "on_screen_text": "Colossi stanno COPIANDO.",
+              "visual_direction": "Testo che si frantuma in pezzi.",
+              "caption": "Non è più un gioco individuale.",
+              "tone": "urgent",
+              "emphasis_word": "COPIANDO",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "I costi stanno per ridursi.",
+              "voiceover": "Se l'inferenza segue gli agenti, i costi calano.",
+              "on_screen_text": "Costi CALANO grazie agli AGENTI.",
+              "visual_direction": "Testo che si abbassa gradualmente.",
+              "caption": "Un futuro più accessibile.",
+              "tone": "informative",
+              "emphasis_word": "CALANO",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Metti alla prova questa tecnologia.",
+              "voiceover": "Provare per credere: testalo su un task oggi.",
+              "on_screen_text": "Testalo OGGI su un TASK.",
+              "visual_direction": "Testo lampeggiante per attirare l'attenzione.",
+              "caption": "Inizia ora!",
+              "tone": "inspiring",
+              "emphasis_word": "OGGI",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Scopri di più sulla tecnologia AI."
         }
       },
       "instagram_caption": "Alibaba ha progettato un chip specializzato per agenti AI, non per fare calcoli più veloci ma per gestire i loro flussi di lavoro: conversazioni, chiamate a strumenti, passaggi di contesto ⚡ Finora l'hardware rincorreva la potenza bruta; ora si adatta a come i modelli ragionano tra loro e con i tool. Il vero motore dell'AI non è più la miniaturizzazione dei transistor, ma l'architettura degli agenti 🤖. **Concretamente**: se il tuo cloud usa chip ottimizzati per pattern agentici, i costi di inferenza potrebbero crollare, anche per task complessi a più passaggi 📉. Hai mai misurato la latenza del tuo modello su un task che richiede tre ragionamenti consecutivi?",
@@ -4978,7 +8647,9 @@ window.AGENTS = {
       ],
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/1769486747290.jpeg",
       "savedAt": "2026-05-20T10:43:19.134Z",
-      "sourceId": "a795498fea42cbd6ad979a07154df548"
+      "sourceId": "a795498fea42cbd6ad979a07154df548",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -5031,6 +8702,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Un click e l'AI ti porta al punto esatto di un video dove si parla di ciò che cerchi, senza scorrere la barra. YouTube ha appena lanciato \"Ask YouTube\" e integrato Gemini Omni nei Shorts: ora puoi fare domande complesse a un video e ricevere risposte, mentre l'AI analizza tono e parole nei tuoi vocali. 🎤 Per chi lavora con i contenuti, questo significa raddoppiare i tempi di visione senza aumentare lo sforzo. ⏱️ Costa meno di un caffè al giorno. Quanto tempo risparmieresti su un video di un'ora?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Hai visto che ora puoi parlare con i video?",
+              "voiceover": "Scopri la nuova funzione di ricerca conversazionale!",
+              "on_screen_text": "Parla con i video!",
+              "visual_direction": "Animazione dinamica del testo che appare e scompare.",
+              "caption": "Nuove possibilità con YouTube.",
+              "tone": "urgent",
+              "emphasis_word": "parlare",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Sì, proprio chiedere cose e l'AI risponde.",
+              "voiceover": "Fai domande e ricevi risposte instantanee.",
+              "on_screen_text": "Chiedi, l'AI risponde!",
+              "visual_direction": "Testo che si muove come se stesse parlando.",
+              "caption": "Conversazioni intelligenti.",
+              "tone": "informative",
+              "emphasis_word": "risponde",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Gemini Omni analizza anche i tuoi Shorts vocali.",
+              "voiceover": "Scopri come Gemini Omni migliora la tua esperienza.",
+              "on_screen_text": "Gemini Omni analizza!",
+              "visual_direction": "Grafica che mostra un'analisi in tempo reale.",
+              "caption": "Innovazione continua.",
+              "tone": "informative",
+              "emphasis_word": "analizza",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Non perdi tempo a cercare, conversi e basta.",
+              "voiceover": "Elimina la frustrazione della ricerca.",
+              "on_screen_text": "Conversi e basta!",
+              "visual_direction": "Testo che si dissolve in una nuvola di parole.",
+              "caption": "Semplifica la tua vita.",
+              "tone": "urgent",
+              "emphasis_word": "semplifica",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Prova subito con un video lungo.",
+              "voiceover": "Inizia oggi con i tuoi contenuti preferiti.",
+              "on_screen_text": "Prova ora!",
+              "visual_direction": "Chiusura con testo bold e un pulsante animato.",
+              "caption": "Non aspettare!",
+              "tone": "inspiring",
+              "emphasis_word": "",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Scopri il futuro di YouTube!"
         }
       },
       "instagram_caption": "Un click e l'AI ti porta al punto esatto di un video dove si parla di ciò che cerchi, senza scorrere la barra. YouTube ha appena lanciato \"Ask YouTube\" e integrato Gemini Omni nei Shorts: ora puoi fare domande complesse a un video e ricevere risposte, mentre l'AI analizza tono e parole nei tuoi vocali. 🎤 Per chi lavora con i contenuti, questo significa raddoppiare i tempi di visione senza aumentare lo sforzo. ⏱️ Costa meno di un caffè al giorno. Quanto tempo risparmieresti su un video di un'ora?",
@@ -5082,7 +8820,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-12.00.28-PM.png?resize=1200,665",
       "savedAt": "2026-05-20T07:37:02.707Z",
-      "sourceId": "c43e302c73717d87a689432917def7a8"
+      "sourceId": "c43e302c73717d87a689432917def7a8",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -5135,6 +8875,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Il 90% dei progetti di AI per la sicurezza non supera la fase di test. Non perché la tecnologia non funzioni, ma perché vengono costruiti nel cloud e poi falliscono nel mondo reale. La \"Physical AI\" (robot, droni, sensori) ha bisogno di computer vicini al posto dell'azione, non di server lontani. Se usi un tool AI a lavoro che impiega secondi a rispondere, il problema è lì. Ogni nuova roadmap AI dovrebbe includere la sicurezza dal primo giorno e testare su hardware fisico adesso. Hai già provato a far funzionare un modello AI sul tuo computer, non su internet?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Nove pilot su dieci...",
+              "voiceover": "Nove pilot su dieci non arrivano in produzione.",
+              "on_screen_text": "Nove pilot su dieci...",
+              "visual_direction": "Testo in movimento dall'alto verso il basso.",
+              "caption": "La realtà dei progetti AI",
+              "tone": "urgent",
+              "emphasis_word": "dieci",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Il problema è...",
+              "voiceover": "Il problema è che funzionano solo in cloud.",
+              "on_screen_text": "Funzionano solo in cloud.",
+              "visual_direction": "Testo che appare con effetto di scrittura.",
+              "caption": "Sfida dell'AI",
+              "tone": "informative",
+              "emphasis_word": "cloud",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Serve edge computing...",
+              "voiceover": "Nel mondo reale serve edge computing subito.",
+              "on_screen_text": "Serve edge computing subito.",
+              "visual_direction": "Testo che si espande e contrai.",
+              "caption": "Necessità immediata",
+              "tone": "urgent",
+              "emphasis_word": "subito",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "La sicurezza va messa...",
+              "voiceover": "E la sicurezza va messa dal primo giorno.",
+              "on_screen_text": "Sicurezza dal primo giorno.",
+              "visual_direction": "Testo con sfondo animato di lucchetti.",
+              "caption": "Priorità fondamentale",
+              "tone": "informative",
+              "emphasis_word": "sicurezza",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Testa un prototipo...",
+              "voiceover": "Testa un prototipo questo trimestre o resti indietro.",
+              "on_screen_text": "Testa un prototipo ora!",
+              "visual_direction": "Testo che lampeggia per enfatizzare l'urgenza.",
+              "caption": "Non rimanere indietro",
+              "tone": "urgent",
+              "emphasis_word": "ora",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Inizia oggi il tuo viaggio AI!"
         }
       },
       "instagram_caption": "Il 90% dei progetti di AI per la sicurezza non supera la fase di test. Non perché la tecnologia non funzioni, ma perché vengono costruiti nel cloud e poi falliscono nel mondo reale. La \"Physical AI\" (robot, droni, sensori) ha bisogno di computer vicini al posto dell'azione, non di server lontani. Se usi un tool AI a lavoro che impiega secondi a rispondere, il problema è lì. Ogni nuova roadmap AI dovrebbe includere la sicurezza dal primo giorno e testare su hardware fisico adesso. Hai già provato a far funzionare un modello AI sul tuo computer, non su internet?",
@@ -5186,7 +8993,9 @@ window.AGENTS = {
       ],
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/day-two.png",
       "savedAt": "2026-05-20T07:36:43.411Z",
-      "sourceId": "6ad4b0a087dd85fdb4e16514dcfc6d88"
+      "sourceId": "6ad4b0a087dd85fdb4e16514dcfc6d88",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -5239,6 +9048,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Fino a ieri il tuo assistente Google ti dava risposte, da oggi invece può prenotare un ristorante o ordinare una cena direttamente dentro le app che usi già. 🤖 Non è un semplice aggiornamento: è un cambio di relazione, perché ora è lui a compiere azioni al posto tuo, con le autorizzazioni che gli dai. 🔑 Il limite è che devi decidere subito quanto controllo cedere — non esiste opzione neutra. ⚖️ Per chi lavora, significa delegare compiti pratici risparmiando tempo, ma anche fidarsi di un sistema che agisce in automatico. Domani dagli un comando vero: il risultato ti farà capire se è un alleato o un rischio."
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Google ha sbloccato un assistente IA nuovo.",
+              "voiceover": "Scopri il nuovo assistente IA di Google.",
+              "on_screen_text": "ASSISTENTE IA NUOVO",
+              "visual_direction": "Animazione dinamica del logo Google che si trasforma.",
+              "caption": "Scopri il futuro dell'IA!",
+              "tone": "informative",
+              "emphasis_word": "NUOVO",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Non risponde più, ma esegue azioni.",
+              "voiceover": "Adesso l'assistente non risponde più, agisce.",
+              "on_screen_text": "ESSEGUE AZIONI",
+              "visual_direction": "Mostrare un'animazione di comandi che si trasformano in azioni.",
+              "caption": "Un cambiamento radicale!",
+              "tone": "urgent",
+              "emphasis_word": "AZIONI",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "C'è un limite nelle autorizzazioni.",
+              "voiceover": "Fai attenzione, ci sono limiti nelle autorizzazioni.",
+              "on_screen_text": "LIMITI AUTORIZZAZIONI",
+              "visual_direction": "Visualizzare un lucchetto che si chiude su uno schermo.",
+              "caption": "Sii consapevole!",
+              "tone": "informative",
+              "emphasis_word": "LIMITI",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Provarlo significa decidere quanto controllo cedere.",
+              "voiceover": "Usarlo implica scegliere quanto controllo cedere.",
+              "on_screen_text": "CONTROLLO CEDERE",
+              "visual_direction": "Mostrare una bilancia che pende verso l'uso dell'IA.",
+              "caption": "Fai la scelta giusta!",
+              "tone": "urgent",
+              "emphasis_word": "CONTROLLO",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Domani prova un comando vero.",
+              "voiceover": "Preparati, domani prova un comando vero.",
+              "on_screen_text": "PROVA UN COMANDO",
+              "visual_direction": "Mostrare un countdown che porta a un'azione.",
+              "caption": "Non perdere l'occasione!",
+              "tone": "inspiring",
+              "emphasis_word": "PROVA",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 25,
+          "cta": "Inizia a esplorare oggi stesso!"
         }
       },
       "instagram_caption": "Fino a ieri il tuo assistente Google ti dava risposte, da oggi invece può prenotare un ristorante o ordinare una cena direttamente dentro le app che usi già. 🤖 Non è un semplice aggiornamento: è un cambio di relazione, perché ora è lui a compiere azioni al posto tuo, con le autorizzazioni che gli dai. 🔑 Il limite è che devi decidere subito quanto controllo cedere — non esiste opzione neutra. ⚖️ Per chi lavora, significa delegare compiti pratici risparmiando tempo, ma anche fidarsi di un sistema che agisce in automatico. Domani dagli un comando vero: il risultato ti farà capire se è un alleato o un rischio.",
@@ -5290,7 +9166,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
       "savedAt": "2026-05-20T02:32:42.052Z",
-      "sourceId": "f8e07eea8773280a620912460f7cc3f1"
+      "sourceId": "f8e07eea8773280a620912460f7cc3f1",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -5343,6 +9221,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Elon Musk ha definito Sam Altman un “ladro” della missione di OpenAI, ma in tribunale è emerso che Musk stesso voleva trasformare la società in for-profit. Nel 2015 i due fondatori promettevano di salvare l'IA dalle grandi corporation, ma dietro le quinte entrambi spingevano per il controllo del progetto. Con miliardi in arrivo, l'ideale non-profit è stato accantonato subito. Quando usi strumenti come ChatGPT, il vero potere non sta nel codice, ma in chi decide le regole di accesso. Un’origine nobile è spesso una storia riscritta. 💼⚖️💰"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Elon ha chiamato Sam ladro.",
+              "voiceover": "Elon Musk ha accusato Sam Altman di rubare.",
+              "on_screen_text": "Elon ha chiamato Sam ladro.",
+              "visual_direction": "Testo che appare in modo dinamico.",
+              "caption": "Accuse sorprendenti.",
+              "tone": "urgent",
+              "emphasis_word": "ladro",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Entrambi volevano il controllo.",
+              "voiceover": "Entrambi cercavano di avere il controllo totale.",
+              "on_screen_text": "Controllo totale.",
+              "visual_direction": "Testo che si divide e converge.",
+              "caption": "Chi comanda?",
+              "tone": "urgent",
+              "emphasis_word": "controllo",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Soldi hanno sepolto gli ideali.",
+              "voiceover": "I soldi hanno oscurato i loro ideali originari.",
+              "on_screen_text": "Soldi vs Ideali.",
+              "visual_direction": "Contrasto tra denaro e ideali.",
+              "caption": "La verità nascosta.",
+              "tone": "informative",
+              "emphasis_word": "ideali",
+              "layout": "split"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Non fidarti delle favole.",
+              "voiceover": "Non fidarti delle storie che senti.",
+              "on_screen_text": "Non fidarti delle favole.",
+              "visual_direction": "Effetto di scrittura a mano.",
+              "caption": "Riflessione necessaria.",
+              "tone": "inspiring",
+              "emphasis_word": "favole",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Controlla chi ha il potere.",
+              "voiceover": "Controlla sempre chi detiene il potere.",
+              "on_screen_text": "Chi ha il potere?",
+              "visual_direction": "Zoom su parole chiave.",
+              "caption": "Sii consapevole.",
+              "tone": "urgent",
+              "emphasis_word": "potere",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 26,
+          "cta": "Segui per altre verità."
         }
       },
       "instagram_caption": "Elon Musk ha definito Sam Altman un “ladro” della missione di OpenAI, ma in tribunale è emerso che Musk stesso voleva trasformare la società in for-profit. Nel 2015 i due fondatori promettevano di salvare l'IA dalle grandi corporation, ma dietro le quinte entrambi spingevano per il controllo del progetto. Con miliardi in arrivo, l'ideale non-profit è stato accantonato subito. Quando usi strumenti come ChatGPT, il vero potere non sta nel codice, ma in chi decide le regole di accesso. Un’origine nobile è spesso una storia riscritta. 💼⚖️💰",
@@ -5394,7 +9339,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
       "savedAt": "2026-05-20T02:32:26.165Z",
-      "sourceId": "53d03497bf4f8958b81110967a4b7955"
+      "sourceId": "53d03497bf4f8958b81110967a4b7955",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -5447,6 +9394,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Google ha appena lanciato agenti AI che non si limitano a cercare su Internet: sanno riassumere documenti, organizzare dati e compiere azioni concrete come scrivere una mail o compilare un report. Il problema? Funzionano bene solo su compiti lineari e brevi. Per un progetto reale e complesso serve ancora una persona che coordini. La novità concreta per te? Con un solo prompt puoi automatizzare flussi di ricerca noiosi che ti rubano ore. Prendi un compito ripetitivo dal tuo lavoro e provalo oggi: il divario tra marketing e realtà lo vedi subito 🔍🦾📉⏰"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri come l'AI può aiutarti!",
+              "voiceover": "Nessuno crede che l'AI faccia tutto da sola.",
+              "on_screen_text": "L'AI NON FA TUTTO DA SOLA",
+              "visual_direction": "Testo animato che appare e scompare rapidamente.",
+              "caption": "Inizia a capire l'AI!",
+              "tone": "urgent",
+              "emphasis_word": "NON",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Google ha una novità!",
+              "voiceover": "Google lancia agenti che cercano e agiscono.",
+              "on_screen_text": "AGENTI CHE CERCANO E AGISCONO",
+              "visual_direction": "Testo che si muove lateralmente per enfatizzare movimento.",
+              "caption": "Scopri di più!",
+              "tone": "informative",
+              "emphasis_word": "AGENTI",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Ma non è perfetto.",
+              "voiceover": "Ma falliscono su compiti complessi in più passaggi.",
+              "on_screen_text": "FALLISCONO SUI COMPITI COMPLESSI",
+              "visual_direction": "Testo che si schianta sullo schermo e si frantuma.",
+              "caption": "Limiti da considerare!",
+              "tone": "urgent",
+              "emphasis_word": "FALLISCONO",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Ecco ciò che funziona.",
+              "voiceover": "Quello che funziona: automatizzare ricerche noiose.",
+              "on_screen_text": "AUTOMATIZZA RICERCHE NOIOSE",
+              "visual_direction": "Testo che si illumina come un'idea brillante.",
+              "caption": "Rendi la tua vita più facile!",
+              "tone": "inspiring",
+              "emphasis_word": "AUTOMATIZZA",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Provalo oggi!",
+              "voiceover": "Provane uno vero oggi e vedi il divario.",
+              "on_screen_text": "PROVALO OGGI!",
+              "visual_direction": "Testo che si ingrandisce verso lo spettatore.",
+              "caption": "Sperimenta il futuro!",
+              "tone": "inspiring",
+              "emphasis_word": "",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Scopri di più sui nuovi agenti!"
         }
       },
       "instagram_caption": "Google ha appena lanciato agenti AI che non si limitano a cercare su Internet: sanno riassumere documenti, organizzare dati e compiere azioni concrete come scrivere una mail o compilare un report. Il problema? Funzionano bene solo su compiti lineari e brevi. Per un progetto reale e complesso serve ancora una persona che coordini. La novità concreta per te? Con un solo prompt puoi automatizzare flussi di ricerca noiosi che ti rubano ore. Prendi un compito ripetitivo dal tuo lavoro e provalo oggi: il divario tra marketing e realtà lo vedi subito 🔍🦾📉⏰",
@@ -5498,7 +9512,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/G-information-agents.png?resize=1200,750",
       "savedAt": "2026-05-19T22:57:47.914Z",
-      "sourceId": "56e3cf0857f6af63e1a9f899da36e6cd"
+      "sourceId": "56e3cf0857f6af63e1a9f899da36e6cd",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -5551,6 +9567,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Da Google IO 2026 arriva una novità: parli a Gmail e lui esegue. 🎤 Hai mai chiesto alla tua posta di rispondere da sola? L'AI legge il contesto della tua richiesta, non solo le parole chiave – così trovi un file di tre mesi fa senza toccare la cronologia. 🧠 In pratica: premi il microfono, dici \"manda l'ultima fattura\", e parte. 📄 Niente più ricerca a mano tra 500 email. Quanto tempo risparmieresti se la tua casella ascoltasse ogni giorno? ⏳"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Parla con Gmail!",
+              "voiceover": "Ora puoi interagire con il tuo Gmail.",
+              "on_screen_text": "Parla con Gmail!",
+              "visual_direction": "Animazione di testo in entrata da sinistra.",
+              "caption": "Scopri la novità!",
+              "tone": "urgent",
+              "emphasis_word": "Gmail",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "L'AI è qui!",
+              "voiceover": "L'AI ora capisce il contesto.",
+              "on_screen_text": "L'AI capisce il contesto.",
+              "visual_direction": "Testo che si ingrandisce.",
+              "caption": "Non solo parole.",
+              "tone": "informative",
+              "emphasis_word": "contesto",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Trova facilmente!",
+              "voiceover": "Trova file vecchi senza cercare.",
+              "on_screen_text": "Trova file vecchi!",
+              "visual_direction": "Testo che appare come un documento.",
+              "caption": "Nessuno stress.",
+              "tone": "informative",
+              "emphasis_word": "facilmente",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Gmail autonomo!",
+              "voiceover": "Gmail risponde da solo.",
+              "on_screen_text": "Gmail risponde da solo.",
+              "visual_direction": "Testo che si dissolve e riappare.",
+              "caption": "No più attese.",
+              "tone": "urgent",
+              "emphasis_word": "risponde",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Provalo ora!",
+              "voiceover": "Prova: dettalo subito.",
+              "on_screen_text": "Dettalo subito!",
+              "visual_direction": "Testo che si muove in cerchio.",
+              "caption": "Non perdere tempo.",
+              "tone": "urgent",
+              "emphasis_word": "subito",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 26,
+          "cta": "Inizia a parlare con Gmail oggi!"
         }
       },
       "instagram_caption": "Da Google IO 2026 arriva una novità: parli a Gmail e lui esegue. 🎤 Hai mai chiesto alla tua posta di rispondere da sola? L'AI legge il contesto della tua richiesta, non solo le parole chiave – così trovi un file di tre mesi fa senza toccare la cronologia. 🧠 In pratica: premi il microfono, dici \"manda l'ultima fattura\", e parte. 📄 Niente più ricerca a mano tra 500 email. Quanto tempo risparmieresti se la tua casella ascoltasse ogni giorno? ⏳",
@@ -5602,7 +9685,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
       "savedAt": "2026-05-19T22:57:35.905Z",
-      "sourceId": "df9d01ab5f19feb6891bab5ca0be29e8"
+      "sourceId": "df9d01ab5f19feb6891bab5ca0be29e8",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -5655,6 +9740,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Andrej Karpathy, co-fondatore di OpenAI, ha appena firmato per Anthropic. ⚔️ Lascia la sua vecchia squadra per unirsi al loro team pre-training, il reparto che letteralmente costruisce i modelli più potenti. Non è un cambio di scrivania: Anthropic vuole battere OpenAI partendo dal suo stesso punto di forza, l'addestramento. 🧠 Questo significa che nei prossimi 12 mesi il duello si gioca sulla qualità dei dati e sulla velocità di esecuzione. Per te, che usi strumenti basati su questi modelli, i vincitori di questa corsa decideranno costi e capacità disponibili entro il 2025. 📈 Chi scommetti che eseguirà meglio?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Un grande cambiamento sta avvenendo!",
+              "voiceover": "Karpathy ha lasciato OpenAI per Anthropic.",
+              "on_screen_text": "Karpathy lascia OpenAI",
+              "visual_direction": "Sfondo dinamico con effetti di movimento.",
+              "caption": "Una notizia che scuote il mondo AI.",
+              "tone": "urgent",
+              "emphasis_word": "lasciato",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Non è un semplice cambio di scrivania!",
+              "voiceover": "È entrato nel team che addestra i modelli.",
+              "on_screen_text": "Entrato nel team di addestramento",
+              "visual_direction": "Animazioni di modelli AI che si formano.",
+              "caption": "Un ruolo cruciale per il futuro.",
+              "tone": "informative",
+              "emphasis_word": "addestra",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Cosa significa per il settore?",
+              "voiceover": "Anthropic vuole batterli sul loro stesso terreno.",
+              "on_screen_text": "Battaglia sullo stesso terreno",
+              "visual_direction": "Immagini di due squadre in competizione.",
+              "caption": "Una sfida senza precedenti.",
+              "tone": "urgent",
+              "emphasis_word": "batterli",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "La guerra dell'AI è iniziata!",
+              "voiceover": "Questa guerra definisce chi sarà il nuovo re dell'AI.",
+              "on_screen_text": "Chi sarà il nuovo re dell'AI?",
+              "visual_direction": "Grafica che mostra un trono con loghi AI.",
+              "caption": "Il futuro è incerto.",
+              "tone": "inspiring",
+              "emphasis_word": "re",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Resta aggiornato!",
+              "voiceover": "Segui la battaglia per l'AI.",
+              "on_screen_text": "Segui la battaglia per l'AI",
+              "visual_direction": "Animazioni che collegano i social media.",
+              "caption": "Non perdere i prossimi aggiornamenti!",
+              "tone": "urgent",
+              "emphasis_word": "",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Scopri di più sulle novità AI!"
         }
       },
       "instagram_caption": "Andrej Karpathy, co-fondatore di OpenAI, ha appena firmato per Anthropic. ⚔️ Lascia la sua vecchia squadra per unirsi al loro team pre-training, il reparto che letteralmente costruisce i modelli più potenti. Non è un cambio di scrivania: Anthropic vuole battere OpenAI partendo dal suo stesso punto di forza, l'addestramento. 🧠 Questo significa che nei prossimi 12 mesi il duello si gioca sulla qualità dei dati e sulla velocità di esecuzione. Per te, che usi strumenti basati su questi modelli, i vincitori di questa corsa decideranno costi e capacità disponibili entro il 2025. 📈 Chi scommetti che eseguirà meglio?",
@@ -5706,7 +9858,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1321808956.jpg?w=1024",
       "savedAt": "2026-05-19T21:13:03.485Z",
-      "sourceId": "a173121408daf48e0385e367e4f6e497"
+      "sourceId": "a173121408daf48e0385e367e4f6e497",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -5759,6 +9913,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Un’azienda ha perso 20 milioni di euro in una videochiamata con un CEO falso, generato dall’AI 🎭. Nel frattempo, un ragazzo di 17 anni che ha costruito un Iron Dome fai-da-te con algoritmi di visione artificiale ha appena raccolto 28 milioni di dollari per fermare attacchi come i deepfake bancari e il phishing via Zoom 📞💻. La difesa tradizionale (filtri email e regole statiche) non serve più, perché i criminali non ti chiedono nemmeno di cliccare un link. Il tuo IT team oggi può fermare un attacco solo se riconosce che il “CEO” in chiamata non è chi dice di essere. Hai mai verificato l’identità del tuo capo prima di approvare un bonifico? 🤔🛡️"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Hai perso venti milioni?",
+              "voiceover": "Hai perso venti milioni in una videochiamata.",
+              "on_screen_text": "Hai perso 20 milioni!",
+              "visual_direction": "Testo grande e audace, animato da sinistra a destra.",
+              "caption": "Un colpo devastante.",
+              "tone": "urgent",
+              "emphasis_word": "milioni",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Solo con una voce clonata.",
+              "voiceover": "Sì, solo con una voce clonata.",
+              "on_screen_text": "Voce clonata!",
+              "visual_direction": "Testo che appare con un effetto glitch.",
+              "caption": "La nuova frontiera del phishing.",
+              "tone": "urgent",
+              "emphasis_word": "clonata",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Nessuno ha cliccato niente.",
+              "voiceover": "Nessuno ha cliccato niente.",
+              "on_screen_text": "Nessuno ha cliccato!",
+              "visual_direction": "Testo che si dissolve e riappare.",
+              "caption": "La trappola si chiude.",
+              "tone": "urgent",
+              "emphasis_word": "cliccato",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Un ragazzo ha creato un Iron Dome.",
+              "voiceover": "Un ragazzo ha creato un Iron Dome.",
+              "on_screen_text": "Iron Dome!",
+              "visual_direction": "Testo che esplode in animazione.",
+              "caption": "Difendi la tua azienda.",
+              "tone": "inspiring",
+              "emphasis_word": "Iron Dome",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Ora chiediti.",
+              "voiceover": "Ora chiediti: chi difende la tua azienda?",
+              "on_screen_text": "Chi difende la tua azienda?",
+              "visual_direction": "Testo che si ingrandisce lentamente.",
+              "caption": "Pensa al futuro.",
+              "tone": "informative",
+              "emphasis_word": "difende",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Proteggi la tua azienda ora!"
         }
       },
       "instagram_caption": "Un’azienda ha perso 20 milioni di euro in una videochiamata con un CEO falso, generato dall’AI 🎭. Nel frattempo, un ragazzo di 17 anni che ha costruito un Iron Dome fai-da-te con algoritmi di visione artificiale ha appena raccolto 28 milioni di dollari per fermare attacchi come i deepfake bancari e il phishing via Zoom 📞💻. La difesa tradizionale (filtri email e regole statiche) non serve più, perché i criminali non ti chiedono nemmeno di cliccare un link. Il tuo IT team oggi può fermare un attacco solo se riconosce che il “CEO” in chiamata non è chi dice di essere. Hai mai verificato l’identità del tuo capo prima di approvare un bonifico? 🤔🛡️",
@@ -5810,7 +10031,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Copy-of-IMG_8655.jpg?resize=1200,800",
       "savedAt": "2026-05-19T21:12:50.559Z",
-      "sourceId": "f54e9de1e4157ae5bffe5640465a6cd6"
+      "sourceId": "f54e9de1e4157ae5bffe5640465a6cd6",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -5863,6 +10086,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Google presenta Gemini Spark, un assistente che si integra con Gmail in tempo reale. Non si limita a leggere: analizza tono e contenuto delle email, poi decide da solo se rispondere, archiviare o segnalare 📬. Questo significa che conferma appuntamenti e scrive bozze al posto tuo — e tu lo scopri solo controllando la cronologia ⏳. Il vero costo non è l'abbonamento (meno di un caffè al giorno), ma la fiducia: un fraintendimento su un messaggio di un cliente può costare caro 🤖. Perché non provare prima un'automazione in una cartella \"bozze da verificare\"?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Il futuro delle email è qui!",
+              "voiceover": "Scopri Gemini Spark, l'assistente AI che cambia tutto.",
+              "on_screen_text": "Google presenta Gemini Spark",
+              "visual_direction": "Animazione del logo di Google che si trasforma in Gemini Spark.",
+              "caption": "L'assistente AI per le tue email.",
+              "tone": "informative",
+              "emphasis_word": "Spark",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Delegare le email a un assistente AI.",
+              "voiceover": "Sembra comodo, ma c'è un rovescio della medaglia.",
+              "on_screen_text": "Comodo, ma rischioso",
+              "visual_direction": "Testo che si muove da destra a sinistra con un'ombra inquietante.",
+              "caption": "Rischi da considerare.",
+              "tone": "urgent",
+              "emphasis_word": "rischioso",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Gemini Spark opera in tempo reale.",
+              "voiceover": "Lavora direttamente dentro Gmail, rispondendo istantaneamente.",
+              "on_screen_text": "Lavora in diretta",
+              "visual_direction": "Visualizzazione di un'email che viene elaborata rapidamente.",
+              "caption": "Risposte immediate.",
+              "tone": "informative",
+              "emphasis_word": "diretta",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Non filtra: agisce per te.",
+              "voiceover": "Gemini Spark non si limita a filtrare, prende decisioni.",
+              "on_screen_text": "Agisce per te",
+              "visual_direction": "Animazione di un'AI che compila risposte a email.",
+              "caption": "Decisioni autonome.",
+              "tone": "urgent",
+              "emphasis_word": "agisce",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Il costo non sono i soldi.",
+              "voiceover": "Il vero costo è la fiducia che riponi in lui.",
+              "on_screen_text": "Il costo è la fiducia",
+              "visual_direction": "Visualizzazione di un bilancio tra denaro e fiducia.",
+              "caption": "Rifletti bene.",
+              "tone": "inspiring",
+              "emphasis_word": "fiducia",
+              "layout": "split"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Scopri di più su Gemini Spark!"
         }
       },
       "instagram_caption": "Google presenta Gemini Spark, un assistente che si integra con Gmail in tempo reale. Non si limita a leggere: analizza tono e contenuto delle email, poi decide da solo se rispondere, archiviare o segnalare 📬. Questo significa che conferma appuntamenti e scrive bozze al posto tuo — e tu lo scopri solo controllando la cronologia ⏳. Il vero costo non è l'abbonamento (meno di un caffè al giorno), ma la fiducia: un fraintendimento su un messaggio di un cliente può costare caro 🤖. Perché non provare prima un'automazione in una cartella \"bozze da verificare\"?",
@@ -5914,7 +10204,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/spark.jpg?resize=1200,673",
       "savedAt": "2026-05-19T20:35:48.798Z",
-      "sourceId": "6e6d5dc266f7a4c9bd1aa09aef8edb5b"
+      "sourceId": "6e6d5dc266f7a4c9bd1aa09aef8edb5b",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -5967,6 +10259,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Google ha rilasciato un tool ufficiale per sviluppare app Android direttamente dal terminale, senza aprire Android Studio. Si chiama Android CLI e permette di compilare, testare e distribuire app usando solo riga di comando e un editor di testo. Per ora serve sapere già usare il terminale, ma è il segnale che i flussi di lavoro stanno cambiando: chi dipende dall'IDE per ogni modifica rischia di perdere velocità rispetto a chi automatizza con script e CI. Con 10 minuti di installazione puoi testare oggi stesso un workflow senza interfaccia grafica. Hai già aperto il terminale o aspetti che qualcun altro lo faccia al posto tuo? 🖥️⌨️📱⚙️"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Google ha fatto una cosa grossa.",
+              "voiceover": "Google ha fatto una cosa grossa.",
+              "on_screen_text": "GOOGLE HA FATTO UNA COSA GROSSA.",
+              "visual_direction": "Text appears with a bounce effect.",
+              "caption": "Scopri la novità!",
+              "tone": "urgent",
+              "emphasis_word": "grossa",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Un tool da terminale per Android.",
+              "voiceover": "Un tool da terminale per Android.",
+              "on_screen_text": "UN TOOL DA TERMINALE PER ANDROID.",
+              "visual_direction": "Text slides in from the left.",
+              "caption": "Rivoluziona il tuo modo di lavorare.",
+              "tone": "informative",
+              "emphasis_word": "terminal",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Niente Android Studio, solo riga di comando.",
+              "voiceover": "Niente Android Studio, solo riga di comando.",
+              "on_screen_text": "NESSUN ANDROID STUDIO.",
+              "visual_direction": "Text fades in and out quickly.",
+              "caption": "Semplice e diretto.",
+              "tone": "informative",
+              "emphasis_word": "solo",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Ma devi sapere usare il terminale.",
+              "voiceover": "Ma devi sapere usare il terminale.",
+              "on_screen_text": "SAI USARE IL TERMINALE?",
+              "visual_direction": "Text zooms in dramatically.",
+              "caption": "Preparati a fare il salto.",
+              "tone": "urgent",
+              "emphasis_word": "devi",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Se non lo provi ora, resti indietro.",
+              "voiceover": "Se non lo provi ora, resti indietro.",
+              "on_screen_text": "PROVA ORA O RESTI INDIETRO.",
+              "visual_direction": "Text pulses with urgency.",
+              "caption": "Non perdere tempo!",
+              "tone": "urgent",
+              "emphasis_word": "resti",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 25,
+          "cta": "Inizia a codificare oggi stesso!"
         }
       },
       "instagram_caption": "Google ha rilasciato un tool ufficiale per sviluppare app Android direttamente dal terminale, senza aprire Android Studio. Si chiama Android CLI e permette di compilare, testare e distribuire app usando solo riga di comando e un editor di testo. Per ora serve sapere già usare il terminale, ma è il segnale che i flussi di lavoro stanno cambiando: chi dipende dall'IDE per ogni modifica rischia di perdere velocità rispetto a chi automatizza con script e CI. Con 10 minuti di installazione puoi testare oggi stesso un workflow senza interfaccia grafica. Hai già aperto il terminale o aspetti che qualcun altro lo faccia al posto tuo? 🖥️⌨️📱⚙️",
@@ -6018,7 +10377,9 @@ window.AGENTS = {
       ],
       "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "savedAt": "2026-05-19T20:35:34.327Z",
-      "sourceId": "d2b4dde906051640a9d95cb5faa50bd7"
+      "sourceId": "d2b4dde906051640a9d95cb5faa50bd7",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -6071,6 +10432,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Chiedi a Gmail \"cosa ho perso?\" e la casella ti risponde a voce. 🎤 Google ha attivato un'AI che analizza ogni email in tempo reale: parole chiave, tono, urgenza. Non un semplice filtro, ma un'intelligenza che decide per te cosa è prioritario. 📬 Fino a ieri dovevi aprire tutto; oggi rispondi parlando e le newsletter aspettano. Per chi gestisce centinaia di messaggi al giorno, risparmiare clic significa ore recuperate. ⏳ Ora la domanda è: vuoi che qualcuno ascolti la tua posta al posto tuo? 👂"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Immagina parlare con la tua email.",
+              "voiceover": "I tuoi messaggi non parlano. Loro sì.",
+              "on_screen_text": "I tuoi messaggi non parlano.",
+              "visual_direction": "Animazione di messaggi che prendono vita.",
+              "caption": "Scopri la nuova AI di Google.",
+              "tone": "informative",
+              "emphasis_word": "parlano",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "L'AI è qui per aiutarti!",
+              "voiceover": "L'AI legge ogni email in tempo reale.",
+              "on_screen_text": "L'AI legge ogni email.",
+              "visual_direction": "Testo che appare mentre un'AI legge email.",
+              "caption": "Non perdere tempo.",
+              "tone": "urgent",
+              "emphasis_word": "legge",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Focalizzati su ciò che conta.",
+              "voiceover": "Filtra le urgenze mentre tu parli.",
+              "on_screen_text": "Filtra le urgenze.",
+              "visual_direction": "Animazione che mostra un filtro in azione.",
+              "caption": "Fai spazio alle priorità.",
+              "tone": "urgent",
+              "emphasis_word": "urgenze",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Dì addio ai clic.",
+              "voiceover": "Niente più clic. Solo voce.",
+              "on_screen_text": "Niente più clic.",
+              "visual_direction": "Transizione da un mouse a un microfono.",
+              "caption": "Rendi la tua vita più semplice.",
+              "tone": "inspiring",
+              "emphasis_word": "voce",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Chiedi e ricevi risposte.",
+              "voiceover": "Chiedi 'cos'ho perso?' e lei risponde.",
+              "on_screen_text": "Cos'ho perso?",
+              "visual_direction": "Icona di un'AI che risponde a una domanda.",
+              "caption": "Inizia a usare la nuova AI.",
+              "tone": "inspiring",
+              "emphasis_word": "risponde",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Prova la nuova AI di Google ora!"
         }
       },
       "instagram_caption": "Chiedi a Gmail \"cosa ho perso?\" e la casella ti risponde a voce. 🎤 Google ha attivato un'AI che analizza ogni email in tempo reale: parole chiave, tono, urgenza. Non un semplice filtro, ma un'intelligenza che decide per te cosa è prioritario. 📬 Fino a ieri dovevi aprire tutto; oggi rispondi parlando e le newsletter aspettano. Per chi gestisce centinaia di messaggi al giorno, risparmiare clic significa ore recuperate. ⏳ Ora la domanda è: vuoi che qualcuno ascolti la tua posta al posto tuo? 👂",
@@ -6122,7 +10550,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
       "savedAt": "2026-05-19T20:35:21.153Z",
-      "sourceId": "6a3556082c31b50f5969b96194e224d7"
+      "sourceId": "6a3556082c31b50f5969b96194e224d7",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -6175,6 +10605,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Google ha preso milioni di foto da Street View e ha insegnato a un modello, chiamato Genie, a camminare dentro strade che non esistono 🚶‍♂️. Non usa mappe né GPS: guarda le immagini fisse e ricostruisce al volo curve, incroci e palazzi da ogni angolazione. Per te significa che la tua app di navigazione potrebbe presto funzionare senza una mappa precaricata 🗺️, basta descrivere il percorso a voce. Hai mai provato a far generare una via di casa tua senza disegnarla?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Immagina di camminare in una strada che non esiste.",
+              "voiceover": "Immagina di camminare in una strada che non esiste.",
+              "on_screen_text": "Una strada che non esiste.",
+              "visual_direction": "Testo che appare e svanisce con un'animazione fluida.",
+              "caption": "Scopri il futuro della navigazione!",
+              "tone": "inspiring",
+              "emphasis_word": "non esiste",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Google l'ha appena reso possibile.",
+              "voiceover": "Google l'ha appena reso possibile.",
+              "on_screen_text": "Google l'ha reso possibile.",
+              "visual_direction": "Transizione con effetti di zoom in su 'possibile'.",
+              "caption": "Nuove esperienze ti aspettano.",
+              "tone": "urgent",
+              "emphasis_word": "possibile",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 7,
+              "hook": "Genie impara da Street View.",
+              "voiceover": "Genie impara da Street View.",
+              "on_screen_text": "Genie impara da Street View.",
+              "visual_direction": "Testo che scorre orizzontalmente con immagini di Street View sullo sfondo.",
+              "caption": "Un'innovazione incredibile!",
+              "tone": "informative",
+              "emphasis_word": "",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 8,
+              "hook": "Non serve più una mappa fisica.",
+              "voiceover": "Non serve più una mappa fisica.",
+              "on_screen_text": "Dimentica la mappa fisica.",
+              "visual_direction": "Animazione di una mappa che si dissolve.",
+              "caption": "Il futuro è digitale.",
+              "tone": "urgent",
+              "emphasis_word": "Dimentica",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Provalo oggi stesso.",
+              "voiceover": "Provalo oggi stesso.",
+              "on_screen_text": "Provalo oggi stesso!",
+              "visual_direction": "Testo che lampeggia, con un pulsante animato 'Inizia'.",
+              "caption": "Esplora nuove strade.",
+              "tone": "inspiring",
+              "emphasis_word": "",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 30,
+          "cta": "Scopri di più su Google Genie!"
         }
       },
       "instagram_caption": "Google ha preso milioni di foto da Street View e ha insegnato a un modello, chiamato Genie, a camminare dentro strade che non esistono 🚶‍♂️. Non usa mappe né GPS: guarda le immagini fisse e ricostruisce al volo curve, incroci e palazzi da ogni angolazione. Per te significa che la tua app di navigazione potrebbe presto funzionare senza una mappa precaricata 🗺️, basta descrivere il percorso a voce. Hai mai provato a far generare una via di casa tua senza disegnarla?",
@@ -6226,7 +10723,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Genie-Street-View-NYC.png?resize=1200,662",
       "savedAt": "2026-05-19T20:35:08.268Z",
-      "sourceId": "70e8d0fce37f17cf1a746465a50fa639"
+      "sourceId": "70e8d0fce37f17cf1a746465a50fa639",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -6279,6 +10778,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "DeepMind ha preso un modello AI non tra i più potenti e lo ha messo al centro del suo nuovo tool di design. 🎯 Il punto? Hanno creato un framework dove interfaccia e ragionamento dell’AI non sono più separati — forma e funzionalità diventano un’unica cosa. Questo significa che Google si candida a riscrivere le regole del gioco, sfidando chi finora dettava legge. 🧠 Per chi progetta interfacce, niente sarà più come prima: l’AI smette di essere un plugin e diventa il sistema operativo del tuo workflow. 🛠️ Hai già un progetto che rimandi da mesi? Forse è ora di testarlo."
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Google is shaking up AI design!",
+              "voiceover": "DeepMind ha scelto il modello sbagliato? No, ha scelto quello giusto per un motivo preciso.",
+              "on_screen_text": "Google is shaking up AI design!",
+              "visual_direction": "Animazione del logo Google che si trasforma in testo.",
+              "caption": "Rivoluzione nel design AI!",
+              "tone": "urgent",
+              "emphasis_word": "rivoluzione",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Forma e funzionalità unite!",
+              "voiceover": "Forma e funzionalità non sono più separate. Adesso l'interfaccia pensa con te.",
+              "on_screen_text": "Forma & Funzionalità Unite!",
+              "visual_direction": "Transizioni fluide tra forme geometriche.",
+              "caption": "Design innovativo!",
+              "tone": "informative",
+              "emphasis_word": "unite",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Nuove regole del design!",
+              "voiceover": "Google ha cambiato le regole del design AI. Gli altri ora devono rincorrere.",
+              "on_screen_text": "Nuove Regole del Design!",
+              "visual_direction": "Grafica che mostra un percorso in salita.",
+              "caption": "Non restare indietro!",
+              "tone": "urgent",
+              "emphasis_word": "",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Addio ai vecchi manuali!",
+              "voiceover": "Ogni progettista dovrà buttare via i vecchi manuali. L'AI non è più un extra.",
+              "on_screen_text": "Addio ai vecchi manuali!",
+              "visual_direction": "Immagini di manuali che vengono strappati.",
+              "caption": "Evoluzione necessaria!",
+              "tone": "inspiring",
+              "emphasis_word": "evoluzione",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Inizia oggi!",
+              "voiceover": "Provare costa meno di un caffè. Inizia oggi e vedi la differenza.",
+              "on_screen_text": "Inizia Oggi!",
+              "visual_direction": "Icone di caffè e AI che si sovrappongono.",
+              "caption": "Sperimenta il futuro!",
+              "tone": "inspiring",
+              "emphasis_word": "",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Scopri di più su Google AI!"
         }
       },
       "instagram_caption": "DeepMind ha preso un modello AI non tra i più potenti e lo ha messo al centro del suo nuovo tool di design. 🎯 Il punto? Hanno creato un framework dove interfaccia e ragionamento dell’AI non sono più separati — forma e funzionalità diventano un’unica cosa. Questo significa che Google si candida a riscrivere le regole del gioco, sfidando chi finora dettava legge. 🧠 Per chi progetta interfacce, niente sarà più come prima: l’AI smette di essere un plugin e diventa il sistema operativo del tuo workflow. 🛠️ Hai già un progetto che rimandi da mesi? Forse è ora di testarlo.",
@@ -6330,7 +10896,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-pics.png?resize=1200,736",
       "savedAt": "2026-05-19T20:03:28.471Z",
-      "sourceId": "584adb99087529d47120117215ef666c"
+      "sourceId": "584adb99087529d47120117215ef666c",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -6383,6 +10951,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Il codice generato dall’AI Studio funziona offline al primo tentativo, senza connessione né correzioni 🤖. Google ha aperto a tutti la possibilità di costruire app Android in pochi minuti, anche da un normale telefono da 6 pollici 📱. L’export è immediato, zero errori e zero dipendenze dal cloud ⚡. Per chi lavora su prototipi, questo significa bypassare ore di debugging e test. Chi non prova oggi, lascia un vantaggio concreto a chi lo fa domani mattina 🧠. Apri AI Studio, genera un’app con un pulsante e un contatore: ci metti meno di quanto pensi."
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri Google AI Studio!",
+              "voiceover": "Apri Google AI Studio e in pochi minuti buildi un’app.",
+              "on_screen_text": "Builda un’app in pochi minuti!",
+              "visual_direction": "Animazione di testo che appare rapidamente.",
+              "caption": "Inizia ora!",
+              "tone": "urgent",
+              "emphasis_word": "app",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Funziona solo su schermi da 6 pollici.",
+              "voiceover": "Funziona solo su schermi da 6 pollici.",
+              "on_screen_text": "Solo su schermi da 6\"",
+              "visual_direction": "Zoom su un telefono con schermo da 6 pollici.",
+              "caption": "Scopri di più!",
+              "tone": "informative",
+              "emphasis_word": "6\"",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Il codice generato è offline.",
+              "voiceover": "Il codice generato parte offline, al primo tentativo.",
+              "on_screen_text": "Codice offline al primo tentativo!",
+              "visual_direction": "Testo che si scrive in tempo reale.",
+              "caption": "Facile e veloce!",
+              "tone": "urgent",
+              "emphasis_word": "offline",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Chi non prova ora perde terreno.",
+              "voiceover": "Chi non prova ora perde terreno sui competitor.",
+              "on_screen_text": "Non perdere terreno!",
+              "visual_direction": "Animazione di una corsa tra competitor.",
+              "caption": "Agisci subito!",
+              "tone": "urgent",
+              "emphasis_word": "perdere",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Apri oggi e costruisci un prototipo.",
+              "voiceover": "Apri oggi, costruisci un prototipo e vedi.",
+              "on_screen_text": "Inizia a costruire oggi!",
+              "visual_direction": "Chiusura con logo di Google AI Studio.",
+              "caption": "Non aspettare!",
+              "tone": "inspiring",
+              "emphasis_word": "",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Inizia a costruire la tua app ora!"
         }
       },
       "instagram_caption": "Il codice generato dall’AI Studio funziona offline al primo tentativo, senza connessione né correzioni 🤖. Google ha aperto a tutti la possibilità di costruire app Android in pochi minuti, anche da un normale telefono da 6 pollici 📱. L’export è immediato, zero errori e zero dipendenze dal cloud ⚡. Per chi lavora su prototipi, questo significa bypassare ore di debugging e test. Chi non prova oggi, lascia un vantaggio concreto a chi lo fa domani mattina 🧠. Apri AI Studio, genera un’app con un pulsante e un contatore: ci metti meno di quanto pensi.",
@@ -6434,7 +11069,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2025/08/Pixel-10-Pro-feat-.jpg?resize=1200,675",
       "savedAt": "2026-05-19T20:03:15.098Z",
-      "sourceId": "8a8955bb3b4f2a881529b909564eddd0"
+      "sourceId": "8a8955bb3b4f2a881529b909564eddd0",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -6487,6 +11124,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Google ha appena lanciato agenti che cercano per te su file, email e web quello che ti eri perso.  \nTi portano tutto—ma non sanno ancora cosa merita davvero la tua attenzione.  \nIl rumore cresce: ora decidi tu cosa filtrare.  \nPer il tuo lavoro significa meno tempo a scovare dati, più ore a scegliere cosa è importante.  \nHai mai chiesto a uno strumento cosa ti sei perso ieri? 🔍📧🗂️"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri il potere di Google!",
+              "voiceover": "Google cerca cose per te.",
+              "on_screen_text": "Google cerca cose per te.",
+              "visual_direction": "Testo che appare rapidamente con un effetto di zoom.",
+              "caption": "Scopri di più!",
+              "tone": "informative",
+              "emphasis_word": "Google",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Ma cosa conta davvero?",
+              "voiceover": "Ma non sa cosa conta.",
+              "on_screen_text": "Ma non sa cosa conta.",
+              "visual_direction": "Testo che si dissolve e riappare.",
+              "caption": "Riflessione importante.",
+              "tone": "urgent",
+              "emphasis_word": "conta",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "La ricerca è nelle tue mani.",
+              "voiceover": "Tu cerchi, lui setaccia.",
+              "on_screen_text": "Tu cerchi, lui setaccia.",
+              "visual_direction": "Testo che scorre da destra a sinistra.",
+              "caption": "Prendi il controllo!",
+              "tone": "inspiring",
+              "emphasis_word": "cerchi",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Sei tu a decidere.",
+              "voiceover": "Decidi ancora tu cosa è importante.",
+              "on_screen_text": "Decidi tu cosa è importante.",
+              "visual_direction": "Testo che si ingrandisce e poi si riduce.",
+              "caption": "Sii il protagonista.",
+              "tone": "informative",
+              "emphasis_word": "importante",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Inizia oggi stesso!",
+              "voiceover": "Provane uno oggi.",
+              "on_screen_text": "Provane uno oggi.",
+              "visual_direction": "Testo che lampeggia per attirare attenzione.",
+              "caption": "Inizia subito!",
+              "tone": "urgent",
+              "emphasis_word": "",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 25,
+          "cta": "Scopri di più su Google!"
         }
       },
       "instagram_caption": "Google ha appena lanciato agenti che cercano per te su file, email e web quello che ti eri perso.  \nTi portano tutto—ma non sanno ancora cosa merita davvero la tua attenzione.  \nIl rumore cresce: ora decidi tu cosa filtrare.  \nPer il tuo lavoro significa meno tempo a scovare dati, più ore a scegliere cosa è importante.  \nHai mai chiesto a uno strumento cosa ti sei perso ieri? 🔍📧🗂️",
@@ -6538,7 +11242,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/G-information-agents.png?resize=1200,750",
       "savedAt": "2026-05-19T20:03:02.057Z",
-      "sourceId": "be46860691f59b4686c2046c39fd0b54"
+      "sourceId": "be46860691f59b4686c2046c39fd0b54",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -6591,6 +11297,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Google ha rilasciato un modello di AI che non si limita a chattare: esegue compiti per conto tuo, come prenotare o compilare moduli. Si chiama Gemini 3.5 Flash e agisce come un assistente che decide e completa al posto tuo. Il problema? Senza istruzioni precise, sbaglia tutto. 🧠 Chi progetta workflow dettagliati oggi si tiene al sicuro domani. ⏳ Trova un task ripetitivo che odi, dagli un contesto chiaro e lascialo fare a lui. Cosa gli affideresti subito? ✍️"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Gli agenti AI falliscono senza un contesto preciso.",
+              "voiceover": "Gli agenti AI falliscono senza un contesto preciso.",
+              "on_screen_text": "AGENTI AI FALLISCONO",
+              "visual_direction": "Testo in movimento che si frantuma",
+              "caption": "Contesto è tutto!",
+              "tone": "urgent",
+              "emphasis_word": "AGENTI",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Google punta tutto su Gemini 3.5 Flash.",
+              "voiceover": "Google punta tutto su Gemini 3.5 Flash.",
+              "on_screen_text": "GEMINI 3.5 FLASH",
+              "visual_direction": "Animazione di un razzo che decolla",
+              "caption": "Una nuova era!",
+              "tone": "informative",
+              "emphasis_word": "FLASH",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Non solo chatbot: agiscono per te.",
+              "voiceover": "Non solo chatbot: agiscono per te.",
+              "on_screen_text": "AGISCONO PER TE",
+              "visual_direction": "Testo che si illumina e pulsa",
+              "caption": "Intelligenza attiva!",
+              "tone": "inspiring",
+              "emphasis_word": "AGISCONO",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Se progetti il workflow, non sarai sostituito.",
+              "voiceover": "Se progetti il workflow, non sarai sostituito.",
+              "on_screen_text": "NON SARAI SOSTITUITO",
+              "visual_direction": "Testo che cresce e si espande",
+              "caption": "Rimani rilevante!",
+              "tone": "urgent",
+              "emphasis_word": "SOSTITUITO",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Testane uno oggi su un task ripetitivo.",
+              "voiceover": "Testane uno oggi su un task ripetitivo.",
+              "on_screen_text": "TESTALO OGGI!",
+              "visual_direction": "Testo che esplode in colori",
+              "caption": "Inizia ora!",
+              "tone": "informative",
+              "emphasis_word": "",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Scopri Gemini 3.5 Flash ora!"
         }
       },
       "instagram_caption": "Google ha rilasciato un modello di AI che non si limita a chattare: esegue compiti per conto tuo, come prenotare o compilare moduli. Si chiama Gemini 3.5 Flash e agisce come un assistente che decide e completa al posto tuo. Il problema? Senza istruzioni precise, sbaglia tutto. 🧠 Chi progetta workflow dettagliati oggi si tiene al sicuro domani. ⏳ Trova un task ripetitivo che odi, dagli un contesto chiaro e lascialo fare a lui. Cosa gli affideresti subito? ✍️",
@@ -6642,7 +11415,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_1192.jpg?resize=1200,900",
       "savedAt": "2026-05-19T20:02:49.456Z",
-      "sourceId": "333d754287f2fbc807255815927d3236"
+      "sourceId": "333d754287f2fbc807255815927d3236",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -6859,6 +11634,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "SandboxAQ ha caricato i suoi modelli di scoperta farmaceutica dentro Claude. 🧬 Niente più PhD in informatica: descrivi una proteina a parole tue e il sistema genera candidati molecolari in tempo reale. 💬 I team che lo usano completano in giorni quello che prima richiedeva settimane di coding. 🔬 Per te? Apri Claude, chiedigli: \"Proponimi tre molecole per questo bersaglio\" — e vedi se funziona. ⏱️ Chi non prova questo flusso rischia di restare indietro nei trial."
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri come SandboxAQ cambia il gioco.",
+              "voiceover": "Non serve saper programmare.",
+              "on_screen_text": "Non serve programmare.",
+              "visual_direction": "Testo animato che appare con effetti di entrata.",
+              "caption": "Semplice come parlare.",
+              "tone": "informative",
+              "emphasis_word": "programmare",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Incontra Claude.",
+              "voiceover": "Parli con Claude e lui progetta farmaci.",
+              "on_screen_text": "Parla con Claude.",
+              "visual_direction": "Transizione fluida verso un'illustrazione di Claude.",
+              "caption": "Un assistente virtuale.",
+              "tone": "inspiring",
+              "emphasis_word": "progetta",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Unione di tecnologia e scienza.",
+              "voiceover": "SandboxAQ ha unito i due mondi.",
+              "on_screen_text": "Unisce i due mondi.",
+              "visual_direction": "Testo che si fonde in un'immagine di laboratorio.",
+              "caption": "Innovazione continua.",
+              "tone": "urgent",
+              "emphasis_word": "unito",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Risultati rapidi.",
+              "voiceover": "In giorni, non settimane.",
+              "on_screen_text": "In giorni, non settimane.",
+              "visual_direction": "Timer che scorre velocemente.",
+              "caption": "Velocità senza precedenti.",
+              "tone": "urgent",
+              "emphasis_word": "giorni",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Inizia ora.",
+              "voiceover": "Prova oggi: chiedi una molecola.",
+              "on_screen_text": "Chiedi una molecola.",
+              "visual_direction": "Animazione di una molecola che appare.",
+              "caption": "Inizia la tua scoperta.",
+              "tone": "inspiring",
+              "emphasis_word": "molecola",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 28,
+          "cta": "Inizia la tua scoperta ora!"
         }
       },
       "instagram_caption": "SandboxAQ ha caricato i suoi modelli di scoperta farmaceutica dentro Claude. 🧬 Niente più PhD in informatica: descrivi una proteina a parole tue e il sistema genera candidati molecolari in tempo reale. 💬 I team che lo usano completano in giorni quello che prima richiedeva settimane di coding. 🔬 Per te? Apri Claude, chiedigli: \"Proponimi tre molecole per questo bersaglio\" — e vedi se funziona. ⏱️ Chi non prova questo flusso rischia di restare indietro nei trial.",
@@ -6910,7 +11752,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-5339511481.jpg?w=640",
       "savedAt": "2026-05-18T22:51:29.815Z",
-      "sourceId": "d8859cfa6328132ab539eff087a26d94"
+      "sourceId": "d8859cfa6328132ab539eff087a26d94",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -6963,6 +11807,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Anthropic ha appena comprato Clio, uno strumento che fino a ieri analizzava codice per OpenAI, Google e Cloudflare. Era un plugin aperto a tutti, usato da team dev per debuggare e fare audit su software sensibili. Nessun annuncio, nessuna transizione graduale 📉 Da oggi Clio lavorerà **solo** per i modelli di Anthropic. Se il tuo team lo usava per analisi su cloud o AI concorrenti, devi trovare un'alternativa entro 30 giorni ⏳ L'API verrà disattivata per terze parti. Hai già migrato il tuo stack? 🚨"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Breaking news!",
+              "voiceover": "Anthropic ha appena comprato uno strumento di OpenAI.",
+              "on_screen_text": "Acquisizione di Clio!",
+              "visual_direction": "Animazione dinamica con effetti di enfasi sul logo di Anthropic.",
+              "caption": "Scopri di più!",
+              "tone": "urgent",
+              "emphasis_word": "Clio",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Cosa significa per te?",
+              "voiceover": "Si chiama Clio, analizzava codice per Google e Cloudflare.",
+              "on_screen_text": "Clio: strumento potente!",
+              "visual_direction": "Testo che si dissolve in immagini dei loghi di Google e Cloudflare.",
+              "caption": "Rimanere aggiornati!",
+              "tone": "informative",
+              "emphasis_word": "potente",
+              "layout": "split"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Novità per i dev!",
+              "voiceover": "Da oggi Clio lavorerà solo per i modelli Anthropic.",
+              "on_screen_text": "Clio per Anthropic!",
+              "visual_direction": "Effetti di transizione che mostrano Clio in azione.",
+              "caption": "Cosa fare ora?",
+              "tone": "urgent",
+              "emphasis_word": "solo",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Scegli il tuo futuro!",
+              "voiceover": "I team dev devono scegliere da che parte stare.",
+              "on_screen_text": "Scegli il tuo team!",
+              "visual_direction": "Grafica che rappresenta due strade che si biforcano.",
+              "caption": "Decisioni importanti!",
+              "tone": "inspiring",
+              "emphasis_word": "scegliere",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Ultima chiamata!",
+              "voiceover": "Se usi Clio, migra il plugin prima che sparisca.",
+              "on_screen_text": "Migra ora!",
+              "visual_direction": "Countdown visivo con timer e grafica di urgenza.",
+              "caption": "Non perdere tempo!",
+              "tone": "urgent",
+              "emphasis_word": "ora",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Migra il tuo plugin oggi stesso!"
         }
       },
       "instagram_caption": "Anthropic ha appena comprato Clio, uno strumento che fino a ieri analizzava codice per OpenAI, Google e Cloudflare. Era un plugin aperto a tutti, usato da team dev per debuggare e fare audit su software sensibili. Nessun annuncio, nessuna transizione graduale 📉 Da oggi Clio lavorerà **solo** per i modelli di Anthropic. Se il tuo team lo usava per analisi su cloud o AI concorrenti, devi trovare un'alternativa entro 30 giorni ⏳ L'API verrà disattivata per terze parti. Hai già migrato il tuo stack? 🚨",
@@ -7014,7 +11925,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
       "savedAt": "2026-05-18T21:03:29.781Z",
-      "sourceId": "d023da2950a3e14fa36a22e06b9c23e3"
+      "sourceId": "d023da2950a3e14fa36a22e06b9c23e3",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -7067,6 +11980,73 @@ window.AGENTS = {
         },
         "instagram": {
           "caption": "Kin Health ha chiuso un round da 9 milioni di dollari per un'AI che scrive appunti al posto del paziente. 📝 L'ascolta durante la visita e trasforma il dialogo in note cliniche chiare, così quando esci dallo studio non devi più fidarti della memoria. 👂 Il medico resta l'unico a fare diagnosi: la macchina ascolta, non decide. Per te significa riguardare la conversazione quando vuoi, senza scarabocchi frettolosi sul telefono. 🩺 Costa meno di un abbonamento Spotify. Hai mai confrontato cosa ricordi di una visita con e senza AI? 🤔"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Il medico decide ancora tutto.",
+              "voiceover": "Fino ad oggi, il medico decide tutto per te.",
+              "on_screen_text": "Il medico decide ancora tutto.",
+              "visual_direction": "Testo grande che appare al centro, sfondo sfocato di uno studio medico.",
+              "caption": "Il potere del medico",
+              "tone": "urgent",
+              "emphasis_word": "medico",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ma l’AI scrive le note per te.",
+              "voiceover": "Ma ora c'è un'AI che scrive le note per te.",
+              "on_screen_text": "L’AI scrive per te.",
+              "visual_direction": "Animazione del testo che si scrive da solo su uno sfondo bianco.",
+              "caption": "Innovazione nella salute",
+              "tone": "informative",
+              "emphasis_word": "AI",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Kin Health ha raccolto 9 milioni.",
+              "voiceover": "Kin Health ha appena raccolto 9 milioni di dollari.",
+              "on_screen_text": "Kin Health: 9 milioni raccolti.",
+              "visual_direction": "Grafica di un grafico in crescita con il testo che appare sopra.",
+              "caption": "Investimenti in tecnologia",
+              "tone": "inspiring",
+              "emphasis_word": "9 milioni",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Rivedi il colloquio quando vuoi.",
+              "voiceover": "Puoi rivedere il colloquio quando vuoi, con un semplice clic.",
+              "on_screen_text": "Rivedi il colloquio quando vuoi.",
+              "visual_direction": "Transizione veloce con immagini di persone che usano il telefono.",
+              "caption": "Accesso immediato",
+              "tone": "urgent",
+              "emphasis_word": "quando vuoi",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Provalo: confronta cosa ricordi senza.",
+              "voiceover": "Prova l'AI e confronta i tuoi ricordi.",
+              "on_screen_text": "Provalo ora!",
+              "visual_direction": "Chiusura energica con il testo che esplode sullo schermo.",
+              "caption": "Inizia oggi",
+              "tone": "inspiring",
+              "emphasis_word": "Provalo",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 30,
+          "cta": "Scopri di più su Kin Health!"
         }
       },
       "instagram_caption": "Kin Health ha chiuso un round da 9 milioni di dollari per un'AI che scrive appunti al posto del paziente. 📝 L'ascolta durante la visita e trasforma il dialogo in note cliniche chiare, così quando esci dallo studio non devi più fidarti della memoria. 👂 Il medico resta l'unico a fare diagnosi: la macchina ascolta, non decide. Per te significa riguardare la conversazione quando vuoi, senza scarabocchi frettolosi sul telefono. 🩺 Costa meno di un abbonamento Spotify. Hai mai confrontato cosa ricordi di una visita con e senza AI? 🤔",
@@ -7118,7 +12098,9 @@ window.AGENTS = {
       ],
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Kin-Health-feat.jpg?resize=1200,675",
       "savedAt": "2026-05-18T17:53:38.872Z",
-      "sourceId": "c646b29b9090161756b074d28ebd0151"
+      "sourceId": "c646b29b9090161756b074d28ebd0151",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
     },
     {
       "schema_version": 3,
@@ -7511,11 +12493,72 @@ window.AGENTS = {
           "caption": "7 ingegneri su 10 nel settore auto non hanno le competenze per passare ai nuovi ruoli legati all'AI. Le case automobilistiche stanno già ridisegnando le posizioni, sia in fabbrica che negli uffici, ma i corsi tradizionali di formazione sono vecchi e non bastano più. Chi non si adegua rischia di restare fuori in meno di un anno. La buona notizia è che non servono lauree: bastano 3 strumenti specifici al tuo settore per cambiare carriera in poche settimane ⚡️🚗📉. Ti stai già muovendo o preferisci aspettare?"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "La rivoluzione dell'auto è qui!",
+              "voiceover": "Gli ingegneri auto non sanno usare l'AI.",
+              "on_screen_text": "Gli ingegneri auto non sanno",
+              "visual_direction": "Testo grande che scorre dall'alto verso il basso.",
+              "caption": "Scopri il futuro della mobilità",
+              "tone": "urgent",
+              "emphasis_word": "AI",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Chi sarà il vincitore?",
+              "voiceover": "Ma alcuni impareranno in fretta.",
+              "on_screen_text": "Alcuni impareranno in fretta.",
+              "visual_direction": "Testo che appare con un effetto di zoom.",
+              "caption": "Preparati alla competizione",
+              "tone": "urgent",
+              "emphasis_word": "impareranno",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Il tempo stringe!",
+              "voiceover": "Gli altri perderanno il posto.",
+              "on_screen_text": "Gli altri perderanno il posto.",
+              "visual_direction": "Testo che scompare lentamente.",
+              "caption": "Non rimanere indietro",
+              "tone": "urgent",
+              "emphasis_word": "perderanno",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 7,
+              "hook": "Scegli il tuo percorso!",
+              "voiceover": "Il corso che fai ora decide il tuo futuro.",
+              "on_screen_text": "Il corso decide il tuo futuro.",
+              "visual_direction": "Testo che si divide in due parti.",
+              "caption": "Investi in te stesso",
+              "tone": "informative",
+              "emphasis_word": "futuro",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Inizia oggi!",
+              "voiceover": "Inizia con un tool solo questa settimana.",
+              "on_screen_text": "Inizia con un tool questa settimana.",
+              "visual_direction": "Testo che appare con un effetto di battito.",
+              "caption": "Non aspettare oltre!",
+              "tone": "inspiring",
+              "emphasis_word": "tool",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Scopri il corso ora!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "7 ingegneri su 10 nel settore auto non hanno le competenze per passare ai nuovi ruoli legati all'AI. Le case automobilistiche stanno già ridisegnando le posizioni, sia in fabbrica che negli uffici, ma i corsi tradizionali di formazione sono vecchi e non bastano più. Chi non si adegua rischia di restare fuori in meno di un anno. La buona notizia è che non servono lauree: bastano 3 strumenti specifici al tuo settore per cambiare carriera in poche settimane ⚡️🚗📉. Ti stai già muovendo o preferisci aspettare?",
@@ -7568,8 +12611,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/rj-scaringe-Getty.jpg?resize=1200,800",
       "savedAt": "2026-05-17T18:56:01.806Z",
       "sourceId": "481cbcf6e999de300390526254cffb49",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -7632,11 +12675,72 @@ window.AGENTS = {
           "caption": "Nel 2026, metà dei neolaureati userà l’AI per scrivere la lettera di presentazione che arriverà sulla tua scrivania. Se sei il relatore del loro commencement e citi ChatGPT per dire “guardate che succede”, loro smettono di ascoltarti. Perché per loro l’AI non è una novità: è lo strumento con cui hanno fatto la tesi e pure il CV perfetto. Per te che assumi o parli in pubblico, la credibilità la perdi nel momento in cui citi la tecnologia che loro sentono già vecchia. Inizia da una storia umana che non possono fingere. Qual è l’ultima storia vera che hai ascoltato da qualcuno ?"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Attenzione, oratori!",
+              "voiceover": "Se parli di AI, perdi credibilità.",
+              "on_screen_text": "Non menzionare AI!",
+              "visual_direction": "Testo che appare con effetto di pulsazione.",
+              "caption": "Il tuo discorso conta!",
+              "tone": "urgent",
+              "emphasis_word": "credibilità",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ehi, laureati!",
+              "voiceover": "ChatGPT è già parte della vostra vita quotidiana.",
+              "on_screen_text": "Usano AI ogni giorno.",
+              "visual_direction": "Testo scorre veloce da destra a sinistra.",
+              "caption": "La nuova generazione.",
+              "tone": "informative",
+              "emphasis_word": "AI",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Ma c'è un problema.",
+              "voiceover": "Non sanno raccontare storie vere.",
+              "on_screen_text": "Storie vere? No.",
+              "visual_direction": "Testo in dissolvenza.",
+              "caption": "Serve qualcosa di più.",
+              "tone": "urgent",
+              "emphasis_word": "vere",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Ascoltate bene!",
+              "voiceover": "Insegnagli ciò che l'AI non sa fare.",
+              "on_screen_text": "Insegnagli il valore umano.",
+              "visual_direction": "Testo che si espande al centro.",
+              "caption": "Il valore delle emozioni.",
+              "tone": "inspiring",
+              "emphasis_word": "umano",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 4,
+              "hook": "Ricorda!",
+              "voiceover": "Il futuro è nelle vostre mani.",
+              "on_screen_text": "I laureati possono cambiare tutto.",
+              "visual_direction": "Testo che ruota e scompare.",
+              "caption": "Fai la differenza!",
+              "tone": "inspiring",
+              "emphasis_word": "cambiare",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 26,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia a raccontare storie vere!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "Nel 2026, metà dei neolaureati userà l’AI per scrivere la lettera di presentazione che arriverà sulla tua scrivania. Se sei il relatore del loro commencement e citi ChatGPT per dire “guardate che succede”, loro smettono di ascoltarti. Perché per loro l’AI non è una novità: è lo strumento con cui hanno fatto la tesi e pure il CV perfetto. Per te che assumi o parli in pubblico, la credibilità la perdi nel momento in cui citi la tecnologia che loro sentono già vecchia. Inizia da una storia umana che non possono fingere. Qual è l’ultima storia vera che hai ascoltato da qualcuno ?",
@@ -7689,8 +12793,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2019/01/university.jpg?resize=1200,641",
       "savedAt": "2026-05-17T16:47:52.710Z",
       "sourceId": "f4e20e1053eac63f6170077c2f404a6d",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -7753,11 +12857,72 @@ window.AGENTS = {
           "caption": "30 milioni di dollari per un sistema operativo del marketing. Nectar Social li ha appena raccolti da Menlo, e non si tratta di un semplice tool: è un software che prende decisioni complesse al posto tuo, come scegliere su quali canali investire o come ottimizzare campagne in tempo reale 🧠💰. La novità è che l'AI non risparmia solo tempo, ma sostituisce ore di analisi umana. Per chi lavora nel marketing, il ruolo cambia: non più esecuzione, ma supervisione e definizione di obiettivi 📈. Il tuo team è già pronto a delegare strategie? 🔍"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Preparatevi!",
+              "voiceover": "Sta per succedere qualcosa di grosso nel marketing.",
+              "on_screen_text": "Qualcosa di GROSSO nel marketing!",
+              "visual_direction": "Animazione di testo in ingresso da sinistra.",
+              "caption": "Scopri le novità",
+              "tone": "urgent",
+              "emphasis_word": "GROSSO",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Ecco il colpo di scena!",
+              "voiceover": "Nectar Social ha ottenuto 30 milioni di dollari.",
+              "on_screen_text": "Nectar Social: $30M raccolti!",
+              "visual_direction": "Testo che esplode in un effetto di scrittura.",
+              "caption": "Un successo incredibile",
+              "tone": "informative",
+              "emphasis_word": "$30M",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Non è solo un tool.",
+              "voiceover": "Non è un semplice tool, ma un sistema operativo.",
+              "on_screen_text": "Un SISTEMA OPERATIVO!",
+              "visual_direction": "Testo che si illumina con sfondo dinamico.",
+              "caption": "Innovazione nel marketing",
+              "tone": "inspiring",
+              "emphasis_word": "SISTEMA OPERATIVO",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 7,
+              "hook": "Automatizza il tuo lavoro!",
+              "voiceover": "Automatizza decisioni complesse, non solo task banali.",
+              "on_screen_text": "Automatizza decisioni complesse!",
+              "visual_direction": "Animazione di testo che si suddivide.",
+              "caption": "Fai la differenza",
+              "tone": "urgent",
+              "emphasis_word": "complessi",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Il futuro è qui!",
+              "voiceover": "I marketer dovranno delegare strategie all'AI.",
+              "on_screen_text": "Delega strategie all'AI!",
+              "visual_direction": "Testo che si dissolve in uno sfondo futuristico.",
+              "caption": "Preparati al cambiamento",
+              "tone": "inspiring",
+              "emphasis_word": "AI",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 28,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Scopri di più su Nectar Social!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "30 milioni di dollari per un sistema operativo del marketing. Nectar Social li ha appena raccolti da Menlo, e non si tratta di un semplice tool: è un software che prende decisioni complesse al posto tuo, come scegliere su quali canali investire o come ottimizzare campagne in tempo reale 🧠💰. La novità è che l'AI non risparmia solo tempo, ma sostituisce ore di analisi umana. Per chi lavora nel marketing, il ruolo cambia: non più esecuzione, ma supervisione e definizione di obiettivi 📈. Il tuo team è già pronto a delegare strategie? 🔍",
@@ -7810,8 +12975,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Nectar-Social.jpg?resize=1200,801",
       "savedAt": "2026-05-16T22:37:27.086Z",
       "sourceId": "a88f95380a63c778d64aa5bba1538b3f",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -7874,11 +13039,72 @@ window.AGENTS = {
           "caption": "Se pubblichi un paper su ArXiv scritto interamente da ChatGPT o Claude, rischi un anno di bando dalla piattaforma. ⚠️ La nuova policy non vieta l'AI in sé, ma solo il caso in cui sostituisca del tutto il tuo contributo umano. Il punto è che stabilire se l'AI ti ha assistito o ha scritto al posto tuo è quasi impossibile, quindi ArXiv ti chiede di dichiarare l'uso in fase di submission. ✍️ Per chi prepara articoli scientifici, questo significa che non dichiarare l'AI o usarla senza supervisione può costarti l'accesso per dodici mesi. Hai già controllato le nuove linee guida? 🔍"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Usi l'IA per scrivere?",
+              "voiceover": "ArXiv ti banna per un anno se usi l'IA male.",
+              "on_screen_text": "ArXiv ti banna per un anno",
+              "visual_direction": "Testo grande che appare con un effetto di scrittura.",
+              "caption": "Attenzione agli abusi dell'IA!",
+              "tone": "urgent",
+              "emphasis_word": "banna",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Cosa significa per te?",
+              "voiceover": "La regola colpisce solo chi non contribuisce abbastanza.",
+              "on_screen_text": "Colpisce chi non contribuisce",
+              "visual_direction": "Testo che si frantuma e si ricompone.",
+              "caption": "Contribuisci con il tuo lavoro!",
+              "tone": "informative",
+              "emphasis_word": "contribuisce",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Chi ha scritto cosa?",
+              "voiceover": "Il vero problema è capire chi ha scritto cosa.",
+              "on_screen_text": "Chi ha scritto cosa?",
+              "visual_direction": "Testo che si dissolve e riappare in modo confuso.",
+              "caption": "La chiarezza è fondamentale!",
+              "tone": "urgent",
+              "emphasis_word": "chi",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Dichiarazioni obbligatorie!",
+              "voiceover": "Dovrai dichiarare ogni uso di IA.",
+              "on_screen_text": "Dichiarare ogni uso di IA",
+              "visual_direction": "Testo che si illumina come un avviso.",
+              "caption": "Non dimenticare di dichiarare!",
+              "tone": "informative",
+              "emphasis_word": "dichiarare",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Controlla prima di inviare!",
+              "voiceover": "Controlla le linee guida prima di submit.",
+              "on_screen_text": "Controlla le linee guida",
+              "visual_direction": "Testo che scorre verso l'alto.",
+              "caption": "Rimani informato!",
+              "tone": "urgent",
+              "emphasis_word": "linee",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 25,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Segui per ulteriori aggiornamenti!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "Se pubblichi un paper su ArXiv scritto interamente da ChatGPT o Claude, rischi un anno di bando dalla piattaforma. ⚠️ La nuova policy non vieta l'AI in sé, ma solo il caso in cui sostituisca del tutto il tuo contributo umano. Il punto è che stabilire se l'AI ti ha assistito o ha scritto al posto tuo è quasi impossibile, quindi ArXiv ti chiede di dichiarare l'uso in fase di submission. ✍️ Per chi prepara articoli scientifici, questo significa che non dichiarare l'AI o usarla senza supervisione può costarti l'accesso per dodici mesi. Hai già controllato le nuove linee guida? 🔍",
@@ -7931,8 +13157,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2025/02/business-research-getty.jpg?resize=1200,800",
       "savedAt": "2026-05-16T20:39:34.703Z",
       "sourceId": "f04b5b1c9763fee13a0cfcdda1968bd9",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -7995,11 +13221,72 @@ window.AGENTS = {
           "caption": "Questa settimana: se non possiedi dati esclusivi, non hai un biglietto per la corsa all'AI. I chip più potenti sono in mano a pochissime aziende, ma il vero vantaggio è ciò che già hai in cassaforte: dati proprietari che nessun dataset pubblico può replicare. Chi usa solo informazioni pubbliche vede il proprio margine sciogliersi in mesi. Per chi lavora in azienda, questo significa che la vera competizione non è sulla tecnologia, ma su cosa sai di te stesso che gli altri non sanno. Quale dato che già possiedi userai domani per risolvere un problema interno? 📉🧠🔑📁⛏️"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "The AI gold rush is here!",
+              "voiceover": "Il vero valore è nei dati, non nell'hardware.",
+              "on_screen_text": "Il vero valore è nei DATI",
+              "visual_direction": "Testo in movimento da sinistra a destra.",
+              "caption": "Scopri il valore dei dati.",
+              "tone": "urgent",
+              "emphasis_word": "DATI",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Only a few hold the keys.",
+              "voiceover": "Pochi possiedono i chip più potenti.",
+              "on_screen_text": "Pochi possiedono i CHIP",
+              "visual_direction": "Zoom sul testo con sfondo dinamico.",
+              "caption": "Chi ha il potere?",
+              "tone": "informative",
+              "emphasis_word": "CHIP",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "What's your edge?",
+              "voiceover": "Ma il vantaggio è ciò che hai già.",
+              "on_screen_text": "Il VANTAGGIO è ciò che hai",
+              "visual_direction": "Testo che si dissolve e riappare.",
+              "caption": "Fai la differenza.",
+              "tone": "inspiring",
+              "emphasis_word": "VANTAGGIO",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Data is your secret weapon.",
+              "voiceover": "Dati proprietari fanno la differenza.",
+              "on_screen_text": "Dati PROPRIETARI fanno la DIFFERENZA",
+              "visual_direction": "Testo che lampeggia per attirare attenzione.",
+              "caption": "Sfrutta i tuoi dati.",
+              "tone": "urgent",
+              "emphasis_word": "PROPRIETARI",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Are you ready to compete?",
+              "voiceover": "Cosa usi oggi per competere?",
+              "on_screen_text": "Cosa usi OGGI per COMPETERE?",
+              "visual_direction": "Testo che scorre verso l'alto.",
+              "caption": "Unisciti alla corsa.",
+              "tone": "informative",
+              "emphasis_word": "OGGI",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 25,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia a raccogliere i tuoi dati!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "Questa settimana: se non possiedi dati esclusivi, non hai un biglietto per la corsa all'AI. I chip più potenti sono in mano a pochissime aziende, ma il vero vantaggio è ciò che già hai in cassaforte: dati proprietari che nessun dataset pubblico può replicare. Chi usa solo informazioni pubbliche vede il proprio margine sciogliersi in mesi. Per chi lavora in azienda, questo significa che la vera competizione non è sulla tecnologia, ma su cosa sai di te stesso che gli altri non sanno. Quale dato che già possiedi userai domani per risolvere un problema interno? 📉🧠🔑📁⛏️",
@@ -8052,8 +13339,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-958260352.jpg?resize=1200,1074",
       "savedAt": "2026-05-16T20:39:21.256Z",
       "sourceId": "859b70ce116b803078f17664070d8935",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -8116,11 +13403,72 @@ window.AGENTS = {
           "caption": "Greg Brockman, il co-fondatore di OpenAI, lascia la ricerca per tornare a gestire il prodotto e la roadmap ⚙️. In pratica, smette di occuparsi di cosa funziona per decidere cosa esce e quando. Il messaggio è che l'azienda vuole più controllo sulle sue release, anche a costo di essere meno sperimentale. Per chi usa le API, cambia tutto: ora priorità a stabilità e costi, niente più funzionalità che spariscono in una settimana 💸. Puoi provare un endpoint oggi, ma domani potrebbe non esserci più. Tu come ti organizzerai?"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "OpenAI co-founder makes a big move!",
+              "voiceover": "Il fondatore lascia la ricerca e torna sul prodotto.",
+              "on_screen_text": "TORNA SUL PRODOTTO",
+              "visual_direction": "Animazione di testo che appare con un effetto di zoom.",
+              "caption": "Un cambiamento importante.",
+              "tone": "urgent",
+              "emphasis_word": "PRODOTTO",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "It's not just a detail.",
+              "voiceover": "Non è un dettaglio: cambia tutto il focus.",
+              "on_screen_text": "CAMBIA TUTTO IL FOCUS",
+              "visual_direction": "Testo che si dissolve e si sostituisce.",
+              "caption": "Nuove prospettive.",
+              "tone": "informative",
+              "emphasis_word": "CAMBIA",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "API users, pay attention!",
+              "voiceover": "Per chi usa le API: stabilità e costi prima di tutto.",
+              "on_screen_text": "STABILITÀ E COSTI",
+              "visual_direction": "Testo che scorre da sinistra a destra.",
+              "caption": "Rimanere competitivi.",
+              "tone": "urgent",
+              "emphasis_word": "STABILITÀ",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Watch out for features!",
+              "voiceover": "Le feature sperimentali? Possono sparire da un giorno all'altro.",
+              "on_screen_text": "SPARIRE DA UN GIORNO ALL'ALTRO",
+              "visual_direction": "Testo che si frantuma e scompare.",
+              "caption": "Incertezza nel futuro.",
+              "tone": "urgent",
+              "emphasis_word": "SPARIRE",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Act now!",
+              "voiceover": "Prova oggi: domani potrebbe non esserci più.",
+              "on_screen_text": "PROVA OGGI!",
+              "visual_direction": "Testo che lampeggia per attirare attenzione.",
+              "caption": "Non perdere l'opportunità.",
+              "tone": "inspiring",
+              "emphasis_word": "OGGI",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 27,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Non aspettare, inizia ora!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "Greg Brockman, il co-fondatore di OpenAI, lascia la ricerca per tornare a gestire il prodotto e la roadmap ⚙️. In pratica, smette di occuparsi di cosa funziona per decidere cosa esce e quando. Il messaggio è che l'azienda vuole più controllo sulle sue release, anche a costo di essere meno sperimentale. Per chi usa le API, cambia tutto: ora priorità a stabilità e costi, niente più funzionalità che spariscono in una settimana 💸. Puoi provare un endpoint oggi, ma domani potrebbe non esserci più. Tu come ti organizzerai?",
@@ -8173,8 +13521,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800",
       "savedAt": "2026-05-16T18:52:34.479Z",
       "sourceId": "85331331526c4eba99035405eae9f65a",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -8237,11 +13585,72 @@ window.AGENTS = {
           "caption": "Cerebras bruciava 8 milioni di dollari al mese, con pochi mesi di liquidità rimasta prima del fallimento 💸. Il problema? Cercava di vendere chip come Nvidia, competendo sul loro stesso terreno — una partita persa in partenza 🎲. La svolta è arrivata quando hanno smesso di vendere hardware e hanno iniziato a vendere accesso al cloud AI, cambiando il modello di business 🤯. Per te significa che il costo reale dei chip AI si nasconde nei bilanci, non nelle specifiche tecniche. Quanto può durare una startup che scommette tutto sull'hardware? 🔥"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Cerebras, l'adorata AI chip da 60 miliardi.",
+              "voiceover": "Avevano pochi mesi di soldi e bruciavano 8 milioni al mese.",
+              "on_screen_text": "Bruciavano 8 milioni al mese.",
+              "visual_direction": "Testo che si dissolve e si ingrandisce.",
+              "caption": "Crisis Mode",
+              "tone": "urgent",
+              "emphasis_word": "8 milioni",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Una sfida enorme.",
+              "voiceover": "Era una startup contro il gigante Nvidia.",
+              "on_screen_text": "Startup contro Nvidia.",
+              "visual_direction": "Testo che appare come un colpo di fulmine.",
+              "caption": "Dare to Compete",
+              "tone": "inspiring",
+              "emphasis_word": "Nvidia",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Un cambiamento radicale.",
+              "voiceover": "Hanno cambiato tutto con una svolta sorprendente.",
+              "on_screen_text": "Cambiamento radicale.",
+              "visual_direction": "Testo che si trasforma in un nuovo design.",
+              "caption": "Revolutionary Shift",
+              "tone": "inspiring",
+              "emphasis_word": "svolta",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Una nuova strategia.",
+              "voiceover": "Non vendevano chip, vendevano accesso.",
+              "on_screen_text": "Vendevano accesso.",
+              "visual_direction": "Testo che si espande su un grafico crescente.",
+              "caption": "Access Over Ownership",
+              "tone": "informative",
+              "emphasis_word": "accesso",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 4,
+              "hook": "Il futuro è qui.",
+              "voiceover": "Cerebras ha cambiato il gioco dell'AI.",
+              "on_screen_text": "Cerebras ha cambiato il gioco.",
+              "visual_direction": "Testo che esplode e si disperde.",
+              "caption": "Join the Revolution",
+              "tone": "inspiring",
+              "emphasis_word": "cambiato",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 25,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Scopri di più sulla rivoluzione AI!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "Cerebras bruciava 8 milioni di dollari al mese, con pochi mesi di liquidità rimasta prima del fallimento 💸. Il problema? Cercava di vendere chip come Nvidia, competendo sul loro stesso terreno — una partita persa in partenza 🎲. La svolta è arrivata quando hanno smesso di vendere hardware e hanno iniziato a vendere accesso al cloud AI, cambiando il modello di business 🤯. Per te significa che il costo reale dei chip AI si nasconde nei bilanci, non nelle specifiche tecniche. Quanto può durare una startup che scommette tutto sull'hardware? 🔥",
@@ -8294,8 +13703,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
       "savedAt": "2026-05-16T16:49:05.058Z",
       "sourceId": "e0a063b7a71f0b536bcb1b75b4bb2d80",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -8358,11 +13767,72 @@ window.AGENTS = {
           "caption": "Un sensore industriale da 30 dollari ora ti dice in faccia quanto sei curvo sulla scrivania, senza vibrarti addosso. Il dispositivo calibra ogni millimetro di slouching, ma il suo vero trucco non è la vibrazione: è la vergogna silenziosa di un dato 📊 che compare sullo schermo. Dopo tre giorni non ignori più la schiena, perché il numero non mente 🦴. Se lavori davanti a un monitor, cambia la postura senza aspettare il radiologo tra un anno. Ordini ora o misuri la curvatura dopo il prossimo caffè ☕️?"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Stai seduto tutto il giorno?",
+              "voiceover": "Questo coso da 30 dollari ti sistema la schiena per sempre.",
+              "on_screen_text": "Sistema la schiena per sempre",
+              "visual_direction": "Inquadratura di un ufficio con una persona seduta.",
+              "caption": "Il gadget che cambia tutto!",
+              "tone": "informative",
+              "emphasis_word": "sistema",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Ma cosa rende questo gadget speciale?",
+              "voiceover": "Ha un sensore industriale dentro, calibrato per chi sta seduto.",
+              "on_screen_text": "Sensore industriale",
+              "visual_direction": "Zoom sulla tecnologia interna del gadget.",
+              "caption": "Tecnologia avanzata!",
+              "tone": "informative",
+              "emphasis_word": "sensore",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Ecco la parte geniale!",
+              "voiceover": "Non vibra. Ti fa sentire in colpa in silenzio.",
+              "on_screen_text": "Ti fa sentire in colpa",
+              "visual_direction": "Persona che guarda il gadget con espressione pensierosa.",
+              "caption": "Un cambiamento silenzioso.",
+              "tone": "informative",
+              "emphasis_word": "colpa",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Non puoi ignorarlo!",
+              "voiceover": "Il dato è lì, vero. Non puoi più ignorare la tua postura.",
+              "on_screen_text": "Non ignorare la postura",
+              "visual_direction": "Grafico che mostra la postura corretta e scorretta.",
+              "caption": "Fatti vedere!",
+              "tone": "urgent",
+              "emphasis_word": "ignorare",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Prendi una decisione!",
+              "voiceover": "Compralo oggi o preparati a misurare la colonna dal dottore.",
+              "on_screen_text": "Compralo oggi!",
+              "visual_direction": "Inquadratura finale del gadget con un pulsante di acquisto.",
+              "caption": "Non aspettare!",
+              "tone": "urgent",
+              "emphasis_word": "oggi",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 28,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Acquista ora per una schiena dritta!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "Un sensore industriale da 30 dollari ora ti dice in faccia quanto sei curvo sulla scrivania, senza vibrarti addosso. Il dispositivo calibra ogni millimetro di slouching, ma il suo vero trucco non è la vibrazione: è la vergogna silenziosa di un dato 📊 che compare sullo schermo. Dopo tre giorni non ignori più la schiena, perché il numero non mente 🦴. Se lavori davanti a un monitor, cambia la postura senza aspettare il radiologo tra un anno. Ordini ora o misuri la curvatura dopo il prossimo caffè ☕️?",
@@ -8415,8 +13885,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Deepcare-feat.jpg?resize=1200,675",
       "savedAt": "2026-05-16T16:48:48.532Z",
       "sourceId": "d1f0dad8f22ffc8f0a4e02d103570069",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -8483,11 +13953,72 @@ window.AGENTS = {
           "caption": "Amazon ha smesso di rilasciare aggiornamenti per i Kindle più vecchi, lasciandoli senza patch di sicurezza. 📵 Chi li possiede ora ha due strade: tenere un dispositivo esposto a vulnerabilità, o jailbreakarlo per avere controllo totale. 🔓 Un Kindle \"liberato\" può rimuovere pubblicità, installare software custom e comunque usare il Kindle Store. Per te significa scegliere tra una scatola chiusa e un e-reader senza limiti. Quale dei tuoi vecchi dispositivi merita una seconda vita? 📚"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Amazon stops supporting older Kindles.",
+              "voiceover": "Did you know Amazon has stopped supporting older Kindles?",
+              "on_screen_text": "Amazon stops support!",
+              "visual_direction": "Bold letters appearing with a clock ticking sound.",
+              "caption": "Urgent news for Kindle users.",
+              "tone": "urgent",
+              "emphasis_word": "support",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "No security patches means risk.",
+              "voiceover": "No security patches mean your data is at risk.",
+              "on_screen_text": "Data at risk!",
+              "visual_direction": "Red alert graphics flashing.",
+              "caption": "Protect your information!",
+              "tone": "urgent",
+              "emphasis_word": "risk",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "People jailbreaking for control.",
+              "voiceover": "People are now jailbreaking their Kindles to take control.",
+              "on_screen_text": "Take control!",
+              "visual_direction": "Visual transition to users modifying devices.",
+              "caption": "Join the movement!",
+              "tone": "inspiring",
+              "emphasis_word": "control",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "A jailbroken Kindle has no limits.",
+              "voiceover": "A jailbroken Kindle has no limits on what you can do.",
+              "on_screen_text": "No limits!",
+              "visual_direction": "Expanding graphics showing endless possibilities.",
+              "caption": "Freedom awaits!",
+              "tone": "inspiring",
+              "emphasis_word": "limits",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Lock it or jailbreak for freedom?",
+              "voiceover": "Will you keep it locked or jailbreak for freedom?",
+              "on_screen_text": "Your choice!",
+              "visual_direction": "Split screen with locked vs. jailbroken Kindle.",
+              "caption": "Make your decision!",
+              "tone": "urgent",
+              "emphasis_word": "freedom",
+              "layout": "split"
+            }
+          ],
+          "duration_sec": 27,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Jailbreak for your freedom now!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "Amazon ha smesso di rilasciare aggiornamenti per i Kindle più vecchi, lasciandoli senza patch di sicurezza. 📵 Chi li possiede ora ha due strade: tenere un dispositivo esposto a vulnerabilità, o jailbreakarlo per avere controllo totale. 🔓 Un Kindle \"liberato\" può rimuovere pubblicità, installare software custom e comunque usare il Kindle Store. Per te significa scegliere tra una scatola chiusa e un e-reader senza limiti. Quale dei tuoi vecchi dispositivi merita una seconda vita? 📚",
@@ -8540,8 +14071,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2017/11/2007-kindle-1st-gen-angle-gettyimages-93559279.jpg?resize=1200,791",
       "savedAt": "2026-05-16T14:48:30.846Z",
       "sourceId": "163ac43a9d21d7d4f0a41dc1fefe153b",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -8604,11 +14135,72 @@ window.AGENTS = {
           "caption": "General Catalyst ha postato un attacco al modello di venture più sacro di a16z su LinkedIn, e la loro audience è esplosa di difese e rabbia 🎯. L'affondo non parlava ai competitor, ma al pubblico avversario, colpendo un dogma che ha scatenato l'istinto di proteggere l'ecosistema 🔥. Ora chiunque su LinkedIn può usare la stessa leva: non replicare i rivali, ma accendere la loro audience 💡. Non ti serve un budget: costa meno di una cena fuori e funziona questa settimana. Quanto vale il tuo prossimo post?"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Hai visto la reazione furiosa?",
+              "voiceover": "L'audience di a16z è infuriata.",
+              "on_screen_text": "REACTION FURIOUSA",
+              "visual_direction": "Testo in movimento verso l'alto.",
+              "caption": "Scopri cosa è successo.",
+              "tone": "urgent",
+              "emphasis_word": "FURIOUSA",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "General Catalyst ha attaccato!",
+              "voiceover": "Hanno criticato il modello di venture più sacro.",
+              "on_screen_text": "ATTACCO A VENTURE",
+              "visual_direction": "Testo che esplode in entrata.",
+              "caption": "Un attacco senza precedenti.",
+              "tone": "urgent",
+              "emphasis_word": "ATTACCO",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 7,
+              "hook": "Non ai competitor, ma al pubblico.",
+              "voiceover": "Hanno mirato a coinvolgere la loro audience.",
+              "on_screen_text": "MIRATO AL PUBBLICO",
+              "visual_direction": "Testo che scorre orizzontalmente.",
+              "caption": "Coinvolgi, non competere.",
+              "tone": "informative",
+              "emphasis_word": "PUBBLICO",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "LinkedIn ha questa leva.",
+              "voiceover": "Chiunque può attivare la propria audience.",
+              "on_screen_text": "LEVA SU LINKEDIN",
+              "visual_direction": "Testo che si illumina.",
+              "caption": "Sfrutta le opportunità.",
+              "tone": "inspiring",
+              "emphasis_word": "LEVA",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Non replicare, accendi!",
+              "voiceover": "Accendi la tua audience, non imitare.",
+              "on_screen_text": "ACCENDI LA TUA AUDIENCE",
+              "visual_direction": "Testo che si espande.",
+              "caption": "Fai la differenza.",
+              "tone": "inspiring",
+              "emphasis_word": "ACCENDI",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 28,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Scopri di più su questo tema!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "General Catalyst ha postato un attacco al modello di venture più sacro di a16z su LinkedIn, e la loro audience è esplosa di difese e rabbia 🎯. L'affondo non parlava ai competitor, ma al pubblico avversario, colpendo un dogma che ha scatenato l'istinto di proteggere l'ecosistema 🔥. Ora chiunque su LinkedIn può usare la stessa leva: non replicare i rivali, ma accendere la loro audience 💡. Non ti serve un budget: costa meno di una cena fuori e funziona questa settimana. Quanto vale il tuo prossimo post?",
@@ -8661,8 +14253,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Rage-bait.png?resize=1200,960",
       "savedAt": "2026-05-16T02:07:55.898Z",
       "sourceId": "0c3f2056c2d6d50a60db865700799d36",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -8725,11 +14317,72 @@ window.AGENTS = {
           "caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, e gli investitori ne vogliono ancora. Rivian brucia più cassa di quanti camion venda 💸. Puntava sui mercati da mille miliardi: EV, batterie, guida autonoma. Ma perde soldi su ogni veicolo. Il problema non è il mercato, ma il tempo giusto per entrare ⏳. Se lavori nell'auto o nella finanza, questo cambia come valuti le promesse dei fondatori 🚗. Quanti camion devono vendere prima che il conto torni?"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "RJ Scaringe's staggering success!",
+              "voiceover": "Twelve billion dollars raised.",
+              "on_screen_text": "12 BILLION DOLLARS RAISED",
+              "visual_direction": "Bold text animating in with a dramatic zoom",
+              "caption": "Impressive fundraising achievements!",
+              "tone": "urgent",
+              "emphasis_word": "BILLION",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Three startups, huge potential!",
+              "voiceover": "Three companies, trillion-dollar markets each.",
+              "on_screen_text": "THREE COMPANIES, TRILLION-DOLLAR MARKETS",
+              "visual_direction": "Text slides in from the sides",
+              "caption": "The market is massive!",
+              "tone": "informative",
+              "emphasis_word": "TRILLION-DOLLAR",
+              "layout": "split"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Rivian's struggles revealed!",
+              "voiceover": "Rivian still burns cash on every truck.",
+              "on_screen_text": "BURNS CASH ON EVERY TRUCK",
+              "visual_direction": "Text drops in with a burning effect",
+              "caption": "Challenges in production!",
+              "tone": "urgent",
+              "emphasis_word": "BURNS",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Timing is everything!",
+              "voiceover": "Right bet, wrong timing.",
+              "on_screen_text": "RIGHT BET, WRONG TIMING",
+              "visual_direction": "Text fades in and out with a clock animation",
+              "caption": "Timing can make or break!",
+              "tone": "informative",
+              "emphasis_word": "WRONG",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Focus on the details!",
+              "voiceover": "Next time, ask about unit economics.",
+              "on_screen_text": "ASK ABOUT UNIT ECONOMICS",
+              "visual_direction": "Text bounces in with a question mark effect",
+              "caption": "Stay informed and savvy!",
+              "tone": "inspiring",
+              "emphasis_word": "ECONOMICS",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 26,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Learn more about startup success!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, e gli investitori ne vogliono ancora. Rivian brucia più cassa di quanti camion venda 💸. Puntava sui mercati da mille miliardi: EV, batterie, guida autonoma. Ma perde soldi su ogni veicolo. Il problema non è il mercato, ma il tempo giusto per entrare ⏳. Se lavori nell'auto o nella finanza, questo cambia come valuti le promesse dei fondatori 🚗. Quanti camion devono vendere prima che il conto torni?",
@@ -8782,8 +14435,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2025/12/rj-scaringe.jpeg?resize=1200,900",
       "savedAt": "2026-05-15T22:45:46.116Z",
       "sourceId": "db4a531cb91ee4f28dfdaa09296c7f4f",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -8846,11 +14499,72 @@ window.AGENTS = {
           "caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, ma l'ultima brucia cassa più del previsto. 💸 I soci, nonostante le perdite, pretendono altro denaro. Perché? Perché la fiducia nel fondatore non basta: servono ritorni. 🚩 Se lavori in una scale-up o investi in early stage, questo caso ti dice che visione e carisma non pagano il prossimo round. La valutazione del prossimo giro dimezzerà o salterà. Aggiorni la tua watchlist? 👀"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "RJ Scaringe ha raccolto 12 miliardi.",
+              "voiceover": "RJ Scaringe ha raccolto più di 12 miliardi.",
+              "on_screen_text": "12 MILIARDI RACCOLTI",
+              "visual_direction": "Testo grande e bold al centro dello schermo.",
+              "caption": "Un incredibile traguardo.",
+              "tone": "informative",
+              "emphasis_word": "MILIONI",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Poi il disastro.",
+              "voiceover": "Ma poi è arrivato il disastro.",
+              "on_screen_text": "POI IL DISASTRO",
+              "visual_direction": "Effetto di frattura sul testo.",
+              "caption": "Cosa è successo?",
+              "tone": "urgent",
+              "emphasis_word": "DISASTRO",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Ha bruciato tutto.",
+              "voiceover": "Scaringe ha bruciato tutto più velocemente.",
+              "on_screen_text": "HA BRUCIATO TUTTO",
+              "visual_direction": "Fiamme animate sullo sfondo.",
+              "caption": "Investitori in allerta.",
+              "tone": "urgent",
+              "emphasis_word": "BRUCIATO",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Investitori vogliono risposte.",
+              "voiceover": "Chi ha investito pretende risposte ora.",
+              "on_screen_text": "RISPOSTE ORA",
+              "visual_direction": "Testo lampeggiante per attirare attenzione.",
+              "caption": "Tensione crescente.",
+              "tone": "urgent",
+              "emphasis_word": "RISPOSTE",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Il prossimo round è cruciale.",
+              "voiceover": "Il prossimo round di finanziamento dirà tutto.",
+              "on_screen_text": "IL PROSSIMO ROUND",
+              "visual_direction": "Testo in movimento verso l'alto.",
+              "caption": "Il futuro è incerto.",
+              "tone": "informative",
+              "emphasis_word": "CRUCIALE",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 25,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Resta aggiornato sulle novità!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, ma l'ultima brucia cassa più del previsto. 💸 I soci, nonostante le perdite, pretendono altro denaro. Perché? Perché la fiducia nel fondatore non basta: servono ritorni. 🚩 Se lavori in una scale-up o investi in early stage, questo caso ti dice che visione e carisma non pagano il prossimo round. La valutazione del prossimo giro dimezzerà o salterà. Aggiorni la tua watchlist? 👀",
@@ -8903,8 +14617,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2025/12/rj-scaringe.jpeg?resize=1200,900",
       "savedAt": "2026-05-15T20:56:28.784Z",
       "sourceId": "db4a531cb91ee4f28dfdaa09296c7f4f",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -8967,11 +14681,72 @@ window.AGENTS = {
           "caption": "Rapido ha appena raccolto 240 milioni di dollari e vale 3 miliardi 🚲, ma perde ancora soldi su quasi ogni corsa. La startup indiana guida il mercato dei bike-taxi, che ha toccato il record. Il successo, però, dipende dal volume: tariffe basse per te significano meno guadagni per chi guida 💸. Per adesso, ti conviene provarla: confronta costi e tempi di attesa con un Uber ⏱️. Quanto può crescere prima che la contesa si accenda?"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri la nuova sfida nel trasporto!",
+              "voiceover": "Indian Uber rival Rapido raises $240 million.",
+              "on_screen_text": "Raccolti 240 milioni di dollari!",
+              "visual_direction": "Testo grande e colorato che appare rapidamente.",
+              "caption": "Investimenti record nel settore!",
+              "tone": "urgent",
+              "emphasis_word": "240 milioni",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Ma c'è un problema...",
+              "voiceover": "Ma perdono soldi su ogni corsa.",
+              "on_screen_text": "Perdono soldi su ogni corsa.",
+              "visual_direction": "Testo che si dissolve per mostrare la difficoltà.",
+              "caption": "Un modello di business sostenibile?",
+              "tone": "urgent",
+              "emphasis_word": "perdono",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Il mercato è in crescita!",
+              "voiceover": "Il mercato dei bici-taxi esplode.",
+              "on_screen_text": "Mercato bici-taxi in crescita!",
+              "visual_direction": "Animazioni di bici-taxi che si muovono velocemente.",
+              "caption": "Un'opportunità da non perdere!",
+              "tone": "inspiring",
+              "emphasis_word": "esplode",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "C'è un'altra verità...",
+              "voiceover": "Gli autisti guadagnano sempre meno.",
+              "on_screen_text": "Autisti guadagnano sempre meno.",
+              "visual_direction": "Testo che si riduce di dimensione.",
+              "caption": "Qual è il futuro per loro?",
+              "tone": "informative",
+              "emphasis_word": "meno",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Prova Rapido oggi!",
+              "voiceover": "Provalo: costa meno e arriva prima.",
+              "on_screen_text": "Costa meno e arriva prima!",
+              "visual_direction": "Testo che lampeggia per attirare attenzione.",
+              "caption": "Non perdere tempo!",
+              "tone": "urgent",
+              "emphasis_word": "meno",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 25,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Scopri di più su Rapido!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "Rapido ha appena raccolto 240 milioni di dollari e vale 3 miliardi 🚲, ma perde ancora soldi su quasi ogni corsa. La startup indiana guida il mercato dei bike-taxi, che ha toccato il record. Il successo, però, dipende dal volume: tariffe basse per te significano meno guadagni per chi guida 💸. Per adesso, ti conviene provarla: confronta costi e tempi di attesa con un Uber ⏱️. Quanto può crescere prima che la contesa si accenda?",
@@ -9024,8 +14799,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2023/10/rapido.jpg?w=1200",
       "savedAt": "2026-05-15T19:20:03.416Z",
       "sourceId": "397bfe6497a0257060974341c210a909",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -9088,11 +14863,72 @@ window.AGENTS = {
           "caption": "A Sonoma County la rete elettrica è ferma agli anni '90, ma i data center per l'AI stanno chiedendo potenza da decenni tecnologici. Il problema: il carico è già troppo alto e le utility locali non sanno ancora come coprirlo con solare o eolio, perché non scalano in tempo ⚡. Se il tuo fornitore è lo stesso della zona, la tua bolletta potrebbe salire prima di settembre. Hai già verificato se la tua rete locale reggerà l'estate? 💸🔋"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "La tua bolletta potrebbe salire",
+              "voiceover": "La tua bolletta potrebbe salire prima dell'estate.",
+              "on_screen_text": "Bollette in Aumento",
+              "visual_direction": "Testo che entra da sinistra",
+              "caption": "Preparati ora",
+              "tone": "urgent",
+              "emphasis_word": "Aumento",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Colpa dei data center",
+              "voiceover": "Colpa dei data center per l'intelligenza artificiale qui in zona.",
+              "on_screen_text": "Data Center AI",
+              "visual_direction": "Testo che si espande",
+              "caption": "Il nostro futuro",
+              "tone": "informative",
+              "emphasis_word": "AI",
+              "layout": "split"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "La rete elettrica locale",
+              "voiceover": "La rete elettrica locale non ce la fa più a reggere.",
+              "on_screen_text": "Rete Elettrica Sottoposta",
+              "visual_direction": "Testo che si sdrucisce",
+              "caption": "Cosa possiamo fare?",
+              "tone": "urgent",
+              "emphasis_word": "Sottoposta",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Solare ed eolico",
+              "voiceover": "Solare ed eolico crescono, ma non abbastanza in fretta.",
+              "on_screen_text": "Energia Verde Crescente",
+              "visual_direction": "Testo che si muove in alto",
+              "caption": "Non è sufficiente",
+              "tone": "informative",
+              "emphasis_word": "Crescente",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Controlla il tuo fornitore",
+              "voiceover": "Controlla il tuo fornitore adesso, non dopo.",
+              "on_screen_text": "Controlla Ora!",
+              "visual_direction": "Testo lampeggiante",
+              "caption": "Agisci subito!",
+              "tone": "urgent",
+              "emphasis_word": "Ora",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 27,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Controlla il tuo fornitore oggi!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "A Sonoma County la rete elettrica è ferma agli anni '90, ma i data center per l'AI stanno chiedendo potenza da decenni tecnologici. Il problema: il carico è già troppo alto e le utility locali non sanno ancora come coprirlo con solare o eolio, perché non scalano in tempo ⚡. Se il tuo fornitore è lo stesso della zona, la tua bolletta potrebbe salire prima di settembre. Hai già verificato se la tua rete locale reggerà l'estate? 💸🔋",
@@ -9145,8 +14981,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1370931116.jpeg?resize=1200,801",
       "savedAt": "2026-05-15T19:19:49.399Z",
       "sourceId": "fbdbbdaad4a0bd0e71a4c1b613b19c2d",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -9209,11 +15045,72 @@ window.AGENTS = {
           "caption": "Runway ha addestrato un modello su 48 milioni di video, e ora batte DeepMind di Google nella generazione del movimento umano. 🎬 Non si tratta di capire parole, ma di come ci muoviamo: camminate, gesti, espressioni diventano fluidi e realistici in pochi secondi. ⏱️ Per chi lavora con video, significa saltare ore di animazione manuale e modificare il risultato in tempo reale. Un clip da 10 secondi costa meno di un caffè. ☕️ Hai già confrontato il movimento che genera con quello di DeepMind? 👀"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Runway ha appena battuto Google!",
+              "voiceover": "Runway ha appena battuto Google nel mondo dell'AI.",
+              "on_screen_text": "Runway ha battuto Google",
+              "visual_direction": "Animazione di testo che esplode sullo schermo.",
+              "caption": "Scopri come!",
+              "tone": "urgent",
+              "emphasis_word": "battuto",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "...",
+              "voiceover": "Addestrato su 48 milioni di video, ora è potente.",
+              "on_screen_text": "48 milioni di video",
+              "visual_direction": "Testo che scorre rapidamente attraverso uno sfondo video.",
+              "caption": "Impressionante!",
+              "tone": "informative",
+              "emphasis_word": "48 milioni",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "...",
+              "voiceover": "Genera movimenti umani perfetti con facilità.",
+              "on_screen_text": "Movimenti umani perfetti",
+              "visual_direction": "Effetto di movimento fluido con testo in transizione.",
+              "caption": "Futuro dell'editing!",
+              "tone": "inspiring",
+              "emphasis_word": "perfetti",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "...",
+              "voiceover": "I filmmaker risparmiano ore di editing ogni giorno.",
+              "on_screen_text": "Risparmia ore di editing",
+              "visual_direction": "Testo che si dissolve mentre si mostra un filmmaker al lavoro.",
+              "caption": "Magia dell'AI!",
+              "tone": "informative",
+              "emphasis_word": "ore",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "...",
+              "voiceover": "Prova un clip e confrontalo con DeepMind.",
+              "on_screen_text": "Prova e confronta",
+              "visual_direction": "Testo che si illumina e sfuma.",
+              "caption": "Scopri la differenza!",
+              "tone": "urgent",
+              "emphasis_word": "confronta",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 30,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Scopri di più su Runway!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "Runway ha addestrato un modello su 48 milioni di video, e ora batte DeepMind di Google nella generazione del movimento umano. 🎬 Non si tratta di capire parole, ma di come ci muoviamo: camminate, gesti, espressioni diventano fluidi e realistici in pochi secondi. ⏱️ Per chi lavora con video, significa saltare ore di animazione manuale e modificare il risultato in tempo reale. Un clip da 10 secondi costa meno di un caffè. ☕️ Hai già confrontato il movimento che genera con quello di DeepMind? 👀",
@@ -9266,8 +15163,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2026/04/Runway-founders.jpg?resize=1200,960",
       "savedAt": "2026-05-15T17:26:59.640Z",
       "sourceId": "91ef357f0757fbac78c2ff239b897944",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -9330,11 +15227,72 @@ window.AGENTS = {
           "caption": "OpenAI ha appena sbloccato l'accesso di ChatGPT ai tuoi conti correnti. Fino a ieri l'AI ragionava su dati pubblici; da oggi legge ogni tuo movimento — dal caffè mattutino all'assicurazione annuale. Il consiglio finanziario diventa così personalizzato in tempo reale sulle tue abitudini reali, non su un profilo standard. Se non connetti i conti, il suo parere resta generico, ma chi lo fa ottiene raccomandazioni aggiornate e un confronto immediato tra spese e suggerimenti. Quando è stata l'ultima volta che una banca ti ha fatto risparmiare un abbonamento Netflix? 💳📉🤖💰"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Il tuo consulente è già vecchio.",
+              "voiceover": "Il tuo consulente è già vecchio e non ti aiuta più.",
+              "on_screen_text": "Il tuo consulente è già *vecchio*.",
+              "visual_direction": "Testo grande con sfondo dinamico.",
+              "caption": "Rivoluziona il tuo modo di gestire le finanze.",
+              "tone": "urgent",
+              "emphasis_word": "vecchio",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Ora l'AI vede le tue spese.",
+              "voiceover": "Ora l'AI può analizzare le tue spese quotidiane.",
+              "on_screen_text": "L'AI vede le tue *spese*.",
+              "visual_direction": "Animazione di grafici e spese animati.",
+              "caption": "Scopri come ottimizzare il tuo budget.",
+              "tone": "informative",
+              "emphasis_word": "spese",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Prima leggeva solo notizie pubbliche.",
+              "voiceover": "In passato, leggeva solo notizie pubbliche.",
+              "on_screen_text": "Leggeva solo notizie *pubbliche*.",
+              "visual_direction": "Testo su sfondo di notizie.",
+              "caption": "E ora è tempo di un cambiamento.",
+              "tone": "informative",
+              "emphasis_word": "pubbliche",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Chi non connette il conto perde il controllo.",
+              "voiceover": "Chi non connette il conto perde il controllo delle finanze.",
+              "on_screen_text": "Perdi *controllo* delle finanze.",
+              "visual_direction": "Testo che si frantuma.",
+              "caption": "Non lasciare che questo accada.",
+              "tone": "urgent",
+              "emphasis_word": "controllo",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Prova oggi, confronta le transazioni.",
+              "voiceover": "Prova oggi e confronta le tue transazioni facilmente.",
+              "on_screen_text": "Prova oggi, confronta le *transazioni*.",
+              "visual_direction": "Testo che si illumina.",
+              "caption": "Inizia a gestire le tue finanze.",
+              "tone": "inspiring",
+              "emphasis_word": "transazioni",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 25,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Collegati ora e migliora le tue finanze!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "OpenAI ha appena sbloccato l'accesso di ChatGPT ai tuoi conti correnti. Fino a ieri l'AI ragionava su dati pubblici; da oggi legge ogni tuo movimento — dal caffè mattutino all'assicurazione annuale. Il consiglio finanziario diventa così personalizzato in tempo reale sulle tue abitudini reali, non su un profilo standard. Se non connetti i conti, il suo parere resta generico, ma chi lo fa ottiene raccomandazioni aggiornate e un confronto immediato tra spese e suggerimenti. Quando è stata l'ultima volta che una banca ti ha fatto risparmiare un abbonamento Netflix? 💳📉🤖💰",
@@ -9387,8 +15345,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
       "savedAt": "2026-05-15T17:26:47.113Z",
       "sourceId": "ba162ec2cb94c6ccbd04ec7f277d7285",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -9693,11 +15651,72 @@ window.AGENTS = {
           "caption": "Un sistema ha riscritto il suo codice da solo in una notte, senza un ingegnere che guardasse. Il team gli ha chiesto di ottimizzarsi, e in otto ore ha prodotto cinque versioni, ognuna più veloce della precedente 🔧. Al quinto ciclo il codice era già irriconoscibile per chi l'aveva progettato ⚡. Lo stesso principio applicato a un tuo strumento quotidiano significa che potrebbe diventare obsoleto prima del lancio ufficiale. Hai mai cronometrato quanto impiega il tuo flusso rispetto a un agente che si migliora da solo?"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "What if AI could evolve itself?",
+              "voiceover": "Un AI ha riscritto il suo codice da sola.",
+              "on_screen_text": "Un AI ha riscritto il codice",
+              "visual_direction": "Testo che si anima verso l'alto",
+              "caption": "La nuova era dell'intelligenza artificiale",
+              "tone": "urgent",
+              "emphasis_word": "riscritto",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "No engineers involved!",
+              "voiceover": "Niente ingegneri, solo un obiettivo.",
+              "on_screen_text": "Niente ingegneri, solo obiettivo",
+              "visual_direction": "Testo che esplode in diverse direzioni",
+              "caption": "Un cambiamento radicale",
+              "tone": "urgent",
+              "emphasis_word": "obiettivo",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 7,
+              "hook": "Incredibile progresso!",
+              "voiceover": "In otto ore ha superato ogni squadra umana.",
+              "on_screen_text": "Superato ogni squadra umana",
+              "visual_direction": "Testo che scorre rapidamente verso destra",
+              "caption": "La velocità dell'AI",
+              "tone": "informative",
+              "emphasis_word": "superato",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 7,
+              "hook": "Il risultato è scioccante!",
+              "voiceover": "Il risultato era irriconoscibile.",
+              "on_screen_text": "Risultato irriconoscibile",
+              "visual_direction": "Effetto di dissolvenza del testo",
+              "caption": "Cosa significa per noi?",
+              "tone": "informative",
+              "emphasis_word": "irriconoscibile",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Preparati al futuro!",
+              "voiceover": "Il tuo prossimo tool potrebbe essere già morto.",
+              "on_screen_text": "Il tuo tool potrebbe essere morto",
+              "visual_direction": "Testo che si frantuma in pezzi",
+              "caption": "Rimanere aggiornati è cruciale",
+              "tone": "urgent",
+              "emphasis_word": "morto",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 31,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Scopri di più sul futuro dell'AI!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "Un sistema ha riscritto il suo codice da solo in una notte, senza un ingegnere che guardasse. Il team gli ha chiesto di ottimizzarsi, e in otto ore ha prodotto cinque versioni, ognuna più veloce della precedente 🔧. Al quinto ciclo il codice era già irriconoscibile per chi l'aveva progettato ⚡. Lo stesso principio applicato a un tuo strumento quotidiano significa che potrebbe diventare obsoleto prima del lancio ufficiale. Hai mai cronometrato quanto impiega il tuo flusso rispetto a un agente che si migliora da solo?",
@@ -9750,8 +15769,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
       "savedAt": "2026-05-15T08:55:00.917Z",
       "sourceId": "baafa407a6f861d18c998d82e769ad24",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -10764,11 +16783,72 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Cisco's big move!",
+              "voiceover": "Cisco taglia quattromila persone per risparmiare.",
+              "on_screen_text": "Cisco taglia 4.000 posti",
+              "visual_direction": "Animazione di un grafico in discesa.",
+              "caption": "Scelte difficili nel mondo aziendale.",
+              "tone": "urgent",
+              "emphasis_word": "taglia",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Record revenue!",
+              "voiceover": "Ma fattura un record di entrate trimestrali.",
+              "on_screen_text": "Record di fatturato!",
+              "visual_direction": "Animazione di un grafico in salita.",
+              "caption": "Crescita nonostante le difficoltà.",
+              "tone": "informative",
+              "emphasis_word": "record",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "L'AI costa!",
+              "voiceover": "L'intelligenza artificiale costa un sacco di soldi.",
+              "on_screen_text": "L'AI costa un sacco!",
+              "visual_direction": "Animazione di monetine che cadono.",
+              "caption": "Investimenti cruciali.",
+              "tone": "urgent",
+              "emphasis_word": "costa",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Le tue scelte?",
+              "voiceover": "Tu cosa taglieresti per investire?",
+              "on_screen_text": "Cosa taglieresti?",
+              "visual_direction": "Immagini di persone che pensano.",
+              "caption": "Riflessioni necessarie.",
+              "tone": "inspiring",
+              "emphasis_word": "taglieresti",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Sei pronto?",
+              "voiceover": "La tua azienda è pronta per il futuro?",
+              "on_screen_text": "La tua azienda è pronta?",
+              "visual_direction": "Animazione di un orologio che scorre.",
+              "caption": "Preparati al cambiamento.",
+              "tone": "urgent",
+              "emphasis_word": "pronta",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 27,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Condividi la tua opinione nei commenti!",
+          "quality_score": 85
         }
       },
       "metrics": {
@@ -10784,8 +16864,8 @@ window.AGENTS = {
         "x": "{\"account_id\":2056313885964062700,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2056313885964062720] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}",
         "tiktok": null
       },
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -10848,11 +16928,72 @@ window.AGENTS = {
           "caption": "Una startup ha appena raccolto 23 milioni di dollari 🤑 vendendo immagini e audio grezzi per addestrare l'intelligenza artificiale. Non il modello finale, ma la materia prima con cui quei modelli imparano: un segnale che i dataset sono ormai la risorsa più scarsa. Se lavori con l'AI, il tuo limite reale non è l'algoritmo, ma la qualità dei dati che usi per farlo funzionare 💡. Il primo controllo da fare oggi è da dove arrivano le tue fonti?"
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "I dati valgono più dei modelli.",
+              "voiceover": "I dati valgono più dei modelli.",
+              "on_screen_text": "I DATI VALGONO",
+              "visual_direction": "Animazione di testo che esplode sullo schermo.",
+              "caption": "Riflessione sull'importanza dei dati.",
+              "tone": "urgent",
+              "emphasis_word": "DATI",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Wirestock ha raccolto 23 milioni di dollari.",
+              "voiceover": "Wirestock ha raccolto 23 milioni di dollari.",
+              "on_screen_text": "$23 MILIONI RACCOLTI",
+              "visual_direction": "Testo che scorre verso l'alto con grafica monetaria.",
+              "caption": "Investimenti significativi nel futuro.",
+              "tone": "informative",
+              "emphasis_word": "MILIONI",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Non vendono AI, vendono dati visivi e audio.",
+              "voiceover": "Non vendono AI, vendono dati visivi e audio.",
+              "on_screen_text": "DATI VISIVI & AUDIO",
+              "visual_direction": "Illustrazione di elementi visivi e audio che si uniscono.",
+              "caption": "Focus su risorse creative.",
+              "tone": "informative",
+              "emphasis_word": "DATI",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 7,
+              "hook": "Il tuo limite oggi sei tu e i tuoi dati.",
+              "voiceover": "Il tuo limite oggi sei tu e i tuoi dati.",
+              "on_screen_text": "IL TUO LIMITE SEI TU",
+              "visual_direction": "Testo che si restringe mentre si ingrandisce.",
+              "caption": "Potenzia il tuo potenziale.",
+              "tone": "inspiring",
+              "emphasis_word": "LIMITE",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Controlla la qualità delle tue fonti.",
+              "voiceover": "Controlla la qualità delle tue fonti prima di tutto.",
+              "on_screen_text": "QUALITÀ DELLE FONTI",
+              "visual_direction": "Testo con un segno di spunta che appare.",
+              "caption": "Fai le scelte giuste.",
+              "tone": "urgent",
+              "emphasis_word": "QUALITÀ",
+              "layout": "single"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Scopri di più su Wirestock!",
+          "quality_score": 85
         }
       },
       "instagram_caption": "Una startup ha appena raccolto 23 milioni di dollari 🤑 vendendo immagini e audio grezzi per addestrare l'intelligenza artificiale. Non il modello finale, ma la materia prima con cui quei modelli imparano: un segnale che i dataset sono ormai la risorsa più scarsa. Se lavori con l'AI, il tuo limite reale non è l'algoritmo, ma la qualità dei dati che usi per farlo funzionare 💡. Il primo controllo da fare oggi è da dove arrivano le tue fonti?",
@@ -10905,8 +17046,8 @@ window.AGENTS = {
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Wirestock-team.jpg?resize=1200,675",
       "savedAt": "2026-05-14T15:28:24.091Z",
       "sourceId": "701532e0c3d27d3f3e45553cf5258b4c",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "kinetic_typography",
       "render_status": {
         "low": null,
         "medium": null,
@@ -27634,6 +33775,58 @@ window.AGENTS = {
             "Versa in teglia imburrata, aggiungi le fragole tagliate. Forno statico a 180° per 30-35 minuti. Profumo che invade casa.",
             "Una volta fredda, spolvera con zucchero a velo e fragole fresche. Provala e dimmi se ti è sparita in 5 minuti anche a te 👇"
           ]
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "La torta più veloce che tu abbia mai fatto!",
+              "voiceover": "Scopri come preparare una torta alle fragole in 5 minuti!",
+              "on_screen_text": "Torta soffice e veloce alle fragole",
+              "visual_direction": "Inquadra la torta finita con fragole fresche sopra.",
+              "caption": "Torta alle fragole in 5 minuti!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ingredienti semplici e veloci!",
+              "voiceover": "Hai bisogno di fragole, farina, uova, zucchero e burro.",
+              "on_screen_text": "Fragole, farina, uova, zucchero, burro",
+              "visual_direction": "Mostra gli ingredienti disposti su un tavolo.",
+              "caption": "Ingredienti per la tua torta!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Mescola senza complicazioni!",
+              "voiceover": "Mescola le uova e lo zucchero senza montare.",
+              "on_screen_text": "Mescola uova e zucchero senza montare",
+              "visual_direction": "Riprendi il processo di mescolamento in una ciotola.",
+              "caption": "Facile e veloce!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Tempo di cottura perfetto!",
+              "voiceover": "Cuoci in forno statico a 180 gradi per 25 minuti.",
+              "on_screen_text": "Cuoci in forno statico a 180 gradi",
+              "visual_direction": "Mostra il forno e un timer che conta.",
+              "caption": "Cottura in corso!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Guarnisci e servi!",
+              "voiceover": "Guarnisci con fragole fresche e zucchero a velo.",
+              "on_screen_text": "Guarnisci con fragole e zucchero a velo",
+              "visual_direction": "Inquadra il momento della guarnizione con fragole.",
+              "caption": "Pronta da gustare!"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 28,
+          "cta": "Prova questa ricetta e condividi!"
         }
       },
       "video_script": [
@@ -27704,7 +33897,9 @@ window.AGENTS = {
       ],
       "image": "https://www.giallozafferano.it/images/362-36217/Torta-5-minuti-alle-fragole_650x433_wm.jpg",
       "savedAt": "2026-05-25T16:19:54.811Z",
-      "sourceId": "d7adc4824738c6eb07bbf2f5dbd00bac"
+      "sourceId": "d7adc4824738c6eb07bbf2f5dbd00bac",
+      "render_template": "slide_deck",
+      "render_quality": "low"
     },
     {
       "schema_version": 2,
@@ -27745,6 +33940,58 @@ window.AGENTS = {
             "Scola la pasta al dente e saltala direttamente nella crema di asparagi, con un mestolo di acqua di cottura per legare il tutto.",
             "Fuori dal fuoco, aggiungi lo speck croccante sbriciolato e qualche asparago intero tenuto da parte. Provalo e dimmi se non è magia 👇"
           ]
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri il piatto che stupirà tutti!",
+              "voiceover": "Oggi prepariamo una pasta cremosa e deliziosa.",
+              "on_screen_text": "Pasta cremosa con asparagi e speck",
+              "visual_direction": "Inquadratura ravvicinata di un piatto di pasta fumante.",
+              "caption": "Un piatto da chef!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ingredienti freschi per un sapore unico!",
+              "voiceover": "Ecco cosa ci serve: spaghettoni, asparagi, speck e basilico.",
+              "on_screen_text": "Spaghettoni, asparagi, speck, olio, basilico",
+              "visual_direction": "Ripresa degli ingredienti disposti su un tavolo.",
+              "caption": "Ingredienti freschi!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Creiamo una crema vellutata di asparagi!",
+              "voiceover": "Frulla gli asparagi cotti per una crema perfetta.",
+              "on_screen_text": "Frulla gli asparagi in crema",
+              "visual_direction": "Inquadratura del frullatore mentre si preparano gli asparagi.",
+              "caption": "Crema di asparagi!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Scola e salta la pasta con la crema!",
+              "voiceover": "Scola la pasta e saltala nella crema di asparagi.",
+              "on_screen_text": "Scola e saltala nella crema",
+              "visual_direction": "Inquadratura della pasta che viene mescolata con la crema.",
+              "caption": "Pasta pronta!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Guarnisci per un tocco finale!",
+              "voiceover": "Guarnisci con speck croccante e asparagi freschi.",
+              "on_screen_text": "Guarnisci con speck e asparagi",
+              "visual_direction": "Ripresa finale con il piatto guarnito, bello e appetitoso.",
+              "caption": "Servi e gusta!"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 29,
+          "cta": "Prova questa ricetta oggi stesso!"
         }
       },
       "video_script": [
@@ -27815,7 +34062,9 @@ window.AGENTS = {
       ],
       "image": "https://www.giallozafferano.it/images/362-36211/Pasta-con-asparagi-e-speck_650x433_wm.jpg",
       "savedAt": "2026-05-21T17:55:55.367Z",
-      "sourceId": "c796e183f2fb4125e3f495152ce756d6"
+      "sourceId": "c796e183f2fb4125e3f495152ce756d6",
+      "render_template": "slide_deck",
+      "render_quality": "low"
     },
     {
       "agent": "food",
@@ -28363,11 +34612,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Il risotto più cremoso che prova!",
+              "voiceover": "Scopri come preparare un risotto irresistibile con zucchine e salsiccia.",
+              "on_screen_text": "Risotto cremoso zucchine e salsiccia",
+              "visual_direction": "Inquadratura ravvicinata di un risotto cremoso che fuma.",
+              "caption": "Un piatto da leccarsi i baffi!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ingredienti freschi e gustosi!",
+              "voiceover": "Ecco cosa ti serve: riso, zucchine, salsiccia, burro e parmigiano.",
+              "on_screen_text": "Riso, zucchine, salsiccia, burro, parmigiano",
+              "visual_direction": "Mostrare gli ingredienti disposti su un tavolo.",
+              "caption": "Preparati con ingredienti freschi!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Frulla e friggi le zucchine!",
+              "voiceover": "Frulla metà delle zucchine e friggi l'altra metà per un tocco croccante.",
+              "on_screen_text": "Frulla e friggi le zucchine",
+              "visual_direction": "Primi piani di zucchine frullate e zucchine che friggono.",
+              "caption": "Il segreto della cremosità!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Unisci sapori e cuoci il riso!",
+              "voiceover": "Unisci la crema di zucchine e la salsiccia, poi cuoci il riso.",
+              "on_screen_text": "Unisci crema e salsiccia",
+              "visual_direction": "Mostrare il processo di unione degli ingredienti in padella.",
+              "caption": "Un'esplosione di sapori!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Guarnisci e servi caldo!",
+              "voiceover": "Guarnisci il risotto con zucchine fritte e timo fresco per un tocco finale.",
+              "on_screen_text": "Guarnisci con zucchine fritte e timo",
+              "visual_direction": "Inquadratura finale del piatto guarnito e servito.",
+              "caption": "Pronto da gustare!"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Prova subito questa ricetta!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -28439,8 +34734,8 @@ window.AGENTS = {
       "image": "https://www.giallozafferano.it/images/361-36122/Risotto-zucchine-e-salsiccia_650x433_wm.jpg",
       "savedAt": "2026-05-15T09:55:40.208Z",
       "sourceId": "19cebe732fcd6729d540dbe576cb1875",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "slide_deck",
       "render_status": {
         "low": null,
         "medium": null,
@@ -28491,11 +34786,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri la ricetta della pasta cremosa!",
+              "voiceover": "Oggi prepariamo una pasta cremosa senza panna.",
+              "on_screen_text": "Pasta cremosa senza panna",
+              "visual_direction": "Inquadratura ravvicinata della pasta che bolle.",
+              "caption": "Iniziamo!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ingredienti freschi per un piatto unico!",
+              "voiceover": "Utilizzeremo linguine, zucchine, speck e gorgonzola.",
+              "on_screen_text": "Linguine, zucchine, speck, gorgonzola",
+              "visual_direction": "Inquadratura degli ingredienti disposti su un tavolo.",
+              "caption": "Prepariamo gli ingredienti!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Rosoliamo lo speck per un sapore intenso.",
+              "voiceover": "Rosola lo speck in padella senza grassi.",
+              "on_screen_text": "Rosola lo speck senza grassi",
+              "visual_direction": "Mostra lo speck che sfrigola in padella.",
+              "caption": "Sapore intenso!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Il segreto della cremosità perfetta!",
+              "voiceover": "Aggiungi gorgonzola e acqua di cottura.",
+              "on_screen_text": "Aggiungi gorgonzola e acqua di cottura",
+              "visual_direction": "Inquadratura della pasta mescolata con il gorgonzola.",
+              "caption": "Mescoliamo bene!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Gorgonzola dolce per un tocco finale!",
+              "voiceover": "Il gorgonzola dolce rende tutto più cremoso.",
+              "on_screen_text": "Gorgonzola dolce per cremosità perfetta",
+              "visual_direction": "Inquadratura finale del piatto pronto da servire.",
+              "caption": "Servi e gusta!"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Prova la ricetta e condividi!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -28567,8 +34908,8 @@ window.AGENTS = {
       "image": "https://www.giallozafferano.it/images/361-36124/Pasta-zucchine-speck-e-gorgonzola_650x433_wm.jpg",
       "savedAt": "2026-05-15T09:55:39.397Z",
       "sourceId": "a68b85e77cf93283390abce9c0f4de86",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "slide_deck",
       "render_status": {
         "low": null,
         "medium": null,
@@ -28619,11 +34960,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri il piatto che conquisterà tutti!",
+              "voiceover": "Oggi prepariamo spaghetti con crema di cipollotti e taleggio.",
+              "on_screen_text": "Spaghetti con cipollotti e taleggio!",
+              "visual_direction": "Inquadratura ravvicinata degli ingredienti freschi.",
+              "caption": "Un piatto cremoso e delizioso!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 7,
+              "hook": "Iniziamo con i cipollotti!",
+              "voiceover": "Rosoliamo i cipollotti in padella fino a doratura.",
+              "on_screen_text": "Rosola i cipollotti!",
+              "visual_direction": "Mostra il cipollotto che sfrigola in padella.",
+              "caption": "Il profumo è irresistibile!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Non dimenticare la parte verde!",
+              "voiceover": "Sbollentiamo la parte verde dei cipollotti per pochi minuti.",
+              "on_screen_text": "Sbollenta la parte verde!",
+              "visual_direction": "Inquadratura della parte verde in acqua bollente.",
+              "caption": "Aggiungi colore e sapore!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 8,
+              "hook": "Frulliamo il tutto per una crema perfetta!",
+              "voiceover": "Frulliamo cipollotti e acqua fino a ottenere una crema liscia.",
+              "on_screen_text": "Frulla i cipollotti con acqua!",
+              "visual_direction": "Mostra l'azione di frullare e la crema che si forma.",
+              "caption": "Cremosa e saporita!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Mantechiamo e guarniamo!",
+              "voiceover": "Unisci la pasta, manteca con taleggio e guarnisci con menta.",
+              "on_screen_text": "Manteca con taleggio e menta!",
+              "visual_direction": "Inquadratura finale del piatto servito con menta fresca.",
+              "caption": "Pronto da gustare!"
+            }
+          ],
+          "duration_sec": 31,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Prova questa ricetta oggi stesso!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -28695,8 +35082,8 @@ window.AGENTS = {
       "image": "https://www.giallozafferano.it/images/361-36139/Spaghetti-con-crema-di-cipollotti-e-taleggio_650x433_wm.jpg",
       "savedAt": "2026-05-15T09:55:38.399Z",
       "sourceId": "b9e47583504bae7fddb19f4c5ce7621a",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "slide_deck",
       "render_status": {
         "low": null,
         "medium": null,
@@ -28747,11 +35134,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "La pasta dei tuoi sogni è qui!",
+              "voiceover": "Scopri come preparare una pasta deliziosa e cremosa.",
+              "on_screen_text": "Pasta cremosa con porri e pancetta",
+              "visual_direction": "Inquadratura ravvicinata di un piatto di pasta fumante.",
+              "caption": "Prepara un piatto da sogno!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ingredienti freschi e semplici!",
+              "voiceover": "Ecco cosa ti serve: porri, pancetta, pecorino e pasta.",
+              "on_screen_text": "Porri, pancetta, pecorino, olio, pasta",
+              "visual_direction": "Mostra gli ingredienti disposti ordinatamente su un tavolo.",
+              "caption": "Ingredienti pronti!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Rosola la pancetta per un sapore intenso!",
+              "voiceover": "Rosola la pancetta in padella e tienila da parte.",
+              "on_screen_text": "Rosola la pancetta e tieni da parte",
+              "visual_direction": "Clip della pancetta che sfrigola in padella.",
+              "caption": "Sapore irresistibile!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Unisci tutto per una cremosità perfetta!",
+              "voiceover": "Unisci pasta, porri, pecorino e un po' d'acqua di cottura.",
+              "on_screen_text": "Unisci pasta, porri e pecorino",
+              "visual_direction": "Visuale della pasta che viene mescolata con gli ingredienti.",
+              "caption": "Cremosa e deliziosa!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Guarnisci e servi!",
+              "voiceover": "Guarnisci con pancetta croccante prima di servire.",
+              "on_screen_text": "Guarnisci con pancetta croccante",
+              "visual_direction": "Inquadratura di un piatto finito, pronto per essere gustato.",
+              "caption": "Pronto da gustare!"
+            }
+          ],
+          "duration_sec": 28,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Prova questa ricetta oggi stesso!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -28823,8 +35256,8 @@ window.AGENTS = {
       "image": "https://www.giallozafferano.it/images/361-36119/Pasta-con-porri-pecorino-e-pancetta_650x433_wm.jpg",
       "savedAt": "2026-05-15T09:45:53.422Z",
       "sourceId": "395c33e805d677f4f3923535aa158fb7",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "slide_deck",
       "render_status": {
         "low": null,
         "medium": null,
@@ -28875,11 +35308,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri la pasta cremosa senza panna!",
+              "voiceover": "Oggi prepariamo una deliziosa pasta con melanzane.",
+              "on_screen_text": "Pasta cremosa senza panna!",
+              "visual_direction": "Inizio con un primo piano della pasta e delle melanzane.",
+              "caption": "Pasta cremosa e leggera!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ingredienti freschi per un piatto unico!",
+              "voiceover": "Ecco cosa ci serve: fusilloni, melanzane, Parmigiano e menta.",
+              "on_screen_text": "Ingredienti: Fusilloni, melanzane, Parmigiano, menta.",
+              "visual_direction": "Mostrare gli ingredienti disposti in modo invitante.",
+              "caption": "Ingredienti freschi!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 7,
+              "hook": "Taglia e cuoci le melanzane!",
+              "voiceover": "Taglia le melanzane a cubetti e cuocile in padella.",
+              "on_screen_text": "Taglia e cuoci le melanzane.",
+              "visual_direction": "Inquadratura delle melanzane mentre vengono tagliate e cotte.",
+              "caption": "Melanzane dorate!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 7,
+              "hook": "Frulla per una consistenza cremosa!",
+              "voiceover": "Frulla le melanzane cotte con un po' d'acqua di cottura.",
+              "on_screen_text": "Frulla le melanzane cotte.",
+              "visual_direction": "Mostrare il frullatore in azione con melanzane e acqua.",
+              "caption": "Cremosa e deliziosa!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Guarnisci e servi caldo!",
+              "voiceover": "Aggiungi menta fresca e Parmigiano, poi servi.",
+              "on_screen_text": "Guarnisci e servi caldo!",
+              "visual_direction": "Inquadratura finale del piatto servito, guarnito.",
+              "caption": "Pronto da gustare!"
+            }
+          ],
+          "duration_sec": 30,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Prova questa ricetta oggi stesso!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -28951,8 +35430,8 @@ window.AGENTS = {
       "image": "https://www.giallozafferano.it/images/361-36125/Pasta-con-melanzane-in-bianco-cremosa_650x433_wm.jpg",
       "savedAt": "2026-05-15T09:45:52.438Z",
       "sourceId": "3cc708f32ca006c9dd41a7f41144e0fa",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "slide_deck",
       "render_status": {
         "low": null,
         "medium": null,
@@ -29003,11 +35482,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri la torta dei tuoi sogni!",
+              "voiceover": "Oggi prepariamo una deliziosa torta con fragole e cioccolato bianco.",
+              "on_screen_text": "Torta con fragole e cioccolato bianco!",
+              "visual_direction": "Inquadratura ravvicinata della torta decorata.",
+              "caption": "Ricetta irresistibile!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ingredienti freschi e golosi!",
+              "voiceover": "Ecco cosa ci serve: fragole, cioccolato bianco, panna, uova e farina.",
+              "on_screen_text": "Fragole, cioccolato, panna, uova, farina",
+              "visual_direction": "Ripresa degli ingredienti disposti su un tavolo.",
+              "caption": "Preparati a deliziare il palato!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Monta gli albumi e i tuorli!",
+              "voiceover": "Inizia montando albumi e tuorli con zucchero e limone.",
+              "on_screen_text": "Monta albumi e tuorli con zucchero!",
+              "visual_direction": "Mostra la preparazione degli albumi e tuorli in una ciotola.",
+              "caption": "Tecnica fondamentale!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Cuoci e assembla la torta!",
+              "voiceover": "Cuoci la pasta biscotto, assembla con cremoso e fragole.",
+              "on_screen_text": "Cuoci e assembla con cremoso!",
+              "visual_direction": "Riprese del processo di cottura e assemblaggio.",
+              "caption": "Fase creativa!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Raffredda e guarnisci!",
+              "voiceover": "Raffredda per 4-5 ore e guarnisci con zucchero a velo.",
+              "on_screen_text": "Raffredda e guarnisci con zucchero!",
+              "visual_direction": "Mostra la torta finita con zucchero a velo.",
+              "caption": "Pronta da gustare!"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Prova anche tu questa ricetta!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -29079,8 +35604,8 @@ window.AGENTS = {
       "image": "https://www.giallozafferano.it/images/361-36144/Torta-con-fragole-e-cioccolato-bianco_650x433_wm.jpg",
       "savedAt": "2026-05-15T09:45:51.009Z",
       "sourceId": "303c3dd093e34eed4573db81cbeb792d",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "slide_deck",
       "render_status": {
         "low": null,
         "medium": null,
@@ -29131,11 +35656,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri la pasta frolla al caffè!",
+              "voiceover": "Preparati a deliziare il tuo palato con questa ricetta unica.",
+              "on_screen_text": "Pasta frolla al caffè",
+              "visual_direction": "Inquadratura ravvicinata di una torta di pasta frolla al caffè.",
+              "caption": "Un dessert irresistibile!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ingredienti semplici e gustosi!",
+              "voiceover": "Ecco cosa ti serve: farina, burro, uova, zucchero a velo e caffè solubile.",
+              "on_screen_text": "Farina, burro, uova, zucchero, caffè",
+              "visual_direction": "Mostra gli ingredienti disposti su un tavolo.",
+              "caption": "Preparati a cucinare!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 7,
+              "hook": "Inizia a mescolare!",
+              "voiceover": "Lavora il burro con lo zucchero, poi aggiungi le uova e la farina.",
+              "on_screen_text": "Mescola burro e zucchero",
+              "visual_direction": "Ripresa del processo di mescolamento in una ciotola.",
+              "caption": "Facile e veloce!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 8,
+              "hook": "Riposa e stendi!",
+              "voiceover": "Fai riposare in frigo per 30 minuti, poi stendi la pasta.",
+              "on_screen_text": "Riposa in frigo 30 min",
+              "visual_direction": "Mostra la pasta in frigo e poi il processo di stesura.",
+              "caption": "Pronta per essere modellata!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Conserva o congela!",
+              "voiceover": "Puoi conservare in frigo per 3-4 giorni o congelare.",
+              "on_screen_text": "Conserva in frigo 3-4 giorni",
+              "visual_direction": "Visualizza il risultato finale e varie opzioni di conservazione.",
+              "caption": "Gusta la tua creazione!"
+            }
+          ],
+          "duration_sec": 32,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Prova la ricetta e condividi!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -29207,8 +35778,8 @@ window.AGENTS = {
       "image": "https://www.giallozafferano.it/images/361-36149/Pasta-frolla-al-caffe_650x433_wm.jpg",
       "savedAt": "2026-05-15T09:41:53.688Z",
       "sourceId": "733d811ba5b587d48d899e3ad2f62f75",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "slide_deck",
       "render_status": {
         "low": null,
         "medium": null,
@@ -29259,11 +35830,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri la vera pasta al forno siciliana!",
+              "voiceover": "Oggi prepariamo un piatto tradizionale siciliano che ti farà leccare i baffi.",
+              "on_screen_text": "Pasta al forno siciliana!",
+              "visual_direction": "Inquadratura ravvicinata della pasta al forno fumante.",
+              "caption": "Un classico della cucina siciliana!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 7,
+              "hook": "Ingredienti freschi e deliziosi!",
+              "voiceover": "Usiamo rigatoni, melanzane, scamorza e parmigiano per un sapore unico.",
+              "on_screen_text": "Rigatoni, melanzane, scamorza, parmigiano",
+              "visual_direction": "Ripresa degli ingredienti disposti su un tavolo.",
+              "caption": "Ingredienti freschi per un piatto speciale!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Friggiamo le melanzane!",
+              "voiceover": "Taglia le melanzane a cubetti e friggile fino a doratura.",
+              "on_screen_text": "Friggi melanzane a cubetti",
+              "visual_direction": "Video della frittura delle melanzane in padella.",
+              "caption": "Passo fondamentale per il sapore!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 8,
+              "hook": "Cuoci in forno per la perfezione!",
+              "voiceover": "Mescola tutto con sugo e formaggio, poi inforna fino a doratura.",
+              "on_screen_text": "Cuoci con sugo e formaggio",
+              "visual_direction": "Ripresa della pasta infornata con formaggio che fonde.",
+              "caption": "Il profumo è irresistibile!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Lascia riposare prima di servire!",
+              "voiceover": "Attendi qualche minuto per un sapore ancora migliore.",
+              "on_screen_text": "Lasciare riposare",
+              "visual_direction": "Inquadratura della pasta al forno pronta, pronta per essere servita.",
+              "caption": "Ecco la tua pasta al forno siciliana!"
+            }
+          ],
+          "duration_sec": 30,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Prova anche tu questa delizia!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -29335,8 +35952,8 @@ window.AGENTS = {
       "image": "https://www.giallozafferano.it/images/361-36162/Pasta-al-forno-alla-siciliana_650x433_wm.jpg",
       "savedAt": "2026-05-15T09:41:33.540Z",
       "sourceId": "9e9b8ac0edbce3f019f05da05ec4af87",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "slide_deck",
       "render_status": {
         "low": null,
         "medium": null,
@@ -29387,11 +36004,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri la torta salata primaverile!",
+              "voiceover": "Questa torta salata vegana è un must per la primavera!",
+              "on_screen_text": "Torta salata vegana cremosa!",
+              "visual_direction": "Inquadratura ravvicinata della torta appena sfornata.",
+              "caption": "Una delizia primaverile!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ingredienti freschi per un piatto unico.",
+              "voiceover": "Usiamo farina di ceci, asparagi e porri freschi.",
+              "on_screen_text": "Farina di ceci, asparagi, porri!",
+              "visual_direction": "Mostrare i vari ingredienti sul tavolo.",
+              "caption": "Ingredienti freschi!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 7,
+              "hook": "Prepariamo la pastella perfetta!",
+              "voiceover": "Mescoliamo farina di ceci con acqua per la pastella.",
+              "on_screen_text": "Prepara una pastella con farina di ceci.",
+              "visual_direction": "Filmare il processo di mescolamento in una ciotola.",
+              "caption": "Facile e veloce!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 8,
+              "hook": "Cuoci a perfezione per 70 minuti.",
+              "voiceover": "Metti in forno a 190° e attendi il risultato.",
+              "on_screen_text": "Cuoci in forno a 190° per 70 minuti.",
+              "visual_direction": "Inquadrare il forno e il timer.",
+              "caption": "Aspetta il profumo!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Decora e servi con stile!",
+              "voiceover": "Aggiungi asparagi e cipolla rossa per decorare.",
+              "on_screen_text": "Decora con asparagi e cipolla rossa.",
+              "visual_direction": "Mostrare la torta decorata pronta per essere servita.",
+              "caption": "Pronta da gustare!"
+            }
+          ],
+          "duration_sec": 32,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Prova a farla e condividi!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -29463,8 +36126,8 @@ window.AGENTS = {
       "image": "https://www.giallozafferano.it/images/361-36163/Torta-salata-primaverile-vegana_650x433_wm.jpg",
       "savedAt": "2026-05-15T09:41:11.311Z",
       "sourceId": "dfce00af8648940d9124d830837c8738",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "slide_deck",
       "render_status": {
         "low": null,
         "medium": null,
@@ -29515,11 +36178,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Il risotto che farà impazzire tutti!",
+              "voiceover": "Scopri come preparare un risotto cremoso e irresistibile.",
+              "on_screen_text": "Risotto cremoso con pancetta croccante",
+              "visual_direction": "Inquadratura ravvicinata del risotto fumante in un piatto.",
+              "caption": "Un piatto da leccarsi i baffi!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Ingredienti freschi e gustosi!",
+              "voiceover": "Ecco cosa ti serve: riso Carnaroli, pisellini e pancetta.",
+              "on_screen_text": "Carnaroli, pisellini, crescenza, pancetta",
+              "visual_direction": "Panoramica degli ingredienti disposti su un tavolo.",
+              "caption": "Preparati a cucinare!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Tosta il riso per un sapore unico!",
+              "voiceover": "Inizia tostando il riso e sfumando con vino bianco.",
+              "on_screen_text": "Tosta il riso e sfuma con vino",
+              "visual_direction": "Ripresa della padella mentre il riso viene tostato.",
+              "caption": "Il segreto di un risotto perfetto!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Aggiungi la crema di piselli!",
+              "voiceover": "A metà cottura, unisci la crema di piselli freschi.",
+              "on_screen_text": "Unisci la crema di piselli",
+              "visual_direction": "Inquadratura della padella mentre si aggiunge la crema.",
+              "caption": "Cremoso e delizioso!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Guarnisci e servi!",
+              "voiceover": "Guarnisci con crescenza, piselli e pancetta croccante.",
+              "on_screen_text": "Guarnisci con crescenza e pancetta",
+              "visual_direction": "Inquadratura finale del piatto pronto da servire.",
+              "caption": "Pronto da gustare!"
+            }
+          ],
+          "duration_sec": 28,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Prova questa ricetta oggi stesso!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -29591,8 +36300,8 @@ window.AGENTS = {
       "image": "https://www.giallozafferano.it/images/360-36089/Risotto-piselli-crescenza-e-pancetta-croccante_650x433_wm.jpg",
       "savedAt": "2026-05-14T15:01:32.815Z",
       "sourceId": "28c4dca21ca942b6eee9f7c8922f4708",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "slide_deck",
       "render_status": {
         "low": null,
         "medium": null,
@@ -29643,11 +36352,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Scopri la zuppa dei tuoi sogni!",
+              "voiceover": "Preparati a gustare una zuppa incredibile di fagioli e cozze.",
+              "on_screen_text": "Zuppa cremosa di fagioli e cozze.",
+              "visual_direction": "Inquadratura ravvicinata della zuppa fumante.",
+              "caption": "Un piatto da non perdere!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Ingredienti freschi per un sapore unico!",
+              "voiceover": "Ecco cosa ti serve: cozze, fagioli cannellini, pomodori, aglio e olio.",
+              "on_screen_text": "Cozze, fagioli, pomodori, aglio, olio.",
+              "visual_direction": "Mostrare gli ingredienti disposti su un tavolo.",
+              "caption": "Pronto a cucinare?"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 7,
+              "hook": "Iniziamo con le cozze!",
+              "voiceover": "Pulisci le cozze, aprile e sgusciale con cura.",
+              "on_screen_text": "Pulisci e sguscia le cozze.",
+              "visual_direction": "Dimostrazione della pulizia delle cozze.",
+              "caption": "Fai attenzione ai dettagli!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 8,
+              "hook": "Un tocco cremoso!",
+              "voiceover": "Frulla metà dei fagioli con l'acqua delle cozze per una crema deliziosa.",
+              "on_screen_text": "Frulla fagioli con acqua di cozze.",
+              "visual_direction": "Mostrare il frullatore in azione.",
+              "caption": "Cremoso e saporito!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Il tocco finale!",
+              "voiceover": "Guarnisci con prezzemolo fresco e crostoni croccanti.",
+              "on_screen_text": "Guarnisci con prezzemolo e crostoni.",
+              "visual_direction": "Inquadratura della zuppa finita con guarnizione.",
+              "caption": "Servi e gusta!"
+            }
+          ],
+          "duration_sec": 32,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Prova questa ricetta oggi stesso!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -29719,8 +36474,8 @@ window.AGENTS = {
       "image": "https://www.giallozafferano.it/images/360-36091/Zuppa-di-fagioli-e-cozze_650x433_wm.jpg",
       "savedAt": "2026-05-14T14:56:38.447Z",
       "sourceId": "45fe1c8c9257d22f3b2dcd5030a630be",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "slide_deck",
       "render_status": {
         "low": null,
         "medium": null,
@@ -29771,11 +36526,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Scopri il segreto dei bocconcini di pollo!",
+              "voiceover": "Oggi prepariamo dei bocconcini di pollo alla mediterranea.",
+              "on_screen_text": "Bocconcini di pollo teneri e saporiti",
+              "visual_direction": "Inquadratura ravvicinata del pollo fresco, con musica allegra.",
+              "caption": "Pollo alla mediterranea, un must!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Ingredienti freschi per piatti deliziosi!",
+              "voiceover": "Ecco cosa ci serve: pollo, pomodorini, olive e capperi.",
+              "on_screen_text": "Pollo, pomodorini, olive, capperi, aglio",
+              "visual_direction": "Zoom sugli ingredienti disposti su un tavolo.",
+              "caption": "Ingredienti freschi!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 7,
+              "hook": "Rosoliamo il pollo per un sapore unico!",
+              "voiceover": "Iniziamo rosolando i bocconcini di pollo fino a dorarli.",
+              "on_screen_text": "Rosola i bocconcini di pollo dorati",
+              "visual_direction": "Ripresa della cottura in padella, fumi e colori vivaci.",
+              "caption": "Rosoliamo per il gusto!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 8,
+              "hook": "Aggiungiamo il tocco mediterraneo!",
+              "voiceover": "Ora aggiungiamo pomodorini, olive e capperi per il sapore.",
+              "on_screen_text": "Aggiungi pomodorini, olive e capperi",
+              "visual_direction": "Inquadratura dell'aggiunta degli ingredienti nella padella.",
+              "caption": "Un mix di sapori!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Servi caldo e gusta la freschezza!",
+              "voiceover": "Eliminiamo l'aglio e serviamo caldo per un piatto delizioso.",
+              "on_screen_text": "Elimina l'aglio e servi caldo",
+              "visual_direction": "Servire il piatto su un tavolo decorato.",
+              "caption": "Gusta la tua creazione!"
+            }
+          ],
+          "duration_sec": 32,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Prova questa ricetta oggi stesso!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -29847,8 +36648,8 @@ window.AGENTS = {
       "image": "https://www.giallozafferano.it/images/361-36168/Bocconcini-di-pollo-alla-mediterranea_650x433_wm.jpg",
       "savedAt": "2026-05-14T14:53:46.406Z",
       "sourceId": "77b971a7cb7a0c9a1a09085e1c1230b2",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "slide_deck",
       "render_status": {
         "low": null,
         "medium": null,
@@ -29899,11 +36700,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Scopri la pasta più cremosa mai provata!",
+              "voiceover": "Oggi prepariamo una pasta cremosa senza panna né formaggio.",
+              "on_screen_text": "Pasta cremosa senza panna!",
+              "visual_direction": "Inizio con close-up della pasta in un piatto.",
+              "caption": "Pasta irresistibile!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Ingredienti freschi per un piatto unico!",
+              "voiceover": "Usiamo linguine, fiori di zucca e alici fresche.",
+              "on_screen_text": "Linguine, fiori di zucca, alici",
+              "visual_direction": "Mostra gli ingredienti disposti su un tavolo.",
+              "caption": "Ingredienti freschi!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Ecco come pulire i fiori di zucca!",
+              "voiceover": "Iniziamo pulendo i fiori di zucca e rimuovendo il pistillo.",
+              "on_screen_text": "Pulisci i fiori di zucca",
+              "visual_direction": "Mostra il processo di pulizia dei fiori.",
+              "caption": "Facile e veloce!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Mantechiamo la pasta come un professionista!",
+              "voiceover": "Mantechiamo con acqua di cottura a fiamma vivace.",
+              "on_screen_text": "Manteca con acqua di cottura",
+              "visual_direction": "Ripresa della pasta in padella mentre si manteca.",
+              "caption": "Mantecare è un'arte!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Il tocco finale? Scorza di limone!",
+              "voiceover": "Grattugiamo la scorza di limone prima di servire.",
+              "on_screen_text": "Grattugia scorza di limone",
+              "visual_direction": "Mostra il limone grattugiato sopra la pasta.",
+              "caption": "Un tocco di freschezza!"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Prova questa ricetta e stupisci tutti!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -29975,8 +36822,8 @@ window.AGENTS = {
       "image": "https://www.giallozafferano.it/images/361-36171/Pasta-con-fiori-di-zucca-e-alici_650x433_wm.jpg",
       "savedAt": "2026-05-14T14:53:10.041Z",
       "sourceId": "5248cbef97fc64cc3aa318c78005047d",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "slide_deck",
       "render_status": {
         "low": null,
         "medium": null,
@@ -30027,11 +36874,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri la torta più semplice mai fatta!",
+              "voiceover": "Oggi prepariamo una torta cremosa con solo due ingredienti!",
+              "on_screen_text": "Torta cremosa 2 ingredienti!",
+              "visual_direction": "Inquadratura ravvicinata della torta pronta.",
+              "caption": "Un dolce facile e veloce!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ingredienti semplici, risultati straordinari!",
+              "voiceover": "Serviranno solo mele Golden e cioccolato fondente.",
+              "on_screen_text": "Mele Golden e cioccolato fondente",
+              "visual_direction": "Mostra gli ingredienti sul tavolo.",
+              "caption": "Pronto a iniziare?"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Passo 1: Cuoci le mele!",
+              "voiceover": "Sbuccia le mele e cuocile con poca acqua.",
+              "on_screen_text": "Cuoci le mele con poca acqua.",
+              "visual_direction": "Mostra le mele in pentola mentre cuociono.",
+              "caption": "Facile, vero?"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 7,
+              "hook": "Passo 2: Frulla e unisci!",
+              "voiceover": "Frulla le mele e uniscile al cioccolato fuso.",
+              "on_screen_text": "Frulla e mescola!",
+              "visual_direction": "Mostra il frullatore e il cioccolato fuso.",
+              "caption": "Un mix delizioso!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Spolvera e servi!",
+              "voiceover": "Spolvera con cacao amaro e servi la tua torta.",
+              "on_screen_text": "Spolvera con cacao amaro.",
+              "visual_direction": "Inquadratura finale della torta con cacao sopra.",
+              "caption": "Pronto per assaporare?"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Provala e condividi il tuo risultato!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -30103,8 +36996,8 @@ window.AGENTS = {
       "image": "https://www.giallozafferano.it/images/361-36174/Torta-2-ingredienti_650x433_wm.jpg",
       "savedAt": "2026-05-14T14:49:43.139Z",
       "sourceId": "4dff87d4e172b41438f75023bc536266",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "slide_deck",
       "render_status": {
         "low": null,
         "medium": null,
@@ -30155,11 +37048,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri la ricetta della pasta al forno!",
+              "voiceover": "Prepariamo insieme una deliziosa pasta al forno con salsiccia e piselli.",
+              "on_screen_text": "Pasta al forno cremosa e saporita!",
+              "visual_direction": "Inquadratura ravvicinata della pasta al forno dorata.",
+              "caption": "Un piatto che conquista tutti!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Ingredienti semplici e gustosi!",
+              "voiceover": "Ecco cosa ti serve: rigatoni, salsiccia, mozzarella, besciamella e piselli.",
+              "on_screen_text": "Rigatoni, salsiccia, mozzarella, piselli.",
+              "visual_direction": "Mostrare gli ingredienti disposti sul tavolo.",
+              "caption": "Preparati per una ricetta irresistibile!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Inizia a cucinare!",
+              "voiceover": "Rosola la salsiccia con cipolla e aggiungi i piselli.",
+              "on_screen_text": "Rosola salsiccia e cipolla.",
+              "visual_direction": "Pan sul fornello con la salsiccia che rosola.",
+              "caption": "Il profumo è irresistibile!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Assemblare il tutto!",
+              "voiceover": "Alterna strati di pasta, condimento e mozzarella, poi gratina.",
+              "on_screen_text": "Alterna pasta, salsiccia e mozzarella.",
+              "visual_direction": "Inquadrature veloci del montaggio della pasta al forno.",
+              "caption": "Ecco come si fa!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Aspetta un momento prima di servirla!",
+              "voiceover": "Lascia riposare per 10 minuti prima di servire.",
+              "on_screen_text": "Lascia riposare 10 minuti.",
+              "visual_direction": "Mostrare la pasta al forno che riposa sul tavolo.",
+              "caption": "Pronta per essere gustata!"
+            }
+          ],
+          "duration_sec": 27,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Prova a farla oggi stesso!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -30231,8 +37170,8 @@ window.AGENTS = {
       "image": "https://www.giallozafferano.it/images/361-36172/Pasta-al-forno-con-salsiccia-e-piselli_650x433_wm.jpg",
       "savedAt": "2026-05-14T14:44:46.658Z",
       "sourceId": "38a68c5a500f69b93c330ee50d00c0a4",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "slide_deck",
       "render_status": {
         "low": null,
         "medium": null,
@@ -31174,11 +38113,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Scopri il nuovo modo di allenarti!",
+              "voiceover": "Sei pronto a trasformare il tuo workout in qualcosa di divertente?",
+              "on_screen_text": "Ritrova energia e divertimento!",
+              "visual_direction": "Inquadrature dinamiche di persone che si allenano con entusiasmo.",
+              "caption": "Rivoluziona il tuo allenamento!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Brucia calorie divertendoti!",
+              "voiceover": "Con TribalFit, Blaze e Punch, ogni lezione è unica.",
+              "on_screen_text": "TribalFit, Blaze e Punch!",
+              "visual_direction": "Clip di diversi tipi di lezioni in palestra.",
+              "caption": "Allenati e divertiti!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Muovi il tuo corpo con ritmo!",
+              "voiceover": "Sperimenta allenamenti che coinvolgono tutti i muscoli.",
+              "on_screen_text": "Muovi tutto il corpo!",
+              "visual_direction": "Persone che seguono il ritmo della musica durante l'allenamento.",
+              "caption": "Ritmo e intensità!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Non fermarti a metà esercizio!",
+              "voiceover": "Spingi te stesso e supera i tuoi limiti.",
+              "on_screen_text": "Non fermarti a metà!",
+              "visual_direction": "Inquadrature di allenatori che incoraggiano i partecipanti.",
+              "caption": "Dai il massimo!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Prova una lezione gratuita oggi!",
+              "voiceover": "Scopri il tuo nuovo workout preferito senza impegno.",
+              "on_screen_text": "Lezione di prova gratuita!",
+              "visual_direction": "Persone che si iscrivono e sorridono dopo l'allenamento.",
+              "caption": "Iscriviti ora!"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Unisciti a noi per una prova gratuita!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -31244,8 +38229,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c25b81a35.jpeg",
       "savedAt": "2026-05-16T09:36:05.583Z",
       "sourceId": "55d07d9645f26fecbd0699636c80e5ed",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -31295,11 +38280,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Scopri il segreto dei grandi atleti!",
+              "voiceover": "La costanza vince sempre sul talento, scopri perché.",
+              "on_screen_text": "La costanza vince il talento.",
+              "visual_direction": "Inizio con un atleta che si allena intensamente.",
+              "caption": "Il potere della costanza nel fitness."
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Ripetizione: la chiave del successo!",
+              "voiceover": "La ripetizione costruisce campioni, non dimenticarlo mai.",
+              "on_screen_text": "La ripetizione costruisce campioni.",
+              "visual_direction": "Close-up su un atleta che esegue ripetizioni.",
+              "caption": "Esercita la tua perseveranza!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Contrai il muscolo per risultati migliori!",
+              "voiceover": "Contrai il muscolo target lentamente per massimizzare i risultati.",
+              "on_screen_text": "Contrai il muscolo target lentamente.",
+              "visual_direction": "Dimostrazione di un esercizio con contrazione lenta.",
+              "caption": "Focalizzati sulla qualità del movimento."
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Non trascurare la tecnica!",
+              "voiceover": "Non trascinare il peso con slancio, fallo con controllo.",
+              "on_screen_text": "Non trascinare il peso con slancio.",
+              "visual_direction": "Atleta che esegue un esercizio con tecnica corretta.",
+              "caption": "La tecnica è fondamentale!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Sfida te stesso oggi!",
+              "voiceover": "Oggi fai 3 serie extra, migliora ogni giorno.",
+              "on_screen_text": "Oggi fai 3 serie extra.",
+              "visual_direction": "Atleta che conclude l'allenamento con un sorriso.",
+              "caption": "Supera i tuoi limiti!"
+            }
+          ],
+          "duration_sec": 27,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia il tuo percorso di fitness ora!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -31365,8 +38396,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059476d2a65.jpeg",
       "savedAt": "2026-05-16T09:35:44.855Z",
       "sourceId": "0f9199c51d41410bf1871d0392903004",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -31416,11 +38447,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Scopri l'allenamento di Rihanna!",
+              "voiceover": "Vuoi sapere come Rihanna si mantiene in forma?",
+              "on_screen_text": "Disciplina da star: risultati che motivano.",
+              "visual_direction": "Clip di Rihanna che si allena con energia.",
+              "caption": "Rihanna workout inspo!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Cardio e forza: una combinazione vincente!",
+              "voiceover": "Rihanna unisce cardio intenso e esercizi di forza.",
+              "on_screen_text": "Unisce cardio intenso e forza funzionale.",
+              "visual_direction": "Sequenza di esercizi di cardio e sollevamento pesi.",
+              "caption": "Scopri il suo segreto!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Ecco il suo schema di allenamento!",
+              "voiceover": "Alterna sprint e sollevamenti in stile militare.",
+              "on_screen_text": "Alterna sprint e sollevamenti militari.",
+              "visual_direction": "Mostrare Rihanna che esegue sprint e sollevamenti.",
+              "caption": "Allenamento impegnativo!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Non dimenticare il riscaldamento!",
+              "voiceover": "Il riscaldamento è fondamentale per evitare lesioni.",
+              "on_screen_text": "Non saltare il riscaldamento: lesioni sicure.",
+              "visual_direction": "Clip di Rihanna che fa stretching e riscaldamento.",
+              "caption": "Preparati prima di iniziare!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Prova oggi il suo allenamento!",
+              "voiceover": "Fai 20 minuti di interval training come Rihanna.",
+              "on_screen_text": "Oggi: 20 minuti di interval training.",
+              "visual_direction": "Rihanna che incoraggia a provare l'allenamento.",
+              "caption": "Inizia ora!"
+            }
+          ],
+          "duration_sec": 30,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia il tuo allenamento oggi!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -31486,8 +38563,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059452f1bc2.jpeg",
       "savedAt": "2026-05-16T09:35:27.834Z",
       "sourceId": "9d913f10b75a8739d8984c33c50ddf61",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -31537,11 +38614,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Allenati come Mourinho per il tuo compleanno!",
+              "voiceover": "Scopri come allenarti con la disciplina dello Special One.",
+              "on_screen_text": "Allenati come uno Special One!",
+              "visual_direction": "Inquadratura dinamica di un allenamento intenso.",
+              "caption": "Workout ispirato a Mourinho"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Forza e resistenza: il segreto del successo.",
+              "voiceover": "Il workout di Mourinho combina forza e resistenza.",
+              "on_screen_text": "Forza e resistenza: il segreto!",
+              "visual_direction": "Clip di esercizi di forza e resistenza.",
+              "caption": "Esercizi per tutti i livelli"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Tecnica corretta per massimi risultati.",
+              "voiceover": "Piega le ginocchia, schiena dritta, spalle indietro.",
+              "on_screen_text": "Schiena dritta, spalle indietro!",
+              "visual_direction": "Dimostrazione della corretta postura durante gli esercizi.",
+              "caption": "Postura è tutto!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Attenzione: evita gli errori comuni.",
+              "voiceover": "Non curvare la schiena: perdi potenza e rischi infortuni.",
+              "on_screen_text": "Non curvare la schiena!",
+              "visual_direction": "Comparazione tra postura corretta e scorretta.",
+              "caption": "Evitare lesioni è fondamentale"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Pronto per la sfida? Fai 3 serie!",
+              "voiceover": "Oggi fai 3 serie da 12 squat a corpo libero.",
+              "on_screen_text": "3 serie da 12 squat!",
+              "visual_direction": "Inquadratura di qualcuno che esegue squat correttamente.",
+              "caption": "Inizia il tuo workout!"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia il tuo allenamento ora!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -31607,8 +38730,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/04/23/6263b2a89f615.jpeg",
       "savedAt": "2026-05-16T06:29:36.977Z",
       "sourceId": "2dbb17395d70a01aaea60cd914551ef8",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -31658,11 +38781,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Balo è tornato, preparati a scoprire!",
+              "voiceover": "Scopri come Balo è tornato più forte che mai.",
+              "on_screen_text": "Balo è tornato!",
+              "visual_direction": "Inizio con un montaggio di clip di Balo in azione.",
+              "caption": "Scopri la sua storia"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Forza e disciplina: il suo segreto!",
+              "voiceover": "La costanza è ciò che distingue i campioni.",
+              "on_screen_text": "Costanza > Talento",
+              "visual_direction": "Mostrare Balo mentre si allena intensamente.",
+              "caption": "La chiave del successo"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Piedi saldi, core attivo!",
+              "voiceover": "Un buon allenamento inizia con una solida base.",
+              "on_screen_text": "Piedi saldi, core attivo",
+              "visual_direction": "Focus sui piedi e sul core durante un esercizio.",
+              "caption": "Fondamenta solide"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Mai saltare il riscaldamento!",
+              "voiceover": "Il riscaldamento è fondamentale per ogni atleta.",
+              "on_screen_text": "Riscaldamento: essenziale!",
+              "visual_direction": "Clip di Balo che esegue esercizi di riscaldamento.",
+              "caption": "Preparati bene"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "10 minuti di tabata: pronto ad allenarti?",
+              "voiceover": "Unisciti a Balo per una sessione di tabata ad alta intensità.",
+              "on_screen_text": "10 minuti di tabata!",
+              "visual_direction": "Mostrare un breve tutorial di una routine di tabata.",
+              "caption": "Inizia ora!"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Segui per altri consigli fitness!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -31728,8 +38897,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205935f4d67e.jpeg",
       "savedAt": "2026-05-16T06:29:14.268Z",
       "sourceId": "7e42efc28a372ca524f5c87c05d76a4b",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -31779,11 +38948,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Diventa re della tua forma fisica!",
+              "voiceover": "Scopri come allenarti come un campione della SBK.",
+              "on_screen_text": "Diventa re della tua forma fisica.",
+              "visual_direction": "Inizio con un primo piano di un atleta in azione.",
+              "caption": "Inizia il tuo viaggio fitness ora!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 7,
+              "hook": "Potenzia ogni muscolo come Toprak!",
+              "voiceover": "L'equilibrio dinamico è fondamentale per la tua forza.",
+              "on_screen_text": "L'equilibrio dinamico come Toprak.",
+              "visual_direction": "Mostra un esercizio di equilibrio su una palla.",
+              "caption": "Sviluppa forza e stabilità!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Contrai il core per risultati migliori!",
+              "voiceover": "Utilizza una superficie instabile per attivare il core.",
+              "on_screen_text": "Contrai il core su una superficie instabile.",
+              "visual_direction": "Esercizi su una tavola instabile.",
+              "caption": "Rafforza il tuo centro!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Respira correttamente durante lo sforzo!",
+              "voiceover": "Non bloccare il respiro, è essenziale per l'allenamento.",
+              "on_screen_text": "Non bloccare il respiro durante lo sforzo.",
+              "visual_direction": "Primo piano di un atleta che respira correttamente.",
+              "caption": "Mantieni un respiro fluido!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Prova queste serie oggi stesso!",
+              "voiceover": "Inizia con 3 serie da 30 secondi per un grande impatto.",
+              "on_screen_text": "Prova 3 serie da 30 secondi oggi.",
+              "visual_direction": "Mostra un cronometro con l'atleta che esegue gli esercizi.",
+              "caption": "Agisci ora e migliora!"
+            }
+          ],
+          "duration_sec": 31,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia il tuo allenamento oggi stesso!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -31849,8 +39064,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205bec456c60.jpeg",
       "savedAt": "2026-05-16T06:28:50.047Z",
       "sourceId": "bd6a875992b1713317f0d52cab042731",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -31900,11 +39115,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Rialzati più forte dopo ogni caduta!",
+              "voiceover": "La vita è fatta di cadute, ma ogni caduta è un'opportunità per rialzarsi.",
+              "on_screen_text": "Cadere per rialzarsi più forte.",
+              "visual_direction": "Inizio con un close-up di Valentino Rossi che si allena, poi transizione a clip di lui che cade in gara.",
+              "caption": "La resilienza è la chiave del successo."
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Usa la rabbia come carburante!",
+              "voiceover": "La rabbia può essere una potente motivazione per il cambiamento. Trasformala in forza.",
+              "on_screen_text": "La rabbia è benzina per il cambiamento.",
+              "visual_direction": "Clip di Rossi che si allena intensamente, alternando a immagini di momenti difficili.",
+              "caption": "Trasforma le emozioni in energia."
+            },
+            {
+              "scene": 3,
+              "duration_sec": 7,
+              "hook": "Scopri il potere della forza esplosiva!",
+              "voiceover": "Inizia il tuo allenamento con squat jump. Aggiungi peso leggero per migliorare.",
+              "on_screen_text": "Forza esplosiva: squat jump con peso leggero.",
+              "visual_direction": "Dimostrazione di squat jump con un trainer esperto, focus sulla tecnica.",
+              "caption": "Costruisci la tua forza esplosiva."
+            },
+            {
+              "scene": 4,
+              "duration_sec": 8,
+              "hook": "Allena la mente, non solo il corpo!",
+              "voiceover": "Allenarsi stanchi è diverso da farlo per frustrazione. Sfrutta le emozioni.",
+              "on_screen_text": "Allenarsi stanco da frustrazione.",
+              "visual_direction": "Clip di una sessione di allenamento intensa, concentrando sul viso di chi si allena.",
+              "caption": "Frustrazione porta a risultati."
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Pronto per la sfida finale?",
+              "voiceover": "Oggi, sfida te stesso con 5 serie da 8 squat jump. Iniziamo!",
+              "on_screen_text": "Oggi: 5 serie da 8 squat jump.",
+              "visual_direction": "Inquadratura su un cronometro che parte, con un gruppo che inizia a fare squat jump.",
+              "caption": "Accetta la sfida!"
+            }
+          ],
+          "duration_sec": 31,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia il tuo allenamento oggi stesso!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -31970,8 +39231,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c0f4ede25.jpeg",
       "savedAt": "2026-05-16T02:20:35.620Z",
       "sourceId": "077647591f2847617d57be61ecfea4d3",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -32021,11 +39282,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Il segreto della forza esplosiva!",
+              "voiceover": "Scopri come Adama Traorè conquista il campo.",
+              "on_screen_text": "Il segreto della forza esplosiva!",
+              "visual_direction": "Inizio con immagini di Adama in azione.",
+              "caption": "Adama Traorè: potenza e resistenza!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "La forza funzionale vince ogni sfida.",
+              "voiceover": "La forza funzionale è la chiave per il successo.",
+              "on_screen_text": "La forza funzionale vince ogni sfida.",
+              "visual_direction": "Clip di allenamenti intensi e dinamici.",
+              "caption": "Scopri i suoi segreti!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 7,
+              "hook": "Spinta esplosiva con bilanciere!",
+              "voiceover": "Ecco come Adama allena la sua potenza.",
+              "on_screen_text": "Spinta esplosiva con bilanciere.",
+              "visual_direction": "Dimostrazione dell'esercizio con bilanciere.",
+              "caption": "Potenza in azione!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Non fermarti a metà del movimento!",
+              "voiceover": "Completa sempre il movimento per risultati migliori.",
+              "on_screen_text": "Non fermarti a metà movimento.",
+              "visual_direction": "Clip che mostra l'importanza della forma corretta.",
+              "caption": "Fai la differenza!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Oggi, 3 serie da 8 ripetizioni!",
+              "voiceover": "Inizia il tuo allenamento come Adama!",
+              "on_screen_text": "Fai 3 serie da 8 ripetizioni.",
+              "visual_direction": "Call to action con un timer per l'allenamento.",
+              "caption": "Metti alla prova la tua forza!"
+            }
+          ],
+          "duration_sec": 30,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia il tuo allenamento oggi!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -32091,8 +39398,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/620594a9bfde6.jpeg",
       "savedAt": "2026-05-16T02:20:17.327Z",
       "sourceId": "5702134ee15853a7838e7a6ae1a91836",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -32142,11 +39449,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Vuoi dormire come un sasso?",
+              "voiceover": "Scopri come lo stretching può migliorare il tuo sonno.",
+              "on_screen_text": "Dormire come un sasso!",
+              "visual_direction": "Inquadratura di una persona che si stiracchia nel letto.",
+              "caption": "Inizia a migliorare il tuo sonno!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Rilassa i muscoli per un sonno profondo.",
+              "voiceover": "Ecco perché lo stretching è fondamentale prima di dormire.",
+              "on_screen_text": "Rilassa i tuoi muscoli!",
+              "visual_direction": "Mostra una persona che fa stretching con movimenti dolci.",
+              "caption": "Rilassati e prepara il tuo corpo!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 7,
+              "hook": "Allunga lentamente la colonna vertebrale.",
+              "voiceover": "Prova questo esercizio semplice per allungare la schiena.",
+              "on_screen_text": "Allunga la colonna vertebrale.",
+              "visual_direction": "Dimostrazione dell'esercizio a terra.",
+              "caption": "Sentiti meglio in pochi minuti!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Non forzare il respiro!",
+              "voiceover": "Ricorda di respirare lentamente mentre ti allunghi.",
+              "on_screen_text": "Respira e rilassati.",
+              "visual_direction": "Zoom su una persona che respira profondamente.",
+              "caption": "Ritrova la calma interiore!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Fai 5 minuti prima di dormire!",
+              "voiceover": "Dedica solo 5 minuti alla tua routine di stretching.",
+              "on_screen_text": "Prova stasera!",
+              "visual_direction": "Inquadratura finale di una persona che si prepara a dormire.",
+              "caption": "Fai il primo passo ora!"
+            }
+          ],
+          "duration_sec": 30,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia a stretching stasera!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -32212,8 +39565,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c094cf0f3.jpeg",
       "savedAt": "2026-05-16T02:19:59.851Z",
       "sourceId": "dfe23f4be54d4aab7248689bafa2d0b0",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -32263,11 +39616,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Jeff Bezos mostra i muscoli!",
+              "voiceover": "Scopri come l'uomo più ricco si allena.",
+              "on_screen_text": "Bezos lo fa, tu puoi.",
+              "visual_direction": "Inquadratura di Bezos che si allena intensamente.",
+              "caption": "Inizia il tuo percorso verso la forza!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "La forza inizia con un corpo sano!",
+              "voiceover": "Il successo parte da una buona forma fisica.",
+              "on_screen_text": "Successo parte dal corpo sano.",
+              "visual_direction": "Immagini di Bezos che corre e si allena.",
+              "caption": "Sii il tuo migliore alleato!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Solleva pesi correttamente!",
+              "voiceover": "Ricorda di mantenere la schiena dritta.",
+              "on_screen_text": "Solleva pesi con schiena dritta.",
+              "visual_direction": "Dimostrazione di una corretta postura durante il sollevamento.",
+              "caption": "La tecnica è tutto!"
+            },
+            {
+              "scene": 7,
+              "duration_sec": 6,
+              "hook": "Niente slancio nei tuoi sollevamenti!",
+              "voiceover": "Controlla ogni movimento per risultati migliori.",
+              "on_screen_text": "Non usare slancio per sollevare.",
+              "visual_direction": "Close-up su un sollevamento controllato.",
+              "caption": "Sii preciso e costante!"
+            },
+            {
+              "scene": 7,
+              "duration_sec": 5,
+              "hook": "Allenati solo 20 minuti al giorno!",
+              "voiceover": "Dedica ogni giorno 20 minuti ai pesi.",
+              "on_screen_text": "Oggi 20 minuti di pesi.",
+              "visual_direction": "Timer che conta giù mentre si sollevano pesi.",
+              "caption": "Inizia oggi il tuo allenamento!"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia il tuo allenamento adesso!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -32333,8 +39732,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c806ac0e9.png",
       "savedAt": "2026-05-15T22:58:25.062Z",
       "sourceId": "202eb40b574be22b4917bc21399f9e99",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -32384,11 +39783,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Soffri di dolore al ginocchio durante il crossfit?",
+              "voiceover": "Scopri come affrontare la tendinopatia rotulea con efficacia.",
+              "on_screen_text": "Salta senza dolore: riparti più forte.",
+              "visual_direction": "Inquadratura di un atleta che salta, con focus sul ginocchio.",
+              "caption": "Il tuo ginocchio merita attenzione!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Identifica i sintomi della tendinopatia!",
+              "voiceover": "Il ginocchio del crossfitter merita attenzione e cura.",
+              "on_screen_text": "Il ginocchio del crossfitter merita attenzione.",
+              "visual_direction": "Grafica animata che mostra i sintomi sul ginocchio.",
+              "caption": "Ascolta il tuo corpo!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 7,
+              "hook": "Stabilizza la tua rotula con questo esercizio!",
+              "voiceover": "Prova lo squat isometrico per rinforzare il ginocchio.",
+              "on_screen_text": "Stabilizza la rotula con squat isometrico.",
+              "visual_direction": "Dimostrazione di squat isometrico, con focus su postura corretta.",
+              "caption": "Mantieni la stabilità!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Non ignorare il dolore durante gli atterraggi!",
+              "voiceover": "Fai attenzione a come atterri durante gli esercizi.",
+              "on_screen_text": "Non ignorare il dolore durante gli atterraggi.",
+              "visual_direction": "Clip di un atleta che atterra, evidenziando la tecnica corretta.",
+              "caption": "Atterra in sicurezza!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Ecco un esercizio per te!",
+              "voiceover": "Oggi proviamo 3x30 secondi di wall sit.",
+              "on_screen_text": "Oggi: 3x30 sec di wall sit.",
+              "visual_direction": "Mostra un atleta mentre esegue il wall sit, cronometro in vista.",
+              "caption": "Rinforza il tuo ginocchio!"
+            }
+          ],
+          "duration_sec": 30,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Scopri di più e allenati in sicurezza!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -32454,8 +39899,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2020/09/18/61f63990c51f7.jpeg",
       "savedAt": "2026-05-15T22:58:09.428Z",
       "sourceId": "fbea61a1d85ec36e6f1093d615aa310c",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -32505,11 +39950,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Il tuo cane aspetta l'avventura!",
+              "voiceover": "Scopri come allenarti insieme al tuo amico a quattro zampe.",
+              "on_screen_text": "Muoviti insieme al tuo cane!",
+              "visual_direction": "Inquadratura su un cane che salta e gioca nel parco.",
+              "caption": "#FitnessConCane"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Raddoppia motivazione e divertimento!",
+              "voiceover": "Il gioco rende l'allenamento più stimolante e divertente.",
+              "on_screen_text": "Gioco + Fitness = Divertimento!",
+              "visual_direction": "Clip di un cane e un proprietario che giocano a frisbee.",
+              "caption": "#DivertimentoAttivo"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Tieni il guinzaglio lento!",
+              "voiceover": "Ricorda, mai tirare indietro il tuo amico a quattro zampe.",
+              "on_screen_text": "Guinzaglio lento, relax!",
+              "visual_direction": "Mostrare un cane che cammina serenamente con un guinzaglio lungo.",
+              "caption": "#CaneFelice"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Lascialo correre davanti!",
+              "voiceover": "Lascia che il tuo cane esplori e si diverta durante la corsa.",
+              "on_screen_text": "Non tirare il cane!",
+              "visual_direction": "Inquadrature di un cane che corre liberamente in un campo.",
+              "caption": "#LibertàDiCorsa"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Porta il tuo cane a correre oggi!",
+              "voiceover": "Dedica solo 10 minuti alla corsa insieme.",
+              "on_screen_text": "Corsa di 10 minuti, che aspetti?",
+              "visual_direction": "Mostrare un proprietario che prepara il guinzaglio per la corsa.",
+              "caption": "#CorsaConIlCane"
+            }
+          ],
+          "duration_sec": 28,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia oggi il tuo allenamento insieme!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -32575,8 +40066,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cc1cd34ff.jpeg",
       "savedAt": "2026-05-15T22:57:52.321Z",
       "sourceId": "91bf720d5e86c1d2601784c1d0504006",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -32626,11 +40117,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "La palestra non è l'unica soluzione!",
+              "voiceover": "Hai mai pensato che puoi allenarti anche senza attrezzi?",
+              "on_screen_text": "Più energia senza palestra? Non esiste.",
+              "visual_direction": "Immagini di Mahmood e Blanco che si allenano divertendosi.",
+              "caption": "Scopri come puoi muoverti ogni giorno!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Il corpo chiede movimento quotidiano!",
+              "voiceover": "Essere attivi è fondamentale per il nostro benessere.",
+              "on_screen_text": "Il corpo chiede movimento ogni giorno.",
+              "visual_direction": "Clip di persone che si muovono in vari ambienti.",
+              "caption": "Ascolta il tuo corpo!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Prova questo esercizio chiave!",
+              "voiceover": "Lo squat a corpo libero è semplice e efficace.",
+              "on_screen_text": "Esercizio chiave: squat a corpo libero.",
+              "visual_direction": "Dimostrazione di squat da diverse angolazioni.",
+              "caption": "Esercita con noi!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Attenzione alla postura!",
+              "voiceover": "Ricorda, non piegare le ginocchia in avanti durante lo squat.",
+              "on_screen_text": "Non piegare le ginocchia in avanti.",
+              "visual_direction": "Infografica che mostra la postura corretta.",
+              "caption": "Postura corretta = Risultati migliori!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Pronto a sfidarti?",
+              "voiceover": "Oggi fai 3 serie da 15 squat. Inizia ora!",
+              "on_screen_text": "Oggi fai 3 serie da 15 squat.",
+              "visual_direction": "Countdown mentre qualcuno completa gli squat.",
+              "caption": "Inizia il tuo allenamento ora!"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Metti in pratica questi esercizi oggi!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -32696,8 +40233,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cb5c04a79.jpeg",
       "savedAt": "2026-05-15T21:09:02.551Z",
       "sourceId": "c04ceed3bbafed2dd5be7e896417a19d",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -32747,11 +40284,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Scopri il segreto di Victoria!",
+              "voiceover": "Vuoi allenarti come Victoria dei Maneskin? Ecco come!",
+              "on_screen_text": "Allenati come Victoria",
+              "visual_direction": "Inizio con un primo piano di Victoria mentre si allena.",
+              "caption": "Segui il suo stile!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 7,
+              "hook": "Skate e palestra? Sì, grazie!",
+              "voiceover": "Unisci equilibrio e forza con skate e palestra.",
+              "on_screen_text": "Skate e palestra uniscono forza",
+              "visual_direction": "Clip di Victoria che fa skate e transizione in palestra.",
+              "caption": "Equilibrio perfetto!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Posizione perfetta per gli squat!",
+              "voiceover": "Ricorda: pancia in dentro e spalle indietro.",
+              "on_screen_text": "Pancia in dentro, spalle indietro",
+              "visual_direction": "Dimostrazione corretta della postura negli squat.",
+              "caption": "Fai attenzione alla postura!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 7,
+              "hook": "Evita questo errore comune!",
+              "voiceover": "Non curvare mai la schiena mentre squat.",
+              "on_screen_text": "Non curvare la schiena nello squat",
+              "visual_direction": "Clip che mostra l'errore e la correzione.",
+              "caption": "Rimani dritto!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Pronto per la sfida?",
+              "voiceover": "Fai 3 serie da 10 squat oggi stesso!",
+              "on_screen_text": "Fai 3 serie da 10 squat",
+              "visual_direction": "Inquadratura finale di Victoria che incoraggia gli spettatori.",
+              "caption": "Inizia ora!"
+            }
+          ],
+          "duration_sec": 31,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Segui per più consigli fitness!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -32817,8 +40400,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059507312a3.jpeg",
       "savedAt": "2026-05-15T21:08:46.657Z",
       "sourceId": "d0f326a25149d76953267cba59a96cd4",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -32868,11 +40451,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Scopri il segreto della bellezza senza tempo!",
+              "voiceover": "Ornella Muti ci mostra come la costanza paga.",
+              "on_screen_text": "La costanza paga: il tuo corpo ti ringrazierà.",
+              "visual_direction": "Inizio con immagini di Ornella Muti in momenti di bellezza.",
+              "caption": "Bellezza e costanza!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Yoga e dieta: la combinazione vincente!",
+              "voiceover": "Una dieta equilibrata e yoga mantengono giovane e tonica.",
+              "on_screen_text": "Yoga e dieta mantengono giovane e tonica.",
+              "visual_direction": "Clip di pratiche di yoga e preparazioni di pasti salutari.",
+              "caption": "Equilibrio perfetto!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Inizia ogni giorno con una routine!",
+              "voiceover": "Respira profondamente e allunga i muscoli ogni mattina.",
+              "on_screen_text": "Respira e allunga i muscoli ogni mattina.",
+              "visual_direction": "Dimostrazione di esercizi di stretching mattutini.",
+              "caption": "Ritmo mattutino!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Non abbandonare la tua routine!",
+              "voiceover": "Non saltare la routine se cerchi risultati concreti.",
+              "on_screen_text": "Non saltare la routine se cerchi risultati.",
+              "visual_direction": "Persone che seguono la loro routine di allenamento.",
+              "caption": "Impegno costante!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Fai oggi un passo verso il benessere!",
+              "voiceover": "Dedica solo 10 minuti allo stretching attivo oggi stesso.",
+              "on_screen_text": "Oggi fai 10 minuti di stretching attivo.",
+              "visual_direction": "Immagini di stretching attivo e sorrisi.",
+              "caption": "Inizia ora!"
+            }
+          ],
+          "duration_sec": 28,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia la tua routine di bellezza oggi!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -32938,8 +40567,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205950a715d2.jpeg",
       "savedAt": "2026-05-15T21:08:31.698Z",
       "sourceId": "b46661fb21d300e6ee1db250d9c302da",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -32989,11 +40618,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Il futuro del fitness è qui!",
+              "voiceover": "Preparati a scoprire come la realtà virtuale cambia il fitness.",
+              "on_screen_text": "Il futuro del fitness è ora.",
+              "visual_direction": "Inizio con un'animazione accattivante di un casco VR che si accende.",
+              "caption": "Scopri la nuova era del fitness."
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Immergiti completamente nell'allenamento.",
+              "voiceover": "Con la realtà virtuale, ogni sessione è coinvolgente e senza distrazioni.",
+              "on_screen_text": "Realtà virtuale: zero distrazioni.",
+              "visual_direction": "Mostrare una persona che si allena con il visore VR, concentrata.",
+              "caption": "La concentrazione è fondamentale."
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Movimenti immersivi grazie ai trackers.",
+              "voiceover": "I trackers ti permettono di eseguire movimenti reali nel mondo virtuale.",
+              "on_screen_text": "Casco VR e trackers: allenati immersivamente.",
+              "visual_direction": "Inquadrature ravvicinate dei movimenti del corpo durante l'allenamento.",
+              "caption": "Sperimenta la realtà aumentata."
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Nessuna interruzione per regolare il visore.",
+              "voiceover": "Allenati senza interruzioni, il tuo focus rimane sul workout.",
+              "on_screen_text": "Non fermarti per regolare il visore.",
+              "visual_direction": "Mostrare una transizione fluida tra diversi esercizi senza pause.",
+              "caption": "Massimizza i tuoi risultati."
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Prova una sessione VR oggi!",
+              "voiceover": "Non aspettare, scopri subito il fitness in VR.",
+              "on_screen_text": "Oggi prova una sessione fitness in VR.",
+              "visual_direction": "Chiusura con un invito a provare la VR in una palestra.",
+              "caption": "Inizia ora la tua avventura."
+            }
+          ],
+          "duration_sec": 27,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Scopri il fitness del futuro!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -33059,8 +40734,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cb1c87185.jpeg",
       "savedAt": "2026-05-15T19:32:27.314Z",
       "sourceId": "39f7280c771cdf91b7c344058ba0fbe2",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -33110,11 +40785,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Scopri il segreto di Giovanni Truppi!",
+              "voiceover": "Giovanni Truppi svela come energia e movimento vanno insieme.",
+              "on_screen_text": "Energia e movimento: la chiave!",
+              "visual_direction": "Inizio con Giovanni che balla energico.",
+              "caption": "Scopri il suo segreto!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Idratazione è fondamentale!",
+              "voiceover": "Bere acqua è essenziale per il tuo benessere.",
+              "on_screen_text": "Idratati per sentirti meglio.",
+              "visual_direction": "Close-up di una bottiglia d'acqua.",
+              "caption": "Bevi di più!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Pilates: il segreto del suo successo.",
+              "voiceover": "Il pilates unisce forza, respiro e flessibilità.",
+              "on_screen_text": "Pilates: forza e respiro insieme.",
+              "visual_direction": "Giovanni mentre pratica pilates.",
+              "caption": "Provalo anche tu!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Contrai il core, allunga la colonna!",
+              "voiceover": "Ricorda di contrarre il core durante gli esercizi.",
+              "on_screen_text": "Contrai il core, allunga!",
+              "visual_direction": "Dimostrazione di un esercizio di pilates.",
+              "caption": "Focalizzati sul core!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Bevi 2 litri d'acqua oggi!",
+              "voiceover": "Muoviti e idratati per sentirti al top.",
+              "on_screen_text": "Bevi e muoviti ogni giorno!",
+              "visual_direction": "Giovanni conclude con un sorriso e un sorso d'acqua.",
+              "caption": "Fai il primo passo!"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia oggi il tuo percorso fitness!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -33180,8 +40901,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cf212532a.jpeg",
       "savedAt": "2026-05-15T19:32:10.474Z",
       "sourceId": "c416c41e2e088c5fa38ccb16285d5ada",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -33231,11 +40952,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Rivali, amici e... fitness!",
+              "voiceover": "Morandi e Ranieri dimostrano che amicizia e competizione vanno di pari passo.",
+              "on_screen_text": "Amicizia e competizione!",
+              "visual_direction": "Immagini di Morandi e Ranieri che ridono e si allenano insieme.",
+              "caption": "Rivali nel fitness, amici nella vita!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Correre insieme è la chiave!",
+              "voiceover": "Correre con un amico aumenta il tuo impegno e la costanza.",
+              "on_screen_text": "Correre insieme aumenta l'impegno.",
+              "visual_direction": "Clip di Morandi e Ranieri che corrono fianco a fianco.",
+              "caption": "Il potere della compagnia!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Alterna corsa lenta e scatti!",
+              "voiceover": "Alternare corsa lenta e scatti brevi ottimizza le performance.",
+              "on_screen_text": "Corsa lenta + scatti brevi!",
+              "visual_direction": "Animazione che mostra il ritmo alternato di corsa.",
+              "caption": "Mix di intensità!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Non isolarti mai mentre ti alleni.",
+              "voiceover": "Allenarsi da soli può essere stancante e poco motivante.",
+              "on_screen_text": "Allenarsi insieme è più divertente!",
+              "visual_direction": "Immagini di persone che si allenano in gruppo.",
+              "caption": "Allena con un amico!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Chiama un amico per correre!",
+              "voiceover": "Oggi è il giorno giusto per correre con un amico.",
+              "on_screen_text": "Chiama un amico oggi!",
+              "visual_direction": "Clip di qualcuno che invia un messaggio a un amico.",
+              "caption": "Invita un amico a correre!"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia a correre con un amico ora!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -33301,8 +41068,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cf01cc5ab.jpeg",
       "savedAt": "2026-05-15T19:31:53.236Z",
       "sourceId": "cfe0ded917bb22740369243025d0d8af",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -33352,11 +41119,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Scopri il segreto di Sabrina Ferilli!",
+              "voiceover": "Sabrina Ferilli ci svela il suo segreto di benessere.",
+              "on_screen_text": "Il segreto è l'equilibrio!",
+              "visual_direction": "Inquadratura di Sabrina che sorride in palestra.",
+              "caption": "Equilibrio è la chiave!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "L'amore per sé prima di tutto!",
+              "voiceover": "Amare se stessi è fondamentale prima di ogni cosa.",
+              "on_screen_text": "Amati prima del peso!",
+              "visual_direction": "Clip di Sabrina che si guarda allo specchio.",
+              "caption": "Amore per sé!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Cammina ogni giorno con gioia!",
+              "voiceover": "La gioia di muoversi è fondamentale per Sabrina.",
+              "on_screen_text": "Camminare è il primo passo.",
+              "visual_direction": "Riprese di Sabrina che passeggia in un parco.",
+              "caption": "Camminare è libertà!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Mai saltare i pasti!",
+              "voiceover": "Sabrina non crede nei sacrifici alimentari.",
+              "on_screen_text": "Non saltare i pasti!",
+              "visual_direction": "Sabrina prepara un pasto sano in cucina.",
+              "caption": "Nutrimento è energia!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Muoviti oggi per la tua gioia!",
+              "voiceover": "Muoversi è un regalo che fai a te stesso.",
+              "on_screen_text": "Muoviti per la tua gioia!",
+              "visual_direction": "Sabrina che fa yoga al tramonto.",
+              "caption": "Muoviti e sorridi!"
+            }
+          ],
+          "duration_sec": 27,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia il tuo viaggio verso il benessere!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -33422,8 +41235,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205953b8e21d.jpeg",
       "savedAt": "2026-05-15T17:39:22.658Z",
       "sourceId": "bc85d1e797fe5bcdf5e0fb79e58de603",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -33473,11 +41286,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri cosa succede al tuo corpo!",
+              "voiceover": "Non fare stretching può avere effetti sorprendenti sul tuo corpo.",
+              "on_screen_text": "Cosa succede al tuo corpo?",
+              "visual_direction": "Inquadra un atleta che si allena intensamente.",
+              "caption": "L'importanza dello stretching!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Lo stretching ti ringiovanisce ogni giorno.",
+              "voiceover": "Fare stretching regolarmente mantiene i muscoli giovani e attivi.",
+              "on_screen_text": "Ringiovanisci i tuoi muscoli!",
+              "visual_direction": "Mostra una sequenza di stretching con focus sui muscoli.",
+              "caption": "Ringiovanisci ogni giorno!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Previeni infortuni e migliora la flessibilità.",
+              "voiceover": "Lo stretching riduce il rischio di infortuni e aumenta la flessibilità.",
+              "on_screen_text": "Prevenzione e flessibilità!",
+              "visual_direction": "Mostra un atleta che si ferma per fare stretching prima di un allenamento.",
+              "caption": "Stretching = sicurezza!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 8,
+              "hook": "Non rimbalzare durante l'allungamento!",
+              "voiceover": "Ricorda, non rimbalzare, allunga lentamente per risultati migliori.",
+              "on_screen_text": "Allunga, non rimbalza!",
+              "visual_direction": "Esegui un allungamento statico corretto in slow motion.",
+              "caption": "Tecnica corretta!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Stretching 10 minuti dopo ogni allenamento!",
+              "voiceover": "Dedica 10 minuti allo stretching post-allenamento per recupero ottimale.",
+              "on_screen_text": "10 minuti di stretching!",
+              "visual_direction": "Mostra un atleta che si allunga dopo un workout.",
+              "caption": "Ricarica i tuoi muscoli!"
+            }
+          ],
+          "duration_sec": 30,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia a fare stretching oggi!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -33543,8 +41402,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cc919c701.jpeg",
       "savedAt": "2026-05-15T17:39:05.445Z",
       "sourceId": "3735cc25c36f44e59b84a722ad195269",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -33594,11 +41453,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Brucia grassi in metà tempo!",
+              "voiceover": "Scopri come l'HIIT può trasformare il tuo allenamento.",
+              "on_screen_text": "HIIT: brucia grassi velocemente!",
+              "visual_direction": "Inquadra un atleta che corre energicamente.",
+              "caption": "Scopri l'HIIT!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Risultati rapidi, sforzo minimo!",
+              "voiceover": "Con HIIT ottieni massimo risultato con minimo investimento.",
+              "on_screen_text": "Massimo risultato, minimo investimento.",
+              "visual_direction": "Mostra grafica con confronto di tempo e risultati.",
+              "caption": "Investi poco, ottieni tanto!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Scopri come funziona!",
+              "voiceover": "Alterna 20 secondi di sprint con 10 secondi di recupero.",
+              "on_screen_text": "20 secondi sprint, 10 di recupero.",
+              "visual_direction": "Dimostrazione di un atleta che alterna sprint e pausa.",
+              "caption": "Prova anche tu!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Non fermarti mai!",
+              "voiceover": "Durante gli sprint, non rallentare mai per ottenere risultati.",
+              "on_screen_text": "Non rallentare mai durante gli sprint!",
+              "visual_direction": "Inquadrature ravvicinate di un atleta concentrato.",
+              "caption": "Mantieni il ritmo!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Pronto per la sfida?",
+              "voiceover": "Oggi prova 4 minuti di HIIT e senti la differenza.",
+              "on_screen_text": "Oggi: prova 4 minuti di HIIT.",
+              "visual_direction": "Mostra un cronometro che conta i 4 minuti.",
+              "caption": "Inizia ora!"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia il tuo allenamento HIIT!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -33664,8 +41569,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cd5a668e7.jpeg",
       "savedAt": "2026-05-15T17:38:47.516Z",
       "sourceId": "0fa3026757a29751affa1a52c68e9904",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -33836,11 +41741,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "La resilienza nasce dalle cadute!",
+              "voiceover": "Scopri come le delusioni possono renderti più forte.",
+              "on_screen_text": "Cadere ti insegna a rialzarti!",
+              "visual_direction": "Clip di Mikaela che si allena e cade.",
+              "caption": "La forza è nella resilienza!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "La delusione costruisce la resilienza!",
+              "voiceover": "Ogni atleta affronta ostacoli, ma non si arrende.",
+              "on_screen_text": "La delusione costruisce la resilienza.",
+              "visual_direction": "Immagini motivazionali di atleti che si rialzano.",
+              "caption": "Impara dai tuoi fallimenti!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Proteggi la tua schiena!",
+              "voiceover": "Contrai il core durante ogni esercizio per sicurezza.",
+              "on_screen_text": "Contrai il core per la schiena.",
+              "visual_direction": "Dimostrazione di esercizi con focus sul core.",
+              "caption": "Sicurezza prima di tutto!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Respira correttamente mentre ti alleni!",
+              "voiceover": "Non trattenere il respiro, migliora le tue performance.",
+              "on_screen_text": "Non trattenere il respiro!",
+              "visual_direction": "Esercizi con focus sulla respirazione.",
+              "caption": "Respira per migliorare!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Fai il plank dinamico oggi!",
+              "voiceover": "Dedica solo 3 minuti a questo esercizio potente.",
+              "on_screen_text": "3 minuti di plank dinamico!",
+              "visual_direction": "Clip di una persona che esegue il plank.",
+              "caption": "Inizia ora il tuo allenamento!"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Segui per più consigli fitness!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -33906,8 +41857,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/03/31/6245bf46a1f84.jpeg",
       "savedAt": "2026-05-15T16:10:37.998Z",
       "sourceId": "9a8b073062393853a6fbb62a63627009",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -33957,11 +41908,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Unisci surf e yoga per equilibrio!",
+              "voiceover": "Scopri come surf e yoga possono trasformare la tua vita.",
+              "on_screen_text": "La giusta combinazione cambia tutto.",
+              "visual_direction": "Inquadratura di una persona che fa yoga sulla spiaggia.",
+              "caption": "Un equilibrio perfetto!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Respira e fluisci come un'onda!",
+              "voiceover": "Impara a respirare profondamente ed entrare in sintonia con te stesso.",
+              "on_screen_text": "Unisci surf e yoga per equilibrio.",
+              "visual_direction": "Clip di una persona che fa yoga mentre ondeggia come un'onda.",
+              "caption": "Flusso e armonia!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Non forzare la postura!",
+              "voiceover": "Ascolta il tuo corpo e trova il tuo ritmo.",
+              "on_screen_text": "Respira e fluisci come un'onda.",
+              "visual_direction": "Inquadratura di una persona che pratica yoga con un cane accanto.",
+              "caption": "Ascolta il tuo corpo!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "5 minuti di yoga per te!",
+              "voiceover": "Dedica del tempo a te stesso e prova questa breve sessione.",
+              "on_screen_text": "Oggi prova 5 minuti di yoga.",
+              "visual_direction": "Clip di una persona che inizia una sessione di yoga.",
+              "caption": "Inizia ora, ti sentirai meglio!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Inizia oggi il tuo viaggio!",
+              "voiceover": "Unisciti a noi per un'esperienza unica di benessere.",
+              "on_screen_text": "Inizia il tuo viaggio oggi!",
+              "visual_direction": "Inquadratura finale di un gruppo che pratica insieme.",
+              "caption": "Unisciti alla community!"
+            }
+          ],
+          "duration_sec": 27,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Prova il tuo primo esercizio ora!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -34027,8 +42024,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a7696a5465.jpeg",
       "savedAt": "2026-05-15T16:10:17.414Z",
       "sourceId": "e79a95de99709db9497d2cd228322bf7",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -34078,11 +42075,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Scopri il segreto dei campioni!",
+              "voiceover": "La disciplina è la chiave per diventare un campione, sia nello sport che nella vita.",
+              "on_screen_text": "Segreto dei campioni",
+              "visual_direction": "Inizio con immagini di Gigi Samele che si allena.",
+              "caption": "La disciplina costruisce campioni"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Pilates: forza e flessibilità!",
+              "voiceover": "Il pilates non è solo esercizio, ma un'arte che costruisce forza e flessibilità.",
+              "on_screen_text": "Pilates per forza e flessibilità",
+              "visual_direction": "Clip di una lezione di pilates con focus sui movimenti.",
+              "caption": "Pilates: il segreto dei campioni"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Controlla il tuo respiro!",
+              "voiceover": "Il controllo del respiro è fondamentale durante ogni movimento per massimizzare i risultati.",
+              "on_screen_text": "Controllo del respiro",
+              "visual_direction": "Primi piani su respirazione e movimenti coordinati.",
+              "caption": "Respira per migliorare"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Rispetta la tua colonna vertebrale!",
+              "voiceover": "Non forzare mai la colonna vertebrale: è essenziale per prevenire infortuni.",
+              "on_screen_text": "Non forzare la colonna",
+              "visual_direction": "Dimostrazione di esercizi corretti per la schiena.",
+              "caption": "Sicurezza prima di tutto"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Inizia oggi stesso!",
+              "voiceover": "Segui una lezione di pilates e scopri i benefici per te.",
+              "on_screen_text": "Segui una lezione di pilates",
+              "visual_direction": "Immagini di persone che partecipano a una lezione.",
+              "caption": "Inizia il tuo viaggio di fitness"
+            }
+          ],
+          "duration_sec": 28,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Unisciti a noi per il pilates oggi!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -34148,8 +42191,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a77059bc0d.jpeg",
       "savedAt": "2026-05-15T13:58:40.399Z",
       "sourceId": "493ccf9f88f371572fb10d976fd6d9b7",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -34199,11 +42242,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Trasforma il tuo corpo oggi stesso!",
+              "voiceover": "Scopri come cambiare il tuo corpo con impegno e costanza.",
+              "on_screen_text": "Il tuo corpo cambia con costanza e sudore.",
+              "visual_direction": "Inquadratura ravvicinata di una persona che si allena intensamente.",
+              "caption": "Inizia il tuo viaggio di fitness!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Equilibrio tra forza e nutrizione!",
+              "voiceover": "La palestra è un mix di forza, nutrizione e disciplina.",
+              "on_screen_text": "Palestra bilancia forza, nutrizione e disciplina.",
+              "visual_direction": "Montaggio di diverse attività in palestra, come sollevamento pesi e preparazione pasti.",
+              "caption": "Crea il tuo piano di allenamento!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Controllo è la chiave del successo!",
+              "voiceover": "Esegui ogni movimento a corpo libero in modo controllato.",
+              "on_screen_text": "Esegui il movimento a corpo libero controllato.",
+              "visual_direction": "Visualizzazione di esercizi a corpo libero eseguiti correttamente.",
+              "caption": "Migliora la tua forma fisica!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Non dimenticare di riscaldarti!",
+              "voiceover": "Il riscaldamento e lo stretching sono fondamentali per ogni allenamento.",
+              "on_screen_text": "Non saltare mai il riscaldamento e lo stretching.",
+              "visual_direction": "Dimostrazione di una routine di riscaldamento e stretching.",
+              "caption": "Prepara il tuo corpo!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Investi nel tuo benessere!",
+              "voiceover": "Prenota un check-up con il tuo coach per massimizzare i risultati.",
+              "on_screen_text": "Prenota un check-up con il tuo coach oggi.",
+              "visual_direction": "Incontro tra un coach e un cliente in palestra.",
+              "caption": "Fai il primo passo!"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Inizia ora il tuo percorso di fitness!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -34269,8 +42358,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a78ed854eb.jpeg",
       "savedAt": "2026-05-15T13:58:20.756Z",
       "sourceId": "dd661e44df0f1c6441f8aa886973a3ea",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -34320,11 +42409,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri il segreto di Wanda!",
+              "voiceover": "La disciplina è più forte dei geni. Scopri come.",
+              "on_screen_text": "Disciplina batte geni!",
+              "visual_direction": "Inquadratura di Wanda che si allena intensamente.",
+              "caption": "La forza viene dal sacrificio."
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ogni ripetizione conta!",
+              "voiceover": "Ogni ripetizione costruisce la tua forza e resistenza.",
+              "on_screen_text": "Ogni ripetizione costruisce forza.",
+              "visual_direction": "Riprese ravvicinate di Wanda durante gli esercizi.",
+              "caption": "Sforzati, non mollare!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 7,
+              "hook": "Attenzione alla postura!",
+              "voiceover": "Contrai il core per una spinta controllata e sicura.",
+              "on_screen_text": "Contrai il core!",
+              "visual_direction": "Dimostrazione di una corretta postura durante un esercizio.",
+              "caption": "Sicurezza prima di tutto!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Evita infortuni!",
+              "voiceover": "Non iperestendere mai la schiena nello sforzo.",
+              "on_screen_text": "Niente iperestensioni!",
+              "visual_direction": "Wanda corregge la postura di un compagno.",
+              "caption": "Impara a proteggerti."
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Pronti per la sfida?",
+              "voiceover": "Oggi fai 3 serie da 12 ripetizioni. Inizia ora!",
+              "on_screen_text": "Fai 3 serie da 12!",
+              "visual_direction": "Wanda incoraggia altri durante l'allenamento.",
+              "caption": "Inizia il tuo percorso!"
+            }
+          ],
+          "duration_sec": 29,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Segui per più consigli fitness!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -34390,8 +42525,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a7678193bd.jpeg",
       "savedAt": "2026-05-15T13:57:59.289Z",
       "sourceId": "3e0144c966f5f4d6a3964f4971d813df",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,
@@ -34441,11 +42576,57 @@ window.AGENTS = {
           ]
         },
         "video": {
-          "scenes": [],
-          "duration_sec": 0,
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Sofia Goggia: il suo ritorno è epico!",
+              "voiceover": "Dopo un infortunio, Sofia Goggia torna più forte che mai.",
+              "on_screen_text": "Ritorno più forte di prima!",
+              "visual_direction": "Inquadrare Sofia mentre sorride e si prepara.",
+              "caption": "Preparati a ispirarti!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 7,
+              "hook": "Cadere è umano, rialzarsi è leggenda.",
+              "voiceover": "Goggia ci insegna che la resilienza è fondamentale.",
+              "on_screen_text": "Cadere è umano, rialzarsi leggenda.",
+              "visual_direction": "Clip di Sofia che si rialza dopo una caduta.",
+              "caption": "Impara dalla sua forza!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Forza esplosiva: squat jump!",
+              "voiceover": "Ecco come eseguire correttamente uno squat jump.",
+              "on_screen_text": "Forza esplosiva: squat jump controllato.",
+              "visual_direction": "Dimostrazione di squat jump con focus sull'atterraggio.",
+              "caption": "Migliora la tua forza!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "Attenzione ai rischi!",
+              "voiceover": "Saltare senza controllo può causare lesioni al ginocchio.",
+              "on_screen_text": "Rischio lesioni al ginocchio.",
+              "visual_direction": "Mostrare un salto mal eseguito e il rischio di caduta.",
+              "caption": "Sii sempre consapevole!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 6,
+              "hook": "Esegui 10 squat jump lenti.",
+              "voiceover": "Oggi ti sfido a fare 10 squat jump precisi.",
+              "on_screen_text": "Oggi 10 squat jump lenti e precisi.",
+              "visual_direction": "Video di Sofia che guida gli esercizi.",
+              "caption": "Inizia il tuo allenamento!"
+            }
+          ],
+          "duration_sec": 30,
           "aspect_ratio": "9:16",
-          "cta": "",
-          "quality_score": 0
+          "cta": "Segui per altri consigli fitness!",
+          "quality_score": 85
         }
       },
       "video_script": [
@@ -34511,8 +42692,8 @@ window.AGENTS = {
       "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a768dc7f97.jpeg",
       "savedAt": "2026-05-15T10:31:04.476Z",
       "sourceId": "b9838e68a7837df458e28100dc59b8c5",
-      "render_quality": null,
-      "render_template": null,
+      "render_quality": "low",
+      "render_template": "exercise_motion_anatomy",
       "render_status": {
         "low": null,
         "medium": null,

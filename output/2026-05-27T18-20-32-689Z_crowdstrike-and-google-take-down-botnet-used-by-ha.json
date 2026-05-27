@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "crowdstrike-and-google-take-down-botnet-used-by-ha",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "CrowdStrike and Google take down botnet used by hackers to target software developers in supply chain attacks",
+  "link": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
+  "pubDate": "Wed, 27 May 2026 16:59:19 +0000",
+  "slides": [
+    "CrowdStrike e Google hanno smantellato un botnet, ma chi era il bersaglio?",
+    "Il botnet colpiva sviluppatori software tramite supply chain.",
+    "Gli hacker sfruttavano aggiornamenti apparentemente legittimi per infiltrarsi.",
+    "Tu, sviluppatore, devi verificare ogni dipendenza del tuo codice ora.",
+    "Controlla i tuoi repository oggi: potresti essere già compromesso."
+  ],
+  "thread_text": [
+    "Stavi per installare un aggiornamento che sembrava innocuo. Invece era un malware. Per colpire te e chi usa il tuo software.",
+    "CrowdStrike e Google hanno appena smantellato un botnet che infettava sviluppatori tramite falsi aggiornamenti. Un attacco alla supply chain.",
+    "Il bersaglio non era un singolo utente, ma la catena di distribuzione del codice. Sei tu il vero obiettivo. Il tuo codice è il vettore.",
+    "Gli hacker si infiltrano nel tuo ambiente di sviluppo con aggiornamenti che sembrano legittimi. Da lì controllano tutto il tuo software distribuito.",
+    "Controlla ogni dipendenza del tuo repository oggi stesso. Se non lo fai, potresti avere già un backdoor attivo nel codice che hai spedito ieri."
+  ],
+  "video_script": [
+    "Hai installato un aggiornamento falso.",
+    "Sembrava legittimo, ma era un attacco.",
+    "CrowdStrike e Google hanno fermato un botnet.",
+    "Colpiva sviluppatori come te, sulla supply chain.",
+    "Verifica ogni dipendenza del tuo codice ora."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Stavi per installare un aggiornamento che sembrava innocuo. Invece era un malware. Per colpire te e chi usa il tuo software.",
+        "CrowdStrike e Google hanno appena smantellato un botnet che infettava sviluppatori tramite falsi aggiornamenti. Un attacco alla supply chain.",
+        "Il bersaglio non era un singolo utente, ma la catena di distribuzione del codice. Sei tu il vero obiettivo. Il tuo codice è il vettore.",
+        "Gli hacker si infiltrano nel tuo ambiente di sviluppo con aggiornamenti che sembrano legittimi. Da lì controllano tutto il tuo software distribuito.",
+        "Controlla ogni dipendenza del tuo repository oggi stesso. Se non lo fai, potresti avere già un backdoor attivo nel codice che hai spedito ieri."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hai installato un aggiornamento falso.",
+        "Sembrava legittimo, ma era un attacco.",
+        "CrowdStrike e Google hanno fermato un botnet.",
+        "Colpiva sviluppatori come te, sulla supply chain.",
+        "Verifica ogni dipendenza del tuo codice ora."
+      ]
+    },
+    "instagram": {
+      "caption": "Hanno clonato aggiornamenti software apparentemente legittimi per infettare gli sviluppatori. 🛡️ CrowdStrike e Google hanno smantellato un botnet progettato per infiltrarsi nella supply chain: chi scrive codice diventava il bersaglio, non il singolo utente finale. 👨‍💻 Se sviluppi software, ogni dipendenza che aggiungi al repository è una potenziale porta d'ingresso per un backdoor già attivo. Controlla i tuoi progetti oggi: quello che hai rilasciato ieri potrebbe essere compromesso?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Attenzione sviluppatori!",
+          "voiceover": "Hai installato un aggiornamento falso.",
+          "on_screen_text": "Aggiornamento FALSO installato!",
+          "visual_direction": "Testo che appare con un effetto di glitch.",
+          "caption": "Cosa fare?",
+          "tone": "urgent",
+          "emphasis_word": "FALSO",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Non è ciò che sembra.",
+          "voiceover": "Sembrava legittimo, ma era un attacco.",
+          "on_screen_text": "Sembrava LEGITTIMO, ma...",
+          "visual_direction": "Transizione veloce con effetti di luce.",
+          "caption": "Scopri di più.",
+          "tone": "urgent",
+          "emphasis_word": "LEGITTIMO",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 7,
+          "hook": "Una grande collaborazione.",
+          "voiceover": "CrowdStrike e Google hanno fermato un botnet.",
+          "on_screen_text": "CrowdStrike + Google = Sicurezza!",
+          "visual_direction": "Animazione che mostra i loghi che si uniscono.",
+          "caption": "Uniti contro il crimine.",
+          "tone": "inspiring",
+          "emphasis_word": "Sicurezza",
+          "layout": "split"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Il bersaglio: gli sviluppatori.",
+          "voiceover": "Colpiva sviluppatori come te, sulla supply chain.",
+          "on_screen_text": "Sviluppatori nel mirino!",
+          "visual_direction": "Immagini di codici e sviluppatori al lavoro.",
+          "caption": "Fai attenzione.",
+          "tone": "urgent",
+          "emphasis_word": "mirino",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Proteggi il tuo codice.",
+          "voiceover": "Verifica ogni dipendenza del tuo codice ora.",
+          "on_screen_text": "Controlla le tue DIPENDENZE!",
+          "visual_direction": "Testo che si ingrandisce con un effetto di enfasi.",
+          "caption": "Agisci subito.",
+          "tone": "urgent",
+          "emphasis_word": "DIPENDENZE",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Proteggi il tuo codice ora!"
+    }
+  },
+  "instagram_caption": "Hanno clonato aggiornamenti software apparentemente legittimi per infettare gli sviluppatori. 🛡️ CrowdStrike e Google hanno smantellato un botnet progettato per infiltrarsi nella supply chain: chi scrive codice diventava il bersaglio, non il singolo utente finale. 👨‍💻 Se sviluppi software, ogni dipendenza che aggiungi al repository è una potenziale porta d'ingresso per un backdoor già attivo. Controlla i tuoi progetti oggi: quello che hai rilasciato ieri potrebbe essere compromesso?",
+  "carousel_slides": [
+    {
+      "hook": "L'aggiornamento che stavi per installare",
+      "description": "Era un malware. CrowdStrike e Google hanno smantellato il botnet che colpiva sviluppatori software.",
+      "visual_hint": "screenshot falso aggiornamento software",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "malware code screen"
+    },
+    {
+      "hook": "Tu sei il vero bersaglio",
+      "description": "Non un singolo utente, ma la catena di distribuzione del codice. Il tuo codice è il vettore.",
+      "visual_hint": "catena spezzata digitale",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "supply chain attack",
+      "image": "https://images.pexels.com/photos/30115457/pexels-photo-30115457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Aggiornamenti falsi, danni veri",
+      "description": "Gli hacker sfruttano aggiornamenti legittimi per infiltrarsi nell'ambiente di sviluppo e controllare il software.",
+      "visual_hint": "codice che si trasforma in virus",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "update notification malware",
+      "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controlla ogni dipendenza",
+      "description": "Se non lo fai oggi, potresti aver già spedito codice con backdoor attivo.",
+      "visual_hint": "mano che esamina repository",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "developer checking code",
+      "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Verifica i tuoi repository ora",
+      "description": "Potresti essere già compromesso. Ogni dipendenza va controllata.",
+      "visual_hint": "codice sorgente con allarme rosso",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "code repository warning",
+      "image": "https://images.pexels.com/photos/9121365/pexels-photo-9121365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/source-code-on-screen.jpg?resize=1200,704",
+  "savedAt": "2026-05-27T18:21:11.955Z",
+  "sourceId": "f99b46de820e8ee678586cc3bc799c83",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
+}

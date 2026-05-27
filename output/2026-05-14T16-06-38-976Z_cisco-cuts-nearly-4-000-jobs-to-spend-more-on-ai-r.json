@@ -76,7 +76,7 @@
   "agent": "ai-news",
   "slug": "cisco-cuts-nearly-4-000-jobs-to-spend-more-on-ai-r",
   "prompt_version": "1.0.0",
-  "status": "draft",
+  "status": "approved",
   "formats": {
     "x": {
       "thread": [
@@ -146,11 +146,72 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Cisco's big move!",
+          "voiceover": "Cisco taglia quattromila persone per risparmiare.",
+          "on_screen_text": "Cisco taglia 4.000 posti",
+          "visual_direction": "Animazione di un grafico in discesa.",
+          "caption": "Scelte difficili nel mondo aziendale.",
+          "tone": "urgent",
+          "emphasis_word": "taglia",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Record revenue!",
+          "voiceover": "Ma fattura un record di entrate trimestrali.",
+          "on_screen_text": "Record di fatturato!",
+          "visual_direction": "Animazione di un grafico in salita.",
+          "caption": "Crescita nonostante le difficoltà.",
+          "tone": "informative",
+          "emphasis_word": "record",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "L'AI costa!",
+          "voiceover": "L'intelligenza artificiale costa un sacco di soldi.",
+          "on_screen_text": "L'AI costa un sacco!",
+          "visual_direction": "Animazione di monetine che cadono.",
+          "caption": "Investimenti cruciali.",
+          "tone": "urgent",
+          "emphasis_word": "costa",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Le tue scelte?",
+          "voiceover": "Tu cosa taglieresti per investire?",
+          "on_screen_text": "Cosa taglieresti?",
+          "visual_direction": "Immagini di persone che pensano.",
+          "caption": "Riflessioni necessarie.",
+          "tone": "inspiring",
+          "emphasis_word": "taglieresti",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Sei pronto?",
+          "voiceover": "La tua azienda è pronta per il futuro?",
+          "on_screen_text": "La tua azienda è pronta?",
+          "visual_direction": "Animazione di un orologio che scorre.",
+          "caption": "Preparati al cambiamento.",
+          "tone": "urgent",
+          "emphasis_word": "pronta",
+          "layout": "single"
+        }
+      ],
+      "duration_sec": 27,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Condividi la tua opinione nei commenti!",
+      "quality_score": 85
     }
   },
   "metrics": {
@@ -166,8 +227,8 @@
     "x": "{\"account_id\":2056313885964062700,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2056313885964062720] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}",
     "tiktok": null
   },
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "kinetic_typography",
   "render_status": {
     "low": null,
     "medium": null,

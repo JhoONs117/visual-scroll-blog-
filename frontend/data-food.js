@@ -38,6 +38,58 @@ window.FOOD_ARTICLES = [
           "Versa in teglia imburrata, aggiungi le fragole tagliate. Forno statico a 180° per 30-35 minuti. Profumo che invade casa.",
           "Una volta fredda, spolvera con zucchero a velo e fragole fresche. Provala e dimmi se ti è sparita in 5 minuti anche a te 👇"
         ]
+      },
+      "video": {
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "La torta più veloce che tu abbia mai fatto!",
+            "voiceover": "Scopri come preparare una torta alle fragole in 5 minuti!",
+            "on_screen_text": "Torta soffice e veloce alle fragole",
+            "visual_direction": "Inquadra la torta finita con fragole fresche sopra.",
+            "caption": "Torta alle fragole in 5 minuti!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Ingredienti semplici e veloci!",
+            "voiceover": "Hai bisogno di fragole, farina, uova, zucchero e burro.",
+            "on_screen_text": "Fragole, farina, uova, zucchero, burro",
+            "visual_direction": "Mostra gli ingredienti disposti su un tavolo.",
+            "caption": "Ingredienti per la tua torta!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Mescola senza complicazioni!",
+            "voiceover": "Mescola le uova e lo zucchero senza montare.",
+            "on_screen_text": "Mescola uova e zucchero senza montare",
+            "visual_direction": "Riprendi il processo di mescolamento in una ciotola.",
+            "caption": "Facile e veloce!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Tempo di cottura perfetto!",
+            "voiceover": "Cuoci in forno statico a 180 gradi per 25 minuti.",
+            "on_screen_text": "Cuoci in forno statico a 180 gradi",
+            "visual_direction": "Mostra il forno e un timer che conta.",
+            "caption": "Cottura in corso!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Guarnisci e servi!",
+            "voiceover": "Guarnisci con fragole fresche e zucchero a velo.",
+            "on_screen_text": "Guarnisci con fragole e zucchero a velo",
+            "visual_direction": "Inquadra il momento della guarnizione con fragole.",
+            "caption": "Pronta da gustare!"
+          }
+        ],
+        "quality_score": 85,
+        "duration_sec": 28,
+        "cta": "Prova questa ricetta e condividi!"
       }
     },
     "video_script": [
@@ -108,7 +160,9 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/362-36217/Torta-5-minuti-alle-fragole_650x433_wm.jpg",
     "savedAt": "2026-05-25T16:19:54.811Z",
-    "sourceId": "d7adc4824738c6eb07bbf2f5dbd00bac"
+    "sourceId": "d7adc4824738c6eb07bbf2f5dbd00bac",
+    "render_template": "slide_deck",
+    "render_quality": "low"
   },
   {
     "schema_version": 2,
@@ -149,6 +203,58 @@ window.FOOD_ARTICLES = [
           "Scola la pasta al dente e saltala direttamente nella crema di asparagi, con un mestolo di acqua di cottura per legare il tutto.",
           "Fuori dal fuoco, aggiungi lo speck croccante sbriciolato e qualche asparago intero tenuto da parte. Provalo e dimmi se non è magia 👇"
         ]
+      },
+      "video": {
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Scopri il piatto che stupirà tutti!",
+            "voiceover": "Oggi prepariamo una pasta cremosa e deliziosa.",
+            "on_screen_text": "Pasta cremosa con asparagi e speck",
+            "visual_direction": "Inquadratura ravvicinata di un piatto di pasta fumante.",
+            "caption": "Un piatto da chef!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Ingredienti freschi per un sapore unico!",
+            "voiceover": "Ecco cosa ci serve: spaghettoni, asparagi, speck e basilico.",
+            "on_screen_text": "Spaghettoni, asparagi, speck, olio, basilico",
+            "visual_direction": "Ripresa degli ingredienti disposti su un tavolo.",
+            "caption": "Ingredienti freschi!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Creiamo una crema vellutata di asparagi!",
+            "voiceover": "Frulla gli asparagi cotti per una crema perfetta.",
+            "on_screen_text": "Frulla gli asparagi in crema",
+            "visual_direction": "Inquadratura del frullatore mentre si preparano gli asparagi.",
+            "caption": "Crema di asparagi!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Scola e salta la pasta con la crema!",
+            "voiceover": "Scola la pasta e saltala nella crema di asparagi.",
+            "on_screen_text": "Scola e saltala nella crema",
+            "visual_direction": "Inquadratura della pasta che viene mescolata con la crema.",
+            "caption": "Pasta pronta!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Guarnisci per un tocco finale!",
+            "voiceover": "Guarnisci con speck croccante e asparagi freschi.",
+            "on_screen_text": "Guarnisci con speck e asparagi",
+            "visual_direction": "Ripresa finale con il piatto guarnito, bello e appetitoso.",
+            "caption": "Servi e gusta!"
+          }
+        ],
+        "quality_score": 85,
+        "duration_sec": 29,
+        "cta": "Prova questa ricetta oggi stesso!"
       }
     },
     "video_script": [
@@ -219,7 +325,9 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/362-36211/Pasta-con-asparagi-e-speck_650x433_wm.jpg",
     "savedAt": "2026-05-21T17:55:55.367Z",
-    "sourceId": "c796e183f2fb4125e3f495152ce756d6"
+    "sourceId": "c796e183f2fb4125e3f495152ce756d6",
+    "render_template": "slide_deck",
+    "render_quality": "low"
   },
   {
     "agent": "food",
@@ -767,11 +875,57 @@ window.FOOD_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Il risotto più cremoso che prova!",
+            "voiceover": "Scopri come preparare un risotto irresistibile con zucchine e salsiccia.",
+            "on_screen_text": "Risotto cremoso zucchine e salsiccia",
+            "visual_direction": "Inquadratura ravvicinata di un risotto cremoso che fuma.",
+            "caption": "Un piatto da leccarsi i baffi!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Ingredienti freschi e gustosi!",
+            "voiceover": "Ecco cosa ti serve: riso, zucchine, salsiccia, burro e parmigiano.",
+            "on_screen_text": "Riso, zucchine, salsiccia, burro, parmigiano",
+            "visual_direction": "Mostrare gli ingredienti disposti su un tavolo.",
+            "caption": "Preparati con ingredienti freschi!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Frulla e friggi le zucchine!",
+            "voiceover": "Frulla metà delle zucchine e friggi l'altra metà per un tocco croccante.",
+            "on_screen_text": "Frulla e friggi le zucchine",
+            "visual_direction": "Primi piani di zucchine frullate e zucchine che friggono.",
+            "caption": "Il segreto della cremosità!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Unisci sapori e cuoci il riso!",
+            "voiceover": "Unisci la crema di zucchine e la salsiccia, poi cuoci il riso.",
+            "on_screen_text": "Unisci crema e salsiccia",
+            "visual_direction": "Mostrare il processo di unione degli ingredienti in padella.",
+            "caption": "Un'esplosione di sapori!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Guarnisci e servi caldo!",
+            "voiceover": "Guarnisci il risotto con zucchine fritte e timo fresco per un tocco finale.",
+            "on_screen_text": "Guarnisci con zucchine fritte e timo",
+            "visual_direction": "Inquadratura finale del piatto guarnito e servito.",
+            "caption": "Pronto da gustare!"
+          }
+        ],
+        "duration_sec": 29,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Prova subito questa ricetta!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -843,8 +997,8 @@ window.FOOD_ARTICLES = [
     "image": "https://www.giallozafferano.it/images/361-36122/Risotto-zucchine-e-salsiccia_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:55:40.208Z",
     "sourceId": "19cebe732fcd6729d540dbe576cb1875",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "slide_deck",
     "render_status": {
       "low": null,
       "medium": null,
@@ -895,11 +1049,57 @@ window.FOOD_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Scopri la ricetta della pasta cremosa!",
+            "voiceover": "Oggi prepariamo una pasta cremosa senza panna.",
+            "on_screen_text": "Pasta cremosa senza panna",
+            "visual_direction": "Inquadratura ravvicinata della pasta che bolle.",
+            "caption": "Iniziamo!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Ingredienti freschi per un piatto unico!",
+            "voiceover": "Utilizzeremo linguine, zucchine, speck e gorgonzola.",
+            "on_screen_text": "Linguine, zucchine, speck, gorgonzola",
+            "visual_direction": "Inquadratura degli ingredienti disposti su un tavolo.",
+            "caption": "Prepariamo gli ingredienti!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Rosoliamo lo speck per un sapore intenso.",
+            "voiceover": "Rosola lo speck in padella senza grassi.",
+            "on_screen_text": "Rosola lo speck senza grassi",
+            "visual_direction": "Mostra lo speck che sfrigola in padella.",
+            "caption": "Sapore intenso!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Il segreto della cremosità perfetta!",
+            "voiceover": "Aggiungi gorgonzola e acqua di cottura.",
+            "on_screen_text": "Aggiungi gorgonzola e acqua di cottura",
+            "visual_direction": "Inquadratura della pasta mescolata con il gorgonzola.",
+            "caption": "Mescoliamo bene!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Gorgonzola dolce per un tocco finale!",
+            "voiceover": "Il gorgonzola dolce rende tutto più cremoso.",
+            "on_screen_text": "Gorgonzola dolce per cremosità perfetta",
+            "visual_direction": "Inquadratura finale del piatto pronto da servire.",
+            "caption": "Servi e gusta!"
+          }
+        ],
+        "duration_sec": 29,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Prova la ricetta e condividi!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -971,8 +1171,8 @@ window.FOOD_ARTICLES = [
     "image": "https://www.giallozafferano.it/images/361-36124/Pasta-zucchine-speck-e-gorgonzola_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:55:39.397Z",
     "sourceId": "a68b85e77cf93283390abce9c0f4de86",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "slide_deck",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1023,11 +1223,57 @@ window.FOOD_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Scopri il piatto che conquisterà tutti!",
+            "voiceover": "Oggi prepariamo spaghetti con crema di cipollotti e taleggio.",
+            "on_screen_text": "Spaghetti con cipollotti e taleggio!",
+            "visual_direction": "Inquadratura ravvicinata degli ingredienti freschi.",
+            "caption": "Un piatto cremoso e delizioso!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 7,
+            "hook": "Iniziamo con i cipollotti!",
+            "voiceover": "Rosoliamo i cipollotti in padella fino a doratura.",
+            "on_screen_text": "Rosola i cipollotti!",
+            "visual_direction": "Mostra il cipollotto che sfrigola in padella.",
+            "caption": "Il profumo è irresistibile!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Non dimenticare la parte verde!",
+            "voiceover": "Sbollentiamo la parte verde dei cipollotti per pochi minuti.",
+            "on_screen_text": "Sbollenta la parte verde!",
+            "visual_direction": "Inquadratura della parte verde in acqua bollente.",
+            "caption": "Aggiungi colore e sapore!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 8,
+            "hook": "Frulliamo il tutto per una crema perfetta!",
+            "voiceover": "Frulliamo cipollotti e acqua fino a ottenere una crema liscia.",
+            "on_screen_text": "Frulla i cipollotti con acqua!",
+            "visual_direction": "Mostra l'azione di frullare e la crema che si forma.",
+            "caption": "Cremosa e saporita!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Mantechiamo e guarniamo!",
+            "voiceover": "Unisci la pasta, manteca con taleggio e guarnisci con menta.",
+            "on_screen_text": "Manteca con taleggio e menta!",
+            "visual_direction": "Inquadratura finale del piatto servito con menta fresca.",
+            "caption": "Pronto da gustare!"
+          }
+        ],
+        "duration_sec": 31,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Prova questa ricetta oggi stesso!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -1099,8 +1345,8 @@ window.FOOD_ARTICLES = [
     "image": "https://www.giallozafferano.it/images/361-36139/Spaghetti-con-crema-di-cipollotti-e-taleggio_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:55:38.399Z",
     "sourceId": "b9e47583504bae7fddb19f4c5ce7621a",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "slide_deck",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1151,11 +1397,57 @@ window.FOOD_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "La pasta dei tuoi sogni è qui!",
+            "voiceover": "Scopri come preparare una pasta deliziosa e cremosa.",
+            "on_screen_text": "Pasta cremosa con porri e pancetta",
+            "visual_direction": "Inquadratura ravvicinata di un piatto di pasta fumante.",
+            "caption": "Prepara un piatto da sogno!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Ingredienti freschi e semplici!",
+            "voiceover": "Ecco cosa ti serve: porri, pancetta, pecorino e pasta.",
+            "on_screen_text": "Porri, pancetta, pecorino, olio, pasta",
+            "visual_direction": "Mostra gli ingredienti disposti ordinatamente su un tavolo.",
+            "caption": "Ingredienti pronti!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Rosola la pancetta per un sapore intenso!",
+            "voiceover": "Rosola la pancetta in padella e tienila da parte.",
+            "on_screen_text": "Rosola la pancetta e tieni da parte",
+            "visual_direction": "Clip della pancetta che sfrigola in padella.",
+            "caption": "Sapore irresistibile!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Unisci tutto per una cremosità perfetta!",
+            "voiceover": "Unisci pasta, porri, pecorino e un po' d'acqua di cottura.",
+            "on_screen_text": "Unisci pasta, porri e pecorino",
+            "visual_direction": "Visuale della pasta che viene mescolata con gli ingredienti.",
+            "caption": "Cremosa e deliziosa!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Guarnisci e servi!",
+            "voiceover": "Guarnisci con pancetta croccante prima di servire.",
+            "on_screen_text": "Guarnisci con pancetta croccante",
+            "visual_direction": "Inquadratura di un piatto finito, pronto per essere gustato.",
+            "caption": "Pronto da gustare!"
+          }
+        ],
+        "duration_sec": 28,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Prova questa ricetta oggi stesso!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -1227,8 +1519,8 @@ window.FOOD_ARTICLES = [
     "image": "https://www.giallozafferano.it/images/361-36119/Pasta-con-porri-pecorino-e-pancetta_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:45:53.422Z",
     "sourceId": "395c33e805d677f4f3923535aa158fb7",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "slide_deck",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1279,11 +1571,57 @@ window.FOOD_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Scopri la pasta cremosa senza panna!",
+            "voiceover": "Oggi prepariamo una deliziosa pasta con melanzane.",
+            "on_screen_text": "Pasta cremosa senza panna!",
+            "visual_direction": "Inizio con un primo piano della pasta e delle melanzane.",
+            "caption": "Pasta cremosa e leggera!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Ingredienti freschi per un piatto unico!",
+            "voiceover": "Ecco cosa ci serve: fusilloni, melanzane, Parmigiano e menta.",
+            "on_screen_text": "Ingredienti: Fusilloni, melanzane, Parmigiano, menta.",
+            "visual_direction": "Mostrare gli ingredienti disposti in modo invitante.",
+            "caption": "Ingredienti freschi!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 7,
+            "hook": "Taglia e cuoci le melanzane!",
+            "voiceover": "Taglia le melanzane a cubetti e cuocile in padella.",
+            "on_screen_text": "Taglia e cuoci le melanzane.",
+            "visual_direction": "Inquadratura delle melanzane mentre vengono tagliate e cotte.",
+            "caption": "Melanzane dorate!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 7,
+            "hook": "Frulla per una consistenza cremosa!",
+            "voiceover": "Frulla le melanzane cotte con un po' d'acqua di cottura.",
+            "on_screen_text": "Frulla le melanzane cotte.",
+            "visual_direction": "Mostrare il frullatore in azione con melanzane e acqua.",
+            "caption": "Cremosa e deliziosa!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Guarnisci e servi caldo!",
+            "voiceover": "Aggiungi menta fresca e Parmigiano, poi servi.",
+            "on_screen_text": "Guarnisci e servi caldo!",
+            "visual_direction": "Inquadratura finale del piatto servito, guarnito.",
+            "caption": "Pronto da gustare!"
+          }
+        ],
+        "duration_sec": 30,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Prova questa ricetta oggi stesso!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -1355,8 +1693,8 @@ window.FOOD_ARTICLES = [
     "image": "https://www.giallozafferano.it/images/361-36125/Pasta-con-melanzane-in-bianco-cremosa_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:45:52.438Z",
     "sourceId": "3cc708f32ca006c9dd41a7f41144e0fa",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "slide_deck",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1407,11 +1745,57 @@ window.FOOD_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Scopri la torta dei tuoi sogni!",
+            "voiceover": "Oggi prepariamo una deliziosa torta con fragole e cioccolato bianco.",
+            "on_screen_text": "Torta con fragole e cioccolato bianco!",
+            "visual_direction": "Inquadratura ravvicinata della torta decorata.",
+            "caption": "Ricetta irresistibile!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Ingredienti freschi e golosi!",
+            "voiceover": "Ecco cosa ci serve: fragole, cioccolato bianco, panna, uova e farina.",
+            "on_screen_text": "Fragole, cioccolato, panna, uova, farina",
+            "visual_direction": "Ripresa degli ingredienti disposti su un tavolo.",
+            "caption": "Preparati a deliziare il palato!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Monta gli albumi e i tuorli!",
+            "voiceover": "Inizia montando albumi e tuorli con zucchero e limone.",
+            "on_screen_text": "Monta albumi e tuorli con zucchero!",
+            "visual_direction": "Mostra la preparazione degli albumi e tuorli in una ciotola.",
+            "caption": "Tecnica fondamentale!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Cuoci e assembla la torta!",
+            "voiceover": "Cuoci la pasta biscotto, assembla con cremoso e fragole.",
+            "on_screen_text": "Cuoci e assembla con cremoso!",
+            "visual_direction": "Riprese del processo di cottura e assemblaggio.",
+            "caption": "Fase creativa!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Raffredda e guarnisci!",
+            "voiceover": "Raffredda per 4-5 ore e guarnisci con zucchero a velo.",
+            "on_screen_text": "Raffredda e guarnisci con zucchero!",
+            "visual_direction": "Mostra la torta finita con zucchero a velo.",
+            "caption": "Pronta da gustare!"
+          }
+        ],
+        "duration_sec": 29,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Prova anche tu questa ricetta!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -1483,8 +1867,8 @@ window.FOOD_ARTICLES = [
     "image": "https://www.giallozafferano.it/images/361-36144/Torta-con-fragole-e-cioccolato-bianco_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:45:51.009Z",
     "sourceId": "303c3dd093e34eed4573db81cbeb792d",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "slide_deck",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1535,11 +1919,57 @@ window.FOOD_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Scopri la pasta frolla al caffè!",
+            "voiceover": "Preparati a deliziare il tuo palato con questa ricetta unica.",
+            "on_screen_text": "Pasta frolla al caffè",
+            "visual_direction": "Inquadratura ravvicinata di una torta di pasta frolla al caffè.",
+            "caption": "Un dessert irresistibile!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Ingredienti semplici e gustosi!",
+            "voiceover": "Ecco cosa ti serve: farina, burro, uova, zucchero a velo e caffè solubile.",
+            "on_screen_text": "Farina, burro, uova, zucchero, caffè",
+            "visual_direction": "Mostra gli ingredienti disposti su un tavolo.",
+            "caption": "Preparati a cucinare!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 7,
+            "hook": "Inizia a mescolare!",
+            "voiceover": "Lavora il burro con lo zucchero, poi aggiungi le uova e la farina.",
+            "on_screen_text": "Mescola burro e zucchero",
+            "visual_direction": "Ripresa del processo di mescolamento in una ciotola.",
+            "caption": "Facile e veloce!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 8,
+            "hook": "Riposa e stendi!",
+            "voiceover": "Fai riposare in frigo per 30 minuti, poi stendi la pasta.",
+            "on_screen_text": "Riposa in frigo 30 min",
+            "visual_direction": "Mostra la pasta in frigo e poi il processo di stesura.",
+            "caption": "Pronta per essere modellata!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Conserva o congela!",
+            "voiceover": "Puoi conservare in frigo per 3-4 giorni o congelare.",
+            "on_screen_text": "Conserva in frigo 3-4 giorni",
+            "visual_direction": "Visualizza il risultato finale e varie opzioni di conservazione.",
+            "caption": "Gusta la tua creazione!"
+          }
+        ],
+        "duration_sec": 32,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Prova la ricetta e condividi!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -1611,8 +2041,8 @@ window.FOOD_ARTICLES = [
     "image": "https://www.giallozafferano.it/images/361-36149/Pasta-frolla-al-caffe_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:41:53.688Z",
     "sourceId": "733d811ba5b587d48d899e3ad2f62f75",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "slide_deck",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1663,11 +2093,57 @@ window.FOOD_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Scopri la vera pasta al forno siciliana!",
+            "voiceover": "Oggi prepariamo un piatto tradizionale siciliano che ti farà leccare i baffi.",
+            "on_screen_text": "Pasta al forno siciliana!",
+            "visual_direction": "Inquadratura ravvicinata della pasta al forno fumante.",
+            "caption": "Un classico della cucina siciliana!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 7,
+            "hook": "Ingredienti freschi e deliziosi!",
+            "voiceover": "Usiamo rigatoni, melanzane, scamorza e parmigiano per un sapore unico.",
+            "on_screen_text": "Rigatoni, melanzane, scamorza, parmigiano",
+            "visual_direction": "Ripresa degli ingredienti disposti su un tavolo.",
+            "caption": "Ingredienti freschi per un piatto speciale!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 5,
+            "hook": "Friggiamo le melanzane!",
+            "voiceover": "Taglia le melanzane a cubetti e friggile fino a doratura.",
+            "on_screen_text": "Friggi melanzane a cubetti",
+            "visual_direction": "Video della frittura delle melanzane in padella.",
+            "caption": "Passo fondamentale per il sapore!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 8,
+            "hook": "Cuoci in forno per la perfezione!",
+            "voiceover": "Mescola tutto con sugo e formaggio, poi inforna fino a doratura.",
+            "on_screen_text": "Cuoci con sugo e formaggio",
+            "visual_direction": "Ripresa della pasta infornata con formaggio che fonde.",
+            "caption": "Il profumo è irresistibile!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Lascia riposare prima di servire!",
+            "voiceover": "Attendi qualche minuto per un sapore ancora migliore.",
+            "on_screen_text": "Lasciare riposare",
+            "visual_direction": "Inquadratura della pasta al forno pronta, pronta per essere servita.",
+            "caption": "Ecco la tua pasta al forno siciliana!"
+          }
+        ],
+        "duration_sec": 30,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Prova anche tu questa delizia!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -1739,8 +2215,8 @@ window.FOOD_ARTICLES = [
     "image": "https://www.giallozafferano.it/images/361-36162/Pasta-al-forno-alla-siciliana_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:41:33.540Z",
     "sourceId": "9e9b8ac0edbce3f019f05da05ec4af87",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "slide_deck",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1791,11 +2267,57 @@ window.FOOD_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Scopri la torta salata primaverile!",
+            "voiceover": "Questa torta salata vegana è un must per la primavera!",
+            "on_screen_text": "Torta salata vegana cremosa!",
+            "visual_direction": "Inquadratura ravvicinata della torta appena sfornata.",
+            "caption": "Una delizia primaverile!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Ingredienti freschi per un piatto unico.",
+            "voiceover": "Usiamo farina di ceci, asparagi e porri freschi.",
+            "on_screen_text": "Farina di ceci, asparagi, porri!",
+            "visual_direction": "Mostrare i vari ingredienti sul tavolo.",
+            "caption": "Ingredienti freschi!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 7,
+            "hook": "Prepariamo la pastella perfetta!",
+            "voiceover": "Mescoliamo farina di ceci con acqua per la pastella.",
+            "on_screen_text": "Prepara una pastella con farina di ceci.",
+            "visual_direction": "Filmare il processo di mescolamento in una ciotola.",
+            "caption": "Facile e veloce!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 8,
+            "hook": "Cuoci a perfezione per 70 minuti.",
+            "voiceover": "Metti in forno a 190° e attendi il risultato.",
+            "on_screen_text": "Cuoci in forno a 190° per 70 minuti.",
+            "visual_direction": "Inquadrare il forno e il timer.",
+            "caption": "Aspetta il profumo!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Decora e servi con stile!",
+            "voiceover": "Aggiungi asparagi e cipolla rossa per decorare.",
+            "on_screen_text": "Decora con asparagi e cipolla rossa.",
+            "visual_direction": "Mostrare la torta decorata pronta per essere servita.",
+            "caption": "Pronta da gustare!"
+          }
+        ],
+        "duration_sec": 32,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Prova a farla e condividi!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -1867,8 +2389,8 @@ window.FOOD_ARTICLES = [
     "image": "https://www.giallozafferano.it/images/361-36163/Torta-salata-primaverile-vegana_650x433_wm.jpg",
     "savedAt": "2026-05-15T09:41:11.311Z",
     "sourceId": "dfce00af8648940d9124d830837c8738",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "slide_deck",
     "render_status": {
       "low": null,
       "medium": null,
@@ -1919,11 +2441,57 @@ window.FOOD_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Il risotto che farà impazzire tutti!",
+            "voiceover": "Scopri come preparare un risotto cremoso e irresistibile.",
+            "on_screen_text": "Risotto cremoso con pancetta croccante",
+            "visual_direction": "Inquadratura ravvicinata del risotto fumante in un piatto.",
+            "caption": "Un piatto da leccarsi i baffi!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 5,
+            "hook": "Ingredienti freschi e gustosi!",
+            "voiceover": "Ecco cosa ti serve: riso Carnaroli, pisellini e pancetta.",
+            "on_screen_text": "Carnaroli, pisellini, crescenza, pancetta",
+            "visual_direction": "Panoramica degli ingredienti disposti su un tavolo.",
+            "caption": "Preparati a cucinare!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Tosta il riso per un sapore unico!",
+            "voiceover": "Inizia tostando il riso e sfumando con vino bianco.",
+            "on_screen_text": "Tosta il riso e sfuma con vino",
+            "visual_direction": "Ripresa della padella mentre il riso viene tostato.",
+            "caption": "Il segreto di un risotto perfetto!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Aggiungi la crema di piselli!",
+            "voiceover": "A metà cottura, unisci la crema di piselli freschi.",
+            "on_screen_text": "Unisci la crema di piselli",
+            "visual_direction": "Inquadratura della padella mentre si aggiunge la crema.",
+            "caption": "Cremoso e delizioso!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Guarnisci e servi!",
+            "voiceover": "Guarnisci con crescenza, piselli e pancetta croccante.",
+            "on_screen_text": "Guarnisci con crescenza e pancetta",
+            "visual_direction": "Inquadratura finale del piatto pronto da servire.",
+            "caption": "Pronto da gustare!"
+          }
+        ],
+        "duration_sec": 28,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Prova questa ricetta oggi stesso!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -1995,8 +2563,8 @@ window.FOOD_ARTICLES = [
     "image": "https://www.giallozafferano.it/images/360-36089/Risotto-piselli-crescenza-e-pancetta-croccante_650x433_wm.jpg",
     "savedAt": "2026-05-14T15:01:32.815Z",
     "sourceId": "28c4dca21ca942b6eee9f7c8922f4708",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "slide_deck",
     "render_status": {
       "low": null,
       "medium": null,
@@ -2047,11 +2615,57 @@ window.FOOD_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Scopri la zuppa dei tuoi sogni!",
+            "voiceover": "Preparati a gustare una zuppa incredibile di fagioli e cozze.",
+            "on_screen_text": "Zuppa cremosa di fagioli e cozze.",
+            "visual_direction": "Inquadratura ravvicinata della zuppa fumante.",
+            "caption": "Un piatto da non perdere!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 5,
+            "hook": "Ingredienti freschi per un sapore unico!",
+            "voiceover": "Ecco cosa ti serve: cozze, fagioli cannellini, pomodori, aglio e olio.",
+            "on_screen_text": "Cozze, fagioli, pomodori, aglio, olio.",
+            "visual_direction": "Mostrare gli ingredienti disposti su un tavolo.",
+            "caption": "Pronto a cucinare?"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 7,
+            "hook": "Iniziamo con le cozze!",
+            "voiceover": "Pulisci le cozze, aprile e sgusciale con cura.",
+            "on_screen_text": "Pulisci e sguscia le cozze.",
+            "visual_direction": "Dimostrazione della pulizia delle cozze.",
+            "caption": "Fai attenzione ai dettagli!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 8,
+            "hook": "Un tocco cremoso!",
+            "voiceover": "Frulla metà dei fagioli con l'acqua delle cozze per una crema deliziosa.",
+            "on_screen_text": "Frulla fagioli con acqua di cozze.",
+            "visual_direction": "Mostrare il frullatore in azione.",
+            "caption": "Cremoso e saporito!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Il tocco finale!",
+            "voiceover": "Guarnisci con prezzemolo fresco e crostoni croccanti.",
+            "on_screen_text": "Guarnisci con prezzemolo e crostoni.",
+            "visual_direction": "Inquadratura della zuppa finita con guarnizione.",
+            "caption": "Servi e gusta!"
+          }
+        ],
+        "duration_sec": 32,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Prova questa ricetta oggi stesso!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -2123,8 +2737,8 @@ window.FOOD_ARTICLES = [
     "image": "https://www.giallozafferano.it/images/360-36091/Zuppa-di-fagioli-e-cozze_650x433_wm.jpg",
     "savedAt": "2026-05-14T14:56:38.447Z",
     "sourceId": "45fe1c8c9257d22f3b2dcd5030a630be",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "slide_deck",
     "render_status": {
       "low": null,
       "medium": null,
@@ -2175,11 +2789,57 @@ window.FOOD_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Scopri il segreto dei bocconcini di pollo!",
+            "voiceover": "Oggi prepariamo dei bocconcini di pollo alla mediterranea.",
+            "on_screen_text": "Bocconcini di pollo teneri e saporiti",
+            "visual_direction": "Inquadratura ravvicinata del pollo fresco, con musica allegra.",
+            "caption": "Pollo alla mediterranea, un must!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 5,
+            "hook": "Ingredienti freschi per piatti deliziosi!",
+            "voiceover": "Ecco cosa ci serve: pollo, pomodorini, olive e capperi.",
+            "on_screen_text": "Pollo, pomodorini, olive, capperi, aglio",
+            "visual_direction": "Zoom sugli ingredienti disposti su un tavolo.",
+            "caption": "Ingredienti freschi!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 7,
+            "hook": "Rosoliamo il pollo per un sapore unico!",
+            "voiceover": "Iniziamo rosolando i bocconcini di pollo fino a dorarli.",
+            "on_screen_text": "Rosola i bocconcini di pollo dorati",
+            "visual_direction": "Ripresa della cottura in padella, fumi e colori vivaci.",
+            "caption": "Rosoliamo per il gusto!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 8,
+            "hook": "Aggiungiamo il tocco mediterraneo!",
+            "voiceover": "Ora aggiungiamo pomodorini, olive e capperi per il sapore.",
+            "on_screen_text": "Aggiungi pomodorini, olive e capperi",
+            "visual_direction": "Inquadratura dell'aggiunta degli ingredienti nella padella.",
+            "caption": "Un mix di sapori!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Servi caldo e gusta la freschezza!",
+            "voiceover": "Eliminiamo l'aglio e serviamo caldo per un piatto delizioso.",
+            "on_screen_text": "Elimina l'aglio e servi caldo",
+            "visual_direction": "Servire il piatto su un tavolo decorato.",
+            "caption": "Gusta la tua creazione!"
+          }
+        ],
+        "duration_sec": 32,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Prova questa ricetta oggi stesso!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -2251,8 +2911,8 @@ window.FOOD_ARTICLES = [
     "image": "https://www.giallozafferano.it/images/361-36168/Bocconcini-di-pollo-alla-mediterranea_650x433_wm.jpg",
     "savedAt": "2026-05-14T14:53:46.406Z",
     "sourceId": "77b971a7cb7a0c9a1a09085e1c1230b2",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "slide_deck",
     "render_status": {
       "low": null,
       "medium": null,
@@ -2303,11 +2963,57 @@ window.FOOD_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Scopri la pasta più cremosa mai provata!",
+            "voiceover": "Oggi prepariamo una pasta cremosa senza panna né formaggio.",
+            "on_screen_text": "Pasta cremosa senza panna!",
+            "visual_direction": "Inizio con close-up della pasta in un piatto.",
+            "caption": "Pasta irresistibile!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 5,
+            "hook": "Ingredienti freschi per un piatto unico!",
+            "voiceover": "Usiamo linguine, fiori di zucca e alici fresche.",
+            "on_screen_text": "Linguine, fiori di zucca, alici",
+            "visual_direction": "Mostra gli ingredienti disposti su un tavolo.",
+            "caption": "Ingredienti freschi!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Ecco come pulire i fiori di zucca!",
+            "voiceover": "Iniziamo pulendo i fiori di zucca e rimuovendo il pistillo.",
+            "on_screen_text": "Pulisci i fiori di zucca",
+            "visual_direction": "Mostra il processo di pulizia dei fiori.",
+            "caption": "Facile e veloce!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Mantechiamo la pasta come un professionista!",
+            "voiceover": "Mantechiamo con acqua di cottura a fiamma vivace.",
+            "on_screen_text": "Manteca con acqua di cottura",
+            "visual_direction": "Ripresa della pasta in padella mentre si manteca.",
+            "caption": "Mantecare è un'arte!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Il tocco finale? Scorza di limone!",
+            "voiceover": "Grattugiamo la scorza di limone prima di servire.",
+            "on_screen_text": "Grattugia scorza di limone",
+            "visual_direction": "Mostra il limone grattugiato sopra la pasta.",
+            "caption": "Un tocco di freschezza!"
+          }
+        ],
+        "duration_sec": 29,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Prova questa ricetta e stupisci tutti!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -2379,8 +3085,8 @@ window.FOOD_ARTICLES = [
     "image": "https://www.giallozafferano.it/images/361-36171/Pasta-con-fiori-di-zucca-e-alici_650x433_wm.jpg",
     "savedAt": "2026-05-14T14:53:10.041Z",
     "sourceId": "5248cbef97fc64cc3aa318c78005047d",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "slide_deck",
     "render_status": {
       "low": null,
       "medium": null,
@@ -2431,11 +3137,57 @@ window.FOOD_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Scopri la torta più semplice mai fatta!",
+            "voiceover": "Oggi prepariamo una torta cremosa con solo due ingredienti!",
+            "on_screen_text": "Torta cremosa 2 ingredienti!",
+            "visual_direction": "Inquadratura ravvicinata della torta pronta.",
+            "caption": "Un dolce facile e veloce!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Ingredienti semplici, risultati straordinari!",
+            "voiceover": "Serviranno solo mele Golden e cioccolato fondente.",
+            "on_screen_text": "Mele Golden e cioccolato fondente",
+            "visual_direction": "Mostra gli ingredienti sul tavolo.",
+            "caption": "Pronto a iniziare?"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Passo 1: Cuoci le mele!",
+            "voiceover": "Sbuccia le mele e cuocile con poca acqua.",
+            "on_screen_text": "Cuoci le mele con poca acqua.",
+            "visual_direction": "Mostra le mele in pentola mentre cuociono.",
+            "caption": "Facile, vero?"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 7,
+            "hook": "Passo 2: Frulla e unisci!",
+            "voiceover": "Frulla le mele e uniscile al cioccolato fuso.",
+            "on_screen_text": "Frulla e mescola!",
+            "visual_direction": "Mostra il frullatore e il cioccolato fuso.",
+            "caption": "Un mix delizioso!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Spolvera e servi!",
+            "voiceover": "Spolvera con cacao amaro e servi la tua torta.",
+            "on_screen_text": "Spolvera con cacao amaro.",
+            "visual_direction": "Inquadratura finale della torta con cacao sopra.",
+            "caption": "Pronto per assaporare?"
+          }
+        ],
+        "duration_sec": 29,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Provala e condividi il tuo risultato!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -2507,8 +3259,8 @@ window.FOOD_ARTICLES = [
     "image": "https://www.giallozafferano.it/images/361-36174/Torta-2-ingredienti_650x433_wm.jpg",
     "savedAt": "2026-05-14T14:49:43.139Z",
     "sourceId": "4dff87d4e172b41438f75023bc536266",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "slide_deck",
     "render_status": {
       "low": null,
       "medium": null,
@@ -2559,11 +3311,57 @@ window.FOOD_ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Scopri la ricetta della pasta al forno!",
+            "voiceover": "Prepariamo insieme una deliziosa pasta al forno con salsiccia e piselli.",
+            "on_screen_text": "Pasta al forno cremosa e saporita!",
+            "visual_direction": "Inquadratura ravvicinata della pasta al forno dorata.",
+            "caption": "Un piatto che conquista tutti!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 5,
+            "hook": "Ingredienti semplici e gustosi!",
+            "voiceover": "Ecco cosa ti serve: rigatoni, salsiccia, mozzarella, besciamella e piselli.",
+            "on_screen_text": "Rigatoni, salsiccia, mozzarella, piselli.",
+            "visual_direction": "Mostrare gli ingredienti disposti sul tavolo.",
+            "caption": "Preparati per una ricetta irresistibile!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Inizia a cucinare!",
+            "voiceover": "Rosola la salsiccia con cipolla e aggiungi i piselli.",
+            "on_screen_text": "Rosola salsiccia e cipolla.",
+            "visual_direction": "Pan sul fornello con la salsiccia che rosola.",
+            "caption": "Il profumo è irresistibile!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Assemblare il tutto!",
+            "voiceover": "Alterna strati di pasta, condimento e mozzarella, poi gratina.",
+            "on_screen_text": "Alterna pasta, salsiccia e mozzarella.",
+            "visual_direction": "Inquadrature veloci del montaggio della pasta al forno.",
+            "caption": "Ecco come si fa!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Aspetta un momento prima di servirla!",
+            "voiceover": "Lascia riposare per 10 minuti prima di servire.",
+            "on_screen_text": "Lascia riposare 10 minuti.",
+            "visual_direction": "Mostrare la pasta al forno che riposa sul tavolo.",
+            "caption": "Pronta per essere gustata!"
+          }
+        ],
+        "duration_sec": 27,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Prova a farla oggi stesso!",
+        "quality_score": 85
       }
     },
     "video_script": [
@@ -2635,8 +3433,8 @@ window.FOOD_ARTICLES = [
     "image": "https://www.giallozafferano.it/images/361-36172/Pasta-al-forno-con-salsiccia-e-piselli_650x433_wm.jpg",
     "savedAt": "2026-05-14T14:44:46.658Z",
     "sourceId": "38a68c5a500f69b93c330ee50d00c0a4",
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "slide_deck",
     "render_status": {
       "low": null,
       "medium": null,

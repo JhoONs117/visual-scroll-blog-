@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-coding-startup-cognition-raises-1b-at-25b-pre-m",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+  "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+  "pubDate": "Wed, 27 May 2026 16:00:00 +0000",
+  "slides": [
+    "Cognition vale 25 miliardi: ma è solo software?",
+    "Ha creato Devin, un ingegnere AI autonomo.",
+    "Il round da 1 miliardo supera la capitalizzazione.",
+    "Confronta Devin con il tuo team oggi.",
+    "Prova un task gratuito: vedi il gap."
+  ],
+  "thread_text": [
+    "Round da 1 miliardo, capitalizzazione superata: Cognition vale 25 miliardi. Solo per un software?",
+    "Hanno costruito Devin: un ingegnere AI autonomo. Non un copilota, ma qualcuno che prende ticket, scrive codice e deploya da solo.",
+    "Dietro c'è solo software. Nessun hardware, nessun brevetto fisico. Una linea di codice valutata più di aziende con stabilimenti e dipendenti.",
+    "Confrontalo con il tuo team oggi: quanti sviluppatori servono per fare quello che Devin fa in un'ora? E quanto costa?",
+    "Prova un task gratuito. Vedi il gap. Costa meno di un abbonamento Netflix."
+  ],
+  "video_script": [
+    "Hanno dato un miliardo a una software house.",
+    "Hanno creato Devin, un programmatore AI autonomo.",
+    "Vale venticinque miliardi. Solo software.",
+    "Confrontalo con il tuo team adesso.",
+    " Prova gratis. Vedi il divario."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Round da 1 miliardo, capitalizzazione superata: Cognition vale 25 miliardi. Solo per un software?",
+        "Hanno costruito Devin: un ingegnere AI autonomo. Non un copilota, ma qualcuno che prende ticket, scrive codice e deploya da solo.",
+        "Dietro c'è solo software. Nessun hardware, nessun brevetto fisico. Una linea di codice valutata più di aziende con stabilimenti e dipendenti.",
+        "Confrontalo con il tuo team oggi: quanti sviluppatori servono per fare quello che Devin fa in un'ora? E quanto costa?",
+        "Prova un task gratuito. Vedi il gap. Costa meno di un abbonamento Netflix."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hanno dato un miliardo a una software house.",
+        "Hanno creato Devin, un programmatore AI autonomo.",
+        "Vale venticinque miliardi. Solo software.",
+        "Confrontalo con il tuo team adesso.",
+        " Prova gratis. Vedi il divario."
+      ]
+    },
+    "instagram": {
+      "caption": "25 miliardi di dollari per un software che scrive codice da solo. Cognition ha chiuso un round da 1 miliardo 🚀 perché il suo Devin non è un assistente: prende un ticket, scrive codice e lo mette in produzione senza che nessuno gli tenga la mano. Nessun hardware, nessuna fabbrica, solo righe di codice valutate più di aziende con stabilimenti reali 🧠. Vuol dire che il tuo team di developer potrebbe competere con uno strumento che costa meno di Netflix al mese 💻. Quanto vale il tempo che perdi sui task ripetitivi? ⏳"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Un miliardo di dollari.",
+          "voiceover": "Hanno dato un miliardo a una software house.",
+          "on_screen_text": "Un miliardo di dollari",
+          "visual_direction": "Testo grande che appare con un effetto di scrittura.",
+          "caption": "Investimenti straordinari nel tech.",
+          "tone": "urgent",
+          "emphasis_word": "miliardo",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Presentiamo Devin.",
+          "voiceover": "Hanno creato Devin, un programmatore AI autonomo.",
+          "on_screen_text": "Devin, il programmatore AI",
+          "visual_direction": "Animazione di Devin che scrive codice.",
+          "caption": "Innovazione senza precedenti.",
+          "tone": "informative",
+          "emphasis_word": "autonomo",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Un valore incredibile.",
+          "voiceover": "Vale venticinque miliardi.",
+          "on_screen_text": "Valore: 25 miliardi",
+          "visual_direction": "Grafica che mostra un aumento di valore.",
+          "caption": "La potenza del software.",
+          "tone": "urgent",
+          "emphasis_word": "venticinque",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Confronta il tuo team.",
+          "voiceover": "Confrontalo con il tuo team adesso.",
+          "on_screen_text": "Confronta ora!",
+          "visual_direction": "Split screen tra Devin e un team di programmatori.",
+          "caption": "Evolvi il tuo lavoro.",
+          "tone": "inspiring",
+          "emphasis_word": "team",
+          "layout": "split"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Inizia oggi.",
+          "voiceover": "Prova gratis. Vedi il divario.",
+          "on_screen_text": "Prova gratis!",
+          "visual_direction": "Testo che pulsa per attirare attenzione.",
+          "caption": "Scopri la differenza.",
+          "tone": "urgent",
+          "emphasis_word": "gratis",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Scopri Devin ora!"
+    }
+  },
+  "instagram_caption": "25 miliardi di dollari per un software che scrive codice da solo. Cognition ha chiuso un round da 1 miliardo 🚀 perché il suo Devin non è un assistente: prende un ticket, scrive codice e lo mette in produzione senza che nessuno gli tenga la mano. Nessun hardware, nessuna fabbrica, solo righe di codice valutate più di aziende con stabilimenti reali 🧠. Vuol dire che il tuo team di developer potrebbe competere con uno strumento che costa meno di Netflix al mese 💻. Quanto vale il tempo che perdi sui task ripetitivi? ⏳",
+  "carousel_slides": [
+    {
+      "hook": "Software da 25 miliardi?",
+      "description": "Cognition raccoglie 1 miliardo e supera la capitalizzazione. Tutto per solo software, niente hardware.",
+      "visual_hint": "Banconote che diventano codice",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Un ingegnere AI autonomo",
+      "description": "Devin non è un copilota: prende ticket, scrive codice e deploya da solo.",
+      "visual_hint": "Codice che si scrive da solo",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "software code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Solo righe di codice",
+      "description": "Nessun brevetto fisico, nessuno stabilimento. Una linea di codice vale più di intere aziende.",
+      "visual_hint": "Codice che sale verso l'alto",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "binary code abstract",
+      "image": "https://images.pexels.com/photos/12623603/pexels-photo-12623603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Quanto costa il tuo team?",
+      "description": "Confronta: quanti sviluppatori servono per fare in un'ora quello che Devin fa? E quanto spendi?",
+      "visual_hint": "Bilancia con soldi e codice",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova gratis, vedi il gap",
+      "description": "Costa meno di un abbonamento Netflix. Prova un task gratuito e misura la differenza.",
+      "visual_hint": "Pollice verso l'alto",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "startup office desk",
+      "image": "https://images.pexels.com/photos/8297862/pexels-photo-8297862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/08/Screenshot-2025-08-05-at-11.02.07AM.png?resize=1200,645",
+  "savedAt": "2026-05-27T18:21:27.787Z",
+  "sourceId": "05063096037a733af0a9aa3350ceb6fa",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
+}
