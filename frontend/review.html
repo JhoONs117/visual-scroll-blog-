@@ -606,33 +606,31 @@
 
         header.appendChild(badges);
 
-        // ── Video plan row ──
+        // ── Video plan row (sempre visibile) ──
         const tmpl   = article.render_template;
         const scenes = article.formats?.video?.scenes;
-        if (tmpl || scenes?.length) {
-          const vpRow = document.createElement('div');
-          vpRow.className = 'vp-row';
+        const vpRow  = document.createElement('div');
+        vpRow.className = 'vp-row';
 
-          const tmplBadge = document.createElement('span');
-          tmplBadge.className = 'vp-tmpl' + (tmpl ? ' has-tmpl' : '');
-          tmplBadge.textContent = '🎬 ' + (tmpl ? tmpl.replace(/_/g, ' ') : '—');
-          vpRow.appendChild(tmplBadge);
+        const tmplBadge = document.createElement('span');
+        tmplBadge.className = 'vp-tmpl' + (tmpl ? ' has-tmpl' : '');
+        tmplBadge.textContent = '🎬 ' + (tmpl ? tmpl.replace(/_/g, ' ') : '—');
+        vpRow.appendChild(tmplBadge);
 
-          if (scenes?.length) {
-            const scBadge = document.createElement('span');
-            scBadge.className = 'vp-scenes';
-            scBadge.textContent = scenes.length + ' scene ✓';
-            vpRow.appendChild(scBadge);
+        if (scenes?.length) {
+          const scBadge = document.createElement('span');
+          scBadge.className = 'vp-scenes';
+          scBadge.textContent = scenes.length + ' scene ✓';
+          vpRow.appendChild(scBadge);
 
-            const exportBtn = document.createElement('button');
-            exportBtn.className = 'vp-export';
-            exportBtn.textContent = '⬇ Esporta piano';
-            exportBtn.addEventListener('click', () => exportVideoPlan(article, exportBtn));
-            vpRow.appendChild(exportBtn);
-          }
-
-          header.appendChild(vpRow);
+          const exportBtn = document.createElement('button');
+          exportBtn.className = 'vp-export';
+          exportBtn.textContent = '⬇ Esporta piano';
+          exportBtn.addEventListener('click', () => exportVideoPlan(article, exportBtn));
+          vpRow.appendChild(exportBtn);
         }
+
+        header.appendChild(vpRow);
 
         // Meta: tempo + link
         const ago = timeAgo(article.pubDate || article.savedAt);
