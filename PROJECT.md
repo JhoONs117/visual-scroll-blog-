@@ -8,7 +8,7 @@ Docs archiviati in `archive/docs/`: FOOD-AGENT.md · REFACTOR-PLAN.md · CONTEXT
 
 ## 1. Stato attuale
 
-**Data:** 2026-05-20 | **Articoli AI:** 141+ unici | **Articoli Food:** 24+ | **Articoli Fitness:** 28+ | **Pipeline:** automatica ogni 2 ore (GitHub Actions) | **Deploy:** Railway
+**Data:** 2026-05-27 | **Articoli AI:** 141+ unici | **Articoli Food:** 24+ | **Articoli Fitness:** 28+ | **Pipeline:** automatica ogni 2 ore (GitHub Actions) | **Deploy:** Railway
 
 | Milestone | Stato | Note |
 |---|---|---|
@@ -57,6 +57,7 @@ Docs archiviati in `archive/docs/`: FOOD-AGENT.md · REFACTOR-PLAN.md · CONTEXT
 | **FASE 16J — simulation_lab** | ✅ Completa | particle simulation Node.js, 5 tipi di fisica |
 | **FASE 16K — wireframe_3d** | ✅ Completa | perspective projection Node.js, 6 shape, neon glow |
 | **FASE 16L — anatomy_motion** | ✅ Completa (2026-05-26) | Blender EEVEE headless + BodyParts3D (54 OBJ, CC BY 4.0) + emissive glow + TTS. `defaultVideoTemplate` fitness. Video squat explainer funzionante. |
+| **Separazione render video** | ✅ Completa (2026-05-27) | Render 100% locale, non tracciato in git. `review.html`: riga video-plan con badge template + "⬇ Esporta piano" (client-side JSON download). Template Cat 3 (Blender) rimangono solo locali. |
 | **FASE 16M — product_xray** | 📋 Da implementare | — |
 | **FASE 16N — lowpoly_3d** | 📋 Da implementare | — |
 | **Refactor FASE 12 — Automazione publish** | 🔒 Bloccata | Instagram: account ristretto da Meta (impossibile creare App developer). TikTok sandbox ✅. X API Free non permette POST. |
@@ -814,3 +815,28 @@ PYTHONPATH=~/.local/lib/python3.12/site-packages \
 **⚠️ Da rivedere:** qualità visiva del render (squat frame, posizionamento camera, valori rotazione bones in SQUAT_KEYFRAMES).
 
 **FASE 16M–16N** (product_xray, lowpoly_3d) — non ancora implementate.
+
+---
+
+### Separazione render video ✅ (2026-05-27)
+
+**Obiettivo:** rendere il render video completamente locale e separato dalla pipeline CI/Railway.
+
+**Cosa è cambiato:**
+- I template Blender (Cat 3) e i file di test video **non vengono più committati in git** — rimangono solo in locale WSL
+- `review.html` ora mostra una riga video-plan sotto ogni articolo: badge template, badge scene count, bottone **"⬇ Esporta piano"**
+- Il bottone scarica `video-plan-<slug>.json` (client-side, vanilla JS, no server) pronto per essere passato al render tool locale
+- Il render MP4 avviene completamente in locale e non viene pushato su Railway
+
+**JSON esportato da "⬇ Esporta piano":**
+```json
+{ "slug": "...", "agent": "fitness", "title": "...", "template": "exercise_motion_anatomy", "quality": "low", "scenes": [...] }
+```
+
+**Architettura risultante:**
+```
+GitHub Actions → genera scenes → commit JSON
+Railway        → serve frontend + API (nessun render)
+WSL locale     → render-pending.js / tool esterno → MP4
+review.html    → ⬇ Esporta piano → video-plan.json → tool esterno
+```

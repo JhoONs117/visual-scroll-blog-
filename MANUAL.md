@@ -33,6 +33,7 @@ Non è necessario capire tutto il codice: ogni sezione indica esattamente quale 
 24. [Come generare video (render-video.js)](#24-come-generare-video)
 25. [Come pubblicare su TikTok](#25-come-pubblicare-su-tiktok)
 30. [Come generare video V2 (pipeline slide-deck)](#30-come-generare-video-v2)
+32. [Flusso video locale — export piano e render separato](#32-flusso-video-locale--export-piano-e-render-separato)
 26. [Come pubblicare su Instagram](#26-come-pubblicare-su-instagram)
 27. [Come pubblicare su X (Twitter)](#27-come-pubblicare-su-x-twitter)
 28. [Come usare lo scheduler (tutti i canali)](#28-come-usare-lo-scheduler)
@@ -1606,3 +1607,99 @@ node video/test-template.js --template anatomy_motion
 - `OPENAI_API_KEY` configurato nei GitHub Actions secrets
 - **Audio:** OpenAI TTS genera audio a 24kHz → ricampionato a 44100Hz in concat per compatibilità browser
 - **CI push:** usa `git pull --rebase --autostash` per evitare rejected quando Railway ha pushato in parallelo
+
+---
+
+## 32. Flusso video locale — export piano e render separato
+
+> Aggiornato 2026-05-27. Sostituisce il vecchio flusso "render-pending.js → push MP4 su Railway".
+
+### Architettura
+
+Il render video è ora **completamente separato** dal progetto principale (niente MP4 su Railway, niente template Blender in git).
+
+```
+GitHub Actions (CI)
+└─ generate-video-plan.js → scrive formats.video.scenes nell'articolo JSON → commit
+
+Railway (server)
+└─ serve review.html + API endpoints (nessun render)
+
+Browser → review.html
+└─ riga video: 🎬 template | N scene ✓ | ⬇ Esporta piano
+   └─ click → scarica video-plan-<slug>.json (client-side, vanilla JS)
+
+WSL locale
+└─ render tool (render-pending.js o tool esterno) → legge JSON → MP4
+```
+
+### Come esportare un piano video
+
+1. Apri `review.html` (su Railway o in locale)
+2. Trova l'articolo — se ha un piano video, vedrai sotto i badge:
+   ```
+   🎬 exercise motion anatomy  |  5 scene ✓  |  ⬇ Esporta piano
+   ```
+3. Click **"⬇ Esporta piano"** → scarica `video-plan-<slug>.json`
+4. Il bottone mostra "✓ Scaricato" per 2 secondi come conferma
+
+> La riga video-plan appare solo se `render_template` è impostato o se ci sono scene generate.  
+> Il bottone "⬇ Esporta piano" appare solo se `formats.video.scenes.length > 0`.
+
+### Struttura del JSON esportato
+
+```json
+{
+  "slug":     "squat-per-i-glutei",
+  "agent":    "fitness",
+  "title":    "Lo squat perfetto: muscoli e tecnica",
+  "template": "exercise_motion_anatomy",
+  "quality":  "low",
+  "scenes": [
+    {
+      "scene": 1,
+      "voiceover": "...",
+      "duration_sec": 8,
+      "active_muscles": ["quadriceps", "glutes"],
+      "animation_mode": "squat_loop",
+      "camera": "side",
+      "highlight_color": "#e53e3e",
+      "label": "QUADRICIPITI"
+    }
+    ...
+  ]
+}
+```
+
+### Cosa rimane in git vs cosa è solo locale
+
+| File/cartella | In git (Railway) | Solo locale |
+|---|---|---|
+| `video/generate-video-plan.js` | ✅ | — |
+| `video/render-pending.js` | ✅ | — |
+| `video/templates/` Cat 1+2 (SVG/FFmpeg) | ✅ | — |
+| `video/templates/` Cat 3 (Blender) | ❌ | ✅ |
+| `video/assets/blender/` | ❌ | ✅ |
+| `video/test-template.js` | ❌ | ✅ |
+| `output/renders/*.mp4` | ❌ | ✅ |
+| `frontend/review.html` (con export btn) | ✅ | — |
+
+### Generare il piano per un articolo specifico (CLI)
+
+Se l'articolo non ha ancora le scene (campo `formats.video.scenes` vuoto), generale localmente:
+
+```bash
+node video/generate-video-plan.js --agent fitness --slug squat-per-i-glutei
+```
+
+Poi apri `review.html` → "⬇ Esporta piano".
+
+### Render con render-pending.js (locale)
+
+Se vuoi usare il vecchio `render-pending.js` invece del tool esterno:
+
+```bash
+node video/render-pending.js --agent fitness
+```
+
+Prerequisiti: Blender 4.0.2 in `/usr/bin/blender`, numpy in `~/.local/lib/python3.12/site-packages/`, OPENAI_API_KEY in `.env`.
