@@ -1421,19 +1421,150 @@ Il file JSON in `output/` ha sempre il formato `{timestamp}_{slug}.json`. Lo slu
 | `video/render-pending.js` | Batch: trova e renderizza tutti gli articoli pronti |
 | `video/templates/slide-deck.js` | Template: animazione zoompan + TTS OpenAI + subtitle |
 | `video/templates/kinetic-typography.js` | Template: testo animato (FFmpeg drawtext) + TTS OpenAI |
+| `video/templates/data-story.js` | Template: grafici SVG bar/line/counter/comparison |
+| `video/templates/timeline-motion.js` | Template: linea del tempo SVG eventi reveal |
+| `video/templates/network-graph.js` | Template: nodi/edge SVG opacity reveal |
+| `video/templates/minimal-documentary.js` | Template: Pexels + Ken Burns + vignette |
+| `video/templates/code-terminal.js` | Template: typing SVG + syntax highlight |
+| `video/templates/whiteboard.js` | Template: stroke-dashoffset + arrowhead smart connector |
+| `video/templates/isometric-workflow.js` | Template: blocchi 3D-illusion SVG + ImageMagick |
+| `video/templates/map-explainer.js` | Template: GeoJSON Natural Earth + proiezione Mercatore |
+| `video/templates/parallax-25d.js` | Template: Pexels + FFmpeg crop dinamico |
+| `video/templates/simulation-lab.js` | Template: particle simulation Node.js, 5 tipi |
+| `video/templates/wireframe-3d.js` | Template: perspective projection Node.js, 6 shape |
+| `video/templates/anatomy-motion.js` | Template: Blender EEVEE headless + BodyParts3D |
+| `video/assets/blender/anatomy/skeleton_full.blend` | 54 muscoli BodyParts3D, 9 gruppi, EEVEE bloom (14 MB) |
+| `video/assets/blender/anatomy/setup_anatomy_blend.py` | Ricostruisce skeleton_full.blend da ZIP sorgente |
+| `video/assets/blender/anatomy/render_scene.py` | Renderizza una scena da params.json via Blender |
 
 ### Template video
 
-| Template | Label UI | Stato | Descrizione |
-|---|---|---|---|
-| `slide_deck` | Slideshow | ✅ | Slide carousel animate con zoom/pan + TTS. Richiede PNG (💾 Salva per video). |
-| `kinetic_typography` | Kinetic Text | ✅ | Testo animato su sfondo solido + TTS. Non richiede PNG. |
-| `data_story` | Data Story | ✅ | Grafici animati (bar/line/counter/comparison) + TTS. Non richiede PNG. |
-| `timeline_motion` | Timeline | ✅ | Linea del tempo con eventi che appaiono + TTS. Non richiede PNG. |
-| `network_graph` | Network Graph | ✅ | Nodi e connessioni animati in SVG + TTS. Non richiede PNG. |
-| `minimal_documentary` | Documentary | ✅ | Immagini Pexels dall'articolo + Ken Burns + vignette + TTS. Non richiede PNG. |
-| `recipe_assembly` | Recipe Assembly | 🔲 stub | Non ancora implementato |
-| `anatomy_motion` | Anatomy Motion | 🔲 stub | Non ancora implementato (richiede Blender) |
+| Template | Label UI | Stato | Agenti | Descrizione |
+|---|---|---|---|---|
+| `slide_deck` | Slideshow | ✅ | ai-news, food, fitness | Slide carousel animate con zoom/pan + TTS. Richiede PNG (💾 Salva per video). |
+| `kinetic_typography` | Kinetic Text | ✅ | ai-news | Testo animato su sfondo solido + TTS. |
+| `data_story` | Data Story | ✅ | ai-news | Grafici animati SVG (bar/line/counter/comparison) + TTS. |
+| `timeline_motion` | Timeline | ✅ | ai-news | Linea del tempo SVG con eventi che appaiono dall'alto + TTS. |
+| `network_graph` | Network Graph | ✅ | ai-news | Nodi e connessioni SVG con opacity reveal + TTS. |
+| `minimal_documentary` | Documentary | ✅ | ai-news, food, fitness | Immagini Pexels + Ken Burns + vignette + TTS. |
+| `code_terminal` | Terminal | ✅ | ai-news | Typing animation SVG + syntax highlight + cursor blink + TTS. |
+| `whiteboard` | Whiteboard | ✅ | ai-news, food, fitness | Stroke-dashoffset SVG + arrowhead smart connector + TTS. |
+| `isometric_workflow` | Isometric | ✅ | ai-news | Blocchi 3D-illusion SVG, ImageMagick SVG→PNG, frecce dashed + TTS. |
+| `map_explainer` | Map | ✅ | ai-news | GeoJSON Natural Earth, proiezione Mercatore, paesi colorati, route animate + TTS. |
+| `parallax_25d` | Parallax | ✅ | ai-news, food, fitness | Immagini Pexels con FFmpeg crop offset dinamico + TTS. |
+| `simulation_lab` | Simulation | ✅ | ai-news, fitness | Particle simulation Node.js (5 tipi), SVG frames + FFmpeg + TTS. |
+| `wireframe_3d` | Wireframe 3D | ✅ | ai-news | Perspective projection Node.js (6 shape), depth sort + neon glow SVG + TTS. |
+| `anatomy_motion` | Anatomy | ✅ | fitness | Blender EEVEE headless + muscoli BodyParts3D + emissive glow + TTS. Sfondo nero. Fallback kinetic_typography. |
+| `exercise_motion_anatomy` | Exercise Anatomy | ✅ | fitness | Corpo intero FJ2810 + muscoli BSDF color pulse + sfondo bianco + TTS. `defaultVideoTemplate` fitness. Render script: `render_exercise_motion.py`. |
+| `recipe_assembly` | Recipe Assembly | 🔲 stub | food | Non ancora implementato. |
+
+### §31 — anatomy_motion e Blender headless
+
+#### Prerequisiti
+
+- **Blender 4.0.2** installato in WSL: `sudo apt-get install blender` → `/usr/bin/blender`
+- **ZIP BodyParts3D** in `~/Downloads/` (non in git):
+  - `isa_BP3D_4.0_obj_99.zip` (136 MB) — IS-A tree, **2234 OBJ totali** — include tutto il corpo (muscoli, ossa, pelle, organi), non solo i muscoli fitness
+  - `partof_BP3D_4.0_obj_99.zip` (62 MB) — PART-OF tree, 1258 OBJ
+- **`skeleton_full.blend`** già presente in `video/assets/blender/anatomy/` (**26 MB** — include FJ2810 body skin, già committato)
+
+**Contenuto chiave ZIP `isa_BP3D_4.0_obj_99.zip` (verificato 2026-05-26):**
+
+| FJ ID | Struttura | Bounds (coordinate OBJ raw, mm) |
+|---|---|---|
+| `FJ2810` | **Skin completo del corpo umano** — mesh manifold chiusa, 102k vertici, 203k facce | Z: -78 → 1641 mm (1.72 m, piedi→testa) |
+| `FJ3131` | Testa/cranio | Z: 986 → 1193 mm |
+| `FJ3396` | Torace | Z: 820 → 1031 mm |
+
+**FJ2810** è il body base del template `exercise_motion_anatomy` (✅ completato 2026-05-26): corpo intero semitrasparente su sfondo bianco, muscoli BodyParts3D in rosso/arancio BSDF color quando attivi. Stile stock footage medico/fitness — nessun modello esterno.
+
+#### Licenza BodyParts3D
+
+> BodyParts3D © Life Science Integrated Database Center  
+> Licenza: CC BY 4.0 — citare nella descrizione del video pubblicato.
+
+#### Come funziona il template
+
+`anatomy-motion.js` chiama Blender headless per ogni scena:
+
+```bash
+blender --background skeleton_full.blend --python render_scene.py -- params.json
+```
+
+`params.json` contiene:
+```json
+{
+  "body_parts": ["quadriceps", "glutes"],
+  "highlight_color": "#f97316",
+  "camera_angle": "front",
+  "duration_sec": 5,
+  "animation_type": "strength_contract",
+  "intensity": "high",
+  "render_fps": 5
+}
+```
+
+`render_scene.py` mostra le collezioni `grp_{group_name}` richieste, applica materiale emissivo con keyframe per `animation_type`, usa la camera nominata (`cam_front/side/back/close_up`), e renderizza `/tmp/anatomy_frames/frame_0001.png` ... `frame_NNNN.png`.
+
+FFmpeg assembla i frame a 5fps → output a 25fps (duplica ogni frame 5×).  
+Timeout per scena: 15 min. Velocità: ~5 s/frame × 25 frame = ~125 s/scena.
+
+#### Gruppi muscolari disponibili
+
+Floor-align usa `body_skin` come riferimento → piede Z=0.05 m, testa Z=1.77 m, center Z=0.91 m.
+
+| body_part | Muscoli inclusi | Z range (post floor-align) |
+|---|---|---|
+| `body_skin` | FJ2810 — mesh skin completo (102k verts) | 0.050–1.769 m |
+| `calves` | gastrocnemio (lat/med) + soleo | 0.161–0.560 m |
+| `hamstrings` | bicipite femorale (lunga/corta), semitendinoso, semimembranoso | 0.411–0.893 m |
+| `quadriceps` | retto femorale, vasto lat/med/inter | 0.443–0.999 m |
+| `glutes` | gluteo max/med/min | 0.796–1.079 m |
+| `biceps` | bicipite brachiale (lunga/corta) | ~1.12–1.47 m |
+| `triceps` | tricipite brachiale (lat/lunga/med) | ~1.16–1.43 m |
+| `pecs` | grande pettorale (zona/clavicolare/sternocostale) | ~1.24–1.46 m |
+| `shoulders` | deltoide (zona/clavicolare) | ~1.33–1.48 m |
+| `trapezius` | trapezio (zona/ascendente/discendente) | 1.182–1.634 m |
+
+#### Tipi di animazione
+
+| animation_type | Effetto visivo |
+|---|---|
+| `highlight_muscles` | Ramp-up rapido poi sustain (default per squat/sollevamento) |
+| `strength_contract` | Identico a highlight_muscles — per esplosioni di forza |
+| `running_motion` | Onda sinusoidale alternata L/R — per corsa/cardio |
+| `organ_pulse` | Doppio impulso cardiaco ripetuto — per cuore/polmoni |
+| `calm_pulse` | Fade in/out lento sinusoidale — per stretching/yoga |
+| `stress_point` | Flicker rapido → sustain alta intensità — per infortuni/overuse |
+
+#### Ricostruire skeleton_full.blend (se si cambia modello)
+
+```bash
+# Richiede isa_BP3D_4.0_obj_99.zip in ~/Downloads/
+blender --background --python video/assets/blender/anatomy/setup_anatomy_blend.py
+# Output: video/assets/blender/anatomy/skeleton_full.blend (14 MB)
+```
+
+Lo script `setup_anatomy_blend.py`:
+1. Estrae i 54 OBJ necessari dalla ZIP in una dir temporanea
+2. Applica la correzione coordinate: `Scale(0.001)` (mm→m) + `obj.rotation_euler = (0,0,0)` (fix asse Y-up→Z-up del formato OBJ)
+3. Organizza i mesh in collezioni `grp_quadriceps`, `grp_glutes`, ecc.
+4. Assegna materiali emissivi (scuri a riposo, arancione a massima intensità)
+5. Configura luci 3-point + rim light, 4 camere nominali, EEVEE bloom
+6. Salva come `skeleton_full.blend`
+
+#### Fallback automatico
+
+Se Blender non è installato o `skeleton_full.blend` non esiste, `anatomy-motion.js` usa automaticamente il fallback `kinetic_typography` con colori fitness.  
+Non serve configurazione — il fallback è trasparente.
+
+#### Test locale
+
+```bash
+node video/test-template.js --template anatomy_motion
+# Output: output/renders/test-anatomy_motion.mp4
+# 5 scene: polpacci → quadricipiti → femorali → glutei → tutti i muscoli
+```
 
 ### Endpoint server aggiunti (server.js)
 

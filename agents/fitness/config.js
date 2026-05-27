@@ -100,8 +100,8 @@ module.exports = {
 
   channels: ['x', 'instagram', 'tiktok'],
 
-  videoTemplates: ['slide_deck', 'minimal_documentary', 'anatomy_motion', 'whiteboard'],
-  defaultVideoTemplate: 'slide_deck',
+  videoTemplates: ['slide_deck', 'minimal_documentary', 'anatomy_motion', 'exercise_motion_anatomy', 'whiteboard', 'parallax_25d', 'simulation_lab'],
+  defaultVideoTemplate: 'exercise_motion_anatomy',
   videoPalette: { bg: '#0a0f0a', text: '#f0fdf4', accent: '#22c55e' },
 
   prompts: {

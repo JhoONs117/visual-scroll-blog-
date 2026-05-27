@@ -4,6 +4,24 @@
 Contesto: `PROJECT.md` + `MANUAL.md` + `FASE15-video-template-engine.md`
 Stato precedente: FASE 15 ✅ completa — architettura modulare + kinetic_typography operativi
 
+**Stato aggiornato al 2026-05-26:**
+| Template | Stato |
+|---|---|
+| 16A data_story | ✅ Completo |
+| 16B timeline_motion | ✅ Completo |
+| 16C network_graph | ✅ Completo |
+| 16D minimal_documentary | ✅ Completo |
+| 16E code_terminal | ✅ Completo |
+| 16F whiteboard | ✅ Completo |
+| 16G isometric_workflow | ✅ Completo |
+| 16H map_explainer | ✅ Completo (con fix: ISO fallback ADM0_TO_ISO2, viewBox 9:16, micro-stati, centroide Francia) |
+| 16I parallax_25d | ✅ Completo (bug fix: virgole in min()/max() escapate come `\,` nella FFmpeg vf chain) |
+| 16J simulation_lab | ✅ Completo (2026-05-25) — particle simulation pura Node.js, 5 tipi: particle_spread/network_form/agent_decision/data_flow/cluster_emerge |
+| 16K wireframe_3d | ✅ Completo (2026-05-25) — perspective projection pura Node.js, 6 shape: cube/sphere_grid/pyramid/neural_net/data_grid/torus, depth sort + neon glow |
+| 16L anatomy_motion | 🔄 STEP 1 ✅ (2026-05-26) — asset Blender creati · STEP 2 da fare (anatomy-motion.js) |
+| 16M product_xray | 📋 Da fare (richiede Blender) |
+| 16N lowpoly_3d | 📋 Da fare (richiede Blender) |
+
 ---
 
 ## Premessa
@@ -1282,6 +1300,15 @@ Qualità render Blender per MVP:
 - `video/templates/anatomy-motion.js`
 - `video/assets/blender/anatomy/render_scene.py`
 
+**STEP 1 — ✅ Completo (2026-05-26)**
+
+Asset creati in `video/assets/blender/anatomy/`:
+- `render_scene.py` (8.6 KB) — script Blender: legge params.json, nasconde tutto, mostra body_parts, applica emissivo + keyframe per animation_type, setta camera, renderizza in `/tmp/anatomy_frames/`
+- `create_skeleton.py` (13 KB) — script per generare il .blend (eseguire una volta sola con Blender)
+- `skeleton_full.blend` (1.2 MB) — modello generato con Blender 4.0.2 EEVEE, 16 body_parts + skeleton_base, tutti nascosti per default
+
+Blender 4.0.2 installato in WSL2 (`/usr/bin/blender`). Test end-to-end: 50 frame 1080×1920 PNG renderizzati in ~45s, body_parts quadriceps+hamstrings+glutes evidenziati in verde, 0 errori. Velocità: ~0.9s/frame CPU-only EEVEE samples=16.
+
 **Prompt Claude Code (STEP 1 — asset Blender):**
 ```
 Progetto: /home/miki/visual-scroll-blog
@@ -1815,6 +1842,17 @@ FAKE_SCENES['simulation_lab'] = [{
 □ Aggiungere a carousel.html → TEMPLATE_LABELS{}
 □ Test end-to-end con articolo reale (opzionale per MVP)
 ```
+
+> ⚠️ **Bug noto — pipeline CI dopo aggiunta template**
+>
+> Dopo aver aggiunto un template, la CI può fallire con exit 1. Causa tipica: codice a
+> top level nel file template (fuori da `render()`) che viene eseguito quando
+> `video/generate-video-plan.js` fa `require('./templates')`.
+>
+> **Regola:** tutto il codice operativo (download GeoJSON, connessioni di rete, ecc.) deve
+> stare **dentro** `render()` o in funzioni chiamate da essa — mai a top level del modulo.
+> Stesso vale per qualsiasi file JS con side-effect: wrappare sempre l'IIFE di test con
+> `if (require.main === module) { ... }`.
 
 ---
 

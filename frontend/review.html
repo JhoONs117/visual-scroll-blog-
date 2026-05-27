@@ -269,6 +269,39 @@
     .quality-select.has-quality { border-color: #3b82f6; color: #60a5fa; }
     .quality-select.is-done     { border-color: #16a34a; color: #4ade80; }
 
+    /* ── Video plan row ── */
+    .vp-row {
+      flex-basis: 100%;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.4rem;
+    }
+    .vp-tmpl {
+      font-size: 0.68rem; font-weight: 600;
+      padding: 0.2rem 0.5rem; border-radius: 4px;
+      border: 1px solid #2d3748; color: #4b5563;
+      white-space: nowrap;
+    }
+    .vp-tmpl.has-tmpl { border-color: #4338ca; color: #818cf8; }
+    .vp-scenes {
+      font-size: 0.68rem; font-weight: 700;
+      padding: 0.2rem 0.5rem; border-radius: 4px;
+      background: #14532d; border: 1px solid #166534; color: #86efac;
+      white-space: nowrap;
+    }
+    .vp-export {
+      background: transparent; border: 1px solid #1d4ed8; color: #60a5fa;
+      border-radius: 4px; padding: 0.2rem 0.65rem; font-size: 0.7rem;
+      font-weight: 700; letter-spacing: 0.04em; cursor: pointer;
+      white-space: nowrap;
+      transition: background 0.15s, color 0.15s;
+    }
+    .vp-export:hover  { background: #1e3a8a; color: #bfdbfe; }
+    .vp-export:active { background: #1d4ed8; }
+    .vp-export.copied { border-color: #16a34a; color: #4ade80; }
+
     /* ── Progress bar FASE 12 ── */
     #phase12-bar {
       font-size: 0.75rem;
@@ -436,6 +469,31 @@
       }
     }
 
+    function exportVideoPlan(article, btn) {
+      const scenes = article.formats?.video?.scenes;
+      if (!scenes?.length) return;
+      const plan = {
+        slug:     article.slug     || '',
+        agent:    article.agent    || 'ai-news',
+        title:    article.title    || '',
+        template: article.render_template || '',
+        quality:  article.render_quality  || '',
+        scenes,
+      };
+      const blob = new Blob([JSON.stringify(plan, null, 2)], { type: 'application/json' });
+      const a    = document.createElement('a');
+      a.href     = URL.createObjectURL(blob);
+      a.download = 'video-plan-' + article.slug + '.json';
+      a.click();
+      setTimeout(() => URL.revokeObjectURL(a.href), 15000);
+      if (btn) {
+        const prev = btn.textContent;
+        btn.textContent = '✓ Scaricato';
+        btn.classList.add('copied');
+        setTimeout(() => { btn.textContent = prev; btn.classList.remove('copied'); }, 2000);
+      }
+    }
+
     const root         = document.getElementById('root');
     const counter      = document.getElementById('counter');
     const reviewTitle  = document.getElementById('review-title');
@@ -547,6 +605,34 @@
         }
 
         header.appendChild(badges);
+
+        // ── Video plan row ──
+        const tmpl   = article.render_template;
+        const scenes = article.formats?.video?.scenes;
+        if (tmpl || scenes?.length) {
+          const vpRow = document.createElement('div');
+          vpRow.className = 'vp-row';
+
+          const tmplBadge = document.createElement('span');
+          tmplBadge.className = 'vp-tmpl' + (tmpl ? ' has-tmpl' : '');
+          tmplBadge.textContent = '🎬 ' + (tmpl ? tmpl.replace(/_/g, ' ') : '—');
+          vpRow.appendChild(tmplBadge);
+
+          if (scenes?.length) {
+            const scBadge = document.createElement('span');
+            scBadge.className = 'vp-scenes';
+            scBadge.textContent = scenes.length + ' scene ✓';
+            vpRow.appendChild(scBadge);
+
+            const exportBtn = document.createElement('button');
+            exportBtn.className = 'vp-export';
+            exportBtn.textContent = '⬇ Esporta piano';
+            exportBtn.addEventListener('click', () => exportVideoPlan(article, exportBtn));
+            vpRow.appendChild(exportBtn);
+          }
+
+          header.appendChild(vpRow);
+        }
 
         // Meta: tempo + link
         const ago = timeAgo(article.pubDate || article.savedAt);
