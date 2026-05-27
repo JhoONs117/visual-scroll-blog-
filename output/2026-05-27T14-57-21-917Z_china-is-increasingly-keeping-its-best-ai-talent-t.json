@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "china-is-increasingly-keeping-its-best-ai-talent-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "China is increasingly keeping its best AI talent to itself",
+  "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+  "pubDate": "Wed, 27 May 2026 13:48:41 +0000",
+  "slides": [
+    "China's top AI talent stays home now—who will lead?",
+    "Only 1 in 5 Chinese PhDs leave for the US today.",
+    "This reverses a decade-long brain drain trend entirely.",
+    "Foreign labs lose edge without these critical thinkers.",
+    "Your next competitor skill gap starts in Beijing now."
+  ],
+  "thread_text": [
+    "Only 1 in 5 Chinese AI PhDs now leaves for the US. That number used to be closer to 1 in 2.",
+    "For a decade, the West drained China’s top AI talent. American labs were built on those PhDs.",
+    "That pipeline just snapped. Chinese graduates now stay home to build domestic AI giants.",
+    "Foreign labs aren't just losing students—they're losing the next generation of critical thinkers.",
+    "Your next competitor's R&D advantage is being built in Beijing right now. What's your countermove?"
+  ],
+  "video_script": [
+    "Only one in five Chinese AI PhDs leaves for the US now.",
+    "For ten years, it was nearly half.",
+    "That pipeline just closed.",
+    "Western labs lose their edge without these critical thinkers.",
+    "Your next competitor starts in Beijing today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Only 1 in 5 Chinese AI PhDs now leaves for the US. That number used to be closer to 1 in 2.",
+        "For a decade, the West drained China’s top AI talent. American labs were built on those PhDs.",
+        "That pipeline just snapped. Chinese graduates now stay home to build domestic AI giants.",
+        "Foreign labs aren't just losing students—they're losing the next generation of critical thinkers.",
+        "Your next competitor's R&D advantage is being built in Beijing right now. What's your countermove?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Only one in five Chinese AI PhDs leaves for the US now.",
+        "For ten years, it was nearly half.",
+        "That pipeline just closed.",
+        "Western labs lose their edge without these critical thinkers.",
+        "Your next competitor starts in Beijing today."
+      ]
+    },
+    "instagram": {
+      "caption": "Dieci anni fa metà dei migliori dottorandi cinesi di AI partiva per gli Stati Uniti. Oggi solo uno su cinque lascia il paese: il resto resta in Cina a costruire le proprie aziende tech. Questo ribalta un decennio di fuga di cervelli, e i laboratori stranieri perdono i talenti che li rendevano leader. Per chi lavora nel settore significa un avversario più preparato e meno prevedibile, con un vantaggio costruito a Pechino. Tu come ti stai preparando alla prossima generazione di competitor?"
+    }
+  },
+  "instagram_caption": "Dieci anni fa metà dei migliori dottorandi cinesi di AI partiva per gli Stati Uniti. Oggi solo uno su cinque lascia il paese: il resto resta in Cina a costruire le proprie aziende tech. Questo ribalta un decennio di fuga di cervelli, e i laboratori stranieri perdono i talenti che li rendevano leader. Per chi lavora nel settore significa un avversario più preparato e meno prevedibile, con un vantaggio costruito a Pechino. Tu come ti stai preparando alla prossima generazione di competitor?",
+  "carousel_slides": [
+    {
+      "hook": "Who will lead now?",
+      "description": "Only 1 in 5 Chinese PhDs leaves for the US today, reversing a decade-long brain drain trend.",
+      "visual_hint": "Globe map with arrows",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "world map arrows"
+    },
+    {
+      "hook": "The pipeline just snapped.",
+      "description": "For a decade, the West drained China's top AI talent. That pipeline just snapped.",
+      "visual_hint": "Broken pipeline metaphor",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "broken pipe industrial",
+      "image": "https://images.pexels.com/photos/8839653/pexels-photo-8839653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Foreign labs lose edge.",
+      "description": "Foreign labs aren't just losing students—they're losing the next generation of critical thinkers.",
+      "visual_hint": "Empty lab bench",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "empty laboratory bench",
+      "image": "https://images.pexels.com/photos/8940480/pexels-photo-8940480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Built in Beijing right now.",
+      "description": "Your next competitor's R&D advantage is being built in Beijing right now. What's your countermove?",
+      "visual_hint": "Beijing skyline modern",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "Beijing skyline skyscrapers",
+      "image": "https://images.pexels.com/photos/36541899/pexels-photo-36541899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your skill gap starts now.",
+      "description": "Your next competitor skill gap starts in Beijing now. Plan your move.",
+      "visual_hint": "Chart showing gap",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/china-flag-shanghai.jpg?resize=1200,801",
+  "savedAt": "2026-05-27T14:57:58.538Z",
+  "sourceId": "c631a36e278f784433bf6486cc8a1973"
+}

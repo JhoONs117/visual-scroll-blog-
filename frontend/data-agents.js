@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "china-is-increasingly-keeping-its-best-ai-talent-t",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "China is increasingly keeping its best AI talent to itself",
+      "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+      "pubDate": "Wed, 27 May 2026 13:48:41 +0000",
+      "slides": [
+        "China's top AI talent stays home now—who will lead?",
+        "Only 1 in 5 Chinese PhDs leave for the US today.",
+        "This reverses a decade-long brain drain trend entirely.",
+        "Foreign labs lose edge without these critical thinkers.",
+        "Your next competitor skill gap starts in Beijing now."
+      ],
+      "thread_text": [
+        "Only 1 in 5 Chinese AI PhDs now leaves for the US. That number used to be closer to 1 in 2.",
+        "For a decade, the West drained China’s top AI talent. American labs were built on those PhDs.",
+        "That pipeline just snapped. Chinese graduates now stay home to build domestic AI giants.",
+        "Foreign labs aren't just losing students—they're losing the next generation of critical thinkers.",
+        "Your next competitor's R&D advantage is being built in Beijing right now. What's your countermove?"
+      ],
+      "video_script": [
+        "Only one in five Chinese AI PhDs leaves for the US now.",
+        "For ten years, it was nearly half.",
+        "That pipeline just closed.",
+        "Western labs lose their edge without these critical thinkers.",
+        "Your next competitor starts in Beijing today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Only 1 in 5 Chinese AI PhDs now leaves for the US. That number used to be closer to 1 in 2.",
+            "For a decade, the West drained China’s top AI talent. American labs were built on those PhDs.",
+            "That pipeline just snapped. Chinese graduates now stay home to build domestic AI giants.",
+            "Foreign labs aren't just losing students—they're losing the next generation of critical thinkers.",
+            "Your next competitor's R&D advantage is being built in Beijing right now. What's your countermove?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Only one in five Chinese AI PhDs leaves for the US now.",
+            "For ten years, it was nearly half.",
+            "That pipeline just closed.",
+            "Western labs lose their edge without these critical thinkers.",
+            "Your next competitor starts in Beijing today."
+          ]
+        },
+        "instagram": {
+          "caption": "Dieci anni fa metà dei migliori dottorandi cinesi di AI partiva per gli Stati Uniti. Oggi solo uno su cinque lascia il paese: il resto resta in Cina a costruire le proprie aziende tech. Questo ribalta un decennio di fuga di cervelli, e i laboratori stranieri perdono i talenti che li rendevano leader. Per chi lavora nel settore significa un avversario più preparato e meno prevedibile, con un vantaggio costruito a Pechino. Tu come ti stai preparando alla prossima generazione di competitor?"
+        }
+      },
+      "instagram_caption": "Dieci anni fa metà dei migliori dottorandi cinesi di AI partiva per gli Stati Uniti. Oggi solo uno su cinque lascia il paese: il resto resta in Cina a costruire le proprie aziende tech. Questo ribalta un decennio di fuga di cervelli, e i laboratori stranieri perdono i talenti che li rendevano leader. Per chi lavora nel settore significa un avversario più preparato e meno prevedibile, con un vantaggio costruito a Pechino. Tu come ti stai preparando alla prossima generazione di competitor?",
+      "carousel_slides": [
+        {
+          "hook": "Who will lead now?",
+          "description": "Only 1 in 5 Chinese PhDs leaves for the US today, reversing a decade-long brain drain trend.",
+          "visual_hint": "Globe map with arrows",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "world map arrows"
+        },
+        {
+          "hook": "The pipeline just snapped.",
+          "description": "For a decade, the West drained China's top AI talent. That pipeline just snapped.",
+          "visual_hint": "Broken pipeline metaphor",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "broken pipe industrial",
+          "image": "https://images.pexels.com/photos/8839653/pexels-photo-8839653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Foreign labs lose edge.",
+          "description": "Foreign labs aren't just losing students—they're losing the next generation of critical thinkers.",
+          "visual_hint": "Empty lab bench",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "empty laboratory bench",
+          "image": "https://images.pexels.com/photos/8940480/pexels-photo-8940480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Built in Beijing right now.",
+          "description": "Your next competitor's R&D advantage is being built in Beijing right now. What's your countermove?",
+          "visual_hint": "Beijing skyline modern",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "Beijing skyline skyscrapers",
+          "image": "https://images.pexels.com/photos/36541899/pexels-photo-36541899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your skill gap starts now.",
+          "description": "Your next competitor skill gap starts in Beijing now. Plan your move.",
+          "visual_hint": "Chart showing gap",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/china-flag-shanghai.jpg?resize=1200,801",
+      "savedAt": "2026-05-27T14:57:58.538Z",
+      "sourceId": "c631a36e278f784433bf6486cc8a1973"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "elevenlabs-s-new-music-generation-model-can-switch",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "ElevenLabs’s new music generation model can switch genres mid-track",
+      "link": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+      "pubDate": "Wed, 27 May 2026 14:14:10 +0000",
+      "slides": [
+        "ElevenLabs fa cambiare genere a un brano a metà traccia?",
+        "Il modello genera musica da testo o melodie.",
+        "Non imita artisti, ma crea stili nuovi al volo.",
+        "Produttori, testate ora: il flusso creativo cambia.",
+        "Una canzone ibrida che non esisteva prima."
+      ],
+      "thread_text": [
+        "Un modello AI che cambia genere musicale a metà di un brano, passando da jazz a trap senza interruzione. Non è un effetto, è la struttura stessa della traccia che si trasforma in tempo reale.",
+        "Il sistema non si limita a imitare artisti esistenti. Prende un prompt testuale o una melodia e genera uno stile che non esisteva prima, al volo, senza dover addestrare un modello specifico.",
+        "Stai producendo un beat e ti serve un bridge che suoni come un crossover tra bossa nova e industrial? Lo generi in secondi. Il punto non è sostituirti, ma darti un collaboratore che lavora alla velocità del pensiero.",
+        "I primi produttori che lo stanno testando dicono che il flusso cambia radicalmente: non passi ore a cercare il sample giusto, ma descrivi cosa vuoi e l'AI lo assembla mentre mantieni il controllo sulle varianti.",
+        "L'output è una canzone ibrida che non è catalogabile in nessun genere esistente. Costa meno di un abbonamento Spotify. Se sei un produttore, testala su un progetto che hai abbandonato per mancanza di idee."
+      ],
+      "video_script": [
+        "Immagina una canzone che cambia genere da sola.",
+        "Parte jazz, poi diventa trap.",
+        "Non è un remix, è l'AI che lo decide.",
+        "Gli dai testo o melodia e crea stili nuovi.",
+        "Non copia nessun artista, inventa al volo."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Un modello AI che cambia genere musicale a metà di un brano, passando da jazz a trap senza interruzione. Non è un effetto, è la struttura stessa della traccia che si trasforma in tempo reale.",
+            "Il sistema non si limita a imitare artisti esistenti. Prende un prompt testuale o una melodia e genera uno stile che non esisteva prima, al volo, senza dover addestrare un modello specifico.",
+            "Stai producendo un beat e ti serve un bridge che suoni come un crossover tra bossa nova e industrial? Lo generi in secondi. Il punto non è sostituirti, ma darti un collaboratore che lavora alla velocità del pensiero.",
+            "I primi produttori che lo stanno testando dicono che il flusso cambia radicalmente: non passi ore a cercare il sample giusto, ma descrivi cosa vuoi e l'AI lo assembla mentre mantieni il controllo sulle varianti.",
+            "L'output è una canzone ibrida che non è catalogabile in nessun genere esistente. Costa meno di un abbonamento Spotify. Se sei un produttore, testala su un progetto che hai abbandonato per mancanza di idee."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Immagina una canzone che cambia genere da sola.",
+            "Parte jazz, poi diventa trap.",
+            "Non è un remix, è l'AI che lo decide.",
+            "Gli dai testo o melodia e crea stili nuovi.",
+            "Non copia nessun artista, inventa al volo."
+          ]
+        },
+        "instagram": {
+          "caption": "ElevenLabs ha lanciato un modello musicale che cambia genere a metà traccia — da jazz a trap, senza stacco 🎵. Non copia artisti: genera stili nuovi da un testo o una melodia, al volo. Se produci musica, puoi creare un bridge che suona come bossa nova incrociata con industrial in pochi secondi ⚡. I produttori che lo testano dicono che il flusso cambia: invece di cercare campioni per ore, descrivi cosa vuoi e l'AI assembla varianti su cui mantieni il controllo 🎛️. Il risultato è una canzone ibrida che non esisteva prima, a un costo inferiore a un abbonamento Spotify. Hai un progetto fermo per mancanza di idee?"
+        }
+      },
+      "instagram_caption": "ElevenLabs ha lanciato un modello musicale che cambia genere a metà traccia — da jazz a trap, senza stacco 🎵. Non copia artisti: genera stili nuovi da un testo o una melodia, al volo. Se produci musica, puoi creare un bridge che suona come bossa nova incrociata con industrial in pochi secondi ⚡. I produttori che lo testano dicono che il flusso cambia: invece di cercare campioni per ore, descrivi cosa vuoi e l'AI assembla varianti su cui mantieni il controllo 🎛️. Il risultato è una canzone ibrida che non esisteva prima, a un costo inferiore a un abbonamento Spotify. Hai un progetto fermo per mancanza di idee?",
+      "carousel_slides": [
+        {
+          "hook": "AI cambia genere a metà brano",
+          "description": "Da jazz a trap senza interruzione: la struttura della traccia si trasforma in tempo reale.",
+          "visual_hint": "spettro audio che si divide in due",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "audio waveform split"
+        },
+        {
+          "hook": "Stili nuovi, non imitazioni",
+          "description": "Prende un prompt o melodia e genera uno stile inedito al volo, senza addestrare modelli specifici.",
+          "visual_hint": "testo che diventa note musicali",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "text to music notes",
+          "image": "https://images.pexels.com/photos/7457658/pexels-photo-7457658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Bossa nova + industrial in secondi",
+          "description": "Genera un bridge crossover mentre produci. Un collaboratore alla velocità del pensiero.",
+          "visual_hint": "due icone di genere che si fondono",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "genre icons merge",
+          "image": "https://images.pexels.com/photos/11994107/pexels-photo-11994107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il flusso creativo cambia",
+          "description": "Produttori: descrivi cosa vuoi e l'AI assembla. Niente più ore perse a cercare il sample giusto.",
+          "visual_hint": "mani su controller e schermo",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "hands on mixer",
+          "image": "https://images.pexels.com/photos/8132802/pexels-photo-8132802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Musica ibrida, costo irrisorio",
+          "description": "Canzone fuori da ogni genere. Costa meno di un abbonamento Spotify. Testala su un progetto abbandonato.",
+          "visual_hint": "telefono con app e cuffie",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "phone with headphones",
+          "image": "https://images.pexels.com/photos/10963855/pexels-photo-10963855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+      "savedAt": "2026-05-27T14:57:42.813Z",
+      "sourceId": "71772329c110ab008a75ae45bfb76cd1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "amazon-fulfillment-competitor-stord-raises-250m-at",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -34120,7 +34328,10 @@ window.AGENT_CONFIGS = {
       "code_terminal",
       "whiteboard",
       "isometric_workflow",
-      "map_explainer"
+      "map_explainer",
+      "parallax_25d",
+      "simulation_lab",
+      "wireframe_3d"
     ],
     "defaultVideoTemplate": "kinetic_typography"
   },
@@ -34129,7 +34340,8 @@ window.AGENT_CONFIGS = {
       "slide_deck",
       "minimal_documentary",
       "recipe_assembly",
-      "whiteboard"
+      "whiteboard",
+      "parallax_25d"
     ],
     "defaultVideoTemplate": "slide_deck"
   },
@@ -34138,8 +34350,11 @@ window.AGENT_CONFIGS = {
       "slide_deck",
       "minimal_documentary",
       "anatomy_motion",
-      "whiteboard"
+      "exercise_motion_anatomy",
+      "whiteboard",
+      "parallax_25d",
+      "simulation_lab"
     ],
-    "defaultVideoTemplate": "slide_deck"
+    "defaultVideoTemplate": "exercise_motion_anatomy"
   }
 };

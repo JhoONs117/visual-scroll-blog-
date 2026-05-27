@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "elevenlabs-s-new-music-generation-model-can-switch",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ElevenLabs’s new music generation model can switch genres mid-track",
+  "link": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+  "pubDate": "Wed, 27 May 2026 14:14:10 +0000",
+  "slides": [
+    "ElevenLabs fa cambiare genere a un brano a metà traccia?",
+    "Il modello genera musica da testo o melodie.",
+    "Non imita artisti, ma crea stili nuovi al volo.",
+    "Produttori, testate ora: il flusso creativo cambia.",
+    "Una canzone ibrida che non esisteva prima."
+  ],
+  "thread_text": [
+    "Un modello AI che cambia genere musicale a metà di un brano, passando da jazz a trap senza interruzione. Non è un effetto, è la struttura stessa della traccia che si trasforma in tempo reale.",
+    "Il sistema non si limita a imitare artisti esistenti. Prende un prompt testuale o una melodia e genera uno stile che non esisteva prima, al volo, senza dover addestrare un modello specifico.",
+    "Stai producendo un beat e ti serve un bridge che suoni come un crossover tra bossa nova e industrial? Lo generi in secondi. Il punto non è sostituirti, ma darti un collaboratore che lavora alla velocità del pensiero.",
+    "I primi produttori che lo stanno testando dicono che il flusso cambia radicalmente: non passi ore a cercare il sample giusto, ma descrivi cosa vuoi e l'AI lo assembla mentre mantieni il controllo sulle varianti.",
+    "L'output è una canzone ibrida che non è catalogabile in nessun genere esistente. Costa meno di un abbonamento Spotify. Se sei un produttore, testala su un progetto che hai abbandonato per mancanza di idee."
+  ],
+  "video_script": [
+    "Immagina una canzone che cambia genere da sola.",
+    "Parte jazz, poi diventa trap.",
+    "Non è un remix, è l'AI che lo decide.",
+    "Gli dai testo o melodia e crea stili nuovi.",
+    "Non copia nessun artista, inventa al volo."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Un modello AI che cambia genere musicale a metà di un brano, passando da jazz a trap senza interruzione. Non è un effetto, è la struttura stessa della traccia che si trasforma in tempo reale.",
+        "Il sistema non si limita a imitare artisti esistenti. Prende un prompt testuale o una melodia e genera uno stile che non esisteva prima, al volo, senza dover addestrare un modello specifico.",
+        "Stai producendo un beat e ti serve un bridge che suoni come un crossover tra bossa nova e industrial? Lo generi in secondi. Il punto non è sostituirti, ma darti un collaboratore che lavora alla velocità del pensiero.",
+        "I primi produttori che lo stanno testando dicono che il flusso cambia radicalmente: non passi ore a cercare il sample giusto, ma descrivi cosa vuoi e l'AI lo assembla mentre mantieni il controllo sulle varianti.",
+        "L'output è una canzone ibrida che non è catalogabile in nessun genere esistente. Costa meno di un abbonamento Spotify. Se sei un produttore, testala su un progetto che hai abbandonato per mancanza di idee."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Immagina una canzone che cambia genere da sola.",
+        "Parte jazz, poi diventa trap.",
+        "Non è un remix, è l'AI che lo decide.",
+        "Gli dai testo o melodia e crea stili nuovi.",
+        "Non copia nessun artista, inventa al volo."
+      ]
+    },
+    "instagram": {
+      "caption": "ElevenLabs ha lanciato un modello musicale che cambia genere a metà traccia — da jazz a trap, senza stacco 🎵. Non copia artisti: genera stili nuovi da un testo o una melodia, al volo. Se produci musica, puoi creare un bridge che suona come bossa nova incrociata con industrial in pochi secondi ⚡. I produttori che lo testano dicono che il flusso cambia: invece di cercare campioni per ore, descrivi cosa vuoi e l'AI assembla varianti su cui mantieni il controllo 🎛️. Il risultato è una canzone ibrida che non esisteva prima, a un costo inferiore a un abbonamento Spotify. Hai un progetto fermo per mancanza di idee?"
+    }
+  },
+  "instagram_caption": "ElevenLabs ha lanciato un modello musicale che cambia genere a metà traccia — da jazz a trap, senza stacco 🎵. Non copia artisti: genera stili nuovi da un testo o una melodia, al volo. Se produci musica, puoi creare un bridge che suona come bossa nova incrociata con industrial in pochi secondi ⚡. I produttori che lo testano dicono che il flusso cambia: invece di cercare campioni per ore, descrivi cosa vuoi e l'AI assembla varianti su cui mantieni il controllo 🎛️. Il risultato è una canzone ibrida che non esisteva prima, a un costo inferiore a un abbonamento Spotify. Hai un progetto fermo per mancanza di idee?",
+  "carousel_slides": [
+    {
+      "hook": "AI cambia genere a metà brano",
+      "description": "Da jazz a trap senza interruzione: la struttura della traccia si trasforma in tempo reale.",
+      "visual_hint": "spettro audio che si divide in due",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "audio waveform split"
+    },
+    {
+      "hook": "Stili nuovi, non imitazioni",
+      "description": "Prende un prompt o melodia e genera uno stile inedito al volo, senza addestrare modelli specifici.",
+      "visual_hint": "testo che diventa note musicali",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "text to music notes",
+      "image": "https://images.pexels.com/photos/7457658/pexels-photo-7457658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bossa nova + industrial in secondi",
+      "description": "Genera un bridge crossover mentre produci. Un collaboratore alla velocità del pensiero.",
+      "visual_hint": "due icone di genere che si fondono",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "genre icons merge",
+      "image": "https://images.pexels.com/photos/11994107/pexels-photo-11994107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il flusso creativo cambia",
+      "description": "Produttori: descrivi cosa vuoi e l'AI assembla. Niente più ore perse a cercare il sample giusto.",
+      "visual_hint": "mani su controller e schermo",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "hands on mixer",
+      "image": "https://images.pexels.com/photos/8132802/pexels-photo-8132802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Musica ibrida, costo irrisorio",
+      "description": "Canzone fuori da ogni genere. Costa meno di un abbonamento Spotify. Testala su un progetto abbandonato.",
+      "visual_hint": "telefono con app e cuffie",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "phone with headphones",
+      "image": "https://images.pexels.com/photos/10963855/pexels-photo-10963855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+  "savedAt": "2026-05-27T14:57:42.813Z",
+  "sourceId": "71772329c110ab008a75ae45bfb76cd1"
+}
