@@ -30,6 +30,9 @@ if (!ciMode && !slugArg && limit > MAX_TEST_LIMIT) {
   process.exit(1);
 }
 
+// ─── Status priority (stesso criterio di build-data-agents.js) ───────────────
+const STATUS_PRIORITY = { approved: 5, published: 4, scheduled: 3, failed: 2, draft: 1 };
+
 // ─── Percorsi agente ─────────────────────────────────────────────────────────
 const ROOT       = path.join(__dirname, '..');
 const OUTPUT_DIR = agentId === 'ai-news'
@@ -45,40 +48,59 @@ if (!fs.existsSync(OUTPUT_DIR)) {
 function loadCandidates() {
   const files = fs.readdirSync(OUTPUT_DIR).filter(f => f.endsWith('.json'));
 
-  // Per ogni slug prende il file più recente (stesso criterio di data.js)
-  const best = {};
+  // Raggruppa tutti i file per slug
+  const bySlug = {};
   for (const f of files) {
     const base = f.replace('.json', '');
     const idx  = base.indexOf('_');
     const slug = idx !== -1 ? base.slice(idx + 1) : base;
-    if (!best[slug] || f > best[slug]) best[slug] = f;
+    if (!bySlug[slug]) bySlug[slug] = [];
+    bySlug[slug].push(f);
   }
 
   const candidates = [];
-  for (const [slug, filename] of Object.entries(best)) {
+  const agentCfg = require('../agents')[agentId];
+
+  for (const [slug, slugFiles] of Object.entries(bySlug)) {
     if (slugArg && slug !== slugArg) continue;
 
+    // File più recente come base del contenuto
+    const canonical = slugFiles.slice().sort().reverse()[0];
     let article;
     try {
-      article = JSON.parse(fs.readFileSync(path.join(OUTPUT_DIR, filename), 'utf8'));
+      article = JSON.parse(fs.readFileSync(path.join(OUTPUT_DIR, canonical), 'utf8'));
     } catch {
       continue;
     }
 
-    // Filtro: approved/published + scenes non ancora generate
-    if (!['approved', 'published'].includes(article.status)) continue;
+    // Status effettivo: priorità più alta tra tutti i file dello slug
+    // (stesso criterio di build-data-agents.js — approved batte published, ecc.)
+    let effectiveStatus = article.status;
+    for (const f of slugFiles) {
+      if (f === canonical) continue;
+      try {
+        const other = JSON.parse(fs.readFileSync(path.join(OUTPUT_DIR, f), 'utf8'));
+        if ((STATUS_PRIORITY[other.status] || 0) > (STATUS_PRIORITY[effectiveStatus] || 0)) {
+          effectiveStatus = other.status;
+        }
+      } catch {}
+    }
+
+    // Filtro: status effettivo approved/published + scenes non ancora generate
+    if (!['approved', 'published'].includes(effectiveStatus)) continue;
     if (article.formats?.video?.scenes?.length > 0) continue;
 
-    const agentCfg = require('../agents')[agentId];
+    // Normalizza lo status nel file più recente
+    article.status = effectiveStatus;
+
     if (!article.render_template) {
       article.render_template = agentCfg?.defaultVideoTemplate || 'slide_deck';
     }
-    // render_quality default a 'low' se non impostato (non blocca più la generazione)
     if (!article.render_quality) article.render_quality = 'low';
     const templateModule = require('./templates')[article.render_template];
     const customPrompt = templateModule?.generatePlanPrompt || null;
 
-    candidates.push({ article, filepath: path.join(OUTPUT_DIR, filename), customPrompt });
+    candidates.push({ article, filepath: path.join(OUTPUT_DIR, canonical), customPrompt });
     if (candidates.length >= limit) break;
   }
 

@@ -38,36 +38,34 @@ http.createServer((req, res) => {
         const dir = OUTPUT_DIRS[agent];
         if (!dir) { res.writeHead(400); res.end('Unknown agent'); return; }
 
-        // Find ALL files with this slug and update status in each
-        const allFiles = fs.readdirSync(dir).filter(f => f.endsWith('.json'));
-        let updatedCount = 0;
-        for (const fname of allFiles) {
-          const fpath = path.join(dir, fname);
-          try {
-            const article = JSON.parse(fs.readFileSync(fpath, 'utf8'));
-            if (article.slug === slug) {
-              article.status = status;
-              fs.writeFileSync(fpath, JSON.stringify(article, null, 2));
-              updatedCount++;
-            }
-          } catch { /* skip corrupt */ }
-        }
-        if (updatedCount === 0) { res.writeHead(404); res.end('Article not found'); return; }
+        // Verifica esistenza articolo prima di rispondere 200
+        const exists = fs.readdirSync(dir).filter(f => f.endsWith('.json')).some(fname => {
+          try { return JSON.parse(fs.readFileSync(path.join(dir, fname), 'utf8')).slug === slug; }
+          catch { return false; }
+        });
+        if (!exists) { res.writeHead(404); res.end('Article not found'); return; }
 
-        // Rebuild + git push in background (chained so push happens after rebuild)
+        // Risponde subito — la modifica avviene in background dopo git pull
+        // Ordine: pull (porta le scene CI) → applica status → build → commit → push
         const token = process.env.GIT_TOKEN;
+        const d = dir.replace(/"/g, '\\"');
+        const s = slug.replace(/"/g, '\\"');
+        const st = status.replace(/"/g, '\\"');
         const pushCmd = token
           ? `git remote set-url origin "https://${token}@github.com/JhoONs117/visual-scroll-blog-.git" && ` +
+            `git pull --rebase origin main && ` +
+            `node scripts/apply-status.js "${d}" "${s}" "${st}" && ` +
+            `node scripts/build-data-agents.js && ` +
             `git add output/ output/food/ output/fitness/ frontend/data-agents.js && ` +
-            `git diff --cached --quiet || (git commit -m "auto: ${status} ${slug}" && git pull --rebase --autostash origin main && git push)`
-          : 'true';
+            `git diff --cached --quiet || (git commit -m "auto: ${st} ${s}" && git push)`
+          : `node scripts/apply-status.js "${d}" "${s}" "${st}"`;
 
         spawn('sh', ['-c',
-          `cd "${__dirname}" && node scripts/build-data-agents.js && ${pushCmd}`
+          `cd "${__dirname}" && ${pushCmd}`
         ], { detached: true, stdio: 'ignore' }).unref();
 
         res.writeHead(200, { 'Content-Type': 'application/json' });
-        res.end(JSON.stringify({ ok: true, slug, status, updatedFiles: updatedCount }));
+        res.end(JSON.stringify({ ok: true, slug, status }));
       } catch (e) {
         res.writeHead(500); res.end('Error: ' + e.message);
       }
