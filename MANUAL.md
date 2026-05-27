@@ -1338,12 +1338,14 @@ Oppure manualmente:
 
 Il sistema V2 genera video verticali 9:16 (1080×1920) usando le slide del carousel come base, animate con zoom/pan e voiceover TTS. I piani video (5 scene) vengono generati automaticamente dal CI ogni 2 ore.
 
-### Prerequisiti per renderizzare un video
+### Prerequisiti per generare il piano video
 
-1. Articolo con `status: approved`
-2. Template video selezionato dal dropdown **Video Template** in `carousel.html`
-3. Piano video generato (`formats.video.scenes` non vuoto) — **fatto dal CI automaticamente**
-4. Slide carousel salvate come PNG in `output/{agentId}/slides-png/{slug}/slide{0-4}.png` *(solo per template Slideshow)*
+1. Articolo con `status: approved` — fatto da `review.html` o `carousel.html`
+2. `formats.video.scenes` vuoto — CI genera il piano automaticamente al prossimo run
+
+> **Nota (2026-05-27):** non è più necessario impostare `render_quality` manualmente.
+> Il CI genera il piano per **tutti** gli articoli approvati senza scenes, impostando
+> `render_quality = 'low'` come default se mancante.
 
 ### Flusso giornaliero
 

@@ -58,6 +58,7 @@ Docs archiviati in `archive/docs/`: FOOD-AGENT.md · REFACTOR-PLAN.md · CONTEXT
 | **FASE 16K — wireframe_3d** | ✅ Completa | perspective projection Node.js, 6 shape, neon glow |
 | **FASE 16L — anatomy_motion** | ✅ Completa (2026-05-26) | Blender EEVEE headless + BodyParts3D (54 OBJ, CC BY 4.0) + emissive glow + TTS. `defaultVideoTemplate` fitness. Video squat explainer funzionante. |
 | **Separazione render video** | ✅ Completa (2026-05-27) | Render 100% locale, non tracciato in git. `review.html`: riga video-plan con badge template + "⬇ Esporta piano" (client-side JSON download). Template Cat 3 (Blender) rimangono solo locali. |
+| **Fix generate-video-plan** | ✅ Completa (2026-05-27) | Rimosso filtro `render_quality` — genera piani per tutti gli `approved` automaticamente. `render_quality` default `'low'` se mancante. Backfill esistenti al prossimo run CI. |
 | **FASE 16M — product_xray** | 📋 Da implementare | — |
 | **FASE 16N — lowpoly_3d** | 📋 Da implementare | — |
 | **Refactor FASE 12 — Automazione publish** | 🔒 Bloccata | Instagram: account ristretto da Meta (impossibile creare App developer). TikTok sandbox ✅. X API Free non permette POST. |
@@ -840,3 +841,20 @@ Railway        → serve frontend + API (nessun render)
 WSL locale     → render-pending.js / tool esterno → MP4
 review.html    → ⬇ Esporta piano → video-plan.json → tool esterno
 ```
+
+---
+
+### Fix generate-video-plan: piano automatico per tutti gli approvati ✅ (2026-05-27)
+
+**Problema:** `generate-video-plan.js` richiedeva `render_quality != null` come gate.
+Fitness e food avevano 0 articoli con quality impostata → 0 piani mai generati nonostante 27/17 articoli approvati.
+
+**Fix:** rimosso il filtro `render_quality`. Nuova logica:
+```
+candidato valido = status approved/published  AND  scenes = []
+```
+`render_quality` viene auto-impostato a `'low'` se mancante (non blocca più).
+`render_template` viene auto-impostato dal `defaultVideoTemplate` dell'agente se mancante.
+
+**Backfill automatico:** al prossimo run CI (ogni 2h) vengono generati i piani
+per tutti gli articoli approvati che non li hanno ancora. Non serve intervento manuale.
