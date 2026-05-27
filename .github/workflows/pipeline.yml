@@ -5,6 +5,10 @@ on:
     - cron: '0 */2 * * *'
   workflow_dispatch:
 
+concurrency:
+  group: pipeline
+  cancel-in-progress: true
+
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
@@ -42,9 +46,6 @@ jobs:
           MAX_NEW_FITNESS_ARTICLES: '3'
         run: node core/run-agent.js fitness || echo "⚠️ Fitness agent failed, continuing"
 
-      - name: Build data-agents.js
-        run: node scripts/build-data-agents.js
-
       - name: Genera piani video (ai-news)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -59,6 +60,9 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: node video/generate-video-plan.js --agent fitness --ci || echo "⚠️ Video plan fitness failed, continuing"
+
+      - name: Build data-agents.js
+        run: node scripts/build-data-agents.js
 
       - name: Committa e pusha i nuovi contenuti
         run: |
