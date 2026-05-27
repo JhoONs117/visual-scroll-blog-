@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-launches-instagram-facebook-and-whatsapp-subs",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+  "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+  "pubDate": "Wed, 27 May 2026 18:00:00 +0000",
+  "slides": [
+    "Meta monetizza ciò che prima era gratuito?",
+    "Abbonamenti per Instagram, Facebook e WhatsApp arrivano",
+    "I piani AI saranno i prossimi, e costeranno",
+    "Chi non paga perde funzioni base?",
+    "Controlla oggi il costo della nuova adesione"
+  ],
+  "thread_text": [
+    "Tra poco su Instagram, Facebook e WhatsApp alcune funzioni base potrebbero diventare a pagamento. Se non vuoi perdere accesso, ti conviene sapere cosa sta cambiando.",
+    "Meta ha iniziato a testare abbonamenti per i social. Prima era tutto gratuito, ora i nuovi piani includono anche funzioni AI avanzate che prima non esistevano.",
+    "I prossimi piani AI costeranno. Servizi che oggi sono gratis — come assistenti o filtri generativi — potrebbero richiedere un canone mensile aggiuntivo.",
+    "Chi non paga perderà funzioni base? Non ancora del tutto, ma alcune feature già oggi sono bloccate se non sottoscrivi l'abbonamento.",
+    "Controlla subito nella tua app Impostazioni > Account quale piano ti viene proposto. Costa meno di un abbonamento Netflix. Vale la pena verificare."
+  ],
+  "video_script": [
+    "Fra poco alcune funzioni base saranno a pagamento.",
+    "Meta sta testando abbonamenti per Instagram, Facebook e WhatsApp.",
+    "Servizi AI oggi gratis diventeranno a pagamento.",
+    "Se non paghi, perdi accesso a funzioni come l'assistente.",
+    "Controlla ora il costo del nuovo abbonamento nelle impostazioni."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Tra poco su Instagram, Facebook e WhatsApp alcune funzioni base potrebbero diventare a pagamento. Se non vuoi perdere accesso, ti conviene sapere cosa sta cambiando.",
+        "Meta ha iniziato a testare abbonamenti per i social. Prima era tutto gratuito, ora i nuovi piani includono anche funzioni AI avanzate che prima non esistevano.",
+        "I prossimi piani AI costeranno. Servizi che oggi sono gratis — come assistenti o filtri generativi — potrebbero richiedere un canone mensile aggiuntivo.",
+        "Chi non paga perderà funzioni base? Non ancora del tutto, ma alcune feature già oggi sono bloccate se non sottoscrivi l'abbonamento.",
+        "Controlla subito nella tua app Impostazioni > Account quale piano ti viene proposto. Costa meno di un abbonamento Netflix. Vale la pena verificare."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Fra poco alcune funzioni base saranno a pagamento.",
+        "Meta sta testando abbonamenti per Instagram, Facebook e WhatsApp.",
+        "Servizi AI oggi gratis diventeranno a pagamento.",
+        "Se non paghi, perdi accesso a funzioni come l'assistente.",
+        "Controlla ora il costo del nuovo abbonamento nelle impostazioni."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta ha ufficialmente lanciato abbonamenti a pagamento per Instagram, Facebook e WhatsApp in alcuni paesi. La novità: funzioni prima gratuite ora richiedono un canone mensile, e i prossimi piani includeranno strumenti AI come assistenti e filtri generativi 🛡️💸.  \nConcretamente, se non paghi alcune funzioni base (es. verifica account o supporto clienti) potrebbero essere bloccate. Per te che usi questi social ogni giorno, significa decidere se spendere per mantenere certi servizi o perderli 🔍📉.  \nHai già controllato nella tua app se l'abbonamento è attivo? Costa meno di un abbonamento Netflix."
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Attenzione!",
+          "voiceover": "Fra poco alcune funzioni base saranno a pagamento.",
+          "on_screen_text": "Funzioni base a pagamento!",
+          "visual_direction": "Testo animato che appare rapidamente.",
+          "caption": "Scopri di più!",
+          "tone": "urgent",
+          "emphasis_word": "pagamento",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Novità in arrivo!",
+          "voiceover": "Meta sta testando abbonamenti per Instagram, Facebook e WhatsApp.",
+          "on_screen_text": "Abbonamenti in arrivo!",
+          "visual_direction": "Transizione fluida tra le piattaforme.",
+          "caption": "Resta aggiornato!",
+          "tone": "informative",
+          "emphasis_word": "abbonamenti",
+          "layout": "split"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Cambia tutto!",
+          "voiceover": "Servizi AI oggi gratis diventeranno a pagamento.",
+          "on_screen_text": "AI a pagamento!",
+          "visual_direction": "Testo che esplode sullo schermo.",
+          "caption": "Scopri cosa cambia!",
+          "tone": "urgent",
+          "emphasis_word": "pagamento",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Attenzione!",
+          "voiceover": "Se non paghi, perdi accesso a funzioni come l'assistente.",
+          "on_screen_text": "Perdi l'assistente!",
+          "visual_direction": "Animazione che simula la perdita.",
+          "caption": "Non aspettare!",
+          "tone": "urgent",
+          "emphasis_word": "perdi",
+          "layout": "split"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Controlla ora!",
+          "voiceover": "Controlla ora il costo del nuovo abbonamento nelle impostazioni.",
+          "on_screen_text": "Controlla il costo!",
+          "visual_direction": "Testo che si ingrandisce.",
+          "caption": "Fai la scelta giusta!",
+          "tone": "informative",
+          "emphasis_word": "",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 26,
+      "cta": "Scopri di più sulle impostazioni!"
+    }
+  },
+  "instagram_caption": "Meta ha ufficialmente lanciato abbonamenti a pagamento per Instagram, Facebook e WhatsApp in alcuni paesi. La novità: funzioni prima gratuite ora richiedono un canone mensile, e i prossimi piani includeranno strumenti AI come assistenti e filtri generativi 🛡️💸.  \nConcretamente, se non paghi alcune funzioni base (es. verifica account o supporto clienti) potrebbero essere bloccate. Per te che usi questi social ogni giorno, significa decidere se spendere per mantenere certi servizi o perderli 🔍📉.  \nHai già controllato nella tua app se l'abbonamento è attivo? Costa meno di un abbonamento Netflix.",
+  "carousel_slides": [
+    {
+      "hook": "Servizi gratis stanno finendo",
+      "description": "Funzioni base di Facebook e WhatsApp potrebbero diventare a pagamento. Scopri cosa sta cambiando.",
+      "visual_hint": "Pezzi che cadono da un puzzle",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "falling puzzle pieces"
+    },
+    {
+      "hook": "Abbonamenti in arrivo su tutti i social",
+      "description": "Meta testa piani a pagamento per Instagram, Facebook e WhatsApp. Cosa era gratis ora potrebbe costare.",
+      "visual_hint": "Schermo smartphone con notifica abbonamento",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone subscription notification",
+      "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Piani AI: prossimi a pagamento",
+      "description": "Assistenti e filtri generativi oggi gratis potrebbero richiedere un canone mensile aggiuntivo.",
+      "visual_hint": "Bottoni con cifre in dollari",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "dollar button icons",
+      "image": "https://images.pexels.com/photos/7111484/pexels-photo-7111484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chi non paga perde funzioni base?",
+      "description": "Non ancora del tutto, ma alcune feature sono già bloccate senza abbonamento. Verifica ora.",
+      "visual_hint": "Ingranaggio bloccato da un lucchetto",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "gear lock icon",
+      "image": "https://images.pexels.com/photos/22745983/pexels-photo-22745983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controlla il tuo piano oggi",
+      "description": "Vai in Impostazioni > Account e scopri quanto costa. Meno di Netflix, vale la pena verificare.",
+      "visual_hint": "Dita che scorrono menu Impostazioni",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "phone settings menu",
+      "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024",
+  "savedAt": "2026-05-27T23:11:09.516Z",
+  "sourceId": "02233afb32a83e845918f5a66bcc92bb",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
+}

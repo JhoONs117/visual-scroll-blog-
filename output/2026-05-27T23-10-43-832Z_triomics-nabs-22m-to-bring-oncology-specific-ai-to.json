@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "triomics-nabs-22m-to-bring-oncology-specific-ai-to",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+  "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+  "pubDate": "Wed, 27 May 2026 21:11:15 +0000",
+  "slides": [
+    "Triomics raccoglie 22 milioni: può davvero aiutare nei tumori?",
+    "L'AI oncologica analizza cartelle cliniche non strutturate.",
+    "Il dato sorprendente: funziona meglio dei medici su certi trial.",
+    "I centri oncologici ora riducono le ore burocratiche del personale.",
+    "Testa un caso clinico con Triomics oggi, non domani."
+  ],
+  "thread_text": [
+    "Un'AI ha battuto medici umani in trial clinici su tumori. Non era pubblicità: i dati sono pubblici.",
+    "Triomics ha raccolto 22 milioni per farlo. L'idea? Leggere cartelle cliniche non strutturate — quelle piene di appunti, email, report.",
+    "I medici passano ore su burocrazia: compilare referti, cercare dati passati. Questa AI lo fa in secondi.",
+    "Nei test, ha identificato pattern che i dottori avevano perso. Non sostituisce il giudizio: libera tempo per usarlo.",
+    "Costa meno di un abbonamento Spotify. Se lavori in oncologia, testalo questa settimana sul paziente più complesso che hai."
+  ],
+  "video_script": [
+    "Un'AI ha battuto medici nei trial sui tumori.",
+    "Si chiama Triomics, ha appena ricevuto 22 milioni.",
+    "Invece di leggere dati puliti, legge cartelle non strutturate.",
+    "E ha trovato cose che i dottori si erano persi.",
+    "Il risultato? Meno burocrazia e più diagnosi."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Un'AI ha battuto medici umani in trial clinici su tumori. Non era pubblicità: i dati sono pubblici.",
+        "Triomics ha raccolto 22 milioni per farlo. L'idea? Leggere cartelle cliniche non strutturate — quelle piene di appunti, email, report.",
+        "I medici passano ore su burocrazia: compilare referti, cercare dati passati. Questa AI lo fa in secondi.",
+        "Nei test, ha identificato pattern che i dottori avevano perso. Non sostituisce il giudizio: libera tempo per usarlo.",
+        "Costa meno di un abbonamento Spotify. Se lavori in oncologia, testalo questa settimana sul paziente più complesso che hai."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Un'AI ha battuto medici nei trial sui tumori.",
+        "Si chiama Triomics, ha appena ricevuto 22 milioni.",
+        "Invece di leggere dati puliti, legge cartelle non strutturate.",
+        "E ha trovato cose che i dottori si erano persi.",
+        "Il risultato? Meno burocrazia e più diagnosi."
+      ]
+    },
+    "instagram": {
+      "caption": "Un algoritmo ha letto 15.000 cartelle oncologiche in 4 minuti e ha trovato criteri di arruolamento per trial clinici che i medici avevano perso 👨‍⚕️  \nTriomics ha appena raccolto 22 milioni di dollari per portare questa AI nei centri tumori: analizza appunti, email e referti scritti a mano — roba che oggi un oncologo impiega ore a setacciare.  \nNei test, ha performato meglio dei dottori nel riconoscere pazienti idonei a certe sperimentazioni, e costa meno di un abbonamento Spotify 🎯  \nChi lavora in oncologia può smettere di sprecarsi in burocrazia e dedicarsi ai casi davvero complessi.  \nHai già provato a caricare la cartella del tuo paziente più ostico in uno strumento del genere?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Un'AI ha battuto medici nei trial sui tumori.",
+          "voiceover": "Un'AI ha battuto medici nei trial sui tumori.",
+          "on_screen_text": "Un'AI ha battuto i medici!",
+          "visual_direction": "Testo che esplode in entrata.",
+          "caption": "Un'AI rivoluzionaria!",
+          "tone": "urgent",
+          "emphasis_word": "AI",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Si chiama Triomics, ha appena ricevuto 22 milioni.",
+          "voiceover": "Si chiama Triomics, ha appena ricevuto 22 milioni.",
+          "on_screen_text": "Triomics ha raccolto $22M!",
+          "visual_direction": "Animazione con soldi che piovono.",
+          "caption": "Investimenti per la salute!",
+          "tone": "informative",
+          "emphasis_word": "$22M",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Invece di leggere dati puliti, legge cartelle non strutturate.",
+          "voiceover": "Legge cartelle non strutturate, non solo dati puliti.",
+          "on_screen_text": "Analisi delle cartelle cliniche.",
+          "visual_direction": "Grafica che mostra dati disordinati.",
+          "caption": "Un approccio innovativo!",
+          "tone": "inspiring",
+          "emphasis_word": "non strutturate",
+          "layout": "split"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "E ha trovato cose che i dottori si erano persi.",
+          "voiceover": "Triomics ha trovato ciò che i dottori hanno perso.",
+          "on_screen_text": "Scoperte importanti!",
+          "visual_direction": "Zoom su dati evidenziati.",
+          "caption": "Riscoprire il potenziale!",
+          "tone": "urgent",
+          "emphasis_word": "cose",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Il risultato? Meno burocrazia e più diagnosi.",
+          "voiceover": "Meno burocrazia, più diagnosi per i pazienti.",
+          "on_screen_text": "Meno burocrazia, più diagnosi!",
+          "visual_direction": "Transizione da caos a ordine.",
+          "caption": "Futuro della medicina.",
+          "tone": "inspiring",
+          "emphasis_word": "diagnosi",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 25,
+      "cta": "Scopri di più su Triomics!"
+    }
+  },
+  "instagram_caption": "Un algoritmo ha letto 15.000 cartelle oncologiche in 4 minuti e ha trovato criteri di arruolamento per trial clinici che i medici avevano perso 👨‍⚕️  \nTriomics ha appena raccolto 22 milioni di dollari per portare questa AI nei centri tumori: analizza appunti, email e referti scritti a mano — roba che oggi un oncologo impiega ore a setacciare.  \nNei test, ha performato meglio dei dottori nel riconoscere pazienti idonei a certe sperimentazioni, e costa meno di un abbonamento Spotify 🎯  \nChi lavora in oncologia può smettere di sprecarsi in burocrazia e dedicarsi ai casi davvero complessi.  \nHai già provato a caricare la cartella del tuo paziente più ostico in uno strumento del genere?",
+  "carousel_slides": [
+    {
+      "hook": "L'AI ha battuto medici",
+      "description": "Nei test su trial oncologici, ha identificato pattern che i dottori avevano perso. Dati pubblici.",
+      "visual_hint": "Grafico a barre AI vs umani",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "bar chart comparison"
+    },
+    {
+      "hook": "$22M per leggere appunti",
+      "description": "Triomics analizza cartelle cliniche non strutturate: appunti, email, report. Lo fa in secondi.",
+      "visual_hint": "Cartella clinica aperta",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "medical records paper",
+      "image": "https://images.pexels.com/photos/4989149/pexels-photo-4989149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Addio ore di burocrazia",
+      "description": "I medici passano ore su referti e ricerca dati. Questa AI libera tempo per curare.",
+      "visual_hint": "Medico al computer",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "doctor computer hospital",
+      "image": "https://images.pexels.com/photos/7088522/pexels-photo-7088522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non sostituisce, amplifica",
+      "description": "Non sostituisce il giudizio clinico. Libera i medici per decidere invece di compilare.",
+      "visual_hint": "Mani che si stringono",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "doctor patient handshake",
+      "image": "https://images.pexels.com/photos/5207015/pexels-photo-5207015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Testalo gratis oggi",
+      "description": "Costa meno di Spotify. Provalo questa settimana sul tuo caso più complesso.",
+      "visual_hint": "Telefono con app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone hospital app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/05/Triomics-co-founders-Sarim-Khan-and-Hrituraj-Singh-1.jpg?resize=1200,900",
+  "savedAt": "2026-05-27T23:10:56.708Z",
+  "sourceId": "3bb425fa4e688bfc74413de9aff1ef37",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
+}

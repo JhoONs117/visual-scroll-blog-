@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meta-launches-instagram-facebook-and-whatsapp-subs",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+    "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+    "pubDate": "Wed, 27 May 2026 18:00:00 +0000",
+    "slides": [
+      "Meta monetizza ciò che prima era gratuito?",
+      "Abbonamenti per Instagram, Facebook e WhatsApp arrivano",
+      "I piani AI saranno i prossimi, e costeranno",
+      "Chi non paga perde funzioni base?",
+      "Controlla oggi il costo della nuova adesione"
+    ],
+    "thread_text": [
+      "Tra poco su Instagram, Facebook e WhatsApp alcune funzioni base potrebbero diventare a pagamento. Se non vuoi perdere accesso, ti conviene sapere cosa sta cambiando.",
+      "Meta ha iniziato a testare abbonamenti per i social. Prima era tutto gratuito, ora i nuovi piani includono anche funzioni AI avanzate che prima non esistevano.",
+      "I prossimi piani AI costeranno. Servizi che oggi sono gratis — come assistenti o filtri generativi — potrebbero richiedere un canone mensile aggiuntivo.",
+      "Chi non paga perderà funzioni base? Non ancora del tutto, ma alcune feature già oggi sono bloccate se non sottoscrivi l'abbonamento.",
+      "Controlla subito nella tua app Impostazioni > Account quale piano ti viene proposto. Costa meno di un abbonamento Netflix. Vale la pena verificare."
+    ],
+    "video_script": [
+      "Fra poco alcune funzioni base saranno a pagamento.",
+      "Meta sta testando abbonamenti per Instagram, Facebook e WhatsApp.",
+      "Servizi AI oggi gratis diventeranno a pagamento.",
+      "Se non paghi, perdi accesso a funzioni come l'assistente.",
+      "Controlla ora il costo del nuovo abbonamento nelle impostazioni."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Tra poco su Instagram, Facebook e WhatsApp alcune funzioni base potrebbero diventare a pagamento. Se non vuoi perdere accesso, ti conviene sapere cosa sta cambiando.",
+          "Meta ha iniziato a testare abbonamenti per i social. Prima era tutto gratuito, ora i nuovi piani includono anche funzioni AI avanzate che prima non esistevano.",
+          "I prossimi piani AI costeranno. Servizi che oggi sono gratis — come assistenti o filtri generativi — potrebbero richiedere un canone mensile aggiuntivo.",
+          "Chi non paga perderà funzioni base? Non ancora del tutto, ma alcune feature già oggi sono bloccate se non sottoscrivi l'abbonamento.",
+          "Controlla subito nella tua app Impostazioni > Account quale piano ti viene proposto. Costa meno di un abbonamento Netflix. Vale la pena verificare."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Fra poco alcune funzioni base saranno a pagamento.",
+          "Meta sta testando abbonamenti per Instagram, Facebook e WhatsApp.",
+          "Servizi AI oggi gratis diventeranno a pagamento.",
+          "Se non paghi, perdi accesso a funzioni come l'assistente.",
+          "Controlla ora il costo del nuovo abbonamento nelle impostazioni."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta ha ufficialmente lanciato abbonamenti a pagamento per Instagram, Facebook e WhatsApp in alcuni paesi. La novità: funzioni prima gratuite ora richiedono un canone mensile, e i prossimi piani includeranno strumenti AI come assistenti e filtri generativi 🛡️💸.  \nConcretamente, se non paghi alcune funzioni base (es. verifica account o supporto clienti) potrebbero essere bloccate. Per te che usi questi social ogni giorno, significa decidere se spendere per mantenere certi servizi o perderli 🔍📉.  \nHai già controllato nella tua app se l'abbonamento è attivo? Costa meno di un abbonamento Netflix."
+      }
+    },
+    "instagram_caption": "Meta ha ufficialmente lanciato abbonamenti a pagamento per Instagram, Facebook e WhatsApp in alcuni paesi. La novità: funzioni prima gratuite ora richiedono un canone mensile, e i prossimi piani includeranno strumenti AI come assistenti e filtri generativi 🛡️💸.  \nConcretamente, se non paghi alcune funzioni base (es. verifica account o supporto clienti) potrebbero essere bloccate. Per te che usi questi social ogni giorno, significa decidere se spendere per mantenere certi servizi o perderli 🔍📉.  \nHai già controllato nella tua app se l'abbonamento è attivo? Costa meno di un abbonamento Netflix.",
+    "carousel_slides": [
+      {
+        "hook": "Servizi gratis stanno finendo",
+        "description": "Funzioni base di Facebook e WhatsApp potrebbero diventare a pagamento. Scopri cosa sta cambiando.",
+        "visual_hint": "Pezzi che cadono da un puzzle",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "falling puzzle pieces"
+      },
+      {
+        "hook": "Abbonamenti in arrivo su tutti i social",
+        "description": "Meta testa piani a pagamento per Instagram, Facebook e WhatsApp. Cosa era gratis ora potrebbe costare.",
+        "visual_hint": "Schermo smartphone con notifica abbonamento",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone subscription notification",
+        "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Piani AI: prossimi a pagamento",
+        "description": "Assistenti e filtri generativi oggi gratis potrebbero richiedere un canone mensile aggiuntivo.",
+        "visual_hint": "Bottoni con cifre in dollari",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "dollar button icons",
+        "image": "https://images.pexels.com/photos/7111484/pexels-photo-7111484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Chi non paga perde funzioni base?",
+        "description": "Non ancora del tutto, ma alcune feature sono già bloccate senza abbonamento. Verifica ora.",
+        "visual_hint": "Ingranaggio bloccato da un lucchetto",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "gear lock icon",
+        "image": "https://images.pexels.com/photos/22745983/pexels-photo-22745983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Controlla il tuo piano oggi",
+        "description": "Vai in Impostazioni > Account e scopri quanto costa. Meno di Netflix, vale la pena verificare.",
+        "visual_hint": "Dita che scorrono menu Impostazioni",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "phone settings menu",
+        "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024",
+    "savedAt": "2026-05-27T23:11:09.516Z",
+    "sourceId": "02233afb32a83e845918f5a66bcc92bb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "triomics-nabs-22m-to-bring-oncology-specific-ai-to",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+    "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+    "pubDate": "Wed, 27 May 2026 21:11:15 +0000",
+    "slides": [
+      "Triomics raccoglie 22 milioni: può davvero aiutare nei tumori?",
+      "L'AI oncologica analizza cartelle cliniche non strutturate.",
+      "Il dato sorprendente: funziona meglio dei medici su certi trial.",
+      "I centri oncologici ora riducono le ore burocratiche del personale.",
+      "Testa un caso clinico con Triomics oggi, non domani."
+    ],
+    "thread_text": [
+      "Un'AI ha battuto medici umani in trial clinici su tumori. Non era pubblicità: i dati sono pubblici.",
+      "Triomics ha raccolto 22 milioni per farlo. L'idea? Leggere cartelle cliniche non strutturate — quelle piene di appunti, email, report.",
+      "I medici passano ore su burocrazia: compilare referti, cercare dati passati. Questa AI lo fa in secondi.",
+      "Nei test, ha identificato pattern che i dottori avevano perso. Non sostituisce il giudizio: libera tempo per usarlo.",
+      "Costa meno di un abbonamento Spotify. Se lavori in oncologia, testalo questa settimana sul paziente più complesso che hai."
+    ],
+    "video_script": [
+      "Un'AI ha battuto medici nei trial sui tumori.",
+      "Si chiama Triomics, ha appena ricevuto 22 milioni.",
+      "Invece di leggere dati puliti, legge cartelle non strutturate.",
+      "E ha trovato cose che i dottori si erano persi.",
+      "Il risultato? Meno burocrazia e più diagnosi."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Un'AI ha battuto medici umani in trial clinici su tumori. Non era pubblicità: i dati sono pubblici.",
+          "Triomics ha raccolto 22 milioni per farlo. L'idea? Leggere cartelle cliniche non strutturate — quelle piene di appunti, email, report.",
+          "I medici passano ore su burocrazia: compilare referti, cercare dati passati. Questa AI lo fa in secondi.",
+          "Nei test, ha identificato pattern che i dottori avevano perso. Non sostituisce il giudizio: libera tempo per usarlo.",
+          "Costa meno di un abbonamento Spotify. Se lavori in oncologia, testalo questa settimana sul paziente più complesso che hai."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Un'AI ha battuto medici nei trial sui tumori.",
+          "Si chiama Triomics, ha appena ricevuto 22 milioni.",
+          "Invece di leggere dati puliti, legge cartelle non strutturate.",
+          "E ha trovato cose che i dottori si erano persi.",
+          "Il risultato? Meno burocrazia e più diagnosi."
+        ]
+      },
+      "instagram": {
+        "caption": "Un algoritmo ha letto 15.000 cartelle oncologiche in 4 minuti e ha trovato criteri di arruolamento per trial clinici che i medici avevano perso 👨‍⚕️  \nTriomics ha appena raccolto 22 milioni di dollari per portare questa AI nei centri tumori: analizza appunti, email e referti scritti a mano — roba che oggi un oncologo impiega ore a setacciare.  \nNei test, ha performato meglio dei dottori nel riconoscere pazienti idonei a certe sperimentazioni, e costa meno di un abbonamento Spotify 🎯  \nChi lavora in oncologia può smettere di sprecarsi in burocrazia e dedicarsi ai casi davvero complessi.  \nHai già provato a caricare la cartella del tuo paziente più ostico in uno strumento del genere?"
+      }
+    },
+    "instagram_caption": "Un algoritmo ha letto 15.000 cartelle oncologiche in 4 minuti e ha trovato criteri di arruolamento per trial clinici che i medici avevano perso 👨‍⚕️  \nTriomics ha appena raccolto 22 milioni di dollari per portare questa AI nei centri tumori: analizza appunti, email e referti scritti a mano — roba che oggi un oncologo impiega ore a setacciare.  \nNei test, ha performato meglio dei dottori nel riconoscere pazienti idonei a certe sperimentazioni, e costa meno di un abbonamento Spotify 🎯  \nChi lavora in oncologia può smettere di sprecarsi in burocrazia e dedicarsi ai casi davvero complessi.  \nHai già provato a caricare la cartella del tuo paziente più ostico in uno strumento del genere?",
+    "carousel_slides": [
+      {
+        "hook": "L'AI ha battuto medici",
+        "description": "Nei test su trial oncologici, ha identificato pattern che i dottori avevano perso. Dati pubblici.",
+        "visual_hint": "Grafico a barre AI vs umani",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "bar chart comparison"
+      },
+      {
+        "hook": "$22M per leggere appunti",
+        "description": "Triomics analizza cartelle cliniche non strutturate: appunti, email, report. Lo fa in secondi.",
+        "visual_hint": "Cartella clinica aperta",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "medical records paper",
+        "image": "https://images.pexels.com/photos/4989149/pexels-photo-4989149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Addio ore di burocrazia",
+        "description": "I medici passano ore su referti e ricerca dati. Questa AI libera tempo per curare.",
+        "visual_hint": "Medico al computer",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "doctor computer hospital",
+        "image": "https://images.pexels.com/photos/7088522/pexels-photo-7088522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non sostituisce, amplifica",
+        "description": "Non sostituisce il giudizio clinico. Libera i medici per decidere invece di compilare.",
+        "visual_hint": "Mani che si stringono",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "doctor patient handshake",
+        "image": "https://images.pexels.com/photos/5207015/pexels-photo-5207015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Testalo gratis oggi",
+        "description": "Costa meno di Spotify. Provalo questa settimana sul tuo caso più complesso.",
+        "visual_hint": "Telefono con app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone hospital app",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/Triomics-co-founders-Sarim-Khan-and-Hrituraj-Singh-1.jpg?resize=1200,900",
+    "savedAt": "2026-05-27T23:10:56.708Z",
+    "sourceId": "3bb425fa4e688bfc74413de9aff1ef37"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "elevenlabs-new-music-generation-model-can-switch-g",
     "prompt_version": "1.0.0",
     "status": "published",
@@ -50,6 +258,73 @@ window.ARTICLES = [
       },
       "instagram": {
         "caption": "Con ElevenLabs ora puoi cambiare il genere di un brano mentre suona, senza riscrivere un solo accordo. 🎚️ Basta descrivere la svolta a parole — ad esempio \"passa da folk a elettronico\" — e il modello trasforma la traccia in tempo reale. 🎶 Per un musicista indipendente significa registrare un demo completo in minuti e testare suoni diversi al volo. 🎤 Costa meno di un abbonamento Spotify mensile. Da quale genere parti oggi?"
+      },
+      "video": {
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Sveliamo una rivoluzione musicale!",
+            "voiceover": "ElevenLabs ha lanciato un nuovo modello di generazione musicale.",
+            "on_screen_text": "RIVOLUZIONE MUSICALE!",
+            "visual_direction": "Testo che appare con un effetto di scrittura.",
+            "caption": "Scopri come cambia la musica.",
+            "tone": "urgent",
+            "emphasis_word": "RIVOLUZIONE",
+            "layout": "single"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Immagina di cambiare genere.",
+            "voiceover": "Questo modello può cambiare genere in tempo reale.",
+            "on_screen_text": "CAMBIA GENERE!",
+            "visual_direction": "Transizione fluida tra generi musicali.",
+            "caption": "La musica evolve da sola.",
+            "tone": "urgent",
+            "emphasis_word": "CAMBIA",
+            "layout": "single"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 5,
+            "hook": "Nessuna riscrittura necessaria.",
+            "voiceover": "Non ci sono accordi da riscrivere, solo parole.",
+            "on_screen_text": "SOLO PAROLE!",
+            "visual_direction": "Animazione con parole che danzano.",
+            "caption": "Semplicità e creatività unite.",
+            "tone": "informative",
+            "emphasis_word": "SOLO",
+            "layout": "single"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 8,
+            "hook": "Demo pronte in pochi minuti.",
+            "voiceover": "I musicisti possono avere demo pronte in minuti, non ore.",
+            "on_screen_text": "DEMO IN MINUTI!",
+            "visual_direction": "Timer che scorre velocemente.",
+            "caption": "Accelera la tua creatività.",
+            "tone": "inspiring",
+            "emphasis_word": "MINUTI",
+            "layout": "single"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Prova oggi stesso!",
+            "voiceover": "La tua hit potrebbe nascere qui, prova oggi.",
+            "on_screen_text": "PROVA OGGI!",
+            "visual_direction": "Chiusura con un invito all'azione accattivante.",
+            "caption": "Non aspettare, inizia ora!",
+            "tone": "urgent",
+            "emphasis_word": "PROVA",
+            "layout": "single"
+          }
+        ],
+        "quality_score": 85,
+        "duration_sec": 30,
+        "cta": "Inizia a creare la tua musica!"
       }
     },
     "instagram_caption": "Con ElevenLabs ora puoi cambiare il genere di un brano mentre suona, senza riscrivere un solo accordo. 🎚️ Basta descrivere la svolta a parole — ad esempio \"passa da folk a elettronico\" — e il modello trasforma la traccia in tempo reale. 🎶 Per un musicista indipendente significa registrare un demo completo in minuti e testare suoni diversi al volo. 🎤 Costa meno di un abbonamento Spotify mensile. Da quale genere parti oggi?",
@@ -101,7 +376,9 @@ window.ARTICLES = [
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
     "savedAt": "2026-05-27T21:53:01.668Z",
-    "sourceId": "71772329c110ab008a75ae45bfb76cd1"
+    "sourceId": "71772329c110ab008a75ae45bfb76cd1",
+    "render_template": "kinetic_typography",
+    "render_quality": "low"
   },
   {
     "schema_version": 2,
@@ -154,6 +431,73 @@ window.ARTICLES = [
       },
       "instagram": {
         "caption": "La FAA ha fermato SpaceX perché il booster Starship V3 è esploso durante un test a terra, dopo un collaudo riuscito. 🚫 Un guasto banale in fase di rifornimento ora blocca 🛑 tutti i futuri lanci, con un buco da oltre un milione di dollari al giorno per clienti NASA e satelliti già pronti. ⏳ Se il problema è strutturale, il programma slitta di un anno e la Luna si allontana. Hai già carichi utili in lista d'attesa?"
+      },
+      "video": {
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 4,
+            "hook": "La FAA ha fermato SpaceX!",
+            "voiceover": "La FAA ha fermato SpaceX perché qualcosa è esploso.",
+            "on_screen_text": "FAA FERMA SPACEX!",
+            "visual_direction": "Testo grande e impattante al centro dello schermo.",
+            "caption": "Un'azione senza precedenti.",
+            "tone": "urgent",
+            "emphasis_word": "FERMA",
+            "layout": "single"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 5,
+            "hook": "Il motivo? Un'esplosione.",
+            "voiceover": "Il booster V3 potrebbe essere saltato durante un test a terra.",
+            "on_screen_text": "BOOSTER V3 SALTATO!",
+            "visual_direction": "Animazione di esplosione con testo che appare.",
+            "caption": "Un test disastroso.",
+            "tone": "urgent",
+            "emphasis_word": "SALTA",
+            "layout": "single"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Un test che sembrava perfetto.",
+            "voiceover": "L'incidente è successo dopo un test che sembrava perfetto.",
+            "on_screen_text": "TEST SEMBRAVA PERFETTO",
+            "visual_direction": "Transizione fluida da un test di successo a un'esplosione.",
+            "caption": "La delusione è palpabile.",
+            "tone": "informative",
+            "emphasis_word": "PERFETTO",
+            "layout": "single"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "I clienti sono in attesa.",
+            "voiceover": "Clienti con carichi pronti aspettano da mesi.",
+            "on_screen_text": "CLIENTI IN ATTESA",
+            "visual_direction": "Testo che appare mentre scorre una lista di clienti.",
+            "caption": "L'attesa continua.",
+            "tone": "urgent",
+            "emphasis_word": "ATTESE",
+            "layout": "single"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Cosa succederà ora?",
+            "voiceover": "Se Starship non vola, i contratti NASA si complicano.",
+            "on_screen_text": "CONTRATTI NASA IN PERICOLO",
+            "visual_direction": "Testo che lampeggia per enfatizzare l'urgenza.",
+            "caption": "Il futuro è incerto.",
+            "tone": "urgent",
+            "emphasis_word": "PERICOLO",
+            "layout": "single"
+          }
+        ],
+        "quality_score": 85,
+        "duration_sec": 26,
+        "cta": "Segui per aggiornamenti su SpaceX!"
       }
     },
     "instagram_caption": "La FAA ha fermato SpaceX perché il booster Starship V3 è esploso durante un test a terra, dopo un collaudo riuscito. 🚫 Un guasto banale in fase di rifornimento ora blocca 🛑 tutti i futuri lanci, con un buco da oltre un milione di dollari al giorno per clienti NASA e satelliti già pronti. ⏳ Se il problema è strutturale, il programma slitta di un anno e la Luna si allontana. Hai già carichi utili in lista d'attesa?",
@@ -205,7 +549,9 @@ window.ARTICLES = [
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800",
     "savedAt": "2026-05-27T21:52:51.765Z",
-    "sourceId": "9788635b5234eb7b23833d219fa885e2"
+    "sourceId": "9788635b5234eb7b23833d219fa885e2",
+    "render_template": "kinetic_typography",
+    "render_quality": "low"
   },
   {
     "schema_version": 2,
@@ -258,6 +604,73 @@ window.ARTICLES = [
       },
       "instagram": {
         "caption": "Snowflake ha appena firmato un contratto da 6 miliardi di dollari per usare i chip AI di Amazon, invece di quelli di Nvidia. Amazon ha sviluppato chip propri, chiamati Trainium e Inferentia, che servono per addestrare ed eseguire l'intelligenza artificiale a costi più bassi. Per chi lavora con Snowflake, il risparmio sui costi AI potrebbe arrivare fino al 40%, ma solo se i propri carichi di lavoro sono già ottimizzati per questi chip. In certi test, i chip Amazon hanno già superato le prestazioni delle GPU Nvidia del 30%. Il tuo team ha già provato un benchmark con questi nuovi chip? 📉🔬💡🔌"
+      },
+      "video": {
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "In more good news for Amazon...",
+            "voiceover": "Snowflake ha speso 6 miliardi in chip AI AWS.",
+            "on_screen_text": "6 MILIARDI IN CHIP AI!",
+            "visual_direction": "Testo grande che appare rapidamente.",
+            "caption": "Un investimento significativo.",
+            "tone": "urgent",
+            "emphasis_word": "AI",
+            "layout": "single"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 5,
+            "hook": "Ma non è solo Nvidia...",
+            "voiceover": "Non solo GPU Nvidia: Amazon vende anche CPU.",
+            "on_screen_text": "NON SOLO GPU NVIDIA.",
+            "visual_direction": "Testo che si sposta lateralmente.",
+            "caption": "Diversificazione delle offerte.",
+            "tone": "informative",
+            "emphasis_word": "CPU",
+            "layout": "single"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 5,
+            "hook": "Una nuova sfida nel mercato...",
+            "voiceover": "È una sfida diretta al predominio di Nvidia.",
+            "on_screen_text": "SFIDA A NVIDIA!",
+            "visual_direction": "Animazione esplosiva del testo.",
+            "caption": "Competizione accesa.",
+            "tone": "urgent",
+            "emphasis_word": "SFIDA",
+            "layout": "single"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "E per i clienti di Snowflake?",
+            "voiceover": "I clienti Snowflake pagheranno meno per l'AI?",
+            "on_screen_text": "PAGHERANNO MENO?",
+            "visual_direction": "Testo in zoom, pulsante.",
+            "caption": "Possibili risparmi.",
+            "tone": "informative",
+            "emphasis_word": "MENO",
+            "layout": "single"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Confronto delle performance...",
+            "voiceover": "Testa le performance dei chip AWS contro Nvidia.",
+            "on_screen_text": "CHIP AWS VS NVIDIA.",
+            "visual_direction": "Grafica di confronto animata.",
+            "caption": "Chi vincerà?",
+            "tone": "urgent",
+            "emphasis_word": "VS",
+            "layout": "single"
+          }
+        ],
+        "quality_score": 85,
+        "duration_sec": 27,
+        "cta": "Scopri di più su questo accordo!"
       }
     },
     "instagram_caption": "Snowflake ha appena firmato un contratto da 6 miliardi di dollari per usare i chip AI di Amazon, invece di quelli di Nvidia. Amazon ha sviluppato chip propri, chiamati Trainium e Inferentia, che servono per addestrare ed eseguire l'intelligenza artificiale a costi più bassi. Per chi lavora con Snowflake, il risparmio sui costi AI potrebbe arrivare fino al 40%, ma solo se i propri carichi di lavoro sono già ottimizzati per questi chip. In certi test, i chip Amazon hanno già superato le prestazioni delle GPU Nvidia del 30%. Il tuo team ha già provato un benchmark con questi nuovi chip? 📉🔬💡🔌",
@@ -309,7 +722,9 @@ window.ARTICLES = [
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
     "savedAt": "2026-05-27T21:52:40.050Z",
-    "sourceId": "d73c2adfc401b80d03596b5c8d486d94"
+    "sourceId": "d73c2adfc401b80d03596b5c8d486d94",
+    "render_template": "kinetic_typography",
+    "render_quality": "low"
   },
   {
     "schema_version": 2,

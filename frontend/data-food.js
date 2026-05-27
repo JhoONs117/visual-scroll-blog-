@@ -38,6 +38,58 @@ window.FOOD_ARTICLES = [
           "Cuoci piano finché la carne non si sfalda. Il profumo? Cumino e peperoncino che dominano, pomodoro che addolcisce. Un brodo leggero, ma intensissimo.",
           "Trucco del mestiere: se trovi un chipotle secco, usa quello. Marinaci il pollo la notte prima, e il giorno dopo sarà esplosivo. Provala e dimmi com'è andata 👇"
         ]
+      },
+      "video": {
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Scopri la Tinga di pollo messicana!",
+            "voiceover": "Oggi prepariamo un piatto messicano ricco di sapore.",
+            "on_screen_text": "Tinga di pollo: un piatto da provare!",
+            "visual_direction": "Inquadratura ravvicinata di un piatto di Tinga di pollo.",
+            "caption": "Un'esplosione di sapori!"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Ingredienti freschi per un piatto unico!",
+            "voiceover": "Ecco cosa ti serve: sovracosce di pollo, pomodoro, cipolle.",
+            "on_screen_text": "Ingredienti: pollo, pomodoro, cipolle!",
+            "visual_direction": "Inquadratura degli ingredienti disposti su un tavolo.",
+            "caption": "Preparati a cucinare!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 7,
+            "hook": "Disossa e massaggia il pollo con spezie!",
+            "voiceover": "Disossa il pollo e massaggia con cumino e peperoncino.",
+            "on_screen_text": "Disossa e massaggia con spezie!",
+            "visual_direction": "Mostrare il processo di disosso e massaggio con spezie.",
+            "caption": "Semplice e veloce!"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 8,
+            "hook": "Rosola e unisci cipolle e pomodoro.",
+            "voiceover": "Rosola il pollo, poi aggiungi cipolle e pomodoro in padella.",
+            "on_screen_text": "Rosola e aggiungi cipolle e pomodoro!",
+            "visual_direction": "Inquadratura della padella sul fuoco con gli ingredienti.",
+            "caption": "Un profumo irresistibile!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Marina la notte per il massimo del sapore!",
+            "voiceover": "Per un gusto migliore, marinalo con chipotle per una notte.",
+            "on_screen_text": "Marina per una notte con chipotle!",
+            "visual_direction": "Mostrare il pollo marinato in un contenitore.",
+            "caption": "Il segreto della bontà!"
+          }
+        ],
+        "quality_score": 85,
+        "duration_sec": 31,
+        "cta": "Prova la Tinga di pollo oggi!"
       }
     },
     "video_script": [
@@ -108,7 +160,9 @@ window.FOOD_ARTICLES = [
     ],
     "image": "https://www.giallozafferano.it/images/361-36105/Tinga-di-pollo_650x433_wm.jpg",
     "savedAt": "2026-05-27T21:56:29.301Z",
-    "sourceId": "e262f6f548e9d418d1cfd6ae9eefd919"
+    "sourceId": "e262f6f548e9d418d1cfd6ae9eefd919",
+    "render_template": "slide_deck",
+    "render_quality": "low"
   },
   {
     "schema_version": 2,

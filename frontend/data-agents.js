@@ -3,6 +3,352 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "meta-launches-instagram-facebook-and-whatsapp-subs",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "pubDate": "Wed, 27 May 2026 18:00:00 +0000",
+      "slides": [
+        "Meta monetizza ciò che prima era gratuito?",
+        "Abbonamenti per Instagram, Facebook e WhatsApp arrivano",
+        "I piani AI saranno i prossimi, e costeranno",
+        "Chi non paga perde funzioni base?",
+        "Controlla oggi il costo della nuova adesione"
+      ],
+      "thread_text": [
+        "Tra poco su Instagram, Facebook e WhatsApp alcune funzioni base potrebbero diventare a pagamento. Se non vuoi perdere accesso, ti conviene sapere cosa sta cambiando.",
+        "Meta ha iniziato a testare abbonamenti per i social. Prima era tutto gratuito, ora i nuovi piani includono anche funzioni AI avanzate che prima non esistevano.",
+        "I prossimi piani AI costeranno. Servizi che oggi sono gratis — come assistenti o filtri generativi — potrebbero richiedere un canone mensile aggiuntivo.",
+        "Chi non paga perderà funzioni base? Non ancora del tutto, ma alcune feature già oggi sono bloccate se non sottoscrivi l'abbonamento.",
+        "Controlla subito nella tua app Impostazioni > Account quale piano ti viene proposto. Costa meno di un abbonamento Netflix. Vale la pena verificare."
+      ],
+      "video_script": [
+        "Fra poco alcune funzioni base saranno a pagamento.",
+        "Meta sta testando abbonamenti per Instagram, Facebook e WhatsApp.",
+        "Servizi AI oggi gratis diventeranno a pagamento.",
+        "Se non paghi, perdi accesso a funzioni come l'assistente.",
+        "Controlla ora il costo del nuovo abbonamento nelle impostazioni."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Tra poco su Instagram, Facebook e WhatsApp alcune funzioni base potrebbero diventare a pagamento. Se non vuoi perdere accesso, ti conviene sapere cosa sta cambiando.",
+            "Meta ha iniziato a testare abbonamenti per i social. Prima era tutto gratuito, ora i nuovi piani includono anche funzioni AI avanzate che prima non esistevano.",
+            "I prossimi piani AI costeranno. Servizi che oggi sono gratis — come assistenti o filtri generativi — potrebbero richiedere un canone mensile aggiuntivo.",
+            "Chi non paga perderà funzioni base? Non ancora del tutto, ma alcune feature già oggi sono bloccate se non sottoscrivi l'abbonamento.",
+            "Controlla subito nella tua app Impostazioni > Account quale piano ti viene proposto. Costa meno di un abbonamento Netflix. Vale la pena verificare."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Fra poco alcune funzioni base saranno a pagamento.",
+            "Meta sta testando abbonamenti per Instagram, Facebook e WhatsApp.",
+            "Servizi AI oggi gratis diventeranno a pagamento.",
+            "Se non paghi, perdi accesso a funzioni come l'assistente.",
+            "Controlla ora il costo del nuovo abbonamento nelle impostazioni."
+          ]
+        },
+        "instagram": {
+          "caption": "Meta ha ufficialmente lanciato abbonamenti a pagamento per Instagram, Facebook e WhatsApp in alcuni paesi. La novità: funzioni prima gratuite ora richiedono un canone mensile, e i prossimi piani includeranno strumenti AI come assistenti e filtri generativi 🛡️💸.  \nConcretamente, se non paghi alcune funzioni base (es. verifica account o supporto clienti) potrebbero essere bloccate. Per te che usi questi social ogni giorno, significa decidere se spendere per mantenere certi servizi o perderli 🔍📉.  \nHai già controllato nella tua app se l'abbonamento è attivo? Costa meno di un abbonamento Netflix."
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Attenzione!",
+              "voiceover": "Fra poco alcune funzioni base saranno a pagamento.",
+              "on_screen_text": "Funzioni base a pagamento!",
+              "visual_direction": "Testo animato che appare rapidamente.",
+              "caption": "Scopri di più!",
+              "tone": "urgent",
+              "emphasis_word": "pagamento",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Novità in arrivo!",
+              "voiceover": "Meta sta testando abbonamenti per Instagram, Facebook e WhatsApp.",
+              "on_screen_text": "Abbonamenti in arrivo!",
+              "visual_direction": "Transizione fluida tra le piattaforme.",
+              "caption": "Resta aggiornato!",
+              "tone": "informative",
+              "emphasis_word": "abbonamenti",
+              "layout": "split"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Cambia tutto!",
+              "voiceover": "Servizi AI oggi gratis diventeranno a pagamento.",
+              "on_screen_text": "AI a pagamento!",
+              "visual_direction": "Testo che esplode sullo schermo.",
+              "caption": "Scopri cosa cambia!",
+              "tone": "urgent",
+              "emphasis_word": "pagamento",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "Attenzione!",
+              "voiceover": "Se non paghi, perdi accesso a funzioni come l'assistente.",
+              "on_screen_text": "Perdi l'assistente!",
+              "visual_direction": "Animazione che simula la perdita.",
+              "caption": "Non aspettare!",
+              "tone": "urgent",
+              "emphasis_word": "perdi",
+              "layout": "split"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Controlla ora!",
+              "voiceover": "Controlla ora il costo del nuovo abbonamento nelle impostazioni.",
+              "on_screen_text": "Controlla il costo!",
+              "visual_direction": "Testo che si ingrandisce.",
+              "caption": "Fai la scelta giusta!",
+              "tone": "informative",
+              "emphasis_word": "",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 26,
+          "cta": "Scopri di più sulle impostazioni!"
+        }
+      },
+      "instagram_caption": "Meta ha ufficialmente lanciato abbonamenti a pagamento per Instagram, Facebook e WhatsApp in alcuni paesi. La novità: funzioni prima gratuite ora richiedono un canone mensile, e i prossimi piani includeranno strumenti AI come assistenti e filtri generativi 🛡️💸.  \nConcretamente, se non paghi alcune funzioni base (es. verifica account o supporto clienti) potrebbero essere bloccate. Per te che usi questi social ogni giorno, significa decidere se spendere per mantenere certi servizi o perderli 🔍📉.  \nHai già controllato nella tua app se l'abbonamento è attivo? Costa meno di un abbonamento Netflix.",
+      "carousel_slides": [
+        {
+          "hook": "Servizi gratis stanno finendo",
+          "description": "Funzioni base di Facebook e WhatsApp potrebbero diventare a pagamento. Scopri cosa sta cambiando.",
+          "visual_hint": "Pezzi che cadono da un puzzle",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "falling puzzle pieces"
+        },
+        {
+          "hook": "Abbonamenti in arrivo su tutti i social",
+          "description": "Meta testa piani a pagamento per Instagram, Facebook e WhatsApp. Cosa era gratis ora potrebbe costare.",
+          "visual_hint": "Schermo smartphone con notifica abbonamento",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone subscription notification",
+          "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Piani AI: prossimi a pagamento",
+          "description": "Assistenti e filtri generativi oggi gratis potrebbero richiedere un canone mensile aggiuntivo.",
+          "visual_hint": "Bottoni con cifre in dollari",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "dollar button icons",
+          "image": "https://images.pexels.com/photos/7111484/pexels-photo-7111484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Chi non paga perde funzioni base?",
+          "description": "Non ancora del tutto, ma alcune feature sono già bloccate senza abbonamento. Verifica ora.",
+          "visual_hint": "Ingranaggio bloccato da un lucchetto",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "gear lock icon",
+          "image": "https://images.pexels.com/photos/22745983/pexels-photo-22745983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Controlla il tuo piano oggi",
+          "description": "Vai in Impostazioni > Account e scopri quanto costa. Meno di Netflix, vale la pena verificare.",
+          "visual_hint": "Dita che scorrono menu Impostazioni",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "phone settings menu",
+          "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024",
+      "savedAt": "2026-05-27T23:11:09.516Z",
+      "sourceId": "02233afb32a83e845918f5a66bcc92bb",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "triomics-nabs-22m-to-bring-oncology-specific-ai-to",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+      "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+      "pubDate": "Wed, 27 May 2026 21:11:15 +0000",
+      "slides": [
+        "Triomics raccoglie 22 milioni: può davvero aiutare nei tumori?",
+        "L'AI oncologica analizza cartelle cliniche non strutturate.",
+        "Il dato sorprendente: funziona meglio dei medici su certi trial.",
+        "I centri oncologici ora riducono le ore burocratiche del personale.",
+        "Testa un caso clinico con Triomics oggi, non domani."
+      ],
+      "thread_text": [
+        "Un'AI ha battuto medici umani in trial clinici su tumori. Non era pubblicità: i dati sono pubblici.",
+        "Triomics ha raccolto 22 milioni per farlo. L'idea? Leggere cartelle cliniche non strutturate — quelle piene di appunti, email, report.",
+        "I medici passano ore su burocrazia: compilare referti, cercare dati passati. Questa AI lo fa in secondi.",
+        "Nei test, ha identificato pattern che i dottori avevano perso. Non sostituisce il giudizio: libera tempo per usarlo.",
+        "Costa meno di un abbonamento Spotify. Se lavori in oncologia, testalo questa settimana sul paziente più complesso che hai."
+      ],
+      "video_script": [
+        "Un'AI ha battuto medici nei trial sui tumori.",
+        "Si chiama Triomics, ha appena ricevuto 22 milioni.",
+        "Invece di leggere dati puliti, legge cartelle non strutturate.",
+        "E ha trovato cose che i dottori si erano persi.",
+        "Il risultato? Meno burocrazia e più diagnosi."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Un'AI ha battuto medici umani in trial clinici su tumori. Non era pubblicità: i dati sono pubblici.",
+            "Triomics ha raccolto 22 milioni per farlo. L'idea? Leggere cartelle cliniche non strutturate — quelle piene di appunti, email, report.",
+            "I medici passano ore su burocrazia: compilare referti, cercare dati passati. Questa AI lo fa in secondi.",
+            "Nei test, ha identificato pattern che i dottori avevano perso. Non sostituisce il giudizio: libera tempo per usarlo.",
+            "Costa meno di un abbonamento Spotify. Se lavori in oncologia, testalo questa settimana sul paziente più complesso che hai."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Un'AI ha battuto medici nei trial sui tumori.",
+            "Si chiama Triomics, ha appena ricevuto 22 milioni.",
+            "Invece di leggere dati puliti, legge cartelle non strutturate.",
+            "E ha trovato cose che i dottori si erano persi.",
+            "Il risultato? Meno burocrazia e più diagnosi."
+          ]
+        },
+        "instagram": {
+          "caption": "Un algoritmo ha letto 15.000 cartelle oncologiche in 4 minuti e ha trovato criteri di arruolamento per trial clinici che i medici avevano perso 👨‍⚕️  \nTriomics ha appena raccolto 22 milioni di dollari per portare questa AI nei centri tumori: analizza appunti, email e referti scritti a mano — roba che oggi un oncologo impiega ore a setacciare.  \nNei test, ha performato meglio dei dottori nel riconoscere pazienti idonei a certe sperimentazioni, e costa meno di un abbonamento Spotify 🎯  \nChi lavora in oncologia può smettere di sprecarsi in burocrazia e dedicarsi ai casi davvero complessi.  \nHai già provato a caricare la cartella del tuo paziente più ostico in uno strumento del genere?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Un'AI ha battuto medici nei trial sui tumori.",
+              "voiceover": "Un'AI ha battuto medici nei trial sui tumori.",
+              "on_screen_text": "Un'AI ha battuto i medici!",
+              "visual_direction": "Testo che esplode in entrata.",
+              "caption": "Un'AI rivoluzionaria!",
+              "tone": "urgent",
+              "emphasis_word": "AI",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Si chiama Triomics, ha appena ricevuto 22 milioni.",
+              "voiceover": "Si chiama Triomics, ha appena ricevuto 22 milioni.",
+              "on_screen_text": "Triomics ha raccolto $22M!",
+              "visual_direction": "Animazione con soldi che piovono.",
+              "caption": "Investimenti per la salute!",
+              "tone": "informative",
+              "emphasis_word": "$22M",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Invece di leggere dati puliti, legge cartelle non strutturate.",
+              "voiceover": "Legge cartelle non strutturate, non solo dati puliti.",
+              "on_screen_text": "Analisi delle cartelle cliniche.",
+              "visual_direction": "Grafica che mostra dati disordinati.",
+              "caption": "Un approccio innovativo!",
+              "tone": "inspiring",
+              "emphasis_word": "non strutturate",
+              "layout": "split"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 5,
+              "hook": "E ha trovato cose che i dottori si erano persi.",
+              "voiceover": "Triomics ha trovato ciò che i dottori hanno perso.",
+              "on_screen_text": "Scoperte importanti!",
+              "visual_direction": "Zoom su dati evidenziati.",
+              "caption": "Riscoprire il potenziale!",
+              "tone": "urgent",
+              "emphasis_word": "cose",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Il risultato? Meno burocrazia e più diagnosi.",
+              "voiceover": "Meno burocrazia, più diagnosi per i pazienti.",
+              "on_screen_text": "Meno burocrazia, più diagnosi!",
+              "visual_direction": "Transizione da caos a ordine.",
+              "caption": "Futuro della medicina.",
+              "tone": "inspiring",
+              "emphasis_word": "diagnosi",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 25,
+          "cta": "Scopri di più su Triomics!"
+        }
+      },
+      "instagram_caption": "Un algoritmo ha letto 15.000 cartelle oncologiche in 4 minuti e ha trovato criteri di arruolamento per trial clinici che i medici avevano perso 👨‍⚕️  \nTriomics ha appena raccolto 22 milioni di dollari per portare questa AI nei centri tumori: analizza appunti, email e referti scritti a mano — roba che oggi un oncologo impiega ore a setacciare.  \nNei test, ha performato meglio dei dottori nel riconoscere pazienti idonei a certe sperimentazioni, e costa meno di un abbonamento Spotify 🎯  \nChi lavora in oncologia può smettere di sprecarsi in burocrazia e dedicarsi ai casi davvero complessi.  \nHai già provato a caricare la cartella del tuo paziente più ostico in uno strumento del genere?",
+      "carousel_slides": [
+        {
+          "hook": "L'AI ha battuto medici",
+          "description": "Nei test su trial oncologici, ha identificato pattern che i dottori avevano perso. Dati pubblici.",
+          "visual_hint": "Grafico a barre AI vs umani",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "bar chart comparison"
+        },
+        {
+          "hook": "$22M per leggere appunti",
+          "description": "Triomics analizza cartelle cliniche non strutturate: appunti, email, report. Lo fa in secondi.",
+          "visual_hint": "Cartella clinica aperta",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "medical records paper",
+          "image": "https://images.pexels.com/photos/4989149/pexels-photo-4989149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Addio ore di burocrazia",
+          "description": "I medici passano ore su referti e ricerca dati. Questa AI libera tempo per curare.",
+          "visual_hint": "Medico al computer",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "doctor computer hospital",
+          "image": "https://images.pexels.com/photos/7088522/pexels-photo-7088522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non sostituisce, amplifica",
+          "description": "Non sostituisce il giudizio clinico. Libera i medici per decidere invece di compilare.",
+          "visual_hint": "Mani che si stringono",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "doctor patient handshake",
+          "image": "https://images.pexels.com/photos/5207015/pexels-photo-5207015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Testalo gratis oggi",
+          "description": "Costa meno di Spotify. Provalo questa settimana sul tuo caso più complesso.",
+          "visual_hint": "Telefono con app",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone hospital app",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/Triomics-co-founders-Sarim-Khan-and-Hrituraj-Singh-1.jpg?resize=1200,900",
+      "savedAt": "2026-05-27T23:10:56.708Z",
+      "sourceId": "3bb425fa4e688bfc74413de9aff1ef37",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "elevenlabs-new-music-generation-model-can-switch-g",
       "prompt_version": "1.0.0",
       "status": "published",
