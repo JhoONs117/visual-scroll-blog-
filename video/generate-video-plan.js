@@ -65,15 +65,16 @@ function loadCandidates() {
       continue;
     }
 
-    // Filtro: approved/published + render_quality impostato + scenes vuote
+    // Filtro: approved/published + scenes non ancora generate
     if (!['approved', 'published'].includes(article.status)) continue;
-    if (article.render_quality === null || article.render_quality === undefined) continue;
     if (article.formats?.video?.scenes?.length > 0) continue;
 
     const agentCfg = require('../agents')[agentId];
     if (!article.render_template) {
       article.render_template = agentCfg?.defaultVideoTemplate || 'slide_deck';
     }
+    // render_quality default a 'low' se non impostato (non blocca più la generazione)
+    if (!article.render_quality) article.render_quality = 'low';
     const templateModule = require('./templates')[article.render_template];
     const customPrompt = templateModule?.generatePlanPrompt || null;
 
