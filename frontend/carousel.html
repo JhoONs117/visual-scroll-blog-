@@ -912,12 +912,20 @@ function renderArticle(article) {
       quality:  article.render_quality  || '',
       scenes,
     };
-    const blob = new Blob([JSON.stringify(plan, null, 2)], { type: 'application/json' });
+    const json = JSON.stringify(plan, null, 2);
+    // Browser download
+    const blob = new Blob([json], { type: 'application/json' });
     const a    = document.createElement('a');
     a.href     = URL.createObjectURL(blob);
     a.download = `video-plan-${article.slug}.json`;
     a.click();
     setTimeout(() => URL.revokeObjectURL(a.href), 15000);
+    // Salva anche in output/video-plans/ se il server gira in locale
+    fetch('/api/save-video-plan', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ plan }),
+    }).catch(() => {});
     const orig = btn.innerHTML;
     btn.innerHTML = '✓ Scaricato';
     setTimeout(() => { btn.innerHTML = orig; }, 2000);

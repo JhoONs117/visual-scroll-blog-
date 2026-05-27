@@ -238,6 +238,27 @@ http.createServer((req, res) => {
     return;
   }
 
+  /* ── Save video plan JSON: POST /api/save-video-plan ── */
+  if (req.method === 'POST' && urlPath === '/api/save-video-plan') {
+    let body = '';
+    req.on('data', chunk => { body += chunk; });
+    req.on('end', () => {
+      try {
+        const { plan } = JSON.parse(body);
+        if (!plan?.slug) { res.writeHead(400); res.end('Missing slug'); return; }
+        const dir = path.join(__dirname, 'output', 'video-plans');
+        fs.mkdirSync(dir, { recursive: true });
+        const filePath = path.join(dir, `video-plan-${plan.slug}.json`);
+        fs.writeFileSync(filePath, JSON.stringify(plan, null, 2));
+        res.writeHead(200, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ ok: true, path: `output/video-plans/video-plan-${plan.slug}.json` }));
+      } catch (e) {
+        res.writeHead(500); res.end('Error: ' + e.message);
+      }
+    });
+    return;
+  }
+
   /* ── Serve rendered MP4 videos: GET /renders/:filename ── */
   if (req.method === 'GET' && urlPath.startsWith('/renders/')) {
     const filename = path.basename(urlPath);
