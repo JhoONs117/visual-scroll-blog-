@@ -2,4 +2,9 @@ node_modules
 .env
 logs/
 output/renders/audio/
+output/renders/*.mp4
+output/renders/clips/
+output/renders/ema-tmp/
+output/video-plans/
+video/assets/blender/
 *:Zone.Identifier

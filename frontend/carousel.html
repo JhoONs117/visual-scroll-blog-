@@ -836,12 +836,14 @@ function renderArticle(article) {
         ${tmplList.map(t => `<option value="${t}"${curTmpl === t ? ' selected' : ''}>▶ ${TEMPLATE_LABELS[t] || t}</option>`).join('')}
       </select>`
     : '';
-  const saveForVideoStyle = (!curTmpl || curTmpl === 'slide_deck') ? '' : 'display:none;';
+  const hasScenes    = !!(article.formats?.video?.scenes?.length);
+  const exportLabel  = hasScenes ? '⬇ Esporta piano' : '⬇ Piano (nessun dato)';
+  const exportStyle  = hasScenes ? 'background:#1d4ed8;' : 'background:#1e293b;color:#475569;cursor:default;';
 
   area.innerHTML = `
     <div class="dl-all-bar">
       <button class="dl-all-btn" id="dlAll">${DL_ICON} Scarica tutte e 5 le slide</button>
-      <button class="dl-all-btn" id="saveForVideo" style="background:#16a34a;${saveForVideoStyle}" title="Salva le slide come PNG sul server per usarle nel video 9:16">💾 Salva per video</button>
+      <button class="dl-all-btn" id="exportPlanBtn" style="${exportStyle}" title="Scarica il piano video JSON per il render locale">${exportLabel}</button>
       <span class="dl-hint">oppure clicca una slide → tasto destro / tieni premuto per salvare</span>
       ${sourceLink}
       ${statusPill}${approveBtn}
@@ -898,37 +900,27 @@ function renderArticle(article) {
     btn.innerHTML = orig;
   });
 
-  document.getElementById('saveForVideo').addEventListener('click', async () => {
-    const btn    = document.getElementById('saveForVideo');
-    const orig   = btn.innerHTML;
-    btn.disabled = true;
-    const slides = [...document.querySelectorAll('.slide-wrap .slide')];
-    let saved = 0;
-    for (let i = 0; i < slides.length; i++) {
-      btn.innerHTML = `⏳ Salvataggio ${i + 1}/${slides.length}…`;
-      try {
-        const canvas  = await renderToCanvas(slides[i]);
-        const dataUrl = canvas.toDataURL('image/png');
-        // Download diretto nel browser con nome slide{i}.png
-        const a = document.createElement('a');
-        a.href = dataUrl; a.download = `slide${i}.png`; a.click();
-        await new Promise(r => setTimeout(r, 400));
-        // Salva anche sul server (best effort)
-        const res = await fetch('/api/save-carousel-png', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ agentId, slug: article.slug || slug, index: i, dataUrl }),
-        });
-        if (!res.ok) throw new Error(await res.text());
-        saved++;
-      } catch (e) {
-        console.error(`slide ${i} fallita:`, e);
-      }
-      if (i < slides.length - 1) await new Promise(r => setTimeout(r, 200));
-    }
-    btn.disabled  = false;
-    btn.innerHTML = saved === slides.length ? `✅ ${saved} slide salvate` : `⚠️ ${saved}/${slides.length} salvate`;
-    setTimeout(() => { btn.innerHTML = orig; }, 3000);
+  document.getElementById('exportPlanBtn').addEventListener('click', () => {
+    const btn    = document.getElementById('exportPlanBtn');
+    const scenes = article.formats?.video?.scenes;
+    if (!scenes?.length) return;
+    const plan = {
+      slug:     article.slug     || '',
+      agent:    agentId          || 'ai-news',
+      title:    article.title    || '',
+      template: article.render_template || '',
+      quality:  article.render_quality  || '',
+      scenes,
+    };
+    const blob = new Blob([JSON.stringify(plan, null, 2)], { type: 'application/json' });
+    const a    = document.createElement('a');
+    a.href     = URL.createObjectURL(blob);
+    a.download = `video-plan-${article.slug}.json`;
+    a.click();
+    setTimeout(() => URL.revokeObjectURL(a.href), 15000);
+    const orig = btn.innerHTML;
+    btn.innerHTML = '✓ Scaricato';
+    setTimeout(() => { btn.innerHTML = orig; }, 2000);
   });
 
   const approveBtnEl = document.getElementById('car-approve-btn');
@@ -944,7 +936,6 @@ function renderArticle(article) {
   const tmplSelEl = document.getElementById('car-tmpl-sel');
   if (tmplSelEl && article.slug) {
     tmplSelEl.addEventListener('change', () => {
-      updateSaveForVideoBtn(tmplSelEl.value);
       setRenderTemplate(article.slug, agentId, tmplSelEl.value, article, tmplSelEl);
     });
   }
@@ -999,10 +990,6 @@ async function setRenderQuality(slug, agent, quality, articleObj, selectEl) {
   }
 }
 
-function updateSaveForVideoBtn(selectedTemplate) {
-  const btn = document.getElementById('saveForVideo');
-  if (btn) btn.style.display = (!selectedTemplate || selectedTemplate === 'slide_deck') ? '' : 'none';
-}
 
 async function setRenderTemplate(slug, agent, template, articleObj, selectEl) {
   const prev = selectEl.value;
