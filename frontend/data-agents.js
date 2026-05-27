@@ -3,6 +3,525 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "elevenlabs-new-music-generation-model-can-switch-g",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "ElevenLabs’ new music-generation model can switch genres mid-track",
+      "link": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+      "pubDate": "Wed, 27 May 2026 14:14:10 +0000",
+      "slides": [
+        "Immagina un brano che cambia genere da solo?",
+        "ElevenLabs lancia un modello che lo fa in tempo reale.",
+        "Non serve scrivere accordi: basta descrivere la svolta.",
+        "Musicisti indipendenti: registrate un demo in minuti.",
+        "Provatelo oggi: la prossima hit potrebbe essere vostra."
+      ],
+      "thread_text": [
+        "Non devi scrivere gli accordi per cambiare genere a un brano: basta descrivere la svolta a parole.",
+        "ElevenLabs ha appena lanciato un modello che fa proprio questo: trasforma la musica in tempo reale mentre suona.",
+        "Immagina di registrare un demo e, con una frase, passare da un folk a un elettronico senza ricominciare da capo.",
+        "Musicisti indipendenti possono ora produrre un brano completo in minuti, non ore, e testare suoni diversi al volo.",
+        "Costa meno di un abbonamento Spotify mensile. La prossima hit potrebbe partire da un tuo demo oggi stesso."
+      ],
+      "video_script": [
+        "Descrivi una svolta e la musica cambia da sola.",
+        "Un modello di ElevenLabs lo fa in tempo reale.",
+        "Niente accordi da riscrivere, solo parole.",
+        "Musicisti: demo pronti in minuti, non ore.",
+        "Prova oggi: la tua hit potrebbe nascere qui."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Non devi scrivere gli accordi per cambiare genere a un brano: basta descrivere la svolta a parole.",
+            "ElevenLabs ha appena lanciato un modello che fa proprio questo: trasforma la musica in tempo reale mentre suona.",
+            "Immagina di registrare un demo e, con una frase, passare da un folk a un elettronico senza ricominciare da capo.",
+            "Musicisti indipendenti possono ora produrre un brano completo in minuti, non ore, e testare suoni diversi al volo.",
+            "Costa meno di un abbonamento Spotify mensile. La prossima hit potrebbe partire da un tuo demo oggi stesso."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Descrivi una svolta e la musica cambia da sola.",
+            "Un modello di ElevenLabs lo fa in tempo reale.",
+            "Niente accordi da riscrivere, solo parole.",
+            "Musicisti: demo pronti in minuti, non ore.",
+            "Prova oggi: la tua hit potrebbe nascere qui."
+          ]
+        },
+        "instagram": {
+          "caption": "Con ElevenLabs ora puoi cambiare il genere di un brano mentre suona, senza riscrivere un solo accordo. 🎚️ Basta descrivere la svolta a parole — ad esempio \"passa da folk a elettronico\" — e il modello trasforma la traccia in tempo reale. 🎶 Per un musicista indipendente significa registrare un demo completo in minuti e testare suoni diversi al volo. 🎤 Costa meno di un abbonamento Spotify mensile. Da quale genere parti oggi?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "Sveliamo una rivoluzione musicale!",
+              "voiceover": "ElevenLabs ha lanciato un nuovo modello di generazione musicale.",
+              "on_screen_text": "RIVOLUZIONE MUSICALE!",
+              "visual_direction": "Testo che appare con un effetto di scrittura.",
+              "caption": "Scopri come cambia la musica.",
+              "tone": "urgent",
+              "emphasis_word": "RIVOLUZIONE",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Immagina di cambiare genere.",
+              "voiceover": "Questo modello può cambiare genere in tempo reale.",
+              "on_screen_text": "CAMBIA GENERE!",
+              "visual_direction": "Transizione fluida tra generi musicali.",
+              "caption": "La musica evolve da sola.",
+              "tone": "urgent",
+              "emphasis_word": "CAMBIA",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Nessuna riscrittura necessaria.",
+              "voiceover": "Non ci sono accordi da riscrivere, solo parole.",
+              "on_screen_text": "SOLO PAROLE!",
+              "visual_direction": "Animazione con parole che danzano.",
+              "caption": "Semplicità e creatività unite.",
+              "tone": "informative",
+              "emphasis_word": "SOLO",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 8,
+              "hook": "Demo pronte in pochi minuti.",
+              "voiceover": "I musicisti possono avere demo pronte in minuti, non ore.",
+              "on_screen_text": "DEMO IN MINUTI!",
+              "visual_direction": "Timer che scorre velocemente.",
+              "caption": "Accelera la tua creatività.",
+              "tone": "inspiring",
+              "emphasis_word": "MINUTI",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Prova oggi stesso!",
+              "voiceover": "La tua hit potrebbe nascere qui, prova oggi.",
+              "on_screen_text": "PROVA OGGI!",
+              "visual_direction": "Chiusura con un invito all'azione accattivante.",
+              "caption": "Non aspettare, inizia ora!",
+              "tone": "urgent",
+              "emphasis_word": "PROVA",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 30,
+          "cta": "Inizia a creare la tua musica!"
+        }
+      },
+      "instagram_caption": "Con ElevenLabs ora puoi cambiare il genere di un brano mentre suona, senza riscrivere un solo accordo. 🎚️ Basta descrivere la svolta a parole — ad esempio \"passa da folk a elettronico\" — e il modello trasforma la traccia in tempo reale. 🎶 Per un musicista indipendente significa registrare un demo completo in minuti e testare suoni diversi al volo. 🎤 Costa meno di un abbonamento Spotify mensile. Da quale genere parti oggi?",
+      "carousel_slides": [
+        {
+          "hook": "Basta descrivere la svolta",
+          "description": "Non devi scrivere accordi per cambiare genere a un brano: basta descriverlo a parole.",
+          "visual_hint": "scritte che si trasformano in note",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "music studio equipment"
+        },
+        {
+          "hook": "Musica che muta da sola",
+          "description": "ElevenLabs lancia un modello che trasforma la musica in tempo reale mentre suona.",
+          "visual_hint": "onda sonora che si deforma",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "sound wave oscilloscope",
+          "image": "https://images.pexels.com/photos/7858245/pexels-photo-7858245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Da folk a elettronico in un frase",
+          "description": "Immagina registrare un demo e passare da un genere all'altro senza ricominciare da capo.",
+          "visual_hint": "cambio di colore nella traccia",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "audio mixing console",
+          "image": "https://images.pexels.com/photos/8132726/pexels-photo-8132726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Demo completi in minuti",
+          "description": "Musicisti indipendenti possono produrre un brano completo in minuti e testare suoni diversi al volo.",
+          "visual_hint": "mani su tastiera e cuffie",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "headphones and laptop",
+          "image": "https://images.pexels.com/photos/7709093/pexels-photo-7709093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "La prossima hit ti aspetta",
+          "description": "Costa meno di un abbonamento Spotify. Prova oggi e crea la tua hit da un demo.",
+          "visual_hint": "icona play che esplode",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone music app",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+      "savedAt": "2026-05-27T21:53:01.668Z",
+      "sourceId": "71772329c110ab008a75ae45bfb76cd1",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "faa-orders-spacex-to-investigate-starship-v3-boost",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
+      "link": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
+      "pubDate": "Wed, 27 May 2026 15:20:16 +0000",
+      "slides": [
+        "FAA ferma SpaceX. Il booster V3 è esploso?",
+        "L'incidente blocca ogni lancio futuro di Starship.",
+        "Il guasto è avvenuto dopo un test riuscito a terra.",
+        "Ritardi per clienti in attesa di carichi utili.",
+        "Scopri cosa significa per i prossimi contratti NASA."
+      ],
+      "thread_text": [
+        "La FAA ha fermato SpaceX. Il booster V3 potrebbe essere esploso durante un test a terra. Se confermato, ogni lancio futuro di Starship viene bloccato. Il momento è critico: clienti con carichi utili già pronti aspettano da mesi.",
+        "L'incidente è accaduto dopo un test che era riuscito. Un guasto emerso nella fase più banale, quella a terra. È il genere di errore che fa saltare tutta la cronologia, perché nessuno lo aveva previsto.",
+        "I clienti in attesa non sono solo privati. Ci sono carichi utili per la NASA, esperimenti scientifici, satelliti. Ogni giorno di ritardo costa oltre un milione di dollari in contratti già firmati. SpaceX ora deve gestire un effetto domino.",
+        "La FAA non riprenderà i lanci senza una revisione completa della procedura di test a terra. Il booster V3 non è ancora certificato per il volo. Se il guasto è strutturale, il programma Starship slitta di almeno un anno.",
+        "Cosa significa per i contratti NASA? Se Starship non vola entro il primo trimestre del prossimo anno, l’agenzia deve attivare le clausole penali. SpaceX rischia di perdere la corsa alla Luna prima ancora di partire."
+      ],
+      "video_script": [
+        "La FAA ha fermato SpaceX perché qualcosa è esploso.",
+        "Il booster V3 potrebbe essere saltato durante un test a terra.",
+        "L'incidente è successo dopo un test che sembrava perfetto.",
+        "Clienti con carichi pronti aspettano da mesi.",
+        "Se Starship non vola, i contratti NASA si complicano."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "La FAA ha fermato SpaceX. Il booster V3 potrebbe essere esploso durante un test a terra. Se confermato, ogni lancio futuro di Starship viene bloccato. Il momento è critico: clienti con carichi utili già pronti aspettano da mesi.",
+            "L'incidente è accaduto dopo un test che era riuscito. Un guasto emerso nella fase più banale, quella a terra. È il genere di errore che fa saltare tutta la cronologia, perché nessuno lo aveva previsto.",
+            "I clienti in attesa non sono solo privati. Ci sono carichi utili per la NASA, esperimenti scientifici, satelliti. Ogni giorno di ritardo costa oltre un milione di dollari in contratti già firmati. SpaceX ora deve gestire un effetto domino.",
+            "La FAA non riprenderà i lanci senza una revisione completa della procedura di test a terra. Il booster V3 non è ancora certificato per il volo. Se il guasto è strutturale, il programma Starship slitta di almeno un anno.",
+            "Cosa significa per i contratti NASA? Se Starship non vola entro il primo trimestre del prossimo anno, l’agenzia deve attivare le clausole penali. SpaceX rischia di perdere la corsa alla Luna prima ancora di partire."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "La FAA ha fermato SpaceX perché qualcosa è esploso.",
+            "Il booster V3 potrebbe essere saltato durante un test a terra.",
+            "L'incidente è successo dopo un test che sembrava perfetto.",
+            "Clienti con carichi pronti aspettano da mesi.",
+            "Se Starship non vola, i contratti NASA si complicano."
+          ]
+        },
+        "instagram": {
+          "caption": "La FAA ha fermato SpaceX perché il booster Starship V3 è esploso durante un test a terra, dopo un collaudo riuscito. 🚫 Un guasto banale in fase di rifornimento ora blocca 🛑 tutti i futuri lanci, con un buco da oltre un milione di dollari al giorno per clienti NASA e satelliti già pronti. ⏳ Se il problema è strutturale, il programma slitta di un anno e la Luna si allontana. Hai già carichi utili in lista d'attesa?"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 4,
+              "hook": "La FAA ha fermato SpaceX!",
+              "voiceover": "La FAA ha fermato SpaceX perché qualcosa è esploso.",
+              "on_screen_text": "FAA FERMA SPACEX!",
+              "visual_direction": "Testo grande e impattante al centro dello schermo.",
+              "caption": "Un'azione senza precedenti.",
+              "tone": "urgent",
+              "emphasis_word": "FERMA",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Il motivo? Un'esplosione.",
+              "voiceover": "Il booster V3 potrebbe essere saltato durante un test a terra.",
+              "on_screen_text": "BOOSTER V3 SALTATO!",
+              "visual_direction": "Animazione di esplosione con testo che appare.",
+              "caption": "Un test disastroso.",
+              "tone": "urgent",
+              "emphasis_word": "SALTA",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 6,
+              "hook": "Un test che sembrava perfetto.",
+              "voiceover": "L'incidente è successo dopo un test che sembrava perfetto.",
+              "on_screen_text": "TEST SEMBRAVA PERFETTO",
+              "visual_direction": "Transizione fluida da un test di successo a un'esplosione.",
+              "caption": "La delusione è palpabile.",
+              "tone": "informative",
+              "emphasis_word": "PERFETTO",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "I clienti sono in attesa.",
+              "voiceover": "Clienti con carichi pronti aspettano da mesi.",
+              "on_screen_text": "CLIENTI IN ATTESA",
+              "visual_direction": "Testo che appare mentre scorre una lista di clienti.",
+              "caption": "L'attesa continua.",
+              "tone": "urgent",
+              "emphasis_word": "ATTESE",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Cosa succederà ora?",
+              "voiceover": "Se Starship non vola, i contratti NASA si complicano.",
+              "on_screen_text": "CONTRATTI NASA IN PERICOLO",
+              "visual_direction": "Testo che lampeggia per enfatizzare l'urgenza.",
+              "caption": "Il futuro è incerto.",
+              "tone": "urgent",
+              "emphasis_word": "PERICOLO",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 26,
+          "cta": "Segui per aggiornamenti su SpaceX!"
+        }
+      },
+      "instagram_caption": "La FAA ha fermato SpaceX perché il booster Starship V3 è esploso durante un test a terra, dopo un collaudo riuscito. 🚫 Un guasto banale in fase di rifornimento ora blocca 🛑 tutti i futuri lanci, con un buco da oltre un milione di dollari al giorno per clienti NASA e satelliti già pronti. ⏳ Se il problema è strutturale, il programma slitta di un anno e la Luna si allontana. Hai già carichi utili in lista d'attesa?",
+      "carousel_slides": [
+        {
+          "hook": "Il test era riuscito. Poi è esploso.",
+          "description": "Il booster V3 potrebbe essere esploso durante un test a terra. Nessuno aveva previsto il guasto nella fase più banale.",
+          "visual_hint": "Booster enorme su piazzola test",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "SpaceX rocket launch pad"
+        },
+        {
+          "hook": "FAA blocca ogni lancio futuro.",
+          "description": "La FAA ha fermato SpaceX. Se confermato, nessun lancio Starship finché non sarà revisionata l'intera procedura di test a terra.",
+          "visual_hint": "Documento ufficiale e timbro",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "FAA document official",
+          "image": "https://images.pexels.com/photos/7821927/pexels-photo-7821927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ogni giorno di ritardo costa caro.",
+          "description": "Clienti con carichi NASA, esperimenti e satelliti aspettano da mesi. Ogni giorno oltre 1 milione di dollari in contratti firmati.",
+          "visual_hint": "Grafico a barre in rosso",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Guasto strutturale? Addio programma.",
+          "description": "Se il guasto è strutturale, Starship slitta di almeno un anno. Il booster V3 non è ancora certificato per il volo.",
+          "visual_hint": "Primo piano valvola metallica",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "metal mechanical valve closeup",
+          "image": "https://images.pexels.com/photos/5711732/pexels-photo-5711732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cosa significa per i contratti NASA?",
+          "description": "Se Starship non vola entro il primo trimestre 2025, la NASA attiva clausole penali. SpaceX rischia di perdere la corsa alla Luna.",
+          "visual_hint": "Logo NASA e calendario",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "NASA logo building",
+          "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800",
+      "savedAt": "2026-05-27T21:52:51.765Z",
+      "sourceId": "9788635b5234eb7b23833d219fa885e2",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "in-more-good-news-for-amazon-snowflake-signs-6b-de",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "pubDate": "Wed, 27 May 2026 20:10:00 +0000",
+      "slides": [
+        "Snowflake spende 6 miliardi in chip AI AWS. Perché ora?",
+        "Amazon vende CPU AI, non solo GPU dominanti.",
+        "Il contratto sfida il predominio di Nvidia sul cloud.",
+        "Chi usa Snowflake vedrà costi AI ridotti?",
+        "Testa le performance dei chip AWS contro Nvidia."
+      ],
+      "thread_text": [
+        "Nvidia domina il cloud AI, ma Snowflake ha appena firmato un contratto da 6 miliardi con AWS per chip alternativi. La sfida è aperta.",
+        "Amazon non vende solo GPU Nvidia. Con Trainium e Inferentia ha CPU AI proprie, e Snowflake le ha scelte per ridurre dipendenza e costi.",
+        "Il contratto triennale sposta l'equilibrio: AWS diventa fornitore diretto di chip AI, non solo noleggiatore di server Nvidia.",
+        "Chi usa Snowflake potrebbe vedere tagli sui costi AI fino al 40%. Ma serve che i carichi di lavoro siano ottimizzati per questi chip.",
+        "Su workload specifici i chip AWS hanno già performato il 30% in più delle GPU Nvidia. Prova tu un benchmark con Snowflake questa settimana."
+      ],
+      "video_script": [
+        "Snowflake ha speso 6 miliardi in chip AI AWS.",
+        "Non solo GPU Nvidia: Amazon vende anche CPU.",
+        "È una sfida diretta al predominio di Nvidia.",
+        "I clienti Snowflake pagheranno meno per l'AI?",
+        "Testa le performance dei chip AWS contro Nvidia."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Nvidia domina il cloud AI, ma Snowflake ha appena firmato un contratto da 6 miliardi con AWS per chip alternativi. La sfida è aperta.",
+            "Amazon non vende solo GPU Nvidia. Con Trainium e Inferentia ha CPU AI proprie, e Snowflake le ha scelte per ridurre dipendenza e costi.",
+            "Il contratto triennale sposta l'equilibrio: AWS diventa fornitore diretto di chip AI, non solo noleggiatore di server Nvidia.",
+            "Chi usa Snowflake potrebbe vedere tagli sui costi AI fino al 40%. Ma serve che i carichi di lavoro siano ottimizzati per questi chip.",
+            "Su workload specifici i chip AWS hanno già performato il 30% in più delle GPU Nvidia. Prova tu un benchmark con Snowflake questa settimana."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Snowflake ha speso 6 miliardi in chip AI AWS.",
+            "Non solo GPU Nvidia: Amazon vende anche CPU.",
+            "È una sfida diretta al predominio di Nvidia.",
+            "I clienti Snowflake pagheranno meno per l'AI?",
+            "Testa le performance dei chip AWS contro Nvidia."
+          ]
+        },
+        "instagram": {
+          "caption": "Snowflake ha appena firmato un contratto da 6 miliardi di dollari per usare i chip AI di Amazon, invece di quelli di Nvidia. Amazon ha sviluppato chip propri, chiamati Trainium e Inferentia, che servono per addestrare ed eseguire l'intelligenza artificiale a costi più bassi. Per chi lavora con Snowflake, il risparmio sui costi AI potrebbe arrivare fino al 40%, ma solo se i propri carichi di lavoro sono già ottimizzati per questi chip. In certi test, i chip Amazon hanno già superato le prestazioni delle GPU Nvidia del 30%. Il tuo team ha già provato un benchmark con questi nuovi chip? 📉🔬💡🔌"
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 6,
+              "hook": "In more good news for Amazon...",
+              "voiceover": "Snowflake ha speso 6 miliardi in chip AI AWS.",
+              "on_screen_text": "6 MILIARDI IN CHIP AI!",
+              "visual_direction": "Testo grande che appare rapidamente.",
+              "caption": "Un investimento significativo.",
+              "tone": "urgent",
+              "emphasis_word": "AI",
+              "layout": "single"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 5,
+              "hook": "Ma non è solo Nvidia...",
+              "voiceover": "Non solo GPU Nvidia: Amazon vende anche CPU.",
+              "on_screen_text": "NON SOLO GPU NVIDIA.",
+              "visual_direction": "Testo che si sposta lateralmente.",
+              "caption": "Diversificazione delle offerte.",
+              "tone": "informative",
+              "emphasis_word": "CPU",
+              "layout": "single"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 5,
+              "hook": "Una nuova sfida nel mercato...",
+              "voiceover": "È una sfida diretta al predominio di Nvidia.",
+              "on_screen_text": "SFIDA A NVIDIA!",
+              "visual_direction": "Animazione esplosiva del testo.",
+              "caption": "Competizione accesa.",
+              "tone": "urgent",
+              "emphasis_word": "SFIDA",
+              "layout": "single"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 6,
+              "hook": "E per i clienti di Snowflake?",
+              "voiceover": "I clienti Snowflake pagheranno meno per l'AI?",
+              "on_screen_text": "PAGHERANNO MENO?",
+              "visual_direction": "Testo in zoom, pulsante.",
+              "caption": "Possibili risparmi.",
+              "tone": "informative",
+              "emphasis_word": "MENO",
+              "layout": "single"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Confronto delle performance...",
+              "voiceover": "Testa le performance dei chip AWS contro Nvidia.",
+              "on_screen_text": "CHIP AWS VS NVIDIA.",
+              "visual_direction": "Grafica di confronto animata.",
+              "caption": "Chi vincerà?",
+              "tone": "urgent",
+              "emphasis_word": "VS",
+              "layout": "single"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 27,
+          "cta": "Scopri di più su questo accordo!"
+        }
+      },
+      "instagram_caption": "Snowflake ha appena firmato un contratto da 6 miliardi di dollari per usare i chip AI di Amazon, invece di quelli di Nvidia. Amazon ha sviluppato chip propri, chiamati Trainium e Inferentia, che servono per addestrare ed eseguire l'intelligenza artificiale a costi più bassi. Per chi lavora con Snowflake, il risparmio sui costi AI potrebbe arrivare fino al 40%, ma solo se i propri carichi di lavoro sono già ottimizzati per questi chip. In certi test, i chip Amazon hanno già superato le prestazioni delle GPU Nvidia del 30%. Il tuo team ha già provato un benchmark con questi nuovi chip? 📉🔬💡🔌",
+      "carousel_slides": [
+        {
+          "hook": "Il monopolio Nvidia vacilla",
+          "description": "Amazon vende CPU AI proprie, non solo GPU Nvidia. Snowflake le ha scelte per ridurre dipendenza e costi.",
+          "visual_hint": "Grafico a pile in calo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "6 miliardi per sfidare Nvidia",
+          "description": "Snowflake ha appena firmato un contratto da 6 miliardi con AWS per chip alternativi. La sfida è aperta.",
+          "visual_hint": "Mani che firmano contratto",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office people signing",
+          "image": "https://images.pexels.com/photos/6950033/pexels-photo-6950033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AWS diventa fornitore diretto",
+          "description": "Il contratto triennale sposta l'equilibrio: AWS non è più solo noleggiatore di server Nvidia.",
+          "visual_hint": "Server rack con logo AWS",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Taglio costi fino al 40%",
+          "description": "Chi usa Snowflake potrebbe vedere tagli sui costi AI, ma serve che i carichi siano ottimizzati per questi chip.",
+          "visual_hint": "Frecce verdi di risparmio",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding money",
+          "image": "https://images.pexels.com/photos/5909819/pexels-photo-5909819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova il benchmark tu stesso",
+          "description": "Su workload specifici i chip AWS hanno performato il 30% in più delle GPU Nvidia. Prova un benchmark con Snowflake.",
+          "visual_hint": "Grafico a barre comparativo",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "computer screen benchmark",
+          "image": "https://images.pexels.com/photos/7500056/pexels-photo-7500056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+      "savedAt": "2026-05-27T21:52:40.050Z",
+      "sourceId": "d73c2adfc401b80d03596b5c8d486d94",
+      "render_template": "kinetic_typography",
+      "render_quality": "low"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ai-coding-startup-cognition-raises-1b-at-25b-pre-m",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -33736,6 +34255,171 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "tinga-di-pollo",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Tinga di pollo",
+      "link": "https://ricette.giallozafferano.it/Tinga-di-pollo.html",
+      "pubDate": "Wed, 27 May 2026 17:59:00 +0200",
+      "content": "Tinga di pollo: ricetta messicana facile e saporita con pomodoro e spezie Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Secondi piatti Tinga di pollo /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA 436,2 Calorie per porzione Energia Kcal 436,2 Carboidrati g 8,9 &nbsp;&nbsp;di cui zuccheri g 4,9 Proteine g 29,1 Grassi g 31,4 &nbsp;&nbsp;di cui saturi g 8,1 Fibre g 2,2 Colesterolo mg 163,3 Sodio mg 275,1 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza glutine Senza lattosio Dieta Mediterranea Difficoltà: Facile Preparazione: 15 min Cottura: 1 h 15 min Dosi per: 6 persone PRESENTAZIONE La tinga di pollo è un piatto tradizionale della cucina messicana, in particolare della zona di Puebla: si tratta di uno stufato di carne molto amato per la facilità della sua preparazione, e per questo popolare sia come pietanza casalinga che come cibo da strada. Gli ingredienti sono semplici: il pollo , insaporito con spezie e peperoncino (la ricetta originale prevede il chipotle , un tipo di peperoncino affumicato), viene cotto a lungo insieme a cipolle e salsa di pomodoro fino a quando la carne risulterà tenera e sfilacciata, caratterizzata da un gusto deciso e da un profumo intenso. Ottima da gustare da sola con il classico accompagnamento di riso e frijoles , la tinga di pollo è perfetta anche per farcire tacos , tortillas e tostadas, magari nella variante tex-mex con l’aggiunta di avocado, formaggio o panna acida! Un’idea conviviale da proporre per una cena etnica all’insegna dei sapori messicani, dedicata a chi ama sperimentare senza rinunciare a piatti autentici e genuini. Scoprite altre tipiche ricette del Messico: Chili con carne Burrito Fajitas di carne e pollo Chicken Tinga Scopri anche Pollo alla cacciatora in bianco Sovracosce di pollo in crosta Pollo con prosciutto crudo al pomodoro Sfoglia tutte INGREDIENTI 436,2 Calorie per porzione Sovracosce di pollo 1 kg Polpa di pomodoro 800 g Cipolle bianche 200 g Cumino in polvere &frac12; cucchiaino Peperoncino in polvere q.b. Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Tinga di pollo Per preparare la tinga di pollo, per prima cosa disossate le sovracosce 1 . Trasferite i pezzi di carne in una pirofila capiente 2 e insaporite con il cumino 3 . Aggiungete anche il peperoncino 4 , il sale 5 e il pepe 6 . Condite con l’olio 7 e massaggiate con le mani per mescolare bene 8 . Mondate e affettate la cipolla 9 . Scaldate l’olio in un’ampia padella, poi adagiate i pezzi di pollo 10 e rosolate a fiamma vivace su tutti i lati, per un totale di circa 15 minuti 11 . A questo punto unite le cipolle 12 . Versate anche la polpa di pomodoro 13 , mescolate 14 e coprite con il coperchio 15 . Cuocete a fuoco dolce per circa un’ora, mescolando ogni tanto. Trascorso il tempo di cottura, il pollo dovrà sfilacciarsi facilmente 16 . Impiattate 17 e servite la tinga di pollo ben calda 18 . Conservazione La tinga di pollo si può conservare in frigorifero per 2-3 giorni. Potete congelarla. Consiglio Il pollo può essere lasciato a marinare in frigorifero per una notte. Se riuscite a reperirlo, sostituite il peperoncino secco con il chipotle! Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Pomodoro Olio di oliva Cipolla Scopri tutto sugli ingredienti Presente in: Secondi piatti sfiziosi , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Pollo alla cacciatora in bianco 10 4.6 Sovracosce di pollo in crosta 53 4.3 Pollo con prosciutto crudo al pomodoro 4.7 Pollo marinato 8 4.8 Benessere Ali di pollo glassate 4 3.8 Pollo al forno con patate e cipolle 7 4.1 Sovracosce di pollo in padella 4.6 Sovracosce di pollo al forno 4.6 ULTIME RICETTE Breakfast sandwich canadese 5.0 Ranch chicken drumsticks 5.0 Tinga di pollo 5.0 Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Non hai trovato l'ispirazione giusta? Prova queste! Secondi piatti Pollo alla cacciatora in bianco 10 4.6 Il pollo alla cacciatora in bianco è un secondo facile da preparare e davvero saporito. Una versione alternativa, senza pomodoro e con olive verdi! Vai alla ricetta Secondi piatti Sovracosce di pollo in crosta 53 4.3 Le sovracosce di pollo in crosta sono un secondo con una panatura croccante e aromatica che esalta il sapore della carne. Perfette per ogni occasione! Vai alla ricetta Secondi piatti Pollo con prosciutto crudo al pomodoro 4.7 Il pollo con prosciutto crudo al pomodoro è un secondo piatto davvero appetitoso... preparate il pane nessuno resisterà dal fare la scarpetta! Vai alla ricetta Secondi piatti Pollo marinato 8 4.8 Pollo marinato allo yogurt con senape e limone, cotto al forno con patate e paprika: un secondo piatto tenero, gustoso e croccante. Ecco la ricetta! Vai alla ricetta Benessere Secondi piatti Ali di pollo glassate 4 3.8 Le ali di pollo glassate sono un piatto semplicissimo da preparare per una cena in famiglia o con gli amici! Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Tinga di pollo, stufato messicano saporito",
+        "Sovracosce, pomodoro, cipolle, cumino, peperoncino",
+        "Disossa il pollo e massaggia con spezie",
+        "Rosola il pollo, unisci cipolle e pomodoro, cuoci",
+        "Usa chipotle se possibile, marinare una notte"
+      ],
+      "instagram_caption": "Questa tinga di pollo è un abbraccio messicano che scalda l’anima. 🍂 Pollo stufato lentamente con pomodoro, cipolle, cumino e quel tocco di peperoncino che non perdona. Se trovi il chipotle, lascialo marinare una notte: il sapore diventa profondo, affumicato, pazzesco. Disossa le sovracosce, massaggia con le spezie e rosola fino a che non senti il profumo in tutta casa. Da servire su tostadas o in un taco, con una spruzzata di lime. Provala questo weekend e portami un assaggio 🌮🔥",
+      "formats": {
+        "instagram": {
+          "caption": "Questa tinga di pollo è un abbraccio messicano che scalda l’anima. 🍂 Pollo stufato lentamente con pomodoro, cipolle, cumino e quel tocco di peperoncino che non perdona. Se trovi il chipotle, lascialo marinare una notte: il sapore diventa profondo, affumicato, pazzesco. Disossa le sovracosce, massaggia con le spezie e rosola fino a che non senti il profumo in tutta casa. Da servire su tostadas o in un taco, con una spruzzata di lime. Provala questo weekend e portami un assaggio 🌮🔥"
+        },
+        "tiktok": {
+          "script": [
+            "Tinga di pollo, stufato messicano saporito.",
+            "Sovracosce, pomodoro, cipolle, cumino e peperoncino.",
+            "Disosso il pollo e massaggio con le spezie.",
+            "Rosolo il pollo, unisco cipolle e pomodoro, cuocio.",
+            "Se hai chipotle, marinare una notte è il top."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Un piatto che sa di Messico, ma sembra fatto per la tua cucina di casa: la tinga di pollo. Stufato saporito, che spacca. Pronto a scoprire i segreti?",
+            "Parti dalle sovracosce: le disossi (o le fai disossare dal tuo amico macellaio), poi le massaggi con cumino e peperoncino. Odore già pazzesco.",
+            "Rosoli il pollo fino a farlo dorare bene, poi butti dentro cipolle affettate e pomodoro tritato. A fuoco lento, lascia che si sposino i sapori.",
+            "Cuoci piano finché la carne non si sfalda. Il profumo? Cumino e peperoncino che dominano, pomodoro che addolcisce. Un brodo leggero, ma intensissimo.",
+            "Trucco del mestiere: se trovi un chipotle secco, usa quello. Marinaci il pollo la notte prima, e il giorno dopo sarà esplosivo. Provala e dimmi com'è andata 👇"
+          ]
+        },
+        "video": {
+          "scenes": [
+            {
+              "scene": 1,
+              "duration_sec": 5,
+              "hook": "Scopri la Tinga di pollo messicana!",
+              "voiceover": "Oggi prepariamo un piatto messicano ricco di sapore.",
+              "on_screen_text": "Tinga di pollo: un piatto da provare!",
+              "visual_direction": "Inquadratura ravvicinata di un piatto di Tinga di pollo.",
+              "caption": "Un'esplosione di sapori!"
+            },
+            {
+              "scene": 2,
+              "duration_sec": 6,
+              "hook": "Ingredienti freschi per un piatto unico!",
+              "voiceover": "Ecco cosa ti serve: sovracosce di pollo, pomodoro, cipolle.",
+              "on_screen_text": "Ingredienti: pollo, pomodoro, cipolle!",
+              "visual_direction": "Inquadratura degli ingredienti disposti su un tavolo.",
+              "caption": "Preparati a cucinare!"
+            },
+            {
+              "scene": 3,
+              "duration_sec": 7,
+              "hook": "Disossa e massaggia il pollo con spezie!",
+              "voiceover": "Disossa il pollo e massaggia con cumino e peperoncino.",
+              "on_screen_text": "Disossa e massaggia con spezie!",
+              "visual_direction": "Mostrare il processo di disosso e massaggio con spezie.",
+              "caption": "Semplice e veloce!"
+            },
+            {
+              "scene": 4,
+              "duration_sec": 8,
+              "hook": "Rosola e unisci cipolle e pomodoro.",
+              "voiceover": "Rosola il pollo, poi aggiungi cipolle e pomodoro in padella.",
+              "on_screen_text": "Rosola e aggiungi cipolle e pomodoro!",
+              "visual_direction": "Inquadratura della padella sul fuoco con gli ingredienti.",
+              "caption": "Un profumo irresistibile!"
+            },
+            {
+              "scene": 5,
+              "duration_sec": 5,
+              "hook": "Marina la notte per il massimo del sapore!",
+              "voiceover": "Per un gusto migliore, marinalo con chipotle per una notte.",
+              "on_screen_text": "Marina per una notte con chipotle!",
+              "visual_direction": "Mostrare il pollo marinato in un contenitore.",
+              "caption": "Il segreto della bontà!"
+            }
+          ],
+          "quality_score": 85,
+          "duration_sec": 31,
+          "cta": "Prova la Tinga di pollo oggi!"
+        }
+      },
+      "video_script": [
+        "Tinga di pollo, stufato messicano saporito.",
+        "Sovracosce, pomodoro, cipolle, cumino e peperoncino.",
+        "Disosso il pollo e massaggio con le spezie.",
+        "Rosolo il pollo, unisco cipolle e pomodoro, cuocio.",
+        "Se hai chipotle, marinare una notte è il top."
+      ],
+      "thread_text": [
+        "Un piatto che sa di Messico, ma sembra fatto per la tua cucina di casa: la tinga di pollo. Stufato saporito, che spacca. Pronto a scoprire i segreti?",
+        "Parti dalle sovracosce: le disossi (o le fai disossare dal tuo amico macellaio), poi le massaggi con cumino e peperoncino. Odore già pazzesco.",
+        "Rosoli il pollo fino a farlo dorare bene, poi butti dentro cipolle affettate e pomodoro tritato. A fuoco lento, lascia che si sposino i sapori.",
+        "Cuoci piano finché la carne non si sfalda. Il profumo? Cumino e peperoncino che dominano, pomodoro che addolcisce. Un brodo leggero, ma intensissimo.",
+        "Trucco del mestiere: se trovi un chipotle secco, usa quello. Marinaci il pollo la notte prima, e il giorno dopo sarà esplosivo. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Tinga di pollo: sapore messicano",
+          "description": "Stufato saporito e affumicato, perfetto per tacos o tostadas.",
+          "visual_hint": "piatto fumante con pollo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory chicken tinga stew"
+        },
+        {
+          "hook": "Ingredienti che contano",
+          "description": "Sovracosce, pomodoro, cipolle, cumino e peperoncino per un gusto autentico.",
+          "visual_hint": "ingredienti disposti sul tavolo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory chicken tinga ingredients",
+          "image": "https://images.pexels.com/photos/4958640/pexels-photo-4958640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il gesto segreto",
+          "description": "Disossa il pollo e massaggialo con le spezie per insaporire a fondo.",
+          "visual_hint": "mani che massaggiano spezie sul pollo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory chicken spice rub",
+          "image": "https://images.pexels.com/photos/34138803/pexels-photo-34138803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "La cottura perfetta",
+          "description": "Rosola il pollo, unisci cipolle e pomodoro; cuoci fino a che è tenero.",
+          "visual_hint": "pollo che rosola in padella",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory chicken browning skillet",
+          "image": "https://images.pexels.com/photos/25884474/pexels-photo-25884474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trucco finale: chipotle",
+          "description": "Usa chipotle e lascia marinare una notte per un sapore più intenso.",
+          "visual_hint": "piatto finito con chipotle",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory chicken tinga bowl",
+          "image": "https://images.pexels.com/photos/9258708/pexels-photo-9258708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "meat",
+      "signature_ingredients": [
+        "pollo",
+        "pomodoro",
+        "chipotle"
+      ],
+      "image": "https://www.giallozafferano.it/images/361-36105/Tinga-di-pollo_650x433_wm.jpg",
+      "savedAt": "2026-05-27T21:56:29.301Z",
+      "sourceId": "e262f6f548e9d418d1cfd6ae9eefd919",
+      "render_template": "slide_deck",
+      "render_quality": "low"
+    },
     {
       "schema_version": 2,
       "agent": "food",

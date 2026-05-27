@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "in-more-good-news-for-amazon-snowflake-signs-6b-de",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+  "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+  "pubDate": "Wed, 27 May 2026 20:10:00 +0000",
+  "slides": [
+    "Snowflake spende 6 miliardi in chip AI AWS. Perché ora?",
+    "Amazon vende CPU AI, non solo GPU dominanti.",
+    "Il contratto sfida il predominio di Nvidia sul cloud.",
+    "Chi usa Snowflake vedrà costi AI ridotti?",
+    "Testa le performance dei chip AWS contro Nvidia."
+  ],
+  "thread_text": [
+    "Nvidia domina il cloud AI, ma Snowflake ha appena firmato un contratto da 6 miliardi con AWS per chip alternativi. La sfida è aperta.",
+    "Amazon non vende solo GPU Nvidia. Con Trainium e Inferentia ha CPU AI proprie, e Snowflake le ha scelte per ridurre dipendenza e costi.",
+    "Il contratto triennale sposta l'equilibrio: AWS diventa fornitore diretto di chip AI, non solo noleggiatore di server Nvidia.",
+    "Chi usa Snowflake potrebbe vedere tagli sui costi AI fino al 40%. Ma serve che i carichi di lavoro siano ottimizzati per questi chip.",
+    "Su workload specifici i chip AWS hanno già performato il 30% in più delle GPU Nvidia. Prova tu un benchmark con Snowflake questa settimana."
+  ],
+  "video_script": [
+    "Snowflake ha speso 6 miliardi in chip AI AWS.",
+    "Non solo GPU Nvidia: Amazon vende anche CPU.",
+    "È una sfida diretta al predominio di Nvidia.",
+    "I clienti Snowflake pagheranno meno per l'AI?",
+    "Testa le performance dei chip AWS contro Nvidia."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Nvidia domina il cloud AI, ma Snowflake ha appena firmato un contratto da 6 miliardi con AWS per chip alternativi. La sfida è aperta.",
+        "Amazon non vende solo GPU Nvidia. Con Trainium e Inferentia ha CPU AI proprie, e Snowflake le ha scelte per ridurre dipendenza e costi.",
+        "Il contratto triennale sposta l'equilibrio: AWS diventa fornitore diretto di chip AI, non solo noleggiatore di server Nvidia.",
+        "Chi usa Snowflake potrebbe vedere tagli sui costi AI fino al 40%. Ma serve che i carichi di lavoro siano ottimizzati per questi chip.",
+        "Su workload specifici i chip AWS hanno già performato il 30% in più delle GPU Nvidia. Prova tu un benchmark con Snowflake questa settimana."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Snowflake ha speso 6 miliardi in chip AI AWS.",
+        "Non solo GPU Nvidia: Amazon vende anche CPU.",
+        "È una sfida diretta al predominio di Nvidia.",
+        "I clienti Snowflake pagheranno meno per l'AI?",
+        "Testa le performance dei chip AWS contro Nvidia."
+      ]
+    },
+    "instagram": {
+      "caption": "Snowflake ha appena firmato un contratto da 6 miliardi di dollari per usare i chip AI di Amazon, invece di quelli di Nvidia. Amazon ha sviluppato chip propri, chiamati Trainium e Inferentia, che servono per addestrare ed eseguire l'intelligenza artificiale a costi più bassi. Per chi lavora con Snowflake, il risparmio sui costi AI potrebbe arrivare fino al 40%, ma solo se i propri carichi di lavoro sono già ottimizzati per questi chip. In certi test, i chip Amazon hanno già superato le prestazioni delle GPU Nvidia del 30%. Il tuo team ha già provato un benchmark con questi nuovi chip? 📉🔬💡🔌"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "In more good news for Amazon...",
+          "voiceover": "Snowflake ha speso 6 miliardi in chip AI AWS.",
+          "on_screen_text": "6 MILIARDI IN CHIP AI!",
+          "visual_direction": "Testo grande che appare rapidamente.",
+          "caption": "Un investimento significativo.",
+          "tone": "urgent",
+          "emphasis_word": "AI",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Ma non è solo Nvidia...",
+          "voiceover": "Non solo GPU Nvidia: Amazon vende anche CPU.",
+          "on_screen_text": "NON SOLO GPU NVIDIA.",
+          "visual_direction": "Testo che si sposta lateralmente.",
+          "caption": "Diversificazione delle offerte.",
+          "tone": "informative",
+          "emphasis_word": "CPU",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Una nuova sfida nel mercato...",
+          "voiceover": "È una sfida diretta al predominio di Nvidia.",
+          "on_screen_text": "SFIDA A NVIDIA!",
+          "visual_direction": "Animazione esplosiva del testo.",
+          "caption": "Competizione accesa.",
+          "tone": "urgent",
+          "emphasis_word": "SFIDA",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "E per i clienti di Snowflake?",
+          "voiceover": "I clienti Snowflake pagheranno meno per l'AI?",
+          "on_screen_text": "PAGHERANNO MENO?",
+          "visual_direction": "Testo in zoom, pulsante.",
+          "caption": "Possibili risparmi.",
+          "tone": "informative",
+          "emphasis_word": "MENO",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Confronto delle performance...",
+          "voiceover": "Testa le performance dei chip AWS contro Nvidia.",
+          "on_screen_text": "CHIP AWS VS NVIDIA.",
+          "visual_direction": "Grafica di confronto animata.",
+          "caption": "Chi vincerà?",
+          "tone": "urgent",
+          "emphasis_word": "VS",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Scopri di più su questo accordo!"
+    }
+  },
+  "instagram_caption": "Snowflake ha appena firmato un contratto da 6 miliardi di dollari per usare i chip AI di Amazon, invece di quelli di Nvidia. Amazon ha sviluppato chip propri, chiamati Trainium e Inferentia, che servono per addestrare ed eseguire l'intelligenza artificiale a costi più bassi. Per chi lavora con Snowflake, il risparmio sui costi AI potrebbe arrivare fino al 40%, ma solo se i propri carichi di lavoro sono già ottimizzati per questi chip. In certi test, i chip Amazon hanno già superato le prestazioni delle GPU Nvidia del 30%. Il tuo team ha già provato un benchmark con questi nuovi chip? 📉🔬💡🔌",
+  "carousel_slides": [
+    {
+      "hook": "Il monopolio Nvidia vacilla",
+      "description": "Amazon vende CPU AI proprie, non solo GPU Nvidia. Snowflake le ha scelte per ridurre dipendenza e costi.",
+      "visual_hint": "Grafico a pile in calo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "6 miliardi per sfidare Nvidia",
+      "description": "Snowflake ha appena firmato un contratto da 6 miliardi con AWS per chip alternativi. La sfida è aperta.",
+      "visual_hint": "Mani che firmano contratto",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office people signing",
+      "image": "https://images.pexels.com/photos/6950033/pexels-photo-6950033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AWS diventa fornitore diretto",
+      "description": "Il contratto triennale sposta l'equilibrio: AWS non è più solo noleggiatore di server Nvidia.",
+      "visual_hint": "Server rack con logo AWS",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Taglio costi fino al 40%",
+      "description": "Chi usa Snowflake potrebbe vedere tagli sui costi AI, ma serve che i carichi siano ottimizzati per questi chip.",
+      "visual_hint": "Frecce verdi di risparmio",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding money",
+      "image": "https://images.pexels.com/photos/5909819/pexels-photo-5909819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova il benchmark tu stesso",
+      "description": "Su workload specifici i chip AWS hanno performato il 30% in più delle GPU Nvidia. Prova un benchmark con Snowflake.",
+      "visual_hint": "Grafico a barre comparativo",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "computer screen benchmark",
+      "image": "https://images.pexels.com/photos/7500056/pexels-photo-7500056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+  "savedAt": "2026-05-27T21:52:40.050Z",
+  "sourceId": "d73c2adfc401b80d03596b5c8d486d94",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
+}

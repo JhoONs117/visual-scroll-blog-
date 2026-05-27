@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "elevenlabs-new-music-generation-model-can-switch-g",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "ElevenLabs’ new music-generation model can switch genres mid-track",
+    "link": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+    "pubDate": "Wed, 27 May 2026 14:14:10 +0000",
+    "slides": [
+      "Immagina un brano che cambia genere da solo?",
+      "ElevenLabs lancia un modello che lo fa in tempo reale.",
+      "Non serve scrivere accordi: basta descrivere la svolta.",
+      "Musicisti indipendenti: registrate un demo in minuti.",
+      "Provatelo oggi: la prossima hit potrebbe essere vostra."
+    ],
+    "thread_text": [
+      "Non devi scrivere gli accordi per cambiare genere a un brano: basta descrivere la svolta a parole.",
+      "ElevenLabs ha appena lanciato un modello che fa proprio questo: trasforma la musica in tempo reale mentre suona.",
+      "Immagina di registrare un demo e, con una frase, passare da un folk a un elettronico senza ricominciare da capo.",
+      "Musicisti indipendenti possono ora produrre un brano completo in minuti, non ore, e testare suoni diversi al volo.",
+      "Costa meno di un abbonamento Spotify mensile. La prossima hit potrebbe partire da un tuo demo oggi stesso."
+    ],
+    "video_script": [
+      "Descrivi una svolta e la musica cambia da sola.",
+      "Un modello di ElevenLabs lo fa in tempo reale.",
+      "Niente accordi da riscrivere, solo parole.",
+      "Musicisti: demo pronti in minuti, non ore.",
+      "Prova oggi: la tua hit potrebbe nascere qui."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Non devi scrivere gli accordi per cambiare genere a un brano: basta descrivere la svolta a parole.",
+          "ElevenLabs ha appena lanciato un modello che fa proprio questo: trasforma la musica in tempo reale mentre suona.",
+          "Immagina di registrare un demo e, con una frase, passare da un folk a un elettronico senza ricominciare da capo.",
+          "Musicisti indipendenti possono ora produrre un brano completo in minuti, non ore, e testare suoni diversi al volo.",
+          "Costa meno di un abbonamento Spotify mensile. La prossima hit potrebbe partire da un tuo demo oggi stesso."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Descrivi una svolta e la musica cambia da sola.",
+          "Un modello di ElevenLabs lo fa in tempo reale.",
+          "Niente accordi da riscrivere, solo parole.",
+          "Musicisti: demo pronti in minuti, non ore.",
+          "Prova oggi: la tua hit potrebbe nascere qui."
+        ]
+      },
+      "instagram": {
+        "caption": "Con ElevenLabs ora puoi cambiare il genere di un brano mentre suona, senza riscrivere un solo accordo. 🎚️ Basta descrivere la svolta a parole — ad esempio \"passa da folk a elettronico\" — e il modello trasforma la traccia in tempo reale. 🎶 Per un musicista indipendente significa registrare un demo completo in minuti e testare suoni diversi al volo. 🎤 Costa meno di un abbonamento Spotify mensile. Da quale genere parti oggi?"
+      }
+    },
+    "instagram_caption": "Con ElevenLabs ora puoi cambiare il genere di un brano mentre suona, senza riscrivere un solo accordo. 🎚️ Basta descrivere la svolta a parole — ad esempio \"passa da folk a elettronico\" — e il modello trasforma la traccia in tempo reale. 🎶 Per un musicista indipendente significa registrare un demo completo in minuti e testare suoni diversi al volo. 🎤 Costa meno di un abbonamento Spotify mensile. Da quale genere parti oggi?",
+    "carousel_slides": [
+      {
+        "hook": "Basta descrivere la svolta",
+        "description": "Non devi scrivere accordi per cambiare genere a un brano: basta descriverlo a parole.",
+        "visual_hint": "scritte che si trasformano in note",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "music studio equipment"
+      },
+      {
+        "hook": "Musica che muta da sola",
+        "description": "ElevenLabs lancia un modello che trasforma la musica in tempo reale mentre suona.",
+        "visual_hint": "onda sonora che si deforma",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "sound wave oscilloscope",
+        "image": "https://images.pexels.com/photos/7858245/pexels-photo-7858245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Da folk a elettronico in un frase",
+        "description": "Immagina registrare un demo e passare da un genere all'altro senza ricominciare da capo.",
+        "visual_hint": "cambio di colore nella traccia",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "audio mixing console",
+        "image": "https://images.pexels.com/photos/8132726/pexels-photo-8132726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demo completi in minuti",
+        "description": "Musicisti indipendenti possono produrre un brano completo in minuti e testare suoni diversi al volo.",
+        "visual_hint": "mani su tastiera e cuffie",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "headphones and laptop",
+        "image": "https://images.pexels.com/photos/7709093/pexels-photo-7709093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "La prossima hit ti aspetta",
+        "description": "Costa meno di un abbonamento Spotify. Prova oggi e crea la tua hit da un demo.",
+        "visual_hint": "icona play che esplode",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone music app",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+    "savedAt": "2026-05-27T21:53:01.668Z",
+    "sourceId": "71772329c110ab008a75ae45bfb76cd1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "faa-orders-spacex-to-investigate-starship-v3-boost",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
+    "link": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
+    "pubDate": "Wed, 27 May 2026 15:20:16 +0000",
+    "slides": [
+      "FAA ferma SpaceX. Il booster V3 è esploso?",
+      "L'incidente blocca ogni lancio futuro di Starship.",
+      "Il guasto è avvenuto dopo un test riuscito a terra.",
+      "Ritardi per clienti in attesa di carichi utili.",
+      "Scopri cosa significa per i prossimi contratti NASA."
+    ],
+    "thread_text": [
+      "La FAA ha fermato SpaceX. Il booster V3 potrebbe essere esploso durante un test a terra. Se confermato, ogni lancio futuro di Starship viene bloccato. Il momento è critico: clienti con carichi utili già pronti aspettano da mesi.",
+      "L'incidente è accaduto dopo un test che era riuscito. Un guasto emerso nella fase più banale, quella a terra. È il genere di errore che fa saltare tutta la cronologia, perché nessuno lo aveva previsto.",
+      "I clienti in attesa non sono solo privati. Ci sono carichi utili per la NASA, esperimenti scientifici, satelliti. Ogni giorno di ritardo costa oltre un milione di dollari in contratti già firmati. SpaceX ora deve gestire un effetto domino.",
+      "La FAA non riprenderà i lanci senza una revisione completa della procedura di test a terra. Il booster V3 non è ancora certificato per il volo. Se il guasto è strutturale, il programma Starship slitta di almeno un anno.",
+      "Cosa significa per i contratti NASA? Se Starship non vola entro il primo trimestre del prossimo anno, l’agenzia deve attivare le clausole penali. SpaceX rischia di perdere la corsa alla Luna prima ancora di partire."
+    ],
+    "video_script": [
+      "La FAA ha fermato SpaceX perché qualcosa è esploso.",
+      "Il booster V3 potrebbe essere saltato durante un test a terra.",
+      "L'incidente è successo dopo un test che sembrava perfetto.",
+      "Clienti con carichi pronti aspettano da mesi.",
+      "Se Starship non vola, i contratti NASA si complicano."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "La FAA ha fermato SpaceX. Il booster V3 potrebbe essere esploso durante un test a terra. Se confermato, ogni lancio futuro di Starship viene bloccato. Il momento è critico: clienti con carichi utili già pronti aspettano da mesi.",
+          "L'incidente è accaduto dopo un test che era riuscito. Un guasto emerso nella fase più banale, quella a terra. È il genere di errore che fa saltare tutta la cronologia, perché nessuno lo aveva previsto.",
+          "I clienti in attesa non sono solo privati. Ci sono carichi utili per la NASA, esperimenti scientifici, satelliti. Ogni giorno di ritardo costa oltre un milione di dollari in contratti già firmati. SpaceX ora deve gestire un effetto domino.",
+          "La FAA non riprenderà i lanci senza una revisione completa della procedura di test a terra. Il booster V3 non è ancora certificato per il volo. Se il guasto è strutturale, il programma Starship slitta di almeno un anno.",
+          "Cosa significa per i contratti NASA? Se Starship non vola entro il primo trimestre del prossimo anno, l’agenzia deve attivare le clausole penali. SpaceX rischia di perdere la corsa alla Luna prima ancora di partire."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "La FAA ha fermato SpaceX perché qualcosa è esploso.",
+          "Il booster V3 potrebbe essere saltato durante un test a terra.",
+          "L'incidente è successo dopo un test che sembrava perfetto.",
+          "Clienti con carichi pronti aspettano da mesi.",
+          "Se Starship non vola, i contratti NASA si complicano."
+        ]
+      },
+      "instagram": {
+        "caption": "La FAA ha fermato SpaceX perché il booster Starship V3 è esploso durante un test a terra, dopo un collaudo riuscito. 🚫 Un guasto banale in fase di rifornimento ora blocca 🛑 tutti i futuri lanci, con un buco da oltre un milione di dollari al giorno per clienti NASA e satelliti già pronti. ⏳ Se il problema è strutturale, il programma slitta di un anno e la Luna si allontana. Hai già carichi utili in lista d'attesa?"
+      }
+    },
+    "instagram_caption": "La FAA ha fermato SpaceX perché il booster Starship V3 è esploso durante un test a terra, dopo un collaudo riuscito. 🚫 Un guasto banale in fase di rifornimento ora blocca 🛑 tutti i futuri lanci, con un buco da oltre un milione di dollari al giorno per clienti NASA e satelliti già pronti. ⏳ Se il problema è strutturale, il programma slitta di un anno e la Luna si allontana. Hai già carichi utili in lista d'attesa?",
+    "carousel_slides": [
+      {
+        "hook": "Il test era riuscito. Poi è esploso.",
+        "description": "Il booster V3 potrebbe essere esploso durante un test a terra. Nessuno aveva previsto il guasto nella fase più banale.",
+        "visual_hint": "Booster enorme su piazzola test",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "SpaceX rocket launch pad"
+      },
+      {
+        "hook": "FAA blocca ogni lancio futuro.",
+        "description": "La FAA ha fermato SpaceX. Se confermato, nessun lancio Starship finché non sarà revisionata l'intera procedura di test a terra.",
+        "visual_hint": "Documento ufficiale e timbro",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "FAA document official",
+        "image": "https://images.pexels.com/photos/7821927/pexels-photo-7821927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ogni giorno di ritardo costa caro.",
+        "description": "Clienti con carichi NASA, esperimenti e satelliti aspettano da mesi. Ogni giorno oltre 1 milione di dollari in contratti firmati.",
+        "visual_hint": "Grafico a barre in rosso",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Guasto strutturale? Addio programma.",
+        "description": "Se il guasto è strutturale, Starship slitta di almeno un anno. Il booster V3 non è ancora certificato per il volo.",
+        "visual_hint": "Primo piano valvola metallica",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "metal mechanical valve closeup",
+        "image": "https://images.pexels.com/photos/5711732/pexels-photo-5711732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cosa significa per i contratti NASA?",
+        "description": "Se Starship non vola entro il primo trimestre 2025, la NASA attiva clausole penali. SpaceX rischia di perdere la corsa alla Luna.",
+        "visual_hint": "Logo NASA e calendario",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "NASA logo building",
+        "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800",
+    "savedAt": "2026-05-27T21:52:51.765Z",
+    "sourceId": "9788635b5234eb7b23833d219fa885e2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "in-more-good-news-for-amazon-snowflake-signs-6b-de",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+    "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+    "pubDate": "Wed, 27 May 2026 20:10:00 +0000",
+    "slides": [
+      "Snowflake spende 6 miliardi in chip AI AWS. Perché ora?",
+      "Amazon vende CPU AI, non solo GPU dominanti.",
+      "Il contratto sfida il predominio di Nvidia sul cloud.",
+      "Chi usa Snowflake vedrà costi AI ridotti?",
+      "Testa le performance dei chip AWS contro Nvidia."
+    ],
+    "thread_text": [
+      "Nvidia domina il cloud AI, ma Snowflake ha appena firmato un contratto da 6 miliardi con AWS per chip alternativi. La sfida è aperta.",
+      "Amazon non vende solo GPU Nvidia. Con Trainium e Inferentia ha CPU AI proprie, e Snowflake le ha scelte per ridurre dipendenza e costi.",
+      "Il contratto triennale sposta l'equilibrio: AWS diventa fornitore diretto di chip AI, non solo noleggiatore di server Nvidia.",
+      "Chi usa Snowflake potrebbe vedere tagli sui costi AI fino al 40%. Ma serve che i carichi di lavoro siano ottimizzati per questi chip.",
+      "Su workload specifici i chip AWS hanno già performato il 30% in più delle GPU Nvidia. Prova tu un benchmark con Snowflake questa settimana."
+    ],
+    "video_script": [
+      "Snowflake ha speso 6 miliardi in chip AI AWS.",
+      "Non solo GPU Nvidia: Amazon vende anche CPU.",
+      "È una sfida diretta al predominio di Nvidia.",
+      "I clienti Snowflake pagheranno meno per l'AI?",
+      "Testa le performance dei chip AWS contro Nvidia."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Nvidia domina il cloud AI, ma Snowflake ha appena firmato un contratto da 6 miliardi con AWS per chip alternativi. La sfida è aperta.",
+          "Amazon non vende solo GPU Nvidia. Con Trainium e Inferentia ha CPU AI proprie, e Snowflake le ha scelte per ridurre dipendenza e costi.",
+          "Il contratto triennale sposta l'equilibrio: AWS diventa fornitore diretto di chip AI, non solo noleggiatore di server Nvidia.",
+          "Chi usa Snowflake potrebbe vedere tagli sui costi AI fino al 40%. Ma serve che i carichi di lavoro siano ottimizzati per questi chip.",
+          "Su workload specifici i chip AWS hanno già performato il 30% in più delle GPU Nvidia. Prova tu un benchmark con Snowflake questa settimana."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Snowflake ha speso 6 miliardi in chip AI AWS.",
+          "Non solo GPU Nvidia: Amazon vende anche CPU.",
+          "È una sfida diretta al predominio di Nvidia.",
+          "I clienti Snowflake pagheranno meno per l'AI?",
+          "Testa le performance dei chip AWS contro Nvidia."
+        ]
+      },
+      "instagram": {
+        "caption": "Snowflake ha appena firmato un contratto da 6 miliardi di dollari per usare i chip AI di Amazon, invece di quelli di Nvidia. Amazon ha sviluppato chip propri, chiamati Trainium e Inferentia, che servono per addestrare ed eseguire l'intelligenza artificiale a costi più bassi. Per chi lavora con Snowflake, il risparmio sui costi AI potrebbe arrivare fino al 40%, ma solo se i propri carichi di lavoro sono già ottimizzati per questi chip. In certi test, i chip Amazon hanno già superato le prestazioni delle GPU Nvidia del 30%. Il tuo team ha già provato un benchmark con questi nuovi chip? 📉🔬💡🔌"
+      }
+    },
+    "instagram_caption": "Snowflake ha appena firmato un contratto da 6 miliardi di dollari per usare i chip AI di Amazon, invece di quelli di Nvidia. Amazon ha sviluppato chip propri, chiamati Trainium e Inferentia, che servono per addestrare ed eseguire l'intelligenza artificiale a costi più bassi. Per chi lavora con Snowflake, il risparmio sui costi AI potrebbe arrivare fino al 40%, ma solo se i propri carichi di lavoro sono già ottimizzati per questi chip. In certi test, i chip Amazon hanno già superato le prestazioni delle GPU Nvidia del 30%. Il tuo team ha già provato un benchmark con questi nuovi chip? 📉🔬💡🔌",
+    "carousel_slides": [
+      {
+        "hook": "Il monopolio Nvidia vacilla",
+        "description": "Amazon vende CPU AI proprie, non solo GPU Nvidia. Snowflake le ha scelte per ridurre dipendenza e costi.",
+        "visual_hint": "Grafico a pile in calo",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "6 miliardi per sfidare Nvidia",
+        "description": "Snowflake ha appena firmato un contratto da 6 miliardi con AWS per chip alternativi. La sfida è aperta.",
+        "visual_hint": "Mani che firmano contratto",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office people signing",
+        "image": "https://images.pexels.com/photos/6950033/pexels-photo-6950033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AWS diventa fornitore diretto",
+        "description": "Il contratto triennale sposta l'equilibrio: AWS non è più solo noleggiatore di server Nvidia.",
+        "visual_hint": "Server rack con logo AWS",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Taglio costi fino al 40%",
+        "description": "Chi usa Snowflake potrebbe vedere tagli sui costi AI, ma serve che i carichi siano ottimizzati per questi chip.",
+        "visual_hint": "Frecce verdi di risparmio",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding money",
+        "image": "https://images.pexels.com/photos/5909819/pexels-photo-5909819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova il benchmark tu stesso",
+        "description": "Su workload specifici i chip AWS hanno performato il 30% in più delle GPU Nvidia. Prova un benchmark con Snowflake.",
+        "visual_hint": "Grafico a barre comparativo",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "computer screen benchmark",
+        "image": "https://images.pexels.com/photos/7500056/pexels-photo-7500056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+    "savedAt": "2026-05-27T21:52:40.050Z",
+    "sourceId": "d73c2adfc401b80d03596b5c8d486d94"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "ai-coding-startup-cognition-raises-1b-at-25b-pre-m",
     "prompt_version": "1.0.0",
     "status": "published",
@@ -50,6 +362,73 @@ window.ARTICLES = [
       },
       "instagram": {
         "caption": "25 miliardi di dollari per un software che scrive codice da solo. Cognition ha chiuso un round da 1 miliardo 🚀 perché il suo Devin non è un assistente: prende un ticket, scrive codice e lo mette in produzione senza che nessuno gli tenga la mano. Nessun hardware, nessuna fabbrica, solo righe di codice valutate più di aziende con stabilimenti reali 🧠. Vuol dire che il tuo team di developer potrebbe competere con uno strumento che costa meno di Netflix al mese 💻. Quanto vale il tempo che perdi sui task ripetitivi? ⏳"
+      },
+      "video": {
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Un miliardo di dollari.",
+            "voiceover": "Hanno dato un miliardo a una software house.",
+            "on_screen_text": "Un miliardo di dollari",
+            "visual_direction": "Testo grande che appare con un effetto di scrittura.",
+            "caption": "Investimenti straordinari nel tech.",
+            "tone": "urgent",
+            "emphasis_word": "miliardo",
+            "layout": "single"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Presentiamo Devin.",
+            "voiceover": "Hanno creato Devin, un programmatore AI autonomo.",
+            "on_screen_text": "Devin, il programmatore AI",
+            "visual_direction": "Animazione di Devin che scrive codice.",
+            "caption": "Innovazione senza precedenti.",
+            "tone": "informative",
+            "emphasis_word": "autonomo",
+            "layout": "single"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 5,
+            "hook": "Un valore incredibile.",
+            "voiceover": "Vale venticinque miliardi.",
+            "on_screen_text": "Valore: 25 miliardi",
+            "visual_direction": "Grafica che mostra un aumento di valore.",
+            "caption": "La potenza del software.",
+            "tone": "urgent",
+            "emphasis_word": "venticinque",
+            "layout": "single"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Confronta il tuo team.",
+            "voiceover": "Confrontalo con il tuo team adesso.",
+            "on_screen_text": "Confronta ora!",
+            "visual_direction": "Split screen tra Devin e un team di programmatori.",
+            "caption": "Evolvi il tuo lavoro.",
+            "tone": "inspiring",
+            "emphasis_word": "team",
+            "layout": "split"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Inizia oggi.",
+            "voiceover": "Prova gratis. Vedi il divario.",
+            "on_screen_text": "Prova gratis!",
+            "visual_direction": "Testo che pulsa per attirare attenzione.",
+            "caption": "Scopri la differenza.",
+            "tone": "urgent",
+            "emphasis_word": "gratis",
+            "layout": "single"
+          }
+        ],
+        "quality_score": 85,
+        "duration_sec": 27,
+        "cta": "Scopri Devin ora!"
       }
     },
     "instagram_caption": "25 miliardi di dollari per un software che scrive codice da solo. Cognition ha chiuso un round da 1 miliardo 🚀 perché il suo Devin non è un assistente: prende un ticket, scrive codice e lo mette in produzione senza che nessuno gli tenga la mano. Nessun hardware, nessuna fabbrica, solo righe di codice valutate più di aziende con stabilimenti reali 🧠. Vuol dire che il tuo team di developer potrebbe competere con uno strumento che costa meno di Netflix al mese 💻. Quanto vale il tempo che perdi sui task ripetitivi? ⏳",
@@ -101,7 +480,9 @@ window.ARTICLES = [
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/Screenshot-2025-08-05-at-11.02.07AM.png?resize=1200,645",
     "savedAt": "2026-05-27T18:21:27.787Z",
-    "sourceId": "05063096037a733af0a9aa3350ceb6fa"
+    "sourceId": "05063096037a733af0a9aa3350ceb6fa",
+    "render_template": "kinetic_typography",
+    "render_quality": "low"
   },
   {
     "schema_version": 2,
@@ -154,6 +535,73 @@ window.ARTICLES = [
       },
       "instagram": {
         "caption": "Hanno clonato aggiornamenti software apparentemente legittimi per infettare gli sviluppatori. 🛡️ CrowdStrike e Google hanno smantellato un botnet progettato per infiltrarsi nella supply chain: chi scrive codice diventava il bersaglio, non il singolo utente finale. 👨‍💻 Se sviluppi software, ogni dipendenza che aggiungi al repository è una potenziale porta d'ingresso per un backdoor già attivo. Controlla i tuoi progetti oggi: quello che hai rilasciato ieri potrebbe essere compromesso?"
+      },
+      "video": {
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Attenzione sviluppatori!",
+            "voiceover": "Hai installato un aggiornamento falso.",
+            "on_screen_text": "Aggiornamento FALSO installato!",
+            "visual_direction": "Testo che appare con un effetto di glitch.",
+            "caption": "Cosa fare?",
+            "tone": "urgent",
+            "emphasis_word": "FALSO",
+            "layout": "single"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 5,
+            "hook": "Non è ciò che sembra.",
+            "voiceover": "Sembrava legittimo, ma era un attacco.",
+            "on_screen_text": "Sembrava LEGITTIMO, ma...",
+            "visual_direction": "Transizione veloce con effetti di luce.",
+            "caption": "Scopri di più.",
+            "tone": "urgent",
+            "emphasis_word": "LEGITTIMO",
+            "layout": "single"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 7,
+            "hook": "Una grande collaborazione.",
+            "voiceover": "CrowdStrike e Google hanno fermato un botnet.",
+            "on_screen_text": "CrowdStrike + Google = Sicurezza!",
+            "visual_direction": "Animazione che mostra i loghi che si uniscono.",
+            "caption": "Uniti contro il crimine.",
+            "tone": "inspiring",
+            "emphasis_word": "Sicurezza",
+            "layout": "split"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Il bersaglio: gli sviluppatori.",
+            "voiceover": "Colpiva sviluppatori come te, sulla supply chain.",
+            "on_screen_text": "Sviluppatori nel mirino!",
+            "visual_direction": "Immagini di codici e sviluppatori al lavoro.",
+            "caption": "Fai attenzione.",
+            "tone": "urgent",
+            "emphasis_word": "mirino",
+            "layout": "single"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Proteggi il tuo codice.",
+            "voiceover": "Verifica ogni dipendenza del tuo codice ora.",
+            "on_screen_text": "Controlla le tue DIPENDENZE!",
+            "visual_direction": "Testo che si ingrandisce con un effetto di enfasi.",
+            "caption": "Agisci subito.",
+            "tone": "urgent",
+            "emphasis_word": "DIPENDENZE",
+            "layout": "single"
+          }
+        ],
+        "quality_score": 85,
+        "duration_sec": 29,
+        "cta": "Proteggi il tuo codice ora!"
       }
     },
     "instagram_caption": "Hanno clonato aggiornamenti software apparentemente legittimi per infettare gli sviluppatori. 🛡️ CrowdStrike e Google hanno smantellato un botnet progettato per infiltrarsi nella supply chain: chi scrive codice diventava il bersaglio, non il singolo utente finale. 👨‍💻 Se sviluppi software, ogni dipendenza che aggiungi al repository è una potenziale porta d'ingresso per un backdoor già attivo. Controlla i tuoi progetti oggi: quello che hai rilasciato ieri potrebbe essere compromesso?",
@@ -205,7 +653,9 @@ window.ARTICLES = [
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/source-code-on-screen.jpg?resize=1200,704",
     "savedAt": "2026-05-27T18:21:11.955Z",
-    "sourceId": "f99b46de820e8ee678586cc3bc799c83"
+    "sourceId": "f99b46de820e8ee678586cc3bc799c83",
+    "render_template": "kinetic_typography",
+    "render_quality": "low"
   },
   {
     "schema_version": 2,
@@ -258,6 +708,73 @@ window.ARTICLES = [
       },
       "instagram": {
         "caption": "Thea Energy ha appena raccolto 100 milioni di dollari per provare a costruire un reattore a fusione con bobine piatte al posto dei supermagneti tradizionali. Secondo le simulazioni il costo del reattore cala dell'80%, e se il tutto funziona, la tua bolletta potrebbe dimezzarsi. ⚡ Solo che nessun reattore a fusione ha mai prodotto più energia di quanta ne consumi. Il test vero arriva nel 2030. 💸⏳ Segnatevelo."
+      },
+      "video": {
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "With a new $100M raise...",
+            "voiceover": "Hanno preso 100 milioni per una scommessa sull'infinito.",
+            "on_screen_text": "100 MILIONI PER L'INFINITO",
+            "visual_direction": "Animazione del testo che appare a cascata.",
+            "caption": "Un grande investimento!",
+            "tone": "urgent",
+            "emphasis_word": "INFINITO",
+            "layout": "single"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Il problema?",
+            "voiceover": "Il problema? La fusione non ha mai funzionato davvero.",
+            "on_screen_text": "FUSIONE NON FUNZIONA",
+            "visual_direction": "Testo che si dissolve e svanisce.",
+            "caption": "Un rischio conosciuto.",
+            "tone": "informative",
+            "emphasis_word": "NON",
+            "layout": "single"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Ma loro cambiano i magneti!",
+            "voiceover": "Loro però cambiano i magneti: bobine piatte, non ciambelle.",
+            "on_screen_text": "MAGNETI INNOVATIVI",
+            "visual_direction": "Illustrazione di bobine piatte vs ciambelle.",
+            "caption": "Innovazione in corso.",
+            "tone": "inspiring",
+            "emphasis_word": "INNOVATIVI",
+            "layout": "single"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Costa l'80% in meno!",
+            "voiceover": "Costa l'80% in meno. Forse dimezza la bolletta.",
+            "on_screen_text": "80% IN MENO!",
+            "visual_direction": "Grafico che mostra il risparmio.",
+            "caption": "Risparmio notevole.",
+            "tone": "urgent",
+            "emphasis_word": "80%",
+            "layout": "single"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Segna sul calendario!",
+            "voiceover": "Se funziona. Il test è nel 2030. Segna sul calendario.",
+            "on_screen_text": "TEST NEL 2030",
+            "visual_direction": "Calendario con la data cerchiata.",
+            "caption": "Non perdere questo momento.",
+            "tone": "informative",
+            "emphasis_word": "2030",
+            "layout": "single"
+          }
+        ],
+        "quality_score": 85,
+        "duration_sec": 30,
+        "cta": "Scopri di più sulla fusione!"
       }
     },
     "instagram_caption": "Thea Energy ha appena raccolto 100 milioni di dollari per provare a costruire un reattore a fusione con bobine piatte al posto dei supermagneti tradizionali. Secondo le simulazioni il costo del reattore cala dell'80%, e se il tutto funziona, la tua bolletta potrebbe dimezzarsi. ⚡ Solo che nessun reattore a fusione ha mai prodotto più energia di quanta ne consumi. Il test vero arriva nel 2030. 💸⏳ Segnatevelo.",
@@ -309,7 +826,9 @@ window.ARTICLES = [
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2024/02/Thea-Eos-With-Plasma.jpg?resize=1200,675",
     "savedAt": "2026-05-27T18:20:59.050Z",
-    "sourceId": "0f63644e7beec395470f66a4fe180662"
+    "sourceId": "0f63644e7beec395470f66a4fe180662",
+    "render_template": "kinetic_typography",
+    "render_quality": "low"
   },
   {
     "schema_version": 2,
@@ -374,6 +893,73 @@ window.ARTICLES = [
       },
       "instagram": {
         "caption": "Il 70% dei trader retail perde soldi nel forex, ma non perché manchino i dati: seguono l'istinto. 🤖 I bot AI elaborano notizie e pattern di prezzo in millisecondi, senza emozioni né stanchezza, per tentare di anticipare i movimenti. La velocità non garantisce profitto, ma elimina la tua reazione emotiva che costa cara. 💸 Ora puoi testare una strategia per settimane senza rischiare un centesimo. 📉 Quanto stai pagando per fidarti del tuo istinto? 🧠"
+      },
+      "video": {
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Seventy percent of traders lose money.",
+            "voiceover": "Seventy percent of traders lose money.",
+            "on_screen_text": "70% OF TRADERS LOSE MONEY",
+            "visual_direction": "Bold text fades in with a dramatic sound.",
+            "caption": "A staggering statistic!",
+            "tone": "urgent",
+            "emphasis_word": "70%",
+            "layout": "single"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 5,
+            "hook": "Not because they're stupid.",
+            "voiceover": "Not because they're stupid.",
+            "on_screen_text": "NOT BECAUSE THEY'RE STUPID",
+            "visual_direction": "Text shakes slightly to emphasize the point.",
+            "caption": "It's not about intelligence!",
+            "tone": "informative",
+            "emphasis_word": "",
+            "layout": "single"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 6,
+            "hook": "Because they trust their gut.",
+            "voiceover": "Because they trust their gut.",
+            "on_screen_text": "THEY TRUST THEIR GUT",
+            "visual_direction": "Text appears with a heartbeat sound effect.",
+            "caption": "Emotions can mislead!",
+            "tone": "urgent",
+            "emphasis_word": "GUT",
+            "layout": "single"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 7,
+            "hook": "A bot reads news in milliseconds.",
+            "voiceover": "A bot reads news in milliseconds.",
+            "on_screen_text": "BOTS READ NEWS FAST",
+            "visual_direction": "Fast-paced clips of news articles scrolling.",
+            "caption": "Speed is key!",
+            "tone": "inspiring",
+            "emphasis_word": "FAST",
+            "layout": "single"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "See if it beats your feeling.",
+            "voiceover": "See if it beats your feeling.",
+            "on_screen_text": "TRY A BOT RISK-FREE",
+            "visual_direction": "Text glows with a call-to-action effect.",
+            "caption": "Test it today!",
+            "tone": "urgent",
+            "emphasis_word": "RISK-FREE",
+            "layout": "single"
+          }
+        ],
+        "quality_score": 85,
+        "duration_sec": 30,
+        "cta": "Start your AI trading journey now!"
       }
     },
     "instagram_caption": "Il 70% dei trader retail perde soldi nel forex, ma non perché manchino i dati: seguono l'istinto. 🤖 I bot AI elaborano notizie e pattern di prezzo in millisecondi, senza emozioni né stanchezza, per tentare di anticipare i movimenti. La velocità non garantisce profitto, ma elimina la tua reazione emotiva che costa cara. 💸 Ora puoi testare una strategia per settimane senza rischiare un centesimo. 📉 Quanto stai pagando per fidarti del tuo istinto? 🧠",
@@ -425,7 +1011,9 @@ window.ARTICLES = [
     ],
     "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/forex-1.jpg",
     "savedAt": "2026-05-27T18:20:44.459Z",
-    "sourceId": "165bbee8b830b22030d9f5ca06ea4f9a"
+    "sourceId": "165bbee8b830b22030d9f5ca06ea4f9a",
+    "render_template": "kinetic_typography",
+    "render_quality": "low"
   },
   {
     "schema_version": 2,
@@ -16436,7 +17024,7 @@ window.ARTICLES = [
     "agent": "ai-news",
     "slug": "cisco-cuts-nearly-4-000-jobs-to-spend-more-on-ai-r",
     "prompt_version": "1.0.0",
-    "status": "draft",
+    "status": "approved",
     "formats": {
       "x": {
         "thread": [
@@ -16506,11 +17094,72 @@ window.ARTICLES = [
         ]
       },
       "video": {
-        "scenes": [],
-        "duration_sec": 0,
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "Cisco's big move!",
+            "voiceover": "Cisco taglia quattromila persone per risparmiare.",
+            "on_screen_text": "Cisco taglia 4.000 posti",
+            "visual_direction": "Animazione di un grafico in discesa.",
+            "caption": "Scelte difficili nel mondo aziendale.",
+            "tone": "urgent",
+            "emphasis_word": "taglia",
+            "layout": "single"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Record revenue!",
+            "voiceover": "Ma fattura un record di entrate trimestrali.",
+            "on_screen_text": "Record di fatturato!",
+            "visual_direction": "Animazione di un grafico in salita.",
+            "caption": "Crescita nonostante le difficoltà.",
+            "tone": "informative",
+            "emphasis_word": "record",
+            "layout": "single"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 5,
+            "hook": "L'AI costa!",
+            "voiceover": "L'intelligenza artificiale costa un sacco di soldi.",
+            "on_screen_text": "L'AI costa un sacco!",
+            "visual_direction": "Animazione di monetine che cadono.",
+            "caption": "Investimenti cruciali.",
+            "tone": "urgent",
+            "emphasis_word": "costa",
+            "layout": "single"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Le tue scelte?",
+            "voiceover": "Tu cosa taglieresti per investire?",
+            "on_screen_text": "Cosa taglieresti?",
+            "visual_direction": "Immagini di persone che pensano.",
+            "caption": "Riflessioni necessarie.",
+            "tone": "inspiring",
+            "emphasis_word": "taglieresti",
+            "layout": "single"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Sei pronto?",
+            "voiceover": "La tua azienda è pronta per il futuro?",
+            "on_screen_text": "La tua azienda è pronta?",
+            "visual_direction": "Animazione di un orologio che scorre.",
+            "caption": "Preparati al cambiamento.",
+            "tone": "urgent",
+            "emphasis_word": "pronta",
+            "layout": "single"
+          }
+        ],
+        "duration_sec": 27,
         "aspect_ratio": "9:16",
-        "cta": "",
-        "quality_score": 0
+        "cta": "Condividi la tua opinione nei commenti!",
+        "quality_score": 85
       }
     },
     "metrics": {
@@ -16526,8 +17175,8 @@ window.ARTICLES = [
       "x": "{\"account_id\":2056313885964062700,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2056313885964062720] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}",
       "tiktok": null
     },
-    "render_quality": null,
-    "render_template": null,
+    "render_quality": "low",
+    "render_template": "kinetic_typography",
     "render_status": {
       "low": null,
       "medium": null,

@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "elevenlabs-new-music-generation-model-can-switch-g",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ElevenLabs’ new music-generation model can switch genres mid-track",
+  "link": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+  "pubDate": "Wed, 27 May 2026 14:14:10 +0000",
+  "slides": [
+    "Immagina un brano che cambia genere da solo?",
+    "ElevenLabs lancia un modello che lo fa in tempo reale.",
+    "Non serve scrivere accordi: basta descrivere la svolta.",
+    "Musicisti indipendenti: registrate un demo in minuti.",
+    "Provatelo oggi: la prossima hit potrebbe essere vostra."
+  ],
+  "thread_text": [
+    "Non devi scrivere gli accordi per cambiare genere a un brano: basta descrivere la svolta a parole.",
+    "ElevenLabs ha appena lanciato un modello che fa proprio questo: trasforma la musica in tempo reale mentre suona.",
+    "Immagina di registrare un demo e, con una frase, passare da un folk a un elettronico senza ricominciare da capo.",
+    "Musicisti indipendenti possono ora produrre un brano completo in minuti, non ore, e testare suoni diversi al volo.",
+    "Costa meno di un abbonamento Spotify mensile. La prossima hit potrebbe partire da un tuo demo oggi stesso."
+  ],
+  "video_script": [
+    "Descrivi una svolta e la musica cambia da sola.",
+    "Un modello di ElevenLabs lo fa in tempo reale.",
+    "Niente accordi da riscrivere, solo parole.",
+    "Musicisti: demo pronti in minuti, non ore.",
+    "Prova oggi: la tua hit potrebbe nascere qui."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Non devi scrivere gli accordi per cambiare genere a un brano: basta descrivere la svolta a parole.",
+        "ElevenLabs ha appena lanciato un modello che fa proprio questo: trasforma la musica in tempo reale mentre suona.",
+        "Immagina di registrare un demo e, con una frase, passare da un folk a un elettronico senza ricominciare da capo.",
+        "Musicisti indipendenti possono ora produrre un brano completo in minuti, non ore, e testare suoni diversi al volo.",
+        "Costa meno di un abbonamento Spotify mensile. La prossima hit potrebbe partire da un tuo demo oggi stesso."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Descrivi una svolta e la musica cambia da sola.",
+        "Un modello di ElevenLabs lo fa in tempo reale.",
+        "Niente accordi da riscrivere, solo parole.",
+        "Musicisti: demo pronti in minuti, non ore.",
+        "Prova oggi: la tua hit potrebbe nascere qui."
+      ]
+    },
+    "instagram": {
+      "caption": "Con ElevenLabs ora puoi cambiare il genere di un brano mentre suona, senza riscrivere un solo accordo. 🎚️ Basta descrivere la svolta a parole — ad esempio \"passa da folk a elettronico\" — e il modello trasforma la traccia in tempo reale. 🎶 Per un musicista indipendente significa registrare un demo completo in minuti e testare suoni diversi al volo. 🎤 Costa meno di un abbonamento Spotify mensile. Da quale genere parti oggi?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Sveliamo una rivoluzione musicale!",
+          "voiceover": "ElevenLabs ha lanciato un nuovo modello di generazione musicale.",
+          "on_screen_text": "RIVOLUZIONE MUSICALE!",
+          "visual_direction": "Testo che appare con un effetto di scrittura.",
+          "caption": "Scopri come cambia la musica.",
+          "tone": "urgent",
+          "emphasis_word": "RIVOLUZIONE",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Immagina di cambiare genere.",
+          "voiceover": "Questo modello può cambiare genere in tempo reale.",
+          "on_screen_text": "CAMBIA GENERE!",
+          "visual_direction": "Transizione fluida tra generi musicali.",
+          "caption": "La musica evolve da sola.",
+          "tone": "urgent",
+          "emphasis_word": "CAMBIA",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Nessuna riscrittura necessaria.",
+          "voiceover": "Non ci sono accordi da riscrivere, solo parole.",
+          "on_screen_text": "SOLO PAROLE!",
+          "visual_direction": "Animazione con parole che danzano.",
+          "caption": "Semplicità e creatività unite.",
+          "tone": "informative",
+          "emphasis_word": "SOLO",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 8,
+          "hook": "Demo pronte in pochi minuti.",
+          "voiceover": "I musicisti possono avere demo pronte in minuti, non ore.",
+          "on_screen_text": "DEMO IN MINUTI!",
+          "visual_direction": "Timer che scorre velocemente.",
+          "caption": "Accelera la tua creatività.",
+          "tone": "inspiring",
+          "emphasis_word": "MINUTI",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Prova oggi stesso!",
+          "voiceover": "La tua hit potrebbe nascere qui, prova oggi.",
+          "on_screen_text": "PROVA OGGI!",
+          "visual_direction": "Chiusura con un invito all'azione accattivante.",
+          "caption": "Non aspettare, inizia ora!",
+          "tone": "urgent",
+          "emphasis_word": "PROVA",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 30,
+      "cta": "Inizia a creare la tua musica!"
+    }
+  },
+  "instagram_caption": "Con ElevenLabs ora puoi cambiare il genere di un brano mentre suona, senza riscrivere un solo accordo. 🎚️ Basta descrivere la svolta a parole — ad esempio \"passa da folk a elettronico\" — e il modello trasforma la traccia in tempo reale. 🎶 Per un musicista indipendente significa registrare un demo completo in minuti e testare suoni diversi al volo. 🎤 Costa meno di un abbonamento Spotify mensile. Da quale genere parti oggi?",
+  "carousel_slides": [
+    {
+      "hook": "Basta descrivere la svolta",
+      "description": "Non devi scrivere accordi per cambiare genere a un brano: basta descriverlo a parole.",
+      "visual_hint": "scritte che si trasformano in note",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "music studio equipment"
+    },
+    {
+      "hook": "Musica che muta da sola",
+      "description": "ElevenLabs lancia un modello che trasforma la musica in tempo reale mentre suona.",
+      "visual_hint": "onda sonora che si deforma",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "sound wave oscilloscope",
+      "image": "https://images.pexels.com/photos/7858245/pexels-photo-7858245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Da folk a elettronico in un frase",
+      "description": "Immagina registrare un demo e passare da un genere all'altro senza ricominciare da capo.",
+      "visual_hint": "cambio di colore nella traccia",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "audio mixing console",
+      "image": "https://images.pexels.com/photos/8132726/pexels-photo-8132726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demo completi in minuti",
+      "description": "Musicisti indipendenti possono produrre un brano completo in minuti e testare suoni diversi al volo.",
+      "visual_hint": "mani su tastiera e cuffie",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "headphones and laptop",
+      "image": "https://images.pexels.com/photos/7709093/pexels-photo-7709093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "La prossima hit ti aspetta",
+      "description": "Costa meno di un abbonamento Spotify. Prova oggi e crea la tua hit da un demo.",
+      "visual_hint": "icona play che esplode",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone music app",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+  "savedAt": "2026-05-27T21:53:01.668Z",
+  "sourceId": "71772329c110ab008a75ae45bfb76cd1",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
+}

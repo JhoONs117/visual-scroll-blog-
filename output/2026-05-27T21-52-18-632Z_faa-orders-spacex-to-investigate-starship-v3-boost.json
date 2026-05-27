@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "faa-orders-spacex-to-investigate-starship-v3-boost",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
+  "link": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
+  "pubDate": "Wed, 27 May 2026 15:20:16 +0000",
+  "slides": [
+    "FAA ferma SpaceX. Il booster V3 è esploso?",
+    "L'incidente blocca ogni lancio futuro di Starship.",
+    "Il guasto è avvenuto dopo un test riuscito a terra.",
+    "Ritardi per clienti in attesa di carichi utili.",
+    "Scopri cosa significa per i prossimi contratti NASA."
+  ],
+  "thread_text": [
+    "La FAA ha fermato SpaceX. Il booster V3 potrebbe essere esploso durante un test a terra. Se confermato, ogni lancio futuro di Starship viene bloccato. Il momento è critico: clienti con carichi utili già pronti aspettano da mesi.",
+    "L'incidente è accaduto dopo un test che era riuscito. Un guasto emerso nella fase più banale, quella a terra. È il genere di errore che fa saltare tutta la cronologia, perché nessuno lo aveva previsto.",
+    "I clienti in attesa non sono solo privati. Ci sono carichi utili per la NASA, esperimenti scientifici, satelliti. Ogni giorno di ritardo costa oltre un milione di dollari in contratti già firmati. SpaceX ora deve gestire un effetto domino.",
+    "La FAA non riprenderà i lanci senza una revisione completa della procedura di test a terra. Il booster V3 non è ancora certificato per il volo. Se il guasto è strutturale, il programma Starship slitta di almeno un anno.",
+    "Cosa significa per i contratti NASA? Se Starship non vola entro il primo trimestre del prossimo anno, l’agenzia deve attivare le clausole penali. SpaceX rischia di perdere la corsa alla Luna prima ancora di partire."
+  ],
+  "video_script": [
+    "La FAA ha fermato SpaceX perché qualcosa è esploso.",
+    "Il booster V3 potrebbe essere saltato durante un test a terra.",
+    "L'incidente è successo dopo un test che sembrava perfetto.",
+    "Clienti con carichi pronti aspettano da mesi.",
+    "Se Starship non vola, i contratti NASA si complicano."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "La FAA ha fermato SpaceX. Il booster V3 potrebbe essere esploso durante un test a terra. Se confermato, ogni lancio futuro di Starship viene bloccato. Il momento è critico: clienti con carichi utili già pronti aspettano da mesi.",
+        "L'incidente è accaduto dopo un test che era riuscito. Un guasto emerso nella fase più banale, quella a terra. È il genere di errore che fa saltare tutta la cronologia, perché nessuno lo aveva previsto.",
+        "I clienti in attesa non sono solo privati. Ci sono carichi utili per la NASA, esperimenti scientifici, satelliti. Ogni giorno di ritardo costa oltre un milione di dollari in contratti già firmati. SpaceX ora deve gestire un effetto domino.",
+        "La FAA non riprenderà i lanci senza una revisione completa della procedura di test a terra. Il booster V3 non è ancora certificato per il volo. Se il guasto è strutturale, il programma Starship slitta di almeno un anno.",
+        "Cosa significa per i contratti NASA? Se Starship non vola entro il primo trimestre del prossimo anno, l’agenzia deve attivare le clausole penali. SpaceX rischia di perdere la corsa alla Luna prima ancora di partire."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "La FAA ha fermato SpaceX perché qualcosa è esploso.",
+        "Il booster V3 potrebbe essere saltato durante un test a terra.",
+        "L'incidente è successo dopo un test che sembrava perfetto.",
+        "Clienti con carichi pronti aspettano da mesi.",
+        "Se Starship non vola, i contratti NASA si complicano."
+      ]
+    },
+    "instagram": {
+      "caption": "La FAA ha fermato SpaceX perché il booster Starship V3 è esploso durante un test a terra, dopo un collaudo riuscito. 🚫 Un guasto banale in fase di rifornimento ora blocca 🛑 tutti i futuri lanci, con un buco da oltre un milione di dollari al giorno per clienti NASA e satelliti già pronti. ⏳ Se il problema è strutturale, il programma slitta di un anno e la Luna si allontana. Hai già carichi utili in lista d'attesa?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 4,
+          "hook": "La FAA ha fermato SpaceX!",
+          "voiceover": "La FAA ha fermato SpaceX perché qualcosa è esploso.",
+          "on_screen_text": "FAA FERMA SPACEX!",
+          "visual_direction": "Testo grande e impattante al centro dello schermo.",
+          "caption": "Un'azione senza precedenti.",
+          "tone": "urgent",
+          "emphasis_word": "FERMA",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Il motivo? Un'esplosione.",
+          "voiceover": "Il booster V3 potrebbe essere saltato durante un test a terra.",
+          "on_screen_text": "BOOSTER V3 SALTATO!",
+          "visual_direction": "Animazione di esplosione con testo che appare.",
+          "caption": "Un test disastroso.",
+          "tone": "urgent",
+          "emphasis_word": "SALTA",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Un test che sembrava perfetto.",
+          "voiceover": "L'incidente è successo dopo un test che sembrava perfetto.",
+          "on_screen_text": "TEST SEMBRAVA PERFETTO",
+          "visual_direction": "Transizione fluida da un test di successo a un'esplosione.",
+          "caption": "La delusione è palpabile.",
+          "tone": "informative",
+          "emphasis_word": "PERFETTO",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "I clienti sono in attesa.",
+          "voiceover": "Clienti con carichi pronti aspettano da mesi.",
+          "on_screen_text": "CLIENTI IN ATTESA",
+          "visual_direction": "Testo che appare mentre scorre una lista di clienti.",
+          "caption": "L'attesa continua.",
+          "tone": "urgent",
+          "emphasis_word": "ATTESE",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Cosa succederà ora?",
+          "voiceover": "Se Starship non vola, i contratti NASA si complicano.",
+          "on_screen_text": "CONTRATTI NASA IN PERICOLO",
+          "visual_direction": "Testo che lampeggia per enfatizzare l'urgenza.",
+          "caption": "Il futuro è incerto.",
+          "tone": "urgent",
+          "emphasis_word": "PERICOLO",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 26,
+      "cta": "Segui per aggiornamenti su SpaceX!"
+    }
+  },
+  "instagram_caption": "La FAA ha fermato SpaceX perché il booster Starship V3 è esploso durante un test a terra, dopo un collaudo riuscito. 🚫 Un guasto banale in fase di rifornimento ora blocca 🛑 tutti i futuri lanci, con un buco da oltre un milione di dollari al giorno per clienti NASA e satelliti già pronti. ⏳ Se il problema è strutturale, il programma slitta di un anno e la Luna si allontana. Hai già carichi utili in lista d'attesa?",
+  "carousel_slides": [
+    {
+      "hook": "Il test era riuscito. Poi è esploso.",
+      "description": "Il booster V3 potrebbe essere esploso durante un test a terra. Nessuno aveva previsto il guasto nella fase più banale.",
+      "visual_hint": "Booster enorme su piazzola test",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "SpaceX rocket launch pad"
+    },
+    {
+      "hook": "FAA blocca ogni lancio futuro.",
+      "description": "La FAA ha fermato SpaceX. Se confermato, nessun lancio Starship finché non sarà revisionata l'intera procedura di test a terra.",
+      "visual_hint": "Documento ufficiale e timbro",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "FAA document official",
+      "image": "https://images.pexels.com/photos/7821927/pexels-photo-7821927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ogni giorno di ritardo costa caro.",
+      "description": "Clienti con carichi NASA, esperimenti e satelliti aspettano da mesi. Ogni giorno oltre 1 milione di dollari in contratti firmati.",
+      "visual_hint": "Grafico a barre in rosso",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Guasto strutturale? Addio programma.",
+      "description": "Se il guasto è strutturale, Starship slitta di almeno un anno. Il booster V3 non è ancora certificato per il volo.",
+      "visual_hint": "Primo piano valvola metallica",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "metal mechanical valve closeup",
+      "image": "https://images.pexels.com/photos/5711732/pexels-photo-5711732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cosa significa per i contratti NASA?",
+      "description": "Se Starship non vola entro il primo trimestre 2025, la NASA attiva clausole penali. SpaceX rischia di perdere la corsa alla Luna.",
+      "visual_hint": "Logo NASA e calendario",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "NASA logo building",
+      "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800",
+  "savedAt": "2026-05-27T21:52:51.765Z",
+  "sourceId": "9788635b5234eb7b23833d219fa885e2",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
+}
