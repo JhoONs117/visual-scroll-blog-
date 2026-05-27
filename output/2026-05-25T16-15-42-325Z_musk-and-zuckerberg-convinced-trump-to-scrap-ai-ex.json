@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Musk e Zuckerberg, rivali pubblici, hanno cenato con Trump in un incontro senza testimoni ufficiali. 🍽️ Un ordine esecutivo che metteva dei paletti all'intelligenza artificiale è stato cancellato subito dopo. 🤫 Entrambi vogliono sviluppare l'IA senza freni, ma con modelli diversi: uno aperto, l'altro chiuso. Il risultato? Le aziende più grandi e ricche ora possono correre senza limiti, mentre chi ha meno risorse resta indietro. 💸 Se lavori con strumenti digitali, preparati a un mercato dove pochi decidono le regole del gioco. Chi ha un interesse diretto a che l'IA resti senza regole? 🔎"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Hanno cancellato le regole sull'IA.",
+          "voiceover": "Hanno cancellato le regole sull'IA in privato.",
+          "on_screen_text": "Cancellato l'ordine sull'IA",
+          "visual_direction": "Testo dinamico che si dissolve",
+          "caption": "Cancellato l'ordine",
+          "tone": "urgent",
+          "emphasis_word": "Cancellato",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Musk e Zuckerberg d'accordo.",
+          "voiceover": "Musk e Zuckerberg d'accordo per la prima volta.",
+          "on_screen_text": "Musk e Zuckerberg d'accordo!",
+          "visual_direction": "Testo che appare con effetto di scrittura",
+          "caption": "Un accordo storico",
+          "tone": "informative",
+          "emphasis_word": "accordo",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Nessun testimone all'incontro.",
+          "voiceover": "Nessun testimone all'incontro con Trump.",
+          "on_screen_text": "Incontro segreto con Trump",
+          "visual_direction": "Sfondo scuro con testo illuminato",
+          "caption": "Nessun testimone",
+          "tone": "urgent",
+          "emphasis_word": "segreto",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Chi ha soldi può tutto.",
+          "voiceover": "Ora chi ha soldi può fare tutto.",
+          "on_screen_text": "Chi ha soldi...",
+          "visual_direction": "Testo che scorre verso l'alto",
+          "caption": "Il potere del denaro",
+          "tone": "informative",
+          "emphasis_word": "soldi",
+          "layout": "split"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Segui i bilanci delle aziende.",
+          "voiceover": "Segui i bilanci delle aziende di AI.",
+          "on_screen_text": "Segui le aziende di AI",
+          "visual_direction": "Grafico che si anima con il testo",
+          "caption": "Rimani informato",
+          "tone": "inspiring",
+          "emphasis_word": "AI",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 28,
+      "cta": "Scopri di più sull'IA!"
     }
   },
   "instagram_caption": "Musk e Zuckerberg, rivali pubblici, hanno cenato con Trump in un incontro senza testimoni ufficiali. 🍽️ Un ordine esecutivo che metteva dei paletti all'intelligenza artificiale è stato cancellato subito dopo. 🤫 Entrambi vogliono sviluppare l'IA senza freni, ma con modelli diversi: uno aperto, l'altro chiuso. Il risultato? Le aziende più grandi e ricche ora possono correre senza limiti, mentre chi ha meno risorse resta indietro. 💸 Se lavori con strumenti digitali, preparati a un mercato dove pochi decidono le regole del gioco. Chi ha un interesse diretto a che l'IA resti senza regole? 🔎",
@@ -100,5 +167,7 @@
   ],
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/P20251029DT-2485.jpg-scaled.webp",
   "savedAt": "2026-05-25T16:15:59.055Z",
-  "sourceId": "e0f241a5f5960d11aca489925873941a"
+  "sourceId": "e0f241a5f5960d11aca489925873941a",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

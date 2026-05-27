@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Balo è tornato, preparati a scoprire!",
+          "voiceover": "Scopri come Balo è tornato più forte che mai.",
+          "on_screen_text": "Balo è tornato!",
+          "visual_direction": "Inizio con un montaggio di clip di Balo in azione.",
+          "caption": "Scopri la sua storia"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Forza e disciplina: il suo segreto!",
+          "voiceover": "La costanza è ciò che distingue i campioni.",
+          "on_screen_text": "Costanza > Talento",
+          "visual_direction": "Mostrare Balo mentre si allena intensamente.",
+          "caption": "La chiave del successo"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Piedi saldi, core attivo!",
+          "voiceover": "Un buon allenamento inizia con una solida base.",
+          "on_screen_text": "Piedi saldi, core attivo",
+          "visual_direction": "Focus sui piedi e sul core durante un esercizio.",
+          "caption": "Fondamenta solide"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Mai saltare il riscaldamento!",
+          "voiceover": "Il riscaldamento è fondamentale per ogni atleta.",
+          "on_screen_text": "Riscaldamento: essenziale!",
+          "visual_direction": "Clip di Balo che esegue esercizi di riscaldamento.",
+          "caption": "Preparati bene"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "10 minuti di tabata: pronto ad allenarti?",
+          "voiceover": "Unisciti a Balo per una sessione di tabata ad alta intensità.",
+          "on_screen_text": "10 minuti di tabata!",
+          "visual_direction": "Mostrare un breve tutorial di una routine di tabata.",
+          "caption": "Inizia ora!"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Segui per altri consigli fitness!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205935f4d67e.jpeg",
   "savedAt": "2026-05-16T06:29:14.268Z",
   "sourceId": "7e42efc28a372ca524f5c87c05d76a4b",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

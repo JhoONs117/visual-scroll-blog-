@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Dieci anni fa metà dei migliori dottorandi cinesi di AI partiva per gli Stati Uniti. Oggi solo uno su cinque lascia il paese: il resto resta in Cina a costruire le proprie aziende tech. Questo ribalta un decennio di fuga di cervelli, e i laboratori stranieri perdono i talenti che li rendevano leader. Per chi lavora nel settore significa un avversario più preparato e meno prevedibile, con un vantaggio costruito a Pechino. Tu come ti stai preparando alla prossima generazione di competitor?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "China's AI talent is staying put.",
+          "voiceover": "Only one in five Chinese AI PhDs leaves for the US now.",
+          "on_screen_text": "Only 1 in 5 leave for the US",
+          "visual_direction": "Bold text appears with a map of China.",
+          "caption": "AI Talent Retention",
+          "tone": "urgent",
+          "emphasis_word": "5",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "A decade of change.",
+          "voiceover": "For ten years, it was nearly half.",
+          "on_screen_text": "It was nearly HALF!",
+          "visual_direction": "Split screen with a timeline animation.",
+          "caption": "A Decade of Shifts",
+          "tone": "informative",
+          "emphasis_word": "HALF",
+          "layout": "split"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "The pipeline has closed.",
+          "voiceover": "That pipeline just closed.",
+          "on_screen_text": "The Pipeline Has CLOSED",
+          "visual_direction": "Pipe graphic that shuts off.",
+          "caption": "End of an Era",
+          "tone": "urgent",
+          "emphasis_word": "CLOSED",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 7,
+          "hook": "Western labs feel the impact.",
+          "voiceover": "Western labs lose their edge without these critical thinkers.",
+          "on_screen_text": "Critical Thinkers are GONE",
+          "visual_direction": "Dramatic drop in lab productivity visuals.",
+          "caption": "Lost Edge",
+          "tone": "informative",
+          "emphasis_word": "GONE",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "A new competitor arises.",
+          "voiceover": "Your next competitor starts in Beijing today.",
+          "on_screen_text": "Competitor Starts in BEIJING",
+          "visual_direction": "Dynamic animation of a startup launch.",
+          "caption": "The Future is Now",
+          "tone": "inspiring",
+          "emphasis_word": "BEIJING",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Stay ahead of the competition!"
     }
   },
   "instagram_caption": "Dieci anni fa metà dei migliori dottorandi cinesi di AI partiva per gli Stati Uniti. Oggi solo uno su cinque lascia il paese: il resto resta in Cina a costruire le proprie aziende tech. Questo ribalta un decennio di fuga di cervelli, e i laboratori stranieri perdono i talenti che li rendevano leader. Per chi lavora nel settore significa un avversario più preparato e meno prevedibile, con un vantaggio costruito a Pechino. Tu come ti stai preparando alla prossima generazione di competitor?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/04/china-flag-shanghai.jpg?resize=1200,801",
   "savedAt": "2026-05-27T14:57:58.538Z",
-  "sourceId": "c631a36e278f784433bf6486cc8a1973"
+  "sourceId": "c631a36e278f784433bf6486cc8a1973",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

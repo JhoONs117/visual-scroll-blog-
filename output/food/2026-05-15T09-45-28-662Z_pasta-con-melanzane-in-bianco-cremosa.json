@@ -39,11 +39,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri la pasta cremosa senza panna!",
+          "voiceover": "Oggi prepariamo una deliziosa pasta con melanzane.",
+          "on_screen_text": "Pasta cremosa senza panna!",
+          "visual_direction": "Inizio con un primo piano della pasta e delle melanzane.",
+          "caption": "Pasta cremosa e leggera!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Ingredienti freschi per un piatto unico!",
+          "voiceover": "Ecco cosa ci serve: fusilloni, melanzane, Parmigiano e menta.",
+          "on_screen_text": "Ingredienti: Fusilloni, melanzane, Parmigiano, menta.",
+          "visual_direction": "Mostrare gli ingredienti disposti in modo invitante.",
+          "caption": "Ingredienti freschi!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 7,
+          "hook": "Taglia e cuoci le melanzane!",
+          "voiceover": "Taglia le melanzane a cubetti e cuocile in padella.",
+          "on_screen_text": "Taglia e cuoci le melanzane.",
+          "visual_direction": "Inquadratura delle melanzane mentre vengono tagliate e cotte.",
+          "caption": "Melanzane dorate!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 7,
+          "hook": "Frulla per una consistenza cremosa!",
+          "voiceover": "Frulla le melanzane cotte con un po' d'acqua di cottura.",
+          "on_screen_text": "Frulla le melanzane cotte.",
+          "visual_direction": "Mostrare il frullatore in azione con melanzane e acqua.",
+          "caption": "Cremosa e deliziosa!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Guarnisci e servi caldo!",
+          "voiceover": "Aggiungi menta fresca e Parmigiano, poi servi.",
+          "on_screen_text": "Guarnisci e servi caldo!",
+          "visual_direction": "Inquadratura finale del piatto servito, guarnito.",
+          "caption": "Pronto da gustare!"
+        }
+      ],
+      "duration_sec": 30,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Prova questa ricetta oggi stesso!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -115,8 +161,8 @@
   "image": "https://www.giallozafferano.it/images/361-36125/Pasta-con-melanzane-in-bianco-cremosa_650x433_wm.jpg",
   "savedAt": "2026-05-15T09:45:52.438Z",
   "sourceId": "3cc708f32ca006c9dd41a7f41144e0fa",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "slide_deck",
   "render_status": {
     "low": null,
     "medium": null,

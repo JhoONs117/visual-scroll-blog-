@@ -39,11 +39,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri la vera pasta al forno siciliana!",
+          "voiceover": "Oggi prepariamo un piatto tradizionale siciliano che ti farà leccare i baffi.",
+          "on_screen_text": "Pasta al forno siciliana!",
+          "visual_direction": "Inquadratura ravvicinata della pasta al forno fumante.",
+          "caption": "Un classico della cucina siciliana!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 7,
+          "hook": "Ingredienti freschi e deliziosi!",
+          "voiceover": "Usiamo rigatoni, melanzane, scamorza e parmigiano per un sapore unico.",
+          "on_screen_text": "Rigatoni, melanzane, scamorza, parmigiano",
+          "visual_direction": "Ripresa degli ingredienti disposti su un tavolo.",
+          "caption": "Ingredienti freschi per un piatto speciale!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Friggiamo le melanzane!",
+          "voiceover": "Taglia le melanzane a cubetti e friggile fino a doratura.",
+          "on_screen_text": "Friggi melanzane a cubetti",
+          "visual_direction": "Video della frittura delle melanzane in padella.",
+          "caption": "Passo fondamentale per il sapore!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 8,
+          "hook": "Cuoci in forno per la perfezione!",
+          "voiceover": "Mescola tutto con sugo e formaggio, poi inforna fino a doratura.",
+          "on_screen_text": "Cuoci con sugo e formaggio",
+          "visual_direction": "Ripresa della pasta infornata con formaggio che fonde.",
+          "caption": "Il profumo è irresistibile!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Lascia riposare prima di servire!",
+          "voiceover": "Attendi qualche minuto per un sapore ancora migliore.",
+          "on_screen_text": "Lasciare riposare",
+          "visual_direction": "Inquadratura della pasta al forno pronta, pronta per essere servita.",
+          "caption": "Ecco la tua pasta al forno siciliana!"
+        }
+      ],
+      "duration_sec": 30,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Prova anche tu questa delizia!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -115,8 +161,8 @@
   "image": "https://www.giallozafferano.it/images/361-36162/Pasta-al-forno-alla-siciliana_650x433_wm.jpg",
   "savedAt": "2026-05-15T09:41:33.540Z",
   "sourceId": "9e9b8ac0edbce3f019f05da05ec4af87",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "slide_deck",
   "render_status": {
     "low": null,
     "medium": null,

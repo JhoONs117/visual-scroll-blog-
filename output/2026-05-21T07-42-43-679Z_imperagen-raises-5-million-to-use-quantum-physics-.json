@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Un enzima normale impiega anni per essere migliorato, Imperagen lo fa in settimane con AI e fisica quantistica. Hanno raccolto 5 milioni di sterline per progettare enzimi da zero simulando i salti quantistici degli atomi 🧬⚛️. Il risultato: enzimi più veloci e stabili per farmaci, detergenti e biocarburanti. Il mercato vale 10 miliardi di dollari. Tu pagheresti meno di un abbonamento Spotify per testare i loro enzimi? 💊🔬"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 4,
+          "hook": "Anni per migliorare un enzima.",
+          "voiceover": "Ci vogliono anni per migliorare un enzima.",
+          "on_screen_text": "Anni per migliorare un enzima.",
+          "visual_direction": "Testo in movimento verticale con sfondo dinamico.",
+          "caption": "Tempo di ricerca lungo",
+          "tone": "informative",
+          "emphasis_word": "",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Imperagen lo fa in settimane.",
+          "voiceover": "Imperagen lo fa in sole settimane.",
+          "on_screen_text": "Imperagen lo fa in settimane.",
+          "visual_direction": "Testo che appare rapidamente con effetti di zoom.",
+          "caption": "Innovazione rapida",
+          "tone": "urgent",
+          "emphasis_word": "settimane",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Usano AI e fisica quantistica.",
+          "voiceover": "Utilizzano AI e fisica quantistica.",
+          "on_screen_text": "AI e fisica quantistica.",
+          "visual_direction": "Testo che danzano in modo sincronizzato con grafica futuristica.",
+          "caption": "Tecnologia avanzata",
+          "tone": "inspiring",
+          "emphasis_word": "AI",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Hanno preso 5 milioni di sterline.",
+          "voiceover": "Hanno recentemente raccolto 5 milioni di sterline.",
+          "on_screen_text": "5 milioni di sterline.",
+          "visual_direction": "Testo che si illumina con animazioni di denaro.",
+          "caption": "Investimento significativo",
+          "tone": "urgent",
+          "emphasis_word": "milioni",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Il tuo prossimo farmaco potrebbe nascere così.",
+          "voiceover": "Il tuo prossimo farmaco potrebbe nascere grazie a loro.",
+          "on_screen_text": "Il tuo prossimo farmaco.",
+          "visual_direction": "Testo che svanisce in un cielo stellato.",
+          "caption": "Futuro della medicina",
+          "tone": "inspiring",
+          "emphasis_word": "farmaco",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 25,
+      "cta": "Scopri di più su Imperagen!"
     }
   },
   "instagram_caption": "Un enzima normale impiega anni per essere migliorato, Imperagen lo fa in settimane con AI e fisica quantistica. Hanno raccolto 5 milioni di sterline per progettare enzimi da zero simulando i salti quantistici degli atomi 🧬⚛️. Il risultato: enzimi più veloci e stabili per farmaci, detergenti e biocarburanti. Il mercato vale 10 miliardi di dollari. Tu pagheresti meno di un abbonamento Spotify per testare i loro enzimi? 💊🔬",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/L-R-1st-row-Sim-Singh–Landa-Andrew-Currin-Andy-Almond-Timothy-Eyes-L-R-2nd-row-Guy-Levy-Yurista-Rob-Wilson-Dr-Kath-Mackay-2.jpg?resize=1200,800",
   "savedAt": "2026-05-21T07:43:02.490Z",
-  "sourceId": "5e8958d1d9f608be8954eaa56712363e"
+  "sourceId": "5e8958d1d9f608be8954eaa56712363e",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

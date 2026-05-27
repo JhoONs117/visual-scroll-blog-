@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Un magazzino da 250 milioni di dollari e una rete di hub più piccoli di Amazon: Stord ha appena raccolto 3 miliardi di valutazione promettendo spedizioni più rapide senza che tu debba comprare un capannone 🏭. Il trucco? Software proprietario che decide da quale deposito vicino a te far partire l'ordine, invece di un unico centro enorme 📦. Per chi vende online e Amazon non basta più: si testa già con 100 ordini al giorno, senza contratti pluriennali 🚀. La domanda è: genera profitto o brucia solo capitale? 💸"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 4,
+          "hook": "Hai visto che Stord ha incassato tre miliardi?",
+          "voiceover": "Stord ha raccolto 250 milioni di dollari.",
+          "on_screen_text": "250 milioni raccolti!",
+          "visual_direction": "Testo grande e dinamico che appare con effetto di impatto.",
+          "caption": "Un investimento impressionante.",
+          "tone": "urgent",
+          "emphasis_word": "milioni",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "La domanda è: ma ci guadagna davvero?",
+          "voiceover": "Ma è davvero profittevole?",
+          "on_screen_text": "Ma è profittevole?",
+          "visual_direction": "Testo che si ingrandisce, creando suspense.",
+          "caption": "Un interrogativo cruciale.",
+          "tone": "urgent",
+          "emphasis_word": "profittevole",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Usano magazzini piccoli e un loro software.",
+          "voiceover": "Utilizzano magazzini più piccoli e un software innovativo.",
+          "on_screen_text": "Magazzini piccoli, software innovativo.",
+          "visual_direction": "Animazione di magazzini che compaiono e si riducono.",
+          "caption": "Un approccio diverso.",
+          "tone": "informative",
+          "emphasis_word": "innovativo",
+          "layout": "split"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Così spediscono più veloce di chi ha depositi enormi.",
+          "voiceover": "Spediscono più velocemente dei concorrenti.",
+          "on_screen_text": "Spedizioni più veloci!",
+          "visual_direction": "Animazione di pacchi che si muovono rapidamente.",
+          "caption": "Un vantaggio competitivo.",
+          "tone": "informative",
+          "emphasis_word": "veloci",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 4,
+          "hook": "Tu non compri nulla, usi la loro rete.",
+          "voiceover": "Non acquisti, ma utilizzi la loro rete.",
+          "on_screen_text": "Usi la loro rete!",
+          "visual_direction": "Testo che si espande e si illumina.",
+          "caption": "Un nuovo modello di business.",
+          "tone": "inspiring",
+          "emphasis_word": "rete",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 25,
+      "cta": "Scopri di più su Stord!"
     }
   },
   "instagram_caption": "Un magazzino da 250 milioni di dollari e una rete di hub più piccoli di Amazon: Stord ha appena raccolto 3 miliardi di valutazione promettendo spedizioni più rapide senza che tu debba comprare un capannone 🏭. Il trucco? Software proprietario che decide da quale deposito vicino a te far partire l'ordine, invece di un unico centro enorme 📦. Per chi vende online e Amazon non basta più: si testa già con 100 ordini al giorno, senza contratti pluriennali 🚀. La domanda è: genera profitto o brucia solo capitale? 💸",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Sean-Henry-CEO-Co-founder-of-Stord-.jpg?w=1181",
   "savedAt": "2026-05-26T23:03:10.459Z",
-  "sourceId": "555a44363c80b8ae35d222f4f0e5b61b"
+  "sourceId": "555a44363c80b8ae35d222f4f0e5b61b",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

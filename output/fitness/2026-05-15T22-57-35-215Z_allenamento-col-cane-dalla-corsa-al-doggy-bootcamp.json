@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Il tuo cane aspetta l'avventura!",
+          "voiceover": "Scopri come allenarti insieme al tuo amico a quattro zampe.",
+          "on_screen_text": "Muoviti insieme al tuo cane!",
+          "visual_direction": "Inquadratura su un cane che salta e gioca nel parco.",
+          "caption": "#FitnessConCane"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Raddoppia motivazione e divertimento!",
+          "voiceover": "Il gioco rende l'allenamento più stimolante e divertente.",
+          "on_screen_text": "Gioco + Fitness = Divertimento!",
+          "visual_direction": "Clip di un cane e un proprietario che giocano a frisbee.",
+          "caption": "#DivertimentoAttivo"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Tieni il guinzaglio lento!",
+          "voiceover": "Ricorda, mai tirare indietro il tuo amico a quattro zampe.",
+          "on_screen_text": "Guinzaglio lento, relax!",
+          "visual_direction": "Mostrare un cane che cammina serenamente con un guinzaglio lungo.",
+          "caption": "#CaneFelice"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Lascialo correre davanti!",
+          "voiceover": "Lascia che il tuo cane esplori e si diverta durante la corsa.",
+          "on_screen_text": "Non tirare il cane!",
+          "visual_direction": "Inquadrature di un cane che corre liberamente in un campo.",
+          "caption": "#LibertàDiCorsa"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Porta il tuo cane a correre oggi!",
+          "voiceover": "Dedica solo 10 minuti alla corsa insieme.",
+          "on_screen_text": "Corsa di 10 minuti, che aspetti?",
+          "visual_direction": "Mostrare un proprietario che prepara il guinzaglio per la corsa.",
+          "caption": "#CorsaConIlCane"
+        }
+      ],
+      "duration_sec": 28,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia oggi il tuo allenamento insieme!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cc1cd34ff.jpeg",
   "savedAt": "2026-05-15T22:57:52.321Z",
   "sourceId": "91bf720d5e86c1d2601784c1d0504006",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

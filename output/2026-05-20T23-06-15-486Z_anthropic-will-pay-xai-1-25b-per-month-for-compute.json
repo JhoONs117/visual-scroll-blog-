@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Anthropic pagherà 1,25 miliardi di dollari al mese per usare i server di xAI. 🖥️ Non per comprarli: è un affitto, il contratto cloud più grande mai firmato nel settore. Il motivo è fisico: xAI possiede GPU che Anthropic non può avere, punto. 💸 Oggi chi costruisce modelli deve scegliere: o possiedi l'hardware, o paghi un canone. Per chi usa strumenti AI, questo significa che i costi lieviteranno e i servizi potrebbero diventare meno indipendenti. ⚡ Quale azienda firmerà il prossimo accordo da 15 miliardi?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Un accordo senza precedenti!",
+          "voiceover": "Anthropic pagherà 1.25 miliardi al mese per GPU.",
+          "on_screen_text": "1.25 MILIARDI AL MESE",
+          "visual_direction": "Testo che appare in modo dinamico con effetti di movimento.",
+          "caption": "Scopri di più su questo enorme contratto.",
+          "tone": "urgent",
+          "emphasis_word": "MILIONI",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Perché è così importante?",
+          "voiceover": "xAI ha GPU che Anthropic non può comprare.",
+          "on_screen_text": "GPU INACCESSIBILI",
+          "visual_direction": "Sfondo che cambia con immagini di GPU.",
+          "caption": "Le risorse sono limitate.",
+          "tone": "informative",
+          "emphasis_word": "INACCESSIBILI",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Non è solo un problema tecnico.",
+          "voiceover": "Non è una scelta tecnica, è fisica.",
+          "on_screen_text": "È FISICA",
+          "visual_direction": "Animazione che rappresenta concetti fisici.",
+          "caption": "Le limitazioni fisiche contano.",
+          "tone": "informative",
+          "emphasis_word": "FISICA",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Il contratto cloud più grande!",
+          "voiceover": "È il contratto cloud più grande mai visto.",
+          "on_screen_text": "CONTRATTO RECORD",
+          "visual_direction": "Effetti visivi che evidenziano l'importanza del contratto.",
+          "caption": "Cosa significa per l'industria?",
+          "tone": "urgent",
+          "emphasis_word": "RECORD",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "La scelta è cruciale.",
+          "voiceover": "Chi fa modelli deve scegliere da chi affittare.",
+          "on_screen_text": "SCELTA CRUCIALE",
+          "visual_direction": "Testo che lampeggia per attirare attenzione.",
+          "caption": "Segui per ulteriori aggiornamenti.",
+          "tone": "inspiring",
+          "emphasis_word": "CRUCIALE",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Segui per le ultime novità!"
     }
   },
   "instagram_caption": "Anthropic pagherà 1,25 miliardi di dollari al mese per usare i server di xAI. 🖥️ Non per comprarli: è un affitto, il contratto cloud più grande mai firmato nel settore. Il motivo è fisico: xAI possiede GPU che Anthropic non può avere, punto. 💸 Oggi chi costruisce modelli deve scegliere: o possiedi l'hardware, o paghi un canone. Per chi usa strumenti AI, questo significa che i costi lieviteranno e i servizi potrebbero diventare meno indipendenti. ⚡ Quale azienda firmerà il prossimo accordo da 15 miliardi?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800",
   "savedAt": "2026-05-20T23:06:47.781Z",
-  "sourceId": "8ad8deb316081a848527e6a09ec0d5e2"
+  "sourceId": "8ad8deb316081a848527e6a09ec0d5e2",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

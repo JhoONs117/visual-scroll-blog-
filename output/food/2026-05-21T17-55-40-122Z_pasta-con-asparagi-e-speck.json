@@ -37,6 +37,58 @@
         "Scola la pasta al dente e saltala direttamente nella crema di asparagi, con un mestolo di acqua di cottura per legare il tutto.",
         "Fuori dal fuoco, aggiungi lo speck croccante sbriciolato e qualche asparago intero tenuto da parte. Provalo e dimmi se non è magia 👇"
       ]
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri il piatto che stupirà tutti!",
+          "voiceover": "Oggi prepariamo una pasta cremosa e deliziosa.",
+          "on_screen_text": "Pasta cremosa con asparagi e speck",
+          "visual_direction": "Inquadratura ravvicinata di un piatto di pasta fumante.",
+          "caption": "Un piatto da chef!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Ingredienti freschi per un sapore unico!",
+          "voiceover": "Ecco cosa ci serve: spaghettoni, asparagi, speck e basilico.",
+          "on_screen_text": "Spaghettoni, asparagi, speck, olio, basilico",
+          "visual_direction": "Ripresa degli ingredienti disposti su un tavolo.",
+          "caption": "Ingredienti freschi!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Creiamo una crema vellutata di asparagi!",
+          "voiceover": "Frulla gli asparagi cotti per una crema perfetta.",
+          "on_screen_text": "Frulla gli asparagi in crema",
+          "visual_direction": "Inquadratura del frullatore mentre si preparano gli asparagi.",
+          "caption": "Crema di asparagi!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Scola e salta la pasta con la crema!",
+          "voiceover": "Scola la pasta e saltala nella crema di asparagi.",
+          "on_screen_text": "Scola e saltala nella crema",
+          "visual_direction": "Inquadratura della pasta che viene mescolata con la crema.",
+          "caption": "Pasta pronta!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Guarnisci per un tocco finale!",
+          "voiceover": "Guarnisci con speck croccante e asparagi freschi.",
+          "on_screen_text": "Guarnisci con speck e asparagi",
+          "visual_direction": "Ripresa finale con il piatto guarnito, bello e appetitoso.",
+          "caption": "Servi e gusta!"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Prova questa ricetta oggi stesso!"
     }
   },
   "video_script": [
@@ -107,5 +159,7 @@
   ],
   "image": "https://www.giallozafferano.it/images/362-36211/Pasta-con-asparagi-e-speck_650x433_wm.jpg",
   "savedAt": "2026-05-21T17:55:55.367Z",
-  "sourceId": "c796e183f2fb4125e3f495152ce756d6"
+  "sourceId": "c796e183f2fb4125e3f495152ce756d6",
+  "render_template": "slide_deck",
+  "render_quality": "low"
 }

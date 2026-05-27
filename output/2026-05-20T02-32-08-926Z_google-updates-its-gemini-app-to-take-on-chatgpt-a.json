@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Fino a ieri il tuo assistente Google ti dava risposte, da oggi invece può prenotare un ristorante o ordinare una cena direttamente dentro le app che usi già. 🤖 Non è un semplice aggiornamento: è un cambio di relazione, perché ora è lui a compiere azioni al posto tuo, con le autorizzazioni che gli dai. 🔑 Il limite è che devi decidere subito quanto controllo cedere — non esiste opzione neutra. ⚖️ Per chi lavora, significa delegare compiti pratici risparmiando tempo, ma anche fidarsi di un sistema che agisce in automatico. Domani dagli un comando vero: il risultato ti farà capire se è un alleato o un rischio."
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Google ha sbloccato un assistente IA nuovo.",
+          "voiceover": "Scopri il nuovo assistente IA di Google.",
+          "on_screen_text": "ASSISTENTE IA NUOVO",
+          "visual_direction": "Animazione dinamica del logo Google che si trasforma.",
+          "caption": "Scopri il futuro dell'IA!",
+          "tone": "informative",
+          "emphasis_word": "NUOVO",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Non risponde più, ma esegue azioni.",
+          "voiceover": "Adesso l'assistente non risponde più, agisce.",
+          "on_screen_text": "ESSEGUE AZIONI",
+          "visual_direction": "Mostrare un'animazione di comandi che si trasformano in azioni.",
+          "caption": "Un cambiamento radicale!",
+          "tone": "urgent",
+          "emphasis_word": "AZIONI",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "C'è un limite nelle autorizzazioni.",
+          "voiceover": "Fai attenzione, ci sono limiti nelle autorizzazioni.",
+          "on_screen_text": "LIMITI AUTORIZZAZIONI",
+          "visual_direction": "Visualizzare un lucchetto che si chiude su uno schermo.",
+          "caption": "Sii consapevole!",
+          "tone": "informative",
+          "emphasis_word": "LIMITI",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Provarlo significa decidere quanto controllo cedere.",
+          "voiceover": "Usarlo implica scegliere quanto controllo cedere.",
+          "on_screen_text": "CONTROLLO CEDERE",
+          "visual_direction": "Mostrare una bilancia che pende verso l'uso dell'IA.",
+          "caption": "Fai la scelta giusta!",
+          "tone": "urgent",
+          "emphasis_word": "CONTROLLO",
+          "layout": "split"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Domani prova un comando vero.",
+          "voiceover": "Preparati, domani prova un comando vero.",
+          "on_screen_text": "PROVA UN COMANDO",
+          "visual_direction": "Mostrare un countdown che porta a un'azione.",
+          "caption": "Non perdere l'occasione!",
+          "tone": "inspiring",
+          "emphasis_word": "PROVA",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 25,
+      "cta": "Inizia a esplorare oggi stesso!"
     }
   },
   "instagram_caption": "Fino a ieri il tuo assistente Google ti dava risposte, da oggi invece può prenotare un ristorante o ordinare una cena direttamente dentro le app che usi già. 🤖 Non è un semplice aggiornamento: è un cambio di relazione, perché ora è lui a compiere azioni al posto tuo, con le autorizzazioni che gli dai. 🔑 Il limite è che devi decidere subito quanto controllo cedere — non esiste opzione neutra. ⚖️ Per chi lavora, significa delegare compiti pratici risparmiando tempo, ma anche fidarsi di un sistema che agisce in automatico. Domani dagli un comando vero: il risultato ti farà capire se è un alleato o un rischio.",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
   "savedAt": "2026-05-20T02:32:42.052Z",
-  "sourceId": "f8e07eea8773280a620912460f7cc3f1"
+  "sourceId": "f8e07eea8773280a620912460f7cc3f1",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

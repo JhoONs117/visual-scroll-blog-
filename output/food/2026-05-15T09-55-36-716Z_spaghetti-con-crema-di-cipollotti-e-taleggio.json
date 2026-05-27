@@ -39,11 +39,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri il piatto che conquisterà tutti!",
+          "voiceover": "Oggi prepariamo spaghetti con crema di cipollotti e taleggio.",
+          "on_screen_text": "Spaghetti con cipollotti e taleggio!",
+          "visual_direction": "Inquadratura ravvicinata degli ingredienti freschi.",
+          "caption": "Un piatto cremoso e delizioso!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 7,
+          "hook": "Iniziamo con i cipollotti!",
+          "voiceover": "Rosoliamo i cipollotti in padella fino a doratura.",
+          "on_screen_text": "Rosola i cipollotti!",
+          "visual_direction": "Mostra il cipollotto che sfrigola in padella.",
+          "caption": "Il profumo è irresistibile!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Non dimenticare la parte verde!",
+          "voiceover": "Sbollentiamo la parte verde dei cipollotti per pochi minuti.",
+          "on_screen_text": "Sbollenta la parte verde!",
+          "visual_direction": "Inquadratura della parte verde in acqua bollente.",
+          "caption": "Aggiungi colore e sapore!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 8,
+          "hook": "Frulliamo il tutto per una crema perfetta!",
+          "voiceover": "Frulliamo cipollotti e acqua fino a ottenere una crema liscia.",
+          "on_screen_text": "Frulla i cipollotti con acqua!",
+          "visual_direction": "Mostra l'azione di frullare e la crema che si forma.",
+          "caption": "Cremosa e saporita!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Mantechiamo e guarniamo!",
+          "voiceover": "Unisci la pasta, manteca con taleggio e guarnisci con menta.",
+          "on_screen_text": "Manteca con taleggio e menta!",
+          "visual_direction": "Inquadratura finale del piatto servito con menta fresca.",
+          "caption": "Pronto da gustare!"
+        }
+      ],
+      "duration_sec": 31,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Prova questa ricetta oggi stesso!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -115,8 +161,8 @@
   "image": "https://www.giallozafferano.it/images/361-36139/Spaghetti-con-crema-di-cipollotti-e-taleggio_650x433_wm.jpg",
   "savedAt": "2026-05-15T09:55:38.399Z",
   "sourceId": "b9e47583504bae7fddb19f4c5ce7621a",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "slide_deck",
   "render_status": {
     "low": null,
     "medium": null,

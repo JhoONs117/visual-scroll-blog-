@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Spotify e Universal hanno appena firmato un accordo che permette di creare remix e cover generate dall’intelligenza artificiale usando brani originali, ma solo dietro licenza. 🎵 Fino a ieri farlo era illegale, ora chi produce può pagare una quota per ogni traccia e farlo in modo regolare. Il punto chiave: gli artisti originali possono dire di no ai remix, e se dicono sì condividono i ricavi. 🚫💸 Per te significa che i tuoi brani preferiti potrebbero finire in versioni AI autorizzate — o restare blindati. Puoi già verificare se una canzone è inclusa nell'accordo, altrimenti il remix resta fuorilegge. 🧐"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Accordo pazzesco!",
+          "voiceover": "Spotify e Universal hanno firmato un accordo pazzesco.",
+          "on_screen_text": "Accordo Pazzesco!",
+          "visual_direction": "Testo grande che esplode al centro",
+          "caption": "Scopri di più su questo accordo!",
+          "tone": "urgent",
+          "emphasis_word": "Pazzesco",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Le cover AI sono legali!",
+          "voiceover": "Ora le cover fatte con AI sono legali.",
+          "on_screen_text": "Cover AI Legali!",
+          "visual_direction": "Animazione di note musicali che danzano",
+          "caption": "Cosa significa per gli artisti?",
+          "tone": "informative",
+          "emphasis_word": "Legali",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Artisti originali guadagnano!",
+          "voiceover": "Ma gli artisti originali decidono se guadagnarci.",
+          "on_screen_text": "Artisti Originali Guadagnano!",
+          "visual_direction": "Testo che si illumina in verde",
+          "caption": "Scopri di più sui diritti!",
+          "tone": "informative",
+          "emphasis_word": "Guadagnano",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Chi remixa paga!",
+          "voiceover": "Chi remixa paga per ogni traccia usata.",
+          "on_screen_text": "Chi Remixa Paga!",
+          "visual_direction": "Animazione di monete che cadono",
+          "caption": "Leggi i dettagli!",
+          "tone": "urgent",
+          "emphasis_word": "Paga",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Controlla le canzoni!",
+          "voiceover": "Controlla se la tua canzone preferita è nella lista.",
+          "on_screen_text": "Controlla la tua canzone!",
+          "visual_direction": "Testo che scorre verso l'alto",
+          "caption": "Non perdere questa opportunità!",
+          "tone": "inspiring",
+          "emphasis_word": "Canzone",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Scopri di più su Spotify!"
     }
   },
   "instagram_caption": "Spotify e Universal hanno appena firmato un accordo che permette di creare remix e cover generate dall’intelligenza artificiale usando brani originali, ma solo dietro licenza. 🎵 Fino a ieri farlo era illegale, ora chi produce può pagare una quota per ogni traccia e farlo in modo regolare. Il punto chiave: gli artisti originali possono dire di no ai remix, e se dicono sì condividono i ricavi. 🚫💸 Per te significa che i tuoi brani preferiti potrebbero finire in versioni AI autorizzate — o restare blindati. Puoi già verificare se una canzone è inclusa nell'accordo, altrimenti il remix resta fuorilegge. 🧐",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2023/10/spotify-app-GettyImages-1689920063-e1702479483636.jpeg?resize=1200,676",
   "savedAt": "2026-05-21T21:22:34.719Z",
-  "sourceId": "00d321dd1852239765eca2705a20b518"
+  "sourceId": "00d321dd1852239765eca2705a20b518",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

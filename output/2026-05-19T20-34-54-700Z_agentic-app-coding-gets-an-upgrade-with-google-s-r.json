@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Google ha rilasciato un tool ufficiale per sviluppare app Android direttamente dal terminale, senza aprire Android Studio. Si chiama Android CLI e permette di compilare, testare e distribuire app usando solo riga di comando e un editor di testo. Per ora serve sapere già usare il terminale, ma è il segnale che i flussi di lavoro stanno cambiando: chi dipende dall'IDE per ogni modifica rischia di perdere velocità rispetto a chi automatizza con script e CI. Con 10 minuti di installazione puoi testare oggi stesso un workflow senza interfaccia grafica. Hai già aperto il terminale o aspetti che qualcun altro lo faccia al posto tuo? 🖥️⌨️📱⚙️"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Google ha fatto una cosa grossa.",
+          "voiceover": "Google ha fatto una cosa grossa.",
+          "on_screen_text": "GOOGLE HA FATTO UNA COSA GROSSA.",
+          "visual_direction": "Text appears with a bounce effect.",
+          "caption": "Scopri la novità!",
+          "tone": "urgent",
+          "emphasis_word": "grossa",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Un tool da terminale per Android.",
+          "voiceover": "Un tool da terminale per Android.",
+          "on_screen_text": "UN TOOL DA TERMINALE PER ANDROID.",
+          "visual_direction": "Text slides in from the left.",
+          "caption": "Rivoluziona il tuo modo di lavorare.",
+          "tone": "informative",
+          "emphasis_word": "terminal",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Niente Android Studio, solo riga di comando.",
+          "voiceover": "Niente Android Studio, solo riga di comando.",
+          "on_screen_text": "NESSUN ANDROID STUDIO.",
+          "visual_direction": "Text fades in and out quickly.",
+          "caption": "Semplice e diretto.",
+          "tone": "informative",
+          "emphasis_word": "solo",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Ma devi sapere usare il terminale.",
+          "voiceover": "Ma devi sapere usare il terminale.",
+          "on_screen_text": "SAI USARE IL TERMINALE?",
+          "visual_direction": "Text zooms in dramatically.",
+          "caption": "Preparati a fare il salto.",
+          "tone": "urgent",
+          "emphasis_word": "devi",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Se non lo provi ora, resti indietro.",
+          "voiceover": "Se non lo provi ora, resti indietro.",
+          "on_screen_text": "PROVA ORA O RESTI INDIETRO.",
+          "visual_direction": "Text pulses with urgency.",
+          "caption": "Non perdere tempo!",
+          "tone": "urgent",
+          "emphasis_word": "resti",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 25,
+      "cta": "Inizia a codificare oggi stesso!"
     }
   },
   "instagram_caption": "Google ha rilasciato un tool ufficiale per sviluppare app Android direttamente dal terminale, senza aprire Android Studio. Si chiama Android CLI e permette di compilare, testare e distribuire app usando solo riga di comando e un editor di testo. Per ora serve sapere già usare il terminale, ma è il segnale che i flussi di lavoro stanno cambiando: chi dipende dall'IDE per ogni modifica rischia di perdere velocità rispetto a chi automatizza con script e CI. Con 10 minuti di installazione puoi testare oggi stesso un workflow senza interfaccia grafica. Hai già aperto il terminale o aspetti che qualcun altro lo faccia al posto tuo? 🖥️⌨️📱⚙️",
@@ -100,5 +167,7 @@
   ],
   "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "savedAt": "2026-05-19T20:35:34.327Z",
-  "sourceId": "d2b4dde906051640a9d95cb5faa50bd7"
+  "sourceId": "d2b4dde906051640a9d95cb5faa50bd7",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Google ha appena lanciato agenti AI che non si limitano a cercare su Internet: sanno riassumere documenti, organizzare dati e compiere azioni concrete come scrivere una mail o compilare un report. Il problema? Funzionano bene solo su compiti lineari e brevi. Per un progetto reale e complesso serve ancora una persona che coordini. La novità concreta per te? Con un solo prompt puoi automatizzare flussi di ricerca noiosi che ti rubano ore. Prendi un compito ripetitivo dal tuo lavoro e provalo oggi: il divario tra marketing e realtà lo vedi subito 🔍🦾📉⏰"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri come l'AI può aiutarti!",
+          "voiceover": "Nessuno crede che l'AI faccia tutto da sola.",
+          "on_screen_text": "L'AI NON FA TUTTO DA SOLA",
+          "visual_direction": "Testo animato che appare e scompare rapidamente.",
+          "caption": "Inizia a capire l'AI!",
+          "tone": "urgent",
+          "emphasis_word": "NON",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Google ha una novità!",
+          "voiceover": "Google lancia agenti che cercano e agiscono.",
+          "on_screen_text": "AGENTI CHE CERCANO E AGISCONO",
+          "visual_direction": "Testo che si muove lateralmente per enfatizzare movimento.",
+          "caption": "Scopri di più!",
+          "tone": "informative",
+          "emphasis_word": "AGENTI",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Ma non è perfetto.",
+          "voiceover": "Ma falliscono su compiti complessi in più passaggi.",
+          "on_screen_text": "FALLISCONO SUI COMPITI COMPLESSI",
+          "visual_direction": "Testo che si schianta sullo schermo e si frantuma.",
+          "caption": "Limiti da considerare!",
+          "tone": "urgent",
+          "emphasis_word": "FALLISCONO",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Ecco ciò che funziona.",
+          "voiceover": "Quello che funziona: automatizzare ricerche noiose.",
+          "on_screen_text": "AUTOMATIZZA RICERCHE NOIOSE",
+          "visual_direction": "Testo che si illumina come un'idea brillante.",
+          "caption": "Rendi la tua vita più facile!",
+          "tone": "inspiring",
+          "emphasis_word": "AUTOMATIZZA",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Provalo oggi!",
+          "voiceover": "Provane uno vero oggi e vedi il divario.",
+          "on_screen_text": "PROVALO OGGI!",
+          "visual_direction": "Testo che si ingrandisce verso lo spettatore.",
+          "caption": "Sperimenta il futuro!",
+          "tone": "inspiring",
+          "emphasis_word": "",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Scopri di più sui nuovi agenti!"
     }
   },
   "instagram_caption": "Google ha appena lanciato agenti AI che non si limitano a cercare su Internet: sanno riassumere documenti, organizzare dati e compiere azioni concrete come scrivere una mail o compilare un report. Il problema? Funzionano bene solo su compiti lineari e brevi. Per un progetto reale e complesso serve ancora una persona che coordini. La novità concreta per te? Con un solo prompt puoi automatizzare flussi di ricerca noiosi che ti rubano ore. Prendi un compito ripetitivo dal tuo lavoro e provalo oggi: il divario tra marketing e realtà lo vedi subito 🔍🦾📉⏰",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/G-information-agents.png?resize=1200,750",
   "savedAt": "2026-05-19T22:57:47.914Z",
-  "sourceId": "56e3cf0857f6af63e1a9f899da36e6cd"
+  "sourceId": "56e3cf0857f6af63e1a9f899da36e6cd",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

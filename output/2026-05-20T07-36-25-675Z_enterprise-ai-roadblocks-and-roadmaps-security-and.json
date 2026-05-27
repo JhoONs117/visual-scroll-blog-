@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Il 90% dei progetti di AI per la sicurezza non supera la fase di test. Non perché la tecnologia non funzioni, ma perché vengono costruiti nel cloud e poi falliscono nel mondo reale. La \"Physical AI\" (robot, droni, sensori) ha bisogno di computer vicini al posto dell'azione, non di server lontani. Se usi un tool AI a lavoro che impiega secondi a rispondere, il problema è lì. Ogni nuova roadmap AI dovrebbe includere la sicurezza dal primo giorno e testare su hardware fisico adesso. Hai già provato a far funzionare un modello AI sul tuo computer, non su internet?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Nove pilot su dieci...",
+          "voiceover": "Nove pilot su dieci non arrivano in produzione.",
+          "on_screen_text": "Nove pilot su dieci...",
+          "visual_direction": "Testo in movimento dall'alto verso il basso.",
+          "caption": "La realtà dei progetti AI",
+          "tone": "urgent",
+          "emphasis_word": "dieci",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Il problema è...",
+          "voiceover": "Il problema è che funzionano solo in cloud.",
+          "on_screen_text": "Funzionano solo in cloud.",
+          "visual_direction": "Testo che appare con effetto di scrittura.",
+          "caption": "Sfida dell'AI",
+          "tone": "informative",
+          "emphasis_word": "cloud",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Serve edge computing...",
+          "voiceover": "Nel mondo reale serve edge computing subito.",
+          "on_screen_text": "Serve edge computing subito.",
+          "visual_direction": "Testo che si espande e contrai.",
+          "caption": "Necessità immediata",
+          "tone": "urgent",
+          "emphasis_word": "subito",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "La sicurezza va messa...",
+          "voiceover": "E la sicurezza va messa dal primo giorno.",
+          "on_screen_text": "Sicurezza dal primo giorno.",
+          "visual_direction": "Testo con sfondo animato di lucchetti.",
+          "caption": "Priorità fondamentale",
+          "tone": "informative",
+          "emphasis_word": "sicurezza",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Testa un prototipo...",
+          "voiceover": "Testa un prototipo questo trimestre o resti indietro.",
+          "on_screen_text": "Testa un prototipo ora!",
+          "visual_direction": "Testo che lampeggia per enfatizzare l'urgenza.",
+          "caption": "Non rimanere indietro",
+          "tone": "urgent",
+          "emphasis_word": "ora",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Inizia oggi il tuo viaggio AI!"
     }
   },
   "instagram_caption": "Il 90% dei progetti di AI per la sicurezza non supera la fase di test. Non perché la tecnologia non funzioni, ma perché vengono costruiti nel cloud e poi falliscono nel mondo reale. La \"Physical AI\" (robot, droni, sensori) ha bisogno di computer vicini al posto dell'azione, non di server lontani. Se usi un tool AI a lavoro che impiega secondi a rispondere, il problema è lì. Ogni nuova roadmap AI dovrebbe includere la sicurezza dal primo giorno e testare su hardware fisico adesso. Hai già provato a far funzionare un modello AI sul tuo computer, non su internet?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/day-two.png",
   "savedAt": "2026-05-20T07:36:43.411Z",
-  "sourceId": "6ad4b0a087dd85fdb4e16514dcfc6d88"
+  "sourceId": "6ad4b0a087dd85fdb4e16514dcfc6d88",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

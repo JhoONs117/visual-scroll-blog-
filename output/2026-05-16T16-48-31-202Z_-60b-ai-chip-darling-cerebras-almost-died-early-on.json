@@ -51,11 +51,72 @@
       "caption": "Cerebras bruciava 8 milioni di dollari al mese, con pochi mesi di liquidità rimasta prima del fallimento 💸. Il problema? Cercava di vendere chip come Nvidia, competendo sul loro stesso terreno — una partita persa in partenza 🎲. La svolta è arrivata quando hanno smesso di vendere hardware e hanno iniziato a vendere accesso al cloud AI, cambiando il modello di business 🤯. Per te significa che il costo reale dei chip AI si nasconde nei bilanci, non nelle specifiche tecniche. Quanto può durare una startup che scommette tutto sull'hardware? 🔥"
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Cerebras, l'adorata AI chip da 60 miliardi.",
+          "voiceover": "Avevano pochi mesi di soldi e bruciavano 8 milioni al mese.",
+          "on_screen_text": "Bruciavano 8 milioni al mese.",
+          "visual_direction": "Testo che si dissolve e si ingrandisce.",
+          "caption": "Crisis Mode",
+          "tone": "urgent",
+          "emphasis_word": "8 milioni",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Una sfida enorme.",
+          "voiceover": "Era una startup contro il gigante Nvidia.",
+          "on_screen_text": "Startup contro Nvidia.",
+          "visual_direction": "Testo che appare come un colpo di fulmine.",
+          "caption": "Dare to Compete",
+          "tone": "inspiring",
+          "emphasis_word": "Nvidia",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Un cambiamento radicale.",
+          "voiceover": "Hanno cambiato tutto con una svolta sorprendente.",
+          "on_screen_text": "Cambiamento radicale.",
+          "visual_direction": "Testo che si trasforma in un nuovo design.",
+          "caption": "Revolutionary Shift",
+          "tone": "inspiring",
+          "emphasis_word": "svolta",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Una nuova strategia.",
+          "voiceover": "Non vendevano chip, vendevano accesso.",
+          "on_screen_text": "Vendevano accesso.",
+          "visual_direction": "Testo che si espande su un grafico crescente.",
+          "caption": "Access Over Ownership",
+          "tone": "informative",
+          "emphasis_word": "accesso",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 4,
+          "hook": "Il futuro è qui.",
+          "voiceover": "Cerebras ha cambiato il gioco dell'AI.",
+          "on_screen_text": "Cerebras ha cambiato il gioco.",
+          "visual_direction": "Testo che esplode e si disperde.",
+          "caption": "Join the Revolution",
+          "tone": "inspiring",
+          "emphasis_word": "cambiato",
+          "layout": "single"
+        }
+      ],
+      "duration_sec": 25,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Scopri di più sulla rivoluzione AI!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "Cerebras bruciava 8 milioni di dollari al mese, con pochi mesi di liquidità rimasta prima del fallimento 💸. Il problema? Cercava di vendere chip come Nvidia, competendo sul loro stesso terreno — una partita persa in partenza 🎲. La svolta è arrivata quando hanno smesso di vendere hardware e hanno iniziato a vendere accesso al cloud AI, cambiando il modello di business 🤯. Per te significa che il costo reale dei chip AI si nasconde nei bilanci, non nelle specifiche tecniche. Quanto può durare una startup che scommette tutto sull'hardware? 🔥",
@@ -108,8 +169,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
   "savedAt": "2026-05-16T16:49:05.058Z",
   "sourceId": "e0a063b7a71f0b536bcb1b75b4bb2d80",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "kinetic_typography",
   "render_status": {
     "low": null,
     "medium": null,

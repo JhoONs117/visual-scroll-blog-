@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Brucia grassi in metà tempo!",
+          "voiceover": "Scopri come l'HIIT può trasformare il tuo allenamento.",
+          "on_screen_text": "HIIT: brucia grassi velocemente!",
+          "visual_direction": "Inquadra un atleta che corre energicamente.",
+          "caption": "Scopri l'HIIT!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Risultati rapidi, sforzo minimo!",
+          "voiceover": "Con HIIT ottieni massimo risultato con minimo investimento.",
+          "on_screen_text": "Massimo risultato, minimo investimento.",
+          "visual_direction": "Mostra grafica con confronto di tempo e risultati.",
+          "caption": "Investi poco, ottieni tanto!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Scopri come funziona!",
+          "voiceover": "Alterna 20 secondi di sprint con 10 secondi di recupero.",
+          "on_screen_text": "20 secondi sprint, 10 di recupero.",
+          "visual_direction": "Dimostrazione di un atleta che alterna sprint e pausa.",
+          "caption": "Prova anche tu!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Non fermarti mai!",
+          "voiceover": "Durante gli sprint, non rallentare mai per ottenere risultati.",
+          "on_screen_text": "Non rallentare mai durante gli sprint!",
+          "visual_direction": "Inquadrature ravvicinate di un atleta concentrato.",
+          "caption": "Mantieni il ritmo!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Pronto per la sfida?",
+          "voiceover": "Oggi prova 4 minuti di HIIT e senti la differenza.",
+          "on_screen_text": "Oggi: prova 4 minuti di HIIT.",
+          "visual_direction": "Mostra un cronometro che conta i 4 minuti.",
+          "caption": "Inizia ora!"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia il tuo allenamento HIIT!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cd5a668e7.jpeg",
   "savedAt": "2026-05-15T17:38:47.516Z",
   "sourceId": "0fa3026757a29751affa1a52c68e9904",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

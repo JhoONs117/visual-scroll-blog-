@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Un’azienda ha perso 20 milioni di euro in una videochiamata con un CEO falso, generato dall’AI 🎭. Nel frattempo, un ragazzo di 17 anni che ha costruito un Iron Dome fai-da-te con algoritmi di visione artificiale ha appena raccolto 28 milioni di dollari per fermare attacchi come i deepfake bancari e il phishing via Zoom 📞💻. La difesa tradizionale (filtri email e regole statiche) non serve più, perché i criminali non ti chiedono nemmeno di cliccare un link. Il tuo IT team oggi può fermare un attacco solo se riconosce che il “CEO” in chiamata non è chi dice di essere. Hai mai verificato l’identità del tuo capo prima di approvare un bonifico? 🤔🛡️"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Hai perso venti milioni?",
+          "voiceover": "Hai perso venti milioni in una videochiamata.",
+          "on_screen_text": "Hai perso 20 milioni!",
+          "visual_direction": "Testo grande e audace, animato da sinistra a destra.",
+          "caption": "Un colpo devastante.",
+          "tone": "urgent",
+          "emphasis_word": "milioni",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Solo con una voce clonata.",
+          "voiceover": "Sì, solo con una voce clonata.",
+          "on_screen_text": "Voce clonata!",
+          "visual_direction": "Testo che appare con un effetto glitch.",
+          "caption": "La nuova frontiera del phishing.",
+          "tone": "urgent",
+          "emphasis_word": "clonata",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Nessuno ha cliccato niente.",
+          "voiceover": "Nessuno ha cliccato niente.",
+          "on_screen_text": "Nessuno ha cliccato!",
+          "visual_direction": "Testo che si dissolve e riappare.",
+          "caption": "La trappola si chiude.",
+          "tone": "urgent",
+          "emphasis_word": "cliccato",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Un ragazzo ha creato un Iron Dome.",
+          "voiceover": "Un ragazzo ha creato un Iron Dome.",
+          "on_screen_text": "Iron Dome!",
+          "visual_direction": "Testo che esplode in animazione.",
+          "caption": "Difendi la tua azienda.",
+          "tone": "inspiring",
+          "emphasis_word": "Iron Dome",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Ora chiediti.",
+          "voiceover": "Ora chiediti: chi difende la tua azienda?",
+          "on_screen_text": "Chi difende la tua azienda?",
+          "visual_direction": "Testo che si ingrandisce lentamente.",
+          "caption": "Pensa al futuro.",
+          "tone": "informative",
+          "emphasis_word": "difende",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Proteggi la tua azienda ora!"
     }
   },
   "instagram_caption": "Un’azienda ha perso 20 milioni di euro in una videochiamata con un CEO falso, generato dall’AI 🎭. Nel frattempo, un ragazzo di 17 anni che ha costruito un Iron Dome fai-da-te con algoritmi di visione artificiale ha appena raccolto 28 milioni di dollari per fermare attacchi come i deepfake bancari e il phishing via Zoom 📞💻. La difesa tradizionale (filtri email e regole statiche) non serve più, perché i criminali non ti chiedono nemmeno di cliccare un link. Il tuo IT team oggi può fermare un attacco solo se riconosce che il “CEO” in chiamata non è chi dice di essere. Hai mai verificato l’identità del tuo capo prima di approvare un bonifico? 🤔🛡️",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Copy-of-IMG_8655.jpg?resize=1200,800",
   "savedAt": "2026-05-19T21:12:50.559Z",
-  "sourceId": "f54e9de1e4157ae5bffe5640465a6cd6"
+  "sourceId": "f54e9de1e4157ae5bffe5640465a6cd6",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

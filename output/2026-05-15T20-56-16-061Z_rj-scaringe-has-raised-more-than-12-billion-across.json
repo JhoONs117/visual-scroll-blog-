@@ -51,11 +51,72 @@
       "caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, ma l'ultima brucia cassa più del previsto. 💸 I soci, nonostante le perdite, pretendono altro denaro. Perché? Perché la fiducia nel fondatore non basta: servono ritorni. 🚩 Se lavori in una scale-up o investi in early stage, questo caso ti dice che visione e carisma non pagano il prossimo round. La valutazione del prossimo giro dimezzerà o salterà. Aggiorni la tua watchlist? 👀"
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "RJ Scaringe ha raccolto 12 miliardi.",
+          "voiceover": "RJ Scaringe ha raccolto più di 12 miliardi.",
+          "on_screen_text": "12 MILIARDI RACCOLTI",
+          "visual_direction": "Testo grande e bold al centro dello schermo.",
+          "caption": "Un incredibile traguardo.",
+          "tone": "informative",
+          "emphasis_word": "MILIONI",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Poi il disastro.",
+          "voiceover": "Ma poi è arrivato il disastro.",
+          "on_screen_text": "POI IL DISASTRO",
+          "visual_direction": "Effetto di frattura sul testo.",
+          "caption": "Cosa è successo?",
+          "tone": "urgent",
+          "emphasis_word": "DISASTRO",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Ha bruciato tutto.",
+          "voiceover": "Scaringe ha bruciato tutto più velocemente.",
+          "on_screen_text": "HA BRUCIATO TUTTO",
+          "visual_direction": "Fiamme animate sullo sfondo.",
+          "caption": "Investitori in allerta.",
+          "tone": "urgent",
+          "emphasis_word": "BRUCIATO",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Investitori vogliono risposte.",
+          "voiceover": "Chi ha investito pretende risposte ora.",
+          "on_screen_text": "RISPOSTE ORA",
+          "visual_direction": "Testo lampeggiante per attirare attenzione.",
+          "caption": "Tensione crescente.",
+          "tone": "urgent",
+          "emphasis_word": "RISPOSTE",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Il prossimo round è cruciale.",
+          "voiceover": "Il prossimo round di finanziamento dirà tutto.",
+          "on_screen_text": "IL PROSSIMO ROUND",
+          "visual_direction": "Testo in movimento verso l'alto.",
+          "caption": "Il futuro è incerto.",
+          "tone": "informative",
+          "emphasis_word": "CRUCIALE",
+          "layout": "single"
+        }
+      ],
+      "duration_sec": 25,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Resta aggiornato sulle novità!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, ma l'ultima brucia cassa più del previsto. 💸 I soci, nonostante le perdite, pretendono altro denaro. Perché? Perché la fiducia nel fondatore non basta: servono ritorni. 🚩 Se lavori in una scale-up o investi in early stage, questo caso ti dice che visione e carisma non pagano il prossimo round. La valutazione del prossimo giro dimezzerà o salterà. Aggiorni la tua watchlist? 👀",
@@ -108,8 +169,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2025/12/rj-scaringe.jpeg?resize=1200,900",
   "savedAt": "2026-05-15T20:56:28.784Z",
   "sourceId": "db4a531cb91ee4f28dfdaa09296c7f4f",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "kinetic_typography",
   "render_status": {
     "low": null,
     "medium": null,

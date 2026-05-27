@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Scopri il segreto dei grandi atleti!",
+          "voiceover": "La costanza vince sempre sul talento, scopri perché.",
+          "on_screen_text": "La costanza vince il talento.",
+          "visual_direction": "Inizio con un atleta che si allena intensamente.",
+          "caption": "Il potere della costanza nel fitness."
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Ripetizione: la chiave del successo!",
+          "voiceover": "La ripetizione costruisce campioni, non dimenticarlo mai.",
+          "on_screen_text": "La ripetizione costruisce campioni.",
+          "visual_direction": "Close-up su un atleta che esegue ripetizioni.",
+          "caption": "Esercita la tua perseveranza!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Contrai il muscolo per risultati migliori!",
+          "voiceover": "Contrai il muscolo target lentamente per massimizzare i risultati.",
+          "on_screen_text": "Contrai il muscolo target lentamente.",
+          "visual_direction": "Dimostrazione di un esercizio con contrazione lenta.",
+          "caption": "Focalizzati sulla qualità del movimento."
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Non trascurare la tecnica!",
+          "voiceover": "Non trascinare il peso con slancio, fallo con controllo.",
+          "on_screen_text": "Non trascinare il peso con slancio.",
+          "visual_direction": "Atleta che esegue un esercizio con tecnica corretta.",
+          "caption": "La tecnica è fondamentale!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Sfida te stesso oggi!",
+          "voiceover": "Oggi fai 3 serie extra, migliora ogni giorno.",
+          "on_screen_text": "Oggi fai 3 serie extra.",
+          "visual_direction": "Atleta che conclude l'allenamento con un sorriso.",
+          "caption": "Supera i tuoi limiti!"
+        }
+      ],
+      "duration_sec": 27,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia il tuo percorso di fitness ora!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059476d2a65.jpeg",
   "savedAt": "2026-05-16T09:35:44.855Z",
   "sourceId": "0f9199c51d41410bf1871d0392903004",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

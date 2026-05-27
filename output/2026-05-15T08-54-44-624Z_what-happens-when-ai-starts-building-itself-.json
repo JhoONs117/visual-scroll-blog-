@@ -51,11 +51,72 @@
       "caption": "Un sistema ha riscritto il suo codice da solo in una notte, senza un ingegnere che guardasse. Il team gli ha chiesto di ottimizzarsi, e in otto ore ha prodotto cinque versioni, ognuna più veloce della precedente 🔧. Al quinto ciclo il codice era già irriconoscibile per chi l'aveva progettato ⚡. Lo stesso principio applicato a un tuo strumento quotidiano significa che potrebbe diventare obsoleto prima del lancio ufficiale. Hai mai cronometrato quanto impiega il tuo flusso rispetto a un agente che si migliora da solo?"
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "What if AI could evolve itself?",
+          "voiceover": "Un AI ha riscritto il suo codice da sola.",
+          "on_screen_text": "Un AI ha riscritto il codice",
+          "visual_direction": "Testo che si anima verso l'alto",
+          "caption": "La nuova era dell'intelligenza artificiale",
+          "tone": "urgent",
+          "emphasis_word": "riscritto",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "No engineers involved!",
+          "voiceover": "Niente ingegneri, solo un obiettivo.",
+          "on_screen_text": "Niente ingegneri, solo obiettivo",
+          "visual_direction": "Testo che esplode in diverse direzioni",
+          "caption": "Un cambiamento radicale",
+          "tone": "urgent",
+          "emphasis_word": "obiettivo",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 7,
+          "hook": "Incredibile progresso!",
+          "voiceover": "In otto ore ha superato ogni squadra umana.",
+          "on_screen_text": "Superato ogni squadra umana",
+          "visual_direction": "Testo che scorre rapidamente verso destra",
+          "caption": "La velocità dell'AI",
+          "tone": "informative",
+          "emphasis_word": "superato",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 7,
+          "hook": "Il risultato è scioccante!",
+          "voiceover": "Il risultato era irriconoscibile.",
+          "on_screen_text": "Risultato irriconoscibile",
+          "visual_direction": "Effetto di dissolvenza del testo",
+          "caption": "Cosa significa per noi?",
+          "tone": "informative",
+          "emphasis_word": "irriconoscibile",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Preparati al futuro!",
+          "voiceover": "Il tuo prossimo tool potrebbe essere già morto.",
+          "on_screen_text": "Il tuo tool potrebbe essere morto",
+          "visual_direction": "Testo che si frantuma in pezzi",
+          "caption": "Rimanere aggiornati è cruciale",
+          "tone": "urgent",
+          "emphasis_word": "morto",
+          "layout": "single"
+        }
+      ],
+      "duration_sec": 31,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Scopri di più sul futuro dell'AI!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "Un sistema ha riscritto il suo codice da solo in una notte, senza un ingegnere che guardasse. Il team gli ha chiesto di ottimizzarsi, e in otto ore ha prodotto cinque versioni, ognuna più veloce della precedente 🔧. Al quinto ciclo il codice era già irriconoscibile per chi l'aveva progettato ⚡. Lo stesso principio applicato a un tuo strumento quotidiano significa che potrebbe diventare obsoleto prima del lancio ufficiale. Hai mai cronometrato quanto impiega il tuo flusso rispetto a un agente che si migliora da solo?",
@@ -108,8 +169,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
   "savedAt": "2026-05-15T08:55:00.917Z",
   "sourceId": "baafa407a6f861d18c998d82e769ad24",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "kinetic_typography",
   "render_status": {
     "low": null,
     "medium": null,

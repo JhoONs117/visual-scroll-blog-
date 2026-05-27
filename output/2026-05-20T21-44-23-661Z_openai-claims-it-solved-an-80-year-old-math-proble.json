@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Un teorema matematico rimasto irrisolto per 80 anni è stato dimostrato da un’intelligenza artificiale. Il problema fa parte della teoria dei gruppi, lo studio delle simmetrie che sta dietro a come proteggiamo i dati online 🧮. OpenAI ha pubblicato la prova su arXiv, aperta a chiunque voglia controllarla passo dopo passo 🔍. Se la dimostrazione regge, potremmo avere algoritmi di crittografia più veloci, senza indebolire la sicurezza dei tuoi messaggi o delle transazioni bancarie 🔐. Hai già dato un’occhiata al paper per verificare se i conti tornano?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Un teorema irrisolto per 80 anni?",
+          "voiceover": "Nessuno era riuscito a dimostrare questo teorema.",
+          "on_screen_text": "80 ANNI SENZA RISPOSTA",
+          "visual_direction": "testo che appare con un effetto di scrittura",
+          "caption": "Un mistero matematico",
+          "tone": "urgent",
+          "emphasis_word": "80 ANNI",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "E ora, l'inaspettato!",
+          "voiceover": "L'ha fatto un'AI. Si chiama OpenAI.",
+          "on_screen_text": "L'AI HA RISOLTO IL PROBLEMA",
+          "visual_direction": "animazione di un cervello digitale che illumina",
+          "caption": "Il futuro della matematica",
+          "tone": "inspiring",
+          "emphasis_word": "AI",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Un passo avanti nella scienza!",
+          "voiceover": "È un problema di simmetria e teoria dei gruppi.",
+          "on_screen_text": "SIMMETRIA E TEORIA DEI GRUPPI",
+          "visual_direction": "grafica di forme simmetriche che si muovono",
+          "caption": "Scoperte sorprendenti",
+          "tone": "informative",
+          "emphasis_word": "SIMMETRIA",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Cosa significa per noi?",
+          "voiceover": "Se è vero, la crittografia può accelerare.",
+          "on_screen_text": "CRITTIGRAFIA VELOCE",
+          "visual_direction": "testo che si muove veloce sullo schermo",
+          "caption": "Implicazioni enormi",
+          "tone": "urgent",
+          "emphasis_word": "VELOCE",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 4,
+          "hook": "Scopri di più!",
+          "voiceover": "Il paper è su arXiv. Vai a controllare.",
+          "on_screen_text": "CONTROLLO SU arXiv",
+          "visual_direction": "animazione di un link che si evidenzia",
+          "caption": "Non perdere l'occasione!",
+          "tone": "informative",
+          "emphasis_word": "arXiv",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 25,
+      "cta": "Leggi il paper su arXiv ora!"
     }
   },
   "instagram_caption": "Un teorema matematico rimasto irrisolto per 80 anni è stato dimostrato da un’intelligenza artificiale. Il problema fa parte della teoria dei gruppi, lo studio delle simmetrie che sta dietro a come proteggiamo i dati online 🧮. OpenAI ha pubblicato la prova su arXiv, aperta a chiunque voglia controllarla passo dopo passo 🔍. Se la dimostrazione regge, potremmo avere algoritmi di crittografia più veloci, senza indebolire la sicurezza dei tuoi messaggi o delle transazioni bancarie 🔐. Hai già dato un’occhiata al paper per verificare se i conti tornano?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Erdos-problems.png?resize=1200,863",
   "savedAt": "2026-05-20T21:44:34.680Z",
-  "sourceId": "5e513af90e20f1c75ab5ea91673dec3c"
+  "sourceId": "5e513af90e20f1c75ab5ea91673dec3c",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Scopri il segreto di Sabrina Ferilli!",
+          "voiceover": "Sabrina Ferilli ci svela il suo segreto di benessere.",
+          "on_screen_text": "Il segreto è l'equilibrio!",
+          "visual_direction": "Inquadratura di Sabrina che sorride in palestra.",
+          "caption": "Equilibrio è la chiave!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "L'amore per sé prima di tutto!",
+          "voiceover": "Amare se stessi è fondamentale prima di ogni cosa.",
+          "on_screen_text": "Amati prima del peso!",
+          "visual_direction": "Clip di Sabrina che si guarda allo specchio.",
+          "caption": "Amore per sé!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Cammina ogni giorno con gioia!",
+          "voiceover": "La gioia di muoversi è fondamentale per Sabrina.",
+          "on_screen_text": "Camminare è il primo passo.",
+          "visual_direction": "Riprese di Sabrina che passeggia in un parco.",
+          "caption": "Camminare è libertà!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Mai saltare i pasti!",
+          "voiceover": "Sabrina non crede nei sacrifici alimentari.",
+          "on_screen_text": "Non saltare i pasti!",
+          "visual_direction": "Sabrina prepara un pasto sano in cucina.",
+          "caption": "Nutrimento è energia!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Muoviti oggi per la tua gioia!",
+          "voiceover": "Muoversi è un regalo che fai a te stesso.",
+          "on_screen_text": "Muoviti per la tua gioia!",
+          "visual_direction": "Sabrina che fa yoga al tramonto.",
+          "caption": "Muoviti e sorridi!"
+        }
+      ],
+      "duration_sec": 27,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia il tuo viaggio verso il benessere!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205953b8e21d.jpeg",
   "savedAt": "2026-05-15T17:39:22.658Z",
   "sourceId": "bc85d1e797fe5bcdf5e0fb79e58de603",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Kin Health ha chiuso un round da 9 milioni di dollari per un'AI che scrive appunti al posto del paziente. 📝 L'ascolta durante la visita e trasforma il dialogo in note cliniche chiare, così quando esci dallo studio non devi più fidarti della memoria. 👂 Il medico resta l'unico a fare diagnosi: la macchina ascolta, non decide. Per te significa riguardare la conversazione quando vuoi, senza scarabocchi frettolosi sul telefono. 🩺 Costa meno di un abbonamento Spotify. Hai mai confrontato cosa ricordi di una visita con e senza AI? 🤔"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Il medico decide ancora tutto.",
+          "voiceover": "Fino ad oggi, il medico decide tutto per te.",
+          "on_screen_text": "Il medico decide ancora tutto.",
+          "visual_direction": "Testo grande che appare al centro, sfondo sfocato di uno studio medico.",
+          "caption": "Il potere del medico",
+          "tone": "urgent",
+          "emphasis_word": "medico",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Ma l’AI scrive le note per te.",
+          "voiceover": "Ma ora c'è un'AI che scrive le note per te.",
+          "on_screen_text": "L’AI scrive per te.",
+          "visual_direction": "Animazione del testo che si scrive da solo su uno sfondo bianco.",
+          "caption": "Innovazione nella salute",
+          "tone": "informative",
+          "emphasis_word": "AI",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Kin Health ha raccolto 9 milioni.",
+          "voiceover": "Kin Health ha appena raccolto 9 milioni di dollari.",
+          "on_screen_text": "Kin Health: 9 milioni raccolti.",
+          "visual_direction": "Grafica di un grafico in crescita con il testo che appare sopra.",
+          "caption": "Investimenti in tecnologia",
+          "tone": "inspiring",
+          "emphasis_word": "9 milioni",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Rivedi il colloquio quando vuoi.",
+          "voiceover": "Puoi rivedere il colloquio quando vuoi, con un semplice clic.",
+          "on_screen_text": "Rivedi il colloquio quando vuoi.",
+          "visual_direction": "Transizione veloce con immagini di persone che usano il telefono.",
+          "caption": "Accesso immediato",
+          "tone": "urgent",
+          "emphasis_word": "quando vuoi",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Provalo: confronta cosa ricordi senza.",
+          "voiceover": "Prova l'AI e confronta i tuoi ricordi.",
+          "on_screen_text": "Provalo ora!",
+          "visual_direction": "Chiusura energica con il testo che esplode sullo schermo.",
+          "caption": "Inizia oggi",
+          "tone": "inspiring",
+          "emphasis_word": "Provalo",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 30,
+      "cta": "Scopri di più su Kin Health!"
     }
   },
   "instagram_caption": "Kin Health ha chiuso un round da 9 milioni di dollari per un'AI che scrive appunti al posto del paziente. 📝 L'ascolta durante la visita e trasforma il dialogo in note cliniche chiare, così quando esci dallo studio non devi più fidarti della memoria. 👂 Il medico resta l'unico a fare diagnosi: la macchina ascolta, non decide. Per te significa riguardare la conversazione quando vuoi, senza scarabocchi frettolosi sul telefono. 🩺 Costa meno di un abbonamento Spotify. Hai mai confrontato cosa ricordi di una visita con e senza AI? 🤔",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Kin-Health-feat.jpg?resize=1200,675",
   "savedAt": "2026-05-18T17:53:38.872Z",
-  "sourceId": "c646b29b9090161756b074d28ebd0151"
+  "sourceId": "c646b29b9090161756b074d28ebd0151",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

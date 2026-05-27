@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "I dati perfetti addestrano robot che si rompono nella vita reale. Karya paga lavoratori indiani per raccogliere errori umani mai registrati prima. L’idea: insegnare ai robot a gestire il caos dei negozi, della strada, della consegna mentre pagano salari dignitosi. Risultato? 🎯 Il tuo prossimo pacco suona al citofono dopo essere stato testato in un villaggio rurale, non in laboratorio. Vuoi un dataset addestrato su caos vero e non su pose da Instagram? 🤖📦💸 Costa meno di Netflix."
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "This startup is changing the game!",
+          "voiceover": "I robot imparano dai nostri errori.",
+          "on_screen_text": "I robot imparano dai nostri errori.",
+          "visual_direction": "Testo in movimento da sinistra a destra.",
+          "caption": "Scopri come.",
+          "tone": "informative",
+          "emphasis_word": "robot",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Ecco un cambiamento positivo.",
+          "voiceover": "Karya paga salari giusti in India.",
+          "on_screen_text": "Salari giusti in India.",
+          "visual_direction": "Zoom sul testo con un effetto di luce.",
+          "caption": "Un futuro migliore.",
+          "tone": "inspiring",
+          "emphasis_word": "giusti",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Dati sporchi? Non più!",
+          "voiceover": "Dati sporchi, robot più intelligenti.",
+          "on_screen_text": "Dati sporchi, robot intelligenti.",
+          "visual_direction": "Testo che si frantuma e si ricompone.",
+          "caption": "Innovazione continua.",
+          "tone": "urgent",
+          "emphasis_word": "intelligenti",
+          "layout": "split"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Inizia la rivoluzione.",
+          "voiceover": "Testano consegne in villaggi rurali.",
+          "on_screen_text": "Consegne nei villaggi.",
+          "visual_direction": "Testo che esplode da un punto centrale.",
+          "caption": "Raggiungere tutti.",
+          "tone": "inspiring",
+          "emphasis_word": "villaggi",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Unisciti al cambiamento.",
+          "voiceover": "Prova a costruire un dataset ora.",
+          "on_screen_text": "Costruisci un dataset.",
+          "visual_direction": "Testo che si costruisce pezzo per pezzo.",
+          "caption": "Fai la differenza.",
+          "tone": "urgent",
+          "emphasis_word": "dataset",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Scopri di più sulla rivoluzione."
     }
   },
   "instagram_caption": "I dati perfetti addestrano robot che si rompono nella vita reale. Karya paga lavoratori indiani per raccogliere errori umani mai registrati prima. L’idea: insegnare ai robot a gestire il caos dei negozi, della strada, della consegna mentre pagano salari dignitosi. Risultato? 🎯 Il tuo prossimo pacco suona al citofono dopo essere stato testato in un villaggio rurale, non in laboratorio. Vuoi un dataset addestrato su caos vero e non su pose da Instagram? 🤖📦💸 Costa meno di Netflix.",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Main-YC-Headshot-all-4-of-us.jpg?resize=1200,800",
   "savedAt": "2026-05-26T18:18:47.060Z",
-  "sourceId": "96f157c6ce9a525a7bc473174a3db57b"
+  "sourceId": "96f157c6ce9a525a7bc473174a3db57b",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

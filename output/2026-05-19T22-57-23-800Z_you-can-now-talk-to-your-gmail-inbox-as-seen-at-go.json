@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Da Google IO 2026 arriva una novità: parli a Gmail e lui esegue. 🎤 Hai mai chiesto alla tua posta di rispondere da sola? L'AI legge il contesto della tua richiesta, non solo le parole chiave – così trovi un file di tre mesi fa senza toccare la cronologia. 🧠 In pratica: premi il microfono, dici \"manda l'ultima fattura\", e parte. 📄 Niente più ricerca a mano tra 500 email. Quanto tempo risparmieresti se la tua casella ascoltasse ogni giorno? ⏳"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Parla con Gmail!",
+          "voiceover": "Ora puoi interagire con il tuo Gmail.",
+          "on_screen_text": "Parla con Gmail!",
+          "visual_direction": "Animazione di testo in entrata da sinistra.",
+          "caption": "Scopri la novità!",
+          "tone": "urgent",
+          "emphasis_word": "Gmail",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "L'AI è qui!",
+          "voiceover": "L'AI ora capisce il contesto.",
+          "on_screen_text": "L'AI capisce il contesto.",
+          "visual_direction": "Testo che si ingrandisce.",
+          "caption": "Non solo parole.",
+          "tone": "informative",
+          "emphasis_word": "contesto",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Trova facilmente!",
+          "voiceover": "Trova file vecchi senza cercare.",
+          "on_screen_text": "Trova file vecchi!",
+          "visual_direction": "Testo che appare come un documento.",
+          "caption": "Nessuno stress.",
+          "tone": "informative",
+          "emphasis_word": "facilmente",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Gmail autonomo!",
+          "voiceover": "Gmail risponde da solo.",
+          "on_screen_text": "Gmail risponde da solo.",
+          "visual_direction": "Testo che si dissolve e riappare.",
+          "caption": "No più attese.",
+          "tone": "urgent",
+          "emphasis_word": "risponde",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Provalo ora!",
+          "voiceover": "Prova: dettalo subito.",
+          "on_screen_text": "Dettalo subito!",
+          "visual_direction": "Testo che si muove in cerchio.",
+          "caption": "Non perdere tempo.",
+          "tone": "urgent",
+          "emphasis_word": "subito",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 26,
+      "cta": "Inizia a parlare con Gmail oggi!"
     }
   },
   "instagram_caption": "Da Google IO 2026 arriva una novità: parli a Gmail e lui esegue. 🎤 Hai mai chiesto alla tua posta di rispondere da sola? L'AI legge il contesto della tua richiesta, non solo le parole chiave – così trovi un file di tre mesi fa senza toccare la cronologia. 🧠 In pratica: premi il microfono, dici \"manda l'ultima fattura\", e parte. 📄 Niente più ricerca a mano tra 500 email. Quanto tempo risparmieresti se la tua casella ascoltasse ogni giorno? ⏳",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
   "savedAt": "2026-05-19T22:57:35.905Z",
-  "sourceId": "df9d01ab5f19feb6891bab5ca0be29e8"
+  "sourceId": "df9d01ab5f19feb6891bab5ca0be29e8",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

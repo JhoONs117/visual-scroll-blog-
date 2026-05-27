@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri cosa succede al tuo corpo!",
+          "voiceover": "Non fare stretching può avere effetti sorprendenti sul tuo corpo.",
+          "on_screen_text": "Cosa succede al tuo corpo?",
+          "visual_direction": "Inquadra un atleta che si allena intensamente.",
+          "caption": "L'importanza dello stretching!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Lo stretching ti ringiovanisce ogni giorno.",
+          "voiceover": "Fare stretching regolarmente mantiene i muscoli giovani e attivi.",
+          "on_screen_text": "Ringiovanisci i tuoi muscoli!",
+          "visual_direction": "Mostra una sequenza di stretching con focus sui muscoli.",
+          "caption": "Ringiovanisci ogni giorno!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Previeni infortuni e migliora la flessibilità.",
+          "voiceover": "Lo stretching riduce il rischio di infortuni e aumenta la flessibilità.",
+          "on_screen_text": "Prevenzione e flessibilità!",
+          "visual_direction": "Mostra un atleta che si ferma per fare stretching prima di un allenamento.",
+          "caption": "Stretching = sicurezza!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 8,
+          "hook": "Non rimbalzare durante l'allungamento!",
+          "voiceover": "Ricorda, non rimbalzare, allunga lentamente per risultati migliori.",
+          "on_screen_text": "Allunga, non rimbalza!",
+          "visual_direction": "Esegui un allungamento statico corretto in slow motion.",
+          "caption": "Tecnica corretta!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Stretching 10 minuti dopo ogni allenamento!",
+          "voiceover": "Dedica 10 minuti allo stretching post-allenamento per recupero ottimale.",
+          "on_screen_text": "10 minuti di stretching!",
+          "visual_direction": "Mostra un atleta che si allunga dopo un workout.",
+          "caption": "Ricarica i tuoi muscoli!"
+        }
+      ],
+      "duration_sec": 30,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia a fare stretching oggi!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cc919c701.jpeg",
   "savedAt": "2026-05-15T17:39:05.445Z",
   "sourceId": "3735cc25c36f44e59b84a722ad195269",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Jeff Bezos mostra i muscoli!",
+          "voiceover": "Scopri come l'uomo più ricco si allena.",
+          "on_screen_text": "Bezos lo fa, tu puoi.",
+          "visual_direction": "Inquadratura di Bezos che si allena intensamente.",
+          "caption": "Inizia il tuo percorso verso la forza!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "La forza inizia con un corpo sano!",
+          "voiceover": "Il successo parte da una buona forma fisica.",
+          "on_screen_text": "Successo parte dal corpo sano.",
+          "visual_direction": "Immagini di Bezos che corre e si allena.",
+          "caption": "Sii il tuo migliore alleato!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Solleva pesi correttamente!",
+          "voiceover": "Ricorda di mantenere la schiena dritta.",
+          "on_screen_text": "Solleva pesi con schiena dritta.",
+          "visual_direction": "Dimostrazione di una corretta postura durante il sollevamento.",
+          "caption": "La tecnica è tutto!"
+        },
+        {
+          "scene": 7,
+          "duration_sec": 6,
+          "hook": "Niente slancio nei tuoi sollevamenti!",
+          "voiceover": "Controlla ogni movimento per risultati migliori.",
+          "on_screen_text": "Non usare slancio per sollevare.",
+          "visual_direction": "Close-up su un sollevamento controllato.",
+          "caption": "Sii preciso e costante!"
+        },
+        {
+          "scene": 7,
+          "duration_sec": 5,
+          "hook": "Allenati solo 20 minuti al giorno!",
+          "voiceover": "Dedica ogni giorno 20 minuti ai pesi.",
+          "on_screen_text": "Oggi 20 minuti di pesi.",
+          "visual_direction": "Timer che conta giù mentre si sollevano pesi.",
+          "caption": "Inizia oggi il tuo allenamento!"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia il tuo allenamento adesso!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c806ac0e9.png",
   "savedAt": "2026-05-15T22:58:25.062Z",
   "sourceId": "202eb40b574be22b4917bc21399f9e99",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

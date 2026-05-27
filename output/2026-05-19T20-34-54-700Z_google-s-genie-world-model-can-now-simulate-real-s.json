@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Google ha preso milioni di foto da Street View e ha insegnato a un modello, chiamato Genie, a camminare dentro strade che non esistono 🚶‍♂️. Non usa mappe né GPS: guarda le immagini fisse e ricostruisce al volo curve, incroci e palazzi da ogni angolazione. Per te significa che la tua app di navigazione potrebbe presto funzionare senza una mappa precaricata 🗺️, basta descrivere il percorso a voce. Hai mai provato a far generare una via di casa tua senza disegnarla?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Immagina di camminare in una strada che non esiste.",
+          "voiceover": "Immagina di camminare in una strada che non esiste.",
+          "on_screen_text": "Una strada che non esiste.",
+          "visual_direction": "Testo che appare e svanisce con un'animazione fluida.",
+          "caption": "Scopri il futuro della navigazione!",
+          "tone": "inspiring",
+          "emphasis_word": "non esiste",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Google l'ha appena reso possibile.",
+          "voiceover": "Google l'ha appena reso possibile.",
+          "on_screen_text": "Google l'ha reso possibile.",
+          "visual_direction": "Transizione con effetti di zoom in su 'possibile'.",
+          "caption": "Nuove esperienze ti aspettano.",
+          "tone": "urgent",
+          "emphasis_word": "possibile",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 7,
+          "hook": "Genie impara da Street View.",
+          "voiceover": "Genie impara da Street View.",
+          "on_screen_text": "Genie impara da Street View.",
+          "visual_direction": "Testo che scorre orizzontalmente con immagini di Street View sullo sfondo.",
+          "caption": "Un'innovazione incredibile!",
+          "tone": "informative",
+          "emphasis_word": "",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 8,
+          "hook": "Non serve più una mappa fisica.",
+          "voiceover": "Non serve più una mappa fisica.",
+          "on_screen_text": "Dimentica la mappa fisica.",
+          "visual_direction": "Animazione di una mappa che si dissolve.",
+          "caption": "Il futuro è digitale.",
+          "tone": "urgent",
+          "emphasis_word": "Dimentica",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Provalo oggi stesso.",
+          "voiceover": "Provalo oggi stesso.",
+          "on_screen_text": "Provalo oggi stesso!",
+          "visual_direction": "Testo che lampeggia, con un pulsante animato 'Inizia'.",
+          "caption": "Esplora nuove strade.",
+          "tone": "inspiring",
+          "emphasis_word": "",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 30,
+      "cta": "Scopri di più su Google Genie!"
     }
   },
   "instagram_caption": "Google ha preso milioni di foto da Street View e ha insegnato a un modello, chiamato Genie, a camminare dentro strade che non esistono 🚶‍♂️. Non usa mappe né GPS: guarda le immagini fisse e ricostruisce al volo curve, incroci e palazzi da ogni angolazione. Per te significa che la tua app di navigazione potrebbe presto funzionare senza una mappa precaricata 🗺️, basta descrivere il percorso a voce. Hai mai provato a far generare una via di casa tua senza disegnarla?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Genie-Street-View-NYC.png?resize=1200,662",
   "savedAt": "2026-05-19T20:35:08.268Z",
-  "sourceId": "70e8d0fce37f17cf1a746465a50fa639"
+  "sourceId": "70e8d0fce37f17cf1a746465a50fa639",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

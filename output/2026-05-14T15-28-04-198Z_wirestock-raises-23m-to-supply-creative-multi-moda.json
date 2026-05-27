@@ -51,11 +51,72 @@
       "caption": "Una startup ha appena raccolto 23 milioni di dollari 🤑 vendendo immagini e audio grezzi per addestrare l'intelligenza artificiale. Non il modello finale, ma la materia prima con cui quei modelli imparano: un segnale che i dataset sono ormai la risorsa più scarsa. Se lavori con l'AI, il tuo limite reale non è l'algoritmo, ma la qualità dei dati che usi per farlo funzionare 💡. Il primo controllo da fare oggi è da dove arrivano le tue fonti?"
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "I dati valgono più dei modelli.",
+          "voiceover": "I dati valgono più dei modelli.",
+          "on_screen_text": "I DATI VALGONO",
+          "visual_direction": "Animazione di testo che esplode sullo schermo.",
+          "caption": "Riflessione sull'importanza dei dati.",
+          "tone": "urgent",
+          "emphasis_word": "DATI",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Wirestock ha raccolto 23 milioni di dollari.",
+          "voiceover": "Wirestock ha raccolto 23 milioni di dollari.",
+          "on_screen_text": "$23 MILIONI RACCOLTI",
+          "visual_direction": "Testo che scorre verso l'alto con grafica monetaria.",
+          "caption": "Investimenti significativi nel futuro.",
+          "tone": "informative",
+          "emphasis_word": "MILIONI",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Non vendono AI, vendono dati visivi e audio.",
+          "voiceover": "Non vendono AI, vendono dati visivi e audio.",
+          "on_screen_text": "DATI VISIVI & AUDIO",
+          "visual_direction": "Illustrazione di elementi visivi e audio che si uniscono.",
+          "caption": "Focus su risorse creative.",
+          "tone": "informative",
+          "emphasis_word": "DATI",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 7,
+          "hook": "Il tuo limite oggi sei tu e i tuoi dati.",
+          "voiceover": "Il tuo limite oggi sei tu e i tuoi dati.",
+          "on_screen_text": "IL TUO LIMITE SEI TU",
+          "visual_direction": "Testo che si restringe mentre si ingrandisce.",
+          "caption": "Potenzia il tuo potenziale.",
+          "tone": "inspiring",
+          "emphasis_word": "LIMITE",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Controlla la qualità delle tue fonti.",
+          "voiceover": "Controlla la qualità delle tue fonti prima di tutto.",
+          "on_screen_text": "QUALITÀ DELLE FONTI",
+          "visual_direction": "Testo con un segno di spunta che appare.",
+          "caption": "Fai le scelte giuste.",
+          "tone": "urgent",
+          "emphasis_word": "QUALITÀ",
+          "layout": "single"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Scopri di più su Wirestock!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "Una startup ha appena raccolto 23 milioni di dollari 🤑 vendendo immagini e audio grezzi per addestrare l'intelligenza artificiale. Non il modello finale, ma la materia prima con cui quei modelli imparano: un segnale che i dataset sono ormai la risorsa più scarsa. Se lavori con l'AI, il tuo limite reale non è l'algoritmo, ma la qualità dei dati che usi per farlo funzionare 💡. Il primo controllo da fare oggi è da dove arrivano le tue fonti?",
@@ -108,8 +169,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Wirestock-team.jpg?resize=1200,675",
   "savedAt": "2026-05-14T15:28:24.091Z",
   "sourceId": "701532e0c3d27d3f3e45553cf5258b4c",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "kinetic_typography",
   "render_status": {
     "low": null,
     "medium": null,

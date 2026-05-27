@@ -39,11 +39,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Il risotto più cremoso che prova!",
+          "voiceover": "Scopri come preparare un risotto irresistibile con zucchine e salsiccia.",
+          "on_screen_text": "Risotto cremoso zucchine e salsiccia",
+          "visual_direction": "Inquadratura ravvicinata di un risotto cremoso che fuma.",
+          "caption": "Un piatto da leccarsi i baffi!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Ingredienti freschi e gustosi!",
+          "voiceover": "Ecco cosa ti serve: riso, zucchine, salsiccia, burro e parmigiano.",
+          "on_screen_text": "Riso, zucchine, salsiccia, burro, parmigiano",
+          "visual_direction": "Mostrare gli ingredienti disposti su un tavolo.",
+          "caption": "Preparati con ingredienti freschi!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Frulla e friggi le zucchine!",
+          "voiceover": "Frulla metà delle zucchine e friggi l'altra metà per un tocco croccante.",
+          "on_screen_text": "Frulla e friggi le zucchine",
+          "visual_direction": "Primi piani di zucchine frullate e zucchine che friggono.",
+          "caption": "Il segreto della cremosità!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Unisci sapori e cuoci il riso!",
+          "voiceover": "Unisci la crema di zucchine e la salsiccia, poi cuoci il riso.",
+          "on_screen_text": "Unisci crema e salsiccia",
+          "visual_direction": "Mostrare il processo di unione degli ingredienti in padella.",
+          "caption": "Un'esplosione di sapori!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Guarnisci e servi caldo!",
+          "voiceover": "Guarnisci il risotto con zucchine fritte e timo fresco per un tocco finale.",
+          "on_screen_text": "Guarnisci con zucchine fritte e timo",
+          "visual_direction": "Inquadratura finale del piatto guarnito e servito.",
+          "caption": "Pronto da gustare!"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Prova subito questa ricetta!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -115,8 +161,8 @@
   "image": "https://www.giallozafferano.it/images/361-36122/Risotto-zucchine-e-salsiccia_650x433_wm.jpg",
   "savedAt": "2026-05-15T09:55:40.208Z",
   "sourceId": "19cebe732fcd6729d540dbe576cb1875",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "slide_deck",
   "render_status": {
     "low": null,
     "medium": null,

@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "SpaceX ha appena piazzato il Wi-Fi satellitare di Starlink su American Airlines, 200 milioni di passeggeri l’anno ✈️. Non è solo un contratto: quei dati reali su latenza e copertura servono a convincere la FCC prima dell’IPO. Per te significa Internet veloce in volo, pagamento ancora incerto, ma almeno sai che ViaSat costa 25 dollari. Se Delta e United rifiuteranno entro 90 giorni, l’IPO vale molto meno — chi firmerà dopo American? 📡🛰️"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "SpaceX’s Starlink vince American Airlines!",
+          "voiceover": "Starlink ha ottenuto un importante contratto con American Airlines.",
+          "on_screen_text": "Starlink vince American Airlines!",
+          "visual_direction": "Animazione di un razzo che decolla.",
+          "caption": "Un traguardo significativo.",
+          "tone": "informative",
+          "emphasis_word": "vincente",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Ma la vera guerra è un'altra.",
+          "voiceover": "La vera sfida è convincere i regolatori per l'IPO.",
+          "on_screen_text": "La vera guerra è un'altra.",
+          "visual_direction": "Testo che esplode in una galassia.",
+          "caption": "Una sfida cruciale.",
+          "tone": "urgent",
+          "emphasis_word": "guerra",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Il contratto copre i voli interni.",
+          "voiceover": "Questo accordo riguarda i voli interni di American Airlines.",
+          "on_screen_text": "Voli interni coperti!",
+          "visual_direction": "Animazione di un aereo che vola sopra la mappa USA.",
+          "caption": "Un ampio raggio d'azione.",
+          "tone": "informative",
+          "emphasis_word": "coperti",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "E per i passeggeri?",
+          "voiceover": "I passeggeri si chiedono: il Wi-Fi sarà gratis?",
+          "on_screen_text": "Wi-Fi gratis o no?",
+          "visual_direction": "Testo che si divide tra 'gratis' e 'no'.",
+          "caption": "Un dubbio da risolvere.",
+          "tone": "urgent",
+          "emphasis_word": "gratis",
+          "layout": "split"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 4,
+          "hook": "Attenzione a Delta e United.",
+          "voiceover": "Queste compagnie rimangono fuori dal contratto.",
+          "on_screen_text": "Occhio a Delta e United!",
+          "visual_direction": "Animazione di loghi delle compagnie aeree che si allontanano.",
+          "caption": "Strategie in evoluzione.",
+          "tone": "urgent",
+          "emphasis_word": "",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 26,
+      "cta": "Scopri di più su Starlink!"
     }
   },
   "instagram_caption": "SpaceX ha appena piazzato il Wi-Fi satellitare di Starlink su American Airlines, 200 milioni di passeggeri l’anno ✈️. Non è solo un contratto: quei dati reali su latenza e copertura servono a convincere la FCC prima dell’IPO. Per te significa Internet veloce in volo, pagamento ancora incerto, ma almeno sai che ViaSat costa 25 dollari. Se Delta e United rifiuteranno entro 90 giorni, l’IPO vale molto meno — chi firmerà dopo American? 📡🛰️",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/american-airlines-airbus.jpg?resize=1200,800",
   "savedAt": "2026-05-26T23:02:57.742Z",
-  "sourceId": "0f9c22836c8e828338fdd3fe54621f1e"
+  "sourceId": "0f9c22836c8e828338fdd3fe54621f1e",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

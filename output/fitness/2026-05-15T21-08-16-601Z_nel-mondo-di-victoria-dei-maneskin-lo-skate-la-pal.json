@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Scopri il segreto di Victoria!",
+          "voiceover": "Vuoi allenarti come Victoria dei Maneskin? Ecco come!",
+          "on_screen_text": "Allenati come Victoria",
+          "visual_direction": "Inizio con un primo piano di Victoria mentre si allena.",
+          "caption": "Segui il suo stile!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 7,
+          "hook": "Skate e palestra? Sì, grazie!",
+          "voiceover": "Unisci equilibrio e forza con skate e palestra.",
+          "on_screen_text": "Skate e palestra uniscono forza",
+          "visual_direction": "Clip di Victoria che fa skate e transizione in palestra.",
+          "caption": "Equilibrio perfetto!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Posizione perfetta per gli squat!",
+          "voiceover": "Ricorda: pancia in dentro e spalle indietro.",
+          "on_screen_text": "Pancia in dentro, spalle indietro",
+          "visual_direction": "Dimostrazione corretta della postura negli squat.",
+          "caption": "Fai attenzione alla postura!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 7,
+          "hook": "Evita questo errore comune!",
+          "voiceover": "Non curvare mai la schiena mentre squat.",
+          "on_screen_text": "Non curvare la schiena nello squat",
+          "visual_direction": "Clip che mostra l'errore e la correzione.",
+          "caption": "Rimani dritto!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Pronto per la sfida?",
+          "voiceover": "Fai 3 serie da 10 squat oggi stesso!",
+          "on_screen_text": "Fai 3 serie da 10 squat",
+          "visual_direction": "Inquadratura finale di Victoria che incoraggia gli spettatori.",
+          "caption": "Inizia ora!"
+        }
+      ],
+      "duration_sec": 31,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Segui per più consigli fitness!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059507312a3.jpeg",
   "savedAt": "2026-05-15T21:08:46.657Z",
   "sourceId": "d0f326a25149d76953267cba59a96cd4",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

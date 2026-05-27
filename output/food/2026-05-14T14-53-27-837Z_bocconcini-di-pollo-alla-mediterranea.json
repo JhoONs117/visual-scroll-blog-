@@ -39,11 +39,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Scopri il segreto dei bocconcini di pollo!",
+          "voiceover": "Oggi prepariamo dei bocconcini di pollo alla mediterranea.",
+          "on_screen_text": "Bocconcini di pollo teneri e saporiti",
+          "visual_direction": "Inquadratura ravvicinata del pollo fresco, con musica allegra.",
+          "caption": "Pollo alla mediterranea, un must!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Ingredienti freschi per piatti deliziosi!",
+          "voiceover": "Ecco cosa ci serve: pollo, pomodorini, olive e capperi.",
+          "on_screen_text": "Pollo, pomodorini, olive, capperi, aglio",
+          "visual_direction": "Zoom sugli ingredienti disposti su un tavolo.",
+          "caption": "Ingredienti freschi!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 7,
+          "hook": "Rosoliamo il pollo per un sapore unico!",
+          "voiceover": "Iniziamo rosolando i bocconcini di pollo fino a dorarli.",
+          "on_screen_text": "Rosola i bocconcini di pollo dorati",
+          "visual_direction": "Ripresa della cottura in padella, fumi e colori vivaci.",
+          "caption": "Rosoliamo per il gusto!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 8,
+          "hook": "Aggiungiamo il tocco mediterraneo!",
+          "voiceover": "Ora aggiungiamo pomodorini, olive e capperi per il sapore.",
+          "on_screen_text": "Aggiungi pomodorini, olive e capperi",
+          "visual_direction": "Inquadratura dell'aggiunta degli ingredienti nella padella.",
+          "caption": "Un mix di sapori!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Servi caldo e gusta la freschezza!",
+          "voiceover": "Eliminiamo l'aglio e serviamo caldo per un piatto delizioso.",
+          "on_screen_text": "Elimina l'aglio e servi caldo",
+          "visual_direction": "Servire il piatto su un tavolo decorato.",
+          "caption": "Gusta la tua creazione!"
+        }
+      ],
+      "duration_sec": 32,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Prova questa ricetta oggi stesso!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -115,8 +161,8 @@
   "image": "https://www.giallozafferano.it/images/361-36168/Bocconcini-di-pollo-alla-mediterranea_650x433_wm.jpg",
   "savedAt": "2026-05-14T14:53:46.406Z",
   "sourceId": "77b971a7cb7a0c9a1a09085e1c1230b2",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "slide_deck",
   "render_status": {
     "low": null,
     "medium": null,

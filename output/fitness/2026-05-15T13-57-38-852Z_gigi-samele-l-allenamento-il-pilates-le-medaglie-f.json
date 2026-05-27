@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Scopri il segreto dei campioni!",
+          "voiceover": "La disciplina è la chiave per diventare un campione, sia nello sport che nella vita.",
+          "on_screen_text": "Segreto dei campioni",
+          "visual_direction": "Inizio con immagini di Gigi Samele che si allena.",
+          "caption": "La disciplina costruisce campioni"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Pilates: forza e flessibilità!",
+          "voiceover": "Il pilates non è solo esercizio, ma un'arte che costruisce forza e flessibilità.",
+          "on_screen_text": "Pilates per forza e flessibilità",
+          "visual_direction": "Clip di una lezione di pilates con focus sui movimenti.",
+          "caption": "Pilates: il segreto dei campioni"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Controlla il tuo respiro!",
+          "voiceover": "Il controllo del respiro è fondamentale durante ogni movimento per massimizzare i risultati.",
+          "on_screen_text": "Controllo del respiro",
+          "visual_direction": "Primi piani su respirazione e movimenti coordinati.",
+          "caption": "Respira per migliorare"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Rispetta la tua colonna vertebrale!",
+          "voiceover": "Non forzare mai la colonna vertebrale: è essenziale per prevenire infortuni.",
+          "on_screen_text": "Non forzare la colonna",
+          "visual_direction": "Dimostrazione di esercizi corretti per la schiena.",
+          "caption": "Sicurezza prima di tutto"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Inizia oggi stesso!",
+          "voiceover": "Segui una lezione di pilates e scopri i benefici per te.",
+          "on_screen_text": "Segui una lezione di pilates",
+          "visual_direction": "Immagini di persone che partecipano a una lezione.",
+          "caption": "Inizia il tuo viaggio di fitness"
+        }
+      ],
+      "duration_sec": 28,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Unisciti a noi per il pilates oggi!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a77059bc0d.jpeg",
   "savedAt": "2026-05-15T13:58:40.399Z",
   "sourceId": "493ccf9f88f371572fb10d976fd6d9b7",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

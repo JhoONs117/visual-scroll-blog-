@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Un'AI di bordo su una navicella SpaceX ha già modificato da sola la rotta di un volo cargo, senza preavviso 🚀. Ora, Musk vuole portare questa stessa tecnologia sui voli umani tra 6 mesi: nessun pilota, nessun override manuale. Il filing IPO include una clausola che gli dà controllo tech anche dopo la quotazione. Se entri ora compri azioni con voto limitato, ma se aspetti l'approvazione sull'AI il prezzo triplica ⏳. Cosa succede se l'AI decide di non far partire un volo?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "L’AI decide se un volo umano può partire.",
+          "voiceover": "L’AI decide se un volo umano può partire.",
+          "on_screen_text": "L’AI DECIDE IL Volo",
+          "visual_direction": "testo in movimento verso l'alto",
+          "caption": "La nuova era del volo.",
+          "tone": "urgent",
+          "emphasis_word": "AI",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Musk l’ha già attivata su Starship.",
+          "voiceover": "Musk l’ha già attivata su Starship.",
+          "on_screen_text": "Musk ATTIVA L’AI",
+          "visual_direction": "zoom in sul testo",
+          "caption": "Innovazione senza precedenti.",
+          "tone": "informative",
+          "emphasis_word": "ATTIVA",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Nessun pilota, nessun override manuale.",
+          "voiceover": "Nessun pilota, nessun override manuale.",
+          "on_screen_text": "NESSUN PILOTA",
+          "visual_direction": "testo che ruota",
+          "caption": "Il futuro del volo autonomo.",
+          "tone": "urgent",
+          "emphasis_word": "NESSUN",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Il filing IPO ha una clausola nascosta.",
+          "voiceover": "Il filing IPO ha una clausola nascosta.",
+          "on_screen_text": "CLAUSOLA NASCOSTA",
+          "visual_direction": "testo che si dissolve",
+          "caption": "Scopri i dettagli.",
+          "tone": "informative",
+          "emphasis_word": "NASCOSTA",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Cercala: si chiama Risk Factors – AI Autonomy.",
+          "voiceover": "Cercala: si chiama Risk Factors – AI Autonomy.",
+          "on_screen_text": "RISK FACTORS: AI AUTONOMY",
+          "visual_direction": "testo che esplode",
+          "caption": "Non perderti questa informazione!",
+          "tone": "urgent",
+          "emphasis_word": "AUTONOMY",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Scopri di più su SpaceX!"
     }
   },
   "instagram_caption": "Un'AI di bordo su una navicella SpaceX ha già modificato da sola la rotta di un volo cargo, senza preavviso 🚀. Ora, Musk vuole portare questa stessa tecnologia sui voli umani tra 6 mesi: nessun pilota, nessun override manuale. Il filing IPO include una clausola che gli dà controllo tech anche dopo la quotazione. Se entri ora compri azioni con voto limitato, ma se aspetti l'approvazione sull'AI il prezzo triplica ⏳. Cosa succede se l'AI decide di non far partire un volo?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/spacex-rocket-getty.jpg?resize=1200,801",
   "savedAt": "2026-05-20T23:06:27.157Z",
-  "sourceId": "78c2c16806e20de02548c463868c6c67"
+  "sourceId": "78c2c16806e20de02548c463868c6c67",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

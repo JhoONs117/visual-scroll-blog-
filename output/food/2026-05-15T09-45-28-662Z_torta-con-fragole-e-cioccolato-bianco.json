@@ -39,11 +39,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri la torta dei tuoi sogni!",
+          "voiceover": "Oggi prepariamo una deliziosa torta con fragole e cioccolato bianco.",
+          "on_screen_text": "Torta con fragole e cioccolato bianco!",
+          "visual_direction": "Inquadratura ravvicinata della torta decorata.",
+          "caption": "Ricetta irresistibile!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Ingredienti freschi e golosi!",
+          "voiceover": "Ecco cosa ci serve: fragole, cioccolato bianco, panna, uova e farina.",
+          "on_screen_text": "Fragole, cioccolato, panna, uova, farina",
+          "visual_direction": "Ripresa degli ingredienti disposti su un tavolo.",
+          "caption": "Preparati a deliziare il palato!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Monta gli albumi e i tuorli!",
+          "voiceover": "Inizia montando albumi e tuorli con zucchero e limone.",
+          "on_screen_text": "Monta albumi e tuorli con zucchero!",
+          "visual_direction": "Mostra la preparazione degli albumi e tuorli in una ciotola.",
+          "caption": "Tecnica fondamentale!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Cuoci e assembla la torta!",
+          "voiceover": "Cuoci la pasta biscotto, assembla con cremoso e fragole.",
+          "on_screen_text": "Cuoci e assembla con cremoso!",
+          "visual_direction": "Riprese del processo di cottura e assemblaggio.",
+          "caption": "Fase creativa!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Raffredda e guarnisci!",
+          "voiceover": "Raffredda per 4-5 ore e guarnisci con zucchero a velo.",
+          "on_screen_text": "Raffredda e guarnisci con zucchero!",
+          "visual_direction": "Mostra la torta finita con zucchero a velo.",
+          "caption": "Pronta da gustare!"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Prova anche tu questa ricetta!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -115,8 +161,8 @@
   "image": "https://www.giallozafferano.it/images/361-36144/Torta-con-fragole-e-cioccolato-bianco_650x433_wm.jpg",
   "savedAt": "2026-05-15T09:45:51.009Z",
   "sourceId": "303c3dd093e34eed4573db81cbeb792d",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "slide_deck",
   "render_status": {
     "low": null,
     "medium": null,

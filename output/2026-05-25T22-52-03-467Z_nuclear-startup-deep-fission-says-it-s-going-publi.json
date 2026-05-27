@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Una startup nucleare torna in Borsa con un brevetto per reattori sotterranei ma senza un solo cliente annunciato ⚛️. Il primo tentativo di quotazione è finito a secco, zero contratti firmati. Il prospetto che gli investitori devono firmare mostra ricavi, costi operativi e tempi di consegna ancora pari a zero 📉. Per chi valuta un ingresso: se nel documento non trovi una riga sui ricavi previsti, fermati 🔍. Tre giorni per leggere il prospetto: da quanti numeri concreti è composto?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Nuclear startup Deep Fission...",
+          "voiceover": "Nuclear startup Deep Fission says it’s going public, again.",
+          "on_screen_text": "Deep Fission VA IN BORSA",
+          "visual_direction": "Text animates in with a glitch effect.",
+          "caption": "Nuove opportunità o rischio?",
+          "tone": "urgent",
+          "emphasis_word": "Borsa",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Ecco i problemi...",
+          "voiceover": "Niente clienti, zero ricavi, solo un brevetto.",
+          "on_screen_text": "ZERO RICAVI, SOLO UN BREVETTO",
+          "visual_direction": "Words appear one by one.",
+          "caption": "Un futuro incerto.",
+          "tone": "informative",
+          "emphasis_word": "ZERO",
+          "layout": "split"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Ma non è finita qui...",
+          "voiceover": "La stessa azienda è già fallita in Borsa.",
+          "on_screen_text": "GIÀ FALLITA IN BORSA",
+          "visual_direction": "Text fades in and shakes slightly.",
+          "caption": "Cosa significa questo?",
+          "tone": "urgent",
+          "emphasis_word": "FALLITA",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 7,
+          "hook": "Attenzione agli investitori...",
+          "voiceover": "Il prospetto non mostra dati operativi.",
+          "on_screen_text": "NESSUN DATO OPERATIVO",
+          "visual_direction": "Text slides in from the right.",
+          "caption": "Investire con cautela.",
+          "tone": "urgent",
+          "emphasis_word": "NESSUN",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 7,
+          "hook": "Prima di firmare...",
+          "voiceover": "Leggi prima i rischi, non il nome.",
+          "on_screen_text": "LEGGI I RISCHI PRIMA",
+          "visual_direction": "Text spins in and out.",
+          "caption": "Sii un investitore consapevole.",
+          "tone": "informative",
+          "emphasis_word": "RISCHI",
+          "layout": "split"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 32,
+      "cta": "Fai le tue ricerche ora!"
     }
   },
   "instagram_caption": "Una startup nucleare torna in Borsa con un brevetto per reattori sotterranei ma senza un solo cliente annunciato ⚛️. Il primo tentativo di quotazione è finito a secco, zero contratti firmati. Il prospetto che gli investitori devono firmare mostra ricavi, costi operativi e tempi di consegna ancora pari a zero 📉. Per chi valuta un ingresso: se nel documento non trovi una riga sui ricavi previsti, fermati 🔍. Tre giorni per leggere il prospetto: da quanti numeri concreti è composto?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/image-2.jpg?resize=1200,847",
   "savedAt": "2026-05-25T22:52:25.891Z",
-  "sourceId": "85b6e7147c4984fa773c2affb71551b2"
+  "sourceId": "85b6e7147c4984fa773c2affb71551b2",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

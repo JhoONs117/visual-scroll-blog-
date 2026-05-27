@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Sofia Goggia: il suo ritorno è epico!",
+          "voiceover": "Dopo un infortunio, Sofia Goggia torna più forte che mai.",
+          "on_screen_text": "Ritorno più forte di prima!",
+          "visual_direction": "Inquadrare Sofia mentre sorride e si prepara.",
+          "caption": "Preparati a ispirarti!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 7,
+          "hook": "Cadere è umano, rialzarsi è leggenda.",
+          "voiceover": "Goggia ci insegna che la resilienza è fondamentale.",
+          "on_screen_text": "Cadere è umano, rialzarsi leggenda.",
+          "visual_direction": "Clip di Sofia che si rialza dopo una caduta.",
+          "caption": "Impara dalla sua forza!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Forza esplosiva: squat jump!",
+          "voiceover": "Ecco come eseguire correttamente uno squat jump.",
+          "on_screen_text": "Forza esplosiva: squat jump controllato.",
+          "visual_direction": "Dimostrazione di squat jump con focus sull'atterraggio.",
+          "caption": "Migliora la tua forza!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Attenzione ai rischi!",
+          "voiceover": "Saltare senza controllo può causare lesioni al ginocchio.",
+          "on_screen_text": "Rischio lesioni al ginocchio.",
+          "visual_direction": "Mostrare un salto mal eseguito e il rischio di caduta.",
+          "caption": "Sii sempre consapevole!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Esegui 10 squat jump lenti.",
+          "voiceover": "Oggi ti sfido a fare 10 squat jump precisi.",
+          "on_screen_text": "Oggi 10 squat jump lenti e precisi.",
+          "visual_direction": "Video di Sofia che guida gli esercizi.",
+          "caption": "Inizia il tuo allenamento!"
+        }
+      ],
+      "duration_sec": 30,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Segui per altri consigli fitness!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a768dc7f97.jpeg",
   "savedAt": "2026-05-15T10:31:04.476Z",
   "sourceId": "b9838e68a7837df458e28100dc59b8c5",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

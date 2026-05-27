@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Allenati come Mourinho per il tuo compleanno!",
+          "voiceover": "Scopri come allenarti con la disciplina dello Special One.",
+          "on_screen_text": "Allenati come uno Special One!",
+          "visual_direction": "Inquadratura dinamica di un allenamento intenso.",
+          "caption": "Workout ispirato a Mourinho"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Forza e resistenza: il segreto del successo.",
+          "voiceover": "Il workout di Mourinho combina forza e resistenza.",
+          "on_screen_text": "Forza e resistenza: il segreto!",
+          "visual_direction": "Clip di esercizi di forza e resistenza.",
+          "caption": "Esercizi per tutti i livelli"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Tecnica corretta per massimi risultati.",
+          "voiceover": "Piega le ginocchia, schiena dritta, spalle indietro.",
+          "on_screen_text": "Schiena dritta, spalle indietro!",
+          "visual_direction": "Dimostrazione della corretta postura durante gli esercizi.",
+          "caption": "Postura è tutto!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Attenzione: evita gli errori comuni.",
+          "voiceover": "Non curvare la schiena: perdi potenza e rischi infortuni.",
+          "on_screen_text": "Non curvare la schiena!",
+          "visual_direction": "Comparazione tra postura corretta e scorretta.",
+          "caption": "Evitare lesioni è fondamentale"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Pronto per la sfida? Fai 3 serie!",
+          "voiceover": "Oggi fai 3 serie da 12 squat a corpo libero.",
+          "on_screen_text": "3 serie da 12 squat!",
+          "visual_direction": "Inquadratura di qualcuno che esegue squat correttamente.",
+          "caption": "Inizia il tuo workout!"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia il tuo allenamento ora!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/04/23/6263b2a89f615.jpeg",
   "savedAt": "2026-05-16T06:29:36.977Z",
   "sourceId": "2dbb17395d70a01aaea60cd914551ef8",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

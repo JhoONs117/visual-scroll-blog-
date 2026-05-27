@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Rivali, amici e... fitness!",
+          "voiceover": "Morandi e Ranieri dimostrano che amicizia e competizione vanno di pari passo.",
+          "on_screen_text": "Amicizia e competizione!",
+          "visual_direction": "Immagini di Morandi e Ranieri che ridono e si allenano insieme.",
+          "caption": "Rivali nel fitness, amici nella vita!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Correre insieme è la chiave!",
+          "voiceover": "Correre con un amico aumenta il tuo impegno e la costanza.",
+          "on_screen_text": "Correre insieme aumenta l'impegno.",
+          "visual_direction": "Clip di Morandi e Ranieri che corrono fianco a fianco.",
+          "caption": "Il potere della compagnia!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Alterna corsa lenta e scatti!",
+          "voiceover": "Alternare corsa lenta e scatti brevi ottimizza le performance.",
+          "on_screen_text": "Corsa lenta + scatti brevi!",
+          "visual_direction": "Animazione che mostra il ritmo alternato di corsa.",
+          "caption": "Mix di intensità!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Non isolarti mai mentre ti alleni.",
+          "voiceover": "Allenarsi da soli può essere stancante e poco motivante.",
+          "on_screen_text": "Allenarsi insieme è più divertente!",
+          "visual_direction": "Immagini di persone che si allenano in gruppo.",
+          "caption": "Allena con un amico!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Chiama un amico per correre!",
+          "voiceover": "Oggi è il giorno giusto per correre con un amico.",
+          "on_screen_text": "Chiama un amico oggi!",
+          "visual_direction": "Clip di qualcuno che invia un messaggio a un amico.",
+          "caption": "Invita un amico a correre!"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia a correre con un amico ora!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cf01cc5ab.jpeg",
   "savedAt": "2026-05-15T19:31:53.236Z",
   "sourceId": "cfe0ded917bb22740369243025d0d8af",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

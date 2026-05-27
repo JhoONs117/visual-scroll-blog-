@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Una startup eSport ha chiuso un round da 20 milioni di dollari senza mostrare un solo demo di AI funzionante. I venture capitalist chiedevano modelli, loro hanno aperto il pitch deck con una domanda scomoda e hanno tirato fuori dati di psicologia dei giocatori 🧠. Nessuna dashboard tecnica, solo il problema umano irrisolto. Per te che prepari una presentazione: vendi la tensione che risolvi, non la soluzione 🤝. Il logo può aspettare la terza slide."
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "What if you could raise millions?",
+          "voiceover": "Imagine pitching without the latest tech.",
+          "on_screen_text": "Raise Millions?",
+          "visual_direction": "Dynamic text zooming in and out.",
+          "caption": "Start with a question!",
+          "tone": "urgent",
+          "emphasis_word": "Millions",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Investors wanted AI.",
+          "voiceover": "But the startup chose psychology instead.",
+          "on_screen_text": "Investors Wanted AI!",
+          "visual_direction": "Text flashing, emphasizing 'AI'.",
+          "caption": "Think outside the box!",
+          "tone": "informative",
+          "emphasis_word": "psychology",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "No product demo.",
+          "voiceover": "Only brain data was shown.",
+          "on_screen_text": "No Demo!",
+          "visual_direction": "Text sliding in from the sides.",
+          "caption": "Dare to be different!",
+          "tone": "inspiring",
+          "emphasis_word": "data",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 7,
+          "hook": "They raised $20 million!",
+          "voiceover": "The result was astonishing: 20 million dollars.",
+          "on_screen_text": "$20 Million Raised!",
+          "visual_direction": "Text exploding onto screen.",
+          "caption": "Success Story!",
+          "tone": "inspiring",
+          "emphasis_word": "20 million",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Hit the right nerve.",
+          "voiceover": "It worked because they struck a chord.",
+          "on_screen_text": "Strike a Chord!",
+          "visual_direction": "Text pulsating to simulate a heartbeat.",
+          "caption": "Find your angle!",
+          "tone": "urgent",
+          "emphasis_word": "chord",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Ready to pitch your idea?"
     }
   },
   "instagram_caption": "Una startup eSport ha chiuso un round da 20 milioni di dollari senza mostrare un solo demo di AI funzionante. I venture capitalist chiedevano modelli, loro hanno aperto il pitch deck con una domanda scomoda e hanno tirato fuori dati di psicologia dei giocatori 🧠. Nessuna dashboard tecnica, solo il problema umano irrisolto. Per te che prepari una presentazione: vendi la tensione che risolvi, non la soluzione 🤝. Il logo può aspettare la terza slide.",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Lucra-Sports-Dylan-Robbins.jpg?resize=1200,1082",
   "savedAt": "2026-05-25T19:16:51.039Z",
-  "sourceId": "cbd0cecd9533f47ca9dbdba713effc38"
+  "sourceId": "cbd0cecd9533f47ca9dbdba713effc38",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

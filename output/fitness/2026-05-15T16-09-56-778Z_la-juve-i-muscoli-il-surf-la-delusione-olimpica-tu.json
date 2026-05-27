@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "La resilienza nasce dalle cadute!",
+          "voiceover": "Scopri come le delusioni possono renderti più forte.",
+          "on_screen_text": "Cadere ti insegna a rialzarti!",
+          "visual_direction": "Clip di Mikaela che si allena e cade.",
+          "caption": "La forza è nella resilienza!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "La delusione costruisce la resilienza!",
+          "voiceover": "Ogni atleta affronta ostacoli, ma non si arrende.",
+          "on_screen_text": "La delusione costruisce la resilienza.",
+          "visual_direction": "Immagini motivazionali di atleti che si rialzano.",
+          "caption": "Impara dai tuoi fallimenti!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Proteggi la tua schiena!",
+          "voiceover": "Contrai il core durante ogni esercizio per sicurezza.",
+          "on_screen_text": "Contrai il core per la schiena.",
+          "visual_direction": "Dimostrazione di esercizi con focus sul core.",
+          "caption": "Sicurezza prima di tutto!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Respira correttamente mentre ti alleni!",
+          "voiceover": "Non trattenere il respiro, migliora le tue performance.",
+          "on_screen_text": "Non trattenere il respiro!",
+          "visual_direction": "Esercizi con focus sulla respirazione.",
+          "caption": "Respira per migliorare!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Fai il plank dinamico oggi!",
+          "voiceover": "Dedica solo 3 minuti a questo esercizio potente.",
+          "on_screen_text": "3 minuti di plank dinamico!",
+          "visual_direction": "Clip di una persona che esegue il plank.",
+          "caption": "Inizia ora il tuo allenamento!"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Segui per più consigli fitness!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/03/31/6245bf46a1f84.jpeg",
   "savedAt": "2026-05-15T16:10:37.998Z",
   "sourceId": "9a8b073062393853a6fbb62a63627009",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Rialzati più forte dopo ogni caduta!",
+          "voiceover": "La vita è fatta di cadute, ma ogni caduta è un'opportunità per rialzarsi.",
+          "on_screen_text": "Cadere per rialzarsi più forte.",
+          "visual_direction": "Inizio con un close-up di Valentino Rossi che si allena, poi transizione a clip di lui che cade in gara.",
+          "caption": "La resilienza è la chiave del successo."
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Usa la rabbia come carburante!",
+          "voiceover": "La rabbia può essere una potente motivazione per il cambiamento. Trasformala in forza.",
+          "on_screen_text": "La rabbia è benzina per il cambiamento.",
+          "visual_direction": "Clip di Rossi che si allena intensamente, alternando a immagini di momenti difficili.",
+          "caption": "Trasforma le emozioni in energia."
+        },
+        {
+          "scene": 3,
+          "duration_sec": 7,
+          "hook": "Scopri il potere della forza esplosiva!",
+          "voiceover": "Inizia il tuo allenamento con squat jump. Aggiungi peso leggero per migliorare.",
+          "on_screen_text": "Forza esplosiva: squat jump con peso leggero.",
+          "visual_direction": "Dimostrazione di squat jump con un trainer esperto, focus sulla tecnica.",
+          "caption": "Costruisci la tua forza esplosiva."
+        },
+        {
+          "scene": 4,
+          "duration_sec": 8,
+          "hook": "Allena la mente, non solo il corpo!",
+          "voiceover": "Allenarsi stanchi è diverso da farlo per frustrazione. Sfrutta le emozioni.",
+          "on_screen_text": "Allenarsi stanco da frustrazione.",
+          "visual_direction": "Clip di una sessione di allenamento intensa, concentrando sul viso di chi si allena.",
+          "caption": "Frustrazione porta a risultati."
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Pronto per la sfida finale?",
+          "voiceover": "Oggi, sfida te stesso con 5 serie da 8 squat jump. Iniziamo!",
+          "on_screen_text": "Oggi: 5 serie da 8 squat jump.",
+          "visual_direction": "Inquadratura su un cronometro che parte, con un gruppo che inizia a fare squat jump.",
+          "caption": "Accetta la sfida!"
+        }
+      ],
+      "duration_sec": 31,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia il tuo allenamento oggi stesso!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c0f4ede25.jpeg",
   "savedAt": "2026-05-16T02:20:35.620Z",
   "sourceId": "077647591f2847617d57be61ecfea4d3",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

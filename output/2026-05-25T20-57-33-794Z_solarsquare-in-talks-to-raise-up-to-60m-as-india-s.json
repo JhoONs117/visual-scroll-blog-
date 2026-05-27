@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "SolarSquare sta cercando di raccogliere 60 milioni di dollari, e l’India punta a 40GW di tetti solari entro il 2026 ☀️. I venture capitalist fiutano profitti già prima che i pannelli producano un watt? Significa che il rischio è prezzato, ma il vero guadagno arriva dopo l’installazione. Per te, investire nel solare potrebbe rendere il 15% annuo, ma attenzione: il rendimento dipende dalle tariffe locali e dal net metering, non dal costo dei pannelli ⚡️. Controlla le politiche della tua zona prima di firmare un contratto 📋. Sai già se la tua area supporta lo scambio netto?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Investimenti nel solare in India!",
+          "voiceover": "I venture capitalist vedono soldi prima dell'energia.",
+          "on_screen_text": "Investimenti nel solare",
+          "visual_direction": "Testo animato che entra da sinistra.",
+          "caption": "Scopri le opportunità.",
+          "tone": "urgent",
+          "emphasis_word": "solare",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Ma chi prende i 60 milioni?",
+          "voiceover": "SolarSquare voleva 60 milioni, ma chi li prende?",
+          "on_screen_text": "Chi prende i 60 milioni?",
+          "visual_direction": "Testo in movimento che si dissolve.",
+          "caption": "Chi vincerà?",
+          "tone": "informative",
+          "emphasis_word": "",
+          "layout": "split"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "L'India punta in alto!",
+          "voiceover": "L'India punta a 40 GW di tetto solare.",
+          "on_screen_text": "40 GW di tetto solare",
+          "visual_direction": "Testo che si espande verso l'esterno.",
+          "caption": "Ambizioso obiettivo!",
+          "tone": "inspiring",
+          "emphasis_word": "40 GW",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "15% annuo possibile!",
+          "voiceover": "Il 15% annuo è possibile, ma dipende da dove vivi.",
+          "on_screen_text": "15% annuo possibile!",
+          "visual_direction": "Testo che lampeggia.",
+          "caption": "Scopri di più.",
+          "tone": "urgent",
+          "emphasis_word": "15%",
+          "layout": "split"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Controlla le regole!",
+          "voiceover": "Prima di firmare, controlla le regole locali.",
+          "on_screen_text": "Controlla le regole locali!",
+          "visual_direction": "Testo che scorre verso l'alto.",
+          "caption": "Sii informato.",
+          "tone": "informative",
+          "emphasis_word": "regole",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Scopri di più sul solare!"
     }
   },
   "instagram_caption": "SolarSquare sta cercando di raccogliere 60 milioni di dollari, e l’India punta a 40GW di tetti solari entro il 2026 ☀️. I venture capitalist fiutano profitti già prima che i pannelli producano un watt? Significa che il rischio è prezzato, ma il vero guadagno arriva dopo l’installazione. Per te, investire nel solare potrebbe rendere il 15% annuo, ma attenzione: il rendimento dipende dalle tariffe locali e dal net metering, non dal costo dei pannelli ⚡️. Controlla le politiche della tua zona prima di firmare un contratto 📋. Sai già se la tua area supporta lo scambio netto?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/solarsquare-solar-panel.jpg?resize=1200,800",
   "savedAt": "2026-05-25T20:57:45.516Z",
-  "sourceId": "fc4bedbc0cf52dfb8ab12ea3a7f6908d"
+  "sourceId": "fc4bedbc0cf52dfb8ab12ea3a7f6908d",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

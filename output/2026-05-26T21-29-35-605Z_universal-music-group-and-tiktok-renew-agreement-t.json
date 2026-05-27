@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "TikTok ora deve rimuovere in poche ore qualsiasi canzone generata con intelligenza artificiale che imita un artista famoso, o rischia cause milionarie da Universal Music. 🤖 L'accordo appena rinnovato tra le due società colpisce direttamente i brani clone non autorizzati, ma l'algoritmo fa fatica a distinguere un remix creativo da un falso. ⚖️ Il rischio concreto per te: anche se non hai usato IA, un tuo upload potrebbe essere bloccato per errore dal sistema. 🚫 Prima di pubblicare, sei certo che quella traccia non sia stata generata senza permesso? 🎧"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "TikTok rimuove musica con IA rapidamente.",
+          "voiceover": "TikTok toglie canzoni con IA in poche ore.",
+          "on_screen_text": "TikTok rimuove canzoni in ore!",
+          "visual_direction": "Animazione di un timer che scorre.",
+          "caption": "Scopri di più!",
+          "tone": "urgent",
+          "emphasis_word": "ore",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Accordo strategico firmato.",
+          "voiceover": "Accordo appena firmato con Universal.",
+          "on_screen_text": "Accordo con Universal!",
+          "visual_direction": "Visualizzazione di una stretta di mano animata.",
+          "caption": "Unione contro l'IA.",
+          "tone": "informative",
+          "emphasis_word": "",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Non basta una canzone clone.",
+          "voiceover": "Non basta una canzone clone: tutto viene scansionato.",
+          "on_screen_text": "Scansione totale!",
+          "visual_direction": "Animazione di un'onda sonora che viene analizzata.",
+          "caption": "Controlla sempre.",
+          "tone": "urgent",
+          "emphasis_word": "scansionato",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Attenzione ai remix.",
+          "voiceover": "Anche un remix fatto bene può essere bloccato.",
+          "on_screen_text": "Remix a rischio!",
+          "visual_direction": "Animazione di un remix che viene oscurato.",
+          "caption": "Fai attenzione!",
+          "tone": "urgent",
+          "emphasis_word": "bloccato",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Controlla prima di postare.",
+          "voiceover": "Prima di postare, controlla. O meglio, non rischiare.",
+          "on_screen_text": "Controlla prima di postare!",
+          "visual_direction": "Animazione di un'icona di spunta.",
+          "caption": "Evita problemi.",
+          "tone": "informative",
+          "emphasis_word": "",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Non rischiare, informati ora!"
     }
   },
   "instagram_caption": "TikTok ora deve rimuovere in poche ore qualsiasi canzone generata con intelligenza artificiale che imita un artista famoso, o rischia cause milionarie da Universal Music. 🤖 L'accordo appena rinnovato tra le due società colpisce direttamente i brani clone non autorizzati, ma l'algoritmo fa fatica a distinguere un remix creativo da un falso. ⚖️ Il rischio concreto per te: anche se non hai usato IA, un tuo upload potrebbe essere bloccato per errore dal sistema. 🚫 Prima di pubblicare, sei certo che quella traccia non sia stata generata senza permesso? 🎧",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-header.jpg?resize=1200,800",
   "savedAt": "2026-05-26T21:30:00.369Z",
-  "sourceId": "f2c5d9ca1e265d0178d929a464db4dc7"
+  "sourceId": "f2c5d9ca1e265d0178d929a464db4dc7",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

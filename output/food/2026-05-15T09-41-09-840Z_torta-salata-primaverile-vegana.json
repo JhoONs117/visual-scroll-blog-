@@ -39,11 +39,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri la torta salata primaverile!",
+          "voiceover": "Questa torta salata vegana è un must per la primavera!",
+          "on_screen_text": "Torta salata vegana cremosa!",
+          "visual_direction": "Inquadratura ravvicinata della torta appena sfornata.",
+          "caption": "Una delizia primaverile!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Ingredienti freschi per un piatto unico.",
+          "voiceover": "Usiamo farina di ceci, asparagi e porri freschi.",
+          "on_screen_text": "Farina di ceci, asparagi, porri!",
+          "visual_direction": "Mostrare i vari ingredienti sul tavolo.",
+          "caption": "Ingredienti freschi!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 7,
+          "hook": "Prepariamo la pastella perfetta!",
+          "voiceover": "Mescoliamo farina di ceci con acqua per la pastella.",
+          "on_screen_text": "Prepara una pastella con farina di ceci.",
+          "visual_direction": "Filmare il processo di mescolamento in una ciotola.",
+          "caption": "Facile e veloce!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 8,
+          "hook": "Cuoci a perfezione per 70 minuti.",
+          "voiceover": "Metti in forno a 190° e attendi il risultato.",
+          "on_screen_text": "Cuoci in forno a 190° per 70 minuti.",
+          "visual_direction": "Inquadrare il forno e il timer.",
+          "caption": "Aspetta il profumo!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Decora e servi con stile!",
+          "voiceover": "Aggiungi asparagi e cipolla rossa per decorare.",
+          "on_screen_text": "Decora con asparagi e cipolla rossa.",
+          "visual_direction": "Mostrare la torta decorata pronta per essere servita.",
+          "caption": "Pronta da gustare!"
+        }
+      ],
+      "duration_sec": 32,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Prova a farla e condividi!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -115,8 +161,8 @@
   "image": "https://www.giallozafferano.it/images/361-36163/Torta-salata-primaverile-vegana_650x433_wm.jpg",
   "savedAt": "2026-05-15T09:41:11.311Z",
   "sourceId": "dfce00af8648940d9124d830837c8738",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "slide_deck",
   "render_status": {
     "low": null,
     "medium": null,

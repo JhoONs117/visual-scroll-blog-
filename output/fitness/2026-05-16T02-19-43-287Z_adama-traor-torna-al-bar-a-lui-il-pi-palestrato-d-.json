@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Il segreto della forza esplosiva!",
+          "voiceover": "Scopri come Adama Traorè conquista il campo.",
+          "on_screen_text": "Il segreto della forza esplosiva!",
+          "visual_direction": "Inizio con immagini di Adama in azione.",
+          "caption": "Adama Traorè: potenza e resistenza!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "La forza funzionale vince ogni sfida.",
+          "voiceover": "La forza funzionale è la chiave per il successo.",
+          "on_screen_text": "La forza funzionale vince ogni sfida.",
+          "visual_direction": "Clip di allenamenti intensi e dinamici.",
+          "caption": "Scopri i suoi segreti!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 7,
+          "hook": "Spinta esplosiva con bilanciere!",
+          "voiceover": "Ecco come Adama allena la sua potenza.",
+          "on_screen_text": "Spinta esplosiva con bilanciere.",
+          "visual_direction": "Dimostrazione dell'esercizio con bilanciere.",
+          "caption": "Potenza in azione!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Non fermarti a metà del movimento!",
+          "voiceover": "Completa sempre il movimento per risultati migliori.",
+          "on_screen_text": "Non fermarti a metà movimento.",
+          "visual_direction": "Clip che mostra l'importanza della forma corretta.",
+          "caption": "Fai la differenza!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Oggi, 3 serie da 8 ripetizioni!",
+          "voiceover": "Inizia il tuo allenamento come Adama!",
+          "on_screen_text": "Fai 3 serie da 8 ripetizioni.",
+          "visual_direction": "Call to action con un timer per l'allenamento.",
+          "caption": "Metti alla prova la tua forza!"
+        }
+      ],
+      "duration_sec": 30,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia il tuo allenamento oggi!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/620594a9bfde6.jpeg",
   "savedAt": "2026-05-16T02:20:17.327Z",
   "sourceId": "5702134ee15853a7838e7a6ae1a91836",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

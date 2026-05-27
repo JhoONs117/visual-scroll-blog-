@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Perplexity AI ha appena raccolto 250 milioni per sfidare Google. Non sono più test: startup come Perplexity e altre ti danno risposte dirette invece di link blu, e Google ha già dovuto aggiornare il suo algoritmo per tenere il passo. 🔍 Il punto è che oggi, quando cerchi un'informazione, devi scegliere tra un motore classico e uno conversazionale — non danno lo stesso risultato. 💡 Se usi internet per lavoro, la differenza si sente subito. Costano meno di uno streaming al mese: hai già provato? 🤖"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "AI search startups are booming!",
+          "voiceover": "Google ha risposto. Ecco cosa cambia.",
+          "on_screen_text": "Google ha risposto.",
+          "visual_direction": "Text animates in with a bounce effect.",
+          "caption": "Scopri le novità!",
+          "tone": "urgent",
+          "emphasis_word": "risposto",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Innovazione in arrivo!",
+          "voiceover": "Startup AI raccolgono milioni per sfidarlo.",
+          "on_screen_text": "Startup AI raccolgono milioni.",
+          "visual_direction": "Text slides in from the left.",
+          "caption": "Le nuove sfide!",
+          "tone": "informative",
+          "emphasis_word": "milioni",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Cosa cambia per te?",
+          "voiceover": "L'aggiornamento di Google è cruciale.",
+          "on_screen_text": "Aggiornamento di Google è cruciale.",
+          "visual_direction": "Text fades in with a pulse effect.",
+          "caption": "Rimani aggiornato!",
+          "tone": "urgent",
+          "emphasis_word": "cruciale",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Scegli con saggezza!",
+          "voiceover": "Oggi devi scegliere con cura.",
+          "on_screen_text": "Scegli con cura.",
+          "visual_direction": "Text zooms in quickly.",
+          "caption": "Fai la scelta giusta!",
+          "tone": "informative",
+          "emphasis_word": "cura",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Prova ora!",
+          "voiceover": "Provane una gratis e vedi.",
+          "on_screen_text": "Provane una gratis.",
+          "visual_direction": "Text swipes in from the bottom.",
+          "caption": "Inizia oggi!",
+          "tone": "inspiring",
+          "emphasis_word": "gratis",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 25,
+      "cta": "Scopri di più sul nostro sito!"
     }
   },
   "instagram_caption": "Perplexity AI ha appena raccolto 250 milioni per sfidare Google. Non sono più test: startup come Perplexity e altre ti danno risposte dirette invece di link blu, e Google ha già dovuto aggiornare il suo algoritmo per tenere il passo. 🔍 Il punto è che oggi, quando cerchi un'informazione, devi scegliere tra un motore classico e uno conversazionale — non danno lo stesso risultato. 💡 Se usi internet per lavoro, la differenza si sente subito. Costano meno di uno streaming al mese: hai già provato? 🤖",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-ai-sign-Getty.jpg?resize=1200,800",
   "savedAt": "2026-05-20T18:11:45.886Z",
-  "sourceId": "a8b9af8f050e441794ba0fe088e3bbdb"
+  "sourceId": "a8b9af8f050e441794ba0fe088e3bbdb",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

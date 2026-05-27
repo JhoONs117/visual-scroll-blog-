@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "youtube-will-now-automatically-label-ai-videos",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "YouTube will now automatically label AI videos",
+  "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+  "pubDate": "Wed, 27 May 2026 13:00:00 +0000",
+  "slides": [
+    "YouTube obbliga il bollino AI, ma chi controllerà?",
+    "I creator devono dichiarare i video generati dall'AI",
+    "Se non lo fanno, rischiano la rimozione del contenuto",
+    "Per te spettatore: sai subito cosa è reale o no",
+    "Ora tocca a te: guarda il bollino prima di fidarti"
+  ],
+  "thread_text": [
+    "YouTube introduce l'obbligo del bollino AI. Se un creator non dichiara i video generati artificialmente, rischia la rimozione del contenuto. La vera domanda: chi controllerà che lo facciano davvero?",
+    "Oggi chiunque può creare un video fotorealistico con un prompt. Un attore che dice cose false, un paesaggio che non esiste, una voce clonata. Per lo spettatore è invisibile.",
+    "YouTube ora chiede ai creator di dichiarare quando un video è generato dall'AI. Nessun algoritmo di controllo automatico. Solo una casella da spuntare. In pratica: sistema basato sull'onestà.",
+    "Se un creator non dichiara e viene scoperto (da segnalazioni o revisioni a campione), il video viene rimosso. Recidivi? Sospensione del canale. Ma il danno reputazionale arriva prima della rimozione.",
+    "Da oggi, prima di fidarti di un video, guarda il bollino. Se non c'è ma il contenuto sembra irreale, segnalalo. La trasparenza funziona solo se la usiamo tutti."
+  ],
+  "video_script": [
+    "YouTube ora obbliga il bollino AI.",
+    "Chi non dichiara rischia la rimozione.",
+    "Ma chi controllerà davvero?",
+    "Per te spettatore cambia tutto.",
+    "Guarda il bollino prima di fidarti."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "YouTube introduce l'obbligo del bollino AI. Se un creator non dichiara i video generati artificialmente, rischia la rimozione del contenuto. La vera domanda: chi controllerà che lo facciano davvero?",
+        "Oggi chiunque può creare un video fotorealistico con un prompt. Un attore che dice cose false, un paesaggio che non esiste, una voce clonata. Per lo spettatore è invisibile.",
+        "YouTube ora chiede ai creator di dichiarare quando un video è generato dall'AI. Nessun algoritmo di controllo automatico. Solo una casella da spuntare. In pratica: sistema basato sull'onestà.",
+        "Se un creator non dichiara e viene scoperto (da segnalazioni o revisioni a campione), il video viene rimosso. Recidivi? Sospensione del canale. Ma il danno reputazionale arriva prima della rimozione.",
+        "Da oggi, prima di fidarti di un video, guarda il bollino. Se non c'è ma il contenuto sembra irreale, segnalalo. La trasparenza funziona solo se la usiamo tutti."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "YouTube ora obbliga il bollino AI.",
+        "Chi non dichiara rischia la rimozione.",
+        "Ma chi controllerà davvero?",
+        "Per te spettatore cambia tutto.",
+        "Guarda il bollino prima di fidarti."
+      ]
+    },
+    "instagram": {
+      "caption": "Da ora su YouTube ogni video generato con AI deve avere un bollino, o il creator rischia la rimozione del contenuto. 📹 Il problema? Non c'è un controllo automatico: basta spuntare una casella. Un sistema basato sull'onestà, insomma. Se qualcuno non dichiara e viene beccato (da segnalazioni o revisioni a campione), il video salta. Per te, spettatore, cambia una cosa: prima di fidarti, controlla quel bollino. 🏷️ Funziona solo se lo usiamo tutti. Hai già visto un video che sembrava troppo vero per essere reale? 👀"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "YouTube sta cambiando le regole!",
+          "voiceover": "YouTube ora obbliga il bollino AI per i video.",
+          "on_screen_text": "Bollino AI OBBLIGATORIO!",
+          "visual_direction": "Testo grande che esplode al centro dello schermo.",
+          "caption": "Scopri cosa significa per te.",
+          "tone": "urgent",
+          "emphasis_word": "OBBLIGATORIO",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Attenzione ai creatori!",
+          "voiceover": "Chi non dichiara rischia la rimozione dal sito.",
+          "on_screen_text": "Rischio di RIMOZIONE!",
+          "visual_direction": "Testo che oscilla come un avviso.",
+          "caption": "Le conseguenze sono serie.",
+          "tone": "urgent",
+          "emphasis_word": "RIMOZIONE",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "La grande domanda!",
+          "voiceover": "Ma chi controllerà davvero i video AI?",
+          "on_screen_text": "CHI controllerà i video?",
+          "visual_direction": "Testo che si dissolve e riappare.",
+          "caption": "Riflessioni cruciali.",
+          "tone": "informative",
+          "emphasis_word": "CHI",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Importante per gli spettatori!",
+          "voiceover": "Per te spettatore cambia tutto il gioco.",
+          "on_screen_text": "CAMBIA TUTTO per te!",
+          "visual_direction": "Testo che si ingrandisce e poi si riduce.",
+          "caption": "Sii sempre informato.",
+          "tone": "inspiring",
+          "emphasis_word": "CAMBIA",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Controlla sempre!",
+          "voiceover": "Guarda il bollino prima di fidarti del video.",
+          "on_screen_text": "GUARDA il bollino!",
+          "visual_direction": "Testo lampeggiante per attirare attenzione.",
+          "caption": "Fai attenzione alle fonti.",
+          "tone": "urgent",
+          "emphasis_word": "GUARDA",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Segui per ulteriori aggiornamenti!"
+    }
+  },
+  "instagram_caption": "Da ora su YouTube ogni video generato con AI deve avere un bollino, o il creator rischia la rimozione del contenuto. 📹 Il problema? Non c'è un controllo automatico: basta spuntare una casella. Un sistema basato sull'onestà, insomma. Se qualcuno non dichiara e viene beccato (da segnalazioni o revisioni a campione), il video salta. Per te, spettatore, cambia una cosa: prima di fidarti, controlla quel bollino. 🏷️ Funziona solo se lo usiamo tutti. Hai già visto un video che sembrava troppo vero per essere reale? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Chi controllerà il bollino AI?",
+      "description": "YouTube obbliga il bollino AI, ma nessun controllo automatico. Sistema basato sull'onestà dei creator.",
+      "visual_hint": "Icona interrogativo su schermo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "question mark screen"
+    },
+    {
+      "hook": "I creator devono dichiarare",
+      "description": "Oggi chiunque può creare video fotorealistici con un prompt. YouTube chiede di dichiarare, ma senza algoritmi di controllo.",
+      "visual_hint": "Casella da spuntare",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "check box form",
+      "image": "https://images.pexels.com/photos/8413176/pexels-photo-8413176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rischiano la rimozione",
+      "description": "Se non dichiari e vieni scoperto, video rimosso. Recidivi? Sospensione del canale. Il danno reputazionale arriva prima.",
+      "visual_hint": "Avviso rimozione o stop",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "warning sign technology",
+      "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sai subito cosa è reale",
+      "description": "Per te spettatore: guarda il bollino. Se non c'è ma sembra irreale, segnalalo. La trasparenza funziona solo insieme.",
+      "visual_hint": "Occhio che guarda schermo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person watching screen",
+      "image": "https://images.pexels.com/photos/19947408/pexels-photo-19947408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Guarda il bollino prima",
+      "description": "Da oggi, prima di fidarti di un video, controlla il bollino. Usalo per decidere cosa è reale o no.",
+      "visual_hint": "Dito che punta bollino",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "finger pointing tag",
+      "image": "https://images.pexels.com/photos/8834238/pexels-photo-8834238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800",
+  "savedAt": "2026-05-27T15:17:49.954Z",
+  "sourceId": "1b2eb7271a9303b87269270204e8482a",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
+}

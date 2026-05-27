@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "OpenAI ha fissato settembre per la quotazione in Borsa, ma la SEC indaga su cosa non stanno dicendo agli investitori 📊. Il modello di business resta segreto: chi compra le azioni ora non vede i conti, solo promesse. Se i numeri post-IPO non reggono, il prezzo crolla subito 💥. Per chi lavora o investe in AI, comprare oggi significa scommettere alla cieca su un motore che non hai mai visto funzionare. I primi dati veri arriveranno coi trimestrali dopo il debutto — aspetterai o entri lo stesso? 🔍"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "OpenAI si prepara a un grande passo!",
+          "voiceover": "OpenAI vuole fare l'IPO a settembre.",
+          "on_screen_text": "IPO a Settembre?",
+          "visual_direction": "Testo che appare con un effetto di zoom",
+          "caption": "Rimanete aggiornati!",
+          "tone": "urgent",
+          "emphasis_word": "IPO",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Cosa c'è dietro le quinte?",
+          "voiceover": "C'è un'indagine della SEC in corso.",
+          "on_screen_text": "Indagine SEC in Corso",
+          "visual_direction": "Testo che scorre da sinistra a destra",
+          "caption": "Quali saranno le conseguenze?",
+          "tone": "informative",
+          "emphasis_word": "SEC",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Un mistero avvolgente!",
+          "voiceover": "Il modello di business è ancora segreto.",
+          "on_screen_text": "Modello Segreto",
+          "visual_direction": "Testo che appare con un effetto di dissolvenza",
+          "caption": "Un'ombra di incertezza.",
+          "tone": "urgent",
+          "emphasis_word": "Segreto",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Come investire in modo sicuro?",
+          "voiceover": "Compri azioni senza vedere i conti.",
+          "on_screen_text": "Nessun Accesso ai Conti",
+          "visual_direction": "Testo che pulsa",
+          "caption": "Fai attenzione!",
+          "tone": "urgent",
+          "emphasis_word": "Nessun",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "La verità verrà a galla.",
+          "voiceover": "Il valore lo decideranno i fatti, non le promesse.",
+          "on_screen_text": "Fatti vs Promesse",
+          "visual_direction": "Testo che si frantuma",
+          "caption": "Sii saggio nei tuoi investimenti.",
+          "tone": "informative",
+          "emphasis_word": "Fatti",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Segui per aggiornamenti su OpenAI!"
     }
   },
   "instagram_caption": "OpenAI ha fissato settembre per la quotazione in Borsa, ma la SEC indaga su cosa non stanno dicendo agli investitori 📊. Il modello di business resta segreto: chi compra le azioni ora non vede i conti, solo promesse. Se i numeri post-IPO non reggono, il prezzo crolla subito 💥. Per chi lavora o investe in AI, comprare oggi significa scommettere alla cieca su un motore che non hai mai visto funzionare. I primi dati veri arriveranno coi trimestrali dopo il debutto — aspetterai o entri lo stesso? 🔍",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
   "savedAt": "2026-05-20T23:06:58.179Z",
-  "sourceId": "8ee8f9a64ecd6635c36597e1f18caad4"
+  "sourceId": "8ee8f9a64ecd6635c36597e1f18caad4",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

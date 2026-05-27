@@ -39,11 +39,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri la pasta frolla al caffè!",
+          "voiceover": "Preparati a deliziare il tuo palato con questa ricetta unica.",
+          "on_screen_text": "Pasta frolla al caffè",
+          "visual_direction": "Inquadratura ravvicinata di una torta di pasta frolla al caffè.",
+          "caption": "Un dessert irresistibile!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Ingredienti semplici e gustosi!",
+          "voiceover": "Ecco cosa ti serve: farina, burro, uova, zucchero a velo e caffè solubile.",
+          "on_screen_text": "Farina, burro, uova, zucchero, caffè",
+          "visual_direction": "Mostra gli ingredienti disposti su un tavolo.",
+          "caption": "Preparati a cucinare!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 7,
+          "hook": "Inizia a mescolare!",
+          "voiceover": "Lavora il burro con lo zucchero, poi aggiungi le uova e la farina.",
+          "on_screen_text": "Mescola burro e zucchero",
+          "visual_direction": "Ripresa del processo di mescolamento in una ciotola.",
+          "caption": "Facile e veloce!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 8,
+          "hook": "Riposa e stendi!",
+          "voiceover": "Fai riposare in frigo per 30 minuti, poi stendi la pasta.",
+          "on_screen_text": "Riposa in frigo 30 min",
+          "visual_direction": "Mostra la pasta in frigo e poi il processo di stesura.",
+          "caption": "Pronta per essere modellata!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Conserva o congela!",
+          "voiceover": "Puoi conservare in frigo per 3-4 giorni o congelare.",
+          "on_screen_text": "Conserva in frigo 3-4 giorni",
+          "visual_direction": "Visualizza il risultato finale e varie opzioni di conservazione.",
+          "caption": "Gusta la tua creazione!"
+        }
+      ],
+      "duration_sec": 32,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Prova la ricetta e condividi!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -115,8 +161,8 @@
   "image": "https://www.giallozafferano.it/images/361-36149/Pasta-frolla-al-caffe_650x433_wm.jpg",
   "savedAt": "2026-05-15T09:41:53.688Z",
   "sourceId": "733d811ba5b587d48d899e3ad2f62f75",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "slide_deck",
   "render_status": {
     "low": null,
     "medium": null,

@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Andrej Karpathy, co-fondatore di OpenAI, ha appena firmato per Anthropic. ⚔️ Lascia la sua vecchia squadra per unirsi al loro team pre-training, il reparto che letteralmente costruisce i modelli più potenti. Non è un cambio di scrivania: Anthropic vuole battere OpenAI partendo dal suo stesso punto di forza, l'addestramento. 🧠 Questo significa che nei prossimi 12 mesi il duello si gioca sulla qualità dei dati e sulla velocità di esecuzione. Per te, che usi strumenti basati su questi modelli, i vincitori di questa corsa decideranno costi e capacità disponibili entro il 2025. 📈 Chi scommetti che eseguirà meglio?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Un grande cambiamento sta avvenendo!",
+          "voiceover": "Karpathy ha lasciato OpenAI per Anthropic.",
+          "on_screen_text": "Karpathy lascia OpenAI",
+          "visual_direction": "Sfondo dinamico con effetti di movimento.",
+          "caption": "Una notizia che scuote il mondo AI.",
+          "tone": "urgent",
+          "emphasis_word": "lasciato",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Non è un semplice cambio di scrivania!",
+          "voiceover": "È entrato nel team che addestra i modelli.",
+          "on_screen_text": "Entrato nel team di addestramento",
+          "visual_direction": "Animazioni di modelli AI che si formano.",
+          "caption": "Un ruolo cruciale per il futuro.",
+          "tone": "informative",
+          "emphasis_word": "addestra",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Cosa significa per il settore?",
+          "voiceover": "Anthropic vuole batterli sul loro stesso terreno.",
+          "on_screen_text": "Battaglia sullo stesso terreno",
+          "visual_direction": "Immagini di due squadre in competizione.",
+          "caption": "Una sfida senza precedenti.",
+          "tone": "urgent",
+          "emphasis_word": "batterli",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "La guerra dell'AI è iniziata!",
+          "voiceover": "Questa guerra definisce chi sarà il nuovo re dell'AI.",
+          "on_screen_text": "Chi sarà il nuovo re dell'AI?",
+          "visual_direction": "Grafica che mostra un trono con loghi AI.",
+          "caption": "Il futuro è incerto.",
+          "tone": "inspiring",
+          "emphasis_word": "re",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Resta aggiornato!",
+          "voiceover": "Segui la battaglia per l'AI.",
+          "on_screen_text": "Segui la battaglia per l'AI",
+          "visual_direction": "Animazioni che collegano i social media.",
+          "caption": "Non perdere i prossimi aggiornamenti!",
+          "tone": "urgent",
+          "emphasis_word": "",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Scopri di più sulle novità AI!"
     }
   },
   "instagram_caption": "Andrej Karpathy, co-fondatore di OpenAI, ha appena firmato per Anthropic. ⚔️ Lascia la sua vecchia squadra per unirsi al loro team pre-training, il reparto che letteralmente costruisce i modelli più potenti. Non è un cambio di scrivania: Anthropic vuole battere OpenAI partendo dal suo stesso punto di forza, l'addestramento. 🧠 Questo significa che nei prossimi 12 mesi il duello si gioca sulla qualità dei dati e sulla velocità di esecuzione. Per te, che usi strumenti basati su questi modelli, i vincitori di questa corsa decideranno costi e capacità disponibili entro il 2025. 📈 Chi scommetti che eseguirà meglio?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1321808956.jpg?w=1024",
   "savedAt": "2026-05-19T21:13:03.485Z",
-  "sourceId": "a173121408daf48e0385e367e4f6e497"
+  "sourceId": "a173121408daf48e0385e367e4f6e497",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

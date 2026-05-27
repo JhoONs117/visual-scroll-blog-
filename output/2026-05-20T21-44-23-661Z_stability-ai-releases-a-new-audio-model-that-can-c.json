@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Stability AI ha rilasciato un modello che scrive canzoni di 6 minuti, complete di voce e strumenti, partendo da una semplice frase di testo. Basta un prompt e l'AI costruisce intro, strofa e ritornello. Il problema? I dati di addestramento includono musica protetta da copyright, usata senza permesso. 🎵 Per te, creatore o appassionato, significa che da oggi puoi generare brani interi in pochi secondi, mentre gli artisti devono decidere se adattarsi o chiedere un compenso. ⚖️ Sei tra chi lo proverà o tra chi aspetta regole più chiare?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Stability AI è qui!",
+          "voiceover": "Stability AI genera canzoni di 6 minuti.",
+          "on_screen_text": "Canzoni di 6 minuti!",
+          "visual_direction": "Animazione di note musicali che ballano.",
+          "caption": "Scopri la nuova tecnologia!",
+          "tone": "informative",
+          "emphasis_word": "canzoni",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Crea musica con un prompt!",
+          "voiceover": "Da un prompt crea voce e strumenti.",
+          "on_screen_text": "Voce e strumenti da un prompt!",
+          "visual_direction": "Animazione di un computer che genera musica.",
+          "caption": "Innovazione musicale!",
+          "tone": "inspiring",
+          "emphasis_word": "innovazione",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Ma c'è un problema.",
+          "voiceover": "Ha usato musica protetta senza permesso.",
+          "on_screen_text": "Musica protetta senza permesso!",
+          "visual_direction": "Schermo che mostra un segnale di divieto.",
+          "caption": "Attenzione!",
+          "tone": "urgent",
+          "emphasis_word": "protetta",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Artisti in crisi.",
+          "voiceover": "Artisti devono decidere: adattarsi o combattere.",
+          "on_screen_text": "Adattarsi o combattere?",
+          "visual_direction": "Due strade che si biforcano.",
+          "caption": "Scelte difficili!",
+          "tone": "urgent",
+          "emphasis_word": "combattere",
+          "layout": "split"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Provalo ora!",
+          "voiceover": "Provalo ora su stableaudio.com.",
+          "on_screen_text": "Visita stableaudio.com!",
+          "visual_direction": "Logo di stableaudio che appare.",
+          "caption": "Inizia a creare!",
+          "tone": "inspiring",
+          "emphasis_word": "creare",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Scopri di più su stableaudio.com"
     }
   },
   "instagram_caption": "Stability AI ha rilasciato un modello che scrive canzoni di 6 minuti, complete di voce e strumenti, partendo da una semplice frase di testo. Basta un prompt e l'AI costruisce intro, strofa e ritornello. Il problema? I dati di addestramento includono musica protetta da copyright, usata senza permesso. 🎵 Per te, creatore o appassionato, significa che da oggi puoi generare brani interi in pochi secondi, mentre gli artisti devono decidere se adattarsi o chiedere un compenso. ⚖️ Sei tra chi lo proverà o tra chi aspetta regole più chiare?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1480808838.jpg?resize=1200,800",
   "savedAt": "2026-05-20T21:45:13.314Z",
-  "sourceId": "17cdb3afa6c1cf9df8f8b8feb4e96b74"
+  "sourceId": "17cdb3afa6c1cf9df8f8b8feb4e96b74",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

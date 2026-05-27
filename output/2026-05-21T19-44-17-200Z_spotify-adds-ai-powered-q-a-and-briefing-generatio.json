@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Su Spotify ora puoi fare una domanda a un podcast e lui ti risponde.  \nL’AI ascolta ogni parola dell’episodio, trasforma ore di chiacchiere in dati e genera briefing su misura per te 🎧🤖. Niente più ricerca manuale nei minuti persi.  \nSe ascolti podcast per lavoro o studio, salti direttamente al punto che ti serve: un’ora e mezza diventa tre minuti di contenuti utili.  \nOggi prova a chiedere qualcosa a un episodio qualunque."
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Immagina di fare una domanda...",
+          "voiceover": "Immagina di fare una domanda a un podcast.",
+          "on_screen_text": "Fai una domanda al podcast",
+          "visual_direction": "Testo che appare lentamente, sfondo dinamico.",
+          "caption": "Un nuovo modo di interagire.",
+          "tone": "informative",
+          "emphasis_word": "domanda",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "E lui ti risponde subito.",
+          "voiceover": "E lui ti risponde subito.",
+          "on_screen_text": "Risposte immediate!",
+          "visual_direction": "Testo che si anima con effetti di velocità.",
+          "caption": "Risposte in tempo reale.",
+          "tone": "urgent",
+          "emphasis_word": "subito",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Spotify analizza ogni episodio.",
+          "voiceover": "Spotify analizza ogni singolo episodio.",
+          "on_screen_text": "Analisi approfondita!",
+          "visual_direction": "Grandi numeri e grafica che rappresentano analisi.",
+          "caption": "Innovazione nei podcast.",
+          "tone": "inspiring",
+          "emphasis_word": "analizza",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Le tue domande diventano riassunti.",
+          "voiceover": "Le tue domande diventano riassunti su misura.",
+          "on_screen_text": "Riassunti su misura!",
+          "visual_direction": "Testo che si trasforma in un riassunto visivo.",
+          "caption": "Personalizzazione totale.",
+          "tone": "informative",
+          "emphasis_word": "su misura",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Trovi il succo in pochi secondi.",
+          "voiceover": "Trovi il succo in pochi secondi.",
+          "on_screen_text": "Scopri il succo rapidamente!",
+          "visual_direction": "Testo che si dissolve in un punto luminoso.",
+          "caption": "Efficienza garantita.",
+          "tone": "urgent",
+          "emphasis_word": "succo",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Prova ora le nuove funzionalità!"
     }
   },
   "instagram_caption": "Su Spotify ora puoi fare una domanda a un podcast e lui ti risponde.  \nL’AI ascolta ogni parola dell’episodio, trasforma ore di chiacchiere in dati e genera briefing su misura per te 🎧🤖. Niente più ricerca manuale nei minuti persi.  \nSe ascolti podcast per lavoro o studio, salti direttamente al punto che ti serve: un’ora e mezza diventa tre minuti di contenuti utili.  \nOggi prova a chiedere qualcosa a un episodio qualunque.",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-5.45.05-PM.jpg?resize=1200,675",
   "savedAt": "2026-05-21T19:44:29.670Z",
-  "sourceId": "ecf87ae7aac72550a4739e5be98e0605"
+  "sourceId": "ecf87ae7aac72550a4739e5be98e0605",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

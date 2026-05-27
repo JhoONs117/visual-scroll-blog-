@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Il Papa firma un’enciclica sull’intelligenza artificiale ma, a testa alta, punta il dito contro chi usa la tecnologia per accumulare potere e decidere per tutti senza controllo. Non è un manuale di etica 🎯— è un atto politico e una denuncia spirituale del sistema di potere nascosto dietro le macchine ⚖️. Chi si ferma al dibattito sui robot perde il messaggio vero: il bersaglio è umano, non meccanico. Per chi usa l’IA sul lavoro, questo cambia lo sguardo: non chiederti cosa può fare la macchina, ma chi ne decide le regole 🧠. Hai mai letto la prima riga cercando il colpevole? ✝️"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Il Papa non parla solo di AI.",
+          "voiceover": "Il Papa non parla solo di intelligenza artificiale.",
+          "on_screen_text": "Il Papa parla di molto di più.",
+          "visual_direction": "Testo che appare con un effetto di scrittura.",
+          "caption": "Riflessioni sul potere.",
+          "tone": "urgent",
+          "emphasis_word": "potere",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Usa la tecnologia come specchio.",
+          "voiceover": "La tecnologia riflette la nostra umanità.",
+          "on_screen_text": "Tecnologia come specchio.",
+          "visual_direction": "Transizione a specchio che riflette immagini.",
+          "caption": "Cosa vediamo?",
+          "tone": "informative",
+          "emphasis_word": "specchio",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Il bersaglio è il potere umano.",
+          "voiceover": "Il vero bersaglio è il potere umano.",
+          "on_screen_text": "Il potere umano è il bersaglio.",
+          "visual_direction": "Testo che si espande come un bersaglio.",
+          "caption": "Chi controlla?",
+          "tone": "urgent",
+          "emphasis_word": "bersaglio",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Non è etica, è politica.",
+          "voiceover": "Questo non è solo un dibattito etico.",
+          "on_screen_text": "È politica, non etica.",
+          "visual_direction": "Testo che si divide in due colori.",
+          "caption": "Riflessione necessaria.",
+          "tone": "informative",
+          "emphasis_word": "politica",
+          "layout": "split"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Chi guarda l'IA si perde il resto.",
+          "voiceover": "Attenzione all'IA, ma non dimentichiamo il resto.",
+          "on_screen_text": "Non perdere di vista il resto.",
+          "visual_direction": "Testo che scorre in avanti.",
+          "caption": "Resta consapevole.",
+          "tone": "inspiring",
+          "emphasis_word": "",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 28,
+      "cta": "Scopri di più su questo tema."
     }
   },
   "instagram_caption": "Il Papa firma un’enciclica sull’intelligenza artificiale ma, a testa alta, punta il dito contro chi usa la tecnologia per accumulare potere e decidere per tutti senza controllo. Non è un manuale di etica 🎯— è un atto politico e una denuncia spirituale del sistema di potere nascosto dietro le macchine ⚖️. Chi si ferma al dibattito sui robot perde il messaggio vero: il bersaglio è umano, non meccanico. Per chi usa l’IA sul lavoro, questo cambia lo sguardo: non chiederti cosa può fare la macchina, ma chi ne decide le regole 🧠. Hai mai letto la prima riga cercando il colpevole? ✝️",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2213411719.jpg?w=1024",
   "savedAt": "2026-05-25T22:52:15.236Z",
-  "sourceId": "96a0ae8f1cd7d1a95fae4afcf8295103"
+  "sourceId": "96a0ae8f1cd7d1a95fae4afcf8295103",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

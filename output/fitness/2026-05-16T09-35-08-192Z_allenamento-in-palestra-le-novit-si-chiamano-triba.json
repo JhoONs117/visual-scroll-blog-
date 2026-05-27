@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Scopri il nuovo modo di allenarti!",
+          "voiceover": "Sei pronto a trasformare il tuo workout in qualcosa di divertente?",
+          "on_screen_text": "Ritrova energia e divertimento!",
+          "visual_direction": "Inquadrature dinamiche di persone che si allenano con entusiasmo.",
+          "caption": "Rivoluziona il tuo allenamento!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Brucia calorie divertendoti!",
+          "voiceover": "Con TribalFit, Blaze e Punch, ogni lezione è unica.",
+          "on_screen_text": "TribalFit, Blaze e Punch!",
+          "visual_direction": "Clip di diversi tipi di lezioni in palestra.",
+          "caption": "Allenati e divertiti!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Muovi il tuo corpo con ritmo!",
+          "voiceover": "Sperimenta allenamenti che coinvolgono tutti i muscoli.",
+          "on_screen_text": "Muovi tutto il corpo!",
+          "visual_direction": "Persone che seguono il ritmo della musica durante l'allenamento.",
+          "caption": "Ritmo e intensità!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Non fermarti a metà esercizio!",
+          "voiceover": "Spingi te stesso e supera i tuoi limiti.",
+          "on_screen_text": "Non fermarti a metà!",
+          "visual_direction": "Inquadrature di allenatori che incoraggiano i partecipanti.",
+          "caption": "Dai il massimo!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Prova una lezione gratuita oggi!",
+          "voiceover": "Scopri il tuo nuovo workout preferito senza impegno.",
+          "on_screen_text": "Lezione di prova gratuita!",
+          "visual_direction": "Persone che si iscrivono e sorridono dopo l'allenamento.",
+          "caption": "Iscriviti ora!"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Unisciti a noi per una prova gratuita!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c25b81a35.jpeg",
   "savedAt": "2026-05-16T09:36:05.583Z",
   "sourceId": "55d07d9645f26fecbd0699636c80e5ed",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

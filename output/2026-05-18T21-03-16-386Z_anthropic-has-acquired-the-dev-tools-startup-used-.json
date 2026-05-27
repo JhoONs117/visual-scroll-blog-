@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Anthropic ha appena comprato Clio, uno strumento che fino a ieri analizzava codice per OpenAI, Google e Cloudflare. Era un plugin aperto a tutti, usato da team dev per debuggare e fare audit su software sensibili. Nessun annuncio, nessuna transizione graduale 📉 Da oggi Clio lavorerà **solo** per i modelli di Anthropic. Se il tuo team lo usava per analisi su cloud o AI concorrenti, devi trovare un'alternativa entro 30 giorni ⏳ L'API verrà disattivata per terze parti. Hai già migrato il tuo stack? 🚨"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Breaking news!",
+          "voiceover": "Anthropic ha appena comprato uno strumento di OpenAI.",
+          "on_screen_text": "Acquisizione di Clio!",
+          "visual_direction": "Animazione dinamica con effetti di enfasi sul logo di Anthropic.",
+          "caption": "Scopri di più!",
+          "tone": "urgent",
+          "emphasis_word": "Clio",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Cosa significa per te?",
+          "voiceover": "Si chiama Clio, analizzava codice per Google e Cloudflare.",
+          "on_screen_text": "Clio: strumento potente!",
+          "visual_direction": "Testo che si dissolve in immagini dei loghi di Google e Cloudflare.",
+          "caption": "Rimanere aggiornati!",
+          "tone": "informative",
+          "emphasis_word": "potente",
+          "layout": "split"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Novità per i dev!",
+          "voiceover": "Da oggi Clio lavorerà solo per i modelli Anthropic.",
+          "on_screen_text": "Clio per Anthropic!",
+          "visual_direction": "Effetti di transizione che mostrano Clio in azione.",
+          "caption": "Cosa fare ora?",
+          "tone": "urgent",
+          "emphasis_word": "solo",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Scegli il tuo futuro!",
+          "voiceover": "I team dev devono scegliere da che parte stare.",
+          "on_screen_text": "Scegli il tuo team!",
+          "visual_direction": "Grafica che rappresenta due strade che si biforcano.",
+          "caption": "Decisioni importanti!",
+          "tone": "inspiring",
+          "emphasis_word": "scegliere",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Ultima chiamata!",
+          "voiceover": "Se usi Clio, migra il plugin prima che sparisca.",
+          "on_screen_text": "Migra ora!",
+          "visual_direction": "Countdown visivo con timer e grafica di urgenza.",
+          "caption": "Non perdere tempo!",
+          "tone": "urgent",
+          "emphasis_word": "ora",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Migra il tuo plugin oggi stesso!"
     }
   },
   "instagram_caption": "Anthropic ha appena comprato Clio, uno strumento che fino a ieri analizzava codice per OpenAI, Google e Cloudflare. Era un plugin aperto a tutti, usato da team dev per debuggare e fare audit su software sensibili. Nessun annuncio, nessuna transizione graduale 📉 Da oggi Clio lavorerà **solo** per i modelli di Anthropic. Se il tuo team lo usava per analisi su cloud o AI concorrenti, devi trovare un'alternativa entro 30 giorni ⏳ L'API verrà disattivata per terze parti. Hai già migrato il tuo stack? 🚨",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
   "savedAt": "2026-05-18T21:03:29.781Z",
-  "sourceId": "d023da2950a3e14fa36a22e06b9c23e3"
+  "sourceId": "d023da2950a3e14fa36a22e06b9c23e3",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

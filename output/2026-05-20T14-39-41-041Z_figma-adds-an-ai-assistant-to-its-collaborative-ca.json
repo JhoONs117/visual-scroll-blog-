@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Figma ha ora un assistente AI che non si limita a generare design da zero, ma modifica componenti già esistenti in tempo reale, capendo il contesto del progetto. 🎯 Mentre altri tool creano mockup isolati, questo sistema riscrive il tuo lavoro direttamente nel canvas, senza sostituirlo. Il risultato? Un team senza developer può ora iterare prototipi funzionanti in minuti, trasformando il feedback in azione immediata anziché in una riunione tra due giorni. ⏱️ Apri un file Figma e chiedigli: \"aggiungi stato vuoto\". ✏️ Quanto tempo risparmi oggi?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Figma now understands your project.",
+          "voiceover": "Figma ora capisce il tuo progetto.",
+          "on_screen_text": "Figma capisce il tuo progetto!",
+          "visual_direction": "Animazione di testo che si espande.",
+          "caption": "Scopri la nuova funzionalità.",
+          "tone": "informative",
+          "emphasis_word": "capisce",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Modify components in real time.",
+          "voiceover": "Modifica componenti in tempo reale.",
+          "on_screen_text": "Modifica componenti in tempo reale!",
+          "visual_direction": "Testo che scorre con colori vivaci.",
+          "caption": "Collaborazione senza sforzo.",
+          "tone": "urgent",
+          "emphasis_word": "reale",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "No developers needed!",
+          "voiceover": "Team senza developer prototipano in minuti.",
+          "on_screen_text": "Prototipa in minuti!",
+          "visual_direction": "Transizione rapida tra i testi.",
+          "caption": "Accelera il tuo workflow.",
+          "tone": "inspiring",
+          "emphasis_word": "minuti",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Open a file and ask it questions.",
+          "voiceover": "Apri un file e chiedigli cose semplici.",
+          "on_screen_text": "Chiedi cose semplici!",
+          "visual_direction": "Testo che appare con effetti di scrittura.",
+          "caption": "Facilità d'uso.",
+          "tone": "informative",
+          "emphasis_word": "semplici",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Try 'add empty state'—it works now.",
+          "voiceover": "Prova 'aggiungi stato vuoto'—funziona subito.",
+          "on_screen_text": "Funziona subito!",
+          "visual_direction": "Testo che lampeggia per evidenziare l'azione.",
+          "caption": "Inizia a creare oggi.",
+          "tone": "urgent",
+          "emphasis_word": "subito",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 26,
+      "cta": "Inizia a usare Figma ora!"
     }
   },
   "instagram_caption": "Figma ha ora un assistente AI che non si limita a generare design da zero, ma modifica componenti già esistenti in tempo reale, capendo il contesto del progetto. 🎯 Mentre altri tool creano mockup isolati, questo sistema riscrive il tuo lavoro direttamente nel canvas, senza sostituirlo. Il risultato? Un team senza developer può ora iterare prototipi funzionanti in minuti, trasformando il feedback in azione immediata anziché in una riunione tra due giorni. ⏱️ Apri un file Figma e chiedigli: \"aggiungi stato vuoto\". ✏️ Quanto tempo risparmi oggi?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Agent-On-Canvas-Entrypoint.png?resize=1200,675",
   "savedAt": "2026-05-20T14:40:10.514Z",
-  "sourceId": "7fa0875ec0c9b04b126b1212bd03570e"
+  "sourceId": "7fa0875ec0c9b04b126b1212bd03570e",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

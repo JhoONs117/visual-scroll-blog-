@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Diventa re della tua forma fisica!",
+          "voiceover": "Scopri come allenarti come un campione della SBK.",
+          "on_screen_text": "Diventa re della tua forma fisica.",
+          "visual_direction": "Inizio con un primo piano di un atleta in azione.",
+          "caption": "Inizia il tuo viaggio fitness ora!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 7,
+          "hook": "Potenzia ogni muscolo come Toprak!",
+          "voiceover": "L'equilibrio dinamico è fondamentale per la tua forza.",
+          "on_screen_text": "L'equilibrio dinamico come Toprak.",
+          "visual_direction": "Mostra un esercizio di equilibrio su una palla.",
+          "caption": "Sviluppa forza e stabilità!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Contrai il core per risultati migliori!",
+          "voiceover": "Utilizza una superficie instabile per attivare il core.",
+          "on_screen_text": "Contrai il core su una superficie instabile.",
+          "visual_direction": "Esercizi su una tavola instabile.",
+          "caption": "Rafforza il tuo centro!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Respira correttamente durante lo sforzo!",
+          "voiceover": "Non bloccare il respiro, è essenziale per l'allenamento.",
+          "on_screen_text": "Non bloccare il respiro durante lo sforzo.",
+          "visual_direction": "Primo piano di un atleta che respira correttamente.",
+          "caption": "Mantieni un respiro fluido!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Prova queste serie oggi stesso!",
+          "voiceover": "Inizia con 3 serie da 30 secondi per un grande impatto.",
+          "on_screen_text": "Prova 3 serie da 30 secondi oggi.",
+          "visual_direction": "Mostra un cronometro con l'atleta che esegue gli esercizi.",
+          "caption": "Agisci ora e migliora!"
+        }
+      ],
+      "duration_sec": 31,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia il tuo allenamento oggi stesso!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205bec456c60.jpeg",
   "savedAt": "2026-05-16T06:28:50.047Z",
   "sourceId": "bd6a875992b1713317f0d52cab042731",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

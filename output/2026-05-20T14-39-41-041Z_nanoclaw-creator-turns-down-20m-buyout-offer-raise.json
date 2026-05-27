@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "NanoClaw ha appena detto no a 20 milioni di dollari. 🚫💰 Perché hanno preferito raccoglierne 12 in seed, con valutazione segreta. Costruiscono robot per micro-interventi chirurgici, un hardwarone che ha bisogno di tempo e non di soldi facili. 🦾 Chi è entrato small nel round ha scommesso in anticipo e ora può raddoppiare. Il seed era a prezzo ribassato: se vuoi investire, apri bene gli occhi sui termini prima di firmare. 📉 Il costo? Meno di un abbonamento Spotify. Seed chiuso, round A ancora aperto. 🎲 Il tuo prossimo passo?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "NanoClaw ha detto no a 20 milioni.",
+          "voiceover": "Incredibile ma vero, NanoClaw rifiuta un'offerta da 20 milioni di dollari.",
+          "on_screen_text": "NO A 20 MILIONI",
+          "visual_direction": "Testo grande che appare con effetto di scrittura.",
+          "caption": "Un rifiuto audace!",
+          "tone": "urgent",
+          "emphasis_word": "NO",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Robot per micro-interventi, roba seria.",
+          "voiceover": "Stiamo parlando di robot per micro-interventi, tecnologia all'avanguardia.",
+          "on_screen_text": "ROBOT PER MICRO-INTERVENTI",
+          "visual_direction": "Animazione di un robot in azione.",
+          "caption": "Innovazione in atto!",
+          "tone": "informative",
+          "emphasis_word": "ROBOT",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Seed da 12, valutazione tenuta segreta.",
+          "voiceover": "Hanno raccolto 12 milioni in un round seed, ma la valutazione è segreta.",
+          "on_screen_text": "12 MILIONI RACCOLTI",
+          "visual_direction": "Grafica che mostra un seme che germoglia.",
+          "caption": "Crescita sotto i riflettori!",
+          "tone": "informative",
+          "emphasis_word": "12 MILIONI",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Small round aperto, controlla i termini.",
+          "voiceover": "Un piccolo round è aperto, assicurati di controllare i termini!",
+          "on_screen_text": "SMALL ROUND APERTO",
+          "visual_direction": "Animazione con una lente d'ingrandimento su documenti.",
+          "caption": "Non perdere l'occasione!",
+          "tone": "urgent",
+          "emphasis_word": "APERTO",
+          "layout": "split"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Prezzo ribassato, entri ora o mai.",
+          "voiceover": "Prezzo ribassato, è ora o mai per entrare nel gioco!",
+          "on_screen_text": "ENTRA ORA O MAI",
+          "visual_direction": "Testo che pulsano per attirare attenzione.",
+          "caption": "Ultima chiamata!",
+          "tone": "urgent",
+          "emphasis_word": "ORA",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 28,
+      "cta": "Scopri di più su NanoClaw!"
     }
   },
   "instagram_caption": "NanoClaw ha appena detto no a 20 milioni di dollari. 🚫💰 Perché hanno preferito raccoglierne 12 in seed, con valutazione segreta. Costruiscono robot per micro-interventi chirurgici, un hardwarone che ha bisogno di tempo e non di soldi facili. 🦾 Chi è entrato small nel round ha scommesso in anticipo e ora può raddoppiare. Il seed era a prezzo ribassato: se vuoi investire, apri bene gli occhi sui termini prima di firmare. 📉 Il costo? Meno di un abbonamento Spotify. Seed chiuso, round A ancora aperto. 🎲 Il tuo prossimo passo?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/03/NanoClaw-fouders-2.jpg?resize=1200,708",
   "savedAt": "2026-05-20T14:39:55.709Z",
-  "sourceId": "2cbd3e3624d2d11f7b0a3c7d9e01688e"
+  "sourceId": "2cbd3e3624d2d11f7b0a3c7d9e01688e",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

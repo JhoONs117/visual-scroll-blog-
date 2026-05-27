@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Google presenta Gemini Spark, un assistente che si integra con Gmail in tempo reale. Non si limita a leggere: analizza tono e contenuto delle email, poi decide da solo se rispondere, archiviare o segnalare 📬. Questo significa che conferma appuntamenti e scrive bozze al posto tuo — e tu lo scopri solo controllando la cronologia ⏳. Il vero costo non è l'abbonamento (meno di un caffè al giorno), ma la fiducia: un fraintendimento su un messaggio di un cliente può costare caro 🤖. Perché non provare prima un'automazione in una cartella \"bozze da verificare\"?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Il futuro delle email è qui!",
+          "voiceover": "Scopri Gemini Spark, l'assistente AI che cambia tutto.",
+          "on_screen_text": "Google presenta Gemini Spark",
+          "visual_direction": "Animazione del logo di Google che si trasforma in Gemini Spark.",
+          "caption": "L'assistente AI per le tue email.",
+          "tone": "informative",
+          "emphasis_word": "Spark",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Delegare le email a un assistente AI.",
+          "voiceover": "Sembra comodo, ma c'è un rovescio della medaglia.",
+          "on_screen_text": "Comodo, ma rischioso",
+          "visual_direction": "Testo che si muove da destra a sinistra con un'ombra inquietante.",
+          "caption": "Rischi da considerare.",
+          "tone": "urgent",
+          "emphasis_word": "rischioso",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Gemini Spark opera in tempo reale.",
+          "voiceover": "Lavora direttamente dentro Gmail, rispondendo istantaneamente.",
+          "on_screen_text": "Lavora in diretta",
+          "visual_direction": "Visualizzazione di un'email che viene elaborata rapidamente.",
+          "caption": "Risposte immediate.",
+          "tone": "informative",
+          "emphasis_word": "diretta",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Non filtra: agisce per te.",
+          "voiceover": "Gemini Spark non si limita a filtrare, prende decisioni.",
+          "on_screen_text": "Agisce per te",
+          "visual_direction": "Animazione di un'AI che compila risposte a email.",
+          "caption": "Decisioni autonome.",
+          "tone": "urgent",
+          "emphasis_word": "agisce",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Il costo non sono i soldi.",
+          "voiceover": "Il vero costo è la fiducia che riponi in lui.",
+          "on_screen_text": "Il costo è la fiducia",
+          "visual_direction": "Visualizzazione di un bilancio tra denaro e fiducia.",
+          "caption": "Rifletti bene.",
+          "tone": "inspiring",
+          "emphasis_word": "fiducia",
+          "layout": "split"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Scopri di più su Gemini Spark!"
     }
   },
   "instagram_caption": "Google presenta Gemini Spark, un assistente che si integra con Gmail in tempo reale. Non si limita a leggere: analizza tono e contenuto delle email, poi decide da solo se rispondere, archiviare o segnalare 📬. Questo significa che conferma appuntamenti e scrive bozze al posto tuo — e tu lo scopri solo controllando la cronologia ⏳. Il vero costo non è l'abbonamento (meno di un caffè al giorno), ma la fiducia: un fraintendimento su un messaggio di un cliente può costare caro 🤖. Perché non provare prima un'automazione in una cartella \"bozze da verificare\"?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/spark.jpg?resize=1200,673",
   "savedAt": "2026-05-19T20:35:48.798Z",
-  "sourceId": "6e6d5dc266f7a4c9bd1aa09aef8edb5b"
+  "sourceId": "6e6d5dc266f7a4c9bd1aa09aef8edb5b",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

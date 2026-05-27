@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Scopri il segreto di Giovanni Truppi!",
+          "voiceover": "Giovanni Truppi svela come energia e movimento vanno insieme.",
+          "on_screen_text": "Energia e movimento: la chiave!",
+          "visual_direction": "Inizio con Giovanni che balla energico.",
+          "caption": "Scopri il suo segreto!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Idratazione è fondamentale!",
+          "voiceover": "Bere acqua è essenziale per il tuo benessere.",
+          "on_screen_text": "Idratati per sentirti meglio.",
+          "visual_direction": "Close-up di una bottiglia d'acqua.",
+          "caption": "Bevi di più!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Pilates: il segreto del suo successo.",
+          "voiceover": "Il pilates unisce forza, respiro e flessibilità.",
+          "on_screen_text": "Pilates: forza e respiro insieme.",
+          "visual_direction": "Giovanni mentre pratica pilates.",
+          "caption": "Provalo anche tu!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Contrai il core, allunga la colonna!",
+          "voiceover": "Ricorda di contrarre il core durante gli esercizi.",
+          "on_screen_text": "Contrai il core, allunga!",
+          "visual_direction": "Dimostrazione di un esercizio di pilates.",
+          "caption": "Focalizzati sul core!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Bevi 2 litri d'acqua oggi!",
+          "voiceover": "Muoviti e idratati per sentirti al top.",
+          "on_screen_text": "Bevi e muoviti ogni giorno!",
+          "visual_direction": "Giovanni conclude con un sorriso e un sorso d'acqua.",
+          "caption": "Fai il primo passo!"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia oggi il tuo percorso fitness!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cf212532a.jpeg",
   "savedAt": "2026-05-15T19:32:10.474Z",
   "sourceId": "c416c41e2e088c5fa38ccb16285d5ada",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

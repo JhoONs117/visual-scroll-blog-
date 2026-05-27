@@ -51,11 +51,72 @@
       "caption": "Rapido ha appena raccolto 240 milioni di dollari e vale 3 miliardi 🚲, ma perde ancora soldi su quasi ogni corsa. La startup indiana guida il mercato dei bike-taxi, che ha toccato il record. Il successo, però, dipende dal volume: tariffe basse per te significano meno guadagni per chi guida 💸. Per adesso, ti conviene provarla: confronta costi e tempi di attesa con un Uber ⏱️. Quanto può crescere prima che la contesa si accenda?"
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri la nuova sfida nel trasporto!",
+          "voiceover": "Indian Uber rival Rapido raises $240 million.",
+          "on_screen_text": "Raccolti 240 milioni di dollari!",
+          "visual_direction": "Testo grande e colorato che appare rapidamente.",
+          "caption": "Investimenti record nel settore!",
+          "tone": "urgent",
+          "emphasis_word": "240 milioni",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Ma c'è un problema...",
+          "voiceover": "Ma perdono soldi su ogni corsa.",
+          "on_screen_text": "Perdono soldi su ogni corsa.",
+          "visual_direction": "Testo che si dissolve per mostrare la difficoltà.",
+          "caption": "Un modello di business sostenibile?",
+          "tone": "urgent",
+          "emphasis_word": "perdono",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Il mercato è in crescita!",
+          "voiceover": "Il mercato dei bici-taxi esplode.",
+          "on_screen_text": "Mercato bici-taxi in crescita!",
+          "visual_direction": "Animazioni di bici-taxi che si muovono velocemente.",
+          "caption": "Un'opportunità da non perdere!",
+          "tone": "inspiring",
+          "emphasis_word": "esplode",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "C'è un'altra verità...",
+          "voiceover": "Gli autisti guadagnano sempre meno.",
+          "on_screen_text": "Autisti guadagnano sempre meno.",
+          "visual_direction": "Testo che si riduce di dimensione.",
+          "caption": "Qual è il futuro per loro?",
+          "tone": "informative",
+          "emphasis_word": "meno",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Prova Rapido oggi!",
+          "voiceover": "Provalo: costa meno e arriva prima.",
+          "on_screen_text": "Costa meno e arriva prima!",
+          "visual_direction": "Testo che lampeggia per attirare attenzione.",
+          "caption": "Non perdere tempo!",
+          "tone": "urgent",
+          "emphasis_word": "meno",
+          "layout": "single"
+        }
+      ],
+      "duration_sec": 25,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Scopri di più su Rapido!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "Rapido ha appena raccolto 240 milioni di dollari e vale 3 miliardi 🚲, ma perde ancora soldi su quasi ogni corsa. La startup indiana guida il mercato dei bike-taxi, che ha toccato il record. Il successo, però, dipende dal volume: tariffe basse per te significano meno guadagni per chi guida 💸. Per adesso, ti conviene provarla: confronta costi e tempi di attesa con un Uber ⏱️. Quanto può crescere prima che la contesa si accenda?",
@@ -108,8 +169,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2023/10/rapido.jpg?w=1200",
   "savedAt": "2026-05-15T19:20:03.416Z",
   "sourceId": "397bfe6497a0257060974341c210a909",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "kinetic_typography",
   "render_status": {
     "low": null,
     "medium": null,

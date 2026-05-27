@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Una falla in Gemini permette a chiunque di estrarre i tuoi dati con una semplice frase. 🛑 Google non l'ha vista arrivare: un prompt normale, apparentemente innocuo, ha bypassato le protezioni sfruttando la logica stessa del modello. Il risultato? Ogni chat, ricerca o documento che hai caricato potrebbe essere esposto. Se usi Gemini per lavoro o studio, controlla subito gli accessi del tuo account e revoca sessioni sconosciute. 🔐 Quante conversazioni hai avuto con l'AI questa settimana?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Everyone is navigating AI security.",
+          "voiceover": "Nessuno se lo aspettava, nemmeno i tecnici di Google.",
+          "on_screen_text": "Nessuno se lo aspettava",
+          "visual_direction": "Testo in movimento da sinistra a destra.",
+          "caption": "L'inaspettato attacco",
+          "tone": "urgent",
+          "emphasis_word": "inaspettato",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "A hidden attack revealed.",
+          "voiceover": "Un attacco nascosto in una normale frase.",
+          "on_screen_text": "Un attacco nascosto",
+          "visual_direction": "Entrata in dissolvenza.",
+          "caption": "Attacco invisibile",
+          "tone": "urgent",
+          "emphasis_word": "nascosto",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "What triggered the breach?",
+          "voiceover": "Un prompt qualsiasi ha aperto la porta a tutto.",
+          "on_screen_text": "Un prompt qualsiasi",
+          "visual_direction": "Zoom in sul testo.",
+          "caption": "La chiave dell'attacco",
+          "tone": "urgent",
+          "emphasis_word": "chiave",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Your chats are at risk.",
+          "voiceover": "Ogni tua chat adesso è esposta.",
+          "on_screen_text": "Ogni tua chat esposta",
+          "visual_direction": "Testo che lampeggia.",
+          "caption": "Allerta sicurezza",
+          "tone": "urgent",
+          "emphasis_word": "esposta",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Take action now!",
+          "voiceover": "Controlla subito gli accessi, prima che sia tardi.",
+          "on_screen_text": "Controlla subito gli accessi",
+          "visual_direction": "Testo che scorre verso l'alto.",
+          "caption": "Non aspettare!",
+          "tone": "urgent",
+          "emphasis_word": "subito",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Proteggi i tuoi dati ora!"
     }
   },
   "instagram_caption": "Una falla in Gemini permette a chiunque di estrarre i tuoi dati con una semplice frase. 🛑 Google non l'ha vista arrivare: un prompt normale, apparentemente innocuo, ha bypassato le protezioni sfruttando la logica stessa del modello. Il risultato? Ogni chat, ricerca o documento che hai caricato potrebbe essere esposto. Se usi Gemini per lavoro o studio, controlla subito gli accessi del tuo account e revoca sessioni sconosciute. 🔐 Quante conversazioni hai avuto con l'AI questa settimana?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
   "savedAt": "2026-05-25T16:16:13.800Z",
-  "sourceId": "a1acbef14ea22c9cc246a0a873845f28"
+  "sourceId": "a1acbef14ea22c9cc246a0a873845f28",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

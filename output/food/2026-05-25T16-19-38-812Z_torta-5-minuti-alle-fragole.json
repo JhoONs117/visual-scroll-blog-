@@ -37,6 +37,58 @@
         "Versa in teglia imburrata, aggiungi le fragole tagliate. Forno statico a 180° per 30-35 minuti. Profumo che invade casa.",
         "Una volta fredda, spolvera con zucchero a velo e fragole fresche. Provala e dimmi se ti è sparita in 5 minuti anche a te 👇"
       ]
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "La torta più veloce che tu abbia mai fatto!",
+          "voiceover": "Scopri come preparare una torta alle fragole in 5 minuti!",
+          "on_screen_text": "Torta soffice e veloce alle fragole",
+          "visual_direction": "Inquadra la torta finita con fragole fresche sopra.",
+          "caption": "Torta alle fragole in 5 minuti!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Ingredienti semplici e veloci!",
+          "voiceover": "Hai bisogno di fragole, farina, uova, zucchero e burro.",
+          "on_screen_text": "Fragole, farina, uova, zucchero, burro",
+          "visual_direction": "Mostra gli ingredienti disposti su un tavolo.",
+          "caption": "Ingredienti per la tua torta!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Mescola senza complicazioni!",
+          "voiceover": "Mescola le uova e lo zucchero senza montare.",
+          "on_screen_text": "Mescola uova e zucchero senza montare",
+          "visual_direction": "Riprendi il processo di mescolamento in una ciotola.",
+          "caption": "Facile e veloce!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Tempo di cottura perfetto!",
+          "voiceover": "Cuoci in forno statico a 180 gradi per 25 minuti.",
+          "on_screen_text": "Cuoci in forno statico a 180 gradi",
+          "visual_direction": "Mostra il forno e un timer che conta.",
+          "caption": "Cottura in corso!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Guarnisci e servi!",
+          "voiceover": "Guarnisci con fragole fresche e zucchero a velo.",
+          "on_screen_text": "Guarnisci con fragole e zucchero a velo",
+          "visual_direction": "Inquadra il momento della guarnizione con fragole.",
+          "caption": "Pronta da gustare!"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 28,
+      "cta": "Prova questa ricetta e condividi!"
     }
   },
   "video_script": [
@@ -107,5 +159,7 @@
   ],
   "image": "https://www.giallozafferano.it/images/362-36217/Torta-5-minuti-alle-fragole_650x433_wm.jpg",
   "savedAt": "2026-05-25T16:19:54.811Z",
-  "sourceId": "d7adc4824738c6eb07bbf2f5dbd00bac"
+  "sourceId": "d7adc4824738c6eb07bbf2f5dbd00bac",
+  "render_template": "slide_deck",
+  "render_quality": "low"
 }

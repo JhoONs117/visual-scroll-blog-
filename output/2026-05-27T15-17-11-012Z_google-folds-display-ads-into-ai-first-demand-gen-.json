@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-folds-display-ads-into-ai-first-demand-gen-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google folds Display Ads into AI-first Demand Gen platform",
+  "link": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
+  "pubDate": "Wed, 27 May 2026 13:12:06 +0000",
+  "slides": [
+    "Google seppellisce i Display Ads in Demand Gen?",
+    "Demand Gen è ora la piattaforma unica AI-first.",
+    "I vecchi formati manuali scompaiono in 6 mesi.",
+    "Chi non migra il budget perde il controllo sui target.",
+    "Testa subito un campagna Demand Gen contro una display classica."
+  ],
+  "thread_text": [
+    "Tra 6 mesi, i vecchi formati display manuali spariranno da Google. Non progressivamente. Spariranno e basta.",
+    "Google sta spostando tutto il budget pubblicitario in Demand Gen, la sua nuova piattaforma AI-first. Non è un'opzione, è una migrazione forzata.",
+    "Se non sposti il budget, perdi il controllo sui target. L'AI decide per te, senza che tu possa intervenire manualmente.",
+    "La scelta è: testare subito una campagna Demand Gen comparata a una classica, o aspettare di essere travolti dal cambiamento.",
+    "Costa 50 euro al giorno. Fallo partire entro questa settimana e vedi tu stesso la differenza nei tassi di conversione."
+  ],
+  "video_script": [
+    "Tra sei mesi spariscono i vecchi formati display.",
+    "Google li sostituisce con Demand Gen AI-first.",
+    "Chi non migra perde il controllo sui target.",
+    "L'AI decide dove e quando mostrare i tuoi annunci.",
+    "Testala subito, costa meno di un abbonamento Spotify."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Tra 6 mesi, i vecchi formati display manuali spariranno da Google. Non progressivamente. Spariranno e basta.",
+        "Google sta spostando tutto il budget pubblicitario in Demand Gen, la sua nuova piattaforma AI-first. Non è un'opzione, è una migrazione forzata.",
+        "Se non sposti il budget, perdi il controllo sui target. L'AI decide per te, senza che tu possa intervenire manualmente.",
+        "La scelta è: testare subito una campagna Demand Gen comparata a una classica, o aspettare di essere travolti dal cambiamento.",
+        "Costa 50 euro al giorno. Fallo partire entro questa settimana e vedi tu stesso la differenza nei tassi di conversione."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Tra sei mesi spariscono i vecchi formati display.",
+        "Google li sostituisce con Demand Gen AI-first.",
+        "Chi non migra perde il controllo sui target.",
+        "L'AI decide dove e quando mostrare i tuoi annunci.",
+        "Testala subito, costa meno di un abbonamento Spotify."
+      ]
+    },
+    "instagram": {
+      "caption": "Tra 6 mesi i vecchi formati display manuali di Google smettono di esistere. Non gradualmente: spariscono e basta, sostituiti da Demand Gen, una piattaforma che decide target e creatività con l’AI. Se non trasferisci il budget, perdi ogni controllo sui target: l’AI sceglie tutto da sola, senza che tu possa intervenire a mano. Per chi lavora sulla pubblicità, significa o testare subito una campagna Demand Gen a 50 euro al giorno, o farsi travolgere dalla migrazione forzata. Hai già confrontato i tassi di conversione prima che spariscano i controlli manuali? 📉🤖🕒🔁📊"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Attenzione!",
+          "voiceover": "Tra sei mesi spariscono i vecchi formati display.",
+          "on_screen_text": "Spariscono i vecchi display!",
+          "visual_direction": "Testo che si dissolve in un nuovo design.",
+          "caption": "Rivoluzione in arrivo!",
+          "tone": "urgent",
+          "emphasis_word": "spariscono",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Ecco la novità!",
+          "voiceover": "Google li sostituisce con Demand Gen AI-first.",
+          "on_screen_text": "Demand Gen AI-first",
+          "visual_direction": "Animazione di un logo Google che si trasforma.",
+          "caption": "Scopri il futuro!",
+          "tone": "informative",
+          "emphasis_word": "AI-first",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Non aspettare!",
+          "voiceover": "Chi non migra perde il controllo sui target.",
+          "on_screen_text": "Perdi il controllo!",
+          "visual_direction": "Grafica che mostra un target che sfugge.",
+          "caption": "Agisci ora!",
+          "tone": "urgent",
+          "emphasis_word": "controllo",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "L'AI è qui!",
+          "voiceover": "L'AI decide dove e quando mostrare i tuoi annunci.",
+          "on_screen_text": "L'AI decide per te!",
+          "visual_direction": "Animazioni di annunci che appaiono in luoghi diversi.",
+          "caption": "Sfrutta l'AI!",
+          "tone": "informative",
+          "emphasis_word": "decide",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Provalo ora!",
+          "voiceover": "Testala subito, costa meno di un abbonamento Spotify.",
+          "on_screen_text": "Costa meno di Spotify!",
+          "visual_direction": "Grafica con un confronto di costi.",
+          "caption": "Non perdere tempo!",
+          "tone": "urgent",
+          "emphasis_word": "meno",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 28,
+      "cta": "Inizia a usare Demand Gen oggi!"
+    }
+  },
+  "instagram_caption": "Tra 6 mesi i vecchi formati display manuali di Google smettono di esistere. Non gradualmente: spariscono e basta, sostituiti da Demand Gen, una piattaforma che decide target e creatività con l’AI. Se non trasferisci il budget, perdi ogni controllo sui target: l’AI sceglie tutto da sola, senza che tu possa intervenire a mano. Per chi lavora sulla pubblicità, significa o testare subito una campagna Demand Gen a 50 euro al giorno, o farsi travolgere dalla migrazione forzata. Hai già confrontato i tassi di conversione prima che spariscano i controlli manuali? 📉🤖🕒🔁📊",
+  "carousel_slides": [
+    {
+      "hook": "I vecchi display spariranno",
+      "description": "Tra 6 mesi i formati display manuali spariscono da Google. Non progressivamente. Spariranno e basta.",
+      "visual_hint": "Conto alla rovescia visivo",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "countdown timer"
+    },
+    {
+      "hook": "Migrazione forzata all'AI",
+      "description": "Google sposta tutto in Demand Gen AI-first. Non è un'opzione, è una migrazione forzata.",
+      "visual_hint": "Logo Google con AI",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Google AI logo",
+      "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Perdi il controllo sui target",
+      "description": "Se non sposti il budget, l'AI decide per te. Non puoi più intervenire manualmente.",
+      "visual_hint": "Leva di comando rimossa",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "control lever",
+      "image": "https://images.pexels.com/photos/17126293/pexels-photo-17126293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Testa subito o sarai travolto",
+      "description": "Costa 50 euro al giorno. Fallo partire entro questa settimana e vedi la differenza nelle conversioni.",
+      "visual_hint": "Grafico a confronto",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "comparison chart",
+      "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non aspettare, agisci ora",
+      "description": "Testa subito una campagna Demand Gen contro una display classica. Migra il budget prima che sia tardi.",
+      "visual_hint": "Pulsante CTA 'Avvia'",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "start button",
+      "image": "https://images.pexels.com/photos/24201390/pexels-photo-24201390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/google-display-ads-ai-demand-gen-platform-digital-marketing-retail-automation.jpg",
+  "savedAt": "2026-05-27T15:17:30.080Z",
+  "sourceId": "431b433f8c79b6bcf4f158950662b2c8",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
+}

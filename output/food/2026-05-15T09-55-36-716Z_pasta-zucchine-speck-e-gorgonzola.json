@@ -39,11 +39,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri la ricetta della pasta cremosa!",
+          "voiceover": "Oggi prepariamo una pasta cremosa senza panna.",
+          "on_screen_text": "Pasta cremosa senza panna",
+          "visual_direction": "Inquadratura ravvicinata della pasta che bolle.",
+          "caption": "Iniziamo!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Ingredienti freschi per un piatto unico!",
+          "voiceover": "Utilizzeremo linguine, zucchine, speck e gorgonzola.",
+          "on_screen_text": "Linguine, zucchine, speck, gorgonzola",
+          "visual_direction": "Inquadratura degli ingredienti disposti su un tavolo.",
+          "caption": "Prepariamo gli ingredienti!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Rosoliamo lo speck per un sapore intenso.",
+          "voiceover": "Rosola lo speck in padella senza grassi.",
+          "on_screen_text": "Rosola lo speck senza grassi",
+          "visual_direction": "Mostra lo speck che sfrigola in padella.",
+          "caption": "Sapore intenso!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Il segreto della cremosità perfetta!",
+          "voiceover": "Aggiungi gorgonzola e acqua di cottura.",
+          "on_screen_text": "Aggiungi gorgonzola e acqua di cottura",
+          "visual_direction": "Inquadratura della pasta mescolata con il gorgonzola.",
+          "caption": "Mescoliamo bene!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Gorgonzola dolce per un tocco finale!",
+          "voiceover": "Il gorgonzola dolce rende tutto più cremoso.",
+          "on_screen_text": "Gorgonzola dolce per cremosità perfetta",
+          "visual_direction": "Inquadratura finale del piatto pronto da servire.",
+          "caption": "Servi e gusta!"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Prova la ricetta e condividi!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -115,8 +161,8 @@
   "image": "https://www.giallozafferano.it/images/361-36124/Pasta-zucchine-speck-e-gorgonzola_650x433_wm.jpg",
   "savedAt": "2026-05-15T09:55:39.397Z",
   "sourceId": "a68b85e77cf93283390abce9c0f4de86",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "slide_deck",
   "render_status": {
     "low": null,
     "medium": null,

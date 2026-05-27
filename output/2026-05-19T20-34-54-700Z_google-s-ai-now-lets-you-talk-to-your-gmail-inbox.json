@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Chiedi a Gmail \"cosa ho perso?\" e la casella ti risponde a voce. 🎤 Google ha attivato un'AI che analizza ogni email in tempo reale: parole chiave, tono, urgenza. Non un semplice filtro, ma un'intelligenza che decide per te cosa è prioritario. 📬 Fino a ieri dovevi aprire tutto; oggi rispondi parlando e le newsletter aspettano. Per chi gestisce centinaia di messaggi al giorno, risparmiare clic significa ore recuperate. ⏳ Ora la domanda è: vuoi che qualcuno ascolti la tua posta al posto tuo? 👂"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Immagina parlare con la tua email.",
+          "voiceover": "I tuoi messaggi non parlano. Loro sì.",
+          "on_screen_text": "I tuoi messaggi non parlano.",
+          "visual_direction": "Animazione di messaggi che prendono vita.",
+          "caption": "Scopri la nuova AI di Google.",
+          "tone": "informative",
+          "emphasis_word": "parlano",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "L'AI è qui per aiutarti!",
+          "voiceover": "L'AI legge ogni email in tempo reale.",
+          "on_screen_text": "L'AI legge ogni email.",
+          "visual_direction": "Testo che appare mentre un'AI legge email.",
+          "caption": "Non perdere tempo.",
+          "tone": "urgent",
+          "emphasis_word": "legge",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Focalizzati su ciò che conta.",
+          "voiceover": "Filtra le urgenze mentre tu parli.",
+          "on_screen_text": "Filtra le urgenze.",
+          "visual_direction": "Animazione che mostra un filtro in azione.",
+          "caption": "Fai spazio alle priorità.",
+          "tone": "urgent",
+          "emphasis_word": "urgenze",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Dì addio ai clic.",
+          "voiceover": "Niente più clic. Solo voce.",
+          "on_screen_text": "Niente più clic.",
+          "visual_direction": "Transizione da un mouse a un microfono.",
+          "caption": "Rendi la tua vita più semplice.",
+          "tone": "inspiring",
+          "emphasis_word": "voce",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Chiedi e ricevi risposte.",
+          "voiceover": "Chiedi 'cos'ho perso?' e lei risponde.",
+          "on_screen_text": "Cos'ho perso?",
+          "visual_direction": "Icona di un'AI che risponde a una domanda.",
+          "caption": "Inizia a usare la nuova AI.",
+          "tone": "inspiring",
+          "emphasis_word": "risponde",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Prova la nuova AI di Google ora!"
     }
   },
   "instagram_caption": "Chiedi a Gmail \"cosa ho perso?\" e la casella ti risponde a voce. 🎤 Google ha attivato un'AI che analizza ogni email in tempo reale: parole chiave, tono, urgenza. Non un semplice filtro, ma un'intelligenza che decide per te cosa è prioritario. 📬 Fino a ieri dovevi aprire tutto; oggi rispondi parlando e le newsletter aspettano. Per chi gestisce centinaia di messaggi al giorno, risparmiare clic significa ore recuperate. ⏳ Ora la domanda è: vuoi che qualcuno ascolti la tua posta al posto tuo? 👂",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
   "savedAt": "2026-05-19T20:35:21.153Z",
-  "sourceId": "6a3556082c31b50f5969b96194e224d7"
+  "sourceId": "6a3556082c31b50f5969b96194e224d7",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

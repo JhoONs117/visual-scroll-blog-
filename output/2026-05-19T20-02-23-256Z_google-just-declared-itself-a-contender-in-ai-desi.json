@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "DeepMind ha preso un modello AI non tra i più potenti e lo ha messo al centro del suo nuovo tool di design. 🎯 Il punto? Hanno creato un framework dove interfaccia e ragionamento dell’AI non sono più separati — forma e funzionalità diventano un’unica cosa. Questo significa che Google si candida a riscrivere le regole del gioco, sfidando chi finora dettava legge. 🧠 Per chi progetta interfacce, niente sarà più come prima: l’AI smette di essere un plugin e diventa il sistema operativo del tuo workflow. 🛠️ Hai già un progetto che rimandi da mesi? Forse è ora di testarlo."
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Google is shaking up AI design!",
+          "voiceover": "DeepMind ha scelto il modello sbagliato? No, ha scelto quello giusto per un motivo preciso.",
+          "on_screen_text": "Google is shaking up AI design!",
+          "visual_direction": "Animazione del logo Google che si trasforma in testo.",
+          "caption": "Rivoluzione nel design AI!",
+          "tone": "urgent",
+          "emphasis_word": "rivoluzione",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Forma e funzionalità unite!",
+          "voiceover": "Forma e funzionalità non sono più separate. Adesso l'interfaccia pensa con te.",
+          "on_screen_text": "Forma & Funzionalità Unite!",
+          "visual_direction": "Transizioni fluide tra forme geometriche.",
+          "caption": "Design innovativo!",
+          "tone": "informative",
+          "emphasis_word": "unite",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Nuove regole del design!",
+          "voiceover": "Google ha cambiato le regole del design AI. Gli altri ora devono rincorrere.",
+          "on_screen_text": "Nuove Regole del Design!",
+          "visual_direction": "Grafica che mostra un percorso in salita.",
+          "caption": "Non restare indietro!",
+          "tone": "urgent",
+          "emphasis_word": "",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Addio ai vecchi manuali!",
+          "voiceover": "Ogni progettista dovrà buttare via i vecchi manuali. L'AI non è più un extra.",
+          "on_screen_text": "Addio ai vecchi manuali!",
+          "visual_direction": "Immagini di manuali che vengono strappati.",
+          "caption": "Evoluzione necessaria!",
+          "tone": "inspiring",
+          "emphasis_word": "evoluzione",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Inizia oggi!",
+          "voiceover": "Provare costa meno di un caffè. Inizia oggi e vedi la differenza.",
+          "on_screen_text": "Inizia Oggi!",
+          "visual_direction": "Icone di caffè e AI che si sovrappongono.",
+          "caption": "Sperimenta il futuro!",
+          "tone": "inspiring",
+          "emphasis_word": "",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Scopri di più su Google AI!"
     }
   },
   "instagram_caption": "DeepMind ha preso un modello AI non tra i più potenti e lo ha messo al centro del suo nuovo tool di design. 🎯 Il punto? Hanno creato un framework dove interfaccia e ragionamento dell’AI non sono più separati — forma e funzionalità diventano un’unica cosa. Questo significa che Google si candida a riscrivere le regole del gioco, sfidando chi finora dettava legge. 🧠 Per chi progetta interfacce, niente sarà più come prima: l’AI smette di essere un plugin e diventa il sistema operativo del tuo workflow. 🛠️ Hai già un progetto che rimandi da mesi? Forse è ora di testarlo.",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-pics.png?resize=1200,736",
   "savedAt": "2026-05-19T20:03:28.471Z",
-  "sourceId": "584adb99087529d47120117215ef666c"
+  "sourceId": "584adb99087529d47120117215ef666c",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

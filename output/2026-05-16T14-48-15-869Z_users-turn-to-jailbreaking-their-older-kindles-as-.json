@@ -55,11 +55,72 @@
       "caption": "Amazon ha smesso di rilasciare aggiornamenti per i Kindle più vecchi, lasciandoli senza patch di sicurezza. 📵 Chi li possiede ora ha due strade: tenere un dispositivo esposto a vulnerabilità, o jailbreakarlo per avere controllo totale. 🔓 Un Kindle \"liberato\" può rimuovere pubblicità, installare software custom e comunque usare il Kindle Store. Per te significa scegliere tra una scatola chiusa e un e-reader senza limiti. Quale dei tuoi vecchi dispositivi merita una seconda vita? 📚"
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Amazon stops supporting older Kindles.",
+          "voiceover": "Did you know Amazon has stopped supporting older Kindles?",
+          "on_screen_text": "Amazon stops support!",
+          "visual_direction": "Bold letters appearing with a clock ticking sound.",
+          "caption": "Urgent news for Kindle users.",
+          "tone": "urgent",
+          "emphasis_word": "support",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "No security patches means risk.",
+          "voiceover": "No security patches mean your data is at risk.",
+          "on_screen_text": "Data at risk!",
+          "visual_direction": "Red alert graphics flashing.",
+          "caption": "Protect your information!",
+          "tone": "urgent",
+          "emphasis_word": "risk",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "People jailbreaking for control.",
+          "voiceover": "People are now jailbreaking their Kindles to take control.",
+          "on_screen_text": "Take control!",
+          "visual_direction": "Visual transition to users modifying devices.",
+          "caption": "Join the movement!",
+          "tone": "inspiring",
+          "emphasis_word": "control",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "A jailbroken Kindle has no limits.",
+          "voiceover": "A jailbroken Kindle has no limits on what you can do.",
+          "on_screen_text": "No limits!",
+          "visual_direction": "Expanding graphics showing endless possibilities.",
+          "caption": "Freedom awaits!",
+          "tone": "inspiring",
+          "emphasis_word": "limits",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Lock it or jailbreak for freedom?",
+          "voiceover": "Will you keep it locked or jailbreak for freedom?",
+          "on_screen_text": "Your choice!",
+          "visual_direction": "Split screen with locked vs. jailbroken Kindle.",
+          "caption": "Make your decision!",
+          "tone": "urgent",
+          "emphasis_word": "freedom",
+          "layout": "split"
+        }
+      ],
+      "duration_sec": 27,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Jailbreak for your freedom now!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "Amazon ha smesso di rilasciare aggiornamenti per i Kindle più vecchi, lasciandoli senza patch di sicurezza. 📵 Chi li possiede ora ha due strade: tenere un dispositivo esposto a vulnerabilità, o jailbreakarlo per avere controllo totale. 🔓 Un Kindle \"liberato\" può rimuovere pubblicità, installare software custom e comunque usare il Kindle Store. Per te significa scegliere tra una scatola chiusa e un e-reader senza limiti. Quale dei tuoi vecchi dispositivi merita una seconda vita? 📚",
@@ -112,8 +173,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2017/11/2007-kindle-1st-gen-angle-gettyimages-93559279.jpg?resize=1200,791",
   "savedAt": "2026-05-16T14:48:30.846Z",
   "sourceId": "163ac43a9d21d7d4f0a41dc1fefe153b",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "kinetic_typography",
   "render_status": {
     "low": null,
     "medium": null,

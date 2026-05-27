@@ -51,11 +51,72 @@
       "caption": "Greg Brockman, il co-fondatore di OpenAI, lascia la ricerca per tornare a gestire il prodotto e la roadmap ⚙️. In pratica, smette di occuparsi di cosa funziona per decidere cosa esce e quando. Il messaggio è che l'azienda vuole più controllo sulle sue release, anche a costo di essere meno sperimentale. Per chi usa le API, cambia tutto: ora priorità a stabilità e costi, niente più funzionalità che spariscono in una settimana 💸. Puoi provare un endpoint oggi, ma domani potrebbe non esserci più. Tu come ti organizzerai?"
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "OpenAI co-founder makes a big move!",
+          "voiceover": "Il fondatore lascia la ricerca e torna sul prodotto.",
+          "on_screen_text": "TORNA SUL PRODOTTO",
+          "visual_direction": "Animazione di testo che appare con un effetto di zoom.",
+          "caption": "Un cambiamento importante.",
+          "tone": "urgent",
+          "emphasis_word": "PRODOTTO",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "It's not just a detail.",
+          "voiceover": "Non è un dettaglio: cambia tutto il focus.",
+          "on_screen_text": "CAMBIA TUTTO IL FOCUS",
+          "visual_direction": "Testo che si dissolve e si sostituisce.",
+          "caption": "Nuove prospettive.",
+          "tone": "informative",
+          "emphasis_word": "CAMBIA",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "API users, pay attention!",
+          "voiceover": "Per chi usa le API: stabilità e costi prima di tutto.",
+          "on_screen_text": "STABILITÀ E COSTI",
+          "visual_direction": "Testo che scorre da sinistra a destra.",
+          "caption": "Rimanere competitivi.",
+          "tone": "urgent",
+          "emphasis_word": "STABILITÀ",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Watch out for features!",
+          "voiceover": "Le feature sperimentali? Possono sparire da un giorno all'altro.",
+          "on_screen_text": "SPARIRE DA UN GIORNO ALL'ALTRO",
+          "visual_direction": "Testo che si frantuma e scompare.",
+          "caption": "Incertezza nel futuro.",
+          "tone": "urgent",
+          "emphasis_word": "SPARIRE",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Act now!",
+          "voiceover": "Prova oggi: domani potrebbe non esserci più.",
+          "on_screen_text": "PROVA OGGI!",
+          "visual_direction": "Testo che lampeggia per attirare attenzione.",
+          "caption": "Non perdere l'opportunità.",
+          "tone": "inspiring",
+          "emphasis_word": "OGGI",
+          "layout": "single"
+        }
+      ],
+      "duration_sec": 27,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Non aspettare, inizia ora!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "Greg Brockman, il co-fondatore di OpenAI, lascia la ricerca per tornare a gestire il prodotto e la roadmap ⚙️. In pratica, smette di occuparsi di cosa funziona per decidere cosa esce e quando. Il messaggio è che l'azienda vuole più controllo sulle sue release, anche a costo di essere meno sperimentale. Per chi usa le API, cambia tutto: ora priorità a stabilità e costi, niente più funzionalità che spariscono in una settimana 💸. Puoi provare un endpoint oggi, ma domani potrebbe non esserci più. Tu come ti organizzerai?",
@@ -108,8 +169,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800",
   "savedAt": "2026-05-16T18:52:34.479Z",
   "sourceId": "85331331526c4eba99035405eae9f65a",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "kinetic_typography",
   "render_status": {
     "low": null,
     "medium": null,

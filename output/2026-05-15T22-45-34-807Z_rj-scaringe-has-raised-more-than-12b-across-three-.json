@@ -51,11 +51,72 @@
       "caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, e gli investitori ne vogliono ancora. Rivian brucia più cassa di quanti camion venda 💸. Puntava sui mercati da mille miliardi: EV, batterie, guida autonoma. Ma perde soldi su ogni veicolo. Il problema non è il mercato, ma il tempo giusto per entrare ⏳. Se lavori nell'auto o nella finanza, questo cambia come valuti le promesse dei fondatori 🚗. Quanti camion devono vendere prima che il conto torni?"
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "RJ Scaringe's staggering success!",
+          "voiceover": "Twelve billion dollars raised.",
+          "on_screen_text": "12 BILLION DOLLARS RAISED",
+          "visual_direction": "Bold text animating in with a dramatic zoom",
+          "caption": "Impressive fundraising achievements!",
+          "tone": "urgent",
+          "emphasis_word": "BILLION",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Three startups, huge potential!",
+          "voiceover": "Three companies, trillion-dollar markets each.",
+          "on_screen_text": "THREE COMPANIES, TRILLION-DOLLAR MARKETS",
+          "visual_direction": "Text slides in from the sides",
+          "caption": "The market is massive!",
+          "tone": "informative",
+          "emphasis_word": "TRILLION-DOLLAR",
+          "layout": "split"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Rivian's struggles revealed!",
+          "voiceover": "Rivian still burns cash on every truck.",
+          "on_screen_text": "BURNS CASH ON EVERY TRUCK",
+          "visual_direction": "Text drops in with a burning effect",
+          "caption": "Challenges in production!",
+          "tone": "urgent",
+          "emphasis_word": "BURNS",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Timing is everything!",
+          "voiceover": "Right bet, wrong timing.",
+          "on_screen_text": "RIGHT BET, WRONG TIMING",
+          "visual_direction": "Text fades in and out with a clock animation",
+          "caption": "Timing can make or break!",
+          "tone": "informative",
+          "emphasis_word": "WRONG",
+          "layout": "split"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Focus on the details!",
+          "voiceover": "Next time, ask about unit economics.",
+          "on_screen_text": "ASK ABOUT UNIT ECONOMICS",
+          "visual_direction": "Text bounces in with a question mark effect",
+          "caption": "Stay informed and savvy!",
+          "tone": "inspiring",
+          "emphasis_word": "ECONOMICS",
+          "layout": "single"
+        }
+      ],
+      "duration_sec": 26,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Learn more about startup success!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "RJ Scaringe ha raccolto 12 miliardi di dollari in tre startup, e gli investitori ne vogliono ancora. Rivian brucia più cassa di quanti camion venda 💸. Puntava sui mercati da mille miliardi: EV, batterie, guida autonoma. Ma perde soldi su ogni veicolo. Il problema non è il mercato, ma il tempo giusto per entrare ⏳. Se lavori nell'auto o nella finanza, questo cambia come valuti le promesse dei fondatori 🚗. Quanti camion devono vendere prima che il conto torni?",
@@ -108,8 +169,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2025/12/rj-scaringe.jpeg?resize=1200,900",
   "savedAt": "2026-05-15T22:45:46.116Z",
   "sourceId": "db4a531cb91ee4f28dfdaa09296c7f4f",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "kinetic_typography",
   "render_status": {
     "low": null,
     "medium": null,

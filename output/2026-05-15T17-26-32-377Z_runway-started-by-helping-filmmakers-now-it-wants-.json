@@ -51,11 +51,72 @@
       "caption": "Runway ha addestrato un modello su 48 milioni di video, e ora batte DeepMind di Google nella generazione del movimento umano. 🎬 Non si tratta di capire parole, ma di come ci muoviamo: camminate, gesti, espressioni diventano fluidi e realistici in pochi secondi. ⏱️ Per chi lavora con video, significa saltare ore di animazione manuale e modificare il risultato in tempo reale. Un clip da 10 secondi costa meno di un caffè. ☕️ Hai già confrontato il movimento che genera con quello di DeepMind? 👀"
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Runway ha appena battuto Google!",
+          "voiceover": "Runway ha appena battuto Google nel mondo dell'AI.",
+          "on_screen_text": "Runway ha battuto Google",
+          "visual_direction": "Animazione di testo che esplode sullo schermo.",
+          "caption": "Scopri come!",
+          "tone": "urgent",
+          "emphasis_word": "battuto",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "...",
+          "voiceover": "Addestrato su 48 milioni di video, ora è potente.",
+          "on_screen_text": "48 milioni di video",
+          "visual_direction": "Testo che scorre rapidamente attraverso uno sfondo video.",
+          "caption": "Impressionante!",
+          "tone": "informative",
+          "emphasis_word": "48 milioni",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "...",
+          "voiceover": "Genera movimenti umani perfetti con facilità.",
+          "on_screen_text": "Movimenti umani perfetti",
+          "visual_direction": "Effetto di movimento fluido con testo in transizione.",
+          "caption": "Futuro dell'editing!",
+          "tone": "inspiring",
+          "emphasis_word": "perfetti",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "...",
+          "voiceover": "I filmmaker risparmiano ore di editing ogni giorno.",
+          "on_screen_text": "Risparmia ore di editing",
+          "visual_direction": "Testo che si dissolve mentre si mostra un filmmaker al lavoro.",
+          "caption": "Magia dell'AI!",
+          "tone": "informative",
+          "emphasis_word": "ore",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "...",
+          "voiceover": "Prova un clip e confrontalo con DeepMind.",
+          "on_screen_text": "Prova e confronta",
+          "visual_direction": "Testo che si illumina e sfuma.",
+          "caption": "Scopri la differenza!",
+          "tone": "urgent",
+          "emphasis_word": "confronta",
+          "layout": "single"
+        }
+      ],
+      "duration_sec": 30,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Scopri di più su Runway!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "Runway ha addestrato un modello su 48 milioni di video, e ora batte DeepMind di Google nella generazione del movimento umano. 🎬 Non si tratta di capire parole, ma di come ci muoviamo: camminate, gesti, espressioni diventano fluidi e realistici in pochi secondi. ⏱️ Per chi lavora con video, significa saltare ore di animazione manuale e modificare il risultato in tempo reale. Un clip da 10 secondi costa meno di un caffè. ☕️ Hai già confrontato il movimento che genera con quello di DeepMind? 👀",
@@ -108,8 +169,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/04/Runway-founders.jpg?resize=1200,960",
   "savedAt": "2026-05-15T17:26:59.640Z",
   "sourceId": "91ef357f0757fbac78c2ff239b897944",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "kinetic_typography",
   "render_status": {
     "low": null,
     "medium": null,

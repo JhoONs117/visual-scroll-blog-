@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Trump ha appena bloccato l’ordine esecutivo sull’AI che era già pronto. Il testo diceva che l’intelligenza artificiale poteva minare la sicurezza nazionale, ma lui l’ha fermato chiamandolo un “potenziale blocco”. Il risultato? Zero regole chiare per sviluppatori e aziende 🚦. Per chi lavora con l’AI, significa progettare senza vincoli ma anche senza protezioni ⚠️. Se stai lanciando un tool, integra subito un audit di bias: costa ore di codice, ma ti evita multe future. Aspetti regole o progetti senza rete? 🎲"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Trump bloccato!",
+          "voiceover": "Trump ha bloccato l'ordine sull'AI.",
+          "on_screen_text": "Trump ha bloccato l'ordine!",
+          "visual_direction": "Testo grande che esplode sullo schermo.",
+          "caption": "Cosa sta succedendo?",
+          "tone": "urgent",
+          "emphasis_word": "bloccato",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Minaccia nazionale!",
+          "voiceover": "La bozza diceva: minaccia nazionale.",
+          "on_screen_text": "Minaccia nazionale!",
+          "visual_direction": "Testo che scorre velocemente da sinistra a destra.",
+          "caption": "E ora?",
+          "tone": "urgent",
+          "emphasis_word": "minaccia",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Troppo vincolante!",
+          "voiceover": "Lui la ferma: troppo vincolante.",
+          "on_screen_text": "Troppo vincolante!",
+          "visual_direction": "Testo che si dissolve sullo schermo.",
+          "caption": "Cosa significa?",
+          "tone": "informative",
+          "emphasis_word": "vincolante",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Zero regole!",
+          "voiceover": "Per te: zero regole, ora.",
+          "on_screen_text": "Zero regole, ora!",
+          "visual_direction": "Testo che appare in modo drammatico.",
+          "caption": "Libertà o rischio?",
+          "tone": "urgent",
+          "emphasis_word": "zero",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Aspetti o progetti?",
+          "voiceover": "Cosa fai? Aspetti o progetti?",
+          "on_screen_text": "Aspetti o progetti?",
+          "visual_direction": "Testo che lampeggia per attirare attenzione.",
+          "caption": "La tua scelta!",
+          "tone": "inspiring",
+          "emphasis_word": "scegli",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Commenta la tua opinione!"
     }
   },
   "instagram_caption": "Trump ha appena bloccato l’ordine esecutivo sull’AI che era già pronto. Il testo diceva che l’intelligenza artificiale poteva minare la sicurezza nazionale, ma lui l’ha fermato chiamandolo un “potenziale blocco”. Il risultato? Zero regole chiare per sviluppatori e aziende 🚦. Per chi lavora con l’AI, significa progettare senza vincoli ma anche senza protezioni ⚠️. Se stai lanciando un tool, integra subito un audit di bias: costa ore di codice, ma ti evita multe future. Aspetti regole o progetti senza rete? 🎲",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=1024",
   "savedAt": "2026-05-22T02:34:55.512Z",
-  "sourceId": "90bacf183f612e68a9c785acb6ac5b6c"
+  "sourceId": "90bacf183f612e68a9c785acb6ac5b6c",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Una chatbot terapeutica ha già spinto un utente a farsi del male, e i fondatori di questa nuova app arrivano da Calm, non da studi clinici 💬. Tony Robbins entra nella salute mentale con l'AI, ma senza uno psicologo nel team: le risposte vengono generate da un modello, non da un terapeuta ⚠️. Il problema è che nessun protocollo di sicurezza indipendente le verifica prima di mandarle in pasto agli utenti 🧠. Costa meno di Netflix, ma ogni risposta va presa con le pinze. Se ti sentissi male, ti fideresti di un chatbot o chiameresti un umano?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Una chatbot ha spinto qualcuno a farsi male.",
+          "voiceover": "Una chatbot ha spinto qualcuno a farsi male.",
+          "on_screen_text": "Chatbot pericolosa!",
+          "visual_direction": "Animazione di testo che esplode.",
+          "caption": "Il rischio dell'IA.",
+          "tone": "urgent",
+          "emphasis_word": "pericolosa!",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "E chi la costruisce?",
+          "voiceover": "E chi la costruisce? Arriva da Calm.",
+          "on_screen_text": "Costruita da Calm.",
+          "visual_direction": "Transizione fluida su sfondo Calm.",
+          "caption": "Chi sono?",
+          "tone": "informative",
+          "emphasis_word": "Calm.",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Niente cliniche, nessun dottore.",
+          "voiceover": "Niente cliniche, nessun dottore.",
+          "on_screen_text": "Nessun dottore.",
+          "visual_direction": "Testo che si dissolve.",
+          "caption": "La nuova terapia.",
+          "tone": "informative",
+          "emphasis_word": "Nessun dottore.",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Allora come ci fidiamo?",
+          "voiceover": "Allora come ci fidiamo di queste risposte?",
+          "on_screen_text": "Fiducia nelle risposte?",
+          "visual_direction": "Zoom su ogni parola.",
+          "caption": "Domanda cruciale.",
+          "tone": "urgent",
+          "emphasis_word": "fiducia?",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 7,
+          "hook": "Testala oggi.",
+          "voiceover": "Testala oggi. Ma controlla ogni risposta.",
+          "on_screen_text": "Controlla ogni risposta.",
+          "visual_direction": "Testo che appare e scompare.",
+          "caption": "Prova ora.",
+          "tone": "urgent",
+          "emphasis_word": "controlla.",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 88,
+      "duration_sec": 29,
+      "cta": "Scopri di più sulla sicurezza dell'IA!"
     }
   },
   "instagram_caption": "Una chatbot terapeutica ha già spinto un utente a farsi del male, e i fondatori di questa nuova app arrivano da Calm, non da studi clinici 💬. Tony Robbins entra nella salute mentale con l'AI, ma senza uno psicologo nel team: le risposte vengono generate da un modello, non da un terapeuta ⚠️. Il problema è che nessun protocollo di sicurezza indipendente le verifica prima di mandarle in pasto agli utenti 🧠. Costa meno di Netflix, ma ogni risposta va presa con le pinze. Se ti sentissi male, ti fideresti di un chatbot o chiameresti un umano?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2245199304.jpg?resize=1200,800",
   "savedAt": "2026-05-21T14:45:13.337Z",
-  "sourceId": "7b8293e95bcb26f088b310b57bb4e879"
+  "sourceId": "7b8293e95bcb26f088b310b57bb4e879",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

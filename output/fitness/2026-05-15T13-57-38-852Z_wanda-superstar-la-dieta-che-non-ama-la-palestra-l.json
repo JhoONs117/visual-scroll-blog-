@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri il segreto di Wanda!",
+          "voiceover": "La disciplina è più forte dei geni. Scopri come.",
+          "on_screen_text": "Disciplina batte geni!",
+          "visual_direction": "Inquadratura di Wanda che si allena intensamente.",
+          "caption": "La forza viene dal sacrificio."
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Ogni ripetizione conta!",
+          "voiceover": "Ogni ripetizione costruisce la tua forza e resistenza.",
+          "on_screen_text": "Ogni ripetizione costruisce forza.",
+          "visual_direction": "Riprese ravvicinate di Wanda durante gli esercizi.",
+          "caption": "Sforzati, non mollare!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 7,
+          "hook": "Attenzione alla postura!",
+          "voiceover": "Contrai il core per una spinta controllata e sicura.",
+          "on_screen_text": "Contrai il core!",
+          "visual_direction": "Dimostrazione di una corretta postura durante un esercizio.",
+          "caption": "Sicurezza prima di tutto!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Evita infortuni!",
+          "voiceover": "Non iperestendere mai la schiena nello sforzo.",
+          "on_screen_text": "Niente iperestensioni!",
+          "visual_direction": "Wanda corregge la postura di un compagno.",
+          "caption": "Impara a proteggerti."
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Pronti per la sfida?",
+          "voiceover": "Oggi fai 3 serie da 12 ripetizioni. Inizia ora!",
+          "on_screen_text": "Fai 3 serie da 12!",
+          "visual_direction": "Wanda incoraggia altri durante l'allenamento.",
+          "caption": "Inizia il tuo percorso!"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Segui per più consigli fitness!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a7678193bd.jpeg",
   "savedAt": "2026-05-15T13:57:59.289Z",
   "sourceId": "3e0144c966f5f4d6a3964f4971d813df",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

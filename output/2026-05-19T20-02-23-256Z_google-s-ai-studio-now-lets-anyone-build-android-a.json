@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Il codice generato dall’AI Studio funziona offline al primo tentativo, senza connessione né correzioni 🤖. Google ha aperto a tutti la possibilità di costruire app Android in pochi minuti, anche da un normale telefono da 6 pollici 📱. L’export è immediato, zero errori e zero dipendenze dal cloud ⚡. Per chi lavora su prototipi, questo significa bypassare ore di debugging e test. Chi non prova oggi, lascia un vantaggio concreto a chi lo fa domani mattina 🧠. Apri AI Studio, genera un’app con un pulsante e un contatore: ci metti meno di quanto pensi."
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri Google AI Studio!",
+          "voiceover": "Apri Google AI Studio e in pochi minuti buildi un’app.",
+          "on_screen_text": "Builda un’app in pochi minuti!",
+          "visual_direction": "Animazione di testo che appare rapidamente.",
+          "caption": "Inizia ora!",
+          "tone": "urgent",
+          "emphasis_word": "app",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Funziona solo su schermi da 6 pollici.",
+          "voiceover": "Funziona solo su schermi da 6 pollici.",
+          "on_screen_text": "Solo su schermi da 6\"",
+          "visual_direction": "Zoom su un telefono con schermo da 6 pollici.",
+          "caption": "Scopri di più!",
+          "tone": "informative",
+          "emphasis_word": "6\"",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Il codice generato è offline.",
+          "voiceover": "Il codice generato parte offline, al primo tentativo.",
+          "on_screen_text": "Codice offline al primo tentativo!",
+          "visual_direction": "Testo che si scrive in tempo reale.",
+          "caption": "Facile e veloce!",
+          "tone": "urgent",
+          "emphasis_word": "offline",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Chi non prova ora perde terreno.",
+          "voiceover": "Chi non prova ora perde terreno sui competitor.",
+          "on_screen_text": "Non perdere terreno!",
+          "visual_direction": "Animazione di una corsa tra competitor.",
+          "caption": "Agisci subito!",
+          "tone": "urgent",
+          "emphasis_word": "perdere",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Apri oggi e costruisci un prototipo.",
+          "voiceover": "Apri oggi, costruisci un prototipo e vedi.",
+          "on_screen_text": "Inizia a costruire oggi!",
+          "visual_direction": "Chiusura con logo di Google AI Studio.",
+          "caption": "Non aspettare!",
+          "tone": "inspiring",
+          "emphasis_word": "",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Inizia a costruire la tua app ora!"
     }
   },
   "instagram_caption": "Il codice generato dall’AI Studio funziona offline al primo tentativo, senza connessione né correzioni 🤖. Google ha aperto a tutti la possibilità di costruire app Android in pochi minuti, anche da un normale telefono da 6 pollici 📱. L’export è immediato, zero errori e zero dipendenze dal cloud ⚡. Per chi lavora su prototipi, questo significa bypassare ore di debugging e test. Chi non prova oggi, lascia un vantaggio concreto a chi lo fa domani mattina 🧠. Apri AI Studio, genera un’app con un pulsante e un contatore: ci metti meno di quanto pensi.",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/08/Pixel-10-Pro-feat-.jpg?resize=1200,675",
   "savedAt": "2026-05-19T20:03:15.098Z",
-  "sourceId": "8a8955bb3b4f2a881529b909564eddd0"
+  "sourceId": "8a8955bb3b4f2a881529b909564eddd0",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

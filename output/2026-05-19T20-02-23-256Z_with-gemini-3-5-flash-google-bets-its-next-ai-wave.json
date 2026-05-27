@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Google ha rilasciato un modello di AI che non si limita a chattare: esegue compiti per conto tuo, come prenotare o compilare moduli. Si chiama Gemini 3.5 Flash e agisce come un assistente che decide e completa al posto tuo. Il problema? Senza istruzioni precise, sbaglia tutto. 🧠 Chi progetta workflow dettagliati oggi si tiene al sicuro domani. ⏳ Trova un task ripetitivo che odi, dagli un contesto chiaro e lascialo fare a lui. Cosa gli affideresti subito? ✍️"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Gli agenti AI falliscono senza un contesto preciso.",
+          "voiceover": "Gli agenti AI falliscono senza un contesto preciso.",
+          "on_screen_text": "AGENTI AI FALLISCONO",
+          "visual_direction": "Testo in movimento che si frantuma",
+          "caption": "Contesto è tutto!",
+          "tone": "urgent",
+          "emphasis_word": "AGENTI",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Google punta tutto su Gemini 3.5 Flash.",
+          "voiceover": "Google punta tutto su Gemini 3.5 Flash.",
+          "on_screen_text": "GEMINI 3.5 FLASH",
+          "visual_direction": "Animazione di un razzo che decolla",
+          "caption": "Una nuova era!",
+          "tone": "informative",
+          "emphasis_word": "FLASH",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Non solo chatbot: agiscono per te.",
+          "voiceover": "Non solo chatbot: agiscono per te.",
+          "on_screen_text": "AGISCONO PER TE",
+          "visual_direction": "Testo che si illumina e pulsa",
+          "caption": "Intelligenza attiva!",
+          "tone": "inspiring",
+          "emphasis_word": "AGISCONO",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Se progetti il workflow, non sarai sostituito.",
+          "voiceover": "Se progetti il workflow, non sarai sostituito.",
+          "on_screen_text": "NON SARAI SOSTITUITO",
+          "visual_direction": "Testo che cresce e si espande",
+          "caption": "Rimani rilevante!",
+          "tone": "urgent",
+          "emphasis_word": "SOSTITUITO",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Testane uno oggi su un task ripetitivo.",
+          "voiceover": "Testane uno oggi su un task ripetitivo.",
+          "on_screen_text": "TESTALO OGGI!",
+          "visual_direction": "Testo che esplode in colori",
+          "caption": "Inizia ora!",
+          "tone": "informative",
+          "emphasis_word": "",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Scopri Gemini 3.5 Flash ora!"
     }
   },
   "instagram_caption": "Google ha rilasciato un modello di AI che non si limita a chattare: esegue compiti per conto tuo, come prenotare o compilare moduli. Si chiama Gemini 3.5 Flash e agisce come un assistente che decide e completa al posto tuo. Il problema? Senza istruzioni precise, sbaglia tutto. 🧠 Chi progetta workflow dettagliati oggi si tiene al sicuro domani. ⏳ Trova un task ripetitivo che odi, dagli un contesto chiaro e lascialo fare a lui. Cosa gli affideresti subito? ✍️",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_1192.jpg?resize=1200,900",
   "savedAt": "2026-05-19T20:02:49.456Z",
-  "sourceId": "333d754287f2fbc807255815927d3236"
+  "sourceId": "333d754287f2fbc807255815927d3236",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

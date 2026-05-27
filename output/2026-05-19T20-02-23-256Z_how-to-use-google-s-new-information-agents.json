@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Google ha appena lanciato agenti che cercano per te su file, email e web quello che ti eri perso.  \nTi portano tutto—ma non sanno ancora cosa merita davvero la tua attenzione.  \nIl rumore cresce: ora decidi tu cosa filtrare.  \nPer il tuo lavoro significa meno tempo a scovare dati, più ore a scegliere cosa è importante.  \nHai mai chiesto a uno strumento cosa ti sei perso ieri? 🔍📧🗂️"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri il potere di Google!",
+          "voiceover": "Google cerca cose per te.",
+          "on_screen_text": "Google cerca cose per te.",
+          "visual_direction": "Testo che appare rapidamente con un effetto di zoom.",
+          "caption": "Scopri di più!",
+          "tone": "informative",
+          "emphasis_word": "Google",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Ma cosa conta davvero?",
+          "voiceover": "Ma non sa cosa conta.",
+          "on_screen_text": "Ma non sa cosa conta.",
+          "visual_direction": "Testo che si dissolve e riappare.",
+          "caption": "Riflessione importante.",
+          "tone": "urgent",
+          "emphasis_word": "conta",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "La ricerca è nelle tue mani.",
+          "voiceover": "Tu cerchi, lui setaccia.",
+          "on_screen_text": "Tu cerchi, lui setaccia.",
+          "visual_direction": "Testo che scorre da destra a sinistra.",
+          "caption": "Prendi il controllo!",
+          "tone": "inspiring",
+          "emphasis_word": "cerchi",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Sei tu a decidere.",
+          "voiceover": "Decidi ancora tu cosa è importante.",
+          "on_screen_text": "Decidi tu cosa è importante.",
+          "visual_direction": "Testo che si ingrandisce e poi si riduce.",
+          "caption": "Sii il protagonista.",
+          "tone": "informative",
+          "emphasis_word": "importante",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Inizia oggi stesso!",
+          "voiceover": "Provane uno oggi.",
+          "on_screen_text": "Provane uno oggi.",
+          "visual_direction": "Testo che lampeggia per attirare attenzione.",
+          "caption": "Inizia subito!",
+          "tone": "urgent",
+          "emphasis_word": "",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 25,
+      "cta": "Scopri di più su Google!"
     }
   },
   "instagram_caption": "Google ha appena lanciato agenti che cercano per te su file, email e web quello che ti eri perso.  \nTi portano tutto—ma non sanno ancora cosa merita davvero la tua attenzione.  \nIl rumore cresce: ora decidi tu cosa filtrare.  \nPer il tuo lavoro significa meno tempo a scovare dati, più ore a scegliere cosa è importante.  \nHai mai chiesto a uno strumento cosa ti sei perso ieri? 🔍📧🗂️",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/G-information-agents.png?resize=1200,750",
   "savedAt": "2026-05-19T20:03:02.057Z",
-  "sourceId": "be46860691f59b4686c2046c39fd0b54"
+  "sourceId": "be46860691f59b4686c2046c39fd0b54",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

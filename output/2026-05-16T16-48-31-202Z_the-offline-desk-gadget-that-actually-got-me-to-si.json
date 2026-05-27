@@ -51,11 +51,72 @@
       "caption": "Un sensore industriale da 30 dollari ora ti dice in faccia quanto sei curvo sulla scrivania, senza vibrarti addosso. Il dispositivo calibra ogni millimetro di slouching, ma il suo vero trucco non è la vibrazione: è la vergogna silenziosa di un dato 📊 che compare sullo schermo. Dopo tre giorni non ignori più la schiena, perché il numero non mente 🦴. Se lavori davanti a un monitor, cambia la postura senza aspettare il radiologo tra un anno. Ordini ora o misuri la curvatura dopo il prossimo caffè ☕️?"
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Stai seduto tutto il giorno?",
+          "voiceover": "Questo coso da 30 dollari ti sistema la schiena per sempre.",
+          "on_screen_text": "Sistema la schiena per sempre",
+          "visual_direction": "Inquadratura di un ufficio con una persona seduta.",
+          "caption": "Il gadget che cambia tutto!",
+          "tone": "informative",
+          "emphasis_word": "sistema",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Ma cosa rende questo gadget speciale?",
+          "voiceover": "Ha un sensore industriale dentro, calibrato per chi sta seduto.",
+          "on_screen_text": "Sensore industriale",
+          "visual_direction": "Zoom sulla tecnologia interna del gadget.",
+          "caption": "Tecnologia avanzata!",
+          "tone": "informative",
+          "emphasis_word": "sensore",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Ecco la parte geniale!",
+          "voiceover": "Non vibra. Ti fa sentire in colpa in silenzio.",
+          "on_screen_text": "Ti fa sentire in colpa",
+          "visual_direction": "Persona che guarda il gadget con espressione pensierosa.",
+          "caption": "Un cambiamento silenzioso.",
+          "tone": "informative",
+          "emphasis_word": "colpa",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Non puoi ignorarlo!",
+          "voiceover": "Il dato è lì, vero. Non puoi più ignorare la tua postura.",
+          "on_screen_text": "Non ignorare la postura",
+          "visual_direction": "Grafico che mostra la postura corretta e scorretta.",
+          "caption": "Fatti vedere!",
+          "tone": "urgent",
+          "emphasis_word": "ignorare",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Prendi una decisione!",
+          "voiceover": "Compralo oggi o preparati a misurare la colonna dal dottore.",
+          "on_screen_text": "Compralo oggi!",
+          "visual_direction": "Inquadratura finale del gadget con un pulsante di acquisto.",
+          "caption": "Non aspettare!",
+          "tone": "urgent",
+          "emphasis_word": "oggi",
+          "layout": "single"
+        }
+      ],
+      "duration_sec": 28,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Acquista ora per una schiena dritta!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "Un sensore industriale da 30 dollari ora ti dice in faccia quanto sei curvo sulla scrivania, senza vibrarti addosso. Il dispositivo calibra ogni millimetro di slouching, ma il suo vero trucco non è la vibrazione: è la vergogna silenziosa di un dato 📊 che compare sullo schermo. Dopo tre giorni non ignori più la schiena, perché il numero non mente 🦴. Se lavori davanti a un monitor, cambia la postura senza aspettare il radiologo tra un anno. Ordini ora o misuri la curvatura dopo il prossimo caffè ☕️?",
@@ -108,8 +169,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Deepcare-feat.jpg?resize=1200,675",
   "savedAt": "2026-05-16T16:48:48.532Z",
   "sourceId": "d1f0dad8f22ffc8f0a4e02d103570069",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "kinetic_typography",
   "render_status": {
     "low": null,
     "medium": null,

@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Elon Musk ha definito Sam Altman un “ladro” della missione di OpenAI, ma in tribunale è emerso che Musk stesso voleva trasformare la società in for-profit. Nel 2015 i due fondatori promettevano di salvare l'IA dalle grandi corporation, ma dietro le quinte entrambi spingevano per il controllo del progetto. Con miliardi in arrivo, l'ideale non-profit è stato accantonato subito. Quando usi strumenti come ChatGPT, il vero potere non sta nel codice, ma in chi decide le regole di accesso. Un’origine nobile è spesso una storia riscritta. 💼⚖️💰"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Elon ha chiamato Sam ladro.",
+          "voiceover": "Elon Musk ha accusato Sam Altman di rubare.",
+          "on_screen_text": "Elon ha chiamato Sam ladro.",
+          "visual_direction": "Testo che appare in modo dinamico.",
+          "caption": "Accuse sorprendenti.",
+          "tone": "urgent",
+          "emphasis_word": "ladro",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Entrambi volevano il controllo.",
+          "voiceover": "Entrambi cercavano di avere il controllo totale.",
+          "on_screen_text": "Controllo totale.",
+          "visual_direction": "Testo che si divide e converge.",
+          "caption": "Chi comanda?",
+          "tone": "urgent",
+          "emphasis_word": "controllo",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Soldi hanno sepolto gli ideali.",
+          "voiceover": "I soldi hanno oscurato i loro ideali originari.",
+          "on_screen_text": "Soldi vs Ideali.",
+          "visual_direction": "Contrasto tra denaro e ideali.",
+          "caption": "La verità nascosta.",
+          "tone": "informative",
+          "emphasis_word": "ideali",
+          "layout": "split"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Non fidarti delle favole.",
+          "voiceover": "Non fidarti delle storie che senti.",
+          "on_screen_text": "Non fidarti delle favole.",
+          "visual_direction": "Effetto di scrittura a mano.",
+          "caption": "Riflessione necessaria.",
+          "tone": "inspiring",
+          "emphasis_word": "favole",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Controlla chi ha il potere.",
+          "voiceover": "Controlla sempre chi detiene il potere.",
+          "on_screen_text": "Chi ha il potere?",
+          "visual_direction": "Zoom su parole chiave.",
+          "caption": "Sii consapevole.",
+          "tone": "urgent",
+          "emphasis_word": "potere",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 26,
+      "cta": "Segui per altre verità."
     }
   },
   "instagram_caption": "Elon Musk ha definito Sam Altman un “ladro” della missione di OpenAI, ma in tribunale è emerso che Musk stesso voleva trasformare la società in for-profit. Nel 2015 i due fondatori promettevano di salvare l'IA dalle grandi corporation, ma dietro le quinte entrambi spingevano per il controllo del progetto. Con miliardi in arrivo, l'ideale non-profit è stato accantonato subito. Quando usi strumenti come ChatGPT, il vero potere non sta nel codice, ma in chi decide le regole di accesso. Un’origine nobile è spesso una storia riscritta. 💼⚖️💰",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
   "savedAt": "2026-05-20T02:32:26.165Z",
-  "sourceId": "53d03497bf4f8958b81110967a4b7955"
+  "sourceId": "53d03497bf4f8958b81110967a4b7955",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

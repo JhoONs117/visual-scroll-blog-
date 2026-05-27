@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Scopri l'allenamento di Rihanna!",
+          "voiceover": "Vuoi sapere come Rihanna si mantiene in forma?",
+          "on_screen_text": "Disciplina da star: risultati che motivano.",
+          "visual_direction": "Clip di Rihanna che si allena con energia.",
+          "caption": "Rihanna workout inspo!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Cardio e forza: una combinazione vincente!",
+          "voiceover": "Rihanna unisce cardio intenso e esercizi di forza.",
+          "on_screen_text": "Unisce cardio intenso e forza funzionale.",
+          "visual_direction": "Sequenza di esercizi di cardio e sollevamento pesi.",
+          "caption": "Scopri il suo segreto!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Ecco il suo schema di allenamento!",
+          "voiceover": "Alterna sprint e sollevamenti in stile militare.",
+          "on_screen_text": "Alterna sprint e sollevamenti militari.",
+          "visual_direction": "Mostrare Rihanna che esegue sprint e sollevamenti.",
+          "caption": "Allenamento impegnativo!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Non dimenticare il riscaldamento!",
+          "voiceover": "Il riscaldamento è fondamentale per evitare lesioni.",
+          "on_screen_text": "Non saltare il riscaldamento: lesioni sicure.",
+          "visual_direction": "Clip di Rihanna che fa stretching e riscaldamento.",
+          "caption": "Preparati prima di iniziare!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Prova oggi il suo allenamento!",
+          "voiceover": "Fai 20 minuti di interval training come Rihanna.",
+          "on_screen_text": "Oggi: 20 minuti di interval training.",
+          "visual_direction": "Rihanna che incoraggia a provare l'allenamento.",
+          "caption": "Inizia ora!"
+        }
+      ],
+      "duration_sec": 30,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia il tuo allenamento oggi!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/62059452f1bc2.jpeg",
   "savedAt": "2026-05-16T09:35:27.834Z",
   "sourceId": "9d913f10b75a8739d8984c33c50ddf61",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

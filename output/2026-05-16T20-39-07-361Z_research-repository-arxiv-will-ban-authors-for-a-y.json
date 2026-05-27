@@ -51,11 +51,72 @@
       "caption": "Se pubblichi un paper su ArXiv scritto interamente da ChatGPT o Claude, rischi un anno di bando dalla piattaforma. ⚠️ La nuova policy non vieta l'AI in sé, ma solo il caso in cui sostituisca del tutto il tuo contributo umano. Il punto è che stabilire se l'AI ti ha assistito o ha scritto al posto tuo è quasi impossibile, quindi ArXiv ti chiede di dichiarare l'uso in fase di submission. ✍️ Per chi prepara articoli scientifici, questo significa che non dichiarare l'AI o usarla senza supervisione può costarti l'accesso per dodici mesi. Hai già controllato le nuove linee guida? 🔍"
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Usi l'IA per scrivere?",
+          "voiceover": "ArXiv ti banna per un anno se usi l'IA male.",
+          "on_screen_text": "ArXiv ti banna per un anno",
+          "visual_direction": "Testo grande che appare con un effetto di scrittura.",
+          "caption": "Attenzione agli abusi dell'IA!",
+          "tone": "urgent",
+          "emphasis_word": "banna",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Cosa significa per te?",
+          "voiceover": "La regola colpisce solo chi non contribuisce abbastanza.",
+          "on_screen_text": "Colpisce chi non contribuisce",
+          "visual_direction": "Testo che si frantuma e si ricompone.",
+          "caption": "Contribuisci con il tuo lavoro!",
+          "tone": "informative",
+          "emphasis_word": "contribuisce",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Chi ha scritto cosa?",
+          "voiceover": "Il vero problema è capire chi ha scritto cosa.",
+          "on_screen_text": "Chi ha scritto cosa?",
+          "visual_direction": "Testo che si dissolve e riappare in modo confuso.",
+          "caption": "La chiarezza è fondamentale!",
+          "tone": "urgent",
+          "emphasis_word": "chi",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Dichiarazioni obbligatorie!",
+          "voiceover": "Dovrai dichiarare ogni uso di IA.",
+          "on_screen_text": "Dichiarare ogni uso di IA",
+          "visual_direction": "Testo che si illumina come un avviso.",
+          "caption": "Non dimenticare di dichiarare!",
+          "tone": "informative",
+          "emphasis_word": "dichiarare",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Controlla prima di inviare!",
+          "voiceover": "Controlla le linee guida prima di submit.",
+          "on_screen_text": "Controlla le linee guida",
+          "visual_direction": "Testo che scorre verso l'alto.",
+          "caption": "Rimani informato!",
+          "tone": "urgent",
+          "emphasis_word": "linee",
+          "layout": "single"
+        }
+      ],
+      "duration_sec": 25,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Segui per ulteriori aggiornamenti!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "Se pubblichi un paper su ArXiv scritto interamente da ChatGPT o Claude, rischi un anno di bando dalla piattaforma. ⚠️ La nuova policy non vieta l'AI in sé, ma solo il caso in cui sostituisca del tutto il tuo contributo umano. Il punto è che stabilire se l'AI ti ha assistito o ha scritto al posto tuo è quasi impossibile, quindi ArXiv ti chiede di dichiarare l'uso in fase di submission. ✍️ Per chi prepara articoli scientifici, questo significa che non dichiarare l'AI o usarla senza supervisione può costarti l'accesso per dodici mesi. Hai già controllato le nuove linee guida? 🔍",
@@ -108,8 +169,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2025/02/business-research-getty.jpg?resize=1200,800",
   "savedAt": "2026-05-16T20:39:34.703Z",
   "sourceId": "f04b5b1c9763fee13a0cfcdda1968bd9",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "kinetic_typography",
   "render_status": {
     "low": null,
     "medium": null,

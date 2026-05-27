@@ -51,6 +51,73 @@
     },
     "instagram": {
       "caption": "Ferrari ti sta mettendo in mano gli stessi dati che usano i suoi ingegneri di pista: telemetria in tempo reale, meteo e storico piloti sono analizzati dall'AI di IBM 📊🏎️. Invece di scommettere a sentimento, ora puoi argomentare con i numeri o fare previsioni più solide sulle gare 💡. Per te, fan o scommettitore, significa avere insight da box senza abbonamento—e senza aspettare il verdetto del team. Il prossimo GP ha già una predizione dell'AI: provi a smentirla?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Ferrari is leveraging AI!",
+          "voiceover": "Ora vedi i dati Ferrari in tempo reale.",
+          "on_screen_text": "Dati Ferrari in tempo reale",
+          "visual_direction": "Animazione di dati che scorrono",
+          "caption": "Scopri le novità!",
+          "tone": "urgent",
+          "emphasis_word": "reale",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "IBM li analizza per te!",
+          "voiceover": "IBM li analizza per te gratis.",
+          "on_screen_text": "Analisi gratuita da IBM",
+          "visual_direction": "Logo IBM che appare",
+          "caption": "Non perdere tempo!",
+          "tone": "urgent",
+          "emphasis_word": "gratis",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Telemetria e meteo!",
+          "voiceover": "Telemetria, meteo, storico piloti: tutto.",
+          "on_screen_text": "Telemetria, meteo, storico",
+          "visual_direction": "Grafici e statistiche in movimento",
+          "caption": "Informati meglio!",
+          "tone": "informative",
+          "emphasis_word": "tutto",
+          "layout": "split"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Scommetti meglio!",
+          "voiceover": "Scommetti meglio o vinci discussioni.",
+          "on_screen_text": "Scommetti meglio!",
+          "visual_direction": "Immagini di scommesse sportive",
+          "caption": "Diventa un esperto!",
+          "tone": "inspiring",
+          "emphasis_word": "",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Testa la predizione!",
+          "voiceover": "Testa la predizione del prossimo GP.",
+          "on_screen_text": "Predizione prossimo GP",
+          "visual_direction": "Countdown al prossimo GP",
+          "caption": "Provalo ora!",
+          "tone": "urgent",
+          "emphasis_word": "prossimo",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Scopri di più su Ferrari e IBM!"
     }
   },
   "instagram_caption": "Ferrari ti sta mettendo in mano gli stessi dati che usano i suoi ingegneri di pista: telemetria in tempo reale, meteo e storico piloti sono analizzati dall'AI di IBM 📊🏎️. Invece di scommettere a sentimento, ora puoi argomentare con i numeri o fare previsioni più solide sulle gare 💡. Per te, fan o scommettitore, significa avere insight da box senza abbonamento—e senza aspettare il verdetto del team. Il prossimo GP ha già una predizione dell'AI: provi a smentirla?",
@@ -102,5 +169,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/01-bxd-ferrari-xg-photography-v2.jpg?resize=1200,959",
   "savedAt": "2026-05-25T20:57:56.258Z",
-  "sourceId": "32e0243942b6d1417c181e1fcc4f898a"
+  "sourceId": "32e0243942b6d1417c181e1fcc4f898a",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

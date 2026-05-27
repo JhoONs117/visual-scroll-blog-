@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Convective Capital ha appena chiuso un fondo da 85 milioni di dollari. Punto: la resilienza alle catastrofi diventa ufficialmente un asset da venture capital 🌪️\n\nOggi la maggior parte dei fondi per il clima finanzia pannelli solari o macchine elettriche, ma si dimentica della fase di risposta alle emergenze. Questi soldi andranno a startup che si infilano dentro la rete elettrica della tua città, nei rifugi di emergenza e nelle catene di approvvigionamento.\n\nConcretamente: se il tuo quartiere dovesse finire sott'acqua o senza corrente per 72 ore, quei sistemi potrebbero già parlare con un resilienza-tech partner 🤝\n\nLa tua città ha già una startup partner per la gestione delle emergenze?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Big news in disaster resilience!",
+          "voiceover": "Convective Capital has raised $85 million.",
+          "on_screen_text": "$85 MILLION RAISED!",
+          "visual_direction": "Bold text animation with a dynamic background.",
+          "caption": "Funding for disaster startups.",
+          "tone": "urgent",
+          "emphasis_word": "MILLION",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "What about climate tech?",
+          "voiceover": "Most climate tech ignores the response phase.",
+          "on_screen_text": "CLIMATE TECH IGNORES RESPONSE",
+          "visual_direction": "Text slides in from the side with a fading effect.",
+          "caption": "A crucial oversight.",
+          "tone": "informative",
+          "emphasis_word": "IGNORES",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Are we prepared?",
+          "voiceover": "City emergency plans are already outdated.",
+          "on_screen_text": "EMERGENCY PLANS OUTDATED",
+          "visual_direction": "Text flashes with a red alert background.",
+          "caption": "Time for an update!",
+          "tone": "urgent",
+          "emphasis_word": "OUTDATED",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Check your grid!",
+          "voiceover": "Check if your grid has a resilience partner.",
+          "on_screen_text": "DOES YOUR GRID HAVE PARTNER?",
+          "visual_direction": "Text bounces in with a vibrant color scheme.",
+          "caption": "Be proactive.",
+          "tone": "informative",
+          "emphasis_word": "PARTNER",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Ask the right questions!",
+          "voiceover": "Ask your emergency manager about it.",
+          "on_screen_text": "ASK YOUR MANAGER NOW!",
+          "visual_direction": "Text enlarges and pulses to grab attention.",
+          "caption": "Take action today!",
+          "tone": "inspiring",
+          "emphasis_word": "NOW",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 25,
+      "cta": "Learn more about disaster resilience!"
     }
   },
   "instagram_caption": "Convective Capital ha appena chiuso un fondo da 85 milioni di dollari. Punto: la resilienza alle catastrofi diventa ufficialmente un asset da venture capital 🌪️\n\nOggi la maggior parte dei fondi per il clima finanzia pannelli solari o macchine elettriche, ma si dimentica della fase di risposta alle emergenze. Questi soldi andranno a startup che si infilano dentro la rete elettrica della tua città, nei rifugi di emergenza e nelle catene di approvvigionamento.\n\nConcretamente: se il tuo quartiere dovesse finire sott'acqua o senza corrente per 72 ore, quei sistemi potrebbero già parlare con un resilienza-tech partner 🤝\n\nLa tua città ha già una startup partner per la gestione delle emergenze?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Convective-Team.webp?w=1067",
   "savedAt": "2026-05-21T17:51:55.717Z",
-  "sourceId": "03acb55a588fa14a33a47a25cb5b2e6f"
+  "sourceId": "03acb55a588fa14a33a47a25cb5b2e6f",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Trasforma il tuo corpo oggi stesso!",
+          "voiceover": "Scopri come cambiare il tuo corpo con impegno e costanza.",
+          "on_screen_text": "Il tuo corpo cambia con costanza e sudore.",
+          "visual_direction": "Inquadratura ravvicinata di una persona che si allena intensamente.",
+          "caption": "Inizia il tuo viaggio di fitness!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Equilibrio tra forza e nutrizione!",
+          "voiceover": "La palestra è un mix di forza, nutrizione e disciplina.",
+          "on_screen_text": "Palestra bilancia forza, nutrizione e disciplina.",
+          "visual_direction": "Montaggio di diverse attività in palestra, come sollevamento pesi e preparazione pasti.",
+          "caption": "Crea il tuo piano di allenamento!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Controllo è la chiave del successo!",
+          "voiceover": "Esegui ogni movimento a corpo libero in modo controllato.",
+          "on_screen_text": "Esegui il movimento a corpo libero controllato.",
+          "visual_direction": "Visualizzazione di esercizi a corpo libero eseguiti correttamente.",
+          "caption": "Migliora la tua forma fisica!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Non dimenticare di riscaldarti!",
+          "voiceover": "Il riscaldamento e lo stretching sono fondamentali per ogni allenamento.",
+          "on_screen_text": "Non saltare mai il riscaldamento e lo stretching.",
+          "visual_direction": "Dimostrazione di una routine di riscaldamento e stretching.",
+          "caption": "Prepara il tuo corpo!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Investi nel tuo benessere!",
+          "voiceover": "Prenota un check-up con il tuo coach per massimizzare i risultati.",
+          "on_screen_text": "Prenota un check-up con il tuo coach oggi.",
+          "visual_direction": "Incontro tra un coach e un cliente in palestra.",
+          "caption": "Fai il primo passo!"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia ora il tuo percorso di fitness!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a78ed854eb.jpeg",
   "savedAt": "2026-05-15T13:58:20.756Z",
   "sourceId": "dd661e44df0f1c6441f8aa886973a3ea",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

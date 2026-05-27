@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Il futuro del fitness è qui!",
+          "voiceover": "Preparati a scoprire come la realtà virtuale cambia il fitness.",
+          "on_screen_text": "Il futuro del fitness è ora.",
+          "visual_direction": "Inizio con un'animazione accattivante di un casco VR che si accende.",
+          "caption": "Scopri la nuova era del fitness."
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Immergiti completamente nell'allenamento.",
+          "voiceover": "Con la realtà virtuale, ogni sessione è coinvolgente e senza distrazioni.",
+          "on_screen_text": "Realtà virtuale: zero distrazioni.",
+          "visual_direction": "Mostrare una persona che si allena con il visore VR, concentrata.",
+          "caption": "La concentrazione è fondamentale."
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Movimenti immersivi grazie ai trackers.",
+          "voiceover": "I trackers ti permettono di eseguire movimenti reali nel mondo virtuale.",
+          "on_screen_text": "Casco VR e trackers: allenati immersivamente.",
+          "visual_direction": "Inquadrature ravvicinate dei movimenti del corpo durante l'allenamento.",
+          "caption": "Sperimenta la realtà aumentata."
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Nessuna interruzione per regolare il visore.",
+          "voiceover": "Allenati senza interruzioni, il tuo focus rimane sul workout.",
+          "on_screen_text": "Non fermarti per regolare il visore.",
+          "visual_direction": "Mostrare una transizione fluida tra diversi esercizi senza pause.",
+          "caption": "Massimizza i tuoi risultati."
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Prova una sessione VR oggi!",
+          "voiceover": "Non aspettare, scopri subito il fitness in VR.",
+          "on_screen_text": "Oggi prova una sessione fitness in VR.",
+          "visual_direction": "Chiusura con un invito a provare la VR in una palestra.",
+          "caption": "Inizia ora la tua avventura."
+        }
+      ],
+      "duration_sec": 27,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Scopri il fitness del futuro!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cb1c87185.jpeg",
   "savedAt": "2026-05-15T19:32:27.314Z",
   "sourceId": "39f7280c771cdf91b7c344058ba0fbe2",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

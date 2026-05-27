@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "ElevenLabs ha lanciato un modello musicale che cambia genere a metà traccia — da jazz a trap, senza stacco 🎵. Non copia artisti: genera stili nuovi da un testo o una melodia, al volo. Se produci musica, puoi creare un bridge che suona come bossa nova incrociata con industrial in pochi secondi ⚡. I produttori che lo testano dicono che il flusso cambia: invece di cercare campioni per ore, descrivi cosa vuoi e l'AI assembla varianti su cui mantieni il controllo 🎛️. Il risultato è una canzone ibrida che non esisteva prima, a un costo inferiore a un abbonamento Spotify. Hai un progetto fermo per mancanza di idee?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Immagina una canzone che cambia genere!",
+          "voiceover": "Immagina una canzone che cambia genere da sola.",
+          "on_screen_text": "Cambia genere da sola!",
+          "visual_direction": "Stile colorato con animazioni di strumenti musicali.",
+          "caption": "Scopri la magia della musica AI.",
+          "tone": "inspiring",
+          "emphasis_word": "cambia",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Da jazz a trap, tutto in un attimo.",
+          "voiceover": "Parte jazz, poi diventa trap in un attimo.",
+          "on_screen_text": "Da jazz a trap!",
+          "visual_direction": "Transizioni fluide tra stili musicali.",
+          "caption": "Un viaggio musicale unico.",
+          "tone": "urgent",
+          "emphasis_word": "trap",
+          "layout": "split"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Non è un semplice remix.",
+          "voiceover": "Non è un remix, è l'AI che lo decide.",
+          "on_screen_text": "Non è un remix!",
+          "visual_direction": "Testo che si anima per enfatizzare il messaggio.",
+          "caption": "AI creativa in azione.",
+          "tone": "informative",
+          "emphasis_word": "AI",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Dai testo o melodia.",
+          "voiceover": "Gli dai testo o melodia e crea stili nuovi.",
+          "on_screen_text": "Crea stili nuovi!",
+          "visual_direction": "Illustrazioni di note musicali che danzano.",
+          "caption": "Libera la tua creatività.",
+          "tone": "inspiring",
+          "emphasis_word": "crea",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Non copia, inventa!",
+          "voiceover": "Non copia nessun artista, inventa al volo.",
+          "on_screen_text": "Inventa al volo!",
+          "visual_direction": "Animazioni di artisti che si trasformano.",
+          "caption": "Scopri ElevenLabs ora.",
+          "tone": "urgent",
+          "emphasis_word": "inventa",
+          "layout": "split"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Scopri di più su ElevenLabs."
     }
   },
   "instagram_caption": "ElevenLabs ha lanciato un modello musicale che cambia genere a metà traccia — da jazz a trap, senza stacco 🎵. Non copia artisti: genera stili nuovi da un testo o una melodia, al volo. Se produci musica, puoi creare un bridge che suona come bossa nova incrociata con industrial in pochi secondi ⚡. I produttori che lo testano dicono che il flusso cambia: invece di cercare campioni per ore, descrivi cosa vuoi e l'AI assembla varianti su cui mantieni il controllo 🎛️. Il risultato è una canzone ibrida che non esisteva prima, a un costo inferiore a un abbonamento Spotify. Hai un progetto fermo per mancanza di idee?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
   "savedAt": "2026-05-27T14:57:42.813Z",
-  "sourceId": "71772329c110ab008a75ae45bfb76cd1"
+  "sourceId": "71772329c110ab008a75ae45bfb76cd1",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

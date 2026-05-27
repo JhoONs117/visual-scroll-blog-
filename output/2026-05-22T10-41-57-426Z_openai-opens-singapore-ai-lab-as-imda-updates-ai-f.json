@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "A Singapore l'ente regolatore IMDA ha appena aggiornato le linee guida per l'AI e, lo stesso giorno, OpenAI ha aperto un nuovo laboratorio in città. 🧑‍💻 Il framework non è una legge, ma quando lo scrive un Paese che ospita i server di mezzo continente, le aziende lo seguono per evitare problemi. 📍 Per chi lavora con modelli AI in Asia, significa dover aggiornare policy e verifiche di conformità. Hai già controllato se il tuo rispetta i nuovi requisiti? 🔍⚖️"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Singapore's AI landscape is changing!",
+          "voiceover": "Singapore ha appena aggiornato le regole per l'AI.",
+          "on_screen_text": "Aggiornamento Regole AI",
+          "visual_direction": "testo che appare con effetto di scrittura",
+          "caption": "Scopri le novità!",
+          "tone": "urgent",
+          "emphasis_word": "AI",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Cosa significa per te?",
+          "voiceover": "Non sono leggi, ma linee guida.",
+          "on_screen_text": "Linee Guida, Non Leggi",
+          "visual_direction": "testo che si dissolve in entrata",
+          "caption": "Informati ora!",
+          "tone": "informative",
+          "emphasis_word": "Linee Guida",
+          "layout": "split"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "OpenAI sta avanzando!",
+          "voiceover": "OpenAI ha aperto un laboratorio lì.",
+          "on_screen_text": "OpenAI Laboratorio a Singapore",
+          "visual_direction": "testo che scorre da destra a sinistra",
+          "caption": "Innovazione in corso!",
+          "tone": "inspiring",
+          "emphasis_word": "OpenAI",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Attenzione a questo!",
+          "voiceover": "Chi opera in Asia deve adeguarsi.",
+          "on_screen_text": "Adeguati alle Nuove Regole",
+          "visual_direction": "testo che appare con effetto di zoom",
+          "caption": "Non rimanere indietro!",
+          "tone": "urgent",
+          "emphasis_word": "adeguarsi",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Controlla la tua conformità!",
+          "voiceover": "Controlla subito la conformità del tuo modello.",
+          "on_screen_text": "Verifica la Conformità",
+          "visual_direction": "testo che lampeggia",
+          "caption": "Agisci ora!",
+          "tone": "urgent",
+          "emphasis_word": "Conformità",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Rimani aggiornato sull'AI!"
     }
   },
   "instagram_caption": "A Singapore l'ente regolatore IMDA ha appena aggiornato le linee guida per l'AI e, lo stesso giorno, OpenAI ha aperto un nuovo laboratorio in città. 🧑‍💻 Il framework non è una legge, ma quando lo scrive un Paese che ospita i server di mezzo continente, le aziende lo seguono per evitare problemi. 📍 Per chi lavora con modelli AI in Asia, significa dover aggiornare policy e verifiche di conformità. Hai già controllato se il tuo rispetta i nuovi requisiti? 🔍⚖️",
@@ -100,5 +167,7 @@
   ],
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/OpenAI-opens-Singapore-AI-lab-as-IMDA-updates-AI-framework-scaled-e1779421698570.jpg",
   "savedAt": "2026-05-22T10:42:14.231Z",
-  "sourceId": "282a25929c19b57568d8e9a2049e4321"
+  "sourceId": "282a25929c19b57568d8e9a2049e4321",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

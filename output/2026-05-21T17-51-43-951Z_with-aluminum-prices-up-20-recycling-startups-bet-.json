@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "I prezzi dell'alluminio sono saliti del 20% e chi sta già guadagnando sono le startup che usano l'intelligenza artificiale per smistare i rifiuti. Riciclare costa meno che estrarre nuovo metallo, ma finora era troppo lento e impreciso ♻️. Questi nuovi sistemi promettono di tagliare i costi di smistamento della metà — e i primi impianti lo stanno già facendo 🤖. Per chi lavora coi rottami, ogni lattina non separata è margine perso 📉. Hai già testato uno di questi smistatori? Se non lo fai, lo faranno i tuoi concorrenti."
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "With aluminum prices up 20%...",
+          "voiceover": "Aluminum prices are rising dramatically, affecting everyone.",
+          "on_screen_text": "Aluminum prices up 20%",
+          "visual_direction": "Bold text animation with rising graph background.",
+          "caption": "Prices are surging!",
+          "tone": "urgent",
+          "emphasis_word": "surging",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Recycling startups are betting on AI...",
+          "voiceover": "Recycling startups are leveraging AI to maximize profits.",
+          "on_screen_text": "Startups bet on AI",
+          "visual_direction": "Text appears with a lightbulb animation.",
+          "caption": "Innovation in recycling!",
+          "tone": "informative",
+          "emphasis_word": "AI",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "AI says sorting waste can cut costs.",
+          "voiceover": "AI technology can reduce recycling costs by half.",
+          "on_screen_text": "Cut costs in half",
+          "visual_direction": "Text slices through a waste pile background.",
+          "caption": "Efficiency is key!",
+          "tone": "urgent",
+          "emphasis_word": "half",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Recycling is cheap but inefficient...",
+          "voiceover": "Without technology, recycling remains inefficient and costly.",
+          "on_screen_text": "Cheap but inefficient",
+          "visual_direction": "Text appears over a cluttered recycling facility.",
+          "caption": "Need for tech!",
+          "tone": "informative",
+          "emphasis_word": "inefficient",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Your scrap could be an asset...",
+          "voiceover": "Invest in a sorter before margins disappear.",
+          "on_screen_text": "Your scrap is an asset",
+          "visual_direction": "Text transitions with a gold coin animation.",
+          "caption": "Act now!",
+          "tone": "urgent",
+          "emphasis_word": "asset",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 25,
+      "cta": "Invest in recycling technology today!"
     }
   },
   "instagram_caption": "I prezzi dell'alluminio sono saliti del 20% e chi sta già guadagnando sono le startup che usano l'intelligenza artificiale per smistare i rifiuti. Riciclare costa meno che estrarre nuovo metallo, ma finora era troppo lento e impreciso ♻️. Questi nuovi sistemi promettono di tagliare i costi di smistamento della metà — e i primi impianti lo stanno già facendo 🤖. Per chi lavora coi rottami, ogni lattina non separata è margine perso 📉. Hai già testato uno di questi smistatori? Se non lo fai, lo faranno i tuoi concorrenti.",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-180404126-e1694911368750.jpg?resize=1200,676",
   "savedAt": "2026-05-21T17:52:37.484Z",
-  "sourceId": "e4a7cf7dbbba256d977f819a8e375ae2"
+  "sourceId": "e4a7cf7dbbba256d977f819a8e375ae2",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

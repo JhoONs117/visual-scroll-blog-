@@ -51,11 +51,72 @@
       "caption": "7 ingegneri su 10 nel settore auto non hanno le competenze per passare ai nuovi ruoli legati all'AI. Le case automobilistiche stanno già ridisegnando le posizioni, sia in fabbrica che negli uffici, ma i corsi tradizionali di formazione sono vecchi e non bastano più. Chi non si adegua rischia di restare fuori in meno di un anno. La buona notizia è che non servono lauree: bastano 3 strumenti specifici al tuo settore per cambiare carriera in poche settimane ⚡️🚗📉. Ti stai già muovendo o preferisci aspettare?"
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "La rivoluzione dell'auto è qui!",
+          "voiceover": "Gli ingegneri auto non sanno usare l'AI.",
+          "on_screen_text": "Gli ingegneri auto non sanno",
+          "visual_direction": "Testo grande che scorre dall'alto verso il basso.",
+          "caption": "Scopri il futuro della mobilità",
+          "tone": "urgent",
+          "emphasis_word": "AI",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Chi sarà il vincitore?",
+          "voiceover": "Ma alcuni impareranno in fretta.",
+          "on_screen_text": "Alcuni impareranno in fretta.",
+          "visual_direction": "Testo che appare con un effetto di zoom.",
+          "caption": "Preparati alla competizione",
+          "tone": "urgent",
+          "emphasis_word": "impareranno",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Il tempo stringe!",
+          "voiceover": "Gli altri perderanno il posto.",
+          "on_screen_text": "Gli altri perderanno il posto.",
+          "visual_direction": "Testo che scompare lentamente.",
+          "caption": "Non rimanere indietro",
+          "tone": "urgent",
+          "emphasis_word": "perderanno",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 7,
+          "hook": "Scegli il tuo percorso!",
+          "voiceover": "Il corso che fai ora decide il tuo futuro.",
+          "on_screen_text": "Il corso decide il tuo futuro.",
+          "visual_direction": "Testo che si divide in due parti.",
+          "caption": "Investi in te stesso",
+          "tone": "informative",
+          "emphasis_word": "futuro",
+          "layout": "split"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Inizia oggi!",
+          "voiceover": "Inizia con un tool solo questa settimana.",
+          "on_screen_text": "Inizia con un tool questa settimana.",
+          "visual_direction": "Testo che appare con un effetto di battito.",
+          "caption": "Non aspettare oltre!",
+          "tone": "inspiring",
+          "emphasis_word": "tool",
+          "layout": "single"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Scopri il corso ora!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "7 ingegneri su 10 nel settore auto non hanno le competenze per passare ai nuovi ruoli legati all'AI. Le case automobilistiche stanno già ridisegnando le posizioni, sia in fabbrica che negli uffici, ma i corsi tradizionali di formazione sono vecchi e non bastano più. Chi non si adegua rischia di restare fuori in meno di un anno. La buona notizia è che non servono lauree: bastano 3 strumenti specifici al tuo settore per cambiare carriera in poche settimane ⚡️🚗📉. Ti stai già muovendo o preferisci aspettare?",
@@ -108,8 +169,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/rj-scaringe-Getty.jpg?resize=1200,800",
   "savedAt": "2026-05-17T18:56:01.806Z",
   "sourceId": "481cbcf6e999de300390526254cffb49",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "kinetic_typography",
   "render_status": {
     "low": null,
     "medium": null,

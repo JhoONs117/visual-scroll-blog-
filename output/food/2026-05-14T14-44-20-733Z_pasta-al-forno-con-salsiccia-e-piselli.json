@@ -39,11 +39,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri la ricetta della pasta al forno!",
+          "voiceover": "Prepariamo insieme una deliziosa pasta al forno con salsiccia e piselli.",
+          "on_screen_text": "Pasta al forno cremosa e saporita!",
+          "visual_direction": "Inquadratura ravvicinata della pasta al forno dorata.",
+          "caption": "Un piatto che conquista tutti!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Ingredienti semplici e gustosi!",
+          "voiceover": "Ecco cosa ti serve: rigatoni, salsiccia, mozzarella, besciamella e piselli.",
+          "on_screen_text": "Rigatoni, salsiccia, mozzarella, piselli.",
+          "visual_direction": "Mostrare gli ingredienti disposti sul tavolo.",
+          "caption": "Preparati per una ricetta irresistibile!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Inizia a cucinare!",
+          "voiceover": "Rosola la salsiccia con cipolla e aggiungi i piselli.",
+          "on_screen_text": "Rosola salsiccia e cipolla.",
+          "visual_direction": "Pan sul fornello con la salsiccia che rosola.",
+          "caption": "Il profumo è irresistibile!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Assemblare il tutto!",
+          "voiceover": "Alterna strati di pasta, condimento e mozzarella, poi gratina.",
+          "on_screen_text": "Alterna pasta, salsiccia e mozzarella.",
+          "visual_direction": "Inquadrature veloci del montaggio della pasta al forno.",
+          "caption": "Ecco come si fa!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Aspetta un momento prima di servirla!",
+          "voiceover": "Lascia riposare per 10 minuti prima di servire.",
+          "on_screen_text": "Lascia riposare 10 minuti.",
+          "visual_direction": "Mostrare la pasta al forno che riposa sul tavolo.",
+          "caption": "Pronta per essere gustata!"
+        }
+      ],
+      "duration_sec": 27,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Prova a farla oggi stesso!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -115,8 +161,8 @@
   "image": "https://www.giallozafferano.it/images/361-36172/Pasta-al-forno-con-salsiccia-e-piselli_650x433_wm.jpg",
   "savedAt": "2026-05-14T14:44:46.658Z",
   "sourceId": "38a68c5a500f69b93c330ee50d00c0a4",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "slide_deck",
   "render_status": {
     "low": null,
     "medium": null,

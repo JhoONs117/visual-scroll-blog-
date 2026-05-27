@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Alibaba ha progettato un chip specializzato per agenti AI, non per fare calcoli più veloci ma per gestire i loro flussi di lavoro: conversazioni, chiamate a strumenti, passaggi di contesto ⚡ Finora l'hardware rincorreva la potenza bruta; ora si adatta a come i modelli ragionano tra loro e con i tool. Il vero motore dell'AI non è più la miniaturizzazione dei transistor, ma l'architettura degli agenti 🤖. **Concretamente**: se il tuo cloud usa chip ottimizzati per pattern agentici, i costi di inferenza potrebbero crollare, anche per task complessi a più passaggi 📉. Hai mai misurato la latenza del tuo modello su un task che richiede tre ragionamenti consecutivi?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "La corsa all'innovazione è cambiata.",
+          "voiceover": "Moore non conta più. Conta come pensano gli agenti.",
+          "on_screen_text": "Conta come pensano gli AGENTI.",
+          "visual_direction": "Testo grande in movimento verso l'alto.",
+          "caption": "La nuova era della tecnologia.",
+          "tone": "urgent",
+          "emphasis_word": "AGENTI",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Alibaba sta guidando il cambiamento.",
+          "voiceover": "Alibaba ha progettato un chip su misura per loro.",
+          "on_screen_text": "Chip su misura di ALIBABA.",
+          "visual_direction": "Testo che appare con un effetto di scrittura.",
+          "caption": "Innovazione al massimo livello.",
+          "tone": "informative",
+          "emphasis_word": "ALIBABA",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "La concorrenza sta seguendo.",
+          "voiceover": "Altri colossi stanno già copiando la mossa.",
+          "on_screen_text": "Colossi stanno COPIANDO.",
+          "visual_direction": "Testo che si frantuma in pezzi.",
+          "caption": "Non è più un gioco individuale.",
+          "tone": "urgent",
+          "emphasis_word": "COPIANDO",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "I costi stanno per ridursi.",
+          "voiceover": "Se l'inferenza segue gli agenti, i costi calano.",
+          "on_screen_text": "Costi CALANO grazie agli AGENTI.",
+          "visual_direction": "Testo che si abbassa gradualmente.",
+          "caption": "Un futuro più accessibile.",
+          "tone": "informative",
+          "emphasis_word": "CALANO",
+          "layout": "split"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Metti alla prova questa tecnologia.",
+          "voiceover": "Provare per credere: testalo su un task oggi.",
+          "on_screen_text": "Testalo OGGI su un TASK.",
+          "visual_direction": "Testo lampeggiante per attirare l'attenzione.",
+          "caption": "Inizia ora!",
+          "tone": "inspiring",
+          "emphasis_word": "OGGI",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Scopri di più sulla tecnologia AI."
     }
   },
   "instagram_caption": "Alibaba ha progettato un chip specializzato per agenti AI, non per fare calcoli più veloci ma per gestire i loro flussi di lavoro: conversazioni, chiamate a strumenti, passaggi di contesto ⚡ Finora l'hardware rincorreva la potenza bruta; ora si adatta a come i modelli ragionano tra loro e con i tool. Il vero motore dell'AI non è più la miniaturizzazione dei transistor, ma l'architettura degli agenti 🤖. **Concretamente**: se il tuo cloud usa chip ottimizzati per pattern agentici, i costi di inferenza potrebbero crollare, anche per task complessi a più passaggi 📉. Hai mai misurato la latenza del tuo modello su un task che richiede tre ragionamenti consecutivi?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/1769486747290.jpeg",
   "savedAt": "2026-05-20T10:43:19.134Z",
-  "sourceId": "a795498fea42cbd6ad979a07154df548"
+  "sourceId": "a795498fea42cbd6ad979a07154df548",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

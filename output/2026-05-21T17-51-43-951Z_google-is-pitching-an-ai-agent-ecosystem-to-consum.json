@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Google ha investito miliardi per convincerti a pagare un AI agent, ma la maggior parte delle persone non lo cerca nemmeno 🧠. I developer spingono forte su questa tecnologia—i consumatori, invece, non ne sentono il bisogno. Il problema è che, se non lo usi ora, rischi di restare senza assistenza proattiva tra un anno, quando altri già risparmieranno tempo grazie a gestione automatica di email e calendario 📅. Controlla se il tuo Google Home è compatibile: potresti già avere accesso a una versione base gratuita 🤖. Tu lo useresti davvero, o è una soluzione in cerca di un problema?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Le aziende spingono ma nessuno le vuole.",
+          "voiceover": "Le aziende spingono ma nessuno le vuole.",
+          "on_screen_text": "Nessuno le vuole.",
+          "visual_direction": "Testo che appare in modo dinamico con un effetto di battito.",
+          "caption": "Il rifiuto del mercato.",
+          "tone": "urgent",
+          "emphasis_word": "nessuno",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Google vuole farti pagare un assistente automatico.",
+          "voiceover": "Google vuole farti pagare un assistente automatico.",
+          "on_screen_text": "Pagare un assistente automatico.",
+          "visual_direction": "Testo che si dissolve e ricompare.",
+          "caption": "Un costo per l'utenza.",
+          "tone": "informative",
+          "emphasis_word": "pagare",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "La maggior parte degli utenti non lo cerca.",
+          "voiceover": "La maggior parte degli utenti non lo cerca.",
+          "on_screen_text": "Non lo cerca.",
+          "visual_direction": "Testo che scorre da sinistra a destra.",
+          "caption": "La realtà degli utenti.",
+          "tone": "urgent",
+          "emphasis_word": "maggior parte",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 7,
+          "hook": "I developer investono miliardi, i consumatori sono freddi.",
+          "voiceover": "I developer investono miliardi, i consumatori sono freddi.",
+          "on_screen_text": "Investimenti e indifferenza.",
+          "visual_direction": "Testo che si ingrandisce in modo drammatico.",
+          "caption": "Un contrasto evidente.",
+          "tone": "informative",
+          "emphasis_word": "miliardi",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Controlla se il tuo Google Home è compatibile ora.",
+          "voiceover": "Controlla se il tuo Google Home è compatibile ora.",
+          "on_screen_text": "Controlla la compatibilità!",
+          "visual_direction": "Testo che lampeggia per attirare attenzione.",
+          "caption": "Fai la verifica ora.",
+          "tone": "urgent",
+          "emphasis_word": "compatibilità",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Scopri di più sulla tua AI!"
     }
   },
   "instagram_caption": "Google ha investito miliardi per convincerti a pagare un AI agent, ma la maggior parte delle persone non lo cerca nemmeno 🧠. I developer spingono forte su questa tecnologia—i consumatori, invece, non ne sentono il bisogno. Il problema è che, se non lo usi ora, rischi di restare senza assistenza proattiva tra un anno, quando altri già risparmieranno tempo grazie a gestione automatica di email e calendario 📅. Controlla se il tuo Google Home è compatibile: potresti già avere accesso a una versione base gratuita 🤖. Tu lo useresti davvero, o è una soluzione in cerca di un problema?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
   "savedAt": "2026-05-21T17:52:25.667Z",
-  "sourceId": "2dc9bf4077b0baa1065a3480c98547f6"
+  "sourceId": "2dc9bf4077b0baa1065a3480c98547f6",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

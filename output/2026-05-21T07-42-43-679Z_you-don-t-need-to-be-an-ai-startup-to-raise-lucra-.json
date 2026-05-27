@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Una startup di finanziamento per cause legali, Lucra, ha chiuso un round da 20 milioni di dollari senza nemmeno fingersi una società di intelligenza artificiale. 💸 Mentre quasi tutti i venture capital oggi corrono dietro all’AI, loro hanno dimostrato che puoi raccogliere soldi puntando su un modello solido e ricavi reali, non su una chatbot a caso. Per chi cerca finanziamenti, il messaggio è concreto: smettila di imbottire il pitch deck di parole come “neural network”. 🚫 Gli investitori guardano i numeri, non le etichette. Hai mai provato a cambiare la tua presentazione per sembrare più tecnologico? 🤔"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "You don’t need to be an AI startup...",
+          "voiceover": "A legal funding startup got twenty million dollars.",
+          "on_screen_text": "Legal Funding Startup",
+          "visual_direction": "Bold text appearing with a funding graphic.",
+          "caption": "Funding success story!",
+          "tone": "informative",
+          "emphasis_word": "Funding",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "...to raise big capital.",
+          "voiceover": "They aren't an AI company.",
+          "on_screen_text": "Not an AI Company",
+          "visual_direction": "Text drops in from above.",
+          "caption": "Surprising fact!",
+          "tone": "urgent",
+          "emphasis_word": "Not",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "All the big money is chasing AI...",
+          "voiceover": "So how did they do it?",
+          "on_screen_text": "Chasing AI",
+          "visual_direction": "Text slides in with a dollar sign animation.",
+          "caption": "The AI craze.",
+          "tone": "informative",
+          "emphasis_word": "Chasing",
+          "layout": "split"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "...right now.",
+          "voiceover": "They proved investors still care about real profits.",
+          "on_screen_text": "Real Profits Matter",
+          "visual_direction": "Text expands with a growing chart.",
+          "caption": "Investors want profits!",
+          "tone": "inspiring",
+          "emphasis_word": "Profits",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "You can do it too!",
+          "voiceover": "Be like Lucra, focus on what matters.",
+          "on_screen_text": "Focus on What Matters",
+          "visual_direction": "Text pulsates with a call to action.",
+          "caption": "Change the game!",
+          "tone": "inspiring",
+          "emphasis_word": "Focus",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Start your journey to funding today!"
     }
   },
   "instagram_caption": "Una startup di finanziamento per cause legali, Lucra, ha chiuso un round da 20 milioni di dollari senza nemmeno fingersi una società di intelligenza artificiale. 💸 Mentre quasi tutti i venture capital oggi corrono dietro all’AI, loro hanno dimostrato che puoi raccogliere soldi puntando su un modello solido e ricavi reali, non su una chatbot a caso. Per chi cerca finanziamenti, il messaggio è concreto: smettila di imbottire il pitch deck di parole come “neural network”. 🚫 Gli investitori guardano i numeri, non le etichette. Hai mai provato a cambiare la tua presentazione per sembrare più tecnologico? 🤔",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Lucra-Sports-Dylan-Robbins.jpg?resize=1200,1082",
   "savedAt": "2026-05-21T07:43:19.985Z",
-  "sourceId": "bbaed57bb9189c8c08fbf30b42498f38"
+  "sourceId": "bbaed57bb9189c8c08fbf30b42498f38",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

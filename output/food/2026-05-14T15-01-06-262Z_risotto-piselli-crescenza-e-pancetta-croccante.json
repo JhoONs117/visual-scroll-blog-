@@ -39,11 +39,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Il risotto che farà impazzire tutti!",
+          "voiceover": "Scopri come preparare un risotto cremoso e irresistibile.",
+          "on_screen_text": "Risotto cremoso con pancetta croccante",
+          "visual_direction": "Inquadratura ravvicinata del risotto fumante in un piatto.",
+          "caption": "Un piatto da leccarsi i baffi!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Ingredienti freschi e gustosi!",
+          "voiceover": "Ecco cosa ti serve: riso Carnaroli, pisellini e pancetta.",
+          "on_screen_text": "Carnaroli, pisellini, crescenza, pancetta",
+          "visual_direction": "Panoramica degli ingredienti disposti su un tavolo.",
+          "caption": "Preparati a cucinare!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Tosta il riso per un sapore unico!",
+          "voiceover": "Inizia tostando il riso e sfumando con vino bianco.",
+          "on_screen_text": "Tosta il riso e sfuma con vino",
+          "visual_direction": "Ripresa della padella mentre il riso viene tostato.",
+          "caption": "Il segreto di un risotto perfetto!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Aggiungi la crema di piselli!",
+          "voiceover": "A metà cottura, unisci la crema di piselli freschi.",
+          "on_screen_text": "Unisci la crema di piselli",
+          "visual_direction": "Inquadratura della padella mentre si aggiunge la crema.",
+          "caption": "Cremoso e delizioso!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Guarnisci e servi!",
+          "voiceover": "Guarnisci con crescenza, piselli e pancetta croccante.",
+          "on_screen_text": "Guarnisci con crescenza e pancetta",
+          "visual_direction": "Inquadratura finale del piatto pronto da servire.",
+          "caption": "Pronto da gustare!"
+        }
+      ],
+      "duration_sec": 28,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Prova questa ricetta oggi stesso!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -115,8 +161,8 @@
   "image": "https://www.giallozafferano.it/images/360-36089/Risotto-piselli-crescenza-e-pancetta-croccante_650x433_wm.jpg",
   "savedAt": "2026-05-14T15:01:32.815Z",
   "sourceId": "28c4dca21ca942b6eee9f7c8922f4708",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "slide_deck",
   "render_status": {
     "low": null,
     "medium": null,

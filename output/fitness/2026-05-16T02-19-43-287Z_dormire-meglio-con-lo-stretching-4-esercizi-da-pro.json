@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Vuoi dormire come un sasso?",
+          "voiceover": "Scopri come lo stretching può migliorare il tuo sonno.",
+          "on_screen_text": "Dormire come un sasso!",
+          "visual_direction": "Inquadratura di una persona che si stiracchia nel letto.",
+          "caption": "Inizia a migliorare il tuo sonno!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Rilassa i muscoli per un sonno profondo.",
+          "voiceover": "Ecco perché lo stretching è fondamentale prima di dormire.",
+          "on_screen_text": "Rilassa i tuoi muscoli!",
+          "visual_direction": "Mostra una persona che fa stretching con movimenti dolci.",
+          "caption": "Rilassati e prepara il tuo corpo!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 7,
+          "hook": "Allunga lentamente la colonna vertebrale.",
+          "voiceover": "Prova questo esercizio semplice per allungare la schiena.",
+          "on_screen_text": "Allunga la colonna vertebrale.",
+          "visual_direction": "Dimostrazione dell'esercizio a terra.",
+          "caption": "Sentiti meglio in pochi minuti!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Non forzare il respiro!",
+          "voiceover": "Ricorda di respirare lentamente mentre ti allunghi.",
+          "on_screen_text": "Respira e rilassati.",
+          "visual_direction": "Zoom su una persona che respira profondamente.",
+          "caption": "Ritrova la calma interiore!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Fai 5 minuti prima di dormire!",
+          "voiceover": "Dedica solo 5 minuti alla tua routine di stretching.",
+          "on_screen_text": "Prova stasera!",
+          "visual_direction": "Inquadratura finale di una persona che si prepara a dormire.",
+          "caption": "Fai il primo passo ora!"
+        }
+      ],
+      "duration_sec": 30,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia a stretching stasera!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205c094cf0f3.jpeg",
   "savedAt": "2026-05-16T02:19:59.851Z",
   "sourceId": "dfe23f4be54d4aab7248689bafa2d0b0",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

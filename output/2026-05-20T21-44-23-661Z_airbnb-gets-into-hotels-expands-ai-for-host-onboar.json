@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Airbnb ha appena comprato hotel e li ha messi sulla sua piattaforma, ma la mossa vera è un’altra: ora un sistema automatico valuta la tua casa in 48 ore per decidere se può essere affittata 🏠. Nessuno sa esattamente come decida se una stanza è “abbastanza luminosa” o adatta, perché i criteri restano una scatola nera. Il risultato? Hotel con recensioni decennali e host singoli che caricano foto alla cieca competono sullo stesso piano, ma solo chi ha dati storici parte già avanti 🤖. Per te, confrontare un soggiorno umano con uno gestito da bot potrebbe diventare indistinguibile. Quando prenoterai, saprai chi c’è davvero dall’altra parte? 🛎️"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Airbnb si evolve!",
+          "voiceover": "Airbnb usa un'AI per valutare le case.",
+          "on_screen_text": "Airbnb usa un'AI",
+          "visual_direction": "Testo animato che appare con un effetto di zoom.",
+          "caption": "Scopri come funziona!",
+          "tone": "informative",
+          "emphasis_word": "AI",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Incredibile, vero?",
+          "voiceover": "In sole 48 ore decidi se affittare.",
+          "on_screen_text": "48 ore per decidere!",
+          "visual_direction": "Countdown animato che si riduce.",
+          "caption": "Tempo di affittare!",
+          "tone": "urgent",
+          "emphasis_word": "48 ore",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Ma c'è un mistero...",
+          "voiceover": "Ma nessuno sa come funziona.",
+          "on_screen_text": "Un mistero da svelare!",
+          "visual_direction": "Testo che sfuma mentre appare una scatola nera.",
+          "caption": "Rivelazioni in arrivo!",
+          "tone": "inspiring",
+          "emphasis_word": "mistero",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Novità in arrivo!",
+          "voiceover": "È una scatola nera che decide.",
+          "on_screen_text": "Scatola nera!",
+          "visual_direction": "Animazione della scatola nera che si apre.",
+          "caption": "Scopri di più!",
+          "tone": "informative",
+          "emphasis_word": "scatola nera",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "E non finisce qui!",
+          "voiceover": "Ora anche hotel entrano nella piattaforma.",
+          "on_screen_text": "Hotel sulla piattaforma!",
+          "visual_direction": "Transizione a immagini di hotel.",
+          "caption": "Unisciti a noi!",
+          "tone": "urgent",
+          "emphasis_word": "hotel",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Scopri di più su Airbnb!"
     }
   },
   "instagram_caption": "Airbnb ha appena comprato hotel e li ha messi sulla sua piattaforma, ma la mossa vera è un’altra: ora un sistema automatico valuta la tua casa in 48 ore per decidere se può essere affittata 🏠. Nessuno sa esattamente come decida se una stanza è “abbastanza luminosa” o adatta, perché i criteri restano una scatola nera. Il risultato? Hotel con recensioni decennali e host singoli che caricano foto alla cieca competono sullo stesso piano, ma solo chi ha dati storici parte già avanti 🤖. Per te, confrontare un soggiorno umano con uno gestito da bot potrebbe diventare indistinguibile. Quando prenoterai, saprai chi c’è davvero dall’altra parte? 🛎️",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/en-US-Homepage.jpeg?resize=1200,800",
   "savedAt": "2026-05-20T21:44:48.572Z",
-  "sourceId": "100c0f883ef1e2f34204d843b74c578b"
+  "sourceId": "100c0f883ef1e2f34204d843b74c578b",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

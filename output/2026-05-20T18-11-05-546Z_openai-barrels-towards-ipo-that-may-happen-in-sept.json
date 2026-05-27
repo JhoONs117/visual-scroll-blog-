@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "A settembre OpenAI potrebbe sbarcare in Borsa, ma i suoi bilanci restano un buco nero. I ricavi con l'AI crescono, certo — ma le spese per tenere in piedi modelli come GPT corrono ancora più veloci. 🚂 Nessun trimestre ha finora mostrato profitti certi. Per chi lavora o investe nel settore, significa operare alla cieca: se arriva l'IPO, i retail compreranno azioni senza sapere quanto l’azienda perde davvero. 🔍 I conti sono su EDGAR, ma devi cercarteli tu. Scommetteresti su un'azienda che non mostra il conto? 💸"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "OpenAI barrels towards IPO!",
+          "voiceover": "OpenAI vuole quotarsi in borsa a settembre.",
+          "on_screen_text": "OpenAI verso IPO!",
+          "visual_direction": "Animazione dinamica del testo che scorre in alto.",
+          "caption": "Preparati a investire.",
+          "tone": "urgent",
+          "emphasis_word": "IPO",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Ma quali sono i conti?",
+          "voiceover": "Ma i conti restano un segreto.",
+          "on_screen_text": "Conti segreti!",
+          "visual_direction": "Testo che si dissolve e appare in sequenza.",
+          "caption": "Scopri di più.",
+          "tone": "informative",
+          "emphasis_word": "segreto",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Ricavi in crescita!",
+          "voiceover": "I ricavi salgono, i costi salgono di più.",
+          "on_screen_text": "Costi in aumento!",
+          "visual_direction": "Grafica con freccia in su e in giù.",
+          "caption": "Cosa significa per te?",
+          "tone": "urgent",
+          "emphasis_word": "aumento",
+          "layout": "split"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Profitti in dubbio?",
+          "voiceover": "Profitti sostenibili? Mai dimostrati.",
+          "on_screen_text": "Profitti non dimostrati!",
+          "visual_direction": "Testo che lampeggia per enfatizzare il dubbio.",
+          "caption": "Investire con cautela.",
+          "tone": "informative",
+          "emphasis_word": "dubbio",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Controlla i bilanci!",
+          "voiceover": "Controlla i bilanci prima di investire.",
+          "on_screen_text": "Controlla i bilanci!",
+          "visual_direction": "Testo che scorre orizzontalmente per attirare attenzione.",
+          "caption": "Fai la tua ricerca.",
+          "tone": "urgent",
+          "emphasis_word": "controlla",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Investi solo se sei sicuro."
     }
   },
   "instagram_caption": "A settembre OpenAI potrebbe sbarcare in Borsa, ma i suoi bilanci restano un buco nero. I ricavi con l'AI crescono, certo — ma le spese per tenere in piedi modelli come GPT corrono ancora più veloci. 🚂 Nessun trimestre ha finora mostrato profitti certi. Per chi lavora o investe nel settore, significa operare alla cieca: se arriva l'IPO, i retail compreranno azioni senza sapere quanto l’azienda perde davvero. 🔍 I conti sono su EDGAR, ma devi cercarteli tu. Scommetteresti su un'azienda che non mostra il conto? 💸",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
   "savedAt": "2026-05-20T18:11:19.576Z",
-  "sourceId": "1c43383d7ae7249375e022dfa68d53b2"
+  "sourceId": "1c43383d7ae7249375e022dfa68d53b2",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

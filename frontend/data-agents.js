@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "youtube-will-now-automatically-label-ai-videos",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "YouTube will now automatically label AI videos",
+      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+      "pubDate": "Wed, 27 May 2026 13:00:00 +0000",
+      "slides": [
+        "YouTube obbliga il bollino AI, ma chi controllerà?",
+        "I creator devono dichiarare i video generati dall'AI",
+        "Se non lo fanno, rischiano la rimozione del contenuto",
+        "Per te spettatore: sai subito cosa è reale o no",
+        "Ora tocca a te: guarda il bollino prima di fidarti"
+      ],
+      "thread_text": [
+        "YouTube introduce l'obbligo del bollino AI. Se un creator non dichiara i video generati artificialmente, rischia la rimozione del contenuto. La vera domanda: chi controllerà che lo facciano davvero?",
+        "Oggi chiunque può creare un video fotorealistico con un prompt. Un attore che dice cose false, un paesaggio che non esiste, una voce clonata. Per lo spettatore è invisibile.",
+        "YouTube ora chiede ai creator di dichiarare quando un video è generato dall'AI. Nessun algoritmo di controllo automatico. Solo una casella da spuntare. In pratica: sistema basato sull'onestà.",
+        "Se un creator non dichiara e viene scoperto (da segnalazioni o revisioni a campione), il video viene rimosso. Recidivi? Sospensione del canale. Ma il danno reputazionale arriva prima della rimozione.",
+        "Da oggi, prima di fidarti di un video, guarda il bollino. Se non c'è ma il contenuto sembra irreale, segnalalo. La trasparenza funziona solo se la usiamo tutti."
+      ],
+      "video_script": [
+        "YouTube ora obbliga il bollino AI.",
+        "Chi non dichiara rischia la rimozione.",
+        "Ma chi controllerà davvero?",
+        "Per te spettatore cambia tutto.",
+        "Guarda il bollino prima di fidarti."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "YouTube introduce l'obbligo del bollino AI. Se un creator non dichiara i video generati artificialmente, rischia la rimozione del contenuto. La vera domanda: chi controllerà che lo facciano davvero?",
+            "Oggi chiunque può creare un video fotorealistico con un prompt. Un attore che dice cose false, un paesaggio che non esiste, una voce clonata. Per lo spettatore è invisibile.",
+            "YouTube ora chiede ai creator di dichiarare quando un video è generato dall'AI. Nessun algoritmo di controllo automatico. Solo una casella da spuntare. In pratica: sistema basato sull'onestà.",
+            "Se un creator non dichiara e viene scoperto (da segnalazioni o revisioni a campione), il video viene rimosso. Recidivi? Sospensione del canale. Ma il danno reputazionale arriva prima della rimozione.",
+            "Da oggi, prima di fidarti di un video, guarda il bollino. Se non c'è ma il contenuto sembra irreale, segnalalo. La trasparenza funziona solo se la usiamo tutti."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "YouTube ora obbliga il bollino AI.",
+            "Chi non dichiara rischia la rimozione.",
+            "Ma chi controllerà davvero?",
+            "Per te spettatore cambia tutto.",
+            "Guarda il bollino prima di fidarti."
+          ]
+        },
+        "instagram": {
+          "caption": "Da ora su YouTube ogni video generato con AI deve avere un bollino, o il creator rischia la rimozione del contenuto. 📹 Il problema? Non c'è un controllo automatico: basta spuntare una casella. Un sistema basato sull'onestà, insomma. Se qualcuno non dichiara e viene beccato (da segnalazioni o revisioni a campione), il video salta. Per te, spettatore, cambia una cosa: prima di fidarti, controlla quel bollino. 🏷️ Funziona solo se lo usiamo tutti. Hai già visto un video che sembrava troppo vero per essere reale? 👀"
+        }
+      },
+      "instagram_caption": "Da ora su YouTube ogni video generato con AI deve avere un bollino, o il creator rischia la rimozione del contenuto. 📹 Il problema? Non c'è un controllo automatico: basta spuntare una casella. Un sistema basato sull'onestà, insomma. Se qualcuno non dichiara e viene beccato (da segnalazioni o revisioni a campione), il video salta. Per te, spettatore, cambia una cosa: prima di fidarti, controlla quel bollino. 🏷️ Funziona solo se lo usiamo tutti. Hai già visto un video che sembrava troppo vero per essere reale? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Chi controllerà il bollino AI?",
+          "description": "YouTube obbliga il bollino AI, ma nessun controllo automatico. Sistema basato sull'onestà dei creator.",
+          "visual_hint": "Icona interrogativo su schermo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "question mark screen"
+        },
+        {
+          "hook": "I creator devono dichiarare",
+          "description": "Oggi chiunque può creare video fotorealistici con un prompt. YouTube chiede di dichiarare, ma senza algoritmi di controllo.",
+          "visual_hint": "Casella da spuntare",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "check box form",
+          "image": "https://images.pexels.com/photos/8413176/pexels-photo-8413176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rischiano la rimozione",
+          "description": "Se non dichiari e vieni scoperto, video rimosso. Recidivi? Sospensione del canale. Il danno reputazionale arriva prima.",
+          "visual_hint": "Avviso rimozione o stop",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "warning sign technology",
+          "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sai subito cosa è reale",
+          "description": "Per te spettatore: guarda il bollino. Se non c'è ma sembra irreale, segnalalo. La trasparenza funziona solo insieme.",
+          "visual_hint": "Occhio che guarda schermo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person watching screen",
+          "image": "https://images.pexels.com/photos/19947408/pexels-photo-19947408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Guarda il bollino prima",
+          "description": "Da oggi, prima di fidarti di un video, controlla il bollino. Usalo per decidere cosa è reale o no.",
+          "visual_hint": "Dito che punta bollino",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "finger pointing tag",
+          "image": "https://images.pexels.com/photos/8834238/pexels-photo-8834238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800",
+      "savedAt": "2026-05-27T15:17:49.954Z",
+      "sourceId": "1b2eb7271a9303b87269270204e8482a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-folds-display-ads-into-ai-first-demand-gen-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google folds Display Ads into AI-first Demand Gen platform",
+      "link": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
+      "pubDate": "Wed, 27 May 2026 13:12:06 +0000",
+      "slides": [
+        "Google seppellisce i Display Ads in Demand Gen?",
+        "Demand Gen è ora la piattaforma unica AI-first.",
+        "I vecchi formati manuali scompaiono in 6 mesi.",
+        "Chi non migra il budget perde il controllo sui target.",
+        "Testa subito un campagna Demand Gen contro una display classica."
+      ],
+      "thread_text": [
+        "Tra 6 mesi, i vecchi formati display manuali spariranno da Google. Non progressivamente. Spariranno e basta.",
+        "Google sta spostando tutto il budget pubblicitario in Demand Gen, la sua nuova piattaforma AI-first. Non è un'opzione, è una migrazione forzata.",
+        "Se non sposti il budget, perdi il controllo sui target. L'AI decide per te, senza che tu possa intervenire manualmente.",
+        "La scelta è: testare subito una campagna Demand Gen comparata a una classica, o aspettare di essere travolti dal cambiamento.",
+        "Costa 50 euro al giorno. Fallo partire entro questa settimana e vedi tu stesso la differenza nei tassi di conversione."
+      ],
+      "video_script": [
+        "Tra sei mesi spariscono i vecchi formati display.",
+        "Google li sostituisce con Demand Gen AI-first.",
+        "Chi non migra perde il controllo sui target.",
+        "L'AI decide dove e quando mostrare i tuoi annunci.",
+        "Testala subito, costa meno di un abbonamento Spotify."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Tra 6 mesi, i vecchi formati display manuali spariranno da Google. Non progressivamente. Spariranno e basta.",
+            "Google sta spostando tutto il budget pubblicitario in Demand Gen, la sua nuova piattaforma AI-first. Non è un'opzione, è una migrazione forzata.",
+            "Se non sposti il budget, perdi il controllo sui target. L'AI decide per te, senza che tu possa intervenire manualmente.",
+            "La scelta è: testare subito una campagna Demand Gen comparata a una classica, o aspettare di essere travolti dal cambiamento.",
+            "Costa 50 euro al giorno. Fallo partire entro questa settimana e vedi tu stesso la differenza nei tassi di conversione."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Tra sei mesi spariscono i vecchi formati display.",
+            "Google li sostituisce con Demand Gen AI-first.",
+            "Chi non migra perde il controllo sui target.",
+            "L'AI decide dove e quando mostrare i tuoi annunci.",
+            "Testala subito, costa meno di un abbonamento Spotify."
+          ]
+        },
+        "instagram": {
+          "caption": "Tra 6 mesi i vecchi formati display manuali di Google smettono di esistere. Non gradualmente: spariscono e basta, sostituiti da Demand Gen, una piattaforma che decide target e creatività con l’AI. Se non trasferisci il budget, perdi ogni controllo sui target: l’AI sceglie tutto da sola, senza che tu possa intervenire a mano. Per chi lavora sulla pubblicità, significa o testare subito una campagna Demand Gen a 50 euro al giorno, o farsi travolgere dalla migrazione forzata. Hai già confrontato i tassi di conversione prima che spariscano i controlli manuali? 📉🤖🕒🔁📊"
+        }
+      },
+      "instagram_caption": "Tra 6 mesi i vecchi formati display manuali di Google smettono di esistere. Non gradualmente: spariscono e basta, sostituiti da Demand Gen, una piattaforma che decide target e creatività con l’AI. Se non trasferisci il budget, perdi ogni controllo sui target: l’AI sceglie tutto da sola, senza che tu possa intervenire a mano. Per chi lavora sulla pubblicità, significa o testare subito una campagna Demand Gen a 50 euro al giorno, o farsi travolgere dalla migrazione forzata. Hai già confrontato i tassi di conversione prima che spariscano i controlli manuali? 📉🤖🕒🔁📊",
+      "carousel_slides": [
+        {
+          "hook": "I vecchi display spariranno",
+          "description": "Tra 6 mesi i formati display manuali spariscono da Google. Non progressivamente. Spariranno e basta.",
+          "visual_hint": "Conto alla rovescia visivo",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "countdown timer"
+        },
+        {
+          "hook": "Migrazione forzata all'AI",
+          "description": "Google sposta tutto in Demand Gen AI-first. Non è un'opzione, è una migrazione forzata.",
+          "visual_hint": "Logo Google con AI",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "Google AI logo",
+          "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Perdi il controllo sui target",
+          "description": "Se non sposti il budget, l'AI decide per te. Non puoi più intervenire manualmente.",
+          "visual_hint": "Leva di comando rimossa",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "control lever",
+          "image": "https://images.pexels.com/photos/17126293/pexels-photo-17126293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Testa subito o sarai travolto",
+          "description": "Costa 50 euro al giorno. Fallo partire entro questa settimana e vedi la differenza nelle conversioni.",
+          "visual_hint": "Grafico a confronto",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "comparison chart",
+          "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non aspettare, agisci ora",
+          "description": "Testa subito una campagna Demand Gen contro una display classica. Migra il budget prima che sia tardi.",
+          "visual_hint": "Pulsante CTA 'Avvia'",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "start button",
+          "image": "https://images.pexels.com/photos/24201390/pexels-photo-24201390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/google-display-ads-ai-demand-gen-platform-digital-marketing-retail-automation.jpg",
+      "savedAt": "2026-05-27T15:17:30.080Z",
+      "sourceId": "431b433f8c79b6bcf4f158950662b2c8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "china-is-increasingly-keeping-its-best-ai-talent-t",
       "prompt_version": "1.0.0",
       "status": "published",

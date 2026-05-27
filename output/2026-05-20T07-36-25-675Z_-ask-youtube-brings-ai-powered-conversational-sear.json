@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Un click e l'AI ti porta al punto esatto di un video dove si parla di ciò che cerchi, senza scorrere la barra. YouTube ha appena lanciato \"Ask YouTube\" e integrato Gemini Omni nei Shorts: ora puoi fare domande complesse a un video e ricevere risposte, mentre l'AI analizza tono e parole nei tuoi vocali. 🎤 Per chi lavora con i contenuti, questo significa raddoppiare i tempi di visione senza aumentare lo sforzo. ⏱️ Costa meno di un caffè al giorno. Quanto tempo risparmieresti su un video di un'ora?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Hai visto che ora puoi parlare con i video?",
+          "voiceover": "Scopri la nuova funzione di ricerca conversazionale!",
+          "on_screen_text": "Parla con i video!",
+          "visual_direction": "Animazione dinamica del testo che appare e scompare.",
+          "caption": "Nuove possibilità con YouTube.",
+          "tone": "urgent",
+          "emphasis_word": "parlare",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Sì, proprio chiedere cose e l'AI risponde.",
+          "voiceover": "Fai domande e ricevi risposte instantanee.",
+          "on_screen_text": "Chiedi, l'AI risponde!",
+          "visual_direction": "Testo che si muove come se stesse parlando.",
+          "caption": "Conversazioni intelligenti.",
+          "tone": "informative",
+          "emphasis_word": "risponde",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Gemini Omni analizza anche i tuoi Shorts vocali.",
+          "voiceover": "Scopri come Gemini Omni migliora la tua esperienza.",
+          "on_screen_text": "Gemini Omni analizza!",
+          "visual_direction": "Grafica che mostra un'analisi in tempo reale.",
+          "caption": "Innovazione continua.",
+          "tone": "informative",
+          "emphasis_word": "analizza",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Non perdi tempo a cercare, conversi e basta.",
+          "voiceover": "Elimina la frustrazione della ricerca.",
+          "on_screen_text": "Conversi e basta!",
+          "visual_direction": "Testo che si dissolve in una nuvola di parole.",
+          "caption": "Semplifica la tua vita.",
+          "tone": "urgent",
+          "emphasis_word": "semplifica",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Prova subito con un video lungo.",
+          "voiceover": "Inizia oggi con i tuoi contenuti preferiti.",
+          "on_screen_text": "Prova ora!",
+          "visual_direction": "Chiusura con testo bold e un pulsante animato.",
+          "caption": "Non aspettare!",
+          "tone": "inspiring",
+          "emphasis_word": "",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Scopri il futuro di YouTube!"
     }
   },
   "instagram_caption": "Un click e l'AI ti porta al punto esatto di un video dove si parla di ciò che cerchi, senza scorrere la barra. YouTube ha appena lanciato \"Ask YouTube\" e integrato Gemini Omni nei Shorts: ora puoi fare domande complesse a un video e ricevere risposte, mentre l'AI analizza tono e parole nei tuoi vocali. 🎤 Per chi lavora con i contenuti, questo significa raddoppiare i tempi di visione senza aumentare lo sforzo. ⏱️ Costa meno di un caffè al giorno. Quanto tempo risparmieresti su un video di un'ora?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-12.00.28-PM.png?resize=1200,665",
   "savedAt": "2026-05-20T07:37:02.707Z",
-  "sourceId": "c43e302c73717d87a689432917def7a8"
+  "sourceId": "c43e302c73717d87a689432917def7a8",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

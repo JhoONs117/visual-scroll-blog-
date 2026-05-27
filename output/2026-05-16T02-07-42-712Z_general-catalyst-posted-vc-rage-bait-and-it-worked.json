@@ -51,11 +51,72 @@
       "caption": "General Catalyst ha postato un attacco al modello di venture più sacro di a16z su LinkedIn, e la loro audience è esplosa di difese e rabbia 🎯. L'affondo non parlava ai competitor, ma al pubblico avversario, colpendo un dogma che ha scatenato l'istinto di proteggere l'ecosistema 🔥. Ora chiunque su LinkedIn può usare la stessa leva: non replicare i rivali, ma accendere la loro audience 💡. Non ti serve un budget: costa meno di una cena fuori e funziona questa settimana. Quanto vale il tuo prossimo post?"
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Hai visto la reazione furiosa?",
+          "voiceover": "L'audience di a16z è infuriata.",
+          "on_screen_text": "REACTION FURIOUSA",
+          "visual_direction": "Testo in movimento verso l'alto.",
+          "caption": "Scopri cosa è successo.",
+          "tone": "urgent",
+          "emphasis_word": "FURIOUSA",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "General Catalyst ha attaccato!",
+          "voiceover": "Hanno criticato il modello di venture più sacro.",
+          "on_screen_text": "ATTACCO A VENTURE",
+          "visual_direction": "Testo che esplode in entrata.",
+          "caption": "Un attacco senza precedenti.",
+          "tone": "urgent",
+          "emphasis_word": "ATTACCO",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 7,
+          "hook": "Non ai competitor, ma al pubblico.",
+          "voiceover": "Hanno mirato a coinvolgere la loro audience.",
+          "on_screen_text": "MIRATO AL PUBBLICO",
+          "visual_direction": "Testo che scorre orizzontalmente.",
+          "caption": "Coinvolgi, non competere.",
+          "tone": "informative",
+          "emphasis_word": "PUBBLICO",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "LinkedIn ha questa leva.",
+          "voiceover": "Chiunque può attivare la propria audience.",
+          "on_screen_text": "LEVA SU LINKEDIN",
+          "visual_direction": "Testo che si illumina.",
+          "caption": "Sfrutta le opportunità.",
+          "tone": "inspiring",
+          "emphasis_word": "LEVA",
+          "layout": "split"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Non replicare, accendi!",
+          "voiceover": "Accendi la tua audience, non imitare.",
+          "on_screen_text": "ACCENDI LA TUA AUDIENCE",
+          "visual_direction": "Testo che si espande.",
+          "caption": "Fai la differenza.",
+          "tone": "inspiring",
+          "emphasis_word": "ACCENDI",
+          "layout": "single"
+        }
+      ],
+      "duration_sec": 28,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Scopri di più su questo tema!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "General Catalyst ha postato un attacco al modello di venture più sacro di a16z su LinkedIn, e la loro audience è esplosa di difese e rabbia 🎯. L'affondo non parlava ai competitor, ma al pubblico avversario, colpendo un dogma che ha scatenato l'istinto di proteggere l'ecosistema 🔥. Ora chiunque su LinkedIn può usare la stessa leva: non replicare i rivali, ma accendere la loro audience 💡. Non ti serve un budget: costa meno di una cena fuori e funziona questa settimana. Quanto vale il tuo prossimo post?",
@@ -108,8 +169,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Rage-bait.png?resize=1200,960",
   "savedAt": "2026-05-16T02:07:55.898Z",
   "sourceId": "0c3f2056c2d6d50a60db865700799d36",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "kinetic_typography",
   "render_status": {
     "low": null,
     "medium": null,

@@ -39,11 +39,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Scopri la zuppa dei tuoi sogni!",
+          "voiceover": "Preparati a gustare una zuppa incredibile di fagioli e cozze.",
+          "on_screen_text": "Zuppa cremosa di fagioli e cozze.",
+          "visual_direction": "Inquadratura ravvicinata della zuppa fumante.",
+          "caption": "Un piatto da non perdere!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Ingredienti freschi per un sapore unico!",
+          "voiceover": "Ecco cosa ti serve: cozze, fagioli cannellini, pomodori, aglio e olio.",
+          "on_screen_text": "Cozze, fagioli, pomodori, aglio, olio.",
+          "visual_direction": "Mostrare gli ingredienti disposti su un tavolo.",
+          "caption": "Pronto a cucinare?"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 7,
+          "hook": "Iniziamo con le cozze!",
+          "voiceover": "Pulisci le cozze, aprile e sgusciale con cura.",
+          "on_screen_text": "Pulisci e sguscia le cozze.",
+          "visual_direction": "Dimostrazione della pulizia delle cozze.",
+          "caption": "Fai attenzione ai dettagli!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 8,
+          "hook": "Un tocco cremoso!",
+          "voiceover": "Frulla metà dei fagioli con l'acqua delle cozze per una crema deliziosa.",
+          "on_screen_text": "Frulla fagioli con acqua di cozze.",
+          "visual_direction": "Mostrare il frullatore in azione.",
+          "caption": "Cremoso e saporito!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Il tocco finale!",
+          "voiceover": "Guarnisci con prezzemolo fresco e crostoni croccanti.",
+          "on_screen_text": "Guarnisci con prezzemolo e crostoni.",
+          "visual_direction": "Inquadratura della zuppa finita con guarnizione.",
+          "caption": "Servi e gusta!"
+        }
+      ],
+      "duration_sec": 32,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Prova questa ricetta oggi stesso!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -115,8 +161,8 @@
   "image": "https://www.giallozafferano.it/images/360-36091/Zuppa-di-fagioli-e-cozze_650x433_wm.jpg",
   "savedAt": "2026-05-14T14:56:38.447Z",
   "sourceId": "45fe1c8c9257d22f3b2dcd5030a630be",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "slide_deck",
   "render_status": {
     "low": null,
     "medium": null,

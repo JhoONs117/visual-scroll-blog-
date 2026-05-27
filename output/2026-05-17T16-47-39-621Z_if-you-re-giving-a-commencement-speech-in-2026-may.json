@@ -51,11 +51,72 @@
       "caption": "Nel 2026, metà dei neolaureati userà l’AI per scrivere la lettera di presentazione che arriverà sulla tua scrivania. Se sei il relatore del loro commencement e citi ChatGPT per dire “guardate che succede”, loro smettono di ascoltarti. Perché per loro l’AI non è una novità: è lo strumento con cui hanno fatto la tesi e pure il CV perfetto. Per te che assumi o parli in pubblico, la credibilità la perdi nel momento in cui citi la tecnologia che loro sentono già vecchia. Inizia da una storia umana che non possono fingere. Qual è l’ultima storia vera che hai ascoltato da qualcuno ?"
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Attenzione, oratori!",
+          "voiceover": "Se parli di AI, perdi credibilità.",
+          "on_screen_text": "Non menzionare AI!",
+          "visual_direction": "Testo che appare con effetto di pulsazione.",
+          "caption": "Il tuo discorso conta!",
+          "tone": "urgent",
+          "emphasis_word": "credibilità",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Ehi, laureati!",
+          "voiceover": "ChatGPT è già parte della vostra vita quotidiana.",
+          "on_screen_text": "Usano AI ogni giorno.",
+          "visual_direction": "Testo scorre veloce da destra a sinistra.",
+          "caption": "La nuova generazione.",
+          "tone": "informative",
+          "emphasis_word": "AI",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Ma c'è un problema.",
+          "voiceover": "Non sanno raccontare storie vere.",
+          "on_screen_text": "Storie vere? No.",
+          "visual_direction": "Testo in dissolvenza.",
+          "caption": "Serve qualcosa di più.",
+          "tone": "urgent",
+          "emphasis_word": "vere",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Ascoltate bene!",
+          "voiceover": "Insegnagli ciò che l'AI non sa fare.",
+          "on_screen_text": "Insegnagli il valore umano.",
+          "visual_direction": "Testo che si espande al centro.",
+          "caption": "Il valore delle emozioni.",
+          "tone": "inspiring",
+          "emphasis_word": "umano",
+          "layout": "split"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 4,
+          "hook": "Ricorda!",
+          "voiceover": "Il futuro è nelle vostre mani.",
+          "on_screen_text": "I laureati possono cambiare tutto.",
+          "visual_direction": "Testo che ruota e scompare.",
+          "caption": "Fai la differenza!",
+          "tone": "inspiring",
+          "emphasis_word": "cambiare",
+          "layout": "single"
+        }
+      ],
+      "duration_sec": 26,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia a raccontare storie vere!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "Nel 2026, metà dei neolaureati userà l’AI per scrivere la lettera di presentazione che arriverà sulla tua scrivania. Se sei il relatore del loro commencement e citi ChatGPT per dire “guardate che succede”, loro smettono di ascoltarti. Perché per loro l’AI non è una novità: è lo strumento con cui hanno fatto la tesi e pure il CV perfetto. Per te che assumi o parli in pubblico, la credibilità la perdi nel momento in cui citi la tecnologia che loro sentono già vecchia. Inizia da una storia umana che non possono fingere. Qual è l’ultima storia vera che hai ascoltato da qualcuno ?",
@@ -108,8 +169,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2019/01/university.jpg?resize=1200,641",
   "savedAt": "2026-05-17T16:47:52.710Z",
   "sourceId": "f4e20e1053eac63f6170077c2f404a6d",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "kinetic_typography",
   "render_status": {
     "low": null,
     "medium": null,

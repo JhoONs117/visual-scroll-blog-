@@ -39,11 +39,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "La pasta dei tuoi sogni è qui!",
+          "voiceover": "Scopri come preparare una pasta deliziosa e cremosa.",
+          "on_screen_text": "Pasta cremosa con porri e pancetta",
+          "visual_direction": "Inquadratura ravvicinata di un piatto di pasta fumante.",
+          "caption": "Prepara un piatto da sogno!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Ingredienti freschi e semplici!",
+          "voiceover": "Ecco cosa ti serve: porri, pancetta, pecorino e pasta.",
+          "on_screen_text": "Porri, pancetta, pecorino, olio, pasta",
+          "visual_direction": "Mostra gli ingredienti disposti ordinatamente su un tavolo.",
+          "caption": "Ingredienti pronti!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Rosola la pancetta per un sapore intenso!",
+          "voiceover": "Rosola la pancetta in padella e tienila da parte.",
+          "on_screen_text": "Rosola la pancetta e tieni da parte",
+          "visual_direction": "Clip della pancetta che sfrigola in padella.",
+          "caption": "Sapore irresistibile!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Unisci tutto per una cremosità perfetta!",
+          "voiceover": "Unisci pasta, porri, pecorino e un po' d'acqua di cottura.",
+          "on_screen_text": "Unisci pasta, porri e pecorino",
+          "visual_direction": "Visuale della pasta che viene mescolata con gli ingredienti.",
+          "caption": "Cremosa e deliziosa!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Guarnisci e servi!",
+          "voiceover": "Guarnisci con pancetta croccante prima di servire.",
+          "on_screen_text": "Guarnisci con pancetta croccante",
+          "visual_direction": "Inquadratura di un piatto finito, pronto per essere gustato.",
+          "caption": "Pronto da gustare!"
+        }
+      ],
+      "duration_sec": 28,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Prova questa ricetta oggi stesso!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -115,8 +161,8 @@
   "image": "https://www.giallozafferano.it/images/361-36119/Pasta-con-porri-pecorino-e-pancetta_650x433_wm.jpg",
   "savedAt": "2026-05-15T09:45:53.422Z",
   "sourceId": "395c33e805d677f4f3923535aa158fb7",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "slide_deck",
   "render_status": {
     "low": null,
     "medium": null,

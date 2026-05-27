@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Scopri il segreto della bellezza senza tempo!",
+          "voiceover": "Ornella Muti ci mostra come la costanza paga.",
+          "on_screen_text": "La costanza paga: il tuo corpo ti ringrazierà.",
+          "visual_direction": "Inizio con immagini di Ornella Muti in momenti di bellezza.",
+          "caption": "Bellezza e costanza!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Yoga e dieta: la combinazione vincente!",
+          "voiceover": "Una dieta equilibrata e yoga mantengono giovane e tonica.",
+          "on_screen_text": "Yoga e dieta mantengono giovane e tonica.",
+          "visual_direction": "Clip di pratiche di yoga e preparazioni di pasti salutari.",
+          "caption": "Equilibrio perfetto!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Inizia ogni giorno con una routine!",
+          "voiceover": "Respira profondamente e allunga i muscoli ogni mattina.",
+          "on_screen_text": "Respira e allunga i muscoli ogni mattina.",
+          "visual_direction": "Dimostrazione di esercizi di stretching mattutini.",
+          "caption": "Ritmo mattutino!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Non abbandonare la tua routine!",
+          "voiceover": "Non saltare la routine se cerchi risultati concreti.",
+          "on_screen_text": "Non saltare la routine se cerchi risultati.",
+          "visual_direction": "Persone che seguono la loro routine di allenamento.",
+          "caption": "Impegno costante!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Fai oggi un passo verso il benessere!",
+          "voiceover": "Dedica solo 10 minuti allo stretching attivo oggi stesso.",
+          "on_screen_text": "Oggi fai 10 minuti di stretching attivo.",
+          "visual_direction": "Immagini di stretching attivo e sorrisi.",
+          "caption": "Inizia ora!"
+        }
+      ],
+      "duration_sec": 28,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia la tua routine di bellezza oggi!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/10/6205950a715d2.jpeg",
   "savedAt": "2026-05-15T21:08:31.698Z",
   "sourceId": "b46661fb21d300e6ee1db250d9c302da",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

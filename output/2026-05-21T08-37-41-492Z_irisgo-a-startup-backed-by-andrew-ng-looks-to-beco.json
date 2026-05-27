@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "Andrew Ng, uno dei padri dell'intelligenza artificiale moderna, ha appena scommesso su una startup chiamata IrisGo. Si tratta di un assistente che non vive nel cloud, ma gira interamente sul tuo computer 🖥️. Puoi dargli comandi a voce o scrivergli, e lui apre app, compila moduli o scrive email per te, senza mai mandare i tuoi dati su server esterni 🔐. Per chi passa ore su ripetitivi clic e digitazioni, significa riprendersi tempo e privacy in un colpo solo. Hai già un'attività noiosa da provare ad automatizzare oggi?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri IrisGo!",
+          "voiceover": "Andrew Ng ha finanziato questa AI.",
+          "on_screen_text": "AI di Andrew Ng",
+          "visual_direction": "Animazione di testo che appare con un effetto di zoom",
+          "caption": "Il tuo nuovo assistente AI",
+          "tone": "inspiring",
+          "emphasis_word": "AI",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Controlla il tuo computer!",
+          "voiceover": "Controlla il tuo computer con la voce.",
+          "on_screen_text": "Controllo Vocale",
+          "visual_direction": "Testo che si sposta da sinistra a destra",
+          "caption": "Facile e veloce!",
+          "tone": "urgent",
+          "emphasis_word": "voce",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Nessuna connessione necessaria!",
+          "voiceover": "E funziona senza internet.",
+          "on_screen_text": "Offline e Pronto",
+          "visual_direction": "Testo che si dissolve in entrata",
+          "caption": "Usalo ovunque!",
+          "tone": "informative",
+          "emphasis_word": "senza internet",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Automatizza il tuo lavoro!",
+          "voiceover": "Automatizzi tutto il lavoro ripetitivo.",
+          "on_screen_text": "Automatizza Ora",
+          "visual_direction": "Testo che rimbalza",
+          "caption": "Risparmia tempo!",
+          "tone": "urgent",
+          "emphasis_word": "Automatizza",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Provalo oggi!",
+          "voiceover": "Provane una oggi e vedi cosa succede.",
+          "on_screen_text": "Inizia Ora!",
+          "visual_direction": "Testo che appare con un effetto di scorrimento",
+          "caption": "Non aspettare!",
+          "tone": "inspiring",
+          "emphasis_word": "oggi",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 28,
+      "cta": "Scopri di più su IrisGo!"
     }
   },
   "instagram_caption": "Andrew Ng, uno dei padri dell'intelligenza artificiale moderna, ha appena scommesso su una startup chiamata IrisGo. Si tratta di un assistente che non vive nel cloud, ma gira interamente sul tuo computer 🖥️. Puoi dargli comandi a voce o scrivergli, e lui apre app, compila moduli o scrive email per te, senza mai mandare i tuoi dati su server esterni 🔐. Per chi passa ore su ripetitivi clic e digitazioni, significa riprendersi tempo e privacy in un colpo solo. Hai già un'attività noiosa da provare ad automatizzare oggi?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Arnold-Jeffrey-Andrew-Ng36.jpg?resize=1200,900",
   "savedAt": "2026-05-21T08:37:57.303Z",
-  "sourceId": "4f3ec8edc1c281b12fdf720d00172e30"
+  "sourceId": "4f3ec8edc1c281b12fdf720d00172e30",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

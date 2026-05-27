@@ -51,11 +51,72 @@
       "caption": "Questa settimana: se non possiedi dati esclusivi, non hai un biglietto per la corsa all'AI. I chip più potenti sono in mano a pochissime aziende, ma il vero vantaggio è ciò che già hai in cassaforte: dati proprietari che nessun dataset pubblico può replicare. Chi usa solo informazioni pubbliche vede il proprio margine sciogliersi in mesi. Per chi lavora in azienda, questo significa che la vera competizione non è sulla tecnologia, ma su cosa sai di te stesso che gli altri non sanno. Quale dato che già possiedi userai domani per risolvere un problema interno? 📉🧠🔑📁⛏️"
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "The AI gold rush is here!",
+          "voiceover": "Il vero valore è nei dati, non nell'hardware.",
+          "on_screen_text": "Il vero valore è nei DATI",
+          "visual_direction": "Testo in movimento da sinistra a destra.",
+          "caption": "Scopri il valore dei dati.",
+          "tone": "urgent",
+          "emphasis_word": "DATI",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Only a few hold the keys.",
+          "voiceover": "Pochi possiedono i chip più potenti.",
+          "on_screen_text": "Pochi possiedono i CHIP",
+          "visual_direction": "Zoom sul testo con sfondo dinamico.",
+          "caption": "Chi ha il potere?",
+          "tone": "informative",
+          "emphasis_word": "CHIP",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "What's your edge?",
+          "voiceover": "Ma il vantaggio è ciò che hai già.",
+          "on_screen_text": "Il VANTAGGIO è ciò che hai",
+          "visual_direction": "Testo che si dissolve e riappare.",
+          "caption": "Fai la differenza.",
+          "tone": "inspiring",
+          "emphasis_word": "VANTAGGIO",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "Data is your secret weapon.",
+          "voiceover": "Dati proprietari fanno la differenza.",
+          "on_screen_text": "Dati PROPRIETARI fanno la DIFFERENZA",
+          "visual_direction": "Testo che lampeggia per attirare attenzione.",
+          "caption": "Sfrutta i tuoi dati.",
+          "tone": "urgent",
+          "emphasis_word": "PROPRIETARI",
+          "layout": "split"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Are you ready to compete?",
+          "voiceover": "Cosa usi oggi per competere?",
+          "on_screen_text": "Cosa usi OGGI per COMPETERE?",
+          "visual_direction": "Testo che scorre verso l'alto.",
+          "caption": "Unisciti alla corsa.",
+          "tone": "informative",
+          "emphasis_word": "OGGI",
+          "layout": "single"
+        }
+      ],
+      "duration_sec": 25,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Inizia a raccogliere i tuoi dati!",
+      "quality_score": 85
     }
   },
   "instagram_caption": "Questa settimana: se non possiedi dati esclusivi, non hai un biglietto per la corsa all'AI. I chip più potenti sono in mano a pochissime aziende, ma il vero vantaggio è ciò che già hai in cassaforte: dati proprietari che nessun dataset pubblico può replicare. Chi usa solo informazioni pubbliche vede il proprio margine sciogliersi in mesi. Per chi lavora in azienda, questo significa che la vera competizione non è sulla tecnologia, ma su cosa sai di te stesso che gli altri non sanno. Quale dato che già possiedi userai domani per risolvere un problema interno? 📉🧠🔑📁⛏️",
@@ -108,8 +169,8 @@
   "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-958260352.jpg?resize=1200,1074",
   "savedAt": "2026-05-16T20:39:21.256Z",
   "sourceId": "859b70ce116b803078f17664070d8935",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "kinetic_typography",
   "render_status": {
     "low": null,
     "medium": null,

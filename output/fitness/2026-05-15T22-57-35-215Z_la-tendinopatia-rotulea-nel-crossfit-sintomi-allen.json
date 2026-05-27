@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Soffri di dolore al ginocchio durante il crossfit?",
+          "voiceover": "Scopri come affrontare la tendinopatia rotulea con efficacia.",
+          "on_screen_text": "Salta senza dolore: riparti più forte.",
+          "visual_direction": "Inquadratura di un atleta che salta, con focus sul ginocchio.",
+          "caption": "Il tuo ginocchio merita attenzione!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Identifica i sintomi della tendinopatia!",
+          "voiceover": "Il ginocchio del crossfitter merita attenzione e cura.",
+          "on_screen_text": "Il ginocchio del crossfitter merita attenzione.",
+          "visual_direction": "Grafica animata che mostra i sintomi sul ginocchio.",
+          "caption": "Ascolta il tuo corpo!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 7,
+          "hook": "Stabilizza la tua rotula con questo esercizio!",
+          "voiceover": "Prova lo squat isometrico per rinforzare il ginocchio.",
+          "on_screen_text": "Stabilizza la rotula con squat isometrico.",
+          "visual_direction": "Dimostrazione di squat isometrico, con focus su postura corretta.",
+          "caption": "Mantieni la stabilità!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Non ignorare il dolore durante gli atterraggi!",
+          "voiceover": "Fai attenzione a come atterri durante gli esercizi.",
+          "on_screen_text": "Non ignorare il dolore durante gli atterraggi.",
+          "visual_direction": "Clip di un atleta che atterra, evidenziando la tecnica corretta.",
+          "caption": "Atterra in sicurezza!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Ecco un esercizio per te!",
+          "voiceover": "Oggi proviamo 3x30 secondi di wall sit.",
+          "on_screen_text": "Oggi: 3x30 sec di wall sit.",
+          "visual_direction": "Mostra un atleta mentre esegue il wall sit, cronometro in vista.",
+          "caption": "Rinforza il tuo ginocchio!"
+        }
+      ],
+      "duration_sec": 30,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Scopri di più e allenati in sicurezza!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2020/09/18/61f63990c51f7.jpeg",
   "savedAt": "2026-05-15T22:58:09.428Z",
   "sourceId": "fbea61a1d85ec36e6f1093d615aa310c",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

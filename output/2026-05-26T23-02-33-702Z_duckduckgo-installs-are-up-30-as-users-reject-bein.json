@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "DuckDuckGo ha registrato un +30% di installazioni nelle ultime due settimane. 🚨 La causa? Google ha integrato le risposte AI direttamente nei risultati, spesso mescolandole a inserzioni pubblicitarie. Il problema: molti utenti si sentono “forzati” a consumare contenuti promozionali mascherati da informazioni. 🔍 Concretamente, se cerchi una notizia senza voler distinguere tra sponsor e dato oggettivo, la neutralità del motore fa la differenza. Su DuckDuckGo i primi link non vengono scelti da chi paga di più. 💡 Hai già confrontato gli stessi termini su entrambi i motori?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Google mixes AI and ads.",
+          "voiceover": "Google mischia AI e pubblicità. E la gente scappa.",
+          "on_screen_text": "Google mischia AI e pubblicità",
+          "visual_direction": "Text appears with a glitch effect.",
+          "caption": "Scelte di ricerca in cambiamento!",
+          "tone": "urgent",
+          "emphasis_word": "pubblicità",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Users are searching for alternatives.",
+          "voiceover": "DuckDuckGo cresce del 30% in due settimane.",
+          "on_screen_text": "DuckDuckGo cresce del 30%",
+          "visual_direction": "Bold text scaling up.",
+          "caption": "Cosa sta succedendo?",
+          "tone": "informative",
+          "emphasis_word": "30%",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "No more selling answers.",
+          "voiceover": "Cercavano un motore che non vendesse risposte.",
+          "on_screen_text": "Non vendere risposte",
+          "visual_direction": "Text fades in and out.",
+          "caption": "La ricerca libera è qui.",
+          "tone": "inspiring",
+          "emphasis_word": "libera",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 5,
+          "hook": "More objective news.",
+          "voiceover": "Su DuckDuckGo le notizie sono più oggettive.",
+          "on_screen_text": "Notizie più oggettive",
+          "visual_direction": "Text flows like a news ticker.",
+          "caption": "Resta informato.",
+          "tone": "informative",
+          "emphasis_word": "oggettive",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Time to compare.",
+          "voiceover": "Prova a confrontare i primi link oggi.",
+          "on_screen_text": "Confronta i primi link oggi",
+          "visual_direction": "Text animates from the bottom.",
+          "caption": "Fai la tua scelta!",
+          "tone": "urgent",
+          "emphasis_word": "",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 27,
+      "cta": "Scopri DuckDuckGo ora!"
     }
   },
   "instagram_caption": "DuckDuckGo ha registrato un +30% di installazioni nelle ultime due settimane. 🚨 La causa? Google ha integrato le risposte AI direttamente nei risultati, spesso mescolandole a inserzioni pubblicitarie. Il problema: molti utenti si sentono “forzati” a consumare contenuti promozionali mascherati da informazioni. 🔍 Concretamente, se cerchi una notizia senza voler distinguere tra sponsor e dato oggettivo, la neutralità del motore fa la differenza. Su DuckDuckGo i primi link non vengono scelti da chi paga di più. 💡 Hai già confrontato gli stessi termini su entrambi i motori?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
   "savedAt": "2026-05-26T23:02:45.225Z",
-  "sourceId": "1e2ebecf46ce42536e7ad3acebf10eef"
+  "sourceId": "1e2ebecf46ce42536e7ad3acebf10eef",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

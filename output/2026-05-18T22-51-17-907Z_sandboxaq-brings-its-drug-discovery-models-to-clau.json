@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "SandboxAQ ha caricato i suoi modelli di scoperta farmaceutica dentro Claude. 🧬 Niente più PhD in informatica: descrivi una proteina a parole tue e il sistema genera candidati molecolari in tempo reale. 💬 I team che lo usano completano in giorni quello che prima richiedeva settimane di coding. 🔬 Per te? Apri Claude, chiedigli: \"Proponimi tre molecole per questo bersaglio\" — e vedi se funziona. ⏱️ Chi non prova questo flusso rischia di restare indietro nei trial."
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri come SandboxAQ cambia il gioco.",
+          "voiceover": "Non serve saper programmare.",
+          "on_screen_text": "Non serve programmare.",
+          "visual_direction": "Testo animato che appare con effetti di entrata.",
+          "caption": "Semplice come parlare.",
+          "tone": "informative",
+          "emphasis_word": "programmare",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Incontra Claude.",
+          "voiceover": "Parli con Claude e lui progetta farmaci.",
+          "on_screen_text": "Parla con Claude.",
+          "visual_direction": "Transizione fluida verso un'illustrazione di Claude.",
+          "caption": "Un assistente virtuale.",
+          "tone": "inspiring",
+          "emphasis_word": "progetta",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Unione di tecnologia e scienza.",
+          "voiceover": "SandboxAQ ha unito i due mondi.",
+          "on_screen_text": "Unisce i due mondi.",
+          "visual_direction": "Testo che si fonde in un'immagine di laboratorio.",
+          "caption": "Innovazione continua.",
+          "tone": "urgent",
+          "emphasis_word": "unito",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Risultati rapidi.",
+          "voiceover": "In giorni, non settimane.",
+          "on_screen_text": "In giorni, non settimane.",
+          "visual_direction": "Timer che scorre velocemente.",
+          "caption": "Velocità senza precedenti.",
+          "tone": "urgent",
+          "emphasis_word": "giorni",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Inizia ora.",
+          "voiceover": "Prova oggi: chiedi una molecola.",
+          "on_screen_text": "Chiedi una molecola.",
+          "visual_direction": "Animazione di una molecola che appare.",
+          "caption": "Inizia la tua scoperta.",
+          "tone": "inspiring",
+          "emphasis_word": "molecola",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 28,
+      "cta": "Inizia la tua scoperta ora!"
     }
   },
   "instagram_caption": "SandboxAQ ha caricato i suoi modelli di scoperta farmaceutica dentro Claude. 🧬 Niente più PhD in informatica: descrivi una proteina a parole tue e il sistema genera candidati molecolari in tempo reale. 💬 I team che lo usano completano in giorni quello che prima richiedeva settimane di coding. 🔬 Per te? Apri Claude, chiedigli: \"Proponimi tre molecole per questo bersaglio\" — e vedi se funziona. ⏱️ Chi non prova questo flusso rischia di restare indietro nei trial.",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-5339511481.jpg?w=640",
   "savedAt": "2026-05-18T22:51:29.815Z",
-  "sourceId": "d8859cfa6328132ab539eff087a26d94"
+  "sourceId": "d8859cfa6328132ab539eff087a26d94",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

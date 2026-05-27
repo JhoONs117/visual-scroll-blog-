@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "3.000 persone, il 10% dei dipendenti Intuit, sono state licenziate e l'azienda ha detto che è per concentrarsi sull'intelligenza artificiale. Hanno chiuso interi reparti — marketing, customer service — non solo ruoli operativi. Adesso, se chiami TurboTax per un problema, dall'altra parte non c'è un essere umano ma un bot: programmato per risolverti il ticket in fretta, non per ascoltarti. Prendi l'organigramma della tua azienda e cancella chi spiega, riconcilia o approva: quanti umani servono davvero? 📉🤖💼🗑️"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "Intuit taglia 3,000 posti di lavoro.",
+          "voiceover": "Intuit ha annunciato il licenziamento di oltre 3,000 dipendenti per rifocalizzarsi sull'intelligenza artificiale.",
+          "on_screen_text": "3,000 posti di lavoro tagliati",
+          "visual_direction": "Testo che appare con un effetto di scrittura.",
+          "caption": "La nuova era di Intuit.",
+          "tone": "urgent",
+          "emphasis_word": "tagliati",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Non solo operai.",
+          "voiceover": "Questa riduzione non colpisce solo gli operai, ma interi reparti sono stati saltati.",
+          "on_screen_text": "Interi reparti colpiti!",
+          "visual_direction": "Transizione veloce tra immagini di reparti diversi.",
+          "caption": "Cambiamenti radicali.",
+          "tone": "urgent",
+          "emphasis_word": "reparti",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "TurboTax diventa un bot.",
+          "voiceover": "Il supporto per TurboTax ora è gestito da un bot, non ci saranno più operatori umani.",
+          "on_screen_text": "Supporto TurboTax: un bot.",
+          "visual_direction": "Animazione di un bot che risponde a domande.",
+          "caption": "Il futuro è qui.",
+          "tone": "informative",
+          "emphasis_word": "bot",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 4,
+          "hook": "Niente più umani.",
+          "voiceover": "Non chiamerai più un umano per assistenza, è tutto automatizzato.",
+          "on_screen_text": "Niente più assistenza umana.",
+          "visual_direction": "Testo che si dissolve in un'animazione di un telefono che squilla.",
+          "caption": "La fine di un'era.",
+          "tone": "urgent",
+          "emphasis_word": "umani",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Quanti umani servono?",
+          "voiceover": "Quanti umani servono davvero nella tua azienda ora che tutto è automatizzato?",
+          "on_screen_text": "Quanti umani servono?",
+          "visual_direction": "Testo che si ingrandisce mentre si dissolve.",
+          "caption": "Rifletti sul futuro.",
+          "tone": "inspiring",
+          "emphasis_word": "umani",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 25,
+      "cta": "Scopri di più sul futuro del lavoro."
     }
   },
   "instagram_caption": "3.000 persone, il 10% dei dipendenti Intuit, sono state licenziate e l'azienda ha detto che è per concentrarsi sull'intelligenza artificiale. Hanno chiuso interi reparti — marketing, customer service — non solo ruoli operativi. Adesso, se chiami TurboTax per un problema, dall'altra parte non c'è un essere umano ma un bot: programmato per risolverti il ticket in fretta, non per ascoltarti. Prendi l'organigramma della tua azienda e cancella chi spiega, riconcilia o approva: quanti umani servono davvero? 📉🤖💼🗑️",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2261740845.jpg?w=1024",
   "savedAt": "2026-05-20T18:11:33.370Z",
-  "sourceId": "6e56061a8de1e5320f65ff2ce23a02c4"
+  "sourceId": "6e56061a8de1e5320f65ff2ce23a02c4",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Unisci surf e yoga per equilibrio!",
+          "voiceover": "Scopri come surf e yoga possono trasformare la tua vita.",
+          "on_screen_text": "La giusta combinazione cambia tutto.",
+          "visual_direction": "Inquadratura di una persona che fa yoga sulla spiaggia.",
+          "caption": "Un equilibrio perfetto!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Respira e fluisci come un'onda!",
+          "voiceover": "Impara a respirare profondamente ed entrare in sintonia con te stesso.",
+          "on_screen_text": "Unisci surf e yoga per equilibrio.",
+          "visual_direction": "Clip di una persona che fa yoga mentre ondeggia come un'onda.",
+          "caption": "Flusso e armonia!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "Non forzare la postura!",
+          "voiceover": "Ascolta il tuo corpo e trova il tuo ritmo.",
+          "on_screen_text": "Respira e fluisci come un'onda.",
+          "visual_direction": "Inquadratura di una persona che pratica yoga con un cane accanto.",
+          "caption": "Ascolta il tuo corpo!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "5 minuti di yoga per te!",
+          "voiceover": "Dedica del tempo a te stesso e prova questa breve sessione.",
+          "on_screen_text": "Oggi prova 5 minuti di yoga.",
+          "visual_direction": "Clip di una persona che inizia una sessione di yoga.",
+          "caption": "Inizia ora, ti sentirai meglio!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Inizia oggi il tuo viaggio!",
+          "voiceover": "Unisciti a noi per un'esperienza unica di benessere.",
+          "on_screen_text": "Inizia il tuo viaggio oggi!",
+          "visual_direction": "Inquadratura finale di un gruppo che pratica insieme.",
+          "caption": "Unisciti alla community!"
+        }
+      ],
+      "duration_sec": 27,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Prova il tuo primo esercizio ora!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/14/620a7696a5465.jpeg",
   "savedAt": "2026-05-15T16:10:17.414Z",
   "sourceId": "e79a95de99709db9497d2cd228322bf7",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

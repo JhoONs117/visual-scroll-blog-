@@ -49,6 +49,73 @@
     },
     "instagram": {
       "caption": "I registratori di volo dei piloti morti restano classificati, nemmeno le famiglie possono ascoltarli. Un team ha addestrato un'AI su vecchi nastri: ora riproduce ogni inflessione e respiro con un margine d'errore sotto lo 0,3% ✈️. Gli investigatori possono interrogare digitalmente un testimone, simulare scenari alternativi e ricostruire gli ultimi secondi di un incidente 🎙️. Per chi indaga, è come avere un testimone vivo; per i parenti, esiste la possibilità di ricevere il file audio su richiesta. Ascolteresti la voce di qualcuno che non c'è più?"
+    },
+    "video": {
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Un pilota morto sta parlando di nuovo.",
+          "voiceover": "Immagina di risentire la voce di un pilota scomparso.",
+          "on_screen_text": "Voce di un pilota scomparso?",
+          "visual_direction": "Testo che appare con un effetto di battito.",
+          "caption": "Scopri la verità.",
+          "tone": "urgent",
+          "emphasis_word": "voce",
+          "layout": "single"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "",
+          "voiceover": "L'AI ha clonato la sua voce dai vecchi nastri.",
+          "on_screen_text": "L'AI ha clonato la sua voce.",
+          "visual_direction": "Animazione di nastri che si svolgono.",
+          "caption": "",
+          "tone": "informative",
+          "emphasis_word": "clonato",
+          "layout": "single"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 5,
+          "hook": "",
+          "voiceover": "Le registrazioni originali sono ancora classificate.",
+          "on_screen_text": "Registrazioni ancora classificate.",
+          "visual_direction": "Immagine di un documento classificato.",
+          "caption": "",
+          "tone": "urgent",
+          "emphasis_word": "classificate",
+          "layout": "single"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "",
+          "voiceover": "Gli investigatori hanno un testimone digitale adesso.",
+          "on_screen_text": "Testimone digitale disponibile.",
+          "visual_direction": "Grafica di un computer che elabora dati.",
+          "caption": "",
+          "tone": "informative",
+          "emphasis_word": "digitale",
+          "layout": "single"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 7,
+          "hook": "",
+          "voiceover": "Ascolta il file e decidi se ti sembra vero.",
+          "on_screen_text": "Decidi se è vero.",
+          "visual_direction": "Effetto sonoro con onde sonore animate.",
+          "caption": "Fai sentire la tua opinione.",
+          "tone": "urgent",
+          "emphasis_word": "vero",
+          "layout": "single"
+        }
+      ],
+      "quality_score": 85,
+      "duration_sec": 29,
+      "cta": "Ascolta la registrazione ora!"
     }
   },
   "instagram_caption": "I registratori di volo dei piloti morti restano classificati, nemmeno le famiglie possono ascoltarli. Un team ha addestrato un'AI su vecchi nastri: ora riproduce ogni inflessione e respiro con un margine d'errore sotto lo 0,3% ✈️. Gli investigatori possono interrogare digitalmente un testimone, simulare scenari alternativi e ricostruire gli ultimi secondi di un incidente 🎙️. Per chi indaga, è come avere un testimone vivo; per i parenti, esiste la possibilità di ricevere il file audio su richiesta. Ascolteresti la voce di qualcuno che non c'è più?",
@@ -100,5 +167,7 @@
   ],
   "image": "https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800",
   "savedAt": "2026-05-25T16:16:29.959Z",
-  "sourceId": "fd275f98564370a19d9262a1cb9e8acf"
+  "sourceId": "fd275f98564370a19d9262a1cb9e8acf",
+  "render_template": "kinetic_typography",
+  "render_quality": "low"
 }

@@ -38,11 +38,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 6,
+          "hook": "La palestra non è l'unica soluzione!",
+          "voiceover": "Hai mai pensato che puoi allenarti anche senza attrezzi?",
+          "on_screen_text": "Più energia senza palestra? Non esiste.",
+          "visual_direction": "Immagini di Mahmood e Blanco che si allenano divertendosi.",
+          "caption": "Scopri come puoi muoverti ogni giorno!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 5,
+          "hook": "Il corpo chiede movimento quotidiano!",
+          "voiceover": "Essere attivi è fondamentale per il nostro benessere.",
+          "on_screen_text": "Il corpo chiede movimento ogni giorno.",
+          "visual_direction": "Clip di persone che si muovono in vari ambienti.",
+          "caption": "Ascolta il tuo corpo!"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Prova questo esercizio chiave!",
+          "voiceover": "Lo squat a corpo libero è semplice e efficace.",
+          "on_screen_text": "Esercizio chiave: squat a corpo libero.",
+          "visual_direction": "Dimostrazione di squat da diverse angolazioni.",
+          "caption": "Esercita con noi!"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 6,
+          "hook": "Attenzione alla postura!",
+          "voiceover": "Ricorda, non piegare le ginocchia in avanti durante lo squat.",
+          "on_screen_text": "Non piegare le ginocchia in avanti.",
+          "visual_direction": "Infografica che mostra la postura corretta.",
+          "caption": "Postura corretta = Risultati migliori!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 6,
+          "hook": "Pronto a sfidarti?",
+          "voiceover": "Oggi fai 3 serie da 15 squat. Inizia ora!",
+          "on_screen_text": "Oggi fai 3 serie da 15 squat.",
+          "visual_direction": "Countdown mentre qualcuno completa gli squat.",
+          "caption": "Inizia il tuo allenamento ora!"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Metti in pratica questi esercizi oggi!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -108,8 +154,8 @@
   "image": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2022/02/11/6205cb5c04a79.jpeg",
   "savedAt": "2026-05-15T21:09:02.551Z",
   "sourceId": "c04ceed3bbafed2dd5be7e896417a19d",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "exercise_motion_anatomy",
   "render_status": {
     "low": null,
     "medium": null,

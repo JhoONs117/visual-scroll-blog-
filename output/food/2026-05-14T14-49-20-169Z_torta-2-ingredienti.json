@@ -39,11 +39,57 @@
       ]
     },
     "video": {
-      "scenes": [],
-      "duration_sec": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "duration_sec": 5,
+          "hook": "Scopri la torta più semplice mai fatta!",
+          "voiceover": "Oggi prepariamo una torta cremosa con solo due ingredienti!",
+          "on_screen_text": "Torta cremosa 2 ingredienti!",
+          "visual_direction": "Inquadratura ravvicinata della torta pronta.",
+          "caption": "Un dolce facile e veloce!"
+        },
+        {
+          "scene": 2,
+          "duration_sec": 6,
+          "hook": "Ingredienti semplici, risultati straordinari!",
+          "voiceover": "Serviranno solo mele Golden e cioccolato fondente.",
+          "on_screen_text": "Mele Golden e cioccolato fondente",
+          "visual_direction": "Mostra gli ingredienti sul tavolo.",
+          "caption": "Pronto a iniziare?"
+        },
+        {
+          "scene": 3,
+          "duration_sec": 6,
+          "hook": "Passo 1: Cuoci le mele!",
+          "voiceover": "Sbuccia le mele e cuocile con poca acqua.",
+          "on_screen_text": "Cuoci le mele con poca acqua.",
+          "visual_direction": "Mostra le mele in pentola mentre cuociono.",
+          "caption": "Facile, vero?"
+        },
+        {
+          "scene": 4,
+          "duration_sec": 7,
+          "hook": "Passo 2: Frulla e unisci!",
+          "voiceover": "Frulla le mele e uniscile al cioccolato fuso.",
+          "on_screen_text": "Frulla e mescola!",
+          "visual_direction": "Mostra il frullatore e il cioccolato fuso.",
+          "caption": "Un mix delizioso!"
+        },
+        {
+          "scene": 5,
+          "duration_sec": 5,
+          "hook": "Spolvera e servi!",
+          "voiceover": "Spolvera con cacao amaro e servi la tua torta.",
+          "on_screen_text": "Spolvera con cacao amaro.",
+          "visual_direction": "Inquadratura finale della torta con cacao sopra.",
+          "caption": "Pronto per assaporare?"
+        }
+      ],
+      "duration_sec": 29,
       "aspect_ratio": "9:16",
-      "cta": "",
-      "quality_score": 0
+      "cta": "Provala e condividi il tuo risultato!",
+      "quality_score": 85
     }
   },
   "video_script": [
@@ -115,8 +161,8 @@
   "image": "https://www.giallozafferano.it/images/361-36174/Torta-2-ingredienti_650x433_wm.jpg",
   "savedAt": "2026-05-14T14:49:43.139Z",
   "sourceId": "4dff87d4e172b41438f75023bc536266",
-  "render_quality": null,
-  "render_template": null,
+  "render_quality": "low",
+  "render_template": "slide_deck",
   "render_status": {
     "low": null,
     "medium": null,
