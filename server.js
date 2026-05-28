@@ -13,6 +13,75 @@ const OUTPUT_DIRS = {
   'fitness': path.join(__dirname, 'output', 'fitness'),
 };
 
+const GITHUB_OWNER = 'JhoONs117';
+const GITHUB_REPO  = 'visual-scroll-blog-';
+const GITHUB_DIR   = { 'ai-news': 'output', 'food': 'output/food', 'fitness': 'output/fitness' };
+
+function ghRequest(method, filePath, body, token) {
+  return new Promise((resolve, reject) => {
+    const payload = body ? JSON.stringify(body) : null;
+    const opts = {
+      hostname: 'api.github.com',
+      path: `/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${filePath}`,
+      method,
+      headers: {
+        'Authorization': `token ${token}`,
+        'User-Agent':    'visual-scroll-blog',
+        'Accept':        'application/vnd.github.v3+json',
+        ...(payload ? { 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(payload) } : {}),
+      },
+    };
+    const req = https.request(opts, r => {
+      let data = '';
+      r.on('data', c => { data += c; });
+      r.on('end', () => {
+        try { resolve({ status: r.statusCode, body: JSON.parse(data) }); }
+        catch { resolve({ status: r.statusCode, body: data }); }
+      });
+    });
+    req.on('error', reject);
+    if (payload) req.write(payload);
+    req.end();
+  });
+}
+
+async function githubUpdateArticle(agent, slug, updateFn, token, commitMsg) {
+  const dir = GITHUB_DIR[agent];
+  if (!dir) throw new Error('Unknown agent');
+
+  const listRes = await ghRequest('GET', dir, null, token);
+  if (listRes.status !== 200) throw new Error(`List dir failed: ${listRes.status}`);
+
+  const jsonFiles = Array.isArray(listRes.body)
+    ? listRes.body.filter(f => f.type === 'file' && f.name.endsWith('.json'))
+    : [];
+
+  let bestFile = null;
+  for (const f of jsonFiles) {
+    const base  = f.name.replace('.json', '');
+    const idx   = base.indexOf('_');
+    const fSlug = idx !== -1 ? base.slice(idx + 1) : base;
+    if (fSlug !== slug) continue;
+    if (!bestFile || f.name > bestFile.name) bestFile = f;
+  }
+  if (!bestFile) throw new Error('Article not found');
+
+  const fileRes = await ghRequest('GET', `${dir}/${bestFile.name}`, null, token);
+  if (fileRes.status !== 200) throw new Error(`Get file failed: ${fileRes.status}`);
+
+  const sha     = fileRes.body.sha;
+  const article = JSON.parse(Buffer.from(fileRes.body.content.replace(/\n/g, ''), 'base64').toString('utf8'));
+
+  updateFn(article);
+
+  const newContent = Buffer.from(JSON.stringify(article, null, 2) + '\n').toString('base64');
+  const putRes = await ghRequest('PUT', `${dir}/${bestFile.name}`, { message: commitMsg, content: newContent, sha }, token);
+  if (putRes.status !== 200 && putRes.status !== 201) {
+    throw new Error(`PUT failed: ${putRes.status} — ${JSON.stringify(putRes.body?.message || '')}`);
+  }
+  return article;
+}
+
 const VALID_STATUSES = ['draft', 'approved', 'scheduled', 'published', 'failed'];
 
 const MIME = {
@@ -29,45 +98,20 @@ http.createServer((req, res) => {
   if (req.method === 'POST' && urlPath === '/api/set-status') {
     let body = '';
     req.on('data', chunk => { body += chunk; });
-    req.on('end', () => {
+    req.on('end', async () => {
       try {
         const { agent, slug, status } = JSON.parse(body);
-        if (!VALID_STATUSES.includes(status)) {
-          res.writeHead(400); res.end('Invalid status'); return;
-        }
-        const dir = OUTPUT_DIRS[agent];
-        if (!dir) { res.writeHead(400); res.end('Unknown agent'); return; }
-
-        // Verifica esistenza articolo prima di rispondere 200
-        const exists = fs.readdirSync(dir).filter(f => f.endsWith('.json')).some(fname => {
-          try { return JSON.parse(fs.readFileSync(path.join(dir, fname), 'utf8')).slug === slug; }
-          catch { return false; }
-        });
-        if (!exists) { res.writeHead(404); res.end('Article not found'); return; }
-
-        // Risponde subito — la modifica avviene in background dopo git pull
-        // Ordine: pull (porta le scene CI) → applica status → build → commit → push
+        if (!VALID_STATUSES.includes(status)) { res.writeHead(400); res.end('Invalid status'); return; }
+        if (!GITHUB_DIR[agent]) { res.writeHead(400); res.end('Unknown agent'); return; }
         const token = process.env.GIT_TOKEN;
-        const d = dir.replace(/"/g, '\\"');
-        const s = slug.replace(/"/g, '\\"');
-        const st = status.replace(/"/g, '\\"');
-        const pushCmd = token
-          ? `git remote set-url origin "https://${token}@github.com/JhoONs117/visual-scroll-blog-.git" && ` +
-            `git pull --rebase origin main && ` +
-            `node scripts/apply-status.js "${d}" "${s}" "${st}" && ` +
-            `node scripts/build-data-agents.js && ` +
-            `git add output/ output/food/ output/fitness/ frontend/data-agents.js && ` +
-            `git diff --cached --quiet || (git commit -m "auto: ${st} ${s}" && git push)`
-          : `node scripts/apply-status.js "${d}" "${s}" "${st}"`;
-
-        spawn('sh', ['-c',
-          `cd "${__dirname}" && ${pushCmd}`
-        ], { detached: true, stdio: 'ignore' }).unref();
-
+        if (!token) { res.writeHead(500); res.end('GIT_TOKEN not set'); return; }
+        // Commit atomico direttamente su GitHub — niente spawn, niente race condition
+        await githubUpdateArticle(agent, slug, a => { a.status = status; }, token, `auto: ${status} ${slug}`);
         res.writeHead(200, { 'Content-Type': 'application/json' });
         res.end(JSON.stringify({ ok: true, slug, status }));
       } catch (e) {
-        res.writeHead(500); res.end('Error: ' + e.message);
+        const code = e.message.includes('not found') ? 404 : 500;
+        res.writeHead(code); res.end('Error: ' + e.message);
       }
     });
     return;
