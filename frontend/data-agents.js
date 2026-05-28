@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "why-google-s-ai-can-t-spell-google-or-anything-els",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Why Google’s AI can’t spell Google (or anything else)",
+      "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "pubDate": "Thu, 28 May 2026 00:17:41 +0000",
+      "slides": [
+        "Google's AI misspells its own name—why?",
+        "LLMs lack a cognitive map for spelling.",
+        "They predict tokens, not letters.",
+        "Your brand name fails in search tools today.",
+        "Test your domain: ask it to spell anything."
+      ],
+      "thread_text": [
+        "Un'AI che sbaglia a scrivere il proprio nome. Non è un errore umano, è una faglia strutturale nel modello.",
+        "I LLM non hanno una mappa cognitiva delle parole. Non 'sanno' che G-o-o-g-l-e si scrive così.",
+        "Funzionano a token: pezzi di parole, non lettere. Per loro 'Google' è un codice, non una sequenza ortografica.",
+        "Se il tuo brand è un nome proprio, nei tool di ricerca oggi è invisibile o storpiato.",
+        "Prova: chiedi a qualsiasi LLM di scrivere 'X Æ A-12'. Poi cerca il tuo dominio con lo stesso metodo."
+      ],
+      "video_script": [
+        "Google sbaglia a scrivere Google – ti sei chiesto perché?",
+        "Non ha una mappa delle parole, solo token.",
+        "Non processa lettere, spezza tutto in pezzi.",
+        "Il tuo brand? Per l'AI è un codice rotto.",
+        "Testalo subito: chiedigli di scrivere qualcosa."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Un'AI che sbaglia a scrivere il proprio nome. Non è un errore umano, è una faglia strutturale nel modello.",
+            "I LLM non hanno una mappa cognitiva delle parole. Non 'sanno' che G-o-o-g-l-e si scrive così.",
+            "Funzionano a token: pezzi di parole, non lettere. Per loro 'Google' è un codice, non una sequenza ortografica.",
+            "Se il tuo brand è un nome proprio, nei tool di ricerca oggi è invisibile o storpiato.",
+            "Prova: chiedi a qualsiasi LLM di scrivere 'X Æ A-12'. Poi cerca il tuo dominio con lo stesso metodo."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google sbaglia a scrivere Google – ti sei chiesto perché?",
+            "Non ha una mappa delle parole, solo token.",
+            "Non processa lettere, spezza tutto in pezzi.",
+            "Il tuo brand? Per l'AI è un codice rotto.",
+            "Testalo subito: chiedigli di scrivere qualcosa."
+          ]
+        },
+        "instagram": {
+          "caption": "Google ha appena scoperto che la sua AI sbaglia a scrivere \"Google\" 🧠.\n\nI modelli di linguaggio non sanno compitare perché non ragionano per lettere, ma per pezzi di parole chiamati token. Per loro, 'Google' è un codice logico, non una sequenza ortografica. Il risultato? Se possiedi un dominio o un brand con un nome proprio, nei tool di ricerca potresti essere invisibile o storpiato ✏️.\n\nChiedi a un LLM di scrivere qualsiasi parola a caso: vedrai che la coerenza è una bugia. Il tuo business online regge a questo test? 🔍"
+        }
+      },
+      "instagram_caption": "Google ha appena scoperto che la sua AI sbaglia a scrivere \"Google\" 🧠.\n\nI modelli di linguaggio non sanno compitare perché non ragionano per lettere, ma per pezzi di parole chiamati token. Per loro, 'Google' è un codice logico, non una sequenza ortografica. Il risultato? Se possiedi un dominio o un brand con un nome proprio, nei tool di ricerca potresti essere invisibile o storpiato ✏️.\n\nChiedi a un LLM di scrivere qualsiasi parola a caso: vedrai che la coerenza è una bugia. Il tuo business online regge a questo test? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "It can't spell itself.",
+          "description": "Google's AI misspells its own name. Not human error—structural flaw in the model.",
+          "visual_hint": "Misspelled 'Gooogle' display",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer screen error"
+        },
+        {
+          "hook": "No map for words.",
+          "description": "LLMs lack a cognitive map for spelling. They don't 'know' how Google is written.",
+          "visual_hint": "Brain with missing letters",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "neural network visualization",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tokens, not letters.",
+          "description": "They predict tokens, not letters. 'Google' is a code, not a spelling sequence.",
+          "visual_hint": "Words broken into tokens",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server rack closeup",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your brand is invisible.",
+          "description": "Your brand name fails in search tools today. Proper names get mangled or lost.",
+          "visual_hint": "Brand name in red cross",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers desk",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it yourself now.",
+          "description": "Ask any LLM to spell 'X Æ A-12'. Then search your own domain with the same method.",
+          "visual_hint": "Search box with gibberish",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone keyboard typing",
+          "image": "https://images.pexels.com/photos/9902413/pexels-photo-9902413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-two-ps.jpg?resize=1200,675",
+      "savedAt": "2026-05-28T02:16:20.212Z",
+      "sourceId": "efa51fc32d2a660331a872881d5fa01a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "meta-launches-instagram-facebook-and-whatsapp-subs",
       "prompt_version": "1.0.0",
       "status": "published",
