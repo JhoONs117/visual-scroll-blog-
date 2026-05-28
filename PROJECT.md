@@ -41,7 +41,7 @@ Docs archiviati in `archive/docs/`: FOOD-AGENT.md · REFACTOR-PLAN.md · CONTEXT
 | **Refactor FASE 11 — Review multi-canale** | ✅ Completa | Schema v2: badge agente, status pill, prompt_version, select canale X/IG/TikTok, sezioni per canale, copia per canale |
 | **Refactor FASE 13 — Carousel unificato** | ✅ Completa | `carousel.html?agent=ai-news\|food`, `carousel-food.html` rimosso; proxy immagini in `server.js` |
 | **Fix download PNG food** | ✅ Fix | Proxy `/proxy-image` in `server.js` bypassa CORS Giallozafferano; Pexels usa ancora `useCORS` diretto |
-| **Workflow approvazione articoli** | ✅ Completa | `POST /api/set-status` in `server.js`; tasto Approva in `review.html` (barra FASE12 progress) e `carousel.html` (status pill + counter + ✅ emoji nel dropdown) |
+| **Workflow approvazione articoli** | ✅ Completa | `POST /api/set-status` in `server.js`; tasto Approva in `review.html` (barra FASE12 progress) e `carousel.html` (status pill + counter + ✅ emoji nel dropdown). Flusso: GitHub Contents API (commit atomico JSON + data-agents.js) — niente spawn, niente race condition. |
 | M21 — Test distribuzione reale | 🔄 In corso | Primo post 2026-05-11 ore 15:00 IT su X. 1 thread/giorno |
 | **Refactor FASE 14 — Video Engine V2** | ✅ Completa (2026-05-20) | Schema v3 migrato. Pipeline slide-deck: zoompan + TTS OpenAI 44kHz + subtitle. `render-pending.js` auto-import PNG + auto build+push. CI genera piani ogni 2h. Video visibili su Railway. |
 | **Refactor FASE 15 — Visual Template Engine** | ✅ Completa (2026-05-22) | Motore template modulare: ogni agente dichiara i template disponibili. `kinetic_typography` operativo (FFmpeg drawtext + TTS). `render_status` migrato da quality-key a template-key. `window.AGENT_CONFIGS` nel frontend. Dropdown **Video Template** in `carousel.html`. |
@@ -196,11 +196,11 @@ ogni 2 ore
 - **Tutti gli agent runners usano `cache.json`** — NON parallelizzare gli step che scrivono su `cache.json`, causerebbe write conflict silenzioso
 - **Food gate looksLikeRecipe**: evita chiamate API su contenuti non ricetta — azzerato il costo su articoli magazine nel feed
 - **Backfill selettivo AI news**: `node backfill-carousel.js --force --last N` per aggiornare gli N più recenti
-- **Token GitHub**: serve scope `workflow` per pushare `.github/workflows/`
+- **Token GitHub**: serve scope `repo` per GitHub Contents API (commit atomico da server) + scope `workflow` per pushare `.github/workflows/`. Token configurato come service variable `GIT_TOKEN` su Railway.
 - **Railway deploy**: ~1 minuto grazie a `.railwayignore` che esclude `output/`, `output/food/` e `output/fitness/`
 - **Nota crescita**: quando `data-agents.js` pesa sul browser, aggiungere `.slice(-50)` per agente in `build-data-agents.js` prima di scrivere il file
 - **Proxy immagini food**: `server.js` espone `/proxy-image?url=...` — necessario localmente per scaricare PNG food (Giallozafferano non ha CORS headers). In produzione Railway lo serve automaticamente.
-- **Workflow approvazione (locale)**: approvare articoli da `review.html` o `carousel.html` → scrive `status: "approved"` nel JSON locale → committare i JSON modificati → push → Railway rideploya con gli status aggiornati. L'approvazione su Railway è effimera (si perde al prossimo redeploy) — il flusso corretto è sempre locale → commit → push.
+- **Workflow approvazione**: click Approva su Railway → `POST /api/set-status` → GitHub Contents API commit atomico del JSON + `data-agents.js` → Railway rideploya → status persistente. Niente spawn background, niente perdita silenziosa.
 
 ---
 

@@ -1177,24 +1177,17 @@ La FASE 12 (pipeline video automatica) richiede almeno **30 articoli approvati**
 
 ### Come funziona internamente
 
-`POST /api/set-status` in `server.js`:
-- Aggiorna `status: "approved"` in **tutti** i file con quello slug (non solo il più recente)
-- Lancia in background: `build-data-agents.js` → `git commit` → `git push` automatico se `GIT_TOKEN` è configurato
-- `build-data-agents.js` preserva sempre lo status più alto tra i duplicati (`approved` batte `draft`) — un'approvazione non viene mai persa anche se la pipeline rigenera lo stesso articolo
+`POST /api/set-status` in `server.js` usa la **GitHub Contents API** (commit atomico, niente spawn):
+
+1. Lista i file JSON nella directory dell'agente via GitHub API
+2. Trova il file più recente con lo slug corrispondente
+3. Legge il file, aggiorna `status`, fa **PUT atomico** su GitHub → commit immediato in git
+4. In parallelo (fire-and-forget): legge `data-agents.js` via Git Blobs API (file >1MB), aggiorna lo status dello slug, fa PUT di `data-agents.js` su GitHub → secondo commit
+5. Railway vede i due commit rapidi → rideploya con entrambi i file aggiornati
 
 Il toggle funziona: cliccare di nuovo su un articolo approvato lo riporta a `draft`.
 
-### Come salvare le approvazioni su Railway
-
-**Automatico se `GIT_TOKEN` è configurato** (già fatto): ogni approvazione da UI fa automaticamente `git commit + push` → Railway rideploya con lo status aggiornato.
-
-Se per qualche motivo il push automatico non avviene (es. GIT_TOKEN scaduto), salva manualmente:
-
-```bash
-git add output/ output/food/ output/fitness/ frontend/data-agents.js
-git commit -m "approva articoli per FASE 12 (X/30)"
-git push
-```
+**Garanzia**: la risposta 200 arriva solo dopo che il JSON è già in git — niente perdita silenziosa anche se Railway rideploya nel frattempo. `GIT_TOKEN` deve essere configurato come **service variable** su Railway (scope `repo`).
 
 ### Indicatori visivi
 
