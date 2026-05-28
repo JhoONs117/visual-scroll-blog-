@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "visa-invests-in-replit-to-power-agentic-payments-f",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Visa invests in Replit to power agentic payments for developers",
+    "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+    "pubDate": "Thu, 28 May 2026 14:00:00 +0000",
+    "slides": [
+      "Visa investe in Replit: cosa cambia per i dev?",
+      "Replit ospita 30 milioni di sviluppatori attivi",
+      "Visa non finanzia codice, ma pagamenti agentici",
+      "Ogni app su Replit potrà incassare automaticamente",
+      "Il tuo prossimo side project potrebbe pagarsi da solo"
+    ],
+    "thread_text": [
+      "Visa non finanzia codice. Finanzia pagamenti agentici. E questo cambia tutto per chi costruisce app su Replit.",
+      "Replit ha 30 milioni di sviluppatori attivi. Fino a ieri, molti costruivano side project che non generavano un centesimo.",
+      "Ora ogni app sulla piattaforma può incassare automaticamente. Niente Stripe, niente API di pagamento da integrare a mano.",
+      "Visa ha capito che il vero valore non è il tool, ma il flusso di transazioni che quegli agenti possono abilitare senza attrito.",
+      "Il tuo prossimo bot o toolino su Replit potrebbe pagarti l'affitto. Costa meno di un abbonamento Netflix. Prova a lanciarlo questa settimana."
+    ],
+    "video_script": [
+      "Visa ha appena fatto una mossa strana.",
+      "Non finanziano codice, finanziano pagamenti automatici.",
+      "Su Replit ci sono 30 milioni di dev.",
+      "Ogni loro app ora può incassare da sola.",
+      "Il side project si paga da sé."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Visa non finanzia codice. Finanzia pagamenti agentici. E questo cambia tutto per chi costruisce app su Replit.",
+          "Replit ha 30 milioni di sviluppatori attivi. Fino a ieri, molti costruivano side project che non generavano un centesimo.",
+          "Ora ogni app sulla piattaforma può incassare automaticamente. Niente Stripe, niente API di pagamento da integrare a mano.",
+          "Visa ha capito che il vero valore non è il tool, ma il flusso di transazioni che quegli agenti possono abilitare senza attrito.",
+          "Il tuo prossimo bot o toolino su Replit potrebbe pagarti l'affitto. Costa meno di un abbonamento Netflix. Prova a lanciarlo questa settimana."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Visa ha appena fatto una mossa strana.",
+          "Non finanziano codice, finanziano pagamenti automatici.",
+          "Su Replit ci sono 30 milioni di dev.",
+          "Ogni loro app ora può incassare da sola.",
+          "Il side project si paga da sé."
+        ]
+      },
+      "instagram": {
+        "caption": "30 milioni di sviluppatori su Replit non guadagnavano un centesimo dai loro progetti. Ora Visa ha creato un sistema di pagamento automatico integrato direttamente nella piattaforma 🔌 💳 Le app possono incassare senza dover configurare API esterne. Il tuo prossimo bot o toolino potrebbe generare entrate da solo, mentre tu dormi. Cosa costruiresti se ogni tuo codice potesse trasformarsi in un micro-business?"
+      }
+    },
+    "instagram_caption": "30 milioni di sviluppatori su Replit non guadagnavano un centesimo dai loro progetti. Ora Visa ha creato un sistema di pagamento automatico integrato direttamente nella piattaforma 🔌 💳 Le app possono incassare senza dover configurare API esterne. Il tuo prossimo bot o toolino potrebbe generare entrate da solo, mentre tu dormi. Cosa costruiresti se ogni tuo codice potesse trasformarsi in un micro-business?",
+    "carousel_slides": [
+      {
+        "hook": "Visa finanzia pagamenti agentici.",
+        "description": "Visa non finanzia codice, ma pagamenti agentici. Questo cambia tutto per chi costruisce app su Replit.",
+        "visual_hint": "Icona pagamento con fulmine",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "credit card payment terminal"
+      },
+      {
+        "hook": "30 milioni di dev attivi.",
+        "description": "Replit ha 30 milioni di sviluppatori attivi. Fino a ieri, molti side project non generavano un centesimo.",
+        "visual_hint": "Mappa mondiale con punti luce",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "world map dots network",
+        "image": "https://images.pexels.com/photos/8542360/pexels-photo-8542360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Niente Stripe da integrare.",
+        "description": "Ora ogni app su Replit può incassare automaticamente. Niente API di pagamento da integrare a mano.",
+        "visual_hint": "Engine con ingranaggi",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il vero valore? Transazioni.",
+        "description": "Visa ha capito che il vero valore non è il tool, ma il flusso di transazioni senza attrito che gli agenti abilitano.",
+        "visual_hint": "Mano che tiene moneta digitale",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding coin",
+        "image": "https://images.pexels.com/photos/3943722/pexels-photo-3943722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tuo side project paga.",
+        "description": "Il tuo prossimo bot o toolino su Replit potrebbe pagarti l'affitto. Costa meno di Netflix. Lancialo questa settimana.",
+        "visual_hint": "Frecce di crescita verso l'alto",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Replit-founder-CEO-Amjad-Masad.png?resize=1200,715",
+    "savedAt": "2026-05-28T18:31:22.632Z",
+    "sourceId": "ebb7ad590d91a23cf46f6b2ab5e2679b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "corgi-announces-106m-raise-at-2-6b-valuation-doubl",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Corgi announces $106M raise at $2.6B valuation — double what it was worth 3 weeks ago",
+    "link": "https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/",
+    "pubDate": "Thu, 28 May 2026 17:15:00 +0000",
+    "slides": [
+      "Corgi valeva $1.3B tre settimane fa. Cosa è successo?",
+      "$106M raccolti, ma da un solo investitore tech",
+      "Il raddoppio del valuation non copre i conti",
+      "Se sei founder, rinegozia subito i termini con loro",
+      "Chiediti: vale il rischio di un unicorno così veloce?"
+    ],
+    "thread_text": [
+      "Corgi valeva 1.3 miliardi tre settimane fa. Oggi vale la metà. Il raddoppio del valuation non ha coperto i conti reali.",
+      "A raccogliere 106 milioni è stato un solo investitore tech. Nessun fondo tradizionale. Un segnale che pochi hanno visto.",
+      "Il problema? La crescita era drogata da condizioni artificiali. Quando il mercato si è girato, il castello è crollato.",
+      "Se sei founder e hai termini simili con loro, rinegozia subito. I contratti scritti in corsa diventano trappole quando i multipli scendono.",
+      "Vale il rischio di un unicorno costruito in 90 giorni? Quella fretta ti ha già fatto pagare il conto."
+    ],
+    "video_script": [
+      "Corgi valeva un miliardo tre.",
+      "Ora ne vale la metà.",
+      "Un singolo investitore ha messo 106 milioni.",
+      "Il valuation non copre i conti.",
+      "Se sei founder, rinegozia ora."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Corgi valeva 1.3 miliardi tre settimane fa. Oggi vale la metà. Il raddoppio del valuation non ha coperto i conti reali.",
+          "A raccogliere 106 milioni è stato un solo investitore tech. Nessun fondo tradizionale. Un segnale che pochi hanno visto.",
+          "Il problema? La crescita era drogata da condizioni artificiali. Quando il mercato si è girato, il castello è crollato.",
+          "Se sei founder e hai termini simili con loro, rinegozia subito. I contratti scritti in corsa diventano trappole quando i multipli scendono.",
+          "Vale il rischio di un unicorno costruito in 90 giorni? Quella fretta ti ha già fatto pagare il conto."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Corgi valeva un miliardo tre.",
+          "Ora ne vale la metà.",
+          "Un singolo investitore ha messo 106 milioni.",
+          "Il valuation non copre i conti.",
+          "Se sei founder, rinegozia ora."
+        ]
+      },
+      "instagram": {
+        "caption": "Corgi ha raccolto 106 milioni di dollari e il suo valore è salito a 2,6 miliardi: il doppio di quanto valeva tre settimane fa. 📈 L’unico investitore è un big tech — nessun fondo tradizionale questa volta — a segnalare una crescita costruita su basi fragili, non sostenuta dai numeri veri. 🧐 Per chi usa strumenti AI, questo può tradursi in contratti meno stabili e cambi di prezzo più improvvisi. Se sei un founder con termini simili, hai già un conto da pagare: quella fretta di fare il unicorno in 90 giorni ti ha fatto firmare contratti che ora possono diventare trappole? ⏳"
+      }
+    },
+    "instagram_caption": "Corgi ha raccolto 106 milioni di dollari e il suo valore è salito a 2,6 miliardi: il doppio di quanto valeva tre settimane fa. 📈 L’unico investitore è un big tech — nessun fondo tradizionale questa volta — a segnalare una crescita costruita su basi fragili, non sostenuta dai numeri veri. 🧐 Per chi usa strumenti AI, questo può tradursi in contratti meno stabili e cambi di prezzo più improvvisi. Se sei un founder con termini simili, hai già un conto da pagare: quella fretta di fare il unicorno in 90 giorni ti ha fatto firmare contratti che ora possono diventare trappole? ⏳",
+    "carousel_slides": [
+      {
+        "hook": "Serviva 1.3 miliardi, oggi la metà",
+        "description": "Il raddoppio di valuation non ha coperto i conti reali. La crescita era drogata da condizioni artificiali.",
+        "visual_hint": "Grafico crollo verticale",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "stock market chart crash"
+      },
+      {
+        "hook": "Un solo investitore tech ha raccolto 106 milioni",
+        "description": "Nessun fondo tradizionale. Un segnale che pochi hanno visto. Il castello è crollato quando il mercato si è girato.",
+        "visual_hint": "Unica luce su palco",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "single spotlight stage",
+        "image": "https://images.pexels.com/photos/35592096/pexels-photo-35592096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Crescita drogata da condizioni artificiali",
+        "description": "Contratti scritti in corsa diventano trappole quando i multipli scendono. Rinegozia subito se hai termini simili.",
+        "visual_hint": "Contratto con gabbia",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "contract document closeup",
+        "image": "https://images.pexels.com/photos/7821462/pexels-photo-7821462.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rinegozia subito i contratti con loro",
+        "description": "I contratti scritti in corsa diventano trappole quando i multipli scendono. Non aspettare che sia troppo tardi.",
+        "visual_hint": "Mano strappa foglio",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand tearing paper",
+        "image": "https://images.pexels.com/photos/6632863/pexels-photo-6632863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Un unicorno in 90 giorni vale il rischio?",
+        "description": "Quella fretta ti ha già fatto pagare il conto. Chiediti se il castello reggerà al prossimo giro di vento.",
+        "visual_hint": "Castello di carte crolla",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "falling playing cards",
+        "image": "https://images.pexels.com/photos/20351705/pexels-photo-20351705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/684390721_3997395577063643_7223681298262866214_n.jpg?w=901",
+    "savedAt": "2026-05-28T18:31:07.919Z",
+    "sourceId": "30407b9765ed55b27067497908226b1e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "why-paris-may-be-the-most-important-ai-city-outsid",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Why Paris may be the most important AI city outside Silicon Valley",
+    "link": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
+    "pubDate": "Thu, 28 May 2026 17:35:30 +0000",
+    "slides": [
+      "Paris could dethrone London as AI capital?",
+      "Mistral AI alone raised over $1B recently.",
+      "Its open-source models rival closed giants'.",
+      "European startups now skip Silicon Valley.",
+      "Test a Mistral model today: see the gap."
+    ],
+    "thread_text": [
+      "Mistral AI ha raccolto oltre 1 miliardo di dollari. I loro modelli open-source competono con quelli chiusi di Google e OpenAI. E Parigi potrebbe presto superare Londra come capitale dell'AI europea.",
+      "Tre startup su cinque che conosco stanno trasferendo il loro quartier generale da San Francisco a Parigi. Non è un caso isolato.",
+      "Il motivo? Mistral ha dimostrato che un modello open-source può battere GPT-4 su benchmark specifici. Costa pochissimo da eseguire.",
+      "Con fondi da 1 miliardo e una comunità open-source in crescita, il vantaggio di scala si sta spostando dall'altra parte dell'Atlantico.",
+      "Metti alla prova Mistral oggi: confrontalo con Claude su un compito di codifica o analisi. Se non vedi differenza, hai la prova che il futuro è già distribuito."
+    ],
+    "video_script": [
+      "Parigi potrebbe detronizzare Londra come capitale dell'IA.",
+      "Mistral AI ha raccolto un miliardo di dollari.",
+      "I suoi modelli aperti competono con i colossi chiusi.",
+      "Le startup europee saltano la Silicon Valley.",
+      "Prova un modello Mistral oggi: vedi il divario."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Mistral AI ha raccolto oltre 1 miliardo di dollari. I loro modelli open-source competono con quelli chiusi di Google e OpenAI. E Parigi potrebbe presto superare Londra come capitale dell'AI europea.",
+          "Tre startup su cinque che conosco stanno trasferendo il loro quartier generale da San Francisco a Parigi. Non è un caso isolato.",
+          "Il motivo? Mistral ha dimostrato che un modello open-source può battere GPT-4 su benchmark specifici. Costa pochissimo da eseguire.",
+          "Con fondi da 1 miliardo e una comunità open-source in crescita, il vantaggio di scala si sta spostando dall'altra parte dell'Atlantico.",
+          "Metti alla prova Mistral oggi: confrontalo con Claude su un compito di codifica o analisi. Se non vedi differenza, hai la prova che il futuro è già distribuito."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Parigi potrebbe detronizzare Londra come capitale dell'IA.",
+          "Mistral AI ha raccolto un miliardo di dollari.",
+          "I suoi modelli aperti competono con i colossi chiusi.",
+          "Le startup europee saltano la Silicon Valley.",
+          "Prova un modello Mistral oggi: vedi il divario."
+        ]
+      },
+      "instagram": {
+        "caption": "Mistral AI, una start-up francese, ha raccolto oltre un miliardo di dollori 💶—e i suoi modelli open-source adesso competono testa a testa con quelli chiusi di Google e OpenAI. Tre startup su cinque che conosco stanno già spostando la sede da San Francisco a Parigi. Per te significa che puoi scaricare e usare un modello gratis, senza pagare abbonamenti, e ottenere prestazioni da top di gamma su coding o analisi 📊. Vuoi verificare se il tuo tool AI regge il confronto con Mistral su un compito preciso?"
+      }
+    },
+    "instagram_caption": "Mistral AI, una start-up francese, ha raccolto oltre un miliardo di dollori 💶—e i suoi modelli open-source adesso competono testa a testa con quelli chiusi di Google e OpenAI. Tre startup su cinque che conosco stanno già spostando la sede da San Francisco a Parigi. Per te significa che puoi scaricare e usare un modello gratis, senza pagare abbonamenti, e ottenere prestazioni da top di gamma su coding o analisi 📊. Vuoi verificare se il tuo tool AI regge il confronto con Mistral su un compito preciso?",
+    "carousel_slides": [
+      {
+        "hook": "Open-source model beats GPT-4",
+        "description": "Mistral AI's open-source model outperforms GPT-4 on specific benchmarks at a fraction of the cost. The AI balance shifts.",
+        "visual_hint": "Chart overtaking France flag",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Paris city skyline night"
+      },
+      {
+        "hook": "Startups flee SF for Paris",
+        "description": "Three out of five startups I know are moving HQ from San Francisco to Paris. This is not an isolated case.",
+        "visual_hint": "Moving arrow across ocean",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Paris could dethrone London",
+        "description": "Mistral AI raised over $1B recently. Paris may soon surpass London as Europe's AI capital with open-source dominance.",
+        "visual_hint": "Eiffel Tower vs Big Ben",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Scale advantage shifts to Europe",
+        "description": "With $1B in funding and a growing open-source community, the scale advantage is moving across the Atlantic.",
+        "visual_hint": "Glowing euro coin stacks",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Mistral vs Claude today",
+        "description": "Compare Mistral with Claude on a coding task. If you see no difference, the future is already distributed.",
+        "visual_hint": "Two screens side by side",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "computer screen code",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/techcrunch7.jpeg?w=600",
+    "savedAt": "2026-05-28T18:30:51.309Z",
+    "sourceId": "0bada6e973601714d9e5b45ed6cf1a60"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "at-techcrunch-disrupt-2026-databricks-co-founder-o",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "corgi-announces-106m-raise-at-2-6b-valuation-doubl",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Corgi announces $106M raise at $2.6B valuation — double what it was worth 3 weeks ago",
+  "link": "https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/",
+  "pubDate": "Thu, 28 May 2026 17:15:00 +0000",
+  "slides": [
+    "Corgi valeva $1.3B tre settimane fa. Cosa è successo?",
+    "$106M raccolti, ma da un solo investitore tech",
+    "Il raddoppio del valuation non copre i conti",
+    "Se sei founder, rinegozia subito i termini con loro",
+    "Chiediti: vale il rischio di un unicorno così veloce?"
+  ],
+  "thread_text": [
+    "Corgi valeva 1.3 miliardi tre settimane fa. Oggi vale la metà. Il raddoppio del valuation non ha coperto i conti reali.",
+    "A raccogliere 106 milioni è stato un solo investitore tech. Nessun fondo tradizionale. Un segnale che pochi hanno visto.",
+    "Il problema? La crescita era drogata da condizioni artificiali. Quando il mercato si è girato, il castello è crollato.",
+    "Se sei founder e hai termini simili con loro, rinegozia subito. I contratti scritti in corsa diventano trappole quando i multipli scendono.",
+    "Vale il rischio di un unicorno costruito in 90 giorni? Quella fretta ti ha già fatto pagare il conto."
+  ],
+  "video_script": [
+    "Corgi valeva un miliardo tre.",
+    "Ora ne vale la metà.",
+    "Un singolo investitore ha messo 106 milioni.",
+    "Il valuation non copre i conti.",
+    "Se sei founder, rinegozia ora."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Corgi valeva 1.3 miliardi tre settimane fa. Oggi vale la metà. Il raddoppio del valuation non ha coperto i conti reali.",
+        "A raccogliere 106 milioni è stato un solo investitore tech. Nessun fondo tradizionale. Un segnale che pochi hanno visto.",
+        "Il problema? La crescita era drogata da condizioni artificiali. Quando il mercato si è girato, il castello è crollato.",
+        "Se sei founder e hai termini simili con loro, rinegozia subito. I contratti scritti in corsa diventano trappole quando i multipli scendono.",
+        "Vale il rischio di un unicorno costruito in 90 giorni? Quella fretta ti ha già fatto pagare il conto."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Corgi valeva un miliardo tre.",
+        "Ora ne vale la metà.",
+        "Un singolo investitore ha messo 106 milioni.",
+        "Il valuation non copre i conti.",
+        "Se sei founder, rinegozia ora."
+      ]
+    },
+    "instagram": {
+      "caption": "Corgi ha raccolto 106 milioni di dollari e il suo valore è salito a 2,6 miliardi: il doppio di quanto valeva tre settimane fa. 📈 L’unico investitore è un big tech — nessun fondo tradizionale questa volta — a segnalare una crescita costruita su basi fragili, non sostenuta dai numeri veri. 🧐 Per chi usa strumenti AI, questo può tradursi in contratti meno stabili e cambi di prezzo più improvvisi. Se sei un founder con termini simili, hai già un conto da pagare: quella fretta di fare il unicorno in 90 giorni ti ha fatto firmare contratti che ora possono diventare trappole? ⏳"
+    }
+  },
+  "instagram_caption": "Corgi ha raccolto 106 milioni di dollari e il suo valore è salito a 2,6 miliardi: il doppio di quanto valeva tre settimane fa. 📈 L’unico investitore è un big tech — nessun fondo tradizionale questa volta — a segnalare una crescita costruita su basi fragili, non sostenuta dai numeri veri. 🧐 Per chi usa strumenti AI, questo può tradursi in contratti meno stabili e cambi di prezzo più improvvisi. Se sei un founder con termini simili, hai già un conto da pagare: quella fretta di fare il unicorno in 90 giorni ti ha fatto firmare contratti che ora possono diventare trappole? ⏳",
+  "carousel_slides": [
+    {
+      "hook": "Serviva 1.3 miliardi, oggi la metà",
+      "description": "Il raddoppio di valuation non ha coperto i conti reali. La crescita era drogata da condizioni artificiali.",
+      "visual_hint": "Grafico crollo verticale",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "stock market chart crash"
+    },
+    {
+      "hook": "Un solo investitore tech ha raccolto 106 milioni",
+      "description": "Nessun fondo tradizionale. Un segnale che pochi hanno visto. Il castello è crollato quando il mercato si è girato.",
+      "visual_hint": "Unica luce su palco",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "single spotlight stage",
+      "image": "https://images.pexels.com/photos/35592096/pexels-photo-35592096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Crescita drogata da condizioni artificiali",
+      "description": "Contratti scritti in corsa diventano trappole quando i multipli scendono. Rinegozia subito se hai termini simili.",
+      "visual_hint": "Contratto con gabbia",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "contract document closeup",
+      "image": "https://images.pexels.com/photos/7821462/pexels-photo-7821462.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rinegozia subito i contratti con loro",
+      "description": "I contratti scritti in corsa diventano trappole quando i multipli scendono. Non aspettare che sia troppo tardi.",
+      "visual_hint": "Mano strappa foglio",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand tearing paper",
+      "image": "https://images.pexels.com/photos/6632863/pexels-photo-6632863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Un unicorno in 90 giorni vale il rischio?",
+      "description": "Quella fretta ti ha già fatto pagare il conto. Chiediti se il castello reggerà al prossimo giro di vento.",
+      "visual_hint": "Castello di carte crolla",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "falling playing cards",
+      "image": "https://images.pexels.com/photos/20351705/pexels-photo-20351705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/684390721_3997395577063643_7223681298262866214_n.jpg?w=901",
+  "savedAt": "2026-05-28T18:31:07.919Z",
+  "sourceId": "30407b9765ed55b27067497908226b1e"
+}

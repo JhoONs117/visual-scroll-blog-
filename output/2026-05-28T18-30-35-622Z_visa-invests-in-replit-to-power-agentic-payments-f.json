@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "visa-invests-in-replit-to-power-agentic-payments-f",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Visa invests in Replit to power agentic payments for developers",
+  "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+  "pubDate": "Thu, 28 May 2026 14:00:00 +0000",
+  "slides": [
+    "Visa investe in Replit: cosa cambia per i dev?",
+    "Replit ospita 30 milioni di sviluppatori attivi",
+    "Visa non finanzia codice, ma pagamenti agentici",
+    "Ogni app su Replit potrà incassare automaticamente",
+    "Il tuo prossimo side project potrebbe pagarsi da solo"
+  ],
+  "thread_text": [
+    "Visa non finanzia codice. Finanzia pagamenti agentici. E questo cambia tutto per chi costruisce app su Replit.",
+    "Replit ha 30 milioni di sviluppatori attivi. Fino a ieri, molti costruivano side project che non generavano un centesimo.",
+    "Ora ogni app sulla piattaforma può incassare automaticamente. Niente Stripe, niente API di pagamento da integrare a mano.",
+    "Visa ha capito che il vero valore non è il tool, ma il flusso di transazioni che quegli agenti possono abilitare senza attrito.",
+    "Il tuo prossimo bot o toolino su Replit potrebbe pagarti l'affitto. Costa meno di un abbonamento Netflix. Prova a lanciarlo questa settimana."
+  ],
+  "video_script": [
+    "Visa ha appena fatto una mossa strana.",
+    "Non finanziano codice, finanziano pagamenti automatici.",
+    "Su Replit ci sono 30 milioni di dev.",
+    "Ogni loro app ora può incassare da sola.",
+    "Il side project si paga da sé."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Visa non finanzia codice. Finanzia pagamenti agentici. E questo cambia tutto per chi costruisce app su Replit.",
+        "Replit ha 30 milioni di sviluppatori attivi. Fino a ieri, molti costruivano side project che non generavano un centesimo.",
+        "Ora ogni app sulla piattaforma può incassare automaticamente. Niente Stripe, niente API di pagamento da integrare a mano.",
+        "Visa ha capito che il vero valore non è il tool, ma il flusso di transazioni che quegli agenti possono abilitare senza attrito.",
+        "Il tuo prossimo bot o toolino su Replit potrebbe pagarti l'affitto. Costa meno di un abbonamento Netflix. Prova a lanciarlo questa settimana."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Visa ha appena fatto una mossa strana.",
+        "Non finanziano codice, finanziano pagamenti automatici.",
+        "Su Replit ci sono 30 milioni di dev.",
+        "Ogni loro app ora può incassare da sola.",
+        "Il side project si paga da sé."
+      ]
+    },
+    "instagram": {
+      "caption": "30 milioni di sviluppatori su Replit non guadagnavano un centesimo dai loro progetti. Ora Visa ha creato un sistema di pagamento automatico integrato direttamente nella piattaforma 🔌 💳 Le app possono incassare senza dover configurare API esterne. Il tuo prossimo bot o toolino potrebbe generare entrate da solo, mentre tu dormi. Cosa costruiresti se ogni tuo codice potesse trasformarsi in un micro-business?"
+    }
+  },
+  "instagram_caption": "30 milioni di sviluppatori su Replit non guadagnavano un centesimo dai loro progetti. Ora Visa ha creato un sistema di pagamento automatico integrato direttamente nella piattaforma 🔌 💳 Le app possono incassare senza dover configurare API esterne. Il tuo prossimo bot o toolino potrebbe generare entrate da solo, mentre tu dormi. Cosa costruiresti se ogni tuo codice potesse trasformarsi in un micro-business?",
+  "carousel_slides": [
+    {
+      "hook": "Visa finanzia pagamenti agentici.",
+      "description": "Visa non finanzia codice, ma pagamenti agentici. Questo cambia tutto per chi costruisce app su Replit.",
+      "visual_hint": "Icona pagamento con fulmine",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "credit card payment terminal"
+    },
+    {
+      "hook": "30 milioni di dev attivi.",
+      "description": "Replit ha 30 milioni di sviluppatori attivi. Fino a ieri, molti side project non generavano un centesimo.",
+      "visual_hint": "Mappa mondiale con punti luce",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "world map dots network",
+      "image": "https://images.pexels.com/photos/8542360/pexels-photo-8542360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Niente Stripe da integrare.",
+      "description": "Ora ogni app su Replit può incassare automaticamente. Niente API di pagamento da integrare a mano.",
+      "visual_hint": "Engine con ingranaggi",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il vero valore? Transazioni.",
+      "description": "Visa ha capito che il vero valore non è il tool, ma il flusso di transazioni senza attrito che gli agenti abilitano.",
+      "visual_hint": "Mano che tiene moneta digitale",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding coin",
+      "image": "https://images.pexels.com/photos/3943722/pexels-photo-3943722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il tuo side project paga.",
+      "description": "Il tuo prossimo bot o toolino su Replit potrebbe pagarti l'affitto. Costa meno di Netflix. Lancialo questa settimana.",
+      "visual_hint": "Frecce di crescita verso l'alto",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/09/Replit-founder-CEO-Amjad-Masad.png?resize=1200,715",
+  "savedAt": "2026-05-28T18:31:22.632Z",
+  "sourceId": "ebb7ad590d91a23cf46f6b2ab5e2679b"
+}

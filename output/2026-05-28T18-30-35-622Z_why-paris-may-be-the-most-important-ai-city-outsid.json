@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-paris-may-be-the-most-important-ai-city-outsid",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why Paris may be the most important AI city outside Silicon Valley",
+  "link": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
+  "pubDate": "Thu, 28 May 2026 17:35:30 +0000",
+  "slides": [
+    "Paris could dethrone London as AI capital?",
+    "Mistral AI alone raised over $1B recently.",
+    "Its open-source models rival closed giants'.",
+    "European startups now skip Silicon Valley.",
+    "Test a Mistral model today: see the gap."
+  ],
+  "thread_text": [
+    "Mistral AI ha raccolto oltre 1 miliardo di dollari. I loro modelli open-source competono con quelli chiusi di Google e OpenAI. E Parigi potrebbe presto superare Londra come capitale dell'AI europea.",
+    "Tre startup su cinque che conosco stanno trasferendo il loro quartier generale da San Francisco a Parigi. Non è un caso isolato.",
+    "Il motivo? Mistral ha dimostrato che un modello open-source può battere GPT-4 su benchmark specifici. Costa pochissimo da eseguire.",
+    "Con fondi da 1 miliardo e una comunità open-source in crescita, il vantaggio di scala si sta spostando dall'altra parte dell'Atlantico.",
+    "Metti alla prova Mistral oggi: confrontalo con Claude su un compito di codifica o analisi. Se non vedi differenza, hai la prova che il futuro è già distribuito."
+  ],
+  "video_script": [
+    "Parigi potrebbe detronizzare Londra come capitale dell'IA.",
+    "Mistral AI ha raccolto un miliardo di dollari.",
+    "I suoi modelli aperti competono con i colossi chiusi.",
+    "Le startup europee saltano la Silicon Valley.",
+    "Prova un modello Mistral oggi: vedi il divario."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Mistral AI ha raccolto oltre 1 miliardo di dollari. I loro modelli open-source competono con quelli chiusi di Google e OpenAI. E Parigi potrebbe presto superare Londra come capitale dell'AI europea.",
+        "Tre startup su cinque che conosco stanno trasferendo il loro quartier generale da San Francisco a Parigi. Non è un caso isolato.",
+        "Il motivo? Mistral ha dimostrato che un modello open-source può battere GPT-4 su benchmark specifici. Costa pochissimo da eseguire.",
+        "Con fondi da 1 miliardo e una comunità open-source in crescita, il vantaggio di scala si sta spostando dall'altra parte dell'Atlantico.",
+        "Metti alla prova Mistral oggi: confrontalo con Claude su un compito di codifica o analisi. Se non vedi differenza, hai la prova che il futuro è già distribuito."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Parigi potrebbe detronizzare Londra come capitale dell'IA.",
+        "Mistral AI ha raccolto un miliardo di dollari.",
+        "I suoi modelli aperti competono con i colossi chiusi.",
+        "Le startup europee saltano la Silicon Valley.",
+        "Prova un modello Mistral oggi: vedi il divario."
+      ]
+    },
+    "instagram": {
+      "caption": "Mistral AI, una start-up francese, ha raccolto oltre un miliardo di dollori 💶—e i suoi modelli open-source adesso competono testa a testa con quelli chiusi di Google e OpenAI. Tre startup su cinque che conosco stanno già spostando la sede da San Francisco a Parigi. Per te significa che puoi scaricare e usare un modello gratis, senza pagare abbonamenti, e ottenere prestazioni da top di gamma su coding o analisi 📊. Vuoi verificare se il tuo tool AI regge il confronto con Mistral su un compito preciso?"
+    }
+  },
+  "instagram_caption": "Mistral AI, una start-up francese, ha raccolto oltre un miliardo di dollori 💶—e i suoi modelli open-source adesso competono testa a testa con quelli chiusi di Google e OpenAI. Tre startup su cinque che conosco stanno già spostando la sede da San Francisco a Parigi. Per te significa che puoi scaricare e usare un modello gratis, senza pagare abbonamenti, e ottenere prestazioni da top di gamma su coding o analisi 📊. Vuoi verificare se il tuo tool AI regge il confronto con Mistral su un compito preciso?",
+  "carousel_slides": [
+    {
+      "hook": "Open-source model beats GPT-4",
+      "description": "Mistral AI's open-source model outperforms GPT-4 on specific benchmarks at a fraction of the cost. The AI balance shifts.",
+      "visual_hint": "Chart overtaking France flag",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Paris city skyline night"
+    },
+    {
+      "hook": "Startups flee SF for Paris",
+      "description": "Three out of five startups I know are moving HQ from San Francisco to Paris. This is not an isolated case.",
+      "visual_hint": "Moving arrow across ocean",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Paris could dethrone London",
+      "description": "Mistral AI raised over $1B recently. Paris may soon surpass London as Europe's AI capital with open-source dominance.",
+      "visual_hint": "Eiffel Tower vs Big Ben",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scale advantage shifts to Europe",
+      "description": "With $1B in funding and a growing open-source community, the scale advantage is moving across the Atlantic.",
+      "visual_hint": "Glowing euro coin stacks",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Mistral vs Claude today",
+      "description": "Compare Mistral with Claude on a coding task. If you see no difference, the future is already distributed.",
+      "visual_hint": "Two screens side by side",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "computer screen code",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/techcrunch7.jpeg?w=600",
+  "savedAt": "2026-05-28T18:30:51.309Z",
+  "sourceId": "0bada6e973601714d9e5b45ed6cf1a60"
+}
