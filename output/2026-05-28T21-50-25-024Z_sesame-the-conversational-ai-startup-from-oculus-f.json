@@ -1,0 +1,114 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sesame-the-conversational-ai-startup-from-oculus-f",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+  "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+  "pubDate": "Thu, 28 May 2026 15:35:43 +0000",
+  "slides": [
+    "Sesame lancia l'app iOS: cosa cambia nelle conversazioni?",
+    "Nasce dal fondatore Oculus, non da un gigante tech.",
+    "Ma non è un semplice chatbot: imita il ritmo umano.",
+    "Chi usa assistenti vocali ora potrebbe passare a lei.",
+    "Prova subito una conversazione: il divario lo vedrai."
+  ],
+  "thread_text": [
+    "La maggior parte dei chatbot sembra parlare con un robot. Questo no. Un AI imita il ritmo umano: pause, esitazioni, tono. Ed è la prima cosa che noti.",
+    "L'app si chiama Sesame. L'ha fondata l'inventore di Oculus — sì, il visore VR. Non Google, non Meta. Un team piccolo.",
+    "Esce su iOS oggi. Non è un assistente che risponde a comandi. È una conversazione. Come parlare con una persona dall'altra parte.",
+    "Chi usa Siri o Alexa da anni sa il divario: lì dai ordini, qui parli. E dopo 30 secondi ti dimentichi che è un modello.",
+    "Costa 10 dollari al mese. Prova la demo sul sito: una chiamata di 2 minuti. Se non senti la differenza, disdici."
+  ],
+  "video_script": [
+    "Senti questa voce.",
+    "Non sembra un robot, vero?",
+    "Pause, respiri, esitazioni.",
+    "Si chiama Sesame.",
+    "L'ha fatto il tipo di Oculus.",
+    "Non una mega azienda.",
+    "È su iOS da oggi.",
+    "Non è un assistente vocale.",
+    "È una conversazione vera.",
+    "Provane due minuti."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "La maggior parte dei chatbot sembra parlare con un robot. Questo no. Un AI imita il ritmo umano: pause, esitazioni, tono. Ed è la prima cosa che noti.",
+        "L'app si chiama Sesame. L'ha fondata l'inventore di Oculus — sì, il visore VR. Non Google, non Meta. Un team piccolo.",
+        "Esce su iOS oggi. Non è un assistente che risponde a comandi. È una conversazione. Come parlare con una persona dall'altra parte.",
+        "Chi usa Siri o Alexa da anni sa il divario: lì dai ordini, qui parli. E dopo 30 secondi ti dimentichi che è un modello.",
+        "Costa 10 dollari al mese. Prova la demo sul sito: una chiamata di 2 minuti. Se non senti la differenza, disdici."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Senti questa voce.",
+        "Non sembra un robot, vero?",
+        "Pause, respiri, esitazioni.",
+        "Si chiama Sesame.",
+        "L'ha fatto il tipo di Oculus.",
+        "Non una mega azienda.",
+        "È su iOS da oggi.",
+        "Non è un assistente vocale.",
+        "È una conversazione vera.",
+        "Provane due minuti."
+      ]
+    },
+    "instagram": {
+      "caption": "L'app Sesame — fondata dal creatore di Oculus, non da Google o Meta — arriva su iOS oggi.  \nNon è un assistente a comandi: imita il ritmo umano con pause, esitazioni e tono naturale.  \nChi usa Siri o Alexa noterà subito la differenza: là dai ordini, qui parli e dopo 30 secondi dimentichi che è un modello.  \nCambia il modo di interagire con la voce nel quotidiano 🗣️  \nCosta 10€ al mese. Vale la differenza? Prova la demo gratuita di 2 minuti e decidi."
+    }
+  },
+  "instagram_caption": "L'app Sesame — fondata dal creatore di Oculus, non da Google o Meta — arriva su iOS oggi.  \nNon è un assistente a comandi: imita il ritmo umano con pause, esitazioni e tono naturale.  \nChi usa Siri o Alexa noterà subito la differenza: là dai ordini, qui parli e dopo 30 secondi dimentichi che è un modello.  \nCambia il modo di interagire con la voce nel quotidiano 🗣️  \nCosta 10€ al mese. Vale la differenza? Prova la demo gratuita di 2 minuti e decidi.",
+  "carousel_slides": [
+    {
+      "hook": "Parla come un umano",
+      "description": "Non è un chatbot robotico. Pause, esitazioni e tono: imita il ritmo naturale delle conversazioni umane.",
+      "visual_hint": "Onde vocali che pulsano",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "sound wave oscilloscope"
+    },
+    {
+      "hook": "Dall'inventore di Oculus",
+      "description": "Fondata dal creatore del visore VR, non da Big Tech. Un team piccolo lancia un'alternativa vera.",
+      "visual_hint": "Visore VR classico",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "Oculus VR headset",
+      "image": "https://images.pexels.com/photos/7241682/pexels-photo-7241682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non dai ordini, conversi",
+      "description": "Dimentica Siri o Alexa qui parli, non comandi. Dopo 30 secondi non sembra più un modello AI.",
+      "visual_hint": "Due persone che chiacchierano",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "two people talking",
+      "image": "https://images.pexels.com/photos/37269033/pexels-photo-37269033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il divario lo senti subito",
+      "description": "Chi usa assistenti vocali da anni nota la differenza: lì impartisci comandi, qui hai una vera conversazione.",
+      "visual_hint": "Mano che sfiora display",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "finger touching phone screen",
+      "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova 2 minuti gratis",
+      "description": "Demo sul sito: una chiamata di due minuti. $10/mese. Se non senti differenza, disdici.",
+      "visual_hint": "Icona chiamata in corso",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone call interface",
+      "image": "https://images.pexels.com/photos/6831065/pexels-photo-6831065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/crossing-the-uncanny-valley-of-voice-hero.webp?resize=1200,900",
+  "savedAt": "2026-05-28T21:51:06.769Z",
+  "sourceId": "d39d7de0ab30510a07f38c46f8f980dd"
+}

@@ -3,6 +3,328 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "sesame-the-conversational-ai-startup-from-oculus-f",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+      "pubDate": "Thu, 28 May 2026 15:35:43 +0000",
+      "slides": [
+        "Sesame lancia l'app iOS: cosa cambia nelle conversazioni?",
+        "Nasce dal fondatore Oculus, non da un gigante tech.",
+        "Ma non è un semplice chatbot: imita il ritmo umano.",
+        "Chi usa assistenti vocali ora potrebbe passare a lei.",
+        "Prova subito una conversazione: il divario lo vedrai."
+      ],
+      "thread_text": [
+        "La maggior parte dei chatbot sembra parlare con un robot. Questo no. Un AI imita il ritmo umano: pause, esitazioni, tono. Ed è la prima cosa che noti.",
+        "L'app si chiama Sesame. L'ha fondata l'inventore di Oculus — sì, il visore VR. Non Google, non Meta. Un team piccolo.",
+        "Esce su iOS oggi. Non è un assistente che risponde a comandi. È una conversazione. Come parlare con una persona dall'altra parte.",
+        "Chi usa Siri o Alexa da anni sa il divario: lì dai ordini, qui parli. E dopo 30 secondi ti dimentichi che è un modello.",
+        "Costa 10 dollari al mese. Prova la demo sul sito: una chiamata di 2 minuti. Se non senti la differenza, disdici."
+      ],
+      "video_script": [
+        "Senti questa voce.",
+        "Non sembra un robot, vero?",
+        "Pause, respiri, esitazioni.",
+        "Si chiama Sesame.",
+        "L'ha fatto il tipo di Oculus.",
+        "Non una mega azienda.",
+        "È su iOS da oggi.",
+        "Non è un assistente vocale.",
+        "È una conversazione vera.",
+        "Provane due minuti."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "La maggior parte dei chatbot sembra parlare con un robot. Questo no. Un AI imita il ritmo umano: pause, esitazioni, tono. Ed è la prima cosa che noti.",
+            "L'app si chiama Sesame. L'ha fondata l'inventore di Oculus — sì, il visore VR. Non Google, non Meta. Un team piccolo.",
+            "Esce su iOS oggi. Non è un assistente che risponde a comandi. È una conversazione. Come parlare con una persona dall'altra parte.",
+            "Chi usa Siri o Alexa da anni sa il divario: lì dai ordini, qui parli. E dopo 30 secondi ti dimentichi che è un modello.",
+            "Costa 10 dollari al mese. Prova la demo sul sito: una chiamata di 2 minuti. Se non senti la differenza, disdici."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Senti questa voce.",
+            "Non sembra un robot, vero?",
+            "Pause, respiri, esitazioni.",
+            "Si chiama Sesame.",
+            "L'ha fatto il tipo di Oculus.",
+            "Non una mega azienda.",
+            "È su iOS da oggi.",
+            "Non è un assistente vocale.",
+            "È una conversazione vera.",
+            "Provane due minuti."
+          ]
+        },
+        "instagram": {
+          "caption": "L'app Sesame — fondata dal creatore di Oculus, non da Google o Meta — arriva su iOS oggi.  \nNon è un assistente a comandi: imita il ritmo umano con pause, esitazioni e tono naturale.  \nChi usa Siri o Alexa noterà subito la differenza: là dai ordini, qui parli e dopo 30 secondi dimentichi che è un modello.  \nCambia il modo di interagire con la voce nel quotidiano 🗣️  \nCosta 10€ al mese. Vale la differenza? Prova la demo gratuita di 2 minuti e decidi."
+        }
+      },
+      "instagram_caption": "L'app Sesame — fondata dal creatore di Oculus, non da Google o Meta — arriva su iOS oggi.  \nNon è un assistente a comandi: imita il ritmo umano con pause, esitazioni e tono naturale.  \nChi usa Siri o Alexa noterà subito la differenza: là dai ordini, qui parli e dopo 30 secondi dimentichi che è un modello.  \nCambia il modo di interagire con la voce nel quotidiano 🗣️  \nCosta 10€ al mese. Vale la differenza? Prova la demo gratuita di 2 minuti e decidi.",
+      "carousel_slides": [
+        {
+          "hook": "Parla come un umano",
+          "description": "Non è un chatbot robotico. Pause, esitazioni e tono: imita il ritmo naturale delle conversazioni umane.",
+          "visual_hint": "Onde vocali che pulsano",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "sound wave oscilloscope"
+        },
+        {
+          "hook": "Dall'inventore di Oculus",
+          "description": "Fondata dal creatore del visore VR, non da Big Tech. Un team piccolo lancia un'alternativa vera.",
+          "visual_hint": "Visore VR classico",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "Oculus VR headset",
+          "image": "https://images.pexels.com/photos/7241682/pexels-photo-7241682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non dai ordini, conversi",
+          "description": "Dimentica Siri o Alexa qui parli, non comandi. Dopo 30 secondi non sembra più un modello AI.",
+          "visual_hint": "Due persone che chiacchierano",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "two people talking",
+          "image": "https://images.pexels.com/photos/37269033/pexels-photo-37269033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il divario lo senti subito",
+          "description": "Chi usa assistenti vocali da anni nota la differenza: lì impartisci comandi, qui hai una vera conversazione.",
+          "visual_hint": "Mano che sfiora display",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "finger touching phone screen",
+          "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova 2 minuti gratis",
+          "description": "Demo sul sito: una chiamata di due minuti. $10/mese. Se non senti differenza, disdici.",
+          "visual_hint": "Icona chiamata in corso",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone call interface",
+          "image": "https://images.pexels.com/photos/6831065/pexels-photo-6831065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/crossing-the-uncanny-valley-of-voice-hero.webp?resize=1200,900",
+      "savedAt": "2026-05-28T21:51:06.769Z",
+      "sourceId": "d39d7de0ab30510a07f38c46f8f980dd"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "anthropic-raises-65-billion-nears-1t-valuation-ahe",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "pubDate": "Thu, 28 May 2026 18:52:51 +0000",
+      "slides": [
+        "Anthropic raccoglie 65 miliardi, punta a 1 trilione di dollari?",
+        "Il round precede una IPO già annunciata ai mercati",
+        "Ma il vero acquirente è un fondo sovrano sconosciuto",
+        "Chi ha azioni ora potrebbe vedere un multiplo insperato",
+        "Controlla il tuo portafoglio prima della prossima finestra"
+      ],
+      "thread_text": [
+        "Un fondo sovrano di cui nessuno ha mai sentito parlare sta comprando azioni Anthropic. Nessuno sa chi sia. E il round da 65 miliardi potrebbe essere solo l'anticamera.",
+        "Anthropic ha appena chiuso un round da 65 miliardi. Valutazione? Si parla di 1 trilione. Il mercato non ha ancora processato la notizia.",
+        "Il round è un pre-IPO. La IPO è già stata annunciata. Chi compra ora lo sa. Il fondo sovrano fantasma sta accumulando in silenzio prima della finestra.",
+        "Chi ha azioni ora potrebbe vedere un multiplo che non capita tutti i giorni. Ma il vero bersaglio è chi entra prima che il fondo sovrano si scopra.",
+        "Se hai azioni Anthropic, controlla il tuo portafoglio oggi. La finestra si chiude prima di quanto pensi."
+      ],
+      "video_script": [
+        "Un fondo sconosciuto compra Anthropic per 65 miliardi.",
+        "Nessuno sa chi sia il compratore.",
+        "La IPO è già annunciata, il round è pre-IPO.",
+        "Chi ha azioni ora può vedere un multiplo pazzesco.",
+        "Controlla il portafoglio prima che la finestra si chiuda."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Un fondo sovrano di cui nessuno ha mai sentito parlare sta comprando azioni Anthropic. Nessuno sa chi sia. E il round da 65 miliardi potrebbe essere solo l'anticamera.",
+            "Anthropic ha appena chiuso un round da 65 miliardi. Valutazione? Si parla di 1 trilione. Il mercato non ha ancora processato la notizia.",
+            "Il round è un pre-IPO. La IPO è già stata annunciata. Chi compra ora lo sa. Il fondo sovrano fantasma sta accumulando in silenzio prima della finestra.",
+            "Chi ha azioni ora potrebbe vedere un multiplo che non capita tutti i giorni. Ma il vero bersaglio è chi entra prima che il fondo sovrano si scopra.",
+            "Se hai azioni Anthropic, controlla il tuo portafoglio oggi. La finestra si chiude prima di quanto pensi."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Un fondo sconosciuto compra Anthropic per 65 miliardi.",
+            "Nessuno sa chi sia il compratore.",
+            "La IPO è già annunciata, il round è pre-IPO.",
+            "Chi ha azioni ora può vedere un multiplo pazzesco.",
+            "Controlla il portafoglio prima che la finestra si chiuda."
+          ]
+        },
+        "instagram": {
+          "caption": "Un fondo sovrano misterioso ha appena comprato una fetta enorme di Anthropic, la società dietro il modello Claude. L’operazione da 65 miliardi di dollari spinge la valutazione verso 1 trilione, l’IPO è già in agenda 📈. Per chi ha azioni, si prospetta un multiplo raro: la finestra per entrare si chiude prima che il fondo si scopra del tutto. Concretamente, se lavori in AI o ci investi, questo cambia le regole del gioco sulle valutazioni e le tempistiche di liquidità 💼. Hai già controllato il tuo portafoglio oggi? 🕒"
+        }
+      },
+      "instagram_caption": "Un fondo sovrano misterioso ha appena comprato una fetta enorme di Anthropic, la società dietro il modello Claude. L’operazione da 65 miliardi di dollari spinge la valutazione verso 1 trilione, l’IPO è già in agenda 📈. Per chi ha azioni, si prospetta un multiplo raro: la finestra per entrare si chiude prima che il fondo si scopra del tutto. Concretamente, se lavori in AI o ci investi, questo cambia le regole del gioco sulle valutazioni e le tempistiche di liquidità 💼. Hai già controllato il tuo portafoglio oggi? 🕒",
+      "carousel_slides": [
+        {
+          "hook": "Fondo fantasma compra in silenzio",
+          "description": "Un fondo sconosciuto compra azioni Anthropic. Nessuno sa chi sia. Il round da 65 miliardi è solo l'inizio.",
+          "visual_hint": "silhouette andrò server floor",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room dark"
+        },
+        {
+          "hook": "65 miliardi per 1 trilione",
+          "description": "Anthropic chiude un round da 65 miliardi. Valutazione verso 1 trilione. Mercato non ha ancora reagito.",
+          "visual_hint": "stock chart soaring up",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pre-IPO già annunciata",
+          "description": "È un round pre-IPO. La IPO è annunciata. Il fondo accumula in silenzio prima della finestra.",
+          "visual_hint": "IPO documents on desk",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "IPO document papers",
+          "image": "https://images.pexels.com/photos/7821547/pexels-photo-7821547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Multiplo insperato in arrivo",
+          "description": "Chi ha azioni potrebbe vedere un multiplo raro. Il vero bersaglio è entrare prima che il fondo si scopra.",
+          "visual_hint": "hand counting stack coins",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding coins",
+          "image": "https://images.pexels.com/photos/3943722/pexels-photo-3943722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Controlla il tuo portafoglio ora",
+          "description": "Se hai azioni Anthropic, controlla oggi. La finestra si chiude prima di quanto pensi.",
+          "visual_hint": "open laptop portfolio screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop portfolio screen",
+          "image": "https://images.pexels.com/photos/1785874/pexels-photo-1785874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-02-at-12.22.37PM.png?resize=1200,671",
+      "savedAt": "2026-05-28T21:50:51.665Z",
+      "sourceId": "fa304b3484d55541d4d824fdf43c7e7f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "asana-acquires-no-code-agent-builder-stackai",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Asana acquires no-code agent-builder StackAI",
+      "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "pubDate": "Thu, 28 May 2026 20:06:07 +0000",
+      "slides": [
+        "Asana compra StackAI: costruisci agenti senza codice.",
+        "L'accordo unisce automazione del lavoro e AI visiva.",
+        "Ma Asana non ha mai venduto AI prima d'ora.",
+        "Potresti delegare flussi interi a un agente senza scrivere righe.",
+        "Prova a creare oggi un agente per il tuo team."
+      ],
+      "thread_text": [
+        "Asana non ha mai venduto AI prima d'ora. Ora compra StackAI. Inizia così una storia diversa.",
+        "StackAI permette di costruire agenti visivi senza scrivere codice. Automazione e AI si fondono in un unico prodotto.",
+        "Prima potevi solo assegnare compiti. Ora puoi delegare flussi interi a un agente che li esegue da solo.",
+        "Il salto è netto: non un tool che ti aiuta, ma qualcuno che fa al posto tuo. Senza righe di codice.",
+        "Costa meno di un abbonamento Spotify. Prova a creare oggi un agente per il tuo team."
+      ],
+      "video_script": [
+        "Asana compra StackAI, mossa inaspettata.",
+        "Non avevano mai venduto AI prima.",
+        "Ora puoi creare agenti senza codice.",
+        "Deleghi flussi interi a un agente.",
+        "Prova a crearne uno per il team."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Asana non ha mai venduto AI prima d'ora. Ora compra StackAI. Inizia così una storia diversa.",
+            "StackAI permette di costruire agenti visivi senza scrivere codice. Automazione e AI si fondono in un unico prodotto.",
+            "Prima potevi solo assegnare compiti. Ora puoi delegare flussi interi a un agente che li esegue da solo.",
+            "Il salto è netto: non un tool che ti aiuta, ma qualcuno che fa al posto tuo. Senza righe di codice.",
+            "Costa meno di un abbonamento Spotify. Prova a creare oggi un agente per il tuo team."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Asana compra StackAI, mossa inaspettata.",
+            "Non avevano mai venduto AI prima.",
+            "Ora puoi creare agenti senza codice.",
+            "Deleghi flussi interi a un agente.",
+            "Prova a crearne uno per il team."
+          ]
+        },
+        "instagram": {
+          "caption": "Asana non vendeva AI fino a ieri. Ora compra StackAI — una piattaforma che permette a chiunque di costruire agenti visivi senza scrivere una riga di codice 🛠️. Unisci l’automazione del lavoro alla logica visiva: invece di assegnare singoli compiti, puoi delegare flussi interi a un agente che li esegue da solo 🤖. Costa meno di un abbonamento Spotify. Oggi puoi creare un agente per il tuo team e non toccare più un tool. Hai già un flusso che vorresti automatizzare?"
+        }
+      },
+      "instagram_caption": "Asana non vendeva AI fino a ieri. Ora compra StackAI — una piattaforma che permette a chiunque di costruire agenti visivi senza scrivere una riga di codice 🛠️. Unisci l’automazione del lavoro alla logica visiva: invece di assegnare singoli compiti, puoi delegare flussi interi a un agente che li esegue da solo 🤖. Costa meno di un abbonamento Spotify. Oggi puoi creare un agente per il tuo team e non toccare più un tool. Hai già un flusso che vorresti automatizzare?",
+      "carousel_slides": [
+        {
+          "hook": "Asana non ha mai venduto AI",
+          "description": "Ora compra StackAI. Inizia una storia diversa per il lavoro automatizzato.",
+          "visual_hint": "Accordo strategico illustrato",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "company merger"
+        },
+        {
+          "hook": "Agenti visivi senza codice",
+          "description": "Automazione e AI si fondono: costruisci agenti visivi senza scrivere righe.",
+          "visual_hint": "Interfaccia drag-and-drop",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Delega flieri interi",
+          "description": "Non solo compiti: ora puoi delegare flussi interi a un agente che li esegue da solo.",
+          "visual_hint": "Flusso di lavoro automatizzato",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Qualcuno fa al posto tuo",
+          "description": "Il salto è netto: non un tool che ti aiuta, ma qualcuno che fa al posto tuo.",
+          "visual_hint": "Mano che passa compito",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costa meno di Spotify",
+          "description": "Crea oggi un agente per il tuo team. Prova senza codice.",
+          "visual_hint": "Pulsante di prova",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop desk",
+          "image": "https://images.pexels.com/photos/8296951/pexels-photo-8296951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/asana-illustration-getty.jpg?resize=1200,800",
+      "savedAt": "2026-05-28T21:50:36.730Z",
+      "sourceId": "0d22b3289c3be595dd9ed5f793c75ed3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "visa-invests-in-replit-to-power-agentic-payments-f",
       "prompt_version": "1.0.0",
       "status": "published",
