@@ -2,6 +2,7 @@ const http    = require('http');
 const https   = require('https');
 const fs      = require('fs');
 const path    = require('path');
+const axios   = require('axios');
 const { spawn } = require('child_process');
 
 const PORT     = process.env.PORT || 3000;
@@ -82,21 +83,17 @@ async function githubUpdateArticle(agent, slug, updateFn, token, commitMsg) {
   return article;
 }
 
-// Aggiorna lo status di uno slug direttamente in data-agents.js su GitHub
+// Aggiorna un articolo in data-agents.js su GitHub via updateFn
 // Usa Git Blobs API per leggere il file (>1MB, non leggibile via Contents API)
-async function githubUpdateDataAgents(agent, slug, status, token) {
-  // 1. Ottieni SHA del file via Contents API (non ritorna content per file >1MB)
+async function githubUpdateDataAgentsArticle(agent, slug, updateFn, token, commitMsg) {
   const metaRes = await ghRequest('GET', '/contents/frontend/data-agents.js', null, token);
   if (metaRes.status !== 200) throw new Error(`data-agents.js meta failed: ${metaRes.status}`);
   const fileSha = metaRes.body.sha;
 
-  // 2. Leggi il content completo via Git Blobs API
   const blobRes = await ghRequest('GET', `/git/blobs/${fileSha}`, null, token);
   if (blobRes.status !== 200) throw new Error(`blob read failed: ${blobRes.status}`);
   const raw = Buffer.from(blobRes.body.content.replace(/\n/g, ''), 'base64').toString('utf8');
 
-  // 3. Parse e aggiorna lo status
-  // Il file contiene window.AGENTS = {...};\nwindow.AGENT_CONFIGS = {...};
   const prefix = 'window.AGENTS = ';
   const prefixIdx = raw.indexOf(prefix);
   if (prefixIdx === -1) throw new Error('data-agents.js format unexpected');
@@ -109,20 +106,23 @@ async function githubUpdateDataAgents(agent, slug, status, token) {
   const list = agents[agent];
   if (list) {
     const art = list.find(a => a.slug === slug);
-    if (art) art.status = status;
+    if (art) updateFn(art);
   }
 
-  // 4. PUT file aggiornato (preserva window.AGENT_CONFIGS invariato)
   const newRaw = `${prefix}${JSON.stringify(agents, null, 2)}${suffix}`;
   const newContent = Buffer.from(newRaw).toString('base64');
   const putRes = await ghRequest('PUT', '/contents/frontend/data-agents.js', {
-    message: `auto: data-agents status ${status} ${slug}`,
+    message: commitMsg || `auto: data-agents update ${slug}`,
     content: newContent,
     sha: fileSha,
   }, token);
   if (putRes.status !== 200 && putRes.status !== 201) {
     throw new Error(`data-agents PUT failed: ${putRes.status}`);
   }
+}
+
+function githubUpdateDataAgents(agent, slug, status, token) {
+  return githubUpdateDataAgentsArticle(agent, slug, art => { art.status = status; }, token, `auto: data-agents status ${status} ${slug}`);
 }
 
 const VALID_STATUSES = ['draft', 'approved', 'scheduled', 'published', 'failed'];
@@ -341,6 +341,111 @@ http.createServer((req, res) => {
         res.end(JSON.stringify({ ok: true, path: `output/video-plans/video-plan-${plan.slug}.json` }));
       } catch (e) {
         res.writeHead(500); res.end('Error: ' + e.message);
+      }
+    });
+    return;
+  }
+
+  /* ── Genera piano video on-demand: POST /api/generate-video-plan ── */
+  if (req.method === 'POST' && urlPath === '/api/generate-video-plan') {
+    let body = '';
+    req.on('data', chunk => { body += chunk; });
+    req.on('end', async () => {
+      try {
+        const { agent, slug } = JSON.parse(body);
+        if (!GITHUB_DIR[agent]) { res.writeHead(400); res.end('Unknown agent'); return; }
+        const token = process.env.GIT_TOKEN;
+        if (!token) { res.writeHead(500); res.end('GIT_TOKEN not set'); return; }
+        const openaiKey = process.env.OPENAI_API_KEY;
+        if (!openaiKey) { res.writeHead(500); res.end('OPENAI_API_KEY not set'); return; }
+
+        // 1. Leggi articolo da GitHub
+        const dir = GITHUB_DIR[agent];
+        const listRes = await ghRequest('GET', `/contents/${dir}`, null, token);
+        if (listRes.status !== 200) throw new Error(`List dir failed: ${listRes.status}`);
+        const jsonFiles = Array.isArray(listRes.body)
+          ? listRes.body.filter(f => f.type === 'file' && f.name.endsWith('.json'))
+          : [];
+        let bestFile = null;
+        for (const f of jsonFiles) {
+          const base  = f.name.replace('.json', '');
+          const idx   = base.indexOf('_');
+          const fSlug = idx !== -1 ? base.slice(idx + 1) : base;
+          if (fSlug !== slug) continue;
+          if (!bestFile || f.name > bestFile.name) bestFile = f;
+        }
+        if (!bestFile) { res.writeHead(404); res.end('Article not found'); return; }
+        const fileRes = await ghRequest('GET', `/contents/${dir}/${bestFile.name}`, null, token);
+        if (fileRes.status !== 200) throw new Error(`Get file failed: ${fileRes.status}`);
+        const sha     = fileRes.body.sha;
+        const article = JSON.parse(Buffer.from(fileRes.body.content.replace(/\n/g, ''), 'base64').toString('utf8'));
+
+        // 2. Carica generatePlanPrompt del template (try/catch: template Blender non presenti su Railway)
+        const renderTemplate = article.render_template || 'slide_deck';
+        const templateFile   = renderTemplate.replace(/_/g, '-');
+        let customPrompt = null;
+        try { customPrompt = require(`./video/templates/${templateFile}`)?.generatePlanPrompt || null; } catch {}
+
+        // 3. Costruisci prompt
+        const userPrompt = customPrompt
+          ? customPrompt
+              .replace('{{title}}', article.title || '')
+              .replace('{{video_script}}', (article.video_script || []).join('\n'))
+          : [
+              'Genera un piano video di 5 scene per questo articolo.',
+              `Titolo: ${article.title}`, `Template: ${renderTemplate}`,
+              `Slides: ${(article.slides || []).join(' | ')}`,
+              'Rispondi SOLO con JSON valido:',
+              JSON.stringify({ scenes: [{ scene: 1, duration_sec: 4, hook: '...', voiceover: '...', on_screen_text: '...', visual_direction: '...', caption: '...' }], cta: '...', quality_score: 0 }, null, 2),
+              'Regole: 5 scene, durata totale 18-35s, voiceover max 22 parole, on_screen_text max 9 parole.',
+            ].join('\n');
+
+        // 4. Chiama OpenAI
+        const openaiRes = await axios.post(
+          'https://api.openai.com/v1/chat/completions',
+          { model: 'gpt-4o-mini', temperature: 0.7,
+            messages: [
+              { role: 'system', content: 'Sei un video producer per social verticali. Rispondi SOLO con JSON valido, senza markdown.' },
+              { role: 'user',   content: userPrompt },
+            ] },
+          { headers: { Authorization: `Bearer ${openaiKey}`, 'Content-Type': 'application/json' }, timeout: 60000 }
+        );
+        let planData;
+        try {
+          const raw = openaiRes.data.choices[0].message.content.trim().replace(/```[a-z]*\n?/g, '').trim();
+          planData = JSON.parse(raw);
+        } catch { throw new Error('OpenAI response not valid JSON'); }
+        const scenes = planData.scenes || [];
+        if (!scenes.length) throw new Error('No scenes in response');
+
+        // 5. Aggiorna scenes nel JSON articolo (sovrascrive quelle precedenti)
+        if (!article.formats)       article.formats = {};
+        if (!article.formats.video) article.formats.video = {};
+        article.formats.video.scenes        = scenes;
+        article.formats.video.cta           = planData.cta || '';
+        article.formats.video.quality_score = planData.quality_score || 0;
+        article.formats.video.template      = renderTemplate;
+
+        // 6. PUT su GitHub
+        const newContent = Buffer.from(JSON.stringify(article, null, 2) + '\n').toString('base64');
+        const putRes = await ghRequest('PUT', `/contents/${dir}/${bestFile.name}`, {
+          message: `auto: video-plan ${renderTemplate} ${slug}`, content: newContent, sha,
+        }, token);
+        if (putRes.status !== 200 && putRes.status !== 201) throw new Error(`PUT failed: ${putRes.status}`);
+
+        // 7. Aggiorna data-agents.js in background
+        githubUpdateDataAgentsArticle(agent, slug, art => {
+          if (!art.formats)       art.formats = {};
+          if (!art.formats.video) art.formats.video = {};
+          art.formats.video.scenes        = scenes;
+          art.formats.video.template      = renderTemplate;
+        }, token, `auto: data-agents video-plan ${slug}`).catch(e => console.error('[data-agents video-plan]', e.message));
+
+        res.writeHead(200, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ ok: true, slug, template: renderTemplate, scenes }));
+      } catch (e) {
+        const code = e.message.includes('not found') ? 404 : 500;
+        res.writeHead(code); res.end('Error: ' + e.message);
       }
     });
     return;

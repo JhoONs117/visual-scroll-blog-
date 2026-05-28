@@ -839,11 +839,15 @@ function renderArticle(article) {
   const hasScenes    = !!(article.formats?.video?.scenes?.length);
   const exportLabel  = hasScenes ? '⬇ Esporta piano' : '⬇ Piano (nessun dato)';
   const exportStyle  = hasScenes ? 'background:#1d4ed8;' : 'background:#1e293b;color:#475569;cursor:default;';
+  const genPlanBtn   = article.slug
+    ? `<button class="dl-all-btn" id="genPlanBtn" style="background:#7c3aed;" title="Genera piano video con GPT-4o-mini per il template selezionato">🎬 Genera piano</button>`
+    : '';
 
   area.innerHTML = `
     <div class="dl-all-bar">
       <button class="dl-all-btn" id="dlAll">${DL_ICON} Scarica tutte e 5 le slide</button>
       <button class="dl-all-btn" id="exportPlanBtn" style="${exportStyle}" title="Scarica il piano video JSON per il render locale">${exportLabel}</button>
+      ${genPlanBtn}
       <span class="dl-hint">oppure clicca una slide → tasto destro / tieni premuto per salvare</span>
       ${sourceLink}
       ${statusPill}${approveBtn}
@@ -930,6 +934,42 @@ function renderArticle(article) {
     btn.innerHTML = '✓ Scaricato';
     setTimeout(() => { btn.innerHTML = orig; }, 2000);
   });
+
+  const genPlanBtnEl = document.getElementById('genPlanBtn');
+  if (genPlanBtnEl && article.slug) {
+    genPlanBtnEl.addEventListener('click', async () => {
+      genPlanBtnEl.textContent = '⏳ Generando...';
+      genPlanBtnEl.disabled = true;
+      try {
+        const resp = await fetch('/api/generate-video-plan', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ agent: agentId, slug: article.slug }),
+        });
+        if (!resp.ok) { const t = await resp.text(); throw new Error(t); }
+        const data = await resp.json();
+        // Aggiorna l'articolo in memoria con le nuove scene
+        if (!article.formats)       article.formats = {};
+        if (!article.formats.video) article.formats.video = {};
+        article.formats.video.scenes   = data.scenes;
+        article.formats.video.template = data.template;
+        // Abilita il bottone export
+        const expBtn = document.getElementById('exportPlanBtn');
+        if (expBtn) { expBtn.style.cssText = 'background:#1d4ed8;'; expBtn.textContent = '⬇ Esporta piano'; }
+        genPlanBtnEl.textContent = '✓ Piano pronto';
+        genPlanBtnEl.style.background = '#14532d';
+        setTimeout(() => {
+          genPlanBtnEl.textContent = '🎬 Genera piano';
+          genPlanBtnEl.style.background = '#7c3aed';
+          genPlanBtnEl.disabled = false;
+        }, 3000);
+      } catch (e) {
+        console.error('[genera piano]', e.message);
+        genPlanBtnEl.textContent = '⚠ Errore';
+        setTimeout(() => { genPlanBtnEl.textContent = '🎬 Genera piano'; genPlanBtnEl.disabled = false; }, 3000);
+      }
+    });
+  }
 
   const approveBtnEl = document.getElementById('car-approve-btn');
   const pillEl       = document.getElementById('car-status-pill');

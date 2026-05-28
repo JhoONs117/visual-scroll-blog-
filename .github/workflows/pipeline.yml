@@ -46,21 +46,6 @@ jobs:
           MAX_NEW_FITNESS_ARTICLES: '3'
         run: node core/run-agent.js fitness || echo "⚠️ Fitness agent failed, continuing"
 
-      - name: Genera piani video (ai-news)
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: node video/generate-video-plan.js --agent ai-news --ci || echo "⚠️ Video plan ai-news failed, continuing"
-
-      - name: Genera piani video (food)
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: node video/generate-video-plan.js --agent food --ci || echo "⚠️ Video plan food failed, continuing"
-
-      - name: Genera piani video (fitness)
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: node video/generate-video-plan.js --agent fitness --ci || echo "⚠️ Video plan fitness failed, continuing"
-
       - name: Build data-agents.js
         run: node scripts/build-data-agents.js
 
