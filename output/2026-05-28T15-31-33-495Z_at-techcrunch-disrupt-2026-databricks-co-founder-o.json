@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "at-techcrunch-disrupt-2026-databricks-co-founder-o",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+  "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+  "pubDate": "Thu, 28 May 2026 14:30:00 +0000",
+  "slides": [
+    "Databricks' co-founder revealed the top deal-breaker at Disrupt 2026.",
+    "83% of AI pilots fail to reach production—why?",
+    "It’s not the tech, but missing customer data readiness.",
+    "Skipping data audits kills deployment speed and trust.",
+    "Schedule a data audit before your next AI meeting."
+  ],
+  "thread_text": [
+    "Se il tuo team AI non ha fatto un audit dei dati prima del prossimo meeting, hai già perso.",
+    "Il co-fondatore di Databricks l'ha detto a Disrupt 2026: il deal-breaker numero uno non è il modello, sono i dati sporchi che nessuno vuole vedere.",
+    "L'83% dei progetti AI non arriva in produzione. Non per colpa della tecnologia, ma per dati non pronti che bloccano tutto.",
+    "Saltare l'audit dei dati è la mossa più veloce per uccidere fiducia e velocità di deploy.",
+    "Un audit costa meno di un caffè al giorno. Fallo prima del prossimo meeting o stai già fallendo."
+  ],
+  "video_script": [
+    "Il problema dell'AI non è la tecnologia.",
+    "Sono i dati che non hai mai pulito.",
+    "Il 5% dei progetti arriva in produzione.",
+    "Salta l'audit e muore tutto.",
+    "Fallo prima del prossimo meeting."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Se il tuo team AI non ha fatto un audit dei dati prima del prossimo meeting, hai già perso.",
+        "Il co-fondatore di Databricks l'ha detto a Disrupt 2026: il deal-breaker numero uno non è il modello, sono i dati sporchi che nessuno vuole vedere.",
+        "L'83% dei progetti AI non arriva in produzione. Non per colpa della tecnologia, ma per dati non pronti che bloccano tutto.",
+        "Saltare l'audit dei dati è la mossa più veloce per uccidere fiducia e velocità di deploy.",
+        "Un audit costa meno di un caffè al giorno. Fallo prima del prossimo meeting o stai già fallendo."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Il problema dell'AI non è la tecnologia.",
+        "Sono i dati che non hai mai pulito.",
+        "Il 5% dei progetti arriva in produzione.",
+        "Salta l'audit e muore tutto.",
+        "Fallo prima del prossimo meeting."
+      ]
+    },
+    "instagram": {
+      "caption": "Il 83% dei progetti AI muore prima di arrivare in produzione: il problema? **Non la tecnologia, ma dati sporchi e non pronti** 📊. A TechCrunch Disrupt 2026, il co-fondatore di Databricks ha spiegato che saltare un audit sui dati è la mossa più veloce per affondare un deal **e la fiducia del cliente** 🚫. Per te che lavori con l'AI, significa che senza verificare la qualità dei dati, ogni presentazione rischia di essere tempo perso ⏳. Hai già programmato un audit prima del tuo prossimo meeting?"
+    }
+  },
+  "instagram_caption": "Il 83% dei progetti AI muore prima di arrivare in produzione: il problema? **Non la tecnologia, ma dati sporchi e non pronti** 📊. A TechCrunch Disrupt 2026, il co-fondatore di Databricks ha spiegato che saltare un audit sui dati è la mossa più veloce per affondare un deal **e la fiducia del cliente** 🚫. Per te che lavori con l'AI, significa che senza verificare la qualità dei dati, ogni presentazione rischia di essere tempo perso ⏳. Hai già programmato un audit prima del tuo prossimo meeting?",
+  "carousel_slides": [
+    {
+      "hook": "Il 83% fallisce. Colpa dei dati.",
+      "description": "Non è il modello, sono i dati sporchi che nessuno vuole vedere. Deal-breaker numero uno a Disrupt 2026.",
+      "visual_hint": "Grafico a barre con 83%",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "bar chart graph"
+    },
+    {
+      "hook": "Audit saltato? Deploy morto.",
+      "description": "Skipping data audits kills deployment speed and trust. Fallo prima del prossimo meeting o stai già fallendo.",
+      "visual_hint": "Checklist e lente d'ingrandimento",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non la tech, ma dati sporchi.",
+      "description": "83% dei progetti AI non arriva in produzione per dati non pronti, non per la tecnologia.",
+      "visual_hint": "Ingranaggio con macchia scura",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "dirty circuit board",
+      "image": "https://images.pexels.com/photos/32396935/pexels-photo-32396935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fiducia persa in un attimo.",
+      "description": "Saltare l'audit è la mossa più veloce per uccidere fiducia e velocità di deploy.",
+      "visual_hint": "Mani che rompono un modello",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands breaking tablet",
+      "image": "https://images.pexels.com/photos/6633645/pexels-photo-6633645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costa meno di un caffè.",
+      "description": "Un audit costa meno di un caffè al giorno. Fallo prima del prossimo AI meeting.",
+      "visual_hint": "Taccuino e tazza di caffè",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "notebook coffee cup",
+      "image": "https://images.pexels.com/photos/7657971/pexels-photo-7657971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/TCD26_1-Arsalan-Tavakoli-Shiraji_Speaker-16x9-Dark.png?resize=1200,675",
+  "savedAt": "2026-05-28T15:33:06.512Z",
+  "sourceId": "7dac4f0cab351660171bf433fe479085"
+}

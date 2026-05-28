@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-pay-preps-for-ai-agents-with-universal-comm",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
+  "link": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
+  "pubDate": "Thu, 28 May 2026 14:55:43 +0000",
+  "slides": [
+    "Google Pay reinventa il portafoglio per AI agent?",
+    "Con il nuovo Universal Commerce Protocol parla con le banche.",
+    "I pagamenti non li autorizzerai più tu.",
+    "Il tuo agente spenderà soldi al posto tuo.",
+    "Prova ora: collega un account e simula uno scenario."
+  ],
+  "thread_text": [
+    "I tuoi soldi spariranno dal conto e non sarai tu a decidere. Il tuo agente AI lo farà per te, in automatico, senza che tu veda nulla.",
+    "Google Pay ha appena annunciato l'Universal Commerce Protocol. Traduzione: un linguaggio standard che permette a un programma di parlare direttamente con la tua banca.",
+    "Non autorizzerai più pagamenti uno per uno. Il tuo agente avrà un budget, deciderà quando e dove spendere, e la transazione partirà da sola.",
+    "Scenario tipico: l'agente vede che il tuo volo è in ritardo, ti prenota un hotel nelle vicinanze e lo paga col tuo conto. Tu ricevi solo il riepilogo.",
+    "Connessione già operativa con alcuni conti correnti europei. Costa meno di un abbonamento Netflix. Collega un account oggi e simula uno scenario reale.",
+    "Se non l'hai ancora fatto, prova uno scenario concreto: 'prenota un taxi per domani alle 7 davanti a casa'. L'agente lo fa, tu vedi l'addebito dopo."
+  ],
+  "video_script": [
+    "I tuoi soldi spariranno, e non sarai tu a decidere.",
+    "Google Pay ha creato un linguaggio che parla con le banche.",
+    "Il tuo agente spenderà al posto tuo, in automatico.",
+    "Nessuna notifica di autorizzazione. Solo un riepilogo dopo.",
+    "Costa meno di un caffè al giorno. Provalo oggi."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "I tuoi soldi spariranno dal conto e non sarai tu a decidere. Il tuo agente AI lo farà per te, in automatico, senza che tu veda nulla.",
+        "Google Pay ha appena annunciato l'Universal Commerce Protocol. Traduzione: un linguaggio standard che permette a un programma di parlare direttamente con la tua banca.",
+        "Non autorizzerai più pagamenti uno per uno. Il tuo agente avrà un budget, deciderà quando e dove spendere, e la transazione partirà da sola.",
+        "Scenario tipico: l'agente vede che il tuo volo è in ritardo, ti prenota un hotel nelle vicinanze e lo paga col tuo conto. Tu ricevi solo il riepilogo.",
+        "Connessione già operativa con alcuni conti correnti europei. Costa meno di un abbonamento Netflix. Collega un account oggi e simula uno scenario reale.",
+        "Se non l'hai ancora fatto, prova uno scenario concreto: 'prenota un taxi per domani alle 7 davanti a casa'. L'agente lo fa, tu vedi l'addebito dopo."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "I tuoi soldi spariranno, e non sarai tu a decidere.",
+        "Google Pay ha creato un linguaggio che parla con le banche.",
+        "Il tuo agente spenderà al posto tuo, in automatico.",
+        "Nessuna notifica di autorizzazione. Solo un riepilogo dopo.",
+        "Costa meno di un caffè al giorno. Provalo oggi."
+      ]
+    },
+    "instagram": {
+      "caption": "Google Pay ha attivato un protocollo che permette al tuo agente AI di parlare direttamente con la banca e autorizzare pagamenti al posto tuo. 🏦\n\nNiente più click per ogni acquisto: l'agente ha un budget, decide da solo e fa partire la transazione. 💸 Se il tuo volo è in ritardo, lui ti prenota l'hotel e lo paga mentre tu dormi. 🛌\n\nConnesso già a conti europei, costa meno di un abbonamento Netflix. Collega un account e simula: \"prenota un taxi per domani alle 7 davanti a casa\". L'addebito lo vedi dopo. 🚕\n\nTi fideresti a dare le chiavi del conto a un agente?"
+    }
+  },
+  "instagram_caption": "Google Pay ha attivato un protocollo che permette al tuo agente AI di parlare direttamente con la banca e autorizzare pagamenti al posto tuo. 🏦\n\nNiente più click per ogni acquisto: l'agente ha un budget, decide da solo e fa partire la transazione. 💸 Se il tuo volo è in ritardo, lui ti prenota l'hotel e lo paga mentre tu dormi. 🛌\n\nConnesso già a conti europei, costa meno di un abbonamento Netflix. Collega un account e simula: \"prenota un taxi per domani alle 7 davanti a casa\". L'addebito lo vedi dopo. 🚕\n\nTi fideresti a dare le chiavi del conto a un agente?",
+  "carousel_slides": [
+    {
+      "hook": "I tuoi soldi spariscono da soli",
+      "description": "Il tuo agente AI spende e tu non autorizzi più nulla. Google Pay cambia le regole.",
+      "visual_hint": "Conto corrente che si svuota",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "empty wallet table"
+    },
+    {
+      "hook": "Parla direttamente con la banca",
+      "description": "Universal Commerce Protocol: un linguaggio standard che permette al tuo agente di parlare con istituti finanziari.",
+      "visual_hint": "Agente che contatta banca",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "bank server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Budget automatico, zero autorizzazioni",
+      "description": "L'agente ha un budget, decide quando spendere e la transazione parte da sola. Tu vedi solo il riepilogo.",
+      "visual_hint": "Transazione automatica in corso",
+      "layout_type": "sensor-zoom",
+      "icon": "tag",
+      "image_query": "credit card payment terminal",
+      "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Volo in ritardo? Lui ti prenota",
+      "description": "Scenario tipico: agente vede il ritardo, prenota un hotel vicino e paga col tuo conto. Tu ricevi solo il riepilogo.",
+      "visual_hint": "Notifica di addebito automatico",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "airport departure board",
+      "image": "https://images.pexels.com/photos/29132808/pexels-photo-29132808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova oggi: simula uno scenario",
+      "description": "Collega un account e testa: 'prenota un taxi per domani alle 7'. L'agente lo fa, l'addebito arriva dopo.",
+      "visual_hint": "Clic sul pulsante di prova",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone taxi app",
+      "image": "https://images.pexels.com/photos/6280697/pexels-photo-6280697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/google-pay-ai-agents-universal-commerce-protocol-agentic-payments-retail-fintech.jpg",
+  "savedAt": "2026-05-28T15:32:02.136Z",
+  "sourceId": "2a95b3e38d18f9352cebb72a57bc93dc"
+}

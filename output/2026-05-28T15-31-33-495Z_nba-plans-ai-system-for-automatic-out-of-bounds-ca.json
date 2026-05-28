@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nba-plans-ai-system-for-automatic-out-of-bounds-ca",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "NBA plans AI system for automatic out-of-bounds calls",
+  "link": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
+  "pubDate": "Thu, 28 May 2026 10:00:00 +0000",
+  "slides": [
+    "NBA testa AI per giudicare il fuori campo in tempo reale.",
+    "Il sistema traccia ogni movimento di palla e giocatori.",
+    "Ma la tecnologia sbaglia ancora su tiri contestati.",
+    "Chi arbitra dovrà fidarsi o rivedere comunque le chiamate?",
+    "Un campione deciderà il futuro del gioco."
+  ],
+  "thread_text": [
+    "La NBA sta testando un sistema AI per giudicare il fuori campo in tempo reale. Il problema? Sbaglia ancora sui tiri più contestati.",
+    "Il sistema traccia ogni movimento di palla e giocatori con telecamere e sensori. L'obiettivo è eliminare i dubbi umani.",
+    "Ma nei momenti decisivi, l'AI ha già mostrato errori. Su canestri da tre e linee di fondo, il margine è millimetrico.",
+    "Qui arriva il dilemma: l'arbitro si fida della tecnologia o deve comunque rivedere le chiamate? Due sistemi, stessa incertezza.",
+    "Un campione di partite deciderà se l'AI diventa standard o resta un esperimento. Costa meno di un abbonamento DAZN. Lo vedremo quest'anno."
+  ],
+  "video_script": [
+    "L'AI arbitra il fuori campo in NBA.",
+    "Traccia palla e giocatori ogni secondo.",
+    "Ma sbaglia ancora sui tiri contestati.",
+    "L'arbitro si fida o rivede tutto?",
+    "Un campione deciderà il futuro del gioco."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "La NBA sta testando un sistema AI per giudicare il fuori campo in tempo reale. Il problema? Sbaglia ancora sui tiri più contestati.",
+        "Il sistema traccia ogni movimento di palla e giocatori con telecamere e sensori. L'obiettivo è eliminare i dubbi umani.",
+        "Ma nei momenti decisivi, l'AI ha già mostrato errori. Su canestri da tre e linee di fondo, il margine è millimetrico.",
+        "Qui arriva il dilemma: l'arbitro si fida della tecnologia o deve comunque rivedere le chiamate? Due sistemi, stessa incertezza.",
+        "Un campione di partite deciderà se l'AI diventa standard o resta un esperimento. Costa meno di un abbonamento DAZN. Lo vedremo quest'anno."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "L'AI arbitra il fuori campo in NBA.",
+        "Traccia palla e giocatori ogni secondo.",
+        "Ma sbaglia ancora sui tiri contestati.",
+        "L'arbitro si fida o rivede tutto?",
+        "Un campione deciderà il futuro del gioco."
+      ]
+    },
+    "instagram": {
+      "caption": "La NBA sta testando un sistema AI che giudica il fuori campo in tempo reale, ma sui tiri più contestati sbaglia ancora. 🏀 Le telecamere tracciano ogni movimento di palla e giocatori per eliminare i dubbi umani, però il margine è millimetrico. Il dilemma: l'arbitro si fida o deve rivedere comunque le chiamate? 🤖 Un campione di partite deciderà quest'anno se la tecnologia diventa standard o resta un esperimento. Tu ti fideresti di un canestro decisivo giudicato da un algoritmo? ⚖️"
+    }
+  },
+  "instagram_caption": "La NBA sta testando un sistema AI che giudica il fuori campo in tempo reale, ma sui tiri più contestati sbaglia ancora. 🏀 Le telecamere tracciano ogni movimento di palla e giocatori per eliminare i dubbi umani, però il margine è millimetrico. Il dilemma: l'arbitro si fida o deve rivedere comunque le chiamate? 🤖 Un campione di partite deciderà quest'anno se la tecnologia diventa standard o resta un esperimento. Tu ti fideresti di un canestro decisivo giudicato da un algoritmo? ⚖️",
+  "carousel_slides": [
+    {
+      "hook": "Sbaglia nei momenti decisivi",
+      "description": "La NBA testa un'AI per il fuori campo, ma nei tiri contestati l'errore è millimetrico.",
+      "visual_hint": "Linea millimetrica sfocata",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "basketball court line"
+    },
+    {
+      "hook": "Telecamere tracciano tutto",
+      "description": "Il sistema segue palla e giocatori con sensori, puntando a eliminare i dubbi umani.",
+      "visual_hint": "Telecamera su palo",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "camera sensor hardware",
+      "image": "https://images.pexels.com/photos/18880010/pexels-photo-18880010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Margine troppo sottile",
+      "description": "Nei tiri da tre l'AI ha già sbagliato: la linea di fondo è questione di millimetri.",
+      "visual_hint": "Primo piano linea campo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "close up basketball line",
+      "image": "https://images.pexels.com/photos/17362660/pexels-photo-17362660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Arbitro o AI: chi decide?",
+      "description": "L'arbitro si fida della tecnologia o rivede? Due sistemi, stessa incertezza.",
+      "visual_hint": "Mano con fischietto",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "referee hand whistle",
+      "image": "https://images.pexels.com/photos/35571159/pexels-photo-35571159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il campione deciderà",
+      "description": "Un campione di partite stabilirà se l'AI diventa standard. Costi bassi, futuro incerto.",
+      "visual_hint": "Schermo con grafico",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "data analytics screen",
+      "image": "https://images.pexels.com/photos/8100069/pexels-photo-8100069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/NBA-plans-AI-system-for-automatic-out-of-bounds-calls-scaled-e1779938188320.jpg",
+  "savedAt": "2026-05-28T15:32:25.520Z",
+  "sourceId": "d5cce597c646adfdf017830211eb8de2"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sneak-peek-at-new-siri-app-reveals-apple-s-plans-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+  "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+  "pubDate": "Thu, 28 May 2026 14:45:13 +0000",
+  "slides": [
+    "Apple's new Siri app—does it rival ChatGPT?",
+    "It processes requests directly on device.",
+    "No cloud needed—privacy shifts the game.",
+    "Your voice commands now learn offline patterns.",
+    "Test Siri's limits before competitors respond."
+  ],
+  "thread_text": [
+    "Apple ha appena tolto la dipendenza dal cloud per Siri. Tutti i comandi restano sul telefono. Nessun server esterno vede i tuoi dati. Questa è la mossa più forte sul tavolo della privacy.",
+    "L’assistente impara ora dai tuoi pattern vocali, offline. Significa che capisce meglio il tuo modo di parlare senza mai inviare nulla a un server.",
+    "Niente più attese per il responso dal cloud. Il riconoscimento è locale e in tempo reale. Il telefono fa tutto da solo.",
+    "La domanda è: quanto è bravo? Apple ha limato il modello, ma i competitor non stanno fermi. Ora bisogna testarlo sul campo.",
+    "Provalo oggi su un comando complesso: tipo \"aggiungi latte, uova e pane alla lista della spesa e fammi vedere il meteo di domani\". Se regge, la sfida a ChatGPT è aperta."
+  ],
+  "video_script": [
+    "Apple ha tolto Siri dal cloud.",
+    "Ora tutto resta sul telefono.",
+    "Niente server esterno, massima privacy.",
+    "L'assistente impara offline dagli utenti.",
+    "Provalo ora o i rivali ti superano."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Apple ha appena tolto la dipendenza dal cloud per Siri. Tutti i comandi restano sul telefono. Nessun server esterno vede i tuoi dati. Questa è la mossa più forte sul tavolo della privacy.",
+        "L’assistente impara ora dai tuoi pattern vocali, offline. Significa che capisce meglio il tuo modo di parlare senza mai inviare nulla a un server.",
+        "Niente più attese per il responso dal cloud. Il riconoscimento è locale e in tempo reale. Il telefono fa tutto da solo.",
+        "La domanda è: quanto è bravo? Apple ha limato il modello, ma i competitor non stanno fermi. Ora bisogna testarlo sul campo.",
+        "Provalo oggi su un comando complesso: tipo \"aggiungi latte, uova e pane alla lista della spesa e fammi vedere il meteo di domani\". Se regge, la sfida a ChatGPT è aperta."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple ha tolto Siri dal cloud.",
+        "Ora tutto resta sul telefono.",
+        "Niente server esterno, massima privacy.",
+        "L'assistente impara offline dagli utenti.",
+        "Provalo ora o i rivali ti superano."
+      ]
+    },
+    "instagram": {
+      "caption": "Apple ha tolto Siri dal cloud: d'ora in poi tutte le richieste vengono processate direttamente sul tuo telefono, nessun dato finisce su server esterni 🧠. L’assistente impara offline i tuoi schemi vocali, capisce meglio come parli senza mandare nulla a nessuno. Per te significa zero attese per la risposta e più privacy su ogni comando, dalla lista della spesa al meteo ☁️➡️📱. Provalo subito con un compito complesso: Siri regge la sfida con ChatGPT?"
+    }
+  },
+  "instagram_caption": "Apple ha tolto Siri dal cloud: d'ora in poi tutte le richieste vengono processate direttamente sul tuo telefono, nessun dato finisce su server esterni 🧠. L’assistente impara offline i tuoi schemi vocali, capisce meglio come parli senza mandare nulla a nessuno. Per te significa zero attese per la risposta e più privacy su ogni comando, dalla lista della spesa al meteo ☁️➡️📱. Provalo subito con un compito complesso: Siri regge la sfida con ChatGPT?",
+  "carousel_slides": [
+    {
+      "hook": "No cloud, no data leaks",
+      "description": "Apple rimuove la dipendenza dal cloud per Siri. Tutti i comandi restano sul dispositivo, nessun server esterno vede i dati.",
+      "visual_hint": "iPhone glowing no cloud",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "smartphone no signal"
+    },
+    {
+      "hook": "Impara offline, capisce meglio",
+      "description": "L'assistente impara dai tuoi pattern vocali senza inviare nulla a server esterni. Riconoscimento locale e privato.",
+      "visual_hint": "waveform inside phone chip",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "audio waveform chip",
+      "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Zero attese, risposte immediate",
+      "description": "Niente più ritardi per il responso dal cloud. Il telefono processa tutto in tempo reale e in locale.",
+      "visual_hint": "stopwatch versus instant check",
+      "layout_type": "sensor-zoom",
+      "icon": "tag",
+      "image_query": "stopwatch smartphone",
+      "image": "https://images.pexels.com/photos/35343438/pexels-photo-35343438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Quanto è bravo davvero?",
+      "description": "Apple ha limato il modello, ma i competitor non stanno fermi. Ora bisogna testare Siri sul campo con comandi complessi.",
+      "visual_hint": "hand pressing microphone button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sfida ChatGPT: provala ora",
+      "description": "Prova un comando complesso come \"aggiungi latte, uova e pane alla lista e mostrami il meteo di domani\". Se regge, Apple vince.",
+      "visual_hint": "chat bubble vs Siri wave",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "chatgpt logo siri",
+      "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/1476x1375.webp?resize=1200,1118",
+  "savedAt": "2026-05-28T15:32:47.206Z",
+  "sourceId": "5ae8ee806afadc6b6b20d671b3a0df30"
+}

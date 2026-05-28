@@ -2,6 +2,424 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "at-techcrunch-disrupt-2026-databricks-co-founder-o",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+    "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+    "pubDate": "Thu, 28 May 2026 14:30:00 +0000",
+    "slides": [
+      "Databricks' co-founder revealed the top deal-breaker at Disrupt 2026.",
+      "83% of AI pilots fail to reach production—why?",
+      "It’s not the tech, but missing customer data readiness.",
+      "Skipping data audits kills deployment speed and trust.",
+      "Schedule a data audit before your next AI meeting."
+    ],
+    "thread_text": [
+      "Se il tuo team AI non ha fatto un audit dei dati prima del prossimo meeting, hai già perso.",
+      "Il co-fondatore di Databricks l'ha detto a Disrupt 2026: il deal-breaker numero uno non è il modello, sono i dati sporchi che nessuno vuole vedere.",
+      "L'83% dei progetti AI non arriva in produzione. Non per colpa della tecnologia, ma per dati non pronti che bloccano tutto.",
+      "Saltare l'audit dei dati è la mossa più veloce per uccidere fiducia e velocità di deploy.",
+      "Un audit costa meno di un caffè al giorno. Fallo prima del prossimo meeting o stai già fallendo."
+    ],
+    "video_script": [
+      "Il problema dell'AI non è la tecnologia.",
+      "Sono i dati che non hai mai pulito.",
+      "Il 5% dei progetti arriva in produzione.",
+      "Salta l'audit e muore tutto.",
+      "Fallo prima del prossimo meeting."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Se il tuo team AI non ha fatto un audit dei dati prima del prossimo meeting, hai già perso.",
+          "Il co-fondatore di Databricks l'ha detto a Disrupt 2026: il deal-breaker numero uno non è il modello, sono i dati sporchi che nessuno vuole vedere.",
+          "L'83% dei progetti AI non arriva in produzione. Non per colpa della tecnologia, ma per dati non pronti che bloccano tutto.",
+          "Saltare l'audit dei dati è la mossa più veloce per uccidere fiducia e velocità di deploy.",
+          "Un audit costa meno di un caffè al giorno. Fallo prima del prossimo meeting o stai già fallendo."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Il problema dell'AI non è la tecnologia.",
+          "Sono i dati che non hai mai pulito.",
+          "Il 5% dei progetti arriva in produzione.",
+          "Salta l'audit e muore tutto.",
+          "Fallo prima del prossimo meeting."
+        ]
+      },
+      "instagram": {
+        "caption": "Il 83% dei progetti AI muore prima di arrivare in produzione: il problema? **Non la tecnologia, ma dati sporchi e non pronti** 📊. A TechCrunch Disrupt 2026, il co-fondatore di Databricks ha spiegato che saltare un audit sui dati è la mossa più veloce per affondare un deal **e la fiducia del cliente** 🚫. Per te che lavori con l'AI, significa che senza verificare la qualità dei dati, ogni presentazione rischia di essere tempo perso ⏳. Hai già programmato un audit prima del tuo prossimo meeting?"
+      }
+    },
+    "instagram_caption": "Il 83% dei progetti AI muore prima di arrivare in produzione: il problema? **Non la tecnologia, ma dati sporchi e non pronti** 📊. A TechCrunch Disrupt 2026, il co-fondatore di Databricks ha spiegato che saltare un audit sui dati è la mossa più veloce per affondare un deal **e la fiducia del cliente** 🚫. Per te che lavori con l'AI, significa che senza verificare la qualità dei dati, ogni presentazione rischia di essere tempo perso ⏳. Hai già programmato un audit prima del tuo prossimo meeting?",
+    "carousel_slides": [
+      {
+        "hook": "Il 83% fallisce. Colpa dei dati.",
+        "description": "Non è il modello, sono i dati sporchi che nessuno vuole vedere. Deal-breaker numero uno a Disrupt 2026.",
+        "visual_hint": "Grafico a barre con 83%",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "bar chart graph"
+      },
+      {
+        "hook": "Audit saltato? Deploy morto.",
+        "description": "Skipping data audits kills deployment speed and trust. Fallo prima del prossimo meeting o stai già fallendo.",
+        "visual_hint": "Checklist e lente d'ingrandimento",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "magnifying glass document",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non la tech, ma dati sporchi.",
+        "description": "83% dei progetti AI non arriva in produzione per dati non pronti, non per la tecnologia.",
+        "visual_hint": "Ingranaggio con macchia scura",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "dirty circuit board",
+        "image": "https://images.pexels.com/photos/32396935/pexels-photo-32396935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Fiducia persa in un attimo.",
+        "description": "Saltare l'audit è la mossa più veloce per uccidere fiducia e velocità di deploy.",
+        "visual_hint": "Mani che rompono un modello",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands breaking tablet",
+        "image": "https://images.pexels.com/photos/6633645/pexels-photo-6633645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costa meno di un caffè.",
+        "description": "Un audit costa meno di un caffè al giorno. Fallo prima del prossimo AI meeting.",
+        "visual_hint": "Taccuino e tazza di caffè",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "notebook coffee cup",
+        "image": "https://images.pexels.com/photos/7657971/pexels-photo-7657971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/TCD26_1-Arsalan-Tavakoli-Shiraji_Speaker-16x9-Dark.png?resize=1200,675",
+    "savedAt": "2026-05-28T15:33:06.512Z",
+    "sourceId": "7dac4f0cab351660171bf433fe479085"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "sneak-peek-at-new-siri-app-reveals-apple-s-plans-t",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+    "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+    "pubDate": "Thu, 28 May 2026 14:45:13 +0000",
+    "slides": [
+      "Apple's new Siri app—does it rival ChatGPT?",
+      "It processes requests directly on device.",
+      "No cloud needed—privacy shifts the game.",
+      "Your voice commands now learn offline patterns.",
+      "Test Siri's limits before competitors respond."
+    ],
+    "thread_text": [
+      "Apple ha appena tolto la dipendenza dal cloud per Siri. Tutti i comandi restano sul telefono. Nessun server esterno vede i tuoi dati. Questa è la mossa più forte sul tavolo della privacy.",
+      "L’assistente impara ora dai tuoi pattern vocali, offline. Significa che capisce meglio il tuo modo di parlare senza mai inviare nulla a un server.",
+      "Niente più attese per il responso dal cloud. Il riconoscimento è locale e in tempo reale. Il telefono fa tutto da solo.",
+      "La domanda è: quanto è bravo? Apple ha limato il modello, ma i competitor non stanno fermi. Ora bisogna testarlo sul campo.",
+      "Provalo oggi su un comando complesso: tipo \"aggiungi latte, uova e pane alla lista della spesa e fammi vedere il meteo di domani\". Se regge, la sfida a ChatGPT è aperta."
+    ],
+    "video_script": [
+      "Apple ha tolto Siri dal cloud.",
+      "Ora tutto resta sul telefono.",
+      "Niente server esterno, massima privacy.",
+      "L'assistente impara offline dagli utenti.",
+      "Provalo ora o i rivali ti superano."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Apple ha appena tolto la dipendenza dal cloud per Siri. Tutti i comandi restano sul telefono. Nessun server esterno vede i tuoi dati. Questa è la mossa più forte sul tavolo della privacy.",
+          "L’assistente impara ora dai tuoi pattern vocali, offline. Significa che capisce meglio il tuo modo di parlare senza mai inviare nulla a un server.",
+          "Niente più attese per il responso dal cloud. Il riconoscimento è locale e in tempo reale. Il telefono fa tutto da solo.",
+          "La domanda è: quanto è bravo? Apple ha limato il modello, ma i competitor non stanno fermi. Ora bisogna testarlo sul campo.",
+          "Provalo oggi su un comando complesso: tipo \"aggiungi latte, uova e pane alla lista della spesa e fammi vedere il meteo di domani\". Se regge, la sfida a ChatGPT è aperta."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple ha tolto Siri dal cloud.",
+          "Ora tutto resta sul telefono.",
+          "Niente server esterno, massima privacy.",
+          "L'assistente impara offline dagli utenti.",
+          "Provalo ora o i rivali ti superano."
+        ]
+      },
+      "instagram": {
+        "caption": "Apple ha tolto Siri dal cloud: d'ora in poi tutte le richieste vengono processate direttamente sul tuo telefono, nessun dato finisce su server esterni 🧠. L’assistente impara offline i tuoi schemi vocali, capisce meglio come parli senza mandare nulla a nessuno. Per te significa zero attese per la risposta e più privacy su ogni comando, dalla lista della spesa al meteo ☁️➡️📱. Provalo subito con un compito complesso: Siri regge la sfida con ChatGPT?"
+      }
+    },
+    "instagram_caption": "Apple ha tolto Siri dal cloud: d'ora in poi tutte le richieste vengono processate direttamente sul tuo telefono, nessun dato finisce su server esterni 🧠. L’assistente impara offline i tuoi schemi vocali, capisce meglio come parli senza mandare nulla a nessuno. Per te significa zero attese per la risposta e più privacy su ogni comando, dalla lista della spesa al meteo ☁️➡️📱. Provalo subito con un compito complesso: Siri regge la sfida con ChatGPT?",
+    "carousel_slides": [
+      {
+        "hook": "No cloud, no data leaks",
+        "description": "Apple rimuove la dipendenza dal cloud per Siri. Tutti i comandi restano sul dispositivo, nessun server esterno vede i dati.",
+        "visual_hint": "iPhone glowing no cloud",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "smartphone no signal"
+      },
+      {
+        "hook": "Impara offline, capisce meglio",
+        "description": "L'assistente impara dai tuoi pattern vocali senza inviare nulla a server esterni. Riconoscimento locale e privato.",
+        "visual_hint": "waveform inside phone chip",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "audio waveform chip",
+        "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Zero attese, risposte immediate",
+        "description": "Niente più ritardi per il responso dal cloud. Il telefono processa tutto in tempo reale e in locale.",
+        "visual_hint": "stopwatch versus instant check",
+        "layout_type": "sensor-zoom",
+        "icon": "tag",
+        "image_query": "stopwatch smartphone",
+        "image": "https://images.pexels.com/photos/35343438/pexels-photo-35343438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Quanto è bravo davvero?",
+        "description": "Apple ha limato il modello, ma i competitor non stanno fermi. Ora bisogna testare Siri sul campo con comandi complessi.",
+        "visual_hint": "hand pressing microphone button",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sfida ChatGPT: provala ora",
+        "description": "Prova un comando complesso come \"aggiungi latte, uova e pane alla lista e mostrami il meteo di domani\". Se regge, Apple vince.",
+        "visual_hint": "chat bubble vs Siri wave",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "chatgpt logo siri",
+        "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/1476x1375.webp?resize=1200,1118",
+    "savedAt": "2026-05-28T15:32:47.206Z",
+    "sourceId": "5ae8ee806afadc6b6b20d671b3a0df30"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nba-plans-ai-system-for-automatic-out-of-bounds-ca",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "NBA plans AI system for automatic out-of-bounds calls",
+    "link": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
+    "pubDate": "Thu, 28 May 2026 10:00:00 +0000",
+    "slides": [
+      "NBA testa AI per giudicare il fuori campo in tempo reale.",
+      "Il sistema traccia ogni movimento di palla e giocatori.",
+      "Ma la tecnologia sbaglia ancora su tiri contestati.",
+      "Chi arbitra dovrà fidarsi o rivedere comunque le chiamate?",
+      "Un campione deciderà il futuro del gioco."
+    ],
+    "thread_text": [
+      "La NBA sta testando un sistema AI per giudicare il fuori campo in tempo reale. Il problema? Sbaglia ancora sui tiri più contestati.",
+      "Il sistema traccia ogni movimento di palla e giocatori con telecamere e sensori. L'obiettivo è eliminare i dubbi umani.",
+      "Ma nei momenti decisivi, l'AI ha già mostrato errori. Su canestri da tre e linee di fondo, il margine è millimetrico.",
+      "Qui arriva il dilemma: l'arbitro si fida della tecnologia o deve comunque rivedere le chiamate? Due sistemi, stessa incertezza.",
+      "Un campione di partite deciderà se l'AI diventa standard o resta un esperimento. Costa meno di un abbonamento DAZN. Lo vedremo quest'anno."
+    ],
+    "video_script": [
+      "L'AI arbitra il fuori campo in NBA.",
+      "Traccia palla e giocatori ogni secondo.",
+      "Ma sbaglia ancora sui tiri contestati.",
+      "L'arbitro si fida o rivede tutto?",
+      "Un campione deciderà il futuro del gioco."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "La NBA sta testando un sistema AI per giudicare il fuori campo in tempo reale. Il problema? Sbaglia ancora sui tiri più contestati.",
+          "Il sistema traccia ogni movimento di palla e giocatori con telecamere e sensori. L'obiettivo è eliminare i dubbi umani.",
+          "Ma nei momenti decisivi, l'AI ha già mostrato errori. Su canestri da tre e linee di fondo, il margine è millimetrico.",
+          "Qui arriva il dilemma: l'arbitro si fida della tecnologia o deve comunque rivedere le chiamate? Due sistemi, stessa incertezza.",
+          "Un campione di partite deciderà se l'AI diventa standard o resta un esperimento. Costa meno di un abbonamento DAZN. Lo vedremo quest'anno."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "L'AI arbitra il fuori campo in NBA.",
+          "Traccia palla e giocatori ogni secondo.",
+          "Ma sbaglia ancora sui tiri contestati.",
+          "L'arbitro si fida o rivede tutto?",
+          "Un campione deciderà il futuro del gioco."
+        ]
+      },
+      "instagram": {
+        "caption": "La NBA sta testando un sistema AI che giudica il fuori campo in tempo reale, ma sui tiri più contestati sbaglia ancora. 🏀 Le telecamere tracciano ogni movimento di palla e giocatori per eliminare i dubbi umani, però il margine è millimetrico. Il dilemma: l'arbitro si fida o deve rivedere comunque le chiamate? 🤖 Un campione di partite deciderà quest'anno se la tecnologia diventa standard o resta un esperimento. Tu ti fideresti di un canestro decisivo giudicato da un algoritmo? ⚖️"
+      }
+    },
+    "instagram_caption": "La NBA sta testando un sistema AI che giudica il fuori campo in tempo reale, ma sui tiri più contestati sbaglia ancora. 🏀 Le telecamere tracciano ogni movimento di palla e giocatori per eliminare i dubbi umani, però il margine è millimetrico. Il dilemma: l'arbitro si fida o deve rivedere comunque le chiamate? 🤖 Un campione di partite deciderà quest'anno se la tecnologia diventa standard o resta un esperimento. Tu ti fideresti di un canestro decisivo giudicato da un algoritmo? ⚖️",
+    "carousel_slides": [
+      {
+        "hook": "Sbaglia nei momenti decisivi",
+        "description": "La NBA testa un'AI per il fuori campo, ma nei tiri contestati l'errore è millimetrico.",
+        "visual_hint": "Linea millimetrica sfocata",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "basketball court line"
+      },
+      {
+        "hook": "Telecamere tracciano tutto",
+        "description": "Il sistema segue palla e giocatori con sensori, puntando a eliminare i dubbi umani.",
+        "visual_hint": "Telecamera su palo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "camera sensor hardware",
+        "image": "https://images.pexels.com/photos/18880010/pexels-photo-18880010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Margine troppo sottile",
+        "description": "Nei tiri da tre l'AI ha già sbagliato: la linea di fondo è questione di millimetri.",
+        "visual_hint": "Primo piano linea campo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "close up basketball line",
+        "image": "https://images.pexels.com/photos/17362660/pexels-photo-17362660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Arbitro o AI: chi decide?",
+        "description": "L'arbitro si fida della tecnologia o rivede? Due sistemi, stessa incertezza.",
+        "visual_hint": "Mano con fischietto",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "referee hand whistle",
+        "image": "https://images.pexels.com/photos/35571159/pexels-photo-35571159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il campione deciderà",
+        "description": "Un campione di partite stabilirà se l'AI diventa standard. Costi bassi, futuro incerto.",
+        "visual_hint": "Schermo con grafico",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "data analytics screen",
+        "image": "https://images.pexels.com/photos/8100069/pexels-photo-8100069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/NBA-plans-AI-system-for-automatic-out-of-bounds-calls-scaled-e1779938188320.jpg",
+    "savedAt": "2026-05-28T15:32:25.520Z",
+    "sourceId": "d5cce597c646adfdf017830211eb8de2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-pay-preps-for-ai-agents-with-universal-comm",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
+    "link": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
+    "pubDate": "Thu, 28 May 2026 14:55:43 +0000",
+    "slides": [
+      "Google Pay reinventa il portafoglio per AI agent?",
+      "Con il nuovo Universal Commerce Protocol parla con le banche.",
+      "I pagamenti non li autorizzerai più tu.",
+      "Il tuo agente spenderà soldi al posto tuo.",
+      "Prova ora: collega un account e simula uno scenario."
+    ],
+    "thread_text": [
+      "I tuoi soldi spariranno dal conto e non sarai tu a decidere. Il tuo agente AI lo farà per te, in automatico, senza che tu veda nulla.",
+      "Google Pay ha appena annunciato l'Universal Commerce Protocol. Traduzione: un linguaggio standard che permette a un programma di parlare direttamente con la tua banca.",
+      "Non autorizzerai più pagamenti uno per uno. Il tuo agente avrà un budget, deciderà quando e dove spendere, e la transazione partirà da sola.",
+      "Scenario tipico: l'agente vede che il tuo volo è in ritardo, ti prenota un hotel nelle vicinanze e lo paga col tuo conto. Tu ricevi solo il riepilogo.",
+      "Connessione già operativa con alcuni conti correnti europei. Costa meno di un abbonamento Netflix. Collega un account oggi e simula uno scenario reale.",
+      "Se non l'hai ancora fatto, prova uno scenario concreto: 'prenota un taxi per domani alle 7 davanti a casa'. L'agente lo fa, tu vedi l'addebito dopo."
+    ],
+    "video_script": [
+      "I tuoi soldi spariranno, e non sarai tu a decidere.",
+      "Google Pay ha creato un linguaggio che parla con le banche.",
+      "Il tuo agente spenderà al posto tuo, in automatico.",
+      "Nessuna notifica di autorizzazione. Solo un riepilogo dopo.",
+      "Costa meno di un caffè al giorno. Provalo oggi."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "I tuoi soldi spariranno dal conto e non sarai tu a decidere. Il tuo agente AI lo farà per te, in automatico, senza che tu veda nulla.",
+          "Google Pay ha appena annunciato l'Universal Commerce Protocol. Traduzione: un linguaggio standard che permette a un programma di parlare direttamente con la tua banca.",
+          "Non autorizzerai più pagamenti uno per uno. Il tuo agente avrà un budget, deciderà quando e dove spendere, e la transazione partirà da sola.",
+          "Scenario tipico: l'agente vede che il tuo volo è in ritardo, ti prenota un hotel nelle vicinanze e lo paga col tuo conto. Tu ricevi solo il riepilogo.",
+          "Connessione già operativa con alcuni conti correnti europei. Costa meno di un abbonamento Netflix. Collega un account oggi e simula uno scenario reale.",
+          "Se non l'hai ancora fatto, prova uno scenario concreto: 'prenota un taxi per domani alle 7 davanti a casa'. L'agente lo fa, tu vedi l'addebito dopo."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "I tuoi soldi spariranno, e non sarai tu a decidere.",
+          "Google Pay ha creato un linguaggio che parla con le banche.",
+          "Il tuo agente spenderà al posto tuo, in automatico.",
+          "Nessuna notifica di autorizzazione. Solo un riepilogo dopo.",
+          "Costa meno di un caffè al giorno. Provalo oggi."
+        ]
+      },
+      "instagram": {
+        "caption": "Google Pay ha attivato un protocollo che permette al tuo agente AI di parlare direttamente con la banca e autorizzare pagamenti al posto tuo. 🏦\n\nNiente più click per ogni acquisto: l'agente ha un budget, decide da solo e fa partire la transazione. 💸 Se il tuo volo è in ritardo, lui ti prenota l'hotel e lo paga mentre tu dormi. 🛌\n\nConnesso già a conti europei, costa meno di un abbonamento Netflix. Collega un account e simula: \"prenota un taxi per domani alle 7 davanti a casa\". L'addebito lo vedi dopo. 🚕\n\nTi fideresti a dare le chiavi del conto a un agente?"
+      }
+    },
+    "instagram_caption": "Google Pay ha attivato un protocollo che permette al tuo agente AI di parlare direttamente con la banca e autorizzare pagamenti al posto tuo. 🏦\n\nNiente più click per ogni acquisto: l'agente ha un budget, decide da solo e fa partire la transazione. 💸 Se il tuo volo è in ritardo, lui ti prenota l'hotel e lo paga mentre tu dormi. 🛌\n\nConnesso già a conti europei, costa meno di un abbonamento Netflix. Collega un account e simula: \"prenota un taxi per domani alle 7 davanti a casa\". L'addebito lo vedi dopo. 🚕\n\nTi fideresti a dare le chiavi del conto a un agente?",
+    "carousel_slides": [
+      {
+        "hook": "I tuoi soldi spariscono da soli",
+        "description": "Il tuo agente AI spende e tu non autorizzi più nulla. Google Pay cambia le regole.",
+        "visual_hint": "Conto corrente che si svuota",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "empty wallet table"
+      },
+      {
+        "hook": "Parla direttamente con la banca",
+        "description": "Universal Commerce Protocol: un linguaggio standard che permette al tuo agente di parlare con istituti finanziari.",
+        "visual_hint": "Agente che contatta banca",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "bank server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Budget automatico, zero autorizzazioni",
+        "description": "L'agente ha un budget, decide quando spendere e la transazione parte da sola. Tu vedi solo il riepilogo.",
+        "visual_hint": "Transazione automatica in corso",
+        "layout_type": "sensor-zoom",
+        "icon": "tag",
+        "image_query": "credit card payment terminal",
+        "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Volo in ritardo? Lui ti prenota",
+        "description": "Scenario tipico: agente vede il ritardo, prenota un hotel vicino e paga col tuo conto. Tu ricevi solo il riepilogo.",
+        "visual_hint": "Notifica di addebito automatico",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "airport departure board",
+        "image": "https://images.pexels.com/photos/29132808/pexels-photo-29132808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova oggi: simula uno scenario",
+        "description": "Collega un account e testa: 'prenota un taxi per domani alle 7'. L'agente lo fa, l'addebito arriva dopo.",
+        "visual_hint": "Clic sul pulsante di prova",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "smartphone taxi app",
+        "image": "https://images.pexels.com/photos/6280697/pexels-photo-6280697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/google-pay-ai-agents-universal-commerce-protocol-agentic-payments-retail-fintech.jpg",
+    "savedAt": "2026-05-28T15:32:02.136Z",
+    "sourceId": "2a95b3e38d18f9352cebb72a57bc93dc"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "why-google-s-ai-can-t-spell-google-or-anything-els",
     "prompt_version": "1.0.0",
     "status": "published",
@@ -523,7 +941,7 @@ window.ARTICLES = [
     "agent": "ai-news",
     "slug": "elevenlabs-new-music-generation-model-can-switch-g",
     "prompt_version": "1.0.0",
-    "status": "published",
+    "status": "approved",
     "title": "ElevenLabs’ new music-generation model can switch genres mid-track",
     "link": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
     "pubDate": "Wed, 27 May 2026 14:14:10 +0000",
@@ -574,68 +992,69 @@ window.ARTICLES = [
         "scenes": [
           {
             "scene": 1,
-            "duration_sec": 6,
-            "hook": "Sveliamo una rivoluzione musicale!",
-            "voiceover": "ElevenLabs ha lanciato un nuovo modello di generazione musicale.",
-            "on_screen_text": "RIVOLUZIONE MUSICALE!",
-            "visual_direction": "Testo che appare con un effetto di scrittura.",
-            "caption": "Scopri come cambia la musica.",
-            "tone": "urgent",
-            "emphasis_word": "RIVOLUZIONE",
+            "duration_sec": 5,
+            "hook": "La musica cambia da sola.",
+            "voiceover": "Immagina una musica che si trasforma in tempo reale.",
+            "on_screen_text": "La musica cambia da sola.",
+            "visual_direction": "Testo dinamico che appare e svanisce.",
+            "caption": "Scopri la magia della musica.",
+            "tone": "inspiring",
+            "emphasis_word": "cambia",
             "layout": "single"
           },
           {
             "scene": 2,
-            "duration_sec": 6,
-            "hook": "Immagina di cambiare genere.",
-            "voiceover": "Questo modello può cambiare genere in tempo reale.",
-            "on_screen_text": "CAMBIA GENERE!",
-            "visual_direction": "Transizione fluida tra generi musicali.",
-            "caption": "La musica evolve da sola.",
+            "duration_sec": 5,
+            "hook": "Un modello innovativo.",
+            "voiceover": "Il nuovo modello di ElevenLabs trasforma il tuo sound.",
+            "on_screen_text": "Un modello innovativo.",
+            "visual_direction": "Animazione di onde sonore in movimento.",
+            "caption": "Trasforma il tuo sound.",
             "tone": "urgent",
-            "emphasis_word": "CAMBIA",
+            "emphasis_word": "innovativo",
             "layout": "single"
           },
           {
             "scene": 3,
-            "duration_sec": 5,
-            "hook": "Nessuna riscrittura necessaria.",
-            "voiceover": "Non ci sono accordi da riscrivere, solo parole.",
-            "on_screen_text": "SOLO PAROLE!",
-            "visual_direction": "Animazione con parole che danzano.",
-            "caption": "Semplicità e creatività unite.",
+            "duration_sec": 6,
+            "hook": "Niente riscritture.",
+            "voiceover": "Nessun accordo da riscrivere, solo parole.",
+            "on_screen_text": "Niente accordi da riscrivere.",
+            "visual_direction": "Testo che si frantuma e si ricompone.",
+            "caption": "Semplicità totale.",
             "tone": "informative",
-            "emphasis_word": "SOLO",
+            "emphasis_word": "parole",
             "layout": "single"
           },
           {
             "scene": 4,
-            "duration_sec": 8,
-            "hook": "Demo pronte in pochi minuti.",
-            "voiceover": "I musicisti possono avere demo pronte in minuti, non ore.",
-            "on_screen_text": "DEMO IN MINUTI!",
-            "visual_direction": "Timer che scorre velocemente.",
-            "caption": "Accelera la tua creatività.",
-            "tone": "inspiring",
-            "emphasis_word": "MINUTI",
+            "duration_sec": 6,
+            "hook": "Demo in pochi minuti.",
+            "voiceover": "I musicisti possono creare demo in minuti.",
+            "on_screen_text": "Demo in pochi minuti.",
+            "visual_direction": "Timer che corre rapidamente.",
+            "caption": "Creatività veloce.",
+            "tone": "urgent",
+            "emphasis_word": "minuti",
             "layout": "single"
           },
           {
             "scene": 5,
             "duration_sec": 5,
-            "hook": "Prova oggi stesso!",
+            "hook": "Prova oggi.",
             "voiceover": "La tua hit potrebbe nascere qui, prova oggi.",
-            "on_screen_text": "PROVA OGGI!",
-            "visual_direction": "Chiusura con un invito all'azione accattivante.",
-            "caption": "Non aspettare, inizia ora!",
-            "tone": "urgent",
-            "emphasis_word": "PROVA",
+            "on_screen_text": "Prova oggi.",
+            "visual_direction": "Testo luminoso che pulsa.",
+            "caption": "La tua hit ti aspetta.",
+            "tone": "inspiring",
+            "emphasis_word": "hit",
             "layout": "single"
           }
         ],
         "quality_score": 85,
         "duration_sec": 30,
-        "cta": "Inizia a creare la tua musica!"
+        "cta": "Scopri di più su ElevenLabs.",
+        "template": "kinetic_typography"
       }
     },
     "instagram_caption": "Con ElevenLabs ora puoi cambiare il genere di un brano mentre suona, senza riscrivere un solo accordo. 🎚️ Basta descrivere la svolta a parole — ad esempio \"passa da folk a elettronico\" — e il modello trasforma la traccia in tempo reale. 🎶 Per un musicista indipendente significa registrare un demo completo in minuti e testare suoni diversi al volo. 🎤 Costa meno di un abbonamento Spotify mensile. Da quale genere parti oggi?",
@@ -2784,7 +3203,7 @@ window.ARTICLES = [
     "agent": "ai-news",
     "slug": "duckduckgo-installs-are-up-30-as-users-reject-bein",
     "prompt_version": "1.0.0",
-    "status": "published",
+    "status": "approved",
     "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
     "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
     "pubDate": "Tue, 26 May 2026 22:32:56 +0000",

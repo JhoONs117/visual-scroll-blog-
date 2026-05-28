@@ -3,6 +3,424 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "at-techcrunch-disrupt-2026-databricks-co-founder-o",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+      "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+      "pubDate": "Thu, 28 May 2026 14:30:00 +0000",
+      "slides": [
+        "Databricks' co-founder revealed the top deal-breaker at Disrupt 2026.",
+        "83% of AI pilots fail to reach production—why?",
+        "It’s not the tech, but missing customer data readiness.",
+        "Skipping data audits kills deployment speed and trust.",
+        "Schedule a data audit before your next AI meeting."
+      ],
+      "thread_text": [
+        "Se il tuo team AI non ha fatto un audit dei dati prima del prossimo meeting, hai già perso.",
+        "Il co-fondatore di Databricks l'ha detto a Disrupt 2026: il deal-breaker numero uno non è il modello, sono i dati sporchi che nessuno vuole vedere.",
+        "L'83% dei progetti AI non arriva in produzione. Non per colpa della tecnologia, ma per dati non pronti che bloccano tutto.",
+        "Saltare l'audit dei dati è la mossa più veloce per uccidere fiducia e velocità di deploy.",
+        "Un audit costa meno di un caffè al giorno. Fallo prima del prossimo meeting o stai già fallendo."
+      ],
+      "video_script": [
+        "Il problema dell'AI non è la tecnologia.",
+        "Sono i dati che non hai mai pulito.",
+        "Il 5% dei progetti arriva in produzione.",
+        "Salta l'audit e muore tutto.",
+        "Fallo prima del prossimo meeting."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Se il tuo team AI non ha fatto un audit dei dati prima del prossimo meeting, hai già perso.",
+            "Il co-fondatore di Databricks l'ha detto a Disrupt 2026: il deal-breaker numero uno non è il modello, sono i dati sporchi che nessuno vuole vedere.",
+            "L'83% dei progetti AI non arriva in produzione. Non per colpa della tecnologia, ma per dati non pronti che bloccano tutto.",
+            "Saltare l'audit dei dati è la mossa più veloce per uccidere fiducia e velocità di deploy.",
+            "Un audit costa meno di un caffè al giorno. Fallo prima del prossimo meeting o stai già fallendo."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Il problema dell'AI non è la tecnologia.",
+            "Sono i dati che non hai mai pulito.",
+            "Il 5% dei progetti arriva in produzione.",
+            "Salta l'audit e muore tutto.",
+            "Fallo prima del prossimo meeting."
+          ]
+        },
+        "instagram": {
+          "caption": "Il 83% dei progetti AI muore prima di arrivare in produzione: il problema? **Non la tecnologia, ma dati sporchi e non pronti** 📊. A TechCrunch Disrupt 2026, il co-fondatore di Databricks ha spiegato che saltare un audit sui dati è la mossa più veloce per affondare un deal **e la fiducia del cliente** 🚫. Per te che lavori con l'AI, significa che senza verificare la qualità dei dati, ogni presentazione rischia di essere tempo perso ⏳. Hai già programmato un audit prima del tuo prossimo meeting?"
+        }
+      },
+      "instagram_caption": "Il 83% dei progetti AI muore prima di arrivare in produzione: il problema? **Non la tecnologia, ma dati sporchi e non pronti** 📊. A TechCrunch Disrupt 2026, il co-fondatore di Databricks ha spiegato che saltare un audit sui dati è la mossa più veloce per affondare un deal **e la fiducia del cliente** 🚫. Per te che lavori con l'AI, significa che senza verificare la qualità dei dati, ogni presentazione rischia di essere tempo perso ⏳. Hai già programmato un audit prima del tuo prossimo meeting?",
+      "carousel_slides": [
+        {
+          "hook": "Il 83% fallisce. Colpa dei dati.",
+          "description": "Non è il modello, sono i dati sporchi che nessuno vuole vedere. Deal-breaker numero uno a Disrupt 2026.",
+          "visual_hint": "Grafico a barre con 83%",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "bar chart graph"
+        },
+        {
+          "hook": "Audit saltato? Deploy morto.",
+          "description": "Skipping data audits kills deployment speed and trust. Fallo prima del prossimo meeting o stai già fallendo.",
+          "visual_hint": "Checklist e lente d'ingrandimento",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "magnifying glass document",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non la tech, ma dati sporchi.",
+          "description": "83% dei progetti AI non arriva in produzione per dati non pronti, non per la tecnologia.",
+          "visual_hint": "Ingranaggio con macchia scura",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "dirty circuit board",
+          "image": "https://images.pexels.com/photos/32396935/pexels-photo-32396935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fiducia persa in un attimo.",
+          "description": "Saltare l'audit è la mossa più veloce per uccidere fiducia e velocità di deploy.",
+          "visual_hint": "Mani che rompono un modello",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands breaking tablet",
+          "image": "https://images.pexels.com/photos/6633645/pexels-photo-6633645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costa meno di un caffè.",
+          "description": "Un audit costa meno di un caffè al giorno. Fallo prima del prossimo AI meeting.",
+          "visual_hint": "Taccuino e tazza di caffè",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "notebook coffee cup",
+          "image": "https://images.pexels.com/photos/7657971/pexels-photo-7657971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/TCD26_1-Arsalan-Tavakoli-Shiraji_Speaker-16x9-Dark.png?resize=1200,675",
+      "savedAt": "2026-05-28T15:33:06.512Z",
+      "sourceId": "7dac4f0cab351660171bf433fe479085"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "sneak-peek-at-new-siri-app-reveals-apple-s-plans-t",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+      "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+      "pubDate": "Thu, 28 May 2026 14:45:13 +0000",
+      "slides": [
+        "Apple's new Siri app—does it rival ChatGPT?",
+        "It processes requests directly on device.",
+        "No cloud needed—privacy shifts the game.",
+        "Your voice commands now learn offline patterns.",
+        "Test Siri's limits before competitors respond."
+      ],
+      "thread_text": [
+        "Apple ha appena tolto la dipendenza dal cloud per Siri. Tutti i comandi restano sul telefono. Nessun server esterno vede i tuoi dati. Questa è la mossa più forte sul tavolo della privacy.",
+        "L’assistente impara ora dai tuoi pattern vocali, offline. Significa che capisce meglio il tuo modo di parlare senza mai inviare nulla a un server.",
+        "Niente più attese per il responso dal cloud. Il riconoscimento è locale e in tempo reale. Il telefono fa tutto da solo.",
+        "La domanda è: quanto è bravo? Apple ha limato il modello, ma i competitor non stanno fermi. Ora bisogna testarlo sul campo.",
+        "Provalo oggi su un comando complesso: tipo \"aggiungi latte, uova e pane alla lista della spesa e fammi vedere il meteo di domani\". Se regge, la sfida a ChatGPT è aperta."
+      ],
+      "video_script": [
+        "Apple ha tolto Siri dal cloud.",
+        "Ora tutto resta sul telefono.",
+        "Niente server esterno, massima privacy.",
+        "L'assistente impara offline dagli utenti.",
+        "Provalo ora o i rivali ti superano."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Apple ha appena tolto la dipendenza dal cloud per Siri. Tutti i comandi restano sul telefono. Nessun server esterno vede i tuoi dati. Questa è la mossa più forte sul tavolo della privacy.",
+            "L’assistente impara ora dai tuoi pattern vocali, offline. Significa che capisce meglio il tuo modo di parlare senza mai inviare nulla a un server.",
+            "Niente più attese per il responso dal cloud. Il riconoscimento è locale e in tempo reale. Il telefono fa tutto da solo.",
+            "La domanda è: quanto è bravo? Apple ha limato il modello, ma i competitor non stanno fermi. Ora bisogna testarlo sul campo.",
+            "Provalo oggi su un comando complesso: tipo \"aggiungi latte, uova e pane alla lista della spesa e fammi vedere il meteo di domani\". Se regge, la sfida a ChatGPT è aperta."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple ha tolto Siri dal cloud.",
+            "Ora tutto resta sul telefono.",
+            "Niente server esterno, massima privacy.",
+            "L'assistente impara offline dagli utenti.",
+            "Provalo ora o i rivali ti superano."
+          ]
+        },
+        "instagram": {
+          "caption": "Apple ha tolto Siri dal cloud: d'ora in poi tutte le richieste vengono processate direttamente sul tuo telefono, nessun dato finisce su server esterni 🧠. L’assistente impara offline i tuoi schemi vocali, capisce meglio come parli senza mandare nulla a nessuno. Per te significa zero attese per la risposta e più privacy su ogni comando, dalla lista della spesa al meteo ☁️➡️📱. Provalo subito con un compito complesso: Siri regge la sfida con ChatGPT?"
+        }
+      },
+      "instagram_caption": "Apple ha tolto Siri dal cloud: d'ora in poi tutte le richieste vengono processate direttamente sul tuo telefono, nessun dato finisce su server esterni 🧠. L’assistente impara offline i tuoi schemi vocali, capisce meglio come parli senza mandare nulla a nessuno. Per te significa zero attese per la risposta e più privacy su ogni comando, dalla lista della spesa al meteo ☁️➡️📱. Provalo subito con un compito complesso: Siri regge la sfida con ChatGPT?",
+      "carousel_slides": [
+        {
+          "hook": "No cloud, no data leaks",
+          "description": "Apple rimuove la dipendenza dal cloud per Siri. Tutti i comandi restano sul dispositivo, nessun server esterno vede i dati.",
+          "visual_hint": "iPhone glowing no cloud",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "smartphone no signal"
+        },
+        {
+          "hook": "Impara offline, capisce meglio",
+          "description": "L'assistente impara dai tuoi pattern vocali senza inviare nulla a server esterni. Riconoscimento locale e privato.",
+          "visual_hint": "waveform inside phone chip",
+          "layout_type": "right-focus",
+          "icon": "vibration",
+          "image_query": "audio waveform chip",
+          "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Zero attese, risposte immediate",
+          "description": "Niente più ritardi per il responso dal cloud. Il telefono processa tutto in tempo reale e in locale.",
+          "visual_hint": "stopwatch versus instant check",
+          "layout_type": "sensor-zoom",
+          "icon": "tag",
+          "image_query": "stopwatch smartphone",
+          "image": "https://images.pexels.com/photos/35343438/pexels-photo-35343438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Quanto è bravo davvero?",
+          "description": "Apple ha limato il modello, ma i competitor non stanno fermi. Ora bisogna testare Siri sul campo con comandi complessi.",
+          "visual_hint": "hand pressing microphone button",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sfida ChatGPT: provala ora",
+          "description": "Prova un comando complesso come \"aggiungi latte, uova e pane alla lista e mostrami il meteo di domani\". Se regge, Apple vince.",
+          "visual_hint": "chat bubble vs Siri wave",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "chatgpt logo siri",
+          "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/1476x1375.webp?resize=1200,1118",
+      "savedAt": "2026-05-28T15:32:47.206Z",
+      "sourceId": "5ae8ee806afadc6b6b20d671b3a0df30"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "nba-plans-ai-system-for-automatic-out-of-bounds-ca",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "NBA plans AI system for automatic out-of-bounds calls",
+      "link": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
+      "pubDate": "Thu, 28 May 2026 10:00:00 +0000",
+      "slides": [
+        "NBA testa AI per giudicare il fuori campo in tempo reale.",
+        "Il sistema traccia ogni movimento di palla e giocatori.",
+        "Ma la tecnologia sbaglia ancora su tiri contestati.",
+        "Chi arbitra dovrà fidarsi o rivedere comunque le chiamate?",
+        "Un campione deciderà il futuro del gioco."
+      ],
+      "thread_text": [
+        "La NBA sta testando un sistema AI per giudicare il fuori campo in tempo reale. Il problema? Sbaglia ancora sui tiri più contestati.",
+        "Il sistema traccia ogni movimento di palla e giocatori con telecamere e sensori. L'obiettivo è eliminare i dubbi umani.",
+        "Ma nei momenti decisivi, l'AI ha già mostrato errori. Su canestri da tre e linee di fondo, il margine è millimetrico.",
+        "Qui arriva il dilemma: l'arbitro si fida della tecnologia o deve comunque rivedere le chiamate? Due sistemi, stessa incertezza.",
+        "Un campione di partite deciderà se l'AI diventa standard o resta un esperimento. Costa meno di un abbonamento DAZN. Lo vedremo quest'anno."
+      ],
+      "video_script": [
+        "L'AI arbitra il fuori campo in NBA.",
+        "Traccia palla e giocatori ogni secondo.",
+        "Ma sbaglia ancora sui tiri contestati.",
+        "L'arbitro si fida o rivede tutto?",
+        "Un campione deciderà il futuro del gioco."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "La NBA sta testando un sistema AI per giudicare il fuori campo in tempo reale. Il problema? Sbaglia ancora sui tiri più contestati.",
+            "Il sistema traccia ogni movimento di palla e giocatori con telecamere e sensori. L'obiettivo è eliminare i dubbi umani.",
+            "Ma nei momenti decisivi, l'AI ha già mostrato errori. Su canestri da tre e linee di fondo, il margine è millimetrico.",
+            "Qui arriva il dilemma: l'arbitro si fida della tecnologia o deve comunque rivedere le chiamate? Due sistemi, stessa incertezza.",
+            "Un campione di partite deciderà se l'AI diventa standard o resta un esperimento. Costa meno di un abbonamento DAZN. Lo vedremo quest'anno."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "L'AI arbitra il fuori campo in NBA.",
+            "Traccia palla e giocatori ogni secondo.",
+            "Ma sbaglia ancora sui tiri contestati.",
+            "L'arbitro si fida o rivede tutto?",
+            "Un campione deciderà il futuro del gioco."
+          ]
+        },
+        "instagram": {
+          "caption": "La NBA sta testando un sistema AI che giudica il fuori campo in tempo reale, ma sui tiri più contestati sbaglia ancora. 🏀 Le telecamere tracciano ogni movimento di palla e giocatori per eliminare i dubbi umani, però il margine è millimetrico. Il dilemma: l'arbitro si fida o deve rivedere comunque le chiamate? 🤖 Un campione di partite deciderà quest'anno se la tecnologia diventa standard o resta un esperimento. Tu ti fideresti di un canestro decisivo giudicato da un algoritmo? ⚖️"
+        }
+      },
+      "instagram_caption": "La NBA sta testando un sistema AI che giudica il fuori campo in tempo reale, ma sui tiri più contestati sbaglia ancora. 🏀 Le telecamere tracciano ogni movimento di palla e giocatori per eliminare i dubbi umani, però il margine è millimetrico. Il dilemma: l'arbitro si fida o deve rivedere comunque le chiamate? 🤖 Un campione di partite deciderà quest'anno se la tecnologia diventa standard o resta un esperimento. Tu ti fideresti di un canestro decisivo giudicato da un algoritmo? ⚖️",
+      "carousel_slides": [
+        {
+          "hook": "Sbaglia nei momenti decisivi",
+          "description": "La NBA testa un'AI per il fuori campo, ma nei tiri contestati l'errore è millimetrico.",
+          "visual_hint": "Linea millimetrica sfocata",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "basketball court line"
+        },
+        {
+          "hook": "Telecamere tracciano tutto",
+          "description": "Il sistema segue palla e giocatori con sensori, puntando a eliminare i dubbi umani.",
+          "visual_hint": "Telecamera su palo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "camera sensor hardware",
+          "image": "https://images.pexels.com/photos/18880010/pexels-photo-18880010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Margine troppo sottile",
+          "description": "Nei tiri da tre l'AI ha già sbagliato: la linea di fondo è questione di millimetri.",
+          "visual_hint": "Primo piano linea campo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "close up basketball line",
+          "image": "https://images.pexels.com/photos/17362660/pexels-photo-17362660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Arbitro o AI: chi decide?",
+          "description": "L'arbitro si fida della tecnologia o rivede? Due sistemi, stessa incertezza.",
+          "visual_hint": "Mano con fischietto",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "referee hand whistle",
+          "image": "https://images.pexels.com/photos/35571159/pexels-photo-35571159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il campione deciderà",
+          "description": "Un campione di partite stabilirà se l'AI diventa standard. Costi bassi, futuro incerto.",
+          "visual_hint": "Schermo con grafico",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "data analytics screen",
+          "image": "https://images.pexels.com/photos/8100069/pexels-photo-8100069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/NBA-plans-AI-system-for-automatic-out-of-bounds-calls-scaled-e1779938188320.jpg",
+      "savedAt": "2026-05-28T15:32:25.520Z",
+      "sourceId": "d5cce597c646adfdf017830211eb8de2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-pay-preps-for-ai-agents-with-universal-comm",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
+      "link": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
+      "pubDate": "Thu, 28 May 2026 14:55:43 +0000",
+      "slides": [
+        "Google Pay reinventa il portafoglio per AI agent?",
+        "Con il nuovo Universal Commerce Protocol parla con le banche.",
+        "I pagamenti non li autorizzerai più tu.",
+        "Il tuo agente spenderà soldi al posto tuo.",
+        "Prova ora: collega un account e simula uno scenario."
+      ],
+      "thread_text": [
+        "I tuoi soldi spariranno dal conto e non sarai tu a decidere. Il tuo agente AI lo farà per te, in automatico, senza che tu veda nulla.",
+        "Google Pay ha appena annunciato l'Universal Commerce Protocol. Traduzione: un linguaggio standard che permette a un programma di parlare direttamente con la tua banca.",
+        "Non autorizzerai più pagamenti uno per uno. Il tuo agente avrà un budget, deciderà quando e dove spendere, e la transazione partirà da sola.",
+        "Scenario tipico: l'agente vede che il tuo volo è in ritardo, ti prenota un hotel nelle vicinanze e lo paga col tuo conto. Tu ricevi solo il riepilogo.",
+        "Connessione già operativa con alcuni conti correnti europei. Costa meno di un abbonamento Netflix. Collega un account oggi e simula uno scenario reale.",
+        "Se non l'hai ancora fatto, prova uno scenario concreto: 'prenota un taxi per domani alle 7 davanti a casa'. L'agente lo fa, tu vedi l'addebito dopo."
+      ],
+      "video_script": [
+        "I tuoi soldi spariranno, e non sarai tu a decidere.",
+        "Google Pay ha creato un linguaggio che parla con le banche.",
+        "Il tuo agente spenderà al posto tuo, in automatico.",
+        "Nessuna notifica di autorizzazione. Solo un riepilogo dopo.",
+        "Costa meno di un caffè al giorno. Provalo oggi."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "I tuoi soldi spariranno dal conto e non sarai tu a decidere. Il tuo agente AI lo farà per te, in automatico, senza che tu veda nulla.",
+            "Google Pay ha appena annunciato l'Universal Commerce Protocol. Traduzione: un linguaggio standard che permette a un programma di parlare direttamente con la tua banca.",
+            "Non autorizzerai più pagamenti uno per uno. Il tuo agente avrà un budget, deciderà quando e dove spendere, e la transazione partirà da sola.",
+            "Scenario tipico: l'agente vede che il tuo volo è in ritardo, ti prenota un hotel nelle vicinanze e lo paga col tuo conto. Tu ricevi solo il riepilogo.",
+            "Connessione già operativa con alcuni conti correnti europei. Costa meno di un abbonamento Netflix. Collega un account oggi e simula uno scenario reale.",
+            "Se non l'hai ancora fatto, prova uno scenario concreto: 'prenota un taxi per domani alle 7 davanti a casa'. L'agente lo fa, tu vedi l'addebito dopo."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "I tuoi soldi spariranno, e non sarai tu a decidere.",
+            "Google Pay ha creato un linguaggio che parla con le banche.",
+            "Il tuo agente spenderà al posto tuo, in automatico.",
+            "Nessuna notifica di autorizzazione. Solo un riepilogo dopo.",
+            "Costa meno di un caffè al giorno. Provalo oggi."
+          ]
+        },
+        "instagram": {
+          "caption": "Google Pay ha attivato un protocollo che permette al tuo agente AI di parlare direttamente con la banca e autorizzare pagamenti al posto tuo. 🏦\n\nNiente più click per ogni acquisto: l'agente ha un budget, decide da solo e fa partire la transazione. 💸 Se il tuo volo è in ritardo, lui ti prenota l'hotel e lo paga mentre tu dormi. 🛌\n\nConnesso già a conti europei, costa meno di un abbonamento Netflix. Collega un account e simula: \"prenota un taxi per domani alle 7 davanti a casa\". L'addebito lo vedi dopo. 🚕\n\nTi fideresti a dare le chiavi del conto a un agente?"
+        }
+      },
+      "instagram_caption": "Google Pay ha attivato un protocollo che permette al tuo agente AI di parlare direttamente con la banca e autorizzare pagamenti al posto tuo. 🏦\n\nNiente più click per ogni acquisto: l'agente ha un budget, decide da solo e fa partire la transazione. 💸 Se il tuo volo è in ritardo, lui ti prenota l'hotel e lo paga mentre tu dormi. 🛌\n\nConnesso già a conti europei, costa meno di un abbonamento Netflix. Collega un account e simula: \"prenota un taxi per domani alle 7 davanti a casa\". L'addebito lo vedi dopo. 🚕\n\nTi fideresti a dare le chiavi del conto a un agente?",
+      "carousel_slides": [
+        {
+          "hook": "I tuoi soldi spariscono da soli",
+          "description": "Il tuo agente AI spende e tu non autorizzi più nulla. Google Pay cambia le regole.",
+          "visual_hint": "Conto corrente che si svuota",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "empty wallet table"
+        },
+        {
+          "hook": "Parla direttamente con la banca",
+          "description": "Universal Commerce Protocol: un linguaggio standard che permette al tuo agente di parlare con istituti finanziari.",
+          "visual_hint": "Agente che contatta banca",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "bank server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Budget automatico, zero autorizzazioni",
+          "description": "L'agente ha un budget, decide quando spendere e la transazione parte da sola. Tu vedi solo il riepilogo.",
+          "visual_hint": "Transazione automatica in corso",
+          "layout_type": "sensor-zoom",
+          "icon": "tag",
+          "image_query": "credit card payment terminal",
+          "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Volo in ritardo? Lui ti prenota",
+          "description": "Scenario tipico: agente vede il ritardo, prenota un hotel vicino e paga col tuo conto. Tu ricevi solo il riepilogo.",
+          "visual_hint": "Notifica di addebito automatico",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "airport departure board",
+          "image": "https://images.pexels.com/photos/29132808/pexels-photo-29132808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova oggi: simula uno scenario",
+          "description": "Collega un account e testa: 'prenota un taxi per domani alle 7'. L'agente lo fa, l'addebito arriva dopo.",
+          "visual_hint": "Clic sul pulsante di prova",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone taxi app",
+          "image": "https://images.pexels.com/photos/6280697/pexels-photo-6280697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/google-pay-ai-agents-universal-commerce-protocol-agentic-payments-retail-fintech.jpg",
+      "savedAt": "2026-05-28T15:32:02.136Z",
+      "sourceId": "2a95b3e38d18f9352cebb72a57bc93dc"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "why-google-s-ai-can-t-spell-google-or-anything-els",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -636,7 +1054,7 @@ window.AGENTS = {
           ],
           "quality_score": 85,
           "duration_sec": 30,
-          "cta": "Inizia a creare la tua musica!",
+          "cta": "Scopri di più su ElevenLabs.",
           "template": "kinetic_typography"
         }
       },
@@ -34775,6 +35193,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-con-sugo-di-pomodoro-e-friggitelli",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta con sugo di pomodoro e friggitelli",
+      "link": "https://ricette.giallozafferano.it/Pasta-con-sugo-di-pomodoro-e-friggitelli.html",
+      "pubDate": "Thu, 28 May 2026 12:07:00 +0200",
+      "content": "Pasta con sugo di pomodoro datterino e friggitelli Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X SPECIALE Rosso Gourmet in collaborazione con BENESSERE Primi piatti Pasta Contenuto Sponsorizzato Pasta con sugo di pomodoro e friggitelli /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA 460,9 Calorie per porzione Energia Kcal 460,9 Carboidrati g 76,3 &nbsp;&nbsp;di cui zuccheri g 11,2 Proteine g 18,3 Grassi g 9,9 &nbsp;&nbsp;di cui saturi g 2,9 Fibre g 7,2 Colesterolo mg 8,5 Sodio mg 725,8 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza lattosio Vegetariano Dieta Mediterranea Difficoltà: Facile Preparazione: 20 min Cottura: 25 min Dosi per: 4 persone Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La pasta con sugo di pomodoro e friggitelli è un primo piatto semplice e saporito, perfetto per la stagione estiva. Le casarecce si avvolgono in un condimento a base di passata di datterino e friggitelli saltati in padella, per un risultato genuino e ricco di profumo. Tipici della cucina del Sud Italia, i friggitelli sono dei peperoni verdi dolci dalla forma allungata, solitamente cucinati in padella oppure fritti interi. In questa ricetta vengono rosolati e uniti al sugo di pomodoro, creando un condimento gustoso e avvolgente. Un piatto facile da preparare, ideale da portare in tavola per un pranzo in famiglia o una cena tra amici. Ecco altre ricette con i friggitelli da non perdere: Pasta con pesto di pomodori secchi e friggitelli Pasta friggitelli e salsiccia Gnocchi con friggitelli e salsiccia Friggitelli ripieni vegetariani Friggitelli ripieni Pasta with tomato sauce and friggitelli INGREDIENTI 460,9 Calorie per porzione Casarecce 320 g Friggitelli 400 g Passata di pomodoro datterino 600 g Basilico q.b. Aglio 2 spicchi Peperoncino fresco 1 Pepe nero q.b. Olio extravergine d'oliva 20 g Sale fino q.b. Grana Padano DOP 50 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con sugo di pomodoro e friggitelli Per preparare la pasta con sugo di pomodoro e friggitelli iniziate dal sugo. In un pentolino versate un filo d’olio extravergine d’oliva, aggiungete lo spicchio d’aglio sbucciato e i gambi di basilico 1 , poi lasciate soffriggere dolcemente per qualche minuto. Unite la passata di pomodoro datterino 2 , regolate di sale 3 e fate cuocere a fuoco basso per circa 20 minuti, mescolando di tanto in tanto. Nel frattempo occupatevi dei friggitelli: lavateli, divideteli a metà 4 , eliminate il picciolo e i semi interni 5 . Se dovessero essere molto grandi potete dividerli ancora a metà per il senso della lunghezza 6 . In una padella scaldate un giro d’olio con uno spicchio d’aglio e il peperoncino fresco 7 , se preferite un gusto più piccante potete tritarlo. Lasciate insaporire, poi aggiungete i friggitelli 8 e regolate di sale 9 . Coprite con un coperchio 10 e lasciate cuocere a fuoco medio per circa 10 minuti, finché risulteranno morbidi ma ancora leggermente consistenti 11 . Portate a bollore una pentola di acqua salata e cuocete le casarecce 12 secondo il tempo indicato sulla confezione. Una volta cotto eliminate i rametti di basilico e l’aglio dal sugo 13 . Versatelo nella padella con i friggitelli 14 , poi tritate il basilico 15 . Unite il basilico al sugo 16 ; scolate la pasta al dente direttamente nel condimento 17 e amalgamate bene il tutto a fuoco vivace 18 . Completate con pepe nero macinato, un filo d’olio extravergine e il Grana Padano DOP grattugiato; mescolate fino a ottenere un condimento cremoso e ben legato. Servite la pasta ben calda con qualche foglia di basilico fresco. Conservazione La pasta con sugo di pomodoro e friggitelli si conserva in frigorifero, in un contenitore chiuso, per 1 giorno. Si sconsiglia la congelazione. Prima di servirla nuovamente potete scaldarla in padella con un filo d’olio o qualche cucchiaio d’acqua. Consiglio Se volete rendere il piatto ancora più profumato, potete friggere qualche friggitello intero da utilizzare come decorazione finale e aggiungerlo direttamente nei piatti al momento di servire. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Friggitelli Basilico Pomodoro Aglio Pasta Olio di oliva Scopri tutto sugli ingredienti Presente in: Primi piatti sfiziosi , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Non hai trovato l'ispirazione giusta? Prova queste! Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Pasta cremosa con friggitelli e pomodoro datterino.",
+        "Casarecce, friggitelli, passata datterino, aglio, Grana.",
+        "Rosola friggitelli con aglio e peperoncino.",
+        "Unisci sugo e friggitelli, salta la pasta.",
+        "Decora con friggitelli fritti interi."
+      ],
+      "instagram_caption": "Il segreto sta tutto in quel mix cremoso di friggitelli dolci e pomodoro datterino. 🌶️🍅\n\nCasarecce avvolte da una passata vellutata, aglio e un tocco di peperoncino che accarezza senza bruciare. I friggitelli rosolati prima in padella, poi dentro al sugo, e infine qualcuno croccante fritto intero sopra — la differenza la fa quel contrasto. Grana finale a neve e siamo a tavola. 🧀✨\n\nProvala questo weekend e fammi sapere se ti è venuta voglia di rifarla subito.   Buona pasta a chi ha coraggio di osare con i sapori semplici. 🍝🌿",
+      "formats": {
+        "instagram": {
+          "caption": "Il segreto sta tutto in quel mix cremoso di friggitelli dolci e pomodoro datterino. 🌶️🍅\n\nCasarecce avvolte da una passata vellutata, aglio e un tocco di peperoncino che accarezza senza bruciare. I friggitelli rosolati prima in padella, poi dentro al sugo, e infine qualcuno croccante fritto intero sopra — la differenza la fa quel contrasto. Grana finale a neve e siamo a tavola. 🧀✨\n\nProvala questo weekend e fammi sapere se ti è venuta voglia di rifarla subito.   Buona pasta a chi ha coraggio di osare con i sapori semplici. 🍝🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Prendo le casarecce e le friggo.",
+            "Rosolo i friggitelli con aglio piccante.",
+            "Unisco la passata e tiro tutto.",
+            "Salto la pasta nel sugo cremoso.",
+            "Decoro con due friggitelli fritti interi."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Friggitelli e pomodoro: la combo che trasforma una pasta in un'esplosione di sapore. Cremosa, avvolgente, con quel twist agrodolce che non ti aspetti.",
+            "Casarecce, friggitelli, passata di datterino, aglio e Grana. La lista è corta, ma l'alchimia è tutto. Non serve altro quando gli ingredienti sono giusti.",
+            "Rosola i friggitelli in padella con aglio e peperoncino finché non diventano teneri e leggermente bruciacchiati. Quel profumo è già metà del lavoro.",
+            "Unisci il sugo di pomodoro ai friggitelli, saltaci dentro la pasta al dente con un filo d'acqua di cottura. Manteca con Grana: viene cremosa al punto giusto.",
+            "Metti da parte qualche friggitello fritto intero per decorare il piatto. Croccante fuori e dolce dentro: quel contrasto fa la differenza. Provala e fammi sapere 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Prendo le casarecce e le friggo.",
+        "Rosolo i friggitelli con aglio piccante.",
+        "Unisco la passata e tiro tutto.",
+        "Salto la pasta nel sugo cremoso.",
+        "Decoro con due friggitelli fritti interi."
+      ],
+      "thread_text": [
+        "Friggitelli e pomodoro: la combo che trasforma una pasta in un'esplosione di sapore. Cremosa, avvolgente, con quel twist agrodolce che non ti aspetti.",
+        "Casarecce, friggitelli, passata di datterino, aglio e Grana. La lista è corta, ma l'alchimia è tutto. Non serve altro quando gli ingredienti sono giusti.",
+        "Rosola i friggitelli in padella con aglio e peperoncino finché non diventano teneri e leggermente bruciacchiati. Quel profumo è già metà del lavoro.",
+        "Unisci il sugo di pomodoro ai friggitelli, saltaci dentro la pasta al dente con un filo d'acqua di cottura. Manteca con Grana: viene cremosa al punto giusto.",
+        "Metti da parte qualche friggitello fritto intero per decorare il piatto. Croccante fuori e dolce dentro: quel contrasto fa la differenza. Provala e fammi sapere 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta cremosa con friggitelli",
+          "description": "Un primo estivo cremoso, dove la dolcezza dei friggitelli incontra il pomodoro datterino",
+          "visual_hint": "piatto fumante su tavola",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "creamy pasta friggitelli savory"
+        },
+        {
+          "hook": "I protagonisti della ricetta",
+          "description": "Casarecce, friggitelli, passata di datterino, aglio e Grana: pochi ingredienti, grande sapore",
+          "visual_hint": "ingredienti su tagliere rustico",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "pasta ingredients friggitelli savory",
+          "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il segreto: rosolare i friggitelli",
+          "description": "Rosola i friggitelli interi con aglio e peperoncino fino a quando si ammorbidiscono e sfrigolano",
+          "visual_hint": "padella con friggitelli dorati",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "frying friggitelli garlic savory",
+          "image": "https://images.pexels.com/photos/10794159/pexels-photo-10794159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca tutto insieme",
+          "description": "Unisci il sugo di pomodoro ai friggitelli, salta la pasta al dente e aggiungi il Grana grattugiato",
+          "visual_hint": "mano che salta pasta in padella",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "tossing pasta pan savory",
+          "image": "https://images.pexels.com/photos/30350311/pexels-photo-30350311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tocco finale croccante",
+          "description": "Decora con friggitelli fritti interi croccanti per un contrasto di texture irresistibile",
+          "visual_hint": "piatto finito con friggitelli sopra",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "pasta plate fried peppers savory",
+          "image": "https://images.pexels.com/photos/29655572/pexels-photo-29655572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "friggitelli",
+        "pomodoro datterino",
+        "casarecce"
+      ],
+      "image": "https://www.giallozafferano.it/images/362-36234/Pasta-con-sugo-di-pomodoro-e-friggitelli_650x433_wm.jpg",
+      "savedAt": "2026-05-28T15:35:52.027Z",
+      "sourceId": "745ecb775c6df77e5dac6062e9a0cc85"
+    },
     {
       "schema_version": 2,
       "agent": "food",
