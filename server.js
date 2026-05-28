@@ -96,17 +96,24 @@ async function githubUpdateDataAgents(agent, slug, status, token) {
   const raw = Buffer.from(blobRes.body.content.replace(/\n/g, ''), 'base64').toString('utf8');
 
   // 3. Parse e aggiorna lo status
-  const match = raw.match(/^window\.AGENTS\s*=\s*([\s\S]*?);\s*$/);
-  if (!match) throw new Error('data-agents.js format unexpected');
-  const agents = JSON.parse(match[1]);
+  // Il file contiene window.AGENTS = {...};\nwindow.AGENT_CONFIGS = {...};
+  const prefix = 'window.AGENTS = ';
+  const prefixIdx = raw.indexOf(prefix);
+  if (prefixIdx === -1) throw new Error('data-agents.js format unexpected');
+  const jsonStart = prefixIdx + prefix.length;
+  const endMarker = raw.indexOf(';\nwindow.', jsonStart);
+  const jsonStr = endMarker !== -1 ? raw.slice(jsonStart, endMarker) : raw.slice(jsonStart).replace(/;\s*$/, '');
+  const suffix  = endMarker !== -1 ? raw.slice(endMarker) : ';';
+
+  const agents = JSON.parse(jsonStr);
   const list = agents[agent];
   if (list) {
     const art = list.find(a => a.slug === slug);
     if (art) art.status = status;
   }
 
-  // 4. PUT file aggiornato
-  const newRaw = `window.AGENTS = ${JSON.stringify(agents, null, 2)};\n`;
+  // 4. PUT file aggiornato (preserva window.AGENT_CONFIGS invariato)
+  const newRaw = `${prefix}${JSON.stringify(agents, null, 2)}${suffix}`;
   const newContent = Buffer.from(newRaw).toString('base64');
   const putRes = await ghRequest('PUT', '/contents/frontend/data-agents.js', {
     message: `auto: data-agents status ${status} ${slug}`,
