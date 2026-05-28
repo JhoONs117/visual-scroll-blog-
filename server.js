@@ -17,12 +17,12 @@ const GITHUB_OWNER = 'JhoONs117';
 const GITHUB_REPO  = 'visual-scroll-blog-';
 const GITHUB_DIR   = { 'ai-news': 'output', 'food': 'output/food', 'fitness': 'output/fitness' };
 
-function ghRequest(method, filePath, body, token) {
+function ghRequest(method, apiPath, body, token) {
   return new Promise((resolve, reject) => {
     const payload = body ? JSON.stringify(body) : null;
     const opts = {
       hostname: 'api.github.com',
-      path: `/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${filePath}`,
+      path: `/repos/${GITHUB_OWNER}/${GITHUB_REPO}${apiPath}`,
       method,
       headers: {
         'Authorization': `token ${token}`,
@@ -49,7 +49,7 @@ async function githubUpdateArticle(agent, slug, updateFn, token, commitMsg) {
   const dir = GITHUB_DIR[agent];
   if (!dir) throw new Error('Unknown agent');
 
-  const listRes = await ghRequest('GET', dir, null, token);
+  const listRes = await ghRequest('GET', `/contents/${dir}`, null, token);
   if (listRes.status !== 200) throw new Error(`List dir failed: ${listRes.status}`);
 
   const jsonFiles = Array.isArray(listRes.body)
@@ -66,7 +66,7 @@ async function githubUpdateArticle(agent, slug, updateFn, token, commitMsg) {
   }
   if (!bestFile) throw new Error('Article not found');
 
-  const fileRes = await ghRequest('GET', `${dir}/${bestFile.name}`, null, token);
+  const fileRes = await ghRequest('GET', `/contents/${dir}/${bestFile.name}`, null, token);
   if (fileRes.status !== 200) throw new Error(`Get file failed: ${fileRes.status}`);
 
   const sha     = fileRes.body.sha;
@@ -75,11 +75,47 @@ async function githubUpdateArticle(agent, slug, updateFn, token, commitMsg) {
   updateFn(article);
 
   const newContent = Buffer.from(JSON.stringify(article, null, 2) + '\n').toString('base64');
-  const putRes = await ghRequest('PUT', `${dir}/${bestFile.name}`, { message: commitMsg, content: newContent, sha }, token);
+  const putRes = await ghRequest('PUT', `/contents/${dir}/${bestFile.name}`, { message: commitMsg, content: newContent, sha }, token);
   if (putRes.status !== 200 && putRes.status !== 201) {
     throw new Error(`PUT failed: ${putRes.status} — ${JSON.stringify(putRes.body?.message || '')}`);
   }
   return article;
+}
+
+// Aggiorna lo status di uno slug direttamente in data-agents.js su GitHub
+// Usa Git Blobs API per leggere il file (>1MB, non leggibile via Contents API)
+async function githubUpdateDataAgents(agent, slug, status, token) {
+  // 1. Ottieni SHA del file via Contents API (non ritorna content per file >1MB)
+  const metaRes = await ghRequest('GET', '/contents/frontend/data-agents.js', null, token);
+  if (metaRes.status !== 200) throw new Error(`data-agents.js meta failed: ${metaRes.status}`);
+  const fileSha = metaRes.body.sha;
+
+  // 2. Leggi il content completo via Git Blobs API
+  const blobRes = await ghRequest('GET', `/git/blobs/${fileSha}`, null, token);
+  if (blobRes.status !== 200) throw new Error(`blob read failed: ${blobRes.status}`);
+  const raw = Buffer.from(blobRes.body.content.replace(/\n/g, ''), 'base64').toString('utf8');
+
+  // 3. Parse e aggiorna lo status
+  const match = raw.match(/^window\.AGENTS\s*=\s*([\s\S]*?);\s*$/);
+  if (!match) throw new Error('data-agents.js format unexpected');
+  const agents = JSON.parse(match[1]);
+  const list = agents[agent];
+  if (list) {
+    const art = list.find(a => a.slug === slug);
+    if (art) art.status = status;
+  }
+
+  // 4. PUT file aggiornato
+  const newRaw = `window.AGENTS = ${JSON.stringify(agents, null, 2)};\n`;
+  const newContent = Buffer.from(newRaw).toString('base64');
+  const putRes = await ghRequest('PUT', '/contents/frontend/data-agents.js', {
+    message: `auto: data-agents status ${status} ${slug}`,
+    content: newContent,
+    sha: fileSha,
+  }, token);
+  if (putRes.status !== 200 && putRes.status !== 201) {
+    throw new Error(`data-agents PUT failed: ${putRes.status}`);
+  }
 }
 
 const VALID_STATUSES = ['draft', 'approved', 'scheduled', 'published', 'failed'];
@@ -107,6 +143,8 @@ http.createServer((req, res) => {
         if (!token) { res.writeHead(500); res.end('GIT_TOKEN not set'); return; }
         // Commit atomico direttamente su GitHub — niente spawn, niente race condition
         await githubUpdateArticle(agent, slug, a => { a.status = status; }, token, `auto: ${status} ${slug}`);
+        // Aggiorna anche data-agents.js subito, così dopo il redeploy lo status è già corretto
+        githubUpdateDataAgents(agent, slug, status, token).catch(e => console.error('[data-agents update]', e.message));
         res.writeHead(200, { 'Content-Type': 'application/json' });
         res.end(JSON.stringify({ ok: true, slug, status }));
       } catch (e) {
