@@ -2785,7 +2785,7 @@ window.AGENTS = {
       "agent": "ai-news",
       "slug": "duckduckgo-installs-are-up-30-as-users-reject-bein",
       "prompt_version": "1.0.0",
-      "status": "published",
+      "status": "approved",
       "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
       "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
       "pubDate": "Tue, 26 May 2026 22:32:56 +0000",
