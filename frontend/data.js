@@ -50,6 +50,73 @@ window.ARTICLES = [
       },
       "instagram": {
         "caption": "Google ha appena scoperto che la sua AI sbaglia a scrivere \"Google\" 🧠.\n\nI modelli di linguaggio non sanno compitare perché non ragionano per lettere, ma per pezzi di parole chiamati token. Per loro, 'Google' è un codice logico, non una sequenza ortografica. Il risultato? Se possiedi un dominio o un brand con un nome proprio, nei tool di ricerca potresti essere invisibile o storpiato ✏️.\n\nChiedi a un LLM di scrivere qualsiasi parola a caso: vedrai che la coerenza è una bugia. Il tuo business online regge a questo test? 🔍"
+      },
+      "video": {
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 6,
+            "hook": "Google sbaglia a scrivere Google?",
+            "voiceover": "Ti sei chiesto perché Google non sa scrivere?",
+            "on_screen_text": "Google sbaglia a scrivere Google?",
+            "visual_direction": "Testo grande che appare con un effetto di zoom",
+            "caption": "Scopri la verità!",
+            "tone": "urgent",
+            "emphasis_word": "sbaglia",
+            "layout": "single"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "Non ha una mappa delle parole.",
+            "voiceover": "L'intelligenza artificiale non ha una mappa delle parole, solo token.",
+            "on_screen_text": "Solo token, niente mappe.",
+            "visual_direction": "Animazione di parole che si spezzano in token",
+            "caption": "La chiave per capire!",
+            "tone": "informative",
+            "emphasis_word": "token",
+            "layout": "single"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 5,
+            "hook": "Non processa lettere singole.",
+            "voiceover": "Spezza tutto in pezzi, non elabora lettere.",
+            "on_screen_text": "Spezza in pezzi!",
+            "visual_direction": "Effetto di spezzettamento del testo",
+            "caption": "Scopri il processo!",
+            "tone": "informative",
+            "emphasis_word": "pezzi",
+            "layout": "single"
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Il tuo brand è un codice rotto.",
+            "voiceover": "Per l'IA, il tuo brand è solo un codice rotto.",
+            "on_screen_text": "Codice rotto!",
+            "visual_direction": "Testo che si frantuma e ricompone",
+            "caption": "Scopri come funziona!",
+            "tone": "urgent",
+            "emphasis_word": "rotto",
+            "layout": "single"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 6,
+            "hook": "Testalo subito!",
+            "voiceover": "Chiedigli di scrivere qualcosa, vedrai!",
+            "on_screen_text": "Chiedigli di scrivere!",
+            "visual_direction": "Testo che scorre rapidamente",
+            "caption": "Prova ora!",
+            "tone": "urgent",
+            "emphasis_word": "scrivere",
+            "layout": "single"
+          }
+        ],
+        "quality_score": 85,
+        "duration_sec": 29,
+        "cta": "Scopri di più sul nostro canale!"
       }
     },
     "instagram_caption": "Google ha appena scoperto che la sua AI sbaglia a scrivere \"Google\" 🧠.\n\nI modelli di linguaggio non sanno compitare perché non ragionano per lettere, ma per pezzi di parole chiamati token. Per loro, 'Google' è un codice logico, non una sequenza ortografica. Il risultato? Se possiedi un dominio o un brand con un nome proprio, nei tool di ricerca potresti essere invisibile o storpiato ✏️.\n\nChiedi a un LLM di scrivere qualsiasi parola a caso: vedrai che la coerenza è una bugia. Il tuo business online regge a questo test? 🔍",
@@ -101,7 +168,9 @@ window.ARTICLES = [
     ],
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-two-ps.jpg?resize=1200,675",
     "savedAt": "2026-05-28T02:16:20.212Z",
-    "sourceId": "efa51fc32d2a660331a872881d5fa01a"
+    "sourceId": "efa51fc32d2a660331a872881d5fa01a",
+    "render_template": "kinetic_typography",
+    "render_quality": "low"
   },
   {
     "schema_version": 2,
