@@ -816,7 +816,7 @@ Il progetto usa tre variabili. Ognuna deve essere impostata nei posti giusti —
 |---|---|---|---|---|
 | `DEEPSEEK_API_KEY` | Chiave API per generare slide, thread, script | ✅ | ✅ | ✅ |
 | `PEXELS_API_KEY` | Chiave API per immagini carousel + video clip | ✅ | ✅ ⚠️ | ✅ |
-| `OPENAI_API_KEY` | TTS per voiceover video (tts-1, alloy) | ✅ | — | — |
+| `OPENAI_API_KEY` | TTS voiceover video (locale) + generazione piano on-demand (Railway) | ✅ | — | ✅ |
 | `GIT_TOKEN` | Auto git push dopo approvazione da UI | ✅ | — | ✅ |
 | `GENERATE_FORMATS` | Attiva generazione thread X e script video | ✅ (`=true`) | — | — |
 | `TIKTOK_CLIENT_KEY` | Client key app TikTok sandbox | ✅ | — | — |
@@ -1327,74 +1327,31 @@ Oppure manualmente:
 
 ---
 
-## 30. Come generare video V2 (pipeline slide-deck)
+## 30. Come generare video V2
 
-Il sistema V2 genera video verticali 9:16 (1080×1920) usando le slide del carousel come base, animate con zoom/pan e voiceover TTS. I piani video (5 scene) vengono generati automaticamente dal CI ogni 2 ore.
+Il sistema V2 genera video verticali 9:16 (1080×1920) con 13 template disponibili. La generazione del piano video è **completamente manuale** — non avviene più automaticamente dalla CI.
 
-### Prerequisiti per generare il piano video
-
-1. Articolo con `status: approved` — fatto da `review.html` o `carousel.html`
-2. `formats.video.scenes` vuoto — CI genera il piano automaticamente al prossimo run
-
-> **Nota (2026-05-27):** non è più necessario impostare `render_quality` manualmente.
-> Il CI genera il piano per **tutti** gli articoli approvati senza scenes, impostando
-> `render_quality = 'low'` come default se mancante.
-
-### Flusso giornaliero
+### Flusso completo
 
 **Nel browser (`carousel.html?agent=ai-news` su Railway):**
-1. Trova l'articolo
-2. Clicca **Approva** — viene pushato su git automaticamente
-3. Seleziona il template dal dropdown **Video Template** — viene pushato su git automaticamente
-4. Clicca **💾 Salva per video** — aspetta "✅ 5 slide salvate" *(solo per template Slideshow)*
-   - Il browser scarica `slide0.png`…`slide4.png` automaticamente (atterrano in `/home/miki/visual-scroll-blog/`)
-   - ⚠️ **Salva per video** appare solo per il template **Slideshow** (`slide_deck`) — gli altri template non richiedono PNG
+1. Trova l'articolo e clicca **Approva**
+2. Seleziona il template dal dropdown **Video Template**
+3. Clicca **🎬 Genera piano** — GPT-4o-mini genera le 5 scene per il template scelto (~5-10s)
+   - Il piano viene salvato in git e in `data-agents.js` automaticamente via GitHub API
+   - Se cambi template, reclicca "Genera piano" per rigenerare con il nuovo template
+4. *(solo Slideshow)* Clicca **💾 Salva per video** — scarica `slide0.png`…`slide4.png` in `/home/miki/visual-scroll-blog/`
+5. Clicca **⬇ Esporta piano** — scarica `video-plan-<slug>.json`
 
-**Nel terminale (DUE COMANDI):**
+**Nel terminale WSL (render locale):**
 ```bash
-# 1. Sincronizza le modifiche di Railway (approved + quality)
+# Sincronizza il piano generato dal carousel
 git pull
 
-# 2. Genera il piano video per tutti gli articoli pending (approved + quality + senza scenes)
-node video/generate-video-plan.js --agent ai-news --ci
-
-# 3. Importa PNG, renderizza, build, commit, push — tutto automatico
+# Renderizza tutti gli articoli con piano pronto
 node video/render-pending.js
 ```
 
-`render-pending.js` fa tutto in automatico:
-- Importa le PNG da `/home/miki/visual-scroll-blog/slide*.png` nella cartella corretta
-- Renderizza tutti gli articoli pronti (approved + quality + scenes + PNG)
-- Esegue `build-data-agents.js`
-- Committa e pusha su git
-- Railway rideploya in ~1 min → player video appare su `carousel.html`
-
-### Se generate-video-plan --ci non trova articoli dopo git pull
-
-Railway a volte non riesce a pushare le modifiche (approved + quality) quando il CI gira in contemporanea. In quel caso `git pull` non porta nulla di nuovo.
-
-**Workaround — imposta direttamente in locale:**
-```bash
-# Trova il file (ls output/ | grep parola-del-titolo)
-node -e "
-const fs = require('fs');
-const f = 'output/<timestamp>_<slug>.json';
-const a = JSON.parse(fs.readFileSync(f));
-a.status = 'approved';
-a.render_quality = 'low';
-a.render_template = 'slide_deck';
-if (!a.render_status) a.render_status = {};
-fs.writeFileSync(f, JSON.stringify(a, null, 2));
-console.log('ok');
-"
-```
-Poi rilancia `generate-video-plan.js --ci` e `render-pending.js`.
-
-### Generare il piano per un singolo articolo (con slug specifico)
-
-```bash
-node video/generate-video-plan.js --agent ai-news --slug <slug>
-```
+`render-pending.js` importa PNG, renderizza, esegue `build-data-agents.js`, committa e pusha.
 
 ### Renderizzare un singolo articolo
 

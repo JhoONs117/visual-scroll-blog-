@@ -58,7 +58,7 @@ Docs archiviati in `archive/docs/`: FOOD-AGENT.md · REFACTOR-PLAN.md · CONTEXT
 | **FASE 16K — wireframe_3d** | ✅ Completa | perspective projection Node.js, 6 shape, neon glow |
 | **FASE 16L — anatomy_motion** | ✅ Completa (2026-05-26) | Blender EEVEE headless + BodyParts3D (54 OBJ, CC BY 4.0) + emissive glow + TTS. `defaultVideoTemplate` fitness. Video squat explainer funzionante. |
 | **Separazione render video** | ✅ Completa (2026-05-27) | Render 100% locale, non tracciato in git. `review.html`: riga video-plan con badge template + "⬇ Esporta piano" (client-side JSON download). Template Cat 3 (Blender) rimangono solo locali. |
-| **Fix generate-video-plan** | ✅ Completa (2026-05-27) | Rimosso filtro `render_quality` — genera piani per tutti gli `approved` automaticamente. `render_quality` default `'low'` se mancante. Backfill esistenti al prossimo run CI. |
+| **Generazione piano video on-demand** | ✅ Completa (2026-05-28) | Bottone "🎬 Genera piano" in `carousel.html` → `POST /api/generate-video-plan` → GPT-4o-mini con prompt del template selezionato → salva scenes in git + data-agents.js via GitHub API. La CI non genera più piani automaticamente. `OPENAI_API_KEY` service variable su Railway. |
 | **FASE 16M — product_xray** | 📋 Da implementare | — |
 | **FASE 16N — lowpoly_3d** | 📋 Da implementare | — |
 | **Refactor FASE 12 — Automazione publish** | 🔒 Bloccata | Instagram: account ristretto da Meta (impossibile creare App developer). TikTok sandbox ✅. X API Free non permette POST. |
@@ -181,7 +181,6 @@ ogni 2 ore
   └── GitHub Actions esegue scripts/build-data-agents.js
         └── legge output/ + output/food/ + output/fitness/ → scrive frontend/data-agents.js
               └── window.AGENTS = {'ai-news':[...], 'food':[...], 'fitness':[...]}
-  └── GitHub Actions genera piani video (ai-news, food, fitness) via video/generate-video-plan.js --ci
   └── git commit + push
         └── Railway autodeploy (~1 min)
               └── sito aggiornato online (tutti gli agenti via data-agents.js)
@@ -197,6 +196,7 @@ ogni 2 ore
 - **Food gate looksLikeRecipe**: evita chiamate API su contenuti non ricetta — azzerato il costo su articoli magazine nel feed
 - **Backfill selettivo AI news**: `node backfill-carousel.js --force --last N` per aggiornare gli N più recenti
 - **Token GitHub**: serve scope `repo` per GitHub Contents API (commit atomico da server) + scope `workflow` per pushare `.github/workflows/`. Token configurato come service variable `GIT_TOKEN` su Railway.
+- **OPENAI_API_KEY**: necessaria su Railway (service variable) per la generazione piano video on-demand. In CI non più usata (piani non generati automaticamente).
 - **Railway deploy**: ~1 minuto grazie a `.railwayignore` che esclude `output/`, `output/food/` e `output/fitness/`
 - **Nota crescita**: quando `data-agents.js` pesa sul browser, aggiungere `.slice(-50)` per agente in `build-data-agents.js` prima di scrivere il file
 - **Proxy immagini food**: `server.js` espone `/proxy-image?url=...` — necessario localmente per scaricare PNG food (Giallozafferano non ha CORS headers). In produzione Railway lo serve automaticamente.
