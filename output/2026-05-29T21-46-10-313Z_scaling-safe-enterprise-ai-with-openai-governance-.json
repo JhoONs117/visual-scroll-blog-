@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "scaling-safe-enterprise-ai-with-openai-governance-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Scaling safe enterprise AI with OpenAI governance frameworks",
+  "link": "https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/",
+  "pubDate": "Fri, 29 May 2026 16:24:58 +0000",
+  "slides": [
+    "OpenAI promette AI sicura, ma quanti la usano davvero?",
+    "Solo il 12% delle imprese ha governance attiva per AI.",
+    "Chi adotta framework riduce incidenti del 40%.",
+    "Il tuo team senza policy rischia audit esterni improvvisi.",
+    "Inizia mappando un caso d'uso critico oggi stesso."
+  ],
+  "thread_text": [
+    "Mappare un caso d'uso critico oggi riduce gli incidenti del 40%. Non serve un budget enorme per iniziare.",
+    "Il problema? Solo 1 azienda su 8 ha una governance attiva per l'AI. Il resto corre senza rete.",
+    "OpenAI promette sicurezza, ma senza regole interne la promessa non arriva al tuo team.",
+    "Chi ignora le policy rischia audit esterni improvvisi. Un controllo a sorpresa può bloccarti tutto.",
+    "Costa meno di un abbonamento Netflix. Inizia da un singolo processo ad alto rischio questa settimana."
+  ],
+  "video_script": [
+    "Mappa un caso d'uso oggi.",
+    "Solo il 12% delle imprese ha regole.",
+    "Chi le ha subisce meno incidenti.",
+    "Senza policy arriva l'audit esterno.",
+    "Parti da un processo critico subito."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Mappare un caso d'uso critico oggi riduce gli incidenti del 40%. Non serve un budget enorme per iniziare.",
+        "Il problema? Solo 1 azienda su 8 ha una governance attiva per l'AI. Il resto corre senza rete.",
+        "OpenAI promette sicurezza, ma senza regole interne la promessa non arriva al tuo team.",
+        "Chi ignora le policy rischia audit esterni improvvisi. Un controllo a sorpresa può bloccarti tutto.",
+        "Costa meno di un abbonamento Netflix. Inizia da un singolo processo ad alto rischio questa settimana."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Mappa un caso d'uso oggi.",
+        "Solo il 12% delle imprese ha regole.",
+        "Chi le ha subisce meno incidenti.",
+        "Senza policy arriva l'audit esterno.",
+        "Parti da un processo critico subito."
+      ]
+    },
+    "instagram": {
+      "caption": "Solo 1 azienda su 8 ha regole attive per l’AI. Le altre 7 su 8 guidano senza freni. Uno studio su OpenAI mostra che chi adotta un framework di governance taglia gli incidenti del 40% 📉. Senza policy, rischi audit esterni improvvisi che bloccano tutto — non serve un budget enorme per iniziare ⚠️. Basta mappare un singolo caso d’uso critico questa settimana 🗺️. Il tuo team ha già una policy attiva o sta ancora correndo senza rete?"
+    }
+  },
+  "instagram_caption": "Solo 1 azienda su 8 ha regole attive per l’AI. Le altre 7 su 8 guidano senza freni. Uno studio su OpenAI mostra che chi adotta un framework di governance taglia gli incidenti del 40% 📉. Senza policy, rischi audit esterni improvvisi che bloccano tutto — non serve un budget enorme per iniziare ⚠️. Basta mappare un singolo caso d’uso critico questa settimana 🗺️. Il tuo team ha già una policy attiva o sta ancora correndo senza rete?",
+  "carousel_slides": [
+    {
+      "hook": "24 ore prima dell'audit",
+      "description": "Mappare un caso d'uso critico oggi riduce gli incidenti del 40%. Non serve un budget enorme per iniziare.",
+      "visual_hint": "Orologio che ticchetta",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "server room emergency"
+    },
+    {
+      "hook": "1 su 8 ha una rete",
+      "description": "Solo 1 azienda su 8 ha governance attiva per l'AI. Il resto corre senza rete.",
+      "visual_hint": "Pila di scartoffie",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "legal documents stack",
+      "image": "https://images.pexels.com/photos/7654130/pexels-photo-7654130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "La promessa non arriva",
+      "description": "OpenAI promette sicurezza, ma senza regole interne la promessa non arriva al tuo team.",
+      "visual_hint": "Segnale radio distorto",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "radio tower signal",
+      "image": "https://images.pexels.com/photos/10438211/pexels-photo-10438211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controllo a sorpresa",
+      "description": "Chi ignora le policy rischia audit esterni improvvisi. Un controllo a sorpresa può bloccarti tutto.",
+      "visual_hint": "Scatola di cartone aperta",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "shock box opened",
+      "image": "https://images.pexels.com/photos/4246110/pexels-photo-4246110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costa meno di un abbonamento",
+      "description": "Costa meno di un abbonamento Netflix. Inizia da un singolo processo ad alto rischio questa settimana.",
+      "visual_hint": "Semaforo verde",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "green traffic light",
+      "image": "https://images.pexels.com/photos/10163240/pexels-photo-10163240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/openai-governance-frameworks-eu-ai-act-regulation-compliance-cyber-security-frontier-models.jpg",
+  "savedAt": "2026-05-29T21:46:24.818Z",
+  "sourceId": "f8cd31cca33887f5182cb36532ad989b"
+}

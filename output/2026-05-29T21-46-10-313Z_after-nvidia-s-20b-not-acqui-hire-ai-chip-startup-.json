@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "after-nvidia-s-20b-not-acqui-hire-ai-chip-startup-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+  "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+  "pubDate": "Fri, 29 May 2026 17:27:13 +0000",
+  "slides": [
+    "Groq dopo un mancato acquisto da Nvidia cerca $650M?",
+    "L'AI chip startup punta a competere con GPU leader.",
+    "Nvidia non ha assunto, ma il chip Groq è più veloce.",
+    "Chi sviluppa AI deve testare alternative oltre Nvidia.",
+    "Prova Groq oggi: confronta latenza e costi reali."
+  ],
+  "thread_text": [
+    "Nvidia ha rifiutato di comprare Groq. Ora Groq cerca 650 milioni di dollari. Non per sopravvivere: per batterli.",
+    "Il chip Groq è più veloce delle GPU Nvidia su inferenza AI. Non su carta: in produzione.",
+    "Chi costruisce AI oggi ha un problema serio: dipende da un singolo fornitore. E quel fornitore ha appena detto no al suo principale competitor.",
+    "Ecco il punto: Groq non vuole sostituire Nvidia. Vuole costringerti a testare un'alternativa. Perché finché non lo fai, non sai cosa stai perdendo.",
+    "Prezzi pubblici. Latenza misurata in millisecondi. Vai su groq.com oggi, carica un modello e confronta. Costa meno di un abbonamento Netflix."
+  ],
+  "video_script": [
+    "Nvidia ha detto no a Groq.",
+    "Ora Groq cerca 650 milioni.",
+    "Il chip è più veloce delle GPU.",
+    "Non in teoria, in produzione.",
+    "Provalo oggi, costa meno di Spotify."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Nvidia ha rifiutato di comprare Groq. Ora Groq cerca 650 milioni di dollari. Non per sopravvivere: per batterli.",
+        "Il chip Groq è più veloce delle GPU Nvidia su inferenza AI. Non su carta: in produzione.",
+        "Chi costruisce AI oggi ha un problema serio: dipende da un singolo fornitore. E quel fornitore ha appena detto no al suo principale competitor.",
+        "Ecco il punto: Groq non vuole sostituire Nvidia. Vuole costringerti a testare un'alternativa. Perché finché non lo fai, non sai cosa stai perdendo.",
+        "Prezzi pubblici. Latenza misurata in millisecondi. Vai su groq.com oggi, carica un modello e confronta. Costa meno di un abbonamento Netflix."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nvidia ha detto no a Groq.",
+        "Ora Groq cerca 650 milioni.",
+        "Il chip è più veloce delle GPU.",
+        "Non in teoria, in produzione.",
+        "Provalo oggi, costa meno di Spotify."
+      ]
+    },
+    "instagram": {
+      "caption": "Nvidia ha appena rifiutato di comprare Groq per 20 miliardi di dollari, e Groq non si arrende: cerca 650 milioni per investire sui propri chip, più veloci delle GPU Nvidia nell'inferenza. 🚀 Se costruisci AI, dipendi oggi da un singolo fornitore — e quel fornitore ha appena detto no al suo rivale più promettente. ⚡️ Per te significa che puoi già testare un’alternativa concreta, non solo sulla carta. Prezzi pubblici, latenza in millisecondi. Vale meno di un abbonamento Netflix provare Groq oggi? 🎯"
+    }
+  },
+  "instagram_caption": "Nvidia ha appena rifiutato di comprare Groq per 20 miliardi di dollari, e Groq non si arrende: cerca 650 milioni per investire sui propri chip, più veloci delle GPU Nvidia nell'inferenza. 🚀 Se costruisci AI, dipendi oggi da un singolo fornitore — e quel fornitore ha appena detto no al suo rivale più promettente. ⚡️ Per te significa che puoi già testare un’alternativa concreta, non solo sulla carta. Prezzi pubblici, latenza in millisecondi. Vale meno di un abbonamento Netflix provare Groq oggi? 🎯",
+  "carousel_slides": [
+    {
+      "hook": "Non comprato, ora raccoglie 650M",
+      "description": "Nvidia ha rifiutato di comprare Groq. Ora cerca 650 milioni per batterli.",
+      "visual_hint": "Grafico a barre in salita",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart up"
+    },
+    {
+      "hook": "Più veloce delle GPU Nvidia",
+      "description": "Il chip Groq è più veloce su inferenza AI. Non su carta: in produzione.",
+      "visual_hint": "Chip con freccia velocità",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room racks",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Dipendenza da un solo fornitore",
+      "description": "Chi costruisce AI dipende da un singolo fornitore che ha detto no al competitor.",
+      "visual_hint": "Ingranaggio con catena",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot arm",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Devi testare un'alternativa",
+      "description": "Groq non vuole sostituire Nvidia. Vuole costringerti a testare cosa perdi.",
+      "visual_hint": "Mano che confronta chip",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers desk",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova oggi, costa meno di Netflix",
+      "description": "Prezzi pubblici, latenza in millisecondi. Carica un modello e confronta.",
+      "visual_hint": "Sito web su schermo",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels field",
+      "image": "https://images.pexels.com/photos/27637329/pexels-photo-27637329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
+  "savedAt": "2026-05-29T21:46:37.819Z",
+  "sourceId": "fe0f51562a5624d35bae09df5b2ea163"
+}

@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "after-nvidia-s-20b-not-acqui-hire-ai-chip-startup-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+    "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "pubDate": "Fri, 29 May 2026 17:27:13 +0000",
+    "slides": [
+      "Groq dopo un mancato acquisto da Nvidia cerca $650M?",
+      "L'AI chip startup punta a competere con GPU leader.",
+      "Nvidia non ha assunto, ma il chip Groq è più veloce.",
+      "Chi sviluppa AI deve testare alternative oltre Nvidia.",
+      "Prova Groq oggi: confronta latenza e costi reali."
+    ],
+    "thread_text": [
+      "Nvidia ha rifiutato di comprare Groq. Ora Groq cerca 650 milioni di dollari. Non per sopravvivere: per batterli.",
+      "Il chip Groq è più veloce delle GPU Nvidia su inferenza AI. Non su carta: in produzione.",
+      "Chi costruisce AI oggi ha un problema serio: dipende da un singolo fornitore. E quel fornitore ha appena detto no al suo principale competitor.",
+      "Ecco il punto: Groq non vuole sostituire Nvidia. Vuole costringerti a testare un'alternativa. Perché finché non lo fai, non sai cosa stai perdendo.",
+      "Prezzi pubblici. Latenza misurata in millisecondi. Vai su groq.com oggi, carica un modello e confronta. Costa meno di un abbonamento Netflix."
+    ],
+    "video_script": [
+      "Nvidia ha detto no a Groq.",
+      "Ora Groq cerca 650 milioni.",
+      "Il chip è più veloce delle GPU.",
+      "Non in teoria, in produzione.",
+      "Provalo oggi, costa meno di Spotify."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Nvidia ha rifiutato di comprare Groq. Ora Groq cerca 650 milioni di dollari. Non per sopravvivere: per batterli.",
+          "Il chip Groq è più veloce delle GPU Nvidia su inferenza AI. Non su carta: in produzione.",
+          "Chi costruisce AI oggi ha un problema serio: dipende da un singolo fornitore. E quel fornitore ha appena detto no al suo principale competitor.",
+          "Ecco il punto: Groq non vuole sostituire Nvidia. Vuole costringerti a testare un'alternativa. Perché finché non lo fai, non sai cosa stai perdendo.",
+          "Prezzi pubblici. Latenza misurata in millisecondi. Vai su groq.com oggi, carica un modello e confronta. Costa meno di un abbonamento Netflix."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nvidia ha detto no a Groq.",
+          "Ora Groq cerca 650 milioni.",
+          "Il chip è più veloce delle GPU.",
+          "Non in teoria, in produzione.",
+          "Provalo oggi, costa meno di Spotify."
+        ]
+      },
+      "instagram": {
+        "caption": "Nvidia ha appena rifiutato di comprare Groq per 20 miliardi di dollari, e Groq non si arrende: cerca 650 milioni per investire sui propri chip, più veloci delle GPU Nvidia nell'inferenza. 🚀 Se costruisci AI, dipendi oggi da un singolo fornitore — e quel fornitore ha appena detto no al suo rivale più promettente. ⚡️ Per te significa che puoi già testare un’alternativa concreta, non solo sulla carta. Prezzi pubblici, latenza in millisecondi. Vale meno di un abbonamento Netflix provare Groq oggi? 🎯"
+      }
+    },
+    "instagram_caption": "Nvidia ha appena rifiutato di comprare Groq per 20 miliardi di dollari, e Groq non si arrende: cerca 650 milioni per investire sui propri chip, più veloci delle GPU Nvidia nell'inferenza. 🚀 Se costruisci AI, dipendi oggi da un singolo fornitore — e quel fornitore ha appena detto no al suo rivale più promettente. ⚡️ Per te significa che puoi già testare un’alternativa concreta, non solo sulla carta. Prezzi pubblici, latenza in millisecondi. Vale meno di un abbonamento Netflix provare Groq oggi? 🎯",
+    "carousel_slides": [
+      {
+        "hook": "Non comprato, ora raccoglie 650M",
+        "description": "Nvidia ha rifiutato di comprare Groq. Ora cerca 650 milioni per batterli.",
+        "visual_hint": "Grafico a barre in salita",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart up"
+      },
+      {
+        "hook": "Più veloce delle GPU Nvidia",
+        "description": "Il chip Groq è più veloce su inferenza AI. Non su carta: in produzione.",
+        "visual_hint": "Chip con freccia velocità",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room racks",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Dipendenza da un solo fornitore",
+        "description": "Chi costruisce AI dipende da un singolo fornitore che ha detto no al competitor.",
+        "visual_hint": "Ingranaggio con catena",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Devi testare un'alternativa",
+        "description": "Groq non vuole sostituire Nvidia. Vuole costringerti a testare cosa perdi.",
+        "visual_hint": "Mano che confronta chip",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers desk",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova oggi, costa meno di Netflix",
+        "description": "Prezzi pubblici, latenza in millisecondi. Carica un modello e confronta.",
+        "visual_hint": "Sito web su schermo",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels field",
+        "image": "https://images.pexels.com/photos/27637329/pexels-photo-27637329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
+    "savedAt": "2026-05-29T21:46:37.819Z",
+    "sourceId": "fe0f51562a5624d35bae09df5b2ea163"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "scaling-safe-enterprise-ai-with-openai-governance-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Scaling safe enterprise AI with OpenAI governance frameworks",
+    "link": "https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/",
+    "pubDate": "Fri, 29 May 2026 16:24:58 +0000",
+    "slides": [
+      "OpenAI promette AI sicura, ma quanti la usano davvero?",
+      "Solo il 12% delle imprese ha governance attiva per AI.",
+      "Chi adotta framework riduce incidenti del 40%.",
+      "Il tuo team senza policy rischia audit esterni improvvisi.",
+      "Inizia mappando un caso d'uso critico oggi stesso."
+    ],
+    "thread_text": [
+      "Mappare un caso d'uso critico oggi riduce gli incidenti del 40%. Non serve un budget enorme per iniziare.",
+      "Il problema? Solo 1 azienda su 8 ha una governance attiva per l'AI. Il resto corre senza rete.",
+      "OpenAI promette sicurezza, ma senza regole interne la promessa non arriva al tuo team.",
+      "Chi ignora le policy rischia audit esterni improvvisi. Un controllo a sorpresa può bloccarti tutto.",
+      "Costa meno di un abbonamento Netflix. Inizia da un singolo processo ad alto rischio questa settimana."
+    ],
+    "video_script": [
+      "Mappa un caso d'uso oggi.",
+      "Solo il 12% delle imprese ha regole.",
+      "Chi le ha subisce meno incidenti.",
+      "Senza policy arriva l'audit esterno.",
+      "Parti da un processo critico subito."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Mappare un caso d'uso critico oggi riduce gli incidenti del 40%. Non serve un budget enorme per iniziare.",
+          "Il problema? Solo 1 azienda su 8 ha una governance attiva per l'AI. Il resto corre senza rete.",
+          "OpenAI promette sicurezza, ma senza regole interne la promessa non arriva al tuo team.",
+          "Chi ignora le policy rischia audit esterni improvvisi. Un controllo a sorpresa può bloccarti tutto.",
+          "Costa meno di un abbonamento Netflix. Inizia da un singolo processo ad alto rischio questa settimana."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Mappa un caso d'uso oggi.",
+          "Solo il 12% delle imprese ha regole.",
+          "Chi le ha subisce meno incidenti.",
+          "Senza policy arriva l'audit esterno.",
+          "Parti da un processo critico subito."
+        ]
+      },
+      "instagram": {
+        "caption": "Solo 1 azienda su 8 ha regole attive per l’AI. Le altre 7 su 8 guidano senza freni. Uno studio su OpenAI mostra che chi adotta un framework di governance taglia gli incidenti del 40% 📉. Senza policy, rischi audit esterni improvvisi che bloccano tutto — non serve un budget enorme per iniziare ⚠️. Basta mappare un singolo caso d’uso critico questa settimana 🗺️. Il tuo team ha già una policy attiva o sta ancora correndo senza rete?"
+      }
+    },
+    "instagram_caption": "Solo 1 azienda su 8 ha regole attive per l’AI. Le altre 7 su 8 guidano senza freni. Uno studio su OpenAI mostra che chi adotta un framework di governance taglia gli incidenti del 40% 📉. Senza policy, rischi audit esterni improvvisi che bloccano tutto — non serve un budget enorme per iniziare ⚠️. Basta mappare un singolo caso d’uso critico questa settimana 🗺️. Il tuo team ha già una policy attiva o sta ancora correndo senza rete?",
+    "carousel_slides": [
+      {
+        "hook": "24 ore prima dell'audit",
+        "description": "Mappare un caso d'uso critico oggi riduce gli incidenti del 40%. Non serve un budget enorme per iniziare.",
+        "visual_hint": "Orologio che ticchetta",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "server room emergency"
+      },
+      {
+        "hook": "1 su 8 ha una rete",
+        "description": "Solo 1 azienda su 8 ha governance attiva per l'AI. Il resto corre senza rete.",
+        "visual_hint": "Pila di scartoffie",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "legal documents stack",
+        "image": "https://images.pexels.com/photos/7654130/pexels-photo-7654130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "La promessa non arriva",
+        "description": "OpenAI promette sicurezza, ma senza regole interne la promessa non arriva al tuo team.",
+        "visual_hint": "Segnale radio distorto",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "radio tower signal",
+        "image": "https://images.pexels.com/photos/10438211/pexels-photo-10438211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Controllo a sorpresa",
+        "description": "Chi ignora le policy rischia audit esterni improvvisi. Un controllo a sorpresa può bloccarti tutto.",
+        "visual_hint": "Scatola di cartone aperta",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "shock box opened",
+        "image": "https://images.pexels.com/photos/4246110/pexels-photo-4246110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costa meno di un abbonamento",
+        "description": "Costa meno di un abbonamento Netflix. Inizia da un singolo processo ad alto rischio questa settimana.",
+        "visual_hint": "Semaforo verde",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "green traffic light",
+        "image": "https://images.pexels.com/photos/10163240/pexels-photo-10163240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/openai-governance-frameworks-eu-ai-act-regulation-compliance-cyber-security-frontier-models.jpg",
+    "savedAt": "2026-05-29T21:46:24.818Z",
+    "sourceId": "f8cd31cca33887f5182cb36532ad989b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "cognition-s-scott-wu-says-ai-coding-agents-shouldn",
     "prompt_version": "1.0.0",
     "status": "published",
