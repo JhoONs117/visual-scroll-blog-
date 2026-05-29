@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "this-chip-startup-just-raised-135m-on-a-bet-that-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+    "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+    "pubDate": "Fri, 29 May 2026 12:00:00 +0000",
+    "slides": [
+      "135 milioni per un chip che non calcola?",
+      "Raccoglie dati dalla memoria 1000x più veloce.",
+      "Il collo di bottiglia dell'IA non è la GPU, è la RAM.",
+      "Addestri modelli più grandi senza aspettare settimane.",
+      "Leggi come hanno superato il limite di banda."
+    ],
+    "thread_text": [
+      "Il collo di bottiglia dell’intelligenza artificiale non è la potenza di calcolo. È la RAM.",
+      "Hai presente quando la GPU lavora al massimo ma il modello si blocca? Il problema è il trasferimento dei dati tra chip.",
+      "Un team ha inventato un chip da 135 milioni di dollari che non calcola nulla. Si limita a spostare dati dalla memoria 1000x più veloce.",
+      "Risultato: puoi addestrare modelli enormi senza aspettare settimane. La latenza memoria diventa irrilevante.",
+      "Banda risolta: hanno superato il limite con un’architettura che collega direttamente memoria e processore. Vuoi il paper? Cercalo su ArXiv. Si chiama 'processing-in-memory'."
+    ],
+    "video_script": [
+      "Il problema dell’IA non è la GPU. È la RAM.",
+      "La GPU aspetta i dati e rallenta tutto.",
+      "Hanno creato un chip che sposta dati mille volte più veloce.",
+      "Addestri modelli enormi in giorni, non settimane.",
+      "Costa 135 milioni e non calcola nulla."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Il collo di bottiglia dell’intelligenza artificiale non è la potenza di calcolo. È la RAM.",
+          "Hai presente quando la GPU lavora al massimo ma il modello si blocca? Il problema è il trasferimento dei dati tra chip.",
+          "Un team ha inventato un chip da 135 milioni di dollari che non calcola nulla. Si limita a spostare dati dalla memoria 1000x più veloce.",
+          "Risultato: puoi addestrare modelli enormi senza aspettare settimane. La latenza memoria diventa irrilevante.",
+          "Banda risolta: hanno superato il limite con un’architettura che collega direttamente memoria e processore. Vuoi il paper? Cercalo su ArXiv. Si chiama 'processing-in-memory'."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Il problema dell’IA non è la GPU. È la RAM.",
+          "La GPU aspetta i dati e rallenta tutto.",
+          "Hanno creato un chip che sposta dati mille volte più veloce.",
+          "Addestri modelli enormi in giorni, non settimane.",
+          "Costa 135 milioni e non calcola nulla."
+        ]
+      },
+      "instagram": {
+        "caption": "135 milioni di dollari per un chip che non fa calcoli. Una startup ha risolto il vero collo di bottiglia dell'intelligenza artificiale: la memoria, non la potenza di calcolo. Il loro chip sposta i dati 1000 volte più velocemente 🚀, saltando il collo di gola del trasferimento tra chip e RAM. Risultato: addestri modelli enormi in giorni, non settimane. Per chi lavora con l'AI, meno attesa significa più possibilità di iterare e scoprire. Tu sai quanto peso per la RAM nei tuoi esperimenti? 💡"
+      }
+    },
+    "instagram_caption": "135 milioni di dollari per un chip che non fa calcoli. Una startup ha risolto il vero collo di bottiglia dell'intelligenza artificiale: la memoria, non la potenza di calcolo. Il loro chip sposta i dati 1000 volte più velocemente 🚀, saltando il collo di gola del trasferimento tra chip e RAM. Risultato: addestri modelli enormi in giorni, non settimane. Per chi lavora con l'AI, meno attesa significa più possibilità di iterare e scoprire. Tu sai quanto peso per la RAM nei tuoi esperimenti? 💡",
+    "carousel_slides": [
+      {
+        "hook": "Il vero collo di bottiglia non è il calcolo",
+        "description": "Non è la potenza di calcolo, è la RAM. Il trasferimento dati blocca la GPU.",
+        "visual_hint": "GPU bloccata da imbuto memoria",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room cables"
+      },
+      {
+        "hook": "Chip da 135M che non calcola",
+        "description": "Un team ha creato un chip che sposta dati dalla memoria 1000x più veloce.",
+        "visual_hint": "Chip senza ventole, solo connessioni memoria",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "silicon wafer closeup",
+        "image": "https://images.pexels.com/photos/8108719/pexels-photo-8108719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Latenza memoria diventa irrilevante",
+        "description": "Addestri modelli enormi senza aspettare settimane. La latenza scompare.",
+        "visual_hint": "Grafico latenza memoria che crolla a zero",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Hanno superato il limite di banda",
+        "description": "Architettura che collega direttamente memoria e processore, risolvendo il collo di bottiglia.",
+        "visual_hint": "Freccia che collega memoria direttamente a processore",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Vuoi il paper? Cercalo su ArXiv",
+        "description": "Cerca 'processing-in-memory' su ArXiv per i dettagli tecnici della innovazione.",
+        "visual_hint": "Schermo con ArXiv e paper evidenziato",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop screen code",
+        "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/MX1P_CSB_REV20_-2_black.jpg?resize=1200,750",
+    "savedAt": "2026-05-29T14:43:54.480Z",
+    "sourceId": "95bb06f5125a94bb7c205d9add82364f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "waymo-dominates-autonomous-vehicle-registrations-a",
     "prompt_version": "1.0.0",
     "status": "published",
