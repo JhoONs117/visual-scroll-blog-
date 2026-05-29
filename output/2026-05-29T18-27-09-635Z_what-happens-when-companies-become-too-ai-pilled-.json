@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "what-happens-when-companies-become-too-ai-pilled-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "What happens when companies become too AI-pilled?",
+  "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+  "pubDate": "Fri, 29 May 2026 17:57:05 +0000",
+  "slides": [
+    "Your company runs on AI. Why aren't profits growing?",
+    "AI adoption tripled, but worker productivity flatlined.",
+    "Blind AI trust cost one firm 40% of its clients.",
+    "You must audit every decision AI makes now.",
+    "Test one process today without AI. Then compare."
+  ],
+  "thread_text": [
+    "Una azienda ha perso il 40% dei clienti per colpa dell'AI. Fiducia cieca. Il profitto è sparito.",
+    "L'adozione dell'AI è triplicata in due anni, ma la produttività umana è rimasta ferma.",
+    "Il problema non è la tecnologia, è il controllo. Nessuno verifica le decisioni dell'AI.",
+    "Ogni output deve essere controllato come se dipendesse la reputazione della tua azienda.",
+    "Prendi un processo critico, togli l'AI per una settimana e confronta i risultati. Fallo ora."
+  ],
+  "video_script": [
+    "Un'azienda ha perso il 40% dei clienti.",
+    "Fiducia cieca nell'AI.",
+    "Adozione triplicata, produttività ferma.",
+    "Nessuno controlla le decisioni.",
+    "Prova senza AI per una settimana."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Una azienda ha perso il 40% dei clienti per colpa dell'AI. Fiducia cieca. Il profitto è sparito.",
+        "L'adozione dell'AI è triplicata in due anni, ma la produttività umana è rimasta ferma.",
+        "Il problema non è la tecnologia, è il controllo. Nessuno verifica le decisioni dell'AI.",
+        "Ogni output deve essere controllato come se dipendesse la reputazione della tua azienda.",
+        "Prendi un processo critico, togli l'AI per una settimana e confronta i risultati. Fallo ora."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Un'azienda ha perso il 40% dei clienti.",
+        "Fiducia cieca nell'AI.",
+        "Adozione triplicata, produttività ferma.",
+        "Nessuno controlla le decisioni.",
+        "Prova senza AI per una settimana."
+      ]
+    },
+    "instagram": {
+      "caption": "Un'azienda ha perso il 40% dei clienti perché si è fidata ciecamente dell’AI. I profitti sono spariti 😬. Nel frattempo, l’adozione dell’AI è triplicata, ma la produttività umana è rimasta ferma. Il problema non è la tecnologia, ma che nessuno verifica cosa decide. 📉 Ogni output va controllato come se fosse la reputazione della tua azienda. Prendi un processo cruciale, togli l’AI per una settimana e confronta i risultati. ⚠️ Quanto ti fidi di un sistema che non controlli? 🔍"
+    }
+  },
+  "instagram_caption": "Un'azienda ha perso il 40% dei clienti perché si è fidata ciecamente dell’AI. I profitti sono spariti 😬. Nel frattempo, l’adozione dell’AI è triplicata, ma la produttività umana è rimasta ferma. Il problema non è la tecnologia, ma che nessuno verifica cosa decide. 📉 Ogni output va controllato come se fosse la reputazione della tua azienda. Prendi un processo cruciale, togli l’AI per una settimana e confronta i risultati. ⚠️ Quanto ti fidi di un sistema che non controlli? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Blind AI trust cost 40% clients",
+      "description": "A company lost 40% of clients due to blind AI trust. Profits vanished.",
+      "visual_hint": "client loss avalanche",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "AI up, productivity flat",
+      "description": "AI adoption tripled in two years, but human productivity stayed flat.",
+      "visual_hint": "stagnant productivity chart",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No one checks the AI",
+      "description": "The problem isn't technology—it's control. No one verifies AI decisions.",
+      "visual_hint": "unchecked AI process",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit every AI output now",
+      "description": "Every output must be checked as if your company's reputation depends on it.",
+      "visual_hint": "magnifying glass audit",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Take one process offline",
+      "description": "Remove AI from a critical process for a week. Compare results. Do it now.",
+      "visual_hint": "process switch comparison",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/10/2244026103.jpg?resize=1200,800",
+  "savedAt": "2026-05-29T18:27:19.726Z",
+  "sourceId": "4fd5861e26d9f83c696939809234eb31"
+}

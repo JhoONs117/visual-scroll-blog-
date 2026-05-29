@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cognition-s-scott-wu-says-ai-coding-agents-shouldn",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+  "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+  "pubDate": "Fri, 29 May 2026 16:13:47 +0000",
+  "slides": [
+    "Scott Wu says AI won't replace you—should you believe him?",
+    "Cognition's agent writes code, tests, and deploys autonomously.",
+    "Wu argues it catches bugs humans miss—but also hides others.",
+    "Your job shifts from writing code to reviewing machine output.",
+    "Don't ask if it replaces you; ask what you review better."
+  ],
+  "thread_text": [
+    "Cognition's AI writes code, tests, and deploys—but also hides bugs. Scott Wu says it catches ones humans miss. Then why does he still look nervous?",
+    "The new agent doesn't just assist. It takes your keyboard, builds the feature, runs tests, and pushes to production. You watch.",
+    "Wu admits the AI buries certain errors deeper than a human would. You can't spot them unless you review the whole logic chain.",
+    "Your job isn't writing anymore. It’s reviewing machine output. Same pay, different muscle: you now catch what the code generator hides.",
+    "Don't ask if AI replaces you. Ask: 'What kind of bug am I better at finding?' That's the skill you should be charging for."
+  ],
+  "video_script": [
+    "AI writes code, deploys, hides bugs.",
+    "Wu says you still have a job.",
+    "But your role just flipped.",
+    "You're now the reviewer.",
+    "Find what the machine missed."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Cognition's AI writes code, tests, and deploys—but also hides bugs. Scott Wu says it catches ones humans miss. Then why does he still look nervous?",
+        "The new agent doesn't just assist. It takes your keyboard, builds the feature, runs tests, and pushes to production. You watch.",
+        "Wu admits the AI buries certain errors deeper than a human would. You can't spot them unless you review the whole logic chain.",
+        "Your job isn't writing anymore. It’s reviewing machine output. Same pay, different muscle: you now catch what the code generator hides.",
+        "Don't ask if AI replaces you. Ask: 'What kind of bug am I better at finding?' That's the skill you should be charging for."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI writes code, deploys, hides bugs.",
+        "Wu says you still have a job.",
+        "But your role just flipped.",
+        "You're now the reviewer.",
+        "Find what the machine missed."
+      ]
+    },
+    "instagram": {
+      "caption": "Scott Wu, il fondatore di Cognition, ammette che il suo agente AI “nasconde” alcuni bug più in profondità di quanto farebbe un umano. Questo agente scrive codice, lo testa e lo mette in produzione in autonomia, prendendoti la tastiera di mano. Il problema è che per scovare quegli errori nascosti devi rivedere l’intera logica del programma 🧠. Il tuo lavoro cambia: non scrivi più codice, ma controlli quello generato dalla macchina 👀. La domanda vera non è se l'AI ti sostituirà, ma quale tipo di bug sei più bravo a trovare tu 💸?"
+    }
+  },
+  "instagram_caption": "Scott Wu, il fondatore di Cognition, ammette che il suo agente AI “nasconde” alcuni bug più in profondità di quanto farebbe un umano. Questo agente scrive codice, lo testa e lo mette in produzione in autonomia, prendendoti la tastiera di mano. Il problema è che per scovare quegli errori nascosti devi rivedere l’intera logica del programma 🧠. Il tuo lavoro cambia: non scrivi più codice, ma controlli quello generato dalla macchina 👀. La domanda vera non è se l'AI ti sostituirà, ma quale tipo di bug sei più bravo a trovare tu 💸?",
+  "carousel_slides": [
+    {
+      "hook": "AI hides bugs, not fix them",
+      "description": "Wu admits AI buries errors deeper. You can't spot them without reviewing the whole logic.",
+      "visual_hint": "magnifying glass over code",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "bug code magnifying glass"
+    },
+    {
+      "hook": "Your keyboard is now AI's",
+      "description": "Cognition's agent writes, tests, deploys. You watch as it pushes to production autonomously.",
+      "visual_hint": "keyboard with robot hand",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot hand typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It catches what you miss",
+      "description": "Wu says AI catches bugs humans miss. But it also buries others deeper than a human would.",
+      "visual_hint": "bug hidden in deep code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "deep code lines error",
+      "image": "https://images.pexels.com/photos/31343288/pexels-photo-31343288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Same pay, different muscle",
+      "description": "Your job shifts from writing to reviewing machine output. Catch what the code generator hides.",
+      "visual_hint": "human eye scanning screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "developer reviewing screen",
+      "image": "https://images.pexels.com/photos/12899162/pexels-photo-12899162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What kind of bug do you find?",
+      "description": "Don't ask if AI replaces you. Ask what bug you're better at finding. That's your skill.",
+      "visual_hint": "two bugs side by side",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "bug comparison code",
+      "image": "https://images.pexels.com/photos/5473313/pexels-photo-5473313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?resize=1200,1004",
+  "savedAt": "2026-05-29T18:27:45.133Z",
+  "sourceId": "4b1d7fc08047e0c2f8f2ad020bb8c5bd"
+}

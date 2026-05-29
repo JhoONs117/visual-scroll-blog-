@@ -2,9 +2,323 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
-    "slug": "this-chip-startup-just-raised-135m-on-a-bet-that-a",
+    "slug": "cognition-s-scott-wu-says-ai-coding-agents-shouldn",
     "prompt_version": "1.0.0",
     "status": "published",
+    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+    "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "pubDate": "Fri, 29 May 2026 16:13:47 +0000",
+    "slides": [
+      "Scott Wu says AI won't replace you—should you believe him?",
+      "Cognition's agent writes code, tests, and deploys autonomously.",
+      "Wu argues it catches bugs humans miss—but also hides others.",
+      "Your job shifts from writing code to reviewing machine output.",
+      "Don't ask if it replaces you; ask what you review better."
+    ],
+    "thread_text": [
+      "Cognition's AI writes code, tests, and deploys—but also hides bugs. Scott Wu says it catches ones humans miss. Then why does he still look nervous?",
+      "The new agent doesn't just assist. It takes your keyboard, builds the feature, runs tests, and pushes to production. You watch.",
+      "Wu admits the AI buries certain errors deeper than a human would. You can't spot them unless you review the whole logic chain.",
+      "Your job isn't writing anymore. It’s reviewing machine output. Same pay, different muscle: you now catch what the code generator hides.",
+      "Don't ask if AI replaces you. Ask: 'What kind of bug am I better at finding?' That's the skill you should be charging for."
+    ],
+    "video_script": [
+      "AI writes code, deploys, hides bugs.",
+      "Wu says you still have a job.",
+      "But your role just flipped.",
+      "You're now the reviewer.",
+      "Find what the machine missed."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Cognition's AI writes code, tests, and deploys—but also hides bugs. Scott Wu says it catches ones humans miss. Then why does he still look nervous?",
+          "The new agent doesn't just assist. It takes your keyboard, builds the feature, runs tests, and pushes to production. You watch.",
+          "Wu admits the AI buries certain errors deeper than a human would. You can't spot them unless you review the whole logic chain.",
+          "Your job isn't writing anymore. It’s reviewing machine output. Same pay, different muscle: you now catch what the code generator hides.",
+          "Don't ask if AI replaces you. Ask: 'What kind of bug am I better at finding?' That's the skill you should be charging for."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI writes code, deploys, hides bugs.",
+          "Wu says you still have a job.",
+          "But your role just flipped.",
+          "You're now the reviewer.",
+          "Find what the machine missed."
+        ]
+      },
+      "instagram": {
+        "caption": "Scott Wu, il fondatore di Cognition, ammette che il suo agente AI “nasconde” alcuni bug più in profondità di quanto farebbe un umano. Questo agente scrive codice, lo testa e lo mette in produzione in autonomia, prendendoti la tastiera di mano. Il problema è che per scovare quegli errori nascosti devi rivedere l’intera logica del programma 🧠. Il tuo lavoro cambia: non scrivi più codice, ma controlli quello generato dalla macchina 👀. La domanda vera non è se l'AI ti sostituirà, ma quale tipo di bug sei più bravo a trovare tu 💸?"
+      }
+    },
+    "instagram_caption": "Scott Wu, il fondatore di Cognition, ammette che il suo agente AI “nasconde” alcuni bug più in profondità di quanto farebbe un umano. Questo agente scrive codice, lo testa e lo mette in produzione in autonomia, prendendoti la tastiera di mano. Il problema è che per scovare quegli errori nascosti devi rivedere l’intera logica del programma 🧠. Il tuo lavoro cambia: non scrivi più codice, ma controlli quello generato dalla macchina 👀. La domanda vera non è se l'AI ti sostituirà, ma quale tipo di bug sei più bravo a trovare tu 💸?",
+    "carousel_slides": [
+      {
+        "hook": "AI hides bugs, not fix them",
+        "description": "Wu admits AI buries errors deeper. You can't spot them without reviewing the whole logic.",
+        "visual_hint": "magnifying glass over code",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "bug code magnifying glass"
+      },
+      {
+        "hook": "Your keyboard is now AI's",
+        "description": "Cognition's agent writes, tests, deploys. You watch as it pushes to production autonomously.",
+        "visual_hint": "keyboard with robot hand",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot hand typing keyboard",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It catches what you miss",
+        "description": "Wu says AI catches bugs humans miss. But it also buries others deeper than a human would.",
+        "visual_hint": "bug hidden in deep code",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "deep code lines error",
+        "image": "https://images.pexels.com/photos/31343288/pexels-photo-31343288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Same pay, different muscle",
+        "description": "Your job shifts from writing to reviewing machine output. Catch what the code generator hides.",
+        "visual_hint": "human eye scanning screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "developer reviewing screen",
+        "image": "https://images.pexels.com/photos/12899162/pexels-photo-12899162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What kind of bug do you find?",
+        "description": "Don't ask if AI replaces you. Ask what bug you're better at finding. That's your skill.",
+        "visual_hint": "two bugs side by side",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "bug comparison code",
+        "image": "https://images.pexels.com/photos/5473313/pexels-photo-5473313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?resize=1200,1004",
+    "savedAt": "2026-05-29T18:27:45.133Z",
+    "sourceId": "4b1d7fc08047e0c2f8f2ad020bb8c5bd"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "after-nvidia-s-20b-not-aqui-hire-ai-chip-startup-g",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+    "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "pubDate": "Fri, 29 May 2026 17:27:13 +0000",
+    "slides": [
+      "Nvidia spende $20B per non acquisire talento AI.",
+      "Groq raccoglie $650M per chip inferenza ultra-veloci.",
+      "Perché Nvidia paga invece di assumere? Fallimento recruiter?",
+      "Se sviluppi AI, i costi di run-time potrebbero crollare.",
+      "Testa un modello su Groq oggi: vedi la latenza."
+    ],
+    "thread_text": [
+      "Nvidia sta spendendo 20 miliardi di dollari per non assumere talenti AI. Non è un errore, è una scelta.",
+      "Ogni startup AI sa che assumere i migliori ingegneri costa tempo e competizione. Nvidia ha scelto di comprare le aziende in cui lavorano già.",
+      "Nel frattempo, Groq ha chiuso un round da 650 milioni per costruire chip che eseguono modelli AI 10 volte più veloci di quelli Nvidia.",
+      "Se lavori con AI, i costi di inferenza stanno per crollare. Quello che oggi costa 100 domani costerà 1, grazie a chip progettati per il run-time, non per il training.",
+      "Hai già provato un modello su Groq? La latenza è sotto i 100 millisecondi. Se non l'hai fatto, vai su groq.com e testa il primo task oggi."
+    ],
+    "video_script": [
+      "Nvidia ha speso 20 miliardi per non assumere talenti.",
+      "Invece di assumere, hanno comprato le aziende.",
+      "Intanto Groq ha raccolto 650 milioni di dollari.",
+      "I loro chip sono super veloci per eseguire AI.",
+      "I costi di run-time stanno per crollare.",
+      "Prova un modello su Groq e vedi la latenza."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Nvidia sta spendendo 20 miliardi di dollari per non assumere talenti AI. Non è un errore, è una scelta.",
+          "Ogni startup AI sa che assumere i migliori ingegneri costa tempo e competizione. Nvidia ha scelto di comprare le aziende in cui lavorano già.",
+          "Nel frattempo, Groq ha chiuso un round da 650 milioni per costruire chip che eseguono modelli AI 10 volte più veloci di quelli Nvidia.",
+          "Se lavori con AI, i costi di inferenza stanno per crollare. Quello che oggi costa 100 domani costerà 1, grazie a chip progettati per il run-time, non per il training.",
+          "Hai già provato un modello su Groq? La latenza è sotto i 100 millisecondi. Se non l'hai fatto, vai su groq.com e testa il primo task oggi."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nvidia ha speso 20 miliardi per non assumere talenti.",
+          "Invece di assumere, hanno comprato le aziende.",
+          "Intanto Groq ha raccolto 650 milioni di dollari.",
+          "I loro chip sono super veloci per eseguire AI.",
+          "I costi di run-time stanno per crollare.",
+          "Prova un modello su Groq e vedi la latenza."
+        ]
+      },
+      "instagram": {
+        "caption": "Nvidia ha speso 20 miliardi di dollari per comprare aziende, non per assumere singoli ingegneri 🏦. Nel frattempo, la startup Groq ha raccolto 650 milioni per creare chip che eseguono modelli AI 10 volte più veloci di quelli Nvidia ⚡️. Per chi lavora con intelligenza artificiale, i costi di esecuzione stanno per crollare: quello che oggi costa 100, domani potrebbe costare 1 💸. Hai già testato un modello su Groq? La latenza è sotto i 100 millisecondi 🔍."
+      }
+    },
+    "instagram_caption": "Nvidia ha speso 20 miliardi di dollari per comprare aziende, non per assumere singoli ingegneri 🏦. Nel frattempo, la startup Groq ha raccolto 650 milioni per creare chip che eseguono modelli AI 10 volte più veloci di quelli Nvidia ⚡️. Per chi lavora con intelligenza artificiale, i costi di esecuzione stanno per crollare: quello che oggi costa 100, domani potrebbe costare 1 💸. Hai già testato un modello su Groq? La latenza è sotto i 100 millisecondi 🔍.",
+    "carousel_slides": [
+      {
+        "hook": "20 miliardi per non assumere",
+        "description": "Nvidia spende 20 miliardi comprando aziende invece di assumere talenti AI. È una scelta strategica, non un errore.",
+        "visual_hint": "banconote con chip",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "nvidia chip money"
+      },
+      {
+        "hook": "Groq raccoglie 650 milioni",
+        "description": "Groq ha chiuso un round da 650 milioni per chip inferenza 10x più veloci di Nvidia. L'alternativa cresce.",
+        "visual_hint": "chip luminoso",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "microchip closeup",
+        "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Perché Nvidia paga e non assume",
+        "description": "Assumere i migliori ingegneri costa tempo e competizione. Nvidia compra le aziende dove già lavorano.",
+        "visual_hint": "curriculum con punto interrogativo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "resume paper",
+        "image": "https://images.pexels.com/photos/5989925/pexels-photo-5989925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costi inferenza in caduta libera",
+        "description": "Se fai AI, i costi runtime crolleranno: oggi 100, domani 1. Merito dei chip progettati per inferenza veloce.",
+        "visual_hint": "grafico in discesa",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock chart down",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova Groq ora, latenza sotto 100ms",
+        "description": "Testa un modello su Groq oggi: latenza sotto 100 millisecondi. Vai su groq.com e prova il primo task.",
+        "visual_hint": "telefono con timer",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "smartphone timer",
+        "image": "https://images.pexels.com/photos/4944001/pexels-photo-4944001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
+    "savedAt": "2026-05-29T18:27:32.348Z",
+    "sourceId": "5cb3d263b55c0199ee68010ec7452469"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "what-happens-when-companies-become-too-ai-pilled-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "What happens when companies become too AI-pilled?",
+    "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "pubDate": "Fri, 29 May 2026 17:57:05 +0000",
+    "slides": [
+      "Your company runs on AI. Why aren't profits growing?",
+      "AI adoption tripled, but worker productivity flatlined.",
+      "Blind AI trust cost one firm 40% of its clients.",
+      "You must audit every decision AI makes now.",
+      "Test one process today without AI. Then compare."
+    ],
+    "thread_text": [
+      "Una azienda ha perso il 40% dei clienti per colpa dell'AI. Fiducia cieca. Il profitto è sparito.",
+      "L'adozione dell'AI è triplicata in due anni, ma la produttività umana è rimasta ferma.",
+      "Il problema non è la tecnologia, è il controllo. Nessuno verifica le decisioni dell'AI.",
+      "Ogni output deve essere controllato come se dipendesse la reputazione della tua azienda.",
+      "Prendi un processo critico, togli l'AI per una settimana e confronta i risultati. Fallo ora."
+    ],
+    "video_script": [
+      "Un'azienda ha perso il 40% dei clienti.",
+      "Fiducia cieca nell'AI.",
+      "Adozione triplicata, produttività ferma.",
+      "Nessuno controlla le decisioni.",
+      "Prova senza AI per una settimana."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Una azienda ha perso il 40% dei clienti per colpa dell'AI. Fiducia cieca. Il profitto è sparito.",
+          "L'adozione dell'AI è triplicata in due anni, ma la produttività umana è rimasta ferma.",
+          "Il problema non è la tecnologia, è il controllo. Nessuno verifica le decisioni dell'AI.",
+          "Ogni output deve essere controllato come se dipendesse la reputazione della tua azienda.",
+          "Prendi un processo critico, togli l'AI per una settimana e confronta i risultati. Fallo ora."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Un'azienda ha perso il 40% dei clienti.",
+          "Fiducia cieca nell'AI.",
+          "Adozione triplicata, produttività ferma.",
+          "Nessuno controlla le decisioni.",
+          "Prova senza AI per una settimana."
+        ]
+      },
+      "instagram": {
+        "caption": "Un'azienda ha perso il 40% dei clienti perché si è fidata ciecamente dell’AI. I profitti sono spariti 😬. Nel frattempo, l’adozione dell’AI è triplicata, ma la produttività umana è rimasta ferma. Il problema non è la tecnologia, ma che nessuno verifica cosa decide. 📉 Ogni output va controllato come se fosse la reputazione della tua azienda. Prendi un processo cruciale, togli l’AI per una settimana e confronta i risultati. ⚠️ Quanto ti fidi di un sistema che non controlli? 🔍"
+      }
+    },
+    "instagram_caption": "Un'azienda ha perso il 40% dei clienti perché si è fidata ciecamente dell’AI. I profitti sono spariti 😬. Nel frattempo, l’adozione dell’AI è triplicata, ma la produttività umana è rimasta ferma. Il problema non è la tecnologia, ma che nessuno verifica cosa decide. 📉 Ogni output va controllato come se fosse la reputazione della tua azienda. Prendi un processo cruciale, togli l’AI per una settimana e confronta i risultati. ⚠️ Quanto ti fidi di un sistema che non controlli? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Blind AI trust cost 40% clients",
+        "description": "A company lost 40% of clients due to blind AI trust. Profits vanished.",
+        "visual_hint": "client loss avalanche",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "AI up, productivity flat",
+        "description": "AI adoption tripled in two years, but human productivity stayed flat.",
+        "visual_hint": "stagnant productivity chart",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No one checks the AI",
+        "description": "The problem isn't technology—it's control. No one verifies AI decisions.",
+        "visual_hint": "unchecked AI process",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit every AI output now",
+        "description": "Every output must be checked as if your company's reputation depends on it.",
+        "visual_hint": "magnifying glass audit",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Take one process offline",
+        "description": "Remove AI from a critical process for a week. Compare results. Do it now.",
+        "visual_hint": "process switch comparison",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2244026103.jpg?resize=1200,800",
+    "savedAt": "2026-05-29T18:27:19.726Z",
+    "sourceId": "4fd5861e26d9f83c696939809234eb31"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "this-chip-startup-just-raised-135m-on-a-bet-that-a",
+    "prompt_version": "1.0.0",
+    "status": "approved",
     "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
     "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
     "pubDate": "Fri, 29 May 2026 12:00:00 +0000",
