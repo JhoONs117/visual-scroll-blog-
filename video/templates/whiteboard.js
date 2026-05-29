@@ -121,8 +121,14 @@ function buildArrowPath(el, elements) {
   const s     = SIZE_PX[el.size || 'small'];
   const order = el.reveal_order ?? 0;
 
-  const prevEl = elements.find(e => (e.reveal_order ?? 0) === order - 1 && e.type !== 'arrow');
-  const nextEl = elements.find(e => (e.reveal_order ?? 0) === order + 1 && e.type !== 'arrow');
+  // Filter to same scene only — prevents cross-scene reveal_order collisions
+  const sameScene = elements.filter(e =>
+    e.type !== 'arrow' &&
+    (e._sceneIdx ?? null) === (el._sceneIdx ?? null)
+  );
+
+  const prevEl = sameScene.find(e => (e.reveal_order ?? 0) === order - 1);
+  const nextEl = sameScene.find(e => (e.reveal_order ?? 0) === order + 1);
 
   let x1, y1, x2, y2;
 
@@ -190,7 +196,7 @@ function buildLabel(el, info, progress) {
 
 // ─── SVG frame builder ────────────────────────────────────────────────────────
 function buildSvg(scene, frameIdx, totalFrames) {
-  const { headline = '', elements = [] } = scene;
+  const { headline = '', elements = [], persistent_elements = [] } = scene;
   const fp = totalFrames > 1 ? frameIdx / (totalFrames - 1) : 1; // 0 → 1
 
   // First 20%: headline typewriter
@@ -202,6 +208,9 @@ function buildSvg(scene, frameIdx, totalFrames) {
   const orders  = [...new Set(elements.map(e => e.reveal_order ?? 0))].sort((a, b) => a - b);
   const nSlots  = Math.max(orders.length, 1);
   const slotDur = (1 - HEAD_FRAC) / nSlots;
+
+  // Full context for arrow resolution (persistent + current)
+  const allElementsForArrows = [...persistent_elements, ...elements];
 
   const parts = [
     `<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920">`,
@@ -215,8 +224,30 @@ function buildSvg(scene, frameIdx, totalFrames) {
     parts.push(`<line x1="${540 - lw / 2}" y1="188" x2="${540 + lw / 2}" y2="190" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.25"/>`);
   }
 
-  // Pass 1: white fill (closed shapes only) → stroke animato → arrowhead
-  // Ordine SVG: freccia arriva "sotto" la forma successiva grazie al fill bianco
+  // ── Persistent elements (from previous scenes) ────────────────────────────
+  if (persistent_elements.length > 0) {
+    // White fills first (fully opaque — properly block anything behind)
+    for (const el of persistent_elements) {
+      if (el.type === 'rect') {
+        const { cx, cy, w, h } = buildShapePath(el);
+        parts.push(`<rect x="${(cx - w / 2).toFixed(1)}" y="${(cy - h / 2).toFixed(1)}" width="${w.toFixed(1)}" height="${h.toFixed(1)}" fill="white" stroke="none"/>`);
+      } else if (el.type === 'circle') {
+        const { cx, cy, s } = buildShapePath(el);
+        parts.push(`<circle cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="${(s * 0.4).toFixed(1)}" fill="white" stroke="none"/>`);
+      }
+    }
+    // Strokes at reduced opacity (past context, not distraction)
+    parts.push(`<g opacity="${PERSISTENT_OPACITY}">`);
+    for (const el of persistent_elements) {
+      const isArrow = el.type === 'arrow';
+      const info    = isArrow ? buildArrowPath(el, allElementsForArrows) : buildShapePath(el);
+      parts.push(`<path d="${info.d}" stroke="#1a1a1a" stroke-width="${PERSISTENT_STROKE_WIDTH}" fill="none" stroke-linecap="round"/>`);
+      if (isArrow) parts.push(buildArrowHead(info, 1));
+    }
+    parts.push(`</g>`);
+  }
+
+  // ── Current scene Pass 1: white fills + animated strokes + arrowheads ────
   for (const el of elements) {
     const slot    = orders.indexOf(el.reveal_order ?? 0);
     const elStart = HEAD_FRAC + slot * slotDur;
@@ -224,34 +255,37 @@ function buildSvg(scene, frameIdx, totalFrames) {
     if (elProg <= 0) continue;
 
     const isArrow = el.type === 'arrow';
-    const info    = isArrow ? buildArrowPath(el, elements) : buildShapePath(el);
+    const info    = isArrow ? buildArrowPath(el, allElementsForArrows) : buildShapePath(el);
 
-    // White background fill per rect e circle — copre le frecce che passano "dietro"
     if (el.type === 'rect') {
       const { cx, cy, w, h } = info;
       parts.push(`<rect x="${(cx - w / 2).toFixed(1)}" y="${(cy - h / 2).toFixed(1)}" width="${w.toFixed(1)}" height="${h.toFixed(1)}" fill="white" stroke="none"/>`);
     } else if (el.type === 'circle') {
-      const r = (info.s * 0.4).toFixed(1);
-      parts.push(`<circle cx="${info.cx.toFixed(1)}" cy="${info.cy.toFixed(1)}" r="${r}" fill="white" stroke="none"/>`);
+      parts.push(`<circle cx="${info.cx.toFixed(1)}" cy="${info.cy.toFixed(1)}" r="${(info.s * 0.4).toFixed(1)}" fill="white" stroke="none"/>`);
     }
 
     const dOffset = (info.len * (1 - elProg)).toFixed(1);
-    parts.push(
-      `<path d="${info.d}" stroke="#1a1a1a" stroke-width="${ACTIVE_STROKE_WIDTH}" fill="none" stroke-dasharray="${info.len.toFixed(1)}" stroke-dashoffset="${dOffset}" stroke-linecap="round"/>`
-    );
+    parts.push(`<path d="${info.d}" stroke="#1a1a1a" stroke-width="${ACTIVE_STROKE_WIDTH}" fill="none" stroke-dasharray="${info.len.toFixed(1)}" stroke-dashoffset="${dOffset}" stroke-linecap="round"/>`);
     if (isArrow) parts.push(buildArrowHead(info, elProg));
   }
 
-  // Pass 2: tutte le label sopra i path
+  // ── Labels: persistent (faded) then current (full opacity) ───────────────
+  if (persistent_elements.length > 0) {
+    parts.push(`<g opacity="${PERSISTENT_OPACITY}">`);
+    for (const el of persistent_elements) {
+      if (el.type === 'arrow') continue;
+      parts.push(buildLabel(el, buildShapePath(el), 1));
+    }
+    parts.push(`</g>`);
+  }
+
   for (const el of elements) {
     if (el.type === 'arrow') continue;
     const slot    = orders.indexOf(el.reveal_order ?? 0);
     const elStart = HEAD_FRAC + slot * slotDur;
     const elProg  = Math.max(0, Math.min(1, (fp - elStart) / slotDur));
     if (elProg <= 0) continue;
-
-    const info = buildShapePath(el);
-    parts.push(buildLabel(el, info, elProg));
+    parts.push(buildLabel(el, buildShapePath(el), elProg));
   }
 
   parts.push('</svg>');
@@ -374,10 +408,16 @@ async function render(article, scenes, agentConfig, outputPath) {
     fs.mkdirSync(clipsDir, { recursive: true });
     fs.mkdirSync(audioDir, { recursive: true });
 
-    const clipPaths = [];
+    const clipPaths           = [];
+    const accumulatedElements = [];
 
     for (let i = 0; i < scenes.length; i++) {
-      const scene     = normalizeWhiteboardScene(scenes[i], i);
+      const scene = normalizeWhiteboardScene(scenes[i], i);
+
+      // Tag each element with its scene index — prevents cross-scene arrow resolution
+      scene.elements = scene.elements.map(el => ({ ...el, _sceneIdx: i }));
+      scene.persistent_elements = [...accumulatedElements];
+
       const audioPath = path.join(audioDir, `${slug}_wb${i}.mp3`);
       const clipPath  = path.join(clipsDir, `${slug}_wb${i}.mp4`);
       const framesDir = path.join(rendDir, `wb-frames-${i}`);
@@ -387,12 +427,14 @@ async function render(article, scenes, agentConfig, outputPath) {
       try {
         await renderScene(i, scene, audioPath, clipPath, framesDir);
         clipPaths.push(clipPath);
+        accumulatedElements.push(...scene.elements); // only on success
       } catch (e) {
         console.warn(`  ⚠️  scena ${i + 1} fallita: ${e.message.slice(0, 100)}`);
         try {
           await buildBlackClip(clipPath, scene.duration_sec || 6);
           clipPaths.push(clipPath);
         } catch {}
+        // failed scene: do NOT add its elements to accumulatedElements
       }
     }
 
