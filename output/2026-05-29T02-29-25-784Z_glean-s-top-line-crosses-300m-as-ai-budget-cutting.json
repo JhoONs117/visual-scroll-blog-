@@ -1,0 +1,114 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "glean-s-top-line-crosses-300m-as-ai-budget-cutting",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+  "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+  "pubDate": "Fri, 29 May 2026 00:44:37 +0000",
+  "slides": [
+    "Glean supera $300M, ma tagli AI sono il vero motore?",
+    "Le aziende riducono budget AI e scelgono un'unica piattaforma.",
+    "Il loro software unifica strumenti: risparmio medio del 40%.",
+    "Se non consolidi ora, perdi budget che altri già tagliano.",
+    "Rivedi i tuoi contratti AI: puoi spendere meno e ottenere più dati."
+  ],
+  "thread_text": [
+    "Un'unica piattaforma AI ti fa risparmiare in media il 40%. Il taglio dei budget non è un problema: è la soluzione.",
+    "Glean ha appena superato 300 milioni di dollari di finanziamenti. Ma la vera notizia è un'altra: le aziende stanno riducendo i loro budget AI.",
+    "Non perché l'AI non funzioni. Perché hanno scoperto che avere dieci strumenti diversi fa solo sprecare soldi e dati.",
+    "Chi si muove adesso consolida tutto su una piattaforma. Chi aspetta, si ritrova con un budget già tagliato da altri.",
+    "Rivedi i tuoi contratti AI questa settimana. Puoi spendere meno e ottenere più dati. Inizia da un solo fornitore."
+  ],
+  "video_script": [
+    "Un solo strumento ti fa risparmiare il 40%.",
+    "Glean ha raccolto 300 milioni, ma non è quello il punto.",
+    "Le aziende stanno tagliando i budget AI.",
+    "Non perché l'AI non serva.",
+    "Perché troppi strumenti sono un costo nascosto.",
+    "Consolidare ora significa risparmiare e ottenere più dati.",
+    "Se non lo fai, il budget te lo tagliano altri.",
+    "Prendi i tuoi contratti e rinegoziali.",
+    "Un solo fornitore, meno spesa, più risultati.",
+    "Inizia oggi, non serve aspettare."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Un'unica piattaforma AI ti fa risparmiare in media il 40%. Il taglio dei budget non è un problema: è la soluzione.",
+        "Glean ha appena superato 300 milioni di dollari di finanziamenti. Ma la vera notizia è un'altra: le aziende stanno riducendo i loro budget AI.",
+        "Non perché l'AI non funzioni. Perché hanno scoperto che avere dieci strumenti diversi fa solo sprecare soldi e dati.",
+        "Chi si muove adesso consolida tutto su una piattaforma. Chi aspetta, si ritrova con un budget già tagliato da altri.",
+        "Rivedi i tuoi contratti AI questa settimana. Puoi spendere meno e ottenere più dati. Inizia da un solo fornitore."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Un solo strumento ti fa risparmiare il 40%.",
+        "Glean ha raccolto 300 milioni, ma non è quello il punto.",
+        "Le aziende stanno tagliando i budget AI.",
+        "Non perché l'AI non serva.",
+        "Perché troppi strumenti sono un costo nascosto.",
+        "Consolidare ora significa risparmiare e ottenere più dati.",
+        "Se non lo fai, il budget te lo tagliano altri.",
+        "Prendi i tuoi contratti e rinegoziali.",
+        "Un solo fornitore, meno spesa, più risultati.",
+        "Inizia oggi, non serve aspettare."
+      ]
+    },
+    "instagram": {
+      "caption": "Un milione di dollari al mese di budget AI tagliato? No, 300 milioni raccolti da Glean. Le aziende stanno riducendo gli sprechi tecnologici e consolidando tutto su una piattaforma unica, risparmiando in media il 40% 💸. Chi non si muove ora rischia di perdere budget che altri stanno già tagliando 📉. Per te significa meno strumenti da comprare, più dati utili e meno contratti da gestire. Hai già controllato quanti abbonamenti AI inutili stai pagando?"
+    }
+  },
+  "instagram_caption": "Un milione di dollari al mese di budget AI tagliato? No, 300 milioni raccolti da Glean. Le aziende stanno riducendo gli sprechi tecnologici e consolidando tutto su una piattaforma unica, risparmiando in media il 40% 💸. Chi non si muove ora rischia di perdere budget che altri stanno già tagliando 📉. Per te significa meno strumenti da comprare, più dati utili e meno contratti da gestire. Hai già controllato quanti abbonamenti AI inutili stai pagando?",
+  "carousel_slides": [
+    {
+      "hook": "Risparmi il 40% unificando",
+      "description": "Un'unica piattaforma AI ti fa risparmiare in media il 40%.",
+      "visual_hint": "Grafico con freccia in discesa",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Budget AI in calo? Notizia",
+      "description": "Glean supera 300 milioni ma le aziende tagliano budget AI per consolidare strumenti.",
+      "visual_hint": "Fila di loghi software rimpiccioliti",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Dieci strumenti, soldi persi",
+      "description": "Non perché l'AI non funzioni. Dieci strumenti diversi fanno solo sprecare soldi e dati.",
+      "visual_hint": "Ingranaggi che si uniscono in uno",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Muoviti o perdi budget",
+      "description": "Chi consolida ora su una piattaforma evita tagli che altri subiranno.",
+      "visual_hint": "Mano che tiene banconote",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rivedi i contratti AI ora",
+      "description": "Spendi meno, ottieni più dati. Inizia da un solo fornitore questa settimana.",
+      "visual_hint": "Documento con timbro approvato",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259183614.jpg?resize=1200,800",
+  "savedAt": "2026-05-29T02:29:39.722Z",
+  "sourceId": "c87f159dd82a7abd6d8c61a876f1b211"
+}

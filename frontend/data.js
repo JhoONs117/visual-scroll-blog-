@@ -2,6 +2,224 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "waymo-dominates-autonomous-vehicle-registrations-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
+    "link": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
+    "pubDate": "Fri, 29 May 2026 00:14:35 +0000",
+    "slides": [
+      "Waymo ha più reg. auto a guida autonoma di Tesla?",
+      "96% delle registrazioni AV in California sono Waymo",
+      "Tesla ha solo poche centinaia, non migliaia",
+      "Il tuo prossimo taxi potrebbe essere senza guidatore",
+      "Confronta i dati e chiediti: chi investiresti?"
+    ],
+    "thread_text": [
+      "Tesla ha solo poche centinaia di auto a guida autonoma registrate in California. Waymo ne ha migliaia.",
+      "Il 96% delle registrazioni di veicoli autonomi in California appartiene a Waymo. Il restante 4% è frazionato tra decine di aziende.",
+      "Tesla promette da anni il Full Self-Driving. I dati delle registrazioni mostrano che i numeri sono molto più bassi di quelli di Waymo.",
+      "Se il tuo prossimo taxi a San Francisco sarà senza guidatore, con ogni probabilità sarà un Waymo, non una Tesla.",
+      "Hai guardato i numeri di registrazione AV in California. Ora chiediti: su quale tecnologia punteresti il tuo investimento?"
+    ],
+    "video_script": [
+      "Tesla ha poche centinaia di auto a guida autonoma.",
+      "Waymo ne ha migliaia in California.",
+      "Il 96% delle registrazioni è di Waymo.",
+      "Il tuo prossimo taxi sarà senza guidatore.",
+      "Su quale azienda punteresti i tuoi soldi?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Tesla ha solo poche centinaia di auto a guida autonoma registrate in California. Waymo ne ha migliaia.",
+          "Il 96% delle registrazioni di veicoli autonomi in California appartiene a Waymo. Il restante 4% è frazionato tra decine di aziende.",
+          "Tesla promette da anni il Full Self-Driving. I dati delle registrazioni mostrano che i numeri sono molto più bassi di quelli di Waymo.",
+          "Se il tuo prossimo taxi a San Francisco sarà senza guidatore, con ogni probabilità sarà un Waymo, non una Tesla.",
+          "Hai guardato i numeri di registrazione AV in California. Ora chiediti: su quale tecnologia punteresti il tuo investimento?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Tesla ha poche centinaia di auto a guida autonoma.",
+          "Waymo ne ha migliaia in California.",
+          "Il 96% delle registrazioni è di Waymo.",
+          "Il tuo prossimo taxi sarà senza guidatore.",
+          "Su quale azienda punteresti i tuoi soldi?"
+        ]
+      },
+      "instagram": {
+        "caption": "In California, il 96% delle auto a guida autonoma registrate è di Waymo. 🚗 Tesla, nonostante anni di promesse sul Full Self-Driving, ha solo poche centinaia di unità. I numeri ufficiali mostrano una disparità enorme: migliaia contro poche centinaia.  \nQuesto significa che il tuo prossimo taxi a San Francisco sarà con ogni probabilità un Waymo, senza autista al volante. 🧭  \nHai già guardato i dati di registrazione? Su quale cavallo punteresti il tuo investimento? 📊"
+      }
+    },
+    "instagram_caption": "In California, il 96% delle auto a guida autonoma registrate è di Waymo. 🚗 Tesla, nonostante anni di promesse sul Full Self-Driving, ha solo poche centinaia di unità. I numeri ufficiali mostrano una disparità enorme: migliaia contro poche centinaia.  \nQuesto significa che il tuo prossimo taxi a San Francisco sarà con ogni probabilità un Waymo, senza autista al volante. 🧭  \nHai già guardato i dati di registrazione? Su quale cavallo punteresti il tuo investimento? 📊",
+    "carousel_slides": [
+      {
+        "hook": "Tesla ha solo centinaia.",
+        "description": "Mentre Waymo ha migliaia di auto registrate in California, Tesla ne ha solo poche centinaia.",
+        "visual_hint": "Due numeri a confronto",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "car registration numbers"
+      },
+      {
+        "hook": "96% delle registrazioni AV.",
+        "description": "Il 96% dei veicoli autonomi registrati in California è Waymo. Il resto diviso tra decine di aziende.",
+        "visual_hint": "Grafico a torta dominante",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "pie chart statistic",
+        "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "FSD promesso, dati deludono.",
+        "description": "Tesla promette Full Self-Driving da anni, ma le registrazioni restano basse rispetto a Waymo.",
+        "visual_hint": "Linea del tempo discendente",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "graph declining line",
+        "image": "https://images.pexels.com/photos/8369831/pexels-photo-8369831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Taxi senza guidatore? Waymo.",
+        "description": "A San Francisco, il tuo prossimo taxi autonomo sarà probabilmente un Waymo, non una Tesla.",
+        "visual_hint": "Auto senza conducente in città",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "autonomous car street",
+        "image": "https://images.pexels.com/photos/24304581/pexels-photo-24304581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Dati alla mano, chi scegli?",
+        "description": "Hai visto i numeri: Waymo domina le registrazioni. Su quale tecnologia punteresti il tuo investimento?",
+        "visual_hint": "Bilancia con due loghi",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "balance scale comparison",
+        "image": "https://images.pexels.com/photos/8431782/pexels-photo-8431782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800",
+    "savedAt": "2026-05-29T02:29:52.841Z",
+    "sourceId": "8086a6b31b94bab5b7a69112c8359a8d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "glean-s-top-line-crosses-300m-as-ai-budget-cutting",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+    "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "pubDate": "Fri, 29 May 2026 00:44:37 +0000",
+    "slides": [
+      "Glean supera $300M, ma tagli AI sono il vero motore?",
+      "Le aziende riducono budget AI e scelgono un'unica piattaforma.",
+      "Il loro software unifica strumenti: risparmio medio del 40%.",
+      "Se non consolidi ora, perdi budget che altri già tagliano.",
+      "Rivedi i tuoi contratti AI: puoi spendere meno e ottenere più dati."
+    ],
+    "thread_text": [
+      "Un'unica piattaforma AI ti fa risparmiare in media il 40%. Il taglio dei budget non è un problema: è la soluzione.",
+      "Glean ha appena superato 300 milioni di dollari di finanziamenti. Ma la vera notizia è un'altra: le aziende stanno riducendo i loro budget AI.",
+      "Non perché l'AI non funzioni. Perché hanno scoperto che avere dieci strumenti diversi fa solo sprecare soldi e dati.",
+      "Chi si muove adesso consolida tutto su una piattaforma. Chi aspetta, si ritrova con un budget già tagliato da altri.",
+      "Rivedi i tuoi contratti AI questa settimana. Puoi spendere meno e ottenere più dati. Inizia da un solo fornitore."
+    ],
+    "video_script": [
+      "Un solo strumento ti fa risparmiare il 40%.",
+      "Glean ha raccolto 300 milioni, ma non è quello il punto.",
+      "Le aziende stanno tagliando i budget AI.",
+      "Non perché l'AI non serva.",
+      "Perché troppi strumenti sono un costo nascosto.",
+      "Consolidare ora significa risparmiare e ottenere più dati.",
+      "Se non lo fai, il budget te lo tagliano altri.",
+      "Prendi i tuoi contratti e rinegoziali.",
+      "Un solo fornitore, meno spesa, più risultati.",
+      "Inizia oggi, non serve aspettare."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Un'unica piattaforma AI ti fa risparmiare in media il 40%. Il taglio dei budget non è un problema: è la soluzione.",
+          "Glean ha appena superato 300 milioni di dollari di finanziamenti. Ma la vera notizia è un'altra: le aziende stanno riducendo i loro budget AI.",
+          "Non perché l'AI non funzioni. Perché hanno scoperto che avere dieci strumenti diversi fa solo sprecare soldi e dati.",
+          "Chi si muove adesso consolida tutto su una piattaforma. Chi aspetta, si ritrova con un budget già tagliato da altri.",
+          "Rivedi i tuoi contratti AI questa settimana. Puoi spendere meno e ottenere più dati. Inizia da un solo fornitore."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Un solo strumento ti fa risparmiare il 40%.",
+          "Glean ha raccolto 300 milioni, ma non è quello il punto.",
+          "Le aziende stanno tagliando i budget AI.",
+          "Non perché l'AI non serva.",
+          "Perché troppi strumenti sono un costo nascosto.",
+          "Consolidare ora significa risparmiare e ottenere più dati.",
+          "Se non lo fai, il budget te lo tagliano altri.",
+          "Prendi i tuoi contratti e rinegoziali.",
+          "Un solo fornitore, meno spesa, più risultati.",
+          "Inizia oggi, non serve aspettare."
+        ]
+      },
+      "instagram": {
+        "caption": "Un milione di dollari al mese di budget AI tagliato? No, 300 milioni raccolti da Glean. Le aziende stanno riducendo gli sprechi tecnologici e consolidando tutto su una piattaforma unica, risparmiando in media il 40% 💸. Chi non si muove ora rischia di perdere budget che altri stanno già tagliando 📉. Per te significa meno strumenti da comprare, più dati utili e meno contratti da gestire. Hai già controllato quanti abbonamenti AI inutili stai pagando?"
+      }
+    },
+    "instagram_caption": "Un milione di dollari al mese di budget AI tagliato? No, 300 milioni raccolti da Glean. Le aziende stanno riducendo gli sprechi tecnologici e consolidando tutto su una piattaforma unica, risparmiando in media il 40% 💸. Chi non si muove ora rischia di perdere budget che altri stanno già tagliando 📉. Per te significa meno strumenti da comprare, più dati utili e meno contratti da gestire. Hai già controllato quanti abbonamenti AI inutili stai pagando?",
+    "carousel_slides": [
+      {
+        "hook": "Risparmi il 40% unificando",
+        "description": "Un'unica piattaforma AI ti fa risparmiare in media il 40%.",
+        "visual_hint": "Grafico con freccia in discesa",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Budget AI in calo? Notizia",
+        "description": "Glean supera 300 milioni ma le aziende tagliano budget AI per consolidare strumenti.",
+        "visual_hint": "Fila di loghi software rimpiccioliti",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Dieci strumenti, soldi persi",
+        "description": "Non perché l'AI non funzioni. Dieci strumenti diversi fanno solo sprecare soldi e dati.",
+        "visual_hint": "Ingranaggi che si uniscono in uno",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Muoviti o perdi budget",
+        "description": "Chi consolida ora su una piattaforma evita tagli che altri subiranno.",
+        "visual_hint": "Mano che tiene banconote",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rivedi i contratti AI ora",
+        "description": "Spendi meno, ottieni più dati. Inizia da un solo fornitore questa settimana.",
+        "visual_hint": "Documento con timbro approvato",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259183614.jpg?resize=1200,800",
+    "savedAt": "2026-05-29T02:29:39.722Z",
+    "sourceId": "c87f159dd82a7abd6d8c61a876f1b211"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "sesame-the-conversational-ai-startup-from-oculus-f",
     "prompt_version": "1.0.0",
     "status": "published",
