@@ -5,7 +5,7 @@ window.AGENTS = {
       "agent": "ai-news",
       "slug": "this-chip-startup-just-raised-135m-on-a-bet-that-a",
       "prompt_version": "1.0.0",
-      "status": "published",
+      "status": "approved",
       "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
       "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
       "pubDate": "Fri, 29 May 2026 12:00:00 +0000",
