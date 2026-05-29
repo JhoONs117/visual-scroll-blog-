@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "kiwibit-s-ai-powered-bird-feeder-is-my-new-backyar",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+  "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+  "pubDate": "Fri, 29 May 2026 13:00:00 +0000",
+  "slides": [
+    "Kiwibit ti vede in giardino e twitta il tuo arrivo?",
+    "Riconosce oltre 100 specie di uccelli con IA.",
+    "Ma non dice cosa fa con i dati delle tue visite.",
+    "Ora ogni scoiattolo è un potenziale hacker del feed.",
+    "Provalo: installa e scopri chi spia il tuo giardino."
+  ],
+  "thread_text": [
+    "Non sanno cosa faccia con i dati delle tue visite. L'app riconosce gli uccelli, ma non spiega dove finiscono le registrazioni.",
+    "Kiwibit identifica oltre 100 specie con l'IA. Funziona. Ti notifica ogni volatile che passa in giardino.",
+    "Il problema è che mentre twitta l'arrivo di un pettirosso, registra anche te. La telecamera resta accesa.",
+    "Ogni scoiattolo che attraversa il prato potrebbe far scattare un upload. Nessuno controlla il flusso dei dati.",
+    "L'hai già installata? Se sì, guarda quanti accessi ha fatto oggi. Poi chiediti chi altro li ha visti."
+  ],
+  "video_script": [
+    "L'app vede gli uccelli. E anche te.",
+    "Riconosce cento specie con l'IA.",
+    "Ma non dice dove vanno i dati.",
+    "Ogni animale può attivare la registrazione.",
+    "Provala e controlla chi ti spia."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Non sanno cosa faccia con i dati delle tue visite. L'app riconosce gli uccelli, ma non spiega dove finiscono le registrazioni.",
+        "Kiwibit identifica oltre 100 specie con l'IA. Funziona. Ti notifica ogni volatile che passa in giardino.",
+        "Il problema è che mentre twitta l'arrivo di un pettirosso, registra anche te. La telecamera resta accesa.",
+        "Ogni scoiattolo che attraversa il prato potrebbe far scattare un upload. Nessuno controlla il flusso dei dati.",
+        "L'hai già installata? Se sì, guarda quanti accessi ha fatto oggi. Poi chiediti chi altro li ha visti."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "L'app vede gli uccelli. E anche te.",
+        "Riconosce cento specie con l'IA.",
+        "Ma non dice dove vanno i dati.",
+        "Ogni animale può attivare la registrazione.",
+        "Provala e controlla chi ti spia."
+      ]
+    },
+    "instagram": {
+      "caption": "Un'alimentatrice per uccelli riconosce oltre 100 specie con l'IA e ti avvisa su Twitter quando arriva un pettirosso. 💬 Il problema? La telecamera resta accesa e registra anche te, mentre lo scoiattolo che attraversa il prato fa scattare un upload. Nessuno spiega dove finiscono i dati, né chi li vede. 🐦🔍 Se l'hai già installata, controlla quanti accessi ha fatto oggi: sul tuo account, non in giardino."
+    }
+  },
+  "instagram_caption": "Un'alimentatrice per uccelli riconosce oltre 100 specie con l'IA e ti avvisa su Twitter quando arriva un pettirosso. 💬 Il problema? La telecamera resta accesa e registra anche te, mentre lo scoiattolo che attraversa il prato fa scattare un upload. Nessuno spiega dove finiscono i dati, né chi li vede. 🐦🔍 Se l'hai già installata, controlla quanti accessi ha fatto oggi: sul tuo account, non in giardino.",
+  "carousel_slides": [
+    {
+      "hook": "Sa cosa fai in giardino",
+      "description": "La telecamera resta accesa mentre twitta l'arrivo di un uccello. Registra anche te, senza spiegare dove finiscono i dati.",
+      "visual_hint": "occhio di una telecamera",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "surveillance camera lens"
+    },
+    {
+      "hook": "Riconosce 100 specie di uccelli",
+      "description": "L'IA identifica ogni volatile che passa e ti invia una notifica. Funziona, ma il costo è la tua privacy.",
+      "visual_hint": "uccello su ramo",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "bird feeder technology",
+      "image": "https://images.pexels.com/photos/15046584/pexels-photo-15046584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ogni scoiattolo fa scattare upload",
+      "description": "Qualsiasi movimento nel prato potrebbe inviare dati. Nessuno controlla il flusso in tempo reale.",
+      "visual_hint": "scoiattolo con smartphone",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "squirrel garden feeder",
+      "image": "https://images.pexels.com/photos/15779029/pexels-photo-15779029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "I dati finiscono a chi?",
+      "description": "L'app riconosce gli uccelli, ma non dice cosa fa con le registrazioni delle tue visite in giardino.",
+      "visual_hint": "dati che volano via",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "data transfer cloud",
+      "image": "https://images.pexels.com/photos/12072362/pexels-photo-12072362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controlla quanti accessi ha fatto oggi",
+      "description": "Se hai già installato Kiwibit, guarda il log. Poi chiediti chi altro ha visto quei video.",
+      "visual_hint": "log degli accessi",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone app log",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Solar-Roof-Beako-Lifestyle-Image-3.png?w=1200",
+  "savedAt": "2026-05-29T23:05:22.383Z",
+  "sourceId": "a205088c93838062d7303d566cdcaee9"
+}
