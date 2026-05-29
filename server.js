@@ -347,6 +347,12 @@ http.createServer((req, res) => {
   }
 
   /* ── Genera piano video on-demand: POST /api/generate-video-plan ── */
+  function extractScenesFromPlan(parsed) {
+    if (Array.isArray(parsed)) return parsed;
+    if (parsed && Array.isArray(parsed.scenes)) return parsed.scenes;
+    if (parsed && parsed.plan && Array.isArray(parsed.plan.scenes)) return parsed.plan.scenes;
+    throw new Error('Piano video non valido: impossibile trovare scenes[]');
+  }
   if (req.method === 'POST' && urlPath === '/api/generate-video-plan') {
     let body = '';
     req.on('data', chunk => { body += chunk; });
@@ -415,7 +421,7 @@ http.createServer((req, res) => {
           const raw = openaiRes.data.choices[0].message.content.trim().replace(/```[a-z]*\n?/g, '').trim();
           planData = JSON.parse(raw);
         } catch { throw new Error('OpenAI response not valid JSON'); }
-        const scenes = planData.scenes || [];
+        const scenes = extractScenesFromPlan(planData);
         if (!scenes.length) throw new Error('No scenes in response');
 
         // 5. Aggiorna scenes nel JSON articolo (sovrascrive quelle precedenti)

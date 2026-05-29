@@ -12,6 +12,54 @@ const SVG_FPS = 8; // unique SVG frames/sec — smooth stroke animation
 
 const SIZE_PX = { small: 130, medium: 210, large: 300 };
 
+const SUPPORTED_TYPES         = new Set(['circle', 'rect', 'arrow', 'check', 'persona', 'icon']);
+const ACTIVE_STROKE_WIDTH     = 7;
+const PERSISTENT_STROKE_WIDTH = 5;
+const PERSISTENT_OPACITY      = 0.55;
+
+// ─── Scene normalizer (safety net for legacy JSON plans) ─────────────────────
+function normalizeWhiteboardScene(scene, index = 0) {
+  const hasUsableElements =
+    Array.isArray(scene.elements) &&
+    scene.elements.length > 0 &&
+    scene.elements.every(el =>
+      el &&
+      SUPPORTED_TYPES.has(el.type) &&
+      el.position &&
+      typeof el.position.x === 'number' &&
+      typeof el.position.y === 'number'
+    );
+
+  const headline =
+    scene.headline      ||
+    scene.on_screen_text ||
+    scene.hook          ||
+    scene.caption       ||
+    `Scena ${index + 1}`;
+
+  const voiceover = scene.voiceover || scene.caption || headline;
+
+  if (hasUsableElements) {
+    return { ...scene, headline, voiceover, layout: scene.layout || 'centered' };
+  }
+
+  console.warn(`  ⚠️  [whiteboard] scena ${index + 1}: schema legacy, applico fallback automatico`);
+
+  return {
+    ...scene,
+    headline,
+    voiceover,
+    layout: 'top_down',
+    elements: [
+      { type: 'rect',   label: headline.slice(0, 28),                          position: { x: 50, y: 24 }, size: 'large',  reveal_order: 0 },
+      { type: 'arrow',  label: '',                                              position: { x: 50, y: 42 }, size: 'small',  reveal_order: 1 },
+      { type: 'circle', label: (scene.emphasis_word || 'Idea').slice(0, 18),   position: { x: 50, y: 56 }, size: 'medium', reveal_order: 2 },
+      { type: 'arrow',  label: '',                                              position: { x: 50, y: 68 }, size: 'small',  reveal_order: 3 },
+      { type: 'check',  label: (scene.caption || 'Da ricordare').slice(0, 24), position: { x: 50, y: 80 }, size: 'medium', reveal_order: 4 },
+    ],
+  };
+}
+
 // ─── Asset path generators (from spec) ───────────────────────────────────────
 const ASSETS = {
   arrow:   (x1, y1, x2, y2) => `M${x1},${y1} L${x2},${y2}`,
@@ -124,16 +172,20 @@ function buildLabel(el, info, progress) {
   if (!el.label || progress < 0.65) return '';
   const opacity = Math.min((progress - 0.65) / 0.35, 1).toFixed(2);
   const { cx, cy, s } = info;
-  let lx = cx, ly;
+  const fontSize = Math.max(30, Math.min(54, Math.round(s * 0.22)));
+
   switch (el.type) {
-    case 'circle':                      ly = cy + s * 0.42 + 58;  break;
-    case 'rect':                        ly = cy + s * 0.28 + 54;  break;
-    case 'check':   lx = cx + s * 0.6; ly = cy + s * 0.1;        break;
+    case 'rect':
+    case 'circle':
+      // Label inside the shape — no overlap with connecting arrows
+      return `<text x="${cx.toFixed(1)}" y="${cy.toFixed(1)}" font-family="Humor Sans,cursive" font-size="${fontSize}" fill="#1a1a1a" text-anchor="middle" dominant-baseline="middle" opacity="${opacity}">${esc(el.label)}</text>`;
+    case 'check':
+      return `<text x="${(cx + s * 0.6).toFixed(1)}" y="${(cy + s * 0.1).toFixed(1)}" font-family="Humor Sans,cursive" font-size="${fontSize}" fill="#1a1a1a" text-anchor="start" opacity="${opacity}">${esc(el.label)}</text>`;
     case 'persona':
     case 'icon':
-    default:                            ly = cy + s * 0.50 + 58;  break;
+    default:
+      return `<text x="${cx.toFixed(1)}" y="${(cy + s * 0.50 + 58).toFixed(1)}" font-family="Humor Sans,cursive" font-size="${fontSize}" fill="#1a1a1a" text-anchor="middle" opacity="${opacity}">${esc(el.label)}</text>`;
   }
-  return `<text x="${lx.toFixed(1)}" y="${ly.toFixed(1)}" font-family="sans-serif" font-size="44" font-weight="600" fill="#1a1a1a" text-anchor="middle" opacity="${opacity}">${esc(el.label)}</text>`;
 }
 
 // ─── SVG frame builder ────────────────────────────────────────────────────────
@@ -154,34 +206,52 @@ function buildSvg(scene, frameIdx, totalFrames) {
   const parts = [
     `<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920">`,
     `<rect width="1080" height="1920" fill="#ffffff"/>`,
-    `<text x="540" y="158" font-family="sans-serif" font-size="54" font-weight="700" fill="#1a1a1a" text-anchor="middle">${esc(headTxt)}</text>`,
+    `<text x="540" y="158" font-family="Humor Sans, cursive" font-size="58" fill="#1a1a1a" text-anchor="middle">${esc(headTxt)}</text>`,
   ];
 
   // Separator grows with headline
   if (headP > 0.05) {
     const lw = Math.round(headP * 820);
-    parts.push(`<line x1="${540 - lw / 2}" y1="185" x2="${540 + lw / 2}" y2="185" stroke="#cccccc" stroke-width="2"/>`);
+    parts.push(`<line x1="${540 - lw / 2}" y1="188" x2="${540 + lw / 2}" y2="190" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.25"/>`);
   }
 
+  // Pass 1: white fill (closed shapes only) → stroke animato → arrowhead
+  // Ordine SVG: freccia arriva "sotto" la forma successiva grazie al fill bianco
   for (const el of elements) {
-    const slot   = orders.indexOf(el.reveal_order ?? 0);
+    const slot    = orders.indexOf(el.reveal_order ?? 0);
     const elStart = HEAD_FRAC + slot * slotDur;
     const elProg  = Math.max(0, Math.min(1, (fp - elStart) / slotDur));
     if (elProg <= 0) continue;
 
     const isArrow = el.type === 'arrow';
     const info    = isArrow ? buildArrowPath(el, elements) : buildShapePath(el);
-    const dOffset = (info.len * (1 - elProg)).toFixed(1);
 
-    parts.push(
-      `<path d="${info.d}" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-dasharray="${info.len.toFixed(1)}" stroke-dashoffset="${dOffset}" stroke-linecap="round"/>`
-    );
-
-    if (isArrow) {
-      parts.push(buildArrowHead(info, elProg));
-    } else {
-      parts.push(buildLabel(el, info, elProg));
+    // White background fill per rect e circle — copre le frecce che passano "dietro"
+    if (el.type === 'rect') {
+      const { cx, cy, w, h } = info;
+      parts.push(`<rect x="${(cx - w / 2).toFixed(1)}" y="${(cy - h / 2).toFixed(1)}" width="${w.toFixed(1)}" height="${h.toFixed(1)}" fill="white" stroke="none"/>`);
+    } else if (el.type === 'circle') {
+      const r = (info.s * 0.4).toFixed(1);
+      parts.push(`<circle cx="${info.cx.toFixed(1)}" cy="${info.cy.toFixed(1)}" r="${r}" fill="white" stroke="none"/>`);
     }
+
+    const dOffset = (info.len * (1 - elProg)).toFixed(1);
+    parts.push(
+      `<path d="${info.d}" stroke="#1a1a1a" stroke-width="${ACTIVE_STROKE_WIDTH}" fill="none" stroke-dasharray="${info.len.toFixed(1)}" stroke-dashoffset="${dOffset}" stroke-linecap="round"/>`
+    );
+    if (isArrow) parts.push(buildArrowHead(info, elProg));
+  }
+
+  // Pass 2: tutte le label sopra i path
+  for (const el of elements) {
+    if (el.type === 'arrow') continue;
+    const slot    = orders.indexOf(el.reveal_order ?? 0);
+    const elStart = HEAD_FRAC + slot * slotDur;
+    const elProg  = Math.max(0, Math.min(1, (fp - elStart) / slotDur));
+    if (elProg <= 0) continue;
+
+    const info = buildShapePath(el);
+    parts.push(buildLabel(el, info, elProg));
   }
 
   parts.push('</svg>');
@@ -307,7 +377,7 @@ async function render(article, scenes, agentConfig, outputPath) {
     const clipPaths = [];
 
     for (let i = 0; i < scenes.length; i++) {
-      const scene     = scenes[i];
+      const scene     = normalizeWhiteboardScene(scenes[i], i);
       const audioPath = path.join(audioDir, `${slug}_wb${i}.mp3`);
       const clipPath  = path.join(clipsDir, `${slug}_wb${i}.mp4`);
       const framesDir = path.join(rendDir, `wb-frames-${i}`);
@@ -342,25 +412,61 @@ async function render(article, scenes, agentConfig, outputPath) {
 
 // ─── generatePlanPrompt ───────────────────────────────────────────────────────
 const generatePlanPrompt = `
-Articolo: {{title}}
-Testo: {{video_script}}
+Article: {{title}}
+Text: {{video_script}}
 
-Genera 5 scene per un video whiteboard in verticale 9:16.
-Per ogni scena restituisci JSON con:
-  - voiceover: (stringa, max 22 parole)
-  - duration_sec: (intero 6-9)
-  - headline: (stringa, max 7 parole — testo scritto progressivamente in cima)
-  - elements: (array di 2-4 elementi, ognuno con:
-      type: "circle" | "rect" | "arrow" | "check" | "persona"
-      label: stringa, max 4 parole (o stringa vuota per frecce)
-      position: { x: number 0-100, y: number 0-100 }
-      size: "small" | "medium" | "large"
-      reveal_order: intero 0-N
-    )
-  - layout: ("top_down" | "flow_left_right" | "centered" | "comparison")
+Generate ONLY valid JSON. No markdown, no explanations, no extra text.
 
-Per layout "top_down": imposta x=50 per tutti gli elementi, y crescente da 15 a 85.
-Le frecce (type="arrow") collegano l'elemento precedente (reveal_order-1) al successivo (reveal_order+1).
+Generate exactly 5 scenes for a vertical 9:16 whiteboard video.
+
+DO NOT use these fields:
+- hook
+- on_screen_text
+- visual_direction
+- caption
+- tone
+- emphasis_word
+
+Every scene MUST have exactly these fields:
+- scene: progressive number 1 to 5
+- voiceover: string in English, maximum 22 words
+- duration_sec: integer between 6 and 9
+- headline: string in English, maximum 7 words
+- layout: one of "top_down", "flow_left_right", "centered", "comparison"
+- elements: array of 3 to 5 elements
+
+Every element in elements MUST have:
+- type: one of "circle", "rect", "arrow", "check", "persona"
+- label: string maximum 3 words, empty string if type is "arrow"
+- position: { "x": number 0-100, "y": number 0-100 }
+- size: one of "small", "medium", "large"
+- reveal_order: progressive integer starting from 0
+
+Rules:
+- At least one arrow per scene
+- Arrows must have reveal_order between two non-arrow elements
+- For layout "top_down": use x=50, y increasing (e.g. 18, 33, 50, 67, 82)
+- For layout "flow_left_right": use y=50, x increasing
+- Labels go inside the shape — keep them short (1-3 words)
+- Voiceover must be written in English
+
+Expected format:
+{
+  "scenes": [
+    {
+      "scene": 1,
+      "voiceover": "...",
+      "duration_sec": 7,
+      "headline": "...",
+      "layout": "top_down",
+      "elements": [
+        { "type": "rect",   "label": "...", "position": { "x": 50, "y": 18 }, "size": "medium", "reveal_order": 0 },
+        { "type": "arrow",  "label": "",    "position": { "x": 50, "y": 33 }, "size": "small",  "reveal_order": 1 },
+        { "type": "circle", "label": "...", "position": { "x": 50, "y": 50 }, "size": "large",  "reveal_order": 2 }
+      ]
+    }
+  ]
+}
 `.trim();
 
 module.exports = {
