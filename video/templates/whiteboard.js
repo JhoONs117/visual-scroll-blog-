@@ -16,6 +16,8 @@ const SUPPORTED_TYPES         = new Set(['circle', 'rect', 'arrow', 'check', 'pe
 const ACTIVE_STROKE_WIDTH     = 7;
 const PERSISTENT_STROKE_WIDTH = 5;
 const PERSISTENT_OPACITY      = 0.55;
+const ERASE_DURATION          = 1.2;  // seconds
+const ERASE_FPS               = 25;   // fps for erase frames (no audio sync needed)
 
 // ─── Scene normalizer (safety net for legacy JSON plans) ─────────────────────
 function normalizeWhiteboardScene(scene, index = 0) {
@@ -395,6 +397,44 @@ async function renderScene(i, scene, audioPath, clipPath, framesDir) {
   cleanFramesDir(framesDir);
 }
 
+// ─── Erase transition between scenes ─────────────────────────────────────────
+function buildEraseSvg(scene, eraseProgress) {
+  // Fully-drawn scene (fp=1), then a diagonal white polygon sweeps left→right
+  const base   = buildSvg({ ...scene, persistent_elements: [] }, 1, 1);
+  const w      = Math.round(eraseProgress * 1080);
+  const skew   = Math.round(eraseProgress * 140); // diagonal leading edge
+  const pts    = `0,0 ${w + skew},0 ${w},1920 0,1920`;
+  return base.replace('</svg>', `<polygon points="${pts}" fill="white"/>\n</svg>`);
+}
+
+async function renderEraseClip(scene, eraseClipPath) {
+  const framesDir = eraseClipPath.replace('.mp4', '_ef');
+  const nFrames   = Math.ceil(ERASE_DURATION * ERASE_FPS);
+  fs.mkdirSync(framesDir, { recursive: true });
+
+  for (let f = 0; f < nFrames; f++) {
+    const progress = nFrames > 1 ? f / (nFrames - 1) : 1;
+    writeFrame(buildEraseSvg(scene, progress), framesDir, f);
+  }
+
+  // Silent clip — anullsrc provides empty audio so concat mixes cleanly
+  const r = spawnSync('ffmpeg', [
+    '-y',
+    '-framerate', String(ERASE_FPS),
+    '-i', path.join(framesDir, 'frame_%04d.png'),
+    '-f', 'lavfi', '-i', 'anullsrc=channel_layout=stereo:sample_rate=44100',
+    '-c:v', 'libx264', '-preset', 'fast', '-pix_fmt', 'yuv420p',
+    '-c:a', 'aac',
+    '-t', String(ERASE_DURATION),
+    '-shortest',
+    eraseClipPath,
+  ], { stdio: 'pipe' });
+
+  cleanFramesDir(framesDir);
+  if (r.status !== 0)
+    throw new Error('erase clip: ' + (r.stderr?.toString()?.split('\n').slice(-3).join(' ') || 'error'));
+}
+
 // ─── Entry point ──────────────────────────────────────────────────────────────
 async function render(article, scenes, agentConfig, outputPath) {
   try {
@@ -408,15 +448,12 @@ async function render(article, scenes, agentConfig, outputPath) {
     fs.mkdirSync(clipsDir, { recursive: true });
     fs.mkdirSync(audioDir, { recursive: true });
 
-    const clipPaths           = [];
-    const accumulatedElements = [];
+    const clipPaths = [];
 
     for (let i = 0; i < scenes.length; i++) {
       const scene = normalizeWhiteboardScene(scenes[i], i);
-
-      // Tag each element with its scene index — prevents cross-scene arrow resolution
       scene.elements = scene.elements.map(el => ({ ...el, _sceneIdx: i }));
-      scene.persistent_elements = [...accumulatedElements];
+      scene.persistent_elements = []; // erase handles transitions — no accumulation
 
       const audioPath = path.join(audioDir, `${slug}_wb${i}.mp3`);
       const clipPath  = path.join(clipsDir, `${slug}_wb${i}.mp4`);
@@ -427,14 +464,20 @@ async function render(article, scenes, agentConfig, outputPath) {
       try {
         await renderScene(i, scene, audioPath, clipPath, framesDir);
         clipPaths.push(clipPath);
-        accumulatedElements.push(...scene.elements); // only on success
+
+        // Erase transition after every scene except the last
+        if (i < scenes.length - 1) {
+          console.log(`  erase ${i + 1}→${i + 2}...`);
+          const eraseClipPath = path.join(clipsDir, `${slug}_wb${i}_erase.mp4`);
+          await renderEraseClip(scene, eraseClipPath);
+          clipPaths.push(eraseClipPath);
+        }
       } catch (e) {
         console.warn(`  ⚠️  scena ${i + 1} fallita: ${e.message.slice(0, 100)}`);
         try {
           await buildBlackClip(clipPath, scene.duration_sec || 6);
           clipPaths.push(clipPath);
         } catch {}
-        // failed scene: do NOT add its elements to accumulatedElements
       }
     }
 
