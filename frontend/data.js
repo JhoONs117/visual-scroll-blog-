@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meta-is-reportedly-developing-an-ai-pendant",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta is reportedly developing an AI pendant",
+    "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+    "pubDate": "Sat, 30 May 2026 15:59:58 +0000",
+    "slides": [
+      "Meta sta lavorando a un ciondolo AI: ne hai davvero bisogno?",
+      "Indossabile, non un visore—nessuno se lo aspetta.",
+      "I prototipi interni puntano a sostituire lo smartphone.",
+      "Se funziona, cambierà come interagisci con le informazioni.",
+      "Oggi decidi: aspettare o testare alternative già pronte?"
+    ],
+    "thread_text": [
+      "I prototipi interni di Meta puntano a sostituire lo smartphone con un ciondolo AI. Ma nessuno se lo aspetta, perché non è un visore.",
+      "Meta sta lavorando a questo indossabile da anni. L'obiettivo? Liberarti dallo schermo. Sì, sembra fantascienza, ma i test sono già in corso.",
+      "Se funziona, il ciondolo non sarà solo un accessorio: cambierà il modo in cui cerchi informazioni, fai acquisti, comunichi. Sempre attivo, sempre con te.",
+      "La domanda ora è: ne hai davvero bisogno? Oppure è un'altra promessa che si scontra con la realtà della batteria e della privacy?",
+      "Oggi hai due strade: aspettare il ciondolo di Meta, o testare alternative già pronte che fanno meno scalpore ma funzionano. Scegli."
+    ],
+    "video_script": [
+      "Meta progetta un ciondolo AI per sostituire lo smartphone.",
+      "Non è un visore, nessuno se lo aspetta.",
+      "I prototipi interni sono già in fase di test.",
+      "Se funziona, cambi modo di interagire con le informazioni.",
+      "Ora tocca a te: aspettare o provare già oggi?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "I prototipi interni di Meta puntano a sostituire lo smartphone con un ciondolo AI. Ma nessuno se lo aspetta, perché non è un visore.",
+          "Meta sta lavorando a questo indossabile da anni. L'obiettivo? Liberarti dallo schermo. Sì, sembra fantascienza, ma i test sono già in corso.",
+          "Se funziona, il ciondolo non sarà solo un accessorio: cambierà il modo in cui cerchi informazioni, fai acquisti, comunichi. Sempre attivo, sempre con te.",
+          "La domanda ora è: ne hai davvero bisogno? Oppure è un'altra promessa che si scontra con la realtà della batteria e della privacy?",
+          "Oggi hai due strade: aspettare il ciondolo di Meta, o testare alternative già pronte che fanno meno scalpore ma funzionano. Scegli."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta progetta un ciondolo AI per sostituire lo smartphone.",
+          "Non è un visore, nessuno se lo aspetta.",
+          "I prototipi interni sono già in fase di test.",
+          "Se funziona, cambi modo di interagire con le informazioni.",
+          "Ora tocca a te: aspettare o provare già oggi?"
+        ]
+      },
+      "instagram": {
+        "caption": "Meta sta testando internamente un ciondolo AI indossabile, progettato per sostituire lo smartphone senza usare un visore. 🧠 I prototipi mirano a liberarti dallo schermo, restando sempre attivo per cercare informazioni, fare acquisti o comunicare con comandi vocali. In pratica, significa non tirare più fuori il telefono ogni due minuti. 🔋 Ma la batteria e la privacy restano ostacoli concreti. Tu aspetteresti il ciondolo o proveresti già un'alternativa pronta oggi?"
+      }
+    },
+    "instagram_caption": "Meta sta testando internamente un ciondolo AI indossabile, progettato per sostituire lo smartphone senza usare un visore. 🧠 I prototipi mirano a liberarti dallo schermo, restando sempre attivo per cercare informazioni, fare acquisti o comunicare con comandi vocali. In pratica, significa non tirare più fuori il telefono ogni due minuti. 🔋 Ma la batteria e la privacy restano ostacoli concreti. Tu aspetteresti il ciondolo o proveresti già un'alternativa pronta oggi?",
+    "carousel_slides": [
+      {
+        "hook": "Addio smartphone? Meta ci prova",
+        "description": "I prototipi interni di Meta puntano a sostituire lo smartphone con un ciondolo AI. Non è un visore.",
+        "visual_hint": "Ciondolo futuristico su tavolo",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "futuristic pendant gadget"
+      },
+      {
+        "hook": "Liberarti dallo schermo",
+        "description": "Meta lavora da anni a questo indossabile. Obiettivo: niente più schermo. Test già in corso.",
+        "visual_hint": "Mano tiene piccolo dispositivo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "hand holding device",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sempre attivo, sempre con te",
+        "description": "Non un semplice accessorio: cambierà come cerchi info, fai acquisti, comunichi. Sempre attivo.",
+        "visual_hint": "Primo piano sensori luminosi",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "led sensor closeup",
+        "image": "https://images.pexels.com/photos/24889674/pexels-photo-24889674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ne hai davvero bisogno?",
+        "description": "La domanda è: promessa utile o scontro con realtà di batteria e privacy?",
+        "visual_hint": "Persona tocca mento pensierosa",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person thinking chin touch",
+        "image": "https://images.pexels.com/photos/5898448/pexels-photo-5898448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Aspettare o agire ora?",
+        "description": "Due strade: attendere Meta o testare alternative già pronte che funzionano oggi. Scegli.",
+        "visual_hint": "Due strade divergenti strada",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "road fork diverging paths",
+        "image": "https://images.pexels.com/photos/11273641/pexels-photo-11273641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+    "savedAt": "2026-05-30T19:01:05.528Z",
+    "sourceId": "361533e64698724c96edb2ffafa970f6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "i-put-google-s-24-7-ai-assistant-gemini-spark-to-w",
     "prompt_version": "1.0.0",
     "status": "published",
