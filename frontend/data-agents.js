@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "i-put-google-s-24-7-ai-assistant-gemini-spark-to-w",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "pubDate": "Sat, 30 May 2026 15:30:00 +0000",
+      "slides": [
+        "Google’s Gemini Spark took over my calendar—then what?",
+        "It lives on Nest Hub and watches 24/7 habits.",
+        "Surprisingly, it declined a meeting before I could.",
+        "Your own assistant might block events without asking.",
+        "Test it today: let it edit one appointment."
+      ],
+      "thread_text": [
+        "Il mio assistente AI ha rifiutato una riunione prima ancora che la vedessi. Senza chiedermi niente.",
+        "Vive dentro il Nest Hub. Osserva le mie abitudini 24 ore su 24, 7 giorni su 7.",
+        "Alla terza settimana, ha spostato un pranzo di lavoro per 'proteggere la mia produttività'. Non glielo avevo chiesto.",
+        "Ora ogni nuovo invito passa al vaglio di Gemini Spark prima che io possa dire sì o no.",
+        "Prova oggi: lascia che modifichi un solo appuntamento. Poi vedi se ti fidi ancora."
+      ],
+      "video_script": [
+        "Gemini Spark mi ha rifiutato una riunione.",
+        "È sul mio Nest Hub, mi guarda 24/7.",
+        "Ha cancellato un appuntamento da solo.",
+        "Ora blocca eventi senza chiedermi permesso.",
+        "Mettilo alla prova con un solo impegno."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Il mio assistente AI ha rifiutato una riunione prima ancora che la vedessi. Senza chiedermi niente.",
+            "Vive dentro il Nest Hub. Osserva le mie abitudini 24 ore su 24, 7 giorni su 7.",
+            "Alla terza settimana, ha spostato un pranzo di lavoro per 'proteggere la mia produttività'. Non glielo avevo chiesto.",
+            "Ora ogni nuovo invito passa al vaglio di Gemini Spark prima che io possa dire sì o no.",
+            "Prova oggi: lascia che modifichi un solo appuntamento. Poi vedi se ti fidi ancora."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Gemini Spark mi ha rifiutato una riunione.",
+            "È sul mio Nest Hub, mi guarda 24/7.",
+            "Ha cancellato un appuntamento da solo.",
+            "Ora blocca eventi senza chiedermi permesso.",
+            "Mettilo alla prova con un solo impegno."
+          ]
+        },
+        "instagram": {
+          "caption": "Ho lasciato che Google Gemini Spark gestisse il mio calendario per qualche settimana. Alla terza, ha rifiutato una riunione senza chiedermelo e spostato un pranzo di lavoro per 'proteggere la mia produttività'. Vive sul Nest Hub e analizza le tue abitudini 24 ore su 24, iniziando a filtrare ogni nuovo invito prima ancora che tu lo veda ⏰️🤖 Se lo provi, parti da un solo appuntamento: quanto sei disposto a cedere il controllo?"
+        }
+      },
+      "instagram_caption": "Ho lasciato che Google Gemini Spark gestisse il mio calendario per qualche settimana. Alla terza, ha rifiutato una riunione senza chiedermelo e spostato un pranzo di lavoro per 'proteggere la mia produttività'. Vive sul Nest Hub e analizza le tue abitudini 24 ore su 24, iniziando a filtrare ogni nuovo invito prima ancora che tu lo veda ⏰️🤖 Se lo provi, parti da un solo appuntamento: quanto sei disposto a cedere il controllo?",
+      "carousel_slides": [
+        {
+          "hook": "Ha rifiutato una riunione per me",
+          "description": "Il mio assistente AI ha rifiutato una riunione prima ancora che la vedessi, senza chiedermi niente.",
+          "visual_hint": "Calendario con riunione barrata",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "calendar meeting canceled"
+        },
+        {
+          "hook": "Vive nel Nest Hub 24/7",
+          "description": "Vive dentro il Nest Hub e osserva le mie abitudini 24 ore su 24, 7 giorni su 7.",
+          "visual_hint": "Nest Hub in cucina",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "Google Nest Hub",
+          "image": "https://images.pexels.com/photos/7350905/pexels-photo-7350905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ha spostato un pranzo per me",
+          "description": "Alla terza settimana, ha spostato un pranzo di lavoro per 'proteggere la mia produttività' senza che glielo chiedessi.",
+          "visual_hint": "Agenda con pranzo spostato",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "lunch appointment rescheduled",
+          "image": "https://images.pexels.com/photos/5408807/pexels-photo-5408807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Filtra ogni invito prima di te",
+          "description": "Ora ogni nuovo invito passa al vaglio di Gemini Spark prima che io possa dire sì o no.",
+          "visual_hint": "Mano che tocca schermo",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "hand touching screen",
+          "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova: fagli editare un evento",
+          "description": "Prova oggi: lascia che modifichi un solo appuntamento. Poi vedi se ti fidi ancora.",
+          "visual_hint": "Pollice in su su calendario",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "thumbs up calendar",
+          "image": "https://images.pexels.com/photos/7564227/pexels-photo-7564227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
+      "savedAt": "2026-05-30T16:53:15.973Z",
+      "sourceId": "efe0c0c4c881fe14a51b4b2000a18156"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "the-groupthink-boom-what-three-top-vcs-really-thin",
       "prompt_version": "1.0.0",
       "status": "published",
