@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "the-groupthink-boom-what-three-top-vcs-really-thin",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
+      "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "pubDate": "Sat, 30 May 2026 14:49:27 +0000",
+      "slides": [
+        "Three top VCs share a secret fear about AI mania.",
+        "Their own portfolios mirror the hype they warn against.",
+        "One called the biggest AI startup 'a ticking clock'.",
+        "You fundraise at the peak—then face impossible metrics.",
+        "Read their full off-camera chat before your next pitch."
+      ],
+      "thread_text": [
+        "Un venture capitalist ha definito la più grande startup AI 'un orologio che ticchetta'. Non per il suo successo. Per il momento in cui esploderà.",
+        "Gli stessi fondi che mettono in guardia dalla bolla AI investono come se non ci fosse un domani. I loro portafogli sono la prova vivente del conflitto d'interessi.",
+        "Raccogli capitali al picco dell'euforia. Poi devi mostrare metriche impossibili da raggiungere. È la trappola perfetta per fondatori.",
+        "Tre top VC lo hanno ammesso fuori dalle telecamere. Il loro incubo segreto: di aver gonfiato una bolla che loro stessi non sanno come gestire.",
+        "Prima del tuo prossimo pitch, leggi la trascrizione integrale del loro off-camera. Costa meno di una cena e potrebbe salvarti la company."
+      ],
+      "video_script": [
+        "Hanno chiamato la startup più grande un orologio.",
+        "I fondi dicono attenti alla bolla.",
+        "Ma i loro soldi fanno il contrario.",
+        "Raccogli ora, metri che non puoi raggiungere.",
+        "Leggi il loro off-camera prima del tuo pitch."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Un venture capitalist ha definito la più grande startup AI 'un orologio che ticchetta'. Non per il suo successo. Per il momento in cui esploderà.",
+            "Gli stessi fondi che mettono in guardia dalla bolla AI investono come se non ci fosse un domani. I loro portafogli sono la prova vivente del conflitto d'interessi.",
+            "Raccogli capitali al picco dell'euforia. Poi devi mostrare metriche impossibili da raggiungere. È la trappola perfetta per fondatori.",
+            "Tre top VC lo hanno ammesso fuori dalle telecamere. Il loro incubo segreto: di aver gonfiato una bolla che loro stessi non sanno come gestire.",
+            "Prima del tuo prossimo pitch, leggi la trascrizione integrale del loro off-camera. Costa meno di una cena e potrebbe salvarti la company."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hanno chiamato la startup più grande un orologio.",
+            "I fondi dicono attenti alla bolla.",
+            "Ma i loro soldi fanno il contrario.",
+            "Raccogli ora, metri che non puoi raggiungere.",
+            "Leggi il loro off-camera prima del tuo pitch."
+          ]
+        },
+        "instagram": {
+          "caption": "Un top VC ha appena definito la startup AI più famosa \"un orologio che ticchetta\". Il conto alla rovescia non è per il successo, ma per il momento in cui esploderà. ⏰\n\nGli stessi fondi che mettono in guardia dalla bolla investono come se fosse l'ultimo giro. I loro portafogli dimostrano un conflitto d'interessi pazzesco: raccogli capitali al picco dell'euforia e poi devi inseguire metriche impossibili. È la trappola perfetta per chi fonda una company. 📉\n\nPrima del tuo prossimo pitch, leggiti la trascrizione integrale di quel fuori onda. Costa meno di una cena e potrebbe salvarti. 🤷🏻‍♂️"
+        }
+      },
+      "instagram_caption": "Un top VC ha appena definito la startup AI più famosa \"un orologio che ticchetta\". Il conto alla rovescia non è per il successo, ma per il momento in cui esploderà. ⏰\n\nGli stessi fondi che mettono in guardia dalla bolla investono come se fosse l'ultimo giro. I loro portafogli dimostrano un conflitto d'interessi pazzesco: raccogli capitali al picco dell'euforia e poi devi inseguire metriche impossibili. È la trappola perfetta per chi fonda una company. 📉\n\nPrima del tuo prossimo pitch, leggiti la trascrizione integrale di quel fuori onda. Costa meno di una cena e potrebbe salvarti. 🤷🏻‍♂️",
+      "carousel_slides": [
+        {
+          "hook": "Una bomba a orologeria",
+          "description": "Un top VC ha definito la più grande startup AI un orologio che ticchetta: non per il successo, ma per quando esploderà.",
+          "visual_hint": "orologio a sveglia dinamite",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "alarm clock explosion"
+        },
+        {
+          "hook": "Predicano bene, investono male",
+          "description": "Gli stessi fondi che mettono in guardia dalla bolla AI investono come se non ci fosse un domani. I loro portafogli sono la prova.",
+          "visual_hint": "mani che tengono soldi",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "hand holding money",
+          "image": "https://images.pexels.com/photos/5909819/pexels-photo-5909819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "La trappola perfetta",
+          "description": "Raccogli capitali al picco dell'euforia. Poi devi mostrare metriche impossibili. Trappola perfetta per fondatori.",
+          "visual_hint": "grafico a picco montagna",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hanno gonfiato la bolla",
+          "description": "Tre top VC lo hanno ammesso off-camera: il loro incubo segreto è di aver gonfiato una bolla che loro stessi non sanno gestire.",
+          "visual_hint": "sedia vuota, telecamera spenta",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "empty chair camera",
+          "image": "https://images.pexels.com/photos/18338529/pexels-photo-18338529.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Leggi la confessione integrale",
+          "description": "Prima del tuo prossimo pitch, leggi la trascrizione off-camera. Costa meno di una cena e potrebbe salvarti la company.",
+          "visual_hint": "trascrizione su foglio",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "document paper text",
+          "image": "https://images.pexels.com/photos/7841413/pexels-photo-7841413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/SVC-Athens-2.jpg?w=800",
+      "savedAt": "2026-05-30T14:59:56.206Z",
+      "sourceId": "1091c10f9199a98c09e6c2dee75c523f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "coders-are-refusing-to-work-without-ai-and-that-co",
       "prompt_version": "1.0.0",
       "status": "published",
