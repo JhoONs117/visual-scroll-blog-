@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "coders-are-refusing-to-work-without-ai-and-that-co",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Coders are refusing to work without AI — and that could come back to bite them ",
+  "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+  "pubDate": "Fri, 29 May 2026 22:14:22 +0000",
+  "slides": [
+    "Rifiutano di scrivere codice senza AI?",
+    "I manager notano già un calo di autonomia.",
+    "Più usano AI, meno capiscono le basi.",
+    "Chi impara solo da AI resta fragile senza rete.",
+    "Testa ora un bug senza AI: misuri il divario."
+  ],
+  "thread_text": [
+    "Più usano l’AI generativa, meno capiscono cosa c’è sotto. Le basi del codice stanno sparendo dal cervello di chi programma.",
+    "I manager lo stanno già notando. I junior chiedono AI anche per fix che prima facevano da soli. L’autonomia cala visibilmente.",
+    "Il problema è che chi impara solo con l’AI non costruisce una mappa mentale del codice. Senza rete, è fragile. Non sa da dove partire.",
+    "La tensione più alta adesso è questa: un senior senza AI risolve in 10 minuti. Un junior con AI, forse mai. Il divario non si vede finché non stacchi la spina.",
+    "Fai un test: domani mattina togli l’AI per un bug solo. Cronometra quanto ci metti. Quanto ci mette il tuo collega. Il gap è il tuo vero costo nascosto."
+  ],
+  "video_script": [
+    "Se usi AI per ogni riga di codice, attento.",
+    "I manager vedono già il calo di autonomia.",
+    "Più usi AI, meno capisci le basi.",
+    "Chi impara solo da AI è fragile senza rete.",
+    "Fai un test: spegni l’AI e misura il divario."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Più usano l’AI generativa, meno capiscono cosa c’è sotto. Le basi del codice stanno sparendo dal cervello di chi programma.",
+        "I manager lo stanno già notando. I junior chiedono AI anche per fix che prima facevano da soli. L’autonomia cala visibilmente.",
+        "Il problema è che chi impara solo con l’AI non costruisce una mappa mentale del codice. Senza rete, è fragile. Non sa da dove partire.",
+        "La tensione più alta adesso è questa: un senior senza AI risolve in 10 minuti. Un junior con AI, forse mai. Il divario non si vede finché non stacchi la spina.",
+        "Fai un test: domani mattina togli l’AI per un bug solo. Cronometra quanto ci metti. Quanto ci mette il tuo collega. Il gap è il tuo vero costo nascosto."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Se usi AI per ogni riga di codice, attento.",
+        "I manager vedono già il calo di autonomia.",
+        "Più usi AI, meno capisci le basi.",
+        "Chi impara solo da AI è fragile senza rete.",
+        "Fai un test: spegni l’AI e misura il divario."
+      ]
+    },
+    "instagram": {
+      "caption": "Alcuni sviluppatori junior rifiutano già di scrivere codice senza AI generativa 🚨. I manager registrano un calo netto dell'autonomia: chi prima risolveva un bug da solo, oggi chiede aiuto alla macchina anche per fix semplici. Il problema? Più usano l’AI, meno capiscono le basi e senza una mappa mentale del codice restano fragili se salta la rete ⚠️. Per chi lavora in team, questo significa un divario tecnico che emerge solo quando si stacca la spina. Domani prova a cronometrare quanto impieghi a risolvere un bug senza AI ⏱️ — il gap è il tuo vero costo nascosto?"
+    }
+  },
+  "instagram_caption": "Alcuni sviluppatori junior rifiutano già di scrivere codice senza AI generativa 🚨. I manager registrano un calo netto dell'autonomia: chi prima risolveva un bug da solo, oggi chiede aiuto alla macchina anche per fix semplici. Il problema? Più usano l’AI, meno capiscono le basi e senza una mappa mentale del codice restano fragili se salta la rete ⚠️. Per chi lavora in team, questo significa un divario tecnico che emerge solo quando si stacca la spina. Domani prova a cronometrare quanto impieghi a risolvere un bug senza AI ⏱️ — il gap è il tuo vero costo nascosto?",
+  "carousel_slides": [
+    {
+      "hook": "Il codice sta sparendo dal cervello",
+      "description": "Più usano AI, meno capiscono le basi. Il sapere tecnico si dissolve.",
+      "visual_hint": "cervello con codice che svanisce",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "brain circuit board"
+    },
+    {
+      "hook": "Manager: autonomia in calo nei junior",
+      "description": "Chiedono AI anche per fix semplici. L'autonomia cala visibilmente.",
+      "visual_hint": "manager che osserva schermo vuoto",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office workers desks",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Mappa mentale del codice? Assente",
+      "description": "Chi impara solo con AI non costruisce una mappa. Senza rete resta fragile.",
+      "visual_hint": "rete neurale con nodi vuoti",
+      "layout_type": "sensor-zoom",
+      "icon": "tag",
+      "image_query": "neural network nodes",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il divario esplode quando stacchi la spina",
+      "description": "Senior senza AI risolve in 10 minuti. Junior con AI forse mai.",
+      "visual_hint": "mano che stacca cavo di alimentazione",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "hand unplugging cable",
+      "image": "https://images.pexels.com/photos/5882594/pexels-photo-5882594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Testa il bug senza AI domani",
+      "description": "Cronometra quanto ci metti. Il gap è il tuo vero costo nascosto.",
+      "visual_hint": "cronometro su codice fermo",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "stopwatch code screen",
+      "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2021/06/bee_tongue.jpg?resize=1200,840",
+  "savedAt": "2026-05-30T02:13:32.173Z",
+  "sourceId": "62b1c27465337c25fe10546461e91d3a"
+}
