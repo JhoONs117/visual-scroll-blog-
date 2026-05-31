@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "erin-brockovich-takes-aim-at-data-center-secrecy",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Erin Brockovich takes aim at data center secrecy",
+      "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "pubDate": "Sun, 31 May 2026 21:05:14 +0000",
+      "slides": [
+        "Erin Brockovich sfida il silenzio dei data center, cosa nascondono?",
+        "Emergono documenti su inquinamento nascosto da anni.",
+        "L’acqua potabile di intere comunità è già contaminata.",
+        "I residenti possono richiedere test indipendenti ora.",
+        "Non aspettare l’autorità: verifica la tua acqua oggi."
+      ],
+      "thread_text": [
+        "L'acqua potabile di intere comunità è già contaminata. E nessuno lo dice.",
+        "I data center consumano acqua come se fosse infinita. Ma nessuno controlla dove finisce quella sporca.",
+        "Documenti interni mostrano che l'inquinamento era noto da anni. E nascosto.",
+        "Erin Brockovich ha aperto un fronte. I residenti possono già richiedere test indipendenti.",
+        "Non aspettare l'autorità. Verifica la tua acqua oggi. Costa meno di quanto pensi."
+      ],
+      "video_script": [
+        "Hai mai pensato a cosa bevono i tuoi figli?",
+        "I data center consumano acqua come se non ci fosse un domani.",
+        "Documenti interni mostrano che lo sapevano da anni.",
+        "Ora puoi fare un test indipendente sulla tua acqua.",
+        "Non aspettare. Fallo oggi."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "L'acqua potabile di intere comunità è già contaminata. E nessuno lo dice.",
+            "I data center consumano acqua come se fosse infinita. Ma nessuno controlla dove finisce quella sporca.",
+            "Documenti interni mostrano che l'inquinamento era noto da anni. E nascosto.",
+            "Erin Brockovich ha aperto un fronte. I residenti possono già richiedere test indipendenti.",
+            "Non aspettare l'autorità. Verifica la tua acqua oggi. Costa meno di quanto pensi."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hai mai pensato a cosa bevono i tuoi figli?",
+            "I data center consumano acqua come se non ci fosse un domani.",
+            "Documenti interni mostrano che lo sapevano da anni.",
+            "Ora puoi fare un test indipendente sulla tua acqua.",
+            "Non aspettare. Fallo oggi."
+          ]
+        },
+        "instagram": {
+          "caption": "Erin Brockovich ha appena aperto un fronte diretto contro i **data center**: documenti interni provano che l’inquinamento delle falde era noto da anni ed è stato nascosto. 💧 L’acqua potabile di intere comunità è già contaminata, ma nessuno lo dice — e i consumi idrici dei server vengono trattati come segreti industriali. ⚠️ Ora puoi richiedere un **test indipendente** per la tua acqua, senza aspettare le autorità. Quanto è sicura quella che bevi?"
+        }
+      },
+      "instagram_caption": "Erin Brockovich ha appena aperto un fronte diretto contro i **data center**: documenti interni provano che l’inquinamento delle falde era noto da anni ed è stato nascosto. 💧 L’acqua potabile di intere comunità è già contaminata, ma nessuno lo dice — e i consumi idrici dei server vengono trattati come segreti industriali. ⚠️ Ora puoi richiedere un **test indipendente** per la tua acqua, senza aspettare le autorità. Quanto è sicura quella che bevi?",
+      "carousel_slides": [
+        {
+          "hook": "La tua acqua è già contaminata?",
+          "description": "L'acqua potabile di intere comunità è già contaminata. E nessuno lo dice.",
+          "visual_hint": "bicchiere acqua torbida",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "contaminated glass water"
+        },
+        {
+          "hook": "Documenti nascosti per anni",
+          "description": "Documenti interni mostrano che l'inquinamento era noto da anni. E nascosto.",
+          "visual_hint": "documenti timbro confidenziale",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "confidential documents stack",
+          "image": "https://images.pexels.com/photos/8371710/pexels-photo-8371710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Dove finisce l'acqua sporca?",
+          "description": "I data center consumano acqua come se fosse infinita. Ma nessuno controlla dove finisce quella sporca.",
+          "visual_hint": "raffreddamento server vapore",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "server cooling steam",
+          "image": "https://images.pexels.com/photos/6804098/pexels-photo-6804098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test indipendenti ora disponibili",
+          "description": "Erin Brockovich ha aperto un fronte. I residenti possono già richiedere test indipendenti.",
+          "visual_hint": "Erin Brockovich primo piano",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "Erin Brockovich portrait",
+          "image": "https://images.pexels.com/photos/14389589/pexels-photo-14389589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Verifica la tua acqua oggi",
+          "description": "Non aspettare l'autorità. Verifica la tua acqua oggi. Costa meno di quanto pensi.",
+          "visual_hint": "kit test acqua e rubinetto",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "water test kit tap",
+          "image": "https://images.pexels.com/photos/9574319/pexels-photo-9574319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+      "savedAt": "2026-05-31T22:52:06.583Z",
+      "sourceId": "6e2aa85b95d5104aec0e409345f87419"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "-this-is-fine-artist-kc-green-reaches-agreement-wi",
       "prompt_version": "1.0.0",
       "status": "published",
