@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "-this-is-fine-artist-kc-green-reaches-agreement-wi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
+    "link": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
+    "pubDate": "Sun, 31 May 2026 18:28:17 +0000",
+    "slides": [
+      "Un artista ha appena ceduto la sua opera più famosa?",
+      "L'autore del meme 'This is fine' ha firmato con Artisan.",
+      "Ma l'accordo permette l'uso dell'immagine per l'IA generativa.",
+      "Per i creator: ogni tua opera potrebbe essere negoziabile domani.",
+      "Controlla ora i tuoi contratti: cosa hai già firmato?"
+    ],
+    "thread_text": [
+      "L'accordo che hai firmato per una collaborazione potrebbe permettere a un'IA di usare la tua opera. Anche quella per cui sei più famoso.",
+      "Un artista ha appena ceduto il controllo del suo meme più iconico. 'This is fine' è stato firmato con Artisan.",
+      "Il contratto non vieta l'uso dell'immagine per l'IA generativa. L'autore ha detto sì senza sapere esattamente a cosa.",
+      "Per ogni creator: domani qualcuno potrebbe negoziare la tua opera più personale. In un contratto standard che hai già firmato.",
+      "Controlla ora cosa hai firmato. Se c'è una clausola 'uso per AI generativa', quella frase vale più del tuo salvadanaio."
+    ],
+    "video_script": [
+      "Hai firmato un contratto per un'opera.",
+      "Quell'opera ora può finire in un'IA.",
+      "Un artista ha ceduto il suo meme famoso.",
+      "L'accordo permette uso per AI generativa.",
+      "Controlla ora cosa hai già firmato."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "L'accordo che hai firmato per una collaborazione potrebbe permettere a un'IA di usare la tua opera. Anche quella per cui sei più famoso.",
+          "Un artista ha appena ceduto il controllo del suo meme più iconico. 'This is fine' è stato firmato con Artisan.",
+          "Il contratto non vieta l'uso dell'immagine per l'IA generativa. L'autore ha detto sì senza sapere esattamente a cosa.",
+          "Per ogni creator: domani qualcuno potrebbe negoziare la tua opera più personale. In un contratto standard che hai già firmato.",
+          "Controlla ora cosa hai firmato. Se c'è una clausola 'uso per AI generativa', quella frase vale più del tuo salvadanaio."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hai firmato un contratto per un'opera.",
+          "Quell'opera ora può finire in un'IA.",
+          "Un artista ha ceduto il suo meme famoso.",
+          "L'accordo permette uso per AI generativa.",
+          "Controlla ora cosa hai già firmato."
+        ]
+      },
+      "instagram": {
+        "caption": "KC Green, l’autore del meme “This is fine” 🐕🔥, ha firmato un accordo con la startup Artisan che permette all’intelligenza artificiale generativa di usare la sua opera più famosa. Green ha detto sì senza sapere esattamente a cosa servisse il contratto. Il punto non è il meme, ma cosa significa per te: ogni opera che hai già ceduto con una clausola “uso per AI generativa” potrebbe essere negoziata da qualcun altro domani. Hai già controllato cosa hai firmato? 📄⚖️"
+      }
+    },
+    "instagram_caption": "KC Green, l’autore del meme “This is fine” 🐕🔥, ha firmato un accordo con la startup Artisan che permette all’intelligenza artificiale generativa di usare la sua opera più famosa. Green ha detto sì senza sapere esattamente a cosa servisse il contratto. Il punto non è il meme, ma cosa significa per te: ogni opera che hai già ceduto con una clausola “uso per AI generativa” potrebbe essere negoziata da qualcun altro domani. Hai già controllato cosa hai firmato? 📄⚖️",
+    "carousel_slides": [
+      {
+        "hook": "Hai firmato la tua opera?",
+        "description": "Un contratto standard potrebbe già permettere all'IA di usare la tua creazione più famosa.",
+        "visual_hint": "Contratto con clausola nascosta",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "legal contract document"
+      },
+      {
+        "hook": "Artista cede il meme cult",
+        "description": "KC Green ha firmato con Artisan per l'uso di 'This is fine' nella generativa IA.",
+        "visual_hint": "Meme cane in fiamme",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "this is fine meme",
+        "image": "https://images.pexels.com/photos/11416982/pexels-photo-11416982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sì' senza leggere bene",
+        "description": "Il contratto non vieta l'IA generativa. L'autore ha accettato senza sapere esattamente cosa.",
+        "visual_hint": "Lente d'ingrandimento su testo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass text",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ogni opera è negoziabile",
+        "description": "Domani qualcuno potrebbe negoziare la tua opera più personale in un contratto già firmato.",
+        "visual_hint": "Mani che firmano accordo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand signing contract",
+        "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Controlla ora i contratti",
+        "description": "Se c'è una clausola 'uso per AI generativa', quella frase vale più del tuo salvadanaio.",
+        "visual_hint": "Salvadanaio spaccato",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "broken piggy bank",
+        "image": "https://images.pexels.com/photos/7828324/pexels-photo-7828324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2188469160.jpg?w=1024",
+    "savedAt": "2026-05-31T19:04:50.828Z",
+    "sourceId": "c1384759d49d34dd8de8755b1a2a9f2a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "meta-is-reportedly-developing-an-ai-pendant",
     "prompt_version": "1.0.0",
     "status": "published",
