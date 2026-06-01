@@ -54,51 +54,51 @@
       "scenes": [
         {
           "scene": 1,
-          "duration_sec": 6,
+          "duration_sec": 5,
           "hook": "AI psychosis: un bug o una nuova intelligenza?",
-          "voiceover": "Esploriamo il dibattito sull'intelligenza artificiale e le sue anomalie.",
+          "voiceover": "Scopriamo se l'AI ha realmente una mente propria.",
           "on_screen_text": "AI psychosis: bug o intelligenza?",
-          "visual_direction": "Inizio con un'immagine intrigante di un cervello digitale.",
-          "caption": "Cosa significa realmente AI psychosis?"
+          "visual_direction": "Animazione che mostra un cervello digitale.",
+          "caption": "Cosa significa davvero?"
         },
         {
           "scene": 2,
           "duration_sec": 6,
           "hook": "I modelli allucinano più quando non sanno.",
-          "voiceover": "Scopriamo come l'ignoranza dei modelli porta a risultati inaspettati.",
-          "on_screen_text": "Allucinazioni dell'AI",
-          "visual_direction": "Grafica animata che mostra dati che fluttuano in modo caotico.",
-          "caption": "Quando l'AI non sa, allucina."
+          "voiceover": "I modelli AI possono generare allucinazioni quando non hanno dati.",
+          "on_screen_text": "Modelli allucinano senza dati.",
+          "visual_direction": "Grafico di dati con segnali di allerta.",
+          "caption": "Attenzione ai dati!"
         },
         {
           "scene": 3,
           "duration_sec": 5,
           "hook": "A volte inventano risposte coerenti ma false.",
-          "voiceover": "L'intelligenza artificiale può generare risposte plausibili ma ingannevoli.",
-          "on_screen_text": "Risposte false ma coerenti",
-          "visual_direction": "Clip di conversazioni tra AI e utenti con risultati errati.",
-          "caption": "Attenzione alle risposte ingannevoli."
+          "voiceover": "L'AI può sembrare convincente, ma non sempre è corretta.",
+          "on_screen_text": "Risposte coerenti, ma false.",
+          "visual_direction": "Immagini di conversazioni AI con errori.",
+          "caption": "Verifica sempre."
         },
         {
           "scene": 4,
           "duration_sec": 6,
           "hook": "Non fidarti ciecamente: verifica ogni output.",
-          "voiceover": "È fondamentale controllare sempre le informazioni fornite dall'AI.",
-          "on_screen_text": "Verifica ogni output",
-          "visual_direction": "Mostra un utente che confronta i risultati dell'AI con fonti affidabili.",
-          "caption": "Controlla sempre le informazioni."
+          "voiceover": "È fondamentale controllare le risposte dell'AI.",
+          "on_screen_text": "Verifica ogni output.",
+          "visual_direction": "Rappresentazione di un controllo incrociato.",
+          "caption": "Fai attenzione!"
         },
         {
           "scene": 5,
-          "duration_sec": 6,
+          "duration_sec": 5,
           "hook": "Testa oggi un suo errore nascosto.",
-          "voiceover": "Prova tu stesso a scoprire gli errori dell'intelligenza artificiale.",
-          "on_screen_text": "Scopri un errore dell'AI",
-          "visual_direction": "Invito all'azione con un link a un test interattivo.",
-          "caption": "Cosa scoprirai?"
+          "voiceover": "Scopri come l'AI può sbagliare, anche oggi.",
+          "on_screen_text": "Testa un errore oggi.",
+          "visual_direction": "Esempi di errori con l'AI.",
+          "caption": "Sperimenta!"
         }
       ],
-      "cta": "Scopri di più sull'AI e le sue sfide.",
+      "cta": "Segui per ulteriori approfondimenti sull'AI!",
       "quality_score": 85,
       "template": "slide_deck"
     }
