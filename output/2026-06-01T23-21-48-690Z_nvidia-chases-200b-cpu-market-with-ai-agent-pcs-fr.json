@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nvidia-chases-200b-cpu-market-with-ai-agent-pcs-fr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+  "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+  "pubDate": "Mon, 01 Jun 2026 21:35:00 +0000",
+  "slides": [
+    "Nvidia punta ai PC AI agent: il tuo prossimo desktop è smart?",
+    "Microsoft, Dell e HP integrano chip Nvidia nei nuovi modelli.",
+    "Il mercato CPU da 200 miliardi si gioca sull'intelligenza locale.",
+    "Non serve più il cloud: l'agente AI lavora offline sul tuo PC.",
+    "Testa un laptop con Nvidia oggi: cambia il tuo workflow."
+  ],
+  "thread_text": [
+    "Il mercato dei chip per PC vale 200 miliardi. E i produttori stanno scommettendo tutto su un agente AI che lavora offline, senza cloud.",
+    "Nvidia ha appena piazzato i suoi chip nei nuovi modelli di Microsoft, Dell e HP. Non sono PC normali.",
+    "L'intelligenza artificiale non gira più su un server lontano. Il tuo prossimo desktop potrebbe pensare da solo, anche senza connessione.",
+    "Ogni operazione che facevi sul cloud ora la fa il chip dentro il computer. Meno latenza, più privacy, nessun abbonamento.",
+    "Un laptop con Nvidia oggi costa meno di un abbonamento Spotify annuale. Provalo questa settimana e vedi il tuo workflow cambiare."
+  ],
+  "video_script": [
+    "C'è un mercato da 200 miliardi di dollari.",
+    "Nvidia punta tutto sui PC con AI.",
+    "Microsoft, Dell e HP li stanno già vendendo.",
+    "L'agente AI lavora senza cloud.",
+    "Ora puoi testarlo sul tuo laptop."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il mercato dei chip per PC vale 200 miliardi. E i produttori stanno scommettendo tutto su un agente AI che lavora offline, senza cloud.",
+        "Nvidia ha appena piazzato i suoi chip nei nuovi modelli di Microsoft, Dell e HP. Non sono PC normali.",
+        "L'intelligenza artificiale non gira più su un server lontano. Il tuo prossimo desktop potrebbe pensare da solo, anche senza connessione.",
+        "Ogni operazione che facevi sul cloud ora la fa il chip dentro il computer. Meno latenza, più privacy, nessun abbonamento.",
+        "Un laptop con Nvidia oggi costa meno di un abbonamento Spotify annuale. Provalo questa settimana e vedi il tuo workflow cambiare."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "C'è un mercato da 200 miliardi di dollari.",
+        "Nvidia punta tutto sui PC con AI.",
+        "Microsoft, Dell e HP li stanno già vendendo.",
+        "L'agente AI lavora senza cloud.",
+        "Ora puoi testarlo sul tuo laptop."
+      ]
+    },
+    "instagram": {
+      "caption": "Un laptop con chip Nvidia ora costa meno di un abbonamento Spotify annuale 🎧. Microsoft, Dell e HP hanno appena integrato i chip Nvidia nei nuovi PC: l’agente AI lavora direttamente offline, senza bisogno del cloud 🖥️. Per te, niente più dipendenza da Internet per assistenti smart, meno attese e più privacy sui tuoi dati. Cambia davvero il tuo workflow senza connessione? ⚡"
+    }
+  },
+  "instagram_caption": "Un laptop con chip Nvidia ora costa meno di un abbonamento Spotify annuale 🎧. Microsoft, Dell e HP hanno appena integrato i chip Nvidia nei nuovi PC: l’agente AI lavora direttamente offline, senza bisogno del cloud 🖥️. Per te, niente più dipendenza da Internet per assistenti smart, meno attese e più privacy sui tuoi dati. Cambia davvero il tuo workflow senza connessione? ⚡",
+  "carousel_slides": [
+    {
+      "hook": "Il tuo PC diventa smart",
+      "description": "Il mercato CPU da 200 miliardi si gioca sull'AI locale, senza cloud.",
+      "visual_hint": "chip luminoso su sfondo scuro",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer processor closeup"
+    },
+    {
+      "hook": "Nvidia nei nuovi modelli",
+      "description": "Microsoft, Dell e HP integrano chip Nvidia nei PC AI agent.",
+      "visual_hint": "loghi aziendali affiancati",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "logo arrangement tech",
+      "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pensare senza cloud",
+      "description": "L'intelligenza artificiale non gira su un server lontano, ma nel tuo desktop offline.",
+      "visual_hint": "onda sonora stilizzata",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sound wave abstract",
+      "image": "https://images.pexels.com/photos/15422736/pexels-photo-15422736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Latenza zero, privacy",
+      "description": "Ogni operazione cloud ora è nel chip: meno latenza, più privacy, nessun abbonamento.",
+      "visual_hint": "mano che tocca schermo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching digital screen",
+      "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova il tuo workflow",
+      "description": "Un laptop Nvidia costa meno di un abbonamento Spotify annuale. Provalo e cambia.",
+      "visual_hint": "freccia verso cta pulsante",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "arrow pointing button",
+      "image": "https://images.pexels.com/photos/4487675/pexels-photo-4487675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
+  "savedAt": "2026-06-01T23:22:10.604Z",
+  "sourceId": "7a8f5bd4e5874c0c15979a651f86e480"
+}

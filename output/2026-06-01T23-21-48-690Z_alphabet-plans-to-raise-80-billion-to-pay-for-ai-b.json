@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "alphabet-plans-to-raise-80-billion-to-pay-for-ai-b",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
+  "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+  "pubDate": "Mon, 01 Jun 2026 22:55:09 +0000",
+  "slides": [
+    "Alphabet raccoglie 80 miliardi: chi pagherà il conto?",
+    "Servono per costruire l'infrastruttura AI globale",
+    "Il costo è triplo rispetto a quanto previsto nel 2023",
+    "Il tuo cloud provider potrebbe raddoppiare i prezzi",
+    "Verifica subito le clausole del tuo contratto cloud"
+  ],
+  "thread_text": [
+    "Il tuo cloud provider potrebbe raddoppiare i prezzi. Ed è solo l'inizio. Alphabet ha appena raccolto 80 miliardi per l'infrastruttura AI globale.",
+    "Quei soldi servono per costruire data center, chip e reti. Il problema? Il costo è già triplo rispetto a quanto previsto solo nel 2023.",
+    "Qualcuno deve pagare questo conto. I provider cloud non assorbiranno i rincari: li gireranno ai clienti. Ecco perché i prezzi salgono.",
+    "Le aziende stanno già rinegoziando contratti. Ma molti hanno clausole che permettono aumenti automatici senza preavviso. È un rischio concreto.",
+    "Verifica subito le clausole del tuo contratto cloud. Se non c'è un tetto massimo di aumento, potrebbe costarti decine di migliaia di euro l'anno prossimo."
+  ],
+  "video_script": [
+    "Il tuo cloud costerà il doppio l'anno prossimo.",
+    "Alphabet ha raccolto 80 miliardi di euro.",
+    "Li userà per costruire infrastrutture AI globali.",
+    "Il conto? Tre volte più caro del previsto.",
+    "Controlla subito le clausole del tuo contratto cloud."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il tuo cloud provider potrebbe raddoppiare i prezzi. Ed è solo l'inizio. Alphabet ha appena raccolto 80 miliardi per l'infrastruttura AI globale.",
+        "Quei soldi servono per costruire data center, chip e reti. Il problema? Il costo è già triplo rispetto a quanto previsto solo nel 2023.",
+        "Qualcuno deve pagare questo conto. I provider cloud non assorbiranno i rincari: li gireranno ai clienti. Ecco perché i prezzi salgono.",
+        "Le aziende stanno già rinegoziando contratti. Ma molti hanno clausole che permettono aumenti automatici senza preavviso. È un rischio concreto.",
+        "Verifica subito le clausole del tuo contratto cloud. Se non c'è un tetto massimo di aumento, potrebbe costarti decine di migliaia di euro l'anno prossimo."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Il tuo cloud costerà il doppio l'anno prossimo.",
+        "Alphabet ha raccolto 80 miliardi di euro.",
+        "Li userà per costruire infrastrutture AI globali.",
+        "Il conto? Tre volte più caro del previsto.",
+        "Controlla subito le clausole del tuo contratto cloud."
+      ]
+    },
+    "instagram": {
+      "caption": "Alphabet ha appena raccolto 80 miliardi di dollari per costruire l'infrastruttura dell'intelligenza artificiale globale — data center, chip e reti. Il problema è che i costi sono già triplicati rispetto al 2023. 💸 I provider cloud come Google (di Alphabet) non assorbiranno questa spesa: la gireranno ai clienti, facendo lievitare i prezzi dei servizi cloud. ☁️ Per chi utilizza strumenti basati su cloud nella propria azienda, è il momento di controllare il contratto. Molti permettono aumenti automatici senza limite. Hai già verificato le tue clausole? 📋"
+    }
+  },
+  "instagram_caption": "Alphabet ha appena raccolto 80 miliardi di dollari per costruire l'infrastruttura dell'intelligenza artificiale globale — data center, chip e reti. Il problema è che i costi sono già triplicati rispetto al 2023. 💸 I provider cloud come Google (di Alphabet) non assorbiranno questa spesa: la gireranno ai clienti, facendo lievitare i prezzi dei servizi cloud. ☁️ Per chi utilizza strumenti basati su cloud nella propria azienda, è il momento di controllare il contratto. Molti permettono aumenti automatici senza limite. Hai già verificato le tue clausole? 📋",
+  "carousel_slides": [
+    {
+      "hook": "80 miliardi, chi paga?",
+      "description": "Alphabet raccoglie 80 miliardi. Il costo infrastruttura è triplo rispetto al 2023. Qualcuno deve saldare il conto.",
+      "visual_hint": "Pila di soldi che sale",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stack of money"
+    },
+    {
+      "hook": "Costi triplicati da 2023",
+      "description": "Quei soldi servono per data center, chip e reti AI globali. Il costo è già triplo rispetto a quanto previsto.",
+      "visual_hint": "Grafico con barra in salita",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "bar chart going up",
+      "image": "https://images.pexels.com/photos/5466250/pexels-photo-5466250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Aumenti in arrivo per te",
+      "description": "I provider cloud non assorbiranno i rincari: li gireranno ai clienti. I prezzi saliranno.",
+      "visual_hint": "Cartello prezzo che sale",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "price tag going up",
+      "image": "https://images.pexels.com/photos/5926253/pexels-photo-5926253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Clausole insidiose nei contratti",
+      "description": "Molti contratti cloud permettono aumenti automatici senza preavviso. È un rischio concreto per le aziende.",
+      "visual_hint": "Documento con clausole evidenziate",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "contract document highlight",
+      "image": "https://images.pexels.com/photos/7681073/pexels-photo-7681073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Verifica ora il tuo contratto",
+      "description": "Se non c'è un tetto massimo di aumento, potresti spendere decine di migliaia di euro l'anno prossimo.",
+      "visual_hint": "Checklist con spunta verde",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "contract with checkmark",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
+  "savedAt": "2026-06-01T23:21:59.728Z",
+  "sourceId": "97fd2150ce7251e9086aadc78931195a"
+}

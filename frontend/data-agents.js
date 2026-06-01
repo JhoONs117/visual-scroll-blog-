@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "nvidia-chases-200b-cpu-market-with-ai-agent-pcs-fr",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "pubDate": "Mon, 01 Jun 2026 21:35:00 +0000",
+      "slides": [
+        "Nvidia punta ai PC AI agent: il tuo prossimo desktop è smart?",
+        "Microsoft, Dell e HP integrano chip Nvidia nei nuovi modelli.",
+        "Il mercato CPU da 200 miliardi si gioca sull'intelligenza locale.",
+        "Non serve più il cloud: l'agente AI lavora offline sul tuo PC.",
+        "Testa un laptop con Nvidia oggi: cambia il tuo workflow."
+      ],
+      "thread_text": [
+        "Il mercato dei chip per PC vale 200 miliardi. E i produttori stanno scommettendo tutto su un agente AI che lavora offline, senza cloud.",
+        "Nvidia ha appena piazzato i suoi chip nei nuovi modelli di Microsoft, Dell e HP. Non sono PC normali.",
+        "L'intelligenza artificiale non gira più su un server lontano. Il tuo prossimo desktop potrebbe pensare da solo, anche senza connessione.",
+        "Ogni operazione che facevi sul cloud ora la fa il chip dentro il computer. Meno latenza, più privacy, nessun abbonamento.",
+        "Un laptop con Nvidia oggi costa meno di un abbonamento Spotify annuale. Provalo questa settimana e vedi il tuo workflow cambiare."
+      ],
+      "video_script": [
+        "C'è un mercato da 200 miliardi di dollari.",
+        "Nvidia punta tutto sui PC con AI.",
+        "Microsoft, Dell e HP li stanno già vendendo.",
+        "L'agente AI lavora senza cloud.",
+        "Ora puoi testarlo sul tuo laptop."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Il mercato dei chip per PC vale 200 miliardi. E i produttori stanno scommettendo tutto su un agente AI che lavora offline, senza cloud.",
+            "Nvidia ha appena piazzato i suoi chip nei nuovi modelli di Microsoft, Dell e HP. Non sono PC normali.",
+            "L'intelligenza artificiale non gira più su un server lontano. Il tuo prossimo desktop potrebbe pensare da solo, anche senza connessione.",
+            "Ogni operazione che facevi sul cloud ora la fa il chip dentro il computer. Meno latenza, più privacy, nessun abbonamento.",
+            "Un laptop con Nvidia oggi costa meno di un abbonamento Spotify annuale. Provalo questa settimana e vedi il tuo workflow cambiare."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "C'è un mercato da 200 miliardi di dollari.",
+            "Nvidia punta tutto sui PC con AI.",
+            "Microsoft, Dell e HP li stanno già vendendo.",
+            "L'agente AI lavora senza cloud.",
+            "Ora puoi testarlo sul tuo laptop."
+          ]
+        },
+        "instagram": {
+          "caption": "Un laptop con chip Nvidia ora costa meno di un abbonamento Spotify annuale 🎧. Microsoft, Dell e HP hanno appena integrato i chip Nvidia nei nuovi PC: l’agente AI lavora direttamente offline, senza bisogno del cloud 🖥️. Per te, niente più dipendenza da Internet per assistenti smart, meno attese e più privacy sui tuoi dati. Cambia davvero il tuo workflow senza connessione? ⚡"
+        }
+      },
+      "instagram_caption": "Un laptop con chip Nvidia ora costa meno di un abbonamento Spotify annuale 🎧. Microsoft, Dell e HP hanno appena integrato i chip Nvidia nei nuovi PC: l’agente AI lavora direttamente offline, senza bisogno del cloud 🖥️. Per te, niente più dipendenza da Internet per assistenti smart, meno attese e più privacy sui tuoi dati. Cambia davvero il tuo workflow senza connessione? ⚡",
+      "carousel_slides": [
+        {
+          "hook": "Il tuo PC diventa smart",
+          "description": "Il mercato CPU da 200 miliardi si gioca sull'AI locale, senza cloud.",
+          "visual_hint": "chip luminoso su sfondo scuro",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer processor closeup"
+        },
+        {
+          "hook": "Nvidia nei nuovi modelli",
+          "description": "Microsoft, Dell e HP integrano chip Nvidia nei PC AI agent.",
+          "visual_hint": "loghi aziendali affiancati",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "logo arrangement tech",
+          "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pensare senza cloud",
+          "description": "L'intelligenza artificiale non gira su un server lontano, ma nel tuo desktop offline.",
+          "visual_hint": "onda sonora stilizzata",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "sound wave abstract",
+          "image": "https://images.pexels.com/photos/15422736/pexels-photo-15422736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Latenza zero, privacy",
+          "description": "Ogni operazione cloud ora è nel chip: meno latenza, più privacy, nessun abbonamento.",
+          "visual_hint": "mano che tocca schermo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand touching digital screen",
+          "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova il tuo workflow",
+          "description": "Un laptop Nvidia costa meno di un abbonamento Spotify annuale. Provalo e cambia.",
+          "visual_hint": "freccia verso cta pulsante",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "arrow pointing button",
+          "image": "https://images.pexels.com/photos/4487675/pexels-photo-4487675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
+      "savedAt": "2026-06-01T23:22:10.604Z",
+      "sourceId": "7a8f5bd4e5874c0c15979a651f86e480"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "alphabet-plans-to-raise-80-billion-to-pay-for-ai-b",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
+      "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "pubDate": "Mon, 01 Jun 2026 22:55:09 +0000",
+      "slides": [
+        "Alphabet raccoglie 80 miliardi: chi pagherà il conto?",
+        "Servono per costruire l'infrastruttura AI globale",
+        "Il costo è triplo rispetto a quanto previsto nel 2023",
+        "Il tuo cloud provider potrebbe raddoppiare i prezzi",
+        "Verifica subito le clausole del tuo contratto cloud"
+      ],
+      "thread_text": [
+        "Il tuo cloud provider potrebbe raddoppiare i prezzi. Ed è solo l'inizio. Alphabet ha appena raccolto 80 miliardi per l'infrastruttura AI globale.",
+        "Quei soldi servono per costruire data center, chip e reti. Il problema? Il costo è già triplo rispetto a quanto previsto solo nel 2023.",
+        "Qualcuno deve pagare questo conto. I provider cloud non assorbiranno i rincari: li gireranno ai clienti. Ecco perché i prezzi salgono.",
+        "Le aziende stanno già rinegoziando contratti. Ma molti hanno clausole che permettono aumenti automatici senza preavviso. È un rischio concreto.",
+        "Verifica subito le clausole del tuo contratto cloud. Se non c'è un tetto massimo di aumento, potrebbe costarti decine di migliaia di euro l'anno prossimo."
+      ],
+      "video_script": [
+        "Il tuo cloud costerà il doppio l'anno prossimo.",
+        "Alphabet ha raccolto 80 miliardi di euro.",
+        "Li userà per costruire infrastrutture AI globali.",
+        "Il conto? Tre volte più caro del previsto.",
+        "Controlla subito le clausole del tuo contratto cloud."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Il tuo cloud provider potrebbe raddoppiare i prezzi. Ed è solo l'inizio. Alphabet ha appena raccolto 80 miliardi per l'infrastruttura AI globale.",
+            "Quei soldi servono per costruire data center, chip e reti. Il problema? Il costo è già triplo rispetto a quanto previsto solo nel 2023.",
+            "Qualcuno deve pagare questo conto. I provider cloud non assorbiranno i rincari: li gireranno ai clienti. Ecco perché i prezzi salgono.",
+            "Le aziende stanno già rinegoziando contratti. Ma molti hanno clausole che permettono aumenti automatici senza preavviso. È un rischio concreto.",
+            "Verifica subito le clausole del tuo contratto cloud. Se non c'è un tetto massimo di aumento, potrebbe costarti decine di migliaia di euro l'anno prossimo."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Il tuo cloud costerà il doppio l'anno prossimo.",
+            "Alphabet ha raccolto 80 miliardi di euro.",
+            "Li userà per costruire infrastrutture AI globali.",
+            "Il conto? Tre volte più caro del previsto.",
+            "Controlla subito le clausole del tuo contratto cloud."
+          ]
+        },
+        "instagram": {
+          "caption": "Alphabet ha appena raccolto 80 miliardi di dollari per costruire l'infrastruttura dell'intelligenza artificiale globale — data center, chip e reti. Il problema è che i costi sono già triplicati rispetto al 2023. 💸 I provider cloud come Google (di Alphabet) non assorbiranno questa spesa: la gireranno ai clienti, facendo lievitare i prezzi dei servizi cloud. ☁️ Per chi utilizza strumenti basati su cloud nella propria azienda, è il momento di controllare il contratto. Molti permettono aumenti automatici senza limite. Hai già verificato le tue clausole? 📋"
+        }
+      },
+      "instagram_caption": "Alphabet ha appena raccolto 80 miliardi di dollari per costruire l'infrastruttura dell'intelligenza artificiale globale — data center, chip e reti. Il problema è che i costi sono già triplicati rispetto al 2023. 💸 I provider cloud come Google (di Alphabet) non assorbiranno questa spesa: la gireranno ai clienti, facendo lievitare i prezzi dei servizi cloud. ☁️ Per chi utilizza strumenti basati su cloud nella propria azienda, è il momento di controllare il contratto. Molti permettono aumenti automatici senza limite. Hai già verificato le tue clausole? 📋",
+      "carousel_slides": [
+        {
+          "hook": "80 miliardi, chi paga?",
+          "description": "Alphabet raccoglie 80 miliardi. Il costo infrastruttura è triplo rispetto al 2023. Qualcuno deve saldare il conto.",
+          "visual_hint": "Pila di soldi che sale",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stack of money"
+        },
+        {
+          "hook": "Costi triplicati da 2023",
+          "description": "Quei soldi servono per data center, chip e reti AI globali. Il costo è già triplo rispetto a quanto previsto.",
+          "visual_hint": "Grafico con barra in salita",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "bar chart going up",
+          "image": "https://images.pexels.com/photos/5466250/pexels-photo-5466250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Aumenti in arrivo per te",
+          "description": "I provider cloud non assorbiranno i rincari: li gireranno ai clienti. I prezzi saliranno.",
+          "visual_hint": "Cartello prezzo che sale",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "price tag going up",
+          "image": "https://images.pexels.com/photos/5926253/pexels-photo-5926253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Clausole insidiose nei contratti",
+          "description": "Molti contratti cloud permettono aumenti automatici senza preavviso. È un rischio concreto per le aziende.",
+          "visual_hint": "Documento con clausole evidenziate",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "contract document highlight",
+          "image": "https://images.pexels.com/photos/7681073/pexels-photo-7681073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Verifica ora il tuo contratto",
+          "description": "Se non c'è un tetto massimo di aumento, potresti spendere decine di migliaia di euro l'anno prossimo.",
+          "visual_hint": "Checklist con spunta verde",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "contract with checkmark",
+          "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
+      "savedAt": "2026-06-01T23:21:59.728Z",
+      "sourceId": "97fd2150ce7251e9086aadc78931195a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "unastella-a-south-korean-rocket-startup-that-launc",
       "prompt_version": "1.0.0",
       "status": "published",
