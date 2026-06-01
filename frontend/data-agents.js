@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "duckduckgo-makes-its-no-ai-search-engine-easier-to",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "pubDate": "Mon, 01 Jun 2026 14:49:10 +0000",
+      "slides": [
+        "DuckDuckGo batte ogni record di traffico, ma perché?",
+        "Il suo segreto: nessun chatbot AI nei risultati.",
+        "Mentre Google insegue l'AI generativa, DuckDuckGo cresce.",
+        "Hai scelto privacy? Il tuo motore è già questo.",
+        "Prova oggi: disattiva l'AI dalla tua ricerca."
+      ],
+      "thread_text": [
+        "DuckDuckGo ha appena battuto il suo record di traffico. E non ha fatto nulla di nuovo: ha solo rifiutato di aggiungere chatbot AI nei risultati. Mentre Google corre dietro all'AI generativa, loro crescono. Perché la gente vuole risposte, non chiacchiere.",
+        "La scelta è semplice: vuoi un motore che ti riempie la pagina di riassunti AI, o uno che ti dà link puliti e basta? Sempre più utenti stanno votando col clic. E il dato parla chiaro.",
+        "Il modello è controintuitivo: non inseguire l'hype, non aggiungere feature. Togli. Riduci il rumore. Lascia che sia l'utente a decidere cosa leggere. Risultato? Crescita organica, senza pubblicità.",
+        "Non è una questione di nostalgia. È funzionale: quando cerco un indirizzo o una notizia, voglio 10 risultati blu. Non un paragrafo generato da un modello che allucina metà delle risposte. Se non hai mai provato, forse è ora.",
+        "Costa zero, non tiene traccia della tua cronologia, e oggi puoi disattivare l'AI da qualsiasi motore di ricerca in 30 secondi. Se preferisci risposte umane a quelle sintetiche, inizia da questo task: cambia motore predefinito per un giorno."
+      ],
+      "video_script": [
+        "DuckDuckGo ha battuto ogni record di traffico.",
+        "Il motivo? Hanno detto no ai chatbot AI.",
+        "Mentre Google corre, loro crescono senza feature.",
+        "La gente vuole link puliti, non risposte allucinate.",
+        "Prova oggi: spegni l'AI dalla tua ricerca."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "DuckDuckGo ha appena battuto il suo record di traffico. E non ha fatto nulla di nuovo: ha solo rifiutato di aggiungere chatbot AI nei risultati. Mentre Google corre dietro all'AI generativa, loro crescono. Perché la gente vuole risposte, non chiacchiere.",
+            "La scelta è semplice: vuoi un motore che ti riempie la pagina di riassunti AI, o uno che ti dà link puliti e basta? Sempre più utenti stanno votando col clic. E il dato parla chiaro.",
+            "Il modello è controintuitivo: non inseguire l'hype, non aggiungere feature. Togli. Riduci il rumore. Lascia che sia l'utente a decidere cosa leggere. Risultato? Crescita organica, senza pubblicità.",
+            "Non è una questione di nostalgia. È funzionale: quando cerco un indirizzo o una notizia, voglio 10 risultati blu. Non un paragrafo generato da un modello che allucina metà delle risposte. Se non hai mai provato, forse è ora.",
+            "Costa zero, non tiene traccia della tua cronologia, e oggi puoi disattivare l'AI da qualsiasi motore di ricerca in 30 secondi. Se preferisci risposte umane a quelle sintetiche, inizia da questo task: cambia motore predefinito per un giorno."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "DuckDuckGo ha battuto ogni record di traffico.",
+            "Il motivo? Hanno detto no ai chatbot AI.",
+            "Mentre Google corre, loro crescono senza feature.",
+            "La gente vuole link puliti, non risposte allucinate.",
+            "Prova oggi: spegni l'AI dalla tua ricerca."
+          ]
+        },
+        "instagram": {
+          "caption": "DuckDuckGo ha appena battuto il suo record di traffico senza aggiungere un solo chatbot AI nei risultati di ricerca. Mentre Google spinge riassunti generativi e allucinazioni, gli utenti scelgono link puliti e niente domande filtrate 🔍. Il motivo? La gente cerca risposte rapide, non chiacchiere sintetiche. Per te significa: puoi togliere il rumore dai risultati in 30 secondi, cambiando motore predefinito. Quando è stata l’ultima volta che hai cliccato un link senza prima leggere un paragrafo scritto da un modello 🧠?"
+        }
+      },
+      "instagram_caption": "DuckDuckGo ha appena battuto il suo record di traffico senza aggiungere un solo chatbot AI nei risultati di ricerca. Mentre Google spinge riassunti generativi e allucinazioni, gli utenti scelgono link puliti e niente domande filtrate 🔍. Il motivo? La gente cerca risposte rapide, non chiacchiere sintetiche. Per te significa: puoi togliere il rumore dai risultati in 30 secondi, cambiando motore predefinito. Quando è stata l’ultima volta che hai cliccato un link senza prima leggere un paragrafo scritto da un modello 🧠?",
+      "carousel_slides": [
+        {
+          "hook": "Cresce chi toglie l'AI",
+          "description": "Mentre Google insegue l'AI generativa, DuckDuckGo batte record di traffico senza chatbot. La gente vuole risposte, non chiacchiere.",
+          "visual_hint": "Grafico crescita vs AI",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Link puliti, niente riassunti",
+          "description": "Sempre più utenti votano col clic: preferiscono 10 risultati blu a paragrafi generati che allucinano metà risposte.",
+          "visual_hint": "Screenshot motore pulito",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "search engine page",
+          "image": "https://images.pexels.com/photos/12719246/pexels-photo-12719246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Togliere rumore paga",
+          "description": "Non inseguire l'hype. DuckDuckGo ha rimosso feature, aggiunto privacy. Risultato: crescita organica senza pubblicità.",
+          "visual_hint": "Interruttore spento",
+          "layout_type": "sensor-zoom",
+          "icon": "check",
+          "image_query": "light switch off",
+          "image": "https://images.pexels.com/photos/27779071/pexels-photo-27779071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Vuoi risposte umane?",
+          "description": "Non è nostalgia: quando cerchi un indirizzo o una notizia, vuoi dati veri, non allucinazioni. La scelta è tua.",
+          "visual_hint": "Mano clicca mouse",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand clicking mouse",
+          "image": "https://images.pexels.com/photos/7915503/pexels-photo-7915503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Disattiva l'AI in 30 secondi",
+          "description": "Costa zero e non tiene traccia. Cambia motore predefinito per un giorno: prova la differenza.",
+          "visual_hint": "Icona impostazioni privacy",
+          "layout_type": "cta-final",
+          "icon": "heart",
+          "image_query": "privacy settings screen",
+          "image": "https://images.pexels.com/photos/6943446/pexels-photo-6943446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
+      "savedAt": "2026-06-01T15:49:52.566Z",
+      "sourceId": "03e6e22cffa56b04818421277634e093"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ai-in-video-game-development-how-artificial-intell",
       "prompt_version": "1.0.0",
       "status": "published",
