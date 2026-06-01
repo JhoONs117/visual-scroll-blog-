@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "this-ai-weather-startup-is-out-forecasting-governm",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "This AI weather startup is out-forecasting government agencies",
+  "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+  "pubDate": "Mon, 01 Jun 2026 16:00:00 +0000",
+  "slides": [
+    "A startup beats government weather models—how?",
+    "It combines satellite data with proprietary AI training",
+    "Its storm predictions were 30% more accurate last year",
+    "You can now access forecasts your local agency misses",
+    "Test its next rain alert against official data—today"
+  ],
+  "thread_text": [
+    "Le previsioni di una startup sono state il 30% più accurate di quelle governative l'anno scorso. Come ci sono riuscite?",
+    "Non usano solo i soliti dati satellitari. Allenano un modello AI con un dataset proprietario che impara a riconoscere schemi che i modelli classici perdono.",
+    "Il risultato: prevedono tempeste che le agenzie locali non vedono. Se vivi in una zona con meteo imprevedibile, hai accesso a un livello di dettaglio che prima non esisteva.",
+    "Non devi fidarti ciecamente. Puoi confrontare i loro avvisi di pioggia con i dati ufficiali, oggi stesso.",
+    "Costa meno di un abbonamento Netflix. Provalo per la prossima ondata di maltempo."
+  ],
+  "video_script": [
+    "Una startup batte i modelli meteo governativi.",
+    "Combinano satelliti e AI addestrata su dati unici.",
+    "Le loro previsioni di tempesta sono più precise.",
+    "Vedi quello che le agenzie locali non vedono.",
+    "Confrontale tu stesso coi dati ufficiali."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Le previsioni di una startup sono state il 30% più accurate di quelle governative l'anno scorso. Come ci sono riuscite?",
+        "Non usano solo i soliti dati satellitari. Allenano un modello AI con un dataset proprietario che impara a riconoscere schemi che i modelli classici perdono.",
+        "Il risultato: prevedono tempeste che le agenzie locali non vedono. Se vivi in una zona con meteo imprevedibile, hai accesso a un livello di dettaglio che prima non esisteva.",
+        "Non devi fidarti ciecamente. Puoi confrontare i loro avvisi di pioggia con i dati ufficiali, oggi stesso.",
+        "Costa meno di un abbonamento Netflix. Provalo per la prossima ondata di maltempo."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Una startup batte i modelli meteo governativi.",
+        "Combinano satelliti e AI addestrata su dati unici.",
+        "Le loro previsioni di tempesta sono più precise.",
+        "Vedi quello che le agenzie locali non vedono.",
+        "Confrontale tu stesso coi dati ufficiali."
+      ]
+    },
+    "instagram": {
+      "caption": "L'anno scorso una startup ha previsto le tempeste con il 30% di precisione in più rispetto alle agenzie governative. 🌩️ Come? Non si limitano ai soliti dati satellitari: addestrano un modello AI su un dataset proprietario che riconosce schemi che i modelli classici ignorano. Il risultato: avvisi di pioggia che i tuoi enti locali non danno. 📡 Puoi già confrontare le loro allerte con i dati ufficiali e vedere la differenza. ☔ Che previsione ti hanno sbagliato di recente?"
+    }
+  },
+  "instagram_caption": "L'anno scorso una startup ha previsto le tempeste con il 30% di precisione in più rispetto alle agenzie governative. 🌩️ Come? Non si limitano ai soliti dati satellitari: addestrano un modello AI su un dataset proprietario che riconosce schemi che i modelli classici ignorano. Il risultato: avvisi di pioggia che i tuoi enti locali non danno. 📡 Puoi già confrontare le loro allerte con i dati ufficiali e vedere la differenza. ☔ Che previsione ti hanno sbagliato di recente?",
+  "carousel_slides": [
+    {
+      "hook": "30% più accurate delle agenzie",
+      "description": "Le previsioni di una startup hanno superato quelle governative del 30% l'anno scorso. Come hanno fatto?",
+      "visual_hint": "storm vs sun comparison",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "weather satellite orbit"
+    },
+    {
+      "hook": "AI impara ciò che i modelli perdono",
+      "description": "Non solo dati satellitari: addestrano un'AI su un dataset proprietario per riconoscere schemi ignorati dai modelli classici.",
+      "visual_hint": "AI neural network processing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Vedi tempeste che i locali ignorano",
+      "description": "Prevedono maltempo che le agenzie locali non rilevano. Dettaglio prima inaccessibile, ora nella tua zona imprevedibile.",
+      "visual_hint": "radar map with storm alert",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "weather radar screen",
+      "image": "https://images.pexels.com/photos/20196067/pexels-photo-20196067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Confronta con i dati ufficiali",
+      "description": "Non fidarti ciecamente. Verifica i loro avvisi di pioggia contro i dati ufficiali, subito.",
+      "visual_hint": "two forecast charts side-by-side",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone weather app",
+      "image": "https://images.pexels.com/photos/17249214/pexels-photo-17249214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costa meno di Netflix, provalo",
+      "description": "Abbonamento inferiore a Netflix. Testalo per la prossima ondata di maltempo.",
+      "visual_hint": "Netflix vs startup subscription",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Netflix subscription card",
+      "image": "https://images.pexels.com/photos/6235469/pexels-photo-6235469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
+  "savedAt": "2026-06-01T20:12:07.017Z",
+  "sourceId": "2015d5b1d007d0ef802238dddf214c78"
+}

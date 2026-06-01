@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "zigging-when-most-are-zagging-ex-meta-cto-raises-2",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
+  "link": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
+  "pubDate": "Mon, 01 Jun 2026 16:42:22 +0000",
+  "slides": [
+    "Ex-Meta CTO raised $250M—but for what?",
+    "Most climate funds back hardware; he ignored it.",
+    "His secret weapon? Software over solar panels.",
+    "Funding for climate software just got validation.",
+    "Ask: is your strategy zigging or zagging?"
+  ],
+  "thread_text": [
+    "The Ex-Meta CTO just raised $250M for a climate startup you've never heard of. Not a single solar panel. Not a battery. Pure software.",
+    "Most climate money goes to hardware - giant farms of solar, hulking wind turbines, next-gen batteries. He ignored that entire playbook.",
+    "His bet: software can optimize the energy grid better than any new panel. Think of it as Stripe for carbon credits, not Elon's tunnel.",
+    "This isn't a bet on one company. It's a sign: VCs now believe climate software can return SaaS-level multiples. The validation just happened.",
+    "If your strategy is building more hardware, you're betting on a crowded highway. Ask yourself: is your move the zig or the zag?"
+  ],
+  "video_script": [
+    "Ex-Meta CTO raised a quarter billion.",
+    "Most climate money buys solar panels.",
+    "He bought software instead.",
+    "Software optimizes the grid way better.",
+    "How many zigs before you zag?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "The Ex-Meta CTO just raised $250M for a climate startup you've never heard of. Not a single solar panel. Not a battery. Pure software.",
+        "Most climate money goes to hardware - giant farms of solar, hulking wind turbines, next-gen batteries. He ignored that entire playbook.",
+        "His bet: software can optimize the energy grid better than any new panel. Think of it as Stripe for carbon credits, not Elon's tunnel.",
+        "This isn't a bet on one company. It's a sign: VCs now believe climate software can return SaaS-level multiples. The validation just happened.",
+        "If your strategy is building more hardware, you're betting on a crowded highway. Ask yourself: is your move the zig or the zag?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ex-Meta CTO raised a quarter billion.",
+        "Most climate money buys solar panels.",
+        "He bought software instead.",
+        "Software optimizes the grid way better.",
+        "How many zigs before you zag?"
+      ]
+    },
+    "instagram": {
+      "caption": "L’ex CTO di Meta ha raccolto 250 milioni di dollari per un fondo clima che finanzia solo software, senza un pannello solare o una batteria.\n\nMentre la maggior parte dei soldi per il clima va in hardware (pannelli, turbine, batterie), lui scommette che ottimizzare la rete elettrica con il codice sia più efficace che costruire nuovi impianti. È un segnale che il venture capital ora crede che il software climatico possa rendere come un SaaS.\n\nPer chi lavora nel settore: significa che il prossimo unicorno potrebbe non essere una fabbrica, ma un algoritmo. La tua startup sta costruendo l’ennesimo hardware o sta risolvendo il problema con il software? ⚡️📉🖥️💰"
+    }
+  },
+  "instagram_caption": "L’ex CTO di Meta ha raccolto 250 milioni di dollari per un fondo clima che finanzia solo software, senza un pannello solare o una batteria.\n\nMentre la maggior parte dei soldi per il clima va in hardware (pannelli, turbine, batterie), lui scommette che ottimizzare la rete elettrica con il codice sia più efficace che costruire nuovi impianti. È un segnale che il venture capital ora crede che il software climatico possa rendere come un SaaS.\n\nPer chi lavora nel settore: significa che il prossimo unicorno potrebbe non essere una fabbrica, ma un algoritmo. La tua startup sta costruendo l’ennesimo hardware o sta risolvendo il problema con il software? ⚡️📉🖥️💰",
+  "carousel_slides": [
+    {
+      "hook": "Ex-Meta CTO raised $250M—why?",
+      "description": "Not a solar panel or battery. Pure software for climate. The playbook just flipped.",
+      "visual_hint": "Pile of cash next to laptop",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "money and laptop"
+    },
+    {
+      "hook": "Most fund hardware; he ignored it",
+      "description": "Wind turbines and batteries get billions. He bet on software to optimize the grid instead.",
+      "visual_hint": "Crossed-out wind turbine",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "wind turbine",
+      "image": "https://images.pexels.com/photos/14468163/pexels-photo-14468163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Software over solar panels",
+      "description": "Think Stripe for carbon credits, not Elon's tunnel. That's the secret weapon.",
+      "visual_hint": "Floating code lines over globe",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Climate software just got validated",
+      "description": "VCs now believe software can return SaaS-level multiples. This $250M is the signal.",
+      "visual_hint": "Rocket chart with green arrow",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your strategy zigging or zagging?",
+      "description": "Building more hardware? You're on a crowded highway. Ask yourself: what's your zig?",
+      "visual_hint": "Two arrows opposite directions",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "arrows opposite directions",
+      "image": "https://images.pexels.com/photos/2801126/pexels-photo-2801126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mike-Schroepfer-Gigascale-Capital.jpeg?resize=1200,1029",
+  "savedAt": "2026-06-01T20:11:54.509Z",
+  "sourceId": "6226f42b3c9258d2fc45dbe5ee025629"
+}

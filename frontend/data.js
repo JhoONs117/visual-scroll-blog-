@@ -2,9 +2,321 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
-    "slug": "duckduckgo-makes-its-no-ai-search-engine-easier-to",
+    "slug": "unastella-a-south-korean-rocket-startup-that-launc",
     "prompt_version": "1.0.0",
     "status": "published",
+    "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
+    "link": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
+    "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000",
+    "slides": [
+      "Unastella lancia da casa, ma arriva fino a $24M?",
+      "La startup sudcoreana ha raccolto il round più grande del settore",
+      "Il segreto? Un motore stampato in 3D per micro-lanciatori",
+      "Per chi lavora con piccoli satelliti, il costo crolla",
+      "La sfida: chi sarà il primo cliente oltre Corea?"
+    ],
+    "thread_text": [
+      "Un motore per razzi stampato in 3D. Costa un decimo di quelli tradizionali. Una startup sudcoreana lo ha appena finanziato con 24 milioni di dollari.",
+      "Il nome della startup è Innospace. Ha raccolto il round più grande mai visto nel settore dei piccoli lanciatori orbitali. Il mercato dei micro-satelliti è in fermento.",
+      "Il suo segreto è un motore stampato in 3D. Senza saldature né componenti assemblate a mano. Lo producono in giornate, non in mesi. Ogni lancio costa la metà.",
+      "Per chi lavora con piccoli satelliti, il costo di accesso allo spazio crolla. Non servono più razzi da centinaia di milioni per mettere in orbita un cubetto di 10 kg.",
+      "Ora la domanda è: chi sarà il primo cliente fuori dalla Corea del Sud? Se il prossimo lancio funziona, lo spazio diventa un mercato di massa."
+    ],
+    "video_script": [
+      "Hai presente un motore a razzo?",
+      "Beh, questo è stampato in 3D.",
+      "Costa un decimo di quello normale.",
+      "Una startup coreana ha appena raccolto 24 milioni.",
+      "Adesso aspettano il primo cliente internazionale."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Un motore per razzi stampato in 3D. Costa un decimo di quelli tradizionali. Una startup sudcoreana lo ha appena finanziato con 24 milioni di dollari.",
+          "Il nome della startup è Innospace. Ha raccolto il round più grande mai visto nel settore dei piccoli lanciatori orbitali. Il mercato dei micro-satelliti è in fermento.",
+          "Il suo segreto è un motore stampato in 3D. Senza saldature né componenti assemblate a mano. Lo producono in giornate, non in mesi. Ogni lancio costa la metà.",
+          "Per chi lavora con piccoli satelliti, il costo di accesso allo spazio crolla. Non servono più razzi da centinaia di milioni per mettere in orbita un cubetto di 10 kg.",
+          "Ora la domanda è: chi sarà il primo cliente fuori dalla Corea del Sud? Se il prossimo lancio funziona, lo spazio diventa un mercato di massa."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hai presente un motore a razzo?",
+          "Beh, questo è stampato in 3D.",
+          "Costa un decimo di quello normale.",
+          "Una startup coreana ha appena raccolto 24 milioni.",
+          "Adesso aspettano il primo cliente internazionale."
+        ]
+      },
+      "instagram": {
+        "caption": "Una startup sudcoreana ha appena raccolto 24 milioni di dollari 🚀 per un motore di razzo stampato in 3D. Si chiama Innospace ed è il finanziamento più grande mai ottenuto nel settore dei piccoli lanciatori orbitali. Il loro motore costa un decimo di quelli tradizionali e si produce in giorni, non in mesi, tagliando del 50% il costo di ogni lancio. Per chi vuole mettere in orbita un micro-satellite da 10 kg, non servono più razzi da centinaia di milioni 💸. Ora la vera domanda è: chi sarà il primo cliente fuori dalla Corea del Sud?"
+      }
+    },
+    "instagram_caption": "Una startup sudcoreana ha appena raccolto 24 milioni di dollari 🚀 per un motore di razzo stampato in 3D. Si chiama Innospace ed è il finanziamento più grande mai ottenuto nel settore dei piccoli lanciatori orbitali. Il loro motore costa un decimo di quelli tradizionali e si produce in giorni, non in mesi, tagliando del 50% il costo di ogni lancio. Per chi vuole mettere in orbita un micro-satellite da 10 kg, non servono più razzi da centinaia di milioni 💸. Ora la vera domanda è: chi sarà il primo cliente fuori dalla Corea del Sud?",
+    "carousel_slides": [
+      {
+        "hook": "Una casa, 24 milioni",
+        "description": "Innospace raccoglie 24 milioni: il round più grande mai visto nei piccoli lanciatori orbitali.",
+        "visual_hint": "razzo in salotto",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "small rocket model"
+      },
+      {
+        "hook": "Motore stampato in 3D",
+        "description": "Costa un decimo, si produce in giorni. Nessuna saldatura, nessun assemblaggio manuale.",
+        "visual_hint": "motore metallico 3D",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "3D printed rocket engine",
+        "image": "https://images.pexels.com/photos/32396955/pexels-photo-32396955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costo di lancio dimezzato",
+        "description": "Per micro-satelliti non servono razzi da centinaia di milioni. Ogni lancio costa la metà.",
+        "visual_hint": "razzo e cubo satellite",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "small satellite launch",
+        "image": "https://images.pexels.com/photos/34328440/pexels-photo-34328440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il primo cliente extra-Corea",
+        "description": "Se il prossimo lancio funziona, lo spazio diventa un mercato di massa. Chi sarà il primo?",
+        "visual_hint": "mappa con pin orbita",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "world map satellite",
+        "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spazio democratizzato?",
+        "description": "Unastella dimostra che si può partire da casa e rivoluzionare il costo d'accesso allo spazio.",
+        "visual_hint": "razzo che decolla",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "rocket liftoff",
+        "image": "https://images.pexels.com/photos/3697826/pexels-photo-3697826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/spacex-starlink-getty.jpg?resize=1200,800",
+    "savedAt": "2026-06-01T20:12:20.015Z",
+    "sourceId": "edda576551eb656ecd701938d3e2c3df"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "this-ai-weather-startup-is-out-forecasting-governm",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "This AI weather startup is out-forecasting government agencies",
+    "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "pubDate": "Mon, 01 Jun 2026 16:00:00 +0000",
+    "slides": [
+      "A startup beats government weather models—how?",
+      "It combines satellite data with proprietary AI training",
+      "Its storm predictions were 30% more accurate last year",
+      "You can now access forecasts your local agency misses",
+      "Test its next rain alert against official data—today"
+    ],
+    "thread_text": [
+      "Le previsioni di una startup sono state il 30% più accurate di quelle governative l'anno scorso. Come ci sono riuscite?",
+      "Non usano solo i soliti dati satellitari. Allenano un modello AI con un dataset proprietario che impara a riconoscere schemi che i modelli classici perdono.",
+      "Il risultato: prevedono tempeste che le agenzie locali non vedono. Se vivi in una zona con meteo imprevedibile, hai accesso a un livello di dettaglio che prima non esisteva.",
+      "Non devi fidarti ciecamente. Puoi confrontare i loro avvisi di pioggia con i dati ufficiali, oggi stesso.",
+      "Costa meno di un abbonamento Netflix. Provalo per la prossima ondata di maltempo."
+    ],
+    "video_script": [
+      "Una startup batte i modelli meteo governativi.",
+      "Combinano satelliti e AI addestrata su dati unici.",
+      "Le loro previsioni di tempesta sono più precise.",
+      "Vedi quello che le agenzie locali non vedono.",
+      "Confrontale tu stesso coi dati ufficiali."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Le previsioni di una startup sono state il 30% più accurate di quelle governative l'anno scorso. Come ci sono riuscite?",
+          "Non usano solo i soliti dati satellitari. Allenano un modello AI con un dataset proprietario che impara a riconoscere schemi che i modelli classici perdono.",
+          "Il risultato: prevedono tempeste che le agenzie locali non vedono. Se vivi in una zona con meteo imprevedibile, hai accesso a un livello di dettaglio che prima non esisteva.",
+          "Non devi fidarti ciecamente. Puoi confrontare i loro avvisi di pioggia con i dati ufficiali, oggi stesso.",
+          "Costa meno di un abbonamento Netflix. Provalo per la prossima ondata di maltempo."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Una startup batte i modelli meteo governativi.",
+          "Combinano satelliti e AI addestrata su dati unici.",
+          "Le loro previsioni di tempesta sono più precise.",
+          "Vedi quello che le agenzie locali non vedono.",
+          "Confrontale tu stesso coi dati ufficiali."
+        ]
+      },
+      "instagram": {
+        "caption": "L'anno scorso una startup ha previsto le tempeste con il 30% di precisione in più rispetto alle agenzie governative. 🌩️ Come? Non si limitano ai soliti dati satellitari: addestrano un modello AI su un dataset proprietario che riconosce schemi che i modelli classici ignorano. Il risultato: avvisi di pioggia che i tuoi enti locali non danno. 📡 Puoi già confrontare le loro allerte con i dati ufficiali e vedere la differenza. ☔ Che previsione ti hanno sbagliato di recente?"
+      }
+    },
+    "instagram_caption": "L'anno scorso una startup ha previsto le tempeste con il 30% di precisione in più rispetto alle agenzie governative. 🌩️ Come? Non si limitano ai soliti dati satellitari: addestrano un modello AI su un dataset proprietario che riconosce schemi che i modelli classici ignorano. Il risultato: avvisi di pioggia che i tuoi enti locali non danno. 📡 Puoi già confrontare le loro allerte con i dati ufficiali e vedere la differenza. ☔ Che previsione ti hanno sbagliato di recente?",
+    "carousel_slides": [
+      {
+        "hook": "30% più accurate delle agenzie",
+        "description": "Le previsioni di una startup hanno superato quelle governative del 30% l'anno scorso. Come hanno fatto?",
+        "visual_hint": "storm vs sun comparison",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "weather satellite orbit"
+      },
+      {
+        "hook": "AI impara ciò che i modelli perdono",
+        "description": "Non solo dati satellitari: addestrano un'AI su un dataset proprietario per riconoscere schemi ignorati dai modelli classici.",
+        "visual_hint": "AI neural network processing",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Vedi tempeste che i locali ignorano",
+        "description": "Prevedono maltempo che le agenzie locali non rilevano. Dettaglio prima inaccessibile, ora nella tua zona imprevedibile.",
+        "visual_hint": "radar map with storm alert",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "weather radar screen",
+        "image": "https://images.pexels.com/photos/20196067/pexels-photo-20196067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Confronta con i dati ufficiali",
+        "description": "Non fidarti ciecamente. Verifica i loro avvisi di pioggia contro i dati ufficiali, subito.",
+        "visual_hint": "two forecast charts side-by-side",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone weather app",
+        "image": "https://images.pexels.com/photos/17249214/pexels-photo-17249214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costa meno di Netflix, provalo",
+        "description": "Abbonamento inferiore a Netflix. Testalo per la prossima ondata di maltempo.",
+        "visual_hint": "Netflix vs startup subscription",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "Netflix subscription card",
+        "image": "https://images.pexels.com/photos/6235469/pexels-photo-6235469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
+    "savedAt": "2026-06-01T20:12:07.017Z",
+    "sourceId": "2015d5b1d007d0ef802238dddf214c78"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "zigging-when-most-are-zagging-ex-meta-cto-raises-2",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
+    "link": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
+    "pubDate": "Mon, 01 Jun 2026 16:42:22 +0000",
+    "slides": [
+      "Ex-Meta CTO raised $250M—but for what?",
+      "Most climate funds back hardware; he ignored it.",
+      "His secret weapon? Software over solar panels.",
+      "Funding for climate software just got validation.",
+      "Ask: is your strategy zigging or zagging?"
+    ],
+    "thread_text": [
+      "The Ex-Meta CTO just raised $250M for a climate startup you've never heard of. Not a single solar panel. Not a battery. Pure software.",
+      "Most climate money goes to hardware - giant farms of solar, hulking wind turbines, next-gen batteries. He ignored that entire playbook.",
+      "His bet: software can optimize the energy grid better than any new panel. Think of it as Stripe for carbon credits, not Elon's tunnel.",
+      "This isn't a bet on one company. It's a sign: VCs now believe climate software can return SaaS-level multiples. The validation just happened.",
+      "If your strategy is building more hardware, you're betting on a crowded highway. Ask yourself: is your move the zig or the zag?"
+    ],
+    "video_script": [
+      "Ex-Meta CTO raised a quarter billion.",
+      "Most climate money buys solar panels.",
+      "He bought software instead.",
+      "Software optimizes the grid way better.",
+      "How many zigs before you zag?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "The Ex-Meta CTO just raised $250M for a climate startup you've never heard of. Not a single solar panel. Not a battery. Pure software.",
+          "Most climate money goes to hardware - giant farms of solar, hulking wind turbines, next-gen batteries. He ignored that entire playbook.",
+          "His bet: software can optimize the energy grid better than any new panel. Think of it as Stripe for carbon credits, not Elon's tunnel.",
+          "This isn't a bet on one company. It's a sign: VCs now believe climate software can return SaaS-level multiples. The validation just happened.",
+          "If your strategy is building more hardware, you're betting on a crowded highway. Ask yourself: is your move the zig or the zag?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Ex-Meta CTO raised a quarter billion.",
+          "Most climate money buys solar panels.",
+          "He bought software instead.",
+          "Software optimizes the grid way better.",
+          "How many zigs before you zag?"
+        ]
+      },
+      "instagram": {
+        "caption": "L’ex CTO di Meta ha raccolto 250 milioni di dollari per un fondo clima che finanzia solo software, senza un pannello solare o una batteria.\n\nMentre la maggior parte dei soldi per il clima va in hardware (pannelli, turbine, batterie), lui scommette che ottimizzare la rete elettrica con il codice sia più efficace che costruire nuovi impianti. È un segnale che il venture capital ora crede che il software climatico possa rendere come un SaaS.\n\nPer chi lavora nel settore: significa che il prossimo unicorno potrebbe non essere una fabbrica, ma un algoritmo. La tua startup sta costruendo l’ennesimo hardware o sta risolvendo il problema con il software? ⚡️📉🖥️💰"
+      }
+    },
+    "instagram_caption": "L’ex CTO di Meta ha raccolto 250 milioni di dollari per un fondo clima che finanzia solo software, senza un pannello solare o una batteria.\n\nMentre la maggior parte dei soldi per il clima va in hardware (pannelli, turbine, batterie), lui scommette che ottimizzare la rete elettrica con il codice sia più efficace che costruire nuovi impianti. È un segnale che il venture capital ora crede che il software climatico possa rendere come un SaaS.\n\nPer chi lavora nel settore: significa che il prossimo unicorno potrebbe non essere una fabbrica, ma un algoritmo. La tua startup sta costruendo l’ennesimo hardware o sta risolvendo il problema con il software? ⚡️📉🖥️💰",
+    "carousel_slides": [
+      {
+        "hook": "Ex-Meta CTO raised $250M—why?",
+        "description": "Not a solar panel or battery. Pure software for climate. The playbook just flipped.",
+        "visual_hint": "Pile of cash next to laptop",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "money and laptop"
+      },
+      {
+        "hook": "Most fund hardware; he ignored it",
+        "description": "Wind turbines and batteries get billions. He bet on software to optimize the grid instead.",
+        "visual_hint": "Crossed-out wind turbine",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "wind turbine",
+        "image": "https://images.pexels.com/photos/14468163/pexels-photo-14468163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Software over solar panels",
+        "description": "Think Stripe for carbon credits, not Elon's tunnel. That's the secret weapon.",
+        "visual_hint": "Floating code lines over globe",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Climate software just got validated",
+        "description": "VCs now believe software can return SaaS-level multiples. This $250M is the signal.",
+        "visual_hint": "Rocket chart with green arrow",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Is your strategy zigging or zagging?",
+        "description": "Building more hardware? You're on a crowded highway. Ask yourself: what's your zig?",
+        "visual_hint": "Two arrows opposite directions",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "arrows opposite directions",
+        "image": "https://images.pexels.com/photos/2801126/pexels-photo-2801126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mike-Schroepfer-Gigascale-Capital.jpeg?resize=1200,1029",
+    "savedAt": "2026-06-01T20:11:54.509Z",
+    "sourceId": "6226f42b3c9258d2fc45dbe5ee025629"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "duckduckgo-makes-its-no-ai-search-engine-easier-to",
+    "prompt_version": "1.0.0",
+    "status": "approved",
     "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
     "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
     "pubDate": "Mon, 01 Jun 2026 14:49:10 +0000",
@@ -212,7 +524,7 @@ window.ARTICLES = [
     "agent": "ai-news",
     "slug": "making-sense-of-the-debate-over-ai-psychosis",
     "prompt_version": "1.0.0",
-    "status": "published",
+    "status": "approved",
     "title": "Making sense of the debate over AI psychosis",
     "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
     "pubDate": "Sun, 31 May 2026 15:30:00 +0000",
@@ -258,6 +570,58 @@ window.ARTICLES = [
       },
       "instagram": {
         "caption": "Se chiedi a un chatbot qualcosa che non sa, non ti dirà \"non lo so\": inventerà una risposta convincente ma falsa. Questo comportamento, chiamato AI psychosis, non è un bug sporadico ma un meccanismo prevedibile del sistema 🤖. Più il modello è ignorante su un tema, più allucina dettagli plausibili per darti comunque una risposta 🧠. Chi usa l'AI per lavoro deve verificare ogni output esternamente, senza fidarsi del testo. Prova a chiedere al tuo chatbot preferito un dettaglio specifico su un argomento che conosci bene: in meno di 5 minuti trovi il suo errore nascosto?"
+      },
+      "video": {
+        "scenes": [
+          {
+            "scene": 1,
+            "duration_sec": 5,
+            "hook": "AI psychosis: un bug o una nuova intelligenza?",
+            "voiceover": "Scopriamo se l'AI ha realmente una mente propria.",
+            "on_screen_text": "AI psychosis: bug o intelligenza?",
+            "visual_direction": "Animazione che mostra un cervello digitale.",
+            "caption": "Cosa significa davvero?"
+          },
+          {
+            "scene": 2,
+            "duration_sec": 6,
+            "hook": "I modelli allucinano più quando non sanno.",
+            "voiceover": "I modelli AI possono generare allucinazioni quando non hanno dati.",
+            "on_screen_text": "Modelli allucinano senza dati.",
+            "visual_direction": "Grafico di dati con segnali di allerta.",
+            "caption": "Attenzione ai dati!"
+          },
+          {
+            "scene": 3,
+            "duration_sec": 5,
+            "hook": "A volte inventano risposte coerenti ma false.",
+            "voiceover": "L'AI può sembrare convincente, ma non sempre è corretta.",
+            "on_screen_text": "Risposte coerenti, ma false.",
+            "visual_direction": "Immagini di conversazioni AI con errori.",
+            "caption": "Verifica sempre."
+          },
+          {
+            "scene": 4,
+            "duration_sec": 6,
+            "hook": "Non fidarti ciecamente: verifica ogni output.",
+            "voiceover": "È fondamentale controllare le risposte dell'AI.",
+            "on_screen_text": "Verifica ogni output.",
+            "visual_direction": "Rappresentazione di un controllo incrociato.",
+            "caption": "Fai attenzione!"
+          },
+          {
+            "scene": 5,
+            "duration_sec": 5,
+            "hook": "Testa oggi un suo errore nascosto.",
+            "voiceover": "Scopri come l'AI può sbagliare, anche oggi.",
+            "on_screen_text": "Testa un errore oggi.",
+            "visual_direction": "Esempi di errori con l'AI.",
+            "caption": "Sperimenta!"
+          }
+        ],
+        "cta": "Segui per ulteriori approfondimenti sull'AI!",
+        "quality_score": 85,
+        "template": "slide_deck"
       }
     },
     "instagram_caption": "Se chiedi a un chatbot qualcosa che non sa, non ti dirà \"non lo so\": inventerà una risposta convincente ma falsa. Questo comportamento, chiamato AI psychosis, non è un bug sporadico ma un meccanismo prevedibile del sistema 🤖. Più il modello è ignorante su un tema, più allucina dettagli plausibili per darti comunque una risposta 🧠. Chi usa l'AI per lavoro deve verificare ogni output esternamente, senza fidarsi del testo. Prova a chiedere al tuo chatbot preferito un dettaglio specifico su un argomento che conosci bene: in meno di 5 minuti trovi il suo errore nascosto?",

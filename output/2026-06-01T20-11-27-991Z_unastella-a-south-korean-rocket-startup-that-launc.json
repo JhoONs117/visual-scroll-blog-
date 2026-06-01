@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "unastella-a-south-korean-rocket-startup-that-launc",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
+  "link": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
+  "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000",
+  "slides": [
+    "Unastella lancia da casa, ma arriva fino a $24M?",
+    "La startup sudcoreana ha raccolto il round più grande del settore",
+    "Il segreto? Un motore stampato in 3D per micro-lanciatori",
+    "Per chi lavora con piccoli satelliti, il costo crolla",
+    "La sfida: chi sarà il primo cliente oltre Corea?"
+  ],
+  "thread_text": [
+    "Un motore per razzi stampato in 3D. Costa un decimo di quelli tradizionali. Una startup sudcoreana lo ha appena finanziato con 24 milioni di dollari.",
+    "Il nome della startup è Innospace. Ha raccolto il round più grande mai visto nel settore dei piccoli lanciatori orbitali. Il mercato dei micro-satelliti è in fermento.",
+    "Il suo segreto è un motore stampato in 3D. Senza saldature né componenti assemblate a mano. Lo producono in giornate, non in mesi. Ogni lancio costa la metà.",
+    "Per chi lavora con piccoli satelliti, il costo di accesso allo spazio crolla. Non servono più razzi da centinaia di milioni per mettere in orbita un cubetto di 10 kg.",
+    "Ora la domanda è: chi sarà il primo cliente fuori dalla Corea del Sud? Se il prossimo lancio funziona, lo spazio diventa un mercato di massa."
+  ],
+  "video_script": [
+    "Hai presente un motore a razzo?",
+    "Beh, questo è stampato in 3D.",
+    "Costa un decimo di quello normale.",
+    "Una startup coreana ha appena raccolto 24 milioni.",
+    "Adesso aspettano il primo cliente internazionale."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Un motore per razzi stampato in 3D. Costa un decimo di quelli tradizionali. Una startup sudcoreana lo ha appena finanziato con 24 milioni di dollari.",
+        "Il nome della startup è Innospace. Ha raccolto il round più grande mai visto nel settore dei piccoli lanciatori orbitali. Il mercato dei micro-satelliti è in fermento.",
+        "Il suo segreto è un motore stampato in 3D. Senza saldature né componenti assemblate a mano. Lo producono in giornate, non in mesi. Ogni lancio costa la metà.",
+        "Per chi lavora con piccoli satelliti, il costo di accesso allo spazio crolla. Non servono più razzi da centinaia di milioni per mettere in orbita un cubetto di 10 kg.",
+        "Ora la domanda è: chi sarà il primo cliente fuori dalla Corea del Sud? Se il prossimo lancio funziona, lo spazio diventa un mercato di massa."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hai presente un motore a razzo?",
+        "Beh, questo è stampato in 3D.",
+        "Costa un decimo di quello normale.",
+        "Una startup coreana ha appena raccolto 24 milioni.",
+        "Adesso aspettano il primo cliente internazionale."
+      ]
+    },
+    "instagram": {
+      "caption": "Una startup sudcoreana ha appena raccolto 24 milioni di dollari 🚀 per un motore di razzo stampato in 3D. Si chiama Innospace ed è il finanziamento più grande mai ottenuto nel settore dei piccoli lanciatori orbitali. Il loro motore costa un decimo di quelli tradizionali e si produce in giorni, non in mesi, tagliando del 50% il costo di ogni lancio. Per chi vuole mettere in orbita un micro-satellite da 10 kg, non servono più razzi da centinaia di milioni 💸. Ora la vera domanda è: chi sarà il primo cliente fuori dalla Corea del Sud?"
+    }
+  },
+  "instagram_caption": "Una startup sudcoreana ha appena raccolto 24 milioni di dollari 🚀 per un motore di razzo stampato in 3D. Si chiama Innospace ed è il finanziamento più grande mai ottenuto nel settore dei piccoli lanciatori orbitali. Il loro motore costa un decimo di quelli tradizionali e si produce in giorni, non in mesi, tagliando del 50% il costo di ogni lancio. Per chi vuole mettere in orbita un micro-satellite da 10 kg, non servono più razzi da centinaia di milioni 💸. Ora la vera domanda è: chi sarà il primo cliente fuori dalla Corea del Sud?",
+  "carousel_slides": [
+    {
+      "hook": "Una casa, 24 milioni",
+      "description": "Innospace raccoglie 24 milioni: il round più grande mai visto nei piccoli lanciatori orbitali.",
+      "visual_hint": "razzo in salotto",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "small rocket model"
+    },
+    {
+      "hook": "Motore stampato in 3D",
+      "description": "Costa un decimo, si produce in giorni. Nessuna saldatura, nessun assemblaggio manuale.",
+      "visual_hint": "motore metallico 3D",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "3D printed rocket engine",
+      "image": "https://images.pexels.com/photos/32396955/pexels-photo-32396955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costo di lancio dimezzato",
+      "description": "Per micro-satelliti non servono razzi da centinaia di milioni. Ogni lancio costa la metà.",
+      "visual_hint": "razzo e cubo satellite",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "small satellite launch",
+      "image": "https://images.pexels.com/photos/34328440/pexels-photo-34328440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il primo cliente extra-Corea",
+      "description": "Se il prossimo lancio funziona, lo spazio diventa un mercato di massa. Chi sarà il primo?",
+      "visual_hint": "mappa con pin orbita",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "world map satellite",
+      "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Spazio democratizzato?",
+      "description": "Unastella dimostra che si può partire da casa e rivoluzionare il costo d'accesso allo spazio.",
+      "visual_hint": "razzo che decolla",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "rocket liftoff",
+      "image": "https://images.pexels.com/photos/3697826/pexels-photo-3697826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/spacex-starlink-getty.jpg?resize=1200,800",
+  "savedAt": "2026-06-01T20:12:20.015Z",
+  "sourceId": "edda576551eb656ecd701938d3e2c3df"
+}
