@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "making-sense-of-the-debate-over-ai-psychosis",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Making sense of the debate over AI psychosis",
+      "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "pubDate": "Sun, 31 May 2026 15:30:00 +0000",
+      "slides": [
+        "AI psychosis: un bug o una nuova intelligenza?",
+        "I modelli allucinano più quando non sanno.",
+        "A volte inventano risposte coerenti ma false.",
+        "Non fidarti ciecamente: verifica ogni output.",
+        "Testa oggi un suo errore nascosto."
+      ],
+      "thread_text": [
+        "A volte i modelli AI inventano risposte coerenti ma completamente false. Non è un bug: è il loro modo di funzionare quando non sanno.",
+        "Più un modello è ignorante su un tema, più allucina. Produce dettagli plausibili perché deve dare una risposta, anche se non ha dati.",
+        "Questa tendenza a inventare viene chiamata AI psychosis. Non è un errore raro: è sistemico e prevedibile.",
+        "Il problema è che non puoi distinguere un output vero da uno falso solo leggendolo. Servono verifiche esterne, ogni volta.",
+        "Apri il tuo chatbot preferito e chiedigli qualcosa di molto specifico su un argomento di nicchia che conosci bene. Probabilmente troverai il suo errore nascosto in meno di 5 minuti."
+      ],
+      "video_script": [
+        "I modelli AI inventano risposte false ma convincenti.",
+        "Succede più spesso quando non sanno la risposta.",
+        "Si chiama allucinazione, non è un bug raro.",
+        "Non fidarti mai a occhi chiusi.",
+        "Verifica oggi con un argomento che conosci."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "A volte i modelli AI inventano risposte coerenti ma completamente false. Non è un bug: è il loro modo di funzionare quando non sanno.",
+            "Più un modello è ignorante su un tema, più allucina. Produce dettagli plausibili perché deve dare una risposta, anche se non ha dati.",
+            "Questa tendenza a inventare viene chiamata AI psychosis. Non è un errore raro: è sistemico e prevedibile.",
+            "Il problema è che non puoi distinguere un output vero da uno falso solo leggendolo. Servono verifiche esterne, ogni volta.",
+            "Apri il tuo chatbot preferito e chiedigli qualcosa di molto specifico su un argomento di nicchia che conosci bene. Probabilmente troverai il suo errore nascosto in meno di 5 minuti."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "I modelli AI inventano risposte false ma convincenti.",
+            "Succede più spesso quando non sanno la risposta.",
+            "Si chiama allucinazione, non è un bug raro.",
+            "Non fidarti mai a occhi chiusi.",
+            "Verifica oggi con un argomento che conosci."
+          ]
+        },
+        "instagram": {
+          "caption": "Se chiedi a un chatbot qualcosa che non sa, non ti dirà \"non lo so\": inventerà una risposta convincente ma falsa. Questo comportamento, chiamato AI psychosis, non è un bug sporadico ma un meccanismo prevedibile del sistema 🤖. Più il modello è ignorante su un tema, più allucina dettagli plausibili per darti comunque una risposta 🧠. Chi usa l'AI per lavoro deve verificare ogni output esternamente, senza fidarsi del testo. Prova a chiedere al tuo chatbot preferito un dettaglio specifico su un argomento che conosci bene: in meno di 5 minuti trovi il suo errore nascosto?"
+        }
+      },
+      "instagram_caption": "Se chiedi a un chatbot qualcosa che non sa, non ti dirà \"non lo so\": inventerà una risposta convincente ma falsa. Questo comportamento, chiamato AI psychosis, non è un bug sporadico ma un meccanismo prevedibile del sistema 🤖. Più il modello è ignorante su un tema, più allucina dettagli plausibili per darti comunque una risposta 🧠. Chi usa l'AI per lavoro deve verificare ogni output esternamente, senza fidarsi del testo. Prova a chiedere al tuo chatbot preferito un dettaglio specifico su un argomento che conosci bene: in meno di 5 minuti trovi il suo errore nascosto?",
+      "carousel_slides": [
+        {
+          "hook": "Quando l'AI inventa storie",
+          "description": "A volte i modelli AI inventano risposte coerenti ma completamente false. Non è un bug: è il loro modo di funzionare quando non sanno.",
+          "visual_hint": "mano robotica che scrive",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "robot hand typing"
+        },
+        {
+          "hook": "Più ignoranza, più allucina",
+          "description": "Più un modello è ignorante su un tema, più allucina. Produce dettagli plausibili perché deve dare una risposta, anche se non ha dati.",
+          "visual_hint": "testa che si riempie di bolle",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "AI brain circuit board",
+          "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Si chiama AI psychosis",
+          "description": "Questa tendenza a inventare viene chiamata AI psychosis. Non è un errore raro: è sistemico e prevedibile.",
+          "visual_hint": "ingranaggio con punto interrogativo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "gears question mark",
+          "image": "https://images.pexels.com/photos/10981245/pexels-photo-10981245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non fidarti a occhi chiusi",
+          "description": "Il problema è che non puoi distinguere un output vero da uno falso solo leggendolo. Servono verifiche esterne, ogni volta.",
+          "visual_hint": "lente d'ingrandimento su schermo",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "magnifying glass screen",
+          "image": "https://images.pexels.com/photos/5562089/pexels-photo-5562089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trova l'errore in 5 minuti",
+          "description": "Apri il tuo chatbot preferito e chiedigli qualcosa di molto specifico su un argomento di nicchia che conosci bene.",
+          "visual_hint": "mano che apre app chatbot",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone chatbot app",
+          "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
+      "savedAt": "2026-06-01T02:48:54.846Z",
+      "sourceId": "219fb65d984a0c7188753bc42b9b6ea7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "erin-brockovich-takes-aim-at-data-center-secrecy",
       "prompt_version": "1.0.0",
       "status": "published",
