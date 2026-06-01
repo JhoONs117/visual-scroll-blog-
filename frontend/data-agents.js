@@ -5,7 +5,7 @@ window.AGENTS = {
       "agent": "ai-news",
       "slug": "duckduckgo-makes-its-no-ai-search-engine-easier-to",
       "prompt_version": "1.0.0",
-      "status": "published",
+      "status": "approved",
       "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
       "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
       "pubDate": "Mon, 01 Jun 2026 14:49:10 +0000",
