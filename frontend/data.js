@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ai-in-video-game-development-how-artificial-intell",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI in video game development: How artificial intelligence is reshaping the industry",
+    "link": "https://www.artificialintelligence-news.com/news/ai-in-video-game-development/",
+    "pubDate": "Mon, 01 Jun 2026 08:46:19 +0000",
+    "slides": [
+      "AI writes code for your next game, but who owns it?",
+      "Procedural generation now creates entire worlds in minutes.",
+      "Playtesters are being replaced by AI that predicts behavior.",
+      "You can ship faster, but expect new legal risks on day one.",
+      "Try an AI tool today—then audit every line it outputs."
+    ],
+    "thread_text": [
+      "Playtesters are being replaced by AI that predicts player behavior before they even launch the game. Sound efficient? It is—until the model misses something human instinct catches.",
+      "AI now generates entire worlds in minutes. Maps, NPCs, quests—none of it handcrafted. It's fast, but teams are discovering the output needs more curation than they expected.",
+      "The code for your next game might be written by an AI model too. But who owns that code? The answer isn't clear, and that ambiguity is already costing studios in court.",
+      "Ship faster? Yes. But expect new legal risks on day one. Copyright claims don't wait for your next update. They hit as soon as the game goes live.",
+      "Try an AI tool today—but audit every line it outputs. The first studio that skips that step won't just fail. They’ll set a precedent."
+    ],
+    "video_script": [
+      "AI replaces playtesters now. Risky?",
+      "Entire worlds generated in minutes.",
+      "Code written by AI, owned by who?",
+      "Ship faster, but face new lawsuits.",
+      "Test AI tools, then double-check everything."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Playtesters are being replaced by AI that predicts player behavior before they even launch the game. Sound efficient? It is—until the model misses something human instinct catches.",
+          "AI now generates entire worlds in minutes. Maps, NPCs, quests—none of it handcrafted. It's fast, but teams are discovering the output needs more curation than they expected.",
+          "The code for your next game might be written by an AI model too. But who owns that code? The answer isn't clear, and that ambiguity is already costing studios in court.",
+          "Ship faster? Yes. But expect new legal risks on day one. Copyright claims don't wait for your next update. They hit as soon as the game goes live.",
+          "Try an AI tool today—but audit every line it outputs. The first studio that skips that step won't just fail. They’ll set a precedent."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI replaces playtesters now. Risky?",
+          "Entire worlds generated in minutes.",
+          "Code written by AI, owned by who?",
+          "Ship faster, but face new lawsuits.",
+          "Test AI tools, then double-check everything."
+        ]
+      },
+      "instagram": {
+        "caption": "Un videogioco ora può farsi creare mondi, dialoghi e persino codice da un’intelligenza artificiale in pochi minuti, non in mesi. È veloce, ma gli sviluppatori scoprono che ogni output va revisionato a mano: le missioni generate sono spesso inconsistenti, e il codice solleva dubbi su chi ne detenga i diritti.  \nIl problema grosso è che appena il gioco viene pubblicato scattano rivendicazioni legali, prima che tu possa correggere qualcosa.  \nSe lavori nel settore, oggi puoi spedire un titolo in tempi record, ma devi anche mandare in auditoria ogni riga che l’IA ha prodotto.  \nChi sarà il primo studio a saltare questo controllo e a creare un precedente legale? ⚖️"
+      }
+    },
+    "instagram_caption": "Un videogioco ora può farsi creare mondi, dialoghi e persino codice da un’intelligenza artificiale in pochi minuti, non in mesi. È veloce, ma gli sviluppatori scoprono che ogni output va revisionato a mano: le missioni generate sono spesso inconsistenti, e il codice solleva dubbi su chi ne detenga i diritti.  \nIl problema grosso è che appena il gioco viene pubblicato scattano rivendicazioni legali, prima che tu possa correggere qualcosa.  \nSe lavori nel settore, oggi puoi spedire un titolo in tempi record, ma devi anche mandare in auditoria ogni riga che l’IA ha prodotto.  \nChi sarà il primo studio a saltare questo controllo e a creare un precedente legale? ⚖️",
+    "carousel_slides": [
+      {
+        "hook": "AI writes code, but who owns it?",
+        "description": "Playtesters replaced by AI predicting behavior. Efficient until the model misses human instinct.",
+        "visual_hint": "gavel on contract",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "courtroom gavel"
+      },
+      {
+        "hook": "Entire worlds in minutes",
+        "description": "Maps, NPCs, quests—AI generates fast, but output needs more curation than expected.",
+        "visual_hint": "procedural map grid",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "video game map",
+        "image": "https://images.pexels.com/photos/7915304/pexels-photo-7915304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Code ownership isn't clear",
+        "description": "Ambiguity around AI-written code is already costing studios in court.",
+        "visual_hint": "code lines blurred",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ship faster, risk on day one",
+        "description": "Copyright claims hit as soon as the game goes live. They don't wait for updates.",
+        "visual_hint": "copyright symbol on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "copyright symbol",
+        "image": "https://images.pexels.com/photos/32162501/pexels-photo-32162501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try AI, then audit every line",
+        "description": "The first studio that skips auditing won't just fail—they'll set a precedent.",
+        "visual_hint": "magnifying glass over code",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "magnifying glass code",
+        "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-01T09:14:33.462Z",
+    "sourceId": "9bbb8c3bb567adfd316ff1d93e4bdf38"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "making-sense-of-the-debate-over-ai-psychosis",
     "prompt_version": "1.0.0",
     "status": "published",
