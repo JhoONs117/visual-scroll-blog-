@@ -5,7 +5,7 @@ window.AGENTS = {
       "agent": "ai-news",
       "slug": "hackers-hijacked-instagram-accounts-by-tricking-me",
       "prompt_version": "1.0.0",
-      "status": "published",
+      "status": "approved",
       "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
       "link": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
       "pubDate": "Mon, 01 Jun 2026 18:34:32 +0000",
