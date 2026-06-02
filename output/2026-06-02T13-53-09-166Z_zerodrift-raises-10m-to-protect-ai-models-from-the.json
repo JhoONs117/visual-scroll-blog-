@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "zerodrift-raises-10m-to-protect-ai-models-from-the",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ZeroDrift raises $10M to protect AI models from themselves",
+  "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+  "pubDate": "Tue, 02 Jun 2026 12:32:59 +0000",
+  "slides": [
+    "ZeroDrift ha $10M per fermare cosa, esattamente?",
+    "I modelli AI possono degradarsi silenziosamente nel tempo.",
+    "Il drift peggiora le risposte senza che tu lo noti.",
+    "ZeroDrift lo rileva prima che i tuoi utenti se ne accorgano.",
+    "Provalo oggi: non fidarti ciecamente della tua AI."
+  ],
+  "thread_text": [
+    "I tuoi modelli AI stanno peggiorando e non te ne accorgi. ZeroDrift ha raccolto 10 milioni di dollari per fermare un lento degrado che nessuno vede arrivare.",
+    "Un modello AI non si rompe all'improvviso. Si degrada in modo silenzioso: le risposte diventano meno precise, le decisioni più strane.",
+    "È come un termometro che segna sempre la stessa temperatura mentre fuori cambia tutto. Il drift peggiora le risposte senza che nessuno lo noti.",
+    "ZeroDrift monitora continuamente il comportamento del modello. Non aspetta che gli utenti si lamentino: rileva l'anomalia prima, in tempo reale.",
+    "Costa meno di un abbonamento Spotify e si integra in un pomeriggio. Se hai un modello in produzione, è il controllo che non sapevi di dover fare."
+  ],
+  "video_script": [
+    "Il tuo modello AI sta peggiorando.",
+    "Non te ne accorgi, è lento.",
+    "Ma gli utenti lo sentono.",
+    "ZeroDrift lo blocca prima.",
+    "Provalo oggi, non fidarti ciecamente."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "I tuoi modelli AI stanno peggiorando e non te ne accorgi. ZeroDrift ha raccolto 10 milioni di dollari per fermare un lento degrado che nessuno vede arrivare.",
+        "Un modello AI non si rompe all'improvviso. Si degrada in modo silenzioso: le risposte diventano meno precise, le decisioni più strane.",
+        "È come un termometro che segna sempre la stessa temperatura mentre fuori cambia tutto. Il drift peggiora le risposte senza che nessuno lo noti.",
+        "ZeroDrift monitora continuamente il comportamento del modello. Non aspetta che gli utenti si lamentino: rileva l'anomalia prima, in tempo reale.",
+        "Costa meno di un abbonamento Spotify e si integra in un pomeriggio. Se hai un modello in produzione, è il controllo che non sapevi di dover fare."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Il tuo modello AI sta peggiorando.",
+        "Non te ne accorgi, è lento.",
+        "Ma gli utenti lo sentono.",
+        "ZeroDrift lo blocca prima.",
+        "Provalo oggi, non fidarti ciecamente."
+      ]
+    },
+    "instagram": {
+      "caption": "I tuoi modelli AI possono peggiorare senza che tu te ne accorga 📉. ZeroDrift ha appena raccolto 10 milioni di dollari per risolvere il “drift”, un degrado lento che rende le risposte sempre meno precise nel tempo. È come avere un termometro che segna sempre lo stesso numero mentre fuori cambia tutto. Per chi usa AI in produzione, significa non aspettare che gli utenti si lamentino per agire. Quanto ti fidi delle risposte del tuo modello? 🧠"
+    }
+  },
+  "instagram_caption": "I tuoi modelli AI possono peggiorare senza che tu te ne accorga 📉. ZeroDrift ha appena raccolto 10 milioni di dollari per risolvere il “drift”, un degrado lento che rende le risposte sempre meno precise nel tempo. È come avere un termometro che segna sempre lo stesso numero mentre fuori cambia tutto. Per chi usa AI in produzione, significa non aspettare che gli utenti si lamentino per agire. Quanto ti fidi delle risposte del tuo modello? 🧠",
+  "carousel_slides": [
+    {
+      "hook": "La tua AI sta peggiorando?",
+      "description": "I modelli AI si degradano silenziosamente. ZeroDrift raccoglie $10M per fermarlo.",
+      "visual_hint": "Modello AI che si incrina",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Degrado silenzioso e invisibile",
+      "description": "Un modello non si rompe all'improvviso. Le risposte diventano meno precise, le decisioni strane.",
+      "visual_hint": "Linee che si deformano",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Come un termometro rotto",
+      "description": "Il drift peggiora le risposte senza che nessuno lo noti. ZeroDrift lo rileva in tempo reale.",
+      "visual_hint": "Termometro con fessura",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "temperature sensor",
+      "image": "https://images.pexels.com/photos/35426366/pexels-photo-35426366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Anticipa l'anomalia",
+      "description": "ZeroDrift monitora il modello continuamente. Rileva il drift prima che gli utenti se ne accorgano.",
+      "visual_hint": "Mano che osserva schermo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova ZeroDrift ora",
+      "description": "Costa meno di Spotify e si integra in un pomeriggio. Non fidarti ciecamente della tua AI.",
+      "visual_hint": "Spunta verde su schermo",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Kumesh-headshot.jpg?resize=1200,800",
+  "savedAt": "2026-06-02T13:53:37.791Z",
+  "sourceId": "2f1eb86800961d54aa5059a9a0d6faf3"
+}

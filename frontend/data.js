@@ -2,9 +2,217 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
-    "slug": "hackers-hijacked-instagram-accounts-by-tricking-me",
+    "slug": "zerodrift-raises-10m-to-protect-ai-models-from-the",
     "prompt_version": "1.0.0",
     "status": "published",
+    "title": "ZeroDrift raises $10M to protect AI models from themselves",
+    "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+    "pubDate": "Tue, 02 Jun 2026 12:32:59 +0000",
+    "slides": [
+      "ZeroDrift ha $10M per fermare cosa, esattamente?",
+      "I modelli AI possono degradarsi silenziosamente nel tempo.",
+      "Il drift peggiora le risposte senza che tu lo noti.",
+      "ZeroDrift lo rileva prima che i tuoi utenti se ne accorgano.",
+      "Provalo oggi: non fidarti ciecamente della tua AI."
+    ],
+    "thread_text": [
+      "I tuoi modelli AI stanno peggiorando e non te ne accorgi. ZeroDrift ha raccolto 10 milioni di dollari per fermare un lento degrado che nessuno vede arrivare.",
+      "Un modello AI non si rompe all'improvviso. Si degrada in modo silenzioso: le risposte diventano meno precise, le decisioni più strane.",
+      "È come un termometro che segna sempre la stessa temperatura mentre fuori cambia tutto. Il drift peggiora le risposte senza che nessuno lo noti.",
+      "ZeroDrift monitora continuamente il comportamento del modello. Non aspetta che gli utenti si lamentino: rileva l'anomalia prima, in tempo reale.",
+      "Costa meno di un abbonamento Spotify e si integra in un pomeriggio. Se hai un modello in produzione, è il controllo che non sapevi di dover fare."
+    ],
+    "video_script": [
+      "Il tuo modello AI sta peggiorando.",
+      "Non te ne accorgi, è lento.",
+      "Ma gli utenti lo sentono.",
+      "ZeroDrift lo blocca prima.",
+      "Provalo oggi, non fidarti ciecamente."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "I tuoi modelli AI stanno peggiorando e non te ne accorgi. ZeroDrift ha raccolto 10 milioni di dollari per fermare un lento degrado che nessuno vede arrivare.",
+          "Un modello AI non si rompe all'improvviso. Si degrada in modo silenzioso: le risposte diventano meno precise, le decisioni più strane.",
+          "È come un termometro che segna sempre la stessa temperatura mentre fuori cambia tutto. Il drift peggiora le risposte senza che nessuno lo noti.",
+          "ZeroDrift monitora continuamente il comportamento del modello. Non aspetta che gli utenti si lamentino: rileva l'anomalia prima, in tempo reale.",
+          "Costa meno di un abbonamento Spotify e si integra in un pomeriggio. Se hai un modello in produzione, è il controllo che non sapevi di dover fare."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Il tuo modello AI sta peggiorando.",
+          "Non te ne accorgi, è lento.",
+          "Ma gli utenti lo sentono.",
+          "ZeroDrift lo blocca prima.",
+          "Provalo oggi, non fidarti ciecamente."
+        ]
+      },
+      "instagram": {
+        "caption": "I tuoi modelli AI possono peggiorare senza che tu te ne accorga 📉. ZeroDrift ha appena raccolto 10 milioni di dollari per risolvere il “drift”, un degrado lento che rende le risposte sempre meno precise nel tempo. È come avere un termometro che segna sempre lo stesso numero mentre fuori cambia tutto. Per chi usa AI in produzione, significa non aspettare che gli utenti si lamentino per agire. Quanto ti fidi delle risposte del tuo modello? 🧠"
+      }
+    },
+    "instagram_caption": "I tuoi modelli AI possono peggiorare senza che tu te ne accorga 📉. ZeroDrift ha appena raccolto 10 milioni di dollari per risolvere il “drift”, un degrado lento che rende le risposte sempre meno precise nel tempo. È come avere un termometro che segna sempre lo stesso numero mentre fuori cambia tutto. Per chi usa AI in produzione, significa non aspettare che gli utenti si lamentino per agire. Quanto ti fidi delle risposte del tuo modello? 🧠",
+    "carousel_slides": [
+      {
+        "hook": "La tua AI sta peggiorando?",
+        "description": "I modelli AI si degradano silenziosamente. ZeroDrift raccoglie $10M per fermarlo.",
+        "visual_hint": "Modello AI che si incrina",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Degrado silenzioso e invisibile",
+        "description": "Un modello non si rompe all'improvviso. Le risposte diventano meno precise, le decisioni strane.",
+        "visual_hint": "Linee che si deformano",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Come un termometro rotto",
+        "description": "Il drift peggiora le risposte senza che nessuno lo noti. ZeroDrift lo rileva in tempo reale.",
+        "visual_hint": "Termometro con fessura",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "temperature sensor",
+        "image": "https://images.pexels.com/photos/35426366/pexels-photo-35426366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Anticipa l'anomalia",
+        "description": "ZeroDrift monitora il modello continuamente. Rileva il drift prima che gli utenti se ne accorgano.",
+        "visual_hint": "Mano che osserva schermo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova ZeroDrift ora",
+        "description": "Costa meno di Spotify e si integra in un pomeriggio. Non fidarti ciecamente della tua AI.",
+        "visual_hint": "Spunta verde su schermo",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Kumesh-headshot.jpg?resize=1200,800",
+    "savedAt": "2026-06-02T13:53:37.791Z",
+    "sourceId": "2f1eb86800961d54aa5059a9a0d6faf3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "blue-origin-plans-to-launch-new-glenn-again-this-y",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Blue Origin plans to launch New Glenn again this year after explosion",
+    "link": "https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/",
+    "pubDate": "Tue, 02 Jun 2026 13:25:59 +0000",
+    "slides": [
+      "Blue Origin torna al lancio dopo l'esplosione.",
+      "New Glenn è il razzo pesante mai usato.",
+      "Il guasto era nei motori del primo stadio.",
+      "Per te: cambia l'accesso allo spazio commerciale.",
+      "Segui il prossimo test: deciderà il futuro."
+    ],
+    "thread_text": [
+      "Il motore del primo stadio di New Glenn è esploso durante i test. Blue Origin ha scoperto il guasto, ma intanto il lancio è fermo.",
+      "New Glenn doveva essere il razzo pesante che avrebbe cambiato l'accesso allo spazio commerciale. Ora tutto è in sospeso.",
+      "Il guasto è stato identificato: problema ai motori del primo stadio. La causa è tecnica, ma la conseguenza è strategica.",
+      "Con Blue Origin ferma, chi arriverà prima a offrire lanci pesanti a prezzi competitivi? SpaceX ha già un vantaggio.",
+      "Il prossimo test deciderà se New Glenn volerà davvero. Senza quel volo, il mercato dei lanci pesanti resta in mano a pochi."
+    ],
+    "video_script": [
+      "Il primo stadio di New Glenn è esploso.",
+      "Blue Origin ha trovato il guasto.",
+      "Il razzo pesante è fermo.",
+      "Chi vince la gara spaziale?",
+      "Il prossimo test dirà tutto."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Il motore del primo stadio di New Glenn è esploso durante i test. Blue Origin ha scoperto il guasto, ma intanto il lancio è fermo.",
+          "New Glenn doveva essere il razzo pesante che avrebbe cambiato l'accesso allo spazio commerciale. Ora tutto è in sospeso.",
+          "Il guasto è stato identificato: problema ai motori del primo stadio. La causa è tecnica, ma la conseguenza è strategica.",
+          "Con Blue Origin ferma, chi arriverà prima a offrire lanci pesanti a prezzi competitivi? SpaceX ha già un vantaggio.",
+          "Il prossimo test deciderà se New Glenn volerà davvero. Senza quel volo, il mercato dei lanci pesanti resta in mano a pochi."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Il primo stadio di New Glenn è esploso.",
+          "Blue Origin ha trovato il guasto.",
+          "Il razzo pesante è fermo.",
+          "Chi vince la gara spaziale?",
+          "Il prossimo test dirà tutto."
+        ]
+      },
+      "instagram": {
+        "caption": "Blue Origin ha perso un motore del primo stadio durante i test del suo razzo pesante New Glenn—un'esplosione che ha bloccato il lancio previsto. Il guasto tecnico è stato trovato, ma il programma resta fermo. Quel razzo doveva offrire un'alternativa 🚀 ai costi attuali per portare satelliti in orbita. Senza New Glenn, il mercato dei lanci pesanti resta nelle mani di pochi operatori. Il prossimo test deciderà se questa impresa avrà una seconda chance o se il vantaggio di SpaceX diventerà incolmabile 💥. Per chi lavora nello spazio commerciale, ogni settimana di ritardo significa un'opzione in meno."
+      }
+    },
+    "instagram_caption": "Blue Origin ha perso un motore del primo stadio durante i test del suo razzo pesante New Glenn—un'esplosione che ha bloccato il lancio previsto. Il guasto tecnico è stato trovato, ma il programma resta fermo. Quel razzo doveva offrire un'alternativa 🚀 ai costi attuali per portare satelliti in orbita. Senza New Glenn, il mercato dei lanci pesanti resta nelle mani di pochi operatori. Il prossimo test deciderà se questa impresa avrà una seconda chance o se il vantaggio di SpaceX diventerà incolmabile 💥. Per chi lavora nello spazio commerciale, ogni settimana di ritardo significa un'opzione in meno.",
+    "carousel_slides": [
+      {
+        "hook": "Il motore è esploso",
+        "description": "Il primo stadio di New Glenn è esploso durante i test. Blue Origin ha scoperto il guasto, ma il lancio è fermo.",
+        "visual_hint": "razzo in fiamme su rampa",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "rocket launch pad"
+      },
+      {
+        "hook": "Pesante ma fermo",
+        "description": "New Glenn doveva essere il razzo pesante che avrebbe cambiato l'accesso allo spazio commerciale. Ora tutto è in sospeso.",
+        "visual_hint": "razzo gigante in orizzontale",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "heavy rocket hangar",
+        "image": "https://images.pexels.com/photos/13826210/pexels-photo-13826210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Guasto tecnico, effetto strategico",
+        "description": "Il guasto è stato identificato: problema ai motori del primo stadio. La causa è tecnica, ma la conseguenza è strategica.",
+        "visual_hint": "motore smontato e ingranaggi",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "rocket engine closeup",
+        "image": "https://images.pexels.com/photos/33619754/pexels-photo-33619754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "SpaceX avanza, Blue Origin ferma",
+        "description": "Con Blue Origin ferma, chi arriverà prima a offrire lanci pesanti a prezzi competitivi? SpaceX ha già un vantaggio.",
+        "visual_hint": "due razzi in bilancia",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "Falcon Heavy launch",
+        "image": "https://images.pexels.com/photos/11755208/pexels-photo-11755208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il test deciderà il futuro",
+        "description": "Il prossimo test deciderà se New Glenn volerà davvero. Senza quel volo, il mercato resta in mano a pochi.",
+        "visual_hint": "conto alla rovescia su schermo",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "countdown screen control",
+        "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/blue-origin-new-glenn-3-liftoff.jpg?resize=1200,1056",
+    "savedAt": "2026-06-02T13:53:24.212Z",
+    "sourceId": "3f40e6d1ccac314fedacfbde689b0b16"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "hackers-hijacked-instagram-accounts-by-tricking-me",
+    "prompt_version": "1.0.0",
+    "status": "approved",
     "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
     "link": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
     "pubDate": "Mon, 01 Jun 2026 18:34:32 +0000",
