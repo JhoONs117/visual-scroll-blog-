@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "uber-caps-employee-ai-spending-after-blowing-throu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+  "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+  "pubDate": "Tue, 02 Jun 2026 19:11:48 +0000",
+  "slides": [
+    "Uber ha esaurito il budget AI in 4 mesi. Come?",
+    "I dipendenti spendevano senza controllo su strumenti esterni.",
+    "Il tetto ora blocca l'accesso a modelli avanzati per tutti.",
+    "Chi dipendeva dall'AI per produrre rischia rallentamenti improvvisi.",
+    "Il tuo team ha già un piano se il budget finisse domani?"
+  ],
+  "thread_text": [
+    "Uber ha bloccato l'accesso ai modelli AI avanzati per tutti i dipendenti. Il budget era finito in 4 mesi.",
+    "Il problema? I team spendevano senza controllo su strumenti esterni, senza un tetto o un piano centralizzato.",
+    "Il management ha dovuto scegliere: tagliare o rischiare di esaurire tutto. Hanno scelto di bloccare.",
+    "Chi usava l'AI per produrre — codice, testo, analisi — ora rischia rallentamenti improvvisi. Nessun preavviso.",
+    "Il tuo team ha già un piano se il budget per l'AI finisse domani? Se no, è il momento di scriverlo."
+  ],
+  "video_script": [
+    "Uber ha finito i soldi per l'AI in quattro mesi.",
+    "I dipendenti sprecavano su strumenti esterni senza controllo.",
+    "Hanno bloccato tutto: niente più modelli avanzati per nessuno.",
+    "Chi lavorava con l'AI ora rischia rallentamenti improvvisi.",
+    "Il tuo team ha già un piano se finisce il budget?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Uber ha bloccato l'accesso ai modelli AI avanzati per tutti i dipendenti. Il budget era finito in 4 mesi.",
+        "Il problema? I team spendevano senza controllo su strumenti esterni, senza un tetto o un piano centralizzato.",
+        "Il management ha dovuto scegliere: tagliare o rischiare di esaurire tutto. Hanno scelto di bloccare.",
+        "Chi usava l'AI per produrre — codice, testo, analisi — ora rischia rallentamenti improvvisi. Nessun preavviso.",
+        "Il tuo team ha già un piano se il budget per l'AI finisse domani? Se no, è il momento di scriverlo."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Uber ha finito i soldi per l'AI in quattro mesi.",
+        "I dipendenti sprecavano su strumenti esterni senza controllo.",
+        "Hanno bloccato tutto: niente più modelli avanzati per nessuno.",
+        "Chi lavorava con l'AI ora rischia rallentamenti improvvisi.",
+        "Il tuo team ha già un piano se finisce il budget?"
+      ]
+    },
+    "instagram": {
+      "caption": "Uber ha esaurito il budget per l’AI in soli 4 mesi. I dipendenti usavano strumenti esterni senza limiti 🧠, accumulando costi fuori controllo. Il management ha dovuto bloccare l’accesso ai modelli avanzati per tutti ⛔, senza preavviso. Se usavi l’AI per scrivere codice o analisi, ora rischi rallentamenti improvvisi 📉. Il tuo team ha già un piano se il budget finisse domani?"
+    }
+  },
+  "instagram_caption": "Uber ha esaurito il budget per l’AI in soli 4 mesi. I dipendenti usavano strumenti esterni senza limiti 🧠, accumulando costi fuori controllo. Il management ha dovuto bloccare l’accesso ai modelli avanzati per tutti ⛔, senza preavviso. Se usavi l’AI per scrivere codice o analisi, ora rischi rallentamenti improvvisi 📉. Il tuo team ha già un piano se il budget finisse domani?",
+  "carousel_slides": [
+    {
+      "hook": "Budget AI esaurito in 4 mesi",
+      "description": "Uber ha bloccato l'accesso ai modelli AI avanzati dopo aver bruciato il budget in 4 mesi senza controllo",
+      "visual_hint": "grafico a barre in caduta",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Spese senza freni",
+      "description": "I team spendevano su strumenti esterni senza tetto né piano centralizzato, scaricando i costi tutti insieme",
+      "visual_hint": "mani che versano monete",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Accesso tagliato a tutti",
+      "description": "Il management ha bloccato l'accesso ai modelli avanzati per tutti i dipendenti, senza preavviso né alternative",
+      "visual_hint": "schermo con lucchetto",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rallentamenti improvvisi",
+      "description": "Chi usava l'AI per codice, testo o analisi ora rischia stop improvvisi nella produttività quotidiana",
+      "visual_hint": "ingranaggio che si blocca",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il tuo team è pronto?",
+      "description": "Se il budget per l'AI finisse domani, avresti un piano? Se no, è ora di scriverlo",
+      "visual_hint": "checklist su lavagna",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+  "savedAt": "2026-06-02T22:18:08.413Z",
+  "sourceId": "ed584258d505d620dde901632763a53d"
+}

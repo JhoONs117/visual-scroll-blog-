@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-rolls-out-fake-call-detection-to-protect-ag",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+  "link": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+  "pubDate": "Tue, 02 Jun 2026 18:00:00 +0000",
+  "slides": [
+    "La tua voce clonata da un'IA ti farà perdere tutto?",
+    "Google ha attivato il rilevamento di chiamate false.",
+    "Non ferma le truffe vere, solo le voci sintetiche.",
+    "Chi risponde ora sa se l'interlocutore è umano?",
+    "Attiva la funzione oggi: ascolta prima di fidarti."
+  ],
+  "thread_text": [
+    "Google ha attivato il rilevamento di chiamate false. Il problema? Blocca solo le voci sintetiche, non le truffe vere.",
+    "Significa che se un truffatore usa la sua voce umana, il filtro non lo ferma. La protezione è parziale, selettiva.",
+    "La funzione dice a chi risponde se l'interlocutore è umano o generato dall'IA. Ma nel frattempo, la tua voce è già stata clonata.",
+    "Il vero costo di una truffa con voce clonata? Non il denaro perso subito, ma la fiducia che non recuperi più.",
+    "Attiva la funzione oggi: ascolta prima di fidarti. Costa zero, e potrebbe salvarti da un conto svuotato."
+  ],
+  "video_script": [
+    "Google ora riconosce le voci false nelle chiamate.",
+    "Ma blocca solo quelle sintetiche, non le truffe umane.",
+    "Chi risponde sa se l'altro è un uomo o una macchina.",
+    "Ma la tua voce è già stata clonata? Probabilmente sì.",
+    "Attiva la funzione oggi. Ascolta prima di fidarti."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Google ha attivato il rilevamento di chiamate false. Il problema? Blocca solo le voci sintetiche, non le truffe vere.",
+        "Significa che se un truffatore usa la sua voce umana, il filtro non lo ferma. La protezione è parziale, selettiva.",
+        "La funzione dice a chi risponde se l'interlocutore è umano o generato dall'IA. Ma nel frattempo, la tua voce è già stata clonata.",
+        "Il vero costo di una truffa con voce clonata? Non il denaro perso subito, ma la fiducia che non recuperi più.",
+        "Attiva la funzione oggi: ascolta prima di fidarti. Costa zero, e potrebbe salvarti da un conto svuotato."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google ora riconosce le voci false nelle chiamate.",
+        "Ma blocca solo quelle sintetiche, non le truffe umane.",
+        "Chi risponde sa se l'altro è un uomo o una macchina.",
+        "Ma la tua voce è già stata clonata? Probabilmente sì.",
+        "Attiva la funzione oggi. Ascolta prima di fidarti."
+      ]
+    },
+    "instagram": {
+      "caption": "Google ti avvisa se chi ti chiama ha la voce generata dall'intelligenza artificiale. La funzione è già attiva e ti dice \"questo è un essere umano\" oppure \"questa voce è sintetica\". Il problema: se il truffatore parla con la sua voce vera, il filtro non lo blocca. Funziona solo contro le voci clonate, non contro l'inganno umano. 👂 Per te significa che rispondere al telefono diventa un po' più sicuro, ma non basta: devi ancora stare attento a chiunque chieda dati o soldi. Hai mai ricevuto una chiamata sospetta con una voce che sembrava vera? 📱"
+    }
+  },
+  "instagram_caption": "Google ti avvisa se chi ti chiama ha la voce generata dall'intelligenza artificiale. La funzione è già attiva e ti dice \"questo è un essere umano\" oppure \"questa voce è sintetica\". Il problema: se il truffatore parla con la sua voce vera, il filtro non lo blocca. Funziona solo contro le voci clonate, non contro l'inganno umano. 👂 Per te significa che rispondere al telefono diventa un po' più sicuro, ma non basta: devi ancora stare attento a chiunque chieda dati o soldi. Hai mai ricevuto una chiamata sospetta con una voce che sembrava vera? 📱",
+  "carousel_slides": [
+    {
+      "hook": "La tua voce clonata",
+      "description": "Google blocca solo voci sintetiche. Truffe con voce umana? Il filtro non le ferma. Protezione parziale e selettiva.",
+      "visual_hint": "voce clonata IA",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "phone screen alert"
+    },
+    {
+      "hook": "Chi risponde saprà",
+      "description": "La funzione dice se l'interlocutore è umano o IA. Ma nel frattempo, la tua voce potrebbe già essere stata clonata.",
+      "visual_hint": "chiamata sospetta",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone call screen",
+      "image": "https://images.pexels.com/photos/8526707/pexels-photo-8526707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Filtro parziale",
+      "description": "Se un truffatore usa voce umana, nessun allarme. Il filtro riconosce solo voci sintetiche, non intenzioni reali.",
+      "visual_hint": "solo voci finte",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "AI voice waveform",
+      "image": "https://images.pexels.com/photos/6892890/pexels-photo-6892890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costo della fiducia",
+      "description": "Il vero danno? La fiducia persa, non solo il denaro. Una truffa con voce clonata non si recupera più.",
+      "visual_hint": "fiducia persa",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "broken trust symbol",
+      "image": "https://images.pexels.com/photos/6694115/pexels-photo-6694115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Attiva ora",
+      "description": "Costa zero, ascolta prima di fidarti. Attiva oggi il rilevamento e proteggi il tuo conto da voci false.",
+      "visual_hint": "attiva protezione",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "activate button phone",
+      "image": "https://images.pexels.com/photos/8526707/pexels-photo-8526707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/fake-call-detection.png?resize=1200,640",
+  "savedAt": "2026-06-02T22:18:30.601Z",
+  "sourceId": "774f63fcc1fb01cba779a8c9253be948"
+}

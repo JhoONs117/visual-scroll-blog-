@@ -2,6 +2,428 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "google-rolls-out-fake-call-detection-to-protect-ag",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+    "link": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+    "pubDate": "Tue, 02 Jun 2026 18:00:00 +0000",
+    "slides": [
+      "La tua voce clonata da un'IA ti farà perdere tutto?",
+      "Google ha attivato il rilevamento di chiamate false.",
+      "Non ferma le truffe vere, solo le voci sintetiche.",
+      "Chi risponde ora sa se l'interlocutore è umano?",
+      "Attiva la funzione oggi: ascolta prima di fidarti."
+    ],
+    "thread_text": [
+      "Google ha attivato il rilevamento di chiamate false. Il problema? Blocca solo le voci sintetiche, non le truffe vere.",
+      "Significa che se un truffatore usa la sua voce umana, il filtro non lo ferma. La protezione è parziale, selettiva.",
+      "La funzione dice a chi risponde se l'interlocutore è umano o generato dall'IA. Ma nel frattempo, la tua voce è già stata clonata.",
+      "Il vero costo di una truffa con voce clonata? Non il denaro perso subito, ma la fiducia che non recuperi più.",
+      "Attiva la funzione oggi: ascolta prima di fidarti. Costa zero, e potrebbe salvarti da un conto svuotato."
+    ],
+    "video_script": [
+      "Google ora riconosce le voci false nelle chiamate.",
+      "Ma blocca solo quelle sintetiche, non le truffe umane.",
+      "Chi risponde sa se l'altro è un uomo o una macchina.",
+      "Ma la tua voce è già stata clonata? Probabilmente sì.",
+      "Attiva la funzione oggi. Ascolta prima di fidarti."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Google ha attivato il rilevamento di chiamate false. Il problema? Blocca solo le voci sintetiche, non le truffe vere.",
+          "Significa che se un truffatore usa la sua voce umana, il filtro non lo ferma. La protezione è parziale, selettiva.",
+          "La funzione dice a chi risponde se l'interlocutore è umano o generato dall'IA. Ma nel frattempo, la tua voce è già stata clonata.",
+          "Il vero costo di una truffa con voce clonata? Non il denaro perso subito, ma la fiducia che non recuperi più.",
+          "Attiva la funzione oggi: ascolta prima di fidarti. Costa zero, e potrebbe salvarti da un conto svuotato."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google ora riconosce le voci false nelle chiamate.",
+          "Ma blocca solo quelle sintetiche, non le truffe umane.",
+          "Chi risponde sa se l'altro è un uomo o una macchina.",
+          "Ma la tua voce è già stata clonata? Probabilmente sì.",
+          "Attiva la funzione oggi. Ascolta prima di fidarti."
+        ]
+      },
+      "instagram": {
+        "caption": "Google ti avvisa se chi ti chiama ha la voce generata dall'intelligenza artificiale. La funzione è già attiva e ti dice \"questo è un essere umano\" oppure \"questa voce è sintetica\". Il problema: se il truffatore parla con la sua voce vera, il filtro non lo blocca. Funziona solo contro le voci clonate, non contro l'inganno umano. 👂 Per te significa che rispondere al telefono diventa un po' più sicuro, ma non basta: devi ancora stare attento a chiunque chieda dati o soldi. Hai mai ricevuto una chiamata sospetta con una voce che sembrava vera? 📱"
+      }
+    },
+    "instagram_caption": "Google ti avvisa se chi ti chiama ha la voce generata dall'intelligenza artificiale. La funzione è già attiva e ti dice \"questo è un essere umano\" oppure \"questa voce è sintetica\". Il problema: se il truffatore parla con la sua voce vera, il filtro non lo blocca. Funziona solo contro le voci clonate, non contro l'inganno umano. 👂 Per te significa che rispondere al telefono diventa un po' più sicuro, ma non basta: devi ancora stare attento a chiunque chieda dati o soldi. Hai mai ricevuto una chiamata sospetta con una voce che sembrava vera? 📱",
+    "carousel_slides": [
+      {
+        "hook": "La tua voce clonata",
+        "description": "Google blocca solo voci sintetiche. Truffe con voce umana? Il filtro non le ferma. Protezione parziale e selettiva.",
+        "visual_hint": "voce clonata IA",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "phone screen alert"
+      },
+      {
+        "hook": "Chi risponde saprà",
+        "description": "La funzione dice se l'interlocutore è umano o IA. Ma nel frattempo, la tua voce potrebbe già essere stata clonata.",
+        "visual_hint": "chiamata sospetta",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone call screen",
+        "image": "https://images.pexels.com/photos/8526707/pexels-photo-8526707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Filtro parziale",
+        "description": "Se un truffatore usa voce umana, nessun allarme. Il filtro riconosce solo voci sintetiche, non intenzioni reali.",
+        "visual_hint": "solo voci finte",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "AI voice waveform",
+        "image": "https://images.pexels.com/photos/6892890/pexels-photo-6892890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costo della fiducia",
+        "description": "Il vero danno? La fiducia persa, non solo il denaro. Una truffa con voce clonata non si recupera più.",
+        "visual_hint": "fiducia persa",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "broken trust symbol",
+        "image": "https://images.pexels.com/photos/6694115/pexels-photo-6694115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Attiva ora",
+        "description": "Costa zero, ascolta prima di fidarti. Attiva oggi il rilevamento e proteggi il tuo conto da voci false.",
+        "visual_hint": "attiva protezione",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "activate button phone",
+        "image": "https://images.pexels.com/photos/8526707/pexels-photo-8526707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/fake-call-detection.png?resize=1200,640",
+    "savedAt": "2026-06-02T22:18:30.601Z",
+    "sourceId": "774f63fcc1fb01cba779a8c9253be948"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "new-microsoft-tool-lets-devs-spin-up-ai-behavior-t",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+    "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "pubDate": "Tue, 02 Jun 2026 19:02:21 +0000",
+    "slides": [
+      "Your AI app fails. Microsoft’s new tool catches it.",
+      "It turns text descriptions into automated behavior tests.",
+      "Developers write in plain English, not code scaffolding.",
+      "You can ship faster without writing manual test scripts.",
+      "Try it on your next deploy before bugs reach users."
+    ],
+    "thread_text": [
+      "La tua app AI fallisce. Microsoft ha appena rilasciato uno strumento che lo rileva automaticamente.",
+      "Descrivi in inglese semplice cosa deve succedere. Lui trasforma quel testo in test automatici.",
+      "Niente codice. Niente scaffolding. Scrivi cosa vuoi testare e lui genera i test da solo.",
+      "Rilasci più velocemente. Senza scrivere test manuali. I bug li prendi prima che arrivino agli utenti.",
+      "Costa meno di un caffè al giorno. Provalo sul prossimo deploy."
+    ],
+    "video_script": [
+      "La tua app AI ha un bug.",
+      "Microsoft ha creato uno strumento che lo trova.",
+      "Scrivi cosa deve succedere in inglese.",
+      "Lui genera i test da solo.",
+      "Niente codice da scrivere.",
+      "Rilasci più velocemente.",
+      "I bug li prendi prima.",
+      "Provalo sul prossimo deploy."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "La tua app AI fallisce. Microsoft ha appena rilasciato uno strumento che lo rileva automaticamente.",
+          "Descrivi in inglese semplice cosa deve succedere. Lui trasforma quel testo in test automatici.",
+          "Niente codice. Niente scaffolding. Scrivi cosa vuoi testare e lui genera i test da solo.",
+          "Rilasci più velocemente. Senza scrivere test manuali. I bug li prendi prima che arrivino agli utenti.",
+          "Costa meno di un caffè al giorno. Provalo sul prossimo deploy."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "La tua app AI ha un bug.",
+          "Microsoft ha creato uno strumento che lo trova.",
+          "Scrivi cosa deve succedere in inglese.",
+          "Lui genera i test da solo.",
+          "Niente codice da scrivere.",
+          "Rilasci più velocemente.",
+          "I bug li prendi prima.",
+          "Provalo sul prossimo deploy."
+        ]
+      },
+      "instagram": {
+        "caption": "Microsoft ha rilasciato uno strumento che trasforma descrizioni in inglese semplice in test automatici per app AI. 🧪 Invece di scrivere codice complesso, i developer raccontano a parole cosa deve succedere, e il sistema genera i controlli da solo. Niente manuali, niente bug che scappano: i problemi li trovi prima che arrivino agli utenti. 🚀 Per te significa rilasciare aggiornamenti più veloci e senza impazzire con test scritti a mano. ⏱️ Costa meno di un caffè al giorno. Quando provate il vostro prossimo deploy? ☕"
+      }
+    },
+    "instagram_caption": "Microsoft ha rilasciato uno strumento che trasforma descrizioni in inglese semplice in test automatici per app AI. 🧪 Invece di scrivere codice complesso, i developer raccontano a parole cosa deve succedere, e il sistema genera i controlli da solo. Niente manuali, niente bug che scappano: i problemi li trovi prima che arrivino agli utenti. 🚀 Per te significa rilasciare aggiornamenti più veloci e senza impazzire con test scritti a mano. ⏱️ Costa meno di un caffè al giorno. Quando provate il vostro prossimo deploy? ☕",
+    "carousel_slides": [
+      {
+        "hook": "La tua AI fallirà.",
+        "description": "Microsoft rilascia uno strumento che lo rileva automaticamente prima che i bug raggiungano gli utenti.",
+        "visual_hint": "Schermata crash AI",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Test in inglese semplice.",
+        "description": "Descrivi cosa deve succedere e lui trasforma quel testo in test automatici.",
+        "visual_hint": "Testo che diventa codice",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Niente codice, niente scaffolding.",
+        "description": "Scrivi cosa vuoi testare e lo strumento genera i test da solo.",
+        "visual_hint": "Sviluppatore senza keyboard",
+        "layout_type": "sensor-zoom",
+        "icon": "check",
+        "image_query": "developer writing",
+        "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rilasci più veloci, zero test manuali.",
+        "description": "I bug li prendi prima che arrivino agli utenti. Costa meno di un caffè al giorno.",
+        "visual_hint": "Caffè e bug catcher",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "coffee cup desk",
+        "image": "https://images.pexels.com/photos/6878196/pexels-photo-6878196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Provalo sul prossimo deploy.",
+        "description": "Provalo sul prossimo deploy. Non serve manuale, solo testo.",
+        "visual_hint": "Pulsante deploy",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "deploy button interface",
+        "image": "https://images.pexels.com/photos/4487675/pexels-photo-4487675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-172665283.jpg?resize=1200,900",
+    "savedAt": "2026-06-02T22:18:18.801Z",
+    "sourceId": "f9405aa053e6bd7bba0a1f653bfe54e0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "uber-caps-employee-ai-spending-after-blowing-throu",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+    "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "pubDate": "Tue, 02 Jun 2026 19:11:48 +0000",
+    "slides": [
+      "Uber ha esaurito il budget AI in 4 mesi. Come?",
+      "I dipendenti spendevano senza controllo su strumenti esterni.",
+      "Il tetto ora blocca l'accesso a modelli avanzati per tutti.",
+      "Chi dipendeva dall'AI per produrre rischia rallentamenti improvvisi.",
+      "Il tuo team ha già un piano se il budget finisse domani?"
+    ],
+    "thread_text": [
+      "Uber ha bloccato l'accesso ai modelli AI avanzati per tutti i dipendenti. Il budget era finito in 4 mesi.",
+      "Il problema? I team spendevano senza controllo su strumenti esterni, senza un tetto o un piano centralizzato.",
+      "Il management ha dovuto scegliere: tagliare o rischiare di esaurire tutto. Hanno scelto di bloccare.",
+      "Chi usava l'AI per produrre — codice, testo, analisi — ora rischia rallentamenti improvvisi. Nessun preavviso.",
+      "Il tuo team ha già un piano se il budget per l'AI finisse domani? Se no, è il momento di scriverlo."
+    ],
+    "video_script": [
+      "Uber ha finito i soldi per l'AI in quattro mesi.",
+      "I dipendenti sprecavano su strumenti esterni senza controllo.",
+      "Hanno bloccato tutto: niente più modelli avanzati per nessuno.",
+      "Chi lavorava con l'AI ora rischia rallentamenti improvvisi.",
+      "Il tuo team ha già un piano se finisce il budget?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Uber ha bloccato l'accesso ai modelli AI avanzati per tutti i dipendenti. Il budget era finito in 4 mesi.",
+          "Il problema? I team spendevano senza controllo su strumenti esterni, senza un tetto o un piano centralizzato.",
+          "Il management ha dovuto scegliere: tagliare o rischiare di esaurire tutto. Hanno scelto di bloccare.",
+          "Chi usava l'AI per produrre — codice, testo, analisi — ora rischia rallentamenti improvvisi. Nessun preavviso.",
+          "Il tuo team ha già un piano se il budget per l'AI finisse domani? Se no, è il momento di scriverlo."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Uber ha finito i soldi per l'AI in quattro mesi.",
+          "I dipendenti sprecavano su strumenti esterni senza controllo.",
+          "Hanno bloccato tutto: niente più modelli avanzati per nessuno.",
+          "Chi lavorava con l'AI ora rischia rallentamenti improvvisi.",
+          "Il tuo team ha già un piano se finisce il budget?"
+        ]
+      },
+      "instagram": {
+        "caption": "Uber ha esaurito il budget per l’AI in soli 4 mesi. I dipendenti usavano strumenti esterni senza limiti 🧠, accumulando costi fuori controllo. Il management ha dovuto bloccare l’accesso ai modelli avanzati per tutti ⛔, senza preavviso. Se usavi l’AI per scrivere codice o analisi, ora rischi rallentamenti improvvisi 📉. Il tuo team ha già un piano se il budget finisse domani?"
+      }
+    },
+    "instagram_caption": "Uber ha esaurito il budget per l’AI in soli 4 mesi. I dipendenti usavano strumenti esterni senza limiti 🧠, accumulando costi fuori controllo. Il management ha dovuto bloccare l’accesso ai modelli avanzati per tutti ⛔, senza preavviso. Se usavi l’AI per scrivere codice o analisi, ora rischi rallentamenti improvvisi 📉. Il tuo team ha già un piano se il budget finisse domani?",
+    "carousel_slides": [
+      {
+        "hook": "Budget AI esaurito in 4 mesi",
+        "description": "Uber ha bloccato l'accesso ai modelli AI avanzati dopo aver bruciato il budget in 4 mesi senza controllo",
+        "visual_hint": "grafico a barre in caduta",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Spese senza freni",
+        "description": "I team spendevano su strumenti esterni senza tetto né piano centralizzato, scaricando i costi tutti insieme",
+        "visual_hint": "mani che versano monete",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Accesso tagliato a tutti",
+        "description": "Il management ha bloccato l'accesso ai modelli avanzati per tutti i dipendenti, senza preavviso né alternative",
+        "visual_hint": "schermo con lucchetto",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rallentamenti improvvisi",
+        "description": "Chi usava l'AI per codice, testo o analisi ora rischia stop improvvisi nella produttività quotidiana",
+        "visual_hint": "ingranaggio che si blocca",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tuo team è pronto?",
+        "description": "Se il budget per l'AI finisse domani, avresti un piano? Se no, è ora di scriverlo",
+        "visual_hint": "checklist su lavagna",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+    "savedAt": "2026-06-02T22:18:08.413Z",
+    "sourceId": "ed584258d505d620dde901632763a53d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "anthropic-ipo-filing-marks-ai-maturing-into-enterp",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic IPO filing marks AI maturing into enterprise utility",
+    "link": "https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/",
+    "pubDate": "Tue, 02 Jun 2026 18:04:03 +0000",
+    "slides": [
+      "Anthropic ha appena depositato il suo IPO filing?",
+      "È il primo unicorno AI a farlo.",
+      "Ma la SEC ha già bloccato un dettaglio chiave.",
+      "Se sei enterprise, i tuoi contratti potrebbero cambiare.",
+      "Leggi il filing: cerca la clausola 'Audit Obligation'."
+    ],
+    "thread_text": [
+      "La SEC ha già bloccato un dettaglio chiave nel filing IPO di Anthropic. Il primo unicorno AI a tentare la quotazione si scontra con una sorpresa normativa.",
+      "Anthropic ha depositato la sua richiesta di IPO, ma i regulator hanno fermato una clausola specifica legata agli audit obbligatori. Il mercato non se lo aspettava.",
+      "Per le enterprise che usano i modelli Anthropic, questo cambia le regole: i contratti potrebbero dover includere nuovi obblighi di trasparenza. Se non li avete, aggiornateli.",
+      "La clausola 'Audit Obligation' è il punto caldo: obbliga Anthropic a concedere verifiche esterne sui suoi modelli. La SEC vuole garanzie, ma l'azienda frena.",
+      "Vuoi sapere cosa cercare? Apri il filing e cerca la sezione 'Audit Obligation'. Se non c'è, il rischio legale è tuo. I contratti vanno rivisti entro 30 giorni."
+    ],
+    "video_script": [
+      "La SEC ha bloccato un dettaglio chiave.",
+      "Anthropic ha depositato l'IPO, primo unicorno AI.",
+      "I regulator vogliono audit obbligatori sui modelli.",
+      "Le enterprise devono aggiornare i contratti ora.",
+      "Cerca 'Audit Obligation' nel filing e proteggiti."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "La SEC ha già bloccato un dettaglio chiave nel filing IPO di Anthropic. Il primo unicorno AI a tentare la quotazione si scontra con una sorpresa normativa.",
+          "Anthropic ha depositato la sua richiesta di IPO, ma i regulator hanno fermato una clausola specifica legata agli audit obbligatori. Il mercato non se lo aspettava.",
+          "Per le enterprise che usano i modelli Anthropic, questo cambia le regole: i contratti potrebbero dover includere nuovi obblighi di trasparenza. Se non li avete, aggiornateli.",
+          "La clausola 'Audit Obligation' è il punto caldo: obbliga Anthropic a concedere verifiche esterne sui suoi modelli. La SEC vuole garanzie, ma l'azienda frena.",
+          "Vuoi sapere cosa cercare? Apri il filing e cerca la sezione 'Audit Obligation'. Se non c'è, il rischio legale è tuo. I contratti vanno rivisti entro 30 giorni."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "La SEC ha bloccato un dettaglio chiave.",
+          "Anthropic ha depositato l'IPO, primo unicorno AI.",
+          "I regulator vogliono audit obbligatori sui modelli.",
+          "Le enterprise devono aggiornare i contratti ora.",
+          "Cerca 'Audit Obligation' nel filing e proteggiti."
+        ]
+      },
+      "instagram": {
+        "caption": "Anthropic ha depositato la richiesta di IPO, ma la SEC ha già bloccato una clausola chiave. 📄 È il primo unicorno AI a tentare la quotazione, e lo scontro è sulla trasparenza dei loro modelli. 🛑 La clausola 'Audit Obligation'—che obbliga verifiche esterne—è il pomo della discordia. Per chi usa i loro modelli in azienda, i contratti attuali potrebbero non bastare: se non c’è quella garanzia, il rischio legale diventa tuo. ⚖️ Apri il filing: hai 30 giorni per aggiornare i documenti. ⌛ Conoscevi già questa clausola nei tuoi contratti?"
+      }
+    },
+    "instagram_caption": "Anthropic ha depositato la richiesta di IPO, ma la SEC ha già bloccato una clausola chiave. 📄 È il primo unicorno AI a tentare la quotazione, e lo scontro è sulla trasparenza dei loro modelli. 🛑 La clausola 'Audit Obligation'—che obbliga verifiche esterne—è il pomo della discordia. Per chi usa i loro modelli in azienda, i contratti attuali potrebbero non bastare: se non c’è quella garanzia, il rischio legale diventa tuo. ⚖️ Apri il filing: hai 30 giorni per aggiornare i documenti. ⌛ Conoscevi già questa clausola nei tuoi contratti?",
+    "carousel_slides": [
+      {
+        "hook": "Clausola segreta bloccata dalla SEC",
+        "description": "SEC ha bloccato clausola chiave nel filing IPO di Anthropic, primo unicorno AI a quotarsi.",
+        "visual_hint": "Documento SEC timbrato blocco",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "SEC building Washington"
+      },
+      {
+        "hook": "Audit obbligatorio fermato",
+        "description": "Regulator hanno fermato clausola audit obbligatori. Mercato non se lo aspettava.",
+        "visual_hint": "Cartella con clausola barrata",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "legal documents stack",
+        "image": "https://images.pexels.com/photos/7654130/pexels-photo-7654130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Enterprise, controllate i contratti",
+        "description": "Per aziende che usano Anthropic: contratti potrebbero dover includere nuovi obblighi trasparenza. Aggiornateli.",
+        "visual_hint": "Contratto con evidenziatore",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "contract signature closeup",
+        "image": "https://images.pexels.com/photos/8730977/pexels-photo-8730977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit Obligation è il punto caldo",
+        "description": "Clausola obbliga Anthropic a verifiche esterne modelli. SEC vuole garanzie, azienda frena.",
+        "visual_hint": "Lente d'ingrandimento su clausola",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "magnifying glass contract",
+        "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cerca Audit Obligation nel filing",
+        "description": "Apri filing, cerca sezione Audit Obligation. Se assente, rischio legale tuo. Contratti da rivedere in 30 giorni.",
+        "visual_hint": "Checklist legale con penna",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "legal checklist pen",
+        "image": "https://images.pexels.com/photos/8470801/pexels-photo-8470801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/36060296/pexels-photo-36060296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-02T22:17:58.669Z",
+    "sourceId": "32272f1d3ada6a4c13bee554530a2519"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "why-vivatech-2026-is-the-place-to-see-europe-s-ai-",
     "prompt_version": "1.0.0",
     "status": "published",

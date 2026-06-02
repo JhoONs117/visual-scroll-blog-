@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "new-microsoft-tool-lets-devs-spin-up-ai-behavior-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+  "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+  "pubDate": "Tue, 02 Jun 2026 19:02:21 +0000",
+  "slides": [
+    "Your AI app fails. Microsoft’s new tool catches it.",
+    "It turns text descriptions into automated behavior tests.",
+    "Developers write in plain English, not code scaffolding.",
+    "You can ship faster without writing manual test scripts.",
+    "Try it on your next deploy before bugs reach users."
+  ],
+  "thread_text": [
+    "La tua app AI fallisce. Microsoft ha appena rilasciato uno strumento che lo rileva automaticamente.",
+    "Descrivi in inglese semplice cosa deve succedere. Lui trasforma quel testo in test automatici.",
+    "Niente codice. Niente scaffolding. Scrivi cosa vuoi testare e lui genera i test da solo.",
+    "Rilasci più velocemente. Senza scrivere test manuali. I bug li prendi prima che arrivino agli utenti.",
+    "Costa meno di un caffè al giorno. Provalo sul prossimo deploy."
+  ],
+  "video_script": [
+    "La tua app AI ha un bug.",
+    "Microsoft ha creato uno strumento che lo trova.",
+    "Scrivi cosa deve succedere in inglese.",
+    "Lui genera i test da solo.",
+    "Niente codice da scrivere.",
+    "Rilasci più velocemente.",
+    "I bug li prendi prima.",
+    "Provalo sul prossimo deploy."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "La tua app AI fallisce. Microsoft ha appena rilasciato uno strumento che lo rileva automaticamente.",
+        "Descrivi in inglese semplice cosa deve succedere. Lui trasforma quel testo in test automatici.",
+        "Niente codice. Niente scaffolding. Scrivi cosa vuoi testare e lui genera i test da solo.",
+        "Rilasci più velocemente. Senza scrivere test manuali. I bug li prendi prima che arrivino agli utenti.",
+        "Costa meno di un caffè al giorno. Provalo sul prossimo deploy."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "La tua app AI ha un bug.",
+        "Microsoft ha creato uno strumento che lo trova.",
+        "Scrivi cosa deve succedere in inglese.",
+        "Lui genera i test da solo.",
+        "Niente codice da scrivere.",
+        "Rilasci più velocemente.",
+        "I bug li prendi prima.",
+        "Provalo sul prossimo deploy."
+      ]
+    },
+    "instagram": {
+      "caption": "Microsoft ha rilasciato uno strumento che trasforma descrizioni in inglese semplice in test automatici per app AI. 🧪 Invece di scrivere codice complesso, i developer raccontano a parole cosa deve succedere, e il sistema genera i controlli da solo. Niente manuali, niente bug che scappano: i problemi li trovi prima che arrivino agli utenti. 🚀 Per te significa rilasciare aggiornamenti più veloci e senza impazzire con test scritti a mano. ⏱️ Costa meno di un caffè al giorno. Quando provate il vostro prossimo deploy? ☕"
+    }
+  },
+  "instagram_caption": "Microsoft ha rilasciato uno strumento che trasforma descrizioni in inglese semplice in test automatici per app AI. 🧪 Invece di scrivere codice complesso, i developer raccontano a parole cosa deve succedere, e il sistema genera i controlli da solo. Niente manuali, niente bug che scappano: i problemi li trovi prima che arrivino agli utenti. 🚀 Per te significa rilasciare aggiornamenti più veloci e senza impazzire con test scritti a mano. ⏱️ Costa meno di un caffè al giorno. Quando provate il vostro prossimo deploy? ☕",
+  "carousel_slides": [
+    {
+      "hook": "La tua AI fallirà.",
+      "description": "Microsoft rilascia uno strumento che lo rileva automaticamente prima che i bug raggiungano gli utenti.",
+      "visual_hint": "Schermata crash AI",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Test in inglese semplice.",
+      "description": "Descrivi cosa deve succedere e lui trasforma quel testo in test automatici.",
+      "visual_hint": "Testo che diventa codice",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Niente codice, niente scaffolding.",
+      "description": "Scrivi cosa vuoi testare e lo strumento genera i test da solo.",
+      "visual_hint": "Sviluppatore senza keyboard",
+      "layout_type": "sensor-zoom",
+      "icon": "check",
+      "image_query": "developer writing",
+      "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rilasci più veloci, zero test manuali.",
+      "description": "I bug li prendi prima che arrivino agli utenti. Costa meno di un caffè al giorno.",
+      "visual_hint": "Caffè e bug catcher",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "coffee cup desk",
+      "image": "https://images.pexels.com/photos/6878196/pexels-photo-6878196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Provalo sul prossimo deploy.",
+      "description": "Provalo sul prossimo deploy. Non serve manuale, solo testo.",
+      "visual_hint": "Pulsante deploy",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "deploy button interface",
+      "image": "https://images.pexels.com/photos/4487675/pexels-photo-4487675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-172665283.jpg?resize=1200,900",
+  "savedAt": "2026-06-02T22:18:18.801Z",
+  "sourceId": "f9405aa053e6bd7bba0a1f653bfe54e0"
+}
