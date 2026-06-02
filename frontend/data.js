@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "hackers-hijacked-instagram-accounts-by-tricking-me",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+    "link": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+    "pubDate": "Mon, 01 Jun 2026 18:34:32 +0000",
+    "slides": [
+      "Hacker hai convinto l'AI di Meta a cedere account?",
+      "Bastava impersonare il proprietario via chat.",
+      "Il bot non ha chiesto verifica umana aggiuntiva.",
+      "Ora controlla se la tua autenticazione è debole.",
+      "Attiva subito il 2FA, non fidarti degli automatismi."
+    ],
+    "thread_text": [
+      "Hacker hanno convinto l'AI di Meta a cedere account. Come? Impersonando il proprietario via chat. Nessuna verifica umana aggiuntiva richiesta.",
+      "Chiunque abbia accesso a un numero di telefono e un po' di informazioni pubbliche può provare a farlo. Il bot non fa domande.",
+      "Il problema è che molti servizi ormai gestiscono il supporto via AI, ma senza un minimo di sicurezza. Non serve hackerare: basta chiedere.",
+      "Se il tuo account ha solo una password e un metodo di recupero debole, oggi sei vulnerabile. Le AI non difendono da sole.",
+      "Attiva subito il 2FA su qualsiasi servizio lo supporti. Non fidarti degli automatismi. Fallo ora, prima di ritrovarti fuori."
+    ],
+    "video_script": [
+      "Hacker hanno fregato l'AI di Meta.",
+      "Basta fingere di essere il proprietario.",
+      "Il bot non ha chiesto nulla.",
+      "Ora controlla la tua autenticazione.",
+      "Attiva il 2FA, non fidarti."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Hacker hanno convinto l'AI di Meta a cedere account. Come? Impersonando il proprietario via chat. Nessuna verifica umana aggiuntiva richiesta.",
+          "Chiunque abbia accesso a un numero di telefono e un po' di informazioni pubbliche può provare a farlo. Il bot non fa domande.",
+          "Il problema è che molti servizi ormai gestiscono il supporto via AI, ma senza un minimo di sicurezza. Non serve hackerare: basta chiedere.",
+          "Se il tuo account ha solo una password e un metodo di recupero debole, oggi sei vulnerabile. Le AI non difendono da sole.",
+          "Attiva subito il 2FA su qualsiasi servizio lo supporti. Non fidarti degli automatismi. Fallo ora, prima di ritrovarti fuori."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hacker hanno fregato l'AI di Meta.",
+          "Basta fingere di essere il proprietario.",
+          "Il bot non ha chiesto nulla.",
+          "Ora controlla la tua autenticazione.",
+          "Attiva il 2FA, non fidarti."
+        ]
+      },
+      "instagram": {
+        "caption": "Un hacker ha chiesto all'AI di Meta di cedergli un account Instagram, e il bot ha obbedito. 🎭 Basta impersonare il proprietario in chat, senza alcuna verifica umana aggiuntiva: il sistema AI non fa domande, anche se hai solo un numero di telefono e qualche dato pubblico. 🔓 Significa che milioni di account con password e recupero debole sono già esposti. Se usi Instagram per lavoro o contatti personali, attiva subito il 2FA. ⏰ Non fidarti degli automatismi: oggi l'unico antidoto sei tu. Il tuo account è ancora tuo?"
+      }
+    },
+    "instagram_caption": "Un hacker ha chiesto all'AI di Meta di cedergli un account Instagram, e il bot ha obbedito. 🎭 Basta impersonare il proprietario in chat, senza alcuna verifica umana aggiuntiva: il sistema AI non fa domande, anche se hai solo un numero di telefono e qualche dato pubblico. 🔓 Significa che milioni di account con password e recupero debole sono già esposti. Se usi Instagram per lavoro o contatti personali, attiva subito il 2FA. ⏰ Non fidarti degli automatismi: oggi l'unico antidoto sei tu. Il tuo account è ancora tuo?",
+    "carousel_slides": [
+      {
+        "hook": "Il bot non ha chiesto verifica",
+        "description": "Bastava impersonare il proprietario via chat. Nessuna verifica umana aggiuntiva richiesta.",
+        "visual_hint": "Chatbot che approva schermata",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone chat screen"
+      },
+      {
+        "hook": "Telefono e dati pubblici bastano",
+        "description": "Chiunque con un numero di telefono e qualche info pubblica può provare. Il bot non fa domande.",
+        "visual_hint": "Telefono e documenti su tavolo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "phone and documents",
+        "image": "https://images.pexels.com/photos/6929024/pexels-photo-6929024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Supporto AI senza sicurezza",
+        "description": "Molti servizi usano AI per supporto senza minimo di sicurezza. Non serve hackerare: basta chiedere.",
+        "visual_hint": "Ingranaggio AI con lucchetto rotto",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Password e recupero debole? Vulnerabile",
+        "description": "Se hai solo password e recupero debole, oggi sei vulnerabile. Le AI non difendono da sole.",
+        "visual_hint": "Mano che apre account senza ostacoli",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand typing keyboard",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Attiva il 2FA adesso",
+        "description": "Attiva subito 2FA su ogni servizio. Non fidarti degli automatismi. Fallo prima di ritrovarti fuori.",
+        "visual_hint": "Icona 2FA con scudo verde",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "two-factor authentication",
+        "image": "https://images.pexels.com/photos/5474301/pexels-photo-5474301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800",
+    "savedAt": "2026-06-02T02:46:12.552Z",
+    "sourceId": "ba539dddd27f044b2fb2c5b0ef074490"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "alphabet-plans-to-raise-80b-to-pay-for-ai-buildout",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Alphabet plans to raise $80B to pay for AI buildout",
+    "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+    "pubDate": "Mon, 01 Jun 2026 22:55:09 +0000",
+    "slides": [
+      "Alphabet cerca 80 miliardi: investimento o rischio?",
+      "Mai raccolto così tanto per una singola infrastruttura.",
+      "Meta spende meno, ma con ritorni immediati.",
+      "Chi non alloca capitale rischia di restare indietro.",
+      "Oggi: valuta la tua spesa cloud prima del rialzo."
+    ],
+    "thread_text": [
+      "Meta spende meno di Alphabet in AI, ma sta già vedendo ritorni immediati. Mentre Google cerca 80 miliardi per un'infrastruttura senza certezze.",
+      "Investire 80 miliardi in cloud e chip è un salto nel buio se non hai un piano chiaro di monetizzazione. Alphabet sta scommettendo sul domani.",
+      "Meta invece sta puntando su efficienza e short term. Più piccoli modelli, più raffinati, già integrati nei prodotti che usi oggi. Risultato visibile subito.",
+      "È il segnale che la corsa all'AI si sta dividendo: chi accumula potenza bruta e chi ottimizza per i casi d'uso reali. Due strategie opposte.",
+      "Se lavori in azienda inizia oggi: calcola quanto stai spendendo in cloud e confrontalo col valore generato. Prima che i prezzi salgano ancora."
+    ],
+    "video_script": [
+      "Meta spende meno e incassa subito. Alphabet punta tutto.",
+      "80 miliardi di investimento, ma senza ritorni certi.",
+      "Meta ha modelli più piccoli e già profittevoli.",
+      "Due strategie opposte: potenza bruta contro efficienza.",
+      "Controlla la tua spesa cloud prima che costi di più."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Meta spende meno di Alphabet in AI, ma sta già vedendo ritorni immediati. Mentre Google cerca 80 miliardi per un'infrastruttura senza certezze.",
+          "Investire 80 miliardi in cloud e chip è un salto nel buio se non hai un piano chiaro di monetizzazione. Alphabet sta scommettendo sul domani.",
+          "Meta invece sta puntando su efficienza e short term. Più piccoli modelli, più raffinati, già integrati nei prodotti che usi oggi. Risultato visibile subito.",
+          "È il segnale che la corsa all'AI si sta dividendo: chi accumula potenza bruta e chi ottimizza per i casi d'uso reali. Due strategie opposte.",
+          "Se lavori in azienda inizia oggi: calcola quanto stai spendendo in cloud e confrontalo col valore generato. Prima che i prezzi salgano ancora."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta spende meno e incassa subito. Alphabet punta tutto.",
+          "80 miliardi di investimento, ma senza ritorni certi.",
+          "Meta ha modelli più piccoli e già profittevoli.",
+          "Due strategie opposte: potenza bruta contro efficienza.",
+          "Controlla la tua spesa cloud prima che costi di più."
+        ]
+      },
+      "instagram": {
+        "caption": "Google sta raccogliendo 80 miliardi di dollari per costruire l'infrastruttura AI più grande mai vista, più di quanto abbia mai speso per un singolo progetto. 🏗️ Il punto è che Meta spende meno e ha già visto ritorni immediati, mentre Alphabet scommette sul lungo termine senza certezze sulla monetizzazione. 💸 Per chi lavora con la tecnologia, questo significa che i prezzi dei servizi cloud potrebbero salire. ⚡ Hai già calcolato quanto spendi in cloud e cosa ti torna indietro?"
+      }
+    },
+    "instagram_caption": "Google sta raccogliendo 80 miliardi di dollari per costruire l'infrastruttura AI più grande mai vista, più di quanto abbia mai speso per un singolo progetto. 🏗️ Il punto è che Meta spende meno e ha già visto ritorni immediati, mentre Alphabet scommette sul lungo termine senza certezze sulla monetizzazione. 💸 Per chi lavora con la tecnologia, questo significa che i prezzi dei servizi cloud potrebbero salire. ⚡ Hai già calcolato quanto spendi in cloud e cosa ti torna indietro?",
+    "carousel_slides": [
+      {
+        "hook": "Meta vede ritorni, Google no",
+        "description": "Meta spende meno in AI ma ha già ritorni immediati. Google cerca 80 miliardi senza certezze di monetizzazione.",
+        "visual_hint": "Grafico a confronto barre",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "stock market chart comparison"
+      },
+      {
+        "hook": "Mai così tanto per infrastruttura",
+        "description": "80 miliardi in cloud e chip è un salto nel buio senza un piano chiaro di monetizzazione.",
+        "visual_hint": "Fumogeni su data center",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "server room data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Efficienza batte potenza bruta",
+        "description": "Meta punta su modelli piccoli e raffinati, già integrati nei prodotti. Risultato visibile subito.",
+        "visual_hint": "Lente d'ingrandimento su chip",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "microchip close up",
+        "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Due strategie AI opposte",
+        "description": "Chi accumula potenza bruta contro chi ottimizza per casi d'uso reali. Due vie divergenti.",
+        "visual_hint": "Due strade divergenti",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "road fork highway",
+        "image": "https://images.pexels.com/photos/9687802/pexels-photo-9687802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Calcola la tua spesa cloud ora",
+        "description": "Valuta oggi quanto spendi in cloud e confrontalo col valore generato, prima che i prezzi salgano ancora.",
+        "visual_hint": "Calcolatrice su bolletta cloud",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "calculator and laptop",
+        "image": "https://images.pexels.com/photos/6958507/pexels-photo-6958507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
+    "savedAt": "2026-06-02T02:46:00.094Z",
+    "sourceId": "97fd2150ce7251e9086aadc78931195a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "nvidia-chases-200b-cpu-market-with-ai-agent-pcs-fr",
     "prompt_version": "1.0.0",
     "status": "published",

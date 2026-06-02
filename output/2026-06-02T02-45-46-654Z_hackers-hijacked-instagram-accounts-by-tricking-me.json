@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hackers-hijacked-instagram-accounts-by-tricking-me",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+  "link": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+  "pubDate": "Mon, 01 Jun 2026 18:34:32 +0000",
+  "slides": [
+    "Hacker hai convinto l'AI di Meta a cedere account?",
+    "Bastava impersonare il proprietario via chat.",
+    "Il bot non ha chiesto verifica umana aggiuntiva.",
+    "Ora controlla se la tua autenticazione è debole.",
+    "Attiva subito il 2FA, non fidarti degli automatismi."
+  ],
+  "thread_text": [
+    "Hacker hanno convinto l'AI di Meta a cedere account. Come? Impersonando il proprietario via chat. Nessuna verifica umana aggiuntiva richiesta.",
+    "Chiunque abbia accesso a un numero di telefono e un po' di informazioni pubbliche può provare a farlo. Il bot non fa domande.",
+    "Il problema è che molti servizi ormai gestiscono il supporto via AI, ma senza un minimo di sicurezza. Non serve hackerare: basta chiedere.",
+    "Se il tuo account ha solo una password e un metodo di recupero debole, oggi sei vulnerabile. Le AI non difendono da sole.",
+    "Attiva subito il 2FA su qualsiasi servizio lo supporti. Non fidarti degli automatismi. Fallo ora, prima di ritrovarti fuori."
+  ],
+  "video_script": [
+    "Hacker hanno fregato l'AI di Meta.",
+    "Basta fingere di essere il proprietario.",
+    "Il bot non ha chiesto nulla.",
+    "Ora controlla la tua autenticazione.",
+    "Attiva il 2FA, non fidarti."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Hacker hanno convinto l'AI di Meta a cedere account. Come? Impersonando il proprietario via chat. Nessuna verifica umana aggiuntiva richiesta.",
+        "Chiunque abbia accesso a un numero di telefono e un po' di informazioni pubbliche può provare a farlo. Il bot non fa domande.",
+        "Il problema è che molti servizi ormai gestiscono il supporto via AI, ma senza un minimo di sicurezza. Non serve hackerare: basta chiedere.",
+        "Se il tuo account ha solo una password e un metodo di recupero debole, oggi sei vulnerabile. Le AI non difendono da sole.",
+        "Attiva subito il 2FA su qualsiasi servizio lo supporti. Non fidarti degli automatismi. Fallo ora, prima di ritrovarti fuori."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hacker hanno fregato l'AI di Meta.",
+        "Basta fingere di essere il proprietario.",
+        "Il bot non ha chiesto nulla.",
+        "Ora controlla la tua autenticazione.",
+        "Attiva il 2FA, non fidarti."
+      ]
+    },
+    "instagram": {
+      "caption": "Un hacker ha chiesto all'AI di Meta di cedergli un account Instagram, e il bot ha obbedito. 🎭 Basta impersonare il proprietario in chat, senza alcuna verifica umana aggiuntiva: il sistema AI non fa domande, anche se hai solo un numero di telefono e qualche dato pubblico. 🔓 Significa che milioni di account con password e recupero debole sono già esposti. Se usi Instagram per lavoro o contatti personali, attiva subito il 2FA. ⏰ Non fidarti degli automatismi: oggi l'unico antidoto sei tu. Il tuo account è ancora tuo?"
+    }
+  },
+  "instagram_caption": "Un hacker ha chiesto all'AI di Meta di cedergli un account Instagram, e il bot ha obbedito. 🎭 Basta impersonare il proprietario in chat, senza alcuna verifica umana aggiuntiva: il sistema AI non fa domande, anche se hai solo un numero di telefono e qualche dato pubblico. 🔓 Significa che milioni di account con password e recupero debole sono già esposti. Se usi Instagram per lavoro o contatti personali, attiva subito il 2FA. ⏰ Non fidarti degli automatismi: oggi l'unico antidoto sei tu. Il tuo account è ancora tuo?",
+  "carousel_slides": [
+    {
+      "hook": "Il bot non ha chiesto verifica",
+      "description": "Bastava impersonare il proprietario via chat. Nessuna verifica umana aggiuntiva richiesta.",
+      "visual_hint": "Chatbot che approva schermata",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone chat screen"
+    },
+    {
+      "hook": "Telefono e dati pubblici bastano",
+      "description": "Chiunque con un numero di telefono e qualche info pubblica può provare. Il bot non fa domande.",
+      "visual_hint": "Telefono e documenti su tavolo",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "phone and documents",
+      "image": "https://images.pexels.com/photos/6929024/pexels-photo-6929024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Supporto AI senza sicurezza",
+      "description": "Molti servizi usano AI per supporto senza minimo di sicurezza. Non serve hackerare: basta chiedere.",
+      "visual_hint": "Ingranaggio AI con lucchetto rotto",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Password e recupero debole? Vulnerabile",
+      "description": "Se hai solo password e recupero debole, oggi sei vulnerabile. Le AI non difendono da sole.",
+      "visual_hint": "Mano che apre account senza ostacoli",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Attiva il 2FA adesso",
+      "description": "Attiva subito 2FA su ogni servizio. Non fidarti degli automatismi. Fallo prima di ritrovarti fuori.",
+      "visual_hint": "Icona 2FA con scudo verde",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "two-factor authentication",
+      "image": "https://images.pexels.com/photos/5474301/pexels-photo-5474301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800",
+  "savedAt": "2026-06-02T02:46:12.552Z",
+  "sourceId": "ba539dddd27f044b2fb2c5b0ef074490"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "alphabet-plans-to-raise-80b-to-pay-for-ai-buildout",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Alphabet plans to raise $80B to pay for AI buildout",
+  "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+  "pubDate": "Mon, 01 Jun 2026 22:55:09 +0000",
+  "slides": [
+    "Alphabet cerca 80 miliardi: investimento o rischio?",
+    "Mai raccolto così tanto per una singola infrastruttura.",
+    "Meta spende meno, ma con ritorni immediati.",
+    "Chi non alloca capitale rischia di restare indietro.",
+    "Oggi: valuta la tua spesa cloud prima del rialzo."
+  ],
+  "thread_text": [
+    "Meta spende meno di Alphabet in AI, ma sta già vedendo ritorni immediati. Mentre Google cerca 80 miliardi per un'infrastruttura senza certezze.",
+    "Investire 80 miliardi in cloud e chip è un salto nel buio se non hai un piano chiaro di monetizzazione. Alphabet sta scommettendo sul domani.",
+    "Meta invece sta puntando su efficienza e short term. Più piccoli modelli, più raffinati, già integrati nei prodotti che usi oggi. Risultato visibile subito.",
+    "È il segnale che la corsa all'AI si sta dividendo: chi accumula potenza bruta e chi ottimizza per i casi d'uso reali. Due strategie opposte.",
+    "Se lavori in azienda inizia oggi: calcola quanto stai spendendo in cloud e confrontalo col valore generato. Prima che i prezzi salgano ancora."
+  ],
+  "video_script": [
+    "Meta spende meno e incassa subito. Alphabet punta tutto.",
+    "80 miliardi di investimento, ma senza ritorni certi.",
+    "Meta ha modelli più piccoli e già profittevoli.",
+    "Due strategie opposte: potenza bruta contro efficienza.",
+    "Controlla la tua spesa cloud prima che costi di più."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Meta spende meno di Alphabet in AI, ma sta già vedendo ritorni immediati. Mentre Google cerca 80 miliardi per un'infrastruttura senza certezze.",
+        "Investire 80 miliardi in cloud e chip è un salto nel buio se non hai un piano chiaro di monetizzazione. Alphabet sta scommettendo sul domani.",
+        "Meta invece sta puntando su efficienza e short term. Più piccoli modelli, più raffinati, già integrati nei prodotti che usi oggi. Risultato visibile subito.",
+        "È il segnale che la corsa all'AI si sta dividendo: chi accumula potenza bruta e chi ottimizza per i casi d'uso reali. Due strategie opposte.",
+        "Se lavori in azienda inizia oggi: calcola quanto stai spendendo in cloud e confrontalo col valore generato. Prima che i prezzi salgano ancora."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta spende meno e incassa subito. Alphabet punta tutto.",
+        "80 miliardi di investimento, ma senza ritorni certi.",
+        "Meta ha modelli più piccoli e già profittevoli.",
+        "Due strategie opposte: potenza bruta contro efficienza.",
+        "Controlla la tua spesa cloud prima che costi di più."
+      ]
+    },
+    "instagram": {
+      "caption": "Google sta raccogliendo 80 miliardi di dollari per costruire l'infrastruttura AI più grande mai vista, più di quanto abbia mai speso per un singolo progetto. 🏗️ Il punto è che Meta spende meno e ha già visto ritorni immediati, mentre Alphabet scommette sul lungo termine senza certezze sulla monetizzazione. 💸 Per chi lavora con la tecnologia, questo significa che i prezzi dei servizi cloud potrebbero salire. ⚡ Hai già calcolato quanto spendi in cloud e cosa ti torna indietro?"
+    }
+  },
+  "instagram_caption": "Google sta raccogliendo 80 miliardi di dollari per costruire l'infrastruttura AI più grande mai vista, più di quanto abbia mai speso per un singolo progetto. 🏗️ Il punto è che Meta spende meno e ha già visto ritorni immediati, mentre Alphabet scommette sul lungo termine senza certezze sulla monetizzazione. 💸 Per chi lavora con la tecnologia, questo significa che i prezzi dei servizi cloud potrebbero salire. ⚡ Hai già calcolato quanto spendi in cloud e cosa ti torna indietro?",
+  "carousel_slides": [
+    {
+      "hook": "Meta vede ritorni, Google no",
+      "description": "Meta spende meno in AI ma ha già ritorni immediati. Google cerca 80 miliardi senza certezze di monetizzazione.",
+      "visual_hint": "Grafico a confronto barre",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "stock market chart comparison"
+    },
+    {
+      "hook": "Mai così tanto per infrastruttura",
+      "description": "80 miliardi in cloud e chip è un salto nel buio senza un piano chiaro di monetizzazione.",
+      "visual_hint": "Fumogeni su data center",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "server room data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Efficienza batte potenza bruta",
+      "description": "Meta punta su modelli piccoli e raffinati, già integrati nei prodotti. Risultato visibile subito.",
+      "visual_hint": "Lente d'ingrandimento su chip",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microchip close up",
+      "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Due strategie AI opposte",
+      "description": "Chi accumula potenza bruta contro chi ottimizza per casi d'uso reali. Due vie divergenti.",
+      "visual_hint": "Due strade divergenti",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "road fork highway",
+      "image": "https://images.pexels.com/photos/9687802/pexels-photo-9687802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Calcola la tua spesa cloud ora",
+      "description": "Valuta oggi quanto spendi in cloud e confrontalo col valore generato, prima che i prezzi salgano ancora.",
+      "visual_hint": "Calcolatrice su bolletta cloud",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "calculator and laptop",
+      "image": "https://images.pexels.com/photos/6958507/pexels-photo-6958507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
+  "savedAt": "2026-06-02T02:46:00.094Z",
+  "sourceId": "97fd2150ce7251e9086aadc78931195a"
+}
