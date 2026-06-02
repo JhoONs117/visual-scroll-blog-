@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-offers-devs-a-better-way-to-control-ai-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft offers devs a better way to control AI agent behavior",
+  "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+  "pubDate": "Tue, 02 Jun 2026 18:00:00 +0000",
+  "slides": [
+    "Microsoft unveiled a new AI agent control tool.",
+    "It lets developers set strict guardrails for behavior.",
+    "The tool catches violations you didn't even know existed.",
+    "Your agents will now fail safely, not unpredictably.",
+    "Iterate your prompts—test the guardrails today."
+  ],
+  "thread_text": [
+    "C'è un bug nelle tue AI che non sai di avere. Microsoft ha appena rilasciato uno strumento che lo trova prima che esploda.",
+    "Ogni agente AI che costruisci ha comportamenti imprevisti. Anche quelli che sembrano funzionare alla perfezione.",
+    "Il nuovo tool di Microsoft ti lascia definire confini rigidi. Il tuo agente può operare solo all'interno di quel perimetro.",
+    "Quando sbaglia, non crasha. Non fa cose strane. Si ferma in sicurezza, e tu vedi esattamente cosa è andato storto.",
+    "Scrivi un prompt di test oggi. Fallo violare intenzionalmente. Guarda se lo strumento lo blocca. Se non lo fa, hai un problema."
+  ],
+  "video_script": [
+    "C'è un bug che non sai di avere.",
+    "Microsoft ha rilasciato un tool per agenti AI.",
+    "Imposta confini rigidi per il comportamento.",
+    "Trova violazioni che non sapevi esistessero.",
+    "Ora i tuoi agenti falliscono in sicurezza."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "C'è un bug nelle tue AI che non sai di avere. Microsoft ha appena rilasciato uno strumento che lo trova prima che esploda.",
+        "Ogni agente AI che costruisci ha comportamenti imprevisti. Anche quelli che sembrano funzionare alla perfezione.",
+        "Il nuovo tool di Microsoft ti lascia definire confini rigidi. Il tuo agente può operare solo all'interno di quel perimetro.",
+        "Quando sbaglia, non crasha. Non fa cose strane. Si ferma in sicurezza, e tu vedi esattamente cosa è andato storto.",
+        "Scrivi un prompt di test oggi. Fallo violare intenzionalmente. Guarda se lo strumento lo blocca. Se non lo fa, hai un problema."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "C'è un bug che non sai di avere.",
+        "Microsoft ha rilasciato un tool per agenti AI.",
+        "Imposta confini rigidi per il comportamento.",
+        "Trova violazioni che non sapevi esistessero.",
+        "Ora i tuoi agenti falliscono in sicurezza."
+      ]
+    },
+    "instagram": {
+      "caption": "Microsoft ha rilasciato uno strumento che ti fa vedere i comportamenti \"nascosti\" dei tuoi agenti AI, quelli che non sapevi esistessero. I dev possono ora fissare confini rigidi: l'agente opera solo lì dentro, e se sbaglia non esplode o fa cose strane, ma si ferma in sicurezza facendoti vedere l'errore esatto ⚠️. Per chi lavora con AI, significa meno bug impazziti e più controllo su cosa i bot fanno davvero 🛡️. L'hai già testato violando i tuoi stessi prompt? 🔍"
+    }
+  },
+  "instagram_caption": "Microsoft ha rilasciato uno strumento che ti fa vedere i comportamenti \"nascosti\" dei tuoi agenti AI, quelli che non sapevi esistessero. I dev possono ora fissare confini rigidi: l'agente opera solo lì dentro, e se sbaglia non esplode o fa cose strane, ma si ferma in sicurezza facendoti vedere l'errore esatto ⚠️. Per chi lavora con AI, significa meno bug impazziti e più controllo su cosa i bot fanno davvero 🛡️. L'hai già testato violando i tuoi stessi prompt? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Un bug che non sai di avere",
+      "description": "C'è un bug nelle tue AI che non conosci. Microsoft lo trova prima che esploda.",
+      "visual_hint": "Codice con bug evidenziato",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer code screen"
+    },
+    {
+      "hook": "Comportamenti imprevisti nei tuoi agenti",
+      "description": "Ogni agente AI ha comportamenti imprevisti, anche quelli apparentemente perfetti.",
+      "visual_hint": "Grafico che mostra anomalie",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Confini rigidi per i tuoi agenti",
+      "description": "Il nuovo tool di Microsoft ti lascia definire confini rigidi per il comportamento dell'agente.",
+      "visual_hint": "Confine visivo attorno a un agente",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "network rack cables",
+      "image": "https://images.pexels.com/photos/15559038/pexels-photo-15559038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fallisce in sicurezza, non imprevedibilmente",
+      "description": "Quando sbaglia, non crasha: si ferma in sicurezza e vedi esattamente cosa è andato storto.",
+      "visual_hint": "Interruttore di sicurezza",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Metti alla prova i tuoi prompt oggi",
+      "description": "Scrivi un prompt di test e fallo violare. Se lo strumento non lo blocca, hai un problema.",
+      "visual_hint": "Prompt test con blocco",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "keyboard typing code",
+      "image": "https://images.pexels.com/photos/12899140/pexels-photo-12899140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2276155467.jpg?resize=1200,833",
+  "savedAt": "2026-06-02T18:01:14.999Z",
+  "sourceId": "924210a95cceadcc84d484154dca2b6f"
+}

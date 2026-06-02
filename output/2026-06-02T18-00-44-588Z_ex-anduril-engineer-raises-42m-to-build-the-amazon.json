@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ex-anduril-engineer-raises-42m-to-build-the-amazon",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
+  "link": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
+  "pubDate": "Tue, 02 Jun 2026 18:00:00 +0000",
+  "slides": [
+    "Un ex-Anduril ha $42M per un'idea sconvolgente: l'Amazon dei pezzi compositi.",
+    "Ogni componente su misura è oggi un incubo logistico tra 20 fornitori.",
+    "Lui vuole un catalogo unico con consegna in 48 ore, come Amazon.",
+    "Per te significa progetti finiti in giorni, non mesi, e meno scarti.",
+    "Chiediti: chi fiuterà il cambiamento prima che il mercato si ribalti?"
+  ],
+  "thread_text": [
+    "Un singolo componente su misura oggi richiede 20 fornitori e settimane di logistica. Sta per diventare un click, con consegna in 48 ore.",
+    "Ogni progetto customizzato è un incubo: devi inseguire pezzi unici da artigiani diversi, senza garanzie sui tempi.",
+    "Un ex-Anduril ha raccolto 42 milioni di dollari per tagliare la testa al toro: un catalogo unico di compositi, pronto in due giorni.",
+    "Per te cosa cambia? I prototipi passano da mesi a giorni. Zero scarti, zero attese. La fabbricazione diventa un servizio, non un'odissea.",
+    "Chi progetta oggi componenti in fibra di carbonio? Tra 12 mesi ordinare un pezzo su misura sarà banale come comprare un libro. Se non stai già testando questo sistema, qualcun altro lo sta facendo al posto tuo."
+  ],
+  "video_script": [
+    "20 fornitori per un pezzo solo. Roba da matti.",
+    "Lui ha preso 42 milioni per risolvere il casino.",
+    "Un catalogo unico, tutto in 48 ore.",
+    "I tuoi progetti finiscono in giorni, non mesi.",
+    "Se non lo provi ora, il mercato ti supera."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Un singolo componente su misura oggi richiede 20 fornitori e settimane di logistica. Sta per diventare un click, con consegna in 48 ore.",
+        "Ogni progetto customizzato è un incubo: devi inseguire pezzi unici da artigiani diversi, senza garanzie sui tempi.",
+        "Un ex-Anduril ha raccolto 42 milioni di dollari per tagliare la testa al toro: un catalogo unico di compositi, pronto in due giorni.",
+        "Per te cosa cambia? I prototipi passano da mesi a giorni. Zero scarti, zero attese. La fabbricazione diventa un servizio, non un'odissea.",
+        "Chi progetta oggi componenti in fibra di carbonio? Tra 12 mesi ordinare un pezzo su misura sarà banale come comprare un libro. Se non stai già testando questo sistema, qualcun altro lo sta facendo al posto tuo."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "20 fornitori per un pezzo solo. Roba da matti.",
+        "Lui ha preso 42 milioni per risolvere il casino.",
+        "Un catalogo unico, tutto in 48 ore.",
+        "I tuoi progetti finiscono in giorni, non mesi.",
+        "Se non lo provi ora, il mercato ti supera."
+      ]
+    },
+    "instagram": {
+      "caption": "Un ex-ingegnere di Anduril ha appena raccolto 42 milioni di dollari per un’idea da paura: trasformare la produzione di componenti in fibra di carbonio in un catalogo unico con consegna in 48 ore 🚀. Oggi, per realizzare un pezzo su misura devi litigare con 20 fornitori diversi e aspettare settimane. Lui vuole schiacciare tutto in un click, come su Amazon 📦🎯. Per te significa saltare da progetti lunghi mesi a prototipi pronti in giorni, riducendo scarti e attese. Chi sta già testando questo sistema mentre tu leggi?"
+    }
+  },
+  "instagram_caption": "Un ex-ingegnere di Anduril ha appena raccolto 42 milioni di dollari per un’idea da paura: trasformare la produzione di componenti in fibra di carbonio in un catalogo unico con consegna in 48 ore 🚀. Oggi, per realizzare un pezzo su misura devi litigare con 20 fornitori diversi e aspettare settimane. Lui vuole schiacciare tutto in un click, come su Amazon 📦🎯. Per te significa saltare da progetti lunghi mesi a prototipi pronti in giorni, riducendo scarti e attese. Chi sta già testando questo sistema mentre tu leggi?",
+  "carousel_slides": [
+    {
+      "hook": "Un click, 48 ore",
+      "description": "Un ex-Anduril ha raccolto 42 milioni di dollari per un catalogo unico di compositi, pronto in due giorni.",
+      "visual_hint": "pulsante ordine Amazon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "carbon fiber pile"
+    },
+    {
+      "hook": "20 fornitori, un incubo",
+      "description": "Ogni componente su misura oggi richiede settimane di logistica e decine di artigiani senza garanzie sui tempi.",
+      "visual_hint": "mappa logistica caotica",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "warehouse shelves",
+      "image": "https://images.pexels.com/photos/30341205/pexels-photo-30341205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fabbricazione come servizio",
+      "description": "I prototipi passano da mesi a giorni. Zero scarti, zero attese. La fabbricazione diventa un click.",
+      "visual_hint": "catalogo digitale fluido",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot arm",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ordina come un libro",
+      "description": "Tra 12 mesi ordinare un pezzo su misura sarà banale. Se non lo testi ora, qualcun altro lo fa al tuo posto.",
+      "visual_hint": "mano tiene componente",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding carbon",
+      "image": "https://images.pexels.com/photos/28700690/pexels-photo-28700690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chi fiuta il cambiamento?",
+      "description": "Il mercato si ribalta. Se non stai già testando questo sistema, qualcun altro lo sta facendo per te.",
+      "visual_hint": "grafico a freccia su",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/layup-parts-hq.jpeg?resize=1200,626",
+  "savedAt": "2026-06-02T18:00:59.478Z",
+  "sourceId": "a2148cb7bebe2583217ee98da990e6cb"
+}

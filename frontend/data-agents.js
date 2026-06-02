@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "why-vivatech-2026-is-the-place-to-see-europe-s-ai-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Why VivaTech 2026 is the place to see Europe’s AI strategy take shape",
+      "link": "https://techcrunch.com/2026/06/02/why-vivatech-2026-is-the-place-to-see-europes-ai-strategy-take-shape/",
+      "pubDate": "Tue, 02 Jun 2026 15:05:00 +0000",
+      "slides": [
+        "VivaTech 2026 reveals Europe’s AI plans—what’s the real goal?",
+        "The EU funds local models to rival US giants.",
+        "But startups demoing there already break regulatory rules.",
+        "You now access tools the market hid for months.",
+        "Book your badge before policy shifts kill early access."
+      ],
+      "thread_text": [
+        "Le startup presenti a VivaTech 2026 violano già le norme UE sull'AI. Le regole sono state scritte, ma i prodotti sono già qui.",
+        "L'Europa ha appena annunciato fondi pubblici per creare modelli locali in grado di competere con OpenAI e Google. Vogliono sovranità tecnologica.",
+        "Il paradosso è che le stesse startup che dovrebbero dimostrare questa nuova via hanno già lanciato strumenti non conformi. Il regolamento arriva dopo i fatti.",
+        "Alcuni di questi tool sono disponibili da mesi, ma il mercato li ha tenuti nascosti. Ora puoi testarli senza più barriere.",
+        "Il tuo badge per VivaTech è ancora prenotabile. Ma se le policy cambiano come sembra, l'accesso anticipato potrebbe chiudersi entro poche settimane."
+      ],
+      "video_script": [
+        "Le startup a VivaTech già infrangono le regole UE.",
+        "L'Europa finanzia modelli locali per battere gli americani.",
+        "Intanto i tool che dovevano essere regolati sono già in uso.",
+        "Alcuni erano nascosti da mesi, adesso sono pubblici.",
+        "Prenota ora il badge, perché le policy stanno per cambiare."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Le startup presenti a VivaTech 2026 violano già le norme UE sull'AI. Le regole sono state scritte, ma i prodotti sono già qui.",
+            "L'Europa ha appena annunciato fondi pubblici per creare modelli locali in grado di competere con OpenAI e Google. Vogliono sovranità tecnologica.",
+            "Il paradosso è che le stesse startup che dovrebbero dimostrare questa nuova via hanno già lanciato strumenti non conformi. Il regolamento arriva dopo i fatti.",
+            "Alcuni di questi tool sono disponibili da mesi, ma il mercato li ha tenuti nascosti. Ora puoi testarli senza più barriere.",
+            "Il tuo badge per VivaTech è ancora prenotabile. Ma se le policy cambiano come sembra, l'accesso anticipato potrebbe chiudersi entro poche settimane."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Le startup a VivaTech già infrangono le regole UE.",
+            "L'Europa finanzia modelli locali per battere gli americani.",
+            "Intanto i tool che dovevano essere regolati sono già in uso.",
+            "Alcuni erano nascosti da mesi, adesso sono pubblici.",
+            "Prenota ora il badge, perché le policy stanno per cambiare."
+          ]
+        },
+        "instagram": {
+          "caption": "A VivaTech 2026, le startup europee espongono già tool AI che violano le regole UE appena scritte. L’Unione stanzia fondi pubblici per creare modelli locali contro OpenAI, ma i prodotti che dovrebbero dimostrare questa nuova via sono già fuori dalla legge.  \nPer te significa che strumenti tenuti nascosti dal mercato per mesi ora sono accessibili e testabili. Ma se le policy cambieranno, l’accesso anticipato potrebbe chiudersi in poche settimane.  \nHai già il badge?"
+        }
+      },
+      "instagram_caption": "A VivaTech 2026, le startup europee espongono già tool AI che violano le regole UE appena scritte. L’Unione stanzia fondi pubblici per creare modelli locali contro OpenAI, ma i prodotti che dovrebbero dimostrare questa nuova via sono già fuori dalla legge.  \nPer te significa che strumenti tenuti nascosti dal mercato per mesi ora sono accessibili e testabili. Ma se le policy cambieranno, l’accesso anticipato potrebbe chiudersi in poche settimane.  \nHai già il badge?",
+      "carousel_slides": [
+        {
+          "hook": "Startups già violano le regole",
+          "description": "Le startup a VivaTech 2026 lanciano strumenti non conformi alle norme UE. Le regole arrivano dopo i fatti.",
+          "visual_hint": "Warning sign code",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "warning sign server"
+        },
+        {
+          "hook": "Fondi UE contro Big Tech",
+          "description": "L'Europa annuncia fondi per modelli locali che competano con OpenAI e Google. Vogliono sovranità tecnologica.",
+          "visual_hint": "Money chart EU flag",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "european flag money",
+          "image": "https://images.pexels.com/photos/4386344/pexels-photo-4386344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Paradosso regolatorio in azione",
+          "description": "Le startup che dovrebbero mostrare la nuova via hanno già tool non conformi. Il regolamento arriva dopo.",
+          "visual_hint": "Robot breaking rule",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot broken rules",
+          "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Strumenti nascosti ora accessibili",
+          "description": "Tool disponibili da mesi ma tenuti nascosti dal mercato. Ora puoi testarli senza barriere.",
+          "visual_hint": "Unlocked smartphone screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone unlocking hand",
+          "image": "https://images.pexels.com/photos/7416571/pexels-photo-7416571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Badge ancora aperto, ma per poco",
+          "description": "Prenota il tuo badge per VivaTech 2026. Se le policy cambiano, l'accesso anticipato si chiude in settimane.",
+          "visual_hint": "Ticket with calendar date",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "event ticket calendar",
+          "image": "https://images.pexels.com/photos/8261581/pexels-photo-8261581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/VivaTech-phare.jpg?resize=1200,800",
+      "savedAt": "2026-06-02T18:01:42.806Z",
+      "sourceId": "e72c5050b8ff814fe86c7d1912da2e67"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-launches-new-codex-tools-for-white-collar-w",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI launches new Codex tools for white-collar work",
+      "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "pubDate": "Tue, 02 Jun 2026 16:00:00 +0000",
+      "slides": [
+        "OpenAI svela strumenti per il tuo posto di lavoro.",
+        "Codex ora automatizza attività d'ufficio complesse.",
+        "Non serve essere programmatori per usarli subito.",
+        "Quale compito ripetitivo delegherai oggi stesso?",
+        "Molti ruoli cambieranno: aggiorna le tue competenze ora."
+      ],
+      "thread_text": [
+        "Non serve saper programmare per usare gli strumenti AI più potenti di sempre. OpenAI ha appena ribaltato le regole del gioco.",
+        "Fino a ieri, Codex serviva solo a chi scrive codice. Oggi automatizza attività d'ufficio: fogli Excel, email, report, flussi di approvazione.",
+        "Basta descrivere cosa vuoi ottenere, in italiano semplice. Lui genera il comando, lo esegue e ti restituisce il risultato pulito.",
+        "Ogni giorno perdi tempo su task ripetitivi che un assistente AI può fare in 3 secondi. La domanda non è se cambierai, ma quando.",
+        "I ruoli si stanno ridisegnando. Il tuo prossimo vantaggio competitivo? Imparare a delegare a Codex il lavoro che odi. Puoi iniziare gratis oggi."
+      ],
+      "video_script": [
+        "Non serve essere programmatori per usare Codex.",
+        "OpenAI lo ha lanciato per l'ufficio.",
+        "Automatizza fogli, email e report.",
+        "Gli parli in italiano, lui esegue.",
+        "Ora tocca a te delegare il ripetitivo."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Non serve saper programmare per usare gli strumenti AI più potenti di sempre. OpenAI ha appena ribaltato le regole del gioco.",
+            "Fino a ieri, Codex serviva solo a chi scrive codice. Oggi automatizza attività d'ufficio: fogli Excel, email, report, flussi di approvazione.",
+            "Basta descrivere cosa vuoi ottenere, in italiano semplice. Lui genera il comando, lo esegue e ti restituisce il risultato pulito.",
+            "Ogni giorno perdi tempo su task ripetitivi che un assistente AI può fare in 3 secondi. La domanda non è se cambierai, ma quando.",
+            "I ruoli si stanno ridisegnando. Il tuo prossimo vantaggio competitivo? Imparare a delegare a Codex il lavoro che odi. Puoi iniziare gratis oggi."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Non serve essere programmatori per usare Codex.",
+            "OpenAI lo ha lanciato per l'ufficio.",
+            "Automatizza fogli, email e report.",
+            "Gli parli in italiano, lui esegue.",
+            "Ora tocca a te delegare il ripetitivo."
+          ]
+        },
+        "instagram": {
+          "caption": "Da oggi puoi dire a un computer \"trova i dati del mese scorso e mandali in ordine al commercialista\" e lui lo fa da solo. OpenAI ha esteso Codex — il sistema che finora usavano solo i programmatori — a tutti i compiti d'ufficio: fogli di calcolo 🧾, email, report e flussi di approvazione. Basta descrivere cosa vuoi in italiano semplice, e lui genera il comando, lo esegue e ti dà il risultato pulito. Per chi lavora, significa delegare in 3 secondi le attività ripetitive che mangiano ore ogni giorno ⏱️. Quale compito odiato delegherai oggi?"
+        }
+      },
+      "instagram_caption": "Da oggi puoi dire a un computer \"trova i dati del mese scorso e mandali in ordine al commercialista\" e lui lo fa da solo. OpenAI ha esteso Codex — il sistema che finora usavano solo i programmatori — a tutti i compiti d'ufficio: fogli di calcolo 🧾, email, report e flussi di approvazione. Basta descrivere cosa vuoi in italiano semplice, e lui genera il comando, lo esegue e ti dà il risultato pulito. Per chi lavora, significa delegare in 3 secondi le attività ripetitive che mangiano ore ogni giorno ⏱️. Quale compito odiato delegherai oggi?",
+      "carousel_slides": [
+        {
+          "hook": "Non serve programmare? Davvero",
+          "description": "OpenAI ha ribaltato le regole: Codex ora usa italiano semplice per automatizzare il tuo lavoro.",
+          "visual_hint": "Schermo con comando vocale",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer screen code"
+        },
+        {
+          "hook": "Addio fogli Excel noiosi",
+          "description": "Codex automatizza email, report e flussi di approvazione. Basta descrivere cosa vuoi.",
+          "visual_hint": "Foglio Excel che si cancella",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "spreadsheet monitor",
+          "image": "https://images.pexels.com/photos/8296983/pexels-photo-8296983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "3 secondi per un task",
+          "description": "Ogni giorno perdi tempo su attività ripetitive che un assistente AI può fare in 3 secondi.",
+          "visual_hint": "Cronometro che parte",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stopwatch closeup",
+          "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Quando cambierai ruolo?",
+          "description": "La domanda non è se i ruoli cambieranno, ma quando. Codex è gratis oggi.",
+          "visual_hint": "Mani che digitano veloci",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers typing",
+          "image": "https://images.pexels.com/photos/7653568/pexels-photo-7653568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Delega ciò che odi",
+          "description": "Il vantaggio competitivo è imparare a delegare a Codex il lavoro noioso. Inizia subito.",
+          "visual_hint": "Spunta verde su lista",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "green check mark",
+          "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-06-02T18:01:29.076Z",
+      "sourceId": "770b391e6f5edd14d7f6c9b3ac442618"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "microsoft-offers-devs-a-better-way-to-control-ai-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft offers devs a better way to control AI agent behavior",
+      "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "pubDate": "Tue, 02 Jun 2026 18:00:00 +0000",
+      "slides": [
+        "Microsoft unveiled a new AI agent control tool.",
+        "It lets developers set strict guardrails for behavior.",
+        "The tool catches violations you didn't even know existed.",
+        "Your agents will now fail safely, not unpredictably.",
+        "Iterate your prompts—test the guardrails today."
+      ],
+      "thread_text": [
+        "C'è un bug nelle tue AI che non sai di avere. Microsoft ha appena rilasciato uno strumento che lo trova prima che esploda.",
+        "Ogni agente AI che costruisci ha comportamenti imprevisti. Anche quelli che sembrano funzionare alla perfezione.",
+        "Il nuovo tool di Microsoft ti lascia definire confini rigidi. Il tuo agente può operare solo all'interno di quel perimetro.",
+        "Quando sbaglia, non crasha. Non fa cose strane. Si ferma in sicurezza, e tu vedi esattamente cosa è andato storto.",
+        "Scrivi un prompt di test oggi. Fallo violare intenzionalmente. Guarda se lo strumento lo blocca. Se non lo fa, hai un problema."
+      ],
+      "video_script": [
+        "C'è un bug che non sai di avere.",
+        "Microsoft ha rilasciato un tool per agenti AI.",
+        "Imposta confini rigidi per il comportamento.",
+        "Trova violazioni che non sapevi esistessero.",
+        "Ora i tuoi agenti falliscono in sicurezza."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "C'è un bug nelle tue AI che non sai di avere. Microsoft ha appena rilasciato uno strumento che lo trova prima che esploda.",
+            "Ogni agente AI che costruisci ha comportamenti imprevisti. Anche quelli che sembrano funzionare alla perfezione.",
+            "Il nuovo tool di Microsoft ti lascia definire confini rigidi. Il tuo agente può operare solo all'interno di quel perimetro.",
+            "Quando sbaglia, non crasha. Non fa cose strane. Si ferma in sicurezza, e tu vedi esattamente cosa è andato storto.",
+            "Scrivi un prompt di test oggi. Fallo violare intenzionalmente. Guarda se lo strumento lo blocca. Se non lo fa, hai un problema."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "C'è un bug che non sai di avere.",
+            "Microsoft ha rilasciato un tool per agenti AI.",
+            "Imposta confini rigidi per il comportamento.",
+            "Trova violazioni che non sapevi esistessero.",
+            "Ora i tuoi agenti falliscono in sicurezza."
+          ]
+        },
+        "instagram": {
+          "caption": "Microsoft ha rilasciato uno strumento che ti fa vedere i comportamenti \"nascosti\" dei tuoi agenti AI, quelli che non sapevi esistessero. I dev possono ora fissare confini rigidi: l'agente opera solo lì dentro, e se sbaglia non esplode o fa cose strane, ma si ferma in sicurezza facendoti vedere l'errore esatto ⚠️. Per chi lavora con AI, significa meno bug impazziti e più controllo su cosa i bot fanno davvero 🛡️. L'hai già testato violando i tuoi stessi prompt? 🔍"
+        }
+      },
+      "instagram_caption": "Microsoft ha rilasciato uno strumento che ti fa vedere i comportamenti \"nascosti\" dei tuoi agenti AI, quelli che non sapevi esistessero. I dev possono ora fissare confini rigidi: l'agente opera solo lì dentro, e se sbaglia non esplode o fa cose strane, ma si ferma in sicurezza facendoti vedere l'errore esatto ⚠️. Per chi lavora con AI, significa meno bug impazziti e più controllo su cosa i bot fanno davvero 🛡️. L'hai già testato violando i tuoi stessi prompt? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Un bug che non sai di avere",
+          "description": "C'è un bug nelle tue AI che non conosci. Microsoft lo trova prima che esploda.",
+          "visual_hint": "Codice con bug evidenziato",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer code screen"
+        },
+        {
+          "hook": "Comportamenti imprevisti nei tuoi agenti",
+          "description": "Ogni agente AI ha comportamenti imprevisti, anche quelli apparentemente perfetti.",
+          "visual_hint": "Grafico che mostra anomalie",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center servers",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Confini rigidi per i tuoi agenti",
+          "description": "Il nuovo tool di Microsoft ti lascia definire confini rigidi per il comportamento dell'agente.",
+          "visual_hint": "Confine visivo attorno a un agente",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "network rack cables",
+          "image": "https://images.pexels.com/photos/15559038/pexels-photo-15559038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fallisce in sicurezza, non imprevedibilmente",
+          "description": "Quando sbaglia, non crasha: si ferma in sicurezza e vedi esattamente cosa è andato storto.",
+          "visual_hint": "Interruttore di sicurezza",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "server room lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Metti alla prova i tuoi prompt oggi",
+          "description": "Scrivi un prompt di test e fallo violare. Se lo strumento non lo blocca, hai un problema.",
+          "visual_hint": "Prompt test con blocco",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "keyboard typing code",
+          "image": "https://images.pexels.com/photos/12899140/pexels-photo-12899140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2276155467.jpg?resize=1200,833",
+      "savedAt": "2026-06-02T18:01:14.999Z",
+      "sourceId": "924210a95cceadcc84d484154dca2b6f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ex-anduril-engineer-raises-42m-to-build-the-amazon",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
+      "link": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
+      "pubDate": "Tue, 02 Jun 2026 18:00:00 +0000",
+      "slides": [
+        "Un ex-Anduril ha $42M per un'idea sconvolgente: l'Amazon dei pezzi compositi.",
+        "Ogni componente su misura è oggi un incubo logistico tra 20 fornitori.",
+        "Lui vuole un catalogo unico con consegna in 48 ore, come Amazon.",
+        "Per te significa progetti finiti in giorni, non mesi, e meno scarti.",
+        "Chiediti: chi fiuterà il cambiamento prima che il mercato si ribalti?"
+      ],
+      "thread_text": [
+        "Un singolo componente su misura oggi richiede 20 fornitori e settimane di logistica. Sta per diventare un click, con consegna in 48 ore.",
+        "Ogni progetto customizzato è un incubo: devi inseguire pezzi unici da artigiani diversi, senza garanzie sui tempi.",
+        "Un ex-Anduril ha raccolto 42 milioni di dollari per tagliare la testa al toro: un catalogo unico di compositi, pronto in due giorni.",
+        "Per te cosa cambia? I prototipi passano da mesi a giorni. Zero scarti, zero attese. La fabbricazione diventa un servizio, non un'odissea.",
+        "Chi progetta oggi componenti in fibra di carbonio? Tra 12 mesi ordinare un pezzo su misura sarà banale come comprare un libro. Se non stai già testando questo sistema, qualcun altro lo sta facendo al posto tuo."
+      ],
+      "video_script": [
+        "20 fornitori per un pezzo solo. Roba da matti.",
+        "Lui ha preso 42 milioni per risolvere il casino.",
+        "Un catalogo unico, tutto in 48 ore.",
+        "I tuoi progetti finiscono in giorni, non mesi.",
+        "Se non lo provi ora, il mercato ti supera."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Un singolo componente su misura oggi richiede 20 fornitori e settimane di logistica. Sta per diventare un click, con consegna in 48 ore.",
+            "Ogni progetto customizzato è un incubo: devi inseguire pezzi unici da artigiani diversi, senza garanzie sui tempi.",
+            "Un ex-Anduril ha raccolto 42 milioni di dollari per tagliare la testa al toro: un catalogo unico di compositi, pronto in due giorni.",
+            "Per te cosa cambia? I prototipi passano da mesi a giorni. Zero scarti, zero attese. La fabbricazione diventa un servizio, non un'odissea.",
+            "Chi progetta oggi componenti in fibra di carbonio? Tra 12 mesi ordinare un pezzo su misura sarà banale come comprare un libro. Se non stai già testando questo sistema, qualcun altro lo sta facendo al posto tuo."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "20 fornitori per un pezzo solo. Roba da matti.",
+            "Lui ha preso 42 milioni per risolvere il casino.",
+            "Un catalogo unico, tutto in 48 ore.",
+            "I tuoi progetti finiscono in giorni, non mesi.",
+            "Se non lo provi ora, il mercato ti supera."
+          ]
+        },
+        "instagram": {
+          "caption": "Un ex-ingegnere di Anduril ha appena raccolto 42 milioni di dollari per un’idea da paura: trasformare la produzione di componenti in fibra di carbonio in un catalogo unico con consegna in 48 ore 🚀. Oggi, per realizzare un pezzo su misura devi litigare con 20 fornitori diversi e aspettare settimane. Lui vuole schiacciare tutto in un click, come su Amazon 📦🎯. Per te significa saltare da progetti lunghi mesi a prototipi pronti in giorni, riducendo scarti e attese. Chi sta già testando questo sistema mentre tu leggi?"
+        }
+      },
+      "instagram_caption": "Un ex-ingegnere di Anduril ha appena raccolto 42 milioni di dollari per un’idea da paura: trasformare la produzione di componenti in fibra di carbonio in un catalogo unico con consegna in 48 ore 🚀. Oggi, per realizzare un pezzo su misura devi litigare con 20 fornitori diversi e aspettare settimane. Lui vuole schiacciare tutto in un click, come su Amazon 📦🎯. Per te significa saltare da progetti lunghi mesi a prototipi pronti in giorni, riducendo scarti e attese. Chi sta già testando questo sistema mentre tu leggi?",
+      "carousel_slides": [
+        {
+          "hook": "Un click, 48 ore",
+          "description": "Un ex-Anduril ha raccolto 42 milioni di dollari per un catalogo unico di compositi, pronto in due giorni.",
+          "visual_hint": "pulsante ordine Amazon",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "carbon fiber pile"
+        },
+        {
+          "hook": "20 fornitori, un incubo",
+          "description": "Ogni componente su misura oggi richiede settimane di logistica e decine di artigiani senza garanzie sui tempi.",
+          "visual_hint": "mappa logistica caotica",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "warehouse shelves",
+          "image": "https://images.pexels.com/photos/30341205/pexels-photo-30341205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fabbricazione come servizio",
+          "description": "I prototipi passano da mesi a giorni. Zero scarti, zero attese. La fabbricazione diventa un click.",
+          "visual_hint": "catalogo digitale fluido",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot arm",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ordina come un libro",
+          "description": "Tra 12 mesi ordinare un pezzo su misura sarà banale. Se non lo testi ora, qualcun altro lo fa al tuo posto.",
+          "visual_hint": "mano tiene componente",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding carbon",
+          "image": "https://images.pexels.com/photos/28700690/pexels-photo-28700690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Chi fiuta il cambiamento?",
+          "description": "Il mercato si ribalta. Se non stai già testando questo sistema, qualcun altro lo sta facendo per te.",
+          "visual_hint": "grafico a freccia su",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/layup-parts-hq.jpeg?resize=1200,626",
+      "savedAt": "2026-06-02T18:00:59.478Z",
+      "sourceId": "a2148cb7bebe2583217ee98da990e6cb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "zerodrift-raises-10m-to-protect-ai-models-from-the",
       "prompt_version": "1.0.0",
       "status": "published",

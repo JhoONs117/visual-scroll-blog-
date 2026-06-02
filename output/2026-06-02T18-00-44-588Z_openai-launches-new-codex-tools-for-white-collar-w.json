@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-launches-new-codex-tools-for-white-collar-w",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI launches new Codex tools for white-collar work",
+  "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+  "pubDate": "Tue, 02 Jun 2026 16:00:00 +0000",
+  "slides": [
+    "OpenAI svela strumenti per il tuo posto di lavoro.",
+    "Codex ora automatizza attività d'ufficio complesse.",
+    "Non serve essere programmatori per usarli subito.",
+    "Quale compito ripetitivo delegherai oggi stesso?",
+    "Molti ruoli cambieranno: aggiorna le tue competenze ora."
+  ],
+  "thread_text": [
+    "Non serve saper programmare per usare gli strumenti AI più potenti di sempre. OpenAI ha appena ribaltato le regole del gioco.",
+    "Fino a ieri, Codex serviva solo a chi scrive codice. Oggi automatizza attività d'ufficio: fogli Excel, email, report, flussi di approvazione.",
+    "Basta descrivere cosa vuoi ottenere, in italiano semplice. Lui genera il comando, lo esegue e ti restituisce il risultato pulito.",
+    "Ogni giorno perdi tempo su task ripetitivi che un assistente AI può fare in 3 secondi. La domanda non è se cambierai, ma quando.",
+    "I ruoli si stanno ridisegnando. Il tuo prossimo vantaggio competitivo? Imparare a delegare a Codex il lavoro che odi. Puoi iniziare gratis oggi."
+  ],
+  "video_script": [
+    "Non serve essere programmatori per usare Codex.",
+    "OpenAI lo ha lanciato per l'ufficio.",
+    "Automatizza fogli, email e report.",
+    "Gli parli in italiano, lui esegue.",
+    "Ora tocca a te delegare il ripetitivo."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Non serve saper programmare per usare gli strumenti AI più potenti di sempre. OpenAI ha appena ribaltato le regole del gioco.",
+        "Fino a ieri, Codex serviva solo a chi scrive codice. Oggi automatizza attività d'ufficio: fogli Excel, email, report, flussi di approvazione.",
+        "Basta descrivere cosa vuoi ottenere, in italiano semplice. Lui genera il comando, lo esegue e ti restituisce il risultato pulito.",
+        "Ogni giorno perdi tempo su task ripetitivi che un assistente AI può fare in 3 secondi. La domanda non è se cambierai, ma quando.",
+        "I ruoli si stanno ridisegnando. Il tuo prossimo vantaggio competitivo? Imparare a delegare a Codex il lavoro che odi. Puoi iniziare gratis oggi."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Non serve essere programmatori per usare Codex.",
+        "OpenAI lo ha lanciato per l'ufficio.",
+        "Automatizza fogli, email e report.",
+        "Gli parli in italiano, lui esegue.",
+        "Ora tocca a te delegare il ripetitivo."
+      ]
+    },
+    "instagram": {
+      "caption": "Da oggi puoi dire a un computer \"trova i dati del mese scorso e mandali in ordine al commercialista\" e lui lo fa da solo. OpenAI ha esteso Codex — il sistema che finora usavano solo i programmatori — a tutti i compiti d'ufficio: fogli di calcolo 🧾, email, report e flussi di approvazione. Basta descrivere cosa vuoi in italiano semplice, e lui genera il comando, lo esegue e ti dà il risultato pulito. Per chi lavora, significa delegare in 3 secondi le attività ripetitive che mangiano ore ogni giorno ⏱️. Quale compito odiato delegherai oggi?"
+    }
+  },
+  "instagram_caption": "Da oggi puoi dire a un computer \"trova i dati del mese scorso e mandali in ordine al commercialista\" e lui lo fa da solo. OpenAI ha esteso Codex — il sistema che finora usavano solo i programmatori — a tutti i compiti d'ufficio: fogli di calcolo 🧾, email, report e flussi di approvazione. Basta descrivere cosa vuoi in italiano semplice, e lui genera il comando, lo esegue e ti dà il risultato pulito. Per chi lavora, significa delegare in 3 secondi le attività ripetitive che mangiano ore ogni giorno ⏱️. Quale compito odiato delegherai oggi?",
+  "carousel_slides": [
+    {
+      "hook": "Non serve programmare? Davvero",
+      "description": "OpenAI ha ribaltato le regole: Codex ora usa italiano semplice per automatizzare il tuo lavoro.",
+      "visual_hint": "Schermo con comando vocale",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer screen code"
+    },
+    {
+      "hook": "Addio fogli Excel noiosi",
+      "description": "Codex automatizza email, report e flussi di approvazione. Basta descrivere cosa vuoi.",
+      "visual_hint": "Foglio Excel che si cancella",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "spreadsheet monitor",
+      "image": "https://images.pexels.com/photos/8296983/pexels-photo-8296983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "3 secondi per un task",
+      "description": "Ogni giorno perdi tempo su attività ripetitive che un assistente AI può fare in 3 secondi.",
+      "visual_hint": "Cronometro che parte",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stopwatch closeup",
+      "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Quando cambierai ruolo?",
+      "description": "La domanda non è se i ruoli cambieranno, ma quando. Codex è gratis oggi.",
+      "visual_hint": "Mani che digitano veloci",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers typing",
+      "image": "https://images.pexels.com/photos/7653568/pexels-photo-7653568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Delega ciò che odi",
+      "description": "Il vantaggio competitivo è imparare a delegare a Codex il lavoro noioso. Inizia subito.",
+      "visual_hint": "Spunta verde su lista",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "green check mark",
+      "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-02T18:01:29.076Z",
+  "sourceId": "770b391e6f5edd14d7f6c9b3ac442618"
+}

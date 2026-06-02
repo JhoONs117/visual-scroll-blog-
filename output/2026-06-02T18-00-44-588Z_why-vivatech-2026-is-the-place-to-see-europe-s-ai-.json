@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-vivatech-2026-is-the-place-to-see-europe-s-ai-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why VivaTech 2026 is the place to see Europe’s AI strategy take shape",
+  "link": "https://techcrunch.com/2026/06/02/why-vivatech-2026-is-the-place-to-see-europes-ai-strategy-take-shape/",
+  "pubDate": "Tue, 02 Jun 2026 15:05:00 +0000",
+  "slides": [
+    "VivaTech 2026 reveals Europe’s AI plans—what’s the real goal?",
+    "The EU funds local models to rival US giants.",
+    "But startups demoing there already break regulatory rules.",
+    "You now access tools the market hid for months.",
+    "Book your badge before policy shifts kill early access."
+  ],
+  "thread_text": [
+    "Le startup presenti a VivaTech 2026 violano già le norme UE sull'AI. Le regole sono state scritte, ma i prodotti sono già qui.",
+    "L'Europa ha appena annunciato fondi pubblici per creare modelli locali in grado di competere con OpenAI e Google. Vogliono sovranità tecnologica.",
+    "Il paradosso è che le stesse startup che dovrebbero dimostrare questa nuova via hanno già lanciato strumenti non conformi. Il regolamento arriva dopo i fatti.",
+    "Alcuni di questi tool sono disponibili da mesi, ma il mercato li ha tenuti nascosti. Ora puoi testarli senza più barriere.",
+    "Il tuo badge per VivaTech è ancora prenotabile. Ma se le policy cambiano come sembra, l'accesso anticipato potrebbe chiudersi entro poche settimane."
+  ],
+  "video_script": [
+    "Le startup a VivaTech già infrangono le regole UE.",
+    "L'Europa finanzia modelli locali per battere gli americani.",
+    "Intanto i tool che dovevano essere regolati sono già in uso.",
+    "Alcuni erano nascosti da mesi, adesso sono pubblici.",
+    "Prenota ora il badge, perché le policy stanno per cambiare."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Le startup presenti a VivaTech 2026 violano già le norme UE sull'AI. Le regole sono state scritte, ma i prodotti sono già qui.",
+        "L'Europa ha appena annunciato fondi pubblici per creare modelli locali in grado di competere con OpenAI e Google. Vogliono sovranità tecnologica.",
+        "Il paradosso è che le stesse startup che dovrebbero dimostrare questa nuova via hanno già lanciato strumenti non conformi. Il regolamento arriva dopo i fatti.",
+        "Alcuni di questi tool sono disponibili da mesi, ma il mercato li ha tenuti nascosti. Ora puoi testarli senza più barriere.",
+        "Il tuo badge per VivaTech è ancora prenotabile. Ma se le policy cambiano come sembra, l'accesso anticipato potrebbe chiudersi entro poche settimane."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Le startup a VivaTech già infrangono le regole UE.",
+        "L'Europa finanzia modelli locali per battere gli americani.",
+        "Intanto i tool che dovevano essere regolati sono già in uso.",
+        "Alcuni erano nascosti da mesi, adesso sono pubblici.",
+        "Prenota ora il badge, perché le policy stanno per cambiare."
+      ]
+    },
+    "instagram": {
+      "caption": "A VivaTech 2026, le startup europee espongono già tool AI che violano le regole UE appena scritte. L’Unione stanzia fondi pubblici per creare modelli locali contro OpenAI, ma i prodotti che dovrebbero dimostrare questa nuova via sono già fuori dalla legge.  \nPer te significa che strumenti tenuti nascosti dal mercato per mesi ora sono accessibili e testabili. Ma se le policy cambieranno, l’accesso anticipato potrebbe chiudersi in poche settimane.  \nHai già il badge?"
+    }
+  },
+  "instagram_caption": "A VivaTech 2026, le startup europee espongono già tool AI che violano le regole UE appena scritte. L’Unione stanzia fondi pubblici per creare modelli locali contro OpenAI, ma i prodotti che dovrebbero dimostrare questa nuova via sono già fuori dalla legge.  \nPer te significa che strumenti tenuti nascosti dal mercato per mesi ora sono accessibili e testabili. Ma se le policy cambieranno, l’accesso anticipato potrebbe chiudersi in poche settimane.  \nHai già il badge?",
+  "carousel_slides": [
+    {
+      "hook": "Startups già violano le regole",
+      "description": "Le startup a VivaTech 2026 lanciano strumenti non conformi alle norme UE. Le regole arrivano dopo i fatti.",
+      "visual_hint": "Warning sign code",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "warning sign server"
+    },
+    {
+      "hook": "Fondi UE contro Big Tech",
+      "description": "L'Europa annuncia fondi per modelli locali che competano con OpenAI e Google. Vogliono sovranità tecnologica.",
+      "visual_hint": "Money chart EU flag",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "european flag money",
+      "image": "https://images.pexels.com/photos/4386344/pexels-photo-4386344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Paradosso regolatorio in azione",
+      "description": "Le startup che dovrebbero mostrare la nuova via hanno già tool non conformi. Il regolamento arriva dopo.",
+      "visual_hint": "Robot breaking rule",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot broken rules",
+      "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Strumenti nascosti ora accessibili",
+      "description": "Tool disponibili da mesi ma tenuti nascosti dal mercato. Ora puoi testarli senza barriere.",
+      "visual_hint": "Unlocked smartphone screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone unlocking hand",
+      "image": "https://images.pexels.com/photos/7416571/pexels-photo-7416571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Badge ancora aperto, ma per poco",
+      "description": "Prenota il tuo badge per VivaTech 2026. Se le policy cambiano, l'accesso anticipato si chiude in settimane.",
+      "visual_hint": "Ticket with calendar date",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "event ticket calendar",
+      "image": "https://images.pexels.com/photos/8261581/pexels-photo-8261581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/VivaTech-phare.jpg?resize=1200,800",
+  "savedAt": "2026-06-02T18:01:42.806Z",
+  "sourceId": "e72c5050b8ff814fe86c7d1912da2e67"
+}
