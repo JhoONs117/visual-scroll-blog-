@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "trump-signs-narrower-executive-order-on-ai-oversig",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Trump signs narrower executive order on AI oversight after industry objections ",
+    "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+    "pubDate": "Tue, 02 Jun 2026 16:23:08 +0000",
+    "slides": [
+      "Trump firmò un nuovo ordine AI, ma cosa ha ceduto?",
+      "Dopo le obiezioni dell'industria, il testo è stato ridotto.",
+      "Mancano regole chiare su trasparenza e sicurezza dei modelli.",
+      "Le aziende tech guadagnano flessibilità, ma i rischi restano opachi.",
+      "Ora tocca a te: monitora le policy che cambiano."
+    ],
+    "thread_text": [
+      "Le nuove regole sull’AI? Non ci sono. L’ordine esecutivo di Trump è stato svuotato: niente trasparenza, niente sicurezza obbligatoria.",
+      "L’industria tech ha fatto pressione e il testo iniziale è stato accorciato. Meno vincoli, meno obblighi per le big company.",
+      "Il risultato? Le aziende guadagnano flessibilità, ma i rischi restano opachi. Nessuno sa davvero cosa succeda dentro i modelli.",
+      "Mancano regole chiare su cosa possono o non possono fare. Testare un modello nuovo? Decidono loro, non la legge.",
+      "Ora devi seguire le policy che cambiano ogni mese. Se lavori con l’AI, questo è il rischio concreto da gestire."
+    ],
+    "video_script": [
+      "L’ordine AI di Trump è stato un bluff.",
+      "L’industria ha spinto e il testo è stato ridotto.",
+      "Niente regole su trasparenza o sicurezza.",
+      "Le aziende hanno flessibilità, i rischi no.",
+      "Monitora le policy, cambiano sempre."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Le nuove regole sull’AI? Non ci sono. L’ordine esecutivo di Trump è stato svuotato: niente trasparenza, niente sicurezza obbligatoria.",
+          "L’industria tech ha fatto pressione e il testo iniziale è stato accorciato. Meno vincoli, meno obblighi per le big company.",
+          "Il risultato? Le aziende guadagnano flessibilità, ma i rischi restano opachi. Nessuno sa davvero cosa succeda dentro i modelli.",
+          "Mancano regole chiare su cosa possono o non possono fare. Testare un modello nuovo? Decidono loro, non la legge.",
+          "Ora devi seguire le policy che cambiano ogni mese. Se lavori con l’AI, questo è il rischio concreto da gestire."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "L’ordine AI di Trump è stato un bluff.",
+          "L’industria ha spinto e il testo è stato ridotto.",
+          "Niente regole su trasparenza o sicurezza.",
+          "Le aziende hanno flessibilità, i rischi no.",
+          "Monitora le policy, cambiano sempre."
+        ]
+      },
+      "instagram": {
+        "caption": "Trump ha firmato un ordine esecutivo sull’AI molto più corto del previsto, dopo le pressioni delle grandi aziende tech. Il testo originale parlava di trasparenza e sicurezza obbligatoria per i modelli, ma è stato cancellato 📄✂️. Risultato: le big company ora hanno più libertà di sviluppare e rilasciare AI senza regole chiare, e nessuno sa davvero come funzionano dentro 🤖🔒. Se usi strumenti AI al lavoro, non c'è più certezza su cosa possano fare o nascondere. Chi controllerà davvero i rischi?"
+      }
+    },
+    "instagram_caption": "Trump ha firmato un ordine esecutivo sull’AI molto più corto del previsto, dopo le pressioni delle grandi aziende tech. Il testo originale parlava di trasparenza e sicurezza obbligatoria per i modelli, ma è stato cancellato 📄✂️. Risultato: le big company ora hanno più libertà di sviluppare e rilasciare AI senza regole chiare, e nessuno sa davvero come funzionano dentro 🤖🔒. Se usi strumenti AI al lavoro, non c'è più certezza su cosa possano fare o nascondere. Chi controllerà davvero i rischi?",
+    "carousel_slides": [
+      {
+        "hook": "Ordine AI svuotato: nessuna regola",
+        "description": "Il nuovo ordine esecutivo di Trump manca di trasparenza e sicurezza obbligatoria, cedendo alle pressioni dell'industria.",
+        "visual_hint": "Documento ufficiale cancellato",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "white house document"
+      },
+      {
+        "hook": "Industria tech vince, regole perse",
+        "description": "Dopo le pressioni delle big company, il testo è stato accorciato: meno vincoli, meno obblighi per loro.",
+        "visual_hint": "Frecce che si restringono",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "silicon valley office",
+        "image": "https://images.pexels.com/photos/36757553/pexels-photo-36757553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Modelli AI: rischi opachi",
+        "description": "Nessuno sa cosa succeda dentro i modelli. Senza regole chiare, le aziende decidono da sole i test.",
+        "visual_hint": "Scatola nera con punto di domanda",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Flessibilità sì, ma a che prezzo?",
+        "description": "Mancano regole su cosa i modelli possono fare. Testarli? Decidono loro, non la legge.",
+        "visual_hint": "Mani che bilanciano rischi",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers meeting",
+        "image": "https://images.pexels.com/photos/7964244/pexels-photo-7964244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Policy AI cambiano ogni mese",
+        "description": "Se lavori con l'AI, monitorare le policy che cambiano è il rischio concreto da gestire.",
+        "visual_hint": "Calendario con date che cambiano",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024",
+    "savedAt": "2026-06-03T08:48:25.139Z",
+    "sourceId": "02620d5cd5ae45e02bf674c00db88892"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "focused-energy-raises-whopping-240m-series-a-for-l",
     "prompt_version": "1.0.0",
     "status": "published",
