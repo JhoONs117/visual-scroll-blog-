@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "gitlab-cuts-14-of-staff-as-it-scales-its-platform-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "GitLab cuts 14% of staff as it scales its platform to serve AI workloads",
+    "link": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
+    "pubDate": "Wed, 03 Jun 2026 14:59:30 +0000",
+    "slides": [
+      "GitLab taglia il 14% del personale. Perché proprio ora?",
+      "L'azienda punta tutto sull'intelligenza artificiale.",
+      "Ma il taglio riguarda i team di vendita, non i tecnici.",
+      "Per te, significa meno supporto umano nei contratti.",
+      "Prova oggi la loro AI per vedere se basta."
+    ],
+    "thread_text": [
+      "GitLab taglia il 14% dei dipendenti. Non i tecnici: solo i team vendita. L’AI non sostituisce gli ingegneri, sostituisce chi vende.",
+      "L’azienda punta tutto sull’intelligenza artificiale. Il nuovo modello: l’AI gestisce contratti e supporto iniziale, senza intermediari umani.",
+      "Il taglio è stato deciso proprio ora perché il prodotto AI è pronto. Serve ridurre i costi fissi prima di scalare le vendite automatizzate.",
+      "Per te significa meno persone in chiamata, ma più risposte immediate via bot. La domanda vera: funziona meglio o peggio di prima?",
+      "L’AI di GitLab costa meno di un abbonamento Netflix. Provala oggi su un contratto vero e vedi se regge il confronto con un umano."
+    ],
+    "video_script": [
+      "Hanno tagliato il 14% del personale.",
+      "Ma solo chi vende, non i tecnici.",
+      "L’AI sostituisce i venditori, non gli sviluppatori.",
+      "Il prodotto AI è già pronto.",
+      "Ora devi provarlo sul serio."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "GitLab taglia il 14% dei dipendenti. Non i tecnici: solo i team vendita. L’AI non sostituisce gli ingegneri, sostituisce chi vende.",
+          "L’azienda punta tutto sull’intelligenza artificiale. Il nuovo modello: l’AI gestisce contratti e supporto iniziale, senza intermediari umani.",
+          "Il taglio è stato deciso proprio ora perché il prodotto AI è pronto. Serve ridurre i costi fissi prima di scalare le vendite automatizzate.",
+          "Per te significa meno persone in chiamata, ma più risposte immediate via bot. La domanda vera: funziona meglio o peggio di prima?",
+          "L’AI di GitLab costa meno di un abbonamento Netflix. Provala oggi su un contratto vero e vedi se regge il confronto con un umano."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hanno tagliato il 14% del personale.",
+          "Ma solo chi vende, non i tecnici.",
+          "L’AI sostituisce i venditori, non gli sviluppatori.",
+          "Il prodotto AI è già pronto.",
+          "Ora devi provarlo sul serio."
+        ]
+      },
+      "instagram": {
+        "caption": "GitLab ha appena tagliato il 14% dei dipendenti, ma non un solo ingegnere: a perdere il posto sono solo i team vendita. L’azienda ha deciso che il suo software AI è pronto e che il supporto umano iniziale può essere gestito da un bot 🤖. Il modello è chiaro: ridurre i costi fissi ora per scalare vendite automatizzate dopo. Per te significa meno persone in chiamata nei contratti, ma risposte sempre più rapide ⚡. Costa meno di un abbonamento Netflix: la domanda è se funziona meglio di prima o no 📉?"
+      }
+    },
+    "instagram_caption": "GitLab ha appena tagliato il 14% dei dipendenti, ma non un solo ingegnere: a perdere il posto sono solo i team vendita. L’azienda ha deciso che il suo software AI è pronto e che il supporto umano iniziale può essere gestito da un bot 🤖. Il modello è chiaro: ridurre i costi fissi ora per scalare vendite automatizzate dopo. Per te significa meno persone in chiamata nei contratti, ma risposte sempre più rapide ⚡. Costa meno di un abbonamento Netflix: la domanda è se funziona meglio di prima o no 📉?",
+    "carousel_slides": [
+      {
+        "hook": "Non i tecnici, solo chi vende",
+        "description": "GitLab taglia il 14% dei dipendenti nei team vendita. L'AI sostituisce chi vende, non gli ingegneri.",
+        "visual_hint": "Grafico a barre con crollo",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "AI pronta, costi fissi giù",
+        "description": "Il prodotto AI è pronto. Taglio deciso ora per ridurre costi fissi prima di scalare vendite automatizzate.",
+        "visual_hint": "Robot che inserisce dati",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Contratti e supporto senza umani",
+        "description": "L'AI gestisce contratti e supporto iniziale. Nessun intermediario umano nel nuovo modello GitLab.",
+        "visual_hint": "Chatbot su schermo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer screen",
+        "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Meno chiamate, più bot immediati",
+        "description": "Per te significa meno persone in chiamata ma risposte via bot. Funziona meglio o peggio di prima?",
+        "visual_hint": "Telefono con cuffie vuote",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costa meno di Netflix",
+        "description": "AI GitLab costa meno di un abbonamento Netflix. Provala oggi su un contratto vero e confrontala con un umano.",
+        "visual_hint": "Icona Netflix e dollari",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/PXL_20220520_112153305.jpg?resize=1200,903",
+    "savedAt": "2026-06-03T22:24:26.823Z",
+    "sourceId": "2e996c0bdcfe791e57589d0b951218c0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "publishers-will-be-able-to-opt-out-of-ai-search-th",
     "prompt_version": "1.0.0",
     "status": "published",
