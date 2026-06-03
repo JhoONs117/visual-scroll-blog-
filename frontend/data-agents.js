@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "coralogix-raises-200m-on-bet-that-someone-needs-to",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "pubDate": "Wed, 03 Jun 2026 13:02:51 +0000",
+      "slides": [
+        "Coralogix raccoglie 200 milioni: cosa sanno gli investitori?",
+        "I fondi servono per monitorare gli agenti AI in produzione.",
+        "Ma il vero problema è che gli agenti sono ancora imprevedibili.",
+        "Chi non monitora rischia downtime e bug invisibili.",
+        "Testa i tuoi agenti oggi, prima che falliscano in produzione."
+      ],
+      "thread_text": [
+        "Gli agenti AI in produzione sono come guidare con gli occhi chiusi. Gli investitori lo sanno e hanno appena piazzato $200 milioni su una startup che li monitora.",
+        "Coralogix ha raccolto 200 milioni perché gli agenti AI non sono ancora affidabili. Fanno cose strane, imprevedibili. Serve qualcuno che li tenga d'occhio.",
+        "Il punto è che questi agenti decidono da soli, e spesso sbagliano strada. Senza monitoraggio, scopri i bug solo quando rompono tutto in produzione.",
+        "Downtime e errori invisibili? Normale, se non testi. Ma il costo è altissimo: clienti persi, fiducia bruciata, debug dell'ultimo minuto.",
+        "Testa i tuoi agenti AI oggi. Costa meno di un pranzo fuori e ti evita di scoprire il problema quando è troppo tardi."
+      ],
+      "video_script": [
+        "Agenti AI imprevedibili in produzione.",
+        "Gli investitori se ne sono accorti.",
+        "200 milioni per monitorarli.",
+        "Chi non testa perde soldi.",
+        "Inizia oggi. Prima del danno."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Gli agenti AI in produzione sono come guidare con gli occhi chiusi. Gli investitori lo sanno e hanno appena piazzato $200 milioni su una startup che li monitora.",
+            "Coralogix ha raccolto 200 milioni perché gli agenti AI non sono ancora affidabili. Fanno cose strane, imprevedibili. Serve qualcuno che li tenga d'occhio.",
+            "Il punto è che questi agenti decidono da soli, e spesso sbagliano strada. Senza monitoraggio, scopri i bug solo quando rompono tutto in produzione.",
+            "Downtime e errori invisibili? Normale, se non testi. Ma il costo è altissimo: clienti persi, fiducia bruciata, debug dell'ultimo minuto.",
+            "Testa i tuoi agenti AI oggi. Costa meno di un pranzo fuori e ti evita di scoprire il problema quando è troppo tardi."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Agenti AI imprevedibili in produzione.",
+            "Gli investitori se ne sono accorti.",
+            "200 milioni per monitorarli.",
+            "Chi non testa perde soldi.",
+            "Inizia oggi. Prima del danno."
+          ]
+        },
+        "instagram": {
+          "caption": "Gli agenti AI producono già danni da milioni, e una startup ha appena raccolto $200 milioni per tenerli sotto controllo 🕵️‍♂️. Coralogix scommette che il vero mercato non è creare questi software, ma monitorarli mentre lavorano, perché sono ancora imprevedibili e fanno cose strane senza preavviso 😅. Se usi strumenti AI per il tuo lavoro, sai che un bug invisibile in produzione ti costa clienti e fiducia. I tuoi agenti sono già in produzione, o stai ancora testando?"
+        }
+      },
+      "instagram_caption": "Gli agenti AI producono già danni da milioni, e una startup ha appena raccolto $200 milioni per tenerli sotto controllo 🕵️‍♂️. Coralogix scommette che il vero mercato non è creare questi software, ma monitorarli mentre lavorano, perché sono ancora imprevedibili e fanno cose strane senza preavviso 😅. Se usi strumenti AI per il tuo lavoro, sai che un bug invisibile in produzione ti costa clienti e fiducia. I tuoi agenti sono già in produzione, o stai ancora testando?",
+      "carousel_slides": [
+        {
+          "hook": "Agenti AI: imprevedibili come il tempo",
+          "description": "Gli investitori scommettono 200 milioni su chi monitora gli agenti AI, ancora troppo imprevedibili e capaci di sbagliare strada da soli.",
+          "visual_hint": "Tempesta in avvicinamento su paesaggio",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "storm clouds over field"
+        },
+        {
+          "hook": "200 milioni per chi veglia",
+          "description": "Coralogix raccoglie fondi per monitorare agenti AI in produzione, perché fanno cose strane e inaffidabili. Servono occhi aperti.",
+          "visual_hint": "Occhio che osserva schermi",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "eye watching monitor screens",
+          "image": "https://images.pexels.com/photos/8100057/pexels-photo-8100057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Decidono da soli, sbagliano",
+          "description": "Gli agenti AI prendono decisioni autonome, spesso errate. Senza monitoraggio, i bug emergono solo quando rompono tutto in produzione.",
+          "visual_hint": "Lente d'ingrandimento su codice",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass on computer code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Downtime e bug invisibili",
+          "description": "Non testare costa caro: clienti persi, fiducia bruciata, debug dell'ultimo minuto. È normale, ma evitabile con il monitoraggio giusto.",
+          "visual_hint": "Grafico a barre in caduta",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "bar chart falling red",
+          "image": "https://images.pexels.com/photos/7947661/pexels-photo-7947661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Testa ora, non dopo il disastro",
+          "description": "Testare i tuoi agenti AI oggi costa meno di un pranzo fuori. Evita di scoprire il problema quando è troppo tardi in produzione.",
+          "visual_hint": "Spuntino su un panino accanto a laptop",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "sandwich next to laptop desk",
+          "image": "https://images.pexels.com/photos/5586268/pexels-photo-5586268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/coralogix-co-founders.jpg?resize=1200,800",
+      "savedAt": "2026-06-03T14:22:41.414Z",
+      "sourceId": "ad14f408dfde1d17d8aa4be5d8535ec7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-s-ai-agent-for-whatsapp-business-is-now-avail",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+      "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "pubDate": "Wed, 03 Jun 2026 13:40:00 +0000",
+      "slides": [
+        "Meta lancia l'agente AI su WhatsApp Business.",
+        "Gestisce clienti senza intervento umano.",
+        "Risponde in 24 lingue ma non capisce dialetti.",
+        "Riduci tempi di attesa per il tuo business.",
+        "Attivalo oggi: testa una conversazione reale."
+      ],
+      "thread_text": [
+        "Risponde in 24 lingue. Ma non capisce un dialetto. Ecco il problema dell'AI su WhatsApp Business.",
+        "Meta ha lanciato un agente AI per WhatsApp Business. Funziona 24/7, senza intervento umano.",
+        "Il risultato? I tuoi clienti aspettano meno. Tu non perdi chiamate nemmeno di notte.",
+        "Ma se un cliente parla in dialetto romanesco o siciliano, l'agente si blocca. Per ora.",
+        "Attivalo oggi. Costa meno di un abbonamento Netflix. Testa una conversazione reale."
+      ],
+      "video_script": [
+        "Meta lancia un agente AI su WhatsApp Business.",
+        "Gestisce clienti da solo, senza umani.",
+        "Parla 24 lingue. I dialetti? Zero.",
+        "Riduci le attese del tuo business.",
+        "Attivalo oggi. Prova una conversazione reale."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Risponde in 24 lingue. Ma non capisce un dialetto. Ecco il problema dell'AI su WhatsApp Business.",
+            "Meta ha lanciato un agente AI per WhatsApp Business. Funziona 24/7, senza intervento umano.",
+            "Il risultato? I tuoi clienti aspettano meno. Tu non perdi chiamate nemmeno di notte.",
+            "Ma se un cliente parla in dialetto romanesco o siciliano, l'agente si blocca. Per ora.",
+            "Attivalo oggi. Costa meno di un abbonamento Netflix. Testa una conversazione reale."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta lancia un agente AI su WhatsApp Business.",
+            "Gestisce clienti da solo, senza umani.",
+            "Parla 24 lingue. I dialetti? Zero.",
+            "Riduci le attese del tuo business.",
+            "Attivalo oggi. Prova una conversazione reale."
+          ]
+        },
+        "instagram": {
+          "caption": "Meta ha attivato l’agente AI per WhatsApp Business in tutto il mondo: risponde ai clienti 24 ore su 7, senza che un umano debba intervenire. Parla 24 lingue, ma non capisce i dialetti 🤖—se un cliente prova con il romanesco o il siciliano, l'agente si blocca. Per te significa clienti che aspettano meno e nessuna chiamata persa di notte ⏰. Costa meno di un abbonamento Netflix: lo attiveresti subito?📱"
+        }
+      },
+      "instagram_caption": "Meta ha attivato l’agente AI per WhatsApp Business in tutto il mondo: risponde ai clienti 24 ore su 7, senza che un umano debba intervenire. Parla 24 lingue, ma non capisce i dialetti 🤖—se un cliente prova con il romanesco o il siciliano, l'agente si blocca. Per te significa clienti che aspettano meno e nessuna chiamata persa di notte ⏰. Costa meno di un abbonamento Netflix: lo attiveresti subito?📱",
+      "carousel_slides": [
+        {
+          "hook": "Risponde in 24 lingue...",
+          "description": "Ma non capisce un dialetto. Ecco il problema dell'AI su WhatsApp Business.",
+          "visual_hint": "Mappa con bandiere mondiali",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "world map flags"
+        },
+        {
+          "hook": "Opera 24/7 senza dormire",
+          "description": "Meta ha lanciato un agente AI per WhatsApp Business. Funziona 24/7, senza intervento umano.",
+          "visual_hint": "Chatbot risponde a cellulare",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "smartphone chat screen",
+          "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Clienti aspettano meno",
+          "description": "Il risultato? I tuoi clienti aspettano meno. Tu non perdi chiamate nemmeno di notte.",
+          "visual_hint": "Orologio che corre veloce",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "clock speed motion",
+          "image": "https://images.pexels.com/photos/35171245/pexels-photo-35171245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Dialetto romanesco? Si blocca",
+          "description": "Se un cliente parla in dialetto romanesco o siciliano, l'agente si blocca. Per ora.",
+          "visual_hint": "Testo dialettale con punto interrogativo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "question mark speech bubble",
+          "image": "https://images.pexels.com/photos/5428831/pexels-photo-5428831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Attivalo oggi, costa meno",
+          "description": "Costa meno di un abbonamento Netflix. Testa una conversazione reale.",
+          "visual_hint": "Confronto prezzo Netflix vs AI",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "comparison price tags",
+          "image": "https://images.pexels.com/photos/5926253/pexels-photo-5926253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
+      "savedAt": "2026-06-03T14:22:26.930Z",
+      "sourceId": "218e40b902853ae9f3ef232a19fec307"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "trump-signs-narrower-executive-order-on-ai-oversig",
       "prompt_version": "1.0.0",
       "status": "published",
