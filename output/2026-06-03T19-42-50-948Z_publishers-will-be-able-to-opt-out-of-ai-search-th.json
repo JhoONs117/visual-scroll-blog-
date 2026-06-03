@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "publishers-will-be-able-to-opt-out-of-ai-search-th",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+  "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+  "pubDate": "Wed, 03 Jun 2026 14:58:33 +0000",
+  "slides": [
+    "Nuove regole UE: chi pubblica può bloccare l'AI Search?",
+    "L'opt-out diventa un diritto esigibile, non una cortesia",
+    "Ma la richiesta deve essere ripetuta per ogni motore AI",
+    "Chi non agisce entro 30 giorni perde il controllo",
+    "Oggi: decidi se il tuo sito sarà escluso dall'AI"
+  ],
+  "thread_text": [
+    "La nuova regola UE dice che se pubblichi contenuti, puoi bloccare l'AI Search. Ma devi ripetere la richiesta per ogni motore. Uno per uno.",
+    "Non basta un opt-out generico. Devi mandare una richiesta esplicita a Google, a Perplexity, a ChatGPT. Ogni sistema ha il suo modulo.",
+    "Se non lo fai entro 30 giorni dall'entrata in vigore? Hai perso il controllo. Il tuo sito resta dentro l'addestramento per sempre.",
+    "E attenzione: non è più una cortesia dei motori. È un tuo diritto esigibile per legge — ma solo se agisci in tempo.",
+    "Oggi hai una finestra di 30 giorni per decidere. Se non compili i moduli, l'AI continuerà a leggere il tuo sito senza il tuo consenso."
+  ],
+  "video_script": [
+    "Nuova regola UE: puoi bloccare l'AI Search dal tuo sito.",
+    "Ma devi fare richiesta per ogni motore. Uno per uno.",
+    "Hai 30 giorni per decidere, altrimenti perdi il controllo.",
+    "Non è più una cortesia, è un diritto esigibile.",
+    "Oggi tocca a te: escludi o resti dentro."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "La nuova regola UE dice che se pubblichi contenuti, puoi bloccare l'AI Search. Ma devi ripetere la richiesta per ogni motore. Uno per uno.",
+        "Non basta un opt-out generico. Devi mandare una richiesta esplicita a Google, a Perplexity, a ChatGPT. Ogni sistema ha il suo modulo.",
+        "Se non lo fai entro 30 giorni dall'entrata in vigore? Hai perso il controllo. Il tuo sito resta dentro l'addestramento per sempre.",
+        "E attenzione: non è più una cortesia dei motori. È un tuo diritto esigibile per legge — ma solo se agisci in tempo.",
+        "Oggi hai una finestra di 30 giorni per decidere. Se non compili i moduli, l'AI continuerà a leggere il tuo sito senza il tuo consenso."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nuova regola UE: puoi bloccare l'AI Search dal tuo sito.",
+        "Ma devi fare richiesta per ogni motore. Uno per uno.",
+        "Hai 30 giorni per decidere, altrimenti perdi il controllo.",
+        "Non è più una cortesia, è un diritto esigibile.",
+        "Oggi tocca a te: escludi o resti dentro."
+      ]
+    },
+    "instagram": {
+      "caption": "Se pubblichi un sito, da oggi hai 30 giorni per decidere se vuoi escluderlo dall’addestramento delle AI ⏳ La nuova regola UE trasforma l’opt-out da cortesia a diritto esigibile, ma c’è un tranello: devi fare richiesta separata a Google, Perplexity e ChatGPT, uno per uno 📄 Se non compili i moduli entro la finestra, il tuo contenuto resta dentro i modelli per sempre, senza possibilità di ripensamento. Per chi lavora con newsletter, blog o giornali, questa è l’unica chance per mantenere il controllo su ciò che produce. La tua scadenza è già partita: hai già controllato? 🔍"
+    }
+  },
+  "instagram_caption": "Se pubblichi un sito, da oggi hai 30 giorni per decidere se vuoi escluderlo dall’addestramento delle AI ⏳ La nuova regola UE trasforma l’opt-out da cortesia a diritto esigibile, ma c’è un tranello: devi fare richiesta separata a Google, Perplexity e ChatGPT, uno per uno 📄 Se non compili i moduli entro la finestra, il tuo contenuto resta dentro i modelli per sempre, senza possibilità di ripensamento. Per chi lavora con newsletter, blog o giornali, questa è l’unica chance per mantenere il controllo su ciò che produce. La tua scadenza è già partita: hai già controllato? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "30 giorni per decidere",
+      "description": "Hai 30 giorni per bloccare l'AI. Se non agisci, il tuo sito resta dentro per sempre.",
+      "visual_hint": "countdown timer UI",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "countdown timer screen"
+    },
+    {
+      "hook": "Un opt-out per ogni motore",
+      "description": "Non basta un opt-out generico. Devi mandare richiesta esplicita a Google, Perplexity, ChatGPT. Uno per uno.",
+      "visual_hint": "moduli di richiesta diversi",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "online forms laptop",
+      "image": "https://images.pexels.com/photos/7709273/pexels-photo-7709273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il tuo diritto, non una cortesia",
+      "description": "Non è più una cortesia dei motori. È un diritto esigibile per legge, ma solo se agisci in tempo.",
+      "visual_hint": "documento legale con timbro",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "legal document stamp",
+      "image": "https://images.pexels.com/photos/7654118/pexels-photo-7654118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "30 giorni e perdi il controllo",
+      "description": "Se non compili i moduli entro 30 giorni, l'AI continuerà a leggere il tuo sito senza consenso.",
+      "visual_hint": "dito su pulsante scadenza",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "finger pressing button",
+      "image": "https://images.pexels.com/photos/9461215/pexels-photo-9461215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scegli oggi il tuo destino AI",
+      "description": "Oggi decidi se escludere il tuo sito dall'AI. I 30 giorni sono già iniziati. Agisci ora.",
+      "visual_hint": "interruttore acceso/spento",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "toggle switch on off",
+      "image": "https://images.pexels.com/photos/7663143/pexels-photo-7663143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+  "savedAt": "2026-06-03T19:43:44.247Z",
+  "sourceId": "f82a30b068b3240a6c738af5e108eb23"
+}

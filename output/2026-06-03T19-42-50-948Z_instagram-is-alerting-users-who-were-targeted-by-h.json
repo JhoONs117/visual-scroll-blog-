@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "instagram-is-alerting-users-who-were-targeted-by-h",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
+  "link": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
+  "pubDate": "Wed, 03 Jun 2026 16:12:06 +0000",
+  "slides": [
+    "Hacker usano AI chatbot per colpire su Instagram?",
+    "Meta sta avvisando gli utenti colpiti ora.",
+    "Gli attacchi non rubano password, ma simpatia.",
+    "Se ricevi un avviso, controlla subito l’attività.",
+    "Cambia password oggi, non aspettare."
+  ],
+  "thread_text": [
+    "Hacker sfruttano AI chatbot per colpire account Instagram. Non rubano password, ma qualcosa di più subdolo: la tua simpatia.",
+    "I bot conversano come amici, guadagnano fiducia, poi chiedono favori. Nessun link sospetto, solo dialogo.",
+    "Meta ha già iniziato a inviare avvisi. Se ricevi un alert, non ignorarlo: controlla subito chi ti ha scritto e cosa hai condiviso.",
+    "Gli attacchi non sembrano attacchi. Sembrano persone normali. È per questo che funzionano.",
+    "Se non hai ancora cambiato password oggi, fermati e fallo ora. Bastano due minuti per evitare settimane di problemi."
+  ],
+  "video_script": [
+    "Gli hacker usano chatbot AI su Instagram.",
+    "Non rubano la password, ma la fiducia.",
+    "I bot sembrano amici che chattano.",
+    "Meta avvisa chi è stato colpito.",
+    "Se ricevi un alert, cambia subito password."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Hacker sfruttano AI chatbot per colpire account Instagram. Non rubano password, ma qualcosa di più subdolo: la tua simpatia.",
+        "I bot conversano come amici, guadagnano fiducia, poi chiedono favori. Nessun link sospetto, solo dialogo.",
+        "Meta ha già iniziato a inviare avvisi. Se ricevi un alert, non ignorarlo: controlla subito chi ti ha scritto e cosa hai condiviso.",
+        "Gli attacchi non sembrano attacchi. Sembrano persone normali. È per questo che funzionano.",
+        "Se non hai ancora cambiato password oggi, fermati e fallo ora. Bastano due minuti per evitare settimane di problemi."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Gli hacker usano chatbot AI su Instagram.",
+        "Non rubano la password, ma la fiducia.",
+        "I bot sembrano amici che chattano.",
+        "Meta avvisa chi è stato colpito.",
+        "Se ricevi un alert, cambia subito password."
+      ]
+    },
+    "instagram": {
+      "caption": "Gli hacker stanno usando AI chatbot per colpire account Instagram: non rubano password, ma fiducia. 🫵 I bot parlano come amici, guadagnano simpatia e poi chiedono favori — nessun link sospetto, solo conversazioni normali. Meta ha già iniziato a mandare avvisi. Se ricevi una notifica, controlla subito l’attività del tuo account. 🔍 Questo riguarda chiunque usi Instagram per lavoro o contatti personali. Hai verificato di recente chi ti scrive o cambiato password? 🔐"
+    }
+  },
+  "instagram_caption": "Gli hacker stanno usando AI chatbot per colpire account Instagram: non rubano password, ma fiducia. 🫵 I bot parlano come amici, guadagnano simpatia e poi chiedono favori — nessun link sospetto, solo conversazioni normali. Meta ha già iniziato a mandare avvisi. Se ricevi una notifica, controlla subito l’attività del tuo account. 🔍 Questo riguarda chiunque usi Instagram per lavoro o contatti personali. Hai verificato di recente chi ti scrive o cambiato password? 🔐",
+  "carousel_slides": [
+    {
+      "hook": "Ti fidi di chi ti scrive?",
+      "description": "Hacker usano AI chatbot per fingersi amici e guadagnare la tua simpatia. Non rubano password, ma fiducia.",
+      "visual_hint": "chat con intelligenza artificiale",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "AI chatbot conversation"
+    },
+    {
+      "hook": "Meta avvisa gli utenti colpiti",
+      "description": "Meta ha iniziato a inviare avvisi. Se ricevi un alert, non ignorarlo e controlla subito i messaggi recenti.",
+      "visual_hint": "notifica su schermo",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "Instagram notification alert",
+      "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sembra un amico, è un bot",
+      "description": "I bot conversano come amici, guadagnano fiducia, poi chiedono favori. Nessun link sospetto, solo dialogo.",
+      "visual_hint": "interfaccia di chat",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "friendly chat interface",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Attacchi che non sembrano tali",
+      "description": "Gli attacchi non sembrano attacchi. Sembrano persone normali. È per questo che funzionano.",
+      "visual_hint": "persona comune al telefono",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person using smartphone",
+      "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cambia password ora",
+      "description": "Se non hai ancora cambiato password oggi, fermati e fallo ora. Bastano due minuti per evitare settimane di problemi.",
+      "visual_hint": "lucchetto e password",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "change password screen",
+      "image": "https://images.pexels.com/photos/5475788/pexels-photo-5475788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-smartphone-laptop.jpg?resize=1200,800",
+  "savedAt": "2026-06-03T19:43:17.177Z",
+  "sourceId": "9911d5b7515106930b3d0e95aafe58e0"
+}

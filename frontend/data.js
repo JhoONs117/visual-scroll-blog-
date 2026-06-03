@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "publishers-will-be-able-to-opt-out-of-ai-search-th",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+    "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+    "pubDate": "Wed, 03 Jun 2026 14:58:33 +0000",
+    "slides": [
+      "Nuove regole UE: chi pubblica può bloccare l'AI Search?",
+      "L'opt-out diventa un diritto esigibile, non una cortesia",
+      "Ma la richiesta deve essere ripetuta per ogni motore AI",
+      "Chi non agisce entro 30 giorni perde il controllo",
+      "Oggi: decidi se il tuo sito sarà escluso dall'AI"
+    ],
+    "thread_text": [
+      "La nuova regola UE dice che se pubblichi contenuti, puoi bloccare l'AI Search. Ma devi ripetere la richiesta per ogni motore. Uno per uno.",
+      "Non basta un opt-out generico. Devi mandare una richiesta esplicita a Google, a Perplexity, a ChatGPT. Ogni sistema ha il suo modulo.",
+      "Se non lo fai entro 30 giorni dall'entrata in vigore? Hai perso il controllo. Il tuo sito resta dentro l'addestramento per sempre.",
+      "E attenzione: non è più una cortesia dei motori. È un tuo diritto esigibile per legge — ma solo se agisci in tempo.",
+      "Oggi hai una finestra di 30 giorni per decidere. Se non compili i moduli, l'AI continuerà a leggere il tuo sito senza il tuo consenso."
+    ],
+    "video_script": [
+      "Nuova regola UE: puoi bloccare l'AI Search dal tuo sito.",
+      "Ma devi fare richiesta per ogni motore. Uno per uno.",
+      "Hai 30 giorni per decidere, altrimenti perdi il controllo.",
+      "Non è più una cortesia, è un diritto esigibile.",
+      "Oggi tocca a te: escludi o resti dentro."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "La nuova regola UE dice che se pubblichi contenuti, puoi bloccare l'AI Search. Ma devi ripetere la richiesta per ogni motore. Uno per uno.",
+          "Non basta un opt-out generico. Devi mandare una richiesta esplicita a Google, a Perplexity, a ChatGPT. Ogni sistema ha il suo modulo.",
+          "Se non lo fai entro 30 giorni dall'entrata in vigore? Hai perso il controllo. Il tuo sito resta dentro l'addestramento per sempre.",
+          "E attenzione: non è più una cortesia dei motori. È un tuo diritto esigibile per legge — ma solo se agisci in tempo.",
+          "Oggi hai una finestra di 30 giorni per decidere. Se non compili i moduli, l'AI continuerà a leggere il tuo sito senza il tuo consenso."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nuova regola UE: puoi bloccare l'AI Search dal tuo sito.",
+          "Ma devi fare richiesta per ogni motore. Uno per uno.",
+          "Hai 30 giorni per decidere, altrimenti perdi il controllo.",
+          "Non è più una cortesia, è un diritto esigibile.",
+          "Oggi tocca a te: escludi o resti dentro."
+        ]
+      },
+      "instagram": {
+        "caption": "Se pubblichi un sito, da oggi hai 30 giorni per decidere se vuoi escluderlo dall’addestramento delle AI ⏳ La nuova regola UE trasforma l’opt-out da cortesia a diritto esigibile, ma c’è un tranello: devi fare richiesta separata a Google, Perplexity e ChatGPT, uno per uno 📄 Se non compili i moduli entro la finestra, il tuo contenuto resta dentro i modelli per sempre, senza possibilità di ripensamento. Per chi lavora con newsletter, blog o giornali, questa è l’unica chance per mantenere il controllo su ciò che produce. La tua scadenza è già partita: hai già controllato? 🔍"
+      }
+    },
+    "instagram_caption": "Se pubblichi un sito, da oggi hai 30 giorni per decidere se vuoi escluderlo dall’addestramento delle AI ⏳ La nuova regola UE trasforma l’opt-out da cortesia a diritto esigibile, ma c’è un tranello: devi fare richiesta separata a Google, Perplexity e ChatGPT, uno per uno 📄 Se non compili i moduli entro la finestra, il tuo contenuto resta dentro i modelli per sempre, senza possibilità di ripensamento. Per chi lavora con newsletter, blog o giornali, questa è l’unica chance per mantenere il controllo su ciò che produce. La tua scadenza è già partita: hai già controllato? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "30 giorni per decidere",
+        "description": "Hai 30 giorni per bloccare l'AI. Se non agisci, il tuo sito resta dentro per sempre.",
+        "visual_hint": "countdown timer UI",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "countdown timer screen"
+      },
+      {
+        "hook": "Un opt-out per ogni motore",
+        "description": "Non basta un opt-out generico. Devi mandare richiesta esplicita a Google, Perplexity, ChatGPT. Uno per uno.",
+        "visual_hint": "moduli di richiesta diversi",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "online forms laptop",
+        "image": "https://images.pexels.com/photos/7709273/pexels-photo-7709273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tuo diritto, non una cortesia",
+        "description": "Non è più una cortesia dei motori. È un diritto esigibile per legge, ma solo se agisci in tempo.",
+        "visual_hint": "documento legale con timbro",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "legal document stamp",
+        "image": "https://images.pexels.com/photos/7654118/pexels-photo-7654118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "30 giorni e perdi il controllo",
+        "description": "Se non compili i moduli entro 30 giorni, l'AI continuerà a leggere il tuo sito senza consenso.",
+        "visual_hint": "dito su pulsante scadenza",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "finger pressing button",
+        "image": "https://images.pexels.com/photos/9461215/pexels-photo-9461215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Scegli oggi il tuo destino AI",
+        "description": "Oggi decidi se escludere il tuo sito dall'AI. I 30 giorni sono già iniziati. Agisci ora.",
+        "visual_hint": "interruttore acceso/spento",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "toggle switch on off",
+        "image": "https://images.pexels.com/photos/7663143/pexels-photo-7663143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+    "savedAt": "2026-06-03T19:43:44.247Z",
+    "sourceId": "f82a30b068b3240a6c738af5e108eb23"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "these-two-founders-left-goldman-and-meta-to-build-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+    "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+    "pubDate": "Wed, 03 Jun 2026 15:00:00 +0000",
+    "slides": [
+      "Why did they leave Goldman and Meta for forgotten markets?",
+      "Voice AI for sectors others ignore—yet spending surges.",
+      "Their first client cut costs by 40% in just weeks.",
+      "If your industry still relies on phone calls, watch out.",
+      "Find one overlooked process and test their demo today."
+    ],
+    "thread_text": [
+      "Hanno lasciato Goldman e Meta per costruire AI nei mercati che nessuno guarda. Tre settimane dopo, il primo cliente ha tagliato i costi del 40%.",
+      "Non inseguono unicorni. Guardano i settori in cui le chiamate telefoniche sono ancora il default — e la spesa per voice AI sta esplodendo lì.",
+      "Il loro sistema automatizza un solo processo ripetitivo. Quello basta a risparmiare quasi metà del budget operativo in poche settimane.",
+      "Se il tuo team perde ore al telefono per prenotazioni, assistenza o vendite, sei il prossimo bersaglio. Non serve una startup da miliardi.",
+      "Trova un processo noioso che fai ancora a voce e chiedi una demo oggi. Costa meno di un abbonamento Spotify."
+    ],
+    "video_script": [
+      "Hanno lasciato Goldman e Meta per questo.",
+      "Costruiscono voice AI nei mercati dimenticati.",
+      "Primo cliente: costi giù del 40% in tre settimane.",
+      "Se usi ancora il telefono, attento.",
+      "Trova un processo e testa la demo."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Hanno lasciato Goldman e Meta per costruire AI nei mercati che nessuno guarda. Tre settimane dopo, il primo cliente ha tagliato i costi del 40%.",
+          "Non inseguono unicorni. Guardano i settori in cui le chiamate telefoniche sono ancora il default — e la spesa per voice AI sta esplodendo lì.",
+          "Il loro sistema automatizza un solo processo ripetitivo. Quello basta a risparmiare quasi metà del budget operativo in poche settimane.",
+          "Se il tuo team perde ore al telefono per prenotazioni, assistenza o vendite, sei il prossimo bersaglio. Non serve una startup da miliardi.",
+          "Trova un processo noioso che fai ancora a voce e chiedi una demo oggi. Costa meno di un abbonamento Spotify."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hanno lasciato Goldman e Meta per questo.",
+          "Costruiscono voice AI nei mercati dimenticati.",
+          "Primo cliente: costi giù del 40% in tre settimane.",
+          "Se usi ancora il telefono, attento.",
+          "Trova un processo e testa la demo."
+        ]
+      },
+      "instagram": {
+        "caption": "Due ex-Goldman e Meta hanno convinto un cliente a tagliare i 40% dei costi in poche settimane con una voce AI. ☎️🤖  \nNon inseguono il prossimo unicorno: guardano i mercati dimenticati dove tutti usano ancora il telefono — e la spesa per questa tecnologia sta crescendo lì.  \nHanno automatizzato un solo processo ripetitivo, e il risparmio è stato immediato.  \nSe il tuo team perde ore in chiamate per prenotazioni o assistenza, potresti essere il prossimo.  \nQuale processo noioso della tua giornata faresti testare gratis oggi?"
+      }
+    },
+    "instagram_caption": "Due ex-Goldman e Meta hanno convinto un cliente a tagliare i 40% dei costi in poche settimane con una voce AI. ☎️🤖  \nNon inseguono il prossimo unicorno: guardano i mercati dimenticati dove tutti usano ancora il telefono — e la spesa per questa tecnologia sta crescendo lì.  \nHanno automatizzato un solo processo ripetitivo, e il risparmio è stato immediato.  \nSe il tuo team perde ore in chiamate per prenotazioni o assistenza, potresti essere il prossimo.  \nQuale processo noioso della tua giornata faresti testare gratis oggi?",
+    "carousel_slides": [
+      {
+        "hook": "40% cost cut in weeks.",
+        "description": "First client slashed costs 40% in three weeks. They left Goldman and Meta for overlooked markets.",
+        "visual_hint": "Chart dropping steeply",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart down"
+      },
+      {
+        "hook": "Phone calls are the default.",
+        "description": "They target industries where phone calls still rule. Voice AI spending is surging in forgotten sectors.",
+        "visual_hint": "Old phone headquarters",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "old telephone switchboard",
+        "image": "https://images.pexels.com/photos/821755/pexels-photo-821755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One repetitive process.",
+        "description": "Their system automates just one repetitive process. That alone saves almost half the budget in weeks.",
+        "visual_hint": "Robot fixing call center",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "robot arm server",
+        "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You are next if you call.",
+        "description": "If your team wastes hours on phone booking or support, you are the target. No billion-dollar startup needed.",
+        "visual_hint": "Hand holding headset",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office worker headset",
+        "image": "https://images.pexels.com/photos/7681570/pexels-photo-7681570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test demo today.",
+        "description": "Find one boring voice process and request a demo. Costs less than a Spotify subscription.",
+        "visual_hint": "Demo button phone screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone demo screen",
+        "image": "https://images.pexels.com/photos/25809263/pexels-photo-25809263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Athx-Pictures_-Right-Mariama-Left-Ayooluwa.jpg?resize=1200,675",
+    "savedAt": "2026-06-03T19:43:30.557Z",
+    "sourceId": "be5890923c6720c2283950b6ee2fcf9f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "instagram-is-alerting-users-who-were-targeted-by-h",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
+    "link": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
+    "pubDate": "Wed, 03 Jun 2026 16:12:06 +0000",
+    "slides": [
+      "Hacker usano AI chatbot per colpire su Instagram?",
+      "Meta sta avvisando gli utenti colpiti ora.",
+      "Gli attacchi non rubano password, ma simpatia.",
+      "Se ricevi un avviso, controlla subito l’attività.",
+      "Cambia password oggi, non aspettare."
+    ],
+    "thread_text": [
+      "Hacker sfruttano AI chatbot per colpire account Instagram. Non rubano password, ma qualcosa di più subdolo: la tua simpatia.",
+      "I bot conversano come amici, guadagnano fiducia, poi chiedono favori. Nessun link sospetto, solo dialogo.",
+      "Meta ha già iniziato a inviare avvisi. Se ricevi un alert, non ignorarlo: controlla subito chi ti ha scritto e cosa hai condiviso.",
+      "Gli attacchi non sembrano attacchi. Sembrano persone normali. È per questo che funzionano.",
+      "Se non hai ancora cambiato password oggi, fermati e fallo ora. Bastano due minuti per evitare settimane di problemi."
+    ],
+    "video_script": [
+      "Gli hacker usano chatbot AI su Instagram.",
+      "Non rubano la password, ma la fiducia.",
+      "I bot sembrano amici che chattano.",
+      "Meta avvisa chi è stato colpito.",
+      "Se ricevi un alert, cambia subito password."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Hacker sfruttano AI chatbot per colpire account Instagram. Non rubano password, ma qualcosa di più subdolo: la tua simpatia.",
+          "I bot conversano come amici, guadagnano fiducia, poi chiedono favori. Nessun link sospetto, solo dialogo.",
+          "Meta ha già iniziato a inviare avvisi. Se ricevi un alert, non ignorarlo: controlla subito chi ti ha scritto e cosa hai condiviso.",
+          "Gli attacchi non sembrano attacchi. Sembrano persone normali. È per questo che funzionano.",
+          "Se non hai ancora cambiato password oggi, fermati e fallo ora. Bastano due minuti per evitare settimane di problemi."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Gli hacker usano chatbot AI su Instagram.",
+          "Non rubano la password, ma la fiducia.",
+          "I bot sembrano amici che chattano.",
+          "Meta avvisa chi è stato colpito.",
+          "Se ricevi un alert, cambia subito password."
+        ]
+      },
+      "instagram": {
+        "caption": "Gli hacker stanno usando AI chatbot per colpire account Instagram: non rubano password, ma fiducia. 🫵 I bot parlano come amici, guadagnano simpatia e poi chiedono favori — nessun link sospetto, solo conversazioni normali. Meta ha già iniziato a mandare avvisi. Se ricevi una notifica, controlla subito l’attività del tuo account. 🔍 Questo riguarda chiunque usi Instagram per lavoro o contatti personali. Hai verificato di recente chi ti scrive o cambiato password? 🔐"
+      }
+    },
+    "instagram_caption": "Gli hacker stanno usando AI chatbot per colpire account Instagram: non rubano password, ma fiducia. 🫵 I bot parlano come amici, guadagnano simpatia e poi chiedono favori — nessun link sospetto, solo conversazioni normali. Meta ha già iniziato a mandare avvisi. Se ricevi una notifica, controlla subito l’attività del tuo account. 🔍 Questo riguarda chiunque usi Instagram per lavoro o contatti personali. Hai verificato di recente chi ti scrive o cambiato password? 🔐",
+    "carousel_slides": [
+      {
+        "hook": "Ti fidi di chi ti scrive?",
+        "description": "Hacker usano AI chatbot per fingersi amici e guadagnare la tua simpatia. Non rubano password, ma fiducia.",
+        "visual_hint": "chat con intelligenza artificiale",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "AI chatbot conversation"
+      },
+      {
+        "hook": "Meta avvisa gli utenti colpiti",
+        "description": "Meta ha iniziato a inviare avvisi. Se ricevi un alert, non ignorarlo e controlla subito i messaggi recenti.",
+        "visual_hint": "notifica su schermo",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "Instagram notification alert",
+        "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sembra un amico, è un bot",
+        "description": "I bot conversano come amici, guadagnano fiducia, poi chiedono favori. Nessun link sospetto, solo dialogo.",
+        "visual_hint": "interfaccia di chat",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "friendly chat interface",
+        "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Attacchi che non sembrano tali",
+        "description": "Gli attacchi non sembrano attacchi. Sembrano persone normali. È per questo che funzionano.",
+        "visual_hint": "persona comune al telefono",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person using smartphone",
+        "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cambia password ora",
+        "description": "Se non hai ancora cambiato password oggi, fermati e fallo ora. Bastano due minuti per evitare settimane di problemi.",
+        "visual_hint": "lucchetto e password",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "change password screen",
+        "image": "https://images.pexels.com/photos/5475788/pexels-photo-5475788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-smartphone-laptop.jpg?resize=1200,800",
+    "savedAt": "2026-06-03T19:43:17.177Z",
+    "sourceId": "9911d5b7515106930b3d0e95aafe58e0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "alphabet-s-record-breaking-85b-raise-for-google-s-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+    "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+    "pubDate": "Wed, 03 Jun 2026 19:38:32 +0000",
+    "slides": [
+      "Alphabet ha raccolto 85 miliardi per l'IA.",
+      "Il record supera ogni emissione precedente.",
+      "Non per debito, ma per investimenti aggressivi.",
+      "Se seguono, potresti vedere fusioni violente.",
+      "Quale competitor può permettersi di stare fermo?"
+    ],
+    "thread_text": [
+      "Non servono per ripagare debiti. Alphabet ha raccolto 85 miliardi per finanziare guerre di acquisizione. Quando una cifra così non va in cassa di sicurezza, il piano è espansione aggressiva.",
+      "85 miliardi di dollari in una sola emissione obbligazionaria. Nessuna azienda aveva mai polverizzato così il proprio record. Il mercato ha detto sì perché sa cosa sta per succedere.",
+      "Con questa liquidità Alphabet può comprare startup strategiche, talento, e tecnologia prima che diventino concorrenti. Per le piccole aziende di AI significa una minaccia diretta di acquisizione forzata.",
+      "I competitor come Microsoft e Meta hanno due scelte: alzare la posta o rischiare di restare indietro. Fusioni violente e acquisizioni rapide sono lo scenario più probabile nei prossimi mesi.",
+      "Quale CEO può permettersi di non avere un piano B per i prossimi 6 mesi? Se il tuo budget R&D è inferiore a 10 miliardi, inizia a cercare un acquirente."
+    ],
+    "video_script": [
+      "Alphabet ha raccolto 85 miliardi per l'IA.",
+      "È la più grande emissione della storia.",
+      "Non per debiti, per acquisti aggressivi.",
+      "Se seguono, scoppiano fusioni violente.",
+      "Chi può stare fermo ora?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Non servono per ripagare debiti. Alphabet ha raccolto 85 miliardi per finanziare guerre di acquisizione. Quando una cifra così non va in cassa di sicurezza, il piano è espansione aggressiva.",
+          "85 miliardi di dollari in una sola emissione obbligazionaria. Nessuna azienda aveva mai polverizzato così il proprio record. Il mercato ha detto sì perché sa cosa sta per succedere.",
+          "Con questa liquidità Alphabet può comprare startup strategiche, talento, e tecnologia prima che diventino concorrenti. Per le piccole aziende di AI significa una minaccia diretta di acquisizione forzata.",
+          "I competitor come Microsoft e Meta hanno due scelte: alzare la posta o rischiare di restare indietro. Fusioni violente e acquisizioni rapide sono lo scenario più probabile nei prossimi mesi.",
+          "Quale CEO può permettersi di non avere un piano B per i prossimi 6 mesi? Se il tuo budget R&D è inferiore a 10 miliardi, inizia a cercare un acquirente."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Alphabet ha raccolto 85 miliardi per l'IA.",
+          "È la più grande emissione della storia.",
+          "Non per debiti, per acquisti aggressivi.",
+          "Se seguono, scoppiano fusioni violente.",
+          "Chi può stare fermo ora?"
+        ]
+      },
+      "instagram": {
+        "caption": "$85 miliardi raccolti in un colpo solo, senza debiti da ripagare. Alphabet (Google) ha emesso la più grande obbligazione della storia per finanziare guerre di acquisizione in IA. 💸 Il mercato ha detto sì perché sa: possono comprarsi startup, talenti e tecnologie prima che diventino concorrenti. 🧠 Per te significa che i prossimi tool potrebbero sparire dentro Google Glass 2.0 o essere polverizzati. 💥 Quale startup da 5 milioni di R&D si sente al sicuro nei prossimi 6 mesi? 🤷‍♂️"
+      }
+    },
+    "instagram_caption": "$85 miliardi raccolti in un colpo solo, senza debiti da ripagare. Alphabet (Google) ha emesso la più grande obbligazione della storia per finanziare guerre di acquisizione in IA. 💸 Il mercato ha detto sì perché sa: possono comprarsi startup, talenti e tecnologie prima che diventino concorrenti. 🧠 Per te significa che i prossimi tool potrebbero sparire dentro Google Glass 2.0 o essere polverizzati. 💥 Quale startup da 5 milioni di R&D si sente al sicuro nei prossimi 6 mesi? 🤷‍♂️",
+    "carousel_slides": [
+      {
+        "hook": "85 miliardi non per debito",
+        "description": "Alphabet raccoglie 85 miliardi per acquisizioni aggressive, non per sicurezza. È un piano di espansione senza precedenti.",
+        "visual_hint": "montagna di monete d'oro",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "pile of gold coins"
+      },
+      {
+        "hook": "Record polverizzato in un colpo",
+        "description": "Nessuna azienda aveva mai emesso obbligazioni per questa cifra. Il mercato approva perché sa cosa sta per succedere.",
+        "visual_hint": "grafico borsa in ascesa",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Startup AI nel mirino",
+        "description": "Con 85 miliardi, Alphabet può comprare startup, talento e tecnologia prima che diventino concorrenti. Minaccia diretta di acquisizione forzata.",
+        "visual_hint": "occhio su piccola azienda",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "startup office meeting",
+        "image": "https://images.pexels.com/photos/7413846/pexels-photo-7413846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Fusioni violente in arrivo",
+        "description": "Microsoft e Meta devono alzare la posta o rischiare di restare indietro. Fusioni e acquisizioni rapide sono lo scenario più probabile.",
+        "visual_hint": "mani che stringono accordo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "handshake deal closeup",
+        "image": "https://images.pexels.com/photos/8276369/pexels-photo-8276369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tuo piano B esiste?",
+        "description": "Se il budget R&D è sotto 10 miliardi, inizia a cercare un acquirente. Nessun CEO può permettersi di stare fermo.",
+        "visual_hint": "uomo pensieroso alla scrivania",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office worker thinking",
+        "image": "https://images.pexels.com/photos/12903124/pexels-photo-12903124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+    "savedAt": "2026-06-03T19:43:04.901Z",
+    "sourceId": "ea4455262cfd96d82438fd160a7bf8f0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "coralogix-raises-200m-on-bet-that-someone-needs-to",
     "prompt_version": "1.0.0",
     "status": "published",

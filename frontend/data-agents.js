@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "publishers-will-be-able-to-opt-out-of-ai-search-th",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "pubDate": "Wed, 03 Jun 2026 14:58:33 +0000",
+      "slides": [
+        "Nuove regole UE: chi pubblica può bloccare l'AI Search?",
+        "L'opt-out diventa un diritto esigibile, non una cortesia",
+        "Ma la richiesta deve essere ripetuta per ogni motore AI",
+        "Chi non agisce entro 30 giorni perde il controllo",
+        "Oggi: decidi se il tuo sito sarà escluso dall'AI"
+      ],
+      "thread_text": [
+        "La nuova regola UE dice che se pubblichi contenuti, puoi bloccare l'AI Search. Ma devi ripetere la richiesta per ogni motore. Uno per uno.",
+        "Non basta un opt-out generico. Devi mandare una richiesta esplicita a Google, a Perplexity, a ChatGPT. Ogni sistema ha il suo modulo.",
+        "Se non lo fai entro 30 giorni dall'entrata in vigore? Hai perso il controllo. Il tuo sito resta dentro l'addestramento per sempre.",
+        "E attenzione: non è più una cortesia dei motori. È un tuo diritto esigibile per legge — ma solo se agisci in tempo.",
+        "Oggi hai una finestra di 30 giorni per decidere. Se non compili i moduli, l'AI continuerà a leggere il tuo sito senza il tuo consenso."
+      ],
+      "video_script": [
+        "Nuova regola UE: puoi bloccare l'AI Search dal tuo sito.",
+        "Ma devi fare richiesta per ogni motore. Uno per uno.",
+        "Hai 30 giorni per decidere, altrimenti perdi il controllo.",
+        "Non è più una cortesia, è un diritto esigibile.",
+        "Oggi tocca a te: escludi o resti dentro."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "La nuova regola UE dice che se pubblichi contenuti, puoi bloccare l'AI Search. Ma devi ripetere la richiesta per ogni motore. Uno per uno.",
+            "Non basta un opt-out generico. Devi mandare una richiesta esplicita a Google, a Perplexity, a ChatGPT. Ogni sistema ha il suo modulo.",
+            "Se non lo fai entro 30 giorni dall'entrata in vigore? Hai perso il controllo. Il tuo sito resta dentro l'addestramento per sempre.",
+            "E attenzione: non è più una cortesia dei motori. È un tuo diritto esigibile per legge — ma solo se agisci in tempo.",
+            "Oggi hai una finestra di 30 giorni per decidere. Se non compili i moduli, l'AI continuerà a leggere il tuo sito senza il tuo consenso."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Nuova regola UE: puoi bloccare l'AI Search dal tuo sito.",
+            "Ma devi fare richiesta per ogni motore. Uno per uno.",
+            "Hai 30 giorni per decidere, altrimenti perdi il controllo.",
+            "Non è più una cortesia, è un diritto esigibile.",
+            "Oggi tocca a te: escludi o resti dentro."
+          ]
+        },
+        "instagram": {
+          "caption": "Se pubblichi un sito, da oggi hai 30 giorni per decidere se vuoi escluderlo dall’addestramento delle AI ⏳ La nuova regola UE trasforma l’opt-out da cortesia a diritto esigibile, ma c’è un tranello: devi fare richiesta separata a Google, Perplexity e ChatGPT, uno per uno 📄 Se non compili i moduli entro la finestra, il tuo contenuto resta dentro i modelli per sempre, senza possibilità di ripensamento. Per chi lavora con newsletter, blog o giornali, questa è l’unica chance per mantenere il controllo su ciò che produce. La tua scadenza è già partita: hai già controllato? 🔍"
+        }
+      },
+      "instagram_caption": "Se pubblichi un sito, da oggi hai 30 giorni per decidere se vuoi escluderlo dall’addestramento delle AI ⏳ La nuova regola UE trasforma l’opt-out da cortesia a diritto esigibile, ma c’è un tranello: devi fare richiesta separata a Google, Perplexity e ChatGPT, uno per uno 📄 Se non compili i moduli entro la finestra, il tuo contenuto resta dentro i modelli per sempre, senza possibilità di ripensamento. Per chi lavora con newsletter, blog o giornali, questa è l’unica chance per mantenere il controllo su ciò che produce. La tua scadenza è già partita: hai già controllato? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "30 giorni per decidere",
+          "description": "Hai 30 giorni per bloccare l'AI. Se non agisci, il tuo sito resta dentro per sempre.",
+          "visual_hint": "countdown timer UI",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "countdown timer screen"
+        },
+        {
+          "hook": "Un opt-out per ogni motore",
+          "description": "Non basta un opt-out generico. Devi mandare richiesta esplicita a Google, Perplexity, ChatGPT. Uno per uno.",
+          "visual_hint": "moduli di richiesta diversi",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "online forms laptop",
+          "image": "https://images.pexels.com/photos/7709273/pexels-photo-7709273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tuo diritto, non una cortesia",
+          "description": "Non è più una cortesia dei motori. È un diritto esigibile per legge, ma solo se agisci in tempo.",
+          "visual_hint": "documento legale con timbro",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "legal document stamp",
+          "image": "https://images.pexels.com/photos/7654118/pexels-photo-7654118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "30 giorni e perdi il controllo",
+          "description": "Se non compili i moduli entro 30 giorni, l'AI continuerà a leggere il tuo sito senza consenso.",
+          "visual_hint": "dito su pulsante scadenza",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "finger pressing button",
+          "image": "https://images.pexels.com/photos/9461215/pexels-photo-9461215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scegli oggi il tuo destino AI",
+          "description": "Oggi decidi se escludere il tuo sito dall'AI. I 30 giorni sono già iniziati. Agisci ora.",
+          "visual_hint": "interruttore acceso/spento",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "toggle switch on off",
+          "image": "https://images.pexels.com/photos/7663143/pexels-photo-7663143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+      "savedAt": "2026-06-03T19:43:44.247Z",
+      "sourceId": "f82a30b068b3240a6c738af5e108eb23"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "these-two-founders-left-goldman-and-meta-to-build-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "pubDate": "Wed, 03 Jun 2026 15:00:00 +0000",
+      "slides": [
+        "Why did they leave Goldman and Meta for forgotten markets?",
+        "Voice AI for sectors others ignore—yet spending surges.",
+        "Their first client cut costs by 40% in just weeks.",
+        "If your industry still relies on phone calls, watch out.",
+        "Find one overlooked process and test their demo today."
+      ],
+      "thread_text": [
+        "Hanno lasciato Goldman e Meta per costruire AI nei mercati che nessuno guarda. Tre settimane dopo, il primo cliente ha tagliato i costi del 40%.",
+        "Non inseguono unicorni. Guardano i settori in cui le chiamate telefoniche sono ancora il default — e la spesa per voice AI sta esplodendo lì.",
+        "Il loro sistema automatizza un solo processo ripetitivo. Quello basta a risparmiare quasi metà del budget operativo in poche settimane.",
+        "Se il tuo team perde ore al telefono per prenotazioni, assistenza o vendite, sei il prossimo bersaglio. Non serve una startup da miliardi.",
+        "Trova un processo noioso che fai ancora a voce e chiedi una demo oggi. Costa meno di un abbonamento Spotify."
+      ],
+      "video_script": [
+        "Hanno lasciato Goldman e Meta per questo.",
+        "Costruiscono voice AI nei mercati dimenticati.",
+        "Primo cliente: costi giù del 40% in tre settimane.",
+        "Se usi ancora il telefono, attento.",
+        "Trova un processo e testa la demo."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Hanno lasciato Goldman e Meta per costruire AI nei mercati che nessuno guarda. Tre settimane dopo, il primo cliente ha tagliato i costi del 40%.",
+            "Non inseguono unicorni. Guardano i settori in cui le chiamate telefoniche sono ancora il default — e la spesa per voice AI sta esplodendo lì.",
+            "Il loro sistema automatizza un solo processo ripetitivo. Quello basta a risparmiare quasi metà del budget operativo in poche settimane.",
+            "Se il tuo team perde ore al telefono per prenotazioni, assistenza o vendite, sei il prossimo bersaglio. Non serve una startup da miliardi.",
+            "Trova un processo noioso che fai ancora a voce e chiedi una demo oggi. Costa meno di un abbonamento Spotify."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hanno lasciato Goldman e Meta per questo.",
+            "Costruiscono voice AI nei mercati dimenticati.",
+            "Primo cliente: costi giù del 40% in tre settimane.",
+            "Se usi ancora il telefono, attento.",
+            "Trova un processo e testa la demo."
+          ]
+        },
+        "instagram": {
+          "caption": "Due ex-Goldman e Meta hanno convinto un cliente a tagliare i 40% dei costi in poche settimane con una voce AI. ☎️🤖  \nNon inseguono il prossimo unicorno: guardano i mercati dimenticati dove tutti usano ancora il telefono — e la spesa per questa tecnologia sta crescendo lì.  \nHanno automatizzato un solo processo ripetitivo, e il risparmio è stato immediato.  \nSe il tuo team perde ore in chiamate per prenotazioni o assistenza, potresti essere il prossimo.  \nQuale processo noioso della tua giornata faresti testare gratis oggi?"
+        }
+      },
+      "instagram_caption": "Due ex-Goldman e Meta hanno convinto un cliente a tagliare i 40% dei costi in poche settimane con una voce AI. ☎️🤖  \nNon inseguono il prossimo unicorno: guardano i mercati dimenticati dove tutti usano ancora il telefono — e la spesa per questa tecnologia sta crescendo lì.  \nHanno automatizzato un solo processo ripetitivo, e il risparmio è stato immediato.  \nSe il tuo team perde ore in chiamate per prenotazioni o assistenza, potresti essere il prossimo.  \nQuale processo noioso della tua giornata faresti testare gratis oggi?",
+      "carousel_slides": [
+        {
+          "hook": "40% cost cut in weeks.",
+          "description": "First client slashed costs 40% in three weeks. They left Goldman and Meta for overlooked markets.",
+          "visual_hint": "Chart dropping steeply",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart down"
+        },
+        {
+          "hook": "Phone calls are the default.",
+          "description": "They target industries where phone calls still rule. Voice AI spending is surging in forgotten sectors.",
+          "visual_hint": "Old phone headquarters",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "old telephone switchboard",
+          "image": "https://images.pexels.com/photos/821755/pexels-photo-821755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One repetitive process.",
+          "description": "Their system automates just one repetitive process. That alone saves almost half the budget in weeks.",
+          "visual_hint": "Robot fixing call center",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot arm server",
+          "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You are next if you call.",
+          "description": "If your team wastes hours on phone booking or support, you are the target. No billion-dollar startup needed.",
+          "visual_hint": "Hand holding headset",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office worker headset",
+          "image": "https://images.pexels.com/photos/7681570/pexels-photo-7681570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test demo today.",
+          "description": "Find one boring voice process and request a demo. Costs less than a Spotify subscription.",
+          "visual_hint": "Demo button phone screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone demo screen",
+          "image": "https://images.pexels.com/photos/25809263/pexels-photo-25809263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Athx-Pictures_-Right-Mariama-Left-Ayooluwa.jpg?resize=1200,675",
+      "savedAt": "2026-06-03T19:43:30.557Z",
+      "sourceId": "be5890923c6720c2283950b6ee2fcf9f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "instagram-is-alerting-users-who-were-targeted-by-h",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
+      "link": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
+      "pubDate": "Wed, 03 Jun 2026 16:12:06 +0000",
+      "slides": [
+        "Hacker usano AI chatbot per colpire su Instagram?",
+        "Meta sta avvisando gli utenti colpiti ora.",
+        "Gli attacchi non rubano password, ma simpatia.",
+        "Se ricevi un avviso, controlla subito l’attività.",
+        "Cambia password oggi, non aspettare."
+      ],
+      "thread_text": [
+        "Hacker sfruttano AI chatbot per colpire account Instagram. Non rubano password, ma qualcosa di più subdolo: la tua simpatia.",
+        "I bot conversano come amici, guadagnano fiducia, poi chiedono favori. Nessun link sospetto, solo dialogo.",
+        "Meta ha già iniziato a inviare avvisi. Se ricevi un alert, non ignorarlo: controlla subito chi ti ha scritto e cosa hai condiviso.",
+        "Gli attacchi non sembrano attacchi. Sembrano persone normali. È per questo che funzionano.",
+        "Se non hai ancora cambiato password oggi, fermati e fallo ora. Bastano due minuti per evitare settimane di problemi."
+      ],
+      "video_script": [
+        "Gli hacker usano chatbot AI su Instagram.",
+        "Non rubano la password, ma la fiducia.",
+        "I bot sembrano amici che chattano.",
+        "Meta avvisa chi è stato colpito.",
+        "Se ricevi un alert, cambia subito password."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Hacker sfruttano AI chatbot per colpire account Instagram. Non rubano password, ma qualcosa di più subdolo: la tua simpatia.",
+            "I bot conversano come amici, guadagnano fiducia, poi chiedono favori. Nessun link sospetto, solo dialogo.",
+            "Meta ha già iniziato a inviare avvisi. Se ricevi un alert, non ignorarlo: controlla subito chi ti ha scritto e cosa hai condiviso.",
+            "Gli attacchi non sembrano attacchi. Sembrano persone normali. È per questo che funzionano.",
+            "Se non hai ancora cambiato password oggi, fermati e fallo ora. Bastano due minuti per evitare settimane di problemi."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Gli hacker usano chatbot AI su Instagram.",
+            "Non rubano la password, ma la fiducia.",
+            "I bot sembrano amici che chattano.",
+            "Meta avvisa chi è stato colpito.",
+            "Se ricevi un alert, cambia subito password."
+          ]
+        },
+        "instagram": {
+          "caption": "Gli hacker stanno usando AI chatbot per colpire account Instagram: non rubano password, ma fiducia. 🫵 I bot parlano come amici, guadagnano simpatia e poi chiedono favori — nessun link sospetto, solo conversazioni normali. Meta ha già iniziato a mandare avvisi. Se ricevi una notifica, controlla subito l’attività del tuo account. 🔍 Questo riguarda chiunque usi Instagram per lavoro o contatti personali. Hai verificato di recente chi ti scrive o cambiato password? 🔐"
+        }
+      },
+      "instagram_caption": "Gli hacker stanno usando AI chatbot per colpire account Instagram: non rubano password, ma fiducia. 🫵 I bot parlano come amici, guadagnano simpatia e poi chiedono favori — nessun link sospetto, solo conversazioni normali. Meta ha già iniziato a mandare avvisi. Se ricevi una notifica, controlla subito l’attività del tuo account. 🔍 Questo riguarda chiunque usi Instagram per lavoro o contatti personali. Hai verificato di recente chi ti scrive o cambiato password? 🔐",
+      "carousel_slides": [
+        {
+          "hook": "Ti fidi di chi ti scrive?",
+          "description": "Hacker usano AI chatbot per fingersi amici e guadagnare la tua simpatia. Non rubano password, ma fiducia.",
+          "visual_hint": "chat con intelligenza artificiale",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "AI chatbot conversation"
+        },
+        {
+          "hook": "Meta avvisa gli utenti colpiti",
+          "description": "Meta ha iniziato a inviare avvisi. Se ricevi un alert, non ignorarlo e controlla subito i messaggi recenti.",
+          "visual_hint": "notifica su schermo",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "Instagram notification alert",
+          "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sembra un amico, è un bot",
+          "description": "I bot conversano come amici, guadagnano fiducia, poi chiedono favori. Nessun link sospetto, solo dialogo.",
+          "visual_hint": "interfaccia di chat",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "friendly chat interface",
+          "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Attacchi che non sembrano tali",
+          "description": "Gli attacchi non sembrano attacchi. Sembrano persone normali. È per questo che funzionano.",
+          "visual_hint": "persona comune al telefono",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person using smartphone",
+          "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cambia password ora",
+          "description": "Se non hai ancora cambiato password oggi, fermati e fallo ora. Bastano due minuti per evitare settimane di problemi.",
+          "visual_hint": "lucchetto e password",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "change password screen",
+          "image": "https://images.pexels.com/photos/5475788/pexels-photo-5475788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-smartphone-laptop.jpg?resize=1200,800",
+      "savedAt": "2026-06-03T19:43:17.177Z",
+      "sourceId": "9911d5b7515106930b3d0e95aafe58e0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "alphabet-s-record-breaking-85b-raise-for-google-s-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "pubDate": "Wed, 03 Jun 2026 19:38:32 +0000",
+      "slides": [
+        "Alphabet ha raccolto 85 miliardi per l'IA.",
+        "Il record supera ogni emissione precedente.",
+        "Non per debito, ma per investimenti aggressivi.",
+        "Se seguono, potresti vedere fusioni violente.",
+        "Quale competitor può permettersi di stare fermo?"
+      ],
+      "thread_text": [
+        "Non servono per ripagare debiti. Alphabet ha raccolto 85 miliardi per finanziare guerre di acquisizione. Quando una cifra così non va in cassa di sicurezza, il piano è espansione aggressiva.",
+        "85 miliardi di dollari in una sola emissione obbligazionaria. Nessuna azienda aveva mai polverizzato così il proprio record. Il mercato ha detto sì perché sa cosa sta per succedere.",
+        "Con questa liquidità Alphabet può comprare startup strategiche, talento, e tecnologia prima che diventino concorrenti. Per le piccole aziende di AI significa una minaccia diretta di acquisizione forzata.",
+        "I competitor come Microsoft e Meta hanno due scelte: alzare la posta o rischiare di restare indietro. Fusioni violente e acquisizioni rapide sono lo scenario più probabile nei prossimi mesi.",
+        "Quale CEO può permettersi di non avere un piano B per i prossimi 6 mesi? Se il tuo budget R&D è inferiore a 10 miliardi, inizia a cercare un acquirente."
+      ],
+      "video_script": [
+        "Alphabet ha raccolto 85 miliardi per l'IA.",
+        "È la più grande emissione della storia.",
+        "Non per debiti, per acquisti aggressivi.",
+        "Se seguono, scoppiano fusioni violente.",
+        "Chi può stare fermo ora?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Non servono per ripagare debiti. Alphabet ha raccolto 85 miliardi per finanziare guerre di acquisizione. Quando una cifra così non va in cassa di sicurezza, il piano è espansione aggressiva.",
+            "85 miliardi di dollari in una sola emissione obbligazionaria. Nessuna azienda aveva mai polverizzato così il proprio record. Il mercato ha detto sì perché sa cosa sta per succedere.",
+            "Con questa liquidità Alphabet può comprare startup strategiche, talento, e tecnologia prima che diventino concorrenti. Per le piccole aziende di AI significa una minaccia diretta di acquisizione forzata.",
+            "I competitor come Microsoft e Meta hanno due scelte: alzare la posta o rischiare di restare indietro. Fusioni violente e acquisizioni rapide sono lo scenario più probabile nei prossimi mesi.",
+            "Quale CEO può permettersi di non avere un piano B per i prossimi 6 mesi? Se il tuo budget R&D è inferiore a 10 miliardi, inizia a cercare un acquirente."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Alphabet ha raccolto 85 miliardi per l'IA.",
+            "È la più grande emissione della storia.",
+            "Non per debiti, per acquisti aggressivi.",
+            "Se seguono, scoppiano fusioni violente.",
+            "Chi può stare fermo ora?"
+          ]
+        },
+        "instagram": {
+          "caption": "$85 miliardi raccolti in un colpo solo, senza debiti da ripagare. Alphabet (Google) ha emesso la più grande obbligazione della storia per finanziare guerre di acquisizione in IA. 💸 Il mercato ha detto sì perché sa: possono comprarsi startup, talenti e tecnologie prima che diventino concorrenti. 🧠 Per te significa che i prossimi tool potrebbero sparire dentro Google Glass 2.0 o essere polverizzati. 💥 Quale startup da 5 milioni di R&D si sente al sicuro nei prossimi 6 mesi? 🤷‍♂️"
+        }
+      },
+      "instagram_caption": "$85 miliardi raccolti in un colpo solo, senza debiti da ripagare. Alphabet (Google) ha emesso la più grande obbligazione della storia per finanziare guerre di acquisizione in IA. 💸 Il mercato ha detto sì perché sa: possono comprarsi startup, talenti e tecnologie prima che diventino concorrenti. 🧠 Per te significa che i prossimi tool potrebbero sparire dentro Google Glass 2.0 o essere polverizzati. 💥 Quale startup da 5 milioni di R&D si sente al sicuro nei prossimi 6 mesi? 🤷‍♂️",
+      "carousel_slides": [
+        {
+          "hook": "85 miliardi non per debito",
+          "description": "Alphabet raccoglie 85 miliardi per acquisizioni aggressive, non per sicurezza. È un piano di espansione senza precedenti.",
+          "visual_hint": "montagna di monete d'oro",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "pile of gold coins"
+        },
+        {
+          "hook": "Record polverizzato in un colpo",
+          "description": "Nessuna azienda aveva mai emesso obbligazioni per questa cifra. Il mercato approva perché sa cosa sta per succedere.",
+          "visual_hint": "grafico borsa in ascesa",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Startup AI nel mirino",
+          "description": "Con 85 miliardi, Alphabet può comprare startup, talento e tecnologia prima che diventino concorrenti. Minaccia diretta di acquisizione forzata.",
+          "visual_hint": "occhio su piccola azienda",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "startup office meeting",
+          "image": "https://images.pexels.com/photos/7413846/pexels-photo-7413846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fusioni violente in arrivo",
+          "description": "Microsoft e Meta devono alzare la posta o rischiare di restare indietro. Fusioni e acquisizioni rapide sono lo scenario più probabile.",
+          "visual_hint": "mani che stringono accordo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "handshake deal closeup",
+          "image": "https://images.pexels.com/photos/8276369/pexels-photo-8276369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tuo piano B esiste?",
+          "description": "Se il budget R&D è sotto 10 miliardi, inizia a cercare un acquirente. Nessun CEO può permettersi di stare fermo.",
+          "visual_hint": "uomo pensieroso alla scrivania",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office worker thinking",
+          "image": "https://images.pexels.com/photos/12903124/pexels-photo-12903124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+      "savedAt": "2026-06-03T19:43:04.901Z",
+      "sourceId": "ea4455262cfd96d82438fd160a7bf8f0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "coralogix-raises-200m-on-bet-that-someone-needs-to",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -39953,6 +40369,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "insalata-estiva-con-salmone",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Insalata estiva con salmone",
+      "link": "https://ricette.giallozafferano.it/Insalata-estiva-con-salmone.html",
+      "pubDate": "Wed, 03 Jun 2026 15:20:00 +0200",
+      "content": "Insalata estiva con salmone, avocado e ciliegie Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X SPECIALE Salmone affumicato: qualità e gusto in collaborazione con Insalate Contenuto Sponsorizzato Insalata estiva con salmone /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Difficoltà: Facile Preparazione: 15 min Cottura: 10 min Dosi per: 4 persone PRESENTAZIONE In estate la voglia di stare ai fornelli diminuisce e si cercano ricette fresche, veloci e sfiziose, come quella che vi proponiamo oggi. L’ insalata estiva con salmone è un piatto colorato e invitante, perfetto per un pranzo leggero o una cena all’aperto. Il salmone affumicato norvegese si abbina alla freschezza delle zucchine grigliate e alla cremosità dell’avocado, mentre le ciliegie, insolite in una ricetta salata, regalano un tocco originale e una nota dolce che rende questa insalata ancora più speciale. A completare il tutto ci pensano le mandorle tostate, per una piacevole nota croccante. Una ricetta semplice ma d’effetto, ideale da condividere durante le giornate più calde, e perfetta anche da portare in ufficio. Ecco altre insalate estive da non perdere: Insalata di ceci sfiziosa Insalata nizzarda Insalata greca Insalata pantesca Insalata di frutta INGREDIENTI Zucchine 320 g Ciliegie 200 g Songino 80 g Rucola 80 g Salmone affumicato 360 g Mandorle in scaglie 40 g Sale fino q.b. Olio extravergine d'oliva q.b. Pepe nero q.b. per la crema di avocado Avocado 260 g Succo di limone 25 g Sale fino q.b. Olio extravergine d'oliva q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare l'Insalata estiva con salmone Per preparare l’insalata estiva con salmone, per prima cosa lavate le zucchine e spuntatele 1 . Affettatele con una mandolina ricavando fette sottili di circa 2 mm di spessore 2 . Scaldate bene una griglia e posizionate sopra le zucchine 3 . Cuocete le zucchine per 1-2 minuti per lato, fino a ottenere le classiche striature. Trasferitele su un piatto e lasciatele raffreddare 4 . Lavate le ciliegie, tagliatele a metà 5 ed eliminate il nocciolo interno 6 . Tenete da parte. Tagliate a metà l'avocado 7 , eliminate il nocciolo e prelevate la polpa 8 . Versatela nel mixer insieme al succo di limone 9 . Aggiungete un pizzico di sale 10 e un filo d'olio 11 . Se gradite potete aggiungere del pepe nero. Frullate fino ad ottenere una crema liscia e omogenea 12 , poi trasferitela in un sac-à-poche. Versate le mandorle in scaglie in una padella ben calda 13 e tostatele a fiamma media per 3-4 minuti 14 , mescolando spesso, fino a quando saranno dorate. In una ciotola riunite il songino, la rucola e le zucchine grigliate 15 . Condite con un filo d’olio 16 , un pizzico di sale 17 e mescolate delicatamente 18 . Distribuite l’insalata nei piatti da portata, aggiungete il salmone affumicato a fette, le ciliegie 19 e completate con ciuffi di crema di avocado 20 . Guarnite infine con le mandorle tostate e servite subito 21 . Conservazione Si consiglia di consumare l’insalata estiva con salmone appena preparata. Le zucchine grigliate possono essere preparate in anticipo e conservate in frigorifero per 2-3 ore. La crema di avocado tende a ossidarsi, quindi è preferibile realizzarla al momento. Consiglio Al posto delle mandorle a scaglie potete utilizzare semi misti tostati oppure crostini di pane croccanti per aggiungere una nota sfiziosa al piatto. Re Salmone: affumicato da fresco e mai congelato Scopri Re Salmone : salmone affumicato da fresco, mai congelato, lavorato senza coloranti né additivi, affumicato su legno di faggio con basso contenuto di sale. Gusto unico e qualità superiore, perfetto per ogni tua ricetta. Scopri di più Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Avocado Salmone Zucchine Ciliegie Olio di oliva Limone Salmone affumicato Scopri tutto sugli ingredienti Presente in: Ricette veloci , Piatti freddi STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Non hai trovato l'ispirazione giusta? Prova queste! Antipasti Spiedini di tonno e salmone con insalata thai 23 4.9 Gli spiedini di tonno e salmone con insalata thai sono un finger food dal gusto orientale, ottimi da gustare per un aperitivo a tema etnico! Vai alla ricetta Insalate Insalata di gamberi 14 4.6 L'insalata di gamberi è un mix sfizioso da servire a chi preferisce vedere sulla tavola un piatto non solo succulento ma anche molto colorato! Vai alla ricetta Insalate Insalata di patate e salmone 1 4.3 L'insalata di patate e salmone è un piatto unico leggero e nutriente con patate lesse, salmone affumicato, avocado e sedano. Scopri dosi e ricetta! Vai alla ricetta Insalate Insalata allo yogurt con salmone e gamberetti 49 4.6 L'insalata allo yogurt e gamberetti richiama allo stile greco per l'uso di yogurt, qui arricchita con salmone e gamberetti freschi. Vai alla ricetta Piatti Unici Insalata di riso con salmone tataki e rucola 5.0 L'insalata di riso con salmone tataki e rucola è un piatto unico sfizioso e nutriente, perfetto per rimanere leggeri in estate! Scopri dosi e ricetta. Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Insalata estiva colorata con salmone e ciliegie",
+        "Zucchine, ciliegie, avocado, salmone, mandorle",
+        "Griglia le zucchine a fette sottili",
+        "Mescola insalata con salmone e crema di avocado",
+        "Mandorle tostate per croccantezza finale"
+      ],
+      "instagram_caption": "Un’esplosione di fresco in ogni boccone! 🥑🍒 Questa insalata estiva unisce il sapore deciso del salmone alla dolcezza delle ciliegie, con zucchine grigliate e una cremosa salsa di avocado che abbraccia tutto. Le mandorle tostate? Il tocco croccante che fa la differenza. Semplice, veloce, perfetta per le serate calde. Provala questo weekend 🌿",
+      "formats": {
+        "instagram": {
+          "caption": "Un’esplosione di fresco in ogni boccone! 🥑🍒 Questa insalata estiva unisce il sapore deciso del salmone alla dolcezza delle ciliegie, con zucchine grigliate e una cremosa salsa di avocado che abbraccia tutto. Le mandorle tostate? Il tocco croccante che fa la differenza. Semplice, veloce, perfetta per le serate calde. Provala questo weekend 🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Prendo zucchine, ciliegie, avocado e salmone.",
+            "Taglio le zucchine a fette e le griglio.",
+            "Mescolo l'insalata con salmone e ciliegie.",
+            "Creo una crema di avocado per condire.",
+            "Mando le mandorle tostate per croccantezza."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Estate in un piatto: colori che urlano freschezza, sapori che si inseguono. Salmone, ciliegie e una crema che non ti aspetti. Pronto a stupire?",
+            "Zucchine grigliate a fette sottili, ciliegie dolci, avocado vellutato, salmone affumicato e mandorle croccanti. La base è servita.",
+            "Le zucchine le passo sulla griglia calda fino a segni ben marcati. Poi le lascio raffreddare: voglio masticare, non brodaglia.",
+            "Frullo l’avocado con un filo d’olio, sale e limone fino a crema liscia. La mescolo al salmone e alle zucchine. Le ciliegie le aggiungo intere.",
+            "Finitura obbligatoria: mandorle tostate in padella due minuti. Buttarle sopra all’ultimo. La croccantezza fa saltare il piatto. Provala e dimmi com’è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Prendo zucchine, ciliegie, avocado e salmone.",
+        "Taglio le zucchine a fette e le griglio.",
+        "Mescolo l'insalata con salmone e ciliegie.",
+        "Creo una crema di avocado per condire.",
+        "Mando le mandorle tostate per croccantezza."
+      ],
+      "thread_text": [
+        "Estate in un piatto: colori che urlano freschezza, sapori che si inseguono. Salmone, ciliegie e una crema che non ti aspetti. Pronto a stupire?",
+        "Zucchine grigliate a fette sottili, ciliegie dolci, avocado vellutato, salmone affumicato e mandorle croccanti. La base è servita.",
+        "Le zucchine le passo sulla griglia calda fino a segni ben marcati. Poi le lascio raffreddare: voglio masticare, non brodaglia.",
+        "Frullo l’avocado con un filo d’olio, sale e limone fino a crema liscia. La mescolo al salmone e alle zucchine. Le ciliegie le aggiungo intere.",
+        "Finitura obbligatoria: mandorle tostate in padella due minuti. Buttarle sopra all’ultimo. La croccantezza fa saltare il piatto. Provala e dimmi com’è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "L'insalata estiva che non ti aspetti",
+          "description": "Un mix sorprendente e fresco di salmone affumicato, ciliegie dolci e avocado cremoso per un piatto unico leggero e gustoso.",
+          "visual_hint": "insalata colorata in ciotola",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory summer salmon salad"
+        },
+        {
+          "hook": "Gli ingredienti segreti",
+          "description": "Zucchine grigliate, ciliegie mature, avocado vellutato, salmone saporito e mandorle croccanti: il perfetto equilibrio di sapori e consistenze.",
+          "visual_hint": "ingredienti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory salad ingredients bowl",
+          "image": "https://images.pexels.com/photos/29266881/pexels-photo-29266881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il gesto che fa la differenza",
+          "description": "Affetta le zucchine sottilmente e grigliale fino a ottenere leggere rigature: daranno profondità e un aroma affumicato all'insalata.",
+          "visual_hint": "mani che affettano zucchine",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory grilling zucchini slices",
+          "image": "https://images.pexels.com/photos/5637755/pexels-photo-5637755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "L'assemblaggio perfetto",
+          "description": "Mescola l'insalata con il salmone a straccetti e una crema di avocado frullata con limone: un condimento cremoso e leggero.",
+          "visual_hint": "ciotola con spatola che mescola",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory mixing salmon avocado",
+          "image": "https://images.pexels.com/photos/20732266/pexels-photo-20732266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tocco finale croccante",
+          "description": "Completa con mandorle tostate in padella: la croccantezza che esalta ogni boccone. Servi fresco e buon appetito!",
+          "visual_hint": "insalata impiattata con mandorle",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory salmon salad almonds",
+          "image": "https://images.pexels.com/photos/29692601/pexels-photo-29692601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "salad",
+      "signature_ingredients": [
+        "salmone",
+        "ciliegie",
+        "avocado"
+      ],
+      "image": "https://www.giallozafferano.it/images/362-36228/Insalata-estiva-con-salmone_650x433_wm.jpg",
+      "savedAt": "2026-06-03T19:47:05.768Z",
+      "sourceId": "032ae9ee8029057ba09053ec641e1fe9"
+    },
     {
       "schema_version": 2,
       "agent": "food",

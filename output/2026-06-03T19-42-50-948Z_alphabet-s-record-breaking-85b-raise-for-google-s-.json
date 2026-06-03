@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "alphabet-s-record-breaking-85b-raise-for-google-s-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+  "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+  "pubDate": "Wed, 03 Jun 2026 19:38:32 +0000",
+  "slides": [
+    "Alphabet ha raccolto 85 miliardi per l'IA.",
+    "Il record supera ogni emissione precedente.",
+    "Non per debito, ma per investimenti aggressivi.",
+    "Se seguono, potresti vedere fusioni violente.",
+    "Quale competitor può permettersi di stare fermo?"
+  ],
+  "thread_text": [
+    "Non servono per ripagare debiti. Alphabet ha raccolto 85 miliardi per finanziare guerre di acquisizione. Quando una cifra così non va in cassa di sicurezza, il piano è espansione aggressiva.",
+    "85 miliardi di dollari in una sola emissione obbligazionaria. Nessuna azienda aveva mai polverizzato così il proprio record. Il mercato ha detto sì perché sa cosa sta per succedere.",
+    "Con questa liquidità Alphabet può comprare startup strategiche, talento, e tecnologia prima che diventino concorrenti. Per le piccole aziende di AI significa una minaccia diretta di acquisizione forzata.",
+    "I competitor come Microsoft e Meta hanno due scelte: alzare la posta o rischiare di restare indietro. Fusioni violente e acquisizioni rapide sono lo scenario più probabile nei prossimi mesi.",
+    "Quale CEO può permettersi di non avere un piano B per i prossimi 6 mesi? Se il tuo budget R&D è inferiore a 10 miliardi, inizia a cercare un acquirente."
+  ],
+  "video_script": [
+    "Alphabet ha raccolto 85 miliardi per l'IA.",
+    "È la più grande emissione della storia.",
+    "Non per debiti, per acquisti aggressivi.",
+    "Se seguono, scoppiano fusioni violente.",
+    "Chi può stare fermo ora?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Non servono per ripagare debiti. Alphabet ha raccolto 85 miliardi per finanziare guerre di acquisizione. Quando una cifra così non va in cassa di sicurezza, il piano è espansione aggressiva.",
+        "85 miliardi di dollari in una sola emissione obbligazionaria. Nessuna azienda aveva mai polverizzato così il proprio record. Il mercato ha detto sì perché sa cosa sta per succedere.",
+        "Con questa liquidità Alphabet può comprare startup strategiche, talento, e tecnologia prima che diventino concorrenti. Per le piccole aziende di AI significa una minaccia diretta di acquisizione forzata.",
+        "I competitor come Microsoft e Meta hanno due scelte: alzare la posta o rischiare di restare indietro. Fusioni violente e acquisizioni rapide sono lo scenario più probabile nei prossimi mesi.",
+        "Quale CEO può permettersi di non avere un piano B per i prossimi 6 mesi? Se il tuo budget R&D è inferiore a 10 miliardi, inizia a cercare un acquirente."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Alphabet ha raccolto 85 miliardi per l'IA.",
+        "È la più grande emissione della storia.",
+        "Non per debiti, per acquisti aggressivi.",
+        "Se seguono, scoppiano fusioni violente.",
+        "Chi può stare fermo ora?"
+      ]
+    },
+    "instagram": {
+      "caption": "$85 miliardi raccolti in un colpo solo, senza debiti da ripagare. Alphabet (Google) ha emesso la più grande obbligazione della storia per finanziare guerre di acquisizione in IA. 💸 Il mercato ha detto sì perché sa: possono comprarsi startup, talenti e tecnologie prima che diventino concorrenti. 🧠 Per te significa che i prossimi tool potrebbero sparire dentro Google Glass 2.0 o essere polverizzati. 💥 Quale startup da 5 milioni di R&D si sente al sicuro nei prossimi 6 mesi? 🤷‍♂️"
+    }
+  },
+  "instagram_caption": "$85 miliardi raccolti in un colpo solo, senza debiti da ripagare. Alphabet (Google) ha emesso la più grande obbligazione della storia per finanziare guerre di acquisizione in IA. 💸 Il mercato ha detto sì perché sa: possono comprarsi startup, talenti e tecnologie prima che diventino concorrenti. 🧠 Per te significa che i prossimi tool potrebbero sparire dentro Google Glass 2.0 o essere polverizzati. 💥 Quale startup da 5 milioni di R&D si sente al sicuro nei prossimi 6 mesi? 🤷‍♂️",
+  "carousel_slides": [
+    {
+      "hook": "85 miliardi non per debito",
+      "description": "Alphabet raccoglie 85 miliardi per acquisizioni aggressive, non per sicurezza. È un piano di espansione senza precedenti.",
+      "visual_hint": "montagna di monete d'oro",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "pile of gold coins"
+    },
+    {
+      "hook": "Record polverizzato in un colpo",
+      "description": "Nessuna azienda aveva mai emesso obbligazioni per questa cifra. Il mercato approva perché sa cosa sta per succedere.",
+      "visual_hint": "grafico borsa in ascesa",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Startup AI nel mirino",
+      "description": "Con 85 miliardi, Alphabet può comprare startup, talento e tecnologia prima che diventino concorrenti. Minaccia diretta di acquisizione forzata.",
+      "visual_hint": "occhio su piccola azienda",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "startup office meeting",
+      "image": "https://images.pexels.com/photos/7413846/pexels-photo-7413846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fusioni violente in arrivo",
+      "description": "Microsoft e Meta devono alzare la posta o rischiare di restare indietro. Fusioni e acquisizioni rapide sono lo scenario più probabile.",
+      "visual_hint": "mani che stringono accordo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "handshake deal closeup",
+      "image": "https://images.pexels.com/photos/8276369/pexels-photo-8276369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il tuo piano B esiste?",
+      "description": "Se il budget R&D è sotto 10 miliardi, inizia a cercare un acquirente. Nessun CEO può permettersi di stare fermo.",
+      "visual_hint": "uomo pensieroso alla scrivania",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office worker thinking",
+      "image": "https://images.pexels.com/photos/12903124/pexels-photo-12903124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+  "savedAt": "2026-06-03T19:43:04.901Z",
+  "sourceId": "ea4455262cfd96d82438fd160a7bf8f0"
+}
