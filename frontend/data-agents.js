@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "focused-energy-raises-whopping-240m-series-a-for-l",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Focused Energy raises whopping $240M Series A for laser-powered fusion tech",
+      "link": "https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/",
+      "pubDate": "Tue, 02 Jun 2026 17:01:17 +0000",
+      "slides": [
+        "Focused Energy just secured $240M. But can lasers really fuse atoms?",
+        "Their approach fires intense lasers at hydrogen fuel pellets.",
+        "No one has yet turned fusion into net-positive grid power.",
+        "This round funds a prototype—but success is far from certain.",
+        "Watch if capital alone can solve fusion's biggest hurdle."
+      ],
+      "thread_text": [
+        "No one has yet turned fusion into net-positive grid power. A startup just raised $240M to try. That's a bet on physics, not just business.",
+        "Focused Energy's approach: fire intense lasers at hydrogen fuel pellets. Compress them so hard atoms fuse. Like creating a star in a lab.",
+        "The catch? No one has ever made this process produce more energy than it consumes. The record is still negative net gain.",
+        "This $240M funds a prototype. A real shot at proving the physics. But success remains far from certain—and years away.",
+        "If they fail, the money is gone. If they succeed, unlimited clean energy. Which outcome changes your next investment decision?"
+      ],
+      "video_script": [
+        "No fusion plant has ever been net-positive.",
+        "Yet a startup just raised $240 million.",
+        "They shoot lasers at tiny fuel pellets.",
+        "Think: creating a star in a lab.",
+        "This prototype is their make-or-break moment."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "No one has yet turned fusion into net-positive grid power. A startup just raised $240M to try. That's a bet on physics, not just business.",
+            "Focused Energy's approach: fire intense lasers at hydrogen fuel pellets. Compress them so hard atoms fuse. Like creating a star in a lab.",
+            "The catch? No one has ever made this process produce more energy than it consumes. The record is still negative net gain.",
+            "This $240M funds a prototype. A real shot at proving the physics. But success remains far from certain—and years away.",
+            "If they fail, the money is gone. If they succeed, unlimited clean energy. Which outcome changes your next investment decision?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "No fusion plant has ever been net-positive.",
+            "Yet a startup just raised $240 million.",
+            "They shoot lasers at tiny fuel pellets.",
+            "Think: creating a star in a lab.",
+            "This prototype is their make-or-break moment."
+          ]
+        },
+        "instagram": {
+          "caption": "Una startup ha appena raccolto 240 milioni di dollari per provare a produrre energia dalla fusione nucleare usando laser ⚡️ Il metodo: sparare impulsi potentissimi su palline di idrogeno, per comprimerle finché gli atomi non si fondono — come nel cuore di una stella. Il problema è che nessuno ci ha ancora guadagnato energia netta: il record è ancora negativo. Questi soldi servono a costruire un prototipo per vedere se la fisica regge. Se funziona, energia pulita illimitata; se fallisce, i soldi bruciano. Quanto saresti disposto a scommettere su un processo che finora ha sempre perso? 🔬💸"
+        }
+      },
+      "instagram_caption": "Una startup ha appena raccolto 240 milioni di dollari per provare a produrre energia dalla fusione nucleare usando laser ⚡️ Il metodo: sparare impulsi potentissimi su palline di idrogeno, per comprimerle finché gli atomi non si fondono — come nel cuore di una stella. Il problema è che nessuno ci ha ancora guadagnato energia netta: il record è ancora negativo. Questi soldi servono a costruire un prototipo per vedere se la fisica regge. Se funziona, energia pulita illimitata; se fallisce, i soldi bruciano. Quanto saresti disposto a scommettere su un processo che finora ha sempre perso? 🔬💸",
+      "carousel_slides": [
+        {
+          "hook": "Il record è perdita netta",
+          "description": "Nessuno ha mai prodotto più energia di quanta ne consuma. Il record è ancora un guadagno netto negativo.",
+          "visual_hint": "Grafico a barre negativo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "negative bar chart"
+        },
+        {
+          "hook": "Creare una stella in laboratorio",
+          "description": "Focused Energy usa laser intensi su pellet di idrogeno. Li comprime finché gli atomi si fondono.",
+          "visual_hint": "Laser beam su bersaglio sferico",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "laser fusion reactor",
+          "image": "https://images.pexels.com/photos/30983996/pexels-photo-30983996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "$240M per un prototipo",
+          "description": "Questo round finanzia un prototipo. Una vera possibilità di dimostrare la fisica, ma il successo è lontano anni.",
+          "visual_hint": "Prototipo in costruzione",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "fusion laboratory prototype",
+          "image": "https://images.pexels.com/photos/3861949/pexels-photo-3861949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Se fallisce, soldi persi",
+          "description": "Se fallisce, il denaro è perso. Se vince, energia pulita illimitata. Cosa cambia nel tuo prossimo investimento?",
+          "visual_hint": "Mano che tiene moneta sopra fiamma",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding coin",
+          "image": "https://images.pexels.com/photos/3943722/pexels-photo-3943722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scommetti sulla fisica?",
+          "description": "Noi scommettiamo sulla fisica, non solo sul business. Segui Focused Energy per capire se vinceranno.",
+          "visual_hint": "Logo startup con grafico rialzista",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "fusion startup logo",
+          "image": "https://images.pexels.com/photos/32319632/pexels-photo-32319632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/focused-energy-reactor-illustration-zoomed.jpg?resize=1200,745",
+      "savedAt": "2026-06-03T02:54:36.094Z",
+      "sourceId": "e459c3ca38301906ae706ba5746fe1cf"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "google-rolls-out-fake-call-detection-to-protect-ag",
       "prompt_version": "1.0.0",
       "status": "published",
