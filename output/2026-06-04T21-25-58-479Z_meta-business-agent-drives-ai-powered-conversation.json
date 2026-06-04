@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-business-agent-drives-ai-powered-conversation",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta Business Agent drives AI-powered conversational commerce",
+  "link": "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/",
+  "pubDate": "Thu, 04 Jun 2026 17:17:40 +0000",
+  "slides": [
+    "Meta scommette sull'AI per vendere senza umani?",
+    "Il nuovo Business Agent automatizza chat e ordini su WhatsApp",
+    "Non è un chatbot: prende decisioni economiche in autonomia",
+    "Per i brand: costi ridotti, ma serve ridisegnare il customer journey",
+    "Prova oggi una conversazione d'acquisto con il tuo prodotto"
+  ],
+  "thread_text": [
+    "Non è un chatbot. Prende decisioni economiche in autonomia, senza bisogno di un umano.",
+    "Meta ha appena lanciato un Business Agent su WhatsApp. Non risponde solo, compra e vende.",
+    "Gestisce chat, ordini e pagamenti. Il brand risparmia ore di lavoro e costi di assistenza.",
+    "Ma attenzione: il customer journey va ridisegnato. Chi parla col cliente ora è un software.",
+    "Costa meno di un abbonamento Spotify. Vuoi testarlo sul tuo prodotto oggi stesso?"
+  ],
+  "video_script": [
+    "Non è un semplice chatbot.",
+    "Prende decisioni economiche da solo.",
+    "Meta lo lancia su WhatsApp.",
+    "Gestisce chat e ordini in autonomia.",
+    "Per i brand: costi giù, ma serve ripensare il percorso cliente.",
+    "Provalo ora con il tuo prodotto."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Non è un chatbot. Prende decisioni economiche in autonomia, senza bisogno di un umano.",
+        "Meta ha appena lanciato un Business Agent su WhatsApp. Non risponde solo, compra e vende.",
+        "Gestisce chat, ordini e pagamenti. Il brand risparmia ore di lavoro e costi di assistenza.",
+        "Ma attenzione: il customer journey va ridisegnato. Chi parla col cliente ora è un software.",
+        "Costa meno di un abbonamento Spotify. Vuoi testarlo sul tuo prodotto oggi stesso?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Non è un semplice chatbot.",
+        "Prende decisioni economiche da solo.",
+        "Meta lo lancia su WhatsApp.",
+        "Gestisce chat e ordini in autonomia.",
+        "Per i brand: costi giù, ma serve ripensare il percorso cliente.",
+        "Provalo ora con il tuo prodotto."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta ha appena messo in produzione un agente su WhatsApp che non si limita a rispondere: prende decisioni economiche in autonomia 💼. Compra, vende e gestisce ordini e pagamenti senza un operatore umano in mezzo. Le aziende risparmiano ore di lavoro e tagliano i costi di assistenza ⏳🤖. Per te che lavori con un brand, significa ridisegnare l'intero customer journey — chi parla col cliente ora è un software. Costa meno di un abbonamento Spotify. Prova oggi a vendere il tuo prodotto in chat? 📲"
+    }
+  },
+  "instagram_caption": "Meta ha appena messo in produzione un agente su WhatsApp che non si limita a rispondere: prende decisioni economiche in autonomia 💼. Compra, vende e gestisce ordini e pagamenti senza un operatore umano in mezzo. Le aziende risparmiano ore di lavoro e tagliano i costi di assistenza ⏳🤖. Per te che lavori con un brand, significa ridisegnare l'intero customer journey — chi parla col cliente ora è un software. Costa meno di un abbonamento Spotify. Prova oggi a vendere il tuo prodotto in chat? 📲",
+  "carousel_slides": [
+    {
+      "hook": "Vende senza umani?",
+      "description": "Non è un chatbot. Prende decisioni economiche in autonomia, senza bisogno di un umano.",
+      "visual_hint": "Software che compra da solo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "automated checkout screen"
+    },
+    {
+      "hook": "Chat, ordini, pagamenti.",
+      "description": "Meta Business Agent su WhatsApp non risponde solo, compra e vende in autonomia.",
+      "visual_hint": "Chat che finalizza acquisto",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "whatsapp payment screen",
+      "image": "https://images.pexels.com/photos/6214367/pexels-photo-6214367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costi assistenza azzerati?",
+      "description": "Il brand risparmia ore di lavoro e costi di assistenza. Agente autonomo gestisce tutto.",
+      "visual_hint": "Grafico costi in discesa",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cost reduction graph",
+      "image": "https://images.pexels.com/photos/7567445/pexels-photo-7567445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Riprogetta il customer journey",
+      "description": "Attenzione: chi parla col cliente ora è un software. Il percorso va ridisegnato.",
+      "visual_hint": "Mappa journey con AI",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "customer journey map",
+      "image": "https://images.pexels.com/photos/7010195/pexels-photo-7010195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costa meno di Spotify.",
+      "description": "Vuoi testarlo sul tuo prodotto oggi stesso? Prova una conversazione d'acquisto automatica.",
+      "visual_hint": "Confronto prezzi abbonamenti",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "spotify vs price comparison",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/3943947/pexels-photo-3943947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-04T21:26:13.051Z",
+  "sourceId": "add6bf56e17286d31bf33e03987c78d8"
+}
