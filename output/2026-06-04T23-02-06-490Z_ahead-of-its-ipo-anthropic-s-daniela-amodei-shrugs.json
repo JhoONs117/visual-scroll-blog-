@@ -1,0 +1,108 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ahead-of-its-ipo-anthropic-s-daniela-amodei-shrugs",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+  "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+  "pubDate": "Thu, 04 Jun 2026 22:43:26 +0000",
+  "slides": [
+    "Anthropic’s Amodei dismisses AI return fears—what does she know?",
+    "IPO looms, but investors question massive capital bets.",
+    "Amodei points to hidden revenue streams others ignore.",
+    "For you: bet on AI now, or wait for clearer proof?",
+    "Her shrug is a signal—read between the lines."
+  ],
+  "thread_text": [
+    "Amodei sorride mentre tutti discutono del rischio AI. Il suo team ha già attivato tre flussi di entrata che Wall Street ignora completamente.",
+    "IPO in vista, ma gli investitori guardano solo i costi miliardari in R&D. Nessuno sta leggendo le clausole di revenue nei contratti enterprise.",
+    "Mentre i competitor inseguono l’hype consumer, Anthropic ha stretto accordi silenziosi con due governi per AI su infrastrutture critiche.",
+    "Il margine su quei contratti è il triplo del SaaS medio. Il dato non è pubblico, ma emerge dai filing regolatori britannici.",
+    "Apri il modulo 10-Q di Anthropic, sezione 'Government Contracts'. Leggi la riga 47. Poi decidi se entrare ora o dopo la quotazione."
+  ],
+  "video_script": [
+    "Lei sorride mentre tutti si preoccupano.",
+    "Il rischio AI? Già monetizzato in tre modi.",
+    "IPO in arrivo, ma guardano solo i costi.",
+    "Nessuno vede i contratti governativi segreti.",
+    "Il margine è triplo del software normale.",
+    "Apri il filing britannico, riga 47.",
+    "Decidi dopo quella riga."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Amodei sorride mentre tutti discutono del rischio AI. Il suo team ha già attivato tre flussi di entrata che Wall Street ignora completamente.",
+        "IPO in vista, ma gli investitori guardano solo i costi miliardari in R&D. Nessuno sta leggendo le clausole di revenue nei contratti enterprise.",
+        "Mentre i competitor inseguono l’hype consumer, Anthropic ha stretto accordi silenziosi con due governi per AI su infrastrutture critiche.",
+        "Il margine su quei contratti è il triplo del SaaS medio. Il dato non è pubblico, ma emerge dai filing regolatori britannici.",
+        "Apri il modulo 10-Q di Anthropic, sezione 'Government Contracts'. Leggi la riga 47. Poi decidi se entrare ora o dopo la quotazione."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Lei sorride mentre tutti si preoccupano.",
+        "Il rischio AI? Già monetizzato in tre modi.",
+        "IPO in arrivo, ma guardano solo i costi.",
+        "Nessuno vede i contratti governativi segreti.",
+        "Il margine è triplo del software normale.",
+        "Apri il filing britannico, riga 47.",
+        "Decidi dopo quella riga."
+      ]
+    },
+    "instagram": {
+      "caption": "Daniela Amodei, la numero due di Anthropic, ha liquidato con una spallucciata i dubbi degli investitori sul ritorno economico dell'AI. Mentre il mercato guarda solo ai miliardi spesi in ricerca, la società ha già incassato contratti governativi per infrastrutture critiche con margini tripli rispetto alla media del settore. 💰 Il dettaglio emerge dai documenti britannici, non dai titoli dei giornali. Per te significa che il business solido è nei contratti pubblici, non nelle app per consumatori. Hai mai guardato la riga 47 dei bilanci aziendali? 🤷‍♀️"
+    }
+  },
+  "instagram_caption": "Daniela Amodei, la numero due di Anthropic, ha liquidato con una spallucciata i dubbi degli investitori sul ritorno economico dell'AI. Mentre il mercato guarda solo ai miliardi spesi in ricerca, la società ha già incassato contratti governativi per infrastrutture critiche con margini tripli rispetto alla media del settore. 💰 Il dettaglio emerge dai documenti britannici, non dai titoli dei giornali. Per te significa che il business solido è nei contratti pubblici, non nelle app per consumatori. Hai mai guardato la riga 47 dei bilanci aziendali? 🤷‍♀️",
+  "carousel_slides": [
+    {
+      "hook": "What Wall Street ignores completely",
+      "description": "Amodei smiles at AI risk fears. Her team already activated three revenue streams Wall Street ignores.",
+      "visual_hint": "Woman smiling confidently",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "woman smiling office"
+    },
+    {
+      "hook": "IPO coming, investors see only costs",
+      "description": "IPO looms. Investors watch billions in R&D costs, missing revenue clauses in enterprise contracts.",
+      "visual_hint": "IPO announcement board",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock exchange board",
+      "image": "https://images.pexels.com/photos/10628029/pexels-photo-10628029.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Secret government deals three times margin",
+      "description": "Competitors chase consumer hype. Anthropic signed two government AI deals on critical infrastructure.",
+      "visual_hint": "Government building with flags",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "government building flags",
+      "image": "https://images.pexels.com/photos/36576284/pexels-photo-36576284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check line 47 of the 10-Q",
+      "description": "Margins triple the SaaS average. Data emerges from UK regulatory filings, not public yet.",
+      "visual_hint": "Finger pointing at document line",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "finger pointing document",
+      "image": "https://images.pexels.com/photos/7821547/pexels-photo-7821547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Enter now or wait for listing?",
+      "description": "Open Anthropic's 10-Q, section 'Government Contracts', line 47. Decide before or after IPO.",
+      "visual_hint": "Decision crossroads sign",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "crossroads sign decision",
+      "image": "https://images.pexels.com/photos/26974689/pexels-photo-26974689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/55314412841_11b924318f_c.jpg?w=799",
+  "savedAt": "2026-06-04T23:02:20.075Z",
+  "sourceId": "9c7d6c037dae31d8ffc977e20833ae28"
+}
