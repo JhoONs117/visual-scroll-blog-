@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "helion-the-sam-altman-backed-fusion-startup-raises",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
+      "link": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+      "pubDate": "Thu, 04 Jun 2026 18:54:08 +0000",
+      "slides": [
+        "Helion ha incassato 465 milioni, ma resta un intoppo.",
+        "Il reattore deve produrre energia per Microsoft entro il 2028.",
+        "Nessuna azienda ha mai generato elettricità da fusione.",
+        "Non serve crederci, serve monitorare le scadenze.",
+        "Se ce la fa, la fusione diventa un affare subito."
+      ],
+      "thread_text": [
+        "Nessuna azienda ha mai generato elettricità da fusione. Helion ha incassato 465 milioni e promette di farlo entro il 2028 per Microsoft.",
+        "Helion ha un reattore in costruzione. Ma per ora la fusione è ancora un esperimento. Nessuno ha mai trasformato la fusione in corrente elettrica.",
+        "Il contratto con Microsoft è chiaro: se Helion non produce energia entro il 2028, l’accordo decade. Nessuna proroga.",
+        "Non serve credere che ci riusciranno. Serve segnare sul calendario le scadenze. Ogni trimestre senza notizie è un passo verso il fallimento.",
+        "Se Helion ce la fa, la fusione diventa un affare subito. Se non ce la fa, i 465 milioni evaporano. Tu su quale scenario scommetteresti?"
+      ],
+      "video_script": [
+        "Helion ha preso 465 milioni di dollari.",
+        "Promette energia da fusione entro il 2028.",
+        "Ma nessuno ci è mai riuscito.",
+        "Il contratto con Microsoft scade tra tre anni.",
+        "Se non funziona, i soldi svaniscono."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Nessuna azienda ha mai generato elettricità da fusione. Helion ha incassato 465 milioni e promette di farlo entro il 2028 per Microsoft.",
+            "Helion ha un reattore in costruzione. Ma per ora la fusione è ancora un esperimento. Nessuno ha mai trasformato la fusione in corrente elettrica.",
+            "Il contratto con Microsoft è chiaro: se Helion non produce energia entro il 2028, l’accordo decade. Nessuna proroga.",
+            "Non serve credere che ci riusciranno. Serve segnare sul calendario le scadenze. Ogni trimestre senza notizie è un passo verso il fallimento.",
+            "Se Helion ce la fa, la fusione diventa un affare subito. Se non ce la fa, i 465 milioni evaporano. Tu su quale scenario scommetteresti?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Helion ha preso 465 milioni di dollari.",
+            "Promette energia da fusione entro il 2028.",
+            "Ma nessuno ci è mai riuscito.",
+            "Il contratto con Microsoft scade tra tre anni.",
+            "Se non funziona, i soldi svaniscono."
+          ]
+        },
+        "instagram": {
+          "caption": "Helion ha incassato 465 milioni di dollari, ma nessuna azienda al mondo ha mai generato un kilowatt da fusione nucleare. 🧪 La startup promette di accendere una centrale per Microsoft entro il 2028, con una clausola secca: se non produce energia, il contratto decade, zero proroghe. 📅 Per chi lavora nel settore energetico o digitale, è un test concreto: se fallisce, si bruciano soldi e fiducia; se vince, la fusione diventa business immediato. 💥 Tu scommetti che ce la faranno entro la scadenza? ⏳"
+        }
+      },
+      "instagram_caption": "Helion ha incassato 465 milioni di dollari, ma nessuna azienda al mondo ha mai generato un kilowatt da fusione nucleare. 🧪 La startup promette di accendere una centrale per Microsoft entro il 2028, con una clausola secca: se non produce energia, il contratto decade, zero proroghe. 📅 Per chi lavora nel settore energetico o digitale, è un test concreto: se fallisce, si bruciano soldi e fiducia; se vince, la fusione diventa business immediato. 💥 Tu scommetti che ce la faranno entro la scadenza? ⏳",
+      "carousel_slides": [
+        {
+          "hook": "Nessuno ha mai generato fusione",
+          "description": "Nessuna azienda ha mai generato elettricità da fusione. Helion ha incassato 465 milioni e promette di farlo entro il 2028 per Microsoft.",
+          "visual_hint": "power plant at sunset",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "power plant sunset"
+        },
+        {
+          "hook": "Reattore in costruzione, ma",
+          "description": "Helion ha un reattore in costruzione. Ma per ora la fusione è ancora un esperimento. Nessuno ha mai trasformato la fusione in corrente elettrica.",
+          "visual_hint": "fusion reactor blue glow",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "tokamak fusion reactor",
+          "image": "https://images.pexels.com/photos/17485607/pexels-photo-17485607.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scadenza 2028: secca",
+          "description": "Contratto Microsoft: se Helion non produce energia entro il 2028, l'accordo decade. Nessuna proroga.",
+          "visual_hint": "calendar with red X",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "calendar deadline",
+          "image": "https://images.pexels.com/photos/8962466/pexels-photo-8962466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Segna le date, non crederci",
+          "description": "Non serve credere che ci riusciranno. Segna sul calendario le scadenze. Ogni trimestre senza notizie è un passo verso il fallimento.",
+          "visual_hint": "hand marking calendar date",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "hand marking calendar",
+          "image": "https://images.pexels.com/photos/6892904/pexels-photo-6892904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fusione: affare o fumo?",
+          "description": "Se Helion ce la fa, la fusione diventa un affare subito. Se non ce la fa, i 465 milioni evaporano. Su quale scenario scommetteresti?",
+          "visual_hint": "stock market chart up",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Helion-Polaris-D-T.jpeg?resize=1200,800",
+      "savedAt": "2026-06-04T19:55:59.771Z",
+      "sourceId": "c0c0af892bbf3adab0014c01a6e44e65"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "apple-approves-poke-as-the-first-ai-agent-on-its-m",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "pubDate": "Thu, 04 Jun 2026 19:20:58 +0000",
+      "slides": [
+        "Apple ha appena aperto iMessage agli agenti AI?",
+        "Poke è il primo agente approvato su Messages for Business",
+        "Ma Apple non ha mai permesso AI autonome nelle chat",
+        "Se sei un brand, ora puoi delegare il customer service",
+        "Provalo oggi: i tuoi clienti non sapranno di parlare con un bot"
+      ],
+      "thread_text": [
+        "Apple non ha mai permesso AI autonome nelle chat. Finora.",
+        "Questa settimana ha approvato Poke, il primo agente AI su Messages for Business.",
+        "Il customer service che gestivi con umani? Ora puoi passarlo a un bot autorizzato da Apple.",
+        "I tuoi clienti non sapranno di parlare con un AI. Nessun badge, nessun avviso.",
+        "Costa meno di un abbonamento Netflix. Attivalo oggi e testa il primo mese."
+      ],
+      "video_script": [
+        "Apple ha aperto iMessage agli agenti AI.",
+        "Poke è il primo approvato.",
+        "Mai permesso prima.",
+        "Ora i brand possono delegare.",
+        "Provalo, i clienti non se ne accorgono."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Apple non ha mai permesso AI autonome nelle chat. Finora.",
+            "Questa settimana ha approvato Poke, il primo agente AI su Messages for Business.",
+            "Il customer service che gestivi con umani? Ora puoi passarlo a un bot autorizzato da Apple.",
+            "I tuoi clienti non sapranno di parlare con un AI. Nessun badge, nessun avviso.",
+            "Costa meno di un abbonamento Netflix. Attivalo oggi e testa il primo mese."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple ha aperto iMessage agli agenti AI.",
+            "Poke è il primo approvato.",
+            "Mai permesso prima.",
+            "Ora i brand possono delegare.",
+            "Provalo, i clienti non se ne accorgono."
+          ]
+        },
+        "instagram": {
+          "caption": "Apple ha appena dato il via libera a Poke, il primo agente AI a operare su Messages for Business, la piattaforma di messaggistica ufficiale dell'iPhone. Significa che per la prima volta un bot può rispondere alle richieste dei clienti direttamente in iMessage, senza che Apple lo marchi come tale. Il bello? I consumatori non ricevono nessun badge o avviso: parlano con un bot senza saperlo 🤖. Per te che gestisci un brand, il customer service può passare da umani a un sistema approvato, con costi inferiori a un abbonamento Netflix 📱💸. Quanto impatto avrà sull’assunzione di operatori?"
+        }
+      },
+      "instagram_caption": "Apple ha appena dato il via libera a Poke, il primo agente AI a operare su Messages for Business, la piattaforma di messaggistica ufficiale dell'iPhone. Significa che per la prima volta un bot può rispondere alle richieste dei clienti direttamente in iMessage, senza che Apple lo marchi come tale. Il bello? I consumatori non ricevono nessun badge o avviso: parlano con un bot senza saperlo 🤖. Per te che gestisci un brand, il customer service può passare da umani a un sistema approvato, con costi inferiori a un abbonamento Netflix 📱💸. Quanto impatto avrà sull’assunzione di operatori?",
+      "carousel_slides": [
+        {
+          "hook": "Finora. Poi è arrivato Poke.",
+          "description": "Apple non ha mai permesso AI autonome nelle chat. Questa settimana ha approvato Poke, il primo agente su Messages for Business.",
+          "visual_hint": "iPhone con messaggio anomalo",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "iPhone chat screen"
+        },
+        {
+          "hook": "Primo agente AI approvato da Apple",
+          "description": "Poke è il primo agente AI su Messages for Business. Il customer service passa a un bot autorizzato da Apple.",
+          "visual_hint": "Logo Poke con spunta verde",
+          "layout_type": "right-focus",
+          "icon": "check",
+          "image_query": "green checkmark icon",
+          "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Nessun badge, nessun avviso",
+          "description": "I tuoi clienti non sapranno di parlare con un AI. Nessun badge, nessun avviso. Esperienza naturale.",
+          "visual_hint": "Notifica chat senza badge AI",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "chat notification icon",
+          "image": "https://images.pexels.com/photos/11681097/pexels-photo-11681097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Delega il customer service ora",
+          "description": "Se sei un brand, ora puoi delegare il customer service a un bot approvato da Apple. Meno costi, più efficienza.",
+          "visual_hint": "Mano che passa telefono a robot",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "hand smartphone robot",
+          "image": "https://images.pexels.com/photos/7688763/pexels-photo-7688763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costa meno di Netflix. Provalo.",
+          "description": "Attiva Poke oggi. Costa meno di un abbonamento Netflix. Primo mese gratuito.",
+          "visual_hint": "Pagina di attivazione con prezzo",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone payment screen",
+          "image": "https://images.pexels.com/photos/6214367/pexels-photo-6214367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.57.33-PM.jpg?resize=1200,604",
+      "savedAt": "2026-06-04T19:55:46.153Z",
+      "sourceId": "8b644a7e5ea01c416e36f1fafba3a503"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ramp-raises-750m-at-44b-valuation-as-investors-hun",
       "prompt_version": "1.0.0",
       "status": "published",
