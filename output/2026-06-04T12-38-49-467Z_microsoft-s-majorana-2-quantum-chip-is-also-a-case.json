@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-s-majorana-2-quantum-chip-is-also-a-case",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
+  "link": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/",
+  "pubDate": "Wed, 03 Jun 2026 09:00:00 +0000",
+  "slides": [
+    "Majorana 2 esiste, ma non è ancora un computer quantistico.",
+    "Risolve un problema fisico che bloccava il settore da 20 anni.",
+    "Microsoft ha usato agenti AI per progettare e testare il chip.",
+    "Ora i ricercatori umani sfruttano agenti per iterare 10x più veloce.",
+    "Prova subito a far simulare un materiale da un agente AI."
+  ],
+  "thread_text": [
+    "Microsoft ha usato agenti AI per progettare e testare un chip fisico. Non una simulazione, un chip reale — e ha funzionato.",
+    "Quel chip risolve un problema che bloccava il settore dei qubit da 20 anni: stabilizzare Majorana 2. La fisica ora torna in gioco.",
+    "Majorana 2 esiste, ma non è un computer quantistico. È il mattone per costruirlo. Senza quello step, tutto il resto era fumo.",
+    "I ricercatori ora usano agenti AI per iterare esperimenti 10x più veloce. Progettano un materiale oggi, lo testano domani.",
+    "Prendi un prompt su ChatGPT, fallo simulare un materiale per un qubit. Se non l'hai mai fatto, parti da lì."
+  ],
+  "video_script": [
+    "Microsoft ha fatto progettare un chip da AI.",
+    "Risolve un problema fermo da 20 anni.",
+    "Majorana 2 esiste, ma non è un computer.",
+    "Ora i ricercatori iterano dieci volte più veloci.",
+    "Prova a simulare un materiale con un agente. Subito."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Microsoft ha usato agenti AI per progettare e testare un chip fisico. Non una simulazione, un chip reale — e ha funzionato.",
+        "Quel chip risolve un problema che bloccava il settore dei qubit da 20 anni: stabilizzare Majorana 2. La fisica ora torna in gioco.",
+        "Majorana 2 esiste, ma non è un computer quantistico. È il mattone per costruirlo. Senza quello step, tutto il resto era fumo.",
+        "I ricercatori ora usano agenti AI per iterare esperimenti 10x più veloce. Progettano un materiale oggi, lo testano domani.",
+        "Prendi un prompt su ChatGPT, fallo simulare un materiale per un qubit. Se non l'hai mai fatto, parti da lì."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft ha fatto progettare un chip da AI.",
+        "Risolve un problema fermo da 20 anni.",
+        "Majorana 2 esiste, ma non è un computer.",
+        "Ora i ricercatori iterano dieci volte più veloci.",
+        "Prova a simulare un materiale con un agente. Subito."
+      ]
+    },
+    "instagram": {
+      "caption": "Microsoft ha appena costruito un chip quantistico — Majorana 2 — usando un agente AI per progettarlo e testarlo. ⚛️ Non è ancora un computer, ma risolve un problema fisico che teneva fermo il settore da 20 anni: stabilizzare i qubit. Ora i ricercatori umani iterano esperimenti 10 volte più veloci. 🤖 Per te significa che puoi chiedere a un agente AI di simulare un materiale per un nuovo chip direttamente da un prompt. 🔬 Se non l'hai mai fatto, parti da lì."
+    }
+  },
+  "instagram_caption": "Microsoft ha appena costruito un chip quantistico — Majorana 2 — usando un agente AI per progettarlo e testarlo. ⚛️ Non è ancora un computer, ma risolve un problema fisico che teneva fermo il settore da 20 anni: stabilizzare i qubit. Ora i ricercatori umani iterano esperimenti 10 volte più veloci. 🤖 Per te significa che puoi chiedere a un agente AI di simulare un materiale per un nuovo chip direttamente da un prompt. 🔬 Se non l'hai mai fatto, parti da lì.",
+  "carousel_slides": [
+    {
+      "hook": "Progettare chip con AI?",
+      "description": "Microsoft ha usato agenti AI per progettare e testare un chip reale — e ha funzionato.",
+      "visual_hint": "microchip con circuiti",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microchip manufacturing"
+    },
+    {
+      "hook": "Problema risolto in 20 anni",
+      "description": "Il chip risolve un problema fisico che bloccava il settore dei qubit: stabilizzare Majorana 2.",
+      "visual_hint": "particelle quantistiche",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "quantum computer chip",
+      "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non è ancora un computer",
+      "description": "Majorana 2 esiste, ma non è un computer quantistico. È il mattone fondamentale per costruirlo.",
+      "visual_hint": "mattone con logo quantistico",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ricerca 10x più veloce",
+      "description": "I ricercatori usano agenti AI per iterare esperimenti 10x più veloce: progetto oggi, test domani.",
+      "visual_hint": "braccio robotico in laboratorio",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laboratory robot",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Simula un materiale",
+      "description": "Prova subito: fai simulare un materiale per qubit da un agente AI su ChatGPT.",
+      "visual_hint": "schermo con prompt e simulazione",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/10817000/pexels-photo-10817000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-04T12:39:48.126Z",
+  "sourceId": "f25308308401c807bc4969da96f28792"
+}

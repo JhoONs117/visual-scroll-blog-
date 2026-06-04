@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "walmart-s-ai-workflows-meet-the-realities-of-the-b",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Walmart’s AI workflows meet the realities of the balance sheet",
+  "link": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/",
+  "pubDate": "Wed, 03 Jun 2026 09:33:00 +0000",
+  "slides": [
+    "Walmart taglia costi con l'IA, ma a quale prezzo?",
+    "Gli investimenti AI crescono mentre i margini si assottigliano.",
+    "L'efficienza operativa migliora, ma i debiti restano.",
+    "Chi lavora in logistica vedrà cambi di turno drastici.",
+    "Controlla il tuo reparto: l'automazione è già in atto."
+  ],
+  "thread_text": [
+    "Walmart taglia i costi con l'IA, ma i debiti restano. L'efficienza aumenta, i margini si assottigliano. Il vero prezzo lo pagano i lavoratori della logistica.",
+    "Gli investimenti in automazione crescono a doppia cifra ogni trimestre. Le aziende corrono per ottimizzare, ma i bilanci mostrano un paradosso: più AI, più debito.",
+    "Il taglio dei costi operativi non sta ripagando i debiti. Le imprese bruciano cassa per restare competitive, mentre i margini si comprimono.",
+    "In logistica i turni cambieranno drasticamente. Non è una previsione: gli algoritmi già gestiscono la pianificazione e riducono le ore dei turnisti.",
+    "Controlla il tuo reparto oggi. Se due processi manuali possono essere accorpati da un software, l'automazione è già sulla tua scrivania. Inizia da quello.",
+    "Costa meno di un abbonamento Netflix. Testalo su un solo KPI questa settimana."
+  ],
+  "video_script": [
+    "Walmart taglia costi con l'IA, ma i debiti restano.",
+    "Gli investimenti salgono mentre i margini si assottigliano.",
+    "L'efficienza migliora, ma il debito no.",
+    "Chi lavora in logistica vedrà turni stravolti.",
+    "Controlla ora il tuo reparto: l'automazione è già qui."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Walmart taglia i costi con l'IA, ma i debiti restano. L'efficienza aumenta, i margini si assottigliano. Il vero prezzo lo pagano i lavoratori della logistica.",
+        "Gli investimenti in automazione crescono a doppia cifra ogni trimestre. Le aziende corrono per ottimizzare, ma i bilanci mostrano un paradosso: più AI, più debito.",
+        "Il taglio dei costi operativi non sta ripagando i debiti. Le imprese bruciano cassa per restare competitive, mentre i margini si comprimono.",
+        "In logistica i turni cambieranno drasticamente. Non è una previsione: gli algoritmi già gestiscono la pianificazione e riducono le ore dei turnisti.",
+        "Controlla il tuo reparto oggi. Se due processi manuali possono essere accorpati da un software, l'automazione è già sulla tua scrivania. Inizia da quello.",
+        "Costa meno di un abbonamento Netflix. Testalo su un solo KPI questa settimana."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Walmart taglia costi con l'IA, ma i debiti restano.",
+        "Gli investimenti salgono mentre i margini si assottigliano.",
+        "L'efficienza migliora, ma il debito no.",
+        "Chi lavora in logistica vedrà turni stravolti.",
+        "Controlla ora il tuo reparto: l'automazione è già qui."
+      ]
+    },
+    "instagram": {
+      "caption": "Walmart ha investito in IA per tagliare i costi, ma i debiti restano invariati e i margini si assottigliano.  \nPiù automazione significa più efficienza operativa, ma anche più cassa bruciata per restare competitivi.  \nPer chi lavora in logistica: i turni cambieranno drasticamente, perché gli algoritmi già riducono le ore.  \nSe due processi manuali possono essere accorpati in un software, controlla oggi se il tuo reparto è il prossimo 🛒⚙️📉"
+    }
+  },
+  "instagram_caption": "Walmart ha investito in IA per tagliare i costi, ma i debiti restano invariati e i margini si assottigliano.  \nPiù automazione significa più efficienza operativa, ma anche più cassa bruciata per restare competitivi.  \nPer chi lavora in logistica: i turni cambieranno drasticamente, perché gli algoritmi già riducono le ore.  \nSe due processi manuali possono essere accorpati in un software, controlla oggi se il tuo reparto è il prossimo 🛒⚙️📉",
+  "carousel_slides": [
+    {
+      "hook": "Margini che si assottigliano",
+      "description": "Gli investimenti IA crescono a doppia cifra, ma i margini si comprimono. Le aziende bruciano cassa per restare competitive.",
+      "visual_hint": "Grafico margini in calo",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Più AI, più debito",
+      "description": "Il taglio costi non ripaga i debiti. Le imprese corrono per ottimizzare, ma il bilancio mostra un paradosso.",
+      "visual_hint": "Bilancia con monete",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "L'efficienza non basta",
+      "description": "Walmart taglia costi con l'IA, i debiti restano. L'efficienza aumenta ma il vero prezzo lo pagano altri.",
+      "visual_hint": "Ingranaggi con debito",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Turni già riscritti",
+      "description": "In logistica gli algoritmi gestiscono la pianificazione e riducono le ore dei turnisti. Non è una previsione.",
+      "visual_hint": "Mani su schermata turni",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "warehouse workers",
+      "image": "https://images.pexels.com/photos/4480982/pexels-photo-4480982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controlla il tuo reparto",
+      "description": "Se due processi manuali possono essere accorpati da un software, l'automazione è già sulla tua scrivania. Inizia oggi.",
+      "visual_hint": "Checklist su tablet",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-04T12:39:34.620Z",
+  "sourceId": "93861ce488c53f4cfc6248d2c3cabaf6"
+}

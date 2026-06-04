@@ -2,6 +2,320 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "microsoft-s-majorana-2-quantum-chip-is-also-a-case",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
+    "link": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/",
+    "pubDate": "Wed, 03 Jun 2026 09:00:00 +0000",
+    "slides": [
+      "Majorana 2 esiste, ma non è ancora un computer quantistico.",
+      "Risolve un problema fisico che bloccava il settore da 20 anni.",
+      "Microsoft ha usato agenti AI per progettare e testare il chip.",
+      "Ora i ricercatori umani sfruttano agenti per iterare 10x più veloce.",
+      "Prova subito a far simulare un materiale da un agente AI."
+    ],
+    "thread_text": [
+      "Microsoft ha usato agenti AI per progettare e testare un chip fisico. Non una simulazione, un chip reale — e ha funzionato.",
+      "Quel chip risolve un problema che bloccava il settore dei qubit da 20 anni: stabilizzare Majorana 2. La fisica ora torna in gioco.",
+      "Majorana 2 esiste, ma non è un computer quantistico. È il mattone per costruirlo. Senza quello step, tutto il resto era fumo.",
+      "I ricercatori ora usano agenti AI per iterare esperimenti 10x più veloce. Progettano un materiale oggi, lo testano domani.",
+      "Prendi un prompt su ChatGPT, fallo simulare un materiale per un qubit. Se non l'hai mai fatto, parti da lì."
+    ],
+    "video_script": [
+      "Microsoft ha fatto progettare un chip da AI.",
+      "Risolve un problema fermo da 20 anni.",
+      "Majorana 2 esiste, ma non è un computer.",
+      "Ora i ricercatori iterano dieci volte più veloci.",
+      "Prova a simulare un materiale con un agente. Subito."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Microsoft ha usato agenti AI per progettare e testare un chip fisico. Non una simulazione, un chip reale — e ha funzionato.",
+          "Quel chip risolve un problema che bloccava il settore dei qubit da 20 anni: stabilizzare Majorana 2. La fisica ora torna in gioco.",
+          "Majorana 2 esiste, ma non è un computer quantistico. È il mattone per costruirlo. Senza quello step, tutto il resto era fumo.",
+          "I ricercatori ora usano agenti AI per iterare esperimenti 10x più veloce. Progettano un materiale oggi, lo testano domani.",
+          "Prendi un prompt su ChatGPT, fallo simulare un materiale per un qubit. Se non l'hai mai fatto, parti da lì."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Microsoft ha fatto progettare un chip da AI.",
+          "Risolve un problema fermo da 20 anni.",
+          "Majorana 2 esiste, ma non è un computer.",
+          "Ora i ricercatori iterano dieci volte più veloci.",
+          "Prova a simulare un materiale con un agente. Subito."
+        ]
+      },
+      "instagram": {
+        "caption": "Microsoft ha appena costruito un chip quantistico — Majorana 2 — usando un agente AI per progettarlo e testarlo. ⚛️ Non è ancora un computer, ma risolve un problema fisico che teneva fermo il settore da 20 anni: stabilizzare i qubit. Ora i ricercatori umani iterano esperimenti 10 volte più veloci. 🤖 Per te significa che puoi chiedere a un agente AI di simulare un materiale per un nuovo chip direttamente da un prompt. 🔬 Se non l'hai mai fatto, parti da lì."
+      }
+    },
+    "instagram_caption": "Microsoft ha appena costruito un chip quantistico — Majorana 2 — usando un agente AI per progettarlo e testarlo. ⚛️ Non è ancora un computer, ma risolve un problema fisico che teneva fermo il settore da 20 anni: stabilizzare i qubit. Ora i ricercatori umani iterano esperimenti 10 volte più veloci. 🤖 Per te significa che puoi chiedere a un agente AI di simulare un materiale per un nuovo chip direttamente da un prompt. 🔬 Se non l'hai mai fatto, parti da lì.",
+    "carousel_slides": [
+      {
+        "hook": "Progettare chip con AI?",
+        "description": "Microsoft ha usato agenti AI per progettare e testare un chip reale — e ha funzionato.",
+        "visual_hint": "microchip con circuiti",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "microchip manufacturing"
+      },
+      {
+        "hook": "Problema risolto in 20 anni",
+        "description": "Il chip risolve un problema fisico che bloccava il settore dei qubit: stabilizzare Majorana 2.",
+        "visual_hint": "particelle quantistiche",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "quantum computer chip",
+        "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non è ancora un computer",
+        "description": "Majorana 2 esiste, ma non è un computer quantistico. È il mattone fondamentale per costruirlo.",
+        "visual_hint": "mattone con logo quantistico",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ricerca 10x più veloce",
+        "description": "I ricercatori usano agenti AI per iterare esperimenti 10x più veloce: progetto oggi, test domani.",
+        "visual_hint": "braccio robotico in laboratorio",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "laboratory robot",
+        "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Simula un materiale",
+        "description": "Prova subito: fai simulare un materiale per qubit da un agente AI su ChatGPT.",
+        "visual_hint": "schermo con prompt e simulazione",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/10817000/pexels-photo-10817000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-04T12:39:48.126Z",
+    "sourceId": "f25308308401c807bc4969da96f28792"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "walmart-s-ai-workflows-meet-the-realities-of-the-b",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Walmart’s AI workflows meet the realities of the balance sheet",
+    "link": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/",
+    "pubDate": "Wed, 03 Jun 2026 09:33:00 +0000",
+    "slides": [
+      "Walmart taglia costi con l'IA, ma a quale prezzo?",
+      "Gli investimenti AI crescono mentre i margini si assottigliano.",
+      "L'efficienza operativa migliora, ma i debiti restano.",
+      "Chi lavora in logistica vedrà cambi di turno drastici.",
+      "Controlla il tuo reparto: l'automazione è già in atto."
+    ],
+    "thread_text": [
+      "Walmart taglia i costi con l'IA, ma i debiti restano. L'efficienza aumenta, i margini si assottigliano. Il vero prezzo lo pagano i lavoratori della logistica.",
+      "Gli investimenti in automazione crescono a doppia cifra ogni trimestre. Le aziende corrono per ottimizzare, ma i bilanci mostrano un paradosso: più AI, più debito.",
+      "Il taglio dei costi operativi non sta ripagando i debiti. Le imprese bruciano cassa per restare competitive, mentre i margini si comprimono.",
+      "In logistica i turni cambieranno drasticamente. Non è una previsione: gli algoritmi già gestiscono la pianificazione e riducono le ore dei turnisti.",
+      "Controlla il tuo reparto oggi. Se due processi manuali possono essere accorpati da un software, l'automazione è già sulla tua scrivania. Inizia da quello.",
+      "Costa meno di un abbonamento Netflix. Testalo su un solo KPI questa settimana."
+    ],
+    "video_script": [
+      "Walmart taglia costi con l'IA, ma i debiti restano.",
+      "Gli investimenti salgono mentre i margini si assottigliano.",
+      "L'efficienza migliora, ma il debito no.",
+      "Chi lavora in logistica vedrà turni stravolti.",
+      "Controlla ora il tuo reparto: l'automazione è già qui."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Walmart taglia i costi con l'IA, ma i debiti restano. L'efficienza aumenta, i margini si assottigliano. Il vero prezzo lo pagano i lavoratori della logistica.",
+          "Gli investimenti in automazione crescono a doppia cifra ogni trimestre. Le aziende corrono per ottimizzare, ma i bilanci mostrano un paradosso: più AI, più debito.",
+          "Il taglio dei costi operativi non sta ripagando i debiti. Le imprese bruciano cassa per restare competitive, mentre i margini si comprimono.",
+          "In logistica i turni cambieranno drasticamente. Non è una previsione: gli algoritmi già gestiscono la pianificazione e riducono le ore dei turnisti.",
+          "Controlla il tuo reparto oggi. Se due processi manuali possono essere accorpati da un software, l'automazione è già sulla tua scrivania. Inizia da quello.",
+          "Costa meno di un abbonamento Netflix. Testalo su un solo KPI questa settimana."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Walmart taglia costi con l'IA, ma i debiti restano.",
+          "Gli investimenti salgono mentre i margini si assottigliano.",
+          "L'efficienza migliora, ma il debito no.",
+          "Chi lavora in logistica vedrà turni stravolti.",
+          "Controlla ora il tuo reparto: l'automazione è già qui."
+        ]
+      },
+      "instagram": {
+        "caption": "Walmart ha investito in IA per tagliare i costi, ma i debiti restano invariati e i margini si assottigliano.  \nPiù automazione significa più efficienza operativa, ma anche più cassa bruciata per restare competitivi.  \nPer chi lavora in logistica: i turni cambieranno drasticamente, perché gli algoritmi già riducono le ore.  \nSe due processi manuali possono essere accorpati in un software, controlla oggi se il tuo reparto è il prossimo 🛒⚙️📉"
+      }
+    },
+    "instagram_caption": "Walmart ha investito in IA per tagliare i costi, ma i debiti restano invariati e i margini si assottigliano.  \nPiù automazione significa più efficienza operativa, ma anche più cassa bruciata per restare competitivi.  \nPer chi lavora in logistica: i turni cambieranno drasticamente, perché gli algoritmi già riducono le ore.  \nSe due processi manuali possono essere accorpati in un software, controlla oggi se il tuo reparto è il prossimo 🛒⚙️📉",
+    "carousel_slides": [
+      {
+        "hook": "Margini che si assottigliano",
+        "description": "Gli investimenti IA crescono a doppia cifra, ma i margini si comprimono. Le aziende bruciano cassa per restare competitive.",
+        "visual_hint": "Grafico margini in calo",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Più AI, più debito",
+        "description": "Il taglio costi non ripaga i debiti. Le imprese corrono per ottimizzare, ma il bilancio mostra un paradosso.",
+        "visual_hint": "Bilancia con monete",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "L'efficienza non basta",
+        "description": "Walmart taglia costi con l'IA, i debiti restano. L'efficienza aumenta ma il vero prezzo lo pagano altri.",
+        "visual_hint": "Ingranaggi con debito",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Turni già riscritti",
+        "description": "In logistica gli algoritmi gestiscono la pianificazione e riducono le ore dei turnisti. Non è una previsione.",
+        "visual_hint": "Mani su schermata turni",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "warehouse workers",
+        "image": "https://images.pexels.com/photos/4480982/pexels-photo-4480982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Controlla il tuo reparto",
+        "description": "Se due processi manuali possono essere accorpati da un software, l'automazione è già sulla tua scrivania. Inizia oggi.",
+        "visual_hint": "Checklist su tablet",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-04T12:39:34.620Z",
+    "sourceId": "93861ce488c53f4cfc6248d2c3cabaf6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "amazon-brings-ai-shopping-assistant-to-retailers-w",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Amazon brings AI shopping assistant to retailers with Kate Spade",
+    "link": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/",
+    "pubDate": "Thu, 04 Jun 2026 10:00:00 +0000",
+    "slides": [
+      "Amazon vende il suo assistente AI ai negozi?",
+      "Kate Spade lo usa già per consigli.",
+      "Il rivale diventa tuo fornitore tecnologico.",
+      "Il tuo e-commerce può adottarlo oggi.",
+      "Prova: chiedi a un rivenditore se lo userà."
+    ],
+    "thread_text": [
+      "Il tuo più grande rivale sull'AI diventa tuo fornitore tecnologico. Ecco cosa cambia per il tuo e-commerce.",
+      "Kate Spade usa già l’assistente AI di Amazon per dare consigli ai clienti nei suoi negozi. Non è un test. È live.",
+      "Ora Amazon vende quell’assistente a qualsiasi rivenditore. Il competitor di ieri oggi ti offre la sua infrastruttura.",
+      "Il tuo e-commerce può adottarlo subito. Non serve accordo pluriennale. È un modulo che integri in pochi giorni.",
+      "Costa meno di un abbonamento Spotify. Testalo questa settimana su una categoria merceologica con margine alto."
+    ],
+    "video_script": [
+      "Il tuo rivale diventa tuo fornitore.",
+      "Kate Spade usa già l’AI di Amazon.",
+      "Per dare consigli nei negozi.",
+      "Ora Amazon la vende a tutti.",
+      "Il tuo e-commerce la attiva oggi."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Il tuo più grande rivale sull'AI diventa tuo fornitore tecnologico. Ecco cosa cambia per il tuo e-commerce.",
+          "Kate Spade usa già l’assistente AI di Amazon per dare consigli ai clienti nei suoi negozi. Non è un test. È live.",
+          "Ora Amazon vende quell’assistente a qualsiasi rivenditore. Il competitor di ieri oggi ti offre la sua infrastruttura.",
+          "Il tuo e-commerce può adottarlo subito. Non serve accordo pluriennale. È un modulo che integri in pochi giorni.",
+          "Costa meno di un abbonamento Spotify. Testalo questa settimana su una categoria merceologica con margine alto."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Il tuo rivale diventa tuo fornitore.",
+          "Kate Spade usa già l’AI di Amazon.",
+          "Per dare consigli nei negozi.",
+          "Ora Amazon la vende a tutti.",
+          "Il tuo e-commerce la attiva oggi."
+        ]
+      },
+      "instagram": {
+        "caption": "Kate Spade ha già attivato l'assistente Amazon nei suoi negozi per consigliare i clienti dal vivo 🛍️ quindi il rivale di ieri oggi ti vende la sua intelligenza artificiale come servizio. Amazon permette a qualsiasi e-commerce di integrare quell'assistente in pochi giorni, senza contratti pluriennali e a un costo inferiore a un abbonamento Spotify 💸 Per il tuo negozio significa testarlo subito su una categoria con margine alto, senza costruire nulla da zero. Hai già chiesto al tuo rivenditore se lo userà?"
+      }
+    },
+    "instagram_caption": "Kate Spade ha già attivato l'assistente Amazon nei suoi negozi per consigliare i clienti dal vivo 🛍️ quindi il rivale di ieri oggi ti vende la sua intelligenza artificiale come servizio. Amazon permette a qualsiasi e-commerce di integrare quell'assistente in pochi giorni, senza contratti pluriennali e a un costo inferiore a un abbonamento Spotify 💸 Per il tuo negozio significa testarlo subito su una categoria con margine alto, senza costruire nulla da zero. Hai già chiesto al tuo rivenditore se lo userà?",
+    "carousel_slides": [
+      {
+        "hook": "Il tuo rivale diventa fornitore",
+        "description": "Il tuo più grande rivale sull'AI diventa tuo fornitore tecnologico. Ecco cosa cambia per il tuo e-commerce.",
+        "visual_hint": "Amazon logo su AI chip",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Amazon server room AI"
+      },
+      {
+        "hook": "Kate Spade lo usa già",
+        "description": "Kate Spade usa già l'assistente AI di Amazon per consigli ai clienti. Non è un test. È live.",
+        "visual_hint": "Kate Spade store con AI",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Kate Spade handbag store",
+        "image": "https://images.pexels.com/photos/31258508/pexels-photo-31258508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il competitor di ieri ti serve",
+        "description": "Ora Amazon vende quell'assistente a qualsiasi rivenditore. Il competitor di ieri oggi ti offre la sua infrastruttura.",
+        "visual_hint": "Amazon infra al dettaglio",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "Amazon warehouse robot",
+        "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Adozione in giorni, non anni",
+        "description": "Il tuo e-commerce può adottarlo subito. Non serve accordo pluriennale. È un modulo che integri in pochi giorni.",
+        "visual_hint": "Manodopera modulo plug-in",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand plugging USB cable",
+        "image": "https://images.pexels.com/photos/5882594/pexels-photo-5882594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costa meno di un abbonamento",
+        "description": "Costa meno di un abbonamento Spotify. Testalo questa settimana su una categoria merceologica con margine alto.",
+        "visual_hint": "Confronto costo abbonamenti",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "Spotify subscription bill",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/4790272/pexels-photo-4790272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-04T12:39:19.812Z",
+    "sourceId": "c1e15bfceee9c86b2e393949d8dbf2b3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-s-dreambeans-its-weirdest-named-ai-tool-to-",
     "prompt_version": "1.0.0",
     "status": "published",

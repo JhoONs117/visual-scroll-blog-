@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amazon-brings-ai-shopping-assistant-to-retailers-w",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Amazon brings AI shopping assistant to retailers with Kate Spade",
+  "link": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/",
+  "pubDate": "Thu, 04 Jun 2026 10:00:00 +0000",
+  "slides": [
+    "Amazon vende il suo assistente AI ai negozi?",
+    "Kate Spade lo usa già per consigli.",
+    "Il rivale diventa tuo fornitore tecnologico.",
+    "Il tuo e-commerce può adottarlo oggi.",
+    "Prova: chiedi a un rivenditore se lo userà."
+  ],
+  "thread_text": [
+    "Il tuo più grande rivale sull'AI diventa tuo fornitore tecnologico. Ecco cosa cambia per il tuo e-commerce.",
+    "Kate Spade usa già l’assistente AI di Amazon per dare consigli ai clienti nei suoi negozi. Non è un test. È live.",
+    "Ora Amazon vende quell’assistente a qualsiasi rivenditore. Il competitor di ieri oggi ti offre la sua infrastruttura.",
+    "Il tuo e-commerce può adottarlo subito. Non serve accordo pluriennale. È un modulo che integri in pochi giorni.",
+    "Costa meno di un abbonamento Spotify. Testalo questa settimana su una categoria merceologica con margine alto."
+  ],
+  "video_script": [
+    "Il tuo rivale diventa tuo fornitore.",
+    "Kate Spade usa già l’AI di Amazon.",
+    "Per dare consigli nei negozi.",
+    "Ora Amazon la vende a tutti.",
+    "Il tuo e-commerce la attiva oggi."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il tuo più grande rivale sull'AI diventa tuo fornitore tecnologico. Ecco cosa cambia per il tuo e-commerce.",
+        "Kate Spade usa già l’assistente AI di Amazon per dare consigli ai clienti nei suoi negozi. Non è un test. È live.",
+        "Ora Amazon vende quell’assistente a qualsiasi rivenditore. Il competitor di ieri oggi ti offre la sua infrastruttura.",
+        "Il tuo e-commerce può adottarlo subito. Non serve accordo pluriennale. È un modulo che integri in pochi giorni.",
+        "Costa meno di un abbonamento Spotify. Testalo questa settimana su una categoria merceologica con margine alto."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Il tuo rivale diventa tuo fornitore.",
+        "Kate Spade usa già l’AI di Amazon.",
+        "Per dare consigli nei negozi.",
+        "Ora Amazon la vende a tutti.",
+        "Il tuo e-commerce la attiva oggi."
+      ]
+    },
+    "instagram": {
+      "caption": "Kate Spade ha già attivato l'assistente Amazon nei suoi negozi per consigliare i clienti dal vivo 🛍️ quindi il rivale di ieri oggi ti vende la sua intelligenza artificiale come servizio. Amazon permette a qualsiasi e-commerce di integrare quell'assistente in pochi giorni, senza contratti pluriennali e a un costo inferiore a un abbonamento Spotify 💸 Per il tuo negozio significa testarlo subito su una categoria con margine alto, senza costruire nulla da zero. Hai già chiesto al tuo rivenditore se lo userà?"
+    }
+  },
+  "instagram_caption": "Kate Spade ha già attivato l'assistente Amazon nei suoi negozi per consigliare i clienti dal vivo 🛍️ quindi il rivale di ieri oggi ti vende la sua intelligenza artificiale come servizio. Amazon permette a qualsiasi e-commerce di integrare quell'assistente in pochi giorni, senza contratti pluriennali e a un costo inferiore a un abbonamento Spotify 💸 Per il tuo negozio significa testarlo subito su una categoria con margine alto, senza costruire nulla da zero. Hai già chiesto al tuo rivenditore se lo userà?",
+  "carousel_slides": [
+    {
+      "hook": "Il tuo rivale diventa fornitore",
+      "description": "Il tuo più grande rivale sull'AI diventa tuo fornitore tecnologico. Ecco cosa cambia per il tuo e-commerce.",
+      "visual_hint": "Amazon logo su AI chip",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Amazon server room AI"
+    },
+    {
+      "hook": "Kate Spade lo usa già",
+      "description": "Kate Spade usa già l'assistente AI di Amazon per consigli ai clienti. Non è un test. È live.",
+      "visual_hint": "Kate Spade store con AI",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Kate Spade handbag store",
+      "image": "https://images.pexels.com/photos/31258508/pexels-photo-31258508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il competitor di ieri ti serve",
+      "description": "Ora Amazon vende quell'assistente a qualsiasi rivenditore. Il competitor di ieri oggi ti offre la sua infrastruttura.",
+      "visual_hint": "Amazon infra al dettaglio",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "Amazon warehouse robot",
+      "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Adozione in giorni, non anni",
+      "description": "Il tuo e-commerce può adottarlo subito. Non serve accordo pluriennale. È un modulo che integri in pochi giorni.",
+      "visual_hint": "Manodopera modulo plug-in",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand plugging USB cable",
+      "image": "https://images.pexels.com/photos/5882594/pexels-photo-5882594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costa meno di un abbonamento",
+      "description": "Costa meno di un abbonamento Spotify. Testalo questa settimana su una categoria merceologica con margine alto.",
+      "visual_hint": "Confronto costo abbonamenti",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Spotify subscription bill",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/4790272/pexels-photo-4790272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-04T12:39:19.812Z",
+  "sourceId": "c1e15bfceee9c86b2e393949d8dbf2b3"
+}
