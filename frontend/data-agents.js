@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "google-s-dreambeans-its-weirdest-named-ai-tool-to-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "pubDate": "Wed, 03 Jun 2026 19:07:42 +0000",
+      "slides": [
+        "Google Dreambeans trasformerà la tua vita in un cartone?",
+        "L'IA impara dal tuo album fotografico personale.",
+        "Ma può preservare dettagli che tu dimentichi di selezionare.",
+        "Chi lo prova oggi vedrà la propria routine stravolta visivamente.",
+        "Carica una foto: il cartoon potrebbe rivelare qualcosa di inaspettato."
+      ],
+      "thread_text": [
+        "Carichi una foto e il cartoon ti mostra cose che non avevi mai notato. Ecco perché Google Dreambeans non è solo un filtro.",
+        "L'IA analizza il tuo album fotografico personale per imparare i tuoi ricordi, i dettagli che tu stesso dimentichi di selezionare.",
+        "Il risultato? La tua routine quotidiana viene stravolta visivamente: ogni scatto diventa una storia animata che ti sorprende.",
+        "Ma il lato inquietante è che il sistema preserva particolari che forse non volevi fossero visibili. La privacy diventa una scelta implicita.",
+        "Provalo oggi: carica una foto e scopri cosa il cartoon rivela di te che non sapevi. Costa zero e ti cambia la prospettiva."
+      ],
+      "video_script": [
+        "Carichi una foto e diventi un cartone animato.",
+        "L'IA fruga nel tuo album fotografico.",
+        "Nota dettagli che tu stesso ignori.",
+        "La tua giornata cambia aspetto completamente.",
+        "Provalo: potrebbe mostrarti qualcosa di inaspettato."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Carichi una foto e il cartoon ti mostra cose che non avevi mai notato. Ecco perché Google Dreambeans non è solo un filtro.",
+            "L'IA analizza il tuo album fotografico personale per imparare i tuoi ricordi, i dettagli che tu stesso dimentichi di selezionare.",
+            "Il risultato? La tua routine quotidiana viene stravolta visivamente: ogni scatto diventa una storia animata che ti sorprende.",
+            "Ma il lato inquietante è che il sistema preserva particolari che forse non volevi fossero visibili. La privacy diventa una scelta implicita.",
+            "Provalo oggi: carica una foto e scopri cosa il cartoon rivela di te che non sapevi. Costa zero e ti cambia la prospettiva."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Carichi una foto e diventi un cartone animato.",
+            "L'IA fruga nel tuo album fotografico.",
+            "Nota dettagli che tu stesso ignori.",
+            "La tua giornata cambia aspetto completamente.",
+            "Provalo: potrebbe mostrarti qualcosa di inaspettato."
+          ]
+        },
+        "instagram": {
+          "caption": "Scarichi la foto della tua colazione e il cartone animato ti mostra il volto di tua zia riflesso nella teiera. Google Dreambeans ha imparato a leggere la tua vita dal tuo album fotografico, e preserva dettagli che neppure tu ricordavi di avere scattato. Il sistema cambia la tua routine quotidiana in una storia animata personalizzata, ma il lato inquietante è che decide lui cosa mostrare. 🖼️💰🎞️ Cosa sei disposto a rivelare di te per vedere la tua vita a cartoni animati?"
+        }
+      },
+      "instagram_caption": "Scarichi la foto della tua colazione e il cartone animato ti mostra il volto di tua zia riflesso nella teiera. Google Dreambeans ha imparato a leggere la tua vita dal tuo album fotografico, e preserva dettagli che neppure tu ricordavi di avere scattato. Il sistema cambia la tua routine quotidiana in una storia animata personalizzata, ma il lato inquietante è che decide lui cosa mostrare. 🖼️💰🎞️ Cosa sei disposto a rivelare di te per vedere la tua vita a cartoni animati?",
+      "carousel_slides": [
+        {
+          "hook": "Cosa nasconde la tua foto?",
+          "description": "Google Dreambeans non è solo un filtro. Il cartoon potrebbe rivelare dettagli che non avevi mai notato.",
+          "visual_hint": "foto si trasforma in cartoon",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "photo album smartphone"
+        },
+        {
+          "hook": "La IA scruta i tuoi ricordi",
+          "description": "Analizza il tuo album personale per imparare i dettagli che tu stesso dimentichi di selezionare.",
+          "visual_hint": "fotografie digitali analizzate",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room racks",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Routine diventa cartone animato",
+          "description": "La tua quotidianità viene stravolta visivamente: ogni scatto diventa una storia animata che ti sorprende.",
+          "visual_hint": "persona cammina trasformata",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Particolari che forse non vuoi",
+          "description": "Il sistema preserva dettagli intimi. La privacy diventa una scelta implicita.",
+          "visual_hint": "occhio che guarda dettaglio",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone screen hand",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova: cosa rivela di te?",
+          "description": "Carica una foto gratis. Scopri cosa il cartoon rivela di te che non sapevi. Ti cambia prospettiva.",
+          "visual_hint": "dito clicca carica foto",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels field",
+          "image": "https://images.pexels.com/photos/27637329/pexels-photo-27637329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-9.13.33-AM.png?resize=1200,667",
+      "savedAt": "2026-06-04T08:13:28.923Z",
+      "sourceId": "51fe822e196e00e4861c24e12c6abce2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "benchmark-raises-its-first-ever-growth-fund-as-par",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
+      "link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
+      "pubDate": "Thu, 04 Jun 2026 03:52:15 +0000",
+      "slides": [
+        "Benchmark raccoglie $2 miliardi ma cambia strategia?",
+        "Il fondo growth debutta, non solo early stage",
+        "Prima volta in 30 anni: venture capital ibrido",
+        "Startup in fase matura ora hanno un nuovo option",
+        "Il rischio: diluire il focus o moltiplicare le chance?"
+      ],
+      "thread_text": [
+        "Un fondo di venture capital ha appena raccolto 2 miliardi e sta cambiando strategia. Per la prima volta in 30 anni, non sarà solo early stage.",
+        "Finora i fondi erano specializzati: o scommettevi su startup appena nate, o su aziende già mature. Questo modello sta morendo.",
+        "Il nuovo fondo è ibrido: punta su startup in fase di crescita, ma con una struttura da venture capital. Un'opzione che prima non esisteva.",
+        "Per le startup mature è una svolta: possono accedere a capitali con logiche da early stage, senza passare dai fondi tradizionali.",
+        "Il rischio? Se gestisci tutto insieme, diluisci il focus. Ma se funziona, moltiplichi le chance di successo. Tu da che parte scommetti?"
+      ],
+      "video_script": [
+        "Hanno raccolto 2 miliardi ma cambiano tutto.",
+        "Per trent'anni i fondi erano specializzati.",
+        "Ora lanciano un fondo ibrido.",
+        "Startup mature hanno una nuova opzione.",
+        "Rischio: diluire o moltiplicare le chance?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Un fondo di venture capital ha appena raccolto 2 miliardi e sta cambiando strategia. Per la prima volta in 30 anni, non sarà solo early stage.",
+            "Finora i fondi erano specializzati: o scommettevi su startup appena nate, o su aziende già mature. Questo modello sta morendo.",
+            "Il nuovo fondo è ibrido: punta su startup in fase di crescita, ma con una struttura da venture capital. Un'opzione che prima non esisteva.",
+            "Per le startup mature è una svolta: possono accedere a capitali con logiche da early stage, senza passare dai fondi tradizionali.",
+            "Il rischio? Se gestisci tutto insieme, diluisci il focus. Ma se funziona, moltiplichi le chance di successo. Tu da che parte scommetti?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hanno raccolto 2 miliardi ma cambiano tutto.",
+            "Per trent'anni i fondi erano specializzati.",
+            "Ora lanciano un fondo ibrido.",
+            "Startup mature hanno una nuova opzione.",
+            "Rischio: diluire o moltiplicare le chance?"
+          ]
+        },
+        "instagram": {
+          "caption": "2 miliardi raccolti da Benchmark, primo fondo growth in 30 anni di storia. 💰 Il venture capital cambia: non più solo scommesse su startup appena nate, ma anche su aziende già in fase matura, con la stessa flessibilità dei fondi early-stage. 🚀 Per chi ha un'azienda in crescita, si apre un'opzione inedita: capitali freschi con logiche più rapide, senza passare dai circuiti tradizionali. Il rischio è diluire il focus, ma se funziona si moltiplicano le chance. Tu scommetteresti su un modello ibrido? ⚖️"
+        }
+      },
+      "instagram_caption": "2 miliardi raccolti da Benchmark, primo fondo growth in 30 anni di storia. 💰 Il venture capital cambia: non più solo scommesse su startup appena nate, ma anche su aziende già in fase matura, con la stessa flessibilità dei fondi early-stage. 🚀 Per chi ha un'azienda in crescita, si apre un'opzione inedita: capitali freschi con logiche più rapide, senza passare dai circuiti tradizionali. Il rischio è diluire il focus, ma se funziona si moltiplicano le chance. Tu scommetteresti su un modello ibrido? ⚖️",
+      "carousel_slides": [
+        {
+          "hook": "Prima volta in 30 anni",
+          "description": "Per la prima volta in 30 anni, Benchmark cambia strategia e debutta con un fondo growth oltre all'early stage.",
+          "visual_hint": "30 anni su calendario vintage",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "vintage calendar 30 years"
+        },
+        {
+          "hook": "Il modello ibrido vince?",
+          "description": "Non più solo early stage: il nuovo fondo è ibrido, punta su startup in crescita con logiche da venture capital.",
+          "visual_hint": "Freccia che unisce due poli",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "merging arrows diagram",
+          "image": "https://images.pexels.com/photos/7948009/pexels-photo-7948009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Nuova opzione per startup mature",
+          "description": "Startup in fase matura ora accedono a capitali con logiche da early stage, senza passare da fondi tradizionali.",
+          "visual_hint": "Scale di crescita sovrapposte",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "growth stages chart",
+          "image": "https://images.pexels.com/photos/8068693/pexels-photo-8068693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rischio o moltiplicazione?",
+          "description": "Il rischio? Diluire il focus gestendo tutto insieme. Ma se funziona, moltiplichi le chance di successo.",
+          "visual_hint": "Bilancia con due piatti",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "balance scale two plates",
+          "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tu da che parte scommetti?",
+          "description": "Da che parte scommetti? Il venture capital ibrido è un'opzione che prima non esisteva.",
+          "visual_hint": "Punto interrogativo su grafico",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "question mark stock chart",
+          "image": "https://images.pexels.com/photos/7948054/pexels-photo-7948054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2014/10/docker-peter-fenton-4.jpg?resize=1200,800",
+      "savedAt": "2026-06-04T08:13:14.635Z",
+      "sourceId": "788f5071a2fbf1121561de7a4952eb81"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "gitlab-cuts-14-of-staff-as-it-scales-its-platform-",
       "prompt_version": "1.0.0",
       "status": "published",

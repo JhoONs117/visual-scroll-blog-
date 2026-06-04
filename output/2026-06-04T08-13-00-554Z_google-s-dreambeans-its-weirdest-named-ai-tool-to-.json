@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-dreambeans-its-weirdest-named-ai-tool-to-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+  "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+  "pubDate": "Wed, 03 Jun 2026 19:07:42 +0000",
+  "slides": [
+    "Google Dreambeans trasformerà la tua vita in un cartone?",
+    "L'IA impara dal tuo album fotografico personale.",
+    "Ma può preservare dettagli che tu dimentichi di selezionare.",
+    "Chi lo prova oggi vedrà la propria routine stravolta visivamente.",
+    "Carica una foto: il cartoon potrebbe rivelare qualcosa di inaspettato."
+  ],
+  "thread_text": [
+    "Carichi una foto e il cartoon ti mostra cose che non avevi mai notato. Ecco perché Google Dreambeans non è solo un filtro.",
+    "L'IA analizza il tuo album fotografico personale per imparare i tuoi ricordi, i dettagli che tu stesso dimentichi di selezionare.",
+    "Il risultato? La tua routine quotidiana viene stravolta visivamente: ogni scatto diventa una storia animata che ti sorprende.",
+    "Ma il lato inquietante è che il sistema preserva particolari che forse non volevi fossero visibili. La privacy diventa una scelta implicita.",
+    "Provalo oggi: carica una foto e scopri cosa il cartoon rivela di te che non sapevi. Costa zero e ti cambia la prospettiva."
+  ],
+  "video_script": [
+    "Carichi una foto e diventi un cartone animato.",
+    "L'IA fruga nel tuo album fotografico.",
+    "Nota dettagli che tu stesso ignori.",
+    "La tua giornata cambia aspetto completamente.",
+    "Provalo: potrebbe mostrarti qualcosa di inaspettato."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Carichi una foto e il cartoon ti mostra cose che non avevi mai notato. Ecco perché Google Dreambeans non è solo un filtro.",
+        "L'IA analizza il tuo album fotografico personale per imparare i tuoi ricordi, i dettagli che tu stesso dimentichi di selezionare.",
+        "Il risultato? La tua routine quotidiana viene stravolta visivamente: ogni scatto diventa una storia animata che ti sorprende.",
+        "Ma il lato inquietante è che il sistema preserva particolari che forse non volevi fossero visibili. La privacy diventa una scelta implicita.",
+        "Provalo oggi: carica una foto e scopri cosa il cartoon rivela di te che non sapevi. Costa zero e ti cambia la prospettiva."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Carichi una foto e diventi un cartone animato.",
+        "L'IA fruga nel tuo album fotografico.",
+        "Nota dettagli che tu stesso ignori.",
+        "La tua giornata cambia aspetto completamente.",
+        "Provalo: potrebbe mostrarti qualcosa di inaspettato."
+      ]
+    },
+    "instagram": {
+      "caption": "Scarichi la foto della tua colazione e il cartone animato ti mostra il volto di tua zia riflesso nella teiera. Google Dreambeans ha imparato a leggere la tua vita dal tuo album fotografico, e preserva dettagli che neppure tu ricordavi di avere scattato. Il sistema cambia la tua routine quotidiana in una storia animata personalizzata, ma il lato inquietante è che decide lui cosa mostrare. 🖼️💰🎞️ Cosa sei disposto a rivelare di te per vedere la tua vita a cartoni animati?"
+    }
+  },
+  "instagram_caption": "Scarichi la foto della tua colazione e il cartone animato ti mostra il volto di tua zia riflesso nella teiera. Google Dreambeans ha imparato a leggere la tua vita dal tuo album fotografico, e preserva dettagli che neppure tu ricordavi di avere scattato. Il sistema cambia la tua routine quotidiana in una storia animata personalizzata, ma il lato inquietante è che decide lui cosa mostrare. 🖼️💰🎞️ Cosa sei disposto a rivelare di te per vedere la tua vita a cartoni animati?",
+  "carousel_slides": [
+    {
+      "hook": "Cosa nasconde la tua foto?",
+      "description": "Google Dreambeans non è solo un filtro. Il cartoon potrebbe rivelare dettagli che non avevi mai notato.",
+      "visual_hint": "foto si trasforma in cartoon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "photo album smartphone"
+    },
+    {
+      "hook": "La IA scruta i tuoi ricordi",
+      "description": "Analizza il tuo album personale per imparare i dettagli che tu stesso dimentichi di selezionare.",
+      "visual_hint": "fotografie digitali analizzate",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room racks",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Routine diventa cartone animato",
+      "description": "La tua quotidianità viene stravolta visivamente: ogni scatto diventa una storia animata che ti sorprende.",
+      "visual_hint": "persona cammina trasformata",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Particolari che forse non vuoi",
+      "description": "Il sistema preserva dettagli intimi. La privacy diventa una scelta implicita.",
+      "visual_hint": "occhio che guarda dettaglio",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone screen hand",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova: cosa rivela di te?",
+      "description": "Carica una foto gratis. Scopri cosa il cartoon rivela di te che non sapevi. Ti cambia prospettiva.",
+      "visual_hint": "dito clicca carica foto",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels field",
+      "image": "https://images.pexels.com/photos/27637329/pexels-photo-27637329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-9.13.33-AM.png?resize=1200,667",
+  "savedAt": "2026-06-04T08:13:28.923Z",
+  "sourceId": "51fe822e196e00e4861c24e12c6abce2"
+}
