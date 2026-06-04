@@ -2,9 +2,321 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
-    "slug": "microsoft-s-majorana-2-quantum-chip-is-also-a-case",
+    "slug": "ramp-raises-750m-at-44b-valuation-as-investors-hun",
     "prompt_version": "1.0.0",
     "status": "published",
+    "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
+    "link": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
+    "pubDate": "Thu, 04 Jun 2026 15:08:34 +0000",
+    "slides": [
+      "Ramp raccoglie 750 milioni, ma a che costo?",
+      "La valutazione sale a 44 miliardi di dollari.",
+      "Non vende software: usa l'IA per risparmiare soldi.",
+      "Chi ha spese aziendali può ridurle del 5% subito.",
+      "Prova oggi a confrontare le tue spese con Ramp."
+    ],
+    "thread_text": [
+      "Ramp non vende software. Usa l'IA per tagliare le spese aziendali. Risultato? Il 5% in meno, subito.",
+      "Hanno appena raccolto 750 milioni di dollari. La valutazione? 44 miliardi.",
+      "Il prodotto è semplice: confronti le tue spese, l'IA trova dove risparmiare. Nessun abbonamento mensile da 50k.",
+      "Funziona già per centinaia di aziende. Il risparmio medio è del 5% netto, senza interventi umani.",
+      "Costa meno di un abbonamento Netflix aziendale. Prova oggi a confrontare le tue spese con Ramp."
+    ],
+    "video_script": [
+      "Ramp ha raccolto 750 milioni.",
+      "Valutazione: 44 miliardi di dollari.",
+      "Non vendono software, tagliano spese.",
+      "Il 5% in meno, subito.",
+      "Prova oggi, confronta le tue spese."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Ramp non vende software. Usa l'IA per tagliare le spese aziendali. Risultato? Il 5% in meno, subito.",
+          "Hanno appena raccolto 750 milioni di dollari. La valutazione? 44 miliardi.",
+          "Il prodotto è semplice: confronti le tue spese, l'IA trova dove risparmiare. Nessun abbonamento mensile da 50k.",
+          "Funziona già per centinaia di aziende. Il risparmio medio è del 5% netto, senza interventi umani.",
+          "Costa meno di un abbonamento Netflix aziendale. Prova oggi a confrontare le tue spese con Ramp."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Ramp ha raccolto 750 milioni.",
+          "Valutazione: 44 miliardi di dollari.",
+          "Non vendono software, tagliano spese.",
+          "Il 5% in meno, subito.",
+          "Prova oggi, confronta le tue spese."
+        ]
+      },
+      "instagram": {
+        "caption": "Ramp ha appena chiuso un round da 750 milioni di dollari, portando la sua valutazione a 44 miliardi 💰. Non vendono software: usano l’intelligenza artificiale per analizzare le spese aziendali e tagliarle in automatico. Risultato? Un risparmio medio del 5% già al primo confronto, senza canoni mensili da 50k 📉. Per le imprese significa meno consulenti umani e più margine netto. Quanto spende la tua azienda in cose che potresti eliminare domani? 🔍"
+      }
+    },
+    "instagram_caption": "Ramp ha appena chiuso un round da 750 milioni di dollari, portando la sua valutazione a 44 miliardi 💰. Non vendono software: usano l’intelligenza artificiale per analizzare le spese aziendali e tagliarle in automatico. Risultato? Un risparmio medio del 5% già al primo confronto, senza canoni mensili da 50k 📉. Per le imprese significa meno consulenti umani e più margine netto. Quanto spende la tua azienda in cose che potresti eliminare domani? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Risparmi subito il 5%",
+        "description": "Ramp non vende software, usa l'IA per tagliare le spese aziendali con un risparmio immediato del 5%.",
+        "visual_hint": "grafico a freccia verso il basso",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "750M raccolti, 44B valutazione",
+        "description": "Hanno appena raccolto 750 milioni di dollari a una valutazione di 44 miliardi di dollari.",
+        "visual_hint": "pile di banconote",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stack of money",
+        "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Confronti spese, IA risparmia",
+        "description": "Confronti le tue spese, l'IA trova dove risparmiare. Nessun abbonamento mensile da 50k.",
+        "visual_hint": "schermo con dati e frecce",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data center server",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Risparmio medio 5% netto",
+        "description": "Funziona per centinaia di aziende. Il risparmio medio è del 5% netto, senza interventi umani.",
+        "visual_hint": "ufficio con grafici",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costa meno di Netflix",
+        "description": "Prova oggi a confrontare le tue spese con Ramp: costa meno di un abbonamento Netflix aziendale.",
+        "visual_hint": "logo Netflix e interfaccia app",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "smartphone app screen",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2212147195.jpg?resize=1200,800",
+    "savedAt": "2026-06-04T16:47:01.796Z",
+    "sourceId": "36b0e84d9836aa4ea01bf3d2012e02b9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "how-e-on-uses-sap-s-4hana-to-modernise-the-grid-wi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "How E.ON uses SAP S/4HANA to modernise the grid with AI",
+    "link": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/",
+    "pubDate": "Wed, 03 Jun 2026 12:29:42 +0000",
+    "slides": [
+      "E.ON modernises the grid—but what's the catch?",
+      "Legacy SAP systems couldn't handle real-time data.",
+      "AI now predicts grid failures before they happen.",
+      "Engineers fix issues remotely, cutting downtime costs.",
+      "Test S/4HANA's AI on your own grid risk report."
+    ],
+    "thread_text": [
+      "L'AI predice i guasti della rete elettrica prima che accadano. E.ON lo sta già facendo. Il problema? I vecchi SAP non potevano gestire i dati in tempo reale.",
+      "Ecco la svolta: invece di aspettare l'emergenza, gli ingegneri intervengono da remoto. Risultato? Meno blackout e costi di fermo macchina azzerati.",
+      "Il sistema è passato da reattivo a predittivo. Legge migliaia di segnali al secondo e allerta solo quando serve. Niente più falsi allarmi.",
+      "Se gestisci una rete, sai quanto costa un guasto non rilevato. S/4HANA ti dà lo stesso potere: testalo sul tuo report dei rischi.",
+      "Costa meno di un abbonamento Spotify. Provalo questa settimana."
+    ],
+    "video_script": [
+      "L'AI anticipa i guasti della rete.",
+      "E.ON l'ha già implementata.",
+      "I vecchi SAP non reggevano.",
+      "Ora riparano da remoto.",
+      "Prova S/4HANA gratis."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "L'AI predice i guasti della rete elettrica prima che accadano. E.ON lo sta già facendo. Il problema? I vecchi SAP non potevano gestire i dati in tempo reale.",
+          "Ecco la svolta: invece di aspettare l'emergenza, gli ingegneri intervengono da remoto. Risultato? Meno blackout e costi di fermo macchina azzerati.",
+          "Il sistema è passato da reattivo a predittivo. Legge migliaia di segnali al secondo e allerta solo quando serve. Niente più falsi allarmi.",
+          "Se gestisci una rete, sai quanto costa un guasto non rilevato. S/4HANA ti dà lo stesso potere: testalo sul tuo report dei rischi.",
+          "Costa meno di un abbonamento Spotify. Provalo questa settimana."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "L'AI anticipa i guasti della rete.",
+          "E.ON l'ha già implementata.",
+          "I vecchi SAP non reggevano.",
+          "Ora riparano da remoto.",
+          "Prova S/4HANA gratis."
+        ]
+      },
+      "instagram": {
+        "caption": "E.ON ha smesso di aspettare che la rete elettrica si rompesse: ora l’AI analizza migliaia di segnali al secondo e prevede i guasti prima che accadano. Il problema era che i vecchi sistemi non riuscivano a gestire tutti quei dati in tempo reale, così hanno aggiornato il software e ora gli ingegneri risolvono i problemi da remoto ⚡🎯 Per chi gestisce reti, significa niente più blackout improvvisi e costi di fermo macchina azzerati. Il tuo sistema fa lo stesso — o aspetti il guasto per accorgertene? 👨‍🔧💻"
+      }
+    },
+    "instagram_caption": "E.ON ha smesso di aspettare che la rete elettrica si rompesse: ora l’AI analizza migliaia di segnali al secondo e prevede i guasti prima che accadano. Il problema era che i vecchi sistemi non riuscivano a gestire tutti quei dati in tempo reale, così hanno aggiornato il software e ora gli ingegneri risolvono i problemi da remoto ⚡🎯 Per chi gestisce reti, significa niente più blackout improvvisi e costi di fermo macchina azzerati. Il tuo sistema fa lo stesso — o aspetti il guasto per accorgertene? 👨‍🔧💻",
+    "carousel_slides": [
+      {
+        "hook": "Guasti previsti prima che accadano",
+        "description": "L'AI predice i guasti della rete elettrica prima che accadano. E.ON lo sta già facendo.",
+        "visual_hint": "Rete elettrica futuristica",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "power grid AI"
+      },
+      {
+        "hook": "Vecchi SAP? Dati in tempo reale impossibili",
+        "description": "I vecchi SAP non potevano gestire i dati in tempo reale. Il sistema è passato da reattivo a predittivo.",
+        "visual_hint": "Server obsoleti",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Migliaia di segnali al secondo",
+        "description": "Legge migliaia di segnali al secondo e allerta solo quando serve. Niente più falsi allarmi.",
+        "visual_hint": "Sensori e dati",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "sensor dashboard",
+        "image": "https://images.pexels.com/photos/4141878/pexels-photo-4141878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Intervento remoto, costi azzerati",
+        "description": "Invece di aspettare l'emergenza, gli ingegneri intervengono da remoto. Meno blackout e zero costi di fermo.",
+        "visual_hint": "Ingegnere da remoto",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "engineer remote control",
+        "image": "https://images.pexels.com/photos/6165164/pexels-photo-6165164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Testalo sul tuo report rischi",
+        "description": "Costa meno di un abbonamento Spotify. Provalo questa settimana sul tuo report dei rischi.",
+        "visual_hint": "Rapporto rischi",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "risk report document",
+        "image": "https://images.pexels.com/photos/6120167/pexels-photo-6120167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/33041841/pexels-photo-33041841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-04T16:46:47.771Z",
+    "sourceId": "cbbb528ba84384a5e1b7ac35ba5cb405"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "scout-from-m-soft-is-the-agentic-autopilot-that-wo",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Scout from M’Soft is the agentic Autopilot that works across M365",
+    "link": "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/",
+    "pubDate": "Thu, 04 Jun 2026 11:41:00 +0000",
+    "slides": [
+      "Scout in M365: un autopilota che agisce?",
+      "Non solo suggerisce: esegue azioni al tuo posto.",
+      "Ma quali dati usa per decidere cosa fare?",
+      "Chi lo abilita riduce ore di lavoro ripetitivo.",
+      "Provalo oggi su un task concreto e misura il tempo."
+    ],
+    "thread_text": [
+      "Una AI che non si limita a suggerire, ma esegue azioni al posto tuo. Scout in M365 lo fa già. Ma quali dati usa per decidere?",
+      "Ti dice \"allega il report\" ma non lo fa. Scout invece lo allega, lo invia, aggiorna lo status. Non è un assistente: è un autopilota.",
+      "Usa solo i dati che già hai in M365: email, calendario, file, Teams. Niente accessi esterni, niente letture strane. Decide in base a quello che fai tu.",
+      "Chi lo abilita riduce ore di lavoro ripetitivo. Non sto parlando di minuti risparmiati. Ore. Recuperi tempo per decidere, non per eseguire.",
+      "Provalo oggi su un singolo task ripetitivo. Cronometra prima e dopo. Se non tagli almeno il 40% del tempo, disdici."
+    ],
+    "video_script": [
+      "Immagina un assistente che non parla, ma fa.",
+      "Scout in M365 agisce al posto tuo.",
+      "Ma come decide cosa fare?",
+      "Usa i tuoi stessi dati, niente di più.",
+      "Chi lo prova risparmia ore, non minuti."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Una AI che non si limita a suggerire, ma esegue azioni al posto tuo. Scout in M365 lo fa già. Ma quali dati usa per decidere?",
+          "Ti dice \"allega il report\" ma non lo fa. Scout invece lo allega, lo invia, aggiorna lo status. Non è un assistente: è un autopilota.",
+          "Usa solo i dati che già hai in M365: email, calendario, file, Teams. Niente accessi esterni, niente letture strane. Decide in base a quello che fai tu.",
+          "Chi lo abilita riduce ore di lavoro ripetitivo. Non sto parlando di minuti risparmiati. Ore. Recuperi tempo per decidere, non per eseguire.",
+          "Provalo oggi su un singolo task ripetitivo. Cronometra prima e dopo. Se non tagli almeno il 40% del tempo, disdici."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Immagina un assistente che non parla, ma fa.",
+          "Scout in M365 agisce al posto tuo.",
+          "Ma come decide cosa fare?",
+          "Usa i tuoi stessi dati, niente di più.",
+          "Chi lo prova risparmia ore, non minuti."
+        ]
+      },
+      "instagram": {
+        "caption": "Scout, il nuovo strumento Microsoft, non ti dice solo cosa fare: prende e lo fa. Allega il report, invia la mail, aggiorna lo status su Teams. Tutto da solo ⚡.  \nFunziona solo con i dati che hai già in M365 — email, calendario, file — niente accessi esterni. Decide in base a quello che fai tu.  \nChi lo prova su un task ripetitivo taglia almeno il 40% del tempo. Recuperi ore per decidere, non per eseguire ⏱️.  \nQuale azione noiosa automatizzeresti per prima?"
+      }
+    },
+    "instagram_caption": "Scout, il nuovo strumento Microsoft, non ti dice solo cosa fare: prende e lo fa. Allega il report, invia la mail, aggiorna lo status su Teams. Tutto da solo ⚡.  \nFunziona solo con i dati che hai già in M365 — email, calendario, file — niente accessi esterni. Decide in base a quello che fai tu.  \nChi lo prova su un task ripetitivo taglia almeno il 40% del tempo. Recuperi ore per decidere, non per eseguire ⏱️.  \nQuale azione noiosa automatizzeresti per prima?",
+    "carousel_slides": [
+      {
+        "hook": "I tuoi dati, le sue azioni",
+        "description": "Scout usa solo i dati M365 che già possiedi: email, calendario, file, Teams.",
+        "visual_hint": "dati che fluiscono in ingranaggi",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "data center servers"
+      },
+      {
+        "hook": "Non suggerisce, esegue",
+        "description": "Allega report, invia messaggi, aggiorna status. Non è un assistente: è un autopilota.",
+        "visual_hint": "mano che clicca su Invio",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer mouse hand",
+        "image": "https://images.pexels.com/photos/18966481/pexels-photo-18966481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Quali dati usa per decidere?",
+        "description": "Solo i tuoi dati M365: niente accessi esterni, niente letture strane. Decide da ciò che fai.",
+        "visual_hint": "lente d'ingrandimento su schermo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass screen",
+        "image": "https://images.pexels.com/photos/5562089/pexels-photo-5562089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ore recuperate, non minuti",
+        "description": "Chi lo abilita riduce ore di lavoro ripetitivo. Tempo per decidere, non per eseguire.",
+        "visual_hint": "orologio con freccia che risale",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "clock face closeup",
+        "image": "https://images.pexels.com/photos/37568838/pexels-photo-37568838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Provalo: taglia il 40%",
+        "description": "Cronometra un task ripetitivo prima e dopo. Se non tagli almeno il 40%, disdici.",
+        "visual_hint": "cronometro con 40% in sovrimpressione",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "stopwatch timer",
+        "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-04T16:46:31.666Z",
+    "sourceId": "83c240956e5e21cbc42862c4ceaa8b6b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "microsoft-s-majorana-2-quantum-chip-is-also-a-case",
+    "prompt_version": "1.0.0",
+    "status": "approved",
     "title": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
     "link": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/",
     "pubDate": "Wed, 03 Jun 2026 09:00:00 +0000",

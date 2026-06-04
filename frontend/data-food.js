@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "gelato-3-ingredienti-allo-yogurt-senza-gelatiera",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Gelato 3 ingredienti allo yogurt senza gelatiera",
+    "link": "https://ricette.giallozafferano.it/Gelato-3-ingredienti-allo-yogurt-senza-gelatiera.html",
+    "pubDate": "Thu, 04 Jun 2026 14:47:00 +0200",
+    "content": "Gelato tre ingredienti allo yogurt senza gelatiera: facile e gustoso Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Dolci Gelati, sorbetti e semifreddi Gelato 3 ingredienti allo yogurt senza gelatiera /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Difficoltà: Facile Preparazione: 15 min Dosi per: 6 persone Costo: Basso Nota 4 ore di riposo in frigo Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Il gelato 3 ingredienti allo yogurt senza gelatiera rappresenta la soluzione ideale e rinfrescante per le calde giornate estive, garantendo un risultato cremoso senza l'uso di macchinari. Yogurt , panna fresca e latte condensato: bastano solo questi semplici ingredienti per realizzare un gelato facile fatto in casa dalla consistenza vellutata e dalla semplicità unica. Versatile e personalizzabile, questa speciale coppetta di gelato allo yogurt può essere arricchita con frutti di bosco, crumble o caramello per un tocco finale irresistibile. Quindi non avrete più la scusa della gelatiera, vi basteranno una ciotola capiente, delle fruste elettriche e tanta voglia di gelato! Per i più golosi, ecco altre ricette di gelato senza gelatiera : Gelato allo yogurt e frutta su stecco Gelato senza gelatiera ai frutti di bosco Gelato al pistacchio senza gelatiera Gelato al latte di cocco senza gelatiera 3-Ingredient Yogurt Ice Cream Without an Ice Cream Maker INGREDIENTI Panna fresca liquida 500 g Latte condensato 397 g Yogurt greco 450 g Per decorare Amarene sciroppate 60 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Gelato 3 ingredienti allo yogurt senza gelatiera Per preparare il gelato 3 ingredienti allo yogurt senza gelatiera cominciate versando la panna fresca in una ciotola capiente 1 . Poi unite il latte condensato 2 e per ultimo lo yogurt greco 3 . Montate gli ingredienti con lo sbattitore elettrico a velocità media 4 . Dopo qualche minuto otterrete un composto ben montato ma liscio 5 . Trasferite in una pirofila il composto ottenuto 6 . Con l'aiuto di una spatola appiattite il gelato 7 e fatelo riposare in freezer per almeno 4 ore coperto con pellicola 8 . Passato questo tempo potrete servire il vostro gelato con l'apposito strumento, oppure con due cucchiai 9 . Tenete conto di servire 3 palline per ogni coppetta 10 . Ora decorate a piacere qualche amarena sciroppata 11 e il vostro gelato 3 ingredienti allo yogurt senza gelatiera è pronto per essere gustato 12 ! Conservazione Il gelato 3 ingredienti allo yogurt senza gelatiera si può conservare per 2 settimane in freezer. Consiglio Al posto delle amarene sciroppate potete scegliere del frutti di bosco, per un tocco croccante sarà perfetto del crumble al cacao. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Yogurt greco Latte condensato Yogurt Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Gelato 3 ingredienti allo yogurt senza gelatiera 5.0 Crocchette di merluzzo e patate 5.0 Spaghettoni con cipollotto e peperoncino 5.0 SCOPRI Gelato senza gelatiera Gelato fatto in casa senza gelatiera Ricette gelato con gelatiera Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Non hai trovato l'ispirazione giusta? Prova queste! Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Gelato cremoso allo yogurt senza gelatiera.",
+      "Panna fresca, latte condensato, yogurt greco.",
+      "Monta panna, latte e yogurt con fruste.",
+      "Trasferisci in pirofila e congela 4 ore.",
+      "Decora con amarene sciroppate o frutti bosco."
+    ],
+    "instagram_caption": "Gelato cremoso pronto in 5 minuti? Sì, esiste. 🍦\nPanna, latte condensato e yogurt greco: bastano 3 ingredienti per un gelato senza gelatiera che è pura morbidezza. Monti tutto con le fruste, lo versi in pirofila e via in freezer per 4 ore. Il risultato? Una nuvola vellutata da guarnire con amarene sciroppate o frutti di bosco freschi. Perfetto per l’estate e per chi non ha voglia di complicarsi la vita. Provala questo weekend 🌿",
+    "formats": {
+      "instagram": {
+        "caption": "Gelato cremoso pronto in 5 minuti? Sì, esiste. 🍦\nPanna, latte condensato e yogurt greco: bastano 3 ingredienti per un gelato senza gelatiera che è pura morbidezza. Monti tutto con le fruste, lo versi in pirofila e via in freezer per 4 ore. Il risultato? Una nuvola vellutata da guarnire con amarene sciroppate o frutti di bosco freschi. Perfetto per l’estate e per chi non ha voglia di complicarsi la vita. Provala questo weekend 🌿"
+      },
+      "tiktok": {
+        "script": [
+          "Prendo panna, latte e yogurt greco.",
+          "Li verso tutti insieme in una ciotola.",
+          "Li monto con le fruste fino a che sono belli sodi.",
+          "Verso il composto in una pirofila e metto in freezer.",
+          "Dopo 4 ore decoro con amarene o frutti di bosco."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Un gelato cremosissimo con 3 soli ingredienti, senza gelatiera. 🍦 Sembra impossibile, ma dopo 4 ore di freezer avrai una consistenza da gelateria artigianale. Vieni qua che ti spiego come si fa.",
+          "Panna fresca, latte condensato e yogurt greco. Sono gli unici ingredienti di cui hai bisogno. Il latte condensato dà dolcezza e morbidezza senza bisogno di mantecare.",
+          "Monta la panna con le fruste, poi aggiungi latte condensato e yogurt greco. Lavora fino a ottenere una crema liscia. Il gesto chiave: non smontare la panna, devi sentire la consistenza vellutata.",
+          "Versa il composto in una pirofila e metti in freezer per almeno 4 ore. Nessuna gelatiera, nessuna sbattitura ogni mezz'ora. Il segreto? Il latte condensato abbassa il punto di congelamento.",
+          "Per il tocco finale: amarene sciroppate o frutti di bosco freschi. La nota acidula bilancia la dolcezza cremosa. Prova e fammi sapere com'è uscito nei commenti."
+        ]
+      }
+    },
+    "video_script": [
+      "Prendo panna, latte e yogurt greco.",
+      "Li verso tutti insieme in una ciotola.",
+      "Li monto con le fruste fino a che sono belli sodi.",
+      "Verso il composto in una pirofila e metto in freezer.",
+      "Dopo 4 ore decoro con amarene o frutti di bosco."
+    ],
+    "thread_text": [
+      "Un gelato cremosissimo con 3 soli ingredienti, senza gelatiera. 🍦 Sembra impossibile, ma dopo 4 ore di freezer avrai una consistenza da gelateria artigianale. Vieni qua che ti spiego come si fa.",
+      "Panna fresca, latte condensato e yogurt greco. Sono gli unici ingredienti di cui hai bisogno. Il latte condensato dà dolcezza e morbidezza senza bisogno di mantecare.",
+      "Monta la panna con le fruste, poi aggiungi latte condensato e yogurt greco. Lavora fino a ottenere una crema liscia. Il gesto chiave: non smontare la panna, devi sentire la consistenza vellutata.",
+      "Versa il composto in una pirofila e metti in freezer per almeno 4 ore. Nessuna gelatiera, nessuna sbattitura ogni mezz'ora. Il segreto? Il latte condensato abbassa il punto di congelamento.",
+      "Per il tocco finale: amarene sciroppate o frutti di bosco freschi. La nota acidula bilancia la dolcezza cremosa. Prova e fammi sapere com'è uscito nei commenti."
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Gelato 3 ingredienti senza gelatiera",
+        "description": "Cremoso, facile e fatto in casa: bastano panna, latte condensato e yogurt greco.",
+        "visual_hint": "Bowl of creamy yogurt gelato",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "creamy yogurt gelato"
+      },
+      {
+        "hook": "Solo 3 ingredienti",
+        "description": "Panna fresca, latte condensato zuccherato e yogurt greco denso: la base perfetta.",
+        "visual_hint": "Ingredients arranged on table",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "cream condensed milk greek yogurt",
+        "image": "https://images.pexels.com/photos/28835201/pexels-photo-28835201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Monta tutto insieme",
+        "description": "Monta panna, latte condensato e yogurt greco con le fruste fino a ottenere un composto spumoso.",
+        "visual_hint": "Hand whisking in a bowl",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "whisking cream mixture",
+        "image": "https://images.pexels.com/photos/33775630/pexels-photo-33775630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "In freezer per 4 ore",
+        "description": "Trasferisci il composto in una pirofila e congela per almeno 4 ore: nessuna gelatiera necessaria.",
+        "visual_hint": "Pouring mixture into dish",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "pouring gelato into dish",
+        "image": "https://images.pexels.com/photos/37823185/pexels-photo-37823185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Decora e servi",
+        "description": "Guarnisci con amarene sciroppate o frutti di bosco freschi per un tocco goloso.",
+        "visual_hint": "Gelato with cherry topping",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "yogurt gelato with cherries",
+        "image": "https://images.pexels.com/photos/7346520/pexels-photo-7346520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "panna fresca",
+      "latte condensato",
+      "yogurt greco"
+    ],
+    "image": "https://www.giallozafferano.it/images/362-36246/Gelato-3-ingredienti-allo-yogurt-senza-gelatiera_650x433_wm.jpg",
+    "savedAt": "2026-06-04T16:50:30.991Z",
+    "sourceId": "5529c190d35dea264f7444ebfcbe5a9c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "spaghettoni-con-cipollotto-e-peperoncino",
     "prompt_version": "1.0.0",
     "status": "published",

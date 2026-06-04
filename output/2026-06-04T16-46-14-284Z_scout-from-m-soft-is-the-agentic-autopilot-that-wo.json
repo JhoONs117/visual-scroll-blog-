@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "scout-from-m-soft-is-the-agentic-autopilot-that-wo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Scout from M’Soft is the agentic Autopilot that works across M365",
+  "link": "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/",
+  "pubDate": "Thu, 04 Jun 2026 11:41:00 +0000",
+  "slides": [
+    "Scout in M365: un autopilota che agisce?",
+    "Non solo suggerisce: esegue azioni al tuo posto.",
+    "Ma quali dati usa per decidere cosa fare?",
+    "Chi lo abilita riduce ore di lavoro ripetitivo.",
+    "Provalo oggi su un task concreto e misura il tempo."
+  ],
+  "thread_text": [
+    "Una AI che non si limita a suggerire, ma esegue azioni al posto tuo. Scout in M365 lo fa già. Ma quali dati usa per decidere?",
+    "Ti dice \"allega il report\" ma non lo fa. Scout invece lo allega, lo invia, aggiorna lo status. Non è un assistente: è un autopilota.",
+    "Usa solo i dati che già hai in M365: email, calendario, file, Teams. Niente accessi esterni, niente letture strane. Decide in base a quello che fai tu.",
+    "Chi lo abilita riduce ore di lavoro ripetitivo. Non sto parlando di minuti risparmiati. Ore. Recuperi tempo per decidere, non per eseguire.",
+    "Provalo oggi su un singolo task ripetitivo. Cronometra prima e dopo. Se non tagli almeno il 40% del tempo, disdici."
+  ],
+  "video_script": [
+    "Immagina un assistente che non parla, ma fa.",
+    "Scout in M365 agisce al posto tuo.",
+    "Ma come decide cosa fare?",
+    "Usa i tuoi stessi dati, niente di più.",
+    "Chi lo prova risparmia ore, non minuti."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Una AI che non si limita a suggerire, ma esegue azioni al posto tuo. Scout in M365 lo fa già. Ma quali dati usa per decidere?",
+        "Ti dice \"allega il report\" ma non lo fa. Scout invece lo allega, lo invia, aggiorna lo status. Non è un assistente: è un autopilota.",
+        "Usa solo i dati che già hai in M365: email, calendario, file, Teams. Niente accessi esterni, niente letture strane. Decide in base a quello che fai tu.",
+        "Chi lo abilita riduce ore di lavoro ripetitivo. Non sto parlando di minuti risparmiati. Ore. Recuperi tempo per decidere, non per eseguire.",
+        "Provalo oggi su un singolo task ripetitivo. Cronometra prima e dopo. Se non tagli almeno il 40% del tempo, disdici."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Immagina un assistente che non parla, ma fa.",
+        "Scout in M365 agisce al posto tuo.",
+        "Ma come decide cosa fare?",
+        "Usa i tuoi stessi dati, niente di più.",
+        "Chi lo prova risparmia ore, non minuti."
+      ]
+    },
+    "instagram": {
+      "caption": "Scout, il nuovo strumento Microsoft, non ti dice solo cosa fare: prende e lo fa. Allega il report, invia la mail, aggiorna lo status su Teams. Tutto da solo ⚡.  \nFunziona solo con i dati che hai già in M365 — email, calendario, file — niente accessi esterni. Decide in base a quello che fai tu.  \nChi lo prova su un task ripetitivo taglia almeno il 40% del tempo. Recuperi ore per decidere, non per eseguire ⏱️.  \nQuale azione noiosa automatizzeresti per prima?"
+    }
+  },
+  "instagram_caption": "Scout, il nuovo strumento Microsoft, non ti dice solo cosa fare: prende e lo fa. Allega il report, invia la mail, aggiorna lo status su Teams. Tutto da solo ⚡.  \nFunziona solo con i dati che hai già in M365 — email, calendario, file — niente accessi esterni. Decide in base a quello che fai tu.  \nChi lo prova su un task ripetitivo taglia almeno il 40% del tempo. Recuperi ore per decidere, non per eseguire ⏱️.  \nQuale azione noiosa automatizzeresti per prima?",
+  "carousel_slides": [
+    {
+      "hook": "I tuoi dati, le sue azioni",
+      "description": "Scout usa solo i dati M365 che già possiedi: email, calendario, file, Teams.",
+      "visual_hint": "dati che fluiscono in ingranaggi",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data center servers"
+    },
+    {
+      "hook": "Non suggerisce, esegue",
+      "description": "Allega report, invia messaggi, aggiorna status. Non è un assistente: è un autopilota.",
+      "visual_hint": "mano che clicca su Invio",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer mouse hand",
+      "image": "https://images.pexels.com/photos/18966481/pexels-photo-18966481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Quali dati usa per decidere?",
+      "description": "Solo i tuoi dati M365: niente accessi esterni, niente letture strane. Decide da ciò che fai.",
+      "visual_hint": "lente d'ingrandimento su schermo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass screen",
+      "image": "https://images.pexels.com/photos/5562089/pexels-photo-5562089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ore recuperate, non minuti",
+      "description": "Chi lo abilita riduce ore di lavoro ripetitivo. Tempo per decidere, non per eseguire.",
+      "visual_hint": "orologio con freccia che risale",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "clock face closeup",
+      "image": "https://images.pexels.com/photos/37568838/pexels-photo-37568838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Provalo: taglia il 40%",
+      "description": "Cronometra un task ripetitivo prima e dopo. Se non tagli almeno il 40%, disdici.",
+      "visual_hint": "cronometro con 40% in sovrimpressione",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "stopwatch timer",
+      "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-04T16:46:31.666Z",
+  "sourceId": "83c240956e5e21cbc42862c4ceaa8b6b"
+}

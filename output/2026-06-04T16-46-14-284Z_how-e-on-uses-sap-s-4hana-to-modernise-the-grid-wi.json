@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-e-on-uses-sap-s-4hana-to-modernise-the-grid-wi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How E.ON uses SAP S/4HANA to modernise the grid with AI",
+  "link": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/",
+  "pubDate": "Wed, 03 Jun 2026 12:29:42 +0000",
+  "slides": [
+    "E.ON modernises the grid—but what's the catch?",
+    "Legacy SAP systems couldn't handle real-time data.",
+    "AI now predicts grid failures before they happen.",
+    "Engineers fix issues remotely, cutting downtime costs.",
+    "Test S/4HANA's AI on your own grid risk report."
+  ],
+  "thread_text": [
+    "L'AI predice i guasti della rete elettrica prima che accadano. E.ON lo sta già facendo. Il problema? I vecchi SAP non potevano gestire i dati in tempo reale.",
+    "Ecco la svolta: invece di aspettare l'emergenza, gli ingegneri intervengono da remoto. Risultato? Meno blackout e costi di fermo macchina azzerati.",
+    "Il sistema è passato da reattivo a predittivo. Legge migliaia di segnali al secondo e allerta solo quando serve. Niente più falsi allarmi.",
+    "Se gestisci una rete, sai quanto costa un guasto non rilevato. S/4HANA ti dà lo stesso potere: testalo sul tuo report dei rischi.",
+    "Costa meno di un abbonamento Spotify. Provalo questa settimana."
+  ],
+  "video_script": [
+    "L'AI anticipa i guasti della rete.",
+    "E.ON l'ha già implementata.",
+    "I vecchi SAP non reggevano.",
+    "Ora riparano da remoto.",
+    "Prova S/4HANA gratis."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "L'AI predice i guasti della rete elettrica prima che accadano. E.ON lo sta già facendo. Il problema? I vecchi SAP non potevano gestire i dati in tempo reale.",
+        "Ecco la svolta: invece di aspettare l'emergenza, gli ingegneri intervengono da remoto. Risultato? Meno blackout e costi di fermo macchina azzerati.",
+        "Il sistema è passato da reattivo a predittivo. Legge migliaia di segnali al secondo e allerta solo quando serve. Niente più falsi allarmi.",
+        "Se gestisci una rete, sai quanto costa un guasto non rilevato. S/4HANA ti dà lo stesso potere: testalo sul tuo report dei rischi.",
+        "Costa meno di un abbonamento Spotify. Provalo questa settimana."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "L'AI anticipa i guasti della rete.",
+        "E.ON l'ha già implementata.",
+        "I vecchi SAP non reggevano.",
+        "Ora riparano da remoto.",
+        "Prova S/4HANA gratis."
+      ]
+    },
+    "instagram": {
+      "caption": "E.ON ha smesso di aspettare che la rete elettrica si rompesse: ora l’AI analizza migliaia di segnali al secondo e prevede i guasti prima che accadano. Il problema era che i vecchi sistemi non riuscivano a gestire tutti quei dati in tempo reale, così hanno aggiornato il software e ora gli ingegneri risolvono i problemi da remoto ⚡🎯 Per chi gestisce reti, significa niente più blackout improvvisi e costi di fermo macchina azzerati. Il tuo sistema fa lo stesso — o aspetti il guasto per accorgertene? 👨‍🔧💻"
+    }
+  },
+  "instagram_caption": "E.ON ha smesso di aspettare che la rete elettrica si rompesse: ora l’AI analizza migliaia di segnali al secondo e prevede i guasti prima che accadano. Il problema era che i vecchi sistemi non riuscivano a gestire tutti quei dati in tempo reale, così hanno aggiornato il software e ora gli ingegneri risolvono i problemi da remoto ⚡🎯 Per chi gestisce reti, significa niente più blackout improvvisi e costi di fermo macchina azzerati. Il tuo sistema fa lo stesso — o aspetti il guasto per accorgertene? 👨‍🔧💻",
+  "carousel_slides": [
+    {
+      "hook": "Guasti previsti prima che accadano",
+      "description": "L'AI predice i guasti della rete elettrica prima che accadano. E.ON lo sta già facendo.",
+      "visual_hint": "Rete elettrica futuristica",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "power grid AI"
+    },
+    {
+      "hook": "Vecchi SAP? Dati in tempo reale impossibili",
+      "description": "I vecchi SAP non potevano gestire i dati in tempo reale. Il sistema è passato da reattivo a predittivo.",
+      "visual_hint": "Server obsoleti",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Migliaia di segnali al secondo",
+      "description": "Legge migliaia di segnali al secondo e allerta solo quando serve. Niente più falsi allarmi.",
+      "visual_hint": "Sensori e dati",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sensor dashboard",
+      "image": "https://images.pexels.com/photos/4141878/pexels-photo-4141878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Intervento remoto, costi azzerati",
+      "description": "Invece di aspettare l'emergenza, gli ingegneri intervengono da remoto. Meno blackout e zero costi di fermo.",
+      "visual_hint": "Ingegnere da remoto",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "engineer remote control",
+      "image": "https://images.pexels.com/photos/6165164/pexels-photo-6165164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Testalo sul tuo report rischi",
+      "description": "Costa meno di un abbonamento Spotify. Provalo questa settimana sul tuo report dei rischi.",
+      "visual_hint": "Rapporto rischi",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "risk report document",
+      "image": "https://images.pexels.com/photos/6120167/pexels-photo-6120167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/33041841/pexels-photo-33041841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-04T16:46:47.771Z",
+  "sourceId": "cbbb528ba84384a5e1b7ac35ba5cb405"
+}

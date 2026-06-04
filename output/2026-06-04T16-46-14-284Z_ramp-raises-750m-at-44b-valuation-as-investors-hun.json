@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ramp-raises-750m-at-44b-valuation-as-investors-hun",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
+  "link": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
+  "pubDate": "Thu, 04 Jun 2026 15:08:34 +0000",
+  "slides": [
+    "Ramp raccoglie 750 milioni, ma a che costo?",
+    "La valutazione sale a 44 miliardi di dollari.",
+    "Non vende software: usa l'IA per risparmiare soldi.",
+    "Chi ha spese aziendali può ridurle del 5% subito.",
+    "Prova oggi a confrontare le tue spese con Ramp."
+  ],
+  "thread_text": [
+    "Ramp non vende software. Usa l'IA per tagliare le spese aziendali. Risultato? Il 5% in meno, subito.",
+    "Hanno appena raccolto 750 milioni di dollari. La valutazione? 44 miliardi.",
+    "Il prodotto è semplice: confronti le tue spese, l'IA trova dove risparmiare. Nessun abbonamento mensile da 50k.",
+    "Funziona già per centinaia di aziende. Il risparmio medio è del 5% netto, senza interventi umani.",
+    "Costa meno di un abbonamento Netflix aziendale. Prova oggi a confrontare le tue spese con Ramp."
+  ],
+  "video_script": [
+    "Ramp ha raccolto 750 milioni.",
+    "Valutazione: 44 miliardi di dollari.",
+    "Non vendono software, tagliano spese.",
+    "Il 5% in meno, subito.",
+    "Prova oggi, confronta le tue spese."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Ramp non vende software. Usa l'IA per tagliare le spese aziendali. Risultato? Il 5% in meno, subito.",
+        "Hanno appena raccolto 750 milioni di dollari. La valutazione? 44 miliardi.",
+        "Il prodotto è semplice: confronti le tue spese, l'IA trova dove risparmiare. Nessun abbonamento mensile da 50k.",
+        "Funziona già per centinaia di aziende. Il risparmio medio è del 5% netto, senza interventi umani.",
+        "Costa meno di un abbonamento Netflix aziendale. Prova oggi a confrontare le tue spese con Ramp."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ramp ha raccolto 750 milioni.",
+        "Valutazione: 44 miliardi di dollari.",
+        "Non vendono software, tagliano spese.",
+        "Il 5% in meno, subito.",
+        "Prova oggi, confronta le tue spese."
+      ]
+    },
+    "instagram": {
+      "caption": "Ramp ha appena chiuso un round da 750 milioni di dollari, portando la sua valutazione a 44 miliardi 💰. Non vendono software: usano l’intelligenza artificiale per analizzare le spese aziendali e tagliarle in automatico. Risultato? Un risparmio medio del 5% già al primo confronto, senza canoni mensili da 50k 📉. Per le imprese significa meno consulenti umani e più margine netto. Quanto spende la tua azienda in cose che potresti eliminare domani? 🔍"
+    }
+  },
+  "instagram_caption": "Ramp ha appena chiuso un round da 750 milioni di dollari, portando la sua valutazione a 44 miliardi 💰. Non vendono software: usano l’intelligenza artificiale per analizzare le spese aziendali e tagliarle in automatico. Risultato? Un risparmio medio del 5% già al primo confronto, senza canoni mensili da 50k 📉. Per le imprese significa meno consulenti umani e più margine netto. Quanto spende la tua azienda in cose che potresti eliminare domani? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Risparmi subito il 5%",
+      "description": "Ramp non vende software, usa l'IA per tagliare le spese aziendali con un risparmio immediato del 5%.",
+      "visual_hint": "grafico a freccia verso il basso",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "750M raccolti, 44B valutazione",
+      "description": "Hanno appena raccolto 750 milioni di dollari a una valutazione di 44 miliardi di dollari.",
+      "visual_hint": "pile di banconote",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stack of money",
+      "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Confronti spese, IA risparmia",
+      "description": "Confronti le tue spese, l'IA trova dove risparmiare. Nessun abbonamento mensile da 50k.",
+      "visual_hint": "schermo con dati e frecce",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center server",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Risparmio medio 5% netto",
+      "description": "Funziona per centinaia di aziende. Il risparmio medio è del 5% netto, senza interventi umani.",
+      "visual_hint": "ufficio con grafici",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costa meno di Netflix",
+      "description": "Prova oggi a confrontare le tue spese con Ramp: costa meno di un abbonamento Netflix aziendale.",
+      "visual_hint": "logo Netflix e interfaccia app",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone app screen",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2212147195.jpg?resize=1200,800",
+  "savedAt": "2026-06-04T16:47:01.796Z",
+  "sourceId": "36b0e84d9836aa4ea01bf3d2012e02b9"
+}
