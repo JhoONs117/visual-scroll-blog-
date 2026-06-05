@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "meta-rolls-out-a-new-ai-creator-assistant-on-faceb",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta rolls out a new AI creator assistant on Facebook",
+      "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "pubDate": "Thu, 04 Jun 2026 16:32:48 +0000",
+      "slides": [
+        "Meta lancia un assistente AI per creator su Facebook.",
+        "Non sostituirà il tuo lavoro creativo?",
+        "Automatizza bozze e didascalie, ma l'algoritmo decide.",
+        "Posta più velocemente, ma controlla sempre ogni output.",
+        "Il vero test: fidarsi o delegare del tutto?"
+      ],
+      "thread_text": [
+        "L'algoritmo decide cosa pubblicare, non tu. Meta ha appena messo nero su bianco il nuovo rapporto di potere per i creator.",
+        "L'assistente AI di Facebook ti aiuta a scrivere bozze e didascalie. Sembra un sogno: meno ore spese a guardare il cursore che lampeggia.",
+        "Il problema è sottile: più delegi la scrittura, più l'algoritmo impara i tuoi schemi. E lo schema di oggi potrebbe non funzionare domani.",
+        "Puoi postare tre volte al giorno invece di una. Ma ogni output va controllato parola per parola, perché l'AI ancora sbaglia tono e contesto.",
+        "La domanda vera è pratica: ha senso risparmiare 20 minuti se poi devi rileggere e correggere due volte? Il test è su un post reale, questa settimana."
+      ],
+      "video_script": [
+        "Meta lancia un assistente AI per creator.",
+        "Scrive bozze e didascalie al posto tuo.",
+        "Sembra un sogno, ma c'è un prezzo.",
+        "L'algoritmo decide cosa pubblicare.",
+        "La scelta è tua: fidarti o controllare tutto."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "L'algoritmo decide cosa pubblicare, non tu. Meta ha appena messo nero su bianco il nuovo rapporto di potere per i creator.",
+            "L'assistente AI di Facebook ti aiuta a scrivere bozze e didascalie. Sembra un sogno: meno ore spese a guardare il cursore che lampeggia.",
+            "Il problema è sottile: più delegi la scrittura, più l'algoritmo impara i tuoi schemi. E lo schema di oggi potrebbe non funzionare domani.",
+            "Puoi postare tre volte al giorno invece di una. Ma ogni output va controllato parola per parola, perché l'AI ancora sbaglia tono e contesto.",
+            "La domanda vera è pratica: ha senso risparmiare 20 minuti se poi devi rileggere e correggere due volte? Il test è su un post reale, questa settimana."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta lancia un assistente AI per creator.",
+            "Scrive bozze e didascalie al posto tuo.",
+            "Sembra un sogno, ma c'è un prezzo.",
+            "L'algoritmo decide cosa pubblicare.",
+            "La scelta è tua: fidarti o controllare tutto."
+          ]
+        },
+        "instagram": {
+          "caption": "Facebook ha lanciato un assistente AI che scrive bozze e didascalie per i creator in automatico 🖊️ Non sostituisce il tuo lavoro, ma l'algoritmo decide cosa pubblicare al posto tuo. Il rapporto di potere cambia: risparmi tempo postando tre volte al giorno invece di una, ma ogni output va controllato parola per parola ⏳ Per te significa meno ore a guardare il cursore, ma più vigilanza su tono e contesto che l'AI sbaglia ancora. Il test pratico: delegare ti fa risparmiare 20 minuti se poi devi rileggere due volte? 🤖"
+        }
+      },
+      "instagram_caption": "Facebook ha lanciato un assistente AI che scrive bozze e didascalie per i creator in automatico 🖊️ Non sostituisce il tuo lavoro, ma l'algoritmo decide cosa pubblicare al posto tuo. Il rapporto di potere cambia: risparmi tempo postando tre volte al giorno invece di una, ma ogni output va controllato parola per parola ⏳ Per te significa meno ore a guardare il cursore, ma più vigilanza su tono e contesto che l'AI sbaglia ancora. Il test pratico: delegare ti fa risparmiare 20 minuti se poi devi rileggere due volte? 🤖",
+      "carousel_slides": [
+        {
+          "hook": "L'algoritmo decide per te",
+          "description": "Meta lancia un AI che scrive bozze, ma l'algoritmo sceglie cosa pubblicare. Nuovo rapporto di potere.",
+          "visual_hint": "algoritmo che controlla schermo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Sembra un sogno, ma...",
+          "description": "L'AI ti aiuta con didascalie e bozze. Meno ore a guardare il cursore che lampeggia.",
+          "visual_hint": "cursore che lampeggia sullo schermo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "keyboard typing",
+          "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Più deleghi, più impara",
+          "description": "Più usi l'AI, più l'algoritmo impara i tuoi schemi. E lo schema di oggi potrebbe non funzionare domani.",
+          "visual_hint": "schema che cambia nel tempo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Posta 3x, ma controlla",
+          "description": "Posti tre volte al giorno invece di una. Ma ogni output va verificato: l'AI sbaglia tono e contesto.",
+          "visual_hint": "post multipli con lente d'ingrandimento",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fidarsi o delegare tutto?",
+          "description": "Risparmi 20 minuti ma devi rileggere due volte. Il test è su un post reale questa settimana.",
+          "visual_hint": "bilancia tra fiducia e delega",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "balance scale",
+          "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Introducing-Creator-Assistant-Plus-More-Languages-for-AI-Translations-on-Facebook_Header.jpg?resize=1200,675",
+      "savedAt": "2026-06-05T11:32:39.680Z",
+      "sourceId": "36b17b2ca4f8c11f4a8903736839a3e6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "defense-tech-ai-and-fundraising-take-center-stage-",
       "prompt_version": "1.0.0",
       "status": "published",
