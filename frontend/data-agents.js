@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "airtrunk-commits-30b-to-build-5gw-of-ai-data-cente",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+      "pubDate": "Fri, 05 Jun 2026 13:03:10 +0000",
+      "slides": [
+        "AirTrunk investe 30 miliardi in India, ma basteranno?",
+        "I data center richiedono 5GW, quanta acqua serve?",
+        "L'India non ha ancora una rete stabile per gestirli",
+        "Le aziende locali rischiano blackout e costi maggiori",
+        "Calcola il fabbisogno energetico del tuo cloud oggi"
+      ],
+      "thread_text": [
+        "L'India non ha una rete stabile per reggere 5GW di data center. Eppure AirTrunk investe 30 miliardi.",
+        "Ogni data center consuma acqua per raffreddare i server. Con 5GW il fabbisogno è enorme, in un paese che già soffre siccità.",
+        "La rete locale traballa. Se i data center assorbono tutta l'energia, le aziende indiane rischiano blackout e costi alle stelle.",
+        "AirTrunk punta a risolvere, ma il gap infrastrutturale resta. Il governo deve decidere se privilegiare il cloud o i cittadini.",
+        "Calcola oggi quanta energia consumeresti spostando il tuo cloud in India: i numeri potrebbero sorprenderti."
+      ],
+      "video_script": [
+        "Investono 30 miliardi in data center indiani.",
+        "Ma la rete elettrica regge 5 gigawatt?",
+        "Ogni server beve acqua come un campo di grano.",
+        "Le aziende locali pagheranno blackout e bollette salate.",
+        "Tu quanta energia consumi con il cloud?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "L'India non ha una rete stabile per reggere 5GW di data center. Eppure AirTrunk investe 30 miliardi.",
+            "Ogni data center consuma acqua per raffreddare i server. Con 5GW il fabbisogno è enorme, in un paese che già soffre siccità.",
+            "La rete locale traballa. Se i data center assorbono tutta l'energia, le aziende indiane rischiano blackout e costi alle stelle.",
+            "AirTrunk punta a risolvere, ma il gap infrastrutturale resta. Il governo deve decidere se privilegiare il cloud o i cittadini.",
+            "Calcola oggi quanta energia consumeresti spostando il tuo cloud in India: i numeri potrebbero sorprenderti."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Investono 30 miliardi in data center indiani.",
+            "Ma la rete elettrica regge 5 gigawatt?",
+            "Ogni server beve acqua come un campo di grano.",
+            "Le aziende locali pagheranno blackout e bollette salate.",
+            "Tu quanta energia consumi con il cloud?"
+          ]
+        },
+        "instagram": {
+          "caption": "AirTrunk ha messo sul tavolo 30 miliardi di dollari per costruire data center AI in India, capaci di consumare 5 gigawatt. 🔌 Il problema? La rete elettrica indiana non è pronta per reggere un carico del genere, e ogni data center richiede enormi quantità d'acqua per raffreddarsi — in un paese che affronta già siccità ricorrenti. 💧 Se la priorità va a queste strutture, le aziende locali rischiano blackout e bollette più salate. Per te significa che il costo dei servizi cloud potrebbe salire, mentre l'infrastruttura fatica a stare al passo. Quanta energia consumerebbe il tuo lavoro se fosse spostato lì? 🏭"
+        }
+      },
+      "instagram_caption": "AirTrunk ha messo sul tavolo 30 miliardi di dollari per costruire data center AI in India, capaci di consumare 5 gigawatt. 🔌 Il problema? La rete elettrica indiana non è pronta per reggere un carico del genere, e ogni data center richiede enormi quantità d'acqua per raffreddarsi — in un paese che affronta già siccità ricorrenti. 💧 Se la priorità va a queste strutture, le aziende locali rischiano blackout e bollette più salate. Per te significa che il costo dei servizi cloud potrebbe salire, mentre l'infrastruttura fatica a stare al passo. Quanta energia consumerebbe il tuo lavoro se fosse spostato lì? 🏭",
+      "carousel_slides": [
+        {
+          "hook": "Ma l'India reggerà 5GW?",
+          "description": "L'India non ha una rete stabile per reggere 5GW di data center. AirTrunk investe 30 miliardi.",
+          "visual_hint": "mappa India con fulmini",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "power grid map"
+        },
+        {
+          "hook": "Acqua per raffreddare server",
+          "description": "5GW di data center richiedono acqua enorme. Un paese già colpito da siccità.",
+          "visual_hint": "goccia d'acqua su server",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center cooling",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "La rete locale traballa",
+          "description": "Aziende indiane rischiano blackout e costi alle stelle se i data center assorbono tutta l'energia.",
+          "visual_hint": "grafico blackout in salita",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "power outage graph",
+          "image": "https://images.pexels.com/photos/7567445/pexels-photo-7567445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cloud o cittadini?",
+          "description": "AirTrunk punta a risolvere, ma il gap infrastrutturale resta. Governo deve decidere.",
+          "visual_hint": "simbolo città vs cloud",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "city skyline cloud",
+          "image": "https://images.pexels.com/photos/34075155/pexels-photo-34075155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Quanto consumi tu?",
+          "description": "Calcola oggi quanta energia consumeresti spostando il tuo cloud in India: numeri sorprendenti.",
+          "visual_hint": "calcolatrice con fulmine",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calculator energy meter",
+          "image": "https://images.pexels.com/photos/11125742/pexels-photo-11125742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2089845337.jpg?resize=1200,800",
+      "savedAt": "2026-06-05T14:28:23.048Z",
+      "sourceId": "df474478ba460f6c021844d63fe0d3cc"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "how-c3-ai-agents-will-automate-predictive-maintena",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "How C3 AI agents will automate predictive maintenance for Shell",
+      "link": "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/",
+      "pubDate": "Fri, 05 Jun 2026 11:34:09 +0000",
+      "slides": [
+        "C3 AI promette di sostituire i tuoi ingegneri?",
+        "Shell userà agenti AI per manutenzione predittiva",
+        "Ma i modelli falliscono su dati in tempo reale",
+        "Chi non adotta ora perde margini operativi",
+        "Testa un fallimento simulato prima del deploy"
+      ],
+      "thread_text": [
+        "I modelli AI falliscono quando incontrano dati in tempo reale. Non è un bug: è il motivo per cui la tua manutenzione predittiva non funziona ancora.",
+        "C3 AI promette di sostituire i tuoi ingegneri con agenti autonomi. Shell li userà per la manutenzione predittiva. Sembra il futuro, ma c'è un problema.",
+        "Quegli stessi modelli crollano appena i sensori iniziano a produrre rumore o valori fuori training. Il 90% dei fallimenti in produzione arriva da lì.",
+        "Ecco la svolta: chi non adotta ora non perde un vantaggio, perde margini operativi. I competitor che testano fallimenti simulati prima del deploy vincono.",
+        "Domanda concreta: il tuo prossimo deploy include uno scenario di fallimento in tempo reale? Se no, parti da lì. Costa meno di un'ora di fermo macchina."
+      ],
+      "video_script": [
+        "I modelli AI falliscono sui dati veri.",
+        "C3 AI vuole sostituire i tuoi ingegneri.",
+        "Shell ci prova per la manutenzione.",
+        "Ma il problema è il rumore dei sensori.",
+        "Testa un fallimento prima del deploy."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "I modelli AI falliscono quando incontrano dati in tempo reale. Non è un bug: è il motivo per cui la tua manutenzione predittiva non funziona ancora.",
+            "C3 AI promette di sostituire i tuoi ingegneri con agenti autonomi. Shell li userà per la manutenzione predittiva. Sembra il futuro, ma c'è un problema.",
+            "Quegli stessi modelli crollano appena i sensori iniziano a produrre rumore o valori fuori training. Il 90% dei fallimenti in produzione arriva da lì.",
+            "Ecco la svolta: chi non adotta ora non perde un vantaggio, perde margini operativi. I competitor che testano fallimenti simulati prima del deploy vincono.",
+            "Domanda concreta: il tuo prossimo deploy include uno scenario di fallimento in tempo reale? Se no, parti da lì. Costa meno di un'ora di fermo macchina."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "I modelli AI falliscono sui dati veri.",
+            "C3 AI vuole sostituire i tuoi ingegneri.",
+            "Shell ci prova per la manutenzione.",
+            "Ma il problema è il rumore dei sensori.",
+            "Testa un fallimento prima del deploy."
+          ]
+        },
+        "instagram": {
+          "caption": "C3 AI dice a Shell che i suoi agenti automatizzeranno tutta la manutenzione predittiva, ma i modelli crollano non appena i sensori in fabbrica iniziano a produrre dati fuori dai limiti di addestramento. Nel 90% dei casi il fallimento arriva da lì. ⚙️ Per te significa che il deploy non può saltare un test con dati reali e rumorosi: costa meno di un'ora di fermo macchina. Chi non lo fa ora, perde margini operativi contro chi lo prova. 🔍 Il tuo prossimo progetto ha già uno scenario di errore simulato?"
+        }
+      },
+      "instagram_caption": "C3 AI dice a Shell che i suoi agenti automatizzeranno tutta la manutenzione predittiva, ma i modelli crollano non appena i sensori in fabbrica iniziano a produrre dati fuori dai limiti di addestramento. Nel 90% dei casi il fallimento arriva da lì. ⚙️ Per te significa che il deploy non può saltare un test con dati reali e rumorosi: costa meno di un'ora di fermo macchina. Chi non lo fa ora, perde margini operativi contro chi lo prova. 🔍 Il tuo prossimo progetto ha già uno scenario di errore simulato?",
+      "carousel_slides": [
+        {
+          "hook": "I modelli AI falliscono sui dati reali",
+          "description": "Non è un bug: il 90% dei fallimenti in produzione arriva da dati reali. È perché la tua manutenzione predittiva non funziona ancora.",
+          "visual_hint": "sensore digitale che si spegne",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "broken sensor industrial"
+        },
+        {
+          "hook": "C3 AI sostituirà i tuoi ingegneri?",
+          "description": "Shell userà agenti AI per manutenzione predittiva. Sembra il futuro, ma quei modelli crollano sui dati fuori training.",
+          "visual_hint": "logo Shell su schermo server",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "oil refinery server room",
+          "image": "https://images.pexels.com/photos/15970029/pexels-photo-15970029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Falliscono su dati in tempo reale",
+          "description": "I modelli crollano appena i sensori producono rumore o valori fuori training. Il 90% dei fallimenti in produzione arriva da lì.",
+          "visual_hint": "grafico a picco con sensore",
+          "layout_type": "sensor-zoom",
+          "icon": "waves",
+          "image_query": "industrial sensor graph",
+          "image": "https://images.pexels.com/photos/5532986/pexels-photo-5532986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Chi non adotta ora perde margini",
+          "description": "Chi non adotta ora perde margini operativi. I competitor che testano fallimenti simulati prima del deploy vincono.",
+          "visual_hint": "mano che preme pulsante test",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "hand pressing test button",
+          "image": "https://images.pexels.com/photos/8879115/pexels-photo-8879115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Testa un fallimento simulato ora",
+          "description": "Costa meno di un'ora di fermo macchina. Il tuo prossimo deploy include uno scenario di fallimento in tempo reale?",
+          "visual_hint": "schermata simulazione errore",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "server warning simulation screen",
+          "image": "https://images.pexels.com/photos/9830823/pexels-photo-9830823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/821642/pexels-photo-821642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-06-05T14:28:08.332Z",
+      "sourceId": "8d525d5147b2ebcd96b87a43779864b4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "meta-rolls-out-a-new-ai-creator-assistant-on-faceb",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -42041,6 +42249,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-cremosa-con-zucchine-provola-e-capperi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta cremosa con zucchine, provola e capperi",
+      "link": "https://ricette.giallozafferano.it/Pasta-cremosa-con-zucchine-provola-e-capperi.html",
+      "pubDate": "Fri, 05 Jun 2026 15:14:00 +0200",
+      "content": "Pasta cremosa con zucchine, provola e capperi: ricetta facile Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta cremosa con zucchine, provola e capperi /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Difficoltà: Facile Preparazione: 20 min Cottura: 30 min Dosi per: 4 persone Costo: Medio Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La pasta cremosa con zucchine provola e capperi è il primo piatto perfetto per celebrare l'arrivo della bella stagione. Questa ricetta, realizzata con ingredienti di primavera semplici e freschi, proposti qui in una veste gourmet. Il segreto del successo di questo piatto si nasconde proprio nella sua incredibile texture: una cremosità avvolgente che si ottiene dalle zucchine frullate, dalla crema di provola e dalla salsa ai capperi. Bastano un giro di lame e pochi tocchi strategici in cucina per un risultato strepitoso, capace di trasformare una normale spaghettata in un pranzo raffinato e goloso. Provate anche altre varianti di questa pasta cremosa con zucchine : Pasta con crema di zucchine e burrata Pasta cremosa speck e zucchine Pasta con crema di zucchine gialle e prosciutto Pasta con crema di zucchine e caprino al limone e curcuma Trofie con crema di zucchine e pancetta INGREDIENTI Spaghetti 320 g Provola fresca 250 g Olio extravergine d'oliva q.b. per la crema di zucchine Zucchine 300 g Acqua 100 g Sale fino q.b. Olio extravergine d'oliva q.b. Aglio 1 spicchio Prezzemolo 10 g per la salsa di capperi Capperi sott'aceto 60 g Panna fresca liquida 60 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta cremosa con zucchine, provola e capperi Per preparare la pasta cremosa con zucchine, provola e capperi spuntate le zucchine 1 e tagliatele a cubetti di circa 1 cm 2 . Trasferite le zucchine in una teglia, conditele con un filo d'olio e cuocetele in forno statico preriscaldato a 230° per 20 minuti 3 . Intanto trasferite la provola in un boccale 4 e frullatela con il mixer a immersione 5 per ottenere una crema liscia 6 . In un pentolino versate la panna e i capperi 7 , portate il composto a bollore, frullate in un boccale 8 e tenete da parte questa salsa saporita 9 . Quando le zucchine sono pronte 10 , versatele in un boccale 11 con l'acqua 12 . Salate 13 , aromatizzate con il prezzemolo 14 e frullate bene il tutto 15 . In una padella scaldate l'olio con l'aglio 16 , una volta che si sarà insaporito l'olio, eliminate l'aglio 17 e aggiungete la crema 18 . Lasciate la crema a fuoco basso mentre vi occupate degli spaghetti. Nel frattempo cuocete gli spaghetti al dente 19 e aggiungete un mestolo di acqua della pasta alla crema 20 . Scolate gli spaghetti in padella e terminate la cottura, condite con un filo d'olio e amalgamate 21 . Servite con la crema di provola fresca 22 e la salsa di capperi 23 . La pasta cremosa con zucchine, provola e capperi è pronta da gustare 24 . Conservazione Consumate subito la pasta cremosa con zucchine, provola e capperi. Potete preparare in anticipo la crema di zucchine. Consiglio Per ottenere una consistenza impeccabile e super cremosa, vi consigliamo di frullare la provola quando è a temperatura ambiente e, se necessario, potete aggiungere un goccio di acqua di cottura della pasta calda per aiutarvi a scioglierla senza formare grumi prima di unirla al piatto. La provola fresca può essere sostituita dalla mozzarella. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchine Spaghetti Aglio Pasta Olio di oliva Prezzemolo Capperi Scopri tutto sugli ingredienti Presente in: Primi piatti al forno , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta cremosa con zucchine, provola e capperi Gelato 3 ingredienti allo yogurt senza gelatiera 5.0 Crocchette di merluzzo e patate 5.0 SCOPRI Pasta e patate con provola Pasta olive e capperi Pasta zucchine e tonno Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Non hai trovato l'ispirazione giusta? Prova queste! Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Pasta cremosa con zucchine, provola e capperi",
+        "Zucchine, provola, capperi, spaghetti, panna",
+        "Frulla zucchine cotte con acqua e prezzemolo",
+        "Unisci crema di zucchine e spaghetti al dente",
+        "Aggiungi crema di provola e salsa di capperi"
+      ],
+      "instagram_caption": "Questa pasta è una di quelle che mangi con gli occhi chiusi. 🍝💚\n\nFrullo le zucchine cotte con acqua e prezzemolo per una crema vellutata, poi spadello gli spaghetti al dente. Aggiungo la provola che si scioglie in un abbraccio filante e una spolverata di capperi per quel tocco sapido che fa la differenza. Ogni forchettata è un equilibrio perfetto tra dolcezza e sapore. \n\nProvala questo weekend e fammi sapere! 🌿✨",
+      "formats": {
+        "instagram": {
+          "caption": "Questa pasta è una di quelle che mangi con gli occhi chiusi. 🍝💚\n\nFrullo le zucchine cotte con acqua e prezzemolo per una crema vellutata, poi spadello gli spaghetti al dente. Aggiungo la provola che si scioglie in un abbraccio filante e una spolverata di capperi per quel tocco sapido che fa la differenza. Ogni forchettata è un equilibrio perfetto tra dolcezza e sapore. \n\nProvala questo weekend e fammi sapere! 🌿✨"
+        },
+        "tiktok": {
+          "script": [
+            "Frullo le zucchine cotte con prezzemolo e acqua.",
+            "Butto gli spaghetti al dente nella crema verde.",
+            "Aggiungo la provola per renderla ancora più filante.",
+            "Verso la salsa di capperi per il tocco salato.",
+            "Manteco e servo subito: è una bomba!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Cremosa, affumicata e con quel tocco salato dei capperi che cambia tutto. Questa pasta con zucchine e provola è un colpo al cuore.",
+            "Zucchine, provola, capperi, spaghetti, panna. Roba da dispensa, ma il gesto chiave è frullare le zucchine cotte con acqua e prezzemolo.",
+            "Cuoci le zucchine in padella finché non sono tenere, poi frullale con un po' d'acqua di cottura e prezzemolo fresco. Crema vellutata pronta.",
+            "Scola gli spaghetti al dente e saltali nella crema di zucchine. Aggiungi la provola a cubetti e lascia che si sciolga. Poi i capperi: esplosione.",
+            "Trucco: tieni da parte un po' di crema per mantecare a fuoco spento. Provala e fammi sapere se ti è venuta l'acquolina👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Frullo le zucchine cotte con prezzemolo e acqua.",
+        "Butto gli spaghetti al dente nella crema verde.",
+        "Aggiungo la provola per renderla ancora più filante.",
+        "Verso la salsa di capperi per il tocco salato.",
+        "Manteco e servo subito: è una bomba!"
+      ],
+      "thread_text": [
+        "Cremosa, affumicata e con quel tocco salato dei capperi che cambia tutto. Questa pasta con zucchine e provola è un colpo al cuore.",
+        "Zucchine, provola, capperi, spaghetti, panna. Roba da dispensa, ma il gesto chiave è frullare le zucchine cotte con acqua e prezzemolo.",
+        "Cuoci le zucchine in padella finché non sono tenere, poi frullale con un po' d'acqua di cottura e prezzemolo fresco. Crema vellutata pronta.",
+        "Scola gli spaghetti al dente e saltali nella crema di zucchine. Aggiungi la provola a cubetti e lascia che si sciolga. Poi i capperi: esplosione.",
+        "Trucco: tieni da parte un po' di crema per mantecare a fuoco spento. Provala e fammi sapere se ti è venuta l'acquolina👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta cremosa con zucchine e provola",
+          "description": "Una pasta avvolgente, cremosa e saporita, perfetta per una cena speciale.",
+          "visual_hint": "Piatto finito fumante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory creamy zucchini pasta"
+        },
+        {
+          "hook": "Ingredienti semplici, gusto unico",
+          "description": "Zucchine fresche, provola filante, capperi salati, panna e spaghetti.",
+          "visual_hint": "Ingredienti disposti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory zucchini provola ingredients",
+          "image": "https://images.pexels.com/photos/31969431/pexels-photo-31969431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Frulla per una crema vellutata",
+          "description": "Cuoci le zucchine, poi frullale con acqua e prezzemolo fino a ottenere una crema liscia.",
+          "visual_hint": "Mani che frullano",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory blending zucchini cream",
+          "image": "https://images.pexels.com/photos/18265289/pexels-photo-18265289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Unisci crema e spaghetti",
+          "description": "Scola la pasta al dente e mantecala con la crema di zucchine in padella.",
+          "visual_hint": "Pasta nella padella con crema",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory tossing pasta zucchini",
+          "image": "https://images.pexels.com/photos/1373915/pexels-photo-1373915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Aggiungi provola e capperi",
+          "description": "Ultimo tocco: crema di provola e salsa di capperi per un sapore indimenticabile.",
+          "visual_hint": "Piatto impiattato guarnito",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pasta provola capers",
+          "image": "https://images.pexels.com/photos/8264654/pexels-photo-8264654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "zucchine",
+        "provola",
+        "capperi"
+      ],
+      "image": "https://www.giallozafferano.it/images/362-36266/Pasta-cremosa-con-zucchine-provola-e-capperi_650x433_wm.jpg",
+      "savedAt": "2026-06-05T14:32:07.463Z",
+      "sourceId": "4e9572926c420ed4e0ff9b50882cd830"
+    },
     {
       "schema_version": 2,
       "agent": "food",

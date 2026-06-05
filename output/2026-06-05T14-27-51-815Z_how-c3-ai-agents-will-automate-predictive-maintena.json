@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-c3-ai-agents-will-automate-predictive-maintena",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How C3 AI agents will automate predictive maintenance for Shell",
+  "link": "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/",
+  "pubDate": "Fri, 05 Jun 2026 11:34:09 +0000",
+  "slides": [
+    "C3 AI promette di sostituire i tuoi ingegneri?",
+    "Shell userà agenti AI per manutenzione predittiva",
+    "Ma i modelli falliscono su dati in tempo reale",
+    "Chi non adotta ora perde margini operativi",
+    "Testa un fallimento simulato prima del deploy"
+  ],
+  "thread_text": [
+    "I modelli AI falliscono quando incontrano dati in tempo reale. Non è un bug: è il motivo per cui la tua manutenzione predittiva non funziona ancora.",
+    "C3 AI promette di sostituire i tuoi ingegneri con agenti autonomi. Shell li userà per la manutenzione predittiva. Sembra il futuro, ma c'è un problema.",
+    "Quegli stessi modelli crollano appena i sensori iniziano a produrre rumore o valori fuori training. Il 90% dei fallimenti in produzione arriva da lì.",
+    "Ecco la svolta: chi non adotta ora non perde un vantaggio, perde margini operativi. I competitor che testano fallimenti simulati prima del deploy vincono.",
+    "Domanda concreta: il tuo prossimo deploy include uno scenario di fallimento in tempo reale? Se no, parti da lì. Costa meno di un'ora di fermo macchina."
+  ],
+  "video_script": [
+    "I modelli AI falliscono sui dati veri.",
+    "C3 AI vuole sostituire i tuoi ingegneri.",
+    "Shell ci prova per la manutenzione.",
+    "Ma il problema è il rumore dei sensori.",
+    "Testa un fallimento prima del deploy."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "I modelli AI falliscono quando incontrano dati in tempo reale. Non è un bug: è il motivo per cui la tua manutenzione predittiva non funziona ancora.",
+        "C3 AI promette di sostituire i tuoi ingegneri con agenti autonomi. Shell li userà per la manutenzione predittiva. Sembra il futuro, ma c'è un problema.",
+        "Quegli stessi modelli crollano appena i sensori iniziano a produrre rumore o valori fuori training. Il 90% dei fallimenti in produzione arriva da lì.",
+        "Ecco la svolta: chi non adotta ora non perde un vantaggio, perde margini operativi. I competitor che testano fallimenti simulati prima del deploy vincono.",
+        "Domanda concreta: il tuo prossimo deploy include uno scenario di fallimento in tempo reale? Se no, parti da lì. Costa meno di un'ora di fermo macchina."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "I modelli AI falliscono sui dati veri.",
+        "C3 AI vuole sostituire i tuoi ingegneri.",
+        "Shell ci prova per la manutenzione.",
+        "Ma il problema è il rumore dei sensori.",
+        "Testa un fallimento prima del deploy."
+      ]
+    },
+    "instagram": {
+      "caption": "C3 AI dice a Shell che i suoi agenti automatizzeranno tutta la manutenzione predittiva, ma i modelli crollano non appena i sensori in fabbrica iniziano a produrre dati fuori dai limiti di addestramento. Nel 90% dei casi il fallimento arriva da lì. ⚙️ Per te significa che il deploy non può saltare un test con dati reali e rumorosi: costa meno di un'ora di fermo macchina. Chi non lo fa ora, perde margini operativi contro chi lo prova. 🔍 Il tuo prossimo progetto ha già uno scenario di errore simulato?"
+    }
+  },
+  "instagram_caption": "C3 AI dice a Shell che i suoi agenti automatizzeranno tutta la manutenzione predittiva, ma i modelli crollano non appena i sensori in fabbrica iniziano a produrre dati fuori dai limiti di addestramento. Nel 90% dei casi il fallimento arriva da lì. ⚙️ Per te significa che il deploy non può saltare un test con dati reali e rumorosi: costa meno di un'ora di fermo macchina. Chi non lo fa ora, perde margini operativi contro chi lo prova. 🔍 Il tuo prossimo progetto ha già uno scenario di errore simulato?",
+  "carousel_slides": [
+    {
+      "hook": "I modelli AI falliscono sui dati reali",
+      "description": "Non è un bug: il 90% dei fallimenti in produzione arriva da dati reali. È perché la tua manutenzione predittiva non funziona ancora.",
+      "visual_hint": "sensore digitale che si spegne",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "broken sensor industrial"
+    },
+    {
+      "hook": "C3 AI sostituirà i tuoi ingegneri?",
+      "description": "Shell userà agenti AI per manutenzione predittiva. Sembra il futuro, ma quei modelli crollano sui dati fuori training.",
+      "visual_hint": "logo Shell su schermo server",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "oil refinery server room",
+      "image": "https://images.pexels.com/photos/15970029/pexels-photo-15970029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Falliscono su dati in tempo reale",
+      "description": "I modelli crollano appena i sensori producono rumore o valori fuori training. Il 90% dei fallimenti in produzione arriva da lì.",
+      "visual_hint": "grafico a picco con sensore",
+      "layout_type": "sensor-zoom",
+      "icon": "waves",
+      "image_query": "industrial sensor graph",
+      "image": "https://images.pexels.com/photos/5532986/pexels-photo-5532986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chi non adotta ora perde margini",
+      "description": "Chi non adotta ora perde margini operativi. I competitor che testano fallimenti simulati prima del deploy vincono.",
+      "visual_hint": "mano che preme pulsante test",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "hand pressing test button",
+      "image": "https://images.pexels.com/photos/8879115/pexels-photo-8879115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Testa un fallimento simulato ora",
+      "description": "Costa meno di un'ora di fermo macchina. Il tuo prossimo deploy include uno scenario di fallimento in tempo reale?",
+      "visual_hint": "schermata simulazione errore",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "server warning simulation screen",
+      "image": "https://images.pexels.com/photos/9830823/pexels-photo-9830823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/821642/pexels-photo-821642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-05T14:28:08.332Z",
+  "sourceId": "8d525d5147b2ebcd96b87a43779864b4"
+}

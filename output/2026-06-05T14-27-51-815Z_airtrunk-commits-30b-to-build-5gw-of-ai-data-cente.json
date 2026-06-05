@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "airtrunk-commits-30b-to-build-5gw-of-ai-data-cente",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+  "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+  "pubDate": "Fri, 05 Jun 2026 13:03:10 +0000",
+  "slides": [
+    "AirTrunk investe 30 miliardi in India, ma basteranno?",
+    "I data center richiedono 5GW, quanta acqua serve?",
+    "L'India non ha ancora una rete stabile per gestirli",
+    "Le aziende locali rischiano blackout e costi maggiori",
+    "Calcola il fabbisogno energetico del tuo cloud oggi"
+  ],
+  "thread_text": [
+    "L'India non ha una rete stabile per reggere 5GW di data center. Eppure AirTrunk investe 30 miliardi.",
+    "Ogni data center consuma acqua per raffreddare i server. Con 5GW il fabbisogno è enorme, in un paese che già soffre siccità.",
+    "La rete locale traballa. Se i data center assorbono tutta l'energia, le aziende indiane rischiano blackout e costi alle stelle.",
+    "AirTrunk punta a risolvere, ma il gap infrastrutturale resta. Il governo deve decidere se privilegiare il cloud o i cittadini.",
+    "Calcola oggi quanta energia consumeresti spostando il tuo cloud in India: i numeri potrebbero sorprenderti."
+  ],
+  "video_script": [
+    "Investono 30 miliardi in data center indiani.",
+    "Ma la rete elettrica regge 5 gigawatt?",
+    "Ogni server beve acqua come un campo di grano.",
+    "Le aziende locali pagheranno blackout e bollette salate.",
+    "Tu quanta energia consumi con il cloud?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "L'India non ha una rete stabile per reggere 5GW di data center. Eppure AirTrunk investe 30 miliardi.",
+        "Ogni data center consuma acqua per raffreddare i server. Con 5GW il fabbisogno è enorme, in un paese che già soffre siccità.",
+        "La rete locale traballa. Se i data center assorbono tutta l'energia, le aziende indiane rischiano blackout e costi alle stelle.",
+        "AirTrunk punta a risolvere, ma il gap infrastrutturale resta. Il governo deve decidere se privilegiare il cloud o i cittadini.",
+        "Calcola oggi quanta energia consumeresti spostando il tuo cloud in India: i numeri potrebbero sorprenderti."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Investono 30 miliardi in data center indiani.",
+        "Ma la rete elettrica regge 5 gigawatt?",
+        "Ogni server beve acqua come un campo di grano.",
+        "Le aziende locali pagheranno blackout e bollette salate.",
+        "Tu quanta energia consumi con il cloud?"
+      ]
+    },
+    "instagram": {
+      "caption": "AirTrunk ha messo sul tavolo 30 miliardi di dollari per costruire data center AI in India, capaci di consumare 5 gigawatt. 🔌 Il problema? La rete elettrica indiana non è pronta per reggere un carico del genere, e ogni data center richiede enormi quantità d'acqua per raffreddarsi — in un paese che affronta già siccità ricorrenti. 💧 Se la priorità va a queste strutture, le aziende locali rischiano blackout e bollette più salate. Per te significa che il costo dei servizi cloud potrebbe salire, mentre l'infrastruttura fatica a stare al passo. Quanta energia consumerebbe il tuo lavoro se fosse spostato lì? 🏭"
+    }
+  },
+  "instagram_caption": "AirTrunk ha messo sul tavolo 30 miliardi di dollari per costruire data center AI in India, capaci di consumare 5 gigawatt. 🔌 Il problema? La rete elettrica indiana non è pronta per reggere un carico del genere, e ogni data center richiede enormi quantità d'acqua per raffreddarsi — in un paese che affronta già siccità ricorrenti. 💧 Se la priorità va a queste strutture, le aziende locali rischiano blackout e bollette più salate. Per te significa che il costo dei servizi cloud potrebbe salire, mentre l'infrastruttura fatica a stare al passo. Quanta energia consumerebbe il tuo lavoro se fosse spostato lì? 🏭",
+  "carousel_slides": [
+    {
+      "hook": "Ma l'India reggerà 5GW?",
+      "description": "L'India non ha una rete stabile per reggere 5GW di data center. AirTrunk investe 30 miliardi.",
+      "visual_hint": "mappa India con fulmini",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "power grid map"
+    },
+    {
+      "hook": "Acqua per raffreddare server",
+      "description": "5GW di data center richiedono acqua enorme. Un paese già colpito da siccità.",
+      "visual_hint": "goccia d'acqua su server",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center cooling",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "La rete locale traballa",
+      "description": "Aziende indiane rischiano blackout e costi alle stelle se i data center assorbono tutta l'energia.",
+      "visual_hint": "grafico blackout in salita",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "power outage graph",
+      "image": "https://images.pexels.com/photos/7567445/pexels-photo-7567445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cloud o cittadini?",
+      "description": "AirTrunk punta a risolvere, ma il gap infrastrutturale resta. Governo deve decidere.",
+      "visual_hint": "simbolo città vs cloud",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "city skyline cloud",
+      "image": "https://images.pexels.com/photos/34075155/pexels-photo-34075155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Quanto consumi tu?",
+      "description": "Calcola oggi quanta energia consumeresti spostando il tuo cloud in India: numeri sorprendenti.",
+      "visual_hint": "calcolatrice con fulmine",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calculator energy meter",
+      "image": "https://images.pexels.com/photos/11125742/pexels-photo-11125742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2089845337.jpg?resize=1200,800",
+  "savedAt": "2026-06-05T14:28:23.048Z",
+  "sourceId": "df474478ba460f6c021844d63fe0d3cc"
+}

@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "airtrunk-commits-30b-to-build-5gw-of-ai-data-cente",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+    "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+    "pubDate": "Fri, 05 Jun 2026 13:03:10 +0000",
+    "slides": [
+      "AirTrunk investe 30 miliardi in India, ma basteranno?",
+      "I data center richiedono 5GW, quanta acqua serve?",
+      "L'India non ha ancora una rete stabile per gestirli",
+      "Le aziende locali rischiano blackout e costi maggiori",
+      "Calcola il fabbisogno energetico del tuo cloud oggi"
+    ],
+    "thread_text": [
+      "L'India non ha una rete stabile per reggere 5GW di data center. Eppure AirTrunk investe 30 miliardi.",
+      "Ogni data center consuma acqua per raffreddare i server. Con 5GW il fabbisogno è enorme, in un paese che già soffre siccità.",
+      "La rete locale traballa. Se i data center assorbono tutta l'energia, le aziende indiane rischiano blackout e costi alle stelle.",
+      "AirTrunk punta a risolvere, ma il gap infrastrutturale resta. Il governo deve decidere se privilegiare il cloud o i cittadini.",
+      "Calcola oggi quanta energia consumeresti spostando il tuo cloud in India: i numeri potrebbero sorprenderti."
+    ],
+    "video_script": [
+      "Investono 30 miliardi in data center indiani.",
+      "Ma la rete elettrica regge 5 gigawatt?",
+      "Ogni server beve acqua come un campo di grano.",
+      "Le aziende locali pagheranno blackout e bollette salate.",
+      "Tu quanta energia consumi con il cloud?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "L'India non ha una rete stabile per reggere 5GW di data center. Eppure AirTrunk investe 30 miliardi.",
+          "Ogni data center consuma acqua per raffreddare i server. Con 5GW il fabbisogno è enorme, in un paese che già soffre siccità.",
+          "La rete locale traballa. Se i data center assorbono tutta l'energia, le aziende indiane rischiano blackout e costi alle stelle.",
+          "AirTrunk punta a risolvere, ma il gap infrastrutturale resta. Il governo deve decidere se privilegiare il cloud o i cittadini.",
+          "Calcola oggi quanta energia consumeresti spostando il tuo cloud in India: i numeri potrebbero sorprenderti."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Investono 30 miliardi in data center indiani.",
+          "Ma la rete elettrica regge 5 gigawatt?",
+          "Ogni server beve acqua come un campo di grano.",
+          "Le aziende locali pagheranno blackout e bollette salate.",
+          "Tu quanta energia consumi con il cloud?"
+        ]
+      },
+      "instagram": {
+        "caption": "AirTrunk ha messo sul tavolo 30 miliardi di dollari per costruire data center AI in India, capaci di consumare 5 gigawatt. 🔌 Il problema? La rete elettrica indiana non è pronta per reggere un carico del genere, e ogni data center richiede enormi quantità d'acqua per raffreddarsi — in un paese che affronta già siccità ricorrenti. 💧 Se la priorità va a queste strutture, le aziende locali rischiano blackout e bollette più salate. Per te significa che il costo dei servizi cloud potrebbe salire, mentre l'infrastruttura fatica a stare al passo. Quanta energia consumerebbe il tuo lavoro se fosse spostato lì? 🏭"
+      }
+    },
+    "instagram_caption": "AirTrunk ha messo sul tavolo 30 miliardi di dollari per costruire data center AI in India, capaci di consumare 5 gigawatt. 🔌 Il problema? La rete elettrica indiana non è pronta per reggere un carico del genere, e ogni data center richiede enormi quantità d'acqua per raffreddarsi — in un paese che affronta già siccità ricorrenti. 💧 Se la priorità va a queste strutture, le aziende locali rischiano blackout e bollette più salate. Per te significa che il costo dei servizi cloud potrebbe salire, mentre l'infrastruttura fatica a stare al passo. Quanta energia consumerebbe il tuo lavoro se fosse spostato lì? 🏭",
+    "carousel_slides": [
+      {
+        "hook": "Ma l'India reggerà 5GW?",
+        "description": "L'India non ha una rete stabile per reggere 5GW di data center. AirTrunk investe 30 miliardi.",
+        "visual_hint": "mappa India con fulmini",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "power grid map"
+      },
+      {
+        "hook": "Acqua per raffreddare server",
+        "description": "5GW di data center richiedono acqua enorme. Un paese già colpito da siccità.",
+        "visual_hint": "goccia d'acqua su server",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center cooling",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "La rete locale traballa",
+        "description": "Aziende indiane rischiano blackout e costi alle stelle se i data center assorbono tutta l'energia.",
+        "visual_hint": "grafico blackout in salita",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "power outage graph",
+        "image": "https://images.pexels.com/photos/7567445/pexels-photo-7567445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cloud o cittadini?",
+        "description": "AirTrunk punta a risolvere, ma il gap infrastrutturale resta. Governo deve decidere.",
+        "visual_hint": "simbolo città vs cloud",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "city skyline cloud",
+        "image": "https://images.pexels.com/photos/34075155/pexels-photo-34075155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Quanto consumi tu?",
+        "description": "Calcola oggi quanta energia consumeresti spostando il tuo cloud in India: numeri sorprendenti.",
+        "visual_hint": "calcolatrice con fulmine",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calculator energy meter",
+        "image": "https://images.pexels.com/photos/11125742/pexels-photo-11125742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2089845337.jpg?resize=1200,800",
+    "savedAt": "2026-06-05T14:28:23.048Z",
+    "sourceId": "df474478ba460f6c021844d63fe0d3cc"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "how-c3-ai-agents-will-automate-predictive-maintena",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "How C3 AI agents will automate predictive maintenance for Shell",
+    "link": "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/",
+    "pubDate": "Fri, 05 Jun 2026 11:34:09 +0000",
+    "slides": [
+      "C3 AI promette di sostituire i tuoi ingegneri?",
+      "Shell userà agenti AI per manutenzione predittiva",
+      "Ma i modelli falliscono su dati in tempo reale",
+      "Chi non adotta ora perde margini operativi",
+      "Testa un fallimento simulato prima del deploy"
+    ],
+    "thread_text": [
+      "I modelli AI falliscono quando incontrano dati in tempo reale. Non è un bug: è il motivo per cui la tua manutenzione predittiva non funziona ancora.",
+      "C3 AI promette di sostituire i tuoi ingegneri con agenti autonomi. Shell li userà per la manutenzione predittiva. Sembra il futuro, ma c'è un problema.",
+      "Quegli stessi modelli crollano appena i sensori iniziano a produrre rumore o valori fuori training. Il 90% dei fallimenti in produzione arriva da lì.",
+      "Ecco la svolta: chi non adotta ora non perde un vantaggio, perde margini operativi. I competitor che testano fallimenti simulati prima del deploy vincono.",
+      "Domanda concreta: il tuo prossimo deploy include uno scenario di fallimento in tempo reale? Se no, parti da lì. Costa meno di un'ora di fermo macchina."
+    ],
+    "video_script": [
+      "I modelli AI falliscono sui dati veri.",
+      "C3 AI vuole sostituire i tuoi ingegneri.",
+      "Shell ci prova per la manutenzione.",
+      "Ma il problema è il rumore dei sensori.",
+      "Testa un fallimento prima del deploy."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "I modelli AI falliscono quando incontrano dati in tempo reale. Non è un bug: è il motivo per cui la tua manutenzione predittiva non funziona ancora.",
+          "C3 AI promette di sostituire i tuoi ingegneri con agenti autonomi. Shell li userà per la manutenzione predittiva. Sembra il futuro, ma c'è un problema.",
+          "Quegli stessi modelli crollano appena i sensori iniziano a produrre rumore o valori fuori training. Il 90% dei fallimenti in produzione arriva da lì.",
+          "Ecco la svolta: chi non adotta ora non perde un vantaggio, perde margini operativi. I competitor che testano fallimenti simulati prima del deploy vincono.",
+          "Domanda concreta: il tuo prossimo deploy include uno scenario di fallimento in tempo reale? Se no, parti da lì. Costa meno di un'ora di fermo macchina."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "I modelli AI falliscono sui dati veri.",
+          "C3 AI vuole sostituire i tuoi ingegneri.",
+          "Shell ci prova per la manutenzione.",
+          "Ma il problema è il rumore dei sensori.",
+          "Testa un fallimento prima del deploy."
+        ]
+      },
+      "instagram": {
+        "caption": "C3 AI dice a Shell che i suoi agenti automatizzeranno tutta la manutenzione predittiva, ma i modelli crollano non appena i sensori in fabbrica iniziano a produrre dati fuori dai limiti di addestramento. Nel 90% dei casi il fallimento arriva da lì. ⚙️ Per te significa che il deploy non può saltare un test con dati reali e rumorosi: costa meno di un'ora di fermo macchina. Chi non lo fa ora, perde margini operativi contro chi lo prova. 🔍 Il tuo prossimo progetto ha già uno scenario di errore simulato?"
+      }
+    },
+    "instagram_caption": "C3 AI dice a Shell che i suoi agenti automatizzeranno tutta la manutenzione predittiva, ma i modelli crollano non appena i sensori in fabbrica iniziano a produrre dati fuori dai limiti di addestramento. Nel 90% dei casi il fallimento arriva da lì. ⚙️ Per te significa che il deploy non può saltare un test con dati reali e rumorosi: costa meno di un'ora di fermo macchina. Chi non lo fa ora, perde margini operativi contro chi lo prova. 🔍 Il tuo prossimo progetto ha già uno scenario di errore simulato?",
+    "carousel_slides": [
+      {
+        "hook": "I modelli AI falliscono sui dati reali",
+        "description": "Non è un bug: il 90% dei fallimenti in produzione arriva da dati reali. È perché la tua manutenzione predittiva non funziona ancora.",
+        "visual_hint": "sensore digitale che si spegne",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "broken sensor industrial"
+      },
+      {
+        "hook": "C3 AI sostituirà i tuoi ingegneri?",
+        "description": "Shell userà agenti AI per manutenzione predittiva. Sembra il futuro, ma quei modelli crollano sui dati fuori training.",
+        "visual_hint": "logo Shell su schermo server",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "oil refinery server room",
+        "image": "https://images.pexels.com/photos/15970029/pexels-photo-15970029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Falliscono su dati in tempo reale",
+        "description": "I modelli crollano appena i sensori producono rumore o valori fuori training. Il 90% dei fallimenti in produzione arriva da lì.",
+        "visual_hint": "grafico a picco con sensore",
+        "layout_type": "sensor-zoom",
+        "icon": "waves",
+        "image_query": "industrial sensor graph",
+        "image": "https://images.pexels.com/photos/5532986/pexels-photo-5532986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Chi non adotta ora perde margini",
+        "description": "Chi non adotta ora perde margini operativi. I competitor che testano fallimenti simulati prima del deploy vincono.",
+        "visual_hint": "mano che preme pulsante test",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "hand pressing test button",
+        "image": "https://images.pexels.com/photos/8879115/pexels-photo-8879115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Testa un fallimento simulato ora",
+        "description": "Costa meno di un'ora di fermo macchina. Il tuo prossimo deploy include uno scenario di fallimento in tempo reale?",
+        "visual_hint": "schermata simulazione errore",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "server warning simulation screen",
+        "image": "https://images.pexels.com/photos/9830823/pexels-photo-9830823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/821642/pexels-photo-821642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-05T14:28:08.332Z",
+    "sourceId": "8d525d5147b2ebcd96b87a43779864b4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "meta-rolls-out-a-new-ai-creator-assistant-on-faceb",
     "prompt_version": "1.0.0",
     "status": "published",
