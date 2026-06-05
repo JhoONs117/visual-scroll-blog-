@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "airbnb-s-brian-chesky-plans-to-launch-a-new-ai-lab",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "pubDate": "Thu, 04 Jun 2026 22:29:50 +0000",
+      "slides": [
+        "Brian Chesky sta per aprire un nuovo lab AI?",
+        "Il CEO di Airbnb guida personalmente il progetto.",
+        "Non per costruire case, ma per reinventare il viaggio.",
+        "Cosa cambia: prenotazioni più intelligenti per te.",
+        "Segui i prossimi annunci, deciderai come viaggiare."
+      ],
+      "thread_text": [
+        "Non per costruire case, ma per reinventare il viaggio. Brian Chesky sta aprendo un nuovo laboratorio AI e lo guida personalmente.",
+        "Fino a oggi, prenotare un viaggio significava passare ore tra filtri, recensioni e mappe. Il problema non era trovare una casa, ma decidere dove andare.",
+        "Chesky vuole che l’AI lo faccia per te. Il sistema impara cosa cerchi davvero — non quello che clicchi una volta — e ti propone destinazioni e date che non avresti mai considerato.",
+        "Il punto non sarà più sfogliare centinaia di annunci. Sarà dire: ‘Voglio un weekend rilassante con vista mare e colazione biologica’ e ricevere tre opzioni pronte.",
+        "I primi annunci arrivano nelle prossime settimane. Se usi Airbnb, il modo in cui scegli dove andare sta per cambiare. Segui i prossimi annunci, deciderai come viaggiare."
+      ],
+      "video_script": [
+        "Brian Chesky sta aprendo un nuovo laboratorio AI.",
+        "Ma non per costruire case.",
+        "Lui vuole reinventare il viaggio da zero.",
+        "Prenotazioni più intelligenti, pensate per te.",
+        "I prossimi annunci cambieranno come scegli dove andare."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Non per costruire case, ma per reinventare il viaggio. Brian Chesky sta aprendo un nuovo laboratorio AI e lo guida personalmente.",
+            "Fino a oggi, prenotare un viaggio significava passare ore tra filtri, recensioni e mappe. Il problema non era trovare una casa, ma decidere dove andare.",
+            "Chesky vuole che l’AI lo faccia per te. Il sistema impara cosa cerchi davvero — non quello che clicchi una volta — e ti propone destinazioni e date che non avresti mai considerato.",
+            "Il punto non sarà più sfogliare centinaia di annunci. Sarà dire: ‘Voglio un weekend rilassante con vista mare e colazione biologica’ e ricevere tre opzioni pronte.",
+            "I primi annunci arrivano nelle prossime settimane. Se usi Airbnb, il modo in cui scegli dove andare sta per cambiare. Segui i prossimi annunci, deciderai come viaggiare."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Brian Chesky sta aprendo un nuovo laboratorio AI.",
+            "Ma non per costruire case.",
+            "Lui vuole reinventare il viaggio da zero.",
+            "Prenotazioni più intelligenti, pensate per te.",
+            "I prossimi annunci cambieranno come scegli dove andare."
+          ]
+        },
+        "instagram": {
+          "caption": "Brian Chesky, CEO di Airbnb, sta guidando personalmente la creazione di un nuovo laboratorio di intelligenza artificiale. 🧠 Il progetto non serve a costruire case, ma a eliminare ore di filtri e recensioni quando cerchi una vacanza. 🏖️ L'idea è che l'AI impari cosa cerchi davvero e ti proponga tre opzioni perfette su misura. 🎯 Concretamente, non sfoglierai più centinaia di annunci: basterà dire \"voglio un weekend tranquillo con colazione biologica\" e ricevere già tutto pronto. I primi strumenti arrivano nelle prossime settimane. Tu cosa chiederesti al tuo viaggio? ✈️"
+        }
+      },
+      "instagram_caption": "Brian Chesky, CEO di Airbnb, sta guidando personalmente la creazione di un nuovo laboratorio di intelligenza artificiale. 🧠 Il progetto non serve a costruire case, ma a eliminare ore di filtri e recensioni quando cerchi una vacanza. 🏖️ L'idea è che l'AI impari cosa cerchi davvero e ti proponga tre opzioni perfette su misura. 🎯 Concretamente, non sfoglierai più centinaia di annunci: basterà dire \"voglio un weekend tranquillo con colazione biologica\" e ricevere già tutto pronto. I primi strumenti arrivano nelle prossime settimane. Tu cosa chiederesti al tuo viaggio? ✈️",
+      "carousel_slides": [
+        {
+          "hook": "Non per costruire case",
+          "description": "Brian Chesky apre un laboratorio AI. Lo guida lui. Non per costruire case, ma per reinventare il viaggio.",
+          "visual_hint": "Brian Chesky in primo piano",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Brian Chesky portrait"
+        },
+        {
+          "hook": "Addio a ore di filtri",
+          "description": "Fino a oggi prenotare significava ore tra filtri e recensioni. Il problema: decidere dove andare.",
+          "visual_hint": "Schermo con filtri e mappe",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "map and filters screen",
+          "image": "https://images.pexels.com/photos/4558710/pexels-photo-4558710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "L'AI impara cosa cerchi",
+          "description": "Il sistema impara cosa cerchi davvero, non un clic. Ti propone destinazioni mai considerate.",
+          "visual_hint": "Rete neurale luminosa",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "neural network visualization",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Basta centinaia di annunci",
+          "description": "Dirai: 'Voglio un weekend rilassante vista mare'. L'AI ti darà tre opzioni pronte.",
+          "visual_hint": "Tre schede di destinazione",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "three vacation cards",
+          "image": "https://images.pexels.com/photos/5420974/pexels-photo-5420974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il modo di viaggiare cambia",
+          "description": "Primi annunci nelle prossime settimane. Segui, deciderai come viaggiare.",
+          "visual_hint": "Calendario con data cerchiata",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar with circled date",
+          "image": "https://images.pexels.com/photos/7479755/pexels-photo-7479755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-652988834.jpg?w=1024",
+      "savedAt": "2026-06-05T02:36:56.857Z",
+      "sourceId": "64d9b1101438f86f9546a4a79a8d9fd2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ahead-of-its-ipo-anthropic-s-daniela-amodei-shrugs",
       "prompt_version": "1.0.0",
       "status": "published",
