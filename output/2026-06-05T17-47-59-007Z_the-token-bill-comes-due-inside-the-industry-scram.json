@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-token-bill-comes-due-inside-the-industry-scram",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+  "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+  "pubDate": "Fri, 05 Jun 2026 14:49:12 +0000",
+  "slides": [
+    "L'AI brucia miliardi: chi pagherà il conto?",
+    "I costi crescono del 40% annuo senza ritorno certo.",
+    "Ma alcuni modelli riducono i consumi del 90%.",
+    "Per te: ogni query costa meno di un centesimo ora.",
+    "Il vero margine? Ottimizzare invece di correre."
+  ],
+  "thread_text": [
+    "Ci sono già modelli di AI che consumano il 90% in meno di energia. Mentre tutti corrono, qualcuno ha capito che il vero margine è ottimizzare.",
+    "Oggi ogni query AI costa meno di un centesimo. Il problema è che il volume cresce al 40% annuo, e i conti iniziano a non tornare per chi paga i server.",
+    "Se il trend continua, il costo energetico globale dell'AI potrebbe superare quello di un'intera nazione. Nessuno ha ancora un ritorno certo su quella scala.",
+    "Per questo alcuni team hanno cambiato strategia: non modelli più grandi, ma più efficienti. Risultato: stesse performance, consumi tagliati del 90%.",
+    "Costa meno di un caffè al giorno avere un assistente AI che funziona. Se non hai ancora provato a ottimizzare le tue query, oggi è il giorno giusto."
+  ],
+  "video_script": [
+    "L'AI brucia un sacco di soldi.",
+    "I costi salgono del 40% ogni anno.",
+    "Ma c'è chi ha tagliato i consumi del 90%.",
+    "Te costa meno di un centesimo per query.",
+    "Il margine è ottimizzare, non correre."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Ci sono già modelli di AI che consumano il 90% in meno di energia. Mentre tutti corrono, qualcuno ha capito che il vero margine è ottimizzare.",
+        "Oggi ogni query AI costa meno di un centesimo. Il problema è che il volume cresce al 40% annuo, e i conti iniziano a non tornare per chi paga i server.",
+        "Se il trend continua, il costo energetico globale dell'AI potrebbe superare quello di un'intera nazione. Nessuno ha ancora un ritorno certo su quella scala.",
+        "Per questo alcuni team hanno cambiato strategia: non modelli più grandi, ma più efficienti. Risultato: stesse performance, consumi tagliati del 90%.",
+        "Costa meno di un caffè al giorno avere un assistente AI che funziona. Se non hai ancora provato a ottimizzare le tue query, oggi è il giorno giusto."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "L'AI brucia un sacco di soldi.",
+        "I costi salgono del 40% ogni anno.",
+        "Ma c'è chi ha tagliato i consumi del 90%.",
+        "Te costa meno di un centesimo per query.",
+        "Il margine è ottimizzare, non correre."
+      ]
+    },
+    "instagram": {
+      "caption": "Ogni query AI oggi costa meno di un centesimo, ma il volume cresce del 40% all’anno e i conti iniziano a non tornare per chi paga i server. ⚡ Alcuni team hanno smesso di puntare su modelli sempre più grandi e hanno ottenuto le stesse performance tagliando i consumi del 90%. 💡 Per te: significa assistenti AI più economici e veloci, senza rincari nascosti in bolletta. Il vero margine non è correre, ma ottimizzare. Hai già verificato quanto spendono i tuoi strumenti AI al mese?"
+    }
+  },
+  "instagram_caption": "Ogni query AI oggi costa meno di un centesimo, ma il volume cresce del 40% all’anno e i conti iniziano a non tornare per chi paga i server. ⚡ Alcuni team hanno smesso di puntare su modelli sempre più grandi e hanno ottenuto le stesse performance tagliando i consumi del 90%. 💡 Per te: significa assistenti AI più economici e veloci, senza rincari nascosti in bolletta. Il vero margine non è correre, ma ottimizzare. Hai già verificato quanto spendono i tuoi strumenti AI al mese?",
+  "carousel_slides": [
+    {
+      "hook": "AI costi fuori controllo?",
+      "description": "Se il trend continua, il costo energetico globale dell'AI potrebbe superare quello di un'intera nazione.",
+      "visual_hint": "fiamma su grafico crescita",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "40% annuo senza ritorno",
+      "description": "Oggi ogni query costa meno di un centesimo, ma il volume cresce del 40% annuo e i conti non tornano.",
+      "visual_hint": "frecce crescita e contatore",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Modelli 90% più efficienti",
+      "description": "Alcuni team puntano a modelli più piccoli ma efficienti: stesse performance, consumi tagliati del 90%.",
+      "visual_hint": "dati comparativi bolletta",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ogni query sotto 1 centesimo",
+      "description": "Costa meno di un caffè al giorno avere un assistente AI. Oggi è il giorno per ottimizzare le tue query.",
+      "visual_hint": "mano con caffè e schermo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il vero margine? Ottimizzare",
+      "description": "Il vero margine non è correre, ma ottimizzare. Ci sono già modelli AI che consumano il 90% in meno.",
+      "visual_hint": "logo efficienza vs corsa",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "wind turbine",
+      "image": "https://images.pexels.com/photos/14468163/pexels-photo-14468163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1316461644.jpg?resize=1200,816",
+  "savedAt": "2026-06-05T17:48:14.316Z",
+  "sourceId": "177fcfdc05d4ab4bab538bfcde7cebdd"
+}

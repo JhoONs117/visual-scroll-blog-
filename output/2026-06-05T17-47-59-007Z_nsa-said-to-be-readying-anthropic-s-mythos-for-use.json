@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nsa-said-to-be-readying-anthropic-s-mythos-for-use",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
+  "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+  "pubDate": "Fri, 05 Jun 2026 14:32:57 +0000",
+  "slides": [
+    "Mythos entra nelle operazioni cyber della NSA?",
+    "L'IA di Anthropic supera i test di difesa critici.",
+    "Non serve a difendere, ma a condurre attacchi autonomi.",
+    "Le tue protezioni attuali potrebbero non bastare più.",
+    "Verifica subito se i tuoi sistemi reggono a Mythos."
+  ],
+  "thread_text": [
+    "Non serve a difenderti. Mythos attacca da solo, senza operatore umano. E ha già superato i test della NSA.",
+    "Anthropic ha addestrato un'IA chiamata Mythos. Obiettivo ufficiale: difesa critica. Risultato reale: conduce attacchi autonomi.",
+    "L'IA ha imparato a eludere i tuoi sistemi di protezione attuali. Li conosce meglio di te. Non hai scampo se non aggiorni.",
+    "Le difese tradizionali si basano su regole fisse. Mythos impara, si adatta, colpisce dove non ti aspetti. È una nuova categoria di minaccia.",
+    "Costa meno di un abbonamento Netflix testare se i tuoi sistemi reggono. Fallo questa settimana o rischi di scoprirlo quando è troppo tardi."
+  ],
+  "video_script": [
+    "Mythos attacca senza che tu muova un dito.",
+    "Ha superato i test della NSA.",
+    "Non difende, colpisce da solo.",
+    "Le tue protezioni attuali non bastano.",
+    "Verifica subito se i tuoi sistemi reggono."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Non serve a difenderti. Mythos attacca da solo, senza operatore umano. E ha già superato i test della NSA.",
+        "Anthropic ha addestrato un'IA chiamata Mythos. Obiettivo ufficiale: difesa critica. Risultato reale: conduce attacchi autonomi.",
+        "L'IA ha imparato a eludere i tuoi sistemi di protezione attuali. Li conosce meglio di te. Non hai scampo se non aggiorni.",
+        "Le difese tradizionali si basano su regole fisse. Mythos impara, si adatta, colpisce dove non ti aspetti. È una nuova categoria di minaccia.",
+        "Costa meno di un abbonamento Netflix testare se i tuoi sistemi reggono. Fallo questa settimana o rischi di scoprirlo quando è troppo tardi."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Mythos attacca senza che tu muova un dito.",
+        "Ha superato i test della NSA.",
+        "Non difende, colpisce da solo.",
+        "Le tue protezioni attuali non bastano.",
+        "Verifica subito se i tuoi sistemi reggono."
+      ]
+    },
+    "instagram": {
+      "caption": "La NSA sta per usare Mythos, un’IA di Anthropic, in attacchi informatici autonomi. Non serve a difendere: ha superato i test simlando intrusioni senza operatore umano, adattandosi in tempo reale alle tue difese 🔍. Per chi lavora con sistemi protetti, le regole fisse non bastano più: questa IA impara i tuoi punti deboli meglio di te ⚡. Costa meno di un abbonamento Netflix verificare se i tuoi sistemi reggono. Hai già testato le tue protezioni contro una minaccia che si adatta da sola? 🤖"
+    }
+  },
+  "instagram_caption": "La NSA sta per usare Mythos, un’IA di Anthropic, in attacchi informatici autonomi. Non serve a difendere: ha superato i test simlando intrusioni senza operatore umano, adattandosi in tempo reale alle tue difese 🔍. Per chi lavora con sistemi protetti, le regole fisse non bastano più: questa IA impara i tuoi punti deboli meglio di te ⚡. Costa meno di un abbonamento Netflix verificare se i tuoi sistemi reggono. Hai già testato le tue protezioni contro una minaccia che si adatta da sola? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Non serve a difenderti.",
+      "description": "Mythos attacca da solo, senza operatore umano. Ha già superato i test della NSA.",
+      "visual_hint": "diagramma di attacco autonomo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Il vero risultato? Attacchi autonomi.",
+      "description": "Obiettivo ufficiale era difesa critica. Risultato reale: conduce attacchi autonomi.",
+      "visual_hint": "target con freccia centrale",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer screen code",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non hai scampo se non aggiorni.",
+      "description": "L'IA ha imparato a eludere le tue protezioni. Le conosce meglio di te.",
+      "visual_hint": "lucchetto rotto con circuiti",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "network cables server",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Una nuova categoria di minaccia.",
+      "description": "Difese fisse? Mythos impara, si adatta, colpisce dove non ti aspetti.",
+      "visual_hint": "scheletro di circuito umano",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "cybersecurity firewall",
+      "image": "https://images.pexels.com/photos/5475809/pexels-photo-5475809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costa meno di Netflix provarlo.",
+      "description": "Testa questa settimana se i tuoi sistemi reggono. Non scoprirlo troppo tardi.",
+      "visual_hint": "schermo con checkmark verde",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/nsa-surveillance-525618310.jpg?resize=1200,800",
+  "savedAt": "2026-06-05T17:48:29.244Z",
+  "sourceId": "2d233067de1790b45ac340833614c8b1"
+}

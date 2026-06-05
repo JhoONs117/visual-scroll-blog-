@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "nsa-said-to-be-readying-anthropic-s-mythos-for-use",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
+      "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+      "pubDate": "Fri, 05 Jun 2026 14:32:57 +0000",
+      "slides": [
+        "Mythos entra nelle operazioni cyber della NSA?",
+        "L'IA di Anthropic supera i test di difesa critici.",
+        "Non serve a difendere, ma a condurre attacchi autonomi.",
+        "Le tue protezioni attuali potrebbero non bastare più.",
+        "Verifica subito se i tuoi sistemi reggono a Mythos."
+      ],
+      "thread_text": [
+        "Non serve a difenderti. Mythos attacca da solo, senza operatore umano. E ha già superato i test della NSA.",
+        "Anthropic ha addestrato un'IA chiamata Mythos. Obiettivo ufficiale: difesa critica. Risultato reale: conduce attacchi autonomi.",
+        "L'IA ha imparato a eludere i tuoi sistemi di protezione attuali. Li conosce meglio di te. Non hai scampo se non aggiorni.",
+        "Le difese tradizionali si basano su regole fisse. Mythos impara, si adatta, colpisce dove non ti aspetti. È una nuova categoria di minaccia.",
+        "Costa meno di un abbonamento Netflix testare se i tuoi sistemi reggono. Fallo questa settimana o rischi di scoprirlo quando è troppo tardi."
+      ],
+      "video_script": [
+        "Mythos attacca senza che tu muova un dito.",
+        "Ha superato i test della NSA.",
+        "Non difende, colpisce da solo.",
+        "Le tue protezioni attuali non bastano.",
+        "Verifica subito se i tuoi sistemi reggono."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Non serve a difenderti. Mythos attacca da solo, senza operatore umano. E ha già superato i test della NSA.",
+            "Anthropic ha addestrato un'IA chiamata Mythos. Obiettivo ufficiale: difesa critica. Risultato reale: conduce attacchi autonomi.",
+            "L'IA ha imparato a eludere i tuoi sistemi di protezione attuali. Li conosce meglio di te. Non hai scampo se non aggiorni.",
+            "Le difese tradizionali si basano su regole fisse. Mythos impara, si adatta, colpisce dove non ti aspetti. È una nuova categoria di minaccia.",
+            "Costa meno di un abbonamento Netflix testare se i tuoi sistemi reggono. Fallo questa settimana o rischi di scoprirlo quando è troppo tardi."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Mythos attacca senza che tu muova un dito.",
+            "Ha superato i test della NSA.",
+            "Non difende, colpisce da solo.",
+            "Le tue protezioni attuali non bastano.",
+            "Verifica subito se i tuoi sistemi reggono."
+          ]
+        },
+        "instagram": {
+          "caption": "La NSA sta per usare Mythos, un’IA di Anthropic, in attacchi informatici autonomi. Non serve a difendere: ha superato i test simlando intrusioni senza operatore umano, adattandosi in tempo reale alle tue difese 🔍. Per chi lavora con sistemi protetti, le regole fisse non bastano più: questa IA impara i tuoi punti deboli meglio di te ⚡. Costa meno di un abbonamento Netflix verificare se i tuoi sistemi reggono. Hai già testato le tue protezioni contro una minaccia che si adatta da sola? 🤖"
+        }
+      },
+      "instagram_caption": "La NSA sta per usare Mythos, un’IA di Anthropic, in attacchi informatici autonomi. Non serve a difendere: ha superato i test simlando intrusioni senza operatore umano, adattandosi in tempo reale alle tue difese 🔍. Per chi lavora con sistemi protetti, le regole fisse non bastano più: questa IA impara i tuoi punti deboli meglio di te ⚡. Costa meno di un abbonamento Netflix verificare se i tuoi sistemi reggono. Hai già testato le tue protezioni contro una minaccia che si adatta da sola? 🤖",
+      "carousel_slides": [
+        {
+          "hook": "Non serve a difenderti.",
+          "description": "Mythos attacca da solo, senza operatore umano. Ha già superato i test della NSA.",
+          "visual_hint": "diagramma di attacco autonomo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Il vero risultato? Attacchi autonomi.",
+          "description": "Obiettivo ufficiale era difesa critica. Risultato reale: conduce attacchi autonomi.",
+          "visual_hint": "target con freccia centrale",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer screen code",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non hai scampo se non aggiorni.",
+          "description": "L'IA ha imparato a eludere le tue protezioni. Le conosce meglio di te.",
+          "visual_hint": "lucchetto rotto con circuiti",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "network cables server",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Una nuova categoria di minaccia.",
+          "description": "Difese fisse? Mythos impara, si adatta, colpisce dove non ti aspetti.",
+          "visual_hint": "scheletro di circuito umano",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "cybersecurity firewall",
+          "image": "https://images.pexels.com/photos/5475809/pexels-photo-5475809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costa meno di Netflix provarlo.",
+          "description": "Testa questa settimana se i tuoi sistemi reggono. Non scoprirlo troppo tardi.",
+          "visual_hint": "schermo con checkmark verde",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/nsa-surveillance-525618310.jpg?resize=1200,800",
+      "savedAt": "2026-06-05T17:48:29.244Z",
+      "sourceId": "2d233067de1790b45ac340833614c8b1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-token-bill-comes-due-inside-the-industry-scram",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "pubDate": "Fri, 05 Jun 2026 14:49:12 +0000",
+      "slides": [
+        "L'AI brucia miliardi: chi pagherà il conto?",
+        "I costi crescono del 40% annuo senza ritorno certo.",
+        "Ma alcuni modelli riducono i consumi del 90%.",
+        "Per te: ogni query costa meno di un centesimo ora.",
+        "Il vero margine? Ottimizzare invece di correre."
+      ],
+      "thread_text": [
+        "Ci sono già modelli di AI che consumano il 90% in meno di energia. Mentre tutti corrono, qualcuno ha capito che il vero margine è ottimizzare.",
+        "Oggi ogni query AI costa meno di un centesimo. Il problema è che il volume cresce al 40% annuo, e i conti iniziano a non tornare per chi paga i server.",
+        "Se il trend continua, il costo energetico globale dell'AI potrebbe superare quello di un'intera nazione. Nessuno ha ancora un ritorno certo su quella scala.",
+        "Per questo alcuni team hanno cambiato strategia: non modelli più grandi, ma più efficienti. Risultato: stesse performance, consumi tagliati del 90%.",
+        "Costa meno di un caffè al giorno avere un assistente AI che funziona. Se non hai ancora provato a ottimizzare le tue query, oggi è il giorno giusto."
+      ],
+      "video_script": [
+        "L'AI brucia un sacco di soldi.",
+        "I costi salgono del 40% ogni anno.",
+        "Ma c'è chi ha tagliato i consumi del 90%.",
+        "Te costa meno di un centesimo per query.",
+        "Il margine è ottimizzare, non correre."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Ci sono già modelli di AI che consumano il 90% in meno di energia. Mentre tutti corrono, qualcuno ha capito che il vero margine è ottimizzare.",
+            "Oggi ogni query AI costa meno di un centesimo. Il problema è che il volume cresce al 40% annuo, e i conti iniziano a non tornare per chi paga i server.",
+            "Se il trend continua, il costo energetico globale dell'AI potrebbe superare quello di un'intera nazione. Nessuno ha ancora un ritorno certo su quella scala.",
+            "Per questo alcuni team hanno cambiato strategia: non modelli più grandi, ma più efficienti. Risultato: stesse performance, consumi tagliati del 90%.",
+            "Costa meno di un caffè al giorno avere un assistente AI che funziona. Se non hai ancora provato a ottimizzare le tue query, oggi è il giorno giusto."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "L'AI brucia un sacco di soldi.",
+            "I costi salgono del 40% ogni anno.",
+            "Ma c'è chi ha tagliato i consumi del 90%.",
+            "Te costa meno di un centesimo per query.",
+            "Il margine è ottimizzare, non correre."
+          ]
+        },
+        "instagram": {
+          "caption": "Ogni query AI oggi costa meno di un centesimo, ma il volume cresce del 40% all’anno e i conti iniziano a non tornare per chi paga i server. ⚡ Alcuni team hanno smesso di puntare su modelli sempre più grandi e hanno ottenuto le stesse performance tagliando i consumi del 90%. 💡 Per te: significa assistenti AI più economici e veloci, senza rincari nascosti in bolletta. Il vero margine non è correre, ma ottimizzare. Hai già verificato quanto spendono i tuoi strumenti AI al mese?"
+        }
+      },
+      "instagram_caption": "Ogni query AI oggi costa meno di un centesimo, ma il volume cresce del 40% all’anno e i conti iniziano a non tornare per chi paga i server. ⚡ Alcuni team hanno smesso di puntare su modelli sempre più grandi e hanno ottenuto le stesse performance tagliando i consumi del 90%. 💡 Per te: significa assistenti AI più economici e veloci, senza rincari nascosti in bolletta. Il vero margine non è correre, ma ottimizzare. Hai già verificato quanto spendono i tuoi strumenti AI al mese?",
+      "carousel_slides": [
+        {
+          "hook": "AI costi fuori controllo?",
+          "description": "Se il trend continua, il costo energetico globale dell'AI potrebbe superare quello di un'intera nazione.",
+          "visual_hint": "fiamma su grafico crescita",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "40% annuo senza ritorno",
+          "description": "Oggi ogni query costa meno di un centesimo, ma il volume cresce del 40% annuo e i conti non tornano.",
+          "visual_hint": "frecce crescita e contatore",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Modelli 90% più efficienti",
+          "description": "Alcuni team puntano a modelli più piccoli ma efficienti: stesse performance, consumi tagliati del 90%.",
+          "visual_hint": "dati comparativi bolletta",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ogni query sotto 1 centesimo",
+          "description": "Costa meno di un caffè al giorno avere un assistente AI. Oggi è il giorno per ottimizzare le tue query.",
+          "visual_hint": "mano con caffè e schermo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il vero margine? Ottimizzare",
+          "description": "Il vero margine non è correre, ma ottimizzare. Ci sono già modelli AI che consumano il 90% in meno.",
+          "visual_hint": "logo efficienza vs corsa",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "wind turbine",
+          "image": "https://images.pexels.com/photos/14468163/pexels-photo-14468163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1316461644.jpg?resize=1200,816",
+      "savedAt": "2026-06-05T17:48:14.316Z",
+      "sourceId": "177fcfdc05d4ab4bab538bfcde7cebdd"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "airtrunk-commits-30b-to-build-5gw-of-ai-data-cente",
       "prompt_version": "1.0.0",
       "status": "published",
