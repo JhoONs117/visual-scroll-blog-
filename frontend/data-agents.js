@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "defense-tech-ai-and-fundraising-take-center-stage-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "pubDate": "Thu, 04 Jun 2026 21:30:00 +0000",
+      "slides": [
+        "Defense tech meets AI: who's investing in war?",
+        "StrictlyVC LA on June 18 reveals the backers.",
+        "These funds bet on startups—not just weapons.",
+        "Your startup could win contracts if you attend.",
+        "Register now or miss the next defense wave."
+      ],
+      "thread_text": [
+        "I fondi che investono in AI per la difesa non comprano solo armi. Finanziano startup.",
+        "L'evento StrictlyVC LA del 18 giugno svelerà chi sono questi backer. Un elenco di nomi che oggi pochi conoscono.",
+        "Perché è importante: se la tua startup lavora su AI, puoi ottenere contratti diretti con la difesa. Non serve essere un gigante.",
+        "La tensione è alta: defense tech e AI si fondono, ma chi decide le regole? I fondi privati, non i governi.",
+        "Registrati ora, o salti la prossima ondata. È concreta, parte il 18 giugno."
+      ],
+      "video_script": [
+        "C'è chi investe in AI per la difesa.",
+        "Non solo armi, ma startup.",
+        "Al convegno di giugno svelano i nomi.",
+        "Tu puoi vincere contratti.",
+        "Iscriviti o perdi l'occasione."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "I fondi che investono in AI per la difesa non comprano solo armi. Finanziano startup.",
+            "L'evento StrictlyVC LA del 18 giugno svelerà chi sono questi backer. Un elenco di nomi che oggi pochi conoscono.",
+            "Perché è importante: se la tua startup lavora su AI, puoi ottenere contratti diretti con la difesa. Non serve essere un gigante.",
+            "La tensione è alta: defense tech e AI si fondono, ma chi decide le regole? I fondi privati, non i governi.",
+            "Registrati ora, o salti la prossima ondata. È concreta, parte il 18 giugno."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "C'è chi investe in AI per la difesa.",
+            "Non solo armi, ma startup.",
+            "Al convegno di giugno svelano i nomi.",
+            "Tu puoi vincere contratti.",
+            "Iscriviti o perdi l'occasione."
+          ]
+        },
+        "instagram": {
+          "caption": "Il 18 giugno a Los Angeles, investitori privati sveleranno chi finanzia le startup che uniscono difesa e intelligenza artificiale. Non comprano solo armi, ma puntano su aziende piccole per ottenere contratti militari 🤖. Se lavori in una startup AI, puoi partecipare senza essere un gigante: l'evento è un canale diretto per vincere commesse pubbliche 🛡️. Chi decide le regole di questa fusione? I fondi privati, non i governi. Sei già pronto a cogliere l'onda, o resterai fuori? ⏳"
+        }
+      },
+      "instagram_caption": "Il 18 giugno a Los Angeles, investitori privati sveleranno chi finanzia le startup che uniscono difesa e intelligenza artificiale. Non comprano solo armi, ma puntano su aziende piccole per ottenere contratti militari 🤖. Se lavori in una startup AI, puoi partecipare senza essere un gigante: l'evento è un canale diretto per vincere commesse pubbliche 🛡️. Chi decide le regole di questa fusione? I fondi privati, non i governi. Sei già pronto a cogliere l'onda, o resterai fuori? ⏳",
+      "carousel_slides": [
+        {
+          "hook": "Vince chi finanzia la guerra intelligente",
+          "description": "I fondi che investono in AI per la difesa finanziano startup, non solo armi.",
+          "visual_hint": "Dati e icone militari",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "military drone technology"
+        },
+        {
+          "hook": "Chi sono i veri backer?",
+          "description": "StrictlyVC LA del 18 giugno svelerà una lista di nomi che oggi pochi conoscono.",
+          "visual_hint": "Lista di nomi e loghi",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "venture capital logos",
+          "image": "https://images.pexels.com/photos/7213441/pexels-photo-7213441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Startup AI, contratti diretti",
+          "description": "Se la tua startup lavora su AI, puoi ottenere contratti con la difesa. Non serve essere un gigante.",
+          "visual_hint": "Freccia che collega AI a difesa",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "ai chip technology",
+          "image": "https://images.pexels.com/photos/9534649/pexels-photo-9534649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Chi decide le regole?",
+          "description": "La tensione è alta: defense tech e AI si fondono, ma le regole le fanno i fondi privati, non i governi.",
+          "visual_hint": "Bilancia con simboli tech",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "handshake deal",
+          "image": "https://images.pexels.com/photos/8276369/pexels-photo-8276369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non perdere la prossima ondata",
+          "description": "Registrati ora o salti la prossima ondata. È concreta, parte il 18 giugno.",
+          "visual_hint": "Conto alla rovescia",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "event registration desk",
+          "image": "https://images.pexels.com/photos/7103159/pexels-photo-7103159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?resize=1200,800",
+      "savedAt": "2026-06-05T08:00:29.395Z",
+      "sourceId": "87f245147ca4152b06249b0d26b07570"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "airbnb-s-brian-chesky-plans-to-launch-a-new-ai-lab",
       "prompt_version": "1.0.0",
       "status": "published",
