@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sriram-krishnan-is-leaving-his-role-as-white-house",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+  "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+  "pubDate": "Sat, 06 Jun 2026 17:42:15 +0000",
+  "slides": [
+    "Sriram Krishnan lascia la Casa Bianca. Cosa cambia?",
+    "Era il consigliere AI più vicino a Trump.",
+    "Se ne va dopo solo pochi mesi in carica.",
+    "Chi guiderà ora la politica AI americana?",
+    "Monitora le prossime nomine per capire la direzione."
+  ],
+  "thread_text": [
+    "Se n’è andato dopo pochi mesi. Sriram Krishnan era il consigliere AI più vicino a Trump alla Casa Bianca. Ora l’ufficio è vuoto.",
+    "Era l'uomo che traduceva la tecnologia in decisioni. Il suo ruolo: collegare il settore privato con le scelte politiche sull'AI.",
+    "Con lui fuori, chi prende le decisioni operative? Al momento nessuno. E le aziende tecnologiche aspettano segnali chiari.",
+    "La partenza così rapida non è solo una vicenda interna. È un segnale: la priorità AI americana potrebbe cambiare direzione.",
+    "Le prossime nomine diranno se l’America punta su regole stringenti o su sviluppo senza freni. Segui chi arriva nei prossimi 30 giorni."
+  ],
+  "video_script": [
+    "Krishnan lascia la Casa Bianca.",
+    "Era il consigliere AI più vicino a Trump.",
+    "È durato solo pochi mesi.",
+    "Ora l'ufficio è senza guida.",
+    "Le prossime nomine cambieranno tutto."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Se n’è andato dopo pochi mesi. Sriram Krishnan era il consigliere AI più vicino a Trump alla Casa Bianca. Ora l’ufficio è vuoto.",
+        "Era l'uomo che traduceva la tecnologia in decisioni. Il suo ruolo: collegare il settore privato con le scelte politiche sull'AI.",
+        "Con lui fuori, chi prende le decisioni operative? Al momento nessuno. E le aziende tecnologiche aspettano segnali chiari.",
+        "La partenza così rapida non è solo una vicenda interna. È un segnale: la priorità AI americana potrebbe cambiare direzione.",
+        "Le prossime nomine diranno se l’America punta su regole stringenti o su sviluppo senza freni. Segui chi arriva nei prossimi 30 giorni."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Krishnan lascia la Casa Bianca.",
+        "Era il consigliere AI più vicino a Trump.",
+        "È durato solo pochi mesi.",
+        "Ora l'ufficio è senza guida.",
+        "Le prossime nomine cambieranno tutto."
+      ]
+    },
+    "instagram": {
+      "caption": "La Casa Bianca ha perso il suo principale interlocutore sull'intelligenza artificiale: Sriram Krishnan ha lasciato dopo pochi mesi. Era il ponte tra il settore tech e le decisioni politiche di Trump, traduceva la tecnologia in norme concrete. Adesso l'ufficio è vuoto, e le aziende sono in attesa di segnali chiari. Per chi usa strumenti AI, questo rallentamento potrebbe tradursi in regole meno prevedibili o in uno sviluppo più rapido, a seconda di chi verrà nominato nei prossimi 30 giorni 📉🕳️ Chi prenderà il suo posto?"
+    }
+  },
+  "instagram_caption": "La Casa Bianca ha perso il suo principale interlocutore sull'intelligenza artificiale: Sriram Krishnan ha lasciato dopo pochi mesi. Era il ponte tra il settore tech e le decisioni politiche di Trump, traduceva la tecnologia in norme concrete. Adesso l'ufficio è vuoto, e le aziende sono in attesa di segnali chiari. Per chi usa strumenti AI, questo rallentamento potrebbe tradursi in regole meno prevedibili o in uno sviluppo più rapido, a seconda di chi verrà nominato nei prossimi 30 giorni 📉🕳️ Chi prenderà il suo posto?",
+  "carousel_slides": [
+    {
+      "hook": "Se ne va dopo mesi",
+      "description": "Sriram Krishnan lascia la Casa Bianca dopo pochi mesi. Era il consigliere AI più vicino a Trump.",
+      "visual_hint": "Ufficio vuoto, sedia",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty office chair"
+    },
+    {
+      "hook": "Traduttore tecnologia-politica",
+      "description": "Collegava il settore privato alle scelte politiche sull'AI. Ora l'ufficio è vuoto.",
+      "visual_hint": "Ingranaggio e mappa USA",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "gear mechanism map",
+      "image": "https://images.pexels.com/photos/7568427/pexels-photo-7568427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Nessuno prende decisioni",
+      "description": "Chi guida operativamente la politica AI? Al momento nessuno. Le aziende aspettano segnali chiari.",
+      "visual_hint": "Segnale stradale vuoto",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "empty road sign",
+      "image": "https://images.pexels.com/photos/2801126/pexels-photo-2801126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Segnale di svolta",
+      "description": "La partenza rapida non è solo interna. La priorità AI americana potrebbe cambiare direzione.",
+      "visual_hint": "Bussola che gira",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "compass rotating",
+      "image": "https://images.pexels.com/photos/15311432/pexels-photo-15311432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chi arriva nei 30 giorni",
+      "description": "Le prossime nomine diranno se l'America punta su regole stringenti o sviluppo senza freni. Monitora.",
+      "visual_hint": "Calendario con penna",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar with pen",
+      "image": "https://images.pexels.com/photos/5408818/pexels-photo-5408818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2021-02-03-at-1.18.03-PM-1.webp?resize=1200,833",
+  "savedAt": "2026-06-06T19:07:07.849Z",
+  "sourceId": "fc0aef7cf74aaa4ec415e3edc3962f05"
+}
