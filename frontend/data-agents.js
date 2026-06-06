@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-unveils-lockdown-mode-to-protect-sensitive-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "pubDate": "Sat, 06 Jun 2026 20:32:24 +0000",
+      "slides": [
+        "OpenAI svela Lockdown Mode contro attacchi injection, ma basta?",
+        "Blocca prompt esterni malevoli durante analisi dati riservati.",
+        "Le aziende già espongono dati sensibili senza saperlo.",
+        "Inserisci Lockdown Mode ora o aspetti la prima violazione?",
+        "Prova su ChatGPT: carica un file e testalo oggi."
+      ],
+      "thread_text": [
+        "Le aziende già espongono dati sensibili nei prompt AI senza saperlo. Il problema non è domani, è oggi.",
+        "OpenAI ha appena rilasciato Lockdown Mode: blocca prompt esterni malevoli durante l'analisi di dati riservati. Una risposta a un attacco che cresce.",
+        "Ma il punto è un altro: molte aziende non sanno nemmeno di avere il problema. Caricano file con dati reali su ChatGPT e sperano che nessuno li attacchi.",
+        "Lockdown Mode chiude una porta, ma se la stanza è già piena di buchi, serve a poco. Il vero lavoro è mappare prima cosa esponi.",
+        "Non aspettare la prima violazione. Prova Lockdown Mode oggi: carica un file su ChatGPT e testalo con un prompt sospetto. Vedi se regge."
+      ],
+      "video_script": [
+        "Sapevi che le aziende espongono dati sensibili nei prompt AI?",
+        "Succede senza che nemmeno se ne accorgano.",
+        "OpenAI ha risposto con Lockdown Mode.",
+        "Blocca prompt esterni malevoli durante l'analisi di dati riservati.",
+        "Ma non basta: devi sapere cosa stai esponendo."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Le aziende già espongono dati sensibili nei prompt AI senza saperlo. Il problema non è domani, è oggi.",
+            "OpenAI ha appena rilasciato Lockdown Mode: blocca prompt esterni malevoli durante l'analisi di dati riservati. Una risposta a un attacco che cresce.",
+            "Ma il punto è un altro: molte aziende non sanno nemmeno di avere il problema. Caricano file con dati reali su ChatGPT e sperano che nessuno li attacchi.",
+            "Lockdown Mode chiude una porta, ma se la stanza è già piena di buchi, serve a poco. Il vero lavoro è mappare prima cosa esponi.",
+            "Non aspettare la prima violazione. Prova Lockdown Mode oggi: carica un file su ChatGPT e testalo con un prompt sospetto. Vedi se regge."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Sapevi che le aziende espongono dati sensibili nei prompt AI?",
+            "Succede senza che nemmeno se ne accorgano.",
+            "OpenAI ha risposto con Lockdown Mode.",
+            "Blocca prompt esterni malevoli durante l'analisi di dati riservati.",
+            "Ma non basta: devi sapere cosa stai esponendo."
+          ]
+        },
+        "instagram": {
+          "caption": "Ogni giorno aziende caricano file con dati veri su ChatGPT senza sapere che qualcuno potrebbe di nascosto rubarli con un prompt apparentemente innocuo 🛡️. OpenAI ha appena rilasciato Lockdown Mode: una modalità che blocca questi attacchi esterni durante l'analisi dei dati riservati. Il problema è che molte imprese non sanno nemmeno di essere vulnerabili. Se usi strumenti AI con documenti reali, oggi puoi finalmente proteggere quelle informazioni senza cambiare abitudini. Hai mai provato a testare cosa succede se un prompt sospetto intacca i tuoi file?"
+        }
+      },
+      "instagram_caption": "Ogni giorno aziende caricano file con dati veri su ChatGPT senza sapere che qualcuno potrebbe di nascosto rubarli con un prompt apparentemente innocuo 🛡️. OpenAI ha appena rilasciato Lockdown Mode: una modalità che blocca questi attacchi esterni durante l'analisi dei dati riservati. Il problema è che molte imprese non sanno nemmeno di essere vulnerabili. Se usi strumenti AI con documenti reali, oggi puoi finalmente proteggere quelle informazioni senza cambiare abitudini. Hai mai provato a testare cosa succede se un prompt sospetto intacca i tuoi file?",
+      "carousel_slides": [
+        {
+          "hook": "Le aziende già espongono dati sensibili",
+          "description": "Il problema non è domani, è oggi. Molte aziende caricano file riservati su ChatGPT senza saperlo",
+          "visual_hint": "documento con lucchetto rotto",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Lockdown Mode blocca prompt malevoli",
+          "description": "OpenAI risponde agli attacchi injection che crescono durante analisi dati riservati",
+          "visual_hint": "scudo digitale su schermo",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Chiude una porta, ma la stanza è piena di buchi",
+          "description": "Mappare prima cosa esponi è il vero lavoro: molti non sanno nemmeno di avere il problema",
+          "visual_hint": "muro con crepe luminose",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "broken wall",
+          "image": "https://images.pexels.com/photos/18295104/pexels-photo-18295104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non aspettare la prima violazione",
+          "description": "Carica un file su ChatGPT e testalo con un prompt sospetto. Vedi se regge",
+          "visual_hint": "mano che carica file",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "hands typing",
+          "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova Lockdown Mode oggi",
+          "description": "Basta? Il vero lavoro è mappare prima cosa esponi. Provalo ora su ChatGPT",
+          "visual_hint": "cellulare con ChatGPT aperto",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201630077.jpg?resize=1200,798",
+      "savedAt": "2026-06-06T20:55:27.756Z",
+      "sourceId": "c3048522c6f16c1514706ea974403cfe"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "sriram-krishnan-is-leaving-his-role-as-white-house",
       "prompt_version": "1.0.0",
       "status": "published",
