@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-trump-administration-might-take-an-equity-stak",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The Trump administration might take an equity stake in OpenAI",
+    "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "pubDate": "Sat, 06 Jun 2026 16:17:21 +0000",
+    "slides": [
+      "Trump administration eyes OpenAI equity stake?",
+      "A government share in a private AI firm",
+      "National security concerns drive the move",
+      "Your startup's IP rules could shift overnight",
+      "Check OpenAI's new ownership structure today"
+    ],
+    "thread_text": [
+      "Un governo americano potrebbe diventare azionista di una delle AI più potenti del mondo. Non è una teoria del complotto. È un piano di cui si discute alla Casa Bianca.",
+      "L'idea: la Casa Bianca vuole una quota in OpenAI. Il motivo ufficiale è la sicurezza nazionale. Quello non detto è il controllo su un settore che vale miliardi.",
+      "Se passa, cambia tutto. Le regole sulla proprietà intellettuale delle startup potrebbero essere riscritte. Un giorno lavori a un modello, il giorno dopo il governo ha voce in capitolo.",
+      "Non è solo OpenAI. È un precedente. Ogni startup tech con cui fai affari potrebbe dover rivelare più di quanto vorresti. I tuoi dati, la tua proprietà intellettuale, le tue strategie.",
+      "Oggi controlla l'ownership structure di OpenAI. Se quel cambio avviene, non sarà più solo un problema di concorrenza. Sarà geopolitico."
+    ],
+    "video_script": [
+      "Il governo americano vuole comprare quote di OpenAI.",
+      "Sembra una mossa folle, ma ha un senso.",
+      "Dicono sia per la sicurezza nazionale.",
+      "Ma la verità è che vogliono il controllo.",
+      "E se succede, anche la tua startup cambia."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Un governo americano potrebbe diventare azionista di una delle AI più potenti del mondo. Non è una teoria del complotto. È un piano di cui si discute alla Casa Bianca.",
+          "L'idea: la Casa Bianca vuole una quota in OpenAI. Il motivo ufficiale è la sicurezza nazionale. Quello non detto è il controllo su un settore che vale miliardi.",
+          "Se passa, cambia tutto. Le regole sulla proprietà intellettuale delle startup potrebbero essere riscritte. Un giorno lavori a un modello, il giorno dopo il governo ha voce in capitolo.",
+          "Non è solo OpenAI. È un precedente. Ogni startup tech con cui fai affari potrebbe dover rivelare più di quanto vorresti. I tuoi dati, la tua proprietà intellettuale, le tue strategie.",
+          "Oggi controlla l'ownership structure di OpenAI. Se quel cambio avviene, non sarà più solo un problema di concorrenza. Sarà geopolitico."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Il governo americano vuole comprare quote di OpenAI.",
+          "Sembra una mossa folle, ma ha un senso.",
+          "Dicono sia per la sicurezza nazionale.",
+          "Ma la verità è che vogliono il controllo.",
+          "E se succede, anche la tua startup cambia."
+        ]
+      },
+      "instagram": {
+        "caption": "La Casa Bianca sta trattando per comprarsi una fetta di OpenAI, la società che ha creato ChatGPT. Il motivo ufficiale è la sicurezza nazionale: il governo vuole controllare da dentro una delle AI più potenti del mondo.  \nSe l’affare va in porto, cambiano le regole del gioco: un tuo modello potrebbe finire sotto il controllo di Stato, e la proprietà intellettuale della tua startup diventare un dossier condiviso 🏛️  \nNon è una questione di nostalgia: le tue idee, oggi private, potrebbero diventare materiale di interesse pubblico.  \nSai già cosa cambierebbe per la tua azienda se il governo avesse un seggio nel consiglio? 🔐💡"
+      }
+    },
+    "instagram_caption": "La Casa Bianca sta trattando per comprarsi una fetta di OpenAI, la società che ha creato ChatGPT. Il motivo ufficiale è la sicurezza nazionale: il governo vuole controllare da dentro una delle AI più potenti del mondo.  \nSe l’affare va in porto, cambiano le regole del gioco: un tuo modello potrebbe finire sotto il controllo di Stato, e la proprietà intellettuale della tua startup diventare un dossier condiviso 🏛️  \nNon è una questione di nostalgia: le tue idee, oggi private, potrebbero diventare materiale di interesse pubblico.  \nSai già cosa cambierebbe per la tua azienda se il governo avesse un seggio nel consiglio? 🔐💡",
+    "carousel_slides": [
+      {
+        "hook": "Il governo nella tua AI",
+        "description": "La Casa Bianca vuole una quota in OpenAI per sicurezza nazionale e controllo su un settore da miliardi.",
+        "visual_hint": "Bandiera USA e chip AI",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "American flag server room"
+      },
+      {
+        "hook": "Azionista di Stato",
+        "description": "Un governo americano potrebbe diventare azionista della AI più potente del mondo. Non è complotto.",
+        "visual_hint": "Documenti legali e soldi",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "IP delle startup a rischio",
+        "description": "Se passa, le regole sulla proprietà intellettuale cambiano. Un giorno lavori, il giorno dopo il governo decide.",
+        "visual_hint": "Ingranaggi e lucchetto",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Precedente pericoloso",
+        "description": "Ogni startup tech dovrà rivelare dati, IP e strategie. I tuoi segreti non sono più solo tuoi.",
+        "visual_hint": "Mano che chiude porta",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Controlla ora OpenAI",
+        "description": "Se l'ownership cambia, non è più concorrenza. È geopolitico. Verifica oggi la struttura.",
+        "visual_hint": "Lente d'ingrandimento",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/donald-trump-cellphone.jpg?resize=1200,800",
+    "savedAt": "2026-06-07T02:42:53.629Z",
+    "sourceId": "ccfe51be44a803329ef4ec10991a2b6e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-unveils-lockdown-mode-to-protect-sensitive-",
     "prompt_version": "1.0.0",
     "status": "published",
