@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "aviva-deploys-ai-to-stop-230m-in-sophisticated-ins",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Aviva deploys AI to stop £230M in sophisticated insurance fraud",
+    "link": "https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/",
+    "pubDate": "Mon, 08 Jun 2026 12:19:38 +0000",
+    "slides": [
+      "Aviva caught £230M in fraud—how?",
+      "AI now spots hidden patterns in claims data",
+      "Thieves used fake identities and staged accidents",
+      "Your premiums may drop as fraud costs shrink",
+      "Test your own claims: is your insurer using AI?"
+    ],
+    "thread_text": [
+      "Hanno rubato 230 milioni di sterline usando identità false e incidenti messi in scena. Il truffatore perfetto esisteva, fino a oggi.",
+      "Le assicurazioni pagavano ogni richiesta perché i dati sembravano veri. Ma le macchine hanno iniziato a vedere quello che gli umani non vedono.",
+      "L'AI scova schemi nascosti: stessi indirizzi, stessi medici, tempistiche identiche. Cosa che nessun revisore umano scoprirebbe in tempo reale.",
+      "Risultato: Aviva ha bloccato 230 milioni di frode in un anno. E ora quei soldi non li paghi più tu con i tuoi premi.",
+      "Controlla la tua polizza: se la tua assicurazione usa AI per i sinistri, il premio potrebbe calare del 15-20%. Hai già verificato?"
+    ],
+    "video_script": [
+      "Hanno rubato 230 milioni con falsi incidenti.",
+      "L'AI ha trovato schemi invisibili nei dati.",
+      "Le assicurazioni adesso vedono tutto in tempo reale.",
+      "I tuoi premi scenderanno se usano questa tecnologia.",
+      "Controlla subito la tua polizza."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Hanno rubato 230 milioni di sterline usando identità false e incidenti messi in scena. Il truffatore perfetto esisteva, fino a oggi.",
+          "Le assicurazioni pagavano ogni richiesta perché i dati sembravano veri. Ma le macchine hanno iniziato a vedere quello che gli umani non vedono.",
+          "L'AI scova schemi nascosti: stessi indirizzi, stessi medici, tempistiche identiche. Cosa che nessun revisore umano scoprirebbe in tempo reale.",
+          "Risultato: Aviva ha bloccato 230 milioni di frode in un anno. E ora quei soldi non li paghi più tu con i tuoi premi.",
+          "Controlla la tua polizza: se la tua assicurazione usa AI per i sinistri, il premio potrebbe calare del 15-20%. Hai già verificato?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hanno rubato 230 milioni con falsi incidenti.",
+          "L'AI ha trovato schemi invisibili nei dati.",
+          "Le assicurazioni adesso vedono tutto in tempo reale.",
+          "I tuoi premi scenderanno se usano questa tecnologia.",
+          "Controlla subito la tua polizza."
+        ]
+      },
+      "instagram": {
+        "caption": "Aviva ha inchiodato 230 milioni di sterline di frodi assicurative usando AI 📉. I truffatori inventavano incidenti e identità false, ma i modelli hanno scovato schemi nascosti—stessi medici, stessi indirizzi, tempistiche identiche—che nessun umano avrebbe colto in tempo reale 🕵️‍♂️.\n\nPer te significa premi più bassi: meno frodi pagate, meno costi sul tuo contratto 💷. Se la tua assicurazione usa AI per i sinistri, il premio potrebbe scendere del 15-20%. Hai già verificato cosa usa la tua polizza?"
+      }
+    },
+    "instagram_caption": "Aviva ha inchiodato 230 milioni di sterline di frodi assicurative usando AI 📉. I truffatori inventavano incidenti e identità false, ma i modelli hanno scovato schemi nascosti—stessi medici, stessi indirizzi, tempistiche identiche—che nessun umano avrebbe colto in tempo reale 🕵️‍♂️.\n\nPer te significa premi più bassi: meno frodi pagate, meno costi sul tuo contratto 💷. Se la tua assicurazione usa AI per i sinistri, il premio potrebbe scendere del 15-20%. Hai già verificato cosa usa la tua polizza?",
+    "carousel_slides": [
+      {
+        "hook": "Identità false, incidenti finti",
+        "description": "230 milioni di sterline rubati con identità false e incidenti messi in scena. Il truffatore perfetto esisteva, fino a oggi.",
+        "visual_hint": "documenti falsi e foto incidenti",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "fake car accident documents"
+      },
+      {
+        "hook": "Cosa gli umani non vedono",
+        "description": "Le macchine vedono schemi che noi ignoriamo: stessi indirizzi, medici, tempistiche. Nessun revisore umano li scoprirebbe in tempo reale.",
+        "visual_hint": "AI scanner dati su schermo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room technology",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "230 milioni bloccati in un anno",
+        "description": "Aviva ha bloccato 230 milioni di frode in un anno. Quei soldi non li paghi più tu con i tuoi premi.",
+        "visual_hint": "grafico a barre discendente",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tuo premio può calare",
+        "description": "Se la tua assicurazione usa AI per i sinistri, il premio potrebbe calare del 15-20%. Hai già verificato?",
+        "visual_hint": "mano che mostra polizza assicurativa",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "La tua assicurazione usa AI?",
+        "description": "Controlla la tua polizza: se usa AI per i sinistri, il premio potrebbe calare del 15-20%. Hai già verificato?",
+        "visual_hint": "logo Aviva con segno spunta",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "insurance policy document",
+        "image": "https://images.pexels.com/photos/7736031/pexels-photo-7736031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/7247406/pexels-photo-7247406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-08T14:00:46.952Z",
+    "sourceId": "6162e3e8ff88b019dcd4bd64b0fea7ec"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-is-still-working-on-that-super-app-",
     "prompt_version": "1.0.0",
     "status": "published",
