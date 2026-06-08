@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-s-open-source-tools-were-hacked-to-steal",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
+  "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+  "pubDate": "Mon, 08 Jun 2026 20:03:44 +0000",
+  "slides": [
+    "Microsoft ha rilasciato strumenti open source infetti?",
+    "I tool modificati rubano password via GitHub.",
+    "Gli attaccanti hanno mirato proprio agli sviluppatori AI.",
+    "Controlla i tuoi repository per commit sospetti.",
+    "Non fidarti ciecamente: verifica ogni pacchetto."
+  ],
+  "thread_text": [
+    "Gli attaccanti hanno preso di mira proprio gli sviluppatori AI. Hanno infettato tool open source con codice che ruba password direttamente su GitHub.",
+    "Microsoft ha rilasciato alcuni di questi strumenti. Ma qualcuno li ha modificati inserendo codice malevolo, sfruttando la fiducia della community.",
+    "Il bersaglio non è casuale: chi sviluppa AI ha accesso a token, API key e repository sensibili. Un colpo solo, danni enormi.",
+    "Ora devi controllare i tuoi repository. Cerca commit sospetti, modifiche a file di configurazione o pacchetti aggiunti senza motivo.",
+    "Hai già verificato il tuo ultimo pull? Se no, fermati e fallo ora: un singolo commit infetto può svuotare le tue credenziali in pochi minuti."
+  ],
+  "video_script": [
+    "Hanno infettato tool open source degli sviluppatori AI.",
+    "Password rubate direttamente su GitHub.",
+    "Il bersaglio? Proprio chi crea modelli AI.",
+    "Controlla ora i tuoi repository per commit strani.",
+    "Non fidarti ciecamente, verifica ogni pacchetto."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Gli attaccanti hanno preso di mira proprio gli sviluppatori AI. Hanno infettato tool open source con codice che ruba password direttamente su GitHub.",
+        "Microsoft ha rilasciato alcuni di questi strumenti. Ma qualcuno li ha modificati inserendo codice malevolo, sfruttando la fiducia della community.",
+        "Il bersaglio non è casuale: chi sviluppa AI ha accesso a token, API key e repository sensibili. Un colpo solo, danni enormi.",
+        "Ora devi controllare i tuoi repository. Cerca commit sospetti, modifiche a file di configurazione o pacchetti aggiunti senza motivo.",
+        "Hai già verificato il tuo ultimo pull? Se no, fermati e fallo ora: un singolo commit infetto può svuotare le tue credenziali in pochi minuti."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hanno infettato tool open source degli sviluppatori AI.",
+        "Password rubate direttamente su GitHub.",
+        "Il bersaglio? Proprio chi crea modelli AI.",
+        "Controlla ora i tuoi repository per commit strani.",
+        "Non fidarti ciecamente, verifica ogni pacchetto."
+      ]
+    },
+    "instagram": {
+      "caption": "Hanno infettato strumenti open source di Microsoft per rubare le password degli sviluppatori AI 🛠️ Il trucco: codici malevoli nascosti in commit su GitHub, sfruttando la fiducia della community. Il bersaglio non è casuale: chi sviluppa AI ha accesso a token, API key e repository sensibili 🔑 Per te che sviluppi: controlla subito i tuoi repository per commit sospetti o pacchetti aggiunti senza motivo. Un singolo commit infetto può svuotare le tue credenziali in pochi minuti ⚠️ Hai già verificato il tuo ultimo pull?"
+    }
+  },
+  "instagram_caption": "Hanno infettato strumenti open source di Microsoft per rubare le password degli sviluppatori AI 🛠️ Il trucco: codici malevoli nascosti in commit su GitHub, sfruttando la fiducia della community. Il bersaglio non è casuale: chi sviluppa AI ha accesso a token, API key e repository sensibili 🔑 Per te che sviluppi: controlla subito i tuoi repository per commit sospetti o pacchetti aggiunti senza motivo. Un singolo commit infetto può svuotare le tue credenziali in pochi minuti ⚠️ Hai già verificato il tuo ultimo pull?",
+  "carousel_slides": [
+    {
+      "hook": "Hacker mirano sviluppatori AI",
+      "description": "Attaccanti hanno infettato tool open source con codice che ruba password direttamente su GitHub.",
+      "visual_hint": "codice infetto evidenziato",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Fiducia tradita su GitHub",
+      "description": "Qualcuno ha modificato strumenti Microsoft inserendo codice malevolo, sfruttando la fiducia della community.",
+      "visual_hint": "commit sospetto evidenziato",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "GitHub repository",
+      "image": "https://images.pexels.com/photos/14819814/pexels-photo-14819814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Token e API key nel mirino",
+      "description": "Chi sviluppa AI ha accesso a token, API key e repository sensibili. Un colpo solo, danni enormi.",
+      "visual_hint": "lucchetto rotto digitale",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controlla i tuoi repository",
+      "description": "Cerca commit sospetti, modifiche a file di configurazione o pacchetti aggiunti senza motivo.",
+      "visual_hint": "mano che esamina codice",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "computer keyboard",
+      "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hai verificato l'ultimo pull?",
+      "description": "Un singolo commit infetto può svuotare le tue credenziali in pochi minuti. Fermati e verifica ora.",
+      "visual_hint": "allarme rosso lampeggiante",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "cybersecurity warning",
+      "image": "https://images.pexels.com/photos/2036656/pexels-photo-2036656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/07/Microsoft-e1658216731934.jpg?resize=1200,675",
+  "savedAt": "2026-06-08T21:46:11.228Z",
+  "sourceId": "db4ca5b90721f63e0a05746586fac240"
+}

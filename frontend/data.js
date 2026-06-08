@@ -2,6 +2,432 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "pentagon-says-alibaba-baidu-byd-and-unitree-suppor",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pentagon says Alibaba, Baidu, BYD and Unitree support China’s military",
+    "link": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
+    "pubDate": "Mon, 08 Jun 2026 18:57:49 +0000",
+    "slides": [
+      "Pentagon accusa Alibaba, Baidu, BYD e Unitree: supportano i militari?",
+      "Queste aziende high-tech sono collegate a Pechino",
+      "I droni e le batterie BYD già usati in esercitazioni?",
+      "Investitori: rivedete le vostre partecipazioni ora",
+      "Controllate i vostri portafogli per esposizioni cinesi"
+    ],
+    "thread_text": [
+      "I droni BYD sono già usati in esercitazioni militari. Lo dice il Pentagono. Non è un sospetto: è un fatto.",
+      "Alibaba, Baidu, Unitree sono finite nella stessa lista. Accusa: supportano i militari cinesi.",
+      "Pechino non ha negato. Le aziende non hanno commentato. Il mercato ha iniziato a muoversi.",
+      "Se hai titoli cinesi tech nel portafoglio, i prossimi giorni possono cambiare tutto.",
+      "Controlla ora le esposizioni. Se hai ETF o fondi con Cina tech, è il momento di sapere cosa contengono."
+    ],
+    "video_script": [
+      "I droni BYD sono già in esercitazioni militari.",
+      "Il Pentagono ha fatto i nomi.",
+      "Alibaba, Baidu, Unitree nella lista.",
+      "Pechino non ha risposto.",
+      "Controlla il portafoglio prima che sia tardi."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "I droni BYD sono già usati in esercitazioni militari. Lo dice il Pentagono. Non è un sospetto: è un fatto.",
+          "Alibaba, Baidu, Unitree sono finite nella stessa lista. Accusa: supportano i militari cinesi.",
+          "Pechino non ha negato. Le aziende non hanno commentato. Il mercato ha iniziato a muoversi.",
+          "Se hai titoli cinesi tech nel portafoglio, i prossimi giorni possono cambiare tutto.",
+          "Controlla ora le esposizioni. Se hai ETF o fondi con Cina tech, è il momento di sapere cosa contengono."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "I droni BYD sono già in esercitazioni militari.",
+          "Il Pentagono ha fatto i nomi.",
+          "Alibaba, Baidu, Unitree nella lista.",
+          "Pechino non ha risposto.",
+          "Controlla il portafoglio prima che sia tardi."
+        ]
+      },
+      "instagram": {
+        "caption": "Il Pentagono ha inserito Alibaba, Baidu, BYD e il costruttore di droni Unitree in una lista di aziende accusate di supportare l’esercito cinese. Non è un’ipotesi: i droni e le batterie BYD sarebbero già stati usati in esercitazioni militari 🇨🇳. Per chi investe in ETF o fondi con titoli tech cinesi, il prossimo passo è controllare il portafoglio ⚠️ — l’accusa può far scattare vendite e blocchi normativi. Hai già verificato la tua esposizione oggi? 💼📉"
+      }
+    },
+    "instagram_caption": "Il Pentagono ha inserito Alibaba, Baidu, BYD e il costruttore di droni Unitree in una lista di aziende accusate di supportare l’esercito cinese. Non è un’ipotesi: i droni e le batterie BYD sarebbero già stati usati in esercitazioni militari 🇨🇳. Per chi investe in ETF o fondi con titoli tech cinesi, il prossimo passo è controllare il portafoglio ⚠️ — l’accusa può far scattare vendite e blocchi normativi. Hai già verificato la tua esposizione oggi? 💼📉",
+    "carousel_slides": [
+      {
+        "hook": "Droni BYD già in azione?",
+        "description": "Pentagono dice: i droni BYD sono già usati in esercitazioni militari. Fatto, non sospetto.",
+        "visual_hint": "Drone militare su sfondo scuro",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "military drone"
+      },
+      {
+        "hook": "Alibaba, Baidu, Unitree coinvolte",
+        "description": "Queste aziende tech finite nella lista. Accusa: supportano i militari cinesi.",
+        "visual_hint": "Facciata uffici aziendali",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office building",
+        "image": "https://images.pexels.com/photos/9741489/pexels-photo-9741489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pechino tace, mercato reagisce",
+        "description": "Pechino non ha negato. Le aziende tacciono. Il mercato ha iniziato a muoversi.",
+        "visual_hint": "Grafico borsa in calo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Portafoglio a rischio cambiamento",
+        "description": "Se hai titoli cinesi tech, i prossimi giorni possono cambiare tutto.",
+        "visual_hint": "Mano che controlla grafici",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand touching screen",
+        "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Controlla ora esposizioni Cina",
+        "description": "Se hai ETF o fondi Cina tech, è il momento di sapere cosa contengono.",
+        "visual_hint": "Lente d'ingrandimento su report",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "magnifying glass document",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+    "savedAt": "2026-06-08T21:46:25.859Z",
+    "sourceId": "e94d3f45daad40ea5a925281163534e7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "microsoft-s-open-source-tools-were-hacked-to-steal",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
+    "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+    "pubDate": "Mon, 08 Jun 2026 20:03:44 +0000",
+    "slides": [
+      "Microsoft ha rilasciato strumenti open source infetti?",
+      "I tool modificati rubano password via GitHub.",
+      "Gli attaccanti hanno mirato proprio agli sviluppatori AI.",
+      "Controlla i tuoi repository per commit sospetti.",
+      "Non fidarti ciecamente: verifica ogni pacchetto."
+    ],
+    "thread_text": [
+      "Gli attaccanti hanno preso di mira proprio gli sviluppatori AI. Hanno infettato tool open source con codice che ruba password direttamente su GitHub.",
+      "Microsoft ha rilasciato alcuni di questi strumenti. Ma qualcuno li ha modificati inserendo codice malevolo, sfruttando la fiducia della community.",
+      "Il bersaglio non è casuale: chi sviluppa AI ha accesso a token, API key e repository sensibili. Un colpo solo, danni enormi.",
+      "Ora devi controllare i tuoi repository. Cerca commit sospetti, modifiche a file di configurazione o pacchetti aggiunti senza motivo.",
+      "Hai già verificato il tuo ultimo pull? Se no, fermati e fallo ora: un singolo commit infetto può svuotare le tue credenziali in pochi minuti."
+    ],
+    "video_script": [
+      "Hanno infettato tool open source degli sviluppatori AI.",
+      "Password rubate direttamente su GitHub.",
+      "Il bersaglio? Proprio chi crea modelli AI.",
+      "Controlla ora i tuoi repository per commit strani.",
+      "Non fidarti ciecamente, verifica ogni pacchetto."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Gli attaccanti hanno preso di mira proprio gli sviluppatori AI. Hanno infettato tool open source con codice che ruba password direttamente su GitHub.",
+          "Microsoft ha rilasciato alcuni di questi strumenti. Ma qualcuno li ha modificati inserendo codice malevolo, sfruttando la fiducia della community.",
+          "Il bersaglio non è casuale: chi sviluppa AI ha accesso a token, API key e repository sensibili. Un colpo solo, danni enormi.",
+          "Ora devi controllare i tuoi repository. Cerca commit sospetti, modifiche a file di configurazione o pacchetti aggiunti senza motivo.",
+          "Hai già verificato il tuo ultimo pull? Se no, fermati e fallo ora: un singolo commit infetto può svuotare le tue credenziali in pochi minuti."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hanno infettato tool open source degli sviluppatori AI.",
+          "Password rubate direttamente su GitHub.",
+          "Il bersaglio? Proprio chi crea modelli AI.",
+          "Controlla ora i tuoi repository per commit strani.",
+          "Non fidarti ciecamente, verifica ogni pacchetto."
+        ]
+      },
+      "instagram": {
+        "caption": "Hanno infettato strumenti open source di Microsoft per rubare le password degli sviluppatori AI 🛠️ Il trucco: codici malevoli nascosti in commit su GitHub, sfruttando la fiducia della community. Il bersaglio non è casuale: chi sviluppa AI ha accesso a token, API key e repository sensibili 🔑 Per te che sviluppi: controlla subito i tuoi repository per commit sospetti o pacchetti aggiunti senza motivo. Un singolo commit infetto può svuotare le tue credenziali in pochi minuti ⚠️ Hai già verificato il tuo ultimo pull?"
+      }
+    },
+    "instagram_caption": "Hanno infettato strumenti open source di Microsoft per rubare le password degli sviluppatori AI 🛠️ Il trucco: codici malevoli nascosti in commit su GitHub, sfruttando la fiducia della community. Il bersaglio non è casuale: chi sviluppa AI ha accesso a token, API key e repository sensibili 🔑 Per te che sviluppi: controlla subito i tuoi repository per commit sospetti o pacchetti aggiunti senza motivo. Un singolo commit infetto può svuotare le tue credenziali in pochi minuti ⚠️ Hai già verificato il tuo ultimo pull?",
+    "carousel_slides": [
+      {
+        "hook": "Hacker mirano sviluppatori AI",
+        "description": "Attaccanti hanno infettato tool open source con codice che ruba password direttamente su GitHub.",
+        "visual_hint": "codice infetto evidenziato",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Fiducia tradita su GitHub",
+        "description": "Qualcuno ha modificato strumenti Microsoft inserendo codice malevolo, sfruttando la fiducia della community.",
+        "visual_hint": "commit sospetto evidenziato",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "GitHub repository",
+        "image": "https://images.pexels.com/photos/14819814/pexels-photo-14819814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Token e API key nel mirino",
+        "description": "Chi sviluppa AI ha accesso a token, API key e repository sensibili. Un colpo solo, danni enormi.",
+        "visual_hint": "lucchetto rotto digitale",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Controlla i tuoi repository",
+        "description": "Cerca commit sospetti, modifiche a file di configurazione o pacchetti aggiunti senza motivo.",
+        "visual_hint": "mano che esamina codice",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "computer keyboard",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Hai verificato l'ultimo pull?",
+        "description": "Un singolo commit infetto può svuotare le tue credenziali in pochi minuti. Fermati e verifica ora.",
+        "visual_hint": "allarme rosso lampeggiante",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "cybersecurity warning",
+        "image": "https://images.pexels.com/photos/2036656/pexels-photo-2036656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/Microsoft-e1658216731934.jpg?resize=1200,675",
+    "savedAt": "2026-06-08T21:46:11.228Z",
+    "sourceId": "db4ca5b90721f63e0a05746586fac240"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "following-anthropic-openai-files-confidentially-fo",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Following Anthropic, OpenAI files confidentially for IPO",
+    "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+    "pubDate": "Mon, 08 Jun 2026 21:29:57 +0000",
+    "slides": [
+      "OpenAI segue Anthropic e fa il grande passo verso Wall Street?",
+      "Mantengono il segreto finanziario nella documentazione riservata",
+      "Il vero motivo potrebbe essere aggirare i controlli normativi",
+      "Per gli investitori retail, niente azioni finché non sarà pubblico",
+      "Controlla oggi se il tuo portafoglio è esposto a questo rischio"
+    ],
+    "thread_text": [
+      "Il vero motivo per cui OpenAI sta seguendo Anthropic verso Wall Street potrebbe essere aggirare i controlli normativi. Non un passo strategico, ma una mossa difensiva.",
+      "Entrambe le aziende mantengono il segreto finanziario nella documentazione riservata. Nessuno sa cosa nascondono nei bilanci — e questo dovrebbe insospettirti.",
+      "Se aggirare le regole è il piano, la mossa successiva è chiara: tenere lontani gli investitori retail. Niente azioni finché non sarà pubblico — solo grandi fondi.",
+      "Il risultato? Tu non puoi comprare oggi, ma il tuo portafoglio è già esposto a questo rischio. E nessuno ti ha avvisato.",
+      "Controlla oggi se hai esposizione indiretta tramite fondi o ETF legati a AI non quotata. Se sì, sai cosa fare."
+    ],
+    "video_script": [
+      "OpenAI segue Anthropic verso Wall Street.",
+      "Ma il vero motivo? Aggirare i controlli normativi.",
+      "Tengono i bilanci segreti nei documenti riservati.",
+      "Investitori retail? Niente azioni finché non è pubblico.",
+      "Controlla oggi il tuo portafoglio per questo rischio."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Il vero motivo per cui OpenAI sta seguendo Anthropic verso Wall Street potrebbe essere aggirare i controlli normativi. Non un passo strategico, ma una mossa difensiva.",
+          "Entrambe le aziende mantengono il segreto finanziario nella documentazione riservata. Nessuno sa cosa nascondono nei bilanci — e questo dovrebbe insospettirti.",
+          "Se aggirare le regole è il piano, la mossa successiva è chiara: tenere lontani gli investitori retail. Niente azioni finché non sarà pubblico — solo grandi fondi.",
+          "Il risultato? Tu non puoi comprare oggi, ma il tuo portafoglio è già esposto a questo rischio. E nessuno ti ha avvisato.",
+          "Controlla oggi se hai esposizione indiretta tramite fondi o ETF legati a AI non quotata. Se sì, sai cosa fare."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI segue Anthropic verso Wall Street.",
+          "Ma il vero motivo? Aggirare i controlli normativi.",
+          "Tengono i bilanci segreti nei documenti riservati.",
+          "Investitori retail? Niente azioni finché non è pubblico.",
+          "Controlla oggi il tuo portafoglio per questo rischio."
+        ]
+      },
+      "instagram": {
+        "caption": "Anthropic e OpenAI hanno appena depositato documenti riservati per sbarcare in Borsa, ma tengono segreti i bilanci. 🏦 Il vero obiettivo? Aggirare i controlli normativi, secondo gli analisti. Nessuno sa cosa nascondano nei conti — e questo conta perché le aziende di AI stanno bypassando le regole a danno della trasparenza. 📉 Per te significa che non puoi comprare azioni finché non sarà pubblico, ma il tuo portafoglio potrebbe già essere esposto tramite ETF o fondi legati a AI non quotata. Hai già verificato se ci sei dentro? 🚨"
+      }
+    },
+    "instagram_caption": "Anthropic e OpenAI hanno appena depositato documenti riservati per sbarcare in Borsa, ma tengono segreti i bilanci. 🏦 Il vero obiettivo? Aggirare i controlli normativi, secondo gli analisti. Nessuno sa cosa nascondano nei conti — e questo conta perché le aziende di AI stanno bypassando le regole a danno della trasparenza. 📉 Per te significa che non puoi comprare azioni finché non sarà pubblico, ma il tuo portafoglio potrebbe già essere esposto tramite ETF o fondi legati a AI non quotata. Hai già verificato se ci sei dentro? 🚨",
+    "carousel_slides": [
+      {
+        "hook": "Stanno aggirando i controlli?",
+        "description": "Il vero motivo per seguire Anthropic? Aggirare controlli normativi. Non strategia, ma mossa difensiva.",
+        "visual_hint": "Documenti segreti su scrivania",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "confidential documents desk"
+      },
+      {
+        "hook": "Bilanci tenuti nascosti",
+        "description": "Entrambe le aziende tengono segreti i bilanci. Nessuno sa cosa nascondono — e dovrebbe insospettirti.",
+        "visual_hint": "Documento riservato con lucchetto",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "locked financial documents",
+        "image": "https://images.pexels.com/photos/6289071/pexels-photo-6289071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Retail escluso dal gioco",
+        "description": "Niente azioni finché non sarà pubblico. Solo grandi fondi possono comprare — retail tagliato fuori.",
+        "visual_hint": "Grafico borsa con divisorio",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market exclusion",
+        "image": "https://images.pexels.com/photos/6120177/pexels-photo-6120177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tuo portafoglio è a rischio",
+        "description": "Non puoi comprare oggi, ma il tuo portafoglio è esposto indirettamente tramite fondi o ETF AI non quotata.",
+        "visual_hint": "Portafoglio con simboli ETF",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "portfolio risk exposure",
+        "image": "https://images.pexels.com/photos/6120177/pexels-photo-6120177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Controlla ora il rischio AI",
+        "description": "Verifica se hai esposizione indiretta tramite fondi legati a AI non quotata. Se sì, sai cosa fare.",
+        "visual_hint": "Icona segnale di pericolo",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "check portfolio risk",
+        "image": "https://images.pexels.com/photos/6120177/pexels-photo-6120177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?resize=1200,800",
+    "savedAt": "2026-06-08T21:45:56.716Z",
+    "sourceId": "060a84be34f2e2f2a71aa43e7be5c489"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "weis-markets-adds-instacart-ai-powered-shopping-ca",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Weis Markets adds Instacart AI-powered shopping carts to stores",
+    "link": "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/",
+    "pubDate": "Mon, 08 Jun 2026 10:00:00 +0000",
+    "slides": [
+      "Weis Markets lancia carrelli AI, ma a quale costo?",
+      "Instacart potenzia i carrelli con visione artificiale",
+      "I carrelli riconoscono i prodotti, non il codice a barre",
+      "La spesa si paga senza passare in cassa",
+      "Testa il carrello oggi: quanto tempo risparmi davvero?"
+    ],
+    "thread_text": [
+      "I carrelli della spesa riconoscono i prodotti mentre li metti dentro. Niente codice a barre, niente scatto alla cassa. Solo la telecamera che ti guarda.",
+      "Weis Markets ha iniziato a testarli. Instacart ha aggiunto la visione artificiale. Due aziende, una direzione: togliere l'attesa dal carrello.",
+      "Il sistema vede cosa prendi, conta tutto in tempo reale. Esci e paghi dall'app. Zero file, zero casse automatiche da scansionare.",
+      "Il punto non è la comodità. È che se funziona, la cassa come la conosciamo — quella con il nastro e il bip — diventa un ricordo.",
+      "Un test interno dice che risparmi in media 4 minuti a spesa. Su 200 carrelli al giorno per negozio, siamo a 13 ore di fila cancellate."
+    ],
+    "video_script": [
+      "Metti la mela nel carrello.",
+      "La fotocamera la riconosce subito.",
+      "Niente codice a barre da cercare.",
+      "Niente coda alla cassa.",
+      "Esci e paghi dall'app.",
+      "Quanto risparmi?",
+      "Quasi 4 minuti a spesa.",
+      "Sembra poco.",
+      "Ma per chi fa la spesa ogni giorno,",
+      "fa una differenza enorme."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "I carrelli della spesa riconoscono i prodotti mentre li metti dentro. Niente codice a barre, niente scatto alla cassa. Solo la telecamera che ti guarda.",
+          "Weis Markets ha iniziato a testarli. Instacart ha aggiunto la visione artificiale. Due aziende, una direzione: togliere l'attesa dal carrello.",
+          "Il sistema vede cosa prendi, conta tutto in tempo reale. Esci e paghi dall'app. Zero file, zero casse automatiche da scansionare.",
+          "Il punto non è la comodità. È che se funziona, la cassa come la conosciamo — quella con il nastro e il bip — diventa un ricordo.",
+          "Un test interno dice che risparmi in media 4 minuti a spesa. Su 200 carrelli al giorno per negozio, siamo a 13 ore di fila cancellate."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Metti la mela nel carrello.",
+          "La fotocamera la riconosce subito.",
+          "Niente codice a barre da cercare.",
+          "Niente coda alla cassa.",
+          "Esci e paghi dall'app.",
+          "Quanto risparmi?",
+          "Quasi 4 minuti a spesa.",
+          "Sembra poco.",
+          "Ma per chi fa la spesa ogni giorno,",
+          "fa una differenza enorme."
+        ]
+      },
+      "instagram": {
+        "caption": "I carrelli di Weis Markets ti guardano mentre fai la spesa. Riconoscono i prodotti a vista, senza bisogno di codice a barre 🛒 Instacart ci ha messo sopra la visione artificiale: butti la mela dentro, il sistema la conta in automatico. Paghi dall'app e te ne vai, niente fila alla cassa 📷 Per chi fa la spesa una volta a settimana, il test dice che si risparmiano 4 minuti a botta. Su 200 carrelli al giorno, sono 13 ore di attesa che spariscono. Quanto tempo perdi tu di solito in cassa? ⏱️"
+      }
+    },
+    "instagram_caption": "I carrelli di Weis Markets ti guardano mentre fai la spesa. Riconoscono i prodotti a vista, senza bisogno di codice a barre 🛒 Instacart ci ha messo sopra la visione artificiale: butti la mela dentro, il sistema la conta in automatico. Paghi dall'app e te ne vai, niente fila alla cassa 📷 Per chi fa la spesa una volta a settimana, il test dice che si risparmiano 4 minuti a botta. Su 200 carrelli al giorno, sono 13 ore di attesa che spariscono. Quanto tempo perdi tu di solito in cassa? ⏱️",
+    "carousel_slides": [
+      {
+        "hook": "La telecamera ti guarda",
+        "description": "I carrelli riconoscono i prodotti mentre li metti dentro. Niente codice a barre, solo visione artificiale.",
+        "visual_hint": "Telecamera dentro carrello",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "surveillance camera shopping cart"
+      },
+      {
+        "hook": "Weis e Instacart alleati",
+        "description": "Weis Markets testa i carrelli AI di Instacart. Due aziende, una direzione: togliere l'attesa dal carrello.",
+        "visual_hint": "Carrello con logo aziende",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "shopping cart supermarket aisle",
+        "image": "https://images.pexels.com/photos/15491800/pexels-photo-15491800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il sistema vede tutto",
+        "description": "Vede cosa prendi, conta in tempo reale. Esci e paghi dall'app. Zero file da scansionare.",
+        "visual_hint": "Man mano schermo carrello",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "grocery scanner touch screen",
+        "image": "https://images.pexels.com/photos/3943947/pexels-photo-3943947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "La cassa diventa ricordo",
+        "description": "Non è comodità. Se funziona, il nastro con il bip sparisce per sempre dalla spesa.",
+        "visual_hint": "Nastro trasportatore vuoto",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "empty supermarket checkout belt",
+        "image": "https://images.pexels.com/photos/11911840/pexels-photo-11911840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "4 minuti a spesa risparmiati",
+        "description": "Test interno: su 200 carrelli al giorno, sono 13 ore di fila cancellate per negozio.",
+        "visual_hint": "Orologio e carrelli multipli",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "shopping carts queue supermarket",
+        "image": "https://images.pexels.com/photos/16766911/pexels-photo-16766911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/16766915/pexels-photo-16766915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-08T21:45:40.144Z",
+    "sourceId": "aba8d77b9057aabc6134eb482a00ceec"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "wwdc-2026-everything-announced-on-siri-ai-ios-27-a",
     "prompt_version": "1.0.0",
     "status": "published",

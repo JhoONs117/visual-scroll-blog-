@@ -1,0 +1,114 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "weis-markets-adds-instacart-ai-powered-shopping-ca",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Weis Markets adds Instacart AI-powered shopping carts to stores",
+  "link": "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/",
+  "pubDate": "Mon, 08 Jun 2026 10:00:00 +0000",
+  "slides": [
+    "Weis Markets lancia carrelli AI, ma a quale costo?",
+    "Instacart potenzia i carrelli con visione artificiale",
+    "I carrelli riconoscono i prodotti, non il codice a barre",
+    "La spesa si paga senza passare in cassa",
+    "Testa il carrello oggi: quanto tempo risparmi davvero?"
+  ],
+  "thread_text": [
+    "I carrelli della spesa riconoscono i prodotti mentre li metti dentro. Niente codice a barre, niente scatto alla cassa. Solo la telecamera che ti guarda.",
+    "Weis Markets ha iniziato a testarli. Instacart ha aggiunto la visione artificiale. Due aziende, una direzione: togliere l'attesa dal carrello.",
+    "Il sistema vede cosa prendi, conta tutto in tempo reale. Esci e paghi dall'app. Zero file, zero casse automatiche da scansionare.",
+    "Il punto non è la comodità. È che se funziona, la cassa come la conosciamo — quella con il nastro e il bip — diventa un ricordo.",
+    "Un test interno dice che risparmi in media 4 minuti a spesa. Su 200 carrelli al giorno per negozio, siamo a 13 ore di fila cancellate."
+  ],
+  "video_script": [
+    "Metti la mela nel carrello.",
+    "La fotocamera la riconosce subito.",
+    "Niente codice a barre da cercare.",
+    "Niente coda alla cassa.",
+    "Esci e paghi dall'app.",
+    "Quanto risparmi?",
+    "Quasi 4 minuti a spesa.",
+    "Sembra poco.",
+    "Ma per chi fa la spesa ogni giorno,",
+    "fa una differenza enorme."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "I carrelli della spesa riconoscono i prodotti mentre li metti dentro. Niente codice a barre, niente scatto alla cassa. Solo la telecamera che ti guarda.",
+        "Weis Markets ha iniziato a testarli. Instacart ha aggiunto la visione artificiale. Due aziende, una direzione: togliere l'attesa dal carrello.",
+        "Il sistema vede cosa prendi, conta tutto in tempo reale. Esci e paghi dall'app. Zero file, zero casse automatiche da scansionare.",
+        "Il punto non è la comodità. È che se funziona, la cassa come la conosciamo — quella con il nastro e il bip — diventa un ricordo.",
+        "Un test interno dice che risparmi in media 4 minuti a spesa. Su 200 carrelli al giorno per negozio, siamo a 13 ore di fila cancellate."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Metti la mela nel carrello.",
+        "La fotocamera la riconosce subito.",
+        "Niente codice a barre da cercare.",
+        "Niente coda alla cassa.",
+        "Esci e paghi dall'app.",
+        "Quanto risparmi?",
+        "Quasi 4 minuti a spesa.",
+        "Sembra poco.",
+        "Ma per chi fa la spesa ogni giorno,",
+        "fa una differenza enorme."
+      ]
+    },
+    "instagram": {
+      "caption": "I carrelli di Weis Markets ti guardano mentre fai la spesa. Riconoscono i prodotti a vista, senza bisogno di codice a barre 🛒 Instacart ci ha messo sopra la visione artificiale: butti la mela dentro, il sistema la conta in automatico. Paghi dall'app e te ne vai, niente fila alla cassa 📷 Per chi fa la spesa una volta a settimana, il test dice che si risparmiano 4 minuti a botta. Su 200 carrelli al giorno, sono 13 ore di attesa che spariscono. Quanto tempo perdi tu di solito in cassa? ⏱️"
+    }
+  },
+  "instagram_caption": "I carrelli di Weis Markets ti guardano mentre fai la spesa. Riconoscono i prodotti a vista, senza bisogno di codice a barre 🛒 Instacart ci ha messo sopra la visione artificiale: butti la mela dentro, il sistema la conta in automatico. Paghi dall'app e te ne vai, niente fila alla cassa 📷 Per chi fa la spesa una volta a settimana, il test dice che si risparmiano 4 minuti a botta. Su 200 carrelli al giorno, sono 13 ore di attesa che spariscono. Quanto tempo perdi tu di solito in cassa? ⏱️",
+  "carousel_slides": [
+    {
+      "hook": "La telecamera ti guarda",
+      "description": "I carrelli riconoscono i prodotti mentre li metti dentro. Niente codice a barre, solo visione artificiale.",
+      "visual_hint": "Telecamera dentro carrello",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "surveillance camera shopping cart"
+    },
+    {
+      "hook": "Weis e Instacart alleati",
+      "description": "Weis Markets testa i carrelli AI di Instacart. Due aziende, una direzione: togliere l'attesa dal carrello.",
+      "visual_hint": "Carrello con logo aziende",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "shopping cart supermarket aisle",
+      "image": "https://images.pexels.com/photos/15491800/pexels-photo-15491800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il sistema vede tutto",
+      "description": "Vede cosa prendi, conta in tempo reale. Esci e paghi dall'app. Zero file da scansionare.",
+      "visual_hint": "Man mano schermo carrello",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "grocery scanner touch screen",
+      "image": "https://images.pexels.com/photos/3943947/pexels-photo-3943947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "La cassa diventa ricordo",
+      "description": "Non è comodità. Se funziona, il nastro con il bip sparisce per sempre dalla spesa.",
+      "visual_hint": "Nastro trasportatore vuoto",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "empty supermarket checkout belt",
+      "image": "https://images.pexels.com/photos/11911840/pexels-photo-11911840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "4 minuti a spesa risparmiati",
+      "description": "Test interno: su 200 carrelli al giorno, sono 13 ore di fila cancellate per negozio.",
+      "visual_hint": "Orologio e carrelli multipli",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "shopping carts queue supermarket",
+      "image": "https://images.pexels.com/photos/16766911/pexels-photo-16766911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/16766915/pexels-photo-16766915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-08T21:45:40.144Z",
+  "sourceId": "aba8d77b9057aabc6134eb482a00ceec"
+}

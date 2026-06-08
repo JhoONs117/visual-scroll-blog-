@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "pentagon-says-alibaba-baidu-byd-and-unitree-suppor",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Pentagon says Alibaba, Baidu, BYD and Unitree support China’s military",
+  "link": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
+  "pubDate": "Mon, 08 Jun 2026 18:57:49 +0000",
+  "slides": [
+    "Pentagon accusa Alibaba, Baidu, BYD e Unitree: supportano i militari?",
+    "Queste aziende high-tech sono collegate a Pechino",
+    "I droni e le batterie BYD già usati in esercitazioni?",
+    "Investitori: rivedete le vostre partecipazioni ora",
+    "Controllate i vostri portafogli per esposizioni cinesi"
+  ],
+  "thread_text": [
+    "I droni BYD sono già usati in esercitazioni militari. Lo dice il Pentagono. Non è un sospetto: è un fatto.",
+    "Alibaba, Baidu, Unitree sono finite nella stessa lista. Accusa: supportano i militari cinesi.",
+    "Pechino non ha negato. Le aziende non hanno commentato. Il mercato ha iniziato a muoversi.",
+    "Se hai titoli cinesi tech nel portafoglio, i prossimi giorni possono cambiare tutto.",
+    "Controlla ora le esposizioni. Se hai ETF o fondi con Cina tech, è il momento di sapere cosa contengono."
+  ],
+  "video_script": [
+    "I droni BYD sono già in esercitazioni militari.",
+    "Il Pentagono ha fatto i nomi.",
+    "Alibaba, Baidu, Unitree nella lista.",
+    "Pechino non ha risposto.",
+    "Controlla il portafoglio prima che sia tardi."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "I droni BYD sono già usati in esercitazioni militari. Lo dice il Pentagono. Non è un sospetto: è un fatto.",
+        "Alibaba, Baidu, Unitree sono finite nella stessa lista. Accusa: supportano i militari cinesi.",
+        "Pechino non ha negato. Le aziende non hanno commentato. Il mercato ha iniziato a muoversi.",
+        "Se hai titoli cinesi tech nel portafoglio, i prossimi giorni possono cambiare tutto.",
+        "Controlla ora le esposizioni. Se hai ETF o fondi con Cina tech, è il momento di sapere cosa contengono."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "I droni BYD sono già in esercitazioni militari.",
+        "Il Pentagono ha fatto i nomi.",
+        "Alibaba, Baidu, Unitree nella lista.",
+        "Pechino non ha risposto.",
+        "Controlla il portafoglio prima che sia tardi."
+      ]
+    },
+    "instagram": {
+      "caption": "Il Pentagono ha inserito Alibaba, Baidu, BYD e il costruttore di droni Unitree in una lista di aziende accusate di supportare l’esercito cinese. Non è un’ipotesi: i droni e le batterie BYD sarebbero già stati usati in esercitazioni militari 🇨🇳. Per chi investe in ETF o fondi con titoli tech cinesi, il prossimo passo è controllare il portafoglio ⚠️ — l’accusa può far scattare vendite e blocchi normativi. Hai già verificato la tua esposizione oggi? 💼📉"
+    }
+  },
+  "instagram_caption": "Il Pentagono ha inserito Alibaba, Baidu, BYD e il costruttore di droni Unitree in una lista di aziende accusate di supportare l’esercito cinese. Non è un’ipotesi: i droni e le batterie BYD sarebbero già stati usati in esercitazioni militari 🇨🇳. Per chi investe in ETF o fondi con titoli tech cinesi, il prossimo passo è controllare il portafoglio ⚠️ — l’accusa può far scattare vendite e blocchi normativi. Hai già verificato la tua esposizione oggi? 💼📉",
+  "carousel_slides": [
+    {
+      "hook": "Droni BYD già in azione?",
+      "description": "Pentagono dice: i droni BYD sono già usati in esercitazioni militari. Fatto, non sospetto.",
+      "visual_hint": "Drone militare su sfondo scuro",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "military drone"
+    },
+    {
+      "hook": "Alibaba, Baidu, Unitree coinvolte",
+      "description": "Queste aziende tech finite nella lista. Accusa: supportano i militari cinesi.",
+      "visual_hint": "Facciata uffici aziendali",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office building",
+      "image": "https://images.pexels.com/photos/9741489/pexels-photo-9741489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pechino tace, mercato reagisce",
+      "description": "Pechino non ha negato. Le aziende tacciono. Il mercato ha iniziato a muoversi.",
+      "visual_hint": "Grafico borsa in calo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Portafoglio a rischio cambiamento",
+      "description": "Se hai titoli cinesi tech, i prossimi giorni possono cambiare tutto.",
+      "visual_hint": "Mano che controlla grafici",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching screen",
+      "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controlla ora esposizioni Cina",
+      "description": "Se hai ETF o fondi Cina tech, è il momento di sapere cosa contengono.",
+      "visual_hint": "Lente d'ingrandimento su report",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+  "savedAt": "2026-06-08T21:46:25.859Z",
+  "sourceId": "e94d3f45daad40ea5a925281163534e7"
+}
