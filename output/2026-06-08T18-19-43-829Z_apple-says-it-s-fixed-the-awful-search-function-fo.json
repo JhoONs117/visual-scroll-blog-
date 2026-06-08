@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-says-it-s-fixed-the-awful-search-function-fo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple says it’s fixed the awful search function for emails, photos",
+  "link": "https://techcrunch.com/2026/06/08/apple-says-its-fixed-the-awful-search-function-for-emails-photos/",
+  "pubDate": "Mon, 08 Jun 2026 17:53:29 +0000",
+  "slides": [
+    "Apple promette di aver risolto la ricerca email, ma è vero?",
+    "Il nuovo motore unifica posta, foto e note in un solo indice.",
+    "Non serve più ricordare parole esatte: capisce il contesto.",
+    "I tuoi ritrovamenti diventeranno più veloci, se funziona.",
+    "Provalo oggi su un documento vecchio: confronta i risultati."
+  ],
+  "thread_text": [
+    "Non devi più ricordare parole esatte per trovare una vecchia email. Il nuovo motore di Apple capisce il contesto.",
+    "Mette nello stesso indice posta, foto e note. Cerca in tutti i tuoi dati con un solo comando.",
+    "Il risultato? Trovi quel documento del 2019 anche se ricordi solo ‘quella riunione con Luca’.",
+    "Se funziona davvero, la ricerca diventa uno strumento che capisce te, non il contrario.",
+    "Prendi una mail vecchia di tre mesi e confronta i risultati. Fallo oggi."
+  ],
+  "video_script": [
+    "Apple dice di aver risolto la ricerca email.",
+    "Unisce posta, foto e note in un indice.",
+    "Capisce il contesto, non le parole esatte.",
+    "Se funziona, trovi tutto molto più veloce.",
+    "Provalo su un documento vecchio."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Non devi più ricordare parole esatte per trovare una vecchia email. Il nuovo motore di Apple capisce il contesto.",
+        "Mette nello stesso indice posta, foto e note. Cerca in tutti i tuoi dati con un solo comando.",
+        "Il risultato? Trovi quel documento del 2019 anche se ricordi solo ‘quella riunione con Luca’.",
+        "Se funziona davvero, la ricerca diventa uno strumento che capisce te, non il contrario.",
+        "Prendi una mail vecchia di tre mesi e confronta i risultati. Fallo oggi."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple dice di aver risolto la ricerca email.",
+        "Unisce posta, foto e note in un indice.",
+        "Capisce il contesto, non le parole esatte.",
+        "Se funziona, trovi tutto molto più veloce.",
+        "Provalo su un documento vecchio."
+      ]
+    },
+    "instagram": {
+      "caption": "Apple ha messo posta, foto e note in un unico indice di ricerca, così non devi più ricordare le parole esatte per trovare quel documento 📁. Il nuovo motore capisce il contesto: se cerchi \"riunione con Luca\" del 2019, lui sa cosa intendi. Niente più comandi a memoria 🧠. Per chi lavora con centinaia di email al giorno, significa trovare tutto in un solo comando, non setacciare cartelle. Prendi un’email vecchia di tre mesi e confronta il risultato con la vecchia ricerca: cambia qualcosa?"
+    }
+  },
+  "instagram_caption": "Apple ha messo posta, foto e note in un unico indice di ricerca, così non devi più ricordare le parole esatte per trovare quel documento 📁. Il nuovo motore capisce il contesto: se cerchi \"riunione con Luca\" del 2019, lui sa cosa intendi. Niente più comandi a memoria 🧠. Per chi lavora con centinaia di email al giorno, significa trovare tutto in un solo comando, non setacciare cartelle. Prendi un’email vecchia di tre mesi e confronta il risultato con la vecchia ricerca: cambia qualcosa?",
+  "carousel_slides": [
+    {
+      "hook": "Ma funziona davvero?",
+      "description": "Non devi più ricordare parole esatte per trovare una vecchia email. Il nuovo motore capisce il contesto.",
+      "visual_hint": "Icona domanda su posta",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "apple mail search"
+    },
+    {
+      "hook": "Unico indice per tutto",
+      "description": "Mette nello stesso indice posta, foto e note. Cerca in tutti i tuoi dati con un solo comando.",
+      "visual_hint": "Fusione di icone digitali",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "unified search interface",
+      "image": "https://images.pexels.com/photos/13570173/pexels-photo-13570173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trovi anche nel 2019",
+      "description": "Il risultato? Trovi quel documento del 2019 anche se ricordi solo 'quella riunione con Luca'.",
+      "visual_hint": "Vecchio documento evidenziato",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "old file folder",
+      "image": "https://images.pexels.com/photos/7654130/pexels-photo-7654130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Lo strumento si adatta",
+      "description": "Se funziona davvero, la ricerca diventa uno strumento che capisce te, non il contrario.",
+      "visual_hint": "Mano che scorre schermo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching screen",
+      "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova e confronta ora",
+      "description": "Prendi una mail vecchia di tre mesi e confronta i risultati. Fallo oggi.",
+      "visual_hint": "Due schermi a confronto",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "phone comparison screen",
+      "image": "https://images.pexels.com/photos/7190919/pexels-photo-7190919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/wwdc-2026-preview.png?w=1164",
+  "savedAt": "2026-06-08T18:20:28.486Z",
+  "sourceId": "9a4761806f7474d3ef84455a6347223d"
+}

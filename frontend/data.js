@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "wwdc-2026-everything-announced-on-siri-ai-ios-27-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+    "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "pubDate": "Mon, 08 Jun 2026 17:42:26 +0000",
+    "slides": [
+      "WWDC 2026: Siri finalmente capisce ciò che vuoi?",
+      "iOS 27 introduce un assistente AI per ogni app",
+      "Apple Intelligence non si connette al cloud: tutto locale",
+      "I vecchi iPhone gestiranno nuove funzioni senza aggiornamenti",
+      "Prova oggi: chiedi a Siri di organizzare la tua cronologia"
+    ],
+    "thread_text": [
+      "Siri smette di fingersi intelligente. Con Apple Intelligence tutto resta sul dispositivo, niente cloud, niente accesso ai tuoi dati.",
+      "WWDC 2026: Siri capisce finalmente quello che dici. Non più comandi cablati, ma intenzioni reali.",
+      "iOS 27 porta un assistente AI dentro ogni app. Non cambi app per chiedere: parli, e quello esegue.",
+      "E la parte migliore? I vecchi iPhone gestiscono le stesse funzioni senza aggiornamenti. È mera potenza locale.",
+      "Chiedi a Siri di organizzare la tua cronologia. Fatto. Inizia: non devi installare nulla."
+    ],
+    "video_script": [
+      "Siri capisce cosa vuoi.",
+      "Tutto sul telefono, non nel cloud.",
+      "Un assistente in ogni app.",
+      "Anche vecchi iPhone funzionano.",
+      "Chiedile di organizzare la cronologia."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Siri smette di fingersi intelligente. Con Apple Intelligence tutto resta sul dispositivo, niente cloud, niente accesso ai tuoi dati.",
+          "WWDC 2026: Siri capisce finalmente quello che dici. Non più comandi cablati, ma intenzioni reali.",
+          "iOS 27 porta un assistente AI dentro ogni app. Non cambi app per chiedere: parli, e quello esegue.",
+          "E la parte migliore? I vecchi iPhone gestiscono le stesse funzioni senza aggiornamenti. È mera potenza locale.",
+          "Chiedi a Siri di organizzare la tua cronologia. Fatto. Inizia: non devi installare nulla."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Siri capisce cosa vuoi.",
+          "Tutto sul telefono, non nel cloud.",
+          "Un assistente in ogni app.",
+          "Anche vecchi iPhone funzionano.",
+          "Chiedile di organizzare la cronologia."
+        ]
+      },
+      "instagram": {
+        "caption": "Siri ora capisce davvero quello che vuoi, non solo comandi fissi: la cronologia delle tue app si ordina con una frase. 🧠 Alla WWDC 2026 Apple ha annunciato che tutta l’intelligenza Artificiale resta sul telefono, niente cloud, niente invio dei tuoi dati da nessuna parte. 🔒 Con iOS 27 ogni app avrà il suo assistente AI integrato: parli e lui esegue, senza cambiare schermata. 💬 La sorpresa? Anche i vecchi iPhone gestiranno queste funzioni senza bisogno di aggiornamenti. Tu quando proverai a chiedere a Siri di riorganizzarti la giornata?"
+      }
+    },
+    "instagram_caption": "Siri ora capisce davvero quello che vuoi, non solo comandi fissi: la cronologia delle tue app si ordina con una frase. 🧠 Alla WWDC 2026 Apple ha annunciato che tutta l’intelligenza Artificiale resta sul telefono, niente cloud, niente invio dei tuoi dati da nessuna parte. 🔒 Con iOS 27 ogni app avrà il suo assistente AI integrato: parli e lui esegue, senza cambiare schermata. 💬 La sorpresa? Anche i vecchi iPhone gestiranno queste funzioni senza bisogno di aggiornamenti. Tu quando proverai a chiedere a Siri di riorganizzarti la giornata?",
+    "carousel_slides": [
+      {
+        "hook": "I tuoi dati restano qui",
+        "description": "Apple Intelligence non vede il cloud. Tutto locale, niente accesso esterno ai tuoi dati personali.",
+        "visual_hint": "lucchetto su chip",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "silicon microchip closeup"
+      },
+      {
+        "hook": "Siri ora ti capisce davvero",
+        "description": "Niente più comandi cablati: Siri coglie le tue intenzioni reali e agisce di conseguenza.",
+        "visual_hint": "onde sonore animate",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "sound wave visualization",
+        "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI dentro ogni app",
+        "description": "iOS 27 integra un assistente AI nativo. Parla e l'app esegue, senza cambiare schermata.",
+        "visual_hint": "schermata app animata",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone app interface",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Anche i vecchi iPhone",
+        "description": "Stesse funzioni, nessun aggiornamento. È potenza locale, non dipende dall'età del dispositivo.",
+        "visual_hint": "mano con iPhone vecchio",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding old iphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova subito: organizza la cronologia",
+        "description": "Chiedi a Siri e gestisce tutto. Zero installazioni, solo un prompt. Inizia ora.",
+        "visual_hint": "calendario segnato",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar with notes",
+        "image": "https://images.pexels.com/photos/7580915/pexels-photo-7580915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186",
+    "savedAt": "2026-06-08T18:20:43.231Z",
+    "sourceId": "671e145932665bf7774c8d2d54430d1f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "apple-says-it-s-fixed-the-awful-search-function-fo",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple says it’s fixed the awful search function for emails, photos",
+    "link": "https://techcrunch.com/2026/06/08/apple-says-its-fixed-the-awful-search-function-for-emails-photos/",
+    "pubDate": "Mon, 08 Jun 2026 17:53:29 +0000",
+    "slides": [
+      "Apple promette di aver risolto la ricerca email, ma è vero?",
+      "Il nuovo motore unifica posta, foto e note in un solo indice.",
+      "Non serve più ricordare parole esatte: capisce il contesto.",
+      "I tuoi ritrovamenti diventeranno più veloci, se funziona.",
+      "Provalo oggi su un documento vecchio: confronta i risultati."
+    ],
+    "thread_text": [
+      "Non devi più ricordare parole esatte per trovare una vecchia email. Il nuovo motore di Apple capisce il contesto.",
+      "Mette nello stesso indice posta, foto e note. Cerca in tutti i tuoi dati con un solo comando.",
+      "Il risultato? Trovi quel documento del 2019 anche se ricordi solo ‘quella riunione con Luca’.",
+      "Se funziona davvero, la ricerca diventa uno strumento che capisce te, non il contrario.",
+      "Prendi una mail vecchia di tre mesi e confronta i risultati. Fallo oggi."
+    ],
+    "video_script": [
+      "Apple dice di aver risolto la ricerca email.",
+      "Unisce posta, foto e note in un indice.",
+      "Capisce il contesto, non le parole esatte.",
+      "Se funziona, trovi tutto molto più veloce.",
+      "Provalo su un documento vecchio."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Non devi più ricordare parole esatte per trovare una vecchia email. Il nuovo motore di Apple capisce il contesto.",
+          "Mette nello stesso indice posta, foto e note. Cerca in tutti i tuoi dati con un solo comando.",
+          "Il risultato? Trovi quel documento del 2019 anche se ricordi solo ‘quella riunione con Luca’.",
+          "Se funziona davvero, la ricerca diventa uno strumento che capisce te, non il contrario.",
+          "Prendi una mail vecchia di tre mesi e confronta i risultati. Fallo oggi."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple dice di aver risolto la ricerca email.",
+          "Unisce posta, foto e note in un indice.",
+          "Capisce il contesto, non le parole esatte.",
+          "Se funziona, trovi tutto molto più veloce.",
+          "Provalo su un documento vecchio."
+        ]
+      },
+      "instagram": {
+        "caption": "Apple ha messo posta, foto e note in un unico indice di ricerca, così non devi più ricordare le parole esatte per trovare quel documento 📁. Il nuovo motore capisce il contesto: se cerchi \"riunione con Luca\" del 2019, lui sa cosa intendi. Niente più comandi a memoria 🧠. Per chi lavora con centinaia di email al giorno, significa trovare tutto in un solo comando, non setacciare cartelle. Prendi un’email vecchia di tre mesi e confronta il risultato con la vecchia ricerca: cambia qualcosa?"
+      }
+    },
+    "instagram_caption": "Apple ha messo posta, foto e note in un unico indice di ricerca, così non devi più ricordare le parole esatte per trovare quel documento 📁. Il nuovo motore capisce il contesto: se cerchi \"riunione con Luca\" del 2019, lui sa cosa intendi. Niente più comandi a memoria 🧠. Per chi lavora con centinaia di email al giorno, significa trovare tutto in un solo comando, non setacciare cartelle. Prendi un’email vecchia di tre mesi e confronta il risultato con la vecchia ricerca: cambia qualcosa?",
+    "carousel_slides": [
+      {
+        "hook": "Ma funziona davvero?",
+        "description": "Non devi più ricordare parole esatte per trovare una vecchia email. Il nuovo motore capisce il contesto.",
+        "visual_hint": "Icona domanda su posta",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "apple mail search"
+      },
+      {
+        "hook": "Unico indice per tutto",
+        "description": "Mette nello stesso indice posta, foto e note. Cerca in tutti i tuoi dati con un solo comando.",
+        "visual_hint": "Fusione di icone digitali",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "unified search interface",
+        "image": "https://images.pexels.com/photos/13570173/pexels-photo-13570173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trovi anche nel 2019",
+        "description": "Il risultato? Trovi quel documento del 2019 anche se ricordi solo 'quella riunione con Luca'.",
+        "visual_hint": "Vecchio documento evidenziato",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "old file folder",
+        "image": "https://images.pexels.com/photos/7654130/pexels-photo-7654130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Lo strumento si adatta",
+        "description": "Se funziona davvero, la ricerca diventa uno strumento che capisce te, non il contrario.",
+        "visual_hint": "Mano che scorre schermo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand touching screen",
+        "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova e confronta ora",
+        "description": "Prendi una mail vecchia di tre mesi e confronta i risultati. Fallo oggi.",
+        "visual_hint": "Due schermi a confronto",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "phone comparison screen",
+        "image": "https://images.pexels.com/photos/7190919/pexels-photo-7190919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/wwdc-2026-preview.png?w=1164",
+    "savedAt": "2026-06-08T18:20:28.486Z",
+    "sourceId": "9a4761806f7474d3ef84455a6347223d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "apple-s-long-awaited-ai-siri-overhaul-is-finally-h",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple’s long-awaited AI Siri overhaul is finally here",
+    "link": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+    "pubDate": "Mon, 08 Jun 2026 17:56:21 +0000",
+    "slides": [
+      "Siri cambia davvero? Cosa sa ora di te.",
+      "Non più una sola risposta, ma azioni complesse.",
+      "Apple ti promette privacy, ma come funziona?",
+      "Il tuo iPhone capirà il contesto delle chat.",
+      "Prova oggi a chiedere: 'Organizza la mia settimana'."
+    ],
+    "thread_text": [
+      "Apple ti promette privacy, ma come fa davvero a funzionare mentre Siri processa tutto in locale sul dispositivo?",
+      "Ora Siri non dà più una sola risposta, ma esegue azioni complesse: prenota, organizza, scrive messaggi.",
+      "Il tuo iPhone capirà il contesto delle chat, così puoi chiedere ‘ricordami cosa avevamo decito’ senza ripetere tutto.",
+      "Questo significa che Siri impara da te, non dai server: i dati restano sul telefono, non vanno in cloud.",
+      "Prova oggi a chiedere: ‘Organizza la mia settimana’ e vedi quanto cambia davvero. Costa zero."
+    ],
+    "video_script": [
+      "Apple dice privacy, ma come fa in pratica?",
+      "Siri non risponde più, esegue cose complesse.",
+      "Il telefono legge il contesto delle chat.",
+      "I tuoi dati restano qui, niente server.",
+      "Chiedi: organizzami la settimana, è gratis."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Apple ti promette privacy, ma come fa davvero a funzionare mentre Siri processa tutto in locale sul dispositivo?",
+          "Ora Siri non dà più una sola risposta, ma esegue azioni complesse: prenota, organizza, scrive messaggi.",
+          "Il tuo iPhone capirà il contesto delle chat, così puoi chiedere ‘ricordami cosa avevamo decito’ senza ripetere tutto.",
+          "Questo significa che Siri impara da te, non dai server: i dati restano sul telefono, non vanno in cloud.",
+          "Prova oggi a chiedere: ‘Organizza la mia settimana’ e vedi quanto cambia davvero. Costa zero."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple dice privacy, ma come fa in pratica?",
+          "Siri non risponde più, esegue cose complesse.",
+          "Il telefono legge il contesto delle chat.",
+          "I tuoi dati restano qui, niente server.",
+          "Chiedi: organizzami la settimana, è gratis."
+        ]
+      },
+      "instagram": {
+        "caption": "Siri ora processa tutto in locale sul tuo iPhone, senza mandare dati in cloud 🧠. Non ti dà più una risposta sola: può prenotare, organizzare la settimana o scrivere messaggi in un colpo solo 📲. Capisce il contesto delle chat, quindi puoi dirle “ricordami cosa avevamo deciso” senza ripetere tutta la storia. Per te significa delegare azioni complesse senza preoccuparti della privacy: i tuoi dati restano sul telefono 🔒. Hai già provato a chiederle di organizzarti la settimana?"
+      }
+    },
+    "instagram_caption": "Siri ora processa tutto in locale sul tuo iPhone, senza mandare dati in cloud 🧠. Non ti dà più una risposta sola: può prenotare, organizzare la settimana o scrivere messaggi in un colpo solo 📲. Capisce il contesto delle chat, quindi puoi dirle “ricordami cosa avevamo deciso” senza ripetere tutta la storia. Per te significa delegare azioni complesse senza preoccuparti della privacy: i tuoi dati restano sul telefono 🔒. Hai già provato a chiederle di organizzarti la settimana?",
+    "carousel_slides": [
+      {
+        "hook": "E se Siri sapesse tutto di te?",
+        "description": "Apple promette privacy mentre Siri elabora tutto in locale sul dispositivo. I dati restano sul telefono.",
+        "visual_hint": "illustrazione di un lucchetto su circuito",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone lock screen"
+      },
+      {
+        "hook": "Non più una risposta, ma azioni",
+        "description": "Siri ora prenota, organizza e scrive messaggi. Azioni complesse, non solo risposte singole.",
+        "visual_hint": "Siri che prenota un ristorante",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "restaurant reservation app",
+        "image": "https://images.pexels.com/photos/28700799/pexels-photo-28700799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tuo iPhone capisce le chat",
+        "description": "Chiedi 'ricordami cosa avevamo deciso' senza ripetere tutto. Siri capisce il contesto delle conversazioni.",
+        "visual_hint": "chat bubbole su schermo iPhone",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "iMessage chat bubbles",
+        "image": "https://images.pexels.com/photos/8015666/pexels-photo-8015666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Impara da te, non dai server",
+        "description": "Siri apprende solo dai dati sul tuo telefono. Niente cloud, niente condivisione esterna.",
+        "visual_hint": "disco rigido con etichetta privata",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova: 'Organizza la mia settimana'",
+        "description": "Vedi quanto cambia davvero Siri. Costa zero, provalo ora sul tuo iPhone.",
+        "visual_hint": "Siri che mostra calendario settimanale",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "iPhone calendar weekly view",
+        "image": "https://images.pexels.com/photos/14299948/pexels-photo-14299948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800",
+    "savedAt": "2026-06-08T18:20:14.334Z",
+    "sourceId": "e7edd2779e953c9ab3e9f09a9a0a9bbb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "aviva-deploys-ai-to-stop-230m-in-sophisticated-ins",
     "prompt_version": "1.0.0",
     "status": "published",

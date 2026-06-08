@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "wwdc-2026-everything-announced-on-siri-ai-ios-27-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+  "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+  "pubDate": "Mon, 08 Jun 2026 17:42:26 +0000",
+  "slides": [
+    "WWDC 2026: Siri finalmente capisce ciò che vuoi?",
+    "iOS 27 introduce un assistente AI per ogni app",
+    "Apple Intelligence non si connette al cloud: tutto locale",
+    "I vecchi iPhone gestiranno nuove funzioni senza aggiornamenti",
+    "Prova oggi: chiedi a Siri di organizzare la tua cronologia"
+  ],
+  "thread_text": [
+    "Siri smette di fingersi intelligente. Con Apple Intelligence tutto resta sul dispositivo, niente cloud, niente accesso ai tuoi dati.",
+    "WWDC 2026: Siri capisce finalmente quello che dici. Non più comandi cablati, ma intenzioni reali.",
+    "iOS 27 porta un assistente AI dentro ogni app. Non cambi app per chiedere: parli, e quello esegue.",
+    "E la parte migliore? I vecchi iPhone gestiscono le stesse funzioni senza aggiornamenti. È mera potenza locale.",
+    "Chiedi a Siri di organizzare la tua cronologia. Fatto. Inizia: non devi installare nulla."
+  ],
+  "video_script": [
+    "Siri capisce cosa vuoi.",
+    "Tutto sul telefono, non nel cloud.",
+    "Un assistente in ogni app.",
+    "Anche vecchi iPhone funzionano.",
+    "Chiedile di organizzare la cronologia."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Siri smette di fingersi intelligente. Con Apple Intelligence tutto resta sul dispositivo, niente cloud, niente accesso ai tuoi dati.",
+        "WWDC 2026: Siri capisce finalmente quello che dici. Non più comandi cablati, ma intenzioni reali.",
+        "iOS 27 porta un assistente AI dentro ogni app. Non cambi app per chiedere: parli, e quello esegue.",
+        "E la parte migliore? I vecchi iPhone gestiscono le stesse funzioni senza aggiornamenti. È mera potenza locale.",
+        "Chiedi a Siri di organizzare la tua cronologia. Fatto. Inizia: non devi installare nulla."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Siri capisce cosa vuoi.",
+        "Tutto sul telefono, non nel cloud.",
+        "Un assistente in ogni app.",
+        "Anche vecchi iPhone funzionano.",
+        "Chiedile di organizzare la cronologia."
+      ]
+    },
+    "instagram": {
+      "caption": "Siri ora capisce davvero quello che vuoi, non solo comandi fissi: la cronologia delle tue app si ordina con una frase. 🧠 Alla WWDC 2026 Apple ha annunciato che tutta l’intelligenza Artificiale resta sul telefono, niente cloud, niente invio dei tuoi dati da nessuna parte. 🔒 Con iOS 27 ogni app avrà il suo assistente AI integrato: parli e lui esegue, senza cambiare schermata. 💬 La sorpresa? Anche i vecchi iPhone gestiranno queste funzioni senza bisogno di aggiornamenti. Tu quando proverai a chiedere a Siri di riorganizzarti la giornata?"
+    }
+  },
+  "instagram_caption": "Siri ora capisce davvero quello che vuoi, non solo comandi fissi: la cronologia delle tue app si ordina con una frase. 🧠 Alla WWDC 2026 Apple ha annunciato che tutta l’intelligenza Artificiale resta sul telefono, niente cloud, niente invio dei tuoi dati da nessuna parte. 🔒 Con iOS 27 ogni app avrà il suo assistente AI integrato: parli e lui esegue, senza cambiare schermata. 💬 La sorpresa? Anche i vecchi iPhone gestiranno queste funzioni senza bisogno di aggiornamenti. Tu quando proverai a chiedere a Siri di riorganizzarti la giornata?",
+  "carousel_slides": [
+    {
+      "hook": "I tuoi dati restano qui",
+      "description": "Apple Intelligence non vede il cloud. Tutto locale, niente accesso esterno ai tuoi dati personali.",
+      "visual_hint": "lucchetto su chip",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "silicon microchip closeup"
+    },
+    {
+      "hook": "Siri ora ti capisce davvero",
+      "description": "Niente più comandi cablati: Siri coglie le tue intenzioni reali e agisce di conseguenza.",
+      "visual_hint": "onde sonore animate",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "sound wave visualization",
+      "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI dentro ogni app",
+      "description": "iOS 27 integra un assistente AI nativo. Parla e l'app esegue, senza cambiare schermata.",
+      "visual_hint": "schermata app animata",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone app interface",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Anche i vecchi iPhone",
+      "description": "Stesse funzioni, nessun aggiornamento. È potenza locale, non dipende dall'età del dispositivo.",
+      "visual_hint": "mano con iPhone vecchio",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding old iphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova subito: organizza la cronologia",
+      "description": "Chiedi a Siri e gestisce tutto. Zero installazioni, solo un prompt. Inizia ora.",
+      "visual_hint": "calendario segnato",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar with notes",
+      "image": "https://images.pexels.com/photos/7580915/pexels-photo-7580915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186",
+  "savedAt": "2026-06-08T18:20:43.231Z",
+  "sourceId": "671e145932665bf7774c8d2d54430d1f"
+}

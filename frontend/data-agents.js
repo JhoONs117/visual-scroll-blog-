@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "wwdc-2026-everything-announced-on-siri-ai-ios-27-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "pubDate": "Mon, 08 Jun 2026 17:42:26 +0000",
+      "slides": [
+        "WWDC 2026: Siri finalmente capisce ciò che vuoi?",
+        "iOS 27 introduce un assistente AI per ogni app",
+        "Apple Intelligence non si connette al cloud: tutto locale",
+        "I vecchi iPhone gestiranno nuove funzioni senza aggiornamenti",
+        "Prova oggi: chiedi a Siri di organizzare la tua cronologia"
+      ],
+      "thread_text": [
+        "Siri smette di fingersi intelligente. Con Apple Intelligence tutto resta sul dispositivo, niente cloud, niente accesso ai tuoi dati.",
+        "WWDC 2026: Siri capisce finalmente quello che dici. Non più comandi cablati, ma intenzioni reali.",
+        "iOS 27 porta un assistente AI dentro ogni app. Non cambi app per chiedere: parli, e quello esegue.",
+        "E la parte migliore? I vecchi iPhone gestiscono le stesse funzioni senza aggiornamenti. È mera potenza locale.",
+        "Chiedi a Siri di organizzare la tua cronologia. Fatto. Inizia: non devi installare nulla."
+      ],
+      "video_script": [
+        "Siri capisce cosa vuoi.",
+        "Tutto sul telefono, non nel cloud.",
+        "Un assistente in ogni app.",
+        "Anche vecchi iPhone funzionano.",
+        "Chiedile di organizzare la cronologia."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Siri smette di fingersi intelligente. Con Apple Intelligence tutto resta sul dispositivo, niente cloud, niente accesso ai tuoi dati.",
+            "WWDC 2026: Siri capisce finalmente quello che dici. Non più comandi cablati, ma intenzioni reali.",
+            "iOS 27 porta un assistente AI dentro ogni app. Non cambi app per chiedere: parli, e quello esegue.",
+            "E la parte migliore? I vecchi iPhone gestiscono le stesse funzioni senza aggiornamenti. È mera potenza locale.",
+            "Chiedi a Siri di organizzare la tua cronologia. Fatto. Inizia: non devi installare nulla."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Siri capisce cosa vuoi.",
+            "Tutto sul telefono, non nel cloud.",
+            "Un assistente in ogni app.",
+            "Anche vecchi iPhone funzionano.",
+            "Chiedile di organizzare la cronologia."
+          ]
+        },
+        "instagram": {
+          "caption": "Siri ora capisce davvero quello che vuoi, non solo comandi fissi: la cronologia delle tue app si ordina con una frase. 🧠 Alla WWDC 2026 Apple ha annunciato che tutta l’intelligenza Artificiale resta sul telefono, niente cloud, niente invio dei tuoi dati da nessuna parte. 🔒 Con iOS 27 ogni app avrà il suo assistente AI integrato: parli e lui esegue, senza cambiare schermata. 💬 La sorpresa? Anche i vecchi iPhone gestiranno queste funzioni senza bisogno di aggiornamenti. Tu quando proverai a chiedere a Siri di riorganizzarti la giornata?"
+        }
+      },
+      "instagram_caption": "Siri ora capisce davvero quello che vuoi, non solo comandi fissi: la cronologia delle tue app si ordina con una frase. 🧠 Alla WWDC 2026 Apple ha annunciato che tutta l’intelligenza Artificiale resta sul telefono, niente cloud, niente invio dei tuoi dati da nessuna parte. 🔒 Con iOS 27 ogni app avrà il suo assistente AI integrato: parli e lui esegue, senza cambiare schermata. 💬 La sorpresa? Anche i vecchi iPhone gestiranno queste funzioni senza bisogno di aggiornamenti. Tu quando proverai a chiedere a Siri di riorganizzarti la giornata?",
+      "carousel_slides": [
+        {
+          "hook": "I tuoi dati restano qui",
+          "description": "Apple Intelligence non vede il cloud. Tutto locale, niente accesso esterno ai tuoi dati personali.",
+          "visual_hint": "lucchetto su chip",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "silicon microchip closeup"
+        },
+        {
+          "hook": "Siri ora ti capisce davvero",
+          "description": "Niente più comandi cablati: Siri coglie le tue intenzioni reali e agisce di conseguenza.",
+          "visual_hint": "onde sonore animate",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "sound wave visualization",
+          "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI dentro ogni app",
+          "description": "iOS 27 integra un assistente AI nativo. Parla e l'app esegue, senza cambiare schermata.",
+          "visual_hint": "schermata app animata",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "smartphone app interface",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Anche i vecchi iPhone",
+          "description": "Stesse funzioni, nessun aggiornamento. È potenza locale, non dipende dall'età del dispositivo.",
+          "visual_hint": "mano con iPhone vecchio",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding old iphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova subito: organizza la cronologia",
+          "description": "Chiedi a Siri e gestisce tutto. Zero installazioni, solo un prompt. Inizia ora.",
+          "visual_hint": "calendario segnato",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar with notes",
+          "image": "https://images.pexels.com/photos/7580915/pexels-photo-7580915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186",
+      "savedAt": "2026-06-08T18:20:43.231Z",
+      "sourceId": "671e145932665bf7774c8d2d54430d1f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "apple-says-it-s-fixed-the-awful-search-function-fo",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple says it’s fixed the awful search function for emails, photos",
+      "link": "https://techcrunch.com/2026/06/08/apple-says-its-fixed-the-awful-search-function-for-emails-photos/",
+      "pubDate": "Mon, 08 Jun 2026 17:53:29 +0000",
+      "slides": [
+        "Apple promette di aver risolto la ricerca email, ma è vero?",
+        "Il nuovo motore unifica posta, foto e note in un solo indice.",
+        "Non serve più ricordare parole esatte: capisce il contesto.",
+        "I tuoi ritrovamenti diventeranno più veloci, se funziona.",
+        "Provalo oggi su un documento vecchio: confronta i risultati."
+      ],
+      "thread_text": [
+        "Non devi più ricordare parole esatte per trovare una vecchia email. Il nuovo motore di Apple capisce il contesto.",
+        "Mette nello stesso indice posta, foto e note. Cerca in tutti i tuoi dati con un solo comando.",
+        "Il risultato? Trovi quel documento del 2019 anche se ricordi solo ‘quella riunione con Luca’.",
+        "Se funziona davvero, la ricerca diventa uno strumento che capisce te, non il contrario.",
+        "Prendi una mail vecchia di tre mesi e confronta i risultati. Fallo oggi."
+      ],
+      "video_script": [
+        "Apple dice di aver risolto la ricerca email.",
+        "Unisce posta, foto e note in un indice.",
+        "Capisce il contesto, non le parole esatte.",
+        "Se funziona, trovi tutto molto più veloce.",
+        "Provalo su un documento vecchio."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Non devi più ricordare parole esatte per trovare una vecchia email. Il nuovo motore di Apple capisce il contesto.",
+            "Mette nello stesso indice posta, foto e note. Cerca in tutti i tuoi dati con un solo comando.",
+            "Il risultato? Trovi quel documento del 2019 anche se ricordi solo ‘quella riunione con Luca’.",
+            "Se funziona davvero, la ricerca diventa uno strumento che capisce te, non il contrario.",
+            "Prendi una mail vecchia di tre mesi e confronta i risultati. Fallo oggi."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple dice di aver risolto la ricerca email.",
+            "Unisce posta, foto e note in un indice.",
+            "Capisce il contesto, non le parole esatte.",
+            "Se funziona, trovi tutto molto più veloce.",
+            "Provalo su un documento vecchio."
+          ]
+        },
+        "instagram": {
+          "caption": "Apple ha messo posta, foto e note in un unico indice di ricerca, così non devi più ricordare le parole esatte per trovare quel documento 📁. Il nuovo motore capisce il contesto: se cerchi \"riunione con Luca\" del 2019, lui sa cosa intendi. Niente più comandi a memoria 🧠. Per chi lavora con centinaia di email al giorno, significa trovare tutto in un solo comando, non setacciare cartelle. Prendi un’email vecchia di tre mesi e confronta il risultato con la vecchia ricerca: cambia qualcosa?"
+        }
+      },
+      "instagram_caption": "Apple ha messo posta, foto e note in un unico indice di ricerca, così non devi più ricordare le parole esatte per trovare quel documento 📁. Il nuovo motore capisce il contesto: se cerchi \"riunione con Luca\" del 2019, lui sa cosa intendi. Niente più comandi a memoria 🧠. Per chi lavora con centinaia di email al giorno, significa trovare tutto in un solo comando, non setacciare cartelle. Prendi un’email vecchia di tre mesi e confronta il risultato con la vecchia ricerca: cambia qualcosa?",
+      "carousel_slides": [
+        {
+          "hook": "Ma funziona davvero?",
+          "description": "Non devi più ricordare parole esatte per trovare una vecchia email. Il nuovo motore capisce il contesto.",
+          "visual_hint": "Icona domanda su posta",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "apple mail search"
+        },
+        {
+          "hook": "Unico indice per tutto",
+          "description": "Mette nello stesso indice posta, foto e note. Cerca in tutti i tuoi dati con un solo comando.",
+          "visual_hint": "Fusione di icone digitali",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "unified search interface",
+          "image": "https://images.pexels.com/photos/13570173/pexels-photo-13570173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trovi anche nel 2019",
+          "description": "Il risultato? Trovi quel documento del 2019 anche se ricordi solo 'quella riunione con Luca'.",
+          "visual_hint": "Vecchio documento evidenziato",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "old file folder",
+          "image": "https://images.pexels.com/photos/7654130/pexels-photo-7654130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Lo strumento si adatta",
+          "description": "Se funziona davvero, la ricerca diventa uno strumento che capisce te, non il contrario.",
+          "visual_hint": "Mano che scorre schermo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand touching screen",
+          "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova e confronta ora",
+          "description": "Prendi una mail vecchia di tre mesi e confronta i risultati. Fallo oggi.",
+          "visual_hint": "Due schermi a confronto",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "phone comparison screen",
+          "image": "https://images.pexels.com/photos/7190919/pexels-photo-7190919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/wwdc-2026-preview.png?w=1164",
+      "savedAt": "2026-06-08T18:20:28.486Z",
+      "sourceId": "9a4761806f7474d3ef84455a6347223d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "apple-s-long-awaited-ai-siri-overhaul-is-finally-h",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple’s long-awaited AI Siri overhaul is finally here",
+      "link": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+      "pubDate": "Mon, 08 Jun 2026 17:56:21 +0000",
+      "slides": [
+        "Siri cambia davvero? Cosa sa ora di te.",
+        "Non più una sola risposta, ma azioni complesse.",
+        "Apple ti promette privacy, ma come funziona?",
+        "Il tuo iPhone capirà il contesto delle chat.",
+        "Prova oggi a chiedere: 'Organizza la mia settimana'."
+      ],
+      "thread_text": [
+        "Apple ti promette privacy, ma come fa davvero a funzionare mentre Siri processa tutto in locale sul dispositivo?",
+        "Ora Siri non dà più una sola risposta, ma esegue azioni complesse: prenota, organizza, scrive messaggi.",
+        "Il tuo iPhone capirà il contesto delle chat, così puoi chiedere ‘ricordami cosa avevamo decito’ senza ripetere tutto.",
+        "Questo significa che Siri impara da te, non dai server: i dati restano sul telefono, non vanno in cloud.",
+        "Prova oggi a chiedere: ‘Organizza la mia settimana’ e vedi quanto cambia davvero. Costa zero."
+      ],
+      "video_script": [
+        "Apple dice privacy, ma come fa in pratica?",
+        "Siri non risponde più, esegue cose complesse.",
+        "Il telefono legge il contesto delle chat.",
+        "I tuoi dati restano qui, niente server.",
+        "Chiedi: organizzami la settimana, è gratis."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Apple ti promette privacy, ma come fa davvero a funzionare mentre Siri processa tutto in locale sul dispositivo?",
+            "Ora Siri non dà più una sola risposta, ma esegue azioni complesse: prenota, organizza, scrive messaggi.",
+            "Il tuo iPhone capirà il contesto delle chat, così puoi chiedere ‘ricordami cosa avevamo decito’ senza ripetere tutto.",
+            "Questo significa che Siri impara da te, non dai server: i dati restano sul telefono, non vanno in cloud.",
+            "Prova oggi a chiedere: ‘Organizza la mia settimana’ e vedi quanto cambia davvero. Costa zero."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple dice privacy, ma come fa in pratica?",
+            "Siri non risponde più, esegue cose complesse.",
+            "Il telefono legge il contesto delle chat.",
+            "I tuoi dati restano qui, niente server.",
+            "Chiedi: organizzami la settimana, è gratis."
+          ]
+        },
+        "instagram": {
+          "caption": "Siri ora processa tutto in locale sul tuo iPhone, senza mandare dati in cloud 🧠. Non ti dà più una risposta sola: può prenotare, organizzare la settimana o scrivere messaggi in un colpo solo 📲. Capisce il contesto delle chat, quindi puoi dirle “ricordami cosa avevamo deciso” senza ripetere tutta la storia. Per te significa delegare azioni complesse senza preoccuparti della privacy: i tuoi dati restano sul telefono 🔒. Hai già provato a chiederle di organizzarti la settimana?"
+        }
+      },
+      "instagram_caption": "Siri ora processa tutto in locale sul tuo iPhone, senza mandare dati in cloud 🧠. Non ti dà più una risposta sola: può prenotare, organizzare la settimana o scrivere messaggi in un colpo solo 📲. Capisce il contesto delle chat, quindi puoi dirle “ricordami cosa avevamo deciso” senza ripetere tutta la storia. Per te significa delegare azioni complesse senza preoccuparti della privacy: i tuoi dati restano sul telefono 🔒. Hai già provato a chiederle di organizzarti la settimana?",
+      "carousel_slides": [
+        {
+          "hook": "E se Siri sapesse tutto di te?",
+          "description": "Apple promette privacy mentre Siri elabora tutto in locale sul dispositivo. I dati restano sul telefono.",
+          "visual_hint": "illustrazione di un lucchetto su circuito",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone lock screen"
+        },
+        {
+          "hook": "Non più una risposta, ma azioni",
+          "description": "Siri ora prenota, organizza e scrive messaggi. Azioni complesse, non solo risposte singole.",
+          "visual_hint": "Siri che prenota un ristorante",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "restaurant reservation app",
+          "image": "https://images.pexels.com/photos/28700799/pexels-photo-28700799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tuo iPhone capisce le chat",
+          "description": "Chiedi 'ricordami cosa avevamo deciso' senza ripetere tutto. Siri capisce il contesto delle conversazioni.",
+          "visual_hint": "chat bubbole su schermo iPhone",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "iMessage chat bubbles",
+          "image": "https://images.pexels.com/photos/8015666/pexels-photo-8015666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Impara da te, non dai server",
+          "description": "Siri apprende solo dai dati sul tuo telefono. Niente cloud, niente condivisione esterna.",
+          "visual_hint": "disco rigido con etichetta privata",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova: 'Organizza la mia settimana'",
+          "description": "Vedi quanto cambia davvero Siri. Costa zero, provalo ora sul tuo iPhone.",
+          "visual_hint": "Siri che mostra calendario settimanale",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "iPhone calendar weekly view",
+          "image": "https://images.pexels.com/photos/14299948/pexels-photo-14299948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800",
+      "savedAt": "2026-06-08T18:20:14.334Z",
+      "sourceId": "e7edd2779e953c9ab3e9f09a9a0a9bbb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "aviva-deploys-ai-to-stop-230m-in-sophisticated-ins",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -42977,6 +43289,339 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pollo-in-salsa-agrodolce-con-peperoni-e-ananas",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pollo in salsa agrodolce con peperoni e ananas",
+      "link": "https://ricette.giallozafferano.it/Pollo-in-salsa-agrodolce-con-peperoni-e-ananas.html",
+      "pubDate": "Mon, 08 Jun 2026 17:39:00 +0200",
+      "content": "Pollo in salsa agrodolce con peperoni e ananas Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Secondi piatti Pollo in salsa agrodolce con peperoni e ananas /5 CONDIVIDI INVIA FOTO COMMENTA SALVA 1217 Calorie per porzione Energia Kcal 1217 Carboidrati g 83,1 &nbsp;&nbsp;di cui zuccheri g 47,9 Proteine g 42,6 Grassi g 80 &nbsp;&nbsp;di cui saturi g 13,5 Fibre g 4,4 Colesterolo mg 118,6 Sodio mg 1400 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza lattosio Difficoltà: Facile Preparazione: 20 min Cottura: 20 min Dosi per: 4 persone Costo: Basso PRESENTAZIONE Il pollo in salsa agrodolce con peperoni e ananas nasce come una squisita variante del celeberrimo maiale in agrodolce , una tipica ricetta della cucina cinese tradizionale. Questa reinterpretazione si è radicata profondamente nella cultura gastronomica asiatica ed è diventata un secondo piatto ricco, colorato e dal gusto unico e intenso, celebre nei menu orientali di tutto il mondo. La ricetta valorizza i morbidi bocconcini di carne avvolgendoli in una pastella super croccante, per poi tuffarli in un goloso contrasto cromatico e di consistenze creato dai peperoni freschi e dalla dolcezza esotica dei cubetti di frutta. Il tocco finale è la densa e lucida salsa che unisce aceto e zucchero, capace di equilibrare perfettamente ogni sapore. Portate in tavola tutto il profumo e la vivacità di questa irresistibile ricetta asiatica , perfetta per trasformare una normale cena in un vero viaggio di gusto. Non perdetevi anche queste gustose ricette di pollo della cucina cinese: Pollo alla salsa di soia Pollo in agrodolce Pollo alle mandorle Pollo gong bao Pollo teriyaki INGREDIENTI 1217 Calorie per porzione Petto di pollo 650 g Peperoni rossi 350 g Ananas (già pulito) 230 g Erba cipollina q.b. Olio extravergine d'oliva 2 cucchiai per la salsa agrodolce Zucchero 150 g Aceto di vino bianco 150 g Acqua 100 g Concentrato di pomodoro 20 g Fecola di patate 10 g Acqua 2 cucchiaini per la pastella Acqua 200 g Farina 00 150 g Sale fino q.b. Per friggere Olio di semi di arachide 1 l AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Pollo in salsa agrodolce con peperoni e ananas Per realizzare il pollo in salsa agrodolce con peperoni e ananas per prima cosa preparate gli ingredienti: pulite il petto di pollo da cartilagini e ossicini 1 , poi tagliatelo a cubetti di circa 2,5 cm 2 . Mondate il peperone e tagliatelo a tocchetti della stessa dimensione 3 . Infine eliminate la base e il ciuffo dell’ananas 4 , poi tagliatelo a fette, rimuovete la buccia 5 e riducete 230 g di polpa a cubetti, sempre della dimensione di circa 2,5 cm 6 . Passate alla pastella: mettete la farina in una ciotola e aggiungete il sale 7 , poi versate l’acqua a filo mentre mescolate con una frusta 8 fino ad ottenere un composto omogeneo e senza grumi 9 . Tenete da parte la pastella e occupatevi della salsa agrodolce: in un pentolino versate lo zucchero insieme all’acqua 10 e all’aceto di vino bianco 11 , poi accendete il fuoco a temperatura medio-alta e fate sciogliere lo zucchero. Ora aggiungete il concentrato di pomodoro 12 , amalgamate con la frusta e cuocete per qualche minuto. Nel frattempo mescolate in una ciotolina a parte la fecola di patate e 2 cucchiaini di acqua 13 . Unite il composto alla salsa poco alla volta, sempre mescolando 14 . Lasciate addensare sul fuoco per pochi istanti, poi tenete da parte 15 . Siete pronti per friggere: scaldate l’olio fino alla temperatura di 170°, poi ricoprite i bocconcini di pollo con la pastella, lasciando cadere quella in eccesso 16 . Immergete pochi pezzi per volta nell’olio caldo 17 e friggete per 3-4 minuti. Una volta dorati, scolate i bocconcini su carta per fritti e tenete da parte 18 . Dopo aver fritto il pollo scaldate bene un wok, poi aggiungete l’olio, i peperoni 19 e l’ananas 20 . Rosolate a fiamma alta per 8-9 minuti. Unite i bocconcini di pollo fritti 21 e saltate il tutto per un paio di minuti. A questo punto versate la salsa agrodolce nella padella 22 e amalgamatela saltando ancora brevemente il tutto. Spegnete il fuoco e aromatizzate con l’erba cipollina tritata 23 , dopodiché il vostro pollo in salsa agrodolce con peperoni e ananas è pronto per essere servito 24 ! Conservazione Il pollo in salsa agrodolce con peperoni e ananas si può conservare in frigorifero per un giorno, in un contenitore ermetico. Consiglio Se desiderate potete aggiungere del peperoncino fresco per un tocco piccante o un goccio di salsa di soia per esaltare ulteriormente la sapidità del piatto! Provate anche la ricetta del pollo alla diavola con salsa agrodolce , una stuzzicante variante al forno! Domande e risposte Come posso sostituire l'ananas in caso di allergia? In alternativa all'ananas, si consiglia di utilizzare il mango per ottenere una dolcezza equilibrata. È possibile omettere l'ananas dalla ricetta? È possibile ometterlo, ma questo potrebbe alterare l'equilibrio della salsa agrodolce. È possibile utilizzare cosce di pollo al posto del petto e come variare i tempi di cottura? Si possono utilizzare cosce di pollo disossate tagliate a cubetti della dimensione indicata, mantenendo invariati i tempi di cottura. Quale contorno si abbina al pollo in salsa agrodolce? Si consiglia di accompagnare la ricetta con germogli di soia saltati , per aggiungere un tocco croccante ed esotico che esalti il sapore del pollo in salsa agrodolce. È possibile cuocere il pollo direttamente in padella senza friggitoria, mantenendo ananas e peperone? Il pollo può essere cotto direttamente in padella evitando la frittura, pur conservando l'equilibrio di ananas e peperone nella ricetta. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Pomodoro Peperoni Olio di oliva Fecola di patate Ananas Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pollo in salsa agrodolce con peperoni e ananas Zucchine croccanti 5.0 Benessere Zuppetta di fave e piselli 5.0 SCOPRI Salsa agrodolce Pollo in salsa agrodolce Pollo all ananas Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Non hai trovato l'ispirazione giusta? Prova queste! Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Pollo croccante in salsa agrodolce",
+        "Petto di pollo, peperoni, ananas, zucchero, aceto",
+        "Immergi il pollo nella pastella",
+        "Friggi e saltalo con peperoni e ananas",
+        "Guarnisci con erba cipollina tritata"
+      ],
+      "instagram_caption": "Questo pollo croccante in salsa agrodolce è un'esplosione di sapori che ti porta dritto in Cina! 🥟✨ Petto di pollo tenerissimo, prima pastellato e fritto fino a diventare dorato, poi saltato in padella con peperoni colorati e ananas dolce, il tutto avvolto da una salsa agrodolce fatta in casa con zucchero e aceto. Una vera goduria per il palato, veloce e semplice da preparare. Provala questo weekend 🍍🍗",
+      "formats": {
+        "instagram": {
+          "caption": "Questo pollo croccante in salsa agrodolce è un'esplosione di sapori che ti porta dritto in Cina! 🥟✨ Petto di pollo tenerissimo, prima pastellato e fritto fino a diventare dorato, poi saltato in padella con peperoni colorati e ananas dolce, il tutto avvolto da una salsa agrodolce fatta in casa con zucchero e aceto. Una vera goduria per il palato, veloce e semplice da preparare. Provala questo weekend 🍍🍗"
+        },
+        "tiktok": {
+          "script": [
+            "Taglio il pollo a cubetti croccanti.",
+            "Aggiungo peperoni e ananas a pezzi.",
+            "Immergo il pollo nella pastella leggera.",
+            "Friggo e salto tutto in padella.",
+            "Guarnisco con erba cipollina tritata."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Croccante fuori, morbido dentro e quella salsa agrodolce che ti fa leccare i baffi. Pollo con peperoni e ananas: un piatto che sembra da ristorante ma lo fai in 20 minuti. Ti spiego come.",
+            "Ingredienti: petto di pollo a cubotti, peperoni, ananas fresco o sciroppato, zucchero, aceto. Per la pastella: farina, uovo, un po' d'acqua frizzante. Niente segreti, solo roba che hai in dispensa.",
+            "Il gesto che fa la differenza: immergi i pezzi di pollo nella pastella e friggi in olio caldo fino a doratura. Devono essere ben croccanti, è la base del piatto. Non lesinare sull'olio.",
+            "Una volta fritti, ripassali in padella con peperoni a listarelle e ananas a cubetti. Sfuma con un mix di zucchero e aceto, mescola fino a che la salsa diventa lucida. Profumo pazzesco.",
+            "Fuoco spento, erba cipollina tritata fresca sopra. Servi subito con riso bianco o da solo. Se non l'hai mai fatto, provalo e fammi sapere com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Taglio il pollo a cubetti croccanti.",
+        "Aggiungo peperoni e ananas a pezzi.",
+        "Immergo il pollo nella pastella leggera.",
+        "Friggo e salto tutto in padella.",
+        "Guarnisco con erba cipollina tritata."
+      ],
+      "thread_text": [
+        "Croccante fuori, morbido dentro e quella salsa agrodolce che ti fa leccare i baffi. Pollo con peperoni e ananas: un piatto che sembra da ristorante ma lo fai in 20 minuti. Ti spiego come.",
+        "Ingredienti: petto di pollo a cubotti, peperoni, ananas fresco o sciroppato, zucchero, aceto. Per la pastella: farina, uovo, un po' d'acqua frizzante. Niente segreti, solo roba che hai in dispensa.",
+        "Il gesto che fa la differenza: immergi i pezzi di pollo nella pastella e friggi in olio caldo fino a doratura. Devono essere ben croccanti, è la base del piatto. Non lesinare sull'olio.",
+        "Una volta fritti, ripassali in padella con peperoni a listarelle e ananas a cubetti. Sfuma con un mix di zucchero e aceto, mescola fino a che la salsa diventa lucida. Profumo pazzesco.",
+        "Fuoco spento, erba cipollina tritata fresca sopra. Servi subito con riso bianco o da solo. Se non l'hai mai fatto, provalo e fammi sapere com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pollo croccante in salsa agrodolce",
+          "description": "Una combinazione irresistibile di pollo croccante, peperoni e ananas in una salsa agrodolce perfettamente bilanciata.",
+          "visual_hint": "pollo croccante su piatto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "crispy chicken peppers pineapple savory"
+        },
+        {
+          "hook": "Petto di pollo, peperoni, ananas",
+          "description": "Gli ingredienti chiave: petto di pollo fresco, peperoni colorati, ananas dolce, zucchero e aceto per la salsa.",
+          "visual_hint": "ingredienti freschi tagliati",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "chicken peppers pineapple ingredients savory",
+          "image": "https://images.pexels.com/photos/20258771/pexels-photo-20258771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Immergi il pollo nella pastella",
+          "description": "Il segreto della croccantezza: immergi i pezzi di pollo in una pastella leggera prima della frittura.",
+          "visual_hint": "pollo immerso in pastella",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "battered chicken pieces savory",
+          "image": "https://images.pexels.com/photos/11502306/pexels-photo-11502306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Friggi e salta in padella",
+          "description": "Friggi il pollo dorato, poi saltalo in padella con peperoni e ananas per amalgamare la salsa agrodolce.",
+          "visual_hint": "wok con pollo e peperoni",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "frying chicken wok peppers savory",
+          "image": "https://images.pexels.com/photos/35594422/pexels-photo-35594422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Guarnisci con erba cipollina",
+          "description": "Completa il piatto con erba cipollina tritata per un tocco di freschezza e colore. Pronto da servire!",
+          "visual_hint": "piatto finito con erba cipollina",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "finished chicken sweet sour peppers savory",
+          "image": "https://images.pexels.com/photos/6645982/pexels-photo-6645982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "meat",
+      "signature_ingredients": [
+        "pollo",
+        "peperoni",
+        "ananas"
+      ],
+      "image": "https://www.giallozafferano.it/images/362-36253/Pollo-in-salsa-agrodolce-con-peperoni-e-ananas_650x433_wm.jpg",
+      "savedAt": "2026-06-08T18:24:39.686Z",
+      "sourceId": "aa538ea4ac9c9dbcf8b1980c5cf3d118"
+    },
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-con-calamaretti-e-pesto-di-spinacino",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta con calamaretti e pesto di spinacino",
+      "link": "https://ricette.giallozafferano.it/Pasta-con-calamaretti-e-pesto-di-spinacino.html",
+      "pubDate": "Mon, 08 Jun 2026 18:09:00 +0200",
+      "content": "Pasta con calamaretti e pesto di spinacino: la ricetta fresca e veloce Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta con calamaretti e pesto di spinacino /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Difficoltà: Facile Preparazione: 15 min Cottura: 15 min Dosi per: 4 persone PRESENTAZIONE La pasta con calamaretti e pesto di spinacino è un primo piatto semplice e colorato, ideale per portare in tavola sapori freschi e delicati, in questa bella stagione. Le casarecce avvolgono un pesto cremoso preparato con spinacini freschi , pinoli, parmigiano e scorza di limone, che dona al piatto una piacevole nota agrumata. A completare la ricetta ci sono i calamaretti spillo, una varietà di piccole dimensioni, saltati rapidamente in padella per mantenerli teneri e valorizzarne il gusto. Con pochi ingredienti e una preparazione veloce, questa pasta è un'ottima alternativa ai classici condimenti a base di pesce e un modo originale per utilizzare gli spinacini in una veste diversa dal solito. Ecco altri primi piatti a base di pesce da non perdere: Pasta zucchine e gamberetti cremosa Pasta tonno e limone Pasta con gamberoni Spaghetti alle vongole e pomodorini Pasta pesce spada e menta INGREDIENTI Casarecce 320 g Calamaretti spillo 200 g Olio extravergine d'oliva 20 g Aglio 1 spicchio Sale fino q.b. Prezzemolo i gambi q.b. Pepe nero q.b. per il pesto di spinacini Spinacini 100 g Pinoli 30 g Olio extravergine d'oliva 60 g Parmigiano Reggiano DOP 30 g Sale fino q.b. Pepe nero q.b. Scorza di limone 1 AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con calamaretti e pesto di spinacino Per preparare la pasta con calamaretti e pesto di spinacino, per prima cosa occupatevi della pulizia dei calamaretti. Eliminate il becco, poi sciacquateli bene sotto l’acqua corrente 1 e trasferiteli in un colino, così perderanno l’acqua in eccesso. Nel frattempo portate a bollore una pentola con abbondante acqua, che vi servirà per cuocere la pasta. Scaldate 20 g d'olio in una padella con l’aglio e i gambi di prezzemolo 2 . Lasciate insaporire per circa 2 minuti a fiamma vivace, poi aggiungete i calamaretti ben scolati 3 . Regolate di sale 4 e pepe, poi cuocete i calamaretti per 2-3 minuti, sempre a fuoco vivace, mescolando spesso 5 . A questo punto preparate il pesto. Raccogliete nel bicchiere di un mixer gli spinacini, lavati e asciugati, e i pinoli 6 . Unite anche il Parmigiano grattugiato 7 , l'olio 8 e la scorza di limone 9 . Regolate di sale e pepe e frullate fino a ottenere una crema liscia e omogenea 10 . Quando l’acqua raggiunge il bollore, salatela e cuocete le casarecce 11 . Scolatele al dente, conservando un po' di acqua di cottura, quindi trasferitele in una ciotola, dove avrete già versato il pesto di spinacini 12 . Mescolate accuratamente 13 ; se necessario unite poca acqua di cottura per ottenere una consistenza più cremosa. Distribuite la pasta nei piatti e completate con i calamaretti tenuti da parte 14 . Servite subito 15 . Conservazione Si consiglia di consumare la pasta con calamaretti e pesto di spinacino appena preparata. Se dovesse avanzare, potete conservarla in frigorifero, in un contenitore ermetico, per 1 giorno al massimo. Si sconsiglia la congelazione. Consiglio Per personalizzare il pesto potete sostituire i pinoli con altra frutta secca, come mandorle, noci o nocciole. Inoltre, per una nota agrumata più intensa, potete utilizzare la scorza di lime al posto di quella di limone. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Aglio Pasta Olio di oliva Limone Prezzemolo Scopri tutto sugli ingredienti Presente in: Primi piatti veloci , Primi piatti di pesce , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta con calamaretti e pesto di spinacino Pollo in salsa agrodolce con peperoni e ananas Zucchine croccanti 5.0 SCOPRI Pasta fredda con pesto Pasta pesto e pomodorini Pasta pesto Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Non hai trovato l'ispirazione giusta? Prova queste! Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Pasta fresca con calamaretti e pesto di spinacino.",
+        "Casarecce, calamaretti, spinacini, pinoli, parmigiano.",
+        "Frulla spinacini, pinoli, parmigiano e scorza.",
+        "Cuoci i calamaretti con aglio e prezzemolo.",
+        "Completa con calamaretti e pesto cremoso."
+      ],
+      "instagram_caption": "Pochi centimetri di pasta e già senti il mare che incontra l’orto. 🦑🌿  \nCasarecce avvolte da un pesto cremoso di spinacino, pinoli e parmigiano, con calamaretti saltati all’aglio e prezzemolo. Una crema verde brillante che abbraccia ogni ricciolo, mentre il calamaretto rimane tenero e saporito.  \nFresco, veloce, perfetto per stupire a cena senza stress.  \nProvalo questo weekend 😉",
+      "formats": {
+        "instagram": {
+          "caption": "Pochi centimetri di pasta e già senti il mare che incontra l’orto. 🦑🌿  \nCasarecce avvolte da un pesto cremoso di spinacino, pinoli e parmigiano, con calamaretti saltati all’aglio e prezzemolo. Una crema verde brillante che abbraccia ogni ricciolo, mentre il calamaretto rimane tenero e saporito.  \nFresco, veloce, perfetto per stupire a cena senza stress.  \nProvalo questo weekend 😉"
+        },
+        "tiktok": {
+          "script": [
+            "Pesto fresco: spinacini, pinoli e parmigiano.",
+            "Frullo tutto con scorza di limone.",
+            "In padella, aglio e calamaretti saltati.",
+            "Butto la pasta, unisco il pesto.",
+            "Piatto cremoso con calamaretti croccanti."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Quando il mare incontra l’orto nasce un piatto che non ti aspetti. Pasta con calamaretti e pesto di spinacino: cremoso, fresco, con quel twist che fa la differenza. Ti lascio la ricetta, poi mi dici.",
+            "Partiamo dagli ingredienti: casarecce (trattengono tutto), calamaretti freschi, spinacini teneri, pinoli, parmigiano, scorza di limone. Pochi, ma giusti.",
+            "Il gesto chiave: frulla spinacini, pinoli, parmigiano e un po' di scorza con un filo d’olio. Ottieni un pesto brillante, non troppo denso. È la base che lega tutto.",
+            "Cuoci i calamaretti in padella con aglio e prezzemolo, giusto un paio di minuti. Poi manteca la pasta al dente con il pesto e aggiungi i calamaretti. Cremoso, non asciutto.",
+            "Il trucco: tieni da parte un po' di acqua di cottura per allungare il pesto se serve. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Pesto fresco: spinacini, pinoli e parmigiano.",
+        "Frullo tutto con scorza di limone.",
+        "In padella, aglio e calamaretti saltati.",
+        "Butto la pasta, unisco il pesto.",
+        "Piatto cremoso con calamaretti croccanti."
+      ],
+      "thread_text": [
+        "Quando il mare incontra l’orto nasce un piatto che non ti aspetti. Pasta con calamaretti e pesto di spinacino: cremoso, fresco, con quel twist che fa la differenza. Ti lascio la ricetta, poi mi dici.",
+        "Partiamo dagli ingredienti: casarecce (trattengono tutto), calamaretti freschi, spinacini teneri, pinoli, parmigiano, scorza di limone. Pochi, ma giusti.",
+        "Il gesto chiave: frulla spinacini, pinoli, parmigiano e un po' di scorza con un filo d’olio. Ottieni un pesto brillante, non troppo denso. È la base che lega tutto.",
+        "Cuoci i calamaretti in padella con aglio e prezzemolo, giusto un paio di minuti. Poi manteca la pasta al dente con il pesto e aggiungi i calamaretti. Cremoso, non asciutto.",
+        "Il trucco: tieni da parte un po' di acqua di cottura per allungare il pesto se serve. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta fresca con calamaretti",
+          "description": "Una pasta cremosa e saporita che unisce il mare al pesto di spinacino",
+          "visual_hint": "Piatto completo fumante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory pasta calamari pesto"
+        },
+        {
+          "hook": "Gli ingredienti chiave",
+          "description": "Casarecce, calamaretti freschi, spinacini, pinoli e parmigiano per un sapore unico",
+          "visual_hint": "Ingredienti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory pasta ingredients fresh",
+          "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il pesto in un minuto",
+          "description": "Frulla spinacini, pinoli, parmigiano e scorza di limone per un pesto cremoso e aromatico",
+          "visual_hint": "Mani che frullano",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory pesto blender action",
+          "image": "https://images.pexels.com/photos/37261919/pexels-photo-37261919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cottura dei calamaretti",
+          "description": "Soffriggi aglio e prezzemolo, poi aggiungi i calamaretti per pochi minuti, mantengono la tenerezza",
+          "visual_hint": "Padella con calamari saltati",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory calamari garlic pan",
+          "image": "https://images.pexels.com/photos/17321123/pexels-photo-17321123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tocco finale cremoso",
+          "description": "Unisci la pasta ai calamaretti e al pesto, manteca con acqua di cottura. Servi con scaglie di parmigiano",
+          "visual_hint": "Pasta impiattata con pesto",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory casarecce pesto calamari",
+          "image": "https://images.pexels.com/photos/16446212/pexels-photo-16446212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "calamaretti",
+        "spinacini",
+        "pinoli"
+      ],
+      "image": "https://www.giallozafferano.it/images/362-36272/Pasta-con-calamaretti-e-pesto-di-spinacino_650x433_wm.jpg",
+      "savedAt": "2026-06-08T18:24:19.977Z",
+      "sourceId": "b8356207b4764693aa21ef5df3c10636"
+    },
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-con-friggitelli-e-crudo-di-gamberi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta con friggitelli e crudo di gamberi",
+      "link": "https://ricette.giallozafferano.it/Pasta-con-friggitelli-e-crudo-di-gamberi.html",
+      "pubDate": "Mon, 08 Jun 2026 18:10:00 +0200",
+      "content": "Pasta con pesto di friggitelli e gamberi rossi crudi Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta con friggitelli e crudo di gamberi /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Difficoltà: Facile Preparazione: 20 min Cottura: 20 min Dosi per: 4 persone PRESENTAZIONE La pasta con pesto di friggitelli e crudo di gamberi è un primo piatto raffinato che stupisce per il perfetto bilanciamento di consistenze e sapori, unendo la cremosità della salsa alla freschezza del mare. Questa ricetta gourmet unisce il tocco avvolgente del pesto di peperoncini dolci e mandorle alla dolcezza naturale dei crostacei marinati, creando un contrasto straordinario con la nota croccante del pane aromatico tostato in padella. La delicatezza del crudo di gamberi rossi, sapientemente esaltata da una marinatura agrumata, si sposa alla perfezione con il gusto erbaceo dei friggitelli . Ideale per una cena estiva all'aperto o per un'occasione speciale, questa sfiziosa pasta con friggitelli e gamberi si prepara in pochissimi minuti e porta in tavola un mix irresistibile di profumi mediterranei che renderà speciale il vostro menu. Ecco altre ricette di pasta con i friggitelli : Fusilli con pesto di pomodori secchi e friggitelli Pasta con sugo di pomodoro e friggitelli Pasta friggitelli e salsiccia INGREDIENTI Bucatini 320 g Pane raffermo 50 g Mandorle 20 g Olio extravergine d'oliva q.b. Aglio q.b. Peperoncino fresco 2 g per il crudo di gamberi Gamberi rossi (abbatttuti) 200 g Sale fino q.b. Olio extravergine d'oliva q.b. Tabasco® verde q.b. Scorza di limone q.b. per il pesto di friggitelli Friggitelli 170 g Mandorle 45 g Basilico 2 g Grana Padano DOP 30 g Sale fino q.b. Olio extravergine d'oliva 70 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con friggitelli e crudo di gamberi Per preparare la pasta con friggitelli e crudo di gamberi, tagliate il pane a pezzi 1 , mettetelo nel mixer 2 e frullatelo fino a quando non otterrete una consistenza grossolana 3 . Tagliate a lamelle 20 g di mandorle 4 . Spuntate i friggitelli 5 , divideteli a metà ed eliminate i semini interni 6 . Tagliateli a pezzettini 7 e teneteli da parte. Scaldate in una padella un filo d'olio insieme all'aglio schiacciato 8 e al peperoncino aperto a metà, poi aggiungete il pane 9 . Versate anche le mandorle a lamelle 10 . Regolate di sale 11 e saltate il tutto a fuoco medio per circa sette o otto minuti, così da rendere il pane croccante e tostare leggermente le mandorle 12 . Una volta pronto, togliete l'aglio e il peperoncino dal composto e tenete questo pane aromatico da parte. Ora dedicatevi al condimento principale, quindi unite in un mixer i friggitelli, il resto delle mandorle 13 , il formaggio grattugiato, un pizzico di sale 14 e l'olio 15 . Aromatizzate con il basilico 16 e frullate fino a ottenere un pesto liscio 17 , che trasferirete in una ciotola capiente. Nel frattempo cuocete i bucatini in acqua bollente salata 18 . Passate poi alla pulizia dei gamberi rossi rimuovendo la testa 19 , il carapace e il budello interno. Tagliateli a tocchetti di circa mezzo centimetro 20 e conditeli in una ciotolina con sale, olio e scorza di limone 21 . Insaporite con qualche goccia di tabasco verde 22 . Scolate la pasta direttamente nella ciotola con il pesto 23 e aggiungete un mestolino di acqua di cottura per amalgamare bene il tutto 24 . Impiattate la pasta e completate ogni piatto aggiungendo il pane aromatico croccante 25 , una grattugiata di scorza di limone e i tocchetti di gamberi 26 , servite subito in tavola la pasta con pesto di friggitelli e crudo di gamberi 27 . Conservazione Consigliamo di consumare subito la pasta con pesto di friggitelli e crudo di gamberi. Potete preparare in anticipo il pesto e conservarlo in frigo. Consiglio Per sostituire il tabasco verde con ingredienti più facili da trovare in dispensa, vi consigliamo di utilizzare qualche goccia di succo di lime fresco unito a un pizzico di peperoncino verde fresco tritato finemente oppure una punta di salsa jalapeño classica, riuscendo così a mantenere intatta quella caratteristica spinta piccante e piacevolmente acidula che valorizza la dolcezza e la freschezza dei gamberi rossi crudi. Per un consumo sicuro del pesce crudo, marinato o semicotto Prima di consumare il pesce crudo, marinato o non perfettamente cotto, si raccomanda di congelare per almeno 96 ore a -18 gradi in congelatore domestico contrassegnato da 3 o più stelle, come da linee guida del Ministero della salute . Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Friggitelli Basilico Aglio Pane Olio di oliva Limone Crostacei Scopri tutto sugli ingredienti Presente in: Primi piatti sfiziosi , Primi piatti di pesce , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta con friggitelli e crudo di gamberi Pasta con calamaretti e pesto di spinacino Pollo in salsa agrodolce con peperoni e ananas SCOPRI Pasta con prosciutto crudo Pasta con gamberi Pasta friggitelli Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Non hai trovato l'ispirazione giusta? Prova queste! Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Pasta cremosa con gamberi crudi e friggitelli",
+        "Bucatini, gamberi rossi, friggitelli, mandorle, pane",
+        "Frulla friggitelli, mandorle, grana e basilico",
+        "Condisci la pasta con pesto e acqua",
+        "Pane croccante, scorza di limone e gamberi crudi"
+      ],
+      "instagram_caption": "Cremosa, croccante, fresca: questa pasta è un'esplosione di estate. 🦐🌿 Bucatini avvolti da un pesto di friggitelli, mandorle e grana, poi impiattati con gamberi crudi, pane croccante e scorza di limone. Il contrasto tra la dolcezza del peperone, il grasso del crudo e la croccantezza del pane è pura magia. Preparala per una cena che sembri al ristorante. Provala questo weekend 🌿",
+      "formats": {
+        "instagram": {
+          "caption": "Cremosa, croccante, fresca: questa pasta è un'esplosione di estate. 🦐🌿 Bucatini avvolti da un pesto di friggitelli, mandorle e grana, poi impiattati con gamberi crudi, pane croccante e scorza di limone. Il contrasto tra la dolcezza del peperone, il grasso del crudo e la croccantezza del pane è pura magia. Preparala per una cena che sembri al ristorante. Provala questo weekend 🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Frullo friggitelli, mandorle, grana e basilico.",
+            "Lessi i bucatini e li condisco col pesto.",
+            "Taglio i gamberi crudi a cubetti piccoli.",
+            "Pane croccante, scorza di limone e gamberi.",
+            "Impiatto e servo subito, buonissimo!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Friggitelli, gamberi crudi e una cremosità che non ti aspetti. Ecco la pasta che mette d’accordo estate e palato. 🦐",
+            "Bucatini al dente, gamberi rossi freschissimi, friggitelli dolci, mandorle tostate e pane croccante. Questi gli ingredienti.",
+            "Il gesto che fa la differenza? Frulli friggitelli, mandorle, grana e basilico: ottieni un pesto verde brillante e profumatissimo.",
+            "Manteca la pasta con quel pesto e un goccio d’acqua di cottura: si lega tutto in una crema vellutata. Poi assembli.",
+            "Finisci con pane croccante sbriciolato, scorza di limone e i gamberi crudi appoggiati sopra. Provala e dimmi com’è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Frullo friggitelli, mandorle, grana e basilico.",
+        "Lessi i bucatini e li condisco col pesto.",
+        "Taglio i gamberi crudi a cubetti piccoli.",
+        "Pane croccante, scorza di limone e gamberi.",
+        "Impiatto e servo subito, buonissimo!"
+      ],
+      "thread_text": [
+        "Friggitelli, gamberi crudi e una cremosità che non ti aspetti. Ecco la pasta che mette d’accordo estate e palato. 🦐",
+        "Bucatini al dente, gamberi rossi freschissimi, friggitelli dolci, mandorle tostate e pane croccante. Questi gli ingredienti.",
+        "Il gesto che fa la differenza? Frulli friggitelli, mandorle, grana e basilico: ottieni un pesto verde brillante e profumatissimo.",
+        "Manteca la pasta con quel pesto e un goccio d’acqua di cottura: si lega tutto in una crema vellutata. Poi assembli.",
+        "Finisci con pane croccante sbriciolato, scorza di limone e i gamberi crudi appoggiati sopra. Provala e dimmi com’è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta cremosa ai gamberi crudi",
+          "description": "Bucatini avvolti da un pesto di friggitelli, mandorle e grana, con crudo di gamberi e pane croccante.",
+          "visual_hint": "Primo piano della pasta in ciotola",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "creamy pasta shrimp"
+        },
+        {
+          "hook": "Gli ingredienti chiave",
+          "description": "Gamberi rossi, friggitelli dolci, mandorle tostate, grana, basilico, pane croccante e scorza di limone.",
+          "visual_hint": "Ingredienti disposti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "red shrimp peppers almonds",
+          "image": "https://images.pexels.com/photos/1998920/pexels-photo-1998920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prepara il pesto verde",
+          "description": "Frulla friggitelli, mandorle, grana, basilico e olio fino a creare una crema profumata.",
+          "visual_hint": "Mani che versano pesto nel mixer",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "blending green pesto",
+          "image": "https://images.pexels.com/photos/37261919/pexels-photo-37261919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca la pasta",
+          "description": "Condisci i bucatini al dente con il pesto e un po' di acqua di cottura per ottenere una crema avvolgente.",
+          "visual_hint": "Mani che mescolano pasta in padella",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "mixing pasta sauce",
+          "image": "https://images.pexels.com/photos/9475277/pexels-photo-9475277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Impiatta con crudo e croccante",
+          "description": "Pane croccante, scorza di limone e gamberi crudi freschi completano il piatto. Servi subito.",
+          "visual_hint": "Piatto impiattato con gamberi sopra",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pasta shrimp",
+          "image": "https://images.pexels.com/photos/31235407/pexels-photo-31235407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "gamberi rossi",
+        "friggitelli",
+        "mandorle"
+      ],
+      "image": "https://www.giallozafferano.it/images/362-36271/Pasta-con-friggitelli-e-crudo-di-gamberi_650x433_wm.jpg",
+      "savedAt": "2026-06-08T18:24:01.151Z",
+      "sourceId": "e9b91b3f95ba6dc51d2c1411243947a4"
+    },
     {
       "schema_version": 2,
       "agent": "food",
