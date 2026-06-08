@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "as-openai-files-for-ipo-sam-altman-s-eye-scanning-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+  "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+  "pubDate": "Mon, 08 Jun 2026 22:41:45 +0000",
+  "slides": [
+    "Worldcoin layoffs as Altman eyes IPO—what's the real play?",
+    "The eye-scanning firm cuts staff despite billions raised.",
+    "Revenue lags behind hype, but IPO momentum builds elsewhere.",
+    "For investors: separate the vision from the valuation gap.",
+    "Track Worldcoin's burn rate, not just Altman's other bets."
+  ],
+  "thread_text": [
+    "Worldcoin ha raccolto miliardi, ma licenzia mentre il fondatore prepara un'IPO. Cosa si nasconde dietro la mossa?",
+    "Sam Altman punta a quotare Worldcoin, ma i ricavi non giustificano la valutazione. Il taglio del personale è un atto di sopravvivenza o di strategia?",
+    "Con un burn rate che spaventa, ogni centesimo conta. L'IPO è l'unica via per evitare di bruciare tutto prima di generare profitti.",
+    "Per chi investe: separate la visione dall'hype. Il futuro della scansione oculare è reale, ma oggi il gap tra valutazione e ricavi è enorme.",
+    "L'unica domanda che conta: quanto durerà la cassa di Worldcoin senza un'IPO? Non basarti sulle altre scommesse di Altman per rispondere."
+  ],
+  "video_script": [
+    "Licenziano, ma vogliono quotarsi in borsa. Cosa bolle?",
+    "Altman ha raccolto miliardi per scansionare occhi.",
+    "I ricavi? Molto meno del clamore mediatico.",
+    "L'IPO serve per non finire i soldi prima.",
+    "Guarda il consumo di cassa, non il fondatore."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Worldcoin ha raccolto miliardi, ma licenzia mentre il fondatore prepara un'IPO. Cosa si nasconde dietro la mossa?",
+        "Sam Altman punta a quotare Worldcoin, ma i ricavi non giustificano la valutazione. Il taglio del personale è un atto di sopravvivenza o di strategia?",
+        "Con un burn rate che spaventa, ogni centesimo conta. L'IPO è l'unica via per evitare di bruciare tutto prima di generare profitti.",
+        "Per chi investe: separate la visione dall'hype. Il futuro della scansione oculare è reale, ma oggi il gap tra valutazione e ricavi è enorme.",
+        "L'unica domanda che conta: quanto durerà la cassa di Worldcoin senza un'IPO? Non basarti sulle altre scommesse di Altman per rispondere."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Licenziano, ma vogliono quotarsi in borsa. Cosa bolle?",
+        "Altman ha raccolto miliardi per scansionare occhi.",
+        "I ricavi? Molto meno del clamore mediatico.",
+        "L'IPO serve per non finire i soldi prima.",
+        "Guarda il consumo di cassa, non il fondatore."
+      ]
+    },
+    "instagram": {
+      "caption": "Mentre Sam Altman prepara la quotazione in borsa di OpenAI, la sua azienda di scansione oculare Worldcoin taglia il personale nonostante abbia raccolto miliardi. 📉 Dietro il licenziamento c'è un conto semplice: i ricavi non reggono il confronto con le spese, e il burn rate è diventato insostenibile. 💸 Per chi segue il settore, è il segnale che nemmeno i founder più celebri possono ignorare i fondamentali economici. Se hai azioni o punti di contatto con queste realtà, oggi la domanda giusta non è sulla visione, ma su quanti mesi di cassa restano davvero. ⏳"
+    }
+  },
+  "instagram_caption": "Mentre Sam Altman prepara la quotazione in borsa di OpenAI, la sua azienda di scansione oculare Worldcoin taglia il personale nonostante abbia raccolto miliardi. 📉 Dietro il licenziamento c'è un conto semplice: i ricavi non reggono il confronto con le spese, e il burn rate è diventato insostenibile. 💸 Per chi segue il settore, è il segnale che nemmeno i founder più celebri possono ignorare i fondamentali economici. Se hai azioni o punti di contatto con queste realtà, oggi la domanda giusta non è sulla visione, ma su quanti mesi di cassa restano davvero. ⏳",
+  "carousel_slides": [
+    {
+      "hook": "IPO imminente o mossa di sopravvivenza?",
+      "description": "Worldcoin taglia il personale dopo miliardi raccolti mentre Altman prepara la quotazione. Segnale di forza o debolezza?",
+      "visual_hint": "scatola di carta che brucia",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office building empty"
+    },
+    {
+      "hook": "Miliardi raccolti, ricavi inesistenti",
+      "description": "La valutazione vola, ma i ricavi non la giustificano. I licenziamenti sono strategia o sintomo di un modello fragile?",
+      "visual_hint": "banconote che cadono nel vuoto",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Burn rate da paura, cassa che fugge",
+      "description": "Ogni centesimo conta. L'IPO sembra l'unica ancora per evitare di bruciare tutto prima dei profitti.",
+      "visual_hint": "contagocce che perde liquidità",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot production",
+      "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Visione reale o bolla da hype?",
+      "description": "La scansione oculare ha futuro, ma oggi il divario tra valutazione e ricavi è enorme. Separa la visione dalla realtà.",
+      "visual_hint": "mano che separa due immagini",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "eye scanning device",
+      "image": "https://images.pexels.com/photos/8090300/pexels-photo-8090300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Quanto dura la cassa di Worldcoin?",
+      "description": "Non guardare le altre scommesse di Altman. L'unica domanda vera: quanto tempo resta prima di finire i fondi?",
+      "visual_hint": "clessidra con monete che cadono",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "server room cooling",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/07/Worldcoin-Project-Co-founders-Alex-Blania-L-and-Sam-Altman-R.jpg?resize=1200,800",
+  "savedAt": "2026-06-08T23:08:44.623Z",
+  "sourceId": "6025772369b3897628b04775fef38c1c"
+}

@@ -2,6 +2,426 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "apple-s-photos-app-is-getting-new-ai-editing-featu",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple’s Photos app is getting new AI editing features",
+    "link": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+    "pubDate": "Mon, 08 Jun 2026 18:36:04 +0000",
+    "slides": [
+      "Apple riscrive l'editing foto: cosa cambia?",
+      "L'intelligenza artificiale entra in Photos nativamente.",
+      "Il trucco: modifica pixel senza alterare l'originale.",
+      "Nessun ritocco manuale: l'IA sceglie per te.",
+      "Provalo oggi: una foto, zero fatica."
+    ],
+    "thread_text": [
+      "La foto che hai scattato esiste già in due versioni: quella originale e quella che Apple modifica al posto tuo. Il trucco è che nessuna delle due viene toccata.",
+      "Apple ha integrato l'AI nativamente in Photos. Non è un filtro, non è un plugin: è dentro il sistema, e agisce su ogni immagine che salvi.",
+      "Il modello modifica i pixel direttamente, ma senza alterare il file originale. La foto di partenza resta intatta: quello che vedi è una copia generata al volo.",
+      "Niente cursori da spostare, niente slider. L'IA sceglie esposizione, bilanciamento e dettaglio per te. Il tuo unico compito è premere scatto.",
+      "Costa meno di un abbonamento Spotify e funziona su ogni iPhone con iOS 18. Provalo oggi: scatta una foto, zero modifiche manuali."
+    ],
+    "video_script": [
+      "Apple ha riscritto l'editing foto.",
+      "L'AI è dentro Photos, nativamente.",
+      "Modifica i pixel, l'originale resta intatto.",
+      "Niente ritocchi, sceglie tutto lei.",
+      "Provalo oggi: una foto, zero fatica."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "La foto che hai scattato esiste già in due versioni: quella originale e quella che Apple modifica al posto tuo. Il trucco è che nessuna delle due viene toccata.",
+          "Apple ha integrato l'AI nativamente in Photos. Non è un filtro, non è un plugin: è dentro il sistema, e agisce su ogni immagine che salvi.",
+          "Il modello modifica i pixel direttamente, ma senza alterare il file originale. La foto di partenza resta intatta: quello che vedi è una copia generata al volo.",
+          "Niente cursori da spostare, niente slider. L'IA sceglie esposizione, bilanciamento e dettaglio per te. Il tuo unico compito è premere scatto.",
+          "Costa meno di un abbonamento Spotify e funziona su ogni iPhone con iOS 18. Provalo oggi: scatta una foto, zero modifiche manuali."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple ha riscritto l'editing foto.",
+          "L'AI è dentro Photos, nativamente.",
+          "Modifica i pixel, l'originale resta intatto.",
+          "Niente ritocchi, sceglie tutto lei.",
+          "Provalo oggi: una foto, zero fatica."
+        ]
+      },
+      "instagram": {
+        "caption": "Apple ha integrato l’intelligenza artificiale direttamente nell’app Foto 📱: quando scatti, l’IA modifica esposizione, bilanciamento e dettaglio al posto tuo, senza che tu debba toccare un cursore. Il file originale resta intatto — quello che vedi è una copia generata al volo dal sistema ✨. Niente plugin, niente abbonamento extra: funziona su ogni iPhone con iOS 18. Hai mai provato a fidarti completamente di un software per editare le tue foto? 📸"
+      }
+    },
+    "instagram_caption": "Apple ha integrato l’intelligenza artificiale direttamente nell’app Foto 📱: quando scatti, l’IA modifica esposizione, bilanciamento e dettaglio al posto tuo, senza che tu debba toccare un cursore. Il file originale resta intatto — quello che vedi è una copia generata al volo dal sistema ✨. Niente plugin, niente abbonamento extra: funziona su ogni iPhone con iOS 18. Hai mai provato a fidarti completamente di un software per editare le tue foto? 📸",
+    "carousel_slides": [
+      {
+        "hook": "La foto esiste già due versioni",
+        "description": "Nessuna viene toccata: Apple modifica al posto tuo senza alterare l'originale.",
+        "visual_hint": "Due foto sovrapposte trasparenti",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "two overlapping photos"
+      },
+      {
+        "hook": "AI nativa nel sistema",
+        "description": "Non un filtro o plugin: l'intelligenza artificiale agisce su ogni immagine che salvi.",
+        "visual_hint": "Icona Photos con chip AI",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "iPhone Photos app icon",
+        "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pixel modificati, originale intatto",
+        "description": "Il modello modifica i pixel direttamente ma genera una copia al volo senza toccare il file originale.",
+        "visual_hint": "Pixel colorati su fondo bianco",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "close-up pixel grid",
+        "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Niente slider, sceglie l'IA",
+        "description": "Esposizione, bilanciamento e dettagli automatici. Il tuo unico compito è premere scatto.",
+        "visual_hint": "Mano che preme scatto iPhone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand pressing iPhone camera button",
+        "image": "https://images.pexels.com/photos/34430156/pexels-photo-34430156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Provalo oggi: scatta, zero fatica",
+        "description": "Costa meno di Spotify e funziona su ogni iPhone con iOS 18. Una foto, nessuna modifica manuale.",
+        "visual_hint": "iPhone con foto perfetta",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "iPhone showing perfect photo",
+        "image": "https://images.pexels.com/photos/5789940/pexels-photo-5789940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.07.32-PM.jpg?resize=1200,675",
+    "savedAt": "2026-06-08T23:09:24.980Z",
+    "sourceId": "58daf599b0c7ec2de5be4311f7bb29bb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "apple-will-let-you-build-workflows-using-ai-in-its",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+    "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+    "pubDate": "Mon, 08 Jun 2026 18:45:12 +0000",
+    "slides": [
+      "Apple sta per automatizzare il tuo iPhone con AI?",
+      "La nuova Shortcuts userà modelli generativi per creare flussi.",
+      "Ma deciderà al posto tuo o eseguirà solo comandi?",
+      "Chi progetta automazioni risparmierà ore di configurazione manuale.",
+      "Prova oggi un flusso semplice: il salto è minimo."
+    ],
+    "thread_text": [
+      "Un software che decide al posto tuo. E se sbagliasse?",
+      "Apple sta per portare l'AI generativa dentro Shortcuts. Non solo esecuzione, ma creazione automatica di flussi.",
+      "Il nodo è: chi pilota chi? Se il modello sceglie le azioni, tu diventi spettatore. O va eseguito solo ciò che confermi?",
+      "Per chi progetta automazioni oggi, questo significa ore risparmiate. Nessuno schema da ricordare, descrivi cosa vuoi e via.",
+      "Provane uno semplice: un comando vocale che riordina le tue foto per data. Fatto in un minuto."
+    ],
+    "video_script": [
+      "Immagina un'IA che decide per te.",
+      "Apple la mette dentro Shortcuts.",
+      "Non solo esegue, crea flussi da sola.",
+      "Ma tu controlli ancora qualcosa?",
+      "Chi progetta automazioni risparmia ore.",
+      "Oggi prova un flusso voce-foto.",
+      "Salto minimo, risultato concreto."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Un software che decide al posto tuo. E se sbagliasse?",
+          "Apple sta per portare l'AI generativa dentro Shortcuts. Non solo esecuzione, ma creazione automatica di flussi.",
+          "Il nodo è: chi pilota chi? Se il modello sceglie le azioni, tu diventi spettatore. O va eseguito solo ciò che confermi?",
+          "Per chi progetta automazioni oggi, questo significa ore risparmiate. Nessuno schema da ricordare, descrivi cosa vuoi e via.",
+          "Provane uno semplice: un comando vocale che riordina le tue foto per data. Fatto in un minuto."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Immagina un'IA che decide per te.",
+          "Apple la mette dentro Shortcuts.",
+          "Non solo esegue, crea flussi da sola.",
+          "Ma tu controlli ancora qualcosa?",
+          "Chi progetta automazioni risparmia ore.",
+          "Oggi prova un flusso voce-foto.",
+          "Salto minimo, risultato concreto."
+        ]
+      },
+      "instagram": {
+        "caption": "Apple mette l'AI dentro Shortcuts: ora l'app può generare flussi di automazione da sola, non solo eseguirli. In pratica, descrivi cosa vuoi fare e il sistema costruisce la sequenza di azioni al posto tuo. Per chi già usa automazioni, niente più ore perse a configurare ogni passaggio. Per i neofiti, un colpo di voce può creare uno schema che ordina le foto per data. Ma la domanda resta: sceglie il modello o confermi tu ogni passaggio?"
+      }
+    },
+    "instagram_caption": "Apple mette l'AI dentro Shortcuts: ora l'app può generare flussi di automazione da sola, non solo eseguirli. In pratica, descrivi cosa vuoi fare e il sistema costruisce la sequenza di azioni al posto tuo. Per chi già usa automazioni, niente più ore perse a configurare ogni passaggio. Per i neofiti, un colpo di voce può creare uno schema che ordina le foto per data. Ma la domanda resta: sceglie il modello o confermi tu ogni passaggio?",
+    "carousel_slides": [
+      {
+        "hook": "Chi pilota il tuo iPhone?",
+        "description": "E se l'AI scegliesse azioni al posto tuo? Il nodo è se diventi spettatore.",
+        "visual_hint": "Persona che guarda telefono confusa",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "person confused smartphone"
+      },
+      {
+        "hook": "AI crea flussi, tu guardi",
+        "description": "Apple porta AI generativa in Shortcuts: non solo esecuzione, ma creazione automatica di flussi.",
+        "visual_hint": "Processo automatico su schermo iPhone",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "iPhone screen automation",
+        "image": "https://images.pexels.com/photos/3850204/pexels-photo-3850204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Eseguire o confermare?",
+        "description": "Se il modello sceglie le azioni, tu diventi spettatore. O va eseguito solo ciò che confermi?",
+        "visual_hint": "Icone di spunta e domanda affiancate",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "checkmark question mark icons",
+        "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ore risparmiate, zero schemi",
+        "description": "Per chi progetta automazioni, descrivi cosa vuoi e via. Nessuno schema da ricordare.",
+        "visual_hint": "Mano che tocca schermo con flusso",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand touching smartphone screen",
+        "image": "https://images.pexels.com/photos/7657488/pexels-photo-7657488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova: riordina foto con voce",
+        "description": "Un comando vocale che riordina le tue foto per data. Fatto in un minuto.",
+        "visual_hint": "Comando vocale su sfondo foto ordinate",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "voice command phone photos",
+        "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/shortcuts-at-2.26.16-PM.jpg?resize=1200,666",
+    "savedAt": "2026-06-08T23:09:11.793Z",
+    "sourceId": "a6f495cb508bb46ea833a7dc8b92fdff"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-files-confidentially-for-ipo-following-anth",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI files confidentially for IPO, following Anthropic",
+    "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+    "pubDate": "Mon, 08 Jun 2026 21:29:57 +0000",
+    "slides": [
+      "OpenAI ha depositato in segreto per l'IPO — cosa nasconde?",
+      "Segue Anthropic, che ha fatto lo stesso mese scorso",
+      "Ma i documenti restano sigillati: dettagli sconosciuti",
+      "Per i competitor, sapere le tempistiche è già un vantaggio",
+      "Controlla se la tua azienda è pronta a reagire ora"
+    ],
+    "thread_text": [
+      "OpenAI ha depositato i documenti per l'IPO in segreto. I dettagli sono sigillati. Nessuno sa cosa contengano.",
+      "Un mese fa ha fatto lo stesso Anthropic. Due colossi dell'AI che scelgono la massima opacità.",
+      "Per i competitor, anche solo conoscere le date è un vantaggio concreto. Sanno quando prepararsi.",
+      "I documenti resteranno chiusi fino a poche settimane prima dell'offerta. Le mosse vere sono già in atto.",
+      "Controlla ora se la tua azienda ha un piano per reagire a un'IPO AI nei prossimi 6 mesi."
+    ],
+    "video_script": [
+      "OpenAI ha depositato i documenti per l'IPO in segreto.",
+      "Anche Anthropic l'ha fatto un mese fa.",
+      "Ma i dettagli sono sigillati, nessuno li vede.",
+      "Per i competitor, sapere le date è già un vantaggio.",
+      "Chiediti: la tua azienda è pronta a reagire ora?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "OpenAI ha depositato i documenti per l'IPO in segreto. I dettagli sono sigillati. Nessuno sa cosa contengano.",
+          "Un mese fa ha fatto lo stesso Anthropic. Due colossi dell'AI che scelgono la massima opacità.",
+          "Per i competitor, anche solo conoscere le date è un vantaggio concreto. Sanno quando prepararsi.",
+          "I documenti resteranno chiusi fino a poche settimane prima dell'offerta. Le mosse vere sono già in atto.",
+          "Controlla ora se la tua azienda ha un piano per reagire a un'IPO AI nei prossimi 6 mesi."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI ha depositato i documenti per l'IPO in segreto.",
+          "Anche Anthropic l'ha fatto un mese fa.",
+          "Ma i dettagli sono sigillati, nessuno li vede.",
+          "Per i competitor, sapere le date è già un vantaggio.",
+          "Chiediti: la tua azienda è pronta a reagire ora?"
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI ha appena depositato i documenti per l'IPO 📄, ma tutto resta sigillato: nessuno sa cosa contengano, nemmeno i competitor. Un mese fa ha fatto lo stesso Anthropic — due colossi dell'AI che scelgono la massima segretezza. Per chi opera nel settore, conoscere anche solo la finestra temporale è un vantaggio per prepararsi 🕵️. Se lavori con strumenti AI o in aziende che li usano, sapere che queste mosse arrivano entro 6 mesi può ribaltare le strategie 🔄. Hai già un piano per reagire a un'IPO che cambierà le regole del mercato?"
+      }
+    },
+    "instagram_caption": "OpenAI ha appena depositato i documenti per l'IPO 📄, ma tutto resta sigillato: nessuno sa cosa contengano, nemmeno i competitor. Un mese fa ha fatto lo stesso Anthropic — due colossi dell'AI che scelgono la massima segretezza. Per chi opera nel settore, conoscere anche solo la finestra temporale è un vantaggio per prepararsi 🕵️. Se lavori con strumenti AI o in aziende che li usano, sapere che queste mosse arrivano entro 6 mesi può ribaltare le strategie 🔄. Hai già un piano per reagire a un'IPO che cambierà le regole del mercato?",
+    "carousel_slides": [
+      {
+        "hook": "Deposito segreto: cosa nascondono?",
+        "description": "OpenAI ha depositato in segreto per l'IPO. I dettagli sono sigillati, nessuno sa cosa contengano.",
+        "visual_hint": "Documento sigillato con lucchetto",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "sealed document lock"
+      },
+      {
+        "hook": "Anthropic ha fatto lo stesso",
+        "description": "Un mese fa Anthropic ha seguito la stessa strada. Due colossi AI scelgono la massima opacità.",
+        "visual_hint": "Due edifici affiancati opachi",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "two office buildings",
+        "image": "https://images.pexels.com/photos/30377328/pexels-photo-30377328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Le date sono un vantaggio",
+        "description": "Per i competitor, conoscere le tempistiche è già un vantaggio concreto. Sanno quando prepararsi.",
+        "visual_hint": "Calendario con freccia evidenziata",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "calendar date highlighted",
+        "image": "https://images.pexels.com/photos/7479755/pexels-photo-7479755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Le mosse vere sono in atto",
+        "description": "I documenti resteranno sigillati fino a settimane prima. Le mosse vere sono già in atto.",
+        "visual_hint": "Mano che muove pezzi su scacchiera",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "chess pieces hand",
+        "image": "https://images.pexels.com/photos/8780203/pexels-photo-8780203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "La tua azienda è pronta?",
+        "description": "Controlla ora se hai un piano per reagire a un'IPO AI nei prossimi 6 mesi.",
+        "visual_hint": "Checklist con penna su tavolo",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "checklist pen table",
+        "image": "https://images.pexels.com/photos/7429465/pexels-photo-7429465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?resize=1200,800",
+    "savedAt": "2026-06-08T23:08:57.498Z",
+    "sourceId": "060a84be34f2e2f2a71aa43e7be5c489"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "as-openai-files-for-ipo-sam-altman-s-eye-scanning-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+    "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+    "pubDate": "Mon, 08 Jun 2026 22:41:45 +0000",
+    "slides": [
+      "Worldcoin layoffs as Altman eyes IPO—what's the real play?",
+      "The eye-scanning firm cuts staff despite billions raised.",
+      "Revenue lags behind hype, but IPO momentum builds elsewhere.",
+      "For investors: separate the vision from the valuation gap.",
+      "Track Worldcoin's burn rate, not just Altman's other bets."
+    ],
+    "thread_text": [
+      "Worldcoin ha raccolto miliardi, ma licenzia mentre il fondatore prepara un'IPO. Cosa si nasconde dietro la mossa?",
+      "Sam Altman punta a quotare Worldcoin, ma i ricavi non giustificano la valutazione. Il taglio del personale è un atto di sopravvivenza o di strategia?",
+      "Con un burn rate che spaventa, ogni centesimo conta. L'IPO è l'unica via per evitare di bruciare tutto prima di generare profitti.",
+      "Per chi investe: separate la visione dall'hype. Il futuro della scansione oculare è reale, ma oggi il gap tra valutazione e ricavi è enorme.",
+      "L'unica domanda che conta: quanto durerà la cassa di Worldcoin senza un'IPO? Non basarti sulle altre scommesse di Altman per rispondere."
+    ],
+    "video_script": [
+      "Licenziano, ma vogliono quotarsi in borsa. Cosa bolle?",
+      "Altman ha raccolto miliardi per scansionare occhi.",
+      "I ricavi? Molto meno del clamore mediatico.",
+      "L'IPO serve per non finire i soldi prima.",
+      "Guarda il consumo di cassa, non il fondatore."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Worldcoin ha raccolto miliardi, ma licenzia mentre il fondatore prepara un'IPO. Cosa si nasconde dietro la mossa?",
+          "Sam Altman punta a quotare Worldcoin, ma i ricavi non giustificano la valutazione. Il taglio del personale è un atto di sopravvivenza o di strategia?",
+          "Con un burn rate che spaventa, ogni centesimo conta. L'IPO è l'unica via per evitare di bruciare tutto prima di generare profitti.",
+          "Per chi investe: separate la visione dall'hype. Il futuro della scansione oculare è reale, ma oggi il gap tra valutazione e ricavi è enorme.",
+          "L'unica domanda che conta: quanto durerà la cassa di Worldcoin senza un'IPO? Non basarti sulle altre scommesse di Altman per rispondere."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Licenziano, ma vogliono quotarsi in borsa. Cosa bolle?",
+          "Altman ha raccolto miliardi per scansionare occhi.",
+          "I ricavi? Molto meno del clamore mediatico.",
+          "L'IPO serve per non finire i soldi prima.",
+          "Guarda il consumo di cassa, non il fondatore."
+        ]
+      },
+      "instagram": {
+        "caption": "Mentre Sam Altman prepara la quotazione in borsa di OpenAI, la sua azienda di scansione oculare Worldcoin taglia il personale nonostante abbia raccolto miliardi. 📉 Dietro il licenziamento c'è un conto semplice: i ricavi non reggono il confronto con le spese, e il burn rate è diventato insostenibile. 💸 Per chi segue il settore, è il segnale che nemmeno i founder più celebri possono ignorare i fondamentali economici. Se hai azioni o punti di contatto con queste realtà, oggi la domanda giusta non è sulla visione, ma su quanti mesi di cassa restano davvero. ⏳"
+      }
+    },
+    "instagram_caption": "Mentre Sam Altman prepara la quotazione in borsa di OpenAI, la sua azienda di scansione oculare Worldcoin taglia il personale nonostante abbia raccolto miliardi. 📉 Dietro il licenziamento c'è un conto semplice: i ricavi non reggono il confronto con le spese, e il burn rate è diventato insostenibile. 💸 Per chi segue il settore, è il segnale che nemmeno i founder più celebri possono ignorare i fondamentali economici. Se hai azioni o punti di contatto con queste realtà, oggi la domanda giusta non è sulla visione, ma su quanti mesi di cassa restano davvero. ⏳",
+    "carousel_slides": [
+      {
+        "hook": "IPO imminente o mossa di sopravvivenza?",
+        "description": "Worldcoin taglia il personale dopo miliardi raccolti mentre Altman prepara la quotazione. Segnale di forza o debolezza?",
+        "visual_hint": "scatola di carta che brucia",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "office building empty"
+      },
+      {
+        "hook": "Miliardi raccolti, ricavi inesistenti",
+        "description": "La valutazione vola, ma i ricavi non la giustificano. I licenziamenti sono strategia o sintomo di un modello fragile?",
+        "visual_hint": "banconote che cadono nel vuoto",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Burn rate da paura, cassa che fugge",
+        "description": "Ogni centesimo conta. L'IPO sembra l'unica ancora per evitare di bruciare tutto prima dei profitti.",
+        "visual_hint": "contagocce che perde liquidità",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot production",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Visione reale o bolla da hype?",
+        "description": "La scansione oculare ha futuro, ma oggi il divario tra valutazione e ricavi è enorme. Separa la visione dalla realtà.",
+        "visual_hint": "mano che separa due immagini",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "eye scanning device",
+        "image": "https://images.pexels.com/photos/8090300/pexels-photo-8090300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Quanto dura la cassa di Worldcoin?",
+        "description": "Non guardare le altre scommesse di Altman. L'unica domanda vera: quanto tempo resta prima di finire i fondi?",
+        "visual_hint": "clessidra con monete che cadono",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "server room cooling",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/07/Worldcoin-Project-Co-founders-Alex-Blania-L-and-Sam-Altman-R.jpg?resize=1200,800",
+    "savedAt": "2026-06-08T23:08:44.623Z",
+    "sourceId": "6025772369b3897628b04775fef38c1c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "pentagon-says-alibaba-baidu-byd-and-unitree-suppor",
     "prompt_version": "1.0.0",
     "status": "published",

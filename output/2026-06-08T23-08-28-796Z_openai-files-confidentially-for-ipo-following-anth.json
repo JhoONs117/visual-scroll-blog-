@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-files-confidentially-for-ipo-following-anth",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI files confidentially for IPO, following Anthropic",
+  "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+  "pubDate": "Mon, 08 Jun 2026 21:29:57 +0000",
+  "slides": [
+    "OpenAI ha depositato in segreto per l'IPO — cosa nasconde?",
+    "Segue Anthropic, che ha fatto lo stesso mese scorso",
+    "Ma i documenti restano sigillati: dettagli sconosciuti",
+    "Per i competitor, sapere le tempistiche è già un vantaggio",
+    "Controlla se la tua azienda è pronta a reagire ora"
+  ],
+  "thread_text": [
+    "OpenAI ha depositato i documenti per l'IPO in segreto. I dettagli sono sigillati. Nessuno sa cosa contengano.",
+    "Un mese fa ha fatto lo stesso Anthropic. Due colossi dell'AI che scelgono la massima opacità.",
+    "Per i competitor, anche solo conoscere le date è un vantaggio concreto. Sanno quando prepararsi.",
+    "I documenti resteranno chiusi fino a poche settimane prima dell'offerta. Le mosse vere sono già in atto.",
+    "Controlla ora se la tua azienda ha un piano per reagire a un'IPO AI nei prossimi 6 mesi."
+  ],
+  "video_script": [
+    "OpenAI ha depositato i documenti per l'IPO in segreto.",
+    "Anche Anthropic l'ha fatto un mese fa.",
+    "Ma i dettagli sono sigillati, nessuno li vede.",
+    "Per i competitor, sapere le date è già un vantaggio.",
+    "Chiediti: la tua azienda è pronta a reagire ora?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "OpenAI ha depositato i documenti per l'IPO in segreto. I dettagli sono sigillati. Nessuno sa cosa contengano.",
+        "Un mese fa ha fatto lo stesso Anthropic. Due colossi dell'AI che scelgono la massima opacità.",
+        "Per i competitor, anche solo conoscere le date è un vantaggio concreto. Sanno quando prepararsi.",
+        "I documenti resteranno chiusi fino a poche settimane prima dell'offerta. Le mosse vere sono già in atto.",
+        "Controlla ora se la tua azienda ha un piano per reagire a un'IPO AI nei prossimi 6 mesi."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI ha depositato i documenti per l'IPO in segreto.",
+        "Anche Anthropic l'ha fatto un mese fa.",
+        "Ma i dettagli sono sigillati, nessuno li vede.",
+        "Per i competitor, sapere le date è già un vantaggio.",
+        "Chiediti: la tua azienda è pronta a reagire ora?"
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI ha appena depositato i documenti per l'IPO 📄, ma tutto resta sigillato: nessuno sa cosa contengano, nemmeno i competitor. Un mese fa ha fatto lo stesso Anthropic — due colossi dell'AI che scelgono la massima segretezza. Per chi opera nel settore, conoscere anche solo la finestra temporale è un vantaggio per prepararsi 🕵️. Se lavori con strumenti AI o in aziende che li usano, sapere che queste mosse arrivano entro 6 mesi può ribaltare le strategie 🔄. Hai già un piano per reagire a un'IPO che cambierà le regole del mercato?"
+    }
+  },
+  "instagram_caption": "OpenAI ha appena depositato i documenti per l'IPO 📄, ma tutto resta sigillato: nessuno sa cosa contengano, nemmeno i competitor. Un mese fa ha fatto lo stesso Anthropic — due colossi dell'AI che scelgono la massima segretezza. Per chi opera nel settore, conoscere anche solo la finestra temporale è un vantaggio per prepararsi 🕵️. Se lavori con strumenti AI o in aziende che li usano, sapere che queste mosse arrivano entro 6 mesi può ribaltare le strategie 🔄. Hai già un piano per reagire a un'IPO che cambierà le regole del mercato?",
+  "carousel_slides": [
+    {
+      "hook": "Deposito segreto: cosa nascondono?",
+      "description": "OpenAI ha depositato in segreto per l'IPO. I dettagli sono sigillati, nessuno sa cosa contengano.",
+      "visual_hint": "Documento sigillato con lucchetto",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "sealed document lock"
+    },
+    {
+      "hook": "Anthropic ha fatto lo stesso",
+      "description": "Un mese fa Anthropic ha seguito la stessa strada. Due colossi AI scelgono la massima opacità.",
+      "visual_hint": "Due edifici affiancati opachi",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "two office buildings",
+      "image": "https://images.pexels.com/photos/30377328/pexels-photo-30377328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Le date sono un vantaggio",
+      "description": "Per i competitor, conoscere le tempistiche è già un vantaggio concreto. Sanno quando prepararsi.",
+      "visual_hint": "Calendario con freccia evidenziata",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "calendar date highlighted",
+      "image": "https://images.pexels.com/photos/7479755/pexels-photo-7479755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Le mosse vere sono in atto",
+      "description": "I documenti resteranno sigillati fino a settimane prima. Le mosse vere sono già in atto.",
+      "visual_hint": "Mano che muove pezzi su scacchiera",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "chess pieces hand",
+      "image": "https://images.pexels.com/photos/8780203/pexels-photo-8780203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "La tua azienda è pronta?",
+      "description": "Controlla ora se hai un piano per reagire a un'IPO AI nei prossimi 6 mesi.",
+      "visual_hint": "Checklist con penna su tavolo",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "checklist pen table",
+      "image": "https://images.pexels.com/photos/7429465/pexels-photo-7429465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?resize=1200,800",
+  "savedAt": "2026-06-08T23:08:57.498Z",
+  "sourceId": "060a84be34f2e2f2a71aa43e7be5c489"
+}

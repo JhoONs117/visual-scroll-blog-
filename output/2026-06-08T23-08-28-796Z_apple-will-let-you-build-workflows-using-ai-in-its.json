@@ -1,0 +1,108 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-will-let-you-build-workflows-using-ai-in-its",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+  "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+  "pubDate": "Mon, 08 Jun 2026 18:45:12 +0000",
+  "slides": [
+    "Apple sta per automatizzare il tuo iPhone con AI?",
+    "La nuova Shortcuts userà modelli generativi per creare flussi.",
+    "Ma deciderà al posto tuo o eseguirà solo comandi?",
+    "Chi progetta automazioni risparmierà ore di configurazione manuale.",
+    "Prova oggi un flusso semplice: il salto è minimo."
+  ],
+  "thread_text": [
+    "Un software che decide al posto tuo. E se sbagliasse?",
+    "Apple sta per portare l'AI generativa dentro Shortcuts. Non solo esecuzione, ma creazione automatica di flussi.",
+    "Il nodo è: chi pilota chi? Se il modello sceglie le azioni, tu diventi spettatore. O va eseguito solo ciò che confermi?",
+    "Per chi progetta automazioni oggi, questo significa ore risparmiate. Nessuno schema da ricordare, descrivi cosa vuoi e via.",
+    "Provane uno semplice: un comando vocale che riordina le tue foto per data. Fatto in un minuto."
+  ],
+  "video_script": [
+    "Immagina un'IA che decide per te.",
+    "Apple la mette dentro Shortcuts.",
+    "Non solo esegue, crea flussi da sola.",
+    "Ma tu controlli ancora qualcosa?",
+    "Chi progetta automazioni risparmia ore.",
+    "Oggi prova un flusso voce-foto.",
+    "Salto minimo, risultato concreto."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Un software che decide al posto tuo. E se sbagliasse?",
+        "Apple sta per portare l'AI generativa dentro Shortcuts. Non solo esecuzione, ma creazione automatica di flussi.",
+        "Il nodo è: chi pilota chi? Se il modello sceglie le azioni, tu diventi spettatore. O va eseguito solo ciò che confermi?",
+        "Per chi progetta automazioni oggi, questo significa ore risparmiate. Nessuno schema da ricordare, descrivi cosa vuoi e via.",
+        "Provane uno semplice: un comando vocale che riordina le tue foto per data. Fatto in un minuto."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Immagina un'IA che decide per te.",
+        "Apple la mette dentro Shortcuts.",
+        "Non solo esegue, crea flussi da sola.",
+        "Ma tu controlli ancora qualcosa?",
+        "Chi progetta automazioni risparmia ore.",
+        "Oggi prova un flusso voce-foto.",
+        "Salto minimo, risultato concreto."
+      ]
+    },
+    "instagram": {
+      "caption": "Apple mette l'AI dentro Shortcuts: ora l'app può generare flussi di automazione da sola, non solo eseguirli. In pratica, descrivi cosa vuoi fare e il sistema costruisce la sequenza di azioni al posto tuo. Per chi già usa automazioni, niente più ore perse a configurare ogni passaggio. Per i neofiti, un colpo di voce può creare uno schema che ordina le foto per data. Ma la domanda resta: sceglie il modello o confermi tu ogni passaggio?"
+    }
+  },
+  "instagram_caption": "Apple mette l'AI dentro Shortcuts: ora l'app può generare flussi di automazione da sola, non solo eseguirli. In pratica, descrivi cosa vuoi fare e il sistema costruisce la sequenza di azioni al posto tuo. Per chi già usa automazioni, niente più ore perse a configurare ogni passaggio. Per i neofiti, un colpo di voce può creare uno schema che ordina le foto per data. Ma la domanda resta: sceglie il modello o confermi tu ogni passaggio?",
+  "carousel_slides": [
+    {
+      "hook": "Chi pilota il tuo iPhone?",
+      "description": "E se l'AI scegliesse azioni al posto tuo? Il nodo è se diventi spettatore.",
+      "visual_hint": "Persona che guarda telefono confusa",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "person confused smartphone"
+    },
+    {
+      "hook": "AI crea flussi, tu guardi",
+      "description": "Apple porta AI generativa in Shortcuts: non solo esecuzione, ma creazione automatica di flussi.",
+      "visual_hint": "Processo automatico su schermo iPhone",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "iPhone screen automation",
+      "image": "https://images.pexels.com/photos/3850204/pexels-photo-3850204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Eseguire o confermare?",
+      "description": "Se il modello sceglie le azioni, tu diventi spettatore. O va eseguito solo ciò che confermi?",
+      "visual_hint": "Icone di spunta e domanda affiancate",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "checkmark question mark icons",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ore risparmiate, zero schemi",
+      "description": "Per chi progetta automazioni, descrivi cosa vuoi e via. Nessuno schema da ricordare.",
+      "visual_hint": "Mano che tocca schermo con flusso",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching smartphone screen",
+      "image": "https://images.pexels.com/photos/7657488/pexels-photo-7657488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova: riordina foto con voce",
+      "description": "Un comando vocale che riordina le tue foto per data. Fatto in un minuto.",
+      "visual_hint": "Comando vocale su sfondo foto ordinate",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "voice command phone photos",
+      "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/shortcuts-at-2.26.16-PM.jpg?resize=1200,666",
+  "savedAt": "2026-06-08T23:09:11.793Z",
+  "sourceId": "a6f495cb508bb46ea833a7dc8b92fdff"
+}
