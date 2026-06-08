@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-is-still-working-on-that-super-app-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI is still working on that ‘super app’",
+    "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+    "pubDate": "Sun, 07 Jun 2026 16:23:22 +0000",
+    "slides": [
+      "OpenAI punta a un'unica app per tutto, ma manca ancora qualcosa?",
+      "Non è solo ChatGPT: integra strumenti, dati e agenti.",
+      "Il piano segreto: sostituire decine di app con una sola.",
+      "Per te significa meno passaggi per completare un task.",
+      "Provala oggi: vedi se riesci a fare tutto senza uscire."
+    ],
+    "thread_text": [
+      "OpenAI ha un piano segreto: sostituire decine di app con una sola. E non è solo ChatGPT.",
+      "Finora per completare un task saltavi tra 4-5 strumenti. L'idea è portare tutto dentro un'unica interfaccia.",
+      "Non è un semplice chatbot. Integra strumenti, dati e agenti che agiscono al posto tuo.",
+      "Il risultato: meno passaggi, meno distrazioni, meno tempo perso a cercare tab giuste.",
+      "Prova oggi: apri l'app e vedi se riesci a fare tutto senza mai uscire. Costa meno di un abbonamento Spotify."
+    ],
+    "video_script": [
+      "OpenAI vuole unificare tutto in una sola app.",
+      "Non è solo ChatGPT, ma strumenti e agenti.",
+      "Il piano? Sostituire decine di app diverse.",
+      "Per te significa meno passaggi per ogni task.",
+      "Provala oggi e vedi se basta una sola app."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "OpenAI ha un piano segreto: sostituire decine di app con una sola. E non è solo ChatGPT.",
+          "Finora per completare un task saltavi tra 4-5 strumenti. L'idea è portare tutto dentro un'unica interfaccia.",
+          "Non è un semplice chatbot. Integra strumenti, dati e agenti che agiscono al posto tuo.",
+          "Il risultato: meno passaggi, meno distrazioni, meno tempo perso a cercare tab giuste.",
+          "Prova oggi: apri l'app e vedi se riesci a fare tutto senza mai uscire. Costa meno di un abbonamento Spotify."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI vuole unificare tutto in una sola app.",
+          "Non è solo ChatGPT, ma strumenti e agenti.",
+          "Il piano? Sostituire decine di app diverse.",
+          "Per te significa meno passaggi per ogni task.",
+          "Provala oggi e vedi se basta una sola app."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI sta costruendo un’unica app che raggruppa strumenti, dati e agenti intelligenti per fare al posto tuo. L’obiettivo? Sostituire decine di app che oggi usi in media 4-5 per completare un singolo task. 🧠 Non è solo ChatGPT: dentro c'è di tutto, senza saltare da una finestra all’altra. Per te significa meno passaggi, meno distrazioni e niente più ricerca della scheda giusta. 🎯 Costa meno di un abbonamento Spotify: apri l’app e prova a fare tutto senza mai uscire. Ci riesci? 🔍"
+      }
+    },
+    "instagram_caption": "OpenAI sta costruendo un’unica app che raggruppa strumenti, dati e agenti intelligenti per fare al posto tuo. L’obiettivo? Sostituire decine di app che oggi usi in media 4-5 per completare un singolo task. 🧠 Non è solo ChatGPT: dentro c'è di tutto, senza saltare da una finestra all’altra. Per te significa meno passaggi, meno distrazioni e niente più ricerca della scheda giusta. 🎯 Costa meno di un abbonamento Spotify: apri l’app e prova a fare tutto senza mai uscire. Ci riesci? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Sostituire decine di app con una",
+        "description": "OpenAI ha un piano segreto: sostituire decine di app con una sola. E non è solo ChatGPT.",
+        "visual_hint": "Tante icone app che si fondono in una",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone app icons grid"
+      },
+      {
+        "hook": "Non è solo un chatbot",
+        "description": "Integra strumenti, dati e agenti che agiscono al posto tuo. Non è un semplice assistente vocale.",
+        "visual_hint": "Icone strumenti che ruotano attorno a logo OpenAI",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "artificial intelligence interface",
+        "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Salta tra 4-5 strumenti? Non più",
+        "description": "Finora per completare un task saltavi tra 4-5 app. L'idea è portare tutto dentro un'unica interfaccia.",
+        "visual_hint": "Mani che passano da un dispositivo all'altro",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "multiple devices desk workspace",
+        "image": "https://images.pexels.com/photos/15601232/pexels-photo-15601232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Meno passaggi, meno distrazioni",
+        "description": "Il risultato: meno passaggi, meno tempo perso a cercare la scheda giusta. Un task, un'unica app.",
+        "visual_hint": "Linea del tempo che si accorcia",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person using smartphone single hand",
+        "image": "https://images.pexels.com/photos/26772287/pexels-photo-26772287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova oggi: fai tutto senza uscire",
+        "description": "Apri l'app e vedi se riesci a fare tutto senza mai uscire. Costa meno di un abbonamento Spotify.",
+        "visual_hint": "Confronto prezzo Spotify vs OpenAI",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "spotify vs openai app comparison",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "savedAt": "2026-06-08T02:46:33.900Z",
+    "sourceId": "893947abd01601107420705c411702be"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-trump-administration-might-take-an-equity-stak",
     "prompt_version": "1.0.0",
     "status": "published",
