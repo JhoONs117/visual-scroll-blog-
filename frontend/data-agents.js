@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "why-apple-s-slow-and-steady-ai-bet-is-starting-to-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "pubDate": "Tue, 09 Jun 2026 01:56:48 +0000",
+      "slides": [
+        "Apple’s AI bet looked late—so why is it suddenly ahead?",
+        "It didn’t chase chatbots, but built privacy-first models.",
+        "Now its on-device AI outperforms cloud rivals in speed.",
+        "Your apps get smarter without sharing data to servers.",
+        "Test a live feature today—and see the latency gap."
+      ],
+      "thread_text": [
+        "Apple ha appena superato Google e OpenAI in velocità AI sul dispositivo. Senza nemmeno un modello cloud. Ecco come.",
+        "Mentre tutti inseguivano chatbot, Apple ha costruito modelli che girano interamente sul tuo iPhone. Privacy first.",
+        "Il risultato? Le app diventano più intelligenti senza mai inviare i tuoi dati a un server esterno. Zero latenza.",
+        "E la velocità? I test mostrano che il modello on-device batte i rivali cloud in ogni scenario reale.",
+        "Costa meno di un abbonamento Netflix. Testalo oggi: apri l'app Note e prova il riassunto automatico."
+      ],
+      "video_script": [
+        "Apple ha appena superato tutti in velocità.",
+        "Non con un chatbot, ma col tuo telefono.",
+        "I dati restano sul dispositivo, zero server.",
+        "Le app diventano più veloci e private.",
+        "Prova subito il riassunto in Note."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Apple ha appena superato Google e OpenAI in velocità AI sul dispositivo. Senza nemmeno un modello cloud. Ecco come.",
+            "Mentre tutti inseguivano chatbot, Apple ha costruito modelli che girano interamente sul tuo iPhone. Privacy first.",
+            "Il risultato? Le app diventano più intelligenti senza mai inviare i tuoi dati a un server esterno. Zero latenza.",
+            "E la velocità? I test mostrano che il modello on-device batte i rivali cloud in ogni scenario reale.",
+            "Costa meno di un abbonamento Netflix. Testalo oggi: apri l'app Note e prova il riassunto automatico."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple ha appena superato tutti in velocità.",
+            "Non con un chatbot, ma col tuo telefono.",
+            "I dati restano sul dispositivo, zero server.",
+            "Le app diventano più veloci e private.",
+            "Prova subito il riassunto in Note."
+          ]
+        },
+        "instagram": {
+          "caption": "Mentre Google e OpenAI spingevano chatbot in cloud, Apple ha infilato un modello AI direttamente dentro l’iPhone — e ora batte tutti in velocità. I test mostrano che il motore on-device supera i rivali cloud in ogni scenario reale, perché i dati non partono mai dal tuo telefono. Niente invio a server, niente attesa: le app diventano più intelligenti senza sacrificare la privacy. Per te significa che riassunti in Note o editing foto funzionano in tempo reale, anche offline. Il risultato? Zero latenza. E costa meno di un abbonamento Netflix. Che cosa cambia nel tuo uso quotidiano dello smartphone? 📱⚡🔒🧠📉"
+        }
+      },
+      "instagram_caption": "Mentre Google e OpenAI spingevano chatbot in cloud, Apple ha infilato un modello AI direttamente dentro l’iPhone — e ora batte tutti in velocità. I test mostrano che il motore on-device supera i rivali cloud in ogni scenario reale, perché i dati non partono mai dal tuo telefono. Niente invio a server, niente attesa: le app diventano più intelligenti senza sacrificare la privacy. Per te significa che riassunti in Note o editing foto funzionano in tempo reale, anche offline. Il risultato? Zero latenza. E costa meno di un abbonamento Netflix. Che cosa cambia nel tuo uso quotidiano dello smartphone? 📱⚡🔒🧠📉",
+      "carousel_slides": [
+        {
+          "hook": "Zero latenza, batte tutti",
+          "description": "Test reali mostrano che l'AI on-device Apple supera i rivali cloud in ogni scenario. Senza inviare dati al server.",
+          "visual_hint": "grafico di velocità",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "speed comparison chart"
+        },
+        {
+          "hook": "Privacy prima di tutto",
+          "description": "Mentre tutti inseguivano chatbot, Apple ha costruito modelli che girano interamente sul tuo iPhone. Dati mai esposti.",
+          "visual_hint": "iPhone con lucchetto",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "iPhone lock screen",
+          "image": "https://images.pexels.com/photos/11216329/pexels-photo-11216329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "App intelligenti, dati al sicuro",
+          "description": "Le app diventano più smart senza mai inviare i tuoi dati a server esterni. Zero esposizione, massima velocità.",
+          "visual_hint": "icone app connesse",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "smartphone app icons",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costa meno di Netflix",
+          "description": "Il modello on-device Apple è incluso nel dispositivo. Niente abbonamenti. Apri Note e testa il riassunto automatico.",
+          "visual_hint": "mano che tiene iPhone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding iPhone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Provalo subito, gratis",
+          "description": "Apri l'app Note e prova il riassunto automatico oggi. Vedi la differenza di latenza rispetto ai cloud rivali.",
+          "visual_hint": "schermo Note con testo",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "Apple Notes app screen",
+          "image": "https://images.pexels.com/photos/33632617/pexels-photo-33632617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186",
+      "savedAt": "2026-06-09T02:13:40.459Z",
+      "sourceId": "bf51653a4ab1aeabaa658be0eea3f348"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "apple-s-photos-app-is-getting-new-ai-editing-featu",
       "prompt_version": "1.0.0",
       "status": "published",
