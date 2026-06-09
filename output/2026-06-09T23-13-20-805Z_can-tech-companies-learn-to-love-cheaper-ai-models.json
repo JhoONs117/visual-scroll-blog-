@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "can-tech-companies-learn-to-love-cheaper-ai-models",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Can tech companies learn to love cheaper AI models? ",
+  "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+  "pubDate": "Tue, 09 Jun 2026 18:56:09 +0000",
+  "slides": [
+    "Big tech hates cheaper AI. Why the shift?",
+    "Profit margins on premium models are shrinking.",
+    "Users actually prefer cheaper models for basic tasks.",
+    "Your next cloud bill could drop by 40%.",
+    "Test budget models for your routine work now."
+  ],
+  "thread_text": [
+    "Le Big Tech odiano l'AI a buon mercato. Ma il motivo non è la qualità: è il margine. E sta per cambiare tutto.",
+    "I margini sui modelli premium si stanno riducendo. Le aziende erano abituate a far pagare l'AI come fosse un lusso, ma il mercato non segue più.",
+    "Gli utenti preferiscono i modelli più economici per i task base. Per scrivere un'email o riassumere un documento, spendere di più è solo uno spreco.",
+    "Il risultato? La tua prossima bolletta del cloud potrebbe calare del 40%. I provider iniziano a tagliare i prezzi per adattarsi alla domanda reale.",
+    "Costa meno di un abbonamento Spotify. Inizia oggi stesso su un task ripetitivo e vedi la differenza."
+  ],
+  "video_script": [
+    "Le big tech odiano l'AI economica.",
+    "Perché? I margini stanno crollando.",
+    "Gli utenti scelgono modelli base.",
+    "Bolletta cloud giù del 40%.",
+    "Prova un budget model questa settimana."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Le Big Tech odiano l'AI a buon mercato. Ma il motivo non è la qualità: è il margine. E sta per cambiare tutto.",
+        "I margini sui modelli premium si stanno riducendo. Le aziende erano abituate a far pagare l'AI come fosse un lusso, ma il mercato non segue più.",
+        "Gli utenti preferiscono i modelli più economici per i task base. Per scrivere un'email o riassumere un documento, spendere di più è solo uno spreco.",
+        "Il risultato? La tua prossima bolletta del cloud potrebbe calare del 40%. I provider iniziano a tagliare i prezzi per adattarsi alla domanda reale.",
+        "Costa meno di un abbonamento Spotify. Inizia oggi stesso su un task ripetitivo e vedi la differenza."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Le big tech odiano l'AI economica.",
+        "Perché? I margini stanno crollando.",
+        "Gli utenti scelgono modelli base.",
+        "Bolletta cloud giù del 40%.",
+        "Prova un budget model questa settimana."
+      ]
+    },
+    "instagram": {
+      "caption": "Le Big Tech vedono calare i margini sui modelli AI premium e iniziano a tagliare i prezzi. Gli utenti preferiscono modelli più economici per task base come scrivere email o riassumere documenti: spendere di più è spreco. Risultato? La prossima bolletta del cloud potrebbe calare del 40% ☁️💰. Se usi strumenti AI per lavoro, prova oggi stesso un modello budget su un compito ripetitivo: costa meno di un abbonamento Spotify 🎧. Quanto spenderesti in meno al mese?"
+    }
+  },
+  "instagram_caption": "Le Big Tech vedono calare i margini sui modelli AI premium e iniziano a tagliare i prezzi. Gli utenti preferiscono modelli più economici per task base come scrivere email o riassumere documenti: spendere di più è spreco. Risultato? La prossima bolletta del cloud potrebbe calare del 40% ☁️💰. Se usi strumenti AI per lavoro, prova oggi stesso un modello budget su un compito ripetitivo: costa meno di un abbonamento Spotify 🎧. Quanto spenderesti in meno al mese?",
+  "carousel_slides": [
+    {
+      "hook": "Cheap AI? They hate it.",
+      "description": "Big tech hates cheap AI, but not for quality—it's about their margins. That's about to change.",
+      "visual_hint": "angry executive at desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "angry businessman office"
+    },
+    {
+      "hook": "Premium margins are dying.",
+      "description": "Margins on premium models are shrinking. Companies priced AI as a luxury, but the market isn't following.",
+      "visual_hint": "falling graph with coins",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Users prefer budget models.",
+      "description": "For emails or document summaries, spending more is just waste. Users choose cheaper models for basic tasks.",
+      "visual_hint": "person typing at laptop",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/12662877/pexels-photo-12662877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your cloud bill drops 40%.",
+      "description": "Providers are cutting prices to match real demand. Your next cloud bill could drop by 40%.",
+      "visual_hint": "cloud with falling coins",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "cloud computing server",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one today, save big.",
+      "description": "Costs less than a Spotify subscription. Start on a repetitive task today and see the difference.",
+      "visual_hint": "phone showing budget AI app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone app screen",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675",
+  "savedAt": "2026-06-09T23:13:44.390Z",
+  "sourceId": "c47fbc8c5e7fcac1dae4a86afb211e64"
+}

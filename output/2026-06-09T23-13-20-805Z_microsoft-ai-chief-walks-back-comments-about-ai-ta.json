@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-ai-chief-walks-back-comments-about-ai-ta",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+  "link": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+  "pubDate": "2026-06-09T14:54:51.000Z",
+  "slides": [
+    "Microsoft AI chief says white-collar jobs are safe?",
+    "He had just called AI a replacement threat.",
+    "The reversal hints at internal strategy conflicts.",
+    "Your role may depend on which memo they follow.",
+    "Test your own workflow against AI before deciding."
+  ],
+  "thread_text": [
+    "Microsoft’s AI chief just contradicted his own warning. He said AI is a threat to jobs, then flipped and said white-collar workers are safe. That’s not a clarification. It’s a signal of internal war over strategy.",
+    "One memo says prepare for replacement. Another says relax. Your role’s fate depends on which memo your boss reads—and which side wins inside the company.",
+    "The conflict isn’t about technology. It’s about control. Executives want to sell AI to businesses without panicking their own workforce. That balancing act is cracking.",
+    "When the policy itself is this unstable, betting your career on it is dangerous. You need to test your actual workflow against AI, not wait for a memo that might change tomorrow.",
+    "Take one task you do weekly. Run it through a free AI tool. If it takes less than 5 minutes, that task is already at risk. Do the test today."
+  ],
+  "video_script": [
+    "Microsoft's AI boss just flipped on jobs.",
+    "First he said AI is a threat.",
+    "Then he said white-collar roles are safe.",
+    "That's not confusion—it's a strategy war.",
+    "Your job depends on which memo wins."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Microsoft’s AI chief just contradicted his own warning. He said AI is a threat to jobs, then flipped and said white-collar workers are safe. That’s not a clarification. It’s a signal of internal war over strategy.",
+        "One memo says prepare for replacement. Another says relax. Your role’s fate depends on which memo your boss reads—and which side wins inside the company.",
+        "The conflict isn’t about technology. It’s about control. Executives want to sell AI to businesses without panicking their own workforce. That balancing act is cracking.",
+        "When the policy itself is this unstable, betting your career on it is dangerous. You need to test your actual workflow against AI, not wait for a memo that might change tomorrow.",
+        "Take one task you do weekly. Run it through a free AI tool. If it takes less than 5 minutes, that task is already at risk. Do the test today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft's AI boss just flipped on jobs.",
+        "First he said AI is a threat.",
+        "Then he said white-collar roles are safe.",
+        "That's not confusion—it's a strategy war.",
+        "Your job depends on which memo wins."
+      ]
+    },
+    "instagram": {
+      "caption": "Il capo dell'AI di Microsoft ha detto che gli impiegati sono al sicuro, dopo averli appena definiti a rischio sostituzione. 🔄 Un dietrofront che rivela una guerra interna all'azienda: da una parte vendere l'AI come rivoluzione, dall'altra non far prendere panico ai dipendenti. Il tuo posto dipende da quale memo vince. ⚖️ Se la strategia è così instabile, non aspettare il verdetto: prova un tuo task su uno strumento gratuito. Se ci mette meno di 5 minuti, quel compito è già a rischio. 👀 Hai già testato il tuo lavoro?"
+    }
+  },
+  "instagram_caption": "Il capo dell'AI di Microsoft ha detto che gli impiegati sono al sicuro, dopo averli appena definiti a rischio sostituzione. 🔄 Un dietrofront che rivela una guerra interna all'azienda: da una parte vendere l'AI come rivoluzione, dall'altra non far prendere panico ai dipendenti. Il tuo posto dipende da quale memo vince. ⚖️ Se la strategia è così instabile, non aspettare il verdetto: prova un tuo task su uno strumento gratuito. Se ci mette meno di 5 minuti, quel compito è già a rischio. 👀 Hai già testato il tuo lavoro?",
+  "carousel_slides": [
+    {
+      "hook": "A threat, then safe?",
+      "description": "Microsoft's AI chief reversed his own warning. A sign of internal war over strategy.",
+      "visual_hint": "split screen memos",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "corporate memo documents"
+    },
+    {
+      "hook": "Which memo do you follow?",
+      "description": "One memo says prepare for replacement, another says relax. Your role depends on which side wins.",
+      "visual_hint": "two stacked papers",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "stack of paper memos",
+      "image": "https://images.pexels.com/photos/8580792/pexels-photo-8580792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Control, not technology",
+      "description": "Executives want to sell AI without panicking workers. That balancing act is cracking.",
+      "visual_hint": "tightrope over crowd",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "tightrope walker crowd",
+      "image": "https://images.pexels.com/photos/33056134/pexels-photo-33056134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Don't wait for a memo",
+      "description": "When policy is unstable, test your workflow against AI. Don't bet your career on a memo.",
+      "visual_hint": "hand checking list",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "hand checking checklist",
+      "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your task now",
+      "description": "Take a weekly task, run it through free AI. If it takes under 5 minutes, it's at risk.",
+      "visual_hint": "stopwatch and laptop",
+      "layout_type": "cta-final",
+      "icon": "heart",
+      "image_query": "stopwatch and laptop",
+      "image": "https://images.pexels.com/photos/6289070/pexels-photo-6289070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2219304754.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737892056687%2C100%2C78.524215886627&amp;w=1200",
+  "savedAt": "2026-06-09T23:14:02.056Z",
+  "sourceId": "7f64ac28510fd3d90c23f0707ac8d7d4"
+}

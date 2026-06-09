@@ -3,6 +3,424 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "railway-secures-100-million-to-challenge-aws-with-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "pubDate": "Thu, 22 Jan 2026 14:00:00 GMT",
+      "slides": [
+        "Railway ha $100M per sfidare AWS?",
+        "Creano cloud nativo AI senza server.",
+        "Ma AWS spende $50M al giorno in AI.",
+        "Per startup: costi ridotti del 60%.",
+        "Testa ora una tua app su Railway."
+      ],
+      "thread_text": [
+        "AWS spende 50 milioni di dollari al giorno in AI. Railway ha raccolto 100 milioni in totale. La differenza è 500 a 1. Ecco perché questa sfida è diversa da tutte le altre.",
+        "Railway non costruisce un data center. Costruisce un cloud nativo AI senza server. per le startup significa: zero devops, zero provisioning, solo codice che gira.",
+        "Il risultato? Costi ridotti del 60% rispetto a AWS. Non perché Railway sia più efficiente. Perché con AWS paghi per macchine ferme. Con Railway paghi solo quando la tua AI lavora.",
+        "100 milioni per Railway. 18 miliardi all'anno per AWS in AI. Sembra una battaglia persa. Ma Railway punta sulle startup che AWS ignora. Quelle che non vogliono un ingegnere cloud solo per fare deploy.",
+        "Se hai un'idea AI, oggi puoi testarla su Railway in 10 minuti. Costa meno di un abbonamento Netflix. E se funziona, non devi riscrivere nulla per scalare."
+      ],
+      "video_script": [
+        "AWS spende 50 milioni al giorno in AI.",
+        "Railway ha raccolto solo 100 milioni.",
+        "Il rapporto è 500 a uno.",
+        "Ma Railway ha un asso nella manica.",
+        "Niente server, niente complessità, costi ridotti del 60%.",
+        "Per startup è un affare. Testala oggi."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "AWS spende 50 milioni di dollari al giorno in AI. Railway ha raccolto 100 milioni in totale. La differenza è 500 a 1. Ecco perché questa sfida è diversa da tutte le altre.",
+            "Railway non costruisce un data center. Costruisce un cloud nativo AI senza server. per le startup significa: zero devops, zero provisioning, solo codice che gira.",
+            "Il risultato? Costi ridotti del 60% rispetto a AWS. Non perché Railway sia più efficiente. Perché con AWS paghi per macchine ferme. Con Railway paghi solo quando la tua AI lavora.",
+            "100 milioni per Railway. 18 miliardi all'anno per AWS in AI. Sembra una battaglia persa. Ma Railway punta sulle startup che AWS ignora. Quelle che non vogliono un ingegnere cloud solo per fare deploy.",
+            "Se hai un'idea AI, oggi puoi testarla su Railway in 10 minuti. Costa meno di un abbonamento Netflix. E se funziona, non devi riscrivere nulla per scalare."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AWS spende 50 milioni al giorno in AI.",
+            "Railway ha raccolto solo 100 milioni.",
+            "Il rapporto è 500 a uno.",
+            "Ma Railway ha un asso nella manica.",
+            "Niente server, niente complessità, costi ridotti del 60%.",
+            "Per startup è un affare. Testala oggi."
+          ]
+        },
+        "instagram": {
+          "caption": "Uno dei due spende 50 milioni di dollari al giorno in AI, l'altro ha appena racimolato 100 milioni in totale nel corso della sua storia. 🏦 Railway è il nuovo arrivato: promette un cloud pensato per le startup che non vogliono un ingegnere solo per fare deploy. Senza server, nessun provisioning, meno costi: dicono che si risparmia il 60% rispetto ad AWS. 🚀 Il punto? Non paghi per macchine ferme, solo quando la tua AI lavora. Per chi ha un'idea, oggi si testa in 10 minuti e costa meno di Netflix. Hai mai provato a far girare un modello?"
+        }
+      },
+      "instagram_caption": "Uno dei due spende 50 milioni di dollari al giorno in AI, l'altro ha appena racimolato 100 milioni in totale nel corso della sua storia. 🏦 Railway è il nuovo arrivato: promette un cloud pensato per le startup che non vogliono un ingegnere solo per fare deploy. Senza server, nessun provisioning, meno costi: dicono che si risparmia il 60% rispetto ad AWS. 🚀 Il punto? Non paghi per macchine ferme, solo quando la tua AI lavora. Per chi ha un'idea, oggi si testa in 10 minuti e costa meno di Netflix. Hai mai provato a far girare un modello?",
+      "carousel_slides": [
+        {
+          "hook": "AWS spende $50M al giorno",
+          "description": "Railway ha raccolto $100M totali. Rapporto 500:1. Sfida diversa dalle altre.",
+          "visual_hint": "montagne e un treno",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "mountain railway train"
+        },
+        {
+          "hook": "Cloud nativo AI senza server",
+          "description": "Zero devops, zero provisioning. Solo codice che gira. Per startup.",
+          "visual_hint": "nuvole e server leggero",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server cloud illustration",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costi ridotti del 60%",
+          "description": "Con AWS paghi macchine ferme. Con Railway paghi solo quando la AI lavora.",
+          "visual_hint": "grafico a barre in discesa",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Startup ignorate da AWS",
+          "description": "Railway punta su chi non vuole un ingegnere cloud solo per fare deploy.",
+          "visual_hint": "persona al computer sorridente",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers laptop",
+          "image": "https://images.pexels.com/photos/7437087/pexels-photo-7437087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Testa la tua app in 10 minuti",
+          "description": "Costa meno di Netflix. E se funziona, scala senza riscrivere nulla.",
+          "visual_hint": "telefono con app Railway",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone app interface",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9287993/pexels-photo-9287993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-06-09T23:14:15.799Z",
+      "sourceId": "e670024b9a32e878ab282337aaddf6f9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "microsoft-ai-chief-walks-back-comments-about-ai-ta",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+      "link": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+      "pubDate": "2026-06-09T14:54:51.000Z",
+      "slides": [
+        "Microsoft AI chief says white-collar jobs are safe?",
+        "He had just called AI a replacement threat.",
+        "The reversal hints at internal strategy conflicts.",
+        "Your role may depend on which memo they follow.",
+        "Test your own workflow against AI before deciding."
+      ],
+      "thread_text": [
+        "Microsoft’s AI chief just contradicted his own warning. He said AI is a threat to jobs, then flipped and said white-collar workers are safe. That’s not a clarification. It’s a signal of internal war over strategy.",
+        "One memo says prepare for replacement. Another says relax. Your role’s fate depends on which memo your boss reads—and which side wins inside the company.",
+        "The conflict isn’t about technology. It’s about control. Executives want to sell AI to businesses without panicking their own workforce. That balancing act is cracking.",
+        "When the policy itself is this unstable, betting your career on it is dangerous. You need to test your actual workflow against AI, not wait for a memo that might change tomorrow.",
+        "Take one task you do weekly. Run it through a free AI tool. If it takes less than 5 minutes, that task is already at risk. Do the test today."
+      ],
+      "video_script": [
+        "Microsoft's AI boss just flipped on jobs.",
+        "First he said AI is a threat.",
+        "Then he said white-collar roles are safe.",
+        "That's not confusion—it's a strategy war.",
+        "Your job depends on which memo wins."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Microsoft’s AI chief just contradicted his own warning. He said AI is a threat to jobs, then flipped and said white-collar workers are safe. That’s not a clarification. It’s a signal of internal war over strategy.",
+            "One memo says prepare for replacement. Another says relax. Your role’s fate depends on which memo your boss reads—and which side wins inside the company.",
+            "The conflict isn’t about technology. It’s about control. Executives want to sell AI to businesses without panicking their own workforce. That balancing act is cracking.",
+            "When the policy itself is this unstable, betting your career on it is dangerous. You need to test your actual workflow against AI, not wait for a memo that might change tomorrow.",
+            "Take one task you do weekly. Run it through a free AI tool. If it takes less than 5 minutes, that task is already at risk. Do the test today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft's AI boss just flipped on jobs.",
+            "First he said AI is a threat.",
+            "Then he said white-collar roles are safe.",
+            "That's not confusion—it's a strategy war.",
+            "Your job depends on which memo wins."
+          ]
+        },
+        "instagram": {
+          "caption": "Il capo dell'AI di Microsoft ha detto che gli impiegati sono al sicuro, dopo averli appena definiti a rischio sostituzione. 🔄 Un dietrofront che rivela una guerra interna all'azienda: da una parte vendere l'AI come rivoluzione, dall'altra non far prendere panico ai dipendenti. Il tuo posto dipende da quale memo vince. ⚖️ Se la strategia è così instabile, non aspettare il verdetto: prova un tuo task su uno strumento gratuito. Se ci mette meno di 5 minuti, quel compito è già a rischio. 👀 Hai già testato il tuo lavoro?"
+        }
+      },
+      "instagram_caption": "Il capo dell'AI di Microsoft ha detto che gli impiegati sono al sicuro, dopo averli appena definiti a rischio sostituzione. 🔄 Un dietrofront che rivela una guerra interna all'azienda: da una parte vendere l'AI come rivoluzione, dall'altra non far prendere panico ai dipendenti. Il tuo posto dipende da quale memo vince. ⚖️ Se la strategia è così instabile, non aspettare il verdetto: prova un tuo task su uno strumento gratuito. Se ci mette meno di 5 minuti, quel compito è già a rischio. 👀 Hai già testato il tuo lavoro?",
+      "carousel_slides": [
+        {
+          "hook": "A threat, then safe?",
+          "description": "Microsoft's AI chief reversed his own warning. A sign of internal war over strategy.",
+          "visual_hint": "split screen memos",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "corporate memo documents"
+        },
+        {
+          "hook": "Which memo do you follow?",
+          "description": "One memo says prepare for replacement, another says relax. Your role depends on which side wins.",
+          "visual_hint": "two stacked papers",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "stack of paper memos",
+          "image": "https://images.pexels.com/photos/8580792/pexels-photo-8580792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Control, not technology",
+          "description": "Executives want to sell AI without panicking workers. That balancing act is cracking.",
+          "visual_hint": "tightrope over crowd",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "tightrope walker crowd",
+          "image": "https://images.pexels.com/photos/33056134/pexels-photo-33056134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Don't wait for a memo",
+          "description": "When policy is unstable, test your workflow against AI. Don't bet your career on a memo.",
+          "visual_hint": "hand checking list",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "hand checking checklist",
+          "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your task now",
+          "description": "Take a weekly task, run it through free AI. If it takes under 5 minutes, it's at risk.",
+          "visual_hint": "stopwatch and laptop",
+          "layout_type": "cta-final",
+          "icon": "heart",
+          "image_query": "stopwatch and laptop",
+          "image": "https://images.pexels.com/photos/6289070/pexels-photo-6289070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2219304754.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737892056687%2C100%2C78.524215886627&amp;w=1200",
+      "savedAt": "2026-06-09T23:14:02.056Z",
+      "sourceId": "7f64ac28510fd3d90c23f0707ac8d7d4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "can-tech-companies-learn-to-love-cheaper-ai-models",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Can tech companies learn to love cheaper AI models? ",
+      "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "pubDate": "Tue, 09 Jun 2026 18:56:09 +0000",
+      "slides": [
+        "Big tech hates cheaper AI. Why the shift?",
+        "Profit margins on premium models are shrinking.",
+        "Users actually prefer cheaper models for basic tasks.",
+        "Your next cloud bill could drop by 40%.",
+        "Test budget models for your routine work now."
+      ],
+      "thread_text": [
+        "Le Big Tech odiano l'AI a buon mercato. Ma il motivo non è la qualità: è il margine. E sta per cambiare tutto.",
+        "I margini sui modelli premium si stanno riducendo. Le aziende erano abituate a far pagare l'AI come fosse un lusso, ma il mercato non segue più.",
+        "Gli utenti preferiscono i modelli più economici per i task base. Per scrivere un'email o riassumere un documento, spendere di più è solo uno spreco.",
+        "Il risultato? La tua prossima bolletta del cloud potrebbe calare del 40%. I provider iniziano a tagliare i prezzi per adattarsi alla domanda reale.",
+        "Costa meno di un abbonamento Spotify. Inizia oggi stesso su un task ripetitivo e vedi la differenza."
+      ],
+      "video_script": [
+        "Le big tech odiano l'AI economica.",
+        "Perché? I margini stanno crollando.",
+        "Gli utenti scelgono modelli base.",
+        "Bolletta cloud giù del 40%.",
+        "Prova un budget model questa settimana."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Le Big Tech odiano l'AI a buon mercato. Ma il motivo non è la qualità: è il margine. E sta per cambiare tutto.",
+            "I margini sui modelli premium si stanno riducendo. Le aziende erano abituate a far pagare l'AI come fosse un lusso, ma il mercato non segue più.",
+            "Gli utenti preferiscono i modelli più economici per i task base. Per scrivere un'email o riassumere un documento, spendere di più è solo uno spreco.",
+            "Il risultato? La tua prossima bolletta del cloud potrebbe calare del 40%. I provider iniziano a tagliare i prezzi per adattarsi alla domanda reale.",
+            "Costa meno di un abbonamento Spotify. Inizia oggi stesso su un task ripetitivo e vedi la differenza."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Le big tech odiano l'AI economica.",
+            "Perché? I margini stanno crollando.",
+            "Gli utenti scelgono modelli base.",
+            "Bolletta cloud giù del 40%.",
+            "Prova un budget model questa settimana."
+          ]
+        },
+        "instagram": {
+          "caption": "Le Big Tech vedono calare i margini sui modelli AI premium e iniziano a tagliare i prezzi. Gli utenti preferiscono modelli più economici per task base come scrivere email o riassumere documenti: spendere di più è spreco. Risultato? La prossima bolletta del cloud potrebbe calare del 40% ☁️💰. Se usi strumenti AI per lavoro, prova oggi stesso un modello budget su un compito ripetitivo: costa meno di un abbonamento Spotify 🎧. Quanto spenderesti in meno al mese?"
+        }
+      },
+      "instagram_caption": "Le Big Tech vedono calare i margini sui modelli AI premium e iniziano a tagliare i prezzi. Gli utenti preferiscono modelli più economici per task base come scrivere email o riassumere documenti: spendere di più è spreco. Risultato? La prossima bolletta del cloud potrebbe calare del 40% ☁️💰. Se usi strumenti AI per lavoro, prova oggi stesso un modello budget su un compito ripetitivo: costa meno di un abbonamento Spotify 🎧. Quanto spenderesti in meno al mese?",
+      "carousel_slides": [
+        {
+          "hook": "Cheap AI? They hate it.",
+          "description": "Big tech hates cheap AI, but not for quality—it's about their margins. That's about to change.",
+          "visual_hint": "angry executive at desk",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "angry businessman office"
+        },
+        {
+          "hook": "Premium margins are dying.",
+          "description": "Margins on premium models are shrinking. Companies priced AI as a luxury, but the market isn't following.",
+          "visual_hint": "falling graph with coins",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Users prefer budget models.",
+          "description": "For emails or document summaries, spending more is just waste. Users choose cheaper models for basic tasks.",
+          "visual_hint": "person typing at laptop",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "person typing laptop",
+          "image": "https://images.pexels.com/photos/12662877/pexels-photo-12662877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your cloud bill drops 40%.",
+          "description": "Providers are cutting prices to match real demand. Your next cloud bill could drop by 40%.",
+          "visual_hint": "cloud with falling coins",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "cloud computing server",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one today, save big.",
+          "description": "Costs less than a Spotify subscription. Start on a repetitive task today and see the difference.",
+          "visual_hint": "phone showing budget AI app",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone app screen",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675",
+      "savedAt": "2026-06-09T23:13:44.390Z",
+      "sourceId": "c47fbc8c5e7fcac1dae4a86afb211e64"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "gm-joins-race-to-build-batteries-for-ai-data-cente",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "GM joins race to build batteries for AI data centers and the grid",
+      "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+      "pubDate": "Tue, 09 Jun 2026 21:00:00 +0000",
+      "slides": [
+        "GM now builds batteries—but for data centers?",
+        "It targets AI backup, not just EVs.",
+        "Their first grid battery costs less than Tesla’s.",
+        "Your next data center lease may include GM cells.",
+        "Compare their timeline: can they deliver before 2026?"
+      ],
+      "thread_text": [
+        "GM ha costruito una batteria che costa meno di quella di Tesla. Non serve per le auto—serve per l'AI.",
+        "I data center consumano sempre più energia per far girare modelli di intelligenza artificiale. GM ha deciso di entrare nel mercato delle batterie di backup per data center, non solo per le auto elettriche.",
+        "La loro prima batteria per la rete costa meno di quella di Tesla. Questo cambia le regole del gioco per chi costruisce data center e cerca soluzioni di accumulo affidabili e a basso costo.",
+        "Prossimo contratto di affitto per il tuo data center? Potrebbe includere celle GM per l'alimentazione di backup. È già in fase di commercializzazione.",
+        "L'obiettivo è consegnare entro il 2026. GM ha già una supply chain per auto elettriche—la domanda è se riescono a scalare per i data center entro quella data."
+      ],
+      "video_script": [
+        "GM fa batterie, ma non per le auto.",
+        "Target: data center e AI backup.",
+        "Costa meno di quelle di Tesla.",
+        "Prossimo contratto con celle GM?",
+        "Consegna entro il 2026—ce la fanno?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "GM ha costruito una batteria che costa meno di quella di Tesla. Non serve per le auto—serve per l'AI.",
+            "I data center consumano sempre più energia per far girare modelli di intelligenza artificiale. GM ha deciso di entrare nel mercato delle batterie di backup per data center, non solo per le auto elettriche.",
+            "La loro prima batteria per la rete costa meno di quella di Tesla. Questo cambia le regole del gioco per chi costruisce data center e cerca soluzioni di accumulo affidabili e a basso costo.",
+            "Prossimo contratto di affitto per il tuo data center? Potrebbe includere celle GM per l'alimentazione di backup. È già in fase di commercializzazione.",
+            "L'obiettivo è consegnare entro il 2026. GM ha già una supply chain per auto elettriche—la domanda è se riescono a scalare per i data center entro quella data."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "GM fa batterie, ma non per le auto.",
+            "Target: data center e AI backup.",
+            "Costa meno di quelle di Tesla.",
+            "Prossimo contratto con celle GM?",
+            "Consegna entro il 2026—ce la fanno?"
+          ]
+        },
+        "instagram": {
+          "caption": "General Motors ha appena presentato una batteria per data center che costa meno di quella di Tesla ⚡. Non serve per le auto elettriche, ma per tenere accesi i computer che fanno girare modelli di intelligenza artificiale. I data center consumano sempre più energia e GM è entrata in questo mercato con una soluzione di accumulo già in fase di commercializzazione, sfruttando la sua filiera produttiva. Il tuo prossimo contratto di affitto per server potrebbe includere celle GM per il backup energetico. Riusciranno a consegnare tutto entro il 2026? 🔋"
+        }
+      },
+      "instagram_caption": "General Motors ha appena presentato una batteria per data center che costa meno di quella di Tesla ⚡. Non serve per le auto elettriche, ma per tenere accesi i computer che fanno girare modelli di intelligenza artificiale. I data center consumano sempre più energia e GM è entrata in questo mercato con una soluzione di accumulo già in fase di commercializzazione, sfruttando la sua filiera produttiva. Il tuo prossimo contratto di affitto per server potrebbe includere celle GM per il backup energetico. Riusciranno a consegnare tutto entro il 2026? 🔋",
+      "carousel_slides": [
+        {
+          "hook": "GM batteria meno di Tesla",
+          "description": "GM costruisce batterie per AI data center non solo auto. Costano meno di quelle di Tesla.",
+          "visual_hint": "batteria industriale grande",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "large battery storage unit"
+        },
+        {
+          "hook": "Backup per AI, non EV",
+          "description": "I data center consumano sempre più energia. GM entra nel backup per AI, non solo per auto.",
+          "visual_hint": "server rack con luci LED",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prima batteria rete più economica",
+          "description": "La prima batteria per la rete costa meno di quella Tesla. Cambia le regole per i data center.",
+          "visual_hint": "grafico confronto prezzi",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "price comparison chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prossimo lease con celle GM",
+          "description": "Il prossimo contratto di affitto per il tuo data center potrebbe includere celle GM per backup.",
+          "visual_hint": "mano firma contratto data center",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand signing contract",
+          "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Consegna entro il 2026?",
+          "description": "GM ha supply chain auto elettriche, ma riuscirà a scalare per i data center entro il 2026?",
+          "visual_hint": "calendario con data 2026",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar 2026",
+          "image": "https://images.pexels.com/photos/33105083/pexels-photo-33105083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/gm-headquarters-getty.jpg?resize=1200,800",
+      "savedAt": "2026-06-09T23:13:33.127Z",
+      "sourceId": "4fb5b3484d33b9a18b0b10fcad619036"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-files-for-ipo-following-anthropic",
       "prompt_version": "1.0.0",
       "status": "published",

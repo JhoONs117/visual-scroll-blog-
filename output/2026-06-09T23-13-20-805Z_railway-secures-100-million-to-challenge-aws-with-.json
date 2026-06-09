@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "railway-secures-100-million-to-challenge-aws-with-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+  "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+  "pubDate": "Thu, 22 Jan 2026 14:00:00 GMT",
+  "slides": [
+    "Railway ha $100M per sfidare AWS?",
+    "Creano cloud nativo AI senza server.",
+    "Ma AWS spende $50M al giorno in AI.",
+    "Per startup: costi ridotti del 60%.",
+    "Testa ora una tua app su Railway."
+  ],
+  "thread_text": [
+    "AWS spende 50 milioni di dollari al giorno in AI. Railway ha raccolto 100 milioni in totale. La differenza è 500 a 1. Ecco perché questa sfida è diversa da tutte le altre.",
+    "Railway non costruisce un data center. Costruisce un cloud nativo AI senza server. per le startup significa: zero devops, zero provisioning, solo codice che gira.",
+    "Il risultato? Costi ridotti del 60% rispetto a AWS. Non perché Railway sia più efficiente. Perché con AWS paghi per macchine ferme. Con Railway paghi solo quando la tua AI lavora.",
+    "100 milioni per Railway. 18 miliardi all'anno per AWS in AI. Sembra una battaglia persa. Ma Railway punta sulle startup che AWS ignora. Quelle che non vogliono un ingegnere cloud solo per fare deploy.",
+    "Se hai un'idea AI, oggi puoi testarla su Railway in 10 minuti. Costa meno di un abbonamento Netflix. E se funziona, non devi riscrivere nulla per scalare."
+  ],
+  "video_script": [
+    "AWS spende 50 milioni al giorno in AI.",
+    "Railway ha raccolto solo 100 milioni.",
+    "Il rapporto è 500 a uno.",
+    "Ma Railway ha un asso nella manica.",
+    "Niente server, niente complessità, costi ridotti del 60%.",
+    "Per startup è un affare. Testala oggi."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "AWS spende 50 milioni di dollari al giorno in AI. Railway ha raccolto 100 milioni in totale. La differenza è 500 a 1. Ecco perché questa sfida è diversa da tutte le altre.",
+        "Railway non costruisce un data center. Costruisce un cloud nativo AI senza server. per le startup significa: zero devops, zero provisioning, solo codice che gira.",
+        "Il risultato? Costi ridotti del 60% rispetto a AWS. Non perché Railway sia più efficiente. Perché con AWS paghi per macchine ferme. Con Railway paghi solo quando la tua AI lavora.",
+        "100 milioni per Railway. 18 miliardi all'anno per AWS in AI. Sembra una battaglia persa. Ma Railway punta sulle startup che AWS ignora. Quelle che non vogliono un ingegnere cloud solo per fare deploy.",
+        "Se hai un'idea AI, oggi puoi testarla su Railway in 10 minuti. Costa meno di un abbonamento Netflix. E se funziona, non devi riscrivere nulla per scalare."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AWS spende 50 milioni al giorno in AI.",
+        "Railway ha raccolto solo 100 milioni.",
+        "Il rapporto è 500 a uno.",
+        "Ma Railway ha un asso nella manica.",
+        "Niente server, niente complessità, costi ridotti del 60%.",
+        "Per startup è un affare. Testala oggi."
+      ]
+    },
+    "instagram": {
+      "caption": "Uno dei due spende 50 milioni di dollari al giorno in AI, l'altro ha appena racimolato 100 milioni in totale nel corso della sua storia. 🏦 Railway è il nuovo arrivato: promette un cloud pensato per le startup che non vogliono un ingegnere solo per fare deploy. Senza server, nessun provisioning, meno costi: dicono che si risparmia il 60% rispetto ad AWS. 🚀 Il punto? Non paghi per macchine ferme, solo quando la tua AI lavora. Per chi ha un'idea, oggi si testa in 10 minuti e costa meno di Netflix. Hai mai provato a far girare un modello?"
+    }
+  },
+  "instagram_caption": "Uno dei due spende 50 milioni di dollari al giorno in AI, l'altro ha appena racimolato 100 milioni in totale nel corso della sua storia. 🏦 Railway è il nuovo arrivato: promette un cloud pensato per le startup che non vogliono un ingegnere solo per fare deploy. Senza server, nessun provisioning, meno costi: dicono che si risparmia il 60% rispetto ad AWS. 🚀 Il punto? Non paghi per macchine ferme, solo quando la tua AI lavora. Per chi ha un'idea, oggi si testa in 10 minuti e costa meno di Netflix. Hai mai provato a far girare un modello?",
+  "carousel_slides": [
+    {
+      "hook": "AWS spende $50M al giorno",
+      "description": "Railway ha raccolto $100M totali. Rapporto 500:1. Sfida diversa dalle altre.",
+      "visual_hint": "montagne e un treno",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "mountain railway train"
+    },
+    {
+      "hook": "Cloud nativo AI senza server",
+      "description": "Zero devops, zero provisioning. Solo codice che gira. Per startup.",
+      "visual_hint": "nuvole e server leggero",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server cloud illustration",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costi ridotti del 60%",
+      "description": "Con AWS paghi macchine ferme. Con Railway paghi solo quando la AI lavora.",
+      "visual_hint": "grafico a barre in discesa",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Startup ignorate da AWS",
+      "description": "Railway punta su chi non vuole un ingegnere cloud solo per fare deploy.",
+      "visual_hint": "persona al computer sorridente",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers laptop",
+      "image": "https://images.pexels.com/photos/7437087/pexels-photo-7437087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Testa la tua app in 10 minuti",
+      "description": "Costa meno di Netflix. E se funziona, scala senza riscrivere nulla.",
+      "visual_hint": "telefono con app Railway",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone app interface",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/9287993/pexels-photo-9287993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-09T23:14:15.799Z",
+  "sourceId": "e670024b9a32e878ab282337aaddf6f9"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "gm-joins-race-to-build-batteries-for-ai-data-cente",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "GM joins race to build batteries for AI data centers and the grid",
+  "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+  "pubDate": "Tue, 09 Jun 2026 21:00:00 +0000",
+  "slides": [
+    "GM now builds batteries—but for data centers?",
+    "It targets AI backup, not just EVs.",
+    "Their first grid battery costs less than Tesla’s.",
+    "Your next data center lease may include GM cells.",
+    "Compare their timeline: can they deliver before 2026?"
+  ],
+  "thread_text": [
+    "GM ha costruito una batteria che costa meno di quella di Tesla. Non serve per le auto—serve per l'AI.",
+    "I data center consumano sempre più energia per far girare modelli di intelligenza artificiale. GM ha deciso di entrare nel mercato delle batterie di backup per data center, non solo per le auto elettriche.",
+    "La loro prima batteria per la rete costa meno di quella di Tesla. Questo cambia le regole del gioco per chi costruisce data center e cerca soluzioni di accumulo affidabili e a basso costo.",
+    "Prossimo contratto di affitto per il tuo data center? Potrebbe includere celle GM per l'alimentazione di backup. È già in fase di commercializzazione.",
+    "L'obiettivo è consegnare entro il 2026. GM ha già una supply chain per auto elettriche—la domanda è se riescono a scalare per i data center entro quella data."
+  ],
+  "video_script": [
+    "GM fa batterie, ma non per le auto.",
+    "Target: data center e AI backup.",
+    "Costa meno di quelle di Tesla.",
+    "Prossimo contratto con celle GM?",
+    "Consegna entro il 2026—ce la fanno?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "GM ha costruito una batteria che costa meno di quella di Tesla. Non serve per le auto—serve per l'AI.",
+        "I data center consumano sempre più energia per far girare modelli di intelligenza artificiale. GM ha deciso di entrare nel mercato delle batterie di backup per data center, non solo per le auto elettriche.",
+        "La loro prima batteria per la rete costa meno di quella di Tesla. Questo cambia le regole del gioco per chi costruisce data center e cerca soluzioni di accumulo affidabili e a basso costo.",
+        "Prossimo contratto di affitto per il tuo data center? Potrebbe includere celle GM per l'alimentazione di backup. È già in fase di commercializzazione.",
+        "L'obiettivo è consegnare entro il 2026. GM ha già una supply chain per auto elettriche—la domanda è se riescono a scalare per i data center entro quella data."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "GM fa batterie, ma non per le auto.",
+        "Target: data center e AI backup.",
+        "Costa meno di quelle di Tesla.",
+        "Prossimo contratto con celle GM?",
+        "Consegna entro il 2026—ce la fanno?"
+      ]
+    },
+    "instagram": {
+      "caption": "General Motors ha appena presentato una batteria per data center che costa meno di quella di Tesla ⚡. Non serve per le auto elettriche, ma per tenere accesi i computer che fanno girare modelli di intelligenza artificiale. I data center consumano sempre più energia e GM è entrata in questo mercato con una soluzione di accumulo già in fase di commercializzazione, sfruttando la sua filiera produttiva. Il tuo prossimo contratto di affitto per server potrebbe includere celle GM per il backup energetico. Riusciranno a consegnare tutto entro il 2026? 🔋"
+    }
+  },
+  "instagram_caption": "General Motors ha appena presentato una batteria per data center che costa meno di quella di Tesla ⚡. Non serve per le auto elettriche, ma per tenere accesi i computer che fanno girare modelli di intelligenza artificiale. I data center consumano sempre più energia e GM è entrata in questo mercato con una soluzione di accumulo già in fase di commercializzazione, sfruttando la sua filiera produttiva. Il tuo prossimo contratto di affitto per server potrebbe includere celle GM per il backup energetico. Riusciranno a consegnare tutto entro il 2026? 🔋",
+  "carousel_slides": [
+    {
+      "hook": "GM batteria meno di Tesla",
+      "description": "GM costruisce batterie per AI data center non solo auto. Costano meno di quelle di Tesla.",
+      "visual_hint": "batteria industriale grande",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "large battery storage unit"
+    },
+    {
+      "hook": "Backup per AI, non EV",
+      "description": "I data center consumano sempre più energia. GM entra nel backup per AI, non solo per auto.",
+      "visual_hint": "server rack con luci LED",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prima batteria rete più economica",
+      "description": "La prima batteria per la rete costa meno di quella Tesla. Cambia le regole per i data center.",
+      "visual_hint": "grafico confronto prezzi",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "price comparison chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prossimo lease con celle GM",
+      "description": "Il prossimo contratto di affitto per il tuo data center potrebbe includere celle GM per backup.",
+      "visual_hint": "mano firma contratto data center",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand signing contract",
+      "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Consegna entro il 2026?",
+      "description": "GM ha supply chain auto elettriche, ma riuscirà a scalare per i data center entro il 2026?",
+      "visual_hint": "calendario con data 2026",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar 2026",
+      "image": "https://images.pexels.com/photos/33105083/pexels-photo-33105083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/gm-headquarters-getty.jpg?resize=1200,800",
+  "savedAt": "2026-06-09T23:13:33.127Z",
+  "sourceId": "4fb5b3484d33b9a18b0b10fcad619036"
+}
