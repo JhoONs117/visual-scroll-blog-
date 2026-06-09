@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-s-ai-pitch-will-live-or-die-by-its-privacy-p",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple’s AI pitch will live or die by its privacy promise",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
+  "pubDate": "2026-06-09T12:55:33.000Z",
+  "slides": [
+    "Apple punta tutto sulla privacy, ma basterà?",
+    "L'AI elabora i dati direttamente sul dispositivo.",
+    "I rivali mandano tutto nel cloud: differenza enorme.",
+    "Non dovrai più scegliere tra funzionalità e controllo.",
+    "Prova a chiedere a Siri un dato sensibile oggi."
+  ],
+  "thread_text": [
+    "I rivali mandano tutto nel cloud mentre Apple elabora i dati sul dispositivo. Differenza enorme.",
+    "Finora per avere funzionalità dovevi cedere il controllo dei tuoi dati. Apple cambia le regole.",
+    "L'AI lavora direttamente sul telefono: nessun invio esterno, nessun rischio per la privacy.",
+    "Non dovrai più scegliere tra funzionalità e controllo. Ora hai entrambi senza compromessi.",
+    "Prova a chiedere a Siri un dato sensibile oggi. Il risultato ti sorprenderà."
+  ],
+  "video_script": [
+    "Apple punta tutto sulla privacy.",
+    "I dati restano sul tuo telefono.",
+    "I rivali li mandano nel cloud.",
+    "Non devi più scegliere tra funzionalità e controllo.",
+    "Chiedi a Siri un dato sensibile."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "I rivali mandano tutto nel cloud mentre Apple elabora i dati sul dispositivo. Differenza enorme.",
+        "Finora per avere funzionalità dovevi cedere il controllo dei tuoi dati. Apple cambia le regole.",
+        "L'AI lavora direttamente sul telefono: nessun invio esterno, nessun rischio per la privacy.",
+        "Non dovrai più scegliere tra funzionalità e controllo. Ora hai entrambi senza compromessi.",
+        "Prova a chiedere a Siri un dato sensibile oggi. Il risultato ti sorprenderà."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple punta tutto sulla privacy.",
+        "I dati restano sul tuo telefono.",
+        "I rivali li mandano nel cloud.",
+        "Non devi più scegliere tra funzionalità e controllo.",
+        "Chiedi a Siri un dato sensibile."
+      ]
+    },
+    "instagram": {
+      "caption": "Mentre i rivali mandano i tuoi dati sensibili nel cloud per far funzionare l'AI, Apple li elabora direttamente sul telefono, senza inviarli fuori. La differenza è radicale: finora per avere funzionalità dovevi cedere il controllo, ora la privacy non è più un optional. Significa che puoi chiedere a Siri informazioni personali sapendo che restano sul tuo dispositivo, non su server esterni. Hai mai provato a chiedere un dato privato all'assistente vocale di un concorrente?"
+    }
+  },
+  "instagram_caption": "Mentre i rivali mandano i tuoi dati sensibili nel cloud per far funzionare l'AI, Apple li elabora direttamente sul telefono, senza inviarli fuori. La differenza è radicale: finora per avere funzionalità dovevi cedere il controllo, ora la privacy non è più un optional. Significa che puoi chiedere a Siri informazioni personali sapendo che restano sul tuo dispositivo, non su server esterni. Hai mai provato a chiedere un dato privato all'assistente vocale di un concorrente?",
+  "carousel_slides": [
+    {
+      "hook": "I rivali mandano tutto nel cloud",
+      "description": "Mentre Apple elabora i dati sul dispositivo. Differenza enorme per la tua privacy.",
+      "visual_hint": "dati che volano nel cloud",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Finora sceglievi tra funzionalità e controllo",
+      "description": "Apple cambia le regole. Ora hai entrambi senza compromessi.",
+      "visual_hint": "bilancia con due piatti",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "balance scale",
+      "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "L'AI lavora direttamente sul telefono",
+      "description": "Nessun invio esterno, nessun rischio per la privacy. Tutto resta sul dispositivo.",
+      "visual_hint": "chip con luci di processo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microchip close up",
+      "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova a chiedere a Siri un dato sensibile",
+      "description": "Il risultato ti sorprenderà. L'elaborazione locale protegge ogni tua informazione.",
+      "visual_hint": "mano che tocca schermo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching smartphone",
+      "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non dovrai più scegliere",
+      "description": "Tra funzionalità e controllo. Ora hai entrambi senza compromessi. Provalo oggi.",
+      "visual_hint": "spunta verde su scudo",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "green checkmark shield",
+      "image": "https://images.pexels.com/photos/6289038/pexels-photo-6289038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/apple-intelligence-siri-ai-private-cloud-compute.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-09T17:54:43.306Z",
+  "sourceId": "28598c8b1ad868e98c8175ed90636932"
+}

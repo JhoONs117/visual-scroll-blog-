@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-files-for-ipo-following-anthropic",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI files for IPO, following Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+      "pubDate": "2026-06-08T21:38:29.000Z",
+      "slides": [
+        "OpenAI punta alla borsa, ma non è sola.",
+        "Anthropic ha appena depositato i documenti.",
+        "La competizione si sposta dai modelli ai mercati.",
+        "Chi investe ora decide il futuro dell'AI.",
+        "Controllate gli archivi SEC prima del prossimo annuncio."
+      ],
+      "thread_text": [
+        "La competizione nell'AI si sta spostando dai modelli ai mercati. Chi controlla i listini deciderà il futuro del settore.",
+        "OpenAI ha già depositato i documenti per la borsa. Il loro obiettivo è raccogliere capitali per scalare prima degli altri.",
+        "Anthropic ha appena seguito l'esempio. Ora entrambi giocano la stessa partita: quotarsi per attrarre investitori.",
+        "Chi investe oggi non scommette su un modello, ma su chi dominerà l'ecosistema. Le mosse finanziarie definiscono le regole.",
+        "Controllate gli archivi SEC prima del prossimo annuncio. I prossimi 30 giorni possono ridefinire le leadership di mercato."
+      ],
+      "video_script": [
+        "La competizione si sposta dai modelli ai mercati.",
+        "OpenAI punta alla borsa con i documenti già depositati.",
+        "Anthropic ha appena fatto lo stesso.",
+        "Chi investe ora decide il futuro dell'AI.",
+        "Controlla gli archivi SEC prima del prossimo annuncio."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "La competizione nell'AI si sta spostando dai modelli ai mercati. Chi controlla i listini deciderà il futuro del settore.",
+            "OpenAI ha già depositato i documenti per la borsa. Il loro obiettivo è raccogliere capitali per scalare prima degli altri.",
+            "Anthropic ha appena seguito l'esempio. Ora entrambi giocano la stessa partita: quotarsi per attrarre investitori.",
+            "Chi investe oggi non scommette su un modello, ma su chi dominerà l'ecosistema. Le mosse finanziarie definiscono le regole.",
+            "Controllate gli archivi SEC prima del prossimo annuncio. I prossimi 30 giorni possono ridefinire le leadership di mercato."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "La competizione si sposta dai modelli ai mercati.",
+            "OpenAI punta alla borsa con i documenti già depositati.",
+            "Anthropic ha appena fatto lo stesso.",
+            "Chi investe ora decide il futuro dell'AI.",
+            "Controlla gli archivi SEC prima del prossimo annuncio."
+          ]
+        },
+        "instagram": {
+          "caption": "OpenAI ha depositato i documenti per la quotazione in borsa, e Anthropic ha fatto lo stesso subito dopo.  \nLa vera partita non è più su chi costruisce il modello migliore, ma su chi attira più capitali dagli investitori. Entrambe vogliono scalare finanziariamente per dettare le regole del mercato.  \nQuesto significa che le prossime decisioni di Wall Street decideranno quali strumenti saranno disponibili per il tuo lavoro tra due anni.  \nAvete già controllato gli archivi SEC? Le prossime settimane possono ridisegnare la leadership del settore 📊🏦🤖🗂️"
+        }
+      },
+      "instagram_caption": "OpenAI ha depositato i documenti per la quotazione in borsa, e Anthropic ha fatto lo stesso subito dopo.  \nLa vera partita non è più su chi costruisce il modello migliore, ma su chi attira più capitali dagli investitori. Entrambe vogliono scalare finanziariamente per dettare le regole del mercato.  \nQuesto significa che le prossime decisioni di Wall Street decideranno quali strumenti saranno disponibili per il tuo lavoro tra due anni.  \nAvete già controllato gli archivi SEC? Le prossime settimane possono ridisegnare la leadership del settore 📊🏦🤖🗂️",
+      "carousel_slides": [
+        {
+          "hook": "La partita è cambiata",
+          "description": "La competizione nell'AI si sposta dai modelli ai mercati azionari.",
+          "visual_hint": "Grafico borsa in salita",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "OpenAI guida la corsa",
+          "description": "OpenAI ha depositato i documenti per quotarsi e raccogliere capitali prima degli altri.",
+          "visual_hint": "Documenti finanziari impilati",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "sec filing documents",
+          "image": "https://images.pexels.com/photos/12911303/pexels-photo-12911303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Anthropic segue a ruota",
+          "description": "Anthropic ha appena imitato la mossa: entrambi puntano agli investitori.",
+          "visual_hint": "Due frecce parallele in su",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "office building facade",
+          "image": "https://images.pexels.com/photos/3137040/pexels-photo-3137040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Investire nell'ecosistema",
+          "description": "Chi investe oggi scommette su chi dominerà l'intero ecosistema AI, non su un modello.",
+          "visual_hint": "Mano che clicca mouse",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand pressing button",
+          "image": "https://images.pexels.com/photos/9461215/pexels-photo-9461215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Controlla gli archivi SEC",
+          "description": "I prossimi 30 giorni possono ridefinire le leadership di mercato. Segui i documenti.",
+          "visual_hint": "Lente d'ingrandimento su foglio",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "magnifying glass document",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-06-09T17:54:57.432Z",
+      "sourceId": "57132754eaa283f445fd6610d7b6fb0b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "apple-s-ai-pitch-will-live-or-die-by-its-privacy-p",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple’s AI pitch will live or die by its privacy promise",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
+      "pubDate": "2026-06-09T12:55:33.000Z",
+      "slides": [
+        "Apple punta tutto sulla privacy, ma basterà?",
+        "L'AI elabora i dati direttamente sul dispositivo.",
+        "I rivali mandano tutto nel cloud: differenza enorme.",
+        "Non dovrai più scegliere tra funzionalità e controllo.",
+        "Prova a chiedere a Siri un dato sensibile oggi."
+      ],
+      "thread_text": [
+        "I rivali mandano tutto nel cloud mentre Apple elabora i dati sul dispositivo. Differenza enorme.",
+        "Finora per avere funzionalità dovevi cedere il controllo dei tuoi dati. Apple cambia le regole.",
+        "L'AI lavora direttamente sul telefono: nessun invio esterno, nessun rischio per la privacy.",
+        "Non dovrai più scegliere tra funzionalità e controllo. Ora hai entrambi senza compromessi.",
+        "Prova a chiedere a Siri un dato sensibile oggi. Il risultato ti sorprenderà."
+      ],
+      "video_script": [
+        "Apple punta tutto sulla privacy.",
+        "I dati restano sul tuo telefono.",
+        "I rivali li mandano nel cloud.",
+        "Non devi più scegliere tra funzionalità e controllo.",
+        "Chiedi a Siri un dato sensibile."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "I rivali mandano tutto nel cloud mentre Apple elabora i dati sul dispositivo. Differenza enorme.",
+            "Finora per avere funzionalità dovevi cedere il controllo dei tuoi dati. Apple cambia le regole.",
+            "L'AI lavora direttamente sul telefono: nessun invio esterno, nessun rischio per la privacy.",
+            "Non dovrai più scegliere tra funzionalità e controllo. Ora hai entrambi senza compromessi.",
+            "Prova a chiedere a Siri un dato sensibile oggi. Il risultato ti sorprenderà."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple punta tutto sulla privacy.",
+            "I dati restano sul tuo telefono.",
+            "I rivali li mandano nel cloud.",
+            "Non devi più scegliere tra funzionalità e controllo.",
+            "Chiedi a Siri un dato sensibile."
+          ]
+        },
+        "instagram": {
+          "caption": "Mentre i rivali mandano i tuoi dati sensibili nel cloud per far funzionare l'AI, Apple li elabora direttamente sul telefono, senza inviarli fuori. La differenza è radicale: finora per avere funzionalità dovevi cedere il controllo, ora la privacy non è più un optional. Significa che puoi chiedere a Siri informazioni personali sapendo che restano sul tuo dispositivo, non su server esterni. Hai mai provato a chiedere un dato privato all'assistente vocale di un concorrente?"
+        }
+      },
+      "instagram_caption": "Mentre i rivali mandano i tuoi dati sensibili nel cloud per far funzionare l'AI, Apple li elabora direttamente sul telefono, senza inviarli fuori. La differenza è radicale: finora per avere funzionalità dovevi cedere il controllo, ora la privacy non è più un optional. Significa che puoi chiedere a Siri informazioni personali sapendo che restano sul tuo dispositivo, non su server esterni. Hai mai provato a chiedere un dato privato all'assistente vocale di un concorrente?",
+      "carousel_slides": [
+        {
+          "hook": "I rivali mandano tutto nel cloud",
+          "description": "Mentre Apple elabora i dati sul dispositivo. Differenza enorme per la tua privacy.",
+          "visual_hint": "dati che volano nel cloud",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Finora sceglievi tra funzionalità e controllo",
+          "description": "Apple cambia le regole. Ora hai entrambi senza compromessi.",
+          "visual_hint": "bilancia con due piatti",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "balance scale",
+          "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "L'AI lavora direttamente sul telefono",
+          "description": "Nessun invio esterno, nessun rischio per la privacy. Tutto resta sul dispositivo.",
+          "visual_hint": "chip con luci di processo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "microchip close up",
+          "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova a chiedere a Siri un dato sensibile",
+          "description": "Il risultato ti sorprenderà. L'elaborazione locale protegge ogni tua informazione.",
+          "visual_hint": "mano che tocca schermo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand touching smartphone",
+          "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non dovrai più scegliere",
+          "description": "Tra funzionalità e controllo. Ora hai entrambi senza compromessi. Provalo oggi.",
+          "visual_hint": "spunta verde su scudo",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "green checkmark shield",
+          "image": "https://images.pexels.com/photos/6289038/pexels-photo-6289038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/apple-intelligence-siri-ai-private-cloud-compute.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-06-09T17:54:43.306Z",
+      "sourceId": "28598c8b1ad868e98c8175ed90636932"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "anthropic-releases-its-first-mythos-class-model-cl",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic releases its first Mythos-class model Claude Fable ",
+      "link": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+      "pubDate": "2026-06-09T17:00:00.000Z",
+      "slides": [
+        "Il prossimo modello Anthropic supera i limiti della logica?",
+        "Claude Fable è il primo Mythos-class mai rilasciato.",
+        "Non elabora solo dati: comprende metafore e simboli.",
+        "I team creativi potranno sostituire interi reparti di copy.",
+        "Provoca un’idea oggi con un prompt metaforico."
+      ],
+      "thread_text": [
+        "Claude Fable non classifica frasi. Decifra metafore. Se scrivi \"un mare di dati\", capisce che non parli di acqua.",
+        "Anthropic ha appena rilasciato il primo modello Mythos-class. Non serve solo a rispondere, serve a intuire sottotesti.",
+        "I reparti copy stanno per cambiare: con Fable un team creativo può generare tone-of-voice coerenti senza revisioni umane.",
+        "La differenza non è quantitativa: non elabora più token, elabora simboli. Un prompt metaforico diventa istruzione eseguibile.",
+        "Costa meno di un abbonamento Netflix. Prova oggi: dagli un prompt come \"scrivi una scena che sembra un sogno di Calvino\"."
+      ],
+      "video_script": [
+        "Immagina un'AI che capisce le metafore.",
+        "Claude Fable è il primo modello Mythos-class.",
+        "Non elabora dati: capisce simboli.",
+        "Un team creativo può rimpiazzare un reparto.",
+        "Provoca un'idea con un prompt metaforico oggi."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Claude Fable non classifica frasi. Decifra metafore. Se scrivi \"un mare di dati\", capisce che non parli di acqua.",
+            "Anthropic ha appena rilasciato il primo modello Mythos-class. Non serve solo a rispondere, serve a intuire sottotesti.",
+            "I reparti copy stanno per cambiare: con Fable un team creativo può generare tone-of-voice coerenti senza revisioni umane.",
+            "La differenza non è quantitativa: non elabora più token, elabora simboli. Un prompt metaforico diventa istruzione eseguibile.",
+            "Costa meno di un abbonamento Netflix. Prova oggi: dagli un prompt come \"scrivi una scena che sembra un sogno di Calvino\"."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Immagina un'AI che capisce le metafore.",
+            "Claude Fable è il primo modello Mythos-class.",
+            "Non elabora dati: capisce simboli.",
+            "Un team creativo può rimpiazzare un reparto.",
+            "Provoca un'idea con un prompt metaforico oggi."
+          ]
+        },
+        "instagram": {
+          "caption": "Anthropic ha appena rilasciato Claude Fable, il primo modello classificato Mythos-class. Non si limita a processare parole: capisce metafore, simboli e sottotesti 📖. Significa che se gli dai un prompt come “scrivi una scena che sembra un sogno di Calvino”, esegue un’istruzione creativa coerente, non una semplice risposta secca 🤖. Per i team creativi, questo potrebbe tradursi in interi reparti di copy sostituiti da un unico strumento: generi tone-of-voice senza revisioni umane. Costa meno di un abbonamento Netflix 💸. Hai mai provato a istruire un modello con una metafora?"
+        }
+      },
+      "instagram_caption": "Anthropic ha appena rilasciato Claude Fable, il primo modello classificato Mythos-class. Non si limita a processare parole: capisce metafore, simboli e sottotesti 📖. Significa che se gli dai un prompt come “scrivi una scena che sembra un sogno di Calvino”, esegue un’istruzione creativa coerente, non una semplice risposta secca 🤖. Per i team creativi, questo potrebbe tradursi in interi reparti di copy sostituiti da un unico strumento: generi tone-of-voice senza revisioni umane. Costa meno di un abbonamento Netflix 💸. Hai mai provato a istruire un modello con una metafora?",
+      "carousel_slides": [
+        {
+          "hook": "Capisce metafore come umani",
+          "description": "Claude Fable decifra metafore. Se scrivi 'mare di dati' non pensa all'acqua",
+          "visual_hint": "onde stilizzate che diventano numeri",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "ocean waves data stream"
+        },
+        {
+          "hook": "Primo modello Mythos-class",
+          "description": "Non serve a rispondere, serve a intuire sottotesti",
+          "visual_hint": "tempio greco con circuiti",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "server room blue lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Addio revisioni umane",
+          "description": "Un team creativo genera tone-of-voice coerenti senza revisioni umane",
+          "visual_hint": "manoscritto barrato da AI",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot assembly line",
+          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Elabora simboli non token",
+          "description": "Un prompt metaforico diventa istruzione eseguibile",
+          "visual_hint": "libro aperto che si trasforma in codice",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers desk computer",
+          "image": "https://images.pexels.com/photos/12903155/pexels-photo-12903155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova con un sogno di Calvino",
+          "description": "Costa meno di Netflix. Dagli un prompt come 'scrivi un sogno di Calvino'",
+          "visual_hint": "mano che clicca 'try now'",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "person typing laptop desk",
+          "image": "https://images.pexels.com/photos/5877666/pexels-photo-5877666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-06-09T17:54:14.683Z",
+      "sourceId": "4dcd25b9bff30d42663dec6748a3f00e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "evotrex-raises-30m-to-build-the-rv-that-doesn-t-ne",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
+      "link": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
+      "pubDate": "Tue, 09 Jun 2026 09:00:00 +0000",
+      "slides": [
+        "Evotrex raised $30M for a self-charging RV.",
+        "It uses solar and hydrogen, not just a battery.",
+        "The RV generates fuel from water while parked.",
+        "You can go off-grid for months without plugging in.",
+        "Is this the end of range anxiety for travelers?"
+      ],
+      "thread_text": [
+        "Un camper che produce carburante dall'acqua mentre è parcheggiato. Non è un concept, è un modello finanziato con 30 milioni di dollari.",
+        "Evotrex ha tirato su 30M per un veicolo ricreativo che non hai mai visto. Non è solo una batteria gigante con pannelli solari.",
+        "Usa idrogeno e solare. Mentre sei fermo, genera idrogeno dall'acqua. In pratica, ti fai il pieno da solo, senza colonnine.",
+        "Il risultato: mesi off-grid senza mai attaccarti a una presa. Niente ansia da ricarica, niente ricerca del campeggio con elettricità.",
+        "Hai mai rinunciato a un viaggio per paura di restare a secco? Con questo, il problema non si pone più. Lo vendono già."
+      ],
+      "video_script": [
+        "Un camper che produce carburante dall'acqua mentre è fermo",
+        "Evotrex ha appena preso 30 milioni per costruirlo",
+        "Non è solo batterie e pannelli solari",
+        "Usa idrogeno e acqua, niente colonnine",
+        "Mesi senza mai attaccarti alla corrente"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Un camper che produce carburante dall'acqua mentre è parcheggiato. Non è un concept, è un modello finanziato con 30 milioni di dollari.",
+            "Evotrex ha tirato su 30M per un veicolo ricreativo che non hai mai visto. Non è solo una batteria gigante con pannelli solari.",
+            "Usa idrogeno e solare. Mentre sei fermo, genera idrogeno dall'acqua. In pratica, ti fai il pieno da solo, senza colonnine.",
+            "Il risultato: mesi off-grid senza mai attaccarti a una presa. Niente ansia da ricarica, niente ricerca del campeggio con elettricità.",
+            "Hai mai rinunciato a un viaggio per paura di restare a secco? Con questo, il problema non si pone più. Lo vendono già."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Un camper che produce carburante dall'acqua mentre è fermo",
+            "Evotrex ha appena preso 30 milioni per costruirlo",
+            "Non è solo batterie e pannelli solari",
+            "Usa idrogeno e acqua, niente colonnine",
+            "Mesi senza mai attaccarti alla corrente"
+          ]
+        },
+        "instagram": {
+          "caption": "Evotrex ha chiuso un round da 30 milioni di dollari per un camper che si ricarica da solo. Non è una batteria enorme con pannelli solari: combina idrogeno e solare, e mentre sei parcheggiato genera carburante dall'acqua. ☀️💧 Il risultato è che puoi stare mesi off-grid senza mai cercare una colonnina o un campeggio con corrente ⛺. Niente più ansia da ricarica durante un viaggio. Se fosse già in vendita, cambieresti i tuoi piani per un'estate fuori rete?"
+        }
+      },
+      "instagram_caption": "Evotrex ha chiuso un round da 30 milioni di dollari per un camper che si ricarica da solo. Non è una batteria enorme con pannelli solari: combina idrogeno e solare, e mentre sei parcheggiato genera carburante dall'acqua. ☀️💧 Il risultato è che puoi stare mesi off-grid senza mai cercare una colonnina o un campeggio con corrente ⛺. Niente più ansia da ricarica durante un viaggio. Se fosse già in vendita, cambieresti i tuoi piani per un'estate fuori rete?",
+      "carousel_slides": [
+        {
+          "hook": "Fai il pieno da solo",
+          "description": "Un camper che produce carburante dall'acqua mentre è parcheggiato. Non è un concept, è un modello finanziato con 30 milioni.",
+          "visual_hint": "RV parcheggiato con vapori",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "RV parked nature"
+        },
+        {
+          "hook": "Idrogeno + solare, non solo batteria",
+          "description": "Non è una batteria gigante con pannelli. Usa idrogeno e solare: mentre sei fermo, genera idrogeno dall'acqua.",
+          "visual_hint": "Pannelli e serbatoio idrogeno",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "hydrogen fuel cell",
+          "image": "https://images.pexels.com/photos/9381010/pexels-photo-9381010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Mesi off-grid senza presa",
+          "description": "Il risultato: mesi off-grid senza mai attaccarti a una presa. Niente ansia da ricarica, niente ricerca del campeggio con elettricità.",
+          "visual_hint": "Mappa senza colonnine",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "solar panels RV",
+          "image": "https://images.pexels.com/photos/18799883/pexels-photo-18799883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Addio ansia da ricarica",
+          "description": "Hai mai rinunciato a un viaggio per paura di restare a secco? Con questo, il problema non si pone più. Lo vendono già.",
+          "visual_hint": "Mani che tengono mappa",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding map",
+          "image": "https://images.pexels.com/photos/10431322/pexels-photo-10431322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Viaggia senza limiti",
+          "description": "30M raccolti per un RV che produce carburante dall'acqua. Niente colonnine, solo libertà. Vuoi sapere quando arriva?",
+          "visual_hint": "RV su strada deserta",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "motorhome desert road",
+          "image": "https://images.pexels.com/photos/3042332/pexels-photo-3042332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Evotrex-PG5_063.jpeg?resize=1200,675",
+      "savedAt": "2026-06-09T17:53:58.509Z",
+      "sourceId": "4dc79fbeefad9647ce76ee4e67ef7212"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "apple-bets-cheaper-ai-will-woo-small-developers",
       "prompt_version": "1.0.0",
       "status": "published",

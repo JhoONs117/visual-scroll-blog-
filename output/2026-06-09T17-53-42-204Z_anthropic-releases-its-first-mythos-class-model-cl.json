@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-releases-its-first-mythos-class-model-cl",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic releases its first Mythos-class model Claude Fable ",
+  "link": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+  "pubDate": "2026-06-09T17:00:00.000Z",
+  "slides": [
+    "Il prossimo modello Anthropic supera i limiti della logica?",
+    "Claude Fable è il primo Mythos-class mai rilasciato.",
+    "Non elabora solo dati: comprende metafore e simboli.",
+    "I team creativi potranno sostituire interi reparti di copy.",
+    "Provoca un’idea oggi con un prompt metaforico."
+  ],
+  "thread_text": [
+    "Claude Fable non classifica frasi. Decifra metafore. Se scrivi \"un mare di dati\", capisce che non parli di acqua.",
+    "Anthropic ha appena rilasciato il primo modello Mythos-class. Non serve solo a rispondere, serve a intuire sottotesti.",
+    "I reparti copy stanno per cambiare: con Fable un team creativo può generare tone-of-voice coerenti senza revisioni umane.",
+    "La differenza non è quantitativa: non elabora più token, elabora simboli. Un prompt metaforico diventa istruzione eseguibile.",
+    "Costa meno di un abbonamento Netflix. Prova oggi: dagli un prompt come \"scrivi una scena che sembra un sogno di Calvino\"."
+  ],
+  "video_script": [
+    "Immagina un'AI che capisce le metafore.",
+    "Claude Fable è il primo modello Mythos-class.",
+    "Non elabora dati: capisce simboli.",
+    "Un team creativo può rimpiazzare un reparto.",
+    "Provoca un'idea con un prompt metaforico oggi."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Claude Fable non classifica frasi. Decifra metafore. Se scrivi \"un mare di dati\", capisce che non parli di acqua.",
+        "Anthropic ha appena rilasciato il primo modello Mythos-class. Non serve solo a rispondere, serve a intuire sottotesti.",
+        "I reparti copy stanno per cambiare: con Fable un team creativo può generare tone-of-voice coerenti senza revisioni umane.",
+        "La differenza non è quantitativa: non elabora più token, elabora simboli. Un prompt metaforico diventa istruzione eseguibile.",
+        "Costa meno di un abbonamento Netflix. Prova oggi: dagli un prompt come \"scrivi una scena che sembra un sogno di Calvino\"."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Immagina un'AI che capisce le metafore.",
+        "Claude Fable è il primo modello Mythos-class.",
+        "Non elabora dati: capisce simboli.",
+        "Un team creativo può rimpiazzare un reparto.",
+        "Provoca un'idea con un prompt metaforico oggi."
+      ]
+    },
+    "instagram": {
+      "caption": "Anthropic ha appena rilasciato Claude Fable, il primo modello classificato Mythos-class. Non si limita a processare parole: capisce metafore, simboli e sottotesti 📖. Significa che se gli dai un prompt come “scrivi una scena che sembra un sogno di Calvino”, esegue un’istruzione creativa coerente, non una semplice risposta secca 🤖. Per i team creativi, questo potrebbe tradursi in interi reparti di copy sostituiti da un unico strumento: generi tone-of-voice senza revisioni umane. Costa meno di un abbonamento Netflix 💸. Hai mai provato a istruire un modello con una metafora?"
+    }
+  },
+  "instagram_caption": "Anthropic ha appena rilasciato Claude Fable, il primo modello classificato Mythos-class. Non si limita a processare parole: capisce metafore, simboli e sottotesti 📖. Significa che se gli dai un prompt come “scrivi una scena che sembra un sogno di Calvino”, esegue un’istruzione creativa coerente, non una semplice risposta secca 🤖. Per i team creativi, questo potrebbe tradursi in interi reparti di copy sostituiti da un unico strumento: generi tone-of-voice senza revisioni umane. Costa meno di un abbonamento Netflix 💸. Hai mai provato a istruire un modello con una metafora?",
+  "carousel_slides": [
+    {
+      "hook": "Capisce metafore come umani",
+      "description": "Claude Fable decifra metafore. Se scrivi 'mare di dati' non pensa all'acqua",
+      "visual_hint": "onde stilizzate che diventano numeri",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "ocean waves data stream"
+    },
+    {
+      "hook": "Primo modello Mythos-class",
+      "description": "Non serve a rispondere, serve a intuire sottotesti",
+      "visual_hint": "tempio greco con circuiti",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "server room blue lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Addio revisioni umane",
+      "description": "Un team creativo genera tone-of-voice coerenti senza revisioni umane",
+      "visual_hint": "manoscritto barrato da AI",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot assembly line",
+      "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Elabora simboli non token",
+      "description": "Un prompt metaforico diventa istruzione eseguibile",
+      "visual_hint": "libro aperto che si trasforma in codice",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers desk computer",
+      "image": "https://images.pexels.com/photos/12903155/pexels-photo-12903155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova con un sogno di Calvino",
+      "description": "Costa meno di Netflix. Dagli un prompt come 'scrivi un sogno di Calvino'",
+      "visual_hint": "mano che clicca 'try now'",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "person typing laptop desk",
+      "image": "https://images.pexels.com/photos/5877666/pexels-photo-5877666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-09T17:54:14.683Z",
+  "sourceId": "4dcd25b9bff30d42663dec6748a3f00e"
+}

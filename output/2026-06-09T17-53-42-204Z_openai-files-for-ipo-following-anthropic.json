@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-files-for-ipo-following-anthropic",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI files for IPO, following Anthropic",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+  "pubDate": "2026-06-08T21:38:29.000Z",
+  "slides": [
+    "OpenAI punta alla borsa, ma non è sola.",
+    "Anthropic ha appena depositato i documenti.",
+    "La competizione si sposta dai modelli ai mercati.",
+    "Chi investe ora decide il futuro dell'AI.",
+    "Controllate gli archivi SEC prima del prossimo annuncio."
+  ],
+  "thread_text": [
+    "La competizione nell'AI si sta spostando dai modelli ai mercati. Chi controlla i listini deciderà il futuro del settore.",
+    "OpenAI ha già depositato i documenti per la borsa. Il loro obiettivo è raccogliere capitali per scalare prima degli altri.",
+    "Anthropic ha appena seguito l'esempio. Ora entrambi giocano la stessa partita: quotarsi per attrarre investitori.",
+    "Chi investe oggi non scommette su un modello, ma su chi dominerà l'ecosistema. Le mosse finanziarie definiscono le regole.",
+    "Controllate gli archivi SEC prima del prossimo annuncio. I prossimi 30 giorni possono ridefinire le leadership di mercato."
+  ],
+  "video_script": [
+    "La competizione si sposta dai modelli ai mercati.",
+    "OpenAI punta alla borsa con i documenti già depositati.",
+    "Anthropic ha appena fatto lo stesso.",
+    "Chi investe ora decide il futuro dell'AI.",
+    "Controlla gli archivi SEC prima del prossimo annuncio."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "La competizione nell'AI si sta spostando dai modelli ai mercati. Chi controlla i listini deciderà il futuro del settore.",
+        "OpenAI ha già depositato i documenti per la borsa. Il loro obiettivo è raccogliere capitali per scalare prima degli altri.",
+        "Anthropic ha appena seguito l'esempio. Ora entrambi giocano la stessa partita: quotarsi per attrarre investitori.",
+        "Chi investe oggi non scommette su un modello, ma su chi dominerà l'ecosistema. Le mosse finanziarie definiscono le regole.",
+        "Controllate gli archivi SEC prima del prossimo annuncio. I prossimi 30 giorni possono ridefinire le leadership di mercato."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "La competizione si sposta dai modelli ai mercati.",
+        "OpenAI punta alla borsa con i documenti già depositati.",
+        "Anthropic ha appena fatto lo stesso.",
+        "Chi investe ora decide il futuro dell'AI.",
+        "Controlla gli archivi SEC prima del prossimo annuncio."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI ha depositato i documenti per la quotazione in borsa, e Anthropic ha fatto lo stesso subito dopo.  \nLa vera partita non è più su chi costruisce il modello migliore, ma su chi attira più capitali dagli investitori. Entrambe vogliono scalare finanziariamente per dettare le regole del mercato.  \nQuesto significa che le prossime decisioni di Wall Street decideranno quali strumenti saranno disponibili per il tuo lavoro tra due anni.  \nAvete già controllato gli archivi SEC? Le prossime settimane possono ridisegnare la leadership del settore 📊🏦🤖🗂️"
+    }
+  },
+  "instagram_caption": "OpenAI ha depositato i documenti per la quotazione in borsa, e Anthropic ha fatto lo stesso subito dopo.  \nLa vera partita non è più su chi costruisce il modello migliore, ma su chi attira più capitali dagli investitori. Entrambe vogliono scalare finanziariamente per dettare le regole del mercato.  \nQuesto significa che le prossime decisioni di Wall Street decideranno quali strumenti saranno disponibili per il tuo lavoro tra due anni.  \nAvete già controllato gli archivi SEC? Le prossime settimane possono ridisegnare la leadership del settore 📊🏦🤖🗂️",
+  "carousel_slides": [
+    {
+      "hook": "La partita è cambiata",
+      "description": "La competizione nell'AI si sposta dai modelli ai mercati azionari.",
+      "visual_hint": "Grafico borsa in salita",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "OpenAI guida la corsa",
+      "description": "OpenAI ha depositato i documenti per quotarsi e raccogliere capitali prima degli altri.",
+      "visual_hint": "Documenti finanziari impilati",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "sec filing documents",
+      "image": "https://images.pexels.com/photos/12911303/pexels-photo-12911303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Anthropic segue a ruota",
+      "description": "Anthropic ha appena imitato la mossa: entrambi puntano agli investitori.",
+      "visual_hint": "Due frecce parallele in su",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "office building facade",
+      "image": "https://images.pexels.com/photos/3137040/pexels-photo-3137040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Investire nell'ecosistema",
+      "description": "Chi investe oggi scommette su chi dominerà l'intero ecosistema AI, non su un modello.",
+      "visual_hint": "Mano che clicca mouse",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pressing button",
+      "image": "https://images.pexels.com/photos/9461215/pexels-photo-9461215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controlla gli archivi SEC",
+      "description": "I prossimi 30 giorni possono ridefinire le leadership di mercato. Segui i documenti.",
+      "visual_hint": "Lente d'ingrandimento su foglio",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-09T17:54:57.432Z",
+  "sourceId": "57132754eaa283f445fd6610d7b6fb0b"
+}

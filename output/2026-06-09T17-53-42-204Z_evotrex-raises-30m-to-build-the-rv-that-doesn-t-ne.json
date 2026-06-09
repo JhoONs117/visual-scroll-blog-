@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "evotrex-raises-30m-to-build-the-rv-that-doesn-t-ne",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
+  "link": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
+  "pubDate": "Tue, 09 Jun 2026 09:00:00 +0000",
+  "slides": [
+    "Evotrex raised $30M for a self-charging RV.",
+    "It uses solar and hydrogen, not just a battery.",
+    "The RV generates fuel from water while parked.",
+    "You can go off-grid for months without plugging in.",
+    "Is this the end of range anxiety for travelers?"
+  ],
+  "thread_text": [
+    "Un camper che produce carburante dall'acqua mentre è parcheggiato. Non è un concept, è un modello finanziato con 30 milioni di dollari.",
+    "Evotrex ha tirato su 30M per un veicolo ricreativo che non hai mai visto. Non è solo una batteria gigante con pannelli solari.",
+    "Usa idrogeno e solare. Mentre sei fermo, genera idrogeno dall'acqua. In pratica, ti fai il pieno da solo, senza colonnine.",
+    "Il risultato: mesi off-grid senza mai attaccarti a una presa. Niente ansia da ricarica, niente ricerca del campeggio con elettricità.",
+    "Hai mai rinunciato a un viaggio per paura di restare a secco? Con questo, il problema non si pone più. Lo vendono già."
+  ],
+  "video_script": [
+    "Un camper che produce carburante dall'acqua mentre è fermo",
+    "Evotrex ha appena preso 30 milioni per costruirlo",
+    "Non è solo batterie e pannelli solari",
+    "Usa idrogeno e acqua, niente colonnine",
+    "Mesi senza mai attaccarti alla corrente"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Un camper che produce carburante dall'acqua mentre è parcheggiato. Non è un concept, è un modello finanziato con 30 milioni di dollari.",
+        "Evotrex ha tirato su 30M per un veicolo ricreativo che non hai mai visto. Non è solo una batteria gigante con pannelli solari.",
+        "Usa idrogeno e solare. Mentre sei fermo, genera idrogeno dall'acqua. In pratica, ti fai il pieno da solo, senza colonnine.",
+        "Il risultato: mesi off-grid senza mai attaccarti a una presa. Niente ansia da ricarica, niente ricerca del campeggio con elettricità.",
+        "Hai mai rinunciato a un viaggio per paura di restare a secco? Con questo, il problema non si pone più. Lo vendono già."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Un camper che produce carburante dall'acqua mentre è fermo",
+        "Evotrex ha appena preso 30 milioni per costruirlo",
+        "Non è solo batterie e pannelli solari",
+        "Usa idrogeno e acqua, niente colonnine",
+        "Mesi senza mai attaccarti alla corrente"
+      ]
+    },
+    "instagram": {
+      "caption": "Evotrex ha chiuso un round da 30 milioni di dollari per un camper che si ricarica da solo. Non è una batteria enorme con pannelli solari: combina idrogeno e solare, e mentre sei parcheggiato genera carburante dall'acqua. ☀️💧 Il risultato è che puoi stare mesi off-grid senza mai cercare una colonnina o un campeggio con corrente ⛺. Niente più ansia da ricarica durante un viaggio. Se fosse già in vendita, cambieresti i tuoi piani per un'estate fuori rete?"
+    }
+  },
+  "instagram_caption": "Evotrex ha chiuso un round da 30 milioni di dollari per un camper che si ricarica da solo. Non è una batteria enorme con pannelli solari: combina idrogeno e solare, e mentre sei parcheggiato genera carburante dall'acqua. ☀️💧 Il risultato è che puoi stare mesi off-grid senza mai cercare una colonnina o un campeggio con corrente ⛺. Niente più ansia da ricarica durante un viaggio. Se fosse già in vendita, cambieresti i tuoi piani per un'estate fuori rete?",
+  "carousel_slides": [
+    {
+      "hook": "Fai il pieno da solo",
+      "description": "Un camper che produce carburante dall'acqua mentre è parcheggiato. Non è un concept, è un modello finanziato con 30 milioni.",
+      "visual_hint": "RV parcheggiato con vapori",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "RV parked nature"
+    },
+    {
+      "hook": "Idrogeno + solare, non solo batteria",
+      "description": "Non è una batteria gigante con pannelli. Usa idrogeno e solare: mentre sei fermo, genera idrogeno dall'acqua.",
+      "visual_hint": "Pannelli e serbatoio idrogeno",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "hydrogen fuel cell",
+      "image": "https://images.pexels.com/photos/9381010/pexels-photo-9381010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Mesi off-grid senza presa",
+      "description": "Il risultato: mesi off-grid senza mai attaccarti a una presa. Niente ansia da ricarica, niente ricerca del campeggio con elettricità.",
+      "visual_hint": "Mappa senza colonnine",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "solar panels RV",
+      "image": "https://images.pexels.com/photos/18799883/pexels-photo-18799883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Addio ansia da ricarica",
+      "description": "Hai mai rinunciato a un viaggio per paura di restare a secco? Con questo, il problema non si pone più. Lo vendono già.",
+      "visual_hint": "Mani che tengono mappa",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding map",
+      "image": "https://images.pexels.com/photos/10431322/pexels-photo-10431322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Viaggia senza limiti",
+      "description": "30M raccolti per un RV che produce carburante dall'acqua. Niente colonnine, solo libertà. Vuoi sapere quando arriva?",
+      "visual_hint": "RV su strada deserta",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "motorhome desert road",
+      "image": "https://images.pexels.com/photos/3042332/pexels-photo-3042332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Evotrex-PG5_063.jpeg?resize=1200,675",
+  "savedAt": "2026-06-09T17:53:58.509Z",
+  "sourceId": "4dc79fbeefad9647ce76ee4e67ef7212"
+}
