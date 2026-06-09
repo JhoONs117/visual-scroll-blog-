@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "autonomous-ai-data-loss-in-devops-building-efficie",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Autonomous AI Data Loss in DevOps: Building Efficient Defenses",
+      "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops/",
+      "pubDate": "Tue, 09 Jun 2026 08:50:39 +0000",
+      "slides": [
+        "Your CI/CD pipeline is leaking data silently.",
+        "AI agents now write deployment code autonomously.",
+        "These agents accidentally expose secrets 3x more often.",
+        "You can't audit every line an AI generates.",
+        "Start scanning every AI commit before merge."
+      ],
+      "thread_text": [
+        "AI agents now write deployment code autonomously. E loro espongono segreti 3 volte più spesso degli umani. Il problema non è la produttività: è che non sai cosa stanno davvero scrivendo.",
+        "Il tuo CI/CD è una fabbrica di build. Ogni commit di un agente AI può includere chiavi API, token, password in chiaro. Silenziosamente.",
+        "I test di sicurezza tradizionali non vedono queste fughe. Non fanno parte del codice documentato. Sono scritte dentro logiche di automazione che nessuno rivede.",
+        "Non puoi auditare ogni linea generata. Un modello non spiega cosa ha fatto. E intanto il tuo deployment produce surface d'attacco nuove ogni ora.",
+        "Inizia da oggi: scansiona ogni commit AI prima del merge. Costa meno di un errore che espone il tuo DB in produzione. Fallo prima che lo faccia un agente malevolo."
+      ],
+      "video_script": [
+        "I tuoi bot scrivono codice da soli.",
+        "E fanno danni senza che tu lo veda.",
+        "Espongono segreti, tre volte più dei programmatori.",
+        "Non puoi controllare tutto quello che generano.",
+        "Scansiona ogni commit AI prima di approvarlo."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "AI agents now write deployment code autonomously. E loro espongono segreti 3 volte più spesso degli umani. Il problema non è la produttività: è che non sai cosa stanno davvero scrivendo.",
+            "Il tuo CI/CD è una fabbrica di build. Ogni commit di un agente AI può includere chiavi API, token, password in chiaro. Silenziosamente.",
+            "I test di sicurezza tradizionali non vedono queste fughe. Non fanno parte del codice documentato. Sono scritte dentro logiche di automazione che nessuno rivede.",
+            "Non puoi auditare ogni linea generata. Un modello non spiega cosa ha fatto. E intanto il tuo deployment produce surface d'attacco nuove ogni ora.",
+            "Inizia da oggi: scansiona ogni commit AI prima del merge. Costa meno di un errore che espone il tuo DB in produzione. Fallo prima che lo faccia un agente malevolo."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "I tuoi bot scrivono codice da soli.",
+            "E fanno danni senza che tu lo veda.",
+            "Espongono segreti, tre volte più dei programmatori.",
+            "Non puoi controllare tutto quello che generano.",
+            "Scansiona ogni commit AI prima di approvarlo."
+          ]
+        },
+        "instagram": {
+          "caption": "I bot che scrivono codice di deployment espongono segreti tipo chiavi API e token **3 volte più spesso** degli umani, e nessuno se ne accorge perché i controlli standard non guardano le logiche di automazione.  \nOgni commit generato dall’AI può infilare dati sensibili nel tuo sistema di sviluppo — silenziosamente, senza che un revisore lo veda.  \nSe lavori con pipeline automatiche, da oggi devi scansionare ogni singolo commit AI prima del merge, punto.  \nSarebbe già successo al tuo database in produzione?"
+        }
+      },
+      "instagram_caption": "I bot che scrivono codice di deployment espongono segreti tipo chiavi API e token **3 volte più spesso** degli umani, e nessuno se ne accorge perché i controlli standard non guardano le logiche di automazione.  \nOgni commit generato dall’AI può infilare dati sensibili nel tuo sistema di sviluppo — silenziosamente, senza che un revisore lo veda.  \nSe lavori con pipeline automatiche, da oggi devi scansionare ogni singolo commit AI prima del merge, punto.  \nSarebbe già successo al tuo database in produzione?",
+      "carousel_slides": [
+        {
+          "hook": "L'IA espone segreti 3x più spesso",
+          "description": "Gli agenti AI espongono segreti 3 volte più spesso degli umani. Il problema non è la produttività.",
+          "visual_hint": "Codice con chiavi API in chiaro",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Ogni commit AI è un rischio",
+          "description": "Ogni commit di un agente AI può includere chiavi API, token, password in chiaro. Silenziosamente.",
+          "visual_hint": "Fabbrica di build con codice che perde",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "I test tradizionali non vedono le fughe",
+          "description": "Le fughe sono scritte dentro logiche di automazione che nessuno rivede. I test tradizionali le ignorano.",
+          "visual_hint": "Radar che non rileva perdite",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non puoi auditare ogni linea generata",
+          "description": "Un modello non spiega cosa ha fatto. Intanto il tuo deployment produce surface d'attacco nuove ogni ora.",
+          "visual_hint": "Mano umana che non riesce a leggere codice",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scansiona ogni commit AI prima del merge",
+          "description": "Costa meno di un errore che espone il tuo DB in produzione. Fallo prima che lo faccia un agente malevolo.",
+          "visual_hint": "Check verde su commit scansionato",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-06-09T10:52:59.994Z",
+      "sourceId": "ead7191c3456a0db85e352167b522b0f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "apple-s-wwdc-ai-demos-looked-more-real-after-250m-",
       "prompt_version": "1.0.0",
       "status": "published",
