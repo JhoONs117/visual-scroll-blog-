@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "apple-s-wwdc-ai-demos-looked-more-real-after-250m-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "pubDate": "Mon, 08 Jun 2026 22:39:57 +0000",
+      "slides": [
+        "Apple's $250M settlement—did it buy credibility?",
+        "WWDC demos followed a false ad scandal.",
+        "Charges were dropped after the settlement.",
+        "Now every AI promise is under scrutiny.",
+        "Test their next demo—believe nothing."
+      ],
+      "thread_text": [
+        "Apple ha pagato 250 milioni di dollari per chiudere una causa. Le accuse sono state ritirate subito dopo. La domanda è: hanno comprato credibilità o silenzio?",
+        "Il problema è che ai loro eventi principali hanno mostrato feature AI che sembravano funzionare perfettamente. Peccato che quelle stesse feature fossero finite sotto inchiesta poco prima.",
+        "Il denaro ha fatto sparire le accuse, ma non i video dei demo. Ora chiunque guardi una presentazione Apple pensa a quello scandalo, non alla tecnologia.",
+        "Il risultato? Ogni promessa AI di Apple viene analizzata con il sospetto che sia un'altra messinscena. La fiducia si è dissolta in 250 milioni di dollari.",
+        "Il prossimo demo che mostreranno: guardalo come se fosse una pubblicità. Non credere a nulla finché non lo testi con le tue mani."
+      ],
+      "video_script": [
+        "Apple ha pagato 250 milioni per un pasticcio.",
+        "Le accuse sono sparite dopo il bonifico.",
+        "Ma il danno alla reputazione resta.",
+        "Ora ogni loro demo è sospetto.",
+        "Non credere a nulla senza testarlo."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Apple ha pagato 250 milioni di dollari per chiudere una causa. Le accuse sono state ritirate subito dopo. La domanda è: hanno comprato credibilità o silenzio?",
+            "Il problema è che ai loro eventi principali hanno mostrato feature AI che sembravano funzionare perfettamente. Peccato che quelle stesse feature fossero finite sotto inchiesta poco prima.",
+            "Il denaro ha fatto sparire le accuse, ma non i video dei demo. Ora chiunque guardi una presentazione Apple pensa a quello scandalo, non alla tecnologia.",
+            "Il risultato? Ogni promessa AI di Apple viene analizzata con il sospetto che sia un'altra messinscena. La fiducia si è dissolta in 250 milioni di dollari.",
+            "Il prossimo demo che mostreranno: guardalo come se fosse una pubblicità. Non credere a nulla finché non lo testi con le tue mani."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple ha pagato 250 milioni per un pasticcio.",
+            "Le accuse sono sparite dopo il bonifico.",
+            "Ma il danno alla reputazione resta.",
+            "Ora ogni loro demo è sospetto.",
+            "Non credere a nulla senza testarlo."
+          ]
+        },
+        "instagram": {
+          "caption": "Apple ha pagato 250 milioni di dollari per chiudere una causa e le accuse sono cadute subito dopo 🧾 I demo AI del WWDC, presentati come rivoluzionari, arrivano in scia a quella controversia. Il problema? Ora ogni promessa tecnologica viene guardata con sospetto, non con fiducia. Per chi segue il settore, significa una cosa sola: al prossimo evento, testa ogni feature con le tue mani prima di crederci 🤔 I video non mentono, ma i soldi sì? 💸"
+        }
+      },
+      "instagram_caption": "Apple ha pagato 250 milioni di dollari per chiudere una causa e le accuse sono cadute subito dopo 🧾 I demo AI del WWDC, presentati come rivoluzionari, arrivano in scia a quella controversia. Il problema? Ora ogni promessa tecnologica viene guardata con sospetto, non con fiducia. Per chi segue il settore, significa una cosa sola: al prossimo evento, testa ogni feature con le tue mani prima di crederci 🤔 I video non mentono, ma i soldi sì? 💸",
+      "carousel_slides": [
+        {
+          "hook": "Accuse ritirate dopo il pagamento",
+          "description": "Apple ha pagato 250 milioni per chiudere una causa. Le accuse sono state ritirate subito dopo. Hanno comprato silenzio?",
+          "visual_hint": "Gavel e banconote sparse",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "courtroom gavel money"
+        },
+        {
+          "hook": "Demo perfetti sotto inchiesta",
+          "description": "Ai loro eventi hanno mostrato feature AI impeccabili, ma quelle stesse feature erano finite sotto inchiesta poco prima.",
+          "visual_hint": "Schermo con demo e documenti",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "ai presentation screen",
+          "image": "https://images.pexels.com/photos/16027823/pexels-photo-16027823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il denaro non cancella i video",
+          "description": "Il denaro ha fatto sparire le accuse, ma non i video dei demo. Ora il pubblico pensa allo scandalo, non alla tecnologia.",
+          "visual_hint": "Play button e ombra di soldi",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "video play button",
+          "image": "https://images.pexels.com/photos/16349339/pexels-photo-16349339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ogni promessa AI è sospetta",
+          "description": "Ogni promessa AI di Apple viene analizzata con sospetto. La fiducia si è dissolta in 250 milioni di dollari.",
+          "visual_hint": "Lente d'ingrandimento su codice",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass code",
+          "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non credere al prossimo demo",
+          "description": "Il prossimo demo: guardalo come una pubblicità. Non credere a nulla finché non lo testi con le tue mani.",
+          "visual_hint": "Mano che tocca uno schermo",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "hand touching screen",
+          "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Apple-iOS-27-demo.png?resize=1200,677",
+      "savedAt": "2026-06-09T07:38:47.678Z",
+      "sourceId": "66efa84f4702348dd54e214c492bb9e5"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "why-apple-s-slow-and-steady-ai-bet-is-starting-to-",
       "prompt_version": "1.0.0",
       "status": "published",
