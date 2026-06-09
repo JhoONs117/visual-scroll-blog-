@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-an-e-scooter-founder-raised-5-million-to-build",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How an e-scooter founder raised $5 million to build space data centers",
+  "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+  "pubDate": "Tue, 09 Jun 2026 12:00:00 +0000",
+  "slides": [
+    "The founder behind your e-scooter now builds space data centers?",
+    "He raised $5 million from aerospace and VC investors.",
+    "Orbit is colder than any Earth data center, naturally.",
+    "Your next cloud app might run from a satellite.",
+    "Launch costs dropped—so why not compute up there?"
+  ],
+  "thread_text": [
+    "Orbita è più fredda di qualsiasi data center sulla Terra. Ecco dove stanno andando i server della tua prossima app.",
+    "Il fondatore di uno dei tuoi e-scooter preferiti ha appena raccolto 5 milioni da fondi VC e aerospace. Cosa sta costruendo? Data center in orbita.",
+    "Lanciare roba nello spazio è diventato economico. Così economico che ha senso mettere compute in orbita invece che in un capannone in Nevada.",
+    "Server freddi naturalmente, nessun costo di raffreddamento, latenza bassa per copertura globale. Il modello economico ora regge.",
+    "La tua prossima app cloud potrebbe eseguire codice da un satellite. Costa meno di quanto pensi. Chiedi una demo."
+  ],
+  "video_script": [
+    "Orbita è più fredda di ogni data center sulla Terra.",
+    "Un ragazzo ha preso 5 milioni per mettere server su in cielo.",
+    "I costi di lancio sono crollati.",
+    "Adesso ha senso computare lassù invece che in Nevada.",
+    "La tua prossima app potrebbe girare da un satellite."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Orbita è più fredda di qualsiasi data center sulla Terra. Ecco dove stanno andando i server della tua prossima app.",
+        "Il fondatore di uno dei tuoi e-scooter preferiti ha appena raccolto 5 milioni da fondi VC e aerospace. Cosa sta costruendo? Data center in orbita.",
+        "Lanciare roba nello spazio è diventato economico. Così economico che ha senso mettere compute in orbita invece che in un capannone in Nevada.",
+        "Server freddi naturalmente, nessun costo di raffreddamento, latenza bassa per copertura globale. Il modello economico ora regge.",
+        "La tua prossima app cloud potrebbe eseguire codice da un satellite. Costa meno di quanto pensi. Chiedi una demo."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Orbita è più fredda di ogni data center sulla Terra.",
+        "Un ragazzo ha preso 5 milioni per mettere server su in cielo.",
+        "I costi di lancio sono crollati.",
+        "Adesso ha senso computare lassù invece che in Nevada.",
+        "La tua prossima app potrebbe girare da un satellite."
+      ]
+    },
+    "instagram": {
+      "caption": "Il fondatore di un e-scooter che hai usato sta ora raccogliendo 5 milioni di dollari per server nello spazio 🛰️. L'idea? L'orbita è già fredda (-270°C), niente costi di raffreddamento. E con i lanci diventati più economici, ha senso spostare il computing in orbita invece che in un capannone terrestre ❄️. La tua prossima app cloud potrebbe eseguire codice direttamente da un satellite, con latenza globale ridotta e nessuna bolletta energetica per il raffrescamento ☁️. Stiamo per lavorare su server fuori dal pianeta? 💻"
+    }
+  },
+  "instagram_caption": "Il fondatore di un e-scooter che hai usato sta ora raccogliendo 5 milioni di dollari per server nello spazio 🛰️. L'idea? L'orbita è già fredda (-270°C), niente costi di raffreddamento. E con i lanci diventati più economici, ha senso spostare il computing in orbita invece che in un capannone terrestre ❄️. La tua prossima app cloud potrebbe eseguire codice direttamente da un satellite, con latenza globale ridotta e nessuna bolletta energetica per il raffrescamento ☁️. Stiamo per lavorare su server fuori dal pianeta? 💻",
+  "carousel_slides": [
+    {
+      "hook": "Your scooter founder builds space servers",
+      "description": "Lo spazio è più freddo di qualsiasi data center terrestre. Ecco dove stanno andando i server della tua prossima app.",
+      "visual_hint": "Satellite in orbita terrestre",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "satellite orbit"
+    },
+    {
+      "hook": "$5M raised for orbital compute",
+      "description": "Il fondatore di un e-scooter ha raccolto 5 milioni da VC e aerospace per costruire data center in orbita.",
+      "visual_hint": "Razzo in fase di lancio",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "rocket launch",
+      "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Launch costs dropped, compute rises",
+      "description": "Lanciare roba nello spazio è diventato economico. Ora ha senso mettere compute in orbita invece che in un capannone.",
+      "visual_hint": "Grafico costo lancio in calo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "spacex launch",
+      "image": "https://images.pexels.com/photos/11755208/pexels-photo-11755208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cold space needs no cooling",
+      "description": "Server naturalmente freddi, nessun costo di raffreddamento, latenza bassa per copertura globale. Il modello economico regge.",
+      "visual_hint": "Modulo server spaziale bianco",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "space station interior",
+      "image": "https://images.pexels.com/photos/33117699/pexels-photo-33117699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next cloud app from orbit",
+      "description": "La tua prossima app cloud potrebbe eseguire codice da un satellite. Costa meno di quanto pensi. Chiedi una demo.",
+      "visual_hint": "Smartphone con satellite sullo schermo",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "satellite dish",
+      "image": "https://images.pexels.com/photos/13615588/pexels-photo-13615588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/satellite.png?resize=1200,675",
+  "savedAt": "2026-06-09T14:30:01.013Z",
+  "sourceId": "adcc82140244bc689e786481a09a0ab1"
+}

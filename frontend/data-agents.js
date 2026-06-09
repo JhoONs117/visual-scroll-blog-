@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "apple-bets-cheaper-ai-will-woo-small-developers",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple bets cheaper AI will woo small developers",
+      "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "pubDate": "Mon, 08 Jun 2026 20:53:55 +0000",
+      "slides": [
+        "Apple punta sui piccoli sviluppatori? Forse una mossa inaspettata.",
+        "I device meno costosi potrebbero escludere alcune funzioni AI.",
+        "Apple offre API a costo ridotto per app AI entry-level.",
+        "Tu sviluppatore: testi ora o aspetti la concorrenza diretta?",
+        "Un prototipo oggi vale più di un piano strategico domani."
+      ],
+      "thread_text": [
+        "Apple ha appena tagliato il costo delle API AI per gli sviluppatori entry-level. Un segnale che guarda ai più piccoli, non solo ai big.",
+        "La mossa arriva mentre i device meno costosi di Apple potrebbero perdere alcune funzioni AI. Un controsenso apparente, se non fosse per il piano nascosto.",
+        "L'idea è chiara: abbassare la soglia d'ingresso per le app AI. Testare ora costa poco, aspettare significa perdere il vantaggio del primo costruttore.",
+        "I grandi player studiano strategie. Tu sviluppatore, con un prototipo funzionante oggi, giochi in anticipo rispetto a chi aspetta il piano perfetto.",
+        "Costa meno di un abbonamento Netflix iniziare. Non hai scuse per non testare entro domani."
+      ],
+      "video_script": [
+        "Apple taglia i prezzi delle API AI per i piccoli",
+        "I device economici potrebbero perdere funzioni AI",
+        "Ma è una strategia per farvi iniziare ora",
+        "Un prototipo oggi vale più di un piano domani",
+        "Provatelo subito, costa pochissimo e non aspettate"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Apple ha appena tagliato il costo delle API AI per gli sviluppatori entry-level. Un segnale che guarda ai più piccoli, non solo ai big.",
+            "La mossa arriva mentre i device meno costosi di Apple potrebbero perdere alcune funzioni AI. Un controsenso apparente, se non fosse per il piano nascosto.",
+            "L'idea è chiara: abbassare la soglia d'ingresso per le app AI. Testare ora costa poco, aspettare significa perdere il vantaggio del primo costruttore.",
+            "I grandi player studiano strategie. Tu sviluppatore, con un prototipo funzionante oggi, giochi in anticipo rispetto a chi aspetta il piano perfetto.",
+            "Costa meno di un abbonamento Netflix iniziare. Non hai scuse per non testare entro domani."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple taglia i prezzi delle API AI per i piccoli",
+            "I device economici potrebbero perdere funzioni AI",
+            "Ma è una strategia per farvi iniziare ora",
+            "Un prototipo oggi vale più di un piano domani",
+            "Provatelo subito, costa pochissimo e non aspettate"
+          ]
+        },
+        "instagram": {
+          "caption": "Apple ha abbassato il costo delle API AI per gli sviluppatori più piccoli, quelli che prima restavano fuori dal giro. 🧑‍💻 La mossa è curiosa perché arriva mentre i device economici di Apple potrebbero perdere alcune funzioni AI avanzate. 💡 Il messaggio è: testare un prototipo ora costa meno di un abbonamento Netflix, quindi chi entra subito gioca in vantaggio sulla concorrenza. 🚀 Per te sviluppatore significa poter lanciare un'idea senza aspettare il piano perfetto. Quanto vale oggi iniziare, rispetto a chi aspetta domani? ⏳"
+        }
+      },
+      "instagram_caption": "Apple ha abbassato il costo delle API AI per gli sviluppatori più piccoli, quelli che prima restavano fuori dal giro. 🧑‍💻 La mossa è curiosa perché arriva mentre i device economici di Apple potrebbero perdere alcune funzioni AI avanzate. 💡 Il messaggio è: testare un prototipo ora costa meno di un abbonamento Netflix, quindi chi entra subito gioca in vantaggio sulla concorrenza. 🚀 Per te sviluppatore significa poter lanciare un'idea senza aspettare il piano perfetto. Quanto vale oggi iniziare, rispetto a chi aspetta domani? ⏳",
+      "carousel_slides": [
+        {
+          "hook": "AI a costo zero?",
+          "description": "Apple taglia il costo delle API AI entry-level. Un segnale che guarda ai piccoli sviluppatori, non solo ai big.",
+          "visual_hint": "Taglio prezzo API",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room lights"
+        },
+        {
+          "hook": "Device tagliati fuori?",
+          "description": "I device meno costosi potrebbero perdere funzioni AI. Un controsenso se non fosse per il piano nascosto di Apple.",
+          "visual_hint": "iPhone economico",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "iPhone X display",
+          "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Testa ora o mai più",
+          "description": "Abbassare la soglia d'ingresso per app AI. Testare ora costa poco, aspettare significa perdere il vantaggio del primo.",
+          "visual_hint": "Soglia che si abbassa",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "code on screen",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tu, developer, muoviti",
+          "description": "Con un prototipo oggi giochi in anticipo rispetto a chi aspetta il piano perfetto. I grandi studiano, tu agisci.",
+          "visual_hint": "Mano su tastiera",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands typing laptop",
+          "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Netflix? No, ora codi",
+          "description": "Costa meno di un abbonamento Netflix iniziare. Non hai scuse per non testare entro domani.",
+          "visual_hint": "Confronto costi",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "Netflix logo smartphone",
+          "image": "https://images.pexels.com/photos/6632995/pexels-photo-6632995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?resize=1200,722",
+      "savedAt": "2026-06-09T14:30:17.044Z",
+      "sourceId": "bae85cd85745730c5290022e1a44b4e9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "how-an-e-scooter-founder-raised-5-million-to-build",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "How an e-scooter founder raised $5 million to build space data centers",
+      "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+      "pubDate": "Tue, 09 Jun 2026 12:00:00 +0000",
+      "slides": [
+        "The founder behind your e-scooter now builds space data centers?",
+        "He raised $5 million from aerospace and VC investors.",
+        "Orbit is colder than any Earth data center, naturally.",
+        "Your next cloud app might run from a satellite.",
+        "Launch costs dropped—so why not compute up there?"
+      ],
+      "thread_text": [
+        "Orbita è più fredda di qualsiasi data center sulla Terra. Ecco dove stanno andando i server della tua prossima app.",
+        "Il fondatore di uno dei tuoi e-scooter preferiti ha appena raccolto 5 milioni da fondi VC e aerospace. Cosa sta costruendo? Data center in orbita.",
+        "Lanciare roba nello spazio è diventato economico. Così economico che ha senso mettere compute in orbita invece che in un capannone in Nevada.",
+        "Server freddi naturalmente, nessun costo di raffreddamento, latenza bassa per copertura globale. Il modello economico ora regge.",
+        "La tua prossima app cloud potrebbe eseguire codice da un satellite. Costa meno di quanto pensi. Chiedi una demo."
+      ],
+      "video_script": [
+        "Orbita è più fredda di ogni data center sulla Terra.",
+        "Un ragazzo ha preso 5 milioni per mettere server su in cielo.",
+        "I costi di lancio sono crollati.",
+        "Adesso ha senso computare lassù invece che in Nevada.",
+        "La tua prossima app potrebbe girare da un satellite."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Orbita è più fredda di qualsiasi data center sulla Terra. Ecco dove stanno andando i server della tua prossima app.",
+            "Il fondatore di uno dei tuoi e-scooter preferiti ha appena raccolto 5 milioni da fondi VC e aerospace. Cosa sta costruendo? Data center in orbita.",
+            "Lanciare roba nello spazio è diventato economico. Così economico che ha senso mettere compute in orbita invece che in un capannone in Nevada.",
+            "Server freddi naturalmente, nessun costo di raffreddamento, latenza bassa per copertura globale. Il modello economico ora regge.",
+            "La tua prossima app cloud potrebbe eseguire codice da un satellite. Costa meno di quanto pensi. Chiedi una demo."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Orbita è più fredda di ogni data center sulla Terra.",
+            "Un ragazzo ha preso 5 milioni per mettere server su in cielo.",
+            "I costi di lancio sono crollati.",
+            "Adesso ha senso computare lassù invece che in Nevada.",
+            "La tua prossima app potrebbe girare da un satellite."
+          ]
+        },
+        "instagram": {
+          "caption": "Il fondatore di un e-scooter che hai usato sta ora raccogliendo 5 milioni di dollari per server nello spazio 🛰️. L'idea? L'orbita è già fredda (-270°C), niente costi di raffreddamento. E con i lanci diventati più economici, ha senso spostare il computing in orbita invece che in un capannone terrestre ❄️. La tua prossima app cloud potrebbe eseguire codice direttamente da un satellite, con latenza globale ridotta e nessuna bolletta energetica per il raffrescamento ☁️. Stiamo per lavorare su server fuori dal pianeta? 💻"
+        }
+      },
+      "instagram_caption": "Il fondatore di un e-scooter che hai usato sta ora raccogliendo 5 milioni di dollari per server nello spazio 🛰️. L'idea? L'orbita è già fredda (-270°C), niente costi di raffreddamento. E con i lanci diventati più economici, ha senso spostare il computing in orbita invece che in un capannone terrestre ❄️. La tua prossima app cloud potrebbe eseguire codice direttamente da un satellite, con latenza globale ridotta e nessuna bolletta energetica per il raffrescamento ☁️. Stiamo per lavorare su server fuori dal pianeta? 💻",
+      "carousel_slides": [
+        {
+          "hook": "Your scooter founder builds space servers",
+          "description": "Lo spazio è più freddo di qualsiasi data center terrestre. Ecco dove stanno andando i server della tua prossima app.",
+          "visual_hint": "Satellite in orbita terrestre",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "satellite orbit"
+        },
+        {
+          "hook": "$5M raised for orbital compute",
+          "description": "Il fondatore di un e-scooter ha raccolto 5 milioni da VC e aerospace per costruire data center in orbita.",
+          "visual_hint": "Razzo in fase di lancio",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "rocket launch",
+          "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Launch costs dropped, compute rises",
+          "description": "Lanciare roba nello spazio è diventato economico. Ora ha senso mettere compute in orbita invece che in un capannone.",
+          "visual_hint": "Grafico costo lancio in calo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "spacex launch",
+          "image": "https://images.pexels.com/photos/11755208/pexels-photo-11755208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cold space needs no cooling",
+          "description": "Server naturalmente freddi, nessun costo di raffreddamento, latenza bassa per copertura globale. Il modello economico regge.",
+          "visual_hint": "Modulo server spaziale bianco",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "space station interior",
+          "image": "https://images.pexels.com/photos/33117699/pexels-photo-33117699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your next cloud app from orbit",
+          "description": "La tua prossima app cloud potrebbe eseguire codice da un satellite. Costa meno di quanto pensi. Chiedi una demo.",
+          "visual_hint": "Smartphone con satellite sullo schermo",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "satellite dish",
+          "image": "https://images.pexels.com/photos/13615588/pexels-photo-13615588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/satellite.png?resize=1200,675",
+      "savedAt": "2026-06-09T14:30:01.013Z",
+      "sourceId": "adcc82140244bc689e786481a09a0ab1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "sandstone-raises-30m-to-bring-ai-to-in-house-legal",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+      "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+      "pubDate": "Tue, 09 Jun 2026 13:47:25 +0000",
+      "slides": [
+        "Sandstone ha appena raccolto 30 milioni. Per cosa?",
+        "L'AI nei team legali era vista come lenta e rischiosa.",
+        "Ora revisiona contratti in minuti, non giorni.",
+        "Avvocati interni possono concentrarsi su strategia.",
+        "Il vero test: provalo su un contratto vero."
+      ],
+      "thread_text": [
+        "Ora revisioni un contratto in minuti, non giorni. Senza errori. Ecco come l'AI ha cambiato i team legali interni.",
+        "Fino a poco fa, l'AI nei dipartimenti legali era considerata troppo lenta e rischiosa. Nessuno si fidava.",
+        "Poi è arrivato un tool che analizza un contratto in pochi minuti, invece di giorni. Precisione umana, velocità macchina.",
+        "Il risultato? Gli avvocati interni possono finalmente dedicarsi alla strategia, non alla lettura di clausole.",
+        "Sandstone ha appena chiuso un round da 30 milioni. Il test vero? Provarlo su un tuo contratto reale. Costa meno di un abbonamento Spotify."
+      ],
+      "video_script": [
+        "Revisioni un contratto in minuti, non giorni.",
+        "Prima l'AI legale era lenta e rischiosa.",
+        "Ora analizza tutto in pochi minuti.",
+        "Gli avvocati fanno strategia, non lettura.",
+        "Sandstone ha raccolto 30 milioni. Provalo."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Ora revisioni un contratto in minuti, non giorni. Senza errori. Ecco come l'AI ha cambiato i team legali interni.",
+            "Fino a poco fa, l'AI nei dipartimenti legali era considerata troppo lenta e rischiosa. Nessuno si fidava.",
+            "Poi è arrivato un tool che analizza un contratto in pochi minuti, invece di giorni. Precisione umana, velocità macchina.",
+            "Il risultato? Gli avvocati interni possono finalmente dedicarsi alla strategia, non alla lettura di clausole.",
+            "Sandstone ha appena chiuso un round da 30 milioni. Il test vero? Provarlo su un tuo contratto reale. Costa meno di un abbonamento Spotify."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Revisioni un contratto in minuti, non giorni.",
+            "Prima l'AI legale era lenta e rischiosa.",
+            "Ora analizza tutto in pochi minuti.",
+            "Gli avvocati fanno strategia, non lettura.",
+            "Sandstone ha raccolto 30 milioni. Provalo."
+          ]
+        },
+        "instagram": {
+          "caption": "Sandstone ha chiuso un round da 30 milioni di dollari per un software che revisiona contratti in minuti ⏱️. Fino a ieri, l'AI nei team legali era considerata lenta e rischiosa, nessuno si fidava. Ora i legali interni possono lasciare la lettura delle clausole alla macchina e concentrarsi sulla strategia 📋. Per chi lavora in un dipartimento legale, significa passare da giorni di analisi a pochi minuti, con precisione umana. Il vero test? Provarlo su un contratto vero: costa meno di un abbonamento Spotify 📄."
+        }
+      },
+      "instagram_caption": "Sandstone ha chiuso un round da 30 milioni di dollari per un software che revisiona contratti in minuti ⏱️. Fino a ieri, l'AI nei team legali era considerata lenta e rischiosa, nessuno si fidava. Ora i legali interni possono lasciare la lettura delle clausole alla macchina e concentrarsi sulla strategia 📋. Per chi lavora in un dipartimento legale, significa passare da giorni di analisi a pochi minuti, con precisione umana. Il vero test? Provarlo su un contratto vero: costa meno di un abbonamento Spotify 📄.",
+      "carousel_slides": [
+        {
+          "hook": "Revisioni contratti in minuti",
+          "description": "Ora revisioni un contratto in minuti, non giorni. Senza errori. Ecco come l'AI ha cambiato i team legali interni.",
+          "visual_hint": "Contratto con timer digitale",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "contract document clock"
+        },
+        {
+          "hook": "AI lenta e rischiosa",
+          "description": "Fino a poco fa, l'AI nei dipartimenti legali era considerata troppo lenta e rischiosa. Nessuno si fidava.",
+          "visual_hint": "Schermo con testo confuso",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer screen text",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Precisione umana velocità macchina",
+          "description": "Poi è arrivato un tool che analizza un contratto in pochi minuti, invece di giorni. Precisione umana, velocità macchina.",
+          "visual_hint": "Lente d'ingrandimento su clausole",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass document",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Avvocati alla strategia",
+          "description": "Il risultato? Gli avvocati interni possono finalmente dedicarsi alla strategia, non alla lettura di clausole.",
+          "visual_hint": "Avvocato che indica grafico",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers meeting",
+          "image": "https://images.pexels.com/photos/7964244/pexels-photo-7964244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "30M. Prova su contratto vero",
+          "description": "Sandstone ha appena chiuso un round da 30 milioni. Il test vero? Provarlo su un tuo contratto reale.",
+          "visual_hint": "Firma su contratto con logo",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "signature contract paper",
+          "image": "https://images.pexels.com/photos/8730977/pexels-photo-8730977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/image-6.png?resize=1200,800",
+      "savedAt": "2026-06-09T14:29:46.010Z",
+      "sourceId": "95ec654a1252464eb682d1941446b318"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "autonomous-ai-data-loss-in-devops-building-efficie",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -44447,6 +44759,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "torta-alle-carote-con-crema-al-formaggio",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Torta alle carote con crema al formaggio",
+      "link": "https://ricette.giallozafferano.it/Torta-alle-carote-con-crema-al-formaggio.html",
+      "pubDate": "Tue, 09 Jun 2026 11:02:00 +0200",
+      "content": "Torta alle carote con crema al formaggio: ricetta soffice e golosa Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Contenuto Sponsorizzato Torta alle carote con crema al formaggio /5 Ricetta proposta da Lucake CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA 585,4 Calorie per porzione Energia Kcal 585,4 Carboidrati g 57,1 &nbsp;&nbsp;di cui zuccheri g 32,1 Proteine g 16,3 Grassi g 33,7 &nbsp;&nbsp;di cui saturi g 11 Fibre g 3,6 Colesterolo mg 122 Sodio mg 300,5 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Vegetariano Difficoltà: Facile Preparazione: 40 min Cottura: 35 min Dosi per: 8 persone Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La torta alle carote con crema al formaggio è una versione ancora più golosa del classico dolce amato da grandi e piccoli. L’impasto soffice a base di carote e farina semi-integrale è arricchito con una farina di mandorle fatta in casa che conferisce un invitante tocco rustico e aromatico, mentre il succo e la scorza dell’arancia aggiungono un delizioso profumo agrumato . A rendere questa torta di carote e mandorle davvero speciale, però, è la crema al formaggio, dalla consistenza vellutata e leggera, che decora la superficie con un elegante effetto spatolato. Il suo gusto fresco e leggermente acidulo si abbina perfettamente alla dolcezza naturale delle carote , rendendo ogni fetta semplicemente irresistibile. Facile da realizzare e bella da portare in tavola, la torta alle carote con crema al formaggio è ideale per ogni occasione: da una pausa dolce in famiglia a una merenda speciale con gli amici. Correte subito a prepararla! Ecco altre deliziose varianti di torta di carote : Torta di carote sofficissima Carrot cake Torta di carote senza uova Torta alle carote e limoncello Carrot cake with cream cheese frosting INGREDIENTI 585,4 Calorie per porzione Per uno stampo da 22-24 cm di diametro Carote (da pulire) 300 g Zucchero di canna 200 g Farina 2 200 g Mandorle 100 g Uova 3 Olio di semi di girasole 80 g Succo d'arancia 100 g Scorza d'arancia 1 Lievito in polvere per dolci 16 g Sale fino 1 pizzico Per la crema al formaggio Formaggio spalmabile Philadelphia Light 210 g Panna fresca liquida 150 g Zucchero a velo 30 g Per guarnire Mandorle in scaglie q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta alle carote con crema al formaggio Per preparare la torta alle carote con crema al formaggio, per prima cosa versate in un mixer 150 g di zucchero di canna 1 e frullate fino a ridurlo quasi in polvere 2 . Trasferitelo in una ciotolina 3 e tenete da parte. Nello stesso mixer versate i restanti 50 g di zucchero di canna 4 , aggiungete le mandorle 5 e frullate per tritarle finemente 6 . Trasferite la farina di mandorle in una ciotolina 7 e tenete da parte. Ora pelate le carote e tagliatele grossolanamente a rondelle 8 . Mettete 250 g di carote pulite nello stesso mixer 9 . Unite l’olio di semi 10 e la spremuta d’arancia filtrata 11 , poi frullate fino ad ottenere una purea 12 . In una ciotola capiente versate le uova, lo zucchero di canna frullato in precedenza 13 , un pizzico di sale 14 e la scorza grattugiata dell’arancia 15 . Amalgamate gli ingredienti con le fruste elettriche per almeno 7-8 minuti 16 . Quando avrete ottenuto un composto chiaro e spumoso, unite la farina di mandorle preparata in precedenza 17 e incorporatela brevemente con le fruste. Aggiungete anche la purea di carote 18 e mescolate nuovamente con le fruste per amalgamarla. In ultimo setacciate la farina 19 e il lievito 20 e lavorate con le fruste a bassa velocità 21 fino ad ottenere un composto liscio e omogeneo. Versate l’impasto in uno stampo del diametro di 22-24 cm foderato con carta forno 22 e cuocete in forno statico preriscaldato a 175° per circa 35 minuti, posizionandolo sul primo ripiano in basso 23 . Prima di sfornare, verificate la cottura con uno stecchino, dopodiché lasciate raffreddare completamente la torta nello stampo 24 . Intanto dedicatevi alla crema: mettete il formaggio spalmabile Philadelphia Light in una ciotola, poi aggiungete la panna fresca 25 e lo zucchero a velo setacciato 26 . Montate con le fruste elettriche fino ad ottenere una consistenza soda e cremosa 27 . Quando la torta si sarà completamente raffreddata, sformatela e trasferitela su un piatto da portata. Distribuite la crema al formaggio su tutta la superficie, utilizzando il dorso di un cucchiaio per creare un effetto spatolato 28 . Infine, decorate il bordo con le scaglie di mandorle 29 . La vostra torta alle carote con crema al formaggio è pronta per essere servita 30 ! Conservazione La torta alle carote con crema al formaggio si può conservare in frigorifero per 2 giorni, in un contenitore ermetico. Potete congelare la base, senza la copertura. Consiglio Se preferite, potete utilizzare le mandorle pelate. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Uovo Scopri tutto sugli ingredienti Presente in: Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Torta alle carote con crema al formaggio 5.0 Clafoutis alle ciliegie senza lattosio e senza glutine 5.0 Pastina primaverile cremosa 5.0 SCOPRI Torta di carote light Torta di carote senza mandorle Crema al formaggio Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Torta alle carote con crema al formaggio soffice",
+        "Carote, zucchero di canna, mandorle, farina, uova",
+        "Frulla carote, olio e succo d'arancia a purea",
+        "Cuoci in forno statico a 175° per 35 minuti",
+        "Decora con crema spalmabile e scaglie di mandorle"
+      ],
+      "instagram_caption": "Un abbraccio in una fetta: soffice, profumata e con quella crema al formaggio che la rende irresistibile. 🥕🍊\n\nStanita delle solite merende? Questa torta alle carote ti conquisterà al primo morso: sbatto carote fresche frullate con olio e succo d’arancia, un tocco di mandorle e zucchero di canna per quella dolcezza genuina. La crema spalmabile al formaggio la avvolge come una nuvola, con scaglie croccanti in superficie. In forno 35 minuti e il gioco è fatto.\n\nProvala questo weekend e porti la primavera in tavola! 🌿✨",
+      "formats": {
+        "instagram": {
+          "caption": "Un abbraccio in una fetta: soffice, profumata e con quella crema al formaggio che la rende irresistibile. 🥕🍊\n\nStanita delle solite merende? Questa torta alle carote ti conquisterà al primo morso: sbatto carote fresche frullate con olio e succo d’arancia, un tocco di mandorle e zucchero di canna per quella dolcezza genuina. La crema spalmabile al formaggio la avvolge come una nuvola, con scaglie croccanti in superficie. In forno 35 minuti e il gioco è fatto.\n\nProvala questo weekend e porti la primavera in tavola! 🌿✨"
+        },
+        "tiktok": {
+          "script": [
+            "Frullo carote con olio e arancia.",
+            "Mescolo zucchero, mandorle, farina e uova.",
+            "Unisco la purea al composto secco.",
+            "Verso in teglia e cuocio 35 minuti.",
+            "Spalmo la crema e aggiungo scaglie."
+          ]
+        },
+        "x": {
+          "thread": [
+            "C'è torta e torta. Poi c'è questa: carote, mandorle e una crema al formaggio che la trasforma in un peccato divino. Soffice, umida, con quel contrasto perfetto tra dolce e fresco. Se non l'hai mai provata, ti stai perdendo qualcosa di grosso.",
+            "Riunisci carote, zucchero di canna, mandorle, farina e uova. Ma il segreto è frullare le carote con olio e succo d'arancia fino a ottenere una purea liscia: questa è la base che regala un'umidità pazzesca all'impasto.",
+            "Versa tutto in una teglia e cuoci in forno statico a 175° per 35 minuti. La casa si riempie di un profumo che già sa di comfort. Aspetta che si raffreddi, perché il bello deve ancora arrivare.",
+            "Stendi una generosa dose di crema spalmabile al formaggio sulla superficie: soffice, fresca, leggermente acidula. Poi completa con scaglie di mandorle tostate per quel crunch che fa la differenza.",
+            "Il trucco? Lasciala riposare in frigo un'ora prima di servirla: la crema si compatta e i sapori si fondono come per magia. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Frullo carote con olio e arancia.",
+        "Mescolo zucchero, mandorle, farina e uova.",
+        "Unisco la purea al composto secco.",
+        "Verso in teglia e cuocio 35 minuti.",
+        "Spalmo la crema e aggiungo scaglie."
+      ],
+      "thread_text": [
+        "C'è torta e torta. Poi c'è questa: carote, mandorle e una crema al formaggio che la trasforma in un peccato divino. Soffice, umida, con quel contrasto perfetto tra dolce e fresco. Se non l'hai mai provata, ti stai perdendo qualcosa di grosso.",
+        "Riunisci carote, zucchero di canna, mandorle, farina e uova. Ma il segreto è frullare le carote con olio e succo d'arancia fino a ottenere una purea liscia: questa è la base che regala un'umidità pazzesca all'impasto.",
+        "Versa tutto in una teglia e cuoci in forno statico a 175° per 35 minuti. La casa si riempie di un profumo che già sa di comfort. Aspetta che si raffreddi, perché il bello deve ancora arrivare.",
+        "Stendi una generosa dose di crema spalmabile al formaggio sulla superficie: soffice, fresca, leggermente acidula. Poi completa con scaglie di mandorle tostate per quel crunch che fa la differenza.",
+        "Il trucco? Lasciala riposare in frigo un'ora prima di servirla: la crema si compatta e i sapori si fondono come per magia. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Torta soffice alle carote",
+          "description": "Una torta umida e aromatica con crema al formaggio, perfetta per ogni occasione.",
+          "visual_hint": "torta intera su piatto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "carrot cake slice"
+        },
+        {
+          "hook": "Ingredienti chiave",
+          "description": "Carote fresche, zucchero di canna, mandorle e una base semplice di farina e uova.",
+          "visual_hint": "ingredienti disposti su tavola",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "carrot cake ingredients",
+          "image": "https://images.pexels.com/photos/5594508/pexels-photo-5594508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Frulla a purea",
+          "description": "Frulla carote, olio e succo d'arancia fino a ottenere una crema liscia e profumata.",
+          "visual_hint": "frullatore in azione",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "blending carrots",
+          "image": "https://images.pexels.com/photos/9704414/pexels-photo-9704414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cottura perfetta",
+          "description": "Cuoci in forno statico a 175° per 35 minuti: la torta sarà dorata e soffice.",
+          "visual_hint": "mano che apre il forno",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "baked carrot cake",
+          "image": "https://images.pexels.com/photos/5594502/pexels-photo-5594502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Decora con stile",
+          "description": "Spalma la crema al formaggio e guarnisci con scaglie di mandorle tostate.",
+          "visual_hint": "torta decorata su piatto",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "carrot cake with frosting",
+          "image": "https://images.pexels.com/photos/5594502/pexels-photo-5594502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "dessert",
+      "signature_ingredients": [
+        "carote",
+        "mandorle",
+        "crema di formaggio"
+      ],
+      "image": "https://www.giallozafferano.it/images/362-36261/Torta-alle-carote-con-crema-al-formaggio_650x433_wm.jpg",
+      "savedAt": "2026-06-09T14:33:49.265Z",
+      "sourceId": "4d010dcdf7bcf3747d89c9883a0c78a2"
+    },
     {
       "schema_version": 2,
       "agent": "food",

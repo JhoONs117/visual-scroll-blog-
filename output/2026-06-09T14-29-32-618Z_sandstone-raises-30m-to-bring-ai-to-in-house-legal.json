@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sandstone-raises-30m-to-bring-ai-to-in-house-legal",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+  "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+  "pubDate": "Tue, 09 Jun 2026 13:47:25 +0000",
+  "slides": [
+    "Sandstone ha appena raccolto 30 milioni. Per cosa?",
+    "L'AI nei team legali era vista come lenta e rischiosa.",
+    "Ora revisiona contratti in minuti, non giorni.",
+    "Avvocati interni possono concentrarsi su strategia.",
+    "Il vero test: provalo su un contratto vero."
+  ],
+  "thread_text": [
+    "Ora revisioni un contratto in minuti, non giorni. Senza errori. Ecco come l'AI ha cambiato i team legali interni.",
+    "Fino a poco fa, l'AI nei dipartimenti legali era considerata troppo lenta e rischiosa. Nessuno si fidava.",
+    "Poi è arrivato un tool che analizza un contratto in pochi minuti, invece di giorni. Precisione umana, velocità macchina.",
+    "Il risultato? Gli avvocati interni possono finalmente dedicarsi alla strategia, non alla lettura di clausole.",
+    "Sandstone ha appena chiuso un round da 30 milioni. Il test vero? Provarlo su un tuo contratto reale. Costa meno di un abbonamento Spotify."
+  ],
+  "video_script": [
+    "Revisioni un contratto in minuti, non giorni.",
+    "Prima l'AI legale era lenta e rischiosa.",
+    "Ora analizza tutto in pochi minuti.",
+    "Gli avvocati fanno strategia, non lettura.",
+    "Sandstone ha raccolto 30 milioni. Provalo."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Ora revisioni un contratto in minuti, non giorni. Senza errori. Ecco come l'AI ha cambiato i team legali interni.",
+        "Fino a poco fa, l'AI nei dipartimenti legali era considerata troppo lenta e rischiosa. Nessuno si fidava.",
+        "Poi è arrivato un tool che analizza un contratto in pochi minuti, invece di giorni. Precisione umana, velocità macchina.",
+        "Il risultato? Gli avvocati interni possono finalmente dedicarsi alla strategia, non alla lettura di clausole.",
+        "Sandstone ha appena chiuso un round da 30 milioni. Il test vero? Provarlo su un tuo contratto reale. Costa meno di un abbonamento Spotify."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Revisioni un contratto in minuti, non giorni.",
+        "Prima l'AI legale era lenta e rischiosa.",
+        "Ora analizza tutto in pochi minuti.",
+        "Gli avvocati fanno strategia, non lettura.",
+        "Sandstone ha raccolto 30 milioni. Provalo."
+      ]
+    },
+    "instagram": {
+      "caption": "Sandstone ha chiuso un round da 30 milioni di dollari per un software che revisiona contratti in minuti ⏱️. Fino a ieri, l'AI nei team legali era considerata lenta e rischiosa, nessuno si fidava. Ora i legali interni possono lasciare la lettura delle clausole alla macchina e concentrarsi sulla strategia 📋. Per chi lavora in un dipartimento legale, significa passare da giorni di analisi a pochi minuti, con precisione umana. Il vero test? Provarlo su un contratto vero: costa meno di un abbonamento Spotify 📄."
+    }
+  },
+  "instagram_caption": "Sandstone ha chiuso un round da 30 milioni di dollari per un software che revisiona contratti in minuti ⏱️. Fino a ieri, l'AI nei team legali era considerata lenta e rischiosa, nessuno si fidava. Ora i legali interni possono lasciare la lettura delle clausole alla macchina e concentrarsi sulla strategia 📋. Per chi lavora in un dipartimento legale, significa passare da giorni di analisi a pochi minuti, con precisione umana. Il vero test? Provarlo su un contratto vero: costa meno di un abbonamento Spotify 📄.",
+  "carousel_slides": [
+    {
+      "hook": "Revisioni contratti in minuti",
+      "description": "Ora revisioni un contratto in minuti, non giorni. Senza errori. Ecco come l'AI ha cambiato i team legali interni.",
+      "visual_hint": "Contratto con timer digitale",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "contract document clock"
+    },
+    {
+      "hook": "AI lenta e rischiosa",
+      "description": "Fino a poco fa, l'AI nei dipartimenti legali era considerata troppo lenta e rischiosa. Nessuno si fidava.",
+      "visual_hint": "Schermo con testo confuso",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer screen text",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Precisione umana velocità macchina",
+      "description": "Poi è arrivato un tool che analizza un contratto in pochi minuti, invece di giorni. Precisione umana, velocità macchina.",
+      "visual_hint": "Lente d'ingrandimento su clausole",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Avvocati alla strategia",
+      "description": "Il risultato? Gli avvocati interni possono finalmente dedicarsi alla strategia, non alla lettura di clausole.",
+      "visual_hint": "Avvocato che indica grafico",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers meeting",
+      "image": "https://images.pexels.com/photos/7964244/pexels-photo-7964244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "30M. Prova su contratto vero",
+      "description": "Sandstone ha appena chiuso un round da 30 milioni. Il test vero? Provarlo su un tuo contratto reale.",
+      "visual_hint": "Firma su contratto con logo",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "signature contract paper",
+      "image": "https://images.pexels.com/photos/8730977/pexels-photo-8730977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/image-6.png?resize=1200,800",
+  "savedAt": "2026-06-09T14:29:46.010Z",
+  "sourceId": "95ec654a1252464eb682d1941446b318"
+}

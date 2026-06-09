@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "apple-bets-cheaper-ai-will-woo-small-developers",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple bets cheaper AI will woo small developers",
+    "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+    "pubDate": "Mon, 08 Jun 2026 20:53:55 +0000",
+    "slides": [
+      "Apple punta sui piccoli sviluppatori? Forse una mossa inaspettata.",
+      "I device meno costosi potrebbero escludere alcune funzioni AI.",
+      "Apple offre API a costo ridotto per app AI entry-level.",
+      "Tu sviluppatore: testi ora o aspetti la concorrenza diretta?",
+      "Un prototipo oggi vale più di un piano strategico domani."
+    ],
+    "thread_text": [
+      "Apple ha appena tagliato il costo delle API AI per gli sviluppatori entry-level. Un segnale che guarda ai più piccoli, non solo ai big.",
+      "La mossa arriva mentre i device meno costosi di Apple potrebbero perdere alcune funzioni AI. Un controsenso apparente, se non fosse per il piano nascosto.",
+      "L'idea è chiara: abbassare la soglia d'ingresso per le app AI. Testare ora costa poco, aspettare significa perdere il vantaggio del primo costruttore.",
+      "I grandi player studiano strategie. Tu sviluppatore, con un prototipo funzionante oggi, giochi in anticipo rispetto a chi aspetta il piano perfetto.",
+      "Costa meno di un abbonamento Netflix iniziare. Non hai scuse per non testare entro domani."
+    ],
+    "video_script": [
+      "Apple taglia i prezzi delle API AI per i piccoli",
+      "I device economici potrebbero perdere funzioni AI",
+      "Ma è una strategia per farvi iniziare ora",
+      "Un prototipo oggi vale più di un piano domani",
+      "Provatelo subito, costa pochissimo e non aspettate"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Apple ha appena tagliato il costo delle API AI per gli sviluppatori entry-level. Un segnale che guarda ai più piccoli, non solo ai big.",
+          "La mossa arriva mentre i device meno costosi di Apple potrebbero perdere alcune funzioni AI. Un controsenso apparente, se non fosse per il piano nascosto.",
+          "L'idea è chiara: abbassare la soglia d'ingresso per le app AI. Testare ora costa poco, aspettare significa perdere il vantaggio del primo costruttore.",
+          "I grandi player studiano strategie. Tu sviluppatore, con un prototipo funzionante oggi, giochi in anticipo rispetto a chi aspetta il piano perfetto.",
+          "Costa meno di un abbonamento Netflix iniziare. Non hai scuse per non testare entro domani."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple taglia i prezzi delle API AI per i piccoli",
+          "I device economici potrebbero perdere funzioni AI",
+          "Ma è una strategia per farvi iniziare ora",
+          "Un prototipo oggi vale più di un piano domani",
+          "Provatelo subito, costa pochissimo e non aspettate"
+        ]
+      },
+      "instagram": {
+        "caption": "Apple ha abbassato il costo delle API AI per gli sviluppatori più piccoli, quelli che prima restavano fuori dal giro. 🧑‍💻 La mossa è curiosa perché arriva mentre i device economici di Apple potrebbero perdere alcune funzioni AI avanzate. 💡 Il messaggio è: testare un prototipo ora costa meno di un abbonamento Netflix, quindi chi entra subito gioca in vantaggio sulla concorrenza. 🚀 Per te sviluppatore significa poter lanciare un'idea senza aspettare il piano perfetto. Quanto vale oggi iniziare, rispetto a chi aspetta domani? ⏳"
+      }
+    },
+    "instagram_caption": "Apple ha abbassato il costo delle API AI per gli sviluppatori più piccoli, quelli che prima restavano fuori dal giro. 🧑‍💻 La mossa è curiosa perché arriva mentre i device economici di Apple potrebbero perdere alcune funzioni AI avanzate. 💡 Il messaggio è: testare un prototipo ora costa meno di un abbonamento Netflix, quindi chi entra subito gioca in vantaggio sulla concorrenza. 🚀 Per te sviluppatore significa poter lanciare un'idea senza aspettare il piano perfetto. Quanto vale oggi iniziare, rispetto a chi aspetta domani? ⏳",
+    "carousel_slides": [
+      {
+        "hook": "AI a costo zero?",
+        "description": "Apple taglia il costo delle API AI entry-level. Un segnale che guarda ai piccoli sviluppatori, non solo ai big.",
+        "visual_hint": "Taglio prezzo API",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room lights"
+      },
+      {
+        "hook": "Device tagliati fuori?",
+        "description": "I device meno costosi potrebbero perdere funzioni AI. Un controsenso se non fosse per il piano nascosto di Apple.",
+        "visual_hint": "iPhone economico",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "iPhone X display",
+        "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Testa ora o mai più",
+        "description": "Abbassare la soglia d'ingresso per app AI. Testare ora costa poco, aspettare significa perdere il vantaggio del primo.",
+        "visual_hint": "Soglia che si abbassa",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "code on screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Tu, developer, muoviti",
+        "description": "Con un prototipo oggi giochi in anticipo rispetto a chi aspetta il piano perfetto. I grandi studiano, tu agisci.",
+        "visual_hint": "Mano su tastiera",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands typing laptop",
+        "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Netflix? No, ora codi",
+        "description": "Costa meno di un abbonamento Netflix iniziare. Non hai scuse per non testare entro domani.",
+        "visual_hint": "Confronto costi",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "Netflix logo smartphone",
+        "image": "https://images.pexels.com/photos/6632995/pexels-photo-6632995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?resize=1200,722",
+    "savedAt": "2026-06-09T14:30:17.044Z",
+    "sourceId": "bae85cd85745730c5290022e1a44b4e9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "how-an-e-scooter-founder-raised-5-million-to-build",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "How an e-scooter founder raised $5 million to build space data centers",
+    "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+    "pubDate": "Tue, 09 Jun 2026 12:00:00 +0000",
+    "slides": [
+      "The founder behind your e-scooter now builds space data centers?",
+      "He raised $5 million from aerospace and VC investors.",
+      "Orbit is colder than any Earth data center, naturally.",
+      "Your next cloud app might run from a satellite.",
+      "Launch costs dropped—so why not compute up there?"
+    ],
+    "thread_text": [
+      "Orbita è più fredda di qualsiasi data center sulla Terra. Ecco dove stanno andando i server della tua prossima app.",
+      "Il fondatore di uno dei tuoi e-scooter preferiti ha appena raccolto 5 milioni da fondi VC e aerospace. Cosa sta costruendo? Data center in orbita.",
+      "Lanciare roba nello spazio è diventato economico. Così economico che ha senso mettere compute in orbita invece che in un capannone in Nevada.",
+      "Server freddi naturalmente, nessun costo di raffreddamento, latenza bassa per copertura globale. Il modello economico ora regge.",
+      "La tua prossima app cloud potrebbe eseguire codice da un satellite. Costa meno di quanto pensi. Chiedi una demo."
+    ],
+    "video_script": [
+      "Orbita è più fredda di ogni data center sulla Terra.",
+      "Un ragazzo ha preso 5 milioni per mettere server su in cielo.",
+      "I costi di lancio sono crollati.",
+      "Adesso ha senso computare lassù invece che in Nevada.",
+      "La tua prossima app potrebbe girare da un satellite."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Orbita è più fredda di qualsiasi data center sulla Terra. Ecco dove stanno andando i server della tua prossima app.",
+          "Il fondatore di uno dei tuoi e-scooter preferiti ha appena raccolto 5 milioni da fondi VC e aerospace. Cosa sta costruendo? Data center in orbita.",
+          "Lanciare roba nello spazio è diventato economico. Così economico che ha senso mettere compute in orbita invece che in un capannone in Nevada.",
+          "Server freddi naturalmente, nessun costo di raffreddamento, latenza bassa per copertura globale. Il modello economico ora regge.",
+          "La tua prossima app cloud potrebbe eseguire codice da un satellite. Costa meno di quanto pensi. Chiedi una demo."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Orbita è più fredda di ogni data center sulla Terra.",
+          "Un ragazzo ha preso 5 milioni per mettere server su in cielo.",
+          "I costi di lancio sono crollati.",
+          "Adesso ha senso computare lassù invece che in Nevada.",
+          "La tua prossima app potrebbe girare da un satellite."
+        ]
+      },
+      "instagram": {
+        "caption": "Il fondatore di un e-scooter che hai usato sta ora raccogliendo 5 milioni di dollari per server nello spazio 🛰️. L'idea? L'orbita è già fredda (-270°C), niente costi di raffreddamento. E con i lanci diventati più economici, ha senso spostare il computing in orbita invece che in un capannone terrestre ❄️. La tua prossima app cloud potrebbe eseguire codice direttamente da un satellite, con latenza globale ridotta e nessuna bolletta energetica per il raffrescamento ☁️. Stiamo per lavorare su server fuori dal pianeta? 💻"
+      }
+    },
+    "instagram_caption": "Il fondatore di un e-scooter che hai usato sta ora raccogliendo 5 milioni di dollari per server nello spazio 🛰️. L'idea? L'orbita è già fredda (-270°C), niente costi di raffreddamento. E con i lanci diventati più economici, ha senso spostare il computing in orbita invece che in un capannone terrestre ❄️. La tua prossima app cloud potrebbe eseguire codice direttamente da un satellite, con latenza globale ridotta e nessuna bolletta energetica per il raffrescamento ☁️. Stiamo per lavorare su server fuori dal pianeta? 💻",
+    "carousel_slides": [
+      {
+        "hook": "Your scooter founder builds space servers",
+        "description": "Lo spazio è più freddo di qualsiasi data center terrestre. Ecco dove stanno andando i server della tua prossima app.",
+        "visual_hint": "Satellite in orbita terrestre",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "satellite orbit"
+      },
+      {
+        "hook": "$5M raised for orbital compute",
+        "description": "Il fondatore di un e-scooter ha raccolto 5 milioni da VC e aerospace per costruire data center in orbita.",
+        "visual_hint": "Razzo in fase di lancio",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "rocket launch",
+        "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Launch costs dropped, compute rises",
+        "description": "Lanciare roba nello spazio è diventato economico. Ora ha senso mettere compute in orbita invece che in un capannone.",
+        "visual_hint": "Grafico costo lancio in calo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "spacex launch",
+        "image": "https://images.pexels.com/photos/11755208/pexels-photo-11755208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cold space needs no cooling",
+        "description": "Server naturalmente freddi, nessun costo di raffreddamento, latenza bassa per copertura globale. Il modello economico regge.",
+        "visual_hint": "Modulo server spaziale bianco",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "space station interior",
+        "image": "https://images.pexels.com/photos/33117699/pexels-photo-33117699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your next cloud app from orbit",
+        "description": "La tua prossima app cloud potrebbe eseguire codice da un satellite. Costa meno di quanto pensi. Chiedi una demo.",
+        "visual_hint": "Smartphone con satellite sullo schermo",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "satellite dish",
+        "image": "https://images.pexels.com/photos/13615588/pexels-photo-13615588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/satellite.png?resize=1200,675",
+    "savedAt": "2026-06-09T14:30:01.013Z",
+    "sourceId": "adcc82140244bc689e786481a09a0ab1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "sandstone-raises-30m-to-bring-ai-to-in-house-legal",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+    "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+    "pubDate": "Tue, 09 Jun 2026 13:47:25 +0000",
+    "slides": [
+      "Sandstone ha appena raccolto 30 milioni. Per cosa?",
+      "L'AI nei team legali era vista come lenta e rischiosa.",
+      "Ora revisiona contratti in minuti, non giorni.",
+      "Avvocati interni possono concentrarsi su strategia.",
+      "Il vero test: provalo su un contratto vero."
+    ],
+    "thread_text": [
+      "Ora revisioni un contratto in minuti, non giorni. Senza errori. Ecco come l'AI ha cambiato i team legali interni.",
+      "Fino a poco fa, l'AI nei dipartimenti legali era considerata troppo lenta e rischiosa. Nessuno si fidava.",
+      "Poi è arrivato un tool che analizza un contratto in pochi minuti, invece di giorni. Precisione umana, velocità macchina.",
+      "Il risultato? Gli avvocati interni possono finalmente dedicarsi alla strategia, non alla lettura di clausole.",
+      "Sandstone ha appena chiuso un round da 30 milioni. Il test vero? Provarlo su un tuo contratto reale. Costa meno di un abbonamento Spotify."
+    ],
+    "video_script": [
+      "Revisioni un contratto in minuti, non giorni.",
+      "Prima l'AI legale era lenta e rischiosa.",
+      "Ora analizza tutto in pochi minuti.",
+      "Gli avvocati fanno strategia, non lettura.",
+      "Sandstone ha raccolto 30 milioni. Provalo."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Ora revisioni un contratto in minuti, non giorni. Senza errori. Ecco come l'AI ha cambiato i team legali interni.",
+          "Fino a poco fa, l'AI nei dipartimenti legali era considerata troppo lenta e rischiosa. Nessuno si fidava.",
+          "Poi è arrivato un tool che analizza un contratto in pochi minuti, invece di giorni. Precisione umana, velocità macchina.",
+          "Il risultato? Gli avvocati interni possono finalmente dedicarsi alla strategia, non alla lettura di clausole.",
+          "Sandstone ha appena chiuso un round da 30 milioni. Il test vero? Provarlo su un tuo contratto reale. Costa meno di un abbonamento Spotify."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Revisioni un contratto in minuti, non giorni.",
+          "Prima l'AI legale era lenta e rischiosa.",
+          "Ora analizza tutto in pochi minuti.",
+          "Gli avvocati fanno strategia, non lettura.",
+          "Sandstone ha raccolto 30 milioni. Provalo."
+        ]
+      },
+      "instagram": {
+        "caption": "Sandstone ha chiuso un round da 30 milioni di dollari per un software che revisiona contratti in minuti ⏱️. Fino a ieri, l'AI nei team legali era considerata lenta e rischiosa, nessuno si fidava. Ora i legali interni possono lasciare la lettura delle clausole alla macchina e concentrarsi sulla strategia 📋. Per chi lavora in un dipartimento legale, significa passare da giorni di analisi a pochi minuti, con precisione umana. Il vero test? Provarlo su un contratto vero: costa meno di un abbonamento Spotify 📄."
+      }
+    },
+    "instagram_caption": "Sandstone ha chiuso un round da 30 milioni di dollari per un software che revisiona contratti in minuti ⏱️. Fino a ieri, l'AI nei team legali era considerata lenta e rischiosa, nessuno si fidava. Ora i legali interni possono lasciare la lettura delle clausole alla macchina e concentrarsi sulla strategia 📋. Per chi lavora in un dipartimento legale, significa passare da giorni di analisi a pochi minuti, con precisione umana. Il vero test? Provarlo su un contratto vero: costa meno di un abbonamento Spotify 📄.",
+    "carousel_slides": [
+      {
+        "hook": "Revisioni contratti in minuti",
+        "description": "Ora revisioni un contratto in minuti, non giorni. Senza errori. Ecco come l'AI ha cambiato i team legali interni.",
+        "visual_hint": "Contratto con timer digitale",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "contract document clock"
+      },
+      {
+        "hook": "AI lenta e rischiosa",
+        "description": "Fino a poco fa, l'AI nei dipartimenti legali era considerata troppo lenta e rischiosa. Nessuno si fidava.",
+        "visual_hint": "Schermo con testo confuso",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer screen text",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Precisione umana velocità macchina",
+        "description": "Poi è arrivato un tool che analizza un contratto in pochi minuti, invece di giorni. Precisione umana, velocità macchina.",
+        "visual_hint": "Lente d'ingrandimento su clausole",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass document",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Avvocati alla strategia",
+        "description": "Il risultato? Gli avvocati interni possono finalmente dedicarsi alla strategia, non alla lettura di clausole.",
+        "visual_hint": "Avvocato che indica grafico",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers meeting",
+        "image": "https://images.pexels.com/photos/7964244/pexels-photo-7964244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "30M. Prova su contratto vero",
+        "description": "Sandstone ha appena chiuso un round da 30 milioni. Il test vero? Provarlo su un tuo contratto reale.",
+        "visual_hint": "Firma su contratto con logo",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "signature contract paper",
+        "image": "https://images.pexels.com/photos/8730977/pexels-photo-8730977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/image-6.png?resize=1200,800",
+    "savedAt": "2026-06-09T14:29:46.010Z",
+    "sourceId": "95ec654a1252464eb682d1941446b318"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "autonomous-ai-data-loss-in-devops-building-efficie",
     "prompt_version": "1.0.0",
     "status": "published",
