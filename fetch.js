@@ -4,9 +4,10 @@ const RSSParser = require('rss-parser');
 const parser = new RSSParser();
 
 const FEEDS = [
-  'https://feeds.feedburner.com/oreilly/radar',
   'https://www.artificialintelligence-news.com/feed/',
   'https://techcrunch.com/feed/',
+  'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',
+  'https://venturebeat.com/category/ai/feed/',
 ];
 
 async function fetchArticles() {

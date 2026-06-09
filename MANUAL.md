@@ -50,22 +50,26 @@ Cerca questa sezione nel file:
 
 ```js
 const FEEDS = [
-  'https://feeds.feedburner.com/oreilly/radar',
   'https://www.artificialintelligence-news.com/feed/',
   'https://techcrunch.com/feed/',
+  'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',
+  'https://venturebeat.com/category/ai/feed/',
 ];
 ```
 
 Aggiungi l'URL del nuovo feed RSS in fondo all'array, prima della `]`.
 
-**Esempio — aggiungere il feed di The Verge:**
+**Nota (2026-06-09):** O'Reilly (`feeds.feedburner.com/oreilly/radar`) rimosso — 404 permanente. Sostituito con TheVerge AI (sezione dedicata) e VentureBeat AI per bilanciare la dominanza TechCrunch.
+
+**Esempio — aggiungere MIT Tech Review:**
 
 ```js
 const FEEDS = [
-  'https://feeds.feedburner.com/oreilly/radar',
   'https://www.artificialintelligence-news.com/feed/',
   'https://techcrunch.com/feed/',
-  'https://www.theverge.com/rss/index.xml',
+  'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',
+  'https://venturebeat.com/category/ai/feed/',
+  'https://www.technologyreview.com/feed/',
 ];
 ```
 
@@ -80,26 +84,32 @@ const FEEDS = [
 Il sistema ha due liste che determinano quali notizie passano:
 
 ```js
-const WHITELIST = ['ai', 'gpt', 'agent', 'llm', 'model', 'openai'];
+// WHITELIST_WORDS: regex word-boundary — evita falsi positivi da sottostringa
+const WHITELIST_WORDS  = [/\bai\b/, /\bgpt\b/, /\bagents?\b/, /\bllm\b/, /\bmodels?\b/, /\bopenai\b/];
+// WHITELIST_SUBSTR: brand AI — sempre standalone, includes() sufficiente
+const WHITELIST_SUBSTR = ['anthropic', 'deepseek', 'gemini', 'claude', 'mistral', 'nvidia', 'chatgpt'];
 const BLACKLIST = ['funding', 'politics', 'lawsuit', 'acquisition'];
 ```
 
-- **WHITELIST** — la notizia deve contenere almeno una di queste parole per passare
+- **WHITELIST_WORDS** — keyword che matchano solo come parola intera (`\bai\b` non matcha "raises", "fail", "gain")
+- **WHITELIST_SUBSTR** — brand AI che non hanno il problema sottostringa; aggiorna questa lista per nuovi modelli/aziende
 - **BLACKLIST** — la notizia viene scartata se contiene anche solo una di queste parole
 
-**Esempio — aggiungere "claude" e "gemini" alla whitelist:**
+**Nota (2026-06-09):** refactoring da array di stringhe a due liste separate. `"ai"` era il problema principale: matchava "raises" (r-a-i-s-e), "fail", "gain" come sottostringa, producendo ~14% falsi positivi nel campione testato.
+
+**Esempio — aggiungere "perplexity" e "groq" alla whitelist:**
 
 ```js
-const WHITELIST = ['ai', 'gpt', 'agent', 'llm', 'model', 'openai', 'claude', 'gemini'];
+const WHITELIST_SUBSTR = ['anthropic', 'deepseek', 'gemini', 'claude', 'mistral', 'nvidia', 'chatgpt', 'perplexity', 'groq'];
 ```
 
-**Esempio — escludere anche notizie su acquisizioni e layoff:**
+**Esempio — escludere anche notizie su layoff:**
 
 ```js
-const BLACKLIST = ['funding', 'politics', 'lawsuit', 'acquisition', 'layoff', 'fired'];
+const BLACKLIST = ['funding', 'politics', 'lawsuit', 'acquisition', 'layoff'];
 ```
 
-> Le parole vengono cercate nel titolo dell'articolo, non nel testo completo. Non distingue maiuscole da minuscole: scrivere `"gpt"` trova anche "GPT-4", "GPT5", ecc.
+> Le parole vengono cercate nel titolo dell'articolo in lowercase. WHITELIST_WORDS usa word boundary regex; WHITELIST_SUBSTR usa includes() semplice.
 
 ---
 
@@ -1379,7 +1389,9 @@ Il file JSON in `output/` ha sempre il formato `{timestamp}_{slug}.json`. Lo slu
 | `video/templates/network-graph.js` | Template: nodi/edge SVG opacity reveal |
 | `video/templates/minimal-documentary.js` | Template: Pexels + Ken Burns + vignette |
 | `video/templates/code-terminal.js` | Template: typing SVG + syntax highlight |
-| `video/templates/whiteboard.js` | Template: stroke-dashoffset + arrowhead smart connector |
+| `video/templates/whiteboard.js` | Template: **Blender GP** — chiama `render_whiteboard.py` headless, assembla PNG+audio con FFmpeg |
+| `video/assets/blender/whiteboard/render_whiteboard.py` | Genera scena GP procedurale da params.json (no .blend). Grease Pencil + Build modifier. |
+| `video/assets/blender/whiteboard/preview_whiteboard.py` | Helper GUI Blender per iterazione rapida (non pipeline) |
 | `video/templates/isometric-workflow.js` | Template: blocchi 3D-illusion SVG + ImageMagick |
 | `video/templates/map-explainer.js` | Template: GeoJSON Natural Earth + proiezione Mercatore |
 | `video/templates/parallax-25d.js` | Template: Pexels + FFmpeg crop dinamico |
@@ -1401,7 +1413,7 @@ Il file JSON in `output/` ha sempre il formato `{timestamp}_{slug}.json`. Lo slu
 | `network_graph` | Network Graph | ✅ | ai-news | Nodi e connessioni SVG con opacity reveal + TTS. |
 | `minimal_documentary` | Documentary | ✅ | ai-news, food, fitness | Immagini Pexels + Ken Burns + vignette + TTS. |
 | `code_terminal` | Terminal | ✅ | ai-news | Typing animation SVG + syntax highlight + cursor blink + TTS. |
-| `whiteboard` | Whiteboard | ✅ | ai-news, food, fitness | Stroke-dashoffset SVG + arrowhead smart connector + TTS. |
+| `whiteboard` | Whiteboard | ✅ | ai-news, food, fitness | **Blender GP organico** — Grease Pencil + Build modifier reveal + TTS. Cat 3 (solo locale). Render `render_whiteboard.py`. Preview: `/tmp/wb_preview.py` in Blender GUI. |
 | `isometric_workflow` | Isometric | ✅ | ai-news | Blocchi 3D-illusion SVG, ImageMagick SVG→PNG, frecce dashed + TTS. |
 | `map_explainer` | Map | ✅ | ai-news | GeoJSON Natural Earth, proiezione Mercatore, paesi colorati, route animate + TTS. |
 | `parallax_25d` | Parallax | ✅ | ai-news, food, fitness | Immagini Pexels con FFmpeg crop offset dinamico + TTS. |
@@ -1518,6 +1530,101 @@ node video/test-template.js --template anatomy_motion
 # Output: output/renders/test-anatomy_motion.mp4
 # 5 scene: polpacci → quadricipiti → femorali → glutei → tutti i muscoli
 ```
+
+### §32 — whiteboard e Blender Grease Pencil
+
+> Aggiornato 2026-05-29. Whiteboard riscritto da Cat 1 (SVG) a Cat 3 (Blender EEVEE + GP).
+
+#### Come funziona il template
+
+`whiteboard.js` chiama Blender headless per ogni scena:
+
+```bash
+blender --background --python render_whiteboard.py -- params.json
+```
+
+Non usa un file `.blend` — la scena è generata da zero ogni volta in Python. Output: frame PNG in una dir temporanea → FFmpeg assembla MP4.
+
+`params.json` contiene:
+```json
+{
+  "headline": "Testo titolo scena",
+  "elements": [
+    { "type": "rect",   "label": "Box",  "position": {"x":50,"y":25}, "size": "large",  "reveal_order": 0, "_sceneIdx": 0 },
+    { "type": "arrow",  "label": "",     "position": {"x":50,"y":50}, "size": "small",  "reveal_order": 1, "_sceneIdx": 0 },
+    { "type": "circle", "label": "Idea", "position": {"x":50,"y":75}, "size": "medium", "reveal_order": 2, "_sceneIdx": 0 }
+  ],
+  "persistent_elements": [],
+  "output_dir": "/tmp/wb_frames_0",
+  "frame_count": 75,
+  "fps": 25
+}
+```
+
+Tipi disponibili: `rect` · `circle` · `arrow` · `check` · `persona`  
+Size: `small` · `medium` · `large`  
+Posizione: `x`/`y` in % (0–100) nel content area `x[80,1000]px · y[230,1820]px`
+
+#### Iterazione rapida con Blender GUI
+
+1. Modifica `render_whiteboard.py`
+2. In **Blender Python Console**: `exec(open('/tmp/wb_preview.py').read())`
+3. **Numpad 0** → vista camera · **F12** → render frame singolo
+4. Ogni `exec()` ricrea la scena da zero (non serve riavviare Blender)
+
+#### Ricreare i file /tmp dopo riavvio WSL
+
+```bash
+cd /home/miki/visual-scroll-blog
+node -e "
+const fs = require('fs');
+fs.writeFileSync('/tmp/wb_preview.py', \`import sys, bpy
+sys.argv = ['blender', '--', '/tmp/wb_test_params.json']
+src = open('/home/miki/visual-scroll-blog/video/assets/blender/whiteboard/render_whiteboard.py').read()
+src = src.replace('bpy.ops.render.render(animation=True, write_still=False)', \"print('[preview] scena pronta')\")
+exec(compile(src, 'render_whiteboard.py', 'exec'))
+\`);
+fs.writeFileSync('/tmp/wb_test_params.json', JSON.stringify({
+  headline: 'AI Agents Rise',
+  elements: [
+    {type:'rect',   label:'Problem',  position:{x:50,y:25}, size:'large',  reveal_order:0, _sceneIdx:0},
+    {type:'arrow',  label:'',         position:{x:50,y:50}, size:'small',  reveal_order:1, _sceneIdx:0},
+    {type:'circle', label:'AI Agent', position:{x:50,y:75}, size:'medium', reveal_order:2, _sceneIdx:0},
+  ],
+  persistent_elements: [],
+  output_dir: '/tmp/wb_test_frames',
+  frame_count: 50, fps: 25
+}, null, 2));
+console.log('OK: /tmp ricreati');
+"
+```
+
+#### Test locale
+
+```bash
+node video/test-template.js --template whiteboard
+# Output: output/renders/test-whiteboard.mp4
+# 5 scene, ~3-5 min totali (Blender + TTS + FFmpeg)
+```
+
+#### Parametri render
+
+| Parametro | Valore |
+|---|---|
+| Engine | EEVEE |
+| Samples | 8 |
+| Risoluzione | 1080×1920px (9:16) |
+| FPS | 25 |
+| Velocità | ~0.5–1s/frame |
+| Sfondo | Bianco (`view_transform = 'Standard'`) |
+
+#### Note importanti
+
+- **Sfondo bianco:** richiede `scene.view_settings.view_transform = 'Standard'` — senza questo Filmic mappa il bianco a grigio
+- **persistent_elements:** sempre `[]` per ogni scena — nessun accumulo tra scene
+- **Seed deterministici:** `_sceneIdx * 100 + reveal_order` → stesso JSON = stesso render
+- **File `/tmp`:** si cancellano al riavvio WSL — esegui il comando sopra per ricrearli
+- **Doc operativo completo:** `Brainstorming/whiteboard-blender-workflow.txt`
 
 ### Endpoint server aggiunti (server.js)
 

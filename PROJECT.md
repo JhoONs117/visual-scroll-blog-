@@ -50,7 +50,7 @@ Docs archiviati in `archive/docs/`: FOOD-AGENT.md · REFACTOR-PLAN.md · CONTEXT
 | **FASE 16C — network_graph** | ✅ Completa | nodi/edge animati opacity reveal, SVG + FFmpeg |
 | **FASE 16D — minimal_documentary** | ✅ Completa | Pexels images + Ken Burns + vignette + TTS |
 | **FASE 16E — code_terminal** | ✅ Completa | typing animation SVG + syntax highlight + cursor blink |
-| **FASE 16F — whiteboard** | ✅ Completa | stroke-dashoffset animation + arrowhead smart connector |
+| **FASE 16F — whiteboard** | ✅ **RISCRITTO Cat 3 Blender GP** (2026-05-29) | Grease Pencil organico, tratti mano libera (jitter+pressure taper), sfondo bianco, Build modifier reveal progressivo, audio/video sync OK. Render ~1s/frame EEVEE. |
 | **FASE 16G — isometric_workflow** | ✅ Completa | SVG 3D-illusion + ImageMagick + FFmpeg, reveal progressivo |
 | **FASE 16H — map_explainer** | ✅ Completa | GeoJSON Natural Earth + Mercatore + viewBox zoom regioni |
 | **FASE 16I — parallax_25d** | ✅ Completa | FFmpeg crop offset dinamico, immagini Pexels |
@@ -188,7 +188,7 @@ ogni 2 ore
 
 ### Note operative
 
-- **Feed O'Reilly** restituisce 404 — ignorato automaticamente
+- **Feed AI News:** AI-News + TechCrunch + TheVerge AI + VentureBeat AI (2026-06-09: O'Reilly rimosso — 404 permanente; aggiunti TheVerge AI e VentureBeat AI per bilanciare la dominanza TechCrunch)
 - **DeepSeek cost**: pochi centesimi per run; la cache azzera il costo sugli articoli già visti
 - **GitHub Actions**: gratuito fino a 2000 min/mese — il progetto ne usa ~30/mese (AI news + food sequenziali)
 - **Pexels API**: free tier, 200 req/ora, 20.000/mese — sufficiente (AI news 4-8 articoli + food 3 articoli/run)
@@ -425,9 +425,9 @@ Solo quando soddisfatte: 2-3 pattern hook stabili + canale che converte + format
 ### Pipeline completa
 
 ```
-fetch RSS (AI News ✅, TechCrunch ✅, O'Reilly 404)
+fetch RSS (AI-News ✅, TechCrunch ✅, TheVerge AI ✅, VentureBeat AI ✅)
  → deduplicate (normalize: lowercase, alfanumerici, prime 5 parole) — Set su titoli normalizzati
- → hardFilter (whitelist: ai/gpt/agent/llm + blacklist: funding/politics/lawsuit) — riduce 70-80%
+ → hardFilter (WHITELIST_WORDS word-boundary: \bai\b/gpt/agents?/llm/models?/openai + WHITELIST_SUBSTR: anthropic/deepseek/gemini/claude/mistral/nvidia/chatgpt + BLACKLIST: funding/politics/lawsuit/acquisition) — riduce 70-80%
  → batchAIFilter (batch da 10, useful=true, score >= 7)
  → generateSlides (5 ruoli fissi: HOOK→CONTESTO→SORPRENDENTE→PRATICO→TAKEAWAY, max 8 parole)
  → generateFormats (thread_text[5] + video_script[5], solo se GENERATE_FORMATS=true)
@@ -729,7 +729,7 @@ Il test locale avviene con `node video/test-template.js --template <id>` — nes
 | `network_graph` | Network Graph | 1 | ai-news | SVG nodi/edge opacity reveal, FFmpeg |
 | `minimal_documentary` | Documentary | 1 | ai-news, food, fitness | Pexels images + Ken Burns + vignette + TTS |
 | `code_terminal` | Terminal | 1 | ai-news | SVG typing + syntax highlight + cursor blink, FFmpeg |
-| `whiteboard` | Whiteboard | 1 | ai-news, food, fitness | SVG stroke-dashoffset + arrowhead smart connector |
+| `whiteboard` | Whiteboard | **3** | ai-news, food, fitness | **Blender GP organico** — Grease Pencil + Build modifier, jitter+pressure taper, sfondo bianco, render procedurale (no .blend). Preview via `/tmp/wb_preview.py` in Blender GUI. |
 | `isometric_workflow` | Isometric | 2 | ai-news | SVG 3D-illusion blocchi, ImageMagick SVG→PNG, FFmpeg |
 | `map_explainer` | Map | 2 | ai-news | GeoJSON Natural Earth + proiezione Mercatore, paesi colorati, route animate |
 | `parallax_25d` | Parallax | 2 | ai-news, food, fitness | FFmpeg crop offset dinamico, immagini Pexels |
@@ -741,6 +741,61 @@ Il test locale avviene con `node video/test-template.js --template <id>` — nes
 **Categoria 1** usa SVG frame-per-frame (SVG_FPS=5–10, poi `-framerate SVG_FPS -r 25`).  
 **Categoria 2** usa ImageMagick SVG→PNG per qualità grafica superiore.  
 **Categoria 3** usa Blender EEVEE headless.
+
+#### FASE 16F — whiteboard (dettaglio tecnico, aggiornato 2026-06-03)
+
+**Riscritto** da Cat 1 (SVG+FFmpeg) a Cat 3 (Blender EEVEE + Grease Pencil). Motivazione: SVG aveva desync audio/video strutturale e aspetto troppo geometrico/PowerPoint.
+
+**Asset in `video/assets/blender/whiteboard/`:**
+
+| File | Ruolo |
+|---|---|
+| `render_whiteboard.py` | Script Blender GP procedurale (**no .blend file**, ~2300 righe). Chiamato da `whiteboard.js` headless. Genera frame PNG per ogni scena da `params.json`. |
+| `preview_vp.py` | Headless render single frame + Blender Image Editor — iterazione rapida VP mode. |
+
+**Workflow iterazione rapida (test):**
+```bash
+WHITEBOARD_TEST_MODE=1 WHITEBOARD_TEST_DURATION=15 node video/test-template.js --template whiteboard
+# output: output/renders/test-whiteboard.mp4 (375 frame, ~505K, ~4 min con D3D12 + RENDER_SCALE=50)
+```
+
+**Layout verticale `vertical_process_whiteboard` (modalità principale AI news):**
+- 5 step fissi, timeline verticale sinistra, nodi numerati, card con icona + titolo + summary
+- Struttura VP_LAYOUT centralizzata in dict module-level (vedere `Brainstorming/layout-reliability-pass.md`)
+- Testo adattivo: `fit_text_to_zone`, `compute_step_card_box` (card height min 12% max 14%)
+- Testo rivelato word-by-word con scale pop-in BEZIER 0.96→1.00
+
+**Costanti chiave (2026-06-03):**
+```python
+VP_HEADLINE_FONT   = 0.78   VP_ICON_BOX        = 0.96
+ACTIVE_NODE_GLOW_A = 0.65   ACTIVE_CARD_GLOW_A = 0.30
+INACTIVE_MAIN_A    = 0.45   INACTIVE_TEXT_A    = 0.50
+FADE_DUR           = 12     # frame smooth fade active→inactive (LINEAR)
+```
+
+**Animazione per step (sequenza build-in):**
+- t0 (0%): timeline segment appare
+- t1 (12%): nodo glow flash (0.92→0.65 BEZIER 18f) + sketch ring + rays + step number + connector
+- t2 (28%): card fill + border + inner stroke + card glow fade-in (0→0.30 BEZIER 12f) + sketch + corner marks + icon
+- t3 (45%): title text word-by-word
+- t4 (65%): summary text word-by-word
+- t5 (88%): step completo
+- inactive_frame: smooth LINEAR fade di GP stroke + fill + testo a inactive alpha
+
+**Asset pack (8 icone procedurali con v3 strokes):**
+`lightbulb` · `ai_chip` · `magnifier_search` · `network_nodes` · `chart_up` · `news_card` · `document` · `laptop`
+Ogni asset ha: base stroke + secondary jitter outline + detail strokes + accent marks specifici.
+
+**⚠️ Bug noto — draw_double_stroke_rect su GP fill object:**
+Due stroke ciclici in un GP fill object = due fill sovrapposti = opacità ~0.99 → copre il testo.
+La card usa `stroke_rect` singolo per il fill object + GP object separato stroke-only per inner border.
+
+**Render performance (GPU GTX 1650, D3D12):**
+- Testing: `RENDER_SCALE=50`, TAA=4, ~4 min/video
+- Produzione: `RENDER_SCALE=100`, ~8 min/video
+- Blender primario headless: `/opt/blender-5.1.2/blender` (GP3, 5.1.2)
+
+**Documenti correlati:** `Brainstorming/layout-reliability-pass.md` (Layout Reliability Pass + Premium Visual System Pass + Animation Quality Pass)
 
 #### FASE 16L — anatomy_motion (dettaglio tecnico)
 

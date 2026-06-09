@@ -19,13 +19,17 @@ function deduplicate(articles) {
   });
 }
 
-const WHITELIST = ['ai', 'gpt', 'agent', 'llm', 'model', 'openai'];
+const WHITELIST_WORDS  = [/\bai\b/, /\bgpt\b/, /\bagents?\b/, /\bllm\b/, /\bmodels?\b/, /\bopenai\b/];
+const WHITELIST_SUBSTR = ['anthropic', 'deepseek', 'gemini', 'claude', 'mistral', 'nvidia', 'chatgpt'];
 const BLACKLIST = ['funding', 'politics', 'lawsuit', 'acquisition'];
 
 function hardFilter(articles) {
   return articles.filter(a => {
     const t = a.title.toLowerCase();
-    return WHITELIST.some(w => t.includes(w)) && !BLACKLIST.some(b => t.includes(b));
+    const passes =
+      WHITELIST_WORDS.some(re => re.test(t)) ||
+      WHITELIST_SUBSTR.some(w => t.includes(w));
+    return passes && !BLACKLIST.some(b => t.includes(b));
   });
 }
 
