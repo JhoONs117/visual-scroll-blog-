@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "mcdonald-s-tests-google-backed-ai-drive-thru-order",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "McDonald’s tests Google-backed AI drive-thru ordering system",
+  "link": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/",
+  "pubDate": "Wed, 10 Jun 2026 10:00:00 +0000",
+  "slides": [
+    "McDonald’s testa AI al drive-thru: funzionerà?",
+    "Il sistema usa tecnologia Google per capire ordini.",
+    "L’AI sbaglia con forti accenti o rumori di sottofondo.",
+    "Ordinare sarà più veloce, ma non per tutti ancora.",
+    "Prova oggi: l’AI ti capirà meglio di un umano?"
+  ],
+  "thread_text": [
+    "L’AI di McDonald’s al drive-thru sbaglia ordini con accenti forti o rumori di fondo. Il problema non è tecnico: è culturale.",
+    "Il sistema usa il modello di Google per riconoscere la voce, ma non è addestrato su tutte le varianti linguistiche.",
+    "Chi parla chiaro e senza rumori intorno ordinerà in 30 secondi. Chi ha un accento regionale rischia di ricevere un menù sbagliato.",
+    "McDonald’s punta sulla velocità, ma l’inclusività resta un ostacolo. Non è un bug: è un bias nei dati di training.",
+    "Hai un accento marcato? Non aspettarti che funzioni. Se invece parli come Siri, provala oggi."
+  ],
+  "video_script": [
+    "McDonald’s prova l’AI al drive-thru.",
+    "Usa Google per capire cosa ordini.",
+    "Ma se parli con accento, sbaglia.",
+    "Rumori di sottofondo la confondono ancora.",
+    "Funziona bene solo per chi parla chiaro."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "L’AI di McDonald’s al drive-thru sbaglia ordini con accenti forti o rumori di fondo. Il problema non è tecnico: è culturale.",
+        "Il sistema usa il modello di Google per riconoscere la voce, ma non è addestrato su tutte le varianti linguistiche.",
+        "Chi parla chiaro e senza rumori intorno ordinerà in 30 secondi. Chi ha un accento regionale rischia di ricevere un menù sbagliato.",
+        "McDonald’s punta sulla velocità, ma l’inclusività resta un ostacolo. Non è un bug: è un bias nei dati di training.",
+        "Hai un accento marcato? Non aspettarti che funzioni. Se invece parli come Siri, provala oggi."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "McDonald’s prova l’AI al drive-thru.",
+        "Usa Google per capire cosa ordini.",
+        "Ma se parli con accento, sbaglia.",
+        "Rumori di sottofondo la confondono ancora.",
+        "Funziona bene solo per chi parla chiaro."
+      ]
+    },
+    "instagram": {
+      "caption": "McDonald's ha avviato un test nei drive-thru con un sistema AI basato su tecnologia Google, ma già emergono problemi: il sistema sbaglia gli ordini quando si parla con accenti regionali forti o in ambienti rumorosi 🍟. Il riconoscimento vocale non è stato addestrato su tutte le varianti linguistiche, quindi chi parla chiaro e senza rumori ordinerà in 30 secondi, chi ha un accento marcato rischia un menù sbagliato 🎤. Per chi usa il drive-thru, la velocità promessa non sarà uguale per tutti: il test rivela un bias nei dati di training, non solo un limite tecnico. Se hai un accento diverso da quello \"standard\", funzionerà per te? 🧐"
+    }
+  },
+  "instagram_caption": "McDonald's ha avviato un test nei drive-thru con un sistema AI basato su tecnologia Google, ma già emergono problemi: il sistema sbaglia gli ordini quando si parla con accenti regionali forti o in ambienti rumorosi 🍟. Il riconoscimento vocale non è stato addestrato su tutte le varianti linguistiche, quindi chi parla chiaro e senza rumori ordinerà in 30 secondi, chi ha un accento marcato rischia un menù sbagliato 🎤. Per chi usa il drive-thru, la velocità promessa non sarà uguale per tutti: il test rivela un bias nei dati di training, non solo un limite tecnico. Se hai un accento diverso da quello \"standard\", funzionerà per te? 🧐",
+  "carousel_slides": [
+    {
+      "hook": "L'AI sbaglia con accenti?",
+      "description": "McDonald's testa AI al drive-thru: sbaglia ordini con accenti forti o rumori di fondo. Il problema non è solo tecnico, è culturale.",
+      "visual_hint": "Microfono con onde sonore",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "drive-thru microphone"
+    },
+    {
+      "hook": "Google dentro il tuo ordine",
+      "description": "Il sistema usa il modello di Google per riconoscere la voce, ma non è addestrato su tutte le varianti linguistiche.",
+      "visual_hint": "Logo Google con chip",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Google AI chip",
+      "image": "https://images.pexels.com/photos/18069520/pexels-photo-18069520.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "30 secondi o menù sbagliato",
+      "description": "Chi parla chiaro ordina in 30 secondi. Chi ha un accento regionale rischia di ricevere un menù sbagliato.",
+      "visual_hint": "Doppio menù hamburger",
+      "layout_type": "sensor-zoom",
+      "icon": "tag",
+      "image_query": "hamburger menu order",
+      "image": "https://images.pexels.com/photos/30732853/pexels-photo-30732853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Velocità vs inclusività",
+      "description": "McDonald's punta sulla velocità, ma l'inclusività resta un ostacolo. Non è un bug: è un bias nei dati di training.",
+      "visual_hint": "Grafico a barre in salita",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "data training bias graph",
+      "image": "https://images.pexels.com/photos/8067831/pexels-photo-8067831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Parla come Siri, prova ora",
+      "description": "Hai un accento marcato? Non aspettarti che funzioni. Se parli chiaro, l'AI ti capirà meglio di un umano?",
+      "visual_hint": "Smartphone con drive-thru",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone drive-thru app",
+      "image": "https://images.pexels.com/photos/10819672/pexels-photo-10819672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/16195426/pexels-photo-16195426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-10T16:55:01.296Z",
+  "sourceId": "7fff4a7e479d44932fcfde39e636849f"
+}

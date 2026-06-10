@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "datadog-veterans-launch-ai-coding-startup-niteshif",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "pubDate": "Wed, 10 Jun 2026 15:00:00 +0000",
+      "slides": [
+        "Niteshift scommette: il vendor lock-in ti sta rallentando?",
+        "Fondata da ex Datadog, punta sulla generazione di codice.",
+        "Non un nuovo LLM: un sistema che aggira gli ecosistemi chiusi.",
+        "Il tuo team può migrare modelli senza riscrivere tutto.",
+        "Prova Niteshift oggi: misura la differenza su un progetto."
+      ],
+      "thread_text": [
+        "Il vendor lock-in ti sta rallentando più di quanto pensi. Niteshift aggira gli ecosistemi chiusi senza obbligarti a un nuovo LLM.",
+        "Fondata da ex Datadog, Niteshift genera codice al posto tuo. Non serve riscrivere tutto per cambiare modello.",
+        "Il sistema non è un altro LLM: bypassa i vincoli dei provider e ti dà controllo su migrazioni e ottimizzazioni.",
+        "Il tuo team può spostare modelli da un fornitore all'altro in ore, non settimane. Zero riscritture massicce.",
+        "Prova Niteshift oggi: misura la differenza su un progetto reale. Costa meno di un abbonamento Spotify."
+      ],
+      "video_script": [
+        "Niteshift bypassa i sistemi chiusi senza un nuovo LLM",
+        "Fondata da ex Datadog, genera codice per te",
+        "Non devi riscrivere tutto per cambiare modello",
+        "Il team migra in ore, non settimane",
+        "Provalo ora su un progetto vero"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Il vendor lock-in ti sta rallentando più di quanto pensi. Niteshift aggira gli ecosistemi chiusi senza obbligarti a un nuovo LLM.",
+            "Fondata da ex Datadog, Niteshift genera codice al posto tuo. Non serve riscrivere tutto per cambiare modello.",
+            "Il sistema non è un altro LLM: bypassa i vincoli dei provider e ti dà controllo su migrazioni e ottimizzazioni.",
+            "Il tuo team può spostare modelli da un fornitore all'altro in ore, non settimane. Zero riscritture massicce.",
+            "Prova Niteshift oggi: misura la differenza su un progetto reale. Costa meno di un abbonamento Spotify."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Niteshift bypassa i sistemi chiusi senza un nuovo LLM",
+            "Fondata da ex Datadog, genera codice per te",
+            "Non devi riscrivere tutto per cambiare modello",
+            "Il team migra in ore, non settimane",
+            "Provalo ora su un progetto vero"
+          ]
+        },
+        "instagram": {
+          "caption": "Ex Datadog hanno fondato Niteshift, una startup che genera codice senza obbligarti a un ecosistema chiuso 🛡️. Il trucco? Non è un nuovo LLM: bypassa i vincoli dei provider, permettendoti di migrare modelli senza riscrivere tutto in ore, non settimane. Per chi sviluppa, significa niente più riscritture massicce per cambiare fornitore o ottimizzare 🧩. Vuoi provare la differenza su un progetto reale? Costa meno di un abbonamento a Spotify 🎯."
+        }
+      },
+      "instagram_caption": "Ex Datadog hanno fondato Niteshift, una startup che genera codice senza obbligarti a un ecosistema chiuso 🛡️. Il trucco? Non è un nuovo LLM: bypassa i vincoli dei provider, permettendoti di migrare modelli senza riscrivere tutto in ore, non settimane. Per chi sviluppa, significa niente più riscritture massicce per cambiare fornitore o ottimizzare 🧩. Vuoi provare la differenza su un progetto reale? Costa meno di un abbonamento a Spotify 🎯.",
+      "carousel_slides": [
+        {
+          "hook": "Non un nuovo LLM",
+          "description": "Niteshift bypassa ecosistemi chiusi senza obbligarti a un nuovo modello. Aggira i vincoli dei provider.",
+          "visual_hint": "catena spezzata ingranaggi",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "broken chain gears"
+        },
+        {
+          "hook": "Vendor lock-in ti rallenta",
+          "description": "Fondata da ex Datadog, Niteshift genera codice al posto tuo. Non serve riscrivere tutto per cambiare modello.",
+          "visual_hint": "codice che si sblocca",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "code on monitor",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Migra in ore, non settimane",
+          "description": "Il tuo team può spostare modelli da un fornitore all'altro senza riscritture massicce. Controllo totale.",
+          "visual_hint": "orologio con frecce",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "clock with arrows",
+          "image": "https://images.pexels.com/photos/6621857/pexels-photo-6621857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Zero riscritture massive",
+          "description": "Il sistema bypassa i vincoli dei provider e dà controllo su migrazioni e ottimizzazioni in poche ore.",
+          "visual_hint": "mani su tastiera veloce",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands typing keyboard",
+          "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova oggi su progetto reale",
+          "description": "Misura la differenza su un progetto vero. Costa meno di un abbonamento Spotify.",
+          "visual_hint": "confronto grafico freccia",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "upward graph arrow",
+          "image": "https://images.pexels.com/photos/9822733/pexels-photo-9822733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/sajid_conor_photo_niteshift_launch.jpg?resize=1200,970",
+      "savedAt": "2026-06-10T16:55:49.772Z",
+      "sourceId": "464bb12da8db3b6f8d41aaf387ac5874"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "why-enterprise-ai-will-be-a-major-focus-at-vivatec",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Why enterprise AI will be a major focus at VivaTech 2026",
+      "link": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
+      "pubDate": "Wed, 10 Jun 2026 15:16:00 +0000",
+      "slides": [
+        "VivaTech 2026 punta sull'AI enterprise, ma chi guadagnerà?",
+        "Il 40% dei progetti AI fallisce nella scala aziendale.",
+        "Invece i vincitori tagliano i costi operativi del 30%.",
+        "Senza un piano dati solido, le demo restano vuote.",
+        "Chiedi al tuo team: abbiamo già la base dati?"
+      ],
+      "thread_text": [
+        "Il 40% dei progetti AI fallisce quando si prova a portarli in azienda. Non per la tecnologia. Perché manca la base dati.",
+        "A VivaTech 2026 tutti parlano di AI enterprise. Ma il vero problema non è chi vincerà: è chi ha già i dati pronti.",
+        "I team che ce la fanno tagliano i costi operativi del 30%. Gli altri restano con demo vuote e slide belle.",
+        "Perché senza un piano dati solido, l'AI è un motore senza carburante. Parti da lì, o non parti.",
+        "Chiedi al tuo team oggi: abbiamo già la base dati per scalare? Se la risposta è no, inizia da quel task."
+      ],
+      "video_script": [
+        "Quasi la metà dei progetti AI fallisce in azienda.",
+        "Non è un problema di tecnologia, ma di dati.",
+        "I vincitori tagliano i costi del 30%.",
+        "Senza dati solidi, rimangono solo demo.",
+        "Chiedi al tuo team: la base dati è pronta?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Il 40% dei progetti AI fallisce quando si prova a portarli in azienda. Non per la tecnologia. Perché manca la base dati.",
+            "A VivaTech 2026 tutti parlano di AI enterprise. Ma il vero problema non è chi vincerà: è chi ha già i dati pronti.",
+            "I team che ce la fanno tagliano i costi operativi del 30%. Gli altri restano con demo vuote e slide belle.",
+            "Perché senza un piano dati solido, l'AI è un motore senza carburante. Parti da lì, o non parti.",
+            "Chiedi al tuo team oggi: abbiamo già la base dati per scalare? Se la risposta è no, inizia da quel task."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Quasi la metà dei progetti AI fallisce in azienda.",
+            "Non è un problema di tecnologia, ma di dati.",
+            "I vincitori tagliano i costi del 30%.",
+            "Senza dati solidi, rimangono solo demo.",
+            "Chiedi al tuo team: la base dati è pronta?"
+          ]
+        },
+        "instagram": {
+          "caption": "Quasi la metà dei progetti di intelligenza artificiale fallisce nel passaggio su larga scala in azienda: non per colpa della tecnologia, ma perché manca una base dati solida. A VivaTech 2026 il dibattito si concentra su chi vincerà la corsa all’AI enterprise, ma il vero discrimine è chi ha già i dati pronti 📊. I team che ce la fanno tagliano i costi operativi del 30% ⚡; gli altri restano con demo vuote e presentazioni patinate. Per te: se lavori con strumenti basati su AI, controlla che il tuo reparto IT abbia un piano dati prima di investire in nuovi software 🧠. Il tuo team ha già la base dati per scalare?"
+        }
+      },
+      "instagram_caption": "Quasi la metà dei progetti di intelligenza artificiale fallisce nel passaggio su larga scala in azienda: non per colpa della tecnologia, ma perché manca una base dati solida. A VivaTech 2026 il dibattito si concentra su chi vincerà la corsa all’AI enterprise, ma il vero discrimine è chi ha già i dati pronti 📊. I team che ce la fanno tagliano i costi operativi del 30% ⚡; gli altri restano con demo vuote e presentazioni patinate. Per te: se lavori con strumenti basati su AI, controlla che il tuo reparto IT abbia un piano dati prima di investire in nuovi software 🧠. Il tuo team ha già la base dati per scalare?",
+      "carousel_slides": [
+        {
+          "hook": "Chi guadagnerà davvero?",
+          "description": "A VivaTech 2026 l'AI enterprise è al centro. Ma il vero vincitore è chi ha già i dati pronti.",
+          "visual_hint": "Gara con soldi in palio",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Il 40% dei progetti fallisce",
+          "description": "Non per la tecnologia, ma perché manca la base dati. È il problema vero, non chi vincerà.",
+          "visual_hint": "Grafico a barre in rosso",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "I vincitori tagliano i costi",
+          "description": "Taglio costi operativi del 30%. Gli altri restano con demo vuote e slide belle.",
+          "visual_hint": "Frecce verdi in su/giù",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Demo vuote senza piano dati",
+          "description": "Senza piano dati solido, l'AI è un motore senza carburante. Parti da lì o non parti.",
+          "visual_hint": "Motore spento senza benzina",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "power plant",
+          "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "La base dati c'è già?",
+          "description": "Chiedi al team oggi: abbiamo già la base dati per scalare? Se no, inizia da questo task.",
+          "visual_hint": "Checklist su lavagna",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/techcrunch1.jpeg?w=600",
+      "savedAt": "2026-06-10T16:55:32.973Z",
+      "sourceId": "bf5ab745aed8f442676dbb306f2208df"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "how-memory-tools-can-make-ai-models-worse",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "How memory tools can make AI models worse",
+      "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "pubDate": "Wed, 10 Jun 2026 16:11:08 +0000",
+      "slides": [
+        "Memoria infinita non aiuta l'IA?",
+        "Un esperimento ha confrontato modelli con e senza memoria",
+        "Aggiungere memoria li ha fatti sbagliare più spesso",
+        "Se usi AI per decisioni, sappi che ricordare non è sempre meglio",
+        "Rivedi i tuoi prompt: meno memoria significa più accuratezza?"
+      ],
+      "thread_text": [
+        "Aggiungere più memoria a un'IA non l'ha migliorata: l'ha fatta sbagliare di più. Peggio di prima.",
+        "Un esperimento ha confrontato modelli con e senza memoria: quelli con memoria hanno commesso più errori.",
+        "Ricordare di più non significa decidere meglio. A volte il rumore del passato confonde il presente.",
+        "Se usi l'IA per decisioni, questo è il punto: più dati non sono più intelligenza. Sono più zavorra.",
+        "Hai già controllato i tuoi prompt? Prova a togliere il contesto storico. Potresti ottenere risposte più accurate oggi."
+      ],
+      "video_script": [
+        "Ho scoperto una cosa assurda sull'IA.",
+        "Volevano renderla più intelligente con più memoria.",
+        "E invece ha iniziato a sbagliare di più.",
+        "Ricordare tanto non aiuta a decidere meglio.",
+        "A volte il trucco è togliere, non aggiungere."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Aggiungere più memoria a un'IA non l'ha migliorata: l'ha fatta sbagliare di più. Peggio di prima.",
+            "Un esperimento ha confrontato modelli con e senza memoria: quelli con memoria hanno commesso più errori.",
+            "Ricordare di più non significa decidere meglio. A volte il rumore del passato confonde il presente.",
+            "Se usi l'IA per decisioni, questo è il punto: più dati non sono più intelligenza. Sono più zavorra.",
+            "Hai già controllato i tuoi prompt? Prova a togliere il contesto storico. Potresti ottenere risposte più accurate oggi."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Ho scoperto una cosa assurda sull'IA.",
+            "Volevano renderla più intelligente con più memoria.",
+            "E invece ha iniziato a sbagliare di più.",
+            "Ricordare tanto non aiuta a decidere meglio.",
+            "A volte il trucco è togliere, non aggiungere."
+          ]
+        },
+        "instagram": {
+          "caption": "Aggiungere più memoria a un modello AI lo ha fatto sbagliare di più: peggio di prima. 🧠❌ Un esperimento ha messo faccia a faccia modelli con e senza memoria: quelli che ricordavano hanno sbagliato più spesso, perché il rumore del passato ha confuso il presente. 📉 Se usi l'intelligenza artificiale per prendere decisioni, ricorda che più dati non significano più intelligenza, solo più zavorra. ⚙️ Hai provato a tagliare il contesto storico dai tuoi prompt? Meno memoria potrebbe darti risposte più accurate. 🔍"
+        }
+      },
+      "instagram_caption": "Aggiungere più memoria a un modello AI lo ha fatto sbagliare di più: peggio di prima. 🧠❌ Un esperimento ha messo faccia a faccia modelli con e senza memoria: quelli che ricordavano hanno sbagliato più spesso, perché il rumore del passato ha confuso il presente. 📉 Se usi l'intelligenza artificiale per prendere decisioni, ricorda che più dati non significano più intelligenza, solo più zavorra. ⚙️ Hai provato a tagliare il contesto storico dai tuoi prompt? Meno memoria potrebbe darti risposte più accurate. 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Ricordare peggiora l'IA?",
+          "description": "Aggiungere memoria a un IA non l'ha migliorata: l'ha fatta sbagliare di più.",
+          "visual_hint": "diagramma errori in aumento",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room overheat"
+        },
+        {
+          "hook": "Modelli con più errori",
+          "description": "Un esperimento ha confrontato modelli con e senza memoria: più errori con memoria.",
+          "visual_hint": "grafico comparativo errore",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Passato che confonde",
+          "description": "Ricordare di più non significa decidere meglio. Il rumore del passato confonde il presente.",
+          "visual_hint": "clock con linee confuse",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "clock close-up",
+          "image": "https://images.pexels.com/photos/13820582/pexels-photo-13820582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Più dati = zavorra",
+          "description": "Più dati non sono più intelligenza. Sono più zavorra per le decisioni IA.",
+          "visual_hint": "bilancia con zavorra",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "factory robot arm",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova a rimuovere contesto",
+          "description": "Togli il contesto storico dai prompt: potresti ottenere risposte più accurate oggi.",
+          "visual_hint": "prompt pulito senza storia",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "solar panels field",
+          "image": "https://images.pexels.com/photos/27637329/pexels-photo-27637329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1240239605.jpg?w=1024",
+      "savedAt": "2026-06-10T16:55:16.598Z",
+      "sourceId": "9562e83254d95576494aa5fd755ce5f1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "mcdonald-s-tests-google-backed-ai-drive-thru-order",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "McDonald’s tests Google-backed AI drive-thru ordering system",
+      "link": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/",
+      "pubDate": "Wed, 10 Jun 2026 10:00:00 +0000",
+      "slides": [
+        "McDonald’s testa AI al drive-thru: funzionerà?",
+        "Il sistema usa tecnologia Google per capire ordini.",
+        "L’AI sbaglia con forti accenti o rumori di sottofondo.",
+        "Ordinare sarà più veloce, ma non per tutti ancora.",
+        "Prova oggi: l’AI ti capirà meglio di un umano?"
+      ],
+      "thread_text": [
+        "L’AI di McDonald’s al drive-thru sbaglia ordini con accenti forti o rumori di fondo. Il problema non è tecnico: è culturale.",
+        "Il sistema usa il modello di Google per riconoscere la voce, ma non è addestrato su tutte le varianti linguistiche.",
+        "Chi parla chiaro e senza rumori intorno ordinerà in 30 secondi. Chi ha un accento regionale rischia di ricevere un menù sbagliato.",
+        "McDonald’s punta sulla velocità, ma l’inclusività resta un ostacolo. Non è un bug: è un bias nei dati di training.",
+        "Hai un accento marcato? Non aspettarti che funzioni. Se invece parli come Siri, provala oggi."
+      ],
+      "video_script": [
+        "McDonald’s prova l’AI al drive-thru.",
+        "Usa Google per capire cosa ordini.",
+        "Ma se parli con accento, sbaglia.",
+        "Rumori di sottofondo la confondono ancora.",
+        "Funziona bene solo per chi parla chiaro."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "L’AI di McDonald’s al drive-thru sbaglia ordini con accenti forti o rumori di fondo. Il problema non è tecnico: è culturale.",
+            "Il sistema usa il modello di Google per riconoscere la voce, ma non è addestrato su tutte le varianti linguistiche.",
+            "Chi parla chiaro e senza rumori intorno ordinerà in 30 secondi. Chi ha un accento regionale rischia di ricevere un menù sbagliato.",
+            "McDonald’s punta sulla velocità, ma l’inclusività resta un ostacolo. Non è un bug: è un bias nei dati di training.",
+            "Hai un accento marcato? Non aspettarti che funzioni. Se invece parli come Siri, provala oggi."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "McDonald’s prova l’AI al drive-thru.",
+            "Usa Google per capire cosa ordini.",
+            "Ma se parli con accento, sbaglia.",
+            "Rumori di sottofondo la confondono ancora.",
+            "Funziona bene solo per chi parla chiaro."
+          ]
+        },
+        "instagram": {
+          "caption": "McDonald's ha avviato un test nei drive-thru con un sistema AI basato su tecnologia Google, ma già emergono problemi: il sistema sbaglia gli ordini quando si parla con accenti regionali forti o in ambienti rumorosi 🍟. Il riconoscimento vocale non è stato addestrato su tutte le varianti linguistiche, quindi chi parla chiaro e senza rumori ordinerà in 30 secondi, chi ha un accento marcato rischia un menù sbagliato 🎤. Per chi usa il drive-thru, la velocità promessa non sarà uguale per tutti: il test rivela un bias nei dati di training, non solo un limite tecnico. Se hai un accento diverso da quello \"standard\", funzionerà per te? 🧐"
+        }
+      },
+      "instagram_caption": "McDonald's ha avviato un test nei drive-thru con un sistema AI basato su tecnologia Google, ma già emergono problemi: il sistema sbaglia gli ordini quando si parla con accenti regionali forti o in ambienti rumorosi 🍟. Il riconoscimento vocale non è stato addestrato su tutte le varianti linguistiche, quindi chi parla chiaro e senza rumori ordinerà in 30 secondi, chi ha un accento marcato rischia un menù sbagliato 🎤. Per chi usa il drive-thru, la velocità promessa non sarà uguale per tutti: il test rivela un bias nei dati di training, non solo un limite tecnico. Se hai un accento diverso da quello \"standard\", funzionerà per te? 🧐",
+      "carousel_slides": [
+        {
+          "hook": "L'AI sbaglia con accenti?",
+          "description": "McDonald's testa AI al drive-thru: sbaglia ordini con accenti forti o rumori di fondo. Il problema non è solo tecnico, è culturale.",
+          "visual_hint": "Microfono con onde sonore",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "drive-thru microphone"
+        },
+        {
+          "hook": "Google dentro il tuo ordine",
+          "description": "Il sistema usa il modello di Google per riconoscere la voce, ma non è addestrato su tutte le varianti linguistiche.",
+          "visual_hint": "Logo Google con chip",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "Google AI chip",
+          "image": "https://images.pexels.com/photos/18069520/pexels-photo-18069520.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "30 secondi o menù sbagliato",
+          "description": "Chi parla chiaro ordina in 30 secondi. Chi ha un accento regionale rischia di ricevere un menù sbagliato.",
+          "visual_hint": "Doppio menù hamburger",
+          "layout_type": "sensor-zoom",
+          "icon": "tag",
+          "image_query": "hamburger menu order",
+          "image": "https://images.pexels.com/photos/30732853/pexels-photo-30732853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Velocità vs inclusività",
+          "description": "McDonald's punta sulla velocità, ma l'inclusività resta un ostacolo. Non è un bug: è un bias nei dati di training.",
+          "visual_hint": "Grafico a barre in salita",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "data training bias graph",
+          "image": "https://images.pexels.com/photos/8067831/pexels-photo-8067831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Parla come Siri, prova ora",
+          "description": "Hai un accento marcato? Non aspettarti che funzioni. Se parli chiaro, l'AI ti capirà meglio di un umano?",
+          "visual_hint": "Smartphone con drive-thru",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone drive-thru app",
+          "image": "https://images.pexels.com/photos/10819672/pexels-photo-10819672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/16195426/pexels-photo-16195426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-06-10T16:55:01.296Z",
+      "sourceId": "7fff4a7e479d44932fcfde39e636849f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "nous-research-s-nouscoder-14b-is-an-open-source-co",
       "prompt_version": "1.0.0",
       "status": "approved",

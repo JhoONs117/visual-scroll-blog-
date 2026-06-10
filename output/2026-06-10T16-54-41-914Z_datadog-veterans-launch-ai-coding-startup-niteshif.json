@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "datadog-veterans-launch-ai-coding-startup-niteshif",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+  "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+  "pubDate": "Wed, 10 Jun 2026 15:00:00 +0000",
+  "slides": [
+    "Niteshift scommette: il vendor lock-in ti sta rallentando?",
+    "Fondata da ex Datadog, punta sulla generazione di codice.",
+    "Non un nuovo LLM: un sistema che aggira gli ecosistemi chiusi.",
+    "Il tuo team può migrare modelli senza riscrivere tutto.",
+    "Prova Niteshift oggi: misura la differenza su un progetto."
+  ],
+  "thread_text": [
+    "Il vendor lock-in ti sta rallentando più di quanto pensi. Niteshift aggira gli ecosistemi chiusi senza obbligarti a un nuovo LLM.",
+    "Fondata da ex Datadog, Niteshift genera codice al posto tuo. Non serve riscrivere tutto per cambiare modello.",
+    "Il sistema non è un altro LLM: bypassa i vincoli dei provider e ti dà controllo su migrazioni e ottimizzazioni.",
+    "Il tuo team può spostare modelli da un fornitore all'altro in ore, non settimane. Zero riscritture massicce.",
+    "Prova Niteshift oggi: misura la differenza su un progetto reale. Costa meno di un abbonamento Spotify."
+  ],
+  "video_script": [
+    "Niteshift bypassa i sistemi chiusi senza un nuovo LLM",
+    "Fondata da ex Datadog, genera codice per te",
+    "Non devi riscrivere tutto per cambiare modello",
+    "Il team migra in ore, non settimane",
+    "Provalo ora su un progetto vero"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il vendor lock-in ti sta rallentando più di quanto pensi. Niteshift aggira gli ecosistemi chiusi senza obbligarti a un nuovo LLM.",
+        "Fondata da ex Datadog, Niteshift genera codice al posto tuo. Non serve riscrivere tutto per cambiare modello.",
+        "Il sistema non è un altro LLM: bypassa i vincoli dei provider e ti dà controllo su migrazioni e ottimizzazioni.",
+        "Il tuo team può spostare modelli da un fornitore all'altro in ore, non settimane. Zero riscritture massicce.",
+        "Prova Niteshift oggi: misura la differenza su un progetto reale. Costa meno di un abbonamento Spotify."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Niteshift bypassa i sistemi chiusi senza un nuovo LLM",
+        "Fondata da ex Datadog, genera codice per te",
+        "Non devi riscrivere tutto per cambiare modello",
+        "Il team migra in ore, non settimane",
+        "Provalo ora su un progetto vero"
+      ]
+    },
+    "instagram": {
+      "caption": "Ex Datadog hanno fondato Niteshift, una startup che genera codice senza obbligarti a un ecosistema chiuso 🛡️. Il trucco? Non è un nuovo LLM: bypassa i vincoli dei provider, permettendoti di migrare modelli senza riscrivere tutto in ore, non settimane. Per chi sviluppa, significa niente più riscritture massicce per cambiare fornitore o ottimizzare 🧩. Vuoi provare la differenza su un progetto reale? Costa meno di un abbonamento a Spotify 🎯."
+    }
+  },
+  "instagram_caption": "Ex Datadog hanno fondato Niteshift, una startup che genera codice senza obbligarti a un ecosistema chiuso 🛡️. Il trucco? Non è un nuovo LLM: bypassa i vincoli dei provider, permettendoti di migrare modelli senza riscrivere tutto in ore, non settimane. Per chi sviluppa, significa niente più riscritture massicce per cambiare fornitore o ottimizzare 🧩. Vuoi provare la differenza su un progetto reale? Costa meno di un abbonamento a Spotify 🎯.",
+  "carousel_slides": [
+    {
+      "hook": "Non un nuovo LLM",
+      "description": "Niteshift bypassa ecosistemi chiusi senza obbligarti a un nuovo modello. Aggira i vincoli dei provider.",
+      "visual_hint": "catena spezzata ingranaggi",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken chain gears"
+    },
+    {
+      "hook": "Vendor lock-in ti rallenta",
+      "description": "Fondata da ex Datadog, Niteshift genera codice al posto tuo. Non serve riscrivere tutto per cambiare modello.",
+      "visual_hint": "codice che si sblocca",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "code on monitor",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Migra in ore, non settimane",
+      "description": "Il tuo team può spostare modelli da un fornitore all'altro senza riscritture massicce. Controllo totale.",
+      "visual_hint": "orologio con frecce",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "clock with arrows",
+      "image": "https://images.pexels.com/photos/6621857/pexels-photo-6621857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Zero riscritture massive",
+      "description": "Il sistema bypassa i vincoli dei provider e dà controllo su migrazioni e ottimizzazioni in poche ore.",
+      "visual_hint": "mani su tastiera veloce",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova oggi su progetto reale",
+      "description": "Misura la differenza su un progetto vero. Costa meno di un abbonamento Spotify.",
+      "visual_hint": "confronto grafico freccia",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "upward graph arrow",
+      "image": "https://images.pexels.com/photos/9822733/pexels-photo-9822733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/sajid_conor_photo_niteshift_launch.jpg?resize=1200,970",
+  "savedAt": "2026-06-10T16:55:49.772Z",
+  "sourceId": "464bb12da8db3b6f8d41aaf387ac5874"
+}

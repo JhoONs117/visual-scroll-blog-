@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-enterprise-ai-will-be-a-major-focus-at-vivatec",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why enterprise AI will be a major focus at VivaTech 2026",
+  "link": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
+  "pubDate": "Wed, 10 Jun 2026 15:16:00 +0000",
+  "slides": [
+    "VivaTech 2026 punta sull'AI enterprise, ma chi guadagnerà?",
+    "Il 40% dei progetti AI fallisce nella scala aziendale.",
+    "Invece i vincitori tagliano i costi operativi del 30%.",
+    "Senza un piano dati solido, le demo restano vuote.",
+    "Chiedi al tuo team: abbiamo già la base dati?"
+  ],
+  "thread_text": [
+    "Il 40% dei progetti AI fallisce quando si prova a portarli in azienda. Non per la tecnologia. Perché manca la base dati.",
+    "A VivaTech 2026 tutti parlano di AI enterprise. Ma il vero problema non è chi vincerà: è chi ha già i dati pronti.",
+    "I team che ce la fanno tagliano i costi operativi del 30%. Gli altri restano con demo vuote e slide belle.",
+    "Perché senza un piano dati solido, l'AI è un motore senza carburante. Parti da lì, o non parti.",
+    "Chiedi al tuo team oggi: abbiamo già la base dati per scalare? Se la risposta è no, inizia da quel task."
+  ],
+  "video_script": [
+    "Quasi la metà dei progetti AI fallisce in azienda.",
+    "Non è un problema di tecnologia, ma di dati.",
+    "I vincitori tagliano i costi del 30%.",
+    "Senza dati solidi, rimangono solo demo.",
+    "Chiedi al tuo team: la base dati è pronta?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il 40% dei progetti AI fallisce quando si prova a portarli in azienda. Non per la tecnologia. Perché manca la base dati.",
+        "A VivaTech 2026 tutti parlano di AI enterprise. Ma il vero problema non è chi vincerà: è chi ha già i dati pronti.",
+        "I team che ce la fanno tagliano i costi operativi del 30%. Gli altri restano con demo vuote e slide belle.",
+        "Perché senza un piano dati solido, l'AI è un motore senza carburante. Parti da lì, o non parti.",
+        "Chiedi al tuo team oggi: abbiamo già la base dati per scalare? Se la risposta è no, inizia da quel task."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Quasi la metà dei progetti AI fallisce in azienda.",
+        "Non è un problema di tecnologia, ma di dati.",
+        "I vincitori tagliano i costi del 30%.",
+        "Senza dati solidi, rimangono solo demo.",
+        "Chiedi al tuo team: la base dati è pronta?"
+      ]
+    },
+    "instagram": {
+      "caption": "Quasi la metà dei progetti di intelligenza artificiale fallisce nel passaggio su larga scala in azienda: non per colpa della tecnologia, ma perché manca una base dati solida. A VivaTech 2026 il dibattito si concentra su chi vincerà la corsa all’AI enterprise, ma il vero discrimine è chi ha già i dati pronti 📊. I team che ce la fanno tagliano i costi operativi del 30% ⚡; gli altri restano con demo vuote e presentazioni patinate. Per te: se lavori con strumenti basati su AI, controlla che il tuo reparto IT abbia un piano dati prima di investire in nuovi software 🧠. Il tuo team ha già la base dati per scalare?"
+    }
+  },
+  "instagram_caption": "Quasi la metà dei progetti di intelligenza artificiale fallisce nel passaggio su larga scala in azienda: non per colpa della tecnologia, ma perché manca una base dati solida. A VivaTech 2026 il dibattito si concentra su chi vincerà la corsa all’AI enterprise, ma il vero discrimine è chi ha già i dati pronti 📊. I team che ce la fanno tagliano i costi operativi del 30% ⚡; gli altri restano con demo vuote e presentazioni patinate. Per te: se lavori con strumenti basati su AI, controlla che il tuo reparto IT abbia un piano dati prima di investire in nuovi software 🧠. Il tuo team ha già la base dati per scalare?",
+  "carousel_slides": [
+    {
+      "hook": "Chi guadagnerà davvero?",
+      "description": "A VivaTech 2026 l'AI enterprise è al centro. Ma il vero vincitore è chi ha già i dati pronti.",
+      "visual_hint": "Gara con soldi in palio",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Il 40% dei progetti fallisce",
+      "description": "Non per la tecnologia, ma perché manca la base dati. È il problema vero, non chi vincerà.",
+      "visual_hint": "Grafico a barre in rosso",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "I vincitori tagliano i costi",
+      "description": "Taglio costi operativi del 30%. Gli altri restano con demo vuote e slide belle.",
+      "visual_hint": "Frecce verdi in su/giù",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demo vuote senza piano dati",
+      "description": "Senza piano dati solido, l'AI è un motore senza carburante. Parti da lì o non parti.",
+      "visual_hint": "Motore spento senza benzina",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "power plant",
+      "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "La base dati c'è già?",
+      "description": "Chiedi al team oggi: abbiamo già la base dati per scalare? Se no, inizia da questo task.",
+      "visual_hint": "Checklist su lavagna",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/techcrunch1.jpeg?w=600",
+  "savedAt": "2026-06-10T16:55:32.973Z",
+  "sourceId": "bf5ab745aed8f442676dbb306f2208df"
+}
