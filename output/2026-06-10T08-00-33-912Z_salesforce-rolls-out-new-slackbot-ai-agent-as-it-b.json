@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "salesforce-rolls-out-new-slackbot-ai-agent-as-it-b",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+  "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+  "pubDate": "Tue, 13 Jan 2026 13:00:00 GMT",
+  "slides": [
+    "Slack ora ha un agente AI che risponde in autonomia",
+    "Dietro c'è Salesforce, in lotta con Microsoft e Google",
+    "Ma il bot impara dai tuoi messaggi privati",
+    "Chi lo attiva deve ridefinire i confini di privacy",
+    "Provalo: reimposta le policy prima che lo facciano altri"
+  ],
+  "thread_text": [
+    "Il bot AI di Slack legge i tuoi messaggi privati per imparare come rispondere. Nessuno te lo dice quando attivi la funzione.",
+    "Slack ha lanciato un agente che risponde in autonomia ai colleghi. Dietro c'è Salesforce, che compete con Microsoft e Google sul mercato AI.",
+    "Il problema? L'agente si allena sui dati delle chat, incluse quelle private. Chi lo attiva deve ridefinire i confini di privacy in azienda.",
+    "Alcune aziende hanno già scoperto che i dipendenti evitano di scrivere informazioni sensibili. La fiducia si rompe in silenzio.",
+    "Se non l'hai già fatto, vai nelle impostazioni di Slack e controlla chi può abilitare l'agente. Bloccalo prima che parta da solo."
+  ],
+  "video_script": [
+    "Il bot di Slack legge i tuoi messaggi privati.",
+    "Nessuno te lo dice quando lo attivi.",
+    "Dietro c'è Salesforce contro Microsoft e Google.",
+    "L'agente impara da tutto, anche dalle chat private.",
+    "Devi ridefinire i confini di privacy in azienda."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il bot AI di Slack legge i tuoi messaggi privati per imparare come rispondere. Nessuno te lo dice quando attivi la funzione.",
+        "Slack ha lanciato un agente che risponde in autonomia ai colleghi. Dietro c'è Salesforce, che compete con Microsoft e Google sul mercato AI.",
+        "Il problema? L'agente si allena sui dati delle chat, incluse quelle private. Chi lo attiva deve ridefinire i confini di privacy in azienda.",
+        "Alcune aziende hanno già scoperto che i dipendenti evitano di scrivere informazioni sensibili. La fiducia si rompe in silenzio.",
+        "Se non l'hai già fatto, vai nelle impostazioni di Slack e controlla chi può abilitare l'agente. Bloccalo prima che parta da solo."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Il bot di Slack legge i tuoi messaggi privati.",
+        "Nessuno te lo dice quando lo attivi.",
+        "Dietro c'è Salesforce contro Microsoft e Google.",
+        "L'agente impara da tutto, anche dalle chat private.",
+        "Devi ridefinire i confini di privacy in azienda."
+      ]
+    },
+    "instagram": {
+      "caption": "Slack ha appena sganciato un bot AI che risponde da solo ai colleghi, imparando dai messaggi — anche quelli privati 🤖 La mossa di Salesforce accelera la guerra con Microsoft e Google sul posto di lavoro, ma chi attiva la funzione deve ridefinire i confini di privacy in azienda. Alcuni dipendenti hanno già smesso di scrivere informazioni sensibili 🛑 Controlla ora le impostazioni di Slack: decidi tu chi può abilitare l'agente, prima che parta in automatico. Il tuo capo sa già che lo stai usando? 🔍"
+    }
+  },
+  "instagram_caption": "Slack ha appena sganciato un bot AI che risponde da solo ai colleghi, imparando dai messaggi — anche quelli privati 🤖 La mossa di Salesforce accelera la guerra con Microsoft e Google sul posto di lavoro, ma chi attiva la funzione deve ridefinire i confini di privacy in azienda. Alcuni dipendenti hanno già smesso di scrivere informazioni sensibili 🛑 Controlla ora le impostazioni di Slack: decidi tu chi può abilitare l'agente, prima che parta in automatico. Il tuo capo sa già che lo stai usando? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Il tuo bot legge i privati",
+      "description": "L'agente AI di Slack si allena sui tuoi messaggi privati. Nessuno te lo dice quando attivi la funzione.",
+      "visual_hint": "Chat privata luminescente viola",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "slack chat interface"
+    },
+    {
+      "hook": "Salesforce vs Microsoft e Google",
+      "description": "Slack ha lanciato un agente AI autonomo. Dietro c'è Salesforce, in lotta con Microsoft e Google.",
+      "visual_hint": "Loghi aziendali in duello",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "company logos comparison",
+      "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Privacy aziendale a rischio",
+      "description": "L'agente si allena sui dati delle chat, incluse quelle private. I confini di privacy vanno ridefiniti.",
+      "visual_hint": "Lente d'ingrandimento su chat",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass data",
+      "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fiducia in silenzio",
+      "description": "I dipendenti già evitano dati sensibili. La fiducia si rompe quando il bot impara dai privati.",
+      "visual_hint": "Persone che si allontanano",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers walking",
+      "image": "https://images.pexels.com/photos/7963794/pexels-photo-7963794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Blocca l'agente ora",
+      "description": "Vai nelle impostazioni di Slack e controlla chi abilita l'agente. Bloccalo prima che parta da solo.",
+      "visual_hint": "Schermata impostazioni Slack",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "slack settings panel",
+      "image": "https://images.pexels.com/photos/7438111/pexels-photo-7438111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7438111/pexels-photo-7438111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-10T08:01:46.405Z",
+  "sourceId": "db7ff708ed2fd3ffb22714bc4e846e1c"
+}

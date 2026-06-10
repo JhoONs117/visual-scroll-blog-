@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "salesforce-rolls-out-new-slackbot-ai-agent-as-it-b",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "pubDate": "Tue, 13 Jan 2026 13:00:00 GMT",
+      "slides": [
+        "Slack ora ha un agente AI che risponde in autonomia",
+        "Dietro c'è Salesforce, in lotta con Microsoft e Google",
+        "Ma il bot impara dai tuoi messaggi privati",
+        "Chi lo attiva deve ridefinire i confini di privacy",
+        "Provalo: reimposta le policy prima che lo facciano altri"
+      ],
+      "thread_text": [
+        "Il bot AI di Slack legge i tuoi messaggi privati per imparare come rispondere. Nessuno te lo dice quando attivi la funzione.",
+        "Slack ha lanciato un agente che risponde in autonomia ai colleghi. Dietro c'è Salesforce, che compete con Microsoft e Google sul mercato AI.",
+        "Il problema? L'agente si allena sui dati delle chat, incluse quelle private. Chi lo attiva deve ridefinire i confini di privacy in azienda.",
+        "Alcune aziende hanno già scoperto che i dipendenti evitano di scrivere informazioni sensibili. La fiducia si rompe in silenzio.",
+        "Se non l'hai già fatto, vai nelle impostazioni di Slack e controlla chi può abilitare l'agente. Bloccalo prima che parta da solo."
+      ],
+      "video_script": [
+        "Il bot di Slack legge i tuoi messaggi privati.",
+        "Nessuno te lo dice quando lo attivi.",
+        "Dietro c'è Salesforce contro Microsoft e Google.",
+        "L'agente impara da tutto, anche dalle chat private.",
+        "Devi ridefinire i confini di privacy in azienda."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Il bot AI di Slack legge i tuoi messaggi privati per imparare come rispondere. Nessuno te lo dice quando attivi la funzione.",
+            "Slack ha lanciato un agente che risponde in autonomia ai colleghi. Dietro c'è Salesforce, che compete con Microsoft e Google sul mercato AI.",
+            "Il problema? L'agente si allena sui dati delle chat, incluse quelle private. Chi lo attiva deve ridefinire i confini di privacy in azienda.",
+            "Alcune aziende hanno già scoperto che i dipendenti evitano di scrivere informazioni sensibili. La fiducia si rompe in silenzio.",
+            "Se non l'hai già fatto, vai nelle impostazioni di Slack e controlla chi può abilitare l'agente. Bloccalo prima che parta da solo."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Il bot di Slack legge i tuoi messaggi privati.",
+            "Nessuno te lo dice quando lo attivi.",
+            "Dietro c'è Salesforce contro Microsoft e Google.",
+            "L'agente impara da tutto, anche dalle chat private.",
+            "Devi ridefinire i confini di privacy in azienda."
+          ]
+        },
+        "instagram": {
+          "caption": "Slack ha appena sganciato un bot AI che risponde da solo ai colleghi, imparando dai messaggi — anche quelli privati 🤖 La mossa di Salesforce accelera la guerra con Microsoft e Google sul posto di lavoro, ma chi attiva la funzione deve ridefinire i confini di privacy in azienda. Alcuni dipendenti hanno già smesso di scrivere informazioni sensibili 🛑 Controlla ora le impostazioni di Slack: decidi tu chi può abilitare l'agente, prima che parta in automatico. Il tuo capo sa già che lo stai usando? 🔍"
+        }
+      },
+      "instagram_caption": "Slack ha appena sganciato un bot AI che risponde da solo ai colleghi, imparando dai messaggi — anche quelli privati 🤖 La mossa di Salesforce accelera la guerra con Microsoft e Google sul posto di lavoro, ma chi attiva la funzione deve ridefinire i confini di privacy in azienda. Alcuni dipendenti hanno già smesso di scrivere informazioni sensibili 🛑 Controlla ora le impostazioni di Slack: decidi tu chi può abilitare l'agente, prima che parta in automatico. Il tuo capo sa già che lo stai usando? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Il tuo bot legge i privati",
+          "description": "L'agente AI di Slack si allena sui tuoi messaggi privati. Nessuno te lo dice quando attivi la funzione.",
+          "visual_hint": "Chat privata luminescente viola",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "slack chat interface"
+        },
+        {
+          "hook": "Salesforce vs Microsoft e Google",
+          "description": "Slack ha lanciato un agente AI autonomo. Dietro c'è Salesforce, in lotta con Microsoft e Google.",
+          "visual_hint": "Loghi aziendali in duello",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "company logos comparison",
+          "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Privacy aziendale a rischio",
+          "description": "L'agente si allena sui dati delle chat, incluse quelle private. I confini di privacy vanno ridefiniti.",
+          "visual_hint": "Lente d'ingrandimento su chat",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass data",
+          "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fiducia in silenzio",
+          "description": "I dipendenti già evitano dati sensibili. La fiducia si rompe quando il bot impara dai privati.",
+          "visual_hint": "Persone che si allontanano",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers walking",
+          "image": "https://images.pexels.com/photos/7963794/pexels-photo-7963794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Blocca l'agente ora",
+          "description": "Vai nelle impostazioni di Slack e controlla chi abilita l'agente. Bloccalo prima che parta da solo.",
+          "visual_hint": "Schermata impostazioni Slack",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "slack settings panel",
+          "image": "https://images.pexels.com/photos/7438111/pexels-photo-7438111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7438111/pexels-photo-7438111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-06-10T08:01:46.405Z",
+      "sourceId": "db7ff708ed2fd3ffb22714bc4e846e1c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "listen-labs-raises-69m-after-viral-billboard-hirin",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "pubDate": "Fri, 16 Jan 2026 14:01:00 GMT",
+      "slides": [
+        "Listen Labs raised $69M after a viral billboard stunt.",
+        "The billboard hired AI to replace customer interviews.",
+        "But the stunt was just a lead-in to their real product.",
+        "Now you can automate user research without recruiters.",
+        "Test their AI interviewer on your next feature."
+      ],
+      "thread_text": [
+        "Il billboard con AI che sostituisce interviste utente non esisteva. Era un'esca. Il prodotto vero arriva ora.",
+        "Ascolti da soli milioni di telefonate a settimana. Poi capisci che il problema è parlare con le persone giuste al momento giusto.",
+        "Il fondo da 69M ha finanziato ibridi: AI che fa le domande, ma non sostituisce il giudizio umano.",
+        "Ricercatori UX senza reclutatori. Il sistema parte da zero e in 48 ore hai risultati strutturati, non trascrizioni.",
+        "Costa meno di un abbonamento Spotify. Testalo questa settimana su una feature che non stai ancora misurando."
+      ],
+      "video_script": [
+        "Billboard finto, prodotto vero.",
+        "Hanno raccolto 69 milioni di dollari.",
+        "Ora l'AI fa le interviste utente.",
+        "Tu disegni le domande, il resto è automatico.",
+        "Funziona anche per una singola feature."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Il billboard con AI che sostituisce interviste utente non esisteva. Era un'esca. Il prodotto vero arriva ora.",
+            "Ascolti da soli milioni di telefonate a settimana. Poi capisci che il problema è parlare con le persone giuste al momento giusto.",
+            "Il fondo da 69M ha finanziato ibridi: AI che fa le domande, ma non sostituisce il giudizio umano.",
+            "Ricercatori UX senza reclutatori. Il sistema parte da zero e in 48 ore hai risultati strutturati, non trascrizioni.",
+            "Costa meno di un abbonamento Spotify. Testalo questa settimana su una feature che non stai ancora misurando."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Billboard finto, prodotto vero.",
+            "Hanno raccolto 69 milioni di dollari.",
+            "Ora l'AI fa le interviste utente.",
+            "Tu disegni le domande, il resto è automatico.",
+            "Funziona anche per una singola feature."
+          ]
+        },
+        "instagram": {
+          "caption": "Un billboard a Times Square annunciava che l’AI avrebbe sostituito i recruiter di interviste — poi è sparito. Era un bluff pubblicitario di Listen Labs, che oggi ha chiuso 69 milioni di dollari 💰. Il prodotto vero? Un sistema che parte da zero, sceglie gli utenti giusti e in 48 ore produce insights strutturati, non ore di trascrizioni 🧠🎤. Niente più agenzie di reclutamento, niente attese: testi una feature non ancora misurata per meno di un abbonamento Spotify 📊. Hai già provato a intervistare utenti senza intermediari?"
+        }
+      },
+      "instagram_caption": "Un billboard a Times Square annunciava che l’AI avrebbe sostituito i recruiter di interviste — poi è sparito. Era un bluff pubblicitario di Listen Labs, che oggi ha chiuso 69 milioni di dollari 💰. Il prodotto vero? Un sistema che parte da zero, sceglie gli utenti giusti e in 48 ore produce insights strutturati, non ore di trascrizioni 🧠🎤. Niente più agenzie di reclutamento, niente attese: testi una feature non ancora misurata per meno di un abbonamento Spotify 📊. Hai già provato a intervistare utenti senza intermediari?",
+      "carousel_slides": [
+        {
+          "hook": "Quel billboard era falso",
+          "description": "Il cartellone con AI che sostituisce interviste non esisteva. Era un'esca — il prodotto vero arriva ora.",
+          "visual_hint": "Cartellone pubblicitario gigante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "billboard advertisement highway"
+        },
+        {
+          "hook": "Milioni di chiamate analizzate",
+          "description": "Ascoltano milioni di telefonate a settimana. Il vero problema? Parlare con le persone giuste al momento giusto.",
+          "visual_hint": "Grafico a linee ascendente",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI fa domande, umani giudicano",
+          "description": "69M$ per ibridi: AI conduce le interviste, ma non sostituisce il giudizio umano. Il meglio di entrambi.",
+          "visual_hint": "Interfaccia con chatbot",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Risultati in 48 ore",
+          "description": "Ricercatori UX senza reclutatori. Il sistema parte da zero e in 48 ore hai dati strutturati, non trascrizioni.",
+          "visual_hint": "Mano che tocca schermo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costa meno di Spotify",
+          "description": "Testalo su una feature che non stai misurando. Risultati strutturati in meno di 48 ore.",
+          "visual_hint": "Icona play su telefono",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/4700105/pexels-photo-4700105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-06-10T08:01:28.688Z",
+      "sourceId": "ca731494b19489d16b3acb90f6d3128d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "apple-s-ai-promises-are-finally-almost-sort-of-her",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple’s AI promises are finally, almost, sort of here",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
+      "pubDate": "2026-06-09T14:18:18.000Z",
+      "slides": [
+        "Apple ha promesso AI da mesi. E ora?",
+        "Solo iPhone 16 Pro avrà le funzioni complete.",
+        "Arrivano con mesi di ritardo e ancora parziali.",
+        "Chi usa un iPhone più vecchio non vede nulla.",
+        "Prova su un 16 Pro: decidi se aspettare o cambiare."
+      ],
+      "thread_text": [
+        "Apple ha promesso AI per mesi, poi l'ha presentata. Peccato che arrivi in ritardo, parziale e solo su un modello.",
+        "Solo l'iPhone 16 Pro avrà tutte le funzioni. Chi ha un telefono più vecchio non vedrà nulla di nuovo.",
+        "I tempi slittano: le novità arrivano con mesi di ritardo e ancora incomplete. La promessa si sgonfia.",
+        "Se hai un 16 Pro, puoi già testare cosa funziona. Decidi se vale la pena aspettare o cambiare telefono.",
+        "Non vedi funzioni AI? Non aggiornare l'iPhone. Aspetta un altro anno o compra solo un 16 Pro."
+      ],
+      "video_script": [
+        "Apple ha promesso AI per mesi.",
+        "Ora solo iPhone 16 Pro avrà tutto.",
+        "Il resto non vede niente.",
+        "Arriva in ritardo e parziale.",
+        "Prova su un 16 Pro, poi decidi."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Apple ha promesso AI per mesi, poi l'ha presentata. Peccato che arrivi in ritardo, parziale e solo su un modello.",
+            "Solo l'iPhone 16 Pro avrà tutte le funzioni. Chi ha un telefono più vecchio non vedrà nulla di nuovo.",
+            "I tempi slittano: le novità arrivano con mesi di ritardo e ancora incomplete. La promessa si sgonfia.",
+            "Se hai un 16 Pro, puoi già testare cosa funziona. Decidi se vale la pena aspettare o cambiare telefono.",
+            "Non vedi funzioni AI? Non aggiornare l'iPhone. Aspetta un altro anno o compra solo un 16 Pro."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple ha promesso AI per mesi.",
+            "Ora solo iPhone 16 Pro avrà tutto.",
+            "Il resto non vede niente.",
+            "Arriva in ritardo e parziale.",
+            "Prova su un 16 Pro, poi decidi."
+          ]
+        },
+        "instagram": {
+          "caption": "Dopo mesi di promesse, la nuova AI di Apple arriva solo su iPhone 16 Pro, in ritardo e ancora incompleta. 📱 Chi ha un modello più vecchio non vedrà nessuna funzione nuova, nemmeno aggiornando il software. ⏳ I tempi slittano ancora: le novità sono parziali e richiedono il telefono più potente. ⚡️ Concretamente: se hai un 16 Pro, puoi già testare cosa funziona; altrimenti, aspetti un altro anno o cambi telefono. 🤷 I fatti dicono che per ora non vale la pena aggiornare il software se non vedi cambiamenti reali."
+        }
+      },
+      "instagram_caption": "Dopo mesi di promesse, la nuova AI di Apple arriva solo su iPhone 16 Pro, in ritardo e ancora incompleta. 📱 Chi ha un modello più vecchio non vedrà nessuna funzione nuova, nemmeno aggiornando il software. ⏳ I tempi slittano ancora: le novità sono parziali e richiedono il telefono più potente. ⚡️ Concretamente: se hai un 16 Pro, puoi già testare cosa funziona; altrimenti, aspetti un altro anno o cambi telefono. 🤷 I fatti dicono che per ora non vale la pena aggiornare il software se non vedi cambiamenti reali.",
+      "carousel_slides": [
+        {
+          "hook": "La promessa AI si sgonfia",
+          "description": "Apple ha promesso AI per mesi, poi arriva in ritardo, parziale e solo su un modello.",
+          "visual_hint": "calendario con croce rossa",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "calendar with red x"
+        },
+        {
+          "hook": "Solo un modello conta",
+          "description": "Solo l'iPhone 16 Pro avrà tutte le funzioni AI. Chi ha un telefono più vecchio non vedrà nulla.",
+          "visual_hint": "iPhone 16 Pro in primo piano",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "iPhone 16 Pro front view",
+          "image": "https://images.pexels.com/photos/29020349/pexels-photo-29020349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Mesi di ritardo, ancora parziale",
+          "description": "Le novità AI slittano e arrivano incomplete. La promessa si sgonfia.",
+          "visual_hint": "clessidra che si svuota",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hourglass emptying sand",
+          "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Testa cosa funziona già",
+          "description": "Se hai un 16 Pro, prova le funzioni ora e decidi se vale la pena aspettare o cambiare telefono.",
+          "visual_hint": "mani che usano iPhone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands using iPhone screen",
+          "image": "https://images.pexels.com/photos/7971533/pexels-photo-7971533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Non aggiornare senza AI",
+          "description": "Non vedi funzioni AI? Non aggiornare l'iPhone. Aspetta un altro anno o compra solo un 16 Pro.",
+          "visual_hint": "fiocco rosso su scatola",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "red bow on white box",
+          "image": "https://images.pexels.com/photos/5725834/pexels-photo-5725834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-e9a9ad41-eb47-49f2-80a4-3fb06df3a0d1.jpeg?quality=90&amp;strip=all&amp;crop=0%2C10.597538331207%2C100%2C78.804923337586&amp;w=1200",
+      "savedAt": "2026-06-10T08:01:10.358Z",
+      "sourceId": "f7b43f507bf39a6078cf1291314c7b68"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-signs-first-ai-data-center-deal-in-india-with",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta signs first AI data center deal in India with Reliance",
+      "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+      "pubDate": "Wed, 10 Jun 2026 07:05:26 +0000",
+      "slides": [
+        "Meta sceglie Reliance per il primo data center AI in India.",
+        "Perché proprio ora e non prima?",
+        "Reliance non ha esperienza AI su larga scala.",
+        "Le aziende indiane devono accelerare o perdere terreno.",
+        "Controlla chi nella tua supply chain collabora con loro."
+      ],
+      "thread_text": [
+        "Reliance non ha mai gestito data center AI su larga scala. Eppure Meta l'ha scelta per il primo data center AI in India. È una scommessa, non una garanzia.",
+        "Meta aveva bisogno di un partner locale per rispettare le nuove regole indiane sui dati. Reliance era l'unico con abbastanza energia e terreno. Da qui la scelta.",
+        "Il problema: Reliance sa gestire logistica retail, non carichi di lavoro AI. Se il data center rallenta, Meta perde soldi. Se va bene, Reliance diventa il gatekeeper dell'AI in India.",
+        "Le aziende indiane che oggi ignorano l'AI rischiano di dover pagare un pedaggio a Reliance tra 18 mesi. Accelerare ora significa decidere da che parte stare.",
+        "Controlla già oggi chi nella tua supply chain fornisce energia, raffreddamento o connettività a Reliance. Se sono loro, il tuo costo infrastruttura salirà."
+      ],
+      "video_script": [
+        "Meta ha scelto Reliance per il data center AI in India.",
+        "Reliance non ha mai gestito AI su larga scala.",
+        "Perché Meta ha rischiato?",
+        "Nuove leggi sui dati obbligano i player globali a soci locali.",
+        "Se Reliance impara, diventa il gatekeeper dell'AI indiana."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Reliance non ha mai gestito data center AI su larga scala. Eppure Meta l'ha scelta per il primo data center AI in India. È una scommessa, non una garanzia.",
+            "Meta aveva bisogno di un partner locale per rispettare le nuove regole indiane sui dati. Reliance era l'unico con abbastanza energia e terreno. Da qui la scelta.",
+            "Il problema: Reliance sa gestire logistica retail, non carichi di lavoro AI. Se il data center rallenta, Meta perde soldi. Se va bene, Reliance diventa il gatekeeper dell'AI in India.",
+            "Le aziende indiane che oggi ignorano l'AI rischiano di dover pagare un pedaggio a Reliance tra 18 mesi. Accelerare ora significa decidere da che parte stare.",
+            "Controlla già oggi chi nella tua supply chain fornisce energia, raffreddamento o connettività a Reliance. Se sono loro, il tuo costo infrastruttura salirà."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta ha scelto Reliance per il data center AI in India.",
+            "Reliance non ha mai gestito AI su larga scala.",
+            "Perché Meta ha rischiato?",
+            "Nuove leggi sui dati obbligano i player globali a soci locali.",
+            "Se Reliance impara, diventa il gatekeeper dell'AI indiana."
+          ]
+        },
+        "instagram": {
+          "caption": "Meta ha appena firmato un accordo con Reliance per costruire il suo primo data center AI in India. 🇮🇳 La scelta è caduta su un colosso della logistica e retail, non su un esperto di AI, perché serviva un partner locale per rispettare le regole sui dati e con accesso a energia e terreno. ⚡ Se funziona, Reliance diventa il gatekeeper dell'AI indiana; se rallenta, Meta perde soldi. Per te significa che il costo di ogni servizio AI in India potrebbe salire, legato alla supply chain di un singolo fornitore. 💡 Hai già verificato chi nella tua filiera lavora con loro? 🔍"
+        }
+      },
+      "instagram_caption": "Meta ha appena firmato un accordo con Reliance per costruire il suo primo data center AI in India. 🇮🇳 La scelta è caduta su un colosso della logistica e retail, non su un esperto di AI, perché serviva un partner locale per rispettare le regole sui dati e con accesso a energia e terreno. ⚡ Se funziona, Reliance diventa il gatekeeper dell'AI indiana; se rallenta, Meta perde soldi. Per te significa che il costo di ogni servizio AI in India potrebbe salire, legato alla supply chain di un singolo fornitore. 💡 Hai già verificato chi nella tua filiera lavora con loro? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Scommessa da miliardi senza garanzie",
+          "description": "Reliance non ha gestito data center AI su larga scala. Meta la sceglie per il primo in India: è una scommessa.",
+          "visual_hint": "Profilo nuvole e server",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "data center servers"
+        },
+        {
+          "hook": "Perché ora, non prima?",
+          "description": "Meta doveva rispettare le nuove regole indiane sui dati. Reliance era l'unico con energia e terreno disponibili.",
+          "visual_hint": "Mappa India con fulmini",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "power plant India",
+          "image": "https://images.pexels.com/photos/7563985/pexels-photo-7563985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Reliance sa vendere, non calcolare",
+          "description": "Gestisce logistica retail, non carichi AI. Se rallenta, Meta perde soldi. Se va bene, Reliance diventa gatekeeper.",
+          "visual_hint": "Ingranaggio che rallenta",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room cooling",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Le aziende indiane al bivio",
+          "description": "Chi ignora l'AI ora pagherà pedaggio a Reliance tra 18 mesi. Accelerare significa decidere da che parte stare.",
+          "visual_hint": "Mano che stringe contratto",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Controlla la tua supply chain",
+          "description": "Fornitori di energia, raffreddamento o connettività a Reliance? Se sì, il tuo costo infrastruttura salirà.",
+          "visual_hint": "Catena con anello rotto",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels farm",
+          "image": "https://images.pexels.com/photos/33900746/pexels-photo-33900746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/meta-getty.jpg?w=1200",
+      "savedAt": "2026-06-10T08:00:52.727Z",
+      "sourceId": "db7dea1c0ca67a20b1630e9c5888c98f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "microsoft-ai-head-calls-out-anthropic-for-acting-l",
       "prompt_version": "1.0.0",
       "status": "published",

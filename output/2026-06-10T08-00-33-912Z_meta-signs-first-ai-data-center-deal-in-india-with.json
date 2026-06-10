@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-signs-first-ai-data-center-deal-in-india-with",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta signs first AI data center deal in India with Reliance",
+  "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+  "pubDate": "Wed, 10 Jun 2026 07:05:26 +0000",
+  "slides": [
+    "Meta sceglie Reliance per il primo data center AI in India.",
+    "Perché proprio ora e non prima?",
+    "Reliance non ha esperienza AI su larga scala.",
+    "Le aziende indiane devono accelerare o perdere terreno.",
+    "Controlla chi nella tua supply chain collabora con loro."
+  ],
+  "thread_text": [
+    "Reliance non ha mai gestito data center AI su larga scala. Eppure Meta l'ha scelta per il primo data center AI in India. È una scommessa, non una garanzia.",
+    "Meta aveva bisogno di un partner locale per rispettare le nuove regole indiane sui dati. Reliance era l'unico con abbastanza energia e terreno. Da qui la scelta.",
+    "Il problema: Reliance sa gestire logistica retail, non carichi di lavoro AI. Se il data center rallenta, Meta perde soldi. Se va bene, Reliance diventa il gatekeeper dell'AI in India.",
+    "Le aziende indiane che oggi ignorano l'AI rischiano di dover pagare un pedaggio a Reliance tra 18 mesi. Accelerare ora significa decidere da che parte stare.",
+    "Controlla già oggi chi nella tua supply chain fornisce energia, raffreddamento o connettività a Reliance. Se sono loro, il tuo costo infrastruttura salirà."
+  ],
+  "video_script": [
+    "Meta ha scelto Reliance per il data center AI in India.",
+    "Reliance non ha mai gestito AI su larga scala.",
+    "Perché Meta ha rischiato?",
+    "Nuove leggi sui dati obbligano i player globali a soci locali.",
+    "Se Reliance impara, diventa il gatekeeper dell'AI indiana."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Reliance non ha mai gestito data center AI su larga scala. Eppure Meta l'ha scelta per il primo data center AI in India. È una scommessa, non una garanzia.",
+        "Meta aveva bisogno di un partner locale per rispettare le nuove regole indiane sui dati. Reliance era l'unico con abbastanza energia e terreno. Da qui la scelta.",
+        "Il problema: Reliance sa gestire logistica retail, non carichi di lavoro AI. Se il data center rallenta, Meta perde soldi. Se va bene, Reliance diventa il gatekeeper dell'AI in India.",
+        "Le aziende indiane che oggi ignorano l'AI rischiano di dover pagare un pedaggio a Reliance tra 18 mesi. Accelerare ora significa decidere da che parte stare.",
+        "Controlla già oggi chi nella tua supply chain fornisce energia, raffreddamento o connettività a Reliance. Se sono loro, il tuo costo infrastruttura salirà."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta ha scelto Reliance per il data center AI in India.",
+        "Reliance non ha mai gestito AI su larga scala.",
+        "Perché Meta ha rischiato?",
+        "Nuove leggi sui dati obbligano i player globali a soci locali.",
+        "Se Reliance impara, diventa il gatekeeper dell'AI indiana."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta ha appena firmato un accordo con Reliance per costruire il suo primo data center AI in India. 🇮🇳 La scelta è caduta su un colosso della logistica e retail, non su un esperto di AI, perché serviva un partner locale per rispettare le regole sui dati e con accesso a energia e terreno. ⚡ Se funziona, Reliance diventa il gatekeeper dell'AI indiana; se rallenta, Meta perde soldi. Per te significa che il costo di ogni servizio AI in India potrebbe salire, legato alla supply chain di un singolo fornitore. 💡 Hai già verificato chi nella tua filiera lavora con loro? 🔍"
+    }
+  },
+  "instagram_caption": "Meta ha appena firmato un accordo con Reliance per costruire il suo primo data center AI in India. 🇮🇳 La scelta è caduta su un colosso della logistica e retail, non su un esperto di AI, perché serviva un partner locale per rispettare le regole sui dati e con accesso a energia e terreno. ⚡ Se funziona, Reliance diventa il gatekeeper dell'AI indiana; se rallenta, Meta perde soldi. Per te significa che il costo di ogni servizio AI in India potrebbe salire, legato alla supply chain di un singolo fornitore. 💡 Hai già verificato chi nella tua filiera lavora con loro? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Scommessa da miliardi senza garanzie",
+      "description": "Reliance non ha gestito data center AI su larga scala. Meta la sceglie per il primo in India: è una scommessa.",
+      "visual_hint": "Profilo nuvole e server",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data center servers"
+    },
+    {
+      "hook": "Perché ora, non prima?",
+      "description": "Meta doveva rispettare le nuove regole indiane sui dati. Reliance era l'unico con energia e terreno disponibili.",
+      "visual_hint": "Mappa India con fulmini",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "power plant India",
+      "image": "https://images.pexels.com/photos/7563985/pexels-photo-7563985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Reliance sa vendere, non calcolare",
+      "description": "Gestisce logistica retail, non carichi AI. Se rallenta, Meta perde soldi. Se va bene, Reliance diventa gatekeeper.",
+      "visual_hint": "Ingranaggio che rallenta",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room cooling",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Le aziende indiane al bivio",
+      "description": "Chi ignora l'AI ora pagherà pedaggio a Reliance tra 18 mesi. Accelerare significa decidere da che parte stare.",
+      "visual_hint": "Mano che stringe contratto",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controlla la tua supply chain",
+      "description": "Fornitori di energia, raffreddamento o connettività a Reliance? Se sì, il tuo costo infrastruttura salirà.",
+      "visual_hint": "Catena con anello rotto",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels farm",
+      "image": "https://images.pexels.com/photos/33900746/pexels-photo-33900746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/05/meta-getty.jpg?w=1200",
+  "savedAt": "2026-06-10T08:00:52.727Z",
+  "sourceId": "db7dea1c0ca67a20b1630e9c5888c98f"
+}

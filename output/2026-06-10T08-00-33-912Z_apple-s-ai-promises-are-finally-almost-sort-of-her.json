@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-s-ai-promises-are-finally-almost-sort-of-her",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple’s AI promises are finally, almost, sort of here",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
+  "pubDate": "2026-06-09T14:18:18.000Z",
+  "slides": [
+    "Apple ha promesso AI da mesi. E ora?",
+    "Solo iPhone 16 Pro avrà le funzioni complete.",
+    "Arrivano con mesi di ritardo e ancora parziali.",
+    "Chi usa un iPhone più vecchio non vede nulla.",
+    "Prova su un 16 Pro: decidi se aspettare o cambiare."
+  ],
+  "thread_text": [
+    "Apple ha promesso AI per mesi, poi l'ha presentata. Peccato che arrivi in ritardo, parziale e solo su un modello.",
+    "Solo l'iPhone 16 Pro avrà tutte le funzioni. Chi ha un telefono più vecchio non vedrà nulla di nuovo.",
+    "I tempi slittano: le novità arrivano con mesi di ritardo e ancora incomplete. La promessa si sgonfia.",
+    "Se hai un 16 Pro, puoi già testare cosa funziona. Decidi se vale la pena aspettare o cambiare telefono.",
+    "Non vedi funzioni AI? Non aggiornare l'iPhone. Aspetta un altro anno o compra solo un 16 Pro."
+  ],
+  "video_script": [
+    "Apple ha promesso AI per mesi.",
+    "Ora solo iPhone 16 Pro avrà tutto.",
+    "Il resto non vede niente.",
+    "Arriva in ritardo e parziale.",
+    "Prova su un 16 Pro, poi decidi."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Apple ha promesso AI per mesi, poi l'ha presentata. Peccato che arrivi in ritardo, parziale e solo su un modello.",
+        "Solo l'iPhone 16 Pro avrà tutte le funzioni. Chi ha un telefono più vecchio non vedrà nulla di nuovo.",
+        "I tempi slittano: le novità arrivano con mesi di ritardo e ancora incomplete. La promessa si sgonfia.",
+        "Se hai un 16 Pro, puoi già testare cosa funziona. Decidi se vale la pena aspettare o cambiare telefono.",
+        "Non vedi funzioni AI? Non aggiornare l'iPhone. Aspetta un altro anno o compra solo un 16 Pro."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple ha promesso AI per mesi.",
+        "Ora solo iPhone 16 Pro avrà tutto.",
+        "Il resto non vede niente.",
+        "Arriva in ritardo e parziale.",
+        "Prova su un 16 Pro, poi decidi."
+      ]
+    },
+    "instagram": {
+      "caption": "Dopo mesi di promesse, la nuova AI di Apple arriva solo su iPhone 16 Pro, in ritardo e ancora incompleta. 📱 Chi ha un modello più vecchio non vedrà nessuna funzione nuova, nemmeno aggiornando il software. ⏳ I tempi slittano ancora: le novità sono parziali e richiedono il telefono più potente. ⚡️ Concretamente: se hai un 16 Pro, puoi già testare cosa funziona; altrimenti, aspetti un altro anno o cambi telefono. 🤷 I fatti dicono che per ora non vale la pena aggiornare il software se non vedi cambiamenti reali."
+    }
+  },
+  "instagram_caption": "Dopo mesi di promesse, la nuova AI di Apple arriva solo su iPhone 16 Pro, in ritardo e ancora incompleta. 📱 Chi ha un modello più vecchio non vedrà nessuna funzione nuova, nemmeno aggiornando il software. ⏳ I tempi slittano ancora: le novità sono parziali e richiedono il telefono più potente. ⚡️ Concretamente: se hai un 16 Pro, puoi già testare cosa funziona; altrimenti, aspetti un altro anno o cambi telefono. 🤷 I fatti dicono che per ora non vale la pena aggiornare il software se non vedi cambiamenti reali.",
+  "carousel_slides": [
+    {
+      "hook": "La promessa AI si sgonfia",
+      "description": "Apple ha promesso AI per mesi, poi arriva in ritardo, parziale e solo su un modello.",
+      "visual_hint": "calendario con croce rossa",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "calendar with red x"
+    },
+    {
+      "hook": "Solo un modello conta",
+      "description": "Solo l'iPhone 16 Pro avrà tutte le funzioni AI. Chi ha un telefono più vecchio non vedrà nulla.",
+      "visual_hint": "iPhone 16 Pro in primo piano",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "iPhone 16 Pro front view",
+      "image": "https://images.pexels.com/photos/29020349/pexels-photo-29020349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Mesi di ritardo, ancora parziale",
+      "description": "Le novità AI slittano e arrivano incomplete. La promessa si sgonfia.",
+      "visual_hint": "clessidra che si svuota",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hourglass emptying sand",
+      "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Testa cosa funziona già",
+      "description": "Se hai un 16 Pro, prova le funzioni ora e decidi se vale la pena aspettare o cambiare telefono.",
+      "visual_hint": "mani che usano iPhone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands using iPhone screen",
+      "image": "https://images.pexels.com/photos/7971533/pexels-photo-7971533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non aggiornare senza AI",
+      "description": "Non vedi funzioni AI? Non aggiornare l'iPhone. Aspetta un altro anno o compra solo un 16 Pro.",
+      "visual_hint": "fiocco rosso su scatola",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "red bow on white box",
+      "image": "https://images.pexels.com/photos/5725834/pexels-photo-5725834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-e9a9ad41-eb47-49f2-80a4-3fb06df3a0d1.jpeg?quality=90&amp;strip=all&amp;crop=0%2C10.597538331207%2C100%2C78.804923337586&amp;w=1200",
+  "savedAt": "2026-06-10T08:01:10.358Z",
+  "sourceId": "f7b43f507bf39a6078cf1291314c7b68"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "listen-labs-raises-69m-after-viral-billboard-hirin",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+  "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+  "pubDate": "Fri, 16 Jan 2026 14:01:00 GMT",
+  "slides": [
+    "Listen Labs raised $69M after a viral billboard stunt.",
+    "The billboard hired AI to replace customer interviews.",
+    "But the stunt was just a lead-in to their real product.",
+    "Now you can automate user research without recruiters.",
+    "Test their AI interviewer on your next feature."
+  ],
+  "thread_text": [
+    "Il billboard con AI che sostituisce interviste utente non esisteva. Era un'esca. Il prodotto vero arriva ora.",
+    "Ascolti da soli milioni di telefonate a settimana. Poi capisci che il problema è parlare con le persone giuste al momento giusto.",
+    "Il fondo da 69M ha finanziato ibridi: AI che fa le domande, ma non sostituisce il giudizio umano.",
+    "Ricercatori UX senza reclutatori. Il sistema parte da zero e in 48 ore hai risultati strutturati, non trascrizioni.",
+    "Costa meno di un abbonamento Spotify. Testalo questa settimana su una feature che non stai ancora misurando."
+  ],
+  "video_script": [
+    "Billboard finto, prodotto vero.",
+    "Hanno raccolto 69 milioni di dollari.",
+    "Ora l'AI fa le interviste utente.",
+    "Tu disegni le domande, il resto è automatico.",
+    "Funziona anche per una singola feature."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il billboard con AI che sostituisce interviste utente non esisteva. Era un'esca. Il prodotto vero arriva ora.",
+        "Ascolti da soli milioni di telefonate a settimana. Poi capisci che il problema è parlare con le persone giuste al momento giusto.",
+        "Il fondo da 69M ha finanziato ibridi: AI che fa le domande, ma non sostituisce il giudizio umano.",
+        "Ricercatori UX senza reclutatori. Il sistema parte da zero e in 48 ore hai risultati strutturati, non trascrizioni.",
+        "Costa meno di un abbonamento Spotify. Testalo questa settimana su una feature che non stai ancora misurando."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Billboard finto, prodotto vero.",
+        "Hanno raccolto 69 milioni di dollari.",
+        "Ora l'AI fa le interviste utente.",
+        "Tu disegni le domande, il resto è automatico.",
+        "Funziona anche per una singola feature."
+      ]
+    },
+    "instagram": {
+      "caption": "Un billboard a Times Square annunciava che l’AI avrebbe sostituito i recruiter di interviste — poi è sparito. Era un bluff pubblicitario di Listen Labs, che oggi ha chiuso 69 milioni di dollari 💰. Il prodotto vero? Un sistema che parte da zero, sceglie gli utenti giusti e in 48 ore produce insights strutturati, non ore di trascrizioni 🧠🎤. Niente più agenzie di reclutamento, niente attese: testi una feature non ancora misurata per meno di un abbonamento Spotify 📊. Hai già provato a intervistare utenti senza intermediari?"
+    }
+  },
+  "instagram_caption": "Un billboard a Times Square annunciava che l’AI avrebbe sostituito i recruiter di interviste — poi è sparito. Era un bluff pubblicitario di Listen Labs, che oggi ha chiuso 69 milioni di dollari 💰. Il prodotto vero? Un sistema che parte da zero, sceglie gli utenti giusti e in 48 ore produce insights strutturati, non ore di trascrizioni 🧠🎤. Niente più agenzie di reclutamento, niente attese: testi una feature non ancora misurata per meno di un abbonamento Spotify 📊. Hai già provato a intervistare utenti senza intermediari?",
+  "carousel_slides": [
+    {
+      "hook": "Quel billboard era falso",
+      "description": "Il cartellone con AI che sostituisce interviste non esisteva. Era un'esca — il prodotto vero arriva ora.",
+      "visual_hint": "Cartellone pubblicitario gigante",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "billboard advertisement highway"
+    },
+    {
+      "hook": "Milioni di chiamate analizzate",
+      "description": "Ascoltano milioni di telefonate a settimana. Il vero problema? Parlare con le persone giuste al momento giusto.",
+      "visual_hint": "Grafico a linee ascendente",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI fa domande, umani giudicano",
+      "description": "69M$ per ibridi: AI conduce le interviste, ma non sostituisce il giudizio umano. Il meglio di entrambi.",
+      "visual_hint": "Interfaccia con chatbot",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Risultati in 48 ore",
+      "description": "Ricercatori UX senza reclutatori. Il sistema parte da zero e in 48 ore hai dati strutturati, non trascrizioni.",
+      "visual_hint": "Mano che tocca schermo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costa meno di Spotify",
+      "description": "Testalo su una feature che non stai misurando. Risultati strutturati in meno di 48 ore.",
+      "visual_hint": "Icona play su telefono",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/4700105/pexels-photo-4700105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-10T08:01:28.688Z",
+  "sourceId": "ca731494b19489d16b3acb90f6d3128d"
+}
