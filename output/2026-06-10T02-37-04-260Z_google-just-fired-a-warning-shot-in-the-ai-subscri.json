@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-just-fired-a-warning-shot-in-the-ai-subscri",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google just fired a warning shot in the AI subscription price wars",
+  "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+  "pubDate": "Wed, 10 Jun 2026 00:26:10 +0000",
+  "slides": [
+    "Google punta a 19 dollari, ma per chi?",
+    "Il prezzo sfida direttamente OpenAI e Microsoft.",
+    "Il taglio nasconde costi nascosti per le aziende.",
+    "Se usi AI, il tuo budget cambia già ora.",
+    "Confronta i piani prima di rinnovare l'abbonamento."
+  ],
+  "thread_text": [
+    "Google annuncia un abbonamento AI a 19 dollari. Ma il prezzo nasconde costi aggiuntivi per le aziende che non compaiono in nessuna brochure.",
+    "Il taglio non è un regalo. È una mossa per rubare clienti a OpenAI e Microsoft, ma ogni funzionalità extra ha un costo separato.",
+    "Se integri AI nei tuoi processi, il budget cambia subito: devi pagare per chiamate API, storage e supporto prioritario. Non solo l'abbonamento.",
+    "Le aziende che rinnovano oggi senza confrontare i piani rischiano di spendere il doppio tra tre mesi.",
+    "Confronta i costi totali prima di firmare. Un test su un singolo progetto ti farà vedere la differenza. Fallo questa settimana."
+  ],
+  "video_script": [
+    "Hanno messo 19 dollari sul tavolo.",
+    "Sembra un affare, ma nasconde costi.",
+    "OpenAI e Microsoft lo sanno bene.",
+    "Le aziende pagano extra per ogni funzione.",
+    "Il budget AI cambia subito.",
+    "Non rinnovare senza aver confrontato.",
+    "Controlla i costi nascosti prima.",
+    "Un test ti salva da brutte sorprese."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Google annuncia un abbonamento AI a 19 dollari. Ma il prezzo nasconde costi aggiuntivi per le aziende che non compaiono in nessuna brochure.",
+        "Il taglio non è un regalo. È una mossa per rubare clienti a OpenAI e Microsoft, ma ogni funzionalità extra ha un costo separato.",
+        "Se integri AI nei tuoi processi, il budget cambia subito: devi pagare per chiamate API, storage e supporto prioritario. Non solo l'abbonamento.",
+        "Le aziende che rinnovano oggi senza confrontare i piani rischiano di spendere il doppio tra tre mesi.",
+        "Confronta i costi totali prima di firmare. Un test su un singolo progetto ti farà vedere la differenza. Fallo questa settimana."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hanno messo 19 dollari sul tavolo.",
+        "Sembra un affare, ma nasconde costi.",
+        "OpenAI e Microsoft lo sanno bene.",
+        "Le aziende pagano extra per ogni funzione.",
+        "Il budget AI cambia subito.",
+        "Non rinnovare senza aver confrontato.",
+        "Controlla i costi nascosti prima.",
+        "Un test ti salva da brutte sorprese."
+      ]
+    },
+    "instagram": {
+      "caption": "Google ha appena messo sul tavolo un abbonamento AI a 19 dollari, ma attenzione: non è tutto incluso. Il prezzo sfida direttamente OpenAI e Microsoft, però ogni funzionalità extra come API, storage o supporto prioritario ha un costo separato. Per chi usa AI al lavoro, significa che il budget mensile potrebbe raddoppiare in pochi mesi. Se stai per rinnovare un abbonamento aziendale, confronta i piani su un singolo progetto prima di firmare. Quanto costa davvero il tuo strumento AI senza le voci nascoste? 🤖💰🔍"
+    }
+  },
+  "instagram_caption": "Google ha appena messo sul tavolo un abbonamento AI a 19 dollari, ma attenzione: non è tutto incluso. Il prezzo sfida direttamente OpenAI e Microsoft, però ogni funzionalità extra come API, storage o supporto prioritario ha un costo separato. Per chi usa AI al lavoro, significa che il budget mensile potrebbe raddoppiare in pochi mesi. Se stai per rinnovare un abbonamento aziendale, confronta i piani su un singolo progetto prima di firmare. Quanto costa davvero il tuo strumento AI senza le voci nascoste? 🤖💰🔍",
+  "carousel_slides": [
+    {
+      "hook": "Quanto costa davvero?",
+      "description": "Il prezzo nasconde costi aggiuntivi per le aziende che non compaiono in nessuna brochure.",
+      "visual_hint": "Costo nascosto nel prezzo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "price tag hidden"
+    },
+    {
+      "hook": "Mossa per rubare clienti",
+      "description": "Non è un regalo. Sfida OpenAI e Microsoft, ma ogni funzionalità extra ha un costo separato.",
+      "visual_hint": "Guerra prezzi AI",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "AI company logos",
+      "image": "https://images.pexels.com/photos/9683980/pexels-photo-9683980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costi nascosti per API",
+      "description": "Devi pagare per chiamate API, storage e supporto prioritario. Non solo l'abbonamento.",
+      "visual_hint": "API costi extra",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Budget cambia subito",
+      "description": "Se integri AI, il budget cambia già ora. Rinnovare senza confrontare rischia di far spendere il doppio.",
+      "visual_hint": "Budget in aumento",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Confronta prima di firmare",
+      "description": "Confronta i costi totali. Un test su un singolo progetto vedrai la differenza. Fallo questa settimana.",
+      "visual_hint": "Confronto abbonamenti",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "comparison chart",
+      "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+  "savedAt": "2026-06-10T02:37:19.789Z",
+  "sourceId": "f5f16b778aa511b12529d9bb647b0a71"
+}

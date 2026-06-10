@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "gm-thinks-evs-can-help-offset-ai-s-energy-suck-wit",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+  "link": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+  "pubDate": "2026-06-09T21:00:00.000Z",
+  "slides": [
+    "GM thinks EVs can feed AI's hunger for energy.",
+    "AI's power demand already strains the grid.",
+    "Your parked EV battery could settle peak hours.",
+    "GM's pilot lets you sell power back tonight.",
+    "Will you charge your car or power a data center?"
+  ],
+  "thread_text": [
+    "Your parked EV battery could be earning money tonight while you sleep. GM just launched a pilot that lets you sell its power back to the grid during peak hours. The same energy AI desperately needs.",
+    "AI data centers are already straining the grid. Power demand is surging faster than new plants can come online. Something has to give — and utilities are running out of options.",
+    "GM’s bet: EVs aren’t just cars, they’re mobile batteries. Parked 23 hours a day, they store massive capacity. If even a fraction sells back at peak, it stabilizes the entire system.",
+    "The pilot starts tonight. You plug in, set a minimum charge for tomorrow’s commute, and the rest gets auctioned to the grid. You get paid. The data center stays lit. No extra hardware.",
+    "Will you charge your car or power a server farm? That choice is coming sooner than you think. And the economics already favor the grid."
+  ],
+  "video_script": [
+    "Your car battery can make money tonight.",
+    "AI needs insane amounts of power.",
+    "The grid is already struggling.",
+    "GM lets you sell power back.",
+    "You choose: drive or feed a data center."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Your parked EV battery could be earning money tonight while you sleep. GM just launched a pilot that lets you sell its power back to the grid during peak hours. The same energy AI desperately needs.",
+        "AI data centers are already straining the grid. Power demand is surging faster than new plants can come online. Something has to give — and utilities are running out of options.",
+        "GM’s bet: EVs aren’t just cars, they’re mobile batteries. Parked 23 hours a day, they store massive capacity. If even a fraction sells back at peak, it stabilizes the entire system.",
+        "The pilot starts tonight. You plug in, set a minimum charge for tomorrow’s commute, and the rest gets auctioned to the grid. You get paid. The data center stays lit. No extra hardware.",
+        "Will you charge your car or power a server farm? That choice is coming sooner than you think. And the economics already favor the grid."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your car battery can make money tonight.",
+        "AI needs insane amounts of power.",
+        "The grid is already struggling.",
+        "GM lets you sell power back.",
+        "You choose: drive or feed a data center."
+      ]
+    },
+    "instagram": {
+      "caption": "GM ha appena avviato un pilota che trasforma le batterie delle auto elettriche in riserva per i data center dell'AI. Durante i picchi di consumo, la corrente del tuo veicolo parcheggiato può essere venduta alla rete per tenere accesi i server. Il problema è concreto: i data center AI già mettono in crisi la rete, e costruire centrali è troppo lento. Tu la sera carichi l'auto, imposti la riserva per domani, e il resto viene messo all'asta. ⚡️ Prendi soldi. L'AI resta accesa. Nessun hardware extra. La scelta è se caricare la macchina o alimentare un server farm.🚗💸"
+    }
+  },
+  "instagram_caption": "GM ha appena avviato un pilota che trasforma le batterie delle auto elettriche in riserva per i data center dell'AI. Durante i picchi di consumo, la corrente del tuo veicolo parcheggiato può essere venduta alla rete per tenere accesi i server. Il problema è concreto: i data center AI già mettono in crisi la rete, e costruire centrali è troppo lento. Tu la sera carichi l'auto, imposti la riserva per domani, e il resto viene messo all'asta. ⚡️ Prendi soldi. L'AI resta accesa. Nessun hardware extra. La scelta è se caricare la macchina o alimentare un server farm.🚗💸",
+  "carousel_slides": [
+    {
+      "hook": "Your parked EV earns while you sleep.",
+      "description": "Your parked EV battery could earn money tonight while you sleep. GM lets you sell power back to the grid.",
+      "visual_hint": "EV plugged in at night",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "electric car charging night"
+    },
+    {
+      "hook": "AI's hunger strains the grid.",
+      "description": "AI data centers strain the grid. Power demand surges faster than new plants can come online. Utilities need options.",
+      "visual_hint": "Server racks glowing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room datacenter",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "EVs are mobile batteries parked 23 hours daily.",
+      "description": "GM’s bet: EVs store massive capacity parked 23 hours a day. Selling back at peak stabilizes the entire system.",
+      "visual_hint": "Battery pack icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "electric car battery pack",
+      "image": "https://images.pexels.com/photos/37929911/pexels-photo-37929911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Plug in, set charge, sell the rest.",
+      "description": "You plug in, set a minimum charge for tomorrow. The rest gets auctioned to grid. You get paid. No extra hardware.",
+      "visual_hint": "Hand plugging in cable",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person plugging ev charger",
+      "image": "https://images.pexels.com/photos/35736780/pexels-photo-35736780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Will you charge your car or power a server farm?",
+      "description": "That choice is coming sooner than you think. The economics already favor the grid.",
+      "visual_hint": "EV vs data center split screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "ev car and datacenter",
+      "image": "https://images.pexels.com/photos/35736783/pexels-photo-35736783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/GM-Energy-home-energy-system-2.png?quality=90&amp;strip=all&amp;crop=0%2C10.756710586672%2C100%2C78.486578826656&amp;w=1200",
+  "savedAt": "2026-06-10T02:37:50.801Z",
+  "sourceId": "421eda7b681b3b3ad39aedebf6770505"
+}

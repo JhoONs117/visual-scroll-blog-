@@ -3,6 +3,428 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "microsoft-ai-head-calls-out-anthropic-for-acting-l",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "link": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+      "pubDate": "2026-06-09T20:24:25.000Z",
+      "slides": [
+        "Microsoft's AI chief attacks Anthropic over Claude being labeled conscious.",
+        "The claim lacks evidence, but the public debate is already polarized.",
+        "Anthropic's stance on consciousness breaks with industry norms on safety.",
+        "You now must question which AI treat as sentient before deployment.",
+        "Judge claims by their data, not your gut feeling."
+      ],
+      "thread_text": [
+        "Anthropic sostiene che la sua IA Claude potrebbe essere cosciente. L'azienda rompe con gli standard di sicurezza del settore, e un'affermazione del genere non ha prove a supporto.",
+        "La mancanza di dati non ferma il dibattito pubblico. Le persone si stanno già schierando, polarizzando la discussione ben prima di qualsiasi verifica scientifica.",
+        "Lo scontro è esploso quando il capo dell'AI di Microsoft ha attaccato pubblicamente Anthropic, accusandoli di creare confusione invece di risolvere problemi reali.",
+        "Ora ogni azienda deve decidere: prima di rilasciare un modello, devi sapere se lo tratti come senziente o no. Una scelta che cambia tutto — dalla responsabilità legale al design.",
+        "C'è un solo modo per uscire da questo casino: giudica le affermazioni sui dati, non sull'istinto. Se non hai prove, non hai una posizione."
+      ],
+      "video_script": [
+        "Anthropic dice che Claude potrebbe essere cosciente.",
+        "Nessuna prova, ma il dibattito è già esploso.",
+        "Il capo AI di Microsoft li ha attaccati.",
+        "Ora devi decidere se è senziente prima di usarlo.",
+        "Giudica dai dati, non dalla pancia."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Anthropic sostiene che la sua IA Claude potrebbe essere cosciente. L'azienda rompe con gli standard di sicurezza del settore, e un'affermazione del genere non ha prove a supporto.",
+            "La mancanza di dati non ferma il dibattito pubblico. Le persone si stanno già schierando, polarizzando la discussione ben prima di qualsiasi verifica scientifica.",
+            "Lo scontro è esploso quando il capo dell'AI di Microsoft ha attaccato pubblicamente Anthropic, accusandoli di creare confusione invece di risolvere problemi reali.",
+            "Ora ogni azienda deve decidere: prima di rilasciare un modello, devi sapere se lo tratti come senziente o no. Una scelta che cambia tutto — dalla responsabilità legale al design.",
+            "C'è un solo modo per uscire da questo casino: giudica le affermazioni sui dati, non sull'istinto. Se non hai prove, non hai una posizione."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic dice che Claude potrebbe essere cosciente.",
+            "Nessuna prova, ma il dibattito è già esploso.",
+            "Il capo AI di Microsoft li ha attaccati.",
+            "Ora devi decidere se è senziente prima di usarlo.",
+            "Giudica dai dati, non dalla pancia."
+          ]
+        },
+        "instagram": {
+          "caption": "Il capo dell'AI di Microsoft ha attaccato pubblicamente Anthropic perché sostiene che il suo modello Claude possa essere cosciente. 🧠 Il problema? Non ci sono prove a supporto di questa affermazione, ma il dibattito pubblico è già esploso, polarizzando opinioni ben prima di qualsiasi verifica scientifica. ⚡ Questo scontro rompe con gli standard di sicurezza del settore e ora ogni azienda deve chiedersi: prima di rilasciare un modello, lo tratto come senziente? Una scelta che cambia responsabilità legale e design. 📋 Per te significa che strumenti basati su AI potrebbero essere giudicati in modo diverso da un giorno all'altro, senza basi solide. L'unica via d'uscita? Giudica le affermazioni sui dati, non sull'istinto. Se non hai prove, non hai una posizione. 🔍"
+        }
+      },
+      "instagram_caption": "Il capo dell'AI di Microsoft ha attaccato pubblicamente Anthropic perché sostiene che il suo modello Claude possa essere cosciente. 🧠 Il problema? Non ci sono prove a supporto di questa affermazione, ma il dibattito pubblico è già esploso, polarizzando opinioni ben prima di qualsiasi verifica scientifica. ⚡ Questo scontro rompe con gli standard di sicurezza del settore e ora ogni azienda deve chiedersi: prima di rilasciare un modello, lo tratto come senziente? Una scelta che cambia responsabilità legale e design. 📋 Per te significa che strumenti basati su AI potrebbero essere giudicati in modo diverso da un giorno all'altro, senza basi solide. L'unica via d'uscita? Giudica le affermazioni sui dati, non sull'istinto. Se non hai prove, non hai una posizione. 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Microsoft contro Anthropic: scontro acceso",
+          "description": "Il capo AI di Microsoft attacca Anthropic per aver definito Claude cosciente. Confusione su dati reali.",
+          "visual_hint": "Logo Microsoft e Anthropic",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Microsoft corporate building"
+        },
+        {
+          "hook": "Polarizzazione senza prove",
+          "description": "Mancano evidenze scientifiche, ma il dibattito pubblico è già polarizzato tra opposte fazioni.",
+          "visual_hint": "Grafico a barre polarizzato",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "bar chart polarized",
+          "image": "https://images.pexels.com/photos/5842061/pexels-photo-5842061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Anthropic rompe gli standard",
+          "description": "La posizione di Anthropic sulla coscienza di Claude rompe con le norme di sicurezza del settore AI.",
+          "visual_hint": "Documento normativo strappato",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "torn regulation paper",
+          "image": "https://images.pexels.com/photos/6632858/pexels-photo-6632858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Decidere prima del rilascio",
+          "description": "Ogni azienda deve scegliere se trattare l'AI come senziente, cambiando responsabilità legale e design.",
+          "visual_hint": "Mano su interruttore",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand flipping switch",
+          "image": "https://images.pexels.com/photos/4487675/pexels-photo-4487675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Giudica sui dati, non sull'istinto",
+          "description": "Senza prove non hai una posizione valida. Le affermazioni vanno valutate con dati, non emozioni.",
+          "visual_hint": "Lente d'ingrandimento su dati",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "magnifying glass data",
+          "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-06-10T02:38:07.696Z",
+      "sourceId": "8a5852c59879b06452b8e8384321b3a0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "gm-thinks-evs-can-help-offset-ai-s-energy-suck-wit",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+      "link": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+      "pubDate": "2026-06-09T21:00:00.000Z",
+      "slides": [
+        "GM thinks EVs can feed AI's hunger for energy.",
+        "AI's power demand already strains the grid.",
+        "Your parked EV battery could settle peak hours.",
+        "GM's pilot lets you sell power back tonight.",
+        "Will you charge your car or power a data center?"
+      ],
+      "thread_text": [
+        "Your parked EV battery could be earning money tonight while you sleep. GM just launched a pilot that lets you sell its power back to the grid during peak hours. The same energy AI desperately needs.",
+        "AI data centers are already straining the grid. Power demand is surging faster than new plants can come online. Something has to give — and utilities are running out of options.",
+        "GM’s bet: EVs aren’t just cars, they’re mobile batteries. Parked 23 hours a day, they store massive capacity. If even a fraction sells back at peak, it stabilizes the entire system.",
+        "The pilot starts tonight. You plug in, set a minimum charge for tomorrow’s commute, and the rest gets auctioned to the grid. You get paid. The data center stays lit. No extra hardware.",
+        "Will you charge your car or power a server farm? That choice is coming sooner than you think. And the economics already favor the grid."
+      ],
+      "video_script": [
+        "Your car battery can make money tonight.",
+        "AI needs insane amounts of power.",
+        "The grid is already struggling.",
+        "GM lets you sell power back.",
+        "You choose: drive or feed a data center."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Your parked EV battery could be earning money tonight while you sleep. GM just launched a pilot that lets you sell its power back to the grid during peak hours. The same energy AI desperately needs.",
+            "AI data centers are already straining the grid. Power demand is surging faster than new plants can come online. Something has to give — and utilities are running out of options.",
+            "GM’s bet: EVs aren’t just cars, they’re mobile batteries. Parked 23 hours a day, they store massive capacity. If even a fraction sells back at peak, it stabilizes the entire system.",
+            "The pilot starts tonight. You plug in, set a minimum charge for tomorrow’s commute, and the rest gets auctioned to the grid. You get paid. The data center stays lit. No extra hardware.",
+            "Will you charge your car or power a server farm? That choice is coming sooner than you think. And the economics already favor the grid."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your car battery can make money tonight.",
+            "AI needs insane amounts of power.",
+            "The grid is already struggling.",
+            "GM lets you sell power back.",
+            "You choose: drive or feed a data center."
+          ]
+        },
+        "instagram": {
+          "caption": "GM ha appena avviato un pilota che trasforma le batterie delle auto elettriche in riserva per i data center dell'AI. Durante i picchi di consumo, la corrente del tuo veicolo parcheggiato può essere venduta alla rete per tenere accesi i server. Il problema è concreto: i data center AI già mettono in crisi la rete, e costruire centrali è troppo lento. Tu la sera carichi l'auto, imposti la riserva per domani, e il resto viene messo all'asta. ⚡️ Prendi soldi. L'AI resta accesa. Nessun hardware extra. La scelta è se caricare la macchina o alimentare un server farm.🚗💸"
+        }
+      },
+      "instagram_caption": "GM ha appena avviato un pilota che trasforma le batterie delle auto elettriche in riserva per i data center dell'AI. Durante i picchi di consumo, la corrente del tuo veicolo parcheggiato può essere venduta alla rete per tenere accesi i server. Il problema è concreto: i data center AI già mettono in crisi la rete, e costruire centrali è troppo lento. Tu la sera carichi l'auto, imposti la riserva per domani, e il resto viene messo all'asta. ⚡️ Prendi soldi. L'AI resta accesa. Nessun hardware extra. La scelta è se caricare la macchina o alimentare un server farm.🚗💸",
+      "carousel_slides": [
+        {
+          "hook": "Your parked EV earns while you sleep.",
+          "description": "Your parked EV battery could earn money tonight while you sleep. GM lets you sell power back to the grid.",
+          "visual_hint": "EV plugged in at night",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "electric car charging night"
+        },
+        {
+          "hook": "AI's hunger strains the grid.",
+          "description": "AI data centers strain the grid. Power demand surges faster than new plants can come online. Utilities need options.",
+          "visual_hint": "Server racks glowing",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room datacenter",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "EVs are mobile batteries parked 23 hours daily.",
+          "description": "GM’s bet: EVs store massive capacity parked 23 hours a day. Selling back at peak stabilizes the entire system.",
+          "visual_hint": "Battery pack icon",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "electric car battery pack",
+          "image": "https://images.pexels.com/photos/37929911/pexels-photo-37929911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Plug in, set charge, sell the rest.",
+          "description": "You plug in, set a minimum charge for tomorrow. The rest gets auctioned to grid. You get paid. No extra hardware.",
+          "visual_hint": "Hand plugging in cable",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person plugging ev charger",
+          "image": "https://images.pexels.com/photos/35736780/pexels-photo-35736780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Will you charge your car or power a server farm?",
+          "description": "That choice is coming sooner than you think. The economics already favor the grid.",
+          "visual_hint": "EV vs data center split screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "ev car and datacenter",
+          "image": "https://images.pexels.com/photos/35736783/pexels-photo-35736783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/GM-Energy-home-energy-system-2.png?quality=90&amp;strip=all&amp;crop=0%2C10.756710586672%2C100%2C78.486578826656&amp;w=1200",
+      "savedAt": "2026-06-10T02:37:50.801Z",
+      "sourceId": "421eda7b681b3b3ad39aedebf6770505"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "hey-siri-here-s-what-i-actually-want-from-ai",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Hey, Siri, here’s what I actually want from AI",
+      "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "pubDate": "Tue, 09 Jun 2026 20:50:17 +0000",
+      "slides": [
+        "Siri sa cosa chiedo, ma non cosa voglio.",
+        "L'AI capisce le parole, non il significato dietro.",
+        "Il vero salto? Non più comandi, ma intenzioni.",
+        "Tu smetti di adattarti: parla come pensi.",
+        "Prova oggi: chiedi \"fai il mio lavoro\", non \"apri mail\"."
+      ],
+      "thread_text": [
+        "Il vero salto non è insegnare all'AI a capire le parole. È insegnarle a capire cosa vogliamo davvero.",
+        "Oggi dici 'apri mail' e lei apre la posta. Ma tu volevi scrivere una risposta. L'AI prende tutto alla lettera.",
+        "Per anni ci siamo adattati noi ai comandi. Ora tocca a lei capire le intenzioni. E funziona già.",
+        "Non devi più pensare a come dirlo. Parla come pensi e lei fa il resto. Letteralmente.",
+        "Prova oggi: invece di 'apri mail', dille 'fai il mio lavoro'. Costa meno di un abbonamento Netflix."
+      ],
+      "video_script": [
+        "L'AI sente le parole, ma non il senso.",
+        "Tu dici 'apri mail' e lei apre.",
+        "Ma tu volevi rispondere a quella mail.",
+        "Il salto è fargli capire l'intenzione.",
+        "Parla come pensi. Lei esegue da sola."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Il vero salto non è insegnare all'AI a capire le parole. È insegnarle a capire cosa vogliamo davvero.",
+            "Oggi dici 'apri mail' e lei apre la posta. Ma tu volevi scrivere una risposta. L'AI prende tutto alla lettera.",
+            "Per anni ci siamo adattati noi ai comandi. Ora tocca a lei capire le intenzioni. E funziona già.",
+            "Non devi più pensare a come dirlo. Parla come pensi e lei fa il resto. Letteralmente.",
+            "Prova oggi: invece di 'apri mail', dille 'fai il mio lavoro'. Costa meno di un abbonamento Netflix."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "L'AI sente le parole, ma non il senso.",
+            "Tu dici 'apri mail' e lei apre.",
+            "Ma tu volevi rispondere a quella mail.",
+            "Il salto è fargli capire l'intenzione.",
+            "Parla come pensi. Lei esegue da sola."
+          ]
+        },
+        "instagram": {
+          "caption": "Siri sa cosa chiedi, ma non cosa vuoi. Se le dici “apri mail”, apre la posta — anche se tu volevi rispondere a quella di ieri. Per anni ci siamo adattati noi ai comandi, ora l’AI impara a leggere le intenzioni, non solo le parole. Il salto è questo: tu parli come pensi, lei fa il resto. Oggi puoi dirle “fai il mio lavoro” invece di inanellare ordini. Quanto tempo perdi a riformulare richieste? 🧠✉️🤖"
+        }
+      },
+      "instagram_caption": "Siri sa cosa chiedi, ma non cosa vuoi. Se le dici “apri mail”, apre la posta — anche se tu volevi rispondere a quella di ieri. Per anni ci siamo adattati noi ai comandi, ora l’AI impara a leggere le intenzioni, non solo le parole. Il salto è questo: tu parli come pensi, lei fa il resto. Oggi puoi dirle “fai il mio lavoro” invece di inanellare ordini. Quanto tempo perdi a riformulare richieste? 🧠✉️🤖",
+      "carousel_slides": [
+        {
+          "hook": "Non capisce cosa vuoi",
+          "description": "Il vero salto è insegnare all'AI a capire cosa vogliamo davvero, non le parole giuste.",
+          "visual_hint": "mani che parlano confuse",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "confused person hands"
+        },
+        {
+          "hook": "Parole senza significato",
+          "description": "Oggi dici 'apri mail' e lei apre la posta. Ma tu volevi scrivere una risposta.",
+          "visual_hint": "email aperta icona",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "open email icon",
+          "image": "https://images.pexels.com/photos/29359827/pexels-photo-29359827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Da comandi a intenzioni",
+          "description": "Per anni ci siamo adattati noi ai comandi. Ora tocca a lei capire le intenzioni.",
+          "visual_hint": "freccia da ordine a cuore",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "arrow transformation",
+          "image": "https://images.pexels.com/photos/34610755/pexels-photo-34610755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Parla come pensi",
+          "description": "Non devi più pensare a come dirlo. Parla come pensi e lei fa il resto.",
+          "visual_hint": "testa nuvole pensiero",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "thought bubble head",
+          "image": "https://images.pexels.com/photos/8015689/pexels-photo-8015689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prova: 'fai il mio lavoro'",
+          "description": "Invece di 'apri mail', dille 'fai il mio lavoro'. Costa meno di Netflix.",
+          "visual_hint": "mano clicca confronto",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "compare two options",
+          "image": "https://images.pexels.com/photos/4631064/pexels-photo-4631064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1139080118.jpg?resize=1200,801",
+      "savedAt": "2026-06-10T02:37:34.840Z",
+      "sourceId": "41d61a583cc52d19b7b9c60525fe8ed3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-just-fired-a-warning-shot-in-the-ai-subscri",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google just fired a warning shot in the AI subscription price wars",
+      "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "pubDate": "Wed, 10 Jun 2026 00:26:10 +0000",
+      "slides": [
+        "Google punta a 19 dollari, ma per chi?",
+        "Il prezzo sfida direttamente OpenAI e Microsoft.",
+        "Il taglio nasconde costi nascosti per le aziende.",
+        "Se usi AI, il tuo budget cambia già ora.",
+        "Confronta i piani prima di rinnovare l'abbonamento."
+      ],
+      "thread_text": [
+        "Google annuncia un abbonamento AI a 19 dollari. Ma il prezzo nasconde costi aggiuntivi per le aziende che non compaiono in nessuna brochure.",
+        "Il taglio non è un regalo. È una mossa per rubare clienti a OpenAI e Microsoft, ma ogni funzionalità extra ha un costo separato.",
+        "Se integri AI nei tuoi processi, il budget cambia subito: devi pagare per chiamate API, storage e supporto prioritario. Non solo l'abbonamento.",
+        "Le aziende che rinnovano oggi senza confrontare i piani rischiano di spendere il doppio tra tre mesi.",
+        "Confronta i costi totali prima di firmare. Un test su un singolo progetto ti farà vedere la differenza. Fallo questa settimana."
+      ],
+      "video_script": [
+        "Hanno messo 19 dollari sul tavolo.",
+        "Sembra un affare, ma nasconde costi.",
+        "OpenAI e Microsoft lo sanno bene.",
+        "Le aziende pagano extra per ogni funzione.",
+        "Il budget AI cambia subito.",
+        "Non rinnovare senza aver confrontato.",
+        "Controlla i costi nascosti prima.",
+        "Un test ti salva da brutte sorprese."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Google annuncia un abbonamento AI a 19 dollari. Ma il prezzo nasconde costi aggiuntivi per le aziende che non compaiono in nessuna brochure.",
+            "Il taglio non è un regalo. È una mossa per rubare clienti a OpenAI e Microsoft, ma ogni funzionalità extra ha un costo separato.",
+            "Se integri AI nei tuoi processi, il budget cambia subito: devi pagare per chiamate API, storage e supporto prioritario. Non solo l'abbonamento.",
+            "Le aziende che rinnovano oggi senza confrontare i piani rischiano di spendere il doppio tra tre mesi.",
+            "Confronta i costi totali prima di firmare. Un test su un singolo progetto ti farà vedere la differenza. Fallo questa settimana."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hanno messo 19 dollari sul tavolo.",
+            "Sembra un affare, ma nasconde costi.",
+            "OpenAI e Microsoft lo sanno bene.",
+            "Le aziende pagano extra per ogni funzione.",
+            "Il budget AI cambia subito.",
+            "Non rinnovare senza aver confrontato.",
+            "Controlla i costi nascosti prima.",
+            "Un test ti salva da brutte sorprese."
+          ]
+        },
+        "instagram": {
+          "caption": "Google ha appena messo sul tavolo un abbonamento AI a 19 dollari, ma attenzione: non è tutto incluso. Il prezzo sfida direttamente OpenAI e Microsoft, però ogni funzionalità extra come API, storage o supporto prioritario ha un costo separato. Per chi usa AI al lavoro, significa che il budget mensile potrebbe raddoppiare in pochi mesi. Se stai per rinnovare un abbonamento aziendale, confronta i piani su un singolo progetto prima di firmare. Quanto costa davvero il tuo strumento AI senza le voci nascoste? 🤖💰🔍"
+        }
+      },
+      "instagram_caption": "Google ha appena messo sul tavolo un abbonamento AI a 19 dollari, ma attenzione: non è tutto incluso. Il prezzo sfida direttamente OpenAI e Microsoft, però ogni funzionalità extra come API, storage o supporto prioritario ha un costo separato. Per chi usa AI al lavoro, significa che il budget mensile potrebbe raddoppiare in pochi mesi. Se stai per rinnovare un abbonamento aziendale, confronta i piani su un singolo progetto prima di firmare. Quanto costa davvero il tuo strumento AI senza le voci nascoste? 🤖💰🔍",
+      "carousel_slides": [
+        {
+          "hook": "Quanto costa davvero?",
+          "description": "Il prezzo nasconde costi aggiuntivi per le aziende che non compaiono in nessuna brochure.",
+          "visual_hint": "Costo nascosto nel prezzo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "price tag hidden"
+        },
+        {
+          "hook": "Mossa per rubare clienti",
+          "description": "Non è un regalo. Sfida OpenAI e Microsoft, ma ogni funzionalità extra ha un costo separato.",
+          "visual_hint": "Guerra prezzi AI",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "AI company logos",
+          "image": "https://images.pexels.com/photos/9683980/pexels-photo-9683980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costi nascosti per API",
+          "description": "Devi pagare per chiamate API, storage e supporto prioritario. Non solo l'abbonamento.",
+          "visual_hint": "API costi extra",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Budget cambia subito",
+          "description": "Se integri AI, il budget cambia già ora. Rinnovare senza confrontare rischia di far spendere il doppio.",
+          "visual_hint": "Budget in aumento",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Confronta prima di firmare",
+          "description": "Confronta i costi totali. Un test su un singolo progetto vedrai la differenza. Fallo questa settimana.",
+          "visual_hint": "Confronto abbonamenti",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "comparison chart",
+          "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+      "savedAt": "2026-06-10T02:37:19.789Z",
+      "sourceId": "f5f16b778aa511b12529d9bb647b0a71"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "railway-secures-100-million-to-challenge-aws-with-",
       "prompt_version": "1.0.0",
       "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hey-siri-here-s-what-i-actually-want-from-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Hey, Siri, here’s what I actually want from AI",
+  "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+  "pubDate": "Tue, 09 Jun 2026 20:50:17 +0000",
+  "slides": [
+    "Siri sa cosa chiedo, ma non cosa voglio.",
+    "L'AI capisce le parole, non il significato dietro.",
+    "Il vero salto? Non più comandi, ma intenzioni.",
+    "Tu smetti di adattarti: parla come pensi.",
+    "Prova oggi: chiedi \"fai il mio lavoro\", non \"apri mail\"."
+  ],
+  "thread_text": [
+    "Il vero salto non è insegnare all'AI a capire le parole. È insegnarle a capire cosa vogliamo davvero.",
+    "Oggi dici 'apri mail' e lei apre la posta. Ma tu volevi scrivere una risposta. L'AI prende tutto alla lettera.",
+    "Per anni ci siamo adattati noi ai comandi. Ora tocca a lei capire le intenzioni. E funziona già.",
+    "Non devi più pensare a come dirlo. Parla come pensi e lei fa il resto. Letteralmente.",
+    "Prova oggi: invece di 'apri mail', dille 'fai il mio lavoro'. Costa meno di un abbonamento Netflix."
+  ],
+  "video_script": [
+    "L'AI sente le parole, ma non il senso.",
+    "Tu dici 'apri mail' e lei apre.",
+    "Ma tu volevi rispondere a quella mail.",
+    "Il salto è fargli capire l'intenzione.",
+    "Parla come pensi. Lei esegue da sola."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il vero salto non è insegnare all'AI a capire le parole. È insegnarle a capire cosa vogliamo davvero.",
+        "Oggi dici 'apri mail' e lei apre la posta. Ma tu volevi scrivere una risposta. L'AI prende tutto alla lettera.",
+        "Per anni ci siamo adattati noi ai comandi. Ora tocca a lei capire le intenzioni. E funziona già.",
+        "Non devi più pensare a come dirlo. Parla come pensi e lei fa il resto. Letteralmente.",
+        "Prova oggi: invece di 'apri mail', dille 'fai il mio lavoro'. Costa meno di un abbonamento Netflix."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "L'AI sente le parole, ma non il senso.",
+        "Tu dici 'apri mail' e lei apre.",
+        "Ma tu volevi rispondere a quella mail.",
+        "Il salto è fargli capire l'intenzione.",
+        "Parla come pensi. Lei esegue da sola."
+      ]
+    },
+    "instagram": {
+      "caption": "Siri sa cosa chiedi, ma non cosa vuoi. Se le dici “apri mail”, apre la posta — anche se tu volevi rispondere a quella di ieri. Per anni ci siamo adattati noi ai comandi, ora l’AI impara a leggere le intenzioni, non solo le parole. Il salto è questo: tu parli come pensi, lei fa il resto. Oggi puoi dirle “fai il mio lavoro” invece di inanellare ordini. Quanto tempo perdi a riformulare richieste? 🧠✉️🤖"
+    }
+  },
+  "instagram_caption": "Siri sa cosa chiedi, ma non cosa vuoi. Se le dici “apri mail”, apre la posta — anche se tu volevi rispondere a quella di ieri. Per anni ci siamo adattati noi ai comandi, ora l’AI impara a leggere le intenzioni, non solo le parole. Il salto è questo: tu parli come pensi, lei fa il resto. Oggi puoi dirle “fai il mio lavoro” invece di inanellare ordini. Quanto tempo perdi a riformulare richieste? 🧠✉️🤖",
+  "carousel_slides": [
+    {
+      "hook": "Non capisce cosa vuoi",
+      "description": "Il vero salto è insegnare all'AI a capire cosa vogliamo davvero, non le parole giuste.",
+      "visual_hint": "mani che parlano confuse",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "confused person hands"
+    },
+    {
+      "hook": "Parole senza significato",
+      "description": "Oggi dici 'apri mail' e lei apre la posta. Ma tu volevi scrivere una risposta.",
+      "visual_hint": "email aperta icona",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "open email icon",
+      "image": "https://images.pexels.com/photos/29359827/pexels-photo-29359827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Da comandi a intenzioni",
+      "description": "Per anni ci siamo adattati noi ai comandi. Ora tocca a lei capire le intenzioni.",
+      "visual_hint": "freccia da ordine a cuore",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "arrow transformation",
+      "image": "https://images.pexels.com/photos/34610755/pexels-photo-34610755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Parla come pensi",
+      "description": "Non devi più pensare a come dirlo. Parla come pensi e lei fa il resto.",
+      "visual_hint": "testa nuvole pensiero",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "thought bubble head",
+      "image": "https://images.pexels.com/photos/8015689/pexels-photo-8015689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova: 'fai il mio lavoro'",
+      "description": "Invece di 'apri mail', dille 'fai il mio lavoro'. Costa meno di Netflix.",
+      "visual_hint": "mano clicca confronto",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "compare two options",
+      "image": "https://images.pexels.com/photos/4631064/pexels-photo-4631064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1139080118.jpg?resize=1200,801",
+  "savedAt": "2026-06-10T02:37:34.840Z",
+  "sourceId": "41d61a583cc52d19b7b9c60525fe8ed3"
+}
