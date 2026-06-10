@@ -5,7 +5,7 @@ window.AGENTS = {
       "agent": "ai-news",
       "slug": "nous-research-s-nouscoder-14b-is-an-open-source-co",
       "prompt_version": "1.0.0",
-      "status": "published",
+      "status": "approved",
       "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
       "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
       "pubDate": "Wed, 07 Jan 2026 20:00:00 GMT",
