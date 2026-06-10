@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-future-of-ai-regulation-is-courting-the-strang",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+  "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+  "pubDate": "2026-06-10T17:38:00.000Z",
+  "slides": [
+    "Trump and Harris both want to tame AI?",
+    "Silicon Valley lobbies both sides heavily.",
+    "The EU's AI Act is now the global template.",
+    "Your compliance team just got a new must-read.",
+    "Call your lawyer before your next model update."
+  ],
+  "thread_text": [
+    "La Casa Bianca vuole regolamentare l'IA. Entrambi i candidati, Trump e Harris, hanno piani simili per limitare i modelli più potenti. Il consenso bipartitico è più forte di quanto sembri.",
+    "Silicon Valley spende milioni in lobbying su entrambi i fronti, ma stavolta le aziende non hanno ottenuto ciò che volevano. Le norme stanno arrivando comunque.",
+    "L'UE ha già approvato l'AI Act, che diventa il modello globale. Se operi in Europa o vendi a europei, sei già coperto. Le multe partono da 35 milioni.",
+    "I tuoi compliance team ora devono studiare quel testo come un manuale. Non è più un consiglio, è una lista di cose da non fare. Ogni aggiornamento del modello può essere un rischio legale.",
+    "Prima di rilasciare la prossima versione del tuo LLM, chiama un avvocato. Un test sbagliato su un dataset protetto può costarti l'intero trimestre."
+  ],
+  "video_script": [
+    "Trump e Harris vogliono tutti e due regole per l'IA.",
+    "La Silicon Valley cerca di frenarle con i soldi.",
+    "Ma l'Europa ha già deciso per tutti.",
+    "Il tuo team legale deve leggere l'AI Act.",
+    "Chiama l'avvocato prima di aggiornare il modello."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "La Casa Bianca vuole regolamentare l'IA. Entrambi i candidati, Trump e Harris, hanno piani simili per limitare i modelli più potenti. Il consenso bipartitico è più forte di quanto sembri.",
+        "Silicon Valley spende milioni in lobbying su entrambi i fronti, ma stavolta le aziende non hanno ottenuto ciò che volevano. Le norme stanno arrivando comunque.",
+        "L'UE ha già approvato l'AI Act, che diventa il modello globale. Se operi in Europa o vendi a europei, sei già coperto. Le multe partono da 35 milioni.",
+        "I tuoi compliance team ora devono studiare quel testo come un manuale. Non è più un consiglio, è una lista di cose da non fare. Ogni aggiornamento del modello può essere un rischio legale.",
+        "Prima di rilasciare la prossima versione del tuo LLM, chiama un avvocato. Un test sbagliato su un dataset protetto può costarti l'intero trimestre."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Trump e Harris vogliono tutti e due regole per l'IA.",
+        "La Silicon Valley cerca di frenarle con i soldi.",
+        "Ma l'Europa ha già deciso per tutti.",
+        "Il tuo team legale deve leggere l'AI Act.",
+        "Chiama l'avvocato prima di aggiornare il modello."
+      ]
+    },
+    "instagram": {
+      "caption": "Sia Trump che Harris vogliono mettere un guinzaglio all’intelligenza artificiale, e il consenso a Washington è più forte di quanto sembri. 🏛️ La Silicon Valley ha speso milioni per fare pressione su entrambi i fronti, ma questa volta le aziende non hanno ottenuto quello che volevano: le regole arrivano comunque. L’Unione Europea ha già il suo AI Act, che diventa il modello globale con multe fino a 35 milioni di euro. 💸 Per chi lavora con modelli di IA, ogni aggiornamento è ora un potenziale rischio legale: chiama un avvocato prima del prossimo rilascio. ⚖️ Il tuo team di compliance ha un nuovo manuale da studiare? 📘"
+    }
+  },
+  "instagram_caption": "Sia Trump che Harris vogliono mettere un guinzaglio all’intelligenza artificiale, e il consenso a Washington è più forte di quanto sembri. 🏛️ La Silicon Valley ha speso milioni per fare pressione su entrambi i fronti, ma questa volta le aziende non hanno ottenuto quello che volevano: le regole arrivano comunque. L’Unione Europea ha già il suo AI Act, che diventa il modello globale con multe fino a 35 milioni di euro. 💸 Per chi lavora con modelli di IA, ogni aggiornamento è ora un potenziale rischio legale: chiama un avvocato prima del prossimo rilascio. ⚖️ Il tuo team di compliance ha un nuovo manuale da studiare? 📘",
+  "carousel_slides": [
+    {
+      "hook": "Bipartisan AI clampdown incoming",
+      "description": "Trump and Harris both plan to limit powerful AI models. Bipartisan consensus is stronger than it seems.",
+      "visual_hint": "Split screen politicians",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "White House exterior"
+    },
+    {
+      "hook": "Lobbying billions, losing fight",
+      "description": "Silicon Valley spent millions on both sides but couldn't stop regulation. Norms are coming anyway.",
+      "visual_hint": "Money stacks and servers",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "fiber optic cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "EU's AI Act is template",
+      "description": "The EU AI Act is now the global model. If you operate in Europe, fines start at 35 million.",
+      "visual_hint": "Flag and robot gavel",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot hand shake",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Compliance teams must read",
+      "description": "Your compliance team now treats the AI Act as a manual. Every model update is a legal risk.",
+      "visual_hint": "Highlighted legal document",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office desk documents",
+      "image": "https://images.pexels.com/photos/8297536/pexels-photo-8297536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Call lawyer before update",
+      "description": "Before releasing your next LLM version, call a lawyer. A wrong test on protected data costs a quarter.",
+      "visual_hint": "Phone and keyboard closeup",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.729057198914%2C100%2C78.541885602173&amp;w=1200",
+  "savedAt": "2026-06-10T23:20:12.838Z",
+  "sourceId": "4a554e6b3bf94e90fb24568718a826e9"
+}

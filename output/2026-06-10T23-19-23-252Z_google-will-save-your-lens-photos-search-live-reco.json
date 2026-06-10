@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-will-save-your-lens-photos-search-live-reco",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+  "link": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+  "pubDate": "2026-06-10T16:18:45.000Z",
+  "slides": [
+    "Google salverà tue foto Lens per addestrare AI?",
+    "Registrazioni vocali di Ricerca finiscono nei dati",
+    "Nemmeno le traduzioni audio sono esenti",
+    "Cosa cancellare subito dalle impostazioni",
+    "Controlla ora: il tuo consenso è già attivo?"
+  ],
+  "thread_text": [
+    "Google sta usando le tue foto di Lens per addestrare la sua AI. Non te l'ha mai detto chiaramente.",
+    "Le registrazioni vocali delle tue Ricoche? Anche quelle finiscono nei dati di training. Nessuna richiesta esplicita.",
+    "Nemmeno le traduzioni audio sono al sicuro: ogni parola che pronunci può diventare materiale per il modello.",
+    "C'è una sola impostazione da toccare per fermare tutto. Ecco cosa eliminare subito dal tuo account.",
+    "Apri le impostazioni Google, vai su Dati e personalizzazione, disattiva Attività web e app. Fatto? Ora la tua privacy è protetta."
+  ],
+  "video_script": [
+    "Google usa le tue foto per addestrare l'AI.",
+    "Anche le registrazioni vocali vanno nel database.",
+    "Le traduzioni audio non sono escluse.",
+    "Devi cancellare subito queste impostazioni.",
+    "Controlla ora se il tuo consenso è attivo."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Google sta usando le tue foto di Lens per addestrare la sua AI. Non te l'ha mai detto chiaramente.",
+        "Le registrazioni vocali delle tue Ricoche? Anche quelle finiscono nei dati di training. Nessuna richiesta esplicita.",
+        "Nemmeno le traduzioni audio sono al sicuro: ogni parola che pronunci può diventare materiale per il modello.",
+        "C'è una sola impostazione da toccare per fermare tutto. Ecco cosa eliminare subito dal tuo account.",
+        "Apri le impostazioni Google, vai su Dati e personalizzazione, disattiva Attività web e app. Fatto? Ora la tua privacy è protetta."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google usa le tue foto per addestrare l'AI.",
+        "Anche le registrazioni vocali vanno nel database.",
+        "Le traduzioni audio non sono escluse.",
+        "Devi cancellare subito queste impostazioni.",
+        "Controlla ora se il tuo consenso è attivo."
+      ]
+    },
+    "instagram": {
+      "caption": "Google memorizza ogni foto che inquadri con Lens, ogni registrazione vocale di Ricerca e ogni traduzione audio per addestrare la sua AI 🤖. Nessun messaggio chiaro, nessuna richiesta esplicita: i tuoi dati diventano automaticamente materiale di training 🗂️. Se usi Google per lavoro o per tradurre conversazioni quotidiane, sappi che ogni parola e scatto finisce nei server 📸. Basta un'impostazione per fermare tutto: vai su *Dati e personalizzazione*, spegni *Attività web e app*. Fatto. Hai già controllato il tuo consenso?"
+    }
+  },
+  "instagram_caption": "Google memorizza ogni foto che inquadri con Lens, ogni registrazione vocale di Ricerca e ogni traduzione audio per addestrare la sua AI 🤖. Nessun messaggio chiaro, nessuna richiesta esplicita: i tuoi dati diventano automaticamente materiale di training 🗂️. Se usi Google per lavoro o per tradurre conversazioni quotidiane, sappi che ogni parola e scatto finisce nei server 📸. Basta un'impostazione per fermare tutto: vai su *Dati e personalizzazione*, spegni *Attività web e app*. Fatto. Hai già controllato il tuo consenso?",
+  "carousel_slides": [
+    {
+      "hook": "Nemmeno le traduzioni audio sono al sicuro",
+      "description": "Ogni parola che pronunci può diventare materiale per il modello AI di Google.",
+      "visual_hint": "Microfono con onde sonore",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "microphone sound waves"
+    },
+    {
+      "hook": "Google salverà tue foto Lens?",
+      "description": "Google usa le tue foto di Lens per addestrare la sua AI senza dirtelo chiaramente.",
+      "visual_hint": "Icona fotocamera e dati",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "smartphone camera lens",
+      "image": "https://images.pexels.com/photos/16390361/pexels-photo-16390361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Anche le registrazioni vocali finiscono nei dati",
+      "description": "Le tue Ricerche vocali? Finiscono nei dati di training senza una richiesta esplicita di consenso.",
+      "visual_hint": "Registratore e note",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "voice recorder device",
+      "image": "https://images.pexels.com/photos/11229840/pexels-photo-11229840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Un'impostazione ferma tutto",
+      "description": "C'è una sola impostazione da toccare: disattiva Attività web e app nelle impostazioni Google.",
+      "visual_hint": "Mano che tocca schermo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching smartphone",
+      "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il tuo consenso è già attivo?",
+      "description": "Apri impostazioni Google, vai su Dati e personalizzazione, disattiva Attività web e app. Fatto? Ora sei protetto.",
+      "visual_hint": "Checklist con spunta verde",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "green checkmark icon",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-10T23:20:48.460Z",
+  "sourceId": "237147d6cc59ddebc4f6884896520d50"
+}

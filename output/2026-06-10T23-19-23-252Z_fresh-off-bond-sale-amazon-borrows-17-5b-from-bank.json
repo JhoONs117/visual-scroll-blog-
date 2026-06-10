@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "fresh-off-bond-sale-amazon-borrows-17-5b-from-bank",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+  "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+  "pubDate": "Wed, 10 Jun 2026 20:19:31 +0000",
+  "slides": [
+    "Amazon vende bond, poi chiede altri $17.5 miliardi. Perché?",
+    "I $17.5 miliardi sono un prestito bancario separato.",
+    "Il debito cresce mentre l'AI assorbe capitale illimitato.",
+    "Se sei investitore, i margini potrebbero restringersi.",
+    "Controlla il rapporto debito/EBITDA prima del Q3."
+  ],
+  "thread_text": [
+    "Il debito di Amazon cresce mentre l'AI assorbe capitale illimitato. La domanda non è se sia sostenibile, ma quando il mercato smetterà di ignorarlo.",
+    "Ieri Amazon ha emesso bond. Oggi ha chiesto altri 17.5 miliardi in prestito bancario. Due movimenti separati, stesso messaggio: l'espansione AI costa più del previsto.",
+    "Ogni dollaro speso in infrastrutture AI oggi viene preso a prestito. I margini operativi si comprimono perché il capex corre più veloce del revenue.",
+    "Per un investitore il problema non è il debito in sé, ma la velocità con cui cresce. Se l'EBITDA non tiene il passo, il rapporto debito/EBITDA sale e i multipli cadono.",
+    "Controlla quel rapporto sui dati di Q3. Se supera la media storica del settore, il mercato potrebbe iniziare a prezzare il rischio diversamente."
+  ],
+  "video_script": [
+    "Il debito di Amazon sale con l'AI.",
+    "Prima i bond, poi 17 miliardi di prestito.",
+    "L'AI costa più del previsto.",
+    "I margini si restringono per gli investitori.",
+    "Controlla il rapporto debito su EBITDA a Q3."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il debito di Amazon cresce mentre l'AI assorbe capitale illimitato. La domanda non è se sia sostenibile, ma quando il mercato smetterà di ignorarlo.",
+        "Ieri Amazon ha emesso bond. Oggi ha chiesto altri 17.5 miliardi in prestito bancario. Due movimenti separati, stesso messaggio: l'espansione AI costa più del previsto.",
+        "Ogni dollaro speso in infrastrutture AI oggi viene preso a prestito. I margini operativi si comprimono perché il capex corre più veloce del revenue.",
+        "Per un investitore il problema non è il debito in sé, ma la velocità con cui cresce. Se l'EBITDA non tiene il passo, il rapporto debito/EBITDA sale e i multipli cadono.",
+        "Controlla quel rapporto sui dati di Q3. Se supera la media storica del settore, il mercato potrebbe iniziare a prezzare il rischio diversamente."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Il debito di Amazon sale con l'AI.",
+        "Prima i bond, poi 17 miliardi di prestito.",
+        "L'AI costa più del previsto.",
+        "I margini si restringono per gli investitori.",
+        "Controlla il rapporto debito su EBITDA a Q3."
+      ]
+    },
+    "instagram": {
+      "caption": "Amazon ha appena chiuso un'emissione obbligazionaria e subito dopo ha chiesto altre banche: 17,5 miliardi di dollari in prestito. Due colpi separati, uno scopo solo: pagare l'espansione AI, che costa più del previsto. 📈💰 Ogni dollaro speso in data center oggi è preso a prestito, e i margini si comprimono perché le uscite corrono più veloci delle entrate. Per te che usi servizi Amazon o ci lavori, questo significa che il costo dell'AI potrebbe presto riflettersi su prezzi o investimenti più cauti. Controlla il rapporto debito/EBITDA a Q3: se sale sopra la media storica del settore, il mercato cambierà giudizio sul rischio. ⚖️💡"
+    }
+  },
+  "instagram_caption": "Amazon ha appena chiuso un'emissione obbligazionaria e subito dopo ha chiesto altre banche: 17,5 miliardi di dollari in prestito. Due colpi separati, uno scopo solo: pagare l'espansione AI, che costa più del previsto. 📈💰 Ogni dollaro speso in data center oggi è preso a prestito, e i margini si comprimono perché le uscite corrono più veloci delle entrate. Per te che usi servizi Amazon o ci lavori, questo significa che il costo dell'AI potrebbe presto riflettersi su prezzi o investimenti più cauti. Controlla il rapporto debito/EBITDA a Q3: se sale sopra la media storica del settore, il mercato cambierà giudizio sul rischio. ⚖️💡",
+  "carousel_slides": [
+    {
+      "hook": "AI costa più del previsto",
+      "description": "Il debito cresce mentre l'AI assorbe capitale illimitato. Quando il mercato smetterà di ignorarlo?",
+      "visual_hint": "fiamma che sale su debito",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data center servers"
+    },
+    {
+      "hook": "Due prestiti separati, stesso segnale",
+      "description": "Dopo i bond, Amazon ha chiesto altri $17.5 miliardi. L'espansione AI costa più del previsto.",
+      "visual_hint": "due frecce finanziarie divergenti",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "bank building exterior",
+      "image": "https://images.pexels.com/photos/38040784/pexels-photo-38040784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Margini sotto pressione",
+      "description": "Ogni dollaro in AI è preso a prestito. Il capex corre più veloce del revenue, comprimendo i margini.",
+      "visual_hint": "grafico margine che si restringe",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "financial chart line",
+      "image": "https://images.pexels.com/photos/7948045/pexels-photo-7948045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Velocità del debito insostenibile",
+      "description": "Il problema non è il debito ma la sua velocità. Se l'EBITDA non tiene il passo, i multipli cadono.",
+      "visual_hint": "mano che stringe un elastico",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/12662877/pexels-photo-12662877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controlla il rapporto debito/EBITDA",
+      "description": "Se supera la media storica, il mercato potrebbe prezzare il rischio diversamente. Aspetta i dati Q3.",
+      "visual_hint": "calcolatrice con rapporto evidenziato",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market ticker",
+      "image": "https://images.pexels.com/photos/35118242/pexels-photo-35118242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024",
+  "savedAt": "2026-06-10T23:19:56.661Z",
+  "sourceId": "6bbed14085f20904db4bf800dd7568c8"
+}

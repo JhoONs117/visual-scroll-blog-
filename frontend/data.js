@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "google-will-save-your-lens-photos-search-live-reco",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+    "link": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+    "pubDate": "2026-06-10T16:18:45.000Z",
+    "slides": [
+      "Google salverà tue foto Lens per addestrare AI?",
+      "Registrazioni vocali di Ricerca finiscono nei dati",
+      "Nemmeno le traduzioni audio sono esenti",
+      "Cosa cancellare subito dalle impostazioni",
+      "Controlla ora: il tuo consenso è già attivo?"
+    ],
+    "thread_text": [
+      "Google sta usando le tue foto di Lens per addestrare la sua AI. Non te l'ha mai detto chiaramente.",
+      "Le registrazioni vocali delle tue Ricoche? Anche quelle finiscono nei dati di training. Nessuna richiesta esplicita.",
+      "Nemmeno le traduzioni audio sono al sicuro: ogni parola che pronunci può diventare materiale per il modello.",
+      "C'è una sola impostazione da toccare per fermare tutto. Ecco cosa eliminare subito dal tuo account.",
+      "Apri le impostazioni Google, vai su Dati e personalizzazione, disattiva Attività web e app. Fatto? Ora la tua privacy è protetta."
+    ],
+    "video_script": [
+      "Google usa le tue foto per addestrare l'AI.",
+      "Anche le registrazioni vocali vanno nel database.",
+      "Le traduzioni audio non sono escluse.",
+      "Devi cancellare subito queste impostazioni.",
+      "Controlla ora se il tuo consenso è attivo."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Google sta usando le tue foto di Lens per addestrare la sua AI. Non te l'ha mai detto chiaramente.",
+          "Le registrazioni vocali delle tue Ricoche? Anche quelle finiscono nei dati di training. Nessuna richiesta esplicita.",
+          "Nemmeno le traduzioni audio sono al sicuro: ogni parola che pronunci può diventare materiale per il modello.",
+          "C'è una sola impostazione da toccare per fermare tutto. Ecco cosa eliminare subito dal tuo account.",
+          "Apri le impostazioni Google, vai su Dati e personalizzazione, disattiva Attività web e app. Fatto? Ora la tua privacy è protetta."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google usa le tue foto per addestrare l'AI.",
+          "Anche le registrazioni vocali vanno nel database.",
+          "Le traduzioni audio non sono escluse.",
+          "Devi cancellare subito queste impostazioni.",
+          "Controlla ora se il tuo consenso è attivo."
+        ]
+      },
+      "instagram": {
+        "caption": "Google memorizza ogni foto che inquadri con Lens, ogni registrazione vocale di Ricerca e ogni traduzione audio per addestrare la sua AI 🤖. Nessun messaggio chiaro, nessuna richiesta esplicita: i tuoi dati diventano automaticamente materiale di training 🗂️. Se usi Google per lavoro o per tradurre conversazioni quotidiane, sappi che ogni parola e scatto finisce nei server 📸. Basta un'impostazione per fermare tutto: vai su *Dati e personalizzazione*, spegni *Attività web e app*. Fatto. Hai già controllato il tuo consenso?"
+      }
+    },
+    "instagram_caption": "Google memorizza ogni foto che inquadri con Lens, ogni registrazione vocale di Ricerca e ogni traduzione audio per addestrare la sua AI 🤖. Nessun messaggio chiaro, nessuna richiesta esplicita: i tuoi dati diventano automaticamente materiale di training 🗂️. Se usi Google per lavoro o per tradurre conversazioni quotidiane, sappi che ogni parola e scatto finisce nei server 📸. Basta un'impostazione per fermare tutto: vai su *Dati e personalizzazione*, spegni *Attività web e app*. Fatto. Hai già controllato il tuo consenso?",
+    "carousel_slides": [
+      {
+        "hook": "Nemmeno le traduzioni audio sono al sicuro",
+        "description": "Ogni parola che pronunci può diventare materiale per il modello AI di Google.",
+        "visual_hint": "Microfono con onde sonore",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "microphone sound waves"
+      },
+      {
+        "hook": "Google salverà tue foto Lens?",
+        "description": "Google usa le tue foto di Lens per addestrare la sua AI senza dirtelo chiaramente.",
+        "visual_hint": "Icona fotocamera e dati",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "smartphone camera lens",
+        "image": "https://images.pexels.com/photos/16390361/pexels-photo-16390361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Anche le registrazioni vocali finiscono nei dati",
+        "description": "Le tue Ricerche vocali? Finiscono nei dati di training senza una richiesta esplicita di consenso.",
+        "visual_hint": "Registratore e note",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "voice recorder device",
+        "image": "https://images.pexels.com/photos/11229840/pexels-photo-11229840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Un'impostazione ferma tutto",
+        "description": "C'è una sola impostazione da toccare: disattiva Attività web e app nelle impostazioni Google.",
+        "visual_hint": "Mano che tocca schermo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand touching smartphone",
+        "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tuo consenso è già attivo?",
+        "description": "Apri impostazioni Google, vai su Dati e personalizzazione, disattiva Attività web e app. Fatto? Ora sei protetto.",
+        "visual_hint": "Checklist con spunta verde",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "green checkmark icon",
+        "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-10T23:20:48.460Z",
+    "sourceId": "237147d6cc59ddebc4f6884896520d50"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "the-future-of-ai-regulation-is-courting-the-strang",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+    "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+    "pubDate": "2026-06-10T17:38:00.000Z",
+    "slides": [
+      "Trump and Harris both want to tame AI?",
+      "Silicon Valley lobbies both sides heavily.",
+      "The EU's AI Act is now the global template.",
+      "Your compliance team just got a new must-read.",
+      "Call your lawyer before your next model update."
+    ],
+    "thread_text": [
+      "La Casa Bianca vuole regolamentare l'IA. Entrambi i candidati, Trump e Harris, hanno piani simili per limitare i modelli più potenti. Il consenso bipartitico è più forte di quanto sembri.",
+      "Silicon Valley spende milioni in lobbying su entrambi i fronti, ma stavolta le aziende non hanno ottenuto ciò che volevano. Le norme stanno arrivando comunque.",
+      "L'UE ha già approvato l'AI Act, che diventa il modello globale. Se operi in Europa o vendi a europei, sei già coperto. Le multe partono da 35 milioni.",
+      "I tuoi compliance team ora devono studiare quel testo come un manuale. Non è più un consiglio, è una lista di cose da non fare. Ogni aggiornamento del modello può essere un rischio legale.",
+      "Prima di rilasciare la prossima versione del tuo LLM, chiama un avvocato. Un test sbagliato su un dataset protetto può costarti l'intero trimestre."
+    ],
+    "video_script": [
+      "Trump e Harris vogliono tutti e due regole per l'IA.",
+      "La Silicon Valley cerca di frenarle con i soldi.",
+      "Ma l'Europa ha già deciso per tutti.",
+      "Il tuo team legale deve leggere l'AI Act.",
+      "Chiama l'avvocato prima di aggiornare il modello."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "La Casa Bianca vuole regolamentare l'IA. Entrambi i candidati, Trump e Harris, hanno piani simili per limitare i modelli più potenti. Il consenso bipartitico è più forte di quanto sembri.",
+          "Silicon Valley spende milioni in lobbying su entrambi i fronti, ma stavolta le aziende non hanno ottenuto ciò che volevano. Le norme stanno arrivando comunque.",
+          "L'UE ha già approvato l'AI Act, che diventa il modello globale. Se operi in Europa o vendi a europei, sei già coperto. Le multe partono da 35 milioni.",
+          "I tuoi compliance team ora devono studiare quel testo come un manuale. Non è più un consiglio, è una lista di cose da non fare. Ogni aggiornamento del modello può essere un rischio legale.",
+          "Prima di rilasciare la prossima versione del tuo LLM, chiama un avvocato. Un test sbagliato su un dataset protetto può costarti l'intero trimestre."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Trump e Harris vogliono tutti e due regole per l'IA.",
+          "La Silicon Valley cerca di frenarle con i soldi.",
+          "Ma l'Europa ha già deciso per tutti.",
+          "Il tuo team legale deve leggere l'AI Act.",
+          "Chiama l'avvocato prima di aggiornare il modello."
+        ]
+      },
+      "instagram": {
+        "caption": "Sia Trump che Harris vogliono mettere un guinzaglio all’intelligenza artificiale, e il consenso a Washington è più forte di quanto sembri. 🏛️ La Silicon Valley ha speso milioni per fare pressione su entrambi i fronti, ma questa volta le aziende non hanno ottenuto quello che volevano: le regole arrivano comunque. L’Unione Europea ha già il suo AI Act, che diventa il modello globale con multe fino a 35 milioni di euro. 💸 Per chi lavora con modelli di IA, ogni aggiornamento è ora un potenziale rischio legale: chiama un avvocato prima del prossimo rilascio. ⚖️ Il tuo team di compliance ha un nuovo manuale da studiare? 📘"
+      }
+    },
+    "instagram_caption": "Sia Trump che Harris vogliono mettere un guinzaglio all’intelligenza artificiale, e il consenso a Washington è più forte di quanto sembri. 🏛️ La Silicon Valley ha speso milioni per fare pressione su entrambi i fronti, ma questa volta le aziende non hanno ottenuto quello che volevano: le regole arrivano comunque. L’Unione Europea ha già il suo AI Act, che diventa il modello globale con multe fino a 35 milioni di euro. 💸 Per chi lavora con modelli di IA, ogni aggiornamento è ora un potenziale rischio legale: chiama un avvocato prima del prossimo rilascio. ⚖️ Il tuo team di compliance ha un nuovo manuale da studiare? 📘",
+    "carousel_slides": [
+      {
+        "hook": "Bipartisan AI clampdown incoming",
+        "description": "Trump and Harris both plan to limit powerful AI models. Bipartisan consensus is stronger than it seems.",
+        "visual_hint": "Split screen politicians",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "White House exterior"
+      },
+      {
+        "hook": "Lobbying billions, losing fight",
+        "description": "Silicon Valley spent millions on both sides but couldn't stop regulation. Norms are coming anyway.",
+        "visual_hint": "Money stacks and servers",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "fiber optic cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "EU's AI Act is template",
+        "description": "The EU AI Act is now the global model. If you operate in Europe, fines start at 35 million.",
+        "visual_hint": "Flag and robot gavel",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "robot hand shake",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Compliance teams must read",
+        "description": "Your compliance team now treats the AI Act as a manual. Every model update is a legal risk.",
+        "visual_hint": "Highlighted legal document",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office desk documents",
+        "image": "https://images.pexels.com/photos/8297536/pexels-photo-8297536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Call lawyer before update",
+        "description": "Before releasing your next LLM version, call a lawyer. A wrong test on protected data costs a quarter.",
+        "visual_hint": "Phone and keyboard closeup",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.729057198914%2C100%2C78.541885602173&amp;w=1200",
+    "savedAt": "2026-06-10T23:20:12.838Z",
+    "sourceId": "4a554e6b3bf94e90fb24568718a826e9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "fresh-off-bond-sale-amazon-borrows-17-5b-from-bank",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+    "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+    "pubDate": "Wed, 10 Jun 2026 20:19:31 +0000",
+    "slides": [
+      "Amazon vende bond, poi chiede altri $17.5 miliardi. Perché?",
+      "I $17.5 miliardi sono un prestito bancario separato.",
+      "Il debito cresce mentre l'AI assorbe capitale illimitato.",
+      "Se sei investitore, i margini potrebbero restringersi.",
+      "Controlla il rapporto debito/EBITDA prima del Q3."
+    ],
+    "thread_text": [
+      "Il debito di Amazon cresce mentre l'AI assorbe capitale illimitato. La domanda non è se sia sostenibile, ma quando il mercato smetterà di ignorarlo.",
+      "Ieri Amazon ha emesso bond. Oggi ha chiesto altri 17.5 miliardi in prestito bancario. Due movimenti separati, stesso messaggio: l'espansione AI costa più del previsto.",
+      "Ogni dollaro speso in infrastrutture AI oggi viene preso a prestito. I margini operativi si comprimono perché il capex corre più veloce del revenue.",
+      "Per un investitore il problema non è il debito in sé, ma la velocità con cui cresce. Se l'EBITDA non tiene il passo, il rapporto debito/EBITDA sale e i multipli cadono.",
+      "Controlla quel rapporto sui dati di Q3. Se supera la media storica del settore, il mercato potrebbe iniziare a prezzare il rischio diversamente."
+    ],
+    "video_script": [
+      "Il debito di Amazon sale con l'AI.",
+      "Prima i bond, poi 17 miliardi di prestito.",
+      "L'AI costa più del previsto.",
+      "I margini si restringono per gli investitori.",
+      "Controlla il rapporto debito su EBITDA a Q3."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Il debito di Amazon cresce mentre l'AI assorbe capitale illimitato. La domanda non è se sia sostenibile, ma quando il mercato smetterà di ignorarlo.",
+          "Ieri Amazon ha emesso bond. Oggi ha chiesto altri 17.5 miliardi in prestito bancario. Due movimenti separati, stesso messaggio: l'espansione AI costa più del previsto.",
+          "Ogni dollaro speso in infrastrutture AI oggi viene preso a prestito. I margini operativi si comprimono perché il capex corre più veloce del revenue.",
+          "Per un investitore il problema non è il debito in sé, ma la velocità con cui cresce. Se l'EBITDA non tiene il passo, il rapporto debito/EBITDA sale e i multipli cadono.",
+          "Controlla quel rapporto sui dati di Q3. Se supera la media storica del settore, il mercato potrebbe iniziare a prezzare il rischio diversamente."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Il debito di Amazon sale con l'AI.",
+          "Prima i bond, poi 17 miliardi di prestito.",
+          "L'AI costa più del previsto.",
+          "I margini si restringono per gli investitori.",
+          "Controlla il rapporto debito su EBITDA a Q3."
+        ]
+      },
+      "instagram": {
+        "caption": "Amazon ha appena chiuso un'emissione obbligazionaria e subito dopo ha chiesto altre banche: 17,5 miliardi di dollari in prestito. Due colpi separati, uno scopo solo: pagare l'espansione AI, che costa più del previsto. 📈💰 Ogni dollaro speso in data center oggi è preso a prestito, e i margini si comprimono perché le uscite corrono più veloci delle entrate. Per te che usi servizi Amazon o ci lavori, questo significa che il costo dell'AI potrebbe presto riflettersi su prezzi o investimenti più cauti. Controlla il rapporto debito/EBITDA a Q3: se sale sopra la media storica del settore, il mercato cambierà giudizio sul rischio. ⚖️💡"
+      }
+    },
+    "instagram_caption": "Amazon ha appena chiuso un'emissione obbligazionaria e subito dopo ha chiesto altre banche: 17,5 miliardi di dollari in prestito. Due colpi separati, uno scopo solo: pagare l'espansione AI, che costa più del previsto. 📈💰 Ogni dollaro speso in data center oggi è preso a prestito, e i margini si comprimono perché le uscite corrono più veloci delle entrate. Per te che usi servizi Amazon o ci lavori, questo significa che il costo dell'AI potrebbe presto riflettersi su prezzi o investimenti più cauti. Controlla il rapporto debito/EBITDA a Q3: se sale sopra la media storica del settore, il mercato cambierà giudizio sul rischio. ⚖️💡",
+    "carousel_slides": [
+      {
+        "hook": "AI costa più del previsto",
+        "description": "Il debito cresce mentre l'AI assorbe capitale illimitato. Quando il mercato smetterà di ignorarlo?",
+        "visual_hint": "fiamma che sale su debito",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "data center servers"
+      },
+      {
+        "hook": "Due prestiti separati, stesso segnale",
+        "description": "Dopo i bond, Amazon ha chiesto altri $17.5 miliardi. L'espansione AI costa più del previsto.",
+        "visual_hint": "due frecce finanziarie divergenti",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "bank building exterior",
+        "image": "https://images.pexels.com/photos/38040784/pexels-photo-38040784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Margini sotto pressione",
+        "description": "Ogni dollaro in AI è preso a prestito. Il capex corre più veloce del revenue, comprimendo i margini.",
+        "visual_hint": "grafico margine che si restringe",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "financial chart line",
+        "image": "https://images.pexels.com/photos/7948045/pexels-photo-7948045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Velocità del debito insostenibile",
+        "description": "Il problema non è il debito ma la sua velocità. Se l'EBITDA non tiene il passo, i multipli cadono.",
+        "visual_hint": "mano che stringe un elastico",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person typing laptop",
+        "image": "https://images.pexels.com/photos/12662877/pexels-photo-12662877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Controlla il rapporto debito/EBITDA",
+        "description": "Se supera la media storica, il mercato potrebbe prezzare il rischio diversamente. Aspetta i dati Q3.",
+        "visual_hint": "calcolatrice con rapporto evidenziato",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stock market ticker",
+        "image": "https://images.pexels.com/photos/35118242/pexels-photo-35118242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024",
+    "savedAt": "2026-06-10T23:19:56.661Z",
+    "sourceId": "6bbed14085f20904db4bf800dd7568c8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "cybercriminals-claim-breach-of-oracle-peoplesoft-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
+    "link": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
+    "pubDate": "Wed, 10 Jun 2026 21:33:32 +0000",
+    "slides": [
+      "Un gruppo hacker dice di aver violato oltre 100 database Oracle PeopleSoft.",
+      "I dati estratti includerebbero credenziali di accesso interne.",
+      "Oracle non ha ancora confermato ufficialmente l'attacco.",
+      "La tua azienda usa PeopleSoft? Controlla subito gli accessi.",
+      "Cambia password oggi. Non aspettare una conferma ufficiale."
+    ],
+    "thread_text": [
+      "Oracle non ha ancora confermato l'attacco. Ma i dati sono già stati estratti. Credenziali interne incluse. E tu stai aspettando un annuncio ufficiale?",
+      "Un gruppo dice di aver violato oltre 100 database PeopleSoft in tutto il mondo. L'accesso sarebbe già stato venduto.",
+      "Quei dati includono credenziali interne: nome utente, hash password, permessi. Roba che permette di entrare nei sistemi aziendali.",
+      "Se la tua azienda usa PeopleSoft, gli aggressori potrebbero già avere accesso. Non serve conferma Oracle per iniziare a controllare.",
+      "Cambia oggi tutte le password PeopleSoft. Non aspettare una mail ufficiale. Controlla subito gli accessi sospetti."
+    ],
+    "video_script": [
+      "Oracle non ha ancora confermato niente.",
+      "Ma un gruppo dice di aver violato cento database.",
+      "PeopleSoft, il software gestionale usato da tante aziende.",
+      "Dentro c'erano credenziali interne e password.",
+      "Se lo usate in azienda, cambiate subito le password."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Oracle non ha ancora confermato l'attacco. Ma i dati sono già stati estratti. Credenziali interne incluse. E tu stai aspettando un annuncio ufficiale?",
+          "Un gruppo dice di aver violato oltre 100 database PeopleSoft in tutto il mondo. L'accesso sarebbe già stato venduto.",
+          "Quei dati includono credenziali interne: nome utente, hash password, permessi. Roba che permette di entrare nei sistemi aziendali.",
+          "Se la tua azienda usa PeopleSoft, gli aggressori potrebbero già avere accesso. Non serve conferma Oracle per iniziare a controllare.",
+          "Cambia oggi tutte le password PeopleSoft. Non aspettare una mail ufficiale. Controlla subito gli accessi sospetti."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Oracle non ha ancora confermato niente.",
+          "Ma un gruppo dice di aver violato cento database.",
+          "PeopleSoft, il software gestionale usato da tante aziende.",
+          "Dentro c'erano credenziali interne e password.",
+          "Se lo usate in azienda, cambiate subito le password."
+        ]
+      },
+      "instagram": {
+        "caption": "Un gruppo hacker dichiara di aver violato oltre 100 database Oracle PeopleSoft in tutto il mondo. I dati estratti includono credenziali interne: nomi utente, hash di password e permessi di accesso 🔐. Oracle non ha ancora confermato ufficialmente l'attacco, ma i dati sarebbero già stati venduti 🚨. Se la tua azienda usa questo software, potrebbero già avere accesso ai tuoi sistemi. Cambia subito tutte le password PeopleSoft e controlla gli accessi sospetti — non aspettare una mail ufficiale 📧. Tu hai già verificato i log di oggi? ⏳"
+      }
+    },
+    "instagram_caption": "Un gruppo hacker dichiara di aver violato oltre 100 database Oracle PeopleSoft in tutto il mondo. I dati estratti includono credenziali interne: nomi utente, hash di password e permessi di accesso 🔐. Oracle non ha ancora confermato ufficialmente l'attacco, ma i dati sarebbero già stati venduti 🚨. Se la tua azienda usa questo software, potrebbero già avere accesso ai tuoi sistemi. Cambia subito tutte le password PeopleSoft e controlla gli accessi sospetti — non aspettare una mail ufficiale 📧. Tu hai già verificato i log di oggi? ⏳",
+    "carousel_slides": [
+      {
+        "hook": "Nessuna conferma. Dati rubati.",
+        "description": "Oracle non ha ancora confermato l'attacco, ma i dati sono già stati estratti. Credenziali interne incluse.",
+        "visual_hint": "luce allarme lampeggiante",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room alarm"
+      },
+      {
+        "hook": "100+ database violati",
+        "description": "Un gruppo dice di aver violato oltre 100 database PeopleSoft. Accesso già venduto.",
+        "visual_hint": "database icon crack",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "database server",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Credenziali interne esposte",
+        "description": "Dati includono nome utente, hash password, permessi. Roba per entrare nei sistemi.",
+        "visual_hint": "schermo con dati rubati",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data breach screen",
+        "image": "https://images.pexels.com/photos/2036656/pexels-photo-2036656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "La tua azienda usa PeopleSoft?",
+        "description": "Se sì, aggressori potrebbero già avere accesso. Non serve conferma Oracle per controllare.",
+        "visual_hint": "mano che clicca mouse",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers computer",
+        "image": "https://images.pexels.com/photos/12903155/pexels-photo-12903155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cambia password ORA",
+        "description": "Cambia oggi tutte le password PeopleSoft. Non aspettare mail ufficiale. Controlla accessi sospetti.",
+        "visual_hint": "icona candado verde",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "password change screen",
+        "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-10T23:19:39.770Z",
+    "sourceId": "c4ef9d3035ea9bcb26106b77087e621c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "jedify-raises-24m-to-help-companies-arm-ai-agents-",
     "prompt_version": "1.0.0",
     "status": "published",
