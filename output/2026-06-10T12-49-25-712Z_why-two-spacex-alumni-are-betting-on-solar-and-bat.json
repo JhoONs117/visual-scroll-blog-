@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-two-spacex-alumni-are-betting-on-solar-and-bat",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why two SpaceX alumni are betting on solar and batteries to power the AI craze",
+  "link": "https://techcrunch.com/2026/06/10/why-two-spacex-alumni-are-betting-on-solar-and-batteries-to-power-the-ai-craze/",
+  "pubDate": "Wed, 10 Jun 2026 12:00:00 +0000",
+  "slides": [
+    "Two SpaceX alums challenge AI's nuclear obsession.",
+    "Solar plus batteries outpaces gas peaker plants.",
+    "Their secret: AI optimizes every kilowatt-hour stored.",
+    "Your data center could slash energy costs tomorrow.",
+    "Test their model against your current power bill."
+  ],
+  "thread_text": [
+    "Due ex SpaceX dicono che l'AI non ha bisogno di nucleare. Hanno già costruito il sistema che lo dimostra.",
+    "Mentre tutti scommettono su reattori costosi, loro usano pannelli solari e batterie già in commercio.",
+    "L'AI ottimizza ogni kilowattora immagazzinato. Le batterie si caricano e scaricano quando costa meno.",
+    "Oggi un data center può rimpiazzare i picchi di gas con accumulo solare programmato. I costi crollano subito.",
+    "Puoi confrontare il tuo conto attuale con il loro modello in 10 minuti. Se non risparmi, disdici gratis."
+  ],
+  "video_script": [
+    "Due ex SpaceX dicono no al nucleare per l'AI.",
+    "Usano pannelli solari e batterie normali.",
+    "L'AI decide quando caricarle per risparmiare.",
+    "Il tuo data center taglia i costi da domani.",
+    "Prova il loro modello sulla tua bolletta reale."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Due ex SpaceX dicono che l'AI non ha bisogno di nucleare. Hanno già costruito il sistema che lo dimostra.",
+        "Mentre tutti scommettono su reattori costosi, loro usano pannelli solari e batterie già in commercio.",
+        "L'AI ottimizza ogni kilowattora immagazzinato. Le batterie si caricano e scaricano quando costa meno.",
+        "Oggi un data center può rimpiazzare i picchi di gas con accumulo solare programmato. I costi crollano subito.",
+        "Puoi confrontare il tuo conto attuale con il loro modello in 10 minuti. Se non risparmi, disdici gratis."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Due ex SpaceX dicono no al nucleare per l'AI.",
+        "Usano pannelli solari e batterie normali.",
+        "L'AI decide quando caricarle per risparmiare.",
+        "Il tuo data center taglia i costi da domani.",
+        "Prova il loro modello sulla tua bolletta reale."
+      ]
+    },
+    "instagram": {
+      "caption": "Due ingegneri usciti da SpaceX stanno scommettendo su pannelli solari e batterie per alimentare i data center dell'AI, invece che sui reattori nucleari. Hanno costruito un software che fa comprare e vendere elettricità al momento giusto, ottimizzando ogni kilowattora immagazzinato ☀️. Risultato: un data center può già sostituire i picchi di consumo del gas con accumulo solare programmato, tagliando i costi subito 🔋. Significa che la tua bolletta del server potrebbe scendere in giorni, non in anni. Hai già confrontato il tuo conto attuale col loro modello in 10 minuti? 💸"
+    }
+  },
+  "instagram_caption": "Due ingegneri usciti da SpaceX stanno scommettendo su pannelli solari e batterie per alimentare i data center dell'AI, invece che sui reattori nucleari. Hanno costruito un software che fa comprare e vendere elettricità al momento giusto, ottimizzando ogni kilowattora immagazzinato ☀️. Risultato: un data center può già sostituire i picchi di consumo del gas con accumulo solare programmato, tagliando i costi subito 🔋. Significa che la tua bolletta del server potrebbe scendere in giorni, non in anni. Hai già confrontato il tuo conto attuale col loro modello in 10 minuti? 💸",
+  "carousel_slides": [
+    {
+      "hook": "AI doesn't need nuclear",
+      "description": "Two former SpaceX engineers prove AI can run on solar and batteries, not expensive reactors.",
+      "visual_hint": "battery racks in data center",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "battery storage facility"
+    },
+    {
+      "hook": "Solar + batteries beat gas",
+      "description": "While others bet on costly reactors, they use off-the-shelf solar panels and batteries.",
+      "visual_hint": "solar farm with turbines",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "solar panels field",
+      "image": "https://images.pexels.com/photos/27637329/pexels-photo-27637329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI optimizes every kilowatt",
+      "description": "AI charges and discharges batteries when energy is cheapest, maximizing every stored kilowatt-hour.",
+      "visual_hint": "circuit board close-up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microchip closeup",
+      "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Replace gas peakers today",
+      "description": "Data centers can replace gas peaker plants with programmed solar storage. Costs drop immediately.",
+      "visual_hint": "hand touching tablet",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding tablet",
+      "image": "https://images.pexels.com/photos/3923157/pexels-photo-3923157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your bill in 10 min",
+      "description": "Compare your current power bill against their model. If you don't save, cancel for free.",
+      "visual_hint": "comparison chart graph",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "bar chart projector",
+      "image": "https://images.pexels.com/photos/7948065/pexels-photo-7948065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/ambrosia-energy-west-texas.jpeg?resize=1200,756",
+  "savedAt": "2026-06-10T12:49:41.464Z",
+  "sourceId": "a3f3e143e6ff3b98a0776403f935d773"
+}

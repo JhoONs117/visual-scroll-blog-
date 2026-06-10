@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nous-research-s-nouscoder-14b-is-an-open-source-co",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+  "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+  "pubDate": "Wed, 07 Jan 2026 20:00:00 GMT",
+  "slides": [
+    "NousCoder-14B sfida Claude Code gratis?",
+    "È open-source, non dietro un abbonamento.",
+    "Batte modelli chiusi su coding complesso.",
+    "Puoi testarlo oggi senza pagare un centesimo.",
+    "Scaricalo e confrontalo sul tuo progetto."
+  ],
+  "thread_text": [
+    "NousCoder-14B batte modelli chiusi su coding complesso. Gratis.",
+    "Open-source non vuol dire compromesso. Questo modello dimostra che puoi avere prestazioni top senza pagare abbonamento.",
+    "Mentre altri limitano le richieste o bloccano funzioni dietro un paywall, qui scarichi e usi tutto subito.",
+    "Il confronto è semplice: prendi un tuo progetto reale, lo fai girare con Claude Code e poi con NousCoder-14B.",
+    "Costa meno di zero euro. Scaricalo oggi e vedi se regge il tuo carico di lavoro.",
+    "Se non l'hai ancora testato su un task di refactoring, stai perdendo tempo."
+  ],
+  "video_script": [
+    "Questo modello sfida i big a pagamento.",
+    "È open source, quindi gratis per sempre.",
+    "Ha battuto modelli chiusi su coding complesso.",
+    "Puoi provarlo oggi senza pagare nulla.",
+    "Scaricalo e mettilo alla prova."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "NousCoder-14B batte modelli chiusi su coding complesso. Gratis.",
+        "Open-source non vuol dire compromesso. Questo modello dimostra che puoi avere prestazioni top senza pagare abbonamento.",
+        "Mentre altri limitano le richieste o bloccano funzioni dietro un paywall, qui scarichi e usi tutto subito.",
+        "Il confronto è semplice: prendi un tuo progetto reale, lo fai girare con Claude Code e poi con NousCoder-14B.",
+        "Costa meno di zero euro. Scaricalo oggi e vedi se regge il tuo carico di lavoro.",
+        "Se non l'hai ancora testato su un task di refactoring, stai perdendo tempo."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Questo modello sfida i big a pagamento.",
+        "È open source, quindi gratis per sempre.",
+        "Ha battuto modelli chiusi su coding complesso.",
+        "Puoi provarlo oggi senza pagare nulla.",
+        "Scaricalo e mettilo alla prova."
+      ]
+    },
+    "instagram": {
+      "caption": "Nous Research ha rilasciato NousCoder-14B, un modello di coding open-source che, nei test complessi, supera concorrenti chiusi come quelli di Google e Anthropic. Scarichi il peso e lo usi gratis, senza limiti di richieste o funzioni bloccate dietro un abbonamento mensile. 🛠️ Se lavori a progetti seri, prendi il tuo codice reale, confrontalo direttamente con Claude Code e vedi se regge il carico. 💻 Il costo è zero. Hai già provato a fargli fare refactoring oggi? 🔓"
+    }
+  },
+  "instagram_caption": "Nous Research ha rilasciato NousCoder-14B, un modello di coding open-source che, nei test complessi, supera concorrenti chiusi come quelli di Google e Anthropic. Scarichi il peso e lo usi gratis, senza limiti di richieste o funzioni bloccate dietro un abbonamento mensile. 🛠️ Se lavori a progetti seri, prendi il tuo codice reale, confrontalo direttamente con Claude Code e vedi se regge il carico. 💻 Il costo è zero. Hai già provato a fargli fare refactoring oggi? 🔓",
+  "carousel_slides": [
+    {
+      "hook": "Claude Code gratuito?",
+      "description": "NousCoder-14B batte modelli chiusi su coding complesso, gratis e senza abbonamento.",
+      "visual_hint": "confronto due schermi codice",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "laptop keyboard code"
+    },
+    {
+      "hook": "Open-source, non compromesso",
+      "description": "Open-source non significa qualità inferiore. Prestazioni top senza pagare un centesimo.",
+      "visual_hint": "ingranaggi e chip aperti",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room racks",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Niente paywall, tutto subito",
+      "description": "Mentre altri limitano le richieste o bloccano funzioni, qui scarichi e usi tutto immediatamente.",
+      "visual_hint": "cancello che si apre",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "open laptop screen",
+      "image": "https://images.pexels.com/photos/18096282/pexels-photo-18096282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Provalo sul tuo progetto",
+      "description": "Confronta Claude Code e NousCoder-14B sul tuo progetto reale. Vedi chi regge il carico.",
+      "visual_hint": "mani che confrontano test",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costa zero. Scarica ora.",
+      "description": "Se non l'hai ancora testato su un task di refactoring, stai perdendo tempo. Scaricalo oggi.",
+      "visual_hint": "freccia verso il basso pulsante",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "download button screen",
+      "image": "https://images.pexels.com/photos/12032743/pexels-photo-12032743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7988086/pexels-photo-7988086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-10T12:50:16.259Z",
+  "sourceId": "b37d936464575171be4586234d600b41"
+}

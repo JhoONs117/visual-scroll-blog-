@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-launches-cowork-a-claude-desktop-agent-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+  "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+  "pubDate": "Mon, 12 Jan 2026 11:30:00 GMT",
+  "slides": [
+    "Anthropic lancia Cowork: e se Claude scrivesse i tuoi file?",
+    "Nessuna riga di codice, solo istruzioni in linguaggio naturale",
+    "Ma non esegue comandi: legge e modifica, non cancella mai",
+    "Il tuo prossimo collaboratore potrebbe essere un agente silenzioso",
+    "Prova subito con un documento reale: cosa cambia?"
+  ],
+  "thread_text": [
+    "Una AI che scrive al posto tuo, ma non esegue mai comandi. Solo lettura e modifica. Zero cancellazioni.",
+    "Funziona in linguaggio naturale. Niente codice. Gli dai istruzioni come le daresti a un collega umano.",
+    "Il risultato è un agente silenzioso che modifica file, documenti, codice. E lo fa senza mai chiedere permesso.",
+    "Si chiama Cowork, di Anthropic. L'idea è semplice: smetti di scrivere, inizia a delegare.",
+    "Se hai un documento reale da modificare, prova oggi. Costa meno di un abbonamento Spotify."
+  ],
+  "video_script": [
+    "Un AI che scrive i tuoi file.",
+    "Solo istruzioni in linguaggio naturale.",
+    "Non esegue comandi pericolosi.",
+    "Legge e modifica, mai cancella.",
+    "Provalo subito con un documento vero."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Una AI che scrive al posto tuo, ma non esegue mai comandi. Solo lettura e modifica. Zero cancellazioni.",
+        "Funziona in linguaggio naturale. Niente codice. Gli dai istruzioni come le daresti a un collega umano.",
+        "Il risultato è un agente silenzioso che modifica file, documenti, codice. E lo fa senza mai chiedere permesso.",
+        "Si chiama Cowork, di Anthropic. L'idea è semplice: smetti di scrivere, inizia a delegare.",
+        "Se hai un documento reale da modificare, prova oggi. Costa meno di un abbonamento Spotify."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Un AI che scrive i tuoi file.",
+        "Solo istruzioni in linguaggio naturale.",
+        "Non esegue comandi pericolosi.",
+        "Legge e modifica, mai cancella.",
+        "Provalo subito con un documento vero."
+      ]
+    },
+    "instagram": {
+      "caption": "Anthropic ha appena lanciato Cowork: un agente che modifica i tuoi file semplicemente parlandogli. 📂 Niente codice, niente comandi da studiare: dai istruzioni in italiano come a un collega, e lui legge e riscrive documenti o codice senza mai cancellare nulla. 🛡️ Non esegue, non distrugge: è un collaboratore silenzioso che lavora in autonomia. Per chi passa ore a ritoccare testi o script, è come avere un assistente che non chiede permesso. 🖊️ Hai già un file su cui fargli fare un giro?"
+    }
+  },
+  "instagram_caption": "Anthropic ha appena lanciato Cowork: un agente che modifica i tuoi file semplicemente parlandogli. 📂 Niente codice, niente comandi da studiare: dai istruzioni in italiano come a un collega, e lui legge e riscrive documenti o codice senza mai cancellare nulla. 🛡️ Non esegue, non distrugge: è un collaboratore silenzioso che lavora in autonomia. Per chi passa ore a ritoccare testi o script, è come avere un assistente che non chiede permesso. 🖊️ Hai già un file su cui fargli fare un giro?",
+  "carousel_slides": [
+    {
+      "hook": "Scrive, modifica, mai cancella",
+      "description": "Una AI che modifica file ma non esegue comandi. Solo lettura e modifica. Zero cancellazioni.",
+      "visual_hint": "Documento con matita che scrive",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "document pen editing"
+    },
+    {
+      "hook": "Parla come a un collega",
+      "description": "Niente codice. Gli dai istruzioni in linguaggio naturale come le daresti a un umano.",
+      "visual_hint": "Chat tra due persone al pc",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "two people chatting computer",
+      "image": "https://images.pexels.com/photos/7593713/pexels-photo-7593713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Agente silenzioso, mai permesso",
+      "description": "Modifica file, documenti, codice. E lo fa senza mai chiedere permesso.",
+      "visual_hint": "Codice che si modifica da solo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "code changing automatically",
+      "image": "https://images.pexels.com/photos/33863763/pexels-photo-33863763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Smetti di scrivere, inizia a delegare",
+      "description": "Si chiama Cowork di Anthropic. L'idea è semplice: delega la scrittura a un agente.",
+      "visual_hint": "Mano che passa foglio a robot",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand giving paper robot",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova su un documento vero",
+      "description": "Costa meno di un abbonamento Spotify. Prova oggi a modificare un file reale.",
+      "visual_hint": "Icona Spotify e documento affiancati",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "spotify icon document side",
+      "image": "https://images.pexels.com/photos/16349244/pexels-photo-16349244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/8036339/pexels-photo-8036339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-10T12:49:59.423Z",
+  "sourceId": "a102a18a5efc083299a9baaa1b4a8378"
+}

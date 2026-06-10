@@ -2,6 +2,320 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "nous-research-s-nouscoder-14b-is-an-open-source-co",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+    "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+    "pubDate": "Wed, 07 Jan 2026 20:00:00 GMT",
+    "slides": [
+      "NousCoder-14B sfida Claude Code gratis?",
+      "È open-source, non dietro un abbonamento.",
+      "Batte modelli chiusi su coding complesso.",
+      "Puoi testarlo oggi senza pagare un centesimo.",
+      "Scaricalo e confrontalo sul tuo progetto."
+    ],
+    "thread_text": [
+      "NousCoder-14B batte modelli chiusi su coding complesso. Gratis.",
+      "Open-source non vuol dire compromesso. Questo modello dimostra che puoi avere prestazioni top senza pagare abbonamento.",
+      "Mentre altri limitano le richieste o bloccano funzioni dietro un paywall, qui scarichi e usi tutto subito.",
+      "Il confronto è semplice: prendi un tuo progetto reale, lo fai girare con Claude Code e poi con NousCoder-14B.",
+      "Costa meno di zero euro. Scaricalo oggi e vedi se regge il tuo carico di lavoro.",
+      "Se non l'hai ancora testato su un task di refactoring, stai perdendo tempo."
+    ],
+    "video_script": [
+      "Questo modello sfida i big a pagamento.",
+      "È open source, quindi gratis per sempre.",
+      "Ha battuto modelli chiusi su coding complesso.",
+      "Puoi provarlo oggi senza pagare nulla.",
+      "Scaricalo e mettilo alla prova."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "NousCoder-14B batte modelli chiusi su coding complesso. Gratis.",
+          "Open-source non vuol dire compromesso. Questo modello dimostra che puoi avere prestazioni top senza pagare abbonamento.",
+          "Mentre altri limitano le richieste o bloccano funzioni dietro un paywall, qui scarichi e usi tutto subito.",
+          "Il confronto è semplice: prendi un tuo progetto reale, lo fai girare con Claude Code e poi con NousCoder-14B.",
+          "Costa meno di zero euro. Scaricalo oggi e vedi se regge il tuo carico di lavoro.",
+          "Se non l'hai ancora testato su un task di refactoring, stai perdendo tempo."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Questo modello sfida i big a pagamento.",
+          "È open source, quindi gratis per sempre.",
+          "Ha battuto modelli chiusi su coding complesso.",
+          "Puoi provarlo oggi senza pagare nulla.",
+          "Scaricalo e mettilo alla prova."
+        ]
+      },
+      "instagram": {
+        "caption": "Nous Research ha rilasciato NousCoder-14B, un modello di coding open-source che, nei test complessi, supera concorrenti chiusi come quelli di Google e Anthropic. Scarichi il peso e lo usi gratis, senza limiti di richieste o funzioni bloccate dietro un abbonamento mensile. 🛠️ Se lavori a progetti seri, prendi il tuo codice reale, confrontalo direttamente con Claude Code e vedi se regge il carico. 💻 Il costo è zero. Hai già provato a fargli fare refactoring oggi? 🔓"
+      }
+    },
+    "instagram_caption": "Nous Research ha rilasciato NousCoder-14B, un modello di coding open-source che, nei test complessi, supera concorrenti chiusi come quelli di Google e Anthropic. Scarichi il peso e lo usi gratis, senza limiti di richieste o funzioni bloccate dietro un abbonamento mensile. 🛠️ Se lavori a progetti seri, prendi il tuo codice reale, confrontalo direttamente con Claude Code e vedi se regge il carico. 💻 Il costo è zero. Hai già provato a fargli fare refactoring oggi? 🔓",
+    "carousel_slides": [
+      {
+        "hook": "Claude Code gratuito?",
+        "description": "NousCoder-14B batte modelli chiusi su coding complesso, gratis e senza abbonamento.",
+        "visual_hint": "confronto due schermi codice",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "laptop keyboard code"
+      },
+      {
+        "hook": "Open-source, non compromesso",
+        "description": "Open-source non significa qualità inferiore. Prestazioni top senza pagare un centesimo.",
+        "visual_hint": "ingranaggi e chip aperti",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room racks",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Niente paywall, tutto subito",
+        "description": "Mentre altri limitano le richieste o bloccano funzioni, qui scarichi e usi tutto immediatamente.",
+        "visual_hint": "cancello che si apre",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "open laptop screen",
+        "image": "https://images.pexels.com/photos/18096282/pexels-photo-18096282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Provalo sul tuo progetto",
+        "description": "Confronta Claude Code e NousCoder-14B sul tuo progetto reale. Vedi chi regge il carico.",
+        "visual_hint": "mani che confrontano test",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costa zero. Scarica ora.",
+        "description": "Se non l'hai ancora testato su un task di refactoring, stai perdendo tempo. Scaricalo oggi.",
+        "visual_hint": "freccia verso il basso pulsante",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "download button screen",
+        "image": "https://images.pexels.com/photos/12032743/pexels-photo-12032743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/7988086/pexels-photo-7988086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-10T12:50:16.259Z",
+    "sourceId": "b37d936464575171be4586234d600b41"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "anthropic-launches-cowork-a-claude-desktop-agent-t",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "pubDate": "Mon, 12 Jan 2026 11:30:00 GMT",
+    "slides": [
+      "Anthropic lancia Cowork: e se Claude scrivesse i tuoi file?",
+      "Nessuna riga di codice, solo istruzioni in linguaggio naturale",
+      "Ma non esegue comandi: legge e modifica, non cancella mai",
+      "Il tuo prossimo collaboratore potrebbe essere un agente silenzioso",
+      "Prova subito con un documento reale: cosa cambia?"
+    ],
+    "thread_text": [
+      "Una AI che scrive al posto tuo, ma non esegue mai comandi. Solo lettura e modifica. Zero cancellazioni.",
+      "Funziona in linguaggio naturale. Niente codice. Gli dai istruzioni come le daresti a un collega umano.",
+      "Il risultato è un agente silenzioso che modifica file, documenti, codice. E lo fa senza mai chiedere permesso.",
+      "Si chiama Cowork, di Anthropic. L'idea è semplice: smetti di scrivere, inizia a delegare.",
+      "Se hai un documento reale da modificare, prova oggi. Costa meno di un abbonamento Spotify."
+    ],
+    "video_script": [
+      "Un AI che scrive i tuoi file.",
+      "Solo istruzioni in linguaggio naturale.",
+      "Non esegue comandi pericolosi.",
+      "Legge e modifica, mai cancella.",
+      "Provalo subito con un documento vero."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Una AI che scrive al posto tuo, ma non esegue mai comandi. Solo lettura e modifica. Zero cancellazioni.",
+          "Funziona in linguaggio naturale. Niente codice. Gli dai istruzioni come le daresti a un collega umano.",
+          "Il risultato è un agente silenzioso che modifica file, documenti, codice. E lo fa senza mai chiedere permesso.",
+          "Si chiama Cowork, di Anthropic. L'idea è semplice: smetti di scrivere, inizia a delegare.",
+          "Se hai un documento reale da modificare, prova oggi. Costa meno di un abbonamento Spotify."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Un AI che scrive i tuoi file.",
+          "Solo istruzioni in linguaggio naturale.",
+          "Non esegue comandi pericolosi.",
+          "Legge e modifica, mai cancella.",
+          "Provalo subito con un documento vero."
+        ]
+      },
+      "instagram": {
+        "caption": "Anthropic ha appena lanciato Cowork: un agente che modifica i tuoi file semplicemente parlandogli. 📂 Niente codice, niente comandi da studiare: dai istruzioni in italiano come a un collega, e lui legge e riscrive documenti o codice senza mai cancellare nulla. 🛡️ Non esegue, non distrugge: è un collaboratore silenzioso che lavora in autonomia. Per chi passa ore a ritoccare testi o script, è come avere un assistente che non chiede permesso. 🖊️ Hai già un file su cui fargli fare un giro?"
+      }
+    },
+    "instagram_caption": "Anthropic ha appena lanciato Cowork: un agente che modifica i tuoi file semplicemente parlandogli. 📂 Niente codice, niente comandi da studiare: dai istruzioni in italiano come a un collega, e lui legge e riscrive documenti o codice senza mai cancellare nulla. 🛡️ Non esegue, non distrugge: è un collaboratore silenzioso che lavora in autonomia. Per chi passa ore a ritoccare testi o script, è come avere un assistente che non chiede permesso. 🖊️ Hai già un file su cui fargli fare un giro?",
+    "carousel_slides": [
+      {
+        "hook": "Scrive, modifica, mai cancella",
+        "description": "Una AI che modifica file ma non esegue comandi. Solo lettura e modifica. Zero cancellazioni.",
+        "visual_hint": "Documento con matita che scrive",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "document pen editing"
+      },
+      {
+        "hook": "Parla come a un collega",
+        "description": "Niente codice. Gli dai istruzioni in linguaggio naturale come le daresti a un umano.",
+        "visual_hint": "Chat tra due persone al pc",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "two people chatting computer",
+        "image": "https://images.pexels.com/photos/7593713/pexels-photo-7593713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Agente silenzioso, mai permesso",
+        "description": "Modifica file, documenti, codice. E lo fa senza mai chiedere permesso.",
+        "visual_hint": "Codice che si modifica da solo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "code changing automatically",
+        "image": "https://images.pexels.com/photos/33863763/pexels-photo-33863763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Smetti di scrivere, inizia a delegare",
+        "description": "Si chiama Cowork di Anthropic. L'idea è semplice: delega la scrittura a un agente.",
+        "visual_hint": "Mano che passa foglio a robot",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand giving paper robot",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova su un documento vero",
+        "description": "Costa meno di un abbonamento Spotify. Prova oggi a modificare un file reale.",
+        "visual_hint": "Icona Spotify e documento affiancati",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "spotify icon document side",
+        "image": "https://images.pexels.com/photos/16349244/pexels-photo-16349244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/8036339/pexels-photo-8036339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-10T12:49:59.423Z",
+    "sourceId": "a102a18a5efc083299a9baaa1b4a8378"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "why-two-spacex-alumni-are-betting-on-solar-and-bat",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Why two SpaceX alumni are betting on solar and batteries to power the AI craze",
+    "link": "https://techcrunch.com/2026/06/10/why-two-spacex-alumni-are-betting-on-solar-and-batteries-to-power-the-ai-craze/",
+    "pubDate": "Wed, 10 Jun 2026 12:00:00 +0000",
+    "slides": [
+      "Two SpaceX alums challenge AI's nuclear obsession.",
+      "Solar plus batteries outpaces gas peaker plants.",
+      "Their secret: AI optimizes every kilowatt-hour stored.",
+      "Your data center could slash energy costs tomorrow.",
+      "Test their model against your current power bill."
+    ],
+    "thread_text": [
+      "Due ex SpaceX dicono che l'AI non ha bisogno di nucleare. Hanno già costruito il sistema che lo dimostra.",
+      "Mentre tutti scommettono su reattori costosi, loro usano pannelli solari e batterie già in commercio.",
+      "L'AI ottimizza ogni kilowattora immagazzinato. Le batterie si caricano e scaricano quando costa meno.",
+      "Oggi un data center può rimpiazzare i picchi di gas con accumulo solare programmato. I costi crollano subito.",
+      "Puoi confrontare il tuo conto attuale con il loro modello in 10 minuti. Se non risparmi, disdici gratis."
+    ],
+    "video_script": [
+      "Due ex SpaceX dicono no al nucleare per l'AI.",
+      "Usano pannelli solari e batterie normali.",
+      "L'AI decide quando caricarle per risparmiare.",
+      "Il tuo data center taglia i costi da domani.",
+      "Prova il loro modello sulla tua bolletta reale."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Due ex SpaceX dicono che l'AI non ha bisogno di nucleare. Hanno già costruito il sistema che lo dimostra.",
+          "Mentre tutti scommettono su reattori costosi, loro usano pannelli solari e batterie già in commercio.",
+          "L'AI ottimizza ogni kilowattora immagazzinato. Le batterie si caricano e scaricano quando costa meno.",
+          "Oggi un data center può rimpiazzare i picchi di gas con accumulo solare programmato. I costi crollano subito.",
+          "Puoi confrontare il tuo conto attuale con il loro modello in 10 minuti. Se non risparmi, disdici gratis."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Due ex SpaceX dicono no al nucleare per l'AI.",
+          "Usano pannelli solari e batterie normali.",
+          "L'AI decide quando caricarle per risparmiare.",
+          "Il tuo data center taglia i costi da domani.",
+          "Prova il loro modello sulla tua bolletta reale."
+        ]
+      },
+      "instagram": {
+        "caption": "Due ingegneri usciti da SpaceX stanno scommettendo su pannelli solari e batterie per alimentare i data center dell'AI, invece che sui reattori nucleari. Hanno costruito un software che fa comprare e vendere elettricità al momento giusto, ottimizzando ogni kilowattora immagazzinato ☀️. Risultato: un data center può già sostituire i picchi di consumo del gas con accumulo solare programmato, tagliando i costi subito 🔋. Significa che la tua bolletta del server potrebbe scendere in giorni, non in anni. Hai già confrontato il tuo conto attuale col loro modello in 10 minuti? 💸"
+      }
+    },
+    "instagram_caption": "Due ingegneri usciti da SpaceX stanno scommettendo su pannelli solari e batterie per alimentare i data center dell'AI, invece che sui reattori nucleari. Hanno costruito un software che fa comprare e vendere elettricità al momento giusto, ottimizzando ogni kilowattora immagazzinato ☀️. Risultato: un data center può già sostituire i picchi di consumo del gas con accumulo solare programmato, tagliando i costi subito 🔋. Significa che la tua bolletta del server potrebbe scendere in giorni, non in anni. Hai già confrontato il tuo conto attuale col loro modello in 10 minuti? 💸",
+    "carousel_slides": [
+      {
+        "hook": "AI doesn't need nuclear",
+        "description": "Two former SpaceX engineers prove AI can run on solar and batteries, not expensive reactors.",
+        "visual_hint": "battery racks in data center",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "battery storage facility"
+      },
+      {
+        "hook": "Solar + batteries beat gas",
+        "description": "While others bet on costly reactors, they use off-the-shelf solar panels and batteries.",
+        "visual_hint": "solar farm with turbines",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "solar panels field",
+        "image": "https://images.pexels.com/photos/27637329/pexels-photo-27637329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI optimizes every kilowatt",
+        "description": "AI charges and discharges batteries when energy is cheapest, maximizing every stored kilowatt-hour.",
+        "visual_hint": "circuit board close-up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "microchip closeup",
+        "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Replace gas peakers today",
+        "description": "Data centers can replace gas peaker plants with programmed solar storage. Costs drop immediately.",
+        "visual_hint": "hand touching tablet",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding tablet",
+        "image": "https://images.pexels.com/photos/3923157/pexels-photo-3923157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your bill in 10 min",
+        "description": "Compare your current power bill against their model. If you don't save, cancel for free.",
+        "visual_hint": "comparison chart graph",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "bar chart projector",
+        "image": "https://images.pexels.com/photos/7948065/pexels-photo-7948065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/ambrosia-energy-west-texas.jpeg?resize=1200,756",
+    "savedAt": "2026-06-10T12:49:41.464Z",
+    "sourceId": "a3f3e143e6ff3b98a0776403f935d773"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "salesforce-rolls-out-new-slackbot-ai-agent-as-it-b",
     "prompt_version": "1.0.0",
     "status": "published",
