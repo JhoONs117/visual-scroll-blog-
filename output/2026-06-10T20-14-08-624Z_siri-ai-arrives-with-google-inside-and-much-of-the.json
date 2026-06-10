@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "siri-ai-arrives-with-google-inside-and-much-of-the",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Siri AI arrives with Google inside, and much of the world is locked out",
+  "link": "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/",
+  "pubDate": "Wed, 10 Jun 2026 11:00:00 +0000",
+  "slides": [
+    "Siri si aggiorna con Google, ma chi potrà usarla?",
+    "Apple integra intelligenza artificiale di Google Gemini",
+    "Il lancio è globale, ma molti paesi esclusi",
+    "Se sei fuori dagli USA, la scelta è limitata",
+    "Controlla subito se il tuo dispositivo è compatibile"
+  ],
+  "thread_text": [
+    "Il nuovo Siri con Gemini sarà globale, ma molti paesi rimangono esclusi. Ancora una volta, l’AI arriva solo per pochi.",
+    "Apple ha integrato il modello di Google direttamente nel sistema. Siri ora può fare cose che prima non riusciva nemmeno a immaginare.",
+    "Il problema è che il rollout è partito solo in USA. Se vivi in Europa o Asia, la maggior parte delle funzioni non le vedrai.",
+    "Non è solo questione di lingua: dipende da accordi normativi e infrastrutture locali. Il tuo Siri potrebbe restare quello di sempre.",
+    "Controlla subito se il tuo iPhone è compatibile. Se lo è e sei fuori dagli USA, cambia l'App Store in quello americano e riavvia."
+  ],
+  "video_script": [
+    "Siri si aggiorna con l'AI di Google.",
+    "Ma non per tutti.",
+    "Il lancio è globale, tanti paesi esclusi.",
+    "Fuori dagli USA le funzioni sono poche.",
+    "Controlla subito la compatibilità del tuo dispositivo."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il nuovo Siri con Gemini sarà globale, ma molti paesi rimangono esclusi. Ancora una volta, l’AI arriva solo per pochi.",
+        "Apple ha integrato il modello di Google direttamente nel sistema. Siri ora può fare cose che prima non riusciva nemmeno a immaginare.",
+        "Il problema è che il rollout è partito solo in USA. Se vivi in Europa o Asia, la maggior parte delle funzioni non le vedrai.",
+        "Non è solo questione di lingua: dipende da accordi normativi e infrastrutture locali. Il tuo Siri potrebbe restare quello di sempre.",
+        "Controlla subito se il tuo iPhone è compatibile. Se lo è e sei fuori dagli USA, cambia l'App Store in quello americano e riavvia."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Siri si aggiorna con l'AI di Google.",
+        "Ma non per tutti.",
+        "Il lancio è globale, tanti paesi esclusi.",
+        "Fuori dagli USA le funzioni sono poche.",
+        "Controlla subito la compatibilità del tuo dispositivo."
+      ]
+    },
+    "instagram": {
+      "caption": "Apple ha appena integrato l’intelligenza artificiale di Google direttamente in Siri, ma il rollout parte solo dagli Stati Uniti. Se non sei lì, la maggior parte delle funzioni nuove non le vedrai. Il problema non è la lingua: dipende da accordi normativi e infrastrutture locali. Per chi lavora con traduzioni, assistenza clienti o automazione, questo significa niente aggiornamenti reali in Europa o Asia 🇪🇺❌. Controlla subito se il tuo iPhone è compatibile: se sì, puoi cambiare l’App Store in quello americano e riavviare per sbloccare tutto? 📱🌍🔓"
+    }
+  },
+  "instagram_caption": "Apple ha appena integrato l’intelligenza artificiale di Google direttamente in Siri, ma il rollout parte solo dagli Stati Uniti. Se non sei lì, la maggior parte delle funzioni nuove non le vedrai. Il problema non è la lingua: dipende da accordi normativi e infrastrutture locali. Per chi lavora con traduzioni, assistenza clienti o automazione, questo significa niente aggiornamenti reali in Europa o Asia 🇪🇺❌. Controlla subito se il tuo iPhone è compatibile: se sì, puoi cambiare l’App Store in quello americano e riavviare per sbloccare tutto? 📱🌍🔓",
+  "carousel_slides": [
+    {
+      "hook": "Siri smart solo per pochi",
+      "description": "Il nuovo Siri con Gemini sarà globale, ma molti paesi rimangono esclusi. Ancora una volta, l'AI arriva solo per pochi.",
+      "visual_hint": "Mappa mondo con aree grigie",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "world map gray"
+    },
+    {
+      "hook": "Google dentro Siri",
+      "description": "Apple ha integrato il modello Google direttamente nel sistema. Siri ora può fare cose che prima non riusciva nemmeno a immaginare.",
+      "visual_hint": "Logo Gemini dentro mela iPhone",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "iphone screen logo",
+      "image": "https://images.pexels.com/photos/3850204/pexels-photo-3850204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Europa e Asia escluse",
+      "description": "Il rollout è partito solo in USA. Se vivi in Europa o Asia, la maggior parte delle funzioni non le vedrai.",
+      "visual_hint": "Mappa USA accesa, altri spenti",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "usa map glowing",
+      "image": "https://images.pexels.com/photos/20240697/pexels-photo-20240697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non è solo la lingua",
+      "description": "Dipendono da accordi normativi e infrastrutture locali. Il tuo Siri potrebbe restare quello di sempre.",
+      "visual_hint": "Documenti legali e server rack",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room documents",
+      "image": "https://images.pexels.com/photos/5408005/pexels-photo-5408005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Controlla subito il tuo iPhone",
+      "description": "Se compatibile e fuori USA, cambia App Store in americano e riavvia. Potresti sbloccare le funzioni.",
+      "visual_hint": "Dita che cambiano impostazioni store",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "iphone settings store",
+      "image": "https://images.pexels.com/photos/5076510/pexels-photo-5076510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/4406813/pexels-photo-4406813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-10T20:14:25.300Z",
+  "sourceId": "820a457e9e2393238a68268de07a7c9f"
+}

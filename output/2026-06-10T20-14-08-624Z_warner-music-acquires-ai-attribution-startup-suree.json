@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "warner-music-acquires-ai-attribution-startup-suree",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Warner Music acquires AI attribution startup Sureel AI",
+  "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+  "pubDate": "Wed, 10 Jun 2026 14:31:30 +0000",
+  "slides": [
+    "Warner Music compra Sureel AI: cosa cambierà davvero?",
+    "L'AI assegna crediti a ogni strumento nei brani.",
+    "Non solo cover: ora sa chi ha suonato cosa.",
+    "Artisti e produttori otterranno royalties più giuste.",
+    "Ascolta un brano e confronta i crediti generati."
+  ],
+  "thread_text": [
+    "Non solo cover. L’AI ora sa esattamente chi ha suonato cosa in un brano. E questo cambia tutto per chi riceve royalties. Ti spiego come funziona.",
+    "Warner Music ha appena comprato Sureel AI. Una tecnologia che analizza ogni traccia e assegna crediti strumento per strumento.",
+    "Fino a oggi, se suonavi la batteria su un pezzo, spesso finivi in un calderone di crediti vaghi. Nessun pagamento diretto.",
+    "Con questa AI, ogni contributo viene tracciato. Produttori, turnisti, autori: tutti ottengono la loro fetta esatta di royalty.",
+    "Vuoi vedere come funziona? Ascolta un brano su Spotify e controlla i crediti generati. Se non sono corretti, puoi contestarli. È già attivo."
+  ],
+  "video_script": [
+    "Immagina di suonare la batteria in un pezzo.",
+    "E non ricevere un centesimo perché nessuno sa che sei stato tu.",
+    "Warner ha comprato un’AI che risolve questo problema.",
+    "Analizza ogni strumento e assegna i crediti.",
+    "Ora i turnisti possono finalmente essere pagati."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Non solo cover. L’AI ora sa esattamente chi ha suonato cosa in un brano. E questo cambia tutto per chi riceve royalties. Ti spiego come funziona.",
+        "Warner Music ha appena comprato Sureel AI. Una tecnologia che analizza ogni traccia e assegna crediti strumento per strumento.",
+        "Fino a oggi, se suonavi la batteria su un pezzo, spesso finivi in un calderone di crediti vaghi. Nessun pagamento diretto.",
+        "Con questa AI, ogni contributo viene tracciato. Produttori, turnisti, autori: tutti ottengono la loro fetta esatta di royalty.",
+        "Vuoi vedere come funziona? Ascolta un brano su Spotify e controlla i crediti generati. Se non sono corretti, puoi contestarli. È già attivo."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Immagina di suonare la batteria in un pezzo.",
+        "E non ricevere un centesimo perché nessuno sa che sei stato tu.",
+        "Warner ha comprato un’AI che risolve questo problema.",
+        "Analizza ogni strumento e assegna i crediti.",
+        "Ora i turnisti possono finalmente essere pagati."
+      ]
+    },
+    "instagram": {
+      "caption": "La major Warner Music ha comprato Sureel AI, una tecnologia che sa chi ha suonato cosa in una canzone. 🎸Fino ad ora, se registravi la batteria o il basso per un artista, finivi in un calderone di crediti vaghi e nessun pagamento diretto. Questa AI analizza ogni traccia strumento per strumento e assegna crediti precisi, garantendo royalties più giuste a turnisti, produttori e autori. 🎯Per chi suona o produce: ora il tuo contributo sarà tracciato e pagato con esattezza, non più in modo anonimo. 🎵 Puoi già ascoltare un brano su Spotify e vedere i crediti generati — se sbagliano, li contesti."
+    }
+  },
+  "instagram_caption": "La major Warner Music ha comprato Sureel AI, una tecnologia che sa chi ha suonato cosa in una canzone. 🎸Fino ad ora, se registravi la batteria o il basso per un artista, finivi in un calderone di crediti vaghi e nessun pagamento diretto. Questa AI analizza ogni traccia strumento per strumento e assegna crediti precisi, garantendo royalties più giuste a turnisti, produttori e autori. 🎯Per chi suona o produce: ora il tuo contributo sarà tracciato e pagato con esattezza, non più in modo anonimo. 🎵 Puoi già ascoltare un brano su Spotify e vedere i crediti generati — se sbagliano, li contesti.",
+  "carousel_slides": [
+    {
+      "hook": "Nessun pagamento diretto.",
+      "description": "Fino a oggi, se suonavi la batteria, finivi in crediti vaghi. L'AI cambia tutto.",
+      "visual_hint": "nota musicale e ingranaggio",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room data"
+    },
+    {
+      "hook": "Ogni strumento tracciato.",
+      "description": "Warner Music compra Sureel AI. Analizza ogni traccia e assegna crediti strumento per strumento.",
+      "visual_hint": "batteria batterista studio",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "studio recording console",
+      "image": "https://images.pexels.com/photos/19452347/pexels-photo-19452347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ora chi ha suonato cosa.",
+      "description": "Non solo cover. L'AI ora sa esattamente chi ha suonato cosa e assegna crediti.",
+      "visual_hint": "pianoforte tasti e note",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "music headphones keyboard",
+      "image": "https://images.pexels.com/photos/19154247/pexels-photo-19154247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Royalties più giuste.",
+      "description": "Produttori, turnisti, autori: ogni contributo tracciato per la fetta esatta di royalty.",
+      "visual_hint": "mano che conta soldi",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "people crowd concert",
+      "image": "https://images.pexels.com/photos/26447525/pexels-photo-26447525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova su Spotify.",
+      "description": "Ascolta un brano e confronta i crediti generati. Se errati, puoi contestarli. Già attivo.",
+      "visual_hint": "smartphone con app aperta",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone screen music",
+      "image": "https://images.pexels.com/photos/10963855/pexels-photo-10963855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/warner-music.jpg?resize=1200,800",
+  "savedAt": "2026-06-10T20:14:55.985Z",
+  "sourceId": "dd830105df2eac28efd144946b1bde06"
+}

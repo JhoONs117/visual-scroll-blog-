@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "-ai-pilled-firms-spend-7-500-per-employee-each-mon",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+  "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+  "pubDate": "Wed, 10 Jun 2026 17:07:35 +0000",
+  "slides": [
+    "Aziende 'AI-pilled' spendono $7.500 al mese per dipendente in AI?",
+    "Questo investimento supera il 30% degli stipendi medi tecnici.",
+    "Ma il ROI reale rimane un mistero per la maggior parte.",
+    "Se non misuri i risultati, quei soldi potrebbero essere sprecati.",
+    "Oggi chiedi: cosa produce ogni dollaro di AI?"
+  ],
+  "thread_text": [
+    "Il ROI dell’AI resta un mistero per la maggior parte delle aziende. Se non misuri i risultati, quei soldi potrebbero essere sprecati.",
+    "Aziende 'AI-pilled' spendono 7.500 dollari al mese per dipendente in strumenti AI.",
+    "Questa cifra supera il 30% degli stipendi medi tecnici. Un costo che pesa, se non si vede il ritorno.",
+    "Il problema non è l’investimento, ma l’assenza di metriche chiare. Senza dati, ogni dollaro è un azzardo.",
+    "Oggi chiedi: cosa produce ogni dollaro di AI? Se non hai una risposta, forse è ora di fermarti e misurare."
+  ],
+  "video_script": [
+    "Il ROI dell'AI? Un mistero per molti.",
+    "Aziende spendono 7.500 euro al mese a testa.",
+    "Più del 30% degli stipendi tecnici.",
+    "Ma senza misurare, sono soldi buttati.",
+    "Chiediti: cosa produce ogni dollaro?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il ROI dell’AI resta un mistero per la maggior parte delle aziende. Se non misuri i risultati, quei soldi potrebbero essere sprecati.",
+        "Aziende 'AI-pilled' spendono 7.500 dollari al mese per dipendente in strumenti AI.",
+        "Questa cifra supera il 30% degli stipendi medi tecnici. Un costo che pesa, se non si vede il ritorno.",
+        "Il problema non è l’investimento, ma l’assenza di metriche chiare. Senza dati, ogni dollaro è un azzardo.",
+        "Oggi chiedi: cosa produce ogni dollaro di AI? Se non hai una risposta, forse è ora di fermarti e misurare."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Il ROI dell'AI? Un mistero per molti.",
+        "Aziende spendono 7.500 euro al mese a testa.",
+        "Più del 30% degli stipendi tecnici.",
+        "Ma senza misurare, sono soldi buttati.",
+        "Chiediti: cosa produce ogni dollaro?"
+      ]
+    },
+    "instagram": {
+      "caption": "Qualche azienda sta spendendo 7.500 dollari al mese per ogni dipendente in strumenti AI – più del 30% dello stipendio medio di un tecnico 💸. Il problema? Nessuno sa se quei soldi servono davvero a qualcosa. Molte imprese investono senza avere metriche chiare sul ritorno. Per chi lavora in questi settori, significa budget sottratti ad altre risorse – e stipendi futuri legati a risultati che non si vedono. Chiedete ai vostri capi: che cosa produce ogni dollaro speso in AI oggi?"
+    }
+  },
+  "instagram_caption": "Qualche azienda sta spendendo 7.500 dollari al mese per ogni dipendente in strumenti AI – più del 30% dello stipendio medio di un tecnico 💸. Il problema? Nessuno sa se quei soldi servono davvero a qualcosa. Molte imprese investono senza avere metriche chiare sul ritorno. Per chi lavora in questi settori, significa budget sottratti ad altre risorse – e stipendi futuri legati a risultati che non si vedono. Chiedete ai vostri capi: che cosa produce ogni dollaro speso in AI oggi?",
+  "carousel_slides": [
+    {
+      "hook": "Il ROI resta un mistero",
+      "description": "Il ROI dell’AI è sconosciuto per molte aziende. Senza misurare, i soldi potrebbero essere sprecati.",
+      "visual_hint": "Punto interrogativo gigante",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "question mark sign"
+    },
+    {
+      "hook": "7.500$ al mese per dipendente",
+      "description": "Aziende AI-pilled spendono 7.500 dollari al mese per dipendente in strumenti AI.",
+      "visual_hint": "Banconote che volano",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stack of dollars",
+      "image": "https://images.pexels.com/photos/6266699/pexels-photo-6266699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cifra supera il 30% degli stipendi",
+      "description": "Questa cifra supera il 30% degli stipendi medi tecnici. Un costo che pesa senza ritorno.",
+      "visual_hint": "Grafico a barre in salita",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "bar chart growth",
+      "image": "https://images.pexels.com/photos/5842061/pexels-photo-5842061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Assenza di metriche chiare",
+      "description": "Il problema non è l’investimento, ma l’assenza di metriche chiare. Senza dati, ogni dollaro è un azzardo.",
+      "visual_hint": "Lente d'ingrandimento su grafico",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass chart",
+      "image": "https://images.pexels.com/photos/7947661/pexels-photo-7947661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cosa produce ogni dollaro di AI?",
+      "description": "Se non hai risposta, fermati e misura. Oggi chiedi: cosa produce ogni dollaro di AI?",
+      "visual_hint": "Fermata con segnale stop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stop sign",
+      "image": "https://images.pexels.com/photos/25383838/pexels-photo-25383838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2253659638.jpg?resize=1200,1057",
+  "savedAt": "2026-06-10T20:14:39.671Z",
+  "sourceId": "7282240d4a4e20a0e77d5bd645be7b68"
+}

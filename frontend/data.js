@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "jedify-raises-24m-to-help-companies-arm-ai-agents-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+    "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+    "pubDate": "Wed, 10 Jun 2026 13:33:09 +0000",
+    "slides": [
+      "Jedify ottiene $24M: chi controllerà i tuoi AI agent?",
+      "Finanzia strumenti per dare contesto aziendale agli agenti autonomi.",
+      "Il vero ostacolo: agenti senza dati interni falliscono nel 70% dei casi.",
+      "Per te: integrare dati significa risparmiare ore di debugging manuale.",
+      "Prova un agente domani con il tuo database reale."
+    ],
+    "thread_text": [
+      "Il vero ostacolo degli AI agenti? Senza dati interni falliscono nel 70% dei casi.",
+      "Jedify ha appena raccolto 24 milioni per risolvere questo problema: dare contesto aziendale agli agenti autonomi.",
+      "Il risultato? Meno debugging manuale, più ore risparmiate per il tuo team.",
+      "Non serve aspettare. Puoi testare un agente domani, direttamente sul tuo database reale.",
+      "Costa meno di un abbonamento Spotify. Prova questa settimana."
+    ],
+    "video_script": [
+      "Gli AI agenti falliscono senza dati interni.",
+      "Jedify ha raccolto 24 milioni per risolverlo.",
+      "Integrare dati salva ore di debugging.",
+      "Prova un agente già domani.",
+      "Costa meno di Spotify."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Il vero ostacolo degli AI agenti? Senza dati interni falliscono nel 70% dei casi.",
+          "Jedify ha appena raccolto 24 milioni per risolvere questo problema: dare contesto aziendale agli agenti autonomi.",
+          "Il risultato? Meno debugging manuale, più ore risparmiate per il tuo team.",
+          "Non serve aspettare. Puoi testare un agente domani, direttamente sul tuo database reale.",
+          "Costa meno di un abbonamento Spotify. Prova questa settimana."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Gli AI agenti falliscono senza dati interni.",
+          "Jedify ha raccolto 24 milioni per risolverlo.",
+          "Integrare dati salva ore di debugging.",
+          "Prova un agente già domani.",
+          "Costa meno di Spotify."
+        ]
+      },
+      "instagram": {
+        "caption": "Il 70% degli agenti AI fallisce se non ha accesso ai dati interni della tua azienda.  \nJedify ha appena raccolto 24 milioni di dollari per risolvere questo buco nero: dare agli agenti autonomi il contesto reale su clienti, magazzino e vendite. ✨  \nPer te significa niente più ore a correggere manualmente risposte errate — e un agente che sa davvero cosa fare.  \nLo testi domani sul tuo database reale? 💡"
+      }
+    },
+    "instagram_caption": "Il 70% degli agenti AI fallisce se non ha accesso ai dati interni della tua azienda.  \nJedify ha appena raccolto 24 milioni di dollari per risolvere questo buco nero: dare agli agenti autonomi il contesto reale su clienti, magazzino e vendite. ✨  \nPer te significa niente più ore a correggere manualmente risposte errate — e un agente che sa davvero cosa fare.  \nLo testi domani sul tuo database reale? 💡",
+    "carousel_slides": [
+      {
+        "hook": "Chi controllerà i tuoi AI agenti?",
+        "description": "Il vero ostacolo: senza dati interni falliscono nel 70% dei casi.",
+        "visual_hint": "Agente robot confuso su grafico",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot confused chart"
+      },
+      {
+        "hook": "$24M per dare contesto agli agenti",
+        "description": "Jedify raccoglie 24 milioni per risolvere il problema: contesto aziendale agli agenti autonomi.",
+        "visual_hint": "Mucchio di monete d'oro",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "gold coins pile",
+        "image": "https://images.pexels.com/photos/7080498/pexels-photo-7080498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Agenti senza dati? Fallimento certo",
+        "description": "Senza dati interni falliscono nel 70% dei casi. Meno debugging, più ore risparmiate.",
+        "visual_hint": "Grafico a barre decrescente",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "bar chart decreasing",
+        "image": "https://images.pexels.com/photos/7947748/pexels-photo-7947748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova un agente sul tuo database reale",
+        "description": "Non serve aspettare. Testa un agente domani sul tuo database reale, risparmia ore.",
+        "visual_hint": "Mano che clicca su schermo database",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand clicking database screen",
+        "image": "https://images.pexels.com/photos/5076510/pexels-photo-5076510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costa meno di un abbonamento Spotify",
+        "description": "Costa meno di un abbonamento Spotify. Prova questa settimana.",
+        "visual_hint": "Icona Spotify con segno di spunta verde",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "green checkmark icon",
+        "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Jedify-Co-founders.jpg?resize=1200,800",
+    "savedAt": "2026-06-10T20:15:09.789Z",
+    "sourceId": "761f8930559991ab5c072e80516493e4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "warner-music-acquires-ai-attribution-startup-suree",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Warner Music acquires AI attribution startup Sureel AI",
+    "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+    "pubDate": "Wed, 10 Jun 2026 14:31:30 +0000",
+    "slides": [
+      "Warner Music compra Sureel AI: cosa cambierà davvero?",
+      "L'AI assegna crediti a ogni strumento nei brani.",
+      "Non solo cover: ora sa chi ha suonato cosa.",
+      "Artisti e produttori otterranno royalties più giuste.",
+      "Ascolta un brano e confronta i crediti generati."
+    ],
+    "thread_text": [
+      "Non solo cover. L’AI ora sa esattamente chi ha suonato cosa in un brano. E questo cambia tutto per chi riceve royalties. Ti spiego come funziona.",
+      "Warner Music ha appena comprato Sureel AI. Una tecnologia che analizza ogni traccia e assegna crediti strumento per strumento.",
+      "Fino a oggi, se suonavi la batteria su un pezzo, spesso finivi in un calderone di crediti vaghi. Nessun pagamento diretto.",
+      "Con questa AI, ogni contributo viene tracciato. Produttori, turnisti, autori: tutti ottengono la loro fetta esatta di royalty.",
+      "Vuoi vedere come funziona? Ascolta un brano su Spotify e controlla i crediti generati. Se non sono corretti, puoi contestarli. È già attivo."
+    ],
+    "video_script": [
+      "Immagina di suonare la batteria in un pezzo.",
+      "E non ricevere un centesimo perché nessuno sa che sei stato tu.",
+      "Warner ha comprato un’AI che risolve questo problema.",
+      "Analizza ogni strumento e assegna i crediti.",
+      "Ora i turnisti possono finalmente essere pagati."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Non solo cover. L’AI ora sa esattamente chi ha suonato cosa in un brano. E questo cambia tutto per chi riceve royalties. Ti spiego come funziona.",
+          "Warner Music ha appena comprato Sureel AI. Una tecnologia che analizza ogni traccia e assegna crediti strumento per strumento.",
+          "Fino a oggi, se suonavi la batteria su un pezzo, spesso finivi in un calderone di crediti vaghi. Nessun pagamento diretto.",
+          "Con questa AI, ogni contributo viene tracciato. Produttori, turnisti, autori: tutti ottengono la loro fetta esatta di royalty.",
+          "Vuoi vedere come funziona? Ascolta un brano su Spotify e controlla i crediti generati. Se non sono corretti, puoi contestarli. È già attivo."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Immagina di suonare la batteria in un pezzo.",
+          "E non ricevere un centesimo perché nessuno sa che sei stato tu.",
+          "Warner ha comprato un’AI che risolve questo problema.",
+          "Analizza ogni strumento e assegna i crediti.",
+          "Ora i turnisti possono finalmente essere pagati."
+        ]
+      },
+      "instagram": {
+        "caption": "La major Warner Music ha comprato Sureel AI, una tecnologia che sa chi ha suonato cosa in una canzone. 🎸Fino ad ora, se registravi la batteria o il basso per un artista, finivi in un calderone di crediti vaghi e nessun pagamento diretto. Questa AI analizza ogni traccia strumento per strumento e assegna crediti precisi, garantendo royalties più giuste a turnisti, produttori e autori. 🎯Per chi suona o produce: ora il tuo contributo sarà tracciato e pagato con esattezza, non più in modo anonimo. 🎵 Puoi già ascoltare un brano su Spotify e vedere i crediti generati — se sbagliano, li contesti."
+      }
+    },
+    "instagram_caption": "La major Warner Music ha comprato Sureel AI, una tecnologia che sa chi ha suonato cosa in una canzone. 🎸Fino ad ora, se registravi la batteria o il basso per un artista, finivi in un calderone di crediti vaghi e nessun pagamento diretto. Questa AI analizza ogni traccia strumento per strumento e assegna crediti precisi, garantendo royalties più giuste a turnisti, produttori e autori. 🎯Per chi suona o produce: ora il tuo contributo sarà tracciato e pagato con esattezza, non più in modo anonimo. 🎵 Puoi già ascoltare un brano su Spotify e vedere i crediti generati — se sbagliano, li contesti.",
+    "carousel_slides": [
+      {
+        "hook": "Nessun pagamento diretto.",
+        "description": "Fino a oggi, se suonavi la batteria, finivi in crediti vaghi. L'AI cambia tutto.",
+        "visual_hint": "nota musicale e ingranaggio",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room data"
+      },
+      {
+        "hook": "Ogni strumento tracciato.",
+        "description": "Warner Music compra Sureel AI. Analizza ogni traccia e assegna crediti strumento per strumento.",
+        "visual_hint": "batteria batterista studio",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "studio recording console",
+        "image": "https://images.pexels.com/photos/19452347/pexels-photo-19452347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ora chi ha suonato cosa.",
+        "description": "Non solo cover. L'AI ora sa esattamente chi ha suonato cosa e assegna crediti.",
+        "visual_hint": "pianoforte tasti e note",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "music headphones keyboard",
+        "image": "https://images.pexels.com/photos/19154247/pexels-photo-19154247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Royalties più giuste.",
+        "description": "Produttori, turnisti, autori: ogni contributo tracciato per la fetta esatta di royalty.",
+        "visual_hint": "mano che conta soldi",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "people crowd concert",
+        "image": "https://images.pexels.com/photos/26447525/pexels-photo-26447525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova su Spotify.",
+        "description": "Ascolta un brano e confronta i crediti generati. Se errati, puoi contestarli. Già attivo.",
+        "visual_hint": "smartphone con app aperta",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "smartphone screen music",
+        "image": "https://images.pexels.com/photos/10963855/pexels-photo-10963855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/warner-music.jpg?resize=1200,800",
+    "savedAt": "2026-06-10T20:14:55.985Z",
+    "sourceId": "dd830105df2eac28efd144946b1bde06"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "-ai-pilled-firms-spend-7-500-per-employee-each-mon",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+    "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+    "pubDate": "Wed, 10 Jun 2026 17:07:35 +0000",
+    "slides": [
+      "Aziende 'AI-pilled' spendono $7.500 al mese per dipendente in AI?",
+      "Questo investimento supera il 30% degli stipendi medi tecnici.",
+      "Ma il ROI reale rimane un mistero per la maggior parte.",
+      "Se non misuri i risultati, quei soldi potrebbero essere sprecati.",
+      "Oggi chiedi: cosa produce ogni dollaro di AI?"
+    ],
+    "thread_text": [
+      "Il ROI dell’AI resta un mistero per la maggior parte delle aziende. Se non misuri i risultati, quei soldi potrebbero essere sprecati.",
+      "Aziende 'AI-pilled' spendono 7.500 dollari al mese per dipendente in strumenti AI.",
+      "Questa cifra supera il 30% degli stipendi medi tecnici. Un costo che pesa, se non si vede il ritorno.",
+      "Il problema non è l’investimento, ma l’assenza di metriche chiare. Senza dati, ogni dollaro è un azzardo.",
+      "Oggi chiedi: cosa produce ogni dollaro di AI? Se non hai una risposta, forse è ora di fermarti e misurare."
+    ],
+    "video_script": [
+      "Il ROI dell'AI? Un mistero per molti.",
+      "Aziende spendono 7.500 euro al mese a testa.",
+      "Più del 30% degli stipendi tecnici.",
+      "Ma senza misurare, sono soldi buttati.",
+      "Chiediti: cosa produce ogni dollaro?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Il ROI dell’AI resta un mistero per la maggior parte delle aziende. Se non misuri i risultati, quei soldi potrebbero essere sprecati.",
+          "Aziende 'AI-pilled' spendono 7.500 dollari al mese per dipendente in strumenti AI.",
+          "Questa cifra supera il 30% degli stipendi medi tecnici. Un costo che pesa, se non si vede il ritorno.",
+          "Il problema non è l’investimento, ma l’assenza di metriche chiare. Senza dati, ogni dollaro è un azzardo.",
+          "Oggi chiedi: cosa produce ogni dollaro di AI? Se non hai una risposta, forse è ora di fermarti e misurare."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Il ROI dell'AI? Un mistero per molti.",
+          "Aziende spendono 7.500 euro al mese a testa.",
+          "Più del 30% degli stipendi tecnici.",
+          "Ma senza misurare, sono soldi buttati.",
+          "Chiediti: cosa produce ogni dollaro?"
+        ]
+      },
+      "instagram": {
+        "caption": "Qualche azienda sta spendendo 7.500 dollari al mese per ogni dipendente in strumenti AI – più del 30% dello stipendio medio di un tecnico 💸. Il problema? Nessuno sa se quei soldi servono davvero a qualcosa. Molte imprese investono senza avere metriche chiare sul ritorno. Per chi lavora in questi settori, significa budget sottratti ad altre risorse – e stipendi futuri legati a risultati che non si vedono. Chiedete ai vostri capi: che cosa produce ogni dollaro speso in AI oggi?"
+      }
+    },
+    "instagram_caption": "Qualche azienda sta spendendo 7.500 dollari al mese per ogni dipendente in strumenti AI – più del 30% dello stipendio medio di un tecnico 💸. Il problema? Nessuno sa se quei soldi servono davvero a qualcosa. Molte imprese investono senza avere metriche chiare sul ritorno. Per chi lavora in questi settori, significa budget sottratti ad altre risorse – e stipendi futuri legati a risultati che non si vedono. Chiedete ai vostri capi: che cosa produce ogni dollaro speso in AI oggi?",
+    "carousel_slides": [
+      {
+        "hook": "Il ROI resta un mistero",
+        "description": "Il ROI dell’AI è sconosciuto per molte aziende. Senza misurare, i soldi potrebbero essere sprecati.",
+        "visual_hint": "Punto interrogativo gigante",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "question mark sign"
+      },
+      {
+        "hook": "7.500$ al mese per dipendente",
+        "description": "Aziende AI-pilled spendono 7.500 dollari al mese per dipendente in strumenti AI.",
+        "visual_hint": "Banconote che volano",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stack of dollars",
+        "image": "https://images.pexels.com/photos/6266699/pexels-photo-6266699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cifra supera il 30% degli stipendi",
+        "description": "Questa cifra supera il 30% degli stipendi medi tecnici. Un costo che pesa senza ritorno.",
+        "visual_hint": "Grafico a barre in salita",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "bar chart growth",
+        "image": "https://images.pexels.com/photos/5842061/pexels-photo-5842061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Assenza di metriche chiare",
+        "description": "Il problema non è l’investimento, ma l’assenza di metriche chiare. Senza dati, ogni dollaro è un azzardo.",
+        "visual_hint": "Lente d'ingrandimento su grafico",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "magnifying glass chart",
+        "image": "https://images.pexels.com/photos/7947661/pexels-photo-7947661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cosa produce ogni dollaro di AI?",
+        "description": "Se non hai risposta, fermati e misura. Oggi chiedi: cosa produce ogni dollaro di AI?",
+        "visual_hint": "Fermata con segnale stop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stop sign",
+        "image": "https://images.pexels.com/photos/25383838/pexels-photo-25383838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2253659638.jpg?resize=1200,1057",
+    "savedAt": "2026-06-10T20:14:39.671Z",
+    "sourceId": "7282240d4a4e20a0e77d5bd645be7b68"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "siri-ai-arrives-with-google-inside-and-much-of-the",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Siri AI arrives with Google inside, and much of the world is locked out",
+    "link": "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/",
+    "pubDate": "Wed, 10 Jun 2026 11:00:00 +0000",
+    "slides": [
+      "Siri si aggiorna con Google, ma chi potrà usarla?",
+      "Apple integra intelligenza artificiale di Google Gemini",
+      "Il lancio è globale, ma molti paesi esclusi",
+      "Se sei fuori dagli USA, la scelta è limitata",
+      "Controlla subito se il tuo dispositivo è compatibile"
+    ],
+    "thread_text": [
+      "Il nuovo Siri con Gemini sarà globale, ma molti paesi rimangono esclusi. Ancora una volta, l’AI arriva solo per pochi.",
+      "Apple ha integrato il modello di Google direttamente nel sistema. Siri ora può fare cose che prima non riusciva nemmeno a immaginare.",
+      "Il problema è che il rollout è partito solo in USA. Se vivi in Europa o Asia, la maggior parte delle funzioni non le vedrai.",
+      "Non è solo questione di lingua: dipende da accordi normativi e infrastrutture locali. Il tuo Siri potrebbe restare quello di sempre.",
+      "Controlla subito se il tuo iPhone è compatibile. Se lo è e sei fuori dagli USA, cambia l'App Store in quello americano e riavvia."
+    ],
+    "video_script": [
+      "Siri si aggiorna con l'AI di Google.",
+      "Ma non per tutti.",
+      "Il lancio è globale, tanti paesi esclusi.",
+      "Fuori dagli USA le funzioni sono poche.",
+      "Controlla subito la compatibilità del tuo dispositivo."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Il nuovo Siri con Gemini sarà globale, ma molti paesi rimangono esclusi. Ancora una volta, l’AI arriva solo per pochi.",
+          "Apple ha integrato il modello di Google direttamente nel sistema. Siri ora può fare cose che prima non riusciva nemmeno a immaginare.",
+          "Il problema è che il rollout è partito solo in USA. Se vivi in Europa o Asia, la maggior parte delle funzioni non le vedrai.",
+          "Non è solo questione di lingua: dipende da accordi normativi e infrastrutture locali. Il tuo Siri potrebbe restare quello di sempre.",
+          "Controlla subito se il tuo iPhone è compatibile. Se lo è e sei fuori dagli USA, cambia l'App Store in quello americano e riavvia."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Siri si aggiorna con l'AI di Google.",
+          "Ma non per tutti.",
+          "Il lancio è globale, tanti paesi esclusi.",
+          "Fuori dagli USA le funzioni sono poche.",
+          "Controlla subito la compatibilità del tuo dispositivo."
+        ]
+      },
+      "instagram": {
+        "caption": "Apple ha appena integrato l’intelligenza artificiale di Google direttamente in Siri, ma il rollout parte solo dagli Stati Uniti. Se non sei lì, la maggior parte delle funzioni nuove non le vedrai. Il problema non è la lingua: dipende da accordi normativi e infrastrutture locali. Per chi lavora con traduzioni, assistenza clienti o automazione, questo significa niente aggiornamenti reali in Europa o Asia 🇪🇺❌. Controlla subito se il tuo iPhone è compatibile: se sì, puoi cambiare l’App Store in quello americano e riavviare per sbloccare tutto? 📱🌍🔓"
+      }
+    },
+    "instagram_caption": "Apple ha appena integrato l’intelligenza artificiale di Google direttamente in Siri, ma il rollout parte solo dagli Stati Uniti. Se non sei lì, la maggior parte delle funzioni nuove non le vedrai. Il problema non è la lingua: dipende da accordi normativi e infrastrutture locali. Per chi lavora con traduzioni, assistenza clienti o automazione, questo significa niente aggiornamenti reali in Europa o Asia 🇪🇺❌. Controlla subito se il tuo iPhone è compatibile: se sì, puoi cambiare l’App Store in quello americano e riavviare per sbloccare tutto? 📱🌍🔓",
+    "carousel_slides": [
+      {
+        "hook": "Siri smart solo per pochi",
+        "description": "Il nuovo Siri con Gemini sarà globale, ma molti paesi rimangono esclusi. Ancora una volta, l'AI arriva solo per pochi.",
+        "visual_hint": "Mappa mondo con aree grigie",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "world map gray"
+      },
+      {
+        "hook": "Google dentro Siri",
+        "description": "Apple ha integrato il modello Google direttamente nel sistema. Siri ora può fare cose che prima non riusciva nemmeno a immaginare.",
+        "visual_hint": "Logo Gemini dentro mela iPhone",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "iphone screen logo",
+        "image": "https://images.pexels.com/photos/3850204/pexels-photo-3850204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Europa e Asia escluse",
+        "description": "Il rollout è partito solo in USA. Se vivi in Europa o Asia, la maggior parte delle funzioni non le vedrai.",
+        "visual_hint": "Mappa USA accesa, altri spenti",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "usa map glowing",
+        "image": "https://images.pexels.com/photos/20240697/pexels-photo-20240697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non è solo la lingua",
+        "description": "Dipendono da accordi normativi e infrastrutture locali. Il tuo Siri potrebbe restare quello di sempre.",
+        "visual_hint": "Documenti legali e server rack",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "server room documents",
+        "image": "https://images.pexels.com/photos/5408005/pexels-photo-5408005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Controlla subito il tuo iPhone",
+        "description": "Se compatibile e fuori USA, cambia App Store in americano e riavvia. Potresti sbloccare le funzioni.",
+        "visual_hint": "Dita che cambiano impostazioni store",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "iphone settings store",
+        "image": "https://images.pexels.com/photos/5076510/pexels-photo-5076510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/4406813/pexels-photo-4406813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-10T20:14:25.300Z",
+    "sourceId": "820a457e9e2393238a68268de07a7c9f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "datadog-veterans-launch-ai-coding-startup-niteshif",
     "prompt_version": "1.0.0",
     "status": "published",

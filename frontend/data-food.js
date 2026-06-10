@@ -2,6 +2,228 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "polpette-di-pollo-in-umido",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Polpette di pollo in umido",
+    "link": "https://ricette.giallozafferano.it/Polpette-di-pollo-in-umido.html",
+    "pubDate": "Wed, 10 Jun 2026 15:35:00 +0200",
+    "content": "Polpette di pollo in umido con patate e piselli: morbidissime Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Top Blogger TOP BLOGGER Secondi piatti Polpette di pollo in umido /5 Ricetta proposta da Gessica Runcio CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Difficoltà: Facile Preparazione: 30 min Cottura: 50 min Dosi per: 4 persone Costo: Basso PRESENTAZIONE Le polpette di pollo in umido con carote, patate e piselli sono una succulenta variante della classica ricetta delle polpette al sugo della nonna , un intramontabile comfort food che mette d'accordo tutta la famiglia. In questa versione, le polpette di pollo si uniscono a un ricco contorno di verdure, trasformandosi in un piatto unico completo, colorato e profumatissimo. Ma il vero segreto per un risultato da manuale risiede in due piccoli trucchi: un goccio di latte nell'impasto, che garantisce una consistenza straordinariamente morbida, e una cottura lenta con l'aggiunta di concentrato di pomodoro. Queste appetitose polpette di pollo in umido sono un ottimo secondo piatto salvacena per la tavola di tutti i giorni, perfetto per fare la scarpetta con una fetta di pane casereccio o da infilare nella schiscetta per l'ufficio! Scoprite qui altre deliziose ricette di polpette di pollo fatte in casa: Polpette di pollo in vasocottura Polpette di pollo all'arancia Polpette di pollo fritte con caviale e tartufo Scopri anche Polpette di pollo in vasocottura Polpette di pollo all'arancia Polpette di pollo Sfoglia tutte INGREDIENTI per circa 16 polpette Macinato di pollo 350 g Uova medie 2 Pangrattato 80 g Grana Padano DOP 30 g Latte intero 30 g Aglio 1 spicchio Prezzemolo 10 g Sale fino q.b. Farina 00 q.b. Per la cottura Patate 500 g Carote 200 g Pisellini 150 g Cipolle bianche 40 g Concentrato di pomodoro 30 g Acqua (o brodo) 500 g Olio extravergine d'oliva q.b. Sale fino q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare le Polpette di pollo in umido Per preparare le polpette di pollo in umido, versate in una ciotola il macinato di pollo, le uova intere 1 , il prezzemolo tritato e il pangrattato 3 . Aggiungete il Grana Padano grattugiato 4 , il sale e lo spicchio d'aglio grattugiato (o tritato) 5 . Impastate con le mani fino a ottenere un composto compatto e omogeneo 6 . Unite anche il latte 7 e amalgamate ancora. Ora prelevate circa 35-40 g di impasto per volta e modellatelo con i palmi delle mani per formare delle polpette grandi come una noce; con queste dosi ne otterrete circa 16 8 . Passate le polpette nella farina, scuotendo quella in eccesso 9 . Passate al resto degli ingredienti: pelate le patate e tagliatele a tocchetti di 2-3 cm 10 , poi fate la stessa cosa con le carote 11 . Infine tritate la cipolla 12 . In una pentola dai bordi alti scaldate l'olio e adagiate le polpette infarinate 13 . Rosolate le polpette a fiamma vivace per un paio di minuti per lato, smuovendo la pentola per girarle delicatamente senza romperle 14 . Una volta dorate uniformemente, aggiungete la cipolla 15 . Unite anche i piselli 16 , le carote 17 e le patate 18 . Coprite con l'acqua 19 e insaporite con il concentrato di pomodoro 20 , mescolando delicatamente per farlo sciogliere. Salate e pepate 21 . Coprite con il coperchio e cuocete a fuoco dolce per circa 30 minuti 22 . Trascorso questo tempo, togliete il coperchio e proseguite la cottura ancora per una decina di minuti per far restringere leggermente il sugo 23 . Le vostre polpette in umido sono pronte per essere servite 24 ! Conservazione Le polpette di pollo in umido si conservano in frigorifero, all'interno di un contenitore ermetico, per un massimo di 2 giorni. Si possono congelare. Consiglio Se desiderate, potete aggiungere un rametto di rosmarino durante la cottura. Al posto dell'acqua potete usare anche il brodo vegetale, o di pollo, per un sapore ancora più ricco! Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Pomodoro Patate Aglio Latte Olio di oliva Uovo Prezzemolo Cipolla Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Polpette di pollo in vasocottura 5 4.9 Polpette di pollo all'arancia 13 4.3 Polpette di pollo 31 4.3 Polpette tricolore 1 3.3 Polpette di pollo fritte con caviale e tartufo 1 2.3 Polpette di tacchino al limone 4 4.8 Pollo teriyaki 2 4.7 Pollo ai peperoni alla romana 4.3 ULTIME RICETTE Risotto con crema di piselli, taleggio e pancetta 5.0 Polpette di pollo in umido 5.0 Tempeh glassato con verdure e salsa bordolese 5.0 SCOPRI Polpette in umido Pollo in umido Polpette di pollo Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Polpette di pollo morbidissime con patate e piselli.",
+      "Macinato di pollo, uova, pangrattato, Grana Padano, latte.",
+      "Impasta pollo, uova, pangrattato, Grana, aglio e latte.",
+      "Rosola polpette infarinate, unisci verdure e acqua e cuoci.",
+      "Aggiungi un rametto di rosmarino durante la cottura."
+    ],
+    "instagram_caption": "Polpette di pollo così tenere che si sciolgono in bocca: un abbraccio in umido che sa di casa 🧡. Macinato di pollo, patate dolcissime e piselli si incontrano in un sugo cremoso, profumato al rosmarino. Basta rosolarle appena infarinate, unire le verdure, acqua e lasciare che il tempo faccia magia. Il segreto? L’impasto morbido con latte e Grana, per un risultato che profuma di domenica. 🥣✨ Provala questo weekend e portali in tavola 🌿",
+    "formats": {
+      "instagram": {
+        "caption": "Polpette di pollo così tenere che si sciolgono in bocca: un abbraccio in umido che sa di casa 🧡. Macinato di pollo, patate dolcissime e piselli si incontrano in un sugo cremoso, profumato al rosmarino. Basta rosolarle appena infarinate, unire le verdure, acqua e lasciare che il tempo faccia magia. Il segreto? L’impasto morbido con latte e Grana, per un risultato che profuma di domenica. 🥣✨ Provala questo weekend e portali in tavola 🌿"
+      },
+      "tiktok": {
+        "script": [
+          "Polpette di pollo morbidissime con patate e piselli.",
+          "Prendo pollo, uova, pangrattato, Grana e latte.",
+          "Impasto tutto con aglio, si forma un composto.",
+          "Rosolo le polpette, aggiungo verdure e acqua.",
+          "Metto rosmarino e lascio cuocere in umido."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Polpette di pollo in umido: un abbraccio che sa di casa. Morbide, sugose, con patate e piselli che si sciolgono in bocca. 🥘",
+          "Per le polpette: macinato di pollo, uova, pangrattato, Grana Padano, aglio e un goccio di latte. Impasta tutto a mano fino a ottenere un composto morbido.",
+          "Infarina ogni polpetta e rosolala in padella fino a doratura. Poi aggiungi patate a dadini e piselli freschi, copri con acqua. 🥄",
+          "Metti un rametto di rosmarino direttamente nel sugo: fa la differenza. Cuoci a fuoco dolce coperto per 20-25 minuti, fino a quando le patate sono tenere.",
+          "Il trucco: un filo d'olio a crudo prima di servire esalta tutto. Provala e fammi sapere com'è venuta 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Polpette di pollo morbidissime con patate e piselli.",
+      "Prendo pollo, uova, pangrattato, Grana e latte.",
+      "Impasto tutto con aglio, si forma un composto.",
+      "Rosolo le polpette, aggiungo verdure e acqua.",
+      "Metto rosmarino e lascio cuocere in umido."
+    ],
+    "thread_text": [
+      "Polpette di pollo in umido: un abbraccio che sa di casa. Morbide, sugose, con patate e piselli che si sciolgono in bocca. 🥘",
+      "Per le polpette: macinato di pollo, uova, pangrattato, Grana Padano, aglio e un goccio di latte. Impasta tutto a mano fino a ottenere un composto morbido.",
+      "Infarina ogni polpetta e rosolala in padella fino a doratura. Poi aggiungi patate a dadini e piselli freschi, copri con acqua. 🥄",
+      "Metti un rametto di rosmarino direttamente nel sugo: fa la differenza. Cuoci a fuoco dolce coperto per 20-25 minuti, fino a quando le patate sono tenere.",
+      "Il trucco: un filo d'olio a crudo prima di servire esalta tutto. Provala e fammi sapere com'è venuta 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Polpette di pollo morbidissime",
+        "description": "Polpette di pollo tenere con patate e piselli: un secondo piatto confortevole e saporito.",
+        "visual_hint": "Polpette in tegame con verdure",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory chicken meatballs"
+      },
+      {
+        "hook": "Gli ingredienti giusti",
+        "description": "Macinato di pollo, uova, pangrattato, Grana Padano e latte per polpette morbidissime.",
+        "visual_hint": "Ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory chicken meatballs",
+        "image": "https://images.pexels.com/photos/30335662/pexels-photo-30335662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Impasta con amore",
+        "description": "Mescola pollo, uova, pangrattato, Grana, aglio e latte fino a ottenere un composto omogeneo.",
+        "visual_hint": "Mani che impastano",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory chicken meatballs",
+        "image": "https://images.pexels.com/photos/30335662/pexels-photo-30335662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rosola e unisci",
+        "description": "Rosola le polpette infarinate, aggiungi patate, piselli e acqua: cuoci finché sono tenere.",
+        "visual_hint": "Polpette in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory chicken meatballs",
+        "image": "https://images.pexels.com/photos/30335662/pexels-photo-30335662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tocco finale",
+        "description": "Aggiungi un rametto di rosmarino durante la cottura per un aroma irresistibile.",
+        "visual_hint": "Rosmarino sul piatto servito",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory chicken meatballs",
+        "image": "https://images.pexels.com/photos/30335662/pexels-photo-30335662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "meat",
+    "signature_ingredients": [
+      "pollo macinato",
+      "grana padano",
+      "rosmarino"
+    ],
+    "image": "https://www.giallozafferano.it/images/362-36280/Polpette-di-pollo-in-umido_650x433_wm.jpg",
+    "savedAt": "2026-06-10T20:23:28.728Z",
+    "sourceId": "6534000acb30bda85c347c873647a896"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
+    "slug": "risotto-con-crema-di-piselli-taleggio-e-pancetta",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Risotto con crema di piselli, taleggio e pancetta",
+    "link": "https://ricette.giallozafferano.it/Risotto-con-crema-di-piselli-taleggio-e-pancetta.html",
+    "pubDate": "Wed, 10 Jun 2026 16:40:00 +0200",
+    "content": "Risotto con crema di piselli, taleggio e pancetta: cremoso e saporito Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Primi piatti Riso e Cereali Risotto con crema di piselli, taleggio e pancetta /5 Ricetta proposta da Lulù Gargari CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Difficoltà: Facile Preparazione: 20 min Cottura: 30 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Il risotto con crema di piselli, taleggio e pancetta è un primo piatto avvolgente e di grande effetto, che appagherà i vostri ospiti fin dalla prima forchettata. Nella nostra versione, i piselli si trasformano in una vellutata crema dal colore vivace, insaporita dal gusto intenso del tipico formaggio lombardo. La sapidità e la croccantezza della pancetta contrasta deliziosamente con la cremosità del risotto e con il tocco fondente del taleggio aggiunto anche in fase di mantecatura. Facile da preparare e realizzato con ingredienti semplici, il risotto con crema di piselli, taleggio e pancetta si distingue per il suo carattere raffinato e deciso al tempo stesso. Un equilibrio perfetto di sapori tutto da provare! Se vi è piaciuta questa ricetta, scoprite anche altre varianti di riso e piselli : Riso con pancetta e crema di piselli Risotto con piselli, pancetta e maggiorana Risotto con crema di piselli e guanciale Risotto piselli, crescenza e pancetta croccante Creamy Pea Risotto with Taleggio and Crispy Pancetta INGREDIENTI Riso Carnaroli 320 g Pisellini 300 g Taleggio 80 g Pancetta affumicata 150 g Brodo vegetale 1,2 l Vino bianco 80 g Sale fino q.b. Per mantecare Taleggio 100 g Parmigiano Reggiano DOP 80 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Risotto con crema di piselli, taleggio e pancetta Per realizzare il risotto con crema di piselli, taleggio e pancetta, per prima cosa preparate il brodo vegetale e tenetelo in caldo. Tagliate la pancetta a cubetti, mettetela in una casseruola 1 e rosolatela pancetta senza aggiungere altri grassi. Quando sarà croccante e dorata 2 , mettetela da parte e versate i piselli nella stessa casseruola 3 . Lasciateli insaporire per qualche minuto, bagnate con un mestolo di brodo caldo 4 e cuocete per una decina di minuti in totale, mescolando di tanto in tanto 5 . Trasferite i piselli nel bicchiere di un frullatore, poi aggiungete circa 80 g di taleggio, un altro mestolo di brodo caldo e frullate con un mixer a immersione 6 . Dovrete ottenere una crema liscia e vellutata 7 . Nella stessa casseruola versate il riso 8 e tostatelo a secco per circa 2 minuti, mescolando spesso. Sfumate con il vino bianco e lasciate evaporare completamente l'alcol 9 . A questo punto iniziate la cottura del riso bagnandolo con un mestolo di brodo caldo per volta 10 . Assicuratevi sempre che il liquido sia stato assorbito 11 prima di aggiungerne ancora. A metà cottura, aggiustate di sale a piacere e incorporate la crema di piselli e taleggio 12 . Finite di portare a cottura il riso, poi spegnete il fuoco. Unite 100 g di taleggio tagliato a pezzetti e il formaggio grattugiato 13 . Mantecate fino a ottenere un risotto cremoso e all’onda. Impiattate e completate con la pancetta croccante 14 . Il vostro risotto con crema di piselli, taleggio e pancetta è pronto per essere servito 15 ! Conservazione Consigliamo di consumare subito il risotto con crema di piselli, taleggio e pancetta. Consiglio Per una nota di freschezza, potete aromatizzare il risotto con della scorza di limone prima di servirlo! Iscriviti al canale WhatsApp e attiva le notifiche Presente in: Primi piatti sfiziosi , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Risotto con crema di piselli, taleggio e pancetta 5.0 Polpette di pollo in umido 5.0 Tempeh glassato con verdure e salsa bordolese 5.0 SCOPRI Risotto radicchio e taleggio Risotto zucca e taleggio Risotto piselli e pancetta Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Risotto cremoso con piselli, taleggio e pancetta croccante",
+      "Riso Carnaroli, piselli, taleggio, pancetta, parmigiano",
+      "Rosola la pancetta, poi tosta il riso",
+      "Sfuma col vino, unisci crema di piselli e cuoci",
+      "Manteca con taleggio e pancetta croccante in superficie"
+    ],
+    "instagram_caption": "Cremoso, profondo, avvolgente: questo risotto è un abbraccio invernale che scalda l’anima. 🌿\n\nSi parte dalla pancetta croccante, poi il riso Carnaroli tostato e sfumato col vino, cucinato lentamente con una vellutata crema di piselli. Il taleggio si scioglie nella mantecatura, regalando una consistenza setosa e un sapore deciso, mentre la pancetta croccante in superficie aggiunge quel contrasto perfetto.\n\nUn primo piatto che sa di casa, ma con un tocco di classe. Preparalo e fammi sapere! 🧀💚",
+    "formats": {
+      "instagram": {
+        "caption": "Cremoso, profondo, avvolgente: questo risotto è un abbraccio invernale che scalda l’anima. 🌿\n\nSi parte dalla pancetta croccante, poi il riso Carnaroli tostato e sfumato col vino, cucinato lentamente con una vellutata crema di piselli. Il taleggio si scioglie nella mantecatura, regalando una consistenza setosa e un sapore deciso, mentre la pancetta croccante in superficie aggiunge quel contrasto perfetto.\n\nUn primo piatto che sa di casa, ma con un tocco di classe. Preparalo e fammi sapere! 🧀💚"
+      },
+      "tiktok": {
+        "script": [
+          "Rosolo la pancetta fino a renderla croccante.",
+          "Tosto il riso nel fondo della pancetta.",
+          "Sfumo col vino e aggiungo la crema di piselli.",
+          "Cuocio il risotto e manteco col taleggio.",
+          "Impiatto e aggiungo la pancetta croccante sopra."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Un risotto che sa di primavera ma con un cuore goloso. Quando il taleggio incontra i piselli, la pancetta fa da ciliegina. Ti spiego come lo faccio io.",
+          "Riso Carnaroli, piselli, taleggio, pancetta e Parmigiano. I protagonisti giusti per un primo che non passa inosservato. Fresco ma avvolgente.",
+          "Rosola la pancetta fino a renderla croccante, poi tienila da parte. Nella stessa pentola tosta il riso: i chicchi devono diventare lucidi e profumati.",
+          "Sfuma con vino bianco, unisci la crema di piselli e cuoci aggiungendo brodo poco alla volta. Mescola sempre, la cremosità è tutto.",
+          "Manteca con taleggio a fuoco spento, impiatta e finisci con la pancetta croccante in superficie. Il contrasto è pazzesco. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Rosolo la pancetta fino a renderla croccante.",
+      "Tosto il riso nel fondo della pancetta.",
+      "Sfumo col vino e aggiungo la crema di piselli.",
+      "Cuocio il risotto e manteco col taleggio.",
+      "Impiatto e aggiungo la pancetta croccante sopra."
+    ],
+    "thread_text": [
+      "Un risotto che sa di primavera ma con un cuore goloso. Quando il taleggio incontra i piselli, la pancetta fa da ciliegina. Ti spiego come lo faccio io.",
+      "Riso Carnaroli, piselli, taleggio, pancetta e Parmigiano. I protagonisti giusti per un primo che non passa inosservato. Fresco ma avvolgente.",
+      "Rosola la pancetta fino a renderla croccante, poi tienila da parte. Nella stessa pentola tosta il riso: i chicchi devono diventare lucidi e profumati.",
+      "Sfuma con vino bianco, unisci la crema di piselli e cuoci aggiungendo brodo poco alla volta. Mescola sempre, la cremosità è tutto.",
+      "Manteca con taleggio a fuoco spento, impiatta e finisci con la pancetta croccante in superficie. Il contrasto è pazzesco. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Risotto cremoso e croccante",
+        "description": "Un risotto avvolgente con crema di piselli, taleggio fuso e pancetta croccante. Perfetto per stupire.",
+        "visual_hint": "Piatto finito in primo piano",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory risotto bowl"
+      },
+      {
+        "hook": "4 ingredienti chiave",
+        "description": "Riso Carnaroli, piselli freschi, taleggio cremoso e pancetta croccante: il mix perfetto.",
+        "visual_hint": "Ingredienti disposti sul tavolo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory ingredients table",
+        "image": "https://images.pexels.com/photos/31126186/pexels-photo-31126186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rosola e tosta",
+        "description": "Rosola la pancetta fino a renderla croccante, poi tosta il riso nel suo grasso per più sapore.",
+        "visual_hint": "Padella con pancetta e riso",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory risotto toasting",
+        "image": "https://images.pexels.com/photos/24289215/pexels-photo-24289215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sfuma e unisci la crema",
+        "description": "Sfuma con vino bianco, aggiungi la crema di piselli e cuoci lentamente con brodo caldo.",
+        "visual_hint": "Versare vino nel risotto",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory risotto cooking",
+        "image": "https://images.pexels.com/photos/6544216/pexels-photo-6544216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Manteca e impiatta",
+        "description": "Manteca con taleggio, servi con pancetta croccante sopra. Cremoso e irresistibile.",
+        "visual_hint": "Impiattamento con pancetta",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory risotto plating",
+        "image": "https://images.pexels.com/photos/28559486/pexels-photo-28559486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "generic",
+    "signature_ingredients": [
+      "piselli",
+      "taleggio",
+      "pancetta"
+    ],
+    "image": "https://www.giallozafferano.it/images/362-36283/Risotto-con-crema-di-piselli-taleggio-e-pancetta_650x433_wm.jpg",
+    "savedAt": "2026-06-10T20:23:11.884Z",
+    "sourceId": "c0ec89b31d69f5fbf6b2b4033adf614f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "torta-alle-carote-con-crema-al-formaggio",
     "prompt_version": "1.0.0",
     "status": "published",

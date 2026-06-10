@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "jedify-raises-24m-to-help-companies-arm-ai-agents-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+  "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+  "pubDate": "Wed, 10 Jun 2026 13:33:09 +0000",
+  "slides": [
+    "Jedify ottiene $24M: chi controllerà i tuoi AI agent?",
+    "Finanzia strumenti per dare contesto aziendale agli agenti autonomi.",
+    "Il vero ostacolo: agenti senza dati interni falliscono nel 70% dei casi.",
+    "Per te: integrare dati significa risparmiare ore di debugging manuale.",
+    "Prova un agente domani con il tuo database reale."
+  ],
+  "thread_text": [
+    "Il vero ostacolo degli AI agenti? Senza dati interni falliscono nel 70% dei casi.",
+    "Jedify ha appena raccolto 24 milioni per risolvere questo problema: dare contesto aziendale agli agenti autonomi.",
+    "Il risultato? Meno debugging manuale, più ore risparmiate per il tuo team.",
+    "Non serve aspettare. Puoi testare un agente domani, direttamente sul tuo database reale.",
+    "Costa meno di un abbonamento Spotify. Prova questa settimana."
+  ],
+  "video_script": [
+    "Gli AI agenti falliscono senza dati interni.",
+    "Jedify ha raccolto 24 milioni per risolverlo.",
+    "Integrare dati salva ore di debugging.",
+    "Prova un agente già domani.",
+    "Costa meno di Spotify."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il vero ostacolo degli AI agenti? Senza dati interni falliscono nel 70% dei casi.",
+        "Jedify ha appena raccolto 24 milioni per risolvere questo problema: dare contesto aziendale agli agenti autonomi.",
+        "Il risultato? Meno debugging manuale, più ore risparmiate per il tuo team.",
+        "Non serve aspettare. Puoi testare un agente domani, direttamente sul tuo database reale.",
+        "Costa meno di un abbonamento Spotify. Prova questa settimana."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Gli AI agenti falliscono senza dati interni.",
+        "Jedify ha raccolto 24 milioni per risolverlo.",
+        "Integrare dati salva ore di debugging.",
+        "Prova un agente già domani.",
+        "Costa meno di Spotify."
+      ]
+    },
+    "instagram": {
+      "caption": "Il 70% degli agenti AI fallisce se non ha accesso ai dati interni della tua azienda.  \nJedify ha appena raccolto 24 milioni di dollari per risolvere questo buco nero: dare agli agenti autonomi il contesto reale su clienti, magazzino e vendite. ✨  \nPer te significa niente più ore a correggere manualmente risposte errate — e un agente che sa davvero cosa fare.  \nLo testi domani sul tuo database reale? 💡"
+    }
+  },
+  "instagram_caption": "Il 70% degli agenti AI fallisce se non ha accesso ai dati interni della tua azienda.  \nJedify ha appena raccolto 24 milioni di dollari per risolvere questo buco nero: dare agli agenti autonomi il contesto reale su clienti, magazzino e vendite. ✨  \nPer te significa niente più ore a correggere manualmente risposte errate — e un agente che sa davvero cosa fare.  \nLo testi domani sul tuo database reale? 💡",
+  "carousel_slides": [
+    {
+      "hook": "Chi controllerà i tuoi AI agenti?",
+      "description": "Il vero ostacolo: senza dati interni falliscono nel 70% dei casi.",
+      "visual_hint": "Agente robot confuso su grafico",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot confused chart"
+    },
+    {
+      "hook": "$24M per dare contesto agli agenti",
+      "description": "Jedify raccoglie 24 milioni per risolvere il problema: contesto aziendale agli agenti autonomi.",
+      "visual_hint": "Mucchio di monete d'oro",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "gold coins pile",
+      "image": "https://images.pexels.com/photos/7080498/pexels-photo-7080498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Agenti senza dati? Fallimento certo",
+      "description": "Senza dati interni falliscono nel 70% dei casi. Meno debugging, più ore risparmiate.",
+      "visual_hint": "Grafico a barre decrescente",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "bar chart decreasing",
+      "image": "https://images.pexels.com/photos/7947748/pexels-photo-7947748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova un agente sul tuo database reale",
+      "description": "Non serve aspettare. Testa un agente domani sul tuo database reale, risparmia ore.",
+      "visual_hint": "Mano che clicca su schermo database",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand clicking database screen",
+      "image": "https://images.pexels.com/photos/5076510/pexels-photo-5076510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costa meno di un abbonamento Spotify",
+      "description": "Costa meno di un abbonamento Spotify. Prova questa settimana.",
+      "visual_hint": "Icona Spotify con segno di spunta verde",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "green checkmark icon",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Jedify-Co-founders.jpg?resize=1200,800",
+  "savedAt": "2026-06-10T20:15:09.789Z",
+  "sourceId": "761f8930559991ab5c072e80516493e4"
+}
