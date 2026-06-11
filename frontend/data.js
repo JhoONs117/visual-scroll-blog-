@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "deezer-launches-an-ai-music-detector-for-other-str",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Deezer launches an AI music detector for other streaming services",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+    "pubDate": "2026-06-11T08:00:00.000Z",
+    "slides": [
+      "Deezer found fake songs on Spotify—how?",
+      "Their new AI identifies synthetic tracks across platforms.",
+      "The detector caught 12% of submitted tracks as AI.",
+      "Other services can now scan their own catalogs.",
+      "Run one audit before your playlists get polluted."
+    ],
+    "thread_text": [
+      "1. Your playlist is a lie\n\nDeezer’s AI just proved 12% of new tracks on Spotify are synthetic. The music you stream may have no human creator.",
+      "2. The detector works across platforms\n\nDeezer built a tool that scans any streaming catalog — not just Spotify. Other services are already running audits.",
+      "3. One audit before the flood\n\nA single pass caught thousands of fake songs. Without regular scans, the pollution spreads faster than humans can curate.",
+      "4. How the AI spots the fake\n\nThe detector doesn’t listen for quality — it analyzes patterns only synthetic models leave. No algorithm can hide from it.",
+      "5. Run one audit yourself\n\nOpen your own streaming library today and check for tracks with no artist profile. How many do you find?"
+    ],
+    "video_script": [
+      "12% of new tracks are AI-generated fakes.",
+      "Deezer’s detector scans any streaming catalog.",
+      "A single audit can catch thousands.",
+      "Fake patterns are invisible to humans.",
+      "Check your library for ghost tracks now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your playlist is a lie\n\nDeezer’s AI just proved 12% of new tracks on Spotify are synthetic. The music you stream may have no human creator.",
+          "2. The detector works across platforms\n\nDeezer built a tool that scans any streaming catalog — not just Spotify. Other services are already running audits.",
+          "3. One audit before the flood\n\nA single pass caught thousands of fake songs. Without regular scans, the pollution spreads faster than humans can curate.",
+          "4. How the AI spots the fake\n\nThe detector doesn’t listen for quality — it analyzes patterns only synthetic models leave. No algorithm can hide from it.",
+          "5. Run one audit yourself\n\nOpen your own streaming library today and check for tracks with no artist profile. How many do you find?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "12% of new tracks are AI-generated fakes.",
+          "Deezer’s detector scans any streaming catalog.",
+          "A single audit can catch thousands.",
+          "Fake patterns are invisible to humans.",
+          "Check your library for ghost tracks now."
+        ]
+      },
+      "instagram": {
+        "caption": "12% of new songs submitted to streaming platforms are completely synthetic—made by AI, not people.\n\nDeezer built a detector that scans any streaming catalog for these fakes. It doesn’t judge quality; it spots the hidden patterns only AI leaves.\n\nIf you distribute music or run a label, your playlists are already being polluted with tracks that have no human creator.\n\nOpen your own streaming library right now: how many tracks have no artist profile at all? 🕵️‍♂️🎧"
+      }
+    },
+    "instagram_caption": "12% of new songs submitted to streaming platforms are completely synthetic—made by AI, not people.\n\nDeezer built a detector that scans any streaming catalog for these fakes. It doesn’t judge quality; it spots the hidden patterns only AI leaves.\n\nIf you distribute music or run a label, your playlists are already being polluted with tracks that have no human creator.\n\nOpen your own streaming library right now: how many tracks have no artist profile at all? 🕵️‍♂️🎧",
+    "carousel_slides": [
+      {
+        "hook": "12% of new tracks are fake.",
+        "description": "Deezer's AI found that 12% of submitted songs on Spotify are synthetic, not made by humans.",
+        "visual_hint": "Binary code waterfall",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room lights"
+      },
+      {
+        "hook": "It scans every streaming service.",
+        "description": "Deezer's tool works across platforms, not just Spotify, letting other services audit their own catalogs.",
+        "visual_hint": "Multiple streaming logos",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "streaming service interface",
+        "image": "https://images.pexels.com/photos/24206770/pexels-photo-24206770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "How the AI catches fakes.",
+        "description": "The detector analyzes patterns left by synthetic models, not audio quality—no algorithm can hide.",
+        "visual_hint": "Grid of audio waveforms",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "audio waveform graphic",
+        "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Fake songs spread fast.",
+        "description": "Without regular scans, AI-generated tracks pollute playlists faster than humans can curate them.",
+        "visual_hint": "Viral network spreading",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "virus particle illustration",
+        "image": "https://images.pexels.com/photos/5841750/pexels-photo-5841750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your library now.",
+        "description": "Open your streaming library and check for tracks with no artist profile. How many fakes do you find?",
+        "visual_hint": "Playlist with question marks",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone playlist screen",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-11T23:16:10.899Z",
+    "sourceId": "b8acadde21ce5c9102b837cc97bd2fe3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-s-edits-app-is-getting-an-ai-assistant-and-a-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
+    "link": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+    "pubDate": "Thu, 11 Jun 2026 17:30:00 +0000",
+    "slides": [
+      "Meta’s Edits gets an AI assistant—but what will it do?",
+      "The app now suggests edits from your past projects",
+      "It learns your style without extra setup or training",
+      "Your review time drops, but accuracy depends on you",
+      "Stop correcting the same mistakes—let it learn yours"
+    ],
+    "thread_text": [
+      "1. Meta’s Edits gets an AI assistant\n\nYour past project data now trains a model that suggests revisions automatically.",
+      "2. It learns your style without training\n\nThe assistant watches your edits silently, building a personal profile as you work.",
+      "3. Your review time drops, but accuracy depends on you\n\nSpeed increases, but the AI still misses nuance—you must catch those errors.",
+      "4. Stop correcting the same mistakes\n\nCommon slip-ups get flagged automatically once the model recognizes your patterns.",
+      "5. Test it on a real project this week\n\nDoes saving 10 minutes matter if you still have to double-check every suggestion?"
+    ],
+    "video_script": [
+      "Meta's Edits app now has an AI assistant.",
+      "It learns from your past projects automatically.",
+      "No setup or training needed—it watches your corrections.",
+      "Your review time drops, but you must stay sharp.",
+      "Stop fixing the same errors. Let it learn yours."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta’s Edits gets an AI assistant\n\nYour past project data now trains a model that suggests revisions automatically.",
+          "2. It learns your style without training\n\nThe assistant watches your edits silently, building a personal profile as you work.",
+          "3. Your review time drops, but accuracy depends on you\n\nSpeed increases, but the AI still misses nuance—you must catch those errors.",
+          "4. Stop correcting the same mistakes\n\nCommon slip-ups get flagged automatically once the model recognizes your patterns.",
+          "5. Test it on a real project this week\n\nDoes saving 10 minutes matter if you still have to double-check every suggestion?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta's Edits app now has an AI assistant.",
+          "It learns from your past projects automatically.",
+          "No setup or training needed—it watches your corrections.",
+          "Your review time drops, but you must stay sharp.",
+          "Stop fixing the same errors. Let it learn yours."
+        ]
+      },
+      "instagram": {
+        "caption": "Your past projects are now training Meta’s Edits assistant to spot mistakes before you do.\n\nIt watches how you edit, quietly building a personal style profile without any setup. The tool suggests fixes based on your unique patterns, flagging slip-ups you keep making 😅.\n\nYour review time drops, but nuance still relies on you. Speed is real, but you can’t skip the final check.\n\nDoes saving ten minutes matter if you still have to double-check every suggestion? 🔍"
+      }
+    },
+    "instagram_caption": "Your past projects are now training Meta’s Edits assistant to spot mistakes before you do.\n\nIt watches how you edit, quietly building a personal style profile without any setup. The tool suggests fixes based on your unique patterns, flagging slip-ups you keep making 😅.\n\nYour review time drops, but nuance still relies on you. Speed is real, but you can’t skip the final check.\n\nDoes saving ten minutes matter if you still have to double-check every suggestion? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Review time drops, but you still need to catch errors.",
+        "description": "Speed increases with AI suggestions, but nuance is missed—you must double-check every edit.",
+        "visual_hint": "Person reviewing on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "person checking screen"
+      },
+      {
+        "hook": "It learns your style without any setup.",
+        "description": "The assistant watches your edits silently, building a personal profile as you work.",
+        "visual_hint": "Silent AI watching edits",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Past projects train your AI assistant.",
+        "description": "Your past project data now trains a model that suggests revisions automatically.",
+        "visual_hint": "Data flowing to model",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop correcting the same mistakes.",
+        "description": "Common slip-ups get flagged automatically once the model recognizes your patterns.",
+        "visual_hint": "Red flags on errors",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand pointing screen",
+        "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save time now—test it on a real project.",
+        "description": "Try the new AI assistant on your current project and see how many minutes you save.",
+        "visual_hint": "Timer with saved minutes",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stopwatch",
+        "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/meta-edits.png?resize=1200,704",
+    "savedAt": "2026-06-11T23:15:54.758Z",
+    "sourceId": "bbf5b77960558a8bcbd7cef82e721c64"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "deezer-s-new-tool-can-identify-ai-music-from-spoti",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-s-edits-app-is-getting-an-ai-assistant-and-a-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
+  "link": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+  "pubDate": "Thu, 11 Jun 2026 17:30:00 +0000",
+  "slides": [
+    "Meta’s Edits gets an AI assistant—but what will it do?",
+    "The app now suggests edits from your past projects",
+    "It learns your style without extra setup or training",
+    "Your review time drops, but accuracy depends on you",
+    "Stop correcting the same mistakes—let it learn yours"
+  ],
+  "thread_text": [
+    "1. Meta’s Edits gets an AI assistant\n\nYour past project data now trains a model that suggests revisions automatically.",
+    "2. It learns your style without training\n\nThe assistant watches your edits silently, building a personal profile as you work.",
+    "3. Your review time drops, but accuracy depends on you\n\nSpeed increases, but the AI still misses nuance—you must catch those errors.",
+    "4. Stop correcting the same mistakes\n\nCommon slip-ups get flagged automatically once the model recognizes your patterns.",
+    "5. Test it on a real project this week\n\nDoes saving 10 minutes matter if you still have to double-check every suggestion?"
+  ],
+  "video_script": [
+    "Meta's Edits app now has an AI assistant.",
+    "It learns from your past projects automatically.",
+    "No setup or training needed—it watches your corrections.",
+    "Your review time drops, but you must stay sharp.",
+    "Stop fixing the same errors. Let it learn yours."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta’s Edits gets an AI assistant\n\nYour past project data now trains a model that suggests revisions automatically.",
+        "2. It learns your style without training\n\nThe assistant watches your edits silently, building a personal profile as you work.",
+        "3. Your review time drops, but accuracy depends on you\n\nSpeed increases, but the AI still misses nuance—you must catch those errors.",
+        "4. Stop correcting the same mistakes\n\nCommon slip-ups get flagged automatically once the model recognizes your patterns.",
+        "5. Test it on a real project this week\n\nDoes saving 10 minutes matter if you still have to double-check every suggestion?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's Edits app now has an AI assistant.",
+        "It learns from your past projects automatically.",
+        "No setup or training needed—it watches your corrections.",
+        "Your review time drops, but you must stay sharp.",
+        "Stop fixing the same errors. Let it learn yours."
+      ]
+    },
+    "instagram": {
+      "caption": "Your past projects are now training Meta’s Edits assistant to spot mistakes before you do.\n\nIt watches how you edit, quietly building a personal style profile without any setup. The tool suggests fixes based on your unique patterns, flagging slip-ups you keep making 😅.\n\nYour review time drops, but nuance still relies on you. Speed is real, but you can’t skip the final check.\n\nDoes saving ten minutes matter if you still have to double-check every suggestion? 🔍"
+    }
+  },
+  "instagram_caption": "Your past projects are now training Meta’s Edits assistant to spot mistakes before you do.\n\nIt watches how you edit, quietly building a personal style profile without any setup. The tool suggests fixes based on your unique patterns, flagging slip-ups you keep making 😅.\n\nYour review time drops, but nuance still relies on you. Speed is real, but you can’t skip the final check.\n\nDoes saving ten minutes matter if you still have to double-check every suggestion? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Review time drops, but you still need to catch errors.",
+      "description": "Speed increases with AI suggestions, but nuance is missed—you must double-check every edit.",
+      "visual_hint": "Person reviewing on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "person checking screen"
+    },
+    {
+      "hook": "It learns your style without any setup.",
+      "description": "The assistant watches your edits silently, building a personal profile as you work.",
+      "visual_hint": "Silent AI watching edits",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Past projects train your AI assistant.",
+      "description": "Your past project data now trains a model that suggests revisions automatically.",
+      "visual_hint": "Data flowing to model",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop correcting the same mistakes.",
+      "description": "Common slip-ups get flagged automatically once the model recognizes your patterns.",
+      "visual_hint": "Red flags on errors",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pointing screen",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save time now—test it on a real project.",
+      "description": "Try the new AI assistant on your current project and see how many minutes you save.",
+      "visual_hint": "Timer with saved minutes",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stopwatch",
+      "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/05/meta-edits.png?resize=1200,704",
+  "savedAt": "2026-06-11T23:15:54.758Z",
+  "sourceId": "bbf5b77960558a8bcbd7cef82e721c64"
+}
