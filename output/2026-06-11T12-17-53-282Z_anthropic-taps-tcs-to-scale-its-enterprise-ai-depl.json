@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-taps-tcs-to-scale-its-enterprise-ai-depl",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+  "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+  "pubDate": "Thu, 11 Jun 2026 11:48:55 +0000",
+  "slides": [
+    "Can TCS help Anthropic reach enterprises where it failed alone?",
+    "TCS brings 600,000 consultants and global client access.",
+    "But Anthropic's safety-first AI may clash with TCS's speed.",
+    "Enterprises now get guided deployment without hiring AI experts.",
+    "Pilot one internal TCS use case before committing to scale."
+  ],
+  "thread_text": [
+    "1. Can TCS open doors Anthropic couldn't?\n\nTCS brings 600,000 consultants and a direct line to global giants. Anthropic's safety-first AI now gets a massive distribution channel it lacked alone.",
+    "2. Speed vs. safety: a real clash.\n\nAnthropic builds AI with deep caution. TCS moves fast for enterprise clients. That tension could define—or derail—the partnership.",
+    "3. Enterprises skip hiring AI experts.\n\nGuided deployment means no internal PhDs needed. A TCS team configures Anthropic models for your business processes directly.",
+    "4. One internal pilot before scaling.\n\nTCS tests the AI on its own use case first. If it fails internally, it never reaches clients.",
+    "5. Ask your team: what's your pilot?\n\nPick one internal process where cautious AI could cut hours. Run it through Anthropic this quarter and measure the real cost."
+  ],
+  "video_script": [
+    "Anthropic gets TCS's 600,000 consultants.",
+    "But safety-first AI meets TCS speed.",
+    "Enterprises skip hiring AI experts now.",
+    "TCS pilots one internal use case first.",
+    "Test one internal process with cautious AI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can TCS open doors Anthropic couldn't?\n\nTCS brings 600,000 consultants and a direct line to global giants. Anthropic's safety-first AI now gets a massive distribution channel it lacked alone.",
+        "2. Speed vs. safety: a real clash.\n\nAnthropic builds AI with deep caution. TCS moves fast for enterprise clients. That tension could define—or derail—the partnership.",
+        "3. Enterprises skip hiring AI experts.\n\nGuided deployment means no internal PhDs needed. A TCS team configures Anthropic models for your business processes directly.",
+        "4. One internal pilot before scaling.\n\nTCS tests the AI on its own use case first. If it fails internally, it never reaches clients.",
+        "5. Ask your team: what's your pilot?\n\nPick one internal process where cautious AI could cut hours. Run it through Anthropic this quarter and measure the real cost."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic gets TCS's 600,000 consultants.",
+        "But safety-first AI meets TCS speed.",
+        "Enterprises skip hiring AI experts now.",
+        "TCS pilots one internal use case first.",
+        "Test one internal process with cautious AI."
+      ]
+    },
+    "instagram": {
+      "caption": "A single internal pilot at TCS will decide if Anthropic’s AI ever reaches their enterprise clients—or gets killed before launch.\n\nAnthropic partners with TCS to bypass its struggle selling direct to big businesses, leveraging 600,000 consultants as a distribution army. But safety-first AI clashes with TCS’s need for speed, making internal testing the gatekeeper.\n\nFor content creators, this means enterprise tools won’t be sold on hype—TCS must prove they save hours on a real workflow first.\n\nWhat’s one internal process in your work where cautious AI could cut two hours this quarter?"
+    }
+  },
+  "instagram_caption": "A single internal pilot at TCS will decide if Anthropic’s AI ever reaches their enterprise clients—or gets killed before launch.\n\nAnthropic partners with TCS to bypass its struggle selling direct to big businesses, leveraging 600,000 consultants as a distribution army. But safety-first AI clashes with TCS’s need for speed, making internal testing the gatekeeper.\n\nFor content creators, this means enterprise tools won’t be sold on hype—TCS must prove they save hours on a real workflow first.\n\nWhat’s one internal process in your work where cautious AI could cut two hours this quarter?",
+  "carousel_slides": [
+    {
+      "hook": "Speed vs. safety—who wins?",
+      "description": "Anthropic's cautious AI meets TCS's fast enterprise deployment. This clash could define the partnership.",
+      "visual_hint": "race car vs. shield",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "race car shield"
+    },
+    {
+      "hook": "600,000 consultants unlock doors.",
+      "description": "TCS brings massive client access Anthropic lacked alone. Enterprise distribution is now direct and massive.",
+      "visual_hint": "network of connections",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "office network cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No AI experts required.",
+      "description": "TCS configures Anthropic models for your processes. Guided deployment skips the need for internal PhDs.",
+      "visual_hint": "simplified computer setup",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer setup desk",
+      "image": "https://images.pexels.com/photos/6804606/pexels-photo-6804606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test internally first.",
+      "description": "TCS pilots Anthropic on its own use case. If it fails internally, it never reaches paying clients.",
+      "visual_hint": "internal pilot test",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office whiteboard plan",
+      "image": "https://images.pexels.com/photos/8518618/pexels-photo-8518618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your pilot.",
+      "description": "Pick one slow internal process. Run an Anthropic pilot this quarter and measure the real cost saved.",
+      "visual_hint": "calendar and clock",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar clock desk",
+      "image": "https://images.pexels.com/photos/8970673/pexels-photo-8970673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-12.11.34-PM.png?resize=1200,673",
+  "savedAt": "2026-06-11T12:18:09.900Z",
+  "sourceId": "8267d5894f5de4f888c00e33ed02e8d4"
+}

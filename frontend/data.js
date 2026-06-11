@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "cybersecurity-researchers-aren-t-happy-about-the-g",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+    "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "pubDate": "Wed, 10 Jun 2026 15:41:22 +0000",
+    "slides": [
+      "Why are researchers angry at Anthropic's Fable?",
+      "Fable's guardrails limit red-team attacks on prompts.",
+      "Researchers found the AI blocks harmless code too.",
+      "Your security tests now risk false positives from AI.",
+      "Audit Fable's blocks before trusting its safety claims."
+    ],
+    "thread_text": [
+      "1. Fable blocks harmless code?\n\nResearchers found the AI refused to allow a simple Python script that sorts a list of integers. The block wasn't for safety, it was an overreaction.",
+      "2. Guardrails lock red teams out\n\nAnthropic's Fable uses strict guardrails to limit adversarial attacks during security tests. But those same rules now flag routine code as malicious.",
+      "3. False positives flood test logs\n\nYour red team's automated security scans will now produce alerts for code that was never a threat. Each false positive demands manual review.",
+      "4. Trust in safety claims erodes\n\nIf Fable can't distinguish a sorting script from an exploit, every safety block it enforces becomes suspect. You can't audit what the AI hides.",
+      "5. Audit Fable's blocks this week\n\nTake a common automation script you wrote and run it through Fable. If it gets blocked, ask: does the benefit of speed justify the hidden cost of false positives?"
+    ],
+    "video_script": [
+      "Fable blocks harmless code, angering researchers.",
+      "Guardrails limit red-team attacks on prompts.",
+      "AI blocks harmless code too, study finds.",
+      "Your security tests now risk false positives.",
+      "Audit Fable's blocks before trusting its safety."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Fable blocks harmless code?\n\nResearchers found the AI refused to allow a simple Python script that sorts a list of integers. The block wasn't for safety, it was an overreaction.",
+          "2. Guardrails lock red teams out\n\nAnthropic's Fable uses strict guardrails to limit adversarial attacks during security tests. But those same rules now flag routine code as malicious.",
+          "3. False positives flood test logs\n\nYour red team's automated security scans will now produce alerts for code that was never a threat. Each false positive demands manual review.",
+          "4. Trust in safety claims erodes\n\nIf Fable can't distinguish a sorting script from an exploit, every safety block it enforces becomes suspect. You can't audit what the AI hides.",
+          "5. Audit Fable's blocks this week\n\nTake a common automation script you wrote and run it through Fable. If it gets blocked, ask: does the benefit of speed justify the hidden cost of false positives?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Fable blocks harmless code, angering researchers.",
+          "Guardrails limit red-team attacks on prompts.",
+          "AI blocks harmless code too, study finds.",
+          "Your security tests now risk false positives.",
+          "Audit Fable's blocks before trusting its safety."
+        ]
+      },
+      "instagram": {
+        "caption": "Researchers found Fable blocked a simple Python script that sorts a list of integers—blocking harmless code, not exploits. 🛑\n\nFable's guardrails, designed to stop security attacks, now flag everyday automation scripts as malicious. Your test logs fill with false positives that demand manual review.\n\nFor anyone running security scans or publishing automated tools: every block now requires you to audit what the AI decided was dangerous.\n\nRun one of your own common scripts through Fable this week. When it gets blocked, does the speed gain justify the cost of verifying each false alarm? 🔍"
+      }
+    },
+    "instagram_caption": "Researchers found Fable blocked a simple Python script that sorts a list of integers—blocking harmless code, not exploits. 🛑\n\nFable's guardrails, designed to stop security attacks, now flag everyday automation scripts as malicious. Your test logs fill with false positives that demand manual review.\n\nFor anyone running security scans or publishing automated tools: every block now requires you to audit what the AI decided was dangerous.\n\nRun one of your own common scripts through Fable this week. When it gets blocked, does the speed gain justify the cost of verifying each false alarm? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "AI blocks harmless sorting code?",
+        "description": "Fable refused a simple Python sort script. Its guardrails overreact, flagging routine code as malicious.",
+        "visual_hint": "red stop sign on code",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer code screen"
+      },
+      {
+        "hook": "Guardrails lock red teams out",
+        "description": "Anthropic's Fable restricts adversarial attack prompts. Now those same rules block benign scripts during security tests.",
+        "visual_hint": "locked gate with guards",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "security fence lock",
+        "image": "https://images.pexels.com/photos/11543858/pexels-photo-11543858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "False positives flood your logs",
+        "description": "Automated security scans generate alerts for harmless code. Each false positive demands manual review, wasting time.",
+        "visual_hint": "overflowing alert screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server rack blinking",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trust in safety claims erodes",
+        "description": "If Fable mistakes a sorting script for an exploit, every block it enforces becomes suspect. You cannot audit hidden rules.",
+        "visual_hint": "broken trust shield icon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "shattered glass screen",
+        "image": "https://images.pexels.com/photos/29602703/pexels-photo-29602703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this audit checklist now",
+        "description": "Run your own automation script through Fable. See if it blocks harmless code, then reassess its safety claims.",
+        "visual_hint": "clipboard with checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "clipboard checklist document",
+        "image": "https://images.pexels.com/photos/8099498/pexels-photo-8099498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
+    "savedAt": "2026-06-11T12:18:26.671Z",
+    "sourceId": "778e7a00c5425e4633ffc5b25a3a9e7b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "anthropic-taps-tcs-to-scale-its-enterprise-ai-depl",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+    "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+    "pubDate": "Thu, 11 Jun 2026 11:48:55 +0000",
+    "slides": [
+      "Can TCS help Anthropic reach enterprises where it failed alone?",
+      "TCS brings 600,000 consultants and global client access.",
+      "But Anthropic's safety-first AI may clash with TCS's speed.",
+      "Enterprises now get guided deployment without hiring AI experts.",
+      "Pilot one internal TCS use case before committing to scale."
+    ],
+    "thread_text": [
+      "1. Can TCS open doors Anthropic couldn't?\n\nTCS brings 600,000 consultants and a direct line to global giants. Anthropic's safety-first AI now gets a massive distribution channel it lacked alone.",
+      "2. Speed vs. safety: a real clash.\n\nAnthropic builds AI with deep caution. TCS moves fast for enterprise clients. That tension could define—or derail—the partnership.",
+      "3. Enterprises skip hiring AI experts.\n\nGuided deployment means no internal PhDs needed. A TCS team configures Anthropic models for your business processes directly.",
+      "4. One internal pilot before scaling.\n\nTCS tests the AI on its own use case first. If it fails internally, it never reaches clients.",
+      "5. Ask your team: what's your pilot?\n\nPick one internal process where cautious AI could cut hours. Run it through Anthropic this quarter and measure the real cost."
+    ],
+    "video_script": [
+      "Anthropic gets TCS's 600,000 consultants.",
+      "But safety-first AI meets TCS speed.",
+      "Enterprises skip hiring AI experts now.",
+      "TCS pilots one internal use case first.",
+      "Test one internal process with cautious AI."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can TCS open doors Anthropic couldn't?\n\nTCS brings 600,000 consultants and a direct line to global giants. Anthropic's safety-first AI now gets a massive distribution channel it lacked alone.",
+          "2. Speed vs. safety: a real clash.\n\nAnthropic builds AI with deep caution. TCS moves fast for enterprise clients. That tension could define—or derail—the partnership.",
+          "3. Enterprises skip hiring AI experts.\n\nGuided deployment means no internal PhDs needed. A TCS team configures Anthropic models for your business processes directly.",
+          "4. One internal pilot before scaling.\n\nTCS tests the AI on its own use case first. If it fails internally, it never reaches clients.",
+          "5. Ask your team: what's your pilot?\n\nPick one internal process where cautious AI could cut hours. Run it through Anthropic this quarter and measure the real cost."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Anthropic gets TCS's 600,000 consultants.",
+          "But safety-first AI meets TCS speed.",
+          "Enterprises skip hiring AI experts now.",
+          "TCS pilots one internal use case first.",
+          "Test one internal process with cautious AI."
+        ]
+      },
+      "instagram": {
+        "caption": "A single internal pilot at TCS will decide if Anthropic’s AI ever reaches their enterprise clients—or gets killed before launch.\n\nAnthropic partners with TCS to bypass its struggle selling direct to big businesses, leveraging 600,000 consultants as a distribution army. But safety-first AI clashes with TCS’s need for speed, making internal testing the gatekeeper.\n\nFor content creators, this means enterprise tools won’t be sold on hype—TCS must prove they save hours on a real workflow first.\n\nWhat’s one internal process in your work where cautious AI could cut two hours this quarter?"
+      }
+    },
+    "instagram_caption": "A single internal pilot at TCS will decide if Anthropic’s AI ever reaches their enterprise clients—or gets killed before launch.\n\nAnthropic partners with TCS to bypass its struggle selling direct to big businesses, leveraging 600,000 consultants as a distribution army. But safety-first AI clashes with TCS’s need for speed, making internal testing the gatekeeper.\n\nFor content creators, this means enterprise tools won’t be sold on hype—TCS must prove they save hours on a real workflow first.\n\nWhat’s one internal process in your work where cautious AI could cut two hours this quarter?",
+    "carousel_slides": [
+      {
+        "hook": "Speed vs. safety—who wins?",
+        "description": "Anthropic's cautious AI meets TCS's fast enterprise deployment. This clash could define the partnership.",
+        "visual_hint": "race car vs. shield",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "race car shield"
+      },
+      {
+        "hook": "600,000 consultants unlock doors.",
+        "description": "TCS brings massive client access Anthropic lacked alone. Enterprise distribution is now direct and massive.",
+        "visual_hint": "network of connections",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "office network cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No AI experts required.",
+        "description": "TCS configures Anthropic models for your processes. Guided deployment skips the need for internal PhDs.",
+        "visual_hint": "simplified computer setup",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer setup desk",
+        "image": "https://images.pexels.com/photos/6804606/pexels-photo-6804606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test internally first.",
+        "description": "TCS pilots Anthropic on its own use case. If it fails internally, it never reaches paying clients.",
+        "visual_hint": "internal pilot test",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office whiteboard plan",
+        "image": "https://images.pexels.com/photos/8518618/pexels-photo-8518618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your pilot.",
+        "description": "Pick one slow internal process. Run an Anthropic pilot this quarter and measure the real cost saved.",
+        "visual_hint": "calendar and clock",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar clock desk",
+        "image": "https://images.pexels.com/photos/8970673/pexels-photo-8970673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-12.11.34-PM.png?resize=1200,673",
+    "savedAt": "2026-06-11T12:18:09.900Z",
+    "sourceId": "8267d5894f5de4f888c00e33ed02e8d4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-won-t-just-admit-it-s-feeding-youtube-creat",
     "prompt_version": "1.0.0",
     "status": "published",

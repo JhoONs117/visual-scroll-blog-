@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cybersecurity-researchers-aren-t-happy-about-the-g",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+  "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+  "pubDate": "Wed, 10 Jun 2026 15:41:22 +0000",
+  "slides": [
+    "Why are researchers angry at Anthropic's Fable?",
+    "Fable's guardrails limit red-team attacks on prompts.",
+    "Researchers found the AI blocks harmless code too.",
+    "Your security tests now risk false positives from AI.",
+    "Audit Fable's blocks before trusting its safety claims."
+  ],
+  "thread_text": [
+    "1. Fable blocks harmless code?\n\nResearchers found the AI refused to allow a simple Python script that sorts a list of integers. The block wasn't for safety, it was an overreaction.",
+    "2. Guardrails lock red teams out\n\nAnthropic's Fable uses strict guardrails to limit adversarial attacks during security tests. But those same rules now flag routine code as malicious.",
+    "3. False positives flood test logs\n\nYour red team's automated security scans will now produce alerts for code that was never a threat. Each false positive demands manual review.",
+    "4. Trust in safety claims erodes\n\nIf Fable can't distinguish a sorting script from an exploit, every safety block it enforces becomes suspect. You can't audit what the AI hides.",
+    "5. Audit Fable's blocks this week\n\nTake a common automation script you wrote and run it through Fable. If it gets blocked, ask: does the benefit of speed justify the hidden cost of false positives?"
+  ],
+  "video_script": [
+    "Fable blocks harmless code, angering researchers.",
+    "Guardrails limit red-team attacks on prompts.",
+    "AI blocks harmless code too, study finds.",
+    "Your security tests now risk false positives.",
+    "Audit Fable's blocks before trusting its safety."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Fable blocks harmless code?\n\nResearchers found the AI refused to allow a simple Python script that sorts a list of integers. The block wasn't for safety, it was an overreaction.",
+        "2. Guardrails lock red teams out\n\nAnthropic's Fable uses strict guardrails to limit adversarial attacks during security tests. But those same rules now flag routine code as malicious.",
+        "3. False positives flood test logs\n\nYour red team's automated security scans will now produce alerts for code that was never a threat. Each false positive demands manual review.",
+        "4. Trust in safety claims erodes\n\nIf Fable can't distinguish a sorting script from an exploit, every safety block it enforces becomes suspect. You can't audit what the AI hides.",
+        "5. Audit Fable's blocks this week\n\nTake a common automation script you wrote and run it through Fable. If it gets blocked, ask: does the benefit of speed justify the hidden cost of false positives?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Fable blocks harmless code, angering researchers.",
+        "Guardrails limit red-team attacks on prompts.",
+        "AI blocks harmless code too, study finds.",
+        "Your security tests now risk false positives.",
+        "Audit Fable's blocks before trusting its safety."
+      ]
+    },
+    "instagram": {
+      "caption": "Researchers found Fable blocked a simple Python script that sorts a list of integers—blocking harmless code, not exploits. 🛑\n\nFable's guardrails, designed to stop security attacks, now flag everyday automation scripts as malicious. Your test logs fill with false positives that demand manual review.\n\nFor anyone running security scans or publishing automated tools: every block now requires you to audit what the AI decided was dangerous.\n\nRun one of your own common scripts through Fable this week. When it gets blocked, does the speed gain justify the cost of verifying each false alarm? 🔍"
+    }
+  },
+  "instagram_caption": "Researchers found Fable blocked a simple Python script that sorts a list of integers—blocking harmless code, not exploits. 🛑\n\nFable's guardrails, designed to stop security attacks, now flag everyday automation scripts as malicious. Your test logs fill with false positives that demand manual review.\n\nFor anyone running security scans or publishing automated tools: every block now requires you to audit what the AI decided was dangerous.\n\nRun one of your own common scripts through Fable this week. When it gets blocked, does the speed gain justify the cost of verifying each false alarm? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "AI blocks harmless sorting code?",
+      "description": "Fable refused a simple Python sort script. Its guardrails overreact, flagging routine code as malicious.",
+      "visual_hint": "red stop sign on code",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer code screen"
+    },
+    {
+      "hook": "Guardrails lock red teams out",
+      "description": "Anthropic's Fable restricts adversarial attack prompts. Now those same rules block benign scripts during security tests.",
+      "visual_hint": "locked gate with guards",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "security fence lock",
+      "image": "https://images.pexels.com/photos/11543858/pexels-photo-11543858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "False positives flood your logs",
+      "description": "Automated security scans generate alerts for harmless code. Each false positive demands manual review, wasting time.",
+      "visual_hint": "overflowing alert screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server rack blinking",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust in safety claims erodes",
+      "description": "If Fable mistakes a sorting script for an exploit, every block it enforces becomes suspect. You cannot audit hidden rules.",
+      "visual_hint": "broken trust shield icon",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "shattered glass screen",
+      "image": "https://images.pexels.com/photos/29602703/pexels-photo-29602703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this audit checklist now",
+      "description": "Run your own automation script through Fable. See if it blocks harmless code, then reassess its safety claims.",
+      "visual_hint": "clipboard with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clipboard checklist document",
+      "image": "https://images.pexels.com/photos/8099498/pexels-photo-8099498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
+  "savedAt": "2026-06-11T12:18:26.671Z",
+  "sourceId": "778e7a00c5425e4633ffc5b25a3a9e7b"
+}
