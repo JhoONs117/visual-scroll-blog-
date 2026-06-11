@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "i-tried-siri-ai-and-so-far-it-actually-works",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "I tried Siri AI, and so far it actually works",
+    "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+    "pubDate": "2026-06-09T23:43:00.000Z",
+    "slides": [
+      "Siri AI funziona davvero, ma è già superata?",
+      "Apple ha riscritto l’intero stack AI da zero.",
+      "Il vero salto è nei comandi contestuali complessi.",
+      "Ora fa cose che Alexa e Google ancora mancano.",
+      "Provala oggi in un task reale e confronta."
+    ],
+    "thread_text": [
+      "Il vero salto è nei comandi contestuali complessi. Mentre gli altri assistenti si perdono in una frase di mezzo, questo capisce cosa vuoi davvero senza dover specificare tutto.",
+      "Per arrivare a questo, Apple ha riscritto l’intero stack AI da zero. Non una patch, non un aggiornamento: codice nuovo, architettura diversa.",
+      "Siri funziona davvero adesso, ma è già avanti. Il problema è che la versione che tutti conoscono è stata superata da questa nuova, che fa cose che Alexa e Google ancora mancano.",
+      "Non è questione di velocità, è questione di profondità. Tipo: \"ricordami di comprare il latte quando passo davanti al supermercato\" – e lo fa.",
+      "Costa zero se hai un iPhone recente. Apri Note, dettale \"lista della spesa ordinata per corsia\" e vedi cosa succede."
+    ],
+    "video_script": [
+      "Il vero salto? I comandi complessi.",
+      "Apple ha riscritto tutto l'AI da capo.",
+      "Siri ora fa cose che altri ancora mancano.",
+      "Tipo: chiedigli un task reale complesso.",
+      "Provala oggi, costa zero."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Il vero salto è nei comandi contestuali complessi. Mentre gli altri assistenti si perdono in una frase di mezzo, questo capisce cosa vuoi davvero senza dover specificare tutto.",
+          "Per arrivare a questo, Apple ha riscritto l’intero stack AI da zero. Non una patch, non un aggiornamento: codice nuovo, architettura diversa.",
+          "Siri funziona davvero adesso, ma è già avanti. Il problema è che la versione che tutti conoscono è stata superata da questa nuova, che fa cose che Alexa e Google ancora mancano.",
+          "Non è questione di velocità, è questione di profondità. Tipo: \"ricordami di comprare il latte quando passo davanti al supermercato\" – e lo fa.",
+          "Costa zero se hai un iPhone recente. Apri Note, dettale \"lista della spesa ordinata per corsia\" e vedi cosa succede."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Il vero salto? I comandi complessi.",
+          "Apple ha riscritto tutto l'AI da capo.",
+          "Siri ora fa cose che altri ancora mancano.",
+          "Tipo: chiedigli un task reale complesso.",
+          "Provala oggi, costa zero."
+        ]
+      },
+      "instagram": {
+        "caption": "Apple ha riscritto l’intero stack AI di Siri da zero. 🖍️ Non una patch, ma codice nuovo e architettura diversa, per gestire comandi come “ricordami di comprare il latte quando passo davanti al supermercato” senza ripetizioni. Funziona già, ma la versione pubblica è indietro. 📱 Se hai un iPhone recente, aprilo gratis in Note: dettale “lista della spesa ordinata per corsia” e vedi il confronto. 🛒"
+      }
+    },
+    "instagram_caption": "Apple ha riscritto l’intero stack AI di Siri da zero. 🖍️ Non una patch, ma codice nuovo e architettura diversa, per gestire comandi come “ricordami di comprare il latte quando passo davanti al supermercato” senza ripetizioni. Funziona già, ma la versione pubblica è indietro. 📱 Se hai un iPhone recente, aprilo gratis in Note: dettale “lista della spesa ordinata per corsia” e vedi il confronto. 🛒",
+    "carousel_slides": [
+      {
+        "hook": "E se Siri fosse già superata?",
+        "description": "Siri funziona davvero ora, ma la versione conosciuta è vecchia. La nuova fa cose che Alexa e Google ancora mancano.",
+        "visual_hint": "Siri icon vs robot heads",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot face vs human"
+      },
+      {
+        "hook": "Apple ha riscritto tutto da zero",
+        "description": "Non una patch, non un aggiornamento: codice nuovo, architettura diversa per l'intero stack AI.",
+        "visual_hint": "blueprint code vs old code",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il salto? Comandi contestuali complessi",
+        "description": "Mentre altri assistenti si perdono, questo capisce cosa vuoi senza dover specificare tutto.",
+        "visual_hint": "dialog bubbles with arrows",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chat interface smartphone",
+        "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prova questo: 'Ricordami il latte al supermercato'",
+        "description": "Non è velocità, è profondità. Capisce il contesto e lo fa davvero, cosa che Alexa e Google ancora non sanno.",
+        "visual_hint": "hand holding phone with map",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person walking street holding phone",
+        "image": "https://images.pexels.com/photos/9461321/pexels-photo-9461321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Costa zero sul tuo iPhone",
+        "description": "Apri Note, dettale 'lista della spesa ordinata per corsia' e vedi cosa succede.",
+        "visual_hint": "iPhone screen with Notes app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "iPhone Notes app grocery list",
+        "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+    "savedAt": "2026-06-11T02:47:14.507Z",
+    "sourceId": "97e73bfc89ed13aa5f8929c049259ef8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "why-andrew-yang-is-building-instead-of-waiting-for",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Why Andrew Yang is building instead of waiting for Washington",
+    "link": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
+    "pubDate": "Wed, 10 Jun 2026 22:24:12 +0000",
+    "slides": [
+      "Yang stopped waiting for DC—what did he build?",
+      "A platform bypassing broken political systems entirely.",
+      "It reaches more people than any campaign he ran.",
+      "You can join without permission from politicians.",
+      "Test it today: act where government won't."
+    ],
+    "thread_text": [
+      "Un candidato alla presidenza ha smesso di aspettare Washington e ha costruito una piattaforma politica parallela. Non è una campagna. È un'infrastruttura.",
+      "La piattaforma bypassa completamente i sistemi politici rotti. Nessun partito, nessun comitato, nessun permesso. Solo cittadini che agiscono dove il governo non arriva.",
+      "Oggi raggiunge più persone di qualsiasi campagna elettorale che abbia mai condotto. Perché? Perché non chiede voto. Chiede azione diretta.",
+      "Puoi unirti senza chiedere il permesso a nessun politico. Non devi essere eletto, non devi essere registrato. Solo decidere di agire.",
+      "Prova oggi: scegli un problema che il governo ignora, e usa la piattaforma per risolverlo con altri. Inizia questa settimana."
+    ],
+    "video_script": [
+      "Ha smesso di aspettare i politici.",
+      "Ha costruito una piattaforma alternativa.",
+      "Bypassa il sistema politico rotto.",
+      "Raggiunge più persone della sua campagna.",
+      "Testala ora, agisci dove il governo non può."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Un candidato alla presidenza ha smesso di aspettare Washington e ha costruito una piattaforma politica parallela. Non è una campagna. È un'infrastruttura.",
+          "La piattaforma bypassa completamente i sistemi politici rotti. Nessun partito, nessun comitato, nessun permesso. Solo cittadini che agiscono dove il governo non arriva.",
+          "Oggi raggiunge più persone di qualsiasi campagna elettorale che abbia mai condotto. Perché? Perché non chiede voto. Chiede azione diretta.",
+          "Puoi unirti senza chiedere il permesso a nessun politico. Non devi essere eletto, non devi essere registrato. Solo decidere di agire.",
+          "Prova oggi: scegli un problema che il governo ignora, e usa la piattaforma per risolverlo con altri. Inizia questa settimana."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Ha smesso di aspettare i politici.",
+          "Ha costruito una piattaforma alternativa.",
+          "Bypassa il sistema politico rotto.",
+          "Raggiunge più persone della sua campagna.",
+          "Testala ora, agisci dove il governo non può."
+        ]
+      },
+      "instagram": {
+        "caption": "Andrew Yang ha smesso di aspettare Washington e ha costruito una piattaforma politica parallela che bypassa partiti e comitati 🛠️. Non è una campagna elettorale: è un'infrastruttura per cittadini che agiscono direttamente, senza chiedere permessi ai politici. Oggi raggiunge più persone di qualsiasi sua corsa alla presidenza, perché non chiede voti, ma azione su problemi concreti che il governo ignora 👥. Per te significa poter risolvere una questione locale con altri, senza passare da burocrazie o elezioni. Qual è il primo problema che affronteresti?"
+      }
+    },
+    "instagram_caption": "Andrew Yang ha smesso di aspettare Washington e ha costruito una piattaforma politica parallela che bypassa partiti e comitati 🛠️. Non è una campagna elettorale: è un'infrastruttura per cittadini che agiscono direttamente, senza chiedere permessi ai politici. Oggi raggiunge più persone di qualsiasi sua corsa alla presidenza, perché non chiede voti, ma azione su problemi concreti che il governo ignora 👥. Per te significa poter risolvere una questione locale con altri, senza passare da burocrazie o elezioni. Qual è il primo problema che affronteresti?",
+    "carousel_slides": [
+      {
+        "hook": "Built what campaigns can't",
+        "description": "Oggi raggiunge più persone di qualsiasi campagna. Non chiede voto, chiede azione diretta.",
+        "visual_hint": "Infrastruttura politica parallela",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Bypass the broken system",
+        "description": "Nessun partito, nessun comitato, nessun permesso. Solo cittadini che agiscono dove il governo non arriva.",
+        "visual_hint": "Sistema politico bypassato",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Direct action over votes",
+        "description": "Raggiunge più persone perché non chiede voto. Chiede azione diretta su problemi ignorati.",
+        "visual_hint": "Azione diretta collettiva",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Join without permission",
+        "description": "Non devi essere eletto o registrato. Solo decidere di agire con altri cittadini.",
+        "visual_hint": "Accesso senza barriere",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Solve what government ignores",
+        "description": "Scegli un problema ignorato. Usa la piattaforma per risolverlo con altri. Inizia questa settimana.",
+        "visual_hint": "Soluzione concreta e immediata",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1239809807.jpg?resize=1200,800",
+    "savedAt": "2026-06-11T02:46:56.890Z",
+    "sourceId": "e2d4711a8f0d5f8a2c1983d3b2c4b684"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-will-save-your-lens-photos-search-live-reco",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-andrew-yang-is-building-instead-of-waiting-for",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why Andrew Yang is building instead of waiting for Washington",
+  "link": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
+  "pubDate": "Wed, 10 Jun 2026 22:24:12 +0000",
+  "slides": [
+    "Yang stopped waiting for DC—what did he build?",
+    "A platform bypassing broken political systems entirely.",
+    "It reaches more people than any campaign he ran.",
+    "You can join without permission from politicians.",
+    "Test it today: act where government won't."
+  ],
+  "thread_text": [
+    "Un candidato alla presidenza ha smesso di aspettare Washington e ha costruito una piattaforma politica parallela. Non è una campagna. È un'infrastruttura.",
+    "La piattaforma bypassa completamente i sistemi politici rotti. Nessun partito, nessun comitato, nessun permesso. Solo cittadini che agiscono dove il governo non arriva.",
+    "Oggi raggiunge più persone di qualsiasi campagna elettorale che abbia mai condotto. Perché? Perché non chiede voto. Chiede azione diretta.",
+    "Puoi unirti senza chiedere il permesso a nessun politico. Non devi essere eletto, non devi essere registrato. Solo decidere di agire.",
+    "Prova oggi: scegli un problema che il governo ignora, e usa la piattaforma per risolverlo con altri. Inizia questa settimana."
+  ],
+  "video_script": [
+    "Ha smesso di aspettare i politici.",
+    "Ha costruito una piattaforma alternativa.",
+    "Bypassa il sistema politico rotto.",
+    "Raggiunge più persone della sua campagna.",
+    "Testala ora, agisci dove il governo non può."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Un candidato alla presidenza ha smesso di aspettare Washington e ha costruito una piattaforma politica parallela. Non è una campagna. È un'infrastruttura.",
+        "La piattaforma bypassa completamente i sistemi politici rotti. Nessun partito, nessun comitato, nessun permesso. Solo cittadini che agiscono dove il governo non arriva.",
+        "Oggi raggiunge più persone di qualsiasi campagna elettorale che abbia mai condotto. Perché? Perché non chiede voto. Chiede azione diretta.",
+        "Puoi unirti senza chiedere il permesso a nessun politico. Non devi essere eletto, non devi essere registrato. Solo decidere di agire.",
+        "Prova oggi: scegli un problema che il governo ignora, e usa la piattaforma per risolverlo con altri. Inizia questa settimana."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ha smesso di aspettare i politici.",
+        "Ha costruito una piattaforma alternativa.",
+        "Bypassa il sistema politico rotto.",
+        "Raggiunge più persone della sua campagna.",
+        "Testala ora, agisci dove il governo non può."
+      ]
+    },
+    "instagram": {
+      "caption": "Andrew Yang ha smesso di aspettare Washington e ha costruito una piattaforma politica parallela che bypassa partiti e comitati 🛠️. Non è una campagna elettorale: è un'infrastruttura per cittadini che agiscono direttamente, senza chiedere permessi ai politici. Oggi raggiunge più persone di qualsiasi sua corsa alla presidenza, perché non chiede voti, ma azione su problemi concreti che il governo ignora 👥. Per te significa poter risolvere una questione locale con altri, senza passare da burocrazie o elezioni. Qual è il primo problema che affronteresti?"
+    }
+  },
+  "instagram_caption": "Andrew Yang ha smesso di aspettare Washington e ha costruito una piattaforma politica parallela che bypassa partiti e comitati 🛠️. Non è una campagna elettorale: è un'infrastruttura per cittadini che agiscono direttamente, senza chiedere permessi ai politici. Oggi raggiunge più persone di qualsiasi sua corsa alla presidenza, perché non chiede voti, ma azione su problemi concreti che il governo ignora 👥. Per te significa poter risolvere una questione locale con altri, senza passare da burocrazie o elezioni. Qual è il primo problema che affronteresti?",
+  "carousel_slides": [
+    {
+      "hook": "Built what campaigns can't",
+      "description": "Oggi raggiunge più persone di qualsiasi campagna. Non chiede voto, chiede azione diretta.",
+      "visual_hint": "Infrastruttura politica parallela",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Bypass the broken system",
+      "description": "Nessun partito, nessun comitato, nessun permesso. Solo cittadini che agiscono dove il governo non arriva.",
+      "visual_hint": "Sistema politico bypassato",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Direct action over votes",
+      "description": "Raggiunge più persone perché non chiede voto. Chiede azione diretta su problemi ignorati.",
+      "visual_hint": "Azione diretta collettiva",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Join without permission",
+      "description": "Non devi essere eletto o registrato. Solo decidere di agire con altri cittadini.",
+      "visual_hint": "Accesso senza barriere",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Solve what government ignores",
+      "description": "Scegli un problema ignorato. Usa la piattaforma per risolverlo con altri. Inizia questa settimana.",
+      "visual_hint": "Soluzione concreta e immediata",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1239809807.jpg?resize=1200,800",
+  "savedAt": "2026-06-11T02:46:56.890Z",
+  "sourceId": "e2d4711a8f0d5f8a2c1983d3b2c4b684"
+}

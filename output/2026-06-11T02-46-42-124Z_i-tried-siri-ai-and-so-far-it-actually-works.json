@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "i-tried-siri-ai-and-so-far-it-actually-works",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "I tried Siri AI, and so far it actually works",
+  "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+  "pubDate": "2026-06-09T23:43:00.000Z",
+  "slides": [
+    "Siri AI funziona davvero, ma è già superata?",
+    "Apple ha riscritto l’intero stack AI da zero.",
+    "Il vero salto è nei comandi contestuali complessi.",
+    "Ora fa cose che Alexa e Google ancora mancano.",
+    "Provala oggi in un task reale e confronta."
+  ],
+  "thread_text": [
+    "Il vero salto è nei comandi contestuali complessi. Mentre gli altri assistenti si perdono in una frase di mezzo, questo capisce cosa vuoi davvero senza dover specificare tutto.",
+    "Per arrivare a questo, Apple ha riscritto l’intero stack AI da zero. Non una patch, non un aggiornamento: codice nuovo, architettura diversa.",
+    "Siri funziona davvero adesso, ma è già avanti. Il problema è che la versione che tutti conoscono è stata superata da questa nuova, che fa cose che Alexa e Google ancora mancano.",
+    "Non è questione di velocità, è questione di profondità. Tipo: \"ricordami di comprare il latte quando passo davanti al supermercato\" – e lo fa.",
+    "Costa zero se hai un iPhone recente. Apri Note, dettale \"lista della spesa ordinata per corsia\" e vedi cosa succede."
+  ],
+  "video_script": [
+    "Il vero salto? I comandi complessi.",
+    "Apple ha riscritto tutto l'AI da capo.",
+    "Siri ora fa cose che altri ancora mancano.",
+    "Tipo: chiedigli un task reale complesso.",
+    "Provala oggi, costa zero."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Il vero salto è nei comandi contestuali complessi. Mentre gli altri assistenti si perdono in una frase di mezzo, questo capisce cosa vuoi davvero senza dover specificare tutto.",
+        "Per arrivare a questo, Apple ha riscritto l’intero stack AI da zero. Non una patch, non un aggiornamento: codice nuovo, architettura diversa.",
+        "Siri funziona davvero adesso, ma è già avanti. Il problema è che la versione che tutti conoscono è stata superata da questa nuova, che fa cose che Alexa e Google ancora mancano.",
+        "Non è questione di velocità, è questione di profondità. Tipo: \"ricordami di comprare il latte quando passo davanti al supermercato\" – e lo fa.",
+        "Costa zero se hai un iPhone recente. Apri Note, dettale \"lista della spesa ordinata per corsia\" e vedi cosa succede."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Il vero salto? I comandi complessi.",
+        "Apple ha riscritto tutto l'AI da capo.",
+        "Siri ora fa cose che altri ancora mancano.",
+        "Tipo: chiedigli un task reale complesso.",
+        "Provala oggi, costa zero."
+      ]
+    },
+    "instagram": {
+      "caption": "Apple ha riscritto l’intero stack AI di Siri da zero. 🖍️ Non una patch, ma codice nuovo e architettura diversa, per gestire comandi come “ricordami di comprare il latte quando passo davanti al supermercato” senza ripetizioni. Funziona già, ma la versione pubblica è indietro. 📱 Se hai un iPhone recente, aprilo gratis in Note: dettale “lista della spesa ordinata per corsia” e vedi il confronto. 🛒"
+    }
+  },
+  "instagram_caption": "Apple ha riscritto l’intero stack AI di Siri da zero. 🖍️ Non una patch, ma codice nuovo e architettura diversa, per gestire comandi come “ricordami di comprare il latte quando passo davanti al supermercato” senza ripetizioni. Funziona già, ma la versione pubblica è indietro. 📱 Se hai un iPhone recente, aprilo gratis in Note: dettale “lista della spesa ordinata per corsia” e vedi il confronto. 🛒",
+  "carousel_slides": [
+    {
+      "hook": "E se Siri fosse già superata?",
+      "description": "Siri funziona davvero ora, ma la versione conosciuta è vecchia. La nuova fa cose che Alexa e Google ancora mancano.",
+      "visual_hint": "Siri icon vs robot heads",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot face vs human"
+    },
+    {
+      "hook": "Apple ha riscritto tutto da zero",
+      "description": "Non una patch, non un aggiornamento: codice nuovo, architettura diversa per l'intero stack AI.",
+      "visual_hint": "blueprint code vs old code",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Il salto? Comandi contestuali complessi",
+      "description": "Mentre altri assistenti si perdono, questo capisce cosa vuoi senza dover specificare tutto.",
+      "visual_hint": "dialog bubbles with arrows",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chat interface smartphone",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prova questo: 'Ricordami il latte al supermercato'",
+      "description": "Non è velocità, è profondità. Capisce il contesto e lo fa davvero, cosa che Alexa e Google ancora non sanno.",
+      "visual_hint": "hand holding phone with map",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person walking street holding phone",
+      "image": "https://images.pexels.com/photos/9461321/pexels-photo-9461321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costa zero sul tuo iPhone",
+      "description": "Apri Note, dettale 'lista della spesa ordinata per corsia' e vedi cosa succede.",
+      "visual_hint": "iPhone screen with Notes app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "iPhone Notes app grocery list",
+      "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+  "savedAt": "2026-06-11T02:47:14.507Z",
+  "sourceId": "97e73bfc89ed13aa5f8929c049259ef8"
+}
