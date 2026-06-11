@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "xebia-why-ai-agents-fail-without-the-right-data-fo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Xebia: Why AI agents fail without the right data foundation",
+  "link": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
+  "pubDate": "Thu, 11 Jun 2026 10:42:38 +0000",
+  "slides": [
+    "Why do your AI agents keep failing?",
+    "Xebia found 73% fail due to bad data.",
+    "You expected logic—but garbage in kills reasoning.",
+    "Clean data pipelines fix nothing if governance is missing.",
+    "Audit one source today. Just one."
+  ],
+  "thread_text": [
+    "1. Your AI is lying to you.\n\n73% of AI failures start with bad data, not bad code. Your trust is misplaced.",
+    "2. Garbage in kills reasoning.\n\nYou expected logic, but dirty data breaks the chain. No cleaning step fixes that.",
+    "3. Clean pipelines aren't enough.\n\nYou fixed the pipes, but if governance is missing, the same garbage flows through.",
+    "4. Data governance is the missing brain.\n\nWithout rules on who owns, audits, and corrects data, failure is designed into the system.",
+    "5. Audit one source today. Just one.\n\nPick the dataset your last AI decision relied on. Trace one field. If you haven't, start there."
+  ],
+  "video_script": [
+    "Seventy-three percent of AI fails from bad data.",
+    "You expected logic, but garbage kills reasoning.",
+    "Clean data pipelines fix nothing without governance.",
+    "Governance is the missing brain in AI.",
+    "Audit one data source today. Just one."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your AI is lying to you.\n\n73% of AI failures start with bad data, not bad code. Your trust is misplaced.",
+        "2. Garbage in kills reasoning.\n\nYou expected logic, but dirty data breaks the chain. No cleaning step fixes that.",
+        "3. Clean pipelines aren't enough.\n\nYou fixed the pipes, but if governance is missing, the same garbage flows through.",
+        "4. Data governance is the missing brain.\n\nWithout rules on who owns, audits, and corrects data, failure is designed into the system.",
+        "5. Audit one source today. Just one.\n\nPick the dataset your last AI decision relied on. Trace one field. If you haven't, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Seventy-three percent of AI fails from bad data.",
+        "You expected logic, but garbage kills reasoning.",
+        "Clean data pipelines fix nothing without governance.",
+        "Governance is the missing brain in AI.",
+        "Audit one data source today. Just one."
+      ]
+    },
+    "instagram": {
+      "caption": "73% of AI failures start with bad data, not bad code. 🗑️\n\nClean data pipelines fix nothing if governance is missing. Dirty data breaks reasoning, and no amount of scrubbing saves logic without rules on who owns and audits the source.\n\nIf you publish content or train models directly, one corrupted field can kill every decision downstream.\n\nAudit one dataset today—just one field your last AI call relied on. 🧠 Do you know where it comes from?"
+    }
+  },
+  "instagram_caption": "73% of AI failures start with bad data, not bad code. 🗑️\n\nClean data pipelines fix nothing if governance is missing. Dirty data breaks reasoning, and no amount of scrubbing saves logic without rules on who owns and audits the source.\n\nIf you publish content or train models directly, one corrupted field can kill every decision downstream.\n\nAudit one dataset today—just one field your last AI call relied on. 🧠 Do you know where it comes from?",
+  "carousel_slides": [
+    {
+      "hook": "Your AI is lying to you.",
+      "description": "73% of AI failures start with bad data, not bad code. Your trust is misplaced.",
+      "visual_hint": "broken robot arm",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken robot arm"
+    },
+    {
+      "hook": "Garbage in kills reasoning.",
+      "description": "Dirty data breaks the logic chain. No cleaning step fixes that.",
+      "visual_hint": "trash inside computer",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "trash inside computer",
+      "image": "https://images.pexels.com/photos/18296921/pexels-photo-18296921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Clean pipelines aren't enough.",
+      "description": "Without governance, the same garbage flows through fixed pipes.",
+      "visual_hint": "pipe with dirty water",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "pipe with dirty water",
+      "image": "https://images.pexels.com/photos/27928193/pexels-photo-27928193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Governance is the missing brain.",
+      "description": "No rules on data ownership and audits mean failure is designed in.",
+      "visual_hint": "brain with data nodes",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "brain with data nodes",
+      "image": "https://images.pexels.com/photos/27915925/pexels-photo-27915925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — audit one source today.",
+      "description": "Pick the dataset your last AI decision relied on. Trace one field. Start there.",
+      "visual_hint": "single document magnified",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "single document magnified",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/3732878/pexels-photo-3732878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-11T20:11:35.208Z",
+  "sourceId": "cf4bdee75a70db3531f2a8327f5812d2"
+}

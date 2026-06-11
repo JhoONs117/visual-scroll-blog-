@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "coinbase-s-new-tool-can-help-agents-trade-and-pay-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Coinbase’s new tool can help agents trade and pay for premium research",
+  "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+  "pubDate": "Thu, 11 Jun 2026 17:00:00 +0000",
+  "slides": [
+    "Coinbase’s tool lets agents trade—but with whose rules?",
+    "It also pays for premium research in real time.",
+    "The twist: agents now sign their own crypto transactions.",
+    "You no longer need manual approvals for each trade.",
+    "Test one autonomous trade today and watch execution speed."
+  ],
+  "thread_text": [
+    "1. Who signs the trade?\n\nCoinbase’s new tool lets AI agents sign crypto transactions themselves — no human key needed.",
+    "2. Real-time research pays.\n\nThe same system pays for premium data mid-trade, giving agents live market intel.",
+    "3. No more manual checks.\n\nYou can skip approval queues entirely. The agent executes faster than you can click confirm.",
+    "4. Rules are still missing.\n\nWhile the agent acts alone, regulatory guardrails haven’t been defined. Who’s liable?",
+    "5. Test one trade today.\n\nRun a single autonomous trade on Coinbase’s testnet this week. Did it execute faster than your manual process?"
+  ],
+  "video_script": [
+    "Coinbase agents now sign their own trades.",
+    "They buy premium research in real time.",
+    "No manual approvals needed anymore.",
+    "But who set their rules?",
+    "Try one autonomous trade and see."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who signs the trade?\n\nCoinbase’s new tool lets AI agents sign crypto transactions themselves — no human key needed.",
+        "2. Real-time research pays.\n\nThe same system pays for premium data mid-trade, giving agents live market intel.",
+        "3. No more manual checks.\n\nYou can skip approval queues entirely. The agent executes faster than you can click confirm.",
+        "4. Rules are still missing.\n\nWhile the agent acts alone, regulatory guardrails haven’t been defined. Who’s liable?",
+        "5. Test one trade today.\n\nRun a single autonomous trade on Coinbase’s testnet this week. Did it execute faster than your manual process?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Coinbase agents now sign their own trades.",
+        "They buy premium research in real time.",
+        "No manual approvals needed anymore.",
+        "But who set their rules?",
+        "Try one autonomous trade and see."
+      ]
+    },
+    "instagram": {
+      "caption": "Coinbase’s new tool lets AI agents sign their own crypto transactions—no human key required. 🤖\n\nIt pays for premium market research automatically during a trade. That’s live intel without you clicking “confirm.”\n\nYou skip the manual approval queue entirely—execution happens at machine speed. ⚡\n\nFor anyone running automated trading or content workflows: you no longer sit between the agent and the trade.\n\nWho writes the rules when your agent acts alone—and who’s liable if it goes wrong? 💭"
+    }
+  },
+  "instagram_caption": "Coinbase’s new tool lets AI agents sign their own crypto transactions—no human key required. 🤖\n\nIt pays for premium market research automatically during a trade. That’s live intel without you clicking “confirm.”\n\nYou skip the manual approval queue entirely—execution happens at machine speed. ⚡\n\nFor anyone running automated trading or content workflows: you no longer sit between the agent and the trade.\n\nWho writes the rules when your agent acts alone—and who’s liable if it goes wrong? 💭",
+  "carousel_slides": [
+    {
+      "hook": "Who signs the trade?",
+      "description": "Coinbase’s new tool lets AI agents sign crypto transactions themselves, removing the human key.",
+      "visual_hint": "AI robot hand signing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot hand keyboard"
+    },
+    {
+      "hook": "Real-time research pays.",
+      "description": "The system pays for premium data mid-trade, giving agents live market intel instantly.",
+      "visual_hint": "Data stream flowing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No more manual checks.",
+      "description": "You skip approval queues entirely—the agent executes faster than you can click confirm.",
+      "visual_hint": "Red approval queue empty",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rules are still missing.",
+      "description": "While the agent acts alone, regulatory guardrails haven’t been defined. Who is liable?",
+      "visual_hint": "Gavel and question mark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "law books scale",
+      "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one trade today.",
+      "description": "Run a single autonomous trade on Coinbase’s testnet this week and compare execution speed.",
+      "visual_hint": "Testnet interface screenshot",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop code screen",
+      "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/01/coinbase-phone.jpg?resize=1200,678",
+  "savedAt": "2026-06-11T20:11:48.796Z",
+  "sourceId": "265acdde0a7071edeaeb86f6b4891e1d"
+}

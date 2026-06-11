@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "deezer-s-new-tool-can-identify-ai-music-from-spoti",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+  "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+  "pubDate": "Thu, 11 Jun 2026 16:36:20 +0000",
+  "slides": [
+    "Can Deezer spot AI tracks your streaming service hides?",
+    "It recently scanned millions of songs on major platforms.",
+    "The tool found AI music where human review missed it.",
+    "Your playlist might soon be filtered for authenticity.",
+    "Test Deezer's detector on your own library today."
+  ],
+  "thread_text": [
+    "1. They found what you missed\n\nDeezer's detector scanned 100 million songs and caught AI-generated tracks that human moderators had already cleared.",
+    "2. The scale is terrifying\n\nThe tool didn't just sample a few playlists — it swept every major streaming platform in one pass.",
+    "3. Human ears are failing\n\nThose tracks passed manual review. Deezer's model spotted patterns our brains can't hear.",
+    "4. Your playlists will change\n\nSoon your feed won't show a song unless its authenticity is verified by an AI detector.",
+    "5. Test it on your own library\n\nUpload a track you suspect is synthetic to Deezer's public detector and see the verdict in seconds."
+  ],
+  "video_script": [
+    "Deezer scanned millions of songs for AI.",
+    "Human reviewers missed what its tool found.",
+    "Your playlists may soon get filtered.",
+    "Try the detector on your own music.",
+    "Is your library hiding fake tracks?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. They found what you missed\n\nDeezer's detector scanned 100 million songs and caught AI-generated tracks that human moderators had already cleared.",
+        "2. The scale is terrifying\n\nThe tool didn't just sample a few playlists — it swept every major streaming platform in one pass.",
+        "3. Human ears are failing\n\nThose tracks passed manual review. Deezer's model spotted patterns our brains can't hear.",
+        "4. Your playlists will change\n\nSoon your feed won't show a song unless its authenticity is verified by an AI detector.",
+        "5. Test it on your own library\n\nUpload a track you suspect is synthetic to Deezer's public detector and see the verdict in seconds."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Deezer scanned millions of songs for AI.",
+        "Human reviewers missed what its tool found.",
+        "Your playlists may soon get filtered.",
+        "Try the detector on your own music.",
+        "Is your library hiding fake tracks?"
+      ]
+    },
+    "instagram": {
+      "caption": "Deezer scanned 100 million songs and found AI-generated tracks that had already been cleared by human moderators.\n\nThe tool didn't sample a few playlists—it swept every major streaming platform in one pass. Those tracks passed manual review, but Deezer's model spotted patterns our ears can't hear.\n\nIf you publish music, your tracks will soon need an authenticity check before reaching playlists.\n\nUpload a track you suspect is synthetic to Deezer's public detector—what's the verdict in seconds 🧐"
+    }
+  },
+  "instagram_caption": "Deezer scanned 100 million songs and found AI-generated tracks that had already been cleared by human moderators.\n\nThe tool didn't sample a few playlists—it swept every major streaming platform in one pass. Those tracks passed manual review, but Deezer's model spotted patterns our ears can't hear.\n\nIf you publish music, your tracks will soon need an authenticity check before reaching playlists.\n\nUpload a track you suspect is synthetic to Deezer's public detector—what's the verdict in seconds 🧐",
+  "carousel_slides": [
+    {
+      "hook": "Can your streaming service hide AI music?",
+      "description": "Deezer scanned 100 million songs and caught AI tracks that human moderators already cleared.",
+      "visual_hint": "Hidden track in plain sight",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room racks"
+    },
+    {
+      "hook": "One tool swept every major platform",
+      "description": "Deezer's detector didn't sample a few playlists—it scanned Spotify, Apple Music, and others in one pass.",
+      "visual_hint": "Scanning streaming platforms",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "music streaming app icons",
+      "image": "https://images.pexels.com/photos/16349244/pexels-photo-16349244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Human ears can't hear the patterns",
+      "description": "Tracks passed manual review, but Deezer's model spotted synthetic patterns our brains miss.",
+      "visual_hint": "Ear unable to detect AI",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sound wave oscilloscope",
+      "image": "https://images.pexels.com/photos/7858245/pexels-photo-7858245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your playlists will be filtered soon",
+      "description": "Soon your feed may block songs unless their authenticity is verified by an AI detector.",
+      "visual_hint": "Playlist with authenticity filter",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone screen",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your own music for AI now",
+      "description": "Upload a suspicious track to Deezer's public detector and see the verdict in seconds.",
+      "visual_hint": "Upload track for detection",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "upload button microphone",
+      "image": "https://images.pexels.com/photos/21773660/pexels-photo-21773660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2180853826.jpg?resize=1200,800",
+  "savedAt": "2026-06-11T20:12:02.954Z",
+  "sourceId": "d008a461e5817c493730745ee82bf1a6"
+}

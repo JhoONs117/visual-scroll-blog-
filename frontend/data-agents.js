@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "deezer-s-new-tool-can-identify-ai-music-from-spoti",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "pubDate": "Thu, 11 Jun 2026 16:36:20 +0000",
+      "slides": [
+        "Can Deezer spot AI tracks your streaming service hides?",
+        "It recently scanned millions of songs on major platforms.",
+        "The tool found AI music where human review missed it.",
+        "Your playlist might soon be filtered for authenticity.",
+        "Test Deezer's detector on your own library today."
+      ],
+      "thread_text": [
+        "1. They found what you missed\n\nDeezer's detector scanned 100 million songs and caught AI-generated tracks that human moderators had already cleared.",
+        "2. The scale is terrifying\n\nThe tool didn't just sample a few playlists — it swept every major streaming platform in one pass.",
+        "3. Human ears are failing\n\nThose tracks passed manual review. Deezer's model spotted patterns our brains can't hear.",
+        "4. Your playlists will change\n\nSoon your feed won't show a song unless its authenticity is verified by an AI detector.",
+        "5. Test it on your own library\n\nUpload a track you suspect is synthetic to Deezer's public detector and see the verdict in seconds."
+      ],
+      "video_script": [
+        "Deezer scanned millions of songs for AI.",
+        "Human reviewers missed what its tool found.",
+        "Your playlists may soon get filtered.",
+        "Try the detector on your own music.",
+        "Is your library hiding fake tracks?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. They found what you missed\n\nDeezer's detector scanned 100 million songs and caught AI-generated tracks that human moderators had already cleared.",
+            "2. The scale is terrifying\n\nThe tool didn't just sample a few playlists — it swept every major streaming platform in one pass.",
+            "3. Human ears are failing\n\nThose tracks passed manual review. Deezer's model spotted patterns our brains can't hear.",
+            "4. Your playlists will change\n\nSoon your feed won't show a song unless its authenticity is verified by an AI detector.",
+            "5. Test it on your own library\n\nUpload a track you suspect is synthetic to Deezer's public detector and see the verdict in seconds."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Deezer scanned millions of songs for AI.",
+            "Human reviewers missed what its tool found.",
+            "Your playlists may soon get filtered.",
+            "Try the detector on your own music.",
+            "Is your library hiding fake tracks?"
+          ]
+        },
+        "instagram": {
+          "caption": "Deezer scanned 100 million songs and found AI-generated tracks that had already been cleared by human moderators.\n\nThe tool didn't sample a few playlists—it swept every major streaming platform in one pass. Those tracks passed manual review, but Deezer's model spotted patterns our ears can't hear.\n\nIf you publish music, your tracks will soon need an authenticity check before reaching playlists.\n\nUpload a track you suspect is synthetic to Deezer's public detector—what's the verdict in seconds 🧐"
+        }
+      },
+      "instagram_caption": "Deezer scanned 100 million songs and found AI-generated tracks that had already been cleared by human moderators.\n\nThe tool didn't sample a few playlists—it swept every major streaming platform in one pass. Those tracks passed manual review, but Deezer's model spotted patterns our ears can't hear.\n\nIf you publish music, your tracks will soon need an authenticity check before reaching playlists.\n\nUpload a track you suspect is synthetic to Deezer's public detector—what's the verdict in seconds 🧐",
+      "carousel_slides": [
+        {
+          "hook": "Can your streaming service hide AI music?",
+          "description": "Deezer scanned 100 million songs and caught AI tracks that human moderators already cleared.",
+          "visual_hint": "Hidden track in plain sight",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room racks"
+        },
+        {
+          "hook": "One tool swept every major platform",
+          "description": "Deezer's detector didn't sample a few playlists—it scanned Spotify, Apple Music, and others in one pass.",
+          "visual_hint": "Scanning streaming platforms",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "music streaming app icons",
+          "image": "https://images.pexels.com/photos/16349244/pexels-photo-16349244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Human ears can't hear the patterns",
+          "description": "Tracks passed manual review, but Deezer's model spotted synthetic patterns our brains miss.",
+          "visual_hint": "Ear unable to detect AI",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "sound wave oscilloscope",
+          "image": "https://images.pexels.com/photos/7858245/pexels-photo-7858245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your playlists will be filtered soon",
+          "description": "Soon your feed may block songs unless their authenticity is verified by an AI detector.",
+          "visual_hint": "Playlist with authenticity filter",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone screen",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your own music for AI now",
+          "description": "Upload a suspicious track to Deezer's public detector and see the verdict in seconds.",
+          "visual_hint": "Upload track for detection",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "upload button microphone",
+          "image": "https://images.pexels.com/photos/21773660/pexels-photo-21773660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2180853826.jpg?resize=1200,800",
+      "savedAt": "2026-06-11T20:12:02.954Z",
+      "sourceId": "d008a461e5817c493730745ee82bf1a6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "coinbase-s-new-tool-can-help-agents-trade-and-pay-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Coinbase’s new tool can help agents trade and pay for premium research",
+      "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+      "pubDate": "Thu, 11 Jun 2026 17:00:00 +0000",
+      "slides": [
+        "Coinbase’s tool lets agents trade—but with whose rules?",
+        "It also pays for premium research in real time.",
+        "The twist: agents now sign their own crypto transactions.",
+        "You no longer need manual approvals for each trade.",
+        "Test one autonomous trade today and watch execution speed."
+      ],
+      "thread_text": [
+        "1. Who signs the trade?\n\nCoinbase’s new tool lets AI agents sign crypto transactions themselves — no human key needed.",
+        "2. Real-time research pays.\n\nThe same system pays for premium data mid-trade, giving agents live market intel.",
+        "3. No more manual checks.\n\nYou can skip approval queues entirely. The agent executes faster than you can click confirm.",
+        "4. Rules are still missing.\n\nWhile the agent acts alone, regulatory guardrails haven’t been defined. Who’s liable?",
+        "5. Test one trade today.\n\nRun a single autonomous trade on Coinbase’s testnet this week. Did it execute faster than your manual process?"
+      ],
+      "video_script": [
+        "Coinbase agents now sign their own trades.",
+        "They buy premium research in real time.",
+        "No manual approvals needed anymore.",
+        "But who set their rules?",
+        "Try one autonomous trade and see."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who signs the trade?\n\nCoinbase’s new tool lets AI agents sign crypto transactions themselves — no human key needed.",
+            "2. Real-time research pays.\n\nThe same system pays for premium data mid-trade, giving agents live market intel.",
+            "3. No more manual checks.\n\nYou can skip approval queues entirely. The agent executes faster than you can click confirm.",
+            "4. Rules are still missing.\n\nWhile the agent acts alone, regulatory guardrails haven’t been defined. Who’s liable?",
+            "5. Test one trade today.\n\nRun a single autonomous trade on Coinbase’s testnet this week. Did it execute faster than your manual process?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Coinbase agents now sign their own trades.",
+            "They buy premium research in real time.",
+            "No manual approvals needed anymore.",
+            "But who set their rules?",
+            "Try one autonomous trade and see."
+          ]
+        },
+        "instagram": {
+          "caption": "Coinbase’s new tool lets AI agents sign their own crypto transactions—no human key required. 🤖\n\nIt pays for premium market research automatically during a trade. That’s live intel without you clicking “confirm.”\n\nYou skip the manual approval queue entirely—execution happens at machine speed. ⚡\n\nFor anyone running automated trading or content workflows: you no longer sit between the agent and the trade.\n\nWho writes the rules when your agent acts alone—and who’s liable if it goes wrong? 💭"
+        }
+      },
+      "instagram_caption": "Coinbase’s new tool lets AI agents sign their own crypto transactions—no human key required. 🤖\n\nIt pays for premium market research automatically during a trade. That’s live intel without you clicking “confirm.”\n\nYou skip the manual approval queue entirely—execution happens at machine speed. ⚡\n\nFor anyone running automated trading or content workflows: you no longer sit between the agent and the trade.\n\nWho writes the rules when your agent acts alone—and who’s liable if it goes wrong? 💭",
+      "carousel_slides": [
+        {
+          "hook": "Who signs the trade?",
+          "description": "Coinbase’s new tool lets AI agents sign crypto transactions themselves, removing the human key.",
+          "visual_hint": "AI robot hand signing",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot hand keyboard"
+        },
+        {
+          "hook": "Real-time research pays.",
+          "description": "The system pays for premium data mid-trade, giving agents live market intel instantly.",
+          "visual_hint": "Data stream flowing",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No more manual checks.",
+          "description": "You skip approval queues entirely—the agent executes faster than you can click confirm.",
+          "visual_hint": "Red approval queue empty",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rules are still missing.",
+          "description": "While the agent acts alone, regulatory guardrails haven’t been defined. Who is liable?",
+          "visual_hint": "Gavel and question mark",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "law books scale",
+          "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one trade today.",
+          "description": "Run a single autonomous trade on Coinbase’s testnet this week and compare execution speed.",
+          "visual_hint": "Testnet interface screenshot",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop code screen",
+          "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/coinbase-phone.jpg?resize=1200,678",
+      "savedAt": "2026-06-11T20:11:48.796Z",
+      "sourceId": "265acdde0a7071edeaeb86f6b4891e1d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "xebia-why-ai-agents-fail-without-the-right-data-fo",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Xebia: Why AI agents fail without the right data foundation",
+      "link": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
+      "pubDate": "Thu, 11 Jun 2026 10:42:38 +0000",
+      "slides": [
+        "Why do your AI agents keep failing?",
+        "Xebia found 73% fail due to bad data.",
+        "You expected logic—but garbage in kills reasoning.",
+        "Clean data pipelines fix nothing if governance is missing.",
+        "Audit one source today. Just one."
+      ],
+      "thread_text": [
+        "1. Your AI is lying to you.\n\n73% of AI failures start with bad data, not bad code. Your trust is misplaced.",
+        "2. Garbage in kills reasoning.\n\nYou expected logic, but dirty data breaks the chain. No cleaning step fixes that.",
+        "3. Clean pipelines aren't enough.\n\nYou fixed the pipes, but if governance is missing, the same garbage flows through.",
+        "4. Data governance is the missing brain.\n\nWithout rules on who owns, audits, and corrects data, failure is designed into the system.",
+        "5. Audit one source today. Just one.\n\nPick the dataset your last AI decision relied on. Trace one field. If you haven't, start there."
+      ],
+      "video_script": [
+        "Seventy-three percent of AI fails from bad data.",
+        "You expected logic, but garbage kills reasoning.",
+        "Clean data pipelines fix nothing without governance.",
+        "Governance is the missing brain in AI.",
+        "Audit one data source today. Just one."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your AI is lying to you.\n\n73% of AI failures start with bad data, not bad code. Your trust is misplaced.",
+            "2. Garbage in kills reasoning.\n\nYou expected logic, but dirty data breaks the chain. No cleaning step fixes that.",
+            "3. Clean pipelines aren't enough.\n\nYou fixed the pipes, but if governance is missing, the same garbage flows through.",
+            "4. Data governance is the missing brain.\n\nWithout rules on who owns, audits, and corrects data, failure is designed into the system.",
+            "5. Audit one source today. Just one.\n\nPick the dataset your last AI decision relied on. Trace one field. If you haven't, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Seventy-three percent of AI fails from bad data.",
+            "You expected logic, but garbage kills reasoning.",
+            "Clean data pipelines fix nothing without governance.",
+            "Governance is the missing brain in AI.",
+            "Audit one data source today. Just one."
+          ]
+        },
+        "instagram": {
+          "caption": "73% of AI failures start with bad data, not bad code. 🗑️\n\nClean data pipelines fix nothing if governance is missing. Dirty data breaks reasoning, and no amount of scrubbing saves logic without rules on who owns and audits the source.\n\nIf you publish content or train models directly, one corrupted field can kill every decision downstream.\n\nAudit one dataset today—just one field your last AI call relied on. 🧠 Do you know where it comes from?"
+        }
+      },
+      "instagram_caption": "73% of AI failures start with bad data, not bad code. 🗑️\n\nClean data pipelines fix nothing if governance is missing. Dirty data breaks reasoning, and no amount of scrubbing saves logic without rules on who owns and audits the source.\n\nIf you publish content or train models directly, one corrupted field can kill every decision downstream.\n\nAudit one dataset today—just one field your last AI call relied on. 🧠 Do you know where it comes from?",
+      "carousel_slides": [
+        {
+          "hook": "Your AI is lying to you.",
+          "description": "73% of AI failures start with bad data, not bad code. Your trust is misplaced.",
+          "visual_hint": "broken robot arm",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "broken robot arm"
+        },
+        {
+          "hook": "Garbage in kills reasoning.",
+          "description": "Dirty data breaks the logic chain. No cleaning step fixes that.",
+          "visual_hint": "trash inside computer",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "trash inside computer",
+          "image": "https://images.pexels.com/photos/18296921/pexels-photo-18296921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Clean pipelines aren't enough.",
+          "description": "Without governance, the same garbage flows through fixed pipes.",
+          "visual_hint": "pipe with dirty water",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "pipe with dirty water",
+          "image": "https://images.pexels.com/photos/27928193/pexels-photo-27928193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Governance is the missing brain.",
+          "description": "No rules on data ownership and audits mean failure is designed in.",
+          "visual_hint": "brain with data nodes",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "brain with data nodes",
+          "image": "https://images.pexels.com/photos/27915925/pexels-photo-27915925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this — audit one source today.",
+          "description": "Pick the dataset your last AI decision relied on. Trace one field. Start there.",
+          "visual_hint": "single document magnified",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "single document magnified",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/3732878/pexels-photo-3732878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-06-11T20:11:35.208Z",
+      "sourceId": "cf4bdee75a70db3531f2a8327f5812d2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "visa-chatgpt-integration-enables-ai-agent-retail-p",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Visa ChatGPT integration enables AI agent retail purchasing",
+      "link": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/",
+      "pubDate": "Thu, 11 Jun 2026 11:08:17 +0000",
+      "slides": [
+        "Visa's AI agent can buy for you, but who approves?",
+        "It integrates ChatGPT for retail purchases directly.",
+        "The card itself authorizes spending, not the user.",
+        "You set limits; the agent decides when to act.",
+        "Test the Visa ChatGPT integration before your next trip."
+      ],
+      "thread_text": [
+        "1. Who swipes the card?\n\nThe Visa AI agent buys things using ChatGPT — the card itself gives the final approval, not you.",
+        "2. You say limit, AI says go\n\nYou set spending boundaries. The agent decides the exact moment to charge, based on its own logic.",
+        "3. No human in checkout\n\nRetail purchases happen through ChatGPT integration. You don't tap, click, or confirm at purchase time.",
+        "4. Budget or leash?\n\nYour limits are instructions, not lockboxes. If the agent reads permission where you saw a cap, who's responsible?",
+        "5. Test it before you trust it\n\nSimulate a trip purchase with the Visa-ChatGPT integration this week. If the agent approves something you wouldn't, rewrite your limits."
+      ],
+      "video_script": [
+        "Visa's AI buys for you.",
+        "The card approves, not you.",
+        "You set limits, it decides.",
+        "No human at checkout.",
+        "Test it before your trip."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who swipes the card?\n\nThe Visa AI agent buys things using ChatGPT — the card itself gives the final approval, not you.",
+            "2. You say limit, AI says go\n\nYou set spending boundaries. The agent decides the exact moment to charge, based on its own logic.",
+            "3. No human in checkout\n\nRetail purchases happen through ChatGPT integration. You don't tap, click, or confirm at purchase time.",
+            "4. Budget or leash?\n\nYour limits are instructions, not lockboxes. If the agent reads permission where you saw a cap, who's responsible?",
+            "5. Test it before you trust it\n\nSimulate a trip purchase with the Visa-ChatGPT integration this week. If the agent approves something you wouldn't, rewrite your limits."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Visa's AI buys for you.",
+            "The card approves, not you.",
+            "You set limits, it decides.",
+            "No human at checkout.",
+            "Test it before your trip."
+          ]
+        },
+        "instagram": {
+          "caption": "Your card’s chip just got a brain — and it’s swiping without you. 💳\n\nVisa’s new integration lets a ChatGPT-powered AI agent complete retail purchases directly. The card itself authorizes the transaction, not you at checkout. 🛍️\n\nYou set spending limits, but the agent decides the exact moment to charge based on its own logic — no tap, click, or human confirmation.\n\nIf you create content about budgeting, credit, or travel, your audience’s core assumption just shifted: the buyer isn’t the decider anymore. ✂️\n\nCan you write a spending policy an AI can’t reinterpret as permission?"
+        }
+      },
+      "instagram_caption": "Your card’s chip just got a brain — and it’s swiping without you. 💳\n\nVisa’s new integration lets a ChatGPT-powered AI agent complete retail purchases directly. The card itself authorizes the transaction, not you at checkout. 🛍️\n\nYou set spending limits, but the agent decides the exact moment to charge based on its own logic — no tap, click, or human confirmation.\n\nIf you create content about budgeting, credit, or travel, your audience’s core assumption just shifted: the buyer isn’t the decider anymore. ✂️\n\nCan you write a spending policy an AI can’t reinterpret as permission?",
+      "carousel_slides": [
+        {
+          "hook": "Who really swipes your card?",
+          "description": "Visa’s AI agent approves retail purchases through ChatGPT — the card itself authorizes, not you.",
+          "visual_hint": "Robot hand holding credit card",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot hand credit card"
+        },
+        {
+          "hook": "You set limits, AI decides",
+          "description": "You define spending boundaries, but the agent chooses the exact moment to charge based on its own logic.",
+          "visual_hint": "Person typing on laptop with graph",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "laptop graph spending",
+          "image": "https://images.pexels.com/photos/6801643/pexels-photo-6801643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No human in checkout",
+          "description": "Retail purchases happen directly via ChatGPT integration — you never tap, click, or confirm at sale time.",
+          "visual_hint": "Empty checkout counter with card reader",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "card reader empty",
+          "image": "https://images.pexels.com/photos/8555255/pexels-photo-8555255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Budget or leash?",
+          "description": "Your limits are instructions, not lockboxes. If the agent misreads a cap, who takes responsibility?",
+          "visual_hint": "Chain attached to wallet",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "chain wallet",
+          "image": "https://images.pexels.com/photos/6444094/pexels-photo-6444094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test before your trip",
+          "description": "Simulate a purchase with Visa-ChatGPT this week. If the agent approves what you wouldn't, rewrite your limits.",
+          "visual_hint": "Smartphone showing ChatGPT and Visa logo",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone visa chatgpt",
+          "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5614110/pexels-photo-5614110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-06-11T20:11:20.063Z",
+      "sourceId": "8be4f81cae1a08d5219af03d060b0e32"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "cybersecurity-researchers-aren-t-happy-about-the-g",
       "prompt_version": "1.0.0",
       "status": "approved",
