@@ -693,36 +693,40 @@ Ogni articolo che supera i filtri viene processato da tre funzioni in sequenza. 
 
 DeepSeek riceve il titolo dell'articolo e deve produrre 5 slide seguendo una struttura narrativa fissa.
 
+**Lingua output: English** (anche se il titolo è in italiano).
+
 **Struttura obbligatoria in ordine:**
 
 | Posizione | Ruolo | Regola |
 |---|---|---|
-| Slide 1 | **HOOK** | Crea tensione o domanda aperta — non un titolo di giornale. Se esiste un hook più forte tra le altre slide, viene usato quello e la struttura si riordina. |
-| Slide 2 | **CONTESTO** | Una sola informazione nuova |
-| Slide 3 | **SORPRENDENTE** | La cosa che il lettore non si aspetta |
-| Slide 4 | **PRATICO** | Cosa cambia concretamente per chi legge |
-| Slide 5 | **TAKEAWAY** | Frase finale netta: azione o riflessione |
+| Slide 1 | **HOOK** | Domanda o affermazione con tensione irrisolta — mai un fatto nudo. Se esiste un hook più forte tra le altre slide, viene usato quello. |
+| Slide 2 | **CONTEXT** | Una sola informazione nuova |
+| Slide 3 | **SURPRISING** | La cosa che il lettore non si aspetta |
+| Slide 4 | **PRACTICAL** | Cosa cambia concretamente per chi legge |
+| Slide 5 | **TAKEAWAY** | Frase finale netta: azione specifica o riflessione |
 
 **Regola critica — tensione irrisolta:**  
-Ogni slide deve lasciare una domanda aperta o un'informazione incompleta che si risolve solo nella slide successiva. Il test interno del prompt è: *"questa slide mi lascia una domanda aperta o vuole che legga la prossima?"* — se no, è sbagliata.
+Ogni slide deve lasciare una domanda aperta o un'informazione incompleta che si risolve solo nella slide successiva. Test: *"does this slide leave an open question or make me want to read the next?"* — se no, è sbagliata.
 
-**Limite:** max 12 parole per slide (il prompt dice "LIMITE ASSOLUTO: conta le parole").
+**Regola anti-ripetizione:** ogni slide copre un concetto diverso — due slide non possono dire la stessa cosa con parole diverse.
+
+**Limite:** max 12 parole per slide.
 
 **Esempio DA NON FARE** (slide descrittive, tutto chiuso):
 ```
-"OpenAI lancia GPT-5" / "È più potente di GPT-4" / "Ragiona in più passaggi" /
-"Costa meno" / "Disponibile su ChatGPT da oggi"
+"OpenAI launches GPT-5" / "More powerful than GPT-4" / "Reasons in multiple steps" /
+"Costs less" / "Available on ChatGPT today"
 ```
 
 **Esempio DA FARE** (ogni slide lascia qualcosa in sospeso):
 ```
-"GPT-5 può sostituire il tuo analista?" / "Ragiona su problemi complessi in più passaggi" /
-"Ma sbaglia meno degli umani solo su certi task" / "Chi non lo testa ora rischia di perdere terreno" /
-"Un task reale oggi: confronta i risultati tu stesso"
+"Can GPT-5 replace your analyst?" / "It reasons through complex problems step by step" /
+"But beats humans only on specific task types" / "Teams not testing it now are falling behind" /
+"One real task today: compare results yourself"
 ```
 
 **Come modificare la struttura delle slide:**  
-Apri `generate.js` e modifica il testo della variabile `prompt` dentro `generateSlides()` (righe 28–52). Dopo ogni modifica svuota la cache (`echo "{}" > cache.json`) e rigenerai con `node regenerate-all.js`.
+Apri `generate.js` → funzione `generateSlides()`. Dopo ogni modifica svuota la cache e rigenera con `node regenerate-all.js`.
 
 ---
 
@@ -730,24 +734,36 @@ Apri `generate.js` e modifica il testo della variabile `prompt` dentro `generate
 
 Riceve le 5 slide già generate e produce due formati pronti per la distribuzione.
 
-#### Thread X (`thread_text`) — 5 tweet
+**Lingua output: English** (anche se le slide sono in italiano).
+
+#### Thread X (`thread_text`) — formato e regole
+
+**Formato fisso per ogni tweet:**
+```
+N. Short title
+
+Body sentence or two.
+```
+- **Titolo:** 3–5 parole max. Domanda, affermazione tagliente, o imperativo. Non riassume il corpo — crea curiosità.
+- **Corpo:** 1–3 frasi. Aggiunge informazione nuova non già nel titolo. Non parafrasa il titolo.
+- **Lunghezza totale:** max 240 caratteri (titolo + corpo).
 
 | Tweet | Regola |
 |---|---|
-| **Tweet 1** | Sceglie la slide con **più tensione narrativa** tra le 5 — non necessariamente la slide 1. Può venire dalla 3 o dalla 5. L'ordine del thread si ricostruisce intorno a quella slide. |
-| **Tweet 2–4** | Sviluppano con progressione (contesto → svolta → conseguenza). Non ripetono le slide — aggiungono beat narrativi nuovi. |
-| **Tweet 5** | Chiude con un **fatto netto**, una conseguenza concreta o una domanda aperta. Mai con valutazioni editoriali generiche. |
+| **Tweet 1** | Angolo con più tensione narrativa tra le 5 slide — non necessariamente slide 1. Il corpo aggiunge un fatto concreto, non ripete il titolo. |
+| **Tweet 2–4** | Ognuno introduce UN'angolazione nuova non già usata. Arc: context → twist → consequence. Mai due tweet sullo stesso concetto. |
+| **Tweet 5** | Azione specifica che il lettore può fare oggi, O domanda che lo riguarda direttamente. Vietato: analogie generiche ("less than a cup of coffee"), CTA vaghe. |
 
-Regole fisse: max 240 caratteri per tweet, niente hashtag, niente emoji forzate, tono diretto non giornalistico, ogni tweet comprensibile da solo.
+Regole fisse: niente hashtag, niente emoji forzate, tono diretto non giornalistico.
 
-**DA NON FARE** per tweet 5: `"L'AI non è più solo un sogno"` / `"Il futuro è già qui"`  
-**DA FARE** per tweet 5: `"Costa meno di un abbonamento Spotify. Testalo questa settimana."`
+**DA NON FARE** tweet 5: `"It costs less than a cup of coffee a day"` / `"Start today"`  
+**DA FARE** tweet 5: `"Go to YouTube Studio → Settings → toggle off third-party training. Do it now."`
 
 #### Script video (`video_script`) — 5 righe
 
-Linguaggio parlato, non scritto. Max 10 parole per riga. Come se stessi spiegando a voce a un amico. Niente sigle tecniche senza spiegazione.
+Linguaggio parlato, non scritto. Max 10 parole per riga. Esattamente 5 righe. Niente sigle tecniche senza spiegazione.
 
-**`generateFormats` viene chiamata solo se `GENERATE_FORMATS=true` in `.env`.** Se un articolo non ha `thread_text` o `video_script` nel JSON, questa variabile era assente o la funzione ha fallito (logga `generateFormats fallito:` nei log).
+**`generateFormats` viene chiamata solo se `GENERATE_FORMATS=true` in `.env`.** Se un articolo non ha `thread_text` o `video_script`, questa variabile era assente o la funzione ha fallito (logga `generateFormats fallito:`).
 
 ---
 
@@ -755,32 +771,35 @@ Linguaggio parlato, non scritto. Max 10 parole per riga. Come se stessi spiegand
 
 Genera `instagram_caption` per ogni articolo AI News. Viene chiamata dopo `generateFormats` in `run.js` e usata da `backfill.js` per gli articoli esistenti.
 
-**Struttura della caption:**
+**Lingua output: English** (anche se le slide sono in italiano).
+
+**Struttura della caption — ogni blocco separato da riga vuota:**
 
 | Parte | Regola |
 |---|---|
-| Prima riga | Fatto concreto parlato — non inizia con "Oggi", "L'AI" o il titolo |
-| 2-3 righe | Contesto semplificato + perché conta — niente sigle senza spiegazione |
-| 1 riga | Impatto concreto per chi legge (lavoro, strumenti, quotidiano) |
-| Chiusura | Domanda aperta OPPURE fatto netto — mai valutazione generica |
+| Prima riga | Fatto concreto specifico — non inizia con "Today", "AI", il nome dell'azienda o il titolo. Parte dal dato che tocca direttamente chi legge. |
+| Corpo (2-3 righe) | Una sola informazione per riga, separata da riga vuota. Linguaggio semplice, niente sigle senza spiegazione. |
+| Riga conseguenza | Cosa cambia concretamente per chi pubblica o crea contenuti. |
+| Chiusura | Domanda che implicha il lettore direttamente, OPPURE azione specifica con passaggio concreto. Mai opinione generica. |
 
-**Anti-pattern espliciti nel prompt:**  
-`"Il futuro è già qui"` / `"L'AI sta rivoluzionando tutto"` / `"Siamo solo all'inizio"` / aggettivi come "incredibile" o "straordinario"
+**Regola anti-inversione fatti:** se il titolo dice "nega" o "won't admit", non scrivere "admitted". Non invertire mai il senso della notizia.
 
-**Regole fisse:** 3-5 emoji pertinenti nel testo (non tutte in fondo), niente hashtag, max 120 parole.
+**Anti-pattern espliciti:**  
+`"The future is here"` / `"AI is changing everything"` / `"We're just getting started"` / `"incredible"` / `"extraordinary"`
 
-Cache separata: `ainews:caption:<md5(title)>` — nessuna collisione con thread X, carousel o food.
+**Regole fisse:** 3-5 emoji nel testo (non tutte in fondo, non tutte in fila), niente hashtag, max 120 parole.
 
-**Come modificare il tono:**  
-Apri `generate.js` e modifica il testo del prompt dentro `generateAINewsCaption()`. Dopo la modifica svuota solo le chiavi caption:
+Cache separata: `ainews:caption:<md5(normalize(title))>`.
+
+**Come svuotare solo le caption per rigenerare:**
 ```bash
 node -e "
 const fs = require('fs');
-const cache = JSON.parse(fs.readFileSync('cache.json','utf8'));
+const cache = JSON.parse(fs.readFileSync('cache/ai-news.json','utf8'));
 const filtered = Object.fromEntries(
   Object.entries(cache).filter(([k]) => !k.startsWith('ainews:caption:'))
 );
-fs.writeFileSync('cache.json', JSON.stringify(filtered, null, 2));
+fs.writeFileSync('cache/ai-news.json', JSON.stringify(filtered, null, 2));
 console.log('Cache caption AI News rimossa.');
 "
 node backfill.js
@@ -792,13 +811,17 @@ node backfill.js
 
 Riceve titolo, slide e thread_text già generati. Produce i metadati per le 5 card del carousel.
 
+**Lingua output: English** (hook, description, visual_hint tutti in inglese).
+
 Per ogni slide genera:
-- `hook` — max 8 parole, tensione irrisolta (stesso principio delle slide)
-- `description` — max 25 parole, condensa il tweet più pertinente senza copiarlo
+- `hook` — max 8 parole. Domanda o affermazione tagliente che ferma lo scroll. Slide 1 = angolo con più tensione tra tutte le 5 slide. Nessun hook uguale tra le 5 card.
+- `description` — max 25 parole. Un fatto specifico + conseguenza. Deriva dalle slide (non dal thread X).
 - `visual_hint` — max 6 parole, elemento visivo concreto per quella slide
 - `image_query` — 2-3 parole inglesi per la ricerca immagine Pexels (oggetti, luoghi, tecnologia — non ritratti di sconosciuti)
 - `layout_type` — fisso per posizione: `hero` → `right-focus` → `sensor-zoom` → `human-hand` → `cta-final`
 - `icon` — scelto dall'AI tra: `tag`, `waves`, `heart`, `vibration`, `check`
+
+**Slide 5 (cta-final):** hook deve spingere a salvare, commentare o visitare il link in bio. Description = azione specifica che il lettore può fare adesso.
 
 ---
 
@@ -806,13 +829,19 @@ Per ogni slide genera:
 
 | Sintomo | Causa probabile | Dove intervenire |
 |---|---|---|
-| Slide 1 troppo descrittiva, non crea curiosità | Regola HOOK ignorata | Prompt `generateSlides()` in `generate.js` riga ~34 |
-| Thread parte con "Recentemente..." o ripete la slide 1 | Regola tweet 1 ignorata | Prompt `generateFormats()` in `generate.js` riga ~91 |
-| Tweet 5 vago o editoriale | Regola tweet 5 ignorata | Prompt `generateFormats()` in `generate.js` riga ~93 |
-| Slide troppo lunghe (>12 parole) | Limite non rispettato | Rafforzare il vincolo nel prompt `generateSlides()` |
-| `carousel_slides` con description inventate | `thread_text` assente come input | Verificare che `GENERATE_FORMATS=true` nel `.env` |
+| Output in italiano invece di inglese | Lingua non rispettata | Aggiungere `CRITICAL: Write in English` all'inizio del prompt |
+| Slide 1 troppo descrittiva, non crea curiosità | Regola HOOK ignorata | `generateSlides()` in `generate.js` |
+| Titolo del tweet riassume il corpo | Regola titolo ignorata | `generateFormats()` in `generate.js` |
+| Tweet 2-4 ripetono lo stesso concetto | Anti-ripetizione ignorata | `generateFormats()` — rafforzare la regola |
+| Tweet 5 vago o con analogia generica | Regola tweet 5 ignorata | `generateFormats()` — aggiungere esempi di CTA specifiche |
+| Caption IG inverte i fatti della notizia | Regola anti-inversione ignorata | `generateAINewsCaption()` — rafforzare la regola |
+| Carousel description inventate o fuori contesto | `thread_text` assente o usato come fonte | Verificare `GENERATE_FORMATS=true` in `.env` |
+| Slide troppo lunghe (>12 parole) | Limite non rispettato | Rafforzare il vincolo in `generateSlides()` |
 
-Dopo ogni modifica al prompt: `echo "{}" > cache.json` → `node regenerate-all.js`
+**Prompt fitness:** stesse regole, file separato → `agents/fitness/prompts.js` (slides, carousel, caption, videoScript, thread).
+
+Dopo ogni modifica al prompt AI News: svuota `cache/ai-news.json` → `node regenerate-all.js`  
+Dopo ogni modifica al prompt fitness: svuota `cache/fitness.json` → rigenera con `node core/run-agent.js fitness`
 
 ---
 
