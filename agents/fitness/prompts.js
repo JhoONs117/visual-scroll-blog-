@@ -30,22 +30,25 @@ async function generateFitnessSlides(article) {
     return cache[cacheKey];
   }
 
-  const prompt = `Sei un coach fitness italiano. Dato questo titolo di un articolo su allenamento o benessere, crea 5 slide motivazionali e pratiche.
+  const prompt = `You are a fitness coach. Given this workout or wellness article title, create 5 motivational and practical slides.
 
-Titolo: ${title}
+CRITICAL: Write ALL slides in English, regardless of the title's language.
 
-Rispondi SOLO JSON valido, niente altro:
+Title: ${title}
+
+Reply with ONLY valid JSON, nothing else:
 { "slides": ["...", "...", "...", "...", "..."] }
 
-Struttura delle 5 slide — segui l'ordine esatto:
-1. HOOK — frase motivazionale d'impatto sul beneficio principale (max 8 parole)
-2. CONTESTO — perché questo allenamento/esercizio vale il tuo tempo (max 8 parole)
-3. TECNICA — il gesto chiave da eseguire correttamente (max 8 parole)
-4. ERRORE — l'errore più comune da evitare (max 8 parole)
-5. CTA — azione concreta da fare oggi (max 8 parole)
+Structure — follow this exact order:
+1. HOOK — high-impact statement on the main benefit. Must be a question or sharp statement, never a bare fact (max 8 words)
+2. CONTEXT — one reason why this exercise/approach is worth your time (max 8 words)
+3. TECHNIQUE — the key movement or method to execute correctly (max 8 words)
+4. MISTAKE — the most common error and why it matters (max 8 words)
+5. CTA — one specific action to do today or tomorrow (max 8 words)
 
-LIMITE ASSOLUTO: ogni slide deve avere AL MASSIMO 10 parole. Conta le parole prima di rispondere.
-Tono: diretto, pratico, da coach. Niente testo fuori dal JSON.`;
+HARD LIMIT: each slide max 10 words. Count before answering.
+ANTI-REPETITION: each slide covers one concept not already covered.
+Tone: direct, practical, coach voice. No text outside the JSON.`;
 
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
@@ -82,38 +85,40 @@ async function generateFitnessCarouselSlides(article) {
     .map((s, i) => `${i + 1}. ${s}`)
     .join('\n');
 
-  const prompt = `Sei un coach fitness italiano e social media manager. Dato questo titolo e queste 5 slide su un allenamento, genera i metadati per un carousel Instagram fitness.
+  const prompt = `You are a fitness coach and social media manager. Given this title and 5 slides about a workout, generate metadata for an Instagram fitness carousel.
 
-Titolo: ${title}
-Slide:
+CRITICAL: Write ALL text (hook, description, visual_hint) in English, regardless of the input language.
+
+Title: ${title}
+Slides:
 ${slidesText}
 
-Rispondi SOLO JSON valido nel formato:
+Reply with ONLY valid JSON in this format:
 {
   "carousel_slides": [
-    { "hook": "max 8 parole", "description": "beneficio pratico max 25 parole", "visual_hint": "max 6 parole", "layout_type": "hero",        "icon": "tag",       "image_query": "2-3 parole inglesi" },
-    { "hook": "...",           "description": "...",                              "visual_hint": "...",          "layout_type": "right-focus", "icon": "waves",     "image_query": "..." },
-    { "hook": "...",           "description": "...",                              "visual_hint": "...",          "layout_type": "sensor-zoom", "icon": "heart",     "image_query": "..." },
-    { "hook": "...",           "description": "...",                              "visual_hint": "...",          "layout_type": "human-hand",  "icon": "vibration", "image_query": "..." },
-    { "hook": "...",           "description": "...",                              "visual_hint": "...",          "layout_type": "cta-final",   "icon": "check",     "image_query": "..." }
+    { "hook": "max 8 words", "description": "practical benefit max 25 words", "visual_hint": "max 6 words", "layout_type": "hero",        "icon": "tag",       "image_query": "2-3 English words" },
+    { "hook": "...",          "description": "...",                             "visual_hint": "...",         "layout_type": "right-focus", "icon": "waves",     "image_query": "..." },
+    { "hook": "...",          "description": "...",                             "visual_hint": "...",         "layout_type": "sensor-zoom", "icon": "heart",     "image_query": "..." },
+    { "hook": "...",          "description": "...",                             "visual_hint": "...",         "layout_type": "human-hand",  "icon": "vibration", "image_query": "..." },
+    { "hook": "...",          "description": "...",                             "visual_hint": "...",         "layout_type": "cta-final",   "icon": "check",     "image_query": "..." }
   ]
 }
 
-Regole carousel_slides:
-- Slide 1 (hero): hook = promessa principale dell'allenamento
-- Slide 2 (right-focus): hook e description sul contesto/beneficio
-- Slide 3 (sensor-zoom): tecnica chiave da eseguire
-- Slide 4 (human-hand): errore comune e come correggerlo
-- Slide 5 (cta-final): call to action pratica
+Carousel rules:
+- Slide 1 (hero): hook = the strongest benefit or most surprising claim — scroll-stopping question or sharp statement
+- Slide 2 (right-focus): hook and description on context/benefit
+- Slide 3 (sensor-zoom): key technique to execute correctly
+- Slide 4 (human-hand): most common mistake and how to fix it
+- Slide 5 (cta-final): specific action the reader can do today. Hook must push to save or comment.
 
-Regole image_query:
-- 2-3 parole inglesi che descrivono la scena fitness come fotografia
-- Esempi: "gym workout man", "yoga pose woman", "running park morning", "home exercise mat", "strength training barbell"
-- Deve descrivere persone che si allenano, attrezzatura o ambienti fitness reali
+image_query rules:
+- 2-3 English words describing the fitness scene as a photograph
+- Examples: "gym workout man", "yoga pose woman", "running park morning", "home exercise mat", "strength training barbell"
+- Must depict people training, equipment, or real fitness environments
 
-layout_type fisso in ordine: hero → right-focus → sensor-zoom → human-hand → cta-final
-icon: scegli il più pertinente tra tag, waves, heart, vibration, check
-Niente testo fuori dal JSON.`;
+layout_type fixed in order: hero → right-focus → sensor-zoom → human-hand → cta-final
+icon: choose most relevant among tag, waves, heart, vibration, check
+No text outside the JSON.`;
 
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
@@ -150,23 +155,33 @@ async function generateFitnessCaption(article) {
 
   const slidesText = (slides || []).map((s, i) => `${i + 1}. ${s}`).join('\n');
 
-  const prompt = `Sei un fitness coach italiano su Instagram. Scrivi una caption pronta da pubblicare per questo contenuto fitness.
+  const prompt = `You are a fitness coach on Instagram. Write a ready-to-publish caption for this fitness content.
 
-Titolo: ${title}
-Punti chiave:
+CRITICAL: Write the caption in English, regardless of the input language.
+
+Title: ${title}
+Key points:
 ${slidesText}
 
-Rispondi SOLO con la caption in italiano, nessun altro testo.
+Reply with ONLY the caption, no other text.
 
-Regole:
-- 4-6 righe di testo motivazionale e pratico
-- Prima riga: frase d'impatto sul beneficio principale (non iniziare con "Oggi")
-- Seconda/terza riga: spiega brevemente la tecnica o il contesto in modo accessibile
-- Ultima riga: call to action concreto (es. "Prova questo esercizio domani mattina 💪")
-- 3-5 emoji pertinenti, non esagerare
-- Tono: da coach, motivazionale ma pratico
-- Niente hashtag — li aggiungerà l'utente
-- Max 120 parole totali`;
+Structure — separate each block with a blank line:
+
+[First line]
+One sharp statement on the main benefit or the most common mistake — written like you'd say it to someone at the gym. Do NOT start with "Today" or the exercise name alone.
+
+[Body — 2-3 lines, each separated by a blank line]
+Explain the technique or context simply. One piece of information per line.
+
+[Closing]
+A specific action the reader can do today or tomorrow — with enough detail to actually do it. OR a direct question that implicates them personally.
+
+FORBIDDEN: "Change your life", "You won't regret it", "Start today", generic motivational phrases that fit any post.
+DO: specific reps/sets/timing if relevant, concrete consequences, direct questions.
+
+3-5 relevant emoji in the text (not all at the end).
+No hashtags.
+Max 120 words total.`;
 
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
@@ -196,22 +211,24 @@ async function generateFitnessVideoScript(article) {
 
   const slidesText = (slides || []).map((s, i) => `${i + 1}. ${s}`).join('\n');
 
-  const prompt = `Sei un fitness creator italiano su TikTok e Instagram Reels. Scrivi uno script video per questo contenuto fitness.
+  const prompt = `You are a fitness creator on TikTok and Instagram Reels. Write a video script for this fitness content.
 
-Titolo: ${title}
-Punti chiave:
+CRITICAL: Write the script in English, regardless of the input language.
+
+Title: ${title}
+Key points:
 ${slidesText}
 
-Rispondi SOLO JSON valido, nessun altro testo:
-{ "video_script": ["riga 1", "riga 2", "riga 3", "riga 4", "riga 5"] }
+Reply with ONLY valid JSON, no other text:
+{ "video_script": ["line 1", "line 2", "line 3", "line 4", "line 5"] }
 
-Regole:
-- Esattamente 5 righe, una per punto chiave
-- Linguaggio parlato, come se stessi allenando davanti alla telecamera
-- Max 10 parole per riga
-- Tono diretto e carico: "Parti così..." "Il segreto è..." "Evita questo errore..."
-- Niente sigle o termini tecnici complessi
-- Niente testo fuori dal JSON`;
+Rules:
+- Exactly 5 lines, one per key point
+- Spoken language, as if coaching in front of a camera
+- Max 10 words per line
+- Direct and energetic tone: "Start like this..." "The secret is..." "Avoid this mistake..."
+- No unexplained acronyms or complex technical terms
+- No text outside the JSON`;
 
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
@@ -242,25 +259,36 @@ async function generateFitnessThread(article) {
 
   const slidesText = (slides || []).map((s, i) => `${i + 1}. ${s}`).join('\n');
 
-  const prompt = `Sei un fitness coach italiano su X (Twitter). Scrivi un thread di 5 tweet su questo allenamento.
+  const prompt = `You are an Italian fitness coach on X (Twitter). Write a 5-tweet thread about this workout or fitness topic.
 
-Titolo: ${title}
-Punti chiave:
+Title: ${title}
+Key points:
 ${slidesText}
 
-Rispondi SOLO JSON valido, nessun altro testo:
+Reply with ONLY valid JSON, no other text:
 { "thread_text": ["tweet 1", "tweet 2", "tweet 3", "tweet 4", "tweet 5"] }
 
-Regole:
-- Esattamente 5 tweet
-- Max 240 caratteri per tweet
-- Tweet 1: aggancio forte sul beneficio principale — crea curiosità o motivazione, non iniziare con "Oggi"
-- Tweet 2-4: spiega tecnica, contesto e errore da evitare con ritmo
-- Tweet 5: call to action concreto (es. "Prova domani e dimmi com'è andata 👇")
-- Ogni tweet funziona da solo, ma il thread ha progressione
-- Tono: da coach, diretto e pratico
-- Niente hashtag, max 1-2 emoji dove ci stanno
-- Niente testo fuori dal JSON`;
+FORMAT: each tweet = "N. Title\\n\\nBody"
+- Title: 3–5 words max. Sharp statement, question, or imperative. Creates tension or curiosity — does NOT summarize the body.
+- Body: 1–3 short sentences. Adds NEW information not already in the title. Never paraphrases the title.
+- Total tweet length: max 240 characters (title + body combined).
+- Language: English. Tone: direct coach, not a journalist.
+
+TWEET 1 — hook:
+Lead with the most surprising benefit or the most common mistake — whichever creates more tension.
+Body must open the story with one concrete fact or consequence, not a rephrasing of the title.
+
+TWEETS 2–4 — escalation:
+Each tweet = ONE new angle (technique / context / mistake / fix). Never dedicate two tweets to the same concept.
+Arc: promise → method → obstacle → solution.
+
+TWEET 5 — close:
+Must give a specific action the reader can do today or tomorrow — with enough detail to actually do it.
+FORBIDDEN: "Start today", "Give it a try", "You won't regret it", generic motivational phrases.
+GOOD: "Tomorrow morning: 3 sets of [X], rest 90s. Track your reps. Post the result 👇" / "Test this: [specific exercise] before your next session. Tell me if you felt the difference."
+
+ANTI-REPETITION: each tweet covers a different concept. No concept appears twice.
+No hashtags. Max 1–2 emoji only where they add meaning.`;
 
   for (let attempt = 0; attempt < 2; attempt++) {
     try {

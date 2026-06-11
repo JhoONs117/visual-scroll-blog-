@@ -29,31 +29,35 @@ async function generateSlides(title) {
     return cache[hash];
   }
 
-  const prompt = `Rispondi SOLO JSON valido, niente altro.
-Formato: { "slides": ["...", "...", "...", "...", "..."] }
+  const prompt = `Reply with ONLY valid JSON, nothing else.
+Format: { "slides": ["...", "...", "...", "...", "..."] }
 
-LIMITE ASSOLUTO: ogni slide deve avere AL MASSIMO 12 parole. Conta le parole prima di rispondere. Se ne hai 13 o più, taglia.
+CRITICAL: Write ALL slides in English, regardless of the title's language.
 
-Struttura delle 5 slide — segui l'ordine esatto:
-1. HOOK — puoi aprire con il nome dell'azienda o protagonista come ancoraggio, ma la slide deve sempre aggiungere tensione o una domanda aperta, non solo il fatto nudo. Se esiste un hook più forte tra le 5 posizioni, usalo al posto di questo e riordina la struttura di conseguenza.
-2. CONTESTO — una sola informazione nuova.
-3. SORPRENDENTE — la cosa che il lettore non si aspetta.
-4. PRATICO — cosa cambia concretamente per chi legge.
-5. TAKEAWAY — frase finale netta: azione o riflessione.
+HARD LIMIT: each slide must have AT MOST 12 words. Count before answering. If 13 or more, cut.
 
-REGOLA CRITICA — tensione irrisolta:
-Ogni slide deve contenere una tensione non risolta o un'informazione incompleta che si chiude solo nella slide successiva. Il lettore non deve poter smettere di leggere dopo ogni slide.
-Test interno: "questa slide mi lascia una domanda aperta o vuole che legga la prossima?" — se la risposta è no, è sbagliata.
+Structure — follow this exact order:
+1. HOOK — open with the company/protagonist name as anchor if useful, but always add tension or an open question. Never a bare fact. Must be a question or a statement with unresolved tension.
+2. CONTEXT — one single new piece of information.
+3. SURPRISING — the thing the reader does not expect.
+4. PRACTICAL — what concretely changes for the reader.
+5. TAKEAWAY — sharp closing line: a specific action or reflection.
 
-Esempio DA NON FARE (slide che chiudono ogni informazione, zero tensione):
-{ "slides": ["OpenAI lancia GPT-5", "È più potente di GPT-4", "Ragiona in più passaggi", "Costa meno dei modelli precedenti", "Disponibile su ChatGPT da oggi"] }
+CRITICAL RULE — unresolved tension:
+Each slide must contain an unresolved tension or incomplete information that closes only in the next slide. The reader must not be able to stop after any slide.
+Internal test: "does this slide leave an open question or make me want to read the next?" — if no, rewrite it.
 
-Esempio DA FARE (ogni slide lascia qualcosa in sospeso):
-{ "slides": ["GPT-5 può sostituire il tuo analista?", "Ragiona su problemi complessi in più passaggi", "Ma sbaglia meno degli umani solo su certi task", "Chi non lo testa ora rischia di perdere terreno", "Un task reale oggi: confronta i risultati tu stesso"] }
+ANTI-REPETITION: each slide covers one concept not already covered. Never two slides on the same idea.
 
-Niente fluff, niente aggettivi generici.
+BAD example (slides that close every piece of info, zero tension):
+{ "slides": ["OpenAI launches GPT-5", "More powerful than GPT-4", "Reasons in multiple steps", "Costs less than previous models", "Available on ChatGPT today"] }
 
-Titolo: ${title}`;
+GOOD example (each slide leaves something open):
+{ "slides": ["Can GPT-5 replace your analyst?", "It reasons through complex problems step by step", "But beats humans only on specific task types", "Teams not testing it now are falling behind", "One real task today: compare results yourself"] }
+
+No fluff. No generic adjectives.
+
+Title: ${title}`;
 
   const raw = await callDeepSeek(prompt);
   const json = raw.match(/\{[\s\S]*\}/)?.[0];
@@ -69,41 +73,62 @@ Titolo: ${title}`;
 async function generateFormats(title, slides) {
   const slidesText = slides.map((s, i) => `${i + 1}. ${s}`).join('\n');
 
-  const prompt = `Hai queste 5 slide su un articolo AI:
+  const prompt = `You have these 5 slides about an AI news article:
 ${slidesText}
 
-Genera due formati. Rispondi SOLO JSON valido:
+CRITICAL: Write ALL output in ENGLISH. The slides may be in Italian — ignore their language and write the thread and script entirely in English.
+
+Generate two formats. Reply with ONLY valid JSON, no other text:
 
 {
   "thread_text": [
-    "tweet 1 — max 240 caratteri, tono diretto, funziona da solo senza contesto",
-    "tweet 2",
-    "tweet 3",
-    "tweet 4",
-    "tweet 5"
+    "1. Short title\\n\\nBody sentence or two.",
+    "2. Short title\\n\\nBody sentence or two.",
+    "3. Short title\\n\\nBody sentence or two.",
+    "4. Short title\\n\\nBody sentence or two.",
+    "5. Short title\\n\\nBody sentence or two."
   ],
   "video_script": [
-    "riga 1 — max 10 parole, come se stessi parlando a voce a un amico",
-    "riga 2",
-    "riga 3",
-    "riga 4",
-    "riga 5"
+    "line 1",
+    "line 2",
+    "line 3",
+    "line 4",
+    "line 5"
   ]
 }
 
-Regole thread:
-- TWEET 1: scegli la slide con più tensione narrativa tra le 5 — indipendentemente dalla sua posizione. Può essere la slide 3 o la 5. Usala come apertura. L'arco del thread si ricostruisce intorno a quella slide, non all'ordine originale.
-- tweet 2–4 sviluppano con progressione di beat narrativi (contesto → svolta → conseguenza), NON ripetono le slide
-- TWEET 5: chiudi con un fatto netto, una conseguenza concreta o una domanda aperta. MAI con una valutazione editoriale generica.
-  DA NON FARE: "L'AI non è più solo un sogno" / "Ed è appena diventato realtà" / "Il futuro è già qui"
-  DA FARE: "Costa meno di un abbonamento Spotify. Testalo questa settimana." / "Se non l'hai già fatto, inizia da questo task: [X]"
-- ogni tweet deve essere comprensibile da solo, ma il thread deve avere ritmo e progressione
-- niente hashtag, niente emoji forzate
-- tono: diretto, non giornalistico
+The video_script array MUST have exactly 5 strings. Each string max 10 words, spoken language.
 
-Regole script:
-- linguaggio parlato, non scritto
-- niente sigle tecniche senza spiegazione`;
+THREAD RULES — read carefully:
+
+FORMAT: each tweet = "N. Title\\n\\nBody"
+- Title: 3–5 words max. Can be a question, a sharp statement, or an imperative. It must create curiosity or tension — NOT summarize the body. The title is the hook visible in the feed.
+- Body: 1–3 short sentences. Must add NEW information that was not already in the title. Never paraphrase the title with different words.
+- Total tweet length: max 240 characters (title + body combined).
+- Language: English. Tone: direct, not journalistic.
+
+TWEET 1 — hook:
+Pick the angle with the most narrative tension across all 5 slides, regardless of position. Rebuild the thread arc around that angle.
+The body of tweet 1 must open the story with one concrete fact or consequence — not a rephrasing of the title.
+
+TWEETS 2–4 — escalation:
+Each tweet must introduce ONE new angle not yet mentioned. Never dedicate two tweets to the same concept.
+Arc: context → twist → consequence. Each tweet should make the reader need the next one.
+
+TWEET 5 — close:
+Must contain either: a specific action the reader can take today, OR a direct question that implicates the reader personally.
+FORBIDDEN: generic analogies ("less than a cup of coffee"), vague calls to action ("start today"), editorial opinions ("this changes everything").
+GOOD: "Take a prompt on ChatGPT and simulate [X]. If you haven't done it, start there." / "Does it make sense to save 20 minutes if you then have to edit twice? Test it on a real post this week."
+
+ANTI-REPETITION CHECK before writing:
+- Is any concept used in more than one tweet? If yes, cut or merge.
+- Does tweet 1's body say the same thing as the title? If yes, rewrite the body.
+
+No hashtags. No forced emojis.
+
+VIDEO SCRIPT RULES:
+- Spoken language, not written
+- No unexplained acronyms`;
 
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
@@ -132,13 +157,15 @@ async function generateCarouselSlides(title, slides, thread_text) {
     ? `\nThread X già scritto (usa il contenuto di questi tweet come base per le description — non copiare verbatim, condensa a max 25 parole per slide):\n${thread_text.map((t, i) => `T${i + 1}: ${t}`).join('\n')}\n`
     : '';
 
-  const prompt = `Dato questo titolo e queste 5 slide, genera 5 carousel_slides per Instagram.
+  const prompt = `Given this title and these 5 slides, generate 5 carousel_slides for Instagram.
 
-Titolo: ${title}
-Slide:
+CRITICAL: Write ALL text (hook, description, visual_hint) in English, regardless of the input language.
+
+Title: ${title}
+Slides:
 ${slidesText}
 ${threadSection}
-Rispondi SOLO JSON valido nel formato:
+Reply with ONLY valid JSON in this format:
 {
   "carousel_slides": [
     { "hook": "max 8 parole", "description": "max 25 parole", "visual_hint": "max 6 parole", "layout_type": "hero",        "icon": "tag",       "image_query": "3-4 parole inglesi concrete" },
@@ -149,24 +176,24 @@ Rispondi SOLO JSON valido nel formato:
   ]
 }
 
-Regole testo:
-- hook: max 8 parole, tensione irrisolta, non titolo di giornale
-- description: max 25 parole — se hai il thread X, condensa il tweet più pertinente per quella slide; non inventare info non presenti nelle slide o nei tweet
-- visual_hint: max 6 parole — elemento visivo concreto coerente con il layout della slide
+Text rules:
+- hook: max 8 words. Must be a question OR a sharp statement that creates scroll-stopping tension. Never a newspaper headline. Slide 1 hook = the strongest tension angle from all 5 slides (can come from slide 3 or 5).
+- description: max 25 words. One specific fact + its consequence. Derive from the slides content; do NOT copy the thread verbatim and do NOT invent facts not in the slides.
+- visual_hint: max 6 words — concrete visual element consistent with the slide layout.
 - image_query: 2-3 parole inglesi semplici, soggetti che esistono come fotografie su Wikipedia. PREFERISCI oggetti, luoghi, tecnologia, infrastrutture (es. "server room", "wind turbine", "power plant", "stock market chart", "factory robot", "solar panels"). Usa persone SOLO se sono figure molto note (es. "Elon Musk", "Bill Gates") oppure scene generiche senza individui riconoscibili (es. "people walking street", "crowd market", "office workers"). EVITA ritratti di individui specifici non famosi, interviste, relatori sconosciuti.
-- slide 1 deve avere l'hook con più tensione (può venire dalla slide 3 o 5 originale)
+- slide 5 (cta-final): hook must push to save, comment, or visit link in bio. Description = one specific action the reader can take now.
+- each slide hook covers a different concept — no two hooks on the same idea.
 
-Regole layout_type — assegna sempre in questo ordine fisso:
-- slide 1: layout_type sempre "hero"
-- slide 2: layout_type sempre "right-focus"
-- slide 3: layout_type sempre "sensor-zoom"
-- slide 4: layout_type sempre "human-hand"
-- slide 5: layout_type sempre "cta-final"
+layout_type rules — always assign in this fixed order:
+- slide 1: always "hero"
+- slide 2: always "right-focus"
+- slide 3: always "sensor-zoom"
+- slide 4: always "human-hand"
+- slide 5: always "cta-final"
 
-Regole icon — scegli il più pertinente al contenuto della slide tra:
-tag, waves, heart, vibration, check
+icon rules — choose the most relevant among: tag, waves, heart, vibration, check
 
-Nessun testo fuori dal JSON.`;
+No text outside the JSON.`;
 
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
@@ -205,24 +232,36 @@ async function generateAINewsCaption(title, slides, thread_text) {
 
   const prompt = `Scrivi una caption Instagram per questa notizia AI.
 
-Titolo: ${title}
+Titolo originale (EN): ${title}
 Slide:
 ${slidesText}${threadSection}
 
-Rispondi SOLO con la caption in italiano, nessun altro testo.
+CRITICAL RULE: respect the meaning of the original title. If the title says someone "denies" or "won't admit", do not write that they "admitted". Never invert the facts.
 
-Struttura:
-- Prima riga: un fatto concreto dalla notizia, scritto come lo racconteresti a voce a qualcuno che non segue l'AI. Non iniziare con "Oggi", "L'AI" o il titolo della notizia.
-- 2-3 righe: spiega cos'è successo e perché conta — linguaggio semplice, niente sigle senza spiegazione
-- 1 riga: cosa cambia concretamente per chi legge (lavoro, strumenti, quotidiano)
-- Ultima riga (opzionale): domanda aperta OPPURE fatto netto di chiusura. MAI una valutazione generica.
+CRITICAL: Write the caption in English, regardless of the input language.
 
-DA NON SCRIVERE: "Il futuro è già qui" / "L'AI sta rivoluzionando tutto" / "Siamo solo all'inizio" / aggettivi come "incredibile" o "straordinario"
-DA SCRIVERE: fatti, numeri se disponibili, conseguenze specifiche
+Reply with ONLY the caption, no other text.
 
-3-5 emoji pertinenti inserite nel testo, non tutte in fondo
-Niente hashtag
-Max 120 parole`;
+Structure — separate each block with a blank line:
+
+[First line]
+One specific concrete fact from the news — written like you'd say it out loud to someone. Do NOT start with "Today", "AI", the company name, or the title. Start from the fact that directly affects the reader.
+
+[Body — 2-3 lines, each separated by a blank line]
+Explain what happened and why it matters. Simple language. One piece of information per line. No unexplained acronyms.
+
+[Consequence line]
+What concretely changes for someone who creates or publishes content (work, tools, daily life).
+
+[Closing]
+An open question that directly implicates the reader OR a specific action with a concrete step. NEVER a generic opinion.
+
+FORBIDDEN: "The future is here" / "AI is changing everything" / "We're just getting started" / "incredible" / "extraordinary" / phrases that could apply to any news story.
+DO: specific facts, direct consequences, questions that concern the reader personally.
+
+3-5 emoji in the text (not all at the end, not all in a row).
+No hashtags.
+Max 120 words total.`;
 
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
