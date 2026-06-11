@@ -5,7 +5,7 @@ window.AGENTS = {
       "agent": "ai-news",
       "slug": "cybersecurity-researchers-aren-t-happy-about-the-g",
       "prompt_version": "1.0.0",
-      "status": "published",
+      "status": "approved",
       "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
       "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
       "pubDate": "Wed, 10 Jun 2026 15:41:22 +0000",
