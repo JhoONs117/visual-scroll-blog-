@@ -64,6 +64,54 @@
       --modal-dl-hover:  #2563eb;
     }
 
+    /* ══ Fitness overrides ══ */
+    .agent-fitness {
+      --main-color:      #f0fdf4;
+      --text-label:      rgba(240,253,244,0.3);
+      --body-bg:         #0a0f0a;
+      --header-bg:       #0d1210;
+      --header-border:   rgba(250,204,21,0.12);
+      --link-hover:      #facc15;
+      --agent-sel-bg:    rgba(250,204,21,0.08);
+      --agent-sel-border:rgba(250,204,21,0.22);
+      --sel-bar-bg:      #0b1009;
+      --sel-bar-border:  rgba(250,204,21,0.07);
+      --sel-bg:          #141a12;
+      --sel-color:       #f0fdf4;
+      --sel-border:      rgba(250,204,21,0.18);
+      --sel-focus:       #facc15;
+      --dl-all-bg:       #facc15;
+      --dl-all-hover:    #d4a914;
+      --dl-btn-bg:       rgba(250,204,21,0.10);
+      --dl-btn-border:   rgba(250,204,21,0.25);
+      --dl-btn-color:    #fde68a;
+      --dl-btn-hover-bg:     rgba(250,204,21,0.20);
+      --dl-btn-hover-border: rgba(250,204,21,0.45);
+      --slide-hover-shadow:  rgba(250,204,21,0.20);
+      --badge-bg:        #1c1c1c;
+      --badge-text:      #facc15;
+      --accent:          #facc15;
+      --icon-stroke:     #facc15;
+      --icon-lg-stroke:  #fde68a;
+      --dp-bg:           rgba(240,253,244,0.05);
+      --dp-dot:          #facc15;
+      --dp-border:       rgba(250,204,21,0.7);
+      --text-body:       rgba(240,253,244,0.80);
+      --text-muted:      rgba(240,253,244,0.75);
+      --text-num:        rgba(240,253,244,0.35);
+      --section-bg:      #0d1210;
+      --section-border:  rgba(250,204,21,0.10);
+      --row-border:      rgba(240,253,244,0.05);
+      --hook-n:          #facc15;
+      --tweet-n:         #facc15;
+      --script-n:        #22c55e;
+      --caption-btn-bg:      rgba(250,204,21,0.12);
+      --caption-btn-border:  rgba(250,204,21,0.28);
+      --caption-btn-color:   #fde68a;
+      --modal-dl-bg:     #facc15;
+      --modal-dl-hover:  #d4a914;
+    }
+
     /* ══ Food overrides ══ */
     .agent-food {
       --main-color:      #f7efe3;
@@ -161,6 +209,9 @@
     .agent-food .selector-bar select {
       background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23e07b39' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
     }
+    .agent-fitness .selector-bar select {
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23facc15' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+    }
     .count-label { font-size: 12px; color: var(--text-num); white-space: nowrap; }
 
     /* ── DOWNLOAD BAR ── */
@@ -251,6 +302,13 @@
     .agent-ai-news .slide.human-hand  { background-color: #05080f; }
     .agent-ai-news .slide.cta-final   { background-color: #080f1f; }
 
+    /* Fitness slide backgrounds */
+    .agent-fitness .slide.hero        { background-color: #0a0f08; }
+    .agent-fitness .slide.right-focus { background-color: #0c1009; }
+    .agent-fitness .slide.sensor-zoom { background-color: #090e07; }
+    .agent-fitness .slide.human-hand  { background-color: #0b100a; }
+    .agent-fitness .slide.cta-final   { background-color: #0a0f08; }
+
     /* Food slide backgrounds */
     .agent-food .slide.hero        { background-color: #10150f; }
     .agent-food .slide.right-focus { background-color: #12100c; }
@@ -275,6 +333,22 @@
     .agent-ai-news .slide.sensor-zoom::before { background: radial-gradient(ellipse 55% 55% at 80% 80%, rgba(120,0,255,0.08) 0%, transparent 70%); }
     .agent-ai-news .slide.human-hand::before  { background: radial-gradient(ellipse 65% 50% at 10% 90%, rgba(59,130,246,0.09) 0%, transparent 70%); }
     .agent-ai-news .slide.cta-final::before   { background: radial-gradient(ellipse 60% 55% at 50% 0%, rgba(59,130,246,0.09) 0%, transparent 70%); }
+
+    /* Fitness overlays */
+    .agent-fitness .slide.hero        .img-overlay { background: radial-gradient(circle at 80% 15%, rgba(250,204,21,0.20), transparent 40%), radial-gradient(circle at 20% 85%, rgba(34,197,94,0.30), transparent 45%), linear-gradient(135deg, #0a0f08 0%, #121a0e 50%, #0f1a0a 100%); }
+    .agent-fitness .slide.right-focus .img-overlay { background: radial-gradient(circle at 75% 30%, rgba(250,204,21,0.15), transparent 40%), linear-gradient(148deg, #0c1009 0%, #141e0c 60%, #101408 100%); }
+    .agent-fitness .slide.sensor-zoom .img-overlay { background: radial-gradient(circle at 50% 70%, rgba(34,197,94,0.25), transparent 45%), linear-gradient(138deg, #090e07 0%, #111906 60%, #0e1508 100%); }
+    .agent-fitness .slide.human-hand  .img-overlay { background: radial-gradient(circle at 20% 80%, rgba(250,204,21,0.18), transparent 40%), linear-gradient(152deg, #0b100a 0%, #141e0c 60%, #101508 100%); }
+    .agent-fitness .slide.cta-final   .img-overlay { background: radial-gradient(circle at 50% 50%, rgba(250,204,21,0.25), transparent 50%), linear-gradient(148deg, #0a0f08 0%, #131b0a 60%, #0f1a0a 100%); }
+    .agent-fitness .slide.has-img     .img-overlay { background: linear-gradient(to bottom, rgba(10,15,8,0.72) 0%, rgba(10,15,8,0.55) 40%, rgba(10,15,8,0.88) 100%); }
+
+    /* Fitness orbs */
+    .agent-fitness .slide::before { content: ''; position: absolute; inset: 0; pointer-events: none; z-index: 1; }
+    .agent-fitness .slide.hero::before        { background: radial-gradient(ellipse 70% 60% at 90% 10%, rgba(250,204,21,0.08) 0%, transparent 70%); }
+    .agent-fitness .slide.right-focus::before { background: radial-gradient(ellipse 60% 50% at 85% 20%, rgba(34,197,94,0.07) 0%, transparent 70%); }
+    .agent-fitness .slide.sensor-zoom::before { background: radial-gradient(ellipse 55% 55% at 80% 80%, rgba(250,204,21,0.07) 0%, transparent 70%); }
+    .agent-fitness .slide.human-hand::before  { background: radial-gradient(ellipse 65% 50% at 10% 90%, rgba(34,197,94,0.08) 0%, transparent 70%); }
+    .agent-fitness .slide.cta-final::before   { background: radial-gradient(ellipse 60% 55% at 50% 0%, rgba(250,204,21,0.08) 0%, transparent 70%); }
 
     /* Food overlays */
     .agent-food .slide.hero        .img-overlay { background: radial-gradient(circle at 80% 20%, rgba(224,123,57,0.35), transparent 35%), radial-gradient(circle at 20% 80%, rgba(61,90,62,0.55), transparent 40%), linear-gradient(135deg, #10150f 0%, #1d2a1d 45%, #2a180f 100%); }
@@ -478,6 +552,7 @@
   <select class="header-agent-sel" id="agent-nav-sel">
     <option value="ai-news">⚡ AI News</option>
     <option value="food">🍳 5 Step Food</option>
+    <option value="fitness">💪 Flash Fitness</option>
   </select>
   <nav>
     <a href="index.html">← Feed</a>
@@ -520,6 +595,15 @@ const THEMES = {
     canvasBg:      '#10150f',
     emptyLabel:    'ricetta',
     hasSourceLink: false,
+  },
+  'fitness': {
+    title:         'Carousel — Flash Fitness',
+    h1:            'Flash Fitness',
+    handle:        '@FlashFitness',
+    badgeFixed:    'FLASH FITNESS',
+    canvasBg:      '#0a0f0a',
+    emptyLabel:    'articolo fitness',
+    hasSourceLink: true,
   },
 };
 const theme = THEMES[agentId] || THEMES['ai-news'];
