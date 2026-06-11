@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-won-t-just-admit-it-s-feeding-youtube-creat",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+  "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+  "pubDate": "2026-06-10T17:20:36.000Z",
+  "slides": [
+    "Google nega, ma YouTube alimenta l’AI musicale con i creator?",
+    "I dati provengono da video pubblici non autorizzati.",
+    "I creatori scoprono le loro voci nei brani generati.",
+    "Se pubblichi, il tuo contenuto diventa materiale di addestramento.",
+    "Controlla le impostazioni prima che il tuo prossimo video venga usato."
+  ],
+  "thread_text": [
+    "Creator che scoprono la propria voce in canzoni generate dall’AI. Non l'hanno mai autorizzata.",
+    "Google dice che YouTube non usa i contenuti per l’AI musicale. Ma la realtà è diversa.",
+    "I dati arrivano da video pubblici, sì. Ma nessuno ha chiesto il permesso ai creator.",
+    "Pubblicare un video oggi significa darlo in pasto ai modelli di addestramento. Senza controllo.",
+    "C'è una impostazione nelle preferenze di YouTube per disattivare l'uso dei tuoi contenuti. Controllala entro domani."
+  ],
+  "video_script": [
+    "Hai mai sentito la tua voce in una canzone che non hai mai cantato?",
+    "YouTube dice che non usa i tuoi video per l'AI musicale. Ma i creator hanno trovato le loro voci in brani generati.",
+    "I dati vengono presi da video pubblici. Non autorizzati.",
+    "Pubblicare oggi significa diventare materiale di addestramento. Senza scelta.",
+    "C'è un'impostazione che puoi cambiare adesso. Non aspettare."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Creator che scoprono la propria voce in canzoni generate dall’AI. Non l'hanno mai autorizzata.",
+        "Google dice che YouTube non usa i contenuti per l’AI musicale. Ma la realtà è diversa.",
+        "I dati arrivano da video pubblici, sì. Ma nessuno ha chiesto il permesso ai creator.",
+        "Pubblicare un video oggi significa darlo in pasto ai modelli di addestramento. Senza controllo.",
+        "C'è una impostazione nelle preferenze di YouTube per disattivare l'uso dei tuoi contenuti. Controllala entro domani."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hai mai sentito la tua voce in una canzone che non hai mai cantato?",
+        "YouTube dice che non usa i tuoi video per l'AI musicale. Ma i creator hanno trovato le loro voci in brani generati.",
+        "I dati vengono presi da video pubblici. Non autorizzati.",
+        "Pubblicare oggi significa diventare materiale di addestramento. Senza scelta.",
+        "C'è un'impostazione che puoi cambiare adesso. Non aspettare."
+      ]
+    },
+    "instagram": {
+      "caption": "YouTube sta usando video pubblici di creator — anche le loro voci — per addestrare l’AI musicale di Google, senza chiedere permesso. 🗣️ I creator si sono trovati la propria voce in canzoni generate che non hanno mai autorizzato. Google nega ma i dati sono lì: pubblicare oggi significa dare materiale ai modelli. ⚙️ C’è un’impostazione nelle preferenze di YouTube per disattivare l’uso dei tuoi contenuti — controllala subito se pubblichi video. Hai già verificato la tua? 🔍"
+    }
+  },
+  "instagram_caption": "YouTube sta usando video pubblici di creator — anche le loro voci — per addestrare l’AI musicale di Google, senza chiedere permesso. 🗣️ I creator si sono trovati la propria voce in canzoni generate che non hanno mai autorizzato. Google nega ma i dati sono lì: pubblicare oggi significa dare materiale ai modelli. ⚙️ C’è un’impostazione nelle preferenze di YouTube per disattivare l’uso dei tuoi contenuti — controllala subito se pubblichi video. Hai già verificato la tua? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "La tua voce già clonata",
+      "description": "Creator scoprono la propria voce in brani AI. Nessuna autorizzazione data.",
+      "visual_hint": "Voce che esce da chip",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microphone circuit board"
+    },
+    {
+      "hook": "Negano, ma i dati parlano",
+      "description": "Google dice che YouTube non alimenta l'AI musicale. Ma i video pubblici vengono usati.",
+      "visual_hint": "Documento timbro negato",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pubblico non significa autorizzato",
+      "description": "I dati provengono da video pubblici, ma nessuno ha chiesto il permesso ai creator.",
+      "visual_hint": "Lente d'ingrandimento su schermo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "camera lens close",
+      "image": "https://images.pexels.com/photos/9044090/pexels-photo-9044090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pubblicare = addestrare gratis",
+      "description": "Ogni video pubblicato diventa materiale di addestramento per l'AI. Senza controllo.",
+      "visual_hint": "Video che entra in ingranaggio",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "industrial robot arm",
+      "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Disattivalo entro domani",
+      "description": "C'è un'impostazione su YouTube per impedire l'uso dei tuoi contenuti. Controllala ora.",
+      "visual_hint": "Interruttore disattivato",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "settings menu screen",
+      "image": "https://images.pexels.com/photos/25312303/pexels-photo-25312303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-11T08:29:13.989Z",
+  "sourceId": "fe94a21c98c678a256a4997ac5251424"
+}

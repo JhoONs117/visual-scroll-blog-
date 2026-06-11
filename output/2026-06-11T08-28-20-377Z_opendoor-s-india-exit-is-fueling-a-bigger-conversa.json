@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "opendoor-s-india-exit-is-fueling-a-bigger-conversa",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+  "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+  "pubDate": "Thu, 11 Jun 2026 04:02:19 +0000",
+  "slides": [
+    "Opendoor leaves India—but is AI the real reason?",
+    "It shrank its Bangalore team quietly last year.",
+    "AI now handles tasks once done by 400 people.",
+    "Your outsourcing partner may soon be a model.",
+    "Check which remote roles AI can already replace."
+  ],
+  "thread_text": [
+    "AI now handles tasks once done by 400 people at Opendoor. The Bangalore team was cut quietly last year. That's not a rumor, it's a signal.",
+    "The official story was 'restructuring.' But the real reason is simple: models replaced the roles. No severance drama, no PR mess—just a gradual phase-out.",
+    "This is happening faster than most think. If Opendoor can automate 400 roles, your outsourcing partner might soon be a model, not a team.",
+    "Ask yourself: which remote tasks on your calendar could an AI do today? Data entry, customer support, basic analysis—it's not futurism, it's next quarter.",
+    "Check five specific remote roles that are already replaceable. Start with payroll, scheduling, and email triage. If you're not testing this week, you're already behind."
+  ],
+  "video_script": [
+    "Opendoor cut 400 jobs in Bangalore. AI replaced them.",
+    "They didn't announce it. They just shrunk the team.",
+    "Your outsourcing partner might be a model soon.",
+    "Which remote tasks can AI do right now?",
+    "Start with payroll or email triage this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "AI now handles tasks once done by 400 people at Opendoor. The Bangalore team was cut quietly last year. That's not a rumor, it's a signal.",
+        "The official story was 'restructuring.' But the real reason is simple: models replaced the roles. No severance drama, no PR mess—just a gradual phase-out.",
+        "This is happening faster than most think. If Opendoor can automate 400 roles, your outsourcing partner might soon be a model, not a team.",
+        "Ask yourself: which remote tasks on your calendar could an AI do today? Data entry, customer support, basic analysis—it's not futurism, it's next quarter.",
+        "Check five specific remote roles that are already replaceable. Start with payroll, scheduling, and email triage. If you're not testing this week, you're already behind."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Opendoor cut 400 jobs in Bangalore. AI replaced them.",
+        "They didn't announce it. They just shrunk the team.",
+        "Your outsourcing partner might be a model soon.",
+        "Which remote tasks can AI do right now?",
+        "Start with payroll or email triage this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Opendoor ha eliminato in silenzio il team di Bangalore lo scorso anno, 400 persone. Il motivo ufficiale è \"ristrutturazione\", ma il lavoro che facevano ora lo fa un modello AI 💻. Non un licenziamento in tronco: un lento rimpiazzo, senza alzare polveroni. Se questi 400 ruoli sono spariti in un trimestre, chiediti quali delle tue attività remote – payroll, supporto clienti, analisi base ✅ – potrebbero essere già sostituibili oggi, non tra dieci anni. Stai già testando i tuoi processi con un modello, o aspetti che lo faccia qualcun altro per te? 🎲"
+    }
+  },
+  "instagram_caption": "Opendoor ha eliminato in silenzio il team di Bangalore lo scorso anno, 400 persone. Il motivo ufficiale è \"ristrutturazione\", ma il lavoro che facevano ora lo fa un modello AI 💻. Non un licenziamento in tronco: un lento rimpiazzo, senza alzare polveroni. Se questi 400 ruoli sono spariti in un trimestre, chiediti quali delle tue attività remote – payroll, supporto clienti, analisi base ✅ – potrebbero essere già sostituibili oggi, non tra dieci anni. Stai già testando i tuoi processi con un modello, o aspetti che lo faccia qualcun altro per te? 🎲",
+  "carousel_slides": [
+    {
+      "hook": "AI just replaced 400 people",
+      "description": "Opendoor quietly cut its Bangalore team. AI now handles tasks once done by 400 people. A signal, not a rumor.",
+      "visual_hint": "AI robot hand shaking human",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Official story? Restructuring.",
+      "description": "The real reason is simple: models replaced the roles. No severance drama, just a gradual phase-out.",
+      "visual_hint": "empty office chairs",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your outsourcing partner might be AI",
+      "description": "This is happening faster than most think. If Opendoor can automate 400 roles, your partner could soon be a model.",
+      "visual_hint": "factory robot arm",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Which remote roles can AI replace?",
+      "description": "Ask yourself: which tasks on your calendar could an AI do today? Data entry, support, analysis—it's next quarter.",
+      "visual_hint": "person typing laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test AI on these 5 roles now",
+      "description": "Payroll, scheduling, email triage—already replaceable. If you're not testing this week, you're behind.",
+      "visual_hint": "calendar and checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/opendoor.jpg?resize=1200,800",
+  "savedAt": "2026-06-11T08:28:37.412Z",
+  "sourceId": "4f46f6d5c2e1aea9d67b12e86cf75358"
+}

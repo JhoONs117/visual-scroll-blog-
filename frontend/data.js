@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "google-won-t-just-admit-it-s-feeding-youtube-creat",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+    "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+    "pubDate": "2026-06-10T17:20:36.000Z",
+    "slides": [
+      "Google nega, ma YouTube alimenta l’AI musicale con i creator?",
+      "I dati provengono da video pubblici non autorizzati.",
+      "I creatori scoprono le loro voci nei brani generati.",
+      "Se pubblichi, il tuo contenuto diventa materiale di addestramento.",
+      "Controlla le impostazioni prima che il tuo prossimo video venga usato."
+    ],
+    "thread_text": [
+      "Creator che scoprono la propria voce in canzoni generate dall’AI. Non l'hanno mai autorizzata.",
+      "Google dice che YouTube non usa i contenuti per l’AI musicale. Ma la realtà è diversa.",
+      "I dati arrivano da video pubblici, sì. Ma nessuno ha chiesto il permesso ai creator.",
+      "Pubblicare un video oggi significa darlo in pasto ai modelli di addestramento. Senza controllo.",
+      "C'è una impostazione nelle preferenze di YouTube per disattivare l'uso dei tuoi contenuti. Controllala entro domani."
+    ],
+    "video_script": [
+      "Hai mai sentito la tua voce in una canzone che non hai mai cantato?",
+      "YouTube dice che non usa i tuoi video per l'AI musicale. Ma i creator hanno trovato le loro voci in brani generati.",
+      "I dati vengono presi da video pubblici. Non autorizzati.",
+      "Pubblicare oggi significa diventare materiale di addestramento. Senza scelta.",
+      "C'è un'impostazione che puoi cambiare adesso. Non aspettare."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Creator che scoprono la propria voce in canzoni generate dall’AI. Non l'hanno mai autorizzata.",
+          "Google dice che YouTube non usa i contenuti per l’AI musicale. Ma la realtà è diversa.",
+          "I dati arrivano da video pubblici, sì. Ma nessuno ha chiesto il permesso ai creator.",
+          "Pubblicare un video oggi significa darlo in pasto ai modelli di addestramento. Senza controllo.",
+          "C'è una impostazione nelle preferenze di YouTube per disattivare l'uso dei tuoi contenuti. Controllala entro domani."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hai mai sentito la tua voce in una canzone che non hai mai cantato?",
+          "YouTube dice che non usa i tuoi video per l'AI musicale. Ma i creator hanno trovato le loro voci in brani generati.",
+          "I dati vengono presi da video pubblici. Non autorizzati.",
+          "Pubblicare oggi significa diventare materiale di addestramento. Senza scelta.",
+          "C'è un'impostazione che puoi cambiare adesso. Non aspettare."
+        ]
+      },
+      "instagram": {
+        "caption": "YouTube sta usando video pubblici di creator — anche le loro voci — per addestrare l’AI musicale di Google, senza chiedere permesso. 🗣️ I creator si sono trovati la propria voce in canzoni generate che non hanno mai autorizzato. Google nega ma i dati sono lì: pubblicare oggi significa dare materiale ai modelli. ⚙️ C’è un’impostazione nelle preferenze di YouTube per disattivare l’uso dei tuoi contenuti — controllala subito se pubblichi video. Hai già verificato la tua? 🔍"
+      }
+    },
+    "instagram_caption": "YouTube sta usando video pubblici di creator — anche le loro voci — per addestrare l’AI musicale di Google, senza chiedere permesso. 🗣️ I creator si sono trovati la propria voce in canzoni generate che non hanno mai autorizzato. Google nega ma i dati sono lì: pubblicare oggi significa dare materiale ai modelli. ⚙️ C’è un’impostazione nelle preferenze di YouTube per disattivare l’uso dei tuoi contenuti — controllala subito se pubblichi video. Hai già verificato la tua? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "La tua voce già clonata",
+        "description": "Creator scoprono la propria voce in brani AI. Nessuna autorizzazione data.",
+        "visual_hint": "Voce che esce da chip",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "microphone circuit board"
+      },
+      {
+        "hook": "Negano, ma i dati parlano",
+        "description": "Google dice che YouTube non alimenta l'AI musicale. Ma i video pubblici vengono usati.",
+        "visual_hint": "Documento timbro negato",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pubblico non significa autorizzato",
+        "description": "I dati provengono da video pubblici, ma nessuno ha chiesto il permesso ai creator.",
+        "visual_hint": "Lente d'ingrandimento su schermo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "camera lens close",
+        "image": "https://images.pexels.com/photos/9044090/pexels-photo-9044090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pubblicare = addestrare gratis",
+        "description": "Ogni video pubblicato diventa materiale di addestramento per l'AI. Senza controllo.",
+        "visual_hint": "Video che entra in ingranaggio",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "industrial robot arm",
+        "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Disattivalo entro domani",
+        "description": "C'è un'impostazione su YouTube per impedire l'uso dei tuoi contenuti. Controllala ora.",
+        "visual_hint": "Interruttore disattivato",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "settings menu screen",
+        "image": "https://images.pexels.com/photos/25312303/pexels-photo-25312303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-11T08:29:13.989Z",
+    "sourceId": "fe94a21c98c678a256a4997ac5251424"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "microsoft-like-totally-gets-why-students-are-booin",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+    "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+    "pubDate": "2026-06-10T17:45:11.000Z",
+    "slides": [
+      "Microsoft capisce perché gli studenti contestano gli speaker AI-pilled?",
+      "I booing non sono contro l'innovazione, ma contro il tono",
+      "La loro ricerca interna mostra che il 70% rifiuta lezioni forzate sull'AI",
+      "Chi parla di AI deve prima ascoltare i dubbi reali",
+      "Provoca i tuoi studenti a dibattere, non a subire"
+    ],
+    "thread_text": [
+      "La ricerca interna di Microsoft dice: il 70% degli studenti rifiuta lezioni forzate sull'AI. Non è un problema di tecnologia, è un problema di metodo.",
+      "I booing non erano contro l'innovazione. Erano contro il tono: speaker che parlavano dall'alto, senza ascoltare i dubbi reali di chi doveva usarle, quelle AI.",
+      "Microsoft ha capito il segnale: prima di parlare di AI, devi ascoltare. Le resistenze nascono quando imponi soluzioni senza capire il problema concreto della stanza.",
+      "La svolta: non serve più convincere, serve provocare. Metti gli studenti a dibattere, non a subire. Il confronto genera adozione, la lezione frontale genera rigetto.",
+      "Se vuoi testare questo approccio, prendi un caso d'uso del tuo team e costringili a trovare 3 obiezioni reali all'AI prima di implementarla. Fallo questa settimana."
+    ],
+    "video_script": [
+      "Microsoft ha scoperto che il 70% degli studenti",
+      "rifiuta lezioni forzate sull'AI.",
+      "Non è odio per la tecnologia.",
+      "È odio per il tono.",
+      "Prima di parlare, ascolta i dubbi."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "La ricerca interna di Microsoft dice: il 70% degli studenti rifiuta lezioni forzate sull'AI. Non è un problema di tecnologia, è un problema di metodo.",
+          "I booing non erano contro l'innovazione. Erano contro il tono: speaker che parlavano dall'alto, senza ascoltare i dubbi reali di chi doveva usarle, quelle AI.",
+          "Microsoft ha capito il segnale: prima di parlare di AI, devi ascoltare. Le resistenze nascono quando imponi soluzioni senza capire il problema concreto della stanza.",
+          "La svolta: non serve più convincere, serve provocare. Metti gli studenti a dibattere, non a subire. Il confronto genera adozione, la lezione frontale genera rigetto.",
+          "Se vuoi testare questo approccio, prendi un caso d'uso del tuo team e costringili a trovare 3 obiezioni reali all'AI prima di implementarla. Fallo questa settimana."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Microsoft ha scoperto che il 70% degli studenti",
+          "rifiuta lezioni forzate sull'AI.",
+          "Non è odio per la tecnologia.",
+          "È odio per il tono.",
+          "Prima di parlare, ascolta i dubbi."
+        ]
+      },
+      "instagram": {
+        "caption": "Microsoft ha scoperto che il 70% degli studenti rifiuta lezioni forzate sull'AI. Non per odio verso la tecnologia, ma per il tono: speaker che pontificano senza ascoltare i dubbi reali di chi quelle AI dovrà usarle 🎓. Il booing non era contro l'innovazione, era contro l'imposizione. La lezione? Prima di parlare di AI, ascolta. Se provochi un dibattito invece di un monologo, l'adozione sale. Per te: fai trovare al tuo team 3 obiezioni reali all'AI prima di implementarla 💡. Quale dubbio concreto hai sull'AI che nessuno ha mai ascoltato? 🤔"
+      }
+    },
+    "instagram_caption": "Microsoft ha scoperto che il 70% degli studenti rifiuta lezioni forzate sull'AI. Non per odio verso la tecnologia, ma per il tono: speaker che pontificano senza ascoltare i dubbi reali di chi quelle AI dovrà usarle 🎓. Il booing non era contro l'innovazione, era contro l'imposizione. La lezione? Prima di parlare di AI, ascolta. Se provochi un dibattito invece di un monologo, l'adozione sale. Per te: fai trovare al tuo team 3 obiezioni reali all'AI prima di implementarla 💡. Quale dubbio concreto hai sull'AI che nessuno ha mai ascoltato? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "70% rifiuta lezioni forzate AI",
+        "description": "Ricerca Microsoft: 70% studenti rifiuta lezioni forzate AI. Non è tecnologia, è metodo.",
+        "visual_hint": "statistica grande al centro",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "bar chart statistics"
+      },
+      {
+        "hook": "Contro l'innovazione? No.",
+        "description": "Booing non contro innovazione ma contro tono: speaker dall'alto, senza ascoltare dubbi reali.",
+        "visual_hint": "microfono e folla silenziosa",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "empty auditorium stage",
+        "image": "https://images.pexels.com/photos/7991321/pexels-photo-7991321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prima ascolta, poi parla",
+        "description": "Microsoft: resistenze nascono quando imponi soluzioni senza capire il problema concreto.",
+        "visual_hint": "orecchio che ascolta dati",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "ear listening sound waves",
+        "image": "https://images.pexels.com/photos/6857209/pexels-photo-6857209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non convincere, provoca",
+        "description": "Metti studenti a dibattere, non a subire. Confronto genera adozione, lezione rigetto.",
+        "visual_hint": "mani che dibattono",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands gesturing debate",
+        "image": "https://images.pexels.com/photos/5821036/pexels-photo-5821036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Testalo questa settimana",
+        "description": "Prendi un caso d'uso, trova 3 obiezioni reali all'AI prima di implementarla.",
+        "visual_hint": "frecce e checkmark finale",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "checklist clipboard pen",
+        "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-11T08:28:56.984Z",
+    "sourceId": "648b542afa7993316e2cb5ce0afa6590"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "opendoor-s-india-exit-is-fueling-a-bigger-conversa",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+    "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+    "pubDate": "Thu, 11 Jun 2026 04:02:19 +0000",
+    "slides": [
+      "Opendoor leaves India—but is AI the real reason?",
+      "It shrank its Bangalore team quietly last year.",
+      "AI now handles tasks once done by 400 people.",
+      "Your outsourcing partner may soon be a model.",
+      "Check which remote roles AI can already replace."
+    ],
+    "thread_text": [
+      "AI now handles tasks once done by 400 people at Opendoor. The Bangalore team was cut quietly last year. That's not a rumor, it's a signal.",
+      "The official story was 'restructuring.' But the real reason is simple: models replaced the roles. No severance drama, no PR mess—just a gradual phase-out.",
+      "This is happening faster than most think. If Opendoor can automate 400 roles, your outsourcing partner might soon be a model, not a team.",
+      "Ask yourself: which remote tasks on your calendar could an AI do today? Data entry, customer support, basic analysis—it's not futurism, it's next quarter.",
+      "Check five specific remote roles that are already replaceable. Start with payroll, scheduling, and email triage. If you're not testing this week, you're already behind."
+    ],
+    "video_script": [
+      "Opendoor cut 400 jobs in Bangalore. AI replaced them.",
+      "They didn't announce it. They just shrunk the team.",
+      "Your outsourcing partner might be a model soon.",
+      "Which remote tasks can AI do right now?",
+      "Start with payroll or email triage this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "AI now handles tasks once done by 400 people at Opendoor. The Bangalore team was cut quietly last year. That's not a rumor, it's a signal.",
+          "The official story was 'restructuring.' But the real reason is simple: models replaced the roles. No severance drama, no PR mess—just a gradual phase-out.",
+          "This is happening faster than most think. If Opendoor can automate 400 roles, your outsourcing partner might soon be a model, not a team.",
+          "Ask yourself: which remote tasks on your calendar could an AI do today? Data entry, customer support, basic analysis—it's not futurism, it's next quarter.",
+          "Check five specific remote roles that are already replaceable. Start with payroll, scheduling, and email triage. If you're not testing this week, you're already behind."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Opendoor cut 400 jobs in Bangalore. AI replaced them.",
+          "They didn't announce it. They just shrunk the team.",
+          "Your outsourcing partner might be a model soon.",
+          "Which remote tasks can AI do right now?",
+          "Start with payroll or email triage this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Opendoor ha eliminato in silenzio il team di Bangalore lo scorso anno, 400 persone. Il motivo ufficiale è \"ristrutturazione\", ma il lavoro che facevano ora lo fa un modello AI 💻. Non un licenziamento in tronco: un lento rimpiazzo, senza alzare polveroni. Se questi 400 ruoli sono spariti in un trimestre, chiediti quali delle tue attività remote – payroll, supporto clienti, analisi base ✅ – potrebbero essere già sostituibili oggi, non tra dieci anni. Stai già testando i tuoi processi con un modello, o aspetti che lo faccia qualcun altro per te? 🎲"
+      }
+    },
+    "instagram_caption": "Opendoor ha eliminato in silenzio il team di Bangalore lo scorso anno, 400 persone. Il motivo ufficiale è \"ristrutturazione\", ma il lavoro che facevano ora lo fa un modello AI 💻. Non un licenziamento in tronco: un lento rimpiazzo, senza alzare polveroni. Se questi 400 ruoli sono spariti in un trimestre, chiediti quali delle tue attività remote – payroll, supporto clienti, analisi base ✅ – potrebbero essere già sostituibili oggi, non tra dieci anni. Stai già testando i tuoi processi con un modello, o aspetti che lo faccia qualcun altro per te? 🎲",
+    "carousel_slides": [
+      {
+        "hook": "AI just replaced 400 people",
+        "description": "Opendoor quietly cut its Bangalore team. AI now handles tasks once done by 400 people. A signal, not a rumor.",
+        "visual_hint": "AI robot hand shaking human",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Official story? Restructuring.",
+        "description": "The real reason is simple: models replaced the roles. No severance drama, just a gradual phase-out.",
+        "visual_hint": "empty office chairs",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your outsourcing partner might be AI",
+        "description": "This is happening faster than most think. If Opendoor can automate 400 roles, your partner could soon be a model.",
+        "visual_hint": "factory robot arm",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Which remote roles can AI replace?",
+        "description": "Ask yourself: which tasks on your calendar could an AI do today? Data entry, support, analysis—it's next quarter.",
+        "visual_hint": "person typing laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test AI on these 5 roles now",
+        "description": "Payroll, scheduling, email triage—already replaceable. If you're not testing this week, you're behind.",
+        "visual_hint": "calendar and checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/opendoor.jpg?resize=1200,800",
+    "savedAt": "2026-06-11T08:28:37.412Z",
+    "sourceId": "4f46f6d5c2e1aea9d67b12e86cf75358"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "i-tried-siri-ai-and-so-far-it-actually-works",
     "prompt_version": "1.0.0",
     "status": "published",
