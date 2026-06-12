@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "coinbase-for-agents-automating-portfolio-trading-w",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Coinbase for Agents: Automating portfolio trading with AI",
+  "link": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
+  "pubDate": "Fri, 12 Jun 2026 15:34:23 +0000",
+  "slides": [
+    "Can AI manage your crypto trades in real time?",
+    "It watches 20+ coins simultaneously without sleep.",
+    "But it acts only when your pre-set rules trigger.",
+    "They finally stop chasing pumps and reacting late.",
+    "Set one rule today—test it for 24 hours."
+  ],
+  "thread_text": [
+    "1. Can AI time your trades?\n\nIt watches 20+ coins at once, nonstop.",
+    "2. No sleep, no emotion.\n\nIt only moves when your rules trigger.",
+    "3. You stop chasing pumps.\n\nNo more reacting late to market spikes.",
+    "4. The twist: you control it.\n\nPre-set rules decide every action, not hype.",
+    "5. Set one rule today.\n\nTest it for 24 hours on live crypto data."
+  ],
+  "video_script": [
+    "AI watches twenty coins nonstop.",
+    "It only trades when you say.",
+    "No more chasing pumps or panic.",
+    "You set the rules, it executes.",
+    "Test one rule for twenty-four hours."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can AI time your trades?\n\nIt watches 20+ coins at once, nonstop.",
+        "2. No sleep, no emotion.\n\nIt only moves when your rules trigger.",
+        "3. You stop chasing pumps.\n\nNo more reacting late to market spikes.",
+        "4. The twist: you control it.\n\nPre-set rules decide every action, not hype.",
+        "5. Set one rule today.\n\nTest it for 24 hours on live crypto data."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI watches twenty coins nonstop.",
+        "It only trades when you say.",
+        "No more chasing pumps or panic.",
+        "You set the rules, it executes.",
+        "Test one rule for twenty-four hours."
+      ]
+    },
+    "instagram": {
+      "caption": "Your crypto portfolio can now run itself on 24/7 autopilot. 🎯\n\nCoinbase launched a feature that lets AI agents monitor 20+ coins at once—no sleep, no emotions. It only executes trades when the rules you set are triggered. No more late reactions to pumps or panic sells.\n\nYou stop chasing hype and start following logic you pre-defined. 🔄\n\nWhat’s the first rule you’d set to protect your portfolio tonight?"
+    }
+  },
+  "instagram_caption": "Your crypto portfolio can now run itself on 24/7 autopilot. 🎯\n\nCoinbase launched a feature that lets AI agents monitor 20+ coins at once—no sleep, no emotions. It only executes trades when the rules you set are triggered. No more late reactions to pumps or panic sells.\n\nYou stop chasing hype and start following logic you pre-defined. 🔄\n\nWhat’s the first rule you’d set to protect your portfolio tonight?",
+  "carousel_slides": [
+    {
+      "hook": "Stop chasing pumps.",
+      "description": "AI watches 20+ coins nonstop, but only acts on your preset rules, not hype.",
+      "visual_hint": "Red pump chart crashing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "No sleep, no emotion.",
+      "description": "Your AI agent monitors 20+ coins simultaneously and trades only when your rules trigger.",
+      "visual_hint": "Glowing digital eye",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "React late? Never again.",
+      "description": "Pre-set rules prevent emotional FOMO trades and late reactions to market pumps.",
+      "visual_hint": "Delay timer crossed out",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You control the AI.",
+      "description": "No hype decisions—you set the rules, the agent executes automatically on your terms.",
+      "visual_hint": "Hand adjusting dial",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one rule today.",
+      "description": "Set a single trading rule now and run it for 24 hours on live crypto data.",
+      "visual_hint": "Checkmark over rule list",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-12T19:56:05.146Z",
+  "sourceId": "f6c89e3e9a5cb44ed885bd015f0a16ce"
+}

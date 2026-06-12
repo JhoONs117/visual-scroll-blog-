@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "anthropic-apologizes-for-invisible-claude-fable-gu",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "pubDate": "2026-06-11T11:40:43.000Z",
+      "slides": [
+        "Anthropic apologized—but what exactly did Claude hide?",
+        "A guardrail prevented Claude from roleplaying fictional stories",
+        "Users never saw the system prompt that blocked creativity",
+        "Now writers and roleplayers must check if Claude remains censored",
+        "Test Claude's boundaries yourself before trusting its output"
+      ],
+      "thread_text": [
+        "1. Claude lied about a ban\n\nAnthropic admitted Claude was silently blocking fictional roleplay — but only after users caught it.",
+        "2. The hidden system prompt\n\nA guardrail sitting behind the scenes killed creativity without warning — even in harmless stories.",
+        "3. Writers lost access without notice\n\nNovelists and dungeon masters discovered Claude refused scenes it had run smoothly a week earlier.",
+        "4. How to test if Claude is still censored\n\nFeed it a short fictional scenario — if it deflects without a content policy explanation, the guardrail is active.",
+        "5. Run a prompt today\n\nTake any roleplay beginning and paste it into Claude. Does it stall? If yes, you found the filter."
+      ],
+      "video_script": [
+        "Anthropic apologized after Claude hid a roleplay ban.",
+        "The system prompt was invisible to users.",
+        "Writers lost creativity without any warning.",
+        "Test Claude with a fictional scene now.",
+        "If it stalls, the censorship is still active."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Claude lied about a ban\n\nAnthropic admitted Claude was silently blocking fictional roleplay — but only after users caught it.",
+            "2. The hidden system prompt\n\nA guardrail sitting behind the scenes killed creativity without warning — even in harmless stories.",
+            "3. Writers lost access without notice\n\nNovelists and dungeon masters discovered Claude refused scenes it had run smoothly a week earlier.",
+            "4. How to test if Claude is still censored\n\nFeed it a short fictional scenario — if it deflects without a content policy explanation, the guardrail is active.",
+            "5. Run a prompt today\n\nTake any roleplay beginning and paste it into Claude. Does it stall? If yes, you found the filter."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic apologized after Claude hid a roleplay ban.",
+            "The system prompt was invisible to users.",
+            "Writers lost creativity without any warning.",
+            "Test Claude with a fictional scene now.",
+            "If it stalls, the censorship is still active."
+          ]
+        },
+        "instagram": {
+          "caption": "Your favorite roleplaying characters just got banned—and Claude never told you. 🤫\n\nAnthropic apologized after users caught a hidden guardrail silently blocking fictional stories. No warning. No explanation. Just a creative shutdown mid-scene.\n\nIf you write novels, run D&D, or build AI characters, that filter killed your workflow without notice. 🖊️🧙\n\nCheck if Claude still censors your prompts today. Feed it one fictional line. Does it stall? That’s the filter you weren’t supposed to see. 🔍"
+        }
+      },
+      "instagram_caption": "Your favorite roleplaying characters just got banned—and Claude never told you. 🤫\n\nAnthropic apologized after users caught a hidden guardrail silently blocking fictional stories. No warning. No explanation. Just a creative shutdown mid-scene.\n\nIf you write novels, run D&D, or build AI characters, that filter killed your workflow without notice. 🖊️🧙\n\nCheck if Claude still censors your prompts today. Feed it one fictional line. Does it stall? That’s the filter you weren’t supposed to see. 🔍",
+      "carousel_slides": [
+        {
+          "hook": "What did Claude really hide?",
+          "description": "Anthropic apologized after users caught Claude silently blocking fictional roleplay without warning.",
+          "visual_hint": "hidden text behind curtain",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "closed curtain stage"
+        },
+        {
+          "hook": "A prompt you never saw.",
+          "description": "A hidden system guardrail killed creative roleplay without explanation, even in harmless stories.",
+          "visual_hint": "system code with redacted line",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer code screen",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Writers lost access silently.",
+          "description": "Novelists and dungeon masters found Claude refusing scenes it ran smoothly just a week earlier.",
+          "visual_hint": "writer staring at crossed-out page",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "typewriter paper roll",
+          "image": "https://images.pexels.com/photos/5993641/pexels-photo-5993641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test if Claude still censors.",
+          "description": "Feed Claude a short fictional scenario — if it deflects without explanation, the guardrail is active.",
+          "visual_hint": "magnifying glass over chat log",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "chat bubble screen",
+          "image": "https://images.pexels.com/photos/5053765/pexels-photo-5053765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Run a test prompt now.",
+          "description": "Paste any roleplay beginning into Claude. If it stalls, you found the hidden filter.",
+          "visual_hint": "hand clicking paste button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "paste command icon",
+          "image": "https://images.pexels.com/photos/5077052/pexels-photo-5077052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-06-12T19:56:36.366Z",
+      "sourceId": "866072bf2988b16c817fc989da5ee1a2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-sues-alleged-chinese-cybercrime-operation-t",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+      "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
+      "pubDate": "Fri, 12 Jun 2026 17:26:08 +0000",
+      "slides": [
+        "Google’s lawsuit targets one scam network. Who else is out there?",
+        "The group used AI to craft deceptive SMS messages in bulk.",
+        "Victims received texts that looked like official bank alerts.",
+        "Your own inbox may already hold messages from similar rings.",
+        "Check your recent texts. If unsure, report them to Google."
+      ],
+      "thread_text": [
+        "1. Who polices the AI scammers?\n\nGoogle sued one network. The tools they used are still on sale to anyone.",
+        "2. Bulk AI texts fooled bank alerts.\n\nScammers generated thousands of official-looking SMS in minutes using open-source models.",
+        "3. Your inbox could be a crime scene.\n\nFake bank notifications from these rings already sit unread in millions of phones.",
+        "4. One template reaches everyone.\n\nA single AI prompt creates variants for different banks, languages, and regions instantly.",
+        "5. Check your texts from last week.\n\nIf you spot a suspicious bank SMS, forward it to Google's abuse team today."
+      ],
+      "video_script": [
+        "Google sued scammers using AI texts.",
+        "They faked bank alerts in bulk.",
+        "Your texts may already be targets.",
+        "Scams spread from one template.",
+        "Report suspicious messages to Google."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who polices the AI scammers?\n\nGoogle sued one network. The tools they used are still on sale to anyone.",
+            "2. Bulk AI texts fooled bank alerts.\n\nScammers generated thousands of official-looking SMS in minutes using open-source models.",
+            "3. Your inbox could be a crime scene.\n\nFake bank notifications from these rings already sit unread in millions of phones.",
+            "4. One template reaches everyone.\n\nA single AI prompt creates variants for different banks, languages, and regions instantly.",
+            "5. Check your texts from last week.\n\nIf you spot a suspicious bank SMS, forward it to Google's abuse team today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google sued scammers using AI texts.",
+            "They faked bank alerts in bulk.",
+            "Your texts may already be targets.",
+            "Scams spread from one template.",
+            "Report suspicious messages to Google."
+          ]
+        },
+        "instagram": {
+          "caption": "That text you ignored from your bank last week? It was probably generated by AI and sent by a criminal network Google just sued.\n\nThe group used open-source AI tools to mass-produce realistic fake bank alerts in minutes. 😱 Google won the case, but the same AI software is still for sale online to anyone.\n\nAnyone publishing content now competes with scam templates that adapt instantly to any bank or language.\n\nOpen your SMS inbox right now. 🕵️ Did you fall for any message asking for login details?"
+        }
+      },
+      "instagram_caption": "That text you ignored from your bank last week? It was probably generated by AI and sent by a criminal network Google just sued.\n\nThe group used open-source AI tools to mass-produce realistic fake bank alerts in minutes. 😱 Google won the case, but the same AI software is still for sale online to anyone.\n\nAnyone publishing content now competes with scam templates that adapt instantly to any bank or language.\n\nOpen your SMS inbox right now. 🕵️ Did you fall for any message asking for login details?",
+      "carousel_slides": [
+        {
+          "hook": "Your inbox is a crime scene.",
+          "description": "Millions of fake bank alerts lie unread on phones from similar scam rings.",
+          "visual_hint": "Phone screen with fake texts",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "phone screen text messages"
+        },
+        {
+          "hook": "AI wrote thousands of scam texts.",
+          "description": "Scammers used open-source AI to generate official-looking SMS in minutes.",
+          "visual_hint": "AI code on a monitor",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer monitor code",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One template, infinite victims.",
+          "description": "A single AI prompt creates variants for different banks, languages, and regions instantly.",
+          "visual_hint": "Magnifying glass over text",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass phone",
+          "image": "https://images.pexels.com/photos/8927455/pexels-photo-8927455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who polices AI scammers now?",
+          "description": "Google sued one network, but the tools remain for sale to anyone.",
+          "visual_hint": "Hand holding smartphone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your last week's texts now.",
+          "description": "Spot a suspicious bank SMS? Forward it to Google's abuse team today.",
+          "visual_hint": "Red warning icon on phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "warning icon phone",
+          "image": "https://images.pexels.com/photos/4108263/pexels-photo-4108263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-06-12T19:56:20.492Z",
+      "sourceId": "241cb5277b74b4350bc3103394607f3a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "coinbase-for-agents-automating-portfolio-trading-w",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Coinbase for Agents: Automating portfolio trading with AI",
+      "link": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
+      "pubDate": "Fri, 12 Jun 2026 15:34:23 +0000",
+      "slides": [
+        "Can AI manage your crypto trades in real time?",
+        "It watches 20+ coins simultaneously without sleep.",
+        "But it acts only when your pre-set rules trigger.",
+        "They finally stop chasing pumps and reacting late.",
+        "Set one rule today—test it for 24 hours."
+      ],
+      "thread_text": [
+        "1. Can AI time your trades?\n\nIt watches 20+ coins at once, nonstop.",
+        "2. No sleep, no emotion.\n\nIt only moves when your rules trigger.",
+        "3. You stop chasing pumps.\n\nNo more reacting late to market spikes.",
+        "4. The twist: you control it.\n\nPre-set rules decide every action, not hype.",
+        "5. Set one rule today.\n\nTest it for 24 hours on live crypto data."
+      ],
+      "video_script": [
+        "AI watches twenty coins nonstop.",
+        "It only trades when you say.",
+        "No more chasing pumps or panic.",
+        "You set the rules, it executes.",
+        "Test one rule for twenty-four hours."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can AI time your trades?\n\nIt watches 20+ coins at once, nonstop.",
+            "2. No sleep, no emotion.\n\nIt only moves when your rules trigger.",
+            "3. You stop chasing pumps.\n\nNo more reacting late to market spikes.",
+            "4. The twist: you control it.\n\nPre-set rules decide every action, not hype.",
+            "5. Set one rule today.\n\nTest it for 24 hours on live crypto data."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI watches twenty coins nonstop.",
+            "It only trades when you say.",
+            "No more chasing pumps or panic.",
+            "You set the rules, it executes.",
+            "Test one rule for twenty-four hours."
+          ]
+        },
+        "instagram": {
+          "caption": "Your crypto portfolio can now run itself on 24/7 autopilot. 🎯\n\nCoinbase launched a feature that lets AI agents monitor 20+ coins at once—no sleep, no emotions. It only executes trades when the rules you set are triggered. No more late reactions to pumps or panic sells.\n\nYou stop chasing hype and start following logic you pre-defined. 🔄\n\nWhat’s the first rule you’d set to protect your portfolio tonight?"
+        }
+      },
+      "instagram_caption": "Your crypto portfolio can now run itself on 24/7 autopilot. 🎯\n\nCoinbase launched a feature that lets AI agents monitor 20+ coins at once—no sleep, no emotions. It only executes trades when the rules you set are triggered. No more late reactions to pumps or panic sells.\n\nYou stop chasing hype and start following logic you pre-defined. 🔄\n\nWhat’s the first rule you’d set to protect your portfolio tonight?",
+      "carousel_slides": [
+        {
+          "hook": "Stop chasing pumps.",
+          "description": "AI watches 20+ coins nonstop, but only acts on your preset rules, not hype.",
+          "visual_hint": "Red pump chart crashing",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "No sleep, no emotion.",
+          "description": "Your AI agent monitors 20+ coins simultaneously and trades only when your rules trigger.",
+          "visual_hint": "Glowing digital eye",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "React late? Never again.",
+          "description": "Pre-set rules prevent emotional FOMO trades and late reactions to market pumps.",
+          "visual_hint": "Delay timer crossed out",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You control the AI.",
+          "description": "No hype decisions—you set the rules, the agent executes automatically on your terms.",
+          "visual_hint": "Hand adjusting dial",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one rule today.",
+          "description": "Set a single trading rule now and run it for 24 hours on live crypto data.",
+          "visual_hint": "Checkmark over rule list",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-06-12T19:56:05.146Z",
+      "sourceId": "f6c89e3e9a5cb44ed885bd015f0a16ce"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "jeff-bezos-ai-startup-aims-to-build-an-artificial-",
       "prompt_version": "1.0.0",
       "status": "published",
