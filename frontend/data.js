@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "endurance-energy-raises-54m-to-harness-a-massive-u",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
+    "link": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
+    "pubDate": "Thu, 11 Jun 2026 14:00:12 +0000",
+    "slides": [
+      "Endurance Energy raised $54M—for what hidden source?",
+      "They target heat trapped in abandoned oil wells.",
+      "That heat is enough to power entire grids.",
+      "You could plug into clean energy without new drilling.",
+      "Check if your region has idle wells—act now."
+    ],
+    "thread_text": [
+      "Hidden gold in old wells?\n\nEndurance Energy just raised $54 million to tap heat trapped in abandoned oil wells.",
+      "The scale matters.\n\nThat underground heat can generate enough electricity to power entire regional grids.",
+      "No new drilling needed.\n\nYou get clean energy by reusing wells already in the ground.",
+      "Massive untapped potential.\n\nThousands of idle wells sit across the US, waiting to be repurposed.",
+      "Check your region.\n\nDoes your area have abandoned oil wells? Search state databases today to see if this could power your community."
+    ],
+    "video_script": [
+      "$54 million for heat in dead wells.",
+      "Abandoned oil wells hide usable heat.",
+      "That heat can power entire grids.",
+      "No new drilling, just reuse.",
+      "Check if your area has idle wells."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Hidden gold in old wells?\n\nEndurance Energy just raised $54 million to tap heat trapped in abandoned oil wells.",
+          "The scale matters.\n\nThat underground heat can generate enough electricity to power entire regional grids.",
+          "No new drilling needed.\n\nYou get clean energy by reusing wells already in the ground.",
+          "Massive untapped potential.\n\nThousands of idle wells sit across the US, waiting to be repurposed.",
+          "Check your region.\n\nDoes your area have abandoned oil wells? Search state databases today to see if this could power your community."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "$54 million for heat in dead wells.",
+          "Abandoned oil wells hide usable heat.",
+          "That heat can power entire grids.",
+          "No new drilling, just reuse.",
+          "Check if your area has idle wells."
+        ]
+      },
+      "instagram": {
+        "caption": "Abandoned oil wells across the US are hiding enough heat to power entire regional grids—without any new drilling. 🔥\n\nEndurance Energy just raised $54 million to tap that geothermal energy trapped in idle wells. This repurposes existing infrastructure instead of starting from scratch. 🛢️🔄⚡\n\nIf you cover clean energy or local infrastructure, this is a concrete story that shifts focus from \"new projects\" to \"unlocking what's already there.\"\n\nAre any of those idle wells sitting in the county where you live? Search your state's database today."
+      }
+    },
+    "instagram_caption": "Abandoned oil wells across the US are hiding enough heat to power entire regional grids—without any new drilling. 🔥\n\nEndurance Energy just raised $54 million to tap that geothermal energy trapped in idle wells. This repurposes existing infrastructure instead of starting from scratch. 🛢️🔄⚡\n\nIf you cover clean energy or local infrastructure, this is a concrete story that shifts focus from \"new projects\" to \"unlocking what's already there.\"\n\nAre any of those idle wells sitting in the county where you live? Search your state's database today.",
+    "carousel_slides": [
+      {
+        "hook": "What if old wells hold clean energy?",
+        "description": "Endurance Energy raised $54M to tap heat trapped in abandoned oil wells. This hidden source could power entire grids.",
+        "visual_hint": "Abandoned oil well landscape",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "abandoned oil well"
+      },
+      {
+        "hook": "Heat from old wells powers grids.",
+        "description": "The underground heat in idle wells can generate enough electricity to power entire regional grids. Massive untapped potential.",
+        "visual_hint": "Electrical grid transmission lines",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "power grid transmission",
+        "image": "https://images.pexels.com/photos/33041841/pexels-photo-33041841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No new drilling needed.",
+        "description": "You get clean energy by reusing wells already in the ground. No new drilling required. Endurance Energy makes it work.",
+        "visual_hint": "Drilling rig against sky",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "drilling rig equipment",
+        "image": "https://images.pexels.com/photos/15391048/pexels-photo-15391048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Thousands of wells are waiting.",
+        "description": "Thousands of idle wells sit across the US, ready to be repurposed for clean geothermal energy. A solution hiding in plain sight.",
+        "visual_hint": "Map of US with well markers",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "oil well map",
+        "image": "https://images.pexels.com/photos/31067412/pexels-photo-31067412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to check your region.",
+        "description": "Search state databases for abandoned oil wells in your area. See if this could power your community today.",
+        "visual_hint": "Person searching on laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person typing laptop",
+        "image": "https://images.pexels.com/photos/12662877/pexels-photo-12662877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-592668294.jpg?resize=1200,731",
+    "savedAt": "2026-06-12T02:43:45.969Z",
+    "sourceId": "730354c379ce51d7a63ed6d0b0f6f3b4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "jeff-bezos-s-prometheus-raises-12b-to-build-an-art",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+    "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+    "pubDate": "Fri, 12 Jun 2026 01:04:38 +0000",
+    "slides": [
+      "Jeff Bezos wants to build the world’s first physical AGI. Why now?",
+      "Prometheus just raised $12 billion for this mission.",
+      "It's not a chatbot — it builds real things without humans.",
+      "Your manufacturing line could run itself next year.",
+      "Test one blueprint on an AGI lab before your competitor does."
+    ],
+    "thread_text": [
+      "AGI that builds things.\n\nJeff Bezos just backed a $12 billion bet on a machine that doesn't chat—it assembles physical products without any human worker.",
+      "Prometheus raised the cash.\n\nThe startup secured the largest AI hardware round ever, targeting factories that learn and rebuild themselves in hours.",
+      "Your line runs itself.\n\nWithin 12 months, a single blueprint could be uploaded to a lab and turned into a working assembly line with zero human oversight.",
+      "Test before they do.\n\nYour competitor can run the same AGI simulation on your factory design—if they get to the lab first, your advantage disappears.",
+      "What is your first blueprint?\n\nTake one product design you own and upload it to a public AGI simulation this week. Can your manufacturing survive without you?"
+    ],
+    "video_script": [
+      "Jeff Bezos wants the first physical AGI.",
+      "Prometheus raised twelve billion dollars for it.",
+      "This machine builds real things alone.",
+      "Your factory could run itself next year.",
+      "Test your blueprint before your competitor does."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "AGI that builds things.\n\nJeff Bezos just backed a $12 billion bet on a machine that doesn't chat—it assembles physical products without any human worker.",
+          "Prometheus raised the cash.\n\nThe startup secured the largest AI hardware round ever, targeting factories that learn and rebuild themselves in hours.",
+          "Your line runs itself.\n\nWithin 12 months, a single blueprint could be uploaded to a lab and turned into a working assembly line with zero human oversight.",
+          "Test before they do.\n\nYour competitor can run the same AGI simulation on your factory design—if they get to the lab first, your advantage disappears.",
+          "What is your first blueprint?\n\nTake one product design you own and upload it to a public AGI simulation this week. Can your manufacturing survive without you?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Jeff Bezos wants the first physical AGI.",
+          "Prometheus raised twelve billion dollars for it.",
+          "This machine builds real things alone.",
+          "Your factory could run itself next year.",
+          "Test your blueprint before your competitor does."
+        ]
+      },
+      "instagram": {
+        "caption": "Your factory could assemble products without a single human worker starting next year.\n\nJeff Bezos just backed Prometheus with $12 billion to build the first physical AGI. It doesn’t chat—it builds assembly lines from a blueprint in hours.\n\nYour manufacturing line learns and rebuilds itself. Zero oversight.\n\nUpload one product design to a public AGI lab this week. Can your process survive the simulation before your competitor runs it?"
+      }
+    },
+    "instagram_caption": "Your factory could assemble products without a single human worker starting next year.\n\nJeff Bezos just backed Prometheus with $12 billion to build the first physical AGI. It doesn’t chat—it builds assembly lines from a blueprint in hours.\n\nYour manufacturing line learns and rebuilds itself. Zero oversight.\n\nUpload one product design to a public AGI lab this week. Can your process survive the simulation before your competitor runs it?",
+    "carousel_slides": [
+      {
+        "hook": "No humans needed to build anything.",
+        "description": "Prometheus raised $12B for an AGI that assembles physical products without any human worker.",
+        "visual_hint": "Factory with no people working",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "empty factory floor"
+      },
+      {
+        "hook": "Largest AI hardware round ever.",
+        "description": "The startup targets factories that learn and rebuild themselves in hours, not days.",
+        "visual_hint": "Robot arm assembling circuit board",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "industrial robot arm",
+        "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your line runs itself next year.",
+        "description": "Upload one blueprint and a lab turns it into a working assembly line with zero human oversight within 12 months.",
+        "visual_hint": "Blueprint turning into mechanical gears",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "technical blueprint gears",
+        "image": "https://images.pexels.com/photos/8961134/pexels-photo-8961134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your competitor can run your simulation.",
+        "description": "If they test your factory design in the AGI lab first, your advantage disappears instantly.",
+        "visual_hint": "Two race cars side by side",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "side view race cars",
+        "image": "https://images.pexels.com/photos/30544230/pexels-photo-30544230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your competitor does.",
+        "description": "Upload one product design to a public AGI simulation this week and test if your manufacturing can survive without you.",
+        "visual_hint": "Hand holding smartphone with upload icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone upload screen",
+        "image": "https://images.pexels.com/photos/10889696/pexels-photo-10889696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208733347.jpg?w=1024",
+    "savedAt": "2026-06-12T02:43:32.368Z",
+    "sourceId": "3355a47c4da060e941171391a4ba1ba9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "theker-just-raised-85m-to-build-the-factory-robot-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+    "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "pubDate": "Fri, 12 Jun 2026 01:48:07 +0000",
+    "slides": [
+      "Theker raised $85M to build the opposite of a specialist robot.",
+      "Most factory robots today do one task perfectly for 10 years.",
+      "Theker's robot learns any task from videos, no reprogramming.",
+      "Your factory now adapts in days, not years, for free.",
+      "Stop buying dedicated robots. One machine can replace them all."
+    ],
+    "thread_text": [
+      "Your factory robot just got obsolete.\n\nTheker raised $85M to build a machine that learns any task from watching a video.",
+      "Old robots do one job for a decade.\nThat model is dead. This one adapts in days.",
+      "No reprogramming needed.\nJust show it a video of the task. It learns on its own.",
+      "Stop buying dedicated robots.\nOne machine can replace them all. Your factory retools for free.",
+      "Does your current setup lock you into one product?\nTest Theker's approach on one line this quarter."
+    ],
+    "video_script": [
+      "$85 million for a robot that learns.",
+      "Old robots are one-trick ponies.",
+      "This one watches and learns tasks.",
+      "Your factory adapts in days now.",
+      "One machine replaces all the rest."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Your factory robot just got obsolete.\n\nTheker raised $85M to build a machine that learns any task from watching a video.",
+          "Old robots do one job for a decade.\nThat model is dead. This one adapts in days.",
+          "No reprogramming needed.\nJust show it a video of the task. It learns on its own.",
+          "Stop buying dedicated robots.\nOne machine can replace them all. Your factory retools for free.",
+          "Does your current setup lock you into one product?\nTest Theker's approach on one line this quarter."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "$85 million for a robot that learns.",
+          "Old robots are one-trick ponies.",
+          "This one watches and learns tasks.",
+          "Your factory adapts in days now.",
+          "One machine replaces all the rest."
+        ]
+      },
+      "instagram": {
+        "caption": "$85M just burned down the old factory robot model 🏭💥\n\nMost factory robots today do one task for a decade. Theker’s upcoming machine learns any new task from a video — no reprogramming, no downtime 😮\n\nYour production line can now retool in days, not years, for free 💸\n\nOne robot replaces every dedicated machine you own. Are your current robots locking you into a single product, or are you ready to test theirs on one line this quarter? 🔄"
+      }
+    },
+    "instagram_caption": "$85M just burned down the old factory robot model 🏭💥\n\nMost factory robots today do one task for a decade. Theker’s upcoming machine learns any new task from a video — no reprogramming, no downtime 😮\n\nYour production line can now retool in days, not years, for free 💸\n\nOne robot replaces every dedicated machine you own. Are your current robots locking you into a single product, or are you ready to test theirs on one line this quarter? 🔄",
+    "carousel_slides": [
+      {
+        "hook": "Is your robot already obsolete?",
+        "description": "Theker raised $85M to build a single machine that learns any task from video.",
+        "visual_hint": "Side-by-side obsolete vs modern",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "factory robot comparison"
+      },
+      {
+        "hook": "One job for a decade is dead.",
+        "description": "Old robots do one task perfectly. Theker's adapts in days from video.",
+        "visual_hint": "Old robot with broken clock",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "industrial robot arm",
+        "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Just show it the video.",
+        "description": "No reprogramming required. Theker learns any task by watching, then does it.",
+        "visual_hint": "Video input to robot brain",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "video camera robot",
+        "image": "https://images.pexels.com/photos/30382832/pexels-photo-30382832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop buying dedicated robots.",
+        "description": "One Theker machine replaces them all. Your factory retools for free.",
+        "visual_hint": "Hand placing single robot",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "warehouse robot arm",
+        "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Theker on just one line.",
+        "description": "Swap your dedicated robot for one that adapts. Click link in bio to start.",
+        "visual_hint": "Arrow pointing to link in bio",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "factory assembly line",
+        "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/THEKER-photo-seriesA.jpg?resize=1200,799",
+    "savedAt": "2026-06-12T02:43:17.226Z",
+    "sourceId": "857b01ba57340160fb4f7afdc440e1a7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "deezer-launches-an-ai-music-detector-for-other-str",
     "prompt_version": "1.0.0",
     "status": "published",

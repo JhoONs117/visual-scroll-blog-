@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "theker-just-raised-85m-to-build-the-factory-robot-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+  "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+  "pubDate": "Fri, 12 Jun 2026 01:48:07 +0000",
+  "slides": [
+    "Theker raised $85M to build the opposite of a specialist robot.",
+    "Most factory robots today do one task perfectly for 10 years.",
+    "Theker's robot learns any task from videos, no reprogramming.",
+    "Your factory now adapts in days, not years, for free.",
+    "Stop buying dedicated robots. One machine can replace them all."
+  ],
+  "thread_text": [
+    "Your factory robot just got obsolete.\n\nTheker raised $85M to build a machine that learns any task from watching a video.",
+    "Old robots do one job for a decade.\nThat model is dead. This one adapts in days.",
+    "No reprogramming needed.\nJust show it a video of the task. It learns on its own.",
+    "Stop buying dedicated robots.\nOne machine can replace them all. Your factory retools for free.",
+    "Does your current setup lock you into one product?\nTest Theker's approach on one line this quarter."
+  ],
+  "video_script": [
+    "$85 million for a robot that learns.",
+    "Old robots are one-trick ponies.",
+    "This one watches and learns tasks.",
+    "Your factory adapts in days now.",
+    "One machine replaces all the rest."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Your factory robot just got obsolete.\n\nTheker raised $85M to build a machine that learns any task from watching a video.",
+        "Old robots do one job for a decade.\nThat model is dead. This one adapts in days.",
+        "No reprogramming needed.\nJust show it a video of the task. It learns on its own.",
+        "Stop buying dedicated robots.\nOne machine can replace them all. Your factory retools for free.",
+        "Does your current setup lock you into one product?\nTest Theker's approach on one line this quarter."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "$85 million for a robot that learns.",
+        "Old robots are one-trick ponies.",
+        "This one watches and learns tasks.",
+        "Your factory adapts in days now.",
+        "One machine replaces all the rest."
+      ]
+    },
+    "instagram": {
+      "caption": "$85M just burned down the old factory robot model 🏭💥\n\nMost factory robots today do one task for a decade. Theker’s upcoming machine learns any new task from a video — no reprogramming, no downtime 😮\n\nYour production line can now retool in days, not years, for free 💸\n\nOne robot replaces every dedicated machine you own. Are your current robots locking you into a single product, or are you ready to test theirs on one line this quarter? 🔄"
+    }
+  },
+  "instagram_caption": "$85M just burned down the old factory robot model 🏭💥\n\nMost factory robots today do one task for a decade. Theker’s upcoming machine learns any new task from a video — no reprogramming, no downtime 😮\n\nYour production line can now retool in days, not years, for free 💸\n\nOne robot replaces every dedicated machine you own. Are your current robots locking you into a single product, or are you ready to test theirs on one line this quarter? 🔄",
+  "carousel_slides": [
+    {
+      "hook": "Is your robot already obsolete?",
+      "description": "Theker raised $85M to build a single machine that learns any task from video.",
+      "visual_hint": "Side-by-side obsolete vs modern",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "factory robot comparison"
+    },
+    {
+      "hook": "One job for a decade is dead.",
+      "description": "Old robots do one task perfectly. Theker's adapts in days from video.",
+      "visual_hint": "Old robot with broken clock",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "industrial robot arm",
+      "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Just show it the video.",
+      "description": "No reprogramming required. Theker learns any task by watching, then does it.",
+      "visual_hint": "Video input to robot brain",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "video camera robot",
+      "image": "https://images.pexels.com/photos/30382832/pexels-photo-30382832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop buying dedicated robots.",
+      "description": "One Theker machine replaces them all. Your factory retools for free.",
+      "visual_hint": "Hand placing single robot",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "warehouse robot arm",
+      "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Theker on just one line.",
+      "description": "Swap your dedicated robot for one that adapts. Click link in bio to start.",
+      "visual_hint": "Arrow pointing to link in bio",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "factory assembly line",
+      "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/THEKER-photo-seriesA.jpg?resize=1200,799",
+  "savedAt": "2026-06-12T02:43:17.226Z",
+  "sourceId": "857b01ba57340160fb4f7afdc440e1a7"
+}

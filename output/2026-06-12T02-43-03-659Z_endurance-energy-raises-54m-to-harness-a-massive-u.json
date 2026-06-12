@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "endurance-energy-raises-54m-to-harness-a-massive-u",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
+  "link": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
+  "pubDate": "Thu, 11 Jun 2026 14:00:12 +0000",
+  "slides": [
+    "Endurance Energy raised $54M—for what hidden source?",
+    "They target heat trapped in abandoned oil wells.",
+    "That heat is enough to power entire grids.",
+    "You could plug into clean energy without new drilling.",
+    "Check if your region has idle wells—act now."
+  ],
+  "thread_text": [
+    "Hidden gold in old wells?\n\nEndurance Energy just raised $54 million to tap heat trapped in abandoned oil wells.",
+    "The scale matters.\n\nThat underground heat can generate enough electricity to power entire regional grids.",
+    "No new drilling needed.\n\nYou get clean energy by reusing wells already in the ground.",
+    "Massive untapped potential.\n\nThousands of idle wells sit across the US, waiting to be repurposed.",
+    "Check your region.\n\nDoes your area have abandoned oil wells? Search state databases today to see if this could power your community."
+  ],
+  "video_script": [
+    "$54 million for heat in dead wells.",
+    "Abandoned oil wells hide usable heat.",
+    "That heat can power entire grids.",
+    "No new drilling, just reuse.",
+    "Check if your area has idle wells."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Hidden gold in old wells?\n\nEndurance Energy just raised $54 million to tap heat trapped in abandoned oil wells.",
+        "The scale matters.\n\nThat underground heat can generate enough electricity to power entire regional grids.",
+        "No new drilling needed.\n\nYou get clean energy by reusing wells already in the ground.",
+        "Massive untapped potential.\n\nThousands of idle wells sit across the US, waiting to be repurposed.",
+        "Check your region.\n\nDoes your area have abandoned oil wells? Search state databases today to see if this could power your community."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "$54 million for heat in dead wells.",
+        "Abandoned oil wells hide usable heat.",
+        "That heat can power entire grids.",
+        "No new drilling, just reuse.",
+        "Check if your area has idle wells."
+      ]
+    },
+    "instagram": {
+      "caption": "Abandoned oil wells across the US are hiding enough heat to power entire regional grids—without any new drilling. 🔥\n\nEndurance Energy just raised $54 million to tap that geothermal energy trapped in idle wells. This repurposes existing infrastructure instead of starting from scratch. 🛢️🔄⚡\n\nIf you cover clean energy or local infrastructure, this is a concrete story that shifts focus from \"new projects\" to \"unlocking what's already there.\"\n\nAre any of those idle wells sitting in the county where you live? Search your state's database today."
+    }
+  },
+  "instagram_caption": "Abandoned oil wells across the US are hiding enough heat to power entire regional grids—without any new drilling. 🔥\n\nEndurance Energy just raised $54 million to tap that geothermal energy trapped in idle wells. This repurposes existing infrastructure instead of starting from scratch. 🛢️🔄⚡\n\nIf you cover clean energy or local infrastructure, this is a concrete story that shifts focus from \"new projects\" to \"unlocking what's already there.\"\n\nAre any of those idle wells sitting in the county where you live? Search your state's database today.",
+  "carousel_slides": [
+    {
+      "hook": "What if old wells hold clean energy?",
+      "description": "Endurance Energy raised $54M to tap heat trapped in abandoned oil wells. This hidden source could power entire grids.",
+      "visual_hint": "Abandoned oil well landscape",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "abandoned oil well"
+    },
+    {
+      "hook": "Heat from old wells powers grids.",
+      "description": "The underground heat in idle wells can generate enough electricity to power entire regional grids. Massive untapped potential.",
+      "visual_hint": "Electrical grid transmission lines",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "power grid transmission",
+      "image": "https://images.pexels.com/photos/33041841/pexels-photo-33041841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No new drilling needed.",
+      "description": "You get clean energy by reusing wells already in the ground. No new drilling required. Endurance Energy makes it work.",
+      "visual_hint": "Drilling rig against sky",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "drilling rig equipment",
+      "image": "https://images.pexels.com/photos/15391048/pexels-photo-15391048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Thousands of wells are waiting.",
+      "description": "Thousands of idle wells sit across the US, ready to be repurposed for clean geothermal energy. A solution hiding in plain sight.",
+      "visual_hint": "Map of US with well markers",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "oil well map",
+      "image": "https://images.pexels.com/photos/31067412/pexels-photo-31067412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to check your region.",
+      "description": "Search state databases for abandoned oil wells in your area. See if this could power your community today.",
+      "visual_hint": "Person searching on laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/12662877/pexels-photo-12662877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-592668294.jpg?resize=1200,731",
+  "savedAt": "2026-06-12T02:43:45.969Z",
+  "sourceId": "730354c379ce51d7a63ed6d0b0f6f3b4"
+}
