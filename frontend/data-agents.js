@@ -629,7 +629,7 @@ window.AGENTS = {
       "agent": "ai-news",
       "slug": "deezer-launches-an-ai-music-detector-for-other-str",
       "prompt_version": "1.0.0",
-      "status": "published",
+      "status": "approved",
       "title": "Deezer launches an AI music detector for other streaming services",
       "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
       "pubDate": "2026-06-11T08:00:00.000Z",
