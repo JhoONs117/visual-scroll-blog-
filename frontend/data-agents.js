@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "cheaper-faster-and-culturally-aware-avataar-s-vide",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "pubDate": "Fri, 12 Jun 2026 04:30:00 +0000",
+      "slides": [
+        "Can Avataar’s AI truly localize video at India’s scale?",
+        "It claims to cut production costs by 90%.",
+        "But it also adapts content for dozens of Indian languages.",
+        "Your brand could finally reach tier-2 and tier-3 cities.",
+        "Test one product video in three languages this week."
+      ],
+      "thread_text": [
+        "1. 90% cost cut?\n\nAvataar says it can slash video production budgets by 90% and still localize for dozens of Indian languages.",
+        "2. One video, 50 languages\n\nThe AI adapts your ad’s visuals and script to regional dialects without re-shooting.",
+        "3. Your tier‑2 customer waits\n\nMost brands ignore small cities. Avataar lets you speak directly to Raipur and Mysore.",
+        "4. Production speed shifts\n\nInstead of weeks per language version, you get a finished clip in hours.",
+        "5. Test three languages now\n\nPick one product video. Get it localized into Hindi, Tamil, and Bengali this week. What do you lose?"
+      ],
+      "video_script": [
+        "Avataar claims 90% lower video costs.",
+        "It adapts content for dozens of languages.",
+        "Your brand can finally reach tier-2 cities.",
+        "One video becomes many local versions fast.",
+        "Test three languages on one product now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. 90% cost cut?\n\nAvataar says it can slash video production budgets by 90% and still localize for dozens of Indian languages.",
+            "2. One video, 50 languages\n\nThe AI adapts your ad’s visuals and script to regional dialects without re-shooting.",
+            "3. Your tier‑2 customer waits\n\nMost brands ignore small cities. Avataar lets you speak directly to Raipur and Mysore.",
+            "4. Production speed shifts\n\nInstead of weeks per language version, you get a finished clip in hours.",
+            "5. Test three languages now\n\nPick one product video. Get it localized into Hindi, Tamil, and Bengali this week. What do you lose?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Avataar claims 90% lower video costs.",
+            "It adapts content for dozens of languages.",
+            "Your brand can finally reach tier-2 cities.",
+            "One video becomes many local versions fast.",
+            "Test three languages on one product now."
+          ]
+        },
+        "instagram": {
+          "caption": "A single video ad can now be cut into versions for dozens of Indian languages without re-shooting a single frame.\n\nAvataar’s AI claims to slash production costs by 90% and deliver finished clips in hours, not weeks. It adapts both the visuals and the script to regional dialects, from Hindi to Bengali.\n\nIf you make content for brands, your workflow just shifted: one shoot now replaces fifty. 🎥\n\nTier-2 cities like Raipur and Mysore suddenly become reachable without a new budget line. 📍\n\nWhat product video from your last campaign would you test in three languages by Friday?"
+        }
+      },
+      "instagram_caption": "A single video ad can now be cut into versions for dozens of Indian languages without re-shooting a single frame.\n\nAvataar’s AI claims to slash production costs by 90% and deliver finished clips in hours, not weeks. It adapts both the visuals and the script to regional dialects, from Hindi to Bengali.\n\nIf you make content for brands, your workflow just shifted: one shoot now replaces fifty. 🎥\n\nTier-2 cities like Raipur and Mysore suddenly become reachable without a new budget line. 📍\n\nWhat product video from your last campaign would you test in three languages by Friday?",
+      "carousel_slides": [
+        {
+          "hook": "What if one video reached 50 languages?",
+          "description": "Avataar AI adapts ads to dozens of Indian dialects without reshooting, saving 90% on production.",
+          "visual_hint": "Map of India with language pins",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "India map languages"
+        },
+        {
+          "hook": "90% cost cut, no reshoot needed.",
+          "description": "The AI slashes video budgets by 90% and localizes visuals and script for regional dialects instantly.",
+          "visual_hint": "Stack of money with video play icon",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "money stack video",
+          "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your tier-2 city customer waits.",
+          "description": "Raipur and Mysore are ignored by most brands. Now speak directly to them with localized video ads.",
+          "visual_hint": "Phone map showing tier-2 cities",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "small city India",
+          "image": "https://images.pexels.com/photos/19528080/pexels-photo-19528080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hours per version, not weeks.",
+          "description": "Instead of weeks of work per language, Avataar produces a finished localized clip in hours.",
+          "visual_hint": "Clock fast-forwarding over video frames",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "clock fast forward",
+          "image": "https://images.pexels.com/photos/37860332/pexels-photo-37860332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test three languages now.",
+          "description": "Pick one product video. Get it localized into Hindi, Tamil, and Bengali this week. See the impact.",
+          "visual_hint": "Three phone screens with different scripts",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "phone screens languages",
+          "image": "https://images.pexels.com/photos/33607948/pexels-photo-33607948.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-11-at-3.39.00-PM.jpg?resize=1200,685",
+      "savedAt": "2026-06-12T08:17:33.468Z",
+      "sourceId": "302fed5dd219beadc025ae6ca950b008"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "endurance-energy-raises-54m-to-harness-a-massive-u",
       "prompt_version": "1.0.0",
       "status": "published",
