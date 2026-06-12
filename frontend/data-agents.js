@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "jeff-bezos-ai-startup-aims-to-build-an-artificial-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+      "pubDate": "2026-06-12T14:03:39.000Z",
+      "slides": [
+        "Bezos’ secret AI startup targets more than chat.",
+        "It aims to build an 'artificial general engineer'.",
+        "General engineers solve problems they never trained on.",
+        "This could automate your own engineering decisions tomorrow.",
+        "Start tracking how AI handles your real open-ended tasks today."
+      ],
+      "thread_text": [
+        "Bezos’ secret AI startup\n\nIt targets more than chat—it aims to build an 'artificial general engineer' that solves problems it never trained on.",
+        "What is a general engineer?\n\nIt handles open-ended tasks without prior examples—unlike today's narrow AI that only repeats patterns.",
+        "Your engineering decisions next\n\nThis could automate the judgment calls you make daily, from code logic to system design choices.",
+        "Track how AI handles real tasks\n\nStart testing it on your own open-ended problems today, not just canned demos or benchmarks.",
+        "Your move: test it now\n\nTake a real project decision you haven't solved yet and see if AI proposes a workable path."
+      ],
+      "video_script": [
+        "Bezos has a secret AI startup.",
+        "It aims to build an artificial engineer.",
+        "This engineer solves problems it never trained on.",
+        "It could automate your engineering decisions.",
+        "Test AI on your open-ended tasks today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Bezos’ secret AI startup\n\nIt targets more than chat—it aims to build an 'artificial general engineer' that solves problems it never trained on.",
+            "What is a general engineer?\n\nIt handles open-ended tasks without prior examples—unlike today's narrow AI that only repeats patterns.",
+            "Your engineering decisions next\n\nThis could automate the judgment calls you make daily, from code logic to system design choices.",
+            "Track how AI handles real tasks\n\nStart testing it on your own open-ended problems today, not just canned demos or benchmarks.",
+            "Your move: test it now\n\nTake a real project decision you haven't solved yet and see if AI proposes a workable path."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Bezos has a secret AI startup.",
+            "It aims to build an artificial engineer.",
+            "This engineer solves problems it never trained on.",
+            "It could automate your engineering decisions.",
+            "Test AI on your open-ended tasks today."
+          ]
+        },
+        "instagram": {
+          "caption": "Bezos' secret AI startup isn't building a better chatbot. It's aiming for an 'artificial general engineer' — software designed to solve problems it has never seen before, without prior examples.\n\nToday's AI mostly recycles patterns from its training data. This new approach targets open-ended tasks: debugging unfamiliar code, weighing architecture trade-offs, choosing between design paths. 💡\n\nIf it works, the daily judgment calls you make — from system logic to content structure — could be automated before you even start typing.\n\nTake one real project decision you are stuck on right now. Ask an AI to propose a path. Did it add value, or just guess? 🛠️"
+        }
+      },
+      "instagram_caption": "Bezos' secret AI startup isn't building a better chatbot. It's aiming for an 'artificial general engineer' — software designed to solve problems it has never seen before, without prior examples.\n\nToday's AI mostly recycles patterns from its training data. This new approach targets open-ended tasks: debugging unfamiliar code, weighing architecture trade-offs, choosing between design paths. 💡\n\nIf it works, the daily judgment calls you make — from system logic to content structure — could be automated before you even start typing.\n\nTake one real project decision you are stuck on right now. Ask an AI to propose a path. Did it add value, or just guess? 🛠️",
+      "carousel_slides": [
+        {
+          "hook": "Engineer without training?",
+          "description": "An AI that solves problems it never learned, going beyond pattern-matching chatbots.",
+          "visual_hint": "Robot solving abstract puzzle",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot puzzle"
+        },
+        {
+          "hook": "Beyond narrow AI limits",
+          "description": "General engineers handle open-ended tasks with no prior examples, unlike today's repetitive AI.",
+          "visual_hint": "Neural network with many paths",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "neural network",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your decisions automated?",
+          "description": "This AI could automate daily engineering judgments, from code logic to system design.",
+          "visual_hint": "Code lines transforming into gears",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it on real work",
+          "description": "Don't rely on canned demos—feed your own unsolved problems to see if AI proposes a path.",
+          "visual_hint": "Hand placing circuit board",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "circuit board",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to try later",
+          "description": "Pick one open-ended project decision you're stuck on and run it through an AI model today.",
+          "visual_hint": "Finger tapping phone screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951505/VRG_Illo_STK173_L_Normand_JeffBezos_Positive.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-06-12T16:39:13.936Z",
+      "sourceId": "2e1e6f85787cc485a2107c5b513e1ab5"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "spacex-anthropic-and-openai-s-hot-ipo-summer",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "pubDate": "Fri, 12 Jun 2026 16:23:25 +0000",
+      "slides": [
+        "SpaceX, Anthropic, and OpenAI—who will IPO first?",
+        "Anthropic just raised another billion in weeks.",
+        "But SpaceX’s valuation now tops $200 billion.",
+        "Your portfolio needs exposure before the public filing.",
+        "Pick one bet today: infrastructure, safety, or scale."
+      ],
+      "thread_text": [
+        "1. Who IPOs first?\n\nAnthropic raised another billion in weeks. The clock is ticking for three giants.",
+        "2. Cash pile race\n\nSpaceX valuation tops $200 billion. They own the infrastructure play.",
+        "3. Bet on safety\n\nAnthropic’s focus might slow them down. That could be the real edge.",
+        "4. Scale or die\n\nOpenAI needs massive compute. Their IPO might wait for profitability.",
+        "5. Your one pick today\n\nPick infrastructure, safety, or scale. Which bet aligns with your portfolio?"
+      ],
+      "video_script": [
+        "SpaceX, Anthropic, or OpenAI—who IPOs first?",
+        "Anthropic raised a billion in weeks.",
+        "SpaceX valuation now tops 200 billion.",
+        "Your portfolio needs exposure before filing.",
+        "Pick one: infrastructure, safety, or scale."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who IPOs first?\n\nAnthropic raised another billion in weeks. The clock is ticking for three giants.",
+            "2. Cash pile race\n\nSpaceX valuation tops $200 billion. They own the infrastructure play.",
+            "3. Bet on safety\n\nAnthropic’s focus might slow them down. That could be the real edge.",
+            "4. Scale or die\n\nOpenAI needs massive compute. Their IPO might wait for profitability.",
+            "5. Your one pick today\n\nPick infrastructure, safety, or scale. Which bet aligns with your portfolio?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "SpaceX, Anthropic, or OpenAI—who IPOs first?",
+            "Anthropic raised a billion in weeks.",
+            "SpaceX valuation now tops 200 billion.",
+            "Your portfolio needs exposure before filing.",
+            "Pick one: infrastructure, safety, or scale."
+          ]
+        },
+        "instagram": {
+          "caption": "SpaceX is now worth over $200 billion, and Anthropic just raised another billion in weeks.\n\nThree giants—SpaceX, Anthropic, and OpenAI—are racing to IPO first. Each is betting on a different angle: infrastructure, safety, or raw scale.\n\nFor you, that means timing your portfolio exposure before the public filing locks in your entry point.\n\nYour one bet today: do you back the rocket builder, the safety-first lab, or the compute hog?"
+        }
+      },
+      "instagram_caption": "SpaceX is now worth over $200 billion, and Anthropic just raised another billion in weeks.\n\nThree giants—SpaceX, Anthropic, and OpenAI—are racing to IPO first. Each is betting on a different angle: infrastructure, safety, or raw scale.\n\nFor you, that means timing your portfolio exposure before the public filing locks in your entry point.\n\nYour one bet today: do you back the rocket builder, the safety-first lab, or the compute hog?",
+      "carousel_slides": [
+        {
+          "hook": "Who IPOs first?",
+          "description": "Anthropic raised another billion in weeks. The clock is ticking for three giants.",
+          "visual_hint": "Countdown timer overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market clock"
+        },
+        {
+          "hook": "SpaceX hits $200B.",
+          "description": "Their valuation tops $200 billion. They own the infrastructure play now.",
+          "visual_hint": "Rocket launch silhouette",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "spacex rocket launch",
+          "image": "https://images.pexels.com/photos/11755208/pexels-photo-11755208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Safety could be slow.",
+          "description": "Anthropic’s focus on safety might delay their IPO. That could be the real edge.",
+          "visual_hint": "Shield with lock",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "digital security lock",
+          "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scale or die.",
+          "description": "OpenAI needs massive compute. Their IPO may wait for profitability first.",
+          "visual_hint": "Expanding graph lines",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "server room racks",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for later.",
+          "description": "Pick infrastructure, safety, or scale. Which bet fits your portfolio today? Comment your pick.",
+          "visual_hint": "Finger tapping screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person typing phone",
+          "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815",
+      "savedAt": "2026-06-12T16:39:00.580Z",
+      "sourceId": "aff183af0f1e57e58360d3542ce04b9b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "siri-won-t-be-your-ai-girlfriend",
       "prompt_version": "1.0.0",
       "status": "published",

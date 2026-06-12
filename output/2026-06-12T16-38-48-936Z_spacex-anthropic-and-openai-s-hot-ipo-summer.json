@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spacex-anthropic-and-openai-s-hot-ipo-summer",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+  "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+  "pubDate": "Fri, 12 Jun 2026 16:23:25 +0000",
+  "slides": [
+    "SpaceX, Anthropic, and OpenAI—who will IPO first?",
+    "Anthropic just raised another billion in weeks.",
+    "But SpaceX’s valuation now tops $200 billion.",
+    "Your portfolio needs exposure before the public filing.",
+    "Pick one bet today: infrastructure, safety, or scale."
+  ],
+  "thread_text": [
+    "1. Who IPOs first?\n\nAnthropic raised another billion in weeks. The clock is ticking for three giants.",
+    "2. Cash pile race\n\nSpaceX valuation tops $200 billion. They own the infrastructure play.",
+    "3. Bet on safety\n\nAnthropic’s focus might slow them down. That could be the real edge.",
+    "4. Scale or die\n\nOpenAI needs massive compute. Their IPO might wait for profitability.",
+    "5. Your one pick today\n\nPick infrastructure, safety, or scale. Which bet aligns with your portfolio?"
+  ],
+  "video_script": [
+    "SpaceX, Anthropic, or OpenAI—who IPOs first?",
+    "Anthropic raised a billion in weeks.",
+    "SpaceX valuation now tops 200 billion.",
+    "Your portfolio needs exposure before filing.",
+    "Pick one: infrastructure, safety, or scale."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who IPOs first?\n\nAnthropic raised another billion in weeks. The clock is ticking for three giants.",
+        "2. Cash pile race\n\nSpaceX valuation tops $200 billion. They own the infrastructure play.",
+        "3. Bet on safety\n\nAnthropic’s focus might slow them down. That could be the real edge.",
+        "4. Scale or die\n\nOpenAI needs massive compute. Their IPO might wait for profitability.",
+        "5. Your one pick today\n\nPick infrastructure, safety, or scale. Which bet aligns with your portfolio?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "SpaceX, Anthropic, or OpenAI—who IPOs first?",
+        "Anthropic raised a billion in weeks.",
+        "SpaceX valuation now tops 200 billion.",
+        "Your portfolio needs exposure before filing.",
+        "Pick one: infrastructure, safety, or scale."
+      ]
+    },
+    "instagram": {
+      "caption": "SpaceX is now worth over $200 billion, and Anthropic just raised another billion in weeks.\n\nThree giants—SpaceX, Anthropic, and OpenAI—are racing to IPO first. Each is betting on a different angle: infrastructure, safety, or raw scale.\n\nFor you, that means timing your portfolio exposure before the public filing locks in your entry point.\n\nYour one bet today: do you back the rocket builder, the safety-first lab, or the compute hog?"
+    }
+  },
+  "instagram_caption": "SpaceX is now worth over $200 billion, and Anthropic just raised another billion in weeks.\n\nThree giants—SpaceX, Anthropic, and OpenAI—are racing to IPO first. Each is betting on a different angle: infrastructure, safety, or raw scale.\n\nFor you, that means timing your portfolio exposure before the public filing locks in your entry point.\n\nYour one bet today: do you back the rocket builder, the safety-first lab, or the compute hog?",
+  "carousel_slides": [
+    {
+      "hook": "Who IPOs first?",
+      "description": "Anthropic raised another billion in weeks. The clock is ticking for three giants.",
+      "visual_hint": "Countdown timer overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market clock"
+    },
+    {
+      "hook": "SpaceX hits $200B.",
+      "description": "Their valuation tops $200 billion. They own the infrastructure play now.",
+      "visual_hint": "Rocket launch silhouette",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "spacex rocket launch",
+      "image": "https://images.pexels.com/photos/11755208/pexels-photo-11755208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Safety could be slow.",
+      "description": "Anthropic’s focus on safety might delay their IPO. That could be the real edge.",
+      "visual_hint": "Shield with lock",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "digital security lock",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scale or die.",
+      "description": "OpenAI needs massive compute. Their IPO may wait for profitability first.",
+      "visual_hint": "Expanding graph lines",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room racks",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for later.",
+      "description": "Pick infrastructure, safety, or scale. Which bet fits your portfolio today? Comment your pick.",
+      "visual_hint": "Finger tapping screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person typing phone",
+      "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815",
+  "savedAt": "2026-06-12T16:39:00.580Z",
+  "sourceId": "aff183af0f1e57e58360d3542ce04b9b"
+}
