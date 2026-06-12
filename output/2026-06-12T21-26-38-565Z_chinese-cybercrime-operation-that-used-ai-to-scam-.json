@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chinese-cybercrime-operation-that-used-ai-to-scam-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+  "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+  "pubDate": "Fri, 12 Jun 2026 20:38:09 +0000",
+  "slides": [
+    "Google just sued a Chinese cybercrime ring. Why now?",
+    "The group used AI to scam hundreds of thousands globally.",
+    "Their deepfake voices and chatbots fooled even cautious users.",
+    "You now face AI-driven fraud that mimics real contacts.",
+    "Verify unexpected requests via a second channel before acting."
+  ],
+  "thread_text": [
+    "Google just sued a cybercrime ring. Why now?\n\nThe group used AI to create deepfake voices and chatbots that fooled hundreds of thousands globally.",
+    "Their tech mimicked real contacts closely.\n\nEven cautious users couldn't tell the difference between a fake call and a real one from a friend.",
+    "The scale is staggering.\n\nHundreds of thousands were scammed across multiple countries, not just a few isolated incidents.",
+    "Here's the twist: the criminals were Chinese.\n\nThe ring operated from China, making cross-border prosecution complex and drawn-out.",
+    "Verify unexpected requests via a second channel before acting.\n\nCall the person back on their known number. Don't trust a voice or text alone."
+  ],
+  "video_script": [
+    "Google sues Chinese cybercrime ring.",
+    "AI deepfakes fooled hundreds of thousands.",
+    "Even cautious users were tricked.",
+    "Scammers mimicked real contacts.",
+    "Verify via second channel before acting."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Google just sued a cybercrime ring. Why now?\n\nThe group used AI to create deepfake voices and chatbots that fooled hundreds of thousands globally.",
+        "Their tech mimicked real contacts closely.\n\nEven cautious users couldn't tell the difference between a fake call and a real one from a friend.",
+        "The scale is staggering.\n\nHundreds of thousands were scammed across multiple countries, not just a few isolated incidents.",
+        "Here's the twist: the criminals were Chinese.\n\nThe ring operated from China, making cross-border prosecution complex and drawn-out.",
+        "Verify unexpected requests via a second channel before acting.\n\nCall the person back on their known number. Don't trust a voice or text alone."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google sues Chinese cybercrime ring.",
+        "AI deepfakes fooled hundreds of thousands.",
+        "Even cautious users were tricked.",
+        "Scammers mimicked real contacts.",
+        "Verify via second channel before acting."
+      ]
+    },
+    "instagram": {
+      "caption": "A single cybercrime ring used AI to clone voices and create chatbots, scamming hundreds of thousands of people before Google filed a lawsuit this week.  \n\nThe group mimicked real contacts so convincingly that even cautious users were tricked. The scale is global, not just isolated incidents.  \n\nIf you create or share content, a message or call that looks like you could be weaponized against your audience or followers.  \n\nWhen was the last time you verified an urgent request from a friend by calling them back on a number you already saved? 📞🤖🛡️"
+    }
+  },
+  "instagram_caption": "A single cybercrime ring used AI to clone voices and create chatbots, scamming hundreds of thousands of people before Google filed a lawsuit this week.  \n\nThe group mimicked real contacts so convincingly that even cautious users were tricked. The scale is global, not just isolated incidents.  \n\nIf you create or share content, a message or call that looks like you could be weaponized against your audience or followers.  \n\nWhen was the last time you verified an urgent request from a friend by calling them back on a number you already saved? 📞🤖🛡️",
+  "carousel_slides": [
+    {
+      "hook": "AI cloned their voices. Now what?",
+      "description": "A Chinese cybercrime ring used AI deepfakes to scam hundreds of thousands globally, fooling even cautious users.",
+      "visual_hint": "Glitchy human face overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Deepfake calls fooled everyone.",
+      "description": "The ring's AI-generated voices and chatbots mimicked real contacts so well victims couldn't tell fake from real.",
+      "visual_hint": "Phone with voice waves",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hundreds of thousands scammed worldwide.",
+      "description": "The massive scale involved victims across multiple countries, not just isolated incidents.",
+      "visual_hint": "World map with dots",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cross-border prosecution remains tricky.",
+      "description": "The ring operated from China, making legal action complex and slow for global authorities.",
+      "visual_hint": "Gavel and handcuffs",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "crowd market",
+      "image": "https://images.pexels.com/photos/36159724/pexels-photo-36159724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to protect your money.",
+      "description": "Always verify unexpected requests by calling back on a known number, not trusting voice or text alone.",
+      "visual_hint": "Phone and checkmark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-12T21:26:50.783Z",
+  "sourceId": "8e16264f67e55688652c6306dac995c6"
+}

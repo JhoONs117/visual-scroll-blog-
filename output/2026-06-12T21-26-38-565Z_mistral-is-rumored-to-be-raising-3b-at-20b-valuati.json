@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "mistral-is-rumored-to-be-raising-3b-at-20b-valuati",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Mistral is rumored to be raising €3B at €20B valuation",
+  "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+  "pubDate": "Fri, 12 Jun 2026 17:38:11 +0000",
+  "slides": [
+    "Is Mistral worth €20 billion before its next model?",
+    "It reportedly seeks €3B from investors now.",
+    "But its revenue is still a fraction of that sum.",
+    "Your AI procurement benchmarks just lost an anchor.",
+    "Rethink your vendor value before the round closes."
+  ],
+  "thread_text": [
+    "1. Is €20B real?\n\nMistral wants €3B now though its revenue is a fraction of that sum.",
+    "2. Revenue vs. valuation gap\n\nYour procurement benchmarks just lost an anchor — past deals can't guide this round.",
+    "3. What venture firms know\n\nThey price future models, not current revenue. The risk is you bet on vaporware.",
+    "4. The procurement trap\n\nIf you benchmarked Mistral against cheaper vendors, those numbers are now useless.",
+    "5. Rethink your vendor value\n\nBefore the round closes, ask: would you pay 20B for the next model sight unseen?"
+  ],
+  "video_script": [
+    "Mistral wants three billion but revenue lags.",
+    "Your benchmarks just lost their anchor.",
+    "Venture firms price future models, not sales.",
+    "Old vendor comparisons are now useless.",
+    "Would you pay twenty billion sight unseen?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Is €20B real?\n\nMistral wants €3B now though its revenue is a fraction of that sum.",
+        "2. Revenue vs. valuation gap\n\nYour procurement benchmarks just lost an anchor — past deals can't guide this round.",
+        "3. What venture firms know\n\nThey price future models, not current revenue. The risk is you bet on vaporware.",
+        "4. The procurement trap\n\nIf you benchmarked Mistral against cheaper vendors, those numbers are now useless.",
+        "5. Rethink your vendor value\n\nBefore the round closes, ask: would you pay 20B for the next model sight unseen?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Mistral wants three billion but revenue lags.",
+        "Your benchmarks just lost their anchor.",
+        "Venture firms price future models, not sales.",
+        "Old vendor comparisons are now useless.",
+        "Would you pay twenty billion sight unseen?"
+      ]
+    },
+    "instagram": {
+      "caption": "Mistral wants €3B at a €20B valuation, but its revenue is still a fraction of that number. 📉\n\nYour AI procurement benchmarks just lost their anchor. Past deals with cheaper vendors can’t guide this round — venture firms are pricing a future model, not current revenue.\n\nIf you’re paying for Mistral today, your cost projections are now useless. ⚖️\n\nBefore the round closes, would you pay €20B for their next model sight unseen? ✍️"
+    }
+  },
+  "instagram_caption": "Mistral wants €3B at a €20B valuation, but its revenue is still a fraction of that number. 📉\n\nYour AI procurement benchmarks just lost their anchor. Past deals with cheaper vendors can’t guide this round — venture firms are pricing a future model, not current revenue.\n\nIf you’re paying for Mistral today, your cost projections are now useless. ⚖️\n\nBefore the round closes, would you pay €20B for their next model sight unseen? ✍️",
+  "carousel_slides": [
+    {
+      "hook": "Bet on vaporware?",
+      "description": "Mistral seeks €3B at €20B valuation but revenue is still a fraction of that sum.",
+      "visual_hint": "Floating money bags above clouds",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "question mark neon sign"
+    },
+    {
+      "hook": "Your benchmarks just broke.",
+      "description": "Past deals can't guide this round — revenue gap makes old procurement anchors useless.",
+      "visual_hint": "Shattered anchor underwater",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "broken anchor chain",
+      "image": "https://images.pexels.com/photos/10216484/pexels-photo-10216484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Venture firms price futures.",
+      "description": "They bet on next models, not current revenue. Risk: you pay for vaporware.",
+      "visual_hint": "Crystal ball reflecting money",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "crystal ball stock",
+      "image": "https://images.pexels.com/photos/7971146/pexels-photo-7971146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cheaper vendor data is dead.",
+      "description": "Benchmarking Mistral against cheaper past vendors now gives useless numbers.",
+      "visual_hint": "Hand dropping useless graph",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand throwing paper",
+      "image": "https://images.pexels.com/photos/7565381/pexels-photo-7565381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save before the round closes.",
+      "description": "Ask yourself: would you pay €20B for the next model sight unseen?",
+      "visual_hint": "Finger on save button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "save icon button",
+      "image": "https://images.pexels.com/photos/12969339/pexels-photo-12969339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
+  "savedAt": "2026-06-12T21:27:03.839Z",
+  "sourceId": "ac49e7db99e37116a2cdeaf8fa01d6e0"
+}

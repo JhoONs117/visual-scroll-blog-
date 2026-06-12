@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "mistral-is-rumored-to-be-raising-3b-at-20b-valuati",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Mistral is rumored to be raising €3B at €20B valuation",
+    "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+    "pubDate": "Fri, 12 Jun 2026 17:38:11 +0000",
+    "slides": [
+      "Is Mistral worth €20 billion before its next model?",
+      "It reportedly seeks €3B from investors now.",
+      "But its revenue is still a fraction of that sum.",
+      "Your AI procurement benchmarks just lost an anchor.",
+      "Rethink your vendor value before the round closes."
+    ],
+    "thread_text": [
+      "1. Is €20B real?\n\nMistral wants €3B now though its revenue is a fraction of that sum.",
+      "2. Revenue vs. valuation gap\n\nYour procurement benchmarks just lost an anchor — past deals can't guide this round.",
+      "3. What venture firms know\n\nThey price future models, not current revenue. The risk is you bet on vaporware.",
+      "4. The procurement trap\n\nIf you benchmarked Mistral against cheaper vendors, those numbers are now useless.",
+      "5. Rethink your vendor value\n\nBefore the round closes, ask: would you pay 20B for the next model sight unseen?"
+    ],
+    "video_script": [
+      "Mistral wants three billion but revenue lags.",
+      "Your benchmarks just lost their anchor.",
+      "Venture firms price future models, not sales.",
+      "Old vendor comparisons are now useless.",
+      "Would you pay twenty billion sight unseen?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Is €20B real?\n\nMistral wants €3B now though its revenue is a fraction of that sum.",
+          "2. Revenue vs. valuation gap\n\nYour procurement benchmarks just lost an anchor — past deals can't guide this round.",
+          "3. What venture firms know\n\nThey price future models, not current revenue. The risk is you bet on vaporware.",
+          "4. The procurement trap\n\nIf you benchmarked Mistral against cheaper vendors, those numbers are now useless.",
+          "5. Rethink your vendor value\n\nBefore the round closes, ask: would you pay 20B for the next model sight unseen?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Mistral wants three billion but revenue lags.",
+          "Your benchmarks just lost their anchor.",
+          "Venture firms price future models, not sales.",
+          "Old vendor comparisons are now useless.",
+          "Would you pay twenty billion sight unseen?"
+        ]
+      },
+      "instagram": {
+        "caption": "Mistral wants €3B at a €20B valuation, but its revenue is still a fraction of that number. 📉\n\nYour AI procurement benchmarks just lost their anchor. Past deals with cheaper vendors can’t guide this round — venture firms are pricing a future model, not current revenue.\n\nIf you’re paying for Mistral today, your cost projections are now useless. ⚖️\n\nBefore the round closes, would you pay €20B for their next model sight unseen? ✍️"
+      }
+    },
+    "instagram_caption": "Mistral wants €3B at a €20B valuation, but its revenue is still a fraction of that number. 📉\n\nYour AI procurement benchmarks just lost their anchor. Past deals with cheaper vendors can’t guide this round — venture firms are pricing a future model, not current revenue.\n\nIf you’re paying for Mistral today, your cost projections are now useless. ⚖️\n\nBefore the round closes, would you pay €20B for their next model sight unseen? ✍️",
+    "carousel_slides": [
+      {
+        "hook": "Bet on vaporware?",
+        "description": "Mistral seeks €3B at €20B valuation but revenue is still a fraction of that sum.",
+        "visual_hint": "Floating money bags above clouds",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "question mark neon sign"
+      },
+      {
+        "hook": "Your benchmarks just broke.",
+        "description": "Past deals can't guide this round — revenue gap makes old procurement anchors useless.",
+        "visual_hint": "Shattered anchor underwater",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "broken anchor chain",
+        "image": "https://images.pexels.com/photos/10216484/pexels-photo-10216484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Venture firms price futures.",
+        "description": "They bet on next models, not current revenue. Risk: you pay for vaporware.",
+        "visual_hint": "Crystal ball reflecting money",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "crystal ball stock",
+        "image": "https://images.pexels.com/photos/7971146/pexels-photo-7971146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cheaper vendor data is dead.",
+        "description": "Benchmarking Mistral against cheaper past vendors now gives useless numbers.",
+        "visual_hint": "Hand dropping useless graph",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand throwing paper",
+        "image": "https://images.pexels.com/photos/7565381/pexels-photo-7565381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save before the round closes.",
+        "description": "Ask yourself: would you pay €20B for the next model sight unseen?",
+        "visual_hint": "Finger on save button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "save icon button",
+        "image": "https://images.pexels.com/photos/12969339/pexels-photo-12969339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
+    "savedAt": "2026-06-12T21:27:03.839Z",
+    "sourceId": "ac49e7db99e37116a2cdeaf8fa01d6e0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "chinese-cybercrime-operation-that-used-ai-to-scam-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+    "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+    "pubDate": "Fri, 12 Jun 2026 20:38:09 +0000",
+    "slides": [
+      "Google just sued a Chinese cybercrime ring. Why now?",
+      "The group used AI to scam hundreds of thousands globally.",
+      "Their deepfake voices and chatbots fooled even cautious users.",
+      "You now face AI-driven fraud that mimics real contacts.",
+      "Verify unexpected requests via a second channel before acting."
+    ],
+    "thread_text": [
+      "Google just sued a cybercrime ring. Why now?\n\nThe group used AI to create deepfake voices and chatbots that fooled hundreds of thousands globally.",
+      "Their tech mimicked real contacts closely.\n\nEven cautious users couldn't tell the difference between a fake call and a real one from a friend.",
+      "The scale is staggering.\n\nHundreds of thousands were scammed across multiple countries, not just a few isolated incidents.",
+      "Here's the twist: the criminals were Chinese.\n\nThe ring operated from China, making cross-border prosecution complex and drawn-out.",
+      "Verify unexpected requests via a second channel before acting.\n\nCall the person back on their known number. Don't trust a voice or text alone."
+    ],
+    "video_script": [
+      "Google sues Chinese cybercrime ring.",
+      "AI deepfakes fooled hundreds of thousands.",
+      "Even cautious users were tricked.",
+      "Scammers mimicked real contacts.",
+      "Verify via second channel before acting."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Google just sued a cybercrime ring. Why now?\n\nThe group used AI to create deepfake voices and chatbots that fooled hundreds of thousands globally.",
+          "Their tech mimicked real contacts closely.\n\nEven cautious users couldn't tell the difference between a fake call and a real one from a friend.",
+          "The scale is staggering.\n\nHundreds of thousands were scammed across multiple countries, not just a few isolated incidents.",
+          "Here's the twist: the criminals were Chinese.\n\nThe ring operated from China, making cross-border prosecution complex and drawn-out.",
+          "Verify unexpected requests via a second channel before acting.\n\nCall the person back on their known number. Don't trust a voice or text alone."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google sues Chinese cybercrime ring.",
+          "AI deepfakes fooled hundreds of thousands.",
+          "Even cautious users were tricked.",
+          "Scammers mimicked real contacts.",
+          "Verify via second channel before acting."
+        ]
+      },
+      "instagram": {
+        "caption": "A single cybercrime ring used AI to clone voices and create chatbots, scamming hundreds of thousands of people before Google filed a lawsuit this week.  \n\nThe group mimicked real contacts so convincingly that even cautious users were tricked. The scale is global, not just isolated incidents.  \n\nIf you create or share content, a message or call that looks like you could be weaponized against your audience or followers.  \n\nWhen was the last time you verified an urgent request from a friend by calling them back on a number you already saved? 📞🤖🛡️"
+      }
+    },
+    "instagram_caption": "A single cybercrime ring used AI to clone voices and create chatbots, scamming hundreds of thousands of people before Google filed a lawsuit this week.  \n\nThe group mimicked real contacts so convincingly that even cautious users were tricked. The scale is global, not just isolated incidents.  \n\nIf you create or share content, a message or call that looks like you could be weaponized against your audience or followers.  \n\nWhen was the last time you verified an urgent request from a friend by calling them back on a number you already saved? 📞🤖🛡️",
+    "carousel_slides": [
+      {
+        "hook": "AI cloned their voices. Now what?",
+        "description": "A Chinese cybercrime ring used AI deepfakes to scam hundreds of thousands globally, fooling even cautious users.",
+        "visual_hint": "Glitchy human face overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Deepfake calls fooled everyone.",
+        "description": "The ring's AI-generated voices and chatbots mimicked real contacts so well victims couldn't tell fake from real.",
+        "visual_hint": "Phone with voice waves",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Hundreds of thousands scammed worldwide.",
+        "description": "The massive scale involved victims across multiple countries, not just isolated incidents.",
+        "visual_hint": "World map with dots",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cross-border prosecution remains tricky.",
+        "description": "The ring operated from China, making legal action complex and slow for global authorities.",
+        "visual_hint": "Gavel and handcuffs",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "crowd market",
+        "image": "https://images.pexels.com/photos/36159724/pexels-photo-36159724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to protect your money.",
+        "description": "Always verify unexpected requests by calling back on a known number, not trusting voice or text alone.",
+        "visual_hint": "Phone and checkmark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-12T21:26:50.783Z",
+    "sourceId": "8e16264f67e55688652c6306dac995c6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "anthropic-apologizes-for-invisible-claude-fable-gu",
     "prompt_version": "1.0.0",
     "status": "published",
