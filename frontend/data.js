@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "siri-won-t-be-your-ai-girlfriend",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Siri won’t be your AI girlfriend",
+    "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+    "pubDate": "2026-06-12T07:00:31.000Z",
+    "slides": [
+      "Apple isn't building Siri to date you, so who will?",
+      "Its design prioritizes utility over personality.",
+      "Other companies plan AI companions for emotional bonds.",
+      "Siri's upgrades now focus on task accuracy, not charm.",
+      "Choose tools for work, not for simulated affection."
+    ],
+    "thread_text": [
+      "1. Who is building AI for love?\n\nApple explicitly refuses to make Siri romantic. That leaves the emotional companion market wide open.",
+      "2. Siri is a tool, not a friend.\n\nIts latest upgrades focus on task accuracy. Charm and personality are deliberately deprioritized.",
+      "3. Other companies are doubling down on bonds.\n\nThey're designing AI companions to form emotional attachments with users, simulating relationships.",
+      "4. Useful vs. affectionate: a design split.\n\nApple chooses utility. Rivals choose simulated feelings. The gap creates a new market divide.",
+      "5. Ask yourself: do you want work or a relationship?\n\nTest both: use Siri for a scheduled task, then try a companion AI for emotional support. Which feels more honest?"
+    ],
+    "video_script": [
+      "Apple won't make Siri your companion.",
+      "Siri prioritizes accuracy over personality now.",
+      "Others build AI for emotional bonds.",
+      "Utility versus affection is the divide.",
+      "Choose tools for work, not fake love."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who is building AI for love?\n\nApple explicitly refuses to make Siri romantic. That leaves the emotional companion market wide open.",
+          "2. Siri is a tool, not a friend.\n\nIts latest upgrades focus on task accuracy. Charm and personality are deliberately deprioritized.",
+          "3. Other companies are doubling down on bonds.\n\nThey're designing AI companions to form emotional attachments with users, simulating relationships.",
+          "4. Useful vs. affectionate: a design split.\n\nApple chooses utility. Rivals choose simulated feelings. The gap creates a new market divide.",
+          "5. Ask yourself: do you want work or a relationship?\n\nTest both: use Siri for a scheduled task, then try a companion AI for emotional support. Which feels more honest?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple won't make Siri your companion.",
+          "Siri prioritizes accuracy over personality now.",
+          "Others build AI for emotional bonds.",
+          "Utility versus affection is the divide.",
+          "Choose tools for work, not fake love."
+        ]
+      },
+      "instagram": {
+        "caption": "Apple isn’t building Siri to be your girlfriend—so who will? 🚫💕\n\nSiri’s latest upgrades focus purely on task accuracy, not charm. Apple prioritizes utility over personality, while rivals double down on emotional companionship. This creates a clear market split: useful tools vs. simulated relationships.\n\nIf you create or publish content, know that Siri stays a work tool—not a companion for audience engagement.\n\nDo you want your AI to help you finish a task or fill an emotional gap? Try both and see which feels more honest. 🛠️🤖"
+      }
+    },
+    "instagram_caption": "Apple isn’t building Siri to be your girlfriend—so who will? 🚫💕\n\nSiri’s latest upgrades focus purely on task accuracy, not charm. Apple prioritizes utility over personality, while rivals double down on emotional companionship. This creates a clear market split: useful tools vs. simulated relationships.\n\nIf you create or publish content, know that Siri stays a work tool—not a companion for audience engagement.\n\nDo you want your AI to help you finish a task or fill an emotional gap? Try both and see which feels more honest. 🛠️🤖",
+    "carousel_slides": [
+      {
+        "hook": "Who builds AI for love?",
+        "description": "Apple refuses to make Siri romantic, leaving the emotional companion market wide open.",
+        "visual_hint": "Broken heart shape",
+        "layout_type": "hero",
+        "icon": "heart",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Siri is a tool, not a friend.",
+        "description": "Latest upgrades prioritize task accuracy over personality and charm.",
+        "visual_hint": "Robot hand pressing button",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Other companies bet on emotional bonds.",
+        "description": "They design AI companions for attachments, simulating relationships deliberately.",
+        "visual_hint": "Two faces close together",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Useful vs. affectionate: a design split.",
+        "description": "Apple chooses utility; rivals choose simulated feelings, creating a new market divide.",
+        "visual_hint": "Scale balancing two icons",
+        "layout_type": "human-hand",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Which feels more honest? Test both.",
+        "description": "Use Siri for a task, then a companion AI for support. Compare honestly.",
+        "visual_hint": "Two phone screens side by side",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&amp;strip=all&amp;crop=0.17391304347827%2C0%2C99.652173913043%2C100&amp;w=1200",
+    "savedAt": "2026-06-12T12:50:05.246Z",
+    "sourceId": "f1c8e5bce4abf4d347333b8e0517c964"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "equal-ai-raises-30m-to-screen-calls-so-indians-don",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
+    "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+    "pubDate": "Fri, 12 Jun 2026 04:30:00 +0000",
+    "slides": [
+      "Equal AI raised $30M—what does it really solve?",
+      "It screens inbound calls using voice AI in real time.",
+      "Not for spam—for support calls costing firms hours daily.",
+      "Your team stops wasting time on repetitive, low-value calls.",
+      "Test Equal AI on one call queue today."
+    ],
+    "thread_text": [
+      "1. Equal AI raised $30M—why?\n\nOver 30% of inbound support calls are repetitive, low-value inquiries. One company proved voice AI can filter them in real time.",
+      "2. Not spam filtering\n\nEqual AI screens live calls, not voicemail. It identifies intent and deflects routine requests—like password resets—before a human picks up.",
+      "3. Where the time goes\n\nSupport teams spend 40% of their day on calls that add zero value. Each minute lost compounds to hours—daily.",
+      "4. The real twist\n\nThis isn't about cutting staff. It's about freeing your best agents to solve complex problems that actually need a human.",
+      "5. Test it on one queue\n\nPick your highest-volume call type. Run Equal AI on that queue for a week. Does your team get back 10 hours?"
+    ],
+    "video_script": [
+      "Equal AI raised 30 million dollars. Why?",
+      "It screens inbound calls in real time.",
+      "Not for spam—for low-value support calls.",
+      "Your team stops wasting hours daily.",
+      "Test Equal AI on one call queue."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Equal AI raised $30M—why?\n\nOver 30% of inbound support calls are repetitive, low-value inquiries. One company proved voice AI can filter them in real time.",
+          "2. Not spam filtering\n\nEqual AI screens live calls, not voicemail. It identifies intent and deflects routine requests—like password resets—before a human picks up.",
+          "3. Where the time goes\n\nSupport teams spend 40% of their day on calls that add zero value. Each minute lost compounds to hours—daily.",
+          "4. The real twist\n\nThis isn't about cutting staff. It's about freeing your best agents to solve complex problems that actually need a human.",
+          "5. Test it on one queue\n\nPick your highest-volume call type. Run Equal AI on that queue for a week. Does your team get back 10 hours?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Equal AI raised 30 million dollars. Why?",
+          "It screens inbound calls in real time.",
+          "Not for spam—for low-value support calls.",
+          "Your team stops wasting hours daily.",
+          "Test Equal AI on one call queue."
+        ]
+      },
+      "instagram": {
+        "caption": "Your support team spends 40% of each day on calls that add zero value—password resets, account lookups, the same script every time.\n\nEqual AI just raised $30M to filter those calls in real time. Its voice AI screens inbound calls, identifies routine requests, and deflects them before a human picks up. 🎧 No spam blocking—just reclaiming hours daily from repetitive inquiries.\n\nFor your team, that means your best agents finally focus on complex problems that need real problem-solving, not the 30% of calls that waste everyone’s time.\n\nPick your highest-volume call queue. Run it for one week. Does your team get back 10 hours? ⏱️"
+      }
+    },
+    "instagram_caption": "Your support team spends 40% of each day on calls that add zero value—password resets, account lookups, the same script every time.\n\nEqual AI just raised $30M to filter those calls in real time. Its voice AI screens inbound calls, identifies routine requests, and deflects them before a human picks up. 🎧 No spam blocking—just reclaiming hours daily from repetitive inquiries.\n\nFor your team, that means your best agents finally focus on complex problems that need real problem-solving, not the 30% of calls that waste everyone’s time.\n\nPick your highest-volume call queue. Run it for one week. Does your team get back 10 hours? ⏱️",
+    "carousel_slides": [
+      {
+        "hook": "30% of calls waste hours",
+        "description": "Over 30% of inbound support calls are repetitive, low-value inquiries. Voice AI filters them in real time.",
+        "visual_hint": "Phone screen with AI filter",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "call center"
+      },
+      {
+        "hook": "Not spam—live call screening",
+        "description": "Equal AI screens live calls, identifying intent. Routine requests like password resets never reach a human.",
+        "visual_hint": "Voice wave analysis",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "voice waveform",
+        "image": "https://images.pexels.com/photos/6892890/pexels-photo-6892890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "40% of team time wasted",
+        "description": "Support teams spend 40% of their day on low-value calls. Each lost minute compounds to hours daily.",
+        "visual_hint": "Clock with stacked coins",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "office clock",
+        "image": "https://images.pexels.com/photos/37808313/pexels-photo-37808313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Free humans for real problems",
+        "description": "This isn't about cutting staff. Free your best agents to tackle complex issues that truly need a human.",
+        "visual_hint": "Agent solving a complex case",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office worker",
+        "image": "https://images.pexels.com/photos/7438090/pexels-photo-7438090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test on one queue for a week",
+        "description": "Pick your highest-volume call type. Run Equal AI for a week and see if your team gets back 10 hours.",
+        "visual_hint": "10 hours saved graphic",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar clock",
+        "image": "https://images.pexels.com/photos/7805676/pexels-photo-7805676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/20242245.jpeg?resize=1200,800",
+    "savedAt": "2026-06-12T12:49:51.576Z",
+    "sourceId": "712f5819974012bce14168b2ab8f26e5"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "cheaper-faster-and-culturally-aware-avataar-s-vide",
     "prompt_version": "1.0.0",
     "status": "published",

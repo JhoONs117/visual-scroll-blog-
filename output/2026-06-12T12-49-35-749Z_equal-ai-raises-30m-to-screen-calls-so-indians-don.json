@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "equal-ai-raises-30m-to-screen-calls-so-indians-don",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
+  "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+  "pubDate": "Fri, 12 Jun 2026 04:30:00 +0000",
+  "slides": [
+    "Equal AI raised $30M—what does it really solve?",
+    "It screens inbound calls using voice AI in real time.",
+    "Not for spam—for support calls costing firms hours daily.",
+    "Your team stops wasting time on repetitive, low-value calls.",
+    "Test Equal AI on one call queue today."
+  ],
+  "thread_text": [
+    "1. Equal AI raised $30M—why?\n\nOver 30% of inbound support calls are repetitive, low-value inquiries. One company proved voice AI can filter them in real time.",
+    "2. Not spam filtering\n\nEqual AI screens live calls, not voicemail. It identifies intent and deflects routine requests—like password resets—before a human picks up.",
+    "3. Where the time goes\n\nSupport teams spend 40% of their day on calls that add zero value. Each minute lost compounds to hours—daily.",
+    "4. The real twist\n\nThis isn't about cutting staff. It's about freeing your best agents to solve complex problems that actually need a human.",
+    "5. Test it on one queue\n\nPick your highest-volume call type. Run Equal AI on that queue for a week. Does your team get back 10 hours?"
+  ],
+  "video_script": [
+    "Equal AI raised 30 million dollars. Why?",
+    "It screens inbound calls in real time.",
+    "Not for spam—for low-value support calls.",
+    "Your team stops wasting hours daily.",
+    "Test Equal AI on one call queue."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Equal AI raised $30M—why?\n\nOver 30% of inbound support calls are repetitive, low-value inquiries. One company proved voice AI can filter them in real time.",
+        "2. Not spam filtering\n\nEqual AI screens live calls, not voicemail. It identifies intent and deflects routine requests—like password resets—before a human picks up.",
+        "3. Where the time goes\n\nSupport teams spend 40% of their day on calls that add zero value. Each minute lost compounds to hours—daily.",
+        "4. The real twist\n\nThis isn't about cutting staff. It's about freeing your best agents to solve complex problems that actually need a human.",
+        "5. Test it on one queue\n\nPick your highest-volume call type. Run Equal AI on that queue for a week. Does your team get back 10 hours?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Equal AI raised 30 million dollars. Why?",
+        "It screens inbound calls in real time.",
+        "Not for spam—for low-value support calls.",
+        "Your team stops wasting hours daily.",
+        "Test Equal AI on one call queue."
+      ]
+    },
+    "instagram": {
+      "caption": "Your support team spends 40% of each day on calls that add zero value—password resets, account lookups, the same script every time.\n\nEqual AI just raised $30M to filter those calls in real time. Its voice AI screens inbound calls, identifies routine requests, and deflects them before a human picks up. 🎧 No spam blocking—just reclaiming hours daily from repetitive inquiries.\n\nFor your team, that means your best agents finally focus on complex problems that need real problem-solving, not the 30% of calls that waste everyone’s time.\n\nPick your highest-volume call queue. Run it for one week. Does your team get back 10 hours? ⏱️"
+    }
+  },
+  "instagram_caption": "Your support team spends 40% of each day on calls that add zero value—password resets, account lookups, the same script every time.\n\nEqual AI just raised $30M to filter those calls in real time. Its voice AI screens inbound calls, identifies routine requests, and deflects them before a human picks up. 🎧 No spam blocking—just reclaiming hours daily from repetitive inquiries.\n\nFor your team, that means your best agents finally focus on complex problems that need real problem-solving, not the 30% of calls that waste everyone’s time.\n\nPick your highest-volume call queue. Run it for one week. Does your team get back 10 hours? ⏱️",
+  "carousel_slides": [
+    {
+      "hook": "30% of calls waste hours",
+      "description": "Over 30% of inbound support calls are repetitive, low-value inquiries. Voice AI filters them in real time.",
+      "visual_hint": "Phone screen with AI filter",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "call center"
+    },
+    {
+      "hook": "Not spam—live call screening",
+      "description": "Equal AI screens live calls, identifying intent. Routine requests like password resets never reach a human.",
+      "visual_hint": "Voice wave analysis",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "voice waveform",
+      "image": "https://images.pexels.com/photos/6892890/pexels-photo-6892890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "40% of team time wasted",
+      "description": "Support teams spend 40% of their day on low-value calls. Each lost minute compounds to hours daily.",
+      "visual_hint": "Clock with stacked coins",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "office clock",
+      "image": "https://images.pexels.com/photos/37808313/pexels-photo-37808313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Free humans for real problems",
+      "description": "This isn't about cutting staff. Free your best agents to tackle complex issues that truly need a human.",
+      "visual_hint": "Agent solving a complex case",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office worker",
+      "image": "https://images.pexels.com/photos/7438090/pexels-photo-7438090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test on one queue for a week",
+      "description": "Pick your highest-volume call type. Run Equal AI for a week and see if your team gets back 10 hours.",
+      "visual_hint": "10 hours saved graphic",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar clock",
+      "image": "https://images.pexels.com/photos/7805676/pexels-photo-7805676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/20242245.jpeg?resize=1200,800",
+  "savedAt": "2026-06-12T12:49:51.576Z",
+  "sourceId": "712f5819974012bce14168b2ab8f26e5"
+}

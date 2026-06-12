@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "siri-won-t-be-your-ai-girlfriend",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Siri won’t be your AI girlfriend",
+  "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+  "pubDate": "2026-06-12T07:00:31.000Z",
+  "slides": [
+    "Apple isn't building Siri to date you, so who will?",
+    "Its design prioritizes utility over personality.",
+    "Other companies plan AI companions for emotional bonds.",
+    "Siri's upgrades now focus on task accuracy, not charm.",
+    "Choose tools for work, not for simulated affection."
+  ],
+  "thread_text": [
+    "1. Who is building AI for love?\n\nApple explicitly refuses to make Siri romantic. That leaves the emotional companion market wide open.",
+    "2. Siri is a tool, not a friend.\n\nIts latest upgrades focus on task accuracy. Charm and personality are deliberately deprioritized.",
+    "3. Other companies are doubling down on bonds.\n\nThey're designing AI companions to form emotional attachments with users, simulating relationships.",
+    "4. Useful vs. affectionate: a design split.\n\nApple chooses utility. Rivals choose simulated feelings. The gap creates a new market divide.",
+    "5. Ask yourself: do you want work or a relationship?\n\nTest both: use Siri for a scheduled task, then try a companion AI for emotional support. Which feels more honest?"
+  ],
+  "video_script": [
+    "Apple won't make Siri your companion.",
+    "Siri prioritizes accuracy over personality now.",
+    "Others build AI for emotional bonds.",
+    "Utility versus affection is the divide.",
+    "Choose tools for work, not fake love."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who is building AI for love?\n\nApple explicitly refuses to make Siri romantic. That leaves the emotional companion market wide open.",
+        "2. Siri is a tool, not a friend.\n\nIts latest upgrades focus on task accuracy. Charm and personality are deliberately deprioritized.",
+        "3. Other companies are doubling down on bonds.\n\nThey're designing AI companions to form emotional attachments with users, simulating relationships.",
+        "4. Useful vs. affectionate: a design split.\n\nApple chooses utility. Rivals choose simulated feelings. The gap creates a new market divide.",
+        "5. Ask yourself: do you want work or a relationship?\n\nTest both: use Siri for a scheduled task, then try a companion AI for emotional support. Which feels more honest?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple won't make Siri your companion.",
+        "Siri prioritizes accuracy over personality now.",
+        "Others build AI for emotional bonds.",
+        "Utility versus affection is the divide.",
+        "Choose tools for work, not fake love."
+      ]
+    },
+    "instagram": {
+      "caption": "Apple isn’t building Siri to be your girlfriend—so who will? 🚫💕\n\nSiri’s latest upgrades focus purely on task accuracy, not charm. Apple prioritizes utility over personality, while rivals double down on emotional companionship. This creates a clear market split: useful tools vs. simulated relationships.\n\nIf you create or publish content, know that Siri stays a work tool—not a companion for audience engagement.\n\nDo you want your AI to help you finish a task or fill an emotional gap? Try both and see which feels more honest. 🛠️🤖"
+    }
+  },
+  "instagram_caption": "Apple isn’t building Siri to be your girlfriend—so who will? 🚫💕\n\nSiri’s latest upgrades focus purely on task accuracy, not charm. Apple prioritizes utility over personality, while rivals double down on emotional companionship. This creates a clear market split: useful tools vs. simulated relationships.\n\nIf you create or publish content, know that Siri stays a work tool—not a companion for audience engagement.\n\nDo you want your AI to help you finish a task or fill an emotional gap? Try both and see which feels more honest. 🛠️🤖",
+  "carousel_slides": [
+    {
+      "hook": "Who builds AI for love?",
+      "description": "Apple refuses to make Siri romantic, leaving the emotional companion market wide open.",
+      "visual_hint": "Broken heart shape",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Siri is a tool, not a friend.",
+      "description": "Latest upgrades prioritize task accuracy over personality and charm.",
+      "visual_hint": "Robot hand pressing button",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Other companies bet on emotional bonds.",
+      "description": "They design AI companions for attachments, simulating relationships deliberately.",
+      "visual_hint": "Two faces close together",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Useful vs. affectionate: a design split.",
+      "description": "Apple chooses utility; rivals choose simulated feelings, creating a new market divide.",
+      "visual_hint": "Scale balancing two icons",
+      "layout_type": "human-hand",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Which feels more honest? Test both.",
+      "description": "Use Siri for a task, then a companion AI for support. Compare honestly.",
+      "visual_hint": "Two phone screens side by side",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&amp;strip=all&amp;crop=0.17391304347827%2C0%2C99.652173913043%2C100&amp;w=1200",
+  "savedAt": "2026-06-12T12:50:05.246Z",
+  "sourceId": "f1c8e5bce4abf4d347333b8e0517c964"
+}
