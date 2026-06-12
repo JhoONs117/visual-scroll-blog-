@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-s-months-old-ai-unit-is-a-soul-crushing-gulag",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+  "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+  "pubDate": "Fri, 12 Jun 2026 23:00:54 +0000",
+  "slides": [
+    "Can Meta's new AI unit actually deliver results?",
+    "Engineers call it a monotonous, soul-crushing gulag.",
+    "But top talent stays — because exit is worse.",
+    "Your next feature may ship late, if at all.",
+    "Avoid their mistakes: audit team morale this week."
+  ],
+  "thread_text": [
+    "1. What’s really happening at Meta?\n\nEngineers call the new AI unit a monotonous, soul-crushing gulag. Top talent stays only because leaving is worse.",
+    "2. The talent trap is real.\n\nStaying isn’t loyalty — it’s fear of a worse exit. But that fear doesn’t drive innovation.",
+    "3. Your next feature is at risk.\n\nShips may slip, or never come. Morale is the hidden variable in your roadmap.",
+    "4. Meta’s gamble on AI.\n\nThey bet big on a new unit. But a gulag culture doesn’t deliver breakthroughs by deadline.",
+    "5. Audit your team’s morale this week.\n\nRun a quick anonymous pulse check. Are they staying for the mission or because leaving is worse?"
+  ],
+  "video_script": [
+    "Meta’s AI unit is a soul-crushing gulag.",
+    "Top talent stays only because exit is worse.",
+    "Your next feature may ship late or never.",
+    "Don’t let morale kill your roadmap.",
+    "Audit your team’s morale this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What’s really happening at Meta?\n\nEngineers call the new AI unit a monotonous, soul-crushing gulag. Top talent stays only because leaving is worse.",
+        "2. The talent trap is real.\n\nStaying isn’t loyalty — it’s fear of a worse exit. But that fear doesn’t drive innovation.",
+        "3. Your next feature is at risk.\n\nShips may slip, or never come. Morale is the hidden variable in your roadmap.",
+        "4. Meta’s gamble on AI.\n\nThey bet big on a new unit. But a gulag culture doesn’t deliver breakthroughs by deadline.",
+        "5. Audit your team’s morale this week.\n\nRun a quick anonymous pulse check. Are they staying for the mission or because leaving is worse?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta’s AI unit is a soul-crushing gulag.",
+        "Top talent stays only because exit is worse.",
+        "Your next feature may ship late or never.",
+        "Don’t let morale kill your roadmap.",
+        "Audit your team’s morale this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Engineers inside Meta’s new AI unit call it a “monotonous, soul-crushing gulag.”\n\nTop talent stays only because leaving is worse — that’s not loyalty, it’s fear. When fear replaces mission, breakthroughs stop.\n\nYour next feature could ship late, or never. Morale is the hidden variable on your roadmap.\n\nAre your people staying for the work, or because the exit is worse? 👀‍💀 Run an anonymous pulse check this week."
+    }
+  },
+  "instagram_caption": "Engineers inside Meta’s new AI unit call it a “monotonous, soul-crushing gulag.”\n\nTop talent stays only because leaving is worse — that’s not loyalty, it’s fear. When fear replaces mission, breakthroughs stop.\n\nYour next feature could ship late, or never. Morale is the hidden variable on your roadmap.\n\nAre your people staying for the work, or because the exit is worse? 👀‍💀 Run an anonymous pulse check this week.",
+  "carousel_slides": [
+    {
+      "hook": "Staying because leaving is worse?",
+      "description": "Top engineers at Meta's AI unit stay only out of fear, not loyalty, killing creativity.",
+      "visual_hint": "caged silhouette figure",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "prison cell door"
+    },
+    {
+      "hook": "Fear traps top talent.",
+      "description": "Engineers call the unit a soul-crushing gulag; fear of a worse exit keeps them stuck.",
+      "visual_hint": "person stuck in trap",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "mouse trap",
+      "image": "https://images.pexels.com/photos/11643586/pexels-photo-11643586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next feature may slip.",
+      "description": "Low morale is a hidden variable; ships may never arrive when culture is a gulag.",
+      "visual_hint": "calendar with delays",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "slowed clock",
+      "image": "https://images.pexels.com/photos/37808313/pexels-photo-37808313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Gulag culture kills breakthroughs.",
+      "description": "Meta bet big on AI, but a monotonous, fear-driven unit can't deliver by deadline.",
+      "visual_hint": "broken gear human hand",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory worker",
+      "image": "https://images.pexels.com/photos/29988954/pexels-photo-29988954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit morale now.",
+      "description": "Run an anonymous pulse check this week — are your team staying for mission or fear?",
+      "visual_hint": "anonymous survey icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/8978610/pexels-photo-8978610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
+  "savedAt": "2026-06-12T23:08:47.060Z",
+  "sourceId": "56b7b98f42fb1f2282e1b7f07d77a52f"
+}
