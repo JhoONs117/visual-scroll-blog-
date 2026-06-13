@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "elon-musk-becomes-the-world-s-first-trillionaire-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
+  "link": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
+  "pubDate": "Fri, 12 Jun 2026 15:55:06 +0000",
+  "slides": [
+    "Can one company finally make Musk a trillionaire?",
+    "SpaceX's IPO is valued at over $300 billion.",
+    "He already owned Tesla, X, and xAI before this.",
+    "Your portfolio may shift with space-sector growth.",
+    "Watch SpaceX stock—rebalance before the next wave."
+  ],
+  "thread_text": [
+    "1. Trillionaire on the horizon?\n\nSpaceX IPO at $300B could push Musk past that threshold.",
+    "2. Empire of four companies\n\nHe controls Tesla, X, xAI, and soon SpaceX stock.",
+    "3. Your portfolio at risk\n\nSpace-sector growth may shift value away from other holdings.",
+    "4. Watch the next wave\n\nSpaceX stock could surge—timing your rebalance matters.",
+    "5. Check your allocation today\n\nSimulate a 10% space-sector exposure in your portfolio this week."
+  ],
+  "video_script": [
+    "One company could make Musk a trillionaire.",
+    "SpaceX IPO is over 300 billion dollars.",
+    "He already owns Tesla, X, and xAI.",
+    "Your portfolio may shift with space growth.",
+    "Watch SpaceX stock and rebalance before the wave."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Trillionaire on the horizon?\n\nSpaceX IPO at $300B could push Musk past that threshold.",
+        "2. Empire of four companies\n\nHe controls Tesla, X, xAI, and soon SpaceX stock.",
+        "3. Your portfolio at risk\n\nSpace-sector growth may shift value away from other holdings.",
+        "4. Watch the next wave\n\nSpaceX stock could surge—timing your rebalance matters.",
+        "5. Check your allocation today\n\nSimulate a 10% space-sector exposure in your portfolio this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "One company could make Musk a trillionaire.",
+        "SpaceX IPO is over 300 billion dollars.",
+        "He already owns Tesla, X, and xAI.",
+        "Your portfolio may shift with space growth.",
+        "Watch SpaceX stock and rebalance before the wave."
+      ]
+    },
+    "instagram": {
+      "caption": "A single IPO could push Elon Musk past the trillion-dollar mark—SpaceX enters the public market valued at $300 billion.\n\nHe already controls Tesla, X, and xAI. Adding a publicly traded SpaceX gives him a four-company empire in space, cars, social media, and AI.\n\nThis shifts where institutional money flows 🚀. If you hold a broad portfolio, space-sector growth may silently eat value from your current tech or energy stocks.\n\nYour content strategy now needs a space angle—don’t let your audience scroll past this sector change without you.\n\nWhich of your current investments is most exposed to a space-sector rebalance?"
+    }
+  },
+  "instagram_caption": "A single IPO could push Elon Musk past the trillion-dollar mark—SpaceX enters the public market valued at $300 billion.\n\nHe already controls Tesla, X, and xAI. Adding a publicly traded SpaceX gives him a four-company empire in space, cars, social media, and AI.\n\nThis shifts where institutional money flows 🚀. If you hold a broad portfolio, space-sector growth may silently eat value from your current tech or energy stocks.\n\nYour content strategy now needs a space angle—don’t let your audience scroll past this sector change without you.\n\nWhich of your current investments is most exposed to a space-sector rebalance?",
+  "carousel_slides": [
+    {
+      "hook": "Your portfolio is at risk",
+      "description": "SpaceX's $300B IPO could make Musk a trillionaire and shift value from other stocks.",
+      "visual_hint": "Rocket launch explosion",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "SpaceX rocket launch"
+    },
+    {
+      "hook": "Four companies, one man",
+      "description": "Musk controls Tesla, X, xAI, and soon SpaceX stock worth over $300 billion.",
+      "visual_hint": "Collage of four logos",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "company logo collage",
+      "image": "https://images.pexels.com/photos/33714875/pexels-photo-33714875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Space sector reshapes wealth",
+      "description": "Growth in space stocks may drain value from traditional holdings—rebalance now.",
+      "visual_hint": "Stock chart with arrow",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Surge ahead of the wave",
+      "description": "SpaceX stock could jump post-IPO; timing your rebalance is key to gains.",
+      "visual_hint": "Hand adjusting graph",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person adjusting chart",
+      "image": "https://images.pexels.com/photos/14797752/pexels-photo-14797752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your allocation now",
+      "description": "Simulate 10% space-sector exposure in your portfolio this week.",
+      "visual_hint": "Phone screen with portfolio",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone portfolio app",
+      "image": "https://images.pexels.com/photos/7947740/pexels-photo-7947740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2147789850.jpg?resize=1200,800",
+  "savedAt": "2026-06-13T02:36:03.640Z",
+  "sourceId": "9dabab647fd855b924ab134a07882b33"
+}

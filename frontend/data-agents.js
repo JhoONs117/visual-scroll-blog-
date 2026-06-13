@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "elon-musk-is-the-world-8217-s-first-trillionaire",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Elon Musk is the world&#8217;s first trillionaire",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+      "pubDate": "2026-06-12T16:24:39.000Z",
+      "slides": [
+        "Elon Musk is officially the world’s first trillionaire. What now?",
+        "His net worth now exceeds a trillion dollars.",
+        "Yet most of it is tied to one volatile asset.",
+        "For investors, this means rethinking risk concentration limits.",
+        "Diversify beyond any single founder’s stock today."
+      ],
+      "thread_text": [
+        "1. Trillionaire Status Arrives\n\nElon Musk’s net worth just crossed a trillion dollars, but almost none of it is liquid.",
+        "2. One Stock Binds It\n\nThe wealth is concentrated in a single volatile asset—Tesla shares.",
+        "3. Risk Limits Questioned\n\nFor investors, this concentration forces a rethink of portfolio exposure caps.",
+        "4. Founder Dependency Exposed\n\nTying net worth to one founder’s decisions is a structural vulnerability.",
+        "5. Diversify This Week\n\nCheck your portfolio: what percentage is in Musk-linked stocks? Rebalance if above 5%."
+      ],
+      "video_script": [
+        "Musk is the first trillionaire.",
+        "Nearly all tied to Tesla stock.",
+        "Volatility makes it a gamble.",
+        "Investors must cap concentration risk.",
+        "Diversify beyond any single founder."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Trillionaire Status Arrives\n\nElon Musk’s net worth just crossed a trillion dollars, but almost none of it is liquid.",
+            "2. One Stock Binds It\n\nThe wealth is concentrated in a single volatile asset—Tesla shares.",
+            "3. Risk Limits Questioned\n\nFor investors, this concentration forces a rethink of portfolio exposure caps.",
+            "4. Founder Dependency Exposed\n\nTying net worth to one founder’s decisions is a structural vulnerability.",
+            "5. Diversify This Week\n\nCheck your portfolio: what percentage is in Musk-linked stocks? Rebalance if above 5%."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Musk is the first trillionaire.",
+            "Nearly all tied to Tesla stock.",
+            "Volatility makes it a gamble.",
+            "Investors must cap concentration risk.",
+            "Diversify beyond any single founder."
+          ]
+        },
+        "instagram": {
+          "caption": "Elon Musk’s net worth just hit $1 trillion—but almost all of it is sitting in one stock.\n\nThat stock is Tesla. If it drops 20%, a quarter of his wealth disappears.\n\nFor investors, this blows up the old rule that no single asset should be more than 5% of your portfolio. Your exposure to one founder’s decisions is a risk you’re probably not measuring.\n\nCheck your holdings today. What percentage of your net worth is tied directly to Musk’s companies? Would you still hold it if a single tweet shook the price? ⚖️📉"
+        }
+      },
+      "instagram_caption": "Elon Musk’s net worth just hit $1 trillion—but almost all of it is sitting in one stock.\n\nThat stock is Tesla. If it drops 20%, a quarter of his wealth disappears.\n\nFor investors, this blows up the old rule that no single asset should be more than 5% of your portfolio. Your exposure to one founder’s decisions is a risk you’re probably not measuring.\n\nCheck your holdings today. What percentage of your net worth is tied directly to Musk’s companies? Would you still hold it if a single tweet shook the price? ⚖️📉",
+      "carousel_slides": [
+        {
+          "hook": "Your portfolio riskier than Musk’s?",
+          "description": "Musk’s $1 trillion net worth is almost entirely illiquid Tesla stock, revealing hidden fragility.",
+          "visual_hint": "Stock chart with red alert",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "One stock binds his fortune.",
+          "description": "Nearly all $1 trillion is tied to Tesla shares, a single volatile asset.",
+          "visual_hint": "Tesla car with price ticker",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "Tesla car",
+          "image": "https://images.pexels.com/photos/24589301/pexels-photo-24589301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Is 5% exposure too high?",
+          "description": "This concentration forces investors to rethink portfolio caps and founder dependency risks.",
+          "visual_hint": "Magnifying glass on portfolio",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Founder dependency is a trap.",
+          "description": "Tying wealth to one person’s decisions creates a structural vulnerability in your portfolio.",
+          "visual_hint": "Hand holding balancing scale",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "balancing scale",
+          "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your Musk exposure now.",
+          "description": "Rebalance any single stock above 5% of your portfolio this week.",
+          "visual_hint": "Phone with portfolio app",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone portfolio",
+          "image": "https://images.pexels.com/photos/7989073/pexels-photo-7989073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-06-13T02:36:16.184Z",
+      "sourceId": "ae65ff682b916609ea20f792fbd52c79"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "elon-musk-becomes-the-world-s-first-trillionaire-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
+      "link": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
+      "pubDate": "Fri, 12 Jun 2026 15:55:06 +0000",
+      "slides": [
+        "Can one company finally make Musk a trillionaire?",
+        "SpaceX's IPO is valued at over $300 billion.",
+        "He already owned Tesla, X, and xAI before this.",
+        "Your portfolio may shift with space-sector growth.",
+        "Watch SpaceX stock—rebalance before the next wave."
+      ],
+      "thread_text": [
+        "1. Trillionaire on the horizon?\n\nSpaceX IPO at $300B could push Musk past that threshold.",
+        "2. Empire of four companies\n\nHe controls Tesla, X, xAI, and soon SpaceX stock.",
+        "3. Your portfolio at risk\n\nSpace-sector growth may shift value away from other holdings.",
+        "4. Watch the next wave\n\nSpaceX stock could surge—timing your rebalance matters.",
+        "5. Check your allocation today\n\nSimulate a 10% space-sector exposure in your portfolio this week."
+      ],
+      "video_script": [
+        "One company could make Musk a trillionaire.",
+        "SpaceX IPO is over 300 billion dollars.",
+        "He already owns Tesla, X, and xAI.",
+        "Your portfolio may shift with space growth.",
+        "Watch SpaceX stock and rebalance before the wave."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Trillionaire on the horizon?\n\nSpaceX IPO at $300B could push Musk past that threshold.",
+            "2. Empire of four companies\n\nHe controls Tesla, X, xAI, and soon SpaceX stock.",
+            "3. Your portfolio at risk\n\nSpace-sector growth may shift value away from other holdings.",
+            "4. Watch the next wave\n\nSpaceX stock could surge—timing your rebalance matters.",
+            "5. Check your allocation today\n\nSimulate a 10% space-sector exposure in your portfolio this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "One company could make Musk a trillionaire.",
+            "SpaceX IPO is over 300 billion dollars.",
+            "He already owns Tesla, X, and xAI.",
+            "Your portfolio may shift with space growth.",
+            "Watch SpaceX stock and rebalance before the wave."
+          ]
+        },
+        "instagram": {
+          "caption": "A single IPO could push Elon Musk past the trillion-dollar mark—SpaceX enters the public market valued at $300 billion.\n\nHe already controls Tesla, X, and xAI. Adding a publicly traded SpaceX gives him a four-company empire in space, cars, social media, and AI.\n\nThis shifts where institutional money flows 🚀. If you hold a broad portfolio, space-sector growth may silently eat value from your current tech or energy stocks.\n\nYour content strategy now needs a space angle—don’t let your audience scroll past this sector change without you.\n\nWhich of your current investments is most exposed to a space-sector rebalance?"
+        }
+      },
+      "instagram_caption": "A single IPO could push Elon Musk past the trillion-dollar mark—SpaceX enters the public market valued at $300 billion.\n\nHe already controls Tesla, X, and xAI. Adding a publicly traded SpaceX gives him a four-company empire in space, cars, social media, and AI.\n\nThis shifts where institutional money flows 🚀. If you hold a broad portfolio, space-sector growth may silently eat value from your current tech or energy stocks.\n\nYour content strategy now needs a space angle—don’t let your audience scroll past this sector change without you.\n\nWhich of your current investments is most exposed to a space-sector rebalance?",
+      "carousel_slides": [
+        {
+          "hook": "Your portfolio is at risk",
+          "description": "SpaceX's $300B IPO could make Musk a trillionaire and shift value from other stocks.",
+          "visual_hint": "Rocket launch explosion",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "SpaceX rocket launch"
+        },
+        {
+          "hook": "Four companies, one man",
+          "description": "Musk controls Tesla, X, xAI, and soon SpaceX stock worth over $300 billion.",
+          "visual_hint": "Collage of four logos",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "company logo collage",
+          "image": "https://images.pexels.com/photos/33714875/pexels-photo-33714875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Space sector reshapes wealth",
+          "description": "Growth in space stocks may drain value from traditional holdings—rebalance now.",
+          "visual_hint": "Stock chart with arrow",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Surge ahead of the wave",
+          "description": "SpaceX stock could jump post-IPO; timing your rebalance is key to gains.",
+          "visual_hint": "Hand adjusting graph",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person adjusting chart",
+          "image": "https://images.pexels.com/photos/14797752/pexels-photo-14797752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your allocation now",
+          "description": "Simulate 10% space-sector exposure in your portfolio this week.",
+          "visual_hint": "Phone screen with portfolio",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone portfolio app",
+          "image": "https://images.pexels.com/photos/7947740/pexels-photo-7947740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2147789850.jpg?resize=1200,800",
+      "savedAt": "2026-06-13T02:36:03.640Z",
+      "sourceId": "9dabab647fd855b924ab134a07882b33"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "spacex-ipo-closes-up-19-and-delivers-the-world-s-f",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+      "pubDate": "Fri, 12 Jun 2026 20:20:00 +0000",
+      "slides": [
+        "SpaceX just made its founder how much richer?",
+        "The IPO priced at $120, but closed at $143.",
+        "That 19% jump created the first trillionaire.",
+        "Your portfolio missed this unless you got allocated.",
+        "Watch for insider selling next quarter."
+      ],
+      "thread_text": [
+        "1. Who became the first?\n\nA 19% IPO pop on day one created the world's first trillionaire.",
+        "2. Why retail missed it\n\nIPO allocation is a private game—most investors never got a single share at $120.",
+        "3. The real winner\n\nSpaceX cap table had the trigger: its founder's net worth crossed the mark after the close.",
+        "4. The next signal\n\nWatch Q2 insider selling. Early investors may cash out post-IPO lockup expiration.",
+        "5. Your move now\n\nCheck whether your broker offers IPO access. If not, ask them directly this week."
+      ],
+      "video_script": [
+        "SpaceX founder hit trillionaire status after one IPO.",
+        "Retail missed the 19% pop at pricing.",
+        "The jump came from a $120 to $143 close.",
+        "Insider selling may surface next quarter.",
+        "Check your broker for IPO allocation now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who became the first?\n\nA 19% IPO pop on day one created the world's first trillionaire.",
+            "2. Why retail missed it\n\nIPO allocation is a private game—most investors never got a single share at $120.",
+            "3. The real winner\n\nSpaceX cap table had the trigger: its founder's net worth crossed the mark after the close.",
+            "4. The next signal\n\nWatch Q2 insider selling. Early investors may cash out post-IPO lockup expiration.",
+            "5. Your move now\n\nCheck whether your broker offers IPO access. If not, ask them directly this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "SpaceX founder hit trillionaire status after one IPO.",
+            "Retail missed the 19% pop at pricing.",
+            "The jump came from a $120 to $143 close.",
+            "Insider selling may surface next quarter.",
+            "Check your broker for IPO allocation now."
+          ]
+        },
+        "instagram": {
+          "caption": "SpaceX's IPO closed at $143 per share, a 19% jump from its $120 opening.\n\nThat single-day surge made its founder the world's first trillionaire. 🚀 Most retail investors never got a share at the IPO price—allocation is reserved for private clients. 📈\n\nIf you create market commentary or stock content, your audience just watched a $23 gap they couldn't trade.\n\nDid your brokerage even offer you an allocation? If not, call them this week for IPO access rules. 💰"
+        }
+      },
+      "instagram_caption": "SpaceX's IPO closed at $143 per share, a 19% jump from its $120 opening.\n\nThat single-day surge made its founder the world's first trillionaire. 🚀 Most retail investors never got a share at the IPO price—allocation is reserved for private clients. 📈\n\nIf you create market commentary or stock content, your audience just watched a $23 gap they couldn't trade.\n\nDid your brokerage even offer you an allocation? If not, call them this week for IPO access rules. 💰",
+      "carousel_slides": [
+        {
+          "hook": "Who just became a trillionaire?",
+          "description": "A 19% IPO pop on day one created the world's first trillionaire after the close.",
+          "visual_hint": "Rocket launching upward",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "SpaceX rocket launch"
+        },
+        {
+          "hook": "Why retail investors missed out",
+          "description": "IPO allocation is private—most investors never got a single share at $120.",
+          "visual_hint": "Closed door with lock",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The real winner on day one",
+          "description": "Founder's net worth crossed the trillion mark after the IPO close.",
+          "visual_hint": "Rocket close-up engine",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "Elon Musk",
+          "image": "https://images.pexels.com/photos/12861276/pexels-photo-12861276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Watch for insider selling soon",
+          "description": "Early investors may cash out post-IPO lockup expiration next quarter.",
+          "visual_hint": "Hand dropping coins",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding coins",
+          "image": "https://images.pexels.com/photos/3943722/pexels-photo-3943722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to check your broker",
+          "description": "Ask your broker this week if they offer IPO access for the next opportunity.",
+          "visual_hint": "Phone with broker app",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "stock exchange building",
+          "image": "https://images.pexels.com/photos/16566782/pexels-photo-16566782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
+      "savedAt": "2026-06-13T02:35:51.274Z",
+      "sourceId": "215c6b751be4a16ce4d65fa426f6e593"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "meta-s-months-old-ai-unit-is-a-soul-crushing-gulag",
       "prompt_version": "1.0.0",
       "status": "published",

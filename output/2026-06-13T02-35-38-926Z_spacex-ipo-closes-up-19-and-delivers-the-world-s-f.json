@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spacex-ipo-closes-up-19-and-delivers-the-world-s-f",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
+  "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+  "pubDate": "Fri, 12 Jun 2026 20:20:00 +0000",
+  "slides": [
+    "SpaceX just made its founder how much richer?",
+    "The IPO priced at $120, but closed at $143.",
+    "That 19% jump created the first trillionaire.",
+    "Your portfolio missed this unless you got allocated.",
+    "Watch for insider selling next quarter."
+  ],
+  "thread_text": [
+    "1. Who became the first?\n\nA 19% IPO pop on day one created the world's first trillionaire.",
+    "2. Why retail missed it\n\nIPO allocation is a private game—most investors never got a single share at $120.",
+    "3. The real winner\n\nSpaceX cap table had the trigger: its founder's net worth crossed the mark after the close.",
+    "4. The next signal\n\nWatch Q2 insider selling. Early investors may cash out post-IPO lockup expiration.",
+    "5. Your move now\n\nCheck whether your broker offers IPO access. If not, ask them directly this week."
+  ],
+  "video_script": [
+    "SpaceX founder hit trillionaire status after one IPO.",
+    "Retail missed the 19% pop at pricing.",
+    "The jump came from a $120 to $143 close.",
+    "Insider selling may surface next quarter.",
+    "Check your broker for IPO allocation now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who became the first?\n\nA 19% IPO pop on day one created the world's first trillionaire.",
+        "2. Why retail missed it\n\nIPO allocation is a private game—most investors never got a single share at $120.",
+        "3. The real winner\n\nSpaceX cap table had the trigger: its founder's net worth crossed the mark after the close.",
+        "4. The next signal\n\nWatch Q2 insider selling. Early investors may cash out post-IPO lockup expiration.",
+        "5. Your move now\n\nCheck whether your broker offers IPO access. If not, ask them directly this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "SpaceX founder hit trillionaire status after one IPO.",
+        "Retail missed the 19% pop at pricing.",
+        "The jump came from a $120 to $143 close.",
+        "Insider selling may surface next quarter.",
+        "Check your broker for IPO allocation now."
+      ]
+    },
+    "instagram": {
+      "caption": "SpaceX's IPO closed at $143 per share, a 19% jump from its $120 opening.\n\nThat single-day surge made its founder the world's first trillionaire. 🚀 Most retail investors never got a share at the IPO price—allocation is reserved for private clients. 📈\n\nIf you create market commentary or stock content, your audience just watched a $23 gap they couldn't trade.\n\nDid your brokerage even offer you an allocation? If not, call them this week for IPO access rules. 💰"
+    }
+  },
+  "instagram_caption": "SpaceX's IPO closed at $143 per share, a 19% jump from its $120 opening.\n\nThat single-day surge made its founder the world's first trillionaire. 🚀 Most retail investors never got a share at the IPO price—allocation is reserved for private clients. 📈\n\nIf you create market commentary or stock content, your audience just watched a $23 gap they couldn't trade.\n\nDid your brokerage even offer you an allocation? If not, call them this week for IPO access rules. 💰",
+  "carousel_slides": [
+    {
+      "hook": "Who just became a trillionaire?",
+      "description": "A 19% IPO pop on day one created the world's first trillionaire after the close.",
+      "visual_hint": "Rocket launching upward",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "SpaceX rocket launch"
+    },
+    {
+      "hook": "Why retail investors missed out",
+      "description": "IPO allocation is private—most investors never got a single share at $120.",
+      "visual_hint": "Closed door with lock",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The real winner on day one",
+      "description": "Founder's net worth crossed the trillion mark after the IPO close.",
+      "visual_hint": "Rocket close-up engine",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "Elon Musk",
+      "image": "https://images.pexels.com/photos/12861276/pexels-photo-12861276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch for insider selling soon",
+      "description": "Early investors may cash out post-IPO lockup expiration next quarter.",
+      "visual_hint": "Hand dropping coins",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding coins",
+      "image": "https://images.pexels.com/photos/3943722/pexels-photo-3943722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to check your broker",
+      "description": "Ask your broker this week if they offer IPO access for the next opportunity.",
+      "visual_hint": "Phone with broker app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock exchange building",
+      "image": "https://images.pexels.com/photos/16566782/pexels-photo-16566782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
+  "savedAt": "2026-06-13T02:35:51.274Z",
+  "sourceId": "215c6b751be4a16ce4d65fa426f6e593"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "elon-musk-is-the-world-8217-s-first-trillionaire",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Elon Musk is the world&#8217;s first trillionaire",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+  "pubDate": "2026-06-12T16:24:39.000Z",
+  "slides": [
+    "Elon Musk is officially the world’s first trillionaire. What now?",
+    "His net worth now exceeds a trillion dollars.",
+    "Yet most of it is tied to one volatile asset.",
+    "For investors, this means rethinking risk concentration limits.",
+    "Diversify beyond any single founder’s stock today."
+  ],
+  "thread_text": [
+    "1. Trillionaire Status Arrives\n\nElon Musk’s net worth just crossed a trillion dollars, but almost none of it is liquid.",
+    "2. One Stock Binds It\n\nThe wealth is concentrated in a single volatile asset—Tesla shares.",
+    "3. Risk Limits Questioned\n\nFor investors, this concentration forces a rethink of portfolio exposure caps.",
+    "4. Founder Dependency Exposed\n\nTying net worth to one founder’s decisions is a structural vulnerability.",
+    "5. Diversify This Week\n\nCheck your portfolio: what percentage is in Musk-linked stocks? Rebalance if above 5%."
+  ],
+  "video_script": [
+    "Musk is the first trillionaire.",
+    "Nearly all tied to Tesla stock.",
+    "Volatility makes it a gamble.",
+    "Investors must cap concentration risk.",
+    "Diversify beyond any single founder."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Trillionaire Status Arrives\n\nElon Musk’s net worth just crossed a trillion dollars, but almost none of it is liquid.",
+        "2. One Stock Binds It\n\nThe wealth is concentrated in a single volatile asset—Tesla shares.",
+        "3. Risk Limits Questioned\n\nFor investors, this concentration forces a rethink of portfolio exposure caps.",
+        "4. Founder Dependency Exposed\n\nTying net worth to one founder’s decisions is a structural vulnerability.",
+        "5. Diversify This Week\n\nCheck your portfolio: what percentage is in Musk-linked stocks? Rebalance if above 5%."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Musk is the first trillionaire.",
+        "Nearly all tied to Tesla stock.",
+        "Volatility makes it a gamble.",
+        "Investors must cap concentration risk.",
+        "Diversify beyond any single founder."
+      ]
+    },
+    "instagram": {
+      "caption": "Elon Musk’s net worth just hit $1 trillion—but almost all of it is sitting in one stock.\n\nThat stock is Tesla. If it drops 20%, a quarter of his wealth disappears.\n\nFor investors, this blows up the old rule that no single asset should be more than 5% of your portfolio. Your exposure to one founder’s decisions is a risk you’re probably not measuring.\n\nCheck your holdings today. What percentage of your net worth is tied directly to Musk’s companies? Would you still hold it if a single tweet shook the price? ⚖️📉"
+    }
+  },
+  "instagram_caption": "Elon Musk’s net worth just hit $1 trillion—but almost all of it is sitting in one stock.\n\nThat stock is Tesla. If it drops 20%, a quarter of his wealth disappears.\n\nFor investors, this blows up the old rule that no single asset should be more than 5% of your portfolio. Your exposure to one founder’s decisions is a risk you’re probably not measuring.\n\nCheck your holdings today. What percentage of your net worth is tied directly to Musk’s companies? Would you still hold it if a single tweet shook the price? ⚖️📉",
+  "carousel_slides": [
+    {
+      "hook": "Your portfolio riskier than Musk’s?",
+      "description": "Musk’s $1 trillion net worth is almost entirely illiquid Tesla stock, revealing hidden fragility.",
+      "visual_hint": "Stock chart with red alert",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "One stock binds his fortune.",
+      "description": "Nearly all $1 trillion is tied to Tesla shares, a single volatile asset.",
+      "visual_hint": "Tesla car with price ticker",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Tesla car",
+      "image": "https://images.pexels.com/photos/24589301/pexels-photo-24589301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is 5% exposure too high?",
+      "description": "This concentration forces investors to rethink portfolio caps and founder dependency risks.",
+      "visual_hint": "Magnifying glass on portfolio",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Founder dependency is a trap.",
+      "description": "Tying wealth to one person’s decisions creates a structural vulnerability in your portfolio.",
+      "visual_hint": "Hand holding balancing scale",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "balancing scale",
+      "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your Musk exposure now.",
+      "description": "Rebalance any single stock above 5% of your portfolio this week.",
+      "visual_hint": "Phone with portfolio app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone portfolio",
+      "image": "https://images.pexels.com/photos/7989073/pexels-photo-7989073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-13T02:36:16.184Z",
+  "sourceId": "ae65ff682b916609ea20f792fbd52c79"
+}
