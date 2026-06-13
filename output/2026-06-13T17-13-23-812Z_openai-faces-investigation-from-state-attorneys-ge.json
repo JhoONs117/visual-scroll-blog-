@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-faces-investigation-from-state-attorneys-ge",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI faces investigation from state attorneys general",
+  "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+  "pubDate": "Sat, 13 Jun 2026 16:47:18 +0000",
+  "slides": [
+    "Will state investigations reshape OpenAI's future?",
+    "Multiple attorneys general have launched a probe.",
+    "The inquiry targets consumer protection, not just AI safety.",
+    "Your compliance costs may rise if you integrate their models.",
+    "Review your AI vendor contracts for liability clauses now."
+  ],
+  "thread_text": [
+    "State probes could reshape AI.\n\nAttorneys general from multiple states have launched a coordinated investigation into OpenAI, targeting consumer protection laws.",
+    "Not just safety — consumer harm.\n\nThe inquiry focuses on deceptive practices and data misuse, not just AI risk. That broadens legal exposure for model providers.",
+    "Your costs may climb.\n\nIf you integrate OpenAI models, compliance audits and legal reviews could become mandatory, raising operational expenses.",
+    "Contract liability gaps.\n\nStandard AI vendor contracts often lack clear liability clauses for regulatory actions. That could leave you holding the bag.",
+    "Review your contracts today.\n\nDo your vendor agreements indemnify you against state-level consumer protection claims? If not, ask your legal team to amend them now."
+  ],
+  "video_script": [
+    "State investigations target OpenAI now.",
+    "Focus is consumer protection, not just safety.",
+    "Your compliance costs could increase.",
+    "Check your AI vendor contracts.",
+    "Verify liability clauses before it's too late."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "State probes could reshape AI.\n\nAttorneys general from multiple states have launched a coordinated investigation into OpenAI, targeting consumer protection laws.",
+        "Not just safety — consumer harm.\n\nThe inquiry focuses on deceptive practices and data misuse, not just AI risk. That broadens legal exposure for model providers.",
+        "Your costs may climb.\n\nIf you integrate OpenAI models, compliance audits and legal reviews could become mandatory, raising operational expenses.",
+        "Contract liability gaps.\n\nStandard AI vendor contracts often lack clear liability clauses for regulatory actions. That could leave you holding the bag.",
+        "Review your contracts today.\n\nDo your vendor agreements indemnify you against state-level consumer protection claims? If not, ask your legal team to amend them now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "State investigations target OpenAI now.",
+        "Focus is consumer protection, not just safety.",
+        "Your compliance costs could increase.",
+        "Check your AI vendor contracts.",
+        "Verify liability clauses before it's too late."
+      ]
+    },
+    "instagram": {
+      "caption": "State attorneys general have launched a coordinated investigation into OpenAI, targeting consumer protection laws—not just AI safety. 🕵️\n\nThe probe focuses on deceptive practices and data misuse, broadening legal exposure for AI model providers. Your compliance costs may rise if you integrate their models. 😰\n\nStandard AI vendor contracts often lack clear liability clauses for state-level actions, leaving you potentially on the hook.\n\nDoes your contract indemnify you against consumer protection claims? Ask your legal team to review it now."
+    }
+  },
+  "instagram_caption": "State attorneys general have launched a coordinated investigation into OpenAI, targeting consumer protection laws—not just AI safety. 🕵️\n\nThe probe focuses on deceptive practices and data misuse, broadening legal exposure for AI model providers. Your compliance costs may rise if you integrate their models. 😰\n\nStandard AI vendor contracts often lack clear liability clauses for state-level actions, leaving you potentially on the hook.\n\nDoes your contract indemnify you against consumer protection claims? Ask your legal team to review it now.",
+  "carousel_slides": [
+    {
+      "hook": "Will your costs skyrocket next?",
+      "description": "State probes target consumer protection, raising compliance costs for firms using OpenAI models.",
+      "visual_hint": "Rising chart with coins",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Safety isn't the only risk",
+      "description": "Attorneys general focus on deceptive practices and data misuse, broadening legal exposure for AI providers.",
+      "visual_hint": "Gavel and documents",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "judge gavel",
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Compliance audits may become law",
+      "description": "Integrating OpenAI models could force mandatory audits, raising operational expenses significantly.",
+      "visual_hint": "Magnifying glass on contract",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass documents",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your contracts lack liability teeth",
+      "description": "Standard AI vendor contracts rarely cover state consumer claims, leaving your firm exposed.",
+      "visual_hint": "Broken chain link",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "broken chain link",
+      "image": "https://images.pexels.com/photos/35740122/pexels-photo-35740122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to review contracts now",
+      "description": "Ask your legal team to amend vendor agreements for indemnification against state consumer protection claims.",
+      "visual_hint": "Checklist and pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "contract checklist pen",
+      "image": "https://images.pexels.com/photos/8470801/pexels-photo-8470801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-13T17:13:36.435Z",
+  "sourceId": "748265de56e10a9f7fbc5dc812f0083d"
+}

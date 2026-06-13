@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-future-of-hollywood-isn-t-feeding-prompts-into",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models ",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+    "pubDate": "2026-06-13T11:00:00.000Z",
+    "slides": [
+      "What if Hollywood's next blockbuster starts without human writers?",
+      "Vanilla AI tools still struggle with narrative coherence and character arcs.",
+      "A startup is silently training models on director-approved story structures.",
+      "Soon, you'll tweak plots instead of writing them from scratch.",
+      "Watch which studio hires AI story editors first."
+    ],
+    "thread_text": [
+      "Who needs human writers?\n\nA startup is already training AI on story structures approved by Hollywood directors.",
+      "Vanilla AI can't keep a plot straight.\n\nCharacter arcs still fall apart after three scenes.",
+      "Secret models, director-approved.\n\nThe startup isn't naming which studios are feeding it scripts.",
+      "Your job shifts from writing to tweaking.\n\nYou'll adjust a beat, not generate a scene from scratch.",
+      "Which studio hires first?\n\nCheck job boards for \"AI story editor\" — if you see one, watch what happens to writers."
+    ],
+    "video_script": [
+      "Hollywood's next hit starts without writers.",
+      "Vanilla AI fails at plot coherence.",
+      "A startup trains on director-approved structures.",
+      "You'll tweak plots, not write them.",
+      "Watch which studio hires AI editors first."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Who needs human writers?\n\nA startup is already training AI on story structures approved by Hollywood directors.",
+          "Vanilla AI can't keep a plot straight.\n\nCharacter arcs still fall apart after three scenes.",
+          "Secret models, director-approved.\n\nThe startup isn't naming which studios are feeding it scripts.",
+          "Your job shifts from writing to tweaking.\n\nYou'll adjust a beat, not generate a scene from scratch.",
+          "Which studio hires first?\n\nCheck job boards for \"AI story editor\" — if you see one, watch what happens to writers."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hollywood's next hit starts without writers.",
+          "Vanilla AI fails at plot coherence.",
+          "A startup trains on director-approved structures.",
+          "You'll tweak plots, not write them.",
+          "Watch which studio hires AI editors first."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next script might come from a machine that studied director-approved story structures. 🎬\n\nA secret startup is training AI on narrative blueprints Hollywood insiders actually respect. Vanilla AI still can't keep a plot straight—character arcs fall apart after three scenes.\n\nThis changes your job from writing entire scenes to tweaking beats. No more blank pages, but less control over the core story.\n\nWhich studio posts an \"AI story editor\" job first—and would you apply? 🤔"
+      }
+    },
+    "instagram_caption": "Your next script might come from a machine that studied director-approved story structures. 🎬\n\nA secret startup is training AI on narrative blueprints Hollywood insiders actually respect. Vanilla AI still can't keep a plot straight—character arcs fall apart after three scenes.\n\nThis changes your job from writing entire scenes to tweaking beats. No more blank pages, but less control over the core story.\n\nWhich studio posts an \"AI story editor\" job first—and would you apply? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "What if directors train AI?",
+        "description": "A startup trains AI on director-approved story structures, secretly using studio scripts.",
+        "visual_hint": "Director's chair and AI",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "director chair cinema"
+      },
+      {
+        "hook": "Vanilla AI can't hold a plot.",
+        "description": "Character arcs still collapse after three scenes; vanilla models lack narrative coherence.",
+        "visual_hint": "Broken film strip",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "broken film strip",
+        "image": "https://images.pexels.com/photos/7014266/pexels-photo-7014266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Secret models, director-approved.",
+        "description": "The startup won't name which studios feed it scripts—silent deals reshape Hollywood.",
+        "visual_hint": "Studio logo with lock",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "film studio logo",
+        "image": "https://images.pexels.com/photos/17112938/pexels-photo-17112938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You'll tweak, not write from scratch.",
+        "description": "Your job shifts from writing scenes to adjusting beats; AI handles the heavy lifting.",
+        "visual_hint": "Hand editing script",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand editing script",
+        "image": "https://images.pexels.com/photos/8085936/pexels-photo-8085936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this — spot the first AI editor.",
+        "description": "Check job boards for 'AI story editor' hires; watch what happens to writers next.",
+        "visual_hint": "Job board with magnifier",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "job board screen",
+        "image": "https://images.pexels.com/photos/7988756/pexels-photo-7988756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figure05_700_6_1080p.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-06-13T17:13:53.932Z",
+    "sourceId": "770ccfe0beda25c1aa5569a9be80d7ea"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-faces-investigation-from-state-attorneys-ge",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI faces investigation from state attorneys general",
+    "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "pubDate": "Sat, 13 Jun 2026 16:47:18 +0000",
+    "slides": [
+      "Will state investigations reshape OpenAI's future?",
+      "Multiple attorneys general have launched a probe.",
+      "The inquiry targets consumer protection, not just AI safety.",
+      "Your compliance costs may rise if you integrate their models.",
+      "Review your AI vendor contracts for liability clauses now."
+    ],
+    "thread_text": [
+      "State probes could reshape AI.\n\nAttorneys general from multiple states have launched a coordinated investigation into OpenAI, targeting consumer protection laws.",
+      "Not just safety — consumer harm.\n\nThe inquiry focuses on deceptive practices and data misuse, not just AI risk. That broadens legal exposure for model providers.",
+      "Your costs may climb.\n\nIf you integrate OpenAI models, compliance audits and legal reviews could become mandatory, raising operational expenses.",
+      "Contract liability gaps.\n\nStandard AI vendor contracts often lack clear liability clauses for regulatory actions. That could leave you holding the bag.",
+      "Review your contracts today.\n\nDo your vendor agreements indemnify you against state-level consumer protection claims? If not, ask your legal team to amend them now."
+    ],
+    "video_script": [
+      "State investigations target OpenAI now.",
+      "Focus is consumer protection, not just safety.",
+      "Your compliance costs could increase.",
+      "Check your AI vendor contracts.",
+      "Verify liability clauses before it's too late."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "State probes could reshape AI.\n\nAttorneys general from multiple states have launched a coordinated investigation into OpenAI, targeting consumer protection laws.",
+          "Not just safety — consumer harm.\n\nThe inquiry focuses on deceptive practices and data misuse, not just AI risk. That broadens legal exposure for model providers.",
+          "Your costs may climb.\n\nIf you integrate OpenAI models, compliance audits and legal reviews could become mandatory, raising operational expenses.",
+          "Contract liability gaps.\n\nStandard AI vendor contracts often lack clear liability clauses for regulatory actions. That could leave you holding the bag.",
+          "Review your contracts today.\n\nDo your vendor agreements indemnify you against state-level consumer protection claims? If not, ask your legal team to amend them now."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "State investigations target OpenAI now.",
+          "Focus is consumer protection, not just safety.",
+          "Your compliance costs could increase.",
+          "Check your AI vendor contracts.",
+          "Verify liability clauses before it's too late."
+        ]
+      },
+      "instagram": {
+        "caption": "State attorneys general have launched a coordinated investigation into OpenAI, targeting consumer protection laws—not just AI safety. 🕵️\n\nThe probe focuses on deceptive practices and data misuse, broadening legal exposure for AI model providers. Your compliance costs may rise if you integrate their models. 😰\n\nStandard AI vendor contracts often lack clear liability clauses for state-level actions, leaving you potentially on the hook.\n\nDoes your contract indemnify you against consumer protection claims? Ask your legal team to review it now."
+      }
+    },
+    "instagram_caption": "State attorneys general have launched a coordinated investigation into OpenAI, targeting consumer protection laws—not just AI safety. 🕵️\n\nThe probe focuses on deceptive practices and data misuse, broadening legal exposure for AI model providers. Your compliance costs may rise if you integrate their models. 😰\n\nStandard AI vendor contracts often lack clear liability clauses for state-level actions, leaving you potentially on the hook.\n\nDoes your contract indemnify you against consumer protection claims? Ask your legal team to review it now.",
+    "carousel_slides": [
+      {
+        "hook": "Will your costs skyrocket next?",
+        "description": "State probes target consumer protection, raising compliance costs for firms using OpenAI models.",
+        "visual_hint": "Rising chart with coins",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Safety isn't the only risk",
+        "description": "Attorneys general focus on deceptive practices and data misuse, broadening legal exposure for AI providers.",
+        "visual_hint": "Gavel and documents",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "judge gavel",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Compliance audits may become law",
+        "description": "Integrating OpenAI models could force mandatory audits, raising operational expenses significantly.",
+        "visual_hint": "Magnifying glass on contract",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass documents",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your contracts lack liability teeth",
+        "description": "Standard AI vendor contracts rarely cover state consumer claims, leaving your firm exposed.",
+        "visual_hint": "Broken chain link",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "broken chain link",
+        "image": "https://images.pexels.com/photos/35740122/pexels-photo-35740122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to review contracts now",
+        "description": "Ask your legal team to amend vendor agreements for indemnification against state consumer protection claims.",
+        "visual_hint": "Checklist and pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "contract checklist pen",
+        "image": "https://images.pexels.com/photos/8470801/pexels-photo-8470801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-13T17:13:36.435Z",
+    "sourceId": "748265de56e10a9f7fbc5dc812f0083d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "apple-s-new-ai-photo-editing-tools-mostly-work-for",
     "prompt_version": "1.0.0",
     "status": "published",
