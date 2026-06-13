@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "apple-s-new-ai-photo-editing-tools-mostly-work-for",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "pubDate": "2026-06-13T12:00:00.000Z",
+      "slides": [
+        "Can Apple's AI photo editor be trusted with your memories?",
+        "It removes unwanted objects and even people from photos.",
+        "But results range from flawless to subtly distorted images.",
+        "You must verify every edit before sharing or saving.",
+        "Test one edit now before trusting it fully."
+      ],
+      "thread_text": [
+        "1. Can you trust the edit?\n\nApple's new AI photo editor removes people from your images with a single tap. One test showed a missing hand in the final shot.",
+        "2. Flawless or flawed?\n\nSome edits are invisible. Others distort faces or leave ghost artifacts you won't notice until after saving.",
+        "3. Your memory, not theirs.\n\nThe AI doesn't know which person or object matters to you. It treats all visual data as noise to erase.",
+        "4. The verification trap.\n\nApple suggests you check every edit before sharing. That means you must zoom and compare pixel by pixel.",
+        "5. Test one edit now.\n\nOpen a photo with a stranger in the background. Remove them. Then zoom into the edges. Is the output acceptable to you?"
+      ],
+      "video_script": [
+        "Tap to remove a person from your photo.",
+        "But check the edges carefully.",
+        "AI can create ghost artifacts.",
+        "You must verify every single edit.",
+        "Test one edit before you trust it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can you trust the edit?\n\nApple's new AI photo editor removes people from your images with a single tap. One test showed a missing hand in the final shot.",
+            "2. Flawless or flawed?\n\nSome edits are invisible. Others distort faces or leave ghost artifacts you won't notice until after saving.",
+            "3. Your memory, not theirs.\n\nThe AI doesn't know which person or object matters to you. It treats all visual data as noise to erase.",
+            "4. The verification trap.\n\nApple suggests you check every edit before sharing. That means you must zoom and compare pixel by pixel.",
+            "5. Test one edit now.\n\nOpen a photo with a stranger in the background. Remove them. Then zoom into the edges. Is the output acceptable to you?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Tap to remove a person from your photo.",
+            "But check the edges carefully.",
+            "AI can create ghost artifacts.",
+            "You must verify every single edit.",
+            "Test one edit before you trust it."
+          ]
+        },
+        "instagram": {
+          "caption": "Apple’s new photo editor can remove a person from your shot with one tap—and then leave a missing hand you won’t catch until after saving. 🟰  \n\nSome edits are invisible; others distort faces or leave ghost artifacts that slip by. The AI doesn’t know what you care about—it treats all people and objects as noise to erase.  \n\nApple says you must zoom and compare pixel by pixel before sharing. That means your workflow now includes a manual verification step on every edit.  \n\nOpen a photo with a stranger in the background. Remove them, then zoom into the edge of the area. Is the result acceptable to you? 🔍"
+        }
+      },
+      "instagram_caption": "Apple’s new photo editor can remove a person from your shot with one tap—and then leave a missing hand you won’t catch until after saving. 🟰  \n\nSome edits are invisible; others distort faces or leave ghost artifacts that slip by. The AI doesn’t know what you care about—it treats all people and objects as noise to erase.  \n\nApple says you must zoom and compare pixel by pixel before sharing. That means your workflow now includes a manual verification step on every edit.  \n\nOpen a photo with a stranger in the background. Remove them, then zoom into the edge of the area. Is the result acceptable to you? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Will AI distort your memories?",
+          "description": "Apple's editor removes objects instantly, but one test left a person with a missing hand after editing.",
+          "visual_hint": "Missing hand in photo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone photo editing"
+        },
+        {
+          "hook": "Flawless or subtly broken?",
+          "description": "Some edits are invisible, while others distort faces or leave ghost artifacts unnoticed until saved.",
+          "visual_hint": "Ghost artifacts on face",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "distorted face photo",
+          "image": "https://images.pexels.com/photos/16241289/pexels-photo-16241289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your memories are just data.",
+          "description": "The AI treats all visual content as noise to erase, not knowing what matters to you personally.",
+          "visual_hint": "AI erasing people",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "neural network circuit",
+          "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The verification trap awaits.",
+          "description": "Apple says check every edit by zooming and comparing pixel by pixel before sharing or saving.",
+          "visual_hint": "Pixel by pixel zoom",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass screen",
+          "image": "https://images.pexels.com/photos/5562089/pexels-photo-5562089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this guide before editing.",
+          "description": "Open a photo with a stranger, remove them, then zoom into edges to see if it's acceptable.",
+          "visual_hint": "Zoom into photo edges",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "photo edges cropped",
+          "image": "https://images.pexels.com/photos/7014429/pexels-photo-7014429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03778_processed.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+      "savedAt": "2026-06-13T13:28:55.107Z",
+      "sourceId": "d2ba0669e3fed17c220adf7b867ce6fa"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "anthropic-s-safety-warnings-may-have-just-backfire",
       "prompt_version": "1.0.0",
       "status": "published",
