@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "kpmg-pulls-report-on-ai-usage-due-to-apparent-hall",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "pubDate": "Sat, 13 Jun 2026 20:42:31 +0000",
+      "slides": [
+        "KPMG withdrew a report — what did it get wrong?",
+        "The document cited AI-generated data without verification.",
+        "Human editors missed the errors before publication.",
+        "Your next audit report could contain similar phantom facts.",
+        "Always cross-check AI outputs before you sign off."
+      ],
+      "thread_text": [
+        "1. They signed off on a ghost.\n\nKPMG published a report full of AI-generated data no one checked. The firm had to withdraw it.",
+        "2. No one flagged the source.\n\nThe document cited outputs from an AI tool. Human editors reviewed it and still missed the errors before publication.",
+        "3. This is not a one-off.\n\nYour next audit report could contain similar phantom facts. The same pipeline is used everywhere now.",
+        "4. The real failure was trust.\n\nThe system didn't fail — the editors did. They assumed the AI was right and skipped verification.",
+        "5. Can you spot the error today?\n\nTake your last report and trace every number to its source. If you can't, you're exposed."
+      ],
+      "video_script": [
+        "KPMG withdrew a report filled with fake data.",
+        "AI generated the facts; no one checked them.",
+        "Human editors missed the errors completely.",
+        "Your next report could have the same flaw.",
+        "Cross-check AI outputs before you sign off."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. They signed off on a ghost.\n\nKPMG published a report full of AI-generated data no one checked. The firm had to withdraw it.",
+            "2. No one flagged the source.\n\nThe document cited outputs from an AI tool. Human editors reviewed it and still missed the errors before publication.",
+            "3. This is not a one-off.\n\nYour next audit report could contain similar phantom facts. The same pipeline is used everywhere now.",
+            "4. The real failure was trust.\n\nThe system didn't fail — the editors did. They assumed the AI was right and skipped verification.",
+            "5. Can you spot the error today?\n\nTake your last report and trace every number to its source. If you can't, you're exposed."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "KPMG withdrew a report filled with fake data.",
+            "AI generated the facts; no one checked them.",
+            "Human editors missed the errors completely.",
+            "Your next report could have the same flaw.",
+            "Cross-check AI outputs before you sign off."
+          ]
+        },
+        "instagram": {
+          "caption": "KPMG pulled a report because it was full of AI-generated facts that were never verified.  \n\nHuman editors reviewed the document and still missed the errors before publication. 📑  \nYour next audit or content report could contain the same phantom data — the same unchecked pipeline is used everywhere.  \n\nBefore you sign off, trace every number back to its source. 🕵️‍♂️  \n\nWhen did you last verify an AI output in your own work — or just assume it was right?"
+        }
+      },
+      "instagram_caption": "KPMG pulled a report because it was full of AI-generated facts that were never verified.  \n\nHuman editors reviewed the document and still missed the errors before publication. 📑  \nYour next audit or content report could contain the same phantom data — the same unchecked pipeline is used everywhere.  \n\nBefore you sign off, trace every number back to its source. 🕵️‍♂️  \n\nWhen did you last verify an AI output in your own work — or just assume it was right?",
+      "carousel_slides": [
+        {
+          "hook": "They signed off on a ghost.",
+          "description": "KPMG published a report full of AI-generated data no one checked. The firm had to withdraw it.",
+          "visual_hint": "ghostly document glow",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty office desk"
+        },
+        {
+          "hook": "No one flagged the source.",
+          "description": "Editors reviewed the AI outputs but missed the errors before publication. Trust was the real failure.",
+          "visual_hint": "magnifying glass over text",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your report could be next.",
+          "description": "The same unchecked AI pipeline is now used everywhere. Your next audit could contain phantom facts.",
+          "visual_hint": "factory assembly line",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trust broke, not the system.",
+          "description": "Editors assumed the AI was right and skipped verification. That mistake can happen to anyone.",
+          "visual_hint": "hand clicking mouse",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to audit your work.",
+          "description": "Take your last report and trace every number to its source. If you can't, you're exposed.",
+          "visual_hint": "pen crossing out data",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2276519058.jpg?w=1024",
+      "savedAt": "2026-06-13T21:04:14.231Z",
+      "sourceId": "2149290c64f5550b3e223a6ef57e986f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "the-future-of-hollywood-isn-t-feeding-prompts-into",
       "prompt_version": "1.0.0",
       "status": "published",
