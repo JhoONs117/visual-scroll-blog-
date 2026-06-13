@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "amazon-ceo-reportedly-raised-anthropic-model-conce",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "pubDate": "Sat, 13 Jun 2026 19:11:41 +0000",
+    "slides": [
+      "Did Amazon's CEO tip off regulators about Anthropic?",
+      "He reportedly voiced AI safety worries internally first.",
+      "The same models now face a sudden government crackdown.",
+      "Your compliance team must audit any Anthropic integration now.",
+      "One question: are your vendors safer than your competitors'?"
+    ],
+    "thread_text": [
+      "1. Did Bezos tip off regulators?\n\nHe flagged Anthropic's safety issues to his own team months before the crackdown began.",
+      "2. Internal alarms went dark.\n\nThe same AI models he worried about are now under government investigation.",
+      "3. Your compliance team is exposed.\n\nEvery integration with Anthropic must be audited. Most firms haven't started.",
+      "4. Competitors already moved.\n\nThey've cut ties or built buffers. Your risk is now a legal liability.",
+      "5. Audit your vendor list today.\n\nAre you safer than your competitors? Run a spot check on Anthropic integrations this week."
+    ],
+    "video_script": [
+      "Amazon's CEO flagged AI safety risks internally.",
+      "The same models now face a government crackdown.",
+      "Your compliance must audit every Anthropic integration.",
+      "Competitors have already cut ties with Anthropic.",
+      "Are your vendors safer than your competitors' vendors?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Did Bezos tip off regulators?\n\nHe flagged Anthropic's safety issues to his own team months before the crackdown began.",
+          "2. Internal alarms went dark.\n\nThe same AI models he worried about are now under government investigation.",
+          "3. Your compliance team is exposed.\n\nEvery integration with Anthropic must be audited. Most firms haven't started.",
+          "4. Competitors already moved.\n\nThey've cut ties or built buffers. Your risk is now a legal liability.",
+          "5. Audit your vendor list today.\n\nAre you safer than your competitors? Run a spot check on Anthropic integrations this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Amazon's CEO flagged AI safety risks internally.",
+          "The same models now face a government crackdown.",
+          "Your compliance must audit every Anthropic integration.",
+          "Competitors have already cut ties with Anthropic.",
+          "Are your vendors safer than your competitors' vendors?"
+        ]
+      },
+      "instagram": {
+        "caption": "Amazon’s CEO flagged Anthropic’s safety risks internally months ago. Now the same models are under a sudden government crackdown. 🚨\n\nYour compliance team is exposed. Any Anthropic integration in your workflow needs an audit before regulators come knocking—most firms haven’t started. Competitors have already cut ties or built buffers. ⏳\n\nThat integration you trusted yesterday is a legal liability today. Are your vendors safer than your competitors', or is your risk now public? 📋"
+      }
+    },
+    "instagram_caption": "Amazon’s CEO flagged Anthropic’s safety risks internally months ago. Now the same models are under a sudden government crackdown. 🚨\n\nYour compliance team is exposed. Any Anthropic integration in your workflow needs an audit before regulators come knocking—most firms haven’t started. Competitors have already cut ties or built buffers. ⏳\n\nThat integration you trusted yesterday is a legal liability today. Are your vendors safer than your competitors', or is your risk now public? 📋",
+    "carousel_slides": [
+      {
+        "hook": "Did Bezos tip off regulators?",
+        "description": "Amazon's CEO flagged Anthropic safety issues internally months before the government crackdown began.",
+        "visual_hint": "Amazon building exterior",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Amazon headquarters"
+      },
+      {
+        "hook": "Internal alarms went dark.",
+        "description": "The same AI models he worried about are now under government investigation, exposing firms that integrated them.",
+        "visual_hint": "computer server blinking lights",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your compliance team is exposed.",
+        "description": "Every integration with Anthropic must be audited immediately — most companies haven't started this process.",
+        "visual_hint": "magnifying glass over documents",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass documents",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Competitors already moved.",
+        "description": "They cut ties or built buffers. Your delayed audit turns risk into legal liability.",
+        "visual_hint": "chess pieces on board",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "chess board",
+        "image": "https://images.pexels.com/photos/6114955/pexels-photo-6114955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your vendor list today.",
+        "description": "Run a spot check on all Anthropic integrations this week. Comment 'CHECK' to get the checklist.",
+        "visual_hint": "clipboard with checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "clipboard checklist",
+        "image": "https://images.pexels.com/photos/8978610/pexels-photo-8978610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1348139958.jpg?resize=1200,767",
+    "savedAt": "2026-06-13T22:55:50.952Z",
+    "sourceId": "0308281aa0fca48522ed64aae729d11b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "kpmg-pulls-report-on-ai-usage-due-to-apparent-hall",
     "prompt_version": "1.0.0",
     "status": "published",
