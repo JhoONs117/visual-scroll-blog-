@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "as-anthropic-suspends-access-to-new-models-india-d",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "As Anthropic suspends access to new models, India debates its AI future",
+  "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+  "pubDate": "Sun, 14 Jun 2026 03:00:00 +0000",
+  "slides": [
+    "Who controls India's AI when Anthropic withdraws?",
+    "Anthropic suspends new model access in India.",
+    "Local startups now face sudden supply chain gaps.",
+    "Your AI vendor may vanish without notice tomorrow.",
+    "Build redundancy or risk your next product launch."
+  ],
+  "thread_text": [
+    "Who owns your AI?\n\nAnthropic just cut off new model access in India. Local startups are now scrambling for alternatives.",
+    "The supply chain broke.\n\nStartups that built their product on Claude's API now face sudden gaps. No migration plan existed.",
+    "Your vendor is fragile.\n\nAny AI provider can vanish tomorrow. Contracts don't guarantee access when the decision is political or strategic.",
+    "Dependence is a bet.\n\nIf you only integrate one model, your next launch depends on someone else's boardroom. That's not infrastructure — it's debt.",
+    "Build redundancy today.\n\nTake your core prompt and test it on a second model this week. If it fails, you have weeks, not months, to fix."
+  ],
+  "video_script": [
+    "Anthropic blocked India. Startups lost access.",
+    "No vendor is safe from sudden withdrawal.",
+    "Your product relies on a fragile pipe.",
+    "One model means one point of failure.",
+    "Test a backup model before next launch."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Who owns your AI?\n\nAnthropic just cut off new model access in India. Local startups are now scrambling for alternatives.",
+        "The supply chain broke.\n\nStartups that built their product on Claude's API now face sudden gaps. No migration plan existed.",
+        "Your vendor is fragile.\n\nAny AI provider can vanish tomorrow. Contracts don't guarantee access when the decision is political or strategic.",
+        "Dependence is a bet.\n\nIf you only integrate one model, your next launch depends on someone else's boardroom. That's not infrastructure — it's debt.",
+        "Build redundancy today.\n\nTake your core prompt and test it on a second model this week. If it fails, you have weeks, not months, to fix."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic blocked India. Startups lost access.",
+        "No vendor is safe from sudden withdrawal.",
+        "Your product relies on a fragile pipe.",
+        "One model means one point of failure.",
+        "Test a backup model before next launch."
+      ]
+    },
+    "instagram": {
+      "caption": "Anthropic just cut off Indian startups' access to its newest models, leaving companies that built products on Claude's API without a backup plan.\n\nLocal founders now face a sudden supply chain gap with no migration ready. One boardroom decision erased months of integration work.\n\nIf your content pipeline relies on a single AI provider, your next launch depends on their strategy, not yours.\n\nWhich model will you test as a fallback this week? 🔌🔄"
+    }
+  },
+  "instagram_caption": "Anthropic just cut off Indian startups' access to its newest models, leaving companies that built products on Claude's API without a backup plan.\n\nLocal founders now face a sudden supply chain gap with no migration ready. One boardroom decision erased months of integration work.\n\nIf your content pipeline relies on a single AI provider, your next launch depends on their strategy, not yours.\n\nWhich model will you test as a fallback this week? 🔌🔄",
+  "carousel_slides": [
+    {
+      "hook": "Who controls your AI?",
+      "description": "Anthropic cut off new model access in India. Startups built on Claude now face sudden supply gaps.",
+      "visual_hint": "India map with padlock",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "india map server"
+    },
+    {
+      "hook": "Your AI vendor can vanish.",
+      "description": "No contract guarantees access when decisions are political. Dependence on one model is fragile debt.",
+      "visual_hint": "Broken supply chain",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "broken chain link",
+      "image": "https://images.pexels.com/photos/35740122/pexels-photo-35740122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Startups scramble for alternatives.",
+      "description": "Local startups built products on Claude's API. With no migration plan, product launches are at risk.",
+      "visual_hint": "Frustrated startup team",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "startup team worried",
+      "image": "https://images.pexels.com/photos/7652041/pexels-photo-7652041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Dependence is a dangerous bet.",
+      "description": "If only one model powers your product, your next launch depends on someone else's boardroom.",
+      "visual_hint": "Gears and question marks",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "gears machinery",
+      "image": "https://images.pexels.com/photos/7568421/pexels-photo-7568421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Build redundancy before it's too late.",
+      "description": "Test your core prompt on a second model this week. You have weeks, not months, to fix a break.",
+      "visual_hint": "Hand pressing test button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "test button circuit",
+      "image": "https://images.pexels.com/photos/11679114/pexels-photo-11679114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+  "savedAt": "2026-06-14T08:09:45.985Z",
+  "sourceId": "fc12c862cec55a4d905c773de7d1b965"
+}
