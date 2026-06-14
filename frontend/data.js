@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "as-ai-companies-race-to-go-public-who-else-is-alon",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "As AI companies race to go public, who else is along for the ride?",
+    "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "pubDate": "Sun, 14 Jun 2026 16:38:09 +0000",
+    "slides": [
+      "Who profits most when your AI startup IPOs?",
+      "Venture firms and early employees cash out first.",
+      "But retail investors are locked out of pre-IPO.",
+      "Now platforms offer tokenized shares to anyone.",
+      "Check if your broker offers private AI stakes."
+    ],
+    "thread_text": [
+      "Who gets the real jackpot?\n\nWhen your favorite AI startup IPOs, venture firms walk away with 80% of the value — before you ever get a chance to buy in.",
+      "The insiders cash out first.\n\nEmployees with early options sell within weeks. Retail investors are legally blocked from pre-IPO deals.",
+      "A new loophole just opened.\n\nPlatforms now sell tokenized shares — fractional ownership in private AI firms — to anyone with a wallet.",
+      "But tokenized shares have no voting rights.\n\nIf the board sells the company, you get cash — no say. The insiders still control every decision.",
+      "Check your broker's private offering list today.\n\nRobinhood, Fidelity, and SoFi now let you buy pre-IPO AI stakes. Is your money already locked out?"
+    ],
+    "video_script": [
+      "VCs take most of the AI IPO profits.",
+      "Retail investors are blocked before the IPO.",
+      "Tokenized shares now let anyone invest.",
+      "But you get no voting rights with them.",
+      "Check your broker for AI pre-IPO access."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Who gets the real jackpot?\n\nWhen your favorite AI startup IPOs, venture firms walk away with 80% of the value — before you ever get a chance to buy in.",
+          "The insiders cash out first.\n\nEmployees with early options sell within weeks. Retail investors are legally blocked from pre-IPO deals.",
+          "A new loophole just opened.\n\nPlatforms now sell tokenized shares — fractional ownership in private AI firms — to anyone with a wallet.",
+          "But tokenized shares have no voting rights.\n\nIf the board sells the company, you get cash — no say. The insiders still control every decision.",
+          "Check your broker's private offering list today.\n\nRobinhood, Fidelity, and SoFi now let you buy pre-IPO AI stakes. Is your money already locked out?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "VCs take most of the AI IPO profits.",
+          "Retail investors are blocked before the IPO.",
+          "Tokenized shares now let anyone invest.",
+          "But you get no voting rights with them.",
+          "Check your broker for AI pre-IPO access."
+        ]
+      },
+      "instagram": {
+        "caption": "Venture firms walk away with 80% of the value when your favorite AI startup goes public — you are legally blocked from buying in before that. 🔒\n\nBut now platforms sell tokenized shares in private AI firms to anyone with a wallet. 🎟️ The catch: those shares have zero voting rights — insiders still control every decision, you just get cash.\n\nIf you publish or create, this means your tools’ future ownership is decided before you ever get a seat at the table.\n\nCheck your broker’s private offering list today — Robinhood, Fidelity, or SoFi might already let you in. Is your money locked out, or are you ready to buy? 🧾"
+      }
+    },
+    "instagram_caption": "Venture firms walk away with 80% of the value when your favorite AI startup goes public — you are legally blocked from buying in before that. 🔒\n\nBut now platforms sell tokenized shares in private AI firms to anyone with a wallet. 🎟️ The catch: those shares have zero voting rights — insiders still control every decision, you just get cash.\n\nIf you publish or create, this means your tools’ future ownership is decided before you ever get a seat at the table.\n\nCheck your broker’s private offering list today — Robinhood, Fidelity, or SoFi might already let you in. Is your money locked out, or are you ready to buy? 🧾",
+    "carousel_slides": [
+      {
+        "hook": "Who gets the real jackpot?",
+        "description": "Venture firms grab 80% of AI IPO value before you can buy in.",
+        "visual_hint": "Vault door opening",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "bank vault door"
+      },
+      {
+        "hook": "Insiders cash out first.",
+        "description": "Early employees sell within weeks; retail investors are legally barred from pre-IPO deals.",
+        "visual_hint": "People exiting building",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office workers leaving",
+        "image": "https://images.pexels.com/photos/11665322/pexels-photo-11665322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "A new loophole opened.",
+        "description": "Platforms sell tokenized shares in private AI firms to anyone with a digital wallet.",
+        "visual_hint": "Digital wallet on phone",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone wallet app",
+        "image": "https://images.pexels.com/photos/6237886/pexels-photo-6237886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You get cash, no vote.",
+        "description": "Tokenized shares have zero voting rights; insiders still control every board decision.",
+        "visual_hint": "Hand holding voting paper",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding ballot",
+        "image": "https://images.pexels.com/photos/6899156/pexels-photo-6899156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your broker today.",
+        "description": "Robinhood, Fidelity, and SoFi now offer pre-IPO AI stakes. See if you're locked out.",
+        "visual_hint": "Phone showing broker app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stock trading app",
+        "image": "https://images.pexels.com/photos/6802046/pexels-photo-6802046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
+    "savedAt": "2026-06-14T19:11:22.312Z",
+    "sourceId": "ba7f12545c7f20f769c1bb939ec71dca"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "as-anthropic-suspends-access-to-new-models-india-d",
     "prompt_version": "1.0.0",
     "status": "published",
