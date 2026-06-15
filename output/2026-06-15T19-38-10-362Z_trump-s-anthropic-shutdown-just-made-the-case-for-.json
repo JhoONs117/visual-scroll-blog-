@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "trump-s-anthropic-shutdown-just-made-the-case-for-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+  "pubDate": "2026-06-15T18:10:27.000Z",
+  "slides": [
+    "What if Trump forced Anthropic to halt tomorrow?",
+    "His executive order targets foreign ties in AI firms.",
+    "Non-US labs now have a clear path to dominance.",
+    "You must start vetting alternative AI providers today.",
+    "Build redundancy now—don't let one government control your stack."
+  ],
+  "thread_text": [
+    "1. What if Trump banned Anthropic?\n\nHis next executive order could freeze all U.S. AI labs with foreign ties within 48 hours.",
+    "2. Non-U.S. labs are already racing.\n\nDeepSeek, Alibaba, and Mistral are scaling models without American restrictions. They see the opening.",
+    "3. Your AI stack has a single point of failure.\n\nIf your provider loses access to U.S. compute or licensing, your product stalls. No workaround exists yet.",
+    "4. Start vetting alternatives now.\n\nRun a critical task on a non-U.S. model this week. Compare latency, cost, and output. If it fails, you're not ready.",
+    "5. Will you bet your company on one government's policy?\n\nTake your core AI workflow and test it on a foreign provider by Friday. If you can't, build that fallback now."
+  ],
+  "video_script": [
+    "Imagine Trump bans Anthropic tomorrow. What breaks?",
+    "Non-US labs see their chance to dominate.",
+    "Your stack has a single point of failure.",
+    "Vet a non-US provider this week.",
+    "Test your core workflow on it by Friday."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if Trump banned Anthropic?\n\nHis next executive order could freeze all U.S. AI labs with foreign ties within 48 hours.",
+        "2. Non-U.S. labs are already racing.\n\nDeepSeek, Alibaba, and Mistral are scaling models without American restrictions. They see the opening.",
+        "3. Your AI stack has a single point of failure.\n\nIf your provider loses access to U.S. compute or licensing, your product stalls. No workaround exists yet.",
+        "4. Start vetting alternatives now.\n\nRun a critical task on a non-U.S. model this week. Compare latency, cost, and output. If it fails, you're not ready.",
+        "5. Will you bet your company on one government's policy?\n\nTake your core AI workflow and test it on a foreign provider by Friday. If you can't, build that fallback now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Imagine Trump bans Anthropic tomorrow. What breaks?",
+        "Non-US labs see their chance to dominate.",
+        "Your stack has a single point of failure.",
+        "Vet a non-US provider this week.",
+        "Test your core workflow on it by Friday."
+      ]
+    },
+    "instagram": {
+      "caption": "Your most critical AI tools could vanish in 48 hours if Trump’s next executive order targets foreign ties.  \n\nAnthropic, reliant on U.S. compute and licensing, would halt. Non-U.S. labs like DeepSeek and Mistral see an open lane.  \n\nYour content pipeline has a single point of failure: one government’s policy can freeze your stack overnight.  \n\nRun one core workflow on a non-U.S. model by Friday 🧪. If it fails, you’re not ready. ⚠️ Who holds the keys to your business? 🔑"
+    }
+  },
+  "instagram_caption": "Your most critical AI tools could vanish in 48 hours if Trump’s next executive order targets foreign ties.  \n\nAnthropic, reliant on U.S. compute and licensing, would halt. Non-U.S. labs like DeepSeek and Mistral see an open lane.  \n\nYour content pipeline has a single point of failure: one government’s policy can freeze your stack overnight.  \n\nRun one core workflow on a non-U.S. model by Friday 🧪. If it fails, you’re not ready. ⚠️ Who holds the keys to your business? 🔑",
+  "carousel_slides": [
+    {
+      "hook": "One ban could sink your stack.",
+      "description": "Trump's order could freeze AI labs with foreign ties in 48 hours, crippling your operations.",
+      "visual_hint": "Server racks powered down",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room shutdown"
+    },
+    {
+      "hook": "Non-US labs are racing ahead.",
+      "description": "DeepSeek, Alibaba, and Mistral scale without U.S. restrictions, exploiting the opening you ignore.",
+      "visual_hint": "World map with nodes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "global network map",
+      "image": "https://images.pexels.com/photos/8542360/pexels-photo-8542360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI has a single failure point.",
+      "description": "If your provider loses U.S. compute or licenses, your product stalls with no workaround yet.",
+      "visual_hint": "Falling domino chain",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "domino effect",
+      "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test a non-US model this week.",
+      "description": "Run a critical task on a foreign model and compare latency, cost, and output now.",
+      "visual_hint": "Person testing interface",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "developer testing software",
+      "image": "https://images.pexels.com/photos/3862605/pexels-photo-3862605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — build your fallback now.",
+      "description": "Test your core AI workflow on a foreign provider by Friday. If you can't, build redundancy today.",
+      "visual_hint": "Redundant server connections",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "server backup cables",
+      "image": "https://images.pexels.com/photos/5408005/pexels-photo-5408005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_Illo_STK175_L_Normand_DonaldTrump_Negative.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-15T19:39:14.345Z",
+  "sourceId": "5137bc88d485412a6130d7a2e8c69b10"
+}

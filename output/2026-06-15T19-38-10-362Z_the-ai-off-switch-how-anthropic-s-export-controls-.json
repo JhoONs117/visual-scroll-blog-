@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ai-off-switch-how-anthropic-s-export-controls-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble",
+  "link": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/",
+  "pubDate": "Mon, 15 Jun 2026 08:00:00 +0000",
+  "slides": [
+    "Anthropic restricted AI exports to one country—why?",
+    "The model's safety training required human oversight abroad.",
+    "That country now enforces its own sovereign AI controls.",
+    "Your next AI deployment may need local regulatory approval.",
+    "Audit your supply chain for compliance by next quarter."
+  ],
+  "thread_text": [
+    "1. Why restrict exports?\n\nAnthropic blocked one country from accessing its latest AI model. The reason ties directly to safety training that required human oversight abroad.",
+    "2. The human oversight loophole\n\nThe company outsourced safety checks to foreign workers. That created a regulatory gap the host country ultimately filled on its own.",
+    "3. Sovereign controls activated\n\nThat country now enforces its own AI governance. No model enters or leaves without local approval—effectively a digital border.",
+    "4. Your deployment just got harder\n\nNext time you launch AI abroad, local regulators may demand review. Compliance timelines shift from weeks to months.",
+    "5. Audit your supply chain by Q1\n\nMap where your AI gets trained, tested, and hosted. If any node falls outside your jurisdiction, update your compliance checklist now."
+  ],
+  "video_script": [
+    "Anthropic blocked exports to one country.",
+    "Safety training needed foreign human oversight.",
+    "That country now enforces its own rules.",
+    "Your next AI launch may need approval.",
+    "Audit your supply chain by next quarter."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why restrict exports?\n\nAnthropic blocked one country from accessing its latest AI model. The reason ties directly to safety training that required human oversight abroad.",
+        "2. The human oversight loophole\n\nThe company outsourced safety checks to foreign workers. That created a regulatory gap the host country ultimately filled on its own.",
+        "3. Sovereign controls activated\n\nThat country now enforces its own AI governance. No model enters or leaves without local approval—effectively a digital border.",
+        "4. Your deployment just got harder\n\nNext time you launch AI abroad, local regulators may demand review. Compliance timelines shift from weeks to months.",
+        "5. Audit your supply chain by Q1\n\nMap where your AI gets trained, tested, and hosted. If any node falls outside your jurisdiction, update your compliance checklist now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic blocked exports to one country.",
+        "Safety training needed foreign human oversight.",
+        "That country now enforces its own rules.",
+        "Your next AI launch may need approval.",
+        "Audit your supply chain by next quarter."
+      ]
+    },
+    "instagram": {
+      "caption": "A country just blocked itself from using Anthropic’s latest model, because Anthropic first blocked the country.\n\nAnthropic outsourced safety checks to workers abroad. That host country stepped in and built its own AI border control. Now no model enters or leaves without local approval.\n\nIf you deploy AI across borders, regulators can demand months-long reviews on your launch calendar.\n\nHow much of your AI supply chain sits in jurisdictions you don’t control? 🧠"
+    }
+  },
+  "instagram_caption": "A country just blocked itself from using Anthropic’s latest model, because Anthropic first blocked the country.\n\nAnthropic outsourced safety checks to workers abroad. That host country stepped in and built its own AI border control. Now no model enters or leaves without local approval.\n\nIf you deploy AI across borders, regulators can demand months-long reviews on your launch calendar.\n\nHow much of your AI supply chain sits in jurisdictions you don’t control? 🧠",
+  "carousel_slides": [
+    {
+      "hook": "Your AI has a secret overseer.",
+      "description": "Anthropic blocked one country from its latest model because safety checks were outsourced abroad.",
+      "visual_hint": "Prison cell key",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "security guard door"
+    },
+    {
+      "hook": "Outsourced safety became a loophole.",
+      "description": "Foreign workers did human oversight, creating a regulatory gap the host country then filled.",
+      "visual_hint": "Magnifying glass over map",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "map magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Now it's a digital border.",
+      "description": "That country enforces its own AI approval—no model enters or leaves without local sign-off.",
+      "visual_hint": "Fence with flag icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "border fence",
+      "image": "https://images.pexels.com/photos/36812209/pexels-photo-36812209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next launch just got slower.",
+      "description": "Local regulators may now demand review, stretching compliance from weeks to months.",
+      "visual_hint": "Hourglass with clock hands",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hourglass clock",
+      "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your AI supply chain now.",
+      "description": "Map where your model is trained, tested, and hosted—then update your compliance checklist.",
+      "visual_hint": "Checklist with checkmark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/8978610/pexels-photo-8978610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/3286375/pexels-photo-3286375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-15T19:38:40.068Z",
+  "sourceId": "6e70753003b0d4a7fc3b662ff8f2be49"
+}

@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "trump-s-anthropic-shutdown-just-made-the-case-for-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "pubDate": "2026-06-15T18:10:27.000Z",
+      "slides": [
+        "What if Trump forced Anthropic to halt tomorrow?",
+        "His executive order targets foreign ties in AI firms.",
+        "Non-US labs now have a clear path to dominance.",
+        "You must start vetting alternative AI providers today.",
+        "Build redundancy now—don't let one government control your stack."
+      ],
+      "thread_text": [
+        "1. What if Trump banned Anthropic?\n\nHis next executive order could freeze all U.S. AI labs with foreign ties within 48 hours.",
+        "2. Non-U.S. labs are already racing.\n\nDeepSeek, Alibaba, and Mistral are scaling models without American restrictions. They see the opening.",
+        "3. Your AI stack has a single point of failure.\n\nIf your provider loses access to U.S. compute or licensing, your product stalls. No workaround exists yet.",
+        "4. Start vetting alternatives now.\n\nRun a critical task on a non-U.S. model this week. Compare latency, cost, and output. If it fails, you're not ready.",
+        "5. Will you bet your company on one government's policy?\n\nTake your core AI workflow and test it on a foreign provider by Friday. If you can't, build that fallback now."
+      ],
+      "video_script": [
+        "Imagine Trump bans Anthropic tomorrow. What breaks?",
+        "Non-US labs see their chance to dominate.",
+        "Your stack has a single point of failure.",
+        "Vet a non-US provider this week.",
+        "Test your core workflow on it by Friday."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. What if Trump banned Anthropic?\n\nHis next executive order could freeze all U.S. AI labs with foreign ties within 48 hours.",
+            "2. Non-U.S. labs are already racing.\n\nDeepSeek, Alibaba, and Mistral are scaling models without American restrictions. They see the opening.",
+            "3. Your AI stack has a single point of failure.\n\nIf your provider loses access to U.S. compute or licensing, your product stalls. No workaround exists yet.",
+            "4. Start vetting alternatives now.\n\nRun a critical task on a non-U.S. model this week. Compare latency, cost, and output. If it fails, you're not ready.",
+            "5. Will you bet your company on one government's policy?\n\nTake your core AI workflow and test it on a foreign provider by Friday. If you can't, build that fallback now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Imagine Trump bans Anthropic tomorrow. What breaks?",
+            "Non-US labs see their chance to dominate.",
+            "Your stack has a single point of failure.",
+            "Vet a non-US provider this week.",
+            "Test your core workflow on it by Friday."
+          ]
+        },
+        "instagram": {
+          "caption": "Your most critical AI tools could vanish in 48 hours if Trump’s next executive order targets foreign ties.  \n\nAnthropic, reliant on U.S. compute and licensing, would halt. Non-U.S. labs like DeepSeek and Mistral see an open lane.  \n\nYour content pipeline has a single point of failure: one government’s policy can freeze your stack overnight.  \n\nRun one core workflow on a non-U.S. model by Friday 🧪. If it fails, you’re not ready. ⚠️ Who holds the keys to your business? 🔑"
+        }
+      },
+      "instagram_caption": "Your most critical AI tools could vanish in 48 hours if Trump’s next executive order targets foreign ties.  \n\nAnthropic, reliant on U.S. compute and licensing, would halt. Non-U.S. labs like DeepSeek and Mistral see an open lane.  \n\nYour content pipeline has a single point of failure: one government’s policy can freeze your stack overnight.  \n\nRun one core workflow on a non-U.S. model by Friday 🧪. If it fails, you’re not ready. ⚠️ Who holds the keys to your business? 🔑",
+      "carousel_slides": [
+        {
+          "hook": "One ban could sink your stack.",
+          "description": "Trump's order could freeze AI labs with foreign ties in 48 hours, crippling your operations.",
+          "visual_hint": "Server racks powered down",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room shutdown"
+        },
+        {
+          "hook": "Non-US labs are racing ahead.",
+          "description": "DeepSeek, Alibaba, and Mistral scale without U.S. restrictions, exploiting the opening you ignore.",
+          "visual_hint": "World map with nodes",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "global network map",
+          "image": "https://images.pexels.com/photos/8542360/pexels-photo-8542360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI has a single failure point.",
+          "description": "If your provider loses U.S. compute or licenses, your product stalls with no workaround yet.",
+          "visual_hint": "Falling domino chain",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "domino effect",
+          "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test a non-US model this week.",
+          "description": "Run a critical task on a foreign model and compare latency, cost, and output now.",
+          "visual_hint": "Person testing interface",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "developer testing software",
+          "image": "https://images.pexels.com/photos/3862605/pexels-photo-3862605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this — build your fallback now.",
+          "description": "Test your core AI workflow on a foreign provider by Friday. If you can't, build redundancy today.",
+          "visual_hint": "Redundant server connections",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "server backup cables",
+          "image": "https://images.pexels.com/photos/5408005/pexels-photo-5408005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_Illo_STK175_L_Normand_DonaldTrump_Negative.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-06-15T19:39:14.345Z",
+      "sourceId": "5137bc88d485412a6130d7a2e8c69b10"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "all-the-news-about-anthropic-8217-s-new-ai-fight-w",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "pubDate": "2026-06-15T19:04:53.000Z",
+      "slides": [
+        "Anthropic just escalated its White House standoff—why?",
+        "The company refused a new executive order on AI safety.",
+        "Their model passed tests that others publicly failed.",
+        "Your compliance team might now lack legal cover.",
+        "Re-audit your AI supply chain for political exposure."
+      ],
+      "thread_text": [
+        "1. Why Anthropic said no.\n\nRefusing a White House executive order on AI safety, the company bet its model passed tests others failed.",
+        "2. The test they passed.\n\nTheir model aced safety benchmarks that rivals tripped on publicly. One detail: the government’s own red team couldn’t break it.",
+        "3. Compliance gap exposed.\n\nYour legal team relied on the order as a shield. Without it, third-party audits carry political risk you can’t insure against.",
+        "4. Supply chain blind spot.\n\nYour vendors might certify against the skipped standard. If they’re exposed, your contracts have no escape clause for political fallout.",
+        "5. Audit your AI chain now.\n\nMap every model your team touches. If any relied on that executive order for approval, simulate a cutoff—can your product survive without it?"
+      ],
+      "video_script": [
+        "Anthropic refused an AI safety executive order.",
+        "Their model passed tests others couldn't.",
+        "Your compliance team now has no cover.",
+        "Re-audit your AI supply chain today.",
+        "Political exposure may break your contracts."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why Anthropic said no.\n\nRefusing a White House executive order on AI safety, the company bet its model passed tests others failed.",
+            "2. The test they passed.\n\nTheir model aced safety benchmarks that rivals tripped on publicly. One detail: the government’s own red team couldn’t break it.",
+            "3. Compliance gap exposed.\n\nYour legal team relied on the order as a shield. Without it, third-party audits carry political risk you can’t insure against.",
+            "4. Supply chain blind spot.\n\nYour vendors might certify against the skipped standard. If they’re exposed, your contracts have no escape clause for political fallout.",
+            "5. Audit your AI chain now.\n\nMap every model your team touches. If any relied on that executive order for approval, simulate a cutoff—can your product survive without it?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic refused an AI safety executive order.",
+            "Their model passed tests others couldn't.",
+            "Your compliance team now has no cover.",
+            "Re-audit your AI supply chain today.",
+            "Political exposure may break your contracts."
+          ]
+        },
+        "instagram": {
+          "caption": "Your compliance team just lost their legal shield. Anthropic refused a White House executive order on AI safety, betting their model could pass tests others failed.\n\nThe government’s own red team couldn’t break Anthropic’s model. But that same order was what your contracts relied on for regulatory cover. 🛡️ If your vendors certified against a standard the White House just escalated, your supply chain now carries political risk you can’t insure against.\n\nMap every model your team touches today—can your product survive without that executive order as a fallback? ⚖️"
+        }
+      },
+      "instagram_caption": "Your compliance team just lost their legal shield. Anthropic refused a White House executive order on AI safety, betting their model could pass tests others failed.\n\nThe government’s own red team couldn’t break Anthropic’s model. But that same order was what your contracts relied on for regulatory cover. 🛡️ If your vendors certified against a standard the White House just escalated, your supply chain now carries political risk you can’t insure against.\n\nMap every model your team touches today—can your product survive without that executive order as a fallback? ⚖️",
+      "carousel_slides": [
+        {
+          "hook": "The government couldn't break it.",
+          "description": "Anthropic's AI passed safety tests rivals failed, yet they refused a White House order. Now compliance is at risk.",
+          "visual_hint": "White House front view",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "White House building"
+        },
+        {
+          "hook": "Your legal shield just vanished.",
+          "description": "The executive order was a compliance blanket. Without it, your third-party audits face uninsurable political risk.",
+          "visual_hint": "Broken legal document",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "legal documents stack",
+          "image": "https://images.pexels.com/photos/7654130/pexels-photo-7654130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your supply chain has a blind spot.",
+          "description": "Vendors certified against the skipped standard. If exposed, your contracts lack escape clauses for political fallout.",
+          "visual_hint": "Supply chain map with gap",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "supply chain diagram",
+          "image": "https://images.pexels.com/photos/7948009/pexels-photo-7948009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Re-audit your AI models now.",
+          "description": "Map every model you use. If any relied on that order, simulate a cutoff—can your product survive?",
+          "visual_hint": "Red checklist on clipboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "clipboard checklist",
+          "image": "https://images.pexels.com/photos/8978610/pexels-photo-8978610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to audit your AI chain.",
+          "description": "Check your compliance team's legal cover today. Comment with questions or tap the link for a full risk checklist.",
+          "visual_hint": "Finger tapping phone screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "hand tapping smartphone",
+          "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-06-15T19:38:54.809Z",
+      "sourceId": "9b9348265e532f092dc1f3b44d7293ea"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-ai-off-switch-how-anthropic-s-export-controls-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/",
+      "pubDate": "Mon, 15 Jun 2026 08:00:00 +0000",
+      "slides": [
+        "Anthropic restricted AI exports to one country—why?",
+        "The model's safety training required human oversight abroad.",
+        "That country now enforces its own sovereign AI controls.",
+        "Your next AI deployment may need local regulatory approval.",
+        "Audit your supply chain for compliance by next quarter."
+      ],
+      "thread_text": [
+        "1. Why restrict exports?\n\nAnthropic blocked one country from accessing its latest AI model. The reason ties directly to safety training that required human oversight abroad.",
+        "2. The human oversight loophole\n\nThe company outsourced safety checks to foreign workers. That created a regulatory gap the host country ultimately filled on its own.",
+        "3. Sovereign controls activated\n\nThat country now enforces its own AI governance. No model enters or leaves without local approval—effectively a digital border.",
+        "4. Your deployment just got harder\n\nNext time you launch AI abroad, local regulators may demand review. Compliance timelines shift from weeks to months.",
+        "5. Audit your supply chain by Q1\n\nMap where your AI gets trained, tested, and hosted. If any node falls outside your jurisdiction, update your compliance checklist now."
+      ],
+      "video_script": [
+        "Anthropic blocked exports to one country.",
+        "Safety training needed foreign human oversight.",
+        "That country now enforces its own rules.",
+        "Your next AI launch may need approval.",
+        "Audit your supply chain by next quarter."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why restrict exports?\n\nAnthropic blocked one country from accessing its latest AI model. The reason ties directly to safety training that required human oversight abroad.",
+            "2. The human oversight loophole\n\nThe company outsourced safety checks to foreign workers. That created a regulatory gap the host country ultimately filled on its own.",
+            "3. Sovereign controls activated\n\nThat country now enforces its own AI governance. No model enters or leaves without local approval—effectively a digital border.",
+            "4. Your deployment just got harder\n\nNext time you launch AI abroad, local regulators may demand review. Compliance timelines shift from weeks to months.",
+            "5. Audit your supply chain by Q1\n\nMap where your AI gets trained, tested, and hosted. If any node falls outside your jurisdiction, update your compliance checklist now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic blocked exports to one country.",
+            "Safety training needed foreign human oversight.",
+            "That country now enforces its own rules.",
+            "Your next AI launch may need approval.",
+            "Audit your supply chain by next quarter."
+          ]
+        },
+        "instagram": {
+          "caption": "A country just blocked itself from using Anthropic’s latest model, because Anthropic first blocked the country.\n\nAnthropic outsourced safety checks to workers abroad. That host country stepped in and built its own AI border control. Now no model enters or leaves without local approval.\n\nIf you deploy AI across borders, regulators can demand months-long reviews on your launch calendar.\n\nHow much of your AI supply chain sits in jurisdictions you don’t control? 🧠"
+        }
+      },
+      "instagram_caption": "A country just blocked itself from using Anthropic’s latest model, because Anthropic first blocked the country.\n\nAnthropic outsourced safety checks to workers abroad. That host country stepped in and built its own AI border control. Now no model enters or leaves without local approval.\n\nIf you deploy AI across borders, regulators can demand months-long reviews on your launch calendar.\n\nHow much of your AI supply chain sits in jurisdictions you don’t control? 🧠",
+      "carousel_slides": [
+        {
+          "hook": "Your AI has a secret overseer.",
+          "description": "Anthropic blocked one country from its latest model because safety checks were outsourced abroad.",
+          "visual_hint": "Prison cell key",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "security guard door"
+        },
+        {
+          "hook": "Outsourced safety became a loophole.",
+          "description": "Foreign workers did human oversight, creating a regulatory gap the host country then filled.",
+          "visual_hint": "Magnifying glass over map",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "map magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Now it's a digital border.",
+          "description": "That country enforces its own AI approval—no model enters or leaves without local sign-off.",
+          "visual_hint": "Fence with flag icon",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "border fence",
+          "image": "https://images.pexels.com/photos/36812209/pexels-photo-36812209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your next launch just got slower.",
+          "description": "Local regulators may now demand review, stretching compliance from weeks to months.",
+          "visual_hint": "Hourglass with clock hands",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hourglass clock",
+          "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your AI supply chain now.",
+          "description": "Map where your model is trained, tested, and hosted—then update your compliance checklist.",
+          "visual_hint": "Checklist with checkmark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/8978610/pexels-photo-8978610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/3286375/pexels-photo-3286375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-06-15T19:38:40.068Z",
+      "sourceId": "6e70753003b0d4a7fc3b662ff8f2be49"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "accenture-consumers-show-growing-trust-in-ai-shopp",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Accenture: Consumers show growing trust in AI shopping agents",
+      "link": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
+      "pubDate": "Mon, 15 Jun 2026 10:00:00 +0000",
+      "slides": [
+        "Accenture found consumer trust in AI shopping agents rising.",
+        "Over half now say they'd let AI pick purchases.",
+        "Yet most still refuse to share payment data with it.",
+        "Brands must redesign checkout for partial delegation now.",
+        "Test removing one payment step—watch conversion shift."
+      ],
+      "thread_text": [
+        "1. Trust is shifting\n\nAccenture found 50% more consumers now trust AI to shop—yet the real friction isn't in the pick, it's in the pay.",
+        "2. Half hand over choice\n\nOver 50% would let AI decide what to buy—but only if checkout feels safe.",
+        "3. The payment wall\n\n67% refuse to share card details with AI agents. Trust stops at the PIN.",
+        "4. Partial delegation works\n\nBrands should redesign checkout for customers who delegate search but not payment. Remove friction between.",
+        "5. Test a step\n\nCut one payment-screen field on your site this week. Measure conversion before and after. What moves?"
+      ],
+      "video_script": [
+        "Consumers trust AI to pick purchases.",
+        "But they won't share payment data.",
+        "Redesign checkout for partial delegation.",
+        "Remove one step, watch conversion shift.",
+        "Test it this week on your site."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Trust is shifting\n\nAccenture found 50% more consumers now trust AI to shop—yet the real friction isn't in the pick, it's in the pay.",
+            "2. Half hand over choice\n\nOver 50% would let AI decide what to buy—but only if checkout feels safe.",
+            "3. The payment wall\n\n67% refuse to share card details with AI agents. Trust stops at the PIN.",
+            "4. Partial delegation works\n\nBrands should redesign checkout for customers who delegate search but not payment. Remove friction between.",
+            "5. Test a step\n\nCut one payment-screen field on your site this week. Measure conversion before and after. What moves?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Consumers trust AI to pick purchases.",
+            "But they won't share payment data.",
+            "Redesign checkout for partial delegation.",
+            "Remove one step, watch conversion shift.",
+            "Test it this week on your site."
+          ]
+        },
+        "instagram": {
+          "caption": "More than half of shoppers now trust an AI agent to pick what they buy—but 67% still refuse to share their card details with it. 🛍️\n\nTrust flows from search to suggestion, then hits a wall at checkout. People delegate the choice, not the payment.\n\nIf you sell anything online, redesign checkout for partial delegation: let AI pick, but keep payment human.\n\nWhich single field on your payment screen could you remove this week—and what would happen to conversions? 🔍"
+        }
+      },
+      "instagram_caption": "More than half of shoppers now trust an AI agent to pick what they buy—but 67% still refuse to share their card details with it. 🛍️\n\nTrust flows from search to suggestion, then hits a wall at checkout. People delegate the choice, not the payment.\n\nIf you sell anything online, redesign checkout for partial delegation: let AI pick, but keep payment human.\n\nWhich single field on your payment screen could you remove this week—and what would happen to conversions? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Trust stops at payment.",
+          "description": "67% refuse to share card data with AI agents.",
+          "visual_hint": "Lock on digital card",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "credit card lock"
+        },
+        {
+          "hook": "Half let AI choose.",
+          "description": "Over 50% trust AI to pick purchases, but only if checkout feels safe.",
+          "visual_hint": "Shopping cart robot hand",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robot shopping cart",
+          "image": "https://images.pexels.com/photos/16766915/pexels-photo-16766915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The PIN is the wall.",
+          "description": "Trust ends at the PIN—67% won't enter card details with AI agents.",
+          "visual_hint": "Finger pressing PIN pad",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "finger on PIN pad",
+          "image": "https://images.pexels.com/photos/8133278/pexels-photo-8133278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Delegate search, not pay.",
+          "description": "Redesign checkout for partial delegation—remove the friction between AI pick and human pay.",
+          "visual_hint": "Two hands passing a card",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands passing credit card",
+          "image": "https://images.pexels.com/photos/7820314/pexels-photo-7820314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this test idea.",
+          "description": "Remove one payment field this week and measure conversion change.",
+          "visual_hint": "Checkmark over form field",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checkout form field",
+          "image": "https://images.pexels.com/photos/19224085/pexels-photo-19224085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8937443/pexels-photo-8937443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-06-15T19:38:25.214Z",
+      "sourceId": "043bcd852ff98e92a6410803c9fee06d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "as-ai-agents-become-employees-newcore-emerges-with",
       "prompt_version": "1.0.0",
       "status": "published",

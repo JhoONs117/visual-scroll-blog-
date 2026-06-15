@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "accenture-consumers-show-growing-trust-in-ai-shopp",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Accenture: Consumers show growing trust in AI shopping agents",
+  "link": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
+  "pubDate": "Mon, 15 Jun 2026 10:00:00 +0000",
+  "slides": [
+    "Accenture found consumer trust in AI shopping agents rising.",
+    "Over half now say they'd let AI pick purchases.",
+    "Yet most still refuse to share payment data with it.",
+    "Brands must redesign checkout for partial delegation now.",
+    "Test removing one payment step—watch conversion shift."
+  ],
+  "thread_text": [
+    "1. Trust is shifting\n\nAccenture found 50% more consumers now trust AI to shop—yet the real friction isn't in the pick, it's in the pay.",
+    "2. Half hand over choice\n\nOver 50% would let AI decide what to buy—but only if checkout feels safe.",
+    "3. The payment wall\n\n67% refuse to share card details with AI agents. Trust stops at the PIN.",
+    "4. Partial delegation works\n\nBrands should redesign checkout for customers who delegate search but not payment. Remove friction between.",
+    "5. Test a step\n\nCut one payment-screen field on your site this week. Measure conversion before and after. What moves?"
+  ],
+  "video_script": [
+    "Consumers trust AI to pick purchases.",
+    "But they won't share payment data.",
+    "Redesign checkout for partial delegation.",
+    "Remove one step, watch conversion shift.",
+    "Test it this week on your site."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Trust is shifting\n\nAccenture found 50% more consumers now trust AI to shop—yet the real friction isn't in the pick, it's in the pay.",
+        "2. Half hand over choice\n\nOver 50% would let AI decide what to buy—but only if checkout feels safe.",
+        "3. The payment wall\n\n67% refuse to share card details with AI agents. Trust stops at the PIN.",
+        "4. Partial delegation works\n\nBrands should redesign checkout for customers who delegate search but not payment. Remove friction between.",
+        "5. Test a step\n\nCut one payment-screen field on your site this week. Measure conversion before and after. What moves?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Consumers trust AI to pick purchases.",
+        "But they won't share payment data.",
+        "Redesign checkout for partial delegation.",
+        "Remove one step, watch conversion shift.",
+        "Test it this week on your site."
+      ]
+    },
+    "instagram": {
+      "caption": "More than half of shoppers now trust an AI agent to pick what they buy—but 67% still refuse to share their card details with it. 🛍️\n\nTrust flows from search to suggestion, then hits a wall at checkout. People delegate the choice, not the payment.\n\nIf you sell anything online, redesign checkout for partial delegation: let AI pick, but keep payment human.\n\nWhich single field on your payment screen could you remove this week—and what would happen to conversions? 🔍"
+    }
+  },
+  "instagram_caption": "More than half of shoppers now trust an AI agent to pick what they buy—but 67% still refuse to share their card details with it. 🛍️\n\nTrust flows from search to suggestion, then hits a wall at checkout. People delegate the choice, not the payment.\n\nIf you sell anything online, redesign checkout for partial delegation: let AI pick, but keep payment human.\n\nWhich single field on your payment screen could you remove this week—and what would happen to conversions? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Trust stops at payment.",
+      "description": "67% refuse to share card data with AI agents.",
+      "visual_hint": "Lock on digital card",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "credit card lock"
+    },
+    {
+      "hook": "Half let AI choose.",
+      "description": "Over 50% trust AI to pick purchases, but only if checkout feels safe.",
+      "visual_hint": "Shopping cart robot hand",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot shopping cart",
+      "image": "https://images.pexels.com/photos/16766915/pexels-photo-16766915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The PIN is the wall.",
+      "description": "Trust ends at the PIN—67% won't enter card details with AI agents.",
+      "visual_hint": "Finger pressing PIN pad",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "finger on PIN pad",
+      "image": "https://images.pexels.com/photos/8133278/pexels-photo-8133278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Delegate search, not pay.",
+      "description": "Redesign checkout for partial delegation—remove the friction between AI pick and human pay.",
+      "visual_hint": "Two hands passing a card",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands passing credit card",
+      "image": "https://images.pexels.com/photos/7820314/pexels-photo-7820314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this test idea.",
+      "description": "Remove one payment field this week and measure conversion change.",
+      "visual_hint": "Checkmark over form field",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checkout form field",
+      "image": "https://images.pexels.com/photos/19224085/pexels-photo-19224085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/8937443/pexels-photo-8937443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-15T19:38:25.214Z",
+  "sourceId": "043bcd852ff98e92a6410803c9fee06d"
+}

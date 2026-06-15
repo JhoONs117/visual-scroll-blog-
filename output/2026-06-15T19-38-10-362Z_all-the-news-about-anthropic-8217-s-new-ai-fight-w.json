@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "all-the-news-about-anthropic-8217-s-new-ai-fight-w",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+  "pubDate": "2026-06-15T19:04:53.000Z",
+  "slides": [
+    "Anthropic just escalated its White House standoff—why?",
+    "The company refused a new executive order on AI safety.",
+    "Their model passed tests that others publicly failed.",
+    "Your compliance team might now lack legal cover.",
+    "Re-audit your AI supply chain for political exposure."
+  ],
+  "thread_text": [
+    "1. Why Anthropic said no.\n\nRefusing a White House executive order on AI safety, the company bet its model passed tests others failed.",
+    "2. The test they passed.\n\nTheir model aced safety benchmarks that rivals tripped on publicly. One detail: the government’s own red team couldn’t break it.",
+    "3. Compliance gap exposed.\n\nYour legal team relied on the order as a shield. Without it, third-party audits carry political risk you can’t insure against.",
+    "4. Supply chain blind spot.\n\nYour vendors might certify against the skipped standard. If they’re exposed, your contracts have no escape clause for political fallout.",
+    "5. Audit your AI chain now.\n\nMap every model your team touches. If any relied on that executive order for approval, simulate a cutoff—can your product survive without it?"
+  ],
+  "video_script": [
+    "Anthropic refused an AI safety executive order.",
+    "Their model passed tests others couldn't.",
+    "Your compliance team now has no cover.",
+    "Re-audit your AI supply chain today.",
+    "Political exposure may break your contracts."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why Anthropic said no.\n\nRefusing a White House executive order on AI safety, the company bet its model passed tests others failed.",
+        "2. The test they passed.\n\nTheir model aced safety benchmarks that rivals tripped on publicly. One detail: the government’s own red team couldn’t break it.",
+        "3. Compliance gap exposed.\n\nYour legal team relied on the order as a shield. Without it, third-party audits carry political risk you can’t insure against.",
+        "4. Supply chain blind spot.\n\nYour vendors might certify against the skipped standard. If they’re exposed, your contracts have no escape clause for political fallout.",
+        "5. Audit your AI chain now.\n\nMap every model your team touches. If any relied on that executive order for approval, simulate a cutoff—can your product survive without it?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic refused an AI safety executive order.",
+        "Their model passed tests others couldn't.",
+        "Your compliance team now has no cover.",
+        "Re-audit your AI supply chain today.",
+        "Political exposure may break your contracts."
+      ]
+    },
+    "instagram": {
+      "caption": "Your compliance team just lost their legal shield. Anthropic refused a White House executive order on AI safety, betting their model could pass tests others failed.\n\nThe government’s own red team couldn’t break Anthropic’s model. But that same order was what your contracts relied on for regulatory cover. 🛡️ If your vendors certified against a standard the White House just escalated, your supply chain now carries political risk you can’t insure against.\n\nMap every model your team touches today—can your product survive without that executive order as a fallback? ⚖️"
+    }
+  },
+  "instagram_caption": "Your compliance team just lost their legal shield. Anthropic refused a White House executive order on AI safety, betting their model could pass tests others failed.\n\nThe government’s own red team couldn’t break Anthropic’s model. But that same order was what your contracts relied on for regulatory cover. 🛡️ If your vendors certified against a standard the White House just escalated, your supply chain now carries political risk you can’t insure against.\n\nMap every model your team touches today—can your product survive without that executive order as a fallback? ⚖️",
+  "carousel_slides": [
+    {
+      "hook": "The government couldn't break it.",
+      "description": "Anthropic's AI passed safety tests rivals failed, yet they refused a White House order. Now compliance is at risk.",
+      "visual_hint": "White House front view",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "White House building"
+    },
+    {
+      "hook": "Your legal shield just vanished.",
+      "description": "The executive order was a compliance blanket. Without it, your third-party audits face uninsurable political risk.",
+      "visual_hint": "Broken legal document",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "legal documents stack",
+      "image": "https://images.pexels.com/photos/7654130/pexels-photo-7654130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your supply chain has a blind spot.",
+      "description": "Vendors certified against the skipped standard. If exposed, your contracts lack escape clauses for political fallout.",
+      "visual_hint": "Supply chain map with gap",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "supply chain diagram",
+      "image": "https://images.pexels.com/photos/7948009/pexels-photo-7948009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Re-audit your AI models now.",
+      "description": "Map every model you use. If any relied on that order, simulate a cutoff—can your product survive?",
+      "visual_hint": "Red checklist on clipboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/8978610/pexels-photo-8978610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to audit your AI chain.",
+      "description": "Check your compliance team's legal cover today. Comment with questions or tap the link for a full risk checklist.",
+      "visual_hint": "Finger tapping phone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand tapping smartphone",
+      "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-15T19:38:54.809Z",
+  "sourceId": "9b9348265e532f092dc1f3b44d7293ea"
+}
