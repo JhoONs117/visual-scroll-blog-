@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cybersecurity-vets-protest-dangerous-us-government",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+  "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+  "pubDate": "Mon, 15 Jun 2026 15:29:51 +0000",
+  "slides": [
+    "Who is really threatened by Anthropic’s banned AI models?",
+    "US government claims the models enable cyberattacks.",
+    "But security veterans say the ban itself is dangerous.",
+    "Your company may lose access to the best defenses.",
+    "Test your own red team against what is still legal."
+  ],
+  "thread_text": [
+    "1. Who holds the real risk?\n\nThe US bans models that help cyberattacks—but blocking them may leave your company without the best AI defenses.",
+    "2. The government's hidden assumption.\n\nOfficials claim these models enable attacks. Veterans argue the ban itself creates new vulnerabilities.",
+    "3. Your company gets left behind.\n\nIf the best defensive AI is banned, only attackers will have access. Your security tools stay weak.",
+    "4. What you can't see hurts more.\n\nSecurity experts warn that banning AI blindfolds defenders. The real threat is losing the arms race.",
+    "5. Test what's still legal today.\n\nRun your own red team against a banned model. Can you spot the difference? If not, your defense is already obsolete."
+  ],
+  "video_script": [
+    "Anthropic's banned models may shield attackers.",
+    "The government says they enable cyber threats.",
+    "Veterans say the ban risks your defense.",
+    "Your company could lose top AI protection.",
+    "Test your red team on legal models now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who holds the real risk?\n\nThe US bans models that help cyberattacks—but blocking them may leave your company without the best AI defenses.",
+        "2. The government's hidden assumption.\n\nOfficials claim these models enable attacks. Veterans argue the ban itself creates new vulnerabilities.",
+        "3. Your company gets left behind.\n\nIf the best defensive AI is banned, only attackers will have access. Your security tools stay weak.",
+        "4. What you can't see hurts more.\n\nSecurity experts warn that banning AI blindfolds defenders. The real threat is losing the arms race.",
+        "5. Test what's still legal today.\n\nRun your own red team against a banned model. Can you spot the difference? If not, your defense is already obsolete."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic's banned models may shield attackers.",
+        "The government says they enable cyber threats.",
+        "Veterans say the ban risks your defense.",
+        "Your company could lose top AI protection.",
+        "Test your red team on legal models now."
+      ]
+    },
+    "instagram": {
+      "caption": "Your company's security tools are about to get weaker—because the US just banned Anthropic's best AI models, claiming they enable cyberattacks. 🛡️\n\nCybersecurity veterans with decades of experience say the ban itself is more dangerous than what it blocks. 🚨\n\nThe government’s hidden assumption: restricting defense tools leaves defenders blind while attackers still exploit whatever they can find.\n\nIf you run security or use any online service, your defenses just lost access to cutting-edge AI that could stop attacks before they happen.\n\nRun your own red team against the models that are still legal today ⚡—can you tell if your protection just got slower?"
+    }
+  },
+  "instagram_caption": "Your company's security tools are about to get weaker—because the US just banned Anthropic's best AI models, claiming they enable cyberattacks. 🛡️\n\nCybersecurity veterans with decades of experience say the ban itself is more dangerous than what it blocks. 🚨\n\nThe government’s hidden assumption: restricting defense tools leaves defenders blind while attackers still exploit whatever they can find.\n\nIf you run security or use any online service, your defenses just lost access to cutting-edge AI that could stop attacks before they happen.\n\nRun your own red team against the models that are still legal today ⚡—can you tell if your protection just got slower?",
+  "carousel_slides": [
+    {
+      "hook": "Is banning AI the real threat?",
+      "description": "US bans AI models allegedly aiding cyberattacks. Security veterans warn the ban itself creates dangerous vulnerabilities.",
+      "visual_hint": "Lock with broken chain",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken lock"
+    },
+    {
+      "hook": "Government's blind spot exposed",
+      "description": "Officials claim banned models enable attacks. Veterans argue blocking them leaves defenders without top AI tools.",
+      "visual_hint": "Shield with crack",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cracked shield",
+      "image": "https://images.pexels.com/photos/28430950/pexels-photo-28430950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Attackers win if defenders lose",
+      "description": "Best defensive AI gets banned. Only attackers keep access. Your company's security tools stay weak.",
+      "visual_hint": "Hacker silhouette vs shadow",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hacker silhouette",
+      "image": "https://images.pexels.com/photos/25785791/pexels-photo-25785791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Blindfolded in an arms race",
+      "description": "Banning AI blindfolds defenders. The real danger is falling behind in the cyber arms race.",
+      "visual_hint": "Eyes covered by code",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "face covered by code",
+      "image": "https://images.pexels.com/photos/5474040/pexels-photo-5474040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save: Test your red team now",
+      "description": "Run your own red team against a legally banned model. See if your defense is already obsolete.",
+      "visual_hint": "Keyboard with terminal",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "terminal keyboard",
+      "image": "https://images.pexels.com/photos/7172653/pexels-photo-7172653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/13115085/pexels-photo-13115085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-15T15:37:49.979Z",
+  "sourceId": "0a59211a2c978c48aa889293966aec35"
+}

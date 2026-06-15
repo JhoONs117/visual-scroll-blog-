@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "as-ai-agents-become-employees-newcore-emerges-with",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+  "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+  "pubDate": "Mon, 15 Jun 2026 13:00:00 +0000",
+  "slides": [
+    "What if your AI coworker has no legal identity?",
+    "NewCore just raised $66M to fix that gap.",
+    "They issue verifiable credentials for autonomous agents.",
+    "Now contracts signed by AIs can hold legal weight.",
+    "Your next hire might never have a human name."
+  ],
+  "thread_text": [
+    "1. What if your AI coworker has no legal identity?\n\nNewCore just raised $66M to fix that gap — they issue verifiable credentials for autonomous agents.",
+    "2. Contracts signed by AIs can now hold legal weight.\n\nThe credentials anchor agent actions to verifiable identities, making digital signatures enforceable under law.",
+    "3. Your next hire might never have a human name.\n\nCompanies are already testing agents that negotiate deals and execute contracts without a legal person behind them.",
+    "4. The $66M bet says this is coming fast.\n\nNewCore's funding round shows investors believe verifiable agent identities will become infrastructure, not an experiment.",
+    "5. Simulate one contract cycle with an AI agent this week.\n\nIf your current tools can't issue verifiable credentials, what happens when a counterparty demands them?"
+  ],
+  "video_script": [
+    "AI agents need legal identity.",
+    "NewCore raised 66 million dollars.",
+    "They issue verifiable agent credentials.",
+    "Contracts signed by AIs gain weight.",
+    "Your next hire might be an AI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if your AI coworker has no legal identity?\n\nNewCore just raised $66M to fix that gap — they issue verifiable credentials for autonomous agents.",
+        "2. Contracts signed by AIs can now hold legal weight.\n\nThe credentials anchor agent actions to verifiable identities, making digital signatures enforceable under law.",
+        "3. Your next hire might never have a human name.\n\nCompanies are already testing agents that negotiate deals and execute contracts without a legal person behind them.",
+        "4. The $66M bet says this is coming fast.\n\nNewCore's funding round shows investors believe verifiable agent identities will become infrastructure, not an experiment.",
+        "5. Simulate one contract cycle with an AI agent this week.\n\nIf your current tools can't issue verifiable credentials, what happens when a counterparty demands them?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI agents need legal identity.",
+        "NewCore raised 66 million dollars.",
+        "They issue verifiable agent credentials.",
+        "Contracts signed by AIs gain weight.",
+        "Your next hire might be an AI."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next AI coworker can now legally sign a contract in its own name. 🤖\n\nNewCore just raised $66M to issue verifiable IDs for autonomous agents—turning them into legal actors. 📄 Contracts signed by AIs can now hold legal weight, without a human behind them.\n\nThis changes hiring: companies are already testing agents that negotiate deals as themselves.\n\nIf your next hire has no human name, who ensures their credentials are backed by your business? 🔐"
+    }
+  },
+  "instagram_caption": "Your next AI coworker can now legally sign a contract in its own name. 🤖\n\nNewCore just raised $66M to issue verifiable IDs for autonomous agents—turning them into legal actors. 📄 Contracts signed by AIs can now hold legal weight, without a human behind them.\n\nThis changes hiring: companies are already testing agents that negotiate deals as themselves.\n\nIf your next hire has no human name, who ensures their credentials are backed by your business? 🔐",
+  "carousel_slides": [
+    {
+      "hook": "Your next hire isn't human.",
+      "description": "NewCore raised $66M to give AI agents legal identities with verifiable credentials.",
+      "visual_hint": "robot handshake contract",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot handshake"
+    },
+    {
+      "hook": "Who signs for an AI?",
+      "description": "Verifiable credentials let autonomous agents execute legally enforceable contracts.",
+      "visual_hint": "digital signature screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "digital signature",
+      "image": "https://images.pexels.com/photos/5904065/pexels-photo-5904065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Contracts signed by code.",
+      "description": "Agent actions anchor to verifiable identities, making digital signatures legally binding.",
+      "visual_hint": "blockchain chain link",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "blockchain chain",
+      "image": "https://images.pexels.com/photos/5698696/pexels-photo-5698696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "$66M bet on agent IDs.",
+      "description": "Investors believe verifiable agent identities become infrastructure, not just an experiment.",
+      "visual_hint": "stack of money",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stack of money",
+      "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test an AI contract now.",
+      "description": "Simulate one contract cycle with an AI agent this week — link in bio.",
+      "visual_hint": "click button arrow",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "click button",
+      "image": "https://images.pexels.com/photos/21562940/pexels-photo-21562940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/newcore-founders.jpg?resize=1200,800",
+  "savedAt": "2026-06-15T15:38:16.189Z",
+  "sourceId": "da4b5edf73d1134252a7504723ed332d"
+}

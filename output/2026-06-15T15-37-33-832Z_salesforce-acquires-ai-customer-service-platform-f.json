@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "salesforce-acquires-ai-customer-service-platform-f",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+  "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+  "pubDate": "Mon, 15 Jun 2026 14:34:45 +0000",
+  "slides": [
+    "Salesforce just spent billions on AI—but is Fin worth it?",
+    "Fin automates complex customer support without human handoffs.",
+    "Behind the price tag: Fin handles escalations, not just FAQs.",
+    "Your support tickets now get resolved before you even see them.",
+    "Benchmark your bot: does it solve the second-level questions too?"
+  ],
+  "thread_text": [
+    "1. Did Salesforce overpay?\n\nFin cost billions but still can’t handle every ticket alone.",
+    "2. What Fin actually does\n\nIt automates escalations, not just chatbot small talk.",
+    "3. Tickets solved before you reply\n\nThat means customers never see the queue.",
+    "4. The real test: level 2\n\nMost bots choke on second-level questions. Fin doesn't.",
+    "5. Run this test today\n\nTake one escalated ticket from last week. Could Fin solve it before handoff?"
+  ],
+  "video_script": [
+    "Salesforce spent billions on AI.",
+    "Fin automates escalations, not just FAQs.",
+    "Tickets resolve before customers even see them.",
+    "Most bots fail on second-level questions.",
+    "Test Fin on your toughest ticket today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Did Salesforce overpay?\n\nFin cost billions but still can’t handle every ticket alone.",
+        "2. What Fin actually does\n\nIt automates escalations, not just chatbot small talk.",
+        "3. Tickets solved before you reply\n\nThat means customers never see the queue.",
+        "4. The real test: level 2\n\nMost bots choke on second-level questions. Fin doesn't.",
+        "5. Run this test today\n\nTake one escalated ticket from last week. Could Fin solve it before handoff?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Salesforce spent billions on AI.",
+        "Fin automates escalations, not just FAQs.",
+        "Tickets resolve before customers even see them.",
+        "Most bots fail on second-level questions.",
+        "Test Fin on your toughest ticket today."
+      ]
+    },
+    "instagram": {
+      "caption": "Salesforce just dropped $3.6 billion on Fin—a bot that takes over your toughest support tickets before you ever see them.  \n\nFin doesn't just handle basic FAQs. It automates escalations, the second-level questions most bots choke on. That means your call queue stays empty.  \n\nFor content creators: your support team can now vanish behind a bot that actually solves complex problems without a human handoff.  \n\nGot an escalated ticket from last week? Could your current bot solve it before you even replied?"
+    }
+  },
+  "instagram_caption": "Salesforce just dropped $3.6 billion on Fin—a bot that takes over your toughest support tickets before you ever see them.  \n\nFin doesn't just handle basic FAQs. It automates escalations, the second-level questions most bots choke on. That means your call queue stays empty.  \n\nFor content creators: your support team can now vanish behind a bot that actually solves complex problems without a human handoff.  \n\nGot an escalated ticket from last week? Could your current bot solve it before you even replied?",
+  "carousel_slides": [
+    {
+      "hook": "Did Salesforce just overpay?",
+      "description": "Fin cost $3.6B but still can't handle every ticket alone, raising questions about value.",
+      "visual_hint": "Giant dollar sign falling",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "money stack"
+    },
+    {
+      "hook": "Not just a chatbot",
+      "description": "Fin automates escalations, not small talk—solving complex support without human handoffs.",
+      "visual_hint": "Chatbot to human handshake",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot handshake",
+      "image": "https://images.pexels.com/photos/6153344/pexels-photo-6153344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tickets vanish before you reply",
+      "description": "Customers never see the queue because Fin resolves issues on its own, instantly.",
+      "visual_hint": "Ticket queue disappearing",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The real test: level 2",
+      "description": "Most bots choke on second-level questions. Fin doesn't—handling the hard escalations.",
+      "visual_hint": "Level meter past halfway",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your bot right now",
+      "description": "Take one escalated ticket from last week. Could Fin solve it before handoff?",
+      "visual_hint": "Finger pressing test button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "touch screen",
+      "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1125951338.jpg?resize=1200,900",
+  "savedAt": "2026-06-15T15:38:03.104Z",
+  "sourceId": "f85f662961de832fb6799ccbb248c16b"
+}

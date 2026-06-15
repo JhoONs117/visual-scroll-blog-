@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "as-ai-agents-become-employees-newcore-emerges-with",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+    "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+    "pubDate": "Mon, 15 Jun 2026 13:00:00 +0000",
+    "slides": [
+      "What if your AI coworker has no legal identity?",
+      "NewCore just raised $66M to fix that gap.",
+      "They issue verifiable credentials for autonomous agents.",
+      "Now contracts signed by AIs can hold legal weight.",
+      "Your next hire might never have a human name."
+    ],
+    "thread_text": [
+      "1. What if your AI coworker has no legal identity?\n\nNewCore just raised $66M to fix that gap — they issue verifiable credentials for autonomous agents.",
+      "2. Contracts signed by AIs can now hold legal weight.\n\nThe credentials anchor agent actions to verifiable identities, making digital signatures enforceable under law.",
+      "3. Your next hire might never have a human name.\n\nCompanies are already testing agents that negotiate deals and execute contracts without a legal person behind them.",
+      "4. The $66M bet says this is coming fast.\n\nNewCore's funding round shows investors believe verifiable agent identities will become infrastructure, not an experiment.",
+      "5. Simulate one contract cycle with an AI agent this week.\n\nIf your current tools can't issue verifiable credentials, what happens when a counterparty demands them?"
+    ],
+    "video_script": [
+      "AI agents need legal identity.",
+      "NewCore raised 66 million dollars.",
+      "They issue verifiable agent credentials.",
+      "Contracts signed by AIs gain weight.",
+      "Your next hire might be an AI."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What if your AI coworker has no legal identity?\n\nNewCore just raised $66M to fix that gap — they issue verifiable credentials for autonomous agents.",
+          "2. Contracts signed by AIs can now hold legal weight.\n\nThe credentials anchor agent actions to verifiable identities, making digital signatures enforceable under law.",
+          "3. Your next hire might never have a human name.\n\nCompanies are already testing agents that negotiate deals and execute contracts without a legal person behind them.",
+          "4. The $66M bet says this is coming fast.\n\nNewCore's funding round shows investors believe verifiable agent identities will become infrastructure, not an experiment.",
+          "5. Simulate one contract cycle with an AI agent this week.\n\nIf your current tools can't issue verifiable credentials, what happens when a counterparty demands them?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI agents need legal identity.",
+          "NewCore raised 66 million dollars.",
+          "They issue verifiable agent credentials.",
+          "Contracts signed by AIs gain weight.",
+          "Your next hire might be an AI."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next AI coworker can now legally sign a contract in its own name. 🤖\n\nNewCore just raised $66M to issue verifiable IDs for autonomous agents—turning them into legal actors. 📄 Contracts signed by AIs can now hold legal weight, without a human behind them.\n\nThis changes hiring: companies are already testing agents that negotiate deals as themselves.\n\nIf your next hire has no human name, who ensures their credentials are backed by your business? 🔐"
+      }
+    },
+    "instagram_caption": "Your next AI coworker can now legally sign a contract in its own name. 🤖\n\nNewCore just raised $66M to issue verifiable IDs for autonomous agents—turning them into legal actors. 📄 Contracts signed by AIs can now hold legal weight, without a human behind them.\n\nThis changes hiring: companies are already testing agents that negotiate deals as themselves.\n\nIf your next hire has no human name, who ensures their credentials are backed by your business? 🔐",
+    "carousel_slides": [
+      {
+        "hook": "Your next hire isn't human.",
+        "description": "NewCore raised $66M to give AI agents legal identities with verifiable credentials.",
+        "visual_hint": "robot handshake contract",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot handshake"
+      },
+      {
+        "hook": "Who signs for an AI?",
+        "description": "Verifiable credentials let autonomous agents execute legally enforceable contracts.",
+        "visual_hint": "digital signature screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "digital signature",
+        "image": "https://images.pexels.com/photos/5904065/pexels-photo-5904065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Contracts signed by code.",
+        "description": "Agent actions anchor to verifiable identities, making digital signatures legally binding.",
+        "visual_hint": "blockchain chain link",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "blockchain chain",
+        "image": "https://images.pexels.com/photos/5698696/pexels-photo-5698696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "$66M bet on agent IDs.",
+        "description": "Investors believe verifiable agent identities become infrastructure, not just an experiment.",
+        "visual_hint": "stack of money",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stack of money",
+        "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test an AI contract now.",
+        "description": "Simulate one contract cycle with an AI agent this week — link in bio.",
+        "visual_hint": "click button arrow",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "click button",
+        "image": "https://images.pexels.com/photos/21562940/pexels-photo-21562940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/newcore-founders.jpg?resize=1200,800",
+    "savedAt": "2026-06-15T15:38:16.189Z",
+    "sourceId": "da4b5edf73d1134252a7504723ed332d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "salesforce-acquires-ai-customer-service-platform-f",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+    "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+    "pubDate": "Mon, 15 Jun 2026 14:34:45 +0000",
+    "slides": [
+      "Salesforce just spent billions on AI—but is Fin worth it?",
+      "Fin automates complex customer support without human handoffs.",
+      "Behind the price tag: Fin handles escalations, not just FAQs.",
+      "Your support tickets now get resolved before you even see them.",
+      "Benchmark your bot: does it solve the second-level questions too?"
+    ],
+    "thread_text": [
+      "1. Did Salesforce overpay?\n\nFin cost billions but still can’t handle every ticket alone.",
+      "2. What Fin actually does\n\nIt automates escalations, not just chatbot small talk.",
+      "3. Tickets solved before you reply\n\nThat means customers never see the queue.",
+      "4. The real test: level 2\n\nMost bots choke on second-level questions. Fin doesn't.",
+      "5. Run this test today\n\nTake one escalated ticket from last week. Could Fin solve it before handoff?"
+    ],
+    "video_script": [
+      "Salesforce spent billions on AI.",
+      "Fin automates escalations, not just FAQs.",
+      "Tickets resolve before customers even see them.",
+      "Most bots fail on second-level questions.",
+      "Test Fin on your toughest ticket today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Did Salesforce overpay?\n\nFin cost billions but still can’t handle every ticket alone.",
+          "2. What Fin actually does\n\nIt automates escalations, not just chatbot small talk.",
+          "3. Tickets solved before you reply\n\nThat means customers never see the queue.",
+          "4. The real test: level 2\n\nMost bots choke on second-level questions. Fin doesn't.",
+          "5. Run this test today\n\nTake one escalated ticket from last week. Could Fin solve it before handoff?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Salesforce spent billions on AI.",
+          "Fin automates escalations, not just FAQs.",
+          "Tickets resolve before customers even see them.",
+          "Most bots fail on second-level questions.",
+          "Test Fin on your toughest ticket today."
+        ]
+      },
+      "instagram": {
+        "caption": "Salesforce just dropped $3.6 billion on Fin—a bot that takes over your toughest support tickets before you ever see them.  \n\nFin doesn't just handle basic FAQs. It automates escalations, the second-level questions most bots choke on. That means your call queue stays empty.  \n\nFor content creators: your support team can now vanish behind a bot that actually solves complex problems without a human handoff.  \n\nGot an escalated ticket from last week? Could your current bot solve it before you even replied?"
+      }
+    },
+    "instagram_caption": "Salesforce just dropped $3.6 billion on Fin—a bot that takes over your toughest support tickets before you ever see them.  \n\nFin doesn't just handle basic FAQs. It automates escalations, the second-level questions most bots choke on. That means your call queue stays empty.  \n\nFor content creators: your support team can now vanish behind a bot that actually solves complex problems without a human handoff.  \n\nGot an escalated ticket from last week? Could your current bot solve it before you even replied?",
+    "carousel_slides": [
+      {
+        "hook": "Did Salesforce just overpay?",
+        "description": "Fin cost $3.6B but still can't handle every ticket alone, raising questions about value.",
+        "visual_hint": "Giant dollar sign falling",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "money stack"
+      },
+      {
+        "hook": "Not just a chatbot",
+        "description": "Fin automates escalations, not small talk—solving complex support without human handoffs.",
+        "visual_hint": "Chatbot to human handshake",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot handshake",
+        "image": "https://images.pexels.com/photos/6153344/pexels-photo-6153344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Tickets vanish before you reply",
+        "description": "Customers never see the queue because Fin resolves issues on its own, instantly.",
+        "visual_hint": "Ticket queue disappearing",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The real test: level 2",
+        "description": "Most bots choke on second-level questions. Fin doesn't—handling the hard escalations.",
+        "visual_hint": "Level meter past halfway",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your bot right now",
+        "description": "Take one escalated ticket from last week. Could Fin solve it before handoff?",
+        "visual_hint": "Finger pressing test button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "touch screen",
+        "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1125951338.jpg?resize=1200,900",
+    "savedAt": "2026-06-15T15:38:03.104Z",
+    "sourceId": "f85f662961de832fb6799ccbb248c16b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "cybersecurity-vets-protest-dangerous-us-government",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+    "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+    "pubDate": "Mon, 15 Jun 2026 15:29:51 +0000",
+    "slides": [
+      "Who is really threatened by Anthropic’s banned AI models?",
+      "US government claims the models enable cyberattacks.",
+      "But security veterans say the ban itself is dangerous.",
+      "Your company may lose access to the best defenses.",
+      "Test your own red team against what is still legal."
+    ],
+    "thread_text": [
+      "1. Who holds the real risk?\n\nThe US bans models that help cyberattacks—but blocking them may leave your company without the best AI defenses.",
+      "2. The government's hidden assumption.\n\nOfficials claim these models enable attacks. Veterans argue the ban itself creates new vulnerabilities.",
+      "3. Your company gets left behind.\n\nIf the best defensive AI is banned, only attackers will have access. Your security tools stay weak.",
+      "4. What you can't see hurts more.\n\nSecurity experts warn that banning AI blindfolds defenders. The real threat is losing the arms race.",
+      "5. Test what's still legal today.\n\nRun your own red team against a banned model. Can you spot the difference? If not, your defense is already obsolete."
+    ],
+    "video_script": [
+      "Anthropic's banned models may shield attackers.",
+      "The government says they enable cyber threats.",
+      "Veterans say the ban risks your defense.",
+      "Your company could lose top AI protection.",
+      "Test your red team on legal models now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who holds the real risk?\n\nThe US bans models that help cyberattacks—but blocking them may leave your company without the best AI defenses.",
+          "2. The government's hidden assumption.\n\nOfficials claim these models enable attacks. Veterans argue the ban itself creates new vulnerabilities.",
+          "3. Your company gets left behind.\n\nIf the best defensive AI is banned, only attackers will have access. Your security tools stay weak.",
+          "4. What you can't see hurts more.\n\nSecurity experts warn that banning AI blindfolds defenders. The real threat is losing the arms race.",
+          "5. Test what's still legal today.\n\nRun your own red team against a banned model. Can you spot the difference? If not, your defense is already obsolete."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Anthropic's banned models may shield attackers.",
+          "The government says they enable cyber threats.",
+          "Veterans say the ban risks your defense.",
+          "Your company could lose top AI protection.",
+          "Test your red team on legal models now."
+        ]
+      },
+      "instagram": {
+        "caption": "Your company's security tools are about to get weaker—because the US just banned Anthropic's best AI models, claiming they enable cyberattacks. 🛡️\n\nCybersecurity veterans with decades of experience say the ban itself is more dangerous than what it blocks. 🚨\n\nThe government’s hidden assumption: restricting defense tools leaves defenders blind while attackers still exploit whatever they can find.\n\nIf you run security or use any online service, your defenses just lost access to cutting-edge AI that could stop attacks before they happen.\n\nRun your own red team against the models that are still legal today ⚡—can you tell if your protection just got slower?"
+      }
+    },
+    "instagram_caption": "Your company's security tools are about to get weaker—because the US just banned Anthropic's best AI models, claiming they enable cyberattacks. 🛡️\n\nCybersecurity veterans with decades of experience say the ban itself is more dangerous than what it blocks. 🚨\n\nThe government’s hidden assumption: restricting defense tools leaves defenders blind while attackers still exploit whatever they can find.\n\nIf you run security or use any online service, your defenses just lost access to cutting-edge AI that could stop attacks before they happen.\n\nRun your own red team against the models that are still legal today ⚡—can you tell if your protection just got slower?",
+    "carousel_slides": [
+      {
+        "hook": "Is banning AI the real threat?",
+        "description": "US bans AI models allegedly aiding cyberattacks. Security veterans warn the ban itself creates dangerous vulnerabilities.",
+        "visual_hint": "Lock with broken chain",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "broken lock"
+      },
+      {
+        "hook": "Government's blind spot exposed",
+        "description": "Officials claim banned models enable attacks. Veterans argue blocking them leaves defenders without top AI tools.",
+        "visual_hint": "Shield with crack",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "cracked shield",
+        "image": "https://images.pexels.com/photos/28430950/pexels-photo-28430950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Attackers win if defenders lose",
+        "description": "Best defensive AI gets banned. Only attackers keep access. Your company's security tools stay weak.",
+        "visual_hint": "Hacker silhouette vs shadow",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "hacker silhouette",
+        "image": "https://images.pexels.com/photos/25785791/pexels-photo-25785791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Blindfolded in an arms race",
+        "description": "Banning AI blindfolds defenders. The real danger is falling behind in the cyber arms race.",
+        "visual_hint": "Eyes covered by code",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "face covered by code",
+        "image": "https://images.pexels.com/photos/5474040/pexels-photo-5474040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save: Test your red team now",
+        "description": "Run your own red team against a legally banned model. See if your defense is already obsolete.",
+        "visual_hint": "Keyboard with terminal",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "terminal keyboard",
+        "image": "https://images.pexels.com/photos/7172653/pexels-photo-7172653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/13115085/pexels-photo-13115085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-15T15:37:49.979Z",
+    "sourceId": "0a59211a2c978c48aa889293966aec35"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-ai-layoff-wave-is-becoming-a-powder-keg",
     "prompt_version": "1.0.0",
     "status": "published",
