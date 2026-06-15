@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ai-layoff-wave-is-becoming-a-powder-keg",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The AI layoff wave is becoming a powder keg",
+  "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+  "pubDate": "Mon, 15 Jun 2026 07:25:41 +0000",
+  "slides": [
+    "Why are layoffs suddenly accelerating in AI firms?",
+    "Investors demand profits over headcount growth this quarter.",
+    "Yet those same cuts are killing internal innovation pipelines.",
+    "Your team's best projects now depend on surviving colleagues.",
+    "Protect your domain knowledge before the next round hits."
+  ],
+  "thread_text": [
+    "1. The innovation trap\n\nAI firms slashed R&D teams by 20% this quarter to please shareholders.",
+    "2. Profits first, ideas last\n\nInvestor pressure is forcing CEOs to choose between next quarter's earnings and next year's breakthrough.",
+    "3. The brain drain effect\n\nEvery layoff removes not just people but the informal knowledge that powered your best projects.",
+    "4. Survivors carry the load\n\nYour AI model's success now depends on overworked colleagues who learned from those let go.",
+    "5. Map your expertise today\n\nList the undocumented workflows only you know. If you leave, your team loses them.",
+    ""
+  ],
+  "video_script": [
+    "Layoffs speed up. Innovation dies.",
+    "Investors want profits, not people.",
+    "Cuts kill internal knowledge pipelines.",
+    "Top projects rely on survivors.",
+    "Protect your knowledge before next round."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The innovation trap\n\nAI firms slashed R&D teams by 20% this quarter to please shareholders.",
+        "2. Profits first, ideas last\n\nInvestor pressure is forcing CEOs to choose between next quarter's earnings and next year's breakthrough.",
+        "3. The brain drain effect\n\nEvery layoff removes not just people but the informal knowledge that powered your best projects.",
+        "4. Survivors carry the load\n\nYour AI model's success now depends on overworked colleagues who learned from those let go.",
+        "5. Map your expertise today\n\nList the undocumented workflows only you know. If you leave, your team loses them.",
+        ""
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Layoffs speed up. Innovation dies.",
+        "Investors want profits, not people.",
+        "Cuts kill internal knowledge pipelines.",
+        "Top projects rely on survivors.",
+        "Protect your knowledge before next round."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI team just got cut by 20% this quarter—and the same executives demanding those cuts also expect you to ship your next breakthrough.\n\nProfit pressure from investors is forcing CEOs to pick between this quarter's earnings and next year's innovation. Every layoff removes the undocumented shortcuts, failed experiments, and domain knowledge your best projects were built on.\n\nIf you're still on payroll, your success now relies on overworked colleagues forced to carry what the let-go team knew.\n\nWhat undocumented workflow or insight exists only in your head right now—and what happens when you're the one let go next?"
+    }
+  },
+  "instagram_caption": "Your AI team just got cut by 20% this quarter—and the same executives demanding those cuts also expect you to ship your next breakthrough.\n\nProfit pressure from investors is forcing CEOs to pick between this quarter's earnings and next year's innovation. Every layoff removes the undocumented shortcuts, failed experiments, and domain knowledge your best projects were built on.\n\nIf you're still on payroll, your success now relies on overworked colleagues forced to carry what the let-go team knew.\n\nWhat undocumented workflow or insight exists only in your head right now—and what happens when you're the one let go next?",
+  "carousel_slides": [
+    {
+      "hook": "Your best projects just died.",
+      "description": "AI firms cut R&D teams by 20%, sacrificing future breakthroughs for quarterly profits.",
+      "visual_hint": "Smoldering pile of papers",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "burning documents"
+    },
+    {
+      "hook": "Profits now, ideas never.",
+      "description": "Investor pressure forces CEOs to choose between next quarter's earnings and next year's innovation.",
+      "visual_hint": "Scale tipping toward money",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "balance scale coins",
+      "image": "https://images.pexels.com/photos/7472644/pexels-photo-7472644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Layoffs kill what isn't written.",
+      "description": "Each cut removes informal knowledge that powered your best AI projects.",
+      "visual_hint": "Empty chair in lab",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "empty office chair",
+      "image": "https://images.pexels.com/photos/5824540/pexels-photo-5824540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Survivors carry the dead weight.",
+      "description": "Your model's success now depends on overworked colleagues who learned from those let go.",
+      "visual_hint": "Teammate carrying heavy box",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers overloaded",
+      "image": "https://images.pexels.com/photos/6538613/pexels-photo-6538613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save your hidden knowledge now.",
+      "description": "Document the undocumented workflows only you know—your team loses them if you leave.",
+      "visual_hint": "Pen writing on sticky note",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "notebook pen",
+      "image": "https://images.pexels.com/photos/5594317/pexels-photo-5594317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Powder-Keg.png?resize=1200,960",
+  "savedAt": "2026-06-15T09:53:01.075Z",
+  "sourceId": "0340f2ccb5a1c2fea9794f708069d35d"
+}
