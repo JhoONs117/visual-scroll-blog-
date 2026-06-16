@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-s-new-ai-mode-on-facebook-pulls-from-public-i",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+  "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+  "pubDate": "Mon, 15 Jun 2026 18:30:58 +0000",
+  "slides": [
+    "Meta's AI Mode scans your public posts—what will it find?",
+    "It pulls data from Facebook, Instagram, and Threads together.",
+    "You can't see what the AI learned about you anywhere.",
+    "Your old vacation photos might shape product recommendations.",
+    "Check your privacy settings now before it updates again."
+  ],
+  "thread_text": [
+    "1. Your data, their AI\n\nMeta's AI mode already scans your public posts across Instagram and Threads — whether you opted in or not.",
+    "2. No transparency\n\nThere is no dashboard to see what the AI learned from your vacation photos or old comments.",
+    "3. Old photos, new ads\n\nThat beach photo from 2019 could be why you're seeing luggage recommendations now.",
+    "4. Cross-platform mining\n\nThe AI pulls from Facebook, Instagram, and Threads together — a single profile built from everything you shared.",
+    "5. Lock it down today\n\nGo to your privacy settings now and turn off cross-platform data sharing before the next update rolls out."
+  ],
+  "video_script": [
+    "Meta's AI scans your public posts right now.",
+    "It pulls data from Instagram, Facebook, and Threads.",
+    "You cannot see what it learned about you.",
+    "Your old vacation photos shape product recommendations.",
+    "Check your privacy settings before the next update."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your data, their AI\n\nMeta's AI mode already scans your public posts across Instagram and Threads — whether you opted in or not.",
+        "2. No transparency\n\nThere is no dashboard to see what the AI learned from your vacation photos or old comments.",
+        "3. Old photos, new ads\n\nThat beach photo from 2019 could be why you're seeing luggage recommendations now.",
+        "4. Cross-platform mining\n\nThe AI pulls from Facebook, Instagram, and Threads together — a single profile built from everything you shared.",
+        "5. Lock it down today\n\nGo to your privacy settings now and turn off cross-platform data sharing before the next update rolls out."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's AI scans your public posts right now.",
+        "It pulls data from Instagram, Facebook, and Threads.",
+        "You cannot see what it learned about you.",
+        "Your old vacation photos shape product recommendations.",
+        "Check your privacy settings before the next update."
+      ]
+    },
+    "instagram": {
+      "caption": "Your public Instagram vacation photos are already feeding Meta’s AI — even if you never agreed to it.  \n\nThe system scrapes your posts across Facebook, Instagram, and Threads to build a single profile. No dashboard exists to show what it learned from your old comments or photos.  \n\nThat beach pic from 2019 could now shape the luggage ads you see.  \n\nIf you create content, your shared work is silently training product recommendations across platforms. 🔍  \n\nHop into your privacy settings today—turn off cross‑platform data sharing before the next update locks it in. What’s the oldest post the AI might be using right now?"
+    }
+  },
+  "instagram_caption": "Your public Instagram vacation photos are already feeding Meta’s AI — even if you never agreed to it.  \n\nThe system scrapes your posts across Facebook, Instagram, and Threads to build a single profile. No dashboard exists to show what it learned from your old comments or photos.  \n\nThat beach pic from 2019 could now shape the luggage ads you see.  \n\nIf you create content, your shared work is silently training product recommendations across platforms. 🔍  \n\nHop into your privacy settings today—turn off cross‑platform data sharing before the next update locks it in. What’s the oldest post the AI might be using right now?",
+  "carousel_slides": [
+    {
+      "hook": "Your data fuels their AI",
+      "description": "Meta's AI Mode scans your public posts on Facebook, Instagram, and Threads—even without your opt-in.",
+      "visual_hint": "Magnifying glass on phone screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "social media icons"
+    },
+    {
+      "hook": "No transparency, no control",
+      "description": "There is no dashboard to see what the AI learned from your old photos or comments.",
+      "visual_hint": "Blank settings screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone settings menu",
+      "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your beach photo triggers ads",
+      "description": "That 2019 vacation picture could be why you now see luggage recommendations.",
+      "visual_hint": "Old phone photo gallery",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "beach vacation photo",
+      "image": "https://images.pexels.com/photos/24837089/pexels-photo-24837089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They build one profile from all apps",
+      "description": "The AI pulls from Facebook, Instagram, and Threads together—a single profile from everything you shared.",
+      "visual_hint": "Interlinked app icons",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Lock it down before the next update",
+      "description": "Go to your privacy settings now and turn off cross-platform data sharing.",
+      "visual_hint": "Privacy lock icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "privacy settings toggle",
+      "image": "https://images.pexels.com/photos/37592338/pexels-photo-37592338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2152655816.jpg?w=1024",
+  "savedAt": "2026-06-16T02:54:40.336Z",
+  "sourceId": "a3f67405a75385de5e9cf04623a16b9f"
+}

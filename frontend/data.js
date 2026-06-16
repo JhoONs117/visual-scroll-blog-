@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "big-tech-s-desperate-last-push-at-ai-regulation",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Big Tech’s desperate last push at AI regulation",
+    "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+    "pubDate": "2026-06-15T17:44:10.000Z",
+    "slides": [
+      "Why is Big Tech suddenly begging for AI rules?",
+      "They once lobbied fiercely against any oversight.",
+      "Now they fear a smaller rival's open-source model.",
+      "Regulation could lock out new competitors entirely.",
+      "Watch which loopholes they carve for themselves this year."
+    ],
+    "thread_text": [
+      "1. Begging for rules?\n\nBig Tech spent millions lobbying against AI oversight until a small rival’s open-source model surpassed their own.",
+      "2. The sudden switch.\n\nThey now claim regulation protects safety—but their real target is freezing out the newcomer who gave the code away.",
+      "3. Lock-out strategy.\n\nStrict compliance costs hit small startups first. The giants already have legal teams ready.",
+      "4. Loophole carving.\n\nWatch which exceptions they insert this year—self-certification, “research” exemptions, or grandfather clauses for existing models.",
+      "5. Your move.\n\nTry an open-source model on your own device today. Do you trust the giants’ rules or your own test?"
+    ],
+    "video_script": [
+      "Big Tech begged for AI rules.",
+      "They fought oversight for years.",
+      "Now they fear a small rival.",
+      "Regulation can lock out startups.",
+      "Watch the loopholes they carve."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Begging for rules?\n\nBig Tech spent millions lobbying against AI oversight until a small rival’s open-source model surpassed their own.",
+          "2. The sudden switch.\n\nThey now claim regulation protects safety—but their real target is freezing out the newcomer who gave the code away.",
+          "3. Lock-out strategy.\n\nStrict compliance costs hit small startups first. The giants already have legal teams ready.",
+          "4. Loophole carving.\n\nWatch which exceptions they insert this year—self-certification, “research” exemptions, or grandfather clauses for existing models.",
+          "5. Your move.\n\nTry an open-source model on your own device today. Do you trust the giants’ rules or your own test?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Big Tech begged for AI rules.",
+          "They fought oversight for years.",
+          "Now they fear a small rival.",
+          "Regulation can lock out startups.",
+          "Watch the loopholes they carve."
+        ]
+      },
+      "instagram": {
+        "caption": "A tiny startup gave away an AI model that beat the tech giants’ best—for free. 🚨\n\nThe billion-dollar firms now beg for “safety” regulation. They spent millions fighting oversight until an open-source rival hurt their bottom line. Strict rules crush small teams first. The giants have armies of lawyers ready.\n\nIf you create with AI, your tools could lock up: paywalls, licensing fees, or a ban on the open model you used yesterday. 🔒\n\nDid the startup who gave the code away, or the billionaires begging for rules, just earn your trust?"
+      }
+    },
+    "instagram_caption": "A tiny startup gave away an AI model that beat the tech giants’ best—for free. 🚨\n\nThe billion-dollar firms now beg for “safety” regulation. They spent millions fighting oversight until an open-source rival hurt their bottom line. Strict rules crush small teams first. The giants have armies of lawyers ready.\n\nIf you create with AI, your tools could lock up: paywalls, licensing fees, or a ban on the open model you used yesterday. 🔒\n\nDid the startup who gave the code away, or the billionaires begging for rules, just earn your trust?",
+    "carousel_slides": [
+      {
+        "hook": "They begged for rules yesterday.",
+        "description": "Big Tech lobbied against AI oversight until an open-source rival surpassed their models.",
+        "visual_hint": "lobbyists storming capitol",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "lobbyist corridor building"
+      },
+      {
+        "hook": "Safety is just a smokescreen.",
+        "description": "Their real aim is freezing out the newcomer who gave the code away for free.",
+        "visual_hint": "open-source code on screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "code on monitor",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Regulation kills startups first.",
+        "description": "Strict compliance costs hit small teams hard; giants already have legal armies ready.",
+        "visual_hint": "small startup office contrast",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "startup office desk",
+        "image": "https://images.pexels.com/photos/8297862/pexels-photo-8297862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Watch the loopholes they write.",
+        "description": "Self-certification and grandfather clauses could exempt their existing models from new rules.",
+        "visual_hint": "legal document redacted",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "law book gavel",
+        "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try open-source AI today.",
+        "description": "Run a model on your own device and decide if you trust their rules or your own test.",
+        "visual_hint": "phone running AI app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone AI app",
+        "image": "https://images.pexels.com/photos/30530421/pexels-photo-30530421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2163958194.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-16T02:55:10.209Z",
+    "sourceId": "35ea195782a7f878c5053b911e19e4da"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-s-new-ai-mode-on-facebook-pulls-from-public-i",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+    "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "pubDate": "Mon, 15 Jun 2026 18:30:58 +0000",
+    "slides": [
+      "Meta's AI Mode scans your public posts—what will it find?",
+      "It pulls data from Facebook, Instagram, and Threads together.",
+      "You can't see what the AI learned about you anywhere.",
+      "Your old vacation photos might shape product recommendations.",
+      "Check your privacy settings now before it updates again."
+    ],
+    "thread_text": [
+      "1. Your data, their AI\n\nMeta's AI mode already scans your public posts across Instagram and Threads — whether you opted in or not.",
+      "2. No transparency\n\nThere is no dashboard to see what the AI learned from your vacation photos or old comments.",
+      "3. Old photos, new ads\n\nThat beach photo from 2019 could be why you're seeing luggage recommendations now.",
+      "4. Cross-platform mining\n\nThe AI pulls from Facebook, Instagram, and Threads together — a single profile built from everything you shared.",
+      "5. Lock it down today\n\nGo to your privacy settings now and turn off cross-platform data sharing before the next update rolls out."
+    ],
+    "video_script": [
+      "Meta's AI scans your public posts right now.",
+      "It pulls data from Instagram, Facebook, and Threads.",
+      "You cannot see what it learned about you.",
+      "Your old vacation photos shape product recommendations.",
+      "Check your privacy settings before the next update."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your data, their AI\n\nMeta's AI mode already scans your public posts across Instagram and Threads — whether you opted in or not.",
+          "2. No transparency\n\nThere is no dashboard to see what the AI learned from your vacation photos or old comments.",
+          "3. Old photos, new ads\n\nThat beach photo from 2019 could be why you're seeing luggage recommendations now.",
+          "4. Cross-platform mining\n\nThe AI pulls from Facebook, Instagram, and Threads together — a single profile built from everything you shared.",
+          "5. Lock it down today\n\nGo to your privacy settings now and turn off cross-platform data sharing before the next update rolls out."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta's AI scans your public posts right now.",
+          "It pulls data from Instagram, Facebook, and Threads.",
+          "You cannot see what it learned about you.",
+          "Your old vacation photos shape product recommendations.",
+          "Check your privacy settings before the next update."
+        ]
+      },
+      "instagram": {
+        "caption": "Your public Instagram vacation photos are already feeding Meta’s AI — even if you never agreed to it.  \n\nThe system scrapes your posts across Facebook, Instagram, and Threads to build a single profile. No dashboard exists to show what it learned from your old comments or photos.  \n\nThat beach pic from 2019 could now shape the luggage ads you see.  \n\nIf you create content, your shared work is silently training product recommendations across platforms. 🔍  \n\nHop into your privacy settings today—turn off cross‑platform data sharing before the next update locks it in. What’s the oldest post the AI might be using right now?"
+      }
+    },
+    "instagram_caption": "Your public Instagram vacation photos are already feeding Meta’s AI — even if you never agreed to it.  \n\nThe system scrapes your posts across Facebook, Instagram, and Threads to build a single profile. No dashboard exists to show what it learned from your old comments or photos.  \n\nThat beach pic from 2019 could now shape the luggage ads you see.  \n\nIf you create content, your shared work is silently training product recommendations across platforms. 🔍  \n\nHop into your privacy settings today—turn off cross‑platform data sharing before the next update locks it in. What’s the oldest post the AI might be using right now?",
+    "carousel_slides": [
+      {
+        "hook": "Your data fuels their AI",
+        "description": "Meta's AI Mode scans your public posts on Facebook, Instagram, and Threads—even without your opt-in.",
+        "visual_hint": "Magnifying glass on phone screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "social media icons"
+      },
+      {
+        "hook": "No transparency, no control",
+        "description": "There is no dashboard to see what the AI learned from your old photos or comments.",
+        "visual_hint": "Blank settings screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone settings menu",
+        "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your beach photo triggers ads",
+        "description": "That 2019 vacation picture could be why you now see luggage recommendations.",
+        "visual_hint": "Old phone photo gallery",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "beach vacation photo",
+        "image": "https://images.pexels.com/photos/24837089/pexels-photo-24837089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "They build one profile from all apps",
+        "description": "The AI pulls from Facebook, Instagram, and Threads together—a single profile from everything you shared.",
+        "visual_hint": "Interlinked app icons",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Lock it down before the next update",
+        "description": "Go to your privacy settings now and turn off cross-platform data sharing.",
+        "visual_hint": "Privacy lock icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "privacy settings toggle",
+        "image": "https://images.pexels.com/photos/37592338/pexels-photo-37592338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2152655816.jpg?w=1024",
+    "savedAt": "2026-06-16T02:54:40.336Z",
+    "sourceId": "a3f67405a75385de5e9cf04623a16b9f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "the-us-government-s-anthropic-models-ban-was-never",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+    "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "pubDate": "Mon, 15 Jun 2026 21:50:21 +0000",
+    "slides": [
+      "Was the Anthropic ban really about jailbreak security?",
+      "It looks like a routine safety violation response.",
+      "But the real trigger was a geopolitical contract clause.",
+      "Now your compliance checks must include export rules.",
+      "Audit your AI usage terms for hidden government conditions."
+    ],
+    "thread_text": [
+      "1. Was the ban really about jailbreak?\n\nThe clause hidden in the fine print targets a specific country's AI export restrictions.",
+      "2. The official statement cited safety.\n\nBut the internal memo pointed to a contract clause tied to foreign government compliance.",
+      "3. Here's the twist: that clause is bidirectional.\n\nIt lets the government demand audits of your AI usage terms too.",
+      "4. Your current compliance checks likely skip export rules.\n\nOne oversight could trigger a sudden service cutoff.",
+      "5. Audit your AI terms for hidden government conditions today.\n\nRun a sample prompt through your own compliance filter—does it catch export violations?"
+    ],
+    "video_script": [
+      "The ban wasn't about jailbreak. It was geopolitical.",
+      "Safety was the public reason. Contract clauses were real.",
+      "That clause lets governments audit your AI terms.",
+      "Your compliance likely misses export rules entirely.",
+      "Audit your AI terms now. Test with a sample."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Was the ban really about jailbreak?\n\nThe clause hidden in the fine print targets a specific country's AI export restrictions.",
+          "2. The official statement cited safety.\n\nBut the internal memo pointed to a contract clause tied to foreign government compliance.",
+          "3. Here's the twist: that clause is bidirectional.\n\nIt lets the government demand audits of your AI usage terms too.",
+          "4. Your current compliance checks likely skip export rules.\n\nOne oversight could trigger a sudden service cutoff.",
+          "5. Audit your AI terms for hidden government conditions today.\n\nRun a sample prompt through your own compliance filter—does it catch export violations?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "The ban wasn't about jailbreak. It was geopolitical.",
+          "Safety was the public reason. Contract clauses were real.",
+          "That clause lets governments audit your AI terms.",
+          "Your compliance likely misses export rules entirely.",
+          "Audit your AI terms now. Test with a sample."
+        ]
+      },
+      "instagram": {
+        "caption": "The hidden clause in that Anthropic ban isn’t about jailbreak prompts—it’s about which country your AI model can't serve. 🇺🇸\n\nThe official safety violation was cover. The real trigger? A contract clause forcing compliance with foreign government export restrictions. That clause is bidirectional: it lets the government audit your AI usage terms too. 🔍\n\nIf you publish AI tools or content, one overlooked export rule in your terms can trigger a sudden service cutoff. 🚫\n\nRun a sample prompt through your own compliance filter today—does it flag export violations, or just safety ones?"
+      }
+    },
+    "instagram_caption": "The hidden clause in that Anthropic ban isn’t about jailbreak prompts—it’s about which country your AI model can't serve. 🇺🇸\n\nThe official safety violation was cover. The real trigger? A contract clause forcing compliance with foreign government export restrictions. That clause is bidirectional: it lets the government audit your AI usage terms too. 🔍\n\nIf you publish AI tools or content, one overlooked export rule in your terms can trigger a sudden service cutoff. 🚫\n\nRun a sample prompt through your own compliance filter today—does it flag export violations, or just safety ones?",
+    "carousel_slides": [
+      {
+        "hook": "The ban was never about safety.",
+        "description": "Internal memo revealed a hidden contract clause tied to foreign government AI export restrictions.",
+        "visual_hint": "Magnifying glass over fine print",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "contract fine print"
+      },
+      {
+        "hook": "Geopolitics triggered the shutdown.",
+        "description": "The clause targets a specific country's export rules, not just jailbreak risks.",
+        "visual_hint": "Globe with highlighted region",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "world map",
+        "image": "https://images.pexels.com/photos/4406813/pexels-photo-4406813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "That clause works both ways.",
+        "description": "Now the government can demand audits of your AI usage terms too.",
+        "visual_hint": "Arrow loop between flag and server",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your compliance likely misses export rules.",
+        "description": "One oversight could trigger a sudden service cutoff with no warning.",
+        "visual_hint": "Red warning on clipboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "clipboard checklist",
+        "image": "https://images.pexels.com/photos/8978610/pexels-photo-8978610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: audit your AI terms now.",
+        "description": "Run a sample prompt through your compliance filter—does it catch export violations?",
+        "visual_hint": "Checkmark next to code",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "code on screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/trump-2267050833.jpg?resize=1200,800",
+    "savedAt": "2026-06-16T02:54:26.692Z",
+    "sourceId": "71ed2eea453218c8361228b1ec553146"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "harmonyos-7-steps-into-the-ai-gap-apple-left-open-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
+    "link": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
+    "pubDate": "Mon, 15 Jun 2026 11:00:00 +0000",
+    "slides": [
+      "Can HarmonyOS 7 close what Apple cannot offer China?",
+      "It embeds an AI agent directly into the system kernel.",
+      "While Apple delays, Huawei ships on-device LLM reasoning.",
+      "Your apps now adapt without waiting for cloud responses.",
+      "Test the AI gap yourself: run a local task offline."
+    ],
+    "thread_text": [
+      "1. Will Apple ever catch up?\n\nHuawei’s HarmonyOS 7 already embeds an AI agent inside the system kernel, not as an app.",
+      "2. No cloud, no delay.\n\nApple still waits for server responses. Huawei runs the full LLM on device — even offline.",
+      "3. Your apps react instantly.\n\nThe kernel-level agent lets software adapt without sending data to the cloud for each request.",
+      "4. The gap is measurable.\n\nOn-device reasoning means Huawei phones can complete local tasks Apple devices refuse to attempt.",
+      "5. Run your own test.\n\nDisconnect your Wi-Fi and ask your current phone to summarize a PDF locally. Can it?"
+    ],
+    "video_script": [
+      "Huawei beats Apple by putting AI in the kernel.",
+      "No cloud needed for this AI reasoning.",
+      "Your apps change instantly without waiting.",
+      "Apple delays, Huawei ships on-device LLMs.",
+      "Test offline AI on your phone today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Will Apple ever catch up?\n\nHuawei’s HarmonyOS 7 already embeds an AI agent inside the system kernel, not as an app.",
+          "2. No cloud, no delay.\n\nApple still waits for server responses. Huawei runs the full LLM on device — even offline.",
+          "3. Your apps react instantly.\n\nThe kernel-level agent lets software adapt without sending data to the cloud for each request.",
+          "4. The gap is measurable.\n\nOn-device reasoning means Huawei phones can complete local tasks Apple devices refuse to attempt.",
+          "5. Run your own test.\n\nDisconnect your Wi-Fi and ask your current phone to summarize a PDF locally. Can it?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Huawei beats Apple by putting AI in the kernel.",
+          "No cloud needed for this AI reasoning.",
+          "Your apps change instantly without waiting.",
+          "Apple delays, Huawei ships on-device LLMs.",
+          "Test offline AI on your phone today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your phone just gained an AI agent inside its core system — not as a separate app, but embedded in the operating system kernel itself.\n\nHuawei’s HarmonyOS 7 ships on-device LLM reasoning while Apple delays similar features in China. No cloud trip means no waiting for a server response.\n\nApps now adapt in real time, even offline. Your device can process tasks locally that would normally require an internet connection.\n\nIf you create content, that means local summaries, translations, and edits without sending data to the cloud — or waiting for a signal.\n\nDisconnect your Wi-Fi. Can your current phone summarize a PDF right now? 🤔"
+      }
+    },
+    "instagram_caption": "Your phone just gained an AI agent inside its core system — not as a separate app, but embedded in the operating system kernel itself.\n\nHuawei’s HarmonyOS 7 ships on-device LLM reasoning while Apple delays similar features in China. No cloud trip means no waiting for a server response.\n\nApps now adapt in real time, even offline. Your device can process tasks locally that would normally require an internet connection.\n\nIf you create content, that means local summaries, translations, and edits without sending data to the cloud — or waiting for a signal.\n\nDisconnect your Wi-Fi. Can your current phone summarize a PDF right now? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can your phone think offline?",
+        "description": "Apple delays cloud AI, but HarmonyOS 7 embeds an AI agent in the kernel for instant on-device reasoning.",
+        "visual_hint": "Futuristic phone chip glowing",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone chip motherboard"
+      },
+      {
+        "hook": "No cloud, no delay.",
+        "description": "Huawei runs a full LLM on-device, while Apple waits for server responses — a measurable AI gap.",
+        "visual_hint": "Phone and server comparison",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your apps adapt instantly.",
+        "description": "Kernel-level agent lets software react without sending data to the cloud for each request.",
+        "visual_hint": "App icons updating fast",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone app screen",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The gap is measurable.",
+        "description": "On-device reasoning lets Huawei phones complete local tasks Apple devices refuse to attempt.",
+        "visual_hint": "Hand holding phone offline",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test the gap yourself.",
+        "description": "Disconnect Wi-Fi and ask your phone to summarize a PDF locally — can it?",
+        "visual_hint": "Phone with PDF icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "pdf document on phone",
+        "image": "https://images.pexels.com/photos/6929024/pexels-photo-6929024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/6755052/pexels-photo-6755052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-16T02:54:12.778Z",
+    "sourceId": "5a2335181185c28620e2e115e8f214dd"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "trump-s-anthropic-shutdown-just-made-the-case-for-",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-us-government-s-anthropic-models-ban-was-never",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+  "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+  "pubDate": "Mon, 15 Jun 2026 21:50:21 +0000",
+  "slides": [
+    "Was the Anthropic ban really about jailbreak security?",
+    "It looks like a routine safety violation response.",
+    "But the real trigger was a geopolitical contract clause.",
+    "Now your compliance checks must include export rules.",
+    "Audit your AI usage terms for hidden government conditions."
+  ],
+  "thread_text": [
+    "1. Was the ban really about jailbreak?\n\nThe clause hidden in the fine print targets a specific country's AI export restrictions.",
+    "2. The official statement cited safety.\n\nBut the internal memo pointed to a contract clause tied to foreign government compliance.",
+    "3. Here's the twist: that clause is bidirectional.\n\nIt lets the government demand audits of your AI usage terms too.",
+    "4. Your current compliance checks likely skip export rules.\n\nOne oversight could trigger a sudden service cutoff.",
+    "5. Audit your AI terms for hidden government conditions today.\n\nRun a sample prompt through your own compliance filter—does it catch export violations?"
+  ],
+  "video_script": [
+    "The ban wasn't about jailbreak. It was geopolitical.",
+    "Safety was the public reason. Contract clauses were real.",
+    "That clause lets governments audit your AI terms.",
+    "Your compliance likely misses export rules entirely.",
+    "Audit your AI terms now. Test with a sample."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Was the ban really about jailbreak?\n\nThe clause hidden in the fine print targets a specific country's AI export restrictions.",
+        "2. The official statement cited safety.\n\nBut the internal memo pointed to a contract clause tied to foreign government compliance.",
+        "3. Here's the twist: that clause is bidirectional.\n\nIt lets the government demand audits of your AI usage terms too.",
+        "4. Your current compliance checks likely skip export rules.\n\nOne oversight could trigger a sudden service cutoff.",
+        "5. Audit your AI terms for hidden government conditions today.\n\nRun a sample prompt through your own compliance filter—does it catch export violations?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The ban wasn't about jailbreak. It was geopolitical.",
+        "Safety was the public reason. Contract clauses were real.",
+        "That clause lets governments audit your AI terms.",
+        "Your compliance likely misses export rules entirely.",
+        "Audit your AI terms now. Test with a sample."
+      ]
+    },
+    "instagram": {
+      "caption": "The hidden clause in that Anthropic ban isn’t about jailbreak prompts—it’s about which country your AI model can't serve. 🇺🇸\n\nThe official safety violation was cover. The real trigger? A contract clause forcing compliance with foreign government export restrictions. That clause is bidirectional: it lets the government audit your AI usage terms too. 🔍\n\nIf you publish AI tools or content, one overlooked export rule in your terms can trigger a sudden service cutoff. 🚫\n\nRun a sample prompt through your own compliance filter today—does it flag export violations, or just safety ones?"
+    }
+  },
+  "instagram_caption": "The hidden clause in that Anthropic ban isn’t about jailbreak prompts—it’s about which country your AI model can't serve. 🇺🇸\n\nThe official safety violation was cover. The real trigger? A contract clause forcing compliance with foreign government export restrictions. That clause is bidirectional: it lets the government audit your AI usage terms too. 🔍\n\nIf you publish AI tools or content, one overlooked export rule in your terms can trigger a sudden service cutoff. 🚫\n\nRun a sample prompt through your own compliance filter today—does it flag export violations, or just safety ones?",
+  "carousel_slides": [
+    {
+      "hook": "The ban was never about safety.",
+      "description": "Internal memo revealed a hidden contract clause tied to foreign government AI export restrictions.",
+      "visual_hint": "Magnifying glass over fine print",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "contract fine print"
+    },
+    {
+      "hook": "Geopolitics triggered the shutdown.",
+      "description": "The clause targets a specific country's export rules, not just jailbreak risks.",
+      "visual_hint": "Globe with highlighted region",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "world map",
+      "image": "https://images.pexels.com/photos/4406813/pexels-photo-4406813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "That clause works both ways.",
+      "description": "Now the government can demand audits of your AI usage terms too.",
+      "visual_hint": "Arrow loop between flag and server",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your compliance likely misses export rules.",
+      "description": "One oversight could trigger a sudden service cutoff with no warning.",
+      "visual_hint": "Red warning on clipboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/8978610/pexels-photo-8978610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit your AI terms now.",
+      "description": "Run a sample prompt through your compliance filter—does it catch export violations?",
+      "visual_hint": "Checkmark next to code",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "code on screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/trump-2267050833.jpg?resize=1200,800",
+  "savedAt": "2026-06-16T02:54:26.692Z",
+  "sourceId": "71ed2eea453218c8361228b1ec553146"
+}

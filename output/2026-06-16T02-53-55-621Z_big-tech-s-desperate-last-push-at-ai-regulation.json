@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "big-tech-s-desperate-last-push-at-ai-regulation",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Big Tech’s desperate last push at AI regulation",
+  "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+  "pubDate": "2026-06-15T17:44:10.000Z",
+  "slides": [
+    "Why is Big Tech suddenly begging for AI rules?",
+    "They once lobbied fiercely against any oversight.",
+    "Now they fear a smaller rival's open-source model.",
+    "Regulation could lock out new competitors entirely.",
+    "Watch which loopholes they carve for themselves this year."
+  ],
+  "thread_text": [
+    "1. Begging for rules?\n\nBig Tech spent millions lobbying against AI oversight until a small rival’s open-source model surpassed their own.",
+    "2. The sudden switch.\n\nThey now claim regulation protects safety—but their real target is freezing out the newcomer who gave the code away.",
+    "3. Lock-out strategy.\n\nStrict compliance costs hit small startups first. The giants already have legal teams ready.",
+    "4. Loophole carving.\n\nWatch which exceptions they insert this year—self-certification, “research” exemptions, or grandfather clauses for existing models.",
+    "5. Your move.\n\nTry an open-source model on your own device today. Do you trust the giants’ rules or your own test?"
+  ],
+  "video_script": [
+    "Big Tech begged for AI rules.",
+    "They fought oversight for years.",
+    "Now they fear a small rival.",
+    "Regulation can lock out startups.",
+    "Watch the loopholes they carve."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Begging for rules?\n\nBig Tech spent millions lobbying against AI oversight until a small rival’s open-source model surpassed their own.",
+        "2. The sudden switch.\n\nThey now claim regulation protects safety—but their real target is freezing out the newcomer who gave the code away.",
+        "3. Lock-out strategy.\n\nStrict compliance costs hit small startups first. The giants already have legal teams ready.",
+        "4. Loophole carving.\n\nWatch which exceptions they insert this year—self-certification, “research” exemptions, or grandfather clauses for existing models.",
+        "5. Your move.\n\nTry an open-source model on your own device today. Do you trust the giants’ rules or your own test?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Big Tech begged for AI rules.",
+        "They fought oversight for years.",
+        "Now they fear a small rival.",
+        "Regulation can lock out startups.",
+        "Watch the loopholes they carve."
+      ]
+    },
+    "instagram": {
+      "caption": "A tiny startup gave away an AI model that beat the tech giants’ best—for free. 🚨\n\nThe billion-dollar firms now beg for “safety” regulation. They spent millions fighting oversight until an open-source rival hurt their bottom line. Strict rules crush small teams first. The giants have armies of lawyers ready.\n\nIf you create with AI, your tools could lock up: paywalls, licensing fees, or a ban on the open model you used yesterday. 🔒\n\nDid the startup who gave the code away, or the billionaires begging for rules, just earn your trust?"
+    }
+  },
+  "instagram_caption": "A tiny startup gave away an AI model that beat the tech giants’ best—for free. 🚨\n\nThe billion-dollar firms now beg for “safety” regulation. They spent millions fighting oversight until an open-source rival hurt their bottom line. Strict rules crush small teams first. The giants have armies of lawyers ready.\n\nIf you create with AI, your tools could lock up: paywalls, licensing fees, or a ban on the open model you used yesterday. 🔒\n\nDid the startup who gave the code away, or the billionaires begging for rules, just earn your trust?",
+  "carousel_slides": [
+    {
+      "hook": "They begged for rules yesterday.",
+      "description": "Big Tech lobbied against AI oversight until an open-source rival surpassed their models.",
+      "visual_hint": "lobbyists storming capitol",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "lobbyist corridor building"
+    },
+    {
+      "hook": "Safety is just a smokescreen.",
+      "description": "Their real aim is freezing out the newcomer who gave the code away for free.",
+      "visual_hint": "open-source code on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "code on monitor",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Regulation kills startups first.",
+      "description": "Strict compliance costs hit small teams hard; giants already have legal armies ready.",
+      "visual_hint": "small startup office contrast",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "startup office desk",
+      "image": "https://images.pexels.com/photos/8297862/pexels-photo-8297862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch the loopholes they write.",
+      "description": "Self-certification and grandfather clauses could exempt their existing models from new rules.",
+      "visual_hint": "legal document redacted",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "law book gavel",
+      "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try open-source AI today.",
+      "description": "Run a model on your own device and decide if you trust their rules or your own test.",
+      "visual_hint": "phone running AI app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone AI app",
+      "image": "https://images.pexels.com/photos/30530421/pexels-photo-30530421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2163958194.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-16T02:55:10.209Z",
+  "sourceId": "35ea195782a7f878c5053b911e19e4da"
+}
