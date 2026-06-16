@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "insurers-pivot-ai-strategy-toward-core-risk-underw",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Insurers pivot AI strategy toward core risk underwriting",
+  "link": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/",
+  "pubDate": "Tue, 16 Jun 2026 15:55:02 +0000",
+  "slides": [
+    "Why are insurers suddenly rewriting their AI playbooks?",
+    "Underwriting, not claims, now gets the biggest AI budgets.",
+    "Most models can't explain why they deny a policy.",
+    "You can now get risk decisions with auditable logic.",
+    "Run one legacy policy through an explainable AI today."
+  ],
+  "thread_text": [
+    "1. Insurers rewriting AI playbooks\n\nUnderwriting budgets just overtook claims for the first time in a decade.",
+    "2. Silent black box\n\nMost AI models can't explain why they deny a policy—regulators are starting to ask.",
+    "3. Auditable logic arrives\n\nNew tools let you trace every risk decision back to a clear rule.",
+    "4. The accountability gap\n\nWithout explainability, a single denied policy can trigger a compliance nightmare.",
+    "5. Test one policy today\n\nRun a legacy underwriting file through an explainable AI—see what you find."
+  ],
+  "video_script": [
+    "Insurance AI is changing fast.",
+    "Underwriting gets the biggest budgets now.",
+    "Most models can't explain denials.",
+    "Auditable logic is now available.",
+    "Test one policy with explainable AI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Insurers rewriting AI playbooks\n\nUnderwriting budgets just overtook claims for the first time in a decade.",
+        "2. Silent black box\n\nMost AI models can't explain why they deny a policy—regulators are starting to ask.",
+        "3. Auditable logic arrives\n\nNew tools let you trace every risk decision back to a clear rule.",
+        "4. The accountability gap\n\nWithout explainability, a single denied policy can trigger a compliance nightmare.",
+        "5. Test one policy today\n\nRun a legacy underwriting file through an explainable AI—see what you find."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Insurance AI is changing fast.",
+        "Underwriting gets the biggest budgets now.",
+        "Most models can't explain denials.",
+        "Auditable logic is now available.",
+        "Test one policy with explainable AI."
+      ]
+    },
+    "instagram": {
+      "caption": "Insurance companies just shifted their biggest AI budgets from paying claims to deciding who gets coverage at all.\n\nFor the first time in a decade, underwriting spending has overtaken claims. But most models can't explain why they deny a policy—regulators are starting to notice. New tools now let you trace a rejection back to a clear rule.\n\nIf you sell or price insurance, your denial decisions just became auditable. No more black boxes.\n\nRun one legacy policy through an explainable AI today—what do you find lurking in your own files? 🔍📉"
+    }
+  },
+  "instagram_caption": "Insurance companies just shifted their biggest AI budgets from paying claims to deciding who gets coverage at all.\n\nFor the first time in a decade, underwriting spending has overtaken claims. But most models can't explain why they deny a policy—regulators are starting to notice. New tools now let you trace a rejection back to a clear rule.\n\nIf you sell or price insurance, your denial decisions just became auditable. No more black boxes.\n\nRun one legacy policy through an explainable AI today—what do you find lurking in your own files? 🔍📉",
+  "carousel_slides": [
+    {
+      "hook": "Your AI denies policies without explanation.",
+      "description": "Regulators are starting to ask why most models can't explain a denial.",
+      "visual_hint": "glowing question mark over server",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Underwriting budgets just beat claims.",
+      "description": "For the first time in a decade, AI funding shifts to core risk decisions.",
+      "visual_hint": "bar chart with underwriting higher",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Silent black box models fail audits.",
+      "description": "New tools now trace every risk decision back to a clear rule.",
+      "visual_hint": "open safe with visible gears inside",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "gears machinery",
+      "image": "https://images.pexels.com/photos/7568421/pexels-photo-7568421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One denied policy triggers compliance hell.",
+      "description": "Without explainability, a single rejection can become a costly nightmare.",
+      "visual_hint": "stack of papers with red stamp",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office documents",
+      "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your legacy policy now.",
+      "description": "Run one old underwriting file through explainable AI and see what you find.",
+      "visual_hint": "finger pressing start button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer keyboard",
+      "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-16T19:28:26.670Z",
+  "sourceId": "49d2fad0ab4d65dddc3115cd5fa47e17"
+}

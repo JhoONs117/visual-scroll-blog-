@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sixty-percent-of-us-consumers-say-ai-in-brand-mess",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+  "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+  "pubDate": "Tue, 16 Jun 2026 16:49:44 +0000",
+  "slides": [
+    "Why do most Americans distrust AI-branded products?",
+    "60% of consumers avoid anything labeled 'AI'.",
+    "Yet they unknowingly love AI-powered features daily.",
+    "Drop the buzzword from your product descriptions now.",
+    "Test messaging without 'AI'; measure your conversion lift."
+  ],
+  "thread_text": [
+    "60% avoid 'AI'\n\nYet these same Americans unknowingly rely on AI-powered features every day—from route suggestions to spam filters.",
+    "The hypocrisy gap\n\nYour customers trust the result but reject the label. The word itself triggers skepticism, not curiosity.",
+    "Drop the buzzword\n\nRemove 'AI' from your product descriptions. Test messaging that focuses on benefits instead of technology.",
+    "Measure the lift\n\nRun an A/B test: one version with 'AI', one without. Conversion rates often rise when the label disappears.",
+    "Your next move\n\nTake your current product description. Remove the word 'AI'. If you haven’t tested it, what are you waiting for?"
+  ],
+  "video_script": [
+    "Most Americans distrust the AI label.",
+    "Yet they use AI features daily.",
+    "The word itself hurts sales.",
+    "Test dropping the buzzword.",
+    "Measure your conversion lift now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "60% avoid 'AI'\n\nYet these same Americans unknowingly rely on AI-powered features every day—from route suggestions to spam filters.",
+        "The hypocrisy gap\n\nYour customers trust the result but reject the label. The word itself triggers skepticism, not curiosity.",
+        "Drop the buzzword\n\nRemove 'AI' from your product descriptions. Test messaging that focuses on benefits instead of technology.",
+        "Measure the lift\n\nRun an A/B test: one version with 'AI', one without. Conversion rates often rise when the label disappears.",
+        "Your next move\n\nTake your current product description. Remove the word 'AI'. If you haven’t tested it, what are you waiting for?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Most Americans distrust the AI label.",
+        "Yet they use AI features daily.",
+        "The word itself hurts sales.",
+        "Test dropping the buzzword.",
+        "Measure your conversion lift now."
+      ]
+    },
+    "instagram": {
+      "caption": "60% of consumers will skip a product the moment they see the word \"AI\" in its description. 😳\n\nYet those same people use AI-powered route suggestions and spam filters every day without complaint. The label repels; the result attracts.\n\nIf you write product copy, this changes your headings immediately. Start by stripping \"AI\" from every line and lead with the benefit.\n\nRun an A/B test this week: one version with \"AI\", one without. Which headline gets the click? 📉🔍"
+    }
+  },
+  "instagram_caption": "60% of consumers will skip a product the moment they see the word \"AI\" in its description. 😳\n\nYet those same people use AI-powered route suggestions and spam filters every day without complaint. The label repels; the result attracts.\n\nIf you write product copy, this changes your headings immediately. Start by stripping \"AI\" from every line and lead with the benefit.\n\nRun an A/B test this week: one version with \"AI\", one without. Which headline gets the click? 📉🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your customers hate this word.",
+      "description": "60% of US consumers actively avoid products labeled 'AI', even though they rely on it daily.",
+      "visual_hint": "Person dodging a label.",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "shopping cart tag"
+    },
+    {
+      "hook": "They love it—just don't say it.",
+      "description": "Consumers trust AI-powered features like route suggestions, but the word itself triggers skepticism.",
+      "visual_hint": "Phone showing map route.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone navigation app",
+      "image": "https://images.pexels.com/photos/6169859/pexels-photo-6169859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Drop 'AI' from your descriptions.",
+      "description": "Remove the buzzword and focus on benefits. Test messaging without 'AI' for better conversion.",
+      "visual_hint": "Erasing text from screen.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "keyboard delete key",
+      "image": "https://images.pexels.com/photos/16321209/pexels-photo-16321209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test the label, measure the lift.",
+      "description": "Run an A/B test: one version with 'AI', one without. Conversion rates often rise when it disappears.",
+      "visual_hint": "Two phone screens compared.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next A/B test.",
+      "description": "Take your current product description, remove 'AI', and test it. Your conversion may surprise you.",
+      "visual_hint": "Link in bio button.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "link icon button",
+      "image": "https://images.pexels.com/photos/35740122/pexels-photo-35740122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
+  "savedAt": "2026-06-16T19:28:40.070Z",
+  "sourceId": "78fc4b6ad1a2e4451be9e4c0b163452c"
+}

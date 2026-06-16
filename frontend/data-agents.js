@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "plaud-says-its-software-business-topped-100m-in-ar",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+      "pubDate": "Tue, 16 Jun 2026 15:00:00 +0000",
+      "slides": [
+        "How did a notetaker pass $100M ARR so fast?",
+        "Plaid shipped over 2 million AI devices already.",
+        "Software alone—not hardware—drove most revenue.",
+        "Your team could bypass hardware with just software.",
+        "Test today: use their API for your own notes."
+      ],
+      "thread_text": [
+        "1. How did it hit $100M?\n\nA notetaking app scaled faster than most unicorns—without building a single hardware prototype.",
+        "2. Plaid already shipped 2M+ AI devices.\n\nBut the revenue surge came from software subscriptions, not selling microphones or chips.",
+        "3. Software alone drives the margin.\n\nYour team could copy this playbook: skip hardware entirely and use their API for note transcription.",
+        "4. No factory, no inventory, no delay.\n\nPure software lets you iterate weekly and deploy features without supply chain risk.",
+        "5. Test it today in 10 minutes.\n\nGrab their API key, send an audio sample, and see if the output beats your current internal tool."
+      ],
+      "video_script": [
+        "A notetaker hit 100 million revenue fast.",
+        "Plaid shipped two million AI devices already.",
+        "Software drove most revenue, not the hardware.",
+        "You can skip hardware using only software.",
+        "Test their API today for your notes."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. How did it hit $100M?\n\nA notetaking app scaled faster than most unicorns—without building a single hardware prototype.",
+            "2. Plaid already shipped 2M+ AI devices.\n\nBut the revenue surge came from software subscriptions, not selling microphones or chips.",
+            "3. Software alone drives the margin.\n\nYour team could copy this playbook: skip hardware entirely and use their API for note transcription.",
+            "4. No factory, no inventory, no delay.\n\nPure software lets you iterate weekly and deploy features without supply chain risk.",
+            "5. Test it today in 10 minutes.\n\nGrab their API key, send an audio sample, and see if the output beats your current internal tool."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A notetaker hit 100 million revenue fast.",
+            "Plaid shipped two million AI devices already.",
+            "Software drove most revenue, not the hardware.",
+            "You can skip hardware using only software.",
+            "Test their API today for your notes."
+          ]
+        },
+        "instagram": {
+          "caption": "2 million AI notetakers shipped, and the $100M ARR came from software subscriptions—not the hardware itself. 🎙️\n\nThe company proved the bulk of the revenue stream is the AI transcript layer, not the device you hold. You can skip building a microphone entirely.\n\nFor teams, this means you can copy the model today: deploy a note-taking feature without inventory or factory delays.\n\nGrab their API key, send a 30-second audio clip, and see if the output beats your current internal tool? 🛠️"
+        }
+      },
+      "instagram_caption": "2 million AI notetakers shipped, and the $100M ARR came from software subscriptions—not the hardware itself. 🎙️\n\nThe company proved the bulk of the revenue stream is the AI transcript layer, not the device you hold. You can skip building a microphone entirely.\n\nFor teams, this means you can copy the model today: deploy a note-taking feature without inventory or factory delays.\n\nGrab their API key, send a 30-second audio clip, and see if the output beats your current internal tool? 🛠️",
+      "carousel_slides": [
+        {
+          "hook": "How did a notetaker hit $100M?",
+          "description": "Software subscriptions drove the surge, not hardware—proving you can scale fast without a single prototype.",
+          "visual_hint": "graph with $100M arrow",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "2M devices shipped, but software won.",
+          "description": "Over 2 million AI notetakers sold, yet most revenue came from subscriptions, not microphones or chips.",
+          "visual_hint": "device pile with software icon",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Skip hardware, keep the margin.",
+          "description": "Software alone drives high margins—no factory, no inventory, just pure code you can iterate weekly.",
+          "visual_hint": "code on screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "laptop code screen",
+          "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Bypass hardware with their API.",
+          "description": "Your team can copy this playbook: use Plaud's API for note transcription without building a single device.",
+          "visual_hint": "API connection diagram",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it today in 10 minutes.",
+          "description": "Grab their API key, send an audio sample, and see if it beats your current internal tool.",
+          "visual_hint": "timer and audio wave",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/SilverBlack-Plaud-Note-Pro.jpeg?resize=1200,675",
+      "savedAt": "2026-06-16T19:28:53.230Z",
+      "sourceId": "feb65f9e80a74f47290908649cebc9bb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "sixty-percent-of-us-consumers-say-ai-in-brand-mess",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "pubDate": "Tue, 16 Jun 2026 16:49:44 +0000",
+      "slides": [
+        "Why do most Americans distrust AI-branded products?",
+        "60% of consumers avoid anything labeled 'AI'.",
+        "Yet they unknowingly love AI-powered features daily.",
+        "Drop the buzzword from your product descriptions now.",
+        "Test messaging without 'AI'; measure your conversion lift."
+      ],
+      "thread_text": [
+        "60% avoid 'AI'\n\nYet these same Americans unknowingly rely on AI-powered features every day—from route suggestions to spam filters.",
+        "The hypocrisy gap\n\nYour customers trust the result but reject the label. The word itself triggers skepticism, not curiosity.",
+        "Drop the buzzword\n\nRemove 'AI' from your product descriptions. Test messaging that focuses on benefits instead of technology.",
+        "Measure the lift\n\nRun an A/B test: one version with 'AI', one without. Conversion rates often rise when the label disappears.",
+        "Your next move\n\nTake your current product description. Remove the word 'AI'. If you haven’t tested it, what are you waiting for?"
+      ],
+      "video_script": [
+        "Most Americans distrust the AI label.",
+        "Yet they use AI features daily.",
+        "The word itself hurts sales.",
+        "Test dropping the buzzword.",
+        "Measure your conversion lift now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "60% avoid 'AI'\n\nYet these same Americans unknowingly rely on AI-powered features every day—from route suggestions to spam filters.",
+            "The hypocrisy gap\n\nYour customers trust the result but reject the label. The word itself triggers skepticism, not curiosity.",
+            "Drop the buzzword\n\nRemove 'AI' from your product descriptions. Test messaging that focuses on benefits instead of technology.",
+            "Measure the lift\n\nRun an A/B test: one version with 'AI', one without. Conversion rates often rise when the label disappears.",
+            "Your next move\n\nTake your current product description. Remove the word 'AI'. If you haven’t tested it, what are you waiting for?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Most Americans distrust the AI label.",
+            "Yet they use AI features daily.",
+            "The word itself hurts sales.",
+            "Test dropping the buzzword.",
+            "Measure your conversion lift now."
+          ]
+        },
+        "instagram": {
+          "caption": "60% of consumers will skip a product the moment they see the word \"AI\" in its description. 😳\n\nYet those same people use AI-powered route suggestions and spam filters every day without complaint. The label repels; the result attracts.\n\nIf you write product copy, this changes your headings immediately. Start by stripping \"AI\" from every line and lead with the benefit.\n\nRun an A/B test this week: one version with \"AI\", one without. Which headline gets the click? 📉🔍"
+        }
+      },
+      "instagram_caption": "60% of consumers will skip a product the moment they see the word \"AI\" in its description. 😳\n\nYet those same people use AI-powered route suggestions and spam filters every day without complaint. The label repels; the result attracts.\n\nIf you write product copy, this changes your headings immediately. Start by stripping \"AI\" from every line and lead with the benefit.\n\nRun an A/B test this week: one version with \"AI\", one without. Which headline gets the click? 📉🔍",
+      "carousel_slides": [
+        {
+          "hook": "Your customers hate this word.",
+          "description": "60% of US consumers actively avoid products labeled 'AI', even though they rely on it daily.",
+          "visual_hint": "Person dodging a label.",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "shopping cart tag"
+        },
+        {
+          "hook": "They love it—just don't say it.",
+          "description": "Consumers trust AI-powered features like route suggestions, but the word itself triggers skepticism.",
+          "visual_hint": "Phone showing map route.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone navigation app",
+          "image": "https://images.pexels.com/photos/6169859/pexels-photo-6169859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Drop 'AI' from your descriptions.",
+          "description": "Remove the buzzword and focus on benefits. Test messaging without 'AI' for better conversion.",
+          "visual_hint": "Erasing text from screen.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "keyboard delete key",
+          "image": "https://images.pexels.com/photos/16321209/pexels-photo-16321209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test the label, measure the lift.",
+          "description": "Run an A/B test: one version with 'AI', one without. Conversion rates often rise when it disappears.",
+          "visual_hint": "Two phone screens compared.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for your next A/B test.",
+          "description": "Take your current product description, remove 'AI', and test it. Your conversion may surprise you.",
+          "visual_hint": "Link in bio button.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "link icon button",
+          "image": "https://images.pexels.com/photos/35740122/pexels-photo-35740122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
+      "savedAt": "2026-06-16T19:28:40.070Z",
+      "sourceId": "78fc4b6ad1a2e4451be9e4c0b163452c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "insurers-pivot-ai-strategy-toward-core-risk-underw",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Insurers pivot AI strategy toward core risk underwriting",
+      "link": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/",
+      "pubDate": "Tue, 16 Jun 2026 15:55:02 +0000",
+      "slides": [
+        "Why are insurers suddenly rewriting their AI playbooks?",
+        "Underwriting, not claims, now gets the biggest AI budgets.",
+        "Most models can't explain why they deny a policy.",
+        "You can now get risk decisions with auditable logic.",
+        "Run one legacy policy through an explainable AI today."
+      ],
+      "thread_text": [
+        "1. Insurers rewriting AI playbooks\n\nUnderwriting budgets just overtook claims for the first time in a decade.",
+        "2. Silent black box\n\nMost AI models can't explain why they deny a policy—regulators are starting to ask.",
+        "3. Auditable logic arrives\n\nNew tools let you trace every risk decision back to a clear rule.",
+        "4. The accountability gap\n\nWithout explainability, a single denied policy can trigger a compliance nightmare.",
+        "5. Test one policy today\n\nRun a legacy underwriting file through an explainable AI—see what you find."
+      ],
+      "video_script": [
+        "Insurance AI is changing fast.",
+        "Underwriting gets the biggest budgets now.",
+        "Most models can't explain denials.",
+        "Auditable logic is now available.",
+        "Test one policy with explainable AI."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Insurers rewriting AI playbooks\n\nUnderwriting budgets just overtook claims for the first time in a decade.",
+            "2. Silent black box\n\nMost AI models can't explain why they deny a policy—regulators are starting to ask.",
+            "3. Auditable logic arrives\n\nNew tools let you trace every risk decision back to a clear rule.",
+            "4. The accountability gap\n\nWithout explainability, a single denied policy can trigger a compliance nightmare.",
+            "5. Test one policy today\n\nRun a legacy underwriting file through an explainable AI—see what you find."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Insurance AI is changing fast.",
+            "Underwriting gets the biggest budgets now.",
+            "Most models can't explain denials.",
+            "Auditable logic is now available.",
+            "Test one policy with explainable AI."
+          ]
+        },
+        "instagram": {
+          "caption": "Insurance companies just shifted their biggest AI budgets from paying claims to deciding who gets coverage at all.\n\nFor the first time in a decade, underwriting spending has overtaken claims. But most models can't explain why they deny a policy—regulators are starting to notice. New tools now let you trace a rejection back to a clear rule.\n\nIf you sell or price insurance, your denial decisions just became auditable. No more black boxes.\n\nRun one legacy policy through an explainable AI today—what do you find lurking in your own files? 🔍📉"
+        }
+      },
+      "instagram_caption": "Insurance companies just shifted their biggest AI budgets from paying claims to deciding who gets coverage at all.\n\nFor the first time in a decade, underwriting spending has overtaken claims. But most models can't explain why they deny a policy—regulators are starting to notice. New tools now let you trace a rejection back to a clear rule.\n\nIf you sell or price insurance, your denial decisions just became auditable. No more black boxes.\n\nRun one legacy policy through an explainable AI today—what do you find lurking in your own files? 🔍📉",
+      "carousel_slides": [
+        {
+          "hook": "Your AI denies policies without explanation.",
+          "description": "Regulators are starting to ask why most models can't explain a denial.",
+          "visual_hint": "glowing question mark over server",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Underwriting budgets just beat claims.",
+          "description": "For the first time in a decade, AI funding shifts to core risk decisions.",
+          "visual_hint": "bar chart with underwriting higher",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Silent black box models fail audits.",
+          "description": "New tools now trace every risk decision back to a clear rule.",
+          "visual_hint": "open safe with visible gears inside",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "gears machinery",
+          "image": "https://images.pexels.com/photos/7568421/pexels-photo-7568421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One denied policy triggers compliance hell.",
+          "description": "Without explainability, a single rejection can become a costly nightmare.",
+          "visual_hint": "stack of papers with red stamp",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office documents",
+          "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your legacy policy now.",
+          "description": "Run one old underwriting file through explainable AI and see what you find.",
+          "visual_hint": "finger pressing start button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "computer keyboard",
+          "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-06-16T19:28:26.670Z",
+      "sourceId": "49d2fad0ab4d65dddc3115cd5fa47e17"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "chatgpt-s-market-share-slips-below-50-for-first-ti",
       "prompt_version": "1.0.0",
       "status": "published",
