@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "probably-raises-9m-to-build-a-more-reliable-kind-o",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Probably raises $9M to build a more reliable kind of AI",
+    "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+    "pubDate": "Tue, 16 Jun 2026 13:15:09 +0000",
+    "slides": [
+      "Most AI answers are wrong—what if they weren't?",
+      "Probabilistic models guess; Probably's AI verifies each step.",
+      "It caught a hallucination that three other AIs missed.",
+      "Your team can test now without retraining existing models.",
+      "Run one real query today and compare the confidence scores."
+    ],
+    "thread_text": [
+      "1. Most AI answers are wrong.\n\nA recent test showed three different AIs all missed the same hallucination. One caught it.",
+      "2. Why they guess.\n\nProbabilistic models predict the next likely word. They don't check if it's true.",
+      "3. Then one said stop.\n\nProbably's AI verified each step and spotted a hallucination three others missed.",
+      "4. No retraining needed.\n\nYour existing models stay as they are. You add verification on top.",
+      "5. Run one query today.\n\nTake a real prompt your team uses. Compare confidence scores before and after. What will you find?"
+    ],
+    "video_script": [
+      "Most AI answers are wrong.",
+      "Probabilistic models guess the next word.",
+      "Probably's AI catches what others miss.",
+      "No retraining required for your models.",
+      "Test a real query and compare scores."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Most AI answers are wrong.\n\nA recent test showed three different AIs all missed the same hallucination. One caught it.",
+          "2. Why they guess.\n\nProbabilistic models predict the next likely word. They don't check if it's true.",
+          "3. Then one said stop.\n\nProbably's AI verified each step and spotted a hallucination three others missed.",
+          "4. No retraining needed.\n\nYour existing models stay as they are. You add verification on top.",
+          "5. Run one query today.\n\nTake a real prompt your team uses. Compare confidence scores before and after. What will you find?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Most AI answers are wrong.",
+          "Probabilistic models guess the next word.",
+          "Probably's AI catches what others miss.",
+          "No retraining required for your models.",
+          "Test a real query and compare scores."
+        ]
+      },
+      "instagram": {
+        "caption": "Three AIs all repeated the same hallucination. A fourth one caught it.\n\nProbably just raised $9M to build verification into AI—checking each step instead of just guessing the next word. It works on top of your existing models, no retraining needed.\n\nThat means you can run one real prompt through it today and see confidence scores that flag errors before they reach your audience.\n\nWhat would you find if you tested your team’s most-used query? 🤔🧠✅"
+      }
+    },
+    "instagram_caption": "Three AIs all repeated the same hallucination. A fourth one caught it.\n\nProbably just raised $9M to build verification into AI—checking each step instead of just guessing the next word. It works on top of your existing models, no retraining needed.\n\nThat means you can run one real prompt through it today and see confidence scores that flag errors before they reach your audience.\n\nWhat would you find if you tested your team’s most-used query? 🤔🧠✅",
+    "carousel_slides": [
+      {
+        "hook": "One AI caught what three missed.",
+        "description": "Three AIs hallucinated the same answer; Probably's verification spotted the error.",
+        "visual_hint": "Spotlight on one correct answer",
+        "layout_type": "hero",
+        "icon": "check",
+        "image_query": "server room lights"
+      },
+      {
+        "hook": "Why do AI models guess?",
+        "description": "Probabilistic models predict next words, but never verify if they are actually true.",
+        "visual_hint": "Question mark over text lines",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "circuit board closeup",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It stopped a hallucination others missed.",
+        "description": "Probably's AI verified each step and caught a false claim three other AIs missed.",
+        "visual_hint": "Red stop sign on text",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "error screen computer",
+        "image": "https://images.pexels.com/photos/9121365/pexels-photo-9121365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No retraining required.",
+        "description": "Your existing models stay unchanged. Just add verification on top for reliable outputs.",
+        "visual_hint": "Puzzle piece clicking into place",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand typing keyboard",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one query and compare.",
+        "description": "Run a real prompt your team uses. See confidence scores before and after verification.",
+        "visual_hint": "Two charts side by side",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/probably-peter-elias.png?resize=1200,800",
+    "savedAt": "2026-06-16T22:06:25.111Z",
+    "sourceId": "43eaf8173183b17c814d416d3f3f7111"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "how-ai-powered-cms-platforms-are-transforming-ente",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
+    "link": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/",
+    "pubDate": "Tue, 16 Jun 2026 07:49:07 +0000",
+    "slides": [
+      "Can AI-powered CMS truly fix your content chaos?",
+      "Enterprise teams waste nearly 30% of time on manual tasks.",
+      "AI now generates metadata and drafts automatically.",
+      "Your editors shift from typing to strategic review.",
+      "Audit your current CMS for AI features this week."
+    ],
+    "thread_text": [
+      "1. Your CMS is lying to you\n\nEnterprise teams waste nearly 30% of their week on manual tasks that AI could handle.",
+      "2. Metadata isn't magic anymore\n\nAI now generates embeddings, alt text, and tags automatically—no more typing by hand.",
+      "3. Drafts appear while you sleep\n\nThe system writes first drafts from your briefs. Editors move from typing to strategic review.",
+      "4. Editors become architects\n\nYour role shifts to quality, tone, and structure. The machine does the grunt work.",
+      "5. Audit your CMS this week\n\nDoes your current platform have native AI for metadata and drafts? If no, switch or upgrade."
+    ],
+    "video_script": [
+      "Can AI fix your content chaos?",
+      "Teams waste 30% on manual tasks.",
+      "AI writes metadata and drafts now.",
+      "Editors shift to strategic review.",
+      "Audit your CMS for AI this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your CMS is lying to you\n\nEnterprise teams waste nearly 30% of their week on manual tasks that AI could handle.",
+          "2. Metadata isn't magic anymore\n\nAI now generates embeddings, alt text, and tags automatically—no more typing by hand.",
+          "3. Drafts appear while you sleep\n\nThe system writes first drafts from your briefs. Editors move from typing to strategic review.",
+          "4. Editors become architects\n\nYour role shifts to quality, tone, and structure. The machine does the grunt work.",
+          "5. Audit your CMS this week\n\nDoes your current platform have native AI for metadata and drafts? If no, switch or upgrade."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can AI fix your content chaos?",
+          "Teams waste 30% on manual tasks.",
+          "AI writes metadata and drafts now.",
+          "Editors shift to strategic review.",
+          "Audit your CMS for AI this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Enterprise teams burn nearly 30% of their week on manual content tasks that AI can now automate. ⏱️\n\nAI-powered CMS platforms generate metadata, alt text, and first drafts automatically. Editors shift from typing to strategic review—quality, tone, structure. 🎯\n\nYour daily role changes: the machine handles grunt work; you become an editor-architect. 📝\n\nDoes your current CMS have native AI for metadata and drafts—or are you still wasting that 30%?"
+      }
+    },
+    "instagram_caption": "Enterprise teams burn nearly 30% of their week on manual content tasks that AI can now automate. ⏱️\n\nAI-powered CMS platforms generate metadata, alt text, and first drafts automatically. Editors shift from typing to strategic review—quality, tone, structure. 🎯\n\nYour daily role changes: the machine handles grunt work; you become an editor-architect. 📝\n\nDoes your current CMS have native AI for metadata and drafts—or are you still wasting that 30%?",
+    "carousel_slides": [
+      {
+        "hook": "Your CMS is lying to you",
+        "description": "Enterprise teams waste nearly 30% of their week on manual tasks AI could automate.",
+        "visual_hint": "Broken clock on desk",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "office desk clock"
+      },
+      {
+        "hook": "Metadata isn't magic anymore",
+        "description": "AI generates embeddings, alt text, and tags automatically—no more typing by hand.",
+        "visual_hint": "Tags floating automatically",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "digital tags screen",
+        "image": "https://images.pexels.com/photos/8148644/pexels-photo-8148644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Drafts appear while you sleep",
+        "description": "AI writes first drafts from your briefs; editors move from typing to strategic review.",
+        "visual_hint": "Computer screen glowing at night",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "laptop screen night",
+        "image": "https://images.pexels.com/photos/7864380/pexels-photo-7864380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Editors become architects",
+        "description": "Your role shifts to quality, tone, and structure—the machine handles the grunt work.",
+        "visual_hint": "Blueprints and pen on table",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "architect blueprint table",
+        "image": "https://images.pexels.com/photos/9615249/pexels-photo-9615249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your CMS this week",
+        "description": "Check if your platform has native AI for metadata and drafts. Switch or upgrade now.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "visual_hint": "Checklist with pen",
+        "image_query": "clipboard checklist",
+        "image": "https://images.pexels.com/photos/8978610/pexels-photo-8978610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/37808313/pexels-photo-37808313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-16T22:06:12.312Z",
+    "sourceId": "f9df3bd9a4f992a2222280c65022b67c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "plaud-says-its-software-business-topped-100m-in-ar",
     "prompt_version": "1.0.0",
     "status": "published",
