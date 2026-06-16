@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "sundar-pichai-faces-boos-walkout-at-stanford-gradu",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+    "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+    "pubDate": "Mon, 15 Jun 2026 23:51:44 +0000",
+    "slides": [
+      "Sundar Pichai faced boos at Stanford. Why now?",
+      "Students walked out over Google’s Israel contract.",
+      "The protest also targeted Project Nimbus ties.",
+      "ICE immigration work was another flashpoint.",
+      "Your next hiring decision may spark similar backlash."
+    ],
+    "thread_text": [
+      "1. Heard the boos?\n\nStanford students walked out on Sundar Pichai last week, angered by Google’s $1.2 billion Israel contract.",
+      "2. Project Nimbus backlash\n\nThat cloud deal with Israel gives the military access to Google’s AI tools — students say it crosses a red line.",
+      "3. ICE work reignites\n\nGoogle’s past immigration enforcement contracts are now being dragged back into protest chants at campus events.",
+      "4. Backlash spreads to hiring\n\nHiring at any tech company now risks public walkouts if candidates have ties to defense or surveillance contracts.",
+      "5. Your turn to act\n\nBefore your next offer letter goes out, search the candidate’s past employer for Project Nimbus involvement. Have you checked?"
+    ],
+    "video_script": [
+      "Sundar Pichai got booed at Stanford.",
+      "Students walked out over Israel contract.",
+      "Project Nimbus was a main target.",
+      "ICE immigration work also sparked anger.",
+      "Your next hire could cause backlash."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Heard the boos?\n\nStanford students walked out on Sundar Pichai last week, angered by Google’s $1.2 billion Israel contract.",
+          "2. Project Nimbus backlash\n\nThat cloud deal with Israel gives the military access to Google’s AI tools — students say it crosses a red line.",
+          "3. ICE work reignites\n\nGoogle’s past immigration enforcement contracts are now being dragged back into protest chants at campus events.",
+          "4. Backlash spreads to hiring\n\nHiring at any tech company now risks public walkouts if candidates have ties to defense or surveillance contracts.",
+          "5. Your turn to act\n\nBefore your next offer letter goes out, search the candidate’s past employer for Project Nimbus involvement. Have you checked?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Sundar Pichai got booed at Stanford.",
+          "Students walked out over Israel contract.",
+          "Project Nimbus was a main target.",
+          "ICE immigration work also sparked anger.",
+          "Your next hire could cause backlash."
+        ]
+      },
+      "instagram": {
+        "caption": "Students booed and walked out on Sundar Pichai at his own Stanford graduation.\n\nGoogle's $1.2 billion Project Nimbus contract gives Israel access to their AI tools. Students called that a red line. Past ICE immigration enforcement work was another flashpoint.\n\n🏢 Any hire tied to defense or surveillance contracts now risks public walkouts at your company events.\n\nBefore you send your next offer letter, have you searched the candidate's employer for Project Nimbus involvement? 🔎"
+      }
+    },
+    "instagram_caption": "Students booed and walked out on Sundar Pichai at his own Stanford graduation.\n\nGoogle's $1.2 billion Project Nimbus contract gives Israel access to their AI tools. Students called that a red line. Past ICE immigration enforcement work was another flashpoint.\n\n🏢 Any hire tied to defense or surveillance contracts now risks public walkouts at your company events.\n\nBefore you send your next offer letter, have you searched the candidate's employer for Project Nimbus involvement? 🔎",
+    "carousel_slides": [
+      {
+        "hook": "Boos at Stanford — why now?",
+        "description": "Sundar Pichai faced boos and a walkout over Google’s $1.2 billion Israel contract and ICE ties.",
+        "visual_hint": "booing crowd, stage",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "graduation ceremony crowd"
+      },
+      {
+        "hook": "Project Nimbus sparked walkout.",
+        "description": "Students protested Google’s cloud deal giving Israel military access to AI tools, calling it a red line.",
+        "visual_hint": "cloud server protest sign",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "ICE contracts reignite campus anger.",
+        "description": "Google’s past immigration enforcement work fuels protest chants at university events, reigniting backlash.",
+        "visual_hint": "ICE detention center",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "immigration detention facility",
+        "image": "https://images.pexels.com/photos/23939495/pexels-photo-23939495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Hiring triggers public walkouts now.",
+        "description": "Tech hiring risks backlash if candidates have ties to defense or surveillance contracts like Nimbus.",
+        "visual_hint": "office workers walking out",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "office workers crowd",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to check before hiring.",
+        "description": "Before sending an offer, search the candidate’s past employer for Project Nimbus involvement.",
+        "visual_hint": "search bar on laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop keyboard close up",
+        "image": "https://images.pexels.com/photos/33454829/pexels-photo-33454829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/sundar-io2026-intro-close.png?w=1191",
+    "savedAt": "2026-06-16T09:18:05.899Z",
+    "sourceId": "ea8ad6c2bdaa3b9ecdc1dabf4749f9ff"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "big-tech-s-desperate-last-push-at-ai-regulation",
     "prompt_version": "1.0.0",
     "status": "published",
