@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "eu-publishes-its-ai-content-labelling-playbook-ahe",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
+  "link": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+  "pubDate": "Tue, 16 Jun 2026 10:00:00 +0000",
+  "slides": [
+    "Can your AI content pass EU's new labelling rules?",
+    "The playbook arrives two months before the Act's deadline.",
+    "Labels must now disclose training data sources in full.",
+    "Your current disclaimers likely violate the upcoming standards.",
+    "Audit your AI outputs against the playbook this week."
+  ],
+  "thread_text": [
+    "1. Your AI is already illegal.\n\nThe EU’s new playbook lands in two months. Your current disclaimers don’t meet it.",
+    "2. The label you skipped.\n\nTraining data sources must now be disclosed in full. That’s the part most teams omit.",
+    "3. One missing line costs millions.\n\nNon-compliant labels risk fines before the deadline. The grace period is over.",
+    "4. Your output is evidence.\n\nThe playbook mandates audits of AI-generated content. Every output becomes a compliance record.",
+    "5. Simulate the audit today.\n\nTake your last AI post and check it against the playbook’s disclosure rules. Will it pass?"
+  ],
+  "video_script": [
+    "Your AI labels may already violate EU law.",
+    "Full training data disclosure is now mandatory.",
+    "Old disclaimers won't pass the new playbook.",
+    "Audit your AI outputs within two months.",
+    "Check your last post this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your AI is already illegal.\n\nThe EU’s new playbook lands in two months. Your current disclaimers don’t meet it.",
+        "2. The label you skipped.\n\nTraining data sources must now be disclosed in full. That’s the part most teams omit.",
+        "3. One missing line costs millions.\n\nNon-compliant labels risk fines before the deadline. The grace period is over.",
+        "4. Your output is evidence.\n\nThe playbook mandates audits of AI-generated content. Every output becomes a compliance record.",
+        "5. Simulate the audit today.\n\nTake your last AI post and check it against the playbook’s disclosure rules. Will it pass?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your AI labels may already violate EU law.",
+        "Full training data disclosure is now mandatory.",
+        "Old disclaimers won't pass the new playbook.",
+        "Audit your AI outputs within two months.",
+        "Check your last post this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI content’s disclaimers likely violate the EU’s new rules right now.\n\nThe EU just published its AI content labelling playbook two months before the Act’s deadline. Labels must now disclose training data sources in full 📄. Your current “made with AI” line isn’t enough.\n\nNon-compliant labels risk fines before August. Every output is now a compliance record ⚖️.\n\nTake your last AI post—does its disclosure meet the playbook’s full source requirements? 🔍"
+    }
+  },
+  "instagram_caption": "Your AI content’s disclaimers likely violate the EU’s new rules right now.\n\nThe EU just published its AI content labelling playbook two months before the Act’s deadline. Labels must now disclose training data sources in full 📄. Your current “made with AI” line isn’t enough.\n\nNon-compliant labels risk fines before August. Every output is now a compliance record ⚖️.\n\nTake your last AI post—does its disclosure meet the playbook’s full source requirements? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Is your AI content illegal?",
+      "description": "The EU's new playbook lands in two months. Your current disclaimers likely violate its standards.",
+      "visual_hint": "Red warning label on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "warning sign"
+    },
+    {
+      "hook": "The label you skipped.",
+      "description": "Training data sources must now be disclosed in full. That requirement most teams omit.",
+      "visual_hint": "Magnifying glass over data",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center server",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One missing line costs millions.",
+      "description": "Non-compliant labels risk fines before the deadline. The grace period is over.",
+      "visual_hint": "Stack of euro bills",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "euro coins stack",
+      "image": "https://images.pexels.com/photos/25630321/pexels-photo-25630321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your output is evidence.",
+      "description": "The playbook mandates audits of AI-generated content. Every output becomes a compliance record.",
+      "visual_hint": "Audit checklist on desk",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers meeting",
+      "image": "https://images.pexels.com/photos/7964244/pexels-photo-7964244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Audit your AI.",
+      "description": "Take your last AI post and check it against the playbook’s disclosure rules. Will it pass?",
+      "visual_hint": "Phone showing checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-16T14:53:17.796Z",
+  "sourceId": "9ed262fa17a21ceace3190e3e97830de"
+}

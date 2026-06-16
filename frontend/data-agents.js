@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "chatgpt-s-market-share-slips-below-50-for-first-ti",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "ChatGPT’s market share slips below 50% for first time",
+      "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "pubDate": "Tue, 16 Jun 2026 10:30:00 +0000",
+      "slides": [
+        "ChatGPT's market share just dipped below 50%. Why?",
+        "A new wave of free competitors has arrived.",
+        "These rivals excel at one task ChatGPT struggles with.",
+        "Your current AI workflow may already be outdated.",
+        "Test at least one alternative tool by this week."
+      ],
+      "thread_text": [
+        "1. ChatGPT's grip is slipping.\n\nIt fell below 50% market share for the first time since launch. A shift is underway.",
+        "2. Free rivals are flooding in.\n\nThey don't just match ChatGPT — they beat it on one specific task you rely on daily.",
+        "3. That task: maintaining context.\n\nLong conversations still trip ChatGPT up. New tools handle this without forgetting.",
+        "4. Your workflow is now a legacy.\n\nIf you haven't swapped a single tool in months, you're already behind the curve.",
+        "5. Test one alternative this week.\n\nTake a chat you had yesterday and run it through a free competitor. Did it get further?"
+      ],
+      "video_script": [
+        "ChatGPT lost half its market share.",
+        "Free competitors are surging in.",
+        "They beat it at keeping context.",
+        "Your current setup may be outdated.",
+        "Test a free alternative this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. ChatGPT's grip is slipping.\n\nIt fell below 50% market share for the first time since launch. A shift is underway.",
+            "2. Free rivals are flooding in.\n\nThey don't just match ChatGPT — they beat it on one specific task you rely on daily.",
+            "3. That task: maintaining context.\n\nLong conversations still trip ChatGPT up. New tools handle this without forgetting.",
+            "4. Your workflow is now a legacy.\n\nIf you haven't swapped a single tool in months, you're already behind the curve.",
+            "5. Test one alternative this week.\n\nTake a chat you had yesterday and run it through a free competitor. Did it get further?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "ChatGPT lost half its market share.",
+            "Free competitors are surging in.",
+            "They beat it at keeping context.",
+            "Your current setup may be outdated.",
+            "Test a free alternative this week."
+          ]
+        },
+        "instagram": {
+          "caption": "The tool that handles most of your chats now holds less than half the market for the first time. 📉\n\nFree rivals are flooding in—beating ChatGPT at maintaining context in long conversations without dropping your thread.\n\nIf you haven't tested a new tool this month, your workflow is already behind.\n\nWhat's the longest chat your current setup didn't forget? Run it through a free alternative today."
+        }
+      },
+      "instagram_caption": "The tool that handles most of your chats now holds less than half the market for the first time. 📉\n\nFree rivals are flooding in—beating ChatGPT at maintaining context in long conversations without dropping your thread.\n\nIf you haven't tested a new tool this month, your workflow is already behind.\n\nWhat's the longest chat your current setup didn't forget? Run it through a free alternative today.",
+      "carousel_slides": [
+        {
+          "hook": "Your AI workflow is already outdated.",
+          "description": "Rivals now beat ChatGPT on maintaining long conversations — your daily tool may be the weak link.",
+          "visual_hint": "Graph line dipping down",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Free competitors are flooding in.",
+          "description": "New tools beat ChatGPT on context retention, a task you rely on every day.",
+          "visual_hint": "Multiple app icons appearing",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone app icons",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Context is their secret weapon.",
+          "description": "Long conversations still trip ChatGPT up, but rivals don't forget what you said.",
+          "visual_hint": "Chat bubbles with full history",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "chat bubbles screen",
+          "image": "https://images.pexels.com/photos/5053765/pexels-photo-5053765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Haven't changed tools in months?",
+          "description": "If you haven't swapped a single AI tool lately, you're already behind the curve.",
+          "visual_hint": "Hand holding outdated device",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test a free rival this week.",
+          "description": "Paste a chat you had yesterday into a free competitor. See if it gets further than ChatGPT.",
+          "visual_hint": "Checkmark over comparison chart",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "comparison chart results",
+          "image": "https://images.pexels.com/photos/6592681/pexels-photo-6592681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
+      "savedAt": "2026-06-16T14:54:04.702Z",
+      "sourceId": "752ebc9394a9d189c8546e72fc44352d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "robinhood-s-note-on-10-layoffs-shows-blaming-ai-is",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+      "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+      "pubDate": "Tue, 16 Jun 2026 14:50:09 +0000",
+      "slides": [
+        "Robinhood cuts 10% of staff—but is AI the real reason?",
+        "The note blames redundancy after duplicative roles",
+        "But other fintechs keep headcount while adopting AI",
+        "You must now question if layoffs hide strategy gaps",
+        "Audit your own AI claims before investors do"
+      ],
+      "thread_text": [
+        "1. Layoffs or AI smoke screen?\n\nRobinhood cut 10% of staff, blaming duplicate roles. But the timing with AI adoption is suspicious.",
+        "2. Peers keep people, add AI\n\nOther fintechs are not slashing headcount while integrating automation. So why is Robinhood different?",
+        "3. Layoffs hide strategy gaps\n\nWhen a company cuts staff under the AI banner, it often masks deeper issues in business direction.",
+        "4. Investors will demand proof\n\nSoon, every AI claim will be audited by analysts. False narratives about efficiency won't hold.",
+        "5. Audit your AI claims today\n\nRun a simple test: take one current process and simulate it with AI. Does it actually save time? If not, fix it before others check."
+      ],
+      "video_script": [
+        "Robinhood cuts staff. Is AI the real reason?",
+        "Other fintechs keep hiring while adopting AI.",
+        "Layoffs can mask bigger strategy problems.",
+        "Investors will soon audit your AI claims.",
+        "Audit your own AI moves before they do."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Layoffs or AI smoke screen?\n\nRobinhood cut 10% of staff, blaming duplicate roles. But the timing with AI adoption is suspicious.",
+            "2. Peers keep people, add AI\n\nOther fintechs are not slashing headcount while integrating automation. So why is Robinhood different?",
+            "3. Layoffs hide strategy gaps\n\nWhen a company cuts staff under the AI banner, it often masks deeper issues in business direction.",
+            "4. Investors will demand proof\n\nSoon, every AI claim will be audited by analysts. False narratives about efficiency won't hold.",
+            "5. Audit your AI claims today\n\nRun a simple test: take one current process and simulate it with AI. Does it actually save time? If not, fix it before others check."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Robinhood cuts staff. Is AI the real reason?",
+            "Other fintechs keep hiring while adopting AI.",
+            "Layoffs can mask bigger strategy problems.",
+            "Investors will soon audit your AI claims.",
+            "Audit your own AI moves before they do."
+          ]
+        },
+        "instagram": {
+          "caption": "Robinhood just cut 10% of its staff and blamed “duplicate roles” — right as the industry eyes AI for savings. 🕵️\n\nOther fintechs are adding AI without slashing headcount. That gap suggests the layoffs aren’t about efficiency, but strategy. If a company blames AI for cuts, it’s often hiding deeper issues. 📉\n\nFor you: anyone publishing AI-driven content will face the same audit. Investors will check your efficiency claims — fake it and you lose trust.\n\nRun one current process through AI right now. Does it actually save time? If not, fix it before someone asks. ⏱️"
+        }
+      },
+      "instagram_caption": "Robinhood just cut 10% of its staff and blamed “duplicate roles” — right as the industry eyes AI for savings. 🕵️\n\nOther fintechs are adding AI without slashing headcount. That gap suggests the layoffs aren’t about efficiency, but strategy. If a company blames AI for cuts, it’s often hiding deeper issues. 📉\n\nFor you: anyone publishing AI-driven content will face the same audit. Investors will check your efficiency claims — fake it and you lose trust.\n\nRun one current process through AI right now. Does it actually save time? If not, fix it before someone asks. ⏱️",
+      "carousel_slides": [
+        {
+          "hook": "Layoffs or AI smoke screen?",
+          "description": "Robinhood cut 10% of staff citing duplicate roles, but timing with AI adoption raises suspicion.",
+          "visual_hint": "charred curtain with fire",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "office building fire"
+        },
+        {
+          "hook": "Peers keep people, add AI.",
+          "description": "Other fintechs integrate automation without slashing headcount, making Robinhood's move stand out.",
+          "visual_hint": "two side-by-side graphs",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "bar chart comparison",
+          "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Layoffs hide strategy gaps.",
+          "description": "Cutting staff under AI banner often masks deeper business issues and lack of direction.",
+          "visual_hint": "cracks in a mask",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "broken corporate mask",
+          "image": "https://images.pexels.com/photos/7652381/pexels-photo-7652381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Investors will demand proof.",
+          "description": "Soon analysts will audit every AI claim. False efficiency narratives won't hold up.",
+          "visual_hint": "magnifying glass over chart",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your AI claims today.",
+          "description": "Simulate one process with AI. If it doesn't save time, fix it before investors check.",
+          "visual_hint": "robot arm checking timer",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "factory robot arm",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2021/01/robinhood-volatility.jpg?resize=1200,675",
+      "savedAt": "2026-06-16T14:53:49.975Z",
+      "sourceId": "f9c4e0583697c3a68e389093726f975d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-red-teaming-explained-what-it-is-and-why-you-ne",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI Red Teaming Explained: What It Is and Why You Need It",
+      "link": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/",
+      "pubDate": "Tue, 16 Jun 2026 08:06:43 +0000",
+      "slides": [
+        "Your AI is safe—until someone finds the flaw you missed.",
+        "Red teaming is stress-testing AI for hidden failure modes.",
+        "Attackers use the same methods to jailbreak your model.",
+        "You now need a dedicated red team before launch.",
+        "Schedule a simulated attack on your AI this week."
+      ],
+      "thread_text": [
+        "1. Your AI has a blind spot\n\nEvery model has failure modes its creators never found. Red teaming is the systematic attempt to uncover them before someone else does.",
+        "2. Attackers use the same playbook\n\nThe exact techniques red teams use to stress-test your AI are the ones malicious actors deploy to jailbreak it. The difference is intent.",
+        "3. One flaw is all it takes\n\nA single overlooked vulnerability lets an attacker override your safety guardrails. No patch exists until you find and fix that one gap.",
+        "4. Dedicated red team before launch\n\nWithout a team specifically tasked to break your AI, you rely on luck. Compliance checks miss what adversarial probing catches.",
+        "5. Run a simulated attack this week\n\nTake a sensitive prompt and try to get your AI to reveal private data. If you haven't tested this, your model is not ready for production."
+      ],
+      "video_script": [
+        "Your AI is safe until someone finds the flaw.",
+        "Red teaming stress-tests your model for hidden failures.",
+        "Attackers use the same methods to break in.",
+        "You need a dedicated team before any launch.",
+        "Schedule a simulated attack on your AI this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your AI has a blind spot\n\nEvery model has failure modes its creators never found. Red teaming is the systematic attempt to uncover them before someone else does.",
+            "2. Attackers use the same playbook\n\nThe exact techniques red teams use to stress-test your AI are the ones malicious actors deploy to jailbreak it. The difference is intent.",
+            "3. One flaw is all it takes\n\nA single overlooked vulnerability lets an attacker override your safety guardrails. No patch exists until you find and fix that one gap.",
+            "4. Dedicated red team before launch\n\nWithout a team specifically tasked to break your AI, you rely on luck. Compliance checks miss what adversarial probing catches.",
+            "5. Run a simulated attack this week\n\nTake a sensitive prompt and try to get your AI to reveal private data. If you haven't tested this, your model is not ready for production."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your AI is safe until someone finds the flaw.",
+            "Red teaming stress-tests your model for hidden failures.",
+            "Attackers use the same methods to break in.",
+            "You need a dedicated team before any launch.",
+            "Schedule a simulated attack on your AI this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Your AI model will fail in ways you never imagined—until an attacker finds the blind spot first.\n\nRed teams deliberately probe your AI for hidden failure modes, using the exact same playbook malicious actors deploy to jailbreak it. The only difference is intent.\n\nOne overlooked vulnerability can let someone override your safety guardrails. No patch exists until you find that single gap.\n\nIf you ship content or tools powered by AI, you now need a dedicated team to stress-test it before launch—relying on compliance checks alone is gambling.\n\nWhich sensitive prompt would you use to try making your AI leak private data this week? 🛡️⚡"
+        }
+      },
+      "instagram_caption": "Your AI model will fail in ways you never imagined—until an attacker finds the blind spot first.\n\nRed teams deliberately probe your AI for hidden failure modes, using the exact same playbook malicious actors deploy to jailbreak it. The only difference is intent.\n\nOne overlooked vulnerability can let someone override your safety guardrails. No patch exists until you find that single gap.\n\nIf you ship content or tools powered by AI, you now need a dedicated team to stress-test it before launch—relying on compliance checks alone is gambling.\n\nWhich sensitive prompt would you use to try making your AI leak private data this week? 🛡️⚡",
+      "carousel_slides": [
+        {
+          "hook": "One flaw is all it takes",
+          "description": "Red teams find the vulnerabilities attackers use to jailbreak your AI model.",
+          "visual_hint": "broken chain link",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "broken chain"
+        },
+        {
+          "hook": "Attackers know your AI's secrets",
+          "description": "Red teams exploit the same techniques malicious actors use to bypass your safety guardrails.",
+          "visual_hint": "hacker silhouette code",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No patch for what you missed",
+          "description": "An overlooked vulnerability lets attackers override safeguards—until you find and fix it.",
+          "visual_hint": "magnifying glass crack",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Compliance won't catch it",
+          "description": "A dedicated red team probes adversarial attacks that standard checks ignore completely.",
+          "visual_hint": "robot with target",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "robot arm",
+          "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your AI now—save this",
+          "description": "Try to get your AI to reveal private data with a sensitive prompt today.",
+          "visual_hint": "calendar with alert",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "desk calendar",
+          "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-06-16T14:53:33.953Z",
+      "sourceId": "1369feb16cb16e0a0207065c5a7581b9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "eu-publishes-its-ai-content-labelling-playbook-ahe",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
+      "link": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+      "pubDate": "Tue, 16 Jun 2026 10:00:00 +0000",
+      "slides": [
+        "Can your AI content pass EU's new labelling rules?",
+        "The playbook arrives two months before the Act's deadline.",
+        "Labels must now disclose training data sources in full.",
+        "Your current disclaimers likely violate the upcoming standards.",
+        "Audit your AI outputs against the playbook this week."
+      ],
+      "thread_text": [
+        "1. Your AI is already illegal.\n\nThe EU’s new playbook lands in two months. Your current disclaimers don’t meet it.",
+        "2. The label you skipped.\n\nTraining data sources must now be disclosed in full. That’s the part most teams omit.",
+        "3. One missing line costs millions.\n\nNon-compliant labels risk fines before the deadline. The grace period is over.",
+        "4. Your output is evidence.\n\nThe playbook mandates audits of AI-generated content. Every output becomes a compliance record.",
+        "5. Simulate the audit today.\n\nTake your last AI post and check it against the playbook’s disclosure rules. Will it pass?"
+      ],
+      "video_script": [
+        "Your AI labels may already violate EU law.",
+        "Full training data disclosure is now mandatory.",
+        "Old disclaimers won't pass the new playbook.",
+        "Audit your AI outputs within two months.",
+        "Check your last post this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your AI is already illegal.\n\nThe EU’s new playbook lands in two months. Your current disclaimers don’t meet it.",
+            "2. The label you skipped.\n\nTraining data sources must now be disclosed in full. That’s the part most teams omit.",
+            "3. One missing line costs millions.\n\nNon-compliant labels risk fines before the deadline. The grace period is over.",
+            "4. Your output is evidence.\n\nThe playbook mandates audits of AI-generated content. Every output becomes a compliance record.",
+            "5. Simulate the audit today.\n\nTake your last AI post and check it against the playbook’s disclosure rules. Will it pass?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your AI labels may already violate EU law.",
+            "Full training data disclosure is now mandatory.",
+            "Old disclaimers won't pass the new playbook.",
+            "Audit your AI outputs within two months.",
+            "Check your last post this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Your AI content’s disclaimers likely violate the EU’s new rules right now.\n\nThe EU just published its AI content labelling playbook two months before the Act’s deadline. Labels must now disclose training data sources in full 📄. Your current “made with AI” line isn’t enough.\n\nNon-compliant labels risk fines before August. Every output is now a compliance record ⚖️.\n\nTake your last AI post—does its disclosure meet the playbook’s full source requirements? 🔍"
+        }
+      },
+      "instagram_caption": "Your AI content’s disclaimers likely violate the EU’s new rules right now.\n\nThe EU just published its AI content labelling playbook two months before the Act’s deadline. Labels must now disclose training data sources in full 📄. Your current “made with AI” line isn’t enough.\n\nNon-compliant labels risk fines before August. Every output is now a compliance record ⚖️.\n\nTake your last AI post—does its disclosure meet the playbook’s full source requirements? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Is your AI content illegal?",
+          "description": "The EU's new playbook lands in two months. Your current disclaimers likely violate its standards.",
+          "visual_hint": "Red warning label on screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "warning sign"
+        },
+        {
+          "hook": "The label you skipped.",
+          "description": "Training data sources must now be disclosed in full. That requirement most teams omit.",
+          "visual_hint": "Magnifying glass over data",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center server",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One missing line costs millions.",
+          "description": "Non-compliant labels risk fines before the deadline. The grace period is over.",
+          "visual_hint": "Stack of euro bills",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "euro coins stack",
+          "image": "https://images.pexels.com/photos/25630321/pexels-photo-25630321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your output is evidence.",
+          "description": "The playbook mandates audits of AI-generated content. Every output becomes a compliance record.",
+          "visual_hint": "Audit checklist on desk",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers meeting",
+          "image": "https://images.pexels.com/photos/7964244/pexels-photo-7964244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this. Audit your AI.",
+          "description": "Take your last AI post and check it against the playbook’s disclosure rules. Will it pass?",
+          "visual_hint": "Phone showing checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-06-16T14:53:17.796Z",
+      "sourceId": "9ed262fa17a21ceace3190e3e97830de"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "sundar-pichai-faces-boos-walkout-at-stanford-gradu",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -53299,6 +53715,339 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-con-pomodorini-gialli-stracciatella-e-bottar",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta con pomodorini gialli, stracciatella e bottarga",
+      "link": "https://ricette.giallozafferano.it/Pasta-con-pomodorini-gialli-stracciatella-e-bottarga.html",
+      "pubDate": "Tue, 16 Jun 2026 11:28:00 +0200",
+      "content": "Spaghetti con pomodorini gialli, stracciatella e bottarga Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X SPECIALE Pasta italiana: sapore unico in collaborazione con BENESSERE Primi piatti Pasta Contenuto Sponsorizzato Pasta con pomodorini gialli, stracciatella e bottarga /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA 428,4 Calorie per porzione Energia Kcal 428,4 Carboidrati g 67,2 &nbsp;&nbsp;di cui zuccheri g 2 Proteine g 13,7 Grassi g 13,5 &nbsp;&nbsp;di cui saturi g 4 Fibre g 5,2 Colesterolo mg 19,8 Sodio mg 222,8 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Light Senza glutine Difficoltà: Facile Preparazione: 30 min Cottura: 15 min Dosi per: 4 persone PRESENTAZIONE La pasta con pomodorini gialli, stracciatella e bottarga è un primo piatto senza glutine, elegante e sorprendente, perfetto per chi ama i sapori mediterranei. La dolcezza dei pomodorini gialli, in parte arrostiti in forno e in parte saltati in padella, si trasforma in una salsa vellutata che avvolge la pasta e crea un piacevole contrasto con la sapidità della bottarga . A completare il piatto è la stracciatella, che con la sua consistenza cremosa rende ogni forchettata ancora più avvolgente. Il basilico fresco aggiunge una nota aromatica finale che esalta tutti gli ingredienti. Una ricetta semplice da realizzare ma dal risultato raffinato, ideale per un pranzo speciale o una cena estiva in compagnia. E se avete amato la pasta con pomodorini gialli, stracciatella e bottarga provate anche questi primi piatti: Pasta con sugo di pomodorini e stracciatella Spaghetti con la bottarga Linguine vongole e bottarga Spaghetti al pomodoro fresco, basilico e stracciatella Spaghetti con bottarga e pangrattato Pasta with yellow cherry tomatoes, stracciatella and bottarga INGREDIENTI 428,4 Calorie per porzione Spaghetti Senza Glutine 320 g Pomodorini gialli datterini 300 g Aglio 1 spicchio Olio extravergine d'oliva q.b. Basilico q.b. Pepe nero q.b. Stracciatella 100 g Bottarga 20 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con pomodorini gialli, stracciatella e bottarga Per preparare gli spaghetti con pomodorini gialli, stracciatella e bottarga, iniziate dai pomodorini. Lavate i datterini gialli, poi trasferitene 200 g in una teglia e conditeli con sale 1 e olio extravergine d’oliva 2 . Mescolate bene 3 e cuoceteli in forno ventilato preriscaldato a 230° per 15 minuti. Nel frattempo tagliate a metà i pomodorini rimasti 4 . Versate un filo d’olio in una padella, aggiungete l’aglio 5 e lasciatelo insaporire, quindi unite i pomodorini 6 . Conditeli con sale e pepe 7 , poi rosolateli a fuoco medio per circa 4 minuti 8 . Intanto mettete sul fuoco una pentola colma d'acqua, salata a piacere, che servirà per la cottura della pasta. Quando i pomodorini al forno saranno pronti, trasferiteli in un contenitore alto e stretto 9 . Frullateli con un mixer a immersione 10 fino a ottenere una crema 11 . Eliminate l'aglio dai pomodorini rosolati 12 . Setacciate la crema di pomodorini arrosto direttamente nella padella con i pomodorini saltati 13 14 , quindi mescolate e lasciate insaporire il sugo 15 . Quando l'acqua avrà raggiunto il bollore cuocete gli spaghetti 16 . Scolateli al dente direttamente nella padella con la salsa e mantecateli per amalgamarli bene al condimento 17 . Impiattate gli spaghetti con il loro sughetto 18 . Aggiungete una generosa grattugiata di bottarga 19 , un po' di stracciatella 20 e profumate con il basilico fresco 21 . Servite subito. Conservazione Si consiglia di consumare gli spaghetti con pomodorini gialli, stracciatella e bottarga appena preparati. Se dovessero avanzare, potete conservarli in frigorifero, in un contenitore ermetico, per 1 giorno. Si sconsiglia la congelazione. Consiglio Per un risultato ancora più aromatico, aggiungete la bottarga solo al momento di servire, così da preservarne al meglio il profumo e il sapore. Se preferite una nota più fresca, completate il piatto con qualche scorzetta di limone grattugiata. Per questa ricetta, ti consigliamo di provare gli Spaghetti Gluten Free n° 3 Rummo Pasta Rummo, eccezionale tenuta alla cottura. Grazie alla qualità delle semole utilizzate, alla cura dei maestri pastai e al Metodo Lenta Lavorazione®, la pasta Rummo è la prima certificata per la tenuta alla cottura. Gli oltre 175 anni di esperienza e la trafilatura al bronzo rendono Pasta Rummo eccezionale. Scopri di più Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Stracciatella Bottarga Basilico Spaghetti Aglio Pasta Olio di oliva Scopri tutto sugli ingredienti Presente in: Primi piatti sfiziosi , Primi piatti di pesce , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Spaghetti cremosi con pomodorini gialli e bottarga",
+        "Pomodorini gialli, stracciatella, bottarga e basilico",
+        "Frulla i pomodorini arrostiti fino a crema",
+        "Manteca gli spaghetti nella salsa di pomodorini",
+        "Grattugia bottarga al momento, aggiungi stracciatella"
+      ],
+      "instagram_caption": "Non serve un piatto complicato per regalarsi un’emozione. 🌞  \nBasta una manciata di pomodorini gialli arrostiti, trasformati in una crema vellutata che avvolge gli spaghetti al dente. Poi il trucco: una generosa grattugiata di bottarga al momento e, appena prima di servire, un cuore di stracciatella che si scioglie lentamente tra le scaglie di basilico fresco.  \nUn equilibrio perfetto tra dolcezza, sapidità e cremosità.  \nProvala questo weekend e fammi sapere. 🍝✨",
+      "formats": {
+        "instagram": {
+          "caption": "Non serve un piatto complicato per regalarsi un’emozione. 🌞  \nBasta una manciata di pomodorini gialli arrostiti, trasformati in una crema vellutata che avvolge gli spaghetti al dente. Poi il trucco: una generosa grattugiata di bottarga al momento e, appena prima di servire, un cuore di stracciatella che si scioglie lentamente tra le scaglie di basilico fresco.  \nUn equilibrio perfetto tra dolcezza, sapidità e cremosità.  \nProvala questo weekend e fammi sapere. 🍝✨"
+        },
+        "tiktok": {
+          "script": [
+            "Frullo i pomodorini arrostiti fino a crema.",
+            "Cuocio gli spaghetti e li manteco nella salsa.",
+            "Grattugio la bottarga fresca sopra la pasta.",
+            "Aggiungo la stracciatella e mescolo piano.",
+            "Decoro con basilico e servo subito."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Giallo che abbaglia, una crema che stringe il palato e quel profumo di mare affumicato che ti resta in testa. Questa pasta non la dimentichi più.",
+            "Pomodorini gialli in forno, arrostiti finché non sembrano caramelle salate. Poi frullati: niente grumi, solo una crema densa e solare.",
+            "Scolare gli spaghetti al dente e saltarli nella salsa. La mantecatura è il gesto chiave: tutto si lega, la pasta assorbe e diventa velluto.",
+            "Fuori dal fuoco, aggiungi la stracciatella: si scioglie appena, fila bianca sopra il giallo. Poi bottarga grattugiata al momento, generosa.",
+            "Il trucco? Non cuocere mai la stracciatella, va fredda sulla pasta calda. Una grattata finale di bottarga e basilico spezza. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Frullo i pomodorini arrostiti fino a crema.",
+        "Cuocio gli spaghetti e li manteco nella salsa.",
+        "Grattugio la bottarga fresca sopra la pasta.",
+        "Aggiungo la stracciatella e mescolo piano.",
+        "Decoro con basilico e servo subito."
+      ],
+      "thread_text": [
+        "Giallo che abbaglia, una crema che stringe il palato e quel profumo di mare affumicato che ti resta in testa. Questa pasta non la dimentichi più.",
+        "Pomodorini gialli in forno, arrostiti finché non sembrano caramelle salate. Poi frullati: niente grumi, solo una crema densa e solare.",
+        "Scolare gli spaghetti al dente e saltarli nella salsa. La mantecatura è il gesto chiave: tutto si lega, la pasta assorbe e diventa velluto.",
+        "Fuori dal fuoco, aggiungi la stracciatella: si scioglie appena, fila bianca sopra il giallo. Poi bottarga grattugiata al momento, generosa.",
+        "Il trucco? Non cuocere mai la stracciatella, va fredda sulla pasta calda. Una grattata finale di bottarga e basilico spezza. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Spaghetti cremosi al pomodoro giallo",
+          "description": "Una pasta avvolgente che unisce la dolcezza dei pomodorini gialli, la cremosità della stracciatella e il sapore deciso della bottarga.",
+          "visual_hint": "Primo piano piatto finito",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "spaghetti yellow tomato savory"
+        },
+        {
+          "hook": "Ingredienti di carattere",
+          "description": "Pomodorini gialli arrostiti, stracciatella fresca, bottarga di muggine e basilico: il trio perfetto per un piatto estivo.",
+          "visual_hint": "Ingredienti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "yellow tomatoes stracciatella savory",
+          "image": "https://images.pexels.com/photos/26950709/pexels-photo-26950709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Crematura al momento",
+          "description": "Frulla i pomodorini gialli arrostiti fino a ottenere una vellutata liscia e profumata, base della nostra salsa.",
+          "visual_hint": "Mani che frullano in mixer",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "blending roasted tomatoes savory",
+          "image": "https://images.pexels.com/photos/33984947/pexels-photo-33984947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca in padella",
+          "description": "Scola gli spaghetti al dente e mantecali direttamente nella salsa di pomodorini per assorbire tutto il sapore.",
+          "visual_hint": "Mani che mantecano in padella",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "tossing pasta pan savory",
+          "image": "https://images.pexels.com/photos/30350311/pexels-photo-30350311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tocco finale",
+          "description": "Grattugia bottarga fresca sopra la pasta e completa con ciuffi di stracciatella per un contrasto cremoso e sapido.",
+          "visual_hint": "Bottarga grattugiata sul piatto",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "grated bottarga pasta savory",
+          "image": "https://images.pexels.com/photos/6659618/pexels-photo-6659618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "pomodorini gialli",
+        "stracciatella",
+        "bottarga"
+      ],
+      "image": "https://www.giallozafferano.it/images/362-36289/Pasta-con-pomodorini-gialli-stracciatella-e-bottarga_650x433_wm.jpg",
+      "savedAt": "2026-06-16T14:58:30.685Z",
+      "sourceId": "15a1907b562e6f9afa480b2b5a5ed7e9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-al-pesto-con-fagiolini-e-tonno",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta al pesto con fagiolini e tonno",
+      "link": "https://ricette.giallozafferano.it/Pasta-al-pesto-con-fagiolini-e-tonno.html",
+      "pubDate": "Tue, 16 Jun 2026 11:30:00 +0200",
+      "content": "Pasta al pesto con fagiolini e tonno: ricetta facile e nutriente Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Contenuto Sponsorizzato Pasta al pesto con fagiolini e tonno /5 Ricetta proposta da Lulù Gargari CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA 603,7 Calorie per porzione Energia Kcal 603,7 Carboidrati g 65,4 &nbsp;&nbsp;di cui zuccheri g 4,3 Proteine g 29,5 Grassi g 24,9 &nbsp;&nbsp;di cui saturi g 4,6 Fibre g 4,5 Colesterolo mg 28 Sodio mg 179,1 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Light Senza lattosio Dieta Mediterranea Difficoltà: Facile Preparazione: 15 min Cottura: 15 min Dosi per: 4 persone Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La pasta al pesto con fagiolini e tonno è un primo piatto estivo semplice e colorato, pensato per portare in tavola equilibrio senza rinunciare al gusto. La pasta integrale dona fibre e sazietà, i fagiolini aggiungono freschezza e leggerezza, mentre il pesto preparato con basilico, pinoli, Parmigiano e olio lega il tutto con la sua cremosità. I filetti di tonno all’olio di oliva , fonte di proteine ad alto valore biologico e di nutrienti importanti come iodio, fosforo e vitamina B12, contribuiscono a rendere la ricetta ricca di proteine e grassi buoni , dimostrando che non tutti i grassi sono da demonizzare: l’importante è saperli scegliere, variarli e usarli nelle giuste quantità. Il tocco finale della scorza di limone regala una nota fresca e profumata che esalta il sapore degli altri ingredienti. Pronta in soli 30 minuti , la pasta al pesto con fagiolini e tonno è una ricetta completa, bilanciata e appagante, che dimostra come mangiare bene possa essere anche un grande piacere. Provate anche queste deliziose varianti di pasta al pesto : Pasta fredda al pesto con patate e fagiolini Pasta pesto e pomodorini Pasta con pesto e tonno fresco Bavette al pesto, patate e fagiolini Pasta with pesto, green beans and tuna INGREDIENTI 603,7 Calorie per porzione Tortiglioni Integrali 320 g Filetti di tonno all'olio d'oliva (peso sgocciolato) 200 g Fagiolini 220 g Scorza di limone q.b. Basilico q.b. Per il pesto Basilico 40 g Olio extravergine d'oliva (di conservazione del tonno) 60 g Parmigiano Reggiano DOP 50 g Pinoli 30 g Aglio &frac12; spicchio AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta al pesto con fagiolini e tonno Per preparare la pasta al pesto con fagiolini e tonno, per prima cosa spuntate i fagiolini e cuoceteli al vapore per circa 5-10 minuti, non dovranno ammorbidirsi troppo 1 . Nel frattempo, portate a bollore una pentola d’acqua salata e cuocete la pasta integrale al dente 2 . Mentre la pasta cuoce, occupatevi del pesto: mettete in un mixer le foglie di basilico, precedentemente lavate e asciugate 3 . Unite i pinoli 4 , il Parmigiano Reggiano grattugiato 5 e mezzo spicchio di aglio, privato del germoglio interno 6 . Aggiungete l’olio di conservazione del tonno 7 , chiudete 8 e frullate fino ad ottenere una consistenza cremosa 9 , avendo cura di azionare il mixer a intermittenza per evitare di surriscaldare il basilico. Una volta cotti, scolate i fagiolini e tagliateli a pezzettini 10 . Scolate anche la pasta e trasferitela in una ciotola 11 , poi aggiungete il pesto 12 . Mescolate aiutandovi con poca acqua di cottura per mantecare bene la pasta 13 , poi unite i fagiolini 14 . Amalgamate ancora il tutto 15 . Impiattate 16 e profumate con la scorza di limone grattugiata 17 e qualche foglia di basilico 18 . Infine completate con i filetti di tonno interi 19 e un filo del loro olio 20 . La pasta al pesto con fagiolini e tonno è pronta per essere servita 21 ! Conservazione La pasta al pesto con fagiolini e tonno si può conservare in frigorifero per un giorno. Il pesto di basilico si può conservare in frigorifero, all’interno di un vasetto ben coperto con olio, per 4 giorni. In alternativa potete congelarlo in comode monoporzioni. Consiglio Regolate la quantità di olio nel pesto a seconda della consistenza ottenuta. Al posto dei pinoli potete utilizzare le mandorle pelate. Se preferite, potete omettere l’aglio dal pesto. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Fagiolini Basilico Aglio Tonno Olio di oliva Limone Scopri tutto sugli ingredienti Presente in: Primi piatti veloci , Primi piatti di pesce , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta con cicoria, speck e olive Pasta al pesto con fagiolini e tonno 5.0 Benessere Pasta con pomodorini gialli, stracciatella e bottarga 5.0 SCOPRI Pasta pesto e tonno Pasta zucchine e tonno Pasta fredda con pesto Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Pasta estiva al pesto, fagiolini e tonno",
+        "Tortiglioni integrali, tonno, fagiolini, basilico, pinoli",
+        "Prepara il pesto con basilico, pinoli e parmigiano",
+        "Manteca la pasta con pesto e fagiolini",
+        "Scorza di limone e tonno intero sopra"
+      ],
+      "instagram_caption": "Quando il pesto incontra l’estate in un piatto unico che sa già di mare e orto. 🍃🐟\nQuesta pasta è un abbraccio cremoso: tortiglioni integrali mantecati con pesto fatto in casa (basilico, pinoli, parmigiano), fagiolini croccanti e tonno intero a pezzettoni. Finisco con una grattugiata di scorza di limone che sveglia tutto il sapore. \nSemplice, veloce, e con quel twist proteico che la trasforma in cena perfetta. Provala questo weekend 🌿🍋",
+      "formats": {
+        "instagram": {
+          "caption": "Quando il pesto incontra l’estate in un piatto unico che sa già di mare e orto. 🍃🐟\nQuesta pasta è un abbraccio cremoso: tortiglioni integrali mantecati con pesto fatto in casa (basilico, pinoli, parmigiano), fagiolini croccanti e tonno intero a pezzettoni. Finisco con una grattugiata di scorza di limone che sveglia tutto il sapore. \nSemplice, veloce, e con quel twist proteico che la trasforma in cena perfetta. Provala questo weekend 🌿🍋"
+        },
+        "tiktok": {
+          "script": [
+            "Faccio una pasta estiva al pesto.",
+            "Uso tortiglioni, tonno e fagiolini.",
+            "Preparo il pesto: basilico, pinoli, parmigiano.",
+            "Manteco la pasta con pesto e fagiolini.",
+            "Scorza di limone e tonno intero sopra."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Vento di maestrale, basilico che profuma e una voglia matta di estate in un piatto. 🍝 Oggi vi porto in Sicilia con una pasta che sa di sole, mare e orto.",
+            "La base: tortiglioni integrali che tengono su tutto. Poi tonno in olio d'oliva, fagiolini croccanti, basilico fresco, pinoli e parmigiano. Niente panna, niente scorciatoie.",
+            "Si parte dal pesto: basilico, pinoli, parmigiano e un filo d'olio. Frullo tutto a mano nel mortaio o con il mixer, ma senza scaldare le lame. Deve restare verde brillante.",
+            "Lessate i fagiolini insieme alla pasta negli ultimi 3 minuti. Scolate e mantecate in padella con il pesto fuori dal fuoco, aggiungendo un cucchiaio di acqua di cottura per cremosità.",
+            "Impiattate con fiocchi di tonno intero sopra e una grattugiata di scorza di limone. Il tocco che sveglia tutto. Provatela e fatemi sapere se vi è venuta la stessa voglia di estate 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Faccio una pasta estiva al pesto.",
+        "Uso tortiglioni, tonno e fagiolini.",
+        "Preparo il pesto: basilico, pinoli, parmigiano.",
+        "Manteco la pasta con pesto e fagiolini.",
+        "Scorza di limone e tonno intero sopra."
+      ],
+      "thread_text": [
+        "Vento di maestrale, basilico che profuma e una voglia matta di estate in un piatto. 🍝 Oggi vi porto in Sicilia con una pasta che sa di sole, mare e orto.",
+        "La base: tortiglioni integrali che tengono su tutto. Poi tonno in olio d'oliva, fagiolini croccanti, basilico fresco, pinoli e parmigiano. Niente panna, niente scorciatoie.",
+        "Si parte dal pesto: basilico, pinoli, parmigiano e un filo d'olio. Frullo tutto a mano nel mortaio o con il mixer, ma senza scaldare le lame. Deve restare verde brillante.",
+        "Lessate i fagiolini insieme alla pasta negli ultimi 3 minuti. Scolate e mantecate in padella con il pesto fuori dal fuoco, aggiungendo un cucchiaio di acqua di cottura per cremosità.",
+        "Impiattate con fiocchi di tonno intero sopra e una grattugiata di scorza di limone. Il tocco che sveglia tutto. Provatela e fatemi sapere se vi è venuta la stessa voglia di estate 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta estiva al pesto, fagiolini e tonno",
+          "description": "Un primo fresco e completo, perfetto per l'estate: pesto fragrante, fagiolini croccanti e tonno.",
+          "visual_hint": "Piatto finito su sfondo chiaro",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory pasta pesto tuna"
+        },
+        {
+          "hook": "Ingredienti essenziali",
+          "description": "Tortiglioni integrali, tonno, fagiolini, basilico fresco, pinoli e parmigiano.",
+          "visual_hint": "Ingredienti disposti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory pesto ingredients",
+          "image": "https://images.pexels.com/photos/4871368/pexels-photo-4871368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Prepara il pesto",
+          "description": "Frulla basilico, pinoli e parmigiano con olio extravergine fino a ottenere una crema vellutata.",
+          "visual_hint": "Mani che versano pesto nel mortaio",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory pesto preparation",
+          "image": "https://images.pexels.com/photos/37261919/pexels-photo-37261919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca la pasta",
+          "description": "Scola la pasta al dente, unisci pesto e fagiolini saltati, mescola a fuoco spento per amalgamare.",
+          "visual_hint": "Mani che mescolano pasta in padella",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory tossing pasta pesto",
+          "image": "https://images.pexels.com/photos/35337429/pexels-photo-35337429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tocco finale",
+          "description": "Impiatta con scorza di limone grattugiata e tonno intero sopra per un contrasto fresco e saporito.",
+          "visual_hint": "Piatto impiattato con scorza e tonno",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pesto pasta plate",
+          "image": "https://images.pexels.com/photos/34326272/pexels-photo-34326272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "pesto",
+        "fagiolini",
+        "tonno"
+      ],
+      "image": "https://www.giallozafferano.it/images/362-36298/Pasta-al-pesto-con-fagiolini-e-tonno_650x433_wm.jpg",
+      "savedAt": "2026-06-16T14:58:11.914Z",
+      "sourceId": "dffc11deb33a1f9dd1daa55f054f125b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-con-cicoria-speck-e-olive",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta con cicoria, speck e olive",
+      "link": "https://ricette.giallozafferano.it/Pasta-con-cicoria-speck-e-olive.html",
+      "pubDate": "Tue, 16 Jun 2026 15:06:00 +0200",
+      "content": "Pasta con cicoria, speck e olive: ricetta facile e sfiziosa Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X SPECIALE Pasta italiana: sapore unico in collaborazione con Primi piatti Pasta Contenuto Sponsorizzato Pasta con cicoria, speck e olive /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Difficoltà: Facile Preparazione: 10 min Cottura: 30 min Dosi per: 4 persone Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Se state cercando un’idea originale per variare il menu di tutti i giorni, la pasta con cicoria, speck e olive è il primo piatto che fa al caso vostro. Questa ricetta di pasta , perfetta per portare in tavola qualcosa di diverso dal solito, si distingue per un eccezionale contrasto di sapori e consistenze. Il segreto del piatto risiede nell'equilibrio perfetto tra il gusto piacevolmente amarognolo, pungente e quasi selvatico della cicoria frullata in una morbida crema e le note sapide e stuzzicanti dello speck rosolato in padella. Completano il piatto le olive taggiasche e la nota croccante dei pinoli tostati, che arricchiscono ogni forchettata. Si tratta di un primo piatto sfizioso , capace di mettere insieme la genuinità delle verdure con la golosità di ingredienti più stuzzicanti. Questa ricetta vi permetterà di condire la pasta con un sugo saporito che si può fare in pochi minuti: una proposta perfetta per arricchire i menu della settimana e variare la vostra alimentazione quotidiana in modo decisamente gustoso. Provate altre varianti di questa ricetta: Pasta con crema di fave e cicoria Penne con salmone affumicato e cicoria scottata Fusilli ai ceci con crema di ortiche, speck e stracchino Pasta alla barbabietola su crema di spinaci e speck INGREDIENTI Casarecce 320 g Cicoria 350 g Olive taggiasche denocciolate 60 g Speck a fette 30 g Aglio 1 spicchio Pinoli 50 g Peperoncino fresco q.b. Olio extravergine d'oliva q.b. Grana Padano DOP 40 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con cicoria, speck e olive Per preparare la pasta con cicoria, speck e olive, tagliate la cicoria a pezzi 1 e sbollentatela in acqua bollente salata per due/tre minuti 2 . Nel frattempo, in una padella, scaldate olio, aglio e peperoncino 3 . Scolate la cicoria direttamente nella padella con il soffritto 4 , e saltate il tutto a fuoco medio per una decina di minuti 5 , salando a metà cottura 6 . Rosolate lo speck in padella 7 a fuoco medio per circa 7-8 minuti 8 e tostate i pinoli in una padella a parte per circa 5 minuti a fuoco medio-basso 9 . Dovranno risultare dorati 10 . Una volta cotta la cicoria, eliminate aglio 11 e peperoncino 12 . Versate la cicoria in un boccale insieme a un paio di mestoli di acqua di cottura della pasta 13 e ai pinoli tostati 14 , ricordandovi di tenerne da parte qualcuno per la decorazione finale. Frullate tutto con il mixer a immersione 15 . Dovrete ottenere una crema liscia 16 . Nel frattempo, cuocete le casarecce in acqua bollente salata 17 . Tritate le olive grossolanamente 18 . Scaldate la crema di cicoria in padella e aggiungete le olive 19 . Scolate le casarecce direttamente nella crema 20 , aggiungete un mestolo d’acqua di cottura 21 e saltate tutto insieme. A fuoco spento, aggiungete un filo d'olio 22 e il formaggio grattugiato 23 , poi mescolate bene per amalgamare 24 . Impiattate completando ogni piatto con i pinoli tenuti da parte 25 e lo speck fatto a pezzetti 26 . La vostra pasta con cicoria, speck e olive è pronta da gustare 27 . Conservazione Consigliamo di consumare subito la pasta con cicoria, speck e olive. Potete preparare in anticipo la crema di cicoria e conservarla in frigo. Consiglio Invece dello speck a fette, potete utilizzare anche lo speck in una fetta spessa da ridurre a listarelle. Per insaporire ancora di più la pasta, potete cuocerla nell'acqua di cottura della cicoria. Per questa ricetta, ti consigliamo di provare le Casarecce n° 88 Rummo Pasta Rummo, eccezionale tenuta alla cottura. Grazie alla qualità delle semole utilizzate, alla cura dei maestri pastai e al Metodo Lenta Lavorazione®, la pasta Rummo è la prima certificata per la tenuta alla cottura. Gli oltre 175 anni di esperienza e la trafilatura al bronzo rendono Pasta Rummo eccezionale. Scopri di più Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Cicoria Aglio Pasta Speck Olive in salamoia Olio di oliva Peperoncino Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Una pasta cremosa senza panna e speziata.",
+        "Casarecce, cicoria, speck, olive e pinoli.",
+        "Sbollenta e salta la cicoria in padella.",
+        "Frulla la cicoria e unisci la pasta.",
+        "Guarnisci con speck croccante e pinoli."
+      ],
+      "instagram_caption": "Cremosa senza panna, ma con tutto il carattere di un piatto che non si dimentica. 😮‍💨  \nCasarecce avvolte in una vellutata di cicoria saltata, poi incontrano lo speck croccante, le olive e i pinoli tostati. Un equilibrio perfetto tra amaro, sapido e quel toasty che fa la differenza.  \nLa cicoria la sbollento un attimo, la salto in padella, la frullo e la uso per creare una crema verde che lega tutto senza appesantire.  \nIl risultato? Una pasta che sembra semplice ma ha un’anima da chef.  \nProvala questo weekend e fammi sapere 🌿🍴",
+      "formats": {
+        "instagram": {
+          "caption": "Cremosa senza panna, ma con tutto il carattere di un piatto che non si dimentica. 😮‍💨  \nCasarecce avvolte in una vellutata di cicoria saltata, poi incontrano lo speck croccante, le olive e i pinoli tostati. Un equilibrio perfetto tra amaro, sapido e quel toasty che fa la differenza.  \nLa cicoria la sbollento un attimo, la salto in padella, la frullo e la uso per creare una crema verde che lega tutto senza appesantire.  \nIl risultato? Una pasta che sembra semplice ma ha un’anima da chef.  \nProvala questo weekend e fammi sapere 🌿🍴"
+        },
+        "tiktok": {
+          "script": [
+            "Pasta cremosa senza panna, via di spezie!",
+            "Casarecce, cicoria, speck, olive e pinoli.",
+            "Sbollento la cicoria e la salto in padella.",
+            "Frullo la cicoria e unisco la pasta.",
+            "Guarnisco con speck croccante e pinoli."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Cremosa senza panna, con un twist che spacca. La pasta con cicoria, speck e olive è quel piatto che non sapevi di volere fino al primo morso. Pronto a stupire?",
+            "Parti dalle casarecce. Nel frattempo, sbollenta la cicoria e saltala in padella con un filo d'olio. Aggiungi olive e un po' di pepe: la base è già aromatica.",
+            "Qui arriva il gesto chiave: frulla metà della cicoria con un po' di acqua di cottura. Ottieni una crema verde intenso che avvolge la pasta senza appesantire.",
+            "Tuffa le casarecce al dente nella padella con la crema di cicoria. Manteca con un mestolo di acqua e unisci le olive. Il profumo è già pazzesco.",
+            "Impiatta e corona con speck croccante e pinoli tostati. Il contrasto è perfetto. Provala e dimmi com’è andata, voglio sapere se ti è venuta la stessa cremosità."
+          ]
+        }
+      },
+      "video_script": [
+        "Pasta cremosa senza panna, via di spezie!",
+        "Casarecce, cicoria, speck, olive e pinoli.",
+        "Sbollento la cicoria e la salto in padella.",
+        "Frullo la cicoria e unisco la pasta.",
+        "Guarnisco con speck croccante e pinoli."
+      ],
+      "thread_text": [
+        "Cremosa senza panna, con un twist che spacca. La pasta con cicoria, speck e olive è quel piatto che non sapevi di volere fino al primo morso. Pronto a stupire?",
+        "Parti dalle casarecce. Nel frattempo, sbollenta la cicoria e saltala in padella con un filo d'olio. Aggiungi olive e un po' di pepe: la base è già aromatica.",
+        "Qui arriva il gesto chiave: frulla metà della cicoria con un po' di acqua di cottura. Ottieni una crema verde intenso che avvolge la pasta senza appesantire.",
+        "Tuffa le casarecce al dente nella padella con la crema di cicoria. Manteca con un mestolo di acqua e unisci le olive. Il profumo è già pazzesco.",
+        "Impiatta e corona con speck croccante e pinoli tostati. Il contrasto è perfetto. Provala e dimmi com’è andata, voglio sapere se ti è venuta la stessa cremosità."
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta cremosa senza panna",
+          "description": "Una pasta speziata e avvolgente, con cicoria, speck e olive, senza panna.",
+          "visual_hint": "Ciotola di pasta fumante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory pasta bowl"
+        },
+        {
+          "hook": "Casarecce, cicoria e speck",
+          "description": "Casarecce, cicoria fresca, speck croccante, olive e pinoli: ingredienti semplici ma decisi.",
+          "visual_hint": "Ingredienti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory pasta ingredients",
+          "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sbollenta e salta la cicoria",
+          "description": "Sbollenta la cicoria, poi saltala in padella con un filo d'olio per esaltarne il sapore.",
+          "visual_hint": "Cicoria saltata in padella",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory sauteed chicory",
+          "image": "https://images.pexels.com/photos/33023618/pexels-photo-33023618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Frulla la cicoria con la pasta",
+          "description": "Frulla parte della cicoria con un po' di acqua di cottura, poi unisci la pasta e manteca.",
+          "visual_hint": "Mani che frullano in pentola",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory blending pasta",
+          "image": "https://images.pexels.com/photos/4730661/pexels-photo-4730661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Speck croccante e pinoli",
+          "description": "Guarnisci con speck croccante e pinoli tostati: il tocco finale che conquista.",
+          "visual_hint": "Pasta impiattata con guarnizione",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pasta with speck",
+          "image": "https://images.pexels.com/photos/30217392/pexels-photo-30217392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "cicoria",
+        "speck",
+        "pinoli"
+      ],
+      "image": "https://www.giallozafferano.it/images/362-36286/Pasta-con-cicoria-speck-e-olive_650x433_wm.jpg",
+      "savedAt": "2026-06-16T14:57:52.474Z",
+      "sourceId": "769e139c68353e51e820d43cfb4abd46"
+    },
     {
       "schema_version": 2,
       "agent": "food",

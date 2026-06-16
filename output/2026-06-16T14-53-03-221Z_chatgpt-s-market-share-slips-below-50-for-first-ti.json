@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chatgpt-s-market-share-slips-below-50-for-first-ti",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ChatGPT’s market share slips below 50% for first time",
+  "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+  "pubDate": "Tue, 16 Jun 2026 10:30:00 +0000",
+  "slides": [
+    "ChatGPT's market share just dipped below 50%. Why?",
+    "A new wave of free competitors has arrived.",
+    "These rivals excel at one task ChatGPT struggles with.",
+    "Your current AI workflow may already be outdated.",
+    "Test at least one alternative tool by this week."
+  ],
+  "thread_text": [
+    "1. ChatGPT's grip is slipping.\n\nIt fell below 50% market share for the first time since launch. A shift is underway.",
+    "2. Free rivals are flooding in.\n\nThey don't just match ChatGPT — they beat it on one specific task you rely on daily.",
+    "3. That task: maintaining context.\n\nLong conversations still trip ChatGPT up. New tools handle this without forgetting.",
+    "4. Your workflow is now a legacy.\n\nIf you haven't swapped a single tool in months, you're already behind the curve.",
+    "5. Test one alternative this week.\n\nTake a chat you had yesterday and run it through a free competitor. Did it get further?"
+  ],
+  "video_script": [
+    "ChatGPT lost half its market share.",
+    "Free competitors are surging in.",
+    "They beat it at keeping context.",
+    "Your current setup may be outdated.",
+    "Test a free alternative this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. ChatGPT's grip is slipping.\n\nIt fell below 50% market share for the first time since launch. A shift is underway.",
+        "2. Free rivals are flooding in.\n\nThey don't just match ChatGPT — they beat it on one specific task you rely on daily.",
+        "3. That task: maintaining context.\n\nLong conversations still trip ChatGPT up. New tools handle this without forgetting.",
+        "4. Your workflow is now a legacy.\n\nIf you haven't swapped a single tool in months, you're already behind the curve.",
+        "5. Test one alternative this week.\n\nTake a chat you had yesterday and run it through a free competitor. Did it get further?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "ChatGPT lost half its market share.",
+        "Free competitors are surging in.",
+        "They beat it at keeping context.",
+        "Your current setup may be outdated.",
+        "Test a free alternative this week."
+      ]
+    },
+    "instagram": {
+      "caption": "The tool that handles most of your chats now holds less than half the market for the first time. 📉\n\nFree rivals are flooding in—beating ChatGPT at maintaining context in long conversations without dropping your thread.\n\nIf you haven't tested a new tool this month, your workflow is already behind.\n\nWhat's the longest chat your current setup didn't forget? Run it through a free alternative today."
+    }
+  },
+  "instagram_caption": "The tool that handles most of your chats now holds less than half the market for the first time. 📉\n\nFree rivals are flooding in—beating ChatGPT at maintaining context in long conversations without dropping your thread.\n\nIf you haven't tested a new tool this month, your workflow is already behind.\n\nWhat's the longest chat your current setup didn't forget? Run it through a free alternative today.",
+  "carousel_slides": [
+    {
+      "hook": "Your AI workflow is already outdated.",
+      "description": "Rivals now beat ChatGPT on maintaining long conversations — your daily tool may be the weak link.",
+      "visual_hint": "Graph line dipping down",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Free competitors are flooding in.",
+      "description": "New tools beat ChatGPT on context retention, a task you rely on every day.",
+      "visual_hint": "Multiple app icons appearing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone app icons",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Context is their secret weapon.",
+      "description": "Long conversations still trip ChatGPT up, but rivals don't forget what you said.",
+      "visual_hint": "Chat bubbles with full history",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chat bubbles screen",
+      "image": "https://images.pexels.com/photos/5053765/pexels-photo-5053765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Haven't changed tools in months?",
+      "description": "If you haven't swapped a single AI tool lately, you're already behind the curve.",
+      "visual_hint": "Hand holding outdated device",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test a free rival this week.",
+      "description": "Paste a chat you had yesterday into a free competitor. See if it gets further than ChatGPT.",
+      "visual_hint": "Checkmark over comparison chart",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "comparison chart results",
+      "image": "https://images.pexels.com/photos/6592681/pexels-photo-6592681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
+  "savedAt": "2026-06-16T14:54:04.702Z",
+  "sourceId": "752ebc9394a9d189c8546e72fc44352d"
+}

@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "chatgpt-s-market-share-slips-below-50-for-first-ti",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "ChatGPT’s market share slips below 50% for first time",
+    "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+    "pubDate": "Tue, 16 Jun 2026 10:30:00 +0000",
+    "slides": [
+      "ChatGPT's market share just dipped below 50%. Why?",
+      "A new wave of free competitors has arrived.",
+      "These rivals excel at one task ChatGPT struggles with.",
+      "Your current AI workflow may already be outdated.",
+      "Test at least one alternative tool by this week."
+    ],
+    "thread_text": [
+      "1. ChatGPT's grip is slipping.\n\nIt fell below 50% market share for the first time since launch. A shift is underway.",
+      "2. Free rivals are flooding in.\n\nThey don't just match ChatGPT — they beat it on one specific task you rely on daily.",
+      "3. That task: maintaining context.\n\nLong conversations still trip ChatGPT up. New tools handle this without forgetting.",
+      "4. Your workflow is now a legacy.\n\nIf you haven't swapped a single tool in months, you're already behind the curve.",
+      "5. Test one alternative this week.\n\nTake a chat you had yesterday and run it through a free competitor. Did it get further?"
+    ],
+    "video_script": [
+      "ChatGPT lost half its market share.",
+      "Free competitors are surging in.",
+      "They beat it at keeping context.",
+      "Your current setup may be outdated.",
+      "Test a free alternative this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. ChatGPT's grip is slipping.\n\nIt fell below 50% market share for the first time since launch. A shift is underway.",
+          "2. Free rivals are flooding in.\n\nThey don't just match ChatGPT — they beat it on one specific task you rely on daily.",
+          "3. That task: maintaining context.\n\nLong conversations still trip ChatGPT up. New tools handle this without forgetting.",
+          "4. Your workflow is now a legacy.\n\nIf you haven't swapped a single tool in months, you're already behind the curve.",
+          "5. Test one alternative this week.\n\nTake a chat you had yesterday and run it through a free competitor. Did it get further?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "ChatGPT lost half its market share.",
+          "Free competitors are surging in.",
+          "They beat it at keeping context.",
+          "Your current setup may be outdated.",
+          "Test a free alternative this week."
+        ]
+      },
+      "instagram": {
+        "caption": "The tool that handles most of your chats now holds less than half the market for the first time. 📉\n\nFree rivals are flooding in—beating ChatGPT at maintaining context in long conversations without dropping your thread.\n\nIf you haven't tested a new tool this month, your workflow is already behind.\n\nWhat's the longest chat your current setup didn't forget? Run it through a free alternative today."
+      }
+    },
+    "instagram_caption": "The tool that handles most of your chats now holds less than half the market for the first time. 📉\n\nFree rivals are flooding in—beating ChatGPT at maintaining context in long conversations without dropping your thread.\n\nIf you haven't tested a new tool this month, your workflow is already behind.\n\nWhat's the longest chat your current setup didn't forget? Run it through a free alternative today.",
+    "carousel_slides": [
+      {
+        "hook": "Your AI workflow is already outdated.",
+        "description": "Rivals now beat ChatGPT on maintaining long conversations — your daily tool may be the weak link.",
+        "visual_hint": "Graph line dipping down",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Free competitors are flooding in.",
+        "description": "New tools beat ChatGPT on context retention, a task you rely on every day.",
+        "visual_hint": "Multiple app icons appearing",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone app icons",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Context is their secret weapon.",
+        "description": "Long conversations still trip ChatGPT up, but rivals don't forget what you said.",
+        "visual_hint": "Chat bubbles with full history",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chat bubbles screen",
+        "image": "https://images.pexels.com/photos/5053765/pexels-photo-5053765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Haven't changed tools in months?",
+        "description": "If you haven't swapped a single AI tool lately, you're already behind the curve.",
+        "visual_hint": "Hand holding outdated device",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test a free rival this week.",
+        "description": "Paste a chat you had yesterday into a free competitor. See if it gets further than ChatGPT.",
+        "visual_hint": "Checkmark over comparison chart",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "comparison chart results",
+        "image": "https://images.pexels.com/photos/6592681/pexels-photo-6592681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
+    "savedAt": "2026-06-16T14:54:04.702Z",
+    "sourceId": "752ebc9394a9d189c8546e72fc44352d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "robinhood-s-note-on-10-layoffs-shows-blaming-ai-is",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+    "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+    "pubDate": "Tue, 16 Jun 2026 14:50:09 +0000",
+    "slides": [
+      "Robinhood cuts 10% of staff—but is AI the real reason?",
+      "The note blames redundancy after duplicative roles",
+      "But other fintechs keep headcount while adopting AI",
+      "You must now question if layoffs hide strategy gaps",
+      "Audit your own AI claims before investors do"
+    ],
+    "thread_text": [
+      "1. Layoffs or AI smoke screen?\n\nRobinhood cut 10% of staff, blaming duplicate roles. But the timing with AI adoption is suspicious.",
+      "2. Peers keep people, add AI\n\nOther fintechs are not slashing headcount while integrating automation. So why is Robinhood different?",
+      "3. Layoffs hide strategy gaps\n\nWhen a company cuts staff under the AI banner, it often masks deeper issues in business direction.",
+      "4. Investors will demand proof\n\nSoon, every AI claim will be audited by analysts. False narratives about efficiency won't hold.",
+      "5. Audit your AI claims today\n\nRun a simple test: take one current process and simulate it with AI. Does it actually save time? If not, fix it before others check."
+    ],
+    "video_script": [
+      "Robinhood cuts staff. Is AI the real reason?",
+      "Other fintechs keep hiring while adopting AI.",
+      "Layoffs can mask bigger strategy problems.",
+      "Investors will soon audit your AI claims.",
+      "Audit your own AI moves before they do."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Layoffs or AI smoke screen?\n\nRobinhood cut 10% of staff, blaming duplicate roles. But the timing with AI adoption is suspicious.",
+          "2. Peers keep people, add AI\n\nOther fintechs are not slashing headcount while integrating automation. So why is Robinhood different?",
+          "3. Layoffs hide strategy gaps\n\nWhen a company cuts staff under the AI banner, it often masks deeper issues in business direction.",
+          "4. Investors will demand proof\n\nSoon, every AI claim will be audited by analysts. False narratives about efficiency won't hold.",
+          "5. Audit your AI claims today\n\nRun a simple test: take one current process and simulate it with AI. Does it actually save time? If not, fix it before others check."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Robinhood cuts staff. Is AI the real reason?",
+          "Other fintechs keep hiring while adopting AI.",
+          "Layoffs can mask bigger strategy problems.",
+          "Investors will soon audit your AI claims.",
+          "Audit your own AI moves before they do."
+        ]
+      },
+      "instagram": {
+        "caption": "Robinhood just cut 10% of its staff and blamed “duplicate roles” — right as the industry eyes AI for savings. 🕵️\n\nOther fintechs are adding AI without slashing headcount. That gap suggests the layoffs aren’t about efficiency, but strategy. If a company blames AI for cuts, it’s often hiding deeper issues. 📉\n\nFor you: anyone publishing AI-driven content will face the same audit. Investors will check your efficiency claims — fake it and you lose trust.\n\nRun one current process through AI right now. Does it actually save time? If not, fix it before someone asks. ⏱️"
+      }
+    },
+    "instagram_caption": "Robinhood just cut 10% of its staff and blamed “duplicate roles” — right as the industry eyes AI for savings. 🕵️\n\nOther fintechs are adding AI without slashing headcount. That gap suggests the layoffs aren’t about efficiency, but strategy. If a company blames AI for cuts, it’s often hiding deeper issues. 📉\n\nFor you: anyone publishing AI-driven content will face the same audit. Investors will check your efficiency claims — fake it and you lose trust.\n\nRun one current process through AI right now. Does it actually save time? If not, fix it before someone asks. ⏱️",
+    "carousel_slides": [
+      {
+        "hook": "Layoffs or AI smoke screen?",
+        "description": "Robinhood cut 10% of staff citing duplicate roles, but timing with AI adoption raises suspicion.",
+        "visual_hint": "charred curtain with fire",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "office building fire"
+      },
+      {
+        "hook": "Peers keep people, add AI.",
+        "description": "Other fintechs integrate automation without slashing headcount, making Robinhood's move stand out.",
+        "visual_hint": "two side-by-side graphs",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "bar chart comparison",
+        "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Layoffs hide strategy gaps.",
+        "description": "Cutting staff under AI banner often masks deeper business issues and lack of direction.",
+        "visual_hint": "cracks in a mask",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "broken corporate mask",
+        "image": "https://images.pexels.com/photos/7652381/pexels-photo-7652381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Investors will demand proof.",
+        "description": "Soon analysts will audit every AI claim. False efficiency narratives won't hold up.",
+        "visual_hint": "magnifying glass over chart",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your AI claims today.",
+        "description": "Simulate one process with AI. If it doesn't save time, fix it before investors check.",
+        "visual_hint": "robot arm checking timer",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2021/01/robinhood-volatility.jpg?resize=1200,675",
+    "savedAt": "2026-06-16T14:53:49.975Z",
+    "sourceId": "f9c4e0583697c3a68e389093726f975d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-red-teaming-explained-what-it-is-and-why-you-ne",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI Red Teaming Explained: What It Is and Why You Need It",
+    "link": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/",
+    "pubDate": "Tue, 16 Jun 2026 08:06:43 +0000",
+    "slides": [
+      "Your AI is safe—until someone finds the flaw you missed.",
+      "Red teaming is stress-testing AI for hidden failure modes.",
+      "Attackers use the same methods to jailbreak your model.",
+      "You now need a dedicated red team before launch.",
+      "Schedule a simulated attack on your AI this week."
+    ],
+    "thread_text": [
+      "1. Your AI has a blind spot\n\nEvery model has failure modes its creators never found. Red teaming is the systematic attempt to uncover them before someone else does.",
+      "2. Attackers use the same playbook\n\nThe exact techniques red teams use to stress-test your AI are the ones malicious actors deploy to jailbreak it. The difference is intent.",
+      "3. One flaw is all it takes\n\nA single overlooked vulnerability lets an attacker override your safety guardrails. No patch exists until you find and fix that one gap.",
+      "4. Dedicated red team before launch\n\nWithout a team specifically tasked to break your AI, you rely on luck. Compliance checks miss what adversarial probing catches.",
+      "5. Run a simulated attack this week\n\nTake a sensitive prompt and try to get your AI to reveal private data. If you haven't tested this, your model is not ready for production."
+    ],
+    "video_script": [
+      "Your AI is safe until someone finds the flaw.",
+      "Red teaming stress-tests your model for hidden failures.",
+      "Attackers use the same methods to break in.",
+      "You need a dedicated team before any launch.",
+      "Schedule a simulated attack on your AI this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your AI has a blind spot\n\nEvery model has failure modes its creators never found. Red teaming is the systematic attempt to uncover them before someone else does.",
+          "2. Attackers use the same playbook\n\nThe exact techniques red teams use to stress-test your AI are the ones malicious actors deploy to jailbreak it. The difference is intent.",
+          "3. One flaw is all it takes\n\nA single overlooked vulnerability lets an attacker override your safety guardrails. No patch exists until you find and fix that one gap.",
+          "4. Dedicated red team before launch\n\nWithout a team specifically tasked to break your AI, you rely on luck. Compliance checks miss what adversarial probing catches.",
+          "5. Run a simulated attack this week\n\nTake a sensitive prompt and try to get your AI to reveal private data. If you haven't tested this, your model is not ready for production."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your AI is safe until someone finds the flaw.",
+          "Red teaming stress-tests your model for hidden failures.",
+          "Attackers use the same methods to break in.",
+          "You need a dedicated team before any launch.",
+          "Schedule a simulated attack on your AI this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Your AI model will fail in ways you never imagined—until an attacker finds the blind spot first.\n\nRed teams deliberately probe your AI for hidden failure modes, using the exact same playbook malicious actors deploy to jailbreak it. The only difference is intent.\n\nOne overlooked vulnerability can let someone override your safety guardrails. No patch exists until you find that single gap.\n\nIf you ship content or tools powered by AI, you now need a dedicated team to stress-test it before launch—relying on compliance checks alone is gambling.\n\nWhich sensitive prompt would you use to try making your AI leak private data this week? 🛡️⚡"
+      }
+    },
+    "instagram_caption": "Your AI model will fail in ways you never imagined—until an attacker finds the blind spot first.\n\nRed teams deliberately probe your AI for hidden failure modes, using the exact same playbook malicious actors deploy to jailbreak it. The only difference is intent.\n\nOne overlooked vulnerability can let someone override your safety guardrails. No patch exists until you find that single gap.\n\nIf you ship content or tools powered by AI, you now need a dedicated team to stress-test it before launch—relying on compliance checks alone is gambling.\n\nWhich sensitive prompt would you use to try making your AI leak private data this week? 🛡️⚡",
+    "carousel_slides": [
+      {
+        "hook": "One flaw is all it takes",
+        "description": "Red teams find the vulnerabilities attackers use to jailbreak your AI model.",
+        "visual_hint": "broken chain link",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "broken chain"
+      },
+      {
+        "hook": "Attackers know your AI's secrets",
+        "description": "Red teams exploit the same techniques malicious actors use to bypass your safety guardrails.",
+        "visual_hint": "hacker silhouette code",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer code",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No patch for what you missed",
+        "description": "An overlooked vulnerability lets attackers override safeguards—until you find and fix it.",
+        "visual_hint": "magnifying glass crack",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Compliance won't catch it",
+        "description": "A dedicated red team probes adversarial attacks that standard checks ignore completely.",
+        "visual_hint": "robot with target",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot arm",
+        "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your AI now—save this",
+        "description": "Try to get your AI to reveal private data with a sensitive prompt today.",
+        "visual_hint": "calendar with alert",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "desk calendar",
+        "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-16T14:53:33.953Z",
+    "sourceId": "1369feb16cb16e0a0207065c5a7581b9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "eu-publishes-its-ai-content-labelling-playbook-ahe",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
+    "link": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+    "pubDate": "Tue, 16 Jun 2026 10:00:00 +0000",
+    "slides": [
+      "Can your AI content pass EU's new labelling rules?",
+      "The playbook arrives two months before the Act's deadline.",
+      "Labels must now disclose training data sources in full.",
+      "Your current disclaimers likely violate the upcoming standards.",
+      "Audit your AI outputs against the playbook this week."
+    ],
+    "thread_text": [
+      "1. Your AI is already illegal.\n\nThe EU’s new playbook lands in two months. Your current disclaimers don’t meet it.",
+      "2. The label you skipped.\n\nTraining data sources must now be disclosed in full. That’s the part most teams omit.",
+      "3. One missing line costs millions.\n\nNon-compliant labels risk fines before the deadline. The grace period is over.",
+      "4. Your output is evidence.\n\nThe playbook mandates audits of AI-generated content. Every output becomes a compliance record.",
+      "5. Simulate the audit today.\n\nTake your last AI post and check it against the playbook’s disclosure rules. Will it pass?"
+    ],
+    "video_script": [
+      "Your AI labels may already violate EU law.",
+      "Full training data disclosure is now mandatory.",
+      "Old disclaimers won't pass the new playbook.",
+      "Audit your AI outputs within two months.",
+      "Check your last post this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your AI is already illegal.\n\nThe EU’s new playbook lands in two months. Your current disclaimers don’t meet it.",
+          "2. The label you skipped.\n\nTraining data sources must now be disclosed in full. That’s the part most teams omit.",
+          "3. One missing line costs millions.\n\nNon-compliant labels risk fines before the deadline. The grace period is over.",
+          "4. Your output is evidence.\n\nThe playbook mandates audits of AI-generated content. Every output becomes a compliance record.",
+          "5. Simulate the audit today.\n\nTake your last AI post and check it against the playbook’s disclosure rules. Will it pass?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your AI labels may already violate EU law.",
+          "Full training data disclosure is now mandatory.",
+          "Old disclaimers won't pass the new playbook.",
+          "Audit your AI outputs within two months.",
+          "Check your last post this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Your AI content’s disclaimers likely violate the EU’s new rules right now.\n\nThe EU just published its AI content labelling playbook two months before the Act’s deadline. Labels must now disclose training data sources in full 📄. Your current “made with AI” line isn’t enough.\n\nNon-compliant labels risk fines before August. Every output is now a compliance record ⚖️.\n\nTake your last AI post—does its disclosure meet the playbook’s full source requirements? 🔍"
+      }
+    },
+    "instagram_caption": "Your AI content’s disclaimers likely violate the EU’s new rules right now.\n\nThe EU just published its AI content labelling playbook two months before the Act’s deadline. Labels must now disclose training data sources in full 📄. Your current “made with AI” line isn’t enough.\n\nNon-compliant labels risk fines before August. Every output is now a compliance record ⚖️.\n\nTake your last AI post—does its disclosure meet the playbook’s full source requirements? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Is your AI content illegal?",
+        "description": "The EU's new playbook lands in two months. Your current disclaimers likely violate its standards.",
+        "visual_hint": "Red warning label on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "warning sign"
+      },
+      {
+        "hook": "The label you skipped.",
+        "description": "Training data sources must now be disclosed in full. That requirement most teams omit.",
+        "visual_hint": "Magnifying glass over data",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center server",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One missing line costs millions.",
+        "description": "Non-compliant labels risk fines before the deadline. The grace period is over.",
+        "visual_hint": "Stack of euro bills",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "euro coins stack",
+        "image": "https://images.pexels.com/photos/25630321/pexels-photo-25630321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your output is evidence.",
+        "description": "The playbook mandates audits of AI-generated content. Every output becomes a compliance record.",
+        "visual_hint": "Audit checklist on desk",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers meeting",
+        "image": "https://images.pexels.com/photos/7964244/pexels-photo-7964244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Audit your AI.",
+        "description": "Take your last AI post and check it against the playbook’s disclosure rules. Will it pass?",
+        "visual_hint": "Phone showing checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-16T14:53:17.796Z",
+    "sourceId": "9ed262fa17a21ceace3190e3e97830de"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "sundar-pichai-faces-boos-walkout-at-stanford-gradu",
     "prompt_version": "1.0.0",
     "status": "published",
@@ -108,7 +524,7 @@ window.ARTICLES = [
     "agent": "ai-news",
     "slug": "big-tech-s-desperate-last-push-at-ai-regulation",
     "prompt_version": "1.0.0",
-    "status": "published",
+    "status": "approved",
     "title": "Big Tech’s desperate last push at AI regulation",
     "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
     "pubDate": "2026-06-15T17:44:10.000Z",

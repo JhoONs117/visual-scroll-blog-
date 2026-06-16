@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "robinhood-s-note-on-10-layoffs-shows-blaming-ai-is",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+  "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+  "pubDate": "Tue, 16 Jun 2026 14:50:09 +0000",
+  "slides": [
+    "Robinhood cuts 10% of staff—but is AI the real reason?",
+    "The note blames redundancy after duplicative roles",
+    "But other fintechs keep headcount while adopting AI",
+    "You must now question if layoffs hide strategy gaps",
+    "Audit your own AI claims before investors do"
+  ],
+  "thread_text": [
+    "1. Layoffs or AI smoke screen?\n\nRobinhood cut 10% of staff, blaming duplicate roles. But the timing with AI adoption is suspicious.",
+    "2. Peers keep people, add AI\n\nOther fintechs are not slashing headcount while integrating automation. So why is Robinhood different?",
+    "3. Layoffs hide strategy gaps\n\nWhen a company cuts staff under the AI banner, it often masks deeper issues in business direction.",
+    "4. Investors will demand proof\n\nSoon, every AI claim will be audited by analysts. False narratives about efficiency won't hold.",
+    "5. Audit your AI claims today\n\nRun a simple test: take one current process and simulate it with AI. Does it actually save time? If not, fix it before others check."
+  ],
+  "video_script": [
+    "Robinhood cuts staff. Is AI the real reason?",
+    "Other fintechs keep hiring while adopting AI.",
+    "Layoffs can mask bigger strategy problems.",
+    "Investors will soon audit your AI claims.",
+    "Audit your own AI moves before they do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Layoffs or AI smoke screen?\n\nRobinhood cut 10% of staff, blaming duplicate roles. But the timing with AI adoption is suspicious.",
+        "2. Peers keep people, add AI\n\nOther fintechs are not slashing headcount while integrating automation. So why is Robinhood different?",
+        "3. Layoffs hide strategy gaps\n\nWhen a company cuts staff under the AI banner, it often masks deeper issues in business direction.",
+        "4. Investors will demand proof\n\nSoon, every AI claim will be audited by analysts. False narratives about efficiency won't hold.",
+        "5. Audit your AI claims today\n\nRun a simple test: take one current process and simulate it with AI. Does it actually save time? If not, fix it before others check."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Robinhood cuts staff. Is AI the real reason?",
+        "Other fintechs keep hiring while adopting AI.",
+        "Layoffs can mask bigger strategy problems.",
+        "Investors will soon audit your AI claims.",
+        "Audit your own AI moves before they do."
+      ]
+    },
+    "instagram": {
+      "caption": "Robinhood just cut 10% of its staff and blamed “duplicate roles” — right as the industry eyes AI for savings. 🕵️\n\nOther fintechs are adding AI without slashing headcount. That gap suggests the layoffs aren’t about efficiency, but strategy. If a company blames AI for cuts, it’s often hiding deeper issues. 📉\n\nFor you: anyone publishing AI-driven content will face the same audit. Investors will check your efficiency claims — fake it and you lose trust.\n\nRun one current process through AI right now. Does it actually save time? If not, fix it before someone asks. ⏱️"
+    }
+  },
+  "instagram_caption": "Robinhood just cut 10% of its staff and blamed “duplicate roles” — right as the industry eyes AI for savings. 🕵️\n\nOther fintechs are adding AI without slashing headcount. That gap suggests the layoffs aren’t about efficiency, but strategy. If a company blames AI for cuts, it’s often hiding deeper issues. 📉\n\nFor you: anyone publishing AI-driven content will face the same audit. Investors will check your efficiency claims — fake it and you lose trust.\n\nRun one current process through AI right now. Does it actually save time? If not, fix it before someone asks. ⏱️",
+  "carousel_slides": [
+    {
+      "hook": "Layoffs or AI smoke screen?",
+      "description": "Robinhood cut 10% of staff citing duplicate roles, but timing with AI adoption raises suspicion.",
+      "visual_hint": "charred curtain with fire",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office building fire"
+    },
+    {
+      "hook": "Peers keep people, add AI.",
+      "description": "Other fintechs integrate automation without slashing headcount, making Robinhood's move stand out.",
+      "visual_hint": "two side-by-side graphs",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "bar chart comparison",
+      "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Layoffs hide strategy gaps.",
+      "description": "Cutting staff under AI banner often masks deeper business issues and lack of direction.",
+      "visual_hint": "cracks in a mask",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken corporate mask",
+      "image": "https://images.pexels.com/photos/7652381/pexels-photo-7652381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Investors will demand proof.",
+      "description": "Soon analysts will audit every AI claim. False efficiency narratives won't hold up.",
+      "visual_hint": "magnifying glass over chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your AI claims today.",
+      "description": "Simulate one process with AI. If it doesn't save time, fix it before investors check.",
+      "visual_hint": "robot arm checking timer",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "factory robot arm",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2021/01/robinhood-volatility.jpg?resize=1200,675",
+  "savedAt": "2026-06-16T14:53:49.975Z",
+  "sourceId": "f9c4e0583697c3a68e389093726f975d"
+}
