@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "pramaana-labs-raises-27m-seed-round-from-khosla-ve",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+  "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+  "pubDate": "Wed, 17 Jun 2026 14:15:22 +0000",
+  "slides": [
+    "Can $27M make AI provably safe?",
+    "Pramaana Labs targets hidden logic errors in models.",
+    "Most AI validation skips formal mathematical proofs.",
+    "Your AI could fail on edge cases you never test.",
+    "Demand proofs before deploying critical AI systems."
+  ],
+  "thread_text": [
+    "1. $27M for safety?\n\nPramaana Labs just raised that sum to hunt hidden logic errors—the ones formal proofs can catch.",
+    "2. Most AI validation skips proofs\n\nTeams rely on test sets. But a test pass doesn't mean your model is correct.",
+    "3. Edge cases strike without proof\n\nYour AI could fail on inputs no one thought to test—and you'd never know until crash time.",
+    "4. Formal methods are the missing layer\n\nThey mathematically guarantee behavior, not just guess. Banks and planes already use them.",
+    "5. When will you demand proofs?\n\nTake your critical model this week and ask: what edge case would kill it? Run the formal check."
+  ],
+  "video_script": [
+    "Can 27 million make AI provably safe?",
+    "Pramaana Labs targets hidden logic errors.",
+    "Most AI skips formal mathematical proofs.",
+    "Your AI fails on untested edge cases.",
+    "Demand proofs before deploying critical systems."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $27M for safety?\n\nPramaana Labs just raised that sum to hunt hidden logic errors—the ones formal proofs can catch.",
+        "2. Most AI validation skips proofs\n\nTeams rely on test sets. But a test pass doesn't mean your model is correct.",
+        "3. Edge cases strike without proof\n\nYour AI could fail on inputs no one thought to test—and you'd never know until crash time.",
+        "4. Formal methods are the missing layer\n\nThey mathematically guarantee behavior, not just guess. Banks and planes already use them.",
+        "5. When will you demand proofs?\n\nTake your critical model this week and ask: what edge case would kill it? Run the formal check."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can 27 million make AI provably safe?",
+        "Pramaana Labs targets hidden logic errors.",
+        "Most AI skips formal mathematical proofs.",
+        "Your AI fails on untested edge cases.",
+        "Demand proofs before deploying critical systems."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next AI failure might not come from bad data, but from a hidden logic error a test never caught. 🧠\n\nPramaana Labs just raised $27M from Khosla Ventures to apply formal verification—the math-based proof system used in aviation—to neural networks. ✅ Most AI safety today skips these proofs, relying on test sets that miss edge cases.\n\nIf you build or deploy critical models, you can no longer assume a passing test suite means your system is correct. 🔍\n\nWhat's one corner case your AI would fail right now that a formal proof could expose?"
+    }
+  },
+  "instagram_caption": "Your next AI failure might not come from bad data, but from a hidden logic error a test never caught. 🧠\n\nPramaana Labs just raised $27M from Khosla Ventures to apply formal verification—the math-based proof system used in aviation—to neural networks. ✅ Most AI safety today skips these proofs, relying on test sets that miss edge cases.\n\nIf you build or deploy critical models, you can no longer assume a passing test suite means your system is correct. 🔍\n\nWhat's one corner case your AI would fail right now that a formal proof could expose?",
+  "carousel_slides": [
+    {
+      "hook": "Your AI has blind spots.",
+      "description": "Most models pass tests but fail on hidden logic errors. $27M now targets formal proofs to catch them.",
+      "visual_hint": "server room with warning lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room warning"
+    },
+    {
+      "hook": "Test sets aren't enough.",
+      "description": "Passing tests doesn't prove correctness. Edge cases strike where no one thought to check.",
+      "visual_hint": "test chart with failing red dot",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chart red dot",
+      "image": "https://images.pexels.com/photos/7947845/pexels-photo-7947845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Edge cases kill silently.",
+      "description": "Untested inputs can crash your AI. Formal proofs catch flaws before deployment.",
+      "visual_hint": "factory robot stopping suddenly",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot stopping",
+      "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Formal proofs guarantee behavior.",
+      "description": "Mathematical verification ensures no hidden errors. Banks and planes already trust it.",
+      "visual_hint": "mathematical formula on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "formula on screen",
+      "image": "https://images.pexels.com/photos/8970689/pexels-photo-8970689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to demand proofs.",
+      "description": "This week, ask your team: what edge case would kill our model? Run the formal check now.",
+      "visual_hint": "checklist with checkmark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist checkmark",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-9.53.46-AM.jpg?resize=1200,560",
+  "savedAt": "2026-06-17T16:52:02.442Z",
+  "sourceId": "eb0664d82863a41eb4197ad4d52612ea"
+}

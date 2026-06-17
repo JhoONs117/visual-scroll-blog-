@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "pramaana-labs-raises-27m-seed-round-from-khosla-ve",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+    "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+    "pubDate": "Wed, 17 Jun 2026 14:15:22 +0000",
+    "slides": [
+      "Can $27M make AI provably safe?",
+      "Pramaana Labs targets hidden logic errors in models.",
+      "Most AI validation skips formal mathematical proofs.",
+      "Your AI could fail on edge cases you never test.",
+      "Demand proofs before deploying critical AI systems."
+    ],
+    "thread_text": [
+      "1. $27M for safety?\n\nPramaana Labs just raised that sum to hunt hidden logic errors—the ones formal proofs can catch.",
+      "2. Most AI validation skips proofs\n\nTeams rely on test sets. But a test pass doesn't mean your model is correct.",
+      "3. Edge cases strike without proof\n\nYour AI could fail on inputs no one thought to test—and you'd never know until crash time.",
+      "4. Formal methods are the missing layer\n\nThey mathematically guarantee behavior, not just guess. Banks and planes already use them.",
+      "5. When will you demand proofs?\n\nTake your critical model this week and ask: what edge case would kill it? Run the formal check."
+    ],
+    "video_script": [
+      "Can 27 million make AI provably safe?",
+      "Pramaana Labs targets hidden logic errors.",
+      "Most AI skips formal mathematical proofs.",
+      "Your AI fails on untested edge cases.",
+      "Demand proofs before deploying critical systems."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $27M for safety?\n\nPramaana Labs just raised that sum to hunt hidden logic errors—the ones formal proofs can catch.",
+          "2. Most AI validation skips proofs\n\nTeams rely on test sets. But a test pass doesn't mean your model is correct.",
+          "3. Edge cases strike without proof\n\nYour AI could fail on inputs no one thought to test—and you'd never know until crash time.",
+          "4. Formal methods are the missing layer\n\nThey mathematically guarantee behavior, not just guess. Banks and planes already use them.",
+          "5. When will you demand proofs?\n\nTake your critical model this week and ask: what edge case would kill it? Run the formal check."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can 27 million make AI provably safe?",
+          "Pramaana Labs targets hidden logic errors.",
+          "Most AI skips formal mathematical proofs.",
+          "Your AI fails on untested edge cases.",
+          "Demand proofs before deploying critical systems."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next AI failure might not come from bad data, but from a hidden logic error a test never caught. 🧠\n\nPramaana Labs just raised $27M from Khosla Ventures to apply formal verification—the math-based proof system used in aviation—to neural networks. ✅ Most AI safety today skips these proofs, relying on test sets that miss edge cases.\n\nIf you build or deploy critical models, you can no longer assume a passing test suite means your system is correct. 🔍\n\nWhat's one corner case your AI would fail right now that a formal proof could expose?"
+      }
+    },
+    "instagram_caption": "Your next AI failure might not come from bad data, but from a hidden logic error a test never caught. 🧠\n\nPramaana Labs just raised $27M from Khosla Ventures to apply formal verification—the math-based proof system used in aviation—to neural networks. ✅ Most AI safety today skips these proofs, relying on test sets that miss edge cases.\n\nIf you build or deploy critical models, you can no longer assume a passing test suite means your system is correct. 🔍\n\nWhat's one corner case your AI would fail right now that a formal proof could expose?",
+    "carousel_slides": [
+      {
+        "hook": "Your AI has blind spots.",
+        "description": "Most models pass tests but fail on hidden logic errors. $27M now targets formal proofs to catch them.",
+        "visual_hint": "server room with warning lights",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room warning"
+      },
+      {
+        "hook": "Test sets aren't enough.",
+        "description": "Passing tests doesn't prove correctness. Edge cases strike where no one thought to check.",
+        "visual_hint": "test chart with failing red dot",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "chart red dot",
+        "image": "https://images.pexels.com/photos/7947845/pexels-photo-7947845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Edge cases kill silently.",
+        "description": "Untested inputs can crash your AI. Formal proofs catch flaws before deployment.",
+        "visual_hint": "factory robot stopping suddenly",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot stopping",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Formal proofs guarantee behavior.",
+        "description": "Mathematical verification ensures no hidden errors. Banks and planes already trust it.",
+        "visual_hint": "mathematical formula on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "formula on screen",
+        "image": "https://images.pexels.com/photos/8970689/pexels-photo-8970689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to demand proofs.",
+        "description": "This week, ask your team: what edge case would kill our model? Run the formal check now.",
+        "visual_hint": "checklist with checkmark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist checkmark",
+        "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-9.53.46-AM.jpg?resize=1200,560",
+    "savedAt": "2026-06-17T16:52:02.442Z",
+    "sourceId": "eb0664d82863a41eb4197ad4d52612ea"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "collecting-robot-training-data-is-dirty-unglamorou",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+    "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+    "pubDate": "Wed, 17 Jun 2026 15:00:00 +0000",
+    "slides": [
+      "Who wants to clean robot training data?",
+      "AI labs are paying XDOF for this work.",
+      "But XDOF isn't what you think it is.",
+      "You can now skip the dirtiest collection step.",
+      "Stop paying for data—start paying for outcomes."
+    ],
+    "thread_text": [
+      "1. Who pays for data?\n\nAI labs spent over $2M on human labelers last year—but the real cost is what you can’t clean.",
+      "2. XDOF isn't acronym.\n\nXDOF is a market—buyers set the price, workers set the speed. You never touch raw data.",
+      "3. The hidden rot.\n\nMost training data contains NSFW, hate speech, or duplicate entries. XDOF filters that out before you see it.",
+      "4. Skip the mess.\n\nYour team spends 40% of budget on collection and cleaning. XDOF cuts that to zero upfront.",
+      "5. Your move.\n\nTake one prompt you’d normally hand to a labeler and run it through XDOF. Did you just skip a week of cleanup?"
+    ],
+    "video_script": [
+      "Spent millions on data and still need cleaning.",
+      "XDOF isn't a company—it's a new market.",
+      "No more seeing the dirtiest raw data.",
+      "Stop paying per row, start paying per result.",
+      "Try one prompt on XDOF and see the difference."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who pays for data?\n\nAI labs spent over $2M on human labelers last year—but the real cost is what you can’t clean.",
+          "2. XDOF isn't acronym.\n\nXDOF is a market—buyers set the price, workers set the speed. You never touch raw data.",
+          "3. The hidden rot.\n\nMost training data contains NSFW, hate speech, or duplicate entries. XDOF filters that out before you see it.",
+          "4. Skip the mess.\n\nYour team spends 40% of budget on collection and cleaning. XDOF cuts that to zero upfront.",
+          "5. Your move.\n\nTake one prompt you’d normally hand to a labeler and run it through XDOF. Did you just skip a week of cleanup?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Spent millions on data and still need cleaning.",
+          "XDOF isn't a company—it's a new market.",
+          "No more seeing the dirtiest raw data.",
+          "Stop paying per row, start paying per result.",
+          "Try one prompt on XDOF and see the difference."
+        ]
+      },
+      "instagram": {
+        "caption": "AI labs have already spent over $2M on human labelers last year—and that’s just the start of the rot.\n\nMost training data is full of NSFW, hate speech, and duplicates. You never see that mess. A new market called XDOF lets buyers skip collection entirely by paying for outcomes instead. 🗑️\n\nYour team can now skip the dirtiest cleanup step and stop paying for raw data. 💡\n\nGo run one prompt you normally hand to a labeler through XDOF—did you just dodge a week of grunt work? 🎯"
+      }
+    },
+    "instagram_caption": "AI labs have already spent over $2M on human labelers last year—and that’s just the start of the rot.\n\nMost training data is full of NSFW, hate speech, and duplicates. You never see that mess. A new market called XDOF lets buyers skip collection entirely by paying for outcomes instead. 🗑️\n\nYour team can now skip the dirtiest cleanup step and stop paying for raw data. 💡\n\nGo run one prompt you normally hand to a labeler through XDOF—did you just dodge a week of grunt work? 🎯",
+    "carousel_slides": [
+      {
+        "hook": "Who cleans your dirty data?",
+        "description": "AI labs spent over $2M on human labelers last year. The real cost is unfiltered raw data.",
+        "visual_hint": "Dirty data pile",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "XDOF isn't an acronym.",
+        "description": "It's a market where buyers set prices and workers set speed. You never touch raw data.",
+        "visual_hint": "Market exchange graph",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "NSFW lurks in your dataset.",
+        "description": "Most training data contains hate speech or duplicates. XDOF filters those before you see it.",
+        "visual_hint": "Filtered screen glow",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer screen",
+        "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Skip 40% of your budget.",
+        "description": "Your team spends that on collection and cleaning. XDOF cuts it to zero upfront.",
+        "visual_hint": "Broken piggy bank",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test XDOF with one prompt.",
+        "description": "Run a prompt you'd hand to a labeler through XDOF. Did you skip a week of cleanup?",
+        "visual_hint": "Start now button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
+    "savedAt": "2026-06-17T16:51:48.748Z",
+    "sourceId": "44a4a592bcaa38faadd80ff265e631d2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "pinterest-launches-an-experimental-ai-shopping-app",
     "prompt_version": "1.0.0",
     "status": "published",
