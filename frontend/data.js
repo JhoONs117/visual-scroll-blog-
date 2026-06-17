@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ai-search-grounded-in-facebook-posts-what-could-go",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI search grounded in Facebook posts? What could go wrong?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+    "pubDate": "2026-06-17T13:30:00.000Z",
+    "slides": [
+      "Meta's AI searches your old Facebook posts. Should you worry?",
+      "It indexes private data you thought was forgotten.",
+      "But this data reveals more than you intended to share.",
+      "Your future job interviews could be trained on your past.",
+      "Review your privacy settings today before it's too late."
+    ],
+    "thread_text": [
+      "1. Meta is watching your past.\n\nMeta’s AI scans every old post and photo you uploaded—even if you deleted the app.",
+      "2. Forgotten data, fresh risks.\n\nThat 2014 status about your weekend habits now trains models that infer your politics, health, and income.",
+      "3. Your past predicts your future.\n\nPotential employers already use AI tools—now they’ll feed them your own teen years’ posts.",
+      "4. You’re training your own judge.\n\nThe same AI that scored your college photos now decides loan rates and insurance premiums.",
+      "5. Lock your digital attic now.\n\nOpen Facebook’s privacy checker today. Remove old posts tagged with location, emotion, or job history."
+    ],
+    "video_script": [
+      "Meta mines your deleted posts now.",
+      "Old statuses reveal more than photos.",
+      "Your past trains hiring algorithms today.",
+      "Loan AI learns from your teen.",
+      "Delete old posts—right now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta is watching your past.\n\nMeta’s AI scans every old post and photo you uploaded—even if you deleted the app.",
+          "2. Forgotten data, fresh risks.\n\nThat 2014 status about your weekend habits now trains models that infer your politics, health, and income.",
+          "3. Your past predicts your future.\n\nPotential employers already use AI tools—now they’ll feed them your own teen years’ posts.",
+          "4. You’re training your own judge.\n\nThe same AI that scored your college photos now decides loan rates and insurance premiums.",
+          "5. Lock your digital attic now.\n\nOpen Facebook’s privacy checker today. Remove old posts tagged with location, emotion, or job history."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta mines your deleted posts now.",
+          "Old statuses reveal more than photos.",
+          "Your past trains hiring algorithms today.",
+          "Loan AI learns from your teen.",
+          "Delete old posts—right now."
+        ]
+      },
+      "instagram": {
+        "caption": "That drunk photo from 2014 just became training data for loan algorithms. 🧠\n\nMeta’s AI now indexes every old post, deleted app data, and forgotten status you thought was private. It uses this to infer your politics, health, and income.\n\nEmployers can already feed your teen years into hiring AI—scoring your past against your future. 🎯\n\nYour old posts don’t just haunt you socially; they set interest rates and insurance premiums.\n\nWhen did you last check what your digital attic reveals about you? ⏰"
+      }
+    },
+    "instagram_caption": "That drunk photo from 2014 just became training data for loan algorithms. 🧠\n\nMeta’s AI now indexes every old post, deleted app data, and forgotten status you thought was private. It uses this to infer your politics, health, and income.\n\nEmployers can already feed your teen years into hiring AI—scoring your past against your future. 🎯\n\nYour old posts don’t just haunt you socially; they set interest rates and insurance premiums.\n\nWhen did you last check what your digital attic reveals about you? ⏰",
+    "carousel_slides": [
+      {
+        "hook": "Your past is training AI.",
+        "description": "Meta scans old posts and photos you deleted, uncovering forgotten data now used to model your life.",
+        "visual_hint": "Magnifying glass over old photos",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "old photographs folder"
+      },
+      {
+        "hook": "That status from 2014?",
+        "description": "Habit posts now infer your politics, health, and income, creating risks from forgotten data.",
+        "visual_hint": "Timeline of posts and inferences",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "laptop with search bar",
+        "image": "https://images.pexels.com/photos/4050216/pexels-photo-4050216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your teen years judge you.",
+        "description": "Employers use AI tools trained on your own past posts to decide your future job interviews.",
+        "visual_hint": "Microscope scanning a resume",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "job interview table",
+        "image": "https://images.pexels.com/photos/4225928/pexels-photo-4225928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Loans scored by your photos.",
+        "description": "College photos train AI that now sets your loan rates, insurance premiums, and more.",
+        "visual_hint": "Hand holding a credit score report",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "credit score chart",
+        "image": "https://images.pexels.com/photos/7821687/pexels-photo-7821687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Lock your digital attic now.",
+        "description": "Open Facebook's privacy checker today and remove old posts tagged with location, emotion, or job history.",
+        "visual_hint": "Padlock on a settings gear",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "privacy settings screen",
+        "image": "https://images.pexels.com/photos/6943446/pexels-photo-6943446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03787_processed.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+    "savedAt": "2026-06-17T23:17:59.614Z",
+    "sourceId": "23fda529d13186dd9bfceaed831ffbed"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "canadian-pension-giant-joins-race-to-fund-india-s-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+    "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+    "pubDate": "Wed, 17 Jun 2026 12:38:09 +0000",
+    "slides": [
+      "A Canadian giant is betting on India's data center boom. Why?",
+      "India needs 10x more computing power within five years.",
+      "But most local funding is stuck in real estate, not AI.",
+      "This pension money unlocks cheaper capital for your cloud bills.",
+      "Watch which Indian cities get the first new data parks."
+    ],
+    "thread_text": [
+      "1. Canadian pension funds are moving in.\n\nBrookfield just committed billions to Indian data centers. They see the 10x compute gap as a profit window.",
+      "2. India needs 10x more AI power in five years.\n\nCurrent infrastructure can't handle the load. Local investors are still buying land, not chips.",
+      "3. Most Indian capital is stuck in real estate.\n\nFamily offices and domestic funds prefer concrete assets. They are missing the AI infrastructure boom entirely.",
+      "4. Pension money means cheaper cloud for you.\n\nBrookfield's long-term capital lowers financing costs. Your AI workloads could get more affordable as a result.",
+      "5. Watch Mumbai, Hyderabad, and Chennai first.\n\nThose cities are getting new data parks funded by foreign pension cash. Is your data strategy ready for the shift?"
+    ],
+    "video_script": [
+      "Canadian pension funds bet big on Indian data.",
+      "India needs ten times more computing power.",
+      "Local funding is stuck in real estate.",
+      "Pension money lowers your cloud costs.",
+      "First new data parks in Mumbai, Hyderabad, Chennai."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Canadian pension funds are moving in.\n\nBrookfield just committed billions to Indian data centers. They see the 10x compute gap as a profit window.",
+          "2. India needs 10x more AI power in five years.\n\nCurrent infrastructure can't handle the load. Local investors are still buying land, not chips.",
+          "3. Most Indian capital is stuck in real estate.\n\nFamily offices and domestic funds prefer concrete assets. They are missing the AI infrastructure boom entirely.",
+          "4. Pension money means cheaper cloud for you.\n\nBrookfield's long-term capital lowers financing costs. Your AI workloads could get more affordable as a result.",
+          "5. Watch Mumbai, Hyderabad, and Chennai first.\n\nThose cities are getting new data parks funded by foreign pension cash. Is your data strategy ready for the shift?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Canadian pension funds bet big on Indian data.",
+          "India needs ten times more computing power.",
+          "Local funding is stuck in real estate.",
+          "Pension money lowers your cloud costs.",
+          "First new data parks in Mumbai, Hyderabad, Chennai."
+        ]
+      },
+      "instagram": {
+        "caption": "Your cloud bills might drop because a Canadian pension fund is financing India’s AI data boom. Brookfield is pouring billions into new data centers, betting India needs 10x more computing power by 2030. Most local money is still buying real estate, not chips. 🖥️\n\nLong-term pension capital lowers financing costs. That’s cheaper infrastructure for companies running AI workloads in India. 💸\n\nIf you’re building AI products or using cloud services in India, your costs could shrink—but only after the first new data parks open in Mumbai, Hyderabad, and Chennai.\n\nIs your data strategy ready for cheaper, faster compute—or will you be stuck on the old infrastructure? 🚀"
+      }
+    },
+    "instagram_caption": "Your cloud bills might drop because a Canadian pension fund is financing India’s AI data boom. Brookfield is pouring billions into new data centers, betting India needs 10x more computing power by 2030. Most local money is still buying real estate, not chips. 🖥️\n\nLong-term pension capital lowers financing costs. That’s cheaper infrastructure for companies running AI workloads in India. 💸\n\nIf you’re building AI products or using cloud services in India, your costs could shrink—but only after the first new data parks open in Mumbai, Hyderabad, and Chennai.\n\nIs your data strategy ready for cheaper, faster compute—or will you be stuck on the old infrastructure? 🚀",
+    "carousel_slides": [
+      {
+        "hook": "Is your capital stuck in concrete?",
+        "description": "Most Indian investors ignore AI infrastructure. Canadian pension giant Brookfield sees a $10 billion gap.",
+        "visual_hint": "construction site vs server room",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "data center construction"
+      },
+      {
+        "hook": "10x more compute in five years.",
+        "description": "India's current grid can't power AI growth. Foreign pension cash is rushing to fill the void.",
+        "visual_hint": "electricity grid shortage sign",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "power grid substation",
+        "image": "https://images.pexels.com/photos/33041841/pexels-photo-33041841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Local funds buy land, not chips.",
+        "description": "Family offices prefer concrete assets. Brookfield's billions target AI infrastructure instead.",
+        "visual_hint": "empty land vs GPU chips",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "GPU server rack",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pension cash lowers your cloud bill.",
+        "description": "Long-term capital means cheaper financing. Your AI workloads could get more affordable soon.",
+        "visual_hint": "money flowing into cloud",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cloud computing diagram",
+        "image": "https://images.pexels.com/photos/5717715/pexels-photo-5717715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: 3 cities to watch now.",
+        "description": "Mumbai, Hyderabad, Chennai get new data parks. Is your data strategy ready for the shift?",
+        "visual_hint": "map with three city pins",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "India map data center",
+        "image": "https://images.pexels.com/photos/16011149/pexels-photo-16011149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1468360413.jpg?resize=1200,857",
+    "savedAt": "2026-06-17T23:17:45.739Z",
+    "sourceId": "23dab7c5dbcf8e03b5ff4bc5b5d4c187"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nea-s-tiffany-luck-says-enterprises-are-still-figu",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+    "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+    "pubDate": "Wed, 17 Jun 2026 20:17:38 +0000",
+    "slides": [
+      "Tiffany Luck sees a problem no one admits yet.",
+      "Enterprises are spending on AI but can't measure returns.",
+      "Most track usage, not actual business outcomes.",
+      "Your CFO now asks for proof you don't have.",
+      "Start mapping costs to one concrete metric today."
+    ],
+    "thread_text": [
+      "1. The ROI That Hides\n\nMost CFOs now demand proof of AI spend. Teams can only show usage stats.",
+      "2. The Wrong Metric\n\nTracking clicks or logins tells you nothing. CEOs want revenue lift.",
+      "3. The Budget Trap\n\nSpending rises 30% yearly. Without business outcomes, your budget gets frozen.",
+      "4. The CFO Test\n\nYour finance head will ask: “What did this actually save?” You have no answer.",
+      "5. The One Fix\n\nPick a single metric like “cost per resolved ticket.” Map every AI cost to it today."
+    ],
+    "video_script": [
+      "Your CFO wants proof. You give them usage data.",
+      "That data does not show real business value.",
+      "They will freeze your budget without evidence.",
+      "Pick one metric like cost per resolved ticket.",
+      "Map every AI dollar to that number now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The ROI That Hides\n\nMost CFOs now demand proof of AI spend. Teams can only show usage stats.",
+          "2. The Wrong Metric\n\nTracking clicks or logins tells you nothing. CEOs want revenue lift.",
+          "3. The Budget Trap\n\nSpending rises 30% yearly. Without business outcomes, your budget gets frozen.",
+          "4. The CFO Test\n\nYour finance head will ask: “What did this actually save?” You have no answer.",
+          "5. The One Fix\n\nPick a single metric like “cost per resolved ticket.” Map every AI cost to it today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your CFO wants proof. You give them usage data.",
+          "That data does not show real business value.",
+          "They will freeze your budget without evidence.",
+          "Pick one metric like cost per resolved ticket.",
+          "Map every AI dollar to that number now."
+        ]
+      },
+      "instagram": {
+        "caption": "Your CFO is asking for a number you don’t have. 💸\n\nMost teams track AI usage—clicks, logins, time saved—but not actual business outcomes like revenue lift. NEA’s Tiffany Luck says enterprises haven’t solved for this gap. 📉 Spending rises 30% yearly, yet finance keeps freezing budgets when they can’t see the return.\n\nThat means your next AI project won’t get funded unless you prove it first.\n\nPick one concrete metric today—like “cost per resolved ticket”—and map every dollar of AI spend to it. Can you show what that number is for your team right now?"
+      }
+    },
+    "instagram_caption": "Your CFO is asking for a number you don’t have. 💸\n\nMost teams track AI usage—clicks, logins, time saved—but not actual business outcomes like revenue lift. NEA’s Tiffany Luck says enterprises haven’t solved for this gap. 📉 Spending rises 30% yearly, yet finance keeps freezing budgets when they can’t see the return.\n\nThat means your next AI project won’t get funded unless you prove it first.\n\nPick one concrete metric today—like “cost per resolved ticket”—and map every dollar of AI spend to it. Can you show what that number is for your team right now?",
+    "carousel_slides": [
+      {
+        "hook": "Your CFO is coming for AI proof.",
+        "description": "Enterprises spend heavily on AI but can't show returns. CFOs now demand evidence that teams don't have.",
+        "visual_hint": "CFO pointing at empty graph",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "corporate boardroom meeting"
+      },
+      {
+        "hook": "Usage stats aren't business value.",
+        "description": "Most teams track clicks or logins, not actual outcomes. CEOs want revenue lift, not vanity metrics.",
+        "visual_hint": "Chart with question marks",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Budget trap: spend up 30% yearly.",
+        "description": "Spending rises fast, but without measurable business outcomes, budget gets frozen. That's the hidden risk.",
+        "visual_hint": "Frozen dollar icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room aisles",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What did AI actually save you?",
+        "description": "Your finance head will ask for hard numbers. Most organizations have no answer ready for that question.",
+        "visual_hint": "Person sweating with calculator",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers desks",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: one metric fixes everything.",
+        "description": "Pick one concrete metric like cost per resolved ticket. Map every AI cost to it today before budget freeze.",
+        "visual_hint": "Single graph arrow rising",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels field",
+        "image": "https://images.pexels.com/photos/27637329/pexels-photo-27637329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Tiffany-Luck_headshot.jpg?resize=1200,800",
+    "savedAt": "2026-06-17T23:17:32.237Z",
+    "sourceId": "3d1666c95475b5da28c4a10be952728b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "two-thirds-of-americans-think-ai-is-advancing-too-",
     "prompt_version": "1.0.0",
     "status": "published",

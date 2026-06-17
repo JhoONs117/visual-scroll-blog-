@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "canadian-pension-giant-joins-race-to-fund-india-s-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+  "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+  "pubDate": "Wed, 17 Jun 2026 12:38:09 +0000",
+  "slides": [
+    "A Canadian giant is betting on India's data center boom. Why?",
+    "India needs 10x more computing power within five years.",
+    "But most local funding is stuck in real estate, not AI.",
+    "This pension money unlocks cheaper capital for your cloud bills.",
+    "Watch which Indian cities get the first new data parks."
+  ],
+  "thread_text": [
+    "1. Canadian pension funds are moving in.\n\nBrookfield just committed billions to Indian data centers. They see the 10x compute gap as a profit window.",
+    "2. India needs 10x more AI power in five years.\n\nCurrent infrastructure can't handle the load. Local investors are still buying land, not chips.",
+    "3. Most Indian capital is stuck in real estate.\n\nFamily offices and domestic funds prefer concrete assets. They are missing the AI infrastructure boom entirely.",
+    "4. Pension money means cheaper cloud for you.\n\nBrookfield's long-term capital lowers financing costs. Your AI workloads could get more affordable as a result.",
+    "5. Watch Mumbai, Hyderabad, and Chennai first.\n\nThose cities are getting new data parks funded by foreign pension cash. Is your data strategy ready for the shift?"
+  ],
+  "video_script": [
+    "Canadian pension funds bet big on Indian data.",
+    "India needs ten times more computing power.",
+    "Local funding is stuck in real estate.",
+    "Pension money lowers your cloud costs.",
+    "First new data parks in Mumbai, Hyderabad, Chennai."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Canadian pension funds are moving in.\n\nBrookfield just committed billions to Indian data centers. They see the 10x compute gap as a profit window.",
+        "2. India needs 10x more AI power in five years.\n\nCurrent infrastructure can't handle the load. Local investors are still buying land, not chips.",
+        "3. Most Indian capital is stuck in real estate.\n\nFamily offices and domestic funds prefer concrete assets. They are missing the AI infrastructure boom entirely.",
+        "4. Pension money means cheaper cloud for you.\n\nBrookfield's long-term capital lowers financing costs. Your AI workloads could get more affordable as a result.",
+        "5. Watch Mumbai, Hyderabad, and Chennai first.\n\nThose cities are getting new data parks funded by foreign pension cash. Is your data strategy ready for the shift?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Canadian pension funds bet big on Indian data.",
+        "India needs ten times more computing power.",
+        "Local funding is stuck in real estate.",
+        "Pension money lowers your cloud costs.",
+        "First new data parks in Mumbai, Hyderabad, Chennai."
+      ]
+    },
+    "instagram": {
+      "caption": "Your cloud bills might drop because a Canadian pension fund is financing India’s AI data boom. Brookfield is pouring billions into new data centers, betting India needs 10x more computing power by 2030. Most local money is still buying real estate, not chips. 🖥️\n\nLong-term pension capital lowers financing costs. That’s cheaper infrastructure for companies running AI workloads in India. 💸\n\nIf you’re building AI products or using cloud services in India, your costs could shrink—but only after the first new data parks open in Mumbai, Hyderabad, and Chennai.\n\nIs your data strategy ready for cheaper, faster compute—or will you be stuck on the old infrastructure? 🚀"
+    }
+  },
+  "instagram_caption": "Your cloud bills might drop because a Canadian pension fund is financing India’s AI data boom. Brookfield is pouring billions into new data centers, betting India needs 10x more computing power by 2030. Most local money is still buying real estate, not chips. 🖥️\n\nLong-term pension capital lowers financing costs. That’s cheaper infrastructure for companies running AI workloads in India. 💸\n\nIf you’re building AI products or using cloud services in India, your costs could shrink—but only after the first new data parks open in Mumbai, Hyderabad, and Chennai.\n\nIs your data strategy ready for cheaper, faster compute—or will you be stuck on the old infrastructure? 🚀",
+  "carousel_slides": [
+    {
+      "hook": "Is your capital stuck in concrete?",
+      "description": "Most Indian investors ignore AI infrastructure. Canadian pension giant Brookfield sees a $10 billion gap.",
+      "visual_hint": "construction site vs server room",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data center construction"
+    },
+    {
+      "hook": "10x more compute in five years.",
+      "description": "India's current grid can't power AI growth. Foreign pension cash is rushing to fill the void.",
+      "visual_hint": "electricity grid shortage sign",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "power grid substation",
+      "image": "https://images.pexels.com/photos/33041841/pexels-photo-33041841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Local funds buy land, not chips.",
+      "description": "Family offices prefer concrete assets. Brookfield's billions target AI infrastructure instead.",
+      "visual_hint": "empty land vs GPU chips",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "GPU server rack",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pension cash lowers your cloud bill.",
+      "description": "Long-term capital means cheaper financing. Your AI workloads could get more affordable soon.",
+      "visual_hint": "money flowing into cloud",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "cloud computing diagram",
+      "image": "https://images.pexels.com/photos/5717715/pexels-photo-5717715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: 3 cities to watch now.",
+      "description": "Mumbai, Hyderabad, Chennai get new data parks. Is your data strategy ready for the shift?",
+      "visual_hint": "map with three city pins",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "India map data center",
+      "image": "https://images.pexels.com/photos/16011149/pexels-photo-16011149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1468360413.jpg?resize=1200,857",
+  "savedAt": "2026-06-17T23:17:45.739Z",
+  "sourceId": "23dab7c5dbcf8e03b5ff4bc5b5d4c187"
+}

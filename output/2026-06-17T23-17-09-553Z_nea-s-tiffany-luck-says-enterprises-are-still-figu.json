@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nea-s-tiffany-luck-says-enterprises-are-still-figu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+  "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+  "pubDate": "Wed, 17 Jun 2026 20:17:38 +0000",
+  "slides": [
+    "Tiffany Luck sees a problem no one admits yet.",
+    "Enterprises are spending on AI but can't measure returns.",
+    "Most track usage, not actual business outcomes.",
+    "Your CFO now asks for proof you don't have.",
+    "Start mapping costs to one concrete metric today."
+  ],
+  "thread_text": [
+    "1. The ROI That Hides\n\nMost CFOs now demand proof of AI spend. Teams can only show usage stats.",
+    "2. The Wrong Metric\n\nTracking clicks or logins tells you nothing. CEOs want revenue lift.",
+    "3. The Budget Trap\n\nSpending rises 30% yearly. Without business outcomes, your budget gets frozen.",
+    "4. The CFO Test\n\nYour finance head will ask: “What did this actually save?” You have no answer.",
+    "5. The One Fix\n\nPick a single metric like “cost per resolved ticket.” Map every AI cost to it today."
+  ],
+  "video_script": [
+    "Your CFO wants proof. You give them usage data.",
+    "That data does not show real business value.",
+    "They will freeze your budget without evidence.",
+    "Pick one metric like cost per resolved ticket.",
+    "Map every AI dollar to that number now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The ROI That Hides\n\nMost CFOs now demand proof of AI spend. Teams can only show usage stats.",
+        "2. The Wrong Metric\n\nTracking clicks or logins tells you nothing. CEOs want revenue lift.",
+        "3. The Budget Trap\n\nSpending rises 30% yearly. Without business outcomes, your budget gets frozen.",
+        "4. The CFO Test\n\nYour finance head will ask: “What did this actually save?” You have no answer.",
+        "5. The One Fix\n\nPick a single metric like “cost per resolved ticket.” Map every AI cost to it today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your CFO wants proof. You give them usage data.",
+        "That data does not show real business value.",
+        "They will freeze your budget without evidence.",
+        "Pick one metric like cost per resolved ticket.",
+        "Map every AI dollar to that number now."
+      ]
+    },
+    "instagram": {
+      "caption": "Your CFO is asking for a number you don’t have. 💸\n\nMost teams track AI usage—clicks, logins, time saved—but not actual business outcomes like revenue lift. NEA’s Tiffany Luck says enterprises haven’t solved for this gap. 📉 Spending rises 30% yearly, yet finance keeps freezing budgets when they can’t see the return.\n\nThat means your next AI project won’t get funded unless you prove it first.\n\nPick one concrete metric today—like “cost per resolved ticket”—and map every dollar of AI spend to it. Can you show what that number is for your team right now?"
+    }
+  },
+  "instagram_caption": "Your CFO is asking for a number you don’t have. 💸\n\nMost teams track AI usage—clicks, logins, time saved—but not actual business outcomes like revenue lift. NEA’s Tiffany Luck says enterprises haven’t solved for this gap. 📉 Spending rises 30% yearly, yet finance keeps freezing budgets when they can’t see the return.\n\nThat means your next AI project won’t get funded unless you prove it first.\n\nPick one concrete metric today—like “cost per resolved ticket”—and map every dollar of AI spend to it. Can you show what that number is for your team right now?",
+  "carousel_slides": [
+    {
+      "hook": "Your CFO is coming for AI proof.",
+      "description": "Enterprises spend heavily on AI but can't show returns. CFOs now demand evidence that teams don't have.",
+      "visual_hint": "CFO pointing at empty graph",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "corporate boardroom meeting"
+    },
+    {
+      "hook": "Usage stats aren't business value.",
+      "description": "Most teams track clicks or logins, not actual outcomes. CEOs want revenue lift, not vanity metrics.",
+      "visual_hint": "Chart with question marks",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Budget trap: spend up 30% yearly.",
+      "description": "Spending rises fast, but without measurable business outcomes, budget gets frozen. That's the hidden risk.",
+      "visual_hint": "Frozen dollar icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room aisles",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What did AI actually save you?",
+      "description": "Your finance head will ask for hard numbers. Most organizations have no answer ready for that question.",
+      "visual_hint": "Person sweating with calculator",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers desks",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: one metric fixes everything.",
+      "description": "Pick one concrete metric like cost per resolved ticket. Map every AI cost to it today before budget freeze.",
+      "visual_hint": "Single graph arrow rising",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels field",
+      "image": "https://images.pexels.com/photos/27637329/pexels-photo-27637329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/03/Tiffany-Luck_headshot.jpg?resize=1200,800",
+  "savedAt": "2026-06-17T23:17:32.237Z",
+  "sourceId": "3d1666c95475b5da28c4a10be952728b"
+}

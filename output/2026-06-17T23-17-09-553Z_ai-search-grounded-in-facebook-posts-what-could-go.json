@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-search-grounded-in-facebook-posts-what-could-go",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI search grounded in Facebook posts? What could go wrong?",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+  "pubDate": "2026-06-17T13:30:00.000Z",
+  "slides": [
+    "Meta's AI searches your old Facebook posts. Should you worry?",
+    "It indexes private data you thought was forgotten.",
+    "But this data reveals more than you intended to share.",
+    "Your future job interviews could be trained on your past.",
+    "Review your privacy settings today before it's too late."
+  ],
+  "thread_text": [
+    "1. Meta is watching your past.\n\nMeta’s AI scans every old post and photo you uploaded—even if you deleted the app.",
+    "2. Forgotten data, fresh risks.\n\nThat 2014 status about your weekend habits now trains models that infer your politics, health, and income.",
+    "3. Your past predicts your future.\n\nPotential employers already use AI tools—now they’ll feed them your own teen years’ posts.",
+    "4. You’re training your own judge.\n\nThe same AI that scored your college photos now decides loan rates and insurance premiums.",
+    "5. Lock your digital attic now.\n\nOpen Facebook’s privacy checker today. Remove old posts tagged with location, emotion, or job history."
+  ],
+  "video_script": [
+    "Meta mines your deleted posts now.",
+    "Old statuses reveal more than photos.",
+    "Your past trains hiring algorithms today.",
+    "Loan AI learns from your teen.",
+    "Delete old posts—right now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta is watching your past.\n\nMeta’s AI scans every old post and photo you uploaded—even if you deleted the app.",
+        "2. Forgotten data, fresh risks.\n\nThat 2014 status about your weekend habits now trains models that infer your politics, health, and income.",
+        "3. Your past predicts your future.\n\nPotential employers already use AI tools—now they’ll feed them your own teen years’ posts.",
+        "4. You’re training your own judge.\n\nThe same AI that scored your college photos now decides loan rates and insurance premiums.",
+        "5. Lock your digital attic now.\n\nOpen Facebook’s privacy checker today. Remove old posts tagged with location, emotion, or job history."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta mines your deleted posts now.",
+        "Old statuses reveal more than photos.",
+        "Your past trains hiring algorithms today.",
+        "Loan AI learns from your teen.",
+        "Delete old posts—right now."
+      ]
+    },
+    "instagram": {
+      "caption": "That drunk photo from 2014 just became training data for loan algorithms. 🧠\n\nMeta’s AI now indexes every old post, deleted app data, and forgotten status you thought was private. It uses this to infer your politics, health, and income.\n\nEmployers can already feed your teen years into hiring AI—scoring your past against your future. 🎯\n\nYour old posts don’t just haunt you socially; they set interest rates and insurance premiums.\n\nWhen did you last check what your digital attic reveals about you? ⏰"
+    }
+  },
+  "instagram_caption": "That drunk photo from 2014 just became training data for loan algorithms. 🧠\n\nMeta’s AI now indexes every old post, deleted app data, and forgotten status you thought was private. It uses this to infer your politics, health, and income.\n\nEmployers can already feed your teen years into hiring AI—scoring your past against your future. 🎯\n\nYour old posts don’t just haunt you socially; they set interest rates and insurance premiums.\n\nWhen did you last check what your digital attic reveals about you? ⏰",
+  "carousel_slides": [
+    {
+      "hook": "Your past is training AI.",
+      "description": "Meta scans old posts and photos you deleted, uncovering forgotten data now used to model your life.",
+      "visual_hint": "Magnifying glass over old photos",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "old photographs folder"
+    },
+    {
+      "hook": "That status from 2014?",
+      "description": "Habit posts now infer your politics, health, and income, creating risks from forgotten data.",
+      "visual_hint": "Timeline of posts and inferences",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laptop with search bar",
+      "image": "https://images.pexels.com/photos/4050216/pexels-photo-4050216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your teen years judge you.",
+      "description": "Employers use AI tools trained on your own past posts to decide your future job interviews.",
+      "visual_hint": "Microscope scanning a resume",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "job interview table",
+      "image": "https://images.pexels.com/photos/4225928/pexels-photo-4225928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Loans scored by your photos.",
+      "description": "College photos train AI that now sets your loan rates, insurance premiums, and more.",
+      "visual_hint": "Hand holding a credit score report",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "credit score chart",
+      "image": "https://images.pexels.com/photos/7821687/pexels-photo-7821687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Lock your digital attic now.",
+      "description": "Open Facebook's privacy checker today and remove old posts tagged with location, emotion, or job history.",
+      "visual_hint": "Padlock on a settings gear",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "privacy settings screen",
+      "image": "https://images.pexels.com/photos/6943446/pexels-photo-6943446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03787_processed.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+  "savedAt": "2026-06-17T23:17:59.614Z",
+  "sourceId": "23fda529d13186dd9bfceaed831ffbed"
+}
