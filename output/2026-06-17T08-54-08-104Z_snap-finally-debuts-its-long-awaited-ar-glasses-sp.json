@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "snap-finally-debuts-its-long-awaited-ar-glasses-sp",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren’t cheap",
+  "link": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
+  "pubDate": "Tue, 16 Jun 2026 17:00:00 +0000",
+  "slides": [
+    "Snap finally showed Specs—but who will actually buy them?",
+    "The glasses overlay digital objects onto the real world.",
+    "Their $1,399 price tag matches a high-end smartphone.",
+    "You now need to justify AR’s value for your own wallet.",
+    "Try a demo before deciding if the price makes sense."
+  ],
+  "thread_text": [
+    "1. Who needs AR glasses?\n\nSnap’s new Specs cost $1,399—same as a premium phone. That price forces a real choice.",
+    "2. Digital objects overlaid\n\nThe glasses blend digital items with your real view. No phone in hand required.",
+    "3. Justifying the price tag\n\nAt $1,399, you compare it to a high-end smartphone. The question is what AR adds that your phone doesn’t do.",
+    "4. Your wallet decides\n\nYou now must weigh AR’s value for your own spending. The demo might change your math.",
+    "5. Try the demo first\n\nVisit a store to test the Specs this week. Does the experience justify the cost for you?"
+  ],
+  "video_script": [
+    "Snap’s AR glasses cost more than a phone.",
+    "They overlay digital objects onto the real world.",
+    "The price tag demands a personal justification.",
+    "Try a demo before you decide to buy.",
+    "Does AR’s value match your wallet’s needs?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who needs AR glasses?\n\nSnap’s new Specs cost $1,399—same as a premium phone. That price forces a real choice.",
+        "2. Digital objects overlaid\n\nThe glasses blend digital items with your real view. No phone in hand required.",
+        "3. Justifying the price tag\n\nAt $1,399, you compare it to a high-end smartphone. The question is what AR adds that your phone doesn’t do.",
+        "4. Your wallet decides\n\nYou now must weigh AR’s value for your own spending. The demo might change your math.",
+        "5. Try the demo first\n\nVisit a store to test the Specs this week. Does the experience justify the cost for you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Snap’s AR glasses cost more than a phone.",
+        "They overlay digital objects onto the real world.",
+        "The price tag demands a personal justification.",
+        "Try a demo before you decide to buy.",
+        "Does AR’s value match your wallet’s needs?"
+      ]
+    },
+    "instagram": {
+      "caption": "Snap’s new Specs cost $1,399—the same as a premium phone 💸\n\nThey overlay digital objects onto your real view, no phone needed.\n\nBut at that price, you have to ask what AR adds that your phone doesn’t already do.\n\nFor creators: filming hands-free might change your shot setup, but now you must justify a high-end gadget against your camera gear.\n\nDoes the demo convince you to swap your smartphone budget for AR glasses?"
+    }
+  },
+  "instagram_caption": "Snap’s new Specs cost $1,399—the same as a premium phone 💸\n\nThey overlay digital objects onto your real view, no phone needed.\n\nBut at that price, you have to ask what AR adds that your phone doesn’t already do.\n\nFor creators: filming hands-free might change your shot setup, but now you must justify a high-end gadget against your camera gear.\n\nDoes the demo convince you to swap your smartphone budget for AR glasses?",
+  "carousel_slides": [
+    {
+      "hook": "Would you pay $1,399 for AR glasses?",
+      "description": "Snap's Specs cost as much as a premium phone, forcing you to justify AR's value.",
+      "visual_hint": "Glasses with digital overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "AR glasses display"
+    },
+    {
+      "hook": "Digital objects meet reality",
+      "description": "The glasses overlay digital items onto your real view, no phone needed.",
+      "visual_hint": "Phone-free AR view",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "augmented reality glasses",
+      "image": "https://images.pexels.com/photos/8097853/pexels-photo-8097853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why $1,399 for glasses?",
+      "description": "At a high-end price, compare what AR adds that your phone doesn't already do.",
+      "visual_hint": "Price tag comparison",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone price tag",
+      "image": "https://images.pexels.com/photos/5926253/pexels-photo-5926253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your wallet decides the value",
+      "description": "You must weigh AR's worth for your own spending—a demo could change the math.",
+      "visual_hint": "Person holding glasses",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person trying glasses",
+      "image": "https://images.pexels.com/photos/8036578/pexels-photo-8036578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test later",
+      "description": "Visit a store to try Specs this week and see if the experience justifies the cost.",
+      "visual_hint": "Store demo counter",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "electronics store demo",
+      "image": "https://images.pexels.com/photos/8533353/pexels-photo-8533353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/SPECS27_52_Front_View81.png?resize=1200,675",
+  "savedAt": "2026-06-17T08:54:20.906Z",
+  "sourceId": "147a41ba12b8b6c706b17df94e3ac43c"
+}
