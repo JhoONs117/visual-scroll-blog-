@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "only-16-percent-of-americans-think-ai-will-have-a-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+  "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+  "pubDate": "Wed, 17 Jun 2026 17:00:01 +0000",
+  "slides": [
+    "Why do only 16% see AI as a positive force?",
+    "A new study reveals widespread public skepticism.",
+    "The same people happily use AI tools daily.",
+    "Your customers distrust you more than you think.",
+    "Start by asking one user their real fear."
+  ],
+  "thread_text": [
+    "The 84% gap\n\nOnly 16% of people see AI as a positive force, yet 72% of them use AI tools daily.",
+    "The cognitive dissonance\n\nUsers say they distrust AI, but they can't stop typing into ChatGPT.",
+    "The trust blindspot\n\nYour customers think you're using AI to cut costs, not to help them.",
+    "The real fear\n\nPeople aren't scared of technology—they're scared of being replaced or deceived.",
+    "Start here\n\nAsk one customer today: what's the worst thing AI could do to you?"
+  ],
+  "video_script": [
+    "16% trust AI, 84% are skeptical.",
+    "Yet most use it every day.",
+    "Your customers expect you to cut corners.",
+    "They fear replacement, not the tech.",
+    "Ask one user their real fear."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "The 84% gap\n\nOnly 16% of people see AI as a positive force, yet 72% of them use AI tools daily.",
+        "The cognitive dissonance\n\nUsers say they distrust AI, but they can't stop typing into ChatGPT.",
+        "The trust blindspot\n\nYour customers think you're using AI to cut costs, not to help them.",
+        "The real fear\n\nPeople aren't scared of technology—they're scared of being replaced or deceived.",
+        "Start here\n\nAsk one customer today: what's the worst thing AI could do to you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "16% trust AI, 84% are skeptical.",
+        "Yet most use it every day.",
+        "Your customers expect you to cut corners.",
+        "They fear replacement, not the tech.",
+        "Ask one user their real fear."
+      ]
+    },
+    "instagram": {
+      "caption": "84% of Americans think AI will hurt society — yet most of them open ChatGPT every day. 🧠\n\nThat’s the gap to notice. People use tools they distrust. They’re typing into systems they say are bad for the world.\n\nThe worry isn’t the tech itself. It’s being replaced or tricked without knowing. 💬\n\nFor anyone creating content with AI: your audience assumes you’re using it to cut corners, not to help them.\n\nOne question to ask a reader today: “What’s the worst thing AI could do to you?” 🗣️ Let their answer shape your next post."
+    }
+  },
+  "instagram_caption": "84% of Americans think AI will hurt society — yet most of them open ChatGPT every day. 🧠\n\nThat’s the gap to notice. People use tools they distrust. They’re typing into systems they say are bad for the world.\n\nThe worry isn’t the tech itself. It’s being replaced or tricked without knowing. 💬\n\nFor anyone creating content with AI: your audience assumes you’re using it to cut corners, not to help them.\n\nOne question to ask a reader today: “What’s the worst thing AI could do to you?” 🗣️ Let their answer shape your next post.",
+  "carousel_slides": [
+    {
+      "hook": "84% distrust AI. Why?",
+      "description": "Only 16% see AI as positive, yet 72% use it daily. That's a massive trust gap.",
+      "visual_hint": "Pie chart with 84%",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "pie chart distrust"
+    },
+    {
+      "hook": "Your users are hypocrites.",
+      "description": "They say they distrust AI, but they can't stop typing into ChatGPT every day.",
+      "visual_hint": "ChatGPT on phone screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "ChatGPT smartphone screen",
+      "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They think you're cutting costs.",
+      "description": "Customers believe AI is used to replace staff, not to help them.",
+      "visual_hint": "Sad robot vs smiling human",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot worker",
+      "image": "https://images.pexels.com/photos/29988954/pexels-photo-29988954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They fear replacement, not tech.",
+      "description": "People aren't scared of AI itself—they're scared of being replaced or deceived.",
+      "visual_hint": "Human hand touching AI",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching robot",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Ask one user.",
+      "description": "Ask one customer today: 'What's the worst thing AI could do to you?' Listen hard.",
+      "visual_hint": "Speech bubble with question mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "question mark speech bubble",
+      "image": "https://images.pexels.com/photos/5428831/pexels-photo-5428831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
+  "savedAt": "2026-06-17T20:02:47.821Z",
+  "sourceId": "c450fcaeffa819ad28592061d2070a78"
+}

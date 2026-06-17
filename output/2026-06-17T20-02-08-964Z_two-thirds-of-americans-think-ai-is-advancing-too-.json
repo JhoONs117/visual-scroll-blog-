@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "two-thirds-of-americans-think-ai-is-advancing-too-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Two-thirds of Americans think AI is advancing too quickly",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+  "pubDate": "2026-06-17T17:20:24.000Z",
+  "slides": [
+    "Is AI racing past society's ability to control it?",
+    "Two-thirds of Americans now say yes.",
+    "Most CEOs still lack any internal AI governance plan.",
+    "Your company's trust depends on rules you haven't written.",
+    "Start with one public AI ethics policy this quarter."
+  ],
+  "thread_text": [
+    "1. Who decides what AI can do?\n\nTwo-thirds of Americans say they've already lost trust in AI's direction. Most companies still have zero internal rules in place.",
+    "2. CEOs worry, but don't act.\n\n73% of executives cite AI risk as a top concern, yet fewer than 1 in 3 have a governance plan. The gap between fear and action is widening.",
+    "3. Trust is now a liability.\n\nYour company's reputation depends on rules you haven't written yet. Without a policy, every AI output becomes a bet against your brand.",
+    "4. The clock is ticking publicly.\n\nRegulators are watching. Customers are asking. The window to self-regulate before external mandates arrives is closing fast.",
+    "5. Write one rule this quarter.\n\nPick one public AI ethics policy before your next board meeting. Start with a commitment you can test this week. Have you opened a blank document yet?"
+  ],
+  "video_script": [
+    "AI is racing past our control.",
+    "Two-thirds of Americans agree.",
+    "Most CEOs have no governance plan.",
+    "Your company's trust is uninsured.",
+    "Start one ethics policy this quarter."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who decides what AI can do?\n\nTwo-thirds of Americans say they've already lost trust in AI's direction. Most companies still have zero internal rules in place.",
+        "2. CEOs worry, but don't act.\n\n73% of executives cite AI risk as a top concern, yet fewer than 1 in 3 have a governance plan. The gap between fear and action is widening.",
+        "3. Trust is now a liability.\n\nYour company's reputation depends on rules you haven't written yet. Without a policy, every AI output becomes a bet against your brand.",
+        "4. The clock is ticking publicly.\n\nRegulators are watching. Customers are asking. The window to self-regulate before external mandates arrives is closing fast.",
+        "5. Write one rule this quarter.\n\nPick one public AI ethics policy before your next board meeting. Start with a commitment you can test this week. Have you opened a blank document yet?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI is racing past our control.",
+        "Two-thirds of Americans agree.",
+        "Most CEOs have no governance plan.",
+        "Your company's trust is uninsured.",
+        "Start one ethics policy this quarter."
+      ]
+    },
+    "instagram": {
+      "caption": "Two-thirds of Americans now say AI is advancing faster than society can control — and they’ve lost trust in its direction.  \n\nMost CEOs still have zero internal rules for AI. 73% call it a top risk, but fewer than 1 in 3 have a governance plan.  \n\nFor anyone publishing content or using AI tools at work: every AI output without a stated policy is a bet against your brand’s reputation.  \n\nWhat one public AI ethics rule can you write and share before your next team meeting?"
+    }
+  },
+  "instagram_caption": "Two-thirds of Americans now say AI is advancing faster than society can control — and they’ve lost trust in its direction.  \n\nMost CEOs still have zero internal rules for AI. 73% call it a top risk, but fewer than 1 in 3 have a governance plan.  \n\nFor anyone publishing content or using AI tools at work: every AI output without a stated policy is a bet against your brand’s reputation.  \n\nWhat one public AI ethics rule can you write and share before your next team meeting?",
+  "carousel_slides": [
+    {
+      "hook": "Most CEOs have no AI rules.",
+      "description": "Two-thirds of Americans think AI is advancing too quickly, yet most CEOs lack any internal governance plan.",
+      "visual_hint": "Empty boardroom table",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty boardroom table"
+    },
+    {
+      "hook": "73% worry, 33% act.",
+      "description": "73% of executives cite AI risk as top concern, but fewer than 1 in 3 have a governance plan.",
+      "visual_hint": "Graph with gap",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust is an unwritten liability.",
+      "description": "Your company's reputation depends on rules you haven't written yet. Every AI output risks your brand.",
+      "visual_hint": "Leaning tower of blocks",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "falling dominoes",
+      "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Regulators are watching now.",
+      "description": "The window to self-regulate before external mandates arrives is closing fast. Customers are asking.",
+      "visual_hint": "Clock and gavel",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "clock with gavel",
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Write one AI rule this quarter.",
+      "description": "Open a blank document today. Start with one public AI ethics policy you can test this week.",
+      "visual_hint": "Blank document on desk",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "blank notebook",
+      "image": "https://images.pexels.com/photos/7657397/pexels-photo-7657397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-17T20:03:01.436Z",
+  "sourceId": "d57f9d01d74aad0fd996ab9710992ace"
+}

@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "two-thirds-of-americans-think-ai-is-advancing-too-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Two-thirds of Americans think AI is advancing too quickly",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+    "pubDate": "2026-06-17T17:20:24.000Z",
+    "slides": [
+      "Is AI racing past society's ability to control it?",
+      "Two-thirds of Americans now say yes.",
+      "Most CEOs still lack any internal AI governance plan.",
+      "Your company's trust depends on rules you haven't written.",
+      "Start with one public AI ethics policy this quarter."
+    ],
+    "thread_text": [
+      "1. Who decides what AI can do?\n\nTwo-thirds of Americans say they've already lost trust in AI's direction. Most companies still have zero internal rules in place.",
+      "2. CEOs worry, but don't act.\n\n73% of executives cite AI risk as a top concern, yet fewer than 1 in 3 have a governance plan. The gap between fear and action is widening.",
+      "3. Trust is now a liability.\n\nYour company's reputation depends on rules you haven't written yet. Without a policy, every AI output becomes a bet against your brand.",
+      "4. The clock is ticking publicly.\n\nRegulators are watching. Customers are asking. The window to self-regulate before external mandates arrives is closing fast.",
+      "5. Write one rule this quarter.\n\nPick one public AI ethics policy before your next board meeting. Start with a commitment you can test this week. Have you opened a blank document yet?"
+    ],
+    "video_script": [
+      "AI is racing past our control.",
+      "Two-thirds of Americans agree.",
+      "Most CEOs have no governance plan.",
+      "Your company's trust is uninsured.",
+      "Start one ethics policy this quarter."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who decides what AI can do?\n\nTwo-thirds of Americans say they've already lost trust in AI's direction. Most companies still have zero internal rules in place.",
+          "2. CEOs worry, but don't act.\n\n73% of executives cite AI risk as a top concern, yet fewer than 1 in 3 have a governance plan. The gap between fear and action is widening.",
+          "3. Trust is now a liability.\n\nYour company's reputation depends on rules you haven't written yet. Without a policy, every AI output becomes a bet against your brand.",
+          "4. The clock is ticking publicly.\n\nRegulators are watching. Customers are asking. The window to self-regulate before external mandates arrives is closing fast.",
+          "5. Write one rule this quarter.\n\nPick one public AI ethics policy before your next board meeting. Start with a commitment you can test this week. Have you opened a blank document yet?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI is racing past our control.",
+          "Two-thirds of Americans agree.",
+          "Most CEOs have no governance plan.",
+          "Your company's trust is uninsured.",
+          "Start one ethics policy this quarter."
+        ]
+      },
+      "instagram": {
+        "caption": "Two-thirds of Americans now say AI is advancing faster than society can control — and they’ve lost trust in its direction.  \n\nMost CEOs still have zero internal rules for AI. 73% call it a top risk, but fewer than 1 in 3 have a governance plan.  \n\nFor anyone publishing content or using AI tools at work: every AI output without a stated policy is a bet against your brand’s reputation.  \n\nWhat one public AI ethics rule can you write and share before your next team meeting?"
+      }
+    },
+    "instagram_caption": "Two-thirds of Americans now say AI is advancing faster than society can control — and they’ve lost trust in its direction.  \n\nMost CEOs still have zero internal rules for AI. 73% call it a top risk, but fewer than 1 in 3 have a governance plan.  \n\nFor anyone publishing content or using AI tools at work: every AI output without a stated policy is a bet against your brand’s reputation.  \n\nWhat one public AI ethics rule can you write and share before your next team meeting?",
+    "carousel_slides": [
+      {
+        "hook": "Most CEOs have no AI rules.",
+        "description": "Two-thirds of Americans think AI is advancing too quickly, yet most CEOs lack any internal governance plan.",
+        "visual_hint": "Empty boardroom table",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "empty boardroom table"
+      },
+      {
+        "hook": "73% worry, 33% act.",
+        "description": "73% of executives cite AI risk as top concern, but fewer than 1 in 3 have a governance plan.",
+        "visual_hint": "Graph with gap",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trust is an unwritten liability.",
+        "description": "Your company's reputation depends on rules you haven't written yet. Every AI output risks your brand.",
+        "visual_hint": "Leaning tower of blocks",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "falling dominoes",
+        "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Regulators are watching now.",
+        "description": "The window to self-regulate before external mandates arrives is closing fast. Customers are asking.",
+        "visual_hint": "Clock and gavel",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "clock with gavel",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Write one AI rule this quarter.",
+        "description": "Open a blank document today. Start with one public AI ethics policy you can test this week.",
+        "visual_hint": "Blank document on desk",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "blank notebook",
+        "image": "https://images.pexels.com/photos/7657397/pexels-photo-7657397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-17T20:03:01.436Z",
+    "sourceId": "d57f9d01d74aad0fd996ab9710992ace"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "only-16-percent-of-americans-think-ai-will-have-a-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+    "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+    "pubDate": "Wed, 17 Jun 2026 17:00:01 +0000",
+    "slides": [
+      "Why do only 16% see AI as a positive force?",
+      "A new study reveals widespread public skepticism.",
+      "The same people happily use AI tools daily.",
+      "Your customers distrust you more than you think.",
+      "Start by asking one user their real fear."
+    ],
+    "thread_text": [
+      "The 84% gap\n\nOnly 16% of people see AI as a positive force, yet 72% of them use AI tools daily.",
+      "The cognitive dissonance\n\nUsers say they distrust AI, but they can't stop typing into ChatGPT.",
+      "The trust blindspot\n\nYour customers think you're using AI to cut costs, not to help them.",
+      "The real fear\n\nPeople aren't scared of technology—they're scared of being replaced or deceived.",
+      "Start here\n\nAsk one customer today: what's the worst thing AI could do to you?"
+    ],
+    "video_script": [
+      "16% trust AI, 84% are skeptical.",
+      "Yet most use it every day.",
+      "Your customers expect you to cut corners.",
+      "They fear replacement, not the tech.",
+      "Ask one user their real fear."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "The 84% gap\n\nOnly 16% of people see AI as a positive force, yet 72% of them use AI tools daily.",
+          "The cognitive dissonance\n\nUsers say they distrust AI, but they can't stop typing into ChatGPT.",
+          "The trust blindspot\n\nYour customers think you're using AI to cut costs, not to help them.",
+          "The real fear\n\nPeople aren't scared of technology—they're scared of being replaced or deceived.",
+          "Start here\n\nAsk one customer today: what's the worst thing AI could do to you?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "16% trust AI, 84% are skeptical.",
+          "Yet most use it every day.",
+          "Your customers expect you to cut corners.",
+          "They fear replacement, not the tech.",
+          "Ask one user their real fear."
+        ]
+      },
+      "instagram": {
+        "caption": "84% of Americans think AI will hurt society — yet most of them open ChatGPT every day. 🧠\n\nThat’s the gap to notice. People use tools they distrust. They’re typing into systems they say are bad for the world.\n\nThe worry isn’t the tech itself. It’s being replaced or tricked without knowing. 💬\n\nFor anyone creating content with AI: your audience assumes you’re using it to cut corners, not to help them.\n\nOne question to ask a reader today: “What’s the worst thing AI could do to you?” 🗣️ Let their answer shape your next post."
+      }
+    },
+    "instagram_caption": "84% of Americans think AI will hurt society — yet most of them open ChatGPT every day. 🧠\n\nThat’s the gap to notice. People use tools they distrust. They’re typing into systems they say are bad for the world.\n\nThe worry isn’t the tech itself. It’s being replaced or tricked without knowing. 💬\n\nFor anyone creating content with AI: your audience assumes you’re using it to cut corners, not to help them.\n\nOne question to ask a reader today: “What’s the worst thing AI could do to you?” 🗣️ Let their answer shape your next post.",
+    "carousel_slides": [
+      {
+        "hook": "84% distrust AI. Why?",
+        "description": "Only 16% see AI as positive, yet 72% use it daily. That's a massive trust gap.",
+        "visual_hint": "Pie chart with 84%",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "pie chart distrust"
+      },
+      {
+        "hook": "Your users are hypocrites.",
+        "description": "They say they distrust AI, but they can't stop typing into ChatGPT every day.",
+        "visual_hint": "ChatGPT on phone screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "ChatGPT smartphone screen",
+        "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "They think you're cutting costs.",
+        "description": "Customers believe AI is used to replace staff, not to help them.",
+        "visual_hint": "Sad robot vs smiling human",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot worker",
+        "image": "https://images.pexels.com/photos/29988954/pexels-photo-29988954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "They fear replacement, not tech.",
+        "description": "People aren't scared of AI itself—they're scared of being replaced or deceived.",
+        "visual_hint": "Human hand touching AI",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand touching robot",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Ask one user.",
+        "description": "Ask one customer today: 'What's the worst thing AI could do to you?' Listen hard.",
+        "visual_hint": "Speech bubble with question mark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "question mark speech bubble",
+        "image": "https://images.pexels.com/photos/5428831/pexels-photo-5428831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
+    "savedAt": "2026-06-17T20:02:47.821Z",
+    "sourceId": "c450fcaeffa819ad28592061d2070a78"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "world-model-maker-odyssey-nabs-1-45b-valuation-bac",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+    "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+    "pubDate": "Wed, 17 Jun 2026 17:43:07 +0000",
+    "slides": [
+      "Can one startup build the world's digital twin?",
+      "Odyssey just got a $1.45 billion valuation.",
+      "Amazon leads the round, but keeps its plan hidden.",
+      "Your infrastructure decisions may soon rely on their model.",
+      "Test their simulation before your competitor does."
+    ],
+    "thread_text": [
+      "1. Can one build a digital twin?\n\nOdyssey just hit a $1.45 billion valuation, backed by a secret Amazon play.",
+      "2. Amazon leads but hides its plan.\n\nOdyssey’s simulation model could soon dictate your infrastructure buildouts.",
+      "3. Your infrastructure will rely on them.\n\nDecisions about roads, energy, and data centers may run through their simulation first.",
+      "4. Test their simulation now.\n\nYour competitor might be running scenarios on Odyssey’s twin while you read this.",
+      "5. Run one test this week.\n\nTake a real infrastructure decision and simulate it on Odyssey’s model. If you haven’t, start there."
+    ],
+    "video_script": [
+      "A startup aims to twin the entire world.",
+      "Odyssey is now valued at $1.45 billion.",
+      "Amazon invested but keeps its goal hidden.",
+      "Your city planning may soon rely on this.",
+      "Test their simulation before your rivals do."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can one build a digital twin?\n\nOdyssey just hit a $1.45 billion valuation, backed by a secret Amazon play.",
+          "2. Amazon leads but hides its plan.\n\nOdyssey’s simulation model could soon dictate your infrastructure buildouts.",
+          "3. Your infrastructure will rely on them.\n\nDecisions about roads, energy, and data centers may run through their simulation first.",
+          "4. Test their simulation now.\n\nYour competitor might be running scenarios on Odyssey’s twin while you read this.",
+          "5. Run one test this week.\n\nTake a real infrastructure decision and simulate it on Odyssey’s model. If you haven’t, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A startup aims to twin the entire world.",
+          "Odyssey is now valued at $1.45 billion.",
+          "Amazon invested but keeps its goal hidden.",
+          "Your city planning may soon rely on this.",
+          "Test their simulation before your rivals do."
+        ]
+      },
+      "instagram": {
+        "caption": "Amazon just quietly led a $1.45 billion bet on a startup that is building a simulation of the entire world 🌍\n\nOdyssey’s digital twin could soon be the software you use to decide where to build roads, energy grids, and data centers. One infrastructure decision run through their model might cost you millions if you get it wrong.\n\nFor anyone planning physical expansions or logistics — your next blueprint may pass through this simulation first.\n\nWhat real decision would you test in their world before risking your own budget? 💸"
+      }
+    },
+    "instagram_caption": "Amazon just quietly led a $1.45 billion bet on a startup that is building a simulation of the entire world 🌍\n\nOdyssey’s digital twin could soon be the software you use to decide where to build roads, energy grids, and data centers. One infrastructure decision run through their model might cost you millions if you get it wrong.\n\nFor anyone planning physical expansions or logistics — your next blueprint may pass through this simulation first.\n\nWhat real decision would you test in their world before risking your own budget? 💸",
+    "carousel_slides": [
+      {
+        "hook": "Your next infrastructure runs on this twin?",
+        "description": "Odyssey's $1.45B valuation and secret Amazon backing could make its simulation the standard for roads and data centers.",
+        "visual_hint": "glowing digital city model",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "digital twin city"
+      },
+      {
+        "hook": "Amazon leads but hides its plan.",
+        "description": "Amazon's hidden strategy may reshape your infrastructure decisions. Odyssey's simulation could become your next essential tool.",
+        "visual_hint": "Amazon logo and server racks",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "amazon server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Infrastructure decisions rely on them.",
+        "description": "Roads, energy, and data centers may soon be validated through Odyssey's model first. Prepare for a new standard.",
+        "visual_hint": "highway with data overlay",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "highway data overlay",
+        "image": "https://images.pexels.com/photos/12377553/pexels-photo-12377553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test their simulation now.",
+        "description": "Your competitor may be running scenarios on Odyssey's digital twin while you wait. Act before they gain the edge.",
+        "visual_hint": "hand touching holographic map",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "holographic map hand",
+        "image": "https://images.pexels.com/photos/11169208/pexels-photo-11169208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this — test your infrastructure today.",
+        "description": "Take one real infrastructure decision and simulate it on Odyssey's model. Start this week before your competitor does.",
+        "visual_hint": "checkmark over simulation screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "simulation software screen",
+        "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/ODYSSEY-INTHEWILD-974_Retouched_V1.00.jpg?resize=1200,800",
+    "savedAt": "2026-06-17T20:02:35.355Z",
+    "sourceId": "d84f6e5d3df2ce7f4376de0bc41c576b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "world-leaders-want-american-ai-they-just-don-t-wan",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+    "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "pubDate": "Wed, 17 Jun 2026 19:01:19 +0000",
+    "slides": [
+      "World leaders want American AI, but fear a kill switch.",
+      "Sovereign AI clouds keep control local, not in Washington.",
+      "One nation just built a model that rivals GPT—without US chips.",
+      "Your data now stays inside borders; no foreign policy can touch it.",
+      "Audit your AI vendor's sovereignty clause before your next update."
+    ],
+    "thread_text": [
+      "1. Who owns the kill switch?\n\nOne nation just built a GPT rival without American chips — and kept its data out of Washington’s reach.",
+      "2. Sovereign clouds bypass US control.\n\nLocal infrastructure keeps your data beyond foreign policy reach. No export law can touch it.",
+      "3. The GPU workaround is real.\n\nThat rival model was trained on non-US hardware. The silicon ban just lost its teeth.",
+      "4. Your data stays behind borders.\n\nSovereign AI clouds enforce local storage by law. Even a presidential order can’t pull your logs.",
+      "5. Check your vendor’s sovereignty clause.\n\nBefore your next update, audit where inference happens. Does your contract let data leave without consent?"
+    ],
+    "video_script": [
+      "Leaders want American AI but fear control.",
+      "Sovereign clouds keep data out of Washington.",
+      "One nation built a GPT rival without US chips.",
+      "Your data now stays inside your borders.",
+      "Audit your vendor's sovereignty clause now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who owns the kill switch?\n\nOne nation just built a GPT rival without American chips — and kept its data out of Washington’s reach.",
+          "2. Sovereign clouds bypass US control.\n\nLocal infrastructure keeps your data beyond foreign policy reach. No export law can touch it.",
+          "3. The GPU workaround is real.\n\nThat rival model was trained on non-US hardware. The silicon ban just lost its teeth.",
+          "4. Your data stays behind borders.\n\nSovereign AI clouds enforce local storage by law. Even a presidential order can’t pull your logs.",
+          "5. Check your vendor’s sovereignty clause.\n\nBefore your next update, audit where inference happens. Does your contract let data leave without consent?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Leaders want American AI but fear control.",
+          "Sovereign clouds keep data out of Washington.",
+          "One nation built a GPT rival without US chips.",
+          "Your data now stays inside your borders.",
+          "Audit your vendor's sovereignty clause now."
+        ]
+      },
+      "instagram": {
+        "caption": "A nation just built a GPT-level rival without American chips—and its data stays locked in-country, beyond Washington's reach.\n\nWorld leaders want American AI. They just don’t want America to hold the kill switch. Sole sovereign clouds now enforce local storage by law; no foreign policy or export ban can touch your logs. The silicon ban lost its teeth.\n\nFor you: every future tool you build could run on hardware your government can’t block—or data it can’t subpoena.\n\nBefore your next vendor update: does your contract let inference data leave your border without your consent?"
+      }
+    },
+    "instagram_caption": "A nation just built a GPT-level rival without American chips—and its data stays locked in-country, beyond Washington's reach.\n\nWorld leaders want American AI. They just don’t want America to hold the kill switch. Sole sovereign clouds now enforce local storage by law; no foreign policy or export ban can touch your logs. The silicon ban lost its teeth.\n\nFor you: every future tool you build could run on hardware your government can’t block—or data it can’t subpoena.\n\nBefore your next vendor update: does your contract let inference data leave your border without your consent?",
+    "carousel_slides": [
+      {
+        "hook": "Who owns the kill switch?",
+        "description": "A nation built a GPT rival without US chips, keeping data from Washington's reach.",
+        "visual_hint": "Giant power switch silhouette",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Sovereign clouds bypass US control.",
+        "description": "Local infrastructure keeps your data beyond foreign policy reach. No export law can touch it.",
+        "visual_hint": "Cloud with national flag",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The GPU workaround is real.",
+        "description": "That rival model trained on non-US hardware. The silicon ban just lost its teeth.",
+        "visual_hint": "Computer chip being unplugged",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "microchip",
+        "image": "https://images.pexels.com/photos/8108717/pexels-photo-8108717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your data stays behind borders.",
+        "description": "Sovereign AI clouds enforce local storage by law. Even a presidential order can't pull your logs.",
+        "visual_hint": "Locked vault with flag",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "padlock",
+        "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next update.",
+        "description": "Audit your AI vendor's sovereignty clause. Does your contract let data leave without consent?",
+        "visual_hint": "Contract with magnifying glass",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "legal document",
+        "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281424015.jpg?w=1024",
+    "savedAt": "2026-06-17T20:02:22.135Z",
+    "sourceId": "9ef08ab1d787692408f885c783237753"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "pramaana-labs-raises-27m-seed-round-from-khosla-ve",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "world-leaders-want-american-ai-they-just-don-t-wan",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+  "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+  "pubDate": "Wed, 17 Jun 2026 19:01:19 +0000",
+  "slides": [
+    "World leaders want American AI, but fear a kill switch.",
+    "Sovereign AI clouds keep control local, not in Washington.",
+    "One nation just built a model that rivals GPT—without US chips.",
+    "Your data now stays inside borders; no foreign policy can touch it.",
+    "Audit your AI vendor's sovereignty clause before your next update."
+  ],
+  "thread_text": [
+    "1. Who owns the kill switch?\n\nOne nation just built a GPT rival without American chips — and kept its data out of Washington’s reach.",
+    "2. Sovereign clouds bypass US control.\n\nLocal infrastructure keeps your data beyond foreign policy reach. No export law can touch it.",
+    "3. The GPU workaround is real.\n\nThat rival model was trained on non-US hardware. The silicon ban just lost its teeth.",
+    "4. Your data stays behind borders.\n\nSovereign AI clouds enforce local storage by law. Even a presidential order can’t pull your logs.",
+    "5. Check your vendor’s sovereignty clause.\n\nBefore your next update, audit where inference happens. Does your contract let data leave without consent?"
+  ],
+  "video_script": [
+    "Leaders want American AI but fear control.",
+    "Sovereign clouds keep data out of Washington.",
+    "One nation built a GPT rival without US chips.",
+    "Your data now stays inside your borders.",
+    "Audit your vendor's sovereignty clause now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who owns the kill switch?\n\nOne nation just built a GPT rival without American chips — and kept its data out of Washington’s reach.",
+        "2. Sovereign clouds bypass US control.\n\nLocal infrastructure keeps your data beyond foreign policy reach. No export law can touch it.",
+        "3. The GPU workaround is real.\n\nThat rival model was trained on non-US hardware. The silicon ban just lost its teeth.",
+        "4. Your data stays behind borders.\n\nSovereign AI clouds enforce local storage by law. Even a presidential order can’t pull your logs.",
+        "5. Check your vendor’s sovereignty clause.\n\nBefore your next update, audit where inference happens. Does your contract let data leave without consent?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Leaders want American AI but fear control.",
+        "Sovereign clouds keep data out of Washington.",
+        "One nation built a GPT rival without US chips.",
+        "Your data now stays inside your borders.",
+        "Audit your vendor's sovereignty clause now."
+      ]
+    },
+    "instagram": {
+      "caption": "A nation just built a GPT-level rival without American chips—and its data stays locked in-country, beyond Washington's reach.\n\nWorld leaders want American AI. They just don’t want America to hold the kill switch. Sole sovereign clouds now enforce local storage by law; no foreign policy or export ban can touch your logs. The silicon ban lost its teeth.\n\nFor you: every future tool you build could run on hardware your government can’t block—or data it can’t subpoena.\n\nBefore your next vendor update: does your contract let inference data leave your border without your consent?"
+    }
+  },
+  "instagram_caption": "A nation just built a GPT-level rival without American chips—and its data stays locked in-country, beyond Washington's reach.\n\nWorld leaders want American AI. They just don’t want America to hold the kill switch. Sole sovereign clouds now enforce local storage by law; no foreign policy or export ban can touch your logs. The silicon ban lost its teeth.\n\nFor you: every future tool you build could run on hardware your government can’t block—or data it can’t subpoena.\n\nBefore your next vendor update: does your contract let inference data leave your border without your consent?",
+  "carousel_slides": [
+    {
+      "hook": "Who owns the kill switch?",
+      "description": "A nation built a GPT rival without US chips, keeping data from Washington's reach.",
+      "visual_hint": "Giant power switch silhouette",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Sovereign clouds bypass US control.",
+      "description": "Local infrastructure keeps your data beyond foreign policy reach. No export law can touch it.",
+      "visual_hint": "Cloud with national flag",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The GPU workaround is real.",
+      "description": "That rival model trained on non-US hardware. The silicon ban just lost its teeth.",
+      "visual_hint": "Computer chip being unplugged",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microchip",
+      "image": "https://images.pexels.com/photos/8108717/pexels-photo-8108717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your data stays behind borders.",
+      "description": "Sovereign AI clouds enforce local storage by law. Even a presidential order can't pull your logs.",
+      "visual_hint": "Locked vault with flag",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "padlock",
+      "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next update.",
+      "description": "Audit your AI vendor's sovereignty clause. Does your contract let data leave without consent?",
+      "visual_hint": "Contract with magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "legal document",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281424015.jpg?w=1024",
+  "savedAt": "2026-06-17T20:02:22.135Z",
+  "sourceId": "9ef08ab1d787692408f885c783237753"
+}

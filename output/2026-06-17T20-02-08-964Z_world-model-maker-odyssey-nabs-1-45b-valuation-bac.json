@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "world-model-maker-odyssey-nabs-1-45b-valuation-bac",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+  "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+  "pubDate": "Wed, 17 Jun 2026 17:43:07 +0000",
+  "slides": [
+    "Can one startup build the world's digital twin?",
+    "Odyssey just got a $1.45 billion valuation.",
+    "Amazon leads the round, but keeps its plan hidden.",
+    "Your infrastructure decisions may soon rely on their model.",
+    "Test their simulation before your competitor does."
+  ],
+  "thread_text": [
+    "1. Can one build a digital twin?\n\nOdyssey just hit a $1.45 billion valuation, backed by a secret Amazon play.",
+    "2. Amazon leads but hides its plan.\n\nOdyssey’s simulation model could soon dictate your infrastructure buildouts.",
+    "3. Your infrastructure will rely on them.\n\nDecisions about roads, energy, and data centers may run through their simulation first.",
+    "4. Test their simulation now.\n\nYour competitor might be running scenarios on Odyssey’s twin while you read this.",
+    "5. Run one test this week.\n\nTake a real infrastructure decision and simulate it on Odyssey’s model. If you haven’t, start there."
+  ],
+  "video_script": [
+    "A startup aims to twin the entire world.",
+    "Odyssey is now valued at $1.45 billion.",
+    "Amazon invested but keeps its goal hidden.",
+    "Your city planning may soon rely on this.",
+    "Test their simulation before your rivals do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can one build a digital twin?\n\nOdyssey just hit a $1.45 billion valuation, backed by a secret Amazon play.",
+        "2. Amazon leads but hides its plan.\n\nOdyssey’s simulation model could soon dictate your infrastructure buildouts.",
+        "3. Your infrastructure will rely on them.\n\nDecisions about roads, energy, and data centers may run through their simulation first.",
+        "4. Test their simulation now.\n\nYour competitor might be running scenarios on Odyssey’s twin while you read this.",
+        "5. Run one test this week.\n\nTake a real infrastructure decision and simulate it on Odyssey’s model. If you haven’t, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A startup aims to twin the entire world.",
+        "Odyssey is now valued at $1.45 billion.",
+        "Amazon invested but keeps its goal hidden.",
+        "Your city planning may soon rely on this.",
+        "Test their simulation before your rivals do."
+      ]
+    },
+    "instagram": {
+      "caption": "Amazon just quietly led a $1.45 billion bet on a startup that is building a simulation of the entire world 🌍\n\nOdyssey’s digital twin could soon be the software you use to decide where to build roads, energy grids, and data centers. One infrastructure decision run through their model might cost you millions if you get it wrong.\n\nFor anyone planning physical expansions or logistics — your next blueprint may pass through this simulation first.\n\nWhat real decision would you test in their world before risking your own budget? 💸"
+    }
+  },
+  "instagram_caption": "Amazon just quietly led a $1.45 billion bet on a startup that is building a simulation of the entire world 🌍\n\nOdyssey’s digital twin could soon be the software you use to decide where to build roads, energy grids, and data centers. One infrastructure decision run through their model might cost you millions if you get it wrong.\n\nFor anyone planning physical expansions or logistics — your next blueprint may pass through this simulation first.\n\nWhat real decision would you test in their world before risking your own budget? 💸",
+  "carousel_slides": [
+    {
+      "hook": "Your next infrastructure runs on this twin?",
+      "description": "Odyssey's $1.45B valuation and secret Amazon backing could make its simulation the standard for roads and data centers.",
+      "visual_hint": "glowing digital city model",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "digital twin city"
+    },
+    {
+      "hook": "Amazon leads but hides its plan.",
+      "description": "Amazon's hidden strategy may reshape your infrastructure decisions. Odyssey's simulation could become your next essential tool.",
+      "visual_hint": "Amazon logo and server racks",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "amazon server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Infrastructure decisions rely on them.",
+      "description": "Roads, energy, and data centers may soon be validated through Odyssey's model first. Prepare for a new standard.",
+      "visual_hint": "highway with data overlay",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "highway data overlay",
+      "image": "https://images.pexels.com/photos/12377553/pexels-photo-12377553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test their simulation now.",
+      "description": "Your competitor may be running scenarios on Odyssey's digital twin while you wait. Act before they gain the edge.",
+      "visual_hint": "hand touching holographic map",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "holographic map hand",
+      "image": "https://images.pexels.com/photos/11169208/pexels-photo-11169208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — test your infrastructure today.",
+      "description": "Take one real infrastructure decision and simulate it on Odyssey's model. Start this week before your competitor does.",
+      "visual_hint": "checkmark over simulation screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "simulation software screen",
+      "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/11/ODYSSEY-INTHEWILD-974_Retouched_V1.00.jpg?resize=1200,800",
+  "savedAt": "2026-06-17T20:02:35.355Z",
+  "sourceId": "d84f6e5d3df2ce7f4376de0bc41c576b"
+}
