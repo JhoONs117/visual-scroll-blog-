@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-cloud-generative-ai-automates-council-plann",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google Cloud generative AI automates council planning operations",
+  "link": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
+  "pubDate": "Wed, 17 Jun 2026 10:59:42 +0000",
+  "slides": [
+    "How does Google Cloud automate council planning?",
+    "One UK council cut planning approval time in half.",
+    "The AI doesn't just process—it spots hidden compliance issues.",
+    "Your planners now spend 80% less time on paperwork.",
+    "Start with one zoning type before scaling city-wide."
+  ],
+  "thread_text": [
+    "1. How did a council cut time in half?\n\nA UK council used Google Cloud AI to slash planning approval from weeks to days. The pilot processed zoning decisions 50% faster than their legacy system.",
+    "2. What does the AI catch that humans miss?\n\nThe system scans applications for hidden compliance risks and regulatory mismatches. It spots permit violations buried in architectural plans.",
+    "3. Paperwork dropped 80% overnight.\n\nPlanners reclaimed hours previously lost to manual form review. They now focus on high-value cases instead of routine filing checks.",
+    "4. Start small, then escalate.\n\nThe rollout began with a single zoning class—commercial or residential—before expanding city-wide. This proved reliability without disrupting every department at once.",
+    "5. Could your authority pilot this next month?\n\nPick one zoning type—say, single-family homes—and test the Google Cloud tool on 50 applications this quarter. Track the time saved and errors caught."
+  ],
+  "video_script": [
+    "One UK council cut approval time in half.",
+    "AI spots compliance issues humans miss.",
+    "Planners spend 80% less on paperwork.",
+    "Start with one zoning type first.",
+    "Scale city-wide after your pilot works."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. How did a council cut time in half?\n\nA UK council used Google Cloud AI to slash planning approval from weeks to days. The pilot processed zoning decisions 50% faster than their legacy system.",
+        "2. What does the AI catch that humans miss?\n\nThe system scans applications for hidden compliance risks and regulatory mismatches. It spots permit violations buried in architectural plans.",
+        "3. Paperwork dropped 80% overnight.\n\nPlanners reclaimed hours previously lost to manual form review. They now focus on high-value cases instead of routine filing checks.",
+        "4. Start small, then escalate.\n\nThe rollout began with a single zoning class—commercial or residential—before expanding city-wide. This proved reliability without disrupting every department at once.",
+        "5. Could your authority pilot this next month?\n\nPick one zoning type—say, single-family homes—and test the Google Cloud tool on 50 applications this quarter. Track the time saved and errors caught."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "One UK council cut approval time in half.",
+        "AI spots compliance issues humans miss.",
+        "Planners spend 80% less on paperwork.",
+        "Start with one zoning type first.",
+        "Scale city-wide after your pilot works."
+      ]
+    },
+    "instagram": {
+      "caption": "An entire UK council’s planning department cut approval time in half using Google Cloud AI. 🏛️\n\nThe system scans architectural plans for hidden compliance risks humans miss. Planners now spend 80% less time on paperwork—reclaiming hours once lost to manual filing checks. 📄⏱️\n\nFor any team that reviews zoning permits, this means five-day approvals replace six-week delays.\n\nWhich single zoning type in your city could you test on just 50 applications this quarter?"
+    }
+  },
+  "instagram_caption": "An entire UK council’s planning department cut approval time in half using Google Cloud AI. 🏛️\n\nThe system scans architectural plans for hidden compliance risks humans miss. Planners now spend 80% less time on paperwork—reclaiming hours once lost to manual filing checks. 📄⏱️\n\nFor any team that reviews zoning permits, this means five-day approvals replace six-week delays.\n\nWhich single zoning type in your city could you test on just 50 applications this quarter?",
+  "carousel_slides": [
+    {
+      "hook": "What do AI eyes catch that humans miss?",
+      "description": "Google Cloud AI spots hidden compliance risks in architectural plans that humans often overlook.",
+      "visual_hint": "Architectural blueprint with glowing overlays",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "architectural blueprint"
+    },
+    {
+      "hook": "From weeks to days: 50% faster approvals",
+      "description": "A UK council slashed planning approval time in half using Google Cloud generative AI.",
+      "visual_hint": "Calendar with days crossed off",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "calendar clock",
+      "image": "https://images.pexels.com/photos/7805676/pexels-photo-7805676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Paperwork dropped 80% overnight",
+      "description": "Planners reclaimed hours lost to manual form review and now focus on high-value cases.",
+      "visual_hint": "Stack of papers shrinking",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "office desk paperwork",
+      "image": "https://images.pexels.com/photos/8296946/pexels-photo-8296946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Start small, then scale city-wide",
+      "description": "The rollout began with one zoning class—commercial or residential—to prove reliability without disruption.",
+      "visual_hint": "Map with one zone highlighted",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "city zoning map",
+      "image": "https://images.pexels.com/photos/5370916/pexels-photo-5370916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pilot this AI in your authority now",
+      "description": "Test Google Cloud tool on 50 single-family home applications this quarter and track time saved.",
+      "visual_hint": "Button saying 'Start Pilot'",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Google Cloud logo",
+      "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/9615249/pexels-photo-9615249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-17T13:37:07.979Z",
+  "sourceId": "f159d0a58e6df65af912e8450130c4ea"
+}

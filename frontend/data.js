@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "pinterest-launches-an-experimental-ai-shopping-app",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+    "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+    "pubDate": "Wed, 17 Jun 2026 11:00:00 +0000",
+    "slides": [
+      "Pinterest tests a new AI shopping app—why now?",
+      "It lets you search products with natural language",
+      "But it doesn't just find items—it gives advice",
+      "Scroll-and-shop model shifts to conversation-first",
+      "Try it yourself: ask about a specific need today"
+    ],
+    "thread_text": [
+      "1. Why Pinterest now?\n\nE-commerce searches on Pinterest jumped 40% year-over-year, signaling a massive shift in shopping behavior.",
+      "2. Search by vibe\n\nNatural language replaces keywords—say “cozy living room” instead of “beige sofa.” No more guessing.",
+      "3. Advice mode\n\nThe AI doesn’t just list products—it recommends based on context like “work trip” or “first date.”",
+      "4. Flip the funnel\n\nConversation-first shopping flips scroll-and-shop: you talk, it finds. Brands must rethink discovery.",
+      "5. Test it yourself\n\nOpen Pinterest today and type a messy need like “outfit for a rainy job interview.” What happens?"
+    ],
+    "video_script": [
+      "Pinterest launches an AI shopping app.",
+      "Describe what you want in plain words.",
+      "It suggests, not just finds products.",
+      "Chat replaces endless scrolling for shopping.",
+      "Try it: ask for a rainy interview outfit."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why Pinterest now?\n\nE-commerce searches on Pinterest jumped 40% year-over-year, signaling a massive shift in shopping behavior.",
+          "2. Search by vibe\n\nNatural language replaces keywords—say “cozy living room” instead of “beige sofa.” No more guessing.",
+          "3. Advice mode\n\nThe AI doesn’t just list products—it recommends based on context like “work trip” or “first date.”",
+          "4. Flip the funnel\n\nConversation-first shopping flips scroll-and-shop: you talk, it finds. Brands must rethink discovery.",
+          "5. Test it yourself\n\nOpen Pinterest today and type a messy need like “outfit for a rainy job interview.” What happens?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Pinterest launches an AI shopping app.",
+          "Describe what you want in plain words.",
+          "It suggests, not just finds products.",
+          "Chat replaces endless scrolling for shopping.",
+          "Try it: ask for a rainy interview outfit."
+        ]
+      },
+      "instagram": {
+        "caption": "Now you can show Pinterest an outfit idea by typing \"rainy job interview\" instead of scrolling endlessly for the perfect blazer.\n\nThe app uses natural language to search products, but it doesn't just list items — it gives tailored advice based on your situation. E-commerce searches on Pinterest jumped 40%, and this \"ask-first\" model flips the old scroll-and-shop funnel on its head.\n\nFor creators or brands: product discovery now starts with a conversation, not a keyword. Stop optimizing for \"beige sofa\" — start thinking how your item fits a \"cozy living room\" vibe.\n\nGo open Pinterest and type your messiest shopping need today. What does the AI tell you back?"
+      }
+    },
+    "instagram_caption": "Now you can show Pinterest an outfit idea by typing \"rainy job interview\" instead of scrolling endlessly for the perfect blazer.\n\nThe app uses natural language to search products, but it doesn't just list items — it gives tailored advice based on your situation. E-commerce searches on Pinterest jumped 40%, and this \"ask-first\" model flips the old scroll-and-shop funnel on its head.\n\nFor creators or brands: product discovery now starts with a conversation, not a keyword. Stop optimizing for \"beige sofa\" — start thinking how your item fits a \"cozy living room\" vibe.\n\nGo open Pinterest and type your messiest shopping need today. What does the AI tell you back?",
+    "carousel_slides": [
+      {
+        "hook": "This AI gives shopping advice.",
+        "description": "Pinterest's AI recommends products for contexts like work trips, changing shopping behavior massively.",
+        "visual_hint": "AI chip glowing blue",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "artificial intelligence chip"
+      },
+      {
+        "hook": "Search by vibe, not keywords.",
+        "description": "Natural language replaces keywords: say \"cozy living room\" instead of \"beige sofa.\" No guessing needed.",
+        "visual_hint": "person typing on phone",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "person typing smartphone",
+        "image": "https://images.pexels.com/photos/6669795/pexels-photo-6669795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It gives context-based recommendations.",
+        "description": "The AI lists products for specific needs like \"first date\" or \"work trip.\"",
+        "visual_hint": "holographic product grid",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "grid product display",
+        "image": "https://images.pexels.com/photos/5042592/pexels-photo-5042592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Conversation flips the shopping funnel.",
+        "description": "You talk, it finds. Brands must rethink discovery as scroll-and-shop shifts to conversation-first.",
+        "visual_hint": "two speech bubbles merging",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "chat bubbles conversation",
+        "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to try it yourself.",
+        "description": "Open Pinterest and type a messy need like \"outfit for a rainy job interview.\"",
+        "visual_hint": "phone with Pinterest logo",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "Pinterest app icon",
+        "image": "https://images.pexels.com/photos/33632620/pexels-photo-33632620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/ask-pinterest.jpg?resize=1200,922",
+    "savedAt": "2026-06-17T13:37:21.737Z",
+    "sourceId": "ca1ffebd7c8912bdcdc772a675176d9f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-cloud-generative-ai-automates-council-plann",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google Cloud generative AI automates council planning operations",
+    "link": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
+    "pubDate": "Wed, 17 Jun 2026 10:59:42 +0000",
+    "slides": [
+      "How does Google Cloud automate council planning?",
+      "One UK council cut planning approval time in half.",
+      "The AI doesn't just process—it spots hidden compliance issues.",
+      "Your planners now spend 80% less time on paperwork.",
+      "Start with one zoning type before scaling city-wide."
+    ],
+    "thread_text": [
+      "1. How did a council cut time in half?\n\nA UK council used Google Cloud AI to slash planning approval from weeks to days. The pilot processed zoning decisions 50% faster than their legacy system.",
+      "2. What does the AI catch that humans miss?\n\nThe system scans applications for hidden compliance risks and regulatory mismatches. It spots permit violations buried in architectural plans.",
+      "3. Paperwork dropped 80% overnight.\n\nPlanners reclaimed hours previously lost to manual form review. They now focus on high-value cases instead of routine filing checks.",
+      "4. Start small, then escalate.\n\nThe rollout began with a single zoning class—commercial or residential—before expanding city-wide. This proved reliability without disrupting every department at once.",
+      "5. Could your authority pilot this next month?\n\nPick one zoning type—say, single-family homes—and test the Google Cloud tool on 50 applications this quarter. Track the time saved and errors caught."
+    ],
+    "video_script": [
+      "One UK council cut approval time in half.",
+      "AI spots compliance issues humans miss.",
+      "Planners spend 80% less on paperwork.",
+      "Start with one zoning type first.",
+      "Scale city-wide after your pilot works."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. How did a council cut time in half?\n\nA UK council used Google Cloud AI to slash planning approval from weeks to days. The pilot processed zoning decisions 50% faster than their legacy system.",
+          "2. What does the AI catch that humans miss?\n\nThe system scans applications for hidden compliance risks and regulatory mismatches. It spots permit violations buried in architectural plans.",
+          "3. Paperwork dropped 80% overnight.\n\nPlanners reclaimed hours previously lost to manual form review. They now focus on high-value cases instead of routine filing checks.",
+          "4. Start small, then escalate.\n\nThe rollout began with a single zoning class—commercial or residential—before expanding city-wide. This proved reliability without disrupting every department at once.",
+          "5. Could your authority pilot this next month?\n\nPick one zoning type—say, single-family homes—and test the Google Cloud tool on 50 applications this quarter. Track the time saved and errors caught."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "One UK council cut approval time in half.",
+          "AI spots compliance issues humans miss.",
+          "Planners spend 80% less on paperwork.",
+          "Start with one zoning type first.",
+          "Scale city-wide after your pilot works."
+        ]
+      },
+      "instagram": {
+        "caption": "An entire UK council’s planning department cut approval time in half using Google Cloud AI. 🏛️\n\nThe system scans architectural plans for hidden compliance risks humans miss. Planners now spend 80% less time on paperwork—reclaiming hours once lost to manual filing checks. 📄⏱️\n\nFor any team that reviews zoning permits, this means five-day approvals replace six-week delays.\n\nWhich single zoning type in your city could you test on just 50 applications this quarter?"
+      }
+    },
+    "instagram_caption": "An entire UK council’s planning department cut approval time in half using Google Cloud AI. 🏛️\n\nThe system scans architectural plans for hidden compliance risks humans miss. Planners now spend 80% less time on paperwork—reclaiming hours once lost to manual filing checks. 📄⏱️\n\nFor any team that reviews zoning permits, this means five-day approvals replace six-week delays.\n\nWhich single zoning type in your city could you test on just 50 applications this quarter?",
+    "carousel_slides": [
+      {
+        "hook": "What do AI eyes catch that humans miss?",
+        "description": "Google Cloud AI spots hidden compliance risks in architectural plans that humans often overlook.",
+        "visual_hint": "Architectural blueprint with glowing overlays",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "architectural blueprint"
+      },
+      {
+        "hook": "From weeks to days: 50% faster approvals",
+        "description": "A UK council slashed planning approval time in half using Google Cloud generative AI.",
+        "visual_hint": "Calendar with days crossed off",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "calendar clock",
+        "image": "https://images.pexels.com/photos/7805676/pexels-photo-7805676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Paperwork dropped 80% overnight",
+        "description": "Planners reclaimed hours lost to manual form review and now focus on high-value cases.",
+        "visual_hint": "Stack of papers shrinking",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "office desk paperwork",
+        "image": "https://images.pexels.com/photos/8296946/pexels-photo-8296946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Start small, then scale city-wide",
+        "description": "The rollout began with one zoning class—commercial or residential—to prove reliability without disruption.",
+        "visual_hint": "Map with one zone highlighted",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "city zoning map",
+        "image": "https://images.pexels.com/photos/5370916/pexels-photo-5370916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pilot this AI in your authority now",
+        "description": "Test Google Cloud tool on 50 single-family home applications this quarter and track time saved.",
+        "visual_hint": "Button saying 'Start Pilot'",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "Google Cloud logo",
+        "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/9615249/pexels-photo-9615249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-17T13:37:07.979Z",
+    "sourceId": "f159d0a58e6df65af912e8450130c4ea"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "snap-finally-debuts-its-long-awaited-ar-glasses-sp",
     "prompt_version": "1.0.0",
     "status": "published",
