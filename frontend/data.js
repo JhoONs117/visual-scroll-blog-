@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "doj-claims-xai-s-unpermitted-gas-turbines-are-a-ma",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+    "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+    "pubDate": "Tue, 16 Jun 2026 15:05:03 +0000",
+    "slides": [
+      "Why is DOJ calling xAI's turbines a security threat?",
+      "They say xAI ran unpermitted gas turbines in Memphis.",
+      "The claim links local emissions to national energy risks.",
+      "Companies now face unexpected federal scrutiny on power use.",
+      "Check your own site's permits before regulators arrive."
+    ],
+    "thread_text": [
+      "1. DOJ targets AI energy\n\nThe Department of Justice just flagged xAI for installing gas turbines without permits in Memphis, linking local pollution to national security risks.",
+      "2. What federal scrutiny means\n\nThis isn't just about emissions—the DOJ is now treating corporate energy use as a potential threat to the grid, setting a new precedent for any company running AI workloads.",
+      "3. Surprise ripple effect\n\nExpect sudden audits on power infrastructure at data centers nationwide, as regulators connect unpermitted generators to broader energy supply vulnerabilities.",
+      "4. Compliance gap exposed\n\nMany firms bypass local permits for temporary turbines during AI training peaks; the DOJ claims these bypasses bypass federal oversight too.",
+      "5. Check your permits now\n\nWalk your facility's power sources today. If a single turbine lacks a permit, you're exposed. When was the last time you verified yours?"
+    ],
+    "video_script": [
+      "DOJ says xAI's turbines threaten national security.",
+      "They ran gas turbines without permits in Memphis.",
+      "Local emissions now link to energy grid risks.",
+      "Feds are auditing other companies on power use.",
+      "Check your site's permits before regulators arrive."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. DOJ targets AI energy\n\nThe Department of Justice just flagged xAI for installing gas turbines without permits in Memphis, linking local pollution to national security risks.",
+          "2. What federal scrutiny means\n\nThis isn't just about emissions—the DOJ is now treating corporate energy use as a potential threat to the grid, setting a new precedent for any company running AI workloads.",
+          "3. Surprise ripple effect\n\nExpect sudden audits on power infrastructure at data centers nationwide, as regulators connect unpermitted generators to broader energy supply vulnerabilities.",
+          "4. Compliance gap exposed\n\nMany firms bypass local permits for temporary turbines during AI training peaks; the DOJ claims these bypasses bypass federal oversight too.",
+          "5. Check your permits now\n\nWalk your facility's power sources today. If a single turbine lacks a permit, you're exposed. When was the last time you verified yours?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "DOJ says xAI's turbines threaten national security.",
+          "They ran gas turbines without permits in Memphis.",
+          "Local emissions now link to energy grid risks.",
+          "Feds are auditing other companies on power use.",
+          "Check your site's permits before regulators arrive."
+        ]
+      },
+      "instagram": {
+        "caption": "Unpermitted gas turbines powering an AI company just got flagged as a national security risk by the Department of Justice. ⚡\n\nThe DOJ is linking one company's local emissions in Memphis to broader energy grid vulnerabilities. This isn't just about permits—federal regulators are now treating corporate power use as a potential threat to national and economic security.\n\nIf you run AI workloads or operate data center infrastructure, expect sudden audits on any generators you bypassed during training peaks.\n\nWhen was the last time you verified every turbine and backup power source on your site's permit list? 🔍"
+      }
+    },
+    "instagram_caption": "Unpermitted gas turbines powering an AI company just got flagged as a national security risk by the Department of Justice. ⚡\n\nThe DOJ is linking one company's local emissions in Memphis to broader energy grid vulnerabilities. This isn't just about permits—federal regulators are now treating corporate power use as a potential threat to national and economic security.\n\nIf you run AI workloads or operate data center infrastructure, expect sudden audits on any generators you bypassed during training peaks.\n\nWhen was the last time you verified every turbine and backup power source on your site's permit list? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Your AI power could be illegal",
+        "description": "DOJ called xAI's unpermitted gas turbines a national security threat, not just a local emissions issue.",
+        "visual_hint": "Gas turbine industrial close-up",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "gas turbine industrial"
+      },
+      {
+        "hook": "Federal scrutiny just escalated",
+        "description": "DOJ now treats corporate energy use as a potential grid threat, setting precedent for AI companies.",
+        "visual_hint": "DOJ building exterior",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "DOJ building exterior",
+        "image": "https://images.pexels.com/photos/27399586/pexels-photo-27399586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Expect surprise data center audits",
+        "description": "Regulators will connect unpermitted generators to energy vulnerabilities, triggering sudden power infrastructure checks.",
+        "visual_hint": "Data center server aisles",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data center servers",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Bypass permits at your own risk",
+        "description": "Temporary turbines for AI training peaks often lack permits—DOJ claims this bypasses federal oversight too.",
+        "visual_hint": "Worker checking turbine logs",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "turbine maintenance worker",
+        "image": "https://images.pexels.com/photos/12944825/pexels-photo-12944825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: check your permits NOW",
+        "description": "Walk your facility's power sources today. One unpermitted turbine exposes you. Verify yours now.",
+        "visual_hint": "Clipboard with checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "permit checklist clipboard",
+        "image": "https://images.pexels.com/photos/8470801/pexels-photo-8470801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+    "savedAt": "2026-06-17T02:50:42.456Z",
+    "sourceId": "2b4c89d3385f7506b8f57fde36c33822"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "apple-plans-to-change-its-hide-my-email-privacy-fe",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+    "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+    "pubDate": "Tue, 16 Jun 2026 22:09:32 +0000",
+    "slides": [
+      "Apple is changing Hide My Email—why now?",
+      "The new system will weaken email anonymity",
+      "Even Apple admits the old method hid too much",
+      "That means your forwarded emails may reveal you",
+      "Check your privacy settings before the update"
+    ],
+    "thread_text": [
+      "1. Apple is switching gears.\n\nHide My Email is about to expose more of you. The update rolls out next month.",
+      "2. What was hidden is now forwarded.\n\nApple will start embedding your real address into forwarded emails. The cloak just got thinner.",
+      "3. Apple admits the flaw.\n\nTheir own documentation says the old system masked too much. The fix removes part of that shield.",
+      "4. Your forwarded email leaks you.\n\nRecipients can now see your original email in the headers. That metadata was previously stripped.",
+      "5. Check your settings today.\n\nGo to iCloud settings and review Hide My Email rules. Do you still trust the relay?"
+    ],
+    "video_script": [
+      "Apple changes Hide My Email.",
+      "It will weaken your email anonymity.",
+      "Apple says old system hid too much.",
+      "Forwarded emails may now reveal you.",
+      "Check privacy settings before the update."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Apple is switching gears.\n\nHide My Email is about to expose more of you. The update rolls out next month.",
+          "2. What was hidden is now forwarded.\n\nApple will start embedding your real address into forwarded emails. The cloak just got thinner.",
+          "3. Apple admits the flaw.\n\nTheir own documentation says the old system masked too much. The fix removes part of that shield.",
+          "4. Your forwarded email leaks you.\n\nRecipients can now see your original email in the headers. That metadata was previously stripped.",
+          "5. Check your settings today.\n\nGo to iCloud settings and review Hide My Email rules. Do you still trust the relay?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple changes Hide My Email.",
+          "It will weaken your email anonymity.",
+          "Apple says old system hid too much.",
+          "Forwarded emails may now reveal you.",
+          "Check privacy settings before the update."
+        ]
+      },
+      "instagram": {
+        "caption": "Apple is about to stop stripping your real email from forwarded messages through Hide My Email. 📨\n\nThe update embeds your actual address in email headers. What was anonymous becomes traceable.\n\nApple's own docs say the old system hid \"too much\"—so they're removing part of the shield.\n\nIf you rely on Hide My Email for newsletter signups or freelance work, your identity may now leak to recipients.\n\nDo you still trust the relay after this change? Go to iCloud settings and review your forwarding rules today. 🔍"
+      }
+    },
+    "instagram_caption": "Apple is about to stop stripping your real email from forwarded messages through Hide My Email. 📨\n\nThe update embeds your actual address in email headers. What was anonymous becomes traceable.\n\nApple's own docs say the old system hid \"too much\"—so they're removing part of the shield.\n\nIf you rely on Hide My Email for newsletter signups or freelance work, your identity may now leak to recipients.\n\nDo you still trust the relay after this change? Go to iCloud settings and review your forwarding rules today. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Apple just weakened your privacy shield.",
+        "description": "Apple's Hide My Email update will embed your real address in forwarded emails, reducing anonymity.",
+        "visual_hint": "Shield with crack",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "broken shield"
+      },
+      {
+        "hook": "Your real email is now exposed.",
+        "description": "Apple forwards your actual address in email headers—recipients can see what was once hidden.",
+        "visual_hint": "Envelope with address visible",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "email envelope",
+        "image": "https://images.pexels.com/photos/6478814/pexels-photo-6478814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Apple admits the old method hid too much.",
+        "description": "Apple's own documentation says the previous system masked too much; the fix removes part of the shield.",
+        "visual_hint": "Document with highlighted text",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "privacy document",
+        "image": "https://images.pexels.com/photos/5712691/pexels-photo-5712691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Forwarded emails now leak your identity.",
+        "description": "Previously stripped metadata now reveals your original email to recipients—privacy is fading.",
+        "visual_hint": "Hand holding phone with leak",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your iCloud settings before the update.",
+        "description": "Go to iCloud settings and review Hide My Email rules. Don't wait until privacy is gone.",
+        "visual_hint": "Settings gear icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "iPhone settings",
+        "image": "https://images.pexels.com/photos/3945672/pexels-photo-3945672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-477672484.jpg?resize=1200,800",
+    "savedAt": "2026-06-17T02:50:26.653Z",
+    "sourceId": "7ec29f4cdedcf6619c63eb632075ca8b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "probably-raises-9m-to-build-a-more-reliable-kind-o",
     "prompt_version": "1.0.0",
     "status": "published",

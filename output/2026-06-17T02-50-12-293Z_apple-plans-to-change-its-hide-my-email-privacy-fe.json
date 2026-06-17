@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-plans-to-change-its-hide-my-email-privacy-fe",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+  "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+  "pubDate": "Tue, 16 Jun 2026 22:09:32 +0000",
+  "slides": [
+    "Apple is changing Hide My Email—why now?",
+    "The new system will weaken email anonymity",
+    "Even Apple admits the old method hid too much",
+    "That means your forwarded emails may reveal you",
+    "Check your privacy settings before the update"
+  ],
+  "thread_text": [
+    "1. Apple is switching gears.\n\nHide My Email is about to expose more of you. The update rolls out next month.",
+    "2. What was hidden is now forwarded.\n\nApple will start embedding your real address into forwarded emails. The cloak just got thinner.",
+    "3. Apple admits the flaw.\n\nTheir own documentation says the old system masked too much. The fix removes part of that shield.",
+    "4. Your forwarded email leaks you.\n\nRecipients can now see your original email in the headers. That metadata was previously stripped.",
+    "5. Check your settings today.\n\nGo to iCloud settings and review Hide My Email rules. Do you still trust the relay?"
+  ],
+  "video_script": [
+    "Apple changes Hide My Email.",
+    "It will weaken your email anonymity.",
+    "Apple says old system hid too much.",
+    "Forwarded emails may now reveal you.",
+    "Check privacy settings before the update."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Apple is switching gears.\n\nHide My Email is about to expose more of you. The update rolls out next month.",
+        "2. What was hidden is now forwarded.\n\nApple will start embedding your real address into forwarded emails. The cloak just got thinner.",
+        "3. Apple admits the flaw.\n\nTheir own documentation says the old system masked too much. The fix removes part of that shield.",
+        "4. Your forwarded email leaks you.\n\nRecipients can now see your original email in the headers. That metadata was previously stripped.",
+        "5. Check your settings today.\n\nGo to iCloud settings and review Hide My Email rules. Do you still trust the relay?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple changes Hide My Email.",
+        "It will weaken your email anonymity.",
+        "Apple says old system hid too much.",
+        "Forwarded emails may now reveal you.",
+        "Check privacy settings before the update."
+      ]
+    },
+    "instagram": {
+      "caption": "Apple is about to stop stripping your real email from forwarded messages through Hide My Email. 📨\n\nThe update embeds your actual address in email headers. What was anonymous becomes traceable.\n\nApple's own docs say the old system hid \"too much\"—so they're removing part of the shield.\n\nIf you rely on Hide My Email for newsletter signups or freelance work, your identity may now leak to recipients.\n\nDo you still trust the relay after this change? Go to iCloud settings and review your forwarding rules today. 🔍"
+    }
+  },
+  "instagram_caption": "Apple is about to stop stripping your real email from forwarded messages through Hide My Email. 📨\n\nThe update embeds your actual address in email headers. What was anonymous becomes traceable.\n\nApple's own docs say the old system hid \"too much\"—so they're removing part of the shield.\n\nIf you rely on Hide My Email for newsletter signups or freelance work, your identity may now leak to recipients.\n\nDo you still trust the relay after this change? Go to iCloud settings and review your forwarding rules today. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Apple just weakened your privacy shield.",
+      "description": "Apple's Hide My Email update will embed your real address in forwarded emails, reducing anonymity.",
+      "visual_hint": "Shield with crack",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken shield"
+    },
+    {
+      "hook": "Your real email is now exposed.",
+      "description": "Apple forwards your actual address in email headers—recipients can see what was once hidden.",
+      "visual_hint": "Envelope with address visible",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "email envelope",
+      "image": "https://images.pexels.com/photos/6478814/pexels-photo-6478814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Apple admits the old method hid too much.",
+      "description": "Apple's own documentation says the previous system masked too much; the fix removes part of the shield.",
+      "visual_hint": "Document with highlighted text",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "privacy document",
+      "image": "https://images.pexels.com/photos/5712691/pexels-photo-5712691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Forwarded emails now leak your identity.",
+      "description": "Previously stripped metadata now reveals your original email to recipients—privacy is fading.",
+      "visual_hint": "Hand holding phone with leak",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your iCloud settings before the update.",
+      "description": "Go to iCloud settings and review Hide My Email rules. Don't wait until privacy is gone.",
+      "visual_hint": "Settings gear icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "iPhone settings",
+      "image": "https://images.pexels.com/photos/3945672/pexels-photo-3945672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-477672484.jpg?resize=1200,800",
+  "savedAt": "2026-06-17T02:50:26.653Z",
+  "sourceId": "7ec29f4cdedcf6619c63eb632075ca8b"
+}
