@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "photoshop-and-premiere-now-have-ai-assistants",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Photoshop and Premiere now have AI assistants",
+    "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+    "pubDate": "2026-06-18T13:00:00.000Z",
+    "slides": [
+      "Will Adobe's AI finally do your creative work?",
+      "Photoshop and Premiere now embed generative assistants directly.",
+      "They don't just edit—they understand your project's intent.",
+      "You can skip hours of masking or cutting raw footage.",
+      "Run one test today: ask the assistant to finish a task."
+    ],
+    "thread_text": [
+      "1. Will it replace you?\n\nAdobe's latest update embeds generative AI directly into Photoshop and Premiere, not as a plugin, but as a core feature.",
+      "2. Intent, not pixels\n\nThe assistants analyze your project's context, not just the frame. They understand the goal behind the edit.",
+      "3. Skip the tedium\n\nHours of masking or cutting raw footage disappear. The AI completes those tasks in seconds based on your workflow.",
+      "4. The hidden trade-off\n\nYou lose granular control. The system makes assumptions about your intent that may not match yours.",
+      "5. Test it yourself today\n\nOpen Premiere, start a new sequence, and ask the assistant to cut a 30-second highlight reel. Does it guess your intent correctly?"
+    ],
+    "video_script": [
+      "Adobe embeds AI into Photoshop and Premiere now.",
+      "It understands your project's intent, not just edits.",
+      "You can skip hours of masking and cutting.",
+      "But the AI guesses your goals for you.",
+      "Test it: ask the assistant to finish a task."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Will it replace you?\n\nAdobe's latest update embeds generative AI directly into Photoshop and Premiere, not as a plugin, but as a core feature.",
+          "2. Intent, not pixels\n\nThe assistants analyze your project's context, not just the frame. They understand the goal behind the edit.",
+          "3. Skip the tedium\n\nHours of masking or cutting raw footage disappear. The AI completes those tasks in seconds based on your workflow.",
+          "4. The hidden trade-off\n\nYou lose granular control. The system makes assumptions about your intent that may not match yours.",
+          "5. Test it yourself today\n\nOpen Premiere, start a new sequence, and ask the assistant to cut a 30-second highlight reel. Does it guess your intent correctly?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Adobe embeds AI into Photoshop and Premiere now.",
+          "It understands your project's intent, not just edits.",
+          "You can skip hours of masking and cutting.",
+          "But the AI guesses your goals for you.",
+          "Test it: ask the assistant to finish a task."
+        ]
+      },
+      "instagram": {
+        "caption": "You spend hours cutting raw footage, but Premiere's new AI can analyze the intent behind your project and trim a timeline in seconds. 🎬\n\nPhotoshop’s generative assistant does the same for masking—it studies your document's context, then finishes the edit based on what it thinks you want. The catch is that you hand over granular control to a black-box system.\n\nFor any creative, this means skipping tedious tasks but accepting that the AI may guess your intent wrong. 🧩\n\nOpen Premiere today and ask the assistant to cut a 30-second highlight reel—does it match what you would have picked? ✂️"
+      }
+    },
+    "instagram_caption": "You spend hours cutting raw footage, but Premiere's new AI can analyze the intent behind your project and trim a timeline in seconds. 🎬\n\nPhotoshop’s generative assistant does the same for masking—it studies your document's context, then finishes the edit based on what it thinks you want. The catch is that you hand over granular control to a black-box system.\n\nFor any creative, this means skipping tedious tasks but accepting that the AI may guess your intent wrong. 🧩\n\nOpen Premiere today and ask the assistant to cut a 30-second highlight reel—does it match what you would have picked? ✂️",
+    "carousel_slides": [
+      {
+        "hook": "Will AI replace your creativity?",
+        "description": "Adobe embeds generative AI into Photoshop and Premiere not as a plugin, but as a core feature to understand your intent.",
+        "visual_hint": "Adobe interface with AI prompt",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "adobe creative cloud interface"
+      },
+      {
+        "hook": "It understands your project's intent.",
+        "description": "The AI analyzes context, not just pixels, grasping the goal behind every edit you make.",
+        "visual_hint": "Person editing with AI overlay",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "person editing laptop",
+        "image": "https://images.pexels.com/photos/7014506/pexels-photo-7014506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Skip hours of tedious masking.",
+        "description": "Masking and cutting raw footage are completed in seconds by the AI, freeing you to focus on creative decisions.",
+        "visual_hint": "Timeline with auto-cut highlights",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "video editing timeline",
+        "image": "https://images.pexels.com/photos/31718971/pexels-photo-31718971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "But you lose granular control.",
+        "description": "The system makes assumptions about your intent that may not match yours, trading precision for speed.",
+        "visual_hint": "Hand reaching for mouse control",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand on computer mouse",
+        "image": "https://images.pexels.com/photos/18966481/pexels-photo-18966481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it yourself right now!",
+        "description": "Open Premiere, start a new sequence, ask the assistant to cut a 30-second highlight reel.",
+        "visual_hint": "Phone showing Premiere with CTA",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone with app",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-18T23:29:48.113Z",
+    "sourceId": "c4a5a14ca477793eb86e675d082dfb4c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-data-centers-just-got-a-government-mandated-fas",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI data centers just got a government-mandated fast lane to the grid",
+    "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+    "pubDate": "Thu, 18 Jun 2026 17:49:23 +0000",
+    "slides": [
+      "Which AI data centers now skip the grid queue?",
+      "New rule gives them priority connection permits.",
+      "Your facility's wait just doubled without warning.",
+      "Plan expansion now or face 2026 delays.",
+      "Check your project's eligibility before competitors do."
+    ],
+    "thread_text": [
+      "1. Who skips the queue?\n\nNew rule grants priority permits to select AI data centers. Yours wasn't chosen.",
+      "2. Priority permit explained\n\nGrid operators can now bypass standard waitlists for these projects. The order is set.",
+      "3. Your wait just doubled\n\nStandard facility timelines silently extended to 24+ months. No notice was given.",
+      "4. Expand before 2026\n\nIf your project isn't permitted by next year, expect indefinite grid hold. Act now.",
+      "5. Check your eligibility today\n\nVisit the new portal to confirm your project's status. Are you already locked out?"
+    ],
+    "video_script": [
+      "Some data centers skip the queue now.",
+      "Priority permits go to certain projects only.",
+      "Your wait just doubled without warning.",
+      "Expand now or face 2026 delays.",
+      "Check your eligibility before competitors do."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who skips the queue?\n\nNew rule grants priority permits to select AI data centers. Yours wasn't chosen.",
+          "2. Priority permit explained\n\nGrid operators can now bypass standard waitlists for these projects. The order is set.",
+          "3. Your wait just doubled\n\nStandard facility timelines silently extended to 24+ months. No notice was given.",
+          "4. Expand before 2026\n\nIf your project isn't permitted by next year, expect indefinite grid hold. Act now.",
+          "5. Check your eligibility today\n\nVisit the new portal to confirm your project's status. Are you already locked out?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Some data centers skip the queue now.",
+          "Priority permits go to certain projects only.",
+          "Your wait just doubled without warning.",
+          "Expand now or face 2026 delays.",
+          "Check your eligibility before competitors do."
+        ]
+      },
+      "instagram": {
+        "caption": "Your standard data center now waits 24+ months for grid connection, while select AI projects get priority permits.\n\nThe government granted certain AI data centers a fast lane to bypass the queue. Your facility's wait just doubled without notice.\n\nIf your work depends on cloud rendering, inference, or AI tools, expect those services to cost more or lag as non-priority centers stall.\n\nIs your project already marked as eligible, or are you locked out until 2026? No opinion—just check the new portal 📋⚡."
+      }
+    },
+    "instagram_caption": "Your standard data center now waits 24+ months for grid connection, while select AI projects get priority permits.\n\nThe government granted certain AI data centers a fast lane to bypass the queue. Your facility's wait just doubled without notice.\n\nIf your work depends on cloud rendering, inference, or AI tools, expect those services to cost more or lag as non-priority centers stall.\n\nIs your project already marked as eligible, or are you locked out until 2026? No opinion—just check the new portal 📋⚡.",
+    "carousel_slides": [
+      {
+        "hook": "Your wait just doubled without warning.",
+        "description": "Standard facility timelines silently extended to 24+ months. No notice was given to queue applicants.",
+        "visual_hint": "clock face with double hand",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "clock tower"
+      },
+      {
+        "hook": "Which AI data centers skip the queue?",
+        "description": "New rule grants priority connection permits to select AI projects. Yours wasn't chosen.",
+        "visual_hint": "data center with green check",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Priority permit explained.",
+        "description": "Grid operators can now bypass standard waitlists for these projects. The order is set.",
+        "visual_hint": "plug socket with fast symbol",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "power plant",
+        "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Expand before 2026 or face delays.",
+        "description": "If your project isn't permitted by next year, expect indefinite grid hold. Act now.",
+        "visual_hint": "hand holding blueprint",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "construction site",
+        "image": "https://images.pexels.com/photos/32716845/pexels-photo-32716845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your eligibility before competitors do.",
+        "description": "Visit the new portal to confirm your project's status. Are you already locked out?",
+        "visual_hint": "laptop with eligibility form",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
+    "savedAt": "2026-06-18T23:29:34.643Z",
+    "sourceId": "f9dbd01a64e0201530f2b4092e525f63"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-is-bringing-on-some-big-guns-in-the-lead-up",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO ",
+    "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "pubDate": "Thu, 18 Jun 2026 19:59:22 +0000",
+    "slides": [
+      "OpenAI has new board members—but can it stay independent?",
+      "These experts come from finance and national security.",
+      "They previously worked at firms banned from investing in AI.",
+      "You should watch how IPO governance affects model safety.",
+      "Verify if leadership changes shift OpenAI’s deployment pace."
+    ],
+    "thread_text": [
+      "1. Independence at risk?\n\nOpenAI’s new board members previously worked at firms banned from investing in AI.",
+      "2. Finance and security backgrounds\n\nThese hires come from top-tier finance and national security institutions.",
+      "3. Banned firms' alumni now decide safety\n\nIPO governance will directly influence how fast models are deployed.",
+      "4. Watch the deployment pace\n\nLeadership shifts may change how cautiously new models roll out.",
+      "5. Verify this yourself\n\nCheck OpenAI’s latest model release dates. Does the pace feel different now?"
+    ],
+    "video_script": [
+      "OpenAI adds board members from banned firms.",
+      "Their backgrounds are finance and national security.",
+      "IPO governance affects model safety now.",
+      "Leadership shifts may speed up deployments.",
+      "Check release dates. Does pace feel different?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Independence at risk?\n\nOpenAI’s new board members previously worked at firms banned from investing in AI.",
+          "2. Finance and security backgrounds\n\nThese hires come from top-tier finance and national security institutions.",
+          "3. Banned firms' alumni now decide safety\n\nIPO governance will directly influence how fast models are deployed.",
+          "4. Watch the deployment pace\n\nLeadership shifts may change how cautiously new models roll out.",
+          "5. Verify this yourself\n\nCheck OpenAI’s latest model release dates. Does the pace feel different now?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI adds board members from banned firms.",
+          "Their backgrounds are finance and national security.",
+          "IPO governance affects model safety now.",
+          "Leadership shifts may speed up deployments.",
+          "Check release dates. Does pace feel different?"
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI just appointed ex-employees from companies that were banned from investing in AI to its board. 🇺🇸💰 Their backgrounds are in finance and national security — not AI safety.  \n\nThese new members will now have a say in how fast OpenAI releases future models. IPO governance means profit and security priorities can override caution.  \n\nFor creators and publishers: expect deployments to speed up — and safety checks to narrow. ⏩  \n\nIs your content pipeline ready for models that prioritize market timing over alignment?"
+      }
+    },
+    "instagram_caption": "OpenAI just appointed ex-employees from companies that were banned from investing in AI to its board. 🇺🇸💰 Their backgrounds are in finance and national security — not AI safety.  \n\nThese new members will now have a say in how fast OpenAI releases future models. IPO governance means profit and security priorities can override caution.  \n\nFor creators and publishers: expect deployments to speed up — and safety checks to narrow. ⏩  \n\nIs your content pipeline ready for models that prioritize market timing over alignment?",
+    "carousel_slides": [
+      {
+        "hook": "Independence at risk?",
+        "description": "New board members previously worked at firms banned from investing in AI. This raises questions about independence.",
+        "visual_hint": "Boardroom with vacant chair",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "boardroom table chairs"
+      },
+      {
+        "hook": "Finance & security hires",
+        "description": "These experts come from top-tier finance and national security institutions, shaping future AI decisions.",
+        "visual_hint": "Two professional profiles",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "wall street sign",
+        "image": "https://images.pexels.com/photos/11739140/pexels-photo-11739140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Banned firms now decide",
+        "description": "Alumni from banned firms now influence IPO governance, which will directly affect deployment speed.",
+        "visual_hint": "Gavel on documents",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "gavel legal documents",
+        "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Watch deployment pace",
+        "description": "Leadership shifts may alter how cautiously new models roll out. Monitor release dates for changes.",
+        "visual_hint": "Calendar with markers",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "calendar dates marks",
+        "image": "https://images.pexels.com/photos/7479755/pexels-photo-7479755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Verify it yourself now",
+        "description": "Check OpenAI’s latest model release dates. Does the pace feel different? Comment your take.",
+        "visual_hint": "Smartphone with calendar",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone calendar app",
+        "image": "https://images.pexels.com/photos/13709181/pexels-photo-13709181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/noam-shazeer-deal-ball.png?resize=1200,800",
+    "savedAt": "2026-06-18T23:29:22.000Z",
+    "sourceId": "2446e599d34ea93e2706cf4fb5157043"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-inference-startup-baseten-reportedly-raising-1-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+    "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "pubDate": "Thu, 18 Jun 2026 21:20:13 +0000",
+    "slides": [
+      "Baseten just raised $1.5B. What are they preparing for?",
+      "This comes months after their last mega round.",
+      "They're still a small team, not a giant cloud.",
+      "Your inference costs could drop—but only if you switch.",
+      "Test Baseten's latency today before competitors lock supply."
+    ],
+    "thread_text": [
+      "1. $1.5B for what?\n\nBaseten just raised $1.5 billion months after their last mega round. They're still a tiny team, not a giant cloud provider.",
+      "2. The small team signal\n\nA lean crew this size controlling that much capital means they're betting on a sharp vector — not building a data center empire.",
+      "3. Inference cost trap\n\nYour per-query bills could drop significantly, but only if you migrate off your current provider. The savings are locked behind a switch.",
+      "4. Latency race underway\n\nEarly adopters can lock in speed advantages now. Competitors are scrambling to reserve the same GPU supply.",
+      "5. Run one prompt today\n\nTake your heaviest production model and test it on Baseten's playground this week. Your current latency is the baseline to beat."
+    ],
+    "video_script": [
+      "$1.5 billion raised by a tiny team.",
+      "They're not building a giant cloud.",
+      "Your inference costs could drop—if you switch.",
+      "Test latency now, before supply locks.",
+      "Run one prompt today against your baseline."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $1.5B for what?\n\nBaseten just raised $1.5 billion months after their last mega round. They're still a tiny team, not a giant cloud provider.",
+          "2. The small team signal\n\nA lean crew this size controlling that much capital means they're betting on a sharp vector — not building a data center empire.",
+          "3. Inference cost trap\n\nYour per-query bills could drop significantly, but only if you migrate off your current provider. The savings are locked behind a switch.",
+          "4. Latency race underway\n\nEarly adopters can lock in speed advantages now. Competitors are scrambling to reserve the same GPU supply.",
+          "5. Run one prompt today\n\nTake your heaviest production model and test it on Baseten's playground this week. Your current latency is the baseline to beat."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "$1.5 billion raised by a tiny team.",
+          "They're not building a giant cloud.",
+          "Your inference costs could drop—if you switch.",
+          "Test latency now, before supply locks.",
+          "Run one prompt today against your baseline."
+        ]
+      },
+      "instagram": {
+        "caption": "A startup with fewer than 200 people just locked down $1.5 billion months after its last mega-round.\n\nThat's not a data-center buildout. That's a razor-sharp bet on inference speed, betting they can undercut the giants on your per-query bill.\n\nYou only get the cheaper rates if you migrate. Your current latency is the reference point—they're asking you to beat it.\n\nWhat model would you throw at their playground first this week?"
+      }
+    },
+    "instagram_caption": "A startup with fewer than 200 people just locked down $1.5 billion months after its last mega-round.\n\nThat's not a data-center buildout. That's a razor-sharp bet on inference speed, betting they can undercut the giants on your per-query bill.\n\nYou only get the cheaper rates if you migrate. Your current latency is the reference point—they're asking you to beat it.\n\nWhat model would you throw at their playground first this week?",
+    "carousel_slides": [
+      {
+        "hook": "$1.5B for a tiny team?",
+        "description": "Baseten just raised $1.5 billion months after their last mega round, yet they stay a lean crew.",
+        "visual_hint": "Massive cash pile on small desk",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stack of money"
+      },
+      {
+        "hook": "Small team, huge bet.",
+        "description": "A lean squad controlling that much capital signals a sharp AI inference bet, not a data center empire.",
+        "visual_hint": "Tiny team facing giant server",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your inference bill could drop.",
+        "description": "Per-query costs may fall significantly, but only if you migrate off your current provider.",
+        "visual_hint": "Cost chart with downward arrow",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Latency race is on.",
+        "description": "Early adopters lock in speed advantages now while competitors scramble for the same GPU supply.",
+        "visual_hint": "Runner sprinting on track",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people running race",
+        "image": "https://images.pexels.com/photos/37547763/pexels-photo-37547763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Baseten's latency now.",
+        "description": "Run your heaviest production model on their playground this week. Your current latency is the baseline to beat.",
+        "visual_hint": "Finger pressing glowing test button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer keyboard closeup",
+        "image": "https://images.pexels.com/photos/28993049/pexels-photo-28993049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
+    "savedAt": "2026-06-18T23:29:09.251Z",
+    "sourceId": "c7f03eb380cc18bdb5a7ff229e6e0026"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "adobe-s-redesigned-ai-studio-remembers-what-your-c",
     "prompt_version": "1.0.0",
     "status": "published",

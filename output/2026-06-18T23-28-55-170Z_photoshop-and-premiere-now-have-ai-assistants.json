@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "photoshop-and-premiere-now-have-ai-assistants",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Photoshop and Premiere now have AI assistants",
+  "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+  "pubDate": "2026-06-18T13:00:00.000Z",
+  "slides": [
+    "Will Adobe's AI finally do your creative work?",
+    "Photoshop and Premiere now embed generative assistants directly.",
+    "They don't just edit—they understand your project's intent.",
+    "You can skip hours of masking or cutting raw footage.",
+    "Run one test today: ask the assistant to finish a task."
+  ],
+  "thread_text": [
+    "1. Will it replace you?\n\nAdobe's latest update embeds generative AI directly into Photoshop and Premiere, not as a plugin, but as a core feature.",
+    "2. Intent, not pixels\n\nThe assistants analyze your project's context, not just the frame. They understand the goal behind the edit.",
+    "3. Skip the tedium\n\nHours of masking or cutting raw footage disappear. The AI completes those tasks in seconds based on your workflow.",
+    "4. The hidden trade-off\n\nYou lose granular control. The system makes assumptions about your intent that may not match yours.",
+    "5. Test it yourself today\n\nOpen Premiere, start a new sequence, and ask the assistant to cut a 30-second highlight reel. Does it guess your intent correctly?"
+  ],
+  "video_script": [
+    "Adobe embeds AI into Photoshop and Premiere now.",
+    "It understands your project's intent, not just edits.",
+    "You can skip hours of masking and cutting.",
+    "But the AI guesses your goals for you.",
+    "Test it: ask the assistant to finish a task."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Will it replace you?\n\nAdobe's latest update embeds generative AI directly into Photoshop and Premiere, not as a plugin, but as a core feature.",
+        "2. Intent, not pixels\n\nThe assistants analyze your project's context, not just the frame. They understand the goal behind the edit.",
+        "3. Skip the tedium\n\nHours of masking or cutting raw footage disappear. The AI completes those tasks in seconds based on your workflow.",
+        "4. The hidden trade-off\n\nYou lose granular control. The system makes assumptions about your intent that may not match yours.",
+        "5. Test it yourself today\n\nOpen Premiere, start a new sequence, and ask the assistant to cut a 30-second highlight reel. Does it guess your intent correctly?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Adobe embeds AI into Photoshop and Premiere now.",
+        "It understands your project's intent, not just edits.",
+        "You can skip hours of masking and cutting.",
+        "But the AI guesses your goals for you.",
+        "Test it: ask the assistant to finish a task."
+      ]
+    },
+    "instagram": {
+      "caption": "You spend hours cutting raw footage, but Premiere's new AI can analyze the intent behind your project and trim a timeline in seconds. 🎬\n\nPhotoshop’s generative assistant does the same for masking—it studies your document's context, then finishes the edit based on what it thinks you want. The catch is that you hand over granular control to a black-box system.\n\nFor any creative, this means skipping tedious tasks but accepting that the AI may guess your intent wrong. 🧩\n\nOpen Premiere today and ask the assistant to cut a 30-second highlight reel—does it match what you would have picked? ✂️"
+    }
+  },
+  "instagram_caption": "You spend hours cutting raw footage, but Premiere's new AI can analyze the intent behind your project and trim a timeline in seconds. 🎬\n\nPhotoshop’s generative assistant does the same for masking—it studies your document's context, then finishes the edit based on what it thinks you want. The catch is that you hand over granular control to a black-box system.\n\nFor any creative, this means skipping tedious tasks but accepting that the AI may guess your intent wrong. 🧩\n\nOpen Premiere today and ask the assistant to cut a 30-second highlight reel—does it match what you would have picked? ✂️",
+  "carousel_slides": [
+    {
+      "hook": "Will AI replace your creativity?",
+      "description": "Adobe embeds generative AI into Photoshop and Premiere not as a plugin, but as a core feature to understand your intent.",
+      "visual_hint": "Adobe interface with AI prompt",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "adobe creative cloud interface"
+    },
+    {
+      "hook": "It understands your project's intent.",
+      "description": "The AI analyzes context, not just pixels, grasping the goal behind every edit you make.",
+      "visual_hint": "Person editing with AI overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "person editing laptop",
+      "image": "https://images.pexels.com/photos/7014506/pexels-photo-7014506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Skip hours of tedious masking.",
+      "description": "Masking and cutting raw footage are completed in seconds by the AI, freeing you to focus on creative decisions.",
+      "visual_hint": "Timeline with auto-cut highlights",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "video editing timeline",
+      "image": "https://images.pexels.com/photos/31718971/pexels-photo-31718971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But you lose granular control.",
+      "description": "The system makes assumptions about your intent that may not match yours, trading precision for speed.",
+      "visual_hint": "Hand reaching for mouse control",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand on computer mouse",
+      "image": "https://images.pexels.com/photos/18966481/pexels-photo-18966481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it yourself right now!",
+      "description": "Open Premiere, start a new sequence, ask the assistant to cut a 30-second highlight reel.",
+      "visual_hint": "Phone showing Premiere with CTA",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone with app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-18T23:29:48.113Z",
+  "sourceId": "c4a5a14ca477793eb86e675d082dfb4c"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-inference-startup-baseten-reportedly-raising-1-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+  "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+  "pubDate": "Thu, 18 Jun 2026 21:20:13 +0000",
+  "slides": [
+    "Baseten just raised $1.5B. What are they preparing for?",
+    "This comes months after their last mega round.",
+    "They're still a small team, not a giant cloud.",
+    "Your inference costs could drop—but only if you switch.",
+    "Test Baseten's latency today before competitors lock supply."
+  ],
+  "thread_text": [
+    "1. $1.5B for what?\n\nBaseten just raised $1.5 billion months after their last mega round. They're still a tiny team, not a giant cloud provider.",
+    "2. The small team signal\n\nA lean crew this size controlling that much capital means they're betting on a sharp vector — not building a data center empire.",
+    "3. Inference cost trap\n\nYour per-query bills could drop significantly, but only if you migrate off your current provider. The savings are locked behind a switch.",
+    "4. Latency race underway\n\nEarly adopters can lock in speed advantages now. Competitors are scrambling to reserve the same GPU supply.",
+    "5. Run one prompt today\n\nTake your heaviest production model and test it on Baseten's playground this week. Your current latency is the baseline to beat."
+  ],
+  "video_script": [
+    "$1.5 billion raised by a tiny team.",
+    "They're not building a giant cloud.",
+    "Your inference costs could drop—if you switch.",
+    "Test latency now, before supply locks.",
+    "Run one prompt today against your baseline."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $1.5B for what?\n\nBaseten just raised $1.5 billion months after their last mega round. They're still a tiny team, not a giant cloud provider.",
+        "2. The small team signal\n\nA lean crew this size controlling that much capital means they're betting on a sharp vector — not building a data center empire.",
+        "3. Inference cost trap\n\nYour per-query bills could drop significantly, but only if you migrate off your current provider. The savings are locked behind a switch.",
+        "4. Latency race underway\n\nEarly adopters can lock in speed advantages now. Competitors are scrambling to reserve the same GPU supply.",
+        "5. Run one prompt today\n\nTake your heaviest production model and test it on Baseten's playground this week. Your current latency is the baseline to beat."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "$1.5 billion raised by a tiny team.",
+        "They're not building a giant cloud.",
+        "Your inference costs could drop—if you switch.",
+        "Test latency now, before supply locks.",
+        "Run one prompt today against your baseline."
+      ]
+    },
+    "instagram": {
+      "caption": "A startup with fewer than 200 people just locked down $1.5 billion months after its last mega-round.\n\nThat's not a data-center buildout. That's a razor-sharp bet on inference speed, betting they can undercut the giants on your per-query bill.\n\nYou only get the cheaper rates if you migrate. Your current latency is the reference point—they're asking you to beat it.\n\nWhat model would you throw at their playground first this week?"
+    }
+  },
+  "instagram_caption": "A startup with fewer than 200 people just locked down $1.5 billion months after its last mega-round.\n\nThat's not a data-center buildout. That's a razor-sharp bet on inference speed, betting they can undercut the giants on your per-query bill.\n\nYou only get the cheaper rates if you migrate. Your current latency is the reference point—they're asking you to beat it.\n\nWhat model would you throw at their playground first this week?",
+  "carousel_slides": [
+    {
+      "hook": "$1.5B for a tiny team?",
+      "description": "Baseten just raised $1.5 billion months after their last mega round, yet they stay a lean crew.",
+      "visual_hint": "Massive cash pile on small desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stack of money"
+    },
+    {
+      "hook": "Small team, huge bet.",
+      "description": "A lean squad controlling that much capital signals a sharp AI inference bet, not a data center empire.",
+      "visual_hint": "Tiny team facing giant server",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your inference bill could drop.",
+      "description": "Per-query costs may fall significantly, but only if you migrate off your current provider.",
+      "visual_hint": "Cost chart with downward arrow",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Latency race is on.",
+      "description": "Early adopters lock in speed advantages now while competitors scramble for the same GPU supply.",
+      "visual_hint": "Runner sprinting on track",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people running race",
+      "image": "https://images.pexels.com/photos/37547763/pexels-photo-37547763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Baseten's latency now.",
+      "description": "Run your heaviest production model on their playground this week. Your current latency is the baseline to beat.",
+      "visual_hint": "Finger pressing glowing test button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer keyboard closeup",
+      "image": "https://images.pexels.com/photos/28993049/pexels-photo-28993049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
+  "savedAt": "2026-06-18T23:29:09.251Z",
+  "sourceId": "c7f03eb380cc18bdb5a7ff229e6e0026"
+}

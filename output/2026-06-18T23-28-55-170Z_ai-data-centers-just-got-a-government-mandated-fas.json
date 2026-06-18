@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-data-centers-just-got-a-government-mandated-fas",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI data centers just got a government-mandated fast lane to the grid",
+  "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+  "pubDate": "Thu, 18 Jun 2026 17:49:23 +0000",
+  "slides": [
+    "Which AI data centers now skip the grid queue?",
+    "New rule gives them priority connection permits.",
+    "Your facility's wait just doubled without warning.",
+    "Plan expansion now or face 2026 delays.",
+    "Check your project's eligibility before competitors do."
+  ],
+  "thread_text": [
+    "1. Who skips the queue?\n\nNew rule grants priority permits to select AI data centers. Yours wasn't chosen.",
+    "2. Priority permit explained\n\nGrid operators can now bypass standard waitlists for these projects. The order is set.",
+    "3. Your wait just doubled\n\nStandard facility timelines silently extended to 24+ months. No notice was given.",
+    "4. Expand before 2026\n\nIf your project isn't permitted by next year, expect indefinite grid hold. Act now.",
+    "5. Check your eligibility today\n\nVisit the new portal to confirm your project's status. Are you already locked out?"
+  ],
+  "video_script": [
+    "Some data centers skip the queue now.",
+    "Priority permits go to certain projects only.",
+    "Your wait just doubled without warning.",
+    "Expand now or face 2026 delays.",
+    "Check your eligibility before competitors do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who skips the queue?\n\nNew rule grants priority permits to select AI data centers. Yours wasn't chosen.",
+        "2. Priority permit explained\n\nGrid operators can now bypass standard waitlists for these projects. The order is set.",
+        "3. Your wait just doubled\n\nStandard facility timelines silently extended to 24+ months. No notice was given.",
+        "4. Expand before 2026\n\nIf your project isn't permitted by next year, expect indefinite grid hold. Act now.",
+        "5. Check your eligibility today\n\nVisit the new portal to confirm your project's status. Are you already locked out?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Some data centers skip the queue now.",
+        "Priority permits go to certain projects only.",
+        "Your wait just doubled without warning.",
+        "Expand now or face 2026 delays.",
+        "Check your eligibility before competitors do."
+      ]
+    },
+    "instagram": {
+      "caption": "Your standard data center now waits 24+ months for grid connection, while select AI projects get priority permits.\n\nThe government granted certain AI data centers a fast lane to bypass the queue. Your facility's wait just doubled without notice.\n\nIf your work depends on cloud rendering, inference, or AI tools, expect those services to cost more or lag as non-priority centers stall.\n\nIs your project already marked as eligible, or are you locked out until 2026? No opinion—just check the new portal 📋⚡."
+    }
+  },
+  "instagram_caption": "Your standard data center now waits 24+ months for grid connection, while select AI projects get priority permits.\n\nThe government granted certain AI data centers a fast lane to bypass the queue. Your facility's wait just doubled without notice.\n\nIf your work depends on cloud rendering, inference, or AI tools, expect those services to cost more or lag as non-priority centers stall.\n\nIs your project already marked as eligible, or are you locked out until 2026? No opinion—just check the new portal 📋⚡.",
+  "carousel_slides": [
+    {
+      "hook": "Your wait just doubled without warning.",
+      "description": "Standard facility timelines silently extended to 24+ months. No notice was given to queue applicants.",
+      "visual_hint": "clock face with double hand",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "clock tower"
+    },
+    {
+      "hook": "Which AI data centers skip the queue?",
+      "description": "New rule grants priority connection permits to select AI projects. Yours wasn't chosen.",
+      "visual_hint": "data center with green check",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Priority permit explained.",
+      "description": "Grid operators can now bypass standard waitlists for these projects. The order is set.",
+      "visual_hint": "plug socket with fast symbol",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "power plant",
+      "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Expand before 2026 or face delays.",
+      "description": "If your project isn't permitted by next year, expect indefinite grid hold. Act now.",
+      "visual_hint": "hand holding blueprint",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "construction site",
+      "image": "https://images.pexels.com/photos/32716845/pexels-photo-32716845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your eligibility before competitors do.",
+      "description": "Visit the new portal to confirm your project's status. Are you already locked out?",
+      "visual_hint": "laptop with eligibility form",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
+  "savedAt": "2026-06-18T23:29:34.643Z",
+  "sourceId": "f9dbd01a64e0201530f2b4092e525f63"
+}

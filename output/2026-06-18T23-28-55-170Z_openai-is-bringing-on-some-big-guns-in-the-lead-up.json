@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-is-bringing-on-some-big-guns-in-the-lead-up",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI is bringing on some big guns in the lead-up to its IPO ",
+  "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+  "pubDate": "Thu, 18 Jun 2026 19:59:22 +0000",
+  "slides": [
+    "OpenAI has new board members—but can it stay independent?",
+    "These experts come from finance and national security.",
+    "They previously worked at firms banned from investing in AI.",
+    "You should watch how IPO governance affects model safety.",
+    "Verify if leadership changes shift OpenAI’s deployment pace."
+  ],
+  "thread_text": [
+    "1. Independence at risk?\n\nOpenAI’s new board members previously worked at firms banned from investing in AI.",
+    "2. Finance and security backgrounds\n\nThese hires come from top-tier finance and national security institutions.",
+    "3. Banned firms' alumni now decide safety\n\nIPO governance will directly influence how fast models are deployed.",
+    "4. Watch the deployment pace\n\nLeadership shifts may change how cautiously new models roll out.",
+    "5. Verify this yourself\n\nCheck OpenAI’s latest model release dates. Does the pace feel different now?"
+  ],
+  "video_script": [
+    "OpenAI adds board members from banned firms.",
+    "Their backgrounds are finance and national security.",
+    "IPO governance affects model safety now.",
+    "Leadership shifts may speed up deployments.",
+    "Check release dates. Does pace feel different?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Independence at risk?\n\nOpenAI’s new board members previously worked at firms banned from investing in AI.",
+        "2. Finance and security backgrounds\n\nThese hires come from top-tier finance and national security institutions.",
+        "3. Banned firms' alumni now decide safety\n\nIPO governance will directly influence how fast models are deployed.",
+        "4. Watch the deployment pace\n\nLeadership shifts may change how cautiously new models roll out.",
+        "5. Verify this yourself\n\nCheck OpenAI’s latest model release dates. Does the pace feel different now?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI adds board members from banned firms.",
+        "Their backgrounds are finance and national security.",
+        "IPO governance affects model safety now.",
+        "Leadership shifts may speed up deployments.",
+        "Check release dates. Does pace feel different?"
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI just appointed ex-employees from companies that were banned from investing in AI to its board. 🇺🇸💰 Their backgrounds are in finance and national security — not AI safety.  \n\nThese new members will now have a say in how fast OpenAI releases future models. IPO governance means profit and security priorities can override caution.  \n\nFor creators and publishers: expect deployments to speed up — and safety checks to narrow. ⏩  \n\nIs your content pipeline ready for models that prioritize market timing over alignment?"
+    }
+  },
+  "instagram_caption": "OpenAI just appointed ex-employees from companies that were banned from investing in AI to its board. 🇺🇸💰 Their backgrounds are in finance and national security — not AI safety.  \n\nThese new members will now have a say in how fast OpenAI releases future models. IPO governance means profit and security priorities can override caution.  \n\nFor creators and publishers: expect deployments to speed up — and safety checks to narrow. ⏩  \n\nIs your content pipeline ready for models that prioritize market timing over alignment?",
+  "carousel_slides": [
+    {
+      "hook": "Independence at risk?",
+      "description": "New board members previously worked at firms banned from investing in AI. This raises questions about independence.",
+      "visual_hint": "Boardroom with vacant chair",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "boardroom table chairs"
+    },
+    {
+      "hook": "Finance & security hires",
+      "description": "These experts come from top-tier finance and national security institutions, shaping future AI decisions.",
+      "visual_hint": "Two professional profiles",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "wall street sign",
+      "image": "https://images.pexels.com/photos/11739140/pexels-photo-11739140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Banned firms now decide",
+      "description": "Alumni from banned firms now influence IPO governance, which will directly affect deployment speed.",
+      "visual_hint": "Gavel on documents",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "gavel legal documents",
+      "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch deployment pace",
+      "description": "Leadership shifts may alter how cautiously new models roll out. Monitor release dates for changes.",
+      "visual_hint": "Calendar with markers",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "calendar dates marks",
+      "image": "https://images.pexels.com/photos/7479755/pexels-photo-7479755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Verify it yourself now",
+      "description": "Check OpenAI’s latest model release dates. Does the pace feel different? Comment your take.",
+      "visual_hint": "Smartphone with calendar",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone calendar app",
+      "image": "https://images.pexels.com/photos/13709181/pexels-photo-13709181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/noam-shazeer-deal-ball.png?resize=1200,800",
+  "savedAt": "2026-06-18T23:29:22.000Z",
+  "sourceId": "2446e599d34ea93e2706cf4fb5157043"
+}
