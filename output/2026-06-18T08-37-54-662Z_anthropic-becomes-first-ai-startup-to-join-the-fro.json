@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-becomes-first-ai-startup-to-join-the-fro",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+  "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+  "pubDate": "Wed, 17 Jun 2026 18:30:56 +0000",
+  "slides": [
+    "Can Anthropic's alliance truly offset AI's carbon cost?",
+    "The Frontier coalition buys carbon removal at industrial scale.",
+    "Most AI companies still rely on voluntary offsets instead.",
+    "Your AI usage's climate debt finally has a concrete price tag.",
+    "Demand your provider disclose removal purchases per query."
+  ],
+  "thread_text": [
+    "1. Can offsets really fix AI's carbon?\n\nAnthropic just joined a coalition buying carbon removal at industrial scale—but the math on whether that matches AI's actual emissions is still missing.",
+    "2. The Frontier coalition's real bet\n\nThey're paying for carbon removal that won't exist for years. It's forward-contracting, not current cleanup.",
+    "3. Most AI companies still use cheap offsets\n\nVoluntary offsets cost pennies per ton. Removal credits cost dollars. That gap is the climate debt being hidden.",
+    "4. Your AI query now has a price tag\n\nOne estimate: 0.5 grams CO₂ per prompt. Multiply by billions of daily queries—that's the bill you're not seeing.",
+    "5. Ask your provider for removal per query\n\nOpen your provider's website and search for \"carbon disclosures.\" If there's no per-query number, send an email today asking why."
+  ],
+  "video_script": [
+    "Anthropic's deal won't fix AI's carbon problem.",
+    "They're buying future removal, not current cuts.",
+    "Most competitors use cheap offsets that don't work.",
+    "Your AI query costs real climate debt.",
+    "Ask your provider for removal data per query."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can offsets really fix AI's carbon?\n\nAnthropic just joined a coalition buying carbon removal at industrial scale—but the math on whether that matches AI's actual emissions is still missing.",
+        "2. The Frontier coalition's real bet\n\nThey're paying for carbon removal that won't exist for years. It's forward-contracting, not current cleanup.",
+        "3. Most AI companies still use cheap offsets\n\nVoluntary offsets cost pennies per ton. Removal credits cost dollars. That gap is the climate debt being hidden.",
+        "4. Your AI query now has a price tag\n\nOne estimate: 0.5 grams CO₂ per prompt. Multiply by billions of daily queries—that's the bill you're not seeing.",
+        "5. Ask your provider for removal per query\n\nOpen your provider's website and search for \"carbon disclosures.\" If there's no per-query number, send an email today asking why."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic's deal won't fix AI's carbon problem.",
+        "They're buying future removal, not current cuts.",
+        "Most competitors use cheap offsets that don't work.",
+        "Your AI query costs real climate debt.",
+        "Ask your provider for removal data per query."
+      ]
+    },
+    "instagram": {
+      "caption": "Your chat with GPT just got a price tag: one estimate puts carbon cost at 0.5g CO₂ per prompt. 🌎\n\nAnthropic just joined a coalition that buys carbon removal at industrial scale—but the removal won't exist for years. Most other AI companies still rely on cheap voluntary offsets, hiding the real climate debt.\n\nFor anyone publishing or building with AI, that gap between cheap offsets and actual removal is the bill you're not seeing.\n\nOpen your provider's website today and search for \"carbon disclosures per query\"—if it's missing, send an email asking why."
+    }
+  },
+  "instagram_caption": "Your chat with GPT just got a price tag: one estimate puts carbon cost at 0.5g CO₂ per prompt. 🌎\n\nAnthropic just joined a coalition that buys carbon removal at industrial scale—but the removal won't exist for years. Most other AI companies still rely on cheap voluntary offsets, hiding the real climate debt.\n\nFor anyone publishing or building with AI, that gap between cheap offsets and actual removal is the bill you're not seeing.\n\nOpen your provider's website today and search for \"carbon disclosures per query\"—if it's missing, send an email asking why.",
+  "carousel_slides": [
+    {
+      "hook": "Can offsets really fix AI's carbon?",
+      "description": "Anthropic joined a coalition buying carbon removal, but the math on actual emissions is still missing.",
+      "visual_hint": "Question mark over server farm",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Forward-contracting future cleanup",
+      "description": "Frontier pays for carbon removal that won't exist for years—it's a bet, not current cleanup.",
+      "visual_hint": "Calendar with future date",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "carbon credits contract",
+      "image": "https://images.pexels.com/photos/13025289/pexels-photo-13025289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cheap offsets hide climate debt",
+      "description": "Voluntary offsets cost pennies per ton; real removal costs dollars. That gap is hidden debt.",
+      "visual_hint": "Coins vs dollar bills",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stack of coins",
+      "image": "https://images.pexels.com/photos/20205839/pexels-photo-20205839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI query now has a price tag",
+      "description": "0.5 grams CO₂ per prompt. Billions daily queries—that's the bill you're not seeing.",
+      "visual_hint": "Receipt with carbon number",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding receipt",
+      "image": "https://images.pexels.com/photos/13431686/pexels-photo-13431686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand per-query carbon disclosure",
+      "description": "Search your provider's site for carbon numbers. If missing, send an email asking why.",
+      "visual_hint": "Email icon with question",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer keyboard",
+      "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+  "savedAt": "2026-06-18T08:38:21.836Z",
+  "sourceId": "1d907aaa2f0e6c751f8ab157f16956af"
+}

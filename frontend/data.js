@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "anthropic-becomes-first-ai-startup-to-join-the-fro",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+    "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "pubDate": "Wed, 17 Jun 2026 18:30:56 +0000",
+    "slides": [
+      "Can Anthropic's alliance truly offset AI's carbon cost?",
+      "The Frontier coalition buys carbon removal at industrial scale.",
+      "Most AI companies still rely on voluntary offsets instead.",
+      "Your AI usage's climate debt finally has a concrete price tag.",
+      "Demand your provider disclose removal purchases per query."
+    ],
+    "thread_text": [
+      "1. Can offsets really fix AI's carbon?\n\nAnthropic just joined a coalition buying carbon removal at industrial scale—but the math on whether that matches AI's actual emissions is still missing.",
+      "2. The Frontier coalition's real bet\n\nThey're paying for carbon removal that won't exist for years. It's forward-contracting, not current cleanup.",
+      "3. Most AI companies still use cheap offsets\n\nVoluntary offsets cost pennies per ton. Removal credits cost dollars. That gap is the climate debt being hidden.",
+      "4. Your AI query now has a price tag\n\nOne estimate: 0.5 grams CO₂ per prompt. Multiply by billions of daily queries—that's the bill you're not seeing.",
+      "5. Ask your provider for removal per query\n\nOpen your provider's website and search for \"carbon disclosures.\" If there's no per-query number, send an email today asking why."
+    ],
+    "video_script": [
+      "Anthropic's deal won't fix AI's carbon problem.",
+      "They're buying future removal, not current cuts.",
+      "Most competitors use cheap offsets that don't work.",
+      "Your AI query costs real climate debt.",
+      "Ask your provider for removal data per query."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can offsets really fix AI's carbon?\n\nAnthropic just joined a coalition buying carbon removal at industrial scale—but the math on whether that matches AI's actual emissions is still missing.",
+          "2. The Frontier coalition's real bet\n\nThey're paying for carbon removal that won't exist for years. It's forward-contracting, not current cleanup.",
+          "3. Most AI companies still use cheap offsets\n\nVoluntary offsets cost pennies per ton. Removal credits cost dollars. That gap is the climate debt being hidden.",
+          "4. Your AI query now has a price tag\n\nOne estimate: 0.5 grams CO₂ per prompt. Multiply by billions of daily queries—that's the bill you're not seeing.",
+          "5. Ask your provider for removal per query\n\nOpen your provider's website and search for \"carbon disclosures.\" If there's no per-query number, send an email today asking why."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Anthropic's deal won't fix AI's carbon problem.",
+          "They're buying future removal, not current cuts.",
+          "Most competitors use cheap offsets that don't work.",
+          "Your AI query costs real climate debt.",
+          "Ask your provider for removal data per query."
+        ]
+      },
+      "instagram": {
+        "caption": "Your chat with GPT just got a price tag: one estimate puts carbon cost at 0.5g CO₂ per prompt. 🌎\n\nAnthropic just joined a coalition that buys carbon removal at industrial scale—but the removal won't exist for years. Most other AI companies still rely on cheap voluntary offsets, hiding the real climate debt.\n\nFor anyone publishing or building with AI, that gap between cheap offsets and actual removal is the bill you're not seeing.\n\nOpen your provider's website today and search for \"carbon disclosures per query\"—if it's missing, send an email asking why."
+      }
+    },
+    "instagram_caption": "Your chat with GPT just got a price tag: one estimate puts carbon cost at 0.5g CO₂ per prompt. 🌎\n\nAnthropic just joined a coalition that buys carbon removal at industrial scale—but the removal won't exist for years. Most other AI companies still rely on cheap voluntary offsets, hiding the real climate debt.\n\nFor anyone publishing or building with AI, that gap between cheap offsets and actual removal is the bill you're not seeing.\n\nOpen your provider's website today and search for \"carbon disclosures per query\"—if it's missing, send an email asking why.",
+    "carousel_slides": [
+      {
+        "hook": "Can offsets really fix AI's carbon?",
+        "description": "Anthropic joined a coalition buying carbon removal, but the math on actual emissions is still missing.",
+        "visual_hint": "Question mark over server farm",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Forward-contracting future cleanup",
+        "description": "Frontier pays for carbon removal that won't exist for years—it's a bet, not current cleanup.",
+        "visual_hint": "Calendar with future date",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "carbon credits contract",
+        "image": "https://images.pexels.com/photos/13025289/pexels-photo-13025289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cheap offsets hide climate debt",
+        "description": "Voluntary offsets cost pennies per ton; real removal costs dollars. That gap is hidden debt.",
+        "visual_hint": "Coins vs dollar bills",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stack of coins",
+        "image": "https://images.pexels.com/photos/20205839/pexels-photo-20205839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI query now has a price tag",
+        "description": "0.5 grams CO₂ per prompt. Billions daily queries—that's the bill you're not seeing.",
+        "visual_hint": "Receipt with carbon number",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding receipt",
+        "image": "https://images.pexels.com/photos/13431686/pexels-photo-13431686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand per-query carbon disclosure",
+        "description": "Search your provider's site for carbon numbers. If missing, send an email asking why.",
+        "visual_hint": "Email icon with question",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer keyboard",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+    "savedAt": "2026-06-18T08:38:21.836Z",
+    "sourceId": "1d907aaa2f0e6c751f8ab157f16956af"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "chi-hua-chien-saw-facebook-coming-now-he-says-the-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
+    "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
+    "pubDate": "Wed, 17 Jun 2026 21:30:50 +0000",
+    "slides": [
+      "Chi-Hua Chien saw Facebook coming—what does he see now?",
+      "He finds AI winners will not sell AI itself.",
+      "Instead, they embed intelligence into existing products.",
+      "Your AI advantage is not a chatbot but invisible upgrades.",
+      "Identify one product you can enhance without mentioning AI."
+    ],
+    "thread_text": [
+      "1. The quiet revolution\n\nChi-Hua Chien predicted Facebook. Now he says AI winners won't sell AI.",
+      "2. Invisible intelligence\n\nThey embed smarts into products you already use. No chatbots, no labels.",
+      "3. Your edge is silent\n\nThe advantage isn't a fancy interface. It's upgrades that disappear into your routine.",
+      "4. One product test\n\nFind one tool you use daily. What one invisible upgrade would save you five clicks?",
+      "5. Your move\n\nTake a common task. Simulate an invisible upgrade with a simple automation today. Does it feel like magic?"
+    ],
+    "video_script": [
+      "AI winners won't sell AI.",
+      "They embed intelligence into existing products.",
+      "Your advantage is invisible upgrades.",
+      "Find one product to enhance.",
+      "Do it today without mentioning AI."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The quiet revolution\n\nChi-Hua Chien predicted Facebook. Now he says AI winners won't sell AI.",
+          "2. Invisible intelligence\n\nThey embed smarts into products you already use. No chatbots, no labels.",
+          "3. Your edge is silent\n\nThe advantage isn't a fancy interface. It's upgrades that disappear into your routine.",
+          "4. One product test\n\nFind one tool you use daily. What one invisible upgrade would save you five clicks?",
+          "5. Your move\n\nTake a common task. Simulate an invisible upgrade with a simple automation today. Does it feel like magic?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI winners won't sell AI.",
+          "They embed intelligence into existing products.",
+          "Your advantage is invisible upgrades.",
+          "Find one product to enhance.",
+          "Do it today without mentioning AI."
+        ]
+      },
+      "instagram": {
+        "caption": "Chi-Hua Chien, the investor who spotted Facebook early, says the real AI winners won't actually sell AI. 🎯\n\nHe predicts the biggest opportunities aren't chatbots or shiny interfaces. Instead, winners embed intelligence invisibly into products you already use—think smarter toasters, not standalone robot assistants.\n\nFor creators and publishers, this means your advantage isn't launching an AI tool. It's upgrading your existing workflow so that intelligence disappears into your routine. 🛠️\n\nWhat daily tool could you enhance with one invisible upgrade that saves you 5 clicks? 🤔"
+      }
+    },
+    "instagram_caption": "Chi-Hua Chien, the investor who spotted Facebook early, says the real AI winners won't actually sell AI. 🎯\n\nHe predicts the biggest opportunities aren't chatbots or shiny interfaces. Instead, winners embed intelligence invisibly into products you already use—think smarter toasters, not standalone robot assistants.\n\nFor creators and publishers, this means your advantage isn't launching an AI tool. It's upgrading your existing workflow so that intelligence disappears into your routine. 🛠️\n\nWhat daily tool could you enhance with one invisible upgrade that saves you 5 clicks? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Your AI edge is invisible.",
+        "description": "Chi-Hua Chien predicted Facebook. Now he says AI winners embed smarts into existing products. No chatbots.",
+        "visual_hint": "product with hidden glow",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone in hand"
+      },
+      {
+        "hook": "Stop selling AI itself.",
+        "description": "Real winners upgrade tools you already use. Intelligence becomes invisible, silent, and routine.",
+        "visual_hint": "phone morphing into tool",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "person typing laptop",
+        "image": "https://images.pexels.com/photos/12662877/pexels-photo-12662877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Upgrades that disappear.",
+        "description": "Your advantage isn't a fancy interface. It's upgrades that save clicks without asking for attention.",
+        "visual_hint": "hand interacting subtly",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smart home device",
+        "image": "https://images.pexels.com/photos/28087045/pexels-photo-28087045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one daily tool.",
+        "description": "Find one tool you use daily. What invisible upgrade would save you five clicks? No AI label needed.",
+        "visual_hint": "simple daily object",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "coffee cup desk",
+        "image": "https://images.pexels.com/photos/6878196/pexels-photo-6878196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Automate silently today.",
+        "description": "Pick one common task. Simulate an invisible upgrade with a simple automation. Does it feel like magic?",
+        "visual_hint": "button with lightning",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "automation dashboard screen",
+        "image": "https://images.pexels.com/photos/36104699/pexels-photo-36104699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-1.52.20-PM.png?resize=1200,917",
+    "savedAt": "2026-06-18T08:38:07.604Z",
+    "sourceId": "8e0f672b686616792d451ff7657d7a83"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "two-stanford-grads-raise-11m-to-build-a-noninvasiv",
     "prompt_version": "1.0.0",
     "status": "published",

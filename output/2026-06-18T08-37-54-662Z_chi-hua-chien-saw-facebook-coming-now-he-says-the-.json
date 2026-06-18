@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chi-hua-chien-saw-facebook-coming-now-he-says-the-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
+  "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
+  "pubDate": "Wed, 17 Jun 2026 21:30:50 +0000",
+  "slides": [
+    "Chi-Hua Chien saw Facebook coming—what does he see now?",
+    "He finds AI winners will not sell AI itself.",
+    "Instead, they embed intelligence into existing products.",
+    "Your AI advantage is not a chatbot but invisible upgrades.",
+    "Identify one product you can enhance without mentioning AI."
+  ],
+  "thread_text": [
+    "1. The quiet revolution\n\nChi-Hua Chien predicted Facebook. Now he says AI winners won't sell AI.",
+    "2. Invisible intelligence\n\nThey embed smarts into products you already use. No chatbots, no labels.",
+    "3. Your edge is silent\n\nThe advantage isn't a fancy interface. It's upgrades that disappear into your routine.",
+    "4. One product test\n\nFind one tool you use daily. What one invisible upgrade would save you five clicks?",
+    "5. Your move\n\nTake a common task. Simulate an invisible upgrade with a simple automation today. Does it feel like magic?"
+  ],
+  "video_script": [
+    "AI winners won't sell AI.",
+    "They embed intelligence into existing products.",
+    "Your advantage is invisible upgrades.",
+    "Find one product to enhance.",
+    "Do it today without mentioning AI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The quiet revolution\n\nChi-Hua Chien predicted Facebook. Now he says AI winners won't sell AI.",
+        "2. Invisible intelligence\n\nThey embed smarts into products you already use. No chatbots, no labels.",
+        "3. Your edge is silent\n\nThe advantage isn't a fancy interface. It's upgrades that disappear into your routine.",
+        "4. One product test\n\nFind one tool you use daily. What one invisible upgrade would save you five clicks?",
+        "5. Your move\n\nTake a common task. Simulate an invisible upgrade with a simple automation today. Does it feel like magic?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI winners won't sell AI.",
+        "They embed intelligence into existing products.",
+        "Your advantage is invisible upgrades.",
+        "Find one product to enhance.",
+        "Do it today without mentioning AI."
+      ]
+    },
+    "instagram": {
+      "caption": "Chi-Hua Chien, the investor who spotted Facebook early, says the real AI winners won't actually sell AI. 🎯\n\nHe predicts the biggest opportunities aren't chatbots or shiny interfaces. Instead, winners embed intelligence invisibly into products you already use—think smarter toasters, not standalone robot assistants.\n\nFor creators and publishers, this means your advantage isn't launching an AI tool. It's upgrading your existing workflow so that intelligence disappears into your routine. 🛠️\n\nWhat daily tool could you enhance with one invisible upgrade that saves you 5 clicks? 🤔"
+    }
+  },
+  "instagram_caption": "Chi-Hua Chien, the investor who spotted Facebook early, says the real AI winners won't actually sell AI. 🎯\n\nHe predicts the biggest opportunities aren't chatbots or shiny interfaces. Instead, winners embed intelligence invisibly into products you already use—think smarter toasters, not standalone robot assistants.\n\nFor creators and publishers, this means your advantage isn't launching an AI tool. It's upgrading your existing workflow so that intelligence disappears into your routine. 🛠️\n\nWhat daily tool could you enhance with one invisible upgrade that saves you 5 clicks? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Your AI edge is invisible.",
+      "description": "Chi-Hua Chien predicted Facebook. Now he says AI winners embed smarts into existing products. No chatbots.",
+      "visual_hint": "product with hidden glow",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone in hand"
+    },
+    {
+      "hook": "Stop selling AI itself.",
+      "description": "Real winners upgrade tools you already use. Intelligence becomes invisible, silent, and routine.",
+      "visual_hint": "phone morphing into tool",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/12662877/pexels-photo-12662877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Upgrades that disappear.",
+      "description": "Your advantage isn't a fancy interface. It's upgrades that save clicks without asking for attention.",
+      "visual_hint": "hand interacting subtly",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smart home device",
+      "image": "https://images.pexels.com/photos/28087045/pexels-photo-28087045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one daily tool.",
+      "description": "Find one tool you use daily. What invisible upgrade would save you five clicks? No AI label needed.",
+      "visual_hint": "simple daily object",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "coffee cup desk",
+      "image": "https://images.pexels.com/photos/6878196/pexels-photo-6878196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Automate silently today.",
+      "description": "Pick one common task. Simulate an invisible upgrade with a simple automation. Does it feel like magic?",
+      "visual_hint": "button with lightning",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "automation dashboard screen",
+      "image": "https://images.pexels.com/photos/36104699/pexels-photo-36104699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-1.52.20-PM.png?resize=1200,917",
+  "savedAt": "2026-06-18T08:38:07.604Z",
+  "sourceId": "8e0f672b686616792d451ff7657d7a83"
+}
