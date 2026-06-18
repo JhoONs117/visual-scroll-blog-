@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "general-intuition-in-talks-to-raise-300m-at-around",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "General Intuition in talks to raise $300M at around $2B valuation",
+  "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+  "pubDate": "Thu, 18 Jun 2026 15:20:37 +0000",
+  "slides": [
+    "General Intuition wants $300M — why the rush?",
+    "It builds AI for corporate decision-making without humans",
+    "Rivals like Glean raised similar sums with less traction",
+    "You now face an AI competitor that learns from your data",
+    "Test their demos against your own analysts this quarter"
+  ],
+  "thread_text": [
+    "1. Why the $300M rush?\n\nGeneral Intuition wants $300M before proving its AI can replace human analysts.",
+    "2. Your data trains it\n\nThis AI learns from your company data to make decisions—without humans.",
+    "3. Rivals raised more with less\n\nGlean got $260M with almost no revenue. Now General Intuition wants more.",
+    "4. You now face that AI\n\nYour own data fuels a competitor you must compete against.",
+    "5. Test it this quarter\n\nRun their demo against your analysts. If it beats them, what's your plan?"
+  ],
+  "video_script": [
+    "General Intuition wants $300 million fast.",
+    "It builds AI for decisions without humans.",
+    "Rivals raised similar sums with less traction.",
+    "Your data trains your next competitor.",
+    "Test their demo against your team now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why the $300M rush?\n\nGeneral Intuition wants $300M before proving its AI can replace human analysts.",
+        "2. Your data trains it\n\nThis AI learns from your company data to make decisions—without humans.",
+        "3. Rivals raised more with less\n\nGlean got $260M with almost no revenue. Now General Intuition wants more.",
+        "4. You now face that AI\n\nYour own data fuels a competitor you must compete against.",
+        "5. Test it this quarter\n\nRun their demo against your analysts. If it beats them, what's your plan?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "General Intuition wants $300 million fast.",
+        "It builds AI for decisions without humans.",
+        "Rivals raised similar sums with less traction.",
+        "Your data trains your next competitor.",
+        "Test their demo against your team now."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next competitor is training on your own data. General Intuition, an AI that replaces human analysts, is raising $300M at a $2B valuation—before proving it works fully.\n\nRivals like Glean raised similar sums with less traction. This AI learns from your company’s data to make corporate decisions 🧠 no human oversight.\n\nIf you create business analyses or competitive reports, you now race against an AI fueled by your own inputs 📊\n\nRun their demo against your best analyst this quarter. What happens if it wins?"
+    }
+  },
+  "instagram_caption": "Your next competitor is training on your own data. General Intuition, an AI that replaces human analysts, is raising $300M at a $2B valuation—before proving it works fully.\n\nRivals like Glean raised similar sums with less traction. This AI learns from your company’s data to make corporate decisions 🧠 no human oversight.\n\nIf you create business analyses or competitive reports, you now race against an AI fueled by your own inputs 📊\n\nRun their demo against your best analyst this quarter. What happens if it wins?",
+  "carousel_slides": [
+    {
+      "hook": "Your data trains your competitor",
+      "description": "General Intuition wants $300M to build AI that learns from your company data and replaces human analysts.",
+      "visual_hint": "Data streams into AI brain",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room data"
+    },
+    {
+      "hook": "AI decides without humans",
+      "description": "This AI makes corporate decisions using your own data—no human oversight needed.",
+      "visual_hint": "Robot hand pressing button",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot arm",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rivals raised more with less",
+      "description": "Glean got $260M with almost no revenue. Now General Intuition wants $300M before proving its model.",
+      "visual_hint": "Stack of money growing",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You now face that AI",
+      "description": "Your own data fuels a competitor you must compete against—test it before it scales.",
+      "visual_hint": "Mirror reflecting AI face",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test their demo this quarter",
+      "description": "Run their demo against your analysts. If it outperforms, prepare your response now.",
+      "visual_hint": "Analyst vs robot side by side",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers meeting",
+      "image": "https://images.pexels.com/photos/7964244/pexels-photo-7964244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/General-intuition.png?w=880",
+  "savedAt": "2026-06-18T16:51:49.393Z",
+  "sourceId": "173a807b46743ce8e64e6db38f803020"
+}

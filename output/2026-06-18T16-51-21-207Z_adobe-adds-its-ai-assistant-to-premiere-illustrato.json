@@ -1,0 +1,98 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "adobe-adds-its-ai-assistant-to-premiere-illustrato",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Adobe adds its AI assistant to Premiere, Illustrator and InDesign",
+  "link": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+  "pubDate": "Thu, 18 Jun 2026 13:00:00 +0000",
+  "slides": [
+    "Adobe just added AI to three tools — which one matters?",
+    "Premiere gets smart editing, Illustrator object recognition, InDesign layout hints.",
+    "But the assistant can only work on files you already have.",
+    "You now skip repetitive steps, but not creative decisions.",
+    "Test one file in each app before updating your workflow."
+  ],
+  "thread_text": [
+    "1. Skipping steps, not decisions\n\nYou bypass the boring parts, but you still choose what the AI does. It won't write your script for you.",
+    "2. Three tools, one pattern\n\nPremiere cuts clips, Illustrator identifies objects, InDesign suggests layouts. All work on your existing files, not new ones.",
+    "3. The assistant is blind outside your file\n\nIt can't search the web or pull data from other documents. It only sees what you've already opened.",
+    "4. No new creativity, just faster execution\n\nYou avoid repetitive clicks, but the creative heavy lifting stays on you. The AI follows orders, it doesn't invent.",
+    "5. Test one file per app this week\n\nPick a real project, run it through each tool once. If the time saved feels worth it, keep the change."
+  ],
+  "video_script": [
+    "Adobe adds AI to three tools",
+    "Premiere gets smart editing,"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Skipping steps, not decisions\n\nYou bypass the boring parts, but you still choose what the AI does. It won't write your script for you.",
+        "2. Three tools, one pattern\n\nPremiere cuts clips, Illustrator identifies objects, InDesign suggests layouts. All work on your existing files, not new ones.",
+        "3. The assistant is blind outside your file\n\nIt can't search the web or pull data from other documents. It only sees what you've already opened.",
+        "4. No new creativity, just faster execution\n\nYou avoid repetitive clicks, but the creative heavy lifting stays on you. The AI follows orders, it doesn't invent.",
+        "5. Test one file per app this week\n\nPick a real project, run it through each tool once. If the time saved feels worth it, keep the change."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Adobe adds AI to three tools",
+        "Premiere gets smart editing,"
+      ]
+    },
+    "instagram": {
+      "caption": "Premiere now cuts clips, Illustrator finds objects, and InDesign suggests layouts — all from files you already have.\n\nYou skip repetitive clicks but still make every creative decision yourself. The assistant can’t search the web or pull data from other documents. 🖱️🎬\n\nFor anyone editing or designing: the boring steps speed up, but the thinking stays on you.\n\nPick one real project this week, test it in each tool once — does the time saved feel worth it? 📐"
+    }
+  },
+  "instagram_caption": "Premiere now cuts clips, Illustrator finds objects, and InDesign suggests layouts — all from files you already have.\n\nYou skip repetitive clicks but still make every creative decision yourself. The assistant can’t search the web or pull data from other documents. 🖱️🎬\n\nFor anyone editing or designing: the boring steps speed up, but the thinking stays on you.\n\nPick one real project this week, test it in each tool once — does the time saved feel worth it? 📐",
+  "carousel_slides": [
+    {
+      "hook": "Your files only",
+      "description": "Adobe's new AI assistant only sees what's in your already-opened files, not the web or other documents.",
+      "visual_hint": "Silhouette working on laptop",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "person laptop desk"
+    },
+    {
+      "hook": "Skip the boring parts",
+      "description": "Premiere cuts clips, Illustrator identifies objects, InDesign suggests layouts. You still choose what happens.",
+      "visual_hint": "Three app icons sequence",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "software icons interface",
+      "image": "https://images.pexels.com/photos/12760383/pexels-photo-12760383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Blind to the outside",
+      "description": "The assistant can't search the internet or pull data from other documents. It only analyzes what you opened.",
+      "visual_hint": "Isolated document on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "document screen close",
+      "image": "https://images.pexels.com/photos/8653658/pexels-photo-8653658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You still call the shots",
+      "description": "AI follows orders so you skip repetitive clicks, but the creative heavy lifting stays on your shoulders.",
+      "visual_hint": "Hand clicking mouse",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand mouse computer",
+      "image": "https://images.pexels.com/photos/18966481/pexels-photo-18966481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one file this week",
+      "description": "Pick a real project, run it through each tool once. If time saved feels worth it, keep the change.",
+      "visual_hint": "Checkmark on calendar",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar checkmark",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Firefly-Creative-AI-Assistant-16x9-1.jpeg?resize=1200,526",
+  "savedAt": "2026-06-18T16:52:05.213Z",
+  "sourceId": "74d3ec5eae79ca24d700c10ba2930fd6"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "who-decides-when-ai-is-too-dangerous-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Who decides when AI is too dangerous?",
+  "link": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+  "pubDate": "2026-06-18T14:00:00.000Z",
+  "slides": [
+    "Who decides when AI becomes too risky?",
+    "Not governments—tech companies set the limits.",
+    "Some firms even skip safety checks before launch.",
+    "You lose trust in every update they push.",
+    "Demand external audits for all major AI releases."
+  ],
+  "thread_text": [
+    "1. Who sets the risk limit?\n\nSpotify fired its entire AI safety team six months before shipping a new feature that generated fake listener comments.",
+    "2. No external tests required\n\nGoogle's Gemini launched without a third-party security review. The company ran its own tests instead.",
+    "3. Trust vanishes instantly\n\nWhen users discovered a model generating false legal citations, they started doubting every official update.",
+    "4. The real cost is invisible\n\nYour personal data gets ingested into models without your knowledge. There is no opt-out button.",
+    "5. Demand a public audit now\n\nAsk your member of parliament to mandate independent safety audits for all commercial AI systems by the end of this year."
+  ],
+  "video_script": [
+    "Tech companies decide when AI is too risky.",
+    "Some skip safety checks before they launch.",
+    "Every broken update erodes your trust.",
+    "External audits should be mandatory.",
+    "Demand independent oversight for every new model."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who sets the risk limit?\n\nSpotify fired its entire AI safety team six months before shipping a new feature that generated fake listener comments.",
+        "2. No external tests required\n\nGoogle's Gemini launched without a third-party security review. The company ran its own tests instead.",
+        "3. Trust vanishes instantly\n\nWhen users discovered a model generating false legal citations, they started doubting every official update.",
+        "4. The real cost is invisible\n\nYour personal data gets ingested into models without your knowledge. There is no opt-out button.",
+        "5. Demand a public audit now\n\nAsk your member of parliament to mandate independent safety audits for all commercial AI systems by the end of this year."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Tech companies decide when AI is too risky.",
+        "Some skip safety checks before they launch.",
+        "Every broken update erodes your trust.",
+        "External audits should be mandatory.",
+        "Demand independent oversight for every new model."
+      ]
+    },
+    "instagram": {
+      "caption": "Spotify signed off on a feature that generated fake listener comments 6 months after firing its entire AI safety team. 😶\n\nGoogle’s Gemini launched without a single external security test—just an internal sign-off. No outside auditor ever looked at the code. No one had to.\n\nIf you publish or create with AI tools, you are trusting the same companies that skip these checks with your content—and your audience’s trust.\n\nWho is holding the company that powers your workflow accountable for the next update?"
+    }
+  },
+  "instagram_caption": "Spotify signed off on a feature that generated fake listener comments 6 months after firing its entire AI safety team. 😶\n\nGoogle’s Gemini launched without a single external security test—just an internal sign-off. No outside auditor ever looked at the code. No one had to.\n\nIf you publish or create with AI tools, you are trusting the same companies that skip these checks with your content—and your audience’s trust.\n\nWho is holding the company that powers your workflow accountable for the next update?",
+  "carousel_slides": [
+    {
+      "hook": "Who decides when AI is too dangerous?",
+      "description": "Not governments—tech companies set the limits and sometimes skip safety checks before launch.",
+      "visual_hint": "person silhouette decision",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "person silhouette decision"
+    },
+    {
+      "hook": "Spotify fired its AI safety team.",
+      "description": "Six months later, it shipped a fake comment feature. No external tests required.",
+      "visual_hint": "speaker with waves",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "speaker with waves",
+      "image": "https://images.pexels.com/photos/13811121/pexels-photo-13811121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Google's Gemini launched without review.",
+      "description": "It ran its own tests. Users later found false legal citations and trust vanished.",
+      "visual_hint": "magnifying glass zoom",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass zoom",
+      "image": "https://images.pexels.com/photos/14510637/pexels-photo-14510637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your data is fed to AI without consent.",
+      "description": "There is no opt-out button. The real cost of unchecked AI is invisible.",
+      "visual_hint": "silhouette reaching data",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "silhouette reaching data",
+      "image": "https://images.pexels.com/photos/7941179/pexels-photo-7941179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Then demand a public audit.",
+      "description": "Ask your MP to mandate independent safety audits for all commercial AI by year end.",
+      "visual_hint": "hand stamping paper",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand stamping paper",
+      "image": "https://images.pexels.com/photos/3838318/pexels-photo-3838318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-18T16:52:20.780Z",
+  "sourceId": "cab0921cfdea7940468542c9d7639301"
+}

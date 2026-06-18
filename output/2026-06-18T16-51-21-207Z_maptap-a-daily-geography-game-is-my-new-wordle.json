@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "maptap-a-daily-geography-game-is-my-new-wordle",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "MapTap, a daily geography game, is my new Wordle",
+  "link": "https://techcrunch.com/2026/06/18/maptap-a-daily-geography-game-is-my-new-wordle/",
+  "pubDate": "Thu, 18 Jun 2026 15:47:39 +0000",
+  "slides": [
+    "What if your morning Wordle was a map instead?",
+    "MapTap drops you on a satellite image daily.",
+    "It tracks your guesses—but offers zero hints.",
+    "You rethink how much geography you actually know.",
+    "Play tomorrow’s round before checking the answer key."
+  ],
+  "thread_text": [
+    "1. Your morning map challenge\n\nNo pins, no labels—just a satellite square. You guess the location cold.",
+    "2. One guess, no hints\n\nYou type a country name. MapTap tracks your miss, but stays silent.",
+    "3. The quiet sting of zero feedback\n\nWithout hints, your confidence in continents cracks. Each wrong guess hits harder.",
+    "4. Geography exposed as guesswork\n\nYou realize you navigate by luck, not knowledge. The map humbles you fast.",
+    "5. Test yourself before the answer key\n\nPlay tomorrow’s round tonight. How close will your first guess be?"
+  ],
+  "video_script": [
+    "Your morning Wordle turns into a map.",
+    "MapTap drops you on a satellite image.",
+    "It tracks each guess with zero hints.",
+    "You rethink what geography you know.",
+    "Play tomorrow before checking the answer."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your morning map challenge\n\nNo pins, no labels—just a satellite square. You guess the location cold.",
+        "2. One guess, no hints\n\nYou type a country name. MapTap tracks your miss, but stays silent.",
+        "3. The quiet sting of zero feedback\n\nWithout hints, your confidence in continents cracks. Each wrong guess hits harder.",
+        "4. Geography exposed as guesswork\n\nYou realize you navigate by luck, not knowledge. The map humbles you fast.",
+        "5. Test yourself before the answer key\n\nPlay tomorrow’s round tonight. How close will your first guess be?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your morning Wordle turns into a map.",
+        "MapTap drops you on a satellite image.",
+        "It tracks each guess with zero hints.",
+        "You rethink what geography you know.",
+        "Play tomorrow before checking the answer."
+      ]
+    },
+    "instagram": {
+      "caption": "You drop onto a random satellite image each morning with zero hints or labels. 🗺️\n\nMapTap gives you one guess and tracks your misses in silence. No feedback means each wrong answer hits harder.\n\nYou realize your geography knowledge is more luck than skill. The map humbles you fast.\n\nPlay tomorrow’s round tonight. How close will your first guess be? 📍"
+    }
+  },
+  "instagram_caption": "You drop onto a random satellite image each morning with zero hints or labels. 🗺️\n\nMapTap gives you one guess and tracks your misses in silence. No feedback means each wrong answer hits harder.\n\nYou realize your geography knowledge is more luck than skill. The map humbles you fast.\n\nPlay tomorrow’s round tonight. How close will your first guess be? 📍",
+  "carousel_slides": [
+    {
+      "hook": "What if you had zero hints?",
+      "description": "MapTap drops you on a satellite image with no pins or labels. You guess the location cold.",
+      "visual_hint": "Satellite square with no labels",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "satellite image earth"
+    },
+    {
+      "hook": "One guess, total silence.",
+      "description": "You type a country name. MapTap tracks your miss but stays completely silent.",
+      "visual_hint": "Typing country name on map",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer keyboard typing",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No feedback changes everything.",
+      "description": "Without hints, your confidence in continents cracks. Each wrong guess hits harder.",
+      "visual_hint": "Multiple wrong guesses listed",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "world map puzzle",
+      "image": "https://images.pexels.com/photos/5245225/pexels-photo-5245225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You don't know geography.",
+      "description": "You realize you navigate by luck, not knowledge. The map humbles you fast.",
+      "visual_hint": "Person staring at map confused",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and test yourself.",
+      "description": "Play tomorrow’s round tonight. How close will your first guess be? Link in bio.",
+      "visual_hint": "Phone showing MapTap game",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen map",
+      "image": "https://images.pexels.com/photos/6169861/pexels-photo-6169861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238027332.jpg?resize=1200,675",
+  "savedAt": "2026-06-18T16:51:35.552Z",
+  "sourceId": "c22935feecc83ee19d6bc6272c0a9b39"
+}

@@ -2,6 +2,416 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "who-decides-when-ai-is-too-dangerous-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Who decides when AI is too dangerous?",
+    "link": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+    "pubDate": "2026-06-18T14:00:00.000Z",
+    "slides": [
+      "Who decides when AI becomes too risky?",
+      "Not governments—tech companies set the limits.",
+      "Some firms even skip safety checks before launch.",
+      "You lose trust in every update they push.",
+      "Demand external audits for all major AI releases."
+    ],
+    "thread_text": [
+      "1. Who sets the risk limit?\n\nSpotify fired its entire AI safety team six months before shipping a new feature that generated fake listener comments.",
+      "2. No external tests required\n\nGoogle's Gemini launched without a third-party security review. The company ran its own tests instead.",
+      "3. Trust vanishes instantly\n\nWhen users discovered a model generating false legal citations, they started doubting every official update.",
+      "4. The real cost is invisible\n\nYour personal data gets ingested into models without your knowledge. There is no opt-out button.",
+      "5. Demand a public audit now\n\nAsk your member of parliament to mandate independent safety audits for all commercial AI systems by the end of this year."
+    ],
+    "video_script": [
+      "Tech companies decide when AI is too risky.",
+      "Some skip safety checks before they launch.",
+      "Every broken update erodes your trust.",
+      "External audits should be mandatory.",
+      "Demand independent oversight for every new model."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who sets the risk limit?\n\nSpotify fired its entire AI safety team six months before shipping a new feature that generated fake listener comments.",
+          "2. No external tests required\n\nGoogle's Gemini launched without a third-party security review. The company ran its own tests instead.",
+          "3. Trust vanishes instantly\n\nWhen users discovered a model generating false legal citations, they started doubting every official update.",
+          "4. The real cost is invisible\n\nYour personal data gets ingested into models without your knowledge. There is no opt-out button.",
+          "5. Demand a public audit now\n\nAsk your member of parliament to mandate independent safety audits for all commercial AI systems by the end of this year."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Tech companies decide when AI is too risky.",
+          "Some skip safety checks before they launch.",
+          "Every broken update erodes your trust.",
+          "External audits should be mandatory.",
+          "Demand independent oversight for every new model."
+        ]
+      },
+      "instagram": {
+        "caption": "Spotify signed off on a feature that generated fake listener comments 6 months after firing its entire AI safety team. 😶\n\nGoogle’s Gemini launched without a single external security test—just an internal sign-off. No outside auditor ever looked at the code. No one had to.\n\nIf you publish or create with AI tools, you are trusting the same companies that skip these checks with your content—and your audience’s trust.\n\nWho is holding the company that powers your workflow accountable for the next update?"
+      }
+    },
+    "instagram_caption": "Spotify signed off on a feature that generated fake listener comments 6 months after firing its entire AI safety team. 😶\n\nGoogle’s Gemini launched without a single external security test—just an internal sign-off. No outside auditor ever looked at the code. No one had to.\n\nIf you publish or create with AI tools, you are trusting the same companies that skip these checks with your content—and your audience’s trust.\n\nWho is holding the company that powers your workflow accountable for the next update?",
+    "carousel_slides": [
+      {
+        "hook": "Who decides when AI is too dangerous?",
+        "description": "Not governments—tech companies set the limits and sometimes skip safety checks before launch.",
+        "visual_hint": "person silhouette decision",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "person silhouette decision"
+      },
+      {
+        "hook": "Spotify fired its AI safety team.",
+        "description": "Six months later, it shipped a fake comment feature. No external tests required.",
+        "visual_hint": "speaker with waves",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "speaker with waves",
+        "image": "https://images.pexels.com/photos/13811121/pexels-photo-13811121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Google's Gemini launched without review.",
+        "description": "It ran its own tests. Users later found false legal citations and trust vanished.",
+        "visual_hint": "magnifying glass zoom",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass zoom",
+        "image": "https://images.pexels.com/photos/14510637/pexels-photo-14510637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your data is fed to AI without consent.",
+        "description": "There is no opt-out button. The real cost of unchecked AI is invisible.",
+        "visual_hint": "silhouette reaching data",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "silhouette reaching data",
+        "image": "https://images.pexels.com/photos/7941179/pexels-photo-7941179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Then demand a public audit.",
+        "description": "Ask your MP to mandate independent safety audits for all commercial AI by year end.",
+        "visual_hint": "hand stamping paper",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hand stamping paper",
+        "image": "https://images.pexels.com/photos/3838318/pexels-photo-3838318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-18T16:52:20.780Z",
+    "sourceId": "cab0921cfdea7940468542c9d7639301"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "adobe-adds-its-ai-assistant-to-premiere-illustrato",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Adobe adds its AI assistant to Premiere, Illustrator and InDesign",
+    "link": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+    "pubDate": "Thu, 18 Jun 2026 13:00:00 +0000",
+    "slides": [
+      "Adobe just added AI to three tools — which one matters?",
+      "Premiere gets smart editing, Illustrator object recognition, InDesign layout hints.",
+      "But the assistant can only work on files you already have.",
+      "You now skip repetitive steps, but not creative decisions.",
+      "Test one file in each app before updating your workflow."
+    ],
+    "thread_text": [
+      "1. Skipping steps, not decisions\n\nYou bypass the boring parts, but you still choose what the AI does. It won't write your script for you.",
+      "2. Three tools, one pattern\n\nPremiere cuts clips, Illustrator identifies objects, InDesign suggests layouts. All work on your existing files, not new ones.",
+      "3. The assistant is blind outside your file\n\nIt can't search the web or pull data from other documents. It only sees what you've already opened.",
+      "4. No new creativity, just faster execution\n\nYou avoid repetitive clicks, but the creative heavy lifting stays on you. The AI follows orders, it doesn't invent.",
+      "5. Test one file per app this week\n\nPick a real project, run it through each tool once. If the time saved feels worth it, keep the change."
+    ],
+    "video_script": [
+      "Adobe adds AI to three tools",
+      "Premiere gets smart editing,"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Skipping steps, not decisions\n\nYou bypass the boring parts, but you still choose what the AI does. It won't write your script for you.",
+          "2. Three tools, one pattern\n\nPremiere cuts clips, Illustrator identifies objects, InDesign suggests layouts. All work on your existing files, not new ones.",
+          "3. The assistant is blind outside your file\n\nIt can't search the web or pull data from other documents. It only sees what you've already opened.",
+          "4. No new creativity, just faster execution\n\nYou avoid repetitive clicks, but the creative heavy lifting stays on you. The AI follows orders, it doesn't invent.",
+          "5. Test one file per app this week\n\nPick a real project, run it through each tool once. If the time saved feels worth it, keep the change."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Adobe adds AI to three tools",
+          "Premiere gets smart editing,"
+        ]
+      },
+      "instagram": {
+        "caption": "Premiere now cuts clips, Illustrator finds objects, and InDesign suggests layouts — all from files you already have.\n\nYou skip repetitive clicks but still make every creative decision yourself. The assistant can’t search the web or pull data from other documents. 🖱️🎬\n\nFor anyone editing or designing: the boring steps speed up, but the thinking stays on you.\n\nPick one real project this week, test it in each tool once — does the time saved feel worth it? 📐"
+      }
+    },
+    "instagram_caption": "Premiere now cuts clips, Illustrator finds objects, and InDesign suggests layouts — all from files you already have.\n\nYou skip repetitive clicks but still make every creative decision yourself. The assistant can’t search the web or pull data from other documents. 🖱️🎬\n\nFor anyone editing or designing: the boring steps speed up, but the thinking stays on you.\n\nPick one real project this week, test it in each tool once — does the time saved feel worth it? 📐",
+    "carousel_slides": [
+      {
+        "hook": "Your files only",
+        "description": "Adobe's new AI assistant only sees what's in your already-opened files, not the web or other documents.",
+        "visual_hint": "Silhouette working on laptop",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "person laptop desk"
+      },
+      {
+        "hook": "Skip the boring parts",
+        "description": "Premiere cuts clips, Illustrator identifies objects, InDesign suggests layouts. You still choose what happens.",
+        "visual_hint": "Three app icons sequence",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "software icons interface",
+        "image": "https://images.pexels.com/photos/12760383/pexels-photo-12760383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Blind to the outside",
+        "description": "The assistant can't search the internet or pull data from other documents. It only analyzes what you opened.",
+        "visual_hint": "Isolated document on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "document screen close",
+        "image": "https://images.pexels.com/photos/8653658/pexels-photo-8653658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You still call the shots",
+        "description": "AI follows orders so you skip repetitive clicks, but the creative heavy lifting stays on your shoulders.",
+        "visual_hint": "Hand clicking mouse",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand mouse computer",
+        "image": "https://images.pexels.com/photos/18966481/pexels-photo-18966481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one file this week",
+        "description": "Pick a real project, run it through each tool once. If time saved feels worth it, keep the change.",
+        "visual_hint": "Checkmark on calendar",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar checkmark",
+        "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Firefly-Creative-AI-Assistant-16x9-1.jpeg?resize=1200,526",
+    "savedAt": "2026-06-18T16:52:05.213Z",
+    "sourceId": "74d3ec5eae79ca24d700c10ba2930fd6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "general-intuition-in-talks-to-raise-300m-at-around",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "General Intuition in talks to raise $300M at around $2B valuation",
+    "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+    "pubDate": "Thu, 18 Jun 2026 15:20:37 +0000",
+    "slides": [
+      "General Intuition wants $300M — why the rush?",
+      "It builds AI for corporate decision-making without humans",
+      "Rivals like Glean raised similar sums with less traction",
+      "You now face an AI competitor that learns from your data",
+      "Test their demos against your own analysts this quarter"
+    ],
+    "thread_text": [
+      "1. Why the $300M rush?\n\nGeneral Intuition wants $300M before proving its AI can replace human analysts.",
+      "2. Your data trains it\n\nThis AI learns from your company data to make decisions—without humans.",
+      "3. Rivals raised more with less\n\nGlean got $260M with almost no revenue. Now General Intuition wants more.",
+      "4. You now face that AI\n\nYour own data fuels a competitor you must compete against.",
+      "5. Test it this quarter\n\nRun their demo against your analysts. If it beats them, what's your plan?"
+    ],
+    "video_script": [
+      "General Intuition wants $300 million fast.",
+      "It builds AI for decisions without humans.",
+      "Rivals raised similar sums with less traction.",
+      "Your data trains your next competitor.",
+      "Test their demo against your team now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why the $300M rush?\n\nGeneral Intuition wants $300M before proving its AI can replace human analysts.",
+          "2. Your data trains it\n\nThis AI learns from your company data to make decisions—without humans.",
+          "3. Rivals raised more with less\n\nGlean got $260M with almost no revenue. Now General Intuition wants more.",
+          "4. You now face that AI\n\nYour own data fuels a competitor you must compete against.",
+          "5. Test it this quarter\n\nRun their demo against your analysts. If it beats them, what's your plan?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "General Intuition wants $300 million fast.",
+          "It builds AI for decisions without humans.",
+          "Rivals raised similar sums with less traction.",
+          "Your data trains your next competitor.",
+          "Test their demo against your team now."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next competitor is training on your own data. General Intuition, an AI that replaces human analysts, is raising $300M at a $2B valuation—before proving it works fully.\n\nRivals like Glean raised similar sums with less traction. This AI learns from your company’s data to make corporate decisions 🧠 no human oversight.\n\nIf you create business analyses or competitive reports, you now race against an AI fueled by your own inputs 📊\n\nRun their demo against your best analyst this quarter. What happens if it wins?"
+      }
+    },
+    "instagram_caption": "Your next competitor is training on your own data. General Intuition, an AI that replaces human analysts, is raising $300M at a $2B valuation—before proving it works fully.\n\nRivals like Glean raised similar sums with less traction. This AI learns from your company’s data to make corporate decisions 🧠 no human oversight.\n\nIf you create business analyses or competitive reports, you now race against an AI fueled by your own inputs 📊\n\nRun their demo against your best analyst this quarter. What happens if it wins?",
+    "carousel_slides": [
+      {
+        "hook": "Your data trains your competitor",
+        "description": "General Intuition wants $300M to build AI that learns from your company data and replaces human analysts.",
+        "visual_hint": "Data streams into AI brain",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room data"
+      },
+      {
+        "hook": "AI decides without humans",
+        "description": "This AI makes corporate decisions using your own data—no human oversight needed.",
+        "visual_hint": "Robot hand pressing button",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rivals raised more with less",
+        "description": "Glean got $260M with almost no revenue. Now General Intuition wants $300M before proving its model.",
+        "visual_hint": "Stack of money growing",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You now face that AI",
+        "description": "Your own data fuels a competitor you must compete against—test it before it scales.",
+        "visual_hint": "Mirror reflecting AI face",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test their demo this quarter",
+        "description": "Run their demo against your analysts. If it outperforms, prepare your response now.",
+        "visual_hint": "Analyst vs robot side by side",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers meeting",
+        "image": "https://images.pexels.com/photos/7964244/pexels-photo-7964244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/General-intuition.png?w=880",
+    "savedAt": "2026-06-18T16:51:49.393Z",
+    "sourceId": "173a807b46743ce8e64e6db38f803020"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "maptap-a-daily-geography-game-is-my-new-wordle",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "MapTap, a daily geography game, is my new Wordle",
+    "link": "https://techcrunch.com/2026/06/18/maptap-a-daily-geography-game-is-my-new-wordle/",
+    "pubDate": "Thu, 18 Jun 2026 15:47:39 +0000",
+    "slides": [
+      "What if your morning Wordle was a map instead?",
+      "MapTap drops you on a satellite image daily.",
+      "It tracks your guesses—but offers zero hints.",
+      "You rethink how much geography you actually know.",
+      "Play tomorrow’s round before checking the answer key."
+    ],
+    "thread_text": [
+      "1. Your morning map challenge\n\nNo pins, no labels—just a satellite square. You guess the location cold.",
+      "2. One guess, no hints\n\nYou type a country name. MapTap tracks your miss, but stays silent.",
+      "3. The quiet sting of zero feedback\n\nWithout hints, your confidence in continents cracks. Each wrong guess hits harder.",
+      "4. Geography exposed as guesswork\n\nYou realize you navigate by luck, not knowledge. The map humbles you fast.",
+      "5. Test yourself before the answer key\n\nPlay tomorrow’s round tonight. How close will your first guess be?"
+    ],
+    "video_script": [
+      "Your morning Wordle turns into a map.",
+      "MapTap drops you on a satellite image.",
+      "It tracks each guess with zero hints.",
+      "You rethink what geography you know.",
+      "Play tomorrow before checking the answer."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your morning map challenge\n\nNo pins, no labels—just a satellite square. You guess the location cold.",
+          "2. One guess, no hints\n\nYou type a country name. MapTap tracks your miss, but stays silent.",
+          "3. The quiet sting of zero feedback\n\nWithout hints, your confidence in continents cracks. Each wrong guess hits harder.",
+          "4. Geography exposed as guesswork\n\nYou realize you navigate by luck, not knowledge. The map humbles you fast.",
+          "5. Test yourself before the answer key\n\nPlay tomorrow’s round tonight. How close will your first guess be?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your morning Wordle turns into a map.",
+          "MapTap drops you on a satellite image.",
+          "It tracks each guess with zero hints.",
+          "You rethink what geography you know.",
+          "Play tomorrow before checking the answer."
+        ]
+      },
+      "instagram": {
+        "caption": "You drop onto a random satellite image each morning with zero hints or labels. 🗺️\n\nMapTap gives you one guess and tracks your misses in silence. No feedback means each wrong answer hits harder.\n\nYou realize your geography knowledge is more luck than skill. The map humbles you fast.\n\nPlay tomorrow’s round tonight. How close will your first guess be? 📍"
+      }
+    },
+    "instagram_caption": "You drop onto a random satellite image each morning with zero hints or labels. 🗺️\n\nMapTap gives you one guess and tracks your misses in silence. No feedback means each wrong answer hits harder.\n\nYou realize your geography knowledge is more luck than skill. The map humbles you fast.\n\nPlay tomorrow’s round tonight. How close will your first guess be? 📍",
+    "carousel_slides": [
+      {
+        "hook": "What if you had zero hints?",
+        "description": "MapTap drops you on a satellite image with no pins or labels. You guess the location cold.",
+        "visual_hint": "Satellite square with no labels",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "satellite image earth"
+      },
+      {
+        "hook": "One guess, total silence.",
+        "description": "You type a country name. MapTap tracks your miss but stays completely silent.",
+        "visual_hint": "Typing country name on map",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer keyboard typing",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No feedback changes everything.",
+        "description": "Without hints, your confidence in continents cracks. Each wrong guess hits harder.",
+        "visual_hint": "Multiple wrong guesses listed",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "world map puzzle",
+        "image": "https://images.pexels.com/photos/5245225/pexels-photo-5245225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You don't know geography.",
+        "description": "You realize you navigate by luck, not knowledge. The map humbles you fast.",
+        "visual_hint": "Person staring at map confused",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and test yourself.",
+        "description": "Play tomorrow’s round tonight. How close will your first guess be? Link in bio.",
+        "visual_hint": "Phone showing MapTap game",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen map",
+        "image": "https://images.pexels.com/photos/6169861/pexels-photo-6169861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238027332.jpg?resize=1200,675",
+    "savedAt": "2026-06-18T16:51:35.552Z",
+    "sourceId": "c22935feecc83ee19d6bc6272c0a9b39"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "microsoft-sells-openai-models-in-china-openai-and-",
     "prompt_version": "1.0.0",
     "status": "published",
