@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "adobe-s-redesigned-ai-studio-remembers-what-your-c",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+  "link": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+  "pubDate": "2026-06-18T13:00:00.000Z",
+  "slides": [
+    "Adobe redesigns its AI studio—but does it remember context?",
+    "The new model keeps your image style across edits.",
+    "It works without you re-entering details each step.",
+    "Now editing won't reset your creative vision mid-project.",
+    "Test it today on a past creation to see consistency."
+  ],
+  "thread_text": [
+    "1. Does Adobe remember context?\n\nThe new model keeps your image style across edits without re-entering details.",
+    "2. One style, no repeats.\n\nYou tweak colors or composition, and the AI holds the thread—no fresh prompts needed.",
+    "3. Your vision stays intact.\n\nMid-project, each edit builds on the last instead of resetting your concept.",
+    "4. Consistency without friction.\n\nThat means fewer interruptions to your creative flow and faster iterations.",
+    "5. Test it on an old file.\n\nGrab a past creation and run an edit in the redesigned studio—does your style hold?"
+  ],
+  "video_script": [
+    "Adobe redesigned its AI studio.",
+    "The new model keeps your style.",
+    "You don't re-enter details each step.",
+    "Your creative vision stays consistent.",
+    "Test it today on a past project."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Does Adobe remember context?\n\nThe new model keeps your image style across edits without re-entering details.",
+        "2. One style, no repeats.\n\nYou tweak colors or composition, and the AI holds the thread—no fresh prompts needed.",
+        "3. Your vision stays intact.\n\nMid-project, each edit builds on the last instead of resetting your concept.",
+        "4. Consistency without friction.\n\nThat means fewer interruptions to your creative flow and faster iterations.",
+        "5. Test it on an old file.\n\nGrab a past creation and run an edit in the redesigned studio—does your style hold?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Adobe redesigned its AI studio.",
+        "The new model keeps your style.",
+        "You don't re-enter details each step.",
+        "Your creative vision stays consistent.",
+        "Test it today on a past project."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next edit won't wreck your last one. 🎨\n\nAdobe's redesigned AI studio now remembers the style you've built across every tweak—change colors or composition without typing your vision back in each time.\n\nYour creative thread stays intact mid-project, no more frustrating resets.\n\nYou iterate faster, with fewer interruptions to your actual flow.\n\nTry it on an old creation: does your style actually hold through the edits? 🔁"
+    }
+  },
+  "instagram_caption": "Your next edit won't wreck your last one. 🎨\n\nAdobe's redesigned AI studio now remembers the style you've built across every tweak—change colors or composition without typing your vision back in each time.\n\nYour creative thread stays intact mid-project, no more frustrating resets.\n\nYou iterate faster, with fewer interruptions to your actual flow.\n\nTry it on an old creation: does your style actually hold through the edits? 🔁",
+  "carousel_slides": [
+    {
+      "hook": "Does AI remember your style?",
+      "description": "Adobe's new model keeps your image style across edits without re-entering details each step.",
+      "visual_hint": "AI interface showing style continuity",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Adobe software interface"
+    },
+    {
+      "hook": "One style, no repeats.",
+      "description": "Tweak colors or composition and the AI holds the thread—no fresh prompts needed.",
+      "visual_hint": "Color palette and edit tools",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "color gradient abstract",
+      "image": "https://images.pexels.com/photos/7135113/pexels-photo-7135113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your vision stays intact.",
+      "description": "Mid-project, each edit builds on the last instead of resetting your concept.",
+      "visual_hint": "Creative project timeline icons",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "design project workspace",
+      "image": "https://images.pexels.com/photos/4977449/pexels-photo-4977449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Consistency without friction.",
+      "description": "Fewer interruptions to your creative flow and faster iterations during editing.",
+      "visual_hint": "Smooth workflow diagram",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person editing photograph",
+      "image": "https://images.pexels.com/photos/7014330/pexels-photo-7014330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on an old file.",
+      "description": "Grab a past creation and run an edit to see if your style holds consistently.",
+      "visual_hint": "Open file with edit button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "folder with documents",
+      "image": "https://images.pexels.com/photos/8297536/pexels-photo-8297536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Firefly-AI-studio-updates-lede.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-18T20:13:09.792Z",
+  "sourceId": "b7c74be4353f52429b89ac6ffa47f33d"
+}

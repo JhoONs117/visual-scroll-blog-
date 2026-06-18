@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "adobe-s-redesigned-ai-studio-remembers-what-your-c",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+    "link": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+    "pubDate": "2026-06-18T13:00:00.000Z",
+    "slides": [
+      "Adobe redesigns its AI studio—but does it remember context?",
+      "The new model keeps your image style across edits.",
+      "It works without you re-entering details each step.",
+      "Now editing won't reset your creative vision mid-project.",
+      "Test it today on a past creation to see consistency."
+    ],
+    "thread_text": [
+      "1. Does Adobe remember context?\n\nThe new model keeps your image style across edits without re-entering details.",
+      "2. One style, no repeats.\n\nYou tweak colors or composition, and the AI holds the thread—no fresh prompts needed.",
+      "3. Your vision stays intact.\n\nMid-project, each edit builds on the last instead of resetting your concept.",
+      "4. Consistency without friction.\n\nThat means fewer interruptions to your creative flow and faster iterations.",
+      "5. Test it on an old file.\n\nGrab a past creation and run an edit in the redesigned studio—does your style hold?"
+    ],
+    "video_script": [
+      "Adobe redesigned its AI studio.",
+      "The new model keeps your style.",
+      "You don't re-enter details each step.",
+      "Your creative vision stays consistent.",
+      "Test it today on a past project."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Does Adobe remember context?\n\nThe new model keeps your image style across edits without re-entering details.",
+          "2. One style, no repeats.\n\nYou tweak colors or composition, and the AI holds the thread—no fresh prompts needed.",
+          "3. Your vision stays intact.\n\nMid-project, each edit builds on the last instead of resetting your concept.",
+          "4. Consistency without friction.\n\nThat means fewer interruptions to your creative flow and faster iterations.",
+          "5. Test it on an old file.\n\nGrab a past creation and run an edit in the redesigned studio—does your style hold?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Adobe redesigned its AI studio.",
+          "The new model keeps your style.",
+          "You don't re-enter details each step.",
+          "Your creative vision stays consistent.",
+          "Test it today on a past project."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next edit won't wreck your last one. 🎨\n\nAdobe's redesigned AI studio now remembers the style you've built across every tweak—change colors or composition without typing your vision back in each time.\n\nYour creative thread stays intact mid-project, no more frustrating resets.\n\nYou iterate faster, with fewer interruptions to your actual flow.\n\nTry it on an old creation: does your style actually hold through the edits? 🔁"
+      }
+    },
+    "instagram_caption": "Your next edit won't wreck your last one. 🎨\n\nAdobe's redesigned AI studio now remembers the style you've built across every tweak—change colors or composition without typing your vision back in each time.\n\nYour creative thread stays intact mid-project, no more frustrating resets.\n\nYou iterate faster, with fewer interruptions to your actual flow.\n\nTry it on an old creation: does your style actually hold through the edits? 🔁",
+    "carousel_slides": [
+      {
+        "hook": "Does AI remember your style?",
+        "description": "Adobe's new model keeps your image style across edits without re-entering details each step.",
+        "visual_hint": "AI interface showing style continuity",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Adobe software interface"
+      },
+      {
+        "hook": "One style, no repeats.",
+        "description": "Tweak colors or composition and the AI holds the thread—no fresh prompts needed.",
+        "visual_hint": "Color palette and edit tools",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "color gradient abstract",
+        "image": "https://images.pexels.com/photos/7135113/pexels-photo-7135113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your vision stays intact.",
+        "description": "Mid-project, each edit builds on the last instead of resetting your concept.",
+        "visual_hint": "Creative project timeline icons",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "design project workspace",
+        "image": "https://images.pexels.com/photos/4977449/pexels-photo-4977449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Consistency without friction.",
+        "description": "Fewer interruptions to your creative flow and faster iterations during editing.",
+        "visual_hint": "Smooth workflow diagram",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person editing photograph",
+        "image": "https://images.pexels.com/photos/7014330/pexels-photo-7014330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it on an old file.",
+        "description": "Grab a past creation and run an edit to see if your style holds consistently.",
+        "visual_hint": "Open file with edit button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "folder with documents",
+        "image": "https://images.pexels.com/photos/8297536/pexels-photo-8297536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Firefly-AI-studio-updates-lede.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-18T20:13:09.792Z",
+    "sourceId": "b7c74be4353f52429b89ac6ffa47f33d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "amazon-hopes-to-challenge-nvidia-more-directly-by-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+    "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+    "pubDate": "Thu, 18 Jun 2026 18:22:13 +0000",
+    "slides": [
+      "Can Amazon’s own chip truly challenge Nvidia’s dominance?",
+      "Amazon now sells its Trainium AI chips to external customers.",
+      "These chips were built for internal use, not for the public market.",
+      "Your cloud AI costs could drop significantly if you switch providers.",
+      "Test Trainium on one workload before your next infrastructure renewal."
+    ],
+    "thread_text": [
+      "Amazon’s chip vs Nvidia.\n\nAmazon now sells Trainium chips externally—chips it built for its own data centers.",
+      "Built for internal use.\n\nTrainium was never designed for the public market; Amazon only tested it internally first.",
+      "Cloud costs drop.\n\nSwitching to Amazon’s chips could cut your AI cloud compute costs noticeably.",
+      "Test before renew.\n\nRun one workload on Trainium before your next infrastructure contract to compare real performance.",
+      "Will you switch?\n\nCheck if your cloud provider lets you test Trainium on a single job this quarter."
+    ],
+    "video_script": [
+      "Amazon now sells its own AI chips.",
+      "These chips were built for internal use.",
+      "They could cut your cloud costs.",
+      "Test Trainium on one workload.",
+      "Will you switch providers for it?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Amazon’s chip vs Nvidia.\n\nAmazon now sells Trainium chips externally—chips it built for its own data centers.",
+          "Built for internal use.\n\nTrainium was never designed for the public market; Amazon only tested it internally first.",
+          "Cloud costs drop.\n\nSwitching to Amazon’s chips could cut your AI cloud compute costs noticeably.",
+          "Test before renew.\n\nRun one workload on Trainium before your next infrastructure contract to compare real performance.",
+          "Will you switch?\n\nCheck if your cloud provider lets you test Trainium on a single job this quarter."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Amazon now sells its own AI chips.",
+          "These chips were built for internal use.",
+          "They could cut your cloud costs.",
+          "Test Trainium on one workload.",
+          "Will you switch providers for it?"
+        ]
+      },
+      "instagram": {
+        "caption": "Amazon’s own AI chip, Trainium, is now for sale to any company—not just locked inside its internal data centers. 💻\n\nThese chips were originally built just for Amazon’s own workloads. Now you can rent them directly, and switching from Nvidia’s hardware could slash your cloud compute bill. ⚡\n\nTest Trainium on a single workload before your next infrastructure contract renewal.\n\nWill your current provider let you run that comparison this quarter? 🔍"
+      }
+    },
+    "instagram_caption": "Amazon’s own AI chip, Trainium, is now for sale to any company—not just locked inside its internal data centers. 💻\n\nThese chips were originally built just for Amazon’s own workloads. Now you can rent them directly, and switching from Nvidia’s hardware could slash your cloud compute bill. ⚡\n\nTest Trainium on a single workload before your next infrastructure contract renewal.\n\nWill your current provider let you run that comparison this quarter? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Can Amazon really beat Nvidia?",
+        "description": "Amazon now sells Trainium chips externally. These chips were built for internal use first.",
+        "visual_hint": "Amazon vs Nvidia chip",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Amazon server chip"
+      },
+      {
+        "hook": "Built for Amazon, now for you.",
+        "description": "Trainium was designed for Amazon's own data centers, not the public market.",
+        "visual_hint": "Chip in data center",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center servers",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI costs could drop.",
+        "description": "Switching to Amazon's chips could cut your cloud AI compute costs noticeably.",
+        "visual_hint": "Falling cost chart",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "financial chart down",
+        "image": "https://images.pexels.com/photos/7172863/pexels-photo-7172863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test before you renew.",
+        "description": "Run one workload on Trainium before your next infrastructure contract to compare performance.",
+        "visual_hint": "Hand testing chip",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand touching circuit board",
+        "image": "https://images.pexels.com/photos/7562089/pexels-photo-7562089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this — test Trainium now.",
+        "description": "Ask your cloud provider if you can test Trainium on a single job this quarter.",
+        "visual_hint": "Phone with cloud logo",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone cloud icon",
+        "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421680585.jpg?resize=1200,675",
+    "savedAt": "2026-06-18T20:12:58.294Z",
+    "sourceId": "5748f9c6e6a8fe094e97d1074528119a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "computer-vision-deployments-drive-retail-productiv",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Computer vision deployments drive retail productivity gains",
+    "link": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+    "pubDate": "Thu, 18 Jun 2026 15:57:46 +0000",
+    "slides": [
+      "Can computer vision really cut your labor costs?",
+      "One retailer saw 20% faster checkout this quarter.",
+      "It works by tracking shelf stock in real time.",
+      "Your team spends less time counting, more on sales.",
+      "Test a single aisle's camera feed to start."
+    ],
+    "thread_text": [
+      "1. Can labor costs vanish?\n\nOne retailer already cut checkout time by 20% this quarter.",
+      "2. How does it see?\n\nCameras scan shelf stock in real time, flagging low inventory instantly.",
+      "3. Shift your team's focus.\n\nNo more counting cans — they spend hours on customer interactions and upselling.",
+      "4. The twist: start tiny.\n\nA single aisle's camera feed is enough to run a test with zero upfront risk.",
+      "5. Ready to test one aisle?\n\nGet a camera for your worst-stocked shelf and measure the time saved this week."
+    ],
+    "video_script": [
+      "Can computer vision cut your labor costs?",
+      "One retailer saw twenty percent faster checkout.",
+      "It tracks shelf stock in real time.",
+      "Your team spends less counting, more selling.",
+      "Start by testing a single aisle's camera."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can labor costs vanish?\n\nOne retailer already cut checkout time by 20% this quarter.",
+          "2. How does it see?\n\nCameras scan shelf stock in real time, flagging low inventory instantly.",
+          "3. Shift your team's focus.\n\nNo more counting cans — they spend hours on customer interactions and upselling.",
+          "4. The twist: start tiny.\n\nA single aisle's camera feed is enough to run a test with zero upfront risk.",
+          "5. Ready to test one aisle?\n\nGet a camera for your worst-stocked shelf and measure the time saved this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can computer vision cut your labor costs?",
+          "One retailer saw twenty percent faster checkout.",
+          "It tracks shelf stock in real time.",
+          "Your team spends less counting, more selling.",
+          "Start by testing a single aisle's camera."
+        ]
+      },
+      "instagram": {
+        "caption": "One retailer already cut checkout time by 20% this quarter using cameras that track shelf stock in real time. ⏱️\n\nYour team stops counting cans and starts handling sales—the system flags low inventory instantly. 📦\n\nTesting? A single aisle's camera feed is enough for a zero-risk pilot. 🎥\n\nWhat shelf in your store wastes the most hours on manual stock checks this week?"
+      }
+    },
+    "instagram_caption": "One retailer already cut checkout time by 20% this quarter using cameras that track shelf stock in real time. ⏱️\n\nYour team stops counting cans and starts handling sales—the system flags low inventory instantly. 📦\n\nTesting? A single aisle's camera feed is enough for a zero-risk pilot. 🎥\n\nWhat shelf in your store wastes the most hours on manual stock checks this week?",
+    "carousel_slides": [
+      {
+        "hook": "Can labor costs vanish?",
+        "description": "One retailer already cut checkout time by 20% this quarter using computer vision.",
+        "visual_hint": "Faster checkout line",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "retail checkout counter"
+      },
+      {
+        "hook": "Cameras track shelf stock.",
+        "description": "Real-time scanning flags low inventory instantly, so you never run out.",
+        "visual_hint": "Camera scanning shelf",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "security camera shelf",
+        "image": "https://images.pexels.com/photos/16104735/pexels-photo-16104735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop counting, start selling.",
+        "description": "Shift staff from inventory counts to customer interactions and upselling.",
+        "visual_hint": "Employee helping customer",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "store employee customer",
+        "image": "https://images.pexels.com/photos/32166355/pexels-photo-32166355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Start with one aisle.",
+        "description": "Test a single camera feed on your worst-stocked shelf with zero upfront risk.",
+        "visual_hint": "Single aisle camera",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "supermarket aisle shelf",
+        "image": "https://images.pexels.com/photos/18039942/pexels-photo-18039942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test later.",
+        "description": "Measure time saved this week by installing a camera on one low-stock aisle.",
+        "visual_hint": "Timer and shelf",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stopwatch grocery shelf",
+        "image": "https://images.pexels.com/photos/27939228/pexels-photo-27939228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5239813/pexels-photo-5239813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-18T20:12:46.841Z",
+    "sourceId": "32d55aeeaa5f2d80008b832ab3f85cb1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "who-decides-when-ai-is-too-dangerous-",
     "prompt_version": "1.0.0",
     "status": "published",

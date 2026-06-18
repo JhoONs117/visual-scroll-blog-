@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "computer-vision-deployments-drive-retail-productiv",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Computer vision deployments drive retail productivity gains",
+  "link": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+  "pubDate": "Thu, 18 Jun 2026 15:57:46 +0000",
+  "slides": [
+    "Can computer vision really cut your labor costs?",
+    "One retailer saw 20% faster checkout this quarter.",
+    "It works by tracking shelf stock in real time.",
+    "Your team spends less time counting, more on sales.",
+    "Test a single aisle's camera feed to start."
+  ],
+  "thread_text": [
+    "1. Can labor costs vanish?\n\nOne retailer already cut checkout time by 20% this quarter.",
+    "2. How does it see?\n\nCameras scan shelf stock in real time, flagging low inventory instantly.",
+    "3. Shift your team's focus.\n\nNo more counting cans — they spend hours on customer interactions and upselling.",
+    "4. The twist: start tiny.\n\nA single aisle's camera feed is enough to run a test with zero upfront risk.",
+    "5. Ready to test one aisle?\n\nGet a camera for your worst-stocked shelf and measure the time saved this week."
+  ],
+  "video_script": [
+    "Can computer vision cut your labor costs?",
+    "One retailer saw twenty percent faster checkout.",
+    "It tracks shelf stock in real time.",
+    "Your team spends less counting, more selling.",
+    "Start by testing a single aisle's camera."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can labor costs vanish?\n\nOne retailer already cut checkout time by 20% this quarter.",
+        "2. How does it see?\n\nCameras scan shelf stock in real time, flagging low inventory instantly.",
+        "3. Shift your team's focus.\n\nNo more counting cans — they spend hours on customer interactions and upselling.",
+        "4. The twist: start tiny.\n\nA single aisle's camera feed is enough to run a test with zero upfront risk.",
+        "5. Ready to test one aisle?\n\nGet a camera for your worst-stocked shelf and measure the time saved this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can computer vision cut your labor costs?",
+        "One retailer saw twenty percent faster checkout.",
+        "It tracks shelf stock in real time.",
+        "Your team spends less counting, more selling.",
+        "Start by testing a single aisle's camera."
+      ]
+    },
+    "instagram": {
+      "caption": "One retailer already cut checkout time by 20% this quarter using cameras that track shelf stock in real time. ⏱️\n\nYour team stops counting cans and starts handling sales—the system flags low inventory instantly. 📦\n\nTesting? A single aisle's camera feed is enough for a zero-risk pilot. 🎥\n\nWhat shelf in your store wastes the most hours on manual stock checks this week?"
+    }
+  },
+  "instagram_caption": "One retailer already cut checkout time by 20% this quarter using cameras that track shelf stock in real time. ⏱️\n\nYour team stops counting cans and starts handling sales—the system flags low inventory instantly. 📦\n\nTesting? A single aisle's camera feed is enough for a zero-risk pilot. 🎥\n\nWhat shelf in your store wastes the most hours on manual stock checks this week?",
+  "carousel_slides": [
+    {
+      "hook": "Can labor costs vanish?",
+      "description": "One retailer already cut checkout time by 20% this quarter using computer vision.",
+      "visual_hint": "Faster checkout line",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "retail checkout counter"
+    },
+    {
+      "hook": "Cameras track shelf stock.",
+      "description": "Real-time scanning flags low inventory instantly, so you never run out.",
+      "visual_hint": "Camera scanning shelf",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "security camera shelf",
+      "image": "https://images.pexels.com/photos/16104735/pexels-photo-16104735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop counting, start selling.",
+      "description": "Shift staff from inventory counts to customer interactions and upselling.",
+      "visual_hint": "Employee helping customer",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "store employee customer",
+      "image": "https://images.pexels.com/photos/32166355/pexels-photo-32166355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Start with one aisle.",
+      "description": "Test a single camera feed on your worst-stocked shelf with zero upfront risk.",
+      "visual_hint": "Single aisle camera",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "supermarket aisle shelf",
+      "image": "https://images.pexels.com/photos/18039942/pexels-photo-18039942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test later.",
+      "description": "Measure time saved this week by installing a camera on one low-stock aisle.",
+      "visual_hint": "Timer and shelf",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stopwatch grocery shelf",
+      "image": "https://images.pexels.com/photos/27939228/pexels-photo-27939228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5239813/pexels-photo-5239813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-18T20:12:46.841Z",
+  "sourceId": "32d55aeeaa5f2d80008b832ab3f85cb1"
+}

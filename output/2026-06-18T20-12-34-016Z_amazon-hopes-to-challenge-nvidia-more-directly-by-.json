@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amazon-hopes-to-challenge-nvidia-more-directly-by-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+  "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+  "pubDate": "Thu, 18 Jun 2026 18:22:13 +0000",
+  "slides": [
+    "Can Amazon’s own chip truly challenge Nvidia’s dominance?",
+    "Amazon now sells its Trainium AI chips to external customers.",
+    "These chips were built for internal use, not for the public market.",
+    "Your cloud AI costs could drop significantly if you switch providers.",
+    "Test Trainium on one workload before your next infrastructure renewal."
+  ],
+  "thread_text": [
+    "Amazon’s chip vs Nvidia.\n\nAmazon now sells Trainium chips externally—chips it built for its own data centers.",
+    "Built for internal use.\n\nTrainium was never designed for the public market; Amazon only tested it internally first.",
+    "Cloud costs drop.\n\nSwitching to Amazon’s chips could cut your AI cloud compute costs noticeably.",
+    "Test before renew.\n\nRun one workload on Trainium before your next infrastructure contract to compare real performance.",
+    "Will you switch?\n\nCheck if your cloud provider lets you test Trainium on a single job this quarter."
+  ],
+  "video_script": [
+    "Amazon now sells its own AI chips.",
+    "These chips were built for internal use.",
+    "They could cut your cloud costs.",
+    "Test Trainium on one workload.",
+    "Will you switch providers for it?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Amazon’s chip vs Nvidia.\n\nAmazon now sells Trainium chips externally—chips it built for its own data centers.",
+        "Built for internal use.\n\nTrainium was never designed for the public market; Amazon only tested it internally first.",
+        "Cloud costs drop.\n\nSwitching to Amazon’s chips could cut your AI cloud compute costs noticeably.",
+        "Test before renew.\n\nRun one workload on Trainium before your next infrastructure contract to compare real performance.",
+        "Will you switch?\n\nCheck if your cloud provider lets you test Trainium on a single job this quarter."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Amazon now sells its own AI chips.",
+        "These chips were built for internal use.",
+        "They could cut your cloud costs.",
+        "Test Trainium on one workload.",
+        "Will you switch providers for it?"
+      ]
+    },
+    "instagram": {
+      "caption": "Amazon’s own AI chip, Trainium, is now for sale to any company—not just locked inside its internal data centers. 💻\n\nThese chips were originally built just for Amazon’s own workloads. Now you can rent them directly, and switching from Nvidia’s hardware could slash your cloud compute bill. ⚡\n\nTest Trainium on a single workload before your next infrastructure contract renewal.\n\nWill your current provider let you run that comparison this quarter? 🔍"
+    }
+  },
+  "instagram_caption": "Amazon’s own AI chip, Trainium, is now for sale to any company—not just locked inside its internal data centers. 💻\n\nThese chips were originally built just for Amazon’s own workloads. Now you can rent them directly, and switching from Nvidia’s hardware could slash your cloud compute bill. ⚡\n\nTest Trainium on a single workload before your next infrastructure contract renewal.\n\nWill your current provider let you run that comparison this quarter? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Can Amazon really beat Nvidia?",
+      "description": "Amazon now sells Trainium chips externally. These chips were built for internal use first.",
+      "visual_hint": "Amazon vs Nvidia chip",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Amazon server chip"
+    },
+    {
+      "hook": "Built for Amazon, now for you.",
+      "description": "Trainium was designed for Amazon's own data centers, not the public market.",
+      "visual_hint": "Chip in data center",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI costs could drop.",
+      "description": "Switching to Amazon's chips could cut your cloud AI compute costs noticeably.",
+      "visual_hint": "Falling cost chart",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "financial chart down",
+      "image": "https://images.pexels.com/photos/7172863/pexels-photo-7172863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test before you renew.",
+      "description": "Run one workload on Trainium before your next infrastructure contract to compare performance.",
+      "visual_hint": "Hand testing chip",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching circuit board",
+      "image": "https://images.pexels.com/photos/7562089/pexels-photo-7562089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — test Trainium now.",
+      "description": "Ask your cloud provider if you can test Trainium on a single job this quarter.",
+      "visual_hint": "Phone with cloud logo",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone cloud icon",
+      "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421680585.jpg?resize=1200,675",
+  "savedAt": "2026-06-18T20:12:58.294Z",
+  "sourceId": "5748f9c6e6a8fe094e97d1074528119a"
+}
