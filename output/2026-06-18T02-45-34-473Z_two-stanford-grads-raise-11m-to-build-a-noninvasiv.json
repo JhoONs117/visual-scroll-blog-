@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "two-stanford-grads-raise-11m-to-build-a-noninvasiv",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking",
+  "link": "https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/",
+  "pubDate": "Wed, 17 Jun 2026 16:54:48 +0000",
+  "slides": [
+    "Two Stanford grads just raised $11M. Why?",
+    "Their wearable tracks hormones without needles or blood.",
+    "It uses sweat, not pricks — but can it match lab accuracy?",
+    "You will get daily cortisol and estrogen data at home.",
+    "Test one cycle before trusting it for medical decisions."
+  ],
+  "thread_text": [
+    "1. $11M for a patch?\n\nTwo Stanford founders bet big on a wearable that reads hormones from sweat.",
+    "2. No needles, no blood.\n\nIt measures cortisol and estrogen daily at home — just by wearing a sensor.",
+    "3. Sweat versus lab accuracy.\n\nThe device hasn't proven it matches clinical tests yet — that's the open question.",
+    "4. Daily hormone data arrives.\n\nYou will see cortisol and estrogen shifts without pricking your finger.",
+    "5. Trust it after a full cycle.\n\nRun a 30-day test before using it to guide any medical decision."
+  ],
+  "video_script": [
+    "11 million for a sweat patch?",
+    "No needles, just a wearable sensor.",
+    "Tracks cortisol and estrogen daily.",
+    "But can it match lab accuracy?",
+    "Test a full cycle before trusting."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $11M for a patch?\n\nTwo Stanford founders bet big on a wearable that reads hormones from sweat.",
+        "2. No needles, no blood.\n\nIt measures cortisol and estrogen daily at home — just by wearing a sensor.",
+        "3. Sweat versus lab accuracy.\n\nThe device hasn't proven it matches clinical tests yet — that's the open question.",
+        "4. Daily hormone data arrives.\n\nYou will see cortisol and estrogen shifts without pricking your finger.",
+        "5. Trust it after a full cycle.\n\nRun a 30-day test before using it to guide any medical decision."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "11 million for a sweat patch?",
+        "No needles, just a wearable sensor.",
+        "Tracks cortisol and estrogen daily.",
+        "But can it match lab accuracy?",
+        "Test a full cycle before trusting."
+      ]
+    },
+    "instagram": {
+      "caption": "Two Stanford grads just raised $11M to track your hormones through sweat, no needles required. 💉❌\n\nThe wearable measures daily cortisol and estrogen from sweat at home. But it hasn't proven it matches lab accuracy yet — clinical validation is still a big open question. 📉\n\nIf you rely on hormone data for content health tracking, wait a full 30-day cycle before trusting it to guide any medical decision or public recommendation.\n\nWould you swap a finger prick for a sensor that hasn't beaten the lab test? 🔬"
+    }
+  },
+  "instagram_caption": "Two Stanford grads just raised $11M to track your hormones through sweat, no needles required. 💉❌\n\nThe wearable measures daily cortisol and estrogen from sweat at home. But it hasn't proven it matches lab accuracy yet — clinical validation is still a big open question. 📉\n\nIf you rely on hormone data for content health tracking, wait a full 30-day cycle before trusting it to guide any medical decision or public recommendation.\n\nWould you swap a finger prick for a sensor that hasn't beaten the lab test? 🔬",
+  "carousel_slides": [
+    {
+      "hook": "Can sweat replace blood tests?",
+      "description": "Two Stanford founders raised $11M for a wearable that reads hormones from sweat — no needles needed.",
+      "visual_hint": "Patch on skin",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "wearable patch skin"
+    },
+    {
+      "hook": "No needles, just a sensor.",
+      "description": "It measures cortisol and estrogen daily from sweat — at home, without blood or pricks.",
+      "visual_hint": "Sensor close-up",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "sweat sensor closeup",
+      "image": "https://images.pexels.com/photos/7675401/pexels-photo-7675401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sweat vs. lab: the big test.",
+      "description": "The device hasn't proven it matches clinical accuracy yet — that's the open question.",
+      "visual_hint": "Lab equipment beside patch",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "laboratory equipment comparison",
+      "image": "https://images.pexels.com/photos/8940480/pexels-photo-8940480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Daily hormone data at home.",
+      "description": "You will see cortisol and estrogen shifts every day — just by wearing a patch.",
+      "visual_hint": "Person with patch on arm",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "patch on arm",
+      "image": "https://images.pexels.com/photos/7468223/pexels-photo-7468223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for later.",
+      "description": "Run a full 30-day test before trusting it for any medical decision.",
+      "visual_hint": "Calendar with cycle marked",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar hormone cycle",
+      "image": "https://images.pexels.com/photos/7479393/pexels-photo-7479393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Clair-Wearable.jpg?resize=1200,750",
+  "savedAt": "2026-06-18T02:46:34.455Z",
+  "sourceId": "e147079ac520df21a43d5156418ba24a"
+}

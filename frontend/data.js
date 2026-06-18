@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "two-stanford-grads-raise-11m-to-build-a-noninvasiv",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking",
+    "link": "https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/",
+    "pubDate": "Wed, 17 Jun 2026 16:54:48 +0000",
+    "slides": [
+      "Two Stanford grads just raised $11M. Why?",
+      "Their wearable tracks hormones without needles or blood.",
+      "It uses sweat, not pricks — but can it match lab accuracy?",
+      "You will get daily cortisol and estrogen data at home.",
+      "Test one cycle before trusting it for medical decisions."
+    ],
+    "thread_text": [
+      "1. $11M for a patch?\n\nTwo Stanford founders bet big on a wearable that reads hormones from sweat.",
+      "2. No needles, no blood.\n\nIt measures cortisol and estrogen daily at home — just by wearing a sensor.",
+      "3. Sweat versus lab accuracy.\n\nThe device hasn't proven it matches clinical tests yet — that's the open question.",
+      "4. Daily hormone data arrives.\n\nYou will see cortisol and estrogen shifts without pricking your finger.",
+      "5. Trust it after a full cycle.\n\nRun a 30-day test before using it to guide any medical decision."
+    ],
+    "video_script": [
+      "11 million for a sweat patch?",
+      "No needles, just a wearable sensor.",
+      "Tracks cortisol and estrogen daily.",
+      "But can it match lab accuracy?",
+      "Test a full cycle before trusting."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $11M for a patch?\n\nTwo Stanford founders bet big on a wearable that reads hormones from sweat.",
+          "2. No needles, no blood.\n\nIt measures cortisol and estrogen daily at home — just by wearing a sensor.",
+          "3. Sweat versus lab accuracy.\n\nThe device hasn't proven it matches clinical tests yet — that's the open question.",
+          "4. Daily hormone data arrives.\n\nYou will see cortisol and estrogen shifts without pricking your finger.",
+          "5. Trust it after a full cycle.\n\nRun a 30-day test before using it to guide any medical decision."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "11 million for a sweat patch?",
+          "No needles, just a wearable sensor.",
+          "Tracks cortisol and estrogen daily.",
+          "But can it match lab accuracy?",
+          "Test a full cycle before trusting."
+        ]
+      },
+      "instagram": {
+        "caption": "Two Stanford grads just raised $11M to track your hormones through sweat, no needles required. 💉❌\n\nThe wearable measures daily cortisol and estrogen from sweat at home. But it hasn't proven it matches lab accuracy yet — clinical validation is still a big open question. 📉\n\nIf you rely on hormone data for content health tracking, wait a full 30-day cycle before trusting it to guide any medical decision or public recommendation.\n\nWould you swap a finger prick for a sensor that hasn't beaten the lab test? 🔬"
+      }
+    },
+    "instagram_caption": "Two Stanford grads just raised $11M to track your hormones through sweat, no needles required. 💉❌\n\nThe wearable measures daily cortisol and estrogen from sweat at home. But it hasn't proven it matches lab accuracy yet — clinical validation is still a big open question. 📉\n\nIf you rely on hormone data for content health tracking, wait a full 30-day cycle before trusting it to guide any medical decision or public recommendation.\n\nWould you swap a finger prick for a sensor that hasn't beaten the lab test? 🔬",
+    "carousel_slides": [
+      {
+        "hook": "Can sweat replace blood tests?",
+        "description": "Two Stanford founders raised $11M for a wearable that reads hormones from sweat — no needles needed.",
+        "visual_hint": "Patch on skin",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "wearable patch skin"
+      },
+      {
+        "hook": "No needles, just a sensor.",
+        "description": "It measures cortisol and estrogen daily from sweat — at home, without blood or pricks.",
+        "visual_hint": "Sensor close-up",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "sweat sensor closeup",
+        "image": "https://images.pexels.com/photos/7675401/pexels-photo-7675401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sweat vs. lab: the big test.",
+        "description": "The device hasn't proven it matches clinical accuracy yet — that's the open question.",
+        "visual_hint": "Lab equipment beside patch",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "laboratory equipment comparison",
+        "image": "https://images.pexels.com/photos/8940480/pexels-photo-8940480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Daily hormone data at home.",
+        "description": "You will see cortisol and estrogen shifts every day — just by wearing a patch.",
+        "visual_hint": "Person with patch on arm",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "patch on arm",
+        "image": "https://images.pexels.com/photos/7468223/pexels-photo-7468223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for later.",
+        "description": "Run a full 30-day test before trusting it for any medical decision.",
+        "visual_hint": "Calendar with cycle marked",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar hormone cycle",
+        "image": "https://images.pexels.com/photos/7479393/pexels-photo-7479393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Clair-Wearable.jpg?resize=1200,750",
+    "savedAt": "2026-06-18T02:46:34.455Z",
+    "sourceId": "e147079ac520df21a43d5156418ba24a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-is-hurting-apple-in-more-ways-than-one-it-may-f",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+    "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
+    "pubDate": "Wed, 17 Jun 2026 23:28:21 +0000",
+    "slides": [
+      "Is Apple about to raise iPhone prices because of AI?",
+      "Running advanced AI on-device requires significantly more hardware.",
+      "Apple's custom chips are powerful but expensive to produce.",
+      "This added cost could soon land on your iPhone's price tag.",
+      "Check next year's iPhone specs before assuming the price stays."
+    ],
+    "thread_text": [
+      "1. Will AI inflate iPhone prices?\n\nApple’s custom chips already cost more to produce than standard mobile processors.",
+      "2. On-device AI demands bigger hardware.\n\nRunning generative models locally needs extra RAM and neural engine upgrades.",
+      "3. The premium chip dilemma.\n\nApple can’t cut corners — their silicon is a key differentiator against competitors.",
+      "4. Cost chain to your wallet.\n\nComponent price hikes historically end up in the retail price of the final device.",
+      "5. Check next year’s spec sheet.\n\nCount the chip, RAM, and neural cores before pre-ordering. Do you really need the upgrade?"
+    ],
+    "video_script": [
+      "Apple may raise iPhone prices for AI.",
+      "On-device AI needs heavy new hardware.",
+      "Their custom chips cost a lot.",
+      "That added cost hits your wallet.",
+      "Check specs before you buy next year."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Will AI inflate iPhone prices?\n\nApple’s custom chips already cost more to produce than standard mobile processors.",
+          "2. On-device AI demands bigger hardware.\n\nRunning generative models locally needs extra RAM and neural engine upgrades.",
+          "3. The premium chip dilemma.\n\nApple can’t cut corners — their silicon is a key differentiator against competitors.",
+          "4. Cost chain to your wallet.\n\nComponent price hikes historically end up in the retail price of the final device.",
+          "5. Check next year’s spec sheet.\n\nCount the chip, RAM, and neural cores before pre-ordering. Do you really need the upgrade?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple may raise iPhone prices for AI.",
+          "On-device AI needs heavy new hardware.",
+          "Their custom chips cost a lot.",
+          "That added cost hits your wallet.",
+          "Check specs before you buy next year."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next iPhone might cost more because of artificial intelligence running on the device itself. 🧠\n\nApple’s custom chips are already pricey to produce. Running advanced AI models locally demands even more RAM and upgraded neural engines — pushing component costs higher.\n\nThat extra expense historically flows straight to the retail price. 💸\n\nFor creators and professionals who rely on iPhone for work: those spec upgrades you need may come with a bigger bill.\n\nWill you check next year’s RAM and neural core count before you pre-order? 🔍"
+      }
+    },
+    "instagram_caption": "Your next iPhone might cost more because of artificial intelligence running on the device itself. 🧠\n\nApple’s custom chips are already pricey to produce. Running advanced AI models locally demands even more RAM and upgraded neural engines — pushing component costs higher.\n\nThat extra expense historically flows straight to the retail price. 💸\n\nFor creators and professionals who rely on iPhone for work: those spec upgrades you need may come with a bigger bill.\n\nWill you check next year’s RAM and neural core count before you pre-order? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Will AI force iPhone price hikes?",
+        "description": "Apple's custom chips cost more to produce than standard processors, and AI demands even bigger hardware inside.",
+        "visual_hint": "iPhone with rising price tag",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "iPhone rising price tag"
+      },
+      {
+        "hook": "On-device AI needs bigger hardware.",
+        "description": "Running generative models locally requires extra RAM and neural engine upgrades, increasing component costs.",
+        "visual_hint": "Chip with memory modules",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer chip memory modules",
+        "image": "https://images.pexels.com/photos/37113176/pexels-photo-37113176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Can Apple cut chip costs?",
+        "description": "Apple's silicon is a key differentiator against competitors, so they can't cheap out on production.",
+        "visual_hint": "Factory producing silicon wafers",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "silicon wafer factory",
+        "image": "https://images.pexels.com/photos/5115940/pexels-photo-5115940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Component hikes reach your wallet.",
+        "description": "History shows higher component prices end up in the retail price of the final device.",
+        "visual_hint": "Money leaving wallet",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand pulling money wallet",
+        "image": "https://images.pexels.com/photos/4386433/pexels-photo-4386433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to check iPhone specs.",
+        "description": "Compare chip, RAM, and neural cores before pre-ordering. Decide if the upgrade is worth it for you.",
+        "visual_hint": "iPhone spec sheet comparison",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "iPhone spec sheet closeup",
+        "image": "https://images.pexels.com/photos/3945672/pexels-photo-3945672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2234130980.jpg?resize=1200,800",
+    "savedAt": "2026-06-18T02:46:06.059Z",
+    "sourceId": "41e1a0c47c5e3584b256d04098f368ee"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "how-to-turn-off-ai-in-your-google-docs",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "How to turn off AI in your Google Docs",
+    "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+    "pubDate": "Thu, 18 Jun 2026 01:23:51 +0000",
+    "slides": [
+      "Your Google Docs just auto-suggested something you didn't want.",
+      "AI is on by default in tools you already use daily.",
+      "Google buried the off switch deep in settings menus.",
+      "You can disable it per document or for your whole account.",
+      "Check your Tools menu now before it writes your next line."
+    ],
+    "thread_text": [
+      "It's already watching.\n\nGoogle Docs auto-suggested a phrase you didn't intend—and you only noticed after typing it.",
+      "Default creep.\n\nAI is switched on inside Gmail, Calendar, and Drive—whether you asked for it or not.",
+      "The hidden toggle.\n\nGoogle buried the off switch three layers deep in Settings. Most users never find it.",
+      "Your choice, sort of.\n\nYou can disable AI per document or for your entire account—but only if you know where.",
+      "Check this now.\n\nOpen any Google Doc and look under Tools. Is AI writing your next sentence without your OK?"
+    ],
+    "video_script": [
+      "Your Docs are writing for you.",
+      "You never flipped that switch.",
+      "Google hides the off button.",
+      "You can kill it per document.",
+      "Check Tools before it edits you."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "It's already watching.\n\nGoogle Docs auto-suggested a phrase you didn't intend—and you only noticed after typing it.",
+          "Default creep.\n\nAI is switched on inside Gmail, Calendar, and Drive—whether you asked for it or not.",
+          "The hidden toggle.\n\nGoogle buried the off switch three layers deep in Settings. Most users never find it.",
+          "Your choice, sort of.\n\nYou can disable AI per document or for your entire account—but only if you know where.",
+          "Check this now.\n\nOpen any Google Doc and look under Tools. Is AI writing your next sentence without your OK?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your Docs are writing for you.",
+          "You never flipped that switch.",
+          "Google hides the off button.",
+          "You can kill it per document.",
+          "Check Tools before it edits you."
+        ]
+      },
+      "instagram": {
+        "caption": "Your Google Docs just auto-suggested a sentence you didn’t want—and you only caught it after typing.\n\nAI is turned on by default inside Gmail, Calendar, and Drive, whether you asked for it or not. Google buried the off switch three menus deep in Settings.\n\nIf you create or publish anything in Docs, you’re letting AI write your next line without your permission.\n\nOpen any Google Doc now. Go to Tools. Is that “Help me write” prompt sitting there, waiting for you?"
+      }
+    },
+    "instagram_caption": "Your Google Docs just auto-suggested a sentence you didn’t want—and you only caught it after typing.\n\nAI is turned on by default inside Gmail, Calendar, and Drive, whether you asked for it or not. Google buried the off switch three menus deep in Settings.\n\nIf you create or publish anything in Docs, you’re letting AI write your next line without your permission.\n\nOpen any Google Doc now. Go to Tools. Is that “Help me write” prompt sitting there, waiting for you?",
+    "carousel_slides": [
+      {
+        "hook": "Your AI wrote without permission.",
+        "description": "Google Docs auto-suggested a phrase you didn't intend—you only noticed after typing it.",
+        "visual_hint": "cursor typing unwanted text",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "cursor typing document"
+      },
+      {
+        "hook": "Default creep is everywhere.",
+        "description": "AI is switched on in Gmail, Calendar, Drive—whether you asked for it or not.",
+        "visual_hint": "three app icons lined up",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Gmail Calendar Drive icons",
+        "image": "https://images.pexels.com/photos/13709181/pexels-photo-13709181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The hidden toggle exists.",
+        "description": "Google buried the off switch three layers deep in Settings. Most never find it.",
+        "visual_hint": "zooming into settings menu",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "settings menu Google Docs",
+        "image": "https://images.pexels.com/photos/5083397/pexels-photo-5083397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your choice, sort of.",
+        "description": "You can disable AI per document or your entire account—but only if you know where.",
+        "visual_hint": "hand tapping toggle switch",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand touching toggle switch",
+        "image": "https://images.pexels.com/photos/7858297/pexels-photo-7858297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your Tools now.",
+        "description": "Open any Google Doc and look under Tools. Is AI writing your next sentence without your OK?",
+        "visual_hint": "finger pointing at menu",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "Google Docs Tools menu",
+        "image": "https://images.pexels.com/photos/5083397/pexels-photo-5083397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-182884083.jpg?resize=1200,800",
+    "savedAt": "2026-06-18T02:45:53.316Z",
+    "sourceId": "e304a2af2a1bdfb5c5054cd187702fc1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "ai-search-grounded-in-facebook-posts-what-could-go",
     "prompt_version": "1.0.0",
     "status": "published",

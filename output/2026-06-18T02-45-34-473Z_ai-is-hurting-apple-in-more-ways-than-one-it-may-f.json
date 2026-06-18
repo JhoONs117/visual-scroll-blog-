@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-is-hurting-apple-in-more-ways-than-one-it-may-f",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+  "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
+  "pubDate": "Wed, 17 Jun 2026 23:28:21 +0000",
+  "slides": [
+    "Is Apple about to raise iPhone prices because of AI?",
+    "Running advanced AI on-device requires significantly more hardware.",
+    "Apple's custom chips are powerful but expensive to produce.",
+    "This added cost could soon land on your iPhone's price tag.",
+    "Check next year's iPhone specs before assuming the price stays."
+  ],
+  "thread_text": [
+    "1. Will AI inflate iPhone prices?\n\nApple’s custom chips already cost more to produce than standard mobile processors.",
+    "2. On-device AI demands bigger hardware.\n\nRunning generative models locally needs extra RAM and neural engine upgrades.",
+    "3. The premium chip dilemma.\n\nApple can’t cut corners — their silicon is a key differentiator against competitors.",
+    "4. Cost chain to your wallet.\n\nComponent price hikes historically end up in the retail price of the final device.",
+    "5. Check next year’s spec sheet.\n\nCount the chip, RAM, and neural cores before pre-ordering. Do you really need the upgrade?"
+  ],
+  "video_script": [
+    "Apple may raise iPhone prices for AI.",
+    "On-device AI needs heavy new hardware.",
+    "Their custom chips cost a lot.",
+    "That added cost hits your wallet.",
+    "Check specs before you buy next year."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Will AI inflate iPhone prices?\n\nApple’s custom chips already cost more to produce than standard mobile processors.",
+        "2. On-device AI demands bigger hardware.\n\nRunning generative models locally needs extra RAM and neural engine upgrades.",
+        "3. The premium chip dilemma.\n\nApple can’t cut corners — their silicon is a key differentiator against competitors.",
+        "4. Cost chain to your wallet.\n\nComponent price hikes historically end up in the retail price of the final device.",
+        "5. Check next year’s spec sheet.\n\nCount the chip, RAM, and neural cores before pre-ordering. Do you really need the upgrade?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple may raise iPhone prices for AI.",
+        "On-device AI needs heavy new hardware.",
+        "Their custom chips cost a lot.",
+        "That added cost hits your wallet.",
+        "Check specs before you buy next year."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next iPhone might cost more because of artificial intelligence running on the device itself. 🧠\n\nApple’s custom chips are already pricey to produce. Running advanced AI models locally demands even more RAM and upgraded neural engines — pushing component costs higher.\n\nThat extra expense historically flows straight to the retail price. 💸\n\nFor creators and professionals who rely on iPhone for work: those spec upgrades you need may come with a bigger bill.\n\nWill you check next year’s RAM and neural core count before you pre-order? 🔍"
+    }
+  },
+  "instagram_caption": "Your next iPhone might cost more because of artificial intelligence running on the device itself. 🧠\n\nApple’s custom chips are already pricey to produce. Running advanced AI models locally demands even more RAM and upgraded neural engines — pushing component costs higher.\n\nThat extra expense historically flows straight to the retail price. 💸\n\nFor creators and professionals who rely on iPhone for work: those spec upgrades you need may come with a bigger bill.\n\nWill you check next year’s RAM and neural core count before you pre-order? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Will AI force iPhone price hikes?",
+      "description": "Apple's custom chips cost more to produce than standard processors, and AI demands even bigger hardware inside.",
+      "visual_hint": "iPhone with rising price tag",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "iPhone rising price tag"
+    },
+    {
+      "hook": "On-device AI needs bigger hardware.",
+      "description": "Running generative models locally requires extra RAM and neural engine upgrades, increasing component costs.",
+      "visual_hint": "Chip with memory modules",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer chip memory modules",
+      "image": "https://images.pexels.com/photos/37113176/pexels-photo-37113176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can Apple cut chip costs?",
+      "description": "Apple's silicon is a key differentiator against competitors, so they can't cheap out on production.",
+      "visual_hint": "Factory producing silicon wafers",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "silicon wafer factory",
+      "image": "https://images.pexels.com/photos/5115940/pexels-photo-5115940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Component hikes reach your wallet.",
+      "description": "History shows higher component prices end up in the retail price of the final device.",
+      "visual_hint": "Money leaving wallet",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pulling money wallet",
+      "image": "https://images.pexels.com/photos/4386433/pexels-photo-4386433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to check iPhone specs.",
+      "description": "Compare chip, RAM, and neural cores before pre-ordering. Decide if the upgrade is worth it for you.",
+      "visual_hint": "iPhone spec sheet comparison",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "iPhone spec sheet closeup",
+      "image": "https://images.pexels.com/photos/3945672/pexels-photo-3945672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2234130980.jpg?resize=1200,800",
+  "savedAt": "2026-06-18T02:46:06.059Z",
+  "sourceId": "41e1a0c47c5e3584b256d04098f368ee"
+}

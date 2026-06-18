@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-to-turn-off-ai-in-your-google-docs",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How to turn off AI in your Google Docs",
+  "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+  "pubDate": "Thu, 18 Jun 2026 01:23:51 +0000",
+  "slides": [
+    "Your Google Docs just auto-suggested something you didn't want.",
+    "AI is on by default in tools you already use daily.",
+    "Google buried the off switch deep in settings menus.",
+    "You can disable it per document or for your whole account.",
+    "Check your Tools menu now before it writes your next line."
+  ],
+  "thread_text": [
+    "It's already watching.\n\nGoogle Docs auto-suggested a phrase you didn't intend—and you only noticed after typing it.",
+    "Default creep.\n\nAI is switched on inside Gmail, Calendar, and Drive—whether you asked for it or not.",
+    "The hidden toggle.\n\nGoogle buried the off switch three layers deep in Settings. Most users never find it.",
+    "Your choice, sort of.\n\nYou can disable AI per document or for your entire account—but only if you know where.",
+    "Check this now.\n\nOpen any Google Doc and look under Tools. Is AI writing your next sentence without your OK?"
+  ],
+  "video_script": [
+    "Your Docs are writing for you.",
+    "You never flipped that switch.",
+    "Google hides the off button.",
+    "You can kill it per document.",
+    "Check Tools before it edits you."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "It's already watching.\n\nGoogle Docs auto-suggested a phrase you didn't intend—and you only noticed after typing it.",
+        "Default creep.\n\nAI is switched on inside Gmail, Calendar, and Drive—whether you asked for it or not.",
+        "The hidden toggle.\n\nGoogle buried the off switch three layers deep in Settings. Most users never find it.",
+        "Your choice, sort of.\n\nYou can disable AI per document or for your entire account—but only if you know where.",
+        "Check this now.\n\nOpen any Google Doc and look under Tools. Is AI writing your next sentence without your OK?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your Docs are writing for you.",
+        "You never flipped that switch.",
+        "Google hides the off button.",
+        "You can kill it per document.",
+        "Check Tools before it edits you."
+      ]
+    },
+    "instagram": {
+      "caption": "Your Google Docs just auto-suggested a sentence you didn’t want—and you only caught it after typing.\n\nAI is turned on by default inside Gmail, Calendar, and Drive, whether you asked for it or not. Google buried the off switch three menus deep in Settings.\n\nIf you create or publish anything in Docs, you’re letting AI write your next line without your permission.\n\nOpen any Google Doc now. Go to Tools. Is that “Help me write” prompt sitting there, waiting for you?"
+    }
+  },
+  "instagram_caption": "Your Google Docs just auto-suggested a sentence you didn’t want—and you only caught it after typing.\n\nAI is turned on by default inside Gmail, Calendar, and Drive, whether you asked for it or not. Google buried the off switch three menus deep in Settings.\n\nIf you create or publish anything in Docs, you’re letting AI write your next line without your permission.\n\nOpen any Google Doc now. Go to Tools. Is that “Help me write” prompt sitting there, waiting for you?",
+  "carousel_slides": [
+    {
+      "hook": "Your AI wrote without permission.",
+      "description": "Google Docs auto-suggested a phrase you didn't intend—you only noticed after typing it.",
+      "visual_hint": "cursor typing unwanted text",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "cursor typing document"
+    },
+    {
+      "hook": "Default creep is everywhere.",
+      "description": "AI is switched on in Gmail, Calendar, Drive—whether you asked for it or not.",
+      "visual_hint": "three app icons lined up",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Gmail Calendar Drive icons",
+      "image": "https://images.pexels.com/photos/13709181/pexels-photo-13709181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The hidden toggle exists.",
+      "description": "Google buried the off switch three layers deep in Settings. Most never find it.",
+      "visual_hint": "zooming into settings menu",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "settings menu Google Docs",
+      "image": "https://images.pexels.com/photos/5083397/pexels-photo-5083397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your choice, sort of.",
+      "description": "You can disable AI per document or your entire account—but only if you know where.",
+      "visual_hint": "hand tapping toggle switch",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching toggle switch",
+      "image": "https://images.pexels.com/photos/7858297/pexels-photo-7858297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your Tools now.",
+      "description": "Open any Google Doc and look under Tools. Is AI writing your next sentence without your OK?",
+      "visual_hint": "finger pointing at menu",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Google Docs Tools menu",
+      "image": "https://images.pexels.com/photos/5083397/pexels-photo-5083397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-182884083.jpg?resize=1200,800",
+  "savedAt": "2026-06-18T02:45:53.316Z",
+  "sourceId": "e304a2af2a1bdfb5c5054cd187702fc1"
+}
