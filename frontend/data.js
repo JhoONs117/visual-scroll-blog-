@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "microsoft-sells-openai-models-in-china-openai-and-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
+    "link": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
+    "pubDate": "Thu, 18 Jun 2026 09:00:00 +0000",
+    "slides": [
+      "Microsoft now sells OpenAI models inside China.",
+      "OpenAI and Anthropic refuse to operate there directly.",
+      "Beijing regulators will review every model deployment.",
+      "Your data may face Chinese compliance audits without notice.",
+      "Ask your vendor: who controls your model's governance trail?"
+    ],
+    "thread_text": [
+      "Your AI model runs on China’s terms.\n\nMicrosoft now sells OpenAI models inside China, even though OpenAI itself refuses to operate there.",
+      "Beijing will review every deployment.\n\nRegulators get to examine each model before it goes live, with no published standards for approval.",
+      "Your data faces unannounced audits.\n\nChinese compliance teams can inspect your model’s data without notice, potentially exposing proprietary inputs.",
+      "OpenAI and Anthropic stay out.\n\nBoth companies deliberately avoid direct operations in China, yet their technology still flows in through resellers.",
+      "Ask your vendor: who owns the trail?\n\nIf you use an AI model resold in China, demand to know who controls the governance logs and audit rights."
+    ],
+    "video_script": [
+      "Your AI in China has strings attached.",
+      "Microsoft sells OpenAI there. OpenAI won't.",
+      "Beijing inspects every model before launch.",
+      "Your data faces surprise Chinese audits.",
+      "Ask your vendor who controls the logs."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Your AI model runs on China’s terms.\n\nMicrosoft now sells OpenAI models inside China, even though OpenAI itself refuses to operate there.",
+          "Beijing will review every deployment.\n\nRegulators get to examine each model before it goes live, with no published standards for approval.",
+          "Your data faces unannounced audits.\n\nChinese compliance teams can inspect your model’s data without notice, potentially exposing proprietary inputs.",
+          "OpenAI and Anthropic stay out.\n\nBoth companies deliberately avoid direct operations in China, yet their technology still flows in through resellers.",
+          "Ask your vendor: who owns the trail?\n\nIf you use an AI model resold in China, demand to know who controls the governance logs and audit rights."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your AI in China has strings attached.",
+          "Microsoft sells OpenAI there. OpenAI won't.",
+          "Beijing inspects every model before launch.",
+          "Your data faces surprise Chinese audits.",
+          "Ask your vendor who controls the logs."
+        ]
+      },
+      "instagram": {
+        "caption": "Microsoft is now selling OpenAI models inside China — even though OpenAI itself refuses to operate there.\n\nBeijing regulators will review every model before it goes live. Your data may face unannounced compliance audits with no clear standards. 🧾\n\nAnthropic and OpenAI stay out deliberately, yet their tech flows in through resellers.\n\nIf you build or deploy using these models: who controls the governance trail? 🛡️\n\nAsk your vendor directly: do you own the audit logs, or does Beijing? 🔍"
+      }
+    },
+    "instagram_caption": "Microsoft is now selling OpenAI models inside China — even though OpenAI itself refuses to operate there.\n\nBeijing regulators will review every model before it goes live. Your data may face unannounced compliance audits with no clear standards. 🧾\n\nAnthropic and OpenAI stay out deliberately, yet their tech flows in through resellers.\n\nIf you build or deploy using these models: who controls the governance trail? 🛡️\n\nAsk your vendor directly: do you own the audit logs, or does Beijing? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Your AI runs on China's terms.",
+        "description": "Microsoft sells OpenAI models inside China directly, bypassing OpenAI's own refusal to operate there.",
+        "visual_hint": "server room China flag",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room china flag"
+      },
+      {
+        "hook": "Beijing reviews every deployment.",
+        "description": "Regulators examine each model before launch with no published approval standards, creating uncertainty.",
+        "visual_hint": "document with red stamp",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "official document red stamp",
+        "image": "https://images.pexels.com/photos/7654118/pexels-photo-7654118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your data faces unannounced audits.",
+        "description": "Chinese compliance teams can inspect your model's data without notice, risking proprietary exposure.",
+        "visual_hint": "magnifying glass data",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data audit magnifying glass",
+        "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "OpenAI and Anthropic stay out.",
+        "description": "Both companies avoid direct China operations, yet their technology still flows in through resellers.",
+        "visual_hint": "closed gate",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "closed metal gate",
+        "image": "https://images.pexels.com/photos/11020115/pexels-photo-11020115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your vendor: who controls the trail?",
+        "description": "Demand to know who owns governance logs and audit rights for any resold AI model.",
+        "visual_hint": "question mark logs",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "question mark computer screen",
+        "image": "https://images.pexels.com/photos/16245252/pexels-photo-16245252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/35229501/pexels-photo-35229501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-18T12:46:37.028Z",
+    "sourceId": "5b4c58f4f7e0f19e56e94574c272bce3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "hsbc-expands-ai-banking-partnership-with-google-cl",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "HSBC expands AI banking partnership with Google Cloud",
+    "link": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
+    "pubDate": "Thu, 18 Jun 2026 10:00:00 +0000",
+    "slides": [
+      "HSBC is betting on AI. Should you trust it?",
+      "Google Cloud now powers their fraud detection models.",
+      "The AI spots patterns humans have never seen before.",
+      "Your next transaction might be blocked by this system.",
+      "Test your bank's AI. Ask it to explain a decline."
+    ],
+    "thread_text": [
+      "1. Why trust HSBC's AI?\n\nHSBC already uses AI to block transactions. But the model sees patterns no human ever noticed.",
+      "2. Google Cloud's secret role\n\nGoogle Cloud powers HSBC's fraud detection. That means your bank's AI runs on search engine infrastructure.",
+      "3. Patterns you can't see\n\nThe AI spots fraud links invisible to human analysts. Your next declined card might be right — or wrong.",
+      "4. Blocked without reason\n\nThis system can block your transaction. And it may never tell you why.",
+      "5. Test it yourself\n\nCall your bank and ask their AI to explain a decline. If it can't, you decide if that's okay."
+    ],
+    "video_script": [
+      "HSBC bets on AI. Should you trust it?",
+      "Google Cloud powers their fraud models now.",
+      "The AI sees patterns humans miss.",
+      "Your next transaction might get blocked.",
+      "Ask your bank's AI to explain a decline."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why trust HSBC's AI?\n\nHSBC already uses AI to block transactions. But the model sees patterns no human ever noticed.",
+          "2. Google Cloud's secret role\n\nGoogle Cloud powers HSBC's fraud detection. That means your bank's AI runs on search engine infrastructure.",
+          "3. Patterns you can't see\n\nThe AI spots fraud links invisible to human analysts. Your next declined card might be right — or wrong.",
+          "4. Blocked without reason\n\nThis system can block your transaction. And it may never tell you why.",
+          "5. Test it yourself\n\nCall your bank and ask their AI to explain a decline. If it can't, you decide if that's okay."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "HSBC bets on AI. Should you trust it?",
+          "Google Cloud powers their fraud models now.",
+          "The AI sees patterns humans miss.",
+          "Your next transaction might get blocked.",
+          "Ask your bank's AI to explain a decline."
+        ]
+      },
+      "instagram": {
+        "caption": "HSBC just linked your bank account to Google's search engine brain 🧠 to decide if your next credit card tap is fraud.\n\nThe AI spots transaction patterns no human analyst has ever seen. That means your card might get blocked by a system that can't explain why, even if you call to ask 📵.\n\nFor anyone running a business or posting content: this is the same logic that could silently flag your ad spend or creator payments as suspicious.\n\nWhen your bank declines something it shouldn't have, will you accept \"the algorithm knows best\"? 🤔"
+      }
+    },
+    "instagram_caption": "HSBC just linked your bank account to Google's search engine brain 🧠 to decide if your next credit card tap is fraud.\n\nThe AI spots transaction patterns no human analyst has ever seen. That means your card might get blocked by a system that can't explain why, even if you call to ask 📵.\n\nFor anyone running a business or posting content: this is the same logic that could silently flag your ad spend or creator payments as suspicious.\n\nWhen your bank declines something it shouldn't have, will you accept \"the algorithm knows best\"? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Your bank blocks without reason.",
+        "description": "HSBC's AI spots patterns humans can't see. Your card may be declined without explanation.",
+        "visual_hint": "Red warning screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "credit card decline"
+      },
+      {
+        "hook": "Google Cloud runs your bank.",
+        "description": "HSBC uses Google Cloud for fraud detection. Your bank's AI depends on search engine infrastructure.",
+        "visual_hint": "Cloud network diagram",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room rack",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Patterns invisible to humans.",
+        "description": "The AI finds fraud links no analyst noticed. Your declined card might be right or wrong.",
+        "visual_hint": "Glowing network nodes",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "circuit board closeup",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Blocked and never told why.",
+        "description": "This system can block your transaction. It may never explain the reason to you.",
+        "visual_hint": "Hand holding phone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person holding smartphone",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your bank's AI today.",
+        "description": "Call your bank and ask their AI to explain a decline. If it can't, you decide.",
+        "visual_hint": "Phone call icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "phone call icon",
+        "image": "https://images.pexels.com/photos/8526707/pexels-photo-8526707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/7821530/pexels-photo-7821530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-18T12:46:23.399Z",
+    "sourceId": "5202b2cad0efe8f11a37d2f684643463"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "anthropic-becomes-first-ai-startup-to-join-the-fro",
     "prompt_version": "1.0.0",
     "status": "published",

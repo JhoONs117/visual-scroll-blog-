@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-sells-openai-models-in-china-openai-and-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
+  "link": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
+  "pubDate": "Thu, 18 Jun 2026 09:00:00 +0000",
+  "slides": [
+    "Microsoft now sells OpenAI models inside China.",
+    "OpenAI and Anthropic refuse to operate there directly.",
+    "Beijing regulators will review every model deployment.",
+    "Your data may face Chinese compliance audits without notice.",
+    "Ask your vendor: who controls your model's governance trail?"
+  ],
+  "thread_text": [
+    "Your AI model runs on China’s terms.\n\nMicrosoft now sells OpenAI models inside China, even though OpenAI itself refuses to operate there.",
+    "Beijing will review every deployment.\n\nRegulators get to examine each model before it goes live, with no published standards for approval.",
+    "Your data faces unannounced audits.\n\nChinese compliance teams can inspect your model’s data without notice, potentially exposing proprietary inputs.",
+    "OpenAI and Anthropic stay out.\n\nBoth companies deliberately avoid direct operations in China, yet their technology still flows in through resellers.",
+    "Ask your vendor: who owns the trail?\n\nIf you use an AI model resold in China, demand to know who controls the governance logs and audit rights."
+  ],
+  "video_script": [
+    "Your AI in China has strings attached.",
+    "Microsoft sells OpenAI there. OpenAI won't.",
+    "Beijing inspects every model before launch.",
+    "Your data faces surprise Chinese audits.",
+    "Ask your vendor who controls the logs."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Your AI model runs on China’s terms.\n\nMicrosoft now sells OpenAI models inside China, even though OpenAI itself refuses to operate there.",
+        "Beijing will review every deployment.\n\nRegulators get to examine each model before it goes live, with no published standards for approval.",
+        "Your data faces unannounced audits.\n\nChinese compliance teams can inspect your model’s data without notice, potentially exposing proprietary inputs.",
+        "OpenAI and Anthropic stay out.\n\nBoth companies deliberately avoid direct operations in China, yet their technology still flows in through resellers.",
+        "Ask your vendor: who owns the trail?\n\nIf you use an AI model resold in China, demand to know who controls the governance logs and audit rights."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your AI in China has strings attached.",
+        "Microsoft sells OpenAI there. OpenAI won't.",
+        "Beijing inspects every model before launch.",
+        "Your data faces surprise Chinese audits.",
+        "Ask your vendor who controls the logs."
+      ]
+    },
+    "instagram": {
+      "caption": "Microsoft is now selling OpenAI models inside China — even though OpenAI itself refuses to operate there.\n\nBeijing regulators will review every model before it goes live. Your data may face unannounced compliance audits with no clear standards. 🧾\n\nAnthropic and OpenAI stay out deliberately, yet their tech flows in through resellers.\n\nIf you build or deploy using these models: who controls the governance trail? 🛡️\n\nAsk your vendor directly: do you own the audit logs, or does Beijing? 🔍"
+    }
+  },
+  "instagram_caption": "Microsoft is now selling OpenAI models inside China — even though OpenAI itself refuses to operate there.\n\nBeijing regulators will review every model before it goes live. Your data may face unannounced compliance audits with no clear standards. 🧾\n\nAnthropic and OpenAI stay out deliberately, yet their tech flows in through resellers.\n\nIf you build or deploy using these models: who controls the governance trail? 🛡️\n\nAsk your vendor directly: do you own the audit logs, or does Beijing? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your AI runs on China's terms.",
+      "description": "Microsoft sells OpenAI models inside China directly, bypassing OpenAI's own refusal to operate there.",
+      "visual_hint": "server room China flag",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room china flag"
+    },
+    {
+      "hook": "Beijing reviews every deployment.",
+      "description": "Regulators examine each model before launch with no published approval standards, creating uncertainty.",
+      "visual_hint": "document with red stamp",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "official document red stamp",
+      "image": "https://images.pexels.com/photos/7654118/pexels-photo-7654118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your data faces unannounced audits.",
+      "description": "Chinese compliance teams can inspect your model's data without notice, risking proprietary exposure.",
+      "visual_hint": "magnifying glass data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data audit magnifying glass",
+      "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "OpenAI and Anthropic stay out.",
+      "description": "Both companies avoid direct China operations, yet their technology still flows in through resellers.",
+      "visual_hint": "closed gate",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "closed metal gate",
+      "image": "https://images.pexels.com/photos/11020115/pexels-photo-11020115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your vendor: who controls the trail?",
+      "description": "Demand to know who owns governance logs and audit rights for any resold AI model.",
+      "visual_hint": "question mark logs",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "question mark computer screen",
+      "image": "https://images.pexels.com/photos/16245252/pexels-photo-16245252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/35229501/pexels-photo-35229501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-18T12:46:37.028Z",
+  "sourceId": "5b4c58f4f7e0f19e56e94574c272bce3"
+}
