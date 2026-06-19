@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "snap-spins-off-ai-video-team-into-new-company-dotm",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+    "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+    "pubDate": "Thu, 18 Jun 2026 20:30:00 +0000",
+    "slides": [
+      "Snap built an AI video team—why spin it off?",
+      "The team created generative video models for Snapchat.",
+      "Dotmo must now raise its own funding to survive.",
+      "You may soon license video AI instead of building it.",
+      "Watch which startups buy Dotmo's tech first."
+    ],
+    "thread_text": [
+      "1. Why spin off your own AI team?\n\nSnap built a generative video team, then forced it to become an independent startup called Dotmo.",
+      "2. Dotmo's survival depends on funding\n\nThe team must now raise capital on its own, with no more parent company money.",
+      "3. License AI instead of building\n\nSoon you may buy video AI from startups like Dotmo instead of hiring a team internally.",
+      "4. Who buys Dotmo's tech first?\n\nWatch which startups license their tech—it signals which market they value most.",
+      "5. Simulate licensing AI this week\n\nTake a video task you’d build for—search if a startup license exists. If not, wait and check again."
+    ],
+    "video_script": [
+      "Snap spun off its video AI team.",
+      "The startup is called Dotmo.",
+      "Dotmo must now raise funding alone.",
+      "You may license video AI soon.",
+      "Watch which startups license Dotmo's tech."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why spin off your own AI team?\n\nSnap built a generative video team, then forced it to become an independent startup called Dotmo.",
+          "2. Dotmo's survival depends on funding\n\nThe team must now raise capital on its own, with no more parent company money.",
+          "3. License AI instead of building\n\nSoon you may buy video AI from startups like Dotmo instead of hiring a team internally.",
+          "4. Who buys Dotmo's tech first?\n\nWatch which startups license their tech—it signals which market they value most.",
+          "5. Simulate licensing AI this week\n\nTake a video task you’d build for—search if a startup license exists. If not, wait and check again."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Snap spun off its video AI team.",
+          "The startup is called Dotmo.",
+          "Dotmo must now raise funding alone.",
+          "You may license video AI soon.",
+          "Watch which startups license Dotmo's tech."
+        ]
+      },
+      "instagram": {
+        "caption": "Snap just kicked its own AI video team out of the nest—they’re now a separate startup called Dotmo, responsible for finding their own money.\n\nThe team built generative video models for Snapchat, but the parent company wouldn’t keep funding the work. Dotmo now has to raise capital on its own to survive.\n\n📹 For anyone creating video content: within months, you may license this exact video AI from Dotmo instead of building or hiring a team internally.\n\nWhich video task would you offload to a license today—and which startup will grab Dotmo’s tech first? Go search: is there an AI video license for that task yet?"
+      }
+    },
+    "instagram_caption": "Snap just kicked its own AI video team out of the nest—they’re now a separate startup called Dotmo, responsible for finding their own money.\n\nThe team built generative video models for Snapchat, but the parent company wouldn’t keep funding the work. Dotmo now has to raise capital on its own to survive.\n\n📹 For anyone creating video content: within months, you may license this exact video AI from Dotmo instead of building or hiring a team internally.\n\nWhich video task would you offload to a license today—and which startup will grab Dotmo’s tech first? Go search: is there an AI video license for that task yet?",
+    "carousel_slides": [
+      {
+        "hook": "Your AI team may become a startup.",
+        "description": "Snap built a generative video team, then spun it off as Dotmo to cut costs. Independence forces survival.",
+        "visual_hint": "spinning gear corporate split",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Dotmo now fights for funding alone.",
+        "description": "The spin-off must raise its own capital without Snap's backing. Future depends on investors.",
+        "visual_hint": "empty wallet funding sign",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Soon you'll license AI, not build it.",
+        "description": "Buying video AI from startups like Dotmo replaces internal teams. Faster and cheaper.",
+        "visual_hint": "license document handshake",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Which startup buys Dotmo's tech first?",
+        "description": "Early licensees reveal which market values AI video most. Watch for media or gaming firms.",
+        "visual_hint": "startup logos buying arrow",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to check AI licenses later.",
+        "description": "Search today if a startup license exists for your video task. If not, wait and check again.",
+        "visual_hint": "saved bookmark icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281911508.jpg?resize=1200,856",
+    "savedAt": "2026-06-19T08:59:56.743Z",
+    "sourceId": "8fd795d8c6daa411fa9513867b681a5d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "-queer-eye-s-life-coach-karamo-brown-launches-k-a-",
     "prompt_version": "1.0.0",
     "status": "published",
