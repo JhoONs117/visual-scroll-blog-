@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "e2e-assure-introduces-cumulo-the-u-k-s-only-sovere",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+  "link": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+  "pubDate": "Fri, 19 Jun 2026 09:57:55 +0000",
+  "slides": [
+    "Can a SOC see threats that don't exist yet?",
+    "e2e-assure built Cumulo for UK's IT and OT.",
+    "It zeroes in on attacks before any signature exists.",
+    "Your environment gets a shield no one else offers.",
+    "Demand a zero-day SOC demo from your provider."
+  ],
+  "thread_text": [
+    "1. Predicting the invisible.\n\nCumulo spots zero-day attacks before any vendor has written a signature.",
+    "2. From IT to OT.\n\ne2e-assure built it for both networks—unifying threat detection across a gap most providers ignore.",
+    "3. No signature, no problem.\n\nThe AI finds anomalies that match no known pattern, so attacks get blocked on arrival.",
+    "4. A shield only you get.\n\nYour environment becomes its own unique baseline—attackers can't mimic what they don't see.",
+    "5. Ask for a zero-day SOC demo.\n\nCall your current provider and demand proof they can see what doesn't exist yet."
+  ],
+  "video_script": [
+    "Threats that don't exist yet?",
+    "Cumulo predicts them before they appear.",
+    "Covers both IT and OT networks.",
+    "No signature needed to catch attacks.",
+    "Demand a zero-day SOC demo now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Predicting the invisible.\n\nCumulo spots zero-day attacks before any vendor has written a signature.",
+        "2. From IT to OT.\n\ne2e-assure built it for both networks—unifying threat detection across a gap most providers ignore.",
+        "3. No signature, no problem.\n\nThe AI finds anomalies that match no known pattern, so attacks get blocked on arrival.",
+        "4. A shield only you get.\n\nYour environment becomes its own unique baseline—attackers can't mimic what they don't see.",
+        "5. Ask for a zero-day SOC demo.\n\nCall your current provider and demand proof they can see what doesn't exist yet."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Threats that don't exist yet?",
+        "Cumulo predicts them before they appear.",
+        "Covers both IT and OT networks.",
+        "No signature needed to catch attacks.",
+        "Demand a zero-day SOC demo now."
+      ]
+    },
+    "instagram": {
+      "caption": "Your IT and OT networks face attacks that don't exist yet—no signature, no known pattern.\n\ne2e-assure built Cumulo, the U.K.’s only sovereign SOC platform, to spot zero-day threats before any vendor writes a fix. It treats your environment as a unique baseline. 🤖 Attackers can't mimic what they can't see. 🛡️\n\nYour security provider now has no excuse. If they can't detect the invisible, you're exposed.\n\nCall your current provider today and demand a zero-day SOC demo. Will they show you proof, or pass the blame?"
+    }
+  },
+  "instagram_caption": "Your IT and OT networks face attacks that don't exist yet—no signature, no known pattern.\n\ne2e-assure built Cumulo, the U.K.’s only sovereign SOC platform, to spot zero-day threats before any vendor writes a fix. It treats your environment as a unique baseline. 🤖 Attackers can't mimic what they can't see. 🛡️\n\nYour security provider now has no excuse. If they can't detect the invisible, you're exposed.\n\nCall your current provider today and demand a zero-day SOC demo. Will they show you proof, or pass the blame?",
+  "carousel_slides": [
+    {
+      "hook": "Can a SOC see threats that don't exist?",
+      "description": "Cumulo spots zero-day attacks before any vendor writes a signature, blocking the invisible.",
+      "visual_hint": "Futuristic radar screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "radar screen"
+    },
+    {
+      "hook": "From IT to OT, unified defense",
+      "description": "e2e-assure built Cumulo for both networks, closing the gap most providers ignore.",
+      "visual_hint": "Factory floor network",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory floor server",
+      "image": "https://images.pexels.com/photos/9305407/pexels-photo-9305407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No signature, no problem",
+      "description": "AI finds anomalies matching no known pattern, so attacks are blocked on arrival.",
+      "visual_hint": "AI brain scan",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A shield only your environment gets",
+      "description": "Your unique baseline makes attackers unable to mimic what they can't see.",
+      "visual_hint": "Lock shield data",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "shield lock",
+      "image": "https://images.pexels.com/photos/7160549/pexels-photo-7160549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand a zero-day SOC demo now",
+      "description": "Call your provider and ask for proof they can see what doesn't exist yet.",
+      "visual_hint": "Phone call action",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone hand",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-19T13:28:53.292Z",
+  "sourceId": "b5ec7ba74474209dcb963fd4900bd140"
+}
