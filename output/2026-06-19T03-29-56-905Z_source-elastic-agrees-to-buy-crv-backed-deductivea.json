@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "source-elastic-agrees-to-buy-crv-backed-deductivea",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+  "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+  "pubDate": "Fri, 19 Jun 2026 00:51:11 +0000",
+  "slides": [
+    "Elastic just paid $85M for an AI startup. Why?",
+    "DeductiveAI built software for root cause analysis.",
+    "It automates finding why a server failed.",
+    "Elastic will embed this into its observability tools.",
+    "Your ops team can now debug logs instantly."
+  ],
+  "thread_text": [
+    "1. Elastic paid $85M for what?\n\nDeductiveAI’s software automates root cause analysis for server failures.",
+    "2. What does it actually do?\n\nIt finds why a server crashed by scanning logs automatically.",
+    "3. Where will this go?\n\nElastic will embed it into their observability tools for real-time use.",
+    "4. What does that mean for you?\n\nYour ops team can debug logs instantly without manual searching.",
+    "5. Test it on a real log file today.\n\nDoes your team currently spend hours finding root causes? Try the workflow now."
+  ],
+  "video_script": [
+    "Elastic just spent 85 million on an AI startup.",
+    "DeductiveAI automates finding why servers fail.",
+    "It scans logs and gives root cause answers.",
+    "Elastic will put this into its observability tools.",
+    "Your ops team now debugs logs instantly."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Elastic paid $85M for what?\n\nDeductiveAI’s software automates root cause analysis for server failures.",
+        "2. What does it actually do?\n\nIt finds why a server crashed by scanning logs automatically.",
+        "3. Where will this go?\n\nElastic will embed it into their observability tools for real-time use.",
+        "4. What does that mean for you?\n\nYour ops team can debug logs instantly without manual searching.",
+        "5. Test it on a real log file today.\n\nDoes your team currently spend hours finding root causes? Try the workflow now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Elastic just spent 85 million on an AI startup.",
+        "DeductiveAI automates finding why servers fail.",
+        "It scans logs and gives root cause answers.",
+        "Elastic will put this into its observability tools.",
+        "Your ops team now debugs logs instantly."
+      ]
+    },
+    "instagram": {
+      "caption": "$85M for a startup that finds why your server crashed—automatically.\n\nDeductiveAI built software that scans logs to pinpoint root causes in seconds 🖥️. Elastic is embedding it into their tools, so ops teams can debug without manual searches.\n\nYour work: less time digging through error logs, more time fixing the actual problem ⚡.\n\nIs your team still spending hours guessing why production broke?"
+    }
+  },
+  "instagram_caption": "$85M for a startup that finds why your server crashed—automatically.\n\nDeductiveAI built software that scans logs to pinpoint root causes in seconds 🖥️. Elastic is embedding it into their tools, so ops teams can debug without manual searches.\n\nYour work: less time digging through error logs, more time fixing the actual problem ⚡.\n\nIs your team still spending hours guessing why production broke?",
+  "carousel_slides": [
+    {
+      "hook": "What's the real cost of downtime?",
+      "description": "Elastic paid $85M for DeductiveAI to automate root cause analysis for server failures.",
+      "visual_hint": "financial chart with server icons",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "This AI finds server crashes instantly.",
+      "description": "DeductiveAI scans logs automatically to pinpoint why a server failed, saving hours of manual work.",
+      "visual_hint": "AI scanning log lines",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Engineers debug in real time now.",
+      "description": "Elastic will embed this into its observability tools for instant root cause detection.",
+      "visual_hint": "dashboard with alert graph",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your ops team saves hours daily.",
+      "description": "No more manual searching — logs are debugged instantly with AI-powered root cause analysis.",
+      "visual_hint": "person typing at laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next outage.",
+      "description": "Try the workflow on a real log file today and stop spending hours finding root causes.",
+      "visual_hint": "phone with open app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?resize=1200,760",
+  "savedAt": "2026-06-19T03:30:09.169Z",
+  "sourceId": "f7db370cf36fed58abc1eb772e299147"
+}

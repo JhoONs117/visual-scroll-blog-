@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "-queer-eye-s-life-coach-karamo-brown-launches-k-a-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+  "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+  "pubDate": "Thu, 18 Jun 2026 16:55:04 +0000",
+  "slides": [
+    "Karamo cloned himself into an AI — but why?",
+    "The app Kē offers personalized wellness coaching.",
+    "His digital twin learns your patterns better than humans.",
+    "Now you get 24/7 access to Karamo's method.",
+    "Try it: your first session reveals a hidden blind spot."
+  ],
+  "thread_text": [
+    "1. He cloned himself.\n\nKaramo used his own therapy sessions to train a digital twin. The AI now maps your hidden patterns.",
+    "2. Why it works.\n\nThe twin learns from tiny micro-expressions you miss. No human coach could track that many signals.",
+    "3. Access changes.\n\nIt's not a bot that pretends to listen. The system adapts its method to your exact resistance points.",
+    "4. The catch.\n\nYou get Karamo's full playbook but never his fatigue. The AI never gets tired of your same excuses.",
+    "5. Ready to test yours?\n\nOpen the app and complete one session. See which blind spot it names within 10 minutes."
+  ],
+  "video_script": [
+    "Karamo cloned his mind into AI.",
+    "The twin reads what you hide.",
+    "No coach can match its pattern.",
+    "You get his complete method anytime.",
+    "Test it. Find your blind spot."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. He cloned himself.\n\nKaramo used his own therapy sessions to train a digital twin. The AI now maps your hidden patterns.",
+        "2. Why it works.\n\nThe twin learns from tiny micro-expressions you miss. No human coach could track that many signals.",
+        "3. Access changes.\n\nIt's not a bot that pretends to listen. The system adapts its method to your exact resistance points.",
+        "4. The catch.\n\nYou get Karamo's full playbook but never his fatigue. The AI never gets tired of your same excuses.",
+        "5. Ready to test yours?\n\nOpen the app and complete one session. See which blind spot it names within 10 minutes."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Karamo cloned his mind into AI.",
+        "The twin reads what you hide.",
+        "No coach can match its pattern.",
+        "You get his complete method anytime.",
+        "Test it. Find your blind spot."
+      ]
+    },
+    "instagram": {
+      "caption": "Karamo Brown cloned himself into an AI that watches your micro-expressions—the tiny facial cues you don't even notice you're making.\n\nHis digital twin was trained on Karamo's own therapy sessions. It maps your hidden resistance patterns, not just your words. No human coach could track that many signals.\n\nThe AI never gets tired of hearing your same excuses, and adapts its method to your exact blind spots.\n\nOpen Kē, complete one session, and see which blind spot it names within 10 minutes. What will it catch in you 🧠👀"
+    }
+  },
+  "instagram_caption": "Karamo Brown cloned himself into an AI that watches your micro-expressions—the tiny facial cues you don't even notice you're making.\n\nHis digital twin was trained on Karamo's own therapy sessions. It maps your hidden resistance patterns, not just your words. No human coach could track that many signals.\n\nThe AI never gets tired of hearing your same excuses, and adapts its method to your exact blind spots.\n\nOpen Kē, complete one session, and see which blind spot it names within 10 minutes. What will it catch in you 🧠👀",
+  "carousel_slides": [
+    {
+      "hook": "He cloned himself into AI.",
+      "description": "Karamo trained a digital twin with his own therapy sessions. The AI now maps your hidden patterns.",
+      "visual_hint": "Abstract digital face double",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "digital twin interface"
+    },
+    {
+      "hook": "Why it works better.",
+      "description": "The AI reads micro-expressions you miss. No human could track that many signals at once.",
+      "visual_hint": "Face micro-expression scan",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "facial recognition grid",
+      "image": "https://images.pexels.com/photos/8090123/pexels-photo-8090123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It never gets tired.",
+      "description": "You get Karamo's full method without his fatigue. The AI adapts to your exact resistance points.",
+      "visual_hint": "AI node connections glowing",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "neural network visualization",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "24/7 access to his method.",
+      "description": "This isn't a bot that pretends to listen. It learns your patterns and adjusts in real time.",
+      "visual_hint": "Hand holding phone with app",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone wellness app",
+      "image": "https://images.pexels.com/photos/6473732/pexels-photo-6473732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Find your blind spot now.",
+      "description": "Open Kē and complete one session. It names a hidden blind spot within 10 minutes.",
+      "visual_hint": "Phone screen revealing blind spot",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "app session screen",
+      "image": "https://images.pexels.com/photos/33632620/pexels-photo-33632620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/KaramoBrown-Ke.jpg?resize=1200,800",
+  "savedAt": "2026-06-19T03:30:37.433Z",
+  "sourceId": "4dc1580b6ce7902127c9e3d1cbb88105"
+}

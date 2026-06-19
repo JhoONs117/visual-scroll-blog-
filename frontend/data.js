@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "-queer-eye-s-life-coach-karamo-brown-launches-k-a-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+    "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+    "pubDate": "Thu, 18 Jun 2026 16:55:04 +0000",
+    "slides": [
+      "Karamo cloned himself into an AI — but why?",
+      "The app Kē offers personalized wellness coaching.",
+      "His digital twin learns your patterns better than humans.",
+      "Now you get 24/7 access to Karamo's method.",
+      "Try it: your first session reveals a hidden blind spot."
+    ],
+    "thread_text": [
+      "1. He cloned himself.\n\nKaramo used his own therapy sessions to train a digital twin. The AI now maps your hidden patterns.",
+      "2. Why it works.\n\nThe twin learns from tiny micro-expressions you miss. No human coach could track that many signals.",
+      "3. Access changes.\n\nIt's not a bot that pretends to listen. The system adapts its method to your exact resistance points.",
+      "4. The catch.\n\nYou get Karamo's full playbook but never his fatigue. The AI never gets tired of your same excuses.",
+      "5. Ready to test yours?\n\nOpen the app and complete one session. See which blind spot it names within 10 minutes."
+    ],
+    "video_script": [
+      "Karamo cloned his mind into AI.",
+      "The twin reads what you hide.",
+      "No coach can match its pattern.",
+      "You get his complete method anytime.",
+      "Test it. Find your blind spot."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. He cloned himself.\n\nKaramo used his own therapy sessions to train a digital twin. The AI now maps your hidden patterns.",
+          "2. Why it works.\n\nThe twin learns from tiny micro-expressions you miss. No human coach could track that many signals.",
+          "3. Access changes.\n\nIt's not a bot that pretends to listen. The system adapts its method to your exact resistance points.",
+          "4. The catch.\n\nYou get Karamo's full playbook but never his fatigue. The AI never gets tired of your same excuses.",
+          "5. Ready to test yours?\n\nOpen the app and complete one session. See which blind spot it names within 10 minutes."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Karamo cloned his mind into AI.",
+          "The twin reads what you hide.",
+          "No coach can match its pattern.",
+          "You get his complete method anytime.",
+          "Test it. Find your blind spot."
+        ]
+      },
+      "instagram": {
+        "caption": "Karamo Brown cloned himself into an AI that watches your micro-expressions—the tiny facial cues you don't even notice you're making.\n\nHis digital twin was trained on Karamo's own therapy sessions. It maps your hidden resistance patterns, not just your words. No human coach could track that many signals.\n\nThe AI never gets tired of hearing your same excuses, and adapts its method to your exact blind spots.\n\nOpen Kē, complete one session, and see which blind spot it names within 10 minutes. What will it catch in you 🧠👀"
+      }
+    },
+    "instagram_caption": "Karamo Brown cloned himself into an AI that watches your micro-expressions—the tiny facial cues you don't even notice you're making.\n\nHis digital twin was trained on Karamo's own therapy sessions. It maps your hidden resistance patterns, not just your words. No human coach could track that many signals.\n\nThe AI never gets tired of hearing your same excuses, and adapts its method to your exact blind spots.\n\nOpen Kē, complete one session, and see which blind spot it names within 10 minutes. What will it catch in you 🧠👀",
+    "carousel_slides": [
+      {
+        "hook": "He cloned himself into AI.",
+        "description": "Karamo trained a digital twin with his own therapy sessions. The AI now maps your hidden patterns.",
+        "visual_hint": "Abstract digital face double",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "digital twin interface"
+      },
+      {
+        "hook": "Why it works better.",
+        "description": "The AI reads micro-expressions you miss. No human could track that many signals at once.",
+        "visual_hint": "Face micro-expression scan",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "facial recognition grid",
+        "image": "https://images.pexels.com/photos/8090123/pexels-photo-8090123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It never gets tired.",
+        "description": "You get Karamo's full method without his fatigue. The AI adapts to your exact resistance points.",
+        "visual_hint": "AI node connections glowing",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "neural network visualization",
+        "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "24/7 access to his method.",
+        "description": "This isn't a bot that pretends to listen. It learns your patterns and adjusts in real time.",
+        "visual_hint": "Hand holding phone with app",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone wellness app",
+        "image": "https://images.pexels.com/photos/6473732/pexels-photo-6473732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Find your blind spot now.",
+        "description": "Open Kē and complete one session. It names a hidden blind spot within 10 minutes.",
+        "visual_hint": "Phone screen revealing blind spot",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "app session screen",
+        "image": "https://images.pexels.com/photos/33632620/pexels-photo-33632620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/KaramoBrown-Ke.jpg?resize=1200,800",
+    "savedAt": "2026-06-19T03:30:37.433Z",
+    "sourceId": "4dc1580b6ce7902127c9e3d1cbb88105"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "almost-half-of-us-singles-feel-negatively-about-ai",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+    "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+    "pubDate": "Thu, 18 Jun 2026 18:51:46 +0000",
+    "slides": [
+      "Match says 47% of US singles distrust AI in romance.",
+      "Yet 1 in 5 already uses AI to write dating profiles.",
+      "No one knows who hides AI help—creating new deception.",
+      "You now must ask: 'Did AI write this message?'",
+      "Test your own filter: can you spot the bot?"
+    ],
+    "thread_text": [
+      "1. Trust in tatters\n\nMatch says 47% of US singles distrust AI in romance, yet 1 in 5 already uses it to write dating profiles.",
+      "2. The hidden helper\n\nNo one knows who hides AI help—creating new deception. You now must ask: 'Did AI write this message?'",
+      "3. Spot the bot\n\nTest your own filter: can you spot the bot? Over half of users can't tell real from fake.",
+      "4. Profile paradox\n\nUsing AI saves time but risks authenticity. Profiles written by AI get fewer matches when found out.",
+      "5. Start today\n\nTake a dating profile you wrote yourself and run it through an AI detector. If you haven't, start there."
+    ],
+    "video_script": [
+      "47% of singles distrust AI in romance.",
+      "But 1 in 5 uses AI for profiles.",
+      "No one knows who's hiding AI help.",
+      "You now must ask: 'Did AI write this?'",
+      "Test your filter: can you spot the bot?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Trust in tatters\n\nMatch says 47% of US singles distrust AI in romance, yet 1 in 5 already uses it to write dating profiles.",
+          "2. The hidden helper\n\nNo one knows who hides AI help—creating new deception. You now must ask: 'Did AI write this message?'",
+          "3. Spot the bot\n\nTest your own filter: can you spot the bot? Over half of users can't tell real from fake.",
+          "4. Profile paradox\n\nUsing AI saves time but risks authenticity. Profiles written by AI get fewer matches when found out.",
+          "5. Start today\n\nTake a dating profile you wrote yourself and run it through an AI detector. If you haven't, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "47% of singles distrust AI in romance.",
+          "But 1 in 5 uses AI for profiles.",
+          "No one knows who's hiding AI help.",
+          "You now must ask: 'Did AI write this?'",
+          "Test your filter: can you spot the bot?"
+        ]
+      },
+      "instagram": {
+        "caption": "47% of US singles say they don't trust AI in romance, yet 1 in 5 already uses it to write dating profiles.\n\nMatch found that over half of users can't tell if a message or profile was written by a bot. No one knows who’s hiding AI help—creating a new kind of deception.\n\nNow, when you swipe or chat, you have to ask: “Did AI write this?”\n\nTake a profile you wrote yourself and run it through an AI detector. Can you spot the bot when it’s your own work? 🔍📱🤖"
+      }
+    },
+    "instagram_caption": "47% of US singles say they don't trust AI in romance, yet 1 in 5 already uses it to write dating profiles.\n\nMatch found that over half of users can't tell if a message or profile was written by a bot. No one knows who’s hiding AI help—creating a new kind of deception.\n\nNow, when you swipe or chat, you have to ask: “Did AI write this?”\n\nTake a profile you wrote yourself and run it through an AI detector. Can you spot the bot when it’s your own work? 🔍📱🤖",
+    "carousel_slides": [
+      {
+        "hook": "Can you trust a bot's love?",
+        "description": "47% of US singles distrust AI in romance, yet 1 in 5 uses it to write profiles.",
+        "visual_hint": "broken heart with question mark",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "broken heart icon"
+      },
+      {
+        "hook": "Hidden AI helpers deceive.",
+        "description": "No one knows who hides AI help—creating new deception in dating conversations.",
+        "visual_hint": "silhouette with robotic hand",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot hand silhouette",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spot the bot or get fooled.",
+        "description": "Over half of users can't tell real from fake messages. Test your filter now.",
+        "visual_hint": "binary code over speech bubble",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "binary code speech bubble",
+        "image": "https://images.pexels.com/photos/7696118/pexels-photo-7696118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI profiles lose matches.",
+        "description": "Using AI saves time but risks authenticity—profiles written by AI get fewer matches when found.",
+        "visual_hint": "profile thumbnails with AI stamp",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "dating profile thumbnails",
+        "image": "https://images.pexels.com/photos/5911155/pexels-photo-5911155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test your profile.",
+        "description": "Run your dating profile through an AI detector. Start today to stay authentic.",
+        "visual_hint": "finger tapping smartphone screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen tap",
+        "image": "https://images.pexels.com/photos/24263954/pexels-photo-24263954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1131615694.jpg?resize=1200,800",
+    "savedAt": "2026-06-19T03:30:22.963Z",
+    "sourceId": "0a368702d05681162f151745f93e6f48"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "source-elastic-agrees-to-buy-crv-backed-deductivea",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "pubDate": "Fri, 19 Jun 2026 00:51:11 +0000",
+    "slides": [
+      "Elastic just paid $85M for an AI startup. Why?",
+      "DeductiveAI built software for root cause analysis.",
+      "It automates finding why a server failed.",
+      "Elastic will embed this into its observability tools.",
+      "Your ops team can now debug logs instantly."
+    ],
+    "thread_text": [
+      "1. Elastic paid $85M for what?\n\nDeductiveAI’s software automates root cause analysis for server failures.",
+      "2. What does it actually do?\n\nIt finds why a server crashed by scanning logs automatically.",
+      "3. Where will this go?\n\nElastic will embed it into their observability tools for real-time use.",
+      "4. What does that mean for you?\n\nYour ops team can debug logs instantly without manual searching.",
+      "5. Test it on a real log file today.\n\nDoes your team currently spend hours finding root causes? Try the workflow now."
+    ],
+    "video_script": [
+      "Elastic just spent 85 million on an AI startup.",
+      "DeductiveAI automates finding why servers fail.",
+      "It scans logs and gives root cause answers.",
+      "Elastic will put this into its observability tools.",
+      "Your ops team now debugs logs instantly."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Elastic paid $85M for what?\n\nDeductiveAI’s software automates root cause analysis for server failures.",
+          "2. What does it actually do?\n\nIt finds why a server crashed by scanning logs automatically.",
+          "3. Where will this go?\n\nElastic will embed it into their observability tools for real-time use.",
+          "4. What does that mean for you?\n\nYour ops team can debug logs instantly without manual searching.",
+          "5. Test it on a real log file today.\n\nDoes your team currently spend hours finding root causes? Try the workflow now."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Elastic just spent 85 million on an AI startup.",
+          "DeductiveAI automates finding why servers fail.",
+          "It scans logs and gives root cause answers.",
+          "Elastic will put this into its observability tools.",
+          "Your ops team now debugs logs instantly."
+        ]
+      },
+      "instagram": {
+        "caption": "$85M for a startup that finds why your server crashed—automatically.\n\nDeductiveAI built software that scans logs to pinpoint root causes in seconds 🖥️. Elastic is embedding it into their tools, so ops teams can debug without manual searches.\n\nYour work: less time digging through error logs, more time fixing the actual problem ⚡.\n\nIs your team still spending hours guessing why production broke?"
+      }
+    },
+    "instagram_caption": "$85M for a startup that finds why your server crashed—automatically.\n\nDeductiveAI built software that scans logs to pinpoint root causes in seconds 🖥️. Elastic is embedding it into their tools, so ops teams can debug without manual searches.\n\nYour work: less time digging through error logs, more time fixing the actual problem ⚡.\n\nIs your team still spending hours guessing why production broke?",
+    "carousel_slides": [
+      {
+        "hook": "What's the real cost of downtime?",
+        "description": "Elastic paid $85M for DeductiveAI to automate root cause analysis for server failures.",
+        "visual_hint": "financial chart with server icons",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "This AI finds server crashes instantly.",
+        "description": "DeductiveAI scans logs automatically to pinpoint why a server failed, saving hours of manual work.",
+        "visual_hint": "AI scanning log lines",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Engineers debug in real time now.",
+        "description": "Elastic will embed this into its observability tools for instant root cause detection.",
+        "visual_hint": "dashboard with alert graph",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your ops team saves hours daily.",
+        "description": "No more manual searching — logs are debugged instantly with AI-powered root cause analysis.",
+        "visual_hint": "person typing at laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your next outage.",
+        "description": "Try the workflow on a real log file today and stop spending hours finding root causes.",
+        "visual_hint": "phone with open app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?resize=1200,760",
+    "savedAt": "2026-06-19T03:30:09.169Z",
+    "sourceId": "f7db370cf36fed58abc1eb772e299147"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "photoshop-and-premiere-now-have-ai-assistants",
     "prompt_version": "1.0.0",
     "status": "published",

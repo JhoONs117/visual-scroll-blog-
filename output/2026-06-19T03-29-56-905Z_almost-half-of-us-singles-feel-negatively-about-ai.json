@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "almost-half-of-us-singles-feel-negatively-about-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+  "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+  "pubDate": "Thu, 18 Jun 2026 18:51:46 +0000",
+  "slides": [
+    "Match says 47% of US singles distrust AI in romance.",
+    "Yet 1 in 5 already uses AI to write dating profiles.",
+    "No one knows who hides AI help—creating new deception.",
+    "You now must ask: 'Did AI write this message?'",
+    "Test your own filter: can you spot the bot?"
+  ],
+  "thread_text": [
+    "1. Trust in tatters\n\nMatch says 47% of US singles distrust AI in romance, yet 1 in 5 already uses it to write dating profiles.",
+    "2. The hidden helper\n\nNo one knows who hides AI help—creating new deception. You now must ask: 'Did AI write this message?'",
+    "3. Spot the bot\n\nTest your own filter: can you spot the bot? Over half of users can't tell real from fake.",
+    "4. Profile paradox\n\nUsing AI saves time but risks authenticity. Profiles written by AI get fewer matches when found out.",
+    "5. Start today\n\nTake a dating profile you wrote yourself and run it through an AI detector. If you haven't, start there."
+  ],
+  "video_script": [
+    "47% of singles distrust AI in romance.",
+    "But 1 in 5 uses AI for profiles.",
+    "No one knows who's hiding AI help.",
+    "You now must ask: 'Did AI write this?'",
+    "Test your filter: can you spot the bot?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Trust in tatters\n\nMatch says 47% of US singles distrust AI in romance, yet 1 in 5 already uses it to write dating profiles.",
+        "2. The hidden helper\n\nNo one knows who hides AI help—creating new deception. You now must ask: 'Did AI write this message?'",
+        "3. Spot the bot\n\nTest your own filter: can you spot the bot? Over half of users can't tell real from fake.",
+        "4. Profile paradox\n\nUsing AI saves time but risks authenticity. Profiles written by AI get fewer matches when found out.",
+        "5. Start today\n\nTake a dating profile you wrote yourself and run it through an AI detector. If you haven't, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "47% of singles distrust AI in romance.",
+        "But 1 in 5 uses AI for profiles.",
+        "No one knows who's hiding AI help.",
+        "You now must ask: 'Did AI write this?'",
+        "Test your filter: can you spot the bot?"
+      ]
+    },
+    "instagram": {
+      "caption": "47% of US singles say they don't trust AI in romance, yet 1 in 5 already uses it to write dating profiles.\n\nMatch found that over half of users can't tell if a message or profile was written by a bot. No one knows who’s hiding AI help—creating a new kind of deception.\n\nNow, when you swipe or chat, you have to ask: “Did AI write this?”\n\nTake a profile you wrote yourself and run it through an AI detector. Can you spot the bot when it’s your own work? 🔍📱🤖"
+    }
+  },
+  "instagram_caption": "47% of US singles say they don't trust AI in romance, yet 1 in 5 already uses it to write dating profiles.\n\nMatch found that over half of users can't tell if a message or profile was written by a bot. No one knows who’s hiding AI help—creating a new kind of deception.\n\nNow, when you swipe or chat, you have to ask: “Did AI write this?”\n\nTake a profile you wrote yourself and run it through an AI detector. Can you spot the bot when it’s your own work? 🔍📱🤖",
+  "carousel_slides": [
+    {
+      "hook": "Can you trust a bot's love?",
+      "description": "47% of US singles distrust AI in romance, yet 1 in 5 uses it to write profiles.",
+      "visual_hint": "broken heart with question mark",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken heart icon"
+    },
+    {
+      "hook": "Hidden AI helpers deceive.",
+      "description": "No one knows who hides AI help—creating new deception in dating conversations.",
+      "visual_hint": "silhouette with robotic hand",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot hand silhouette",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Spot the bot or get fooled.",
+      "description": "Over half of users can't tell real from fake messages. Test your filter now.",
+      "visual_hint": "binary code over speech bubble",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "binary code speech bubble",
+      "image": "https://images.pexels.com/photos/7696118/pexels-photo-7696118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI profiles lose matches.",
+      "description": "Using AI saves time but risks authenticity—profiles written by AI get fewer matches when found.",
+      "visual_hint": "profile thumbnails with AI stamp",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "dating profile thumbnails",
+      "image": "https://images.pexels.com/photos/5911155/pexels-photo-5911155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test your profile.",
+      "description": "Run your dating profile through an AI detector. Start today to stay authentic.",
+      "visual_hint": "finger tapping smartphone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen tap",
+      "image": "https://images.pexels.com/photos/24263954/pexels-photo-24263954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1131615694.jpg?resize=1200,800",
+  "savedAt": "2026-06-19T03:30:22.963Z",
+  "sourceId": "0a368702d05681162f151745f93e6f48"
+}
