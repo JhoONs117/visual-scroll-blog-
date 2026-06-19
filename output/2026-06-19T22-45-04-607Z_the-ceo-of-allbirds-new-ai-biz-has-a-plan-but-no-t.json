@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+  "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+  "pubDate": "Fri, 19 Jun 2026 13:00:00 +0000",
+  "slides": [
+    "Can a sneaker CEO fix enterprise sales with AI?",
+    "He has a vision, but zero hires and no engineers.",
+    "Fortune 500 buyers are already testing his prototype.",
+    "You might get a working demo before his first employee.",
+    "Watch for his first hire — that is your signal."
+  ],
+  "thread_text": [
+    "1. Zero hires, live tests\n\nFortune 500 buyers already testing his prototype. He has no engineers yet.",
+    "2. The CEO angle\n\nHe's a sneaker CEO. Enterprise sales is a new game for him.",
+    "3. Prototype before team\n\nYou might get a working demo before his first employee joins.",
+    "4. The missing piece\n\nHe has a vision but no hires. That gap is the story now.",
+    "5. Your signal to act\n\nWatch for his first hire — that is your signal to evaluate the tech."
+  ],
+  "video_script": [
+    "Sneaker CEO builds AI for sales.",
+    "Zero hires, prototype already in testing.",
+    "Fortune 500 buyers are trying it now.",
+    "Demo may arrive before his first employee.",
+    "Watch for that first hire as signal."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Zero hires, live tests\n\nFortune 500 buyers already testing his prototype. He has no engineers yet.",
+        "2. The CEO angle\n\nHe's a sneaker CEO. Enterprise sales is a new game for him.",
+        "3. Prototype before team\n\nYou might get a working demo before his first employee joins.",
+        "4. The missing piece\n\nHe has a vision but no hires. That gap is the story now.",
+        "5. Your signal to act\n\nWatch for his first hire — that is your signal to evaluate the tech."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Sneaker CEO builds AI for sales.",
+        "Zero hires, prototype already in testing.",
+        "Fortune 500 buyers are trying it now.",
+        "Demo may arrive before his first employee.",
+        "Watch for that first hire as signal."
+      ]
+    },
+    "instagram": {
+      "caption": "Fortune 500 buyers are already testing an AI prototype built by a CEO who has zero engineers and zero hires.\n\nHe ran a sneaker company. Now he’s trying to fix enterprise sales. The product is working before the team exists.\n\nYou might get a working demo before his first employee joins. That’s how fast this moves.\n\nWatch for his first hire. That’s your signal to evaluate the tech. Is your plan still built on hiring — or on shipping? 👟📡⏱️"
+    }
+  },
+  "instagram_caption": "Fortune 500 buyers are already testing an AI prototype built by a CEO who has zero engineers and zero hires.\n\nHe ran a sneaker company. Now he’s trying to fix enterprise sales. The product is working before the team exists.\n\nYou might get a working demo before his first employee joins. That’s how fast this moves.\n\nWatch for his first hire. That’s your signal to evaluate the tech. Is your plan still built on hiring — or on shipping? 👟📡⏱️",
+  "carousel_slides": [
+    {
+      "hook": "Can a sneaker CEO close enterprise deals?",
+      "description": "He has zero hires and no engineers, yet Fortune 500 buyers are already testing his prototype.",
+      "visual_hint": "sneaker CEO in empty office",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "sneakers on desk"
+    },
+    {
+      "hook": "Vision without a team is risky bet.",
+      "description": "His enterprise sales prototype works, but he needs engineers to build the actual product.",
+      "visual_hint": "prototype screen with empty chair",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer screen code",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prototype ready, team zero.",
+      "description": "You might get a working demo before his first employee joins — that is a rare signal.",
+      "visual_hint": "demo button with magnifying glass",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone demo app",
+      "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The gap between vision and hires.",
+      "description": "No engineers yet, but Fortune 500 buyers already trust the prototype. That gap defines the story.",
+      "visual_hint": "gap between vision and people",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/12662877/pexels-photo-12662877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — watch his first hire.",
+      "description": "When he hires his first engineer, evaluate the tech. Follow to stay updated.",
+      "visual_hint": "watch icon plus hire signal",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office chair empty",
+      "image": "https://images.pexels.com/photos/9300769/pexels-photo-9300769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Nadia-Carlsten-HS.png?w=1024",
+  "savedAt": "2026-06-19T22:45:18.028Z",
+  "sourceId": "076b29791c7a33db9ea2b30ec28e11b4"
+}
