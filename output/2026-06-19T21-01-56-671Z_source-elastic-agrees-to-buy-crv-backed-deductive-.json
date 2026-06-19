@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "source-elastic-agrees-to-buy-crv-backed-deductive-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+  "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+  "pubDate": "Fri, 19 Jun 2026 00:51:11 +0000",
+  "slides": [
+    "Elastic just paid $85M for Deductive AI. Why?",
+    "Deductive AI built a reasoning engine for security data.",
+    "Elastic's main product is search, not reasoning engines.",
+    "Your future queries may now auto-diagnose attacks.",
+    "Test Deductive’s logic on your own incident logs today."
+  ],
+  "thread_text": [
+    "1. Why pay $85M for logic?\n\nElastic bought a reasoning engine for security data. No one does what Deductive AI does.",
+    "2. Search meets deduction.\n\nElastic's core is search. Now it injects automated diagnosis into queries.",
+    "3. Queries that think for you.\n\nFuture Elastic queries won't just return logs. They'll flag attacks mid-stream.",
+    "4. Attack auto-diagnosis.\n\nThat $85M buys a layer that turns raw events into actionable threat narratives.",
+    "5. Test it on your logs today.\n\nRun Deductive's logic against your own incident logs this week. What does it find?"
+  ],
+  "video_script": [
+    "Elastic just paid eighty-five million for Deductive AI.",
+    "They built a reasoning engine for security data.",
+    "But Elastic's main product is search, not reasoning.",
+    "Now future queries may auto-diagnose attacks.",
+    "Test Deductive's logic on your own logs today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why pay $85M for logic?\n\nElastic bought a reasoning engine for security data. No one does what Deductive AI does.",
+        "2. Search meets deduction.\n\nElastic's core is search. Now it injects automated diagnosis into queries.",
+        "3. Queries that think for you.\n\nFuture Elastic queries won't just return logs. They'll flag attacks mid-stream.",
+        "4. Attack auto-diagnosis.\n\nThat $85M buys a layer that turns raw events into actionable threat narratives.",
+        "5. Test it on your logs today.\n\nRun Deductive's logic against your own incident logs this week. What does it find?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Elastic just paid eighty-five million for Deductive AI.",
+        "They built a reasoning engine for security data.",
+        "But Elastic's main product is search, not reasoning.",
+        "Now future queries may auto-diagnose attacks.",
+        "Test Deductive's logic on your own logs today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next search query might diagnose a cyberattack mid-stream 🧠\n\nElastic just paid $85M for Deductive AI—a reasoning engine for security logs. Normal search returns data; this one flags attacks automatically in real time.\n\nThat means future Elastic queries won’t just find logs—they’ll tell you what they mean and what to do next.\n\nYou can test this logic on your own incident logs right now. What does it find hiding in your data? 🔍⚡"
+    }
+  },
+  "instagram_caption": "Your next search query might diagnose a cyberattack mid-stream 🧠\n\nElastic just paid $85M for Deductive AI—a reasoning engine for security logs. Normal search returns data; this one flags attacks automatically in real time.\n\nThat means future Elastic queries won’t just find logs—they’ll tell you what they mean and what to do next.\n\nYou can test this logic on your own incident logs right now. What does it find hiding in your data? 🔍⚡",
+  "carousel_slides": [
+    {
+      "hook": "Why pay $85M for logic?",
+      "description": "Elastic bought Deductive AI's reasoning engine, built specifically for security data — a move no competitor has made.",
+      "visual_hint": "Money stack with gear",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "money stack"
+    },
+    {
+      "hook": "Search meets deduction.",
+      "description": "Elastic's core is search. Now it injects automated diagnosis into queries, turning raw logs into threat narratives.",
+      "visual_hint": "Search bar merging brain",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Queries that think for you.",
+      "description": "Future queries won't just return logs — they'll flag attacks mid-stream, reducing response time to seconds.",
+      "visual_hint": "Fingerprint with magnifier",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Attack auto-diagnosis in real time.",
+      "description": "The $85M buys a layer that turns raw security events into actionable threat narratives automatically.",
+      "visual_hint": "Shield with question mark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "cybersecurity dashboard",
+      "image": "https://images.pexels.com/photos/5240543/pexels-photo-5240543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Deductive's logic on your logs.",
+      "description": "Run Deductive's reasoning engine against your own incident logs this week and see what it uncovers.",
+      "visual_hint": "Cursor clicking ‘Try Now’",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop on desk",
+      "image": "https://images.pexels.com/photos/20432916/pexels-photo-20432916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?resize=1200,760",
+  "savedAt": "2026-06-19T21:02:24.260Z",
+  "sourceId": "f7db370cf36fed58abc1eb772e299147"
+}

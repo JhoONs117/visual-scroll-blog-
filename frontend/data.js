@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "barret-zoph-is-out-at-openai-again-after-just-five",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Barret Zoph is out at OpenAI again after just five months",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+    "pubDate": "2026-06-19T04:49:33.000Z",
+    "slides": [
+      "Barret Zoph left OpenAI again—what changed in five months?",
+      "He rejoined in 2024 after a brief departure.",
+      "His exit came right before OpenAI's major model launch.",
+      "Your team's continuity depends on more than star hires.",
+      "Audit your own key person dependencies this quarter."
+    ],
+    "thread_text": [
+      "1. He left again.\n\nBarret Zoph rejoined OpenAI earlier in 2024, only to exit months later right before a major model launch.",
+      "2. What changed in five months.\n\nHis first departure was brief. The second one suggests deeper issues beyond timing.",
+      "3. Star hires don't guarantee stability.\n\nKey people can leave at critical moments, derailing your roadmap overnight.",
+      "4. Your team's continuity is fragile.\n\nIf one person's exit threatens a launch, your process has a hidden risk.",
+      "5. Audit your key person dependencies this quarter.\n\nList the one person whose departure would slow your next release. What's your backup?"
+    ],
+    "video_script": [
+      "Barret Zoph left OpenAI again.",
+      "He rejoined and then exited quickly.",
+      "It happened before a big launch.",
+      "Your team needs more than stars.",
+      "Audit your key person risks now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. He left again.\n\nBarret Zoph rejoined OpenAI earlier in 2024, only to exit months later right before a major model launch.",
+          "2. What changed in five months.\n\nHis first departure was brief. The second one suggests deeper issues beyond timing.",
+          "3. Star hires don't guarantee stability.\n\nKey people can leave at critical moments, derailing your roadmap overnight.",
+          "4. Your team's continuity is fragile.\n\nIf one person's exit threatens a launch, your process has a hidden risk.",
+          "5. Audit your key person dependencies this quarter.\n\nList the one person whose departure would slow your next release. What's your backup?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Barret Zoph left OpenAI again.",
+          "He rejoined and then exited quickly.",
+          "It happened before a big launch.",
+          "Your team needs more than stars.",
+          "Audit your key person risks now."
+        ]
+      },
+      "instagram": {
+        "caption": "Barret Zoph walked out of OpenAI again five months after rejoining.\n\nHe returned in 2024 from a brief exit, then left just before a major model launch. This second departure isn't about timing—it's about trust in your pipeline. One star hire can vanish before a release, taking your roadmap with them. ⏳\n\nIf you create or publish content, your next launch might hinge on one person you assume is staying. 🎭\n\nWho on your team could derail your next release by quitting tomorrow—and what’s your actual backup plan? ✍️"
+      }
+    },
+    "instagram_caption": "Barret Zoph walked out of OpenAI again five months after rejoining.\n\nHe returned in 2024 from a brief exit, then left just before a major model launch. This second departure isn't about timing—it's about trust in your pipeline. One star hire can vanish before a release, taking your roadmap with them. ⏳\n\nIf you create or publish content, your next launch might hinge on one person you assume is staying. 🎭\n\nWho on your team could derail your next release by quitting tomorrow—and what’s your actual backup plan? ✍️",
+    "carousel_slides": [
+      {
+        "hook": "One exit can crater your roadmap.",
+        "description": "Barret Zoph left OpenAI again just months after rejoining, right before a major model launch.",
+        "visual_hint": "empty office chair",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "office chair empty"
+      },
+      {
+        "hook": "He rejoined then left again—why?",
+        "description": "His first departure was brief; the second signals deeper issues beyond bad timing alone.",
+        "visual_hint": "calendar with red X",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "calendar red mark",
+        "image": "https://images.pexels.com/photos/7479755/pexels-photo-7479755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Star hires won't lock in your team.",
+        "description": "Key people can depart at critical moments, derailing your product launch overnight.",
+        "visual_hint": "falling dominoes",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "falling dominoes",
+        "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your continuity is more fragile than you think.",
+        "description": "If one person's exit threatens a launch, your process has a hidden vulnerability.",
+        "visual_hint": "single rope fraying",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "fraying rope",
+        "image": "https://images.pexels.com/photos/16819595/pexels-photo-16819595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your key dependencies this quarter.",
+        "description": "List the one person whose departure would slow your next release. Build a backup plan now.",
+        "visual_hint": "clipboard with checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "clipboard checklist",
+        "image": "https://images.pexels.com/photos/8978610/pexels-photo-8978610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-19T21:02:39.119Z",
+    "sourceId": "4b49eeba9a48a196fc8942aedb178106"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "source-elastic-agrees-to-buy-crv-backed-deductive-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+    "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "pubDate": "Fri, 19 Jun 2026 00:51:11 +0000",
+    "slides": [
+      "Elastic just paid $85M for Deductive AI. Why?",
+      "Deductive AI built a reasoning engine for security data.",
+      "Elastic's main product is search, not reasoning engines.",
+      "Your future queries may now auto-diagnose attacks.",
+      "Test Deductive’s logic on your own incident logs today."
+    ],
+    "thread_text": [
+      "1. Why pay $85M for logic?\n\nElastic bought a reasoning engine for security data. No one does what Deductive AI does.",
+      "2. Search meets deduction.\n\nElastic's core is search. Now it injects automated diagnosis into queries.",
+      "3. Queries that think for you.\n\nFuture Elastic queries won't just return logs. They'll flag attacks mid-stream.",
+      "4. Attack auto-diagnosis.\n\nThat $85M buys a layer that turns raw events into actionable threat narratives.",
+      "5. Test it on your logs today.\n\nRun Deductive's logic against your own incident logs this week. What does it find?"
+    ],
+    "video_script": [
+      "Elastic just paid eighty-five million for Deductive AI.",
+      "They built a reasoning engine for security data.",
+      "But Elastic's main product is search, not reasoning.",
+      "Now future queries may auto-diagnose attacks.",
+      "Test Deductive's logic on your own logs today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why pay $85M for logic?\n\nElastic bought a reasoning engine for security data. No one does what Deductive AI does.",
+          "2. Search meets deduction.\n\nElastic's core is search. Now it injects automated diagnosis into queries.",
+          "3. Queries that think for you.\n\nFuture Elastic queries won't just return logs. They'll flag attacks mid-stream.",
+          "4. Attack auto-diagnosis.\n\nThat $85M buys a layer that turns raw events into actionable threat narratives.",
+          "5. Test it on your logs today.\n\nRun Deductive's logic against your own incident logs this week. What does it find?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Elastic just paid eighty-five million for Deductive AI.",
+          "They built a reasoning engine for security data.",
+          "But Elastic's main product is search, not reasoning.",
+          "Now future queries may auto-diagnose attacks.",
+          "Test Deductive's logic on your own logs today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next search query might diagnose a cyberattack mid-stream 🧠\n\nElastic just paid $85M for Deductive AI—a reasoning engine for security logs. Normal search returns data; this one flags attacks automatically in real time.\n\nThat means future Elastic queries won’t just find logs—they’ll tell you what they mean and what to do next.\n\nYou can test this logic on your own incident logs right now. What does it find hiding in your data? 🔍⚡"
+      }
+    },
+    "instagram_caption": "Your next search query might diagnose a cyberattack mid-stream 🧠\n\nElastic just paid $85M for Deductive AI—a reasoning engine for security logs. Normal search returns data; this one flags attacks automatically in real time.\n\nThat means future Elastic queries won’t just find logs—they’ll tell you what they mean and what to do next.\n\nYou can test this logic on your own incident logs right now. What does it find hiding in your data? 🔍⚡",
+    "carousel_slides": [
+      {
+        "hook": "Why pay $85M for logic?",
+        "description": "Elastic bought Deductive AI's reasoning engine, built specifically for security data — a move no competitor has made.",
+        "visual_hint": "Money stack with gear",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "money stack"
+      },
+      {
+        "hook": "Search meets deduction.",
+        "description": "Elastic's core is search. Now it injects automated diagnosis into queries, turning raw logs into threat narratives.",
+        "visual_hint": "Search bar merging brain",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Queries that think for you.",
+        "description": "Future queries won't just return logs — they'll flag attacks mid-stream, reducing response time to seconds.",
+        "visual_hint": "Fingerprint with magnifier",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Attack auto-diagnosis in real time.",
+        "description": "The $85M buys a layer that turns raw security events into actionable threat narratives automatically.",
+        "visual_hint": "Shield with question mark",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cybersecurity dashboard",
+        "image": "https://images.pexels.com/photos/5240543/pexels-photo-5240543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Deductive's logic on your logs.",
+        "description": "Run Deductive's reasoning engine against your own incident logs this week and see what it uncovers.",
+        "visual_hint": "Cursor clicking ‘Try Now’",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop on desk",
+        "image": "https://images.pexels.com/photos/20432916/pexels-photo-20432916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?resize=1200,760",
+    "savedAt": "2026-06-19T21:02:24.260Z",
+    "sourceId": "f7db370cf36fed58abc1eb772e299147"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "every-fusion-startup-that-has-raised-over-100m",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Every fusion startup that has raised over $100M",
+    "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+    "pubDate": "Fri, 19 Jun 2026 16:50:58 +0000",
+    "slides": [
+      "Who is actually funding fusion energy's future?",
+      "Over a dozen startups have crossed $100M each.",
+      "Most rely on unproven magnetic or laser designs.",
+      "Your energy portfolio must track these now.",
+      "Map the funded ones before picking a bet."
+    ],
+    "thread_text": [
+      "Who’s really funding fusion?\n\nOver a dozen startups have each raised over $100 million.",
+      "Most designs still untested.\n\nMagnetic confinement and laser ignition remain unproven at scale.",
+      "Your portfolio is exposed.\n\nPublic equity funds already track these companies, whether you know it or not.",
+      "Map the funded networks.\n\nVisualize which investors back which designs before you bet.",
+      "Check your holdings now.\n\nMost fusion startups aren't public. Look up which VCs are in your fund's top ten."
+    ],
+    "video_script": [
+      "Who pays for fusion energy?",
+      "Twelve startups each raised a hundred million.",
+      "Magnetic and laser designs remain unproven.",
+      "Your portfolio already tracks these bets.",
+      "Map the funded ones before you pick."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Who’s really funding fusion?\n\nOver a dozen startups have each raised over $100 million.",
+          "Most designs still untested.\n\nMagnetic confinement and laser ignition remain unproven at scale.",
+          "Your portfolio is exposed.\n\nPublic equity funds already track these companies, whether you know it or not.",
+          "Map the funded networks.\n\nVisualize which investors back which designs before you bet.",
+          "Check your holdings now.\n\nMost fusion startups aren't public. Look up which VCs are in your fund's top ten."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Who pays for fusion energy?",
+          "Twelve startups each raised a hundred million.",
+          "Magnetic and laser designs remain unproven.",
+          "Your portfolio already tracks these bets.",
+          "Map the funded ones before you pick."
+        ]
+      },
+      "instagram": {
+        "caption": "Over a dozen fusion startups have each raised over $100 million, but most of their reactor designs are still untested at scale.\n\nPrivate money is flooding magnetic confinement and laser ignition concepts that have never produced net energy. Public equity funds already track these companies, whether you know it or not.\n\nCheck your portfolio’s top holdings. Most fusion startups aren’t public—look up which VCs your fund uses 🔍\n\nWhich unproven design is your retirement money backing right now? 💥⚡"
+      }
+    },
+    "instagram_caption": "Over a dozen fusion startups have each raised over $100 million, but most of their reactor designs are still untested at scale.\n\nPrivate money is flooding magnetic confinement and laser ignition concepts that have never produced net energy. Public equity funds already track these companies, whether you know it or not.\n\nCheck your portfolio’s top holdings. Most fusion startups aren’t public—look up which VCs your fund uses 🔍\n\nWhich unproven design is your retirement money backing right now? 💥⚡",
+    "carousel_slides": [
+      {
+        "hook": "Most fusion designs remain unproven.",
+        "description": "Over a dozen startups raised $100M+ each, but magnetic and laser tech is still untested at scale.",
+        "visual_hint": "Fusion reactor core glowing",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "fusion reactor core"
+      },
+      {
+        "hook": "Who's funding fusion's future?",
+        "description": "More than a dozen startups each raised over $100 million, yet their designs are still unproven.",
+        "visual_hint": "Stack of cash and logos",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "money stacks",
+        "image": "https://images.pexels.com/photos/6266699/pexels-photo-6266699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Magnetic or laser—untested at scale.",
+        "description": "Most designs rely on magnetic confinement or laser ignition, both unproven for commercial power.",
+        "visual_hint": "Laser beams hitting target",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "laser experiment",
+        "image": "https://images.pexels.com/photos/30983996/pexels-photo-30983996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your portfolio tracks them already.",
+        "description": "Public equity funds may hold these startups via VC exposure—check your top ten holdings.",
+        "visual_hint": "Stock chart with logos",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to map your bet.",
+        "description": "Check your fund's top ten VCs—most fusion startups aren't public yet.",
+        "visual_hint": "Finger pressing save button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone save button",
+        "image": "https://images.pexels.com/photos/6347725/pexels-photo-6347725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1455925032.jpg?resize=1200,675",
+    "savedAt": "2026-06-19T21:02:10.963Z",
+    "sourceId": "29e6f4e816a38caa4706140a8006c5fa"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "billionaire-ambani-wants-ai-in-every-call-app-and-",
     "prompt_version": "1.0.0",
     "status": "published",

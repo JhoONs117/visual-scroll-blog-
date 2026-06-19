@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "barret-zoph-is-out-at-openai-again-after-just-five",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Barret Zoph is out at OpenAI again after just five months",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+  "pubDate": "2026-06-19T04:49:33.000Z",
+  "slides": [
+    "Barret Zoph left OpenAI again—what changed in five months?",
+    "He rejoined in 2024 after a brief departure.",
+    "His exit came right before OpenAI's major model launch.",
+    "Your team's continuity depends on more than star hires.",
+    "Audit your own key person dependencies this quarter."
+  ],
+  "thread_text": [
+    "1. He left again.\n\nBarret Zoph rejoined OpenAI earlier in 2024, only to exit months later right before a major model launch.",
+    "2. What changed in five months.\n\nHis first departure was brief. The second one suggests deeper issues beyond timing.",
+    "3. Star hires don't guarantee stability.\n\nKey people can leave at critical moments, derailing your roadmap overnight.",
+    "4. Your team's continuity is fragile.\n\nIf one person's exit threatens a launch, your process has a hidden risk.",
+    "5. Audit your key person dependencies this quarter.\n\nList the one person whose departure would slow your next release. What's your backup?"
+  ],
+  "video_script": [
+    "Barret Zoph left OpenAI again.",
+    "He rejoined and then exited quickly.",
+    "It happened before a big launch.",
+    "Your team needs more than stars.",
+    "Audit your key person risks now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. He left again.\n\nBarret Zoph rejoined OpenAI earlier in 2024, only to exit months later right before a major model launch.",
+        "2. What changed in five months.\n\nHis first departure was brief. The second one suggests deeper issues beyond timing.",
+        "3. Star hires don't guarantee stability.\n\nKey people can leave at critical moments, derailing your roadmap overnight.",
+        "4. Your team's continuity is fragile.\n\nIf one person's exit threatens a launch, your process has a hidden risk.",
+        "5. Audit your key person dependencies this quarter.\n\nList the one person whose departure would slow your next release. What's your backup?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Barret Zoph left OpenAI again.",
+        "He rejoined and then exited quickly.",
+        "It happened before a big launch.",
+        "Your team needs more than stars.",
+        "Audit your key person risks now."
+      ]
+    },
+    "instagram": {
+      "caption": "Barret Zoph walked out of OpenAI again five months after rejoining.\n\nHe returned in 2024 from a brief exit, then left just before a major model launch. This second departure isn't about timing—it's about trust in your pipeline. One star hire can vanish before a release, taking your roadmap with them. ⏳\n\nIf you create or publish content, your next launch might hinge on one person you assume is staying. 🎭\n\nWho on your team could derail your next release by quitting tomorrow—and what’s your actual backup plan? ✍️"
+    }
+  },
+  "instagram_caption": "Barret Zoph walked out of OpenAI again five months after rejoining.\n\nHe returned in 2024 from a brief exit, then left just before a major model launch. This second departure isn't about timing—it's about trust in your pipeline. One star hire can vanish before a release, taking your roadmap with them. ⏳\n\nIf you create or publish content, your next launch might hinge on one person you assume is staying. 🎭\n\nWho on your team could derail your next release by quitting tomorrow—and what’s your actual backup plan? ✍️",
+  "carousel_slides": [
+    {
+      "hook": "One exit can crater your roadmap.",
+      "description": "Barret Zoph left OpenAI again just months after rejoining, right before a major model launch.",
+      "visual_hint": "empty office chair",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office chair empty"
+    },
+    {
+      "hook": "He rejoined then left again—why?",
+      "description": "His first departure was brief; the second signals deeper issues beyond bad timing alone.",
+      "visual_hint": "calendar with red X",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "calendar red mark",
+      "image": "https://images.pexels.com/photos/7479755/pexels-photo-7479755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Star hires won't lock in your team.",
+      "description": "Key people can depart at critical moments, derailing your product launch overnight.",
+      "visual_hint": "falling dominoes",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "falling dominoes",
+      "image": "https://images.pexels.com/photos/9760552/pexels-photo-9760552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your continuity is more fragile than you think.",
+      "description": "If one person's exit threatens a launch, your process has a hidden vulnerability.",
+      "visual_hint": "single rope fraying",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "fraying rope",
+      "image": "https://images.pexels.com/photos/16819595/pexels-photo-16819595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your key dependencies this quarter.",
+      "description": "List the one person whose departure would slow your next release. Build a backup plan now.",
+      "visual_hint": "clipboard with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/8978610/pexels-photo-8978610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-19T21:02:39.119Z",
+  "sourceId": "4b49eeba9a48a196fc8942aedb178106"
+}

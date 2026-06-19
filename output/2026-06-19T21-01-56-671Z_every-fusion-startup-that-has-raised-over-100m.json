@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "every-fusion-startup-that-has-raised-over-100m",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Every fusion startup that has raised over $100M",
+  "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+  "pubDate": "Fri, 19 Jun 2026 16:50:58 +0000",
+  "slides": [
+    "Who is actually funding fusion energy's future?",
+    "Over a dozen startups have crossed $100M each.",
+    "Most rely on unproven magnetic or laser designs.",
+    "Your energy portfolio must track these now.",
+    "Map the funded ones before picking a bet."
+  ],
+  "thread_text": [
+    "Who’s really funding fusion?\n\nOver a dozen startups have each raised over $100 million.",
+    "Most designs still untested.\n\nMagnetic confinement and laser ignition remain unproven at scale.",
+    "Your portfolio is exposed.\n\nPublic equity funds already track these companies, whether you know it or not.",
+    "Map the funded networks.\n\nVisualize which investors back which designs before you bet.",
+    "Check your holdings now.\n\nMost fusion startups aren't public. Look up which VCs are in your fund's top ten."
+  ],
+  "video_script": [
+    "Who pays for fusion energy?",
+    "Twelve startups each raised a hundred million.",
+    "Magnetic and laser designs remain unproven.",
+    "Your portfolio already tracks these bets.",
+    "Map the funded ones before you pick."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Who’s really funding fusion?\n\nOver a dozen startups have each raised over $100 million.",
+        "Most designs still untested.\n\nMagnetic confinement and laser ignition remain unproven at scale.",
+        "Your portfolio is exposed.\n\nPublic equity funds already track these companies, whether you know it or not.",
+        "Map the funded networks.\n\nVisualize which investors back which designs before you bet.",
+        "Check your holdings now.\n\nMost fusion startups aren't public. Look up which VCs are in your fund's top ten."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Who pays for fusion energy?",
+        "Twelve startups each raised a hundred million.",
+        "Magnetic and laser designs remain unproven.",
+        "Your portfolio already tracks these bets.",
+        "Map the funded ones before you pick."
+      ]
+    },
+    "instagram": {
+      "caption": "Over a dozen fusion startups have each raised over $100 million, but most of their reactor designs are still untested at scale.\n\nPrivate money is flooding magnetic confinement and laser ignition concepts that have never produced net energy. Public equity funds already track these companies, whether you know it or not.\n\nCheck your portfolio’s top holdings. Most fusion startups aren’t public—look up which VCs your fund uses 🔍\n\nWhich unproven design is your retirement money backing right now? 💥⚡"
+    }
+  },
+  "instagram_caption": "Over a dozen fusion startups have each raised over $100 million, but most of their reactor designs are still untested at scale.\n\nPrivate money is flooding magnetic confinement and laser ignition concepts that have never produced net energy. Public equity funds already track these companies, whether you know it or not.\n\nCheck your portfolio’s top holdings. Most fusion startups aren’t public—look up which VCs your fund uses 🔍\n\nWhich unproven design is your retirement money backing right now? 💥⚡",
+  "carousel_slides": [
+    {
+      "hook": "Most fusion designs remain unproven.",
+      "description": "Over a dozen startups raised $100M+ each, but magnetic and laser tech is still untested at scale.",
+      "visual_hint": "Fusion reactor core glowing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "fusion reactor core"
+    },
+    {
+      "hook": "Who's funding fusion's future?",
+      "description": "More than a dozen startups each raised over $100 million, yet their designs are still unproven.",
+      "visual_hint": "Stack of cash and logos",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "money stacks",
+      "image": "https://images.pexels.com/photos/6266699/pexels-photo-6266699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Magnetic or laser—untested at scale.",
+      "description": "Most designs rely on magnetic confinement or laser ignition, both unproven for commercial power.",
+      "visual_hint": "Laser beams hitting target",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "laser experiment",
+      "image": "https://images.pexels.com/photos/30983996/pexels-photo-30983996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your portfolio tracks them already.",
+      "description": "Public equity funds may hold these startups via VC exposure—check your top ten holdings.",
+      "visual_hint": "Stock chart with logos",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to map your bet.",
+      "description": "Check your fund's top ten VCs—most fusion startups aren't public yet.",
+      "visual_hint": "Finger pressing save button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone save button",
+      "image": "https://images.pexels.com/photos/6347725/pexels-photo-6347725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1455925032.jpg?resize=1200,675",
+  "savedAt": "2026-06-19T21:02:10.963Z",
+  "sourceId": "29e6f4e816a38caa4706140a8006c5fa"
+}
