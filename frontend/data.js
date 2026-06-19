@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "billionaire-ambani-wants-ai-in-every-call-app-and-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Billionaire Ambani wants AI in every call, app, and home",
+    "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "pubDate": "Fri, 19 Jun 2026 15:23:28 +0000",
+    "slides": [
+      "Ambani’s next bet: AI in every call you make?",
+      "He just bought a massive GPU cluster for telecom.",
+      "Not for cloud—your SIM card runs the model locally.",
+      "Your phone’s incoming calls will get real-time translation.",
+      "Test it yourself when Jio deploys the update next month."
+    ],
+    "thread_text": [
+      "1. Your SIM is the AI.\n\nJio just bought a massive GPU cluster, but it won't run in the cloud. The model will run directly on your SIM card.",
+      "2. No cloud, no delay.\n\nYour phone processes calls locally, not over the internet. That means real-time translation with zero latency.",
+      "3. Incoming calls get translated.\n\nEvery call you receive will be translated into your language instantly. No third-party app needed.",
+      "4. This is not an app update.\n\nJio is changing how the telecom network itself works. Your SIM becomes a tiny AI server.",
+      "5. Test it next month.\n\nBe on Jio's network when the update rolls out. Make a call to someone speaking a different language and see if the translation holds."
+    ],
+    "video_script": [
+      "Your SIM card becomes an AI server.",
+      "Jio bought massive GPUs for telecom.",
+      "No cloud, no delay on calls.",
+      "Incoming calls get real-time language translation.",
+      "Test it yourself next month."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your SIM is the AI.\n\nJio just bought a massive GPU cluster, but it won't run in the cloud. The model will run directly on your SIM card.",
+          "2. No cloud, no delay.\n\nYour phone processes calls locally, not over the internet. That means real-time translation with zero latency.",
+          "3. Incoming calls get translated.\n\nEvery call you receive will be translated into your language instantly. No third-party app needed.",
+          "4. This is not an app update.\n\nJio is changing how the telecom network itself works. Your SIM becomes a tiny AI server.",
+          "5. Test it next month.\n\nBe on Jio's network when the update rolls out. Make a call to someone speaking a different language and see if the translation holds."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your SIM card becomes an AI server.",
+          "Jio bought massive GPUs for telecom.",
+          "No cloud, no delay on calls.",
+          "Incoming calls get real-time language translation.",
+          "Test it yourself next month."
+        ]
+      },
+      "instagram": {
+        "caption": "Your SIM card is about to become an AI server. 📱\n\nReliance Jio bought a massive GPU cluster, but the model runs locally on your SIM—not the cloud. Every incoming call you get will be translated into your language in real time, with zero lag.\n\nNo app needed. Jio is rebuilding the telecom network itself. Your SIM acts as a tiny AI processor.\n\nFor creators, this means instant, built-in translation for any client call or content review—no third-party tool.\n\nWill your next business call come through in a language you don't speak?"
+      }
+    },
+    "instagram_caption": "Your SIM card is about to become an AI server. 📱\n\nReliance Jio bought a massive GPU cluster, but the model runs locally on your SIM—not the cloud. Every incoming call you get will be translated into your language in real time, with zero lag.\n\nNo app needed. Jio is rebuilding the telecom network itself. Your SIM acts as a tiny AI processor.\n\nFor creators, this means instant, built-in translation for any client call or content review—no third-party tool.\n\nWill your next business call come through in a language you don't speak?",
+    "carousel_slides": [
+      {
+        "hook": "Your SIM is the AI.",
+        "description": "Jio bought a massive GPU cluster, but the AI runs directly on your SIM card, not in the cloud.",
+        "visual_hint": "SIM card with AI chip",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "SIM card circuit board"
+      },
+      {
+        "hook": "No cloud, no delay.",
+        "description": "Your phone processes calls locally, enabling real-time translation with zero latency, no internet required.",
+        "visual_hint": "Phone screen with translation",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone translation app",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Incoming calls translated instantly.",
+        "description": "Every call you receive will be translated into your language without needing a third-party app.",
+        "visual_hint": "Call bubbles translating text",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "wireless call tower",
+        "image": "https://images.pexels.com/photos/10438211/pexels-photo-10438211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "This is not an app update.",
+        "description": "Jio is changing the telecom network itself, turning your SIM into a tiny AI server.",
+        "visual_hint": "Hand holding SIM card",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it next month.",
+        "description": "Be on Jio's network when the update rolls out and call someone speaking a different language.",
+        "visual_hint": "Calendar with update date",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar date reminder",
+        "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/reliance-mukesh-ambani.jpg?resize=1200,800",
+    "savedAt": "2026-06-19T19:28:12.227Z",
+    "sourceId": "e35040ffdf0875935841ee41a82d4589"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "sap-and-google-cloud-deploy-agentic-commerce-archi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "SAP and Google Cloud deploy agentic commerce architecture",
+    "link": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+    "pubDate": "Fri, 19 Jun 2026 14:02:20 +0000",
+    "slides": [
+      "Can SAP and Google Cloud finally automate your purchases?",
+      "They built a shared architecture for AI-driven commerce.",
+      "Orders start without any human approval or intervention.",
+      "You can now deploy self-negotiating supply chains tomorrow.",
+      "Test a single automated order cycle against your current flow."
+    ],
+    "thread_text": [
+      "1. Your boss just removed approvals\n\nSAP and Google Cloud built a shared architecture that lets purchase orders execute without any human sign-off.",
+      "2. The supply chain that negotiates\n\nYou can deploy self-negotiating supply chains tomorrow—no new software, just a config change.",
+      "3. One cycle is all it takes\n\nRun a single automated order cycle against your current flow and compare the latency.",
+      "4. Orders start themselves\n\nOrders begin without human intervention—the system decides when to buy, from whom, and at what price.",
+      "5. Will you test it this week?\n\nTake one routine purchase and set it to auto-negotiate. If it fails, kill it—if it saves time, scale it."
+    ],
+    "video_script": [
+      "SAP and Google Cloud automate purchasing.",
+      "Orders start with zero human approval.",
+      "You can deploy self-negotiating supply chains.",
+      "Test one cycle against your current flow.",
+      "Will you run that test this week?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your boss just removed approvals\n\nSAP and Google Cloud built a shared architecture that lets purchase orders execute without any human sign-off.",
+          "2. The supply chain that negotiates\n\nYou can deploy self-negotiating supply chains tomorrow—no new software, just a config change.",
+          "3. One cycle is all it takes\n\nRun a single automated order cycle against your current flow and compare the latency.",
+          "4. Orders start themselves\n\nOrders begin without human intervention—the system decides when to buy, from whom, and at what price.",
+          "5. Will you test it this week?\n\nTake one routine purchase and set it to auto-negotiate. If it fails, kill it—if it saves time, scale it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "SAP and Google Cloud automate purchasing.",
+          "Orders start with zero human approval.",
+          "You can deploy self-negotiating supply chains.",
+          "Test one cycle against your current flow.",
+          "Will you run that test this week?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your purchase orders just lost their human approval gate.\n\nSAP and Google Cloud built a shared AI architecture that lets orders start without a single person signing off. The system decides when to buy, from whom, and at what price. Supply chains can self-negotiate tomorrow with just a config change.\n\nFor anyone managing supply or procurement, the approval queue just became optional. One automated order cycle against your current flow shows the latency gap.\n\nWhat routine purchase will you let auto-negotiate this week?"
+      }
+    },
+    "instagram_caption": "Your purchase orders just lost their human approval gate.\n\nSAP and Google Cloud built a shared AI architecture that lets orders start without a single person signing off. The system decides when to buy, from whom, and at what price. Supply chains can self-negotiate tomorrow with just a config change.\n\nFor anyone managing supply or procurement, the approval queue just became optional. One automated order cycle against your current flow shows the latency gap.\n\nWhat routine purchase will you let auto-negotiate this week?",
+    "carousel_slides": [
+      {
+        "hook": "Your boss just removed approvals",
+        "description": "SAP and Google Cloud built a shared architecture that lets purchase orders execute without any human sign-off.",
+        "visual_hint": "automated purchase order dashboard",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room racks"
+      },
+      {
+        "hook": "The supply chain that negotiates",
+        "description": "You can deploy self-negotiating supply chains tomorrow with just a config change.",
+        "visual_hint": "supply chain negotiation network",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Orders start themselves now",
+        "description": "The system decides when to buy, from whom, and at what price without human intervention.",
+        "visual_hint": "automated order trigger sequence",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data center cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One cycle reveals the gap",
+        "description": "Run a single automated order cycle against your current flow and compare the latency.",
+        "visual_hint": "comparison chart cycle times",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one purchase this week",
+        "description": "Set one routine purchase to auto-negotiate—if it saves time, scale it.",
+        "visual_hint": "start button auto-negotiate",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels field",
+        "image": "https://images.pexels.com/photos/27637329/pexels-photo-27637329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-19T19:27:59.521Z",
+    "sourceId": "0d45745f806e555d423a9d70c77a2fa1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "e2e-assure-introduces-cumulo-the-u-k-s-only-sovere",
     "prompt_version": "1.0.0",
     "status": "published",

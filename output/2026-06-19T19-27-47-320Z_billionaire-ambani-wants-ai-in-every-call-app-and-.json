@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "billionaire-ambani-wants-ai-in-every-call-app-and-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Billionaire Ambani wants AI in every call, app, and home",
+  "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+  "pubDate": "Fri, 19 Jun 2026 15:23:28 +0000",
+  "slides": [
+    "Ambani’s next bet: AI in every call you make?",
+    "He just bought a massive GPU cluster for telecom.",
+    "Not for cloud—your SIM card runs the model locally.",
+    "Your phone’s incoming calls will get real-time translation.",
+    "Test it yourself when Jio deploys the update next month."
+  ],
+  "thread_text": [
+    "1. Your SIM is the AI.\n\nJio just bought a massive GPU cluster, but it won't run in the cloud. The model will run directly on your SIM card.",
+    "2. No cloud, no delay.\n\nYour phone processes calls locally, not over the internet. That means real-time translation with zero latency.",
+    "3. Incoming calls get translated.\n\nEvery call you receive will be translated into your language instantly. No third-party app needed.",
+    "4. This is not an app update.\n\nJio is changing how the telecom network itself works. Your SIM becomes a tiny AI server.",
+    "5. Test it next month.\n\nBe on Jio's network when the update rolls out. Make a call to someone speaking a different language and see if the translation holds."
+  ],
+  "video_script": [
+    "Your SIM card becomes an AI server.",
+    "Jio bought massive GPUs for telecom.",
+    "No cloud, no delay on calls.",
+    "Incoming calls get real-time language translation.",
+    "Test it yourself next month."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your SIM is the AI.\n\nJio just bought a massive GPU cluster, but it won't run in the cloud. The model will run directly on your SIM card.",
+        "2. No cloud, no delay.\n\nYour phone processes calls locally, not over the internet. That means real-time translation with zero latency.",
+        "3. Incoming calls get translated.\n\nEvery call you receive will be translated into your language instantly. No third-party app needed.",
+        "4. This is not an app update.\n\nJio is changing how the telecom network itself works. Your SIM becomes a tiny AI server.",
+        "5. Test it next month.\n\nBe on Jio's network when the update rolls out. Make a call to someone speaking a different language and see if the translation holds."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your SIM card becomes an AI server.",
+        "Jio bought massive GPUs for telecom.",
+        "No cloud, no delay on calls.",
+        "Incoming calls get real-time language translation.",
+        "Test it yourself next month."
+      ]
+    },
+    "instagram": {
+      "caption": "Your SIM card is about to become an AI server. 📱\n\nReliance Jio bought a massive GPU cluster, but the model runs locally on your SIM—not the cloud. Every incoming call you get will be translated into your language in real time, with zero lag.\n\nNo app needed. Jio is rebuilding the telecom network itself. Your SIM acts as a tiny AI processor.\n\nFor creators, this means instant, built-in translation for any client call or content review—no third-party tool.\n\nWill your next business call come through in a language you don't speak?"
+    }
+  },
+  "instagram_caption": "Your SIM card is about to become an AI server. 📱\n\nReliance Jio bought a massive GPU cluster, but the model runs locally on your SIM—not the cloud. Every incoming call you get will be translated into your language in real time, with zero lag.\n\nNo app needed. Jio is rebuilding the telecom network itself. Your SIM acts as a tiny AI processor.\n\nFor creators, this means instant, built-in translation for any client call or content review—no third-party tool.\n\nWill your next business call come through in a language you don't speak?",
+  "carousel_slides": [
+    {
+      "hook": "Your SIM is the AI.",
+      "description": "Jio bought a massive GPU cluster, but the AI runs directly on your SIM card, not in the cloud.",
+      "visual_hint": "SIM card with AI chip",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "SIM card circuit board"
+    },
+    {
+      "hook": "No cloud, no delay.",
+      "description": "Your phone processes calls locally, enabling real-time translation with zero latency, no internet required.",
+      "visual_hint": "Phone screen with translation",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone translation app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Incoming calls translated instantly.",
+      "description": "Every call you receive will be translated into your language without needing a third-party app.",
+      "visual_hint": "Call bubbles translating text",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "wireless call tower",
+      "image": "https://images.pexels.com/photos/10438211/pexels-photo-10438211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "This is not an app update.",
+      "description": "Jio is changing the telecom network itself, turning your SIM into a tiny AI server.",
+      "visual_hint": "Hand holding SIM card",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it next month.",
+      "description": "Be on Jio's network when the update rolls out and call someone speaking a different language.",
+      "visual_hint": "Calendar with update date",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar date reminder",
+      "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/reliance-mukesh-ambani.jpg?resize=1200,800",
+  "savedAt": "2026-06-19T19:28:12.227Z",
+  "sourceId": "e35040ffdf0875935841ee41a82d4589"
+}

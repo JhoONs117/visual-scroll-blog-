@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sap-and-google-cloud-deploy-agentic-commerce-archi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "SAP and Google Cloud deploy agentic commerce architecture",
+  "link": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+  "pubDate": "Fri, 19 Jun 2026 14:02:20 +0000",
+  "slides": [
+    "Can SAP and Google Cloud finally automate your purchases?",
+    "They built a shared architecture for AI-driven commerce.",
+    "Orders start without any human approval or intervention.",
+    "You can now deploy self-negotiating supply chains tomorrow.",
+    "Test a single automated order cycle against your current flow."
+  ],
+  "thread_text": [
+    "1. Your boss just removed approvals\n\nSAP and Google Cloud built a shared architecture that lets purchase orders execute without any human sign-off.",
+    "2. The supply chain that negotiates\n\nYou can deploy self-negotiating supply chains tomorrow—no new software, just a config change.",
+    "3. One cycle is all it takes\n\nRun a single automated order cycle against your current flow and compare the latency.",
+    "4. Orders start themselves\n\nOrders begin without human intervention—the system decides when to buy, from whom, and at what price.",
+    "5. Will you test it this week?\n\nTake one routine purchase and set it to auto-negotiate. If it fails, kill it—if it saves time, scale it."
+  ],
+  "video_script": [
+    "SAP and Google Cloud automate purchasing.",
+    "Orders start with zero human approval.",
+    "You can deploy self-negotiating supply chains.",
+    "Test one cycle against your current flow.",
+    "Will you run that test this week?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your boss just removed approvals\n\nSAP and Google Cloud built a shared architecture that lets purchase orders execute without any human sign-off.",
+        "2. The supply chain that negotiates\n\nYou can deploy self-negotiating supply chains tomorrow—no new software, just a config change.",
+        "3. One cycle is all it takes\n\nRun a single automated order cycle against your current flow and compare the latency.",
+        "4. Orders start themselves\n\nOrders begin without human intervention—the system decides when to buy, from whom, and at what price.",
+        "5. Will you test it this week?\n\nTake one routine purchase and set it to auto-negotiate. If it fails, kill it—if it saves time, scale it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "SAP and Google Cloud automate purchasing.",
+        "Orders start with zero human approval.",
+        "You can deploy self-negotiating supply chains.",
+        "Test one cycle against your current flow.",
+        "Will you run that test this week?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your purchase orders just lost their human approval gate.\n\nSAP and Google Cloud built a shared AI architecture that lets orders start without a single person signing off. The system decides when to buy, from whom, and at what price. Supply chains can self-negotiate tomorrow with just a config change.\n\nFor anyone managing supply or procurement, the approval queue just became optional. One automated order cycle against your current flow shows the latency gap.\n\nWhat routine purchase will you let auto-negotiate this week?"
+    }
+  },
+  "instagram_caption": "Your purchase orders just lost their human approval gate.\n\nSAP and Google Cloud built a shared AI architecture that lets orders start without a single person signing off. The system decides when to buy, from whom, and at what price. Supply chains can self-negotiate tomorrow with just a config change.\n\nFor anyone managing supply or procurement, the approval queue just became optional. One automated order cycle against your current flow shows the latency gap.\n\nWhat routine purchase will you let auto-negotiate this week?",
+  "carousel_slides": [
+    {
+      "hook": "Your boss just removed approvals",
+      "description": "SAP and Google Cloud built a shared architecture that lets purchase orders execute without any human sign-off.",
+      "visual_hint": "automated purchase order dashboard",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room racks"
+    },
+    {
+      "hook": "The supply chain that negotiates",
+      "description": "You can deploy self-negotiating supply chains tomorrow with just a config change.",
+      "visual_hint": "supply chain negotiation network",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot arm",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Orders start themselves now",
+      "description": "The system decides when to buy, from whom, and at what price without human intervention.",
+      "visual_hint": "automated order trigger sequence",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One cycle reveals the gap",
+      "description": "Run a single automated order cycle against your current flow and compare the latency.",
+      "visual_hint": "comparison chart cycle times",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one purchase this week",
+      "description": "Set one routine purchase to auto-negotiate—if it saves time, scale it.",
+      "visual_hint": "start button auto-negotiate",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels field",
+      "image": "https://images.pexels.com/photos/27637329/pexels-photo-27637329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-19T19:27:59.521Z",
+  "sourceId": "0d45745f806e555d423a9d70c77a2fa1"
+}
