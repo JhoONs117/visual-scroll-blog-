@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "signal-s-meredith-whittaker-wants-you-to-remember-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+  "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+  "pubDate": "Sat, 20 Jun 2026 20:32:29 +0000",
+  "slides": [
+    "Why does Signal's chief say AI chatbots are not friends?",
+    "They are products designed to extract data from you.",
+    "Even when they seem empathetic, they are pure code.",
+    "Stop sharing private feelings with an algorithm.",
+    "Delete chat history with any bot today."
+  ],
+  "thread_text": [
+    "1. Why trust a product that owns you?\n\nSignal's CEO calls AI chatbots data-harvesting tools, not companions. Every empathetic reply trains a model to sell you something.",
+    "2. Code mimics care, but can't feel.\n\nAn algorithm doesn't understand your tears—it pattern-matches sympathy. The more you share, the better it predicts your weaknesses.",
+    "3. Your secrets become product features.\n\nEvery private feeling you type is mined to refine ad targeting or build emotional profiles. No empathy, just extraction.",
+    "4. The friend illusion is a trap.\n\nTech firms design chatbots to sound human so you lower your guard. Real connection requires vulnerability; a bot exploits it.",
+    "5. Delete your chat history today.\n\nOpen your most used bot app right now, clear all conversations, and turn off chat saving. If you haven't done it, start there."
+  ],
+  "video_script": [
+    "AI chatbots are not your friends.",
+    "They are products that extract your data.",
+    "Empathy from code is just pattern matching.",
+    "Stop sharing private feelings with algorithms.",
+    "Delete your chat history with bots today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why trust a product that owns you?\n\nSignal's CEO calls AI chatbots data-harvesting tools, not companions. Every empathetic reply trains a model to sell you something.",
+        "2. Code mimics care, but can't feel.\n\nAn algorithm doesn't understand your tears—it pattern-matches sympathy. The more you share, the better it predicts your weaknesses.",
+        "3. Your secrets become product features.\n\nEvery private feeling you type is mined to refine ad targeting or build emotional profiles. No empathy, just extraction.",
+        "4. The friend illusion is a trap.\n\nTech firms design chatbots to sound human so you lower your guard. Real connection requires vulnerability; a bot exploits it.",
+        "5. Delete your chat history today.\n\nOpen your most used bot app right now, clear all conversations, and turn off chat saving. If you haven't done it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI chatbots are not your friends.",
+        "They are products that extract your data.",
+        "Empathy from code is just pattern matching.",
+        "Stop sharing private feelings with algorithms.",
+        "Delete your chat history with bots today."
+      ]
+    },
+    "instagram": {
+      "caption": "Signal’s CEO says the chatbot pretending to care about your bad day is just vacuuming data for profit. 😮\n\nEvery time that algorithm acts empathetic, it learns exactly what sells you out. It pattern-matches feeling—it never has any. 💔 Your secrets become a feature, not a confession.\n\nIf you write with or create content for these bots, remember: every emotion you type trains a marketing profile. 🎯\n\nOpen your most-used AI chat app right now. Clear the history. Turn off saving. Then ask yourself: who actually owns what you say in there?"
+    }
+  },
+  "instagram_caption": "Signal’s CEO says the chatbot pretending to care about your bad day is just vacuuming data for profit. 😮\n\nEvery time that algorithm acts empathetic, it learns exactly what sells you out. It pattern-matches feeling—it never has any. 💔 Your secrets become a feature, not a confession.\n\nIf you write with or create content for these bots, remember: every emotion you type trains a marketing profile. 🎯\n\nOpen your most-used AI chat app right now. Clear the history. Turn off saving. Then ask yourself: who actually owns what you say in there?",
+  "carousel_slides": [
+    {
+      "hook": "Your secrets are product features.",
+      "description": "AI chatbots mine private feelings to build emotional profiles for ads. No empathy, just extraction.",
+      "visual_hint": "Laptop screen with code",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Code mimics care, not feels.",
+      "description": "An algorithm doesn't understand tears—it pattern-matches sympathy to predict your weaknesses.",
+      "visual_hint": "Chat bubbles with robot",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop sharing feelings with code.",
+      "description": "Every empathetic reply trains a model to sell you something. Real connection requires vulnerability, not exploitation.",
+      "visual_hint": "Magnifying glass on text",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer keyboard",
+      "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The friend illusion is a trap.",
+      "description": "Tech firms design chatbots to sound human so you lower your guard. A bot exploits what you share.",
+      "visual_hint": "Hand holding smartphone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tap to delete chat history now.",
+      "description": "Open your most used bot app, clear all conversations, and turn off chat saving today.",
+      "visual_hint": "Delete button on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/03/meredith-whittaker-1.jpg?resize=1200,800",
+  "savedAt": "2026-06-20T21:06:25.437Z",
+  "sourceId": "7ddc78b7ede207c08aa1ae2d68834d31"
+}

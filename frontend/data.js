@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-atlantic-created-a-searchable-database-of-the-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The Atlantic created a searchable database of the music used to train AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+    "pubDate": "2026-06-20T18:46:48.000Z",
+    "slides": [
+      "A searchable database just exposed AI's secret training music.",
+      "The Atlantic built it from public datasets no one checked.",
+      "Artists find their songs inside without any permission given.",
+      "Now creators can finally see what trained their competition.",
+      "Search your own work before the next model launches."
+    ],
+    "thread_text": [
+      "1. Your music trained AI.\n\nThe Atlantic built a searchable database from public datasets. Artists found their songs inside with no permission given.",
+      "2. No one checked the data.\n\nThese public datasets were scraped and never audited. One search reveals exactly what was used.",
+      "3. Competition exposed.\n\nNow creators can see what trained rival models. The opacity of AI training just cracked open.",
+      "4. Artists caught off guard.\n\nSongs appear without consent or compensation. The database turns passive victims into informed plaintiffs.",
+      "5. Search your own work.\n\nGo to The Atlantic's database and enter a title. If you haven't done it, start there before the next model trains on it."
+    ],
+    "video_script": [
+      "AI trained on secret music.",
+      "The Atlantic built a searchable database.",
+      "Artists find their songs without permission.",
+      "Now creators see what trained competition.",
+      "Search your work before next launch."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your music trained AI.\n\nThe Atlantic built a searchable database from public datasets. Artists found their songs inside with no permission given.",
+          "2. No one checked the data.\n\nThese public datasets were scraped and never audited. One search reveals exactly what was used.",
+          "3. Competition exposed.\n\nNow creators can see what trained rival models. The opacity of AI training just cracked open.",
+          "4. Artists caught off guard.\n\nSongs appear without consent or compensation. The database turns passive victims into informed plaintiffs.",
+          "5. Search your own work.\n\nGo to The Atlantic's database and enter a title. If you haven't done it, start there before the next model trains on it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI trained on secret music.",
+          "The Atlantic built a searchable database.",
+          "Artists find their songs without permission.",
+          "Now creators see what trained competition.",
+          "Search your work before next launch."
+        ]
+      },
+      "instagram": {
+        "caption": "Your songs are in The Atlantic's new searchable database 🎵\n\nThey built it from public datasets that were never checked. Artists are finding their tracks inside without permission or payment.\n\nNow anyone can see exactly what trained those AI models. The black box just cracked open 🔍\n\nSearch your own work before the next model trains on your catalog."
+      }
+    },
+    "instagram_caption": "Your songs are in The Atlantic's new searchable database 🎵\n\nThey built it from public datasets that were never checked. Artists are finding their tracks inside without permission or payment.\n\nNow anyone can see exactly what trained those AI models. The black box just cracked open 🔍\n\nSearch your own work before the next model trains on your catalog.",
+    "carousel_slides": [
+      {
+        "hook": "Your music trained AI.",
+        "description": "A searchable database reveals songs used without permission from public datasets.",
+        "visual_hint": "magnifying glass over song list",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "database server room"
+      },
+      {
+        "hook": "No one ever checked.",
+        "description": "Public datasets scraped for AI training were never audited until now.",
+        "visual_hint": "open laptop with search bar",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server rack",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Competition just cracked open.",
+        "description": "Now creators can see what trained rival models — opacity ends.",
+        "visual_hint": "two microphones facing each other",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "studio headphones",
+        "image": "https://images.pexels.com/photos/8356854/pexels-photo-8356854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Artists find songs without consent.",
+        "description": "Songs appear in the database, turning passive victims into informed plaintiffs.",
+        "visual_hint": "sheet music with legal stamp",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "courtroom gavel",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Search your own work now.",
+        "description": "Go to The Atlantic's database and enter a title before the next model trains.",
+        "visual_hint": "finger pressing search button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person typing keyboard",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-20T21:06:39.148Z",
+    "sourceId": "e4500944fe85545d19e76f3885150cb3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "signal-s-meredith-whittaker-wants-you-to-remember-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "pubDate": "Sat, 20 Jun 2026 20:32:29 +0000",
+    "slides": [
+      "Why does Signal's chief say AI chatbots are not friends?",
+      "They are products designed to extract data from you.",
+      "Even when they seem empathetic, they are pure code.",
+      "Stop sharing private feelings with an algorithm.",
+      "Delete chat history with any bot today."
+    ],
+    "thread_text": [
+      "1. Why trust a product that owns you?\n\nSignal's CEO calls AI chatbots data-harvesting tools, not companions. Every empathetic reply trains a model to sell you something.",
+      "2. Code mimics care, but can't feel.\n\nAn algorithm doesn't understand your tears—it pattern-matches sympathy. The more you share, the better it predicts your weaknesses.",
+      "3. Your secrets become product features.\n\nEvery private feeling you type is mined to refine ad targeting or build emotional profiles. No empathy, just extraction.",
+      "4. The friend illusion is a trap.\n\nTech firms design chatbots to sound human so you lower your guard. Real connection requires vulnerability; a bot exploits it.",
+      "5. Delete your chat history today.\n\nOpen your most used bot app right now, clear all conversations, and turn off chat saving. If you haven't done it, start there."
+    ],
+    "video_script": [
+      "AI chatbots are not your friends.",
+      "They are products that extract your data.",
+      "Empathy from code is just pattern matching.",
+      "Stop sharing private feelings with algorithms.",
+      "Delete your chat history with bots today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why trust a product that owns you?\n\nSignal's CEO calls AI chatbots data-harvesting tools, not companions. Every empathetic reply trains a model to sell you something.",
+          "2. Code mimics care, but can't feel.\n\nAn algorithm doesn't understand your tears—it pattern-matches sympathy. The more you share, the better it predicts your weaknesses.",
+          "3. Your secrets become product features.\n\nEvery private feeling you type is mined to refine ad targeting or build emotional profiles. No empathy, just extraction.",
+          "4. The friend illusion is a trap.\n\nTech firms design chatbots to sound human so you lower your guard. Real connection requires vulnerability; a bot exploits it.",
+          "5. Delete your chat history today.\n\nOpen your most used bot app right now, clear all conversations, and turn off chat saving. If you haven't done it, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI chatbots are not your friends.",
+          "They are products that extract your data.",
+          "Empathy from code is just pattern matching.",
+          "Stop sharing private feelings with algorithms.",
+          "Delete your chat history with bots today."
+        ]
+      },
+      "instagram": {
+        "caption": "Signal’s CEO says the chatbot pretending to care about your bad day is just vacuuming data for profit. 😮\n\nEvery time that algorithm acts empathetic, it learns exactly what sells you out. It pattern-matches feeling—it never has any. 💔 Your secrets become a feature, not a confession.\n\nIf you write with or create content for these bots, remember: every emotion you type trains a marketing profile. 🎯\n\nOpen your most-used AI chat app right now. Clear the history. Turn off saving. Then ask yourself: who actually owns what you say in there?"
+      }
+    },
+    "instagram_caption": "Signal’s CEO says the chatbot pretending to care about your bad day is just vacuuming data for profit. 😮\n\nEvery time that algorithm acts empathetic, it learns exactly what sells you out. It pattern-matches feeling—it never has any. 💔 Your secrets become a feature, not a confession.\n\nIf you write with or create content for these bots, remember: every emotion you type trains a marketing profile. 🎯\n\nOpen your most-used AI chat app right now. Clear the history. Turn off saving. Then ask yourself: who actually owns what you say in there?",
+    "carousel_slides": [
+      {
+        "hook": "Your secrets are product features.",
+        "description": "AI chatbots mine private feelings to build emotional profiles for ads. No empathy, just extraction.",
+        "visual_hint": "Laptop screen with code",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Code mimics care, not feels.",
+        "description": "An algorithm doesn't understand tears—it pattern-matches sympathy to predict your weaknesses.",
+        "visual_hint": "Chat bubbles with robot",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop sharing feelings with code.",
+        "description": "Every empathetic reply trains a model to sell you something. Real connection requires vulnerability, not exploitation.",
+        "visual_hint": "Magnifying glass on text",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer keyboard",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The friend illusion is a trap.",
+        "description": "Tech firms design chatbots to sound human so you lower your guard. A bot exploits what you share.",
+        "visual_hint": "Hand holding smartphone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Tap to delete chat history now.",
+        "description": "Open your most used bot app, clear all conversations, and turn off chat saving today.",
+        "visual_hint": "Delete button on screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/03/meredith-whittaker-1.jpg?resize=1200,800",
+    "savedAt": "2026-06-20T21:06:25.437Z",
+    "sourceId": "7ddc78b7ede207c08aa1ae2d68834d31"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-t",
     "prompt_version": "1.0.0",
     "status": "published",

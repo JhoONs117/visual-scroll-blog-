@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-atlantic-created-a-searchable-database-of-the-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The Atlantic created a searchable database of the music used to train AI",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+  "pubDate": "2026-06-20T18:46:48.000Z",
+  "slides": [
+    "A searchable database just exposed AI's secret training music.",
+    "The Atlantic built it from public datasets no one checked.",
+    "Artists find their songs inside without any permission given.",
+    "Now creators can finally see what trained their competition.",
+    "Search your own work before the next model launches."
+  ],
+  "thread_text": [
+    "1. Your music trained AI.\n\nThe Atlantic built a searchable database from public datasets. Artists found their songs inside with no permission given.",
+    "2. No one checked the data.\n\nThese public datasets were scraped and never audited. One search reveals exactly what was used.",
+    "3. Competition exposed.\n\nNow creators can see what trained rival models. The opacity of AI training just cracked open.",
+    "4. Artists caught off guard.\n\nSongs appear without consent or compensation. The database turns passive victims into informed plaintiffs.",
+    "5. Search your own work.\n\nGo to The Atlantic's database and enter a title. If you haven't done it, start there before the next model trains on it."
+  ],
+  "video_script": [
+    "AI trained on secret music.",
+    "The Atlantic built a searchable database.",
+    "Artists find their songs without permission.",
+    "Now creators see what trained competition.",
+    "Search your work before next launch."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your music trained AI.\n\nThe Atlantic built a searchable database from public datasets. Artists found their songs inside with no permission given.",
+        "2. No one checked the data.\n\nThese public datasets were scraped and never audited. One search reveals exactly what was used.",
+        "3. Competition exposed.\n\nNow creators can see what trained rival models. The opacity of AI training just cracked open.",
+        "4. Artists caught off guard.\n\nSongs appear without consent or compensation. The database turns passive victims into informed plaintiffs.",
+        "5. Search your own work.\n\nGo to The Atlantic's database and enter a title. If you haven't done it, start there before the next model trains on it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI trained on secret music.",
+        "The Atlantic built a searchable database.",
+        "Artists find their songs without permission.",
+        "Now creators see what trained competition.",
+        "Search your work before next launch."
+      ]
+    },
+    "instagram": {
+      "caption": "Your songs are in The Atlantic's new searchable database 🎵\n\nThey built it from public datasets that were never checked. Artists are finding their tracks inside without permission or payment.\n\nNow anyone can see exactly what trained those AI models. The black box just cracked open 🔍\n\nSearch your own work before the next model trains on your catalog."
+    }
+  },
+  "instagram_caption": "Your songs are in The Atlantic's new searchable database 🎵\n\nThey built it from public datasets that were never checked. Artists are finding their tracks inside without permission or payment.\n\nNow anyone can see exactly what trained those AI models. The black box just cracked open 🔍\n\nSearch your own work before the next model trains on your catalog.",
+  "carousel_slides": [
+    {
+      "hook": "Your music trained AI.",
+      "description": "A searchable database reveals songs used without permission from public datasets.",
+      "visual_hint": "magnifying glass over song list",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "database server room"
+    },
+    {
+      "hook": "No one ever checked.",
+      "description": "Public datasets scraped for AI training were never audited until now.",
+      "visual_hint": "open laptop with search bar",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server rack",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Competition just cracked open.",
+      "description": "Now creators can see what trained rival models — opacity ends.",
+      "visual_hint": "two microphones facing each other",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "studio headphones",
+      "image": "https://images.pexels.com/photos/8356854/pexels-photo-8356854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Artists find songs without consent.",
+      "description": "Songs appear in the database, turning passive victims into informed plaintiffs.",
+      "visual_hint": "sheet music with legal stamp",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "courtroom gavel",
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Search your own work now.",
+      "description": "Go to The Atlantic's database and enter a title before the next model trains.",
+      "visual_hint": "finger pressing search button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-20T21:06:39.148Z",
+  "sourceId": "e4500944fe85545d19e76f3885150cb3"
+}
