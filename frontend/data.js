@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "beyond-siri-here-are-the-practical-ai-features-com",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "pubDate": "Sun, 21 Jun 2026 14:40:28 +0000",
+    "slides": [
+      "Your iPhone will soon predict what you need before you tap.",
+      "iOS 27 adds on-device AI for real-time language translation.",
+      "It can read your emails to draft replies without sending data.",
+      "You will now get proactive calendar suggestions from messages alone.",
+      "Test Siri's new offline mode to see your own privacy gains."
+    ],
+    "thread_text": [
+      "1. Your iPhone already knows.\n\nApple’s on-device AI scans your messages to draft replies — without ever sending data to the cloud.",
+      "2. Real-time translation, zero lag.\n\niOS 27 processes language locally, so your iPhone translates calls instantly, even without internet.",
+      "3. Your calendar reads texts.\n\nProactive suggestions pop up from message content alone — flights, dinners, deadlines — no manual entry needed.",
+      "4. Offline Siri, full privacy.\n\nTest the new offline mode: Siri responds locally, and your speech never leaves the device.",
+      "5. Try this on your iPhone today.\n\nOpen Settings, tap Siri & Search, and enable Offline Mode. What data did you just keep private?"
+    ],
+    "video_script": [
+      "Your iPhone predicts what you need before you tap.",
+      "On-device AI translates calls in real time.",
+      "It drafts replies from your emails locally.",
+      "Calendar suggestions come straight from messages.",
+      "Test offline Siri — see your privacy gains."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your iPhone already knows.\n\nApple’s on-device AI scans your messages to draft replies — without ever sending data to the cloud.",
+          "2. Real-time translation, zero lag.\n\niOS 27 processes language locally, so your iPhone translates calls instantly, even without internet.",
+          "3. Your calendar reads texts.\n\nProactive suggestions pop up from message content alone — flights, dinners, deadlines — no manual entry needed.",
+          "4. Offline Siri, full privacy.\n\nTest the new offline mode: Siri responds locally, and your speech never leaves the device.",
+          "5. Try this on your iPhone today.\n\nOpen Settings, tap Siri & Search, and enable Offline Mode. What data did you just keep private?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your iPhone predicts what you need before you tap.",
+          "On-device AI translates calls in real time.",
+          "It drafts replies from your emails locally.",
+          "Calendar suggestions come straight from messages.",
+          "Test offline Siri — see your privacy gains."
+        ]
+      },
+      "instagram": {
+        "caption": "Your iPhone will soon finish your sentences by scanning your messages on-device — no data ever leaves your hand. 📱\n\niOS 27 translates calls in real-time without internet. Your calendar reads texts to auto-suggest flights or deadlines. Siri works fully offline, keeping your speech private.\n\nFor you as a creator: drafts appear from email content alone, cutting reply time and eliminating cloud risk.\n\nOpen Settings, tap Siri & Search, enable Offline Mode — what message data just stayed local on your phone? 🔒"
+      }
+    },
+    "instagram_caption": "Your iPhone will soon finish your sentences by scanning your messages on-device — no data ever leaves your hand. 📱\n\niOS 27 translates calls in real-time without internet. Your calendar reads texts to auto-suggest flights or deadlines. Siri works fully offline, keeping your speech private.\n\nFor you as a creator: drafts appear from email content alone, cutting reply time and eliminating cloud risk.\n\nOpen Settings, tap Siri & Search, enable Offline Mode — what message data just stayed local on your phone? 🔒",
+    "carousel_slides": [
+      {
+        "hook": "Your iPhone reads your emails.",
+        "description": "iOS 27 drafts replies on-device, so your data never leaves the phone.",
+        "visual_hint": "iPhone screen with email draft",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "iPhone email inbox"
+      },
+      {
+        "hook": "Translate calls without internet.",
+        "description": "On-device AI translates languages instantly and locally, even offline.",
+        "visual_hint": "Two people talking with text overlay",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "translation app interface",
+        "image": "https://images.pexels.com/photos/6322506/pexels-photo-6322506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your calendar knows your messages.",
+        "description": "Proactive suggestions from texts add flights and dinners automatically.",
+        "visual_hint": "Calendar with message bubbles",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "calendar event notification",
+        "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Siri works completely offline now.",
+        "description": "Test offline mode: speech processing stays on your device for full privacy.",
+        "visual_hint": "Siri icon with no signal bar",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "Siri interface phone",
+        "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to try it later.",
+        "description": "Open Settings, tap Siri & Search, and enable Offline Mode right now.",
+        "visual_hint": "Settings menu highlighting Offline Mode",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "iPhone settings menu",
+        "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-iphone-GettyImages-2234563479.jpg?w=1024",
+    "savedAt": "2026-06-21T15:46:39.042Z",
+    "sourceId": "b893e7b70421ec96f52c3865084a2fae"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-atlantic-created-a-searchable-database-of-the-",
     "prompt_version": "1.0.0",
     "status": "published",
