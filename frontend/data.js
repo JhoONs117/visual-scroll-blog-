@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "google-deepmind-bets-75m-on-ai-s-future-in-hollywo",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+    "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+    "pubDate": "Mon, 22 Jun 2026 18:49:44 +0000",
+    "slides": [
+      "Can an AI studio win over Hollywood?",
+      "DeepMind just paid $75M for A24 access.",
+      "A24 usually shuns tech—they said no twice before.",
+      "You'll see AI-generated storyboards in upcoming films.",
+      "Watch how A24's first AI-assisted trailer feels."
+    ],
+    "thread_text": [
+      "1. Hollywood’s new deal\n\nDeepMind paid $75M just to access A24’s catalog. That’s the price of a single film budget for some studios.",
+      "2. Twice denied\n\nA24 rejected tech partnerships twice before. This time they opened the door—only after DeepMind wrote a check.",
+      "3. The AI storyboard\n\nDirectors will soon use AI-generated storyboards in upcoming A24 films. No more sketches on napkins.",
+      "4. Watch the trailer\n\nA24’s first AI-assisted trailer is already out. See how it feels before you judge the deal.",
+      "5. Test it yourself\n\nTake a scene from your favorite film and run it through Midjourney or Runway. Would you trust the output?"
+    ],
+    "video_script": [
+      "DeepMind paid 75 million for A24 access.",
+      "A24 said no twice before.",
+      "Now AI generates storyboards for films.",
+      "Watch their first AI-assisted trailer now.",
+      "Test AI on your favorite film scene."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Hollywood’s new deal\n\nDeepMind paid $75M just to access A24’s catalog. That’s the price of a single film budget for some studios.",
+          "2. Twice denied\n\nA24 rejected tech partnerships twice before. This time they opened the door—only after DeepMind wrote a check.",
+          "3. The AI storyboard\n\nDirectors will soon use AI-generated storyboards in upcoming A24 films. No more sketches on napkins.",
+          "4. Watch the trailer\n\nA24’s first AI-assisted trailer is already out. See how it feels before you judge the deal.",
+          "5. Test it yourself\n\nTake a scene from your favorite film and run it through Midjourney or Runway. Would you trust the output?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "DeepMind paid 75 million for A24 access.",
+          "A24 said no twice before.",
+          "Now AI generates storyboards for films.",
+          "Watch their first AI-assisted trailer now.",
+          "Test AI on your favorite film scene."
+        ]
+      },
+      "instagram": {
+        "caption": "A24 finally sold access to its film catalog to Google DeepMind for $75 million — after saying no twice. 🎬\n\nThis isn't about making movies from scratch. The deal buys DeepMind the right to study A24's visual style and use it to generate storyboards for upcoming films. No more napkin sketches for directors. ✍️\n\nThe first AI-assisted trailer is already out — and it feels like A24, not like a robot. That changes the standard your audience will expect. 🤔\n\nTake one scene from your last video project. Run it through Runway. Would your clients call that \"your style\" or \"cheating\"?"
+      }
+    },
+    "instagram_caption": "A24 finally sold access to its film catalog to Google DeepMind for $75 million — after saying no twice. 🎬\n\nThis isn't about making movies from scratch. The deal buys DeepMind the right to study A24's visual style and use it to generate storyboards for upcoming films. No more napkin sketches for directors. ✍️\n\nThe first AI-assisted trailer is already out — and it feels like A24, not like a robot. That changes the standard your audience will expect. 🤔\n\nTake one scene from your last video project. Run it through Runway. Would your clients call that \"your style\" or \"cheating\"?",
+    "carousel_slides": [
+      {
+        "hook": "AI just bought a seat in Hollywood.",
+        "description": "DeepMind paid $75M for access to A24's catalog—the price of one big-budget film.",
+        "visual_hint": "Hollywood sign at sunset",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Hollywood sign"
+      },
+      {
+        "hook": "A24 said no twice before.",
+        "description": "They rejected tech partnerships twice. DeepMind's check finally opened the door.",
+        "visual_hint": "Two crossed out checkmarks",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "rejection stamp",
+        "image": "https://images.pexels.com/photos/3838318/pexels-photo-3838318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI storyboards replace napkin sketches.",
+        "description": "Directors will use AI-generated storyboards in upcoming A24 films.",
+        "visual_hint": "Digital storyboard on tablet",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "tablet storyboard",
+        "image": "https://images.pexels.com/photos/36305682/pexels-photo-36305682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "A24's first AI-assisted trailer is out.",
+        "description": "Watch how it feels before you judge the deal.",
+        "visual_hint": "Film clapperboard with A24 logo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "film clapperboard",
+        "image": "https://images.pexels.com/photos/9809835/pexels-photo-9809835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test AI on your favorite scene now.",
+        "description": "Run a scene through Midjourney or Runway. Would you trust the output?",
+        "visual_hint": "AI animation frame sequence",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer AI animation",
+        "image": "https://images.pexels.com/photos/30530402/pexels-photo-30530402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2252299302.jpg?w=1024",
+    "savedAt": "2026-06-22T23:15:05.804Z",
+    "sourceId": "2eba6f3aeae10ca4ebf3adda1f96e051"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "the-ai-world-is-getting-loopy-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The AI world is getting ‘loopy’",
+    "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+    "pubDate": "Mon, 22 Jun 2026 20:53:11 +0000",
+    "slides": [
+      "What happens when AI loops on itself?",
+      "Looping amplifies reasoning but risks collapse.",
+      "One wrong step can create infinite nonsense.",
+      "Your next query might never reach an answer.",
+      "Test loop limits before trusting any output."
+    ],
+    "thread_text": [
+      "1. What happens when AI loops on itself?\n\nA single model generating its own training data can amplify mistakes by 40 percent each cycle.",
+      "2. Loops sharpen reasoning first.\n\nEarly iterations mimic human refinement. But the model has no external check—so it drifts toward its own blind spots.",
+      "3. One wrong step creates infinite nonsense.\n\nAfter a few cycles, the output can become grammatically perfect gibberish with zero factual anchor. The model doesn't know it's lost.",
+      "4. Your next query might never reach an answer.\n\nSelf-referential loops consume context windows without resolving the original request. The assistant appears to think forever, then stalls.",
+      "5. Test loop limits before trusting any output.\n\nRun the same prompt three times in a row. If the third answer contradicts the first, assume instability. Would you bet a decision on that?"
+    ],
+    "video_script": [
+      "AI loops itself, reasoning gets sharp.",
+      "Then it drifts into blind repetition.",
+      "One mistake, output turns to nonsense.",
+      "Your next query may never finish.",
+      "Test loop limits before you trust."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What happens when AI loops on itself?\n\nA single model generating its own training data can amplify mistakes by 40 percent each cycle.",
+          "2. Loops sharpen reasoning first.\n\nEarly iterations mimic human refinement. But the model has no external check—so it drifts toward its own blind spots.",
+          "3. One wrong step creates infinite nonsense.\n\nAfter a few cycles, the output can become grammatically perfect gibberish with zero factual anchor. The model doesn't know it's lost.",
+          "4. Your next query might never reach an answer.\n\nSelf-referential loops consume context windows without resolving the original request. The assistant appears to think forever, then stalls.",
+          "5. Test loop limits before trusting any output.\n\nRun the same prompt three times in a row. If the third answer contradicts the first, assume instability. Would you bet a decision on that?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI loops itself, reasoning gets sharp.",
+          "Then it drifts into blind repetition.",
+          "One mistake, output turns to nonsense.",
+          "Your next query may never finish.",
+          "Test loop limits before you trust."
+        ]
+      },
+      "instagram": {
+        "caption": "A single model generating its own training data can amplify mistakes by 40 percent each cycle 🔁.\n\nEarly loops may sharpen reasoning, but without an external check, the model drifts into blind spots. After a few cycles, it produces grammatically perfect nonsense—no factual anchor, and it doesn't know it's lost.\n\nFor anyone publishing content: if you rely on AI for research or drafts, looping can quietly turn your output into airtight gibberish.\n\n📝 Run the same prompt three times. If the third answer contradicts the first, would you still bet your next post on it?"
+      }
+    },
+    "instagram_caption": "A single model generating its own training data can amplify mistakes by 40 percent each cycle 🔁.\n\nEarly loops may sharpen reasoning, but without an external check, the model drifts into blind spots. After a few cycles, it produces grammatically perfect nonsense—no factual anchor, and it doesn't know it's lost.\n\nFor anyone publishing content: if you rely on AI for research or drafts, looping can quietly turn your output into airtight gibberish.\n\n📝 Run the same prompt three times. If the third answer contradicts the first, would you still bet your next post on it?",
+    "carousel_slides": [
+      {
+        "hook": "One wrong step creates infinite nonsense.",
+        "description": "A single model generating its own training data can amplify mistakes by 40 percent each cycle.",
+        "visual_hint": "feedback loop spiral",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "feedback loop spiral"
+      },
+      {
+        "hook": "Loops sharpen reasoning first.",
+        "description": "Early iterations mimic human refinement, but no external check lets the model drift toward its blind spots.",
+        "visual_hint": "spiral with sharp edges",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "ai model training curve",
+        "image": "https://images.pexels.com/photos/33379416/pexels-photo-33379416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "After cycles, output becomes perfect gibberish.",
+        "description": "Grammatically flawless but factually empty—the model doesn't know it's lost.",
+        "visual_hint": "gibberish text on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer screen text",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your query might never reach an answer.",
+        "description": "Self-referential loops consume context windows without resolving the request—the assistant stalls forever.",
+        "visual_hint": "looping arrow path",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "server room cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test loop limits before trusting output.",
+        "description": "Run the same prompt three times—if third contradicts first, assume instability.",
+        "visual_hint": "three checkmarks inconsistent",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "AI output inconsistency",
+        "image": "https://images.pexels.com/photos/30530402/pexels-photo-30530402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-3.44.39-PM.jpg?resize=1200,676",
+    "savedAt": "2026-06-22T23:14:51.061Z",
+    "sourceId": "f811b25fbf9d0fc9db797f8d3f6ee192"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "polymarket-reportedly-paid-creators-to-post-decept",
     "prompt_version": "1.0.0",
     "status": "published",

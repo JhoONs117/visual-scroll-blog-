@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ai-world-is-getting-loopy-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The AI world is getting ‘loopy’",
+  "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+  "pubDate": "Mon, 22 Jun 2026 20:53:11 +0000",
+  "slides": [
+    "What happens when AI loops on itself?",
+    "Looping amplifies reasoning but risks collapse.",
+    "One wrong step can create infinite nonsense.",
+    "Your next query might never reach an answer.",
+    "Test loop limits before trusting any output."
+  ],
+  "thread_text": [
+    "1. What happens when AI loops on itself?\n\nA single model generating its own training data can amplify mistakes by 40 percent each cycle.",
+    "2. Loops sharpen reasoning first.\n\nEarly iterations mimic human refinement. But the model has no external check—so it drifts toward its own blind spots.",
+    "3. One wrong step creates infinite nonsense.\n\nAfter a few cycles, the output can become grammatically perfect gibberish with zero factual anchor. The model doesn't know it's lost.",
+    "4. Your next query might never reach an answer.\n\nSelf-referential loops consume context windows without resolving the original request. The assistant appears to think forever, then stalls.",
+    "5. Test loop limits before trusting any output.\n\nRun the same prompt three times in a row. If the third answer contradicts the first, assume instability. Would you bet a decision on that?"
+  ],
+  "video_script": [
+    "AI loops itself, reasoning gets sharp.",
+    "Then it drifts into blind repetition.",
+    "One mistake, output turns to nonsense.",
+    "Your next query may never finish.",
+    "Test loop limits before you trust."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What happens when AI loops on itself?\n\nA single model generating its own training data can amplify mistakes by 40 percent each cycle.",
+        "2. Loops sharpen reasoning first.\n\nEarly iterations mimic human refinement. But the model has no external check—so it drifts toward its own blind spots.",
+        "3. One wrong step creates infinite nonsense.\n\nAfter a few cycles, the output can become grammatically perfect gibberish with zero factual anchor. The model doesn't know it's lost.",
+        "4. Your next query might never reach an answer.\n\nSelf-referential loops consume context windows without resolving the original request. The assistant appears to think forever, then stalls.",
+        "5. Test loop limits before trusting any output.\n\nRun the same prompt three times in a row. If the third answer contradicts the first, assume instability. Would you bet a decision on that?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI loops itself, reasoning gets sharp.",
+        "Then it drifts into blind repetition.",
+        "One mistake, output turns to nonsense.",
+        "Your next query may never finish.",
+        "Test loop limits before you trust."
+      ]
+    },
+    "instagram": {
+      "caption": "A single model generating its own training data can amplify mistakes by 40 percent each cycle 🔁.\n\nEarly loops may sharpen reasoning, but without an external check, the model drifts into blind spots. After a few cycles, it produces grammatically perfect nonsense—no factual anchor, and it doesn't know it's lost.\n\nFor anyone publishing content: if you rely on AI for research or drafts, looping can quietly turn your output into airtight gibberish.\n\n📝 Run the same prompt three times. If the third answer contradicts the first, would you still bet your next post on it?"
+    }
+  },
+  "instagram_caption": "A single model generating its own training data can amplify mistakes by 40 percent each cycle 🔁.\n\nEarly loops may sharpen reasoning, but without an external check, the model drifts into blind spots. After a few cycles, it produces grammatically perfect nonsense—no factual anchor, and it doesn't know it's lost.\n\nFor anyone publishing content: if you rely on AI for research or drafts, looping can quietly turn your output into airtight gibberish.\n\n📝 Run the same prompt three times. If the third answer contradicts the first, would you still bet your next post on it?",
+  "carousel_slides": [
+    {
+      "hook": "One wrong step creates infinite nonsense.",
+      "description": "A single model generating its own training data can amplify mistakes by 40 percent each cycle.",
+      "visual_hint": "feedback loop spiral",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "feedback loop spiral"
+    },
+    {
+      "hook": "Loops sharpen reasoning first.",
+      "description": "Early iterations mimic human refinement, but no external check lets the model drift toward its blind spots.",
+      "visual_hint": "spiral with sharp edges",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "ai model training curve",
+      "image": "https://images.pexels.com/photos/33379416/pexels-photo-33379416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "After cycles, output becomes perfect gibberish.",
+      "description": "Grammatically flawless but factually empty—the model doesn't know it's lost.",
+      "visual_hint": "gibberish text on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer screen text",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your query might never reach an answer.",
+      "description": "Self-referential loops consume context windows without resolving the request—the assistant stalls forever.",
+      "visual_hint": "looping arrow path",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test loop limits before trusting output.",
+      "description": "Run the same prompt three times—if third contradicts first, assume instability.",
+      "visual_hint": "three checkmarks inconsistent",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "AI output inconsistency",
+      "image": "https://images.pexels.com/photos/30530402/pexels-photo-30530402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-3.44.39-PM.jpg?resize=1200,676",
+  "savedAt": "2026-06-22T23:14:51.061Z",
+  "sourceId": "f811b25fbf9d0fc9db797f8d3f6ee192"
+}
