@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "a-new-unpatchable-flaw-in-apple-chips-opens-the-do",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak ",
+  "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
+  "pubDate": "Mon, 22 Jun 2026 18:50:24 +0000",
+  "slides": [
+    "Could a new flaw unlock your locked iPhone?",
+    "A hardware bug in Apple’s latest chips is unpatchable.",
+    "No software update can fix this—only a new chip.",
+    "Your device may be jailbreakable even after updates.",
+    "Assume your iPhone is vulnerable until Apple changes silicon."
+  ],
+  "thread_text": [
+    "Your iPhone is already broken.\n\nA hardware bug in Apple’s latest chips is unpatchable. No software update can fix it—only a new chip.",
+    "Why updates won't save you.\n\nEvery iOS update you install leaves the same flaw untouched. Attackers can exploit it even after you’ve applied the latest patch.",
+    "Jailbreak without a trace.\n\nThis bug lets anyone with code execution break the security model permanently. Your device may be jailbreakable even after updates.",
+    "The silicon trap.\n\nApple can’t recall millions of devices. The only fix is a future chip generation—meaning every A17 and M3 unit stays vulnerable.",
+    "Assume your iPhone is vulnerable until Apple changes silicon. Test it: try a known proof-of-concept demo. Have you checked your chip model yet?"
+  ],
+  "video_script": [
+    "A bug lives in your iPhone chip.",
+    "It cannot be patched by software.",
+    "Hackers can jailbreak your device forever.",
+    "Only a new chip can fix it.",
+    "Assume you are vulnerable right now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Your iPhone is already broken.\n\nA hardware bug in Apple’s latest chips is unpatchable. No software update can fix it—only a new chip.",
+        "Why updates won't save you.\n\nEvery iOS update you install leaves the same flaw untouched. Attackers can exploit it even after you’ve applied the latest patch.",
+        "Jailbreak without a trace.\n\nThis bug lets anyone with code execution break the security model permanently. Your device may be jailbreakable even after updates.",
+        "The silicon trap.\n\nApple can’t recall millions of devices. The only fix is a future chip generation—meaning every A17 and M3 unit stays vulnerable.",
+        "Assume your iPhone is vulnerable until Apple changes silicon. Test it: try a known proof-of-concept demo. Have you checked your chip model yet?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A bug lives in your iPhone chip.",
+        "It cannot be patched by software.",
+        "Hackers can jailbreak your device forever.",
+        "Only a new chip can fix it.",
+        "Assume you are vulnerable right now."
+      ]
+    },
+    "instagram": {
+      "caption": "Your iPhone has a hardware bug in its latest chip that no software update can ever fix 🔒\n\nApple’s A17 and M3 chips contain an unpatchable flaw. Every iOS update you install leaves the same security hole wide open. Attackers can jailbreak your device permanently—even after you've applied the latest patch 🛠️\n\nIf you create or publish content on an iPhone, your device’s security model is broken until Apple ships new silicon.\n\nHave you checked your chip model yet?"
+    }
+  },
+  "instagram_caption": "Your iPhone has a hardware bug in its latest chip that no software update can ever fix 🔒\n\nApple’s A17 and M3 chips contain an unpatchable flaw. Every iOS update you install leaves the same security hole wide open. Attackers can jailbreak your device permanently—even after you've applied the latest patch 🛠️\n\nIf you create or publish content on an iPhone, your device’s security model is broken until Apple ships new silicon.\n\nHave you checked your chip model yet?",
+  "carousel_slides": [
+    {
+      "hook": "Your iPhone is already broken.",
+      "description": "A hardware bug in Apple's latest chips is unpatchable. No software update can fix it—only a new chip.",
+      "visual_hint": "cracked iPhone screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken iPhone screen"
+    },
+    {
+      "hook": "Why updates won't save you.",
+      "description": "Every iOS update leaves the same flaw untouched. Attackers can exploit it even after you apply the latest patch.",
+      "visual_hint": "update notification fails",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "iPhone update screen",
+      "image": "https://images.pexels.com/photos/30639090/pexels-photo-30639090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Jailbreak without a trace.",
+      "description": "This bug lets anyone with code execution break the security model permanently. Your device stays jailbreakable after updates.",
+      "visual_hint": "lock icon breaking",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken padlock icon",
+      "image": "https://images.pexels.com/photos/13115085/pexels-photo-13115085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The silicon trap is permanent.",
+      "description": "Apple can't recall millions of devices. Only a future chip generation fixes it—every A17 and M3 unit stays vulnerable.",
+      "visual_hint": "microchip with crack",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "microchip closeup",
+      "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your chip model now.",
+      "description": "Go to Settings > General > About and see if you have an A17 or M3 chip. If yes, assume vulnerability.",
+      "visual_hint": "finger tapping settings",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "iPhone settings menu",
+      "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+  "savedAt": "2026-06-22T19:19:10.135Z",
+  "sourceId": "b075fdd3e2064f179b4ebea0f2ffb556"
+}

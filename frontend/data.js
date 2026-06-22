@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "a-new-unpatchable-flaw-in-apple-chips-opens-the-do",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak ",
+    "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
+    "pubDate": "Mon, 22 Jun 2026 18:50:24 +0000",
+    "slides": [
+      "Could a new flaw unlock your locked iPhone?",
+      "A hardware bug in Apple’s latest chips is unpatchable.",
+      "No software update can fix this—only a new chip.",
+      "Your device may be jailbreakable even after updates.",
+      "Assume your iPhone is vulnerable until Apple changes silicon."
+    ],
+    "thread_text": [
+      "Your iPhone is already broken.\n\nA hardware bug in Apple’s latest chips is unpatchable. No software update can fix it—only a new chip.",
+      "Why updates won't save you.\n\nEvery iOS update you install leaves the same flaw untouched. Attackers can exploit it even after you’ve applied the latest patch.",
+      "Jailbreak without a trace.\n\nThis bug lets anyone with code execution break the security model permanently. Your device may be jailbreakable even after updates.",
+      "The silicon trap.\n\nApple can’t recall millions of devices. The only fix is a future chip generation—meaning every A17 and M3 unit stays vulnerable.",
+      "Assume your iPhone is vulnerable until Apple changes silicon. Test it: try a known proof-of-concept demo. Have you checked your chip model yet?"
+    ],
+    "video_script": [
+      "A bug lives in your iPhone chip.",
+      "It cannot be patched by software.",
+      "Hackers can jailbreak your device forever.",
+      "Only a new chip can fix it.",
+      "Assume you are vulnerable right now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Your iPhone is already broken.\n\nA hardware bug in Apple’s latest chips is unpatchable. No software update can fix it—only a new chip.",
+          "Why updates won't save you.\n\nEvery iOS update you install leaves the same flaw untouched. Attackers can exploit it even after you’ve applied the latest patch.",
+          "Jailbreak without a trace.\n\nThis bug lets anyone with code execution break the security model permanently. Your device may be jailbreakable even after updates.",
+          "The silicon trap.\n\nApple can’t recall millions of devices. The only fix is a future chip generation—meaning every A17 and M3 unit stays vulnerable.",
+          "Assume your iPhone is vulnerable until Apple changes silicon. Test it: try a known proof-of-concept demo. Have you checked your chip model yet?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A bug lives in your iPhone chip.",
+          "It cannot be patched by software.",
+          "Hackers can jailbreak your device forever.",
+          "Only a new chip can fix it.",
+          "Assume you are vulnerable right now."
+        ]
+      },
+      "instagram": {
+        "caption": "Your iPhone has a hardware bug in its latest chip that no software update can ever fix 🔒\n\nApple’s A17 and M3 chips contain an unpatchable flaw. Every iOS update you install leaves the same security hole wide open. Attackers can jailbreak your device permanently—even after you've applied the latest patch 🛠️\n\nIf you create or publish content on an iPhone, your device’s security model is broken until Apple ships new silicon.\n\nHave you checked your chip model yet?"
+      }
+    },
+    "instagram_caption": "Your iPhone has a hardware bug in its latest chip that no software update can ever fix 🔒\n\nApple’s A17 and M3 chips contain an unpatchable flaw. Every iOS update you install leaves the same security hole wide open. Attackers can jailbreak your device permanently—even after you've applied the latest patch 🛠️\n\nIf you create or publish content on an iPhone, your device’s security model is broken until Apple ships new silicon.\n\nHave you checked your chip model yet?",
+    "carousel_slides": [
+      {
+        "hook": "Your iPhone is already broken.",
+        "description": "A hardware bug in Apple's latest chips is unpatchable. No software update can fix it—only a new chip.",
+        "visual_hint": "cracked iPhone screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "broken iPhone screen"
+      },
+      {
+        "hook": "Why updates won't save you.",
+        "description": "Every iOS update leaves the same flaw untouched. Attackers can exploit it even after you apply the latest patch.",
+        "visual_hint": "update notification fails",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "iPhone update screen",
+        "image": "https://images.pexels.com/photos/30639090/pexels-photo-30639090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Jailbreak without a trace.",
+        "description": "This bug lets anyone with code execution break the security model permanently. Your device stays jailbreakable after updates.",
+        "visual_hint": "lock icon breaking",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "broken padlock icon",
+        "image": "https://images.pexels.com/photos/13115085/pexels-photo-13115085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The silicon trap is permanent.",
+        "description": "Apple can't recall millions of devices. Only a future chip generation fixes it—every A17 and M3 unit stays vulnerable.",
+        "visual_hint": "microchip with crack",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "microchip closeup",
+        "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your chip model now.",
+        "description": "Go to Settings > General > About and see if you have an A17 or M3 chip. If yes, assume vulnerability.",
+        "visual_hint": "finger tapping settings",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "iPhone settings menu",
+        "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+    "savedAt": "2026-06-22T19:19:10.135Z",
+    "sourceId": "b075fdd3e2064f179b4ebea0f2ffb556"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "mitigating-vendor-lock-in-with-sakana-ai-fugu-mult",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
+    "link": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
+    "pubDate": "Mon, 22 Jun 2026 16:11:21 +0000",
+    "slides": [
+      "Can one AI trap your entire stack?",
+      "Sakana Fugu orchestrates multiple specialist agents.",
+      "No single vendor owns your model's reasoning path.",
+      "Swap any agent module without rebuilding your pipeline.",
+      "Test Fugu against your current single-vendor system now."
+    ],
+    "thread_text": [
+      "1. Can one AI trap your stack?\n\nSakana Fugu orchestrates multiple specialist agents into a single reasoning path.",
+      "2. No single vendor owns your model's reasoning path.\n\nYour pipeline is no longer locked into one provider's logic from start to finish.",
+      "3. Swap any agent module without rebuilding.\n\nReplace a vision model or a coder agent mid-stream — the rest keeps running.",
+      "4. Why would you bet your system on one vendor?\n\nTest Fugu against your current single-vendor system and see where the logic breaks.",
+      "5. Simulate your pipeline with Fugu today.\n\nTake one multi-step reasoning task you run now and swap in a specialist agent. Does it hold up?"
+    ],
+    "video_script": [
+      "One AI can trap your whole stack.",
+      "Fugu runs multiple specialists together.",
+      "No vendor locks your reasoning path.",
+      "Swap any agent without rebuilding.",
+      "Test Fugu against your single vendor."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can one AI trap your stack?\n\nSakana Fugu orchestrates multiple specialist agents into a single reasoning path.",
+          "2. No single vendor owns your model's reasoning path.\n\nYour pipeline is no longer locked into one provider's logic from start to finish.",
+          "3. Swap any agent module without rebuilding.\n\nReplace a vision model or a coder agent mid-stream — the rest keeps running.",
+          "4. Why would you bet your system on one vendor?\n\nTest Fugu against your current single-vendor system and see where the logic breaks.",
+          "5. Simulate your pipeline with Fugu today.\n\nTake one multi-step reasoning task you run now and swap in a specialist agent. Does it hold up?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "One AI can trap your whole stack.",
+          "Fugu runs multiple specialists together.",
+          "No vendor locks your reasoning path.",
+          "Swap any agent without rebuilding.",
+          "Test Fugu against your single vendor."
+        ]
+      },
+      "instagram": {
+        "caption": "Your entire AI pipeline could be held hostage by one model. 🚨\n\nSakana AI's Fugu system strings together multiple specialist agents—so no single vendor owns your reasoning path. Swap a vision module or a coder mid-stream without rebuilding the whole pipeline.\n\nFor anyone building content with AI, that means you can replace a weak model without scrapping your workflow or getting locked into one provider's logic.\n\nWhat's the one task in your stack where a specialist agent would outperform your current all-in-one? 🔄"
+      }
+    },
+    "instagram_caption": "Your entire AI pipeline could be held hostage by one model. 🚨\n\nSakana AI's Fugu system strings together multiple specialist agents—so no single vendor owns your reasoning path. Swap a vision module or a coder mid-stream without rebuilding the whole pipeline.\n\nFor anyone building content with AI, that means you can replace a weak model without scrapping your workflow or getting locked into one provider's logic.\n\nWhat's the one task in your stack where a specialist agent would outperform your current all-in-one? 🔄",
+    "carousel_slides": [
+      {
+        "hook": "Is one AI trapping your stack?",
+        "description": "Relying on a single vendor locks your entire pipeline into one provider's logic.",
+        "visual_hint": "Funnel with chain link",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server rack locked data center"
+      },
+      {
+        "hook": "Multiple agents, one reasoning path.",
+        "description": "Sakana Fugu orchestrates specialist agents so no single vendor owns your model's logic.",
+        "visual_hint": "Network nodes linked",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "network cables server room",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Swap agents without rebuilding pipelines.",
+        "description": "Replace a vision model mid-stream — the rest keeps running smoothly.",
+        "visual_hint": "Puzzle piece being swapped",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "solar panel array",
+        "image": "https://images.pexels.com/photos/9893729/pexels-photo-9893729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Fugu against your current system.",
+        "description": "Simulate a multi-step reasoning task with specialist agents and see where single-vendor logic breaks.",
+        "visual_hint": "Broken chain link",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory robot arm assembly",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Swap in a specialist agent today.",
+        "description": "Take one reasoning task and test it with Fugu — visit the link in bio to start.",
+        "visual_hint": "Arrow pointing to link",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-22T19:18:57.389Z",
+    "sourceId": "15ef7d1be15d56c86f06d72db2dd0125"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "seedcamp-raises-320m-for-its-new-fund-to-expand-it",
     "prompt_version": "1.0.0",
     "status": "published",
