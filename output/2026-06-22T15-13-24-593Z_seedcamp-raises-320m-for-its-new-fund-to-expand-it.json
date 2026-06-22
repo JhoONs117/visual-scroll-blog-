@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "seedcamp-raises-320m-for-its-new-fund-to-expand-it",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Seedcamp raises $320M for its new fund to expand its US footprint",
+  "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
+  "pubDate": "Mon, 22 Jun 2026 13:37:25 +0000",
+  "slides": [
+    "Seedcamp raised $320M for a new fund. But why now?",
+    "The firm has historically been a European-only investor.",
+    "Most of the capital will go to US-based startups instead.",
+    "European founders now face direct competition for its attention.",
+    "Check if Seedcamp is still an option for your geography."
+  ],
+  "thread_text": [
+    "1. Why now?\n\nSeedcamp just raised $320M—but most of that cash is leaving Europe.",
+    "2. The shift\n\nFor 16 years, Seedcamp only backed European startups. Its new fund changes that.",
+    "3. US first\n\nMore than half the capital will go to American companies. European founders get less attention.",
+    "4. The squeeze\n\nYou now compete with US founders for Seedcamp’s time and money. Higher bar to stand out.",
+    "5. Your move\n\nCheck Seedcamp’s current portfolio by geography. If you're in Europe, ask: am I still on their radar?"
+  ],
+  "video_script": [
+    "Seedcamp raised $320 million.",
+    "But most of it leaves Europe.",
+    "European founders now compete with Americans.",
+    "Attention and money shift across the Atlantic.",
+    "Check Seedcamp's geography rules today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why now?\n\nSeedcamp just raised $320M—but most of that cash is leaving Europe.",
+        "2. The shift\n\nFor 16 years, Seedcamp only backed European startups. Its new fund changes that.",
+        "3. US first\n\nMore than half the capital will go to American companies. European founders get less attention.",
+        "4. The squeeze\n\nYou now compete with US founders for Seedcamp’s time and money. Higher bar to stand out.",
+        "5. Your move\n\nCheck Seedcamp’s current portfolio by geography. If you're in Europe, ask: am I still on their radar?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Seedcamp raised $320 million.",
+        "But most of it leaves Europe.",
+        "European founders now compete with Americans.",
+        "Attention and money shift across the Atlantic.",
+        "Check Seedcamp's geography rules today."
+      ]
+    },
+    "instagram": {
+      "caption": "Seedcamp just raised $320M, but over half of that new capital is earmarked for US startups, not European ones. 🇪🇺➡️🇺🇸\n\nFor 16 years, it only backed European founders. This new fund flips that strategy entirely. Most of the money—and attention—will now cross the Atlantic.\n\nIf you’re a European founder, you are now competing directly with US companies for Seedcamp’s time and cash. The bar just got higher for you to get noticed.\n\nIs your geography working for or against you in their current portfolio?"
+    }
+  },
+  "instagram_caption": "Seedcamp just raised $320M, but over half of that new capital is earmarked for US startups, not European ones. 🇪🇺➡️🇺🇸\n\nFor 16 years, it only backed European founders. This new fund flips that strategy entirely. Most of the money—and attention—will now cross the Atlantic.\n\nIf you’re a European founder, you are now competing directly with US companies for Seedcamp’s time and cash. The bar just got higher for you to get noticed.\n\nIs your geography working for or against you in their current portfolio?",
+  "carousel_slides": [
+    {
+      "hook": "Europe lost its fund, US wins.",
+      "description": "Seedcamp raised $320M, but most capital now targets American startups, shifting focus away from Europe.",
+      "visual_hint": "Globe with arrow to US",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "world map arrows"
+    },
+    {
+      "hook": "16 years of Europe, now pivoting.",
+      "description": "For 16 years Seedcamp backed only European startups. The new fund breaks that tradition, prioritizing US companies.",
+      "visual_hint": "Old map, new direction",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "europe map old",
+      "image": "https://images.pexels.com/photos/35269760/pexels-photo-35269760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "More than half goes to US.",
+      "description": "Most of the $320M will fund American startups. European founders now compete harder for less attention.",
+      "visual_hint": "Pie chart US majority",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "pie chart money",
+      "image": "https://images.pexels.com/photos/7948072/pexels-photo-7948072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Compete with US founders now.",
+      "description": "European founders face direct competition from US startups for Seedcamp's time and capital. Bar is higher.",
+      "visual_hint": "Tug of war rope",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "tug of war",
+      "image": "https://images.pexels.com/photos/13112196/pexels-photo-13112196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your geography still funded?",
+      "description": "Check Seedcamp's current portfolio by geography. If European, verify you're still on their radar now.",
+      "visual_hint": "Checkmark on globe",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checkmark world map",
+      "image": "https://images.pexels.com/photos/4406813/pexels-photo-4406813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Seedcamp.jpg?resize=1200,800",
+  "savedAt": "2026-06-22T15:13:37.344Z",
+  "sourceId": "62e4118bf13ede2221394df199e6cde7"
+}

@@ -2,6 +2,228 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "insalata-di-patate-fagiolini-tonno-e-uova",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Insalata di patate, fagiolini, tonno e uova",
+    "link": "https://ricette.giallozafferano.it/Insalata-di-patate-fagiolini-tonno-e-uova.html",
+    "pubDate": "Mon, 22 Jun 2026 12:03:00 +0200",
+    "content": "Insalata di patate fagiolini tonno e uova: ricetta estiva facile Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Insalate Insalata di patate, fagiolini, tonno e uova /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA 470,7 Calorie per porzione Energia Kcal 470,7 Carboidrati g 42 &nbsp;&nbsp;di cui zuccheri g 5,8 Proteine g 38,5 Grassi g 16,9 &nbsp;&nbsp;di cui saturi g 3,7 Fibre g 7,3 Colesterolo mg 220,4 Sodio mg 558 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza glutine Senza lattosio Dieta Mediterranea Difficoltà: Facile Preparazione: 20 min Cottura: 25 min Dosi per: 4 persone Costo: Medio PRESENTAZIONE L' insalata di patate, fagiolini, tonno e uova è il piatto unico fresco e nutriente che non può mancare nei vostri menu dell'estate . Questa ricetta, ricca e colorata, unisce ingredienti semplici e genuini in un connubio di sapori perfetto per le calde giornate estive, che combina alla perfezione la delicatezza di patate e fagiolini con il sapore deciso di uova sode e tonno. Si tratta di un' insalata facile da preparare e incredibilmente pratica: potete cucinarla in anticipo e conservarla comodamente in frigo, così da averla subito pronta all'occorrenza per un pranzo leggero in famiglia, una cena veloce dopo il mare o una schiscetta sfiziosa da portare in ufficio. Provate altre sfiziose ricette di insalate di patate : Insalata pantesca Insalata di patate e tonno Insalata di patate, mozzarelline e pomodorini Insalata di patate al verde Insalata di patate e zucchine Potato, Green Beans, Tuna and Egg Salad INGREDIENTI 470,7 Calorie per porzione Patate 750 g Fagiolini 500 g Tonno sott'olio 350 g Uova 4 Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare l'Insalata di patate, fagiolini, tonno e uova Per preparare l'insalata di patate, fagiolini, tonno e uova, per prima cosa occupatevi dei fagiolini. Spuntateli 1 e, se sono lunghi, tagliateli in 2-3 parti 2 . Sbollentateli in acqua salata per circa 10 minuti 3 . Nel frattempo sbucciate 4 e tagliate le patate a pezzi irregolari 5 . Scolate i fagiolini mantenendo l'acqua di cottura 6 . Trasferiteli in una ciotola con acqua e ghiaccio e lasciate raffreddare 7 . Nella stessa pentola in cui avete cotto i fagiolini, versate le patate e cuocetele per circa 10-15 minuti 8 , in base alla grandezza delle patate. Scolatele con una schiumarola 9 . Ora ponete le uova a bollire in un pentolino con acqua fredda 10 . Una volta che l'acqua prende il bollore, cuocete per 8 – 10 minuti. Nel frattempo le patate saranno cotte, scolatele in una ciotola e lasciatele raffreddare 11 . Scolate anche le uova e sbucciatele ancora calde 12 . Tagliate a spicchi le uova sode 13 . In una ciotola capiente versate i fagiolini, patate 14 e il tonno 15 . Unite anche le uova 16 e condite con pepe 17 e sale 18 . Infine, insaporite con l'olio 19 e mescolate per amalgamare 20 . L'insalata di patate, fagiolini, tonno e uova è pronta per essere servita 21 . Conservazione L'insalata di patate, fagiolini, tonno e uova si può conservare in frigo per 1-2 giorni. Consiglio Potete preparare questa ricetta con qualche ora di anticipo e conservarla in frigorifero fino al momento di portarla in tavola perché il riposo permetterà alle patate e ai fagiolini di assorbire alla perfezione il condimento rendendo il piatto ancora più saporito e fresco. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Fagiolini Patate Tonno Olio di oliva Uovo Scopri tutto sugli ingredienti Presente in: Piatti freddi STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Piselli e tonno in padella Gelato al limone senza gelatiera con 3 ingredienti 5.0 Insalata di patate, fagiolini, tonno e uova 5.0 SCOPRI Insalata di fagiolini Insalata di fagiolini e patate Fagiolini e patate Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Insalata estiva di patate, fagiolini, tonno e uova",
+      "Patate, fagiolini, tonno, uova, olio, sale, pepe",
+      "Spunta i fagiolini e taglia le patate",
+      "Cuoci patate e fagiolini, poi unisci tonno e uova",
+      "Lascia riposare in frigo per più sapore"
+    ],
+    "instagram_caption": "La regina delle insalate estive è servita. 🥔🥚  \nPatate dolci lessate, fagiolini croccanti, tonno sfilacciato e uova sode: un classico che sa di casa e di sole. Lascio il tutto a riposare in frigo almeno un’oretta e il sapore diventa pazzesco.  \nFresca, facile, perfetta. Provala questo weekend 🌿",
+    "formats": {
+      "instagram": {
+        "caption": "La regina delle insalate estive è servita. 🥔🥚  \nPatate dolci lessate, fagiolini croccanti, tonno sfilacciato e uova sode: un classico che sa di casa e di sole. Lascio il tutto a riposare in frigo almeno un’oretta e il sapore diventa pazzesco.  \nFresca, facile, perfetta. Provala questo weekend 🌿"
+      },
+      "tiktok": {
+        "script": [
+          "Preparo l'insalata estiva di patate.",
+          "Patate, fagiolini, tonno e uova.",
+          "Spunto i fagiolini e taglio le patate.",
+          "Cuocio tutto e aggiungo tonno e uova.",
+          "Lo lascio in frigo, esplode di sapore."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Quando il caldo ti abbatte ma vuoi un piatto che sa di pieno. Patate, fagiolini, tonno e uova: il trionfo dell’insalata estiva che ti salva la cena. 🥗",
+          "La lista è corta: patate a tocchetti, fagiolini spuntati, tonno sott’olio, uova sode. Poi olio, sale, pepe. Niente di più, niente di meno.",
+          "Butta le patate in acqua fredda, porta a bollore. A metà cottura aggiungi i fagiolini. Scolali al dente, devono essere ancora croccanti dentro.",
+          "Unisci tutto in una ciotola: patate e fagiolini appena intiepiditi, tonno, uova sode a spicchi. Mescola piano e condisci.",
+          "E ora il trucco: lasciala riposare in frigo almeno un’ora. I sapori si amalgamano, la patata si raffredda. Provala e dimmi se non è un’altra cosa 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Preparo l'insalata estiva di patate.",
+      "Patate, fagiolini, tonno e uova.",
+      "Spunto i fagiolini e taglio le patate.",
+      "Cuocio tutto e aggiungo tonno e uova.",
+      "Lo lascio in frigo, esplode di sapore."
+    ],
+    "thread_text": [
+      "Quando il caldo ti abbatte ma vuoi un piatto che sa di pieno. Patate, fagiolini, tonno e uova: il trionfo dell’insalata estiva che ti salva la cena. 🥗",
+      "La lista è corta: patate a tocchetti, fagiolini spuntati, tonno sott’olio, uova sode. Poi olio, sale, pepe. Niente di più, niente di meno.",
+      "Butta le patate in acqua fredda, porta a bollore. A metà cottura aggiungi i fagiolini. Scolali al dente, devono essere ancora croccanti dentro.",
+      "Unisci tutto in una ciotola: patate e fagiolini appena intiepiditi, tonno, uova sode a spicchi. Mescola piano e condisci.",
+      "E ora il trucco: lasciala riposare in frigo almeno un’ora. I sapori si amalgamano, la patata si raffredda. Provala e dimmi se non è un’altra cosa 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "L'insalata estiva che salva la cena",
+        "description": "Un piatto fresco, completo e veloce da preparare. Perfetto per le serate calde.",
+        "visual_hint": "Ciotola colorata di insalata",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory potato green bean salad"
+      },
+      {
+        "hook": "4 ingredienti, un'esplosione di gusto",
+        "description": "Patate, fagiolini, tonno e uova: il quartetto perfetto per un'insalata ricca e saporita.",
+        "visual_hint": "Ingredienti disposti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory potato tuna egg ingredients",
+        "image": "https://images.pexels.com/photos/19051902/pexels-photo-19051902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spunta i fagiolini, taglia le patate",
+        "description": "Il gesto che fa la differenza: prepara gli ingredienti con cura per una cottura uniforme.",
+        "visual_hint": "Mani che spuntano fagiolini",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "hands trimming green beans",
+        "image": "https://images.pexels.com/photos/22610763/pexels-photo-22610763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cuoci tutto e unisci in ciotola",
+        "description": "Patate e fagiolini lessati, poi tonno e uova sode: assemblaggio semplice e veloce.",
+        "visual_hint": "Ciotola con mestolo che mescola",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "mixing salad bowl hands",
+        "image": "https://images.pexels.com/photos/32056055/pexels-photo-32056055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il segreto? Frigo per un'ora",
+        "description": "Lascia riposare in frigo: i sapori si amalgamano e l'insalata è ancora più buona.",
+        "visual_hint": "Ciotola coperta in frigo",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory potato salad chilled",
+        "image": "https://images.pexels.com/photos/21625304/pexels-photo-21625304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "salad",
+    "signature_ingredients": [
+      "patate",
+      "fagiolini",
+      "tonno"
+    ],
+    "image": "https://www.giallozafferano.it/images/363-36351/Insalata-di-patate-fagiolini-tonno-e-uova_650x433_wm.jpg",
+    "savedAt": "2026-06-22T15:18:45.692Z",
+    "sourceId": "aeedea7769e988f8f193685383a22f51"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
+    "slug": "gelato-al-limone-senza-gelatiera-con-3-ingredienti",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Gelato al limone senza gelatiera con 3 ingredienti",
+    "link": "https://ricette.giallozafferano.it/Gelato-al-limone-senza-gelatiera-con-3-ingredienti.html",
+    "pubDate": "Mon, 22 Jun 2026 12:05:00 +0200",
+    "content": "Gelato al limone senza gelatiera: ricetta con 3 ingredienti Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Dolci Gelati, sorbetti e semifreddi Gelato al limone senza gelatiera con 3 ingredienti /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA 690,7 Calorie per porzione Energia Kcal 690,7 Carboidrati g 59,6 &nbsp;&nbsp;di cui zuccheri g 58,6 Proteine g 10,7 Grassi g 47,4 &nbsp;&nbsp;di cui saturi g 29,6 Fibre g 0,1 Colesterolo mg 172,8 Sodio mg 169,9 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza glutine Vegetariano Difficoltà: Molto facile Preparazione: 15 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Quando arriva l’estate e la voglia di gelato è tanta, questa è la ricetta furba che fa per voi: il gelato al limone senza gelatiera con 3 ingredienti ! Non avrete bisogno di macchinari ingombranti, ma solo di una ciotola e delle fruste elettriche. A differenza del classico gelato al limone fatto in casa senza gelatiera, in questo caso però non correrete il rischio che si formino i cristalli di ghiaccio che lo rendono duro e granuloso… il segreto? L’utilizzo di panna e latte condensato, che vi assicureranno una consistenza cremosissima ! Il latte condensato mantiene il gelato morbido anche dopo una notte di congelamento, mentre la panna fresca aggiunge un tocco vellutato. Il succo di limone , infine, bilancia la dolcezza di questa base e regala un sapore fresco e agrumato, esaltato dal profumo delle foglioline di menta utilizzate per la decorazione. Servite il gelato al limone senza gelatiera con 3 ingredienti come dessert per una cena estiva oppure per una merenda golosa e rinfrescante… è così facile da preparare che ne terrete sempre una vaschetta pronta! Scoprite altre ricette di gelato senza gelatiera: Gelato 3 ingredienti allo yogurt senza gelatiera Gelato senza gelatiera ai frutti di bosco Gelato al pistacchio senza gelatiera Gelato al latte di cocco senza gelatiera Three-ingredient no-churn lemon ice cream Scopri anche Sorbetto al limone senza gelatiera Granita al limone senza gelatiera Gelato 3 ingredienti allo yogurt senza gelatiera Sfoglia tutte INGREDIENTI 690,7 Calorie per porzione per circa 1 kg di gelato Panna fresca liquida fredda 500 g Latte condensato 400 g Succo di limone 80 g per guarnire Scorza di limone q.b. Menta q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Gelato al limone senza gelatiera con 3 ingredienti Per preparare il gelato al limone senza gelatiera con 3 ingredienti, versate in una ciotola la panna fresca e il latte condensato 1 . Lavorate con le fruste elettriche per ottenere un composto semi-montato 2 , poi unite il succo di limone 3 . Montate ancora con le fruste fino a raggiungere una consistenza soda e stabile 4 . Trasferite il composto in una pirofila e livellate la superficie con una spatola 5 . Riponete in congelatore per una notte 6 . Una volta che il composto sarà completamente congelato, rimuovetelo dal freezer e lasciatelo tornare a temperatura ambiente per circa 20-30 minuti (oppure lasciatelo scongelare in frigorifero per un’oretta), poi ricavate delle palline con l’apposito porzionatore 7 . Guarnite le coppette con scorza di limone 8 e foglioline di menta. Il vostro gelato al limone senza gelatiera con 3 ingredienti è pronto per essere gustato 9 ! Conservazione Il gelato al limone senza gelatiera con 3 ingredienti si conserva in frigorifero per 2 giorni. Non si può congelare. Consiglio Per montare meglio il composto consigliamo di riporre in freezer sia la ciotola che le fruste così da averle ben fredde prima di utilizzarle. Scegliete limone biologici di qualità per un gusto e un profumo irresistibili. Per le giornate più calde, provate anche la ricetta del sorbetto al limone senza gelatiera e della granita al limone senza gelatiera ! Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Latte condensato Limone Scopri tutto sugli ingredienti Presente in: Dolci freddi , Piatti freddi STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Sorbetto al limone senza gelatiera 1 4.5 Granita al limone senza gelatiera 112 4.2 Gelato 3 ingredienti allo yogurt senza gelatiera 2 4.8 Gelato al pistacchio senza gelatiera 25 4.3 Gelato senza gelatiera ai frutti di bosco 57 4.4 Gelato al limone 56 4.1 Gelato al latte di cocco senza gelatiera 16 4.8 Sorbetto al limone 59 4.0 ULTIME RICETTE Piselli e tonno in padella 5.0 Gelato al limone senza gelatiera con 3 ingredienti 5.0 Insalata di patate, fagiolini, tonno e uova 5.0 SCOPRI Gelato al limone con gelatiera Gelato senza gelatiera Gelato fatto in casa senza gelatiera Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Gelato al limone senza gelatiera cremosissimo",
+      "Panna, latte condensato, succo di limone",
+      "Monta panna e latte condensato insieme",
+      "Aggiungi succo, monta, congela una notte",
+      "Guarnisci con scorza e menta fresca"
+    ],
+    "instagram_caption": "Il gelato al limone più cremoso che tu abbia mai fatto, e senza gelatiera 🍋✨  \nTre ingredienti, una notte in freezer e il gioco è fatto: panna montata con latte condensato, un’esplosione di succo di limone che ti sveglia il palato. Il risultato? Una nuvola fresca, vellutata, da leccare il cucchiaio.  \nGuarnisci con scorza e menta per un tocco che sembra uscito da una gelateria siciliana.  \nProvalo questo weekend e portati l’estate in casa 🌿🍦",
+    "formats": {
+      "instagram": {
+        "caption": "Il gelato al limone più cremoso che tu abbia mai fatto, e senza gelatiera 🍋✨  \nTre ingredienti, una notte in freezer e il gioco è fatto: panna montata con latte condensato, un’esplosione di succo di limone che ti sveglia il palato. Il risultato? Una nuvola fresca, vellutata, da leccare il cucchiaio.  \nGuarnisci con scorza e menta per un tocco che sembra uscito da una gelateria siciliana.  \nProvalo questo weekend e portati l’estate in casa 🌿🍦"
+      },
+      "tiktok": {
+        "script": [
+          "Panna e latte condensato, li monto insieme.",
+          "Verso il succo di limone, continuo a montare.",
+          "È già cremosissimo, senza gelatiera.",
+          "Lo verso in una vaschetta, congelo una notte.",
+          "Guarnisco con scorza e menta, che bontà!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Cremoso come una nuvola, fresco come una brezza marina. E senza gelatiera. 🍋",
+          "3 ingredienti: panna fresca, latte condensato e succo di limone. Niente uova, niente sbattimenti assurdi.",
+          "Monti panna e latte condensato insieme: diventa una nuvola liscia. Poi aggiungi il succo e monti ancora.",
+          "Versa in una teglia, copri e via in freezer almeno una notte. Il segreto? Non serve gelatiera, viene cremosissimo lo stesso.",
+          "Guarnisci con scorza e menta fresca, aspetta 5 minuti a temperatura ambiente e servi. Provala e fammi sapere 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Panna e latte condensato, li monto insieme.",
+      "Verso il succo di limone, continuo a montare.",
+      "È già cremosissimo, senza gelatiera.",
+      "Lo verso in una vaschetta, congelo una notte.",
+      "Guarnisco con scorza e menta, che bontà!"
+    ],
+    "thread_text": [
+      "Cremoso come una nuvola, fresco come una brezza marina. E senza gelatiera. 🍋",
+      "3 ingredienti: panna fresca, latte condensato e succo di limone. Niente uova, niente sbattimenti assurdi.",
+      "Monti panna e latte condensato insieme: diventa una nuvola liscia. Poi aggiungi il succo e monti ancora.",
+      "Versa in una teglia, copri e via in freezer almeno una notte. Il segreto? Non serve gelatiera, viene cremosissimo lo stesso.",
+      "Guarnisci con scorza e menta fresca, aspetta 5 minuti a temperatura ambiente e servi. Provala e fammi sapere 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Gelato al limone senza gelatiera",
+        "description": "Cremoso, fresco, con solo 3 ingredienti. Pronto in 5 minuti e senza gelatiera.",
+        "visual_hint": "Ciotola di gelato al limone",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "lemon gelato bowl"
+      },
+      {
+        "hook": "Solo 3 ingredienti",
+        "description": "Panna, latte condensato e succo di limone. Niente uova, niente gelatiera.",
+        "visual_hint": "Ingredienti su tavola di legno",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "cream condensed milk lemons",
+        "image": "https://images.pexels.com/photos/28835210/pexels-photo-28835210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Monta tutto insieme",
+        "description": "Monta panna e latte condensato fino a ottenere un composto gonfio e spumoso.",
+        "visual_hint": "Fruste che montano in ciotola",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "whipping cream mixture bowl",
+        "image": "https://images.pexels.com/photos/33775651/pexels-photo-33775651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Aggiungi il succo",
+        "description": "Unisci il succo di limone, monta ancora qualche secondo, poi versa in un contenitore e congela per una notte.",
+        "visual_hint": "Succo di limone che cade nella ciotola",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "pouring lemon juice bowl",
+        "image": "https://images.pexels.com/photos/14692496/pexels-photo-14692496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Guarnisci e servi",
+        "description": "Decora con scorza di limone e menta fresca. Il gelato perfetto per l'estate.",
+        "visual_hint": "Coppa di gelato con scorza e menta",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "lemon gelato garnish mint",
+        "image": "https://images.pexels.com/photos/33107433/pexels-photo-33107433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "panna",
+      "latte condensato",
+      "succo di limone"
+    ],
+    "image": "https://www.giallozafferano.it/images/363-36352/Gelato-al-limone-senza-gelatiera-con-3-ingredienti_650x433_wm.jpg",
+    "savedAt": "2026-06-22T15:18:28.688Z",
+    "sourceId": "adafece7de9442571f492ede3440dca2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "insalata-alla-ligure",
     "prompt_version": "1.0.0",
     "status": "published",
