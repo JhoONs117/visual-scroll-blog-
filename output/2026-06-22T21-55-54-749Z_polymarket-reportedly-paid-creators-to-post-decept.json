@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "polymarket-reportedly-paid-creators-to-post-decept",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+  "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+  "pubDate": "Sun, 21 Jun 2026 16:35:00 +0000",
+  "slides": [
+    "Polymarket paid creators for fake bet videos—who else knew?",
+    "The platform allegedly funded misleading content to boost hype.",
+    "Those videos included bets that never actually existed.",
+    "Now users must question every payout story they see.",
+    "Verify any bet claim before trusting the source."
+  ],
+  "thread_text": [
+    "1. Who funded the lie?\n\nPolymarket paid creators for videos promoting fake bets, fueling hype around non-existent wagers.",
+    "2. The hidden contract\n\nThe platform allegedly reimbursed users for misleading content, turning fiction into marketing material.",
+    "3. The phantom bets\n\nThose polished payout stories showcased wagers that never existed, deceiving audiences into believing a false reality.",
+    "4. Trust is now broken\n\nEvery viral payout story becomes suspect—users can't tell what's real or bought. The platform's credibility collapses.",
+    "5. Verify one bet today\n\nPick a trending payout claim. Cross-check its existence on the platform. Can you confirm it? If not, trust nothing."
+  ],
+  "video_script": [
+    "Polymarket paid for fake bet videos.",
+    "Those bets never actually existed.",
+    "The platform fueled misleading hype.",
+    "Now every payout story is suspect.",
+    "Verify any claim before you trust."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who funded the lie?\n\nPolymarket paid creators for videos promoting fake bets, fueling hype around non-existent wagers.",
+        "2. The hidden contract\n\nThe platform allegedly reimbursed users for misleading content, turning fiction into marketing material.",
+        "3. The phantom bets\n\nThose polished payout stories showcased wagers that never existed, deceiving audiences into believing a false reality.",
+        "4. Trust is now broken\n\nEvery viral payout story becomes suspect—users can't tell what's real or bought. The platform's credibility collapses.",
+        "5. Verify one bet today\n\nPick a trending payout claim. Cross-check its existence on the platform. Can you confirm it? If not, trust nothing."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Polymarket paid for fake bet videos.",
+        "Those bets never actually existed.",
+        "The platform fueled misleading hype.",
+        "Now every payout story is suspect.",
+        "Verify any claim before you trust."
+      ]
+    },
+    "instagram": {
+      "caption": "Polymarket paid creators to post videos about fake bets that never existed on its platform. 💸\n\nThose polished payout stories were marketing fiction, not real wagers.\nThe platform allegedly reimbursed users for misleading content to drive hype.\nNow every viral bet claim is suspect—was it real or bought? 🔍\n\nIf you create or publish content, verify every claim before repeating it, because fabricated stories can look authentic.\n\nPick one trending payout story today. Can you confirm it actually happened on Polymarket? If not, what else can you trust? ⚠️"
+    }
+  },
+  "instagram_caption": "Polymarket paid creators to post videos about fake bets that never existed on its platform. 💸\n\nThose polished payout stories were marketing fiction, not real wagers.\nThe platform allegedly reimbursed users for misleading content to drive hype.\nNow every viral bet claim is suspect—was it real or bought? 🔍\n\nIf you create or publish content, verify every claim before repeating it, because fabricated stories can look authentic.\n\nPick one trending payout story today. Can you confirm it actually happened on Polymarket? If not, what else can you trust? ⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Who funded the lie?",
+      "description": "Polymarket paid creators for videos promoting fake bets that never existed.",
+      "visual_hint": "Stack of cash on table",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stack of money"
+    },
+    {
+      "hook": "Hidden contract exposed",
+      "description": "Platform allegedly reimbursed users for misleading content, turning fiction into marketing hype.",
+      "visual_hint": "Contract with hidden clause",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "legal document signature",
+      "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Phantom bets deceived millions",
+      "description": "Polished payout stories showcased wagers that never existed, fooling audiences into false belief.",
+      "visual_hint": "Glowing screen with fake bet",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer screen bet",
+      "image": "https://images.pexels.com/photos/30774174/pexels-photo-30774174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust is now broken",
+      "description": "Every viral payout story becomes suspect—users can't tell what's real or bought.",
+      "visual_hint": "Broken chain links",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "broken chain metal",
+      "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Verify one bet today",
+      "description": "Pick a trending payout claim, cross-check its existence on the platform. Confirm or ignore.",
+      "visual_hint": "Magnifying glass over bet",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2277777336.jpg?resize=1200,800",
+  "savedAt": "2026-06-22T21:57:06.969Z",
+  "sourceId": "c826482e3c9d237bc47e7b1d43dcac57"
+}

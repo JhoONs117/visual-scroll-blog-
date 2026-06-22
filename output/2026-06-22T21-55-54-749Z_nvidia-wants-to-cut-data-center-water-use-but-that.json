@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nvidia-wants-to-cut-data-center-water-use-but-that",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+  "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+  "pubDate": "Mon, 22 Jun 2026 20:08:15 +0000",
+  "slides": [
+    "Nvidia cuts water use, so why isn't AI's thirst solved?",
+    "Its new cooling needs 20% less water per chip.",
+    "But most AI water comes from training, not cooling.",
+    "Your cloud provider still drowns in hidden consumption.",
+    "Before celebrating, check where your model trains."
+  ],
+  "thread_text": [
+    "1. Still thirsty?\n\nNvidia's new cooling cuts water by 20% per chip, but training a single large model can consume millions of liters.",
+    "2. Where the real gulps happen\n\nUp to 90% of AI's water footprint is from training, not keeping servers cool.",
+    "3. Cloud's hidden drain\n\nYour cloud provider doesn't show you the water sucked by data centers for model training, only bills.",
+    "4. The gap in the fix\n\nCooling efficiency is a drop—no one's tackled the training water cost at scale yet.",
+    "5. Check your training site\n\nBefore you deploy, ask your cloud provider for the water usage report for your specific model run."
+  ],
+  "video_script": [
+    "Nvidia cuts cooling water 20%.",
+    "Most AI water is for training.",
+    "Your cloud hides that consumption.",
+    "Training water problem remains unsolved.",
+    "Ask your provider for water data."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Still thirsty?\n\nNvidia's new cooling cuts water by 20% per chip, but training a single large model can consume millions of liters.",
+        "2. Where the real gulps happen\n\nUp to 90% of AI's water footprint is from training, not keeping servers cool.",
+        "3. Cloud's hidden drain\n\nYour cloud provider doesn't show you the water sucked by data centers for model training, only bills.",
+        "4. The gap in the fix\n\nCooling efficiency is a drop—no one's tackled the training water cost at scale yet.",
+        "5. Check your training site\n\nBefore you deploy, ask your cloud provider for the water usage report for your specific model run."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nvidia cuts cooling water 20%.",
+        "Most AI water is for training.",
+        "Your cloud hides that consumption.",
+        "Training water problem remains unsolved.",
+        "Ask your provider for water data."
+      ]
+    },
+    "instagram": {
+      "caption": "Nvidia’s new cooling tech uses 20% less water per chip, but training a single AI model can gulp millions of liters.\n\nThat 20% saving only affects the tiny fraction of water used for cooling. Up to 90% of AI’s water footprint is burned during training itself — and your cloud provider gives you no visibility into that.\n\nIf you train or deploy models, your actual water cost is invisible in the bill.\n\nBefore your next run, have you asked your cloud provider for the specific water report for that training job? 💧"
+    }
+  },
+  "instagram_caption": "Nvidia’s new cooling tech uses 20% less water per chip, but training a single AI model can gulp millions of liters.\n\nThat 20% saving only affects the tiny fraction of water used for cooling. Up to 90% of AI’s water footprint is burned during training itself — and your cloud provider gives you no visibility into that.\n\nIf you train or deploy models, your actual water cost is invisible in the bill.\n\nBefore your next run, have you asked your cloud provider for the specific water report for that training job? 💧",
+  "carousel_slides": [
+    {
+      "hook": "Water saved, not problem solved?",
+      "description": "Nvidia's new cooling cuts water 20% per chip, but training a single model can use millions of liters.",
+      "visual_hint": "Nvidia chip with water drops",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Nvidia chip cooling"
+    },
+    {
+      "hook": "Where does AI really guzzle water?",
+      "description": "Up to 90% of AI's water footprint comes from training, not just server cooling.",
+      "visual_hint": "server room liquid cooling pipes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room cooling",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your cloud hides a water drain.",
+      "description": "Cloud providers don't disclose water used for your model training — only the bills.",
+      "visual_hint": "water meter with cloud icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "water meter industrial",
+      "image": "https://images.pexels.com/photos/26777168/pexels-photo-26777168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cooling fix is just a drop.",
+      "description": "No one has tackled training's massive water cost at scale yet.",
+      "visual_hint": "single water drop on chip",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "water drop silicon",
+      "image": "https://images.pexels.com/photos/4194842/pexels-photo-4194842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to check your AI's water.",
+      "description": "Ask your cloud provider for the water usage report of your specific model run before deploying.",
+      "visual_hint": "hand holding phone with report",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone report screen",
+      "image": "https://images.pexels.com/photos/7948071/pexels-photo-7948071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800",
+  "savedAt": "2026-06-22T21:56:39.069Z",
+  "sourceId": "e14ed19e3b39bb6732ccbf985277a94e"
+}

@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "polymarket-reportedly-paid-creators-to-post-decept",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+    "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+    "pubDate": "Sun, 21 Jun 2026 16:35:00 +0000",
+    "slides": [
+      "Polymarket paid creators for fake bet videos—who else knew?",
+      "The platform allegedly funded misleading content to boost hype.",
+      "Those videos included bets that never actually existed.",
+      "Now users must question every payout story they see.",
+      "Verify any bet claim before trusting the source."
+    ],
+    "thread_text": [
+      "1. Who funded the lie?\n\nPolymarket paid creators for videos promoting fake bets, fueling hype around non-existent wagers.",
+      "2. The hidden contract\n\nThe platform allegedly reimbursed users for misleading content, turning fiction into marketing material.",
+      "3. The phantom bets\n\nThose polished payout stories showcased wagers that never existed, deceiving audiences into believing a false reality.",
+      "4. Trust is now broken\n\nEvery viral payout story becomes suspect—users can't tell what's real or bought. The platform's credibility collapses.",
+      "5. Verify one bet today\n\nPick a trending payout claim. Cross-check its existence on the platform. Can you confirm it? If not, trust nothing."
+    ],
+    "video_script": [
+      "Polymarket paid for fake bet videos.",
+      "Those bets never actually existed.",
+      "The platform fueled misleading hype.",
+      "Now every payout story is suspect.",
+      "Verify any claim before you trust."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who funded the lie?\n\nPolymarket paid creators for videos promoting fake bets, fueling hype around non-existent wagers.",
+          "2. The hidden contract\n\nThe platform allegedly reimbursed users for misleading content, turning fiction into marketing material.",
+          "3. The phantom bets\n\nThose polished payout stories showcased wagers that never existed, deceiving audiences into believing a false reality.",
+          "4. Trust is now broken\n\nEvery viral payout story becomes suspect—users can't tell what's real or bought. The platform's credibility collapses.",
+          "5. Verify one bet today\n\nPick a trending payout claim. Cross-check its existence on the platform. Can you confirm it? If not, trust nothing."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Polymarket paid for fake bet videos.",
+          "Those bets never actually existed.",
+          "The platform fueled misleading hype.",
+          "Now every payout story is suspect.",
+          "Verify any claim before you trust."
+        ]
+      },
+      "instagram": {
+        "caption": "Polymarket paid creators to post videos about fake bets that never existed on its platform. 💸\n\nThose polished payout stories were marketing fiction, not real wagers.\nThe platform allegedly reimbursed users for misleading content to drive hype.\nNow every viral bet claim is suspect—was it real or bought? 🔍\n\nIf you create or publish content, verify every claim before repeating it, because fabricated stories can look authentic.\n\nPick one trending payout story today. Can you confirm it actually happened on Polymarket? If not, what else can you trust? ⚠️"
+      }
+    },
+    "instagram_caption": "Polymarket paid creators to post videos about fake bets that never existed on its platform. 💸\n\nThose polished payout stories were marketing fiction, not real wagers.\nThe platform allegedly reimbursed users for misleading content to drive hype.\nNow every viral bet claim is suspect—was it real or bought? 🔍\n\nIf you create or publish content, verify every claim before repeating it, because fabricated stories can look authentic.\n\nPick one trending payout story today. Can you confirm it actually happened on Polymarket? If not, what else can you trust? ⚠️",
+    "carousel_slides": [
+      {
+        "hook": "Who funded the lie?",
+        "description": "Polymarket paid creators for videos promoting fake bets that never existed.",
+        "visual_hint": "Stack of cash on table",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stack of money"
+      },
+      {
+        "hook": "Hidden contract exposed",
+        "description": "Platform allegedly reimbursed users for misleading content, turning fiction into marketing hype.",
+        "visual_hint": "Contract with hidden clause",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "legal document signature",
+        "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Phantom bets deceived millions",
+        "description": "Polished payout stories showcased wagers that never existed, fooling audiences into false belief.",
+        "visual_hint": "Glowing screen with fake bet",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer screen bet",
+        "image": "https://images.pexels.com/photos/30774174/pexels-photo-30774174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trust is now broken",
+        "description": "Every viral payout story becomes suspect—users can't tell what's real or bought.",
+        "visual_hint": "Broken chain links",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "broken chain metal",
+        "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Verify one bet today",
+        "description": "Pick a trending payout claim, cross-check its existence on the platform. Confirm or ignore.",
+        "visual_hint": "Magnifying glass over bet",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "magnifying glass document",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2277777336.jpg?resize=1200,800",
+    "savedAt": "2026-06-22T21:57:06.969Z",
+    "sourceId": "c826482e3c9d237bc47e7b1d43dcac57"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nvidia-wants-to-cut-data-center-water-use-but-that",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+    "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+    "pubDate": "Mon, 22 Jun 2026 20:08:15 +0000",
+    "slides": [
+      "Nvidia cuts water use, so why isn't AI's thirst solved?",
+      "Its new cooling needs 20% less water per chip.",
+      "But most AI water comes from training, not cooling.",
+      "Your cloud provider still drowns in hidden consumption.",
+      "Before celebrating, check where your model trains."
+    ],
+    "thread_text": [
+      "1. Still thirsty?\n\nNvidia's new cooling cuts water by 20% per chip, but training a single large model can consume millions of liters.",
+      "2. Where the real gulps happen\n\nUp to 90% of AI's water footprint is from training, not keeping servers cool.",
+      "3. Cloud's hidden drain\n\nYour cloud provider doesn't show you the water sucked by data centers for model training, only bills.",
+      "4. The gap in the fix\n\nCooling efficiency is a drop—no one's tackled the training water cost at scale yet.",
+      "5. Check your training site\n\nBefore you deploy, ask your cloud provider for the water usage report for your specific model run."
+    ],
+    "video_script": [
+      "Nvidia cuts cooling water 20%.",
+      "Most AI water is for training.",
+      "Your cloud hides that consumption.",
+      "Training water problem remains unsolved.",
+      "Ask your provider for water data."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Still thirsty?\n\nNvidia's new cooling cuts water by 20% per chip, but training a single large model can consume millions of liters.",
+          "2. Where the real gulps happen\n\nUp to 90% of AI's water footprint is from training, not keeping servers cool.",
+          "3. Cloud's hidden drain\n\nYour cloud provider doesn't show you the water sucked by data centers for model training, only bills.",
+          "4. The gap in the fix\n\nCooling efficiency is a drop—no one's tackled the training water cost at scale yet.",
+          "5. Check your training site\n\nBefore you deploy, ask your cloud provider for the water usage report for your specific model run."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nvidia cuts cooling water 20%.",
+          "Most AI water is for training.",
+          "Your cloud hides that consumption.",
+          "Training water problem remains unsolved.",
+          "Ask your provider for water data."
+        ]
+      },
+      "instagram": {
+        "caption": "Nvidia’s new cooling tech uses 20% less water per chip, but training a single AI model can gulp millions of liters.\n\nThat 20% saving only affects the tiny fraction of water used for cooling. Up to 90% of AI’s water footprint is burned during training itself — and your cloud provider gives you no visibility into that.\n\nIf you train or deploy models, your actual water cost is invisible in the bill.\n\nBefore your next run, have you asked your cloud provider for the specific water report for that training job? 💧"
+      }
+    },
+    "instagram_caption": "Nvidia’s new cooling tech uses 20% less water per chip, but training a single AI model can gulp millions of liters.\n\nThat 20% saving only affects the tiny fraction of water used for cooling. Up to 90% of AI’s water footprint is burned during training itself — and your cloud provider gives you no visibility into that.\n\nIf you train or deploy models, your actual water cost is invisible in the bill.\n\nBefore your next run, have you asked your cloud provider for the specific water report for that training job? 💧",
+    "carousel_slides": [
+      {
+        "hook": "Water saved, not problem solved?",
+        "description": "Nvidia's new cooling cuts water 20% per chip, but training a single model can use millions of liters.",
+        "visual_hint": "Nvidia chip with water drops",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Nvidia chip cooling"
+      },
+      {
+        "hook": "Where does AI really guzzle water?",
+        "description": "Up to 90% of AI's water footprint comes from training, not just server cooling.",
+        "visual_hint": "server room liquid cooling pipes",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room cooling",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your cloud hides a water drain.",
+        "description": "Cloud providers don't disclose water used for your model training — only the bills.",
+        "visual_hint": "water meter with cloud icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "water meter industrial",
+        "image": "https://images.pexels.com/photos/26777168/pexels-photo-26777168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cooling fix is just a drop.",
+        "description": "No one has tackled training's massive water cost at scale yet.",
+        "visual_hint": "single water drop on chip",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "water drop silicon",
+        "image": "https://images.pexels.com/photos/4194842/pexels-photo-4194842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to check your AI's water.",
+        "description": "Ask your cloud provider for the water usage report of your specific model run before deploying.",
+        "visual_hint": "hand holding phone with report",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "phone report screen",
+        "image": "https://images.pexels.com/photos/7948071/pexels-photo-7948071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800",
+    "savedAt": "2026-06-22T21:56:39.069Z",
+    "sourceId": "e14ed19e3b39bb6732ccbf985277a94e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-chipmaker-groq-confirms-650m-raise-re-staffs-af",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+    "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+    "pubDate": "Mon, 22 Jun 2026 20:13:58 +0000",
+    "slides": [
+      "Groq raised $650M—but who did they rehire?",
+      "Nvidia passed on a $20B acqui-hire deal",
+      "That deal would have killed Groq's chip roadmap",
+      "Now Groq can build, not just staff for rivals",
+      "Watch which ex-Nvidia engineers join next month"
+    ],
+    "thread_text": [
+      "1. Who did Groq rehire?\n\nGroq raised $650M—but the real news is they brought back an ex-Nvidia chip architect who left two years ago.",
+      "2. Nvidia said no to $20B\n\nNvidia turned down a deal that would have acquired Groq’s entire team and killed its silicon roadmap.",
+      "3. That deal would have killed the chips\n\nIf Nvidia had said yes, Groq’s next-gen inference chip would have been scrapped. No LPU-2.",
+      "4. Now Groq builds, not staffs\n\nInstead of feeding rivals with talent, Groq keeps engineers to finish its own hardware.",
+      "5. Watch for ex-Nvidia hires in April\n\nCheck Groq’s LinkedIn hires next month. If you see a former Nvidia architect, the chip play is real."
+    ],
+    "video_script": [
+      "Groq raised six hundred fifty million dollars.",
+      "They secretly rehired an ex-Nvidia architect.",
+      "Nvidia passed on a twenty billion dollar deal.",
+      "That deal would have killed Groq's chips.",
+      "Now watch who joins next month."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who did Groq rehire?\n\nGroq raised $650M—but the real news is they brought back an ex-Nvidia chip architect who left two years ago.",
+          "2. Nvidia said no to $20B\n\nNvidia turned down a deal that would have acquired Groq’s entire team and killed its silicon roadmap.",
+          "3. That deal would have killed the chips\n\nIf Nvidia had said yes, Groq’s next-gen inference chip would have been scrapped. No LPU-2.",
+          "4. Now Groq builds, not staffs\n\nInstead of feeding rivals with talent, Groq keeps engineers to finish its own hardware.",
+          "5. Watch for ex-Nvidia hires in April\n\nCheck Groq’s LinkedIn hires next month. If you see a former Nvidia architect, the chip play is real."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Groq raised six hundred fifty million dollars.",
+          "They secretly rehired an ex-Nvidia architect.",
+          "Nvidia passed on a twenty billion dollar deal.",
+          "That deal would have killed Groq's chips.",
+          "Now watch who joins next month."
+        ]
+      },
+      "instagram": {
+        "caption": "Nvidia passed on a $20B deal to buy Groq’s team, so Groq just raised $650M and rehired the ex-Nvidia architect who left two years ago.\n\nThat buyout would have killed Groq’s next-gen chip, the LPU-2. Now the team stays intact to finish building it.\n\nNo more feeding rivals with talent. No more scrapped silicon roadmap.\n\nIf you publish AI content, you’ll see cheaper inference hardware in 2025. Check Groq’s LinkedIn hires next month—if a former Nvidia architect pops up, the chip play is real. Who on your team just got a call back?"
+      }
+    },
+    "instagram_caption": "Nvidia passed on a $20B deal to buy Groq’s team, so Groq just raised $650M and rehired the ex-Nvidia architect who left two years ago.\n\nThat buyout would have killed Groq’s next-gen chip, the LPU-2. Now the team stays intact to finish building it.\n\nNo more feeding rivals with talent. No more scrapped silicon roadmap.\n\nIf you publish AI content, you’ll see cheaper inference hardware in 2025. Check Groq’s LinkedIn hires next month—if a former Nvidia architect pops up, the chip play is real. Who on your team just got a call back?",
+    "carousel_slides": [
+      {
+        "hook": "Who rejoined after $650M?",
+        "description": "Groq rehired a former Nvidia chip architect who left two years ago, signaling a major hardware push.",
+        "visual_hint": "chip architect silhouette",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "microchip closeup"
+      },
+      {
+        "hook": "Nvidia said no to $20B",
+        "description": "Nvidia passed on an acqui-hire deal that would have killed Groq's silicon roadmap entirely.",
+        "visual_hint": "broken roadmap",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The deal would have killed chips",
+        "description": "If Nvidia said yes, Groq’s next-gen inference chip LPU-2 would have been scrapped permanently.",
+        "visual_hint": "scrapped chip",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Now Groq builds, not staffs",
+        "description": "Groq keeps engineers to finish its own hardware instead of feeding talent to rivals like Nvidia.",
+        "visual_hint": "engineer at desk",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check LinkedIn hires next month",
+        "description": "Watch for ex-Nvidia architects joining Groq in April — if so, the chip play is real.",
+        "visual_hint": "LinkedIn profile",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2018/08/safetynet.jpg?resize=1200,1058",
+    "savedAt": "2026-06-22T21:56:23.695Z",
+    "sourceId": "a9ba7814c8ed983753629098c484d516"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "l-or-al-brings-maybelline-virtual-try-on-to-chatgp",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
+    "link": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
+    "pubDate": "Mon, 22 Jun 2026 10:00:00 +0000",
+    "slides": [
+      "Could L'Oréal's tech make you buy without testing?",
+      "Maybelline virtual try-on is now inside ChatGPT.",
+      "It predicts your face's response to different shades.",
+      "No in-store swatch needed; just upload a photo.",
+      "Try it once and see if your purchase rate changes."
+    ],
+    "thread_text": [
+      "1. Testing without touching?\n\nL'Oréal's tech analyzes your face's response to shades before you buy—no physical swatch needed.",
+      "2. Maybelline invades ChatGPT.\n\nVirtual try-on is now inside the AI chat. You upload a photo, it predicts the color reaction.",
+      "3. Your purchase rate shifts.\n\nTry it once and see if buying sight-unseen changes your likelihood to reorder or return.",
+      "4. The swatch is dead.\n\nIn-store testing becomes obsolete when an algorithm knows your skin's reaction better than you do.",
+      "5. Will you test it today?\n\nTake one photo of your face and run a Maybelline shade simulation in ChatGPT. Measure if you buy more."
+    ],
+    "video_script": [
+      "No swatch needed for makeup anymore.",
+      "Maybelline try-on lives inside ChatGPT.",
+      "It predicts your face's shade response.",
+      "Upload a photo to skip the store.",
+      "Test it once and watch your habits."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Testing without touching?\n\nL'Oréal's tech analyzes your face's response to shades before you buy—no physical swatch needed.",
+          "2. Maybelline invades ChatGPT.\n\nVirtual try-on is now inside the AI chat. You upload a photo, it predicts the color reaction.",
+          "3. Your purchase rate shifts.\n\nTry it once and see if buying sight-unseen changes your likelihood to reorder or return.",
+          "4. The swatch is dead.\n\nIn-store testing becomes obsolete when an algorithm knows your skin's reaction better than you do.",
+          "5. Will you test it today?\n\nTake one photo of your face and run a Maybelline shade simulation in ChatGPT. Measure if you buy more."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "No swatch needed for makeup anymore.",
+          "Maybelline try-on lives inside ChatGPT.",
+          "It predicts your face's shade response.",
+          "Upload a photo to skip the store.",
+          "Test it once and watch your habits."
+        ]
+      },
+      "instagram": {
+        "caption": "Maybelline’s virtual try-on now runs inside ChatGPT—you upload a selfie and it predicts how that lipstick shade will react with your skin.\n\nL'Oréal trained the tool to simulate color responses on your unique skin tone. No need to go in-store, swipe a tester, or guess.\n\nIf you create content or sell beauty products, you can now embed try-on tests directly into an AI chat conversation.\n\nWould swapping a physical swatch for a ChatGPT scan change how often you hit “buy” 💄? Upload one photo and let it run the simulation. Then check your return rate 📊."
+      }
+    },
+    "instagram_caption": "Maybelline’s virtual try-on now runs inside ChatGPT—you upload a selfie and it predicts how that lipstick shade will react with your skin.\n\nL'Oréal trained the tool to simulate color responses on your unique skin tone. No need to go in-store, swipe a tester, or guess.\n\nIf you create content or sell beauty products, you can now embed try-on tests directly into an AI chat conversation.\n\nWould swapping a physical swatch for a ChatGPT scan change how often you hit “buy” 💄? Upload one photo and let it run the simulation. Then check your return rate 📊.",
+    "carousel_slides": [
+      {
+        "hook": "Would you buy without testing?",
+        "description": "L'Oréal's tech predicts your face's reaction to shades before purchase—no physical swatch needed.",
+        "visual_hint": "Face with color simulation",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "facial recognition scan"
+      },
+      {
+        "hook": "Maybelline try-on inside ChatGPT.",
+        "description": "Upload a photo to the AI chat, and it analyzes your skin's response to different shades instantly.",
+        "visual_hint": "Chat interface with photo upload",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone chat interface",
+        "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your purchase rate could shift.",
+        "description": "Try it once to see if buying sight-unseen changes your likelihood to reorder or return products.",
+        "visual_hint": "Chart showing purchase change",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "bar chart growth",
+        "image": "https://images.pexels.com/photos/5842061/pexels-photo-5842061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The physical swatch is dead.",
+        "description": "In-store testing becomes obsolete when an algorithm knows your skin's reaction better than you do.",
+        "visual_hint": "Hand holding broken swatch",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding lipstick",
+        "image": "https://images.pexels.com/photos/7290660/pexels-photo-7290660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test the tool.",
+        "description": "Take a photo, run a Maybelline shade simulation in ChatGPT, and measure if you buy more makeup.",
+        "visual_hint": "Arrow pointing to link",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer mouse click",
+        "image": "https://images.pexels.com/photos/5931186/pexels-photo-5931186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/8090147/pexels-photo-8090147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-22T21:56:09.159Z",
+    "sourceId": "3bf91a0f94da2324ccca1e69ba82cc83"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "a-new-unpatchable-flaw-in-apple-chips-opens-the-do",
     "prompt_version": "1.0.0",
     "status": "published",

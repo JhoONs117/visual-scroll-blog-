@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "l-or-al-brings-maybelline-virtual-try-on-to-chatgp",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
+  "link": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
+  "pubDate": "Mon, 22 Jun 2026 10:00:00 +0000",
+  "slides": [
+    "Could L'Oréal's tech make you buy without testing?",
+    "Maybelline virtual try-on is now inside ChatGPT.",
+    "It predicts your face's response to different shades.",
+    "No in-store swatch needed; just upload a photo.",
+    "Try it once and see if your purchase rate changes."
+  ],
+  "thread_text": [
+    "1. Testing without touching?\n\nL'Oréal's tech analyzes your face's response to shades before you buy—no physical swatch needed.",
+    "2. Maybelline invades ChatGPT.\n\nVirtual try-on is now inside the AI chat. You upload a photo, it predicts the color reaction.",
+    "3. Your purchase rate shifts.\n\nTry it once and see if buying sight-unseen changes your likelihood to reorder or return.",
+    "4. The swatch is dead.\n\nIn-store testing becomes obsolete when an algorithm knows your skin's reaction better than you do.",
+    "5. Will you test it today?\n\nTake one photo of your face and run a Maybelline shade simulation in ChatGPT. Measure if you buy more."
+  ],
+  "video_script": [
+    "No swatch needed for makeup anymore.",
+    "Maybelline try-on lives inside ChatGPT.",
+    "It predicts your face's shade response.",
+    "Upload a photo to skip the store.",
+    "Test it once and watch your habits."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Testing without touching?\n\nL'Oréal's tech analyzes your face's response to shades before you buy—no physical swatch needed.",
+        "2. Maybelline invades ChatGPT.\n\nVirtual try-on is now inside the AI chat. You upload a photo, it predicts the color reaction.",
+        "3. Your purchase rate shifts.\n\nTry it once and see if buying sight-unseen changes your likelihood to reorder or return.",
+        "4. The swatch is dead.\n\nIn-store testing becomes obsolete when an algorithm knows your skin's reaction better than you do.",
+        "5. Will you test it today?\n\nTake one photo of your face and run a Maybelline shade simulation in ChatGPT. Measure if you buy more."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "No swatch needed for makeup anymore.",
+        "Maybelline try-on lives inside ChatGPT.",
+        "It predicts your face's shade response.",
+        "Upload a photo to skip the store.",
+        "Test it once and watch your habits."
+      ]
+    },
+    "instagram": {
+      "caption": "Maybelline’s virtual try-on now runs inside ChatGPT—you upload a selfie and it predicts how that lipstick shade will react with your skin.\n\nL'Oréal trained the tool to simulate color responses on your unique skin tone. No need to go in-store, swipe a tester, or guess.\n\nIf you create content or sell beauty products, you can now embed try-on tests directly into an AI chat conversation.\n\nWould swapping a physical swatch for a ChatGPT scan change how often you hit “buy” 💄? Upload one photo and let it run the simulation. Then check your return rate 📊."
+    }
+  },
+  "instagram_caption": "Maybelline’s virtual try-on now runs inside ChatGPT—you upload a selfie and it predicts how that lipstick shade will react with your skin.\n\nL'Oréal trained the tool to simulate color responses on your unique skin tone. No need to go in-store, swipe a tester, or guess.\n\nIf you create content or sell beauty products, you can now embed try-on tests directly into an AI chat conversation.\n\nWould swapping a physical swatch for a ChatGPT scan change how often you hit “buy” 💄? Upload one photo and let it run the simulation. Then check your return rate 📊.",
+  "carousel_slides": [
+    {
+      "hook": "Would you buy without testing?",
+      "description": "L'Oréal's tech predicts your face's reaction to shades before purchase—no physical swatch needed.",
+      "visual_hint": "Face with color simulation",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "facial recognition scan"
+    },
+    {
+      "hook": "Maybelline try-on inside ChatGPT.",
+      "description": "Upload a photo to the AI chat, and it analyzes your skin's response to different shades instantly.",
+      "visual_hint": "Chat interface with photo upload",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone chat interface",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your purchase rate could shift.",
+      "description": "Try it once to see if buying sight-unseen changes your likelihood to reorder or return products.",
+      "visual_hint": "Chart showing purchase change",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "bar chart growth",
+      "image": "https://images.pexels.com/photos/5842061/pexels-photo-5842061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The physical swatch is dead.",
+      "description": "In-store testing becomes obsolete when an algorithm knows your skin's reaction better than you do.",
+      "visual_hint": "Hand holding broken swatch",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding lipstick",
+      "image": "https://images.pexels.com/photos/7290660/pexels-photo-7290660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test the tool.",
+      "description": "Take a photo, run a Maybelline shade simulation in ChatGPT, and measure if you buy more makeup.",
+      "visual_hint": "Arrow pointing to link",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer mouse click",
+      "image": "https://images.pexels.com/photos/5931186/pexels-photo-5931186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/8090147/pexels-photo-8090147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-22T21:56:09.159Z",
+  "sourceId": "3bf91a0f94da2324ccca1e69ba82cc83"
+}

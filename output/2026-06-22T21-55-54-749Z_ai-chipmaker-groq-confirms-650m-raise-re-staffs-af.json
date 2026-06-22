@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-chipmaker-groq-confirms-650m-raise-re-staffs-af",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+  "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+  "pubDate": "Mon, 22 Jun 2026 20:13:58 +0000",
+  "slides": [
+    "Groq raised $650M—but who did they rehire?",
+    "Nvidia passed on a $20B acqui-hire deal",
+    "That deal would have killed Groq's chip roadmap",
+    "Now Groq can build, not just staff for rivals",
+    "Watch which ex-Nvidia engineers join next month"
+  ],
+  "thread_text": [
+    "1. Who did Groq rehire?\n\nGroq raised $650M—but the real news is they brought back an ex-Nvidia chip architect who left two years ago.",
+    "2. Nvidia said no to $20B\n\nNvidia turned down a deal that would have acquired Groq’s entire team and killed its silicon roadmap.",
+    "3. That deal would have killed the chips\n\nIf Nvidia had said yes, Groq’s next-gen inference chip would have been scrapped. No LPU-2.",
+    "4. Now Groq builds, not staffs\n\nInstead of feeding rivals with talent, Groq keeps engineers to finish its own hardware.",
+    "5. Watch for ex-Nvidia hires in April\n\nCheck Groq’s LinkedIn hires next month. If you see a former Nvidia architect, the chip play is real."
+  ],
+  "video_script": [
+    "Groq raised six hundred fifty million dollars.",
+    "They secretly rehired an ex-Nvidia architect.",
+    "Nvidia passed on a twenty billion dollar deal.",
+    "That deal would have killed Groq's chips.",
+    "Now watch who joins next month."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who did Groq rehire?\n\nGroq raised $650M—but the real news is they brought back an ex-Nvidia chip architect who left two years ago.",
+        "2. Nvidia said no to $20B\n\nNvidia turned down a deal that would have acquired Groq’s entire team and killed its silicon roadmap.",
+        "3. That deal would have killed the chips\n\nIf Nvidia had said yes, Groq’s next-gen inference chip would have been scrapped. No LPU-2.",
+        "4. Now Groq builds, not staffs\n\nInstead of feeding rivals with talent, Groq keeps engineers to finish its own hardware.",
+        "5. Watch for ex-Nvidia hires in April\n\nCheck Groq’s LinkedIn hires next month. If you see a former Nvidia architect, the chip play is real."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Groq raised six hundred fifty million dollars.",
+        "They secretly rehired an ex-Nvidia architect.",
+        "Nvidia passed on a twenty billion dollar deal.",
+        "That deal would have killed Groq's chips.",
+        "Now watch who joins next month."
+      ]
+    },
+    "instagram": {
+      "caption": "Nvidia passed on a $20B deal to buy Groq’s team, so Groq just raised $650M and rehired the ex-Nvidia architect who left two years ago.\n\nThat buyout would have killed Groq’s next-gen chip, the LPU-2. Now the team stays intact to finish building it.\n\nNo more feeding rivals with talent. No more scrapped silicon roadmap.\n\nIf you publish AI content, you’ll see cheaper inference hardware in 2025. Check Groq’s LinkedIn hires next month—if a former Nvidia architect pops up, the chip play is real. Who on your team just got a call back?"
+    }
+  },
+  "instagram_caption": "Nvidia passed on a $20B deal to buy Groq’s team, so Groq just raised $650M and rehired the ex-Nvidia architect who left two years ago.\n\nThat buyout would have killed Groq’s next-gen chip, the LPU-2. Now the team stays intact to finish building it.\n\nNo more feeding rivals with talent. No more scrapped silicon roadmap.\n\nIf you publish AI content, you’ll see cheaper inference hardware in 2025. Check Groq’s LinkedIn hires next month—if a former Nvidia architect pops up, the chip play is real. Who on your team just got a call back?",
+  "carousel_slides": [
+    {
+      "hook": "Who rejoined after $650M?",
+      "description": "Groq rehired a former Nvidia chip architect who left two years ago, signaling a major hardware push.",
+      "visual_hint": "chip architect silhouette",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microchip closeup"
+    },
+    {
+      "hook": "Nvidia said no to $20B",
+      "description": "Nvidia passed on an acqui-hire deal that would have killed Groq's silicon roadmap entirely.",
+      "visual_hint": "broken roadmap",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The deal would have killed chips",
+      "description": "If Nvidia said yes, Groq’s next-gen inference chip LPU-2 would have been scrapped permanently.",
+      "visual_hint": "scrapped chip",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Now Groq builds, not staffs",
+      "description": "Groq keeps engineers to finish its own hardware instead of feeding talent to rivals like Nvidia.",
+      "visual_hint": "engineer at desk",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check LinkedIn hires next month",
+      "description": "Watch for ex-Nvidia architects joining Groq in April — if so, the chip play is real.",
+      "visual_hint": "LinkedIn profile",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2018/08/safetynet.jpg?resize=1200,1058",
+  "savedAt": "2026-06-22T21:56:23.695Z",
+  "sourceId": "a9ba7814c8ed983753629098c484d516"
+}
