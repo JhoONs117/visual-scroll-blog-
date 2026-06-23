@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "omio-scales-travel-product-development-using-opena",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Omio scales travel product development using OpenAI models",
+  "link": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
+  "pubDate": "Tue, 23 Jun 2026 16:32:28 +0000",
+  "slides": [
+    "Omio doubled travel products—how?",
+    "They used OpenAI’s models for code generation.",
+    "But AI rewrites legacy code, not just new features.",
+    "Your team can ship trips faster without extra hires.",
+    "Test one booking flow migration with GPT this week."
+  ],
+  "thread_text": [
+    "1. Omio doubled travel products\n\nThey didn't buy more inventory. They used GPT to generate code that rewrote their legacy booking system.",
+    "2. Not just new features\n\nThe AI rewrote old code, not just new features. Legacy systems, not greenfield projects, got the upgrade.",
+    "3. Ship trips without new hires\n\nYour team can ship faster with the same headcount. The AI removes the bottleneck of manual code rewrites.",
+    "4. One test this week\n\nMigrate one booking flow with GPT. Start with a single, low-risk path to see if it works for your team.",
+    "5. Test one flow this week\n\nPick one booking flow migration. Run it with GPT this week. If it saves time, scale. If not, you lost a day."
+  ],
+  "video_script": [
+    "Omio doubled travel products using AI.",
+    "They used OpenAI to rewrite legacy code.",
+    "It's not just for new features.",
+    "Your team ships faster without new hires.",
+    "Test one booking flow migration this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Omio doubled travel products\n\nThey didn't buy more inventory. They used GPT to generate code that rewrote their legacy booking system.",
+        "2. Not just new features\n\nThe AI rewrote old code, not just new features. Legacy systems, not greenfield projects, got the upgrade.",
+        "3. Ship trips without new hires\n\nYour team can ship faster with the same headcount. The AI removes the bottleneck of manual code rewrites.",
+        "4. One test this week\n\nMigrate one booking flow with GPT. Start with a single, low-risk path to see if it works for your team.",
+        "5. Test one flow this week\n\nPick one booking flow migration. Run it with GPT this week. If it saves time, scale. If not, you lost a day."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Omio doubled travel products using AI.",
+        "They used OpenAI to rewrite legacy code.",
+        "It's not just for new features.",
+        "Your team ships faster without new hires.",
+        "Test one booking flow migration this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Omio doubled its travel product lineup without buying new inventory or hiring extra developers.\n\nThey used OpenAI’s models to rewrite the legacy booking system. AI didn’t just build new features—it rebuilt the old code that was slowing things down.\n\nThis means your team can ship faster with the same headcount. No more manual code rewrites blocking progress.\n\nPick one booking flow migration and test it with GPT this week. If it saves time, scale it. If not, you lost a day 🚀💡"
+    }
+  },
+  "instagram_caption": "Omio doubled its travel product lineup without buying new inventory or hiring extra developers.\n\nThey used OpenAI’s models to rewrite the legacy booking system. AI didn’t just build new features—it rebuilt the old code that was slowing things down.\n\nThis means your team can ship faster with the same headcount. No more manual code rewrites blocking progress.\n\nPick one booking flow migration and test it with GPT this week. If it saves time, scale it. If not, you lost a day 🚀💡",
+  "carousel_slides": [
+    {
+      "hook": "Legacy code rewritten by AI?",
+      "description": "Omio doubled travel products using GPT to rewrite their legacy booking system, not just new features.",
+      "visual_hint": "AI rewriting old code",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "GPT rewrote old systems",
+      "description": "The AI upgraded legacy code, not greenfield projects, removing manual rewrites as a bottleneck.",
+      "visual_hint": "Old code transformed",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "power plant",
+      "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ship faster without hiring",
+      "description": "Same headcount, faster shipping. GPT removes the manual code rewrite bottleneck.",
+      "visual_hint": "Team shipping fast",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test with one low-risk flow",
+      "description": "Migrate a single booking flow with GPT this week. If it saves time, scale; if not, lose a day.",
+      "visual_hint": "One booking flow test",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try this migration now",
+      "description": "Pick one booking flow, run it with GPT this week. Save time or learn fast.",
+      "visual_hint": "Start the GPT test",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-23T17:46:15.791Z",
+  "sourceId": "426cbb80fb50a779d7b4debda2bd0f30"
+}

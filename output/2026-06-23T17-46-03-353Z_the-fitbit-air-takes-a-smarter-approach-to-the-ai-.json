@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-fitbit-air-takes-a-smarter-approach-to-the-ai-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+  "link": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+  "pubDate": "2026-06-23T15:00:00.000Z",
+  "slides": [
+    "Can one wearable escape the AI health hype?",
+    "Fitbit Air ignores most of your health data.",
+    "It only tracks two vital signs.",
+    "You stop wasting time on useless metrics.",
+    "Ditch the dashboard. Focus on one signal."
+  ],
+  "thread_text": [
+    "1. One wearable to rule them all?\n\nThe Fitbit Air tracks only two vital signs. Your heart rate and steps? It ignores the rest.",
+    "2. They stripped the dashboard.\n\nSleep scores, stress levels, blood oxygen estimates. All gone. They say those metrics waste your time.",
+    "3. What did they keep?\n\nJust one signal. Not a summary. A single number they claim matters more than the entire health dashboard.",
+    "4. The twist: you probably already ignore most data.\n\nMost users never open their health app. The Air forces you to stop pretending you will.",
+    "5. Want to try the logic yourself?\n\nFor one day, track only your resting heart rate. Ignore everything else. Does the noise drop away?"
+  ],
+  "video_script": [
+    "Fitbit Air cuts health data down to two signals.",
+    "One signal it keeps. The rest it drops.",
+    "Most health metrics are just noise.",
+    "You never look at them anyway.",
+    "Would you trust one number over ten?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. One wearable to rule them all?\n\nThe Fitbit Air tracks only two vital signs. Your heart rate and steps? It ignores the rest.",
+        "2. They stripped the dashboard.\n\nSleep scores, stress levels, blood oxygen estimates. All gone. They say those metrics waste your time.",
+        "3. What did they keep?\n\nJust one signal. Not a summary. A single number they claim matters more than the entire health dashboard.",
+        "4. The twist: you probably already ignore most data.\n\nMost users never open their health app. The Air forces you to stop pretending you will.",
+        "5. Want to try the logic yourself?\n\nFor one day, track only your resting heart rate. Ignore everything else. Does the noise drop away?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Fitbit Air cuts health data down to two signals.",
+        "One signal it keeps. The rest it drops.",
+        "Most health metrics are just noise.",
+        "You never look at them anyway.",
+        "Would you trust one number over ten?"
+      ]
+    },
+    "instagram": {
+      "caption": "That new wearable you're considering just ghosted your sleep score, stress level, and blood oxygen data 🚫\n\nFitbit Air tracks only your heart rate and steps. The dashboard showing you 15 useless metrics is gone. The company says those numbers waste your time.\n\n**What this means for you**: If you create health content or build wearables, the game just flipped—stop convincing users to care about noise they ignore anyway.\n\nTry this: for one day, track only your resting heart rate. Ignore everything else. Does the mental clutter actually drop away? 🤔"
+    }
+  },
+  "instagram_caption": "That new wearable you're considering just ghosted your sleep score, stress level, and blood oxygen data 🚫\n\nFitbit Air tracks only your heart rate and steps. The dashboard showing you 15 useless metrics is gone. The company says those numbers waste your time.\n\n**What this means for you**: If you create health content or build wearables, the game just flipped—stop convincing users to care about noise they ignore anyway.\n\nTry this: for one day, track only your resting heart rate. Ignore everything else. Does the mental clutter actually drop away? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "One wearable to rule them all?",
+      "description": "Fitbit Air tracks only two vital signs and ignores the rest. No more useless metrics.",
+      "visual_hint": "Minimalist smartwatch on wrist",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartwatch on wrist"
+    },
+    {
+      "hook": "They stripped the health dashboard.",
+      "description": "Sleep scores, stress levels, blood oxygen—all gone. They say those metrics waste your time.",
+      "visual_hint": "Blank dashboard with only two numbers",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "empty dashboard screen",
+      "image": "https://images.pexels.com/photos/35297914/pexels-photo-35297914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Only one signal matters now.",
+      "description": "Not a summary. A single number they claim matters more than the entire dashboard.",
+      "visual_hint": "Close-up of heart rate sensor",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "heart rate sensor closeup",
+      "image": "https://images.pexels.com/photos/8352131/pexels-photo-8352131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Most users never open health apps.",
+      "description": "The Air forces you to stop pretending you will track everything. Just two metrics.",
+      "visual_hint": "Hand holding phone with health app closed",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try the logic yourself today.",
+      "description": "For one day, track only your resting heart rate. Ignore everything else. Does the noise drop?",
+      "visual_hint": "Finger pressing heart rate button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "finger pressing watch button",
+      "image": "https://images.pexels.com/photos/9461215/pexels-photo-9461215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268538_Fitbit_Air_AKrales_0012.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-23T17:46:40.981Z",
+  "sourceId": "521723b5cf98a5ab4f28142c2311f5cc"
+}

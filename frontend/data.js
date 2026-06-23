@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-fitbit-air-takes-a-smarter-approach-to-the-ai-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+    "link": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+    "pubDate": "2026-06-23T15:00:00.000Z",
+    "slides": [
+      "Can one wearable escape the AI health hype?",
+      "Fitbit Air ignores most of your health data.",
+      "It only tracks two vital signs.",
+      "You stop wasting time on useless metrics.",
+      "Ditch the dashboard. Focus on one signal."
+    ],
+    "thread_text": [
+      "1. One wearable to rule them all?\n\nThe Fitbit Air tracks only two vital signs. Your heart rate and steps? It ignores the rest.",
+      "2. They stripped the dashboard.\n\nSleep scores, stress levels, blood oxygen estimates. All gone. They say those metrics waste your time.",
+      "3. What did they keep?\n\nJust one signal. Not a summary. A single number they claim matters more than the entire health dashboard.",
+      "4. The twist: you probably already ignore most data.\n\nMost users never open their health app. The Air forces you to stop pretending you will.",
+      "5. Want to try the logic yourself?\n\nFor one day, track only your resting heart rate. Ignore everything else. Does the noise drop away?"
+    ],
+    "video_script": [
+      "Fitbit Air cuts health data down to two signals.",
+      "One signal it keeps. The rest it drops.",
+      "Most health metrics are just noise.",
+      "You never look at them anyway.",
+      "Would you trust one number over ten?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. One wearable to rule them all?\n\nThe Fitbit Air tracks only two vital signs. Your heart rate and steps? It ignores the rest.",
+          "2. They stripped the dashboard.\n\nSleep scores, stress levels, blood oxygen estimates. All gone. They say those metrics waste your time.",
+          "3. What did they keep?\n\nJust one signal. Not a summary. A single number they claim matters more than the entire health dashboard.",
+          "4. The twist: you probably already ignore most data.\n\nMost users never open their health app. The Air forces you to stop pretending you will.",
+          "5. Want to try the logic yourself?\n\nFor one day, track only your resting heart rate. Ignore everything else. Does the noise drop away?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Fitbit Air cuts health data down to two signals.",
+          "One signal it keeps. The rest it drops.",
+          "Most health metrics are just noise.",
+          "You never look at them anyway.",
+          "Would you trust one number over ten?"
+        ]
+      },
+      "instagram": {
+        "caption": "That new wearable you're considering just ghosted your sleep score, stress level, and blood oxygen data 🚫\n\nFitbit Air tracks only your heart rate and steps. The dashboard showing you 15 useless metrics is gone. The company says those numbers waste your time.\n\n**What this means for you**: If you create health content or build wearables, the game just flipped—stop convincing users to care about noise they ignore anyway.\n\nTry this: for one day, track only your resting heart rate. Ignore everything else. Does the mental clutter actually drop away? 🤔"
+      }
+    },
+    "instagram_caption": "That new wearable you're considering just ghosted your sleep score, stress level, and blood oxygen data 🚫\n\nFitbit Air tracks only your heart rate and steps. The dashboard showing you 15 useless metrics is gone. The company says those numbers waste your time.\n\n**What this means for you**: If you create health content or build wearables, the game just flipped—stop convincing users to care about noise they ignore anyway.\n\nTry this: for one day, track only your resting heart rate. Ignore everything else. Does the mental clutter actually drop away? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "One wearable to rule them all?",
+        "description": "Fitbit Air tracks only two vital signs and ignores the rest. No more useless metrics.",
+        "visual_hint": "Minimalist smartwatch on wrist",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartwatch on wrist"
+      },
+      {
+        "hook": "They stripped the health dashboard.",
+        "description": "Sleep scores, stress levels, blood oxygen—all gone. They say those metrics waste your time.",
+        "visual_hint": "Blank dashboard with only two numbers",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "empty dashboard screen",
+        "image": "https://images.pexels.com/photos/35297914/pexels-photo-35297914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Only one signal matters now.",
+        "description": "Not a summary. A single number they claim matters more than the entire dashboard.",
+        "visual_hint": "Close-up of heart rate sensor",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "heart rate sensor closeup",
+        "image": "https://images.pexels.com/photos/8352131/pexels-photo-8352131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Most users never open health apps.",
+        "description": "The Air forces you to stop pretending you will track everything. Just two metrics.",
+        "visual_hint": "Hand holding phone with health app closed",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try the logic yourself today.",
+        "description": "For one day, track only your resting heart rate. Ignore everything else. Does the noise drop?",
+        "visual_hint": "Finger pressing heart rate button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "finger pressing watch button",
+        "image": "https://images.pexels.com/photos/9461215/pexels-photo-9461215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268538_Fitbit_Air_AKrales_0012.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-23T17:46:40.981Z",
+    "sourceId": "521723b5cf98a5ab4f28142c2311f5cc"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "fika-jobs-raises-4m-to-build-a-video-first-hiring-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+    "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+    "pubDate": "Tue, 23 Jun 2026 13:00:00 +0000",
+    "slides": [
+      "Could AI agents replace human recruiters entirely?",
+      "Fika Jobs just raised $4 million for video interviews.",
+      "These AI agents analyze tone and micro-expressions live.",
+      "You now hire without ever watching a single video.",
+      "Test one AI interview on your next open role today."
+    ],
+    "thread_text": [
+      "1. AI replaces your hiring gut?\n\nFika Jobs just raised $4 million to let AI agents analyze tone and micro-expressions live during interviews.",
+      "2. No video needed.\n\nThe AI makes a hire decision without you ever watching a single recording of the candidate.",
+      "3. What gets lost?\n\nMicro-expressions are read by models trained on biased data—candidates who mask emotions get flagged as \"low fit.\"",
+      "4. The recruiter becomes a bystander.\n\nYour role shrinks to clicking \"approve\" on a recommendation generated by black-box analysis.",
+      "5. Test one on your next open role today.\n\nRun a sample interview through Fika's tool—then compare the AI's verdict with your own impression. Does it match?"
+    ],
+    "video_script": [
+      "Fika Jobs just got four million dollars.",
+      "Their AI reads your face live.",
+      "It checks tone and tiny expressions.",
+      "You never even watch the video.",
+      "Try one AI interview this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI replaces your hiring gut?\n\nFika Jobs just raised $4 million to let AI agents analyze tone and micro-expressions live during interviews.",
+          "2. No video needed.\n\nThe AI makes a hire decision without you ever watching a single recording of the candidate.",
+          "3. What gets lost?\n\nMicro-expressions are read by models trained on biased data—candidates who mask emotions get flagged as \"low fit.\"",
+          "4. The recruiter becomes a bystander.\n\nYour role shrinks to clicking \"approve\" on a recommendation generated by black-box analysis.",
+          "5. Test one on your next open role today.\n\nRun a sample interview through Fika's tool—then compare the AI's verdict with your own impression. Does it match?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Fika Jobs just got four million dollars.",
+          "Their AI reads your face live.",
+          "It checks tone and tiny expressions.",
+          "You never even watch the video.",
+          "Try one AI interview this week."
+        ]
+      },
+      "instagram": {
+        "caption": "An AI agent just analyzed your facial tics during a job interview and decided you're not a fit—without a human watching any of it.  \n\nFika Jobs raised $4 million to build a hiring platform where AI agents conduct live video interviews and analyze tone plus micro-expressions in real time. The recruiter never sees a second of footage; they just approve or reject the AI's verdict.  \n\nYour next job application will be judged by a model trained on biased data, not by a person. 💼🤖  \n\nWould you trust an AI agent to assess your candidacy based on how you blink?"
+      }
+    },
+    "instagram_caption": "An AI agent just analyzed your facial tics during a job interview and decided you're not a fit—without a human watching any of it.  \n\nFika Jobs raised $4 million to build a hiring platform where AI agents conduct live video interviews and analyze tone plus micro-expressions in real time. The recruiter never sees a second of footage; they just approve or reject the AI's verdict.  \n\nYour next job application will be judged by a model trained on biased data, not by a person. 💼🤖  \n\nWould you trust an AI agent to assess your candidacy based on how you blink?",
+    "carousel_slides": [
+      {
+        "hook": "Are AI agents fair judges?",
+        "description": "Fika Jobs raised $4M for AI analyzing tone and micro-expressions live during interviews.",
+        "visual_hint": "Robot analyzing face",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "computer screen face"
+      },
+      {
+        "hook": "Hire without watching videos.",
+        "description": "The AI makes a hire decision without you ever watching a single recording of the candidate.",
+        "visual_hint": "Play button crossed out",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "video camera off",
+        "image": "https://images.pexels.com/photos/8089668/pexels-photo-8089668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Biased micro-expression analysis?",
+        "description": "Models trained on biased data flag candidates who mask emotions as 'low fit'—fairness questioned.",
+        "visual_hint": "Magnifying glass on face",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "face closeup",
+        "image": "https://images.pexels.com/photos/31282938/pexels-photo-31282938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your role shrinks to 'approve'.",
+        "description": "Recruiters become bystanders clicking approve on black-box recommendations from AI.",
+        "visual_hint": "Thumb up icon only",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "approve button",
+        "image": "https://images.pexels.com/photos/21562946/pexels-photo-21562946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test this AI on your next hire.",
+        "description": "Run a sample interview through Fika's tool and compare the AI's verdict with your own impression.",
+        "visual_hint": "Start arrow button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "job interview",
+        "image": "https://images.pexels.com/photos/4225928/pexels-photo-4225928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Torleif_Svensson-FikaJobsAI.jpeg?w=1200",
+    "savedAt": "2026-06-23T17:46:27.933Z",
+    "sourceId": "6ad2703ed5c30093ae8e3e837517880b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "omio-scales-travel-product-development-using-opena",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Omio scales travel product development using OpenAI models",
+    "link": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
+    "pubDate": "Tue, 23 Jun 2026 16:32:28 +0000",
+    "slides": [
+      "Omio doubled travel products—how?",
+      "They used OpenAI’s models for code generation.",
+      "But AI rewrites legacy code, not just new features.",
+      "Your team can ship trips faster without extra hires.",
+      "Test one booking flow migration with GPT this week."
+    ],
+    "thread_text": [
+      "1. Omio doubled travel products\n\nThey didn't buy more inventory. They used GPT to generate code that rewrote their legacy booking system.",
+      "2. Not just new features\n\nThe AI rewrote old code, not just new features. Legacy systems, not greenfield projects, got the upgrade.",
+      "3. Ship trips without new hires\n\nYour team can ship faster with the same headcount. The AI removes the bottleneck of manual code rewrites.",
+      "4. One test this week\n\nMigrate one booking flow with GPT. Start with a single, low-risk path to see if it works for your team.",
+      "5. Test one flow this week\n\nPick one booking flow migration. Run it with GPT this week. If it saves time, scale. If not, you lost a day."
+    ],
+    "video_script": [
+      "Omio doubled travel products using AI.",
+      "They used OpenAI to rewrite legacy code.",
+      "It's not just for new features.",
+      "Your team ships faster without new hires.",
+      "Test one booking flow migration this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Omio doubled travel products\n\nThey didn't buy more inventory. They used GPT to generate code that rewrote their legacy booking system.",
+          "2. Not just new features\n\nThe AI rewrote old code, not just new features. Legacy systems, not greenfield projects, got the upgrade.",
+          "3. Ship trips without new hires\n\nYour team can ship faster with the same headcount. The AI removes the bottleneck of manual code rewrites.",
+          "4. One test this week\n\nMigrate one booking flow with GPT. Start with a single, low-risk path to see if it works for your team.",
+          "5. Test one flow this week\n\nPick one booking flow migration. Run it with GPT this week. If it saves time, scale. If not, you lost a day."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Omio doubled travel products using AI.",
+          "They used OpenAI to rewrite legacy code.",
+          "It's not just for new features.",
+          "Your team ships faster without new hires.",
+          "Test one booking flow migration this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Omio doubled its travel product lineup without buying new inventory or hiring extra developers.\n\nThey used OpenAI’s models to rewrite the legacy booking system. AI didn’t just build new features—it rebuilt the old code that was slowing things down.\n\nThis means your team can ship faster with the same headcount. No more manual code rewrites blocking progress.\n\nPick one booking flow migration and test it with GPT this week. If it saves time, scale it. If not, you lost a day 🚀💡"
+      }
+    },
+    "instagram_caption": "Omio doubled its travel product lineup without buying new inventory or hiring extra developers.\n\nThey used OpenAI’s models to rewrite the legacy booking system. AI didn’t just build new features—it rebuilt the old code that was slowing things down.\n\nThis means your team can ship faster with the same headcount. No more manual code rewrites blocking progress.\n\nPick one booking flow migration and test it with GPT this week. If it saves time, scale it. If not, you lost a day 🚀💡",
+    "carousel_slides": [
+      {
+        "hook": "Legacy code rewritten by AI?",
+        "description": "Omio doubled travel products using GPT to rewrite their legacy booking system, not just new features.",
+        "visual_hint": "AI rewriting old code",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "GPT rewrote old systems",
+        "description": "The AI upgraded legacy code, not greenfield projects, removing manual rewrites as a bottleneck.",
+        "visual_hint": "Old code transformed",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "power plant",
+        "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ship faster without hiring",
+        "description": "Same headcount, faster shipping. GPT removes the manual code rewrite bottleneck.",
+        "visual_hint": "Team shipping fast",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test with one low-risk flow",
+        "description": "Migrate a single booking flow with GPT this week. If it saves time, scale; if not, lose a day.",
+        "visual_hint": "One booking flow test",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try this migration now",
+        "description": "Pick one booking flow, run it with GPT this week. Save time or learn fast.",
+        "visual_hint": "Start the GPT test",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-23T17:46:15.791Z",
+    "sourceId": "426cbb80fb50a779d7b4debda2bd0f30"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "top-spy-agencies-say-ai-cyber-threats-will-impact-",
     "prompt_version": "1.0.0",
     "status": "published",
