@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "why-corporate-ai-super-pacs-spent-27-million-on-a-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Why corporate AI super PACs spent $27 million on a local election",
+    "link": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+    "pubDate": "2026-06-23T17:00:00.000Z",
+    "slides": [
+      "Why did AI super PACs pour $27 million into one local race?",
+      "The election decided control of a key state's utility commission.",
+      "That commission will approve massive new data center electricity contracts.",
+      "Your company's AI costs are directly tied to those power approvals.",
+      "Track your local utility board meetings starting this month."
+    ],
+    "thread_text": [
+      "1. Who funded that?\n\n$27 million from AI super PACs just flooded one local utility commission race.",
+      "2. The real prize\n\nThat race decides who approves electricity contracts for massive data centers.",
+      "3. Your AI cost link\n\nThose contracts set the power rates your company pays to run models.",
+      "4. The hidden lever\n\nLocal utility board meetings—not Congress—control your future AI expenses.",
+      "5. Track this month\n\nFind your next utility board meeting and put it on your calendar today."
+    ],
+    "video_script": [
+      "AI super PACs spent $27 million locally.",
+      "The target: a utility commission seat.",
+      "That commission approves data center power.",
+      "Your AI costs depend on those contracts.",
+      "Track your local utility board now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who funded that?\n\n$27 million from AI super PACs just flooded one local utility commission race.",
+          "2. The real prize\n\nThat race decides who approves electricity contracts for massive data centers.",
+          "3. Your AI cost link\n\nThose contracts set the power rates your company pays to run models.",
+          "4. The hidden lever\n\nLocal utility board meetings—not Congress—control your future AI expenses.",
+          "5. Track this month\n\nFind your next utility board meeting and put it on your calendar today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI super PACs spent $27 million locally.",
+          "The target: a utility commission seat.",
+          "That commission approves data center power.",
+          "Your AI costs depend on those contracts.",
+          "Track your local utility board now."
+        ]
+      },
+      "instagram": {
+        "caption": "$27 million from AI super PACs poured into a single local utility commission race. ⚡\n\nThat race decides who approves the power contracts for massive data centers. Those contracts set the electricity rates that directly dictate your company's AI costs. 📉\n\nLocal utility board meetings—not Congress—now control your bottom line for running models.\n\nFind your next utility board meeting and put it on your calendar today. 🔍 When is yours?"
+      }
+    },
+    "instagram_caption": "$27 million from AI super PACs poured into a single local utility commission race. ⚡\n\nThat race decides who approves the power contracts for massive data centers. Those contracts set the electricity rates that directly dictate your company's AI costs. 📉\n\nLocal utility board meetings—not Congress—now control your bottom line for running models.\n\nFind your next utility board meeting and put it on your calendar today. 🔍 When is yours?",
+    "carousel_slides": [
+      {
+        "hook": "Your AI bills depend on this.",
+        "description": "AI super PACs spent $27 million on a local utility race that controls data center power costs.",
+        "visual_hint": "Money stack with power lines",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "money stack electricity"
+      },
+      {
+        "hook": "Who won the real prize?",
+        "description": "The election decided control of a state utility commission approving massive data center contracts.",
+        "visual_hint": "Utility building with data clouds",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "utility commission building",
+        "image": "https://images.pexels.com/photos/31306298/pexels-photo-31306298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Data centers need power approvals.",
+        "description": "Those commission contracts set the electricity rates your company pays to run AI models.",
+        "visual_hint": "Server rack with lightning bolt",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Track these meetings, not Congress.",
+        "description": "Local utility board meetings—not federal policy—control your future AI electricity expenses.",
+        "visual_hint": "Calendar with meeting icon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "calendar meeting board",
+        "image": "https://images.pexels.com/photos/7550933/pexels-photo-7550933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: find your next meeting.",
+        "description": "Look up your local utility board meeting schedule and put it on your calendar today.",
+        "visual_hint": "Finger pressing calendar date",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar date finger",
+        "image": "https://images.pexels.com/photos/6892910/pexels-photo-6892910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2280753489.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.755291928874%2C100%2C78.489416142251&amp;w=1200",
+    "savedAt": "2026-06-23T23:01:15.053Z",
+    "sourceId": "3eba7d9d34da94685067e84c491192d9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "superhuman-acquires-ai-detection-startup-gptzero",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Superhuman acquires AI detection startup GPTZero",
+    "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+    "pubDate": "Tue, 23 Jun 2026 21:48:23 +0000",
+    "slides": [
+      "What does Superhuman want with GPTZero?",
+      "GPTZero scans text for AI fingerprints.",
+      "Superhuman isn’t just buying a detection tool.",
+      "Your inbox may soon flag AI-written replies.",
+      "Test your own drafts against this new layer."
+    ],
+    "thread_text": [
+      "1. Why buy the detector?\n\nSuperhuman is in talks to acquire GPTZero for an eight-figure sum.",
+      "2. AI writing leaves traces.\n\nGPTZero scans each reply for the statistical patterns LLMs leave behind.",
+      "3. This isn’t a filter.\n\nSuperhuman plans to embed GPTZero into the compose window, not just the inbox.",
+      "4. Your replies get flagged.\n\nA future update may surface a warning when your draft reads like AI wrote it.",
+      "5. Run your own test today.\n\nCopy a reply you wrote yourself into GPTZero’s public demo. Does it pass as human?"
+    ],
+    "video_script": [
+      "Superhuman wants to buy GPTZero.",
+      "GPTZero catches statistical AI patterns.",
+      "They will flag your outgoing drafts.",
+      "It sits inside the compose window.",
+      "Test a draft on GPTZero today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why buy the detector?\n\nSuperhuman is in talks to acquire GPTZero for an eight-figure sum.",
+          "2. AI writing leaves traces.\n\nGPTZero scans each reply for the statistical patterns LLMs leave behind.",
+          "3. This isn’t a filter.\n\nSuperhuman plans to embed GPTZero into the compose window, not just the inbox.",
+          "4. Your replies get flagged.\n\nA future update may surface a warning when your draft reads like AI wrote it.",
+          "5. Run your own test today.\n\nCopy a reply you wrote yourself into GPTZero’s public demo. Does it pass as human?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Superhuman wants to buy GPTZero.",
+          "GPTZero catches statistical AI patterns.",
+          "They will flag your outgoing drafts.",
+          "It sits inside the compose window.",
+          "Test a draft on GPTZero today."
+        ]
+      },
+      "instagram": {
+        "caption": "Superhuman is buying AI detection startup GPTZero for an eight-figure sum.\n\nGPTZero scans text for the statistical patterns LLMs leave behind.\n\nSuperhuman will embed it into the compose window—so your drafts get flagged as AI-written before you hit send.\n\nYour own replies may soon surface a warning that reads like AI wrote them.\n\nCopy a draft you actually wrote into GPTZero’s public demo today—does it pass as human?"
+      }
+    },
+    "instagram_caption": "Superhuman is buying AI detection startup GPTZero for an eight-figure sum.\n\nGPTZero scans text for the statistical patterns LLMs leave behind.\n\nSuperhuman will embed it into the compose window—so your drafts get flagged as AI-written before you hit send.\n\nYour own replies may soon surface a warning that reads like AI wrote them.\n\nCopy a draft you actually wrote into GPTZero’s public demo today—does it pass as human?",
+    "carousel_slides": [
+      {
+        "hook": "Your AI replies will be flagged.",
+        "description": "Superhuman plans to embed GPTZero into the compose window to scan replies before sending.",
+        "visual_hint": "Email draft with warning badge",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "email inbox screen"
+      },
+      {
+        "hook": "AI writing leaves statistical traces.",
+        "description": "GPTZero detects the patterns LLMs leave behind, scanning every reply for telltale signals.",
+        "visual_hint": "Text highlighted with patterns",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "text on screen",
+        "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Not just a filter—an embedded layer.",
+        "description": "Superhuman is buying GPTZero to embed detection inside the compose window, not just the inbox.",
+        "visual_hint": "Compose window with scan UI",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "writing interface closeup",
+        "image": "https://images.pexels.com/photos/5904061/pexels-photo-5904061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "A future update surfaces warnings.",
+        "description": "When your draft reads like AI wrote it, a warning may appear before you hit send.",
+        "visual_hint": "Warning badge on draft",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand typing laptop",
+        "image": "https://images.pexels.com/photos/6001241/pexels-photo-6001241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test your own drafts.",
+        "description": "Copy a reply you wrote yourself into GPTZero’s public demo and see if it passes as human.",
+        "visual_hint": "Demo submission with result",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "web demo button",
+        "image": "https://images.pexels.com/photos/7709273/pexels-photo-7709273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GPTZero-founders-Edward-and-Alex.jpg?resize=1200,786",
+    "savedAt": "2026-06-23T23:01:02.754Z",
+    "sourceId": "629ef74b9d990b1be29ce92e9faecc01"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "halobraid-raises-7m-from-seven-seven-six-to-end-th",
     "prompt_version": "1.0.0",
     "status": "published",

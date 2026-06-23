@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "superhuman-acquires-ai-detection-startup-gptzero",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Superhuman acquires AI detection startup GPTZero",
+  "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+  "pubDate": "Tue, 23 Jun 2026 21:48:23 +0000",
+  "slides": [
+    "What does Superhuman want with GPTZero?",
+    "GPTZero scans text for AI fingerprints.",
+    "Superhuman isn’t just buying a detection tool.",
+    "Your inbox may soon flag AI-written replies.",
+    "Test your own drafts against this new layer."
+  ],
+  "thread_text": [
+    "1. Why buy the detector?\n\nSuperhuman is in talks to acquire GPTZero for an eight-figure sum.",
+    "2. AI writing leaves traces.\n\nGPTZero scans each reply for the statistical patterns LLMs leave behind.",
+    "3. This isn’t a filter.\n\nSuperhuman plans to embed GPTZero into the compose window, not just the inbox.",
+    "4. Your replies get flagged.\n\nA future update may surface a warning when your draft reads like AI wrote it.",
+    "5. Run your own test today.\n\nCopy a reply you wrote yourself into GPTZero’s public demo. Does it pass as human?"
+  ],
+  "video_script": [
+    "Superhuman wants to buy GPTZero.",
+    "GPTZero catches statistical AI patterns.",
+    "They will flag your outgoing drafts.",
+    "It sits inside the compose window.",
+    "Test a draft on GPTZero today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why buy the detector?\n\nSuperhuman is in talks to acquire GPTZero for an eight-figure sum.",
+        "2. AI writing leaves traces.\n\nGPTZero scans each reply for the statistical patterns LLMs leave behind.",
+        "3. This isn’t a filter.\n\nSuperhuman plans to embed GPTZero into the compose window, not just the inbox.",
+        "4. Your replies get flagged.\n\nA future update may surface a warning when your draft reads like AI wrote it.",
+        "5. Run your own test today.\n\nCopy a reply you wrote yourself into GPTZero’s public demo. Does it pass as human?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Superhuman wants to buy GPTZero.",
+        "GPTZero catches statistical AI patterns.",
+        "They will flag your outgoing drafts.",
+        "It sits inside the compose window.",
+        "Test a draft on GPTZero today."
+      ]
+    },
+    "instagram": {
+      "caption": "Superhuman is buying AI detection startup GPTZero for an eight-figure sum.\n\nGPTZero scans text for the statistical patterns LLMs leave behind.\n\nSuperhuman will embed it into the compose window—so your drafts get flagged as AI-written before you hit send.\n\nYour own replies may soon surface a warning that reads like AI wrote them.\n\nCopy a draft you actually wrote into GPTZero’s public demo today—does it pass as human?"
+    }
+  },
+  "instagram_caption": "Superhuman is buying AI detection startup GPTZero for an eight-figure sum.\n\nGPTZero scans text for the statistical patterns LLMs leave behind.\n\nSuperhuman will embed it into the compose window—so your drafts get flagged as AI-written before you hit send.\n\nYour own replies may soon surface a warning that reads like AI wrote them.\n\nCopy a draft you actually wrote into GPTZero’s public demo today—does it pass as human?",
+  "carousel_slides": [
+    {
+      "hook": "Your AI replies will be flagged.",
+      "description": "Superhuman plans to embed GPTZero into the compose window to scan replies before sending.",
+      "visual_hint": "Email draft with warning badge",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "email inbox screen"
+    },
+    {
+      "hook": "AI writing leaves statistical traces.",
+      "description": "GPTZero detects the patterns LLMs leave behind, scanning every reply for telltale signals.",
+      "visual_hint": "Text highlighted with patterns",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "text on screen",
+      "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Not just a filter—an embedded layer.",
+      "description": "Superhuman is buying GPTZero to embed detection inside the compose window, not just the inbox.",
+      "visual_hint": "Compose window with scan UI",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "writing interface closeup",
+      "image": "https://images.pexels.com/photos/5904061/pexels-photo-5904061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A future update surfaces warnings.",
+      "description": "When your draft reads like AI wrote it, a warning may appear before you hit send.",
+      "visual_hint": "Warning badge on draft",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand typing laptop",
+      "image": "https://images.pexels.com/photos/6001241/pexels-photo-6001241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test your own drafts.",
+      "description": "Copy a reply you wrote yourself into GPTZero’s public demo and see if it passes as human.",
+      "visual_hint": "Demo submission with result",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "web demo button",
+      "image": "https://images.pexels.com/photos/7709273/pexels-photo-7709273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/06/GPTZero-founders-Edward-and-Alex.jpg?resize=1200,786",
+  "savedAt": "2026-06-23T23:01:02.754Z",
+  "sourceId": "629ef74b9d990b1be29ce92e9faecc01"
+}
