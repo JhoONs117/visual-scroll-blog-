@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "halobraid-raises-7m-from-seven-seven-six-to-end-th",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
+  "link": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
+  "pubDate": "Tue, 23 Jun 2026 15:09:38 +0000",
+  "slides": [
+    "Your salon appointment just doubled without warning. Why?",
+    "HaloBraid automates the braiding step that takes hours.",
+    "It is a tool, not a robot—and still needs human hands.",
+    "Stylists now book two clients in the same time slot.",
+    "Call your salon tomorrow: ask if they use HaloBraid."
+  ],
+  "thread_text": [
+    "1. Your bill just doubled\n\nA HaloBraid subscription adds $30 per client, automatically billed to your card.",
+    "2. It’s not a robot\n\nA human still feeds the braiding tool strand by strand. No one leaves the room.",
+    "3. Stylists double-book now\n\nTwo clients in one slot means two payments. The machine runs while the stylist combs the second head.",
+    "4. The twist: it’s optional\n\nSalons that adopt it raise prices. Those that don’t lose clients asking for the cheaper two‑hour braid.",
+    "5. Call your salon tomorrow\n\nAsk if they use HaloBraid. If they don’t, ask why they left money on the table."
+  ],
+  "video_script": [
+    "Salon appointment doubled without warning.",
+    "HaloBraid automates hours of braiding.",
+    "It’s a tool, not a robot.",
+    "Stylists book two clients at once.",
+    "Call your salon and ask about it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your bill just doubled\n\nA HaloBraid subscription adds $30 per client, automatically billed to your card.",
+        "2. It’s not a robot\n\nA human still feeds the braiding tool strand by strand. No one leaves the room.",
+        "3. Stylists double-book now\n\nTwo clients in one slot means two payments. The machine runs while the stylist combs the second head.",
+        "4. The twist: it’s optional\n\nSalons that adopt it raise prices. Those that don’t lose clients asking for the cheaper two‑hour braid.",
+        "5. Call your salon tomorrow\n\nAsk if they use HaloBraid. If they don’t, ask why they left money on the table."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Salon appointment doubled without warning.",
+        "HaloBraid automates hours of braiding.",
+        "It’s a tool, not a robot.",
+        "Stylists book two clients at once.",
+        "Call your salon and ask about it."
+      ]
+    },
+    "instagram": {
+      "caption": "Your salon appointment just doubled without warning.\n\nHaloBraid automates the braiding step that takes hours. It’s a tool, not a robot—human hands still feed each strand. Stylists now book two clients in the same time slot for double the pay 💸.\n\nThis means salons can raise prices or keep the same fee for half the time, passing the cost to you with a $30 subscription fee.\n\nCall your salon tomorrow: ask if they use HaloBraid—or if they’re leaving money and your time on the table ⏳👀"
+    }
+  },
+  "instagram_caption": "Your salon appointment just doubled without warning.\n\nHaloBraid automates the braiding step that takes hours. It’s a tool, not a robot—human hands still feed each strand. Stylists now book two clients in the same time slot for double the pay 💸.\n\nThis means salons can raise prices or keep the same fee for half the time, passing the cost to you with a $30 subscription fee.\n\nCall your salon tomorrow: ask if they use HaloBraid—or if they’re leaving money and your time on the table ⏳👀",
+  "carousel_slides": [
+    {
+      "hook": "Your salon bill just doubled. Why?",
+      "description": "A $30 HaloBraid subscription is automatically billed to clients, making a six-hour braid take two.",
+      "visual_hint": "Salon price tag increase",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "salon price list"
+    },
+    {
+      "hook": "It's not a robot—it's a tool.",
+      "description": "A human feeds the braiding tool strand by strand. No one leaves the room.",
+      "visual_hint": "Hands feeding braiding tool",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "braiding tool",
+      "image": "https://images.pexels.com/photos/8468151/pexels-photo-8468151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stylists now double-book clients.",
+      "description": "Two clients in one slot means two payments. The machine braids while the stylist combs.",
+      "visual_hint": "Two salon chairs side by side",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "salon chairs",
+      "image": "https://images.pexels.com/photos/7750115/pexels-photo-7750115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Salons that adopt it raise prices.",
+      "description": "Those that don't lose clients asking for the cheaper two-hour braid.",
+      "visual_hint": "Salon owner talking to client",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "salon consultation",
+      "image": "https://images.pexels.com/photos/29588093/pexels-photo-29588093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this—then call your salon tomorrow.",
+      "description": "Ask if they use HaloBraid. If they don't, ask why they left money on the table.",
+      "visual_hint": "Phone held to ear",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person on phone",
+      "image": "https://images.pexels.com/photos/6609466/pexels-photo-6609466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/HaloBraid.jpg?resize=1200,799",
+  "savedAt": "2026-06-23T21:27:24.201Z",
+  "sourceId": "5252beb68405c430c7a1771b695abcb2"
+}
