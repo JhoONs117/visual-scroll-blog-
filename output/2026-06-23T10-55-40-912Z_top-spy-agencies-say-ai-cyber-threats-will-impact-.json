@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "top-spy-agencies-say-ai-cyber-threats-will-impact-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Top spy agencies say AI cyber threats will impact you within months. Here’s why",
+  "link": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
+  "pubDate": "Tue, 23 Jun 2026 08:00:00 +0000",
+  "slides": [
+    "Who is preparing for AI-driven cyberattacks hitting you soon?",
+    "Top spy agencies warn of automated threats within months.",
+    "AI can now mimic human behavior to bypass defenses.",
+    "Your current security tools will not catch these attacks.",
+    "Audit your systems now for AI-specific vulnerabilities."
+  ],
+  "thread_text": [
+    "1. Who is preparing for AI-driven cyberattacks hitting you soon?\n\nTop spy agencies warn automated threats could strike within months, not years.",
+    "2. AI mimics human behavior now.\n\nIt can copy keystroke patterns and mouse movements, slipping past traditional detection.",
+    "3. Your current defenses are blind.\n\nExisting security tools are not designed to catch attacks that think and adapt like a human operator.",
+    "4. Automated attacks don't sleep.\n\nOnce deployed, the AI probes your network 24/7, learning your weaknesses without human direction.",
+    "5. Audit your systems now.\n\nRun a probe using an AI red-teaming tool on your own login flows this week. When was your last test?"
+  ],
+  "video_script": [
+    "Spy agencies warn AI cyberattacks are coming.",
+    "AI can now mimic your typing behavior.",
+    "Your current tools won't detect these threats.",
+    "Automated attacks learn your network around the clock.",
+    "Audit your systems for AI vulnerabilities today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who is preparing for AI-driven cyberattacks hitting you soon?\n\nTop spy agencies warn automated threats could strike within months, not years.",
+        "2. AI mimics human behavior now.\n\nIt can copy keystroke patterns and mouse movements, slipping past traditional detection.",
+        "3. Your current defenses are blind.\n\nExisting security tools are not designed to catch attacks that think and adapt like a human operator.",
+        "4. Automated attacks don't sleep.\n\nOnce deployed, the AI probes your network 24/7, learning your weaknesses without human direction.",
+        "5. Audit your systems now.\n\nRun a probe using an AI red-teaming tool on your own login flows this week. When was your last test?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Spy agencies warn AI cyberattacks are coming.",
+        "AI can now mimic your typing behavior.",
+        "Your current tools won't detect these threats.",
+        "Automated attacks learn your network around the clock.",
+        "Audit your systems for AI vulnerabilities today."
+      ]
+    },
+    "instagram": {
+      "caption": "Top spy agencies warn automated AI cyberattacks could hit you within months, not years. 🚨\n\nThese attacks can now mimic your keystrokes and mouse movements. Your current security tools are blind to them. Once launched, the AI probes your network 24/7, learning weaknesses without a break.\n\nIf you manage logins, payments, or user data, your defenses are not built for this. ⚠️\n\nWhen was the last time you ran an AI red-teaming probe on your own login flow? 🔍"
+    }
+  },
+  "instagram_caption": "Top spy agencies warn automated AI cyberattacks could hit you within months, not years. 🚨\n\nThese attacks can now mimic your keystrokes and mouse movements. Your current security tools are blind to them. Once launched, the AI probes your network 24/7, learning weaknesses without a break.\n\nIf you manage logins, payments, or user data, your defenses are not built for this. ⚠️\n\nWhen was the last time you ran an AI red-teaming probe on your own login flow? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your security tools are blind.",
+      "description": "AI mimics human keystrokes and mouse movements, easily bypassing traditional detection systems.",
+      "visual_hint": "Anti-virus software warning screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer security warning"
+    },
+    {
+      "hook": "Spy agencies warn of imminent AI attacks.",
+      "description": "Automated threats could strike within months, probing networks nonstop without human guidance.",
+      "visual_hint": "Holographic globe with alert dots",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "digital world map",
+      "image": "https://images.pexels.com/photos/5137785/pexels-photo-5137785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI mimics humans to evade you.",
+      "description": "It copies keystroke patterns and mouse movements, slipping past tools not built for adaptive attacks.",
+      "visual_hint": "Transparent hand over a keyboard",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "keyboard close up",
+      "image": "https://images.pexels.com/photos/37005816/pexels-photo-37005816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Automated attacks run nonstop.",
+      "description": "Once deployed, AI probes your network 24/7, learning weaknesses without human intervention.",
+      "visual_hint": "Clock with binary code overlay",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "binary code clock",
+      "image": "https://images.pexels.com/photos/11565628/pexels-photo-11565628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your login flows this week.",
+      "description": "Run an AI red-teaming tool against your own systems now – before automated attackers do.",
+      "visual_hint": "Checkmark on a security report",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "security audit checklist",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/9830822/pexels-photo-9830822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-23T10:55:56.329Z",
+  "sourceId": "f57fafaddaf28e4fc5baa1020a1d278a"
+}
