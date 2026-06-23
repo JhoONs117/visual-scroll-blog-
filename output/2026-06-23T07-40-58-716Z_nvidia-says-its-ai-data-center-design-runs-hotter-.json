@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nvidia-says-its-ai-data-center-design-runs-hotter-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+  "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+  "pubDate": "2026-06-22T23:24:32.000Z",
+  "slides": [
+    "Can Nvidia run hotter but save tons of water?",
+    "Its new data center design uses 25% less cooling water.",
+    "But higher temperatures risk chip performance under load.",
+    "Your next facility may need different cooling infrastructure.",
+    "Check if your current setup can handle the extra heat."
+  ],
+  "thread_text": [
+    "1. Can Nvidia run hotter?\n\nIts new data center design cuts cooling water by 25%, but the real price may be paid in chip stability under full load.",
+    "2. Water savings come with heat.\n\nHigher operating temperatures let fans spin slower, but they push silicon closer to thermal throttling thresholds during peak demand.",
+    "3. Your cooling gear may not cope.\n\nStandard liquid or air systems designed for today’s temps might fail to keep tomorrow’s racks within safe limits.",
+    "4. Infrastructure shift ahead.\n\nNext-gen facilities may need immersion cooling or direct-to-chip loops—retrofits that add cost and complexity.",
+    "5. Check your current setup now.\n\nSimulate a 10°C rise in your hottest rack tomorrow. If your sensors flag red, you’re not ready for Nvidia’s next play."
+  ],
+  "video_script": [
+    "Nvidia saves water by running hotter.",
+    "But hotter chips risk performance under load.",
+    "Your cooling system may not handle it.",
+    "Future facilities will need different gear.",
+    "Test your rack heat tolerance today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can Nvidia run hotter?\n\nIts new data center design cuts cooling water by 25%, but the real price may be paid in chip stability under full load.",
+        "2. Water savings come with heat.\n\nHigher operating temperatures let fans spin slower, but they push silicon closer to thermal throttling thresholds during peak demand.",
+        "3. Your cooling gear may not cope.\n\nStandard liquid or air systems designed for today’s temps might fail to keep tomorrow’s racks within safe limits.",
+        "4. Infrastructure shift ahead.\n\nNext-gen facilities may need immersion cooling or direct-to-chip loops—retrofits that add cost and complexity.",
+        "5. Check your current setup now.\n\nSimulate a 10°C rise in your hottest rack tomorrow. If your sensors flag red, you’re not ready for Nvidia’s next play."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nvidia saves water by running hotter.",
+        "But hotter chips risk performance under load.",
+        "Your cooling system may not handle it.",
+        "Future facilities will need different gear.",
+        "Test your rack heat tolerance today."
+      ]
+    },
+    "instagram": {
+      "caption": "Nvidia’s new data center design runs 25% hotter to cut cooling water use by 25%.\n\nThat saves millions of gallons, but pushes chips closer to thermal throttling under full load 💧🔥. Your current cooling gear—air or liquid—may not handle the extra 10°C safely.\n\nIf you manage or build AI infrastructure, you’ll need to budget for immersion or direct-to-chip cooling upgrades.\n\nRun a 10°C heat rise simulation on your hottest rack today—does it flag red 🚨?"
+    }
+  },
+  "instagram_caption": "Nvidia’s new data center design runs 25% hotter to cut cooling water use by 25%.\n\nThat saves millions of gallons, but pushes chips closer to thermal throttling under full load 💧🔥. Your current cooling gear—air or liquid—may not handle the extra 10°C safely.\n\nIf you manage or build AI infrastructure, you’ll need to budget for immersion or direct-to-chip cooling upgrades.\n\nRun a 10°C heat rise simulation on your hottest rack today—does it flag red 🚨?",
+  "carousel_slides": [
+    {
+      "hook": "Can heat save water?",
+      "description": "Nvidia's new data center cuts cooling water 25% but risks chip throttling under full load.",
+      "visual_hint": "Data center with steam",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data center interior"
+    },
+    {
+      "hook": "Fans spin slower, chips hotter",
+      "description": "Higher temps let fans slow down but push silicon close to thermal limits during peak demand.",
+      "visual_hint": "Fan blades close-up",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server fan close-up",
+      "image": "https://images.pexels.com/photos/6804098/pexels-photo-6804098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your cooling gear might fail",
+      "description": "Standard liquid or air systems designed for today's temps may not handle tomorrow's hotter racks.",
+      "visual_hint": "Thermal sensor reading",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "temperature sensor",
+      "image": "https://images.pexels.com/photos/5532986/pexels-photo-5532986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Immersion cooling ahead?",
+      "description": "Next-gen facilities may need immersion or direct-to-chip loops—retrofits that add cost and complexity.",
+      "visual_hint": "Technician installing coolant",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "coolant pipe installation",
+      "image": "https://images.pexels.com/photos/9702341/pexels-photo-9702341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your rack heat now",
+      "description": "Simulate a 10°C rise on your hottest rack. If sensors flag red, you're not ready.",
+      "visual_hint": "Dashboard with alerts",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "server rack warning",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-23T07:41:26.063Z",
+  "sourceId": "9a78d8672dc2ec204b1a1fd593125c3a"
+}
