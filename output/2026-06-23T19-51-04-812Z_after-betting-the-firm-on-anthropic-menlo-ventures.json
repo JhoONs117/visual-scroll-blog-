@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "after-betting-the-firm-on-anthropic-menlo-ventures",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+  "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+  "pubDate": "Tue, 23 Jun 2026 19:49:55 +0000",
+  "slides": [
+    "Menlo bet everything on Anthropic. Did it pay off?",
+    "It raised a $3B fund after that single bet.",
+    "Most firms diversify. Menlo did the opposite.",
+    "If you're a founder, their conviction is now capital.",
+    "Ask: would you bet your firm on one company?"
+  ],
+  "thread_text": [
+    "1. One bet, one firm\n\nMenlo put its entire $3B fund into a single company: Anthropic. No backup, no hedge.",
+    "2. The anti-diversification play\n\nMost VCs spread risk across 20+ startups. Menlo did the opposite and doubled down.",
+    "3. Conviction as capital\n\nFounders now see Menlo’s move as a signal: extreme belief can unlock massive funding.",
+    "4. The bet behind the bet\n\nAnthropic wasn’t a safe choice. Menlo chose a startup over safer AI giants.",
+    "5. Would you?\n\nAsk yourself: could you bet your entire firm on one company? If not, what’s missing in your conviction?"
+  ],
+  "video_script": [
+    "Menlo bet everything on Anthropic.",
+    "They raised a three billion fund.",
+    "Most firms diversify. Menlo didn’t.",
+    "Conviction is now their only currency.",
+    "Would you bet your firm on one?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. One bet, one firm\n\nMenlo put its entire $3B fund into a single company: Anthropic. No backup, no hedge.",
+        "2. The anti-diversification play\n\nMost VCs spread risk across 20+ startups. Menlo did the opposite and doubled down.",
+        "3. Conviction as capital\n\nFounders now see Menlo’s move as a signal: extreme belief can unlock massive funding.",
+        "4. The bet behind the bet\n\nAnthropic wasn’t a safe choice. Menlo chose a startup over safer AI giants.",
+        "5. Would you?\n\nAsk yourself: could you bet your entire firm on one company? If not, what’s missing in your conviction?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Menlo bet everything on Anthropic.",
+        "They raised a three billion fund.",
+        "Most firms diversify. Menlo didn’t.",
+        "Conviction is now their only currency.",
+        "Would you bet your firm on one?"
+      ]
+    },
+    "instagram": {
+      "caption": "One VC firm poured its entire $3 billion into a single AI startup—Anthropic—and just raised another $3 billion fund off the back of that bet. 🎲\n\nNo hedge. No backup. Most VCs spread risk across 20 companies; Menlo did the opposite and doubled down on one. That conviction turned into capital, signaling to founders that extreme belief can unlock massive backing.\n\nFor anyone building content or tools on AI models: this means Anthropic gets a huge cash injection to shape product features and pricing—your stack could depend on their roadmap.\n\nCould you bet your entire operation on a single provider? What would it take for you to go all-in like that? 🔍"
+    }
+  },
+  "instagram_caption": "One VC firm poured its entire $3 billion into a single AI startup—Anthropic—and just raised another $3 billion fund off the back of that bet. 🎲\n\nNo hedge. No backup. Most VCs spread risk across 20 companies; Menlo did the opposite and doubled down on one. That conviction turned into capital, signaling to founders that extreme belief can unlock massive backing.\n\nFor anyone building content or tools on AI models: this means Anthropic gets a huge cash injection to shape product features and pricing—your stack could depend on their roadmap.\n\nCould you bet your entire operation on a single provider? What would it take for you to go all-in like that? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Would you bet your firm?",
+      "description": "Menlo Ventures put its entire $3B fund on one company: Anthropic. No hedge, no backup.",
+      "visual_hint": "Scaling graph arrow up",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stack of chips"
+    },
+    {
+      "hook": "Anti-diversification paid off.",
+      "description": "Most VCs spread risk across 20+ startups. Menlo doubled down and raised $3B.",
+      "visual_hint": "Single rocket launching",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "rocket launch pad",
+      "image": "https://images.pexels.com/photos/11488308/pexels-photo-11488308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Conviction as capital.",
+      "description": "Founders now see extreme belief as a signal for massive funding from Menlo.",
+      "visual_hint": "Magnifying glass on money",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass cash",
+      "image": "https://images.pexels.com/photos/8970301/pexels-photo-8970301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They chose startup over giants.",
+      "description": "Menlo bet on Anthropic instead of safer AI giants. Their entire fund followed.",
+      "visual_hint": "Hand placing chip on table",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand placing bet",
+      "image": "https://images.pexels.com/photos/28560402/pexels-photo-28560402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Would you make that bet?",
+      "description": "Ask yourself: could you bet your entire firm on one company? Comment below.",
+      "visual_hint": "Question mark on podium",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "podium question mark",
+      "image": "https://images.pexels.com/photos/10981245/pexels-photo-10981245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Victory-dollars-dollar-signs.png?resize=1200,960",
+  "savedAt": "2026-06-23T19:51:19.017Z",
+  "sourceId": "137f2f54de32f4f6110110168172c15a"
+}
