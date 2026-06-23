@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-launches-new-initiative-to-help-find-and-pa",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+  "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+  "pubDate": "Tue, 23 Jun 2026 00:11:31 +0000",
+  "slides": [
+    "OpenAI wants to fix open-source bugs. Can it?",
+    "It builds a system that finds vulnerabilities automatically.",
+    "Human reviewers still decide which patches are safe.",
+    "Your open-source project could get a free security audit.",
+    "Submit your repo today. Test if AI finds your bugs."
+  ],
+  "thread_text": [
+    "AI hunts your bugs.\n\nOpenAI’s system already scanned public repos and found real flaws. It works.",
+    "But it lacks permission.\n\nThe AI can suggest a fix, but only humans hit “merge.” The code stays under review.",
+    "The catch: false alarms.\n\nEarly tests show the AI flags many harmless patterns. Reviewers still waste time.",
+    "Your turn to get scanned.\n\nSubmit your GitHub repo. The AI will run its analysis and send you its findings.",
+    "Will you let it into your project?\n\nDrop your repo link in the replies. See what the AI misses."
+  ],
+  "video_script": [
+    "OpenAI built an automatic bug finder.",
+    "It scans open-source code for vulnerabilities.",
+    "Humans still approve each patch.",
+    "Your project can get a free audit.",
+    "Submit your repo and test it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "AI hunts your bugs.\n\nOpenAI’s system already scanned public repos and found real flaws. It works.",
+        "But it lacks permission.\n\nThe AI can suggest a fix, but only humans hit “merge.” The code stays under review.",
+        "The catch: false alarms.\n\nEarly tests show the AI flags many harmless patterns. Reviewers still waste time.",
+        "Your turn to get scanned.\n\nSubmit your GitHub repo. The AI will run its analysis and send you its findings.",
+        "Will you let it into your project?\n\nDrop your repo link in the replies. See what the AI misses."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI built an automatic bug finder.",
+        "It scans open-source code for vulnerabilities.",
+        "Humans still approve each patch.",
+        "Your project can get a free audit.",
+        "Submit your repo and test it."
+      ]
+    },
+    "instagram": {
+      "caption": "Your open-source project might already have a bug that OpenAI’s new scanner just found.\n\nOpenAI built an automated system that hunts for vulnerabilities in public code—and it’s already spotted real flaws. 🕵️  \nBut it only suggests fixes: a human must still review and approve every patch before it goes live.\n\nFor you as a developer, this could mean a free security audit—but also more false alarms to sort through.\n\nWould you let an AI scan your repo—or do you trust it to see what it’s missing? 🔍"
+    }
+  },
+  "instagram_caption": "Your open-source project might already have a bug that OpenAI’s new scanner just found.\n\nOpenAI built an automated system that hunts for vulnerabilities in public code—and it’s already spotted real flaws. 🕵️  \nBut it only suggests fixes: a human must still review and approve every patch before it goes live.\n\nFor you as a developer, this could mean a free security audit—but also more false alarms to sort through.\n\nWould you let an AI scan your repo—or do you trust it to see what it’s missing? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Will AI actually fix bugs?",
+      "description": "OpenAI built a system that finds real vulnerabilities in open-source repos. It works.",
+      "visual_hint": "Glowing bug code scan",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence code"
+    },
+    {
+      "hook": "AI finds hazards. Humans decide.",
+      "description": "The AI suggests patches, but only human reviewers approve them. Security stays safe.",
+      "visual_hint": "Code with human checkmark",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "developer approving code",
+      "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Warning: false alarms ahead.",
+      "description": "Early tests show many harmless patterns flagged. Reviewers still waste time filtering.",
+      "visual_hint": "Alarm clock with code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "alarm clock coding",
+      "image": "https://images.pexels.com/photos/11162426/pexels-photo-11162426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your repo could be next.",
+      "description": "Submit your project for a free AI security audit. It scans and sends findings.",
+      "visual_hint": "GitHub folder with shield",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "GitHub repository scan",
+      "image": "https://images.pexels.com/photos/14819814/pexels-photo-14819814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Drop your repo link below.",
+      "description": "Paste your GitHub repo in the replies. See if the AI finds your bugs first.",
+      "visual_hint": "Arrow pointing to link",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone replying comment",
+      "image": "https://images.pexels.com/photos/5053765/pexels-photo-5053765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+  "savedAt": "2026-06-23T02:29:09.438Z",
+  "sourceId": "8bdf35b5ee9057313041fb983e0ea30e"
+}

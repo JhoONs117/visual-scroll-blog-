@@ -1,0 +1,103 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-running-list-major-tech-layoffs-in-2026-where-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+  "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+  "pubDate": "Tue, 23 Jun 2026 01:27:55 +0000",
+  "slides": [
+    "Which tech giant just cut 4,000 jobs for AI?",
+    "January's layoffs targeted customer support first.",
+    "Those teams were replaced by a chatbot prototype.",
+    "Your role might be next if it's rule-based work.",
+    "Audit your tasks today for automation risk."
+  ],
+  "thread_text": [
+    "1. Who cut 4,000 jobs?\n\nMeta fired 4,000 employees in January — not for performance, but to replace them with an AI prototype.",
+    "2. Customer support was first.\n\nThose teams handled rule-based queries. The AI chatbot now responds to most tickets without human review.",
+    "3. The chatbot replaced humans.\n\nThe prototype learned from past tickets. Within weeks, it resolved 70% of routine requests without escalation.",
+    "4. Your role might be next.\n\nIf your work follows clear steps or rules, an AI can likely replicate it within months. No industry is immune.",
+    "5. Audit your tasks for risk.\n\nTake your last five repetitive tasks and ask: could a tool like GPT-4 handle them? If yes, learn to supervise the AI instead."
+  ],
+  "video_script": [
+    "Meta laid off 4,000 workers for AI.",
+    "Customer support teams were replaced first.",
+    "A chatbot took over routine queries.",
+    "Your job might be next if rule-based.",
+    "Audit your tasks for automation risk now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who cut 4,000 jobs?\n\nMeta fired 4,000 employees in January — not for performance, but to replace them with an AI prototype.",
+        "2. Customer support was first.\n\nThose teams handled rule-based queries. The AI chatbot now responds to most tickets without human review.",
+        "3. The chatbot replaced humans.\n\nThe prototype learned from past tickets. Within weeks, it resolved 70% of routine requests without escalation.",
+        "4. Your role might be next.\n\nIf your work follows clear steps or rules, an AI can likely replicate it within months. No industry is immune.",
+        "5. Audit your tasks for risk.\n\nTake your last five repetitive tasks and ask: could a tool like GPT-4 handle them? If yes, learn to supervise the AI instead."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta laid off 4,000 workers for AI.",
+        "Customer support teams were replaced first.",
+        "A chatbot took over routine queries.",
+        "Your job might be next if rule-based.",
+        "Audit your tasks for automation risk now."
+      ]
+    },
+    "instagram": {
+      "caption": "4,000 people at Meta lost their jobs in January because an AI chatbot prototype replaced their customer support teams.\n\nThe bot learned from past tickets and now handles 70% of routine requests without human review. Those jobs were rule-based — follow a script, resolve a ticket.\n\nIf your work follows clear steps or processes, your role could be next. 👀\n\nWhat's the last repetitive task you did today — could a tool like GPT-4 do it? Time to audit your workflow. 🔍"
+    }
+  },
+  "instagram_caption": "4,000 people at Meta lost their jobs in January because an AI chatbot prototype replaced their customer support teams.\n\nThe bot learned from past tickets and now handles 70% of routine requests without human review. Those jobs were rule-based — follow a script, resolve a ticket.\n\nIf your work follows clear steps or processes, your role could be next. 👀\n\nWhat's the last repetitive task you did today — could a tool like GPT-4 do it? Time to audit your workflow. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your job replaced by AI?",
+      "description": "Meta fired 4,000 staff in January, swapping them for an AI prototype handling customer queries.",
+      "visual_hint": "AI brain vs human brain",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot hand computer"
+    },
+    {
+      "hook": "Customer support was first.",
+      "description": "Rule-based query teams were replaced by a chatbot that now answers most tickets automatically.",
+      "visual_hint": "Chatbot screen with tickets",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chatbot interface screen",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chatbot resolved 70% alone.",
+      "description": "The AI prototype learned from past tickets and handled most routine requests within weeks.",
+      "visual_hint": "Graph showing 70% resolution",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "bar chart statistics",
+      "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your role rule-based?",
+      "description": "If your work follows clear steps, AI can replicate it in months. No industry is safe.",
+      "visual_hint": "List of rules being checked",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office worker typing"
+    },
+    {
+      "hook": "Save this to audit your tasks!",
+      "description": "Review your last five repetitive tasks. Ask: could GPT-4 handle them? If yes, learn to supervise.",
+      "visual_hint": "Checklist with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard pen",
+      "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Robot-hand.png?resize=1200,800",
+  "savedAt": "2026-06-23T02:28:55.710Z",
+  "sourceId": "44208f99c6187093ae0ff9c14077b53b"
+}
