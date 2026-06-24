@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "samsung-opens-chatgpt-enterprise-and-codex-access-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
+  "link": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
+  "pubDate": "Wed, 24 Jun 2026 10:00:00 +0000",
+  "slides": [
+    "Why did Samsung reverse its AI ban?",
+    "It now allows ChatGPT Enterprise and Codex.",
+    "Restrictions once blocked all generative AI use.",
+    "ChatGPT Enterprise now secures sensitive company data.",
+    "Test internal prompts against your data privacy policy."
+  ],
+  "thread_text": [
+    "1. Why the reversal?\n\nSamsung employees accidentally leaked data via ChatGPT, forcing a total ban. Now they’re letting it back in.",
+    "2. The new rule\n\nOnly ChatGPT Enterprise and Codex are approved. Personal accounts still blocked.",
+    "3. The old wall\n\nLast year Samsung banned all generative AI. Worried about code and secrets ending up in training data.",
+    "4. What changed\n\nEnterprise promises data isolation. Your company’s prompts won’t train the model.",
+    "5. Your move\n\nGrab a real internal prompt and test it against your data privacy policy today. Have you checked?"
+  ],
+  "video_script": [
+    "Samsung reversed its AI ban after data leaks.",
+    "Now only ChatGPT Enterprise and Codex are allowed.",
+    "Old restrictions blocked all generative AI tools.",
+    "Enterprise secures your sensitive company data.",
+    "Test internal prompts against your privacy policy."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why the reversal?\n\nSamsung employees accidentally leaked data via ChatGPT, forcing a total ban. Now they’re letting it back in.",
+        "2. The new rule\n\nOnly ChatGPT Enterprise and Codex are approved. Personal accounts still blocked.",
+        "3. The old wall\n\nLast year Samsung banned all generative AI. Worried about code and secrets ending up in training data.",
+        "4. What changed\n\nEnterprise promises data isolation. Your company’s prompts won’t train the model.",
+        "5. Your move\n\nGrab a real internal prompt and test it against your data privacy policy today. Have you checked?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Samsung reversed its AI ban after data leaks.",
+        "Now only ChatGPT Enterprise and Codex are allowed.",
+        "Old restrictions blocked all generative AI tools.",
+        "Enterprise secures your sensitive company data.",
+        "Test internal prompts against your privacy policy."
+      ]
+    },
+    "instagram": {
+      "caption": "Samsung just reopened the door to ChatGPT—but only its Enterprise version, not the free chatbot your team probably used. 🚪\n\nEmployees once leaked secret code and data, triggering a total ban on all generative AI. Now the company trusts Enterprise to keep your prompts separate from model training. 🛡️ No more accidental leaks into public AI.\n\nFor anyone writing code, internal docs, or sensitive content: your work can stay private again. But only if you use the approved tool.\n\n**Grab one actual work prompt right now—does it violate your own privacy policy?** 🧾"
+    }
+  },
+  "instagram_caption": "Samsung just reopened the door to ChatGPT—but only its Enterprise version, not the free chatbot your team probably used. 🚪\n\nEmployees once leaked secret code and data, triggering a total ban on all generative AI. Now the company trusts Enterprise to keep your prompts separate from model training. 🛡️ No more accidental leaks into public AI.\n\nFor anyone writing code, internal docs, or sensitive content: your work can stay private again. But only if you use the approved tool.\n\n**Grab one actual work prompt right now—does it violate your own privacy policy?** 🧾",
+  "carousel_slides": [
+    {
+      "hook": "They banned AI. Now they let it back.",
+      "description": "Samsung reversed its generative AI ban after employees leaked data, now only ChatGPT Enterprise and Codex are approved.",
+      "visual_hint": "Samsung logo with lock",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Samsung headquarters"
+    },
+    {
+      "hook": "Only Enterprise accounts allowed.",
+      "description": "Samsung permits only ChatGPT Enterprise and Codex, keeping personal accounts blocked to prevent data leaks.",
+      "visual_hint": "ChatGPT Enterprise dashboard",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chatgpt interface",
+      "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Last year a total ban hit.",
+      "description": "Samsung blocked all generative AI fearing code and secrets could train public models, forcing a company-wide halt.",
+      "visual_hint": "Red stop sign AI",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Enterprise isolates your data now.",
+      "description": "Data isolation means your company prompts won't train the model, securing sensitive information from exposure.",
+      "visual_hint": "Shield over data stream",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your prompt against policy today.",
+      "description": "Grab an internal prompt and check it against your data privacy policy now. Have you verified compliance?",
+      "visual_hint": "Checklist and policy document",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer keyboard",
+      "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-24T10:41:50.969Z",
+  "sourceId": "a16efe29c379253e9d3c49449c12da0c"
+}

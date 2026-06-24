@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "anthropic-drops-workplace-ai-agents-directly-insid",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
+    "link": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
+    "pubDate": "Wed, 24 Jun 2026 09:00:00 +0000",
+    "slides": [
+      "Can Anthropic agents inside Slack replace your team?",
+      "Claude now acts directly within Slack channels",
+      "It sees your messages but not your private DMs",
+      "You can assign it tasks right where you chat",
+      "Test one agent on a single project this week"
+    ],
+    "thread_text": [
+      "1. AI that replaces your team?\n\nClaude now acts directly inside Slack channels, seeing messages but not private DMs.",
+      "2. Assign tasks mid-chat\n\nYou don't need a separate interface — just type what you need where you already collaborate.",
+      "3. Privacy boundary set\n\nYour private DMs stay off-limits, but anything in a public channel is fair game for Claude.",
+      "4. One project test drive\n\nSlack suggests testing one agent on a single project this week, limiting disruption.",
+      "5. Will you test it?\n\nTake one repetitive Slack project and assign it to Claude this week. Measure time saved vs. editing needed."
+    ],
+    "video_script": [
+      "Claude now lives inside your Slack channels.",
+      "It reads messages but not your private DMs.",
+      "You can assign tasks right where you chat.",
+      "Test one agent on a single project.",
+      "Will it replace your team this week?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI that replaces your team?\n\nClaude now acts directly inside Slack channels, seeing messages but not private DMs.",
+          "2. Assign tasks mid-chat\n\nYou don't need a separate interface — just type what you need where you already collaborate.",
+          "3. Privacy boundary set\n\nYour private DMs stay off-limits, but anything in a public channel is fair game for Claude.",
+          "4. One project test drive\n\nSlack suggests testing one agent on a single project this week, limiting disruption.",
+          "5. Will you test it?\n\nTake one repetitive Slack project and assign it to Claude this week. Measure time saved vs. editing needed."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Claude now lives inside your Slack channels.",
+          "It reads messages but not your private DMs.",
+          "You can assign tasks right where you chat.",
+          "Test one agent on a single project.",
+          "Will it replace your team this week?"
+        ]
+      },
+      "instagram": {
+        "caption": "You can now assign tasks to Claude inside your Slack channels without leaving the chat. 🤖\n\nClaude sees public messages but not private DMs. You type a request mid-conversation, and it acts on the project right there. No separate interface needed.\n\nSlack suggests testing one agent on a single project this week. Your repetitive workflows could shrink to a command.\n\nWhat repetitive task in your Slack would you hand off starting today?"
+      }
+    },
+    "instagram_caption": "You can now assign tasks to Claude inside your Slack channels without leaving the chat. 🤖\n\nClaude sees public messages but not private DMs. You type a request mid-conversation, and it acts on the project right there. No separate interface needed.\n\nSlack suggests testing one agent on a single project this week. Your repetitive workflows could shrink to a command.\n\nWhat repetitive task in your Slack would you hand off starting today?",
+    "carousel_slides": [
+      {
+        "hook": "Can AI replace your team?",
+        "description": "Claude now works inside Slack channels, processing messages but not private DMs.",
+        "visual_hint": "Slack interface with robot",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Slack chat interface"
+      },
+      {
+        "hook": "Assign tasks mid-conversation",
+        "description": "No separate interface needed — type tasks where you already chat, without disruption.",
+        "visual_hint": "Chat with task assignment",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office chat screenshot",
+        "image": "https://images.pexels.com/photos/16037281/pexels-photo-16037281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your DMs stay private",
+        "description": "Claude sees public channel messages only, keeping your private conversations off-limits.",
+        "visual_hint": "Lock icon over DMs",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "privacy lock icon",
+        "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one agent this week",
+        "description": "Pick a single repetitive project and assign it to Claude — measure time saved.",
+        "visual_hint": "Hand selecting project",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand selecting screen",
+        "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test later",
+        "description": "Take one Slack task and assign it to Claude this week — link in bio.",
+        "visual_hint": "Save button with clock",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "save icon clock",
+        "image": "https://images.pexels.com/photos/8542546/pexels-photo-8542546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/7438111/pexels-photo-7438111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-24T10:42:05.298Z",
+    "sourceId": "7a0ffc70bc3155374b9c754edb26b73f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "samsung-opens-chatgpt-enterprise-and-codex-access-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
+    "link": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
+    "pubDate": "Wed, 24 Jun 2026 10:00:00 +0000",
+    "slides": [
+      "Why did Samsung reverse its AI ban?",
+      "It now allows ChatGPT Enterprise and Codex.",
+      "Restrictions once blocked all generative AI use.",
+      "ChatGPT Enterprise now secures sensitive company data.",
+      "Test internal prompts against your data privacy policy."
+    ],
+    "thread_text": [
+      "1. Why the reversal?\n\nSamsung employees accidentally leaked data via ChatGPT, forcing a total ban. Now they’re letting it back in.",
+      "2. The new rule\n\nOnly ChatGPT Enterprise and Codex are approved. Personal accounts still blocked.",
+      "3. The old wall\n\nLast year Samsung banned all generative AI. Worried about code and secrets ending up in training data.",
+      "4. What changed\n\nEnterprise promises data isolation. Your company’s prompts won’t train the model.",
+      "5. Your move\n\nGrab a real internal prompt and test it against your data privacy policy today. Have you checked?"
+    ],
+    "video_script": [
+      "Samsung reversed its AI ban after data leaks.",
+      "Now only ChatGPT Enterprise and Codex are allowed.",
+      "Old restrictions blocked all generative AI tools.",
+      "Enterprise secures your sensitive company data.",
+      "Test internal prompts against your privacy policy."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why the reversal?\n\nSamsung employees accidentally leaked data via ChatGPT, forcing a total ban. Now they’re letting it back in.",
+          "2. The new rule\n\nOnly ChatGPT Enterprise and Codex are approved. Personal accounts still blocked.",
+          "3. The old wall\n\nLast year Samsung banned all generative AI. Worried about code and secrets ending up in training data.",
+          "4. What changed\n\nEnterprise promises data isolation. Your company’s prompts won’t train the model.",
+          "5. Your move\n\nGrab a real internal prompt and test it against your data privacy policy today. Have you checked?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Samsung reversed its AI ban after data leaks.",
+          "Now only ChatGPT Enterprise and Codex are allowed.",
+          "Old restrictions blocked all generative AI tools.",
+          "Enterprise secures your sensitive company data.",
+          "Test internal prompts against your privacy policy."
+        ]
+      },
+      "instagram": {
+        "caption": "Samsung just reopened the door to ChatGPT—but only its Enterprise version, not the free chatbot your team probably used. 🚪\n\nEmployees once leaked secret code and data, triggering a total ban on all generative AI. Now the company trusts Enterprise to keep your prompts separate from model training. 🛡️ No more accidental leaks into public AI.\n\nFor anyone writing code, internal docs, or sensitive content: your work can stay private again. But only if you use the approved tool.\n\n**Grab one actual work prompt right now—does it violate your own privacy policy?** 🧾"
+      }
+    },
+    "instagram_caption": "Samsung just reopened the door to ChatGPT—but only its Enterprise version, not the free chatbot your team probably used. 🚪\n\nEmployees once leaked secret code and data, triggering a total ban on all generative AI. Now the company trusts Enterprise to keep your prompts separate from model training. 🛡️ No more accidental leaks into public AI.\n\nFor anyone writing code, internal docs, or sensitive content: your work can stay private again. But only if you use the approved tool.\n\n**Grab one actual work prompt right now—does it violate your own privacy policy?** 🧾",
+    "carousel_slides": [
+      {
+        "hook": "They banned AI. Now they let it back.",
+        "description": "Samsung reversed its generative AI ban after employees leaked data, now only ChatGPT Enterprise and Codex are approved.",
+        "visual_hint": "Samsung logo with lock",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Samsung headquarters"
+      },
+      {
+        "hook": "Only Enterprise accounts allowed.",
+        "description": "Samsung permits only ChatGPT Enterprise and Codex, keeping personal accounts blocked to prevent data leaks.",
+        "visual_hint": "ChatGPT Enterprise dashboard",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "chatgpt interface",
+        "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Last year a total ban hit.",
+        "description": "Samsung blocked all generative AI fearing code and secrets could train public models, forcing a company-wide halt.",
+        "visual_hint": "Red stop sign AI",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Enterprise isolates your data now.",
+        "description": "Data isolation means your company prompts won't train the model, securing sensitive information from exposure.",
+        "visual_hint": "Shield over data stream",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your prompt against policy today.",
+        "description": "Grab an internal prompt and check it against your data privacy policy now. Have you verified compliance?",
+        "visual_hint": "Checklist and policy document",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer keyboard",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-24T10:41:50.969Z",
+    "sourceId": "a16efe29c379253e9d3c49449c12da0c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "india-s-moengage-bets-that-the-future-of-marketing",
     "prompt_version": "1.0.0",
     "status": "published",
