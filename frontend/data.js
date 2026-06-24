@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "valor-equity-partners-looks-to-raise-a-2-5b-fund-v",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
+    "link": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
+    "pubDate": "Wed, 24 Jun 2026 13:58:14 +0000",
+    "slides": [
+      "Valor Equity is raising $2.5 billion. Where will it deploy?",
+      "The firm excels in growth equity and venture capital.",
+      "Previous funds focused on military tech and logistics.",
+      "This new capital targets co-investors in late-stage deals.",
+      "Ask your GP if they are tracking this fund's strategy."
+    ],
+    "thread_text": [
+      "1. $2.5B pile, where next?\n\nValor Equity just raised 2.5 billion. They are known for growth equity and venture capital bets.",
+      "2. Past playbook: military tech.\n\nEarlier funds poured into defense and logistics startups. That track record shapes their moves.",
+      "3. New capital, new twist.\n\nThis fund targets late-stage co-investments. It shifts from their earlier focus on early-stage deals.",
+      "4. Follow the co-investors.\n\nLP money will partner with other firms on big rounds. That signals a strategy pivot toward risk-sharing.",
+      "5. Ask your GP about Valor.\n\nDoes your fund track this strategy? If not, you might miss a signal on where capital flows next."
+    ],
+    "video_script": [
+      "Valor Equity raised two point five billion.",
+      "They bet on military tech before.",
+      "This fund targets late-stage co-investments.",
+      "It shifts from their earlier playbook.",
+      "Ask your GP if they are tracking."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $2.5B pile, where next?\n\nValor Equity just raised 2.5 billion. They are known for growth equity and venture capital bets.",
+          "2. Past playbook: military tech.\n\nEarlier funds poured into defense and logistics startups. That track record shapes their moves.",
+          "3. New capital, new twist.\n\nThis fund targets late-stage co-investments. It shifts from their earlier focus on early-stage deals.",
+          "4. Follow the co-investors.\n\nLP money will partner with other firms on big rounds. That signals a strategy pivot toward risk-sharing.",
+          "5. Ask your GP about Valor.\n\nDoes your fund track this strategy? If not, you might miss a signal on where capital flows next."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Valor Equity raised two point five billion.",
+          "They bet on military tech before.",
+          "This fund targets late-stage co-investments.",
+          "It shifts from their earlier playbook.",
+          "Ask your GP if they are tracking."
+        ]
+      },
+      "instagram": {
+        "caption": "Valor Equity Partners is raising a $2.5 billion fund, targeting late-stage co-investments instead of its usual early-stage bets. 🚀\n\nThey previously focused on military tech and logistics startups. Now, they want to partner with other firms on big rounds to share risk. 💰\n\nIf you track where capital flows, watch who picks up this strategy as a signal for late-stage deal opportunities.\n\nIs your GP monitoring Valor’s pivot? 🔍"
+      }
+    },
+    "instagram_caption": "Valor Equity Partners is raising a $2.5 billion fund, targeting late-stage co-investments instead of its usual early-stage bets. 🚀\n\nThey previously focused on military tech and logistics startups. Now, they want to partner with other firms on big rounds to share risk. 💰\n\nIf you track where capital flows, watch who picks up this strategy as a signal for late-stage deal opportunities.\n\nIs your GP monitoring Valor’s pivot? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Who's shifting to late-stage?",
+        "description": "Valor Equity raised $2.5B for late-stage co-investments, pivoting from their early-stage roots.",
+        "visual_hint": "Stack of cash and chart",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stack of cash"
+      },
+      {
+        "hook": "Military tech past",
+        "description": "Prior Valor funds targeted defense and logistics startups, shaping their new fund's strategy.",
+        "visual_hint": "Military drone and truck",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "military drone",
+        "image": "https://images.pexels.com/photos/16581888/pexels-photo-16581888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "New capital, new risk",
+        "description": "This $2.5B fund shifts to late-stage co-investments, sharing risk with other firms.",
+        "visual_hint": "Handshake over document",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "handshake document",
+        "image": "https://images.pexels.com/photos/8439681/pexels-photo-8439681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Co-investors signal change",
+        "description": "Valor now partners with others on big rounds, a pivot from early-stage solo bets.",
+        "visual_hint": "Two hands exchanging coins",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands exchanging coins",
+        "image": "https://images.pexels.com/photos/8370753/pexels-photo-8370753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your GP about Valor",
+        "description": "Save this post and ask your GP if they track this fund's late-stage pivot.",
+        "visual_hint": "Phone and notebook",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "phone notebook",
+        "image": "https://images.pexels.com/photos/3850246/pexels-photo-3850246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1973276988.jpg?w=1024",
+    "savedAt": "2026-06-24T14:09:43.890Z",
+    "sourceId": "aba866e36e00bbff23852f6bfdb1bdd8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "anthropic-drops-workplace-ai-agents-directly-insid",
     "prompt_version": "1.0.0",
     "status": "published",
