@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "india-s-moengage-bets-that-the-future-of-marketing",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+  "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+  "pubDate": "Tue, 23 Jun 2026 23:30:00 +0000",
+  "slides": [
+    "Can MoEngage's army of AI agents outsmart your marketing team?",
+    "They replace one campaign with thousands of personalized messages.",
+    "But the agents don’t just target—they negotiate with each other.",
+    "Your next click may be triggered by an agent, not a human.",
+    "Start asking: who in your team will manage these agents?"
+  ],
+  "thread_text": [
+    "1. Your team is obsolete\n\nMoEngage replaces entire campaigns with thousands of AI-generated, personalized messages. One person can't compete with that speed.",
+    "2. Agents that haggle\n\nEach AI negotiates with other agents to pick the best moment and channel for your click. No human approval needed.",
+    "3. Click, but not human\n\nThat link you just tapped might have been triggered by an AI, not a person. The line between organic and automated is gone.",
+    "4. Negotiation, not targeting\n\nThe agents don’t just aim—they bargain in real time. Your offer wins because an AI cut a deal with another AI.",
+    "5. Who manages them?\n\nTake one agent from MoEngage's demo. Ask your team today: who will write the rules and audit its decisions?"
+  ],
+  "video_script": [
+    "Your marketing team now competes with AI agents.",
+    "They replace one campaign with thousands of messages.",
+    "These agents negotiate with each other in real time.",
+    "Your next click may be from an agent.",
+    "Who on your team will manage these agents?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your team is obsolete\n\nMoEngage replaces entire campaigns with thousands of AI-generated, personalized messages. One person can't compete with that speed.",
+        "2. Agents that haggle\n\nEach AI negotiates with other agents to pick the best moment and channel for your click. No human approval needed.",
+        "3. Click, but not human\n\nThat link you just tapped might have been triggered by an AI, not a person. The line between organic and automated is gone.",
+        "4. Negotiation, not targeting\n\nThe agents don’t just aim—they bargain in real time. Your offer wins because an AI cut a deal with another AI.",
+        "5. Who manages them?\n\nTake one agent from MoEngage's demo. Ask your team today: who will write the rules and audit its decisions?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your marketing team now competes with AI agents.",
+        "They replace one campaign with thousands of messages.",
+        "These agents negotiate with each other in real time.",
+        "Your next click may be from an agent.",
+        "Who on your team will manage these agents?"
+      ]
+    },
+    "instagram": {
+      "caption": "The link you just tapped might have been picked by an AI negotiating with another AI, not a human scheduler.  \n\nMoEngage is replacing entire campaigns with millions of AI agents that haggle with each other over the best moment and channel to serve you a message. No marketer approves each move—they just set the guardrails.  \n\nIf you write campaigns or manage ads, your daily job just shifted from “which creative wins” to “audit the rules my agents follow.”  \n\nWho on your team would you trust to write those rules—and review the deals two invisible AIs cut with each other?"
+    }
+  },
+  "instagram_caption": "The link you just tapped might have been picked by an AI negotiating with another AI, not a human scheduler.  \n\nMoEngage is replacing entire campaigns with millions of AI agents that haggle with each other over the best moment and channel to serve you a message. No marketer approves each move—they just set the guardrails.  \n\nIf you write campaigns or manage ads, your daily job just shifted from “which creative wins” to “audit the rules my agents follow.”  \n\nWho on your team would you trust to write those rules—and review the deals two invisible AIs cut with each other?",
+  "carousel_slides": [
+    {
+      "hook": "Your team is obsolete",
+      "description": "MoEngage replaces entire campaigns with thousands of AI-generated, personalized messages. One person can't compete with that speed.",
+      "visual_hint": "army of AI agents",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "ai robots team"
+    },
+    {
+      "hook": "Agents that haggle",
+      "description": "Each AI negotiates with others to pick the best moment and channel for your click. No human approval needed.",
+      "visual_hint": "agents negotiating screens",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Click, but not human",
+      "description": "That link you just tapped might have been triggered by an AI, not a person. The line between organic and automated is gone.",
+      "visual_hint": "finger pressing a button",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "finger pressing button",
+      "image": "https://images.pexels.com/photos/9461215/pexels-photo-9461215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Negotiation, not targeting",
+      "description": "The agents don’t just aim—they bargain in real time. Your offer wins because an AI cut a deal with another AI.",
+      "visual_hint": "two AI shaking hands",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot handshake",
+      "image": "https://images.pexels.com/photos/6153344/pexels-photo-6153344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who manages them?",
+      "description": "Take one agent from MoEngage's demo. Ask your team today: who will write the rules and audit its decisions?",
+      "visual_hint": "team reviewing robot",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers meeting",
+      "image": "https://images.pexels.com/photos/7964244/pexels-photo-7964244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
+  "savedAt": "2026-06-24T02:29:48.102Z",
+  "sourceId": "41e29831de856a18c72d5dee2b6786af"
+}
