@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "companies-are-scrambling-to-stop-employees-from-ma",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+    "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+    "pubDate": "Wed, 24 Jun 2026 20:09:45 +0000",
+    "slides": [
+      "Are tiny AI costs quietly draining your company's budget?",
+      "One employee spent $500 on AI to summarize emails.",
+      "Most leaders never see these charges until it's too late.",
+      "Set per-person caps to stop runaway micro-expenses now.",
+      "A single dashboard will expose every hidden AI cost."
+    ],
+    "thread_text": [
+      "1. $500 to summarize emails\n\nOne employee spent that on AI just to read their own inbox. No approval needed.",
+      "2. Leaders miss the micro-spend\n\nMost CFOs only spot these charges during quarterly audits — when the damage compounds.",
+      "3. The real drain is invisible\n\nThese tools are often expensed under “software” or “miscellaneous,” avoiding standard IT oversight.",
+      "4. Why per-user caps fix it\n\nSet a monthly limit per person. Anything above requires manager sign-off. Stops the bleed.",
+      "5. How to find yours now\n\nPull your last 90 days of expense reports. Search for anything labeled AI or GPT. Have you checked?"
+    ],
+    "video_script": [
+      "One employee spent $500 on AI summaries.",
+      "Most leaders catch it way too late.",
+      "These charges hide under misc expenses.",
+      "Per-person caps stop the bleed immediately.",
+      "Search your last 90 days of reports."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $500 to summarize emails\n\nOne employee spent that on AI just to read their own inbox. No approval needed.",
+          "2. Leaders miss the micro-spend\n\nMost CFOs only spot these charges during quarterly audits — when the damage compounds.",
+          "3. The real drain is invisible\n\nThese tools are often expensed under “software” or “miscellaneous,” avoiding standard IT oversight.",
+          "4. Why per-user caps fix it\n\nSet a monthly limit per person. Anything above requires manager sign-off. Stops the bleed.",
+          "5. How to find yours now\n\nPull your last 90 days of expense reports. Search for anything labeled AI or GPT. Have you checked?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "One employee spent $500 on AI summaries.",
+          "Most leaders catch it way too late.",
+          "These charges hide under misc expenses.",
+          "Per-person caps stop the bleed immediately.",
+          "Search your last 90 days of reports."
+        ]
+      },
+      "instagram": {
+        "caption": "One employee spent $500 on AI just to summarize their emails — no approval needed. 💸\n\nThat charge slipped under the radar because it was filed under \"software.\" Most CFOs only catch these micro-spends during quarterly reviews. 🕵️‍♂️\n\nPer-user caps now: set a monthly limit, and anything over requires manager sign-off.\n\nChecked your last 90 days of expense reports for anything labeled \"AI\" or \"GPT\"?"
+      }
+    },
+    "instagram_caption": "One employee spent $500 on AI just to summarize their emails — no approval needed. 💸\n\nThat charge slipped under the radar because it was filed under \"software.\" Most CFOs only catch these micro-spends during quarterly reviews. 🕵️‍♂️\n\nPer-user caps now: set a monthly limit, and anything over requires manager sign-off.\n\nChecked your last 90 days of expense reports for anything labeled \"AI\" or \"GPT\"?",
+    "carousel_slides": [
+      {
+        "hook": "Your AI budget is bleeding unseen.",
+        "description": "One employee spent $500 on AI just to summarize emails. No one approved it.",
+        "visual_hint": "Faucet dripping tiny AI bills",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "water dripping coins"
+      },
+      {
+        "hook": "Leaders miss the micro-spend trap.",
+        "description": "Most CFOs only catch these charges during quarterly audits, when damage compounds.",
+        "visual_hint": "Quarterly report with hidden fees",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Invisible costs hide in plain sight.",
+        "description": "AI expenses are buried under 'software' or 'miscellaneous,' avoiding IT oversight.",
+        "visual_hint": "AI logs hidden inside expense codes",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Per-user caps stop the bleed.",
+        "description": "Set a monthly limit per person; anything above needs manager sign-off.",
+        "visual_hint": "Hand placing limit on a coin pile",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to find your hidden costs.",
+        "description": "Pull last 90 days of expense reports and search for 'AI' or 'GPT'. Check now.",
+        "visual_hint": "Dashboard with search bar and expenses",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer dashboard",
+        "image": "https://images.pexels.com/photos/7681671/pexels-photo-7681671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+    "savedAt": "2026-06-24T21:17:42.306Z",
+    "sourceId": "444e45a48fbe5f2e10c361feb7de07b3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "figma-now-has-ai-motion-graphics-and-shader-tools",
     "prompt_version": "1.0.0",
     "status": "published",
