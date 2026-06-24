@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "figma-now-has-ai-motion-graphics-and-shader-tools",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Figma now has AI motion graphics and shader tools",
+  "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+  "pubDate": "2026-06-24T16:15:00.000Z",
+  "slides": [
+    "Can Figma accelerate your motion design workflow?",
+    "It now generates motion graphics from static layers.",
+    "But its AI shaders create effects no one hand-codes.",
+    "Your prototypes gain real-time 3D-like motion instantly.",
+    "Test one component with auto-motion today, not tomorrow."
+  ],
+  "thread_text": [
+    "1. What if AI did your motion?\n\nFigma now turns static layers into motion graphics — without plugins.",
+    "2. Shaders no one writes by hand.\n\nIts AI generates visual effects that human coders skip because they're too complex.",
+    "3. Real-time 3D from static frames.\n\nYour prototypes get instant depth and movement — no timeline scrubbing.",
+    "4. Auto-motion is already live.\n\nYou can test one component with one click and see animation appear.",
+    "5. Try it on a real project today.\n\nOpen a static prototype and apply auto-motion to one button. Does it save time or add friction?"
+  ],
+  "video_script": [
+    "Figma adds AI motion from static layers.",
+    "Its shaders create effects no one writes.",
+    "Prototypes move like 3D in real time.",
+    "Test auto-motion on one component now.",
+    "Try it today and judge the results."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if AI did your motion?\n\nFigma now turns static layers into motion graphics — without plugins.",
+        "2. Shaders no one writes by hand.\n\nIts AI generates visual effects that human coders skip because they're too complex.",
+        "3. Real-time 3D from static frames.\n\nYour prototypes get instant depth and movement — no timeline scrubbing.",
+        "4. Auto-motion is already live.\n\nYou can test one component with one click and see animation appear.",
+        "5. Try it on a real project today.\n\nOpen a static prototype and apply auto-motion to one button. Does it save time or add friction?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Figma adds AI motion from static layers.",
+        "Its shaders create effects no one writes.",
+        "Prototypes move like 3D in real time.",
+        "Test auto-motion on one component now.",
+        "Try it today and judge the results."
+      ]
+    },
+    "instagram": {
+      "caption": "Your static layers now animate on their own in Figma 🎬\n\nNo plugins. No timeline scrubbing. The AI generates motion graphics from flat design files and writes shader effects too complex for humans to code by hand.\n\nYour prototypes gain instant depth and real-time 3D-like motion without any manual animation work.\n\nTest one component with auto-motion today. Does it cut your delivery time, or does the automation miss your creative intent?"
+    }
+  },
+  "instagram_caption": "Your static layers now animate on their own in Figma 🎬\n\nNo plugins. No timeline scrubbing. The AI generates motion graphics from flat design files and writes shader effects too complex for humans to code by hand.\n\nYour prototypes gain instant depth and real-time 3D-like motion without any manual animation work.\n\nTest one component with auto-motion today. Does it cut your delivery time, or does the automation miss your creative intent?",
+  "carousel_slides": [
+    {
+      "hook": "What if AI did your motion?",
+      "description": "Figma turns static layers into motion graphics without plugins, accelerating your workflow instantly.",
+      "visual_hint": "Static layer transforming to motion",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "motion graphics animation"
+    },
+    {
+      "hook": "Shaders no one writes by hand.",
+      "description": "AI generates complex visual effects that human coders skip because they're too intricate.",
+      "visual_hint": "Shader code and glowing effects",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "shader code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Real-time 3D from static frames.",
+      "description": "Your prototypes gain instant depth and movement without timeline scrubbing.",
+      "visual_hint": "Static frame gaining 3D depth",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "3D object prototype",
+      "image": "https://images.pexels.com/photos/30640195/pexels-photo-30640195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Auto-motion is already live.",
+      "description": "Test one component with one click and see animation appear, no waiting.",
+      "visual_hint": "One click animation button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "click button prototype",
+      "image": "https://images.pexels.com/photos/21562940/pexels-photo-21562940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it on a real project today.",
+      "description": "Open a static prototype and apply auto-motion to one button to see if it saves time.",
+      "visual_hint": "Open Figma prototype with button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Figma prototype screen",
+      "image": "https://images.pexels.com/photos/12935121/pexels-photo-12935121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-24T17:48:55.741Z",
+  "sourceId": "cfd2abd6965bba1451e064a4bddec1d2"
+}

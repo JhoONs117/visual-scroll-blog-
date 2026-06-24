@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "figma-adds-code-layers-support-for-animations-more",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Figma adds code layers, support for animations, more AI features in new update",
+  "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+  "pubDate": "Wed, 24 Jun 2026 16:15:00 +0000",
+  "slides": [
+    "Figma’s latest update—just another iteration or a workflow revolution?",
+    "Now your designs can generate production-ready code layers.",
+    "But it also introduces native animation tools directly in the canvas.",
+    "You can skip handoff entirely and prototype with live logic.",
+    "Try rebuilding one component with code layers today."
+  ],
+  "thread_text": [
+    "1. Workflow or trap?\n\nFigma’s new update generates production-ready code layers directly from designs.",
+    "2. Animation inside the canvas\n\nNative motion tools let you prototype without leaving the editor for the first time.",
+    "3. Live logic in prototypes\n\nSkip handoff entirely by wiring real UI behavior before developers touch it.",
+    "4. One component, two realities\n\nA rebuilt button with code layers stays synced — design and code no longer diverge.",
+    "5. Test this week\n\nRebuild one component with code layers. Does it save time or just add another tool to audit?"
+  ],
+  "video_script": [
+    "Figma now turns designs into live code layers.",
+    "You can animate directly on the canvas.",
+    "No more handoff — prototype with real logic.",
+    "Design and code finally stay in sync.",
+    "Try rebuilding one component today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Workflow or trap?\n\nFigma’s new update generates production-ready code layers directly from designs.",
+        "2. Animation inside the canvas\n\nNative motion tools let you prototype without leaving the editor for the first time.",
+        "3. Live logic in prototypes\n\nSkip handoff entirely by wiring real UI behavior before developers touch it.",
+        "4. One component, two realities\n\nA rebuilt button with code layers stays synced — design and code no longer diverge.",
+        "5. Test this week\n\nRebuild one component with code layers. Does it save time or just add another tool to audit?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Figma now turns designs into live code layers.",
+        "You can animate directly on the canvas.",
+        "No more handoff — prototype with real logic.",
+        "Design and code finally stay in sync.",
+        "Try rebuilding one component today."
+      ]
+    },
+    "instagram": {
+      "caption": "Production-ready code layers now come directly from your Figma designs — no developer handoff required. 🛠️\n\nThe update adds native animation tools inside the canvas, so you never leave the editor to prototype motion. It also wires live logic into prototypes, letting you test real UI behavior before a single line of code is written.\n\nYou skip the handoff step entirely and keep one component synced between design and code. ⏯️\n\nRebuild one component with code layers this week — does it save you time or just add another tool to audit? 🔍"
+    }
+  },
+  "instagram_caption": "Production-ready code layers now come directly from your Figma designs — no developer handoff required. 🛠️\n\nThe update adds native animation tools inside the canvas, so you never leave the editor to prototype motion. It also wires live logic into prototypes, letting you test real UI behavior before a single line of code is written.\n\nYou skip the handoff step entirely and keep one component synced between design and code. ⏯️\n\nRebuild one component with code layers this week — does it save you time or just add another tool to audit? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Workflow revolution or just hype?",
+      "description": "Figma now generates production-ready code layers from designs, potentially saving hours of handoff work.",
+      "visual_hint": "code layers on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "code on computer screen"
+    },
+    {
+      "hook": "Animate without leaving Figma.",
+      "description": "Native motion tools let you prototype directly in the canvas, eliminating the need for external animation software.",
+      "visual_hint": "motion path on canvas",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "motion blur trail",
+      "image": "https://images.pexels.com/photos/35264884/pexels-photo-35264884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Prototypes with live logic now.",
+      "description": "Skip handoff entirely by wiring real UI behavior inside Figma before developers touch a single line.",
+      "visual_hint": "logic nodes connected",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board closeup",
+      "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One component, two worlds synced.",
+      "description": "A rebuilt button with code layers stays in sync, so design and code never diverge again.",
+      "visual_hint": "button side by side",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand clicking mouse",
+      "image": "https://images.pexels.com/photos/7915503/pexels-photo-7915503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test this week.",
+      "description": "Rebuild one component with code layers and see if it saves you time or adds another tool to audit.",
+      "visual_hint": "calendar with rebuild note",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar on desk",
+      "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Config-product-feat.jpg?resize=1200,675",
+  "savedAt": "2026-06-24T17:48:31.813Z",
+  "sourceId": "b2d1e66efb72bea262d807ef40839c67"
+}

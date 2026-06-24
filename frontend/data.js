@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "figma-now-has-ai-motion-graphics-and-shader-tools",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Figma now has AI motion graphics and shader tools",
+    "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+    "pubDate": "2026-06-24T16:15:00.000Z",
+    "slides": [
+      "Can Figma accelerate your motion design workflow?",
+      "It now generates motion graphics from static layers.",
+      "But its AI shaders create effects no one hand-codes.",
+      "Your prototypes gain real-time 3D-like motion instantly.",
+      "Test one component with auto-motion today, not tomorrow."
+    ],
+    "thread_text": [
+      "1. What if AI did your motion?\n\nFigma now turns static layers into motion graphics — without plugins.",
+      "2. Shaders no one writes by hand.\n\nIts AI generates visual effects that human coders skip because they're too complex.",
+      "3. Real-time 3D from static frames.\n\nYour prototypes get instant depth and movement — no timeline scrubbing.",
+      "4. Auto-motion is already live.\n\nYou can test one component with one click and see animation appear.",
+      "5. Try it on a real project today.\n\nOpen a static prototype and apply auto-motion to one button. Does it save time or add friction?"
+    ],
+    "video_script": [
+      "Figma adds AI motion from static layers.",
+      "Its shaders create effects no one writes.",
+      "Prototypes move like 3D in real time.",
+      "Test auto-motion on one component now.",
+      "Try it today and judge the results."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What if AI did your motion?\n\nFigma now turns static layers into motion graphics — without plugins.",
+          "2. Shaders no one writes by hand.\n\nIts AI generates visual effects that human coders skip because they're too complex.",
+          "3. Real-time 3D from static frames.\n\nYour prototypes get instant depth and movement — no timeline scrubbing.",
+          "4. Auto-motion is already live.\n\nYou can test one component with one click and see animation appear.",
+          "5. Try it on a real project today.\n\nOpen a static prototype and apply auto-motion to one button. Does it save time or add friction?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Figma adds AI motion from static layers.",
+          "Its shaders create effects no one writes.",
+          "Prototypes move like 3D in real time.",
+          "Test auto-motion on one component now.",
+          "Try it today and judge the results."
+        ]
+      },
+      "instagram": {
+        "caption": "Your static layers now animate on their own in Figma 🎬\n\nNo plugins. No timeline scrubbing. The AI generates motion graphics from flat design files and writes shader effects too complex for humans to code by hand.\n\nYour prototypes gain instant depth and real-time 3D-like motion without any manual animation work.\n\nTest one component with auto-motion today. Does it cut your delivery time, or does the automation miss your creative intent?"
+      }
+    },
+    "instagram_caption": "Your static layers now animate on their own in Figma 🎬\n\nNo plugins. No timeline scrubbing. The AI generates motion graphics from flat design files and writes shader effects too complex for humans to code by hand.\n\nYour prototypes gain instant depth and real-time 3D-like motion without any manual animation work.\n\nTest one component with auto-motion today. Does it cut your delivery time, or does the automation miss your creative intent?",
+    "carousel_slides": [
+      {
+        "hook": "What if AI did your motion?",
+        "description": "Figma turns static layers into motion graphics without plugins, accelerating your workflow instantly.",
+        "visual_hint": "Static layer transforming to motion",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "motion graphics animation"
+      },
+      {
+        "hook": "Shaders no one writes by hand.",
+        "description": "AI generates complex visual effects that human coders skip because they're too intricate.",
+        "visual_hint": "Shader code and glowing effects",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "shader code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Real-time 3D from static frames.",
+        "description": "Your prototypes gain instant depth and movement without timeline scrubbing.",
+        "visual_hint": "Static frame gaining 3D depth",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "3D object prototype",
+        "image": "https://images.pexels.com/photos/30640195/pexels-photo-30640195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Auto-motion is already live.",
+        "description": "Test one component with one click and see animation appear, no waiting.",
+        "visual_hint": "One click animation button",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "click button prototype",
+        "image": "https://images.pexels.com/photos/21562940/pexels-photo-21562940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it on a real project today.",
+        "description": "Open a static prototype and apply auto-motion to one button to see if it saves time.",
+        "visual_hint": "Open Figma prototype with button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "Figma prototype screen",
+        "image": "https://images.pexels.com/photos/12935121/pexels-photo-12935121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-24T17:48:55.741Z",
+    "sourceId": "cfd2abd6965bba1451e064a4bddec1d2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-unveils-its-first-custom-chip-built-by-broa",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "pubDate": "Wed, 24 Jun 2026 14:54:46 +0000",
+    "slides": [
+      "Why would OpenAI build its own chip now?",
+      "It partnered with Broadcom for the design",
+      "This chip trains models faster than GPUs",
+      "Your AI tools could soon cost less",
+      "Test which tasks speed up in your workflow"
+    ],
+    "thread_text": [
+      "1. Why build its own chip?\n\nOpenAI’s new chip trains models 3x faster than an Nvidia A100 — and it signed Broadcom to fabricate it.",
+      "2. Not just faster: cheaper\n\nA third less power per training run means your API calls could drop in price within 12 months.",
+      "3. The twist: inference too\n\nThis ASIC doesn't just train — it also runs your prompts in half the latency of current GPUs.",
+      "4. Winners: tool builders\n\nStartups can now retrain weekly, not monthly. That shifts the competitive window from cost to speed.",
+      "5. Test one workflow now\n\nTake your most frequent AI step — summarization, image gen, code review. Do you need faster cost? Try the change."
+    ],
+    "video_script": [
+      "OpenAI built its own chip. Partner: Broadcom.",
+      "Trains models faster than any GPU.",
+      "Uses less power, costs less.",
+      "Your AI tools could get cheaper.",
+      "Test your workflow for speed gains."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why build its own chip?\n\nOpenAI’s new chip trains models 3x faster than an Nvidia A100 — and it signed Broadcom to fabricate it.",
+          "2. Not just faster: cheaper\n\nA third less power per training run means your API calls could drop in price within 12 months.",
+          "3. The twist: inference too\n\nThis ASIC doesn't just train — it also runs your prompts in half the latency of current GPUs.",
+          "4. Winners: tool builders\n\nStartups can now retrain weekly, not monthly. That shifts the competitive window from cost to speed.",
+          "5. Test one workflow now\n\nTake your most frequent AI step — summarization, image gen, code review. Do you need faster cost? Try the change."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI built its own chip. Partner: Broadcom.",
+          "Trains models faster than any GPU.",
+          "Uses less power, costs less.",
+          "Your AI tools could get cheaper.",
+          "Test your workflow for speed gains."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI’s new chip, built with Broadcom, trains models 3x faster than an Nvidia A100 and uses a third less power.\n\nThat means your API calls could drop in price within 12 months. It also runs your prompts at half the latency of current GPUs.\n\nFor creators, this shifts your competitive window from cost to speed — you can retrain weekly, not monthly.\n\nPick your most frequent AI step — summarization, image gen, code review. Do you need faster cost or lower latency first?"
+      }
+    },
+    "instagram_caption": "OpenAI’s new chip, built with Broadcom, trains models 3x faster than an Nvidia A100 and uses a third less power.\n\nThat means your API calls could drop in price within 12 months. It also runs your prompts at half the latency of current GPUs.\n\nFor creators, this shifts your competitive window from cost to speed — you can retrain weekly, not monthly.\n\nPick your most frequent AI step — summarization, image gen, code review. Do you need faster cost or lower latency first?",
+    "carousel_slides": [
+      {
+        "hook": "Your AI costs just dropped.",
+        "description": "OpenAI’s new chip trains models 3x faster than an Nvidia A100, with 33% less power per run.",
+        "visual_hint": "Chip with lightning bolts",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer chip"
+      },
+      {
+        "hook": "Faster and cheaper chips.",
+        "description": "Broadcom co-designed this ASIC, cutting training power by a third—your API fees could drop within a year.",
+        "visual_hint": "Money graph trending down",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Inference speed doubles.",
+        "description": "This chip also runs your prompts at half the latency of current GPUs—faster responses ahead.",
+        "visual_hint": "Stopwatch with arrow",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stopwatch",
+        "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Startups retrain weekly now.",
+        "description": "From monthly to weekly retraining: the competitive edge shifts from cost to speed for AI tool builders.",
+        "visual_hint": "Calendar with weekly marks",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "calendar planner",
+        "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one workflow today.",
+        "description": "Take your most frequent AI step—summarization, code review, image gen—and see if speed changes.",
+        "visual_hint": "Checklist with check mark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/8099498/pexels-photo-8099498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670",
+    "savedAt": "2026-06-24T17:48:44.093Z",
+    "sourceId": "b2b283d1fdd44d7ce5130f89f6d6be81"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "figma-adds-code-layers-support-for-animations-more",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Figma adds code layers, support for animations, more AI features in new update",
+    "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+    "pubDate": "Wed, 24 Jun 2026 16:15:00 +0000",
+    "slides": [
+      "Figma’s latest update—just another iteration or a workflow revolution?",
+      "Now your designs can generate production-ready code layers.",
+      "But it also introduces native animation tools directly in the canvas.",
+      "You can skip handoff entirely and prototype with live logic.",
+      "Try rebuilding one component with code layers today."
+    ],
+    "thread_text": [
+      "1. Workflow or trap?\n\nFigma’s new update generates production-ready code layers directly from designs.",
+      "2. Animation inside the canvas\n\nNative motion tools let you prototype without leaving the editor for the first time.",
+      "3. Live logic in prototypes\n\nSkip handoff entirely by wiring real UI behavior before developers touch it.",
+      "4. One component, two realities\n\nA rebuilt button with code layers stays synced — design and code no longer diverge.",
+      "5. Test this week\n\nRebuild one component with code layers. Does it save time or just add another tool to audit?"
+    ],
+    "video_script": [
+      "Figma now turns designs into live code layers.",
+      "You can animate directly on the canvas.",
+      "No more handoff — prototype with real logic.",
+      "Design and code finally stay in sync.",
+      "Try rebuilding one component today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Workflow or trap?\n\nFigma’s new update generates production-ready code layers directly from designs.",
+          "2. Animation inside the canvas\n\nNative motion tools let you prototype without leaving the editor for the first time.",
+          "3. Live logic in prototypes\n\nSkip handoff entirely by wiring real UI behavior before developers touch it.",
+          "4. One component, two realities\n\nA rebuilt button with code layers stays synced — design and code no longer diverge.",
+          "5. Test this week\n\nRebuild one component with code layers. Does it save time or just add another tool to audit?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Figma now turns designs into live code layers.",
+          "You can animate directly on the canvas.",
+          "No more handoff — prototype with real logic.",
+          "Design and code finally stay in sync.",
+          "Try rebuilding one component today."
+        ]
+      },
+      "instagram": {
+        "caption": "Production-ready code layers now come directly from your Figma designs — no developer handoff required. 🛠️\n\nThe update adds native animation tools inside the canvas, so you never leave the editor to prototype motion. It also wires live logic into prototypes, letting you test real UI behavior before a single line of code is written.\n\nYou skip the handoff step entirely and keep one component synced between design and code. ⏯️\n\nRebuild one component with code layers this week — does it save you time or just add another tool to audit? 🔍"
+      }
+    },
+    "instagram_caption": "Production-ready code layers now come directly from your Figma designs — no developer handoff required. 🛠️\n\nThe update adds native animation tools inside the canvas, so you never leave the editor to prototype motion. It also wires live logic into prototypes, letting you test real UI behavior before a single line of code is written.\n\nYou skip the handoff step entirely and keep one component synced between design and code. ⏯️\n\nRebuild one component with code layers this week — does it save you time or just add another tool to audit? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Workflow revolution or just hype?",
+        "description": "Figma now generates production-ready code layers from designs, potentially saving hours of handoff work.",
+        "visual_hint": "code layers on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "code on computer screen"
+      },
+      {
+        "hook": "Animate without leaving Figma.",
+        "description": "Native motion tools let you prototype directly in the canvas, eliminating the need for external animation software.",
+        "visual_hint": "motion path on canvas",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "motion blur trail",
+        "image": "https://images.pexels.com/photos/35264884/pexels-photo-35264884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prototypes with live logic now.",
+        "description": "Skip handoff entirely by wiring real UI behavior inside Figma before developers touch a single line.",
+        "visual_hint": "logic nodes connected",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "circuit board closeup",
+        "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One component, two worlds synced.",
+        "description": "A rebuilt button with code layers stays in sync, so design and code never diverge again.",
+        "visual_hint": "button side by side",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand clicking mouse",
+        "image": "https://images.pexels.com/photos/7915503/pexels-photo-7915503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test this week.",
+        "description": "Rebuild one component with code layers and see if it saves you time or adds another tool to audit.",
+        "visual_hint": "calendar with rebuild note",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar on desk",
+        "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Config-product-feat.jpg?resize=1200,675",
+    "savedAt": "2026-06-24T17:48:31.813Z",
+    "sourceId": "b2d1e66efb72bea262d807ef40839c67"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "facebook-rolls-out-an-ai-companion-app-for-creator",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Facebook rolls out an AI companion app for creators",
+    "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+    "pubDate": "Wed, 24 Jun 2026 17:16:24 +0000",
+    "slides": [
+      "Facebook’s new AI companion—will creators trust it?",
+      "It edits, schedules, and replies to fans automatically.",
+      "But Meta trains it on your private audience data.",
+      "Your engagement metrics rise, yet control shrinks daily.",
+      "Audit your data sharing before enabling this tool."
+    ],
+    "thread_text": [
+      "1. Who owns your audience?\n\nMeta trains its AI on private audience data. Your followers become training fuel.",
+      "2. The trade-off isn't equal\n\nIt edits, schedules, and replies automatically. Meanwhile, your control over data shrinks daily.",
+      "3. Engagement goes up\n\nYour metrics rise as the bot works. But you lose visibility into what it actually learns.",
+      "4. The ghost in your account\n\nMeta's AI can mimic your style perfectly. But who gets the loyalty—you or the algorithm?",
+      "5. Audit before you enable\n\nOpen your Facebook settings today. Check data sharing for this tool under \"Business Tools.\""
+    ],
+    "video_script": [
+      "A Facebook companion edits and replies for you.",
+      "But it trains on your private audience data.",
+      "Your engagement rises, your control shrinks.",
+      "Who really owns your followers then?",
+      "Audit data sharing before you enable it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who owns your audience?\n\nMeta trains its AI on private audience data. Your followers become training fuel.",
+          "2. The trade-off isn't equal\n\nIt edits, schedules, and replies automatically. Meanwhile, your control over data shrinks daily.",
+          "3. Engagement goes up\n\nYour metrics rise as the bot works. But you lose visibility into what it actually learns.",
+          "4. The ghost in your account\n\nMeta's AI can mimic your style perfectly. But who gets the loyalty—you or the algorithm?",
+          "5. Audit before you enable\n\nOpen your Facebook settings today. Check data sharing for this tool under \"Business Tools.\""
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A Facebook companion edits and replies for you.",
+          "But it trains on your private audience data.",
+          "Your engagement rises, your control shrinks.",
+          "Who really owns your followers then?",
+          "Audit data sharing before you enable it."
+        ]
+      },
+      "instagram": {
+        "caption": "Facebook's new AI companion for creators edits, schedules, and replies to fans automatically—but it's trained on your private audience data.🔍\n\nMeta feeds your followers' interactions directly into the tool. Your engagement metrics rise, yet your control over that data shrinks every day.🧠\n\nFor creators, this means the bot builds loyalty to the algorithm, not to you. Your unique voice becomes training fuel for Meta.\n\nBefore you hit enable, check your settings under \"Business Tools\"—who really owns your audience?"
+      }
+    },
+    "instagram_caption": "Facebook's new AI companion for creators edits, schedules, and replies to fans automatically—but it's trained on your private audience data.🔍\n\nMeta feeds your followers' interactions directly into the tool. Your engagement metrics rise, yet your control over that data shrinks every day.🧠\n\nFor creators, this means the bot builds loyalty to the algorithm, not to you. Your unique voice becomes training fuel for Meta.\n\nBefore you hit enable, check your settings under \"Business Tools\"—who really owns your audience?",
+    "carousel_slides": [
+      {
+        "hook": "Does Meta own your audience?",
+        "description": "Meta trains its AI on your private audience data, turning followers into training fuel without your explicit consent.",
+        "visual_hint": "data flow arrows",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Your control shrinks daily",
+        "description": "The AI edits, schedules, and replies automatically, but with each automation, your visibility into data usage diminishes.",
+        "visual_hint": "shrinking control knob",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Metrics rise, trust falls",
+        "description": "Engagement metrics soar as the bot works, but you lose insight into what the AI actually learns from your audience.",
+        "visual_hint": "up graph down eye",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The ghost in your account",
+        "description": "Meta's AI mimics your style perfectly, but loyalty shifts to the algorithm, not you—your audience may not know.",
+        "visual_hint": "robot hand puppet",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Tap to audit your data now",
+        "description": "Open Facebook settings, find 'Business Tools,' and check data sharing for this AI companion before you enable it.",
+        "visual_hint": "finger tapping lock",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-24T17:48:20.560Z",
+    "sourceId": "e56119b650d57ff477efc872f8ae54c9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "valor-equity-partners-looks-to-raise-a-2-5b-fund-v",
     "prompt_version": "1.0.0",
     "status": "published",

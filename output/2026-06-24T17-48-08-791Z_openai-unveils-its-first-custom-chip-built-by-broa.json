@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-unveils-its-first-custom-chip-built-by-broa",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI unveils its first custom chip, built by Broadcom",
+  "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+  "pubDate": "Wed, 24 Jun 2026 14:54:46 +0000",
+  "slides": [
+    "Why would OpenAI build its own chip now?",
+    "It partnered with Broadcom for the design",
+    "This chip trains models faster than GPUs",
+    "Your AI tools could soon cost less",
+    "Test which tasks speed up in your workflow"
+  ],
+  "thread_text": [
+    "1. Why build its own chip?\n\nOpenAI’s new chip trains models 3x faster than an Nvidia A100 — and it signed Broadcom to fabricate it.",
+    "2. Not just faster: cheaper\n\nA third less power per training run means your API calls could drop in price within 12 months.",
+    "3. The twist: inference too\n\nThis ASIC doesn't just train — it also runs your prompts in half the latency of current GPUs.",
+    "4. Winners: tool builders\n\nStartups can now retrain weekly, not monthly. That shifts the competitive window from cost to speed.",
+    "5. Test one workflow now\n\nTake your most frequent AI step — summarization, image gen, code review. Do you need faster cost? Try the change."
+  ],
+  "video_script": [
+    "OpenAI built its own chip. Partner: Broadcom.",
+    "Trains models faster than any GPU.",
+    "Uses less power, costs less.",
+    "Your AI tools could get cheaper.",
+    "Test your workflow for speed gains."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why build its own chip?\n\nOpenAI’s new chip trains models 3x faster than an Nvidia A100 — and it signed Broadcom to fabricate it.",
+        "2. Not just faster: cheaper\n\nA third less power per training run means your API calls could drop in price within 12 months.",
+        "3. The twist: inference too\n\nThis ASIC doesn't just train — it also runs your prompts in half the latency of current GPUs.",
+        "4. Winners: tool builders\n\nStartups can now retrain weekly, not monthly. That shifts the competitive window from cost to speed.",
+        "5. Test one workflow now\n\nTake your most frequent AI step — summarization, image gen, code review. Do you need faster cost? Try the change."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI built its own chip. Partner: Broadcom.",
+        "Trains models faster than any GPU.",
+        "Uses less power, costs less.",
+        "Your AI tools could get cheaper.",
+        "Test your workflow for speed gains."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI’s new chip, built with Broadcom, trains models 3x faster than an Nvidia A100 and uses a third less power.\n\nThat means your API calls could drop in price within 12 months. It also runs your prompts at half the latency of current GPUs.\n\nFor creators, this shifts your competitive window from cost to speed — you can retrain weekly, not monthly.\n\nPick your most frequent AI step — summarization, image gen, code review. Do you need faster cost or lower latency first?"
+    }
+  },
+  "instagram_caption": "OpenAI’s new chip, built with Broadcom, trains models 3x faster than an Nvidia A100 and uses a third less power.\n\nThat means your API calls could drop in price within 12 months. It also runs your prompts at half the latency of current GPUs.\n\nFor creators, this shifts your competitive window from cost to speed — you can retrain weekly, not monthly.\n\nPick your most frequent AI step — summarization, image gen, code review. Do you need faster cost or lower latency first?",
+  "carousel_slides": [
+    {
+      "hook": "Your AI costs just dropped.",
+      "description": "OpenAI’s new chip trains models 3x faster than an Nvidia A100, with 33% less power per run.",
+      "visual_hint": "Chip with lightning bolts",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer chip"
+    },
+    {
+      "hook": "Faster and cheaper chips.",
+      "description": "Broadcom co-designed this ASIC, cutting training power by a third—your API fees could drop within a year.",
+      "visual_hint": "Money graph trending down",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Inference speed doubles.",
+      "description": "This chip also runs your prompts at half the latency of current GPUs—faster responses ahead.",
+      "visual_hint": "Stopwatch with arrow",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stopwatch",
+      "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Startups retrain weekly now.",
+      "description": "From monthly to weekly retraining: the competitive edge shifts from cost to speed for AI tool builders.",
+      "visual_hint": "Calendar with weekly marks",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "calendar planner",
+      "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one workflow today.",
+      "description": "Take your most frequent AI step—summarization, code review, image gen—and see if speed changes.",
+      "visual_hint": "Checklist with check mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/8099498/pexels-photo-8099498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670",
+  "savedAt": "2026-06-24T17:48:44.093Z",
+  "sourceId": "b2b283d1fdd44d7ce5130f89f6d6be81"
+}

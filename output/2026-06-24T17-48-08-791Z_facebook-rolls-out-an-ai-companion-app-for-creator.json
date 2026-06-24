@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "facebook-rolls-out-an-ai-companion-app-for-creator",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Facebook rolls out an AI companion app for creators",
+  "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+  "pubDate": "Wed, 24 Jun 2026 17:16:24 +0000",
+  "slides": [
+    "Facebook’s new AI companion—will creators trust it?",
+    "It edits, schedules, and replies to fans automatically.",
+    "But Meta trains it on your private audience data.",
+    "Your engagement metrics rise, yet control shrinks daily.",
+    "Audit your data sharing before enabling this tool."
+  ],
+  "thread_text": [
+    "1. Who owns your audience?\n\nMeta trains its AI on private audience data. Your followers become training fuel.",
+    "2. The trade-off isn't equal\n\nIt edits, schedules, and replies automatically. Meanwhile, your control over data shrinks daily.",
+    "3. Engagement goes up\n\nYour metrics rise as the bot works. But you lose visibility into what it actually learns.",
+    "4. The ghost in your account\n\nMeta's AI can mimic your style perfectly. But who gets the loyalty—you or the algorithm?",
+    "5. Audit before you enable\n\nOpen your Facebook settings today. Check data sharing for this tool under \"Business Tools.\""
+  ],
+  "video_script": [
+    "A Facebook companion edits and replies for you.",
+    "But it trains on your private audience data.",
+    "Your engagement rises, your control shrinks.",
+    "Who really owns your followers then?",
+    "Audit data sharing before you enable it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who owns your audience?\n\nMeta trains its AI on private audience data. Your followers become training fuel.",
+        "2. The trade-off isn't equal\n\nIt edits, schedules, and replies automatically. Meanwhile, your control over data shrinks daily.",
+        "3. Engagement goes up\n\nYour metrics rise as the bot works. But you lose visibility into what it actually learns.",
+        "4. The ghost in your account\n\nMeta's AI can mimic your style perfectly. But who gets the loyalty—you or the algorithm?",
+        "5. Audit before you enable\n\nOpen your Facebook settings today. Check data sharing for this tool under \"Business Tools.\""
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A Facebook companion edits and replies for you.",
+        "But it trains on your private audience data.",
+        "Your engagement rises, your control shrinks.",
+        "Who really owns your followers then?",
+        "Audit data sharing before you enable it."
+      ]
+    },
+    "instagram": {
+      "caption": "Facebook's new AI companion for creators edits, schedules, and replies to fans automatically—but it's trained on your private audience data.🔍\n\nMeta feeds your followers' interactions directly into the tool. Your engagement metrics rise, yet your control over that data shrinks every day.🧠\n\nFor creators, this means the bot builds loyalty to the algorithm, not to you. Your unique voice becomes training fuel for Meta.\n\nBefore you hit enable, check your settings under \"Business Tools\"—who really owns your audience?"
+    }
+  },
+  "instagram_caption": "Facebook's new AI companion for creators edits, schedules, and replies to fans automatically—but it's trained on your private audience data.🔍\n\nMeta feeds your followers' interactions directly into the tool. Your engagement metrics rise, yet your control over that data shrinks every day.🧠\n\nFor creators, this means the bot builds loyalty to the algorithm, not to you. Your unique voice becomes training fuel for Meta.\n\nBefore you hit enable, check your settings under \"Business Tools\"—who really owns your audience?",
+  "carousel_slides": [
+    {
+      "hook": "Does Meta own your audience?",
+      "description": "Meta trains its AI on your private audience data, turning followers into training fuel without your explicit consent.",
+      "visual_hint": "data flow arrows",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Your control shrinks daily",
+      "description": "The AI edits, schedules, and replies automatically, but with each automation, your visibility into data usage diminishes.",
+      "visual_hint": "shrinking control knob",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Metrics rise, trust falls",
+      "description": "Engagement metrics soar as the bot works, but you lose insight into what the AI actually learns from your audience.",
+      "visual_hint": "up graph down eye",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The ghost in your account",
+      "description": "Meta's AI mimics your style perfectly, but loyalty shifts to the algorithm, not you—your audience may not know.",
+      "visual_hint": "robot hand puppet",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tap to audit your data now",
+      "description": "Open Facebook settings, find 'Business Tools,' and check data sharing for this AI companion before you enable it.",
+      "visual_hint": "finger tapping lock",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-24T17:48:20.560Z",
+  "sourceId": "e56119b650d57ff477efc872f8ae54c9"
+}
