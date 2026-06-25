@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ai-researchers-continue-to-leave-google-for-its-ri",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI researchers continue to leave Google for its rivals",
+    "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+    "pubDate": "Wed, 24 Jun 2026 21:42:07 +0000",
+    "slides": [
+      "Why are AI researchers fleeing Google for rivals?",
+      "DeepMind lost three top scientists this quarter alone.",
+      "They're not leaving for higher salaries—surprisingly.",
+      "Your next AI breakthrough may come from ex-Googlers.",
+      "Ask yourself: who's building your AI future?"
+    ],
+    "thread_text": [
+      "1. Why the brain drain?\n\nThree top scientists left DeepMind this quarter. The talent exodus is accelerating.",
+      "2. Not about money\n\nThey say it’s not the salary. So what’s pulling them away from Google’s resources?",
+      "3. Freedom to build\n\nRivals offer faster cycles and fewer guardrails. Researchers want to ship, not debate ethics.",
+      "4. The real winners\n\nYour next AI breakthrough may come from ex-Googlers. The lab you trust might be losing its edge.",
+      "5. Who builds your AI?\n\nCheck the affiliations on the next paper you read. Do you want your future built by defectors or incumbents?"
+    ],
+    "video_script": [
+      "Top scientists are leaving Google’s AI labs.",
+      "It’s not about higher pay this time.",
+      "They want freedom to build faster.",
+      "Rivals will get the next breakthroughs.",
+      "Who do you trust to build your future?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why the brain drain?\n\nThree top scientists left DeepMind this quarter. The talent exodus is accelerating.",
+          "2. Not about money\n\nThey say it’s not the salary. So what’s pulling them away from Google’s resources?",
+          "3. Freedom to build\n\nRivals offer faster cycles and fewer guardrails. Researchers want to ship, not debate ethics.",
+          "4. The real winners\n\nYour next AI breakthrough may come from ex-Googlers. The lab you trust might be losing its edge.",
+          "5. Who builds your AI?\n\nCheck the affiliations on the next paper you read. Do you want your future built by defectors or incumbents?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Top scientists are leaving Google’s AI labs.",
+          "It’s not about higher pay this time.",
+          "They want freedom to build faster.",
+          "Rivals will get the next breakthroughs.",
+          "Who do you trust to build your future?"
+        ]
+      },
+      "instagram": {
+        "caption": "Three top DeepMind scientists walked out this quarter—and a pattern is emerging.\n\nThey're not leaving for bigger paychecks. They're leaving because Google moves too slowly on releasing AI tools, while rivals let researchers ship products without endless ethical debates.\n\nIf you build with AI tools, the next breakthrough you rely on may come from someone who just quit Google. That means the platform you trust might be falling behind on speed and real-world impact.\n\nAre your creative tools being built by the people who stayed—or by the ones who walked?"
+      }
+    },
+    "instagram_caption": "Three top DeepMind scientists walked out this quarter—and a pattern is emerging.\n\nThey're not leaving for bigger paychecks. They're leaving because Google moves too slowly on releasing AI tools, while rivals let researchers ship products without endless ethical debates.\n\nIf you build with AI tools, the next breakthrough you rely on may come from someone who just quit Google. That means the platform you trust might be falling behind on speed and real-world impact.\n\nAre your creative tools being built by the people who stayed—or by the ones who walked?",
+    "carousel_slides": [
+      {
+        "hook": "Are they fleeing freedom?",
+        "description": "Three top scientists left DeepMind this quarter. The talent exodus is accelerating beyond Google's control.",
+        "visual_hint": "scientists walking out door",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "scientists leaving building"
+      },
+      {
+        "hook": "Not about the money.",
+        "description": "Researchers say salary isn't the reason. What pulls them away from Google's vast resources is bigger.",
+        "visual_hint": "cash vs open door",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "money vs freedom",
+        "image": "https://images.pexels.com/photos/8370815/pexels-photo-8370815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "They want to ship fast.",
+        "description": "Rivals offer faster cycles and fewer guardrails. Researchers choose building over endless ethics debates.",
+        "visual_hint": "speedometer racing ahead",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "racing speedometer",
+        "image": "https://images.pexels.com/photos/24355106/pexels-photo-24355106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI's new home.",
+        "description": "Your next AI breakthrough may come from ex-Googlers. The lab you trust is losing its best minds.",
+        "visual_hint": "robot leaving lab",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot leaving hand",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who builds your future?",
+        "description": "Check affiliations on the next AI paper. Decide if you trust defectors or incumbents.",
+        "visual_hint": "fingers pointing at paper",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "fingers pointing paper",
+        "image": "https://images.pexels.com/photos/7821547/pexels-photo-7821547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/9574559/pexels-photo-9574559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-25T02:32:19.207Z",
+    "sourceId": "73ecb6bfd59cf759579ca730dfaf007f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-was-supposed-to-kill-engineering-jobs-but-new-d",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+    "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+    "pubDate": "Wed, 24 Jun 2026 21:56:41 +0000",
+    "slides": [
+      "AI was supposed to kill engineering jobs—so why aren't they gone?",
+      "New data shows engineering postings actually rose 12% last year.",
+      "The twist: companies are hiring engineers to train their replacements.",
+      "Your job shifts from building products to teaching AI systems.",
+      "Pivot now: learn prompt engineering before your next performance review."
+    ],
+    "thread_text": [
+      "1. Engineers hire their own replacements\n\nLast year, engineering postings actually rose 12% — but many now include a hidden task: train the AI that will eventually do your job.",
+      "2. The job hasn't vanished — it flipped\n\nYour core work shifts from building products to teaching AI systems how to build them. Same title, different daily grind.",
+      "3. Companies call it 'future-proofing'\n\nThey want you to document your expertise, label data, and correct model outputs. You're essentially encoding your replacement.",
+      "4. The skills that survive are meta\n\nManaging AI outputs, writing precise instructions, and auditing results become more valuable than raw coding speed.",
+      "5. One skill to learn this week\n\nTake a prompt on ChatGPT and simulate a debugging scenario. If you haven't tried prompt engineering yet, start there before your next review."
+    ],
+    "video_script": [
+      "AI was supposed to kill engineering jobs.",
+      "Instead, postings rose 12% last year.",
+      "Now companies hire engineers to train AI.",
+      "Your job shifts to teaching machines.",
+      "Learn prompt engineering before your review."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Engineers hire their own replacements\n\nLast year, engineering postings actually rose 12% — but many now include a hidden task: train the AI that will eventually do your job.",
+          "2. The job hasn't vanished — it flipped\n\nYour core work shifts from building products to teaching AI systems how to build them. Same title, different daily grind.",
+          "3. Companies call it 'future-proofing'\n\nThey want you to document your expertise, label data, and correct model outputs. You're essentially encoding your replacement.",
+          "4. The skills that survive are meta\n\nManaging AI outputs, writing precise instructions, and auditing results become more valuable than raw coding speed.",
+          "5. One skill to learn this week\n\nTake a prompt on ChatGPT and simulate a debugging scenario. If you haven't tried prompt engineering yet, start there before your next review."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI was supposed to kill engineering jobs.",
+          "Instead, postings rose 12% last year.",
+          "Now companies hire engineers to train AI.",
+          "Your job shifts to teaching machines.",
+          "Learn prompt engineering before your review."
+        ]
+      },
+      "instagram": {
+        "caption": "Engineering job postings actually rose 12% last year — but many now require you to train the AI that might take your role.\n\nCompanies are hiring engineers to document their expertise, label data, and correct model errors. Same title, different work: teaching your own replacement.\n\nIf you build or publish content, your daily task shifts from producing to teaching systems how to produce.\n\nHave you spent 20 minutes this week practicing prompt engineering for a debugging scenario?"
+      }
+    },
+    "instagram_caption": "Engineering job postings actually rose 12% last year — but many now require you to train the AI that might take your role.\n\nCompanies are hiring engineers to document their expertise, label data, and correct model errors. Same title, different work: teaching your own replacement.\n\nIf you build or publish content, your daily task shifts from producing to teaching systems how to produce.\n\nHave you spent 20 minutes this week practicing prompt engineering for a debugging scenario?",
+    "carousel_slides": [
+      {
+        "hook": "Hiring your own replacement?",
+        "description": "Engineering jobs rose 12% last year, but many now require training the AI that could replace you.",
+        "visual_hint": "Robot hand shaking human hand",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot handshake"
+      },
+      {
+        "hook": "Job description just changed",
+        "visual_hint": "Person pointing at computer screen",
+        "description": "Companies call it future-proofing: you document expertise, label data, and correct AI outputs.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office desk computer",
+        "image": "https://images.pexels.com/photos/22711217/pexels-photo-22711217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Same title, different grind",
+        "visual_hint": "Engineer looking at code and AI output",
+        "description": "Your core work shifts from building products to teaching AI systems how to build them.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Raw coding speed is dying",
+        "visual_hint": "Magnifying glass over code and AI output",
+        "description": "Meta-skills like managing outputs, writing instructions, and auditing results matter more now.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "magnifying glass code",
+        "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your next review",
+        "description": "Try prompt engineering today: simulate a debugging scenario on ChatGPT before your performance review.",
+        "visual_hint": "ChatGPT interface and debug symbols",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "chatgpt interface",
+        "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1250956868.jpg?resize=1200,800",
+    "savedAt": "2026-06-25T02:32:05.125Z",
+    "sourceId": "266f847badbec9c4f882d1ef591501b6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "companies-are-scrambling-to-stop-employees-from-ma",
     "prompt_version": "1.0.0",
     "status": "published",

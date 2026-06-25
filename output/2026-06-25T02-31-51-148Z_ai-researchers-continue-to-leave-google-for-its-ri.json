@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-researchers-continue-to-leave-google-for-its-ri",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI researchers continue to leave Google for its rivals",
+  "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+  "pubDate": "Wed, 24 Jun 2026 21:42:07 +0000",
+  "slides": [
+    "Why are AI researchers fleeing Google for rivals?",
+    "DeepMind lost three top scientists this quarter alone.",
+    "They're not leaving for higher salaries—surprisingly.",
+    "Your next AI breakthrough may come from ex-Googlers.",
+    "Ask yourself: who's building your AI future?"
+  ],
+  "thread_text": [
+    "1. Why the brain drain?\n\nThree top scientists left DeepMind this quarter. The talent exodus is accelerating.",
+    "2. Not about money\n\nThey say it’s not the salary. So what’s pulling them away from Google’s resources?",
+    "3. Freedom to build\n\nRivals offer faster cycles and fewer guardrails. Researchers want to ship, not debate ethics.",
+    "4. The real winners\n\nYour next AI breakthrough may come from ex-Googlers. The lab you trust might be losing its edge.",
+    "5. Who builds your AI?\n\nCheck the affiliations on the next paper you read. Do you want your future built by defectors or incumbents?"
+  ],
+  "video_script": [
+    "Top scientists are leaving Google’s AI labs.",
+    "It’s not about higher pay this time.",
+    "They want freedom to build faster.",
+    "Rivals will get the next breakthroughs.",
+    "Who do you trust to build your future?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why the brain drain?\n\nThree top scientists left DeepMind this quarter. The talent exodus is accelerating.",
+        "2. Not about money\n\nThey say it’s not the salary. So what’s pulling them away from Google’s resources?",
+        "3. Freedom to build\n\nRivals offer faster cycles and fewer guardrails. Researchers want to ship, not debate ethics.",
+        "4. The real winners\n\nYour next AI breakthrough may come from ex-Googlers. The lab you trust might be losing its edge.",
+        "5. Who builds your AI?\n\nCheck the affiliations on the next paper you read. Do you want your future built by defectors or incumbents?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Top scientists are leaving Google’s AI labs.",
+        "It’s not about higher pay this time.",
+        "They want freedom to build faster.",
+        "Rivals will get the next breakthroughs.",
+        "Who do you trust to build your future?"
+      ]
+    },
+    "instagram": {
+      "caption": "Three top DeepMind scientists walked out this quarter—and a pattern is emerging.\n\nThey're not leaving for bigger paychecks. They're leaving because Google moves too slowly on releasing AI tools, while rivals let researchers ship products without endless ethical debates.\n\nIf you build with AI tools, the next breakthrough you rely on may come from someone who just quit Google. That means the platform you trust might be falling behind on speed and real-world impact.\n\nAre your creative tools being built by the people who stayed—or by the ones who walked?"
+    }
+  },
+  "instagram_caption": "Three top DeepMind scientists walked out this quarter—and a pattern is emerging.\n\nThey're not leaving for bigger paychecks. They're leaving because Google moves too slowly on releasing AI tools, while rivals let researchers ship products without endless ethical debates.\n\nIf you build with AI tools, the next breakthrough you rely on may come from someone who just quit Google. That means the platform you trust might be falling behind on speed and real-world impact.\n\nAre your creative tools being built by the people who stayed—or by the ones who walked?",
+  "carousel_slides": [
+    {
+      "hook": "Are they fleeing freedom?",
+      "description": "Three top scientists left DeepMind this quarter. The talent exodus is accelerating beyond Google's control.",
+      "visual_hint": "scientists walking out door",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "scientists leaving building"
+    },
+    {
+      "hook": "Not about the money.",
+      "description": "Researchers say salary isn't the reason. What pulls them away from Google's vast resources is bigger.",
+      "visual_hint": "cash vs open door",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "money vs freedom",
+      "image": "https://images.pexels.com/photos/8370815/pexels-photo-8370815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They want to ship fast.",
+      "description": "Rivals offer faster cycles and fewer guardrails. Researchers choose building over endless ethics debates.",
+      "visual_hint": "speedometer racing ahead",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "racing speedometer",
+      "image": "https://images.pexels.com/photos/24355106/pexels-photo-24355106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI's new home.",
+      "description": "Your next AI breakthrough may come from ex-Googlers. The lab you trust is losing its best minds.",
+      "visual_hint": "robot leaving lab",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot leaving hand",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who builds your future?",
+      "description": "Check affiliations on the next AI paper. Decide if you trust defectors or incumbents.",
+      "visual_hint": "fingers pointing at paper",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "fingers pointing paper",
+      "image": "https://images.pexels.com/photos/7821547/pexels-photo-7821547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/9574559/pexels-photo-9574559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-25T02:32:19.207Z",
+  "sourceId": "73ecb6bfd59cf759579ca730dfaf007f"
+}
