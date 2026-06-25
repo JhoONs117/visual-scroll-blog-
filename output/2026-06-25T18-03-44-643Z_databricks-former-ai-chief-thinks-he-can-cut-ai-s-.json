@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "databricks-former-ai-chief-thinks-he-can-cut-ai-s-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+  "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+  "pubDate": "Thu, 25 Jun 2026 16:48:11 +0000",
+  "slides": [
+    "Can one man slash AI's energy bill 1,000-fold?",
+    "Databricks' ex-AI chief just left to try it.",
+    "His secret shrinks the biggest power hog in inference.",
+    "Your model costs could drop to near zero overnight.",
+    "Watch which chip stocks he shorted last quarter."
+  ],
+  "thread_text": [
+    "1. Slash AI costs 1,000x?\n\nA single engineer claims to have a method that cuts inference power consumption by over 99.9%.",
+    "2. He just quit Databricks.\n\nDatabricks' former AI chief left to commercialize the secret. His first move: short specific chip stocks.",
+    "3. The hidden power hog.\n\nThe technique targets the single most energy-intensive step in inference — not the whole model.",
+    "4. Overnight cost zero.\n\nIf it works, your model's inference bill could drop to near zero. No new hardware needed.",
+    "5. Short those chips.\n\nCheck which chip stocks he shorted last quarter. Then ask: will your provider pass the savings to you?"
+  ],
+  "video_script": [
+    "One man claims a thousandfold energy cut.",
+    "He just left Databricks to try it.",
+    "He targets inference's biggest power hog.",
+    "Your model costs could drop near zero.",
+    "Check which chip stocks he shorted."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Slash AI costs 1,000x?\n\nA single engineer claims to have a method that cuts inference power consumption by over 99.9%.",
+        "2. He just quit Databricks.\n\nDatabricks' former AI chief left to commercialize the secret. His first move: short specific chip stocks.",
+        "3. The hidden power hog.\n\nThe technique targets the single most energy-intensive step in inference — not the whole model.",
+        "4. Overnight cost zero.\n\nIf it works, your model's inference bill could drop to near zero. No new hardware needed.",
+        "5. Short those chips.\n\nCheck which chip stocks he shorted last quarter. Then ask: will your provider pass the savings to you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "One man claims a thousandfold energy cut.",
+        "He just left Databricks to try it.",
+        "He targets inference's biggest power hog.",
+        "Your model costs could drop near zero.",
+        "Check which chip stocks he shorted."
+      ]
+    },
+    "instagram": {
+      "caption": "Databricks' former AI chief just quit to commercialize a method that could cut your AI inference power consumption by over 99.9%. ⚡\n\nHe's shorting specific chip stocks that power the single most energy-hungry step in inference. No new hardware is needed for this fix. 💡\n\nYour model's daily inference cost could drop to near zero overnight. Will your cloud provider actually pass that saving to you? 🔌"
+    }
+  },
+  "instagram_caption": "Databricks' former AI chief just quit to commercialize a method that could cut your AI inference power consumption by over 99.9%. ⚡\n\nHe's shorting specific chip stocks that power the single most energy-hungry step in inference. No new hardware is needed for this fix. 💡\n\nYour model's daily inference cost could drop to near zero overnight. Will your cloud provider actually pass that saving to you? 🔌",
+  "carousel_slides": [
+    {
+      "hook": "He wants 1,000x energy cut.",
+      "description": "Databricks' ex-AI chief claims 99.9% inference power reduction. Target: the biggest energy hog.",
+      "visual_hint": "Glowing server racks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data center"
+    },
+    {
+      "hook": "Why he shorted chip stocks.",
+      "description": "He quit Databricks to commercialize his secret. First move: bet against specific chip makers.",
+      "visual_hint": "Falling stock chart",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One step eats all power.",
+      "description": "The method targets the single most energy-intensive inference step, not the whole model.",
+      "visual_hint": "Magnifying glass on circuit",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microchip closeup",
+      "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Inference costs near zero.",
+      "description": "If it works, your model runs on pennies. No new hardware required—just software.",
+      "visual_hint": "Hand holding coin",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding penny",
+      "image": "https://images.pexels.com/photos/7009477/pexels-photo-7009477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save, share, or swipe up.",
+      "description": "Check which chip stocks he shorted last quarter. Ask your provider if savings are coming.",
+      "visual_hint": "Tap arrow icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone tap",
+      "image": "https://images.pexels.com/photos/5054540/pexels-photo-5054540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-12.15.52-PM.jpg?resize=1200,615",
+  "savedAt": "2026-06-25T18:04:14.425Z",
+  "sourceId": "ba304cad7d5154a68dfb1a5f7b217427"
+}

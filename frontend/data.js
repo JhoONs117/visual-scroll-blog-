@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "databricks-former-ai-chief-thinks-he-can-cut-ai-s-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+    "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+    "pubDate": "Thu, 25 Jun 2026 16:48:11 +0000",
+    "slides": [
+      "Can one man slash AI's energy bill 1,000-fold?",
+      "Databricks' ex-AI chief just left to try it.",
+      "His secret shrinks the biggest power hog in inference.",
+      "Your model costs could drop to near zero overnight.",
+      "Watch which chip stocks he shorted last quarter."
+    ],
+    "thread_text": [
+      "1. Slash AI costs 1,000x?\n\nA single engineer claims to have a method that cuts inference power consumption by over 99.9%.",
+      "2. He just quit Databricks.\n\nDatabricks' former AI chief left to commercialize the secret. His first move: short specific chip stocks.",
+      "3. The hidden power hog.\n\nThe technique targets the single most energy-intensive step in inference — not the whole model.",
+      "4. Overnight cost zero.\n\nIf it works, your model's inference bill could drop to near zero. No new hardware needed.",
+      "5. Short those chips.\n\nCheck which chip stocks he shorted last quarter. Then ask: will your provider pass the savings to you?"
+    ],
+    "video_script": [
+      "One man claims a thousandfold energy cut.",
+      "He just left Databricks to try it.",
+      "He targets inference's biggest power hog.",
+      "Your model costs could drop near zero.",
+      "Check which chip stocks he shorted."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Slash AI costs 1,000x?\n\nA single engineer claims to have a method that cuts inference power consumption by over 99.9%.",
+          "2. He just quit Databricks.\n\nDatabricks' former AI chief left to commercialize the secret. His first move: short specific chip stocks.",
+          "3. The hidden power hog.\n\nThe technique targets the single most energy-intensive step in inference — not the whole model.",
+          "4. Overnight cost zero.\n\nIf it works, your model's inference bill could drop to near zero. No new hardware needed.",
+          "5. Short those chips.\n\nCheck which chip stocks he shorted last quarter. Then ask: will your provider pass the savings to you?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "One man claims a thousandfold energy cut.",
+          "He just left Databricks to try it.",
+          "He targets inference's biggest power hog.",
+          "Your model costs could drop near zero.",
+          "Check which chip stocks he shorted."
+        ]
+      },
+      "instagram": {
+        "caption": "Databricks' former AI chief just quit to commercialize a method that could cut your AI inference power consumption by over 99.9%. ⚡\n\nHe's shorting specific chip stocks that power the single most energy-hungry step in inference. No new hardware is needed for this fix. 💡\n\nYour model's daily inference cost could drop to near zero overnight. Will your cloud provider actually pass that saving to you? 🔌"
+      }
+    },
+    "instagram_caption": "Databricks' former AI chief just quit to commercialize a method that could cut your AI inference power consumption by over 99.9%. ⚡\n\nHe's shorting specific chip stocks that power the single most energy-hungry step in inference. No new hardware is needed for this fix. 💡\n\nYour model's daily inference cost could drop to near zero overnight. Will your cloud provider actually pass that saving to you? 🔌",
+    "carousel_slides": [
+      {
+        "hook": "He wants 1,000x energy cut.",
+        "description": "Databricks' ex-AI chief claims 99.9% inference power reduction. Target: the biggest energy hog.",
+        "visual_hint": "Glowing server racks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "data center"
+      },
+      {
+        "hook": "Why he shorted chip stocks.",
+        "description": "He quit Databricks to commercialize his secret. First move: bet against specific chip makers.",
+        "visual_hint": "Falling stock chart",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One step eats all power.",
+        "description": "The method targets the single most energy-intensive inference step, not the whole model.",
+        "visual_hint": "Magnifying glass on circuit",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "microchip closeup",
+        "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Inference costs near zero.",
+        "description": "If it works, your model runs on pennies. No new hardware required—just software.",
+        "visual_hint": "Hand holding coin",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding penny",
+        "image": "https://images.pexels.com/photos/7009477/pexels-photo-7009477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save, share, or swipe up.",
+        "description": "Check which chip stocks he shorted last quarter. Ask your provider if savings are coming.",
+        "visual_hint": "Tap arrow icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone tap",
+        "image": "https://images.pexels.com/photos/5054540/pexels-photo-5054540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-12.15.52-PM.jpg?resize=1200,615",
+    "savedAt": "2026-06-25T18:04:14.425Z",
+    "sourceId": "ba304cad7d5154a68dfb1a5f7b217427"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "anthropic-s-claude-is-winning-over-paid-consumers-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "pubDate": "Thu, 25 Jun 2026 17:38:27 +0000",
+    "slides": [
+      "Who pays for Claude when ChatGPT is free?",
+      "Claude's paid users say it writes better code.",
+      "ChatGPT owners keep subscriptions—for now, not forever.",
+      "Companies ask: which AI keeps your team longer?",
+      "Test both yearly plans—yours may switch this month."
+    ],
+    "thread_text": [
+      "Free ChatGPT vs paid Claude\n\nOpenAI burns millions to keep ChatGPT free; Claude's entire revenue comes from subscribers.",
+      "Better code for a price\n\nDevelopers report Claude catches edge cases GPT misses—but only if you pay.",
+      "ChatGPT users stay loyal\n\nSubscribers stick for habit and ecosystem, not for performance or cost.",
+      "Companies bet on stickiness\n\nThey measure which AI reduces churn—Claude wins deep reasoning, ChatGPT wins speed.",
+      "Switch this month\n\nTake one real debugging task you did last week and paste it into both yearly plans today."
+    ],
+    "video_script": [
+      "Claude costs money, ChatGPT is free.",
+      "Paid users say Claude writes better code.",
+      "Most still keep their ChatGPT subscription.",
+      "Companies ask which AI keeps you longer.",
+      "Test both yearly plans and switch this month."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Free ChatGPT vs paid Claude\n\nOpenAI burns millions to keep ChatGPT free; Claude's entire revenue comes from subscribers.",
+          "Better code for a price\n\nDevelopers report Claude catches edge cases GPT misses—but only if you pay.",
+          "ChatGPT users stay loyal\n\nSubscribers stick for habit and ecosystem, not for performance or cost.",
+          "Companies bet on stickiness\n\nThey measure which AI reduces churn—Claude wins deep reasoning, ChatGPT wins speed.",
+          "Switch this month\n\nTake one real debugging task you did last week and paste it into both yearly plans today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Claude costs money, ChatGPT is free.",
+          "Paid users say Claude writes better code.",
+          "Most still keep their ChatGPT subscription.",
+          "Companies ask which AI keeps you longer.",
+          "Test both yearly plans and switch this month."
+        ]
+      },
+      "instagram": {
+        "caption": "Developers say Claude catches bugs ChatGPT misses—but only if you pay for it. 💻\n\nOpenAI burns millions keeping ChatGPT free. Anthropic’s entire revenue comes from paid subscribers who swear by better code.\n\nCompanies are now testing which AI keeps your team longer: Claude for deep reasoning, ChatGPT for speed. 💰\n\nIf you write code or debug for work, this is the month to paste one real task into both yearly plans—and see which saves your deadline. 🛠️\n\nWhat did you find?"
+      }
+    },
+    "instagram_caption": "Developers say Claude catches bugs ChatGPT misses—but only if you pay for it. 💻\n\nOpenAI burns millions keeping ChatGPT free. Anthropic’s entire revenue comes from paid subscribers who swear by better code.\n\nCompanies are now testing which AI keeps your team longer: Claude for deep reasoning, ChatGPT for speed. 💰\n\nIf you write code or debug for work, this is the month to paste one real task into both yearly plans—and see which saves your deadline. 🛠️\n\nWhat did you find?",
+    "carousel_slides": [
+      {
+        "hook": "Paid Claude vs free ChatGPT?",
+        "description": "OpenAI burns millions to keep ChatGPT free; Claude's revenue comes entirely from subscribers.",
+        "visual_hint": "money vs free contrast",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "burning money fire"
+      },
+      {
+        "hook": "Developers pay for better code",
+        "description": "Claude catches edge cases GPT misses, but you must pay for it.",
+        "visual_hint": "code on screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "code on monitor",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Habit keeps ChatGPT users loyal",
+        "description": "Subscribers stick for ecosystem and habit, not for performance or cost.",
+        "visual_hint": "chain lock grip",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chain link fence",
+        "image": "https://images.pexels.com/photos/29789094/pexels-photo-29789094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Companies measure AI stickiness",
+        "description": "Claude wins deep reasoning; ChatGPT wins speed. Churn is the real test.",
+        "visual_hint": "graph arrows crossing",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test both yearly plans now",
+        "description": "Paste one real debugging task from last week into both yearly plans today.",
+        "visual_hint": "finger pressing compare",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "two phones comparison",
+        "image": "https://images.pexels.com/photos/30289341/pexels-photo-30289341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+    "savedAt": "2026-06-25T18:03:59.417Z",
+    "sourceId": "8778afccd777555aa384b733c187e2bb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "amazon-ups-india-bet-with-fresh-13b-ai-infrastruct",
     "prompt_version": "1.0.0",
     "status": "published",
