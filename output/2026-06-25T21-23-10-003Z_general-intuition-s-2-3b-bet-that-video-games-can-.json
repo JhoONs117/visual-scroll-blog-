@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "general-intuition-s-2-3b-bet-that-video-games-can-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+  "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+  "pubDate": "Thu, 25 Jun 2026 16:55:00 +0000",
+  "slides": [
+    "Could a $2.3B bet turn game bots into real-world workers?",
+    "General Intuition builds AI that masters video games first.",
+    "But game-trained agents often fail in messy physical environments.",
+    "This shifts your AI strategy: test agents in simulated worlds now.",
+    "Run your next pilot in a game simulator before real deployment."
+  ],
+  "thread_text": [
+    "1. Your bots are liars.\n\nGeneral Intuition just raised $2.3B to train AI on video games. That money expects real-world workers, not just high scores.",
+    "2. Game masters flunk physics.\n\nAgents that dominate StarCraft break down when handed a coffee cup. The skills don't transfer to your warehouse floor.",
+    "3. Simulation is the shortcut.\n\nTest your next agent in a game engine before touching hardware. One bug in the real world costs more than a thousand simulated failures.",
+    "4. The strategy flip.\n\nYour AI roadmap should start with a game simulator, not a robot. Pilot in pixels, deploy in steel.",
+    "5. Run one pilot this week.\n\nTake your current automation idea and mock it in a game engine. If you can't, you're not ready for production."
+  ],
+  "video_script": [
+    "A two-billion-dollar bet on game bots.",
+    "They master pixels, not physics.",
+    "Simulate first, deploy later.",
+    "Your AI roadmap starts with games.",
+    "Mock your pilot in a simulator now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your bots are liars.\n\nGeneral Intuition just raised $2.3B to train AI on video games. That money expects real-world workers, not just high scores.",
+        "2. Game masters flunk physics.\n\nAgents that dominate StarCraft break down when handed a coffee cup. The skills don't transfer to your warehouse floor.",
+        "3. Simulation is the shortcut.\n\nTest your next agent in a game engine before touching hardware. One bug in the real world costs more than a thousand simulated failures.",
+        "4. The strategy flip.\n\nYour AI roadmap should start with a game simulator, not a robot. Pilot in pixels, deploy in steel.",
+        "5. Run one pilot this week.\n\nTake your current automation idea and mock it in a game engine. If you can't, you're not ready for production."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A two-billion-dollar bet on game bots.",
+        "They master pixels, not physics.",
+        "Simulate first, deploy later.",
+        "Your AI roadmap starts with games.",
+        "Mock your pilot in a simulator now."
+      ]
+    },
+    "instagram": {
+      "caption": "Your warehouse robots trained in perfect digital worlds just failed to pick up a soggy cardboard box. 🎮\n\nGeneral Intuition raised $2.3 billion to fix this: teach AI on video games, then drop them into factories. But game champions break on real physics—a StarCraft master can’t pour coffee. ⚙️\n\nThat shifts your strategy: test every new agent in a game simulator first. One physical failure costs more than a thousand glitchy pixels.\n\nWhat’s the one task your automation can’t fake in a video game engine this week? 🕹️"
+    }
+  },
+  "instagram_caption": "Your warehouse robots trained in perfect digital worlds just failed to pick up a soggy cardboard box. 🎮\n\nGeneral Intuition raised $2.3 billion to fix this: teach AI on video games, then drop them into factories. But game champions break on real physics—a StarCraft master can’t pour coffee. ⚙️\n\nThat shifts your strategy: test every new agent in a game simulator first. One physical failure costs more than a thousand glitchy pixels.\n\nWhat’s the one task your automation can’t fake in a video game engine this week? 🕹️",
+  "carousel_slides": [
+    {
+      "hook": "Your game bots are liars.",
+      "description": "General Intuition raised $2.3B to turn game-trained AI into real-world workers, not just high scorers.",
+      "visual_hint": "Arcade joystick with dollar bills",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "arcade joystick money"
+    },
+    {
+      "hook": "StarCraft champs spill coffee.",
+      "description": "Agents that master video games fail at simple physical tasks like grabbing a cup. Skills don't transfer.",
+      "visual_hint": "Game controller near a spilled mug",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "spilled coffee mug",
+      "image": "https://images.pexels.com/photos/36136791/pexels-photo-36136791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Simulation beats hardware testing.",
+      "description": "One real-world bug costs more than a thousand simulated failures. Test your AI in a game engine first.",
+      "visual_hint": "Virtual warehouse with floating glitches",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer simulation warehouse",
+      "image": "https://images.pexels.com/photos/28993113/pexels-photo-28993113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Flip your AI roadmap now.",
+      "description": "Start with a game simulator, not a robot. Pilot in pixels, then deploy in steel.",
+      "visual_hint": "Hand pointing at digital factory blueprint",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory blueprint hand",
+      "image": "https://images.pexels.com/photos/6282077/pexels-photo-6282077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run a test this week.",
+      "description": "Mock your current automation idea in a game engine. If you can't, you aren't ready for production.",
+      "visual_hint": "Controller next to a laptop with code",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "gaming laptop controller",
+      "image": "https://images.pexels.com/photos/14824333/pexels-photo-14824333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
+  "savedAt": "2026-06-25T21:23:42.916Z",
+  "sourceId": "eb1c42e24d9cbae413f4120db8a85692"
+}

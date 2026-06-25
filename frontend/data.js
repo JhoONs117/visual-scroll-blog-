@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "general-intuition-s-2-3b-bet-that-video-games-can-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+    "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "pubDate": "Thu, 25 Jun 2026 16:55:00 +0000",
+    "slides": [
+      "Could a $2.3B bet turn game bots into real-world workers?",
+      "General Intuition builds AI that masters video games first.",
+      "But game-trained agents often fail in messy physical environments.",
+      "This shifts your AI strategy: test agents in simulated worlds now.",
+      "Run your next pilot in a game simulator before real deployment."
+    ],
+    "thread_text": [
+      "1. Your bots are liars.\n\nGeneral Intuition just raised $2.3B to train AI on video games. That money expects real-world workers, not just high scores.",
+      "2. Game masters flunk physics.\n\nAgents that dominate StarCraft break down when handed a coffee cup. The skills don't transfer to your warehouse floor.",
+      "3. Simulation is the shortcut.\n\nTest your next agent in a game engine before touching hardware. One bug in the real world costs more than a thousand simulated failures.",
+      "4. The strategy flip.\n\nYour AI roadmap should start with a game simulator, not a robot. Pilot in pixels, deploy in steel.",
+      "5. Run one pilot this week.\n\nTake your current automation idea and mock it in a game engine. If you can't, you're not ready for production."
+    ],
+    "video_script": [
+      "A two-billion-dollar bet on game bots.",
+      "They master pixels, not physics.",
+      "Simulate first, deploy later.",
+      "Your AI roadmap starts with games.",
+      "Mock your pilot in a simulator now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your bots are liars.\n\nGeneral Intuition just raised $2.3B to train AI on video games. That money expects real-world workers, not just high scores.",
+          "2. Game masters flunk physics.\n\nAgents that dominate StarCraft break down when handed a coffee cup. The skills don't transfer to your warehouse floor.",
+          "3. Simulation is the shortcut.\n\nTest your next agent in a game engine before touching hardware. One bug in the real world costs more than a thousand simulated failures.",
+          "4. The strategy flip.\n\nYour AI roadmap should start with a game simulator, not a robot. Pilot in pixels, deploy in steel.",
+          "5. Run one pilot this week.\n\nTake your current automation idea and mock it in a game engine. If you can't, you're not ready for production."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A two-billion-dollar bet on game bots.",
+          "They master pixels, not physics.",
+          "Simulate first, deploy later.",
+          "Your AI roadmap starts with games.",
+          "Mock your pilot in a simulator now."
+        ]
+      },
+      "instagram": {
+        "caption": "Your warehouse robots trained in perfect digital worlds just failed to pick up a soggy cardboard box. 🎮\n\nGeneral Intuition raised $2.3 billion to fix this: teach AI on video games, then drop them into factories. But game champions break on real physics—a StarCraft master can’t pour coffee. ⚙️\n\nThat shifts your strategy: test every new agent in a game simulator first. One physical failure costs more than a thousand glitchy pixels.\n\nWhat’s the one task your automation can’t fake in a video game engine this week? 🕹️"
+      }
+    },
+    "instagram_caption": "Your warehouse robots trained in perfect digital worlds just failed to pick up a soggy cardboard box. 🎮\n\nGeneral Intuition raised $2.3 billion to fix this: teach AI on video games, then drop them into factories. But game champions break on real physics—a StarCraft master can’t pour coffee. ⚙️\n\nThat shifts your strategy: test every new agent in a game simulator first. One physical failure costs more than a thousand glitchy pixels.\n\nWhat’s the one task your automation can’t fake in a video game engine this week? 🕹️",
+    "carousel_slides": [
+      {
+        "hook": "Your game bots are liars.",
+        "description": "General Intuition raised $2.3B to turn game-trained AI into real-world workers, not just high scorers.",
+        "visual_hint": "Arcade joystick with dollar bills",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "arcade joystick money"
+      },
+      {
+        "hook": "StarCraft champs spill coffee.",
+        "description": "Agents that master video games fail at simple physical tasks like grabbing a cup. Skills don't transfer.",
+        "visual_hint": "Game controller near a spilled mug",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "spilled coffee mug",
+        "image": "https://images.pexels.com/photos/36136791/pexels-photo-36136791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Simulation beats hardware testing.",
+        "description": "One real-world bug costs more than a thousand simulated failures. Test your AI in a game engine first.",
+        "visual_hint": "Virtual warehouse with floating glitches",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer simulation warehouse",
+        "image": "https://images.pexels.com/photos/28993113/pexels-photo-28993113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Flip your AI roadmap now.",
+        "description": "Start with a game simulator, not a robot. Pilot in pixels, then deploy in steel.",
+        "visual_hint": "Hand pointing at digital factory blueprint",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory blueprint hand",
+        "image": "https://images.pexels.com/photos/6282077/pexels-photo-6282077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Run a test this week.",
+        "description": "Mock your current automation idea in a game engine. If you can't, you aren't ready for production.",
+        "visual_hint": "Controller next to a laptop with code",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "gaming laptop controller",
+        "image": "https://images.pexels.com/photos/14824333/pexels-photo-14824333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
+    "savedAt": "2026-06-25T21:23:42.916Z",
+    "sourceId": "eb1c42e24d9cbae413f4120db8a85692"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "patronus-ai-lands-50m-to-build-digital-worlds-that",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "pubDate": "Thu, 25 Jun 2026 20:19:25 +0000",
+    "slides": [
+      "Can you trust your AI agent in the wild?",
+      "Patronus AI just raised $50M to find out.",
+      "Their tool builds digital worlds that attack your model.",
+      "Failures appear before your agent reaches real users.",
+      "Run one stress test today before going live."
+    ],
+    "thread_text": [
+      "1. Can you trust your AI?\n\nPatronus AI just raised $50 million to build stress tests that attack your model before it goes live.",
+      "2. Their tool simulates attacks.\n\nIt creates digital worlds designed to provoke failures you didn't anticipate.",
+      "3. Failures caught early matter.\n\nProblems appear before your agent ever reaches a real user, saving reputation and cost.",
+      "4. One test reveals blind spots.\n\nYou see exactly where your model breaks under pressure you didn't design for.",
+      "5. Run one stress test today.\n\nTake your current agent prompt and simulate an adversarial scenario. Have you done it yet?"
+    ],
+    "video_script": [
+      "Can you trust your AI agent?",
+      "Patronus AI just raised fifty million.",
+      "They build worlds that attack your model.",
+      "Failures appear before users see them.",
+      "Run a stress test today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can you trust your AI?\n\nPatronus AI just raised $50 million to build stress tests that attack your model before it goes live.",
+          "2. Their tool simulates attacks.\n\nIt creates digital worlds designed to provoke failures you didn't anticipate.",
+          "3. Failures caught early matter.\n\nProblems appear before your agent ever reaches a real user, saving reputation and cost.",
+          "4. One test reveals blind spots.\n\nYou see exactly where your model breaks under pressure you didn't design for.",
+          "5. Run one stress test today.\n\nTake your current agent prompt and simulate an adversarial scenario. Have you done it yet?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can you trust your AI agent?",
+          "Patronus AI just raised fifty million.",
+          "They build worlds that attack your model.",
+          "Failures appear before users see them.",
+          "Run a stress test today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your AI agent can now be attacked in a simulated digital world before it ever reaches a real customer.\n\nPatronus AI just raised $50M to build stress tests that poke holes in your model. 🧪 They create environments designed to provoke failures you didn’t anticipate.\n\nFor anyone shipping AI tools, this means blind spots surface before they damage your reputation. One test shows precisely where your agent breaks under pressure you didn’t design for.\n\nHave you run your current agent prompt through an adversarial scenario yet? 🚨"
+      }
+    },
+    "instagram_caption": "Your AI agent can now be attacked in a simulated digital world before it ever reaches a real customer.\n\nPatronus AI just raised $50M to build stress tests that poke holes in your model. 🧪 They create environments designed to provoke failures you didn’t anticipate.\n\nFor anyone shipping AI tools, this means blind spots surface before they damage your reputation. One test shows precisely where your agent breaks under pressure you didn’t design for.\n\nHave you run your current agent prompt through an adversarial scenario yet? 🚨",
+    "carousel_slides": [
+      {
+        "hook": "Your AI is lying to you.",
+        "description": "Patronus AI raised $50M to build digital worlds that attack your model before launch.",
+        "visual_hint": "Dark server room glowing red",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room red lights"
+      },
+      {
+        "hook": "Simulated attacks expose failures.",
+        "description": "Their tool creates adversarial scenarios that stress-test your AI agent until it breaks.",
+        "visual_hint": "Digital city with cracks",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "digital world simulation",
+        "image": "https://images.pexels.com/photos/7562021/pexels-photo-7562021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Failures caught before real users.",
+        "description": "Problems appear in simulation so you can fix them before your agent goes live.",
+        "visual_hint": "Stopwatch with green check",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stopwatch close up",
+        "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One test reveals blind spots.",
+        "description": "See exactly where your model breaks under pressure you didn't design for.",
+        "visual_hint": "Shattered glass screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "broken smartphone screen",
+        "image": "https://images.pexels.com/photos/6755053/pexels-photo-6755053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this post, test your agent.",
+        "description": "Take your current agent prompt and run one adversarial simulation on Patronus AI.",
+        "visual_hint": "Finger pressing test button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person pressing button",
+        "image": "https://images.pexels.com/photos/9461215/pexels-photo-9461215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Patronus-team.jpg?resize=1200,800",
+    "savedAt": "2026-06-25T21:23:24.852Z",
+    "sourceId": "7f5ba665e4de15ce926df2d2a59da806"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "databricks-former-ai-chief-thinks-he-can-cut-ai-s-",
     "prompt_version": "1.0.0",
     "status": "published",
