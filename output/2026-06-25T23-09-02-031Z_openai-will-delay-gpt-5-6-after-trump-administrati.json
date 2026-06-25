@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-will-delay-gpt-5-6-after-trump-administrati",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+  "pubDate": "2026-06-25T21:57:06.000Z",
+  "slides": [
+    "OpenAI delays GPT-5.6. What did Washington request?",
+    "The request came from the Trump administration last week.",
+    "The delay isn’t about safety—it’s about export controls.",
+    "Your competitors might release models while you wait.",
+    "Test your current pipeline now for regulatory gaps."
+  ],
+  "thread_text": [
+    "1. Delay by request?\n\nThe Trump administration asked OpenAI to hold off on GPT-5.6 last week.",
+    "2. Not about safety.\n\nExport controls, not model risks, are the reason behind the delay.",
+    "3. Competitors keep moving.\n\nWhile you wait, rivals may ship their own models unhindered.",
+    "4. Check your pipeline now.\n\nRegulatory gaps in your current setup could catch you off guard.",
+    "5. Simulate a compliance test.\n\nTake your latest model and run it through current export rules this week."
+  ],
+  "video_script": [
+    "OpenAI delayed GPT-5.6 after Washington asked.",
+    "It was the Trump administration last week.",
+    "The reason is export controls, not safety.",
+    "Your competitors may launch while you wait.",
+    "Test your pipeline for regulatory gaps now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Delay by request?\n\nThe Trump administration asked OpenAI to hold off on GPT-5.6 last week.",
+        "2. Not about safety.\n\nExport controls, not model risks, are the reason behind the delay.",
+        "3. Competitors keep moving.\n\nWhile you wait, rivals may ship their own models unhindered.",
+        "4. Check your pipeline now.\n\nRegulatory gaps in your current setup could catch you off guard.",
+        "5. Simulate a compliance test.\n\nTake your latest model and run it through current export rules this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI delayed GPT-5.6 after Washington asked.",
+        "It was the Trump administration last week.",
+        "The reason is export controls, not safety.",
+        "Your competitors may launch while you wait.",
+        "Test your pipeline for regulatory gaps now."
+      ]
+    },
+    "instagram": {
+      "caption": "The Trump administration directly asked OpenAI to hold off launching GPT-5.6 last week.\n\nThis isn't about safety fears. It's about export controls—Washington wants to tighten what AI tech leaves the country. Your competitors aren't under the same hold.\n\nIf you build with or against GPT models, your timeline just shifted. A rival's unregulated model could hit the market first.\n\nRun your current pipeline through the latest export rules this week. What blocker would catch you off guard? ⏳🔍"
+    }
+  },
+  "instagram_caption": "The Trump administration directly asked OpenAI to hold off launching GPT-5.6 last week.\n\nThis isn't about safety fears. It's about export controls—Washington wants to tighten what AI tech leaves the country. Your competitors aren't under the same hold.\n\nIf you build with or against GPT models, your timeline just shifted. A rival's unregulated model could hit the market first.\n\nRun your current pipeline through the latest export rules this week. What blocker would catch you off guard? ⏳🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your model delayed by politics?",
+      "description": "OpenAI pauses GPT-5.6 after Trump administration request over export controls.",
+      "visual_hint": "Stop sign or government building",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "government building"
+    },
+    {
+      "hook": "Not safety—export rules.",
+      "description": "The delay isn't about risks but export controls requested last week by the Trump administration.",
+      "visual_hint": "Shipping containers with flags",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "shipping containers port",
+      "image": "https://images.pexels.com/photos/1624694/pexels-photo-1624694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rivals ship while you wait.",
+      "description": "Your competitors may release unhindered models during OpenAI's regulatory pause on GPT-5.6.",
+      "visual_hint": "Clock with racing cars",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "race track start",
+      "image": "https://images.pexels.com/photos/1127120/pexels-photo-1127120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your pipeline now.",
+      "description": "Regulatory gaps in your current setup could catch you off guard as export rules tighten.",
+      "visual_hint": "Pipeline with warning signs",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "industrial pipeline",
+      "image": "https://images.pexels.com/photos/12194122/pexels-photo-12194122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this compliance checklist.",
+      "description": "Run your latest model through current export rules this week to avoid surprises.",
+      "visual_hint": "Checklist on a tablet",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/8099498/pexels-photo-8099498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-25T23:09:29.286Z",
+  "sourceId": "cfac8b7094d39600101474e75a9275b4"
+}

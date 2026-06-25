@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-will-delay-gpt-5-6-after-trump-administrati",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+    "pubDate": "2026-06-25T21:57:06.000Z",
+    "slides": [
+      "OpenAI delays GPT-5.6. What did Washington request?",
+      "The request came from the Trump administration last week.",
+      "The delay isn’t about safety—it’s about export controls.",
+      "Your competitors might release models while you wait.",
+      "Test your current pipeline now for regulatory gaps."
+    ],
+    "thread_text": [
+      "1. Delay by request?\n\nThe Trump administration asked OpenAI to hold off on GPT-5.6 last week.",
+      "2. Not about safety.\n\nExport controls, not model risks, are the reason behind the delay.",
+      "3. Competitors keep moving.\n\nWhile you wait, rivals may ship their own models unhindered.",
+      "4. Check your pipeline now.\n\nRegulatory gaps in your current setup could catch you off guard.",
+      "5. Simulate a compliance test.\n\nTake your latest model and run it through current export rules this week."
+    ],
+    "video_script": [
+      "OpenAI delayed GPT-5.6 after Washington asked.",
+      "It was the Trump administration last week.",
+      "The reason is export controls, not safety.",
+      "Your competitors may launch while you wait.",
+      "Test your pipeline for regulatory gaps now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Delay by request?\n\nThe Trump administration asked OpenAI to hold off on GPT-5.6 last week.",
+          "2. Not about safety.\n\nExport controls, not model risks, are the reason behind the delay.",
+          "3. Competitors keep moving.\n\nWhile you wait, rivals may ship their own models unhindered.",
+          "4. Check your pipeline now.\n\nRegulatory gaps in your current setup could catch you off guard.",
+          "5. Simulate a compliance test.\n\nTake your latest model and run it through current export rules this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI delayed GPT-5.6 after Washington asked.",
+          "It was the Trump administration last week.",
+          "The reason is export controls, not safety.",
+          "Your competitors may launch while you wait.",
+          "Test your pipeline for regulatory gaps now."
+        ]
+      },
+      "instagram": {
+        "caption": "The Trump administration directly asked OpenAI to hold off launching GPT-5.6 last week.\n\nThis isn't about safety fears. It's about export controls—Washington wants to tighten what AI tech leaves the country. Your competitors aren't under the same hold.\n\nIf you build with or against GPT models, your timeline just shifted. A rival's unregulated model could hit the market first.\n\nRun your current pipeline through the latest export rules this week. What blocker would catch you off guard? ⏳🔍"
+      }
+    },
+    "instagram_caption": "The Trump administration directly asked OpenAI to hold off launching GPT-5.6 last week.\n\nThis isn't about safety fears. It's about export controls—Washington wants to tighten what AI tech leaves the country. Your competitors aren't under the same hold.\n\nIf you build with or against GPT models, your timeline just shifted. A rival's unregulated model could hit the market first.\n\nRun your current pipeline through the latest export rules this week. What blocker would catch you off guard? ⏳🔍",
+    "carousel_slides": [
+      {
+        "hook": "Your model delayed by politics?",
+        "description": "OpenAI pauses GPT-5.6 after Trump administration request over export controls.",
+        "visual_hint": "Stop sign or government building",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "government building"
+      },
+      {
+        "hook": "Not safety—export rules.",
+        "description": "The delay isn't about risks but export controls requested last week by the Trump administration.",
+        "visual_hint": "Shipping containers with flags",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "shipping containers port",
+        "image": "https://images.pexels.com/photos/1624694/pexels-photo-1624694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rivals ship while you wait.",
+        "description": "Your competitors may release unhindered models during OpenAI's regulatory pause on GPT-5.6.",
+        "visual_hint": "Clock with racing cars",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "race track start",
+        "image": "https://images.pexels.com/photos/1127120/pexels-photo-1127120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your pipeline now.",
+        "description": "Regulatory gaps in your current setup could catch you off guard as export rules tighten.",
+        "visual_hint": "Pipeline with warning signs",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "industrial pipeline",
+        "image": "https://images.pexels.com/photos/12194122/pexels-photo-12194122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this compliance checklist.",
+        "description": "Run your latest model through current export rules this week to avoid surprises.",
+        "visual_hint": "Checklist on a tablet",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/8099498/pexels-photo-8099498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-25T23:09:29.286Z",
+    "sourceId": "cfac8b7094d39600101474e75a9275b4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "netris-raises-15m-series-a-from-a16z-to-help-ai-ne",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+    "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+    "pubDate": "Thu, 25 Jun 2026 14:55:38 +0000",
+    "slides": [
+      "Why is a16z betting on Netris to fix neoclouds?",
+      "AI clouds struggle with multi-vendor network setups.",
+      "Most teams spend months on infrastructure integration.",
+      "Netris automates networking to cut deployment from months to days.",
+      "If you run compute, ask if network is your bottleneck."
+    ],
+    "thread_text": [
+      "1. Why a16z is watching?\n\nMonths of manual network setup kill AI cloud speed. Netris automates it in days.",
+      "2. The multi-vendor trap.\n\nEach vendor adds complexity. Teams waste months stitching them together.",
+      "3. Infrastructure integration hell.\n\nMost teams burn months on setup, not compute. That’s the real bottleneck.",
+      "4. Automation flips the timeline.\n\nNetris cuts deployment from months to days. Network ops become code.",
+      "5. Check your network now.\n\nAsk your ops team: what’s your current deployment time? If it’s months, automate today."
+    ],
+    "video_script": [
+      "a16z bets on Netris to fix neoclouds.",
+      "AI clouds fail with multi-vendor networks.",
+      "Teams waste months on infrastructure integration.",
+      "Netris automates networking to deploy in days.",
+      "If you run compute, check your network."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why a16z is watching?\n\nMonths of manual network setup kill AI cloud speed. Netris automates it in days.",
+          "2. The multi-vendor trap.\n\nEach vendor adds complexity. Teams waste months stitching them together.",
+          "3. Infrastructure integration hell.\n\nMost teams burn months on setup, not compute. That’s the real bottleneck.",
+          "4. Automation flips the timeline.\n\nNetris cuts deployment from months to days. Network ops become code.",
+          "5. Check your network now.\n\nAsk your ops team: what’s your current deployment time? If it’s months, automate today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "a16z bets on Netris to fix neoclouds.",
+          "AI clouds fail with multi-vendor networks.",
+          "Teams waste months on infrastructure integration.",
+          "Netris automates networking to deploy in days.",
+          "If you run compute, check your network."
+        ]
+      },
+      "instagram": {
+        "caption": "Deploying AI cloud infrastructure used to take months—one startup just cut that to days.\n\nNetris raised $15M from a16z to automate multi-vendor network setup. ⚡ Most teams burn time stitching hardware from different vendors instead of running compute. Netris turns network operations into code, slashing deployment timelines.\n\nFor anyone building or buying AI cloud capacity: your network is likely your bottleneck, not your GPUs. ⏳\n\nCheck with your ops team: what’s your current deployment time—and would cutting it to days change your roadmap? 🛠️"
+      }
+    },
+    "instagram_caption": "Deploying AI cloud infrastructure used to take months—one startup just cut that to days.\n\nNetris raised $15M from a16z to automate multi-vendor network setup. ⚡ Most teams burn time stitching hardware from different vendors instead of running compute. Netris turns network operations into code, slashing deployment timelines.\n\nFor anyone building or buying AI cloud capacity: your network is likely your bottleneck, not your GPUs. ⏳\n\nCheck with your ops team: what’s your current deployment time—and would cutting it to days change your roadmap? 🛠️",
+    "carousel_slides": [
+      {
+        "hook": "Months of setup kill AI clouds.",
+        "description": "Most teams waste months on network integration, not compute. Netris automates it in days.",
+        "visual_hint": "Cloud network delay warning",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Multi-vendor network trap?",
+        "description": "Each vendor adds complexity. Teams waste months stitching them together instead of scaling.",
+        "visual_hint": "Tangled cables multiple brands",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Infrastructure integration hell.",
+        "description": "Most teams burn months on setup, not compute. That’s the real bottleneck slowing AI clouds.",
+        "visual_hint": "Clock tangled in wires",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "network switch",
+        "image": "https://images.pexels.com/photos/26587939/pexels-photo-26587939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Automation flips the timeline.",
+        "description": "Netris cuts deployment from months to days. Network ops become code, not manual labor.",
+        "visual_hint": "Calendar flipping to days",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "automation dashboard",
+        "image": "https://images.pexels.com/photos/37109905/pexels-photo-37109905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your deployment time now.",
+        "description": "Ask your ops team: what’s your network setup time? If months, try Netris today.",
+        "visual_hint": "Question mark on network map",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "network diagram",
+        "image": "https://images.pexels.com/photos/6642542/pexels-photo-6642542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2263017594.jpg?resize=1200,800",
+    "savedAt": "2026-06-25T23:09:16.104Z",
+    "sourceId": "50960b146d31b459d6cd0fba1d13e59c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "general-intuition-s-2-3b-bet-that-video-games-can-",
     "prompt_version": "1.0.0",
     "status": "published",
