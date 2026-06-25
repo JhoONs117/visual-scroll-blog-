@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cellebrite-said-it-cut-off-russia-but-russia-used-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Cellebrite said it cut off Russia, but Russia used is tools anyway",
+  "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
+  "pubDate": "Thu, 25 Jun 2026 10:00:00 +0000",
+  "slides": [
+    "Cellebrite claimed it blocked Russia—or did it?",
+    "Russia accessed Cellebrite tools through intermediaries.",
+    "Sanctions didn't stop the software from being used.",
+    "Your own compliance tools may face similar leaks.",
+    "Audit your supply chain before the next breach."
+  ],
+  "thread_text": [
+    "1. Cellebrite's Russia problem\n\nTheir forensic tools were used in Russia despite the company claiming a ban.",
+    "2. Intermediaries bypass sanctions\n\nDistributors and resellers kept the software flowing past official restrictions.",
+    "3. Sanctions were just theater\n\nGovernment bans didn't cut off access—the tools were still in use.",
+    "4. Your own tools could leak\n\nIf Cellebrite's compliance failed, your audit systems may be compromised too.",
+    "5. Audit your supply chain today\n\nMap every vendor's downstream access. Have you tested your weakest link?"
+  ],
+  "video_script": [
+    "Cellebrite said they blocked Russia.",
+    "But tools still reached Russia through partners.",
+    "Sanctions didn't stop the software flow.",
+    "Your compliance tools could leak too.",
+    "Audit your supply chain before the next breach."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Cellebrite's Russia problem\n\nTheir forensic tools were used in Russia despite the company claiming a ban.",
+        "2. Intermediaries bypass sanctions\n\nDistributors and resellers kept the software flowing past official restrictions.",
+        "3. Sanctions were just theater\n\nGovernment bans didn't cut off access—the tools were still in use.",
+        "4. Your own tools could leak\n\nIf Cellebrite's compliance failed, your audit systems may be compromised too.",
+        "5. Audit your supply chain today\n\nMap every vendor's downstream access. Have you tested your weakest link?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Cellebrite said they blocked Russia.",
+        "But tools still reached Russia through partners.",
+        "Sanctions didn't stop the software flow.",
+        "Your compliance tools could leak too.",
+        "Audit your supply chain before the next breach."
+      ]
+    },
+    "instagram": {
+      "caption": "A Russian government agency had access to Cellebrite’s phone‑cracking software long after the company announced a ban.\n\nThe ban was real. The enforcement wasn't. Distributors and resellers kept the tools flowing — sanctions became theater.\n\nIf your content or publishing tools rely on third‑party platforms, your compliance chain could have the same backdoor. One unchecked reseller is all it takes.\n\nWhich vendor in your stack could be selling access to someone you banned tomorrow? Map that weak link today."
+    }
+  },
+  "instagram_caption": "A Russian government agency had access to Cellebrite’s phone‑cracking software long after the company announced a ban.\n\nThe ban was real. The enforcement wasn't. Distributors and resellers kept the tools flowing — sanctions became theater.\n\nIf your content or publishing tools rely on third‑party platforms, your compliance chain could have the same backdoor. One unchecked reseller is all it takes.\n\nWhich vendor in your stack could be selling access to someone you banned tomorrow? Map that weak link today.",
+  "carousel_slides": [
+    {
+      "hook": "Your own tools could leak.",
+      "description": "Cellebrite's tools accessed in Russia despite claimed ban. This exposes supply chain risks.",
+      "visual_hint": "hacker in dark hoodie",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Intermediaries bypassed sanctions.",
+      "description": "Distributors and resellers kept Cellebrite's software flowing to Russia past official restrictions.",
+      "visual_hint": "network nodes map",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "network cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sanctions were just theater.",
+      "description": "Government bans didn't cut off access. Cellebrite's tools were still used in Russia.",
+      "visual_hint": "stamp breaking gate",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "document stamp",
+      "image": "https://images.pexels.com/photos/7654118/pexels-photo-7654118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your compliance may already leak.",
+      "description": "If Cellebrite's compliance failed, your audit systems could be compromised too.",
+      "visual_hint": "magnifying glass lock",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to audit your chain.",
+      "description": "Map every vendor's downstream access today. Test your weakest link before the next breach.",
+      "visual_hint": "checklist with chain",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "supply chain",
+      "image": "https://images.pexels.com/photos/4483859/pexels-photo-4483859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/cellebrite-ufed.jpg?resize=1200,800",
+  "savedAt": "2026-06-25T10:36:19.765Z",
+  "sourceId": "e6f0ee4f96d9011915ce58bc0628e15d"
+}

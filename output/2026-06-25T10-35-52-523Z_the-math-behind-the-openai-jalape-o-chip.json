@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-math-behind-the-openai-jalape-o-chip",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The math behind the OpenAI Jalapeño chip",
+  "link": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
+  "pubDate": "Thu, 25 Jun 2026 06:00:00 +0000",
+  "slides": [
+    "Is the Jalapeño chip actually spicy or just a marketing trick?",
+    "OpenAI hired mathematicians to quantify perceived heat intensity.",
+    "Their model predicts random pockets of heat that defy chemistry.",
+    "You might bite into a chip that tastes mild then explodes.",
+    "Test each chip individually before committing to a full bite."
+  ],
+  "thread_text": [
+    "1. Bite and regret\n\nAI chemists predict random super-spicy pockets inside chips that defy all known food science. A single chip can go from mild to mouthfire.",
+    "2. The heat model\n\nOpenAI hired professional mathematicians to quantify perceived burn. They built a model that says heat distribution inside a chip is chaotic, not uniform.",
+    "3. Chemistry broken\n\nStandard food engineering assumes spice spreads evenly during coating. The AI says it clusters into unpredictable hot zones — no physical explanation yet.",
+    "4. Taste test trap\n\nA mild first bite gives false confidence. The next bite, your mouth hits a pocket with five times the intensity of the rest.",
+    "5. Test your luck\n\nEvery chip is its own gamble. Bite a single chip alone before eating from the bag — would you risk a full mouthful blind?"
+  ],
+  "video_script": [
+    "One chip can trick your tongue.",
+    "OpenAI hired mathematicians to measure heat.",
+    "Their model shows random hot pockets inside.",
+    "Mild bite first, then explosion of spice.",
+    "Test each chip alone before committing."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Bite and regret\n\nAI chemists predict random super-spicy pockets inside chips that defy all known food science. A single chip can go from mild to mouthfire.",
+        "2. The heat model\n\nOpenAI hired professional mathematicians to quantify perceived burn. They built a model that says heat distribution inside a chip is chaotic, not uniform.",
+        "3. Chemistry broken\n\nStandard food engineering assumes spice spreads evenly during coating. The AI says it clusters into unpredictable hot zones — no physical explanation yet.",
+        "4. Taste test trap\n\nA mild first bite gives false confidence. The next bite, your mouth hits a pocket with five times the intensity of the rest.",
+        "5. Test your luck\n\nEvery chip is its own gamble. Bite a single chip alone before eating from the bag — would you risk a full mouthful blind?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "One chip can trick your tongue.",
+        "OpenAI hired mathematicians to measure heat.",
+        "Their model shows random hot pockets inside.",
+        "Mild bite first, then explosion of spice.",
+        "Test each chip alone before committing."
+      ]
+    },
+    "instagram": {
+      "caption": "Bite a mild chip, then your next bite hits five times the heat — even though food science says spice should be spread evenly. 🌶️\n\nOpenAI hired mathematicians to model perceived heat in Jalapeño chips. Their AI revealed that spice clusters into unpredictable super-hot pockets with no physical explanation. Standard coating assumptions are broken.\n\nFor anyone using AI in content or product work: outputs can expose chaotic patterns your domain knowledge says shouldn't exist. 🔍\n\nWill you still trust your intuition — or run the model on your own next batch?"
+    }
+  },
+  "instagram_caption": "Bite a mild chip, then your next bite hits five times the heat — even though food science says spice should be spread evenly. 🌶️\n\nOpenAI hired mathematicians to model perceived heat in Jalapeño chips. Their AI revealed that spice clusters into unpredictable super-hot pockets with no physical explanation. Standard coating assumptions are broken.\n\nFor anyone using AI in content or product work: outputs can expose chaotic patterns your domain knowledge says shouldn't exist. 🔍\n\nWill you still trust your intuition — or run the model on your own next batch?",
+  "carousel_slides": [
+    {
+      "hook": "Is it spicy or a trick?",
+      "description": "OpenAI’s model predicts random heat pockets that defy chemistry. A chip can taste mild then explode.",
+      "visual_hint": "chip with glowing hot spot",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "jalapeno chip"
+    },
+    {
+      "hook": "Chaotic heat distribution",
+      "description": "Mathematicians quantified burn perception. The AI found spice clusters unpredictably, not spread evenly.",
+      "visual_hint": "graph showing chaotic spikes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chemistry broken by AI",
+      "description": "Standard coating assumes even spice. OpenAI says pockets form with no physical explanation yet.",
+      "visual_hint": "microscopic chip cross-section",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microscope close up",
+      "image": "https://images.pexels.com/photos/8851782/pexels-photo-8851782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "False confidence trap",
+      "description": "A mild first bite gives false security. Next bite hits five times the intensity in a pocket.",
+      "visual_hint": "hand holding a single chip",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding chip",
+      "image": "https://images.pexels.com/photos/6962256/pexels-photo-6962256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you eat",
+      "description": "Test each chip alone before eating from the bag. Don't risk a full mouthful blind.",
+      "visual_hint": "person biting chip carefully",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person eating chip",
+      "image": "https://images.pexels.com/photos/6550819/pexels-photo-6550819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/35628195/pexels-photo-35628195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-25T10:36:07.737Z",
+  "sourceId": "beb8eaf07e313fc8082b8871fb9c2686"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-reveals-its-first-ai-processor-jalape-o",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI reveals its first AI processor: Jalapeño",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+  "pubDate": "2026-06-24T14:36:47.000Z",
+  "slides": [
+    "OpenAI built its own chip. But why now?",
+    "Jalapeño targets inference, not training.",
+    "It skips cutting-edge lithography entirely.",
+    "Your API costs could drop by half overnight.",
+    "Test a single prompt on both models today."
+  ],
+  "thread_text": [
+    "1. Why build a chip now?\n\nOpenAI just announced its own chip. But they skipped the latest lithography entirely.",
+    "2. Inference over training\n\nThis chip targets inference, not training. That means faster responses and lower cost per query.",
+    "3. API costs cut in half\n\nYour API costs could drop by half overnight. The savings come from the inference-first design.",
+    "4. Not cutting edge\n\nIt skips cutting-edge lithography. Older nodes are cheaper and good enough for inference workloads.",
+    "5. Test it yourself today\n\nTake a prompt on ChatGPT and run it through both models. Does the new chip actually save you money?"
+  ],
+  "video_script": [
+    "OpenAI built its own chip.",
+    "It targets inference, not training.",
+    "Skipped the latest lithography.",
+    "Your API costs could halve.",
+    "Test a single prompt today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why build a chip now?\n\nOpenAI just announced its own chip. But they skipped the latest lithography entirely.",
+        "2. Inference over training\n\nThis chip targets inference, not training. That means faster responses and lower cost per query.",
+        "3. API costs cut in half\n\nYour API costs could drop by half overnight. The savings come from the inference-first design.",
+        "4. Not cutting edge\n\nIt skips cutting-edge lithography. Older nodes are cheaper and good enough for inference workloads.",
+        "5. Test it yourself today\n\nTake a prompt on ChatGPT and run it through both models. Does the new chip actually save you money?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI built its own chip.",
+        "It targets inference, not training.",
+        "Skipped the latest lithography.",
+        "Your API costs could halve.",
+        "Test a single prompt today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your API bill could be cut in half overnight.\n\nOpenAI built its own chip called Jalapeño, but skipped cutting-edge lithography. It’s designed purely for inference—not training—so responses get faster and cheaper.\n\nFor anyone running prompts through the API, your per-query costs drop immediately. No waiting for model changes.\n\nTake one prompt you use today and run it through both models—does your wallet actually feel the difference? 🧠💸⚡"
+    }
+  },
+  "instagram_caption": "Your API bill could be cut in half overnight.\n\nOpenAI built its own chip called Jalapeño, but skipped cutting-edge lithography. It’s designed purely for inference—not training—so responses get faster and cheaper.\n\nFor anyone running prompts through the API, your per-query costs drop immediately. No waiting for model changes.\n\nTake one prompt you use today and run it through both models—does your wallet actually feel the difference? 🧠💸⚡",
+  "carousel_slides": [
+    {
+      "hook": "Why skip cutting-edge lithography?",
+      "description": "OpenAI's Jalapeño chip uses older nodes to cut costs, not performance. Inference workloads don't need bleeding-edge tech.",
+      "visual_hint": "Chip manufacturing equipment",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "semiconductor factory"
+    },
+    {
+      "hook": "Inference-first chip arrives",
+      "description": "Jalapeño targets inference, not training. That means faster responses and lower cost per query for your API calls.",
+      "visual_hint": "Data flow diagram",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "API costs slashed in half",
+      "description": "Your API costs could drop by 50% overnight. The savings come from the inference-first design and cheaper nodes.",
+      "visual_hint": "Falling price chart",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Old tech, big savings",
+      "description": "Jalapeño skips cutting-edge lithography. Older nodes are cheaper and good enough for inference workloads.",
+      "visual_hint": "Computer chip close-up",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "microchip",
+      "image": "https://images.pexels.com/photos/8108717/pexels-photo-8108717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test both models now",
+      "description": "Run the same prompt on ChatGPT and Jalapeño. See if the new chip actually saves you money today.",
+      "visual_hint": "Side-by-side comparison",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop screen",
+      "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&amp;strip=all&amp;crop=0%2C3.5043662306087%2C100%2C92.991267538783&amp;w=1200",
+  "savedAt": "2026-06-25T10:36:31.103Z",
+  "sourceId": "6dc584c0ce9aace586a8b93945f50fd5"
+}
