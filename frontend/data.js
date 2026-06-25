@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "amazon-ups-india-bet-with-fresh-13b-ai-infrastruct",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+    "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+    "pubDate": "Thu, 25 Jun 2026 12:00:38 +0000",
+    "slides": [
+      "Amazon bets $13B on India’s AI. What do they see?",
+      "The investment targets new data centers and cloud regions.",
+      "It raises a question: Can local infrastructure match global scale?",
+      "Your latency drops, but costs may not fall immediately.",
+      "Test your app’s performance now to benchmark future gains."
+    ],
+    "thread_text": [
+      "1. What did Amazon see?\n\nA $13B bet on India’s AI infrastructure. Local data centers are the prize.",
+      "2. Speed vs. cost\n\nNew cloud regions slash latency. But your monthly bill won't drop tomorrow.",
+      "3. Scale mismatch\n\nIndia’s infrastructure can handle billions. Can it match global AI workloads?",
+      "4. The real test\n\nDon't wait for prices to fall. Benchmark your app now to measure future gains.",
+      "5. Your move\n\nRun a latency test on your current app. Compare it to a mock deployment in an Indian region. See the gap."
+    ],
+    "video_script": [
+      "Amazon bets 13 billion on India.",
+      "New data centers cut your latency.",
+      "But costs may not fall soon.",
+      "Benchmark your app before they do.",
+      "Test your app's performance now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What did Amazon see?\n\nA $13B bet on India’s AI infrastructure. Local data centers are the prize.",
+          "2. Speed vs. cost\n\nNew cloud regions slash latency. But your monthly bill won't drop tomorrow.",
+          "3. Scale mismatch\n\nIndia’s infrastructure can handle billions. Can it match global AI workloads?",
+          "4. The real test\n\nDon't wait for prices to fall. Benchmark your app now to measure future gains.",
+          "5. Your move\n\nRun a latency test on your current app. Compare it to a mock deployment in an Indian region. See the gap."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Amazon bets 13 billion on India.",
+          "New data centers cut your latency.",
+          "But costs may not fall soon.",
+          "Benchmark your app before they do.",
+          "Test your app's performance now."
+        ]
+      },
+      "instagram": {
+        "caption": "Amazon just committed $13 billion to build new data centers and cloud regions across India.\n\nThe investment targets local infrastructure to handle massive AI workloads. Your app’s data could soon be processed closer to Indian users, dropping latency.\n\nLatency improves, but your monthly cloud bill probably won't drop right away.\n\nIf you serve Indian users, run a performance test now. How does your app’s current response time compare to a mock deployment in a local region?"
+      }
+    },
+    "instagram_caption": "Amazon just committed $13 billion to build new data centers and cloud regions across India.\n\nThe investment targets local infrastructure to handle massive AI workloads. Your app’s data could soon be processed closer to Indian users, dropping latency.\n\nLatency improves, but your monthly cloud bill probably won't drop right away.\n\nIf you serve Indian users, run a performance test now. How does your app’s current response time compare to a mock deployment in a local region?",
+    "carousel_slides": [
+      {
+        "hook": "India's AI leap: $13B bet?",
+        "description": "Amazon invests $13B in Indian data centers, signaling a massive push for local AI infrastructure.",
+        "visual_hint": "Massive data center construction",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "data center construction"
+      },
+      {
+        "hook": "Speed now, cost later?",
+        "description": "New cloud regions slash latency, but your monthly bill won't drop immediately.",
+        "visual_hint": "Glowing server racks",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server racks",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Can local infra match global AI?",
+        "description": "India's infrastructure handles billions, but scaling for global AI workloads remains a question.",
+        "visual_hint": "World map with data nodes",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "world map data centers",
+        "image": "https://images.pexels.com/photos/3183125/pexels-photo-3183125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Don't wait—benchmark your app",
+        "description": "Test your app's performance now to measure future gains when costs drop.",
+        "visual_hint": "Developer testing app speed",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "developer testing app",
+        "image": "https://images.pexels.com/photos/33607948/pexels-photo-33607948.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Run a latency test today",
+        "description": "Compare your app's latency to a mock deployment in an Indian region and see the gap.",
+        "visual_hint": "Phone showing latency comparison",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "phone latency test",
+        "image": "https://images.pexels.com/photos/13429657/pexels-photo-13429657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-844105434.jpg?w=1024",
+    "savedAt": "2026-06-25T14:06:43.217Z",
+    "sourceId": "c06892b974a07511668d300aba62dec4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "hollywood-is-bending-the-knee-to-openai",
     "prompt_version": "1.0.0",
     "status": "published",
