@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-white-house-is-asking-openai-to-slow-roll-the-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+  "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+  "pubDate": "Thu, 25 Jun 2026 23:34:39 +0000",
+  "slides": [
+    "Why did the White House ask OpenAI to pause?",
+    "The new model is more capable than expected.",
+    "Safety concerns emerged from internal testing results.",
+    "Your AI tools may update later than planned.",
+    "Watch for forced delays as regulatory pressure rises."
+  ],
+  "thread_text": [
+    "1. Why the pause?\n\nThe White House directly asked OpenAI to delay the new model after internal tests flagged unexpected risks.",
+    "2. More capable than expected\n\nThe model outperformed initial benchmarks, surprising even the developers during evaluation.",
+    "3. Safety testing shock\n\nInternal results revealed vulnerabilities that could allow misuse in sensitive applications.",
+    "4. Your tools delayed\n\nUpdates to systems like ChatGPT will arrive later than scheduled due to the forced halt.",
+    "5. What you can do\n\nTry testing your current AI outputs for unexpected behavior. If you see anomalies, report them."
+  ],
+  "video_script": [
+    "White House asked OpenAI to pause.",
+    "New model exceeded all capability expectations.",
+    "Internal tests found serious safety flaws.",
+    "Your AI updates will arrive late.",
+    "Pause. Test your own AI behavior."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why the pause?\n\nThe White House directly asked OpenAI to delay the new model after internal tests flagged unexpected risks.",
+        "2. More capable than expected\n\nThe model outperformed initial benchmarks, surprising even the developers during evaluation.",
+        "3. Safety testing shock\n\nInternal results revealed vulnerabilities that could allow misuse in sensitive applications.",
+        "4. Your tools delayed\n\nUpdates to systems like ChatGPT will arrive later than scheduled due to the forced halt.",
+        "5. What you can do\n\nTry testing your current AI outputs for unexpected behavior. If you see anomalies, report them."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "White House asked OpenAI to pause.",
+        "New model exceeded all capability expectations.",
+        "Internal tests found serious safety flaws.",
+        "Your AI updates will arrive late.",
+        "Pause. Test your own AI behavior."
+      ]
+    },
+    "instagram": {
+      "caption": "Your ChatGPT update just got pushed back.\n\nOpenAI’s new model was outperforming internal safety tests—so much so that the White House stepped in to demand a delay. The company agreed to slow the release after seeing vulnerabilities that could let the tech be misused in sensitive areas. 🛑\n\nThat means every tool built on this model—drafts, summaries, coding assistants—won’t land on your desk until regulators are satisfied. ⏳\n\nAre you still confident the AI you already use is safe enough for your work?"
+    }
+  },
+  "instagram_caption": "Your ChatGPT update just got pushed back.\n\nOpenAI’s new model was outperforming internal safety tests—so much so that the White House stepped in to demand a delay. The company agreed to slow the release after seeing vulnerabilities that could let the tech be misused in sensitive areas. 🛑\n\nThat means every tool built on this model—drafts, summaries, coding assistants—won’t land on your desk until regulators are satisfied. ⏳\n\nAre you still confident the AI you already use is safe enough for your work?",
+  "carousel_slides": [
+    {
+      "hook": "Safety tests revealed hidden risks.",
+      "description": "Internal tests flagged unexpected vulnerabilities in OpenAI's new model, prompting the White House to demand a pause.",
+      "visual_hint": "White House exterior",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "White House building"
+    },
+    {
+      "hook": "Outperformed all initial benchmarks.",
+      "description": "The new model surprised even its developers by exceeding expected capabilities, but risks emerged from its power.",
+      "visual_hint": "Graph line rising",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Vulnerabilities in sensitive applications.",
+      "description": "Internal safety testing found potential for misuse, forcing a halt before public release.",
+      "visual_hint": "Magnifying glass over code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "ChatGPT updates delayed indefinitely.",
+      "description": "Your AI tools will update later than planned due to the forced regulatory slowdown.",
+      "visual_hint": "Calendar with red X",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your AI outputs for anomalies.",
+      "description": "Test your current tools for unexpected behavior. Report any anomalies you find to help stay safe.",
+      "visual_hint": "Person tapping phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+  "savedAt": "2026-06-26T07:43:19.359Z",
+  "sourceId": "7d96e7dab5885b8f5d22d8396a86f831"
+}

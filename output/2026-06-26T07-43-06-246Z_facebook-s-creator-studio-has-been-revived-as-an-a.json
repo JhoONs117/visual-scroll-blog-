@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "facebook-s-creator-studio-has-been-revived-as-an-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+  "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+  "pubDate": "2026-06-25T09:06:19.000Z",
+  "slides": [
+    "Facebook's old Creator Studio returns as an AI companion—but why now?",
+    "It now analyzes your content and suggests real-time improvements.",
+    "The AI doesn't just advise—it can auto-publish for you.",
+    "Your engagement data finally drives concrete, daily actions.",
+    "Test it today: let the AI schedule your next three posts."
+  ],
+  "thread_text": [
+    "Your content is being watched.\n\nFacebook's revived Creator Studio doesn't just analyze your past posts—it scans new drafts as you type and flags low-performing angles before you hit publish.",
+    "It learns your audience's rhythm.\n\nThe AI tracks how engagement changes hour by hour and slides your posts into peak windows—no more guessing when your followers are scrolling.",
+    "But it doesn't stop at advice.\n\nIf you enable auto-publish, the bot decides which of your ready-to-post pieces goes live and when, bypassing your manual queue entirely.",
+    "Your data finally pays off.\n\nEach morning you get a list of concrete actions—like \"swap the first image\" or \"cut the intro by 10 seconds\"—based on what actually moved your metrics.",
+    "Test it today with a single real post.\n\nPick the draft you've been sitting on, let the AI schedule it, and watch whether the reach differs from your manual picks. Ready to hand over one decision?"
+  ],
+  "video_script": [
+    "Facebook brought back Creator Studio as an AI.",
+    "It analyzes your content as you type.",
+    "It can schedule and publish posts for you.",
+    "Your engagement data drives daily to-do list.",
+    "Test it now on one real post."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Your content is being watched.\n\nFacebook's revived Creator Studio doesn't just analyze your past posts—it scans new drafts as you type and flags low-performing angles before you hit publish.",
+        "It learns your audience's rhythm.\n\nThe AI tracks how engagement changes hour by hour and slides your posts into peak windows—no more guessing when your followers are scrolling.",
+        "But it doesn't stop at advice.\n\nIf you enable auto-publish, the bot decides which of your ready-to-post pieces goes live and when, bypassing your manual queue entirely.",
+        "Your data finally pays off.\n\nEach morning you get a list of concrete actions—like \"swap the first image\" or \"cut the intro by 10 seconds\"—based on what actually moved your metrics.",
+        "Test it today with a single real post.\n\nPick the draft you've been sitting on, let the AI schedule it, and watch whether the reach differs from your manual picks. Ready to hand over one decision?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Facebook brought back Creator Studio as an AI.",
+        "It analyzes your content as you type.",
+        "It can schedule and publish posts for you.",
+        "Your engagement data drives daily to-do list.",
+        "Test it now on one real post."
+      ]
+    },
+    "instagram": {
+      "caption": "Your upcoming posts are being analyzed before you even hit publish — Facebook’s revived Creator Studio scans drafts in real time. 📝\n\nIt tracks hourly engagement shifts and slides your posts into peak viewing windows. Turn on auto-publish, and the bot decides which ready piece goes live, bypassing your manual queue. ⏰\n\nEach morning you get concrete actions — “swap the first image” or “cut the intro by 10 seconds” — based on what actually moved your metrics. 📊\n\nPick one draft you’ve been sitting on, let the AI schedule it, and watch whether the reach differs from your manual picks — ready to hand over that single decision?"
+    }
+  },
+  "instagram_caption": "Your upcoming posts are being analyzed before you even hit publish — Facebook’s revived Creator Studio scans drafts in real time. 📝\n\nIt tracks hourly engagement shifts and slides your posts into peak viewing windows. Turn on auto-publish, and the bot decides which ready piece goes live, bypassing your manual queue. ⏰\n\nEach morning you get concrete actions — “swap the first image” or “cut the intro by 10 seconds” — based on what actually moved your metrics. 📊\n\nPick one draft you’ve been sitting on, let the AI schedule it, and watch whether the reach differs from your manual picks — ready to hand over that single decision?",
+  "carousel_slides": [
+    {
+      "hook": "Your content is being watched.",
+      "description": "Facebook's revived Creator Studio scans new drafts as you type, flagging low-performing angles before publishing.",
+      "visual_hint": "AI eye scanning content",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "AI knows your audience's rhythm.",
+      "description": "It tracks engagement hour by hour and slides your posts into peak windows automatically.",
+      "visual_hint": "Clock with rising graph",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It publishes for you, bypassing manual queues.",
+      "description": "Enable auto-publish and the bot decides which ready-to-post piece goes live and when.",
+      "visual_hint": "Robot hand hitting publish",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your data finally drives daily actions.",
+      "description": "Each morning get concrete steps like 'swap first image' based on what moved your metrics.",
+      "visual_hint": "Notepad with checklist items",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Let AI schedule your next three posts.",
+      "description": "Pick a draft you've been sitting on, let the AI schedule it, and watch the reach difference.",
+      "visual_hint": "Calendar with auto-publish icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Facebook-Creator-Studio-relaunch.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-26T07:43:34.447Z",
+  "sourceId": "101e1ff9a5c28f04d6bc7fbe515ad0a9"
+}

@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "facebook-s-creator-studio-has-been-revived-as-an-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+    "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+    "pubDate": "2026-06-25T09:06:19.000Z",
+    "slides": [
+      "Facebook's old Creator Studio returns as an AI companion—but why now?",
+      "It now analyzes your content and suggests real-time improvements.",
+      "The AI doesn't just advise—it can auto-publish for you.",
+      "Your engagement data finally drives concrete, daily actions.",
+      "Test it today: let the AI schedule your next three posts."
+    ],
+    "thread_text": [
+      "Your content is being watched.\n\nFacebook's revived Creator Studio doesn't just analyze your past posts—it scans new drafts as you type and flags low-performing angles before you hit publish.",
+      "It learns your audience's rhythm.\n\nThe AI tracks how engagement changes hour by hour and slides your posts into peak windows—no more guessing when your followers are scrolling.",
+      "But it doesn't stop at advice.\n\nIf you enable auto-publish, the bot decides which of your ready-to-post pieces goes live and when, bypassing your manual queue entirely.",
+      "Your data finally pays off.\n\nEach morning you get a list of concrete actions—like \"swap the first image\" or \"cut the intro by 10 seconds\"—based on what actually moved your metrics.",
+      "Test it today with a single real post.\n\nPick the draft you've been sitting on, let the AI schedule it, and watch whether the reach differs from your manual picks. Ready to hand over one decision?"
+    ],
+    "video_script": [
+      "Facebook brought back Creator Studio as an AI.",
+      "It analyzes your content as you type.",
+      "It can schedule and publish posts for you.",
+      "Your engagement data drives daily to-do list.",
+      "Test it now on one real post."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Your content is being watched.\n\nFacebook's revived Creator Studio doesn't just analyze your past posts—it scans new drafts as you type and flags low-performing angles before you hit publish.",
+          "It learns your audience's rhythm.\n\nThe AI tracks how engagement changes hour by hour and slides your posts into peak windows—no more guessing when your followers are scrolling.",
+          "But it doesn't stop at advice.\n\nIf you enable auto-publish, the bot decides which of your ready-to-post pieces goes live and when, bypassing your manual queue entirely.",
+          "Your data finally pays off.\n\nEach morning you get a list of concrete actions—like \"swap the first image\" or \"cut the intro by 10 seconds\"—based on what actually moved your metrics.",
+          "Test it today with a single real post.\n\nPick the draft you've been sitting on, let the AI schedule it, and watch whether the reach differs from your manual picks. Ready to hand over one decision?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Facebook brought back Creator Studio as an AI.",
+          "It analyzes your content as you type.",
+          "It can schedule and publish posts for you.",
+          "Your engagement data drives daily to-do list.",
+          "Test it now on one real post."
+        ]
+      },
+      "instagram": {
+        "caption": "Your upcoming posts are being analyzed before you even hit publish — Facebook’s revived Creator Studio scans drafts in real time. 📝\n\nIt tracks hourly engagement shifts and slides your posts into peak viewing windows. Turn on auto-publish, and the bot decides which ready piece goes live, bypassing your manual queue. ⏰\n\nEach morning you get concrete actions — “swap the first image” or “cut the intro by 10 seconds” — based on what actually moved your metrics. 📊\n\nPick one draft you’ve been sitting on, let the AI schedule it, and watch whether the reach differs from your manual picks — ready to hand over that single decision?"
+      }
+    },
+    "instagram_caption": "Your upcoming posts are being analyzed before you even hit publish — Facebook’s revived Creator Studio scans drafts in real time. 📝\n\nIt tracks hourly engagement shifts and slides your posts into peak viewing windows. Turn on auto-publish, and the bot decides which ready piece goes live, bypassing your manual queue. ⏰\n\nEach morning you get concrete actions — “swap the first image” or “cut the intro by 10 seconds” — based on what actually moved your metrics. 📊\n\nPick one draft you’ve been sitting on, let the AI schedule it, and watch whether the reach differs from your manual picks — ready to hand over that single decision?",
+    "carousel_slides": [
+      {
+        "hook": "Your content is being watched.",
+        "description": "Facebook's revived Creator Studio scans new drafts as you type, flagging low-performing angles before publishing.",
+        "visual_hint": "AI eye scanning content",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "AI knows your audience's rhythm.",
+        "description": "It tracks engagement hour by hour and slides your posts into peak windows automatically.",
+        "visual_hint": "Clock with rising graph",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It publishes for you, bypassing manual queues.",
+        "description": "Enable auto-publish and the bot decides which ready-to-post piece goes live and when.",
+        "visual_hint": "Robot hand hitting publish",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your data finally drives daily actions.",
+        "description": "Each morning get concrete steps like 'swap first image' based on what moved your metrics.",
+        "visual_hint": "Notepad with checklist items",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Let AI schedule your next three posts.",
+        "description": "Pick a draft you've been sitting on, let the AI schedule it, and watch the reach difference.",
+        "visual_hint": "Calendar with auto-publish icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Facebook-Creator-Studio-relaunch.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-26T07:43:34.447Z",
+    "sourceId": "101e1ff9a5c28f04d6bc7fbe515ad0a9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "the-white-house-is-asking-openai-to-slow-roll-the-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "pubDate": "Thu, 25 Jun 2026 23:34:39 +0000",
+    "slides": [
+      "Why did the White House ask OpenAI to pause?",
+      "The new model is more capable than expected.",
+      "Safety concerns emerged from internal testing results.",
+      "Your AI tools may update later than planned.",
+      "Watch for forced delays as regulatory pressure rises."
+    ],
+    "thread_text": [
+      "1. Why the pause?\n\nThe White House directly asked OpenAI to delay the new model after internal tests flagged unexpected risks.",
+      "2. More capable than expected\n\nThe model outperformed initial benchmarks, surprising even the developers during evaluation.",
+      "3. Safety testing shock\n\nInternal results revealed vulnerabilities that could allow misuse in sensitive applications.",
+      "4. Your tools delayed\n\nUpdates to systems like ChatGPT will arrive later than scheduled due to the forced halt.",
+      "5. What you can do\n\nTry testing your current AI outputs for unexpected behavior. If you see anomalies, report them."
+    ],
+    "video_script": [
+      "White House asked OpenAI to pause.",
+      "New model exceeded all capability expectations.",
+      "Internal tests found serious safety flaws.",
+      "Your AI updates will arrive late.",
+      "Pause. Test your own AI behavior."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why the pause?\n\nThe White House directly asked OpenAI to delay the new model after internal tests flagged unexpected risks.",
+          "2. More capable than expected\n\nThe model outperformed initial benchmarks, surprising even the developers during evaluation.",
+          "3. Safety testing shock\n\nInternal results revealed vulnerabilities that could allow misuse in sensitive applications.",
+          "4. Your tools delayed\n\nUpdates to systems like ChatGPT will arrive later than scheduled due to the forced halt.",
+          "5. What you can do\n\nTry testing your current AI outputs for unexpected behavior. If you see anomalies, report them."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "White House asked OpenAI to pause.",
+          "New model exceeded all capability expectations.",
+          "Internal tests found serious safety flaws.",
+          "Your AI updates will arrive late.",
+          "Pause. Test your own AI behavior."
+        ]
+      },
+      "instagram": {
+        "caption": "Your ChatGPT update just got pushed back.\n\nOpenAI’s new model was outperforming internal safety tests—so much so that the White House stepped in to demand a delay. The company agreed to slow the release after seeing vulnerabilities that could let the tech be misused in sensitive areas. 🛑\n\nThat means every tool built on this model—drafts, summaries, coding assistants—won’t land on your desk until regulators are satisfied. ⏳\n\nAre you still confident the AI you already use is safe enough for your work?"
+      }
+    },
+    "instagram_caption": "Your ChatGPT update just got pushed back.\n\nOpenAI’s new model was outperforming internal safety tests—so much so that the White House stepped in to demand a delay. The company agreed to slow the release after seeing vulnerabilities that could let the tech be misused in sensitive areas. 🛑\n\nThat means every tool built on this model—drafts, summaries, coding assistants—won’t land on your desk until regulators are satisfied. ⏳\n\nAre you still confident the AI you already use is safe enough for your work?",
+    "carousel_slides": [
+      {
+        "hook": "Safety tests revealed hidden risks.",
+        "description": "Internal tests flagged unexpected vulnerabilities in OpenAI's new model, prompting the White House to demand a pause.",
+        "visual_hint": "White House exterior",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "White House building"
+      },
+      {
+        "hook": "Outperformed all initial benchmarks.",
+        "description": "The new model surprised even its developers by exceeding expected capabilities, but risks emerged from its power.",
+        "visual_hint": "Graph line rising",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Vulnerabilities in sensitive applications.",
+        "description": "Internal safety testing found potential for misuse, forcing a halt before public release.",
+        "visual_hint": "Magnifying glass over code",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "ChatGPT updates delayed indefinitely.",
+        "description": "Your AI tools will update later than planned due to the forced regulatory slowdown.",
+        "visual_hint": "Calendar with red X",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your AI outputs for anomalies.",
+        "description": "Test your current tools for unexpected behavior. Report any anomalies you find to help stay safe.",
+        "visual_hint": "Person tapping phone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+    "savedAt": "2026-06-26T07:43:19.359Z",
+    "sourceId": "7d96e7dab5885b8f5d22d8396a86f831"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-will-delay-gpt-5-6-after-trump-administrati",
     "prompt_version": "1.0.0",
     "status": "published",
