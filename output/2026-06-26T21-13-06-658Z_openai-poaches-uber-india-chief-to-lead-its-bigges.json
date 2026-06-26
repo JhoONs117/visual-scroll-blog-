@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-poaches-uber-india-chief-to-lead-its-bigges",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+  "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+  "pubDate": "Fri, 26 Jun 2026 18:19:36 +0000",
+  "slides": [
+    "Why would OpenAI hire Uber’s India chief?",
+    "India is OpenAI’s largest market after the US.",
+    "It lacks a local team and regulatory strategy.",
+    "Prabhjeet Singh now shapes its India expansion.",
+    "Watch for policy shifts that affect your access."
+  ],
+  "thread_text": [
+    "1. Why hire Uber’s India chief?\n\nOpenAI just brought on Prabhjeet Singh, who oversaw Uber’s operations across the region.",
+    "2. India is now OpenAI’s second-largest market\n\nIt has no local office, no local team, and no formal regulatory strategy.",
+    "3. Prabhjeet Singh doesn’t have a regulatory background\n\nHis task is to build that missing strategy from scratch.",
+    "4. India is debating new data localization rules\n\nThose rules could block models trained on global data from serving Indian users.",
+    "5. Test ChatGPT on a prompt about Indian traffic laws today\n\nIf the answer differs from local sources, that gap may soon become a compliance issue."
+  ],
+  "video_script": [
+    "OpenAI hired Uber's India chief.",
+    "India is its biggest market after the US.",
+    "No local team or regulatory moves yet.",
+    "Prabhjeet Singh will shape the expansion.",
+    "Watch for policy shifts that affect access."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why hire Uber’s India chief?\n\nOpenAI just brought on Prabhjeet Singh, who oversaw Uber’s operations across the region.",
+        "2. India is now OpenAI’s second-largest market\n\nIt has no local office, no local team, and no formal regulatory strategy.",
+        "3. Prabhjeet Singh doesn’t have a regulatory background\n\nHis task is to build that missing strategy from scratch.",
+        "4. India is debating new data localization rules\n\nThose rules could block models trained on global data from serving Indian users.",
+        "5. Test ChatGPT on a prompt about Indian traffic laws today\n\nIf the answer differs from local sources, that gap may soon become a compliance issue."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI hired Uber's India chief.",
+        "India is its biggest market after the US.",
+        "No local team or regulatory moves yet.",
+        "Prabhjeet Singh will shape the expansion.",
+        "Watch for policy shifts that affect access."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI just hired Uber’s India chief Prabhjeet Singh—but he has no regulatory background. 🧾 India is now OpenAI’s second-largest market, yet the company has zero local staff, no office, and no strategy for new data localization rules. Those rules could block models trained on global data from serving Indian users.\n\nIf you use ChatGPT for work or content, any mismatch between its answers and local laws might soon become a compliance problem.\n\nWhat happens when your AI tool can’t legally reference its own training data?"
+    }
+  },
+  "instagram_caption": "OpenAI just hired Uber’s India chief Prabhjeet Singh—but he has no regulatory background. 🧾 India is now OpenAI’s second-largest market, yet the company has zero local staff, no office, and no strategy for new data localization rules. Those rules could block models trained on global data from serving Indian users.\n\nIf you use ChatGPT for work or content, any mismatch between its answers and local laws might soon become a compliance problem.\n\nWhat happens when your AI tool can’t legally reference its own training data?",
+  "carousel_slides": [
+    {
+      "hook": "OpenAI hires Uber's India chief?",
+      "description": "Prabhjeet Singh, Uber's India head, now leads OpenAI's largest market outside the US without any regulatory background.",
+      "visual_hint": "Silhouette decision office",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office skyline"
+    },
+    {
+      "hook": "India is OpenAI's second-biggest market",
+      "description": "No local office, no local team, and no formal regulatory strategy yet.",
+      "visual_hint": "India map highlight",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "India map",
+      "image": "https://images.pexels.com/photos/4514079/pexels-photo-4514079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "He must build strategy from scratch",
+      "description": "Lacking regulatory experience, Singh faces new data localization rules that could block global models.",
+      "visual_hint": "Blueprint empty table",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "blueprint document",
+      "image": "https://images.pexels.com/photos/8297537/pexels-photo-8297537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Data rules may block ChatGPT in India",
+      "description": "Proposed laws could prevent models trained on global data from serving Indian users.",
+      "visual_hint": "Gavel law book",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "courtroom gavel",
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to track policy changes",
+      "description": "Test ChatGPT on Indian traffic laws today. If answers differ, that gap may become a compliance issue.",
+      "visual_hint": "Phone screen traffic",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "traffic sign",
+      "image": "https://images.pexels.com/photos/11951177/pexels-photo-11951177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800",
+  "savedAt": "2026-06-26T21:13:18.910Z",
+  "sourceId": "aea0b75b503942f476be5d9a0e278c4f"
+}
