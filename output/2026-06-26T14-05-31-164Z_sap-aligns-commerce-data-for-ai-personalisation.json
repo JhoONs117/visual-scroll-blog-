@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sap-aligns-commerce-data-for-ai-personalisation",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "SAP aligns commerce data for AI personalisation",
+  "link": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
+  "pubDate": "Fri, 26 Jun 2026 12:55:48 +0000",
+  "slides": [
+    "How does SAP unify scattered commerce data for AI?",
+    "It connects silos from ERP and CRM systems.",
+    "Most firms still rely on manual data cleaning.",
+    "Your AI models finally get real-time, consistent inputs.",
+    "Stop building data pipelines—use SAP's unified layer."
+  ],
+  "thread_text": [
+    "Your AI is only as good as your data.\n\nMost firms still clean data by hand—70% of AI project time is wasted on manual prep.",
+    "SAP connects ERP and CRM silos.\n\nOne unified layer pulls scattered commerce data into a single stream.",
+    "No more building custom pipelines.\n\nSAP’s layer feeds your AI models directly, in real time.",
+    "Consistent inputs mean reliable outputs.\n\nYour models stop choking on dirty, outdated data from disconnected sources.",
+    "Can your current stack survive without a unified data layer?\n\nCheck if your ERP and CRM already talk to each other—if not, start with SAP this quarter."
+  ],
+  "video_script": [
+    "Your AI needs clean data to work.",
+    "SAP connects scattered silos in one layer.",
+    "No more building pipelines by hand.",
+    "Your models get real-time, consistent inputs now.",
+    "Start with SAP's unified layer today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Your AI is only as good as your data.\n\nMost firms still clean data by hand—70% of AI project time is wasted on manual prep.",
+        "SAP connects ERP and CRM silos.\n\nOne unified layer pulls scattered commerce data into a single stream.",
+        "No more building custom pipelines.\n\nSAP’s layer feeds your AI models directly, in real time.",
+        "Consistent inputs mean reliable outputs.\n\nYour models stop choking on dirty, outdated data from disconnected sources.",
+        "Can your current stack survive without a unified data layer?\n\nCheck if your ERP and CRM already talk to each other—if not, start with SAP this quarter."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your AI needs clean data to work.",
+        "SAP connects scattered silos in one layer.",
+        "No more building pipelines by hand.",
+        "Your models get real-time, consistent inputs now.",
+        "Start with SAP's unified layer today."
+      ]
+    },
+    "instagram": {
+      "caption": "70% of AI project time is wasted manually cleaning data — most companies still do this by hand. 😵\n\nSAP just connected ERP and CRM silos into a single unified data layer. No more building custom pipelines. Your AI models get real-time, consistent inputs directly.\n\nThat means you can stop wrestling with dirty spreadsheets and broken integrations, and start shipping features that actually work with fresh data.\n\nIs your current toolchain ready for that, or are you still patching together data feeds by hand? 🛠️"
+    }
+  },
+  "instagram_caption": "70% of AI project time is wasted manually cleaning data — most companies still do this by hand. 😵\n\nSAP just connected ERP and CRM silos into a single unified data layer. No more building custom pipelines. Your AI models get real-time, consistent inputs directly.\n\nThat means you can stop wrestling with dirty spreadsheets and broken integrations, and start shipping features that actually work with fresh data.\n\nIs your current toolchain ready for that, or are you still patching together data feeds by hand? 🛠️",
+  "carousel_slides": [
+    {
+      "hook": "70% of AI time wasted.",
+      "description": "Most firms clean data by hand, wasting 70% of AI project time on manual prep.",
+      "visual_hint": "Person cleaning messy data",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data cleaning desk"
+    },
+    {
+      "hook": "ERP and CRM don't talk?",
+      "description": "SAP connects ERP and CRM silos into one unified layer of commerce data.",
+      "visual_hint": "Two silos connecting via pipe",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "network cables server",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop building custom pipelines.",
+      "description": "SAP's unified layer feeds your AI models directly in real time, no manual work.",
+      "visual_hint": "Pipeline merging into AI brain",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data pipeline architecture",
+      "image": "https://images.pexels.com/photos/33905749/pexels-photo-33905749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Consistent inputs, reliable outputs.",
+      "description": "Your AI models stop choking on dirty data from disconnected sources with SAP.",
+      "visual_hint": "Clean water flowing from tap",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "clean water glass",
+      "image": "https://images.pexels.com/photos/6210568/pexels-photo-6210568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to share with your CTO.",
+      "description": "Check if your ERP and CRM already talk—if not, start with SAP this quarter.",
+      "visual_hint": "SAP logo on phone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone SAP app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/8296947/pexels-photo-8296947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-26T14:05:46.155Z",
+  "sourceId": "f7fedc0ec6cbfdd4536405b562258562"
+}

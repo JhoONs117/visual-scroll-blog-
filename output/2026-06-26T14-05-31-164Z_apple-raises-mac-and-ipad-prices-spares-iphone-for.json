@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-raises-mac-and-ipad-prices-spares-iphone-for",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple raises Mac and iPad prices, spares iPhone for now",
+  "link": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
+  "pubDate": "Thu, 25 Jun 2026 14:52:35 +0000",
+  "slides": [
+    "Why did Apple raise Mac and iPad prices, not iPhone?",
+    "Inflation and component costs drove the increases, says Apple.",
+    "Yet iPhone margins are thinner than Mac’s—so why spare it?",
+    "Your next Mac purchase just got more expensive without warning.",
+    "Check Apple’s pricing page today before competitors adjust too."
+  ],
+  "thread_text": [
+    "1. Why not the iPhone?\n\nApple raised Mac and iPad prices citing inflation, but the iPhone—with thinner margins—was left untouched.",
+    "2. Margins don’t match\n\nMac margins are actually fatter than iPhone’s. So the cost story doesn't explain why Mac buyers got hit.",
+    "3. A quiet price hike\n\nApple didn't announce the increase. You only see it when you check the store page today.",
+    "4. Your next Mac costs more\n\nThe price jump applies to new purchases now. No warning, no grace period.",
+    "5. Check the pricing page\n\nBefore competitors raise their prices too, see how much more you'll pay for that Mac you wanted."
+  ],
+  "video_script": [
+    "Apple raised Mac and iPad prices.",
+    "But not the iPhone. Why?",
+    "Mac margins are fatter than iPhone's.",
+    "The price hike was unannounced.",
+    "Check Apple's site before competitors adjust."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why not the iPhone?\n\nApple raised Mac and iPad prices citing inflation, but the iPhone—with thinner margins—was left untouched.",
+        "2. Margins don’t match\n\nMac margins are actually fatter than iPhone’s. So the cost story doesn't explain why Mac buyers got hit.",
+        "3. A quiet price hike\n\nApple didn't announce the increase. You only see it when you check the store page today.",
+        "4. Your next Mac costs more\n\nThe price jump applies to new purchases now. No warning, no grace period.",
+        "5. Check the pricing page\n\nBefore competitors raise their prices too, see how much more you'll pay for that Mac you wanted."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple raised Mac and iPad prices.",
+        "But not the iPhone. Why?",
+        "Mac margins are fatter than iPhone's.",
+        "The price hike was unannounced.",
+        "Check Apple's site before competitors adjust."
+      ]
+    },
+    "instagram": {
+      "caption": "The Mac you were planning to buy just got more expensive—Apple quietly raised prices on Macs and iPads, with no announcement or grace period. 💻\n\nApple blames inflation and component costs. But the iPhone, which has thinner profit margins, was left untouched. So the cost story doesn't fully explain why Mac buyers were singled out.\n\nThe price hike is already live on Apple’s store page. If you're a creator, editor, or designer relying on a Mac for work, your next upgrade now costs more without warning. 💸\n\nCheck the pricing page today—before other manufacturers follow suit. Is your current setup worth waiting another cycle?"
+    }
+  },
+  "instagram_caption": "The Mac you were planning to buy just got more expensive—Apple quietly raised prices on Macs and iPads, with no announcement or grace period. 💻\n\nApple blames inflation and component costs. But the iPhone, which has thinner profit margins, was left untouched. So the cost story doesn't fully explain why Mac buyers were singled out.\n\nThe price hike is already live on Apple’s store page. If you're a creator, editor, or designer relying on a Mac for work, your next upgrade now costs more without warning. 💸\n\nCheck the pricing page today—before other manufacturers follow suit. Is your current setup worth waiting another cycle?",
+  "carousel_slides": [
+    {
+      "hook": "Why spare the iPhone?",
+      "description": "Apple raised Mac and iPad prices, but left thinner-margin iPhones untouched. The real story cuts deeper.",
+      "visual_hint": "iPhone vs Mac comparison",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "iPhone Mac comparison"
+    },
+    {
+      "hook": "Margins don't add up.",
+      "description": "Mac margins are fatter than iPhone's, so inflation alone doesn't explain why Mac buyers were singled out.",
+      "visual_hint": "Profit margin chart diverge",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A quiet price hike.",
+      "description": "Apple didn't announce the increase—you only see it when checking the store page today. No warning given.",
+      "visual_hint": "Apple store price update",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "Apple store page",
+      "image": "https://images.pexels.com/photos/37296160/pexels-photo-37296160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next Mac costs more.",
+      "description": "The price jump applies to new purchases now. No grace period or notice for buyers.",
+      "visual_hint": "Hand tapping checkout button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand tapping tablet",
+      "image": "https://images.pexels.com/photos/25711229/pexels-photo-25711229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check pricing before competitors.",
+      "description": "Visit Apple's pricing page today to see how much more you'll pay for that Mac you wanted.",
+      "visual_hint": "Pricing page open browser",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop with price tag",
+      "image": "https://images.pexels.com/photos/8970689/pexels-photo-8970689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
+  "savedAt": "2026-06-26T14:05:59.833Z",
+  "sourceId": "99782a18c2df6be0b5bb8df9018778a6"
+}
