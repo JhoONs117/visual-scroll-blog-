@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "it-s-not-about-anthropic-vs-openai-anymore",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "It’s not about Anthropic vs. OpenAI anymore",
+  "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+  "pubDate": "Fri, 26 Jun 2026 16:24:47 +0000",
+  "slides": [
+    "Who's actually winning the AI race now?",
+    "Enter DeepSeek: a Chinese lab with $1.4 billion",
+    "It trained a model rivaling GPT-4 for a fraction",
+    "Your next enterprise vendor may not be American",
+    "Audit your current AI supply chain today"
+  ],
+  "thread_text": [
+    "1. Who's actually winning?\n\nDeepSeek trained a GPT-4 rival on a fraction of the cost.",
+    "2. The $1.4 billion question\n\nThat lab built the model with less budget than U.S. giants burn on compute.",
+    "3. Your next vendor shift\n\nEnterprise AI procurement may soon bypass American providers entirely.",
+    "4. Audit your supply chain\n\nMap every AI tool your team uses. Chances are, one route leads to China.",
+    "5. What runs by you?\n\nPick one AI tool you use weekly. Trace who owns the underlying model today."
+  ],
+  "video_script": [
+    "DeepSeek undercut the AI giants by billions.",
+    "They trained a GPT-4 competitor on pocket change.",
+    "Your next enterprise AI vendor may not be American.",
+    "Map your current AI supply chain this week.",
+    "Trace who owns the model you use daily."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's actually winning?\n\nDeepSeek trained a GPT-4 rival on a fraction of the cost.",
+        "2. The $1.4 billion question\n\nThat lab built the model with less budget than U.S. giants burn on compute.",
+        "3. Your next vendor shift\n\nEnterprise AI procurement may soon bypass American providers entirely.",
+        "4. Audit your supply chain\n\nMap every AI tool your team uses. Chances are, one route leads to China.",
+        "5. What runs by you?\n\nPick one AI tool you use weekly. Trace who owns the underlying model today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "DeepSeek undercut the AI giants by billions.",
+        "They trained a GPT-4 competitor on pocket change.",
+        "Your next enterprise AI vendor may not be American.",
+        "Map your current AI supply chain this week.",
+        "Trace who owns the model you use daily."
+      ]
+    },
+    "instagram": {
+      "caption": "A Chinese lab called DeepSeek trained a model that rivals GPT-4 on a fraction of the budget US giants spend.  \n\nThey did it with $1.4 billion—less than what competitors burn on compute alone.  \nYour next enterprise AI vendor might not be American.  \n\nFor creators and teams: the AI tools you rely on could have a supply chain running through Beijing.  \n\nMap every AI tool your team uses this week: who owns the underlying model? 🇨🇳💻🔍"
+    }
+  },
+  "instagram_caption": "A Chinese lab called DeepSeek trained a model that rivals GPT-4 on a fraction of the budget US giants spend.  \n\nThey did it with $1.4 billion—less than what competitors burn on compute alone.  \nYour next enterprise AI vendor might not be American.  \n\nFor creators and teams: the AI tools you rely on could have a supply chain running through Beijing.  \n\nMap every AI tool your team uses this week: who owns the underlying model? 🇨🇳💻🔍",
+  "carousel_slides": [
+    {
+      "hook": "The AI race just changed hands",
+      "description": "DeepSeek trained a GPT-4 rival for a fraction of the cost. The leaderboard now tilts east.",
+      "visual_hint": "World map with red line shifting east",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "world map east"
+    },
+    {
+      "hook": "A $1.4 billion contender emerges",
+      "description": "DeepSeek built its model with less budget than US giants spend on compute alone.",
+      "visual_hint": "Sparkling money stack beside server",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room money",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next vendor might not be American",
+      "description": "Enterprise AI procurement could bypass US providers entirely within months.",
+      "visual_hint": "American flag fading into Chinese flag",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "flag transition china",
+      "image": "https://images.pexels.com/photos/34099283/pexels-photo-34099283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Do you know your AI supply chain?",
+      "description": "Map every AI tool you use. Chances are one route leads to China.",
+      "visual_hint": "Tangled network of lines with a highlighted path",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "network cable map",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trace one AI tool you use weekly",
+      "description": "Check who owns the underlying model. Comment the vendor below.",
+      "visual_hint": "Magnifying glass over a phone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass phone",
+      "image": "https://images.pexels.com/photos/8927455/pexels-photo-8927455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/white-house-conklin.jpg?w=1024",
+  "savedAt": "2026-06-26T22:59:11.048Z",
+  "sourceId": "d295ec6c7f14bc93cb58d85c28bbcc85"
+}
