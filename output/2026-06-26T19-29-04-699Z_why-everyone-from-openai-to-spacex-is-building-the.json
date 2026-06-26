@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-everyone-from-openai-to-spacex-is-building-the",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+  "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+  "pubDate": "Fri, 26 Jun 2026 17:43:22 +0000",
+  "slides": [
+    "Why are tech giants racing to replace Nvidia chips?",
+    "OpenAI and SpaceX both design their own silicon now.",
+    "Nvidia's dominance has a hidden vulnerability they exploit.",
+    "Custom chips cut costs and boost performance for specific tasks.",
+    "Your next AI tool may never run on an Nvidia chip."
+  ],
+  "thread_text": [
+    "1. Why they quit Nvidia\n\nApple trained its latest AI on Google’s custom chip, not an Nvidia GPU.",
+    "2. OpenAI’s secret project\n\nSam Altman confirmed they are building their own AI accelerator with Broadcom.",
+    "3. Nvidia’s weak spot\n\nIts chips are general-purpose; custom silicon beats them on power per task.",
+    "4. SpaceX joined the race\n\nElon Musk’s other company designed a chip for its Starlink AI pipeline.",
+    "5. Test it yourself\n\nAsk ChatGPT about the model it runs on. If it says Nvidia, ask why that matters to you."
+  ],
+  "video_script": [
+    "Apple ditched Nvidia for Google chips.",
+    "OpenAI is building its own silicon.",
+    "Custom chips beat general-purpose ones.",
+    "SpaceX now designs its own too.",
+    "Check what runs your next AI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why they quit Nvidia\n\nApple trained its latest AI on Google’s custom chip, not an Nvidia GPU.",
+        "2. OpenAI’s secret project\n\nSam Altman confirmed they are building their own AI accelerator with Broadcom.",
+        "3. Nvidia’s weak spot\n\nIts chips are general-purpose; custom silicon beats them on power per task.",
+        "4. SpaceX joined the race\n\nElon Musk’s other company designed a chip for its Starlink AI pipeline.",
+        "5. Test it yourself\n\nAsk ChatGPT about the model it runs on. If it says Nvidia, ask why that matters to you."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple ditched Nvidia for Google chips.",
+        "OpenAI is building its own silicon.",
+        "Custom chips beat general-purpose ones.",
+        "SpaceX now designs its own too.",
+        "Check what runs your next AI."
+      ]
+    },
+    "instagram": {
+      "caption": "Apple trained its latest AI model on a Google chip, not an Nvidia GPU.\n\nOpenAI and SpaceX are now designing their own silicon. Nvidia's general-purpose chips lose on power efficiency per task. Custom chips cut costs and boost performance for specific jobs.\n\nIf you create content with AI tools, the model running your workflow may soon shift away from Nvidia hardware—changing speed, cost, and output quality.\n\nAsk your favorite AI tool which chip it runs on today—will that answer still hold six months from now? ⚡🔍"
+    }
+  },
+  "instagram_caption": "Apple trained its latest AI model on a Google chip, not an Nvidia GPU.\n\nOpenAI and SpaceX are now designing their own silicon. Nvidia's general-purpose chips lose on power efficiency per task. Custom chips cut costs and boost performance for specific jobs.\n\nIf you create content with AI tools, the model running your workflow may soon shift away from Nvidia hardware—changing speed, cost, and output quality.\n\nAsk your favorite AI tool which chip it runs on today—will that answer still hold six months from now? ⚡🔍",
+  "carousel_slides": [
+    {
+      "hook": "Nvidia's monopoly is cracking.",
+      "description": "Apple trained its latest AI on Google's custom chip, not Nvidia GPUs.",
+      "visual_hint": "cracked Nvidia logo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Nvidia chip closeup"
+    },
+    {
+      "hook": "OpenAI builds its own chip now.",
+      "description": "Sam Altman confirmed a secret AI accelerator project with Broadcom.",
+      "visual_hint": "OpenAI logo chip",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "microchip factory",
+      "image": "https://images.pexels.com/photos/10817000/pexels-photo-10817000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Nvidia's weakness: general purpose.",
+      "description": "Custom silicon beats Nvidia on power per task, exploiting their one-size-fits-all design.",
+      "visual_hint": "battery drain icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room racks",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "SpaceX joined the silicon race.",
+      "description": "Elon Musk's company designed a custom chip for Starlink's AI pipeline.",
+      "visual_hint": "Starlink satellite dish",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "rocket launch",
+      "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before Nvidia fades.",
+      "description": "Ask ChatGPT which chip it runs on and why it matters to you.",
+      "visual_hint": "ChatGPT chat screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone chat screen",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+  "savedAt": "2026-06-26T19:29:28.468Z",
+  "sourceId": "30ba8e524968ebe4aa63017834783137"
+}

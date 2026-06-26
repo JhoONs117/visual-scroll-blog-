@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-unveils-gpt-5-6-amid-us-ai-regulatory-drama",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+  "pubDate": "2026-06-26T17:00:00.000Z",
+  "slides": [
+    "Is GPT-5.6 the model that breaks US regulation?",
+    "OpenAI released it while lawmakers debate new AI rules.",
+    "Unlike GPT-4, it now explains its reasoning verbatim.",
+    "Your compliance workflows may already violate future laws.",
+    "Audit your AI logs before regulators set new standards."
+  ],
+  "thread_text": [
+    "1. Is GPT-5.6 illegal?\n\nOpenAI just released a model that openly explains its reasoning step by step — something no US regulation currently allows.",
+    "2. Lawmakers caught off guard.\n\nWhile Congress debates new AI rules, this model was already deployed. The clock is now on compliance, not policy.",
+    "3. Reasoning verbatim changes everything.\n\nGPT-4 kept its logic hidden. GPT-5.6 spills it — meaning your internal prompts and data flows could be exposed in audits.",
+    "4. Your workflows may already break future laws.\n\nIf your system logs include reasoning traces, regulators could treat them as evidence. No grace period for retroactive fixes.",
+    "5. Audit your AI logs now.\n\nTake one prompt your team uses daily. Check if its output reveals your methodology. If it does, rewrite the prompt this week."
+  ],
+  "video_script": [
+    "GPT-5.6 explains its reasoning out loud.",
+    "That's a legal landmine in the US.",
+    "Your compliance workflows could already be illegal.",
+    "Future rules may not offer a grace period.",
+    "Audit your AI logs before regulators do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Is GPT-5.6 illegal?\n\nOpenAI just released a model that openly explains its reasoning step by step — something no US regulation currently allows.",
+        "2. Lawmakers caught off guard.\n\nWhile Congress debates new AI rules, this model was already deployed. The clock is now on compliance, not policy.",
+        "3. Reasoning verbatim changes everything.\n\nGPT-4 kept its logic hidden. GPT-5.6 spills it — meaning your internal prompts and data flows could be exposed in audits.",
+        "4. Your workflows may already break future laws.\n\nIf your system logs include reasoning traces, regulators could treat them as evidence. No grace period for retroactive fixes.",
+        "5. Audit your AI logs now.\n\nTake one prompt your team uses daily. Check if its output reveals your methodology. If it does, rewrite the prompt this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "GPT-5.6 explains its reasoning out loud.",
+        "That's a legal landmine in the US.",
+        "Your compliance workflows could already be illegal.",
+        "Future rules may not offer a grace period.",
+        "Audit your AI logs before regulators do."
+      ]
+    },
+    "instagram": {
+      "caption": "Your internal prompts are now exposed in your company’s audit logs.  \n\nOpenAI released GPT-5.6 while lawmakers debate new rules. Unlike GPT-4, it explains every reasoning step verbatim. 🧠  \n\nRegulators could treat those reasoning traces as evidence — with no grace period for fixes. 🚨  \n\nSearch your team’s logs for one output from this model today. Does it reveal your methodology? Rewrite that prompt this week. 🔍"
+    }
+  },
+  "instagram_caption": "Your internal prompts are now exposed in your company’s audit logs.  \n\nOpenAI released GPT-5.6 while lawmakers debate new rules. Unlike GPT-4, it explains every reasoning step verbatim. 🧠  \n\nRegulators could treat those reasoning traces as evidence — with no grace period for fixes. 🚨  \n\nSearch your team’s logs for one output from this model today. Does it reveal your methodology? Rewrite that prompt this week. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Is your AI now illegal?",
+      "description": "GPT-5.6 reveals reasoning step-by-step, something no US regulation currently allows. Your prompts could be exposed.",
+      "visual_hint": "gavel on law book",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "gavel law book"
+    },
+    {
+      "hook": "Deployed before rules exist.",
+      "description": "Congress debates AI rules, but GPT-5.6 is already live. Compliance clocks start now, not after policy passes.",
+      "visual_hint": "clock and capitol building",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "capitol building clock",
+      "image": "https://images.pexels.com/photos/32255004/pexels-photo-32255004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hidden logic is now exposed.",
+      "description": "GPT-4 kept its reasoning secret. GPT-5.6 spills it — making your internal data audit-ready without warning.",
+      "visual_hint": "magnifying glass over code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass code",
+      "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your logs are future evidence.",
+      "description": "If your system logs reasoning traces, regulators could treat them as proof. No retroactive fixes allowed.",
+      "visual_hint": "handcuffs and server logs",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "handcuffs server",
+      "image": "https://images.pexels.com/photos/8587258/pexels-photo-8587258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit your AI logs.",
+      "description": "Take one daily prompt. Check if its output reveals your method. If yes, rewrite it this week.",
+      "visual_hint": "clipboard and checkmark",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "clipboard checkmark",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-26T19:29:42.514Z",
+  "sourceId": "522a607f3975c5e212817859dbe0ea09"
+}

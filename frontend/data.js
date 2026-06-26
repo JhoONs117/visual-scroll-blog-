@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-unveils-gpt-5-6-amid-us-ai-regulatory-drama",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+    "pubDate": "2026-06-26T17:00:00.000Z",
+    "slides": [
+      "Is GPT-5.6 the model that breaks US regulation?",
+      "OpenAI released it while lawmakers debate new AI rules.",
+      "Unlike GPT-4, it now explains its reasoning verbatim.",
+      "Your compliance workflows may already violate future laws.",
+      "Audit your AI logs before regulators set new standards."
+    ],
+    "thread_text": [
+      "1. Is GPT-5.6 illegal?\n\nOpenAI just released a model that openly explains its reasoning step by step — something no US regulation currently allows.",
+      "2. Lawmakers caught off guard.\n\nWhile Congress debates new AI rules, this model was already deployed. The clock is now on compliance, not policy.",
+      "3. Reasoning verbatim changes everything.\n\nGPT-4 kept its logic hidden. GPT-5.6 spills it — meaning your internal prompts and data flows could be exposed in audits.",
+      "4. Your workflows may already break future laws.\n\nIf your system logs include reasoning traces, regulators could treat them as evidence. No grace period for retroactive fixes.",
+      "5. Audit your AI logs now.\n\nTake one prompt your team uses daily. Check if its output reveals your methodology. If it does, rewrite the prompt this week."
+    ],
+    "video_script": [
+      "GPT-5.6 explains its reasoning out loud.",
+      "That's a legal landmine in the US.",
+      "Your compliance workflows could already be illegal.",
+      "Future rules may not offer a grace period.",
+      "Audit your AI logs before regulators do."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Is GPT-5.6 illegal?\n\nOpenAI just released a model that openly explains its reasoning step by step — something no US regulation currently allows.",
+          "2. Lawmakers caught off guard.\n\nWhile Congress debates new AI rules, this model was already deployed. The clock is now on compliance, not policy.",
+          "3. Reasoning verbatim changes everything.\n\nGPT-4 kept its logic hidden. GPT-5.6 spills it — meaning your internal prompts and data flows could be exposed in audits.",
+          "4. Your workflows may already break future laws.\n\nIf your system logs include reasoning traces, regulators could treat them as evidence. No grace period for retroactive fixes.",
+          "5. Audit your AI logs now.\n\nTake one prompt your team uses daily. Check if its output reveals your methodology. If it does, rewrite the prompt this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "GPT-5.6 explains its reasoning out loud.",
+          "That's a legal landmine in the US.",
+          "Your compliance workflows could already be illegal.",
+          "Future rules may not offer a grace period.",
+          "Audit your AI logs before regulators do."
+        ]
+      },
+      "instagram": {
+        "caption": "Your internal prompts are now exposed in your company’s audit logs.  \n\nOpenAI released GPT-5.6 while lawmakers debate new rules. Unlike GPT-4, it explains every reasoning step verbatim. 🧠  \n\nRegulators could treat those reasoning traces as evidence — with no grace period for fixes. 🚨  \n\nSearch your team’s logs for one output from this model today. Does it reveal your methodology? Rewrite that prompt this week. 🔍"
+      }
+    },
+    "instagram_caption": "Your internal prompts are now exposed in your company’s audit logs.  \n\nOpenAI released GPT-5.6 while lawmakers debate new rules. Unlike GPT-4, it explains every reasoning step verbatim. 🧠  \n\nRegulators could treat those reasoning traces as evidence — with no grace period for fixes. 🚨  \n\nSearch your team’s logs for one output from this model today. Does it reveal your methodology? Rewrite that prompt this week. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Is your AI now illegal?",
+        "description": "GPT-5.6 reveals reasoning step-by-step, something no US regulation currently allows. Your prompts could be exposed.",
+        "visual_hint": "gavel on law book",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "gavel law book"
+      },
+      {
+        "hook": "Deployed before rules exist.",
+        "description": "Congress debates AI rules, but GPT-5.6 is already live. Compliance clocks start now, not after policy passes.",
+        "visual_hint": "clock and capitol building",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "capitol building clock",
+        "image": "https://images.pexels.com/photos/32255004/pexels-photo-32255004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Hidden logic is now exposed.",
+        "description": "GPT-4 kept its reasoning secret. GPT-5.6 spills it — making your internal data audit-ready without warning.",
+        "visual_hint": "magnifying glass over code",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass code",
+        "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your logs are future evidence.",
+        "description": "If your system logs reasoning traces, regulators could treat them as proof. No retroactive fixes allowed.",
+        "visual_hint": "handcuffs and server logs",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "handcuffs server",
+        "image": "https://images.pexels.com/photos/8587258/pexels-photo-8587258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: audit your AI logs.",
+        "description": "Take one daily prompt. Check if its output reveals your method. If yes, rewrite it this week.",
+        "visual_hint": "clipboard and checkmark",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "clipboard checkmark",
+        "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-26T19:29:42.514Z",
+    "sourceId": "522a607f3975c5e212817859dbe0ea09"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "why-everyone-from-openai-to-spacex-is-building-the",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "pubDate": "Fri, 26 Jun 2026 17:43:22 +0000",
+    "slides": [
+      "Why are tech giants racing to replace Nvidia chips?",
+      "OpenAI and SpaceX both design their own silicon now.",
+      "Nvidia's dominance has a hidden vulnerability they exploit.",
+      "Custom chips cut costs and boost performance for specific tasks.",
+      "Your next AI tool may never run on an Nvidia chip."
+    ],
+    "thread_text": [
+      "1. Why they quit Nvidia\n\nApple trained its latest AI on Google’s custom chip, not an Nvidia GPU.",
+      "2. OpenAI’s secret project\n\nSam Altman confirmed they are building their own AI accelerator with Broadcom.",
+      "3. Nvidia’s weak spot\n\nIts chips are general-purpose; custom silicon beats them on power per task.",
+      "4. SpaceX joined the race\n\nElon Musk’s other company designed a chip for its Starlink AI pipeline.",
+      "5. Test it yourself\n\nAsk ChatGPT about the model it runs on. If it says Nvidia, ask why that matters to you."
+    ],
+    "video_script": [
+      "Apple ditched Nvidia for Google chips.",
+      "OpenAI is building its own silicon.",
+      "Custom chips beat general-purpose ones.",
+      "SpaceX now designs its own too.",
+      "Check what runs your next AI."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why they quit Nvidia\n\nApple trained its latest AI on Google’s custom chip, not an Nvidia GPU.",
+          "2. OpenAI’s secret project\n\nSam Altman confirmed they are building their own AI accelerator with Broadcom.",
+          "3. Nvidia’s weak spot\n\nIts chips are general-purpose; custom silicon beats them on power per task.",
+          "4. SpaceX joined the race\n\nElon Musk’s other company designed a chip for its Starlink AI pipeline.",
+          "5. Test it yourself\n\nAsk ChatGPT about the model it runs on. If it says Nvidia, ask why that matters to you."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple ditched Nvidia for Google chips.",
+          "OpenAI is building its own silicon.",
+          "Custom chips beat general-purpose ones.",
+          "SpaceX now designs its own too.",
+          "Check what runs your next AI."
+        ]
+      },
+      "instagram": {
+        "caption": "Apple trained its latest AI model on a Google chip, not an Nvidia GPU.\n\nOpenAI and SpaceX are now designing their own silicon. Nvidia's general-purpose chips lose on power efficiency per task. Custom chips cut costs and boost performance for specific jobs.\n\nIf you create content with AI tools, the model running your workflow may soon shift away from Nvidia hardware—changing speed, cost, and output quality.\n\nAsk your favorite AI tool which chip it runs on today—will that answer still hold six months from now? ⚡🔍"
+      }
+    },
+    "instagram_caption": "Apple trained its latest AI model on a Google chip, not an Nvidia GPU.\n\nOpenAI and SpaceX are now designing their own silicon. Nvidia's general-purpose chips lose on power efficiency per task. Custom chips cut costs and boost performance for specific jobs.\n\nIf you create content with AI tools, the model running your workflow may soon shift away from Nvidia hardware—changing speed, cost, and output quality.\n\nAsk your favorite AI tool which chip it runs on today—will that answer still hold six months from now? ⚡🔍",
+    "carousel_slides": [
+      {
+        "hook": "Nvidia's monopoly is cracking.",
+        "description": "Apple trained its latest AI on Google's custom chip, not Nvidia GPUs.",
+        "visual_hint": "cracked Nvidia logo",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Nvidia chip closeup"
+      },
+      {
+        "hook": "OpenAI builds its own chip now.",
+        "description": "Sam Altman confirmed a secret AI accelerator project with Broadcom.",
+        "visual_hint": "OpenAI logo chip",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "microchip factory",
+        "image": "https://images.pexels.com/photos/10817000/pexels-photo-10817000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Nvidia's weakness: general purpose.",
+        "description": "Custom silicon beats Nvidia on power per task, exploiting their one-size-fits-all design.",
+        "visual_hint": "battery drain icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room racks",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "SpaceX joined the silicon race.",
+        "description": "Elon Musk's company designed a custom chip for Starlink's AI pipeline.",
+        "visual_hint": "Starlink satellite dish",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "rocket launch",
+        "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before Nvidia fades.",
+        "description": "Ask ChatGPT which chip it runs on and why it matters to you.",
+        "visual_hint": "ChatGPT chat screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone chat screen",
+        "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+    "savedAt": "2026-06-26T19:29:28.468Z",
+    "sourceId": "30ba8e524968ebe4aa63017834783137"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-limits-gpt-5-6-rollout-after-government-req",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "pubDate": "Fri, 26 Jun 2026 18:32:14 +0000",
+    "slides": [
+      "OpenAI halts GPT-5.6 globally—but why now?",
+      "A government request prompted the sudden pause.",
+      "The company itself argues restrictions shouldn't be standard.",
+      "Your access to future models now depends on regulators.",
+      "Test existing models before policy calcifies further."
+    ],
+    "thread_text": [
+      "1. Why halt now?\n\nA government request forced OpenAI to pause GPT-5.6 globally yesterday.",
+      "2. The requestor\n\nThe pause came from a government—not from safety concerns or technical issues.",
+      "3. OpenAI's stance\n\nThe company says restrictions shouldn't be the default for AI development.",
+      "4. Your stake\n\nFuture model access now depends on what regulators decide, not on OpenAI.",
+      "5. Test before locked\n\nGo try GPT-4 on a task you care about today. Have regulators used it yet?"
+    ],
+    "video_script": [
+      "OpenAI paused GPT-5.6 after a government request.",
+      "Not a safety pause—a political one.",
+      "OpenAI argues restrictions shouldn't be standard.",
+      "Your access now depends on regulators.",
+      "Test existing models before policies lock in."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why halt now?\n\nA government request forced OpenAI to pause GPT-5.6 globally yesterday.",
+          "2. The requestor\n\nThe pause came from a government—not from safety concerns or technical issues.",
+          "3. OpenAI's stance\n\nThe company says restrictions shouldn't be the default for AI development.",
+          "4. Your stake\n\nFuture model access now depends on what regulators decide, not on OpenAI.",
+          "5. Test before locked\n\nGo try GPT-4 on a task you care about today. Have regulators used it yet?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI paused GPT-5.6 after a government request.",
+          "Not a safety pause—a political one.",
+          "OpenAI argues restrictions shouldn't be standard.",
+          "Your access now depends on regulators.",
+          "Test existing models before policies lock in."
+        ]
+      },
+      "instagram": {
+        "caption": "A government just forced OpenAI to hit pause on GPT-5.6 worldwide—not because of safety, but because regulators demanded it. ⏸️\n\nOpenAI says restrictions shouldn't be the norm, yet here we are. Your access to smarter AI now hinges on what regulators decide, not on what the company can build.\n\nIf you create or publish content, every tool you rely on tomorrow could be shaped by this same government gatekeeping. 🤷‍♂️\n\nHave you tested GPT-4 on a task you absolutely depend on? Try it today—before policy locks you out."
+      }
+    },
+    "instagram_caption": "A government just forced OpenAI to hit pause on GPT-5.6 worldwide—not because of safety, but because regulators demanded it. ⏸️\n\nOpenAI says restrictions shouldn't be the norm, yet here we are. Your access to smarter AI now hinges on what regulators decide, not on what the company can build.\n\nIf you create or publish content, every tool you rely on tomorrow could be shaped by this same government gatekeeping. 🤷‍♂️\n\nHave you tested GPT-4 on a task you absolutely depend on? Try it today—before policy locks you out.",
+    "carousel_slides": [
+      {
+        "hook": "Your AI future just got paused.",
+        "description": "A government request forced OpenAI to halt GPT-5.6 globally yesterday.",
+        "visual_hint": "Globe with a pause button",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "globe pause button"
+      },
+      {
+        "hook": "Who ordered the stop?",
+        "description": "The pause came from a government, not from safety or technical issues.",
+        "visual_hint": "Government building facade",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "government building",
+        "image": "https://images.pexels.com/photos/28451083/pexels-photo-28451083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "OpenAI disagrees with the norm.",
+        "description": "The company says restrictions should not be the default for AI development.",
+        "visual_hint": "Scale of justice tilted",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "scale of justice",
+        "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Regulators now decide your access.",
+        "description": "Future AI model access depends on regulators, not on OpenAI's choices.",
+        "visual_hint": "Hand holding a gavel",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding gavel",
+        "image": "https://images.pexels.com/photos/7876148/pexels-photo-7876148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test GPT-4 before it's locked.",
+        "description": "Try GPT-4 on a task you care about today before policies harden.",
+        "visual_hint": "Person typing on laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person typing laptop",
+        "image": "https://images.pexels.com/photos/12662877/pexels-photo-12662877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
+    "savedAt": "2026-06-26T19:29:16.429Z",
+    "sourceId": "f9c0cbd38e550432c42312f27ead7886"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "apple-raises-mac-and-ipad-prices-spares-iphone-for",
     "prompt_version": "1.0.0",
     "status": "published",

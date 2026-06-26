@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-limits-gpt-5-6-rollout-after-government-req",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+  "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+  "pubDate": "Fri, 26 Jun 2026 18:32:14 +0000",
+  "slides": [
+    "OpenAI halts GPT-5.6 globally—but why now?",
+    "A government request prompted the sudden pause.",
+    "The company itself argues restrictions shouldn't be standard.",
+    "Your access to future models now depends on regulators.",
+    "Test existing models before policy calcifies further."
+  ],
+  "thread_text": [
+    "1. Why halt now?\n\nA government request forced OpenAI to pause GPT-5.6 globally yesterday.",
+    "2. The requestor\n\nThe pause came from a government—not from safety concerns or technical issues.",
+    "3. OpenAI's stance\n\nThe company says restrictions shouldn't be the default for AI development.",
+    "4. Your stake\n\nFuture model access now depends on what regulators decide, not on OpenAI.",
+    "5. Test before locked\n\nGo try GPT-4 on a task you care about today. Have regulators used it yet?"
+  ],
+  "video_script": [
+    "OpenAI paused GPT-5.6 after a government request.",
+    "Not a safety pause—a political one.",
+    "OpenAI argues restrictions shouldn't be standard.",
+    "Your access now depends on regulators.",
+    "Test existing models before policies lock in."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why halt now?\n\nA government request forced OpenAI to pause GPT-5.6 globally yesterday.",
+        "2. The requestor\n\nThe pause came from a government—not from safety concerns or technical issues.",
+        "3. OpenAI's stance\n\nThe company says restrictions shouldn't be the default for AI development.",
+        "4. Your stake\n\nFuture model access now depends on what regulators decide, not on OpenAI.",
+        "5. Test before locked\n\nGo try GPT-4 on a task you care about today. Have regulators used it yet?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI paused GPT-5.6 after a government request.",
+        "Not a safety pause—a political one.",
+        "OpenAI argues restrictions shouldn't be standard.",
+        "Your access now depends on regulators.",
+        "Test existing models before policies lock in."
+      ]
+    },
+    "instagram": {
+      "caption": "A government just forced OpenAI to hit pause on GPT-5.6 worldwide—not because of safety, but because regulators demanded it. ⏸️\n\nOpenAI says restrictions shouldn't be the norm, yet here we are. Your access to smarter AI now hinges on what regulators decide, not on what the company can build.\n\nIf you create or publish content, every tool you rely on tomorrow could be shaped by this same government gatekeeping. 🤷‍♂️\n\nHave you tested GPT-4 on a task you absolutely depend on? Try it today—before policy locks you out."
+    }
+  },
+  "instagram_caption": "A government just forced OpenAI to hit pause on GPT-5.6 worldwide—not because of safety, but because regulators demanded it. ⏸️\n\nOpenAI says restrictions shouldn't be the norm, yet here we are. Your access to smarter AI now hinges on what regulators decide, not on what the company can build.\n\nIf you create or publish content, every tool you rely on tomorrow could be shaped by this same government gatekeeping. 🤷‍♂️\n\nHave you tested GPT-4 on a task you absolutely depend on? Try it today—before policy locks you out.",
+  "carousel_slides": [
+    {
+      "hook": "Your AI future just got paused.",
+      "description": "A government request forced OpenAI to halt GPT-5.6 globally yesterday.",
+      "visual_hint": "Globe with a pause button",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "globe pause button"
+    },
+    {
+      "hook": "Who ordered the stop?",
+      "description": "The pause came from a government, not from safety or technical issues.",
+      "visual_hint": "Government building facade",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "government building",
+      "image": "https://images.pexels.com/photos/28451083/pexels-photo-28451083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "OpenAI disagrees with the norm.",
+      "description": "The company says restrictions should not be the default for AI development.",
+      "visual_hint": "Scale of justice tilted",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "scale of justice",
+      "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Regulators now decide your access.",
+      "description": "Future AI model access depends on regulators, not on OpenAI's choices.",
+      "visual_hint": "Hand holding a gavel",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding gavel",
+      "image": "https://images.pexels.com/photos/7876148/pexels-photo-7876148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test GPT-4 before it's locked.",
+      "description": "Try GPT-4 on a task you care about today before policies harden.",
+      "visual_hint": "Person typing on laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/12662877/pexels-photo-12662877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
+  "savedAt": "2026-06-26T19:29:16.429Z",
+  "sourceId": "f9c0cbd38e550432c42312f27ead7886"
+}

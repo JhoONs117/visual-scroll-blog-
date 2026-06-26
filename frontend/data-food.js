@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "pasta-con-nduja-mazzancolle-e-stracciatella",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pasta con nduja, mazzancolle e stracciatella",
+    "link": "https://ricette.giallozafferano.it/Pasta-con-nduja-mazzancolle-e-stracciatella.html",
+    "pubDate": "Fri, 26 Jun 2026 15:14:00 +0200",
+    "content": "Pasta con nduja, mazzancolle e stracciatella: ricetta cremosa Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta con nduja, mazzancolle e stracciatella /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 15 min Cottura: 20 min Dosi per: 4 persone PRESENTAZIONE La pasta con nduja, mazzancolle e stracciatella è un primo piatto di pesce stuzzicante e dal carattere deciso, ideale per chi ama i sapori piccanti e gli accostamenti raffinati. Questa ricetta unisce la sapidità del mare ai sapori rustici della tradizione calabrese, creando un perfetto equilibrio di consistenze. La nduja , oltre a conferire una nota piccante , si scioglie a contatto con il calore della padella e dona un tocco cremoso irresistibile che avvolge interamente il formato di pasta. A bilanciare l'intensità del peperoncino interviene la stracciatella che, con la sua dolcezza e la sua freschezza, mitiga la piccantezza e completa il piatto con una irresistibile nota golosa. Se cercate un'idea originale per incuriosire gli amici a cena o per un pranzo domenicale diverso dal solito, questa combinazione mare e monti sarà un vero successo. Se vi ha incuriosito questo abbinamento di sapori, provate altre combinazioni insolite: Gnocchi con gamberi e stracciatella Spaghetti vongole e nduja Rigatoni alla puttanesca e nduja Pasta nduja e pecorino Scopri anche Spaghetti con crema di cime di rapa, nduja e stracciatella Gnocchi al pesto di rucola, nduja e stracciatella Scialatielli al limone con bufala e mazzancolle Sfoglia tutte INGREDIENTI Pasta integrale Elicoidali 320 g Mazzancolle sgusciate e pulite 200 g Nduja 200 g Stracciatella q.b. Vino bianco 60 g Prezzemolo q.b. Aglio 1 spicchio Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con nduja, mazzancolle e stracciatella Per preparare la pasta con nduja, mazzancolle e stracciatella in una padella versate olio, aglio e i gambi di prezzemolo 1 . Scaldate la padella e fate rosolare per un paio di minuti, poi unite le mazzancolle 2 . Cuocete sul fuoco per 3-4 minuti, poi salate 3 . Insaporite con il pepe 4 e sfumate con il vino bianco 5 . Lasciate evaporare l’alcol 6 . Togliete le mazzancolle 7 e tenetele da parte 8 . Eliminate anche l’aglio e i gambi di prezzemolo 9 . Versate la nduja nella padella con il fondo di cottura 10 . Nel frattempo portate a bollore l'acqua salata 11 e cuocete la pasta 12 . Stemperate il condimento con un mestolo di acqua di cottura 13 e fate insaporire. Ora tritate le foglie del prezzemolo e tenetele da parte 14 . Scolate la pasta 15 . Versatela nella padella con il condimento 16 , allungate con l'acqua della pasta per renderla cremosa 17 , poi aggiungete le mazzancolle 18 . Aromatizzate con il prezzemolo fresco tritato 19 e mantecate con poco olio a crudo 20 . Infine, versate la stracciatella nel boccale del mixer 21 . Condite con olio 22 e pepe 23 , quindi frullate tutto con il mixer a immersione 24 . Impiattate 25 con la stracciatella frullata 26 e gustate subito la pasta con nduja, mazzancolle e stracciatella 27 . Conservazione Consigliamo di consumare subito la pasta con nduja, mazzancolle e stracciatella. Consiglio Vi suggeriamo di regolare la quantità di nduja in base alla tolleranza al piccante dei vostri ospiti ricordando che la stracciatella frullata fungerà da perfetto bilanciamento rinfrescante. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Stracciatella ‘Nduja Aglio Mazzancolle Olio di oliva Crostacei Prezzemolo Scopri tutto sugli ingredienti Presente in: Primi piatti sfiziosi , Primi piatti di pesce , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Spaghetti con crema di cime di rapa, nduja e stracciatella 1 4.5 Gnocchi al pesto di rucola, nduja e stracciatella 1 5.0 Scialatielli al limone con bufala e mazzancolle 6 4.5 Scialatielli con la nduja 28 4.5 Spaghetti vongole e nduja 5 4.6 Pasta nduja e pecorino 3 4.5 Timballo nduja e cacio silano 7 4.6 Pasta con crema di melanzane al forno e nduja 5.0 ULTIME RICETTE Peperoni tonnati 5.0 Pasta con nduja, mazzancolle e stracciatella 5.0 Benessere Pasta con ragù di melanzane 3.9 SCOPRI Pasta nduja Pasta con mazzancolle Pasta mazzancolle e zucchine Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Pasta cremosa con nduja e mazzancolle.",
+      "Nduja, mazzancolle, stracciatella, pasta.",
+      "Rosola aglio, unisci mazzancolle e sfuma.",
+      "Manteca con acqua di cottura e nduja.",
+      "Servi con stracciatella frullata per freschezza."
+    ],
+    "instagram_caption": "Mazzancolle, nduja e stracciatella: il tridente della bontà assoluta. 🦐🔥 In padella rosolo l’aglio, salto le mazzancolle e le sfumo, poi manteco la pasta con acqua di cottura e tanta nduja cremosa. Il segreto? Una stracciatella frullata a crudo per dare freschezza e contrasto. Ogni forchettata è un equilibrio perfetto tra piccante, dolce e vellutato. Provala questo weekend! 🌿🍝",
+    "formats": {
+      "instagram": {
+        "caption": "Mazzancolle, nduja e stracciatella: il tridente della bontà assoluta. 🦐🔥 In padella rosolo l’aglio, salto le mazzancolle e le sfumo, poi manteco la pasta con acqua di cottura e tanta nduja cremosa. Il segreto? Una stracciatella frullata a crudo per dare freschezza e contrasto. Ogni forchettata è un equilibrio perfetto tra piccante, dolce e vellutato. Provala questo weekend! 🌿🍝"
+      },
+      "tiktok": {
+        "script": [
+          "Rosolo aglio, aggiungo mazzancolle e sfumo.",
+          "Prendo la nduja e la sciolgo in padella.",
+          "Butto la pasta, la manteco con acqua di cottura.",
+          "Piatto pronto, stracciatella frullata per freschezza.",
+          "Mazzancolle, nduja e stracciatella, un connubio perfetto."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Se c'è un piatto che ti fa chiudere gli occhi al primo morso, è questo: pasta con nduja, mazzancolle e stracciatella. Cremosa, piccante, fresca. Non è una pasta qualsiasi, è una promessa mantenuta.",
+          "Gli ingredienti parlano da soli: nduja che spacca, mazzancolle dolci, stracciatella che lega tutto. Una combo che sembra azzardata, ma che in bocca è pura armonia.",
+          "Parti con aglio in padella, poi lancia le mazzancolle e sfuma con un goccio di vino bianco. Il profumo sale subito, e già sai che stai facendo centro.",
+          "Manteca la pasta con acqua di cottura e tanta nduja, fino a ottenere una crema avvolgente. Il segreto è l'acqua: non aver paura di usarla, lì dentro c'è tutto l'amido che serve.",
+          "Il tocco finale? Frulla la stracciatella e versala a crudo sul piatto. Freschezza che taglia la piccantezza. Provala e dimmi se non ti è venuta l'acquolina. 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Rosolo aglio, aggiungo mazzancolle e sfumo.",
+      "Prendo la nduja e la sciolgo in padella.",
+      "Butto la pasta, la manteco con acqua di cottura.",
+      "Piatto pronto, stracciatella frullata per freschezza.",
+      "Mazzancolle, nduja e stracciatella, un connubio perfetto."
+    ],
+    "thread_text": [
+      "Se c'è un piatto che ti fa chiudere gli occhi al primo morso, è questo: pasta con nduja, mazzancolle e stracciatella. Cremosa, piccante, fresca. Non è una pasta qualsiasi, è una promessa mantenuta.",
+      "Gli ingredienti parlano da soli: nduja che spacca, mazzancolle dolci, stracciatella che lega tutto. Una combo che sembra azzardata, ma che in bocca è pura armonia.",
+      "Parti con aglio in padella, poi lancia le mazzancolle e sfuma con un goccio di vino bianco. Il profumo sale subito, e già sai che stai facendo centro.",
+      "Manteca la pasta con acqua di cottura e tanta nduja, fino a ottenere una crema avvolgente. Il segreto è l'acqua: non aver paura di usarla, lì dentro c'è tutto l'amido che serve.",
+      "Il tocco finale? Frulla la stracciatella e versala a crudo sul piatto. Freschezza che taglia la piccantezza. Provala e dimmi se non ti è venuta l'acquolina. 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta cremosa con nduja e mazzancolle",
+        "description": "Un primo ricco e piccante, mantecato con nduja e mazzancolle, finito con stracciatella per freschezza.",
+        "visual_hint": "Primo piano della pasta in ciotola",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory creamy nduja pasta shrimp"
+      },
+      {
+        "hook": "I tre ingredienti chiave",
+        "description": "Nduja piccante, mazzancolle dolci, stracciatella cremosa: il trio perfetto per un piatto unico.",
+        "visual_hint": "Tre ingredienti separati su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory nduja shrimp stracciatella ingredients",
+        "image": "https://images.pexels.com/photos/1998921/pexels-photo-1998921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rosola e sfuma il gambero",
+        "description": "Aglio in padella, poi mazzancolle: rosolatura veloce e sfumatura per esaltare il sapore.",
+        "visual_hint": "Gamberi in padella con aglio",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory garlic shrimp sauté pan",
+        "image": "https://images.pexels.com/photos/16273761/pexels-photo-16273761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Manteca con nduja e acqua",
+        "description": "Unisci la nduja e acqua di cottura alla pasta: crei una crema avvolgente e piccante.",
+        "visual_hint": "Pasta che viene mantecata in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory pasta nduja creaming pan",
+        "image": "https://images.pexels.com/photos/37726962/pexels-photo-37726962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stracciatella frullata per freschezza",
+        "description": "Servi con una cucchiaiata di stracciatella frullata: contrasto cremoso e fresco che esalta il piatto.",
+        "visual_hint": "Pasta impiattata con stracciatella",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory pasta bowl stracciatella shrimp",
+        "image": "https://images.pexels.com/photos/31235407/pexels-photo-31235407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "nduja",
+      "mazzancolle",
+      "stracciatella"
+    ],
+    "image": "https://www.giallozafferano.it/images/363-36372/Pasta-con-nduja-mazzancolle-e-stracciatella_650x433_wm.jpg",
+    "savedAt": "2026-06-26T19:38:10.196Z",
+    "sourceId": "732cbde153e77483f9c70845ecd65c10"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "pasta-con-rag-di-melanzane",
     "prompt_version": "1.0.0",
     "status": "published",
