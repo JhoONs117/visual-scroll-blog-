@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "notion-mail-shuts-down-amid-agent-takeover",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Notion Mail shuts down amid agent takeover",
+  "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+  "pubDate": "Thu, 25 Jun 2026 19:14:46 +0000",
+  "slides": [
+    "Notion Mail is gone. What took its place?",
+    "The team shifted to building AI agents instead.",
+    "They never even launched a beta to users.",
+    "Your inbox won't got smarter through Notion.",
+    "Check if your tools are pivoting without you."
+  ],
+  "thread_text": [
+    "1. They vanished overnight\n\nThe Notion Mail team never launched a beta. They just stopped and started building AI agents instead.",
+    "2. From inbox to agent\n\nNotion Mail was supposed to make your email smarter. The project died before a single user touched it.",
+    "3. The signal went dark\n\nYour tools can pivot without warning. No beta, no announcement — just a shift you only learn about later.",
+    "4. Who else is hiding?\n\nIf Notion Mail could die in silence, which other product promises are already fading? The roadmaps you trust may be ghosts.",
+    "5. Check your stack today\n\nOpen your most-used tool's blog or changelog. Search for \"AI agent\" or \"pivot.\" If you see silence, that's your answer."
+  ],
+  "video_script": [
+    "Notion Mail is dead.",
+    "The team built AI agents instead.",
+    "They never let users try it.",
+    "Your inbox won't get smart.",
+    "Check if your tools pivoted too."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. They vanished overnight\n\nThe Notion Mail team never launched a beta. They just stopped and started building AI agents instead.",
+        "2. From inbox to agent\n\nNotion Mail was supposed to make your email smarter. The project died before a single user touched it.",
+        "3. The signal went dark\n\nYour tools can pivot without warning. No beta, no announcement — just a shift you only learn about later.",
+        "4. Who else is hiding?\n\nIf Notion Mail could die in silence, which other product promises are already fading? The roadmaps you trust may be ghosts.",
+        "5. Check your stack today\n\nOpen your most-used tool's blog or changelog. Search for \"AI agent\" or \"pivot.\" If you see silence, that's your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Notion Mail is dead.",
+        "The team built AI agents instead.",
+        "They never let users try it.",
+        "Your inbox won't get smart.",
+        "Check if your tools pivoted too."
+      ]
+    },
+    "instagram": {
+      "caption": "You opened Notion to plan your day; behind the scenes, the team building Mail had already moved on.  \n\nNo beta was ever released. Notion Mail disappeared into the product graveyard to build AI agents instead.  \n\nThe smart-inbox promise you read about never got off the drawing board.  \n\nWhat tool in your stack has already changed course without sending you a notification? 🔇"
+    }
+  },
+  "instagram_caption": "You opened Notion to plan your day; behind the scenes, the team building Mail had already moved on.  \n\nNo beta was ever released. Notion Mail disappeared into the product graveyard to build AI agents instead.  \n\nThe smart-inbox promise you read about never got off the drawing board.  \n\nWhat tool in your stack has already changed course without sending you a notification? 🔇",
+  "carousel_slides": [
+    {
+      "hook": "Your tools can vanish overnight.",
+      "description": "Notion Mail never launched a beta. The team quietly dropped it to build AI agents instead.",
+      "visual_hint": "Empty inbox with dust",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty inbox desk"
+    },
+    {
+      "hook": "From smarter inbox to AI agents.",
+      "description": "The project died before any user touched it. No beta, no warning.",
+      "visual_hint": "Email icon fading away",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "email icon disappearing",
+      "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Silent pivot: the new normal.",
+      "description": "Notion Mail vanished without announcement. Other tools may follow the same path.",
+      "visual_hint": "Silent server blinking",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room rack",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Which product promises are ghosts?",
+      "description": "If Notion Mail died in silence, your trusted roadmaps might be fading too.",
+      "visual_hint": "Ghost roadmap on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching tablet",
+      "image": "https://images.pexels.com/photos/7698885/pexels-photo-7698885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your tools before they pivot.",
+      "description": "Open your favorite app's changelog. Search for 'AI agent' or 'pivot' — silence is your answer.",
+      "visual_hint": "Changelog page open",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "changelog blog page",
+      "image": "https://images.pexels.com/photos/5993620/pexels-photo-5993620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/04/WhatsNew_Mail05.png?w=1200",
+  "savedAt": "2026-06-26T10:44:21.697Z",
+  "sourceId": "bfce68855dbabe7c56ccfd432098bb3b"
+}
