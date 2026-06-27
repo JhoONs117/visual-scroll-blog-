@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-fittest-founder-in-the-room-got-cancer-here-s-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+    "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "pubDate": "Sat, 27 Jun 2026 14:00:00 +0000",
+    "slides": [
+      "What happens when your health data reveals a silent killer?",
+      "The fittest founder discovered stage 4 cancer by chance.",
+      "He used AI to scan medical literature no human could read.",
+      "Now you can analyze your own scans before doctors notice.",
+      "Upload your MRI today—before your next routine checkup."
+    ],
+    "thread_text": [
+      "1. Your scan hides a secret.\n\nTech CEO found stage 4 cancer by accident. No symptoms. No warning.",
+      "2. He fed his data to AI.\n\nThe system read thousands of studies in minutes. Flagged what radiologists missed.",
+      "3. Now it works backwards.\n\nYou upload an MRI. AI cross-references it with global medical research.",
+      "4. Before your doctor reviews it.\n\nyou get a risk score. No wait. No second opinion needed.",
+      "5. Test it on your last MRI.\n\nUpload the file today. What does the AI see that you missed?"
+    ],
+    "video_script": [
+      "No symptoms but stage 4.",
+      "AI read what humans skip.",
+      "Upload MRI. Get risk score.",
+      "Before your doctor even looks.",
+      "What is AI hiding in you?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your scan hides a secret.\n\nTech CEO found stage 4 cancer by accident. No symptoms. No warning.",
+          "2. He fed his data to AI.\n\nThe system read thousands of studies in minutes. Flagged what radiologists missed.",
+          "3. Now it works backwards.\n\nYou upload an MRI. AI cross-references it with global medical research.",
+          "4. Before your doctor reviews it.\n\nyou get a risk score. No wait. No second opinion needed.",
+          "5. Test it on your last MRI.\n\nUpload the file today. What does the AI see that you missed?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "No symptoms but stage 4.",
+          "AI read what humans skip.",
+          "Upload MRI. Get risk score.",
+          "Before your doctor even looks.",
+          "What is AI hiding in you?"
+        ]
+      },
+      "instagram": {
+        "caption": "A fit CEO discovered stage 4 cancer by accident—no symptoms, no warning.\n\nHe uploaded his data to AI, which scanned thousands of medical studies in minutes. The system flagged what radiologists had missed.\n\nNow anyone can upload an MRI before their doctor reviews it. You get a risk score cross-referenced with global research—no wait, no second opinion needed.\n\nYour last scan is still sitting on a hard drive. What does the AI see that you missed? ⚡🔬💻"
+      }
+    },
+    "instagram_caption": "A fit CEO discovered stage 4 cancer by accident—no symptoms, no warning.\n\nHe uploaded his data to AI, which scanned thousands of medical studies in minutes. The system flagged what radiologists had missed.\n\nNow anyone can upload an MRI before their doctor reviews it. You get a risk score cross-referenced with global research—no wait, no second opinion needed.\n\nYour last scan is still sitting on a hard drive. What does the AI see that you missed? ⚡🔬💻",
+    "carousel_slides": [
+      {
+        "hook": "Your health data hides a killer.",
+        "description": "A tech CEO found stage 4 cancer by accident, with no symptoms or warning signs.",
+        "visual_hint": "MRI scan with red alert",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "MRI scan screen"
+      },
+      {
+        "hook": "AI read what doctors missed.",
+        "description": "He fed his scans to AI, which analyzed thousands of studies in minutes and flagged the tumor.",
+        "visual_hint": "AI processing data stream",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Upload your MRI, get a risk score.",
+        "description": "AI cross-references your scan with global research, before your doctor even reviews it.",
+        "visual_hint": "MRI upload interface",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "medical monitor display",
+        "image": "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No wait. No second opinion.",
+        "description": "You receive a risk score instantly. No need to wait for a radiologist's review.",
+        "visual_hint": "Hand holding phone with score",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your last MRI now.",
+        "description": "Upload the file from your last checkup and see what the AI finds before your next appointment.",
+        "visual_hint": "Upload button with file icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer upload arrow",
+        "image": "https://images.pexels.com/photos/5077052/pexels-photo-5077052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-10.22.24-AM.png?resize=1200,683",
+    "savedAt": "2026-06-27T15:09:19.057Z",
+    "sourceId": "d032b792729fa210feb99cd4ebccb418"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "asian-ai-startups-launch-mythos-like-models-as-ant",
     "prompt_version": "1.0.0",
     "status": "published",
