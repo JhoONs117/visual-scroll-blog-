@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "asian-ai-startups-launch-mythos-like-models-as-ant",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+  "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+  "pubDate": "Sat, 27 Jun 2026 12:00:00 +0000",
+  "slides": [
+    "Can Asian AI startups outpace Anthropic's banned exports?",
+    "New 'Mythos' models rival Claude's reasoning capabilities.",
+    "They bypass restrictions Anthropic couldn't fight or lift.",
+    "Your enterprise now sources safe, high-tier AI from Asia.",
+    "Test one Mythos variant against your current workflow today."
+  ],
+  "thread_text": [
+    "1. Asian AI outruns US bans.\n\nAnthropic could not block these exports, but a Beijing startup just shipped a model that beats Claude on reasoning.",
+    "2. Mythos models unlock hidden capabilities.\n\nThey were built to dodge restrictions that locked down US exports. Enterprises now have access to a tier Anthropic couldn't protect.",
+    "3. Your supply chain just shifted.\n\nAsia now sources safe, high-tier reasoning models without the compliance headaches that stalled Western deployments.",
+    "4. What can a Mythos variant actually do?\n\nOne test against your current workflow reveals if it outperforms Claude on the tasks you run daily—no setup required.",
+    "5. Test one Mythos variant today.\n\nTake a complex reasoning task from your pipeline and run it on Mythos. If you haven’t, start there this week."
+  ],
+  "video_script": [
+    "Asian startups now outrun US export bans.",
+    "Mythos models rival Claude's reasoning but are unrestricted.",
+    "They bypassed blocks Anthropic couldn't fight.",
+    "Your enterprise can now source safe Asian AI.",
+    "Test a Mythos variant on your workflow today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Asian AI outruns US bans.\n\nAnthropic could not block these exports, but a Beijing startup just shipped a model that beats Claude on reasoning.",
+        "2. Mythos models unlock hidden capabilities.\n\nThey were built to dodge restrictions that locked down US exports. Enterprises now have access to a tier Anthropic couldn't protect.",
+        "3. Your supply chain just shifted.\n\nAsia now sources safe, high-tier reasoning models without the compliance headaches that stalled Western deployments.",
+        "4. What can a Mythos variant actually do?\n\nOne test against your current workflow reveals if it outperforms Claude on the tasks you run daily—no setup required.",
+        "5. Test one Mythos variant today.\n\nTake a complex reasoning task from your pipeline and run it on Mythos. If you haven’t, start there this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Asian startups now outrun US export bans.",
+        "Mythos models rival Claude's reasoning but are unrestricted.",
+        "They bypassed blocks Anthropic couldn't fight.",
+        "Your enterprise can now source safe Asian AI.",
+        "Test a Mythos variant on your workflow today."
+      ]
+    },
+    "instagram": {
+      "caption": "Anthropic couldn't stop exports of its top-tier model, but a Beijing startup just shipped one that matches Claude on reasoning — and it's already live.\n\nThese new \"Mythos\" models were built to sidestep the exact restrictions that locked down US shipments. Asian enterprises now get a capability tier Anthropic failed to protect.\n\nFor anyone sourcing AI for content or production workflows: your supply chain just gained a compliant, high-tier alternative without the compliance headaches. Write off US export bans as a bottleneck.\n\nCan a single test against your daily task stack prove one Mythos variant beats what you're using now? 🧪"
+    }
+  },
+  "instagram_caption": "Anthropic couldn't stop exports of its top-tier model, but a Beijing startup just shipped one that matches Claude on reasoning — and it's already live.\n\nThese new \"Mythos\" models were built to sidestep the exact restrictions that locked down US shipments. Asian enterprises now get a capability tier Anthropic failed to protect.\n\nFor anyone sourcing AI for content or production workflows: your supply chain just gained a compliant, high-tier alternative without the compliance headaches. Write off US export bans as a bottleneck.\n\nCan a single test against your daily task stack prove one Mythos variant beats what you're using now? 🧪",
+  "carousel_slides": [
+    {
+      "hook": "US bans can't stop this AI",
+      "description": "A Beijing startup shipped a model beating Claude on reasoning, bypassing export restrictions.",
+      "visual_hint": "Futuristic AI chip glowing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microchip closeup"
+    },
+    {
+      "hook": "Mythos unlocks hidden reasoning",
+      "description": "Built to dodge restrictions, these models give enterprises access to capabilities Anthropic couldn't protect.",
+      "visual_hint": "Code lines on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer code display",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your supply chain just shifted",
+      "description": "Asia now sources safe, high-tier reasoning models without the compliance headaches stalling Western deployments.",
+      "visual_hint": "Global map with arrows",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "world map logistics",
+      "image": "https://images.pexels.com/photos/14613674/pexels-photo-14613674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Mythos on your workflow",
+      "description": "One test against your daily tasks reveals if this model outperforms Claude, with no setup required.",
+      "visual_hint": "Hand clicking mouse",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/12662877/pexels-photo-12662877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test Mythos now",
+      "description": "Take a complex reasoning task from your pipeline and run it on Mythos today.",
+      "visual_hint": "Checkmark on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "dashboard analytics",
+      "image": "https://images.pexels.com/photos/7873568/pexels-photo-7873568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+  "savedAt": "2026-06-27T13:14:23.331Z",
+  "sourceId": "4209c1889e4c8d181147b1a378ff863c"
+}
