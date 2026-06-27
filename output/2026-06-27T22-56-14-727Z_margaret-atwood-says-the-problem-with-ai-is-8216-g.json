@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "margaret-atwood-says-the-problem-with-ai-is-8216-g",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+  "pubDate": "2026-06-27T18:39:32.000Z",
+  "slides": [
+    "Margaret Atwood warns AI fails silently—when does garbage become dangerous?",
+    "Her concern: AI trained on flawed human data amplifies errors.",
+    "She argues language models cannot judge truth, only patterns.",
+    "You now must audit outputs yourself, not trust automation.",
+    "Test one AI claim today against a primary source."
+  ],
+  "thread_text": [
+    "1. AI fails silently\n\nMargaret Atwood warns AI can appear correct while it quietly amplifies toxic errors from flawed human data.",
+    "2. Trained on broken data\n\nLanguage models can't judge truth—they only detect patterns in the garbage humans feed them.",
+    "3. Pattern, not truth\n\nWhen an AI sounds confident, it might just be repeating biased correlations, not facts.",
+    "4. Your audit, not theirs\n\nYou must check outputs yourself—automation won't catch its own mistakes.",
+    "5. Test one claim today\n\nTake an AI statement and verify it against a primary source. Did the truth hold?"
+  ],
+  "video_script": [
+    "Atwood says AI fails silently.",
+    "Garbage in, garbage out, amplified.",
+    "Models detect patterns, not truth.",
+    "You must audit every output.",
+    "Verify one AI claim today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI fails silently\n\nMargaret Atwood warns AI can appear correct while it quietly amplifies toxic errors from flawed human data.",
+        "2. Trained on broken data\n\nLanguage models can't judge truth—they only detect patterns in the garbage humans feed them.",
+        "3. Pattern, not truth\n\nWhen an AI sounds confident, it might just be repeating biased correlations, not facts.",
+        "4. Your audit, not theirs\n\nYou must check outputs yourself—automation won't catch its own mistakes.",
+        "5. Test one claim today\n\nTake an AI statement and verify it against a primary source. Did the truth hold?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Atwood says AI fails silently.",
+        "Garbage in, garbage out, amplified.",
+        "Models detect patterns, not truth.",
+        "You must audit every output.",
+        "Verify one AI claim today."
+      ]
+    },
+    "instagram": {
+      "caption": "Margaret Atwood says AI fails silently: it can sound confident while running on flawed human data.\n\nShe warns these models can't judge truth—only detect patterns in the garbage we feed them. That means errors get amplified without warning. ⚠️\n\nYour job just changed: you must audit outputs yourself, automation won't catch its own mistakes. 🔍\n\nPick one AI claim you used today. Did you verify it against a primary source—or just trust the pattern?"
+    }
+  },
+  "instagram_caption": "Margaret Atwood says AI fails silently: it can sound confident while running on flawed human data.\n\nShe warns these models can't judge truth—only detect patterns in the garbage we feed them. That means errors get amplified without warning. ⚠️\n\nYour job just changed: you must audit outputs yourself, automation won't catch its own mistakes. 🔍\n\nPick one AI claim you used today. Did you verify it against a primary source—or just trust the pattern?",
+  "carousel_slides": [
+    {
+      "hook": "What if AI lies quietly?",
+      "description": "AI silently amplifies toxic errors from flawed human data, warns Margaret Atwood.",
+      "visual_hint": "silent robot face",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot face"
+    },
+    {
+      "hook": "Trained on garbage data",
+      "description": "Language models only detect patterns in broken human data—they cannot judge truth.",
+      "visual_hint": "broken data stream",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Confidence isn't truth",
+      "description": "Atwood warns a confident AI may just repeat biased correlations, not facts.",
+      "visual_hint": "confident bot glowing",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit every AI output",
+      "description": "You must check outputs yourself—automation won't catch its own mistakes.",
+      "visual_hint": "human checking screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to verify AI",
+      "description": "Test one AI claim today against a primary source. Did the truth hold?",
+      "visual_hint": "magnifying glass on text",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200",
+  "savedAt": "2026-06-27T22:56:26.960Z",
+  "sourceId": "299a59cd3d9083bc121fe275c34b0837"
+}
