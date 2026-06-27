@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "apple-vision-pro-exec-is-reportedly-leaving-for-op",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "pubDate": "Sat, 27 Jun 2026 16:45:09 +0000",
+    "slides": [
+      "Apple's Vision Pro exec quits for OpenAI — why?",
+      "He led hardware for the $3,500 headset.",
+      "His exit follows months of sluggish sales data.",
+      "OpenAI isn't building headsets — yet.",
+      "Watch which talent follows him next quarter."
+    ],
+    "thread_text": [
+      "1. Why would he leave Apple?\n\nHe ran hardware for the $3,500 Vision Pro. Now he joins OpenAI — which doesn't sell headsets.",
+      "2. Sales hit a wall.\n\nThe headset saw months of sluggish data. The exit follows a pattern of internal pressure to prove demand.",
+      "3. OpenAI's hardware play is quiet.\n\nNo headset is in production. But they’re hiring top talent — the real bet is on future devices.",
+      "4. This is a talent signal.\n\nWhen a lead engineer jumps without a clear product, it means strategy shifts. Watch who follows next quarter.",
+      "5. Ask yourself: who are you betting on?\n\nTake a prompt on ChatGPT and simulate what product you'd build if you left your current role today."
+    ],
+    "video_script": [
+      "Apple's headset lead quits for OpenAI.",
+      "Sales were sluggish for months.",
+      "OpenAI isn't building headsets yet.",
+      "This signals a talent shift.",
+      "Watch who follows next quarter."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why would he leave Apple?\n\nHe ran hardware for the $3,500 Vision Pro. Now he joins OpenAI — which doesn't sell headsets.",
+          "2. Sales hit a wall.\n\nThe headset saw months of sluggish data. The exit follows a pattern of internal pressure to prove demand.",
+          "3. OpenAI's hardware play is quiet.\n\nNo headset is in production. But they’re hiring top talent — the real bet is on future devices.",
+          "4. This is a talent signal.\n\nWhen a lead engineer jumps without a clear product, it means strategy shifts. Watch who follows next quarter.",
+          "5. Ask yourself: who are you betting on?\n\nTake a prompt on ChatGPT and simulate what product you'd build if you left your current role today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple's headset lead quits for OpenAI.",
+          "Sales were sluggish for months.",
+          "OpenAI isn't building headsets yet.",
+          "This signals a talent shift.",
+          "Watch who follows next quarter."
+        ]
+      },
+      "instagram": {
+        "caption": "The hardware lead behind Apple's $3,500 Vision Pro headset is leaving for OpenAI — which doesn't make headsets.\n\nHis exit follows months of sluggish sales data, signaling internal doubts about proving product demand. OpenAI isn't building a headset yet, but they're quietly poaching top talent to bet on future devices 🧠\n\nFor anyone building content or tools, this means the next interface shift isn't happening inside Apple's current playbook. The talent signal suggests OpenAI is preparing something else — possibly your next creative workspace.\n\nWhat product would you build if you jumped ship tomorrow?"
+      }
+    },
+    "instagram_caption": "The hardware lead behind Apple's $3,500 Vision Pro headset is leaving for OpenAI — which doesn't make headsets.\n\nHis exit follows months of sluggish sales data, signaling internal doubts about proving product demand. OpenAI isn't building a headset yet, but they're quietly poaching top talent to bet on future devices 🧠\n\nFor anyone building content or tools, this means the next interface shift isn't happening inside Apple's current playbook. The talent signal suggests OpenAI is preparing something else — possibly your next creative workspace.\n\nWhat product would you build if you jumped ship tomorrow?",
+    "carousel_slides": [
+      {
+        "hook": "Why leave Apple now?",
+        "description": "He led hardware for the $3,500 Vision Pro. Sluggish sales pushed him to OpenAI.",
+        "visual_hint": "Apple Vision Pro on table",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Apple Vision Pro"
+      },
+      {
+        "hook": "Sales hit a wall.",
+        "description": "Months of sluggish data followed the headset launch. Internal pressure to prove demand built up.",
+        "visual_hint": "Downward sales chart",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "OpenAI's quiet hardware play.",
+        "description": "No headset in production, but hiring top talent points to future device plans.",
+        "visual_hint": "Robot arm assembling device",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "A talent signal to watch.",
+        "description": "When a lead engineer jumps without a clear product, strategy shifts. Watch who follows next quarter.",
+        "visual_hint": "Office workers glancing",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who are you betting on?",
+        "description": "Take a prompt on ChatGPT and simulate what product you'd build if you left your role today.",
+        "visual_hint": "ChatGPT logo on phone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/06/Vision-Pro-IMG-3.jpeg?resize=1200,800",
+    "savedAt": "2026-06-27T16:59:17.000Z",
+    "sourceId": "1facd80fd98c97157459bf44774fe23a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-fittest-founder-in-the-room-got-cancer-here-s-",
     "prompt_version": "1.0.0",
     "status": "published",
