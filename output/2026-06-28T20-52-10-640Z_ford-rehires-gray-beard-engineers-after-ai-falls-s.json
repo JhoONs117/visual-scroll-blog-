@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ford-rehires-gray-beard-engineers-after-ai-falls-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+  "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+  "pubDate": "Sun, 28 Jun 2026 19:05:39 +0000",
+  "slides": [
+    "Ford recalled veteran engineers—was the AI experiment premature?",
+    "The automaker tried replacing human expertise with machine learning",
+    "AI failed on real-world vehicle bugs that retirees solved instantly",
+    "Your reliance on automation may hide critical knowledge gaps",
+    "Audit your processes: where do you still need human instinct?"
+  ],
+  "thread_text": [
+    "Ford Bet on AI. It Backfired.\n\nThey laid off veteran engineers and let algorithms handle vehicle diagnostics. Real-world bugs that retirees fixed in minutes left the AI stumped for weeks.",
+    "The Cost of Cutting Human Instinct\n\nMachine learning models couldn't recognize noise patterns that experienced ears caught instantly. The recall cost Ford millions.",
+    "What the AI Missed\n\nThe system was trained on clean lab data, not the greasy, vibrating chaos of actual engines. Retirees had spent decades learning that noise.",
+    "Your Tools Have the Same Blind Spot\n\nAutomation hides gaps until something breaks. If your critical process has no human override, you're flying blind.",
+    "Audit One Process This Week\n\nPick a step in your workflow where a human makes a decision. Replace it with a prompt and compare the outcome. Did the AI save time or create rework?"
+  ],
+  "video_script": [
+    "Ford fired veterans and let AI run diagnostics.",
+    "Real bugs stumped the AI for weeks.",
+    "Retirees fixed them in minutes.",
+    "Automation hides knowledge gaps until it fails.",
+    "Test one process with AI this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Ford Bet on AI. It Backfired.\n\nThey laid off veteran engineers and let algorithms handle vehicle diagnostics. Real-world bugs that retirees fixed in minutes left the AI stumped for weeks.",
+        "The Cost of Cutting Human Instinct\n\nMachine learning models couldn't recognize noise patterns that experienced ears caught instantly. The recall cost Ford millions.",
+        "What the AI Missed\n\nThe system was trained on clean lab data, not the greasy, vibrating chaos of actual engines. Retirees had spent decades learning that noise.",
+        "Your Tools Have the Same Blind Spot\n\nAutomation hides gaps until something breaks. If your critical process has no human override, you're flying blind.",
+        "Audit One Process This Week\n\nPick a step in your workflow where a human makes a decision. Replace it with a prompt and compare the outcome. Did the AI save time or create rework?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ford fired veterans and let AI run diagnostics.",
+        "Real bugs stumped the AI for weeks.",
+        "Retirees fixed them in minutes.",
+        "Automation hides knowledge gaps until it fails.",
+        "Test one process with AI this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Ford just had to rehire retired engineers—the ones with oil-stained hands—because its AI couldn’t fix a real engine rattle. 🛠️\n\nThe machine learning models were trained on spotless lab data, not the greasy chaos of actual vehicles. 🧼→💥 What a retiree solved in minutes stumped the AI for weeks, costing millions in recalls.\n\nIf your content relies on automation for nuance, you’re hiding a knowledge gap until the first real-world glitch. 📉\n\nWhat’s one step in your daily workflow where an AI miss would cost you time to redo—not just speed? Pick that task and compare a human-only version this week."
+    }
+  },
+  "instagram_caption": "Ford just had to rehire retired engineers—the ones with oil-stained hands—because its AI couldn’t fix a real engine rattle. 🛠️\n\nThe machine learning models were trained on spotless lab data, not the greasy chaos of actual vehicles. 🧼→💥 What a retiree solved in minutes stumped the AI for weeks, costing millions in recalls.\n\nIf your content relies on automation for nuance, you’re hiding a knowledge gap until the first real-world glitch. 📉\n\nWhat’s one step in your daily workflow where an AI miss would cost you time to redo—not just speed? Pick that task and compare a human-only version this week.",
+  "carousel_slides": [
+    {
+      "hook": "AI failed. Retirees saved millions.",
+      "description": "Ford's machine learning couldn't fix real bugs that veteran engineers spotted in minutes, costing millions in recalls.",
+      "visual_hint": "Retired engineer pointing at engine",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "car engine repair"
+    },
+    {
+      "hook": "Lab data fooled the algorithms.",
+      "description": "AI trained on clean data missed noises only decades of experience could catch, leading to costly delays.",
+      "visual_hint": "Server racks with blinking lights",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Real-world noise beats machine learning.",
+      "description": "Vibrations and grime confused Ford's AI, but retirees solved bugs instantly using pattern recognition.",
+      "visual_hint": "Close-up of vibrating metal part",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "vibration sensor",
+      "image": "https://images.pexels.com/photos/7848351/pexels-photo-7848351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Automation hides critical blind spots.",
+      "description": "If your process lacks a human override, one unexpected failure can bring everything down.",
+      "visual_hint": "Hand holding a gear",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory worker hand",
+      "image": "https://images.pexels.com/photos/27084600/pexels-photo-27084600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit one process now.",
+      "description": "Replace one human decision with a prompt this week and compare outcomes—did AI help or create rework?",
+      "visual_hint": "Checklist with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/8099498/pexels-photo-8099498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2255983122.jpg?w=1024",
+  "savedAt": "2026-06-28T20:52:25.472Z",
+  "sourceId": "66a122702bc0da743de66a9be358b7af"
+}
