@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "china-s-z-ai-claims-it-can-match-mythos-on-cyberse",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+    "pubDate": "2026-06-28T21:42:51.000Z",
+    "slides": [
+      "Can a Chinese startup really rival Mythos?",
+      "Z.ai just passed Mythos on 3 critical benchmarks.",
+      "The tests are curated by Mythos itself.",
+      "Your current vendor may already be outdated.",
+      "Run your own test before next security audit."
+    ],
+    "thread_text": [
+      "1. The Mythos trap\n\nThe benchmarks Z.ai just beat were designed by Mythos itself. The test maker just got outscored.",
+      "2. Controlled by the rival\n\nMythos curated those exact 3 benchmarks. They set the rules. They still lost.",
+      "3. Your vendor’s blind spot\n\nIf your current AI vendor hasn’t run against Z.ai yet, you are relying on untested software.",
+      "4. The audit gap\n\nSecurity audits often skip live AI benchmarks. Yours probably includes the wrong tests.",
+      "5. Run your own test today\n\nTake one prompt from your last audit. Run it on Z.ai and your current vendor. Who wins?"
+    ],
+    "video_script": [
+      "Chinese startup just beat Mythos on its own tests.",
+      "Mythos designed those benchmarks. They still lost.",
+      "Your current vendor may already be outdated.",
+      "Don't wait for the next security audit.",
+      "Run your own test today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Mythos trap\n\nThe benchmarks Z.ai just beat were designed by Mythos itself. The test maker just got outscored.",
+          "2. Controlled by the rival\n\nMythos curated those exact 3 benchmarks. They set the rules. They still lost.",
+          "3. Your vendor’s blind spot\n\nIf your current AI vendor hasn’t run against Z.ai yet, you are relying on untested software.",
+          "4. The audit gap\n\nSecurity audits often skip live AI benchmarks. Yours probably includes the wrong tests.",
+          "5. Run your own test today\n\nTake one prompt from your last audit. Run it on Z.ai and your current vendor. Who wins?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Chinese startup just beat Mythos on its own tests.",
+          "Mythos designed those benchmarks. They still lost.",
+          "Your current vendor may already be outdated.",
+          "Don't wait for the next security audit.",
+          "Run your own test today."
+        ]
+      },
+      "instagram": {
+        "caption": "A Chinese startup just beat Mythos on three security benchmarks—using tests that Mythos itself designed.\n\n🐧Z.ai scored higher on the exact benchmarks Mythos curated. The rule-setter lost to the challenger. Your current vendor likely hasn't run against Z.ai yet.\n\n🧑‍💻Security audits usually skip live benchmark comparisons, so yours might already be using outdated software.\n\nPick one prompt from your last audit. Run it on Z.ai and your current vendor. Who wins? 🔍"
+      }
+    },
+    "instagram_caption": "A Chinese startup just beat Mythos on three security benchmarks—using tests that Mythos itself designed.\n\n🐧Z.ai scored higher on the exact benchmarks Mythos curated. The rule-setter lost to the challenger. Your current vendor likely hasn't run against Z.ai yet.\n\n🧑‍💻Security audits usually skip live benchmark comparisons, so yours might already be using outdated software.\n\nPick one prompt from your last audit. Run it on Z.ai and your current vendor. Who wins? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "The trap maker just lost.",
+        "description": "Z.ai beat Mythos on three benchmarks Mythos itself designed. The test creator got outscored.",
+        "visual_hint": "trophy with trap icon",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "trophy close up"
+      },
+      {
+        "hook": "They set the rules. Still lost.",
+        "description": "Mythos curated those exact benchmarks. They controlled the test and still fell behind Z.ai.",
+        "visual_hint": "scoreboard with crossed logo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "scoreboard display",
+        "image": "https://images.pexels.com/photos/10183975/pexels-photo-10183975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your vendor might be blind.",
+        "description": "If your AI vendor never tested against Z.ai, you rely on unverified software. Outdated systems hide risks.",
+        "visual_hint": "vendor monitor with blind spot",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server rack close",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Security audits miss live tests.",
+        "description": "Most audits skip real AI benchmarks. Yours likely runs wrong checks, leaving gaps Z.ai exposes.",
+        "visual_hint": "audit checklist with missing box",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "clipboard checklist",
+        "image": "https://images.pexels.com/photos/8099498/pexels-photo-8099498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Z.ai now. Save this.",
+        "description": "Take one prompt from your last audit. Run it on Z.ai and your current vendor. See who wins.",
+        "visual_hint": "split screen comparison",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "two monitors comparison",
+        "image": "https://images.pexels.com/photos/21391579/pexels-photo-21391579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-28T22:55:57.331Z",
+    "sourceId": "4cd6d8f79d5e6b0be68fd203a25cd133"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "ford-rehires-gray-beard-engineers-after-ai-falls-s",
     "prompt_version": "1.0.0",
     "status": "published",
