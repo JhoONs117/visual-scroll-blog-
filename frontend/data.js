@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "writer-ian-bogost-says-the-small-stuff-can-help-us",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization",
+    "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
+    "pubDate": "Sun, 28 Jun 2026 17:03:16 +0000",
+    "slides": [
+      "What if a plastic cup could defeat digital emptiness?",
+      "Ian Bogost argues small physical objects anchor us.",
+      "But we treat them as disposable, not meaningful.",
+      "Start noticing one everyday object's feel and function.",
+      "Touch a single thing today you normally ignore."
+    ],
+    "thread_text": [
+      "1. A cup that traps you\n\nIan Bogost argues small objects anchor us against digital emptiness, but we treat plastic cups as disposable—stripping them of meaning.",
+      "2. Physical objects are ignored\n\nWe scroll past the feel and function of everyday items, reducing them to waste rather than tools for grounding.",
+      "3. The twist of re-engagement\n\nNoticing one object’s texture breaks the digital trance—Bogost says this restores presence without screens.",
+      "4. Consequence of disposal\n\nTreating objects as meaningless fuels a cycle of consumption and detachment, making screens our only anchors.",
+      "5. Touch one thing today\n\nPick a single object you normally ignore—a pen, a mug. Hold it. What happens to your focus?"
+    ],
+    "video_script": [
+      "A plastic cup defeats digital emptiness.",
+      "Bogost says small objects anchor us.",
+      "We treat them as disposable, not meaningful.",
+      "Notice one thing's feel and function today.",
+      "Touch something you normally ignore now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. A cup that traps you\n\nIan Bogost argues small objects anchor us against digital emptiness, but we treat plastic cups as disposable—stripping them of meaning.",
+          "2. Physical objects are ignored\n\nWe scroll past the feel and function of everyday items, reducing them to waste rather than tools for grounding.",
+          "3. The twist of re-engagement\n\nNoticing one object’s texture breaks the digital trance—Bogost says this restores presence without screens.",
+          "4. Consequence of disposal\n\nTreating objects as meaningless fuels a cycle of consumption and detachment, making screens our only anchors.",
+          "5. Touch one thing today\n\nPick a single object you normally ignore—a pen, a mug. Hold it. What happens to your focus?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A plastic cup defeats digital emptiness.",
+          "Bogost says small objects anchor us.",
+          "We treat them as disposable, not meaningful.",
+          "Notice one thing's feel and function today.",
+          "Touch something you normally ignore now."
+        ]
+      },
+      "instagram": {
+        "caption": "A plastic cup could be the antidote to digital emptiness.\n\nIan Bogost says small physical objects anchor us, but we treat them as disposable, stripping their meaning.\n\nNoticing one object’s texture—its weight, its feel—can break the screen trance and restore presence 📍.\n\nFor anyone creating content: the physical world isn't background noise—it’s your next grounding tool.\n\nPick one object you normally ignore today 🫴. Hold it. What happens to your focus?"
+      }
+    },
+    "instagram_caption": "A plastic cup could be the antidote to digital emptiness.\n\nIan Bogost says small physical objects anchor us, but we treat them as disposable, stripping their meaning.\n\nNoticing one object’s texture—its weight, its feel—can break the screen trance and restore presence 📍.\n\nFor anyone creating content: the physical world isn't background noise—it’s your next grounding tool.\n\nPick one object you normally ignore today 🫴. Hold it. What happens to your focus?",
+    "carousel_slides": [
+      {
+        "hook": "What if a cup could save you?",
+        "description": "Ian Bogost says small physical objects anchor us against digital emptiness, but we treat them as disposable.",
+        "visual_hint": "plastic cup on table",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "plastic cup"
+      },
+      {
+        "hook": "We scroll past our anchors.",
+        "description": "Everyday items lose meaning when ignored, reducing them to waste instead of tools for grounding.",
+        "visual_hint": "hand ignoring mug",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "coffee mug",
+        "image": "https://images.pexels.com/photos/7192236/pexels-photo-7192236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Touch breaks the digital trance.",
+        "description": "Noticing one object's texture restores presence without screens, according to Bogost.",
+        "visual_hint": "fingers on surface",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "textured surface",
+        "image": "https://images.pexels.com/photos/35659652/pexels-photo-35659652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Disposal feeds consumption cycles.",
+        "description": "Treating objects as meaningless fuels detachment, making screens our only anchors.",
+        "visual_hint": "trash bin with cup",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "trash bin",
+        "image": "https://images.pexels.com/photos/18883377/pexels-photo-18883377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Touch one thing you ignore today.",
+        "description": "Pick a pen or mug, hold it, and notice your focus shift. Save this to try later.",
+        "visual_hint": "hand holding pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hand holding pen",
+        "image": "https://images.pexels.com/photos/7774239/pexels-photo-7774239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/ian-bogost-headshot.jpg?resize=800,1200",
+    "savedAt": "2026-06-28T19:04:21.788Z",
+    "sourceId": "5c0c754ba2ce8097a7630d2a5c7abb26"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "why-is-apple-asking-me-to-pay-more-for-big-tech-s-",
     "prompt_version": "1.0.0",
     "status": "published",
