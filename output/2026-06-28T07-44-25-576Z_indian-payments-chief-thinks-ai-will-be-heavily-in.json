@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "indian-payments-chief-thinks-ai-will-be-heavily-in",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+  "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+  "pubDate": "Sun, 28 Jun 2026 05:00:00 +0000",
+  "slides": [
+    "What if AI decides if your payment goes through?",
+    "India’s payments chief says AI will guide approvals.",
+    "Rules may shift from human oversight to machine logic.",
+    "Your failed transaction could be overturned by AI.",
+    "Test whether your bank uses AI for payment routing."
+  ],
+  "thread_text": [
+    "1. What if AI decides your payment?\n\nIndia's payments chief just stated AI will now guide transaction approvals, replacing human judgment.",
+    "2. Rules shift to machine logic.\n\nBanks are planning to let AI overturn failed transactions without any human review.",
+    "3. Your bank might already use AI.\n\nA simple test can reveal if your payment routing runs through algorithms instead of humans.",
+    "4. AI can reverse a decline.\n\nA declined card could get approved seconds later if the AI finds a pattern it trusts.",
+    "5. Test your bank this week.\n\nCall customer support and ask: 'Does AI route my payments?' If they hesitate, you have your answer."
+  ],
+  "video_script": [
+    "AI may approve or deny your payment.",
+    "India's payments chief confirmed this shift.",
+    "Rules move from humans to machine logic.",
+    "A failed transaction could be overturned automatically.",
+    "Test your bank for AI routing today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if AI decides your payment?\n\nIndia's payments chief just stated AI will now guide transaction approvals, replacing human judgment.",
+        "2. Rules shift to machine logic.\n\nBanks are planning to let AI overturn failed transactions without any human review.",
+        "3. Your bank might already use AI.\n\nA simple test can reveal if your payment routing runs through algorithms instead of humans.",
+        "4. AI can reverse a decline.\n\nA declined card could get approved seconds later if the AI finds a pattern it trusts.",
+        "5. Test your bank this week.\n\nCall customer support and ask: 'Does AI route my payments?' If they hesitate, you have your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI may approve or deny your payment.",
+        "India's payments chief confirmed this shift.",
+        "Rules move from humans to machine logic.",
+        "A failed transaction could be overturned automatically.",
+        "Test your bank for AI routing today."
+      ]
+    },
+    "instagram": {
+      "caption": "India’s payments chief just said AI will guide transaction approvals, replacing human judgment. 💳\n\nBanks can now let AI overturn a failed payment without any human review. One declined card could get approved seconds later if the AI finds a pattern it trusts.\n\nFor anyone building or managing digital products: payment decisions may soon be invisible black boxes—your users won’t know why their transaction failed or succeeded.\n\nCall your bank this week and ask: “Does AI route my payments?” If they hesitate, you have your answer. 🔍"
+    }
+  },
+  "instagram_caption": "India’s payments chief just said AI will guide transaction approvals, replacing human judgment. 💳\n\nBanks can now let AI overturn a failed payment without any human review. One declined card could get approved seconds later if the AI finds a pattern it trusts.\n\nFor anyone building or managing digital products: payment decisions may soon be invisible black boxes—your users won’t know why their transaction failed or succeeded.\n\nCall your bank this week and ask: “Does AI route my payments?” If they hesitate, you have your answer. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Will AI approve your payment?",
+      "description": "India's payments chief says AI will guide transaction approvals, replacing human judgment.",
+      "visual_hint": "neon AI brain over payment",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence chip"
+    },
+    {
+      "hook": "Machine logic takes over.",
+      "description": "Banks plan to let AI overturn failed transactions without any human review.",
+      "visual_hint": "gears replacing human silhouette",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your bank may already use AI.",
+      "description": "A simple test reveals if payment routing runs through algorithms instead of humans.",
+      "visual_hint": "magnifying glass on credit card",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "credit card terminal",
+      "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI can reverse a decline.",
+      "description": "A declined card gets approved seconds later if the AI detects a trusted pattern.",
+      "visual_hint": "hand holding smartphone with checkmark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone payment screen",
+      "image": "https://images.pexels.com/photos/6214367/pexels-photo-6214367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your bank this week.",
+      "description": "Call customer support and ask: 'Does AI route my payments?' If they hesitate, you have your answer.",
+      "visual_hint": "phone receiver with question mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "customer service headset",
+      "image": "https://images.pexels.com/photos/8866819/pexels-photo-8866819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/MTW_2026-NPCI-Dilip.jpg?resize=1200,675",
+  "savedAt": "2026-06-28T07:44:37.632Z",
+  "sourceId": "1c859993eecae69f81ddbb293cc60442"
+}
