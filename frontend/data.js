@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "why-is-apple-asking-me-to-pay-more-for-big-tech-s-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+    "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+    "pubDate": "2026-06-27T13:30:00.000Z",
+    "slides": [
+      "Apple's AI push just raised your app prices—but why?",
+      "It pays Nvidia billions for cloud chips.",
+      "Your iPhone's on-device AI won't offset that cost.",
+      "Subscription fees for Apple services are rising now.",
+      "Check your next iTunes receipt for the hidden tax."
+    ],
+    "thread_text": [
+      "1. Why your apps just got pricier\n\nApple is spending billions on Nvidia chips for its cloud AI — and you’re the one footing the bill.",
+      "2. Cloud chips, not your phone\n\nOn-device AI on your iPhone is too weak to handle the heavy lifting. The real work happens in Apple’s data centers.",
+      "3. Subscriptions are the new tax\n\nApple is raising fees on iCloud, Apple Music, and more. Each increase traces back to those chip costs.",
+      "4. The hidden charge on your receipt\n\nLook at your next iTunes bill — a small but recurring amount that wasn’t there last year. That’s the AI tax.",
+      "5. Check your last three receipts\n\nOpen your iTunes purchase history from the past 90 days. Do you see a new line item you didn’t authorize?"
+    ],
+    "video_script": [
+      "Your app subscription just got more expensive.",
+      "Apple is paying Nvidia billions for chips.",
+      "Your iPhone can't run the AI alone.",
+      "So Apple passes the cost to you.",
+      "Check your next iTunes bill for proof."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why your apps just got pricier\n\nApple is spending billions on Nvidia chips for its cloud AI — and you’re the one footing the bill.",
+          "2. Cloud chips, not your phone\n\nOn-device AI on your iPhone is too weak to handle the heavy lifting. The real work happens in Apple’s data centers.",
+          "3. Subscriptions are the new tax\n\nApple is raising fees on iCloud, Apple Music, and more. Each increase traces back to those chip costs.",
+          "4. The hidden charge on your receipt\n\nLook at your next iTunes bill — a small but recurring amount that wasn’t there last year. That’s the AI tax.",
+          "5. Check your last three receipts\n\nOpen your iTunes purchase history from the past 90 days. Do you see a new line item you didn’t authorize?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your app subscription just got more expensive.",
+          "Apple is paying Nvidia billions for chips.",
+          "Your iPhone can't run the AI alone.",
+          "So Apple passes the cost to you.",
+          "Check your next iTunes bill for proof."
+        ]
+      },
+      "instagram": {
+        "caption": "Your app subscriptions just went up, and Apple is funneling that cash straight to Nvidia. 💸\n\nThe company is spending billions on cloud chips to power its AI, but your iPhone’s on-device AI can’t handle the heavy lifting. So Apple is hiking fees on iCloud, Music, and more to cover the bill. Check your last iTunes receipt—that new charge you didn’t authorize is the AI tax. 🍎\n\nIf you publish content or run a service on Apple’s platforms, your costs are rising right now.\n\nOpen your last three iTunes purchase history screenshots. Do you see a line item you didn’t approve? 📲"
+      }
+    },
+    "instagram_caption": "Your app subscriptions just went up, and Apple is funneling that cash straight to Nvidia. 💸\n\nThe company is spending billions on cloud chips to power its AI, but your iPhone’s on-device AI can’t handle the heavy lifting. So Apple is hiking fees on iCloud, Music, and more to cover the bill. Check your last iTunes receipt—that new charge you didn’t authorize is the AI tax. 🍎\n\nIf you publish content or run a service on Apple’s platforms, your costs are rising right now.\n\nOpen your last three iTunes purchase history screenshots. Do you see a line item you didn’t approve? 📲",
+    "carousel_slides": [
+      {
+        "hook": "Is Apple taxing you for AI?",
+        "description": "Apple spends billions on Nvidia cloud chips for AI, and that cost is hitting your app subscriptions.",
+        "visual_hint": "shocked person looking at phone",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "person shocked phone"
+      },
+      {
+        "hook": "Your iPhone can't handle it.",
+        "description": "On-device AI is too weak; the real work runs on costly Nvidia chips in Apple's data centers.",
+        "visual_hint": "server rack close-up",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room rack",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Subscriptions are rising because of AI.",
+        "description": "Apple increases iCloud and Apple Music fees to offset the billions spent on Nvidia cloud chips.",
+        "visual_hint": "graph line going up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart up",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Hidden AI fee on your iTunes bill.",
+        "description": "Check your next iTunes receipt for a new small recurring charge that wasn't there last year.",
+        "visual_hint": "hand holding receipt",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding receipt",
+        "image": "https://images.pexels.com/photos/13431686/pexels-photo-13431686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and check your bills now.",
+        "description": "Open your iTunes purchase history from the last 90 days and look for an unauthorized new line item.",
+        "visual_hint": "finger tapping phone screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "finger tapping phone",
+        "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-28T16:59:35.247Z",
+    "sourceId": "d3cecd4bbd6eb9e756adbfb7f6cfbbd1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "prosecutors-used-chatgpt-logs-as-evidence-in-the-p",
     "prompt_version": "1.0.0",
     "status": "published",
