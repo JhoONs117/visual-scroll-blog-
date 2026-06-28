@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "prosecutors-used-chatgpt-logs-as-evidence-in-the-p",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+    "pubDate": "2026-06-28T14:12:06.000Z",
+    "slides": [
+      "Can a chatbot's logs convict someone of arson?",
+      "Prosecutors submitted ChatGPT chat history in court.",
+      "Those messages directly contradicted the defendant's alibi.",
+      "Your AI conversations can now be subpoenaed as evidence.",
+      "Think twice before deleting your chat history."
+    ],
+    "thread_text": [
+      "1. Your chat logs can convict you.\n\nProsecutors used a defendant's ChatGPT history to prove he lied about an alibi in an arson case.",
+      "2. What you say to AI is now evidence.\n\nSubpoenas can demand your full chat logs with any chatbot, including deleted conversations that are recoverable.",
+      "3. Deleting chats doesn't erase them.\n\nCompanies store your conversations on servers for months, and courts can order them preserved.",
+      "4. The twist: the AI didn't know it was snitching.\n\nThe chatbot's logs were neutral records—no intent, no bias, just raw text that contradicted the defendant's story.",
+      "5. Open ChatGPT and find a message you'd rather hide.\n\nIf you wouldn't want a jury to read it, ask yourself: is the convenience worth the risk?"
+    ],
+    "video_script": [
+      "A chatbot logs got a man convicted.",
+      "Prosecutors used ChatGPT chat history as evidence.",
+      "Those messages directly contradicted his alibi.",
+      "Your AI conversations can now be subpoenaed.",
+      "Think twice before you delete your chat history."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your chat logs can convict you.\n\nProsecutors used a defendant's ChatGPT history to prove he lied about an alibi in an arson case.",
+          "2. What you say to AI is now evidence.\n\nSubpoenas can demand your full chat logs with any chatbot, including deleted conversations that are recoverable.",
+          "3. Deleting chats doesn't erase them.\n\nCompanies store your conversations on servers for months, and courts can order them preserved.",
+          "4. The twist: the AI didn't know it was snitching.\n\nThe chatbot's logs were neutral records—no intent, no bias, just raw text that contradicted the defendant's story.",
+          "5. Open ChatGPT and find a message you'd rather hide.\n\nIf you wouldn't want a jury to read it, ask yourself: is the convenience worth the risk?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A chatbot logs got a man convicted.",
+          "Prosecutors used ChatGPT chat history as evidence.",
+          "Those messages directly contradicted his alibi.",
+          "Your AI conversations can now be subpoenaed.",
+          "Think twice before you delete your chat history."
+        ]
+      },
+      "instagram": {
+        "caption": "A defendant’s alibi was directly contradicted by his own ChatGPT chat history, which prosecutors submitted in court. 📜\n\nThat’s right—your private chatbot conversations are now fair game for subpoenas, and deleting them won’t help because companies can recover them from their servers. ⚖️\n\nFor anyone creating or publishing content, this means every casual query you type could become evidence in a legal dispute or criminal case. 🔍\n\nOpen your chatbot right now and scroll to a message you’d rather a jury never read. 🗂️"
+      }
+    },
+    "instagram_caption": "A defendant’s alibi was directly contradicted by his own ChatGPT chat history, which prosecutors submitted in court. 📜\n\nThat’s right—your private chatbot conversations are now fair game for subpoenas, and deleting them won’t help because companies can recover them from their servers. ⚖️\n\nFor anyone creating or publishing content, this means every casual query you type could become evidence in a legal dispute or criminal case. 🔍\n\nOpen your chatbot right now and scroll to a message you’d rather a jury never read. 🗂️",
+    "carousel_slides": [
+      {
+        "hook": "Your chatbot just became a witness.",
+        "description": "In an arson case, prosecutors used ChatGPT logs to prove the defendant lied about his alibi.",
+        "visual_hint": "Chat log on courtroom podium",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "courtroom podium"
+      },
+      {
+        "hook": "AI chats are now court evidence.",
+        "description": "Subpoenas can force companies to hand over your deleted conversations, stored for months.",
+        "visual_hint": "Gavel next to laptop",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "wooden gavel",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Deleting doesn't mean gone forever.",
+        "description": "Companies keep chat logs on servers, and courts can order them preserved and recovered.",
+        "visual_hint": "Recovery icon on server",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The AI snitched without knowing it.",
+        "description": "ChatGPT's neutral logs became raw evidence—no bias, just text that contradicted the defendant's story.",
+        "visual_hint": "Robot hand pointing at text",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot hand",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you delete a chat.",
+        "description": "Open ChatGPT and ask yourself if you'd want a jury reading that message.",
+        "visual_hint": "Thumb saving bookmark icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "bookmark icon",
+        "image": "https://images.pexels.com/photos/4778341/pexels-photo-4778341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.1603455154706%2C100%2C81.679308969059&amp;w=1200",
+    "savedAt": "2026-06-28T15:12:52.216Z",
+    "sourceId": "6e7f4c864b7c5f7eb119128087c353e0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "indian-payments-chief-thinks-ai-will-be-heavily-in",
     "prompt_version": "1.0.0",
     "status": "published",
