@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "scam-ai-announces-qualcomm-partnership-launches-ha",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
+    "link": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/",
+    "pubDate": "Mon, 29 Jun 2026 07:57:38 +0000",
+    "slides": [
+      "Scam.ai partnered with Qualcomm—but can it stop deepfakes?",
+      "Their new Halo model runs on Snapdragon chips live.",
+      "Google’s system failed false-positive tests; Halo didn’t.",
+      "Your phone now detects fakes without cloud uploads.",
+      "Test one suspicious file today—before you trust your own eyes."
+    ],
+    "thread_text": [
+      "Your phone now spots deepfakes.\n\nScam.ai’s Halo runs locally on Qualcomm Snapdragon chips — no internet needed.",
+      "Google’s detector failed false-positive tests.\n\nHalo passed the same benchmarks. One system cries wolf; the other stays silent.",
+      "No cloud upload means no privacy leak.\n\nAll processing stays on your device. Your media never leaves your phone.",
+      "Live detection on Snapdragon happens in real time.\n\nThe model checks video frames as they appear, not after upload.",
+      "Test one suspicious file today.\n\nGrab a deepfake sample and run it through Halo. Can your eyes still compete?"
+    ],
+    "video_script": [
+      "Your phone can now detect deepfakes offline.",
+      "Google failed. Halo passed the tests.",
+      "No cloud uploads mean your data stays private.",
+      "Detection happens live on Snapdragon chips.",
+      "Test a suspicious file before you trust your eyes."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Your phone now spots deepfakes.\n\nScam.ai’s Halo runs locally on Qualcomm Snapdragon chips — no internet needed.",
+          "Google’s detector failed false-positive tests.\n\nHalo passed the same benchmarks. One system cries wolf; the other stays silent.",
+          "No cloud upload means no privacy leak.\n\nAll processing stays on your device. Your media never leaves your phone.",
+          "Live detection on Snapdragon happens in real time.\n\nThe model checks video frames as they appear, not after upload.",
+          "Test one suspicious file today.\n\nGrab a deepfake sample and run it through Halo. Can your eyes still compete?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your phone can now detect deepfakes offline.",
+          "Google failed. Halo passed the tests.",
+          "No cloud uploads mean your data stays private.",
+          "Detection happens live on Snapdragon chips.",
+          "Test a suspicious file before you trust your eyes."
+        ]
+      },
+      "instagram": {
+        "caption": "Your phone can now detect deepfakes while it's still offline.\n\nScam.ai's new Halo model runs directly on Qualcomm Snapdragon chips—your media never leaves your device. Google’s detection system failed false-positive tests; Halo passed them all. No cloud upload means zero privacy leak.\n\nFor anyone creating or sharing content, your phone now verifies video frames in real time, without needing internet.\n\nWhat’s one suspicious video you’d test right now—before you trust your own eyes? 🔍📱"
+      }
+    },
+    "instagram_caption": "Your phone can now detect deepfakes while it's still offline.\n\nScam.ai's new Halo model runs directly on Qualcomm Snapdragon chips—your media never leaves your device. Google’s detection system failed false-positive tests; Halo passed them all. No cloud upload means zero privacy leak.\n\nFor anyone creating or sharing content, your phone now verifies video frames in real time, without needing internet.\n\nWhat’s one suspicious video you’d test right now—before you trust your own eyes? 🔍📱",
+    "carousel_slides": [
+      {
+        "hook": "Google failed. Halo didn't.",
+        "description": "Google's deepfake detector failed false-positive tests. Halo passed, proving it stays silent when it should.",
+        "visual_hint": "red X vs green checkmark",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "checkmark and cross"
+      },
+      {
+        "hook": "Deepfakes blocked on your phone.",
+        "description": "Scam.ai's Halo runs live on Qualcomm Snapdragon chips. No cloud upload means zero privacy leaks.",
+        "visual_hint": "phone with shield overlay",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone with lock",
+        "image": "https://images.pexels.com/photos/17644194/pexels-photo-17644194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Real-time detection, no internet.",
+        "description": "Halo checks video frames as they appear on Snapdragon. No internet needed, no data leaves your device.",
+        "visual_hint": "video frame with AI scan",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "camera lens closeup",
+        "image": "https://images.pexels.com/photos/35211404/pexels-photo-35211404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your eyes can't beat this AI.",
+        "description": "Halo catches deepfakes your eyes miss. It processes locally, so your media never leaves your phone.",
+        "visual_hint": "human eye vs robotic eye",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot eye glowing",
+        "image": "https://images.pexels.com/photos/37911407/pexels-photo-37911407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Test a deepfake now.",
+        "description": "Grab a suspicious file and run it through Halo. See if your eyes still compete — link in bio.",
+        "visual_hint": "finger tapping phone screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "finger pressing button",
+        "image": "https://images.pexels.com/photos/9461215/pexels-photo-9461215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-29T08:51:17.247Z",
+    "sourceId": "161c2aae3a3dae5131dd951ca25dda60"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "xfusion-scales-enterprise-ai-from-edge-workstation",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+    "link": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
+    "pubDate": "Mon, 29 Jun 2026 08:05:32 +0000",
+    "slides": [
+      "What if your AI infrastructure can't scale with demand?",
+      "xFusion bridges edge workstations and liquid-cooled datacenters.",
+      "Most vendors force you to choose—xFusion integrates both seamlessly.",
+      "You now deploy one stack from factory floor to cloud.",
+      "Test your heaviest model on both today."
+    ],
+    "thread_text": [
+      "1. What if your AI infrastructure can't scale?\n\nYour model works on a workstation but crashes when you move to production. That gap costs you time and money.",
+      "2. xFusion bridges edge and datacenter.\n\nThey connect liquid-cooled servers directly to edge workstations. No more forklift upgrades between environments.",
+      "3. Most vendors force a choice.\n\nYou pick edge or cloud, air-cooled or liquid. xFusion gives you one integrated stack from factory to cloud.",
+      "4. Deploy the same stack everywhere.\n\nYour training runs on the edge, then scales to the datacenter without reengineering. One config for both.",
+      "5. Test your heaviest model today.\n\nTake your largest model and run it on xFusion edge hardware now. Can your current infrastructure match that speed?"
+    ],
+    "video_script": [
+      "What if your AI can't scale?",
+      "xFusion bridges edge and datacenter.",
+      "No vendor gives you both.",
+      "One stack from factory to cloud.",
+      "Test your biggest model today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What if your AI infrastructure can't scale?\n\nYour model works on a workstation but crashes when you move to production. That gap costs you time and money.",
+          "2. xFusion bridges edge and datacenter.\n\nThey connect liquid-cooled servers directly to edge workstations. No more forklift upgrades between environments.",
+          "3. Most vendors force a choice.\n\nYou pick edge or cloud, air-cooled or liquid. xFusion gives you one integrated stack from factory to cloud.",
+          "4. Deploy the same stack everywhere.\n\nYour training runs on the edge, then scales to the datacenter without reengineering. One config for both.",
+          "5. Test your heaviest model today.\n\nTake your largest model and run it on xFusion edge hardware now. Can your current infrastructure match that speed?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "What if your AI can't scale?",
+          "xFusion bridges edge and datacenter.",
+          "No vendor gives you both.",
+          "One stack from factory to cloud.",
+          "Test your biggest model today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your AI model works fine on a workstation, then crashes in production. 💥\n\nxFusion now connects edge workstations directly to liquid-cooled datacenters—no forklift upgrades between environments. 🔄 Same stack from factory floor to cloud.\n\nYou stop rebuilding configurations. One setup scales from training to deployment without reengineering. 🧩\n\nWhich model have you been avoiding because it won't fit your current infrastructure? 🏋️"
+      }
+    },
+    "instagram_caption": "Your AI model works fine on a workstation, then crashes in production. 💥\n\nxFusion now connects edge workstations directly to liquid-cooled datacenters—no forklift upgrades between environments. 🔄 Same stack from factory floor to cloud.\n\nYou stop rebuilding configurations. One setup scales from training to deployment without reengineering. 🧩\n\nWhich model have you been avoiding because it won't fit your current infrastructure? 🏋️",
+    "carousel_slides": [
+      {
+        "hook": "Your AI scale is broken.",
+        "description": "Models crash moving from workstation to production. That gap costs time and money.",
+        "visual_hint": "Server room with gap",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Edge meets liquid-cooled cloud.",
+        "description": "xFusion connects liquid-cooled servers directly to edge workstations. No forklift upgrades.",
+        "visual_hint": "Cables connecting two racks",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop choosing. Integrate both.",
+        "description": "Most vendors force edge or cloud, air or liquid. xFusion gives one stack for all.",
+        "visual_hint": "Two paths merging into one",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "merge road sign",
+        "image": "https://images.pexels.com/photos/11432072/pexels-photo-11432072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One config for every environment.",
+        "description": "Train on edge, scale to datacenter without reengineering. Same stack everywhere.",
+        "visual_hint": "Hand sliding a lever up",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand switch lever",
+        "image": "https://images.pexels.com/photos/17126293/pexels-photo-17126293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your heaviest model now.",
+        "description": "Run your largest model on xFusion edge hardware today. See the speed.",
+        "visual_hint": "Finger pressing big button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "big red button",
+        "image": "https://images.pexels.com/photos/21562938/pexels-photo-21562938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-29T08:51:02.519Z",
+    "sourceId": "f95fa127eb1ce5f479e531e35de424a2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "china-s-z-ai-claims-it-can-match-mythos-on-cyberse",
     "prompt_version": "1.0.0",
     "status": "published",

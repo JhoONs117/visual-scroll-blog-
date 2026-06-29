@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "xfusion-scales-enterprise-ai-from-edge-workstation",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+  "link": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
+  "pubDate": "Mon, 29 Jun 2026 08:05:32 +0000",
+  "slides": [
+    "What if your AI infrastructure can't scale with demand?",
+    "xFusion bridges edge workstations and liquid-cooled datacenters.",
+    "Most vendors force you to choose—xFusion integrates both seamlessly.",
+    "You now deploy one stack from factory floor to cloud.",
+    "Test your heaviest model on both today."
+  ],
+  "thread_text": [
+    "1. What if your AI infrastructure can't scale?\n\nYour model works on a workstation but crashes when you move to production. That gap costs you time and money.",
+    "2. xFusion bridges edge and datacenter.\n\nThey connect liquid-cooled servers directly to edge workstations. No more forklift upgrades between environments.",
+    "3. Most vendors force a choice.\n\nYou pick edge or cloud, air-cooled or liquid. xFusion gives you one integrated stack from factory to cloud.",
+    "4. Deploy the same stack everywhere.\n\nYour training runs on the edge, then scales to the datacenter without reengineering. One config for both.",
+    "5. Test your heaviest model today.\n\nTake your largest model and run it on xFusion edge hardware now. Can your current infrastructure match that speed?"
+  ],
+  "video_script": [
+    "What if your AI can't scale?",
+    "xFusion bridges edge and datacenter.",
+    "No vendor gives you both.",
+    "One stack from factory to cloud.",
+    "Test your biggest model today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if your AI infrastructure can't scale?\n\nYour model works on a workstation but crashes when you move to production. That gap costs you time and money.",
+        "2. xFusion bridges edge and datacenter.\n\nThey connect liquid-cooled servers directly to edge workstations. No more forklift upgrades between environments.",
+        "3. Most vendors force a choice.\n\nYou pick edge or cloud, air-cooled or liquid. xFusion gives you one integrated stack from factory to cloud.",
+        "4. Deploy the same stack everywhere.\n\nYour training runs on the edge, then scales to the datacenter without reengineering. One config for both.",
+        "5. Test your heaviest model today.\n\nTake your largest model and run it on xFusion edge hardware now. Can your current infrastructure match that speed?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "What if your AI can't scale?",
+        "xFusion bridges edge and datacenter.",
+        "No vendor gives you both.",
+        "One stack from factory to cloud.",
+        "Test your biggest model today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI model works fine on a workstation, then crashes in production. 💥\n\nxFusion now connects edge workstations directly to liquid-cooled datacenters—no forklift upgrades between environments. 🔄 Same stack from factory floor to cloud.\n\nYou stop rebuilding configurations. One setup scales from training to deployment without reengineering. 🧩\n\nWhich model have you been avoiding because it won't fit your current infrastructure? 🏋️"
+    }
+  },
+  "instagram_caption": "Your AI model works fine on a workstation, then crashes in production. 💥\n\nxFusion now connects edge workstations directly to liquid-cooled datacenters—no forklift upgrades between environments. 🔄 Same stack from factory floor to cloud.\n\nYou stop rebuilding configurations. One setup scales from training to deployment without reengineering. 🧩\n\nWhich model have you been avoiding because it won't fit your current infrastructure? 🏋️",
+  "carousel_slides": [
+    {
+      "hook": "Your AI scale is broken.",
+      "description": "Models crash moving from workstation to production. That gap costs time and money.",
+      "visual_hint": "Server room with gap",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Edge meets liquid-cooled cloud.",
+      "description": "xFusion connects liquid-cooled servers directly to edge workstations. No forklift upgrades.",
+      "visual_hint": "Cables connecting two racks",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop choosing. Integrate both.",
+      "description": "Most vendors force edge or cloud, air or liquid. xFusion gives one stack for all.",
+      "visual_hint": "Two paths merging into one",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "merge road sign",
+      "image": "https://images.pexels.com/photos/11432072/pexels-photo-11432072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One config for every environment.",
+      "description": "Train on edge, scale to datacenter without reengineering. Same stack everywhere.",
+      "visual_hint": "Hand sliding a lever up",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand switch lever",
+      "image": "https://images.pexels.com/photos/17126293/pexels-photo-17126293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your heaviest model now.",
+      "description": "Run your largest model on xFusion edge hardware today. See the speed.",
+      "visual_hint": "Finger pressing big button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "big red button",
+      "image": "https://images.pexels.com/photos/21562938/pexels-photo-21562938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-29T08:51:02.519Z",
+  "sourceId": "f95fa127eb1ce5f479e531e35de424a2"
+}

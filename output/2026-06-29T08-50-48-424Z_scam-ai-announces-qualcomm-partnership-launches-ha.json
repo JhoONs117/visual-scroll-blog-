@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "scam-ai-announces-qualcomm-partnership-launches-ha",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
+  "link": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/",
+  "pubDate": "Mon, 29 Jun 2026 07:57:38 +0000",
+  "slides": [
+    "Scam.ai partnered with Qualcomm—but can it stop deepfakes?",
+    "Their new Halo model runs on Snapdragon chips live.",
+    "Google’s system failed false-positive tests; Halo didn’t.",
+    "Your phone now detects fakes without cloud uploads.",
+    "Test one suspicious file today—before you trust your own eyes."
+  ],
+  "thread_text": [
+    "Your phone now spots deepfakes.\n\nScam.ai’s Halo runs locally on Qualcomm Snapdragon chips — no internet needed.",
+    "Google’s detector failed false-positive tests.\n\nHalo passed the same benchmarks. One system cries wolf; the other stays silent.",
+    "No cloud upload means no privacy leak.\n\nAll processing stays on your device. Your media never leaves your phone.",
+    "Live detection on Snapdragon happens in real time.\n\nThe model checks video frames as they appear, not after upload.",
+    "Test one suspicious file today.\n\nGrab a deepfake sample and run it through Halo. Can your eyes still compete?"
+  ],
+  "video_script": [
+    "Your phone can now detect deepfakes offline.",
+    "Google failed. Halo passed the tests.",
+    "No cloud uploads mean your data stays private.",
+    "Detection happens live on Snapdragon chips.",
+    "Test a suspicious file before you trust your eyes."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Your phone now spots deepfakes.\n\nScam.ai’s Halo runs locally on Qualcomm Snapdragon chips — no internet needed.",
+        "Google’s detector failed false-positive tests.\n\nHalo passed the same benchmarks. One system cries wolf; the other stays silent.",
+        "No cloud upload means no privacy leak.\n\nAll processing stays on your device. Your media never leaves your phone.",
+        "Live detection on Snapdragon happens in real time.\n\nThe model checks video frames as they appear, not after upload.",
+        "Test one suspicious file today.\n\nGrab a deepfake sample and run it through Halo. Can your eyes still compete?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your phone can now detect deepfakes offline.",
+        "Google failed. Halo passed the tests.",
+        "No cloud uploads mean your data stays private.",
+        "Detection happens live on Snapdragon chips.",
+        "Test a suspicious file before you trust your eyes."
+      ]
+    },
+    "instagram": {
+      "caption": "Your phone can now detect deepfakes while it's still offline.\n\nScam.ai's new Halo model runs directly on Qualcomm Snapdragon chips—your media never leaves your device. Google’s detection system failed false-positive tests; Halo passed them all. No cloud upload means zero privacy leak.\n\nFor anyone creating or sharing content, your phone now verifies video frames in real time, without needing internet.\n\nWhat’s one suspicious video you’d test right now—before you trust your own eyes? 🔍📱"
+    }
+  },
+  "instagram_caption": "Your phone can now detect deepfakes while it's still offline.\n\nScam.ai's new Halo model runs directly on Qualcomm Snapdragon chips—your media never leaves your device. Google’s detection system failed false-positive tests; Halo passed them all. No cloud upload means zero privacy leak.\n\nFor anyone creating or sharing content, your phone now verifies video frames in real time, without needing internet.\n\nWhat’s one suspicious video you’d test right now—before you trust your own eyes? 🔍📱",
+  "carousel_slides": [
+    {
+      "hook": "Google failed. Halo didn't.",
+      "description": "Google's deepfake detector failed false-positive tests. Halo passed, proving it stays silent when it should.",
+      "visual_hint": "red X vs green checkmark",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "checkmark and cross"
+    },
+    {
+      "hook": "Deepfakes blocked on your phone.",
+      "description": "Scam.ai's Halo runs live on Qualcomm Snapdragon chips. No cloud upload means zero privacy leaks.",
+      "visual_hint": "phone with shield overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone with lock",
+      "image": "https://images.pexels.com/photos/17644194/pexels-photo-17644194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Real-time detection, no internet.",
+      "description": "Halo checks video frames as they appear on Snapdragon. No internet needed, no data leaves your device.",
+      "visual_hint": "video frame with AI scan",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "camera lens closeup",
+      "image": "https://images.pexels.com/photos/35211404/pexels-photo-35211404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your eyes can't beat this AI.",
+      "description": "Halo catches deepfakes your eyes miss. It processes locally, so your media never leaves your phone.",
+      "visual_hint": "human eye vs robotic eye",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot eye glowing",
+      "image": "https://images.pexels.com/photos/37911407/pexels-photo-37911407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Test a deepfake now.",
+      "description": "Grab a suspicious file and run it through Halo. See if your eyes still compete — link in bio.",
+      "visual_hint": "finger tapping phone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "finger pressing button",
+      "image": "https://images.pexels.com/photos/9461215/pexels-photo-9461215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-29T08:51:17.247Z",
+  "sourceId": "161c2aae3a3dae5131dd951ca25dda60"
+}
