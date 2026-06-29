@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "lawmakers-want-to-ban-ai-companies-from-selling-yo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Lawmakers want to ban AI companies from selling your health data",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+  "pubDate": "2026-06-29T16:00:00.000Z",
+  "slides": [
+    "What if your therapy data gets sold without consent?",
+    "New bill targets AI firms trading health records.",
+    "Even anonymized data can be reidentified easily.",
+    "You might lose control over your own medical privacy.",
+    "Check your provider’s policy before sharing anything."
+  ],
+  "thread_text": [
+    "1. Your data sold without consent\n\nA new bill targets AI firms that trade health records. Even anonymized data can be reidentified easily.",
+    "2. Reidentification is simple\n\nResearchers have proven that anonymized health data can be matched with public records in minutes.",
+    "3. You might lose control\n\nOnce sold, your therapy notes could be used to deny insurance or employment.",
+    "4. No opt-out exists yet\n\nCurrent laws don't require your consent for AI training on medical data.",
+    "5. Check your provider’s policy\n\nAsk your therapist or clinic: do they share data with third parties? If you haven’t checked, do it this week."
+  ],
+  "video_script": [
+    "Your therapy data could be sold without consent.",
+    "A new bill targets AI firms trading health records.",
+    "Even anonymized data can be reidentified easily.",
+    "You might lose control over your medical privacy.",
+    "Check your provider’s policy before sharing anything."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your data sold without consent\n\nA new bill targets AI firms that trade health records. Even anonymized data can be reidentified easily.",
+        "2. Reidentification is simple\n\nResearchers have proven that anonymized health data can be matched with public records in minutes.",
+        "3. You might lose control\n\nOnce sold, your therapy notes could be used to deny insurance or employment.",
+        "4. No opt-out exists yet\n\nCurrent laws don't require your consent for AI training on medical data.",
+        "5. Check your provider’s policy\n\nAsk your therapist or clinic: do they share data with third parties? If you haven’t checked, do it this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your therapy data could be sold without consent.",
+        "A new bill targets AI firms trading health records.",
+        "Even anonymized data can be reidentified easily.",
+        "You might lose control over your medical privacy.",
+        "Check your provider’s policy before sharing anything."
+      ]
+    },
+    "instagram": {
+      "caption": "Your therapy notes could be sold to insurers without you ever knowing. 🏥🔍\n\nA new bill wants to stop AI companies from trading your health records. Even data labeled \"anonymous\" can be matched back to you in minutes using public records. Once sold, those records could be used to deny you a job or a policy. ❗\n\nIf you use AI tools for work or content, your medical privacy isn't safe unless you check your provider's fine print. \n\nHave you read your clinic's data-sharing policy this week?"
+    }
+  },
+  "instagram_caption": "Your therapy notes could be sold to insurers without you ever knowing. 🏥🔍\n\nA new bill wants to stop AI companies from trading your health records. Even data labeled \"anonymous\" can be matched back to you in minutes using public records. Once sold, those records could be used to deny you a job or a policy. ❗\n\nIf you use AI tools for work or content, your medical privacy isn't safe unless you check your provider's fine print. \n\nHave you read your clinic's data-sharing policy this week?",
+  "carousel_slides": [
+    {
+      "hook": "Your therapy data sold without consent?",
+      "description": "A new bill targets AI firms that trade health records. Anonymized data can be reidentified easily.",
+      "visual_hint": "Server room, dark lighting",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Reidentification is frighteningly simple.",
+      "description": "Researchers matched anonymized health data with public records in minutes, exposing your identity.",
+      "visual_hint": "Magnifying glass over documents",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "magnifying glass documents",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Could your therapy notes deny you insurance?",
+      "description": "Once sold, your health data might be used to block employment or increase premiums.",
+      "visual_hint": "Rejection letter on table",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "rejection letter",
+      "image": "https://images.pexels.com/photos/6899209/pexels-photo-6899209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No opt-out exists for AI training.",
+      "description": "Current laws don't require your consent for AI to train on private medical records.",
+      "visual_hint": "Laptop with glowing screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop glowing screen",
+      "image": "https://images.pexels.com/photos/7864380/pexels-photo-7864380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: check your provider's policy.",
+      "description": "Ask your therapist or clinic: do they share data with third parties? Do it this week.",
+      "visual_hint": "Checklist and pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist pen",
+      "image": "https://images.pexels.com/photos/6837794/pexels-photo-6837794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-06-29T16:54:02.171Z",
+  "sourceId": "bc0bf62a89e2a0b617cb9252f62cbc31"
+}

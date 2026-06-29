@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "tidal-cracks-down-on-ai-music-by-cutting-off-monet",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "TIDAL cracks down on AI music by cutting off monetization",
+  "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+  "pubDate": "Mon, 29 Jun 2026 16:29:04 +0000",
+  "slides": [
+    "Tidal blocks AI-made tracks from earning revenue. Why now?",
+    "Major labels had already flagged thousands of suspicious uploads.",
+    "Tidal uses metadata checks—not audio analysis—to stop payouts.",
+    "If your AI track was monetized, expect an unpaid hold.",
+    "Audit your catalog now before Tidal removes all payouts."
+  ],
+  "thread_text": [
+    "1. Revenue frozen.\n\nTidal has stopped payments on all AI-generated tracks, even ones already monetized.",
+    "2. Labels flagged it first.\n\nUniversal, Sony, and Warner sent Tidal lists of thousands of suspicious uploads before the policy change.",
+    "3. Not listening—just checking.\n\nTidal blocks payouts based on metadata flags, not audio analysis or listening.",
+    "4. Your payout is on hold.\n\nIf an AI track you uploaded was earning, Tidal will now hold that revenue unpaid indefinitely.",
+    "5. Audit your catalog now.\n\nFind every track with suspicious metadata and remove it before Tidal pulls all future payouts."
+  ],
+  "video_script": [
+    "Tidal stops paying for AI tracks.",
+    "Labels flagged thousands of uploads.",
+    "They check metadata, not audio.",
+    "Your earnings may be frozen.",
+    "Audit your catalog now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Revenue frozen.\n\nTidal has stopped payments on all AI-generated tracks, even ones already monetized.",
+        "2. Labels flagged it first.\n\nUniversal, Sony, and Warner sent Tidal lists of thousands of suspicious uploads before the policy change.",
+        "3. Not listening—just checking.\n\nTidal blocks payouts based on metadata flags, not audio analysis or listening.",
+        "4. Your payout is on hold.\n\nIf an AI track you uploaded was earning, Tidal will now hold that revenue unpaid indefinitely.",
+        "5. Audit your catalog now.\n\nFind every track with suspicious metadata and remove it before Tidal pulls all future payouts."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Tidal stops paying for AI tracks.",
+        "Labels flagged thousands of uploads.",
+        "They check metadata, not audio.",
+        "Your earnings may be frozen.",
+        "Audit your catalog now."
+      ]
+    },
+    "instagram": {
+      "caption": "Revenue frozen on all AI-generated tracks at Tidal—even if they were already earning cash.\n\nMajor labels like Universal, Sony, and Warner flagged thousands of suspicious uploads before Tidal acted.  \nTidal isn't listening to the audio; it blocks payouts by scanning metadata alone.  \nIf you uploaded an AI track that was paid out, that revenue is now on indefinite hold.\n\nYou must audit your catalog now and remove any AI-made track with suspicious metadata, or Tidal will strip all future payouts.\n\nWho in your network uploaded AI music without realizing the payout risk? 🚫💰🔍"
+    }
+  },
+  "instagram_caption": "Revenue frozen on all AI-generated tracks at Tidal—even if they were already earning cash.\n\nMajor labels like Universal, Sony, and Warner flagged thousands of suspicious uploads before Tidal acted.  \nTidal isn't listening to the audio; it blocks payouts by scanning metadata alone.  \nIf you uploaded an AI track that was paid out, that revenue is now on indefinite hold.\n\nYou must audit your catalog now and remove any AI-made track with suspicious metadata, or Tidal will strip all future payouts.\n\nWho in your network uploaded AI music without realizing the payout risk? 🚫💰🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your AI track just lost revenue.",
+      "description": "Tidal froze payments on all AI-generated tracks, even ones already monetized. Thousands flagged by major labels.",
+      "visual_hint": "frozen payment symbol",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "frozen money sign"
+    },
+    {
+      "hook": "Labels flagged thousands first.",
+      "description": "Universal, Sony, and Warner sent Tidal lists of suspicious uploads before the policy change triggered payouts blocked.",
+      "visual_hint": "list of flagged tracks",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "document with checklist",
+      "image": "https://images.pexels.com/photos/8962455/pexels-photo-8962455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Metadata checks, not listening.",
+      "description": "Tidal blocks AI track payouts based on metadata flags, not audio analysis or listening. Fast, automated enforcement.",
+      "visual_hint": "scanning metadata tags",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer screen data scan",
+      "image": "https://images.pexels.com/photos/6502017/pexels-photo-6502017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your payout is now on hold.",
+      "description": "If an AI track you uploaded was earning, Tidal will hold that revenue unpaid indefinitely until audit clears.",
+      "visual_hint": "hold icon on money",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand stopping money",
+      "image": "https://images.pexels.com/photos/7680464/pexels-photo-7680464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your catalog now. Save payout.",
+      "description": "Find every track with suspicious metadata and remove it before Tidal pulls all future payouts. Act today.",
+      "visual_hint": "catalog audit checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "catalog folder and checkmark",
+      "image": "https://images.pexels.com/photos/6538582/pexels-photo-6538582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/tidal-brand.jpg?w=720",
+  "savedAt": "2026-06-29T16:53:19.628Z",
+  "sourceId": "8bd89edfd9962e1fefc98dc6e45c8ea6"
+}

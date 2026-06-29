@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "suno-launches-spark-incubator-program-to-feed-inde",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+  "pubDate": "2026-06-28T20:27:36.000Z",
+  "slides": [
+    "Suno's new incubator—artists want in, but at what cost?",
+    "Spark offers funding and tools for independent musicians.",
+    "The catch: Suno owns rights to train its AI on your work.",
+    "Your music could fuel the very system replacing you.",
+    "Read the contract before signing away your future."
+  ],
+  "thread_text": [
+    "1. Artists beg to join.\n\nSuno’s new incubator Spark got 8,000 applications in 48 hours. Musicians are desperate for the tools—and blind to the price.",
+    "2. Free tools, hidden debt.\n\nSpark gives funding and production access. But the license lets Suno train its AI on every note you upload.",
+    "3. Your hit trains your replacement.\n\nSuno’s model learns from your style, then generates songs that compete with yours. You pay for the rope they hang you with.",
+    "4. No opt-out, no escape.\n\nOnce you sign, Suno owns the right to mine your entire catalog—past and future—for AI training. There is no revocation clause.",
+    "5. Opened the fine print yet?\n\nTake the contract draft from Suno’s site and highlight every assignment of rights. If you can’t name three clauses you just agreed to, don’t sign."
+  ],
+  "video_script": [
+    "Suno got eight thousand applications in two days.",
+    "Artists get funding, but lose their rights.",
+    "The AI learns from your original music.",
+    "Your own songs will compete against you.",
+    "Read the contract before you give everything away."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Artists beg to join.\n\nSuno’s new incubator Spark got 8,000 applications in 48 hours. Musicians are desperate for the tools—and blind to the price.",
+        "2. Free tools, hidden debt.\n\nSpark gives funding and production access. But the license lets Suno train its AI on every note you upload.",
+        "3. Your hit trains your replacement.\n\nSuno’s model learns from your style, then generates songs that compete with yours. You pay for the rope they hang you with.",
+        "4. No opt-out, no escape.\n\nOnce you sign, Suno owns the right to mine your entire catalog—past and future—for AI training. There is no revocation clause.",
+        "5. Opened the fine print yet?\n\nTake the contract draft from Suno’s site and highlight every assignment of rights. If you can’t name three clauses you just agreed to, don’t sign."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Suno got eight thousand applications in two days.",
+        "Artists get funding, but lose their rights.",
+        "The AI learns from your original music.",
+        "Your own songs will compete against you.",
+        "Read the contract before you give everything away."
+      ]
+    },
+    "instagram": {
+      "caption": "Suno’s new incubator Spark got 8,000 applications in 48 hours.\n\nMusicians are desperate for funding and tools. But the license lets Suno train its AI on every note you upload 🎵\n\nYour hit literally trains your replacement — Suno’s model learns your style and generates songs that compete with yours.\n\nIf you create original music, signing means you’ve just fueled the system that can undercut you. No escape clause.\n\nRead the contract draft from Suno’s site today. Can you name three rights you just gave away? ✍️"
+    }
+  },
+  "instagram_caption": "Suno’s new incubator Spark got 8,000 applications in 48 hours.\n\nMusicians are desperate for funding and tools. But the license lets Suno train its AI on every note you upload 🎵\n\nYour hit literally trains your replacement — Suno’s model learns your style and generates songs that compete with yours.\n\nIf you create original music, signing means you’ve just fueled the system that can undercut you. No escape clause.\n\nRead the contract draft from Suno’s site today. Can you name three rights you just gave away? ✍️",
+  "carousel_slides": [
+    {
+      "hook": "Your hit trains your replacement.",
+      "description": "Suno's AI learns your style from Spark submissions, then generates songs that compete with yours directly.",
+      "visual_hint": "Microphone feeding data cable",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "studio microphone cables"
+    },
+    {
+      "hook": "Free tools, hidden debt.",
+      "description": "Spark gives funding and production access, but Suno owns rights to train AI on every note you upload.",
+      "visual_hint": "Money bag with fine print",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "money bag contract",
+      "image": "https://images.pexels.com/photos/8370775/pexels-photo-8370775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No opt-out once signed.",
+      "description": "Suno mines your entire catalog—past and future—for AI training with no revocation clause ever.",
+      "visual_hint": "Lock with no keyhole",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "padlock chain link",
+      "image": "https://images.pexels.com/photos/13115085/pexels-photo-13115085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You pay for your own rope.",
+      "description": "Desperate artists submit to Spark, funding the very system that will replace their own careers.",
+      "visual_hint": "Rope being pulled tight",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "rope knot hands",
+      "image": "https://images.pexels.com/photos/14079514/pexels-photo-14079514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Read the contract before signing.",
+      "description": "Open Suno's contract draft from their site and highlight every rights clause you're about to give away.",
+      "visual_hint": "Finger pointing at fine print",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-29T16:54:18.586Z",
+  "sourceId": "863beb6b5eb1e3302857636b01246122"
+}

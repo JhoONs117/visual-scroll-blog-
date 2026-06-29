@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "suno-launches-spark-incubator-program-to-feed-inde",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+    "pubDate": "2026-06-28T20:27:36.000Z",
+    "slides": [
+      "Suno's new incubator—artists want in, but at what cost?",
+      "Spark offers funding and tools for independent musicians.",
+      "The catch: Suno owns rights to train its AI on your work.",
+      "Your music could fuel the very system replacing you.",
+      "Read the contract before signing away your future."
+    ],
+    "thread_text": [
+      "1. Artists beg to join.\n\nSuno’s new incubator Spark got 8,000 applications in 48 hours. Musicians are desperate for the tools—and blind to the price.",
+      "2. Free tools, hidden debt.\n\nSpark gives funding and production access. But the license lets Suno train its AI on every note you upload.",
+      "3. Your hit trains your replacement.\n\nSuno’s model learns from your style, then generates songs that compete with yours. You pay for the rope they hang you with.",
+      "4. No opt-out, no escape.\n\nOnce you sign, Suno owns the right to mine your entire catalog—past and future—for AI training. There is no revocation clause.",
+      "5. Opened the fine print yet?\n\nTake the contract draft from Suno’s site and highlight every assignment of rights. If you can’t name three clauses you just agreed to, don’t sign."
+    ],
+    "video_script": [
+      "Suno got eight thousand applications in two days.",
+      "Artists get funding, but lose their rights.",
+      "The AI learns from your original music.",
+      "Your own songs will compete against you.",
+      "Read the contract before you give everything away."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Artists beg to join.\n\nSuno’s new incubator Spark got 8,000 applications in 48 hours. Musicians are desperate for the tools—and blind to the price.",
+          "2. Free tools, hidden debt.\n\nSpark gives funding and production access. But the license lets Suno train its AI on every note you upload.",
+          "3. Your hit trains your replacement.\n\nSuno’s model learns from your style, then generates songs that compete with yours. You pay for the rope they hang you with.",
+          "4. No opt-out, no escape.\n\nOnce you sign, Suno owns the right to mine your entire catalog—past and future—for AI training. There is no revocation clause.",
+          "5. Opened the fine print yet?\n\nTake the contract draft from Suno’s site and highlight every assignment of rights. If you can’t name three clauses you just agreed to, don’t sign."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Suno got eight thousand applications in two days.",
+          "Artists get funding, but lose their rights.",
+          "The AI learns from your original music.",
+          "Your own songs will compete against you.",
+          "Read the contract before you give everything away."
+        ]
+      },
+      "instagram": {
+        "caption": "Suno’s new incubator Spark got 8,000 applications in 48 hours.\n\nMusicians are desperate for funding and tools. But the license lets Suno train its AI on every note you upload 🎵\n\nYour hit literally trains your replacement — Suno’s model learns your style and generates songs that compete with yours.\n\nIf you create original music, signing means you’ve just fueled the system that can undercut you. No escape clause.\n\nRead the contract draft from Suno’s site today. Can you name three rights you just gave away? ✍️"
+      }
+    },
+    "instagram_caption": "Suno’s new incubator Spark got 8,000 applications in 48 hours.\n\nMusicians are desperate for funding and tools. But the license lets Suno train its AI on every note you upload 🎵\n\nYour hit literally trains your replacement — Suno’s model learns your style and generates songs that compete with yours.\n\nIf you create original music, signing means you’ve just fueled the system that can undercut you. No escape clause.\n\nRead the contract draft from Suno’s site today. Can you name three rights you just gave away? ✍️",
+    "carousel_slides": [
+      {
+        "hook": "Your hit trains your replacement.",
+        "description": "Suno's AI learns your style from Spark submissions, then generates songs that compete with yours directly.",
+        "visual_hint": "Microphone feeding data cable",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "studio microphone cables"
+      },
+      {
+        "hook": "Free tools, hidden debt.",
+        "description": "Spark gives funding and production access, but Suno owns rights to train AI on every note you upload.",
+        "visual_hint": "Money bag with fine print",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "money bag contract",
+        "image": "https://images.pexels.com/photos/8370775/pexels-photo-8370775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No opt-out once signed.",
+        "description": "Suno mines your entire catalog—past and future—for AI training with no revocation clause ever.",
+        "visual_hint": "Lock with no keyhole",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "padlock chain link",
+        "image": "https://images.pexels.com/photos/13115085/pexels-photo-13115085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You pay for your own rope.",
+        "description": "Desperate artists submit to Spark, funding the very system that will replace their own careers.",
+        "visual_hint": "Rope being pulled tight",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "rope knot hands",
+        "image": "https://images.pexels.com/photos/14079514/pexels-photo-14079514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Read the contract before signing.",
+        "description": "Open Suno's contract draft from their site and highlight every rights clause you're about to give away.",
+        "visual_hint": "Finger pointing at fine print",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "magnifying glass document",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-06-29T16:54:18.586Z",
+    "sourceId": "863beb6b5eb1e3302857636b01246122"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "lawmakers-want-to-ban-ai-companies-from-selling-yo",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Lawmakers want to ban AI companies from selling your health data",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+    "pubDate": "2026-06-29T16:00:00.000Z",
+    "slides": [
+      "What if your therapy data gets sold without consent?",
+      "New bill targets AI firms trading health records.",
+      "Even anonymized data can be reidentified easily.",
+      "You might lose control over your own medical privacy.",
+      "Check your provider’s policy before sharing anything."
+    ],
+    "thread_text": [
+      "1. Your data sold without consent\n\nA new bill targets AI firms that trade health records. Even anonymized data can be reidentified easily.",
+      "2. Reidentification is simple\n\nResearchers have proven that anonymized health data can be matched with public records in minutes.",
+      "3. You might lose control\n\nOnce sold, your therapy notes could be used to deny insurance or employment.",
+      "4. No opt-out exists yet\n\nCurrent laws don't require your consent for AI training on medical data.",
+      "5. Check your provider’s policy\n\nAsk your therapist or clinic: do they share data with third parties? If you haven’t checked, do it this week."
+    ],
+    "video_script": [
+      "Your therapy data could be sold without consent.",
+      "A new bill targets AI firms trading health records.",
+      "Even anonymized data can be reidentified easily.",
+      "You might lose control over your medical privacy.",
+      "Check your provider’s policy before sharing anything."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your data sold without consent\n\nA new bill targets AI firms that trade health records. Even anonymized data can be reidentified easily.",
+          "2. Reidentification is simple\n\nResearchers have proven that anonymized health data can be matched with public records in minutes.",
+          "3. You might lose control\n\nOnce sold, your therapy notes could be used to deny insurance or employment.",
+          "4. No opt-out exists yet\n\nCurrent laws don't require your consent for AI training on medical data.",
+          "5. Check your provider’s policy\n\nAsk your therapist or clinic: do they share data with third parties? If you haven’t checked, do it this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your therapy data could be sold without consent.",
+          "A new bill targets AI firms trading health records.",
+          "Even anonymized data can be reidentified easily.",
+          "You might lose control over your medical privacy.",
+          "Check your provider’s policy before sharing anything."
+        ]
+      },
+      "instagram": {
+        "caption": "Your therapy notes could be sold to insurers without you ever knowing. 🏥🔍\n\nA new bill wants to stop AI companies from trading your health records. Even data labeled \"anonymous\" can be matched back to you in minutes using public records. Once sold, those records could be used to deny you a job or a policy. ❗\n\nIf you use AI tools for work or content, your medical privacy isn't safe unless you check your provider's fine print. \n\nHave you read your clinic's data-sharing policy this week?"
+      }
+    },
+    "instagram_caption": "Your therapy notes could be sold to insurers without you ever knowing. 🏥🔍\n\nA new bill wants to stop AI companies from trading your health records. Even data labeled \"anonymous\" can be matched back to you in minutes using public records. Once sold, those records could be used to deny you a job or a policy. ❗\n\nIf you use AI tools for work or content, your medical privacy isn't safe unless you check your provider's fine print. \n\nHave you read your clinic's data-sharing policy this week?",
+    "carousel_slides": [
+      {
+        "hook": "Your therapy data sold without consent?",
+        "description": "A new bill targets AI firms that trade health records. Anonymized data can be reidentified easily.",
+        "visual_hint": "Server room, dark lighting",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Reidentification is frighteningly simple.",
+        "description": "Researchers matched anonymized health data with public records in minutes, exposing your identity.",
+        "visual_hint": "Magnifying glass over documents",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "magnifying glass documents",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Could your therapy notes deny you insurance?",
+        "description": "Once sold, your health data might be used to block employment or increase premiums.",
+        "visual_hint": "Rejection letter on table",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "rejection letter",
+        "image": "https://images.pexels.com/photos/6899209/pexels-photo-6899209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No opt-out exists for AI training.",
+        "description": "Current laws don't require your consent for AI to train on private medical records.",
+        "visual_hint": "Laptop with glowing screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "laptop glowing screen",
+        "image": "https://images.pexels.com/photos/7864380/pexels-photo-7864380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: check your provider's policy.",
+        "description": "Ask your therapist or clinic: do they share data with third parties? Do it this week.",
+        "visual_hint": "Checklist and pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist pen",
+        "image": "https://images.pexels.com/photos/6837794/pexels-photo-6837794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "savedAt": "2026-06-29T16:54:02.171Z",
+    "sourceId": "bc0bf62a89e2a0b617cb9252f62cbc31"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "robot-hand-company-settles-tesla-trade-secret-suit",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+    "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+    "pubDate": "Mon, 29 Jun 2026 14:00:08 +0000",
+    "slides": [
+      "Settling a secret suit—what did the robot hand hide?",
+      "Tesla alleged stolen trade secrets in the lawsuit.",
+      "Terms remain undisclosed, raising industry trust concerns.",
+      "This $11M raise restarts operations, but who will partner?",
+      "Audit your data security before your next funding round."
+    ],
+    "thread_text": [
+      "1. Who hid the hand?\n\nA secret lawsuit over a robot hand was quietly settled—terms still buried.",
+      "2. Tesla says stolen.\n\nElon’s company alleged trade secrets were taken by a former engineer.",
+      "3. The undisclosed price.\n\nSettlement terms stayed secret, eroding trust across the industry.",
+      "4. $11M second chance.\n\nWith fresh funding, operations restart—but no partner yet announced.",
+      "5. Audit before you raise.\n\nCheck your data security now. Would your next round survive a leak?"
+    ],
+    "video_script": [
+      "A robot hand hid trade secrets.",
+      "Tesla sued and settled quietly.",
+      "No one knows the deal terms.",
+      "Eleven million dollars restart operations.",
+      "Audit your data before fundraising."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who hid the hand?\n\nA secret lawsuit over a robot hand was quietly settled—terms still buried.",
+          "2. Tesla says stolen.\n\nElon’s company alleged trade secrets were taken by a former engineer.",
+          "3. The undisclosed price.\n\nSettlement terms stayed secret, eroding trust across the industry.",
+          "4. $11M second chance.\n\nWith fresh funding, operations restart—but no partner yet announced.",
+          "5. Audit before you raise.\n\nCheck your data security now. Would your next round survive a leak?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A robot hand hid trade secrets.",
+          "Tesla sued and settled quietly.",
+          "No one knows the deal terms.",
+          "Eleven million dollars restart operations.",
+          "Audit your data before fundraising."
+        ]
+      },
+      "instagram": {
+        "caption": "A robot hand company secretly settled a lawsuit with Tesla over stolen trade secrets, and immediately announced an $11 million funding round.\n\nTesla accused a former engineer of taking proprietary tech to a startup. Settlement terms are hidden. 🤫\n\nThe company gets a second chance with fresh cash. But no new partners have stepped forward yet. 💸\n\nFor content creators and builders: your data security could kill your next funding round—or get you sued. 🔍\n\nWhen was the last time you audited who has access to your source code?"
+      }
+    },
+    "instagram_caption": "A robot hand company secretly settled a lawsuit with Tesla over stolen trade secrets, and immediately announced an $11 million funding round.\n\nTesla accused a former engineer of taking proprietary tech to a startup. Settlement terms are hidden. 🤫\n\nThe company gets a second chance with fresh cash. But no new partners have stepped forward yet. 💸\n\nFor content creators and builders: your data security could kill your next funding round—or get you sued. 🔍\n\nWhen was the last time you audited who has access to your source code?",
+    "carousel_slides": [
+      {
+        "hook": "Who hid the hand?",
+        "description": "A secret lawsuit over a robot hand was quietly settled—terms still buried.",
+        "visual_hint": "Robot hand blurred",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot hand industrial"
+      },
+      {
+        "hook": "Tesla says stolen.",
+        "description": "Elon’s company alleged trade secrets were taken by a former engineer.",
+        "visual_hint": "Elon Musk portrait",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Elon Musk",
+        "image": "https://images.pexels.com/photos/12861276/pexels-photo-12861276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The undisclosed price.",
+        "description": "Settlement terms stayed secret, eroding trust across the industry.",
+        "visual_hint": "Locked document",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "confidential document",
+        "image": "https://images.pexels.com/photos/8371713/pexels-photo-8371713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "$11M second chance.",
+        "description": "With fresh funding, operations restart—but no partner yet announced.",
+        "visual_hint": "Pile of cash",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stack of dollars",
+        "image": "https://images.pexels.com/photos/6266699/pexels-photo-6266699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit before you raise.",
+        "description": "Check your data security now. Would your next round survive a leak?",
+        "visual_hint": "Security shield icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/proception-prohand-proglove-1.jpg?resize=1200,800",
+    "savedAt": "2026-06-29T16:53:32.550Z",
+    "sourceId": "d847e44ff01ae7e660ceaedc7b3a0e2c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "tidal-cracks-down-on-ai-music-by-cutting-off-monet",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "TIDAL cracks down on AI music by cutting off monetization",
+    "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+    "pubDate": "Mon, 29 Jun 2026 16:29:04 +0000",
+    "slides": [
+      "Tidal blocks AI-made tracks from earning revenue. Why now?",
+      "Major labels had already flagged thousands of suspicious uploads.",
+      "Tidal uses metadata checks—not audio analysis—to stop payouts.",
+      "If your AI track was monetized, expect an unpaid hold.",
+      "Audit your catalog now before Tidal removes all payouts."
+    ],
+    "thread_text": [
+      "1. Revenue frozen.\n\nTidal has stopped payments on all AI-generated tracks, even ones already monetized.",
+      "2. Labels flagged it first.\n\nUniversal, Sony, and Warner sent Tidal lists of thousands of suspicious uploads before the policy change.",
+      "3. Not listening—just checking.\n\nTidal blocks payouts based on metadata flags, not audio analysis or listening.",
+      "4. Your payout is on hold.\n\nIf an AI track you uploaded was earning, Tidal will now hold that revenue unpaid indefinitely.",
+      "5. Audit your catalog now.\n\nFind every track with suspicious metadata and remove it before Tidal pulls all future payouts."
+    ],
+    "video_script": [
+      "Tidal stops paying for AI tracks.",
+      "Labels flagged thousands of uploads.",
+      "They check metadata, not audio.",
+      "Your earnings may be frozen.",
+      "Audit your catalog now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Revenue frozen.\n\nTidal has stopped payments on all AI-generated tracks, even ones already monetized.",
+          "2. Labels flagged it first.\n\nUniversal, Sony, and Warner sent Tidal lists of thousands of suspicious uploads before the policy change.",
+          "3. Not listening—just checking.\n\nTidal blocks payouts based on metadata flags, not audio analysis or listening.",
+          "4. Your payout is on hold.\n\nIf an AI track you uploaded was earning, Tidal will now hold that revenue unpaid indefinitely.",
+          "5. Audit your catalog now.\n\nFind every track with suspicious metadata and remove it before Tidal pulls all future payouts."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Tidal stops paying for AI tracks.",
+          "Labels flagged thousands of uploads.",
+          "They check metadata, not audio.",
+          "Your earnings may be frozen.",
+          "Audit your catalog now."
+        ]
+      },
+      "instagram": {
+        "caption": "Revenue frozen on all AI-generated tracks at Tidal—even if they were already earning cash.\n\nMajor labels like Universal, Sony, and Warner flagged thousands of suspicious uploads before Tidal acted.  \nTidal isn't listening to the audio; it blocks payouts by scanning metadata alone.  \nIf you uploaded an AI track that was paid out, that revenue is now on indefinite hold.\n\nYou must audit your catalog now and remove any AI-made track with suspicious metadata, or Tidal will strip all future payouts.\n\nWho in your network uploaded AI music without realizing the payout risk? 🚫💰🔍"
+      }
+    },
+    "instagram_caption": "Revenue frozen on all AI-generated tracks at Tidal—even if they were already earning cash.\n\nMajor labels like Universal, Sony, and Warner flagged thousands of suspicious uploads before Tidal acted.  \nTidal isn't listening to the audio; it blocks payouts by scanning metadata alone.  \nIf you uploaded an AI track that was paid out, that revenue is now on indefinite hold.\n\nYou must audit your catalog now and remove any AI-made track with suspicious metadata, or Tidal will strip all future payouts.\n\nWho in your network uploaded AI music without realizing the payout risk? 🚫💰🔍",
+    "carousel_slides": [
+      {
+        "hook": "Your AI track just lost revenue.",
+        "description": "Tidal froze payments on all AI-generated tracks, even ones already monetized. Thousands flagged by major labels.",
+        "visual_hint": "frozen payment symbol",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "frozen money sign"
+      },
+      {
+        "hook": "Labels flagged thousands first.",
+        "description": "Universal, Sony, and Warner sent Tidal lists of suspicious uploads before the policy change triggered payouts blocked.",
+        "visual_hint": "list of flagged tracks",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "document with checklist",
+        "image": "https://images.pexels.com/photos/8962455/pexels-photo-8962455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Metadata checks, not listening.",
+        "description": "Tidal blocks AI track payouts based on metadata flags, not audio analysis or listening. Fast, automated enforcement.",
+        "visual_hint": "scanning metadata tags",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer screen data scan",
+        "image": "https://images.pexels.com/photos/6502017/pexels-photo-6502017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your payout is now on hold.",
+        "description": "If an AI track you uploaded was earning, Tidal will hold that revenue unpaid indefinitely until audit clears.",
+        "visual_hint": "hold icon on money",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand stopping money",
+        "image": "https://images.pexels.com/photos/7680464/pexels-photo-7680464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your catalog now. Save payout.",
+        "description": "Find every track with suspicious metadata and remove it before Tidal pulls all future payouts. Act today.",
+        "visual_hint": "catalog audit checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "catalog folder and checkmark",
+        "image": "https://images.pexels.com/photos/6538582/pexels-photo-6538582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/tidal-brand.jpg?w=720",
+    "savedAt": "2026-06-29T16:53:19.628Z",
+    "sourceId": "8bd89edfd9962e1fefc98dc6e45c8ea6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "wimbledon-adds-ibm-ai-tools-for-live-match-coverag",
     "prompt_version": "1.0.0",
     "status": "published",
@@ -108,7 +524,7 @@ window.ARTICLES = [
     "agent": "ai-news",
     "slug": "hp-accelerates-enterprise-workflows-with-openai-fr",
     "prompt_version": "1.0.0",
-    "status": "published",
+    "status": "approved",
     "title": "HP accelerates enterprise workflows with OpenAI Frontier",
     "link": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
     "pubDate": "Mon, 29 Jun 2026 12:22:45 +0000",
