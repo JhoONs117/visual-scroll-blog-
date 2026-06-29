@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "wimbledon-adds-ibm-ai-tools-for-live-match-coverag",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Wimbledon adds IBM AI tools for live match coverage",
+    "link": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/",
+    "pubDate": "Mon, 29 Jun 2026 10:00:00 +0000",
+    "slides": [
+      "Your favourite tennis moment: was it the right call?",
+      "Wimbledon now uses IBM AI to generate live highlights.",
+      "But the AI picks shots no human editor would choose.",
+      "You will see unexpected angles and underdog rallies instantly.",
+      "Challenge your own memory: watch one AI-chosen replay today."
+    ],
+    "thread_text": [
+      "1. Who decides a good shot?\n\nWimbledon's new AI bypasses human highlight editors entirely, picking replays based on crowd noise and player movement.",
+      "2. The rebel editor\n\nThe AI often favors unexpected angles and underdog rallies—shots no human editor would ever choose for the final cut.",
+      "3. Memory test\n\nChallenge your own recall: watch one AI-chosen replay today. You'll see a version of the match you didn't notice live.",
+      "4. New eyes on old moments\n\nYour favourite tennis moment might not survive the AI filter. The algorithm sees patterns, not nostalgia.",
+      "5. Will you trust the machine?\n\nOpen Wimbledon's app today and watch one AI highlight. Does it capture what you remember, or something you missed?"
+    ],
+    "video_script": [
+      "Your favorite tennis moment—was it the right call?",
+      "Wimbledon now uses IBM AI for live highlights.",
+      "But the AI picks shots no human would choose.",
+      "Unexpected angles and underdog rallies appear instantly.",
+      "Challenge your memory—watch one AI replay today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who decides a good shot?\n\nWimbledon's new AI bypasses human highlight editors entirely, picking replays based on crowd noise and player movement.",
+          "2. The rebel editor\n\nThe AI often favors unexpected angles and underdog rallies—shots no human editor would ever choose for the final cut.",
+          "3. Memory test\n\nChallenge your own recall: watch one AI-chosen replay today. You'll see a version of the match you didn't notice live.",
+          "4. New eyes on old moments\n\nYour favourite tennis moment might not survive the AI filter. The algorithm sees patterns, not nostalgia.",
+          "5. Will you trust the machine?\n\nOpen Wimbledon's app today and watch one AI highlight. Does it capture what you remember, or something you missed?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your favorite tennis moment—was it the right call?",
+          "Wimbledon now uses IBM AI for live highlights.",
+          "But the AI picks shots no human would choose.",
+          "Unexpected angles and underdog rallies appear instantly.",
+          "Challenge your memory—watch one AI replay today."
+        ]
+      },
+      "instagram": {
+        "caption": "Wimbledon's AI now picks the live replay you see—and it won't choose the shot any human editor would. 🎾\n\nThe system scans crowd noise and player movement, bypassing human judgment entirely. It favors underdog rallies and unexpected angles, not the safe, nostalgic moments. 📡\n\nIf you create highlights or edit sports content, your editorial instinct is now competing with an algorithm that sees patterns, not drama.\n\nOpen the Wimbledon app today and watch one AI-chosen replay. Does it show you the moment you remember—or the one you completely missed? 🧠"
+      }
+    },
+    "instagram_caption": "Wimbledon's AI now picks the live replay you see—and it won't choose the shot any human editor would. 🎾\n\nThe system scans crowd noise and player movement, bypassing human judgment entirely. It favors underdog rallies and unexpected angles, not the safe, nostalgic moments. 📡\n\nIf you create highlights or edit sports content, your editorial instinct is now competing with an algorithm that sees patterns, not drama.\n\nOpen the Wimbledon app today and watch one AI-chosen replay. Does it show you the moment you remember—or the one you completely missed? 🧠",
+    "carousel_slides": [
+      {
+        "hook": "What if AI saw more than you?",
+        "description": "Wimbledon's new AI bypasses human editors, choosing replays based on crowd noise and player movement.",
+        "visual_hint": "AI analyzing tennis court data",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "AI tennis court analysis"
+      },
+      {
+        "hook": "The rebel editor is AI.",
+        "description": "The AI favors unexpected angles and underdog rallies—shots no human editor would ever choose.",
+        "visual_hint": "Tennis ball trajectory overlay",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "tennis ball trajectory diagram",
+        "image": "https://images.pexels.com/photos/5739159/pexels-photo-5739159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your memory vs. the algorithm.",
+        "description": "Watch one AI-chosen replay today. You'll see a version of the match you didn't notice live.",
+        "visual_hint": "Split screen memory vs. AI",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "split screen tennis match",
+        "image": "https://images.pexels.com/photos/32289802/pexels-photo-32289802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What does AI ignore in nostalgia?",
+        "description": "The algorithm sees patterns, not nostalgia. Your favorite moment might not survive the AI filter.",
+        "visual_hint": "Silhouette watching highlight clip",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person silhouette tennis",
+        "image": "https://images.pexels.com/photos/5740791/pexels-photo-5740791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test the AI.",
+        "description": "Open Wimbledon's app today and watch one AI highlight. Does it capture what you missed?",
+        "visual_hint": "Phone screen showing tennis app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone tennis app screen",
+        "image": "https://images.pexels.com/photos/3850268/pexels-photo-3850268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/34079417/pexels-photo-34079417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-29T13:59:03.447Z",
+    "sourceId": "b66b89ac0ca5ef4e88e0c80246ceebfa"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "hp-accelerates-enterprise-workflows-with-openai-fr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "HP accelerates enterprise workflows with OpenAI Frontier",
+    "link": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
+    "pubDate": "Mon, 29 Jun 2026 12:22:45 +0000",
+    "slides": [
+      "HP partners with OpenAI—but what changes for your team?",
+      "This integrates OpenAI's Frontier models into HP devices.",
+      "It doesn't just assist—it automates multi-step enterprise tasks.",
+      "Your workflows now skip manual data transfers between apps.",
+      "Test one approval chain today: see minutes turn to seconds."
+    ],
+    "thread_text": [
+      "1. Your HP device just grew a brain.\n\nHP signed with OpenAI. Frontier models are now baked into hardware you already own.",
+      "2. This isn't a chatbot upgrade.\n\nIt automates multi-step enterprise tasks. No more copying data between apps.",
+      "3. The real shift is invisible.\n\nYour workflows skip manual transfers. Approvals, reports, syncs—gone from your to-do list.",
+      "4. One chain decides the bet.\n\nSimulate an approval flow today. Take a real request and time it manually, then with the new system.",
+      "5. Can you afford not to test?\n\nPick one approval chain this week. Run it both ways and compare the seconds saved."
+    ],
+    "video_script": [
+      "HP and OpenAI just partnered.",
+      "Frontier models come to your device.",
+      "It automates multi-step tasks for you.",
+      "Skip manual data transfers forever.",
+      "Test one approval chain today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your HP device just grew a brain.\n\nHP signed with OpenAI. Frontier models are now baked into hardware you already own.",
+          "2. This isn't a chatbot upgrade.\n\nIt automates multi-step enterprise tasks. No more copying data between apps.",
+          "3. The real shift is invisible.\n\nYour workflows skip manual transfers. Approvals, reports, syncs—gone from your to-do list.",
+          "4. One chain decides the bet.\n\nSimulate an approval flow today. Take a real request and time it manually, then with the new system.",
+          "5. Can you afford not to test?\n\nPick one approval chain this week. Run it both ways and compare the seconds saved."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "HP and OpenAI just partnered.",
+          "Frontier models come to your device.",
+          "It automates multi-step tasks for you.",
+          "Skip manual data transfers forever.",
+          "Test one approval chain today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your HP device just grew a brain 🤖—OpenAI's Frontier models are now built into the hardware you already own.\n\nThis isn't a chatbot upgrade. It automates multi-step enterprise tasks—no more copying data between apps. Approvals, reports, and syncs skip your to-do list entirely.\n\nFor anyone creating or publishing content, manual data transfers between tools disappear from your daily workflow.\n\nPick one approval chain this week. Run it manually, then with the new system ⏱️. What do you do with the minutes you save?"
+      }
+    },
+    "instagram_caption": "Your HP device just grew a brain 🤖—OpenAI's Frontier models are now built into the hardware you already own.\n\nThis isn't a chatbot upgrade. It automates multi-step enterprise tasks—no more copying data between apps. Approvals, reports, and syncs skip your to-do list entirely.\n\nFor anyone creating or publishing content, manual data transfers between tools disappear from your daily workflow.\n\nPick one approval chain this week. Run it manually, then with the new system ⏱️. What do you do with the minutes you save?",
+    "carousel_slides": [
+      {
+        "hook": "Your HP device now has a brain.",
+        "description": "HP embeds OpenAI Frontier models into hardware you own. This automates enterprise workflows, not just chat.",
+        "visual_hint": "Brain inside a laptop",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "laptop open desk"
+      },
+      {
+        "hook": "This isn't a chatbot upgrade.",
+        "description": "It automates multi-step tasks like approvals and syncs. No more manual data transfers between apps.",
+        "visual_hint": "Data flowing between apps",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The real shift is invisible.",
+        "description": "Your workflows skip manual transfers. Approvals, reports, and syncs vanish from your to-do list.",
+        "visual_hint": "To-do list with crossed items",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One chain decides the bet.",
+        "description": "Simulate an approval flow today. Time it manually, then with the new system. See seconds saved.",
+        "visual_hint": "Stopwatch racing a gear",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/16917475/pexels-photo-16917475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test today and save seconds.",
+        "description": "Pick one approval chain this week. Run it both ways and compare the time. Visit link in bio.",
+        "visual_hint": "Phone showing timer result",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/8167321/pexels-photo-8167321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-29T13:58:48.412Z",
+    "sourceId": "6c5efbc7046f1fcba441b28141bfacb8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "scam-ai-announces-qualcomm-partnership-launches-ha",
     "prompt_version": "1.0.0",
     "status": "published",
