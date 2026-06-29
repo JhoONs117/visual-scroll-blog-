@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "pocket-raises-11m-in-bet-on-rising-demand-for-ai-n",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
+    "link": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
+    "pubDate": "Mon, 29 Jun 2026 13:16:00 +0000",
+    "slides": [
+      "Is your note-taking setup making you less productive?",
+      "Pocket just raised $11 million for AI devices.",
+      "But they promise no screens and zero typing.",
+      "Your hands stay free; thoughts get captured silently.",
+      "Try recording a meeting without touching your phone."
+    ],
+    "thread_text": [
+      "1. Your notes are lying to you\n\nPocket just raised $11 million to replace them with silent AI devices that capture thoughts while your hands stay free.",
+      "2. No screens, no typing\n\nYou will never tap a button. The device listens, processes, and stores without your input.",
+      "3. The meeting you forgot\n\nSet it on the table and walk away. Every word is transcribed instantly, zero effort on your part.",
+      "4. Context without context\n\nIt doesn't just record — it links ideas across conversations. Patterns emerge you never noticed.",
+      "5. Try it on your next stand-up\n\nRecord one meeting without touching your phone. Does the transcript save you more time than it costs to review?"
+    ],
+    "video_script": [
+      "Pocket raised eleven million for silent AI.",
+      "No screens and no typing required.",
+      "Hands stay free; thoughts captured silently.",
+      "Record a meeting without touching anything.",
+      "Will the transcript save you editing time?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your notes are lying to you\n\nPocket just raised $11 million to replace them with silent AI devices that capture thoughts while your hands stay free.",
+          "2. No screens, no typing\n\nYou will never tap a button. The device listens, processes, and stores without your input.",
+          "3. The meeting you forgot\n\nSet it on the table and walk away. Every word is transcribed instantly, zero effort on your part.",
+          "4. Context without context\n\nIt doesn't just record — it links ideas across conversations. Patterns emerge you never noticed.",
+          "5. Try it on your next stand-up\n\nRecord one meeting without touching your phone. Does the transcript save you more time than it costs to review?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Pocket raised eleven million for silent AI.",
+          "No screens and no typing required.",
+          "Hands stay free; thoughts captured silently.",
+          "Record a meeting without touching anything.",
+          "Will the transcript save you editing time?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your note-taking setup just lost an $11 million bet against you. 💸\n\nPocket raised that cash to sell a screenless, buttonless AI device that silently transcribes your meetings while your hands stay free. No typing, no phone, just a box on the table.\n\nIt doesn’t just record—it links ideas across conversations, so patterns emerge without you lifting a finger. 🤫\n\nFor creators, this means the friction of capturing thoughts disappears. You stop breaking flow to jot things down.\n\nRecord your next stand-up without touching your phone. Does the saved transcript actually save you more time than reviewing it costs? 📝"
+      }
+    },
+    "instagram_caption": "Your note-taking setup just lost an $11 million bet against you. 💸\n\nPocket raised that cash to sell a screenless, buttonless AI device that silently transcribes your meetings while your hands stay free. No typing, no phone, just a box on the table.\n\nIt doesn’t just record—it links ideas across conversations, so patterns emerge without you lifting a finger. 🤫\n\nFor creators, this means the friction of capturing thoughts disappears. You stop breaking flow to jot things down.\n\nRecord your next stand-up without touching your phone. Does the saved transcript actually save you more time than reviewing it costs? 📝",
+    "carousel_slides": [
+      {
+        "hook": "Your hands never touch a button.",
+        "description": "Pocket raised $11M for AI devices that capture thoughts silently, no screens or typing needed.",
+        "visual_hint": "Hands-free device on table",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "white device table"
+      },
+      {
+        "hook": "No screens, no typing.",
+        "description": "The device listens and stores without your input, freeing your hands for real work.",
+        "visual_hint": "Device with no display",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "minimalist gadget side",
+        "image": "https://images.pexels.com/photos/13570168/pexels-photo-13570168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The meeting you never recorded.",
+        "description": "Set it down and walk away; every word is transcribed instantly with zero effort.",
+        "visual_hint": "Device recording meeting",
+        "layout_type": "sensor-zoom",
+        "icon": "tag",
+        "image_query": "microphone close up",
+        "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Patterns you never noticed.",
+        "description": "It links ideas across conversations, revealing connections your notes miss.",
+        "visual_hint": "Connected dots network",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "network diagram lines",
+        "image": "https://images.pexels.com/photos/15559030/pexels-photo-15559030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it on your next stand-up.",
+        "description": "Record one meeting without touching your phone and see if the transcript saves you time.",
+        "visual_hint": "Phone in pocket ignored",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "people standing meeting",
+        "image": "https://images.pexels.com/photos/7876750/pexels-photo-7876750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pocket-gadget.jpg?resize=1200,675",
+    "savedAt": "2026-06-29T22:48:32.891Z",
+    "sourceId": "acb3e054371b0b84cf4ea5cac7024506"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "cursor-now-has-a-mobile-app-for-guiding-your-codin",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+    "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+    "pubDate": "Mon, 29 Jun 2026 17:03:50 +0000",
+    "slides": [
+      "Cursor launches mobile app for on-the-go agent control.",
+      "What coding can you actually trigger from your phone?",
+      "Not full IDE—just agent steering while you're away.",
+      "Start or pause tasks without opening your laptop.",
+      "Test it today: push a small fix from your phone."
+    ],
+    "thread_text": [
+      "1. Code from your couch?\n\nCursor's new mobile app lets you trigger real coding tasks without a laptop. No emulator—just agent steering.",
+      "2. Not a full IDE.\n\nYou’re not writing lines—you’re pointing the agent at a bug and saying go. The heavy lift happens on a remote machine.",
+      "3. Start or pause mid-commute.\n\nPush a button to kick off a test suite or stop a deploy from your phone. No keyboard required.",
+      "4. The catch: trust the agent.\n\nIf you can’t review the code before it runs, who catches the mistake? The app assumes the agent knows the context.",
+      "5. Test it on a tiny fix today.\n\nPick a one-line bug in your repo, push the change from your phone. Does it feel like control or just delegation?"
+    ],
+    "video_script": [
+      "Cursor now runs on your phone.",
+      "Steer coding agents without a laptop.",
+      "Start or pause tasks remotely.",
+      "It's not a full mobile IDE.",
+      "Test a small fix from your phone."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Code from your couch?\n\nCursor's new mobile app lets you trigger real coding tasks without a laptop. No emulator—just agent steering.",
+          "2. Not a full IDE.\n\nYou’re not writing lines—you’re pointing the agent at a bug and saying go. The heavy lift happens on a remote machine.",
+          "3. Start or pause mid-commute.\n\nPush a button to kick off a test suite or stop a deploy from your phone. No keyboard required.",
+          "4. The catch: trust the agent.\n\nIf you can’t review the code before it runs, who catches the mistake? The app assumes the agent knows the context.",
+          "5. Test it on a tiny fix today.\n\nPick a one-line bug in your repo, push the change from your phone. Does it feel like control or just delegation?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Cursor now runs on your phone.",
+          "Steer coding agents without a laptop.",
+          "Start or pause tasks remotely.",
+          "It's not a full mobile IDE.",
+          "Test a small fix from your phone."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now kick off a coding task from your phone without opening your laptop. 🛋️\n\nCursor's new mobile app doesn't run a full IDE—it lets you steer an agent remotely. Start a test suite, pause a deploy, or trigger a small fix while you're away from your desk. The heavy code work happens on a remote machine.\n\nFor you, this means you can push a one-line bug fix from your phone. But the trade-off: you're trusting the agent to get the context right without reviewing the code first.\n\nPick a tiny bug in your repo right now—does tapping \"push\" feel like control, or are you just delegating? 🧐"
+      }
+    },
+    "instagram_caption": "You can now kick off a coding task from your phone without opening your laptop. 🛋️\n\nCursor's new mobile app doesn't run a full IDE—it lets you steer an agent remotely. Start a test suite, pause a deploy, or trigger a small fix while you're away from your desk. The heavy code work happens on a remote machine.\n\nFor you, this means you can push a one-line bug fix from your phone. But the trade-off: you're trusting the agent to get the context right without reviewing the code first.\n\nPick a tiny bug in your repo right now—does tapping \"push\" feel like control, or are you just delegating? 🧐",
+    "carousel_slides": [
+      {
+        "hook": "Code from your phone?",
+        "description": "Cursor's new mobile app lets you trigger real coding agent tasks without a laptop.",
+        "visual_hint": "Phone showing code interface",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone code screen"
+      },
+      {
+        "hook": "Not a full IDE.",
+        "description": "Point the agent at a bug and say go. The heavy lift happens on a remote machine.",
+        "visual_hint": "Agent targeting a bug",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "remote server rack",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Start tasks mid-commute.",
+        "description": "Push a button to kick off a test suite or stop a deploy from your phone.",
+        "visual_hint": "Thumb pressing action button",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "commuter train phone",
+        "image": "https://images.pexels.com/photos/12911890/pexels-photo-12911890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Can you trust the agent?",
+        "description": "Without reviewing code first, who catches mistakes? The app assumes the agent knows context.",
+        "visual_hint": "Question mark over phone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding phone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try a tiny fix today.",
+        "description": "Pick a one-line bug in your repo and push the change from your phone. Save this to test later.",
+        "visual_hint": "One-line code edit",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "code editor lines",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
+    "savedAt": "2026-06-29T22:48:19.657Z",
+    "sourceId": "f954e68bcb48f19d3afa8debc2eb1b7b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "gemini-s-personalized-ai-image-generation-is-now-f",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Gemini’s personalized AI image generation is now free for US users",
+    "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "pubDate": "Mon, 29 Jun 2026 20:12:59 +0000",
+    "slides": [
+      "Gemini now generates images for free—but what’s the catch?",
+      "It adapts images to your past conversations and preferences.",
+      "Only US users get this—and it learns from your data.",
+      "You can generate a custom avatar without design skills.",
+      "Test it now—ask for your own portrait and check the result."
+    ],
+    "thread_text": [
+      "1. Free images with a price\n\nGemini now generates visuals for free — but it mines your chat history to tailor them.",
+      "2. Hidden data learning\n\nOnly US users get access, where the feature learns from your personal data and past conversations.",
+      "3. Custom avatars unlocked\n\nYou can generate a custom portrait without any design skill — just type your request.",
+      "4. What it really costs\n\nYour preferences shape every image, meaning the AI builds a profile from your prompts.",
+      "5. Test it yourself now\n\nAsk Gemini for your own portrait today and check if you're comfortable with what it remembers."
+    ],
+    "video_script": [
+      "Gemini gives free images now.",
+      "But it learns your past chats.",
+      "Only US users get this feature.",
+      "You can make an avatar easily.",
+      "Test it and see the catch."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Free images with a price\n\nGemini now generates visuals for free — but it mines your chat history to tailor them.",
+          "2. Hidden data learning\n\nOnly US users get access, where the feature learns from your personal data and past conversations.",
+          "3. Custom avatars unlocked\n\nYou can generate a custom portrait without any design skill — just type your request.",
+          "4. What it really costs\n\nYour preferences shape every image, meaning the AI builds a profile from your prompts.",
+          "5. Test it yourself now\n\nAsk Gemini for your own portrait today and check if you're comfortable with what it remembers."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Gemini gives free images now.",
+          "But it learns your past chats.",
+          "Only US users get this feature.",
+          "You can make an avatar easily.",
+          "Test it and see the catch."
+        ]
+      },
+      "instagram": {
+        "caption": "Your past conversations with Gemini are now being used to generate personalized images for free — but only if you're in the US. 🖼️\n\nIt learns your preferences and chat history to tailor every image it creates, from custom avatars to portraits. No design skills needed — just type your request.\n\nFor anyone making content, this cuts the time spent on visuals, but your prompts are building a profile of your style and habits. 🤖\n\nTry asking for your own portrait — are you okay with what it remembers about you?"
+      }
+    },
+    "instagram_caption": "Your past conversations with Gemini are now being used to generate personalized images for free — but only if you're in the US. 🖼️\n\nIt learns your preferences and chat history to tailor every image it creates, from custom avatars to portraits. No design skills needed — just type your request.\n\nFor anyone making content, this cuts the time spent on visuals, but your prompts are building a profile of your style and habits. 🤖\n\nTry asking for your own portrait — are you okay with what it remembers about you?",
+    "carousel_slides": [
+      {
+        "hook": "Free images? Your data pays.",
+        "description": "Gemini generates free images but mines your chat history to tailor them.",
+        "visual_hint": "Data streams crossing",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Only US users get it.",
+        "description": "The feature learns from your personal data and past conversations.",
+        "visual_hint": "Map of USA highlighted",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "USA map",
+        "image": "https://images.pexels.com/photos/20240697/pexels-photo-20240697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Custom avatar without skills.",
+        "description": "You can generate a custom portrait just by typing your request.",
+        "visual_hint": "Phone showing avatar",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Every image builds your profile.",
+        "description": "Your preferences shape every image, meaning the AI profiles you from prompts.",
+        "visual_hint": "Data points connecting",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test Gemini.",
+        "description": "Ask Gemini for your portrait today; see what it remembers.",
+        "visual_hint": "Finger pressing button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person typing",
+        "image": "https://images.pexels.com/photos/7970678/pexels-photo-7970678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472.jpg?w=1024",
+    "savedAt": "2026-06-29T22:48:06.289Z",
+    "sourceId": "6e26addce97b6e65249a9412b5da2573"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "arena-the-ai-leaderboard-everyone-uses-is-now-a-10",
     "prompt_version": "1.0.0",
     "status": "published",

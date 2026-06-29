@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cursor-now-has-a-mobile-app-for-guiding-your-codin",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+  "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+  "pubDate": "Mon, 29 Jun 2026 17:03:50 +0000",
+  "slides": [
+    "Cursor launches mobile app for on-the-go agent control.",
+    "What coding can you actually trigger from your phone?",
+    "Not full IDE—just agent steering while you're away.",
+    "Start or pause tasks without opening your laptop.",
+    "Test it today: push a small fix from your phone."
+  ],
+  "thread_text": [
+    "1. Code from your couch?\n\nCursor's new mobile app lets you trigger real coding tasks without a laptop. No emulator—just agent steering.",
+    "2. Not a full IDE.\n\nYou’re not writing lines—you’re pointing the agent at a bug and saying go. The heavy lift happens on a remote machine.",
+    "3. Start or pause mid-commute.\n\nPush a button to kick off a test suite or stop a deploy from your phone. No keyboard required.",
+    "4. The catch: trust the agent.\n\nIf you can’t review the code before it runs, who catches the mistake? The app assumes the agent knows the context.",
+    "5. Test it on a tiny fix today.\n\nPick a one-line bug in your repo, push the change from your phone. Does it feel like control or just delegation?"
+  ],
+  "video_script": [
+    "Cursor now runs on your phone.",
+    "Steer coding agents without a laptop.",
+    "Start or pause tasks remotely.",
+    "It's not a full mobile IDE.",
+    "Test a small fix from your phone."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Code from your couch?\n\nCursor's new mobile app lets you trigger real coding tasks without a laptop. No emulator—just agent steering.",
+        "2. Not a full IDE.\n\nYou’re not writing lines—you’re pointing the agent at a bug and saying go. The heavy lift happens on a remote machine.",
+        "3. Start or pause mid-commute.\n\nPush a button to kick off a test suite or stop a deploy from your phone. No keyboard required.",
+        "4. The catch: trust the agent.\n\nIf you can’t review the code before it runs, who catches the mistake? The app assumes the agent knows the context.",
+        "5. Test it on a tiny fix today.\n\nPick a one-line bug in your repo, push the change from your phone. Does it feel like control or just delegation?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Cursor now runs on your phone.",
+        "Steer coding agents without a laptop.",
+        "Start or pause tasks remotely.",
+        "It's not a full mobile IDE.",
+        "Test a small fix from your phone."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now kick off a coding task from your phone without opening your laptop. 🛋️\n\nCursor's new mobile app doesn't run a full IDE—it lets you steer an agent remotely. Start a test suite, pause a deploy, or trigger a small fix while you're away from your desk. The heavy code work happens on a remote machine.\n\nFor you, this means you can push a one-line bug fix from your phone. But the trade-off: you're trusting the agent to get the context right without reviewing the code first.\n\nPick a tiny bug in your repo right now—does tapping \"push\" feel like control, or are you just delegating? 🧐"
+    }
+  },
+  "instagram_caption": "You can now kick off a coding task from your phone without opening your laptop. 🛋️\n\nCursor's new mobile app doesn't run a full IDE—it lets you steer an agent remotely. Start a test suite, pause a deploy, or trigger a small fix while you're away from your desk. The heavy code work happens on a remote machine.\n\nFor you, this means you can push a one-line bug fix from your phone. But the trade-off: you're trusting the agent to get the context right without reviewing the code first.\n\nPick a tiny bug in your repo right now—does tapping \"push\" feel like control, or are you just delegating? 🧐",
+  "carousel_slides": [
+    {
+      "hook": "Code from your phone?",
+      "description": "Cursor's new mobile app lets you trigger real coding agent tasks without a laptop.",
+      "visual_hint": "Phone showing code interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone code screen"
+    },
+    {
+      "hook": "Not a full IDE.",
+      "description": "Point the agent at a bug and say go. The heavy lift happens on a remote machine.",
+      "visual_hint": "Agent targeting a bug",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "remote server rack",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Start tasks mid-commute.",
+      "description": "Push a button to kick off a test suite or stop a deploy from your phone.",
+      "visual_hint": "Thumb pressing action button",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "commuter train phone",
+      "image": "https://images.pexels.com/photos/12911890/pexels-photo-12911890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can you trust the agent?",
+      "description": "Without reviewing code first, who catches mistakes? The app assumes the agent knows context.",
+      "visual_hint": "Question mark over phone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding phone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try a tiny fix today.",
+      "description": "Pick a one-line bug in your repo and push the change from your phone. Save this to test later.",
+      "visual_hint": "One-line code edit",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "code editor lines",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
+  "savedAt": "2026-06-29T22:48:19.657Z",
+  "sourceId": "f954e68bcb48f19d3afa8debc2eb1b7b"
+}

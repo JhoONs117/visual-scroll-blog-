@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "pocket-raises-11m-in-bet-on-rising-demand-for-ai-n",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
+  "link": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
+  "pubDate": "Mon, 29 Jun 2026 13:16:00 +0000",
+  "slides": [
+    "Is your note-taking setup making you less productive?",
+    "Pocket just raised $11 million for AI devices.",
+    "But they promise no screens and zero typing.",
+    "Your hands stay free; thoughts get captured silently.",
+    "Try recording a meeting without touching your phone."
+  ],
+  "thread_text": [
+    "1. Your notes are lying to you\n\nPocket just raised $11 million to replace them with silent AI devices that capture thoughts while your hands stay free.",
+    "2. No screens, no typing\n\nYou will never tap a button. The device listens, processes, and stores without your input.",
+    "3. The meeting you forgot\n\nSet it on the table and walk away. Every word is transcribed instantly, zero effort on your part.",
+    "4. Context without context\n\nIt doesn't just record — it links ideas across conversations. Patterns emerge you never noticed.",
+    "5. Try it on your next stand-up\n\nRecord one meeting without touching your phone. Does the transcript save you more time than it costs to review?"
+  ],
+  "video_script": [
+    "Pocket raised eleven million for silent AI.",
+    "No screens and no typing required.",
+    "Hands stay free; thoughts captured silently.",
+    "Record a meeting without touching anything.",
+    "Will the transcript save you editing time?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your notes are lying to you\n\nPocket just raised $11 million to replace them with silent AI devices that capture thoughts while your hands stay free.",
+        "2. No screens, no typing\n\nYou will never tap a button. The device listens, processes, and stores without your input.",
+        "3. The meeting you forgot\n\nSet it on the table and walk away. Every word is transcribed instantly, zero effort on your part.",
+        "4. Context without context\n\nIt doesn't just record — it links ideas across conversations. Patterns emerge you never noticed.",
+        "5. Try it on your next stand-up\n\nRecord one meeting without touching your phone. Does the transcript save you more time than it costs to review?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Pocket raised eleven million for silent AI.",
+        "No screens and no typing required.",
+        "Hands stay free; thoughts captured silently.",
+        "Record a meeting without touching anything.",
+        "Will the transcript save you editing time?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your note-taking setup just lost an $11 million bet against you. 💸\n\nPocket raised that cash to sell a screenless, buttonless AI device that silently transcribes your meetings while your hands stay free. No typing, no phone, just a box on the table.\n\nIt doesn’t just record—it links ideas across conversations, so patterns emerge without you lifting a finger. 🤫\n\nFor creators, this means the friction of capturing thoughts disappears. You stop breaking flow to jot things down.\n\nRecord your next stand-up without touching your phone. Does the saved transcript actually save you more time than reviewing it costs? 📝"
+    }
+  },
+  "instagram_caption": "Your note-taking setup just lost an $11 million bet against you. 💸\n\nPocket raised that cash to sell a screenless, buttonless AI device that silently transcribes your meetings while your hands stay free. No typing, no phone, just a box on the table.\n\nIt doesn’t just record—it links ideas across conversations, so patterns emerge without you lifting a finger. 🤫\n\nFor creators, this means the friction of capturing thoughts disappears. You stop breaking flow to jot things down.\n\nRecord your next stand-up without touching your phone. Does the saved transcript actually save you more time than reviewing it costs? 📝",
+  "carousel_slides": [
+    {
+      "hook": "Your hands never touch a button.",
+      "description": "Pocket raised $11M for AI devices that capture thoughts silently, no screens or typing needed.",
+      "visual_hint": "Hands-free device on table",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "white device table"
+    },
+    {
+      "hook": "No screens, no typing.",
+      "description": "The device listens and stores without your input, freeing your hands for real work.",
+      "visual_hint": "Device with no display",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "minimalist gadget side",
+      "image": "https://images.pexels.com/photos/13570168/pexels-photo-13570168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The meeting you never recorded.",
+      "description": "Set it down and walk away; every word is transcribed instantly with zero effort.",
+      "visual_hint": "Device recording meeting",
+      "layout_type": "sensor-zoom",
+      "icon": "tag",
+      "image_query": "microphone close up",
+      "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Patterns you never noticed.",
+      "description": "It links ideas across conversations, revealing connections your notes miss.",
+      "visual_hint": "Connected dots network",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "network diagram lines",
+      "image": "https://images.pexels.com/photos/15559030/pexels-photo-15559030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it on your next stand-up.",
+      "description": "Record one meeting without touching your phone and see if the transcript saves you time.",
+      "visual_hint": "Phone in pocket ignored",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "people standing meeting",
+      "image": "https://images.pexels.com/photos/7876750/pexels-photo-7876750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pocket-gadget.jpg?resize=1200,675",
+  "savedAt": "2026-06-29T22:48:32.891Z",
+  "sourceId": "acb3e054371b0b84cf4ea5cac7024506"
+}
