@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "arena-the-ai-leaderboard-everyone-uses-is-now-a-10",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+    "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+    "pubDate": "Mon, 29 Jun 2026 17:39:17 +0000",
+    "slides": [
+      "Arena made $100M ranking models. Who's next?",
+      "It started as a hobby comparing chatbots.",
+      "But enterprises now pay for its private leaderboards.",
+      "You can test your models against real users today.",
+      "Stop guessing—let user votes pick your AI."
+    ],
+    "thread_text": [
+      "1. $100M for rankings\n\nA startup made 100 million dollars ranking AI models. That's not a valuation—it's revenue.",
+      "2. It was a hobby\n\nA side project comparing chatbots turned into a business. Now enterprises pay for private leaderboards.",
+      "3. Test with real users\n\nYou don't need benchmarks anymore. Just feed your model to real users and let them vote.",
+      "4. User votes decide\n\nStop guessing which model is better. Let thousands of user votes pick your next AI.",
+      "5. Try it this week\n\nSubmit a model to Arena's platform today. Run one test against real users—see who wins."
+    ],
+    "video_script": [
+      "Arena made a hundred million ranking AI models.",
+      "It started as a hobby comparing chatbots.",
+      "Now enterprises pay for private leaderboards.",
+      "Test your model against real users today.",
+      "Let user votes pick your best AI."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $100M for rankings\n\nA startup made 100 million dollars ranking AI models. That's not a valuation—it's revenue.",
+          "2. It was a hobby\n\nA side project comparing chatbots turned into a business. Now enterprises pay for private leaderboards.",
+          "3. Test with real users\n\nYou don't need benchmarks anymore. Just feed your model to real users and let them vote.",
+          "4. User votes decide\n\nStop guessing which model is better. Let thousands of user votes pick your next AI.",
+          "5. Try it this week\n\nSubmit a model to Arena's platform today. Run one test against real users—see who wins."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Arena made a hundred million ranking AI models.",
+          "It started as a hobby comparing chatbots.",
+          "Now enterprises pay for private leaderboards.",
+          "Test your model against real users today.",
+          "Let user votes pick your best AI."
+        ]
+      },
+      "instagram": {
+        "caption": "An AI model ranking site just hit $100M in revenue—from subscriptions alone. 🏆\n\nIt started as a hobby comparing chatbots. Now enterprises pay for private leaderboards where real users vote on which model wins. 🤖\n\nYou don't need benchmarks anymore. Submit your model, run it against real people, and let thousands of votes pick your winner.\n\nWhat's your next move: keep guessing or test your AI against live users this week?"
+      }
+    },
+    "instagram_caption": "An AI model ranking site just hit $100M in revenue—from subscriptions alone. 🏆\n\nIt started as a hobby comparing chatbots. Now enterprises pay for private leaderboards where real users vote on which model wins. 🤖\n\nYou don't need benchmarks anymore. Submit your model, run it against real people, and let thousands of votes pick your winner.\n\nWhat's your next move: keep guessing or test your AI against live users this week?",
+    "carousel_slides": [
+      {
+        "hook": "$100M ranking AI models",
+        "description": "A startup made $100M in revenue just by ranking AI models. That's not valuation—it's real money.",
+        "visual_hint": "Dollar chart trending up",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Started as a hobby",
+        "description": "It began as a side project comparing chatbots. Now enterprises pay for private leaderboards.",
+        "visual_hint": "Code on laptop screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "laptop coding desk",
+        "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test with real users",
+        "description": "Forget benchmarks. Feed your model to real users and let their votes decide the winner.",
+        "visual_hint": "Multiple hands voting",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "people raising hands",
+        "image": "https://images.pexels.com/photos/14373415/pexels-photo-14373415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "User votes decide",
+        "description": "Stop guessing which AI is better. Let thousands of user votes pick your next model.",
+        "visual_hint": "Checkmark on leaderboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "leaderboard trophy",
+        "image": "https://images.pexels.com/photos/6532362/pexels-photo-6532362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it this week",
+        "description": "Submit your model to Arena today. Run one test against real users and see who wins.",
+        "visual_hint": "Arrow clicking button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "website submit button",
+        "image": "https://images.pexels.com/photos/18096282/pexels-photo-18096282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
+    "savedAt": "2026-06-29T21:18:19.232Z",
+    "sourceId": "917b29e0a7c151052a2af0119774b387"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "chamath-palihapitiya-raises-135m-series-a-for-his-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+    "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+    "pubDate": "Mon, 29 Jun 2026 20:55:50 +0000",
+    "slides": [
+      "Chamath Palihapitiya raised $135M for what?",
+      "His startup builds AI that writes production code.",
+      "He took the CEO role—not just an investor.",
+      "You can now deploy AI-generated code safely.",
+      "Test one function today to see if it holds."
+    ],
+    "thread_text": [
+      "1. CEO, not just money\n\nHe didn’t just write a check. Chamath Palihapitiya took the CEO role of his own $135M bet.",
+      "2. Builds code with AI\n\nThe startup makes an AI that writes production-ready software. No human junior dev needed.",
+      "3. Safe deploy, finally\n\nThey solved the safety gap. You can now push AI-generated code to production without rewriting it.",
+      "4. One function test\n\nA single function is all it takes to verify. Run it against your real stack today.",
+      "5. Will you test it?\n\nOpen their playground. Pick one function you wrote last week. Does the AI beat your version? Try it."
+    ],
+    "video_script": [
+      "Chamath raised one hundred thirty-five million.",
+      "His AI writes code for production systems.",
+      "He stepped in as CEO, not investor.",
+      "Now you can deploy AI code safely.",
+      "Test one function today to decide."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. CEO, not just money\n\nHe didn’t just write a check. Chamath Palihapitiya took the CEO role of his own $135M bet.",
+          "2. Builds code with AI\n\nThe startup makes an AI that writes production-ready software. No human junior dev needed.",
+          "3. Safe deploy, finally\n\nThey solved the safety gap. You can now push AI-generated code to production without rewriting it.",
+          "4. One function test\n\nA single function is all it takes to verify. Run it against your real stack today.",
+          "5. Will you test it?\n\nOpen their playground. Pick one function you wrote last week. Does the AI beat your version? Try it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Chamath raised one hundred thirty-five million.",
+          "His AI writes code for production systems.",
+          "He stepped in as CEO, not investor.",
+          "Now you can deploy AI code safely.",
+          "Test one function today to decide."
+        ]
+      },
+      "instagram": {
+        "caption": "A single startup just raised $135 million to build AI that writes production code, and its lead investor decided to run the company himself.\n\nChamath Palihapitiya isn’t just writing a check—he took the CEO role. His company’s AI now creates software ready for deployment without a human rewriting it 🛠️. They closed the safety gap that kept AI-generated code out of live systems.\n\nFor developers, this means you can push AI-written code directly to production.\n\nWill you open their playground today and test one function you wrote last week against it? 🧪"
+      }
+    },
+    "instagram_caption": "A single startup just raised $135 million to build AI that writes production code, and its lead investor decided to run the company himself.\n\nChamath Palihapitiya isn’t just writing a check—he took the CEO role. His company’s AI now creates software ready for deployment without a human rewriting it 🛠️. They closed the safety gap that kept AI-generated code out of live systems.\n\nFor developers, this means you can push AI-written code directly to production.\n\nWill you open their playground today and test one function you wrote last week against it? 🧪",
+    "carousel_slides": [
+      {
+        "hook": "He took the CEO role.",
+        "description": "Chamath Palihapitiya raised $135M and became CEO of his AI coding startup, not just an investor.",
+        "visual_hint": "Chamath Palihapitiya at desk",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "venture capitalist office"
+      },
+      {
+        "hook": "AI coding without humans.",
+        "description": "This startup builds AI that writes production-ready software, replacing junior developers entirely.",
+        "visual_hint": "AI code on screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "code on monitor",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Safe deploy to production.",
+        "description": "They solved the safety gap, so AI-generated code can go live without manual rewriting.",
+        "visual_hint": "green deploy button",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one function now.",
+        "description": "Run a single function against your real stack to verify if the AI beats your version.",
+        "visual_hint": "hand clicking test",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person typing keyboard",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it now in bio.",
+        "description": "Open their playground, pick one function you wrote last week, and see if the AI outperforms it.",
+        "visual_hint": "phone with playground",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+    "savedAt": "2026-06-29T21:18:08.434Z",
+    "sourceId": "465bbcda8556e4f2fff530557f7f68b0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "suno-launches-spark-incubator-program-to-feed-inde",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "arena-the-ai-leaderboard-everyone-uses-is-now-a-10",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+  "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+  "pubDate": "Mon, 29 Jun 2026 17:39:17 +0000",
+  "slides": [
+    "Arena made $100M ranking models. Who's next?",
+    "It started as a hobby comparing chatbots.",
+    "But enterprises now pay for its private leaderboards.",
+    "You can test your models against real users today.",
+    "Stop guessing—let user votes pick your AI."
+  ],
+  "thread_text": [
+    "1. $100M for rankings\n\nA startup made 100 million dollars ranking AI models. That's not a valuation—it's revenue.",
+    "2. It was a hobby\n\nA side project comparing chatbots turned into a business. Now enterprises pay for private leaderboards.",
+    "3. Test with real users\n\nYou don't need benchmarks anymore. Just feed your model to real users and let them vote.",
+    "4. User votes decide\n\nStop guessing which model is better. Let thousands of user votes pick your next AI.",
+    "5. Try it this week\n\nSubmit a model to Arena's platform today. Run one test against real users—see who wins."
+  ],
+  "video_script": [
+    "Arena made a hundred million ranking AI models.",
+    "It started as a hobby comparing chatbots.",
+    "Now enterprises pay for private leaderboards.",
+    "Test your model against real users today.",
+    "Let user votes pick your best AI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $100M for rankings\n\nA startup made 100 million dollars ranking AI models. That's not a valuation—it's revenue.",
+        "2. It was a hobby\n\nA side project comparing chatbots turned into a business. Now enterprises pay for private leaderboards.",
+        "3. Test with real users\n\nYou don't need benchmarks anymore. Just feed your model to real users and let them vote.",
+        "4. User votes decide\n\nStop guessing which model is better. Let thousands of user votes pick your next AI.",
+        "5. Try it this week\n\nSubmit a model to Arena's platform today. Run one test against real users—see who wins."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Arena made a hundred million ranking AI models.",
+        "It started as a hobby comparing chatbots.",
+        "Now enterprises pay for private leaderboards.",
+        "Test your model against real users today.",
+        "Let user votes pick your best AI."
+      ]
+    },
+    "instagram": {
+      "caption": "An AI model ranking site just hit $100M in revenue—from subscriptions alone. 🏆\n\nIt started as a hobby comparing chatbots. Now enterprises pay for private leaderboards where real users vote on which model wins. 🤖\n\nYou don't need benchmarks anymore. Submit your model, run it against real people, and let thousands of votes pick your winner.\n\nWhat's your next move: keep guessing or test your AI against live users this week?"
+    }
+  },
+  "instagram_caption": "An AI model ranking site just hit $100M in revenue—from subscriptions alone. 🏆\n\nIt started as a hobby comparing chatbots. Now enterprises pay for private leaderboards where real users vote on which model wins. 🤖\n\nYou don't need benchmarks anymore. Submit your model, run it against real people, and let thousands of votes pick your winner.\n\nWhat's your next move: keep guessing or test your AI against live users this week?",
+  "carousel_slides": [
+    {
+      "hook": "$100M ranking AI models",
+      "description": "A startup made $100M in revenue just by ranking AI models. That's not valuation—it's real money.",
+      "visual_hint": "Dollar chart trending up",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Started as a hobby",
+      "description": "It began as a side project comparing chatbots. Now enterprises pay for private leaderboards.",
+      "visual_hint": "Code on laptop screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laptop coding desk",
+      "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test with real users",
+      "description": "Forget benchmarks. Feed your model to real users and let their votes decide the winner.",
+      "visual_hint": "Multiple hands voting",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "people raising hands",
+      "image": "https://images.pexels.com/photos/14373415/pexels-photo-14373415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "User votes decide",
+      "description": "Stop guessing which AI is better. Let thousands of user votes pick your next model.",
+      "visual_hint": "Checkmark on leaderboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "leaderboard trophy",
+      "image": "https://images.pexels.com/photos/6532362/pexels-photo-6532362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it this week",
+      "description": "Submit your model to Arena today. Run one test against real users and see who wins.",
+      "visual_hint": "Arrow clicking button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "website submit button",
+      "image": "https://images.pexels.com/photos/18096282/pexels-photo-18096282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
+  "savedAt": "2026-06-29T21:18:19.232Z",
+  "sourceId": "917b29e0a7c151052a2af0119774b387"
+}

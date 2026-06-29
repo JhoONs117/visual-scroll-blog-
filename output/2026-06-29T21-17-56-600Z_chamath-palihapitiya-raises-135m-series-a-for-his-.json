@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chamath-palihapitiya-raises-135m-series-a-for-his-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+  "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+  "pubDate": "Mon, 29 Jun 2026 20:55:50 +0000",
+  "slides": [
+    "Chamath Palihapitiya raised $135M for what?",
+    "His startup builds AI that writes production code.",
+    "He took the CEO role—not just an investor.",
+    "You can now deploy AI-generated code safely.",
+    "Test one function today to see if it holds."
+  ],
+  "thread_text": [
+    "1. CEO, not just money\n\nHe didn’t just write a check. Chamath Palihapitiya took the CEO role of his own $135M bet.",
+    "2. Builds code with AI\n\nThe startup makes an AI that writes production-ready software. No human junior dev needed.",
+    "3. Safe deploy, finally\n\nThey solved the safety gap. You can now push AI-generated code to production without rewriting it.",
+    "4. One function test\n\nA single function is all it takes to verify. Run it against your real stack today.",
+    "5. Will you test it?\n\nOpen their playground. Pick one function you wrote last week. Does the AI beat your version? Try it."
+  ],
+  "video_script": [
+    "Chamath raised one hundred thirty-five million.",
+    "His AI writes code for production systems.",
+    "He stepped in as CEO, not investor.",
+    "Now you can deploy AI code safely.",
+    "Test one function today to decide."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. CEO, not just money\n\nHe didn’t just write a check. Chamath Palihapitiya took the CEO role of his own $135M bet.",
+        "2. Builds code with AI\n\nThe startup makes an AI that writes production-ready software. No human junior dev needed.",
+        "3. Safe deploy, finally\n\nThey solved the safety gap. You can now push AI-generated code to production without rewriting it.",
+        "4. One function test\n\nA single function is all it takes to verify. Run it against your real stack today.",
+        "5. Will you test it?\n\nOpen their playground. Pick one function you wrote last week. Does the AI beat your version? Try it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Chamath raised one hundred thirty-five million.",
+        "His AI writes code for production systems.",
+        "He stepped in as CEO, not investor.",
+        "Now you can deploy AI code safely.",
+        "Test one function today to decide."
+      ]
+    },
+    "instagram": {
+      "caption": "A single startup just raised $135 million to build AI that writes production code, and its lead investor decided to run the company himself.\n\nChamath Palihapitiya isn’t just writing a check—he took the CEO role. His company’s AI now creates software ready for deployment without a human rewriting it 🛠️. They closed the safety gap that kept AI-generated code out of live systems.\n\nFor developers, this means you can push AI-written code directly to production.\n\nWill you open their playground today and test one function you wrote last week against it? 🧪"
+    }
+  },
+  "instagram_caption": "A single startup just raised $135 million to build AI that writes production code, and its lead investor decided to run the company himself.\n\nChamath Palihapitiya isn’t just writing a check—he took the CEO role. His company’s AI now creates software ready for deployment without a human rewriting it 🛠️. They closed the safety gap that kept AI-generated code out of live systems.\n\nFor developers, this means you can push AI-written code directly to production.\n\nWill you open their playground today and test one function you wrote last week against it? 🧪",
+  "carousel_slides": [
+    {
+      "hook": "He took the CEO role.",
+      "description": "Chamath Palihapitiya raised $135M and became CEO of his AI coding startup, not just an investor.",
+      "visual_hint": "Chamath Palihapitiya at desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "venture capitalist office"
+    },
+    {
+      "hook": "AI coding without humans.",
+      "description": "This startup builds AI that writes production-ready software, replacing junior developers entirely.",
+      "visual_hint": "AI code on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "code on monitor",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Safe deploy to production.",
+      "description": "They solved the safety gap, so AI-generated code can go live without manual rewriting.",
+      "visual_hint": "green deploy button",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one function now.",
+      "description": "Run a single function against your real stack to verify if the AI beats your version.",
+      "visual_hint": "hand clicking test",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it now in bio.",
+      "description": "Open their playground, pick one function you wrote last week, and see if the AI outperforms it.",
+      "visual_hint": "phone with playground",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+  "savedAt": "2026-06-29T21:18:08.434Z",
+  "sourceId": "465bbcda8556e4f2fff530557f7f68b0"
+}
