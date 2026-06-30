@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-launches-claude-sonnet-5-as-a-cheaper-wa",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+  "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+  "pubDate": "Tue, 30 Jun 2026 18:00:00 +0000",
+  "slides": [
+    "Is your AI agent budget about to drop?",
+    "Claude Sonnet 5 runs at half the cost.",
+    "It matches Claude Opus on many benchmarks.",
+    "You can now deploy more agents for less.",
+    "Test Sonnet 5 against your current setup today."
+  ],
+  "thread_text": [
+    "1. Is your AI budget about to drop?\n\nClaude Sonnet 5 costs half of previous versions, matching Opus-level benchmarks.",
+    "2. Half the price, same performance.\n\nNo trade-off in accuracy for the cost cut—benchmarks show parity with the premium tier.",
+    "3. More agents, same spend.\n\nYour fixed cloud budget now funds double the concurrent AI agents.",
+    "4. Opus parity, without the premium.\n\nEnterprise teams can replace expensive Opus calls with Sonnet 5 for most tasks.",
+    "5. Test Sonnet 5 against your current setup today.\n\nRun a real prompt on your existing agent, then swap to Sonnet 5 and compare outputs side by side."
+  ],
+  "video_script": [
+    "Half the cost, same AI power.",
+    "Your agent budget just doubled.",
+    "No more premium pricing lock-in.",
+    "Deploy more agents for less.",
+    "Test Sonnet 5 against your stack now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Is your AI budget about to drop?\n\nClaude Sonnet 5 costs half of previous versions, matching Opus-level benchmarks.",
+        "2. Half the price, same performance.\n\nNo trade-off in accuracy for the cost cut—benchmarks show parity with the premium tier.",
+        "3. More agents, same spend.\n\nYour fixed cloud budget now funds double the concurrent AI agents.",
+        "4. Opus parity, without the premium.\n\nEnterprise teams can replace expensive Opus calls with Sonnet 5 for most tasks.",
+        "5. Test Sonnet 5 against your current setup today.\n\nRun a real prompt on your existing agent, then swap to Sonnet 5 and compare outputs side by side."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Half the cost, same AI power.",
+        "Your agent budget just doubled.",
+        "No more premium pricing lock-in.",
+        "Deploy more agents for less.",
+        "Test Sonnet 5 against your stack now."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI agent budget just got cut in half 💸\n\nAnthropic released Claude Sonnet 5 at half the cost of previous versions—matching their premium Opus model on key benchmarks. No performance drop for the price cut.\n\nFor the same cloud spend, you can now run twice as many concurrent agents. Enterprise teams can swap costly Opus calls for Sonnet 5 on most tasks.\n\nTry this: run a prompt on your current setup, then swap to Sonnet 5 and compare outputs side by side. What's your current agent costing you per task?"
+    }
+  },
+  "instagram_caption": "Your AI agent budget just got cut in half 💸\n\nAnthropic released Claude Sonnet 5 at half the cost of previous versions—matching their premium Opus model on key benchmarks. No performance drop for the price cut.\n\nFor the same cloud spend, you can now run twice as many concurrent agents. Enterprise teams can swap costly Opus calls for Sonnet 5 on most tasks.\n\nTry this: run a prompt on your current setup, then swap to Sonnet 5 and compare outputs side by side. What's your current agent costing you per task?",
+  "carousel_slides": [
+    {
+      "hook": "Double your agents for free?",
+      "description": "Claude Sonnet 5 runs at half the cost of previous versions while matching Opus-level benchmarks.",
+      "visual_hint": "Stack of money halves in size",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Half price, same accuracy.",
+      "description": "No trade-off in performance—benchmarks show parity with the premium tier.",
+      "visual_hint": "Scale balancing coins and stars",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "More agents, same budget.",
+      "description": "Your fixed cloud spend now funds double the concurrent AI agents.",
+      "visual_hint": "Graph bars doubling upward",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Opus parity without the premium.",
+      "description": "Enterprise teams can replace expensive Opus calls with Sonnet 5 for most tasks.",
+      "visual_hint": "Two identical puzzle pieces",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Sonnet 5 and save today.",
+      "description": "Run your current prompt, swap to Sonnet 5, compare outputs side by side.",
+      "visual_hint": "Split screen with two outputs",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+  "savedAt": "2026-06-30T19:44:14.972Z",
+  "sourceId": "302f40558b9493ab353ba3480f84a7f0"
+}

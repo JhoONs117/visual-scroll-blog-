@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "libby-will-filter-out-ai-content-kind-of",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Libby will filter out AI content, kind of",
+    "link": "https://www.theverge.com/column/959433/libby-ai-filter",
+    "pubDate": "2026-06-30T15:30:00.000Z",
+    "slides": [
+      "Libby promises to hide AI-generated books—but will it work?",
+      "A new filter flags titles suspected of AI authorship",
+      "But Libby relies on publisher self-reporting, not detection tech",
+      "You now see fewer AI books, but false positives slip through",
+      "Test the filter yourself—see what your library hides"
+    ],
+    "thread_text": [
+      "1. Will hiding AI books work?\n\nLibby's new filter flags AI-generated titles, but the system relies entirely on publishers labeling them honestly.",
+      "2. No detection tech involved\n\nThe filter doesn't scan text. It just shows or hides based on what publishers tell Libby, not what algorithms find.",
+      "3. False positives slip through\n\nHuman-written books get accidentally flagged as AI, and readers never see them. No appeal process mentioned.",
+      "4. Why not build a real detector?\n\nLibby chose self-reporting over technical checks. Easier to implement, but leaves the door open for bad actors.",
+      "5. Test your library's filter today\n\nOpen Libby, search for any author you know. Count how many books are hidden. Does the result surprise you?"
+    ],
+    "video_script": [
+      "Libby promises to hide AI books.",
+      "But relies on publisher self-reporting.",
+      "No detection tech is used.",
+      "False positives still slip through.",
+      "Test your library's filter today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Will hiding AI books work?\n\nLibby's new filter flags AI-generated titles, but the system relies entirely on publishers labeling them honestly.",
+          "2. No detection tech involved\n\nThe filter doesn't scan text. It just shows or hides based on what publishers tell Libby, not what algorithms find.",
+          "3. False positives slip through\n\nHuman-written books get accidentally flagged as AI, and readers never see them. No appeal process mentioned.",
+          "4. Why not build a real detector?\n\nLibby chose self-reporting over technical checks. Easier to implement, but leaves the door open for bad actors.",
+          "5. Test your library's filter today\n\nOpen Libby, search for any author you know. Count how many books are hidden. Does the result surprise you?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Libby promises to hide AI books.",
+          "But relies on publisher self-reporting.",
+          "No detection tech is used.",
+          "False positives still slip through.",
+          "Test your library's filter today."
+        ]
+      },
+      "instagram": {
+        "caption": "Libby's new AI filter doesn't actually scan text—it just hides books when publishers say \"this is AI.\"\n\nPublishers literally label their own books as AI. ⚠️ No detection tech, no scanning. Libby just takes their word for it.\n\nHuman-written books get flagged by accident with no appeal process. Real library searches now miss real books. 📚\n\nIf you publish on Libby, your book can be hidden without you ever knowing.\n\nOpen Libby right now and search for a random author you like—how many titles are missing from your results? 🔍"
+      }
+    },
+    "instagram_caption": "Libby's new AI filter doesn't actually scan text—it just hides books when publishers say \"this is AI.\"\n\nPublishers literally label their own books as AI. ⚠️ No detection tech, no scanning. Libby just takes their word for it.\n\nHuman-written books get flagged by accident with no appeal process. Real library searches now miss real books. 📚\n\nIf you publish on Libby, your book can be hidden without you ever knowing.\n\nOpen Libby right now and search for a random author you like—how many titles are missing from your results? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Can AI books really hide?",
+        "description": "Libby's new filter flags AI-generated books, but relies entirely on publishers labeling them honestly, not detection tech.",
+        "visual_hint": "question mark on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "library bookshelf"
+      },
+      {
+        "hook": "No scan, just trust",
+        "description": "The filter doesn't scan text—it shows or hides based on what publishers tell Libby, not algorithmic detection.",
+        "visual_hint": "book with redacted label",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "open book pages",
+        "image": "https://images.pexels.com/photos/31793138/pexels-photo-31793138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Real books get flagged",
+        "description": "Human-written books are accidentally hidden as AI, with no appeal process for affected authors.",
+        "visual_hint": "book slipping through cracks",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "warning sign library",
+        "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Why no real detector?",
+        "description": "Self-reporting is easier to implement but leaves the door open for bad actors to exploit the filter.",
+        "visual_hint": "finger pointing at checkbox",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "checkmark on paper",
+        "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your library’s filter",
+        "description": "Open Libby, search a known author, and count how many books are hidden. Does the result surprise you?",
+        "visual_hint": "phone screen with filter",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone library app",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&amp;strip=all&amp;crop=0%2C15.232329842932%2C100%2C69.535340314136&amp;w=1200",
+    "savedAt": "2026-06-30T19:44:28.966Z",
+    "sourceId": "0460f8f816b63b631c0670c9a4b3a72f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "anthropic-launches-claude-sonnet-5-as-a-cheaper-wa",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+    "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+    "pubDate": "Tue, 30 Jun 2026 18:00:00 +0000",
+    "slides": [
+      "Is your AI agent budget about to drop?",
+      "Claude Sonnet 5 runs at half the cost.",
+      "It matches Claude Opus on many benchmarks.",
+      "You can now deploy more agents for less.",
+      "Test Sonnet 5 against your current setup today."
+    ],
+    "thread_text": [
+      "1. Is your AI budget about to drop?\n\nClaude Sonnet 5 costs half of previous versions, matching Opus-level benchmarks.",
+      "2. Half the price, same performance.\n\nNo trade-off in accuracy for the cost cut—benchmarks show parity with the premium tier.",
+      "3. More agents, same spend.\n\nYour fixed cloud budget now funds double the concurrent AI agents.",
+      "4. Opus parity, without the premium.\n\nEnterprise teams can replace expensive Opus calls with Sonnet 5 for most tasks.",
+      "5. Test Sonnet 5 against your current setup today.\n\nRun a real prompt on your existing agent, then swap to Sonnet 5 and compare outputs side by side."
+    ],
+    "video_script": [
+      "Half the cost, same AI power.",
+      "Your agent budget just doubled.",
+      "No more premium pricing lock-in.",
+      "Deploy more agents for less.",
+      "Test Sonnet 5 against your stack now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Is your AI budget about to drop?\n\nClaude Sonnet 5 costs half of previous versions, matching Opus-level benchmarks.",
+          "2. Half the price, same performance.\n\nNo trade-off in accuracy for the cost cut—benchmarks show parity with the premium tier.",
+          "3. More agents, same spend.\n\nYour fixed cloud budget now funds double the concurrent AI agents.",
+          "4. Opus parity, without the premium.\n\nEnterprise teams can replace expensive Opus calls with Sonnet 5 for most tasks.",
+          "5. Test Sonnet 5 against your current setup today.\n\nRun a real prompt on your existing agent, then swap to Sonnet 5 and compare outputs side by side."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Half the cost, same AI power.",
+          "Your agent budget just doubled.",
+          "No more premium pricing lock-in.",
+          "Deploy more agents for less.",
+          "Test Sonnet 5 against your stack now."
+        ]
+      },
+      "instagram": {
+        "caption": "Your AI agent budget just got cut in half 💸\n\nAnthropic released Claude Sonnet 5 at half the cost of previous versions—matching their premium Opus model on key benchmarks. No performance drop for the price cut.\n\nFor the same cloud spend, you can now run twice as many concurrent agents. Enterprise teams can swap costly Opus calls for Sonnet 5 on most tasks.\n\nTry this: run a prompt on your current setup, then swap to Sonnet 5 and compare outputs side by side. What's your current agent costing you per task?"
+      }
+    },
+    "instagram_caption": "Your AI agent budget just got cut in half 💸\n\nAnthropic released Claude Sonnet 5 at half the cost of previous versions—matching their premium Opus model on key benchmarks. No performance drop for the price cut.\n\nFor the same cloud spend, you can now run twice as many concurrent agents. Enterprise teams can swap costly Opus calls for Sonnet 5 on most tasks.\n\nTry this: run a prompt on your current setup, then swap to Sonnet 5 and compare outputs side by side. What's your current agent costing you per task?",
+    "carousel_slides": [
+      {
+        "hook": "Double your agents for free?",
+        "description": "Claude Sonnet 5 runs at half the cost of previous versions while matching Opus-level benchmarks.",
+        "visual_hint": "Stack of money halves in size",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Half price, same accuracy.",
+        "description": "No trade-off in performance—benchmarks show parity with the premium tier.",
+        "visual_hint": "Scale balancing coins and stars",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "More agents, same budget.",
+        "description": "Your fixed cloud spend now funds double the concurrent AI agents.",
+        "visual_hint": "Graph bars doubling upward",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Opus parity without the premium.",
+        "description": "Enterprise teams can replace expensive Opus calls with Sonnet 5 for most tasks.",
+        "visual_hint": "Two identical puzzle pieces",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Sonnet 5 and save today.",
+        "description": "Run your current prompt, swap to Sonnet 5, compare outputs side by side.",
+        "visual_hint": "Split screen with two outputs",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+    "savedAt": "2026-06-30T19:44:14.972Z",
+    "sourceId": "302f40558b9493ab353ba3480f84a7f0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nvidia-competitor-etched-hits-5b-valuation-1b-in-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+    "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+    "pubDate": "Tue, 30 Jun 2026 18:13:02 +0000",
+    "slides": [
+      "Can a startup surpass Nvidia in AI chips?",
+      "Etched just hit a $5 billion valuation.",
+      "Its chip delivers 10x speed for inference tasks.",
+      "This could slash your AI deployment costs overnight.",
+      "Test your models on their hardware before rivals do."
+    ],
+    "thread_text": [
+      "1. Can one startup dethrone Nvidia?\n\nEtched just secured a $5 billion valuation—before shipping a single chip.",
+      "2. A chip built for inference only.\n\nTheir hardware claims 10x speed on AI tasks—no training, no bloat.",
+      "3. Your costs could crash overnight.\n\nDeploy on Etched and the inference bill shrinks by an order of magnitude.",
+      "4. Early access is the real prize.\n\nTest your models on their silicon before competitors even get a slot.",
+      "5. What’s your next move?\n\nRun one inference-heavy model on your current setup. Then calculate the gap. Ready to switch?"
+    ],
+    "video_script": [
+      "Etched hit five billion dollars valuation.",
+      "Their chip runs inference ten times faster.",
+      "This could slash your deployment costs dramatically.",
+      "Test your models on their hardware now.",
+      "Is your current setup leaving money on the table?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can one startup dethrone Nvidia?\n\nEtched just secured a $5 billion valuation—before shipping a single chip.",
+          "2. A chip built for inference only.\n\nTheir hardware claims 10x speed on AI tasks—no training, no bloat.",
+          "3. Your costs could crash overnight.\n\nDeploy on Etched and the inference bill shrinks by an order of magnitude.",
+          "4. Early access is the real prize.\n\nTest your models on their silicon before competitors even get a slot.",
+          "5. What’s your next move?\n\nRun one inference-heavy model on your current setup. Then calculate the gap. Ready to switch?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Etched hit five billion dollars valuation.",
+          "Their chip runs inference ten times faster.",
+          "This could slash your deployment costs dramatically.",
+          "Test your models on their hardware now.",
+          "Is your current setup leaving money on the table?"
+        ]
+      },
+      "instagram": {
+        "caption": "A startup just hit a $5 billion valuation, selling a chip that delivers 10x speed on AI inference tasks — before shipping a single unit to the public.\n\nThat chip skips AI training entirely, focusing only on running models once they're built.  \nFor teams paying for inference by the second, an order-of-magnitude drop in computing cost is on the table.  \nYour current hardware stack might become obsolete faster than you budgeted for.\n\nThe concrete shift: your next AI deployment could cost one-tenth as much to run, overnight.\n\nAre you already testing your heaviest model against a 10x hardware improvement — or waiting until competitors lock in their pricing first?"
+      }
+    },
+    "instagram_caption": "A startup just hit a $5 billion valuation, selling a chip that delivers 10x speed on AI inference tasks — before shipping a single unit to the public.\n\nThat chip skips AI training entirely, focusing only on running models once they're built.  \nFor teams paying for inference by the second, an order-of-magnitude drop in computing cost is on the table.  \nYour current hardware stack might become obsolete faster than you budgeted for.\n\nThe concrete shift: your next AI deployment could cost one-tenth as much to run, overnight.\n\nAre you already testing your heaviest model against a 10x hardware improvement — or waiting until competitors lock in their pricing first?",
+    "carousel_slides": [
+      {
+        "hook": "Your AI costs could crash overnight.",
+        "description": "Etched’s chip claims 10x speed for inference, slashing deployment bills by an order of magnitude.",
+        "visual_hint": "Falling coins on graph",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "falling coins chart"
+      },
+      {
+        "hook": "A startup just hit $5 billion.",
+        "description": "Etched reached a $5B valuation before shipping a single chip—built solely for inference, no bloat.",
+        "visual_hint": "Stack of gold bars",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "gold bars stack",
+        "image": "https://images.pexels.com/photos/29336323/pexels-photo-29336323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "10x speed on inference tasks.",
+        "description": "Their dedicated hardware delivers 10x speed, turning heavy models into lightweight operations.",
+        "visual_hint": "Racing chip on track",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer chip circuit",
+        "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Early access is the real prize.",
+        "description": "Test your models on their silicon before competitors—secure a slot and slash your inference costs.",
+        "visual_hint": "Hand holding key",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding key",
+        "image": "https://images.pexels.com/photos/8482876/pexels-photo-8482876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test your models.",
+        "description": "Run one inference-heavy model on your setup, calculate the gap, then visit the link in bio.",
+        "visual_hint": "Phone with bio link",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen link",
+        "image": "https://images.pexels.com/photos/20131184/pexels-photo-20131184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+    "savedAt": "2026-06-30T19:43:59.250Z",
+    "sourceId": "ffde7cf4c1120cdc960288ae02e8c65e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "amazon-launches-new-1-billion-fde-org-following-op",
     "prompt_version": "1.0.0",
     "status": "published",

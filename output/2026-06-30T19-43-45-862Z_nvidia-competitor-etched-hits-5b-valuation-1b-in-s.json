@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nvidia-competitor-etched-hits-5b-valuation-1b-in-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+  "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+  "pubDate": "Tue, 30 Jun 2026 18:13:02 +0000",
+  "slides": [
+    "Can a startup surpass Nvidia in AI chips?",
+    "Etched just hit a $5 billion valuation.",
+    "Its chip delivers 10x speed for inference tasks.",
+    "This could slash your AI deployment costs overnight.",
+    "Test your models on their hardware before rivals do."
+  ],
+  "thread_text": [
+    "1. Can one startup dethrone Nvidia?\n\nEtched just secured a $5 billion valuation—before shipping a single chip.",
+    "2. A chip built for inference only.\n\nTheir hardware claims 10x speed on AI tasks—no training, no bloat.",
+    "3. Your costs could crash overnight.\n\nDeploy on Etched and the inference bill shrinks by an order of magnitude.",
+    "4. Early access is the real prize.\n\nTest your models on their silicon before competitors even get a slot.",
+    "5. What’s your next move?\n\nRun one inference-heavy model on your current setup. Then calculate the gap. Ready to switch?"
+  ],
+  "video_script": [
+    "Etched hit five billion dollars valuation.",
+    "Their chip runs inference ten times faster.",
+    "This could slash your deployment costs dramatically.",
+    "Test your models on their hardware now.",
+    "Is your current setup leaving money on the table?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can one startup dethrone Nvidia?\n\nEtched just secured a $5 billion valuation—before shipping a single chip.",
+        "2. A chip built for inference only.\n\nTheir hardware claims 10x speed on AI tasks—no training, no bloat.",
+        "3. Your costs could crash overnight.\n\nDeploy on Etched and the inference bill shrinks by an order of magnitude.",
+        "4. Early access is the real prize.\n\nTest your models on their silicon before competitors even get a slot.",
+        "5. What’s your next move?\n\nRun one inference-heavy model on your current setup. Then calculate the gap. Ready to switch?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Etched hit five billion dollars valuation.",
+        "Their chip runs inference ten times faster.",
+        "This could slash your deployment costs dramatically.",
+        "Test your models on their hardware now.",
+        "Is your current setup leaving money on the table?"
+      ]
+    },
+    "instagram": {
+      "caption": "A startup just hit a $5 billion valuation, selling a chip that delivers 10x speed on AI inference tasks — before shipping a single unit to the public.\n\nThat chip skips AI training entirely, focusing only on running models once they're built.  \nFor teams paying for inference by the second, an order-of-magnitude drop in computing cost is on the table.  \nYour current hardware stack might become obsolete faster than you budgeted for.\n\nThe concrete shift: your next AI deployment could cost one-tenth as much to run, overnight.\n\nAre you already testing your heaviest model against a 10x hardware improvement — or waiting until competitors lock in their pricing first?"
+    }
+  },
+  "instagram_caption": "A startup just hit a $5 billion valuation, selling a chip that delivers 10x speed on AI inference tasks — before shipping a single unit to the public.\n\nThat chip skips AI training entirely, focusing only on running models once they're built.  \nFor teams paying for inference by the second, an order-of-magnitude drop in computing cost is on the table.  \nYour current hardware stack might become obsolete faster than you budgeted for.\n\nThe concrete shift: your next AI deployment could cost one-tenth as much to run, overnight.\n\nAre you already testing your heaviest model against a 10x hardware improvement — or waiting until competitors lock in their pricing first?",
+  "carousel_slides": [
+    {
+      "hook": "Your AI costs could crash overnight.",
+      "description": "Etched’s chip claims 10x speed for inference, slashing deployment bills by an order of magnitude.",
+      "visual_hint": "Falling coins on graph",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "falling coins chart"
+    },
+    {
+      "hook": "A startup just hit $5 billion.",
+      "description": "Etched reached a $5B valuation before shipping a single chip—built solely for inference, no bloat.",
+      "visual_hint": "Stack of gold bars",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "gold bars stack",
+      "image": "https://images.pexels.com/photos/29336323/pexels-photo-29336323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "10x speed on inference tasks.",
+      "description": "Their dedicated hardware delivers 10x speed, turning heavy models into lightweight operations.",
+      "visual_hint": "Racing chip on track",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer chip circuit",
+      "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Early access is the real prize.",
+      "description": "Test your models on their silicon before competitors—secure a slot and slash your inference costs.",
+      "visual_hint": "Hand holding key",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding key",
+      "image": "https://images.pexels.com/photos/8482876/pexels-photo-8482876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test your models.",
+      "description": "Run one inference-heavy model on your setup, calculate the gap, then visit the link in bio.",
+      "visual_hint": "Phone with bio link",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen link",
+      "image": "https://images.pexels.com/photos/20131184/pexels-photo-20131184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+  "savedAt": "2026-06-30T19:43:59.250Z",
+  "sourceId": "ffde7cf4c1120cdc960288ae02e8c65e"
+}
