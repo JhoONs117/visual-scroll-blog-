@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-s-claude-science-bets-on-workflow-not-a-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+  "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+  "pubDate": "Tue, 30 Jun 2026 17:00:00 +0000",
+  "slides": [
+    "What if the next breakthrough hides in your lab's workflow?",
+    "Anthropic's Claude Science targets process, not raw power.",
+    "No new model arrives—just a tool to chain experiments.",
+    "Your data stays linked, reducing manual errors and delays.",
+    "Try it now: automate one repetitive task this week."
+  ],
+  "thread_text": [
+    "1. What if the next breakthrough hides in your lab's workflow?\n\nAnthropic released Claude Science—a tool to chain experiments instead of a new model.",
+    "2. No new model arrives.\n\nThey skipped raw power and built a system to link your data across steps, cutting manual errors.",
+    "3. Your data stays linked.\n\nDelays drop because each experiment feeds the next automatically, no copy-paste between tools.",
+    "4. Process over power.\n\nThis targets the bottleneck you ignore: repetitive tasks that slow discovery more than compute.",
+    "5. Try it now: automate one repetitive task this week.\n\nPick a step you log manually and run it through Claude Science. Does that save more time than a faster GPU?"
+  ],
+  "video_script": [
+    "Your lab's workflow hides the next breakthrough.",
+    "Anthropic's Claude Science targets process, not raw power.",
+    "No new model, just a tool to chain experiments.",
+    "Linked data reduces manual errors and delays.",
+    "Automate one repetitive task this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if the next breakthrough hides in your lab's workflow?\n\nAnthropic released Claude Science—a tool to chain experiments instead of a new model.",
+        "2. No new model arrives.\n\nThey skipped raw power and built a system to link your data across steps, cutting manual errors.",
+        "3. Your data stays linked.\n\nDelays drop because each experiment feeds the next automatically, no copy-paste between tools.",
+        "4. Process over power.\n\nThis targets the bottleneck you ignore: repetitive tasks that slow discovery more than compute.",
+        "5. Try it now: automate one repetitive task this week.\n\nPick a step you log manually and run it through Claude Science. Does that save more time than a faster GPU?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your lab's workflow hides the next breakthrough.",
+        "Anthropic's Claude Science targets process, not raw power.",
+        "No new model, just a tool to chain experiments.",
+        "Linked data reduces manual errors and delays.",
+        "Automate one repetitive task this week."
+      ]
+    },
+    "instagram": {
+      "caption": "A new tool now links your experiment steps automatically, so you never have to copy-paste data between tools again.\n\nNo new model was released. Instead, Anthropic’s Claude Science focuses on fixing the repetitive manual workflow that slows down discovery. It chains experiments together, cutting delays and human errors.\n\nFor any researcher or scientist, this means your data stays connected across steps without manual logs.\n\nCan automating just one repetitive task this week save you more time than waiting for a faster GPU? 🧪🔗🛠️"
+    }
+  },
+  "instagram_caption": "A new tool now links your experiment steps automatically, so you never have to copy-paste data between tools again.\n\nNo new model was released. Instead, Anthropic’s Claude Science focuses on fixing the repetitive manual workflow that slows down discovery. It chains experiments together, cutting delays and human errors.\n\nFor any researcher or scientist, this means your data stays connected across steps without manual logs.\n\nCan automating just one repetitive task this week save you more time than waiting for a faster GPU? 🧪🔗🛠️",
+  "carousel_slides": [
+    {
+      "hook": "What if workflow hides your breakthrough?",
+      "description": "Anthropic's Claude Science chains experiments, linking data steps to cut manual errors and delays.",
+      "visual_hint": "Lab chain with data links",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "laboratory experiment chain"
+    },
+    {
+      "hook": "No new model, just process.",
+      "description": "Instead of raw power, Claude Science connects your experiments automatically, reducing repetitive tasks.",
+      "visual_hint": "Connected data nodes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Data stays linked across steps.",
+      "description": "Each experiment feeds the next automatically, eliminating copy-paste and cutting delays.",
+      "visual_hint": "Data flow diagram",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "flowchart diagram",
+      "image": "https://images.pexels.com/photos/7947654/pexels-photo-7947654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Repetitive tasks slow discovery.",
+      "description": "Process over power targets the bottleneck you ignore—more time saved than a faster GPU.",
+      "visual_hint": "Clock vs. GPU comparison",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot arm",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Automate one task this week.",
+      "description": "Pick a manual step, run it through Claude Science, and see if it saves more time than compute.",
+      "visual_hint": "Automation button pressed",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "automation dashboard",
+      "image": "https://images.pexels.com/photos/36564992/pexels-photo-36564992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2249359579.jpg?resize=1200,800",
+  "savedAt": "2026-06-30T21:23:10.684Z",
+  "sourceId": "8ea70b35b5cde4c1b54de02bad9a283f"
+}

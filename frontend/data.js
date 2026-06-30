@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "anthropic-s-claude-science-bets-on-workflow-not-a-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+    "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+    "pubDate": "Tue, 30 Jun 2026 17:00:00 +0000",
+    "slides": [
+      "What if the next breakthrough hides in your lab's workflow?",
+      "Anthropic's Claude Science targets process, not raw power.",
+      "No new model arrives—just a tool to chain experiments.",
+      "Your data stays linked, reducing manual errors and delays.",
+      "Try it now: automate one repetitive task this week."
+    ],
+    "thread_text": [
+      "1. What if the next breakthrough hides in your lab's workflow?\n\nAnthropic released Claude Science—a tool to chain experiments instead of a new model.",
+      "2. No new model arrives.\n\nThey skipped raw power and built a system to link your data across steps, cutting manual errors.",
+      "3. Your data stays linked.\n\nDelays drop because each experiment feeds the next automatically, no copy-paste between tools.",
+      "4. Process over power.\n\nThis targets the bottleneck you ignore: repetitive tasks that slow discovery more than compute.",
+      "5. Try it now: automate one repetitive task this week.\n\nPick a step you log manually and run it through Claude Science. Does that save more time than a faster GPU?"
+    ],
+    "video_script": [
+      "Your lab's workflow hides the next breakthrough.",
+      "Anthropic's Claude Science targets process, not raw power.",
+      "No new model, just a tool to chain experiments.",
+      "Linked data reduces manual errors and delays.",
+      "Automate one repetitive task this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What if the next breakthrough hides in your lab's workflow?\n\nAnthropic released Claude Science—a tool to chain experiments instead of a new model.",
+          "2. No new model arrives.\n\nThey skipped raw power and built a system to link your data across steps, cutting manual errors.",
+          "3. Your data stays linked.\n\nDelays drop because each experiment feeds the next automatically, no copy-paste between tools.",
+          "4. Process over power.\n\nThis targets the bottleneck you ignore: repetitive tasks that slow discovery more than compute.",
+          "5. Try it now: automate one repetitive task this week.\n\nPick a step you log manually and run it through Claude Science. Does that save more time than a faster GPU?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your lab's workflow hides the next breakthrough.",
+          "Anthropic's Claude Science targets process, not raw power.",
+          "No new model, just a tool to chain experiments.",
+          "Linked data reduces manual errors and delays.",
+          "Automate one repetitive task this week."
+        ]
+      },
+      "instagram": {
+        "caption": "A new tool now links your experiment steps automatically, so you never have to copy-paste data between tools again.\n\nNo new model was released. Instead, Anthropic’s Claude Science focuses on fixing the repetitive manual workflow that slows down discovery. It chains experiments together, cutting delays and human errors.\n\nFor any researcher or scientist, this means your data stays connected across steps without manual logs.\n\nCan automating just one repetitive task this week save you more time than waiting for a faster GPU? 🧪🔗🛠️"
+      }
+    },
+    "instagram_caption": "A new tool now links your experiment steps automatically, so you never have to copy-paste data between tools again.\n\nNo new model was released. Instead, Anthropic’s Claude Science focuses on fixing the repetitive manual workflow that slows down discovery. It chains experiments together, cutting delays and human errors.\n\nFor any researcher or scientist, this means your data stays connected across steps without manual logs.\n\nCan automating just one repetitive task this week save you more time than waiting for a faster GPU? 🧪🔗🛠️",
+    "carousel_slides": [
+      {
+        "hook": "What if workflow hides your breakthrough?",
+        "description": "Anthropic's Claude Science chains experiments, linking data steps to cut manual errors and delays.",
+        "visual_hint": "Lab chain with data links",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "laboratory experiment chain"
+      },
+      {
+        "hook": "No new model, just process.",
+        "description": "Instead of raw power, Claude Science connects your experiments automatically, reducing repetitive tasks.",
+        "visual_hint": "Connected data nodes",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Data stays linked across steps.",
+        "description": "Each experiment feeds the next automatically, eliminating copy-paste and cutting delays.",
+        "visual_hint": "Data flow diagram",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "flowchart diagram",
+        "image": "https://images.pexels.com/photos/7947654/pexels-photo-7947654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Repetitive tasks slow discovery.",
+        "description": "Process over power targets the bottleneck you ignore—more time saved than a faster GPU.",
+        "visual_hint": "Clock vs. GPU comparison",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Automate one task this week.",
+        "description": "Pick a manual step, run it through Claude Science, and see if it saves more time than compute.",
+        "visual_hint": "Automation button pressed",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "automation dashboard",
+        "image": "https://images.pexels.com/photos/36564992/pexels-photo-36564992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2249359579.jpg?resize=1200,800",
+    "savedAt": "2026-06-30T21:23:10.684Z",
+    "sourceId": "8ea70b35b5cde4c1b54de02bad9a283f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "acti-puts-ai-agents-directly-into-your-smartphone-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Acti puts AI agents directly into your smartphone keyboard",
+    "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+    "pubDate": "Tue, 30 Jun 2026 17:52:46 +0000",
+    "slides": [
+      "Can Acti make your keyboard think for you?",
+      "It embeds AI agents directly into your typing flow.",
+      "No app switching—agents act on text you type.",
+      "Your keyboard now books meetings, sends emails, and more.",
+      "Start by typing a task—see the difference today."
+    ],
+    "thread_text": [
+      "1. Your keyboard just got a raise.\n\nActi embeds AI agents into your typing flow, so you don't leave the app to get work done.",
+      "2. Stop switching tabs.\n\nAgents act on the text you type—no copy-paste, no new windows. Just type and delegate.",
+      "3. Your keyboard books meetings.\n\nIt sends emails, schedules calls, and drafts replies while you keep typing. No manual follow-up.",
+      "4. But here’s the twist.\n\nThe agents don't guess—they execute based on your typed commands. You control the output by typing the task.",
+      "5. Start typing a task today.\n\nOpen a doc, type \"book a meeting with Sarah at 3pm,\" and let the keyboard handle the rest. Seen it work?"
+    ],
+    "video_script": [
+      "Your keyboard just got a raise.",
+      "Stop switching apps entirely.",
+      "It books meetings as you type.",
+      "Agents act, you just command.",
+      "Type a task, see the difference."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your keyboard just got a raise.\n\nActi embeds AI agents into your typing flow, so you don't leave the app to get work done.",
+          "2. Stop switching tabs.\n\nAgents act on the text you type—no copy-paste, no new windows. Just type and delegate.",
+          "3. Your keyboard books meetings.\n\nIt sends emails, schedules calls, and drafts replies while you keep typing. No manual follow-up.",
+          "4. But here’s the twist.\n\nThe agents don't guess—they execute based on your typed commands. You control the output by typing the task.",
+          "5. Start typing a task today.\n\nOpen a doc, type \"book a meeting with Sarah at 3pm,\" and let the keyboard handle the rest. Seen it work?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your keyboard just got a raise.",
+          "Stop switching apps entirely.",
+          "It books meetings as you type.",
+          "Agents act, you just command.",
+          "Type a task, see the difference."
+        ]
+      },
+      "instagram": {
+        "caption": "Your keyboard now schedules emails and books meetings without you ever leaving the chat app you’re typing in.\n\nActi embeds AI agents directly into your smartphone keyboard, not as a sidebar or separate app. The agents read what you type and execute that task — from sending a message to scheduling a call — while you keep typing.\n\nNo more copy-pasting between tools or pausing your flow. You just type “invite the team to next Tuesday at 10am” and the keyboard handles the rest.\n\nIf your typing flow is your main work interface, what’s the one task you’d delegate to a keyboard agent first?"
+      }
+    },
+    "instagram_caption": "Your keyboard now schedules emails and books meetings without you ever leaving the chat app you’re typing in.\n\nActi embeds AI agents directly into your smartphone keyboard, not as a sidebar or separate app. The agents read what you type and execute that task — from sending a message to scheduling a call — while you keep typing.\n\nNo more copy-pasting between tools or pausing your flow. You just type “invite the team to next Tuesday at 10am” and the keyboard handles the rest.\n\nIf your typing flow is your main work interface, what’s the one task you’d delegate to a keyboard agent first?",
+    "carousel_slides": [
+      {
+        "hook": "Typing books meetings instantly?",
+        "description": "Acti embeds AI agents into your keyboard to schedule and send—no app switching required.",
+        "visual_hint": "Keyboard with calendar popup",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone keyboard calendar"
+      },
+      {
+        "hook": "Stop copy-pasting everything.",
+        "description": "Agents act directly on text you type—no tabs, no tedious manual transfers needed.",
+        "visual_hint": "Hand typing on phone",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "person typing smartphone",
+        "image": "https://images.pexels.com/photos/6669795/pexels-photo-6669795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your keyboard now runs errands.",
+        "description": "It books meetings, sends emails, and drafts replies while you keep typing effortlessly.",
+        "visual_hint": "Email icon on keyboard",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "email icon smartphone",
+        "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Type a command, see it happen.",
+        "description": "Agents execute based on your typed commands—you control output by typing the task.",
+        "visual_hint": "Text transforming into checkmark",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "text message checkmark",
+        "image": "https://images.pexels.com/photos/7120126/pexels-photo-7120126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it free—link in bio.",
+        "description": "Open a doc, type 'book a meeting with Sarah at 3pm'—let the keyboard handle the rest.",
+        "visual_hint": "Tap to try button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "finger tapping smartphone",
+        "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Landscape_Promo.png?resize=1200,586",
+    "savedAt": "2026-06-30T21:22:58.037Z",
+    "sourceId": "01496d14f80c55358fa89f3d9a9db884"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "libby-will-filter-out-ai-content-kind-of",
     "prompt_version": "1.0.0",
     "status": "published",

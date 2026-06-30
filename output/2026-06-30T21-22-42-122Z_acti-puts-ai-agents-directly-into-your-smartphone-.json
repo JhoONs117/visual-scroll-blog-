@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "acti-puts-ai-agents-directly-into-your-smartphone-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Acti puts AI agents directly into your smartphone keyboard",
+  "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+  "pubDate": "Tue, 30 Jun 2026 17:52:46 +0000",
+  "slides": [
+    "Can Acti make your keyboard think for you?",
+    "It embeds AI agents directly into your typing flow.",
+    "No app switching—agents act on text you type.",
+    "Your keyboard now books meetings, sends emails, and more.",
+    "Start by typing a task—see the difference today."
+  ],
+  "thread_text": [
+    "1. Your keyboard just got a raise.\n\nActi embeds AI agents into your typing flow, so you don't leave the app to get work done.",
+    "2. Stop switching tabs.\n\nAgents act on the text you type—no copy-paste, no new windows. Just type and delegate.",
+    "3. Your keyboard books meetings.\n\nIt sends emails, schedules calls, and drafts replies while you keep typing. No manual follow-up.",
+    "4. But here’s the twist.\n\nThe agents don't guess—they execute based on your typed commands. You control the output by typing the task.",
+    "5. Start typing a task today.\n\nOpen a doc, type \"book a meeting with Sarah at 3pm,\" and let the keyboard handle the rest. Seen it work?"
+  ],
+  "video_script": [
+    "Your keyboard just got a raise.",
+    "Stop switching apps entirely.",
+    "It books meetings as you type.",
+    "Agents act, you just command.",
+    "Type a task, see the difference."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your keyboard just got a raise.\n\nActi embeds AI agents into your typing flow, so you don't leave the app to get work done.",
+        "2. Stop switching tabs.\n\nAgents act on the text you type—no copy-paste, no new windows. Just type and delegate.",
+        "3. Your keyboard books meetings.\n\nIt sends emails, schedules calls, and drafts replies while you keep typing. No manual follow-up.",
+        "4. But here’s the twist.\n\nThe agents don't guess—they execute based on your typed commands. You control the output by typing the task.",
+        "5. Start typing a task today.\n\nOpen a doc, type \"book a meeting with Sarah at 3pm,\" and let the keyboard handle the rest. Seen it work?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your keyboard just got a raise.",
+        "Stop switching apps entirely.",
+        "It books meetings as you type.",
+        "Agents act, you just command.",
+        "Type a task, see the difference."
+      ]
+    },
+    "instagram": {
+      "caption": "Your keyboard now schedules emails and books meetings without you ever leaving the chat app you’re typing in.\n\nActi embeds AI agents directly into your smartphone keyboard, not as a sidebar or separate app. The agents read what you type and execute that task — from sending a message to scheduling a call — while you keep typing.\n\nNo more copy-pasting between tools or pausing your flow. You just type “invite the team to next Tuesday at 10am” and the keyboard handles the rest.\n\nIf your typing flow is your main work interface, what’s the one task you’d delegate to a keyboard agent first?"
+    }
+  },
+  "instagram_caption": "Your keyboard now schedules emails and books meetings without you ever leaving the chat app you’re typing in.\n\nActi embeds AI agents directly into your smartphone keyboard, not as a sidebar or separate app. The agents read what you type and execute that task — from sending a message to scheduling a call — while you keep typing.\n\nNo more copy-pasting between tools or pausing your flow. You just type “invite the team to next Tuesday at 10am” and the keyboard handles the rest.\n\nIf your typing flow is your main work interface, what’s the one task you’d delegate to a keyboard agent first?",
+  "carousel_slides": [
+    {
+      "hook": "Typing books meetings instantly?",
+      "description": "Acti embeds AI agents into your keyboard to schedule and send—no app switching required.",
+      "visual_hint": "Keyboard with calendar popup",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone keyboard calendar"
+    },
+    {
+      "hook": "Stop copy-pasting everything.",
+      "description": "Agents act directly on text you type—no tabs, no tedious manual transfers needed.",
+      "visual_hint": "Hand typing on phone",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "person typing smartphone",
+      "image": "https://images.pexels.com/photos/6669795/pexels-photo-6669795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your keyboard now runs errands.",
+      "description": "It books meetings, sends emails, and drafts replies while you keep typing effortlessly.",
+      "visual_hint": "Email icon on keyboard",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "email icon smartphone",
+      "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Type a command, see it happen.",
+      "description": "Agents execute based on your typed commands—you control output by typing the task.",
+      "visual_hint": "Text transforming into checkmark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "text message checkmark",
+      "image": "https://images.pexels.com/photos/7120126/pexels-photo-7120126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it free—link in bio.",
+      "description": "Open a doc, type 'book a meeting with Sarah at 3pm'—let the keyboard handle the rest.",
+      "visual_hint": "Tap to try button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "finger tapping smartphone",
+      "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Landscape_Promo.png?resize=1200,586",
+  "savedAt": "2026-06-30T21:22:58.037Z",
+  "sourceId": "01496d14f80c55358fa89f3d9a9db884"
+}
