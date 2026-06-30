@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "crypto-exchange-okx-wants-ai-agents-to-hire-and-pa",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+  "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+  "pubDate": "Tue, 30 Jun 2026 09:00:00 +0000",
+  "slides": [
+    "OKX bets AI agents will hire other AI agents.",
+    "The exchange now lets agents generate crypto wallets autonomously.",
+    "But these wallets can pay each other—without human approval.",
+    "You can deploy agents that negotiate their own service fees.",
+    "Test one agent hiring another by tomorrow on OKX."
+  ],
+  "thread_text": [
+    "They pay each other.\n\nOKX lets AI agents generate crypto wallets and send funds autonomously — no human approval needed.",
+    "Your agent hires.\n\nDeploy agents that negotiate their own service fees and hire other agents to complete tasks.",
+    "Wallets without owners.\n\nThese wallets are created by agents, not humans, and can transact entirely on their own.",
+    "Fees are negotiated.\n\nAgents set terms with each other, agreeing on payment for services without a human in the loop.",
+    "Test it tomorrow.\n\nGo to OKX and launch an agent that hires another agent. Can you simulate a micro-economy in 24 hours?"
+  ],
+  "video_script": [
+    "AI agents create wallets without humans.",
+    "They pay each other automatically.",
+    "Agents negotiate their own fees.",
+    "Hire other agents with crypto.",
+    "Test it on OKX tomorrow."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "They pay each other.\n\nOKX lets AI agents generate crypto wallets and send funds autonomously — no human approval needed.",
+        "Your agent hires.\n\nDeploy agents that negotiate their own service fees and hire other agents to complete tasks.",
+        "Wallets without owners.\n\nThese wallets are created by agents, not humans, and can transact entirely on their own.",
+        "Fees are negotiated.\n\nAgents set terms with each other, agreeing on payment for services without a human in the loop.",
+        "Test it tomorrow.\n\nGo to OKX and launch an agent that hires another agent. Can you simulate a micro-economy in 24 hours?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI agents create wallets without humans.",
+        "They pay each other automatically.",
+        "Agents negotiate their own fees.",
+        "Hire other agents with crypto.",
+        "Test it on OKX tomorrow."
+      ]
+    },
+    "instagram": {
+      "caption": "AI agents on OKX can now generate their own crypto wallets and pay each other — without a human saying yes.\n\nThe exchange lets agents negotiate their own service fees and hire other agents to complete tasks. These wallets have no human owner. Agents transact entirely on their own.\n\nIf you build or use AI tools, you can now deploy an agent that hires another agent autonomously tomorrow.\n\nCan you get two agents to strike a deal in 24 hours? 🧠"
+    }
+  },
+  "instagram_caption": "AI agents on OKX can now generate their own crypto wallets and pay each other — without a human saying yes.\n\nThe exchange lets agents negotiate their own service fees and hire other agents to complete tasks. These wallets have no human owner. Agents transact entirely on their own.\n\nIf you build or use AI tools, you can now deploy an agent that hires another agent autonomously tomorrow.\n\nCan you get two agents to strike a deal in 24 hours? 🧠",
+  "carousel_slides": [
+    {
+      "hook": "AI agents paying each other?",
+      "description": "OKX lets autonomous agents generate wallets and transact without human approval.",
+      "visual_hint": "Robot handshaking with wallet",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "robot handshake"
+    },
+    {
+      "hook": "Your agent hires others.",
+      "description": "Deploy agents that negotiate fees and hire other agents to complete tasks autonomously.",
+      "visual_hint": "Flowchart of agent hiring",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "network diagram",
+      "image": "https://images.pexels.com/photos/6642542/pexels-photo-6642542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Wallets with no owners.",
+      "description": "Crypto wallets created by agents, not humans, transacting entirely on their own.",
+      "visual_hint": "Digital wallet icon blinking",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "digital wallet",
+      "image": "https://images.pexels.com/photos/6214459/pexels-photo-6214459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They set their own fees.",
+      "description": "Agents negotiate payment terms with each other, no human in the loop needed.",
+      "visual_hint": "Two robots exchanging coins",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "robots exchanging coins",
+      "image": "https://images.pexels.com/photos/8369773/pexels-photo-8369773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it tomorrow on OKX.",
+      "description": "Launch an agent that hires another agent and build your micro-economy in 24 hours.",
+      "visual_hint": "Arrow pointing to link",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "mobile phone screen",
+      "image": "https://images.pexels.com/photos/6611918/pexels-photo-6611918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/okx-ai.jpg?resize=1200,800",
+  "savedAt": "2026-06-30T10:49:16.054Z",
+  "sourceId": "b5ec53d600c14aab497a6eb00c371146"
+}
