@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amazon-launches-new-1-billion-fde-org-following-op",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+  "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+  "pubDate": "Tue, 30 Jun 2026 15:00:00 +0000",
+  "slides": [
+    "Amazon just bet $1 billion on what exactly?",
+    "It created a new org called FDE for frontier AI.",
+    "OpenAI and Anthropic had similar secret teams—then boomed.",
+    "FDE will push models past current safety and scaling limits.",
+    "Your next cloud bill likely funds this race. Watch costs."
+  ],
+  "thread_text": [
+    "1. Billion-dollar secret bet\n\nAmazon created a new team to push AI beyond current safety limits.",
+    "2. Follow the pattern\n\nOpenAI ran a similar secret project right before its explosion.",
+    "3. The team's real goal\n\nFDE will break through both safety guardrails and scaling barriers.",
+    "4. Your money in play\n\nEvery cloud service you use funds this frontier race.",
+    "5. Check your next bill\n\nOpen your AWS or Azure invoice today. See how much goes to compute."
+  ],
+  "video_script": [
+    "Amazon just bet one billion dollars on frontier AI.",
+    "It created a secret team called FDE.",
+    "OpenAI and Anthropic did this before exploding.",
+    "FDE will push past current safety and scaling limits.",
+    "Your cloud bill is funding this race."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Billion-dollar secret bet\n\nAmazon created a new team to push AI beyond current safety limits.",
+        "2. Follow the pattern\n\nOpenAI ran a similar secret project right before its explosion.",
+        "3. The team's real goal\n\nFDE will break through both safety guardrails and scaling barriers.",
+        "4. Your money in play\n\nEvery cloud service you use funds this frontier race.",
+        "5. Check your next bill\n\nOpen your AWS or Azure invoice today. See how much goes to compute."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Amazon just bet one billion dollars on frontier AI.",
+        "It created a secret team called FDE.",
+        "OpenAI and Anthropic did this before exploding.",
+        "FDE will push past current safety and scaling limits.",
+        "Your cloud bill is funding this race."
+      ]
+    },
+    "instagram": {
+      "caption": "Amazon just dropped $1 billion on a new secret team called FDE to push AI past current safety and scaling limits. 🚀\n\nOpenAI and Anthropic had similar hidden projects right before their big explosions. Now Amazon is following that exact playbook.\n\nYour cloud bills—AWS, Azure—are funding this frontier race. Every dollar you spend on compute helps break through current guardrails.\n\nCheck your next invoice. How much of your budget is paying for this? 💰"
+    }
+  },
+  "instagram_caption": "Amazon just dropped $1 billion on a new secret team called FDE to push AI past current safety and scaling limits. 🚀\n\nOpenAI and Anthropic had similar hidden projects right before their big explosions. Now Amazon is following that exact playbook.\n\nYour cloud bills—AWS, Azure—are funding this frontier race. Every dollar you spend on compute helps break through current guardrails.\n\nCheck your next invoice. How much of your budget is paying for this? 💰",
+  "carousel_slides": [
+    {
+      "hook": "Your cloud bill funds AI wars?",
+      "description": "Amazon just launched a $1 billion secret team, following OpenAI and Anthropic's strategy.",
+      "visual_hint": "massive server warehouse",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data center"
+    },
+    {
+      "hook": "OpenAI did this before boom",
+      "description": "OpenAI ran a similar secret project right before its explosion in capabilities and valuation.",
+      "visual_hint": "rocket launch pad",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "rocket launch",
+      "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "FDE breaks both safety barriers",
+      "description": "The Frontier Development and Engineering team will push models past current safety and scaling limits.",
+      "visual_hint": "futuristic circuit board",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Every AWS payment fuels this race",
+      "description": "Every cloud service you use funds this frontier race to build ever more powerful AI.",
+      "visual_hint": "credit card transaction",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "credit card",
+      "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your Azure or AWS bill now",
+      "description": "Open your cloud provider invoice today and see how much goes to compute for AI.",
+      "visual_hint": "invoice screenshot",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "invoice document",
+      "image": "https://images.pexels.com/photos/8872400/pexels-photo-8872400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/e76ca02d-634a-44c9-a514-ce1b84d4d1ba.jpeg?resize=800,1200",
+  "savedAt": "2026-06-30T16:24:12.057Z",
+  "sourceId": "ba1797ae41939664eefbac4f5be4111a"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "x-now-offers-an-mcp-server-to-make-its-platform-ea",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+  "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+  "pubDate": "Tue, 30 Jun 2026 15:08:42 +0000",
+  "slides": [
+    "Can AI tools finally use X without complex custom code?",
+    "X built an MCP server as a standard bridge.",
+    "It costs nothing but changes how agents interact with APIs.",
+    "Your AI can now query X directly in simple steps.",
+    "Try plugging your agent into X's MCP server today."
+  ],
+  "thread_text": [
+    "1. No code, just bridge?\n\nX built an MCP server that lets any AI query its data directly — no custom coding required.",
+    "2. What’s the catch?\n\nIt costs zero to use. The server becomes a standard layer between agents and APIs.",
+    "3. Agents finally speak X\n\nInstead of building individual connectors, each agent talks through this bridge once.",
+    "4. One query, no parsing\n\nYour AI can now ask X a question in plain steps — no JSON wrangling.",
+    "5. Plug your agent today\n\nGo to X’s dev portal, find the MCP endpoint, and connect your agent in under 15 minutes."
+  ],
+  "video_script": [
+    "X released a free bridge for AI.",
+    "No custom code needed anymore.",
+    "Agents query X directly.",
+    "It costs nothing to use.",
+    "Connect your agent in minutes."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. No code, just bridge?\n\nX built an MCP server that lets any AI query its data directly — no custom coding required.",
+        "2. What’s the catch?\n\nIt costs zero to use. The server becomes a standard layer between agents and APIs.",
+        "3. Agents finally speak X\n\nInstead of building individual connectors, each agent talks through this bridge once.",
+        "4. One query, no parsing\n\nYour AI can now ask X a question in plain steps — no JSON wrangling.",
+        "5. Plug your agent today\n\nGo to X’s dev portal, find the MCP endpoint, and connect your agent in under 15 minutes."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "X released a free bridge for AI.",
+        "No custom code needed anymore.",
+        "Agents query X directly.",
+        "It costs nothing to use.",
+        "Connect your agent in minutes."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now query X with plain English and get a clean answer — no code required.\n\nX built an MCP server that acts as a universal translator for any AI agent. Instead of writing custom code for each tool, your agent speaks through one standard bridge.\n\nThe full setup is free and takes under 15 minutes from X’s dev portal.\n\nIf you build with AI, does your agent still rely on messy API hacks instead of this direct path?"
+    }
+  },
+  "instagram_caption": "You can now query X with plain English and get a clean answer — no code required.\n\nX built an MCP server that acts as a universal translator for any AI agent. Instead of writing custom code for each tool, your agent speaks through one standard bridge.\n\nThe full setup is free and takes under 15 minutes from X’s dev portal.\n\nIf you build with AI, does your agent still rely on messy API hacks instead of this direct path?",
+  "carousel_slides": [
+    {
+      "hook": "No code to bridge X?",
+      "description": "X built an MCP server that lets AI query data directly without custom coding.",
+      "visual_hint": "Bridge connecting two networks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "network bridge"
+    },
+    {
+      "hook": "What’s the real cost?",
+      "description": "Zero cost — the server becomes a standard layer between agents and APIs.",
+      "visual_hint": "Calculator with zero displayed",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "calculator zero",
+      "image": "https://images.pexels.com/photos/7111498/pexels-photo-7111498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Agents finally speak X",
+      "description": "Each agent talks through one universal bridge, no individual connectors needed.",
+      "visual_hint": "Chat bubbles in geometric shapes",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chat bubbles",
+      "image": "https://images.pexels.com/photos/8015666/pexels-photo-8015666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One query, no parsing",
+      "description": "AI asks X a plain question — no JSON wrangling or complex parsing.",
+      "visual_hint": "Hand typing on keyboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand typing",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Connect your agent in minutes",
+      "description": "Go to X’s dev portal, find the MCP endpoint, and plug your agent today.",
+      "visual_hint": "Arrow pointing to website link",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "dev portal screen",
+      "image": "https://images.pexels.com/photos/5473313/pexels-photo-5473313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/12471119/pexels-photo-12471119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-06-30T16:23:59.496Z",
+  "sourceId": "fdb4e43bcfbf8de26fa22719e9b0c409"
+}

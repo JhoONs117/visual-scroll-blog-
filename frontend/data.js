@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "amazon-launches-new-1-billion-fde-org-following-op",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+    "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+    "pubDate": "Tue, 30 Jun 2026 15:00:00 +0000",
+    "slides": [
+      "Amazon just bet $1 billion on what exactly?",
+      "It created a new org called FDE for frontier AI.",
+      "OpenAI and Anthropic had similar secret teams—then boomed.",
+      "FDE will push models past current safety and scaling limits.",
+      "Your next cloud bill likely funds this race. Watch costs."
+    ],
+    "thread_text": [
+      "1. Billion-dollar secret bet\n\nAmazon created a new team to push AI beyond current safety limits.",
+      "2. Follow the pattern\n\nOpenAI ran a similar secret project right before its explosion.",
+      "3. The team's real goal\n\nFDE will break through both safety guardrails and scaling barriers.",
+      "4. Your money in play\n\nEvery cloud service you use funds this frontier race.",
+      "5. Check your next bill\n\nOpen your AWS or Azure invoice today. See how much goes to compute."
+    ],
+    "video_script": [
+      "Amazon just bet one billion dollars on frontier AI.",
+      "It created a secret team called FDE.",
+      "OpenAI and Anthropic did this before exploding.",
+      "FDE will push past current safety and scaling limits.",
+      "Your cloud bill is funding this race."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Billion-dollar secret bet\n\nAmazon created a new team to push AI beyond current safety limits.",
+          "2. Follow the pattern\n\nOpenAI ran a similar secret project right before its explosion.",
+          "3. The team's real goal\n\nFDE will break through both safety guardrails and scaling barriers.",
+          "4. Your money in play\n\nEvery cloud service you use funds this frontier race.",
+          "5. Check your next bill\n\nOpen your AWS or Azure invoice today. See how much goes to compute."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Amazon just bet one billion dollars on frontier AI.",
+          "It created a secret team called FDE.",
+          "OpenAI and Anthropic did this before exploding.",
+          "FDE will push past current safety and scaling limits.",
+          "Your cloud bill is funding this race."
+        ]
+      },
+      "instagram": {
+        "caption": "Amazon just dropped $1 billion on a new secret team called FDE to push AI past current safety and scaling limits. 🚀\n\nOpenAI and Anthropic had similar hidden projects right before their big explosions. Now Amazon is following that exact playbook.\n\nYour cloud bills—AWS, Azure—are funding this frontier race. Every dollar you spend on compute helps break through current guardrails.\n\nCheck your next invoice. How much of your budget is paying for this? 💰"
+      }
+    },
+    "instagram_caption": "Amazon just dropped $1 billion on a new secret team called FDE to push AI past current safety and scaling limits. 🚀\n\nOpenAI and Anthropic had similar hidden projects right before their big explosions. Now Amazon is following that exact playbook.\n\nYour cloud bills—AWS, Azure—are funding this frontier race. Every dollar you spend on compute helps break through current guardrails.\n\nCheck your next invoice. How much of your budget is paying for this? 💰",
+    "carousel_slides": [
+      {
+        "hook": "Your cloud bill funds AI wars?",
+        "description": "Amazon just launched a $1 billion secret team, following OpenAI and Anthropic's strategy.",
+        "visual_hint": "massive server warehouse",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "data center"
+      },
+      {
+        "hook": "OpenAI did this before boom",
+        "description": "OpenAI ran a similar secret project right before its explosion in capabilities and valuation.",
+        "visual_hint": "rocket launch pad",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "rocket launch",
+        "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "FDE breaks both safety barriers",
+        "description": "The Frontier Development and Engineering team will push models past current safety and scaling limits.",
+        "visual_hint": "futuristic circuit board",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Every AWS payment fuels this race",
+        "description": "Every cloud service you use funds this frontier race to build ever more powerful AI.",
+        "visual_hint": "credit card transaction",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "credit card",
+        "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your Azure or AWS bill now",
+        "description": "Open your cloud provider invoice today and see how much goes to compute for AI.",
+        "visual_hint": "invoice screenshot",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "invoice document",
+        "image": "https://images.pexels.com/photos/8872400/pexels-photo-8872400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/e76ca02d-634a-44c9-a514-ce1b84d4d1ba.jpeg?resize=800,1200",
+    "savedAt": "2026-06-30T16:24:12.057Z",
+    "sourceId": "ba1797ae41939664eefbac4f5be4111a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "x-now-offers-an-mcp-server-to-make-its-platform-ea",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+    "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+    "pubDate": "Tue, 30 Jun 2026 15:08:42 +0000",
+    "slides": [
+      "Can AI tools finally use X without complex custom code?",
+      "X built an MCP server as a standard bridge.",
+      "It costs nothing but changes how agents interact with APIs.",
+      "Your AI can now query X directly in simple steps.",
+      "Try plugging your agent into X's MCP server today."
+    ],
+    "thread_text": [
+      "1. No code, just bridge?\n\nX built an MCP server that lets any AI query its data directly — no custom coding required.",
+      "2. What’s the catch?\n\nIt costs zero to use. The server becomes a standard layer between agents and APIs.",
+      "3. Agents finally speak X\n\nInstead of building individual connectors, each agent talks through this bridge once.",
+      "4. One query, no parsing\n\nYour AI can now ask X a question in plain steps — no JSON wrangling.",
+      "5. Plug your agent today\n\nGo to X’s dev portal, find the MCP endpoint, and connect your agent in under 15 minutes."
+    ],
+    "video_script": [
+      "X released a free bridge for AI.",
+      "No custom code needed anymore.",
+      "Agents query X directly.",
+      "It costs nothing to use.",
+      "Connect your agent in minutes."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. No code, just bridge?\n\nX built an MCP server that lets any AI query its data directly — no custom coding required.",
+          "2. What’s the catch?\n\nIt costs zero to use. The server becomes a standard layer between agents and APIs.",
+          "3. Agents finally speak X\n\nInstead of building individual connectors, each agent talks through this bridge once.",
+          "4. One query, no parsing\n\nYour AI can now ask X a question in plain steps — no JSON wrangling.",
+          "5. Plug your agent today\n\nGo to X’s dev portal, find the MCP endpoint, and connect your agent in under 15 minutes."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "X released a free bridge for AI.",
+          "No custom code needed anymore.",
+          "Agents query X directly.",
+          "It costs nothing to use.",
+          "Connect your agent in minutes."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now query X with plain English and get a clean answer — no code required.\n\nX built an MCP server that acts as a universal translator for any AI agent. Instead of writing custom code for each tool, your agent speaks through one standard bridge.\n\nThe full setup is free and takes under 15 minutes from X’s dev portal.\n\nIf you build with AI, does your agent still rely on messy API hacks instead of this direct path?"
+      }
+    },
+    "instagram_caption": "You can now query X with plain English and get a clean answer — no code required.\n\nX built an MCP server that acts as a universal translator for any AI agent. Instead of writing custom code for each tool, your agent speaks through one standard bridge.\n\nThe full setup is free and takes under 15 minutes from X’s dev portal.\n\nIf you build with AI, does your agent still rely on messy API hacks instead of this direct path?",
+    "carousel_slides": [
+      {
+        "hook": "No code to bridge X?",
+        "description": "X built an MCP server that lets AI query data directly without custom coding.",
+        "visual_hint": "Bridge connecting two networks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "network bridge"
+      },
+      {
+        "hook": "What’s the real cost?",
+        "description": "Zero cost — the server becomes a standard layer between agents and APIs.",
+        "visual_hint": "Calculator with zero displayed",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "calculator zero",
+        "image": "https://images.pexels.com/photos/7111498/pexels-photo-7111498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Agents finally speak X",
+        "description": "Each agent talks through one universal bridge, no individual connectors needed.",
+        "visual_hint": "Chat bubbles in geometric shapes",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chat bubbles",
+        "image": "https://images.pexels.com/photos/8015666/pexels-photo-8015666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One query, no parsing",
+        "description": "AI asks X a plain question — no JSON wrangling or complex parsing.",
+        "visual_hint": "Hand typing on keyboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand typing",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Connect your agent in minutes",
+        "description": "Go to X’s dev portal, find the MCP endpoint, and plug your agent today.",
+        "visual_hint": "Arrow pointing to website link",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "dev portal screen",
+        "image": "https://images.pexels.com/photos/5473313/pexels-photo-5473313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/12471119/pexels-photo-12471119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-06-30T16:23:59.496Z",
+    "sourceId": "fdb4e43bcfbf8de26fa22719e9b0c409"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "tidal-won-t-pay-royalties-on-ai-generated-music-bu",
     "prompt_version": "1.0.0",
     "status": "published",
