@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-deepmind-trio-who-built-a-poker-ai-are-now-mak",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+  "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+  "pubDate": "Tue, 30 Jun 2026 20:33:48 +0000",
+  "slides": [
+    "Three DeepMind poker AI builders now target hedge funds.",
+    "Their system exploits market patterns no human sees.",
+    "It does not trade like quant models you know.",
+    "Your fund's edge may already be outdated without it.",
+    "Ask your quant team to benchmark against their results."
+  ],
+  "thread_text": [
+    "1. Your edge is dying.\n\nDeepMind's poker AI found market patterns no human can see. It's now targeting hedge funds.",
+    "2. Not quant.\n\nThis system doesn't use pricing models or mean reversion. It exploits game theory logic from the poker table.",
+    "3. Already live.\n\nThe builders left DeepMind to deploy it. Your competitors may be testing it now.",
+    "4. Blind spot.\n\nYour quant models optimize for known signals. This one builds strategy from unseen opponent behavior.",
+    "5. One action today.\n\nAsk your quant team to benchmark your fund's returns against their published results. If they can't, why not?"
+  ],
+  "video_script": [
+    "Poker AI now targets hedge funds.",
+    "It sees patterns no human can.",
+    "Not your typical quant model.",
+    "Your fund's edge may be outdated.",
+    "Ask your team to benchmark it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your edge is dying.\n\nDeepMind's poker AI found market patterns no human can see. It's now targeting hedge funds.",
+        "2. Not quant.\n\nThis system doesn't use pricing models or mean reversion. It exploits game theory logic from the poker table.",
+        "3. Already live.\n\nThe builders left DeepMind to deploy it. Your competitors may be testing it now.",
+        "4. Blind spot.\n\nYour quant models optimize for known signals. This one builds strategy from unseen opponent behavior.",
+        "5. One action today.\n\nAsk your quant team to benchmark your fund's returns against their published results. If they can't, why not?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Poker AI now targets hedge funds.",
+        "It sees patterns no human can.",
+        "Not your typical quant model.",
+        "Your fund's edge may be outdated.",
+        "Ask your team to benchmark it."
+      ]
+    },
+    "instagram": {
+      "caption": "Three former DeepMind researchers built a poker AI that beats pros, and now that same system is quietly managing real money at hedge funds. 🃏\n\nTheir approach doesn't scan for price patterns or buy low, sell high. It reads market moves like a poker opponent’s bluffs—extracting strategy from behavior no human trader notices. 📉🧠\n\nYour fund's quant team may already be behind if they're not testing their results against it.\n\nAsk your head of quant: “Can we replicate their published benchmarks, or are we flying blind?” 🔍"
+    }
+  },
+  "instagram_caption": "Three former DeepMind researchers built a poker AI that beats pros, and now that same system is quietly managing real money at hedge funds. 🃏\n\nTheir approach doesn't scan for price patterns or buy low, sell high. It reads market moves like a poker opponent’s bluffs—extracting strategy from behavior no human trader notices. 📉🧠\n\nYour fund's quant team may already be behind if they're not testing their results against it.\n\nAsk your head of quant: “Can we replicate their published benchmarks, or are we flying blind?” 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your edge is dying.",
+      "description": "DeepMind poker AI discovers market patterns no human can see, now targeting hedge funds.",
+      "visual_hint": "poker chips and chart",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "poker table graph"
+    },
+    {
+      "hook": "Not your typical quant.",
+      "description": "No pricing models or mean reversion—it uses game theory logic from poker to exploit markets.",
+      "visual_hint": "robot playing cards",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot hand cards",
+      "image": "https://images.pexels.com/photos/5614110/pexels-photo-5614110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Already live. Your competitors?",
+      "description": "The builders left DeepMind to deploy it; rivals may be testing this unseen pattern system now.",
+      "visual_hint": "server racks blinking",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your models miss this.",
+      "description": "Quant models optimize for known signals; this AI builds strategy from unseen opponent behavior.",
+      "visual_hint": "magnifying glass on chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass stock",
+      "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to act now.",
+      "description": "Ask your quant team to benchmark your returns against their published results today.",
+      "visual_hint": "benchmark on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop benchmark graph",
+      "image": "https://images.pexels.com/photos/5717766/pexels-photo-5717766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Martin-Schmid-EquiLibre-Technologies.jpeg?resize=1200,800",
+  "savedAt": "2026-06-30T23:03:36.456Z",
+  "sourceId": "db04ba7c54af346732a46126b8055f3e"
+}
