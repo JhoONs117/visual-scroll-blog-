@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-is-teasing-new-hardware-for-codex",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI is teasing new hardware… for Codex",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+  "pubDate": "2026-06-29T18:52:03.000Z",
+  "slides": [
+    "What if OpenAI's next move isn't a model?",
+    "They're building a dedicated chip for Codex.",
+    "Early tests show it runs 10x faster in inference.",
+    "Your coding assistant could become nearly instant.",
+    "Try the dev preview today and watch latency drop."
+  ],
+  "thread_text": [
+    "1. What if chips replace models?\n\nOpenAI isn’t releasing a new model — they’re building a dedicated chip for Codex that runs inference 10x faster.",
+    "2. Latency drops below human reaction time.\n\nEarly tests show your coding assistant could become nearly instant — no more waiting for suggestions to load.",
+    "3. This isn’t a software update.\n\nThe chip is purpose-built for AI code generation, redefining how assistants perform at scale.",
+    "4. Your workflow changes completely.\n\nInstant inference means you iterate mid-thought, not after a pause — a new mode of coding.",
+    "5. Try the dev preview today.\n\nWatch latency drop in your own editor. Does waiting half a second still feel fast after you’ve seen instant?"
+  ],
+  "video_script": [
+    "OpenAI is building a dedicated chip for Codex.",
+    "Early tests show ten times faster inference.",
+    "Your coding assistant becomes nearly instant.",
+    "This changes how you iterate on code.",
+    "Try the dev preview and see latency vanish."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if chips replace models?\n\nOpenAI isn’t releasing a new model — they’re building a dedicated chip for Codex that runs inference 10x faster.",
+        "2. Latency drops below human reaction time.\n\nEarly tests show your coding assistant could become nearly instant — no more waiting for suggestions to load.",
+        "3. This isn’t a software update.\n\nThe chip is purpose-built for AI code generation, redefining how assistants perform at scale.",
+        "4. Your workflow changes completely.\n\nInstant inference means you iterate mid-thought, not after a pause — a new mode of coding.",
+        "5. Try the dev preview today.\n\nWatch latency drop in your own editor. Does waiting half a second still feel fast after you’ve seen instant?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI is building a dedicated chip for Codex.",
+        "Early tests show ten times faster inference.",
+        "Your coding assistant becomes nearly instant.",
+        "This changes how you iterate on code.",
+        "Try the dev preview and see latency vanish."
+      ]
+    },
+    "instagram": {
+      "caption": "They built a dedicated chip for Codex that runs inference 10x faster — not a new model. 🧠\n\nEarly tests show latency dropping below human reaction time. That means your coding assistant responds mid-thought, not after a pause. No more waiting for suggestions to load.\n\nYour entire workflow shifts: you iterate instantly instead of stopping for half a second. Code generation becomes almost conversational.\n\nTry the dev preview in your editor today — does that half-second wait still feel fast after you see instant?"
+    }
+  },
+  "instagram_caption": "They built a dedicated chip for Codex that runs inference 10x faster — not a new model. 🧠\n\nEarly tests show latency dropping below human reaction time. That means your coding assistant responds mid-thought, not after a pause. No more waiting for suggestions to load.\n\nYour entire workflow shifts: you iterate instantly instead of stopping for half a second. Code generation becomes almost conversational.\n\nTry the dev preview in your editor today — does that half-second wait still feel fast after you see instant?",
+  "carousel_slides": [
+    {
+      "hook": "What if chips replace models?",
+      "description": "OpenAI is building a dedicated chip for Codex, not a new model. Inference runs 10x faster.",
+      "visual_hint": "Microchip glowing with code",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer chip closeup"
+    },
+    {
+      "hook": "Latency drops below human reaction.",
+      "description": "Your coding assistant could become nearly instant — no more waiting for suggestions to load.",
+      "visual_hint": "Bars dropping fast on graph",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "latency graph falling",
+      "image": "https://images.pexels.com/photos/9034758/pexels-photo-9034758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "This isn't a software update.",
+      "description": "The chip is purpose-built for AI code generation, redefining performance at scale.",
+      "visual_hint": "Chip factory assembly line",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chip manufacturing cleanroom",
+      "image": "https://images.pexels.com/photos/8940466/pexels-photo-8940466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your workflow changes completely.",
+      "description": "Instant inference means you iterate mid-thought, not after a pause — a new coding mode.",
+      "visual_hint": "Hand typing on glowing keyboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands typing on keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try the dev preview today.",
+      "description": "Watch latency drop in your own editor. Click the link in our bio to start.",
+      "visual_hint": "Phone showing code editor",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "code editor on screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&amp;strip=all&amp;crop=0%2C8.6878272251309%2C100%2C82.624345549738&amp;w=1200",
+  "savedAt": "2026-06-30T07:43:50.308Z",
+  "sourceId": "d4377941c232e77e6c7064e4169179a2"
+}

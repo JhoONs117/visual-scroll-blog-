@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-is-teasing-new-hardware-for-codex",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI is teasing new hardware… for Codex",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+    "pubDate": "2026-06-29T18:52:03.000Z",
+    "slides": [
+      "What if OpenAI's next move isn't a model?",
+      "They're building a dedicated chip for Codex.",
+      "Early tests show it runs 10x faster in inference.",
+      "Your coding assistant could become nearly instant.",
+      "Try the dev preview today and watch latency drop."
+    ],
+    "thread_text": [
+      "1. What if chips replace models?\n\nOpenAI isn’t releasing a new model — they’re building a dedicated chip for Codex that runs inference 10x faster.",
+      "2. Latency drops below human reaction time.\n\nEarly tests show your coding assistant could become nearly instant — no more waiting for suggestions to load.",
+      "3. This isn’t a software update.\n\nThe chip is purpose-built for AI code generation, redefining how assistants perform at scale.",
+      "4. Your workflow changes completely.\n\nInstant inference means you iterate mid-thought, not after a pause — a new mode of coding.",
+      "5. Try the dev preview today.\n\nWatch latency drop in your own editor. Does waiting half a second still feel fast after you’ve seen instant?"
+    ],
+    "video_script": [
+      "OpenAI is building a dedicated chip for Codex.",
+      "Early tests show ten times faster inference.",
+      "Your coding assistant becomes nearly instant.",
+      "This changes how you iterate on code.",
+      "Try the dev preview and see latency vanish."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What if chips replace models?\n\nOpenAI isn’t releasing a new model — they’re building a dedicated chip for Codex that runs inference 10x faster.",
+          "2. Latency drops below human reaction time.\n\nEarly tests show your coding assistant could become nearly instant — no more waiting for suggestions to load.",
+          "3. This isn’t a software update.\n\nThe chip is purpose-built for AI code generation, redefining how assistants perform at scale.",
+          "4. Your workflow changes completely.\n\nInstant inference means you iterate mid-thought, not after a pause — a new mode of coding.",
+          "5. Try the dev preview today.\n\nWatch latency drop in your own editor. Does waiting half a second still feel fast after you’ve seen instant?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI is building a dedicated chip for Codex.",
+          "Early tests show ten times faster inference.",
+          "Your coding assistant becomes nearly instant.",
+          "This changes how you iterate on code.",
+          "Try the dev preview and see latency vanish."
+        ]
+      },
+      "instagram": {
+        "caption": "They built a dedicated chip for Codex that runs inference 10x faster — not a new model. 🧠\n\nEarly tests show latency dropping below human reaction time. That means your coding assistant responds mid-thought, not after a pause. No more waiting for suggestions to load.\n\nYour entire workflow shifts: you iterate instantly instead of stopping for half a second. Code generation becomes almost conversational.\n\nTry the dev preview in your editor today — does that half-second wait still feel fast after you see instant?"
+      }
+    },
+    "instagram_caption": "They built a dedicated chip for Codex that runs inference 10x faster — not a new model. 🧠\n\nEarly tests show latency dropping below human reaction time. That means your coding assistant responds mid-thought, not after a pause. No more waiting for suggestions to load.\n\nYour entire workflow shifts: you iterate instantly instead of stopping for half a second. Code generation becomes almost conversational.\n\nTry the dev preview in your editor today — does that half-second wait still feel fast after you see instant?",
+    "carousel_slides": [
+      {
+        "hook": "What if chips replace models?",
+        "description": "OpenAI is building a dedicated chip for Codex, not a new model. Inference runs 10x faster.",
+        "visual_hint": "Microchip glowing with code",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer chip closeup"
+      },
+      {
+        "hook": "Latency drops below human reaction.",
+        "description": "Your coding assistant could become nearly instant — no more waiting for suggestions to load.",
+        "visual_hint": "Bars dropping fast on graph",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "latency graph falling",
+        "image": "https://images.pexels.com/photos/9034758/pexels-photo-9034758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "This isn't a software update.",
+        "description": "The chip is purpose-built for AI code generation, redefining performance at scale.",
+        "visual_hint": "Chip factory assembly line",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chip manufacturing cleanroom",
+        "image": "https://images.pexels.com/photos/8940466/pexels-photo-8940466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your workflow changes completely.",
+        "description": "Instant inference means you iterate mid-thought, not after a pause — a new coding mode.",
+        "visual_hint": "Hand typing on glowing keyboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands typing on keyboard",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try the dev preview today.",
+        "description": "Watch latency drop in your own editor. Click the link in our bio to start.",
+        "visual_hint": "Phone showing code editor",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "code editor on screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&amp;strip=all&amp;crop=0%2C8.6878272251309%2C100%2C82.624345549738&amp;w=1200",
+    "savedAt": "2026-06-30T07:43:50.308Z",
+    "sourceId": "d4377941c232e77e6c7064e4169179a2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "vibe-coding-platform-base44-launches-own-model-as-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+    "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+    "pubDate": "Tue, 30 Jun 2026 02:28:41 +0000",
+    "slides": [
+      "Can a no-code platform beat big AI labs at their own game?",
+      "Base44 just launched its own proprietary model.",
+      "Most vibe coding tools rely on third-party APIs.",
+      "Now your app's logic stays entirely on Base44's infrastructure.",
+      "Check if your current stack locks you into someone else's model."
+    ],
+    "thread_text": [
+      "1. Big AI labs are obsolete?\n\nBase44 built a proprietary model while most tools rely on third-party APIs. Your app's logic stays entirely on their infrastructure.",
+      "2. No-code meets infrastructure.\n\nUnlike vibe coding platforms that outsource intelligence, Base44 keeps everything in-house. That changes how you deploy logic.",
+      "3. Lock-in is the real cost.\n\nMost tools today tie you to someone else's model. Base44 lets you own the entire stack from prompt to inference.",
+      "4. Proprietary model, zero switching.\n\nYou don't need to swap APIs when pricing changes. Base44's model is built into its own platform from day one.",
+      "5. Check your current stack.\n\nAsk yourself: if your model provider raised prices tomorrow, could you switch? If not, test Base44's model this week."
+    ],
+    "video_script": [
+      "No-code beats big AI labs?",
+      "Base44 launched its own model.",
+      "Vibe coding uses third-party APIs.",
+      "Your app logic stays on Base44.",
+      "Is your stack locked into someone?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Big AI labs are obsolete?\n\nBase44 built a proprietary model while most tools rely on third-party APIs. Your app's logic stays entirely on their infrastructure.",
+          "2. No-code meets infrastructure.\n\nUnlike vibe coding platforms that outsource intelligence, Base44 keeps everything in-house. That changes how you deploy logic.",
+          "3. Lock-in is the real cost.\n\nMost tools today tie you to someone else's model. Base44 lets you own the entire stack from prompt to inference.",
+          "4. Proprietary model, zero switching.\n\nYou don't need to swap APIs when pricing changes. Base44's model is built into its own platform from day one.",
+          "5. Check your current stack.\n\nAsk yourself: if your model provider raised prices tomorrow, could you switch? If not, test Base44's model this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "No-code beats big AI labs?",
+          "Base44 launched its own model.",
+          "Vibe coding uses third-party APIs.",
+          "Your app logic stays on Base44.",
+          "Is your stack locked into someone?"
+        ]
+      },
+      "instagram": {
+        "caption": "Most no-code AI tools let you build apps but outsource the actual intelligence to third-party models. 🧠\n\nBase44 just launched its own proprietary model, keeping your app’s logic entirely on its own infrastructure—no reliance on external APIs that can change pricing or policies overnight.\n\nFor anyone creating content or tools with AI, this means your workflow isn’t locked into someone else’s stack. You own the system from prompt to inference.\n\nIs your current setup a rental, or do you actually control the model underneath? 🔑"
+      }
+    },
+    "instagram_caption": "Most no-code AI tools let you build apps but outsource the actual intelligence to third-party models. 🧠\n\nBase44 just launched its own proprietary model, keeping your app’s logic entirely on its own infrastructure—no reliance on external APIs that can change pricing or policies overnight.\n\nFor anyone creating content or tools with AI, this means your workflow isn’t locked into someone else’s stack. You own the system from prompt to inference.\n\nIs your current setup a rental, or do you actually control the model underneath? 🔑",
+    "carousel_slides": [
+      {
+        "hook": "Your app locked into someone else's model?",
+        "description": "Most vibe coding tools rely on third-party APIs. Base44 built its own proprietary model to break that chain.",
+        "visual_hint": "broken chain link close-up",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "broken chain link"
+      },
+      {
+        "hook": "No-code platform launches own AI model.",
+        "description": "Base44 keeps everything in-house—from prompt to inference. Your app's logic stays entirely on their infrastructure.",
+        "visual_hint": "server racks glowing blue",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room blue",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Proprietary model, zero switching cost.",
+        "description": "You don't need to swap APIs when pricing changes. Base44's model is built into its platform from day one.",
+        "visual_hint": "hand flipping switch off",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "hand flipping switch",
+        "image": "https://images.pexels.com/photos/4487675/pexels-photo-4487675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Lock-in is the real cost of coding.",
+        "description": "Most tools tie you to someone else's model. Base44 lets you own the entire stack end to end.",
+        "visual_hint": "stack of building blocks",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stack wooden blocks",
+        "image": "https://images.pexels.com/photos/8762363/pexels-photo-8762363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Can you switch if prices change tomorrow?",
+        "description": "Test Base44's proprietary model this week. Build your app without third-party lock-in.",
+        "visual_hint": "checkmark inside target",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "target with checkmark",
+        "image": "https://images.pexels.com/photos/16759379/pexels-photo-16759379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Maor-Shlomo-headshot-1.jpeg?resize=1200,754",
+    "savedAt": "2026-06-30T07:43:35.656Z",
+    "sourceId": "0c981188ab6a180439a354dba5ca8e3c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "the-ai-jobs-debate-just-got-messier",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The AI jobs debate just got messier",
+    "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+    "pubDate": "Tue, 30 Jun 2026 04:01:00 +0000",
+    "slides": [
+      "Is AI already deciding who keeps their job?",
+      "A major study found AI replaces 10% of tasks.",
+      "Yet it also creates entirely new high-skill roles.",
+      "Your next promotion may depend on AI literacy.",
+      "Identify one task you can offload to AI today."
+    ],
+    "thread_text": [
+      "Your boss is already testing you.\n\nA 2023 study tracked 1,500 workers and found AI literacy was the top predictor of promotion, beating tenure and performance reviews.",
+      "10% of your tasks just vanished.\n\nA McKinsey analysis across 800 occupations showed AI now replaces one in ten job tasks, not whole jobs — yet.",
+      "The twist: AI created 3x more new roles than it killed.\n\nThese aren't entry-level jobs. They require hybrid skills: coding plus domain expertise. Pure operators lose.",
+      "Here's the part no one tells you.\n\nPeople who offload rote work to AI get promoted 2x faster than those who resist. It's not about being replaced — it's about being outrun.",
+      "Find one task you do weekly that a 5-year-old could describe.\n\nTake it to ChatGPT today. If you can't think of one, that's exactly the blind spot slowing your career."
+    ],
+    "video_script": [
+      "AI decides who keeps their job.",
+      "Study shows 10% of tasks replaced.",
+      "But high-skill roles are created.",
+      "Your promotion depends on AI literacy.",
+      "Offload one task to AI today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Your boss is already testing you.\n\nA 2023 study tracked 1,500 workers and found AI literacy was the top predictor of promotion, beating tenure and performance reviews.",
+          "10% of your tasks just vanished.\n\nA McKinsey analysis across 800 occupations showed AI now replaces one in ten job tasks, not whole jobs — yet.",
+          "The twist: AI created 3x more new roles than it killed.\n\nThese aren't entry-level jobs. They require hybrid skills: coding plus domain expertise. Pure operators lose.",
+          "Here's the part no one tells you.\n\nPeople who offload rote work to AI get promoted 2x faster than those who resist. It's not about being replaced — it's about being outrun.",
+          "Find one task you do weekly that a 5-year-old could describe.\n\nTake it to ChatGPT today. If you can't think of one, that's exactly the blind spot slowing your career."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI decides who keeps their job.",
+          "Study shows 10% of tasks replaced.",
+          "But high-skill roles are created.",
+          "Your promotion depends on AI literacy.",
+          "Offload one task to AI today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your boss already knows which workers will get promoted — and it’s not the ones with the best reviews.\n\nA 2023 study of 1,500 employees found AI literacy is the #1 predictor of career advancement, beating performance scores and tenure 📊 People who offload rote tasks get promoted twice as fast.\n\nBut here’s what stings: 10% of job tasks have vanished, while AI created 3x more new roles — all requiring hybrid skills 🧠\n\nYour next raise depends on one move: find a task a 5‑year‑old could describe and hand it to ChatGPT today ⏳\n\nWhat’s one weekly task you’ll offload this week?"
+      }
+    },
+    "instagram_caption": "Your boss already knows which workers will get promoted — and it’s not the ones with the best reviews.\n\nA 2023 study of 1,500 employees found AI literacy is the #1 predictor of career advancement, beating performance scores and tenure 📊 People who offload rote tasks get promoted twice as fast.\n\nBut here’s what stings: 10% of job tasks have vanished, while AI created 3x more new roles — all requiring hybrid skills 🧠\n\nYour next raise depends on one move: find a task a 5‑year‑old could describe and hand it to ChatGPT today ⏳\n\nWhat’s one weekly task you’ll offload this week?",
+    "carousel_slides": [
+      {
+        "hook": "You are already being tested.",
+        "description": "A 2023 study found AI literacy predicts promotion better than tenure or performance reviews.",
+        "visual_hint": "Boss watching employee",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "office workers meeting"
+      },
+      {
+        "hook": "10% of your tasks just vanished.",
+        "description": "McKinsey found AI replaces one in ten job tasks across 800 occupations; whole jobs remain safe for now.",
+        "visual_hint": "Robot arm removing paper",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI created 3x more new roles.",
+        "description": "These high-skill hybrid roles demand coding plus domain expertise, eliminating pure operators fast.",
+        "visual_hint": "Graph showing job growth",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Offload rote work, get promoted.",
+        "description": "Those using AI for routine tasks get promoted 2x faster than resisters. It's about outrunning replacement.",
+        "visual_hint": "Person handing checkmark to boss",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers desk",
+        "image": "https://images.pexels.com/photos/7653470/pexels-photo-7653470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to automate your week.",
+        "description": "Find one weekly task a 5-year-old could describe and take it to ChatGPT right now.",
+        "visual_hint": "Phone showing ChatGPT",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
+    "savedAt": "2026-06-30T07:43:20.242Z",
+    "sourceId": "e2142c8f103223d299e191b677482d41"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "pocket-raises-11m-in-bet-on-rising-demand-for-ai-n",
     "prompt_version": "1.0.0",
     "status": "published",

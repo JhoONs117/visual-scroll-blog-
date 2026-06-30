@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "vibe-coding-platform-base44-launches-own-model-as-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+  "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+  "pubDate": "Tue, 30 Jun 2026 02:28:41 +0000",
+  "slides": [
+    "Can a no-code platform beat big AI labs at their own game?",
+    "Base44 just launched its own proprietary model.",
+    "Most vibe coding tools rely on third-party APIs.",
+    "Now your app's logic stays entirely on Base44's infrastructure.",
+    "Check if your current stack locks you into someone else's model."
+  ],
+  "thread_text": [
+    "1. Big AI labs are obsolete?\n\nBase44 built a proprietary model while most tools rely on third-party APIs. Your app's logic stays entirely on their infrastructure.",
+    "2. No-code meets infrastructure.\n\nUnlike vibe coding platforms that outsource intelligence, Base44 keeps everything in-house. That changes how you deploy logic.",
+    "3. Lock-in is the real cost.\n\nMost tools today tie you to someone else's model. Base44 lets you own the entire stack from prompt to inference.",
+    "4. Proprietary model, zero switching.\n\nYou don't need to swap APIs when pricing changes. Base44's model is built into its own platform from day one.",
+    "5. Check your current stack.\n\nAsk yourself: if your model provider raised prices tomorrow, could you switch? If not, test Base44's model this week."
+  ],
+  "video_script": [
+    "No-code beats big AI labs?",
+    "Base44 launched its own model.",
+    "Vibe coding uses third-party APIs.",
+    "Your app logic stays on Base44.",
+    "Is your stack locked into someone?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Big AI labs are obsolete?\n\nBase44 built a proprietary model while most tools rely on third-party APIs. Your app's logic stays entirely on their infrastructure.",
+        "2. No-code meets infrastructure.\n\nUnlike vibe coding platforms that outsource intelligence, Base44 keeps everything in-house. That changes how you deploy logic.",
+        "3. Lock-in is the real cost.\n\nMost tools today tie you to someone else's model. Base44 lets you own the entire stack from prompt to inference.",
+        "4. Proprietary model, zero switching.\n\nYou don't need to swap APIs when pricing changes. Base44's model is built into its own platform from day one.",
+        "5. Check your current stack.\n\nAsk yourself: if your model provider raised prices tomorrow, could you switch? If not, test Base44's model this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "No-code beats big AI labs?",
+        "Base44 launched its own model.",
+        "Vibe coding uses third-party APIs.",
+        "Your app logic stays on Base44.",
+        "Is your stack locked into someone?"
+      ]
+    },
+    "instagram": {
+      "caption": "Most no-code AI tools let you build apps but outsource the actual intelligence to third-party models. 🧠\n\nBase44 just launched its own proprietary model, keeping your app’s logic entirely on its own infrastructure—no reliance on external APIs that can change pricing or policies overnight.\n\nFor anyone creating content or tools with AI, this means your workflow isn’t locked into someone else’s stack. You own the system from prompt to inference.\n\nIs your current setup a rental, or do you actually control the model underneath? 🔑"
+    }
+  },
+  "instagram_caption": "Most no-code AI tools let you build apps but outsource the actual intelligence to third-party models. 🧠\n\nBase44 just launched its own proprietary model, keeping your app’s logic entirely on its own infrastructure—no reliance on external APIs that can change pricing or policies overnight.\n\nFor anyone creating content or tools with AI, this means your workflow isn’t locked into someone else’s stack. You own the system from prompt to inference.\n\nIs your current setup a rental, or do you actually control the model underneath? 🔑",
+  "carousel_slides": [
+    {
+      "hook": "Your app locked into someone else's model?",
+      "description": "Most vibe coding tools rely on third-party APIs. Base44 built its own proprietary model to break that chain.",
+      "visual_hint": "broken chain link close-up",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken chain link"
+    },
+    {
+      "hook": "No-code platform launches own AI model.",
+      "description": "Base44 keeps everything in-house—from prompt to inference. Your app's logic stays entirely on their infrastructure.",
+      "visual_hint": "server racks glowing blue",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room blue",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Proprietary model, zero switching cost.",
+      "description": "You don't need to swap APIs when pricing changes. Base44's model is built into its platform from day one.",
+      "visual_hint": "hand flipping switch off",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hand flipping switch",
+      "image": "https://images.pexels.com/photos/4487675/pexels-photo-4487675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Lock-in is the real cost of coding.",
+      "description": "Most tools tie you to someone else's model. Base44 lets you own the entire stack end to end.",
+      "visual_hint": "stack of building blocks",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stack wooden blocks",
+      "image": "https://images.pexels.com/photos/8762363/pexels-photo-8762363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can you switch if prices change tomorrow?",
+      "description": "Test Base44's proprietary model this week. Build your app without third-party lock-in.",
+      "visual_hint": "checkmark inside target",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "target with checkmark",
+      "image": "https://images.pexels.com/photos/16759379/pexels-photo-16759379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Maor-Shlomo-headshot-1.jpeg?resize=1200,754",
+  "savedAt": "2026-06-30T07:43:35.656Z",
+  "sourceId": "0c981188ab6a180439a354dba5ca8e3c"
+}

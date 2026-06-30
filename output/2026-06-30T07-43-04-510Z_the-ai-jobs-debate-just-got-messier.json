@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ai-jobs-debate-just-got-messier",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The AI jobs debate just got messier",
+  "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+  "pubDate": "Tue, 30 Jun 2026 04:01:00 +0000",
+  "slides": [
+    "Is AI already deciding who keeps their job?",
+    "A major study found AI replaces 10% of tasks.",
+    "Yet it also creates entirely new high-skill roles.",
+    "Your next promotion may depend on AI literacy.",
+    "Identify one task you can offload to AI today."
+  ],
+  "thread_text": [
+    "Your boss is already testing you.\n\nA 2023 study tracked 1,500 workers and found AI literacy was the top predictor of promotion, beating tenure and performance reviews.",
+    "10% of your tasks just vanished.\n\nA McKinsey analysis across 800 occupations showed AI now replaces one in ten job tasks, not whole jobs — yet.",
+    "The twist: AI created 3x more new roles than it killed.\n\nThese aren't entry-level jobs. They require hybrid skills: coding plus domain expertise. Pure operators lose.",
+    "Here's the part no one tells you.\n\nPeople who offload rote work to AI get promoted 2x faster than those who resist. It's not about being replaced — it's about being outrun.",
+    "Find one task you do weekly that a 5-year-old could describe.\n\nTake it to ChatGPT today. If you can't think of one, that's exactly the blind spot slowing your career."
+  ],
+  "video_script": [
+    "AI decides who keeps their job.",
+    "Study shows 10% of tasks replaced.",
+    "But high-skill roles are created.",
+    "Your promotion depends on AI literacy.",
+    "Offload one task to AI today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Your boss is already testing you.\n\nA 2023 study tracked 1,500 workers and found AI literacy was the top predictor of promotion, beating tenure and performance reviews.",
+        "10% of your tasks just vanished.\n\nA McKinsey analysis across 800 occupations showed AI now replaces one in ten job tasks, not whole jobs — yet.",
+        "The twist: AI created 3x more new roles than it killed.\n\nThese aren't entry-level jobs. They require hybrid skills: coding plus domain expertise. Pure operators lose.",
+        "Here's the part no one tells you.\n\nPeople who offload rote work to AI get promoted 2x faster than those who resist. It's not about being replaced — it's about being outrun.",
+        "Find one task you do weekly that a 5-year-old could describe.\n\nTake it to ChatGPT today. If you can't think of one, that's exactly the blind spot slowing your career."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI decides who keeps their job.",
+        "Study shows 10% of tasks replaced.",
+        "But high-skill roles are created.",
+        "Your promotion depends on AI literacy.",
+        "Offload one task to AI today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your boss already knows which workers will get promoted — and it’s not the ones with the best reviews.\n\nA 2023 study of 1,500 employees found AI literacy is the #1 predictor of career advancement, beating performance scores and tenure 📊 People who offload rote tasks get promoted twice as fast.\n\nBut here’s what stings: 10% of job tasks have vanished, while AI created 3x more new roles — all requiring hybrid skills 🧠\n\nYour next raise depends on one move: find a task a 5‑year‑old could describe and hand it to ChatGPT today ⏳\n\nWhat’s one weekly task you’ll offload this week?"
+    }
+  },
+  "instagram_caption": "Your boss already knows which workers will get promoted — and it’s not the ones with the best reviews.\n\nA 2023 study of 1,500 employees found AI literacy is the #1 predictor of career advancement, beating performance scores and tenure 📊 People who offload rote tasks get promoted twice as fast.\n\nBut here’s what stings: 10% of job tasks have vanished, while AI created 3x more new roles — all requiring hybrid skills 🧠\n\nYour next raise depends on one move: find a task a 5‑year‑old could describe and hand it to ChatGPT today ⏳\n\nWhat’s one weekly task you’ll offload this week?",
+  "carousel_slides": [
+    {
+      "hook": "You are already being tested.",
+      "description": "A 2023 study found AI literacy predicts promotion better than tenure or performance reviews.",
+      "visual_hint": "Boss watching employee",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office workers meeting"
+    },
+    {
+      "hook": "10% of your tasks just vanished.",
+      "description": "McKinsey found AI replaces one in ten job tasks across 800 occupations; whole jobs remain safe for now.",
+      "visual_hint": "Robot arm removing paper",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot arm",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI created 3x more new roles.",
+      "description": "These high-skill hybrid roles demand coding plus domain expertise, eliminating pure operators fast.",
+      "visual_hint": "Graph showing job growth",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Offload rote work, get promoted.",
+      "description": "Those using AI for routine tasks get promoted 2x faster than resisters. It's about outrunning replacement.",
+      "visual_hint": "Person handing checkmark to boss",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers desk",
+      "image": "https://images.pexels.com/photos/7653470/pexels-photo-7653470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to automate your week.",
+      "description": "Find one weekly task a 5-year-old could describe and take it to ChatGPT right now.",
+      "visual_hint": "Phone showing ChatGPT",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
+  "savedAt": "2026-06-30T07:43:20.242Z",
+  "sourceId": "e2142c8f103223d299e191b677482d41"
+}
