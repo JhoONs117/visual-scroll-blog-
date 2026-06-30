@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "pasta-con-crema-di-zucchine-acciughe-e-pangrattato",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pasta con crema di zucchine, acciughe e pangrattato",
+    "link": "https://ricette.giallozafferano.it/Pasta-con-crema-di-zucchine-acciughe-e-pangrattato.html",
+    "pubDate": "Tue, 30 Jun 2026 12:15:00 +0200",
+    "content": "Pasta con crema di zucchine, acciughe e pangrattato: ricetta facile Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta con crema di zucchine, acciughe e pangrattato /5 Ricetta proposta da Lulù Gargari CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 10 min Cottura: 25 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Cerchi un’idea diversa dal solito per portare in tavola un primo piatto cremoso per l'estate? La pasta con crema di zucchine, acciughe e pangrattato è la ricetta perfetta. Si tratta di un piatto genuino, fresco e ricco di contrasti, ideale per i mesi caldi quando si desidera una pietanza saporita con ingredienti di stagione. La dolcezza avvolgente delle zucchine frullate si sposa alla perfezione con la nota sapida dell'acciuga, che dona un tocco stuzzicante al condimento. A fare la differenza è la consistenza: un pangrattato tostato e croccante, reso super fresco grazie alla scorza di limone grattugiata che aromatizza ogni boccone. Questo primo piatto estivo non è solo una gioia per il palato, ma è anche una scelta strategica in cucina: ha un costo basso ed è una ricetta facilissima da preparare nel tempo di cottura dei fusilloni. Scoprite altre sfiziose ricette di pasta con le zucchine : Pasta con crema di zucchine gialle e prosciutto Pasta cremosa speck e zucchine Trofie con crema di zucchine e pancetta Pasta con crema di zucchine e caprino al limone e curcuma Pasta con crema di zucchine e burrata INGREDIENTI Fusilloni 320 g Zucchine 500 g Acciughe sott'olio 10 g Olio extravergine d'oliva 20 g Pangrattato 50 g Scorza di limone 1 Sale fino q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con crema di zucchine, acciughe e pangrattato Per preparare la pasta con crema di zucchine, acciughe e pangrattato, spuntate le zucchine 1 , poi tagliatele prima a bastoncini 2 , poi a cubetti di circa 1 cm 3 . Intanto portate a bollore una pentola colma di acqua salata. In una padella scaldate l'olio 4 , versate le zucchine 5 e insaporite con un filetto di acciuga 6 . Saltatele in padella finché saranno morbide, ci vorranno circa 10 minuti a fuoco medio 7 . Trasferite le zucchine cotte in una brocca 8 , avendo cura di tenerne da parte una manciata 9 . Aggiungete un mestolino di acqua di cottura della pasta 10 , salate 11 e frullate con il mixer a immersione 12 . Dovete ottenere una crema liscia 13 , regolando eventualmente la consistenza con altra acqua. Trasferite la crema nella padella con le restanti zucchine a cubetti 14 . In una padella a parte tostate il pangrattato con l'olio per 2 -3 minuti 15 . Profumate con la scorza di limone 16 e tenete da parte il pangrattato 17 . Ora cuocete i fusilloni per il tempo indicato sulla confezione 18 . Scolate la pasta direttamente nella padella con la crema di zucchine 19 e mantecate per un minuto, aggiungendo poca acqua di cottura se necessario 20 21 . Servite la pasta con crema di zucchine, acciughe e pangrattato 22 completando con il condimento 23 e il pangrattato croccante al limone 24 . Conservazione Consigliamo di consumare subito la pasta con crema di zucchine, acciughe e pangrattato. Potete preparare in anticipo la crema di zucchine e conservarla in frigo. Consiglio Potete preparare anche una gustosa versione vegetariana di questo primo piatto sostituendo semplicemente le acciughe con dei pomodori secchi sott'olio, che vi basterà tagliare a striscioline e far saltare in padella insieme alle zucchine. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchine Pasta Olio di oliva Limone Scopri tutto sugli ingredienti Presente in: Primi piatti di pesce STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta con crema di zucchine, acciughe e pangrattato 5.0 Pancake all'avena con salmone 5.0 Benessere Riso venere con gamberi, zucchine e menta 5.0 SCOPRI Pasta crema di zucchine Pasta con pangrattato Pasta broccoli e acciughe Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Pasta cremosa senza panna per l’estate.",
+      "Zucchine, acciughe, pangrattato, limone.",
+      "Taglia le zucchine e cuocile con acciuga.",
+      "Frulla le zucchine con acqua di cottura.",
+      "Guarnisci con pangrattato croccante al limone."
+    ],
+    "instagram_caption": "Estate significa una cosa sola: pasta fresca, leggera e saporita. Questa crema vellutata alle zucchine con acciughe è il comfort food che non ti appesantisce, ma ti conquista al primo morso. Il segreto? Frullo le zucchine con l’acqua di cottura per una cremosità senza panna, mentre il pangrattato croccante al limone dà quel tocco inaspettato che fa la differenza. 😋🍋  \nProvala subito, la cena perfetta è servita. 🌿",
+    "formats": {
+      "instagram": {
+        "caption": "Estate significa una cosa sola: pasta fresca, leggera e saporita. Questa crema vellutata alle zucchine con acciughe è il comfort food che non ti appesantisce, ma ti conquista al primo morso. Il segreto? Frullo le zucchine con l’acqua di cottura per una cremosità senza panna, mentre il pangrattato croccante al limone dà quel tocco inaspettato che fa la differenza. 😋🍋  \nProvala subito, la cena perfetta è servita. 🌿"
+      },
+      "tiktok": {
+        "script": [
+          "Taglio le zucchine a cubetti.",
+          "Le cuocio con l'acciuga in padella.",
+          "Frullo tutto con acqua di cottura.",
+          "Condisco la pasta con la crema.",
+          "Pangrattato croccante al limone, via!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Se cerchi una pasta cremosa senza panna e perfetta per l’estate, questa è la svolta. 👇",
+          "Zucchine, acciughe, pangrattato e limone: quattro ingredienti per un piatto che sa di mare e di terra.",
+          "Taglia le zucchine a cubetti e cuocile in padella con un’acciuga: si scioglierà e darà un sapore pazzesco.",
+          "Frulla tutto con un mestolo di acqua di cottura: crei una crema vellutata che avvolge la pasta alla perfezione.",
+          "Il trucco? Pangrattato tostato al limone sopra — croccante e fresco. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Taglio le zucchine a cubetti.",
+      "Le cuocio con l'acciuga in padella.",
+      "Frullo tutto con acqua di cottura.",
+      "Condisco la pasta con la crema.",
+      "Pangrattato croccante al limone, via!"
+    ],
+    "thread_text": [
+      "Se cerchi una pasta cremosa senza panna e perfetta per l’estate, questa è la svolta. 👇",
+      "Zucchine, acciughe, pangrattato e limone: quattro ingredienti per un piatto che sa di mare e di terra.",
+      "Taglia le zucchine a cubetti e cuocile in padella con un’acciuga: si scioglierà e darà un sapore pazzesco.",
+      "Frulla tutto con un mestolo di acqua di cottura: crei una crema vellutata che avvolge la pasta alla perfezione.",
+      "Il trucco? Pangrattato tostato al limone sopra — croccante e fresco. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta cremosa senza panna per l'estate",
+        "description": "Un primo leggero e saporito, cremoso grazie alla zucchina frullata, perfetto per le serate calde.",
+        "visual_hint": "piatto di pasta in tavola estiva",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "creamy zucchini pasta savoury"
+      },
+      {
+        "hook": "Zucchine, acciughe, pangrattato, limone",
+        "description": "Quattro ingredienti semplici che insieme creano un equilibrio perfetto tra fresco, salato e croccante.",
+        "visual_hint": "ingredienti su tagliere di legno",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "zucchini anchovies breadcrumbs savoury",
+        "image": "https://images.pexels.com/photos/5602610/pexels-photo-5602610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Taglia e cuoci le zucchine con acciuga",
+        "description": "Rosola le zucchine a dadini con un filetto di acciuga finché non si scioglie e aromatizza tutto.",
+        "visual_hint": "mano che versa zucchine in padella",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cooking zucchini anchovy savoury",
+        "image": "https://images.pexels.com/photos/6399809/pexels-photo-6399809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Frulla le zucchine con acqua di cottura",
+        "description": "Trasferisci le zucchine cotte nel mixer con un po' di acqua di pasta: ottieni una crema vellutata senza panna.",
+        "visual_hint": "frullatore con crema verde",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "blending zucchini cream savoury",
+        "image": "https://images.pexels.com/photos/7937018/pexels-photo-7937018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Guarnisci con pangrattato croccante al limone",
+        "description": "Tosta il pangrattato in padella con scorza di limone e olio: cospargi sulla pasta per un tocco croccante e profumato.",
+        "visual_hint": "piatto di pasta finito con pangrattato",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "pasta with crispy breadcrumbs savoury",
+        "image": "https://images.pexels.com/photos/10520439/pexels-photo-10520439.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "zucchine",
+      "acciughe",
+      "pangrattato"
+    ],
+    "image": "https://www.giallozafferano.it/images/363-36382/Pasta-con-crema-di-zucchine-acciughe-e-pangrattato_650x433_wm.jpg",
+    "savedAt": "2026-06-30T14:08:06.414Z",
+    "sourceId": "c2dd4b91b81f3c9f9fa659b050955c7a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "pasta-con-nduja-mazzancolle-e-stracciatella",
     "prompt_version": "1.0.0",
     "status": "published",

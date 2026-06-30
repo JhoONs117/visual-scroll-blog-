@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "tidal-won-t-pay-royalties-on-ai-generated-music-bu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
+  "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+  "pubDate": "2026-06-29T19:47:35.000Z",
+  "slides": [
+    "Tidal won't pay royalties for AI music—so why allow it?",
+    "Streaming platforms fear losing human artists to machines.",
+    "Tidal now accepts AI tracks but labels them clearly.",
+    "Labels must decide if AI music dilutes their catalog value.",
+    "Check your streaming revenue: is AI competing with you?"
+  ],
+  "thread_text": [
+    "1. Why allow AI music?\n\nTidal won't pay royalties for AI tracks — yet they let artists upload them anyway.",
+    "2. Platforms need humans.\n\nStreaming services fear losing top creators to machines that never ask for a raise.",
+    "3. Labels face a choice.\n\nEvery AI track accepted risks diluting the value of your catalog — or is it a new revenue stream?",
+    "4. Transparency is the fix.\n\nTidal now labels AI tracks clearly, but the label decides what that label is worth.",
+    "5. Check your streaming revenue.\n\nOpen your distributor dashboard and sort by AI-generated tracks. Are they eating your plays?"
+  ],
+  "video_script": [
+    "Tidal hosts AI music but won't pay royalties.",
+    "Streaming platforms fear losing human artists.",
+    "Tidal labels AI tracks for transparency now.",
+    "Labels decide if AI dilutes catalog value.",
+    "Check your streaming revenue for AI competition."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why allow AI music?\n\nTidal won't pay royalties for AI tracks — yet they let artists upload them anyway.",
+        "2. Platforms need humans.\n\nStreaming services fear losing top creators to machines that never ask for a raise.",
+        "3. Labels face a choice.\n\nEvery AI track accepted risks diluting the value of your catalog — or is it a new revenue stream?",
+        "4. Transparency is the fix.\n\nTidal now labels AI tracks clearly, but the label decides what that label is worth.",
+        "5. Check your streaming revenue.\n\nOpen your distributor dashboard and sort by AI-generated tracks. Are they eating your plays?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Tidal hosts AI music but won't pay royalties.",
+        "Streaming platforms fear losing human artists.",
+        "Tidal labels AI tracks for transparency now.",
+        "Labels decide if AI dilutes catalog value.",
+        "Check your streaming revenue for AI competition."
+      ]
+    },
+    "instagram": {
+      "caption": "Tidal is now accepting AI-generated music on its platform, but will not pay royalties for those tracks. 🎵\n\nThe streaming giant requires AI tracks to be clearly labeled, yet allows them to compete directly with human artists for listeners. Platforms like this fear losing creators to machines that never demand payment.\n\nIf you're an artist or label, every AI song on your distributor's dashboard is now a potential competitor for your own streaming revenue. 🧾\n\nOpen your Spotify or Tidal for Artists page right now: how many of your recent monthly plays are being \"won\" by AI-generated tracks you never approved? 🤔"
+    }
+  },
+  "instagram_caption": "Tidal is now accepting AI-generated music on its platform, but will not pay royalties for those tracks. 🎵\n\nThe streaming giant requires AI tracks to be clearly labeled, yet allows them to compete directly with human artists for listeners. Platforms like this fear losing creators to machines that never demand payment.\n\nIf you're an artist or label, every AI song on your distributor's dashboard is now a potential competitor for your own streaming revenue. 🧾\n\nOpen your Spotify or Tidal for Artists page right now: how many of your recent monthly plays are being \"won\" by AI-generated tracks you never approved? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Labels decide if AI music dilutes your catalog?",
+      "description": "Tidal allows AI tracks but leaves the value call to labels. Every acceptance risks your catalog's worth.",
+      "visual_hint": "Vinyl record with question mark",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "record store shelf"
+    },
+    {
+      "hook": "Streaming platforms fear losing human artists.",
+      "description": "Services rely on humans for hits. AI never asks for raises, but fans want real creators.",
+      "visual_hint": "Robot hand empty stage",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "empty concert stage",
+      "image": "https://images.pexels.com/photos/8937014/pexels-photo-8937014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tidal labels AI tracks — but is that enough?",
+      "description": "Transparency is a step, but the label must decide if the label is worth the risk or new revenue.",
+      "visual_hint": "Magnifying glass over music note",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass sheet music",
+      "image": "https://images.pexels.com/photos/6661073/pexels-photo-6661073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Labels fear AI diluting their catalog value.",
+      "description": "Every AI track accepted could dilute the catalog's value — or open a new revenue stream.",
+      "visual_hint": "Falling graph with music notes",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Open your dashboard and check AI tracks now.",
+      "description": "Sort your streaming data by AI-generated tracks. Are they eating your plays? See in your distributor.",
+      "visual_hint": "Laptop screen with streams data",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop streaming analytics",
+      "image": "https://images.pexels.com/photos/5717766/pexels-photo-5717766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-06-30T13:59:13.841Z",
+  "sourceId": "6e0dbec31b286fba59c72659daf62ee4"
+}
