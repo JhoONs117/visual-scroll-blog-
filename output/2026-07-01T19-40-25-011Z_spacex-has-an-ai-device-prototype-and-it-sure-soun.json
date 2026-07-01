@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spacex-has-an-ai-device-prototype-and-it-sure-soun",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+  "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+  "pubDate": "Wed, 01 Jul 2026 18:54:18 +0000",
+  "slides": [
+    "SpaceX built an AI device prototype. What for?",
+    "It runs neural nets locally without cloud lag.",
+    "But its form factor looks suspiciously like a smartphone.",
+    "Your next phone could be a Starlink terminal with an AI brain.",
+    "Watch for SpaceX to skip carriers—not just phones."
+  ],
+  "thread_text": [
+    "SpaceX built a prototype.\n\nIt's an AI device that runs neural nets locally, no cloud lag.",
+    "It looks like a smartphone.\n\nBut its real job is to connect directly to Starlink satellites.",
+    "Your next phone could be a Starlink terminal.\n\nWith an AI brain baked in, no carrier needed.",
+    "Watch for SpaceX to skip carriers entirely.\n\nNot just phones — any device could get this.",
+    "Ask yourself: when was the last time you needed a cell tower?\n\nIf this ships, your pocket changes the network."
+  ],
+  "video_script": [
+    "SpaceX built an AI prototype.",
+    "It runs neural nets offline.",
+    "It looks just like a phone.",
+    "Your next phone connects to Starlink.",
+    "SpaceX might cut out carriers."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "SpaceX built a prototype.\n\nIt's an AI device that runs neural nets locally, no cloud lag.",
+        "It looks like a smartphone.\n\nBut its real job is to connect directly to Starlink satellites.",
+        "Your next phone could be a Starlink terminal.\n\nWith an AI brain baked in, no carrier needed.",
+        "Watch for SpaceX to skip carriers entirely.\n\nNot just phones — any device could get this.",
+        "Ask yourself: when was the last time you needed a cell tower?\n\nIf this ships, your pocket changes the network."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "SpaceX built an AI prototype.",
+        "It runs neural nets offline.",
+        "It looks just like a phone.",
+        "Your next phone connects to Starlink.",
+        "SpaceX might cut out carriers."
+      ]
+    },
+    "instagram": {
+      "caption": "SpaceX built a prototype AI device that runs neural nets locally, no cloud lag—and it looks suspiciously like a smartphone. 📱\n\nIt connects directly to Starlink satellites, skipping cell towers entirely. Your next phone could be a Starlink terminal with an AI brain baked in.\n\nFor anyone creating or publishing content, this means anytime, anywhere connectivity with local AI processing—no carrier, no dead zones.\n\nWhen was the last time you actually needed a tower to post? 🛰️"
+    }
+  },
+  "instagram_caption": "SpaceX built a prototype AI device that runs neural nets locally, no cloud lag—and it looks suspiciously like a smartphone. 📱\n\nIt connects directly to Starlink satellites, skipping cell towers entirely. Your next phone could be a Starlink terminal with an AI brain baked in.\n\nFor anyone creating or publishing content, this means anytime, anywhere connectivity with local AI processing—no carrier, no dead zones.\n\nWhen was the last time you actually needed a tower to post? 🛰️",
+  "carousel_slides": [
+    {
+      "hook": "Your next phone without carriers?",
+      "description": "SpaceX built an AI device running neural nets locally, no cloud lag. It connects directly to Starlink satellites.",
+      "visual_hint": "Mysterious black device prototype",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "SpaceX device prototype"
+    },
+    {
+      "hook": "Smartphone look, satellite brain.",
+      "description": "The prototype looks like a smartphone but its real job is to connect to Starlink satellites as a terminal.",
+      "visual_hint": "Smartphone with satellite dish",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone with satellite",
+      "image": "https://images.pexels.com/photos/8346132/pexels-photo-8346132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No cell tower needed ever.",
+      "description": "Starlink terminal with an AI brain means direct satellite connection, skipping traditional carriers entirely.",
+      "visual_hint": "Satellite connecting to phone",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "Starlink satellite network",
+      "image": "https://images.pexels.com/photos/18901338/pexels-photo-18901338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your pocket becomes the network.",
+      "description": "Any device could get this AI-powered Starlink link, not just phones. Carriers may become obsolete.",
+      "visual_hint": "Hand holding device in pocket",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for the revolution.",
+      "description": "Check the link in bio to see how SpaceX is reshaping connectivity and why carriers should worry.",
+      "visual_hint": "Arrow pointing to link button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "link in bio icon",
+      "image": "https://images.pexels.com/photos/20131184/pexels-photo-20131184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390033.jpg?resize=1200,675",
+  "savedAt": "2026-07-01T19:40:51.115Z",
+  "sourceId": "cba85e1be003126f85c99007934c19e3"
+}

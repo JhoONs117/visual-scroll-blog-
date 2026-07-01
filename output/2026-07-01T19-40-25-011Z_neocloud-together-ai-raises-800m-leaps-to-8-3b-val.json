@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "neocloud-together-ai-raises-800m-leaps-to-8-3b-val",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+  "link": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+  "pubDate": "Wed, 01 Jul 2026 18:29:14 +0000",
+  "slides": [
+    "Together AI just raised $800M. What did they promise investors?",
+    "They build 'neocloud' infrastructure—renting GPUs for AI training.",
+    "Rivals rent by the hour; Together locks clients into longer contracts.",
+    "Your GPU costs just plummet if you commit to their new terms.",
+    "Ask your infra team: could a longer deal cut costs by 40%?"
+  ],
+  "thread_text": [
+    "1. The $800M bet\n\nInvestors just handed Together AI nearly a billion dollars. The catch? They're not building the next ChatGPT.",
+    "2. Not hourly anymore\n\nMost GPU rentals charge by the clock. Together AI is flipping that model: lower upfront price for locked-in months.",
+    "3. Commit to win\n\nYour per-GPU cost drops the longer you commit. A 12-month contract beats spot pricing by a wide margin.",
+    "4. The real cost trap\n\nShort-term GPU rental looks cheap. Add up the total over a training run and the savings from a longer deal hit 40%.",
+    "5. Ask your team\n\nRun the numbers on your next training project. Would a 6-month GPU deal change your cost per experiment?"
+  ],
+  "video_script": [
+    "Together AI raised 800 million dollars.",
+    "They rent GPUs for longer contracts.",
+    "Hourly rivals look cheap but cost more.",
+    "Committing can slash your GPU costs.",
+    "Ask your team to calculate the savings."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $800M bet\n\nInvestors just handed Together AI nearly a billion dollars. The catch? They're not building the next ChatGPT.",
+        "2. Not hourly anymore\n\nMost GPU rentals charge by the clock. Together AI is flipping that model: lower upfront price for locked-in months.",
+        "3. Commit to win\n\nYour per-GPU cost drops the longer you commit. A 12-month contract beats spot pricing by a wide margin.",
+        "4. The real cost trap\n\nShort-term GPU rental looks cheap. Add up the total over a training run and the savings from a longer deal hit 40%.",
+        "5. Ask your team\n\nRun the numbers on your next training project. Would a 6-month GPU deal change your cost per experiment?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Together AI raised 800 million dollars.",
+        "They rent GPUs for longer contracts.",
+        "Hourly rivals look cheap but cost more.",
+        "Committing can slash your GPU costs.",
+        "Ask your team to calculate the savings."
+      ]
+    },
+    "instagram": {
+      "caption": "Committed to a GPU contract for a year, and your costs could drop by 40%—that’s the new math. ☝️\n\nTogether AI just raised $800M betting big on ‘neocloud’ infrastructure. Instead of renting chips by the hour like rivals, they lock clients into longer contracts for much lower prices.\n\nFor content teams, this could slash your training experiment budget—turning short-term spot rentals into a costly habit.\n\nAsk your infra team: would a 6-month deal cut your next project’s budget? 💸"
+    }
+  },
+  "instagram_caption": "Committed to a GPU contract for a year, and your costs could drop by 40%—that’s the new math. ☝️\n\nTogether AI just raised $800M betting big on ‘neocloud’ infrastructure. Instead of renting chips by the hour like rivals, they lock clients into longer contracts for much lower prices.\n\nFor content teams, this could slash your training experiment budget—turning short-term spot rentals into a costly habit.\n\nAsk your infra team: would a 6-month deal cut your next project’s budget? 💸",
+  "carousel_slides": [
+    {
+      "hook": "Commit now or pay 40% more?",
+      "description": "Together AI raised $800M by promising long GPU contracts, which cut costs dramatically for clients.",
+      "visual_hint": "GPU server racks glowing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Not renting by the hour anymore",
+      "description": "Instead of hourly GPU rentals, Together AI locks clients into longer deals for lower per-unit costs.",
+      "visual_hint": "Hourly clock vs multi-month calendar",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your GPU cost drops with commitment",
+      "description": "A 12-month contract beats spot pricing significantly, slashing per-GPU expenses as length increases.",
+      "visual_hint": "Price graph trending downward",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Short-term rental is a cost trap",
+      "description": "Add up GPU costs over a full training run; longer deals save up to 40% compared to hourly rentals.",
+      "visual_hint": "Calculator with big savings number",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "power plant",
+      "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — ask your infra team now",
+      "description": "Run the numbers on your next project: would a 6-month GPU deal cut your cost per experiment?",
+      "visual_hint": "Team meeting around a whiteboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Together-AI-founders-Percy-Liang-CEO-Vipul-Ved-Prakash-CTO-Ce-Zhang.jpg?resize=1200,800",
+  "savedAt": "2026-07-01T19:41:04.350Z",
+  "sourceId": "ce32b0451075ca8278b4fe76755431f4"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "lime-begins-life-as-a-public-company-after-years-o",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Lime begins life as a public company after years of uncertainty",
+  "link": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/",
+  "pubDate": "Wed, 01 Jul 2026 18:24:00 +0000",
+  "slides": [
+    "Can a dockless scooter company finally turn a profit?",
+    "Lime quietly filed for an IPO with positive unit economics.",
+    "Despite 95% of rides being under 15 minutes per trip.",
+    "You now get route-based pricing, not just per-minute rates.",
+    "Test the new fare in your city before your next competitor does."
+  ],
+  "thread_text": [
+    "1. Is profit finally here?\n\nLime filed for IPO confidentially, claiming positive unit economics for the first time.",
+    "2. Short rides, big problem.\n\n95% of trips are under 15 minutes, making per-minute pricing a losing bet.",
+    "3. The math changed.\n\nLime now charges based on route, not just time — raising average revenue per ride.",
+    "4. Test before copy.\n\nThis route-based pricing is a live experiment, not a final product.",
+    "5. Can you beat them?\n\nRun the new fare model in your city this week, before your next competitor does."
+  ],
+  "video_script": [
+    "Lime filed for an IPO.",
+    "95% of rides are under 15 minutes.",
+    "Now they charge by route, not time.",
+    "This is a live experiment.",
+    "Test it in your city first."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Is profit finally here?\n\nLime filed for IPO confidentially, claiming positive unit economics for the first time.",
+        "2. Short rides, big problem.\n\n95% of trips are under 15 minutes, making per-minute pricing a losing bet.",
+        "3. The math changed.\n\nLime now charges based on route, not just time — raising average revenue per ride.",
+        "4. Test before copy.\n\nThis route-based pricing is a live experiment, not a final product.",
+        "5. Can you beat them?\n\nRun the new fare model in your city this week, before your next competitor does."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Lime filed for an IPO.",
+        "95% of rides are under 15 minutes.",
+        "Now they charge by route, not time.",
+        "This is a live experiment.",
+        "Test it in your city first."
+      ]
+    },
+    "instagram": {
+      "caption": "95% of Lime rides are under 15 minutes — but now you’ll pay based on the route, not just the clock.\n\nLime quietly filed for an IPO with positive unit economics for the first time. The old per-minute model was a losing bet. The new pricing raises revenue per trip by charging for the distance and path, not the time.\n\nFor you: your city's pricing is a live experiment, not a final model.\n\nCan you test this new fare in your city before your next competitor does this week? 🛴💸"
+    }
+  },
+  "instagram_caption": "95% of Lime rides are under 15 minutes — but now you’ll pay based on the route, not just the clock.\n\nLime quietly filed for an IPO with positive unit economics for the first time. The old per-minute model was a losing bet. The new pricing raises revenue per trip by charging for the distance and path, not the time.\n\nFor you: your city's pricing is a live experiment, not a final model.\n\nCan you test this new fare in your city before your next competitor does this week? 🛴💸",
+  "carousel_slides": [
+    {
+      "hook": "Finally turning a profit?",
+      "description": "Lime filed for IPO confidentially, claiming positive unit economics for the first time.",
+      "visual_hint": "Scooter near charging station",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "electric scooter charging"
+    },
+    {
+      "hook": "Short rides kill profit",
+      "description": "95% of rides are under 15 minutes, making per-minute pricing a losing strategy.",
+      "visual_hint": "Map with short routes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "city map route",
+      "image": "https://images.pexels.com/photos/8555066/pexels-photo-8555066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pricing just got smarter",
+      "description": "Now charging by route instead of time, boosting average revenue per ride significantly.",
+      "visual_hint": "Comparison of two formulas",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "digital price chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test before competitors do",
+      "description": "Route-based pricing is a live experiment, not final. Run it in your city this week.",
+      "visual_hint": "Hand tapping phone screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand on smartphone",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Comment your city below",
+      "description": "Save this post, then test Lime's new fare model in your market before rivals copy it.",
+      "visual_hint": "App store download prompt",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "app store icon",
+      "image": "https://images.pexels.com/photos/15378959/pexels-photo-15378959.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/07/image_6483441-e1657681037469.jpg?resize=1200,780",
+  "savedAt": "2026-07-01T19:41:16.887Z",
+  "sourceId": "5bc91dc4df027fdc0dda94f9cc35cc06"
+}

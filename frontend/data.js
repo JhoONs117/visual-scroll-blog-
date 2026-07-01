@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "gemini-spark-google-s-agentic-assistant-is-now-ava",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+    "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+    "pubDate": "Wed, 01 Jul 2026 14:20:19 +0000",
+    "slides": [
+      "Gemini Spark lands on Mac—but what can it do?",
+      "It acts as your agent, not just a chatbot.",
+      "It directly controls apps and files on your machine.",
+      "You can now automate repetitive desktop workflows.",
+      "Test it today by asking it to move files."
+    ],
+    "thread_text": [
+      "1. Your Mac now has an agent\n\nGemini Spark doesn't just chat—it clicks, drags, and types for you across apps and files.",
+      "2. It bypasses the keyboard\n\nYou tell it what to do, and it directly manipulates your desktop like a remote operator.",
+      "3. Workflows run themselves\n\nRepetitive tasks like renaming batches or sorting downloads happen without you touching a script.",
+      "4. No programming needed\n\nYou don't write a single line of code. The agent interprets your plain English command and executes it.",
+      "5. Test it in one minute\n\nOpen a prompt and say, “Move all PDFs from Downloads to Documents.” If it fails, what's the real obstacle?"
+    ],
+    "video_script": [
+      "Gemini Spark lands on Mac.",
+      "It acts as your agent.",
+      "It controls apps and files.",
+      "Automate repetitive workflows now.",
+      "Ask it to move files today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your Mac now has an agent\n\nGemini Spark doesn't just chat—it clicks, drags, and types for you across apps and files.",
+          "2. It bypasses the keyboard\n\nYou tell it what to do, and it directly manipulates your desktop like a remote operator.",
+          "3. Workflows run themselves\n\nRepetitive tasks like renaming batches or sorting downloads happen without you touching a script.",
+          "4. No programming needed\n\nYou don't write a single line of code. The agent interprets your plain English command and executes it.",
+          "5. Test it in one minute\n\nOpen a prompt and say, “Move all PDFs from Downloads to Documents.” If it fails, what's the real obstacle?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Gemini Spark lands on Mac.",
+          "It acts as your agent.",
+          "It controls apps and files.",
+          "Automate repetitive workflows now.",
+          "Ask it to move files today."
+        ]
+      },
+      "instagram": {
+        "caption": "Gemini Spark now directly moves files, clicks buttons, and types across apps on your Mac.\n\nIt’s an agent that acts on your desktop, not a chatbot that just answers questions. You give it a command in plain English, and it operates your machine for you.\n\nRepetitive work like sorting downloads or renaming batches now happens without scripts or programming.\n\nWhat’s the first repetitive task on your Mac you’d hand off right now? 🖱️📂 Ask it to move everything from Downloads to Documents—and see where it stops."
+      }
+    },
+    "instagram_caption": "Gemini Spark now directly moves files, clicks buttons, and types across apps on your Mac.\n\nIt’s an agent that acts on your desktop, not a chatbot that just answers questions. You give it a command in plain English, and it operates your machine for you.\n\nRepetitive work like sorting downloads or renaming batches now happens without scripts or programming.\n\nWhat’s the first repetitive task on your Mac you’d hand off right now? 🖱️📂 Ask it to move everything from Downloads to Documents—and see where it stops.",
+    "carousel_slides": [
+      {
+        "hook": "Your Mac just got an agent",
+        "description": "Gemini Spark clicks, drags, and types for you across apps and files, not just chats.",
+        "visual_hint": "Robot hand clicking mouse",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot hand computer"
+      },
+      {
+        "hook": "Skip the keyboard entirely",
+        "description": "Tell it what to do, and it manipulates your desktop like a remote operator.",
+        "visual_hint": "Finger pointing at screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "finger pointing monitor",
+        "image": "https://images.pexels.com/photos/6892714/pexels-photo-6892714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Workflows run themselves now",
+        "description": "Repetitive tasks like renaming files happen without you touching a script.",
+        "visual_hint": "Gears turning automatically",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "gears machine automation",
+        "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No code, just plain English",
+        "description": "The agent interprets your command and executes it instantly.",
+        "visual_hint": "Person talking to laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person speaking laptop",
+        "image": "https://images.pexels.com/photos/10401268/pexels-photo-10401268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it in one minute — save this",
+        "description": "Open a prompt and say: 'Move all PDFs from Downloads to Documents.'",
+        "visual_hint": "Arrow pointing download folder",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "download folder documents",
+        "image": "https://images.pexels.com/photos/8297536/pexels-photo-8297536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
+    "savedAt": "2026-07-01T19:41:41.442Z",
+    "sourceId": "5d5a6e1dac13a57c09a2279e31226ced"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "lime-begins-life-as-a-public-company-after-years-o",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Lime begins life as a public company after years of uncertainty",
+    "link": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/",
+    "pubDate": "Wed, 01 Jul 2026 18:24:00 +0000",
+    "slides": [
+      "Can a dockless scooter company finally turn a profit?",
+      "Lime quietly filed for an IPO with positive unit economics.",
+      "Despite 95% of rides being under 15 minutes per trip.",
+      "You now get route-based pricing, not just per-minute rates.",
+      "Test the new fare in your city before your next competitor does."
+    ],
+    "thread_text": [
+      "1. Is profit finally here?\n\nLime filed for IPO confidentially, claiming positive unit economics for the first time.",
+      "2. Short rides, big problem.\n\n95% of trips are under 15 minutes, making per-minute pricing a losing bet.",
+      "3. The math changed.\n\nLime now charges based on route, not just time — raising average revenue per ride.",
+      "4. Test before copy.\n\nThis route-based pricing is a live experiment, not a final product.",
+      "5. Can you beat them?\n\nRun the new fare model in your city this week, before your next competitor does."
+    ],
+    "video_script": [
+      "Lime filed for an IPO.",
+      "95% of rides are under 15 minutes.",
+      "Now they charge by route, not time.",
+      "This is a live experiment.",
+      "Test it in your city first."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Is profit finally here?\n\nLime filed for IPO confidentially, claiming positive unit economics for the first time.",
+          "2. Short rides, big problem.\n\n95% of trips are under 15 minutes, making per-minute pricing a losing bet.",
+          "3. The math changed.\n\nLime now charges based on route, not just time — raising average revenue per ride.",
+          "4. Test before copy.\n\nThis route-based pricing is a live experiment, not a final product.",
+          "5. Can you beat them?\n\nRun the new fare model in your city this week, before your next competitor does."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Lime filed for an IPO.",
+          "95% of rides are under 15 minutes.",
+          "Now they charge by route, not time.",
+          "This is a live experiment.",
+          "Test it in your city first."
+        ]
+      },
+      "instagram": {
+        "caption": "95% of Lime rides are under 15 minutes — but now you’ll pay based on the route, not just the clock.\n\nLime quietly filed for an IPO with positive unit economics for the first time. The old per-minute model was a losing bet. The new pricing raises revenue per trip by charging for the distance and path, not the time.\n\nFor you: your city's pricing is a live experiment, not a final model.\n\nCan you test this new fare in your city before your next competitor does this week? 🛴💸"
+      }
+    },
+    "instagram_caption": "95% of Lime rides are under 15 minutes — but now you’ll pay based on the route, not just the clock.\n\nLime quietly filed for an IPO with positive unit economics for the first time. The old per-minute model was a losing bet. The new pricing raises revenue per trip by charging for the distance and path, not the time.\n\nFor you: your city's pricing is a live experiment, not a final model.\n\nCan you test this new fare in your city before your next competitor does this week? 🛴💸",
+    "carousel_slides": [
+      {
+        "hook": "Finally turning a profit?",
+        "description": "Lime filed for IPO confidentially, claiming positive unit economics for the first time.",
+        "visual_hint": "Scooter near charging station",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "electric scooter charging"
+      },
+      {
+        "hook": "Short rides kill profit",
+        "description": "95% of rides are under 15 minutes, making per-minute pricing a losing strategy.",
+        "visual_hint": "Map with short routes",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "city map route",
+        "image": "https://images.pexels.com/photos/8555066/pexels-photo-8555066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pricing just got smarter",
+        "description": "Now charging by route instead of time, boosting average revenue per ride significantly.",
+        "visual_hint": "Comparison of two formulas",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "digital price chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test before competitors do",
+        "description": "Route-based pricing is a live experiment, not final. Run it in your city this week.",
+        "visual_hint": "Hand tapping phone screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand on smartphone",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Comment your city below",
+        "description": "Save this post, then test Lime's new fare model in your market before rivals copy it.",
+        "visual_hint": "App store download prompt",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "app store icon",
+        "image": "https://images.pexels.com/photos/15378959/pexels-photo-15378959.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/image_6483441-e1657681037469.jpg?resize=1200,780",
+    "savedAt": "2026-07-01T19:41:16.887Z",
+    "sourceId": "5bc91dc4df027fdc0dda94f9cc35cc06"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "neocloud-together-ai-raises-800m-leaps-to-8-3b-val",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+    "link": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+    "pubDate": "Wed, 01 Jul 2026 18:29:14 +0000",
+    "slides": [
+      "Together AI just raised $800M. What did they promise investors?",
+      "They build 'neocloud' infrastructure—renting GPUs for AI training.",
+      "Rivals rent by the hour; Together locks clients into longer contracts.",
+      "Your GPU costs just plummet if you commit to their new terms.",
+      "Ask your infra team: could a longer deal cut costs by 40%?"
+    ],
+    "thread_text": [
+      "1. The $800M bet\n\nInvestors just handed Together AI nearly a billion dollars. The catch? They're not building the next ChatGPT.",
+      "2. Not hourly anymore\n\nMost GPU rentals charge by the clock. Together AI is flipping that model: lower upfront price for locked-in months.",
+      "3. Commit to win\n\nYour per-GPU cost drops the longer you commit. A 12-month contract beats spot pricing by a wide margin.",
+      "4. The real cost trap\n\nShort-term GPU rental looks cheap. Add up the total over a training run and the savings from a longer deal hit 40%.",
+      "5. Ask your team\n\nRun the numbers on your next training project. Would a 6-month GPU deal change your cost per experiment?"
+    ],
+    "video_script": [
+      "Together AI raised 800 million dollars.",
+      "They rent GPUs for longer contracts.",
+      "Hourly rivals look cheap but cost more.",
+      "Committing can slash your GPU costs.",
+      "Ask your team to calculate the savings."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $800M bet\n\nInvestors just handed Together AI nearly a billion dollars. The catch? They're not building the next ChatGPT.",
+          "2. Not hourly anymore\n\nMost GPU rentals charge by the clock. Together AI is flipping that model: lower upfront price for locked-in months.",
+          "3. Commit to win\n\nYour per-GPU cost drops the longer you commit. A 12-month contract beats spot pricing by a wide margin.",
+          "4. The real cost trap\n\nShort-term GPU rental looks cheap. Add up the total over a training run and the savings from a longer deal hit 40%.",
+          "5. Ask your team\n\nRun the numbers on your next training project. Would a 6-month GPU deal change your cost per experiment?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Together AI raised 800 million dollars.",
+          "They rent GPUs for longer contracts.",
+          "Hourly rivals look cheap but cost more.",
+          "Committing can slash your GPU costs.",
+          "Ask your team to calculate the savings."
+        ]
+      },
+      "instagram": {
+        "caption": "Committed to a GPU contract for a year, and your costs could drop by 40%—that’s the new math. ☝️\n\nTogether AI just raised $800M betting big on ‘neocloud’ infrastructure. Instead of renting chips by the hour like rivals, they lock clients into longer contracts for much lower prices.\n\nFor content teams, this could slash your training experiment budget—turning short-term spot rentals into a costly habit.\n\nAsk your infra team: would a 6-month deal cut your next project’s budget? 💸"
+      }
+    },
+    "instagram_caption": "Committed to a GPU contract for a year, and your costs could drop by 40%—that’s the new math. ☝️\n\nTogether AI just raised $800M betting big on ‘neocloud’ infrastructure. Instead of renting chips by the hour like rivals, they lock clients into longer contracts for much lower prices.\n\nFor content teams, this could slash your training experiment budget—turning short-term spot rentals into a costly habit.\n\nAsk your infra team: would a 6-month deal cut your next project’s budget? 💸",
+    "carousel_slides": [
+      {
+        "hook": "Commit now or pay 40% more?",
+        "description": "Together AI raised $800M by promising long GPU contracts, which cut costs dramatically for clients.",
+        "visual_hint": "GPU server racks glowing",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Not renting by the hour anymore",
+        "description": "Instead of hourly GPU rentals, Together AI locks clients into longer deals for lower per-unit costs.",
+        "visual_hint": "Hourly clock vs multi-month calendar",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your GPU cost drops with commitment",
+        "description": "A 12-month contract beats spot pricing significantly, slashing per-GPU expenses as length increases.",
+        "visual_hint": "Price graph trending downward",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/29988964/pexels-photo-29988964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Short-term rental is a cost trap",
+        "description": "Add up GPU costs over a full training run; longer deals save up to 40% compared to hourly rentals.",
+        "visual_hint": "Calculator with big savings number",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "power plant",
+        "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this — ask your infra team now",
+        "description": "Run the numbers on your next project: would a 6-month GPU deal cut your cost per experiment?",
+        "visual_hint": "Team meeting around a whiteboard",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Together-AI-founders-Percy-Liang-CEO-Vipul-Ved-Prakash-CTO-Ce-Zhang.jpg?resize=1200,800",
+    "savedAt": "2026-07-01T19:41:04.350Z",
+    "sourceId": "ce32b0451075ca8278b4fe76755431f4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "spacex-has-an-ai-device-prototype-and-it-sure-soun",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "pubDate": "Wed, 01 Jul 2026 18:54:18 +0000",
+    "slides": [
+      "SpaceX built an AI device prototype. What for?",
+      "It runs neural nets locally without cloud lag.",
+      "But its form factor looks suspiciously like a smartphone.",
+      "Your next phone could be a Starlink terminal with an AI brain.",
+      "Watch for SpaceX to skip carriers—not just phones."
+    ],
+    "thread_text": [
+      "SpaceX built a prototype.\n\nIt's an AI device that runs neural nets locally, no cloud lag.",
+      "It looks like a smartphone.\n\nBut its real job is to connect directly to Starlink satellites.",
+      "Your next phone could be a Starlink terminal.\n\nWith an AI brain baked in, no carrier needed.",
+      "Watch for SpaceX to skip carriers entirely.\n\nNot just phones — any device could get this.",
+      "Ask yourself: when was the last time you needed a cell tower?\n\nIf this ships, your pocket changes the network."
+    ],
+    "video_script": [
+      "SpaceX built an AI prototype.",
+      "It runs neural nets offline.",
+      "It looks just like a phone.",
+      "Your next phone connects to Starlink.",
+      "SpaceX might cut out carriers."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "SpaceX built a prototype.\n\nIt's an AI device that runs neural nets locally, no cloud lag.",
+          "It looks like a smartphone.\n\nBut its real job is to connect directly to Starlink satellites.",
+          "Your next phone could be a Starlink terminal.\n\nWith an AI brain baked in, no carrier needed.",
+          "Watch for SpaceX to skip carriers entirely.\n\nNot just phones — any device could get this.",
+          "Ask yourself: when was the last time you needed a cell tower?\n\nIf this ships, your pocket changes the network."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "SpaceX built an AI prototype.",
+          "It runs neural nets offline.",
+          "It looks just like a phone.",
+          "Your next phone connects to Starlink.",
+          "SpaceX might cut out carriers."
+        ]
+      },
+      "instagram": {
+        "caption": "SpaceX built a prototype AI device that runs neural nets locally, no cloud lag—and it looks suspiciously like a smartphone. 📱\n\nIt connects directly to Starlink satellites, skipping cell towers entirely. Your next phone could be a Starlink terminal with an AI brain baked in.\n\nFor anyone creating or publishing content, this means anytime, anywhere connectivity with local AI processing—no carrier, no dead zones.\n\nWhen was the last time you actually needed a tower to post? 🛰️"
+      }
+    },
+    "instagram_caption": "SpaceX built a prototype AI device that runs neural nets locally, no cloud lag—and it looks suspiciously like a smartphone. 📱\n\nIt connects directly to Starlink satellites, skipping cell towers entirely. Your next phone could be a Starlink terminal with an AI brain baked in.\n\nFor anyone creating or publishing content, this means anytime, anywhere connectivity with local AI processing—no carrier, no dead zones.\n\nWhen was the last time you actually needed a tower to post? 🛰️",
+    "carousel_slides": [
+      {
+        "hook": "Your next phone without carriers?",
+        "description": "SpaceX built an AI device running neural nets locally, no cloud lag. It connects directly to Starlink satellites.",
+        "visual_hint": "Mysterious black device prototype",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "SpaceX device prototype"
+      },
+      {
+        "hook": "Smartphone look, satellite brain.",
+        "description": "The prototype looks like a smartphone but its real job is to connect to Starlink satellites as a terminal.",
+        "visual_hint": "Smartphone with satellite dish",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone with satellite",
+        "image": "https://images.pexels.com/photos/8346132/pexels-photo-8346132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No cell tower needed ever.",
+        "description": "Starlink terminal with an AI brain means direct satellite connection, skipping traditional carriers entirely.",
+        "visual_hint": "Satellite connecting to phone",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "Starlink satellite network",
+        "image": "https://images.pexels.com/photos/18901338/pexels-photo-18901338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your pocket becomes the network.",
+        "description": "Any device could get this AI-powered Starlink link, not just phones. Carriers may become obsolete.",
+        "visual_hint": "Hand holding device in pocket",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for the revolution.",
+        "description": "Check the link in bio to see how SpaceX is reshaping connectivity and why carriers should worry.",
+        "visual_hint": "Arrow pointing to link button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "link in bio icon",
+        "image": "https://images.pexels.com/photos/20131184/pexels-photo-20131184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390033.jpg?resize=1200,675",
+    "savedAt": "2026-07-01T19:40:51.115Z",
+    "sourceId": "cba85e1be003126f85c99007934c19e3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "venice-ai-becomes-a-unicorn-with-65m-series-a-as-i",
     "prompt_version": "1.0.0",
     "status": "published",

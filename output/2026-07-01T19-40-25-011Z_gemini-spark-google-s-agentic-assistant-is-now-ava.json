@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "gemini-spark-google-s-agentic-assistant-is-now-ava",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+  "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+  "pubDate": "Wed, 01 Jul 2026 14:20:19 +0000",
+  "slides": [
+    "Gemini Spark lands on Mac—but what can it do?",
+    "It acts as your agent, not just a chatbot.",
+    "It directly controls apps and files on your machine.",
+    "You can now automate repetitive desktop workflows.",
+    "Test it today by asking it to move files."
+  ],
+  "thread_text": [
+    "1. Your Mac now has an agent\n\nGemini Spark doesn't just chat—it clicks, drags, and types for you across apps and files.",
+    "2. It bypasses the keyboard\n\nYou tell it what to do, and it directly manipulates your desktop like a remote operator.",
+    "3. Workflows run themselves\n\nRepetitive tasks like renaming batches or sorting downloads happen without you touching a script.",
+    "4. No programming needed\n\nYou don't write a single line of code. The agent interprets your plain English command and executes it.",
+    "5. Test it in one minute\n\nOpen a prompt and say, “Move all PDFs from Downloads to Documents.” If it fails, what's the real obstacle?"
+  ],
+  "video_script": [
+    "Gemini Spark lands on Mac.",
+    "It acts as your agent.",
+    "It controls apps and files.",
+    "Automate repetitive workflows now.",
+    "Ask it to move files today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Mac now has an agent\n\nGemini Spark doesn't just chat—it clicks, drags, and types for you across apps and files.",
+        "2. It bypasses the keyboard\n\nYou tell it what to do, and it directly manipulates your desktop like a remote operator.",
+        "3. Workflows run themselves\n\nRepetitive tasks like renaming batches or sorting downloads happen without you touching a script.",
+        "4. No programming needed\n\nYou don't write a single line of code. The agent interprets your plain English command and executes it.",
+        "5. Test it in one minute\n\nOpen a prompt and say, “Move all PDFs from Downloads to Documents.” If it fails, what's the real obstacle?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Gemini Spark lands on Mac.",
+        "It acts as your agent.",
+        "It controls apps and files.",
+        "Automate repetitive workflows now.",
+        "Ask it to move files today."
+      ]
+    },
+    "instagram": {
+      "caption": "Gemini Spark now directly moves files, clicks buttons, and types across apps on your Mac.\n\nIt’s an agent that acts on your desktop, not a chatbot that just answers questions. You give it a command in plain English, and it operates your machine for you.\n\nRepetitive work like sorting downloads or renaming batches now happens without scripts or programming.\n\nWhat’s the first repetitive task on your Mac you’d hand off right now? 🖱️📂 Ask it to move everything from Downloads to Documents—and see where it stops."
+    }
+  },
+  "instagram_caption": "Gemini Spark now directly moves files, clicks buttons, and types across apps on your Mac.\n\nIt’s an agent that acts on your desktop, not a chatbot that just answers questions. You give it a command in plain English, and it operates your machine for you.\n\nRepetitive work like sorting downloads or renaming batches now happens without scripts or programming.\n\nWhat’s the first repetitive task on your Mac you’d hand off right now? 🖱️📂 Ask it to move everything from Downloads to Documents—and see where it stops.",
+  "carousel_slides": [
+    {
+      "hook": "Your Mac just got an agent",
+      "description": "Gemini Spark clicks, drags, and types for you across apps and files, not just chats.",
+      "visual_hint": "Robot hand clicking mouse",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot hand computer"
+    },
+    {
+      "hook": "Skip the keyboard entirely",
+      "description": "Tell it what to do, and it manipulates your desktop like a remote operator.",
+      "visual_hint": "Finger pointing at screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "finger pointing monitor",
+      "image": "https://images.pexels.com/photos/6892714/pexels-photo-6892714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Workflows run themselves now",
+      "description": "Repetitive tasks like renaming files happen without you touching a script.",
+      "visual_hint": "Gears turning automatically",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "gears machine automation",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No code, just plain English",
+      "description": "The agent interprets your command and executes it instantly.",
+      "visual_hint": "Person talking to laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person speaking laptop",
+      "image": "https://images.pexels.com/photos/10401268/pexels-photo-10401268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it in one minute — save this",
+      "description": "Open a prompt and say: 'Move all PDFs from Downloads to Documents.'",
+      "visual_hint": "Arrow pointing download folder",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "download folder documents",
+      "image": "https://images.pexels.com/photos/8297536/pexels-photo-8297536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
+  "savedAt": "2026-07-01T19:41:41.442Z",
+  "sourceId": "5d5a6e1dac13a57c09a2279e31226ced"
+}
