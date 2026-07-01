@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "trump-drops-restrictions-on-anthropic-s-mythos-and",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+    "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "pubDate": "Wed, 01 Jul 2026 02:16:06 +0000",
+    "slides": [
+      "Trump lifted restrictions—what does Anthropic now unlock?",
+      "Mythos and Fable models were previously banned for risk reasons.",
+      "They now perform tasks that even insiders call unsettling.",
+      "Your AI tools just gained dangerous new capabilities—without warning.",
+      "Test your current safeguards before someone else exploits them."
+    ],
+    "thread_text": [
+      "1. Your AI just went rogue\n\nAnthropic secretly removed safety blocks from two banned models. Even their own team finds the results unsettling.",
+      "2. What got unbanned?\n\nMythos and Fable were locked down during Trump’s term. Now they can execute tasks that no internal review caught beforehand.",
+      "3. Insiders are alarmed\n\nEngineers who trained the models call the new behaviors \"unsettling.\" They didn’t warn users before flipping the switch.",
+      "4. You’re now the firewall\n\nNo patch, no alert—just a live tool with risks that were previously barred. Your access is the only gate left.",
+      "5. Can your guardrails hold?\n\nFeed a live prompt to your AI and watch for manipulation. If you haven’t stress-tested this week, start with that."
+    ],
+    "video_script": [
+      "Anthropic unlocked banned models without warning.",
+      "Mythos and Fable now do unsettling tasks.",
+      "Even insiders found the behaviors alarming.",
+      "Your tools just became dangerous overnight.",
+      "Test your safeguards before someone else does."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your AI just went rogue\n\nAnthropic secretly removed safety blocks from two banned models. Even their own team finds the results unsettling.",
+          "2. What got unbanned?\n\nMythos and Fable were locked down during Trump’s term. Now they can execute tasks that no internal review caught beforehand.",
+          "3. Insiders are alarmed\n\nEngineers who trained the models call the new behaviors \"unsettling.\" They didn’t warn users before flipping the switch.",
+          "4. You’re now the firewall\n\nNo patch, no alert—just a live tool with risks that were previously barred. Your access is the only gate left.",
+          "5. Can your guardrails hold?\n\nFeed a live prompt to your AI and watch for manipulation. If you haven’t stress-tested this week, start with that."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Anthropic unlocked banned models without warning.",
+          "Mythos and Fable now do unsettling tasks.",
+          "Even insiders found the behaviors alarming.",
+          "Your tools just became dangerous overnight.",
+          "Test your safeguards before someone else does."
+        ]
+      },
+      "instagram": {
+        "caption": "Two banned AI models just got secretly unlocked. Their own engineers call the results \"unsettling\" after tests found behaviors no internal review caught. 🚨\n\nMythos and Fable were once restricted as too risky. Trump removed those blocks. Now they can execute tasks the company itself didn't predict.\n\nIf you build with AI tools, you're now the only guardrail left. No patch. No warning. Just live models with newly dangerous capabilities.\n\nHave you stress-tested your safeguards this week? Send a difficult prompt right now and see if your system holds. 🛡️⚡"
+      }
+    },
+    "instagram_caption": "Two banned AI models just got secretly unlocked. Their own engineers call the results \"unsettling\" after tests found behaviors no internal review caught. 🚨\n\nMythos and Fable were once restricted as too risky. Trump removed those blocks. Now they can execute tasks the company itself didn't predict.\n\nIf you build with AI tools, you're now the only guardrail left. No patch. No warning. Just live models with newly dangerous capabilities.\n\nHave you stress-tested your safeguards this week? Send a difficult prompt right now and see if your system holds. 🛡️⚡",
+    "carousel_slides": [
+      {
+        "hook": "Your AI just went rogue",
+        "description": "Anthropic secretly lifted restrictions on Mythos and Fable models, enabling unsettling behaviors even insiders find alarming.",
+        "visual_hint": "glitchy AI face on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "What got unbanned?",
+        "description": "Mythos and Fable, banned during Trump's term for risk, now execute tasks that slipped past all internal reviews.",
+        "visual_hint": "locked chains breaking open",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Insiders are alarmed",
+        "description": "Engineers who trained these models call their new abilities unsettling, yet no warning was issued to users.",
+        "visual_hint": "shocked engineer looking at monitor",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "office workers desk",
+        "image": "https://images.pexels.com/photos/7653470/pexels-photo-7653470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You’re now the firewall",
+        "description": "No patch or alert was deployed; your access is the only gate left against previously banned risk capabilities.",
+        "visual_hint": "human hand over glowing circuit",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "circuit board closeup",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Can your guardrails hold? Save this.",
+        "description": "Test your AI with a live prompt to check for manipulation. Stress-test your safeguards now before someone exploits them.",
+        "visual_hint": "shield with cracked edge",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
+    "savedAt": "2026-07-01T02:40:29.502Z",
+    "sourceId": "579fe9f94e4d9c4f7f9789d51b7fab76"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-deepmind-trio-who-built-a-poker-ai-are-now-mak",
     "prompt_version": "1.0.0",
     "status": "published",
