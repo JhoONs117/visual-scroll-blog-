@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "pasta-e-patate-con-provola",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pasta e patate con provola",
+    "link": "https://ricette.giallozafferano.it/Pasta-e-patate-con-provola.html",
+    "pubDate": "Wed, 01 Jul 2026 12:50:00 +0200",
+    "content": "Pasta e patate con provola: la ricetta per farla cremosa Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Chef CHEF Primi piatti Pasta Pasta e patate con provola /5 Ricetta proposta da Roberto Di Pinto CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 557,7 Calorie per porzione Energia Kcal 557,7 Carboidrati g 80 &nbsp;&nbsp;di cui zuccheri g 5,5 Proteine g 25,3 Grassi g 14,9 &nbsp;&nbsp;di cui saturi g 7,7 Fibre g 5,8 Colesterolo mg 30,1 Sodio mg 519,7 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Vegetariano Dieta Mediterranea Difficoltà: Facile Preparazione: 30 min Cottura: 55 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Roberto Di Pinto , fondatore e anima di Sine a Milano, ci parla della sua visione gastronomica partendo da un piatto simbolo della tradizione napoletana: la pasta e patate con provola. Nel corso della chiacchierata con lo psicologo Michele Mezzanotte in occasione di una puntata del vodcast \" La ricetta che ti fa felice \", lo chef esplora la sua sfera più intima, descrivendo questa ricetta antica che gli preparava suo padre come il simbolo del suo legame sentimentale con la cucina. Si tratta di un primo piatto vellutato e dal sapore avvolgente, che si distingue dalla tipica pasta e patate alla napoletana per l'assenza di lardo e pancetta. Questa profumata versione vegetariana punta tutto sulla qualità degli ingredienti semplici per un comfort food irresistibile, adatto a tutta la famiglia. Il segreto per ottenere una pasta e patate con provola densa e cremosa ? L'utilizzo della pasta mista, che raccoglie l'amido delle patate creando una mantecatura perfetta... quella consistenza unica che a Napoli chiamano \"azzeccata\"! Ecco altre ricette di pasta e patate da fare a casa: Pasta e patate con provola e pancetta Pasta e patate di mare Pasta e patate al forno Pasta patate e prosciutto Pasta e patate alla tiella Pasta and potatoes with provola INGREDIENTI 557,7 Calorie per porzione Pasta Mista 320 g Patate gialle 300 g Provola di bufala 125 g Sedano 100 g Carote 100 g Cipolle 100 g Parmigiano Reggiano DOP 50 g Aglio 1 spicchio Basilico q.b. Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta e patate con provola Per preparare la pasta e patate con provola, per prima cosa mondate e tagliate a brunoise il sedano 1 , le carote 2 e la cipolla 3 . Sbucciate le patate e tagliatene la maggior parte a cubetti 4 ; affettate finemente il resto delle patate 5 . Tritate anche uno spicchio d’aglio 6 . Scaldate un filo d’olio in un’ampia casseruola 7 , poi unite cipolla, carote e sedano 8 e lasciate rosolare dolcemente per circa 10 minuti, mescolando spesso 9 . Aggiungete sia le patate a cubetti 10 che quelle tagliate sottili 11 , poi salate 12 . Insaporite anche con il pepe 13 e l’aglio tritato 14 . Cuocete a fuoco medio-basso per 5 minuti. Iniziate poi ad aggiungere poca acqua calda alla volta 15 e proseguite la cottura per circa 25 minuti, fino a quando le patate saranno morbide e inizieranno a sfaldarsi creando una consistenza cremosa. A questo punto unite la pasta 16 e portatela a cottura mescolando spesso; se necessario aggiungete ancora acqua durante la cottura 17 . Regolate infine di sale 18 . Aggiustate di pepe a piacere 19 . Quando la pasta sarà pronta e ben cremosa, aggiungete il Parmigiano Reggiano grattugiato 20 , quindi amalgamate accuratamente 21 . Profumate con foglie di basilico 22 e mescolate un'ultima volta. Ora tagliate la provola a cubetti 23 e distribuitela sul fondo dei piatti 24 . Versate sopra la pasta e patate ben calda 25 e completate con qualche fogliolina di basilico fresco 26 . Servite subito la vostra pasta e patate con provola 27 ! Conservazione E' preferibile consumare subito la pasta e patate con provola. Si sconsiglia la congelazione. Consiglio Se non riuscite a reperire la pasta mista potete usare altri formati come ditalini rigati e pipe. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Basilico Patate Aglio Sedano Pasta Olio di oliva Cipolla Provola Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta e patate con provola 5.0 Fiori di zucca ripieni vegetariani 5.0 Arancini con fagiolini 5.0 SCOPRI Pasta e patate con provola Pasta e patate al forno Pasta e patate alla napoletana Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Pasta e patate con provola: cremosa senza panna",
+      "Pasta mista, patate, provola, parmigiano, sedano",
+      "Taglia le patate a cubetti e a fettine",
+      "Cuoci le patate fino a sfaldarle in crema",
+      "Distribuisci provola a cubetti sul fondo"
+    ],
+    "instagram_caption": "Pasta e patate con provola: il piatto che abbraccia l’anima. Cremosa senza panna, grazie ai cubetti di patate che si sfaldano in una nuvola di sapore. Sedano e parmigiano fanno da sfondo, la provola a cubetti sul fondo si scioglie e fila: è pura felicità in forchetta. Provala questo weekend 🌿🍝💛",
+    "formats": {
+      "instagram": {
+        "caption": "Pasta e patate con provola: il piatto che abbraccia l’anima. Cremosa senza panna, grazie ai cubetti di patate che si sfaldano in una nuvola di sapore. Sedano e parmigiano fanno da sfondo, la provola a cubetti sul fondo si scioglie e fila: è pura felicità in forchetta. Provala questo weekend 🌿🍝💛"
+      },
+      "tiktok": {
+        "script": [
+          "Pasta e patate, cremosa senza panna.",
+          "Pasta mista, patate, provola e parmigiano.",
+          "Taglio patate a cubetti e a fettine.",
+          "Cuocio patate fino a farne una crema.",
+          "Metto provola a cubetti sul fondo."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Cremosa senza panna, ma che sa di Calabria dentro. Questa pasta e patate con provola è un abbraccio che non ti aspetti. Pronto a scoprire come si fa?",
+          "Pasta mista, patate, provola, parmigiano e sedano. Niente di più. Ma il gesto che cambia tutto? Taglia le patate a cubetti e a fettine: due consistenze, una sola anima.",
+          "Le fettine le cuoci fino a sfaldarle in crema, i cubetti restano piccoli scrigni. È lì che nasce la magia: niente panna, solo patate che si sciolgono.",
+          "A fine cottura, distribuisci la provola a cubetti sul fondo della zuppiera. Il calore la fonde senza strafare: fila, non cola. Poi mescoli tutto e impiatti.",
+          "Senza panna, con un solo trucco: le fettine di patate che si sfaldano. Fai così, e quella crema viene da sola. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Pasta e patate, cremosa senza panna.",
+      "Pasta mista, patate, provola e parmigiano.",
+      "Taglio patate a cubetti e a fettine.",
+      "Cuocio patate fino a farne una crema.",
+      "Metto provola a cubetti sul fondo."
+    ],
+    "thread_text": [
+      "Cremosa senza panna, ma che sa di Calabria dentro. Questa pasta e patate con provola è un abbraccio che non ti aspetti. Pronto a scoprire come si fa?",
+      "Pasta mista, patate, provola, parmigiano e sedano. Niente di più. Ma il gesto che cambia tutto? Taglia le patate a cubetti e a fettine: due consistenze, una sola anima.",
+      "Le fettine le cuoci fino a sfaldarle in crema, i cubetti restano piccoli scrigni. È lì che nasce la magia: niente panna, solo patate che si sciolgono.",
+      "A fine cottura, distribuisci la provola a cubetti sul fondo della zuppiera. Il calore la fonde senza strafare: fila, non cola. Poi mescoli tutto e impiatti.",
+      "Senza panna, con un solo trucco: le fettine di patate che si sfaldano. Fai così, e quella crema viene da sola. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Cremosa senza panna",
+        "description": "Pasta e patate diventa vellutata grazie alla provola sciolta: il comfort food napoletano che conquista tutti.",
+        "visual_hint": "Pasta cremosa in forchetta",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory pasta potatoes"
+      },
+      {
+        "hook": "4 ingredienti chiave",
+        "description": "Pasta mista, patate, provola affumicata e parmigiano: pochi elementi, un’esplosione di sapore.",
+        "visual_hint": "Ingredienti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory cheesy potatoes",
+        "image": "https://images.pexels.com/photos/37226786/pexels-photo-37226786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Patate a cubetti e a fettine",
+        "description": "Taglia le patate in due formati: cubetti per la consistenza, fettine che si sfalderanno in crema.",
+        "visual_hint": "Mani che tagliano patate",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "hands cutting potatoes",
+        "image": "https://images.pexels.com/photos/5377337/pexels-photo-5377337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sfaldale fino a crema",
+        "description": "Cuoci le patate a fettine finché non si spappolano: ecco la magia senza panna né latte.",
+        "visual_hint": "Pentola con patate che sfuma",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "potatoes boiling creamy",
+        "image": "https://images.pexels.com/photos/4210814/pexels-photo-4210814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Provola sul fondo, poi mescola",
+        "description": "Metti cubetti di provola nel piatto, versa la pasta bollente: il calore la scioglie all’istante.",
+        "visual_hint": "Piatto con provola fusa",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory melted provola pasta",
+        "image": "https://images.pexels.com/photos/25524076/pexels-photo-25524076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "pasta mista",
+      "patate",
+      "provola"
+    ],
+    "image": "https://www.giallozafferano.it/images/361-36148/Pasta-e-patate-con-provola_650x433_wm.jpg",
+    "savedAt": "2026-07-01T16:23:14.726Z",
+    "sourceId": "183e214892f493ae163b108bf0c785a3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "pasta-con-crema-di-zucchine-acciughe-e-pangrattato",
     "prompt_version": "1.0.0",
     "status": "published",

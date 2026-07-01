@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "japan-s-answer-to-its-worker-shortage-an-ai-model-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Japan’s answer to its worker shortage: An AI model for 10 million robots",
+  "link": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/",
+  "pubDate": "Wed, 01 Jul 2026 11:00:00 +0000",
+  "slides": [
+    "How will Japan fill 10 million job vacancies?",
+    "A single large AI model will control all robots.",
+    "This model already drives factory and care robots.",
+    "Your job may transform, not vanish—at first.",
+    "Test which tasks an AI robot can do today."
+  ],
+  "thread_text": [
+    "1. 10 million jobs, zero people\n\nJapan has 1.6 robots per worker already. The gap is not a prediction—it is today’s count.",
+    "2. One brain for all bots\n\nA single AI model already controls factory arms and care home assistants. No more separate software per machine.",
+    "3. Your title stays, your tasks shift\n\nThat model can fold laundry and weld steel. Your role will swap admin for oversight.",
+    "4. The invisible takeover\n\nYou won’t see a robot replace you. You will see your daily checklist shrink, task by task.",
+    "5. Run the test this week\n\nPick one recurring task you do. Ask an AI robot demo if it can complete it. Does it pass?"
+  ],
+  "video_script": [
+    "Japan faces ten million empty roles.",
+    "One AI model runs all robots now.",
+    "It drives factory and care robots.",
+    "Your job changes, not disappears.",
+    "Test what AI can do today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. 10 million jobs, zero people\n\nJapan has 1.6 robots per worker already. The gap is not a prediction—it is today’s count.",
+        "2. One brain for all bots\n\nA single AI model already controls factory arms and care home assistants. No more separate software per machine.",
+        "3. Your title stays, your tasks shift\n\nThat model can fold laundry and weld steel. Your role will swap admin for oversight.",
+        "4. The invisible takeover\n\nYou won’t see a robot replace you. You will see your daily checklist shrink, task by task.",
+        "5. Run the test this week\n\nPick one recurring task you do. Ask an AI robot demo if it can complete it. Does it pass?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Japan faces ten million empty roles.",
+        "One AI model runs all robots now.",
+        "It drives factory and care robots.",
+        "Your job changes, not disappears.",
+        "Test what AI can do today."
+      ]
+    },
+    "instagram": {
+      "caption": "Japan is already running 1.6 robots for every human worker—and it needs to fill 10 million more job vacancies.\n\nA single AI brain now controls factory arms and care home assistants. No more separate software for each machine.\n\nYour job title might stay the same, but your tasks will shift from doing to overseeing. That model can fold laundry and weld steel.\n\nFor content creators: the daily checklist of repetitive tasks will shrink, one by one 🧾🤖\n\nPick one recurring task you do right now. Could an AI robot complete it? 🧰"
+    }
+  },
+  "instagram_caption": "Japan is already running 1.6 robots for every human worker—and it needs to fill 10 million more job vacancies.\n\nA single AI brain now controls factory arms and care home assistants. No more separate software for each machine.\n\nYour job title might stay the same, but your tasks will shift from doing to overseeing. That model can fold laundry and weld steel.\n\nFor content creators: the daily checklist of repetitive tasks will shrink, one by one 🧾🤖\n\nPick one recurring task you do right now. Could an AI robot complete it? 🧰",
+  "carousel_slides": [
+    {
+      "hook": "Your job won't vanish—yet.",
+      "description": "Japan has 1.6 robots per worker already, with 10 million vacancies to fill. The shift is real.",
+      "visual_hint": "Factory robot arm close-up",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "industrial robot arm"
+    },
+    {
+      "hook": "One brain rules all bots.",
+      "description": "A single AI model controls factory arms and care home assistants. No separate software per machine.",
+      "visual_hint": "Dashboard with robot icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It folds laundry and welds.",
+      "description": "That model already works in factories and care homes. Your role will shift to oversight.",
+      "visual_hint": "Robot folding white towel",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "care home robot assistant",
+      "image": "https://images.pexels.com/photos/9534649/pexels-photo-9534649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your checklist shrinks daily.",
+      "description": "You won't see a replacement. Tasks vanish one by one until your role changes completely.",
+      "visual_hint": "Person with shrinking to-do list",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office worker puzzle",
+      "image": "https://images.pexels.com/photos/10981235/pexels-photo-10981235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test your task.",
+      "description": "Pick one recurring task you do. Ask an AI robot demo if it can complete it. Try it now.",
+      "visual_hint": "Phone screen with robot test",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "robot hand reaching",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-01T16:18:50.825Z",
+  "sourceId": "5a1ca7a069b108998ea3f3ecf1ae770c"
+}

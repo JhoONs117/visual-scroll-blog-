@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "bank-of-england-reviews-ai-rules-for-agentic-ai-in",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Bank of England reviews AI rules for agentic AI in finance",
+  "link": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
+  "pubDate": "Wed, 01 Jul 2026 10:00:00 +0000",
+  "slides": [
+    "Will the Bank of England rewrite its AI rules for agents?",
+    "It is reviewing how agentic AI acts in finance.",
+    "Current regulations don't cover autonomous AI decisions.",
+    "Your firm must assess AI governance gaps now.",
+    "Test your compliance before the new rules arrive."
+  ],
+  "thread_text": [
+    "1. Regulators caught off guard\n\nAgentic AI already executes trades without human oversight. The Bank of England admits its rules don't cover this.",
+    "2. No brake pedal exists\n\nCurrent regulations treat AI like a calculator, not an autonomous agent. A machine can now move money without authorization.",
+    "3. Your compliance is obsolete\n\nIf your firm uses any AI that outputs actions, you are likely in a regulatory blind spot today.",
+    "4. The new rules will bite\n\nExpect mandatory audit trails for every AI decision. No grandfather clause for existing systems.",
+    "5. Audit one AI agent today\n\nPick the most autonomous tool your team uses. Can you prove it never acted without review?"
+  ],
+  "video_script": [
+    "Bank of England reviews rules for agentic AI.",
+    "Current laws don't cover autonomous decisions.",
+    "Your firm may be in a governance blind spot.",
+    "New rules will demand audit trails.",
+    "Test your most autonomous AI agent today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Regulators caught off guard\n\nAgentic AI already executes trades without human oversight. The Bank of England admits its rules don't cover this.",
+        "2. No brake pedal exists\n\nCurrent regulations treat AI like a calculator, not an autonomous agent. A machine can now move money without authorization.",
+        "3. Your compliance is obsolete\n\nIf your firm uses any AI that outputs actions, you are likely in a regulatory blind spot today.",
+        "4. The new rules will bite\n\nExpect mandatory audit trails for every AI decision. No grandfather clause for existing systems.",
+        "5. Audit one AI agent today\n\nPick the most autonomous tool your team uses. Can you prove it never acted without review?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Bank of England reviews rules for agentic AI.",
+        "Current laws don't cover autonomous decisions.",
+        "Your firm may be in a governance blind spot.",
+        "New rules will demand audit trails.",
+        "Test your most autonomous AI agent today."
+      ]
+    },
+    "instagram": {
+      "caption": "The Bank of England is reviewing its rules because current regulations don't cover autonomous AI decisions—like machines executing trades without human oversight.\n\nYour compliance framework treats AI like a calculator, not an agent that can move money independently. If your AI outputs actions, you're likely in a blind spot today.\n\nExpect mandatory audit trails for every AI decision, with no grandfather clause for existing systems.\n\nCan you prove your most autonomous tool never acted without human review? Pick it, check it now 🧾🔍"
+    }
+  },
+  "instagram_caption": "The Bank of England is reviewing its rules because current regulations don't cover autonomous AI decisions—like machines executing trades without human oversight.\n\nYour compliance framework treats AI like a calculator, not an agent that can move money independently. If your AI outputs actions, you're likely in a blind spot today.\n\nExpect mandatory audit trails for every AI decision, with no grandfather clause for existing systems.\n\nCan you prove your most autonomous tool never acted without human review? Pick it, check it now 🧾🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your AI can move money alone.",
+      "description": "Agentic AI executes trades without human oversight. The Bank of England admits its rules don't cover this.",
+      "visual_hint": "Robot hand pressing button",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot arm trading"
+    },
+    {
+      "hook": "No brake pedal exists.",
+      "description": "Current regulations treat AI like a calculator, not an autonomous agent. A machine can move money without authorization.",
+      "visual_hint": "Broken brake pedal",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "broken car pedal",
+      "image": "https://images.pexels.com/photos/4480515/pexels-photo-4480515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your compliance is obsolete.",
+      "description": "If your firm uses AI that outputs actions, you are likely in a regulatory blind spot today.",
+      "visual_hint": "Outdated paper documents",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "old documents stack",
+      "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "New rules will bite hard.",
+      "description": "Expect mandatory audit trails for every AI decision. No grandfather clause for existing systems.",
+      "visual_hint": "Gavel and legal books",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "gavel law books",
+      "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit one AI agent today.",
+      "description": "Pick the most autonomous tool your team uses. Can you prove it never acted without review?",
+      "visual_hint": "Magnifying glass on code",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass code",
+      "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-01T16:19:03.994Z",
+  "sourceId": "6bdca66a3c2cea8aa229a1e0fe181079"
+}

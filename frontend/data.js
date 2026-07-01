@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "venice-ai-becomes-a-unicorn-with-65m-series-a-as-i",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+    "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+    "pubDate": "Wed, 01 Jul 2026 14:25:23 +0000",
+    "slides": [
+      "Can a privacy-first AI really win against OpenAI?",
+      "Venice AI just raised $65M at unicorn valuation.",
+      "Its users grew 10x without collecting any personal data.",
+      "You can now get custom AI without surrendering privacy.",
+      "Try Venice today: your data stays yours alone."
+    ],
+    "thread_text": [
+      "1. Who needs your data?\n\nVenice AI hit a $65M valuation after users grew 10x — with zero personal data collected.",
+      "2. The OpenAI comparison trap.\n\nMost AI models harvest your inputs to improve. Venice breaks that model entirely.",
+      "3. Custom AI without the catch.\n\nSwitching costs drop when privacy isn't the price. You own your prompts and outputs.",
+      "4. The growth signal.\n\nA 10x user spike without ads or data mining shows demand for a different contract.",
+      "5. Test the difference today.\n\nRun the same prompt on ChatGPT and Venice. Compare what each saves about you."
+    ],
+    "video_script": [
+      "Venice AI raised 65 million dollars.",
+      "Their users grew ten times faster.",
+      "They collect zero personal data.",
+      "Custom AI without privacy trade-offs.",
+      "Try it now — your data stays yours."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who needs your data?\n\nVenice AI hit a $65M valuation after users grew 10x — with zero personal data collected.",
+          "2. The OpenAI comparison trap.\n\nMost AI models harvest your inputs to improve. Venice breaks that model entirely.",
+          "3. Custom AI without the catch.\n\nSwitching costs drop when privacy isn't the price. You own your prompts and outputs.",
+          "4. The growth signal.\n\nA 10x user spike without ads or data mining shows demand for a different contract.",
+          "5. Test the difference today.\n\nRun the same prompt on ChatGPT and Venice. Compare what each saves about you."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Venice AI raised 65 million dollars.",
+          "Their users grew ten times faster.",
+          "They collect zero personal data.",
+          "Custom AI without privacy trade-offs.",
+          "Try it now — your data stays yours."
+        ]
+      },
+      "instagram": {
+        "caption": "Your AI doesn't need your search history, location, or email to work.\n\nVenice AI just hit a $65 million valuation. Why? Users grew 10x while they collected **zero** personal data.\n\nNo scraping your prompts, no selling your outputs. 👀\n\nFor creators: every conversation you have with this AI stays yours. Not fed into the next model update.\n\nIf you could run the same prompt on ChatGPT and Venice and keep the results only in one place… which would you trust with your next project? 🛡️"
+      }
+    },
+    "instagram_caption": "Your AI doesn't need your search history, location, or email to work.\n\nVenice AI just hit a $65 million valuation. Why? Users grew 10x while they collected **zero** personal data.\n\nNo scraping your prompts, no selling your outputs. 👀\n\nFor creators: every conversation you have with this AI stays yours. Not fed into the next model update.\n\nIf you could run the same prompt on ChatGPT and Venice and keep the results only in one place… which would you trust with your next project? 🛡️",
+    "carousel_slides": [
+      {
+        "hook": "Who needs your data?",
+        "description": "Venice AI hit a $65M valuation after users grew 10x — with zero personal data collected.",
+        "visual_hint": "Silhouette on digital globe",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "OpenAI's model is broken.",
+        "description": "Most AI harvests your inputs to improve. Venice breaks that entirely.",
+        "visual_hint": "Shattered lock icon",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Custom AI, zero catch.",
+        "description": "Switching costs drop when privacy isn't the price. You own your prompts and outputs.",
+        "visual_hint": "Open hand with key",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "wind turbine",
+        "image": "https://images.pexels.com/photos/14468163/pexels-photo-14468163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "10x growth without ads.",
+        "description": "A 10x user spike without ads or data mining shows demand for a different contract.",
+        "visual_hint": "Rocket chart upward",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it yourself now.",
+        "description": "Run the same prompt on ChatGPT and Venice. Compare what each saves about you.",
+        "visual_hint": "Phone with split screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/gpt-steady-v3.png?w=768",
+    "savedAt": "2026-07-01T16:19:16.081Z",
+    "sourceId": "01aa0951977394b56b5c4cc8efec06ab"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "bank-of-england-reviews-ai-rules-for-agentic-ai-in",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Bank of England reviews AI rules for agentic AI in finance",
+    "link": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
+    "pubDate": "Wed, 01 Jul 2026 10:00:00 +0000",
+    "slides": [
+      "Will the Bank of England rewrite its AI rules for agents?",
+      "It is reviewing how agentic AI acts in finance.",
+      "Current regulations don't cover autonomous AI decisions.",
+      "Your firm must assess AI governance gaps now.",
+      "Test your compliance before the new rules arrive."
+    ],
+    "thread_text": [
+      "1. Regulators caught off guard\n\nAgentic AI already executes trades without human oversight. The Bank of England admits its rules don't cover this.",
+      "2. No brake pedal exists\n\nCurrent regulations treat AI like a calculator, not an autonomous agent. A machine can now move money without authorization.",
+      "3. Your compliance is obsolete\n\nIf your firm uses any AI that outputs actions, you are likely in a regulatory blind spot today.",
+      "4. The new rules will bite\n\nExpect mandatory audit trails for every AI decision. No grandfather clause for existing systems.",
+      "5. Audit one AI agent today\n\nPick the most autonomous tool your team uses. Can you prove it never acted without review?"
+    ],
+    "video_script": [
+      "Bank of England reviews rules for agentic AI.",
+      "Current laws don't cover autonomous decisions.",
+      "Your firm may be in a governance blind spot.",
+      "New rules will demand audit trails.",
+      "Test your most autonomous AI agent today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Regulators caught off guard\n\nAgentic AI already executes trades without human oversight. The Bank of England admits its rules don't cover this.",
+          "2. No brake pedal exists\n\nCurrent regulations treat AI like a calculator, not an autonomous agent. A machine can now move money without authorization.",
+          "3. Your compliance is obsolete\n\nIf your firm uses any AI that outputs actions, you are likely in a regulatory blind spot today.",
+          "4. The new rules will bite\n\nExpect mandatory audit trails for every AI decision. No grandfather clause for existing systems.",
+          "5. Audit one AI agent today\n\nPick the most autonomous tool your team uses. Can you prove it never acted without review?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Bank of England reviews rules for agentic AI.",
+          "Current laws don't cover autonomous decisions.",
+          "Your firm may be in a governance blind spot.",
+          "New rules will demand audit trails.",
+          "Test your most autonomous AI agent today."
+        ]
+      },
+      "instagram": {
+        "caption": "The Bank of England is reviewing its rules because current regulations don't cover autonomous AI decisions—like machines executing trades without human oversight.\n\nYour compliance framework treats AI like a calculator, not an agent that can move money independently. If your AI outputs actions, you're likely in a blind spot today.\n\nExpect mandatory audit trails for every AI decision, with no grandfather clause for existing systems.\n\nCan you prove your most autonomous tool never acted without human review? Pick it, check it now 🧾🔍"
+      }
+    },
+    "instagram_caption": "The Bank of England is reviewing its rules because current regulations don't cover autonomous AI decisions—like machines executing trades without human oversight.\n\nYour compliance framework treats AI like a calculator, not an agent that can move money independently. If your AI outputs actions, you're likely in a blind spot today.\n\nExpect mandatory audit trails for every AI decision, with no grandfather clause for existing systems.\n\nCan you prove your most autonomous tool never acted without human review? Pick it, check it now 🧾🔍",
+    "carousel_slides": [
+      {
+        "hook": "Your AI can move money alone.",
+        "description": "Agentic AI executes trades without human oversight. The Bank of England admits its rules don't cover this.",
+        "visual_hint": "Robot hand pressing button",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot arm trading"
+      },
+      {
+        "hook": "No brake pedal exists.",
+        "description": "Current regulations treat AI like a calculator, not an autonomous agent. A machine can move money without authorization.",
+        "visual_hint": "Broken brake pedal",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "broken car pedal",
+        "image": "https://images.pexels.com/photos/4480515/pexels-photo-4480515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your compliance is obsolete.",
+        "description": "If your firm uses AI that outputs actions, you are likely in a regulatory blind spot today.",
+        "visual_hint": "Outdated paper documents",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "old documents stack",
+        "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "New rules will bite hard.",
+        "description": "Expect mandatory audit trails for every AI decision. No grandfather clause for existing systems.",
+        "visual_hint": "Gavel and legal books",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "gavel law books",
+        "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit one AI agent today.",
+        "description": "Pick the most autonomous tool your team uses. Can you prove it never acted without review?",
+        "visual_hint": "Magnifying glass on code",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "magnifying glass code",
+        "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-01T16:19:03.994Z",
+    "sourceId": "6bdca66a3c2cea8aa229a1e0fe181079"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "japan-s-answer-to-its-worker-shortage-an-ai-model-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Japan’s answer to its worker shortage: An AI model for 10 million robots",
+    "link": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/",
+    "pubDate": "Wed, 01 Jul 2026 11:00:00 +0000",
+    "slides": [
+      "How will Japan fill 10 million job vacancies?",
+      "A single large AI model will control all robots.",
+      "This model already drives factory and care robots.",
+      "Your job may transform, not vanish—at first.",
+      "Test which tasks an AI robot can do today."
+    ],
+    "thread_text": [
+      "1. 10 million jobs, zero people\n\nJapan has 1.6 robots per worker already. The gap is not a prediction—it is today’s count.",
+      "2. One brain for all bots\n\nA single AI model already controls factory arms and care home assistants. No more separate software per machine.",
+      "3. Your title stays, your tasks shift\n\nThat model can fold laundry and weld steel. Your role will swap admin for oversight.",
+      "4. The invisible takeover\n\nYou won’t see a robot replace you. You will see your daily checklist shrink, task by task.",
+      "5. Run the test this week\n\nPick one recurring task you do. Ask an AI robot demo if it can complete it. Does it pass?"
+    ],
+    "video_script": [
+      "Japan faces ten million empty roles.",
+      "One AI model runs all robots now.",
+      "It drives factory and care robots.",
+      "Your job changes, not disappears.",
+      "Test what AI can do today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. 10 million jobs, zero people\n\nJapan has 1.6 robots per worker already. The gap is not a prediction—it is today’s count.",
+          "2. One brain for all bots\n\nA single AI model already controls factory arms and care home assistants. No more separate software per machine.",
+          "3. Your title stays, your tasks shift\n\nThat model can fold laundry and weld steel. Your role will swap admin for oversight.",
+          "4. The invisible takeover\n\nYou won’t see a robot replace you. You will see your daily checklist shrink, task by task.",
+          "5. Run the test this week\n\nPick one recurring task you do. Ask an AI robot demo if it can complete it. Does it pass?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Japan faces ten million empty roles.",
+          "One AI model runs all robots now.",
+          "It drives factory and care robots.",
+          "Your job changes, not disappears.",
+          "Test what AI can do today."
+        ]
+      },
+      "instagram": {
+        "caption": "Japan is already running 1.6 robots for every human worker—and it needs to fill 10 million more job vacancies.\n\nA single AI brain now controls factory arms and care home assistants. No more separate software for each machine.\n\nYour job title might stay the same, but your tasks will shift from doing to overseeing. That model can fold laundry and weld steel.\n\nFor content creators: the daily checklist of repetitive tasks will shrink, one by one 🧾🤖\n\nPick one recurring task you do right now. Could an AI robot complete it? 🧰"
+      }
+    },
+    "instagram_caption": "Japan is already running 1.6 robots for every human worker—and it needs to fill 10 million more job vacancies.\n\nA single AI brain now controls factory arms and care home assistants. No more separate software for each machine.\n\nYour job title might stay the same, but your tasks will shift from doing to overseeing. That model can fold laundry and weld steel.\n\nFor content creators: the daily checklist of repetitive tasks will shrink, one by one 🧾🤖\n\nPick one recurring task you do right now. Could an AI robot complete it? 🧰",
+    "carousel_slides": [
+      {
+        "hook": "Your job won't vanish—yet.",
+        "description": "Japan has 1.6 robots per worker already, with 10 million vacancies to fill. The shift is real.",
+        "visual_hint": "Factory robot arm close-up",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "industrial robot arm"
+      },
+      {
+        "hook": "One brain rules all bots.",
+        "description": "A single AI model controls factory arms and care home assistants. No separate software per machine.",
+        "visual_hint": "Dashboard with robot icons",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It folds laundry and welds.",
+        "description": "That model already works in factories and care homes. Your role will shift to oversight.",
+        "visual_hint": "Robot folding white towel",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "care home robot assistant",
+        "image": "https://images.pexels.com/photos/9534649/pexels-photo-9534649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your checklist shrinks daily.",
+        "description": "You won't see a replacement. Tasks vanish one by one until your role changes completely.",
+        "visual_hint": "Person with shrinking to-do list",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office worker puzzle",
+        "image": "https://images.pexels.com/photos/10981235/pexels-photo-10981235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: test your task.",
+        "description": "Pick one recurring task you do. Ask an AI robot demo if it can complete it. Try it now.",
+        "visual_hint": "Phone screen with robot test",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "robot hand reaching",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-01T16:18:50.825Z",
+    "sourceId": "5a1ca7a069b108998ea3f3ecf1ae770c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "deploying-retail-ai-to-scale-personalisation-and-c",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Deploying retail AI to scale personalisation and customer insight",
+    "link": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
+    "pubDate": "Wed, 01 Jul 2026 15:58:43 +0000",
+    "slides": [
+      "Can retail AI truly understand each customer's intent?",
+      "Most personalisation fails because it lacks real-time data.",
+      "One chain used AI to predict unplanned purchases overnight.",
+      "Stop guessing segments—let models surface hidden demand patterns.",
+      "Run a single pilot on last month's sales to start."
+    ],
+    "thread_text": [
+      "1. Can AI read minds?\n\nOne retailer predicted unplanned purchases overnight using live data.",
+      "2. Real-time is the edge.\n\nMost personalisation fails because it uses yesterday's data, not now.",
+      "3. Stop slicing segments.\n\nInstead, let models reveal demand patterns customers haven't expressed.",
+      "4. The twist in the night.\n\nThat chain's AI caught intent most systems miss—sudden, unplanned buys.",
+      "5. Start with one pilot.\n\nPull last month's sales and run your first test. What do you find?"
+    ],
+    "video_script": [
+      "Can retail AI truly understand intent?",
+      "Most personalisation lacks real-time data.",
+      "One chain predicted unplanned buys overnight.",
+      "Stop guessing—let models surface hidden demand.",
+      "Run a pilot on last month's sales."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can AI read minds?\n\nOne retailer predicted unplanned purchases overnight using live data.",
+          "2. Real-time is the edge.\n\nMost personalisation fails because it uses yesterday's data, not now.",
+          "3. Stop slicing segments.\n\nInstead, let models reveal demand patterns customers haven't expressed.",
+          "4. The twist in the night.\n\nThat chain's AI caught intent most systems miss—sudden, unplanned buys.",
+          "5. Start with one pilot.\n\nPull last month's sales and run your first test. What do you find?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can retail AI truly understand intent?",
+          "Most personalisation lacks real-time data.",
+          "One chain predicted unplanned buys overnight.",
+          "Stop guessing—let models surface hidden demand.",
+          "Run a pilot on last month's sales."
+        ]
+      },
+      "instagram": {
+        "caption": "A major retail chain used live data to predict unplanned purchases overnight—things customers didn’t even plan to buy 💡\n\nMost personalisation fails because it relies on yesterday's info, not what's happening now. That shift from static segments to real-time signals caught intent most systems miss 🎯\n\nFor content creators: your audience's next unspoken need is already in your data—ready to surface.\n\nWhat hidden buying pattern would you find if you ran your last month's sales through a model tomorrow? 🛒"
+      }
+    },
+    "instagram_caption": "A major retail chain used live data to predict unplanned purchases overnight—things customers didn’t even plan to buy 💡\n\nMost personalisation fails because it relies on yesterday's info, not what's happening now. That shift from static segments to real-time signals caught intent most systems miss 🎯\n\nFor content creators: your audience's next unspoken need is already in your data—ready to surface.\n\nWhat hidden buying pattern would you find if you ran your last month's sales through a model tomorrow? 🛒",
+    "carousel_slides": [
+      {
+        "hook": "Can AI predict what you'll buy tonight?",
+        "description": "A retail chain used live data to forecast unplanned purchases overnight, catching intent most systems miss.",
+        "visual_hint": "night store window lit",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "storefront night"
+      },
+      {
+        "hook": "Yesterday's data kills personalisation.",
+        "description": "Most systems fail because they rely on old data, not real-time signals from the shopper now.",
+        "visual_hint": "clock with spinning hands",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "clock face",
+        "image": "https://images.pexels.com/photos/37808313/pexels-photo-37808313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop slicing segments.",
+        "description": "Let models surface hidden demand patterns customers haven't expressed, instead of guessing groups.",
+        "visual_hint": "hidden pattern emerging",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data lines graph",
+        "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "That midnight purchase predicted.",
+        "description": "The AI caught sudden, unplanned buys that traditional analytics missed entirely in real-time.",
+        "visual_hint": "receipt with time stamp",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding receipt",
+        "image": "https://images.pexels.com/photos/13431686/pexels-photo-13431686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try one pilot – save this post.",
+        "description": "Pull last month's sales data and run your first AI test. Start small today.",
+        "visual_hint": "phone with graph app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/2840651/pexels-photo-2840651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-01T16:18:36.144Z",
+    "sourceId": "b837ad910bc261306992b4cec975d8d1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "netflix-is-using-an-ai-generated-gene-wilder-voice",
     "prompt_version": "1.0.0",
     "status": "published",

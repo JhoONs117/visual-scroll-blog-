@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "deploying-retail-ai-to-scale-personalisation-and-c",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Deploying retail AI to scale personalisation and customer insight",
+  "link": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
+  "pubDate": "Wed, 01 Jul 2026 15:58:43 +0000",
+  "slides": [
+    "Can retail AI truly understand each customer's intent?",
+    "Most personalisation fails because it lacks real-time data.",
+    "One chain used AI to predict unplanned purchases overnight.",
+    "Stop guessing segments—let models surface hidden demand patterns.",
+    "Run a single pilot on last month's sales to start."
+  ],
+  "thread_text": [
+    "1. Can AI read minds?\n\nOne retailer predicted unplanned purchases overnight using live data.",
+    "2. Real-time is the edge.\n\nMost personalisation fails because it uses yesterday's data, not now.",
+    "3. Stop slicing segments.\n\nInstead, let models reveal demand patterns customers haven't expressed.",
+    "4. The twist in the night.\n\nThat chain's AI caught intent most systems miss—sudden, unplanned buys.",
+    "5. Start with one pilot.\n\nPull last month's sales and run your first test. What do you find?"
+  ],
+  "video_script": [
+    "Can retail AI truly understand intent?",
+    "Most personalisation lacks real-time data.",
+    "One chain predicted unplanned buys overnight.",
+    "Stop guessing—let models surface hidden demand.",
+    "Run a pilot on last month's sales."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can AI read minds?\n\nOne retailer predicted unplanned purchases overnight using live data.",
+        "2. Real-time is the edge.\n\nMost personalisation fails because it uses yesterday's data, not now.",
+        "3. Stop slicing segments.\n\nInstead, let models reveal demand patterns customers haven't expressed.",
+        "4. The twist in the night.\n\nThat chain's AI caught intent most systems miss—sudden, unplanned buys.",
+        "5. Start with one pilot.\n\nPull last month's sales and run your first test. What do you find?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can retail AI truly understand intent?",
+        "Most personalisation lacks real-time data.",
+        "One chain predicted unplanned buys overnight.",
+        "Stop guessing—let models surface hidden demand.",
+        "Run a pilot on last month's sales."
+      ]
+    },
+    "instagram": {
+      "caption": "A major retail chain used live data to predict unplanned purchases overnight—things customers didn’t even plan to buy 💡\n\nMost personalisation fails because it relies on yesterday's info, not what's happening now. That shift from static segments to real-time signals caught intent most systems miss 🎯\n\nFor content creators: your audience's next unspoken need is already in your data—ready to surface.\n\nWhat hidden buying pattern would you find if you ran your last month's sales through a model tomorrow? 🛒"
+    }
+  },
+  "instagram_caption": "A major retail chain used live data to predict unplanned purchases overnight—things customers didn’t even plan to buy 💡\n\nMost personalisation fails because it relies on yesterday's info, not what's happening now. That shift from static segments to real-time signals caught intent most systems miss 🎯\n\nFor content creators: your audience's next unspoken need is already in your data—ready to surface.\n\nWhat hidden buying pattern would you find if you ran your last month's sales through a model tomorrow? 🛒",
+  "carousel_slides": [
+    {
+      "hook": "Can AI predict what you'll buy tonight?",
+      "description": "A retail chain used live data to forecast unplanned purchases overnight, catching intent most systems miss.",
+      "visual_hint": "night store window lit",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "storefront night"
+    },
+    {
+      "hook": "Yesterday's data kills personalisation.",
+      "description": "Most systems fail because they rely on old data, not real-time signals from the shopper now.",
+      "visual_hint": "clock with spinning hands",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "clock face",
+      "image": "https://images.pexels.com/photos/37808313/pexels-photo-37808313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop slicing segments.",
+      "description": "Let models surface hidden demand patterns customers haven't expressed, instead of guessing groups.",
+      "visual_hint": "hidden pattern emerging",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data lines graph",
+      "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "That midnight purchase predicted.",
+      "description": "The AI caught sudden, unplanned buys that traditional analytics missed entirely in real-time.",
+      "visual_hint": "receipt with time stamp",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding receipt",
+      "image": "https://images.pexels.com/photos/13431686/pexels-photo-13431686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try one pilot – save this post.",
+      "description": "Pull last month's sales data and run your first AI test. Start small today.",
+      "visual_hint": "phone with graph app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/2840651/pexels-photo-2840651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-01T16:18:36.144Z",
+  "sourceId": "b837ad910bc261306992b4cec975d8d1"
+}
