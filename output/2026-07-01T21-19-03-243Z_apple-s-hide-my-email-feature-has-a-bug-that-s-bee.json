@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-s-hide-my-email-feature-has-a-bug-that-s-bee",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
+  "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+  "pubDate": "Wed, 01 Jul 2026 19:18:07 +0000",
+  "slides": [
+    "Apple says Hide My Email protects you, but does it?",
+    "A researcher found real addresses leaking through the feature.",
+    "The bug exposes emails you thought were completely hidden.",
+    "Your private inbox could now receive unwanted contacts.",
+    "Check your forwarded emails today for unexpected leaks."
+  ],
+  "thread_text": [
+    "1. Apple’s promise, your risk\n\nA researcher found real home addresses hidden inside forwarded emails from the Hide My Email feature.",
+    "2. The leak you didn’t see\n\nApple reroutes your mail through its servers, but a flaw sends your real address along as metadata.",
+    "3. What that means for you\n\nStrangers can now find your private inbox and contact you directly, bypassing the mask entirely.",
+    "4. Not just spam at stake\n\nAnyone with your real email can link it to your Apple ID and track your activity across sites.",
+    "5. Check your inbox now\n\nOpen any forwarded email from the past week and look for the full address in the headers. Seen it yet?"
+  ],
+  "video_script": [
+    "Apple said Hide My Email works. It doesn’t.",
+    "A researcher found real addresses leaking through.",
+    "Your hidden email reveals your personal inbox.",
+    "Unwanted contacts can now reach you directly.",
+    "Check your forwarded emails for unexpected leaks."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Apple’s promise, your risk\n\nA researcher found real home addresses hidden inside forwarded emails from the Hide My Email feature.",
+        "2. The leak you didn’t see\n\nApple reroutes your mail through its servers, but a flaw sends your real address along as metadata.",
+        "3. What that means for you\n\nStrangers can now find your private inbox and contact you directly, bypassing the mask entirely.",
+        "4. Not just spam at stake\n\nAnyone with your real email can link it to your Apple ID and track your activity across sites.",
+        "5. Check your inbox now\n\nOpen any forwarded email from the past week and look for the full address in the headers. Seen it yet?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple said Hide My Email works. It doesn’t.",
+        "A researcher found real addresses leaking through.",
+        "Your hidden email reveals your personal inbox.",
+        "Unwanted contacts can now reach you directly.",
+        "Check your forwarded emails for unexpected leaks."
+      ]
+    },
+    "instagram": {
+      "caption": "Your private email address could be sitting in the headers of every forwarded message you sent this week. 🫣\n\nApple’s Hide My Email feature has a bug that leaks your real address as metadata. A researcher found the flaw is exposing inboxes you thought were fully masked. 🕳️📧\n\nAnyone with that leaked address can link it to your Apple ID and track your activity across sites. Bypassing the mask means zero privacy from spam or stalkers.\n\nOpen one forwarded email from the last 7 days right now—can you see your real address hiding in the headers? 👀"
+    }
+  },
+  "instagram_caption": "Your private email address could be sitting in the headers of every forwarded message you sent this week. 🫣\n\nApple’s Hide My Email feature has a bug that leaks your real address as metadata. A researcher found the flaw is exposing inboxes you thought were fully masked. 🕳️📧\n\nAnyone with that leaked address can link it to your Apple ID and track your activity across sites. Bypassing the mask means zero privacy from spam or stalkers.\n\nOpen one forwarded email from the last 7 days right now—can you see your real address hiding in the headers? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Is Apple hiding your real email?",
+      "description": "Apple's Hide My Email leaked real addresses through forwarded emails, researcher says.",
+      "visual_hint": "glowing Apple logo with leak",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "apple logo leak"
+    },
+    {
+      "hook": "Your mask just got removed.",
+      "description": "A flaw sends your real address as metadata, exposing what you thought was private.",
+      "visual_hint": "email envelope with transparent address",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "email envelope metadata",
+      "image": "https://images.pexels.com/photos/6347909/pexels-photo-6347909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Strangers can now reach you.",
+      "description": "Your private inbox becomes contactable directly, bypassing Apple's protective mask.",
+      "visual_hint": "open mailbox with unknown sender",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "open mailbox stranger",
+      "image": "https://images.pexels.com/photos/29839143/pexels-photo-29839143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your Apple ID is at risk.",
+      "description": "Anyone with your real email can link it to your Apple ID and track your activity.",
+      "visual_hint": "fingerprint scanning Apple ID",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "fingerprint apple id",
+      "image": "https://images.pexels.com/photos/15378958/pexels-photo-15378958.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your inbox now to stay safe.",
+      "description": "Open any forwarded email from the past week and look for your full address in headers.",
+      "visual_hint": "checkmark on email header",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "email header check",
+      "image": "https://images.pexels.com/photos/5083396/pexels-photo-5083396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
+  "savedAt": "2026-07-01T21:19:18.620Z",
+  "sourceId": "ac7611e55beacf669456152712393ad6"
+}
